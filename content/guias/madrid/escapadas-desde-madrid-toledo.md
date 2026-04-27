@@ -3,7 +3,7 @@ titulo: "Toledo desde Madrid en 1 día: la escapada de las tres culturas"
 descripcion: "Cómo organizar Toledo en un día desde Madrid: qué visitar con criterio, cómo llegar (coche, AVE, autobús), qué evitar y por qué es la mejor escapada cerca de Madrid."
 categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
-fecha: "2026-04-27"
+fecha: "2026-04-02"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

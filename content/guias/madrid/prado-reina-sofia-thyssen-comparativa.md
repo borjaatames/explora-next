@@ -3,7 +3,7 @@ titulo: "Prado, Reina Sofía o Thyssen: a cuál ir si solo tienes tiempo para un
 descripcion: "Comparativa honesta de los tres grandes museos de Madrid: Prado, Reina Sofía y Thyssen. Cuál elegir según tu perfil, qué tiene cada uno y cuál se puede saltar."
 categoria: "madrid"
 slug: "prado-reina-sofia-thyssen-comparativa"
-fecha: "2026-04-27"
+fecha: "2026-04-16"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

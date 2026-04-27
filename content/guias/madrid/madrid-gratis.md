@@ -3,7 +3,7 @@ titulo: "Madrid gratis: cómo aprovechar la capital sin gastar un euro (con crit
 descripcion: "Guía honesta de Madrid gratis: museos sin pagar entrada, miradores libres, eventos recurrentes y barrios para pasear. Más una sección final con qué SÍ merece pagar."
 categoria: "madrid"
 slug: "madrid-gratis"
-fecha: "2026-04-26"
+fecha: "2026-03-08"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

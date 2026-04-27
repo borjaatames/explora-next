@@ -3,7 +3,7 @@ titulo: "Madrid en 3 días: la ruta con criterio para una visita culta europea"
 descripcion: "Qué ver en Madrid en 3 días pensando en una visita europea cultivada. Incluye El Escorial, Valle de Cuelgamuros, Chamberí y qué evitar."
 categoria: "madrid"
 slug: "madrid-en-3-dias"
-fecha: "2026-04-19"
+fecha: "2026-02-15"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
