@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -9,9 +10,18 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Marca */}
           <div>
-            <h3 className="font-playfair text-2xl font-bold text-white mb-3">
-              ExploraSpain
-            </h3>
+            <div className="flex items-center gap-3 mb-3">
+              <Image
+                src="/logo-icon.svg"
+                alt=""
+                width={36}
+                height={36}
+                className="w-9 h-9"
+              />
+              <h3 className="font-playfair text-2xl font-bold text-white">
+                ExploraSpain
+              </h3>
+            </div>
             <p className="text-sm text-slate-400 leading-relaxed">
               Tours, actividades y guías editoriales para viajar por España con
               criterio.

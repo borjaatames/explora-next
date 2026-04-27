@@ -1,14 +1,26 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 bg-amber-400 border-b-4 border-sky-500 shadow-sm">
-      <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+      <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link
           href="/"
-          className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 hover:text-slate-700 transition-colors"
+          className="flex items-center gap-3 hover:opacity-80 transition-opacity"
+          aria-label="ExploraSpain - Inicio"
         >
-          ExploraSpain
+          <Image
+            src="/logo-icon-dark.svg"
+            alt=""
+            width={40}
+            height={40}
+            priority
+            className="w-9 h-9 md:w-10 md:h-10"
+          />
+          <span className="font-playfair text-2xl md:text-3xl font-bold text-slate-900">
+            ExploraSpain
+          </span>
         </Link>
 
         <nav className="flex items-center gap-6">
