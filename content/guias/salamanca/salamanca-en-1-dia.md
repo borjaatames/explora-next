@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Salamanca en 1 dÃ­a: ruta con criterio por la ciudad dorada"
 descripcion: "CÃ³mo aprovechar 1 dÃ­a en Salamanca: Plaza Mayor, Universidad, Catedrales, Casa de las Conchas y Tormes. Lo que sÃ­, lo que se salta y errores tÃ­picos."
 categoria: "salamanca"

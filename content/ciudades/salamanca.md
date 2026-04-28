@@ -1,4 +1,4 @@
-﻿---
+---
 nombre: "Salamanca"
 slug: "salamanca"
 descripcion: "La ciudad dorada de Castilla: la Plaza Mayor mÃ¡s bella de EspaÃ±a, la universidad mÃ¡s antigua del paÃ­s y piedra de Villamayor en cada esquina."
