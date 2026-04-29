@@ -13,10 +13,6 @@ export const IDIOMAS_ACTIVOS = ["es"] as const satisfies readonly Idioma[];
 
 export const IDIOMA_DEFECTO: Idioma = "es";
 
-export const IDIOMAS_CON_PREFIJO = IDIOMAS_ACTIVOS.filter(
-  (l): l is Exclude<Idioma, typeof IDIOMA_DEFECTO> => l !== IDIOMA_DEFECTO
-);
-
 /**
  * Segmentos de URL traducibles por idioma.
  * `actividades` está reservado para una futura sección de afiliación
