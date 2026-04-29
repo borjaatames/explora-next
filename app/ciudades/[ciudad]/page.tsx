@@ -6,6 +6,10 @@ import {
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
 import { obtenerListaGuias } from "@/lib/guias";
+import { hreflangAlternates, urlCiudad } from "@/lib/i18n/utils";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 type Props = {
   params: { ciudad: string };
@@ -21,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
-  const url = `https://exploraspain.com${ciudad.url}`;
+  const url = `${SITE_URL}${ciudad.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
@@ -32,7 +36,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       index: allowIndexing,
       follow: allowIndexing,
     },
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: hreflangAlternates((l) => urlCiudad(l, params.ciudad)),
+    },
     openGraph: {
       type: "website",
       url,

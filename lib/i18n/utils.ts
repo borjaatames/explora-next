@@ -1,4 +1,5 @@
 import {
+  IDIOMAS_ACTIVOS,
   IDIOMA_DEFECTO,
   IDIOMA_LOCALE,
   URL_SEGMENTS,
@@ -84,4 +85,39 @@ export function formatearFecha(iso: string, idioma: Idioma): string {
   } catch {
     return iso;
   }
+}
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+
+/**
+ * Genera el objeto `alternates.languages` de Next 14 Metadata API,
+ * incluyendo todos los idiomas activos. El idioma por defecto se mapea
+ * también a `x-default`.
+ *
+ * `constructorUrl` es una función que, dado un idioma, devuelve la URL
+ * (relativa) de la versión traducida de esa página. Esto desacopla la
+ * generación de hreflang de la lógica concreta de cada tipo de página
+ * (guía, ciudad, índice, etc.).
+ *
+ * Ejemplo de uso:
+ *
+ *   alternates: {
+ *     canonical: `${SITE_URL}${urlGuia(idioma, categoria, slug)}`,
+ *     languages: hreflangAlternates((l) => urlGuia(l, categoria, slug)),
+ *   }
+ */
+export function hreflangAlternates(
+  constructorUrl: (idioma: Idioma) => string
+): Record<string, string> {
+  const result: Record<string, string> = {};
+
+  for (const lang of IDIOMAS_ACTIVOS) {
+    result[lang] = `${SITE_URL}${constructorUrl(lang)}`;
+  }
+
+  // x-default apunta al idioma por defecto.
+  result["x-default"] = `${SITE_URL}${constructorUrl(IDIOMA_DEFECTO)}`;
+
+  return result;
 }

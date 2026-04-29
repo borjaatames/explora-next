@@ -1,7 +1,22 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
-import { formatearFecha } from "@/lib/i18n/utils";
+import {
+  formatearFecha,
+  hreflangAlternates,
+  prefijoIdioma,
+} from "@/lib/i18n/utils";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: `${SITE_URL}/`,
+    languages: hreflangAlternates((l) => `${prefijoIdioma(l)}/`),
+  },
+};
 
 export default function HomePage() {
   const guias = obtenerGuiasDestacadas("es", 3);

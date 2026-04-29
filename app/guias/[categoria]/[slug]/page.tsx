@@ -6,7 +6,14 @@ import {
   obtenerTodosLosCaminos,
   obtenerGuiasRelacionadas,
 } from "@/lib/guias";
-import { formatearFecha } from "@/lib/i18n/utils";
+import {
+  formatearFecha,
+  hreflangAlternates,
+  urlGuia,
+} from "@/lib/i18n/utils";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 type Props = {
   params: { categoria: string; slug: string };
@@ -22,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const guia = await obtenerGuia("es", params.categoria, params.slug);
   if (!guia) return { title: "Guía no encontrada" };
 
-  const url = `https://exploraspain.com${guia.url}`;
+  const url = `${SITE_URL}${guia.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
@@ -34,7 +41,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       index: allowIndexing,
       follow: allowIndexing,
     },
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: hreflangAlternates((l) =>
+        urlGuia(l, params.categoria, params.slug)
+      ),
+    },
     openGraph: {
       type: "article",
       url,

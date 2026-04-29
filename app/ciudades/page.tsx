@@ -1,13 +1,18 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import { hreflangAlternates, urlIndiceCiudades } from "@/lib/i18n/utils";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 export const metadata: Metadata = {
   title: "Ciudades de España",
   description:
     "Guías de viaje por las principales ciudades de España: Madrid, Barcelona, Sevilla y más. Información práctica, qué visitar y consejos con criterio.",
   alternates: {
-    canonical: "https://exploraspain.com/ciudades",
+    canonical: `${SITE_URL}${urlIndiceCiudades("es")}`,
+    languages: hreflangAlternates((l) => urlIndiceCiudades(l)),
   },
 };
 

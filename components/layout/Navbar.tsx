@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const enlaces = [
   { href: "/guias", label: "Guías" },
@@ -14,7 +15,6 @@ const enlaces = [
 export default function Navbar() {
   const [abierto, setAbierto] = useState(false);
 
-  // Cerrar menú al cambiar tamaño de ventana a desktop
   useEffect(() => {
     const onResize = () => {
       if (window.innerWidth >= 768) setAbierto(false);
@@ -23,7 +23,6 @@ export default function Navbar() {
     return () => window.removeEventListener("resize", onResize);
   }, []);
 
-  // Bloquear scroll del body cuando el menú móvil está abierto
   useEffect(() => {
     if (abierto) {
       document.body.style.overflow = "hidden";
@@ -38,7 +37,6 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 bg-amber-400 border-b-4 border-sky-500 shadow-sm">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        {/* Logo */}
         <Link
           href="/"
           className="flex items-center gap-3 hover:opacity-80 transition-opacity"
@@ -58,7 +56,6 @@ export default function Navbar() {
           </span>
         </Link>
 
-        {/* Navegación desktop */}
         <nav className="hidden md:flex items-center gap-6">
           {enlaces.map((e) => (
             <Link
@@ -69,45 +66,46 @@ export default function Navbar() {
               {e.label}
             </Link>
           ))}
+          <LanguageSwitcher />
         </nav>
 
-        {/* Botón hamburguesa móvil */}
-        <button
-          type="button"
-          onClick={() => setAbierto((v) => !v)}
-          className="md:hidden p-2 -mr-2 text-slate-900 hover:bg-amber-500 rounded transition-colors"
-          aria-label={abierto ? "Cerrar menú" : "Abrir menú"}
-          aria-expanded={abierto}
-          aria-controls="menu-movil"
-        >
-          {/* Icono hamburguesa / X */}
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2.5"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="w-7 h-7"
+        <div className="md:hidden flex items-center gap-1">
+          <LanguageSwitcher />
+          <button
+            type="button"
+            onClick={() => setAbierto((v) => !v)}
+            className="p-2 -mr-2 text-slate-900 hover:bg-amber-500 rounded transition-colors"
+            aria-label={abierto ? "Cerrar menú" : "Abrir menú"}
+            aria-expanded={abierto}
+            aria-controls="menu-movil"
           >
-            {abierto ? (
-              <>
-                <line x1="18" y1="6" x2="6" y2="18" />
-                <line x1="6" y1="6" x2="18" y2="18" />
-              </>
-            ) : (
-              <>
-                <line x1="3" y1="7" x2="21" y2="7" />
-                <line x1="3" y1="12" x2="21" y2="12" />
-                <line x1="3" y1="17" x2="21" y2="17" />
-              </>
-            )}
-          </svg>
-        </button>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              className="w-7 h-7"
+            >
+              {abierto ? (
+                <>
+                  <line x1="18" y1="6" x2="6" y2="18" />
+                  <line x1="6" y1="6" x2="18" y2="18" />
+                </>
+              ) : (
+                <>
+                  <line x1="3" y1="7" x2="21" y2="7" />
+                  <line x1="3" y1="12" x2="21" y2="12" />
+                  <line x1="3" y1="17" x2="21" y2="17" />
+                </>
+              )}
+            </svg>
+          </button>
+        </div>
       </div>
 
-      {/* Panel móvil desplegable */}
       {abierto && (
         <div
           id="menu-movil"

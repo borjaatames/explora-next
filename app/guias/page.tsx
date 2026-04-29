@@ -1,14 +1,22 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { obtenerListaGuias } from "@/lib/guias";
-import { formatearFecha } from "@/lib/i18n/utils";
+import {
+  formatearFecha,
+  hreflangAlternates,
+  urlIndiceGuias,
+} from "@/lib/i18n/utils";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 export const metadata: Metadata = {
   title: "Guías de viaje por España",
   description:
     "Rutas con criterio, comparativas reales y consejos prácticos para viajar por España. Sin postureo turístico.",
   alternates: {
-    canonical: "https://exploraspain.com/guias",
+    canonical: `${SITE_URL}${urlIndiceGuias("es")}`,
+    languages: hreflangAlternates((l) => urlIndiceGuias(l)),
   },
 };
 
