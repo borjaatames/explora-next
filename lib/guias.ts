@@ -5,7 +5,11 @@ import { remark } from "remark";
 import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 
-const guiasDirectory = path.join(process.cwd(), "content", "guias");
+import { IDIOMAS_ACTIVOS } from "./i18n/config";
+import { urlGuia } from "./i18n/utils";
+import type { Idioma } from "./i18n/types";
+
+const guiasRoot = path.join(process.cwd(), "content", "guias");
 
 export type GuiaFrontmatter = {
   titulo: string;
@@ -21,6 +25,7 @@ export type GuiaFrontmatter = {
 };
 
 export type GuiaListItem = GuiaFrontmatter & {
+  idioma: Idioma;
   tiempoLectura: number;
   url: string;
 };
@@ -29,22 +34,26 @@ export type GuiaCompleta = GuiaListItem & {
   contenidoHtml: string;
 };
 
-/**
- * Lee todos los archivos .md de content/guias y devuelve metadata.
- * Solo incluye las que tengan publicada: true.
- */
-export function obtenerListaGuias(): GuiaListItem[] {
-  if (!fs.existsSync(guiasDirectory)) return [];
+function directorioIdioma(idioma: Idioma): string {
+  return path.join(guiasRoot, idioma);
+}
 
-  const categorias = fs.readdirSync(guiasDirectory).filter((entry) => {
-    const fullPath = path.join(guiasDirectory, entry);
+/**
+ * Lista todas las guías publicadas para un idioma dado.
+ */
+export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
+  const base = directorioIdioma(idioma);
+  if (!fs.existsSync(base)) return [];
+
+  const categorias = fs.readdirSync(base).filter((entry) => {
+    const fullPath = path.join(base, entry);
     return fs.statSync(fullPath).isDirectory();
   });
 
   const todas: GuiaListItem[] = [];
 
   for (const categoria of categorias) {
-    const categoriaPath = path.join(guiasDirectory, categoria);
+    const categoriaPath = path.join(base, categoria);
     const archivos = fs
       .readdirSync(categoriaPath)
       .filter((f) => f.endsWith(".md"));
@@ -69,8 +78,9 @@ export function obtenerListaGuias(): GuiaListItem[] {
         publicada: true,
         destacada: fm.destacada || false,
         keywords: fm.keywords || [],
+        idioma,
         tiempoLectura: calcularTiempoLectura(content),
-        url: `/guias/${categoria}/${slug}`,
+        url: urlGuia(idioma, categoria, slug),
       });
     }
   }
@@ -81,13 +91,14 @@ export function obtenerListaGuias(): GuiaListItem[] {
 }
 
 /**
- * Lee una guía concreta por categoría + slug y devuelve frontmatter + HTML.
+ * Devuelve una guía por idioma + categoría + slug, con HTML procesado.
  */
 export async function obtenerGuia(
+  idioma: Idioma,
   categoria: string,
   slug: string
 ): Promise<GuiaCompleta | null> {
-  const fullPath = path.join(guiasDirectory, categoria, `${slug}.md`);
+  const fullPath = path.join(directorioIdioma(idioma), categoria, `${slug}.md`);
   if (!fs.existsSync(fullPath)) return null;
 
   const fileContents = fs.readFileSync(fullPath, "utf8");
@@ -111,69 +122,58 @@ export async function obtenerGuia(
     publicada: true,
     destacada: fm.destacada || false,
     keywords: fm.keywords || [],
+    idioma,
     tiempoLectura: calcularTiempoLectura(content),
-    url: `/guias/${categoria}/${slug}`,
+    url: urlGuia(idioma, categoria, slug),
     contenidoHtml: procesado.toString(),
   };
 }
 
-/**
- * Devuelve hasta N guías destacadas, o las más recientes si no hay marcadas.
- */
-export function obtenerGuiasDestacadas(limite: number = 3): GuiaListItem[] {
-  const todas = obtenerListaGuias();
+export function obtenerGuiasDestacadas(
+  idioma: Idioma,
+  limite: number = 3
+): GuiaListItem[] {
+  const todas = obtenerListaGuias(idioma);
   const destacadas = todas.filter((g) => g.destacada);
   if (destacadas.length >= limite) return destacadas.slice(0, limite);
   return [...destacadas, ...todas.filter((g) => !g.destacada)].slice(0, limite);
 }
 
-/**
- * Devuelve guías relacionadas (misma categoría, excluyendo la actual).
- */
 export function obtenerGuiasRelacionadas(
+  idioma: Idioma,
   categoria: string,
   slugActual: string,
   limite: number = 3
 ): GuiaListItem[] {
-  return obtenerListaGuias()
+  return obtenerListaGuias(idioma)
     .filter((g) => g.categoria === categoria && g.slug !== slugActual)
     .slice(0, limite);
 }
 
 /**
- * Devuelve todos los pares categoria/slug para generateStaticParams.
+ * Devuelve todos los caminos (idioma + categoria + slug) de todos los idiomas
+ * activos. Pensado para generateStaticParams en /[lang]/guides/[categoria]/[slug].
+ * Para la ruta española sin prefijo, filtrar por idioma === "es".
  */
 export function obtenerTodosLosCaminos(): {
+  idioma: Idioma;
   categoria: string;
   slug: string;
 }[] {
-  return obtenerListaGuias().map(({ categoria, slug }) => ({
-    categoria,
-    slug,
-  }));
+  const caminos: { idioma: Idioma; categoria: string; slug: string }[] = [];
+  for (const idioma of IDIOMAS_ACTIVOS) {
+    for (const guia of obtenerListaGuias(idioma)) {
+      caminos.push({
+        idioma,
+        categoria: guia.categoria,
+        slug: guia.slug,
+      });
+    }
+  }
+  return caminos;
 }
 
-/**
- * Estima minutos de lectura: ~200 palabras/minuto.
- */
 function calcularTiempoLectura(texto: string): number {
   const palabras = texto.trim().split(/\s+/).length;
   return Math.max(1, Math.round(palabras / 200));
-}
-
-/**
- * Formatea una fecha ISO (YYYY-MM-DD) en español.
- */
-export function formatearFecha(iso: string): string {
-  if (!iso) return "";
-  try {
-    const fecha = new Date(iso);
-    return fecha.toLocaleDateString("es-ES", {
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
-  } catch {
-    return iso;
-  }
 }

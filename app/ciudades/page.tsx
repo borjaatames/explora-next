@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default function CiudadesPage() {
-  const ciudades = obtenerListaCiudades();
+  const ciudades = obtenerListaCiudades("es");
 
   return (
     <main className="min-h-screen bg-white">

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { obtenerListaGuias, formatearFecha } from "@/lib/guias";
+import { obtenerListaGuias } from "@/lib/guias";
+import { formatearFecha } from "@/lib/i18n/utils";
 
 export const metadata: Metadata = {
   title: "Guías de viaje por España",
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
 };
 
 export default function GuiasPage() {
-  const guias = obtenerListaGuias();
+  const guias = obtenerListaGuias("es");
 
   return (
     <main className="min-h-screen bg-white">
@@ -50,7 +51,7 @@ export default function GuiasPage() {
                   {guia.descripcion}
                 </p>
                 <div className="flex items-center justify-between text-xs text-slate-500">
-                  <span>{formatearFecha(guia.fecha)}</span>
+                  <span>{formatearFecha(guia.fecha, "es")}</span>
                   <span>{guia.tiempoLectura} min lectura</span>
                 </div>
               </Link>

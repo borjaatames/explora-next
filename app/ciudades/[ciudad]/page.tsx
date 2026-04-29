@@ -12,11 +12,13 @@ type Props = {
 };
 
 export async function generateStaticParams() {
-  return obtenerTodosLosCaminosCiudades();
+  return obtenerTodosLosCaminosCiudades()
+    .filter((c) => c.idioma === "es")
+    .map(({ ciudad }) => ({ ciudad }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const ciudad = await obtenerCiudad(params.ciudad);
+  const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
   const url = `https://exploraspain.com${ciudad.url}`;
@@ -43,15 +45,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function CiudadPage({ params }: Props) {
-  const ciudad = await obtenerCiudad(params.ciudad);
+  const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) notFound();
 
-  // Guías de la misma categoría que la ciudad (ej: madrid)
-  const guiasRelacionadas = obtenerListaGuias().filter(
+  const guiasRelacionadas = obtenerListaGuias("es").filter(
     (g) => g.categoria.toLowerCase() === params.ciudad.toLowerCase()
   );
 
-  // Schema.org TouristAttraction
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "TouristDestination",
@@ -97,14 +97,9 @@ export default async function CiudadPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      {/* Cabecera */}
       <header className="bg-sky-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          {/* Migas de pan */}
-          <nav
-            aria-label="Migas de pan"
-            className="text-sm text-sky-100 mb-4"
-          >
+          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
             <Link href="/" className="hover:text-white">
               Inicio
             </Link>
@@ -128,7 +123,6 @@ export default async function CiudadPage({ params }: Props) {
         </div>
       </header>
 
-      {/* Contenido editorial */}
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         <div
           className="prose-guia"
@@ -136,7 +130,6 @@ export default async function CiudadPage({ params }: Props) {
         />
       </article>
 
-      {/* Guías de la ciudad (si existen) */}
       {guiasRelacionadas.length > 0 && (
         <section className="bg-slate-50 border-t border-slate-200">
           <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
@@ -166,7 +159,6 @@ export default async function CiudadPage({ params }: Props) {
         </section>
       )}
 
-      {/* Volver */}
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href="/ciudades"

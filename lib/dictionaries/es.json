@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "sitioNombre": "ExploraSpain",
+    "sitioDescripcion": "Guías honestas y prácticas para viajar por España"
+  },
+  "navegacion": {
+    "inicio": "Inicio",
+    "guias": "Guías",
+    "ciudades": "Ciudades",
+    "sobreNosotros": "Sobre nosotros",
+    "contacto": "Contacto",
+    "abrirMenu": "Abrir menú",
+    "cerrarMenu": "Cerrar menú",
+    "cambiarIdioma": "Cambiar idioma"
+  },
+  "home": {
+    "heroTitulo": "Guías honestas para viajar por España",
+    "heroSubtitulo": "Sin frases huecas, con datos prácticos y criterio.",
+    "ctaExplorar": "Explorar guías",
+    "seccionGuiasDestacadas": "Guías destacadas",
+    "seccionCiudades": "Ciudades",
+    "verTodas": "Ver todas"
+  },
+  "guias": {
+    "tituloIndice": "Guías",
+    "descripcionIndice": "Itinerarios y consejos prácticos para viajar por España con criterio.",
+    "minutosLectura": "min de lectura",
+    "publicadoEl": "Publicado el",
+    "autorPor": "Por",
+    "relacionadas": "Otras guías que pueden interesarte",
+    "volverAGuias": "Volver a guías"
+  },
+  "ciudades": {
+    "tituloIndice": "Ciudades",
+    "descripcionIndice": "Las ciudades imprescindibles de España, con guías propias.",
+    "verCiudad": "Ver ciudad",
+    "guiasDeCiudad": "Guías de esta ciudad",
+    "volverACiudades": "Volver a ciudades"
+  },
+  "footer": {
+    "derechos": "Todos los derechos reservados",
+    "avisoLegal": "Aviso legal",
+    "privacidad": "Privacidad",
+    "cookies": "Cookies",
+    "operadoPor": "Operado por SKYWARD PARTNERS, S.L."
+  },
+  "comun": {
+    "cargando": "Cargando…",
+    "error": "Algo ha ido mal",
+    "leerMas": "Leer más"
+  }
+}

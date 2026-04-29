@@ -57,14 +57,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  const guias = obtenerListaGuias().map((g) => ({
+  const guias = obtenerListaGuias("es").map((g) => ({
     url: `${baseUrl}${g.url}`,
     lastModified: g.fecha ? new Date(g.fecha) : new Date(),
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));
 
-  const ciudades = obtenerListaCiudades().map((c) => ({
+  const ciudades = obtenerListaCiudades("es").map((c) => ({
     url: `${baseUrl}${c.url}`,
     lastModified: new Date(),
     changeFrequency: "monthly" as const,

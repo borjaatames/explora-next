@@ -5,19 +5,21 @@ import {
   obtenerGuia,
   obtenerTodosLosCaminos,
   obtenerGuiasRelacionadas,
-  formatearFecha,
 } from "@/lib/guias";
+import { formatearFecha } from "@/lib/i18n/utils";
 
 type Props = {
   params: { categoria: string; slug: string };
 };
 
 export async function generateStaticParams() {
-  return obtenerTodosLosCaminos();
+  return obtenerTodosLosCaminos()
+    .filter((c) => c.idioma === "es")
+    .map(({ categoria, slug }) => ({ categoria, slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const guia = await obtenerGuia(params.categoria, params.slug);
+  const guia = await obtenerGuia("es", params.categoria, params.slug);
   if (!guia) return { title: "Guía no encontrada" };
 
   const url = `https://exploraspain.com${guia.url}`;
@@ -47,16 +49,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function GuiaPage({ params }: Props) {
-  const guia = await obtenerGuia(params.categoria, params.slug);
+  const guia = await obtenerGuia("es", params.categoria, params.slug);
   if (!guia) notFound();
 
   const relacionadas = obtenerGuiasRelacionadas(
+    "es",
     guia.categoria,
     guia.slug,
     3
   );
 
-  // Datos estructurados Schema.org Article
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -116,14 +118,9 @@ export default async function GuiaPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      {/* Cabecera */}
       <header className="bg-sky-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          {/* Migas de pan */}
-          <nav
-            aria-label="Migas de pan"
-            className="text-sm text-sky-100 mb-4"
-          >
+          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
             <Link href="/" className="hover:text-white">
               Inicio
             </Link>
@@ -146,13 +143,12 @@ export default async function GuiaPage({ params }: Props) {
           </p>
           <div className="text-sm text-sky-100 flex flex-wrap gap-x-4 gap-y-1">
             {guia.autor && <span>Por {guia.autor}</span>}
-            {guia.fecha && <span>· {formatearFecha(guia.fecha)}</span>}
+            {guia.fecha && <span>· {formatearFecha(guia.fecha, "es")}</span>}
             <span>· {guia.tiempoLectura} min de lectura</span>
           </div>
         </div>
       </header>
 
-      {/* Contenido */}
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         <div
           className="prose-guia"
@@ -160,7 +156,6 @@ export default async function GuiaPage({ params }: Props) {
         />
       </article>
 
-      {/* Guías relacionadas */}
       {relacionadas.length > 0 && (
         <section className="bg-slate-50 border-t border-slate-200">
           <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
@@ -187,7 +182,6 @@ export default async function GuiaPage({ params }: Props) {
         </section>
       )}
 
-      {/* Volver */}
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href="/guias"

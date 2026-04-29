@@ -1,10 +1,11 @@
 import Link from "next/link";
-import { obtenerGuiasDestacadas, formatearFecha } from "@/lib/guias";
+import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import { formatearFecha } from "@/lib/i18n/utils";
 
 export default function HomePage() {
-  const guias = obtenerGuiasDestacadas(3);
-  const ciudades = obtenerListaCiudades();
+  const guias = obtenerGuiasDestacadas("es", 3);
+  const ciudades = obtenerListaCiudades("es");
 
   return (
     <main>
@@ -68,7 +69,7 @@ export default function HomePage() {
                   {guia.descripcion}
                 </p>
                 <div className="flex items-center justify-between text-xs text-slate-500">
-                  <span>{formatearFecha(guia.fecha)}</span>
+                  <span>{formatearFecha(guia.fecha, "es")}</span>
                   <span>{guia.tiempoLectura} min lectura</span>
                 </div>
               </Link>
