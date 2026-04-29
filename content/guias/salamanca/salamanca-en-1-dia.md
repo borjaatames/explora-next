@@ -1,168 +1,244 @@
 ---
-titulo: "Salamanca en 1 dÃ­a: ruta con criterio por la ciudad dorada"
-descripcion: "CÃ³mo aprovechar 1 dÃ­a en Salamanca: Plaza Mayor, Universidad, Catedrales, Casa de las Conchas y Tormes. Lo que sÃ­, lo que se salta y errores tÃ­picos."
+titulo: "Salamanca en 1 día: la ruta con criterio para no perderse lo esencial"
+descripcion: "Guía honesta de un día en Salamanca: Plaza Mayor, Universidad, las dos catedrales y torres de la Clerecía. Qué ver, qué saltarse, dónde comer y errores típicos."
 categoria: "salamanca"
 slug: "salamanca-en-1-dia"
 fecha: "2026-04-28"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-imagen: "/ciudades/salamanca.jpg"
 keywords:
   - "salamanca en 1 dia"
   - "que ver en salamanca"
-  - "ruta salamanca"
-  - "universidad salamanca"
-  - "plaza mayor salamanca"
-  - "catedrales salamanca"
+  - "guia de salamanca"
+  - "salamanca turismo"
+  - "ruta salamanca un dia"
 ---
 
-![Salamanca: la ClerecÃ­a vista desde una calle estrecha del casco antiguo, con la piedra dorada de Villamayor recortÃ¡ndose contra el cielo](/ciudades/salamanca.jpg)
+Salamanca es de las pocas ciudades históricas españolas que **funciona en un día**. El casco antiguo es compacto, los grandes monumentos están a menos de 10 minutos andando entre ellos y el ritmo de visita es directo: Plaza Mayor, Universidad, las dos catedrales, Clerecía y vuelta. Pero ojo, **si la corres como check-list**, te pierdes lo que la hace especial: el ambiente.
 
-# Salamanca en 1 dÃ­a: ruta con criterio por la ciudad dorada
+Esta guía es para quien tiene un día completo. Lo que merece la pena, lo que se puede saltar, los errores típicos del visitante apurado y cómo encajar la magia nocturna de Salamanca aunque vengas y te vayas el mismo día.
 
-Salamanca es una de las pocas ciudades espaÃ±olas que se puede ver bien en un dÃ­a. Y eso, lejos de ser un demÃ©rito, es una virtud que la hace ideal para escapadas. El casco histÃ³rico cabe en un radio de 800 metros, los grandes monumentos estÃ¡n a tiro de paso unos de otros y la **piedra de Villamayor** â€”arenisca dorada que cubre toda la ciudadâ€” hace que pasees con la sensaciÃ³n de estar dentro de un decorado que en realidad es Patrimonio de la Humanidad por la UNESCO desde 1988.
+## Por qué Salamanca en un día sí funciona
 
-Esta guÃ­a estÃ¡ pensada para una jornada larga, de 9:00 a 22:00, suficiente para ver la Plaza Mayor, las dos catedrales, la Universidad con su famosa fachada plateresca, la Casa de las Conchas, la ClerecÃ­a y bajar al rÃ­o Tormes al atardecer. La verdadera trampa de Salamanca no es perderse â€” es ir demasiado deprisa y no quedarse a verla anochecer, que es cuando la piedra dorada se pone literalmente naranja y entiendes por quÃ© la llaman asÃ­.
+Salamanca tiene tres ventajas sobre otras ciudades históricas:
 
-## Por quÃ© un dÃ­a funciona
+- **Casco antiguo compacto**: todo lo turístico cabe en menos de 1 km cuadrado.
+- **Monumentos pegados entre sí**: Plaza Mayor, Universidad, las dos catedrales y la Clerecía están a 5-10 minutos andando.
+- **Ciudad muy andable**: relativamente plana, calles peatonales, sin transporte público necesario.
 
-Salamanca cabe en un dÃ­a siempre que el plan sea **el casco histÃ³rico monumental**. Lo que **no** cabe en un dÃ­a es: las dos catedrales con calma + visita completa a la universidad + Casa Lis (museo modernista) + alrededores como Alba de Tormes o La Alberca + cena tranquila. Si quieres todo eso, pasa a un fin de semana de dos dÃ­as.
+Esto cambia la economía del tiempo. **En 8-10 horas haces los grandes y disfrutas el ambiente**, sin la sensación de correr.
 
-Una jornada bien planificada permite ver lo importante y un par de detalles secundarios bien elegidos. Es la forma mÃ¡s eficiente de hacerse una idea real de la ciudad. Y, si despuÃ©s decides volver, sabrÃ¡s exactamente a quÃ©.
+Si vienes en tren desde Madrid, **tienes 7-8 horas reales**. Si vienes en coche o te quedas a dormir, todavía mejor (porque añades la noche, que es cuando Salamanca brilla más).
 
-## CuÃ¡ndo visitar
+## Cómo llegar a Salamanca
 
-Salamanca tiene clima continental: inviernos frÃ­os de verdad, veranos secos pero soportables.
+### Tren
 
-- **Mejor Ã©poca**: **mayo, junio, septiembre y primera mitad de octubre**. Temperaturas amables, terrazas funcionando en la Plaza Mayor, dÃ­as largos.
-- **Evitar si es posible**: **enero y febrero** (frÃ­o seco, anochecer a las 18:00 corta el dÃ­a). **Agosto a mediodÃ­a** (calor seco fuerte, ciudad medio vacÃ­a de locales).
-- **Mes infravalorado**: **noviembre**. Clima fresco pero soportable, luz dorada espectacular sobre la piedra, terrazas todavÃ­a abiertas a mediodÃ­a y casi nada de masas. Una de las mejores fechas del aÃ±o.
-- **Cuidado especial**: **Nochevieja Universitaria** (segunda quincena de diciembre, el botellÃ³n estudiantil se traslada a la Plaza Mayor) y **graduaciones** de junio. La ciudad se llena de jÃ³venes y el ambiente cambia. Bonito pero muy distinto.
+**Avant / Alvia desde Madrid**: 1h30 desde Madrid Chamartín a Salamanca. La opción más cómoda. Precios desde 25-30 € ida con antelación, hasta 50-60 € comprando justo.
 
-## CÃ³mo llegar
+⚠️ **Importante**: hay menos frecuencias que el AVE Madrid-Sevilla. Conviene **mirar horarios antes** de planificar.
 
-**En tren**: Madridâ€“Salamanca en **Avant** (alta velocidad regional) en **1h 35min - 1h 45min**. Tarifas 22-30â‚¬ ida con dÃ­as de antelaciÃ³n. La estaciÃ³n estÃ¡ a 15 minutos andando del centro o 5â‚¬ en taxi.
+### Autobús
 
-**En autobÃºs**: Avanza opera Madridâ€“Salamanca desde MÃ©ndez Ãlvaro en **2h 30min - 3h**. MÃ¡s barato (15-20â‚¬), mÃ¡s lento.
+**Avanza Bus desde Madrid**: 2h30 desde Estación Sur. Más económico (15-20 € ida) pero con más tiempo. Buena opción si presupuesto importa.
 
-**En coche**: Madridâ€“Salamanca son 215 km por la **A-50/A-62** en aproximadamente 2h 15min. Casi toda autopista gratis. Dentro de Salamanca, el centro es ZBE: dÃ©jalo en parking exterior y mÃ©tete andando. Los parkings de **Santa Eulalia**, **Plaza EspaÃ±a** o **EstaciÃ³n** rondan los 12-18â‚¬ dÃ­a.
+### Coche
 
-## La ruta del dÃ­a
+Madrid-Salamanca por A-6 + A-50: aproximadamente 2h15 (200 km). El coche tiene la ventaja de poder añadir excursiones a La Alberca o Alba de Tormes. Aparcamientos públicos en el centro: Plaza de Santa Eulalia, Buenos Aires.
 
-### 9:30 â€” Plaza Mayor: empezar por el centro
+### Avión
 
-La **Plaza Mayor de Salamanca** es, sin discusiÃ³n, una de las plazas mÃ¡s bonitas de EspaÃ±a. Construida entre 1729 y 1755 por **Alberto de Churriguera** y rematada por **AndrÃ©s GarcÃ­a de QuiÃ±ones**. La regla aquÃ­ es no cruzarla deprisa: hay que dar una vuelta entera por los soportales para ver los **medallones** que recorren la fachada â€” emperadores romanos, reyes de EspaÃ±a, exploradores. Y, polÃ©micamente, el de **Franco** (retirado en 2017) y el de **Felipe IV** todavÃ­a visibles. Si te gusta la historia, los medallones son un mapa polÃ­tico del paÃ­s.
+Hay aeropuerto pequeño (Matacán) pero con vuelos limitadísimos. **No es opción práctica** para la mayoría.
 
-- **Entrada**: gratuita, plaza abierta.
-- **Tiempo**: 30-40 minutos para una primera vuelta.
-- **Criterio**: el **CafÃ© Novelty** â€”en el lado oesteâ€” es la cafeterÃ­a mÃ¡s antigua de la ciudad (fundada en 1905) y aunque estÃ¡ turistizada, tiene su gracia para un cafÃ© temprano. Un cafÃ© cuesta 2,50-3â‚¬. Caro, pero la terraza vale el sobreprecio durante 20 minutos.
+## El plan de día con criterio
 
-### 10:30 â€” Universidad de Salamanca y la rana
+Aquí está el quid de la guía. En 1 día **necesitas plan** o pierdes tiempo improvisando.
 
-La Universidad de Salamanca, fundada en **1218** por Alfonso IX de LeÃ³n, es la **mÃ¡s antigua de EspaÃ±a** y una de las mÃ¡s antiguas de Europa en activo. La fachada de las **Escuelas Mayores** es un retablo en piedra plateresca terminado en 1553. Es uno de los grandes ejercicios de escultura ornamental del Renacimiento espaÃ±ol.
+**Mi propuesta de horario**:
 
-- **Entrada Edificio HistÃ³rico**: **10â‚¬ general / 5â‚¬ reducida** (estudiantes, jubilados, familias numerosas, grupos +20). Gratis menores de 12 aÃ±os. **Lunes por la tarde gratis** (consultar horario en museo.usal.es).
-- **Horario**: lunes a sÃ¡bado 10:00-19:00 (invierno) o 10:00-20:00 (verano). Domingos y festivos solo maÃ±anas, hasta 13:30-14:00.
-- **Tiempo razonable**: 1h 15min - 1h 30min (fachada + claustro + aula de Fray Luis de LeÃ³n + capilla).
-- **Criterio**: la entrada incluye tambiÃ©n el **Colegio Arzobispo Fonseca**, que estÃ¡ unos minutos andando y tiene un patio renacentista espectacular. Casi nadie lo visita y vale mucho la pena.
+| Hora | Actividad |
+|---|---|
+| 9:30 | Llegada Salamanca, dejar maleta en consigna estación |
+| 10:00 | **Plaza Mayor** y desayuno con vistas |
+| 10:45 | **Casa de las Conchas** y **Clerecía** (subida a torres) |
+| 12:00 | **Universidad de Salamanca** (Edificio Histórico) |
+| 13:30 | **Catedral Nueva y Catedral Vieja** |
+| 14:30 | Comida en Calle Van Dyck o casco antiguo |
+| 16:00 | **Casa Lis** (museo Art Nouveau) o **Convento de San Esteban** |
+| 17:30 | Paseo por Rúa Mayor + Plaza de Anaya + Patio de Escuelas |
+| 18:30 | **Atardecer en el Puente Romano sobre el Tormes** |
+| 19:30 | Vuelta al centro, vinos en Plaza Mayor o Calle Meléndez |
+| 21:00 | Cena ligera o tren de vuelta |
 
-**Sobre la famosa rana**: estÃ¡ labrada sobre una calavera en la **pilastra derecha** de la fachada plateresca, en la terminaciÃ³n del primer cuerpo. La leyenda popular dice que el estudiante que la encuentra sin ayuda aprueba el curso. La realidad acadÃ©mica: probablemente es una alegorÃ­a medieval del **pecado de la lujuria** y el **memento mori**. **Pista honesta**: busca en la pilastra de la derecha mirando la fachada, zona alta del primer cuerpo. Pero merece la pena buscarla un rato sin ayuda.
+Esto cubre los 5 imprescindibles + ambiente de tarde + magia del río al atardecer.
 
-**Aviso editorial**: el supuesto "**astronauta**" de Salamanca **no estÃ¡ en la fachada de la Universidad**, sino en la **Puerta de Ramos de la Catedral Nueva**, junto a un toro y un cangrejo. Es una restauraciÃ³n moderna del siglo XX. Mucha gente lo busca en el sitio equivocado.
+## Los imprescindibles del día
 
-### 12:00 â€” Casa de las Conchas y ClerecÃ­a
+### 1. Plaza Mayor (10:00-10:45)
 
-A 100 metros de la Universidad, **Casa de las Conchas** (s. XV-XVI) es probablemente el edificio civil gÃ³tico-plateresco mÃ¡s fotogÃ©nico de EspaÃ±a. Su fachada estÃ¡ decorada con mÃ¡s de **300 conchas de vieira talladas**, sÃ­mbolo de los Maldonado y referencia a Santiago. Hoy alberga la **biblioteca pÃºblica municipal**.
+**Empezar aquí es obligado**. La Plaza Mayor de Salamanca es **probablemente la más bonita de España** (con perdón de la de Madrid y la de Vitoria). Construida entre 1729 y 1755 por los Churriguera, es barroca, regular, con tres alturas y arcadas.
 
-- **Entrada**: gratuita.
-- **Tiempo**: 20-30 minutos. Patio interior + planta noble.
-- **Criterio**: el patio interior plateresco vale mÃ¡s que la fachada exterior. Sube hasta el primer piso para verlo desde arriba.
+Lo que hacer:
+- **Desayunar en una de las terrazas con vistas**. Café + tostada con tomate y aceite, viendo cómo Salamanca despierta. Caro (4-6 €) pero merece la pena por la vista.
+- **Buscar los medallones de la Plaza**: Cervantes, Fray Luis de León, Carlos V, Felipe V... son retratos esculpidos en cada arco. Pequeño juego de observación.
+- **Hacer una foto** y guardarla. Vuelve por la noche, porque la plaza iluminada es **otra cosa**.
 
-Justo enfrente, la **ClerecÃ­a** (Real ClerecÃ­a de San Marcos): edificio jesuita barroco de los siglos XVII-XVIII con dos torres gemelas que dominan el skyline (las de la foto de portada).
+⚠️ **No comas aquí**. La plaza es para vista y café, no para comida seria. Los restaurantes con menú turístico de Plaza Mayor tienen mala relación calidad-precio.
 
-- **Entrada Scala Coeli** (subida a las torres): **5â‚¬ general / 3,50â‚¬ reducida**.
-- **Tiempo**: 30-45 minutos incluyendo subida.
-- **Criterio**: subir a las torres es probablemente **la mejor panorÃ¡mica del casco antiguo de Salamanca**, mejor incluso que las catedrales. Si tienes que elegir entre subir aquÃ­ o subir a la torre de las Catedrales (Ieronimus), recomendarÃ­amos la ClerecÃ­a: ves desde arriba ambas catedrales, la Universidad y la Plaza Mayor.
+### 2. Casa de las Conchas y Clerecía (10:45-12:00)
 
-### 13:30 â€” Comer
+A 4 minutos andando desde Plaza Mayor.
 
-La franja Ãºtil es 13:45-15:30. Salamanca come tarde, no encontrarÃ¡s cocina seria antes de la una y media.
+**Casa de las Conchas**: palacio del XV con la fachada cubierta de conchas de vieira (símbolo de la Orden de Santiago). Hoy es biblioteca pública, **entrada gratuita**. Merece la pena entrar al patio interior (mudéjar, precioso).
 
-**Zonas que sÃ­**:
-- **Calle MelÃ©ndez y RÃºa Antigua**: tabernas honestas, precios decentes, mezcla de pÃºblico local y visitante.
-- **Plaza del Corrillo y entorno**: bueno para tapeo clÃ¡sico cerca de la Plaza Mayor.
-- **Calle Van Dyck** (norte del casco): zona menos turÃ­stica, donde come la gente del barrio. Algo mÃ¡s alejada pero merece el desvÃ­o si tienes media hora.
+**Iglesia y torres de la Clerecía** (justo enfrente):
+- **Entrada Iglesia**: 4 €
+- **Torres "Scala Coeli"** (subida): 6 €
+- **Combinada**: 8 €
 
-**Trampas a evitar**:
-- Las terrazas pegadas a la Plaza Mayor con **menÃºs traducidos a seis idiomas** y foto del plato. Precios inflados, calidad mediocre, raciones flojas.
-- Cualquier sitio que ofrezca "menÃº turÃ­stico a 12,90â‚¬" en zona monumental: arroz con cosas precocinadas.
+⭐ **Las torres de la Clerecía son la mejor vista de Salamanca**. Desde arriba ves la fachada de la Universidad, las dos catedrales, Plaza Mayor y todo el casco antiguo. **Imprescindible**. Subida por escaleras + ascensor parcial. **Si solo tienes 1 día, esto sí merece los 6 €**.
 
-**Platos imprescindibles**: **chanfaina** (guiso castellano de arroz, sangre de cordero y embutidos â€” mÃ¡s serio de lo que suena), **morucha de la sierra** (carne autÃ³ctona) si la tienen a la plancha, **farinato** (embutido tÃ­pico) frito con huevos, **hornazo** (pan relleno de embutidos, plato de Pascua pero presente todo el aÃ±o en versiÃ³n miniatura).
+### 3. Universidad de Salamanca - Edificio Histórico (12:00-13:30)
 
-### 15:30 â€” Catedrales: Vieja y Nueva
+**A 2 minutos andando desde la Clerecía**.
 
-Salamanca tiene **dos catedrales pegadas**, conectadas por dentro. Es prÃ¡cticamente Ãºnico en EspaÃ±a.
+Es **el monumento estrella** de Salamanca. La universidad más antigua de España (1218) en activo, con su famosa **fachada plateresca** (1512) llena de detalles, escudos, medallones y simbolismos.
 
-- **Catedral Nueva** (s. XVI-XVIII): gÃ³tica tardÃ­a con elementos plateresco-barrocos. La de la fachada principal con el famoso **astronauta** en la Puerta de Ramos.
-- **Catedral Vieja** (s. XII-XIII): romÃ¡nico-gÃ³tica, mucho mÃ¡s recogida e impresionante por dentro. El **retablo del altar mayor** (de NicolÃ¡s Florentino, 53 tablas con escenas bÃ­blicas) es una de las piezas mÃ¡s serias del gÃ³tico espaÃ±ol.
+**Entrada**: 10 € general, 5 € reducida (estudiantes, jubilados, familia numerosa).
+⭐ **Gratis los lunes por la tarde**. Si vienes en lunes, planifica.
 
-**Entrada conjunta** (Catedral Vieja + Nueva + Capillas + Claustro): **6â‚¬ general / 5â‚¬ reducida**. Gratis los **martes de 10:00 a 12:00**. Horario: 10:00-20:00 (abril-septiembre), 10:00-18:00 (octubre-marzo).
+**Horarios**:
+- Verano (abril-octubre): 10:00-20:00 lunes-sábado, 10:00-14:00 domingos.
+- Invierno (octubre-marzo): 10:00-19:00 lunes-sábado, 10:00-14:00 domingos.
 
-- **Tiempo razonable**: 1h 15min - 1h 30min para verlas con calma.
-- **Criterio**: si tienes que dedicar mÃ¡s tiempo a una, **prioriza la Vieja**. La Nueva es grande y vistosa, pero la Vieja es donde estÃ¡ la calidad artÃ­stica seria.
+**Lo que ver dentro**:
+- **Aula de Fray Luis de León**: conservada tal como era en el siglo XVI, con bancos de madera originales.
+- **Patio de Escuelas Mayores**: claustro con dos plantas y aulas alrededor.
+- **Capilla** del XVIII con órgano del XVII.
+- **Paraninfo**: salón de actos académicos solemnes.
+- **Vítores en las paredes**: inscripciones en pintura roja con sangre de toro y aceite, hechas por estudiantes que aprobaban su doctorado.
 
-**Ieronimus** (subida a las torres de las catedrales): **5â‚¬**. Recorrido por las terrazas y campanarios. **Si ya has subido a la ClerecÃ­a, sÃ¡ltate Ieronimus**: las vistas son comparables y duplicar la subida en un solo dÃ­a es sobreesfuerzo innecesario.
+⭐ **El reto cultural de Salamanca**: encontrar **la rana sobre una calavera** en la fachada plateresca de la Universidad. Está pequeña, escondida entre la decoración. Cuenta la leyenda que quien la encuentra sin ayuda **aprueba el examen**. Si vienes con niños o estudiantes, es divertidísimo.
 
-### 17:30 â€” Casa Lis (opcional) o paseo libre
+### 4. Catedrales (Nueva y Vieja) (13:30-14:30)
 
-A esta hora puedes elegir:
+A 2 minutos de la Universidad. Salamanca tiene **dos catedrales unidas**: una al lado de la otra, conectadas por dentro.
 
-- **Casa Lis (Museo Art Nouveau y Art DÃ©co)**: una mansiÃ³n modernista (1905) llena de luz y vidrieras, con una colecciÃ³n de objetos decorativos del modernismo y dÃ©co. **Entrada**: 5â‚¬. **Cuidado**: cierra **lunes por la maÃ±ana** y algunos dÃ­as entre semana. Si te interesa el modernismo, vale mucho la pena. Si vienes con mÃ¡s interÃ©s histÃ³rico que decorativo, sÃ¡ltatelo.
-- **Paseo libre**: callejear por **RÃºa Mayor**, **calle CompaÃ±Ã­a**, **Patio de Escuelas Menores**, **Huerto de Calixto y Melibea** (jardincillo romÃ¡ntico al borde de la muralla con vistas al Tormes â€” pequeÃ±o, gratis, bonito al atardecer).
+**Catedral Nueva** (gótico tardío + barroco, siglos XVI-XVIII):
+- Imponente fachada plateresca.
+- Cúpula barroca espectacular.
+- Detalle moderno: en la **Puerta de Ramos**, los restauradores del siglo XX añadieron un **astronauta** y un **dragón con helado**. Búscalos en la fachada exterior.
 
-### 19:30 â€” RÃ­o Tormes y Puente Romano
+**Catedral Vieja** (románica del XII):
+- **Mucho más interesante de lo que la mayoría espera**. La gente entra por inercia y sale impactada.
+- **Retablo de Nicolás Florentino**: 53 paneles del siglo XV con escenas de la vida de la Virgen y Cristo.
+- **Cimborrio del Gallo**: cúpula octogonal de inspiración bizantina.
+- **Capilla de Santa Bárbara**: aquí se examinaban los doctorandos.
 
-Esto es lo que cierra bien el dÃ­a. Bajada al **rÃ­o Tormes** por la cuesta hacia el sur. El **Puente Romano** (siglo I, restaurado siglos despuÃ©s) cruza el rÃ­o y es el sitio canÃ³nico para sacar la postal de Salamanca: **las dos catedrales y la ClerecÃ­a recortadas contra el cielo del atardecer**, con la piedra dorada literalmente convertida en naranja por la luz cenital.
+**Entrada conjunta**: 10 € (incluye ambas catedrales + claustro + capillas).
 
-- **Tiempo**: 1 hora cÃ³moda. Puedes cruzar el puente, ir hasta el otro lado del rÃ­o y volver.
-- **Criterio**: llega **20-30 minutos antes de la puesta oficial**. La luz buena dura unos 20 minutos, no mÃ¡s. Pasada la hora azul, la sensaciÃ³n cambia totalmente â€” bonita pero distinta.
+⚠️ **No te saltes la Catedral Vieja**. Mucha gente paga, ve solo la Nueva y se va. Es un error.
 
-### 21:00 â€” Cena y Plaza Mayor de noche
+### 5. Casa Lis o Convento de San Esteban (16:00-17:30)
 
-La **Plaza Mayor iluminada** es uno de esos lugares que justifica el viaje. La iluminaciÃ³n nocturna es cÃ¡lida, la piedra dorada toma un color completamente distinto al diurno, y las terrazas se llenan de gente cenando. Aunque las terrazas de la propia plaza son caras (5-7â‚¬ una caÃ±a, 25-30â‚¬ menÃº), tomarse una copa allÃ­ 30 minutos antes de cenar en otro sitio compensa.
+Después de comer, elige uno según interés:
 
-Para cenar, mismas zonas que a mediodÃ­a: **MelÃ©ndez**, **RÃºa Antigua**, **Van Dyck**. Cena 25-35â‚¬ por persona en sitio bueno.
+**Casa Lis - Museo Art Nouveau y Art Déco**: edificio modernista con vidrieras espectaculares. Colección de muñecas de porcelana, joyería, mobiliario, vidrio. **Infravalorado**, una joya escondida.
+- Entrada: 4 €.
+- Recomendado si te gusta el modernismo, art nouveau, decoración.
 
-**22:30** â€” Si vuelves en tren, Ãºltimo Avant a Madrid sobre las 21:00-21:30. Si vuelves en coche o duermes en Salamanca, copa relajada en la Plaza Mayor y a casa.
+**Convento de San Esteban**: convento dominico con claustro impresionante y fachada plateresca alternativa a la de la Universidad.
+- Entrada: 4 €.
+- Recomendado si quieres más arquitectura monumental.
 
-## Lo que NO recomendarÃ­amos
+⚠️ **No los hagas los dos**. En 1 día no hay tiempo de calidad para los dos. Elige según interés.
 
-**Tablas de tapas en cadena en zona monumental.** Los locales tipo "100 tapas" o "todo a 1â‚¬" cerca de la Plaza Mayor son trampa pura para grupos jÃ³venes. Mejor menos cantidad y mÃ¡s calidad.
+### 6. Atardecer en el Puente Romano (18:30-19:30)
 
-**El recorrido en tren turÃ­stico.** Salamanca es ciudad de patear, no de circular. El tren turÃ­stico va lento, no entra a sitios y cuesta 6-8â‚¬ por persona. Con dos horas andando ves mÃ¡s.
+Bajas desde el casco antiguo hacia el Tormes. **A 10 minutos andando**.
 
-**Comprar la entrada a la Universidad sin verificar horario.** El museo cierra algunos dÃ­as puntuales y los lunes por la tarde es gratis (cola larga). Verifica en museo.usal.es antes de ir.
+El Puente Romano (de origen romano, reconstruido en el XVII) cruza el río Tormes y ofrece **la mejor vista de Salamanca**: las dos catedrales sobre la colina, la torre de la Clerecía a un lado, todo en piedra dorada con la luz del atardecer.
 
-**Ieronimus si ya has subido a la ClerecÃ­a.** Repetir altura es perder tiempo. QuÃ©date con una de las dos.
+⭐ Es **uno de los mejores momentos del día**. Hazlo sin prisa. Llévate agua o un vino del bar de la otra orilla.
 
-**Tomar copas en bares con cartel "ambiente Erasmus".** En periodo lectivo, Salamanca es ciudad universitaria potente y los bares de estudiantes son ruidosos y muy jÃ³venes. Si no es lo que buscas, mejor zonas como **MelÃ©ndez** o **RÃºa Antigua** para copa tranquila.
+Si tienes energía, sube hasta el **Mirador del Tormes** o el **barrio del Arrabal** para vistas alternativas.
 
-**Cenar el primer hornazo o chanfaina que veas.** Como con cualquier plato regional, en zona turÃ­stica la calidad cae en picado. Si vas a probar embutidos serios, ve a **un sitio recomendado por el local**, no al primero con cartel grande.
+## Lo que se puede saltar en una visita exprés
 
-## Errores tÃ­picos del visitante
+Reconozco honestamente las cosas que en una visita normal se incluyen pero que **no merecen el tiempo si solo tienes un día**:
 
-1. **No reservar entrada a la Universidad con antelaciÃ³n en festivos o fines de semana de junio**. Las graduaciones y selectividad llenan el sitio.
-2. **Confundir el "astronauta" con la rana**. Son monumentos distintos: astronauta en Catedral Nueva, rana en Universidad.
-3. **Cruzar la Plaza Mayor sin parar**. Es el monumento que justifica venir, no un atajo. Dale tiempo.
-4. **Comer a las 13:00**. La cocina seria abre a las 13:30 y muchos sitios no sirven hasta las 14:00. Si entras antes, comerÃ¡s peor.
-5. **Subestimar el calor de agosto**. Salamanca a 38Â°C no es agradable. Si vas en agosto, baja al Tormes a mediodÃ­a y deja monumentos para tarde-noche.
-6. **Llevar zapato sin domar**. Empedrado de canto en todo el casco. 8-12 km al dÃ­a. Calzado cÃ³modo.
-7. **No cuadrar el atardecer en el Tormes**. Si te lo pierdes, te has perdido la mejor postal posible. Calcula la hora del puente.
-8. **Asumir que las dos catedrales se hacen en 30 minutos**. Necesitas 1h 15min mÃ­nimo para verlas con sentido. No es un trÃ¡mite.
+### Museo de Salamanca (Casa de los Doctores de la Reina)
 
-## Cierre
+Pequeño museo de arqueología y bellas artes. Está bien pero **no compensa el tiempo** en un día apretado. Sáltalo y reserva para una segunda visita.
 
-Salamanca en un dÃ­a funciona porque la ciudad estÃ¡ pensada para verse a pie, los monumentos estÃ¡n concentrados y el ritmo del recorrido â€”Plaza, Universidad, Conchas, ClerecÃ­a, comer, Catedrales, Tormes al atardecerâ€” tiene una progresiÃ³n natural que casi se monta sola. La diferencia entre un visitante que sale satisfecho y uno que sale con sensaciÃ³n de haber corrido es, casi siempre, **una hora bien usada al final**: el atardecer en el Tormes y la copa nocturna en la Plaza Mayor iluminada.
+### Iglesia de la Purísima
 
-Si despuÃ©s decides que necesitas mÃ¡s, es momento de plantear escapada de fin de semana con Casa Lis, Alba de Tormes y una excursiÃ³n a la **Sierra de Francia** o **La Alberca**. Pero para una primera visita, este dÃ­a rinde.
+Bonita pero **muy menor** comparada con lo que ya ves ese día. Saltable.
+
+### Convento de las Dueñas
+
+Claustro mudéjar precioso, sí. Pero está cerrado muchas tardes y **no compensa hacerlo en un día apretado**. Si vienes 2 días, sí.
+
+### Cueva de Salamanca
+
+Pequeño rincón curioso (lugar legendario donde el demonio daba clases de magia, según la leyenda). **5 minutos te bastan**, pero si vas justo, sáltalo.
+
+### Excursión a Alba de Tormes o La Alberca
+
+**Imposible en un día**. Son visitas de mínimo media jornada. Reserva para 2-3 días.
+
+## Comer en Salamanca en una visita exprés
+
+Tienes 1h30 para comer. **Importante elegir bien**.
+
+### Lo que SÍ funciona
+
+- **Calle Van Dyck**: la calle gastronómica de Salamanca. Tabernas serias donde comen los locales. Tapas y raciones. Caminata 8-10 minutos desde Plaza Mayor.
+- **Calle Meléndez**: ambiente joven, tapas creativas, precios universitarios. Justo al lado del centro.
+- **Bares de tapas en Rúa Mayor o Plaza del Corrillo**: clásicos centrados con buen jamón ibérico de Guijuelo.
+
+### Trampas que evitar a toda costa
+
+- **Restaurantes con menú turístico en Plaza Mayor**: precios inflados, calidad mediocre. Si quieres estar en la plaza, **toma solo café o caña**. Para comer, sal de la plaza.
+- **"Hornazo + flan + sopa" como menú turístico**: los hornazos buenos están en panaderías (Hornazo Charra, panaderías de barrio Garrido), no en kioscos.
+
+### Platos a probar
+
+- **Hornazo**: empanada salmantina rellena. Imprescindible.
+- **Jamón ibérico de Guijuelo**: la mejor versión está aquí (la denominación es de la provincia).
+- **Farinato**: embutido frito, contundente.
+- **Chanfaina**: arroz con casquería, plato fuerte de cuchara.
+
+## Errores típicos del visitante exprés en Salamanca
+
+**1. Quedarse solo en Plaza Mayor**: la plaza es preciosa pero **es solo el comienzo**. La Universidad, las catedrales y la Clerecía son **igual o más importantes**.
+
+**2. Comer en Plaza Mayor**: ya lo dije pero lo repito porque es el error nº1. Camina 5 minutos y comerás 5 veces mejor.
+
+**3. Saltarse la Catedral Vieja**: es **más interesante** que la Nueva pero la mayoría la ignora.
+
+**4. No subir a las torres de la Clerecía**: las mejores vistas de Salamanca están aquí. Por 6 €, es una de las inversiones más rentables del día.
+
+**5. No buscar la rana**: la rana de la fachada de la Universidad es **el icono no oficial** de la ciudad. Encontrarla es parte de la experiencia.
+
+**6. Visitarla solo de día y volverse**: Salamanca de noche, con la piedra dorada iluminada, es **otra ciudad**. Si puedes quedarte hasta las 21:00, mereces ver eso.
+
+**7. No pasear sin rumbo por el casco antiguo**: las callejuelas entre Universidad y catedrales tienen **detalles arquitectónicos por todas partes**. Solo caminando los descubres.
+
+**8. Llevar calzado mal pensado**: Salamanca se anda. En un día puedes hacer 10-15 km caminando. Calzado cómodo es obligatorio.
+
+## ¿Y si te quedas a dormir?
+
+Si tu plan es solo 1 día pero terminas enganchándote (pasa mucho), las opciones son:
+
+- **Hotel de última hora**: 60-100 € en hoteles del centro. La ciudad tiene buena oferta y rara vez está saturada (excepto en Lunes de Aguas o Ferias).
+- **Tren de vuelta al día siguiente**: hay trenes desde primera hora de la mañana.
+
+Salamanca de noche **merece la pena vivirla** al menos una vez: Plaza Mayor iluminada, terrazas hasta las 2 AM, ambiente universitario en plena marcha. Si puedes ajustar tu plan para ver al menos el atardecer y la primera parte de la noche, **hazlo**.
+
+## En una frase
+
+Salamanca en un día funciona si renuncias a verlo todo y eliges los grandes (Plaza Mayor + Universidad + Catedrales + Clerecía + Puente Romano al atardecer). Caminar mucho, comer fuera de Plaza Mayor y subir a las torres son las tres reglas que separan una buena experiencia de una mediocre.
+
+Y un consejo final: **busca la rana**. Si no la encuentras tú, alguien te la enseñará. Es la pequeña tradición que mejor define el espíritu de la ciudad.

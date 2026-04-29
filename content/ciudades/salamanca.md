@@ -1,8 +1,8 @@
 ---
 nombre: "Salamanca"
 slug: "salamanca"
-descripcion: "La ciudad dorada de Castilla: la Plaza Mayor mÃ¡s bella de EspaÃ±a, la universidad mÃ¡s antigua del paÃ­s y piedra de Villamayor en cada esquina."
-comunidad: "Castilla y LeÃ³n"
+descripcion: "La ciudad dorada de Castilla: Plaza Mayor barroca, la universidad más antigua de España y piedra de Villamayor en cada esquina."
+comunidad: "Castilla y León"
 imagen: "/ciudades/salamanca.jpg"
 publicada: true
 destacada: true
@@ -15,128 +15,124 @@ keywords:
   - "turismo salamanca"
 ---
 
-Salamanca es probablemente la ciudad pequeÃ±a con mÃ¡s densidad monumental por kilÃ³metro cuadrado de EspaÃ±a. Patrimonio de la Humanidad por la UNESCO desde 1988, concentra en un casco histÃ³rico de apenas un kilÃ³metro cuadrado dos catedrales pegadas, la universidad mÃ¡s antigua del paÃ­s (1218), una Plaza Mayor barroca que estÃ¡ entre las mÃ¡s bonitas de Europa, y un edificio civil cubierto de conchas que es uno de los mÃ¡s fotogÃ©nicos del Renacimiento espaÃ±ol.
+Salamanca es probablemente la ciudad mejor conservada de toda Castilla. Una Plaza Mayor barroca que muchos consideran la más bonita de España, la universidad más antigua del país en activo desde 1218, fachadas platerescas llenas de detalles para descubrir, y todo construido en piedra de Villamayor: una arenisca que con la luz del atardecer **se vuelve literalmente dorada**.
 
-A todo esto se le suma una caracterÃ­stica Ãºnica: la **piedra de Villamayor**. Una arenisca dorada con la que estÃ¡ construida prÃ¡cticamente toda la ciudad histÃ³rica y que, al atardecer, toma un color naranja que justifica el sobrenombre de "ciudad dorada". Este detalle, que parece menor, es lo que la diferencia de cualquier otra ciudad castellana de tamaÃ±o similar y lo que hace que las fotos de Salamanca al ocaso sean inconfundibles.
+Y por encima de los monumentos, lo que hace única a Salamanca: **es una ciudad universitaria viva**. Decenas de miles de estudiantes paseando por las mismas calles del siglo XIII, llenando las plazas hasta las tantas, dándole un pulso joven que ninguna otra ciudad histórica española tiene. Esa mezcla de patrimonio brutal y ambiente vivo es lo que hace que Salamanca enganche desde el primer día.
 
-## CuÃ¡ndo visitar Salamanca
+## Cuándo visitar Salamanca
 
-**La mejor Ã©poca**: **mayo, junio, septiembre y primera mitad de octubre**. Temperaturas amables (15-26Â°C), dÃ­as largos, terrazas operativas en la Plaza Mayor, luz dorada sobre la piedra. Sin extremos.
+**Mejor época**: **abril, mayo, junio, septiembre y octubre**. Temperaturas agradables (15-26 °C), ambiente universitario en plena marcha (octubre-junio), terrazas operativas en Plaza Mayor, luz preciosa para fotografiar la piedra dorada.
 
-**CuÃ¡ndo evitar (con matices)**:
+**Cuándo evitar (con matices)**:
 
-- **Enero y febrero**: frÃ­o continental seco (mÃ¡ximas de 8-10Â°C, mÃ­nimas bajo cero), dÃ­as cortos (anochece a las 18:00), terrazas cerradas. La ciudad se ve, pero el plan se acorta sustancialmente.
-- **Agosto a mediodÃ­a**: 35-38Â°C de calor seco. Los locales se vacÃ­an entre las 14:00 y las 19:00. Se puede hacer si adaptas horarios.
-- **Nochevieja Universitaria** (segunda quincena de diciembre): el botellÃ³n estudiantil ha trasladado la celebraciÃ³n a la Plaza Mayor. Bonito si vas a la fiesta, no si buscas una ciudad tranquila.
+- **Julio y agosto**: la ciudad se vacía. La universidad está cerrada, los estudiantes se han ido a casa. Salamanca pierde la mitad de su gracia. Aún se puede visitar, pero es como ir a un campus vacío.
+- **Enero y febrero**: frío seco castellano (puede helar de noche), días cortos. Tampoco impide la visita pero quita tiempo útil.
 
-**Mes infravalorado**: **noviembre**. FrÃ­o fresco pero soportable, luz dorada espectacular sobre la piedra, terrazas a mediodÃ­a todavÃ­a operativas, y una afluencia mucho menor que en primavera. Una de las mejores fechas del aÃ±o para fotografiar la ciudad.
+**Mes infravalorado**: **octubre**. Vuelta universitaria, ciudad efervescente, otoño dorado sobre piedra dorada, hoteles a precios razonables.
 
-## CuÃ¡ntos dÃ­as son razonables
+## Cuántos días son razonables
 
-- **1 dÃ­a**: el formato mÃ¡s realista para la mayorÃ­a. Suficiente para Plaza Mayor + Universidad + Catedrales + Casa de las Conchas + Tormes al atardecer si planificas bien. Es lo que recomendamos para una primera visita desde Madrid.
-- **Fin de semana (2 dÃ­as)**: el sweet spot. AÃ±ades Casa Lis, una visita mÃ¡s reposada, y cabe una excursiÃ³n a **Alba de Tormes** o **La Alberca** uno de los dÃ­as.
-- **3 dÃ­as**: solo justifica si vas a hacer **Sierra de Francia** completa (La Alberca, Mogarraz, Miranda del CastaÃ±ar) o si combinas con **Ciudad Rodrigo**.
-- **MÃ¡s de 3 dÃ­as**: solo si vas a base de Salamanca para recorrer Castilla y LeÃ³n entera (Zamora, LeÃ³n, Segovia).
+- **1 día**: el mínimo. Permite Plaza Mayor + Universidad + las dos catedrales corriendo. Suficiente si vienes de paso desde Madrid.
+- **2 días**: el sweet spot. Añades Casa Lis, Convento de San Esteban, subida a la torre de la Clerecía y una noche viviendo el ambiente universitario.
+- **3 días**: ideal si quieres incluir excursión a La Alberca, Alba de Tormes o los pueblos de la Sierra de Francia.
 
-## CÃ³mo moverse
+## Cómo moverse
 
 ### Andando
 
-**Salamanca es completamente andable**. El casco histÃ³rico cabe en un radio de 800 metros y todos los grandes monumentos estÃ¡n conectados por calles peatonales o de trÃ¡fico restringido. Si tu hotel estÃ¡ en el centro, no necesitarÃ¡s otro transporte.
+**Salamanca es una ciudad pequeña**. Todo lo turístico cabe en el casco histórico y se recorre andando sin esfuerzo. Las distancias son cortas y el casco antiguo es relativamente plano (con alguna cuesta suave bajando hacia el río Tormes).
 
-### AutobÃºs urbano
+### Autobús urbano
 
-Cubre toda la ciudad. Billete sencillo: 1,15â‚¬ aproximadamente. Ãštil sobre todo si te alojas en zona externa o vas a la estaciÃ³n de tren/autobuses. Para turismo monumental, no hace falta.
-
-### Bicicleta
-
-Salamanca tiene carriles bici discretos y la ciudad es bastante llana en el casco. **Salenbici** es el sistema pÃºblico. Buena opciÃ³n si vas a moverte mucho a las afueras (parque del Tormes) pero innecesario para el centro.
+Útil si tu hotel está fuera del centro o vas a la estación de tren/autobuses. Billete sencillo: aproximadamente 1,15 €. Para turismo dentro del casco antiguo no es imprescindible.
 
 ### Coche
 
-**El centro es ZBE (zona de bajas emisiones)**. Si vienes en coche, dÃ©jalo en parking exterior (Santa Eulalia, Plaza EspaÃ±a, EstaciÃ³n) por **12-18â‚¬ dÃ­a** y mÃ©tete andando. Aparcar en el casco histÃ³rico es prÃ¡cticamente imposible salvo que tengas residencia.
+**Mejor olvidarlo en el centro**. Casi todo el casco histórico es zona peatonal o de acceso restringido. Si vienes en coche, busca aparcamiento público fuera del casco antiguo (Parking Plaza de Santa Eulalia, Parking de Buenos Aires) y muévete andando.
 
-### Lo que NO recomendamos
+### Taxi
 
-**Tren turÃ­stico**. Lento, caro (6-8â‚¬), no entra a sitios. Salamanca se patea. Lo mismo aplica a los **carruajes con caballos** que verÃ¡s en la Plaza Mayor: caro, breve, pintoresco para foto, poco mÃ¡s.
+Económico (4-7 € entre puntos del centro). Útil si llegas tarde con maletas o sales tarde por la noche.
 
-## DÃ³nde dormir: barrios sÃ­, barrios no
+## Dónde dormir: barrios sí, barrios no
 
-### Zonas recomendadas
+### Barrios recomendados
 
-**Casco histÃ³rico (entorno Plaza Mayor)** â€” la mejor opciÃ³n para una primera visita
-Andas a todos los monumentos en menos de 5 minutos. Los hoteles boutique en edificios histÃ³ricos son excelentes. Contras: precios mÃ¡s altos, ruido nocturno los fines de semana.
+**Casco histórico (alrededor de Plaza Mayor y Calle Toro)** — la mejor opción central
+Andas a todo en menos de 10 minutos. Pros: estás dentro de la postal. Contras: ruido nocturno (Plaza Mayor vive hasta tarde), hoteles más caros que en otras zonas.
 
-**Calle Toro y entorno** â€” alternativa central con buen precio
-Calle comercial principal, conecta Plaza Mayor con Plaza del Mercado. Menos ruido nocturno que el entorno directo de la Plaza Mayor.
+**Zona Universidad / Patio de Escuelas** — para empaparte del ambiente
+Hoteles boutique en edificios históricos, cerca de las dos catedrales y la universidad. **Mi recomendación si vienes a vivir Salamanca, no solo a verla**.
 
-**San Esteban / Plaza del Concilio de Trento** â€” zona monumental sur
-Junto a la Catedral y el rÃ­o Tormes. Tranquila, calles bonitas, buen acceso al casco antiguo. **La opciÃ³n si buscas calma sin alejarte del centro**.
+**Zona Catedrales / San Esteban** — la más tranquila dentro del centro
+Calles más silenciosas, alejadas del bullicio nocturno pero a 5 minutos de Plaza Mayor. Buena para parejas o quien busca descansar bien.
 
-**Van Dyck** â€” alternativa norte para presupuestos ajustados
-Barrio residencial al norte del casco antiguo. MÃ¡s asequible, menos turÃ­stico, ambiente local. A 10-15 minutos andando del centro.
+**Avenida Mirat / barrio de Garrido** — alternativa con mejor calidad-precio
+Fuera del casco histórico pero a 10-15 minutos andando. Hoteles más nuevos y económicos. Buena opción si vienes con coche y quieres aparcamiento incluido.
 
-### Zonas a evitar (para alojarse)
+### Barrios a evitar (para alojarse)
 
-**Garrido**: barrio dormitorio sin vida nocturna ni gastronomÃ­a interesante. EstÃ¡ lejos del centro y desconectado del turismo.
+**Polígonos industriales / barrios alejados (El Zurguén, Tejares lejano)**: lejos del centro, sin atractivo turístico. Solo si tienes coche y prioridad es precio.
 
-**PolÃ­gonos industriales (Montalvo, El Montalvo)**: solo si tu coche te ha llevado allÃ­ por error. Sin acceso peatonal cÃ³modo al casco histÃ³rico.
+**Zona Estación de Tren**: funcional pero deslucida. Solo si tu llegada es muy tarde o salida muy temprana.
 
-**Buenos Aires / La Vega**: barrios residenciales muy alejados, sin transporte cÃ³modo a la zona monumental.
+**Carretera de Madrid / Aldealengua**: solo si tu vuelo es a las 6 AM (y ni siquiera hay aeropuerto cerca).
 
 ## Comer en Salamanca
 
 ### Horarios reales
 
-- **Comida**: 13:45-15:30 (Salamanca come tarde, como casi toda Castilla).
-- **Cena**: 21:00-23:00.
+- **Comida**: 14:00-16:00
+- **Cena**: 21:00-23:30
 
-Fuera de esas franjas, la cocina seria estÃ¡ cerrada. Los sitios que sirven a las 12:00 o a las 19:00 son trampa turÃ­stica pura.
+Salamanca come y cena tarde como toda Castilla. Si quieres comer a las 13:00, te tocará un bar turístico de Plaza Mayor.
 
-### Zonas con buena oferta gastronÃ³mica
+### Zonas con buena oferta
 
-- **Calle MelÃ©ndez y RÃºa Antigua**: tabernas honestas, precios decentes (15-25â‚¬ por persona), pÃºblico mixto local y visitante.
-- **Plaza del Corrillo y entorno**: tapeo clÃ¡sico cerca de la Plaza Mayor sin caer en las trampas mÃ¡s obvias.
-- **Calle Van Dyck (norte del casco)**: zona menos turÃ­stica, donde come la gente del barrio. Vale la pena el desvÃ­o.
-- **Plaza Mayor**: mejor solo para terraceo y copas, no para comida seria. Las terrazas de la plaza son bonitas pero caras y la calidad cae respecto a las calles laterales.
+- **Calle Van Dyck**: la calle gastronómica de Salamanca. Bares de tapas serios donde comen los locales, no los turistas.
+- **Rúa Mayor y Rúa Antigua**: tabernas tradicionales mezcladas con turismo. Hay que elegir bien.
+- **Calle Meléndez**: ambiente joven, tapas creativas, precios universitarios.
+- **Plaza del Corrillo y alrededores**: bares clásicos con buen jamón ibérico.
+- **Barrio Garrido (al otro lado de Avenida Mirat)**: ambiente local, sin turismo, precios bajos.
 
-### Trampas a evitar
+### Trampas turísticas a evitar
 
-- **Restaurantes con menÃº turÃ­stico a 12,90â‚¬** en zona monumental. Arroces precocinados y hornazo de plÃ¡stico.
-- **Cualquier sitio con menÃº traducido a seis idiomas y foto de los platos en la puerta**. SeÃ±al infalible.
-- **"Cena con tuna universitaria incluida"**: experiencia descafeinada para turismo. Si te interesa la tuna, salen espontÃ¡neamente por la Plaza Mayor por la noche; mejor escucharlas allÃ­ gratis.
+- **Restaurantes en Plaza Mayor con menú en 8 idiomas**: precio inflado, calidad regular. La plaza está para tomar algo y disfrutar las vistas, no para comer en serio.
+- **"Menú turístico de Salamanca" con sopa + carne + flan**: todo de cadena, sin alma.
+- **Hornazo en cualquier esquina turística**: el hornazo (empanada salmantina rellena de chorizo, lomo y huevo) es típico, pero compradlo en panaderías locales (Hornazo Charra, panaderías del barrio Garrido), no en kioscos turísticos.
 
-### Platos imprescindibles
+### Platos a probar sí o sí
 
-- **Hornazo**: pan relleno de embutidos (lomo, jamÃ³n, chorizo, huevo). Plato de Pascua, pero presente todo el aÃ±o en versiÃ³n miniatura. **El de verdad**, no el envasado de gasolinera.
-- **Chanfaina salmantina**: guiso con arroz, sangre, tripa y embutidos de cordero. MÃ¡s serio de lo que el nombre sugiere. No es para todos los paladares pero es la receta mÃ¡s sevillana de Salamanca.
-- **Farinato**: embutido tÃ­pico salmantino (a base de pan, manteca y especias) frito con huevo. Plato de tasca, contundente.
-- **Carne morucha**: raza autÃ³ctona de la sierra de Salamanca. Si la tienen a la plancha, pÃ­dela.
-- **Embutidos ibÃ©ricos de Guijuelo**: la denominaciÃ³n de origen del jamÃ³n ibÃ©rico estÃ¡ en provincia de Salamanca. Cualquier ibÃ©rico serio aquÃ­ parte de buen producto.
+- **Hornazo**: empanada salmantina rellena de chorizo, lomo y huevo. Tradicional del Lunes de Aguas.
+- **Chanfaina**: arroz con mollejas, oreja, chorizo y morcilla. Plato de cuchara contundente.
+- **Farinato**: embutido salmantino frito, similar a la morcilla pero con pan.
+- **Lechazo asado**: cordero lechal en horno de leña, especialidad castellana.
+- **Jamón ibérico de Guijuelo**: la denominación de origen está a 50 km de Salamanca. Aquí lo tienes en su mejor versión.
+- **Tostón** (cochinillo asado): clásico castellano.
 
-## Errores tÃ­picos del visitante
+## Errores típicos del visitante en Salamanca
 
-**1. Visitar la Universidad sin verificar horarios y festivos**: cierra algunos dÃ­as puntuales y los lunes por la tarde es gratis (con cola). Verifica en museo.usal.es antes de ir.
+**1. Verla solo de día**: Salamanca de noche, con la piedra dorada iluminada y la Plaza Mayor llena de gente, es **otra ciudad**. Si solo la ves de día, te llevas la mitad.
 
-**2. Confundir el "astronauta" con la "rana"**: son monumentos distintos. La **rana** estÃ¡ en la fachada plateresca de la **Universidad** (sobre una calavera, pilastra derecha). El **astronauta** estÃ¡ en la **Catedral Nueva** (Puerta de Ramos), y es una restauraciÃ³n del siglo XX, no medieval.
+**2. No buscar la rana de la fachada**: la rana sobre una calavera en la fachada plateresca de la Universidad es **el símbolo turístico** de la ciudad. Encontrarla sin ayuda lleva su tiempo. Cuenta la leyenda que quien la encuentra aprueba el examen.
 
-**3. Cruzar la Plaza Mayor sin parar**: es uno de los monumentos que justifica venir, no un atajo entre calles. Dale 30-40 minutos enteros y mira los medallones de los soportales con cabeza.
+**3. Comer en Plaza Mayor**: la plaza es para una caña al sol o un café. Para comer, sal a Calle Van Dyck o las calles del centro alejadas dos o tres manzanas.
 
-**4. No ver Salamanca al atardecer**: la **piedra de Villamayor** se pone literalmente naranja con la luz cenital. Si solo ves la ciudad de dÃ­a, te has perdido la mitad de su carÃ¡cter. El **Puente Romano** sobre el Tormes es el mejor sitio para verlo.
+**4. Saltarse la Catedral Vieja**: la mayoría visita solo la Nueva. La Vieja, anexa, es **mucho más interesante**: románica, con un retablo medieval impresionante y el cimborrio del Gallo.
 
-**5. Subir a Ieronimus y a la ClerecÃ­a el mismo dÃ­a**: las dos tienen subida con vistas. Repetir altura en una jornada es perder tiempo. **Recomendamos la ClerecÃ­a** si tienes que elegir una: vistas mÃ¡s amplias y mejor relaciÃ³n calidad-precio.
+**5. No subir a las torres de la Clerecía**: las "Scala Coeli" son la mejor vista de Salamanca, con la fachada de la universidad y la Casa de las Conchas a tus pies. Imprescindible al atardecer.
 
-**6. Comer hornazo o chanfaina en el primer sitio que veas**: como con cualquier plato regional, la calidad cae en zonas turÃ­sticas. Pregunta o ve a tabernas de MelÃ©ndez o Van Dyck.
+**6. Visitar solo en julio/agosto**: la mitad de la magia de Salamanca son sus estudiantes. En verano se vacía. Cualquier mes con universidad activa es mejor.
 
-**7. No reservar en periodos universitarios**: graduaciones de junio, selectividad y Nochevieja Universitaria llenan la ciudad. Hoteles a precios disparados con poca antelaciÃ³n.
+**7. Ignorar la Casa Lis**: el museo de Art Nouveau y Art Déco con vidrieras espectaculares. Mucho menos visitado de lo que merece.
 
-## Eventos a cuadrar (si puedes)
+## Eventos que valen la pena cuadrar (si puedes)
 
-- **Lunes de Aguas** (lunes despuÃ©s de Semana Santa): tradiciÃ³n salmantina Ãºnica en EspaÃ±a. La gente sale al campo a comer hornazo. Ambiente local genuino.
-- **Ferias y Fiestas de Salamanca** (segunda semana de septiembre): patrona de la Virgen de la Vega. Encierros, conciertos y fuegos. Una de las semanas mÃ¡s activas del aÃ±o.
-- **Festival Internacional de las Artes de Castilla y LeÃ³n (FÃ€CYL)** (junio): teatro, danza y mÃºsica contemporÃ¡nea con piezas que se programan en escenarios urbanos.
-- **Nochevieja Universitaria** (segunda quincena de diciembre): la fiesta estudiantil es masiva. Bonita si quieres ambiente joven, evitable si buscas calma.
+- **Lunes de Aguas** (lunes después del Lunes de Pascua): tradición salmantina única. Los estudiantes salen al campo a comer hornazo. Ambiente festivo brutal.
+- **Festival Internacional de las Artes de Castilla y León (FÀCYL)** (junio): teatro, música, danza por toda la ciudad.
+- **Ferias y Fiestas de Salamanca** (septiembre): feria taurina, conciertos, ambiente popular.
+- **Plaza Mayor iluminada en Navidad**: una de las plazas más espectaculares de España con la iluminación de fiestas.
 
 ## En una frase
 
-Salamanca no es una capital, pero compite con cualquier ciudad europea en densidad monumental por kilÃ³metro. Si la visitas con tiempo de pararte y, sobre todo, con tiempo de verla anochecer, te llevas una de las ciudades mÃ¡s fotogÃ©nicas y mejor conservadas de EspaÃ±a. Si solo cruzas la Plaza Mayor de paso, te has perdido lo que hace que la llamen "la dorada".
+Salamanca no se ve, se vive. Si la respetas dándole al menos dos días, recorriendo su casco antiguo de día y de noche, parando a comer en sus calles auténticas y subiendo a sus torres al atardecer, te llevas una de las ciudades más completas de España. Si la corres en una mañana, te llevas solo postales.
