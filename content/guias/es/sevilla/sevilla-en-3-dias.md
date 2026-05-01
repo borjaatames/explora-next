@@ -1,18 +1,22 @@
 ---
-titulo: "Sevilla en 3 días: la ruta con criterio para vivirla, no solo verla"
-descripcion: "Guía honesta de 3 días en Sevilla: Alcázar, Catedral, Triana y casco antiguo con criterio. Qué visitar, qué saltarse, dónde dormir, dónde comer y errores típicos a evitar."
+titulo: "Sevilla en 3 días: ruta con criterio para vivirla, no solo verla"
+descripcion: "Guía honesta de 3 días en Sevilla: Alcázar, Catedral, Triana y casco antiguo con criterio. Qué visitar, qué saltarse, dónde dormir y errores típicos."
 categoria: "sevilla"
 slug: "sevilla-en-3-dias"
 fecha: "2026-04-28"
+fecha_actualizacion: "2026-05-01"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
+imagen_alt: "Vista de la Giralda y la Catedral de Sevilla desde Triana al atardecer con el río Guadalquivir en primer plano"
+tiempo_lectura: 14
 keywords:
-  - "sevilla en 3 dias"
-  - "que ver en sevilla"
-  - "guia de sevilla"
+  - "sevilla en 3 días"
+  - "qué ver en sevilla"
+  - "guía de sevilla"
   - "sevilla turismo"
-  - "ruta sevilla 3 dias"
+  - "ruta sevilla 3 días"
 ---
 
 Sevilla no es una ciudad para verla: es una ciudad para **vivirla**. La luz al atardecer sobre la Giralda, los azulejos de la Plaza de España, el río al cruzar el puente de Triana, la sombra de los naranjos en el casco antiguo, los azulejos en cada pared. Tres días son suficientes para empaparse de la esencia, **siempre que sepas qué priorizar y qué saltarte**.
@@ -24,12 +28,15 @@ Esta guía no es una lista exhaustiva de monumentos: es la ruta que recomendarí
 **Dos días** son justos. Da para Alcázar + Catedral + Triana corriendo, pero te quedas con el sabor a "habérselo perdido".
 
 **Tres días** son el sweet spot. Te permiten:
+
 - Hacer los grandes monumentos con calma
 - Descubrir Triana y el casco antiguo paseando
 - Disfrutar de Sevilla en sus dos momentos mágicos: amanecer y atardecer
 - Tener tiempo para una excursión corta (Itálica, por ejemplo)
 
 **Cuatro o cinco días** ya son para combinar con Córdoba, Cádiz o Jerez.
+
+> **⭐ Tip:** Si solo puedes ir 2 días, replantéate el viaje. Sevilla con menos de tres días sabe a "deberíamos haber venido más tiempo", que es el peor recuerdo posible de una ciudad.
 
 ## Cuándo visitar Sevilla
 
@@ -58,16 +65,17 @@ Esta guía no es una lista exhaustiva de monumentos: es la ruta que recomendarí
 
 Empieza por el **Real Alcázar de Sevilla**. Hay tres razones para hacerlo lo primero:
 
-1. **Compra entrada online con antelación**: 15,50 €. Sin ello, en temporada alta puedes hacer 30-45 minutos de cola. Y hay aforo limitado a 750 personas.
+1. **Compra entrada online con antelación**: en torno a 20€ (precio 2026, verifica en alcazarsevilla.org). Sin ello, en temporada alta puedes hacer 30-45 minutos de cola. Y hay aforo limitado a 750 personas.
 2. **Slot de las 9:30 (apertura)**: el Alcázar al amanecer es **otra cosa** comparado con la masa de turistas a las 12:00.
 3. **Es el monumento estrella**. El palacio en uso más antiguo de Europa, mezcla mudéjar-cristiana sin equivalente.
 
 Dedícale **2-3 horas**. No salgas sin ver:
+
 - **Patio de las Doncellas** (el más fotografiado, justificadamente)
 - **Salón de Embajadores** y su cúpula
 - **Jardines** completos (la mitad de los visitantes no llega aquí — gran error)
 
-Si tienes margen presupuestario, añade el **Cuarto Real Alto** (21 € entrada combinada). Si vas justo, sáltatelo.
+Si tienes margen presupuestario, añade el **Cuarto Real Alto** (5,50€ adicionales sobre la entrada general, son 25 minutos guiados). Si vas justo, sáltatelo.
 
 A continuación, **Catedral de Sevilla y Giralda**. Justo enfrente del Alcázar, no se puede combinar mejor.
 
@@ -75,7 +83,7 @@ A continuación, **Catedral de Sevilla y Giralda**. Justo enfrente del Alcázar,
 - **Giralda**: subida obligada. **Es por rampa, no escaleras** (la diseñaron así para que pudieran subir a caballo). Las vistas desde arriba son las mejores del centro.
 - **Patio de los Naranjos**: el patio que queda donde antes estaba la antigua mezquita. Imprescindible.
 
-**Tiempo total**: 1h30 a 2h. Entrada conjunta unos 12-15 €.
+**Tiempo total**: 1h30 a 2h. **Entrada conjunta Catedral + Giralda + Iglesia del Salvador (precio 2026)**: 20€ online o 21€ en taquilla; gratuita para menores de 13 años acompañados de adulto.
 
 **Comida (14:00-15:30)**
 
@@ -88,6 +96,7 @@ Camina 5 minutos hasta la **calle Mateos Gago** (regular, mejor que las plazas a
 Después de comer, la antigua **judería de Santa Cruz** es paseo obligado. **Pero ojo**: no es el barrio más auténtico de Sevilla. Es el más turístico. Aun así, las callejuelas blancas, las plazas como Plaza de Doña Elvira, los azulejos en cada esquina merecen una tarde.
 
 Lo que SÍ ver en Santa Cruz:
+
 - **Plaza de Doña Elvira**: una de las más bonitas de Sevilla
 - **Calle Águilas, calle Mateos Gago**, callejuelas estrechas
 - **Hospital de los Venerables** (10 €): pequeño pero merece la pena, sede de las pinturas del Centro Velázquez
@@ -111,6 +120,7 @@ El otro lado del río Guadalquivir. **Triana es la Sevilla auténtica**, la que 
 **Cómo llegar**: cruzando el **Puente de Triana (Puente de Isabel II)**. Cruzarlo a pie y mirar atrás hacia el casco antiguo es uno de los mejores momentos del viaje.
 
 Lo que ver en Triana:
+
 - **Mercado de Triana**: en la antigua plaza del Altozano. Pescaderías, fruterías, bares de tapas dentro. **Imprescindible** para ver Sevilla auténtica funcionando, no solo posando.
 - **Calle Betis**: la calle paralela al río, frente al casco antiguo. Bares con terraza, vistas a la Giralda, ambiente real.
 - **Castillo de San Jorge** (gratis): bajo el mercado de Triana. Cuartel y prisión de la Inquisición. Pequeño pero curioso.
@@ -128,6 +138,7 @@ Vuelve al centro y cambia de marcha: **menos monumentos, más ambiente**. Camina
 - **Plaza del Pan, Plaza del Cabildo**: pequeñas plazas de bolsillo del casco
 
 Si te interesan los museos:
+
 - **Museo de Bellas Artes** (1,50 € no comunitarios, gratis comunitarios): el segundo museo de pintura más importante de España después del Prado. Murillo, Zurbarán, Valdés Leal. Casi nadie lo visita y vale la pena.
 
 **Atardecer (19:30-20:30) — el Guadalquivir**
@@ -135,7 +146,7 @@ Si te interesan los museos:
 Sevilla al atardecer junto al río es **una de las mejores experiencias de España**. Tres opciones:
 
 1. **Torre del Oro y paseo por el Arenal**: monumento del XIII (3 €, gratis lunes), pasear junto al río con vistas a Triana al otro lado.
-2. **Subir a la Setas (Las Setas de Sevilla / Metropol Parasol)**: mirador moderno en el centro. 15 €. Vistas 360° de toda Sevilla incluyendo la Giralda. **Especialmente bonito al atardecer**.
+2. **Subir a las Setas (Setas de Sevilla / Metropol Parasol)**: mirador moderno en el centro. 15 €. Vistas 360° de toda Sevilla incluyendo la Giralda. **Especialmente bonito al atardecer**.
 3. **Crucero por el Guadalquivir** (15-20 €, 1h): hay varias compañías junto a la Torre del Oro. Vistas de la ciudad desde el río.
 
 ### Día 3: museo o excursión a Itálica
@@ -143,6 +154,7 @@ Sevilla al atardecer junto al río es **una de las mejores experiencias de Espa�
 **Opción A: día tranquilo en Sevilla**
 
 Si tras dos días intensos prefieres ritmo lento, dedica el día a:
+
 - Museo de Bellas Artes (mañana)
 - Casa de Pilatos (tarde, 12 €): palacio sevillano del XV-XVI con patios espectaculares y mezcla de estilos. **Infravalorado**, mucho menos turístico que el Alcázar pero comparable.
 - Parque de María Luisa con calma
@@ -157,7 +169,7 @@ A 9 km de Sevilla, en Santiponce, las **ruinas romanas de Itálica** son una de 
 - Mosaicos in situ de las casas romanas.
 - **Aparece en Juego de Tronos** (Pozo Dragón) — y aunque sea anecdótico, es bonito.
 
-**Cómo llegar**: en coche son 15 min. En bus M-172 desde Plaza de Armas, 30 min y 1,55 €. **Entrada**: 1,50 € (sí, prácticamente gratis para lo que es).
+**Cómo llegar**: en coche son 15 min. En bus M-170A desde Plaza de Armas, 45 min, en torno a 1,55 €. **Entrada**: gratuita para ciudadanos de la UE; 1,50 € para no comunitarios.
 
 Tiempo: media jornada (mañana). La tarde, vuelta a Sevilla y **última cena en Triana o casco antiguo**.
 
@@ -175,7 +187,7 @@ Calles estrechas, casas blancas, encanto absoluto. Pero **muy turístico** y a v
 Junto a la Catedral pero con menos turismo, cerca de la Plaza de Toros (Maestranza). Buen equilibrio.
 
 **Triana** — para vivir la Sevilla auténtica
-Al otro lado del río Guadalquivir. Bares flamencos, mercado de Triana, cerámica artesanal, ambiente sevillano puro. Lleva 10-15 minutos andando al centro. **Mi recomendación si has estado ya en Sevilla** o si quieres distancia con el turismo.
+Al otro lado del río Guadalquivir. Bares flamencos, mercado de Triana, cerámica artesanal, ambiente sevillano puro. Lleva 10-15 minutos andando al centro. ⭐ **Mi recomendación si has estado ya en Sevilla** o si quieres distancia con el turismo.
 
 **Alameda de Hércules** — la zona moderna y nocturna
 Plaza con terrazas, ambiente joven, restaurantes alternativos. Buena para 25-40 que buscan vida nocturna sin los precios del centro.
@@ -206,6 +218,8 @@ En verano, los locales auténticos directamente **no abren** entre 16:00 y 20:00
 
 ### Trampas turísticas a evitar
 
+> **⚠️ Aviso:** Cuanto más cerca de la Catedral, peor relación calidad-precio. La regla del centro: camina 5 minutos y todo cambia.
+
 - **Restaurantes en Plaza Virgen de los Reyes y Mateos Gago**: zona pegada a la Catedral, calidad regular, precio inflado.
 - **"Tapas mixtas + sangría + paella"** como menú: ninguno de los tres platos será bueno. Las tapas son individuales, no surtidos pre-fabricados.
 - **"Cena con espectáculo flamenco" en zona turística**: el espectáculo es flojo, la comida peor. Si quieres flamenco, ve a un sitio específico (no a un restaurante con flamenco).
@@ -233,6 +247,7 @@ A media mañana / mediodía, la cola para subir a la Giralda puede ser de 30-45 
 ### Flamenco en restaurantes "con cena incluida" en Santa Cruz
 
 Espectáculos turísticos flojos a 35-50€ con cena mediocre. Si quieres flamenco serio:
+
 - **Casa de la Memoria** (15 €): pequeño tablao íntimo en Santa Cruz, espectáculos cortos pero auténticos.
 - **La Casa del Flamenco** (20 €): similar, en Santa Cruz también.
 - **Tablao Lo Nuestro**: opciones más informales en Triana.
@@ -247,7 +262,7 @@ Paella es valenciana, no andaluza. Los restaurantes que la sirven en Sevilla la 
 
 ## Errores típicos del visitante en Sevilla
 
-**1. No comprar entradas online al Alcázar**: en temporada alta, te quedas fuera o pierdes 30-45 min en cola. **Imprescindible** comprar online con días de antelación.
+**1. No comprar entradas online al Alcázar**: en temporada alta, te quedas fuera o pierdes 30-45 min en cola. ⚠️ **Imprescindible** comprar online con días de antelación.
 
 **2. Visitar Plaza de España al mediodía en verano**: 42°C al sol y sin sombra. Ve **al atardecer**, además la luz es mucho mejor para fotos.
 
