@@ -17,8 +17,12 @@ export type GuiaFrontmatter = {
   categoria: string;
   slug: string;
   fecha: string;
+  fecha_actualizacion?: string;
   autor?: string;
   imagen?: string;
+  imagen_portada?: string;
+  imagen_alt?: string;
+  tiempo_lectura?: number;
   publicada: boolean;
   destacada?: boolean;
   keywords?: string[];
@@ -73,13 +77,17 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
         categoria,
         slug,
         fecha: fm.fecha || "",
+        fecha_actualizacion: fm.fecha_actualizacion,
         autor: fm.autor,
         imagen: fm.imagen,
+        imagen_portada: fm.imagen_portada,
+        imagen_alt: fm.imagen_alt,
+        tiempo_lectura: fm.tiempo_lectura,
         publicada: true,
         destacada: fm.destacada || false,
         keywords: fm.keywords || [],
         idioma,
-        tiempoLectura: calcularTiempoLectura(content),
+        tiempoLectura: fm.tiempo_lectura ?? calcularTiempoLectura(content),
         url: urlGuia(idioma, categoria, slug),
       });
     }
@@ -117,13 +125,17 @@ export async function obtenerGuia(
     categoria,
     slug,
     fecha: fm.fecha || "",
+    fecha_actualizacion: fm.fecha_actualizacion,
     autor: fm.autor,
     imagen: fm.imagen,
+    imagen_portada: fm.imagen_portada,
+    imagen_alt: fm.imagen_alt,
+    tiempo_lectura: fm.tiempo_lectura,
     publicada: true,
     destacada: fm.destacada || false,
     keywords: fm.keywords || [],
     idioma,
-    tiempoLectura: calcularTiempoLectura(content),
+    tiempoLectura: fm.tiempo_lectura ?? calcularTiempoLectura(content),
     url: urlGuia(idioma, categoria, slug),
     contenidoHtml: procesado.toString(),
   };

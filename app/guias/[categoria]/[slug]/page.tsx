@@ -32,6 +32,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const url = `${SITE_URL}${guia.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
+  // Imagen absoluta para Open Graph (necesaria en WhatsApp, Twitter, LinkedIn).
+  const imagenRelativa =
+    guia.imagen_portada || guia.imagen || "/images/og-default.jpg";
+  const imagenAbsoluta = imagenRelativa.startsWith("http")
+    ? imagenRelativa
+    : `${SITE_URL}${imagenRelativa}`;
+
   return {
     title: guia.titulo,
     description: guia.descripcion,
@@ -53,9 +60,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: guia.titulo,
       description: guia.descripcion,
       publishedTime: guia.fecha,
+      modifiedTime: guia.fecha_actualizacion || guia.fecha,
       authors: guia.autor ? [guia.autor] : undefined,
       siteName: "ExploraSpain",
       locale: "es_ES",
+      images: [
+        {
+          url: imagenAbsoluta,
+          alt: guia.imagen_alt || guia.titulo,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: guia.titulo,
+      description: guia.descripcion,
+      images: [imagenAbsoluta],
     },
   };
 }
@@ -71,13 +91,21 @@ export default async function GuiaPage({ params }: Props) {
     3
   );
 
+  // Imagen absoluta para JSON-LD (Google la requiere completa).
+  const imagenRelativa =
+    guia.imagen_portada || guia.imagen || "/images/og-default.jpg";
+  const imagenAbsoluta = imagenRelativa.startsWith("http")
+    ? imagenRelativa
+    : `${SITE_URL}${imagenRelativa}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: guia.titulo,
     description: guia.descripcion,
+    image: imagenAbsoluta,
     datePublished: guia.fecha,
-    dateModified: guia.fecha,
+    dateModified: guia.fecha_actualizacion || guia.fecha,
     author: {
       "@type": "Organization",
       name: guia.autor || "ExploraSpain",
@@ -89,7 +117,7 @@ export default async function GuiaPage({ params }: Props) {
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://exploraspain.com${guia.url}`,
+      "@id": `${SITE_URL}${guia.url}`,
     },
     keywords: guia.keywords?.join(", "),
   };
@@ -102,19 +130,19 @@ export default async function GuiaPage({ params }: Props) {
         "@type": "ListItem",
         position: 1,
         name: "Inicio",
-        item: "https://exploraspain.com",
+        item: SITE_URL,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Guías",
-        item: "https://exploraspain.com/guias",
+        item: `${SITE_URL}/guias`,
       },
       {
         "@type": "ListItem",
         position: 3,
         name: guia.titulo,
-        item: `https://exploraspain.com${guia.url}`,
+        item: `${SITE_URL}${guia.url}`,
       },
     ],
   };
@@ -156,6 +184,12 @@ export default async function GuiaPage({ params }: Props) {
           <div className="text-sm text-sky-100 flex flex-wrap gap-x-4 gap-y-1">
             {guia.autor && <span>Por {guia.autor}</span>}
             {guia.fecha && <span>· {formatearFecha(guia.fecha, "es")}</span>}
+            {guia.fecha_actualizacion &&
+              guia.fecha_actualizacion !== guia.fecha && (
+                <span>
+                  · Actualizado {formatearFecha(guia.fecha_actualizacion, "es")}
+                </span>
+              )}
             <span>· {guia.tiempoLectura} min de lectura</span>
           </div>
         </div>
