@@ -76,7 +76,7 @@ La estructura no es negociable: la Alhambra el primer día, Albaicín al final d
 
 **8:30 — 12:30 | La Alhambra**
 
-Reserva la entrada del primer turno con acceso a Nazaríes entre las 9:00 y las 9:30: menos calor, menos gente, mejor luz. Recomendamos ir al revés del flujo turístico para esquivar grupos. Empieza por la **Alcazaba**, la fortaleza militar y parte más antigua, sube a la Torre de la Vela para las mejores vistas sobre Granada y Sierra Nevada (45-60 minutos). Después, los **Palacios Nazaríes**, llegando 15-20 minutos antes de tu hora asignada — Patio de los Arrayanes, Salón de Comares, Patio de los Leones. Lo que parecen dibujos en las paredes son inscripciones cúficas con poemas de Ibn Zamrak, así que mira arriba (90 minutos). Cierra con el **Generalife**: Patio de la Acequia, Escalera del Agua, jardines (60-75 minutos). Total realista: **3h 30min - 4 horas**. Lleva agua y calzado cómodo.
+Reserva la entrada del primer turno con acceso a Nazaríes entre las 9:00 y las 9:30: menos calor, menos gente, mejor luz. Recomendamos ir al revés del flujo turístico para esquivar grupos. Empieza por la **Alcazaba**, la fortaleza militar y parte más antigua, sube a la Torre de la Vela para las mejores vistas sobre Granada y Sierra Nevada (45-60 minutos). Después, los **Palacios Nazaríes**, llegando 15-20 minutos antes de tu hora asignada — Patio de los Arrayanes, Salón de Comares, Patio de los Leones. Lo que parecen dibujos en las paredes son inscripciones cúficas con poemas de Ibn Zamrak, así que mira arriba (90 minutos). Cierra con el **Generalife**: Patio de la Acequia, Escalera del Agua, jardines (60-75 minutos). Total realista: **3h 30min - 4 horas**. Lleva agua y calzado cómodo. Si quieres profundizar antes de ir, hemos hecho una [guía dedicada de cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar) con todos los detalles de entradas, hora de Nazaríes y errores típicos.
 
 **12:30 — 14:00 | Bajada al centro**
 
@@ -215,3 +215,5 @@ Granada tiene tres momentos del año con identidad propia:
 ## En una frase
 
 Granada en dos días es ir con disciplina y volver con la sensación de haber visto solo una parte — y eso es exactamente lo que hace que vuelvas. Si te quedas con ganas de más, lo siguiente es subir a la Alpujarra: pueblos blancos colgados de la sierra, tejados de pizarra y un silencio que en la ciudad ya nadie recuerda.
+
+Y si vienes con niños, [Granada con niños](/guias/granada/granada-con-ninos) tiene el plan adaptado: Alhambra reducida, Parque de las Ciencias y los helados de Los Italianos.

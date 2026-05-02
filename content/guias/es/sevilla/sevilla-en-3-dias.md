@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Sevilla en 3 días: ruta con criterio para vivirla, no solo verla"
 descripcion: "Guía honesta de 3 días en Sevilla: Alcázar, Catedral, Triana y casco antiguo con criterio. Qué visitar, qué saltarse, dónde dormir y errores típicos."
 categoria: "sevilla"
@@ -215,6 +215,8 @@ En verano, los locales auténticos directamente **no abren** entre 16:00 y 20:00
 - **Alameda de Hércules**: cocina moderna y creativa, bares con personalidad, ambiente local.
 - **Calle Pureza, Pagés del Corro (Triana)**: tabernas honestas.
 - **Macarena alta**: mercado y bares auténticos, lejos del turismo.
+
+Para una ruta de tapeo con criterio bar a bar, hemos hecho una [guía dedicada de tapas en Sevilla](/guias/sevilla/sevilla-tapas-criterio) con sitios concretos en Centro, Triana y Arenal — qué pedir, cuándo ir y qué evitar.
 
 ### Trampas turísticas a evitar
 

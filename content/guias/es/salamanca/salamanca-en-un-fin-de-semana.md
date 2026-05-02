@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Salamanca en un fin de semana: guía honesta para vivirla"
 descripcion: "Plan de fin de semana en Salamanca con criterio: monumentos, las dos catedrales, Universidad, Casa Lis, dónde tapear y los mejores cocktail bars. Honesto."
 categoria: "salamanca"
@@ -76,7 +76,7 @@ Después, ruta clásica que cubre los grandes:
 
 - **Casa de las Conchas** (gratis, 15 min)
 - **Subida a las torres de la Clerecía – Scala Coeli** (3,75 €). Imprescindible. Las mejores vistas de Salamanca.
-- **Universidad de Salamanca** (10 €). Búscale la rana a la fachada plateresca.
+- **Universidad de Salamanca** (10 €). Búscale la rana a la fachada plateresca. Si quieres ir bien preparado, [cómo visitar la Universidad de Salamanca](/guias/salamanca/universidad-de-salamanca-como-visitar) tiene los detalles de qué ver dentro, cuándo es gratis y los errores típicos.
 - **Catedral Vieja y Nueva** (10 € entrada conjunta).
 
 Tiempo total: 3-4 horas con calma.

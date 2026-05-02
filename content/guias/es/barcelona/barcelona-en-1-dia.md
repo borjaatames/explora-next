@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Barcelona en 1 día desde Madrid: la escapada con criterio"
 descripcion: "Cómo aprovechar al máximo un día en Barcelona desde Madrid en AVE: Sagrada Familia, Gótico, comida en El Born, Park Güell y Búnkers del Carmel."
 categoria: "barcelona"
@@ -81,7 +81,7 @@ Sí o sí. Y a primera hora.
 
 **Tiempo:** 1h-1h 30min. Más si subes a las torres (otros 30 min).
 
-**Detalles que importan:** compra entrada en `sagradafamilia.org` (web oficial, hay revendedoras con sobrecoste). La **hora del silencio** (9:00-10:00) es buena para evitar masas, con auriculares obligatorios. Hay código de vestimenta: no se permite tirantes, bañadores ni pantalones cortos. Si vienes de crucero o pasas por aeropuerto y no tienes margen, prioriza la Sagrada Familia sobre cualquier otra cosa: es EL monumento de Barcelona.
+**Detalles que importan:** compra entrada en `sagradafamilia.org` (web oficial, hay revendedoras con sobrecoste). La **hora del silencio** (9:00-10:00) es buena para evitar masas, con auriculares obligatorios. Hay código de vestimenta: no se permite tirantes, bañadores ni pantalones cortos. Si vienes de crucero o pasas por aeropuerto y no tienes margen, prioriza la Sagrada Familia sobre cualquier otra cosa: es EL monumento de Barcelona. Hemos hecho una [guía dedicada de cómo visitar la Sagrada Familia](/guias/barcelona/sagrada-familia-como-visitar) con todos los tipos de entrada, la Hora del Silencio nueva de 2026 y los errores típicos.
 
 ### 2. Casa Batlló por fuera y Passeig de Gràcia (12:00, 30 min)
 
@@ -185,4 +185,4 @@ Si pierdes el último AVE (suele ser sobre las 21:30), las opciones son: **hotel
 
 Barcelona en un día desde Madrid funciona si renuncias a verlo todo, reservas Sagrada Familia y Park Güell con antelación, comes en El Born en lugar de en La Boquería y cierras el día en los Búnkers del Carmel mientras se pone el sol sobre la ciudad. Es **mucho menos turista, mucho más Barcelona**.
 
-Y si te enganchas, la solución no es alargar el día — es volver con dos noches y plan completo. Está todo en nuestra guía de [Barcelona en 3 días](/guias/barcelona/barcelona-en-3-dias).
+Y si te enganchas, la solución no es alargar el día — es volver con dos noches y plan completo. Está todo en nuestra guía de [Barcelona en 3 días](/guias/barcelona/barcelona-en-3-dias). Y si quieres profundizar en dónde comer bien sin caer en trampas, [comer en Barcelona con criterio](/guias/barcelona/comer-en-barcelona-criterio) tiene los sitios y zonas que recomendaríamos a un amigo.

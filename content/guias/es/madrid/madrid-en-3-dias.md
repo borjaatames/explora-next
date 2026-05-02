@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Madrid en 3 días: ruta con criterio para una visita europea"
 descripcion: "Madrid en 3 días con criterio: Prado, El Escorial, Valle de Cuelgamuros, Chamberí y qué evitar. Ruta honesta para entender la ciudad sin postales."
 categoria: "madrid"
@@ -49,7 +49,7 @@ El Prado es uno de los mejores museos del mundo. No es opinión, es hecho. Goya,
 - Reducida (mayores de 65, carné joven, familia numerosa): 7,50 €
 - Gratis: menores de 18, estudiantes hasta 25, desempleados, docentes en activo
 
-Compra online con antelación aunque los precios sean iguales: te saltas colas. Y dedica 2,5-3 horas, no más. A partir de las 3 horas el cerebro se satura y ya no aprecias lo que ves. Mejor dos horas y media intensas que cuatro a medio gas.
+Compra online con antelación aunque los precios sean iguales: te saltas colas. Y dedica 2,5-3 horas, no más. A partir de las 3 horas el cerebro se satura y ya no aprecias lo que ves. Mejor dos horas y media intensas que cuatro a medio gas. Si dudas entre Prado, Thyssen y Reina Sofía, lo desarrollamos en nuestra [comparativa de los tres museos](/guias/madrid/prado-reina-sofia-thyssen-comparativa).
 
 Para decidir entre Prado, Reina Sofía y Thyssen tenemos una [comparativa honesta](/guias/madrid/prado-reina-sofia-thyssen-comparativa) con la jerarquía real entre los tres.
 

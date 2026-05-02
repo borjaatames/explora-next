@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Madrid con niños: guía honesta por edades (4 a 16 años)"
 descripcion: "Madrid con niños y adolescentes: zoo, parque de atracciones, museos que enganchan, planes al aire libre y errores típicos. Guía honesta por edades."
 categoria: "madrid"
@@ -182,3 +182,5 @@ El parque secreto de Madrid. Solo abre fines de semana y festivos, gratis. Jard�
 Madrid con niños funciona porque hay **variedad de planes a 30 minutos del centro**. La clave está en no saturar: una gran actividad por día más algo ligero suele ser el ritmo correcto.
 
 Y lo más importante: los niños recuerdan los planes que vivieron, no los que vieron. Una tarde en el Retiro alquilando barca con sus padres puede ser más memorable que media docena de monumentos. Adaptad la guía a vuestra familia, no al revés.
+
+Si vais a otras ciudades en familia, [Granada con niños](/guias/granada/granada-con-ninos) y [Barcelona con niños](/guias/barcelona/barcelona-con-ninos) cubren la Alhambra adaptada, el Parque de las Ciencias, CosmoCaixa y Tibidabo con la misma filosofía: planes que funcionan con peques sin forzar el itinerario adulto.

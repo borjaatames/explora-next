@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Qué hacer en Sevilla con niños: guía honesta 2026"
 descripcion: "Qué hacer en Sevilla con niños de varias edades sin caer en lo obvio: monumentos que sí enganchan, qué saltarse, dónde comer y trampas que evitar."
 categoria: "sevilla"
@@ -310,3 +310,5 @@ Tres barrios tienen sentido. El resto, no.
 Sevilla con niños funciona si renuncias a hacer la Sevilla del adulto: **una mañana de monumento, una tarde de agua o parque, y dosifica**. Si llegas con la lista del Lonely Planet vas a fundir a los niños y a ti. Si jerarquizas como te he contado, vuelves con los críos pidiendo volver.
 
 Si te quedas tres días o más, complementa esta guía con el [plan completo de Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias) para añadir bares, miradores y barrios que aquí no caben.
+
+Y si vais a otras ciudades en familia, [Granada con niños](/guias/granada/granada-con-ninos) y [Barcelona con niños](/guias/barcelona/barcelona-con-ninos) cubren la Alhambra adaptada, el Parque de las Ciencias, CosmoCaixa y Tibidabo con la misma filosofía: planes que funcionan con peques sin forzar el itinerario adulto.

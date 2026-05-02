@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Barcelona en 3 días: ruta con criterio para verla bien"
 descripcion: "3 días en Barcelona sin perderse en multitudes: Sagrada Familia, Gràcia, Montjuïc, Park Güell. Lo que sí, lo que se salta y dónde dormir."
 categoria: "barcelona"
@@ -68,7 +68,7 @@ Tres días es el primer formato donde cabe todo lo importante con margen para pa
 
 El primer día va por el **modernismo central**, que es lo que da identidad a Barcelona y lo que la mayoría de visitantes priorizan.
 
-**9:30 — Sagrada Familia.** Empieza nada más abrir, antes del grueso del autobús turístico. Reserva imprescindible — repetimos: imprescindible — con varias semanas de antelación a través de la web oficial. Las entradas se abren 60 días antes y se agotan rápido en temporada alta.
+**9:30 — Sagrada Familia.** Empieza nada más abrir, antes del grueso del autobús turístico. Reserva imprescindible — repetimos: imprescindible — con varias semanas de antelación a través de la web oficial. Las entradas se abren 60 días antes y se agotan rápido en temporada alta. Para los detalles completos (precios, qué torre subir, código de vestimenta, Año Gaudí), tenemos una [guía dedicada de cómo visitar la Sagrada Familia](/guias/barcelona/sagrada-familia-como-visitar).
 
 | Tipo de entrada | Precio | Tiempo |
 | --- | --- | --- |
@@ -186,3 +186,5 @@ El tercer día va por la **Barcelona vieja, marítima y Montjuïc**. Es el más 
 ## En una frase
 
 Barcelona es una ciudad que se puede ver mal con muchísima facilidad. Tres días bien planificados — Sagrada Familia con reserva temprano, Park Güell con cabeza, un barrio con personalidad como Gràcia, un atardecer en Montjuïc o el Carmel y comida en zonas donde se cena de verdad — te dan una visión que el 90 % de los visitantes en escapada de fin de semana no se llevan. Y si después decides que necesitas volver, ya tienes la lista de lo que dejaste pendiente: Montserrat, Sitges, los barrios menos turísticos como Sant Andreu o Poblenou, la Filmoteca y el Raval cultural. Pero eso ya es otro viaje.
+
+Si vienes con niños, [Barcelona con niños](/guias/barcelona/barcelona-con-ninos) tiene el plan adaptado con CosmoCaixa, Tibidabo y zonas que funcionan en familia. Y si quieres profundizar en dónde comer bien, [comer en Barcelona con criterio](/guias/barcelona/comer-en-barcelona-criterio) cubre tapas, vermut y zonas honestas por barrio.

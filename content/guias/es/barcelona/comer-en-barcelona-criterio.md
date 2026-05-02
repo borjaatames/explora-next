@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Comer en Barcelona: tapas, vermut y cocina catalana"
 descripcion: "Dónde comer bien en Barcelona: tapas auténticas, cenas catalanas, brunch y vermut. Sitios concretos por barrio y trampas turísticas a evitar."
 categoria: "barcelona"
@@ -167,4 +167,4 @@ Sitios para vermut auténtico: **Bormuth** (Born), **Bar Calders** (Sant Antoni)
 
 Comer bien en Barcelona requiere disciplina: **alejarse de Las Ramblas**, evitar la paella como plato "típico", entender el ritual del vermut y elegir bien los barrios (Sant Antoni, Born, Gràcia, Poble Sec). Si haces eso, comerás como un barcelonés. Si no, comerás como turista — y eso es exactamente lo que pagas más por menos.
 
-Y si vienes solo un día y quieres no equivocarte, [nuestra guía de Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia) tiene un plan que cuadra con esta filosofía gastronómica.
+Y si vienes solo un día y quieres no equivocarte, [nuestra guía de Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia) tiene un plan que cuadra con esta filosofía gastronómica. Si vienes con niños, [Barcelona con niños](/guias/barcelona/barcelona-con-ninos) cubre dónde comer adaptado a familias y horarios que funcionan con peques.
