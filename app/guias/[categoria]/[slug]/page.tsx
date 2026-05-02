@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
@@ -194,6 +195,26 @@ export default async function GuiaPage({ params }: Props) {
           </div>
         </div>
       </header>
+
+      {guia.imagen_portada && (
+        <figure className="max-w-2xl mx-auto px-4 pt-8 md:pt-12">
+          <div className="relative w-full aspect-[1200/630] rounded-lg overflow-hidden bg-slate-100">
+            <Image
+              src={guia.imagen_portada}
+              alt={guia.imagen_alt || guia.titulo}
+              fill
+              priority
+              sizes="(max-width: 768px) 100vw, 672px"
+              className="object-cover"
+            />
+          </div>
+          {guia.imagen_alt && (
+            <figcaption className="text-xs italic text-slate-500 mt-2 px-1">
+              {guia.imagen_alt}
+            </figcaption>
+          )}
+        </figure>
+      )}
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         <div
