@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Universidad de Salamanca: cómo visitarla y qué no perderse"
 descripcion: "Cómo visitar la Universidad de Salamanca: precios, horarios, qué ver dentro, la rana de la fachada, el aula de Fray Luis y errores típicos del visitante."
 categoria: "salamanca"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/universidad-de-salamanca-como-visitar.jpg"
-imagen_alt: "Fachada plateresca del Edificio Histórico de la Universidad de Salamanca"
+imagen_alt: "Fachada plateresca del Edificio HistÃ³rico de la Universidad de Salamanca"
 tiempo_lectura: 11
 keywords:
   - "universidad de salamanca"

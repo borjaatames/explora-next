@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Granada con niños: planes, monumentos y trampas a evitar"
 descripcion: "Granada con niños sin sufrir: Alhambra adaptada, Parque de las Ciencias, helados, qué edades funcionan y dónde dormir."
 categoria: "granada"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
-imagen_alt: "Niños observando un acuario en el BioDomo del Parque de las Ciencias de Granada"
+imagen_alt: "Calle empedrada del barrio del AlbaicÃ­n en Granada"
 tiempo_lectura: 13
 keywords:
   - "granada con niños"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Toledo desde Madrid en 1 día: escapada de tres culturas"
 descripcion: "Toledo en un día desde Madrid: qué visitar con criterio, cómo llegar (coche, AVE, autobús), qué evitar y por qué es la mejor escapada cerca de Madrid."
 categoria: "madrid"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
-imagen_alt: "Vista panorámica del casco histórico de Toledo desde el Mirador del Valle"
+imagen_alt: "AlcÃ¡zar de Toledo, la fortaleza que corona la ciudad"
 tiempo_lectura: 11
 keywords:
   - "escapadas desde madrid"

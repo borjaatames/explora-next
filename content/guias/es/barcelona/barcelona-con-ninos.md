@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Barcelona con niños: planes, monumentos y trampas a evitar"
 descripcion: "Barcelona con niños sin agobios: CosmoCaixa, Tibidabo, Sagrada Familia adaptada, qué edades funcionan, dónde dormir y comida con peques."
 categoria: "barcelona"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
-imagen_alt: "Niños en el Bosque Inundado del CosmoCaixa de Barcelona observando vegetación tropical"
+imagen_alt: "Vista de Barcelona desde el Park GÃ¼ell con el banco de mosaicos en primer plano"
 tiempo_lectura: 13
 keywords:
   - "barcelona con niños"

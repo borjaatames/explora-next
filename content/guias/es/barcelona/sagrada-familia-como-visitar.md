@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Sagrada Familia: cómo visitarla bien (entradas y errores)"
 descripcion: "Cómo visitar la Sagrada Familia: precios oficiales 2026, qué torre subir, Hora del Silencio, Año Gaudí, código de vestimenta y errores típicos."
 categoria: "barcelona"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagen_alt: "Interior de la Sagrada Familia con sus columnas arborescentes y vidrieras de colores"
+imagen_alt: "Vidrieras de colores en el interior de la Sagrada Familia de Barcelona"
 tiempo_lectura: 14
 keywords:
   - "sagrada familia cómo visitar"

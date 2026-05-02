@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Madrid gratis: aprovechar la capital sin gastar un euro"
 descripcion: "Madrid gratis con criterio: museos sin pagar, miradores libres, eventos recurrentes y barrios para pasear. Y qué SÍ merece la pena pagar."
 categoria: "madrid"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: "Atardecer en el Templo de Debod con el Palacio Real al fondo"
+imagen_alt: "Las Cuatro Torres de Madrid con la luna llena al atardecer"
 tiempo_lectura: 11
 keywords:
   - "madrid gratis"

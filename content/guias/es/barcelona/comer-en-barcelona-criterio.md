@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"
-imagen_alt: "Tapas y vermut de grifo en una barra tradicional del Born, Barcelona"
+imagen_alt: "Pa amb tomÃ quet, el pan con tomate tÃ­pico catalÃ¡n"
 tiempo_lectura: 14
 keywords:
   - "comer en barcelona"

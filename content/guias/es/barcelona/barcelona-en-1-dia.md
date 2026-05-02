@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-1-dia.jpg"
-imagen_alt: "Atardecer sobre Barcelona desde los Búnkers del Carmel con la Sagrada Familia recortada"
+imagen_alt: "Plaza del Barrio GÃ³tico de Barcelona"
 tiempo_lectura: 13
 keywords:
   - "barcelona en 1 día"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Alhambra: cómo visitarla bien (precios, entradas y trampas)"
 descripcion: "Cómo visitar la Alhambra de Granada con criterio: tipos de entrada, precios oficiales 2026, hora de Palacios Nazaríes, errores típicos."
 categoria: "granada"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/alhambra-como-visitar.jpg"
-imagen_alt: "Patio de los Leones de la Alhambra con su fuente central de mármol y galerías porticadas"
+imagen_alt: "Vista de la Alhambra de Granada con Sierra Nevada al fondo al atardecer"
 tiempo_lectura: 14
 keywords:
   - "alhambra cómo visitar"

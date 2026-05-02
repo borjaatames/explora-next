@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-con-ninos.jpg"
-imagen_alt: "Niños jugando junto al canal de la Plaza de España de Sevilla con barcas de remos al fondo"
+imagen_alt: "Plaza tradicional del barrio de Triana en Sevilla"
 tiempo_lectura: 14
 keywords:
   - "sevilla con niños"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Real Alcázar de Sevilla: cómo visitarlo (guía honesta 2026)"
 descripcion: "Cómo visitar el Real Alcázar de Sevilla: precios 2026, horarios, qué ver dentro, Patio de las Doncellas, Salón de Embajadores, jardines y errores típicos."
 categoria: "sevilla"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/alcazar-de-sevilla-como-visitar.jpg"
-imagen_alt: "Patio de las Doncellas del Real Alcázar de Sevilla con la alberca central rodeada de arcos polilobulados mudéjares"
+imagen_alt: "Arco mudÃ©jar del Real AlcÃ¡zar de Sevilla con su decoraciÃ³n tallada en piedra"
 tiempo_lectura: 11
 keywords:
   - "real alcázar sevilla"

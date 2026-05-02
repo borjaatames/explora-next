@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Tapas en Sevilla con criterio: ruta por Centro, Triana y Arenal"
 descripcion: "Dónde tapear bien en Sevilla sin caer en trampas turísticas. 8 bares con criterio en Centro, Triana y Arenal: qué pedir, cuándo ir, qué evitar."
 categoria: "sevilla"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
-imagen_alt: "Barra de una taberna sevillana con tapas variadas y cañas de cerveza fría en primer plano"
+imagen_alt: "Jamones ibÃ©ricos colgados en una charcuterÃ­a sevillana"
 tiempo_lectura: 11
 keywords:
   - "tapas sevilla"

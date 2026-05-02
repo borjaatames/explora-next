@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"
-imagen_alt: "Vista de la Alhambra con Sierra Nevada nevada al fondo desde el Mirador de San Nicolás"
+imagen_alt: "Edificio nazarÃ­ de la Alhambra de Granada con la sierra de fondo"
 tiempo_lectura: 14
 keywords:
   - "granada en 2 días"

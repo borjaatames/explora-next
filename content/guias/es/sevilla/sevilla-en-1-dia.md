@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Sevilla en 1 día desde Madrid: la escapada exprés con criterio"
 descripcion: "Cómo aprovechar al máximo un día en Sevilla desde Madrid en AVE: Alcázar, Catedral, Plaza de España, Triana al atardecer. Lo que sí, lo que se puede saltar y errores típicos."
 categoria: "sevilla"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-en-1-dia.jpg"
-imagen_alt: "Vista del Patio de Banderas y la Giralda desde el acceso al Real Alcázar de Sevilla a primera hora de la mañana"
+imagen_alt: "Plaza de EspaÃ±a de Sevilla con sus puentes sobre el canal"
 tiempo_lectura: 12
 keywords:
   - "sevilla en 1 día"

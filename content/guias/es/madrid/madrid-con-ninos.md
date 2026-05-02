@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Familia en barca de remo en el estanque del Parque del Retiro"
+imagen_alt: "Familia paseando en barca por el estanque del Parque del Retiro de Madrid"
 tiempo_lectura: 11
 keywords:
   - "madrid con niños"

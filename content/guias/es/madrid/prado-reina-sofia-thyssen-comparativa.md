@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Prado, Reina Sofía o Thyssen: a cuál ir si solo eliges uno"
 descripcion: "Comparativa honesta de los tres grandes museos de Madrid: Prado, Reina Sofía y Thyssen. Cuál elegir según tu perfil y cuál puedes saltar."
 categoria: "madrid"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/prado-reina-sofia-thyssen-comparativa.jpg"
-imagen_alt: "Fachada principal del Museo del Prado con la estatua de Velázquez"
+imagen_alt: "Fachada del Museo del Prado de Madrid"
 tiempo_lectura: 10
 keywords:
   - "prado o reina sofía"

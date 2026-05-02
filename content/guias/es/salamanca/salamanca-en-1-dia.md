@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Salamanca en 1 día: ruta con criterio sin perder lo esencial"
 descripcion: "Salamanca en un día con criterio: Plaza Mayor, Universidad, las dos catedrales, Clerecía y Puente Romano al atardecer. Qué ver, qué saltarse y errores típicos."
 categoria: "salamanca"
@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/salamanca-en-1-dia.jpg"
-imagen_alt: "Plaza Mayor de Salamanca al atardecer con la fachada del Ayuntamiento iluminada"
+imagen_alt: "Plaza Mayor de Salamanca, una de las mÃ¡s bonitas de EspaÃ±a"
 tiempo_lectura: 10
 keywords:
   - "salamanca en 1 día"
