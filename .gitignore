@@ -32,3 +32,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Archivos de backup locales (no se versionan)
+*.backup
+
+# Scripts PowerShell de utilidad local (no se versionan)
+*.ps1

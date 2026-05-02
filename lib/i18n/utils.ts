@@ -59,6 +59,37 @@ export function urlIndiceCiudades(idioma: Idioma): string {
 }
 
 /**
+ * Construye la URL del listado de actividades de una ciudad.
+ * ES: /ciudades/madrid/actividades
+ * EN: /en/cities/madrid/activities
+ */
+export function urlActividadesDeCiudad(
+  idioma: Idioma,
+  ciudad: string
+): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmentoCiudades = URL_SEGMENTS[idioma].ciudades;
+  const segmentoActividades = URL_SEGMENTS[idioma].actividades;
+  return `${prefijo}/${segmentoCiudades}/${ciudad}/${segmentoActividades}`;
+}
+
+/**
+ * Construye la URL canónica de una actividad concreta.
+ * ES: /ciudades/madrid/actividades/tour-prado
+ * EN: /en/cities/madrid/activities/prado-tour
+ */
+export function urlActividad(
+  idioma: Idioma,
+  ciudad: string,
+  slug: string
+): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmentoCiudades = URL_SEGMENTS[idioma].ciudades;
+  const segmentoActividades = URL_SEGMENTS[idioma].actividades;
+  return `${prefijo}/${segmentoCiudades}/${ciudad}/${segmentoActividades}/${slug}`;
+}
+
+/**
  * Resuelve el idioma desde el primer segmento de un pathname.
  * "/en/guides/..." → "en"
  * "/guias/..."     → "es"
@@ -98,7 +129,7 @@ const SITE_URL =
  * `constructorUrl` es una función que, dado un idioma, devuelve la URL
  * (relativa) de la versión traducida de esa página. Esto desacopla la
  * generación de hreflang de la lógica concreta de cada tipo de página
- * (guía, ciudad, índice, etc.).
+ * (guía, ciudad, actividad, índice, etc.).
  *
  * Ejemplo de uso:
  *

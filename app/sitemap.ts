@@ -1,10 +1,16 @@
 import type { MetadataRoute } from "next";
 import { obtenerListaGuias } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import {
+  obtenerListaActividades,
+  obtenerCiudadesConActividades,
+} from "@/lib/actividades";
 import { IDIOMAS_ACTIVOS, IDIOMA_DEFECTO } from "@/lib/i18n/config";
 import {
   urlGuia,
   urlCiudad,
+  urlActividad,
+  urlActividadesDeCiudad,
   urlIndiceGuias,
   urlIndiceCiudades,
   prefijoIdioma,
@@ -34,9 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const ahora = new Date();
   const entries: MetadataRoute.Sitemap = [];
 
-  // ─── Rutas fijas (home, índices, páginas legales) ──────────────────
-  // Solo se listan en idiomas activos. Hoy con un solo idioma,
-  // el sitemap es idéntico al anterior.
+  // ─── Rutas fijas (home, índices) ─────────────────────────────────
   for (const lang of IDIOMAS_ACTIVOS) {
     const prefijo = prefijoIdioma(lang);
 
@@ -85,7 +89,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
-  // ─── Guías de cada idioma activo ───────────────────────────────────
+  // ─── Guías de cada idioma activo ─────────────────────────────────
   for (const lang of IDIOMAS_ACTIVOS) {
     const guias = obtenerListaGuias(lang);
     for (const guia of guias) {
@@ -101,7 +105,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // ─── Ciudades de cada idioma activo ────────────────────────────────
+  // ─── Ciudades de cada idioma activo ──────────────────────────────
   for (const lang of IDIOMAS_ACTIVOS) {
     const ciudades = obtenerListaCiudades(lang);
     for (const ciudad of ciudades) {
@@ -111,6 +115,36 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "monthly",
         priority: 0.85,
         alternates: alternatesPara((l) => urlCiudad(l, ciudad.slug)),
+      });
+    }
+  }
+
+  // ─── Listados de actividades por ciudad ──────────────────────────
+  for (const lang of IDIOMAS_ACTIVOS) {
+    const ciudadesConActividades = obtenerCiudadesConActividades(lang);
+    for (const ciudad of ciudadesConActividades) {
+      entries.push({
+        url: `${SITE_URL}${urlActividadesDeCiudad(lang, ciudad)}`,
+        lastModified: ahora,
+        changeFrequency: "weekly",
+        priority: 0.8,
+        alternates: alternatesPara((l) => urlActividadesDeCiudad(l, ciudad)),
+      });
+    }
+  }
+
+  // ─── Fichas de actividad ─────────────────────────────────────────
+  for (const lang of IDIOMAS_ACTIVOS) {
+    const actividades = obtenerListaActividades(lang);
+    for (const actividad of actividades) {
+      entries.push({
+        url: `${SITE_URL}${actividad.url}`,
+        lastModified: actividad.fecha ? new Date(actividad.fecha) : ahora,
+        changeFrequency: "monthly",
+        priority: 0.75,
+        alternates: alternatesPara((l) =>
+          urlActividad(l, actividad.ciudad, actividad.slug)
+        ),
       });
     }
   }

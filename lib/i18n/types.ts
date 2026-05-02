@@ -47,6 +47,41 @@ export type Diccionario = {
     guiasDeCiudad: string;
     volverACiudades: string;
   };
+  actividades: {
+    tituloIndiceCiudad: string;
+    descripcionIndiceCiudad: string;
+    verActividad: string;
+    actividadesEnCiudad: string;
+    desde: string;
+    porPersona: string;
+    duracion: string;
+    idiomas: string;
+    cancelacionGratuita: string;
+    cancelacionHorasAntes: string;
+    sinColas: string;
+    reservar: string;
+    viaProveedor: string;
+    highlights: string;
+    nuestraOpinion: string;
+    queIncluye: string;
+    queNoIncluye: string;
+    puntoEncuentro: string;
+    laExperiencia: string;
+    guiasRelacionadas: string;
+    alternativas: string;
+    avisoAfiliacion: string;
+    valoracion: string;
+    opiniones: string;
+    categorias: {
+      cultural: string;
+      gastronomico: string;
+      aireLibre: string;
+      nocturno: string;
+      excursion: string;
+      familiar: string;
+    };
+    faqEnCiudad: string;
+  };
   footer: {
     derechos: string;
     avisoLegal: string;
