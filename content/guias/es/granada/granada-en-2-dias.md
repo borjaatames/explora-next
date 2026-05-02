@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Granada en 2 días: ruta honesta sin perder lo importante"
 descripcion: "Granada en 2 días con criterio: Alhambra, Albaicín, Sacromonte, centro y Cartuja. Ruta honesta, dónde comer y qué evitar. Sin trampas turísticas."
 categoria: "granada"
@@ -57,7 +57,7 @@ Tres días serían lo ideal — entraría una mañana en Sierra Nevada o una esc
 
 La estructura no es negociable: la Alhambra el primer día, Albaicín al final del primer día, centro y Cartuja el segundo. Hacerlo al revés agrava el cansancio, porque la Alhambra es la visita más larga y exigente.
 
-> **⚠️ Aviso:** antes de seguir leyendo, saca la entrada de la Alhambra. Web oficial *tickets.alhambra-patronato.es*, entrada general **21 €** (Palacios Nazaríes, Alcazaba y Generalife). Vuelan con tres y cuatro semanas de antelación, sobre todo en primavera y otoño. La hora asignada a Nazaríes es estricta: si llegas tarde, no entras.
+> **⚠️ Aviso:** antes de seguir leyendo, saca la entrada de la Alhambra. Web oficial *tickets.alhambra-patronato.es*, entrada general **22,27 €** (Palacios Nazaríes, Alcazaba y Generalife, incluye comisión web). Vuelan con tres y cuatro semanas de antelación, sobre todo en primavera y otoño. La hora asignada a Nazaríes es estricta: si llegas tarde, no entras.
 
 **¿Y si ya están agotadas?** Pasa cada semana. Hay alternativas honestas: una **visita nocturna a los Palacios Nazaríes** (12 €), que se vende aparte y suele tener disponibilidad cuando la diurna se agota; o una **visita guiada en grupo reducido** con un operador autorizado, que reserva cupos de entradas y los vende junto con guía oficial (más caro, 45-65 €, pero entras seguro y entiendes lo que ves).
 
