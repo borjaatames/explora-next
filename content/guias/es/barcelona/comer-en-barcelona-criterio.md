@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"
-imagen_alt: "Pa amb tomÃ quet, el pan con tomate tÃ­pico catalÃ¡n"
+imagen_alt: "Pa amb tomàquet, el pan con tomate típico catalán"
 tiempo_lectura: 14
 keywords:
   - "comer en barcelona"

@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-3-dias.jpg"
-imagen_alt: "Vista panorÃ¡mica de Barcelona al anochecer"
+imagen_alt: "Vista panorámica de Barcelona al anochecer"
 tiempo_lectura: 16
 keywords:
   - "barcelona en 3 días"

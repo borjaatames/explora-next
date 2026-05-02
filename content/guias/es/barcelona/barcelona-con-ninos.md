@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
-imagen_alt: "Vista de Barcelona desde el Park GÃ¼ell con el banco de mosaicos en primer plano"
+imagen_alt: "Vista de Barcelona desde el Park Güell con el banco de mosaicos en primer plano"
 tiempo_lectura: 13
 keywords:
   - "barcelona con niños"

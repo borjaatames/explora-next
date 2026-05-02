@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
-imagen_alt: "Jamones ibÃ©ricos colgados en una charcuterÃ­a sevillana"
+imagen_alt: "Jamones ibéricos colgados en una charcutería sevillana"
 tiempo_lectura: 11
 keywords:
   - "tapas sevilla"

@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-en-3-dias.jpg"
-imagen_alt: "Edificio histÃ³rico de la Gran VÃ­a de Madrid"
+imagen_alt: "Edificio histórico de la Gran Vía de Madrid"
 tiempo_lectura: 12
 keywords:
   - "madrid en 3 días"

@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Vista panorÃ¡mica de Sevilla al atardecer"
+imagen_alt: "Vista panorámica de Sevilla al atardecer"
 tiempo_lectura: 14
 keywords:
   - "sevilla en 3 días"

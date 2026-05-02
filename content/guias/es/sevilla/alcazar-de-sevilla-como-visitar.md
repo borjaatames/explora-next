@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/alcazar-de-sevilla-como-visitar.jpg"
-imagen_alt: "Arco mudÃ©jar del Real AlcÃ¡zar de Sevilla con su decoraciÃ³n tallada en piedra"
+imagen_alt: "Arco mudéjar del Real Alcázar de Sevilla con su decoración tallada en piedra"
 tiempo_lectura: 11
 keywords:
   - "real alcázar sevilla"
