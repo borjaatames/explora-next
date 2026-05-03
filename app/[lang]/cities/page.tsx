@@ -2,10 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { obtenerListaCiudades } from "@/lib/ciudades";
-import { esIdiomaActivo } from "@/lib/i18n/config";
+import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
-import { urlIndiceCiudades } from "@/lib/i18n/utils";
+import {
+  hreflangAlternates,
+  urlIndiceCiudades,
+  prefijoIdioma,
+} from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 type Props = {
   params: { lang: string };
@@ -17,11 +24,28 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
   const lang: Idioma = params.lang;
   const dict = getDictionary(lang);
+  const canonical = `${SITE_URL}${urlIndiceCiudades(lang)}`;
+  const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+
   return {
     title: dict.ciudades.tituloIndice,
     description: dict.ciudades.descripcionIndice,
     alternates: {
-      canonical: `https://exploraspain.com${urlIndiceCiudades(lang)}`,
+      canonical,
+      languages: hreflangAlternates((l) => urlIndiceCiudades(l)),
+    },
+    robots: {
+      index: allowIndexing,
+      follow: allowIndexing,
+      googleBot: { index: allowIndexing, follow: allowIndexing },
+    },
+    openGraph: {
+      type: "website",
+      url: canonical,
+      title: dict.ciudades.tituloIndice,
+      description: dict.ciudades.descripcionIndice,
+      siteName: "ExploraSpain",
+      locale: IDIOMA_LOCALE[lang],
     },
   };
 }
@@ -35,8 +59,32 @@ export default function CiudadesPage({ params }: Props) {
   const dict = getDictionary(lang);
   const ciudades = obtenerListaCiudades(lang);
 
+  const breadcrumbsLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: dict.navegacion.inicio,
+        item: `${SITE_URL}${prefijoIdioma(lang) || "/"}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: dict.navegacion.ciudades,
+        item: `${SITE_URL}${urlIndiceCiudades(lang)}`,
+      },
+    ],
+  };
+
   return (
     <main className="min-h-screen bg-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
+      />
+
       <section className="bg-sky-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
           <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-3">
@@ -62,6 +110,7 @@ export default function CiudadesPage({ params }: Props) {
                 className="group block border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
               >
                 <div className="relative w-full h-48 bg-slate-100 overflow-hidden">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     src={`/ciudades/${ciudad.slug}.jpg`}
                     alt={`${ciudad.nombre}, ${ciudad.comunidad}`}

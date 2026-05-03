@@ -8,8 +8,16 @@ import {
 import { obtenerListaGuias } from "@/lib/guias";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
-import { urlIndiceCiudades } from "@/lib/i18n/utils";
+import {
+  hreflangAlternates,
+  urlCiudad,
+  urlIndiceCiudades,
+  prefijoIdioma,
+} from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 type Props = {
   params: { lang: string; ciudad: string };
@@ -29,25 +37,36 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) return { title: "Not found" };
 
-  const url = `https://exploraspain.com${ciudad.url}`;
+  const url = `${SITE_URL}${ciudad.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+  const titleSuffix =
+    lang === "en" ? " | Travel guide" : ` | ${getDictionary(lang).ciudades.tituloIndice}`;
 
   return {
-    title: `${ciudad.nombre}`,
+    title: `${ciudad.nombre}${titleSuffix}`,
     description: ciudad.descripcion,
     keywords: ciudad.keywords,
     robots: {
       index: allowIndexing,
       follow: allowIndexing,
+      googleBot: { index: allowIndexing, follow: allowIndexing },
     },
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: hreflangAlternates((l) => urlCiudad(l, params.ciudad)),
+    },
     openGraph: {
       type: "website",
       url,
-      title: ciudad.nombre,
+      title: `${ciudad.nombre} | ExploraSpain`,
       description: ciudad.descripcion,
       siteName: "ExploraSpain",
       locale: IDIOMA_LOCALE[lang],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: ciudad.nombre,
+      description: ciudad.descripcion,
     },
   };
 }
@@ -66,13 +85,42 @@ export default async function CiudadPage({ params }: Props) {
     (g) => g.categoria.toLowerCase() === params.ciudad.toLowerCase()
   );
 
+  const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
+  const indiceUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
+  const ciudadUrl = `${SITE_URL}${ciudad.url}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "TouristDestination",
     name: ciudad.nombre,
     description: ciudad.descripcion,
     addressCountry: "ES",
-    url: `https://exploraspain.com${ciudad.url}`,
+    url: ciudadUrl,
+  };
+
+  const breadcrumbsLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: dict.navegacion.inicio,
+        item: homeUrl,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: dict.navegacion.ciudades,
+        item: indiceUrl,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: ciudad.nombre,
+        item: ciudadUrl,
+      },
+    ],
   };
 
   return (
@@ -81,9 +129,34 @@ export default async function CiudadPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
+      />
 
       <header className="bg-sky-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
+          <nav
+            aria-label="Breadcrumb"
+            className="text-sm text-sky-100 mb-4"
+          >
+            <Link
+              href={prefijoIdioma(lang) || "/"}
+              className="hover:text-white"
+            >
+              {dict.navegacion.inicio}
+            </Link>
+            {" › "}
+            <Link
+              href={urlIndiceCiudades(lang)}
+              className="hover:text-white"
+            >
+              {dict.navegacion.ciudades}
+            </Link>
+            {" › "}
+            <span className="text-white">{ciudad.nombre}</span>
+          </nav>
+
           <span className="inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-4">
             {ciudad.comunidad}
           </span>
@@ -109,7 +182,7 @@ export default async function CiudadPage({ params }: Props) {
             <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
               {dict.ciudades.guiasDeCiudad}
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
               {guiasRelacionadas.map((guia) => (
                 <Link
                   key={guia.url}
