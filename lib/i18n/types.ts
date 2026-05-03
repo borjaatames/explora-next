@@ -6,6 +6,9 @@ export type SegmentosUrl = {
   guias: string;
   ciudades: string;
   actividades: string;
+  avisoLegal: string;
+  privacidad: string;
+  cookies: string;
 };
 
 export type Diccionario = {

@@ -18,14 +18,61 @@ export const IDIOMA_DEFECTO: Idioma = "es";
  * `actividades` está reservado para una futura sección de afiliación
  * (Civitatis/GetYourGuide). No hay rutas todavía, pero el slug ya está
  * definido para no tener que tocar todas las URLs cuando se active.
+ *
+ * Las 3 legales (`avisoLegal`, `privacidad`, `cookies`) usan slugs ES
+ * legacy en español y la convención EN estándar (`legal-notice`,
+ * `privacy`, `cookies`) en el resto de idiomas. Los placeholders DE/FR/IT/PT
+ * se mantendrán con la convención EN hasta que se traduzcan específicamente.
  */
 export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
-  es: { guias: "guias", ciudades: "ciudades", actividades: "actividades" },
-  en: { guias: "guides", ciudades: "cities", actividades: "activities" },
-  de: { guias: "guides", ciudades: "cities", actividades: "activities" },
-  fr: { guias: "guides", ciudades: "cities", actividades: "activities" },
-  it: { guias: "guides", ciudades: "cities", actividades: "activities" },
-  pt: { guias: "guides", ciudades: "cities", actividades: "activities" },
+  es: {
+    guias: "guias",
+    ciudades: "ciudades",
+    actividades: "actividades",
+    avisoLegal: "aviso-legal",
+    privacidad: "privacidad",
+    cookies: "cookies",
+  },
+  en: {
+    guias: "guides",
+    ciudades: "cities",
+    actividades: "activities",
+    avisoLegal: "legal-notice",
+    privacidad: "privacy",
+    cookies: "cookies",
+  },
+  de: {
+    guias: "guides",
+    ciudades: "cities",
+    actividades: "activities",
+    avisoLegal: "legal-notice",
+    privacidad: "privacy",
+    cookies: "cookies",
+  },
+  fr: {
+    guias: "guides",
+    ciudades: "cities",
+    actividades: "activities",
+    avisoLegal: "legal-notice",
+    privacidad: "privacy",
+    cookies: "cookies",
+  },
+  it: {
+    guias: "guides",
+    ciudades: "cities",
+    actividades: "activities",
+    avisoLegal: "legal-notice",
+    privacidad: "privacy",
+    cookies: "cookies",
+  },
+  pt: {
+    guias: "guides",
+    ciudades: "cities",
+    actividades: "activities",
+    avisoLegal: "legal-notice",
+    privacidad: "privacy",
+    cookies: "cookies",
+  },
 };
 
 export const IDIOMA_LABELS: Record<Idioma, { nombre: string; bandera: string }> =

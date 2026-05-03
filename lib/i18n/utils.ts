@@ -111,6 +111,39 @@ export function urlActividadesDeCiudadPorCategoria(
 }
 
 /**
+ * Construye la URL del aviso legal.
+ * ES: /aviso-legal
+ * EN: /en/legal-notice
+ */
+export function urlAvisoLegal(idioma: Idioma): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmento = URL_SEGMENTS[idioma].avisoLegal;
+  return `${prefijo}/${segmento}`;
+}
+
+/**
+ * Construye la URL de la política de privacidad.
+ * ES: /privacidad
+ * EN: /en/privacy
+ */
+export function urlPrivacidad(idioma: Idioma): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmento = URL_SEGMENTS[idioma].privacidad;
+  return `${prefijo}/${segmento}`;
+}
+
+/**
+ * Construye la URL de la política de cookies.
+ * ES: /cookies
+ * EN: /en/cookies
+ */
+export function urlCookies(idioma: Idioma): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmento = URL_SEGMENTS[idioma].cookies;
+  return `${prefijo}/${segmento}`;
+}
+
+/**
  * Resuelve el idioma desde el primer segmento de un pathname.
  * "/en/guides/..." → "en"
  * "/guias/..."     → "es"

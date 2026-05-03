@@ -13,6 +13,9 @@ import {
   urlActividadesDeCiudad,
   urlIndiceGuias,
   urlIndiceCiudades,
+  urlAvisoLegal,
+  urlPrivacidad,
+  urlCookies,
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
@@ -72,13 +75,38 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
-  // Páginas legales y "sobre nosotros" (solo español por ahora)
+  // ─── Páginas legales (todos los idiomas activos, con hreflang) ───
+  for (const lang of IDIOMAS_ACTIVOS) {
+    entries.push({
+      url: `${SITE_URL}${urlAvisoLegal(lang)}`,
+      lastModified: ahora,
+      changeFrequency: "yearly",
+      priority: 0.3,
+      alternates: alternatesPara((l) => urlAvisoLegal(l)),
+    });
+    entries.push({
+      url: `${SITE_URL}${urlPrivacidad(lang)}`,
+      lastModified: ahora,
+      changeFrequency: "yearly",
+      priority: 0.3,
+      alternates: alternatesPara((l) => urlPrivacidad(l)),
+    });
+    entries.push({
+      url: `${SITE_URL}${urlCookies(lang)}`,
+      lastModified: ahora,
+      changeFrequency: "yearly",
+      priority: 0.3,
+      alternates: alternatesPara((l) => urlCookies(l)),
+    });
+  }
+
+  // "Sobre nosotros" y "Contacto" (solo español por ahora — pendientes
+  // de Sprint C-about-final y C-contacto). El About EN sí existe en
+  // /en/about, pero el sitemap aún no lo incluye porque el handoff
+  // recomienda completar Fase C antes de tocar canonicales SEO.
   const paginasFijasEs: Array<[string, number, "monthly" | "yearly"]> = [
     ["/sobre-nosotros", 0.6, "monthly"],
     ["/contacto", 0.5, "yearly"],
-    ["/aviso-legal", 0.3, "yearly"],
-    ["/privacidad", 0.3, "yearly"],
-    ["/cookies", 0.3, "yearly"],
   ];
   for (const [path, priority, changeFrequency] of paginasFijasEs) {
     entries.push({
