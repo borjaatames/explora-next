@@ -154,6 +154,29 @@ export default async function ActividadPage({ params }: Props) {
     ],
   };
 
+  // Rating como dato agregado del proveedor (Viator). NO se renderizan
+  // opiniones individuales: la API de afiliación lo prohíbe y, además,
+  // ExploraSpain no es el operador de la actividad.
+  const tieneRating =
+    typeof actividad.ratingProveedor === "number" &&
+    typeof actividad.numeroOpiniones === "number" &&
+    actividad.numeroOpiniones > 0;
+
+  const ratingTextoOpiniones =
+    actividad.numeroOpiniones === 1
+      ? `1 ${dict.actividades.opiniones}`
+      : `${(actividad.numeroOpiniones ?? 0).toLocaleString("es-ES")} ${
+          dict.actividades.opiniones
+        }`;
+
+  const ratingTextoValor = (actividad.ratingProveedor ?? 0).toLocaleString(
+    "es-ES",
+    {
+      minimumFractionDigits: 1,
+      maximumFractionDigits: 1,
+    }
+  );
+
   return (
     <main className="min-h-screen bg-white pb-24 lg:pb-0">
       <script
@@ -212,12 +235,18 @@ export default async function ActividadPage({ params }: Props) {
             {actividad.descripcion}
           </p>
 
-          {actividad.ratingProveedor && (
-            <p className="mt-4 text-sm text-sky-50">
-              ★ {actividad.ratingProveedor.toFixed(1)}
-              {actividad.numeroOpiniones
-                ? ` · ${actividad.numeroOpiniones.toLocaleString("es-ES")} ${dict.actividades.opiniones}`
-                : ""}
+          {tieneRating && (
+            <p className="mt-5 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-sky-50">
+              <span className="inline-flex items-center gap-1.5 font-semibold text-white">
+                <span aria-hidden="true" className="text-amber-300 text-base">
+                  ★
+                </span>
+                <span>{ratingTextoValor}</span>
+              </span>
+              <span aria-hidden="true" className="text-sky-200">
+                ·
+              </span>
+              <span>{ratingTextoOpiniones}</span>
             </p>
           )}
         </div>
@@ -238,7 +267,7 @@ export default async function ActividadPage({ params }: Props) {
               />
             )}
 
-            {/* 2. Detalles prácticos (NUEVO) — justo después de la galería */}
+            {/* 2. Detalles prácticos — justo después de la galería */}
             <DetallesPracticos
               duracion={actividad.duracion}
               idiomas={actividad.idiomas}
@@ -247,7 +276,7 @@ export default async function ActividadPage({ params }: Props) {
               horasCancelacion={actividad.horasCancelacion}
             />
 
-            {/* 3. Lo más destacado (renombrado desde "Highlights") */}
+            {/* 3. Lo más destacado */}
             {actividad.highlights.length > 0 && (
               <div>
                 <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
@@ -334,10 +363,10 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 6. Información importante (NUEVO) — 3 columnas */}
+            {/* 6. Información importante — 3 columnas */}
             <InformacionImportante info={actividad.informacionImportante} />
 
-            {/* 7. Punto de encuentro con MAPA OSM (NUEVO) + descripción guía */}
+            {/* 7. Punto de encuentro con MAPA OSM + descripción guía */}
             {actividad.puntoEncuentro.texto && (
               <MapaPuntoEncuentro punto={actividad.puntoEncuentro} />
             )}
@@ -353,7 +382,7 @@ export default async function ActividadPage({ params }: Props) {
               />
             </div>
 
-            {/* 9. Carrusel "Otras formas de visitar X" (NUEVO) */}
+            {/* 9. Carrusel "Otras formas de visitar X" */}
             {variantes.length > 0 && (
               <CarruselVariantes
                 variantes={variantes}
@@ -363,7 +392,7 @@ export default async function ActividadPage({ params }: Props) {
               />
             )}
 
-            {/* 10. Accesibilidad (NUEVO) — frase global simple */}
+            {/* 10. Accesibilidad — frase global simple */}
             {actividad.accesibilidad && (
               <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
@@ -375,7 +404,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 11. Política de cancelación (NUEVO) — párrafo claro */}
+            {/* 11. Política de cancelación — párrafo claro */}
             {actividad.politicaCancelacion && (
               <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
@@ -387,7 +416,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 12. Preguntas frecuentes (NUEVO) — sin JSON-LD por ahora */}
+            {/* 12. Preguntas frecuentes — sin JSON-LD por ahora */}
             <FaqActividad preguntas={actividad.preguntasFrecuentes || []} />
 
             {/* 13. Guías relacionadas */}
@@ -504,7 +533,6 @@ function buildProductLd(
   const imagenAbsoluta = actividad.imagen.startsWith("http")
     ? actividad.imagen
     : `${SITE_URL}${actividad.imagen}`;
-
   const ld: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -521,12 +549,10 @@ function buildProductLd(
       availability: "https://schema.org/InStock",
     },
   };
-
   ld.brand = {
     "@type": "Organization",
     name: nombreProveedor(actividad.proveedor),
   };
-
   if (actividad.ratingProveedor && actividad.numeroOpiniones) {
     ld.aggregateRating = {
       "@type": "AggregateRating",
@@ -534,7 +560,6 @@ function buildProductLd(
       reviewCount: actividad.numeroOpiniones,
     };
   }
-
   return ld;
 }
 
@@ -546,7 +571,6 @@ function AlternativaCard({ actividad }: AlternativaCardProps) {
     currency: actividad.moneda,
     maximumFractionDigits: 0,
   }).format(actividad.precioDesde);
-
   return (
     <Link
       href={actividad.url}

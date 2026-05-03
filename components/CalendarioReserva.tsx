@@ -100,6 +100,24 @@ export default function CalendarioReserva({
     setFechaSeleccionada(dia);
   }
 
+  // Rating como dato agregado del proveedor (Viator). NO se renderizan
+  // opiniones individuales: la API de afiliación lo prohíbe y, además,
+  // ExploraSpain no es el operador de la actividad.
+  const tieneRating =
+    typeof ratingProveedor === "number" &&
+    typeof numeroOpiniones === "number" &&
+    numeroOpiniones > 0;
+
+  const ratingTextoValor = (ratingProveedor ?? 0).toLocaleString("es-ES", {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  });
+
+  const ratingTextoOpiniones =
+    numeroOpiniones === 1
+      ? "1 opinión"
+      : `${(numeroOpiniones ?? 0).toLocaleString("es-ES")} opiniones`;
+
   return (
     <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
       <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
@@ -114,13 +132,19 @@ export default function CalendarioReserva({
         <p className="text-3xl font-bold text-slate-900 mt-0.5">{precio}</p>
         <p className="text-xs text-slate-500">{textoPorPersona}</p>
 
-        {ratingProveedor && (
-          <p className="mt-2 text-xs text-slate-600">
-            ★ {ratingProveedor.toFixed(1)}
-            {numeroOpiniones
-              ? ` · ${numeroOpiniones.toLocaleString("es-ES")} opiniones`
-              : ""}
-          </p>
+        {tieneRating && (
+          <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-amber-50 px-2.5 py-1.5 text-sm">
+            <span className="inline-flex items-center gap-1 font-semibold text-slate-900">
+              <span aria-hidden="true" className="text-amber-500 text-base leading-none">
+                ★
+              </span>
+              <span>{ratingTextoValor}</span>
+            </span>
+            <span aria-hidden="true" className="text-slate-300">
+              ·
+            </span>
+            <span className="text-slate-700">{ratingTextoOpiniones}</span>
+          </div>
         )}
 
         <div className="mt-5">
@@ -214,9 +238,9 @@ export default function CalendarioReserva({
   );
 }
 
-/* ─────────────────────────────────────────────────────────
+/* ─────────────────────────────────────────────────────────────────────
    Subcomponentes
-   ───────────────────────────────────────────────────────── */
+   ───────────────────────────────────────────────────────────────────── */
 
 type BotonDiaProps = {
   dia: Date | null;
@@ -254,9 +278,9 @@ function BotonDia({ dia, hoy, fechaSeleccionada, onClick }: BotonDiaProps) {
   );
 }
 
-/* ─────────────────────────────────────────────────────────
+/* ─────────────────────────────────────────────────────────────────────
    Helpers
-   ───────────────────────────────────────────────────────── */
+   ───────────────────────────────────────────────────────────────────── */
 
 function construirGridMes(year: number, month: number): (Date | null)[] {
   const primerDia = new Date(year, month, 1);

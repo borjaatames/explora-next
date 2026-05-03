@@ -82,6 +82,24 @@ export default function StickyReservaMovil({
     return () => window.removeEventListener("keydown", onKeyDown);
   }, [modalOpen]);
 
+  // Rating como dato agregado del proveedor (Viator). NO se renderizan
+  // opiniones individuales: la API de afiliación lo prohíbe y, además,
+  // ExploraSpain no es el operador de la actividad.
+  const tieneRating =
+    typeof ratingProveedor === "number" &&
+    typeof numeroOpiniones === "number" &&
+    numeroOpiniones > 0;
+
+  const ratingTextoValor = (ratingProveedor ?? 0).toLocaleString("es-ES", {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  });
+
+  const ratingTextoOpiniones =
+    numeroOpiniones === 1
+      ? `1 ${textoOpiniones}`
+      : `${(numeroOpiniones ?? 0).toLocaleString("es-ES")} ${textoOpiniones}`;
+
   return (
     <>
       <div
@@ -98,13 +116,18 @@ export default function StickyReservaMovil({
               {precio}
             </span>
             <span className="text-xs text-slate-500 leading-tight truncate">
-              {ratingProveedor ? (
+              {tieneRating ? (
                 <>
-                  ★ {ratingProveedor.toFixed(1)}
-                  {numeroOpiniones
-                    ? ` (${numeroOpiniones.toLocaleString("es-ES")} ${textoOpiniones})`
-                    : ""}{" "}
-                  · {duracion}
+                  <span aria-hidden="true" className="text-amber-500">
+                    ★
+                  </span>{" "}
+                  <span className="font-semibold text-slate-900">
+                    {ratingTextoValor}
+                  </span>
+                  {" ("}
+                  {ratingTextoOpiniones}
+                  {") · "}
+                  {duracion}
                 </>
               ) : (
                 <>
