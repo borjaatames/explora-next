@@ -1,19 +1,64 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
-import { esIdiomaActivo } from "@/lib/i18n/config";
+import {
+  IDIOMAS_ACTIVOS,
+  IDIOMA_LOCALE,
+  esIdiomaActivo,
+} from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   formatearFecha,
+  hreflangAlternates,
+  prefijoIdioma,
   urlIndiceGuias,
   urlIndiceCiudades,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+
 type Props = {
   params: { lang: string };
 };
+
+export function generateStaticParams(): Array<{ lang: Idioma }> {
+  return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
+}
+
+export async function generateMetadata({
+  params,
+}: Props): Promise<Metadata> {
+  const { lang } = params;
+  if (!esIdiomaActivo(lang) || lang === "es") {
+    return {};
+  }
+
+  const canonicalUrl = `${SITE_URL}${prefijoIdioma(lang)}/`;
+  const languages = hreflangAlternates((l) => `${prefijoIdioma(l)}/`);
+
+  return {
+    title: "ExploraSpain · Honest travel guides for visiting Spain",
+    description:
+      "Editorial guides with judgment on Madrid, Seville, Barcelona, Granada and Salamanca. Real itineraries, honest comparisons and practical advice without tourist hype.",
+    alternates: {
+      canonical: canonicalUrl,
+      languages,
+    },
+    openGraph: {
+      type: "website",
+      locale: IDIOMA_LOCALE[lang],
+      url: canonicalUrl,
+      siteName: "ExploraSpain",
+      title: "ExploraSpain · Honest travel guides for visiting Spain",
+      description:
+        "Real itineraries, honest comparisons and practical advice for visiting Spain — without tourist hype.",
+    },
+  };
+}
 
 export default function HomePage({ params }: Props) {
   if (!esIdiomaActivo(params.lang) || params.lang === "es") {
@@ -25,8 +70,49 @@ export default function HomePage({ params }: Props) {
   const guias = obtenerGuiasDestacadas(lang, 3);
   const ciudades = obtenerListaCiudades(lang);
 
+  const homeUrl = `${SITE_URL}${prefijoIdioma(lang)}/`;
+
+  const websiteJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "ExploraSpain",
+    url: SITE_URL,
+    inLanguage: IDIOMA_LOCALE[lang],
+    description:
+      "Honest editorial guides for traveling Spain: real itineraries, honest comparisons and practical advice.",
+  };
+
+  const organizationJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "SKYWARD PARTNERS, S.L.",
+    legalName: "SKYWARD PARTNERS, S.L.",
+    url: SITE_URL,
+    email: "contacto@exploraspain.com",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Calle Castelló 117",
+      postalCode: "28006",
+      addressLocality: "Madrid",
+      addressCountry: "ES",
+    },
+    taxID: "B26629576",
+  };
+
   return (
     <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(organizationJsonLd),
+        }}
+      />
+
+      {/* Hero */}
       <section className="bg-sky-500 text-white">
         <div className="max-w-5xl mx-auto px-4 py-20 md:py-28 text-center">
           <h1 className="font-playfair text-4xl md:text-6xl font-bold mb-6 leading-tight">
@@ -42,15 +128,26 @@ export default function HomePage({ params }: Props) {
             >
               {dict.home.ctaExplorar}
             </Link>
+            <Link
+              href={`/${lang}/about`}
+              className="bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/30"
+            >
+              About the project
+            </Link>
           </div>
         </div>
       </section>
 
+      {/* Featured guides */}
       <section className="max-w-6xl mx-auto px-4 py-16 md:py-20">
         <div className="mb-10">
           <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
             {dict.home.seccionGuiasDestacadas}
           </h2>
+          <p className="text-slate-600 text-lg">
+            The latest we&rsquo;ve published: routes with judgment for
+            traveling well.
+          </p>
         </div>
 
         {guias.length === 0 ? null : (
@@ -91,6 +188,7 @@ export default function HomePage({ params }: Props) {
         </div>
       </section>
 
+      {/* Cities */}
       {ciudades.length > 0 && (
         <section className="bg-amber-50 border-y border-amber-200">
           <div className="max-w-6xl mx-auto px-4 py-16 md:py-20">
@@ -98,6 +196,9 @@ export default function HomePage({ params }: Props) {
               <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
                 {dict.home.seccionCiudades}
               </h2>
+              <p className="text-slate-700 text-lg">
+                Practical information about each city before you visit.
+              </p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -141,6 +242,32 @@ export default function HomePage({ params }: Props) {
           </div>
         </section>
       )}
+
+      {/* About the project */}
+      <section className="bg-slate-50 border-y border-slate-200">
+        <div className="max-w-3xl mx-auto px-4 py-16 md:py-20">
+          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
+            What is ExploraSpain
+          </h2>
+          <p className="text-slate-700 text-lg leading-relaxed mb-4">
+            An editorial project about traveling Spain. We write honest
+            guides: routes with judgment, real comparisons, and practical
+            advice — without the inflated tone of postcard tourism.
+          </p>
+          <p className="text-slate-700 text-lg leading-relaxed mb-6">
+            There&rsquo;s a lot of information about what to see in Spain.
+            Very little about{" "}
+            <strong>what&rsquo;s actually worth it in each case</strong>.
+            ExploraSpain fills that gap.
+          </p>
+          <Link
+            href={`/${lang}/about`}
+            className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
+          >
+            Learn more about us →
+          </Link>
+        </div>
+      </section>
     </main>
   );
 }

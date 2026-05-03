@@ -12,9 +12,21 @@ const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 export const metadata: Metadata = {
+  title: "ExploraSpain · Guías honestas para viajar por España",
+  description:
+    "Guías editoriales con criterio sobre Madrid, Sevilla, Barcelona, Granada y Salamanca. Rutas reales, comparativas honestas y consejos prácticos sin postureo turístico.",
   alternates: {
     canonical: `${SITE_URL}/`,
     languages: hreflangAlternates((l) => `${prefijoIdioma(l)}/`),
+  },
+  openGraph: {
+    type: "website",
+    locale: "es_ES",
+    url: `${SITE_URL}/`,
+    siteName: "ExploraSpain",
+    title: "ExploraSpain · Guías honestas para viajar por España",
+    description:
+      "Rutas con criterio, comparativas reales y consejos prácticos para visitar España sin postureo turístico.",
   },
 };
 
@@ -22,8 +34,46 @@ export default function HomePage() {
   const guias = obtenerGuiasDestacadas("es", 3);
   const ciudades = obtenerListaCiudades("es");
 
+  const websiteJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "ExploraSpain",
+    url: SITE_URL,
+    inLanguage: "es-ES",
+    description:
+      "Guías editoriales honestas sobre viajes por España: rutas con criterio, comparativas reales y consejos prácticos.",
+  };
+
+  const organizationJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "SKYWARD PARTNERS, S.L.",
+    legalName: "SKYWARD PARTNERS, S.L.",
+    url: SITE_URL,
+    email: "contacto@exploraspain.com",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Calle Castelló 117",
+      postalCode: "28006",
+      addressLocality: "Madrid",
+      addressCountry: "ES",
+    },
+    taxID: "B26629576",
+  };
+
   return (
     <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(organizationJsonLd),
+        }}
+      />
+
       {/* Hero */}
       <section className="bg-sky-500 text-white">
         <div className="max-w-5xl mx-auto px-4 py-20 md:py-28 text-center">
