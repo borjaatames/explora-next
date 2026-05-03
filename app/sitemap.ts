@@ -16,6 +16,7 @@ import {
   urlAvisoLegal,
   urlPrivacidad,
   urlCookies,
+  urlContacto,
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
@@ -100,13 +101,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
-  // "Sobre nosotros" y "Contacto" (solo español por ahora — pendientes
-  // de Sprint C-about-final y C-contacto). El About EN sí existe en
-  // /en/about, pero el sitemap aún no lo incluye porque el handoff
-  // recomienda completar Fase C antes de tocar canonicales SEO.
+  // ─── Página de contacto (todos los idiomas activos, con hreflang) ─
+  for (const lang of IDIOMAS_ACTIVOS) {
+    entries.push({
+      url: `${SITE_URL}${urlContacto(lang)}`,
+      lastModified: ahora,
+      changeFrequency: "yearly",
+      priority: 0.5,
+      alternates: alternatesPara((l) => urlContacto(l)),
+    });
+  }
+
+  // "Sobre nosotros" (solo español por ahora — pendiente de Sprint
+  // C-about-final). El About EN sí existe en /en/about, pero el sitemap
+  // aún no lo incluye porque el handoff recomienda completar Fase C antes
+  // de tocar canonicales SEO.
   const paginasFijasEs: Array<[string, number, "monthly" | "yearly"]> = [
     ["/sobre-nosotros", 0.6, "monthly"],
-    ["/contacto", 0.5, "yearly"],
   ];
   for (const [path, priority, changeFrequency] of paginasFijasEs) {
     entries.push({

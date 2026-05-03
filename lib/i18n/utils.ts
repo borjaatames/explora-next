@@ -144,6 +144,17 @@ export function urlCookies(idioma: Idioma): string {
 }
 
 /**
+ * Construye la URL de la página de contacto.
+ * ES: /contacto
+ * EN: /en/contact
+ */
+export function urlContacto(idioma: Idioma): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmento = URL_SEGMENTS[idioma].contacto;
+  return `${prefijo}/${segmento}`;
+}
+
+/**
  * Resuelve el idioma desde el primer segmento de un pathname.
  * "/en/guides/..." → "en"
  * "/guias/..."     → "es"

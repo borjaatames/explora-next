@@ -9,6 +9,7 @@ export type SegmentosUrl = {
   avisoLegal: string;
   privacidad: string;
   cookies: string;
+  contacto: string;
 };
 
 export type Diccionario = {

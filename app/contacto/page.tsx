@@ -1,26 +1,37 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { hreflangAlternates, urlContacto } from "@/lib/i18n/utils";
 
-export const metadata: Metadata = {
-  title: "Contacto | ExploraSpain",
-  description:
-    "¿Sugerencias, correcciones o colaboraciones? Escríbenos. Respondemos en 2-3 días laborables.",
-  robots: {
-    index: process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true",
-    follow: process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true",
-  },
-  openGraph: {
+export async function generateMetadata(): Promise<Metadata> {
+  const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+  const siteUrl =
+    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  const canonicalUrl = `${siteUrl}${urlContacto("es")}`;
+  const languages = hreflangAlternates((l) => urlContacto(l));
+
+  return {
     title: "Contacto | ExploraSpain",
-    description: "Escríbenos con sugerencias, correcciones o colaboraciones.",
-    url: "https://exploraspain.com/contacto",
-    siteName: "ExploraSpain",
-    locale: "es_ES",
-    type: "website",
-  },
-  alternates: {
-    canonical: "https://exploraspain.com/contacto",
-  },
-};
+    description:
+      "¿Sugerencias, correcciones o colaboraciones? Escríbenos. Respondemos en 2-3 días laborables.",
+    robots: {
+      index: allowIndexing,
+      follow: allowIndexing,
+    },
+    openGraph: {
+      title: "Contacto | ExploraSpain",
+      description:
+        "Escríbenos con sugerencias, correcciones o colaboraciones.",
+      url: canonicalUrl,
+      siteName: "ExploraSpain",
+      locale: "es_ES",
+      type: "website",
+    },
+    alternates: {
+      canonical: canonicalUrl,
+      languages,
+    },
+  };
+}
 
 export default function ContactoPage() {
   return (

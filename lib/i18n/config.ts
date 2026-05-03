@@ -19,10 +19,11 @@ export const IDIOMA_DEFECTO: Idioma = "es";
  * (Civitatis/GetYourGuide). No hay rutas todavía, pero el slug ya está
  * definido para no tener que tocar todas las URLs cuando se active.
  *
- * Las 3 legales (`avisoLegal`, `privacidad`, `cookies`) usan slugs ES
- * legacy en español y la convención EN estándar (`legal-notice`,
- * `privacy`, `cookies`) en el resto de idiomas. Los placeholders DE/FR/IT/PT
- * se mantendrán con la convención EN hasta que se traduzcan específicamente.
+ * Las 3 legales (`avisoLegal`, `privacidad`, `cookies`) y `contacto` usan
+ * slugs ES legacy en español y la convención EN estándar (`legal-notice`,
+ * `privacy`, `cookies`, `contact`) en el resto de idiomas. Los placeholders
+ * DE/FR/IT/PT se mantendrán con la convención EN hasta que se traduzcan
+ * específicamente.
  */
 export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
   es: {
@@ -32,6 +33,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     avisoLegal: "aviso-legal",
     privacidad: "privacidad",
     cookies: "cookies",
+    contacto: "contacto",
   },
   en: {
     guias: "guides",
@@ -40,6 +42,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
+    contacto: "contact",
   },
   de: {
     guias: "guides",
@@ -48,6 +51,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
+    contacto: "contact",
   },
   fr: {
     guias: "guides",
@@ -56,6 +60,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
+    contacto: "contact",
   },
   it: {
     guias: "guides",
@@ -64,6 +69,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
+    contacto: "contact",
   },
   pt: {
     guias: "guides",
@@ -72,6 +78,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
+    contacto: "contact",
   },
 };
 
