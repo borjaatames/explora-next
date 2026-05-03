@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
@@ -136,7 +136,7 @@ function getCopy(lang: Idioma): AboutCopy {
             ExploraSpain is operated by SKYWARD PARTNERS, S.L., tax ID
             B26629576, registered office at Calle Castelló 117, 28006
             Madrid, Spain. For full legal details, see the{" "}
-            <Link href="/aviso-legal">legal notice</Link>.
+            <Link href={`/${lang}/legal-notice`}>legal notice</Link>.
           </>
         ),
       },
