@@ -120,9 +120,10 @@ export type ActividadFrontmatter = {
   politicaCancelacion?: string;
   preguntasFrecuentes?: PreguntaFrecuente[];
   /**
-   * Slugs de OTRAS actividades publicadas en la misma ciudad que se mostrarán
-   * en el carrusel "Otras formas de visitar X". Si la lista está vacía o
-   * los slugs no resuelven a una actividad publicada, el bloque no aparece.
+   * Slugs de OTRAS actividades publicadas en la misma ciudad que se
+   * mostrarán en el carrusel "Otras formas de visitar X". Si la lista
+   * está vacía o los slugs no resuelven a una actividad publicada, el
+   * bloque no aparece.
    */
   variantes?: string[];
 
@@ -202,8 +203,8 @@ export function obtenerListaActividadesPorCiudad(
 }
 
 /**
- * Devuelve una actividad concreta por idioma + ciudad + slug,
- * con HTML procesado. Devuelve null si no existe o no está publicada.
+ * Devuelve una actividad concreta por idioma + ciudad + slug, con HTML
+ * procesado. Devuelve null si no existe o no está publicada.
  */
 export async function obtenerActividad(
   idioma: Idioma,
@@ -351,8 +352,9 @@ export function obtenerTodosLosCaminosActividades(): {
 }
 
 /**
- * Devuelve los slugs de ciudades que tienen al menos una actividad publicada
- * en el idioma indicado. Útil para generateStaticParams del listado.
+ * Devuelve los slugs de ciudades que tienen al menos una actividad
+ * publicada en el idioma indicado. Útil para generateStaticParams del
+ * listado de actividades por ciudad.
  */
 export function obtenerCiudadesConActividades(idioma: Idioma): string[] {
   const base = path.join(actividadesRoot, idioma);
@@ -371,10 +373,10 @@ export function obtenerCiudadesConActividades(idioma: Idioma): string[] {
 }
 
 /**
- * Normaliza el campo `puntoEncuentro` del frontmatter a su forma de objeto.
- * Acepta string plano (formato original) u objeto detallado (formato nuevo).
- * Si está vacío devuelve un objeto con texto vacío para que el render no
- * tenga que comprobar undefined.
+ * Normaliza el campo `puntoEncuentro` del frontmatter a su forma de
+ * objeto. Acepta string plano (formato original) u objeto detallado
+ * (formato nuevo). Si está vacío devuelve un objeto con texto vacío
+ * para que el render no tenga que comprobar undefined.
  */
 function normalizarPuntoEncuentro(
   raw: string | PuntoEncuentroDetallado | undefined
@@ -391,8 +393,8 @@ function normalizarPuntoEncuentro(
 }
 
 /**
- * Construye un ActividadListItem a partir del frontmatter.
- * Centralizado para no repetir la lógica entre obtenerLista y obtenerActividad.
+ * Construye un ActividadListItem a partir del frontmatter. Centralizado
+ * para no repetir la lógica entre obtenerLista y obtenerActividad.
  *
  * Si el `proveedor` del frontmatter no es uno de los conocidos, se hace
  * fallback a "civitatis" (con warning en consola en build).
@@ -464,4 +466,114 @@ function construirListItem(
     idioma,
     url: urlActividad(idioma, ciudad, slug),
   };
+}
+
+// =============================================================================
+// Helpers para listado de actividades por categoría
+// =============================================================================
+
+/**
+ * Mapeo categoría camelCase del frontmatter -> slug kebab-case en URL.
+ * Único lugar que conoce esta correspondencia.
+ *
+ * Si en el futuro se añade una categoría nueva, hay que actualizar:
+ *   1) CATEGORIAS_ACTIVIDAD (arriba en este archivo)
+ *   2) este mapeo
+ *   3) la clave en `dict.actividades.categorias` de los 6 idiomas
+ */
+export const CATEGORIA_A_URL: Record<CategoriaActividad, string> = {
+  cultural: "cultural",
+  gastronomico: "gastronomico",
+  aireLibre: "aire-libre",
+  nocturno: "nocturno",
+  excursion: "excursion",
+  familiar: "familiar",
+};
+
+const URL_A_CATEGORIA: Record<string, CategoriaActividad> = Object.fromEntries(
+  (Object.entries(CATEGORIA_A_URL) as [CategoriaActividad, string][]).map(
+    ([clave, urlSlug]) => [urlSlug, clave]
+  )
+) as Record<string, CategoriaActividad>;
+
+/** Convierte clave de categoría (frontmatter) -> slug de URL. */
+export function categoriaAUrl(categoria: CategoriaActividad): string {
+  return CATEGORIA_A_URL[categoria];
+}
+
+/**
+ * Convierte slug de URL -> clave de categoría (frontmatter).
+ * Devuelve null si el slug no corresponde a ninguna categoría conocida.
+ */
+export function categoriaDesdeUrl(
+  urlSlug: string
+): CategoriaActividad | null {
+  return URL_A_CATEGORIA[urlSlug] ?? null;
+}
+
+export type CategoriaConActividades = {
+  /** Clave camelCase del frontmatter (ej: "aireLibre"). */
+  categoria: CategoriaActividad;
+  /** Slug kebab-case usado en URLs (ej: "aire-libre"). */
+  urlSlug: string;
+  /** Número de actividades publicadas en esa categoría/ciudad. */
+  total: number;
+  /** Imagen de portada: la primera actividad de la categoría. */
+  imagenPortada: string;
+  /** Alt de la imagen de portada. */
+  imagenPortadaAlt: string;
+};
+
+/**
+ * Devuelve las categorías que tienen >=1 actividad publicada en una
+ * ciudad, con su contador e imagen de portada (la primera actividad del
+ * grupo).
+ *
+ * Ordenadas por número de actividades descendente. Las categorías sin
+ * actividades NO se devuelven (decisión de producto: nada de "(0)").
+ *
+ * Útil para construir el grid del índice de actividades de la ciudad.
+ */
+export function obtenerCategoriasConActividades(
+  idioma: Idioma,
+  ciudad: string
+): CategoriaConActividades[] {
+  const actividades = obtenerListaActividadesPorCiudad(idioma, ciudad);
+  if (actividades.length === 0) return [];
+
+  const grupos = agruparActividadesPorCategoria(actividades);
+
+  const resultado: CategoriaConActividades[] = [];
+  for (const categoria of CATEGORIAS_ACTIVIDAD) {
+    const lista = grupos[categoria];
+    if (lista.length === 0) continue;
+
+    const portada = lista[0];
+    resultado.push({
+      categoria,
+      urlSlug: CATEGORIA_A_URL[categoria],
+      total: lista.length,
+      imagenPortada: portada.imagen,
+      imagenPortadaAlt: portada.imagenAlt,
+    });
+  }
+
+  return resultado.sort((a, b) => b.total - a.total);
+}
+
+/**
+ * Devuelve las actividades de una ciudad filtradas por una categoría
+ * concreta. Devuelve array vacío si la combinación no tiene actividades.
+ *
+ * El orden se hereda de `obtenerListaActividadesPorCiudad`: destacadas
+ * primero, luego por fecha descendente.
+ */
+export function obtenerActividadesDeCiudadPorCategoria(
+  idioma: Idioma,
+  ciudad: string,
+  categoria: CategoriaActividad
+): ActividadListItem[] {
+  return obtenerListaActividadesPorCiudad(idioma, ciudad).filter(
+    (a) => a.categoria === categoria
+  );
 }

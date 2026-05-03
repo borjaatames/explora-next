@@ -90,6 +90,27 @@ export function urlActividad(
 }
 
 /**
+ * Construye la URL del listado de actividades de una ciudad filtrado por
+ * categoría. Usa el prefijo /c/ para evitar conflicto con el segmento
+ * hermano [slug] de la ficha de actividad.
+ *
+ * El parámetro `categoriaUrlSlug` es el slug en kebab-case usado en URLs
+ * (por ejemplo "aire-libre"), no la clave camelCase del frontmatter
+ * ("aireLibre"). Para convertir entre ambas formas, usar `categoriaAUrl`
+ * y `categoriaDesdeUrl` de `@/lib/actividades`.
+ *
+ * ES: /ciudades/madrid/actividades/c/cultural
+ * EN: /en/cities/madrid/activities/c/cultural
+ */
+export function urlActividadesDeCiudadPorCategoria(
+  idioma: Idioma,
+  ciudad: string,
+  categoriaUrlSlug: string
+): string {
+  return `${urlActividadesDeCiudad(idioma, ciudad)}/c/${categoriaUrlSlug}`;
+}
+
+/**
  * Resuelve el idioma desde el primer segmento de un pathname.
  * "/en/guides/..." → "en"
  * "/guias/..."     → "es"

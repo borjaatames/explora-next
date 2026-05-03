@@ -1,19 +1,18 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
+import { obtenerCiudad } from "@/lib/ciudades";
 import {
-  obtenerCiudad,
-  obtenerTodosLosCaminosCiudades,
-} from "@/lib/ciudades";
-import { obtenerListaGuias } from "@/lib/guias";
-import {
-  obtenerActividadesDestacadasPorCiudad,
-  type ActividadListItem,
+  obtenerCategoriasConActividades,
+  obtenerCiudadesConActividades,
+  type CategoriaConActividades,
 } from "@/lib/actividades";
+import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
-  urlCiudad,
+  urlActividadesDeCiudadPorCategoria,
 } from "@/lib/i18n/utils";
 
 const SITE_URL =
@@ -23,64 +22,73 @@ type Props = {
   params: { ciudad: string };
 };
 
+/**
+ * Solo generamos páginas para ciudades con al menos una actividad
+ * publicada en español. Si una ciudad no tiene actividades, no creamos
+ * la ruta (no hay nada que listar).
+ */
 export async function generateStaticParams() {
-  return obtenerTodosLosCaminosCiudades()
-    .filter((c) => c.idioma === "es")
-    .map(({ ciudad }) => ({ ciudad }));
+  return obtenerCiudadesConActividades("es").map((ciudad) => ({ ciudad }));
 }
 
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: Props): Promise<Metadata> {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
-  const url = `${SITE_URL}${ciudad.url}`;
+  const dict = getDictionary("es");
+  const titulo = dict.actividades.tituloIndiceCiudad.replace(
+    "{ciudad}",
+    ciudad.nombre
+  );
+  const descripcion = dict.actividades.descripcionIndiceCiudad.replace(
+    "{ciudad}",
+    ciudad.nombre
+  );
+  const url = `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
-    title: `${ciudad.nombre} | Guía de viaje`,
-    description: ciudad.descripcion,
-    keywords: ciudad.keywords,
+    title: titulo,
+    description: descripcion,
     robots: {
       index: allowIndexing,
       follow: allowIndexing,
     },
     alternates: {
       canonical: url,
-      languages: hreflangAlternates((l) => urlCiudad(l, params.ciudad)),
+      languages: hreflangAlternates((l) =>
+        urlActividadesDeCiudad(l, params.ciudad)
+      ),
     },
     openGraph: {
       type: "website",
       url,
-      title: `${ciudad.nombre} | ExploraSpain`,
-      description: ciudad.descripcion,
+      title: `${titulo} | ExploraSpain`,
+      description: descripcion,
       siteName: "ExploraSpain",
       locale: "es_ES",
     },
   };
 }
 
-export default async function CiudadPage({ params }: Props) {
+export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) notFound();
 
-  const guiasRelacionadas = obtenerListaGuias("es").filter(
-    (g) => g.categoria.toLowerCase() === params.ciudad.toLowerCase()
-  );
+  const categorias = obtenerCategoriasConActividades("es", params.ciudad);
+  if (categorias.length === 0) notFound();
 
-  const actividadesDestacadas = obtenerActividadesDestacadasPorCiudad(
-    "es",
-    params.ciudad,
-    3
+  const dict = getDictionary("es");
+  const tituloPagina = dict.actividades.tituloIndiceCiudad.replace(
+    "{ciudad}",
+    ciudad.nombre
   );
-
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "TouristDestination",
-    name: ciudad.nombre,
-    description: ciudad.descripcion,
-    addressCountry: "ES",
-    url: `https://exploraspain.com${ciudad.url}`,
-  };
+  const descripcionPagina = dict.actividades.descripcionIndiceCiudad.replace(
+    "{ciudad}",
+    ciudad.nombre
+  );
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
@@ -89,20 +97,20 @@ export default async function CiudadPage({ params }: Props) {
       {
         "@type": "ListItem",
         position: 1,
-        name: "Inicio",
-        item: "https://exploraspain.com",
+        name: dict.navegacion.inicio,
+        item: SITE_URL,
       },
       {
         "@type": "ListItem",
         position: 2,
-        name: "Ciudades",
-        item: "https://exploraspain.com/ciudades",
+        name: ciudad.nombre,
+        item: `${SITE_URL}${ciudad.url}`,
       },
       {
         "@type": "ListItem",
         position: 3,
-        name: ciudad.nombre,
-        item: `https://exploraspain.com${ciudad.url}`,
+        name: dict.navegacion.guias === "Guías" ? "Actividades" : "Activities",
+        item: `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}`,
       },
     ],
   };
@@ -111,159 +119,106 @@ export default async function CiudadPage({ params }: Props) {
     <main className="min-h-screen bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-      <script
-        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
-        <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
-            <Link href="/" className="hover:text-white">
-              Inicio
-            </Link>
-            {" › "}
-            <Link href="/ciudades" className="hover:text-white">
-              Ciudades
-            </Link>
-            {" › "}
-            <span className="text-white">{ciudad.nombre}</span>
+      <header className="border-b border-slate-200 bg-slate-50">
+        <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
+          <nav
+            aria-label="Migas de pan"
+            className="mb-6 text-sm text-slate-500"
+          >
+            <ol className="flex flex-wrap items-center gap-x-2">
+              <li>
+                <Link href="/" className="hover:text-slate-700">
+                  {dict.navegacion.inicio}
+                </Link>
+              </li>
+              <li aria-hidden="true">/</li>
+              <li>
+                <Link href={ciudad.url} className="hover:text-slate-700">
+                  {ciudad.nombre}
+                </Link>
+              </li>
+              <li aria-hidden="true">/</li>
+              <li className="text-slate-700">Actividades</li>
+            </ol>
           </nav>
 
-          <span className="inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-4">
-            {ciudad.comunidad}
-          </span>
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
-            {ciudad.nombre}
+          <h1 className="text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl">
+            {tituloPagina}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">
-            {ciudad.descripcion}
+          <p className="mt-4 max-w-2xl text-lg text-slate-600">
+            {descripcionPagina}
           </p>
         </div>
       </header>
 
-      <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div
-          className="prose-guia"
-          dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
-        />
-      </article>
-
-      {guiasRelacionadas.length > 0 && (
-        <section className="bg-slate-50 border-t border-slate-200">
-          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
-              Guías de {ciudad.nombre}
-            </h2>
-            <p className="text-slate-600 mb-8">
-              Profundiza en {ciudad.nombre} con nuestras rutas y comparativas.
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {guiasRelacionadas.map((guia) => (
-                <Link
-                  key={guia.url}
-                  href={guia.url}
-                  className="group block bg-white border border-slate-200 rounded-lg p-5 hover:border-sky-400 hover:shadow-md transition-all"
-                >
-                  <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
-                    {guia.titulo}
-                  </h3>
-                  <p className="text-sm text-slate-600 leading-relaxed line-clamp-3">
-                    {guia.descripcion}
-                  </p>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {actividadesDestacadas.length > 0 && (
-        <section className="bg-white border-t border-slate-200">
-          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-            <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-3 mb-8">
-              <div>
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
-                  Actividades en {ciudad.nombre}
-                </h2>
-                <p className="text-slate-600">
-                  Tours y experiencias seleccionadas con criterio editorial.
-                </p>
-              </div>
-              <Link
-                href={urlActividadesDeCiudad("es", params.ciudad)}
-                className="text-sky-600 hover:text-sky-700 font-semibold whitespace-nowrap"
-              >
-                Ver todas las actividades →
-              </Link>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {actividadesDestacadas.map((actividad) => (
-                <ActividadCardCiudad
-                  key={actividad.url}
-                  actividad={actividad}
-                />
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link
-          href="/ciudades"
-          className="text-sky-600 hover:text-sky-700 font-medium"
-        >
-          ← Ver todas las ciudades
-        </Link>
-      </div>
+      <section className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
+        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+          {categorias.map((cat) => (
+            <TarjetaCategoria
+              key={cat.categoria}
+              ciudadSlug={params.ciudad}
+              categoria={cat}
+              labelCategoria={dict.actividades.categorias[cat.categoria]}
+            />
+          ))}
+        </div>
+      </section>
     </main>
   );
 }
 
-type ActividadCardCiudadProps = { actividad: ActividadListItem };
-
-function ActividadCardCiudad({ actividad }: ActividadCardCiudadProps) {
-  const precio = new Intl.NumberFormat("es-ES", {
-    style: "currency",
-    currency: actividad.moneda,
-    maximumFractionDigits: 0,
-  }).format(actividad.precioDesde);
+function TarjetaCategoria({
+  ciudadSlug,
+  categoria,
+  labelCategoria,
+}: {
+  ciudadSlug: string;
+  categoria: CategoriaConActividades;
+  labelCategoria: string;
+}) {
+  const href = urlActividadesDeCiudadPorCategoria(
+    "es",
+    ciudadSlug,
+    categoria.urlSlug
+  );
 
   return (
     <Link
-      href={actividad.url}
-      className="group flex flex-col bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
+      href={href}
+      className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-slate-300 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
     >
-      <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
-        {actividad.imagen ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={actividad.imagen}
-            alt={actividad.imagenAlt}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-            loading="lazy"
+      {categoria.imagenPortada ? (
+        <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+          <Image
+            src={categoria.imagenPortada}
+            alt={categoria.imagenPortadaAlt}
+            fill
+            sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+            className="object-cover transition duration-300 group-hover:scale-105"
           />
-        ) : null}
-      </div>
-      <div className="flex flex-col flex-1 p-5">
-        <p className="text-xs font-medium uppercase tracking-wider text-slate-500 mb-2">
-          {actividad.duracion}
-        </p>
-        <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-sky-700 transition-colors">
-          {actividad.titulo}
-        </h3>
-        <p className="text-sm text-slate-600 leading-relaxed line-clamp-2 mb-4 flex-1">
-          {actividad.descripcion}
-        </p>
-        <div className="flex items-baseline gap-1 border-t border-slate-100 pt-3 mt-auto">
-          <span className="text-xs text-slate-500">Desde</span>
-          <span className="text-base font-semibold text-slate-900">
-            {precio}
-          </span>
         </div>
+      ) : (
+        <div className="aspect-[4/3] w-full bg-slate-100" aria-hidden="true" />
+      )}
+
+      <div className="flex flex-1 flex-col p-6">
+        <h2 className="text-xl font-semibold text-slate-900">
+          {labelCategoria}
+        </h2>
+        <p className="mt-2 text-sm text-slate-500">
+          {categoria.total === 1
+            ? "1 actividad"
+            : `${categoria.total} actividades`}
+        </p>
+        <span
+          aria-hidden="true"
+          className="mt-auto pt-6 text-sm font-medium text-sky-600 group-hover:text-sky-700"
+        >
+          Ver actividades →
+        </span>
       </div>
     </Link>
   );
