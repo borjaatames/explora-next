@@ -41,3 +41,5 @@ next-env.d.ts
 
 # Backups locales de .md (no commitear)
 .backup-md-*/
+# Backups locales pre-GA4 (no commitear)
+.backup-ga4-*/

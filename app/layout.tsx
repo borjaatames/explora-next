@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import Analytics from "@/components/Analytics";
+import CookieBanner from "@/components/CookieBanner";
 import "./globals.css";
 
 const inter = Inter({
@@ -25,6 +27,7 @@ const playfair = Playfair_Display({
 const siteUrl =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+const gaId = process.env.NEXT_PUBLIC_GA_ID;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -37,12 +40,8 @@ export const metadata: Metadata = {
   applicationName: "ExploraSpain",
   authors: [{ name: "SKYWARD PARTNERS, S.L." }],
   icons: {
-    icon: [
-      { url: "/favicon.svg", type: "image/svg+xml" },
-    ],
-    apple: [
-      { url: "/favicon.svg", type: "image/svg+xml" },
-    ],
+    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+    apple: [{ url: "/favicon.svg", type: "image/svg+xml" }],
   },
   robots: {
     index: allowIndexing,
@@ -74,6 +73,8 @@ export default function RootLayout({
         <Navbar />
         <div className="min-h-screen">{children}</div>
         <Footer />
+        <CookieBanner />
+        <Analytics gaId={gaId} />
       </body>
     </html>
   );
