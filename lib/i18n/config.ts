@@ -9,7 +9,7 @@ export const IDIOMAS_CONFIGURADOS = [
   "pt",
 ] as const;
 
-export const IDIOMAS_ACTIVOS = ["es"] as const satisfies readonly Idioma[];
+export const IDIOMAS_ACTIVOS = ["es", "en"] as const satisfies readonly Idioma[];
 
 export const IDIOMA_DEFECTO: Idioma = "es";
 

@@ -33,7 +33,9 @@ function cambiarPrefijoIdioma(pathname: string, destino: Idioma): string {
 }
 
 /**
- * Selector de idioma. Se renderiza solo si hay más de un idioma activo.
+ * Selector de idioma autoreferencial (sin banderas).
+ * Muestra cada idioma escrito en su propio idioma: "English", "Español", etc.
+ * Se renderiza solo si hay más de un idioma activo.
  */
 export default function LanguageSwitcher() {
   const pathname = usePathname() || "/";
@@ -73,10 +75,9 @@ export default function LanguageSwitcher() {
         className="flex items-center gap-1 text-slate-900 hover:text-sky-700 font-medium transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
         aria-haspopup="listbox"
         aria-expanded={abierto}
-        aria-label="Cambiar idioma"
+        aria-label="Change language"
       >
-        <span aria-hidden="true">{etiquetaActual.bandera}</span>
-        <span className="hidden md:inline">{etiquetaActual.nombre}</span>
+        <span>{etiquetaActual.nombre}</span>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
@@ -93,7 +94,7 @@ export default function LanguageSwitcher() {
       {abierto && (
         <ul
           role="listbox"
-          className="absolute right-0 mt-2 w-44 bg-white border border-slate-200 rounded-lg shadow-md py-1 z-50"
+          className="absolute right-0 mt-2 w-36 bg-white border border-slate-200 rounded-lg shadow-md py-1 z-50"
         >
           {IDIOMAS_ACTIVOS.map((lang) => {
             const etiqueta = IDIOMA_LABELS[lang];
@@ -104,14 +105,13 @@ export default function LanguageSwitcher() {
                 <Link
                   href={destino}
                   onClick={() => setAbierto(false)}
-                  className={`flex items-center gap-2 px-3 py-2 text-sm transition-colors ${
+                  className={`block px-3 py-2 text-sm transition-colors ${
                     seleccionado
                       ? "bg-amber-50 text-slate-900 font-semibold"
                       : "text-slate-700 hover:bg-slate-50"
                   }`}
                 >
-                  <span aria-hidden="true">{etiqueta.bandera}</span>
-                  <span>{etiqueta.nombre}</span>
+                  {etiqueta.nombre}
                 </Link>
               </li>
             );
