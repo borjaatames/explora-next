@@ -1,9 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
-import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
 import Analytics from "@/components/Analytics";
-import CookieBanner from "@/components/CookieBanner";
 import "./globals.css";
 
 const inter = Inter({
@@ -62,6 +59,16 @@ export const metadata: Metadata = {
   },
 };
 
+/**
+ * RootLayout global. NO monta Navbar/Footer/CookieBanner — eso lo hace
+ * cada layout segmentado:
+ *   - app/(es-shell)/layout.tsx → shell ES
+ *   - app/[lang]/layout.tsx     → shell EN
+ *
+ * El atributo `<html lang="es">` es estático porque cada subárbol que
+ * necesite otro lang lo sobrescribe con `<div lang="...">` en su layout.
+ * Esto mantiene SSG en todas las páginas (no usamos `headers()`).
+ */
 export default function RootLayout({
   children,
 }: {
@@ -70,10 +77,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`${inter.variable} ${playfair.variable}`}>
       <body className="font-inter bg-white text-slate-900 antialiased">
-        <Navbar />
-        <div className="min-h-screen">{children}</div>
-        <Footer />
-        <CookieBanner />
+        {children}
         <Analytics gaId={gaId} />
       </body>
     </html>

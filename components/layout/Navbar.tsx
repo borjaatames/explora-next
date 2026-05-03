@@ -4,15 +4,57 @@ import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
 import LanguageSwitcher from "./LanguageSwitcher";
+import {
+  urlIndiceGuias,
+  urlIndiceCiudades,
+  urlContacto,
+  prefijoIdioma,
+} from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
 
-const enlaces = [
-  { href: "/guias", label: "Guías" },
-  { href: "/ciudades", label: "Ciudades" },
-  { href: "/sobre-nosotros", label: "Sobre nosotros" },
-  { href: "/contacto", label: "Contacto" },
-];
+const DICT = {
+  es: {
+    guias: "Guías",
+    ciudades: "Ciudades",
+    sobreNosotros: "Sobre nosotros",
+    contacto: "Contacto",
+    inicio: "ExploraSpain - Inicio",
+    abrirMenu: "Abrir menú",
+    cerrarMenu: "Cerrar menú",
+  },
+  en: {
+    guias: "Guides",
+    ciudades: "Cities",
+    sobreNosotros: "About us",
+    contacto: "Contact",
+    inicio: "ExploraSpain - Home",
+    abrirMenu: "Open menu",
+    cerrarMenu: "Close menu",
+  },
+} as const;
 
-export default function Navbar() {
+function urlAbout(idioma: Idioma): string {
+  return idioma === "es" ? "/sobre-nosotros" : `/${idioma}/about`;
+}
+
+function urlHome(idioma: Idioma): string {
+  return prefijoIdioma(idioma) || "/";
+}
+
+type Props = {
+  idioma: Idioma;
+};
+
+export default function Navbar({ idioma }: Props) {
+  const t = DICT[idioma === "en" ? "en" : "es"];
+
+  const enlaces = [
+    { href: urlIndiceGuias(idioma), label: t.guias },
+    { href: urlIndiceCiudades(idioma), label: t.ciudades },
+    { href: urlAbout(idioma), label: t.sobreNosotros },
+    { href: urlContacto(idioma), label: t.contacto },
+  ];
+
   const [abierto, setAbierto] = useState(false);
 
   useEffect(() => {
@@ -38,9 +80,9 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-amber-400 border-b-4 border-sky-500 shadow-sm">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link
-          href="/"
+          href={urlHome(idioma)}
           className="flex items-center gap-3 hover:opacity-80 transition-opacity"
-          aria-label="ExploraSpain - Inicio"
+          aria-label={t.inicio}
           onClick={() => setAbierto(false)}
         >
           <Image
@@ -75,7 +117,7 @@ export default function Navbar() {
             type="button"
             onClick={() => setAbierto((v) => !v)}
             className="p-2 -mr-2 text-slate-900 hover:bg-amber-500 rounded transition-colors"
-            aria-label={abierto ? "Cerrar menú" : "Abrir menú"}
+            aria-label={abierto ? t.cerrarMenu : t.abrirMenu}
             aria-expanded={abierto}
             aria-controls="menu-movil"
           >

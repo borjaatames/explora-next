@@ -1,7 +1,58 @@
 import Link from "next/link";
 import Image from "next/image";
+import {
+  urlIndiceGuias,
+  urlIndiceCiudades,
+  urlContacto,
+  urlAvisoLegal,
+  urlPrivacidad,
+  urlCookies,
+} from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
 
-export default function Footer() {
+const DICT = {
+  es: {
+    tagline:
+      "Tours, actividades y guías editoriales para viajar por España con criterio.",
+    sectionWeb: "Web",
+    sectionLegal: "Legal",
+    guias: "Guías",
+    ciudades: "Ciudades",
+    sobreNosotros: "Sobre nosotros",
+    contacto: "Contacto",
+    avisoLegal: "Aviso legal",
+    privacidad: "Política de privacidad",
+    cookies: "Política de cookies",
+    derechos: "Todos los derechos reservados.",
+    direccion: "Calle Castelló 117, 28006 Madrid, España",
+  },
+  en: {
+    tagline:
+      "Tours, activities and editorial guides for traveling Spain with judgment.",
+    sectionWeb: "Site",
+    sectionLegal: "Legal",
+    guias: "Guides",
+    ciudades: "Cities",
+    sobreNosotros: "About us",
+    contacto: "Contact",
+    avisoLegal: "Legal notice",
+    privacidad: "Privacy policy",
+    cookies: "Cookie policy",
+    derechos: "All rights reserved.",
+    direccion: "Calle Castelló 117, 28006 Madrid, Spain",
+  },
+} as const;
+
+function urlAbout(idioma: Idioma): string {
+  return idioma === "es" ? "/sobre-nosotros" : `/${idioma}/about`;
+}
+
+type Props = {
+  idioma: Idioma;
+};
+
+export default function Footer({ idioma }: Props) {
+  const t = DICT[idioma === "en" ? "en" : "es"];
   const year = new Date().getFullYear();
 
   return (
@@ -23,41 +74,46 @@ export default function Footer() {
               </h3>
             </div>
             <p className="text-sm text-slate-400 leading-relaxed">
-              Tours, actividades y guías editoriales para viajar por España con
-              criterio.
+              {t.tagline}
             </p>
           </div>
 
           {/* Navegación */}
           <div>
             <h4 className="text-white font-semibold mb-3 text-sm uppercase tracking-wider">
-              Web
+              {t.sectionWeb}
             </h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/guias" className="hover:text-white transition-colors">
-                  Guías
-                </Link>
-              </li>
-              <li>
-                <Link href="/ciudades" className="hover:text-white transition-colors">
-                  Ciudades
+                <Link
+                  href={urlIndiceGuias(idioma)}
+                  className="hover:text-white transition-colors"
+                >
+                  {t.guias}
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/sobre-nosotros"
+                  href={urlIndiceCiudades(idioma)}
                   className="hover:text-white transition-colors"
                 >
-                  Sobre nosotros
+                  {t.ciudades}
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/contacto"
+                  href={urlAbout(idioma)}
                   className="hover:text-white transition-colors"
                 >
-                  Contacto
+                  {t.sobreNosotros}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href={urlContacto(idioma)}
+                  className="hover:text-white transition-colors"
+                >
+                  {t.contacto}
                 </Link>
               </li>
             </ul>
@@ -66,31 +122,31 @@ export default function Footer() {
           {/* Legal */}
           <div>
             <h4 className="text-white font-semibold mb-3 text-sm uppercase tracking-wider">
-              Legal
+              {t.sectionLegal}
             </h4>
             <ul className="space-y-2 text-sm">
               <li>
                 <Link
-                  href="/aviso-legal"
+                  href={urlAvisoLegal(idioma)}
                   className="hover:text-white transition-colors"
                 >
-                  Aviso legal
+                  {t.avisoLegal}
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/privacidad"
+                  href={urlPrivacidad(idioma)}
                   className="hover:text-white transition-colors"
                 >
-                  Política de privacidad
+                  {t.privacidad}
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/cookies"
+                  href={urlCookies(idioma)}
                   className="hover:text-white transition-colors"
                 >
-                  Política de cookies
+                  {t.cookies}
                 </Link>
               </li>
             </ul>
@@ -99,12 +155,9 @@ export default function Footer() {
 
         <div className="border-t border-slate-800 pt-6 text-xs text-slate-500 flex flex-col md:flex-row md:justify-between gap-2">
           <p>
-            © {year} SKYWARD PARTNERS, S.L. — NIF B26629576. Todos los derechos
-            reservados.
+            © {year} SKYWARD PARTNERS, S.L. — NIF B26629576. {t.derechos}
           </p>
-          <p>
-            Calle Castelló 117, 28006 Madrid, España
-          </p>
+          <p>{t.direccion}</p>
         </div>
       </div>
     </footer>

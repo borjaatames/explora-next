@@ -7,6 +7,35 @@ import {
   guardarConsentimiento,
   COOKIE_CONSENT_EVENT,
 } from "@/lib/cookies";
+import { urlCookies, urlPrivacidad } from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
+
+const DICT = {
+  es: {
+    titulo: "Usamos cookies para entender cómo se usa el sitio",
+    texto:
+      "Analítica con Google Analytics 4. No vendemos tus datos. Más información en",
+    politicaCookies: "Política de cookies",
+    politicaPrivacidad: "Privacidad",
+    y: "y",
+    rechazar: "Rechazar",
+    aceptar: "Aceptar",
+  },
+  en: {
+    titulo: "We use cookies to understand how the site is used",
+    texto:
+      "Analytics with Google Analytics 4. We don't sell your data. More information in",
+    politicaCookies: "Cookie policy",
+    politicaPrivacidad: "Privacy",
+    y: "and",
+    rechazar: "Reject",
+    aceptar: "Accept",
+  },
+} as const;
+
+type Props = {
+  idioma: Idioma;
+};
 
 /**
  * Banner inferior de consentimiento de cookies. Aparece solo si el
@@ -20,7 +49,9 @@ import {
  *   - Los enlaces a la política de cookies y privacidad son visibles.
  *   - GA4 NO carga hasta que se pulsa "Aceptar" (lo gestiona Analytics.tsx).
  */
-export default function CookieBanner() {
+export default function CookieBanner({ idioma }: Props) {
+  const t = DICT[idioma === "en" ? "en" : "es"];
+
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
@@ -67,26 +98,25 @@ export default function CookieBanner() {
             id="cookie-banner-titulo"
             className="text-sm font-semibold text-slate-900"
           >
-            Usamos cookies para entender cómo se usa el sitio
+            {t.titulo}
           </p>
           <p
             id="cookie-banner-texto"
             className="mt-1 text-sm text-slate-600"
           >
-            Analítica con Google Analytics 4. No vendemos tus datos. Más
-            información en{" "}
+            {t.texto}{" "}
             <Link
-              href="/cookies"
+              href={urlCookies(idioma)}
               className="underline hover:text-slate-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded-sm"
             >
-              Política de cookies
+              {t.politicaCookies}
             </Link>{" "}
-            y{" "}
+            {t.y}{" "}
             <Link
-              href="/privacidad"
+              href={urlPrivacidad(idioma)}
               className="underline hover:text-slate-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded-sm"
             >
-              Privacidad
+              {t.politicaPrivacidad}
             </Link>
             .
           </p>
@@ -98,14 +128,14 @@ export default function CookieBanner() {
             onClick={rechazar}
             className="flex-1 lg:flex-none rounded-md border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition-colors hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
           >
-            Rechazar
+            {t.rechazar}
           </button>
           <button
             type="button"
             onClick={aceptar}
             className="flex-1 lg:flex-none rounded-md bg-slate-900 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-slate-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
           >
-            Aceptar
+            {t.aceptar}
           </button>
         </div>
       </div>
