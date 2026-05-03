@@ -1,4 +1,4 @@
----
+﻿---
 nombre: "Madrid"
 slug: "madrid"
 descripcion: "Spain's capital and the heart of European classical art. Essential for understanding the country."
@@ -32,7 +32,7 @@ In return it offers three things few European capitals manage all at once: the b
 ## How many days you'll really need
 
 - **2 days**: tight. Only enough for the Prado plus the historic center. You'll leave feeling you missed it.
-- **3 days**: the sweet spot. It's what we recommend in our 3-day Madrid guide. Enough for the Prado, El Escorial, and the Madrid that locals actually live in.
+- **3 days**: the sweet spot. It's what we recommend in our [3-day Madrid guide](/en/guides/madrid/madrid-in-3-days). Enough for the Prado, El Escorial, and the Madrid that locals actually live in.
 - **4–5 days**: comfortable. You can add Toledo or Segovia as a day trip.
 - **More than 5**: only if you're combining with side trips (Toledo, Segovia, Aranjuez) or traveling at a slow pace. Central Madrid doesn't need more than four days.
 
