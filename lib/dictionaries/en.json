@@ -1,87 +1,87 @@
 {
   "meta": {
     "sitioNombre": "ExploraSpain",
-    "sitioDescripcion": "Guías honestas y prácticas para viajar por España"
+    "sitioDescripcion": "Honest, no-fluff travel guides to Spain"
   },
   "navegacion": {
-    "inicio": "Inicio",
-    "guias": "Guías",
-    "ciudades": "Ciudades",
-    "sobreNosotros": "Sobre nosotros",
-    "contacto": "Contacto",
-    "abrirMenu": "Abrir menú",
-    "cerrarMenu": "Cerrar menú",
-    "cambiarIdioma": "Cambiar idioma"
+    "inicio": "Home",
+    "guias": "Guides",
+    "ciudades": "Cities",
+    "sobreNosotros": "About",
+    "contacto": "Contact",
+    "abrirMenu": "Open menu",
+    "cerrarMenu": "Close menu",
+    "cambiarIdioma": "Change language"
   },
   "home": {
-    "heroTitulo": "Guías honestas para viajar por España",
-    "heroSubtitulo": "Sin frases huecas, con datos prácticos y criterio.",
-    "ctaExplorar": "Explorar guías",
-    "seccionGuiasDestacadas": "Guías destacadas",
-    "seccionCiudades": "Ciudades",
-    "verTodas": "Ver todas"
+    "heroTitulo": "Honest travel guides to Spain",
+    "heroSubtitulo": "No fluff. Real opinions. Practical info you can actually use.",
+    "ctaExplorar": "Explore guides",
+    "seccionGuiasDestacadas": "Featured guides",
+    "seccionCiudades": "Cities",
+    "verTodas": "View all"
   },
   "guias": {
-    "tituloIndice": "Guías",
-    "descripcionIndice": "Itinerarios y consejos prácticos para viajar por España con criterio.",
-    "minutosLectura": "min de lectura",
-    "publicadoEl": "Publicado el",
-    "autorPor": "Por",
-    "relacionadas": "Otras guías que pueden interesarte",
-    "volverAGuias": "Volver a guías"
+    "tituloIndice": "Guides",
+    "descripcionIndice": "Itineraries and practical advice for traveling Spain with confidence.",
+    "minutosLectura": "min read",
+    "publicadoEl": "Published",
+    "autorPor": "By",
+    "relacionadas": "You might also like",
+    "volverAGuias": "Back to guides"
   },
   "ciudades": {
-    "tituloIndice": "Ciudades",
-    "descripcionIndice": "Las ciudades imprescindibles de España, con guías propias.",
-    "verCiudad": "Ver ciudad",
-    "guiasDeCiudad": "Guías de esta ciudad",
-    "volverACiudades": "Volver a ciudades"
+    "tituloIndice": "Cities",
+    "descripcionIndice": "Spain's must-visit cities, each with its own dedicated guides.",
+    "verCiudad": "Explore city",
+    "guiasDeCiudad": "Guides for this city",
+    "volverACiudades": "Back to cities"
   },
   "actividades": {
-    "tituloIndiceCiudad": "Actividades en {ciudad}",
-    "descripcionIndiceCiudad": "Selección honesta de tours y experiencias. Sin postureo, con criterio editorial.",
-    "verActividad": "Ver actividad",
-    "actividadesEnCiudad": "Actividades en esta ciudad",
-    "desde": "Desde",
-    "porPersona": "por persona",
-    "duracion": "Duración",
-    "idiomas": "Idiomas",
-    "cancelacionGratuita": "Cancelación gratuita",
-    "cancelacionHorasAntes": "Cancela hasta {horas}h antes",
-    "sinColas": "Acceso sin colas",
-    "reservar": "Reservar",
-    "viaProveedor": "vía",
-    "highlights": "Lo más destacado",
-    "nuestraOpinion": "Nuestra opinión",
-    "queIncluye": "Qué incluye",
-    "queNoIncluye": "Qué no incluye",
-    "puntoEncuentro": "Punto de encuentro",
-    "laExperiencia": "La experiencia",
-    "guiasRelacionadas": "Lee también en nuestras guías",
-    "alternativas": "Alternativas que te pueden encajar",
-    "avisoAfiliacion": "Si reservas a través de esta página, recibimos una pequeña comisión sin coste extra para ti. Solo recomendamos lo que creemos que merece la pena.",
-    "valoracion": "Valoración",
-    "opiniones": "opiniones",
+    "tituloIndiceCiudad": "Things to do in {ciudad}",
+    "descripcionIndiceCiudad": "A handpicked selection of tours and experiences. No filler — only what we'd actually recommend.",
+    "verActividad": "View activity",
+    "actividadesEnCiudad": "Things to do in this city",
+    "desde": "From",
+    "porPersona": "per person",
+    "duracion": "Duration",
+    "idiomas": "Languages",
+    "cancelacionGratuita": "Free cancellation",
+    "cancelacionHorasAntes": "Free cancellation up to {horas}h before",
+    "sinColas": "Skip-the-line access",
+    "reservar": "Book now",
+    "viaProveedor": "via",
+    "highlights": "Highlights",
+    "nuestraOpinion": "Our take",
+    "queIncluye": "What's included",
+    "queNoIncluye": "Not included",
+    "puntoEncuentro": "Meeting point",
+    "laExperiencia": "The experience",
+    "guiasRelacionadas": "Related reading on our guides",
+    "alternativas": "You might also consider",
+    "avisoAfiliacion": "If you book through this page, we earn a small commission at no extra cost to you. We only recommend what we genuinely believe is worth it.",
+    "valoracion": "Rating",
+    "opiniones": "reviews",
     "categorias": {
-      "cultural": "Cultural",
-      "gastronomico": "Gastronomía",
-      "aireLibre": "Aire libre",
-      "nocturno": "Vida nocturna",
-      "excursion": "Excursión",
-      "familiar": "En familia"
+      "cultural": "Culture",
+      "gastronomico": "Food & drink",
+      "aireLibre": "Outdoors",
+      "nocturno": "Nightlife",
+      "excursion": "Day trips",
+      "familiar": "Family-friendly"
     },
-    "faqEnCiudad": "Preguntas frecuentes sobre actividades en {ciudad}"
+    "faqEnCiudad": "Frequently asked questions about things to do in {ciudad}"
   },
   "footer": {
-    "derechos": "Todos los derechos reservados",
-    "avisoLegal": "Aviso legal",
-    "privacidad": "Privacidad",
+    "derechos": "All rights reserved",
+    "avisoLegal": "Legal notice",
+    "privacidad": "Privacy",
     "cookies": "Cookies",
-    "operadoPor": "Operado por SKYWARD PARTNERS, S.L."
+    "operadoPor": "Operated by SKYWARD PARTNERS, S.L."
   },
   "comun": {
-    "cargando": "Cargando…",
-    "error": "Algo ha ido mal",
-    "leerMas": "Leer más"
+    "cargando": "Loading…",
+    "error": "Something went wrong",
+    "leerMas": "Read more"
   }
 }
