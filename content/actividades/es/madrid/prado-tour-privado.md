@@ -59,28 +59,37 @@ accesibilidad: "El museo es totalmente accesible en silla de ruedas. Préstamo g
 politicaCancelacion: "Cancela gratis hasta 24 horas antes de la actividad y recibirás el reembolso completo. Si cancelas con menos de 24 horas, llegas tarde o no te presentas, no se ofrecerá reembolso."
 
 preguntasFrecuentes:
-  - pregunta: "¿Merece la pena el privado frente al de grupo reducido?"
-    respuesta: "Si vais 3 o más personas, el coste por cabeza del privado se acerca al del grupo reducido y ganáis flexibilidad total: empezar a la hora que queráis, parar más en lo que os interese, hacer preguntas sin sentir que retrasáis al grupo. Si vais 1 o 2 personas, sale más a cuenta el grupo reducido (máximo 7) salvo que valoréis mucho la privacidad o el guía en español."
+  - pregunta: "¿Merece la pena el privado frente al tour de grupo?"
+    respuesta: "Si vais 3 o más personas, el coste por cabeza del privado se acerca al del grupo estándar y ganáis flexibilidad total: empezar a la hora que queráis, parar más en lo que os interese, hacer preguntas sin sentir que retrasáis al grupo. Si vais 1 o 2 personas y no os importa compartir grupo, sale más a cuenta el tour estándar de 39 €."
   - pregunta: "¿Puedo personalizar el recorrido?"
     respuesta: "Sí. En las observaciones de la reserva puedes indicar qué pintores o épocas te interesan más (Goya, El Greco, pintura italiana, primitivos flamencos…). El guía adaptará el recorrido en lo posible dentro de las dos horas."
   - pregunta: "¿La recogida en hotel está incluida en cualquier hotel de Madrid?"
     respuesta: "Sí, en hoteles del centro de Madrid. El traslado se hace en taxi y está incluido en el precio. Si tu alojamiento está fuera del centro, te conviene confirmar con el operador antes de reservar."
 
-variantes: ["tour-prado", "prado-grupo-reducido", "prado-palacio-real", "prado-botin"]
+variantes: ["tour-prado", "prado-palacio-real"]
 
 opinionEditorial: |
   La opción acertada si vais 3 o más personas, si tenéis poco tiempo
-  en Madrid, o si preferís un guía en español. El precio total puede
-  asustar al principio (125 €/persona), pero dividido entre 3-4 viajeros
-  baja a niveles parecidos al grupo reducido. La gran ventaja: el guía
-  se adapta a vuestro ritmo, intereses y preguntas, y la recogida en
-  hotel ahorra tiempo y dudas con el transporte.
+  en Madrid, o si preferís un guía dedicado solo a vosotros. El precio
+  total puede asustar al principio (125 €/persona), pero dividido entre
+  3-4 viajeros baja a niveles parecidos al tour estándar. La gran
+  ventaja: el guía se adapta a vuestro ritmo, intereses y preguntas, y
+  la recogida en hotel ahorra tiempo y dudas con el transporte.
 
 categoria: "cultural"
 keywords: ["tour privado prado", "guia privado madrid prado", "visita privada museo", "prado privado español"]
 
-imagen: "https://images.unsplash.com/photo-1577720580479-7d839d829c73?w=1200&h=900&fit=crop"
-imagenAlt: "Fachada del Museo del Prado en Madrid"
+imagen: "/images/actividades/madrid/prado/estatua-velazquez.webp"
+imagenAlt: "Estatua de Velázquez frente al Museo del Prado"
+galeria:
+  - src: "/images/actividades/madrid/prado/fachada-principal.webp"
+    alt: "Fachada principal del Museo del Prado en Madrid"
+  - src: "/images/actividades/madrid/prado/fachada-tarde.webp"
+    alt: "Fachada del Museo del Prado con luz de tarde"
+  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
+    alt: "Galería interior de un museo de arte clásico con visitantes"
+  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
+    alt: "Visitante contemplando una obra de arte en una galería"
 
 ratingProveedor: 4.7
 numeroOpiniones: 91
@@ -92,48 +101,27 @@ fecha: "2026-05-02"
 
 ## Qué vas a ver
 
-Tour de **dos horas dentro del Prado** con un guía dedicado solo a tu
-grupo. Antes del museo, el guía te recoge en tu hotel y os trasladáis
-al Prado en taxi (incluido). La selección de obras se ajusta al tiempo
-disponible y a tus intereses.
+Tour de **dos horas dentro del Prado** con un guía dedicado solo a tu grupo. Antes del museo, el guía te recoge en tu hotel y os trasladáis al Prado en taxi (incluido). La selección de obras se ajusta al tiempo disponible y a tus intereses.
 
-- **Pintura española del Siglo de Oro:** *Las Meninas* de Velázquez,
-  retratos de la corte y *Las Tres Gracias* de Rubens.
-- **Goya:** desde los cartones para tapices hasta las **Pinturas Negras**
-  de la Quinta del Sordo.
-- **Pintura flamenca y europea:** *El jardín de las delicias* de El Bosco,
-  obras de Tiziano, El Greco y Rembrandt.
+- **Pintura española del Siglo de Oro:** *Las Meninas* de Velázquez, retratos de la corte y *Las Tres Gracias* de Rubens.
+- **Goya:** desde los cartones para tapices hasta las **Pinturas Negras** de la Quinta del Sordo.
+- **Pintura flamenca y europea:** *El jardín de las delicias* de El Bosco, obras de Tiziano, El Greco y Rembrandt.
 
-Si tienes preferencias —digamos, te interesa especialmente Goya o quieres
-ver toda la pintura italiana— díselo al guía al empezar. Adaptará el
-itinerario.
+Si tienes preferencias —digamos, te interesa especialmente Goya o quieres ver toda la pintura italiana— díselo al guía al empezar. Adaptará el itinerario.
 
 ## Cómo funciona
 
-Recibes un email de confirmación inmediato con los datos del operador
-(Madrid Discovery). El guía te espera en el **lobby de tu hotel** a la
-hora acordada y te identifica por tu nombre. Os trasladáis al Prado en
-taxi y entráis por la **taquilla preferente**, sin cola.
+Recibes un email de confirmación inmediato con los datos del operador (Madrid Discovery). El guía te espera en el **lobby de tu hotel** a la hora acordada y te identifica por tu nombre. Os trasladáis al Prado en taxi y entráis por la **taquilla preferente**, sin cola.
 
-Después de las dos horas guiadas, el guía os deja en el museo y tenéis
-**acceso libre** para seguir explorando a vuestro ritmo el tiempo que
-queráis hasta el cierre.
+Después de las dos horas guiadas, el guía os deja en el museo y tenéis **acceso libre** para seguir explorando a vuestro ritmo el tiempo que queráis hasta el cierre.
 
 ## A quién se lo recomiendo
 
-- Si vais **3 o más personas**: el coste por cabeza se acerca al
-  grupo reducido pero ganáis flexibilidad y guía en español.
-- Si tenéis **poco tiempo en Madrid** y queréis aprovechar al máximo:
-  empezáis a la hora que queráis, sin esperar al horario fijo del grupo.
-- Si vais con **alguien con interés específico** en una escuela o
-  pintor: el guía puede priorizar lo que importa.
-- Si vais con **niños** y os preocupa que se aburran en un grupo grande.
+- Si vais **3 o más personas**: el coste por cabeza se acerca al tour estándar pero ganáis flexibilidad y guía dedicado.
+- Si tenéis **poco tiempo en Madrid** y queréis aprovechar al máximo: empezáis a la hora que queráis, sin esperar al horario fijo del grupo.
+- Si vais con **alguien con interés específico** en una escuela o pintor: el guía puede priorizar lo que importa.
 
 ## A quién NO se lo recomiendo
 
-- Si vais **1 o 2 personas y no os importa compartir grupo**: el
-  grupo reducido (máximo 7 personas) sale más a cuenta y la
-  experiencia es muy similar.
-- Si **no es vuestra primera vez** en el Prado y solo queréis ver dos o
-  tres cosas concretas: por menos dinero compráis la entrada sin colas
-  (15 €) y vais directos.
+- Si vais **1 o 2 personas y no os importa compartir grupo**: el tour estándar de 39 € sale más a cuenta y la experiencia es muy similar.
+- Si **no es vuestra primera vez** en el Prado y solo queréis ver dos o tres cosas concretas: por menos dinero compráis la entrada sin colas (15 €) y vais directos.

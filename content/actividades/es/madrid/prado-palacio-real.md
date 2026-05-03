@@ -69,7 +69,7 @@ preguntasFrecuentes:
   - pregunta: "¿Cuánto tiempo se dedica a cada monumento?"
     respuesta: "Aproximadamente 1h 30min en el Palacio Real, paseo guiado de unos 30-40 minutos por el centro (Puerta del Sol, Plaza Mayor, Casa de Cervantes, Congreso), y 1h 30min en el Prado. El resto es caminata y traslados."
 
-variantes: ["tour-prado", "prado-grupo-reducido", "prado-tour-privado", "prado-botin"]
+variantes: ["tour-prado", "prado-tour-privado"]
 
 opinionEditorial: |
   La opción acertada si solo tienes un día en Madrid y quieres ver lo
@@ -83,8 +83,17 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["palacio real prado tour", "madrid imprescindibles guiado", "tour combinado madrid", "palacio prado entrada sin colas"]
 
-imagen: "https://images.unsplash.com/photo-1577720580479-7d839d829c73?w=1200&h=900&fit=crop"
-imagenAlt: "Fachada del Museo del Prado en Madrid"
+imagen: "/images/actividades/madrid/prado/fachada-tarde.webp"
+imagenAlt: "Fachada del Museo del Prado con luz de tarde"
+galeria:
+  - src: "/images/actividades/madrid/prado/fachada-principal.webp"
+    alt: "Fachada principal del Museo del Prado en Madrid"
+  - src: "/images/actividades/madrid/prado/estatua-velazquez.webp"
+    alt: "Estatua de Velázquez frente al Museo del Prado"
+  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
+    alt: "Galería interior de un museo de arte clásico con visitantes"
+  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
+    alt: "Visitante contemplando una obra de arte en una galería"
 
 ratingProveedor: 4.5
 numeroOpiniones: 1405
@@ -96,47 +105,28 @@ fecha: "2026-05-02"
 
 ## Qué vas a ver
 
-Tour de **5 horas** que cubre los dos monumentos imprescindibles de
-Madrid en medio día, con el mismo guía y entradas sin colas para los
-dos. El recorrido sigue este orden:
+Tour de **5 horas** que cubre los dos monumentos imprescindibles de Madrid en medio día, con el mismo guía y entradas sin colas para los dos. El recorrido sigue este orden:
 
-1. **Palacio Real de Madrid** (~1h 30min): salones reales, salón del
-   trono, escalera principal, capilla. Sigue siendo residencia oficial
-   de la Corona, aunque la familia real no vive aquí actualmente.
-2. **Paseo guiado por el centro histórico** (~30-40 min): Puerta del
-   Sol, Plaza Mayor, Casa de Cervantes, Congreso de los Diputados.
-3. **Museo del Prado** (~1h 30min): obras maestras de Velázquez, Goya,
-   El Bosco, Rubens y otros maestros europeos.
+1. **Palacio Real de Madrid** (~1h 30min): salones reales, salón del trono, escalera principal, capilla. Sigue siendo residencia oficial de la Corona, aunque la familia real no vive aquí actualmente.
+2. **Paseo guiado por el centro histórico** (~30-40 min): Puerta del Sol, Plaza Mayor, Casa de Cervantes, Congreso de los Diputados.
+3. **Museo del Prado** (~1h 30min): obras maestras de Velázquez, Goya, El Bosco, Rubens y otros maestros europeos.
 
 ## Cómo funciona
 
-El equipo de Naturanda te recibe en su oficina de **Plaza de España 9**
-a las 9:30. El recorrido empieza puntual: si llegas tarde, el grupo ya
-ha entrado al Palacio Real y no podrás incorporarte.
+El equipo de Naturanda te recibe en su oficina de **Plaza de España 9** a las 9:30. El recorrido empieza puntual: si llegas tarde, el grupo ya ha entrado al Palacio Real y no podrás incorporarte.
 
-Tras la visita al Palacio, el guía os lleva andando por el centro hasta
-el Prado, parando en los hitos del recorrido. La caminata total es de
-unos **1,5 km**.
+Tras la visita al Palacio, el guía os lleva andando por el centro hasta el Prado, parando en los hitos del recorrido. La caminata total es de unos **1,5 km**.
 
-En el Prado entráis por la taquilla preferente, sin cola, y el guía os
-lleva por las salas principales durante una hora y media. El tour
-termina en el Prado: tienes acceso libre para seguir explorando a tu
-ritmo.
+En el Prado entráis por la taquilla preferente, sin cola, y el guía os lleva por las salas principales durante una hora y media. El tour termina en el Prado: tienes acceso libre para seguir explorando a tu ritmo.
 
 ## A quién se lo recomiendo
 
-- Si solo tienes **un día en Madrid** y no te quieres complicar: ves
-  lo imprescindible con un solo guía.
-- Si quieres **rentabilizar las entradas sin colas**: en temporada alta,
-  ahorras 1-2 horas de cola entre los dos monumentos.
-- Si te gusta **caminar por la ciudad** y descubrir los hitos del centro
-  histórico de paso.
+- Si solo tienes **un día en Madrid** y no te quieres complicar: ves lo imprescindible con un solo guía.
+- Si quieres **eficiencia logística**: dos entradas sin colas y un único punto de contacto.
+- Si **no te asusta caminar** 5 horas con paradas cortas.
 
 ## A quién NO se lo recomiendo
 
-- Si tienes **2-3 días en Madrid**: separa Palacio Real y Prado, te lo
-  disfrutarás más con calma.
-- Si vas con **niños pequeños o personas con problemas de movilidad**:
-  son 5 horas con caminata y dos visitas largas seguidas.
-- Si quieres una **visita en grupo reducido**: este tour puede llegar a
-  30 personas, busca el privado o el grupo de 7 personas máx.
+- Si tienes **2-3 días en Madrid**: mejor separar Palacio Real y Prado en visitas distintas, con tiempo para disfrutar cada uno.
+- Si vas con **niños pequeños** o personas con movilidad reducida: el ritmo y la caminata son exigentes.
+- Si quieres una **visita en profundidad** del Prado: 1h 30min al final del día, ya cansado, no es lo ideal. Para eso, mejor el tour del Prado dedicado.

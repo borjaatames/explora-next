@@ -38,3 +38,6 @@ next-env.d.ts
 
 # Scripts PowerShell de utilidad local (no se versionan)
 *.ps1
+
+# Backups locales de .md (no commitear)
+.backup-md-*/
