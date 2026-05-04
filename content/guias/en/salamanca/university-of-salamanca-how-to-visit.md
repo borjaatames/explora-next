@@ -16,6 +16,9 @@ keywords:
   - "university of salamanca tickets"
   - "plateresque façade salamanca"
   - "salamanca frog university"
+slugs:
+  es: universidad-de-salamanca-como-visitar
+  en: university-of-salamanca-how-to-visit
 ---
 
 The University of Salamanca is **the oldest university in Spain** (founded in 1218) and one of the four oldest in the world, alongside Bologna, Oxford and Paris. But beyond the headline, what makes it special is something few monuments can offer: when you enter the historic classrooms, **you literally sit where Fray Luis de León, Cervantes, Nebrija, Unamuno once sat**. Fray Luis's classroom is preserved as it was, with wooden benches carved with knives by students centuries ago.

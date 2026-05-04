@@ -4,6 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
+import type { Idioma } from "@/lib/i18n/types";
 
 export type ImagenGaleria = {
   src: string;
@@ -11,6 +12,7 @@ export type ImagenGaleria = {
 };
 
 type Props = {
+  idioma: Idioma;
   /** Imagen principal (la grande de la izquierda en desktop). */
   principal: ImagenGaleria;
   /** Resto de imágenes (van en el grid 2x2 a la derecha). */
@@ -18,6 +20,39 @@ type Props = {
   /** Si true, muestra el sello "Recomendado por la redacción" en la esquina. */
   destacada?: boolean;
 };
+
+type Strings = {
+  selloLargo: string;
+  selloCorto: string;
+  selloAriaLabel: string;
+  abrirGaleriaEn: (alt: string) => string;
+  verFotosRestantes: (n: number) => string;
+  fotos: (n: number) => string;
+};
+
+const DICT: Record<"es" | "en", Strings> = {
+  es: {
+    selloLargo: "Recomendado por la redacción",
+    selloCorto: "Recomendado",
+    selloAriaLabel: "Recomendado por la redacción",
+    abrirGaleriaEn: (alt: string) => `Abrir galería en ${alt}`,
+    verFotosRestantes: (n: number) => `Ver las ${n} fotos restantes`,
+    fotos: (n: number) => `+${n} fotos`,
+  },
+  en: {
+    selloLargo: "Editor's pick",
+    selloCorto: "Editor's pick",
+    selloAriaLabel: "Editor's pick",
+    abrirGaleriaEn: (alt: string) => `Open gallery at ${alt}`,
+    verFotosRestantes: (n: number) => `See the remaining ${n} photos`,
+    fotos: (n: number) => `+${n} photos`,
+  },
+};
+
+function dictFor(idioma: Idioma): Strings {
+  if (idioma === "es") return DICT.es;
+  return DICT.en;
+}
 
 /**
  * Galería de imágenes tipo Civitatis/GetYourGuide.
@@ -38,10 +73,12 @@ type Props = {
  * editorial en la esquina superior izquierda de la imagen principal.
  */
 export default function GaleriaActividad({
+  idioma,
   principal,
   galeria = [],
   destacada = false,
 }: Props) {
+  const t = dictFor(idioma);
   const [abierto, setAbierto] = useState(false);
   const [indiceInicial, setIndiceInicial] = useState(0);
 
@@ -68,7 +105,7 @@ export default function GaleriaActividad({
             type="button"
             onClick={() => abrirEn(0)}
             className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
-            aria-label={`Abrir galería en ${principal.alt}`}
+            aria-label={t.abrirGaleriaEn(principal.alt)}
           >
             <Image
               src={principal.src}
@@ -84,15 +121,13 @@ export default function GaleriaActividad({
           {destacada && (
             <div
               className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-slate-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-lg pointer-events-none select-none"
-              aria-label="Recomendado por la redacción"
+              aria-label={t.selloAriaLabel}
             >
               <span aria-hidden="true" className="text-amber-400 text-base leading-none">
                 ★
               </span>
-              <span className="hidden sm:inline">
-                Recomendado por la redacción
-              </span>
-              <span className="sm:hidden">Recomendado</span>
+              <span className="hidden sm:inline">{t.selloLargo}</span>
+              <span className="sm:hidden">{t.selloCorto}</span>
             </div>
           )}
         </div>
@@ -113,8 +148,8 @@ export default function GaleriaActividad({
                   className="relative aspect-square bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 flex-shrink-0 w-2/3 md:w-auto snap-center md:snap-align-none"
                   aria-label={
                     esUltimaConRestantes
-                      ? `Ver las ${restantes + 1} fotos restantes`
-                      : `Abrir galería en ${img.alt}`
+                      ? t.verFotosRestantes(restantes + 1)
+                      : t.abrirGaleriaEn(img.alt)
                   }
                 >
                   <Image
@@ -127,7 +162,7 @@ export default function GaleriaActividad({
                   {esUltimaConRestantes && (
                     <div className="absolute inset-0 bg-black/55 flex items-center justify-center z-10">
                       <span className="text-white font-semibold text-base md:text-lg">
-                        +{restantes + 1} fotos
+                        {t.fotos(restantes + 1)}
                       </span>
                     </div>
                   )}

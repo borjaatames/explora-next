@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Universidad de Salamanca: cómo visitarla y qué no perderse"
 descripcion: "Cómo visitar la Universidad de Salamanca: precios, horarios, qué ver dentro, la rana de la fachada, el aula de Fray Luis y errores típicos del visitante."
 categoria: "salamanca"
@@ -17,6 +17,9 @@ keywords:
   - "entradas universidad salamanca"
   - "fachada plateresca salamanca"
   - "rana universidad salamanca"
+slugs:
+  es: universidad-de-salamanca-como-visitar
+  en: university-of-salamanca-how-to-visit
 ---
 
 La Universidad de Salamanca es **la universidad más antigua de España** (fundada en 1218) y una de las cuatro más antiguas del mundo, junto con Bolonia, Oxford y París. Pero más allá del titular, lo que la hace especial es algo que pocos monumentos pueden ofrecer: cuando entras a las aulas históricas, **te sientas literalmente donde se sentaron Fray Luis de León, Cervantes, Nebrija, Unamuno**. El aula de Fray Luis se conserva tal cual, con los bancos de madera tallados a navaja por estudiantes de hace siglos.

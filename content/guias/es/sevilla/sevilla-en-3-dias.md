@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Sevilla en 3 días: ruta con criterio para vivirla, no solo verla"
 descripcion: "Guía honesta de 3 días en Sevilla: Alcázar, Catedral, Triana y casco antiguo con criterio. Qué visitar, qué saltarse, dónde dormir y errores típicos."
 categoria: "sevilla"
@@ -17,6 +17,9 @@ keywords:
   - "guía de sevilla"
   - "sevilla turismo"
   - "ruta sevilla 3 días"
+slugs:
+  es: sevilla-en-3-dias
+  en: seville-in-3-days
 ---
 
 Sevilla no es una ciudad para verla: es una ciudad para **vivirla**. La luz al atardecer sobre la Giralda, los azulejos de la Plaza de España, el río al cruzar el puente de Triana, la sombra de los naranjos en el casco antiguo, los azulejos en cada pared. Tres días son suficientes para empaparse de la esencia, **siempre que sepas qué priorizar y qué saltarte**.

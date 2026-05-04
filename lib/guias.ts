@@ -22,10 +22,15 @@ export type GuiaFrontmatter = {
   imagen?: string;
   imagen_portada?: string;
   imagen_alt?: string;
-  tiempo_lectura?: number;
   publicada: boolean;
   destacada?: boolean;
   keywords?: string[];
+
+  /**
+   * Mapa de slugs por idioma para esta guía. Ver `slugs` en
+   * `ActividadFrontmatter` para el patrón completo.
+   */
+  slugs?: Partial<Record<Idioma, string>>;
 };
 
 export type GuiaListItem = GuiaFrontmatter & {
@@ -82,12 +87,12 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
         imagen: fm.imagen,
         imagen_portada: fm.imagen_portada,
         imagen_alt: fm.imagen_alt,
-        tiempo_lectura: fm.tiempo_lectura,
         publicada: true,
         destacada: fm.destacada || false,
         keywords: fm.keywords || [],
+        slugs: fm.slugs,
         idioma,
-        tiempoLectura: fm.tiempo_lectura ?? calcularTiempoLectura(content),
+        tiempoLectura: calcularTiempoLectura(content),
         url: urlGuia(idioma, categoria, slug),
       });
     }
@@ -130,12 +135,12 @@ export async function obtenerGuia(
     imagen: fm.imagen,
     imagen_portada: fm.imagen_portada,
     imagen_alt: fm.imagen_alt,
-    tiempo_lectura: fm.tiempo_lectura,
     publicada: true,
     destacada: fm.destacada || false,
     keywords: fm.keywords || [],
+    slugs: fm.slugs,
     idioma,
-    tiempoLectura: fm.tiempo_lectura ?? calcularTiempoLectura(content),
+    tiempoLectura: calcularTiempoLectura(content),
     url: urlGuia(idioma, categoria, slug),
     contenidoHtml: procesado.toString(),
   };
@@ -188,4 +193,18 @@ export function obtenerTodosLosCaminos(): {
 function calcularTiempoLectura(texto: string): number {
   const palabras = texto.trim().split(/\s+/).length;
   return Math.max(1, Math.round(palabras / 200));
+}
+
+
+/**
+ * Comprueba si existe el archivo `.md` de una guía en el idioma dado.
+ * Ver `existeActividad` en `lib/actividades.ts` para el mismo patrón.
+ */
+export function existeGuia(
+  idioma: Idioma,
+  categoria: string,
+  slug: string
+): boolean {
+  const fullPath = path.join(directorioIdioma(idioma), categoria, `${slug}.md`);
+  return fs.existsSync(fullPath);
 }

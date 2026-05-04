@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Barcelona en 3 días: ruta con criterio para verla bien"
 descripcion: "3 días en Barcelona sin perderse en multitudes: Sagrada Familia, Gràcia, Montjuïc, Park Güell. Lo que sí, lo que se salta y dónde dormir."
 categoria: "barcelona"
@@ -18,6 +18,9 @@ keywords:
   - "sagrada familia"
   - "park güell"
   - "barrios barcelona"
+slugs:
+  es: barcelona-en-3-dias
+  en: barcelona-in-3-days
 ---
 
 Barcelona es la ciudad española con más turismo del año y la prueba más clara de que el turismo masivo puede llegar a estropear lo que viene a ver. Esto no es fatalismo: es contexto. Si vas a Barcelona y haces lo que hacen todos — Ramblas a las once, Sagrada Familia sin reserva, Park Güell sin entender que la zona buena es de pago, comer paella en la Barceloneta — vas a salir con la sensación de haber estado en un parque temático. Y la culpa no es de Barcelona, es del plan.

@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Real Alcázar de Sevilla: cómo visitarlo (guía honesta 2026)"
 descripcion: "Cómo visitar el Real Alcázar de Sevilla: precios 2026, horarios, qué ver dentro, Patio de las Doncellas, Salón de Embajadores, jardines y errores típicos."
 categoria: "sevilla"
@@ -17,6 +17,9 @@ keywords:
   - "entradas alcázar sevilla"
   - "cuarto real alto alcázar"
   - "jardines alcázar sevilla"
+slugs:
+  es: alcazar-de-sevilla-como-visitar
+  en: alcazar-of-seville-how-to-visit
 ---
 
 El Real Alcázar de Sevilla es **el palacio en uso más antiguo de Europa**. Sus orígenes se remontan al siglo X, y todavía hoy es residencia oficial de los Reyes de España cuando visitan la ciudad. Pero más allá del titular, lo que lo hace excepcional es lo que pocos monumentos pueden ofrecer: **mil años de capas históricas en el mismo recinto**, desde restos almohades del siglo XII hasta jardines ingleses del XIX, pasando por el palacio mudéjar más espectacular conservado en España.

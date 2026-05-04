@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Granada con niños: planes, monumentos y trampas a evitar"
 descripcion: "Granada con niños sin sufrir: Alhambra adaptada, Parque de las Ciencias, helados, qué edades funcionan y dónde dormir."
 categoria: "granada"
@@ -17,6 +17,9 @@ keywords:
   - "alhambra con niños"
   - "parque de las ciencias granada"
   - "granada en familia"
+slugs:
+  es: granada-con-ninos
+  en: granada-with-kids
 ---
 
 Granada con niños puede ser una experiencia magnífica o un desastre, y la diferencia depende casi por completo del plan. Si lo planteas como Granada-versión-adultos-con-niños-detrás (Alhambra cuatro horas, Sacromonte hasta tarde, Albaicín a pleno sol del mediodía), los niños se queman, los padres se queman y la ciudad pasa de ser un descubrimiento a una pelea constante. Pero si entiendes que **Granada tiene tres o cuatro joyas reales para familias** — que la mayoría de padres ni saben que existen — el viaje cambia.

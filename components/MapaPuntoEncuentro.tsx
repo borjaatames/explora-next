@@ -1,8 +1,34 @@
 import type { PuntoEncuentroDetallado } from "@/lib/actividades";
+import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
+  idioma: Idioma;
   punto: PuntoEncuentroDetallado;
 };
+
+type Strings = {
+  titulo: string;
+  mapaDe: (lugar: string) => string;
+  abrirGoogleMaps: string;
+};
+
+const DICT: Record<"es" | "en", Strings> = {
+  es: {
+    titulo: "Punto de encuentro",
+    mapaDe: (lugar: string) => `Mapa de ${lugar}`,
+    abrirGoogleMaps: "Abrir en Google Maps ↗",
+  },
+  en: {
+    titulo: "Meeting point",
+    mapaDe: (lugar: string) => `Map of ${lugar}`,
+    abrirGoogleMaps: "Open in Google Maps ↗",
+  },
+};
+
+function dictFor(idioma: Idioma): Strings {
+  if (idioma === "es") return DICT.es;
+  return DICT.en;
+}
 
 /**
  * Bloque del punto de encuentro con mapa interactivo OpenStreetMap +
@@ -27,8 +53,9 @@ type Props = {
  * y el botón con búsqueda por dirección. Si no tiene texto, no se
  * renderiza nada.
  */
-export default function MapaPuntoEncuentro({ punto }: Props) {
+export default function MapaPuntoEncuentro({ idioma, punto }: Props) {
   if (!punto.texto) return null;
+  const t = dictFor(idioma);
 
   const tieneCoordenadas =
     typeof punto.latitud === "number" && typeof punto.longitud === "number";
@@ -55,7 +82,7 @@ export default function MapaPuntoEncuentro({ punto }: Props) {
           id="punto-encuentro-titulo"
           className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2"
         >
-          Punto de encuentro
+          {t.titulo}
         </h2>
         <p className="text-slate-800 leading-relaxed">{punto.texto}</p>
         {punto.descripcionGuia && (
@@ -72,7 +99,7 @@ export default function MapaPuntoEncuentro({ punto }: Props) {
         <div className="relative w-full aspect-[2/1] bg-slate-100">
           <iframe
             src={mapaSrc}
-            title={`Mapa de ${punto.texto}`}
+            title={t.mapaDe(punto.texto)}
             className="absolute inset-0 w-full h-full border-0"
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
@@ -87,7 +114,7 @@ export default function MapaPuntoEncuentro({ punto }: Props) {
           rel="noopener noreferrer"
           className="block w-full text-center text-sm font-medium text-slate-900 bg-white border border-slate-300 rounded-md px-4 py-2.5 hover:bg-slate-50 hover:border-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 transition-colors"
         >
-          Abrir en Google Maps ↗
+          {t.abrirGoogleMaps}
         </a>
       </div>
     </section>

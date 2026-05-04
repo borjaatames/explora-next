@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Alhambra: cómo visitarla bien (precios, entradas y trampas)"
 descripcion: "Cómo visitar la Alhambra de Granada con criterio: tipos de entrada, precios oficiales 2026, hora de Palacios Nazaríes, errores típicos."
 categoria: "granada"
@@ -17,6 +17,9 @@ keywords:
   - "precio alhambra"
   - "palacios nazaríes"
   - "alhambra granada"
+slugs:
+  es: alhambra-como-visitar
+  en: alhambra-how-to-visit
 ---
 
 La Alhambra es **el monumento más visitado de España** — más de 2,5 millones de personas al año — y, casi con seguridad, **el peor visitado**. La gente que va sin saber nada acaba pagando 60 € a una empresa de reventa, llegando tarde a Palacios Nazaríes y perdiendo la entrada, o saliendo después de tres horas sin haber entendido lo que ha visto. Es una pena, porque la Alhambra recompensa muchísimo a quien va con un mínimo de plan.

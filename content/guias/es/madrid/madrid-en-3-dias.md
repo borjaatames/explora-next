@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Madrid en 3 días: ruta con criterio para una visita europea"
 descripcion: "Madrid en 3 días con criterio: Prado, El Escorial, Valle de Cuelgamuros, Chamberí y qué evitar. Ruta honesta para entender la ciudad sin postales."
 categoria: "madrid"
@@ -17,6 +17,9 @@ keywords:
   - "ruta madrid 3 días"
   - "itinerario madrid"
   - "qué hacer en madrid 3 días"
+slugs:
+  es: madrid-en-3-dias
+  en: madrid-in-3-days
 ---
 
 Llevo años recibiendo a amigos y familia que vienen a Madrid por primera vez. Con cada visita he ido afinando una ruta que funciona: ni empacha con listas de cincuenta cosas, ni los manda a las mismas postales que aparecen en todas las guías. Esta es la ruta que haría hoy si me dijeran "tengo 3 días en Madrid, enséñame algo que me haga entender España".

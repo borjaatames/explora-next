@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Salamanca en un fin de semana: guía honesta para vivirla"
 descripcion: "Plan de fin de semana en Salamanca con criterio: monumentos, las dos catedrales, Universidad, Casa Lis, dónde tapear y los mejores cocktail bars. Honesto."
 categoria: "salamanca"
@@ -17,6 +17,9 @@ keywords:
   - "fin de semana en salamanca"
   - "qué ver en salamanca finde"
   - "guía salamanca fin de semana"
+slugs:
+  es: salamanca-en-un-fin-de-semana
+  en: salamanca-weekend-trip
 ---
 
 Si **Salamanca en un día funciona como check-list rápido**, Salamanca en un fin de semana es otra cosa: te permite **vivir** la ciudad. Hacer los monumentos sin agobio, tapear bien al menos dos veces, ver la piedra dorada al atardecer y pisar la noche universitaria que es la mitad del alma de la ciudad.

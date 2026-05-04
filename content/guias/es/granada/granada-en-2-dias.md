@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Granada en 2 días: ruta honesta sin perder lo importante"
 descripcion: "Granada en 2 días con criterio: Alhambra, Albaicín, Sacromonte, centro y Cartuja. Ruta honesta, dónde comer y qué evitar. Sin trampas turísticas."
 categoria: "granada"
@@ -17,6 +17,9 @@ keywords:
   - "alhambra"
   - "albaicín"
   - "ruta granada"
+slugs:
+  es: granada-en-2-dias
+  en: granada-in-2-days
 ---
 
 **Granada en 2 días son justos**. No tan pocos como para no ir, pero no los tres o cuatro que la ciudad pide a gritos. Si solo dispones de 48 horas y quieres salir habiendo entendido algo de Granada — no solo fotografiándola — esta guía está pensada para eso.

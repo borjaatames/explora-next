@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Comer en Barcelona: tapas, vermut y cocina catalana"
 descripcion: "Dónde comer bien en Barcelona: tapas auténticas, cenas catalanas, brunch y vermut. Sitios concretos por barrio y trampas turísticas a evitar."
 categoria: "barcelona"
@@ -18,6 +18,9 @@ keywords:
   - "vermut barcelona"
   - "restaurantes barcelona"
   - "brunch barcelona"
+slugs:
+  es: comer-en-barcelona-criterio
+  en: eating-in-barcelona-with-criteria
 ---
 
 Comer mal en Barcelona es **muy fácil**. Tres décadas de turismo masivo han llenado la ciudad de trampas: restaurantes con menú plastificado en seis idiomas, paellas mediocres a 25 € y "tapas mixtas" que no existen en la cultura local. La ciudad real, la que comen los barceloneses, **está al lado** — pero tienes que saber dónde mirar.

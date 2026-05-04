@@ -17,6 +17,9 @@ keywords:
   - "seville with children"
   - "seville with toddlers"
   - "traveling to seville with kids"
+slugs:
+  es: sevilla-con-ninos
+  en: seville-with-kids
 ---
 
 Seville with kids works, but it doesn't work on its own. If you arrive with the average adult's monument list (Cathedral, Alcázar, Archivo de Indias, Hospital de los Venerables, Casa de Pilatos…) the kids will tap out after two hours and the trip turns into an ice-cream negotiation. The good news: the city has a rare density of plans that hook kids ages 4 to 14 with almost no effort — **Plaza de España, the Alcázar, the aquarium, Isla Mágica, kayaking, Triana** — and they all sit within 30 minutes' walk or an €8–10 taxi from each other. The promise of this guide: leave with a prioritized plan, not a list.

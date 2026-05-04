@@ -7,6 +7,7 @@ import {
   obtenerTodosLosCaminos,
   obtenerGuiasRelacionadas,
 } from "@/lib/guias";
+import { slugParejaGuia } from "@/lib/i18n/slugs";
 import {
   formatearFecha,
   hreflangAlternates,
@@ -51,9 +52,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     alternates: {
       canonical: url,
-      languages: hreflangAlternates((l) =>
-        urlGuia(l, params.categoria, params.slug)
-      ),
+      languages: hreflangAlternates((l) => {
+        const slugPareja = slugParejaGuia(
+          "es",
+          params.categoria,
+          params.slug,
+          l
+        );
+        return slugPareja ? urlGuia(l, params.categoria, slugPareja) : null;
+      }),
     },
     openGraph: {
       type: "article",

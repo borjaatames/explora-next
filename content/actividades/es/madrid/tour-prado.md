@@ -104,6 +104,9 @@ numeroOpiniones: 549
 publicada: true
 destacada: true
 fecha: "2026-05-02"
+slugs:
+  es: tour-prado
+  en: prado-tour
 ---
 
 ## Qué vas a ver

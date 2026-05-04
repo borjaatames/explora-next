@@ -1,8 +1,10 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
+  idioma: Idioma;
   precio: string;
   precioPorPersona: string;
   duracion: string;
@@ -22,22 +24,84 @@ type Props = {
   textoCancelacionGratuita: string;
 };
 
-const NOMBRES_MESES_ES = [
-  "Enero",
-  "Febrero",
-  "Marzo",
-  "Abril",
-  "Mayo",
-  "Junio",
-  "Julio",
-  "Agosto",
-  "Septiembre",
-  "Octubre",
-  "Noviembre",
-  "Diciembre",
-];
+type Strings = {
+  headerReservar: string;
+  via: string;
+  compruebaDisponibilidad: string;
+  mesAnterior: string;
+  mesSiguiente: string;
+  enProveedorConfirma: (proveedor: string) => string;
+  ariaDia: (dia: number, mes: string) => string;
+  opinionSingular: string;
+  opinionPlural: string;
+  meses: readonly string[];
+  diasSemana: readonly string[];
+  locale: string;
+};
 
-const DIAS_SEMANA_ES = ["L", "M", "X", "J", "V", "S", "D"];
+const DICT: Record<"es" | "en", Strings> = {
+  es: {
+    headerReservar: "Reservar tu visita",
+    via: "vía",
+    compruebaDisponibilidad: "Comprueba la disponibilidad",
+    mesAnterior: "Mes anterior",
+    mesSiguiente: "Mes siguiente",
+    enProveedorConfirma: (p: string) =>
+      `En ${p} confirma fecha, viajeros y disponibilidad.`,
+    ariaDia: (d: number, m: string) => `${d} de ${m}`,
+    opinionSingular: "1 opinión",
+    opinionPlural: "opiniones",
+    meses: [
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Diciembre",
+    ],
+    diasSemana: ["L", "M", "X", "J", "V", "S", "D"],
+    locale: "es-ES",
+  },
+  en: {
+    headerReservar: "Book your visit",
+    via: "via",
+    compruebaDisponibilidad: "Check availability",
+    mesAnterior: "Previous month",
+    mesSiguiente: "Next month",
+    enProveedorConfirma: (p: string) =>
+      `Confirm date, travellers and availability on ${p}.`,
+    ariaDia: (d: number, m: string) => `${m} ${d}`,
+    opinionSingular: "1 review",
+    opinionPlural: "reviews",
+    meses: [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ],
+    diasSemana: ["M", "T", "W", "T", "F", "S", "S"],
+    locale: "en-US",
+  },
+};
+
+function dictFor(idioma: Idioma): Strings {
+  if (idioma === "es") return DICT.es;
+  return DICT.en;
+}
 
 /**
  * Bloque de reserva con calendario mensual paginable.
@@ -51,6 +115,7 @@ const DIAS_SEMANA_ES = ["L", "M", "X", "J", "V", "S", "D"];
  * usuario con una fecha concreta antes de pulsar Reservar.
  */
 export default function CalendarioReserva({
+  idioma,
   precio,
   precioPorPersona,
   duracion,
@@ -69,6 +134,7 @@ export default function CalendarioReserva({
   textoCancelacionHorasAntes,
   textoCancelacionGratuita,
 }: Props) {
+  const t = dictFor(idioma);
   const hoy = useMemo(() => new Date(), []);
 
   const [mesVisible, setMesVisible] = useState<{ year: number; month: number }>(
@@ -108,23 +174,25 @@ export default function CalendarioReserva({
     typeof numeroOpiniones === "number" &&
     numeroOpiniones > 0;
 
-  const ratingTextoValor = (ratingProveedor ?? 0).toLocaleString("es-ES", {
+  const ratingTextoValor = (ratingProveedor ?? 0).toLocaleString(t.locale, {
     minimumFractionDigits: 1,
     maximumFractionDigits: 1,
   });
 
   const ratingTextoOpiniones =
     numeroOpiniones === 1
-      ? "1 opinión"
-      : `${(numeroOpiniones ?? 0).toLocaleString("es-ES")} opiniones`;
+      ? t.opinionSingular
+      : `${(numeroOpiniones ?? 0).toLocaleString(t.locale)} ${t.opinionPlural}`;
 
   return (
     <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
       <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
-          Reservar tu visita
+          {t.headerReservar}
         </span>
-        <span className="text-[10px] opacity-90">vía {nombreProveedor}</span>
+        <span className="text-[10px] opacity-90">
+          {t.via} {nombreProveedor}
+        </span>
       </div>
 
       <div className="p-5">
@@ -149,7 +217,7 @@ export default function CalendarioReserva({
 
         <div className="mt-5">
           <p className="text-xs font-semibold text-slate-700 mb-2">
-            Comprueba la disponibilidad
+            {t.compruebaDisponibilidad}
           </p>
           <div className="border border-slate-200 rounded-lg p-3">
             <div className="flex items-center justify-between mb-2">
@@ -158,27 +226,27 @@ export default function CalendarioReserva({
                 onClick={() => navegar(-1)}
                 disabled={!puedeIrAtras}
                 className="px-2 py-1 text-slate-400 hover:text-sky-600 disabled:opacity-30 disabled:cursor-not-allowed transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 rounded"
-                aria-label="Mes anterior"
+                aria-label={t.mesAnterior}
               >
                 ‹
               </button>
               <span className="text-sm font-semibold text-slate-900">
-                {NOMBRES_MESES_ES[mesVisible.month]} {mesVisible.year}
+                {t.meses[mesVisible.month]} {mesVisible.year}
               </span>
               <button
                 type="button"
                 onClick={() => navegar(1)}
                 className="px-2 py-1 text-sky-600 hover:text-sky-700 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 rounded"
-                aria-label="Mes siguiente"
+                aria-label={t.mesSiguiente}
               >
                 ›
               </button>
             </div>
 
             <div className="grid grid-cols-7 gap-1 text-center">
-              {DIAS_SEMANA_ES.map((d) => (
+              {t.diasSemana.map((d, idx) => (
                 <div
-                  key={d}
+                  key={idx}
                   className="text-[10px] text-slate-400 font-medium py-1"
                 >
                   {d}
@@ -191,6 +259,8 @@ export default function CalendarioReserva({
                   hoy={hoy}
                   fechaSeleccionada={fechaSeleccionada}
                   onClick={() => elegirDia(dia)}
+                  meses={t.meses}
+                  ariaDia={t.ariaDia}
                 />
               ))}
             </div>
@@ -207,7 +277,7 @@ export default function CalendarioReserva({
         </a>
 
         <p className="mt-3 text-center text-[11px] text-slate-500 leading-relaxed">
-          En {nombreProveedor} confirma fecha, viajeros y disponibilidad.
+          {t.enProveedorConfirma(nombreProveedor)}
           {cancelacionGratuita ? (
             <>
               <br />
@@ -247,9 +317,18 @@ type BotonDiaProps = {
   hoy: Date;
   fechaSeleccionada: Date | null;
   onClick: () => void;
+  meses: readonly string[];
+  ariaDia: (dia: number, mes: string) => string;
 };
 
-function BotonDia({ dia, hoy, fechaSeleccionada, onClick }: BotonDiaProps) {
+function BotonDia({
+  dia,
+  hoy,
+  fechaSeleccionada,
+  onClick,
+  meses,
+  ariaDia,
+}: BotonDiaProps) {
   if (!dia) return <div aria-hidden="true" className="py-2" />;
 
   const enPasado = esPasado(dia, hoy);
@@ -268,7 +347,7 @@ function BotonDia({ dia, hoy, fechaSeleccionada, onClick }: BotonDiaProps) {
       onClick={onClick}
       disabled={enPasado}
       aria-pressed={seleccionado}
-      aria-label={`${dia.getDate()} de ${NOMBRES_MESES_ES[dia.getMonth()]}`}
+      aria-label={ariaDia(dia.getDate(), meses[dia.getMonth()])}
       className={`${baseClass} ${
         seleccionado ? selectedClass : enPasado ? disabledClass : enabledClass
       }`}

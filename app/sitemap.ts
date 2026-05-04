@@ -19,6 +19,11 @@ import {
   urlContacto,
   prefijoIdioma,
 } from "@/lib/i18n/utils";
+import {
+  slugParejaActividad,
+  slugParejaGuia,
+  slugParejaCiudad,
+} from "@/lib/i18n/slugs";
 import type { Idioma } from "@/lib/i18n/types";
 
 const SITE_URL =
@@ -28,15 +33,32 @@ const SITE_URL =
  * Devuelve el bloque hreflang `alternates.languages` para una entrada
  * del sitemap, incluyendo también x-default. Usa la convención del
  * Metadata Sitemap API de Next 14.
+ *
+ * Si `constructor` devuelve `null` para un idioma, ese idioma se omite
+ * (caso típico: una actividad publicada solo en inglés sin pareja en
+ * español). `x-default` apunta al idioma por defecto si tiene URL; en
+ * caso contrario, al primer idioma con URL disponible.
  */
 function alternatesPara(
-  constructor: (idioma: Idioma) => string
+  constructor: (idioma: Idioma) => string | null
 ): { languages: Record<string, string> } {
   const languages: Record<string, string> = {};
   for (const lang of IDIOMAS_ACTIVOS) {
-    languages[lang] = `${SITE_URL}${constructor(lang)}`;
+    const ruta = constructor(lang);
+    if (ruta !== null) {
+      languages[lang] = `${SITE_URL}${ruta}`;
+    }
   }
-  languages["x-default"] = `${SITE_URL}${constructor(IDIOMA_DEFECTO)}`;
+  const rutaDefault = constructor(IDIOMA_DEFECTO);
+  if (rutaDefault !== null) {
+    languages["x-default"] = `${SITE_URL}${rutaDefault}`;
+  } else {
+    const primera = IDIOMAS_ACTIVOS.find((l) => constructor(l) !== null);
+    if (primera) {
+      const ruta = constructor(primera);
+      if (ruta !== null) languages["x-default"] = `${SITE_URL}${ruta}`;
+    }
+  }
   return { languages };
 }
 
@@ -137,9 +159,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: guia.fecha ? new Date(guia.fecha) : ahora,
         changeFrequency: "monthly",
         priority: 0.8,
-        alternates: alternatesPara((l) =>
-          urlGuia(l, guia.categoria, guia.slug)
-        ),
+        alternates: alternatesPara((l) => {
+          const slugPareja = slugParejaGuia(
+            lang,
+            guia.categoria,
+            guia.slug,
+            l
+          );
+          return slugPareja
+            ? urlGuia(l, guia.categoria, slugPareja)
+            : null;
+        }),
       });
     }
   }
@@ -153,7 +183,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: ahora,
         changeFrequency: "monthly",
         priority: 0.85,
-        alternates: alternatesPara((l) => urlCiudad(l, ciudad.slug)),
+        alternates: alternatesPara((l) => {
+          const slugPareja = slugParejaCiudad(lang, ciudad.slug, l);
+          return slugPareja ? urlCiudad(l, slugPareja) : null;
+        }),
       });
     }
   }
@@ -181,9 +214,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: actividad.fecha ? new Date(actividad.fecha) : ahora,
         changeFrequency: "monthly",
         priority: 0.75,
-        alternates: alternatesPara((l) =>
-          urlActividad(l, actividad.ciudad, actividad.slug)
-        ),
+        alternates: alternatesPara((l) => {
+          const slugPareja = slugParejaActividad(
+            lang,
+            actividad.ciudad,
+            actividad.slug,
+            l
+          );
+          return slugPareja
+            ? urlActividad(l, actividad.ciudad, slugPareja)
+            : null;
+        }),
       });
     }
   }

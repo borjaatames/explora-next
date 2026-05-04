@@ -6,9 +6,10 @@ import {
   obtenerTodosLosCaminos,
   obtenerGuiasRelacionadas,
 } from "@/lib/guias";
+import { slugParejaGuia } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
-import { formatearFecha, urlIndiceGuias } from "@/lib/i18n/utils";
+import { formatearFecha, hreflangAlternates, urlGuia, urlIndiceGuias } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
@@ -45,7 +46,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       index: allowIndexing,
       follow: allowIndexing,
     },
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: hreflangAlternates((l) => {
+        const slugPareja = slugParejaGuia(
+          lang,
+          params.categoria,
+          params.slug,
+          l
+        );
+        return slugPareja ? urlGuia(l, params.categoria, slugPareja) : null;
+      }),
+    },
     openGraph: {
       type: "article",
       url,

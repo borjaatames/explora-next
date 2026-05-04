@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Qué hacer en Sevilla con niños: guía honesta 2026"
 descripcion: "Qué hacer en Sevilla con niños de varias edades sin caer en lo obvio: monumentos que sí enganchan, qué saltarse, dónde comer y trampas que evitar."
 categoria: "sevilla"
@@ -18,6 +18,9 @@ keywords:
   - "planes con niños en sevilla"
   - "visitar sevilla con niños pequeños"
   - "viajar a sevilla con niños"
+slugs:
+  es: sevilla-con-ninos
+  en: seville-with-kids
 ---
 
 Sevilla con niños funciona, pero no funciona sola. Si llegas con la lista de monumentos del adulto medio (Catedral, Alcázar, Archivo de Indias, Hospital de los Venerables, Casa de Pilatos…) los críos se plantan a las dos horas y el viaje se convierte en una negociación de helados. La buena noticia: la ciudad tiene una densidad rara de planes que enganchan a niños de 4 a 14 años casi sin esfuerzo —**Plaza de España, Alcázar, Acuario, Isla Mágica, kayak, Triana**— y todos están a menos de 30 minutos andando o un taxi de 8-10 € entre ellos. La promesa de esta guía: salir con un plan jerarquizado, no con una lista.

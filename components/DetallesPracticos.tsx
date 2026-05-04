@@ -1,6 +1,8 @@
 import type { DetallesPracticos as DetallesPracticosTipo } from "@/lib/actividades";
+import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
+  idioma: Idioma;
   duracion: string;
   idiomas: string[];
   detalles?: DetallesPracticosTipo;
@@ -13,6 +15,114 @@ type Fila = {
   titulo: string;
   valor: string;
 };
+
+type Strings = {
+  titulo: string;
+  duracion: string;
+  idiomasGuia: string;
+  ticketMovil: string;
+  ticketMovilValor: string;
+  confirmacion: string;
+  confirmacionValor: string;
+  accesibleSilla: string;
+  accesibleSillaSi: string;
+  accesibleSillaNo: string;
+  edadMinima: string;
+  edadSinRestriccion: string;
+  edadAnios: (n: number) => string;
+  mascotas: string;
+  mascotasSi: string;
+  mascotasNo: string;
+  cancelacion: string;
+  cancelacionConHoras: (h: number) => string;
+  cancelacionGratuita: string;
+  nombresIdioma: Record<string, string>;
+};
+
+/**
+ * Diccionario interno del componente. Sigue el patrón ya usado por Navbar,
+ * Footer y CookieBanner para evitar prop drilling del diccionario global y
+ * mantener cada componente autocontenido. Si en el futuro se activan más
+ * idiomas, se añaden aquí — el tipo `Strings` garantiza paridad de claves.
+ */
+const DICT: Record<"es" | "en", Strings> = {
+  es: {
+    titulo: "Detalles prácticos",
+    duracion: "Duración",
+    idiomasGuia: "Idiomas del guía",
+    ticketMovil: "Ticket en el móvil",
+    ticketMovilValor: "No hace falta imprimir",
+    confirmacion: "Confirmación al instante",
+    confirmacionValor: "Tras la reserva",
+    accesibleSilla: "Accesible en silla",
+    accesibleSillaSi: "Sí · indícalo al reservar",
+    accesibleSillaNo: "No",
+    edadMinima: "Edad mínima",
+    edadSinRestriccion: "Sin restricción",
+    edadAnios: (n: number) => `${n} años`,
+    mascotas: "Mascotas",
+    mascotasSi: "Permitidas",
+    mascotasNo: "No permitidas",
+    cancelacion: "Cancelación",
+    cancelacionConHoras: (h: number) => `Gratuita hasta ${h}h antes`,
+    cancelacionGratuita: "Gratuita",
+    nombresIdioma: {
+      es: "Español",
+      en: "Inglés",
+      fr: "Francés",
+      de: "Alemán",
+      it: "Italiano",
+      pt: "Portugués",
+    },
+  },
+  en: {
+    titulo: "Practical details",
+    duracion: "Duration",
+    idiomasGuia: "Guide languages",
+    ticketMovil: "Mobile ticket",
+    ticketMovilValor: "No need to print",
+    confirmacion: "Instant confirmation",
+    confirmacionValor: "Right after booking",
+    accesibleSilla: "Wheelchair accessible",
+    accesibleSillaSi: "Yes · flag it when booking",
+    accesibleSillaNo: "No",
+    edadMinima: "Minimum age",
+    edadSinRestriccion: "No restriction",
+    edadAnios: (n: number) => `${n}+`,
+    mascotas: "Pets",
+    mascotasSi: "Allowed",
+    mascotasNo: "Not allowed",
+    cancelacion: "Cancellation",
+    cancelacionConHoras: (h: number) => `Free up to ${h}h before`,
+    cancelacionGratuita: "Free cancellation",
+    nombresIdioma: {
+      es: "Spanish",
+      en: "English",
+      fr: "French",
+      de: "German",
+      it: "Italian",
+      pt: "Portuguese",
+    },
+  },
+};
+
+/**
+ * Selector defensivo: si llega un idioma no cubierto en `DICT` (caso futuro
+ * cuando se activen DE/FR/IT/PT antes de añadir sus traducciones aquí),
+ * cae a inglés en vez de romper el render.
+ */
+function dictFor(idioma: Idioma): Strings {
+  if (idioma === "es") return DICT.es;
+  return DICT.en;
+}
+
+function formatearIdiomas(
+  idiomas: string[],
+  nombres: Record<string, string>
+): string {
+  if (idiomas.length === 0) return "—";
+  return idiomas.map((id) => nombres[id] || id).join(" · ");
+}
 
 const ICONO_BASE = "w-5 h-5 text-sky-600 flex-none mt-0.5";
 
@@ -132,41 +242,29 @@ const ICONOS = {
   ),
 };
 
-const NOMBRES_IDIOMA: Record<string, string> = {
-  es: "Español",
-  en: "Inglés",
-  fr: "Francés",
-  de: "Alemán",
-  it: "Italiano",
-  pt: "Portugués",
-};
-
-function formatearIdiomas(idiomas: string[]): string {
-  if (idiomas.length === 0) return "—";
-  return idiomas.map((id) => NOMBRES_IDIOMA[id] || id).join(" · ");
-}
-
 /**
  * Bloque "Detalles prácticos" — grid 2 columnas con 4-8 datos clave.
  *
  * Las filas que no tienen información en el frontmatter se omiten,
  * de forma que el bloque siempre se ve completo aunque la actividad
  * no tenga todos los campos. Si NO hay ninguna fila renderizable
- * (caso extremo), el bloque entero no se renderiza desde el page.
+ * (caso extremo), el bloque entero no se renderiza.
  */
 export default function DetallesPracticos({
+  idioma,
   duracion,
   idiomas,
   detalles,
   cancelacionGratuita,
   horasCancelacion,
 }: Props) {
+  const t = dictFor(idioma);
   const filas: Fila[] = [];
 
   if (duracion) {
     filas.push({
       icono: ICONOS.reloj,
-      titulo: "Duración",
+      titulo: t.duracion,
       valor: duracion,
     });
   }
@@ -174,67 +272,67 @@ export default function DetallesPracticos({
   if (idiomas && idiomas.length > 0) {
     filas.push({
       icono: ICONOS.globo,
-      titulo: "Idiomas del guía",
-      valor: formatearIdiomas(idiomas),
+      titulo: t.idiomasGuia,
+      valor: formatearIdiomas(idiomas, t.nombresIdioma),
     });
   }
 
   if (detalles?.ticketMovil) {
     filas.push({
       icono: ICONOS.movil,
-      titulo: "Ticket en el móvil",
-      valor: "No hace falta imprimir",
+      titulo: t.ticketMovil,
+      valor: t.ticketMovilValor,
     });
   }
 
   if (detalles?.confirmacionInmediata) {
     filas.push({
       icono: ICONOS.check,
-      titulo: "Confirmación al instante",
-      valor: "Tras la reserva",
+      titulo: t.confirmacion,
+      valor: t.confirmacionValor,
     });
   }
 
   if (detalles?.accesibleSilla === true) {
     filas.push({
       icono: ICONOS.silla,
-      titulo: "Accesible en silla",
-      valor: "Sí · indícalo al reservar",
+      titulo: t.accesibleSilla,
+      valor: t.accesibleSillaSi,
     });
   } else if (detalles?.accesibleSilla === false) {
     filas.push({
       icono: ICONOS.silla,
-      titulo: "Accesible en silla",
-      valor: "No",
+      titulo: t.accesibleSilla,
+      valor: t.accesibleSillaNo,
     });
   }
 
   if (detalles?.edadMinima !== undefined) {
     filas.push({
       icono: ICONOS.edad,
-      titulo: "Edad mínima",
+      titulo: t.edadMinima,
       valor:
         detalles.edadMinima === 0
-          ? "Sin restricción"
-          : `${detalles.edadMinima} años`,
+          ? t.edadSinRestriccion
+          : t.edadAnios(detalles.edadMinima),
     });
   }
 
   if (detalles?.mascotasPermitidas !== undefined) {
     filas.push({
       icono: ICONOS.mascota,
-      titulo: "Mascotas",
-      valor: detalles.mascotasPermitidas ? "Permitidas" : "No permitidas",
+      titulo: t.mascotas,
+      valor: detalles.mascotasPermitidas ? t.mascotasSi : t.mascotasNo,
     });
   }
 
   if (cancelacionGratuita) {
     filas.push({
       icono: ICONOS.refresh,
-      titulo: "Cancelación",
+      titulo: t.cancelacion,
       valor: horasCancelacion
-        ? `Gratuita hasta ${horasCancelacion}h antes`
-        : "Gratuita",
+        ? t.cancelacionConHoras(horasCancelacion)
+        : t.cancelacionGratuita,
     });
   }
 
@@ -249,7 +347,7 @@ export default function DetallesPracticos({
         id="detalles-practicos-titulo"
         className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-5"
       >
-        Detalles prácticos
+        {t.titulo}
       </h2>
       <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4">
         {filas.map((fila) => (

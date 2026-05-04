@@ -97,6 +97,9 @@ numeroOpiniones: 91
 publicada: true
 destacada: false
 fecha: "2026-05-02"
+slugs:
+  es: prado-tour-privado
+  en: prado-private-tour
 ---
 
 ## Qué vas a ver

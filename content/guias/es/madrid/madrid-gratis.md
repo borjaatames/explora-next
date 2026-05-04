@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Madrid gratis: aprovechar la capital sin gastar un euro"
 descripcion: "Madrid gratis con criterio: museos sin pagar, miradores libres, eventos recurrentes y barrios para pasear. Y qué SÍ merece la pena pagar."
 categoria: "madrid"
@@ -17,6 +17,9 @@ keywords:
   - "planes gratis en madrid"
   - "museos gratis madrid"
   - "madrid sin dinero"
+slugs:
+  es: madrid-gratis
+  en: madrid-on-a-budget
 ---
 
 Madrid es de las pocas capitales europeas donde se puede pasar varios días sin pagar entrada a casi nada y aun así llevarse una experiencia rica. La clave no es buscar "10 cosas gratis en Madrid" en Google y tachar lista — es entender qué merece la pena en cada caso, cuándo, y cómo evitar los errores típicos del que llega buscando planes gratuitos.

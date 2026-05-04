@@ -16,6 +16,9 @@ keywords:
   - "what to see in toledo in a day"
   - "how to get to toledo from madrid"
   - "day trips from madrid"
+slugs:
+  es: escapadas-desde-madrid-toledo
+  en: toledo-day-trip-from-madrid
 ---
 
 70 km from Madrid sits an intact medieval city. It isn't a recreation, isn't a theme park, isn't a postcard: it's **Toledo**, the only European city where Jews, Muslims and Christians coexisted for centuries, each leaving their mark in stone. And you can see it in a day.

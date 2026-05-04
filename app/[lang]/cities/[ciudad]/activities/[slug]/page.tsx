@@ -32,21 +32,23 @@ import FaqActividad from "@/components/FaqActividad";
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
+const IDIOMA = "en" as const;
+
 type Props = {
-  params: { ciudad: string; slug: string };
+  params: { lang: string; ciudad: string; slug: string };
 };
 
 export async function generateStaticParams() {
   return obtenerTodosLosCaminosActividades()
-    .filter((c) => c.idioma === "es")
-    .map(({ ciudad, slug }) => ({ ciudad, slug }));
+    .filter((c) => c.idioma === IDIOMA)
+    .map(({ ciudad, slug }) => ({ lang: IDIOMA, ciudad, slug }));
 }
 
 export async function generateMetadata({
   params,
 }: Props): Promise<Metadata> {
-  const actividad = await obtenerActividad("es", params.ciudad, params.slug);
-  if (!actividad) return { title: "Actividad no encontrada" };
+  const actividad = await obtenerActividad(IDIOMA, params.ciudad, params.slug);
+  if (!actividad) return { title: "Activity not found" };
 
   const url = `${SITE_URL}${actividad.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -63,7 +65,7 @@ export async function generateMetadata({
       canonical: url,
       languages: hreflangAlternates((l) => {
         const slugPareja = slugParejaActividad(
-          "es",
+          IDIOMA,
           params.ciudad,
           params.slug,
           l
@@ -77,7 +79,7 @@ export async function generateMetadata({
       title: `${actividad.titulo} | ExploraSpain`,
       description: actividad.descripcion,
       siteName: "ExploraSpain",
-      locale: "es_ES",
+      locale: "en_US",
       images: actividad.imagen
         ? [{ url: actividad.imagen, alt: actividad.imagenAlt }]
         : [],
@@ -86,22 +88,20 @@ export async function generateMetadata({
 }
 
 export default async function ActividadPage({ params }: Props) {
-  const ciudad = await obtenerCiudad("es", params.ciudad);
-  const actividad = await obtenerActividad("es", params.ciudad, params.slug);
+  const ciudad = await obtenerCiudad(IDIOMA, params.ciudad);
+  const actividad = await obtenerActividad(IDIOMA, params.ciudad, params.slug);
   if (!ciudad || !actividad) notFound();
 
-  const dict = getDictionary("es");
+  const dict = getDictionary(IDIOMA);
 
   const variantes = obtenerVariantesDeActividad(
-    "es",
+    IDIOMA,
     params.ciudad,
     actividad.variantes || []
   );
 
-  // Las "alternativas en la ciudad" excluyen tanto la actividad actual
-  // como las variantes ya mostradas en el carrusel para no duplicar.
   const alternativas = obtenerActividadesAlternativas(
-    "es",
+    IDIOMA,
     params.ciudad,
     params.slug,
     3,
@@ -110,22 +110,18 @@ export default async function ActividadPage({ params }: Props) {
 
   const guiasRelacionadas =
     actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
-      ? obtenerListaGuias("es").filter((g) =>
+      ? obtenerListaGuias(IDIOMA).filter((g) =>
           actividad.guiasRelacionadas!.includes(g.slug)
         )
       : [];
 
   const url = `${SITE_URL}${actividad.url}`;
-  const precio = new Intl.NumberFormat("es-ES", {
+  const precio = new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
   }).format(actividad.precioDesde);
 
-  // URL limpia con tu PID/aid del proveedor ya añadido. NO se le añaden
-  // parámetros de fecha ni viajeros porque Viator (afiliado básico) no
-  // los respeta y, al recibirlos, redirige al carrusel genérico de la
-  // ciudad en lugar de a la ficha individual del producto.
   const urlReservaBase = construirUrlReserva(
     actividad.proveedor,
     actividad.urlReserva
@@ -138,12 +134,12 @@ export default async function ActividadPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Inicio", item: SITE_URL },
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
       {
         "@type": "ListItem",
         position: 2,
-        name: "Ciudades",
-        item: `${SITE_URL}/ciudades`,
+        name: "Cities",
+        item: `${SITE_URL}/en/cities`,
       },
       {
         "@type": "ListItem",
@@ -154,16 +150,13 @@ export default async function ActividadPage({ params }: Props) {
       {
         "@type": "ListItem",
         position: 4,
-        name: "Actividades",
-        item: `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}`,
+        name: "Things to do",
+        item: `${SITE_URL}${urlActividadesDeCiudad(IDIOMA, params.ciudad)}`,
       },
       { "@type": "ListItem", position: 5, name: actividad.titulo, item: url },
     ],
   };
 
-  // Rating como dato agregado del proveedor (Viator). NO se renderizan
-  // opiniones individuales: la API de afiliación lo prohíbe y, además,
-  // ExploraSpain no es el operador de la actividad.
   const tieneRating =
     typeof actividad.ratingProveedor === "number" &&
     typeof actividad.numeroOpiniones === "number" &&
@@ -172,12 +165,12 @@ export default async function ActividadPage({ params }: Props) {
   const ratingTextoOpiniones =
     actividad.numeroOpiniones === 1
       ? `1 ${dict.actividades.opiniones}`
-      : `${(actividad.numeroOpiniones ?? 0).toLocaleString("es-ES")} ${
+      : `${(actividad.numeroOpiniones ?? 0).toLocaleString("en-US")} ${
           dict.actividades.opiniones
         }`;
 
   const ratingTextoValor = (actividad.ratingProveedor ?? 0).toLocaleString(
-    "es-ES",
+    "en-US",
     {
       minimumFractionDigits: 1,
       maximumFractionDigits: 1,
@@ -197,9 +190,9 @@ export default async function ActividadPage({ params }: Props) {
 
       <header className="bg-sky-500 text-white py-10 md:py-14">
         <div className="max-w-6xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
-            <Link href="/" className="hover:text-white">
-              Inicio
+          <nav aria-label="Breadcrumb" className="text-sm text-sky-100 mb-4">
+            <Link href="/en" className="hover:text-white">
+              Home
             </Link>
             {" › "}
             <Link href={ciudad.url} className="hover:text-white">
@@ -207,10 +200,10 @@ export default async function ActividadPage({ params }: Props) {
             </Link>
             {" › "}
             <Link
-              href={urlActividadesDeCiudad("es", params.ciudad)}
+              href={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
               className="hover:text-white"
             >
-              Actividades
+              Things to do
             </Link>
             {" › "}
             <span className="text-white">{actividad.titulo}</span>
@@ -265,7 +258,7 @@ export default async function ActividadPage({ params }: Props) {
             {/* 1. Galería con sello "Recomendado" */}
             {actividad.imagen && (
               <GaleriaActividad
-                idioma="es"
+                idioma={IDIOMA}
                 principal={{
                   src: actividad.imagen,
                   alt: actividad.imagenAlt,
@@ -275,9 +268,9 @@ export default async function ActividadPage({ params }: Props) {
               />
             )}
 
-            {/* 2. Detalles prácticos — justo después de la galería */}
+            {/* 2. Detalles prácticos */}
             <DetallesPracticos
-              idioma="es"
+              idioma={IDIOMA}
               duracion={actividad.duracion}
               idiomas={actividad.idiomas}
               detalles={actividad.detallesPracticos}
@@ -285,11 +278,11 @@ export default async function ActividadPage({ params }: Props) {
               horasCancelacion={actividad.horasCancelacion}
             />
 
-            {/* 3. Lo más destacado */}
+            {/* 3. Highlights */}
             {actividad.highlights.length > 0 && (
               <div>
                 <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
-                  Lo más destacado
+                  {dict.actividades.highlights}
                 </h2>
                 <ul className="space-y-2">
                   {actividad.highlights.map((h) => (
@@ -307,7 +300,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 4. Nuestra opinión editorial */}
+            {/* 4. Editorial opinion */}
             {actividad.opinionEditorial && (
               <div className="bg-amber-50 border-l-4 border-amber-400 p-6 rounded-r-lg">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
@@ -319,7 +312,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 5. Qué incluye / no incluye */}
+            {/* 5. What's included / not included */}
             {(actividad.incluye.length > 0 ||
               actividad.noIncluye.length > 0) && (
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -372,15 +365,15 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 6. Información importante — 3 columnas */}
-            <InformacionImportante idioma="es" info={actividad.informacionImportante} />
+            {/* 6. Important info — 3 columns */}
+            <InformacionImportante idioma={IDIOMA} info={actividad.informacionImportante} />
 
-            {/* 7. Punto de encuentro con MAPA OSM + descripción guía */}
+            {/* 7. Meeting point with OSM map */}
             {actividad.puntoEncuentro.texto && (
-              <MapaPuntoEncuentro idioma="es" punto={actividad.puntoEncuentro} />
+              <MapaPuntoEncuentro idioma={IDIOMA} punto={actividad.puntoEncuentro} />
             )}
 
-            {/* 8. Sobre la actividad (Markdown editorial) */}
+            {/* 8. The experience (Markdown) */}
             <div>
               <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
                 {dict.actividades.laExperiencia}
@@ -391,21 +384,26 @@ export default async function ActividadPage({ params }: Props) {
               />
             </div>
 
-            {/* 9. Carrusel "Otras formas de visitar X" */}
+            {/* 9. "Other ways to visit X" carousel */}
             {variantes.length > 0 && (
               <CarruselVariantes
                 variantes={variantes}
-                titulo={`Otras formas de visitar ${actividad.titulo
-                  .replace(/^Visita guiada al?\s+/i, "")
-                  .replace(/^Tour( del?| por el?)?\s+/i, "")}`}
+                titulo={`Other ways to visit ${actividad.titulo
+                  .replace(/^Private\s+/i, "")
+                  .replace(/^Royal Palace and\s+/i, "")
+                  .replace(
+                    /\s+(Skip-the-Line\s+)?(Guided\s+)?(Combined\s+)?Tour.*$/i,
+                    ""
+                  )
+                  .trim()}`}
               />
             )}
 
-            {/* 10. Accesibilidad — frase global simple */}
+            {/* 10. Accessibility */}
             {actividad.accesibilidad && (
               <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
-                  Accesibilidad
+                  Accessibility
                 </h2>
                 <p className="text-slate-700 leading-relaxed">
                   {actividad.accesibilidad}
@@ -413,11 +411,11 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 11. Política de cancelación — párrafo claro */}
+            {/* 11. Cancellation policy */}
             {actividad.politicaCancelacion && (
               <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
-                  Política de cancelación
+                  Cancellation policy
                 </h2>
                 <p className="text-slate-700 leading-relaxed">
                   {actividad.politicaCancelacion}
@@ -425,10 +423,10 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 12. Preguntas frecuentes — sin JSON-LD por ahora */}
-            <FaqActividad idioma="es" preguntas={actividad.preguntasFrecuentes || []} />
+            {/* 12. FAQs */}
+            <FaqActividad idioma={IDIOMA} preguntas={actividad.preguntasFrecuentes || []} />
 
-            {/* 13. Guías relacionadas */}
+            {/* 13. Related guides */}
             {guiasRelacionadas.length > 0 && (
               <div className="bg-slate-50 border border-slate-200 rounded-lg p-6">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-4">
@@ -453,7 +451,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 14. Alternativas en la ciudad */}
+            {/* 14. Alternatives in the city */}
             {alternativas.length > 0 && (
               <div>
                 <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
@@ -467,7 +465,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 15. Disclosure de afiliación */}
+            {/* 15. Affiliate disclosure */}
             <p className="text-xs text-slate-500 border-t border-slate-200 pt-6">
               {dict.actividades.avisoAfiliacion}
             </p>
@@ -476,7 +474,7 @@ export default async function ActividadPage({ params }: Props) {
           <aside className="hidden lg:block lg:col-span-1">
             <div className="lg:sticky lg:top-6">
               <CalendarioReserva
-                idioma="es"
+                idioma={IDIOMA}
                 precio={precio}
                 precioPorPersona={dict.actividades.porPersona}
                 duracion={actividad.duracion}
@@ -504,15 +502,15 @@ export default async function ActividadPage({ params }: Props) {
 
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
         <Link
-          href={urlActividadesDeCiudad("es", params.ciudad)}
+          href={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
           className="text-sky-600 hover:text-sky-700 font-medium"
         >
-          ← Ver más actividades en {ciudad.nombre}
+          ← See more things to do in {ciudad.nombre}
         </Link>
       </div>
 
       <StickyReservaMovil
-        idioma="es"
+        idioma={IDIOMA}
         precio={`${dict.actividades.desde} ${precio}`}
         precioPorPersona={dict.actividades.porPersona}
         duracion={actividad.duracion}
@@ -551,6 +549,7 @@ function buildProductLd(
     description: actividad.descripcion,
     image: actividad.imagen ? [imagenAbsoluta] : undefined,
     category: actividad.categoria,
+    inLanguage: "en",
     url,
     offers: {
       "@type": "Offer",
@@ -577,7 +576,7 @@ function buildProductLd(
 type AlternativaCardProps = { actividad: ActividadListItem };
 
 function AlternativaCard({ actividad }: AlternativaCardProps) {
-  const precio = new Intl.NumberFormat("es-ES", {
+  const precio = new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
@@ -603,7 +602,7 @@ function AlternativaCard({ actividad }: AlternativaCardProps) {
           {actividad.titulo}
         </h3>
         <p className="text-xs text-slate-500">
-          {actividad.duracion} · Desde{" "}
+          {actividad.duracion} · From{" "}
           <span className="font-semibold text-slate-900">{precio}</span>
         </p>
       </div>

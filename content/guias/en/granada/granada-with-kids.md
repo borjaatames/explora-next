@@ -16,6 +16,9 @@ keywords:
   - "alhambra with kids"
   - "granada science park"
   - "granada family trip"
+slugs:
+  es: granada-con-ninos
+  en: granada-with-kids
 ---
 
 Granada with kids can be a magnificent experience or a disaster, and the difference depends almost entirely on the plan. If you frame it as Granada-adult-version-with-kids-in-tow (Alhambra for four hours, Sacromonte until late, Albaicín under midday sun), the kids burn out, the parents burn out, and the city goes from being a discovery to a constant fight. But if you understand that **Granada has three or four real family gems** — most parents don't even know they exist — the trip changes.

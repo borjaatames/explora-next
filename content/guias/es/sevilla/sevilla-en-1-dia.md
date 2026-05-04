@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Sevilla en 1 día desde Madrid: la escapada exprés con criterio"
 descripcion: "Cómo aprovechar al máximo un día en Sevilla desde Madrid en AVE: Alcázar, Catedral, Plaza de España, Triana al atardecer. Lo que sí, lo que se puede saltar y errores típicos."
 categoria: "sevilla"
@@ -17,6 +17,9 @@ keywords:
   - "qué ver en sevilla en un día"
   - "ave madrid sevilla"
   - "escapada sevilla"
+slugs:
+  es: sevilla-en-1-dia
+  en: seville-in-1-day
 ---
 
 Un día en Sevilla desde Madrid en AVE es **perfectamente factible** y, si lo planificas bien, te llevas una experiencia completa. Ida y vuelta el mismo día, 5-6 horas en la ciudad, los cuatro imprescindibles cubiertos. Pero el éxito está en **renunciar a verlo todo y elegir bien lo que sí**.

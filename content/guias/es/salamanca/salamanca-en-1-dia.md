@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Salamanca en 1 día: ruta con criterio sin perder lo esencial"
 descripcion: "Salamanca en un día con criterio: Plaza Mayor, Universidad, las dos catedrales, Clerecía y Puente Romano al atardecer. Qué ver, qué saltarse y errores típicos."
 categoria: "salamanca"
@@ -17,6 +17,9 @@ keywords:
   - "guía de salamanca"
   - "salamanca turismo"
   - "ruta salamanca un día"
+slugs:
+  es: salamanca-en-1-dia
+  en: salamanca-in-1-day
 ---
 
 Salamanca es de las pocas ciudades históricas españolas que **funciona en un día**. El casco antiguo es compacto, los grandes monumentos están a menos de 10 minutos andando entre ellos y el ritmo de visita es directo: Plaza Mayor, Universidad, las dos catedrales, Clerecía y vuelta. Pero ojo: si la corres como check-list, te pierdes lo que la hace especial. El ambiente.

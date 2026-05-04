@@ -192,28 +192,63 @@ const SITE_URL =
  * también a `x-default`.
  *
  * `constructorUrl` es una función que, dado un idioma, devuelve la URL
- * (relativa) de la versión traducida de esa página. Esto desacopla la
- * generación de hreflang de la lógica concreta de cada tipo de página
- * (guía, ciudad, actividad, índice, etc.).
+ * (relativa) de la versión traducida de esa página, o `null` si esa
+ * versión no existe (por ejemplo, una actividad publicada solo en
+ * inglés sin pareja en español).
  *
- * Ejemplo de uso:
+ * Si `constructorUrl` devuelve `null` para un idioma, ese idioma no
+ * se incluye en el alternates: declarar un hreflang que apunta a un
+ * 404 perjudica la confianza de hreflang en el dominio entero según
+ * Google Search Console.
+ *
+ * `x-default` apunta al idioma por defecto si tiene URL, y si no
+ * apunta al primer idioma activo que sí la tenga. Si ningún idioma
+ * tiene URL devuelve un objeto vacío (caso defensivo, en la práctica
+ * no debería ocurrir si la página existe en al menos un idioma).
+ *
+ * Compatible con call sites antiguos que pasen `(idioma) => string`
+ * (covarianza de retorno: string es asignable a string | null).
+ *
+ * Ejemplo de uso con verificación:
  *
  *   alternates: {
- *     canonical: `${SITE_URL}${urlGuia(idioma, categoria, slug)}`,
- *     languages: hreflangAlternates((l) => urlGuia(l, categoria, slug)),
+ *     canonical: `${SITE_URL}${urlActividad(idioma, ciudad, slug)}`,
+ *     languages: hreflangAlternates((l) =>
+ *       existeActividad(l, ciudad, slug)
+ *         ? urlActividad(l, ciudad, slug)
+ *         : null
+ *     ),
  *   }
  */
 export function hreflangAlternates(
-  constructorUrl: (idioma: Idioma) => string
+  constructorUrl: (idioma: Idioma) => string | null
 ): Record<string, string> {
   const result: Record<string, string> = {};
 
   for (const lang of IDIOMAS_ACTIVOS) {
-    result[lang] = `${SITE_URL}${constructorUrl(lang)}`;
+    const ruta = constructorUrl(lang);
+    if (ruta !== null) {
+      result[lang] = `${SITE_URL}${ruta}`;
+    }
   }
 
-  // x-default apunta al idioma por defecto.
-  result["x-default"] = `${SITE_URL}${constructorUrl(IDIOMA_DEFECTO)}`;
+  // x-default: preferir idioma por defecto si existe; si no, primer
+  // idioma activo disponible. Si ninguno está disponible, omitir
+  // x-default (mejor que apuntar a 404).
+  const rutaDefault = constructorUrl(IDIOMA_DEFECTO);
+  if (rutaDefault !== null) {
+    result["x-default"] = `${SITE_URL}${rutaDefault}`;
+  } else {
+    const primeraDisponible = IDIOMAS_ACTIVOS.find(
+      (l) => constructorUrl(l) !== null
+    );
+    if (primeraDisponible) {
+      const ruta = constructorUrl(primeraDisponible);
+      if (ruta !== null) {
+        result["x-default"] = `${SITE_URL}${ruta}`;
+      }
+    }
+  }
 
   return result;
 }

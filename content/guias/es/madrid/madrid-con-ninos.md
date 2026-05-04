@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Madrid con niños: guía honesta por edades (4 a 16 años)"
 descripcion: "Madrid con niños y adolescentes: zoo, parque de atracciones, museos que enganchan, planes al aire libre y errores típicos. Guía honesta por edades."
 categoria: "madrid"
@@ -17,6 +17,9 @@ keywords:
   - "planes en familia madrid"
   - "madrid en familia"
   - "actividades para niños en madrid"
+slugs:
+  es: madrid-con-ninos
+  en: madrid-with-kids
 ---
 
 Madrid es una de las capitales europeas que mejor se vive en familia. Tiene parques al aire libre por toda la ciudad, fauna real a 20 minutos del centro, museos que sorprenden a los niños (algunos más que el Prado a sus padres) y planes de verano que en pocas otras capitales encuentras.

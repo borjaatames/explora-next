@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Tapas en Sevilla con criterio: ruta por Centro, Triana y Arenal"
 descripcion: "Dónde tapear bien en Sevilla sin caer en trampas turísticas. 8 bares con criterio en Centro, Triana y Arenal: qué pedir, cuándo ir, qué evitar."
 categoria: "sevilla"
@@ -18,6 +18,9 @@ keywords:
   - "tapeo triana"
   - "tapeo arenal sevilla"
   - "casa morales sevilla"
+slugs:
+  es: sevilla-tapas-criterio
+  en: seville-tapas-with-criteria
 ---
 
 Sevilla tiene un problema que nadie te cuenta: hay tantos bares de tapas que es casi imposible elegir mal del todo, pero igual de difícil elegir realmente bien. La media es alta, sí, pero la diferencia entre comerte una pringá honesta hecha por la cuarta generación de la familia y una versión turistizada con foto plastificada en la puerta es brutal. Y lo segundo está más extendido de lo que la gente piensa, sobre todo en el cuadrante Catedral-Santa Cruz.

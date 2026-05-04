@@ -1,8 +1,24 @@
 import type { PreguntaFrecuente } from "@/lib/actividades";
+import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
+  idioma: Idioma;
   preguntas: PreguntaFrecuente[];
 };
+
+type Strings = {
+  titulo: string;
+};
+
+const DICT: Record<"es" | "en", Strings> = {
+  es: { titulo: "Preguntas frecuentes" },
+  en: { titulo: "Frequently asked questions" },
+};
+
+function dictFor(idioma: Idioma): Strings {
+  if (idioma === "es") return DICT.es;
+  return DICT.en;
+}
 
 /**
  * Bloque de Preguntas frecuentes específicas de la actividad.
@@ -17,8 +33,9 @@ type Props = {
  *
  * Si la lista está vacía, devuelve null.
  */
-export default function FaqActividad({ preguntas }: Props) {
+export default function FaqActividad({ idioma, preguntas }: Props) {
   if (!preguntas || preguntas.length === 0) return null;
+  const t = dictFor(idioma);
 
   return (
     <section aria-labelledby="faq-titulo">
@@ -26,7 +43,7 @@ export default function FaqActividad({ preguntas }: Props) {
         id="faq-titulo"
         className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-4"
       >
-        Preguntas frecuentes
+        {t.titulo}
       </h2>
       <div className="border-t border-slate-200">
         {preguntas.map((p) => (

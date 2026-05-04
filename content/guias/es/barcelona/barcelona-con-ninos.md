@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Barcelona con niños: planes, monumentos y trampas a evitar"
 descripcion: "Barcelona con niños sin agobios: CosmoCaixa, Tibidabo, Sagrada Familia adaptada, qué edades funcionan, dónde dormir y comida con peques."
 categoria: "barcelona"
@@ -17,6 +17,9 @@ keywords:
   - "cosmocaixa"
   - "tibidabo"
   - "barcelona en familia"
+slugs:
+  es: barcelona-con-ninos
+  en: barcelona-with-kids
 ---
 
 Barcelona con niños es **distinto a Barcelona sin niños**. La ciudad tiene mucho que ofrecer a familias — más de lo que muchas guías cuentan — pero el plan tipo "Sagrada Familia mañana, Park Güell tarde, Las Ramblas al final del día" es exactamente lo que NO funciona con peques. Las distancias son grandes, el calor en el Eixample en verano es duro, las multitudes en los monumentos centrales agotan a los niños y, encima, **los pickpockets en zonas turísticas son un problema real**.

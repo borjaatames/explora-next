@@ -16,6 +16,9 @@ keywords:
   - "alhambra price"
   - "nasrid palaces"
   - "alhambra granada"
+slugs:
+  es: alhambra-como-visitar
+  en: alhambra-how-to-visit
 ---
 
 The Alhambra is **the most visited monument in Spain** — over 2.5 million people a year — and, almost certainly, **the worst-visited**. People who go without preparation end up paying €60 to a reseller, arriving late to the Nasrid Palaces and losing their entry, or leaving after three hours without having understood what they saw. That's a shame, because the Alhambra rewards anyone who arrives with a minimum plan.

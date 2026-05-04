@@ -148,6 +148,15 @@ export type ActividadFrontmatter = {
   publicada: boolean;
   destacada?: boolean;
   fecha: string;
+
+  /**
+   * Mapa de slugs por idioma para esta actividad. Permite que el sitemap
+   * y los pages declaren hreflang correcto cuando los slugs están
+   * traducidos entre idiomas (e.g. ES "tour-prado" ↔ EN "prado-tour").
+   * Si el campo no existe, no se asume pareja: el alternate hreflang se
+   * omite para los idiomas no declarados (mejor que apuntar a un 404).
+   */
+  slugs?: Partial<Record<Idioma, string>>;
 };
 
 /**
@@ -462,6 +471,7 @@ function construirListItem(
     publicada: true,
     destacada: fm.destacada || false,
     fecha: fm.fecha || "",
+    slugs: fm.slugs,
 
     idioma,
     url: urlActividad(idioma, ciudad, slug),
@@ -576,4 +586,26 @@ export function obtenerActividadesDeCiudadPorCategoria(
   return obtenerListaActividadesPorCiudad(idioma, ciudad).filter(
     (a) => a.categoria === categoria
   );
+}
+
+
+/**
+ * Comprueba si existe el archivo `.md` de una actividad en el idioma dado.
+ *
+ * Útil para construir alternates hreflang correctos: si una actividad
+ * no tiene pareja en otro idioma (por ejemplo, una actividad solo
+ * publicada en inglés), no debemos declarar un hreflang apuntando a
+ * una URL que devolvería 404.
+ *
+ * No comprueba el flag `publicada`: solo la existencia física del
+ * archivo. Si necesitas considerar también `publicada`, usa
+ * `obtenerActividad` y comprueba si el resultado es `null`.
+ */
+export function existeActividad(
+  idioma: Idioma,
+  ciudad: string,
+  slug: string
+): boolean {
+  const fullPath = path.join(directorioCiudad(idioma, ciudad), `${slug}.md`);
+  return fs.existsSync(fullPath);
 }

@@ -2,8 +2,10 @@
 
 import { useEffect, useState } from "react";
 import CalendarioReserva from "./CalendarioReserva";
+import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
+  idioma: Idioma;
   precio: string;
   precioPorPersona: string;
   duracion: string;
@@ -24,6 +26,36 @@ type Props = {
   textoCancelacionGratuita: string;
 };
 
+type Strings = {
+  ariaBarra: string;
+  ariaModal: string;
+  headerModal: string;
+  ariaCerrar: string;
+  locale: string;
+};
+
+const DICT: Record<"es" | "en", Strings> = {
+  es: {
+    ariaBarra: "Reservar actividad",
+    ariaModal: "Selección de fecha",
+    headerModal: "Reservar tu visita",
+    ariaCerrar: "Cerrar",
+    locale: "es-ES",
+  },
+  en: {
+    ariaBarra: "Book activity",
+    ariaModal: "Date selection",
+    headerModal: "Book your visit",
+    ariaCerrar: "Close",
+    locale: "en-US",
+  },
+};
+
+function dictFor(idioma: Idioma): Strings {
+  if (idioma === "es") return DICT.es;
+  return DICT.en;
+}
+
 /**
  * Barra sticky inferior visible solo en móvil (lg:hidden).
  *
@@ -32,6 +64,7 @@ type Props = {
  * componente CalendarioReserva dentro.
  */
 export default function StickyReservaMovil({
+  idioma,
   precio,
   precioPorPersona,
   duracion,
@@ -51,6 +84,7 @@ export default function StickyReservaMovil({
   textoCancelacionHorasAntes,
   textoCancelacionGratuita,
 }: Props) {
+  const t = dictFor(idioma);
   const [visible, setVisible] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
 
@@ -90,7 +124,7 @@ export default function StickyReservaMovil({
     typeof numeroOpiniones === "number" &&
     numeroOpiniones > 0;
 
-  const ratingTextoValor = (ratingProveedor ?? 0).toLocaleString("es-ES", {
+  const ratingTextoValor = (ratingProveedor ?? 0).toLocaleString(t.locale, {
     minimumFractionDigits: 1,
     maximumFractionDigits: 1,
   });
@@ -98,7 +132,7 @@ export default function StickyReservaMovil({
   const ratingTextoOpiniones =
     numeroOpiniones === 1
       ? `1 ${textoOpiniones}`
-      : `${(numeroOpiniones ?? 0).toLocaleString("es-ES")} ${textoOpiniones}`;
+      : `${(numeroOpiniones ?? 0).toLocaleString(t.locale)} ${textoOpiniones}`;
 
   return (
     <>
@@ -107,7 +141,7 @@ export default function StickyReservaMovil({
           visible ? "translate-y-0" : "translate-y-full"
         }`}
         role="region"
-        aria-label="Reservar actividad"
+        aria-label={t.ariaBarra}
         aria-hidden={!visible}
       >
         <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
@@ -153,7 +187,7 @@ export default function StickyReservaMovil({
           onClick={() => setModalOpen(false)}
           role="dialog"
           aria-modal="true"
-          aria-label="Selección de fecha"
+          aria-label={t.ariaModal}
         >
           <div
             className="absolute inset-x-0 bottom-0 top-12 bg-slate-50 rounded-t-2xl overflow-y-auto animate-slide-up"
@@ -161,13 +195,13 @@ export default function StickyReservaMovil({
           >
             <div className="sticky top-0 bg-white border-b border-slate-200 px-4 py-3 flex items-center justify-between z-10">
               <span className="text-sm font-semibold text-slate-900">
-                Reservar tu visita
+                {t.headerModal}
               </span>
               <button
                 type="button"
                 onClick={() => setModalOpen(false)}
                 className="w-8 h-8 rounded-full hover:bg-slate-100 flex items-center justify-center text-slate-600 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
-                aria-label="Cerrar"
+                aria-label={t.ariaCerrar}
               >
                 ✕
               </button>
@@ -175,6 +209,7 @@ export default function StickyReservaMovil({
 
             <div className="p-4">
               <CalendarioReserva
+                idioma={idioma}
                 precio={precio}
                 precioPorPersona={precioPorPersona}
                 duracion={duracion}

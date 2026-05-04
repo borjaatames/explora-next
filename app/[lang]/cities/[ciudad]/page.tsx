@@ -5,6 +5,7 @@ import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
+import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { obtenerListaGuias } from "@/lib/guias";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -53,7 +54,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     alternates: {
       canonical: url,
-      languages: hreflangAlternates((l) => urlCiudad(l, params.ciudad)),
+      languages: hreflangAlternates((l) => {
+        const slugPareja = slugParejaCiudad(lang, params.ciudad, l);
+        return slugPareja ? urlCiudad(l, slugPareja) : null;
+      }),
     },
     openGraph: {
       type: "website",

@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Toledo desde Madrid en 1 día: escapada de tres culturas"
 descripcion: "Toledo en un día desde Madrid: qué visitar con criterio, cómo llegar (coche, AVE, autobús), qué evitar y por qué es la mejor escapada cerca de Madrid."
 categoria: "madrid"
@@ -17,6 +17,9 @@ keywords:
   - "toledo desde madrid"
   - "qué ver en toledo en un día"
   - "cómo ir a toledo desde madrid"
+slugs:
+  es: escapadas-desde-madrid-toledo
+  en: toledo-day-trip-from-madrid
 ---
 
 A 70 km de Madrid hay una ciudad medieval intacta. No es una recreación, no es un parque temático, no es una postal: es **Toledo**, la única ciudad europea donde judíos, musulmanes y cristianos convivieron durante siglos, dejando cada uno su huella en piedra. Y se puede ver todo en un día.

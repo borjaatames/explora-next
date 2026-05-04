@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Prado, Reina Sofía o Thyssen: a cuál ir si solo eliges uno"
 descripcion: "Comparativa honesta de los tres grandes museos de Madrid: Prado, Reina Sofía y Thyssen. Cuál elegir según tu perfil y cuál puedes saltar."
 categoria: "madrid"
@@ -17,6 +17,9 @@ keywords:
   - "comparativa museos madrid"
   - "prado vs thyssen"
   - "paseo del arte madrid"
+slugs:
+  es: prado-reina-sofia-thyssen-comparativa
+  en: prado-vs-reina-sofia-vs-thyssen
 ---
 
 Si solo tienes tiempo para un museo en Madrid, **ve al Prado**. Si tienes para dos, añade el Thyssen. El Reina Sofía está en el último puesto y solo merece el tiempo si te interesa de verdad el arte del siglo XX.

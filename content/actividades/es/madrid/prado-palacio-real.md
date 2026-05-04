@@ -101,6 +101,9 @@ numeroOpiniones: 1405
 publicada: true
 destacada: false
 fecha: "2026-05-02"
+slugs:
+  es: prado-palacio-real
+  en: prado-and-royal-palace
 ---
 
 ## Qué vas a ver

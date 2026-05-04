@@ -21,6 +21,15 @@ export type CiudadFrontmatter = {
   destacada?: boolean;
   orden?: number;
   keywords?: string[];
+
+  /**
+   * Mapa de slugs por idioma para esta ciudad. Ver `slugs` en
+   * `ActividadFrontmatter` para el patrón completo. Hoy todas las
+   * ciudades usan slugs invariantes ES (madrid, barcelona, sevilla,
+   * granada, salamanca), pero el campo se incluye por consistencia
+   * con guías y actividades.
+   */
+  slugs?: Partial<Record<Idioma, string>>;
 };
 
 export type CiudadListItem = CiudadFrontmatter & {
@@ -62,6 +71,7 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       destacada: fm.destacada || false,
       orden: fm.orden ?? 999,
       keywords: fm.keywords || [],
+      slugs: fm.slugs,
       idioma,
       url: urlCiudad(idioma, slug),
     });
@@ -97,6 +107,7 @@ export async function obtenerCiudad(
     destacada: fm.destacada || false,
     orden: fm.orden ?? 999,
     keywords: fm.keywords || [],
+    slugs: fm.slugs,
     idioma,
     url: urlCiudad(idioma, slug),
     contenidoHtml: procesado.toString(),
@@ -118,4 +129,14 @@ export function obtenerTodosLosCaminosCiudades(): {
     }
   }
   return caminos;
+}
+
+
+/**
+ * Comprueba si existe el archivo `.md` de una ciudad en el idioma dado.
+ * Ver `existeActividad` en `lib/actividades.ts` para el mismo patrón.
+ */
+export function existeCiudad(idioma: Idioma, slug: string): boolean {
+  const fullPath = path.join(directorioIdioma(idioma), `${slug}.md`);
+  return fs.existsSync(fullPath);
 }
