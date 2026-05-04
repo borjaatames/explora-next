@@ -1,3 +1,36 @@
+/**
+ * Middleware de internacionalización.
+ *
+ * INVARIANTE CRÍTICA — leer antes de modificar:
+ *
+ *   Este middleware NUNCA reescribe URLs explícitas distintas de "/".
+ *
+ *   Cualquier URL distinta de la home se sirve EXACTAMENTE en el idioma
+ *   que su path dicta:
+ *     - URL con prefijo `/en/...` → contenido EN.
+ *     - URL sin prefijo (`/ciudades/...`, `/guias/...`, etc.) → contenido ES.
+ *
+ *   La auto-detección de idioma por cookie/Accept-Language SOLO se aplica
+ *   en la home ("/"). Esto es deliberado: una URL profunda es siempre
+ *   intención explícita del usuario (click en LanguageSwitcher, link
+ *   compartido, navegación interna), y reescribirla rompe:
+ *     - El switcher de idioma (cookie EN forzaba que cualquier vuelta a
+ *       /ciudades/... fuese reescrita como /en/ciudades/... → 404).
+ *     - El sharing de links entre usuarios con preferencias distintas.
+ *     - El SEO: Googlebot ES no debe ser redirigido a /en por su
+ *       Accept-Language.
+ *
+ *   Histórico del bug: hasta el 4 mayo 2026, el caso 2 aplicaba redirect
+ *   por cookie a TODA URL sin prefijo. El switcher generaba el href
+ *   correcto, pero el middleware lo secuestraba antes de llegar al SSG.
+ *   Diagnóstico y fix: handoff-exploraspain-2026-05-04-noche-cierre.md.
+ *
+ *   Si necesitas redirigir una URL profunda por motivos no relacionados
+ *   con idioma (canonicalización de slugs, A/B testing, etc.), hazlo en
+ *   un middleware aparte o en `next.config.js > redirects`. NO añadas
+ *   excepciones al guard del caso 2.
+ */
+
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 import {
@@ -87,10 +120,9 @@ export function middleware(req: NextRequest) {
 
   // CASO 2: la URL no lleva prefijo de idioma → es contenido en español.
   //
-  // La auto-detección de idioma SOLO se aplica en la home ("/"), porque
-  // cualquier otra URL ES sin prefijo es una intención explícita del usuario
-  // (click en LanguageSwitcher, link compartido, navegación interna). Aplicar
-  // redirect en URLs profundas rompe el switcher y el sharing de links.
+  // Ver INVARIANTE CRÍTICA al inicio del archivo: la auto-detección SOLO
+  // se aplica en la home. Cualquier otra URL ES sin prefijo es intención
+  // explícita y se sirve tal cual.
   if (pathname !== "/") {
     return NextResponse.next();
   }
