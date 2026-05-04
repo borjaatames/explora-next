@@ -88,6 +88,21 @@ export type ActividadFrontmatter = {
   ciudad: string;
   descripcion: string;
 
+  /**
+   * Title HTML para SEO. Si no se define, se usa `titulo` como fallback.
+   * Útil cuando el H1 en pantalla y el <title> óptimo en SERP difieren
+   * (e.g. H1 corto y limpio vs <title> con marca y keyword extra).
+   * Recomendado: 50-60 caracteres incluyendo "| ExploraSpain".
+   */
+  metaTitle?: string;
+
+  /**
+   * Meta description HTML para SEO. Si no se define, se usa `descripcion`
+   * como fallback. Permite afinar el snippet de SERP sin tocar la copy
+   * editorial de la ficha. Recomendado: 150-160 caracteres con CTA.
+   */
+  metaDescription?: string;
+
   // Datos comerciales
   duracion: string;
   duracionMinutos?: number;
@@ -148,6 +163,12 @@ export type ActividadFrontmatter = {
   publicada: boolean;
   destacada?: boolean;
   fecha: string;
+  /**
+   * Fecha de última actualización editorial (ISO YYYY-MM-DD).
+   * Útil para señalar a Google que el contenido se mantiene fresco.
+   * Si no se define, no aparece en JSON-LD ni se muestra en pantalla.
+   */
+  fecha_actualizacion?: string;
 
   /**
    * Mapa de slugs por idioma para esta actividad. Permite que el sitemap
@@ -429,6 +450,8 @@ function construirListItem(
 
   return {
     titulo: fm.titulo || "Sin título",
+    metaTitle: fm.metaTitle,
+    metaDescription: fm.metaDescription,
     slug,
     ciudad,
     descripcion: fm.descripcion || "",
@@ -471,6 +494,7 @@ function construirListItem(
     publicada: true,
     destacada: fm.destacada || false,
     fecha: fm.fecha || "",
+    fecha_actualizacion: fm.fecha_actualizacion,
     slugs: fm.slugs,
 
     idioma,

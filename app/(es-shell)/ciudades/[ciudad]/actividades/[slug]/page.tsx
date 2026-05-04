@@ -52,8 +52,8 @@ export async function generateMetadata({
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
-    title: actividad.titulo,
-    description: actividad.descripcion,
+    title: actividad.metaTitle ?? actividad.titulo,
+    description: actividad.metaDescription ?? actividad.descripcion,
     keywords: actividad.keywords,
     robots: {
       index: allowIndexing,
@@ -551,6 +551,7 @@ function buildProductLd(
     description: actividad.descripcion,
     image: actividad.imagen ? [imagenAbsoluta] : undefined,
     category: actividad.categoria,
+    inLanguage: "es",
     url,
     offers: {
       "@type": "Offer",
@@ -571,6 +572,23 @@ function buildProductLd(
       reviewCount: actividad.numeroOpiniones,
     };
   }
+
+  // Review editorial: si la ficha tiene opinión propia de ExploraSpain,
+  // la declaramos como Review autoreferenciado para activar rich results.
+  // El campo opinionEditorial es la opinión real escrita por el editor,
+  // no una opinión agregada de usuarios (eso ya lo cubre aggregateRating).
+  if (actividad.opinionEditorial) {
+    ld.review = {
+      "@type": "Review",
+      author: {
+        "@type": "Organization",
+        name: "ExploraSpain",
+      },
+      reviewBody: actividad.opinionEditorial.trim(),
+      inLanguage: "es",
+    };
+  }
+
   return ld;
 }
 

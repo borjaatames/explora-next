@@ -54,8 +54,8 @@ export async function generateMetadata({
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
-    title: actividad.titulo,
-    description: actividad.descripcion,
+    title: actividad.metaTitle ?? actividad.titulo,
+    description: actividad.metaDescription ?? actividad.descripcion,
     keywords: actividad.keywords,
     robots: {
       index: allowIndexing,
@@ -570,6 +570,23 @@ function buildProductLd(
       reviewCount: actividad.numeroOpiniones,
     };
   }
+
+  // Editorial review: if the activity has an ExploraSpain editorial
+  // opinion, declare it as a self-referential Review to enable rich
+  // results. The opinionEditorial field is a real opinion written by
+  // the editor, not aggregated user reviews (those are in aggregateRating).
+  if (actividad.opinionEditorial) {
+    ld.review = {
+      "@type": "Review",
+      author: {
+        "@type": "Organization",
+        name: "ExploraSpain",
+      },
+      reviewBody: actividad.opinionEditorial.trim(),
+      inLanguage: "en",
+    };
+  }
+
   return ld;
 }
 
