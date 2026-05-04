@@ -85,16 +85,21 @@ export function middleware(req: NextRequest) {
     return res;
   }
 
-  // CASO 2: la URL no lleva prefijo de idioma → es contenido en español
-  // (idioma por defecto). Aquí hay que decidir si redirigimos al idioma
-  // del usuario (cookie o navegador) o le dejamos en español.
+  // CASO 2: la URL no lleva prefijo de idioma → es contenido en español.
+  //
+  // La auto-detección de idioma SOLO se aplica en la home ("/"), porque
+  // cualquier otra URL ES sin prefijo es una intención explícita del usuario
+  // (click en LanguageSwitcher, link compartido, navegación interna). Aplicar
+  // redirect en URLs profundas rompe el switcher y el sharing de links.
+  if (pathname !== "/") {
+    return NextResponse.next();
+  }
 
-  // Si el usuario tiene una cookie de preferencia explícita, la respetamos.
+  // En home: respetar cookie explícita, después detectar por navegador.
   const cookiePreferido = req.cookies.get(COOKIE_LOCALE)?.value;
   if (cookiePreferido && esIdiomaActivo(cookiePreferido)) {
     if (cookiePreferido !== IDIOMA_DEFECTO) {
-      const destino = `/${cookiePreferido}${pathname === "/" ? "" : pathname}`;
-      return NextResponse.redirect(new URL(destino, req.url), 307);
+      return NextResponse.redirect(new URL(`/${cookiePreferido}`, req.url), 307);
     }
     // cookie es "es" → dejar pasar tal cual.
     return NextResponse.next();
@@ -103,13 +108,11 @@ export function middleware(req: NextRequest) {
   // Sin cookie: detectar idioma del navegador.
   const idiomaNavegador = detectarIdiomaNavegador(req);
 
-  // Si el idioma del navegador está activo y no es el por defecto, redirigir.
   if (
     idiomaNavegador !== IDIOMA_DEFECTO &&
     (IDIOMAS_ACTIVOS as readonly string[]).includes(idiomaNavegador)
   ) {
-    const destino = `/${idiomaNavegador}${pathname === "/" ? "" : pathname}`;
-    const res = NextResponse.redirect(new URL(destino, req.url), 307);
+    const res = NextResponse.redirect(new URL(`/${idiomaNavegador}`, req.url), 307);
     res.cookies.set(COOKIE_LOCALE, idiomaNavegador, {
       path: "/",
       maxAge: 60 * 60 * 24 * 365,
@@ -118,6 +121,6 @@ export function middleware(req: NextRequest) {
     return res;
   }
 
-  // En cualquier otro caso, dejar pasar (contenido español sin prefijo).
+  // Navegador en español o no detectable → home ES tal cual.
   return NextResponse.next();
 }
