@@ -10,34 +10,30 @@ import {
   esIdiomaActivo,
 } from "@/lib/i18n/config";
 import type { Idioma } from "@/lib/i18n/types";
+import type { MapaParejas } from "@/lib/i18n/parejas";
 
 /**
- * Reemplaza el prefijo de idioma en un pathname por el del idioma destino.
- * /guias/madrid -> /en/guides/madrid (ojo: los slugs no se traducen aquí,
- * solo el prefijo de idioma; los segmentos traducibles los gestiona la
- * estructura de rutas).
+ * URL home del idioma destino. Fallback usado cuando la URL actual no
+ * está en el mapa (ruta no contemplada) o no tiene pareja en ese idioma.
  */
-function cambiarPrefijoIdioma(pathname: string, destino: Idioma): string {
-  const segmentos = pathname.split("/").filter(Boolean);
-  const primero = segmentos[0];
-  const yaTienePrefijo =
-    primero && esIdiomaActivo(primero) && primero !== IDIOMA_DEFECTO;
-
-  const resto = yaTienePrefijo ? segmentos.slice(1) : segmentos;
-  const restoPath = resto.length === 0 ? "" : "/" + resto.join("/");
-
-  if (destino === IDIOMA_DEFECTO) {
-    return restoPath || "/";
-  }
-  return `/${destino}${restoPath}`;
+function urlHomeIdioma(destino: Idioma): string {
+  return destino === IDIOMA_DEFECTO ? "/" : `/${destino}`;
 }
 
 /**
  * Selector de idioma autoreferencial (sin banderas).
- * Muestra cada idioma escrito en su propio idioma: "English", "Español", etc.
- * Se renderiza solo si hay más de un idioma activo.
+ *
+ * Resolución de la URL destino:
+ *   1. `usePathname()` da la ruta actual (sin search/hash).
+ *   2. Lookup en `mapaParejas` (generado en build, sólido y estático).
+ *   3. Si la entrada existe y declara el idioma destino → esa URL.
+ *   4. Si no, fallback a home del idioma destino.
  */
-export default function LanguageSwitcher() {
+type Props = {
+  mapaParejas: MapaParejas;
+};
+
+export default function LanguageSwitcher({ mapaParejas }: Props) {
   const pathname = usePathname() || "/";
   const [abierto, setAbierto] = useState(false);
   const wrapperRef = useRef<HTMLDivElement>(null);
@@ -55,10 +51,8 @@ export default function LanguageSwitcher() {
     return () => document.removeEventListener("mousedown", onClickFuera);
   }, []);
 
-  // Si solo hay un idioma activo, no renderizar nada.
   if (IDIOMAS_ACTIVOS.length <= 1) return null;
 
-  // Detectar idioma actual a partir del primer segmento del pathname.
   const primerSegmento = pathname.split("/").filter(Boolean)[0];
   const idiomaActual: Idioma =
     primerSegmento && esIdiomaActivo(primerSegmento)
@@ -66,6 +60,7 @@ export default function LanguageSwitcher() {
       : IDIOMA_DEFECTO;
 
   const etiquetaActual = IDIOMA_LABELS[idiomaActual];
+  const parejas = mapaParejas[pathname];
 
   return (
     <div ref={wrapperRef} className="relative">
@@ -98,8 +93,8 @@ export default function LanguageSwitcher() {
         >
           {IDIOMAS_ACTIVOS.map((lang) => {
             const etiqueta = IDIOMA_LABELS[lang];
-            const destino = cambiarPrefijoIdioma(pathname, lang);
             const seleccionado = lang === idiomaActual;
+            const destino = parejas?.[lang] ?? urlHomeIdioma(lang);
             return (
               <li key={lang} role="option" aria-selected={seleccionado}>
                 <Link

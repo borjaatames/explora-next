@@ -11,6 +11,7 @@ import {
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+import type { MapaParejas } from "@/lib/i18n/parejas";
 
 const DICT = {
   es: {
@@ -43,9 +44,10 @@ function urlHome(idioma: Idioma): string {
 
 type Props = {
   idioma: Idioma;
+  mapaParejas: MapaParejas;
 };
 
-export default function Navbar({ idioma }: Props) {
+export default function Navbar({ idioma, mapaParejas }: Props) {
   const t = DICT[idioma === "en" ? "en" : "es"];
 
   const enlaces = [
@@ -108,11 +110,11 @@ export default function Navbar({ idioma }: Props) {
               {e.label}
             </Link>
           ))}
-          <LanguageSwitcher />
+          <LanguageSwitcher mapaParejas={mapaParejas} />
         </nav>
 
         <div className="md:hidden flex items-center gap-1">
-          <LanguageSwitcher />
+          <LanguageSwitcher mapaParejas={mapaParejas} />
           <button
             type="button"
             onClick={() => setAbierto((v) => !v)}

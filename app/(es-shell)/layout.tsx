@@ -1,4 +1,4 @@
-import Navbar from "@/components/layout/Navbar";
+import NavbarServer from "@/components/layout/NavbarServer";
 import Footer from "@/components/layout/Footer";
 import CookieBanner from "@/components/CookieBanner";
 
@@ -7,7 +7,7 @@ import CookieBanner from "@/components/CookieBanner";
  * El route group `(es-shell)` no afecta a la URL: las páginas dentro
  * siguen sirviéndose en `/`, `/guias`, `/contacto`, etc.
  *
- * Monta Navbar/Footer/CookieBanner con idioma="es" explícito para
+ * Monta NavbarServer/Footer/CookieBanner con idioma="es" explícito para
  * desacoplar el shell del idioma servido en cada subárbol.
  */
 export default function EsShellLayout({
@@ -17,7 +17,7 @@ export default function EsShellLayout({
 }) {
   return (
     <>
-      <Navbar idioma="es" />
+      <NavbarServer idioma="es" />
       <div className="min-h-screen">{children}</div>
       <Footer idioma="es" />
       <CookieBanner idioma="es" />
