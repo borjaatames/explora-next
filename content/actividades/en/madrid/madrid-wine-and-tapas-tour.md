@@ -1,10 +1,11 @@
----
+﻿---
 titulo: "Madrid Tapas & Wine Walking Tour (Small Group)"
 slug: "madrid-wine-and-tapas-tour"
 ciudad: "madrid"
 descripcion: "A 3-hour small-group walking tour of Madrid's Literary Quarter. 12+ tapas at 4 local bars paired with Spanish wines. Max 12 people. From €77."
 
 slugs:
+  es: "tour-tapas-vinos-barrio-letras"
   en: "madrid-wine-and-tapas-tour"
 
 duracion: "3 hours"
