@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Visita guiada al Museo del Prado con entrada sin colas"
 slug: "tour-prado"
 ciudad: "madrid"
@@ -10,7 +10,7 @@ precioDesde: 39
 moneda: "EUR"
 idiomas: ["es", "en", "it"]
 proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/El-Prado-Museum-of-Madrid-Guided-Tour-Tickets-included-and-Skip-the-line/d566-8512P83"
+urlReserva: "https://www.viator.com/es-ES/tours/Madrid/El-Prado-Museum-of-Madrid-Guided-Tour-Tickets-included-and-Skip-the-line/d566-8512P83?pid=P00298823&mcid=42383&medium=link"
 cancelacionGratuita: true
 horasCancelacion: 24
 

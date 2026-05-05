@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Palacio Real y Prado: tour combinado"
 slug: "prado-palacio-real"
 ciudad: "madrid"
@@ -10,7 +10,7 @@ precioDesde: 72
 moneda: "EUR"
 idiomas: ["en", "es", "fr"]
 proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/El-Prado-Museum-and-Madrid-Royal-Palace-Guided-Tour-tickets-included/d566-8512P81"
+urlReserva: "https://www.viator.com/es-ES/tours/Madrid/El-Prado-Museum-and-Madrid-Royal-Palace-Guided-Tour-tickets-included/d566-8512P81?pid=P00298823&mcid=42383&medium=link"
 cancelacionGratuita: true
 horasCancelacion: 24
 

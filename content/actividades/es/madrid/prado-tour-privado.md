@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Tour privado del Prado con recogida en hotel"
 slug: "prado-tour-privado"
 ciudad: "madrid"
@@ -10,7 +10,7 @@ precioDesde: 125
 moneda: "EUR"
 idiomas: ["en", "es", "fr"]
 proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Private-Tour-2H-Prado-Museum/d566-144457P1"
+urlReserva: "https://www.viator.com/es-ES/tours/Madrid/Private-Tour-2H-Prado-Museum/d566-144457P1?pid=P00298823&mcid=42383&medium=link"
 cancelacionGratuita: true
 horasCancelacion: 24
 
