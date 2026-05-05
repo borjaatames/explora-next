@@ -46,19 +46,25 @@ app/
   aviso-legal/page.tsx
   privacidad/page.tsx
   cookies/page.tsx
-
 components/
   layout/
     Navbar.tsx
     Footer.tsx
-
 content/
   guias/
     madrid/
       madrid-en-3-dias.md   # Guías editoriales en Markdown
-
+  actividades/
+    _TEMPLATE.md            # Plantilla ficha ES
+    _TEMPLATE.en.md         # Plantilla ficha EN
+    es/                     # Fichas en español
+    en/                     # Fichas en inglés
+docs/
+  RUNBOOK-FICHAS.md         # Fuente de verdad para crear fichas
 lib/
   guias.ts                # Lectura y procesado de Markdown
+  actividades.ts          # Lectura de fichas de actividades
+  afiliados.ts            # Construcción de URLs de afiliado
 ```
 
 ## Cómo crear una nueva guía
@@ -88,6 +94,20 @@ keywords:
    `/guias` y en `/guias/madrid/madrid-gratis`.
 
 **`publicada: false`** oculta la guía aunque exista el fichero.
+
+## Cómo crear una nueva ficha de actividad
+
+**Antes de empezar**, lee el runbook editorial:
+
+📘 **[docs/RUNBOOK-FICHAS.md](./docs/RUNBOOK-FICHAS.md)** — fuente de verdad
+para crear, editar y publicar fichas. Incluye el contrato de URLs de afiliado
+(crítico: ES lleva `/es-ES/`, EN lleva `primaryLanguage=en`), el gate de
+verificación de idioma del guía, y el checklist pre-commit.
+
+Después, copia la plantilla:
+
+- ES: `content/actividades/_TEMPLATE.md` → `content/actividades/es/{ciudad}/{slug}.md`
+- EN: `content/actividades/_TEMPLATE.en.md` → `content/actividades/en/{city}/{slug}.md`
 
 ## Despliegue
 

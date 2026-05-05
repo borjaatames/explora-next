@@ -87,10 +87,20 @@ idiomas: ["es"]
 proveedor: "viator"
 
 # URL completa de Viator del producto CON tracking ya construido.
-# Formato ES: https://www.viator.com/tours/{Ciudad}/{Slug-Producto}/d566-{CÓDIGO}?pid=P00298823&mcid=42383&medium=link
 #
-# IMPORTANTE: el tracking se mete aquí literalmente. NO se añade en runtime.
-urlReserva: "<URL Viator completa con ?pid=P00298823&mcid=42383&medium=link>"
+# ⚠️  REGLA CRÍTICA — FICHA ES (esta plantilla):
+# La URL DEBE incluir /es-ES/ justo después de viator.com. Si no, el usuario
+# aterriza en Viator en inglés. Ver docs/RUNBOOK-FICHAS.md sección 2.
+#
+# Formato ES (correcto):
+#   https://www.viator.com/es-ES/tours/{Ciudad}/{Slug-Producto}/d566-{CÓDIGO}?pid=P00298823&mcid=42383&medium=link
+#
+# Formato ES (INCORRECTO — falta /es-ES/):
+#   https://www.viator.com/tours/{Ciudad}/{Slug-Producto}/d566-{CÓDIGO}?pid=...
+#
+# El tracking se escribe aquí literalmente. El código NO añade /es-ES/ ni
+# transforma el path en runtime: lo lee tal cual del .md.
+urlReserva: "<URL Viator con /es-ES/ + ?pid=P00298823&mcid=42383&medium=link>"
 
 # Cancelación: la mayoría de tours Viator tienen cancelación gratuita 24h.
 # Verificar en el PDF. Si NO la tiene, poner false y omitir horasCancelacion.
@@ -242,6 +252,20 @@ destacada: false
 
 # Fecha en formato ISO YYYY-MM-DD. Fecha de publicación, no de modificación.
 fecha: "<YYYY-MM-DD>"
+
+# ─── ✅ CHECKLIST PRE-COMMIT ───────────────────────────────────────────────
+# Antes de cambiar `publicada: false` a `publicada: true`, confirma:
+#
+#  [ ] Idioma del guía verificado en Viator (Español literal o "Español y X más").
+#  [ ] urlReserva incluye /es-ES/ justo después de viator.com.
+#  [ ] urlReserva tiene los 3 params: pid=P00298823, mcid=42383, medium=link.
+#  [ ] Datos sacados del PDF Viator, ninguno inventado.
+#  [ ] Si hay pareja EN, slugs.en declarado y archivo EN existe en disco.
+#  [ ] Categoría válida en lib/actividades.ts (cultural|gastronomico|aireLibre|nocturno|excursion|familiar).
+#  [ ] Imágenes existen en /public/images/actividades/{ciudad}/{lugar}/.
+#  [ ] `npm run build` pasa local (incluido audit de parejas).
+#
+# Runbook completo: docs/RUNBOOK-FICHAS.md
 ---
 
 ## Qué vas a ver

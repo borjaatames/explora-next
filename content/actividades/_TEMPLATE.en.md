@@ -87,11 +87,20 @@ idiomas: ["en"]
 proveedor: "viator"
 
 # Full Viator URL with tracking already built in.
-# Format EN: https://www.viator.com/tours/{City}/{Product-Slug}/d566-{CODE}?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 #
-# IMPORTANT: tracking goes here literally. It is NOT appended at runtime.
-# The `primaryLanguage=en` parameter forces Viator to load its site in EN
-# (better conversion for English-speaking visitors).
+# ⚠️  CRITICAL RULE — EN FICHA (this template):
+# The URL must NOT include /es-ES/. It is a neutral URL with primaryLanguage=en
+# in the query string so Viator displays in English. See
+# docs/RUNBOOK-FICHAS.md section 2.
+#
+# Correct EN format:
+#   https://www.viator.com/tours/{City}/{Product-Slug}/d566-{CODE}?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
+#
+# Wrong EN format (do NOT add /es-ES/ to EN listings):
+#   https://www.viator.com/es-ES/tours/...
+#
+# Tracking is hardcoded here. The runtime code does NOT transform the path:
+# it reads urlReserva literally from the .md.
 urlReserva: "<Full Viator URL with ?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en>"
 
 # Cancellation: most Viator tours offer free 24h cancellation.
@@ -244,6 +253,20 @@ destacada: false
 
 # ISO date YYYY-MM-DD. Publication date, not modification date.
 fecha: "<YYYY-MM-DD>"
+
+# ─── ✅ PRE-COMMIT CHECKLIST ───────────────────────────────────────────────
+# Before flipping `publicada: false` to `publicada: true`, confirm:
+#
+#  [ ] Guide language verified on Viator (English literal or "English and X more").
+#  [ ] urlReserva does NOT include /es-ES/ and DOES include primaryLanguage=en.
+#  [ ] urlReserva has all 4 params: pid=P00298823, mcid=42383, medium=link, primaryLanguage=en.
+#  [ ] Commercial data sourced from Viator PDF, nothing invented.
+#  [ ] If ES pair exists, slugs.es declared and ES file present on disk.
+#  [ ] Valid category from lib/actividades.ts (cultural|gastronomico|aireLibre|nocturno|excursion|familiar).
+#  [ ] Images exist in /public/images/actividades/{city}/{place}/.
+#  [ ] `npm run build` passes locally (incl. pair audit).
+#
+# Full runbook: docs/RUNBOOK-FICHAS.md
 ---
 
 ## What you'll see
