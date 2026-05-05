@@ -84,10 +84,11 @@ preguntasFrecuentes:
   - pregunta: "¿Y si dejé algo en el punto de salida?"
     respuesta: "Tenlo en cuenta antes de subirte: el bus de vuelta termina en Plaza de Oriente (centro de Madrid), no en la calle San Nicolás donde te recogió."
 
-variantes: []
+variantes:
+  - "excursion-toledo-segovia-avila"
 
 opinionEditorial: |
-  Es la opción acertada si tienes una mañana suelta en Madrid y quieres ver Toledo sin liarte con el AVE, los aparcamientos disuasorios o el horario de la Catedral. El autobús sale, te lleva, te pasea, te trae. Por 29 € no encuentras forma más eficiente de quitarte Toledo de la lista.
+  Es la opción acertada si tienes una mañana suelta en Madrid y quieres ver Toledo sin liarte con el AVE, los aparcamientos disuasorios o el horario de la Catedral. El autobús sale, te lleva, te pasea, te trae. Por 29 €  no encuentras forma más eficiente de quitarte Toledo de la lista.
 
   La pega real: 5 horas no son 5 horas en Toledo, son 5 horas totales contando ida y vuelta. Eso se traduce en alrededor de 3 horas reales en la ciudad, casi todas guiadas. No esperes tiempo libre para perderte por las callejuelas, comprar un mazapán con calma o sentarte a tomar algo en el Mirador del Valle. Si lo que buscas es eso, vete a la opción de día completo o coge el AVE por libre.
 
@@ -121,7 +122,7 @@ destacada: false
 
 fecha: "2026-05-05"
 
-# ─── ✅ CHECKLIST PRE-COMMIT ──────────────────────────────────────────────
+# ─── ✅ CHECKLIST PRE-COMMIT ──────────────────────────────────────────────────
 # Antes de cambiar `publicada: false` a `publicada: true`, confirma:
 #
 #  [x] Idioma del guía verificado en Viator (Español + Inglés en grupos separados).

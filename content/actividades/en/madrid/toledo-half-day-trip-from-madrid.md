@@ -84,7 +84,8 @@ preguntasFrecuentes:
   - pregunta: "What if I left something at the meeting point?"
     respuesta: "Plan for it: the return coach ends at Plaza de Oriente in central Madrid, not back at Calle San Nicolás where you boarded."
 
-variantes: []
+variantes:
+  - "toledo-segovia-avila-from-madrid"
 
 opinionEditorial: |
   This is the right call if you have a free morning in Madrid and want to tick Toledo off the list without dealing with the AVE high-speed train, peripheral parking lots or Cathedral opening hours. The coach picks you up, drives you, walks you, brings you back. At €29 it's hard to beat as the most efficient way to see Toledo in half a day.
@@ -121,7 +122,7 @@ destacada: false
 
 fecha: "2026-05-05"
 
-# ─── ✅ PRE-COMMIT CHECKLIST ──────────────────────────────────────────────
+# ─── ✅ PRE-COMMIT CHECKLIST ──────────────────────────────────────────────────
 # Before flipping `publicada: false` to `publicada: true`, confirm:
 #
 #  [x] Guide language verified on Viator (English + Spanish in separate groups).
