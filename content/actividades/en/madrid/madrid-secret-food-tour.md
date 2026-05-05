@@ -1,10 +1,11 @@
----
+﻿---
 titulo: "Madrid Secret Food Tour: Tapas & A Hidden Dish"
 slug: "madrid-secret-food-tour"
 ciudad: "madrid"
 descripcion: "A 2 or 3-hour tapas tour through Madrid's historic centre with a 'secret dish' as the finale. 5-star rated, small group, choose between express and deep-dive formats."
 
 slugs:
+  es: "tour-tapas-centro-madrid"
   en: "madrid-secret-food-tour"
 
 duracion: "2 to 3 hours"
