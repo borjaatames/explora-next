@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import Link from 'next/link';
 import { useCallback } from 'react';
 import type { SemTour } from '@/lib/sem/types';
 import { construirUrlViator } from '@/lib/sem/url-builder';
@@ -10,15 +11,22 @@ type Props = {
   landingSlug: string;
 };
 
+const FICHA_BASE = '/ciudades/madrid/actividades';
+
 /**
- * Tarjeta de un tour. Al hacer clic en "Reservar":
- * 1. Captura gclid del sessionStorage (puesto por GclidCapture)
- * 2. Construye URL de afiliado Viator con tracking
- * 3. Dispara evento outbound_click a GA4
- * 4. Redirige a Viator
+ * Tarjeta de un tour en una landing SEM.
+ *
+ * Plan A — Si el tour declara `ficha_propia_slug`, el CTA "Ver detalles"
+ * apunta a la ficha propia (interno, sin abandonar el dominio). La conversión
+ * a Viator ocurre en la propia ficha.
+ *
+ * Fallback — Si no hay `ficha_propia_slug`, el CTA "Reservar" apunta a
+ * Viator directo con tracking de afiliado y gclid (comportamiento original).
  */
 export default function SemTourCard({ tour, landingSlug }: Props) {
-  const handleClick = useCallback(
+  const tieneFichaPropia = Boolean(tour.ficha_propia_slug);
+
+  const handleClickExterno = useCallback(
     (e: React.MouseEvent<HTMLAnchorElement>) => {
       e.preventDefault();
 
@@ -62,6 +70,31 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
     [tour, landingSlug],
   );
 
+  const handleClickInterno = useCallback(() => {
+    if (typeof window === 'undefined' || !('gtag' in window)) return;
+
+    const gtag = (
+      window as unknown as {
+        gtag: (
+          event: string,
+          name: string,
+          params: Record<string, unknown>,
+        ) => void;
+      }
+    ).gtag;
+
+    gtag('event', 'sem_to_ficha_click', {
+      event_category: 'sem',
+      event_label: tour.id,
+      value: tour.precio_desde,
+      currency: 'EUR',
+      item_id: tour.viator_product_id,
+      item_name: tour.titulo,
+      landing_slug: landingSlug,
+      ficha_slug: tour.ficha_propia_slug,
+    });
+  }, [tour, landingSlug]);
+
   // Estilos según estado: ancla > premium > normal
   const cardClass = tour.ancla
     ? 'relative flex flex-col overflow-hidden rounded-lg border-2 border-sky-500 bg-white transition-all duration-150'
@@ -69,11 +102,11 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
       ? 'relative flex flex-col overflow-hidden rounded-lg border border-amber-400 bg-white transition-all duration-150 hover:border-amber-500 hover:shadow-md'
       : 'relative flex flex-col overflow-hidden rounded-lg border border-stone-200 bg-white transition-all duration-150 hover:border-stone-300 hover:shadow-md';
 
+  const ctaBaseClass =
+    'inline-flex items-center gap-1 rounded-md bg-sky-500 px-3.5 py-2 text-sm font-medium text-white transition-colors hover:bg-sky-600 focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2';
+
   return (
-    <article
-      className={cardClass}
-      data-categoria={tour.categoria}
-    >
+    <article className={cardClass} data-categoria={tour.categoria}>
       {/* Banda superior "MÁS RESERVADO" si es la ancla */}
       {tour.ancla && (
         <div className="bg-sky-500 px-3 py-1 text-center text-[10px] font-semibold uppercase tracking-wider text-white">
@@ -134,21 +167,32 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
             </span>
           </div>
 
-          <a
-            href={tour.viator_url}
-            onClick={handleClick}
-            rel="sponsored noopener noreferrer"
-            target="_blank"
-            className="inline-flex items-center gap-1 rounded-md bg-sky-500 px-3.5 py-2 text-sm font-medium text-white transition-colors hover:bg-sky-600 focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2"
-          >
-            Reservar
-            <ArrowRightIcon />
-          </a>
+          {tieneFichaPropia ? (
+            <Link
+              href={`${FICHA_BASE}/${tour.ficha_propia_slug}`}
+              onClick={handleClickInterno}
+              className={ctaBaseClass}
+            >
+              Ver detalles
+              <ArrowRightIcon />
+            </Link>
+          ) : (
+            <a
+              href={tour.viator_url}
+              onClick={handleClickExterno}
+              rel="sponsored noopener noreferrer"
+              target="_blank"
+              className={ctaBaseClass}
+            >
+              Reservar
+              <ArrowRightIcon />
+            </a>
+          )}
         </div>
 
-        <p className="mt-2 text-[11px] text-stone-400">
-          Continúa en Viator
-        </p>
+        {!tieneFichaPropia && (
+          <p className="mt-2 text-[11px] text-stone-400">Continúa en Viator</p>
+        )}
       </div>
     </article>
   );

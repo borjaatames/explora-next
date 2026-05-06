@@ -20,7 +20,7 @@ export type SemTour = {
   rating: number;
   /** Número de reseñas verificadas */
   resenas: number;
-  /** Product ID de Viator (ej: "d566-2140JTEMA20") */
+  /** Product ID de Viator (ej: "2140JTEMA20") */
   viator_product_id: string;
   /** URL del producto en Viator (sin parámetros de afiliado) */
   viator_url: string;
@@ -34,6 +34,12 @@ export type SemTour = {
   ancla?: boolean;
   /** Si es premium, se renderiza con borde amber sutil */
   premium?: boolean;
+  /**
+   * Slug de la ficha propia en `/ciudades/madrid/actividades/{slug}`.
+   * Cuando existe, el CTA "Ver detalles" apunta a la ficha propia (Plan A).
+   * Cuando no existe, fallback a Viator directo con tracking.
+   */
+  ficha_propia_slug?: string;
 };
 
 export type SemFAQ = {
