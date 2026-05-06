@@ -77,7 +77,7 @@ preguntasFrecuentes:
   - pregunta: "Can I cancel if something comes up?"
     respuesta: "Yes. Free cancellation up to 24 hours before departure with full refund. After that window no refund applies."
 
-variantes: ["toledo-half-day-trip-from-madrid", "toledo-segovia-avila-from-madrid"]
+variantes: ["toledo-half-day-trip-from-madrid", "toledo-private-tour-from-madrid", "toledo-segovia-avila-from-madrid"]
 
 opinionEditorial: |
   This is the right call if you want to see Toledo properly in a single day from Madrid without renting a car or sorting trains and tickets yourself. The 8 hours give you time for the Cathedral with calm, the Jewish quarter, Santo Tomé, and a free slot for lunch and wandering. €79 is competitive for a full day with the Cathedral ticket included, run by an operator with 7,000+ reviews at 4.8 stars.

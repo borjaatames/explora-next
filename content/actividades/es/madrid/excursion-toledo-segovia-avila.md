@@ -85,6 +85,7 @@ preguntasFrecuentes:
 variantes:
   - "excursion-toledo-medio-dia"
   - "excursion-toledo-dia-completo"
+  - "excursion-toledo-tour-privado"
 
 opinionEditorial: |
   Esta es la excursión más ambiciosa que cubrimos: tres ciudades Patrimonio de la Humanidad —Segovia, Ávila y Toledo— en una sola jornada de 12 horas desde Madrid. El argumento de venta es honesto: si tienes pocos días en Madrid y quieres ver lo máximo del entorno sin alquilar coche, este formato lo resuelve mejor que ningún otro. Las 9.118 opiniones con 4,8 estrellas indican que la logística está bien engrasada después de muchos años operando este producto.

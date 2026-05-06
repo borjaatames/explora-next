@@ -86,6 +86,7 @@ preguntasFrecuentes:
 
 variantes:
   - "toledo-full-day-from-madrid"
+  - "toledo-private-tour-from-madrid"
   - "toledo-segovia-avila-from-madrid"
 
 opinionEditorial: |

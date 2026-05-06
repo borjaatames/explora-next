@@ -86,6 +86,7 @@ preguntasFrecuentes:
 
 variantes:
   - "excursion-toledo-dia-completo"
+  - "excursion-toledo-tour-privado"
   - "excursion-toledo-segovia-avila"
 
 opinionEditorial: |

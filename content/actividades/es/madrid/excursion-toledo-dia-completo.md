@@ -77,7 +77,7 @@ preguntasFrecuentes:
   - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
     respuesta: "Sí. Cancelación gratuita hasta 24 horas antes de la salida con reembolso completo. Después de ese plazo no hay reembolso."
 
-variantes: ["excursion-toledo-medio-dia", "excursion-toledo-segovia-avila"]
+variantes: ["excursion-toledo-medio-dia", "excursion-toledo-tour-privado", "excursion-toledo-segovia-avila"]
 
 opinionEditorial: |
   Es la opción acertada si quieres conocer Toledo a fondo en un solo día sin alquilar coche ni hacer logística. Las 8 horas dan margen para la Catedral con calma, la judería, Santo Tomé y un rato libre para comer y pasear. El precio (79 €) es competitivo para un día completo con entrada a la Catedral incluida y operador con más de 7.000 opiniones a 4,8 estrellas.
