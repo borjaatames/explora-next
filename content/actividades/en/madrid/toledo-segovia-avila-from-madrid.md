@@ -84,6 +84,7 @@ preguntasFrecuentes:
 
 variantes:
   - "toledo-half-day-trip-from-madrid"
+  - "toledo-full-day-from-madrid"
 
 opinionEditorial: |
   This is the most ambitious day trip we cover: three UNESCO World Heritage cities — Segovia, Ávila and Toledo — in a single 12-hour day from Madrid. The pitch is honest: if you have only a few days in Madrid and want to maximise what you see beyond the city without renting a car, this format does it better than any other. The 9,118 reviews at 4.8 stars suggest the logistics are well-oiled after years of running the product.

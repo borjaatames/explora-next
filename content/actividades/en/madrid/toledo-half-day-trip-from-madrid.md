@@ -85,6 +85,7 @@ preguntasFrecuentes:
     respuesta: "Plan for it: the return coach ends at Plaza de Oriente in central Madrid, not back at Calle San Nicolás where you boarded."
 
 variantes:
+  - "toledo-full-day-from-madrid"
   - "toledo-segovia-avila-from-madrid"
 
 opinionEditorial: |

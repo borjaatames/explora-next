@@ -85,6 +85,7 @@ preguntasFrecuentes:
     respuesta: "Tenlo en cuenta antes de subirte: el bus de vuelta termina en Plaza de Oriente (centro de Madrid), no en la calle San Nicolás donde te recogió."
 
 variantes:
+  - "excursion-toledo-dia-completo"
   - "excursion-toledo-segovia-avila"
 
 opinionEditorial: |
