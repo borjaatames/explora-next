@@ -27,6 +27,7 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
         disallow: [
           "/api/",
+          "/sem/",
           "/_next/",
           "/admin/",
           "/*.backup$",
@@ -38,3 +39,5 @@ export default function robots(): MetadataRoute.Robots {
     host: SITE_URL,
   };
 }
+
+
