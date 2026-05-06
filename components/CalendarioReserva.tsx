@@ -1,7 +1,8 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { construirUrlViatorFicha } from "@/lib/sem/url-builder-ficha";
 
 type Props = {
   idioma: Idioma;
@@ -113,6 +114,12 @@ function dictFor(idioma: Idioma): Strings {
  *
  * Se mantiene la selección visual para anclar emocionalmente al
  * usuario con una fecha concreta antes de pulsar Reservar.
+ *
+ * Tracking SEM: al hacer clic en Reservar, el handler lee el `gclid`
+ * de sessionStorage (capturado en landings SEM por GclidCapture) y lo
+ * añade a la URL Viator junto con el `campaign=ficha-{slug}-{gclid}`.
+ * Si no hay `gclid` (usuario orgánico/directo) se omite y la URL final
+ * solo lleva los params estándar de afiliado.
  */
 export default function CalendarioReserva({
   idioma,
@@ -165,6 +172,47 @@ export default function CalendarioReserva({
     if (esPasado(dia, hoy)) return;
     setFechaSeleccionada(dia);
   }
+
+  // Click handler para CTA Reservar: añade gclid + campaign y redirige.
+  const handleReservarClick = useCallback(
+    (e: React.MouseEvent<HTMLAnchorElement>) => {
+      e.preventDefault();
+
+      if (typeof window === "undefined") return;
+
+      const gclid =
+        window.sessionStorage.getItem("gclid") ?? undefined;
+
+      // Slug = último segmento de la ruta (ej. "excursion-toledo-dia-completo")
+      const slug =
+        window.location.pathname.split("/").filter(Boolean).pop() ?? "unknown";
+
+      const url = construirUrlViatorFicha(urlReservaBase, slug, gclid);
+
+      if ("gtag" in window) {
+        const gtag = (
+          window as unknown as {
+            gtag: (
+              event: string,
+              name: string,
+              params: Record<string, unknown>,
+            ) => void;
+          }
+        ).gtag;
+
+        gtag("event", "outbound_click", {
+          event_category: "ficha",
+          event_label: slug,
+          item_name: slug,
+          ficha_slug: slug,
+          gclid: gclid ?? null,
+        });
+      }
+
+      window.open(url, "_blank", "noopener,noreferrer");
+    },
+    [urlReservaBase]
+  );
 
   // Rating como dato agregado del proveedor (Viator). NO se renderizan
   // opiniones individuales: la API de afiliación lo prohíbe y, además,
@@ -269,6 +317,7 @@ export default function CalendarioReserva({
 
         <a
           href={urlReservaBase}
+          onClick={handleReservarClick}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="mt-5 inline-flex w-full items-center justify-center rounded-lg bg-amber-400 hover:bg-amber-500 px-5 py-3 text-base font-semibold text-slate-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-amber-500"
@@ -308,9 +357,9 @@ export default function CalendarioReserva({
   );
 }
 
-/* ─────────────────────────────────────────────────────────────────────
+/* ─────────────────────────────────────────────────────────────────────────
    Subcomponentes
-   ───────────────────────────────────────────────────────────────────── */
+   ───────────────────────────────────────────────────────────────────────── */
 
 type BotonDiaProps = {
   dia: Date | null;
@@ -357,9 +406,9 @@ function BotonDia({
   );
 }
 
-/* ─────────────────────────────────────────────────────────────────────
+/* ─────────────────────────────────────────────────────────────────────────
    Helpers
-   ───────────────────────────────────────────────────────────────────── */
+   ───────────────────────────────────────────────────────────────────────── */
 
 function construirGridMes(year: number, month: number): (Date | null)[] {
   const primerDia = new Date(year, month, 1);
