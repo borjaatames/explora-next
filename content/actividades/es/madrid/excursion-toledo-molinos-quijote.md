@@ -6,6 +6,7 @@ descripcion: "Excursión combinada Toledo + Consuegra (los molinos de Don Quijot
 
 slugs:
   es: "excursion-toledo-molinos-quijote"
+  en: "toledo-and-don-quixote-windmills-from-madrid"
 
 duracion: "9 horas"
 duracionMinutos: 540

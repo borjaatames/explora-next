@@ -6,6 +6,7 @@ descripcion: "Experiencia en Toledo con tour guiado por el casco antiguo, visita
 
 slugs:
   es: "excursion-toledo-vinos-tapas"
+  en: "toledo-with-winery-and-wine-tasting-from-madrid"
 
 duracion: "8 horas"
 duracionMinutos: 480

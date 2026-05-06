@@ -6,6 +6,7 @@ descripcion: "Excursión a Toledo desde Madrid en tren AVE de alta velocidad (30
 
 slugs:
   es: "excursion-toledo-ave-tren"
+  en: "toledo-by-high-speed-train-from-madrid"
 
 duracion: "5 horas"
 duracionMinutos: 300

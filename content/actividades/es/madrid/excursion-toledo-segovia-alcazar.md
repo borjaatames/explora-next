@@ -6,6 +6,7 @@ descripcion: "Excursión combinada a Toledo y Segovia desde Madrid en un día. I
 
 slugs:
   es: "excursion-toledo-segovia-alcazar"
+  en: "toledo-and-segovia-with-alcazar-from-madrid"
 
 duracion: "12 horas"
 duracionMinutos: 720

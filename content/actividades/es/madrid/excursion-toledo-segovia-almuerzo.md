@@ -6,6 +6,7 @@ descripcion: "Excursión combinada a Toledo y Segovia con Amigo Tours. Catedral 
 
 slugs:
   es: "excursion-toledo-segovia-almuerzo"
+  en: "toledo-and-segovia-with-lunch-from-madrid"
 
 duracion: "11 horas"
 duracionMinutos: 660
