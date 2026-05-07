@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import { obtenerLandingSem } from '@/lib/sem/landings';
 import GclidCapture from '@/components/sem/GclidCapture';
 import SemHero from '@/components/sem/SemHero';
-import SemBannerGarantia from '@/components/sem/SemBannerGarantia';
 import SemComparador from '@/components/sem/SemComparador';
 import SemTourGrid from '@/components/sem/SemTourGrid';
 import SemGarantias from '@/components/sem/SemGarantias';
@@ -49,8 +48,6 @@ export default function Page() {
         pruebaSocialTitular={landing.prueba_social_titular}
         trustSignals={landing.trust_signals}
       />
-
-      <SemBannerGarantia texto={landing.banner_garantia} />
 
       <SemComparador
         titulo={landing.comparador.titulo}
