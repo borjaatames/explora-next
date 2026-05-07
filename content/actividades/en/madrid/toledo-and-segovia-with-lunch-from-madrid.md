@@ -127,6 +127,10 @@ galeria:
     alt: "San MartÃ­n bridge in Toledo with the old town in the background"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
     alt: "Mudejar arch covered in ivy in a street of Toledo's Jewish quarter"
+  - src: "/images/actividades/madrid/segovia/alcazar-proa.webp"
+    alt: "AlcÃ¡zar of Segovia, main faÃ§ade with the Torre del Homenaje"
+  - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
+    alt: "AlcÃ¡zar of Segovia complex with its towers and slate spires"
 ratingProveedor: 4.6
 numeroOpiniones: 4637
 

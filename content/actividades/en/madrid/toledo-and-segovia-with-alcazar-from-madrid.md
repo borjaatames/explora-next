@@ -117,6 +117,12 @@ galeria:
     alt: "Mudejar arch in a street of Toledo's Jewish quarter"
   - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
     alt: "Mudejar facade detail in Toledo's old town"
+  - src: "/images/actividades/madrid/segovia/alcazar-proa.webp"
+    alt: "AlcÃ¡zar of Segovia, main faÃ§ade with the Torre del Homenaje"
+  - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
+    alt: "AlcÃ¡zar of Segovia complex with its towers and slate spires"
+  - src: "/images/actividades/madrid/segovia/alcazar-sala-galera.webp"
+    alt: "Golden mudÃ©jar coffered ceiling of the Sala de la Galera at the AlcÃ¡zar of Segovia"
 ratingProveedor: 4.5
 numeroOpiniones: 856
 

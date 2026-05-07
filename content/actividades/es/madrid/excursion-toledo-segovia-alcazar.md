@@ -115,6 +115,12 @@ galeria:
     alt: "Sala interior del AlcÃ¡zar de Segovia con retrato real y sillerÃ­a gÃ³tica"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
     alt: "Arco mudÃ©jar en una calle del barrio judÃ­o de Toledo"
+  - src: "/images/actividades/madrid/segovia/alcazar-proa.webp"
+    alt: "AlcÃ¡zar de Segovia, fachada principal con la Torre del Homenaje"
+  - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
+    alt: "Conjunto del AlcÃ¡zar de Segovia con sus torres y chapiteles de pizarra"
+  - src: "/images/actividades/madrid/segovia/alcazar-sala-galera.webp"
+    alt: "Artesonado mudÃ©jar dorado de la Sala de la Galera del AlcÃ¡zar de Segovia"
 ratingProveedor: 4.5
 numeroOpiniones: 856
 

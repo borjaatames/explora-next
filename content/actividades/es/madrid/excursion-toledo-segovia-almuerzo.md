@@ -125,6 +125,10 @@ galeria:
     alt: "Detalle de los arcos del Acueducto romano de Segovia"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
     alt: "Arco mudÃ©jar cubierto de hiedra en una calle del barrio judÃ­o de Toledo"
+  - src: "/images/actividades/madrid/segovia/alcazar-proa.webp"
+    alt: "AlcÃ¡zar de Segovia, fachada principal con la Torre del Homenaje"
+  - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
+    alt: "Conjunto del AlcÃ¡zar de Segovia con sus torres y chapiteles de pizarra"
 ratingProveedor: 4.6
 numeroOpiniones: 4637
 

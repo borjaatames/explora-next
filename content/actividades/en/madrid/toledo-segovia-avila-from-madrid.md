@@ -114,6 +114,10 @@ galeria:
     alt: "Interior room of the AlcÃ¡zar of Segovia with royal portrait and Gothic seating"
   - src: "/images/actividades/madrid/toledo/callejon-tipico.webp"
     alt: "Typical alley in Toledo's historic quarter"
+  - src: "/images/actividades/madrid/segovia/alcazar-proa.webp"
+    alt: "AlcÃ¡zar of Segovia, main faÃ§ade with the Torre del Homenaje"
+  - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
+    alt: "AlcÃ¡zar of Segovia complex with its towers and slate spires"
 ratingProveedor: 4.8
 numeroOpiniones: 9118
 
