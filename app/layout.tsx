@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
+import Script from "next/script";
 import Analytics from "@/components/Analytics";
 import "./globals.css";
 
@@ -62,12 +63,13 @@ export const metadata: Metadata = {
 /**
  * RootLayout global. NO monta Navbar/Footer/CookieBanner — eso lo hace
  * cada layout segmentado:
- *   - app/(es-shell)/layout.tsx → shell ES
+ *   - app/(es-shell)/layout.tsx → shell ES (home, guías, ciudades)
  *   - app/[lang]/layout.tsx     → shell EN
+ *   - app/sem/layout.tsx        → shell SEM (solo CookieBanner, sin nav/footer)
  *
- * El atributo `<html lang="es">` es estático porque cada subárbol que
- * necesite otro lang lo sobrescribe con `<div lang="...">` en su layout.
- * Esto mantiene SSG en todas las páginas (no usamos `headers()`).
+ * Inicializa Consent Mode v2 con todos los parámetros en "denied" antes de
+ * que cargue gtag.js. Esto cumple GDPR y permite que Google Ads reciba
+ * señales modeladas aunque el usuario rechace cookies.
  */
 export default function RootLayout({
   children,
@@ -76,6 +78,27 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es" className={`${inter.variable} ${playfair.variable}`}>
+      <head>
+        <Script id="consent-default" strategy="beforeInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            window.gtag = gtag;
+            gtag('consent', 'default', {
+              'ad_storage': 'denied',
+              'ad_user_data': 'denied',
+              'ad_personalization': 'denied',
+              'analytics_storage': 'denied',
+              'functionality_storage': 'denied',
+              'personalization_storage': 'denied',
+              'security_storage': 'granted',
+              'wait_for_update': 500
+            });
+            gtag('set', 'ads_data_redaction', true);
+            gtag('set', 'url_passthrough', true);
+          `}
+        </Script>
+      </head>
       <body className="font-inter bg-white text-slate-900 antialiased">
         {children}
         <Analytics gaId={gaId} />

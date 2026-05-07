@@ -1,44 +1,54 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import {
   leerConsentimiento,
   COOKIE_CONSENT_EVENT,
-  type EstadoConsentimiento,
+  emitirConsentGtag,
 } from "@/lib/cookies";
 
 type Props = {
   /**
    * ID de medición de GA4 (formato G-XXXXXXXXXX). Si no está definido,
-   * el componente no carga GA4 ni renderiza nada.
+   * el componente no renderiza nada.
    */
   gaId: string | undefined;
 };
 
 /**
- * Renderiza GA4 si y solo si el usuario ha dado consentimiento explícito.
+ * Renderiza GA4 con Consent Mode v2.
  *
- * El componente se rehidrata escuchando el evento custom que dispara
- * `lib/cookies.ts`, así si el usuario cambia su decisión (p.ej. desde
- * /cookies con un botón de reiniciar), GA4 se monta o desmonta sin
- * recargar la página.
+ * A diferencia de la versión anterior, gtag.js se carga SIEMPRE (cuando
+ * hay gaId). El control de cookies se hace vía gtag('consent', 'update', ...).
  *
- * Cuando se desmonta, GoogleAnalytics de @next/third-parties retira el
- * script del DOM. Las cookies _ga ya puestas se conservan hasta que el
- * navegador las expire o el usuario las borre (Next no puede eliminarlas
- * desde otro origen).
+ * Flujo:
+ *   1. app/layout.tsx pre-inicializa consent en "denied" antes que nada (script inline).
+ *   2. Aquí montamos GoogleAnalytics → gtag.js carga.
+ *   3. Si el usuario ya había decidido en una visita anterior, sincronizamos
+ *      el consent con su decisión guardada (granted/denied).
+ *   4. Cuando el usuario interactúa con el banner, COOKIE_CONSENT_EVENT
+ *      dispara una actualización del consent.
+ *
+ * Beneficio: aunque el usuario rechace, GA4 recibe pings sin cookies y
+ * Google modela conversiones agregadas (clave para Google Ads).
  */
 export default function Analytics({ gaId }: Props) {
-  const [estado, setEstado] = useState<EstadoConsentimiento>("pending");
-  const [hidratado, setHidratado] = useState(false);
-
   useEffect(() => {
-    setEstado(leerConsentimiento());
-    setHidratado(true);
+    // Sincroniza el consent al cargar: si el usuario ya había decidido en
+    // una sesión anterior, gtag debe saberlo. Si está en "pending", el
+    // default "denied" del script inline en layout.tsx sigue activo.
+    const estado = leerConsentimiento();
+    if (estado === "granted" || estado === "denied") {
+      emitirConsentGtag(estado);
+    }
 
+    // Reacciona a cambios futuros (botones del banner, página /cookies).
     function alCambiar() {
-      setEstado(leerConsentimiento());
+      const nuevoEstado = leerConsentimiento();
+      if (nuevoEstado === "granted" || nuevoEstado === "denied") {
+        emitirConsentGtag(nuevoEstado);
+      }
     }
 
     window.addEventListener(COOKIE_CONSENT_EVENT, alCambiar);
@@ -47,12 +57,7 @@ export default function Analytics({ gaId }: Props) {
     };
   }, []);
 
-  // No renderizar GA4 hasta haber leído el estado real desde localStorage.
-  // Así evitamos un flash donde GA4 podría cargarse momentáneamente antes
-  // de saber que el usuario lo había rechazado.
-  if (!hidratado) return null;
   if (!gaId) return null;
-  if (estado !== "granted") return null;
 
   return <GoogleAnalytics gaId={gaId} />;
 }

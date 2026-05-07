@@ -1,14 +1,17 @@
 /**
- * Gestión del consentimiento de cookies (RGPD).
+ * Gestión del consentimiento de cookies (RGPD) + Consent Mode v2.
  *
  * El estado vive en localStorage bajo la clave documentada en la página
  * /cookies. El nombre debe coincidir con lo que dice la política para que
  * el usuario pueda inspeccionarla manualmente si quiere verificarla.
  *
  * Estados posibles:
- *   - "granted": el usuario aceptó cookies de análisis (GA4 puede cargar)
- *   - "denied": el usuario rechazó (GA4 NO carga, ni se ponen cookies _ga)
- *   - "pending": no hay decisión (banner debe aparecer)
+ *   - "granted": el usuario aceptó cookies de análisis (GA4 recibe datos
+ *                identificables y puede escribir cookies _ga)
+ *   - "denied": el usuario rechazó (GA4 sigue cargado pero sin cookies;
+ *               envía pings agregados/modelados a Google)
+ *   - "pending": no hay decisión (banner debe aparecer; consent default
+ *                "denied" del script en layout.tsx sigue activo)
  *
  * El consentimiento expira a los 180 días (recomendación AEPD para
  * pedir reconsentimiento). Tras ese plazo vuelve a "pending" y el banner
@@ -31,6 +34,12 @@ type RegistroConsentimiento = {
   /** Timestamp en ms de cuándo se otorgó/denegó. */
   fecha: number;
 };
+
+type GtagFn = (
+  command: string,
+  action: string,
+  params: Record<string, unknown>,
+) => void;
 
 /**
  * Lee el estado actual desde localStorage. Devuelve "pending" si no hay
@@ -69,9 +78,35 @@ export function leerConsentimiento(): EstadoConsentimiento {
 }
 
 /**
- * Guarda la decisión del usuario y dispara el evento global para que
- * cualquier componente que escuche reaccione (típicamente el componente
- * Analytics que carga/descarga GA4).
+ * Emite la actualización de Consent Mode v2 a gtag.
+ *
+ * - "granted" → analytics y publicidad activos (cookies _ga, identificación normal).
+ * - "denied" → modo cookieless: gtag.js sigue corriendo y envía pings,
+ *   pero Google modela conversiones agregadas en lugar de identificar al usuario.
+ *
+ * Si gtag aún no está disponible (carrera en primer render), no pasa nada:
+ * el default "denied" del script inline en app/layout.tsx ya está activo.
+ */
+export function emitirConsentGtag(estado: "granted" | "denied"): void {
+  if (typeof window === "undefined") return;
+  if (!("gtag" in window)) return;
+
+  const gtag = (window as unknown as { gtag: GtagFn }).gtag;
+
+  gtag("consent", "update", {
+    ad_storage: estado,
+    ad_user_data: estado,
+    ad_personalization: estado,
+    analytics_storage: estado,
+    functionality_storage: estado,
+    personalization_storage: estado,
+    // security_storage siempre granted: solo cookies de seguridad esenciales.
+  });
+}
+
+/**
+ * Guarda la decisión del usuario, emite Consent Mode v2 update y dispara
+ * el evento global para que cualquier componente que escuche reaccione.
  */
 export function guardarConsentimiento(estado: "granted" | "denied"): void {
   if (typeof window === "undefined") return;
@@ -84,8 +119,9 @@ export function guardarConsentimiento(estado: "granted" | "denied"): void {
   try {
     window.localStorage.setItem(
       COOKIE_CONSENT_KEY,
-      JSON.stringify(registro)
+      JSON.stringify(registro),
     );
+    emitirConsentGtag(estado);
     window.dispatchEvent(new CustomEvent(COOKIE_CONSENT_EVENT));
   } catch {
     // localStorage puede fallar en navegación privada estricta. Silencioso.
@@ -95,11 +131,14 @@ export function guardarConsentimiento(estado: "granted" | "denied"): void {
 /**
  * Borra el consentimiento previo. La página /cookies puede usar esto
  * para ofrecer un botón "Cambiar mi decisión".
+ *
+ * Tras el reset, el consent vuelve al default "denied" del script inline.
  */
 export function reiniciarConsentimiento(): void {
   if (typeof window === "undefined") return;
   try {
     window.localStorage.removeItem(COOKIE_CONSENT_KEY);
+    emitirConsentGtag("denied");
     window.dispatchEvent(new CustomEvent(COOKIE_CONSENT_EVENT));
   } catch {
     // Silencioso.
