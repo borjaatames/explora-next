@@ -118,6 +118,14 @@ galeria:
     alt: "AlcÃ¡zar of Segovia, main faÃ§ade with the Torre del Homenaje"
   - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
     alt: "AlcÃ¡zar of Segovia complex with its towers and slate spires"
+  - src: "/images/actividades/madrid/avila/avila-panoramica.webp"
+    alt: "Panoramic view of walled Ãvila with the cathedral rising above the rooftops"
+  - src: "/images/actividades/madrid/avila/avila-catedral-adarve.webp"
+    alt: "Cathedral of Ãvila seen from the wall walkway"
+  - src: "/images/actividades/madrid/avila/avila-muralla-torreones.webp"
+    alt: "Side perspective of the walls of Ãvila with several cylindrical towers in a row"
+  - src: "/images/actividades/madrid/avila/avila-muralla-nocturna.webp"
+    alt: "Walls of Ãvila lit at night with towers and bell tower in the background"
 ratingProveedor: 4.8
 numeroOpiniones: 9118
 

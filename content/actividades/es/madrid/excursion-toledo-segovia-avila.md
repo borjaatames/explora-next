@@ -118,6 +118,14 @@ galeria:
     alt: "AlcÃ¡zar de Segovia, fachada principal con la Torre del Homenaje"
   - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
     alt: "Conjunto del AlcÃ¡zar de Segovia con sus torres y chapiteles de pizarra"
+  - src: "/images/actividades/madrid/avila/avila-panoramica.webp"
+    alt: "Vista panorÃ¡mica de Ãvila amurallada con la catedral asomando entre los tejados"
+  - src: "/images/actividades/madrid/avila/avila-catedral-adarve.webp"
+    alt: "Catedral del Salvador de Ãvila vista desde el adarve de la muralla"
+  - src: "/images/actividades/madrid/avila/avila-muralla-torreones.webp"
+    alt: "Perspectiva lateral de la muralla de Ãvila con varios torreones cilÃ­ndricos en fila"
+  - src: "/images/actividades/madrid/avila/avila-muralla-nocturna.webp"
+    alt: "Muralla de Ãvila iluminada de noche con torreones y campanario al fondo"
 ratingProveedor: 4.8
 numeroOpiniones: 9118
 
