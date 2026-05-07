@@ -24,31 +24,27 @@ export default function SemHero({
         className="pointer-events-none absolute -bottom-20 -left-20 h-56 w-56 rounded-full bg-white/5"
         aria-hidden="true"
       />
-
       <div className="relative mx-auto max-w-3xl text-center">
         {/* Pill amber con la prueba social masiva */}
         <div className="mb-6 inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3.5 py-1.5 text-xs font-semibold text-slate-900 shadow-sm">
           <StarIcon className="h-3.5 w-3.5 text-slate-900" />
           <span>{pruebaSocialTitular}</span>
         </div>
-
         {/* H1 sobre fondo azul */}
         <h1 className="font-playfair text-3xl font-bold leading-tight tracking-tight text-white sm:text-4xl lg:text-[2.5rem]">
           {titulo}
         </h1>
-
         <p className="mx-auto mt-4 max-w-xl text-sm text-sky-50 sm:text-base">
           {subtitulo}
         </p>
-
-        {/* Trust signals translúcidos sobre el azul, con iconos amber */}
+        {/* Trust signals amber sólidos para máxima atención del usuario SEM */}
         <ul className="mt-6 flex flex-wrap items-center justify-center gap-2">
           {trustSignals.map((signal) => (
             <li
               key={signal.texto}
-              className="inline-flex items-center gap-1.5 rounded-full border border-white/25 bg-white/15 px-3 py-1.5 text-xs text-white backdrop-blur-sm"
+              className="inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3 py-1.5 text-xs font-semibold text-slate-900"
             >
-              <CheckIcon className="h-3.5 w-3.5 text-amber-300" />
+              <CheckIcon className="h-3.5 w-3.5 text-slate-900" />
               {signal.texto}
             </li>
           ))}

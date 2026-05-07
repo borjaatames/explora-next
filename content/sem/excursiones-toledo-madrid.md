@@ -14,8 +14,8 @@ meta_descripcion: "Compara las 9 excursiones a Toledo desde Madrid mejor valorad
 
 trust_signals:
   - texto: "Cancela 24 h antes"
-  - texto: "Pagas solo si vas"
   - texto: "Tickets en el móvil"
+  - texto: "Atención 24/7"
 
 comparador:
   titulo: "¿Cuál te encaja?"
