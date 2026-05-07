@@ -4,10 +4,10 @@ type Props = {
 
 export default function SemBannerGarantia({ texto }: Props) {
   return (
-    <div className="border-b border-amber-300 bg-amber-100 px-4 py-3 sm:px-6 lg:px-8">
+    <div className="bg-amber-400 px-4 py-3 text-slate-900 sm:px-6 lg:px-8">
       <div className="mx-auto flex max-w-3xl items-center justify-center gap-3 text-center">
-        <ShieldIcon className="h-5 w-5 flex-shrink-0 text-amber-700" />
-        <p className="text-sm text-amber-900">
+        <ShieldIcon className="h-5 w-5 flex-shrink-0 text-slate-900" />
+        <p className="text-sm">
           <strong className="font-semibold">Reserva sin riesgo:</strong>{' '}
           {texto.replace(/^Reserva sin riesgo:\s*/i, '')}
         </p>

@@ -27,17 +27,17 @@ export default function SemHero({
 
       <div className="relative mx-auto max-w-3xl text-center">
         {/* Pill amber con la prueba social masiva */}
-        <div className="mb-6 inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3.5 py-1.5 text-xs font-semibold text-amber-950 shadow-sm">
-          <StarIcon className="h-3.5 w-3.5 text-amber-900" />
+        <div className="mb-6 inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3.5 py-1.5 text-xs font-semibold text-slate-900 shadow-sm">
+          <StarIcon className="h-3.5 w-3.5 text-slate-900" />
           <span>{pruebaSocialTitular}</span>
         </div>
 
         {/* H1 sobre fondo azul */}
-        <h1 className="font-playfair text-3xl font-medium leading-tight tracking-tight text-white sm:text-4xl lg:text-[2.5rem]">
+        <h1 className="font-playfair text-3xl font-bold leading-tight tracking-tight text-white sm:text-4xl lg:text-[2.5rem]">
           {titulo}
         </h1>
 
-        <p className="mx-auto mt-4 max-w-xl text-sm text-white/90 sm:text-base">
+        <p className="mx-auto mt-4 max-w-xl text-sm text-sky-50 sm:text-base">
           {subtitulo}
         </p>
 

@@ -9,7 +9,7 @@ export default function SemGarantias({ titulo, items }: Props) {
   return (
     <section className="border-y border-sky-200 bg-sky-50 px-4 py-12 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-5xl">
-        <h2 className="text-center font-playfair text-xl font-medium text-sky-950 sm:text-2xl">
+        <h2 className="text-center font-playfair text-xl font-bold text-slate-900 sm:text-2xl">
           {titulo}
         </h2>
 
@@ -23,10 +23,10 @@ export default function SemGarantias({ titulo, items }: Props) {
                 <GarantiaIcon name={item.icono} />
               </div>
               <div>
-                <p className="text-sm font-semibold text-sky-950">
+                <p className="text-sm font-semibold text-slate-900">
                   {item.titulo}
                 </p>
-                <p className="mt-1 text-xs text-stone-600">
+                <p className="mt-1 text-xs text-slate-600">
                   {item.subtitulo}
                 </p>
               </div>

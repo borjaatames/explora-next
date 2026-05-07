@@ -23,9 +23,9 @@ export default function SemComparador({ titulo, categorias }: Props) {
   };
 
   return (
-    <section className="border-b border-stone-200 bg-white px-4 py-5 sm:px-6 lg:px-8">
+    <section className="border-b border-slate-200 bg-white px-4 py-5 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-5xl">
-        <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-stone-500">
+        <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">
           {titulo}
         </p>
 
@@ -40,8 +40,8 @@ export default function SemComparador({ titulo, categorias }: Props) {
                 onClick={() => handleClick(cat.categoria)}
                 className={
                   isDestacada
-                    ? 'flex flex-col items-center rounded-lg bg-sky-500 px-3 py-3 text-center shadow-md shadow-sky-500/30 transition hover:bg-sky-600 focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2'
-                    : 'flex flex-col items-center rounded-lg border border-stone-200 bg-stone-50 px-3 py-3 text-center transition hover:border-stone-300 hover:bg-stone-100 focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2'
+                    ? 'flex flex-col items-center rounded-lg bg-sky-500 px-3 py-3 text-center shadow-md shadow-sky-500/30 transition-colors hover:bg-sky-600 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2'
+                    : 'flex flex-col items-center rounded-lg border border-slate-200 bg-slate-50 px-3 py-3 text-center transition-colors hover:border-sky-400 hover:bg-slate-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2'
                 }
               >
                 <CategoryIcon
@@ -49,14 +49,14 @@ export default function SemComparador({ titulo, categorias }: Props) {
                   className={
                     isDestacada
                       ? 'h-5 w-5 text-white'
-                      : 'h-5 w-5 text-stone-600'
+                      : 'h-5 w-5 text-slate-600'
                   }
                 />
                 <span
                   className={
                     isDestacada
                       ? 'mt-1.5 text-sm font-semibold text-white'
-                      : 'mt-1.5 text-sm font-medium text-stone-900'
+                      : 'mt-1.5 text-sm font-semibold text-slate-900'
                   }
                 >
                   {cat.label}
@@ -64,8 +64,8 @@ export default function SemComparador({ titulo, categorias }: Props) {
                 <span
                   className={
                     isDestacada
-                      ? 'text-xs text-white/85'
-                      : 'text-xs text-stone-500'
+                      ? 'text-xs text-sky-50'
+                      : 'text-xs text-slate-500'
                   }
                 >
                   Desde {cat.precio_desde} €

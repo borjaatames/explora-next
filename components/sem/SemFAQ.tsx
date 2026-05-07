@@ -12,7 +12,7 @@ export default function SemFAQ({ titulo, items }: Props) {
   return (
     <section className="bg-white px-4 py-12 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-3xl">
-        <h2 className="font-playfair text-xl font-medium text-stone-900 sm:text-2xl">
+        <h2 className="font-playfair text-xl font-bold text-slate-900 sm:text-2xl">
           {titulo}
         </h2>
 
@@ -40,21 +40,21 @@ function FAQItem({
   const [abierto, setAbierto] = useState(false);
 
   return (
-    <li className="overflow-hidden rounded-md border border-stone-200 border-l-4 border-l-amber-400 bg-white">
+    <li className="overflow-hidden rounded-lg border border-slate-200 border-l-4 border-l-amber-400 bg-white">
       <button
         type="button"
         onClick={() => setAbierto((s) => !s)}
         aria-expanded={abierto}
-        className="flex w-full items-center justify-between gap-4 p-4 text-left focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2"
+        className="flex w-full items-center justify-between gap-4 p-4 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
       >
-        <span className="text-sm font-medium text-stone-900 sm:text-base">
+        <span className="text-sm font-semibold text-slate-900 sm:text-base">
           {pregunta}
         </span>
         <ChevronIcon abierto={abierto} />
       </button>
 
       {abierto && (
-        <div className="border-t border-stone-200 p-4 text-sm leading-relaxed text-stone-700 sm:text-base">
+        <div className="border-t border-slate-200 p-4 text-sm leading-relaxed text-slate-700 sm:text-base">
           {respuesta}
         </div>
       )}
@@ -65,7 +65,7 @@ function FAQItem({
 function ChevronIcon({ abierto }: { abierto: boolean }) {
   return (
     <svg
-      className={`h-5 w-5 flex-shrink-0 text-amber-700 transition-transform duration-200 ${
+      className={`h-5 w-5 flex-shrink-0 text-amber-600 transition-transform duration-200 ${
         abierto ? 'rotate-180' : ''
       }`}
       viewBox="0 0 24 24"

@@ -27,13 +27,13 @@ export default function SemCTAFinal({ titulo, subtitulo, textoBoton }: Props) {
       />
 
       <div className="relative mx-auto max-w-3xl">
-        <h2 className="font-playfair text-lg font-medium sm:text-xl">{titulo}</h2>
-        <p className="mt-2 text-sm text-white/90">{subtitulo}</p>
+        <h2 className="font-playfair text-lg font-bold sm:text-xl">{titulo}</h2>
+        <p className="mt-2 text-sm text-sky-50">{subtitulo}</p>
 
         <button
           type="button"
           onClick={handleClick}
-          className="mt-6 inline-flex items-center gap-2 rounded-md bg-amber-400 px-7 py-3 text-sm font-semibold text-amber-950 shadow-md transition-colors hover:bg-amber-500 focus:outline-none focus:ring-2 focus:ring-amber-300 focus:ring-offset-2 focus:ring-offset-sky-500"
+          className="mt-6 inline-flex items-center gap-2 rounded-lg bg-amber-400 px-7 py-3 text-sm font-semibold text-slate-900 shadow-md transition-colors hover:bg-amber-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 focus-visible:ring-offset-sky-500"
         >
           {textoBoton}
           <ArrowRightIcon />

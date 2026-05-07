@@ -22,6 +22,10 @@ const FICHA_BASE = '/ciudades/madrid/actividades';
  *
  * Fallback — Si no hay `ficha_propia_slug`, el CTA "Reservar" apunta a
  * Viator directo con tracking de afiliado y gclid (comportamiento original).
+ *
+ * UX — La tarjeta entera es clickable mediante un overlay `<span absolute inset-0>`
+ * dentro del `<Link>`/`<a>`. Esto permite seleccionar texto, mantiene un único
+ * enlace para lectores de pantalla y deja sitio a futuros elementos interactivos.
  */
 export default function SemTourCard({ tour, landingSlug }: Props) {
   const tieneFichaPropia = Boolean(tour.ficha_propia_slug);
@@ -97,38 +101,42 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
 
   // Estilos según estado: ancla > premium > normal
   const cardClass = tour.ancla
-    ? 'relative flex flex-col overflow-hidden rounded-lg border-2 border-sky-500 bg-white transition-all duration-150'
+    ? 'group relative flex cursor-pointer flex-col overflow-hidden rounded-lg border-2 border-sky-500 bg-white transition-all hover:shadow-md'
     : tour.premium
-      ? 'relative flex flex-col overflow-hidden rounded-lg border border-amber-400 bg-white transition-all duration-150 hover:border-amber-500 hover:shadow-md'
-      : 'relative flex flex-col overflow-hidden rounded-lg border border-stone-200 bg-white transition-all duration-150 hover:border-stone-300 hover:shadow-md';
+      ? 'group relative flex cursor-pointer flex-col overflow-hidden rounded-lg border border-amber-400 bg-white transition-all hover:border-amber-500 hover:shadow-md'
+      : 'group relative flex cursor-pointer flex-col overflow-hidden rounded-lg border border-slate-200 bg-white transition-all hover:border-sky-400 hover:shadow-md';
 
   const ctaBaseClass =
-    'inline-flex items-center gap-1 rounded-md bg-sky-500 px-3.5 py-2 text-sm font-medium text-white transition-colors hover:bg-sky-600 focus:outline-none focus:ring-2 focus:ring-sky-400 focus:ring-offset-2';
+    'relative inline-flex items-center gap-1 rounded-lg bg-amber-400 px-3.5 py-2 text-sm font-semibold text-slate-900 transition-colors hover:bg-amber-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2';
+
+  const overlaySpan = (
+    <span className="absolute inset-0 z-0" aria-hidden="true" />
+  );
 
   return (
     <article className={cardClass} data-categoria={tour.categoria}>
       {/* Banda superior "MÁS RESERVADO" si es la ancla */}
       {tour.ancla && (
-        <div className="bg-sky-500 px-3 py-1 text-center text-[10px] font-semibold uppercase tracking-wider text-white">
+        <div className="bg-sky-500 px-3 py-1 text-center text-xs font-semibold uppercase tracking-wider text-white">
           ★ Más reservado · {tour.resenas.toLocaleString('es-ES')} viajeros
         </div>
       )}
 
       {/* Badge "RECOMENDADO" amber si es ancla */}
       {tour.ancla && (
-        <div className="absolute right-3 top-10 z-10 rounded bg-amber-400 px-2 py-1 text-[10px] font-semibold uppercase tracking-wider text-amber-950 shadow-sm">
+        <div className="absolute right-3 top-10 z-10 rounded bg-amber-400 px-2 py-1 text-xs font-semibold uppercase tracking-wider text-slate-900 shadow-sm">
           Recomendado
         </div>
       )}
 
       {/* Badge "PREMIUM" amber si es premium */}
       {tour.premium && (
-        <div className="absolute right-3 top-3 z-10 rounded bg-amber-400 px-2 py-1 text-[10px] font-semibold uppercase tracking-wider text-amber-950 shadow-sm">
+        <div className="absolute right-3 top-3 z-10 rounded bg-amber-400 px-2 py-1 text-xs font-semibold uppercase tracking-wider text-slate-900 shadow-sm">
           Premium
         </div>
       )}
 
-      <div className="relative aspect-[16/10] overflow-hidden bg-stone-100">
+      <div className="relative aspect-[16/10] overflow-hidden bg-slate-100">
         <Image
           src={tour.imagen}
           alt={tour.imagen_alt}
@@ -138,43 +146,16 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
         />
       </div>
 
-      <div className="flex flex-1 flex-col p-4">
-        <h3 className="text-base font-medium leading-snug text-stone-900">
-          {tour.titulo}
-        </h3>
-
-        <p className="mt-1 text-sm leading-snug text-stone-600">
-          {tour.descripcion}
-        </p>
-
-        <p className="mt-2 text-xs text-stone-500">{tour.operador}</p>
-
-        <div className="mt-3 flex items-center gap-1.5 text-sm">
-          <StarIcon />
-          <span className="font-medium text-stone-900">
-            {tour.rating.toFixed(1)}
-          </span>
-          <span className="text-stone-500">
-            ({tour.resenas.toLocaleString('es-ES')} opiniones)
-          </span>
-        </div>
-
-        <div className="mt-auto flex items-end justify-between pt-4">
-          <div>
-            <span className="text-xs text-stone-500">Desde </span>
-            <span className="text-lg font-medium text-stone-900">
-              {tour.precio_desde} €
-            </span>
-          </div>
-
+      <div className="relative flex flex-1 flex-col p-4">
+        <h3 className="text-base font-semibold leading-snug text-slate-900">
           {tieneFichaPropia ? (
             <Link
               href={`${FICHA_BASE}/${tour.ficha_propia_slug}`}
               onClick={handleClickInterno}
-              className={ctaBaseClass}
+              className="focus-visible:outline-none focus-visible:underline"
             >
-              Ver detalles
-              <ArrowRightIcon />
+              {overlaySpan}
+              <span className="relative">{tour.titulo}</span>
             </Link>
           ) : (
             <a
@@ -182,16 +163,46 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
               onClick={handleClickExterno}
               rel="sponsored noopener noreferrer"
               target="_blank"
-              className={ctaBaseClass}
+              className="focus-visible:outline-none focus-visible:underline"
             >
-              Reservar
-              <ArrowRightIcon />
+              {overlaySpan}
+              <span className="relative">{tour.titulo}</span>
             </a>
           )}
+        </h3>
+
+        <p className="mt-1 text-sm leading-snug text-slate-600">
+          {tour.descripcion}
+        </p>
+
+        <p className="mt-2 text-xs text-slate-500">{tour.operador}</p>
+
+        <div className="mt-3 flex items-center gap-1.5 text-sm">
+          <StarIcon />
+          <span className="font-semibold text-slate-900">
+            {tour.rating.toFixed(1)}
+          </span>
+          <span className="text-slate-500">
+            ({tour.resenas.toLocaleString('es-ES')} opiniones)
+          </span>
+        </div>
+
+        <div className="mt-auto flex items-end justify-between pt-4">
+          <div>
+            <span className="text-xs text-slate-500">Desde </span>
+            <span className="text-lg font-semibold text-slate-900">
+              {tour.precio_desde} €
+            </span>
+          </div>
+
+          <span className={ctaBaseClass} aria-hidden="true">
+            Ver detalles
+            <ArrowRightIcon />
+          </span>
         </div>
 
         {!tieneFichaPropia && (
-          <p className="mt-2 text-[11px] text-stone-400">Continúa en Viator</p>
+          <p className="mt-2 text-xs text-slate-400">Continúa en Viator</p>
         )}
       </div>
     </article>

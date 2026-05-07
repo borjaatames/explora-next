@@ -85,7 +85,7 @@ export default function SemStickyMobile({
     <div className="fixed inset-x-0 bottom-0 z-40 bg-sky-500 shadow-[0_-2px_8px_rgba(0,0,0,0.1)] md:hidden">
       <div className="flex items-center justify-between gap-3 px-4 py-2.5">
         <div className="min-w-0 flex-1">
-          <p className="text-[10px] font-semibold uppercase tracking-wider text-white/80">
+          <p className="text-xs font-semibold uppercase tracking-wider text-sky-100">
             Más reservado
           </p>
           <p className="truncate text-sm font-semibold text-white">
@@ -98,7 +98,7 @@ export default function SemStickyMobile({
           onClick={handleClick}
           rel="sponsored noopener noreferrer"
           target="_blank"
-          className="flex-shrink-0 rounded-md bg-amber-400 px-4 py-2 text-sm font-semibold text-amber-950 hover:bg-amber-500 focus:outline-none focus:ring-2 focus:ring-amber-300 focus:ring-offset-2 focus:ring-offset-sky-500"
+          className="flex-shrink-0 rounded-lg bg-amber-400 px-4 py-2 text-sm font-semibold text-slate-900 transition-colors hover:bg-amber-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 focus-visible:ring-offset-sky-500"
         >
           {textoBoton}
         </a>
