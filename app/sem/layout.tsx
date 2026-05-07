@@ -1,16 +1,26 @@
-import type { Metadata } from 'next';
-import type { ReactNode } from 'react';
+import type { Metadata } from "next";
+import type { ReactNode } from "react";
+import CookieBanner from "@/components/CookieBanner";
 
 /**
- * Layout de las landings SEM.
+ * Shell para todas las landings SEM (`/sem/*`).
  *
- * Aplica `noindex, nofollow` globalmente a todas las rutas /sem/*.
- * Esto evita que Google las indexe (no compiten con SEO orgánico).
+ * Cumple tres funciones:
  *
- * No incluye Navbar ni Footer porque las landings SEM se renderizan
- * sin distracciones para maximizar la conversión del tráfico de pago.
+ * 1. Aplica `noindex, nofollow` global a todas las rutas /sem/* para que
+ *    Google no las indexe (no compiten con SEO orgánico). Esto está bien
+ *    documentado en SEM: las landings de campañas pagadas no deben
+ *    aparecer en resultados orgánicos.
+ *
+ * 2. Monta el CookieBanner. Sin él, GA4 no recibe consentimiento y no
+ *    se puede medir conversión SEM (crítico para optimizar Google Ads).
+ *    El consent default "denied" del script en app/layout.tsx ya cumple
+ *    GDPR de partida; el banner permite al usuario otorgar granted.
+ *
+ * 3. NO monta Navbar ni Footer: las landings SEM son experiencias
+ *    cerradas. La única salida deseable es el CTA hacia ficha-propia o
+ *    Viator. Cualquier nav/footer extra abre fugas que reducen conversión.
  */
-
 export const metadata: Metadata = {
   robots: {
     index: false,
@@ -26,8 +36,9 @@ export const metadata: Metadata = {
 
 export default function SemLayout({ children }: { children: ReactNode }) {
   return (
-    <div className="min-h-screen bg-stone-50 text-stone-900 antialiased">
+    <div className="min-h-screen bg-slate-50 text-slate-900 antialiased">
       {children}
+      <CookieBanner idioma="es" />
     </div>
   );
 }
