@@ -99,17 +99,22 @@ opinionEditorial: |
 categoria: "excursion"
 keywords: ["excursion toledo segovia", "tour toledo segovia desde madrid", "alcazar segovia desde madrid", "dos ciudades unesco un dia", "excursion combinada madrid"]
 
-imagen: "/images/actividades/madrid/toledo/toledo-segovia-alcazar.webp"
-imagenAlt: "Alcázar de Segovia sobre la roca con torres y tejados de pizarra"
+imagen: "/images/actividades/madrid/segovia/alcazar-lateral.webp"
+imagenAlt: "AlcÃ¡zar de Segovia con sus torres de tejado de pizarra"
 
 galeria:
+  - src: "/images/actividades/madrid/segovia/acueducto-hero.webp"
+    alt: "Vista panorÃ¡mica del Acueducto romano de Segovia con la sierra de Guadarrama al fondo"
   - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Vista panorámica del casco histórico de Toledo al atardecer"
+    alt: "Vista panorÃ¡mica del casco histÃ³rico de Toledo al atardecer"
+  - src: "/images/actividades/madrid/segovia/acueducto-arcos.webp"
+    alt: "Detalle de los arcos del Acueducto romano de Segovia"
   - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "Puente de San Martín de Toledo con el casco antiguo al fondo"
+    alt: "Puente de San MartÃ­n de Toledo con el casco antiguo al fondo"
+  - src: "/images/actividades/madrid/segovia/alcazar-sala-reyes.webp"
+    alt: "Sala interior del AlcÃ¡zar de Segovia con retrato real y sillerÃ­a gÃ³tica"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Arco mudéjar en una calle del barrio judío de Toledo"
-
+    alt: "Arco mudÃ©jar en una calle del barrio judÃ­o de Toledo"
 ratingProveedor: 4.5
 numeroOpiniones: 856
 

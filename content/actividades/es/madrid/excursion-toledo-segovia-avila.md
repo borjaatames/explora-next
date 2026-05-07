@@ -97,16 +97,23 @@ categoria: "excursion"
 keywords: ["excursion toledo segovia avila", "tres ciudades en un dia desde madrid", "segovia avila toledo desde madrid", "excursion patrimonio humanidad madrid", "que ver cerca de madrid en un dia"]
 
 imagen: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-imagenAlt: "Vista de Toledo desde el puente con el Alcázar al fondo"
+imagenAlt: "Vista de Toledo desde el puente con el AlcÃ¡zar al fondo"
 
 galeria:
+  - src: "/images/actividades/madrid/segovia/acueducto-hero.webp"
+    alt: "Vista panorÃ¡mica del Acueducto romano de Segovia con la sierra de Guadarrama al fondo"
+  - src: "/images/actividades/madrid/segovia/alcazar-lateral.webp"
+    alt: "AlcÃ¡zar de Segovia con sus torres de tejado de pizarra"
   - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
     alt: "Casco antiguo de Toledo al atardecer"
+  - src: "/images/actividades/madrid/segovia/acueducto-arcos.webp"
+    alt: "Detalle de los arcos del Acueducto romano de Segovia"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Arco mudéjar cubierto de hiedra en Toledo"
+    alt: "Arco mudÃ©jar cubierto de hiedra en Toledo"
+  - src: "/images/actividades/madrid/segovia/alcazar-sala-reyes.webp"
+    alt: "Sala interior del AlcÃ¡zar de Segovia con retrato real y sillerÃ­a gÃ³tica"
   - src: "/images/actividades/madrid/toledo/callejon-tipico.webp"
-    alt: "Callejón típico del casco histórico de Toledo"
-
+    alt: "CallejÃ³n tÃ­pico del casco histÃ³rico de Toledo"
 ratingProveedor: 4.8
 numeroOpiniones: 9118
 

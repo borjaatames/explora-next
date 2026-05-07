@@ -109,17 +109,24 @@ opinionEditorial: |
 categoria: "excursion"
 keywords: ["toledo and segovia with lunch", "amigo tours toledo segovia", "toledo segovia damascene", "alcazar segovia entry", "cheap combined day trip madrid"]
 
-imagen: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-imagenAlt: "Mudejar facade detail in Toledo's old town"
+imagen: "/images/actividades/madrid/segovia/acueducto-hero.webp"
+imagenAlt: "Panoramic view of Segovia's Roman Aqueduct with the Guadarrama mountains in the background"
 
 galeria:
+  - src: "/images/actividades/madrid/segovia/alcazar-lateral.webp"
+    alt: "AlcÃ¡zar of Segovia with its slate-roofed turrets"
   - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
     alt: "Panoramic view of Toledo's old town at sunset"
+  - src: "/images/actividades/madrid/segovia/alcazar-sala-reyes.webp"
+    alt: "Interior room of the AlcÃ¡zar of Segovia with royal portrait and Gothic seating"
+  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
+    alt: "Mudejar facade detail in Toledo's old town"
+  - src: "/images/actividades/madrid/segovia/acueducto-arcos.webp"
+    alt: "Detail of the arches of Segovia's Roman Aqueduct"
   - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "San Martín bridge in Toledo with the old town in the background"
+    alt: "San MartÃ­n bridge in Toledo with the old town in the background"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
     alt: "Mudejar arch covered in ivy in a street of Toledo's Jewish quarter"
-
 ratingProveedor: 4.6
 numeroOpiniones: 4637
 

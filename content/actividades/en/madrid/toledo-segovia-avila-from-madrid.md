@@ -97,16 +97,23 @@ categoria: "excursion"
 keywords: ["toledo segovia avila day trip", "three cities one day madrid", "unesco day trip from madrid", "spain day trips madrid", "best day tours from madrid"]
 
 imagen: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-imagenAlt: "View of Toledo from the bridge with the Alcázar in the background"
+imagenAlt: "View of Toledo from the bridge with the AlcÃ¡zar in the background"
 
 galeria:
+  - src: "/images/actividades/madrid/segovia/acueducto-hero.webp"
+    alt: "Panoramic view of Segovia's Roman Aqueduct with the Guadarrama mountains in the background"
+  - src: "/images/actividades/madrid/segovia/alcazar-lateral.webp"
+    alt: "AlcÃ¡zar of Segovia with its slate-roofed turrets"
   - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
     alt: "Toledo old town at sunset"
+  - src: "/images/actividades/madrid/segovia/acueducto-arcos.webp"
+    alt: "Detail of the arches of Segovia's Roman Aqueduct"
   - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Mudéjar arch covered in ivy in Toledo"
+    alt: "MudÃ©jar arch covered in ivy in Toledo"
+  - src: "/images/actividades/madrid/segovia/alcazar-sala-reyes.webp"
+    alt: "Interior room of the AlcÃ¡zar of Segovia with royal portrait and Gothic seating"
   - src: "/images/actividades/madrid/toledo/callejon-tipico.webp"
     alt: "Typical alley in Toledo's historic quarter"
-
 ratingProveedor: 4.8
 numeroOpiniones: 9118
 
