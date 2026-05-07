@@ -42,6 +42,12 @@ export default function Page() {
     <main className="pb-24 md:pb-0">
       <GclidCapture />
 
+      {/* Franja decorativa de marca · sin sticky (libera pantalla en scroll SEM) */}
+      <div
+        className="h-8 bg-amber-400 border-b-4 border-sky-500"
+        aria-hidden="true"
+      />
+
       <SemHero
         titulo={landing.titulo}
         subtitulo={landing.subtitulo}
