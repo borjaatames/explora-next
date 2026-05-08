@@ -3,11 +3,11 @@ slug: "excursiones-toledo-madrid"
 publicada: true
 
 titulo: "Las excursiones a Toledo desde Madrid mejor valoradas"
-subtitulo: "9 opciones verificadas. Compara precios y reserva con cancelación gratuita hasta 24 h antes."
+subtitulo: "9 opciones seleccionadas por nosotros. Compara precios y reserva con cancelación gratuita hasta 24 h antes."
 
-prueba_social_titular: "4,7 · 32.327 viajeros han reservado"
+prueba_social_titular: "4,7 · más de 31.000 reseñas verificadas"
 
-banner_garantia: "Reserva sin riesgo: elige tu opción ahora, no pagas nada hasta el día anterior."
+banner_garantia: "Reserva sin riesgo: cancelación gratuita hasta 24 h antes del tour."
 
 meta_titulo: "Excursiones a Toledo desde Madrid · 9 opciones desde 29 €"
 meta_descripcion: "Compara las 9 excursiones a Toledo desde Madrid mejor valoradas. Bus, AVE, privado, combinada con Segovia o los Molinos del Quijote. Cancelación gratis 24h antes."
@@ -54,7 +54,7 @@ tours:
 
   - id: "toledo-dia-completo-fun-tickets"
     titulo: "Toledo día completo con Catedral"
-    descripcion: "Catedral Primada + Sinagoga del Tránsito + Santo Tomé. La opción más reservada del catálogo."
+    descripcion: "Catedral Primada + Sinagoga del Tránsito + Santo Tomé. El día completo clásico — la opción que recomendamos por defecto."
     operador: "Fun & Tickets · Bus + guía bilingüe"
     precio_desde: 79
     rating: 4.8
@@ -97,7 +97,7 @@ tours:
 
   - id: "toledo-vinos-tapas"
     titulo: "Toledo con bodega y cata de vinos"
-    descripcion: "Bodega del siglo XVIII + cata de 3 vinos con tapas. Recomendado por el 97% de viajeros."
+    descripcion: "Bodega del siglo XVIII + cata de 3 vinos con tapas."
     operador: "World Experience · Bus + bodega + tapas"
     precio_desde: 110
     rating: 4.9
@@ -207,8 +207,8 @@ faqs:
       respuesta: "Los 12 molinos de viento blancos del Cerro Calderico de Consuegra (a 1h 30min de Madrid) que inspiraron a Cervantes para el famoso pasaje de Don Quijote contra los gigantes. Es uno de los iconos visuales más reconocibles de la Mancha. El tour combinado con Toledo (120 €) los visita por dentro con guía y añade almuerzo de productos ibéricos premium."
 
 cta_final:
-  titulo: "¿Aún dudas? El día completo es la opción que más reserva"
-  subtitulo: "7.252 viajeros lo eligieron · Catedral incluida · 79 €"
+  titulo: "¿Aún dudas? El día completo es nuestra opción más reservada"
+  subtitulo: "4,8 ★ con 7.252 reseñas · Catedral incluida · 79 €"
   texto_boton: "Ver disponibilidad"
 
 sticky_cta:
