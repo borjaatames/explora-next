@@ -8,6 +8,7 @@ import SemTourGrid from '@/components/sem/SemTourGrid';
 import SemGarantias from '@/components/sem/SemGarantias';
 import SemFAQ from '@/components/sem/SemFAQ';
 import SemCTAFinal from '@/components/sem/SemCTAFinal';
+import SemPieTransparencia from '@/components/sem/SemPieTransparencia';
 import SemStickyMobile from '@/components/sem/SemStickyMobile';
 
 const SLUG = 'excursiones-toledo-madrid';
@@ -80,6 +81,8 @@ export default function Page() {
         subtitulo={landing.cta_final.subtitulo}
         textoBoton={landing.cta_final.texto_boton}
       />
+
+      <SemPieTransparencia />
 
       <SemStickyMobile
         label={landing.sticky_cta.label}
