@@ -104,8 +104,8 @@ tours:
     resenas: 2658
     viator_product_id: "6874P121"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Toledo-City-Tour-and-Winery-Experience-with-Wine-Tasting-from-Madrid/d566-6874P121"
-    imagen: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    imagen_alt: "Arco mudéjar de ladrillo y piedra con hiedra colgante en una muralla de Toledo"
+    imagen: "/images/actividades/madrid/toledo/toledo-vinos-cata.webp"
+    imagen_alt: "Sumiller sirviendo vino tinto en copa de cata sobre mesa de madera con barricas al fondo"
     categoria: "dia-completo"
     ficha_propia_slug: "excursion-toledo-vinos-tapas"
 
@@ -118,8 +118,8 @@ tours:
     resenas: 856
     viator_product_id: "56823P10"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Segovia-and-Toledo-from-Madrid-with-Cathedral-and-Alcazar-Access/d566-56823P10"
-    imagen: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    imagen_alt: "Vista panorámica del casco histórico de Toledo al atardecer sobre el río Tajo"
+    imagen: "/images/actividades/madrid/toledo/calle-vista-tajo.webp"
+    imagen_alt: "Calle estrecha del casco histórico de Toledo con vista al valle del Tajo bajo cielo azul"
     categoria: "combinada"
     ficha_propia_slug: "excursion-toledo-segovia-alcazar"
 
@@ -147,8 +147,8 @@ tours:
     resenas: 223
     viator_product_id: "379928P1"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Tour-the-Windmills-of-Don-Quixote-de-la-Mancha-and-Toledo-with-Lunch/d566-379928P1"
-    imagen: "/images/actividades/madrid/toledo/patio-columnas.webp"
-    imagen_alt: "Patio renacentista con arcos de medio punto y columnas de piedra en Toledo"
+    imagen: "/images/actividades/madrid/toledo/molinos-consuegra.webp"
+    imagen_alt: "Tres molinos de viento blancos en hilera sobre el cerro Calderico de Consuegra"
     categoria: "dia-completo"
     ficha_propia_slug: "excursion-toledo-molinos-quijote"
 
@@ -161,8 +161,8 @@ tours:
     resenas: 222
     viator_product_id: "6874P162"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Toledo-city-tour-with-high-speed-train-from-Madrid/d566-6874P162"
-    imagen: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    imagen_alt: "Detalle de arcos mudéjares y pináculos góticos del casco histórico de Toledo"
+    imagen: "/images/actividades/madrid/toledo/toledo-ave.webp"
+    imagen_alt: "Tren AVE de Renfe en una estación española"
     categoria: "dia-completo"
     ficha_propia_slug: "excursion-toledo-ave-tren"
 
