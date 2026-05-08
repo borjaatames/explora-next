@@ -21,7 +21,7 @@ const FICHA_BASE = '/ciudades/madrid/actividades';
  * a Viator ocurre en la propia ficha.
  *
  * Fallback — Si no hay `ficha_propia_slug`, el CTA "Reservar" apunta a
- * Viator directo con tracking de afiliado y gclid (comportamiento original).
+ * Viator directo en nueva pestaña con tracking de afiliado y gclid.
  *
  * UX — La tarjeta entera es clickable mediante un overlay `<span absolute inset-0>`
  * dentro del `<Link>`/`<a>`. Esto permite seleccionar texto, mantiene un único
@@ -69,7 +69,9 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
         });
       }
 
-      window.location.href = url;
+      // Nueva pestaña para conservar la landing viva (estándar afiliación).
+      // 'noopener,noreferrer' previene reverse tabnabbing y oculta referrer.
+      window.open(url, '_blank', 'noopener,noreferrer');
     },
     [tour, landingSlug],
   );
