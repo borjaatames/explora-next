@@ -13,7 +13,7 @@ const SITE_URL =
 export const metadata: Metadata = {
   title: "Guías de viaje por España",
   description:
-    "Rutas con criterio, comparativas reales y consejos prácticos para viajar por España. Sin postureo turístico.",
+    "Rutas con criterio, selección honesta y consejos prácticos para viajar por España. Sin postureo turístico.",
   alternates: {
     canonical: `${SITE_URL}${urlIndiceGuias("es")}`,
     languages: hreflangAlternates((l) => urlIndiceGuias(l)),
@@ -31,7 +31,7 @@ export default function GuiasPage() {
             Guías de viaje
           </h1>
           <p className="text-lg text-sky-50">
-            Rutas con criterio, comparativas reales y consejos prácticos.
+            Rutas con criterio, selección honesta y consejos prácticos.
           </p>
         </div>
       </section>

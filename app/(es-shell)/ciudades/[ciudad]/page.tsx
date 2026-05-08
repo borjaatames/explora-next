@@ -162,7 +162,7 @@ export default async function CiudadPage({ params }: Props) {
               Guías de {ciudad.nombre}
             </h2>
             <p className="text-slate-600 mb-8">
-              Profundiza en {ciudad.nombre} con nuestras rutas y comparativas.
+              Profundiza en {ciudad.nombre} con nuestras rutas y recomendaciones.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {guiasRelacionadas.map((guia) => (

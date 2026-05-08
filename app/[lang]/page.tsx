@@ -43,7 +43,7 @@ export async function generateMetadata({
   return {
     title: "ExploraSpain · Honest travel guides for visiting Spain",
     description:
-      "Editorial guides with judgment on Madrid, Seville, Barcelona, Granada and Salamanca. Real itineraries, honest comparisons and practical advice without tourist hype.",
+      "Editorial guides with judgment on Madrid, Seville, Barcelona, Granada and Salamanca. Real itineraries, honest editorial picks and practical advice without tourist hype.",
     alternates: {
       canonical: canonicalUrl,
       languages,
@@ -55,7 +55,7 @@ export async function generateMetadata({
       siteName: "ExploraSpain",
       title: "ExploraSpain · Honest travel guides for visiting Spain",
       description:
-        "Real itineraries, honest comparisons and practical advice for visiting Spain — without tourist hype.",
+        "Real itineraries, honest editorial picks and practical advice for visiting Spain — without tourist hype.",
     },
   };
 }
@@ -79,7 +79,7 @@ export default function HomePage({ params }: Props) {
     url: SITE_URL,
     inLanguage: IDIOMA_LOCALE[lang],
     description:
-      "Honest editorial guides for traveling Spain: real itineraries, honest comparisons and practical advice.",
+      "Honest editorial guides for traveling Spain: real itineraries, honest editorial picks and practical advice.",
   };
 
   const organizationJsonLd = {
@@ -251,7 +251,7 @@ export default function HomePage({ params }: Props) {
           </h2>
           <p className="text-slate-700 text-lg leading-relaxed mb-4">
             An editorial project about traveling Spain. We write honest
-            guides: routes with judgment, real comparisons, and practical
+            guides: routes with judgment, editorial picks, and practical
             advice — without the inflated tone of postcard tourism.
           </p>
           <p className="text-slate-700 text-lg leading-relaxed mb-6">

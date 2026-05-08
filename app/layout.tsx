@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     template: "%s | ExploraSpain",
   },
   description:
-    "Tours y actividades en las mejores ciudades de España, junto con guías editoriales honestas: rutas con criterio, comparativas reales y consejos prácticos.",
+    "Tours y actividades en las mejores ciudades de España, junto con guías editoriales honestas: rutas con criterio, selección honesta y consejos prácticos.",
   applicationName: "ExploraSpain",
   authors: [{ name: "SKYWARD PARTNERS, S.L." }],
   icons: {
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     siteName: "ExploraSpain",
     title: "ExploraSpain | Tours, actividades y guías de viaje por España",
     description:
-      "Tours y actividades en las mejores ciudades de España. Guías honestas, rutas con criterio y comparativas reales.",
+      "Tours y actividades en las mejores ciudades de España. Guías honestas, rutas con criterio y selección editorial.",
   },
 };
 

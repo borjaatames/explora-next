@@ -63,7 +63,7 @@ export default function SobreNosotrosPage() {
             </li>
             <li>
               <strong>Guías editoriales</strong>: publicamos rutas con
-              criterio, comparativas reales y consejos prácticos para que cada
+              criterio, selección honesta y consejos prácticos para que cada
               viajero pueda decidir qué merece la pena en su caso, sin
               listados interminables ni el tono hinchado del turismo de postal.
             </li>

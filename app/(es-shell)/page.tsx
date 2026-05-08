@@ -14,7 +14,7 @@ const SITE_URL =
 export const metadata: Metadata = {
   title: "ExploraSpain · Guías honestas para viajar por España",
   description:
-    "Guías editoriales con criterio sobre Madrid, Sevilla, Barcelona, Granada y Salamanca. Rutas reales, comparativas honestas y consejos prácticos sin postureo turístico.",
+    "Guías editoriales con criterio sobre Madrid, Sevilla, Barcelona, Granada y Salamanca. Rutas reales, selección honesta y consejos prácticos sin postureo turístico.",
   alternates: {
     canonical: `${SITE_URL}/`,
     languages: hreflangAlternates((l) => `${prefijoIdioma(l)}/`),
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     siteName: "ExploraSpain",
     title: "ExploraSpain · Guías honestas para viajar por España",
     description:
-      "Rutas con criterio, comparativas reales y consejos prácticos para visitar España sin postureo turístico.",
+      "Rutas con criterio, selección honesta y consejos prácticos para visitar España sin postureo turístico.",
   },
 };
 
@@ -41,7 +41,7 @@ export default function HomePage() {
     url: SITE_URL,
     inLanguage: "es-ES",
     description:
-      "Guías editoriales honestas sobre viajes por España: rutas con criterio, comparativas reales y consejos prácticos.",
+      "Guías editoriales honestas sobre viajes por España: rutas con criterio, selección honesta y consejos prácticos.",
   };
 
   const organizationJsonLd = {
@@ -81,7 +81,7 @@ export default function HomePage() {
             Guías honestas para viajar por España
           </h1>
           <p className="text-lg md:text-xl text-sky-50 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Rutas con criterio, comparativas reales y consejos prácticos. Sin
+            Rutas con criterio, selección honesta y consejos prácticos. Sin
             postureo turístico.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -215,7 +215,7 @@ export default function HomePage() {
           </h2>
           <p className="text-slate-700 text-lg leading-relaxed mb-4">
             Un proyecto editorial sobre viajes por España. Escribimos guías
-            honestas: rutas con criterio, comparativas reales y consejos
+            honestas: rutas con criterio, selección honesta y consejos
             prácticos, sin el tono hinchado del turismo de postal.
           </p>
           <p className="text-slate-700 text-lg leading-relaxed mb-6">

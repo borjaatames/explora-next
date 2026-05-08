@@ -85,7 +85,7 @@ export default function ContactoPage() {
               ¿Sugerencia de guía?
             </h3>
             <p className="text-slate-700 text-sm leading-relaxed">
-              Si echas en falta un destino, ruta o comparativa concreta,
+              Si echas en falta un destino, ruta o recomendación concreta,
               cuéntanoslo. Las mejores ideas vienen de quien está viajando.
             </p>
           </div>

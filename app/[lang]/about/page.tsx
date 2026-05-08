@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
@@ -64,8 +64,7 @@ function getCopy(lang: Idioma): AboutCopy {
             anything that&rsquo;s out there.
           </>,
           <>
-            <strong>Editorial guides</strong>: opinionated routes, honest
-            comparisons and practical advice so you can decide what&rsquo;s
+            <strong>Editorial guides</strong>: opinionated routes, honest editorial picks and practical advice so you can decide what&rsquo;s
             worth your time, your days and your budget &mdash; without
             endless lists or postcard-tourism filler.
           </>,
@@ -203,7 +202,7 @@ function getCopy(lang: Idioma): AboutCopy {
         </>,
         <>
           <strong>Guías editoriales</strong>: publicamos rutas con criterio,
-          comparativas reales y consejos prácticos para que cada viajero
+          selección honesta y consejos prácticos para que cada viajero
           pueda decidir qué merece la pena en su caso, sin listados
           interminables ni el tono hinchado del turismo de postal.
         </>,

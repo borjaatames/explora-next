@@ -166,7 +166,7 @@ export default function ContactPage({
             </h3>
             <p className="text-slate-700 text-sm leading-relaxed">
               If you&rsquo;re missing a destination, route or specific
-              comparison, tell us. The best ideas come from people who are
+              recommendation, tell us. The best ideas come from people who are
               actually traveling.
             </p>
           </div>

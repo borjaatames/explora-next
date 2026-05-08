@@ -132,7 +132,7 @@ Y los que se evitan: **partidos del Real Madrid en el Bernabéu** si no eres afi
 
 ## Las guías de ExploraSpain sobre Madrid
 
-Para profundizar, en este momento tenemos publicada nuestra **ruta con criterio de 3 días** que cubre Prado, El Escorial, Valle de Cuelgamuros y Chamberí. Próximamente añadiremos guías sobre Madrid gratis, escapadas de un día y comparativas de museos.
+Para profundizar, en este momento tenemos publicada nuestra **ruta con criterio de 3 días** que cubre Prado, El Escorial, Valle de Cuelgamuros y Chamberí. Próximamente añadiremos guías sobre Madrid gratis y escapadas de un día.
 
 ## En una frase
 
