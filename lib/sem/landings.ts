@@ -1,12 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import type { SemLanding, SemLandingFrontmatter } from './types';
+import type { SemIdioma, SemLanding, SemLandingFrontmatter } from './types';
 
 const semDirectory = path.join(process.cwd(), 'content', 'sem');
 
 /**
- * Lee un landing SEM por slug.
+ * Lee un landing SEM por slug e idioma.
  *
  * NOTA: Este archivo solo debe importarse desde Server Components o desde
  * código que corre en build time (page.tsx, layout.tsx, generateMetadata).
@@ -14,10 +14,22 @@ const semDirectory = path.join(process.cwd(), 'content', 'sem');
  *
  * Para construir URLs Viator desde el cliente, usa lib/sem/url-builder.ts
  *
+ * @param slug Nombre del .md sin extensión.
+ * @param idioma Idioma de la landing. Por defecto 'es' (retrocompatibilidad
+ *               con las páginas SEM existentes que llaman sin segundo arg).
+ *               'es' lee `content/sem/{slug}.md`.
+ *               'en' lee `content/sem/en/{slug}.md`.
+ *
  * Devuelve null si no existe o si publicada: false.
  */
-export function obtenerLandingSem(slug: string): SemLanding | null {
-  const filePath = path.join(semDirectory, `${slug}.md`);
+export function obtenerLandingSem(
+  slug: string,
+  idioma: SemIdioma = 'es',
+): SemLanding | null {
+  const filePath =
+    idioma === 'es'
+      ? path.join(semDirectory, `${slug}.md`)
+      : path.join(semDirectory, idioma, `${slug}.md`);
 
   if (!fs.existsSync(filePath)) {
     return null;
@@ -31,8 +43,14 @@ export function obtenerLandingSem(slug: string): SemLanding | null {
     return null;
   }
 
+  const url =
+    idioma === 'es'
+      ? `/sem/${frontmatter.slug}`
+      : `/${idioma}/sem/${frontmatter.slug}`;
+
   return {
     ...frontmatter,
-    url: `/sem/${frontmatter.slug}`,
+    url,
+    idioma,
   };
 }

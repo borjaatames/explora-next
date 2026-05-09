@@ -5,6 +5,9 @@
  * Van con `noindex` para no competir con SEO orgánico.
  */
 
+/** Idioma de una landing SEM. Solo activos los dos primeros. */
+export type SemIdioma = 'es' | 'en';
+
 export type SemTour = {
   /** Slug interno único, kebab-case */
   id: string;
@@ -35,7 +38,9 @@ export type SemTour = {
   /** Si es premium, se renderiza con borde amber sutil */
   premium?: boolean;
   /**
-   * Slug de la ficha propia en `/ciudades/madrid/actividades/{slug}`.
+   * Slug de la ficha propia en `/<segmento>/madrid/<segmento_actividades>/{slug}`.
+   * El segmento `ciudades`/`cities` y `actividades`/`activities` lo resuelve
+   * el componente que renderiza el link según el idioma de la landing.
    * Cuando existe, el CTA "Ver detalles" apunta a la ficha propia (Plan A).
    * Cuando no existe, fallback a Viator directo con tracking.
    */
@@ -119,10 +124,17 @@ export type SemLandingFrontmatter = {
   sticky_cta: {
     label: string;
     texto_boton: string;
+    /**
+     * Etiqueta superior en uppercase (ej: "Más reservado", "Most booked").
+     * Opcional: si no se proporciona, el componente cae en su default por idioma.
+     */
+    etiqueta_superior?: string;
   };
 };
 
 export type SemLanding = SemLandingFrontmatter & {
-  /** URL relativa, calculada */
+  /** URL relativa, calculada según idioma */
   url: string;
+  /** Idioma de la landing, calculado según el directorio del .md */
+  idioma: SemIdioma;
 };

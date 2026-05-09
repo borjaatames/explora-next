@@ -1,7 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useState } from 'react';
-import type { SemTour } from '@/lib/sem/types';
+import type { SemIdioma, SemTour } from '@/lib/sem/types';
 import { construirUrlViator } from '@/lib/sem/url-builder';
 
 type Props = {
@@ -9,18 +9,33 @@ type Props = {
   textoBoton: string;
   tourAncla: SemTour;
   landingSlug: string;
+  /** Idioma de la landing. Default 'es' por retrocompatibilidad. */
+  idioma?: SemIdioma;
+  /**
+   * Etiqueta superior en uppercase. Si no se provee, se usa el default por
+   * idioma (`ETIQUETA_SUPERIOR_DEFAULT`).
+   */
+  etiquetaSuperior?: string;
 };
 
 /**
  * Sticky CTA flotante en móvil. Desktop lo oculta.
+ *
  * Aparece tras hacer scroll de ~300px para no estorbar el hero.
  * Apunta al tour ancla (definido por `ancla: true` en el frontmatter).
+ *
+ * Comportamiento de apertura: `window.open` en nueva pestaña con
+ * `noopener,noreferrer` (igual que `SemTourCard` desde commit 59fcbbd).
+ * Mantiene la landing viva: si el usuario decide volver, encuentra el resto
+ * del catálogo intacto. Estándar en afiliación.
  */
 export default function SemStickyMobile({
   label,
   textoBoton,
   tourAncla,
   landingSlug,
+  idioma = 'es',
+  etiquetaSuperior,
 }: Props) {
   const [visible, setVisible] = useState(false);
 
@@ -74,19 +89,23 @@ export default function SemStickyMobile({
         });
       }
 
-      window.location.href = url;
+      // Nueva pestaña para conservar la landing viva (estándar afiliación).
+      // 'noopener,noreferrer' previene reverse tabnabbing y oculta referrer.
+      window.open(url, '_blank', 'noopener,noreferrer');
     },
     [tourAncla, landingSlug],
   );
 
   if (!visible) return null;
 
+  const etiqueta = etiquetaSuperior ?? ETIQUETA_SUPERIOR_DEFAULT[idioma];
+
   return (
     <div className="fixed inset-x-0 bottom-0 z-40 bg-sky-500 shadow-[0_-2px_8px_rgba(0,0,0,0.1)] md:hidden">
       <div className="flex items-center justify-between gap-3 px-4 py-2.5">
         <div className="min-w-0 flex-1">
           <p className="text-xs font-semibold uppercase tracking-wider text-sky-100">
-            Más reservado
+            {etiqueta}
           </p>
           <p className="truncate text-sm font-semibold text-white">
             {label}
@@ -106,3 +125,8 @@ export default function SemStickyMobile({
     </div>
   );
 }
+
+const ETIQUETA_SUPERIOR_DEFAULT: Record<SemIdioma, string> = {
+  es: 'Más reservado',
+  en: 'Most booked',
+};

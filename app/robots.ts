@@ -10,6 +10,9 @@ const SITE_URL =
  *   completa salvo rutas técnicas y declaramos el sitemap.
  * - En preview / desarrollo: bloqueamos todo el sitio para evitar que Google
  *   indexe URLs de Vercel preview o de localhost.
+ *
+ * Las landings SEM van con noindex en todos los idiomas activos. Cuando se
+ * activen DE/FR/IT/PT, añadir aquí una entrada `/<idioma>/sem/` por idioma.
  */
 export default function robots(): MetadataRoute.Robots {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -28,6 +31,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: [
           "/api/",
           "/sem/",
+          "/en/sem/",
           "/_next/",
           "/admin/",
           "/*.backup$",
@@ -39,5 +43,3 @@ export default function robots(): MetadataRoute.Robots {
     host: SITE_URL,
   };
 }
-
-

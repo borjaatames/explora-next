@@ -3,15 +3,15 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useCallback } from 'react';
-import type { SemTour } from '@/lib/sem/types';
+import type { SemIdioma, SemTour } from '@/lib/sem/types';
 import { construirUrlViator } from '@/lib/sem/url-builder';
 
 type Props = {
   tour: SemTour;
   landingSlug: string;
+  /** Idioma de la landing. Default 'es' por retrocompatibilidad. */
+  idioma?: SemIdioma;
 };
-
-const FICHA_BASE = '/ciudades/madrid/actividades';
 
 /**
  * Tarjeta de un tour en una landing SEM.
@@ -27,8 +27,11 @@ const FICHA_BASE = '/ciudades/madrid/actividades';
  * dentro del `<Link>`/`<a>`. Esto permite seleccionar texto, mantiene un único
  * enlace para lectores de pantalla y deja sitio a futuros elementos interactivos.
  */
-export default function SemTourCard({ tour, landingSlug }: Props) {
+export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props) {
   const tieneFichaPropia = Boolean(tour.ficha_propia_slug);
+  const labels = LABELS_BY_LANG[idioma];
+  const fichaBase = FICHA_BASE_BY_LANG[idioma];
+  const localeNumero = idioma === 'es' ? 'es-ES' : 'en-US';
 
   const handleClickExterno = useCallback(
     (e: React.MouseEvent<HTMLAnchorElement>) => {
@@ -120,21 +123,22 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
       {/* Banda superior "MÁS RESERVADO" si es la ancla */}
       {tour.ancla && (
         <div className="bg-sky-500 px-3 py-1 text-center text-xs font-semibold uppercase tracking-wider text-white">
-          ★ Más reservado · {tour.resenas.toLocaleString('es-ES')} viajeros
+          ★ {labels.masReservado} · {tour.resenas.toLocaleString(localeNumero)}{' '}
+          {labels.viajeros}
         </div>
       )}
 
       {/* Badge "RECOMENDADO" amber si es ancla */}
       {tour.ancla && (
         <div className="absolute right-3 top-10 z-10 rounded bg-amber-400 px-2 py-1 text-xs font-semibold uppercase tracking-wider text-slate-900 shadow-sm">
-          Recomendado
+          {labels.recomendado}
         </div>
       )}
 
       {/* Badge "PREMIUM" amber si es premium */}
       {tour.premium && (
         <div className="absolute right-3 top-3 z-10 rounded bg-amber-400 px-2 py-1 text-xs font-semibold uppercase tracking-wider text-slate-900 shadow-sm">
-          Premium
+          {labels.premium}
         </div>
       )}
 
@@ -152,7 +156,7 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
         <h3 className="text-base font-semibold leading-snug text-slate-900">
           {tieneFichaPropia ? (
             <Link
-              href={`${FICHA_BASE}/${tour.ficha_propia_slug}`}
+              href={`${fichaBase}/${tour.ficha_propia_slug}`}
               onClick={handleClickInterno}
               className="focus-visible:outline-none focus-visible:underline"
             >
@@ -185,31 +189,71 @@ export default function SemTourCard({ tour, landingSlug }: Props) {
             {tour.rating.toFixed(1)}
           </span>
           <span className="text-slate-500">
-            ({tour.resenas.toLocaleString('es-ES')} opiniones)
+            ({tour.resenas.toLocaleString(localeNumero)} {labels.opiniones})
           </span>
         </div>
 
         <div className="mt-auto flex items-end justify-between pt-4">
           <div>
-            <span className="text-xs text-slate-500">Desde </span>
+            <span className="text-xs text-slate-500">{labels.desde} </span>
             <span className="text-lg font-semibold text-slate-900">
               {tour.precio_desde} €
             </span>
           </div>
 
           <span className={ctaBaseClass} aria-hidden="true">
-            Ver detalles
+            {labels.verDetalles}
             <ArrowRightIcon />
           </span>
         </div>
 
         {!tieneFichaPropia && (
-          <p className="mt-2 text-xs text-slate-400">Continúa en Viator</p>
+          <p className="mt-2 text-xs text-slate-400">{labels.continuaPartner}</p>
         )}
       </div>
     </article>
   );
 }
+
+const FICHA_BASE_BY_LANG: Record<SemIdioma, string> = {
+  es: '/ciudades/madrid/actividades',
+  en: '/en/cities/madrid/activities',
+};
+
+const LABELS_BY_LANG: Record<
+  SemIdioma,
+  {
+    masReservado: string;
+    viajeros: string;
+    recomendado: string;
+    premium: string;
+    opiniones: string;
+    desde: string;
+    verDetalles: string;
+    continuaPartner: string;
+  }
+> = {
+  es: {
+    masReservado: 'Más reservado',
+    viajeros: 'viajeros',
+    recomendado: 'Recomendado',
+    premium: 'Premium',
+    opiniones: 'opiniones',
+    desde: 'Desde',
+    verDetalles: 'Ver detalles',
+    continuaPartner: 'Continúa en Viator',
+  },
+  en: {
+    masReservado: 'Most booked',
+    viajeros: 'travelers',
+    recomendado: 'Recommended',
+    premium: 'Premium',
+    opiniones: 'reviews',
+    desde: 'From',
+    verDetalles: 'See details',
+    continuaPartner: 'Continues on our partner site',
+  },
+};
 
 function StarIcon() {
   return (

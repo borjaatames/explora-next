@@ -30,6 +30,9 @@ const nextConfig = {
     return [];
   },
   async headers() {
+    // X-Robots-Tag: blindaje extra a `noindex` además del `<meta>` del layout.
+    // Aplica a TODAS las landings SEM en TODOS los idiomas.
+    // Cuando se activen DE/FR/IT/PT, añadir aquí una entrada por idioma.
     return [
       {
         source: "/sem/:path*",
@@ -40,9 +43,16 @@ const nextConfig = {
           },
         ],
       },
+      {
+        source: "/en/sem/:path*",
+        headers: [
+          {
+            key: "X-Robots-Tag",
+            value: "noindex, nofollow, noarchive",
+          },
+        ],
+      },
     ];
   },
 };
-
 module.exports = nextConfig;
-
