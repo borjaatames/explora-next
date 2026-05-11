@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useCallback } from 'react';
 import type { SemIdioma, SemTour } from '@/lib/sem/types';
-import { construirUrlViator } from '@/lib/sem/url-builder';
+import { construirUrlAfiliado } from '@/lib/sem/url-builder';
 
 type Props = {
   tour: SemTour;
@@ -18,10 +18,11 @@ type Props = {
  *
  * Plan A — Si el tour declara `ficha_propia_slug`, el CTA "Ver detalles"
  * apunta a la ficha propia (interno, sin abandonar el dominio). La conversión
- * a Viator ocurre en la propia ficha.
+ * a Viator/GYG ocurre en la propia ficha.
  *
- * Fallback — Si no hay `ficha_propia_slug`, el CTA "Reservar" apunta a
- * Viator directo en nueva pestaña con tracking de afiliado y gclid.
+ * Fallback — Si no hay `ficha_propia_slug`, el CTA "Reservar" apunta al
+ * proveedor afiliado (Viator o GetYourGuide según `tour.proveedor`) en nueva
+ * pestaña con tracking y gclid.
  *
  * UX — La tarjeta entera es clickable mediante un overlay `<span absolute inset-0>`
  * dentro del `<Link>`/`<a>`. Esto permite seleccionar texto, mantiene un único
@@ -33,6 +34,18 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
   const fichaBase = FICHA_BASE_BY_LANG[idioma];
   const localeNumero = idioma === 'es' ? 'es-ES' : 'en-US';
 
+  // Nombre del partner para el aviso "Continúa en X".
+  // Default 'Viator' (retrocompatibilidad Toledo, donde `proveedor` es undefined).
+  const partnerName =
+    tour.proveedor === 'getyourguide' ? 'GetYourGuide' : 'Viator';
+
+  // URL externa precomputada para SEO/SSR (el click la rebuild con gclid).
+  const urlExternaFallback = tour.url_reserva ?? tour.viator_url ?? '#';
+
+  // Código del producto a registrar en analytics (Viator o GYG).
+  const productoCodigo =
+    tour.viator_product_id ?? tour.proveedor_codigo ?? tour.id;
+
   const handleClickExterno = useCallback(
     (e: React.MouseEvent<HTMLAnchorElement>) => {
       e.preventDefault();
@@ -42,12 +55,7 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
           ? window.sessionStorage.getItem('gclid') ?? undefined
           : undefined;
 
-      const url = construirUrlViator(
-        tour.viator_url,
-        landingSlug,
-        tour.id,
-        gclid,
-      );
+      const url = construirUrlAfiliado(tour, landingSlug, idioma, gclid);
 
       if (typeof window !== 'undefined' && 'gtag' in window) {
         const gtag = (
@@ -65,9 +73,10 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
           event_label: tour.id,
           value: tour.precio_desde,
           currency: 'EUR',
-          item_id: tour.viator_product_id,
+          item_id: productoCodigo,
           item_name: tour.titulo,
           landing_slug: landingSlug,
+          partner: tour.proveedor ?? 'viator',
           gclid: gclid ?? null,
         });
       }
@@ -76,7 +85,7 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
       // 'noopener,noreferrer' previene reverse tabnabbing y oculta referrer.
       window.open(url, '_blank', 'noopener,noreferrer');
     },
-    [tour, landingSlug],
+    [tour, landingSlug, idioma, productoCodigo],
   );
 
   const handleClickInterno = useCallback(() => {
@@ -97,12 +106,12 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
       event_label: tour.id,
       value: tour.precio_desde,
       currency: 'EUR',
-      item_id: tour.viator_product_id,
+      item_id: productoCodigo,
       item_name: tour.titulo,
       landing_slug: landingSlug,
       ficha_slug: tour.ficha_propia_slug,
     });
-  }, [tour, landingSlug]);
+  }, [tour, landingSlug, productoCodigo]);
 
   // Estilos según estado: ancla > premium > normal
   const cardClass = tour.ancla
@@ -165,7 +174,7 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
             </Link>
           ) : (
             <a
-              href={tour.viator_url}
+              href={urlExternaFallback}
               onClick={handleClickExterno}
               rel="sponsored noopener noreferrer"
               target="_blank"
@@ -208,7 +217,9 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
         </div>
 
         {!tieneFichaPropia && (
-          <p className="mt-2 text-xs text-slate-400">{labels.continuaPartner}</p>
+          <p className="mt-2 text-xs text-slate-400">
+            {labels.continuaPartner.replace('{partner}', partnerName)}
+          </p>
         )}
       </div>
     </article>
@@ -241,7 +252,7 @@ const LABELS_BY_LANG: Record<
     opiniones: 'opiniones',
     desde: 'Desde',
     verDetalles: 'Ver detalles',
-    continuaPartner: 'Continúa en Viator',
+    continuaPartner: 'Continúa en {partner}',
   },
   en: {
     masReservado: 'Most booked',
@@ -251,7 +262,7 @@ const LABELS_BY_LANG: Record<
     opiniones: 'reviews',
     desde: 'From',
     verDetalles: 'See details',
-    continuaPartner: 'Continues on our partner site',
+    continuaPartner: 'Continues on {partner}',
   },
 };
 

@@ -8,6 +8,12 @@
 /** Idioma de una landing SEM. Solo activos los dos primeros. */
 export type SemIdioma = 'es' | 'en';
 
+/**
+ * Proveedor afiliado del tour. Solo `viator` y `getyourguide` activos.
+ * Por defecto `viator` (retrocompatibilidad con Toledo SEM).
+ */
+export type SemProveedor = 'viator' | 'getyourguide';
+
 export type SemTour = {
   /** Slug interno único, kebab-case */
   id: string;
@@ -23,16 +29,52 @@ export type SemTour = {
   rating: number;
   /** Número de reseñas verificadas */
   resenas: number;
-  /** Product ID de Viator (ej: "2140JTEMA20") */
-  viator_product_id: string;
-  /** URL del producto en Viator (sin parámetros de afiliado) */
-  viator_url: string;
-  /** Imagen propia en /public/images/sem/toledo/ */
+
+  // ─── Campos legacy Viator (retrocompatibilidad Toledo SEM) ─────────────
+  // Pasan a opcionales para soportar tours GetYourGuide.
+  // Para tours Viator clásicos, ambos deben estar presentes.
+  /** Product ID de Viator (ej: "2140JTEMA20"). Solo si proveedor === 'viator'. */
+  viator_product_id?: string;
+  /** URL del producto en Viator (sin parámetros de afiliado). Solo si proveedor === 'viator'. */
+  viator_url?: string;
+
+  // ─── Campos nuevos multi-proveedor ─────────────────────────────────────
+  /**
+   * Proveedor afiliado. Si no se declara en frontmatter, se asume 'viator'
+   * (retrocompatibilidad con Toledo SEM).
+   */
+  proveedor?: SemProveedor;
+  /**
+   * Código de producto del proveedor (id Viator o id GYG). Sustituye a
+   * `viator_product_id` cuando se usa el esquema multi-proveedor.
+   */
+  proveedor_codigo?: string;
+  /**
+   * URL completa del producto en el sitio del proveedor (sin tracking de afiliado).
+   * Sustituye a `viator_url` cuando se usa el esquema multi-proveedor.
+   */
+  url_reserva?: string;
+
+  /** Imagen propia en /public/images/sem/{landing}/ */
   imagen: string;
   /** Texto alt de la imagen para accesibilidad */
   imagen_alt: string;
-  /** Categoría para el comparador rápido */
-  categoria: 'medio-dia' | 'dia-completo' | 'combinada' | 'privada';
+  /**
+   * Categoría para el comparador rápido.
+   * Toledo SEM usa: 'medio-dia' | 'dia-completo' | 'combinada' | 'privada'.
+   * Tapas SEM usa: 'clasico' | 'con-vino' | 'con-azotea' | 'historico'.
+   * El frontend solo requiere que coincida con las categorías declaradas en
+   * `comparador.categorias` del landing.
+   */
+  categoria:
+    | 'medio-dia'
+    | 'dia-completo'
+    | 'combinada'
+    | 'privada'
+    | 'clasico'
+    | 'con-vino'
+    | 'con-azotea'
+    | 'historico';
   /** Si es la ancla "Más reservado", se renderiza con borde sky-500 destacado */
   ancla?: boolean;
   /** Si es premium, se renderiza con borde amber sutil */
@@ -42,7 +84,7 @@ export type SemTour = {
    * El segmento `ciudades`/`cities` y `actividades`/`activities` lo resuelve
    * el componente que renderiza el link según el idioma de la landing.
    * Cuando existe, el CTA "Ver detalles" apunta a la ficha propia (Plan A).
-   * Cuando no existe, fallback a Viator directo con tracking.
+   * Cuando no existe, fallback al proveedor directo con tracking.
    */
   ficha_propia_slug?: string;
 };

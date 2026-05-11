@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useState } from 'react';
 import type { SemIdioma, SemTour } from '@/lib/sem/types';
-import { construirUrlViator } from '@/lib/sem/url-builder';
+import { construirUrlAfiliado } from '@/lib/sem/url-builder';
 
 type Props = {
   label: string;
@@ -28,6 +28,9 @@ type Props = {
  * `noopener,noreferrer` (igual que `SemTourCard` desde commit 59fcbbd).
  * Mantiene la landing viva: si el usuario decide volver, encuentra el resto
  * del catálogo intacto. Estándar en afiliación.
+ *
+ * Soporta multi-proveedor: usa `construirUrlAfiliado` que despacha a Viator
+ * o GetYourGuide según `tourAncla.proveedor`.
  */
 export default function SemStickyMobile({
   label,
@@ -49,6 +52,14 @@ export default function SemStickyMobile({
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
+  // URL externa precomputada para SEO/SSR. El click la reconstruye con gclid.
+  const urlExternaFallback =
+    tourAncla.url_reserva ?? tourAncla.viator_url ?? '#';
+
+  // Código del producto a registrar en analytics (Viator o GYG).
+  const productoCodigo =
+    tourAncla.viator_product_id ?? tourAncla.proveedor_codigo ?? tourAncla.id;
+
   const handleClick = useCallback(
     (e: React.MouseEvent<HTMLAnchorElement>) => {
       e.preventDefault();
@@ -58,12 +69,7 @@ export default function SemStickyMobile({
           ? window.sessionStorage.getItem('gclid') ?? undefined
           : undefined;
 
-      const url = construirUrlViator(
-        tourAncla.viator_url,
-        landingSlug,
-        tourAncla.id,
-        gclid,
-      );
+      const url = construirUrlAfiliado(tourAncla, landingSlug, idioma, gclid);
 
       if (typeof window !== 'undefined' && 'gtag' in window) {
         const gtag = (
@@ -81,9 +87,10 @@ export default function SemStickyMobile({
           event_label: tourAncla.id,
           value: tourAncla.precio_desde,
           currency: 'EUR',
-          item_id: tourAncla.viator_product_id,
+          item_id: productoCodigo,
           item_name: tourAncla.titulo,
           landing_slug: landingSlug,
+          partner: tourAncla.proveedor ?? 'viator',
           gclid: gclid ?? null,
           source: 'sticky_mobile',
         });
@@ -93,7 +100,7 @@ export default function SemStickyMobile({
       // 'noopener,noreferrer' previene reverse tabnabbing y oculta referrer.
       window.open(url, '_blank', 'noopener,noreferrer');
     },
-    [tourAncla, landingSlug],
+    [tourAncla, landingSlug, idioma, productoCodigo],
   );
 
   if (!visible) return null;
@@ -113,7 +120,7 @@ export default function SemStickyMobile({
         </div>
 
         <a
-          href={tourAncla.viator_url}
+          href={urlExternaFallback}
           onClick={handleClick}
           rel="sponsored noopener noreferrer"
           target="_blank"
