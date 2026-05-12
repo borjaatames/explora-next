@@ -134,7 +134,10 @@ export default async function GuiaPage({ params }: Props) {
     : `${SITE_URL}${imagenRelativa}`;
 
   const breadcrumbs = BREADCRUMB_LABELS[lang];
-  const homeUrl = lang === "es" ? SITE_URL : `${SITE_URL}/${lang}`;
+  // En `app/[lang]/*`, `lang` nunca es "es" (generateStaticParams filtra el
+  // idioma por defecto en LangLayout). TS lo detecta como comparación
+  // inalcanzable, por eso construimos la URL prefijada directamente.
+  const homeUrl = `${SITE_URL}/${lang}`;
 
   const jsonLd = {
     "@context": "https://schema.org",

@@ -39,15 +39,12 @@ export default function Page() {
   // El tour ancla es el que tiene `ancla: true` en el frontmatter
   const tourAncla = landing.tours.find((t) => t.ancla) ?? landing.tours[0];
 
+  // El `<main className="pb-24 md:pb-0">` y la franja de marca viven en
+  // `app/sem/layout.tsx` (regla §8 de reglas-proyecto-exploraspain.md:
+  // chrome vive en el shell, no en pages).
   return (
-    <main className="pb-24 md:pb-0">
+    <>
       <GclidCapture />
-
-      {/* Franja decorativa de marca · sin sticky (libera pantalla en scroll SEM) */}
-      <div
-        className="h-8 bg-amber-400 border-b-4 border-sky-500"
-        aria-hidden="true"
-      />
 
       <SemHero
         titulo={landing.titulo}
@@ -90,6 +87,6 @@ export default function Page() {
         tourAncla={tourAncla}
         landingSlug={landing.slug}
       />
-    </main>
+    </>
   );
 }
