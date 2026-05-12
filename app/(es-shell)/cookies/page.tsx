@@ -222,7 +222,7 @@ export default function CookiesPage() {
         <div className="mt-12 text-center">
           <Link
             href="/"
-            className="text-sky-600 hover:text-sky-700 font-medium"
+            className="text-sky-600 hover:text-sky-700 font-semibold"
           >
             ← Volver a la portada
           </Link>

@@ -105,7 +105,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
             <Link
               key={e.href}
               href={e.href}
-              className="text-slate-900 hover:text-sky-700 font-medium transition-colors"
+              className="text-slate-900 hover:text-sky-700 font-semibold transition-colors"
             >
               {e.label}
             </Link>
@@ -161,7 +161,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
                 key={e.href}
                 href={e.href}
                 onClick={() => setAbierto(false)}
-                className="py-3 px-2 text-lg text-slate-900 font-medium border-b border-amber-500/40 last:border-b-0 hover:bg-amber-500 rounded transition-colors"
+                className="py-3 px-2 text-lg text-slate-900 font-semibold border-b border-amber-500/40 last:border-b-0 hover:bg-amber-500 rounded transition-colors"
               >
                 {e.label}
               </Link>

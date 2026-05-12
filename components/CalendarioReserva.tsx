@@ -295,7 +295,7 @@ export default function CalendarioReserva({
               {t.diasSemana.map((d, idx) => (
                 <div
                   key={idx}
-                  className="text-[10px] text-slate-400 font-medium py-1"
+                  className="text-[10px] text-slate-400 font-semibold py-1"
                 >
                   {d}
                 </div>
@@ -343,11 +343,11 @@ export default function CalendarioReserva({
         <dl className="mt-4 pt-4 border-t border-slate-100 space-y-2 text-xs">
           <div className="flex justify-between">
             <dt className="text-slate-500">{textoDuracion}</dt>
-            <dd className="font-medium text-slate-900">{duracion}</dd>
+            <dd className="font-semibold text-slate-900">{duracion}</dd>
           </div>
           <div className="flex justify-between">
             <dt className="text-slate-500">{textoIdiomas}</dt>
-            <dd className="font-medium text-slate-900">
+            <dd className="font-semibold text-slate-900">
               {idiomas.map((i) => i.toUpperCase()).join(", ")}
             </dd>
           </div>

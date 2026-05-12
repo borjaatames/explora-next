@@ -55,7 +55,7 @@ export default function FaqActividad({ idioma, preguntas }: Props) {
               className="
                 flex items-start justify-between gap-4 cursor-pointer
                 list-none [&::-webkit-details-marker]:hidden
-                font-medium text-slate-900
+                font-semibold text-slate-900
                 hover:text-sky-700 transition-colors
                 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded
               "

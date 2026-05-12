@@ -112,7 +112,7 @@ export default function MapaPuntoEncuentro({ idioma, punto }: Props) {
           href={urlGoogleMaps}
           target="_blank"
           rel="noopener noreferrer"
-          className="block w-full text-center text-sm font-medium text-slate-900 bg-white border border-slate-300 rounded-md px-4 py-2.5 hover:bg-slate-50 hover:border-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 transition-colors"
+          className="block w-full text-center text-sm font-semibold text-slate-900 bg-white border border-slate-300 rounded-md px-4 py-2.5 hover:bg-slate-50 hover:border-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 transition-colors"
         >
           {t.abrirGoogleMaps}
         </a>

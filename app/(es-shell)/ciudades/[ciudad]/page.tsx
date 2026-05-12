@@ -218,7 +218,7 @@ export default async function CiudadPage({ params }: Props) {
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href="/ciudades"
-          className="text-sky-600 hover:text-sky-700 font-medium"
+          className="text-sky-600 hover:text-sky-700 font-semibold"
         >
           ← Ver todas las ciudades
         </Link>
@@ -253,7 +253,7 @@ function ActividadCardCiudad({ actividad }: ActividadCardCiudadProps) {
         ) : null}
       </div>
       <div className="flex flex-col flex-1 p-5">
-        <p className="text-xs font-medium uppercase tracking-wider text-slate-500 mb-2">
+        <p className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2">
           {actividad.duracion}
         </p>
         <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-sky-700 transition-colors">

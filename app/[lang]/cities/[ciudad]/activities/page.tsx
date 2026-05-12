@@ -216,7 +216,7 @@ function TarjetaCategoria({
         </p>
         <span
           aria-hidden="true"
-          className="mt-auto pt-6 text-sm font-medium text-sky-600 group-hover:text-sky-700"
+          className="mt-auto pt-6 text-sm font-semibold text-sky-600 group-hover:text-sky-700"
         >
           See activities →
         </span>

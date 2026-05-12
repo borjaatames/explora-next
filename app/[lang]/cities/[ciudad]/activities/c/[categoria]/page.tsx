@@ -309,7 +309,7 @@ function TarjetaActividad({
           </div>
           <span
             aria-hidden="true"
-            className="text-sm font-medium text-sky-600 group-hover:text-sky-700"
+            className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
           >
             {dict.actividades.verActividad} →
           </span>

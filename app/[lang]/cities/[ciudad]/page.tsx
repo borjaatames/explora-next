@@ -209,7 +209,7 @@ export default async function CiudadPage({ params }: Props) {
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href={urlIndiceCiudades(lang)}
-          className="text-sky-600 hover:text-sky-700 font-medium"
+          className="text-sky-600 hover:text-sky-700 font-semibold"
         >
           ← {dict.ciudades.volverACiudades}
         </Link>

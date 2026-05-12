@@ -503,7 +503,7 @@ export default async function ActividadPage({ params }: Props) {
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
         <Link
           href={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
-          className="text-sky-600 hover:text-sky-700 font-medium"
+          className="text-sky-600 hover:text-sky-700 font-semibold"
         >
           ← See more things to do in {ciudad.nombre}
         </Link>

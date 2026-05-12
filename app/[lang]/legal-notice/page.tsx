@@ -287,7 +287,7 @@ export default function LegalNoticePage({
         <div className="mt-12 text-center">
           <Link
             href={`/${lang}`}
-            className="text-sky-600 hover:text-sky-700 font-medium"
+            className="text-sky-600 hover:text-sky-700 font-semibold"
           >
             ← Back to home
           </Link>

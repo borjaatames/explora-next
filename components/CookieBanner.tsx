@@ -126,7 +126,7 @@ export default function CookieBanner({ idioma }: Props) {
           <button
             type="button"
             onClick={rechazar}
-            className="flex-1 lg:flex-none rounded-md border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition-colors hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+            className="flex-1 lg:flex-none rounded-md border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition-colors hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
           >
             {t.rechazar}
           </button>

@@ -259,7 +259,7 @@ export default async function GuiaPage({ params }: Props) {
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href="/guias"
-          className="text-sky-600 hover:text-sky-700 font-medium"
+          className="text-sky-600 hover:text-sky-700 font-semibold"
         >
           ← Volver a todas las guías
         </Link>
