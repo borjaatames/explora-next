@@ -140,19 +140,6 @@ export default function CookieBanner({ idioma }: Props) {
         </div>
       </div>
 
-      <style jsx>{`
-        @keyframes cookie-slide-up {
-          from {
-            transform: translateY(100%);
-          }
-          to {
-            transform: translateY(0);
-          }
-        }
-        .animate-cookie-slide-up {
-          animation: cookie-slide-up 0.3s ease-out;
-        }
-      `}</style>
     </div>
   );
 }

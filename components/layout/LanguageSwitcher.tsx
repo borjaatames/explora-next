@@ -21,6 +21,19 @@ function urlHomeIdioma(destino: Idioma): string {
 }
 
 /**
+ * Etiquetas accesibles del botón del selector, una por idioma.
+ * Garantiza que un lector de pantalla en español NO escuche "Change language".
+ */
+const ARIA_LABEL_CAMBIAR_IDIOMA: Record<Idioma, string> = {
+  es: "Cambiar idioma",
+  en: "Change language",
+  de: "Sprache ändern",
+  fr: "Changer de langue",
+  it: "Cambia lingua",
+  pt: "Mudar idioma",
+};
+
+/**
  * Selector de idioma autoreferencial (sin banderas).
  *
  * Resolución de la URL destino:
@@ -67,10 +80,10 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
       <button
         type="button"
         onClick={() => setAbierto((v) => !v)}
-        className="flex items-center gap-1 text-slate-900 hover:text-sky-700 font-medium transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+        className="flex items-center gap-1 text-slate-900 hover:text-sky-700 font-semibold transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
         aria-haspopup="listbox"
         aria-expanded={abierto}
-        aria-label="Change language"
+        aria-label={ARIA_LABEL_CAMBIAR_IDIOMA[idiomaActual]}
       >
         <span>{etiquetaActual.nombre}</span>
         <svg
