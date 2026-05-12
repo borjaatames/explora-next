@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import Script from "next/script";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import Analytics from "@/components/Analytics";
 import "./globals.css";
 
@@ -102,6 +103,17 @@ export default function RootLayout({
       <body className="font-inter bg-white text-slate-900 antialiased">
         {children}
         <Analytics gaId={gaId} />
+        {/*
+         * Vercel Speed Insights: recoge Core Web Vitals (LCP, INP, CLS,
+         * FCP, TTFB) de usuarios reales en sus dispositivos reales y los
+         * envía al dashboard de Vercel. Sin cookies, sin PII, anonimizado
+         * — no requiere consentimiento bajo GDPR.
+         *
+         * Solo emite señales cuando NEXT_PUBLIC_ALLOW_INDEXING="true"
+         * (producción real); en preview/staging quedaría desactivado para
+         * no contaminar las métricas con tráfico interno.
+         */}
+        {allowIndexing && <SpeedInsights />}
       </body>
     </html>
   );
