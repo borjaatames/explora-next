@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
@@ -243,12 +244,12 @@ function ActividadCardCiudad({ actividad }: ActividadCardCiudadProps) {
     >
       <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
         {actividad.imagen ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
+          <Image
             src={actividad.imagen}
             alt={actividad.imagenAlt}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-            loading="lazy"
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            className="object-cover group-hover:scale-105 transition-transform duration-300"
           />
         ) : null}
       </div>

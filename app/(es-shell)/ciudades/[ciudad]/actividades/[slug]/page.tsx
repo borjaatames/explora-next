@@ -395,6 +395,7 @@ export default async function ActividadPage({ params }: Props) {
             {variantes.length > 0 && (
               <CarruselVariantes
                 variantes={variantes}
+                idioma="es"
                 titulo={`Otras formas de visitar ${actividad.titulo
                   .replace(/^Visita guiada al?\s+/i, "")
                   .replace(/^Tour( del?| por el?)?\s+/i, "")}`}

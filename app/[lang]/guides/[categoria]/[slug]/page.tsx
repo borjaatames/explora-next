@@ -12,6 +12,23 @@ import { getDictionary } from "@/lib/i18n/getDictionary";
 import { formatearFecha, hreflangAlternates, urlGuia, urlIndiceGuias } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+
+/**
+ * Labels de breadcrumb por idioma. Se usan tanto en el BreadcrumbList
+ * JSON-LD como en el <nav aria-label> visible (cuando se renderice).
+ * Hoy solo EN está activo; al añadir DE/FR/IT/PT, completar este mapa.
+ */
+const BREADCRUMB_LABELS: Record<Idioma, { home: string; guias: string }> = {
+  es: { home: "Inicio", guias: "Guías" },
+  en: { home: "Home", guias: "Guides" },
+  de: { home: "Home", guias: "Guides" },
+  fr: { home: "Home", guias: "Guides" },
+  it: { home: "Home", guias: "Guides" },
+  pt: { home: "Home", guias: "Guides" },
+};
+
 type Props = {
   params: { lang: string; categoria: string; slug: string };
 };
@@ -34,8 +51,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const guia = await obtenerGuia(lang, params.categoria, params.slug);
   if (!guia) return { title: "Not found" };
 
-  const url = `https://exploraspain.com${guia.url}`;
+  const url = `${SITE_URL}${guia.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+
+  // Imagen absoluta para Open Graph y Twitter (necesaria en WhatsApp,
+  // X/Twitter, LinkedIn, Facebook). Misma lógica que la versión ES.
+  const imagenRelativa =
+    guia.imagen_portada || guia.imagen || "/images/og-default.jpg";
+  const imagenAbsoluta = imagenRelativa.startsWith("http")
+    ? imagenRelativa
+    : `${SITE_URL}${imagenRelativa}`;
 
   return {
     title: guia.titulo,
@@ -64,9 +89,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: guia.titulo,
       description: guia.descripcion,
       publishedTime: guia.fecha,
+      modifiedTime: guia.fecha_actualizacion || guia.fecha,
       authors: guia.autor ? [guia.autor] : undefined,
       siteName: "ExploraSpain",
       locale: IDIOMA_LOCALE[lang],
+      images: [
+        {
+          url: imagenAbsoluta,
+          alt: guia.imagen_alt || guia.titulo,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: guia.titulo,
+      description: guia.descripcion,
+      images: [imagenAbsoluta],
     },
   };
 }
@@ -88,13 +126,24 @@ export default async function GuiaPage({ params }: Props) {
     3
   );
 
+  // Imagen absoluta para JSON-LD (Google la requiere completa).
+  const imagenRelativa =
+    guia.imagen_portada || guia.imagen || "/images/og-default.jpg";
+  const imagenAbsoluta = imagenRelativa.startsWith("http")
+    ? imagenRelativa
+    : `${SITE_URL}${imagenRelativa}`;
+
+  const breadcrumbs = BREADCRUMB_LABELS[lang];
+  const homeUrl = lang === "es" ? SITE_URL : `${SITE_URL}/${lang}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: guia.titulo,
     description: guia.descripcion,
+    image: imagenAbsoluta,
     datePublished: guia.fecha,
-    dateModified: guia.fecha,
+    dateModified: guia.fecha_actualizacion || guia.fecha,
     author: {
       "@type": "Organization",
       name: guia.autor || "ExploraSpain",
@@ -102,13 +151,38 @@ export default async function GuiaPage({ params }: Props) {
     publisher: {
       "@type": "Organization",
       name: "ExploraSpain",
-      url: "https://exploraspain.com",
+      url: SITE_URL,
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://exploraspain.com${guia.url}`,
+      "@id": `${SITE_URL}${guia.url}`,
     },
     keywords: guia.keywords?.join(", "),
+  };
+
+  const breadcrumbsLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: breadcrumbs.home,
+        item: homeUrl,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: breadcrumbs.guias,
+        item: `${SITE_URL}${urlIndiceGuias(lang)}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: guia.titulo,
+        item: `${SITE_URL}${guia.url}`,
+      },
+    ],
   };
 
   return (
@@ -116,6 +190,10 @@ export default async function GuiaPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
       <header className="bg-sky-500 text-white py-12 md:py-16">

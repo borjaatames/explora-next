@@ -388,6 +388,7 @@ export default async function ActividadPage({ params }: Props) {
             {variantes.length > 0 && (
               <CarruselVariantes
                 variantes={variantes}
+                idioma={IDIOMA}
                 titulo={`Other ways to visit ${actividad.titulo
                   .replace(/^Private\s+/i, "")
                   .replace(/^Royal Palace and\s+/i, "")

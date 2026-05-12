@@ -2,14 +2,29 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { obtenerListaGuias } from "@/lib/guias";
-import { esIdiomaActivo } from "@/lib/i18n/config";
+import {
+  esIdiomaActivo,
+  IDIOMAS_ACTIVOS,
+  IDIOMA_LOCALE,
+} from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
-import { formatearFecha, urlIndiceGuias } from "@/lib/i18n/utils";
+import {
+  formatearFecha,
+  hreflangAlternates,
+  urlIndiceGuias,
+} from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 type Props = {
   params: { lang: string };
 };
+
+export function generateStaticParams() {
+  return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!esIdiomaActivo(params.lang) || params.lang === "es") {
@@ -17,11 +32,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
   const lang: Idioma = params.lang;
   const dict = getDictionary(lang);
+  const canonical = `${SITE_URL}${urlIndiceGuias(lang)}`;
   return {
     title: dict.guias.tituloIndice,
     description: dict.guias.descripcionIndice,
     alternates: {
-      canonical: `https://exploraspain.com${urlIndiceGuias(lang)}`,
+      canonical,
+      languages: hreflangAlternates((l) => urlIndiceGuias(l)),
+    },
+    openGraph: {
+      type: "website",
+      url: canonical,
+      title: dict.guias.tituloIndice,
+      description: dict.guias.descripcionIndice,
+      siteName: "ExploraSpain",
+      locale: IDIOMA_LOCALE[lang],
     },
   };
 }

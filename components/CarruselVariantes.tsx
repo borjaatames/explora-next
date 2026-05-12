@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { ActividadListItem } from "@/lib/actividades";
+import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
   variantes: ActividadListItem[];
@@ -9,7 +10,29 @@ type Props = {
    * nombre de la atracción. El page se encarga de pasarlo construido.
    */
   titulo: string;
+  /**
+   * Idioma de la página padre. Determina el copy del CTA mobile, el
+   * locale de Intl.NumberFormat (precio) y el texto "Desde".
+   */
+  idioma: Idioma;
 };
+
+const DICT = {
+  es: {
+    deslizar: "Desliza para ver más →",
+    desde: "Desde",
+    localePrecio: "es-ES",
+  },
+  en: {
+    deslizar: "Swipe to see more →",
+    desde: "From",
+    localePrecio: "en-US",
+  },
+} as const;
+
+function textosCarrusel(idioma: Idioma): (typeof DICT)[keyof typeof DICT] {
+  return idioma === "en" ? DICT.en : DICT.es;
+}
 
 /**
  * Carrusel "Otras formas de visitar el Prado" — ofrece variantes de la
@@ -25,8 +48,14 @@ type Props = {
  *
  * Si la lista está vacía, devuelve null y el page no renderiza la sección.
  */
-export default function CarruselVariantes({ variantes, titulo }: Props) {
+export default function CarruselVariantes({
+  variantes,
+  titulo,
+  idioma,
+}: Props) {
   if (!variantes || variantes.length === 0) return null;
+
+  const t = textosCarrusel(idioma);
 
   return (
     <section aria-labelledby="variantes-titulo">
@@ -36,9 +65,7 @@ export default function CarruselVariantes({ variantes, titulo }: Props) {
       >
         {titulo}
       </h2>
-      <p className="text-sm text-slate-500 mb-5 md:hidden">
-        Desliza para ver más →
-      </p>
+      <p className="text-sm text-slate-500 mb-5 md:hidden">{t.deslizar}</p>
 
       <div
         className="
@@ -51,17 +78,23 @@ export default function CarruselVariantes({ variantes, titulo }: Props) {
         "
       >
         {variantes.map((variante) => (
-          <VarianteCard key={variante.url} actividad={variante} />
+          <VarianteCard
+            key={variante.url}
+            actividad={variante}
+            idioma={idioma}
+          />
         ))}
       </div>
     </section>
   );
 }
 
-type CardProps = { actividad: ActividadListItem };
+type CardProps = { actividad: ActividadListItem; idioma: Idioma };
 
-function VarianteCard({ actividad }: CardProps) {
-  const precio = new Intl.NumberFormat("es-ES", {
+function VarianteCard({ actividad, idioma }: CardProps) {
+  const t = textosCarrusel(idioma);
+
+  const precio = new Intl.NumberFormat(t.localePrecio, {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
@@ -96,7 +129,7 @@ function VarianteCard({ actividad }: CardProps) {
           {actividad.descripcion}
         </p>
         <p className="text-xs text-slate-500">
-          {actividad.duracion} · Desde{" "}
+          {actividad.duracion} · {t.desde}{" "}
           <span className="font-semibold text-slate-900">{precio}</span>
         </p>
       </div>

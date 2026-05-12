@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import {
@@ -166,18 +167,20 @@ export default function HomePage() {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {ciudades.map((ciudad) => (
+              {ciudades.map((ciudad, index) => (
                 <Link
                   key={ciudad.url}
                   href={ciudad.url}
                   className="group block bg-white border border-amber-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
                 >
                   <div className="relative w-full h-44 bg-slate-100 overflow-hidden">
-                    <img
+                    <Image
                       src={`/ciudades/${ciudad.slug}.jpg`}
                       alt={`${ciudad.nombre}, ${ciudad.comunidad}`}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                      loading="lazy"
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-300"
+                      priority={index === 0}
                     />
                   </div>
                   <div className="p-6">
