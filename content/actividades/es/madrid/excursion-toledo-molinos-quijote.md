@@ -105,17 +105,27 @@ opinionEditorial: |
 categoria: "excursion"
 keywords: ["excursion toledo molinos quijote", "consuegra molinos viento desde madrid", "tour quijote la mancha", "toledo y molinos cervantes", "excursion premium toledo grupo pequeño"]
 
-imagen: "/images/actividades/madrid/toledo/molinos-consuegra.webp"
-imagenAlt: "12 molinos de viento blancos en el Cerro Calderico de Consuegra al atardecer"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
+imagenAlt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Vista panorámica del casco histórico de Toledo al atardecer"
-  - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "Puente de San Martín de Toledo con el casco antiguo al fondo"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Arco mudéjar cubierto de hiedra en una calle del barrio judío de Toledo"
-
+  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
+    alt: "Historic castle and bridge under a blue sky"
+  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
+    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
+  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
+    alt: "toledo, medieval city, architecture, historical"
+  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
+    alt: "Sinagoga del Tránsito - Artesonado 01"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
+    alt: "Spain-36 - Toledo"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
+    alt: "spain, toledo, bridge, ramparts"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
+    alt: "toledo, spain, landscape, travel, river"
+  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
+    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
 ratingProveedor: 4.9
 numeroOpiniones: 223
 

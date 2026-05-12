@@ -83,18 +83,35 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["palacio real prado tour", "madrid imprescindibles guiado", "tour combinado madrid", "palacio prado entrada sin colas"]
 
-imagen: "/images/actividades/madrid/prado/fachada-tarde.webp"
-imagenAlt: "Fachada del Museo del Prado con luz de tarde"
-galeria:
-  - src: "/images/actividades/madrid/prado/fachada-principal.webp"
-    alt: "Fachada principal del Museo del Prado en Madrid"
-  - src: "/images/actividades/madrid/prado/estatua-velazquez.webp"
-    alt: "Estatua de Velázquez frente al Museo del Prado"
-  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
-    alt: "Galería interior de un museo de arte clásico con visitantes"
-  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
-    alt: "Visitante contemplando una obra de arte en una galería"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/prado/museo-del-prado-charles-iv-spain-his-family-hero.webp"
+imagenAlt: "Charles IV of Spain and His Family"
 
+galeria:
+  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-spain-capital-city-museum-hero.webp"
+    alt: "madrid, spain, capital city, museum, prado"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+    alt: "A clear day at the Royal Palace of Madrid with tourists in the plaza."
+  - src: "/images/actividades/madrid/prado/museo-del-prado-meninas-maids-honor-title-qs-p1476-hero.webp"
+    alt: "Las Meninas (The Maids of Honor) title QS:P1476,en:\"Las Meninas (The Maids of Honor) \"label QS:Len,\"Las Meninas (The Maids of Honor) \"label"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+    alt: "Discover the grandeur of the Royal Palace of Madrid, a historic and architectural marvel."
+  - src: "/images/actividades/madrid/prado/museo-del-prado-oct-1999-hero.webp"
+    alt: "Museo del Prado, Oct 1999"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+    alt: "Elegant neoclassical architecture of the Royal Palace of Madrid captured at dusk."
+  - src: "/images/actividades/madrid/prado/museo-del-prado-panel-painting-wall-painting-hero.webp"
+    alt: "panel painting, wall painting, the garden of earthly delights, hieronymus bosch's triptychs, painting"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
+    alt: "Equestrian statue in front of the Royal Palace of Madrid under a clear blue sky."
+  - src: "/images/actividades/madrid/prado/museo-del-prado-saturn-devouring-his-son-from-hero.webp"
+    alt: "Saturn Devouring His Son (from The Black Paintings) title QS:P1476,en:\"Saturn Devouring His Son (from The Black Paintings) \"label"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero.webp"
+    alt: "Explore the architectural beauty of the Royal Palace of Madrid on a clear day."
+  - src: "/images/actividades/madrid/prado/museo-del-prado-spanish-carlos-v-batalla-muhlberg-hero.webp"
+    alt: "Spanish: Carlos V en la batalla de Mühlberg Equestrian Portrait of Charles Vlabel QS:Les,\"Carlos V en la batalla de Mühlberg\"label"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-grandeur-historic-baroque-hero.webp"
+    alt: "Explore the grandeur of a historic baroque palace facade under a clear blue sky."
 ratingProveedor: 4.5
 numeroOpiniones: 1405
 

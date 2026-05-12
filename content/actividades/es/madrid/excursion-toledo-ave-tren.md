@@ -101,17 +101,27 @@ opinionEditorial: |
 categoria: "excursion"
 keywords: ["toledo en ave desde madrid", "tour grupo pequeño toledo", "excursion toledo tren alta velocidad", "ave madrid toledo guiado", "visitar toledo desde madrid en tren"]
 
-imagen: "/images/actividades/madrid/toledo/toledo-ave.webp"
-imagenAlt: "Tren AVE de alta velocidad en una estación con paisaje de campo castellano al fondo"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
+imagenAlt: "españa la bella, toledo, spain, panorama, medieval"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Vista panorámica del casco histórico de Toledo al atardecer sobre el río Tajo"
-  - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "Puente de San Martín de Toledo con el casco antiguo al fondo"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Detalle de fachada mudéjar en el casco antiguo de Toledo"
-
+  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
+    alt: "Historic castle and bridge under a blue sky"
+  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
+    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
+  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
+    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
+    alt: "toledo, spain, landscape, travel, river"
+  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
+    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
+  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
+    alt: "alcazar, bridge, toledo, spain, historical"
+  - src: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
+    alt: "alcazar de toledo, fortress, spain, architecture, toledo"
+  - src: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
+    alt: "Toledo Calle Comercio"
 ratingProveedor: 4.9
 numeroOpiniones: 222
 

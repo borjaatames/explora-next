@@ -86,18 +86,27 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["museo prado", "velazquez", "goya", "arte madrid", "tour prado"]
 
-imagen: "/images/actividades/madrid/prado/fachada-principal.webp"
-imagenAlt: "Fachada principal del Museo del Prado en Madrid"
-galeria:
-  - src: "/images/actividades/madrid/prado/fachada-tarde.webp"
-    alt: "Fachada del Museo del Prado con luz de tarde"
-  - src: "/images/actividades/madrid/prado/estatua-velazquez.webp"
-    alt: "Estatua de Velázquez frente al Museo del Prado"
-  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
-    alt: "Galería interior de un museo de arte clásico con visitantes"
-  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
-    alt: "Visitante contemplando una obra de arte en una galería"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/prado/museo-del-prado-2016-25185969599-hero.webp"
+imagenAlt: "Museo del Prado 2016"
 
+galeria:
+  - src: "/images/actividades/madrid/prado/museo-del-prado-apollo-forge-vulcan-label-qs-leu-hero.webp"
+    alt: "Apollo in the Forge of Vulcan label QS:Leu,\"Vulkanoren sutegia\"label QS:Lde,\"Apollo in der Schmiede Vulkans\"label QS:Luk,\"Кузня"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-charles-iv-spain-his-family-hero.webp"
+    alt: "Charles IV of Spain and His Family"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-clothed-maja-desnuda-hero.webp"
+    alt: "The Clothed Maja and La maja desnuda"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-clothed-maja-woman-painting-oil-hero.webp"
+    alt: "the clothed maja, woman, painting, oil painting, francisco de goya"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-entrance-2024-hero.webp"
+    alt: "Museo del Prado Entrance 2024"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-francisco-goya-maja-desnuda-hero.webp"
+    alt: "Francisco Goya - La maja desnuda, photoshop'ed"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-by-bosch-hero.webp"
+    alt: "The Garden of Earthly Delights by Bosch High Resolutioncrop"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-label-qs-hero.webp"
+    alt: "The Garden of Earthly Delights label QS:Lit,\"Il giardino delle delizie\" label QS:Lja,\"快楽の園\" label QS:Lfr,\"Le jardin des délices\" label"
 ratingProveedor: 4.8
 numeroOpiniones: 549
 

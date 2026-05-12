@@ -100,17 +100,27 @@ opinionEditorial: |
 categoria: "excursion"
 keywords: ["excursion toledo cata vinos", "tour toledo bodega", "toledo bodega siglo XVIII", "excursion gastronomica toledo", "cata vinos cerca toledo bargas"]
 
-imagen: "/images/actividades/madrid/toledo/toledo-vinos.webp"
-imagenAlt: "Copas de vino tinto sobre una mesa de madera con tapas españolas tradicionales"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
+imagenAlt: "Historic castle and bridge under a blue sky"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Vista panorámica del casco histórico de Toledo al atardecer"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Arco mudéjar cubierto de hiedra en una calle del barrio judío de Toledo"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Detalle de fachada mudéjar en el casco antiguo de Toledo"
-
+  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
+    alt: "Ceiling of Sinagoga de Transito - Toledo (4)"
+  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
+    alt: "españa la bella, toledo, spain, panorama, medieval"
+  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
+    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
+  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
+    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
+  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
+    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
+  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
+    alt: "toledo, medieval city, architecture, historical"
+  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
+    alt: "Sinagoga del Tránsito - Artesonado 01"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
+    alt: "Spain-36 - Toledo"
 ratingProveedor: 4.9
 numeroOpiniones: 2658
 

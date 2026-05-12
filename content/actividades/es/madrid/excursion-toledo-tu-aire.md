@@ -101,17 +101,27 @@ opinionEditorial: |
 categoria: "excursion"
 keywords: ["toledo desde madrid barato", "excursion toledo a tu aire", "bus toledo desde madrid", "trenecito toledo", "toledo independiente"]
 
-imagen: "/images/actividades/madrid/toledo/toledo-libre.webp"
-imagenAlt: "Callejón estrecho con relieves de piedra labrada en el casco histórico de Toledo"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
+imagenAlt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Vista panorámica del casco histórico de Toledo al atardecer"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Detalle de fachada mudéjar en el casco antiguo de Toledo"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Arco mudéjar cubierto de hiedra en una calle del barrio judío de Toledo"
-
+  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
+    alt: "spain, toledo, bridge, ramparts"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
+    alt: "toledo, spain, landscape, travel, river"
+  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
+    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
+  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
+    alt: "alcazar, bridge, toledo, spain, historical"
+  - src: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
+    alt: "alcazar de toledo, fortress, spain, architecture, toledo"
+  - src: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
+    alt: "Toledo Calle Comercio"
+  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
+    alt: "Ceiling of Sinagoga de Transito - Toledo (4)"
+  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
+    alt: "españa la bella, toledo, spain, panorama, medieval"
 ratingProveedor: 3.9
 numeroOpiniones: 12
 

@@ -91,19 +91,27 @@ keywords: ["tour tapas madrid", "cata vinos madrid", "barrio de las letras", "to
 
 
 # ─── 12. IMAGES ──────────────────────────────────────────
-imagen: "/images/actividades/madrid/barrio-letras/hero.webp"
-imagenAlt: "Tapas españolas y vino sobre una barra de madera en el Barrio de las Letras de Madrid"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp"
+imagenAlt: "madrid, arena, facade, architecture, bull fighting"
 
 galeria:
-  - src: "/images/actividades/madrid/barrio-letras/01.webp"
-    alt: "Tapas y vino sobre una barra de madera en el Barrio de las Letras — vista 1"
-  - src: "/images/actividades/madrid/barrio-letras/02.webp"
-    alt: "Tapas y vino sobre una barra de madera en el Barrio de las Letras — vista 2"
-  - src: "/images/actividades/madrid/barrio-letras/03.webp"
-    alt: "Tapas y vino sobre una barra de madera en el Barrio de las Letras — vista 3"
-
-
-# ─── 13. AGGREGATE RATING (Viator PDF) ───────────────────
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp"
+    alt: "Bar Hawaiano, Plaza de Santa Ana, Madrid (rainy December)"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bronze-sculpture-ventas-bullring-hero.webp"
+    alt: "Bronze sculpture at Las Ventas bullring in Madrid, Spain showcasing traditional Spanish architecture."
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-building-architecture-urban-city-hero.webp"
+    alt: "building, madrid, architecture, urban, city"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-cervantes-memorial-spain-statue-hero.webp"
+    alt: "cervantes, memorial, madrid, spain, statue"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-circle-fine-arts-center-hero.webp"
+    alt: "madrid, circle of fine arts, center of madrid"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-daytime-view-teatro-real-people-hero.webp"
+    alt: "Daytime view of the Teatro Real in Madrid, with people strolling by, under clear skies."
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-detailed-facade-sculptures-latin-hero.webp"
+    alt: "Detailed facade with sculptures and Latin inscriptions on Calle Mayor."
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp"
+    alt: "Discover a quaint street in Madrid with classic architecture and a warm atmosphere."
 ratingProveedor: 4.9
 numeroOpiniones: 3832
 

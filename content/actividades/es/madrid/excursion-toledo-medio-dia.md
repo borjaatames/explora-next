@@ -98,23 +98,27 @@ categoria: "excursion"
 
 keywords: ["excursion toledo desde madrid", "toledo medio dia", "tour toledo en autobus", "visitar toledo", "excursion toledo julia travel", "viaje toledo madrid"]
 
-imagen: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-imagenAlt: "Vista del puente de Alcántara sobre el Tajo con el Alcázar de Toledo en lo alto"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
+imagenAlt: "alcazar de toledo, fortress, spain, architecture, toledo"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/hero-alcazar.webp"
-    alt: "Fachada del Alcázar de Toledo con sus torres y chapiteles de pizarra"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Detalle de arcos mudéjares y pináculos góticos de un edificio del casco histórico de Toledo"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Calle empedrada del casco antiguo de Toledo con luz cálida al atardecer"
-  - src: "/images/actividades/madrid/toledo/callejon-tipico.webp"
-    alt: "Callejón estrecho con relieves de piedra labrada en el casco histórico de Toledo"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Arco mudéjar de ladrillo y piedra con hiedra colgante en una muralla de Toledo"
-  - src: "/images/actividades/madrid/toledo/patio-columnas.webp"
-    alt: "Patio renacentista con arcos de medio punto y columnas de piedra en Toledo"
-
+  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
+    alt: "Historic castle and bridge under a blue sky"
+  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
+    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
+  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
+    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
+  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
+    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
+  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
+    alt: "toledo, medieval city, architecture, historical"
+  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
+    alt: "Sinagoga del Tránsito - Artesonado 01"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
+    alt: "Spain-36 - Toledo"
+  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
+    alt: "spain, toledo, bridge, ramparts"
 ratingProveedor: 4.5
 numeroOpiniones: 6033
 

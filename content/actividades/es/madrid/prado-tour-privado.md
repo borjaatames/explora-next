@@ -79,18 +79,27 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour privado prado", "guia privado madrid prado", "visita privada museo", "prado privado español"]
 
-imagen: "/images/actividades/madrid/prado/estatua-velazquez.webp"
-imagenAlt: "Estatua de Velázquez frente al Museo del Prado"
-galeria:
-  - src: "/images/actividades/madrid/prado/fachada-principal.webp"
-    alt: "Fachada principal del Museo del Prado en Madrid"
-  - src: "/images/actividades/madrid/prado/fachada-tarde.webp"
-    alt: "Fachada del Museo del Prado con luz de tarde"
-  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
-    alt: "Galería interior de un museo de arte clásico con visitantes"
-  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
-    alt: "Visitante contemplando una obra de arte en una galería"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/prado/museo-del-prado-apollo-forge-vulcan-label-qs-leu-hero.webp"
+imagenAlt: "Apollo in the Forge of Vulcan label QS:Leu,\"Vulkanoren sutegia\"label QS:Lde,\"Apollo in der Schmiede Vulkans\"label QS:Luk,\"Кузня"
 
+galeria:
+  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-title-qs-hero.webp"
+    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-title-qs-2-hero.webp"
+    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-title-qs-3-hero.webp"
+    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-large-building-many-windows-hero.webp"
+    alt: "a large building with many windows"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-02-hero.webp"
+    alt: "Museo del Prado - Madrid 02"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-04-hero.webp"
+    alt: "Museo del Prado - Madrid 04"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-04-2-hero.webp"
+    alt: "Museo del Prado (Madrid) 04"
+  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-museum-architecture-art-hero.webp"
+    alt: "madrid, prado, museum, architecture, art"
 ratingProveedor: 4.7
 numeroOpiniones: 91
 
