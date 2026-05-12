@@ -63,6 +63,16 @@ function alternatesPara(
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  // Guard de indexación: si la flag no está activa (preview, staging,
+  // desarrollo), devolvemos sitemap vacío. Mantiene coherencia con
+  // `robots.ts`, que ya devuelve `disallow: "/"` en ese mismo caso.
+  // Sin este guard, `/sitemap.xml` expone toda la arquitectura URL aunque
+  // robots.txt diga disallow, lo que filtra el árbol de URLs antes de
+  // tiempo a Google y a cualquier scraper que pida el endpoint.
+  if (process.env.NEXT_PUBLIC_ALLOW_INDEXING !== "true") {
+    return [];
+  }
+
   const ahora = new Date();
   const entries: MetadataRoute.Sitemap = [];
 

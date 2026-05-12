@@ -1,8 +1,16 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import CalendarioReserva from "./CalendarioReserva";
+import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
+
+// CalendarioReserva pesa ~440 líneas y solo se renderiza cuando el usuario
+// abre el modal de reserva en móvil. Lo cargamos con `next/dynamic` para
+// que no entre en el bundle inicial de la ficha de actividad: el chunk se
+// descarga solo cuando `modalOpen` pasa a true por primera vez.
+const CalendarioReserva = dynamic(() => import("./CalendarioReserva"), {
+  ssr: false,
+});
 
 type Props = {
   idioma: Idioma;

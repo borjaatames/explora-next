@@ -3,13 +3,11 @@ import type { Idioma } from "@/lib/i18n/types";
 import Navbar from "./Navbar";
 
 /**
- * Wrapper Server Component del Navbar. Su única responsabilidad es
- * importar el mapa de parejas (que se genera leyendo filesystem en build)
- * y pasárselo al Navbar Client como prop estática.
- *
- * Este indireccionado es necesario porque el Navbar es un Client Component
- * (necesita useState, useEffect para el menú móvil) y los Client Components
- * no pueden importar directamente módulos que usen `fs`/`path`.
+ * Wrapper del Navbar que inyecta el mapa de parejas hreflang (generado en
+ * build leyendo filesystem). Existe como pieza separada por motivos
+ * históricos: cuando el Navbar era Client Component, este wrapper era
+ * necesario para hacer el bridge fs → props. Ahora que el Navbar es Server,
+ * podría inlinearse, pero se mantiene para no romper imports existentes.
  */
 type Props = {
   idioma: Idioma;

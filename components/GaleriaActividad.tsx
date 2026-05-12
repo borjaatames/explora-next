@@ -2,9 +2,17 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import Lightbox from "yet-another-react-lightbox";
+import dynamic from "next/dynamic";
 import "yet-another-react-lightbox/styles.css";
 import type { Idioma } from "@/lib/i18n/types";
+
+// El lightbox pesa ~50 KiB gzipped y solo se necesita cuando el usuario
+// pulsa una imagen para ampliarla. Lo cargamos con `next/dynamic` para
+// sacarlo del bundle inicial de la página. `ssr: false` evita intentar
+// renderizarlo en servidor (no aporta nada al HTML inicial y rompería).
+const Lightbox = dynamic(() => import("yet-another-react-lightbox"), {
+  ssr: false,
+});
 
 export type ImagenGaleria = {
   src: string;
