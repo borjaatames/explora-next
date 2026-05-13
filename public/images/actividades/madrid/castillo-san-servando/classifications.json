@@ -1,0 +1,28 @@
+{
+  "slug": "castillo-san-servando-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "castillo-san-servando-toledo-majestic-stone-castle-spain-bathed": {
+      "lugar": "castillo-san-servando-toledo",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "puerta",
+        "muralla",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:10:04.671Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

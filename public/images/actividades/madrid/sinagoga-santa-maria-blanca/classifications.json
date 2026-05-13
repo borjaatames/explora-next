@@ -1,0 +1,72 @@
+{
+  "slug": "sinagoga-santa-maria-blanca-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "sinagoga-santa-maria-blanca-toledo-6157703803": {
+      "lugar": "sinagoga-santa-maria-blanca-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "arcos",
+        "columnas",
+        "claustro",
+        "altar"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:10.892Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "sinagoga-santa-maria-blanca-toledo-6157710301": {
+      "lugar": "sinagoga-santa-maria-blanca-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "columnas",
+        "arcos",
+        "claustro",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:12.699Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "sinagoga-santa-maria-blanca-toledo-ceiling-sinagoga-transito-4": {
+      "lugar": "sinagoga-santa-maria-blanca-toledo",
+      "obra": "techo-decorativo-mudejar",
+      "confianza": 1,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "techo-mudejar",
+        "decoracion-geometrica",
+        "azulejo",
+        "fresco"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:09:50.948Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

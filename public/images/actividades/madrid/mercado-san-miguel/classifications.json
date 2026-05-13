@@ -1,0 +1,165 @@
+{
+  "slug": "mercado-san-miguel-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "mercado-san-miguel-madrid-001": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura-hierro",
+        "barra-bar",
+        "ambiente-historico",
+        "farol",
+        "vitrina-comercio"
+      ],
+      "calidadVisual": 0.78,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:17.968Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mercado-san-miguel-madrid-2018": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "farol",
+        "ambiente-historico",
+        "escaparate"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:19.894Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mercado-san-miguel-madrid-building-glass-front": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "galeria-comercial",
+        "vitrinas",
+        "iluminacion-artificial",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:21.751Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mercado-san-miguel-madrid-foto-2213627": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.65,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "farol",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.72,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra un edificio historico con fachada de hierro forjado pero parece ser una estructura comercial/mercado tradicional, no Mercado de San Miguel de Madrid."
+      },
+      "classifiedAt": "2026-05-13T14:19:24.462Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mercado-san-miguel-madrid-foto-715857": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "columna",
+        "cubierta-decorativa",
+        "calle-empedrada"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:26.294Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mercado-san-miguel-madrid-foto-7334415": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "farol",
+        "puerta",
+        "ventana",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:27.946Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mercado-san-miguel-madrid-foto-8659371": {
+      "lugar": "mercado-san-miguel-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "mercado-tradicional",
+        "arquitectura-hierro",
+        "iluminacion-artificial",
+        "barra-bar",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:30.003Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

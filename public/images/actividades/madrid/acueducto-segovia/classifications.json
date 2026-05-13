@@ -1,0 +1,182 @@
+{
+  "slug": "acueducto-segovia",
+  "schemaVersion": 1,
+  "entries": {
+    "acueducto-segovia-aqueduct-01": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "acueducto",
+        "arcos",
+        "piedra",
+        "plaza"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:41.166Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-aqueduct-02": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "arcos",
+        "piedra",
+        "panoramica-ciudad",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:46.201Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-aqueduct-04": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "acueducto",
+        "arcos",
+        "piedra",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:48.060Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-aqueduct-05": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "acueducto",
+        "arquitectura",
+        "panoramica-ciudad",
+        "arcos-piedra",
+        "calle-empedrada"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:49.909Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-aqueduct-06": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "acueducto",
+        "arcos",
+        "piedra",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:54.304Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-aqueduct-08": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.98,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "arco",
+        "piedra",
+        "panoramica-ciudad",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:56.195Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-aqueduct-2": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "puente",
+        "arcos",
+        "panoramica-ciudad",
+        "montana"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:01.641Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "acueducto-segovia-plaza-artilleria": {
+      "lugar": "acueducto-segovia",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "acueducto",
+        "arcos",
+        "plaza",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:39.080Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

@@ -95,17 +95,28 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["madrid premium tapas tour", "madrid private tapas", "small group tapas madrid", "english tapas tour madrid", "adventurous appetites madrid"]
 
-imagen: "/images/actividades/madrid/premium-tapas-tour/hero.webp"
-imagenAlt: "Small group sharing premium tapas at a traditional Madrid bar — Adventurous Appetites tour"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
+imagenAlt: "Puerta sol madrid statue city en Puerta sol"
 
 galeria:
-  - src: "/images/actividades/madrid/premium-tapas-tour/01.webp"
-    alt: "Traditional Madrid bar interior with Adventurous Appetites group sampling tapas"
-  - src: "/images/actividades/madrid/premium-tapas-tour/02.webp"
-    alt: "Selection of Spanish wines paired with tapas on a wooden bar counter"
-  - src: "/images/actividades/madrid/premium-tapas-tour/03.webp"
-    alt: "Guide explaining a tapa to a small group of travellers"
-
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-green-olives-small-white-bowl-hero.webp"
+    alt: "Tapas madrid green olives small white bowl en Tapas"
+  - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
+    alt: "Plaza santa ana madrid 26159833570 en Plaza santa ana"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
+    alt: "Close-up of a hand breaking a cheesy croquette, showcasing melted cheese filling."
+  - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-plaza-canovas-castillo-espana-2017-hero.webp"
+    alt: "Fuente de Neptuno, Plaza de Cánovas del Castillo, Madrid, España,"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp"
+    alt: "Tapas madrid person pouring red wine into glass en Tapas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+    alt: "aerial photography of vehicles passing between high rise buildings"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-ham-delicacy-food-meat-swine-hero.webp"
+    alt: "Tapas madrid ham delicacy food meat swine en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Tapas madrid jamon iberico tapa en Tapas"
 ratingProveedor: 5.0
 numeroOpiniones: 96
 

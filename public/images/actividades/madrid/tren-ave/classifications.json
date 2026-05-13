@@ -1,0 +1,48 @@
+{
+  "slug": "tren-ave-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "tren-ave-madrid-francesco-zivoli-kxmjfqctada-unsplash": {
+      "lugar": "tren-ave-madrid",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "tren-ave-madrid-marcelo-tmu-ubtcpe-unsplash": {
+      "lugar": "tren-ave-madrid",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "tren-ave-madrid-mp-rxehnsdyh5i-unsplash": {
+      "lugar": "tren-ave-madrid",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    }
+  }
+}

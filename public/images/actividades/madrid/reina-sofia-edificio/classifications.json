@@ -1,0 +1,138 @@
+{
+  "slug": "museo-reina-sofia-edificio",
+  "schemaVersion": 1,
+  "entries": {
+    "museo-reina-sofia-edificio-daytime-view-teatro-real-people": {
+      "lugar": "museo-reina-sofia-edificio",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ventana",
+        "farol",
+        "plaza"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:58.395Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-reina-sofia-edificio-madrid-6394601959": {
+      "lugar": "museo-reina-sofia-edificio",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "cartel-exposicion",
+        "plaza"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:55.520Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-reina-sofia-edificio-madrid-6394654203": {
+      "lugar": "museo-reina-sofia-edificio",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "escalinata",
+        "exposicion-temporal"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:57.253Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-reina-sofia-edificio-madrid-6394655371": {
+      "lugar": "museo-reina-sofia-edificio",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "letrero",
+        "entrada-museo"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:59.033Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain": {
+      "lugar": "museo-reina-sofia-edificio",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "galeria-arte",
+        "iluminacion-moderna",
+        "piso-marmol",
+        "exposicion"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:05:04.799Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan": {
+      "lugar": "museo-reina-sofia-edificio",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "fachada",
+        "torre",
+        "arquitectura",
+        "nocturna-iluminada",
+        "escalinata"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:05:08.724Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

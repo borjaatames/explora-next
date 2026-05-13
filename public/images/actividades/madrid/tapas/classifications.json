@@ -1,0 +1,228 @@
+{
+  "slug": "tapas-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "tapas-madrid-20250720-croquetas-jamon": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "comida",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "croquetas",
+        "plato-blanco",
+        "barra-bar"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:09.274Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-aceitunas-6827822494": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "aceitunas",
+        "barra-bar",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:10.927Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-aceitunas-manzanilla-espana": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "aceitunas",
+        "vino",
+        "mesa-mantel",
+        "barra-bar"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:12.635Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-appetizing-fried-arancini-balls": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "barra-bar",
+        "mesa-mantel",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:14.345Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-bartender-skillfully-measures": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.65,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "barra-bar",
+        "vino",
+        "ambiente-historico",
+        "profesional-barmans"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:16.035Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-bocadillo-calamares-22": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.65,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "cerveza",
+        "terraza",
+        "ambiente-historico",
+        "barra-bar"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:17.830Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-bocadillo-calamares-cana": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.4,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "barra-bar",
+        "calamares",
+        "cerveza",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.65,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Foto de comida en barra genérica sin identidad o lugar específico identificable para guía de viajes."
+      },
+      "classifiedAt": "2026-05-13T15:06:20.526Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-bocata-calamares": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.65,
+      "espacio": "comida",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "barra-bar",
+        "calamares-fritos",
+        "pan",
+        "cerveza"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:22.610Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-bustling-barcelona-market-scene": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.65,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "barra-bar",
+        "jamon-iberico",
+        "ambiente-historico",
+        "decoracion-rustica",
+        "clientes"
+      ],
+      "calidadVisual": 0.72,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "La densidad de gente y clientes dificulta la visualizacion clara del espacio y elementos del mercado."
+      },
+      "classifiedAt": "2026-05-13T15:21:18.808Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "tapas-madrid-chocolate-churros-20180604-094957": {
+      "lugar": "tapas-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "tapas",
+        "chocolate",
+        "churros",
+        "barra-bar",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:27.008Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

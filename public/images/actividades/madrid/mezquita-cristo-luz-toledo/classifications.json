@@ -1,0 +1,182 @@
+{
+  "slug": "mezquita-cristo-luz-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "mezquita-cristo-luz-toledo-2025-altar": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": "crucifijo-cristo-luz",
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "crucifijo",
+        "frescos",
+        "cupula",
+        "altar"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:03.471Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-2025-apse": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "arco",
+        "ladrillo",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:05.070Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-2025-facade": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "arco",
+        "puerta",
+        "reja"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:06.695Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-2025-interior": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "columnas",
+        "arcos",
+        "claustro",
+        "reja"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:08.201Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-2025-nave": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "columnas",
+        "arcos",
+        "altar",
+        "vitral"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:11.176Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-2025-qubba": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": "cupula-central",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "cupula",
+        "arquitectura",
+        "oculus",
+        "geometria-islanica",
+        "iluminacion-natural"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:13.003Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-foto-18200725": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": "boveda-entramado",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "boveda",
+        "entramado-geometrico",
+        "azulejo",
+        "claustro"
+      ],
+      "calidadVisual": 0.72,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:14.775Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "mezquita-cristo-luz-toledo-mosque": {
+      "lugar": "mezquita-cristo-luz-toledo",
+      "obra": "fachada-principal",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "arco-herradura",
+        "azulejo",
+        "puerta"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:16.573Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

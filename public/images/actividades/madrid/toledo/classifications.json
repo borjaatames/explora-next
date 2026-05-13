@@ -1,0 +1,96 @@
+{
+  "slug": "toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "toledo-espana-bella-spain-panorama": {
+      "lugar": "toledo",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "vista-aerea",
+        "catedral",
+        "arquitectura",
+        "panoramica-ciudad",
+        "calle-empedrada"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:09:53.285Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "toledo-medieval-city-architecture": {
+      "lugar": "toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "muralla",
+        "arquitectura",
+        "rio",
+        "torre",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:10:06.395Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "toledo-spain-bridge-ramparts-spain-2": {
+      "lugar": "toledo",
+      "obra": "puente-san-martin-toledo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "puente",
+        "rio",
+        "arquitectura",
+        "muralla",
+        "catedral"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:10:15.304Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "toledo-spain-landscape-travel-river-city": {
+      "lugar": "toledo",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "vista-aerea",
+        "panoramica-ciudad",
+        "rio",
+        "catedral",
+        "alcazar",
+        "arquitectura",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:10:17.227Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

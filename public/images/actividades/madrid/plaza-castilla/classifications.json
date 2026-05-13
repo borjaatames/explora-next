@@ -1,0 +1,28 @@
+{
+  "slug": "plaza-castilla-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "plaza-castilla-madrid-puerta-europa-towers-stand-tall": {
+      "lugar": "plaza-castilla-madrid",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "torres-modernas",
+        "panoramica-ciudad",
+        "fachada",
+        "espacio-publico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:05:12.912Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "monasterio-san-juan-reyes-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "monasterio-san-juan-reyes-toledo-6079996465": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "gargola-decorativa",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "escultura",
+        "gargola",
+        "relieve-escultorico",
+        "gotrico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:18.792Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-cloister-02": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "techo-casetones",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "techo-casetones",
+        "decoracion-geometrica",
+        "claustro",
+        "madera-tallada"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:21.095Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-cloister-03": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "claustro-techado",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "claustro",
+        "artesonado",
+        "decoracion-geometrica",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:22.934Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-ext-01": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "farol",
+        "calle-empedrada",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:24.760Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-foto-13835007": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "portada-principal",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "puerta",
+        "fachada",
+        "escultura",
+        "arco"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:26.885Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-foto-9751577": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "esculturas-portico-lateral",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "escultura",
+        "relieve-escultorico",
+        "portal",
+        "fachada"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:28.884Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-foto-9766821": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "arquitectura",
+        "claustro",
+        "puerta",
+        "letras-pavimento"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:30.634Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-foto-9766893": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "claustro-decoracion",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "claustro",
+        "azulejo",
+        "decoracion-geometrica",
+        "bovina"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:32.514Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "monasterio-san-juan-reyes-toledo-iglesia-espana": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "gotesimismo",
+        "puerta"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:34.399Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

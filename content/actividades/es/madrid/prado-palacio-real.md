@@ -84,34 +84,36 @@ categoria: "cultural"
 keywords: ["palacio real prado tour", "madrid imprescindibles guiado", "tour combinado madrid", "palacio prado entrada sin colas"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/prado/museo-del-prado-charles-iv-spain-his-family-hero.webp"
-imagenAlt: "Charles IV of Spain and His Family"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+imagenAlt: "Museo del Prado 2016"
 
 galeria:
-  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-spain-capital-city-museum-hero.webp"
-    alt: "madrid, spain, capital city, museum, prado"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
-    alt: "A clear day at the Royal Palace of Madrid with tourists in the plaza."
-  - src: "/images/actividades/madrid/prado/museo-del-prado-meninas-maids-honor-title-qs-p1476-hero.webp"
-    alt: "Las Meninas (The Maids of Honor) title QS:P1476,en:\"Las Meninas (The Maids of Honor) \"label QS:Len,\"Las Meninas (The Maids of Honor) \"label"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
-    alt: "Discover the grandeur of the Royal Palace of Madrid, a historic and architectural marvel."
-  - src: "/images/actividades/madrid/prado/museo-del-prado-oct-1999-hero.webp"
-    alt: "Museo del Prado, Oct 1999"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
-    alt: "Elegant neoclassical architecture of the Royal Palace of Madrid captured at dusk."
-  - src: "/images/actividades/madrid/prado/museo-del-prado-panel-painting-wall-painting-hero.webp"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-museum-architecture-art-hero.webp"
+    alt: "madrid, prado, museum, architecture, art"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-spanish-carlos-v-batalla-muhlberg-hero.webp"
+    alt: "Spanish: Carlos V en la batalla de Mühlberg Equestrian Portrait of Charles Vlabel QS:Les,\"Carlos V en la batalla de Mühlberg\"label"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-clothed-maja-woman-painting-oil-hero.webp"
+    alt: "the clothed maja, woman, painting, oil painting, francisco de goya"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-panel-painting-wall-painting-hero.webp"
     alt: "panel painting, wall painting, the garden of earthly delights, hieronymus bosch's triptychs, painting"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
-    alt: "Equestrian statue in front of the Royal Palace of Madrid under a clear blue sky."
-  - src: "/images/actividades/madrid/prado/museo-del-prado-saturn-devouring-his-son-from-hero.webp"
-    alt: "Saturn Devouring His Son (from The Black Paintings) title QS:P1476,en:\"Saturn Devouring His Son (from The Black Paintings) \"label"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero.webp"
     alt: "Explore the architectural beauty of the Royal Palace of Madrid on a clear day."
-  - src: "/images/actividades/madrid/prado/museo-del-prado-spanish-carlos-v-batalla-muhlberg-hero.webp"
-    alt: "Spanish: Carlos V en la batalla de Mühlberg Equestrian Portrait of Charles Vlabel QS:Les,\"Carlos V en la batalla de Mühlberg\"label"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-grandeur-historic-baroque-hero.webp"
-    alt: "Explore the grandeur of a historic baroque palace facade under a clear blue sky."
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-spain-king-architecture-hero.webp"
+    alt: "palace, spain, king, madrid, architecture"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp"
+    alt: "palace, dining room, royal, madrid, spain"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-fountain-patio-leones-spain-hero.webp"
+    alt: "Fountain patio de los Leones Alhambra Granada Spain"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-large-building-statue-front-it-hero.webp"
+    alt: "a large building with a statue in front of it with Plaza Mayor, Madrid in the background"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+    alt: "Catedral de la Almudena - 130826 211731"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-foto-19240905-hero.webp"
+    alt: "Puerta sol madrid foto 19240905 en Puerta sol"
 ratingProveedor: 4.5
 numeroOpiniones: 1405
 

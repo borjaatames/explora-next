@@ -1,0 +1,76 @@
+{
+  "slug": "molinos-consuegra",
+  "schemaVersion": 1,
+  "entries": {
+    "molinos-consuegra-javieralamo-windmills-4278679-1920": {
+      "lugar": "molinos-consuegra",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "molinos-consuegra-jorge-fernandez-salas-vie9o-ql208-unsplash": {
+      "lugar": "molinos-consuegra",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "molinos-consuegra-manuel-lopez-96epxricdr4-unsplash": {
+      "lugar": "molinos-consuegra",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "molinos-consuegra-manuel-lopez-t5l9wd9evcq-unsplash": {
+      "lugar": "molinos-consuegra",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "molinos-consuegra-wikiimages-windmills-67511-1920": {
+      "lugar": "molinos-consuegra",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    }
+  }
+}

@@ -94,17 +94,24 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["tour tapas madrid", "secret food tours madrid", "tour gastronomico madrid guia local", "tour bilingue tapas madrid", "tapas centro madrid"]
 
-imagen: "/images/actividades/madrid/tapas-delicias/hero.webp"
-imagenAlt: "Guía de Secret Food Tours explicando una tapa a un grupo reducido en un bar tradicional de Madrid"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+imagenAlt: "Plaza mayor madrid sunlit view historic showcasing en Plaza mayor"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas-delicias/01.webp"
-    alt: "Selección de tapas españolas sobre barra de madera con vinos maridados"
-  - src: "/images/actividades/madrid/tapas-delicias/02.webp"
-    alt: "Fachada de bar tradicional de Madrid con grupo de Secret Food Tours entrando"
-  - src: "/images/actividades/madrid/tapas-delicias/03.webp"
-    alt: "Plaza del centro de Madrid a la hora dorada, zona típica del tour"
-
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
+    alt: "Tapas madrid liquors meats photo en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-patagonia-churros-hot-chocolate-hero.webp"
+    alt: "Tapas madrid patagonia churros hot chocolate en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-joselita-hero.webp"
+    alt: "Tapas madrid jamon iberico joselita en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-001-hero.webp"
+    alt: "Mercado de San Miguel, Madrid - 001"
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-stunning-view-hotel-riu-plaza-hero.webp"
+    alt: "Stunning view of Hotel Riu Plaza Espana with vibrant city life in Madrid, Spain."
 ratingProveedor: 4.9
 numeroOpiniones: 147
 

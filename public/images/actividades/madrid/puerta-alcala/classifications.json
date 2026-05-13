@@ -1,0 +1,50 @@
+{
+  "slug": "puerta-alcala",
+  "schemaVersion": 1,
+  "entries": {
+    "puerta-alcala-foto-16712855": {
+      "lugar": "puerta-alcala",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "arco",
+        "columna",
+        "fachada",
+        "plaza"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:58.122Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puerta-alcala-gray-concrete-building-under-blue": {
+      "lugar": "puerta-alcala",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "arco-triunfal",
+        "columnas",
+        "jardin",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:00.051Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "museo-prado-edificio",
+  "schemaVersion": 1,
+  "entries": {
+    "museo-prado-edificio-2016-25185969599": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "columna",
+        "escultura",
+        "puerta"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:03:32.013Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-entrance-2024": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "escultura",
+        "farol",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:03:44.688Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-large-building-many-windows": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ladrillo",
+        "jardin",
+        "claustro"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:09.009Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-madrid-02": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "parque",
+        "plaza",
+        "jardin"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:10.788Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "museo-prado-edificio-madrid-04": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "escalinata",
+        "escultura",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.78,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:12.543Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-madrid-04-2": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "columnas",
+        "jardin",
+        "bandera"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:14.522Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "museo-prado-edificio-madrid-museum-architecture-art": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "columnas",
+        "escalinata",
+        "jardin"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:19.018Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-madrid-spain-capital-city-museum": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "escalinata",
+        "torre",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:21.029Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-monastery-09": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "arco",
+        "puerta",
+        "ventana",
+        "escultura"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:02:56.233Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "museo-prado-edificio-oct-1999": {
+      "lugar": "museo-prado-edificio",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "columna",
+        "balcon",
+        "escalinata"
+      ],
+      "calidadVisual": 0.65,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:04:24.540Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

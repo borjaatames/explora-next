@@ -100,34 +100,34 @@ categoria: "excursion"
 keywords: ["excursion toledo segovia", "tour toledo segovia desde madrid", "alcazar segovia desde madrid", "dos ciudades unesco un dia", "excursion combinada madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/segovia/segovia-alcazar-hero.webp"
-imagenAlt: "Alcázar De Segovia"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero.webp"
+imagenAlt: "Segovia - Alcázar de Segovia 22"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
-    alt: "alcazar, bridge, toledo, spain, historical"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-27215383406-hero.webp"
-    alt: "Alcazar de Segovia"
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
-    alt: "alcazar de toledo, fortress, spain, architecture, toledo"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-castle-fortress-hero.webp"
+  - src: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp"
     alt: "alcazar of segovia, castle, segovia, fortress, architecture"
-  - src: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
-    alt: "Toledo Calle Comercio"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero.webp"
-    alt: "alcazar de segovia, castle, spain, segovia, fortress"
-  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
-    alt: "Ceiling of Sinagoga de Transito - Toledo (4)"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-espana-2024-06-14-dd-71-hero.webp"
-    alt: "Alcázar, Segovia, España,"
-  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
-    alt: "españa la bella, toledo, spain, panorama, medieval"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-ext-02-hero.webp"
-    alt: "Segovia - Alcazar ext 02"
-  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
-    alt: "Historic castle and bridge under a blue sky"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-medieval-castle-spain-hero.webp"
-    alt: "alcazar de segovia, segovia, medieval castle, spain, architecture"
+  - src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp"
+    alt: "Aqueduct of Segovia 04"
+  - src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp"
+    alt: "Aqueduct of Segovia 06"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-interiores-hero.webp"
+    alt: "Sinagoga santa maria blanca toledo interiores en Sinagoga santa maria blanca"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp"
+    alt: "Catedral de Toledo - Toledo 01"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp"
+    alt: "Interior view of a gothic cathedral in Toledo, Spain, showcasing its grandeur and intricate details."
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp"
+    alt: "FP Toledo Cathedral 2025 04"
+  - src: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-hill-trees-front-it-hero.webp"
+    alt: "a castle on a hill with trees in front of it"
+  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-striking-view-gothic-architecture-hero.webp"
+    alt: "Calles historicas toledo striking view gothic architecture en Calles historicas toledo"
 ratingProveedor: 4.5
 numeroOpiniones: 856
 

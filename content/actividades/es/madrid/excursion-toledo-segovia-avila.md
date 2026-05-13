@@ -97,34 +97,41 @@ categoria: "excursion"
 keywords: ["excursion toledo segovia avila", "tres ciudades en un dia desde madrid", "segovia avila toledo desde madrid", "excursion patrimonio humanidad madrid", "que ver cerca de madrid en un dia"]
 
 # Sección imágenes generada por exploraspain-image-pipeline (toledo + segovia + avila)
-imagen: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
-imagenAlt: "Alcázar de Toledo con el puente sobre el río Tajo"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-cathedral-alcazar-old-town-history-hero.webp"
+imagenAlt: "cathedral, cathedral of segovia, alcazar of segovia, old town, history"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
-    alt: "Fortaleza del Alcázar de Toledo, arquitectura imperial"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-hero.webp"
-    alt: "Alcázar de Segovia"
-  - src: "/images/actividades/madrid/avila/avila-24-8-2002-hero.webp"
-    alt: "Vista de Ávila amurallada"
-  - src: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
-    alt: "Calle del Comercio en el casco antiguo de Toledo"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-05-2017-10-22-hero.webp"
-    alt: "Alcázar de Segovia desde el mirador"
-  - src: "/images/actividades/madrid/avila/avila-basilica-sv-08-hero.webp"
-    alt: "Basílica de San Vicente en Ávila"
-  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
-    alt: "Artesonado mudéjar del techo de la Sinagoga del Tránsito en Toledo"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-22-2017-10-24-hero.webp"
-    alt: "Detalle del Alcázar de Segovia con sus tejados de pizarra"
-  - src: "/images/actividades/madrid/avila/avila-fortress-citadel-fortification-hero.webp"
-    alt: "Murallas y fortificación medieval de Ávila"
-  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
-    alt: "Panorámica medieval de Toledo Patrimonio de la Humanidad"
-  - src: "/images/actividades/madrid/segovia/segovia-alcazar-26642593854-hero.webp"
-    alt: "Alcázar de Segovia, fachada principal"
-  - src: "/images/actividades/madrid/avila/avila-jornadas-medievales-hero.webp"
-    alt: "Jornadas medievales en Ávila con la muralla de fondo"
+  - src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-2-hero.webp"
+    alt: "Segovia - Aqueduct - 2"
+  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-walls-002-hero.webp"
+    alt: "Ávila—Walls of Ávila 002"
+  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-walls-004-hero.webp"
+    alt: "Ávila—Walls of Ávila 004"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-foto-46558248-hero.webp"
+    alt: "Sinagoga santa maria blanca toledo foto 46558248 en Sinagoga santa maria blanca"
+  - src: "/images/actividades/madrid/puente-alcantara-toledo/puente-alcantara-toledo-bridge-spain-view-from-north-east-hero.webp"
+    alt: "Alcantara Bridge in Toledo, Spain. View from the north-east"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp"
+    alt: "Catedral de Toledo - Toledo 03"
+  - src: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-26642593854-hero.webp"
+    alt: "Alcazar de Segovia"
+  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-walls-allure-hero.webp"
+    alt: "Walls of Ávila allure"
+  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-24-8-2002-hero.webp"
+    alt: "Ávila 24-8-2002"
+  - src: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp"
+    alt: "Alcazar toledo fachada norte espana en Alcazar toledo"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp"
+    alt: "FP Toledo 2025 - Puente de Alcántara"
+  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp"
+    alt: "fortress, citadel, fortification, fort, wall"
 ratingProveedor: 4.8
 numeroOpiniones: 9118
 

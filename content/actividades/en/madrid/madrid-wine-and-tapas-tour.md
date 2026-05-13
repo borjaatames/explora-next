@@ -90,19 +90,25 @@ keywords: ["madrid tapas tour", "madrid wine tour", "barrio de las letras", "sma
 
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
-imagen: "/images/actividades/madrid/barrio-letras/hero.webp"
-imagenAlt: "Spanish tapas and wine on a wooden bar in Madrid's Literary Quarter"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-15-hero.webp"
+imagenAlt: "Plaza cibeles fuente madrid 15 en Plaza cibeles"
 
 galeria:
-  - src: "/images/actividades/madrid/barrio-letras/01.webp"
-    alt: "Spanish tapas and wine on a wooden bar in Madrid's Literary Quarter — view 1"
-  - src: "/images/actividades/madrid/barrio-letras/02.webp"
-    alt: "Spanish tapas and wine on a wooden bar in Madrid's Literary Quarter — view 2"
-  - src: "/images/actividades/madrid/barrio-letras/03.webp"
-    alt: "Spanish tapas and wine on a wooden bar in Madrid's Literary Quarter — view 3"
-
-
-# ─── 13. AGGREGATE RATING (from the Viator PDF) ────────────────────────────
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+    alt: "Felipe III - Casa de la Panadería - Plaza Mayor de Madrid - 02"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
+    alt: "Appetizing fried arancini balls served on white plate in cozy setting."
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp"
+    alt: "Gran via madrid madrid spain road plaza callao en Gran via"
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+    alt: "pexels kuremo 8660221"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
+    alt: "Tapas madrid jamon iberico bellota cinco jotas en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
+    alt: "Bartender skillfully measures and pours red wine in a bar setting."
 ratingProveedor: 4.9
 numeroOpiniones: 3830
 

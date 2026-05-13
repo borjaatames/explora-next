@@ -1,0 +1,28 @@
+{
+  "slug": "sinagoga-transito-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "sinagoga-transito-toledo-6404202737": {
+      "lugar": "sinagoga-santa-maria-blanca-toledo",
+      "obra": "decoracion-artesonado",
+      "confianza": 0.75,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "artesonado",
+        "decoracion-islamica",
+        "claustro",
+        "ornamentacion"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:16.720Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

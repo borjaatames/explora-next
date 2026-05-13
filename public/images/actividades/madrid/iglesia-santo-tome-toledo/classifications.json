@@ -1,0 +1,160 @@
+{
+  "slug": "iglesia-santo-tome-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "iglesia-santo-tome-toledo-espana": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": "campanario-torre",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "torre",
+        "campanario",
+        "arquitectura",
+        "ladrillo",
+        "ventana"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:49.934Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "iglesia-santo-tome-toledo-foto-12757971": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "boveda",
+        "candelabro",
+        "altar",
+        "columnas"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:51.504Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "iglesia-santo-tome-toledo-foto-23770003": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "torre",
+        "arquitectura",
+        "calle-empedrada",
+        "fachada",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:53.411Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "iglesia-santo-tome-toledo-foto-6358359": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "fachada",
+        "ambiente-historico",
+        "calle-empedrada"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:55.047Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "iglesia-santo-tome-toledo-foto-72528322": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": "torre-mudejar",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "fachada",
+        "mudejar",
+        "ladrillo"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:56.902Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "iglesia-santo-tome-toledo-foto-72528323": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": "torre-mudejar",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "ladrillo",
+        "estilo-mudejar",
+        "ventana"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:59.765Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "iglesia-santo-tome-toledo-torre": {
+      "lugar": "iglesia-santo-tome-toledo",
+      "obra": "torre-campanario",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "campanario",
+        "fachada",
+        "ventana"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:01.587Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

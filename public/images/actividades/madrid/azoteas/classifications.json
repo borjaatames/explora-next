@@ -1,0 +1,28 @@
+{
+  "slug": "azoteas-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "azoteas-madrid-aerial-photography-vehicles": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "vista-urbana",
+      "momento": "atardecer",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "panoramica-ciudad",
+        "nocturna-iluminada",
+        "atardecer"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T16:20:02.357Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

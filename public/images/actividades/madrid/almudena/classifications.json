@@ -1,0 +1,321 @@
+{
+  "slug": "catedral-almudena",
+  "schemaVersion": 1,
+  "entries": {
+    "catedral-almudena-130826-211731": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "cupula",
+        "nocturna-iluminada",
+        "farol"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:59.013Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-cathedral-ceiling-painting-church": {
+      "lugar": "catedral-almudena",
+      "obra": "boveda-estrellada-cupula",
+      "confianza": 0.75,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "cupula",
+        "boveda",
+        "arquitectura",
+        "frescos",
+        "ornamentacion-dorada"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:03.002Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-cathedral-madrid-architecture": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "torre",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:04.591Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-cathedral-madrid-spain": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "torre",
+        "fachada",
+        "atardecer"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:08.592Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-colorful-patterned-ceilings": {
+      "lugar": "catedral-almudena",
+      "obra": "boveday-pintados",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "boveda",
+        "vitral",
+        "ornamentacion",
+        "iluminacion-artificial"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:10.358Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-detailed-view-virgin-statue-ornate": {
+      "lugar": "catedral-almudena",
+      "obra": "virgen-del-almudena",
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "altar",
+        "escultura",
+        "arquitectura",
+        "oro",
+        "vitral"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:14.486Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-evening-view-cathedral-madrid": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "torre",
+        "columnata"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:16.085Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-front-view-cathedral-under-clear": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "cupula",
+        "columna"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:17.725Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-grand-cathedral-facade-twin-towers": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "torre",
+        "claustro"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:25.115Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-madrid-espana-2014-12-27-dd-24": {
+      "lugar": "catedral-almudena",
+      "obra": "boveda-central",
+      "confianza": 0.75,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "boveda",
+        "cupula",
+        "decoracion-geometrica",
+        "vitral"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:26.927Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-madrid-espana-2014-12-27-dd-26": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.45,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "altar",
+        "vitral",
+        "columna",
+        "boveda"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Esta es una catedral gótica francesa, posiblemente Chartres o similar, no la Catedral de la Almudena de Madrid cuya arquitectura es radicalmente distinta (neoclásica/moderna, construida siglo XX, nave más ancha, crucero diferente)."
+      },
+      "classifiedAt": "2026-05-13T11:01:29.680Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-madrid-espana-2014-12-27-dd-30-32": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "vitral",
+        "nave-central",
+        "boveda",
+        "altar"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:31.299Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-santa-maria-real-12": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.45,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "boveda",
+        "vitral",
+        "organo",
+        "altar"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Esta es claramente una catedral gótica/moderna con órgano prominente, pero su estilo arquitectónico no coincide con la Catedral de la Almudena (que tiene un diseño más neoclásico-moderno). Parece ser una catedral alemana o de Europa Central."
+      },
+      "classifiedAt": "2026-05-13T11:01:39.885Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-almudena-stunning-view-cathedral-under": {
+      "lugar": "catedral-almudena",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "cupula",
+        "columnas"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:41.481Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

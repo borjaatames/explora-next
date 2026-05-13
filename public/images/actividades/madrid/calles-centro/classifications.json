@@ -1,0 +1,182 @@
+{
+  "slug": "calles-madrid-centro",
+  "schemaVersion": 1,
+  "entries": {
+    "calles-madrid-centro-bar-hawaiano-plaza-santa-ana-rainy": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "fachada",
+        "farol",
+        "nocturna-iluminada",
+        "barra-bar",
+        "decoracion-luces"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:49.290Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-building-architecture-urban-city": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "balcon",
+        "calle-historica"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:53.142Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-cervantes-memorial-spain-statue": {
+      "lugar": "calles-madrid-centro",
+      "obra": "monumento-cervantes",
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "monumento",
+        "escultura",
+        "arquitectura",
+        "plaza-publica",
+        "torre"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:54.926Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-city-tall-buildings": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "panoramica-aerea",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "panoramica-ciudad",
+        "arquitectura",
+        "torre",
+        "vista-aerea",
+        "atardecer"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:09:03.131Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-discover-quaint-street-classic": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "calle-empedrada",
+        "balcon",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:02.012Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-elegant-building-lit-trees-night": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "nocturna-iluminada",
+        "balcon",
+        "jardin"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:03.765Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-plaza-santa-ana-villa-rosa-tablao": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "fachada",
+        "farol",
+        "ambiente-historico",
+        "puerta",
+        "ventana"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:46.664Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "calles-madrid-centro-stunning-view-hotel-riu-plaza": {
+      "lugar": "calles-madrid-centro",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "panoramica-ciudad",
+        "edificio-historico"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:55.463Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

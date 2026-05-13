@@ -1,0 +1,75 @@
+{
+  "slug": "calles-historicas-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01": {
+      "lugar": "calles-historicas-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "calle-empedrada",
+        "torre",
+        "fachada",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:28:42.906Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.4,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "plaza",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra una plaza histórica española con arquitectura colonial/barroca, pero la composición y elementos arquitectónicos no coinciden claramente con ninguno de los lugares catalogados en la lista de Madrid. Podría ser de una ciudad histórica como Segovia, Toledo o similar, pero no es identificable con seguridad dentro del catálogo proporcionado."
+      },
+      "classifiedAt": "2026-05-13T15:28:45.745Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "calles-historicas-madrid-brown-white-concrete-building": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "cupula",
+        "calle-empedrada"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:18:38.404Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

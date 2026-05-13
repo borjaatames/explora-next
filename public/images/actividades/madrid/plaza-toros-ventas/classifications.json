@@ -1,0 +1,50 @@
+{
+  "slug": "plaza-toros-ventas",
+  "schemaVersion": 1,
+  "entries": {
+    "plaza-toros-ventas-arena-facade-architecture-bull": {
+      "lugar": "plaza-toros-ventas",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "bandera",
+        "plaza"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:46.292Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    },
+    "plaza-toros-ventas-bronze-sculpture-ventas-bullring": {
+      "lugar": "plaza-toros-ventas",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "escultura",
+        "plaza",
+        "bandera"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:51.297Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

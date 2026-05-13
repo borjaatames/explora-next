@@ -90,19 +90,26 @@ keywords: ["madrid tapas tour", "madrid food tour", "spanish food experience", "
 
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
-imagen: "/images/actividades/madrid/centro-historico/hero.webp"
-imagenAlt: "Group sharing tapas and wine in a traditional Madrid tavern"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp"
+imagenAlt: "Calles historicas madrid brown white concrete building en Calles historicas"
 
 galeria:
-  - src: "/images/actividades/madrid/centro-historico/01.webp"
-    alt: "Group sharing tapas and wine in a traditional Madrid tavern — view 1"
-  - src: "/images/actividades/madrid/centro-historico/02.webp"
-    alt: "Group sharing tapas and wine in a traditional Madrid tavern — view 2"
-  - src: "/images/actividades/madrid/centro-historico/03.webp"
-    alt: "Group sharing tapas and wine in a traditional Madrid tavern — view 3"
-
-
-# ─── 13. AGGREGATE RATING (from the Viator PDF) ────────────────────────────
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+    alt: "pexels emanuele nuccilli 1919977143 28826629 (1)"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-foto-8659371-hero.webp"
+    alt: "Mercado de San Miguel (Madrid) 05"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+    alt: "pexels kuremo 8660221"
+  - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-plaza-santa-ana-01-hero.webp"
+    alt: "Plaza santa ana 01 en Plaza santa ana"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
+    alt: "Appetizing fried arancini balls served on white plate in cozy setting."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
+    alt: "Tapas madrid jamon iberico bellota cinco jotas en Tapas"
 ratingProveedor: 5.0
 numeroOpiniones: 2136
 

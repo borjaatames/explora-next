@@ -93,17 +93,29 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["madrid tapas tour", "secret food tours madrid", "madrid food tour with local guide", "madrid bilingual tapas tour", "tapas centro madrid"]
 
-imagen: "/images/actividades/madrid/authentic-tapas-delicacies/hero.webp"
-imagenAlt: "Secret Food Tours guide explaining tapas to a small group at a traditional Madrid bar"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp"
+imagenAlt: "Beautiful architectural buildings in Madrid under a bright blue sky."
 
 galeria:
-  - src: "/images/actividades/madrid/authentic-tapas-delicacies/01.webp"
-    alt: "Selection of Spanish tapas on a wooden bar counter with paired wines"
-  - src: "/images/actividades/madrid/authentic-tapas-delicacies/02.webp"
-    alt: "Traditional Madrid bar exterior with Secret Food Tours group entering"
-  - src: "/images/actividades/madrid/authentic-tapas-delicacies/03.webp"
-    alt: "Plaza in central Madrid at golden hour, typical area of the tour"
-
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+    alt: "pexels kuremo 8660221"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+    alt: "Madrid, Plaza Mayor, 2016, (02)"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
+    alt: "Aceitunas"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Puerta sol madrid building spain capital city en Puerta sol"
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-bar-hawaiano-plaza-santa-ana-rainy-hero.webp"
+    alt: "Bar Hawaiano, Plaza de Santa Ana, Madrid (rainy December)"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-ham-delicacy-food-meat-swine-hero.webp"
+    alt: "Tapas madrid ham delicacy food meat swine en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
+    alt: "Close-up of a hand breaking a cheesy croquette, showcasing melted cheese filling."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
 ratingProveedor: 4.9
 numeroOpiniones: 147
 

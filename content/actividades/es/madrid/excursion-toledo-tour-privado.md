@@ -95,26 +95,42 @@ categoria: "excursion"
 keywords: ["tour privado toledo desde madrid", "excursion privada toledo", "toledo con guia y chofer", "tour toledo mercedes", "visitar toledo privado"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
-imagenAlt: "Ceiling of Sinagoga de Transito - Toledo (4)"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp"
+imagenAlt: "Catedral de Toledo - Toledo 01"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
-    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
-  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
-    alt: "toledo, medieval city, architecture, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
-    alt: "Sinagoga del Tránsito - Artesonado 01"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
-    alt: "Spain-36 - Toledo"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
-    alt: "spain, toledo, bridge, ramparts"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
-    alt: "toledo, spain, landscape, travel, river"
-  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
-    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13842219-hero.webp"
+    alt: "Catedral de Toledo - Toledo 06"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-cloister-03-hero.webp"
+    alt: "Toledo, Monasterio de San Juan de los Reyes, cloister 03"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-nave-central-hero.webp"
+    alt: "Sinagoga santa maria blanca toledo nave central en Sinagoga santa maria blanca"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-reliefs-hero.webp"
+    alt: "Sinagoga transito toledo reliefs en Sinagoga transito"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-72528322-hero.webp"
+    alt: "Iglesia de Santo Tomé en Toledo"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-nave-hero.webp"
+    alt: "Cristo de la Luz 2025 Nave"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-spain-tagus-river-hero.webp"
+    alt: "Vista panoramica toledo spain tagus river en Vista panoramica toledo"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp"
+    alt: "FP Toledo 2025 - Puente de Alcántara"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-view-2-hero.webp"
+    alt: "Puerta de Bisagra, Toledo - view 2"
+  - src: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero.webp"
     alt: "alcazar, bridge, toledo, spain, historical"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-torre-hero.webp"
+    alt: "Iglesia de Santo Tomé (Toledo). Torre"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-13835007-hero.webp"
+    alt: "Monasterio de San Juan de los Reyes - Toledo 01"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp"
+    alt: "Iglesia del monasterio de San Juan de los Reyes, Toledo, España"
 ratingProveedor: 5.0
 numeroOpiniones: 660
 

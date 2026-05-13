@@ -1,0 +1,204 @@
+{
+  "slug": "templo-debod",
+  "schemaVersion": 1,
+  "entries": {
+    "templo-debod-anochecer-madrid-01": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "templo-antiguo",
+        "columnas",
+        "iluminacion-nocturna",
+        "torre-entrada"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:18.460Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-anochecer-madrid-02": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "templo-egipcio",
+        "columnas",
+        "iluminacion-nocturna",
+        "atardecer"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:49.817Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-anochecer-madrid-03": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "templo-antiguo",
+        "columnas",
+        "nocturna-iluminada",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:20.187Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-anochecer-madrid-05": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "templo-antiguo",
+        "puerta",
+        "atardecer",
+        "simetria"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:51.587Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-anochecer-madrid-06": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "templo-egipcio",
+        "fachada",
+        "calle-empedrada",
+        "atardecer"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:53.229Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-brown-concrete-building-near-body": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "templo-egipcio",
+        "puerta",
+        "reflejo-agua",
+        "paisaje-urbano"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:22.730Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-brown-concrete-building-under": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "templo-egipcio",
+        "puerta-monumental",
+        "arquitectura-antigua",
+        "cipreses",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:24.468Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-city-skyline-under-blue-white": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "templo-egipcio",
+        "puerta",
+        "panoramica-ciudad",
+        "parque"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:28.121Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "templo-debod-couple-people-love-architecture": {
+      "lugar": "templo-debod",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "bloque-piedra",
+        "puerta",
+        "panoramica-ciudad",
+        "muro-antiguo"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:30.588Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

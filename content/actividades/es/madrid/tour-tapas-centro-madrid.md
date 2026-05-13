@@ -91,19 +91,30 @@ keywords: ["tour tapas madrid centro", "secret food tour madrid", "tapas plaza m
 
 
 # ─── 12. IMAGES ──────────────────────────────────────────
-imagen: "/images/actividades/madrid/centro-historico/hero.webp"
-imagenAlt: "Tapas y comida tradicional madrileña en el centro histórico de Madrid"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+imagenAlt: "Felipe III - Casa de la Panadería - Plaza Mayor de Madrid - 02"
 
 galeria:
-  - src: "/images/actividades/madrid/centro-historico/01.webp"
-    alt: "Tapas y comida tradicional en el centro histórico de Madrid — vista 1"
-  - src: "/images/actividades/madrid/centro-historico/02.webp"
-    alt: "Tapas y comida tradicional en el centro histórico de Madrid — vista 2"
-  - src: "/images/actividades/madrid/centro-historico/03.webp"
-    alt: "Tapas y comida tradicional en el centro histórico de Madrid — vista 3"
-
-
-# ─── 13. AGGREGATE RATING (Viator PDF) ───────────────────
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp"
+    alt: "Tapas madrid tortilla patatas corte transversal en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-potatoes-food-kitchen-hero.webp"
+    alt: "Tapas madrid tortilla potatoes food kitchen en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-lazo-hero.webp"
+    alt: "Chocolate con churros de lazo"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-green-olives-small-white-bowl-hero.webp"
+    alt: "Tapas madrid green olives small white bowl en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Tapas madrid jamon iberico tapa en Tapas"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "a building with a glass front"
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-discover-quaint-street-classic-hero.webp"
+    alt: "Discover a quaint street in Madrid with classic architecture and a warm atmosphere."
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Puerta sol madrid building spain capital city en Puerta sol"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp"
+    alt: "Calles historicas madrid plaza villa 08 en Calles historicas"
 ratingProveedor: 5.0
 numeroOpiniones: 840
 

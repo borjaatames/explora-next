@@ -93,17 +93,28 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["madrid tapas rooftop tour", "madrid food and wine tour", "world experience madrid", "tapas la latina barrio letras", "madrid wheelchair accessible tour"]
 
-imagen: "/images/actividades/madrid/rooftop-tapas-wine/hero.webp"
-imagenAlt: "Group enjoying cava on a Madrid rooftop with views over central Madrid"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-man-riding-horse-city-hero.webp"
+imagenAlt: "Puerta sol madrid statue man riding horse city en Puerta sol"
 
 galeria:
-  - src: "/images/actividades/madrid/rooftop-tapas-wine/01.webp"
-    alt: "Rooftop terrace in central Madrid at sunset with skyline views"
-  - src: "/images/actividades/madrid/rooftop-tapas-wine/02.webp"
-    alt: "Plates of garlic prawns, stuffed mushrooms and Spanish wines on a wooden table"
-  - src: "/images/actividades/madrid/rooftop-tapas-wine/03.webp"
-    alt: "Bilingual guide explaining a tapa to a small group in a Madrid restaurant"
-
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-spoon-full-olives-plate-hero.webp"
+    alt: "Tapas madrid spoon full olives plate en Tapas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-view-city-from-high-point-view-hero.webp"
+    alt: "Gran via madrid view city from high point view en Gran via"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
+    alt: "Appetizing fried arancini balls served on white plate in cozy setting."
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+    alt: "pexels emanuele nuccilli 1919977143 28826629 (1)"
+  - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
+    alt: "Plaza santa ana madrid 26159833570 en Plaza santa ana"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Tapas madrid jamon iberico tapa en Tapas"
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-elegant-building-lit-trees-night-hero.webp"
+    alt: "Elegant building and lit trees in Madrid at night, capturing urban romance and architecture."
 ratingProveedor: 4.8
 numeroOpiniones: 619
 

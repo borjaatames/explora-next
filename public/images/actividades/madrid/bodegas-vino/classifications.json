@@ -1,0 +1,48 @@
+{
+  "slug": "bodegas-vino-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629": {
+      "lugar": "bodegas-vino-madrid",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "bodegas-vino-madrid-pexels-kuremo-8660221": {
+      "lugar": "bodegas-vino-madrid",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    },
+    "bodegas-vino-madrid-pexels-zaki-atrouni-4515526": {
+      "lugar": "bodegas-vino-madrid",
+      "obra": null,
+      "confianza": 1.0,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "humanReviewed": true
+    }
+  }
+}

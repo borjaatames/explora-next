@@ -1,0 +1,56 @@
+{
+  "slug": "barrio-de-las-letras-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "barrio-de-las-letras-madrid-hotel-me-plaza-santa-ana-5185190311": {
+      "lugar": "barrio-letras-madrid",
+      "obra": null,
+      "confianza": 0.6,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ventana",
+        "iluminacion-artificial",
+        "diseno-moderno"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "marca-agua",
+        "nota": "La imagen contiene marca de agua visible en la esquina inferior derecha (CC) Ricardo Ricote."
+      },
+      "classifiedAt": "2026-05-13T11:00:11.860Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-de-las-letras-madrid-mounted-police-policeman-horse": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "policia-caballo",
+        "plaza-publica",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": {
+        "razon": "duplicada",
+        "nota": "Misma foto (Pixabay 1562445) ya existe en plaza-mayor-madrid/ con clasificación correcta."
+      },
+      "classifiedAt": "2026-05-13T11:00:17.362Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

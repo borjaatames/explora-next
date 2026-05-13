@@ -88,26 +88,38 @@ categoria: "excursion"
 keywords: ["excursion toledo desde madrid", "toledo dia completo", "tour toledo catedral", "visitar toledo desde madrid", "excursion guiada toledo"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
-imagenAlt: "Toledo Calle Comercio"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-may-2017-hero.webp"
+imagenAlt: "Alcazar toledo spain may 2017 en Alcazar toledo"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
-    alt: "toledo, spain, landscape, travel, river"
-  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
-    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
-    alt: "alcazar, bridge, toledo, spain, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
-    alt: "Ceiling of Sinagoga de Transito - Toledo (4)"
-  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
-    alt: "españa la bella, toledo, spain, panorama, medieval"
-  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
-    alt: "Historic castle and bridge under a blue sky"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp"
+    alt: "FP Toledo Cathedral 2025 04"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp"
+    alt: "Interior view of a gothic cathedral in Toledo, Spain, showcasing its grandeur and intricate details."
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-ext-01-hero.webp"
+    alt: "Toledo - Monasterio de San Juan de los Reyes ext 01"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp"
+    alt: "Monasterio de San Juan de los Reyes, Toledo 07"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"
+    alt: "Cristo de la Luz 2025 Façade"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-altar-hero.webp"
+    alt: "Cristo de la Luz 2025 Altar"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157710301-hero.webp"
+    alt: "Sinagoga Santa María la Blanca, Toledo"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-sala-oracion-hero.webp"
+    alt: "Sinagoga transito toledo sala oracion en Sinagoga transito"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-august-2012-hero.webp"
+    alt: "Puente de Alcántara, Toledo, August 2012"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-hero.webp"
+    alt: "Puerta Nueva de Bisagra (Toledo). Fachada"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp"
+    alt: "Vista panoramica toledo stunning panoramic view spain en Vista panoramica toledo"
 ratingProveedor: 4.8
 numeroOpiniones: 7252
 

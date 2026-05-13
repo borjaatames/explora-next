@@ -99,26 +99,39 @@ categoria: "excursion"
 keywords: ["excursion toledo desde madrid", "toledo medio dia", "tour toledo en autobus", "visitar toledo", "excursion toledo julia travel", "viaje toledo madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
-imagenAlt: "alcazar de toledo, fortress, spain, architecture, toledo"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp"
+imagenAlt: "Catedral de Toledo - Toledo 03"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
-    alt: "Historic castle and bridge under a blue sky"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
-  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
-    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
-  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
-    alt: "toledo, medieval city, architecture, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
-    alt: "Sinagoga del Tránsito - Artesonado 01"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
-    alt: "Spain-36 - Toledo"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
-    alt: "spain, toledo, bridge, ramparts"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-16712621-hero.webp"
+    alt: "Catedral de Toledo - Toledo 10"
+  - src: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-june-2016-hero.webp"
+    alt: "Alcazar toledo june 2016 en Alcazar toledo"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-72528323-hero.webp"
+    alt: "Iglesia de Santo Tomé, Toledo"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-interior-santa-maria-la-blanca-2-hero.webp"
+    alt: "Interior santa maria la blanca 2 en Sinagoga santa maria blanca"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-7-nueve-de-febrero-hero.webp"
+    alt: "Sinagoga transito toledo 7 nueve de febrero en Sinagoga transito"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-discover-spain-stunning-view-hero.webp"
+    alt: "Vista panoramica toledo discover spain stunning view en Vista panoramica toledo"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-village-hero.webp"
+    alt: "Vista panoramica toledo river running through village en Vista panoramica toledo"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-arc-bridge-darling-castile-mancha-hero.webp"
+    alt: "toledo, arc, bridge, darling, castile la mancha"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp"
+    alt: "Iglesia del monasterio de San Juan de los Reyes, Toledo, España"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp"
+    alt: "Toledo Puerta Bisagra 1"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-apse-hero.webp"
+    alt: "Cristo de la Luz 2025 Apse"
 ratingProveedor: 4.5
 numeroOpiniones: 6033
 

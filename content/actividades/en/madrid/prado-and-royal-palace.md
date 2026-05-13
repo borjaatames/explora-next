@@ -83,18 +83,26 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["royal palace prado tour", "madrid must see guided tour", "madrid combined tour", "skip the line royal palace prado"]
 
-imagen: "/images/actividades/madrid/prado/fachada-tarde.webp"
-imagenAlt: "Prado Museum facade in the late afternoon light"
-galeria:
-  - src: "/images/actividades/madrid/prado/fachada-principal.webp"
-    alt: "Main facade of the Prado Museum in Madrid"
-  - src: "/images/actividades/madrid/prado/estatua-velazquez.webp"
-    alt: "Velázquez statue in front of the Prado Museum"
-  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
-    alt: "Interior gallery of a classical art museum with visitors"
-  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
-    alt: "Visitor contemplating a painting in a museum gallery"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092805-hero.webp"
+imagenAlt: "Palacio Real de Madrid - 13"
 
+galeria:
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+    alt: "Museo del Prado 2016"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
+    alt: "Equestrian statue in front of the Royal Palace of Madrid under a clear blue sky."
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-2-hero.webp"
+    alt: "The Surrender of Breda label QS:Les,\"La rendición de Breda o Las lanzas\"label QS:Lfr,\"La Reddition de Breda\"label QS:Len,\"The Surrender of"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp"
+    alt: "palace, dining room, royal, madrid, spain"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
+    alt: "royal palace, madrid, architecture, spain, tourism"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp"
+    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp"
+    alt: "Las Meninas (The Maids of Honor) title QS:P1476,en:\"Las Meninas (The Maids of Honor) \"label QS:Len,\"Las Meninas (The Maids of Honor) \"label"
 ratingProveedor: 4.5
 numeroOpiniones: 1405
 

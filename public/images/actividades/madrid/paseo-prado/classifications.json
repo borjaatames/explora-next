@@ -1,0 +1,72 @@
+{
+  "slug": "paseo-prado-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "paseo-prado-madrid-001": {
+      "lugar": "paseo-prado-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "parque",
+        "calle-empedrada",
+        "arbol",
+        "banco",
+        "farol"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:36.192Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "paseo-prado-madrid-foto-3060591": {
+      "lugar": "paseo-prado-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "jardin",
+        "parque",
+        "arbol",
+        "camino",
+        "farol"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:38.033Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "paseo-prado-madrid-museo-01": {
+      "lugar": "paseo-prado-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "jardin",
+        "parque",
+        "paseo-arbolado",
+        "banco",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:39.990Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

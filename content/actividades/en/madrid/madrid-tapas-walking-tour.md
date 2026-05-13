@@ -91,19 +91,25 @@ keywords: ["la latina madrid", "madrid tapas walking tour", "cava baja tapas", "
 
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
-imagen: "/images/actividades/madrid/la-latina/hero.webp"
-imagenAlt: "Cobbled street with traditional bars in La Latina, Madrid"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-foto-715857-hero.webp"
+imagenAlt: "Mercado de San Miguel (Madrid) 02"
 
 galeria:
-  - src: "/images/actividades/madrid/la-latina/01.webp"
-    alt: "Cobbled street with traditional bars in La Latina, Madrid — view 1"
-  - src: "/images/actividades/madrid/la-latina/02.webp"
-    alt: "Cobbled street with traditional bars in La Latina, Madrid — view 2"
-  - src: "/images/actividades/madrid/la-latina/03.webp"
-    alt: "Cobbled street with traditional bars in La Latina, Madrid — view 3"
-
-
-# ─── 13. AGGREGATE RATING (from the Viator PDF) ────────────────────────────
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
+    alt: "Bartender skillfully measures and pours red wine in a bar setting."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
+    alt: "Appetizing fried arancini balls served on white plate in cozy setting."
+  - src: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-foto-774234-hero.webp"
+    alt: "Madrid 20"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-cobblestones-road-street-pavement-hero.webp"
+    alt: "cobblestones, road, street, pavement, paving stones"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Tapas madrid jamon iberico tapa en Tapas"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-plaza-santa-ana-17-hero.webp"
+    alt: "Plaza santa ana 17 en Plaza mayor"
 ratingProveedor: 5.0
 numeroOpiniones: 151
 

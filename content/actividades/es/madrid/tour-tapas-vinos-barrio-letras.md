@@ -92,26 +92,22 @@ keywords: ["tour tapas madrid", "cata vinos madrid", "barrio de las letras", "to
 
 # ─── 12. IMAGES ──────────────────────────────────────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp"
-imagenAlt: "madrid, arena, facade, architecture, bull fighting"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-grayscale-photo-brick-street-hero.webp"
+imagenAlt: "grayscale photo of a brick street"
 
 galeria:
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp"
-    alt: "Bar Hawaiano, Plaza de Santa Ana, Madrid (rainy December)"
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bronze-sculpture-ventas-bullring-hero.webp"
-    alt: "Bronze sculpture at Las Ventas bullring in Madrid, Spain showcasing traditional Spanish architecture."
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-building-architecture-urban-city-hero.webp"
-    alt: "building, madrid, architecture, urban, city"
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-cervantes-memorial-spain-statue-hero.webp"
-    alt: "cervantes, memorial, madrid, spain, statue"
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-circle-fine-arts-center-hero.webp"
-    alt: "madrid, circle of fine arts, center of madrid"
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-daytime-view-teatro-real-people-hero.webp"
-    alt: "Daytime view of the Teatro Real in Madrid, with people strolling by, under clear skies."
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-detailed-facade-sculptures-latin-hero.webp"
-    alt: "Detailed facade with sculptures and Latin inscriptions on Calle Mayor."
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp"
-    alt: "Discover a quaint street in Madrid with classic architecture and a warm atmosphere."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tapa-mejillon-2009-hero.webp"
+    alt: "Tapas madrid tapa mejillon 2009 en Tapas"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-cobblestones-road-street-pavement-hero.webp"
+    alt: "cobblestones, road, street, pavement, paving stones"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
+    alt: "Puerta sol madrid iconic bear strawberry tree statue en Puerta sol"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-plaza-santa-ana-cerveceria-alemana-hero.webp"
+    alt: "Plaza santa ana cerveceria alemana en Plaza mayor"
 ratingProveedor: 4.9
 numeroOpiniones: 3832
 

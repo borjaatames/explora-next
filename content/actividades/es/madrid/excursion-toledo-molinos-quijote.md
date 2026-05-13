@@ -106,26 +106,36 @@ categoria: "excursion"
 keywords: ["excursion toledo molinos quijote", "consuegra molinos viento desde madrid", "tour quijote la mancha", "toledo y molinos cervantes", "excursion premium toledo grupo pequeño"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
-imagenAlt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-aerial-view-historic-cityscape-hero.webp"
+imagenAlt: "Vista panoramica toledo aerial view historic cityscape en Vista panoramica toledo"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
-    alt: "Historic castle and bridge under a blue sky"
-  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
+  - src: "/images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-96epxricdr4-unsplash-hero.webp"
+    alt: "molinos consuegra manuel lopez 96epxricdr4 unsplash"
+  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero.webp"
+    alt: "Calles historicas toledo narrow old alleyway leads into en Calles historicas toledo"
+  - src: "/images/actividades/madrid/castillo-san-servando/castillo-san-servando-toledo-majestic-stone-castle-spain-bathed-hero.webp"
     alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
-  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
-    alt: "toledo, medieval city, architecture, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
-    alt: "Sinagoga del Tránsito - Artesonado 01"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
-    alt: "Spain-36 - Toledo"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
-    alt: "spain, toledo, bridge, ramparts"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
-    alt: "toledo, spain, landscape, travel, river"
-  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
-    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp"
+    alt: "Catedral de Toledo - Toledo 01"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp"
+    alt: "España - Toledo - Iglesia de Santo Tomé"
+  - src: "/images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-t5l9wd9evcq-unsplash-hero.webp"
+    alt: "molinos consuegra manuel lopez t5l9wd9evcq unsplash"
+  - src: "/images/actividades/madrid/puente-alcantara-toledo/puente-alcantara-toledo-bridge-spain-view-from-north-east-hero.webp"
+    alt: "Alcantara Bridge in Toledo, Spain. View from the north-east"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp"
+    alt: "Toledo Puerta Bisagra 1"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-panoramio-edited-hero.webp"
+    alt: "Sinagoga santa maria blanca toledo panoramio edited en Sinagoga santa maria blanca"
 ratingProveedor: 4.9
 numeroOpiniones: 223
 

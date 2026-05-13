@@ -1,0 +1,50 @@
+{
+  "slug": "puente-alcantara-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "puente-alcantara-toledo-bridge-roman-historic-landmark": {
+      "lugar": "puente-alcantara-toledo",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "puente",
+        "arquitectura",
+        "rio",
+        "montana",
+        "arco"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:49.252Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puente-alcantara-toledo-bridge-spain-view-from-north-east": {
+      "lugar": "puente-alcantara-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "puente",
+        "torre",
+        "rio",
+        "arquitectura",
+        "muralla"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:50.955Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

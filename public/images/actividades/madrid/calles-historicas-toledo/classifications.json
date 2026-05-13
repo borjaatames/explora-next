@@ -1,0 +1,28 @@
+{
+  "slug": "calles-historicas-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "calles-historicas-toledo-bridge-7": {
+      "lugar": "calles-historicas-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "puerta",
+        "calle-empedrada",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:45.706Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

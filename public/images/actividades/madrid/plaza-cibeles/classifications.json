@@ -1,0 +1,116 @@
+{
+  "slug": "plaza-cibeles",
+  "schemaVersion": 1,
+  "entries": {
+    "plaza-cibeles-busy-city-street-ornate-white": {
+      "lugar": "plaza-cibeles",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "palacio-comunicaciones",
+        "fuente-cibeles",
+        "arquitectura",
+        "vista-urbana",
+        "metro-madrid"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:47.568Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-cibeles-busy-street-scene-spanish-flags": {
+      "lugar": "plaza-cibeles",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "panoramica-ciudad",
+        "fuente",
+        "bandera"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:49.256Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-cibeles-circle-fine-arts-center": {
+      "lugar": "plaza-cibeles",
+      "obra": "monumento-cibeles",
+      "confianza": 0.9,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "escultura",
+        "monumento",
+        "caballos",
+        "arquitectura",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:59:56.666Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-cibeles-fuente-madrid-02": {
+      "lugar": "plaza-cibeles",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "fuente",
+        "escultura",
+        "arquitectura",
+        "nocturna-iluminada",
+        "farol"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:50.082Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-cibeles-fuente-madrid-05": {
+      "lugar": "plaza-cibeles",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "escultura",
+        "fuente",
+        "arquitectura",
+        "palacio",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:19:52.150Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

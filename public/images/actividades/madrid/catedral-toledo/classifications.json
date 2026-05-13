@@ -1,0 +1,204 @@
+{
+  "slug": "catedral-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "catedral-toledo-foto-13837915": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "reja",
+        "calle-empedrada"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:20.923Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-foto-13837915-2": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "puerta",
+        "reloj",
+        "fachada",
+        "arco-apuntado"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:22.826Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-foto-13837915-3": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "puerta",
+        "torre",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:24.542Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-foto-13837915-4": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "puerta",
+        "arco-ojival",
+        "escultura"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:26.299Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-foto-13842219": {
+      "lugar": "catedral-toledo",
+      "obra": "portada-principal",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "puerta",
+        "arco",
+        "ornamentacion",
+        "esculturas"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:28.121Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-foto-16712621": {
+      "lugar": "catedral-toledo",
+      "obra": "portada-principal",
+      "confianza": 0.92,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "portada",
+        "arco",
+        "frescos",
+        "escultura"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:29.812Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-fp-cathedral-2025-04": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "puerta",
+        "torres",
+        "vitral"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:31.918Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-interior-view-gothic-cathedral": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "altar",
+        "vitral",
+        "claustro",
+        "cupula"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:33.524Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "catedral-toledo-santa-maria-int-03": {
+      "lugar": "catedral-toledo",
+      "obra": "relieve-escultorico-puerta",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "relieve-escultorico",
+        "puerta",
+        "clasicismo",
+        "ornamentacion"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:04:35.528Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

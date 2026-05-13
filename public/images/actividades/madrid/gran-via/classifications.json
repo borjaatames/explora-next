@@ -1,0 +1,204 @@
+{
+  "slug": "gran-via-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "gran-via-madrid-52108703031": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "vista-urbana",
+      "momento": "atardecer",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "panoramica-ciudad",
+        "atardecer"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:18:43.248Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-aerial-photography-vehicles": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "vista-urbana",
+      "momento": "atardecer",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "panoramica-ciudad",
+        "nocturna-iluminada",
+        "balcon"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:48.141Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-beautiful-architectural-buildings": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "farol",
+        "reja"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:01:43.213Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-brown-concrete-building-under": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "vista-urbana",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "nocturna-iluminada",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:57.312Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-brown-concrete-building-under-blue": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "panoramica-ciudad",
+        "edificios-modernistas"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:26.250Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-busy-street-scene-pedestrians-cars": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "panoramica-ciudad",
+        "cupula",
+        "calle-historica"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:18:45.098Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-city-scale-under-blue-sky": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "vista-urbana",
+      "momento": "atardecer",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "panoramica-ciudad",
+        "atardecer",
+        "torre"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:08:59.105Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-city-street-filled-lots-tall": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "panoramica-ciudad",
+        "farol",
+        "calle-historica"
+      ],
+      "calidadVisual": 0.78,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:18:46.830Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "gran-via-madrid-december-2023-02": {
+      "lugar": "gran-via-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "vista-urbana",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "panoramica-ciudad",
+        "decoracion-festiva"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:18:48.778Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

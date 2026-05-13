@@ -102,26 +102,38 @@ categoria: "excursion"
 keywords: ["toledo en ave desde madrid", "tour grupo pequeño toledo", "excursion toledo tren alta velocidad", "ave madrid toledo guiado", "visitar toledo desde madrid en tren"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
-imagenAlt: "españa la bella, toledo, spain, panorama, medieval"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp"
+imagenAlt: "Alcazar toledo fachada norte espana en Alcazar toledo"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
-    alt: "Historic castle and bridge under a blue sky"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
-    alt: "toledo, spain, landscape, travel, river"
-  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
-    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
-    alt: "alcazar, bridge, toledo, spain, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
-    alt: "alcazar de toledo, fortress, spain, architecture, toledo"
-  - src: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
-    alt: "Toledo Calle Comercio"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-4-hero.webp"
+    alt: "Catedral de Toledo - Toledo 04"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-santa-maria-int-03-hero.webp"
+    alt: "Toledo - Catedral de Santa Maria int 03"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-from-hill-2-hero.webp"
+    alt: "Vista panoramica toledo view city from hill 2 en Vista panoramica toledo"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-river-running-through-it-hero.webp"
+    alt: "Vista panoramica toledo view city river running through it en Vista panoramica toledo"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-6358359-hero.webp"
+    alt: "Santo Tomé"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157703803-hero.webp"
+    alt: "Sinagoga Santa María la Blanca, Toledo"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-interior3-hero.webp"
+    alt: "Sinagoga transito toledo interior3 en Sinagoga transito"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-13835007-hero.webp"
+    alt: "Monasterio de San Juan de los Reyes - Toledo 01"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero.webp"
+    alt: "a bridge over a river with buildings on a hill in the background"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-septentrional-hero.webp"
+    alt: "Puerta Nueva de Bisagra (Toledo). Fachada septentrional"
+  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-striking-view-gothic-architecture-hero.webp"
+    alt: "Calles historicas toledo striking view gothic architecture en Calles historicas toledo"
 ratingProveedor: 4.9
 numeroOpiniones: 222
 

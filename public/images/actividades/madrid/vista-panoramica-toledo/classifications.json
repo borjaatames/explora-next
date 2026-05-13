@@ -1,0 +1,51 @@
+{
+  "slug": "vista-panoramica-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "vista-panoramica-toledo-aerial-view-historic-cityscape": {
+      "lugar": "vista-panoramica-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "panoramica-aerea",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "panoramica-ciudad",
+        "arquitectura",
+        "cupula",
+        "calle-empedrada",
+        "vista-aerea"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:20:37.134Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "vista-panoramica-toledo-alcazar-fortress-spain-architecture": {
+      "lugar": "vista-panoramica-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "panoramica-ciudad",
+        "muralla",
+        "catedral",
+        "cupula",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:41.778Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

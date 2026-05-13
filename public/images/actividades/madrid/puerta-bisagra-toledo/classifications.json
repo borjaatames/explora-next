@@ -1,0 +1,140 @@
+{
+  "slug": "puerta-bisagra-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "puerta-bisagra-toledo-foto-10618556": {
+      "lugar": "puerta-bisagra-toledo",
+      "obra": "puerta-principal",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "puerta",
+        "torre",
+        "arquitectura",
+        "escudo",
+        "bandera"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:56.062Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puerta-bisagra-toledo-nueva-fachada": {
+      "lugar": "puerta-bisagra-toledo",
+      "obra": "puerta-principal",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "puerta",
+        "arquitectura",
+        "torre",
+        "fachada",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:58.212Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puerta-bisagra-toledo-nueva-fachada-septentrional": {
+      "lugar": "puerta-bisagra-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "puerta",
+        "torre",
+        "fachada",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:05:59.974Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puerta-bisagra-toledo-nueva-patio": {
+      "lugar": "puerta-bisagra-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "puerta",
+        "fachada",
+        "torre",
+        "arco",
+        "muralla"
+      ],
+      "calidadVisual": 0.78,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:02.266Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puerta-bisagra-toledo-view-2": {
+      "lugar": "puerta-bisagra-toledo",
+      "obra": "fachada-principal-alcazar",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "escudo",
+        "reja",
+        "elemento-heraldico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:03.959Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "puerta-bisagra-toledo-view-3": {
+      "lugar": "puerta-bisagra-toledo",
+      "obra": "puerta-principal",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "puerta",
+        "fachada",
+        "torre",
+        "bandera"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T15:06:07.483Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

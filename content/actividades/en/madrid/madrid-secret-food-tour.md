@@ -90,19 +90,23 @@ keywords: ["madrid food tour", "secret food tours madrid", "tapas tour madrid", 
 
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
-imagen: "/images/actividades/madrid/centro-historico/hero.webp"
-imagenAlt: "Spanish tortilla and patatas bravas at a traditional Madrid bar"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
+imagenAlt: "Puerta sol madrid statue city en Puerta sol"
 
 galeria:
-  - src: "/images/actividades/madrid/centro-historico/01.webp"
-    alt: "Spanish tortilla and patatas bravas at a traditional Madrid bar — view 1"
-  - src: "/images/actividades/madrid/centro-historico/02.webp"
-    alt: "Spanish tortilla and patatas bravas at a traditional Madrid bar — view 2"
-  - src: "/images/actividades/madrid/centro-historico/03.webp"
-    alt: "Spanish tortilla and patatas bravas at a traditional Madrid bar — view 3"
-
-
-# ─── 13. AGGREGATE RATING (from the Viator PDF) ────────────────────────────
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
+    alt: "Bocadillo de calamares 22"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
+    alt: "Aceitunas manzanilla (España)"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+    alt: "Crowds gather at the historic Plaza Mayor in Madrid, España with its iconic architecture."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
+    alt: "Tapas madrid interior bar stools glass cups en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-white-table-topped-bowl-food-glass-hero.webp"
+    alt: "Tapas madrid white table topped bowl food glass en Tapas"
 ratingProveedor: 5.0
 numeroOpiniones: 840
 

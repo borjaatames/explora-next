@@ -94,17 +94,24 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["tour tapas madrid azotea", "tour gastronomico vino madrid", "world experience madrid", "tapas la latina barrio letras", "tour bilingue madrid"]
 
-imagen: "/images/actividades/madrid/tapas-azotea/hero.webp"
-imagenAlt: "Grupo brindando con copas de cava en una azotea de Madrid al atardecer"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
+imagenAlt: "Azoteas madrid aerial photography vehicles en Azoteas"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas-azotea/01.webp"
-    alt: "Azotea madrileña al atardecer con vistas sobre Gran Vía"
-  - src: "/images/actividades/madrid/tapas-azotea/02.webp"
-    alt: "Platos de gambas al ajillo, champiñones y vinos españoles sobre mesa de madera"
-  - src: "/images/actividades/madrid/tapas-azotea/03.webp"
-    alt: "Guía bilingüe explicando una tapa a un grupo reducido en un restaurante de Madrid"
-
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
+    alt: "Tapas madrid patatas bravas 2011 en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"
+    alt: "Tapas madrid pinchos vino tinto en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp"
+    alt: "Tapas madrid sardina cana 097 en Tapas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp"
+    alt: "city scale under blue sky"
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-water-fountain-statue-lion-top-it-hero.webp"
+    alt: "Plaza cibeles water fountain statue lion top it en Plaza cibeles"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
+    alt: "Puerta sol madrid statue city en Puerta sol"
 ratingProveedor: 4.8
 numeroOpiniones: 619
 

@@ -1,0 +1,28 @@
+{
+  "slug": "museo-reina-sofia-obras",
+  "schemaVersion": 1,
+  "entries": {
+    "museo-reina-sofia-obras-museum-4252011522": {
+      "lugar": "museo-reina-sofia-obras",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "cuadro",
+        "arquitectura",
+        "galeria-arte",
+        "iluminacion-artificial",
+        "pared-blanca"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:05:02.962Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

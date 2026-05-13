@@ -1,0 +1,181 @@
+{
+  "slug": "plaza-mayor-madrid",
+  "schemaVersion": 1,
+  "entries": {
+    "plaza-mayor-madrid-2016-02": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "escultura",
+        "fachada",
+        "arquitectura",
+        "plaza-publica",
+        "torre"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:06:55.184Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-crowds-gather-historic-espana-its": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "escultura",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:06:56.992Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-felipe-iii-casa-panaderia-02": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": "estatua-ecuestre-felipe-iii",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "escultura",
+        "estatua-ecuestre",
+        "arquitectura",
+        "fachada",
+        "balcon"
+      ],
+      "calidadVisual": 0.89,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:06:58.678Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-foto-28533195": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "escultura",
+        "plaza"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:00.136Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-large-building-statue-front-it": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "plaza-mayor",
+        "escultura",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:05.310Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-mounted-police-policeman-horse": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "policia-caballo",
+        "arquitectura",
+        "fachada",
+        "plaza-publica",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:07:08.914Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-night-scene-plaza-santa-ana": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "nocturna-iluminada",
+        "farol",
+        "escultura"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:23.396Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "plaza-mayor-madrid-plaza-santa-ana-17": {
+      "lugar": "plaza-mayor-madrid",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "farol",
+        "nocturna-iluminada",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:31.252Z",
+      "classifiedBy": "claude-haiku-4-5-20251001"
+    }
+  }
+}

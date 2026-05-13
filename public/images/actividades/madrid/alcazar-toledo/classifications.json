@@ -1,0 +1,72 @@
+{
+  "slug": "alcazar-toledo",
+  "schemaVersion": 1,
+  "entries": {
+    "alcazar-toledo-aerial-view-ancient-bridge-over": {
+      "lugar": "alcazar-toledo",
+      "obra": null,
+      "confianza": 0.45,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "puente",
+        "rio",
+        "panoramica-ciudad",
+        "muralla"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T14:18:27.644Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "alcazar-toledo-alcazar-bridge-spain-historical-2": {
+      "lugar": "alcazar-toledo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "muralla",
+        "puente",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:09:41.809Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "alcazar-toledo-alcazar-fortress-spain-architecture": {
+      "lugar": "alcazar-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "alcazar",
+        "muralla",
+        "vista-panoramica-toledo",
+        "cupula"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:09:43.711Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "generalife-granada",
+  "schemaVersion": 1,
+  "entries": {
+    "generalife-granada-toit-salle-abencerrages-espagne": {
+      "lugar": "generalife-granada",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "torre",
+        "jardin",
+        "ventana"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T10:58:53.443Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

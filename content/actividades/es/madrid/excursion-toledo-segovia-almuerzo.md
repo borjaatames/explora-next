@@ -110,34 +110,31 @@ categoria: "excursion"
 keywords: ["excursion toledo segovia almuerzo", "tour amigo tours toledo segovia", "toledo segovia damasquinado", "alcazar segovia entrada", "tour combinado madrid economico"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/segovia/segovia-alcazar-05-2017-10-22-hero.webp"
-imagenAlt: "Segovia - Alcázar de Segovia 05"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero.webp"
+imagenAlt: "alcazar de segovia, castle, spain, segovia, fortress"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
-  - src: "/images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp"
+  - src: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-heritage-monuments-architecture-hero.webp"
+    alt: "Alcazar toledo heritage monuments architecture en Alcazar toledo"
+  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero.webp"
+    alt: "Calles historicas toledo narrow old alleyway leads into en Calles historicas toledo"
+  - src: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-26642593854-hero.webp"
+    alt: "Alcazar de Segovia"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp"
+    alt: "Catedral de Toledo - Toledo 01"
+  - src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp"
     alt: "Aqueduct of Segovia 01"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
-  - src: "/images/actividades/madrid/segovia/segovia-aqueduct-02-hero.webp"
-    alt: "Aqueduct of Segovia 02"
-  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
-    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
-  - src: "/images/actividades/madrid/segovia/segovia-aqueduct-04-hero.webp"
-    alt: "Aqueduct of Segovia 04"
-  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
-    alt: "toledo, medieval city, architecture, historical"
-  - src: "/images/actividades/madrid/segovia/segovia-aqueduct-05-hero.webp"
-    alt: "Aqueduct of Segovia 05"
-  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
-    alt: "Sinagoga del Tránsito - Artesonado 01"
-  - src: "/images/actividades/madrid/segovia/segovia-aqueduct-06-hero.webp"
-    alt: "Aqueduct of Segovia 06"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
-    alt: "Spain-36 - Toledo"
-  - src: "/images/actividades/madrid/segovia/segovia-aqueduct-08-hero.webp"
-    alt: "Aqueduct of Segovia 08"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp"
+    alt: "FP Toledo 2025 - Puente de Alcántara"
+  - src: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero.webp"
+    alt: "Alcázar, Segovia, España,"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-7-nueve-de-febrero-hero.webp"
+    alt: "Sinagoga transito toledo 7 nueve de febrero en Sinagoga transito"
 ratingProveedor: 4.6
 numeroOpiniones: 4637
 

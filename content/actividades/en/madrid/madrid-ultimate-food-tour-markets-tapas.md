@@ -92,17 +92,25 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["madrid food tour", "madrid markets tour", "devour tours madrid", "anton martin market", "madrid culinary tour"]
 
-imagen: "/images/actividades/madrid/devour-markets-tapas/hero.webp"
-imagenAlt: "Devour Tours guide leading a small group through Madrid's Mercado Antón Martín"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp"
+imagenAlt: "Gran via madrid iconic metropolis building under en Gran via"
 
 galeria:
-  - src: "/images/actividades/madrid/devour-markets-tapas/01.webp"
-    alt: "Plates of cured meats and chorizo at a traditional Madrid bar"
-  - src: "/images/actividades/madrid/devour-markets-tapas/02.webp"
-    alt: "Stall at Mercado Antón Martín with fresh produce"
-  - src: "/images/actividades/madrid/devour-markets-tapas/03.webp"
-    alt: "Chocolate maker showing a Devour Tours group local Madrid chocolates"
-
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
+    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-foto-715857-hero.webp"
+    alt: "Mercado de San Miguel (Madrid) 02"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Tapas madrid jamon iberico tapa en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-green-olives-small-white-bowl-hero.webp"
+    alt: "Tapas madrid green olives small white bowl en Tapas"
+  - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-plaza-santa-ana-01-hero.webp"
+    alt: "Plaza santa ana 01 en Plaza santa ana"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
+    alt: "Bocadillo de calamares 22"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp"
+    alt: "Tapas madrid variety colorful drinks including en Tapas"
 ratingProveedor: 4.8
 numeroOpiniones: 182
 

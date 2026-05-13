@@ -1,0 +1,28 @@
+{
+  "slug": "madrid-skyline-cuatro-torres",
+  "schemaVersion": 1,
+  "entries": {
+    "madrid-skyline-cuatro-torres-spain-torres-skyline-leaderboard": {
+      "lugar": "madrid-skyline-cuatro-torres",
+      "obra": null,
+      "confianza": 1,
+      "espacio": "vista-urbana",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "rascacielos",
+        "torre",
+        "panoramica-ciudad",
+        "nocturna-iluminada",
+        "arquitectura-moderna"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-13T11:00:48.677Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": true
+    }
+  }
+}

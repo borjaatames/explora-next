@@ -101,26 +101,33 @@ categoria: "excursion"
 keywords: ["excursion toledo cata vinos", "tour toledo bodega", "toledo bodega siglo XVIII", "excursion gastronomica toledo", "cata vinos cerca toledo bargas"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-historic-castle-bridge-under-blue-hero.webp"
-imagenAlt: "Historic castle and bridge under a blue sky"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-cars-parked-side-road-between-hero.webp"
+imagenAlt: "Calles historicas toledo cars parked side road between en Calles historicas toledo"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
-    alt: "Ceiling of Sinagoga de Transito - Toledo (4)"
-  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
-    alt: "españa la bella, toledo, spain, panorama, medieval"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
-  - src: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-2-hero.webp"
-    alt: "Interior-Santa María-La-Blanca-synagogue-Toledo-3"
-  - src: "/images/actividades/madrid/toledo/toledo-majestic-stone-castle-spain-bathed-hero.webp"
+  - src: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp"
+    alt: "Alcazar toledo stunning aerial capture during day en Alcazar toledo"
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+    alt: "pexels emanuele nuccilli 1919977143 28826629 (1)"
+  - src: "/images/actividades/madrid/castillo-san-servando/castillo-san-servando-toledo-majestic-stone-castle-spain-bathed-hero.webp"
     alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
-  - src: "/images/actividades/madrid/toledo/toledo-medieval-city-architecture-hero.webp"
-    alt: "toledo, medieval city, architecture, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-sinagoga-transito-artesonado-01-hero.webp"
-    alt: "Sinagoga del Tránsito - Artesonado 01"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-36-2218865210-hero.webp"
-    alt: "Spain-36 - Toledo"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp"
+    alt: "Catedral de Toledo - Toledo 03"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero.webp"
+    alt: "Santo Tomé. Toledo"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-interior-hero.webp"
+    alt: "Cristo de la Luz 2025 Interior"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-13835007-hero.webp"
+    alt: "Monasterio de San Juan de los Reyes - Toledo 01"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-stone-bridge-over-river-city-hero.webp"
+    alt: "a stone bridge over a river in a city"
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
+    alt: "pexels zaki atrouni 4515526"
 ratingProveedor: 4.9
 numeroOpiniones: 2658
 

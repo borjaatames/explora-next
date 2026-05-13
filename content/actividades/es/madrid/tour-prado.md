@@ -87,26 +87,34 @@ categoria: "cultural"
 keywords: ["museo prado", "velazquez", "goya", "arte madrid", "tour prado"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/prado/museo-del-prado-2016-25185969599-hero.webp"
-imagenAlt: "Museo del Prado 2016"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp"
+imagenAlt: "madrid, spain, capital city, museum, prado"
 
 galeria:
-  - src: "/images/actividades/madrid/prado/museo-del-prado-apollo-forge-vulcan-label-qs-leu-hero.webp"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-monastery-09-hero.webp"
+    alt: "Monastery of El Escorial 09"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
+    alt: "Museo del Prado - Madrid 04"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp"
+    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-2-hero.webp"
+    alt: "The Surrender of Breda label QS:Les,\"La rendición de Breda o Las lanzas\"label QS:Lfr,\"La Reddition de Breda\"label QS:Len,\"The Surrender of"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-apollo-forge-vulcan-label-qs-leu-hero.webp"
     alt: "Apollo in the Forge of Vulcan label QS:Leu,\"Vulkanoren sutegia\"label QS:Lde,\"Apollo in der Schmiede Vulkans\"label QS:Luk,\"Кузня"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-charles-iv-spain-his-family-hero.webp"
-    alt: "Charles IV of Spain and His Family"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-clothed-maja-desnuda-hero.webp"
-    alt: "The Clothed Maja and La maja desnuda"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-clothed-maja-woman-painting-oil-hero.webp"
-    alt: "the clothed maja, woman, painting, oil painting, francisco de goya"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-entrance-2024-hero.webp"
-    alt: "Museo del Prado Entrance 2024"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-francisco-goya-maja-desnuda-hero.webp"
-    alt: "Francisco Goya - La maja desnuda, photoshop'ed"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-by-bosch-hero.webp"
-    alt: "The Garden of Earthly Delights by Bosch High Resolutioncrop"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-label-qs-hero.webp"
-    alt: "The Garden of Earthly Delights label QS:Lit,\"Il giardino delle delizie\" label QS:Lja,\"快楽の園\" label QS:Lfr,\"Le jardin des délices\" label"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp"
+    alt: "Vecelli, Tiziano - Charles V at Mühlberg - Detail head"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
+    alt: "Paseo del Prado - Madrid - 001"
+  - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp"
+    alt: "Fuente de Neptuno en Madrid"
 ratingProveedor: 4.8
 numeroOpiniones: 549
 

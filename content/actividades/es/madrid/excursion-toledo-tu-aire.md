@@ -102,26 +102,32 @@ categoria: "excursion"
 keywords: ["toledo desde madrid barato", "excursion toledo a tu aire", "bus toledo desde madrid", "trenecito toledo", "toledo independiente"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/toledo/toledo-interior-santa-maria-la-blanca-hero.webp"
-imagenAlt: "Interior-Santa María-La-Blanca-synagogue-Toledo-2"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp"
+imagenAlt: "Alcazar toledo breathtaking aerial view historic en Alcazar toledo"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/toledo-spain-bridge-ramparts-spain-2-hero.webp"
-    alt: "spain, toledo, bridge, ramparts"
-  - src: "/images/actividades/madrid/toledo/toledo-spain-landscape-travel-river-city-hero.webp"
-    alt: "toledo, spain, landscape, travel, river"
-  - src: "/images/actividades/madrid/toledo/toledo-striking-view-gothic-architecture-hero.webp"
-    alt: "Striking view of Gothic architecture in Toledo, Spain, capturing historical details."
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-bridge-spain-historical-2-hero.webp"
-    alt: "alcazar, bridge, toledo, spain, historical"
-  - src: "/images/actividades/madrid/toledo/toledo-alcazar-fortress-spain-architecture-hero.webp"
-    alt: "alcazar de toledo, fortress, spain, architecture, toledo"
-  - src: "/images/actividades/madrid/toledo/toledo-calle-comercio-hero.webp"
-    alt: "Toledo Calle Comercio"
-  - src: "/images/actividades/madrid/toledo/toledo-ceiling-sinagoga-transito-4-hero.webp"
-    alt: "Ceiling of Sinagoga de Transito - Toledo (4)"
-  - src: "/images/actividades/madrid/toledo/toledo-espana-bella-spain-panorama-hero.webp"
-    alt: "españa la bella, toledo, spain, panorama, medieval"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-3-hero.webp"
+    alt: "Catedral de Toledo - Toledo 05"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-from-top-hill-hero.webp"
+    alt: "Vista panoramica toledo view city from top hill en Vista panoramica toledo"
+  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero.webp"
+    alt: "Calles historicas toledo narrow old alleyway leads into en Calles historicas toledo"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-stone-bridge-over-river-city-hero.webp"
+    alt: "a stone bridge over a river in a city"
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp"
+    alt: "España - Toledo - Iglesia de Santo Tomé"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-foto-46558251-hero.webp"
+    alt: "Sinagoga santa maria blanca toledo foto 46558251 en Sinagoga santa maria blanca"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-windows-reliefs-hero.webp"
+    alt: "Sinagoga transito toledo windows reliefs en Sinagoga transito"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-view-3-hero.webp"
+    alt: "Puerta de Bisagra, Toledo - view 3"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-mosque-hero.webp"
+    alt: "Mosque of Cristo de la Luz"
 ratingProveedor: 3.9
 numeroOpiniones: 12
 

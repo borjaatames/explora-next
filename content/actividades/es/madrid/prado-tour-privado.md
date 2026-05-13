@@ -80,26 +80,36 @@ categoria: "cultural"
 keywords: ["tour privado prado", "guia privado madrid prado", "visita privada museo", "prado privado español"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/prado/museo-del-prado-apollo-forge-vulcan-label-qs-leu-hero.webp"
-imagenAlt: "Apollo in the Forge of Vulcan label QS:Leu,\"Vulkanoren sutegia\"label QS:Lde,\"Apollo in der Schmiede Vulkans\"label QS:Luk,\"Кузня"
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
+imagenAlt: "a large building with many windows"
 
 galeria:
-  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-title-qs-hero.webp"
-    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-title-qs-2-hero.webp"
-    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-garden-earthly-delights-title-qs-3-hero.webp"
-    alt: "The Garden of Earthly Delights title QS:P1476,en:\"The Garden of Earthly Delights \"label QS:Len,\"The Garden of Earthly Delights \"label"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-large-building-many-windows-hero.webp"
-    alt: "a large building with many windows"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-02-hero.webp"
-    alt: "Museo del Prado - Madrid 02"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-04-hero.webp"
-    alt: "Museo del Prado - Madrid 04"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-04-2-hero.webp"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+    alt: "Museo del Prado Entrance 2024"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"
     alt: "Museo del Prado (Madrid) 04"
-  - src: "/images/actividades/madrid/prado/museo-del-prado-madrid-museum-architecture-art-hero.webp"
-    alt: "madrid, prado, museum, architecture, art"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-francisco-goya-maja-desnuda-hero.webp"
+    alt: "Francisco Goya - La maja desnuda, photoshop'ed"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-triomf-van-doodsthe-triumph-death-hero.webp"
+    alt: "De triomf van de DoodsThe Triumph of Death"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-by-bosch-hero.webp"
+    alt: "The Garden of Earthly Delights by Bosch High Resolutioncrop"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-label-qs-hero.webp"
+    alt: "The Garden of Earthly Delights label QS:Lit,\"Il giardino delle delizie\" label QS:Lja,\"快楽の園\" label QS:Lfr,\"Le jardin des délices\" label"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-spanish-tres-gracias-three-hero.webp"
+    alt: "Spanish: Las tres Gracias The Three Gracestitle QS:P1476,es:\"Las tres Gracias \"label QS:Les,\"Las tres Gracias \"label QS:Lhu,\"Három"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-hero.webp"
+    alt: "The Surrender of Breda label QS:Les,\"La rendición de Breda o Las lanzas\"label QS:Lfr,\"La Reddition de Breda\"label QS:Len,\"The Surrender of"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp"
+    alt: "Paseo del Prado (Madrid) 01"
+  - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-plaza-canovas-castillo-espana-2017-hero.webp"
+    alt: "Fuente de Neptuno, Plaza de Cánovas del Castillo, Madrid, España,"
 ratingProveedor: 4.7
 numeroOpiniones: 91
 
