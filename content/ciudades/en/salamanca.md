@@ -14,6 +14,17 @@ keywords:
   - "salamanca travel guide"
   - "visit salamanca"
   - "salamanca tourism"
+atracciones:
+  - nombre: "Plaza Mayor"
+    descripcion: "Spain's most beautiful Baroque square (1755, by Alberto de Churriguera). The city's living room: everything happens here, from morning coffee to summer concerts."
+  - nombre: "University of Salamanca"
+    descripcion: "Spain's oldest university (1218). A Plateresque facade hiding the legendary frog on a skull — finding it brings exam luck according to student tradition."
+  - nombre: "Old and New Cathedrals"
+    descripcion: "Two cathedrals merged into a single complex: the Old one (Romanesque-Gothic, 12th century) and the New one (Late Gothic-Baroque, 16th century). The tower climb is a must."
+  - nombre: "Casa de las Conchas"
+    descripcion: "15th-century palace with a facade covered in 365 carved scallop shells (symbol of the Camino de Santiago). Today a public library with a free-to-visit Renaissance courtyard."
+  - nombre: "Convent of San Esteban"
+    descripcion: "Dominican convent with the city's most striking Plateresque facade. Fray Luis de León taught here, and Columbus debated his voyages with theologians here."
 ---
 
 Salamanca is the **golden city of Castile and León**, a provincial capital of around **143,000 inhabitants** and home to **Spain's oldest university** (founded in 1218, one of the oldest in the world). It is a UNESCO World Heritage Site.

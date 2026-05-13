@@ -5,6 +5,7 @@ import Image from "next/image";
 import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
+  type Atraccion,
 } from "@/lib/ciudades";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
@@ -88,6 +89,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 type Strings = {
+  atraccionesTitulo: string;
+  atraccionesSubtitulo: string;
   guiasTitulo: string;
   guiasDescripcion: string;
   guiasCta: string;
@@ -99,6 +102,8 @@ type Strings = {
 function getStrings(lang: Idioma, nombreCiudad: string): Strings {
   if (lang === "en") {
     return {
+      atraccionesTitulo: `Top attractions in ${nombreCiudad}`,
+      atraccionesSubtitulo: `What you can't miss in ${nombreCiudad}, with photos and context.`,
       guiasTitulo: `Guides for ${nombreCiudad}`,
       guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
       guiasCta: "View guides",
@@ -108,6 +113,8 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
     };
   }
   return {
+    atraccionesTitulo: `Las mejores atracciones de ${nombreCiudad}`,
+    atraccionesSubtitulo: `Lo imprescindible que ver en ${nombreCiudad}, con foto y contexto.`,
     guiasTitulo: `Guías de ${nombreCiudad}`,
     guiasDescripcion: "Rutas con criterio y consejos honestos para planificar tu viaje.",
     guiasCta: "Ver guías",
@@ -241,6 +248,24 @@ export default async function CiudadPage({ params }: Props) {
         />
       </article>
 
+      {ciudad.atracciones && ciudad.atracciones.length > 0 ? (
+        <section className="bg-white border-t border-slate-200">
+          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
+              {strings.atraccionesTitulo}
+            </h2>
+            <p className="text-slate-600 mb-8">
+              {strings.atraccionesSubtitulo}
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {ciudad.atracciones.map((atr, i) => (
+                <AtraccionCard key={i} atraccion={atr} />
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
+
       <section className="bg-slate-50 border-t border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -275,6 +300,42 @@ export default async function CiudadPage({ params }: Props) {
         </Link>
       </div>
     </main>
+  );
+}
+
+function AtraccionCard({ atraccion }: { atraccion: Atraccion }) {
+  if (atraccion.imagen) {
+    return (
+      <article className="group bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all">
+        <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
+          <Image
+            src={atraccion.imagen}
+            alt={atraccion.imagenAlt ?? atraccion.nombre}
+            fill
+            sizes="(max-width: 768px) 100vw, 50vw"
+            className="object-cover transition-transform duration-300 group-hover:scale-105"
+          />
+        </div>
+        <div className="p-5">
+          <h3 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2">
+            {atraccion.nombre}
+          </h3>
+          <p className="text-slate-600 leading-relaxed text-sm md:text-base">
+            {atraccion.descripcion}
+          </p>
+        </div>
+      </article>
+    );
+  }
+  return (
+    <article className="bg-sky-50 border border-sky-100 rounded-lg p-6 hover:border-sky-300 transition-colors">
+      <h3 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2">
+        {atraccion.nombre}
+      </h3>
+      <p className="text-slate-600 leading-relaxed text-sm md:text-base">
+        {atraccion.descripcion}
+      </p>
+    </article>
   );
 }
 

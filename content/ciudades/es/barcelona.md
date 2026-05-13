@@ -14,6 +14,27 @@ keywords:
   - "que ver en barcelona"
   - "guia de barcelona"
   - "turismo barcelona"
+atracciones:
+  - nombre: "Sagrada Familia"
+    descripcion: "El templo expiatorio diseñado por Gaudí, inacabado desde 1882. Las torres más altas se completarán entre 2026 y 2030. Si solo ves una cosa en Barcelona, esta. Reserva entrada online sí o sí."
+  - nombre: "Park Güell"
+    descripcion: "Parque modernista de Gaudí en la colina del Carmel. Mosaicos de trencadís, la salamandra famosa y el banco ondulante con vistas al mar. Solo la zona monumental es de pago."
+  - nombre: "Casa Batlló"
+    descripcion: "La casa más fantástica de Gaudí en el Passeig de Gràcia. Fachada como un dragón escamoso, chimeneas guerreras, patio azul interior. La visita es pequeña pero teatral."
+  - nombre: "La Pedrera (Casa Milà)"
+    descripcion: "El último edificio civil de Gaudí, también en Passeig de Gràcia. Estructura sin paredes maestras, fachada ondulada de piedra y la azotea con chimeneas-guerreras icónicas."
+  - nombre: "Barrio Gótico"
+    descripcion: "El núcleo medieval de Barcelona, con catedral, plazas íntimas y restos de la muralla romana. Pasea sin rumbo: cada callejón es Instagram."
+  - nombre: "Las Ramblas"
+    descripcion: "La avenida turística por excelencia, del Plaza Catalunya al Puerto. Hoy turistizada al límite — bien para pasear una vez, sin sentarse a comer."
+  - nombre: "Mercat de la Boqueria"
+    descripcion: "El mercado más fotogénico de Europa, en pleno Ramblas. Puestos centenarios de jamón, marisco, frutas exóticas y zumos. Ven temprano para evitar la oleada de turistas."
+  - nombre: "Catedral de Barcelona"
+    descripcion: "La catedral gótica de la ciudad, dedicada a Santa Eulalia. Patio del claustro con 13 gansos blancos (uno por cada año de la santa). Acceso lateral con cuota módica."
+  - nombre: "Palau de la Música Catalana"
+    descripcion: "Sala de conciertos modernista (Domènech i Montaner), Patrimonio de la Humanidad. Si solo entras de visita guiada vale la pena; si pillas un concierto, todavía más."
+  - nombre: "Barceloneta y la playa"
+    descripcion: "El antiguo barrio marinero, hoy mezcla de pescadores y turistas. Playa larga, paseo marítimo y los mejores arroces de la ciudad para comer en chiringuito."
 ---
 
 Barcelona es la capital de Cataluña y la segunda ciudad más poblada de España: alrededor de **1,7 millones de habitantes** en el municipio y más de 5,7 millones en su área metropolitana. Es sede de la Generalitat y el principal motor económico del Mediterráneo español.

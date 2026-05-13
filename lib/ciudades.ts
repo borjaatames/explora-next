@@ -11,6 +11,13 @@ import type { Idioma } from "./i18n/types";
 
 const ciudadesRoot = path.join(process.cwd(), "content", "ciudades");
 
+export type Atraccion = {
+  nombre: string;
+  descripcion: string;
+  imagen?: string;
+  imagenAlt?: string;
+};
+
 export type CiudadFrontmatter = {
   nombre: string;
   slug: string;
@@ -22,6 +29,7 @@ export type CiudadFrontmatter = {
   imagenGuiasAlt?: string;
   imagenActividades?: string;
   imagenActividadesAlt?: string;
+  atracciones?: Atraccion[];
   publicada: boolean;
   destacada?: boolean;
   orden?: number;
@@ -77,6 +85,7 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       imagenGuiasAlt: fm.imagenGuiasAlt,
       imagenActividades: fm.imagenActividades,
       imagenActividadesAlt: fm.imagenActividadesAlt,
+      atracciones: fm.atracciones,
       publicada: true,
       destacada: fm.destacada || false,
       orden: fm.orden ?? 999,
@@ -118,6 +127,7 @@ export async function obtenerCiudad(
     imagenGuiasAlt: fm.imagenGuiasAlt,
     imagenActividades: fm.imagenActividades,
     imagenActividadesAlt: fm.imagenActividadesAlt,
+    atracciones: fm.atracciones,
     publicada: true,
     destacada: fm.destacada || false,
     orden: fm.orden ?? 999,

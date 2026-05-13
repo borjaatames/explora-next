@@ -18,6 +18,21 @@ keywords:
   - "que ver en granada"
   - "guia de granada"
   - "turismo granada"
+atracciones:
+  - nombre: "La Alhambra"
+    descripcion: "El conjunto palaciego y militar nazarí más impresionante de Europa. Palacios Nazaríes, Alcazaba y jardines forman la última gran obra de Al-Ándalus (siglos XIII-XV). Las entradas vuelan: reserva con semanas de antelación."
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
+    imagenAlt: "Vista aérea del recinto de la Alhambra de Granada"
+  - nombre: "Generalife"
+    descripcion: "Los jardines de verano de los sultanes nazaríes, a un paseo de la Alhambra. Patios de agua, cipreses, rosales y vistas al Albaicín. Suele incluirse en la misma entrada que la Alhambra."
+    imagen: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
+    imagenAlt: "Interior del Generalife con artesonado nazarí"
+  - nombre: "Albaicín"
+    descripcion: "El barrio musulmán medieval, Patrimonio de la Humanidad. Calles blancas en cuesta, cármenes con jardín y miradores. El reflejo más bonito de la Alhambra se ve desde el mirador de San Nicolás al atardecer."
+  - nombre: "Sacromonte"
+    descripcion: "El barrio gitano histórico, en las cuevas excavadas en la colina frente a la Alhambra. Cuna del flamenco zambra y origen de tablaos antiguos. Visítalo de noche para sentir el ambiente real."
+  - nombre: "Capilla Real y Catedral"
+    descripcion: "Las tumbas de los Reyes Católicos descansan en la Capilla Real, junto a la Catedral renacentista que ellos mandaron construir. El conjunto explica el final de la Reconquista y el inicio del Siglo de Oro."
 ---
 
 Granada es una de las cinco ciudades imprescindibles de España y la **última capital musulmana de Europa**, conquistada por los Reyes Católicos en 1492. Es capital de provincia en Andalucía, con unos **232.000 habitantes** en el municipio y más de 530.000 en su área metropolitana.

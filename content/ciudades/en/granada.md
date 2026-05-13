@@ -18,6 +18,21 @@ keywords:
   - "granada travel guide"
   - "visit granada"
   - "granada tourism"
+atracciones:
+  - nombre: "The Alhambra"
+    descripcion: "The most impressive Nasrid palace and fortress complex in Europe. The Nasrid Palaces, the Alcazaba and the gardens are the last great work of Al-Andalus (13th-15th centuries). Tickets fly: book weeks in advance."
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
+    imagenAlt: "Aerial view of the Alhambra complex in Granada"
+  - nombre: "Generalife"
+    descripcion: "The Nasrid sultans' summer gardens, a short walk from the Alhambra. Water courtyards, cypresses, roses and views over the Albaicín. Usually included in the same Alhambra ticket."
+    imagen: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
+    imagenAlt: "Interior of the Generalife with Nasrid coffered ceiling"
+  - nombre: "Albaicín"
+    descripcion: "The medieval Muslim quarter, a UNESCO World Heritage Site. White streets on a steep hill, garden cármenes and viewpoints. The best reflection of the Alhambra is from the Mirador de San Nicolás at sunset."
+  - nombre: "Sacromonte"
+    descripcion: "Granada's historic Romani quarter, in caves dug into the hillside facing the Alhambra. Birthplace of the zambra flamenco and origin of the city's oldest tablaos. Visit at night for the real atmosphere."
+  - nombre: "Royal Chapel and Cathedral"
+    descripcion: "The Catholic Monarchs' tombs rest in the Royal Chapel, next to the Renaissance Cathedral they commissioned. The complex tells the story of the end of the Reconquista and the start of the Spanish Golden Age."
 ---
 
 Granada is one of Spain's five must-visit cities and the **last Muslim capital of Europe**, conquered by the Catholic Monarchs in 1492. It is a provincial capital in Andalusia, with around **232,000 inhabitants** in the municipality and more than 530,000 in its metropolitan area.

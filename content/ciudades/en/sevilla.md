@@ -14,6 +14,27 @@ keywords:
   - "seville travel guide"
   - "visit seville"
   - "seville tourism"
+atracciones:
+  - nombre: "Cathedral and Giralda"
+    descripcion: "The world's largest Gothic cathedral, built over the old Almohad mosque. The Giralda is its minaret-turned-bell-tower, climbed via ramps: 35 levels to the top."
+  - nombre: "Real Alcázar"
+    descripcion: "14th-century Mudéjar palace with Moorish gardens and courtyards. A UNESCO World Heritage Site. Featured as Dorne in Game of Thrones. Book tickets online."
+  - nombre: "Plaza de España"
+    descripcion: "Built for the 1929 Ibero-American Exposition, semicircular, with tiled benches of every Spanish province and canals with rowboats. A postcard."
+  - nombre: "Torre del Oro"
+    descripcion: "13th-century Almohad defensive tower on the banks of the Guadalquivir. Today it houses the Naval Museum. Good river views from the top."
+  - nombre: "Santa Cruz Quarter"
+    descripcion: "The former Jewish quarter, now Seville's most photogenic neighbourhood. Narrow white streets, plant-filled patios, hidden squares. Right next to the Alcázar."
+  - nombre: "Triana"
+    descripcion: "Neighbourhood of bullfighters, flamenco artists and ceramicists across the river. Calle Betis with cathedral views, the Triana market, sailor chapels. Authentic."
+  - nombre: "Macarena Quarter"
+    descripcion: "Historic, working-class, away from the tourist crowds. Basilica of the Virgen Macarena, Thursday market, streets where everyday Seville still lives."
+  - nombre: "Maestranza Bullring"
+    descripcion: "One of Spain's oldest and most beautiful bullrings (1761). The temple of Sevillian bullfighting. Guided tour of the museum and arena when no bullfight is on."
+  - nombre: "Setas de Sevilla (Metropol Parasol)"
+    descripcion: "Giant wooden structure designed by Jürgen Mayer, completed in 2011. Controversial at first, now a modern icon. Climbing to the walkway gives the best view of the old town."
+  - nombre: "General Archive of the Indies"
+    descripcion: "Former 16th-century Casa Lonja, today the archive holding original documents from the discovery and administration of the Americas. A UNESCO World Heritage Site together with the Cathedral and the Alcázar."
 ---
 
 Seville is the **capital of Andalusia** and Spain's fourth most populated city: **684,000 inhabitants** in the municipality and more than 1.5 million in its metropolitan area. It is the seat of the Junta de Andalucía and the economic, cultural and religious heart of southern Spain.
