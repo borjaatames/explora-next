@@ -7,15 +7,11 @@ import {
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
-import { obtenerListaGuias } from "@/lib/guias";
-import {
-  obtenerActividadesDestacadasPorCiudad,
-  type ActividadListItem,
-} from "@/lib/actividades";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
   urlCiudad,
+  urlIndiceGuias,
 } from "@/lib/i18n/utils";
 
 const SITE_URL =
@@ -60,6 +56,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: ciudad.descripcion,
       siteName: "ExploraSpain",
       locale: "es_ES",
+      ...(ciudad.imagen
+        ? {
+            images: [
+              {
+                url: `${SITE_URL}${ciudad.imagen}`,
+                alt: ciudad.imagenAlt ?? ciudad.nombre,
+              },
+            ],
+          }
+        : {}),
     },
   };
 }
@@ -68,16 +74,6 @@ export default async function CiudadPage({ params }: Props) {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) notFound();
 
-  const guiasRelacionadas = obtenerListaGuias("es").filter(
-    (g) => g.categoria.toLowerCase() === params.ciudad.toLowerCase()
-  );
-
-  const actividadesDestacadas = obtenerActividadesDestacadasPorCiudad(
-    "es",
-    params.ciudad,
-    3
-  );
-
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "TouristDestination",
@@ -85,6 +81,9 @@ export default async function CiudadPage({ params }: Props) {
     description: ciudad.descripcion,
     addressCountry: "ES",
     url: `https://exploraspain.com${ciudad.url}`,
+    ...(ciudad.imagen
+      ? { image: `https://exploraspain.com${ciudad.imagen}` }
+      : {}),
   };
 
   const breadcrumbsLd = {
@@ -112,6 +111,9 @@ export default async function CiudadPage({ params }: Props) {
     ],
   };
 
+  const urlGuias = urlIndiceGuias("es");
+  const urlActividades = urlActividadesDeCiudad("es", params.ciudad);
+
   return (
     <main className="min-h-screen bg-white">
       <script
@@ -123,8 +125,24 @@ export default async function CiudadPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
-        <div className="max-w-3xl mx-auto px-4">
+      <header className="relative bg-sky-500 text-white py-16 md:py-24 overflow-hidden">
+        {ciudad.imagen ? (
+          <>
+            <Image
+              src={ciudad.imagen}
+              alt={ciudad.imagenAlt ?? ""}
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover"
+            />
+            <div
+              className="absolute inset-0 bg-sky-500/75"
+              aria-hidden="true"
+            />
+          </>
+        ) : null}
+        <div className="relative max-w-3xl mx-auto px-4">
           <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
             <Link href="/" className="hover:text-white">
               Inicio
@@ -151,70 +169,34 @@ export default async function CiudadPage({ params }: Props) {
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         <div
-          className="prose-guia"
+          className="prose-guia text-justify hyphens-auto"
           dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
         />
       </article>
 
-      {guiasRelacionadas.length > 0 && (
-        <section className="bg-slate-50 border-t border-slate-200">
-          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
-              Guías de {ciudad.nombre}
-            </h2>
-            <p className="text-slate-600 mb-8">
-              Profundiza en {ciudad.nombre} con nuestras rutas y recomendaciones.
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {guiasRelacionadas.map((guia) => (
-                <Link
-                  key={guia.url}
-                  href={guia.url}
-                  className="group block bg-white border border-slate-200 rounded-lg p-5 hover:border-sky-400 hover:shadow-md transition-all"
-                >
-                  <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
-                    {guia.titulo}
-                  </h3>
-                  <p className="text-sm text-slate-600 leading-relaxed line-clamp-3">
-                    {guia.descripcion}
-                  </p>
-                </Link>
-              ))}
-            </div>
+      <section className="bg-slate-50 border-t border-slate-200">
+        <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <CtaImagenCard
+              href={urlGuias}
+              imagen="/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+              imagenAlt="Fachada neoclásica del Palacio Real de Madrid"
+              titulo={`Guías de ${ciudad.nombre}`}
+              descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
+              cta="Ver guías"
+            />
+            <CtaImagenCard
+              href={urlActividades}
+              imagen="/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-foto-28533195-hero.webp"
+              imagenAlt="Plaza Mayor de Madrid con la estatua de Felipe III"
+              titulo={`Actividades y tours en ${ciudad.nombre}`}
+              descripcion="Tours seleccionados con criterio editorial. Reserva con cancelación gratis."
+              cta="Ver actividades"
+              acento="amber"
+            />
           </div>
-        </section>
-      )}
-
-      {actividadesDestacadas.length > 0 && (
-        <section className="bg-white border-t border-slate-200">
-          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-            <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-3 mb-8">
-              <div>
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
-                  Actividades en {ciudad.nombre}
-                </h2>
-                <p className="text-slate-600">
-                  Tours y experiencias seleccionadas con criterio editorial.
-                </p>
-              </div>
-              <Link
-                href={urlActividadesDeCiudad("es", params.ciudad)}
-                className="text-sky-600 hover:text-sky-700 font-semibold whitespace-nowrap"
-              >
-                Ver todas las actividades →
-              </Link>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {actividadesDestacadas.map((actividad) => (
-                <ActividadCardCiudad
-                  key={actividad.url}
-                  actividad={actividad}
-                />
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
+        </div>
+      </section>
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
@@ -228,47 +210,63 @@ export default async function CiudadPage({ params }: Props) {
   );
 }
 
-type ActividadCardCiudadProps = { actividad: ActividadListItem };
+type CtaImagenCardProps = {
+  href: string;
+  imagen: string;
+  imagenAlt: string;
+  titulo: string;
+  descripcion: string;
+  cta: string;
+  acento?: "sky" | "amber";
+};
 
-function ActividadCardCiudad({ actividad }: ActividadCardCiudadProps) {
-  const precio = new Intl.NumberFormat("es-ES", {
-    style: "currency",
-    currency: actividad.moneda,
-    maximumFractionDigits: 0,
-  }).format(actividad.precioDesde);
+function CtaImagenCard({
+  href,
+  imagen,
+  imagenAlt,
+  titulo,
+  descripcion,
+  cta,
+  acento = "sky",
+}: CtaImagenCardProps) {
+  const isAmber = acento === "amber";
+
+  const ringClass = isAmber
+    ? "focus-visible:ring-amber-500"
+    : "focus-visible:ring-sky-500";
+
+  const gradientClass = isAmber
+    ? "bg-gradient-to-t from-amber-900/90 via-amber-700/55 to-transparent"
+    : "bg-gradient-to-t from-sky-900/90 via-sky-700/55 to-transparent";
+
+  const descripcionClass = isAmber ? "text-amber-50" : "text-sky-100";
 
   return (
     <Link
-      href={actividad.url}
-      className="group flex flex-col bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
+      href={href}
+      className={`group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 ${ringClass}`}
     >
-      <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
-        {actividad.imagen ? (
-          <Image
-            src={actividad.imagen}
-            alt={actividad.imagenAlt}
-            fill
-            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
-          />
-        ) : null}
-      </div>
-      <div className="flex flex-col flex-1 p-5">
-        <p className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2">
-          {actividad.duracion}
+      <Image
+        src={imagen}
+        alt={imagenAlt}
+        fill
+        sizes="(max-width: 768px) 100vw, 50vw"
+        className="object-cover transition-transform duration-300 group-hover:scale-105"
+      />
+      <div
+        className={`absolute inset-0 ${gradientClass}`}
+        aria-hidden="true"
+      />
+      <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-8 text-white">
+        <h2 className="font-playfair text-2xl md:text-3xl font-bold mb-2 leading-tight">
+          {titulo}
+        </h2>
+        <p className={descripcionClass + " text-sm md:text-base mb-4 max-w-md"}>
+          {descripcion}
         </p>
-        <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-sky-700 transition-colors">
-          {actividad.titulo}
-        </h3>
-        <p className="text-sm text-slate-600 leading-relaxed line-clamp-2 mb-4 flex-1">
-          {actividad.descripcion}
-        </p>
-        <div className="flex items-baseline gap-1 border-t border-slate-100 pt-3 mt-auto">
-          <span className="text-xs text-slate-500">Desde</span>
-          <span className="text-base font-semibold text-slate-900">
-            {precio}
-          </span>
-        </div>
+        <span className="inline-flex items-center font-semibold text-base">
+          {cta} <span aria-hidden="true" className="ml-2">→</span>
+        </span>
       </div>
     </Link>
   );
