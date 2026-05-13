@@ -15,9 +15,6 @@ export const IDIOMA_DEFECTO: Idioma = "es";
 
 /**
  * Segmentos de URL traducibles por idioma.
- * `actividades` está reservado para una futura sección de afiliación
- * (Civitatis/GetYourGuide). No hay rutas todavía, pero el slug ya está
- * definido para no tener que tocar todas las URLs cuando se active.
  *
  * Las 3 legales (`avisoLegal`, `privacidad`, `cookies`) y `contacto` usan
  * slugs ES legacy en español y la convención EN estándar (`legal-notice`,
@@ -30,6 +27,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     guias: "guias",
     ciudades: "ciudades",
     actividades: "actividades",
+    atracciones: "atracciones",
     avisoLegal: "aviso-legal",
     privacidad: "privacidad",
     cookies: "cookies",
@@ -39,6 +37,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     guias: "guides",
     ciudades: "cities",
     actividades: "activities",
+    atracciones: "attractions",
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
@@ -48,6 +47,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     guias: "guides",
     ciudades: "cities",
     actividades: "activities",
+    atracciones: "attractions",
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
@@ -57,6 +57,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     guias: "guides",
     ciudades: "cities",
     actividades: "activities",
+    atracciones: "attractions",
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
@@ -66,6 +67,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     guias: "guides",
     ciudades: "cities",
     actividades: "activities",
+    atracciones: "attractions",
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",
@@ -75,6 +77,7 @@ export const URL_SEGMENTS: Record<Idioma, SegmentosUrl> = {
     guias: "guides",
     ciudades: "cities",
     actividades: "activities",
+    atracciones: "attractions",
     avisoLegal: "legal-notice",
     privacidad: "privacy",
     cookies: "cookies",

@@ -9,6 +9,8 @@ imagenGuias: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegan
 imagenGuiasAlt: "Neoclassical facade of Madrid's Royal Palace"
 imagenActividades: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-foto-28533195-hero.webp"
 imagenActividadesAlt: "Plaza Mayor of Madrid with the Philip III equestrian statue"
+imagenAtracciones: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+imagenAtraccionesAlt: "Facade of the Prado Museum in Madrid"
 publicada: true
 destacada: true
 orden: 1

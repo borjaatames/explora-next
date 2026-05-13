@@ -6,6 +6,7 @@ export type SegmentosUrl = {
   guias: string;
   ciudades: string;
   actividades: string;
+  atracciones: string;
   avisoLegal: string;
   privacidad: string;
   cookies: string;

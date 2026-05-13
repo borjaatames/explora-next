@@ -9,6 +9,8 @@ imagenGuias: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegan
 imagenGuiasAlt: "Fachada neoclásica del Palacio Real de Madrid"
 imagenActividades: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-foto-28533195-hero.webp"
 imagenActividadesAlt: "Plaza Mayor de Madrid con la estatua de Felipe III"
+imagenAtracciones: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+imagenAtraccionesAlt: "Fachada del Museo del Prado en Madrid"
 publicada: true
 destacada: true
 orden: 1

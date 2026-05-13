@@ -29,19 +29,14 @@ export type CiudadFrontmatter = {
   imagenGuiasAlt?: string;
   imagenActividades?: string;
   imagenActividadesAlt?: string;
+  imagenAtracciones?: string;
+  imagenAtraccionesAlt?: string;
   atracciones?: Atraccion[];
   publicada: boolean;
   destacada?: boolean;
   orden?: number;
   keywords?: string[];
 
-  /**
-   * Mapa de slugs por idioma para esta ciudad. Ver `slugs` en
-   * `ActividadFrontmatter` para el patrón completo. Hoy todas las
-   * ciudades usan slugs invariantes ES (madrid, barcelona, sevilla,
-   * granada, salamanca), pero el campo se incluye por consistencia
-   * con guías y actividades.
-   */
   slugs?: Partial<Record<Idioma, string>>;
 };
 
@@ -85,6 +80,8 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       imagenGuiasAlt: fm.imagenGuiasAlt,
       imagenActividades: fm.imagenActividades,
       imagenActividadesAlt: fm.imagenActividadesAlt,
+      imagenAtracciones: fm.imagenAtracciones,
+      imagenAtraccionesAlt: fm.imagenAtraccionesAlt,
       atracciones: fm.atracciones,
       publicada: true,
       destacada: fm.destacada || false,
@@ -127,6 +124,8 @@ export async function obtenerCiudad(
     imagenGuiasAlt: fm.imagenGuiasAlt,
     imagenActividades: fm.imagenActividades,
     imagenActividadesAlt: fm.imagenActividadesAlt,
+    imagenAtracciones: fm.imagenAtracciones,
+    imagenAtraccionesAlt: fm.imagenAtraccionesAlt,
     atracciones: fm.atracciones,
     publicada: true,
     destacada: fm.destacada || false,
@@ -139,10 +138,6 @@ export async function obtenerCiudad(
   };
 }
 
-/**
- * Devuelve todos los caminos (idioma + slug) de todos los idiomas activos.
- * Para la ruta española sin prefijo, filtrar por idioma === "es".
- */
 export function obtenerTodosLosCaminosCiudades(): {
   idioma: Idioma;
   ciudad: string;
@@ -156,11 +151,6 @@ export function obtenerTodosLosCaminosCiudades(): {
   return caminos;
 }
 
-
-/**
- * Comprueba si existe el archivo `.md` de una ciudad en el idioma dado.
- * Ver `existeActividad` en `lib/actividades.ts` para el mismo patrón.
- */
 export function existeCiudad(idioma: Idioma, slug: string): boolean {
   const fullPath = path.join(directorioIdioma(idioma), `${slug}.md`);
   return fs.existsSync(fullPath);

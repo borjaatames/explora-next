@@ -9,6 +9,8 @@ imagenGuias: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles
 imagenGuiasAlt: "Amanecer en el Palacio de Carlos V dentro de la Alhambra"
 imagenActividades: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
 imagenActividadesAlt: "La Alhambra al atardecer iluminada desde el Albaicín"
+imagenAtracciones: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+imagenAtraccionesAlt: "La Alcazaba de la Alhambra de Granada"
 publicada: true
 destacada: true
 orden: 4
