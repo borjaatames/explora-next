@@ -18,6 +18,10 @@ export type CiudadFrontmatter = {
   comunidad: string;
   imagen?: string;
   imagenAlt?: string;
+  imagenGuias?: string;
+  imagenGuiasAlt?: string;
+  imagenActividades?: string;
+  imagenActividadesAlt?: string;
   publicada: boolean;
   destacada?: boolean;
   orden?: number;
@@ -69,6 +73,10 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       comunidad: fm.comunidad || "",
       imagen: fm.imagen,
       imagenAlt: fm.imagenAlt,
+      imagenGuias: fm.imagenGuias,
+      imagenGuiasAlt: fm.imagenGuiasAlt,
+      imagenActividades: fm.imagenActividades,
+      imagenActividadesAlt: fm.imagenActividadesAlt,
       publicada: true,
       destacada: fm.destacada || false,
       orden: fm.orden ?? 999,
@@ -106,6 +114,10 @@ export async function obtenerCiudad(
     comunidad: fm.comunidad || "",
     imagen: fm.imagen,
     imagenAlt: fm.imagenAlt,
+    imagenGuias: fm.imagenGuias,
+    imagenGuiasAlt: fm.imagenGuiasAlt,
+    imagenActividades: fm.imagenActividades,
+    imagenActividadesAlt: fm.imagenActividadesAlt,
     publicada: true,
     destacada: fm.destacada || false,
     orden: fm.orden ?? 999,

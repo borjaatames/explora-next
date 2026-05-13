@@ -1,18 +1,20 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
-import { obtenerListaGuias } from "@/lib/guias";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
+  urlActividadesDeCiudad,
   urlCiudad,
   urlIndiceCiudades,
+  urlIndiceGuias,
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
@@ -66,12 +68,52 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: ciudad.descripcion,
       siteName: "ExploraSpain",
       locale: IDIOMA_LOCALE[lang],
+      ...(ciudad.imagen
+        ? {
+            images: [
+              {
+                url: `${SITE_URL}${ciudad.imagen}`,
+                alt: ciudad.imagenAlt ?? ciudad.nombre,
+              },
+            ],
+          }
+        : {}),
     },
     twitter: {
       card: "summary_large_image",
       title: ciudad.nombre,
       description: ciudad.descripcion,
     },
+  };
+}
+
+type Strings = {
+  guiasTitulo: string;
+  guiasDescripcion: string;
+  guiasCta: string;
+  actividadesTitulo: string;
+  actividadesDescripcion: string;
+  actividadesCta: string;
+};
+
+function getStrings(lang: Idioma, nombreCiudad: string): Strings {
+  if (lang === "en") {
+    return {
+      guiasTitulo: `Guides for ${nombreCiudad}`,
+      guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
+      guiasCta: "View guides",
+      actividadesTitulo: `Things to do in ${nombreCiudad}`,
+      actividadesDescripcion: "Hand-picked tours and experiences. Free cancellation included.",
+      actividadesCta: "View activities",
+    };
+  }
+  return {
+    guiasTitulo: `Guías de ${nombreCiudad}`,
+    guiasDescripcion: "Rutas con criterio y consejos honestos para planificar tu viaje.",
+    guiasCta: "Ver guías",
+    actividadesTitulo: `Actividades y tours en ${nombreCiudad}`,
+    actividadesDescripcion: "Tours seleccionados con criterio editorial. Reserva con cancelación gratis.",
+    actividadesCta: "Ver actividades",
   };
 }
 
@@ -85,10 +127,6 @@ export default async function CiudadPage({ params }: Props) {
   const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) notFound();
 
-  const guiasRelacionadas = obtenerListaGuias(lang).filter(
-    (g) => g.categoria.toLowerCase() === params.ciudad.toLowerCase()
-  );
-
   const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
   const indiceUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
   const ciudadUrl = `${SITE_URL}${ciudad.url}`;
@@ -100,6 +138,9 @@ export default async function CiudadPage({ params }: Props) {
     description: ciudad.descripcion,
     addressCountry: "ES",
     url: ciudadUrl,
+    ...(ciudad.imagen
+      ? { image: `${SITE_URL}${ciudad.imagen}` }
+      : {}),
   };
 
   const breadcrumbsLd = {
@@ -127,6 +168,10 @@ export default async function CiudadPage({ params }: Props) {
     ],
   };
 
+  const strings = getStrings(lang, ciudad.nombre);
+  const urlGuias = urlIndiceGuias(lang);
+  const urlActividades = urlActividadesDeCiudad(lang, params.ciudad);
+
   return (
     <main className="min-h-screen bg-white">
       <script
@@ -138,8 +183,24 @@ export default async function CiudadPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
-        <div className="max-w-3xl mx-auto px-4">
+      <header className="relative bg-sky-500 text-white py-16 md:py-24 overflow-hidden">
+        {ciudad.imagen ? (
+          <>
+            <Image
+              src={ciudad.imagen}
+              alt={ciudad.imagenAlt ?? ""}
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover"
+            />
+            <div
+              className="absolute inset-0 bg-sky-500/75"
+              aria-hidden="true"
+            />
+          </>
+        ) : null}
+        <div className="relative max-w-3xl mx-auto px-4">
           <nav
             aria-label="Breadcrumb"
             className="text-sm text-sky-100 mb-4"
@@ -175,36 +236,35 @@ export default async function CiudadPage({ params }: Props) {
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         <div
-          className="prose-guia"
+          className="prose-guia text-justify hyphens-auto"
           dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
         />
       </article>
 
-      {guiasRelacionadas.length > 0 && (
-        <section className="bg-slate-50 border-t border-slate-200">
-          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
-              {dict.ciudades.guiasDeCiudad}
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-              {guiasRelacionadas.map((guia) => (
-                <Link
-                  key={guia.url}
-                  href={guia.url}
-                  className="group block bg-white border border-slate-200 rounded-lg p-5 hover:border-sky-400 hover:shadow-md transition-all"
-                >
-                  <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
-                    {guia.titulo}
-                  </h3>
-                  <p className="text-sm text-slate-600 leading-relaxed line-clamp-3">
-                    {guia.descripcion}
-                  </p>
-                </Link>
-              ))}
-            </div>
+      <section className="bg-slate-50 border-t border-slate-200">
+        <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <CtaCiudadCard
+              href={urlGuias}
+              imagen={ciudad.imagenGuias}
+              imagenAlt={ciudad.imagenGuiasAlt}
+              titulo={strings.guiasTitulo}
+              descripcion={strings.guiasDescripcion}
+              cta={strings.guiasCta}
+              acento="sky"
+            />
+            <CtaCiudadCard
+              href={urlActividades}
+              imagen={ciudad.imagenActividades}
+              imagenAlt={ciudad.imagenActividadesAlt}
+              titulo={strings.actividadesTitulo}
+              descripcion={strings.actividadesDescripcion}
+              cta={strings.actividadesCta}
+              acento="amber"
+            />
           </div>
-        </section>
-      )}
+        </div>
+      </section>
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
@@ -215,5 +275,90 @@ export default async function CiudadPage({ params }: Props) {
         </Link>
       </div>
     </main>
+  );
+}
+
+type CtaCiudadCardProps = {
+  href: string;
+  imagen?: string;
+  imagenAlt?: string;
+  titulo: string;
+  descripcion: string;
+  cta: string;
+  acento: "sky" | "amber";
+};
+
+function CtaCiudadCard({
+  href,
+  imagen,
+  imagenAlt,
+  titulo,
+  descripcion,
+  cta,
+  acento,
+}: CtaCiudadCardProps) {
+  const isAmber = acento === "amber";
+  const ringClass = isAmber
+    ? "focus-visible:ring-amber-500"
+    : "focus-visible:ring-sky-500";
+  const descripcionClass = isAmber ? "text-amber-50" : "text-sky-100";
+
+  if (imagen) {
+    const gradientClass = isAmber
+      ? "bg-gradient-to-t from-amber-900/90 via-amber-700/55 to-transparent"
+      : "bg-gradient-to-t from-sky-900/90 via-sky-700/55 to-transparent";
+
+    return (
+      <Link
+        href={href}
+        className={"group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + ringClass}
+      >
+        <Image
+          src={imagen}
+          alt={imagenAlt ?? ""}
+          fill
+          sizes="(max-width: 768px) 100vw, 50vw"
+          className="object-cover transition-transform duration-300 group-hover:scale-105"
+        />
+        <div
+          className={"absolute inset-0 " + gradientClass}
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-8 text-white">
+          <h2 className="font-playfair text-2xl md:text-3xl font-bold mb-2 leading-tight">
+            {titulo}
+          </h2>
+          <p className={descripcionClass + " text-sm md:text-base mb-4 max-w-md"}>
+            {descripcion}
+          </p>
+          <span className="inline-flex items-center font-semibold text-base">
+            {cta} <span aria-hidden="true" className="ml-2">→</span>
+          </span>
+        </div>
+      </Link>
+    );
+  }
+
+  const bgClass = isAmber
+    ? "bg-amber-500 hover:bg-amber-600"
+    : "bg-sky-500 hover:bg-sky-600";
+
+  return (
+    <Link
+      href={href}
+      className={"group block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + bgClass + " " + ringClass}
+    >
+      <div className="flex flex-col justify-end h-full p-6 md:p-8 text-white">
+        <h2 className="font-playfair text-2xl md:text-3xl font-bold mb-2 leading-tight">
+          {titulo}
+        </h2>
+        <p className={descripcionClass + " text-sm md:text-base mb-4 max-w-md"}>
+          {descripcion}
+        </p>
+        <span className="inline-flex items-center font-semibold text-base">
+          {cta} <span aria-hidden="true" className="ml-2">→</span>
+        </span>
+      </div>
+    </Link>
   );
 }

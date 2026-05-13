@@ -177,19 +177,20 @@ export default async function CiudadPage({ params }: Props) {
       <section className="bg-slate-50 border-t border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <CtaImagenCard
+            <CtaCiudadCard
               href={urlGuias}
-              imagen="/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
-              imagenAlt="Fachada neoclásica del Palacio Real de Madrid"
-              titulo={`Guías de ${ciudad.nombre}`}
+              imagen={ciudad.imagenGuias}
+              imagenAlt={ciudad.imagenGuiasAlt}
+              titulo={"Guías de " + ciudad.nombre}
               descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
               cta="Ver guías"
+              acento="sky"
             />
-            <CtaImagenCard
+            <CtaCiudadCard
               href={urlActividades}
-              imagen="/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-foto-28533195-hero.webp"
-              imagenAlt="Plaza Mayor de Madrid con la estatua de Felipe III"
-              titulo={`Actividades y tours en ${ciudad.nombre}`}
+              imagen={ciudad.imagenActividades}
+              imagenAlt={ciudad.imagenActividadesAlt}
+              titulo={"Actividades y tours en " + ciudad.nombre}
               descripcion="Tours seleccionados con criterio editorial. Reserva con cancelación gratis."
               cta="Ver actividades"
               acento="amber"
@@ -210,54 +211,77 @@ export default async function CiudadPage({ params }: Props) {
   );
 }
 
-type CtaImagenCardProps = {
+type CtaCiudadCardProps = {
   href: string;
-  imagen: string;
-  imagenAlt: string;
+  imagen?: string;
+  imagenAlt?: string;
   titulo: string;
   descripcion: string;
   cta: string;
-  acento?: "sky" | "amber";
+  acento: "sky" | "amber";
 };
 
-function CtaImagenCard({
+function CtaCiudadCard({
   href,
   imagen,
   imagenAlt,
   titulo,
   descripcion,
   cta,
-  acento = "sky",
-}: CtaImagenCardProps) {
+  acento,
+}: CtaCiudadCardProps) {
   const isAmber = acento === "amber";
-
   const ringClass = isAmber
     ? "focus-visible:ring-amber-500"
     : "focus-visible:ring-sky-500";
-
-  const gradientClass = isAmber
-    ? "bg-gradient-to-t from-amber-900/90 via-amber-700/55 to-transparent"
-    : "bg-gradient-to-t from-sky-900/90 via-sky-700/55 to-transparent";
-
   const descripcionClass = isAmber ? "text-amber-50" : "text-sky-100";
+
+  if (imagen) {
+    const gradientClass = isAmber
+      ? "bg-gradient-to-t from-amber-900/90 via-amber-700/55 to-transparent"
+      : "bg-gradient-to-t from-sky-900/90 via-sky-700/55 to-transparent";
+
+    return (
+      <Link
+        href={href}
+        className={"group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + ringClass}
+      >
+        <Image
+          src={imagen}
+          alt={imagenAlt ?? ""}
+          fill
+          sizes="(max-width: 768px) 100vw, 50vw"
+          className="object-cover transition-transform duration-300 group-hover:scale-105"
+        />
+        <div
+          className={"absolute inset-0 " + gradientClass}
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-8 text-white">
+          <h2 className="font-playfair text-2xl md:text-3xl font-bold mb-2 leading-tight">
+            {titulo}
+          </h2>
+          <p className={descripcionClass + " text-sm md:text-base mb-4 max-w-md"}>
+            {descripcion}
+          </p>
+          <span className="inline-flex items-center font-semibold text-base">
+            {cta} <span aria-hidden="true" className="ml-2">→</span>
+          </span>
+        </div>
+      </Link>
+    );
+  }
+
+  const bgClass = isAmber
+    ? "bg-amber-500 hover:bg-amber-600"
+    : "bg-sky-500 hover:bg-sky-600";
 
   return (
     <Link
       href={href}
-      className={`group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 ${ringClass}`}
+      className={"group block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + bgClass + " " + ringClass}
     >
-      <Image
-        src={imagen}
-        alt={imagenAlt}
-        fill
-        sizes="(max-width: 768px) 100vw, 50vw"
-        className="object-cover transition-transform duration-300 group-hover:scale-105"
-      />
-      <div
-        className={`absolute inset-0 ${gradientClass}`}
-        aria-hidden="true"
-      />
-      <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-8 text-white">
+      <div className="flex flex-col justify-end h-full p-6 md:p-8 text-white">
         <h2 className="font-playfair text-2xl md:text-3xl font-bold mb-2 leading-tight">
           {titulo}
         </h2>
