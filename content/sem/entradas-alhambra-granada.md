@@ -39,6 +39,7 @@ comparador:
 
 tours:
   - id: "alhambra-guiada-generalife-special-plans"
+    ficha_propia_slug: "visita-guiada-alhambra-generalife"
     titulo: "Visita guiada a la Alhambra y el Generalife"
     descripcion: "Visita guiada en grupo a la Alhambra, el Generalife y los Palacios Nazaríes, con acceso sin colas. La opción más reservada del recorrido, con más de 21.000 reseñas."
     operador: "Special Plans · Guía en directo"
@@ -55,6 +56,7 @@ tours:
     ancla: true
 
   - id: "alhambra-nazaries-generalife-granada-online"
+    ficha_propia_slug: "alhambra-palacios-nazaries-sin-colas"
     titulo: "Palacios Nazaríes y Generalife sin colas"
     descripcion: "Acceso sin colas al Palacio de la Alhambra, los Palacios Nazaríes y los jardines del Generalife, con guía en directo. Más de 8.400 reseñas."
     operador: "GRANADA ONLINE · Guía en directo"
@@ -70,6 +72,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-entrada-tour-guiado-ate"
+    ficha_propia_slug: "entrada-y-tour-guiado-alhambra"
     titulo: "Entrada a la Alhambra y tour guiado con Palacios Nazaríes"
     descripcion: "Entrada a la Alhambra más tour guiado en grupo de los Palacios Nazaríes y el Generalife. La opción más económica del recorrido."
     operador: "Andalucia Travel Experience · Guía en directo"
@@ -85,6 +88,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-nazaries-guiado-alhambra-guide"
+    ficha_propia_slug: "alhambra-tour-guiado-con-entradas"
     titulo: "Alhambra y Palacios Nazaríes: tour guiado con entradas"
     descripcion: "Tour guiado en grupo de la Alhambra y los Palacios Nazaríes con las entradas incluidas y guía especializado."
     operador: "Alhambra Guide · Guía en directo"
@@ -100,8 +104,9 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-nazaries-albaicin-sacromonte-lolitas"
-    titulo: "Alhambra y Palacios Nazaríes + Albaicín y Sacromonte"
-    descripcion: "Visita guiada a la Alhambra y los Palacios Nazaríes combinada con un recorrido por los barrios del Albaicín y el Sacromonte."
+    ficha_propia_slug: "alhambra-grupo-reducido"
+    titulo: "Alhambra y Palacios Nazaríes en grupo reducido"
+    descripcion: "Visita guiada a la Alhambra y los Palacios Nazaríes en grupo reducido, con guía oficial y entradas incluidas."
     operador: "Lolita's Tours · Guía en directo"
     precio_desde: 65
     rating: 4.8
@@ -112,9 +117,10 @@ tours:
     imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
     imagen_alt: "Vista aérea de la Alhambra de Granada sobre la colina de la Sabika"
     cancelacion: "Reembolso del 60 % hasta 24 h antes"
-    categoria: "en-grupo"
+    categoria: "grupo-reducido"
 
   - id: "alhambra-nazaries-sin-esperas-granada-selected"
+    ficha_propia_slug: "alhambra-sin-esperas-palacios-nazaries"
     titulo: "Visita guiada sin esperas a la Alhambra y los Palacios Nazaríes"
     descripcion: "Visita guiada en grupo a la Alhambra y los Palacios Nazaríes sin esperas en taquilla, con guía en directo."
     operador: "GRANADA SELECTED TOURS · Guía en directo"
@@ -172,6 +178,7 @@ tours:
     categoria: "grupo-reducido"
 
   - id: "alhambra-generalife-privado-special-plans"
+    ficha_propia_slug: "alhambra-tour-privado"
     titulo: "Tour privado de la Alhambra y el Generalife sin colas"
     descripcion: "Tour privado de la Alhambra, el Generalife y los Palacios Nazaríes con guía en exclusiva y acceso sin colas. Ritmo totalmente a tu medida."
     operador: "Special Plans · Guía privado"
@@ -202,6 +209,7 @@ tours:
     categoria: "privada"
 
   - id: "alhambra-nazaries-nocturna-lolitas"
+    ficha_propia_slug: "alhambra-visita-nocturna"
     titulo: "Visita nocturna a la Alhambra y los Palacios Nazaríes"
     descripcion: "La Alhambra de noche: visita guiada a los Palacios Nazaríes iluminados, con un ambiente muy distinto al de la visita diurna."
     operador: "Lolita's Tours · Guía en directo"

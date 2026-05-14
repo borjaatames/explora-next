@@ -39,6 +39,7 @@ comparador:
 
 tours:
   - id: "alhambra-guiada-generalife-special-plans"
+    ficha_propia_slug: "alhambra-generalife-guided-tour"
     titulo: "Guided tour of the Alhambra and the Generalife"
     descripcion: "Group guided tour of the Alhambra, the Generalife and the Nasrid Palaces, with skip-the-line access. The most-booked option on this page, with 21,000+ reviews."
     operador: "Special Plans · Live guide"
@@ -55,6 +56,7 @@ tours:
     ancla: true
 
   - id: "alhambra-nazaries-generalife-granada-online"
+    ficha_propia_slug: "alhambra-nasrid-palaces-skip-the-line"
     titulo: "Nasrid Palaces and Generalife skip-the-line"
     descripcion: "Skip-the-line access to the Alhambra Palace, the Nasrid Palaces and the Generalife gardens, with a live guide. Over 8,400 reviews."
     operador: "GRANADA ONLINE · Live guide"
@@ -70,6 +72,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-entrada-tour-guiado-ate"
+    ficha_propia_slug: "alhambra-entry-and-guided-tour"
     titulo: "Alhambra ticket and guided tour with Nasrid Palaces"
     descripcion: "Alhambra entry ticket plus a group guided tour of the Nasrid Palaces and the Generalife. The most affordable option on this page."
     operador: "Andalucia Travel Experience · Live guide"
@@ -85,6 +88,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-nazaries-guiado-alhambra-guide"
+    ficha_propia_slug: "alhambra-guided-tour-with-tickets"
     titulo: "Alhambra and Nasrid Palaces: guided tour with tickets"
     descripcion: "Group guided tour of the Alhambra and the Nasrid Palaces with entry tickets included and a specialist guide."
     operador: "Alhambra Guide · Live guide"
@@ -100,8 +104,9 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-nazaries-albaicin-sacromonte-lolitas"
-    titulo: "Alhambra and Nasrid Palaces + Albaicín and Sacromonte"
-    descripcion: "Guided tour of the Alhambra and the Nasrid Palaces combined with a walk through the Albaicín and Sacromonte neighbourhoods."
+    ficha_propia_slug: "alhambra-small-group-tour"
+    titulo: "Alhambra and Nasrid Palaces in a Small Group"
+    descripcion: "Small-group guided tour of the Alhambra and the Nasrid Palaces, with an official guide and entry tickets included."
     operador: "Lolita's Tours · Live guide"
     precio_desde: 65
     rating: 4.8
@@ -112,9 +117,10 @@ tours:
     imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
     imagen_alt: "Aerial view of the Alhambra of Granada on the Sabika hill"
     cancelacion: "60% refund up to 24h before"
-    categoria: "en-grupo"
+    categoria: "grupo-reducido"
 
   - id: "alhambra-nazaries-sin-esperas-granada-selected"
+    ficha_propia_slug: "alhambra-skip-the-wait-nasrid-palaces"
     titulo: "Guided tour of the Alhambra and Nasrid Palaces, no waiting"
     descripcion: "Group guided tour of the Alhambra and the Nasrid Palaces with no waiting at the box office, with a live guide."
     operador: "GRANADA SELECTED TOURS · Live guide"
@@ -172,6 +178,7 @@ tours:
     categoria: "grupo-reducido"
 
   - id: "alhambra-generalife-privado-special-plans"
+    ficha_propia_slug: "alhambra-private-tour"
     titulo: "Private tour of the Alhambra and the Generalife, skip-the-line"
     descripcion: "Private tour of the Alhambra, the Generalife and the Nasrid Palaces with a dedicated guide and skip-the-line access. Entirely at your own pace."
     operador: "Special Plans · Private guide"
@@ -202,6 +209,7 @@ tours:
     categoria: "privada"
 
   - id: "alhambra-nazaries-nocturna-lolitas"
+    ficha_propia_slug: "alhambra-night-tour"
     titulo: "Night visit to the Alhambra and the Nasrid Palaces"
     descripcion: "The Alhambra at night: a guided visit to the illuminated Nasrid Palaces, with a very different atmosphere from the daytime tour."
     operador: "Lolita's Tours · Live guide"
