@@ -31,7 +31,7 @@ comparador:
     - categoria: "combinada"
       icono: "map"
       label: "Combinada"
-      precio_desde: 65
+      precio_desde: 59
     - categoria: "privada"
       icono: "crown"
       label: "Privada"
@@ -39,10 +39,11 @@ comparador:
 
 tours:
   - id: "escorial-valle-fun-tickets"
+    ficha_propia_slug: "excursion-escorial-valle-caidos"
     titulo: "El Escorial y Valle de los Caídos con entradas"
     descripcion: "El Monasterio de El Escorial (Patrimonio UNESCO) y la basílica del Valle de los Caídos en una jornada, con entradas incluidas."
     operador: "Fun & Tickets · Bus + guía bilingüe"
-    precio_desde: 68
+    precio_desde: 62
     rating: 4.8
     resenas: 2706
     viator_product_id: "110971P4"
@@ -53,6 +54,7 @@ tours:
     ancla: true
 
   - id: "toledo-segovia-avila"
+    ficha_propia_slug: "excursion-toledo-segovia-avila"
     titulo: "Toledo, Segovia y Ávila en un día"
     descripcion: "Tres ciudades Patrimonio UNESCO en una sola jornada con guía bilingüe y entradas incluidas."
     operador: "Julià Travel · Bus + guía bilingüe"
@@ -66,6 +68,7 @@ tours:
     categoria: "combinada"
 
   - id: "toledo-dia-completo-fun-tickets"
+    ficha_propia_slug: "excursion-toledo-dia-completo"
     titulo: "Toledo día completo con Catedral"
     descripcion: "Catedral Primada, Sinagoga del Tránsito y Santo Tomé. El día completo clásico en la ciudad de las tres culturas."
     operador: "Fun & Tickets · Bus + guía bilingüe"
@@ -79,10 +82,11 @@ tours:
     categoria: "dia-completo"
 
   - id: "avila-segovia-yellow"
+    ficha_propia_slug: "excursion-avila-segovia-dia-completo"
     titulo: "Ávila y Segovia en un día completo"
     descripcion: "Las murallas medievales de Ávila y el acueducto romano de Segovia en una jornada. Dos ciudades Patrimonio UNESCO con guía bilingüe."
     operador: "The Yellow Tours · Bus + guía bilingüe"
-    precio_desde: 65
+    precio_desde: 59
     rating: 4.9
     resenas: 1163
     viator_product_id: "8648P4"
@@ -92,6 +96,7 @@ tours:
     categoria: "combinada"
 
   - id: "avila-segovia-tickets-gyg"
+    ficha_propia_slug: "excursion-avila-segovia-con-entradas"
     titulo: "Ávila y Segovia con entradas a monumentos"
     descripcion: "Día completo a Ávila y Segovia con las entradas a los monumentos principales ya incluidas. La opción más reservada del recorrido."
     operador: "Fun & Tickets · Bus + guía bilingüe"
@@ -106,6 +111,7 @@ tours:
     categoria: "combinada"
 
   - id: "cuenca-ciudad-encantada-gyg"
+    ficha_propia_slug: "excursion-cuenca-ciudad-encantada"
     titulo: "Cuenca y la Ciudad Encantada"
     descripcion: "Las Casas Colgadas de Cuenca y las formaciones rocosas de la Ciudad Encantada en un día completo, con guía especializado."
     operador: "Cuenqueando · Bus + guía"
@@ -120,6 +126,7 @@ tours:
     categoria: "dia-completo"
 
   - id: "avila-segovia-escapada-gyg"
+    ficha_propia_slug: "excursion-avila-segovia-economica"
     titulo: "Ávila y Segovia: escapada de un día"
     descripcion: "Las dos ciudades en una jornada con guía bilingüe. La forma más económica de conocer Ávila y Segovia desde Madrid."
     operador: "Fun & Tickets · Bus + guía bilingüe"
@@ -134,6 +141,7 @@ tours:
     categoria: "dia-completo"
 
   - id: "toledo-medio-dia-julia"
+    ficha_propia_slug: "excursion-toledo-medio-dia"
     titulo: "Toledo medio día"
     descripcion: "Bus y guía oficial caminando por el casco histórico de Toledo. La escapada más económica y rápida."
     operador: "Julià Travel · Bus + guía"
@@ -147,10 +155,11 @@ tours:
     categoria: "medio-dia"
 
   - id: "segovia-catedral-alcazar"
+    ficha_propia_slug: "excursion-segovia-catedral-alcazar"
     titulo: "Segovia: Catedral y Alcázar con entradas"
     descripcion: "Medio día en Segovia con entradas a la Catedral y al Alcázar incluidas. El acueducto romano y el castillo que inspiró a Disney."
     operador: "Julià Travel · Bus + entradas + guía"
-    precio_desde: 50
+    precio_desde: 42
     rating: 4.6
     resenas: 247
     viator_product_id: "2140P294"
@@ -160,9 +169,10 @@ tours:
     categoria: "medio-dia"
 
   - id: "avila-salamanca-gyg"
+    ficha_propia_slug: "excursion-avila-salamanca"
     titulo: "Ávila y Salamanca en un día"
     descripcion: "Las murallas de Ávila y la ciudad dorada de Salamanca en una jornada, con entrada a la catedral salmantina incluida."
-    operador: "Bus + guía + entrada a la catedral"
+    operador: "Amigo Tours Spain · Bus + guía bilingüe"
     precio_desde: 69
     rating: 4.5
     resenas: 580
@@ -174,6 +184,7 @@ tours:
     categoria: "combinada"
 
   - id: "avila-segovia-escorial-privado-gyg"
+    ficha_propia_slug: "tour-privado-avila-segovia-escorial"
     titulo: "Privado: Ávila, Segovia y El Escorial"
     descripcion: "Las tres joyas en un único día con vehículo y guía en exclusiva. Precio por persona en grupo de 4; ritmo a tu medida y recogida incluida."
     operador: "Amigo Tours Spain · Vehículo + guía privado"
@@ -230,10 +241,10 @@ faqs:
 
 cta_final:
   titulo: "¿Aún dudas? El Escorial y el Valle de los Caídos es nuestra opción más reservada"
-  subtitulo: "4,8 ★ con 2.706 reseñas · Entradas incluidas · 68 €"
+  subtitulo: "4,8 ★ con 2.706 reseñas · Entradas incluidas · 62 €"
   texto_boton: "Ver disponibilidad"
 
 sticky_cta:
-  label: "El Escorial desde 68 €"
+  label: "El Escorial desde 62 €"
   texto_boton: "Reservar ahora"
 ---

@@ -136,6 +136,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-guiada-ticket-garantizado-discovering"
+    ficha_propia_slug: "alhambra-guided-tour-guaranteed-tickets"
     titulo: "Alhambra: guided tour with guaranteed Nasrid Palaces ticket"
     descripcion: "Guided tour of the Alhambra with a guaranteed entry ticket to the Nasrid Palaces. An affordable, well-rated option."
     operador: "Discovering Spain · Live guide"
@@ -150,6 +151,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-generalife-grupo-pequeno-nhue"
+    ficha_propia_slug: "alhambra-generalife-small-group-tour"
     titulo: "Alhambra and Generalife skip-the-line in a small group"
     descripcion: "Guided tour of the Alhambra, the Generalife and the Nasrid Palaces in a small group, with skip-the-line access. Over 3,000 reviews."
     operador: "NHUE · Small group + guide"
@@ -164,6 +166,7 @@ tours:
     categoria: "grupo-reducido"
 
   - id: "alhambra-nazaries-grupo-pequeno-granavision"
+    ficha_propia_slug: "alhambra-private-small-group-tour"
     titulo: "Alhambra and Nasrid Palaces in a small group, skip-the-line"
     descripcion: "Tour of the Alhambra and the Nasrid Palaces in a small group, with priority access and a guide."
     operador: "GRANAVISION · Small group + guide"
@@ -195,6 +198,7 @@ tours:
     premium: true
 
   - id: "alhambra-nazaries-privado-global-tourism"
+    ficha_propia_slug: "alhambra-private-tour-arabic-guide"
     titulo: "Private tour of the Alhambra with the Nasrid Palaces"
     descripcion: "3-hour private tour of the Alhambra and the Nasrid Palaces with a dedicated guide. It's the only private tour on this page with free cancellation."
     operador: "Global Tourism Services · Private guide"

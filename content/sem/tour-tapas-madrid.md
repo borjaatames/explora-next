@@ -3,14 +3,14 @@ slug: "tour-tapas-madrid"
 publicada: true
 
 titulo: "Los mejores tours de tapas en Madrid"
-subtitulo: "12 opciones verificadas, todas con guía en español: clásico, centro histórico, azotea, cata de vinos o nocturno. Compara y reserva con cancelación gratis 24 h antes."
+subtitulo: "11 opciones verificadas, todas con guía en español: clásico, centro histórico, azotea, cata de vinos o nocturno. Compara y reserva con cancelación gratis 24 h antes."
 
 prueba_social_titular: "★ 4,9 · más de 9.000 reseñas verificadas"
 
 banner_garantia: "Reserva sin riesgo: elige tu tour ahora y no pagas nada hasta el día anterior."
 
-meta_titulo: "Tours de tapas en Madrid · 12 opciones desde 35 €"
-meta_descripcion: "Compara 12 tours de tapas en Madrid con guía en español: clásico, azotea, cata de vinos o ruta nocturna. Cancelación gratis 24 h antes."
+meta_titulo: "Tours de tapas en Madrid · 11 opciones desde 35 €"
+meta_descripcion: "Compara 11 tours de tapas en Madrid con guía en español: clásico, azotea, cata de vinos o ruta nocturna. Cancelación gratis 24 h antes."
 
 trust_signals:
   - texto: "Cancela 24 h antes"
@@ -31,11 +31,11 @@ comparador:
     - categoria: "con-azotea"
       icono: "sun"
       label: "Con azotea"
-      precio_desde: 59
+      precio_desde: 62
     - categoria: "con-vino"
       icono: "crown"
       label: "Cata de vinos"
-      precio_desde: 84
+      precio_desde: 117
     - categoria: "nocturno"
       icono: "moon"
       label: "Nocturna"
@@ -119,6 +119,7 @@ tours:
     imagen_alt: "Persona sirviendo vino tinto en una copa en una bodega familiar"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "con-vino"
+    ficha_propia_slug: "tour-bodegas-madrid-cata-vino"
 
   - id: "cooking-clubhouse-cena-privada"
     titulo: "Tour de tapas con cena privada y vino sin fondo"
@@ -133,12 +134,13 @@ tours:
     imagen_alt: "Copa de vino tinto servida sobre una mesa con tapas en un local de Madrid"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "con-vino"
+    ficha_propia_slug: "tour-tapas-cena-privada-madrid"
 
   - id: "travel-vibes-azotea"
     titulo: "Tour de tapas y vino con visita a una azotea"
     descripcion: "Ruta culinaria por el centro que termina en una terraza con vistas en Gran Vía. La opción más económica de la categoría azotea."
     operador: "Travel Vibes Agency · Bilingüe"
-    precio_desde: 59
+    precio_desde: 62
     rating: 4.7
     resenas: 342
     proveedor: "getyourguide"
@@ -148,6 +150,7 @@ tours:
     imagen_alt: "Terraza exterior de un bar de vinos tradicional en Madrid"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "con-azotea"
+    ficha_propia_slug: "tour-tapas-vino-atardecer-azotea"
 
   - id: "enjoy-tapas-viejo-madrid"
     titulo: "Visita enogastronómica a pie del Viejo Madrid"
@@ -163,6 +166,7 @@ tours:
     imagen_alt: "Interior de una taberna tradicional de Madrid con taburetes y copas"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "historico"
+    ficha_propia_slug: "tour-tapas-viejo-madrid"
 
   - id: "do-eat-better-tapas"
     titulo: "Tour gastronómico de tapas, bebidas y delicias"
@@ -177,6 +181,7 @@ tours:
     imagen_alt: "Plato de churros con una taza de chocolate caliente en una chocolatería de Madrid"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "clasico"
+    ficha_propia_slug: "tour-gastronomico-tapas-madrid"
 
   - id: "ruta-nocturna-tapas"
     titulo: "Ruta de tapas nocturna por Madrid"
@@ -192,6 +197,7 @@ tours:
     imagen_alt: "Pinchos variados con una copa de vino tinto en un bar de Madrid de noche"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "nocturno"
+    ficha_propia_slug: "ruta-tapas-nocturna-madrid"
 
   - id: "world-experience-tapas-viator"
     titulo: "Tour de tapas y vinos con vistas a la azotea"
@@ -206,21 +212,7 @@ tours:
     imagen_alt: "Grupo compartiendo tapas y vino en una taberna tradicional de Madrid"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "con-azotea"
-
-  - id: "walks-of-spain-sommelier"
-    titulo: "Tour de tapas y cata de vinos por el Viejo Madrid"
-    descripcion: "Cata premium por La Latina y Cava Baja con un sommelier certificado: Rioja, Ribera, Albariño y vinos de bodega propia. Grupo máximo de 8 personas."
-    operador: "Walks of Spain · Sommelier · Grupo de 8"
-    precio_desde: 84
-    rating: 5.0
-    resenas: 432
-    viator_product_id: "8651P1"
-    viator_url: "https://www.viator.com/es-ES/tours/Madrid/Old-Town-Madrid-Gourmet-Tapas-and-Wine-Tasting-Walking-Tour/d566-8651P1"
-    imagen: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
-    imagen_alt: "Sumiller preparando una cata de vinos sobre la barra de un bar de Madrid"
-    cancelacion: "Cancelación gratuita hasta 24 h antes"
-    categoria: "con-vino"
-    premium: true
+    ficha_propia_slug: "tour-tapas-tabernas-azotea-madrid"
 
 garantias:
   titulo: "Reserva con tranquilidad"
@@ -267,8 +259,8 @@ faqs:
 
 cta_final:
   titulo: "Elige tu tour de tapas en Madrid"
-  subtitulo: "12 opciones verificadas, todas con guía en español y cancelación gratuita hasta 24 h antes. Reserva ahora y paga después."
-  texto_boton: "Ver los 12 tours"
+  subtitulo: "11 opciones verificadas, todas con guía en español y cancelación gratuita hasta 24 h antes. Reserva ahora y paga después."
+  texto_boton: "Ver los 11 tours"
 
 sticky_cta:
   label: "Desde 35 €"

@@ -136,6 +136,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-guiada-ticket-garantizado-discovering"
+    ficha_propia_slug: "alhambra-visita-guiada-ticket-garantizado"
     titulo: "Alhambra: visita guiada con ticket de Palacios Nazaríes garantizado"
     descripcion: "Visita guiada de la Alhambra con el ticket de acceso a los Palacios Nazaríes garantizado. Una opción asequible y bien valorada."
     operador: "Discovering Spain · Guía en directo"
@@ -150,6 +151,7 @@ tours:
     categoria: "en-grupo"
 
   - id: "alhambra-generalife-grupo-pequeno-nhue"
+    ficha_propia_slug: "alhambra-generalife-grupo-pequeno"
     titulo: "Alhambra y Generalife sin colas en grupo pequeño"
     descripcion: "Visita guiada a la Alhambra, el Generalife y los Palacios Nazaríes en grupo pequeño, con acceso sin colas. Más de 3.000 reseñas."
     operador: "NHUE · Grupo pequeño + guía"
@@ -164,6 +166,7 @@ tours:
     categoria: "grupo-reducido"
 
   - id: "alhambra-nazaries-grupo-pequeno-granavision"
+    ficha_propia_slug: "alhambra-privada-grupo-pequeno"
     titulo: "Alhambra y Palacios Nazaríes en grupo pequeño sin colas"
     descripcion: "Recorrido por la Alhambra y los Palacios Nazaríes en grupo reducido, con acceso preferente y guía."
     operador: "GRANAVISION · Grupo pequeño + guía"
@@ -195,6 +198,7 @@ tours:
     premium: true
 
   - id: "alhambra-nazaries-privado-global-tourism"
+    ficha_propia_slug: "alhambra-tour-privado-guia-arabe"
     titulo: "Tour privado de la Alhambra con Palacios Nazaríes"
     descripcion: "Tour privado de 3 horas por la Alhambra y los Palacios Nazaríes con guía dedicado. Es el único privado del recorrido con cancelación gratuita."
     operador: "Global Tourism Services · Guía privado"
