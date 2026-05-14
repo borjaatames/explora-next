@@ -63,6 +63,7 @@ export type SemTour = {
    * Categoría para el comparador rápido.
    * Toledo SEM usa: 'medio-dia' | 'dia-completo' | 'combinada' | 'privada'.
    * Tapas SEM usa: 'clasico' | 'con-vino' | 'con-azotea' | 'historico'.
+   * Landings de entradas/atracciones usan: 'sin-colas' | 'con-guia' | 'nocturno'.
    * El frontend solo requiere que coincida con las categorías declaradas en
    * `comparador.categorias` del landing.
    */
@@ -74,7 +75,10 @@ export type SemTour = {
     | 'clasico'
     | 'con-vino'
     | 'con-azotea'
-    | 'historico';
+    | 'historico'
+    | 'sin-colas'
+    | 'con-guia'
+    | 'nocturno';
   /** Si es la ancla "Más reservado", se renderiza con borde sky-500 destacado */
   ancla?: boolean;
   /** Si es premium, se renderiza con borde amber sutil */
