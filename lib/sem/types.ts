@@ -60,10 +60,17 @@ export type SemTour = {
   /** Texto alt de la imagen para accesibilidad */
   imagen_alt: string;
   /**
+   * Política de cancelación/reembolso tal cual la muestra el proveedor.
+   * Opcional. Se renderiza como etiqueta en la tarjeta del tour.
+   * Ej: "Reembolso del 50 % hasta 24 h antes", "No reembolsable".
+   */
+  cancelacion?: string;
+  /**
    * Categoría para el comparador rápido.
    * Toledo SEM usa: 'medio-dia' | 'dia-completo' | 'combinada' | 'privada'.
    * Tapas SEM usa: 'clasico' | 'con-vino' | 'con-azotea' | 'historico'.
    * Landings de entradas/atracciones usan: 'sin-colas' | 'con-guia' | 'nocturno'.
+   * Alhambra SEM usa: 'en-grupo' | 'grupo-reducido' | 'privada' | 'nocturno'.
    * El frontend solo requiere que coincida con las categorías declaradas en
    * `comparador.categorias` del landing.
    */
@@ -78,7 +85,9 @@ export type SemTour = {
     | 'historico'
     | 'sin-colas'
     | 'con-guia'
-    | 'nocturno';
+    | 'nocturno'
+    | 'en-grupo'
+    | 'grupo-reducido';
   /** Si es la ancla "Más reservado", se renderiza con borde sky-500 destacado */
   ancla?: boolean;
   /** Si es premium, se renderiza con borde amber sutil */
@@ -138,7 +147,7 @@ export type SemLandingFrontmatter = {
     titulo: string;
     categorias: {
       categoria: SemTour['categoria'];
-      icono: 'clock' | 'sun' | 'map' | 'crown';
+      icono: 'clock' | 'sun' | 'map' | 'crown' | 'moon';
       label: string;
       precio_desde: number;
     }[];

@@ -202,6 +202,12 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
           </span>
         </div>
 
+        {tour.cancelacion && (
+          <p className="mt-2 w-fit rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-600">
+            {tour.cancelacion}
+          </p>
+        )}
+
         <div className="mt-auto flex items-end justify-between pt-4">
           <div>
             <span className="text-xs text-slate-500">{labels.desde} </span>

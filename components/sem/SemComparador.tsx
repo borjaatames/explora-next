@@ -83,7 +83,7 @@ function CategoryIcon({
   name,
   className,
 }: {
-  name: 'clock' | 'sun' | 'map' | 'crown';
+  name: 'clock' | 'sun' | 'map' | 'crown' | 'moon';
   className?: string;
 }) {
   const props = {
@@ -123,6 +123,18 @@ function CategoryIcon({
           strokeLinecap="round"
           strokeLinejoin="round"
           d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m-6 3l6-3"
+        />
+      </svg>
+    );
+  }
+
+  if (name === 'moon') {
+    return (
+      <svg {...props}>
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"
         />
       </svg>
     );

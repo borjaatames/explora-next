@@ -5,7 +5,7 @@ publicada: true
 titulo: "The best tapas tours in Madrid"
 subtitulo: "10 verified options. Compare prices, languages and duration. Free cancellation up to 24 hours before."
 
-prueba_social_titular: "★ 4.8 · 5,896 travellers have booked"
+prueba_social_titular: "★ 4.9 · 10,000+ verified reviews"
 
 banner_garantia: "Book risk-free: choose your tour now and pay nothing until the day before."
 
@@ -23,7 +23,7 @@ comparador:
     - categoria: "clasico"
       icono: "clock"
       label: "Classic"
-      precio_desde: 65
+      precio_desde: 77
     - categoria: "historico"
       icono: "map"
       label: "Historic centre"
@@ -31,20 +31,21 @@ comparador:
     - categoria: "con-azotea"
       icono: "crown"
       label: "With rooftop"
-      precio_desde: 83
+      precio_desde: 88
 
 tours:
   - id: "gourmet-madrid-letras"
     titulo: "Madrid Tapas and Wine Tasting Tour"
-    descripcion: "Anchor of the catalogue. Gourmet Madrid leads the rankings with 3,842 reviews and 4.9★. 3 hours, small group, bilingual guide."
+    descripcion: "Anchor of the catalogue. Gourmet Madrid leads the rankings with 3,854 reviews and 4.9★. 3 hours, small group, bilingual guide."
     operador: "Gourmet Madrid · Small group · Bilingual"
     precio_desde: 77
     rating: 4.9
-    resenas: 3842
+    resenas: 3854
     viator_product_id: "5830WINETAPAS"
     viator_url: "https://www.viator.com/tours/Madrid/Madrid-Tapas-and-Wine-Tasting-Tour/d566-5830WINETAPAS"
     imagen: "/images/sem/tapas-madrid/gourmet-madrid.webp"
     imagen_alt: "Group toasting with red wine over plates of tapas at a Barrio de las Letras bar"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "clasico"
     ancla: true
     ficha_propia_slug: "madrid-wine-and-tapas-tour"
@@ -55,11 +56,12 @@ tours:
     operador: "Secret Food Tours · Bilingual"
     precio_desde: 65
     rating: 5.0
-    resenas: 840
+    resenas: 845
     viator_product_id: "7812P9"
     viator_url: "https://www.viator.com/tours/Madrid/Tapas-and-Food-Tour-of-Madrid/d566-7812P9"
     imagen: "/images/sem/tapas-madrid/secret-food-viator.webp"
     imagen_alt: "Selection of Iberian ham, manchego cheese and red wine on a wooden bar in Madrid"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "historico"
     ficha_propia_slug: "madrid-secret-food-tour"
 
@@ -74,6 +76,7 @@ tours:
     viator_url: "https://www.viator.com/tours/Madrid/Madrid-Food-and-Tapas-Tour-of-the-Old-Town/d566-39034P1"
     imagen: "/images/sem/tapas-madrid/devour-viator.webp"
     imagen_alt: "Plates of croquettes, ham and Spanish tortilla shared family-style at a Madrid tapas bar"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "historico"
     ficha_propia_slug: "madrid-food-and-tapas-tour-of-the-old-town"
 
@@ -83,11 +86,12 @@ tours:
     operador: "World Experience · Bilingual"
     precio_desde: 98
     rating: 5.0
-    resenas: 2136
+    resenas: 2146
     viator_product_id: "6874P84"
     viator_url: "https://www.viator.com/tours/Madrid/Madrid-Tapas-and-Wine-Tour-with-Rooftop-Views-and-Local-Guide/d566-6874P84"
     imagen: "/images/sem/tapas-madrid/world-experience.webp"
     imagen_alt: "Group sharing tapas and wine in a traditional Madrid tavern"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "con-azotea"
     ficha_propia_slug: "madrid-tapas-and-wine-tour-with-local-guide"
 
@@ -102,6 +106,7 @@ tours:
     viator_url: "https://www.viator.com/tours/Madrid/Madrid-Tapas-Night/d566-6172MADTAPAS"
     imagen: "/images/sem/tapas-madrid/intrepid-night.webp"
     imagen_alt: "Madrid bar at night with lit signs and patrons sharing tapas at outdoor tables"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "clasico"
     ficha_propia_slug: "madrid-tapas-night-tour"
 
@@ -116,6 +121,7 @@ tours:
     viator_url: "https://www.viator.com/tours/Madrid/Madrid-Tapas-Walking-Tour/d566-109384P93"
     imagen: "/images/sem/tapas-madrid/carpe-diem.webp"
     imagen_alt: "Small group walking through narrow Madrid streets with their tour guide"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "clasico"
     ficha_propia_slug: "madrid-tapas-walking-tour"
 
@@ -131,6 +137,7 @@ tours:
     url_reserva: "https://www.getyourguide.com/madrid-l46/madrid-ultimate-local-markets-and-tapas-tour-t288825/"
     imagen: "/images/sem/tapas-madrid/devour-markets.webp"
     imagen_alt: "Devour Tours guide leading a small group through Mercado Antón Martín in Madrid"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "historico"
     ficha_propia_slug: "madrid-ultimate-food-tour-markets-tapas"
 
@@ -138,7 +145,7 @@ tours:
     titulo: "Madrid Rooftop Tapas and Wine Tour"
     descripcion: "World Experience GYG product. 4 hours across Las Letras, La Latina and Los Austrias, ending with cava on a rooftop. Bilingual. Wheelchair accessible."
     operador: "World Experience · Bilingual · Accessible"
-    precio_desde: 83
+    precio_desde: 88
     rating: 4.8
     resenas: 619
     proveedor: "getyourguide"
@@ -146,6 +153,7 @@ tours:
     url_reserva: "https://www.getyourguide.com/madrid-l46/madrid-rooftop-tapas-and-wine-tour-t200740/"
     imagen: "/images/sem/tapas-madrid/tapas-rooftop.webp"
     imagen_alt: "Group toasting with cava on a Madrid rooftop at sunset with the city skyline behind"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "con-azotea"
     ficha_propia_slug: "madrid-rooftop-tapas-and-wine-tour"
 
@@ -161,6 +169,7 @@ tours:
     url_reserva: "https://www.getyourguide.com/madrid-l46/madrid-tapas-and-delicacies-guided-food-tour-t74139/"
     imagen: "/images/sem/tapas-madrid/secret-food-gyg.webp"
     imagen_alt: "Plate of fresh Spanish tortilla with golden crust on a traditional bar table"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "historico"
     ficha_propia_slug: "madrid-authentic-tapas-delicacies-food-tour"
 
@@ -177,6 +186,7 @@ tours:
     url_reserva: "https://www.getyourguide.com/madrid-l46/tour-nocturno-personalizado-de-tapas-y-bebidas-tradicionales-de-madrid-t12804/"
     imagen: "/images/sem/tapas-madrid/adventurous-appetites.webp"
     imagen_alt: "Small group sharing premium tapas at a traditional Madrid bar — Adventurous Appetites tour"
+    cancelacion: "Free cancellation up to 24h before"
     categoria: "clasico"
     ficha_propia_slug: "madrid-premium-tapas-tour-small-group"
 
@@ -200,13 +210,13 @@ faqs:
   titulo: "Frequently asked questions"
   items:
     - pregunta: "If I only book one tapas tour, which one?"
-      respuesta: "Gourmet Madrid (Tapas and Wine Tasting Tour) is our default recommendation: 4.9★ across 3,842 verified reviews, bilingual guide, small group, 3 hours, €77. It's the operator with the most history and the most consistent delivery in the catalogue. The only reasons to skip it: if you need wheelchair access (book World Experience Rooftop) or if you want a premium small-group experience in English only (book Adventurous Appetites at €135)."
+      respuesta: "Gourmet Madrid (Tapas and Wine Tasting Tour) is our default recommendation: 4.9★ across 3,854 verified reviews, bilingual guide, small group, 3 hours, €77. It's the operator with the most history and the most consistent delivery in the catalogue. The only reasons to skip it: if you need wheelchair access (book World Experience Rooftop) or if you want a premium small-group experience in English only (book Adventurous Appetites at €135)."
 
     - pregunta: "Are all the tours in English?"
       respuesta: "Yes, all tours on this page have English-speaking guides confirmed by the operator. Some are also bilingual Spanish + English (Gourmet Madrid, Secret Food Tours, World Experience). Adventurous Appetites premium, Intrepid, Carpe Diem and the Devour products are English-only."
 
     - pregunta: "What's the cheapest and the most expensive?"
-      respuesta: "The cheapest is Secret Food Tours on GetYourGuide: €59 for the 2-hour express format. The most expensive is Adventurous Appetites Premium (€135), a small-group tour capped at 10 travellers. Mid-range options: Secret Food Tours Viator (€65), Gourmet Madrid (€77), Devour Markets (€79), Rooftop Tapas (€83), Carpe Diem Walking (€89), Devour Viator (€95), World Experience (€98) and Intrepid Night (€103)."
+      respuesta: "The cheapest is Secret Food Tours on GetYourGuide: €59 for the 2-hour express format. The most expensive is Adventurous Appetites Premium (€135), a small-group tour capped at 10 travellers. Mid-range options: Secret Food Tours Viator (€65), Gourmet Madrid (€77), Devour Markets (€79), Rooftop Tapas (€88), Carpe Diem Walking (€89), Devour Viator (€95), World Experience (€98) and Intrepid Night (€103)."
 
     - pregunta: "Is there a wheelchair-accessible tour?"
       respuesta: "Yes. The World Experience Rooftop Tapas tour is the only one in this selection that explicitly confirms wheelchair accessibility, including elevator access to the rooftop. Confirm with the operator at booking if you have specific mobility requirements."
