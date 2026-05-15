@@ -71,6 +71,7 @@ export type SemTour = {
    * Tapas SEM usa: 'clasico' | 'con-vino' | 'con-azotea' | 'historico'.
    * Landings de entradas/atracciones usan: 'sin-colas' | 'con-guia' | 'nocturno'.
    * Alhambra SEM usa: 'en-grupo' | 'grupo-reducido' | 'privada' | 'nocturno'.
+   * Sagrada Familia SEM usa: 'entrada' | 'guiada' | 'con-torres' | 'premium' | 'combo'.
    * El frontend solo requiere que coincida con las categorías declaradas en
    * `comparador.categorias` del landing.
    */
@@ -87,7 +88,12 @@ export type SemTour = {
     | 'con-guia'
     | 'nocturno'
     | 'en-grupo'
-    | 'grupo-reducido';
+    | 'grupo-reducido'
+    | 'entrada'
+    | 'guiada'
+    | 'con-torres'
+    | 'premium'
+    | 'combo';
   /** Si es la ancla "Más reservado", se renderiza con borde sky-500 destacado */
   ancla?: boolean;
   /** Si es premium, se renderiza con borde amber sutil */

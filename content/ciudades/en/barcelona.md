@@ -15,7 +15,7 @@ keywords:
   - "visit barcelona"
   - "barcelona tourism"
 atracciones:
-  - nombre: "Sagrada Família"
+  - nombre: "Sagrada Familia"
     descripcion: "Gaudí's expiatory temple, under construction since 1882. The tallest towers will be completed between 2026 and 2030. If you see one thing in Barcelona, this is it. Book tickets online — no exceptions."
   - nombre: "Park Güell"
     descripcion: "Gaudí's Modernist park on Carmel hill. Trencadís mosaics, the famous salamander, and the undulating bench with views of the sea. Only the monumental zone is ticketed."
