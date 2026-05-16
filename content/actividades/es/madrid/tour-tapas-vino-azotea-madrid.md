@@ -118,6 +118,8 @@ numeroOpiniones: 619
 publicada: false
 destacada: false
 fecha: "2026-05-11"
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## Qué vas a vivir

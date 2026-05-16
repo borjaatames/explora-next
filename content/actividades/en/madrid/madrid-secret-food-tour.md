@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Madrid Secret Food Tour: Tapas & A Hidden Dish"
 slug: "madrid-secret-food-tour"
 ciudad: "madrid"
@@ -115,7 +115,8 @@ numeroOpiniones: 840
 publicada: true
 destacada: false
 fecha: "2026-05-04"
-
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## What you'll see

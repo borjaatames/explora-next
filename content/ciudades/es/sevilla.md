@@ -55,6 +55,12 @@ atracciones:
     descripcion: "Antigua Casa Lonja del siglo XVI, hoy archivo donde se guardan los documentos originales del descubrimiento y administración de América. Patrimonio de la Humanidad junto a la Catedral y el Alcázar."
     imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     imagenAlt: "Archivo General de Indias de Sevilla, antigua Casa Lonja del siglo XVI"
+chipsFiltros:
+  - { label: "Real Alcázar", tag: "real-alcazar" }
+  - { label: "Catedral y Giralda", tag: "catedral-giralda" }
+  - { label: "Plaza de España", tag: "plaza-espana" }
+  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Tapas y vinos", tag: "tapas-sevilla" }
 ---
 
 Sevilla es la **capital de Andalucía** y la cuarta ciudad más poblada de España: **684.000 habitantes** en el municipio y más de 1,5 millones en su área metropolitana. Es sede de la Junta de Andalucía y centro económico, cultural y religioso del sur peninsular.

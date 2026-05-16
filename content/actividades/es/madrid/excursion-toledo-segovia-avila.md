@@ -138,6 +138,9 @@ numeroOpiniones: 9118
 publicada: true
 destacada: false
 fecha: "2026-05-05"
+atraccionesRelacionadas:
+  - "excursiones-desde-madrid"
+  - "toledo"
 ---
 
 ## Qué vas a ver

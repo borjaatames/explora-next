@@ -55,6 +55,12 @@ atracciones:
     descripcion: "El antiguo barrio marinero, hoy mezcla de pescadores y turistas. Playa larga, paseo marítimo y los mejores arroces de la ciudad para comer en chiringuito."
     imagen: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
     imagenAlt: "Playa de la Barceloneta con el paseo marítimo de Barcelona"
+chipsFiltros:
+  - { label: "Sagrada Familia", tag: "sagrada-familia" }
+  - { label: "Park Güell", tag: "park-guell" }
+  - { label: "Casa Batlló", tag: "casa-batllo" }
+  - { label: "Excursión a Montserrat", tag: "montserrat" }
+  - { label: "Barrio Gótico", tag: "barrio-gotico" }
 ---
 
 Barcelona es la capital de Cataluña y la segunda ciudad más poblada de España: alrededor de **1,7 millones de habitantes** en el municipio y más de 5,7 millones en su área metropolitana. Es sede de la Generalitat y el principal motor económico del Mediterráneo español.

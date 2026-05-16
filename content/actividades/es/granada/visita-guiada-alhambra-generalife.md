@@ -114,6 +114,9 @@ numeroOpiniones: 21100
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "alhambra"
+  - "generalife"
 ---
 
 ## Qué vas a ver

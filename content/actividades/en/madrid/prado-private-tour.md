@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Private Prado Tour with Hotel Pickup"
 slug: "prado-private-tour"
 ciudad: "madrid"
@@ -101,6 +101,8 @@ fecha_actualizacion: "2026-05-04"
 slugs:
   es: prado-tour-privado
   en: prado-private-tour
+atraccionesRelacionadas:
+  - "museo-prado"
 ---
 
 ## What you'll see

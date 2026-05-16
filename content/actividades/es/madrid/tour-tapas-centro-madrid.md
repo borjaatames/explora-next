@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Secret Food Tour Madrid: tapas y un plato secreto por el centro"
 slug: "tour-tapas-centro-madrid"
 ciudad: "madrid"
@@ -123,7 +123,8 @@ numeroOpiniones: 840
 publicada: true
 destacada: false
 fecha: "2026-05-05"
-
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## Qué vas a vivir

@@ -61,6 +61,13 @@ atracciones:
     descripcion: "Real Madrid's stadium, freshly renovated: retractable roof, illuminated panel facade and capacity for 85,000. Daily stadium tour available; matches according to the season's calendar."
     imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
     imagenAlt: "Exterior facade of Madrid's Santiago Bernabéu stadium after the renovation"
+chipsFiltros:
+  - { label: "Prado Museum", tag: "museo-prado" }
+  - { label: "Royal Palace", tag: "palacio-real" }
+  - { label: "Day trip to Toledo", tag: "toledo" }
+  - { label: "Day trips", tag: "excursiones-desde-madrid" }
+  - { label: "Tapas and wine", tag: "tapas-madrid" }
+  - { label: "Bernabéu Stadium", tag: "estadio-bernabeu" }
 ---
 
 Madrid is Spain's capital and the most populous city in the country: around **3.3 million inhabitants** in the municipality and over 6.7 million in its metropolitan area. It is the seat of the Government and the Cortes Generales, as well as the country's main financial, cultural and administrative hub.

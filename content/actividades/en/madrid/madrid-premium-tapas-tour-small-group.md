@@ -123,6 +123,8 @@ numeroOpiniones: 96
 publicada: false
 destacada: false
 fecha: "2026-05-11"
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## What you'll see

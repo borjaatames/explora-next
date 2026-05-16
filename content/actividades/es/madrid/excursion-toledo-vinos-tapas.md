@@ -135,6 +135,9 @@ publicada: true
 destacada: false
 fecha: "2026-05-06"
 fecha_actualizacion: "2026-05-06"
+atraccionesRelacionadas:
+  - "excursiones-desde-madrid"
+  - "toledo"
 ---
 
 ## Qué vas a ver

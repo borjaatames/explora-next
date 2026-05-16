@@ -109,6 +109,8 @@ numeroOpiniones: 7736
 publicada: true
 destacada: true
 fecha: "2026-05-15"
+atraccionesRelacionadas:
+  - "montserrat"
 ---
 
 ## What you'll see

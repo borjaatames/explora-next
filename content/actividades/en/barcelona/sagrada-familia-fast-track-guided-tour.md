@@ -96,6 +96,8 @@ numeroOpiniones: 1431
 publicada: true
 destacada: false
 fecha: "2026-05-15"
+atraccionesRelacionadas:
+  - "sagrada-familia"
 ---
 
 ## What you'll see

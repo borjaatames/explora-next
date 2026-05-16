@@ -110,6 +110,9 @@ numeroOpiniones: 288
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "alhambra"
+  - "alhambra-noche"
 ---
 
 ## Qué vas a ver

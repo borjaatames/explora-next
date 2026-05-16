@@ -113,6 +113,8 @@ numeroOpiniones: 890
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "alhambra"
 ---
 
 ## Qué vas a ver

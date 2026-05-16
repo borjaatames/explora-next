@@ -110,6 +110,8 @@ numeroOpiniones: 113
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## Qué vas a ver

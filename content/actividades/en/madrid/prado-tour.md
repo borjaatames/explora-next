@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Prado Museum Skip-the-Line Guided Tour"
 slug: "prado-tour"
 ciudad: "madrid"
@@ -103,6 +103,8 @@ fecha_actualizacion: "2026-05-04"
 slugs:
   es: tour-prado
   en: prado-tour
+atraccionesRelacionadas:
+  - "museo-prado"
 ---
 
 ## What you'll see

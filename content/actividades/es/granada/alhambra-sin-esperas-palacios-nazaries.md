@@ -111,6 +111,9 @@ numeroOpiniones: 432
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "alhambra"
+  - "palacios-nazaries"
 ---
 
 ## Qué vas a ver

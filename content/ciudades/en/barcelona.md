@@ -55,6 +55,12 @@ atracciones:
     descripcion: "Barcelona's old fishermen's quarter, today a mix of locals and tourists. Long beach, seaside promenade and the city's best rice dishes served beachside."
     imagen: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
     imagenAlt: "Barceloneta beach and Barcelona's seaside promenade"
+chipsFiltros:
+  - { label: "Sagrada Familia", tag: "sagrada-familia" }
+  - { label: "Park Güell", tag: "park-guell" }
+  - { label: "Casa Batlló", tag: "casa-batllo" }
+  - { label: "Montserrat day trip", tag: "montserrat" }
+  - { label: "Gothic Quarter", tag: "barrio-gotico" }
 ---
 
 Barcelona is the capital of Catalonia and Spain's second most populated city: around **1.7 million inhabitants** in the municipality and more than 5.7 million in its metropolitan area. It is the seat of the Generalitat and the main economic engine of the Spanish Mediterranean.

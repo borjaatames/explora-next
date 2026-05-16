@@ -111,6 +111,8 @@ numeroOpiniones: 247
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "excursiones-desde-madrid"
 ---
 
 ## Qué vas a ver

@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Tour privado del Prado con recogida en hotel"
 slug: "prado-tour-privado"
 ciudad: "madrid"
@@ -119,6 +119,8 @@ fecha: "2026-05-02"
 slugs:
   es: prado-tour-privado
   en: prado-private-tour
+atraccionesRelacionadas:
+  - "museo-prado"
 ---
 
 ## Qué vas a ver

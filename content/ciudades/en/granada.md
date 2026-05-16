@@ -41,6 +41,12 @@ atracciones:
     descripcion: "The Catholic Monarchs' tombs rest in the Royal Chapel, next to the Renaissance Cathedral they commissioned. The complex tells the story of the end of the Reconquista and the start of the Spanish Golden Age."
     imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     imagenAlt: "Exterior view of Granada's Royal Chapel next to the Cathedral"
+chipsFiltros:
+  - { label: "Alhambra", tag: "alhambra" }
+  - { label: "Nasrid Palaces", tag: "palacios-nazaries" }
+  - { label: "Generalife", tag: "generalife" }
+  - { label: "Night visit", tag: "alhambra-noche" }
+  - { label: "Albaicín & Sacromonte", tag: "albaicin-sacromonte" }
 ---
 
 Granada is one of Spain's five must-visit cities and the **last Muslim capital of Europe**, conquered by the Catholic Monarchs in 1492. It is a provincial capital in Andalusia, with around **232,000 inhabitants** in the municipality and more than 530,000 in its metropolitan area.

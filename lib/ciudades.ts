@@ -18,6 +18,16 @@ export type Atraccion = {
   imagenAlt?: string;
 };
 
+/**
+ * Chip rápido para filtrar actividades en la página de ciudad. Cada chip
+ * tiene un label visible y un `tag` que se cruza con
+ * `atraccionesRelacionadas` del frontmatter de cada actividad.
+ */
+export type ChipFiltro = {
+  label: string;
+  tag: string;
+};
+
 export type CiudadFrontmatter = {
   nombre: string;
   slug: string;
@@ -32,6 +42,11 @@ export type CiudadFrontmatter = {
   imagenAtracciones?: string;
   imagenAtraccionesAlt?: string;
   atracciones?: Atraccion[];
+  /**
+   * Chips de filtros destacados a mostrar en la página de ciudad. Si está
+   * vacío o ausente, no se muestra sidebar de chips. Orden manual.
+   */
+  chipsFiltros?: ChipFiltro[];
   publicada: boolean;
   destacada?: boolean;
   orden?: number;
@@ -83,6 +98,7 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       imagenAtracciones: fm.imagenAtracciones,
       imagenAtraccionesAlt: fm.imagenAtraccionesAlt,
       atracciones: fm.atracciones,
+      chipsFiltros: fm.chipsFiltros,
       publicada: true,
       destacada: fm.destacada || false,
       orden: fm.orden ?? 999,
@@ -127,6 +143,7 @@ export async function obtenerCiudad(
     imagenAtracciones: fm.imagenAtracciones,
     imagenAtraccionesAlt: fm.imagenAtraccionesAlt,
     atracciones: fm.atracciones,
+    chipsFiltros: fm.chipsFiltros,
     publicada: true,
     destacada: fm.destacada || false,
     orden: fm.orden ?? 999,

@@ -150,6 +150,17 @@ export type ActividadFrontmatter = {
   categoria: CategoriaActividad;
   keywords?: string[];
 
+  /**
+   * Tags de atracciones / temas con los que la actividad está relacionada.
+   * Se usan para los chips de filtrado en la página de ciudad. El listado
+   * de tags válidos por ciudad se define en `chipsFiltros` del frontmatter
+   * de la ciudad. Una actividad puede pertenecer a varios tags a la vez.
+   *
+   * Ejemplos: "museo-prado", "palacio-real", "excursiones-desde-madrid",
+   * "tapas-madrid", "sagrada-familia", "park-guell".
+   */
+  atraccionesRelacionadas?: string[];
+
   // Imágenes
   imagen: string;
   imagenAlt: string;
@@ -483,6 +494,7 @@ function construirListItem(
 
     categoria: (fm.categoria || "cultural") as CategoriaActividad,
     keywords: fm.keywords || [],
+    atraccionesRelacionadas: fm.atraccionesRelacionadas || [],
 
     imagen: fm.imagen || "",
     imagenAlt: fm.imagenAlt || "",

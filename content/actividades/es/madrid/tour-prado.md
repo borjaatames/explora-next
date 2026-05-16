@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Visita guiada al Museo del Prado con entrada sin colas"
 slug: "tour-prado"
 ciudad: "madrid"
@@ -124,6 +124,8 @@ fecha: "2026-05-02"
 slugs:
   es: tour-prado
   en: prado-tour
+atraccionesRelacionadas:
+  - "museo-prado"
 ---
 
 ## Qué vas a ver

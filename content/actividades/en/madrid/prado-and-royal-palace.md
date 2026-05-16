@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Royal Palace and Prado: Combined Guided Tour"
 slug: "prado-and-royal-palace"
 ciudad: "madrid"
@@ -113,6 +113,9 @@ fecha_actualizacion: "2026-05-04"
 slugs:
   es: prado-palacio-real
   en: prado-and-royal-palace
+atraccionesRelacionadas:
+  - "museo-prado"
+  - "palacio-real"
 ---
 
 ## What you'll see

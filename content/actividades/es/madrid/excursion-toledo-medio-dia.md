@@ -154,6 +154,9 @@ fecha: "2026-05-05"
 #  [x] `npm run build` pasa local (incluido audit de parejas).
 #
 # Runbook completo: docs/RUNBOOK-FICHAS.md
+atraccionesRelacionadas:
+  - "excursiones-desde-madrid"
+  - "toledo"
 ---
 
 ## Qué vas a ver

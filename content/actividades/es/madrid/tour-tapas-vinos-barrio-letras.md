@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Tour de tapas y vinos por el Barrio de las Letras (grupo reducido)"
 slug: "tour-tapas-vinos-barrio-letras"
 ciudad: "madrid"
@@ -116,7 +116,8 @@ numeroOpiniones: 3832
 publicada: true
 destacada: false
 fecha: "2026-05-05"
-
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## Qué vas a vivir

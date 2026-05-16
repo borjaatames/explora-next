@@ -137,6 +137,9 @@ fecha: "2026-05-05"
 #  [x] `npm run build` passes locally.
 #
 # Full runbook: docs/RUNBOOK-FICHAS.md
+atraccionesRelacionadas:
+  - "excursiones-desde-madrid"
+  - "toledo"
 ---
 
 ## What you'll see

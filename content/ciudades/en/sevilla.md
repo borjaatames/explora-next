@@ -55,6 +55,12 @@ atracciones:
     descripcion: "Former 16th-century Casa Lonja, today the archive holding original documents from the discovery and administration of the Americas. A UNESCO World Heritage Site together with the Cathedral and the Alcázar."
     imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     imagenAlt: "Seville's Archivo General de Indias, the 16th-century Casa Lonja building"
+chipsFiltros:
+  - { label: "Royal Alcázar", tag: "real-alcazar" }
+  - { label: "Cathedral & Giralda", tag: "catedral-giralda" }
+  - { label: "Plaza de España", tag: "plaza-espana" }
+  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Tapas and wine", tag: "tapas-sevilla" }
 ---
 
 Seville is the **capital of Andalusia** and Spain's fourth most populated city: **684,000 inhabitants** in the municipality and more than 1.5 million in its metropolitan area. It is the seat of the Junta de Andalucía and the economic, cultural and religious heart of southern Spain.

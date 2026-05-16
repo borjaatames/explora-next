@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Palacio Real y Prado: tour combinado"
 slug: "prado-palacio-real"
 ciudad: "madrid"
@@ -123,6 +123,9 @@ fecha: "2026-05-02"
 slugs:
   es: prado-palacio-real
   en: prado-and-royal-palace
+atraccionesRelacionadas:
+  - "museo-prado"
+  - "palacio-real"
 ---
 
 ## Qué vas a ver

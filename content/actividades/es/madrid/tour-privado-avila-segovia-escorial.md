@@ -109,6 +109,9 @@ numeroOpiniones: 106
 publicada: true
 destacada: false
 fecha: "2026-05-14"
+atraccionesRelacionadas:
+  - "excursiones-desde-madrid"
+  - "escorial"
 ---
 
 ## Qué vas a ver

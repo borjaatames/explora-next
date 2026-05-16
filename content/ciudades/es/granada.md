@@ -41,6 +41,12 @@ atracciones:
     descripcion: "Las tumbas de los Reyes Católicos descansan en la Capilla Real, junto a la Catedral renacentista que ellos mandaron construir. El conjunto explica el final de la Reconquista y el inicio del Siglo de Oro."
     imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     imagenAlt: "Vista exterior de la Capilla Real de Granada junto a la Catedral"
+chipsFiltros:
+  - { label: "La Alhambra", tag: "alhambra" }
+  - { label: "Palacios Nazaríes", tag: "palacios-nazaries" }
+  - { label: "Generalife", tag: "generalife" }
+  - { label: "Visita nocturna", tag: "alhambra-noche" }
+  - { label: "Albaicín y Sacromonte", tag: "albaicin-sacromonte" }
 ---
 
 Granada es una de las cinco ciudades imprescindibles de España y la **última capital musulmana de Europa**, conquistada por los Reyes Católicos en 1492. Es capital de provincia en Andalucía, con unos **232.000 habitantes** en el municipio y más de 530.000 en su área metropolitana.

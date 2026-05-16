@@ -35,6 +35,11 @@ atracciones:
     descripcion: "Convento dominico con la fachada plateresca más impresionante de la ciudad. Allí enseñó Fray Luis de León y allí debatió Colón sus viajes con los teólogos."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Fachada plateresca del Convento de San Esteban de Salamanca"
+chipsFiltros:
+  - { label: "Universidad", tag: "universidad-salamanca" }
+  - { label: "Plaza Mayor", tag: "plaza-mayor-salamanca" }
+  - { label: "Catedrales", tag: "catedrales-salamanca" }
+  - { label: "Casa de las Conchas", tag: "casa-conchas" }
 ---
 
 Salamanca es la **ciudad dorada de Castilla y León**, capital de provincia con unos **143.000 habitantes** y sede de la **universidad más antigua de España** (fundada en 1218, una de las primeras del mundo). Está declarada Patrimonio de la Humanidad por la UNESCO.

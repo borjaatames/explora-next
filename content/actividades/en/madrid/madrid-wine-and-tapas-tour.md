@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: "Madrid Tapas & Wine Walking Tour (Small Group)"
 slug: "madrid-wine-and-tapas-tour"
 ciudad: "madrid"
@@ -117,7 +117,8 @@ numeroOpiniones: 3830
 publicada: true
 destacada: false
 fecha: "2026-05-04"
-
+atraccionesRelacionadas:
+  - "tapas-madrid"
 ---
 
 ## What you'll see
