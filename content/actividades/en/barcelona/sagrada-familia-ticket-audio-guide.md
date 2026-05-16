@@ -88,8 +88,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia ticket", "sagrada familia audio guide", "sagrada familia tickets barcelona", "sagrada familia skip the line", "visit sagrada familia", "sagrada familia entry"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Colourful stained glass inside the Sagrada Familia in Barcelona"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp"
+imagenAlt: "Colourful stained glass lighting the interior of the Sagrada Familia"
 
 ratingProveedor: 4.6
 numeroOpiniones: 110558

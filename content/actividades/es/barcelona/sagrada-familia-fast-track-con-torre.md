@@ -88,8 +88,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia con torre barata", "tour sagrada familia fast track", "subir torre sagrada familia", "sagrada familia sin colas torre", "entradas sagrada familia torre"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Torres de la Sagrada Familia de Barcelona recortadas contra el cielo"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp"
+imagenAlt: "Torres de la Sagrada Familia recortadas contra el cielo de Barcelona"
 
 ratingProveedor: 4.4
 numeroOpiniones: 2480

@@ -88,8 +88,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia con torres", "subir torre sagrada familia", "tour sagrada familia torre", "sagrada familia vistas", "entradas sagrada familia torres"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Torres de la Sagrada Familia de Barcelona recortadas contra el cielo"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp"
+imagenAlt: "Vista panorámica de la Sagrada Familia con sus torres visibles"
 
 ratingProveedor: 4.4
 numeroOpiniones: 5238

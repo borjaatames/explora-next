@@ -80,8 +80,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour privado sagrada familia", "sagrada familia guia privado", "visita privada sagrada familia", "sagrada familia guia oficial", "sagrada familia tour personalizado"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior de la Sagrada Familia con las columnas arborescentes y las vidrieras de colores"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero.webp"
+imagenAlt: "Sagrada Familia de Barcelona vista desde la plaza"
 
 ratingProveedor: 4.6
 

@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour guiado sagrada familia", "sagrada familia en espanol", "visita sagrada familia sin colas", "tour sagrada familia grupo", "sagrada familia barcelona guia"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior de la Sagrada Familia con las columnas arborescentes y las vidrieras de colores"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp"
+imagenAlt: "Bóveda gótica iluminada en el interior de la Sagrada Familia"
 
 ratingProveedor: 4.4
 numeroOpiniones: 5559

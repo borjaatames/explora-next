@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour sagrada familia rapido", "visita guiada sagrada familia en espanol", "sagrada familia sin colas", "sagrada familia accesible", "tour express sagrada familia"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior de la Sagrada Familia con las columnas arborescentes y las vidrieras de colores"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp"
+imagenAlt: "Interior iluminado de la Sagrada Familia con luz dorada filtrada por los vitrales"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3414

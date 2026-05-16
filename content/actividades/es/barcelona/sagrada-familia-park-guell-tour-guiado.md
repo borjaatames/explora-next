@@ -86,8 +86,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia y park guell", "tour park guell sagrada familia", "combo gaudi barcelona", "entradas sin colas sagrada familia park guell", "visita guiada gaudi barcelona"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Fachada de la Sagrada Familia de Barcelona, obra de Antoni Gaudí"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero.webp"
+imagenAlt: "Fachada de la Sagrada Familia con panorámica del barrio del Eixample"
 
 ratingProveedor: 4.8
 numeroOpiniones: 6701

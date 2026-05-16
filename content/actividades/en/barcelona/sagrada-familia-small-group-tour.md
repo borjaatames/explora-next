@@ -87,8 +87,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia small group", "sagrada familia guided tour", "sagrada familia accessible", "sagrada familia wheelchair", "sagrada familia skip the line tour"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp"
+imagenAlt: "Altar and interior vault of the Sagrada Familia with stained glass in the background"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3690

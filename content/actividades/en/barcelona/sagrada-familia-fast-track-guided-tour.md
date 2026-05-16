@@ -87,8 +87,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia fast track tour", "sagrada familia guided tour english", "sagrada familia museum tour", "sagrada familia schools", "sagrada familia skip the line"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-showcasing-hero.webp"
+imagenAlt: "Panoramic view of the Sagrada Familia vault from the central nave"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1431

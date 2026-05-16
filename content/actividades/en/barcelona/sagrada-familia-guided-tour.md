@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia guided tour", "sagrada familia in english", "sagrada familia skip the line visit", "sagrada familia group tour", "sagrada familia barcelona guide"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp"
+imagenAlt: "Illuminated Gothic-style vault inside the Sagrada Familia"
 
 ratingProveedor: 4.4
 numeroOpiniones: 5559

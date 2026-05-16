@@ -83,8 +83,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia guided tour", "sagrada familia skip the line", "sagrada familia tour", "sagrada familia guided tickets", "sagrada familia official guide"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"
+imagenAlt: "Detail of the central vault of the Sagrada Familia, 63 metres high"
 
 ratingProveedor: 4.8
 numeroOpiniones: 13565

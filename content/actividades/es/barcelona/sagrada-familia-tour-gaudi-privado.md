@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour gaudi barcelona", "ruta gaudi sagrada familia", "sagrada familia tour privado", "barcelona gaudi grupo reducido", "tour modernismo barcelona"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Fachada de la Sagrada Familia de Barcelona, obra de Antoni Gaudí"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero.webp"
+imagenAlt: "Fachada principal de la Sagrada Familia, obra de Antoni Gaudí"
 
 ratingProveedor: 4.7
 numeroOpiniones: 1242

@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia quick tour", "sagrada familia guided tour english", "sagrada familia skip the line", "sagrada familia accessible", "sagrada familia express tour"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp"
+imagenAlt: "Illuminated interior of the Sagrada Familia with golden light filtered through the stained glass"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3414

@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona in one day", "barcelona full day tour", "sagrada familia and park guell", "barcelona tour with hotel pickup", "what to see in barcelona in one day"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "View of the Sagrada Familia in Barcelona from outside"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-view-barcelona-blooming-trees-hero.webp"
+imagenAlt: "Sagrada Familia of Barcelona with blooming trees in the foreground"
 
 ratingProveedor: 4.9
 numeroOpiniones: 14863

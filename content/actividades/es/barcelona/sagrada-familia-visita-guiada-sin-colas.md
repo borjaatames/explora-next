@@ -83,8 +83,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["visita guiada sagrada familia", "sagrada familia sin colas", "tour sagrada familia", "entradas guiadas sagrada familia", "sagrada familia guia oficial"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior de la Sagrada Familia con las columnas arborescentes y las vidrieras de colores"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"
+imagenAlt: "Detalle de la bóveda central de la Sagrada Familia, a 63 metros de altura"
 
 ratingProveedor: 4.8
 numeroOpiniones: 13565

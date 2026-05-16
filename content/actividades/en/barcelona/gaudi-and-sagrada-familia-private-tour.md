@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["gaudi tour barcelona", "gaudi sagrada familia route", "sagrada familia private tour", "barcelona gaudi small group", "barcelona modernism tour"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Façade of the Sagrada Familia in Barcelona, designed by Antoni Gaudí"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero.webp"
+imagenAlt: "Main façade of the Sagrada Familia, designed by Antoni Gaudí"
 
 ratingProveedor: 4.7
 numeroOpiniones: 1242

@@ -86,8 +86,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia guided tour", "sagrada familia skip the line tour", "sagrada familia guided tickets", "sagrada familia barcelona tour", "sagrada familia radio guide"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp"
+imagenAlt: "Tree-like columns and stained glass in the central nave of the Sagrada Familia"
 
 ratingProveedor: 4.4
 numeroOpiniones: 9278

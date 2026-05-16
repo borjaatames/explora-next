@@ -53,8 +53,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "288805"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/barcelona-visita-y-ticket-de-entrada-sin-colas-a-la-sagrada-familia-t288805/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"
+    imagen_alt: "Detail of the central vault of the Sagrada Familia, 63 metres high"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
     ancla: true
@@ -70,8 +70,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "50027"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/sagrada-familia-ticket-de-entrada-sin-colas-t50027/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Colourful stained glass inside the Sagrada Familia in Barcelona"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp"
+    imagen_alt: "Colourful stained glass lighting the interior of the Sagrada Familia"
     cancelacion: "Free cancellation up to 48 h before"
     categoria: "entrada"
 
@@ -86,8 +86,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "29293"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/sagrada-familia-saltate-la-cola-t29293/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp"
+    imagen_alt: "Illuminated Gothic-style vault inside the Sagrada Familia"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
 
@@ -101,8 +101,8 @@ tours:
     resenas: 9278
     viator_product_id: "2140SAGRADA"
     viator_url: "https://www.viator.com/tours/Barcelona/Skip-the-Line-Barcelona-Sagrada-Familia-Tour/d562-2140SAGRADA?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp"
+    imagen_alt: "Tree-like columns and stained glass in the central nave of the Sagrada Familia"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
 
@@ -116,8 +116,8 @@ tours:
     resenas: 3414
     viator_product_id: "190179P1"
     viator_url: "https://www.viator.com/tours/Barcelona/Sagrada-Familia-Guided-express-english-tour/d562-190179P1?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp"
+    imagen_alt: "Illuminated interior of the Sagrada Familia with golden light filtered through the stained glass"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
 
@@ -132,8 +132,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "195065"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/sagrada-familia-visita-guiada-sin-hacer-cola-t195065/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp"
+    imagen_alt: "Altar and interior vault of the Sagrada Familia with stained glass in the background"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
 
@@ -148,8 +148,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "355905"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/barcelona-tour-de-la-sagrada-familia-con-ticket-de-entrada-sin-colas-t355905/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp"
+    imagen_alt: "Ornate vault of the central nave of the Sagrada Familia"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
 
@@ -163,8 +163,8 @@ tours:
     resenas: 1431
     viator_product_id: "15932P95"
     viator_url: "https://www.viator.com/tours/Barcelona/Barcelona-Gaudis-Sagrada-Familia-Fast-Track-Guided-Tour/d562-15932P95?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-showcasing-hero.webp"
+    imagen_alt: "Panoramic view of the Sagrada Familia vault from the central nave"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "guiada"
 
@@ -178,8 +178,8 @@ tours:
     resenas: 2480
     viator_product_id: "56823P23"
     viator_url: "https://www.viator.com/tours/Barcelona/Sagrada-Familia-Fast-Track-Guided-Tour-with-Towers-Access/d562-56823P23?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Towers of the Sagrada Familia in Barcelona against the sky"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp"
+    imagen_alt: "Towers of the Sagrada Familia silhouetted against the Barcelona sky"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "con-torres"
 
@@ -194,8 +194,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "72879"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/barcelona-visita-a-la-sagrada-familia-y-visita-opcional-a-la-torre-t72879/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Towers of the Sagrada Familia in Barcelona against the sky"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp"
+    imagen_alt: "Panoramic view of the Sagrada Familia with its towers visible"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "con-torres"
 
@@ -209,8 +209,8 @@ tours:
     resenas: 1242
     viator_product_id: "110975P4"
     viator_url: "https://www.viator.com/tours/Barcelona/Loving-Gaudi-The-most-original-private-tour-with-skip-the-line-tickets/d562-110975P4?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Façade of the Sagrada Familia in Barcelona, designed by Antoni Gaudí"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero.webp"
+    imagen_alt: "Main façade of the Sagrada Familia, designed by Antoni Gaudí"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "premium"
     premium: true
@@ -225,8 +225,8 @@ tours:
     resenas: 14863
     viator_product_id: "9866P21"
     viator_url: "https://www.viator.com/tours/Barcelona/Barcelona-in-One-Day-Sagrada-Familia-Park-Guell-and-Old-Town-with-Hotel-Pick-up/d562-9866P21?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "View of the Sagrada Familia in Barcelona from outside"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-view-barcelona-blooming-trees-hero.webp"
+    imagen_alt: "Sagrada Familia of Barcelona with blooming trees in the foreground"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "combo"
 
@@ -240,8 +240,8 @@ tours:
     resenas: 6701
     viator_product_id: "16168P10"
     viator_url: "https://www.viator.com/tours/Barcelona/Skip-the-Line-Park-Guell-and-La-Sagrada-Familia-Guided-Tour/d562-16168P10?primaryLanguage=en"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Façade of the Sagrada Familia in Barcelona, designed by Antoni Gaudí"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero.webp"
+    imagen_alt: "Façade of the Sagrada Familia with a panoramic view of the Eixample district"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "combo"
 
@@ -256,8 +256,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "87947"
     url_reserva: "https://www.getyourguide.com/barcelona-l45/barcelona-park-guell-y-sagrada-familia-entradas-y-tour-t87947/"
-    imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-    imagen_alt: "Façade of the Sagrada Familia in Barcelona, designed by Antoni Gaudí"
+    imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp"
+    imagen_alt: "Panoramic view of the intricate façade of the Sagrada Familia"
     cancelacion: "Free cancellation up to 24 h before"
     categoria: "combo"
 
@@ -310,3 +310,4 @@ sticky_cta:
   label: "Sagrada Familia from €34"
   texto_boton: "Book now"
 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -88,8 +88,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia tower tour cheap", "sagrada familia fast track tour", "sagrada familia tower climb", "sagrada familia skip the line tower", "sagrada familia tower tickets"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Towers of the Sagrada Familia in Barcelona against the sky"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp"
+imagenAlt: "Towers of the Sagrada Familia silhouetted against the Barcelona sky"
 
 ratingProveedor: 4.4
 numeroOpiniones: 2480

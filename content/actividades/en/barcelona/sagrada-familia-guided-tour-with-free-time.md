@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia tour free time", "sagrada familia small group", "sagrada familia guided tour", "sagrada familia gaudi museum", "sagrada familia skip the line"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior of the Sagrada Familia with its tree-like columns and colourful stained glass"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp"
+imagenAlt: "Ornate vault of the central nave of the Sagrada Familia"
 
 ratingProveedor: 4.6
 numeroOpiniones: 1454

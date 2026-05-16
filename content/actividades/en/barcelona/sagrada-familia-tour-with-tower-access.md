@@ -88,8 +88,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia with towers", "sagrada familia tower climb", "sagrada familia tower tour", "sagrada familia views", "sagrada familia tower tickets"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Towers of the Sagrada Familia in Barcelona against the sky"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp"
+imagenAlt: "Panoramic view of the Sagrada Familia with its towers visible"
 
 ratingProveedor: 4.4
 numeroOpiniones: 5238

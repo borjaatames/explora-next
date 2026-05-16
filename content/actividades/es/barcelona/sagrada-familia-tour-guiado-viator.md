@@ -86,8 +86,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["visita guiada sagrada familia", "tour sagrada familia sin colas", "sagrada familia entradas guiadas", "sagrada familia barcelona tour", "sagrada familia radioguia"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior de la Sagrada Familia con las columnas arborescentes y las vidrieras de colores"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp"
+imagenAlt: "Columnas arborescentes y vitrales en la nave central de la Sagrada Familia"
 
 ratingProveedor: 4.4
 numeroOpiniones: 9278

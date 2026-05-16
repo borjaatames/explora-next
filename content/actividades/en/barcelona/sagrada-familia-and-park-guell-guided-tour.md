@@ -86,8 +86,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["sagrada familia and park guell", "park guell sagrada familia tour", "gaudi combo barcelona", "sagrada familia park guell skip the line", "gaudi guided tour barcelona"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Façade of the Sagrada Familia in Barcelona, designed by Antoni Gaudí"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero.webp"
+imagenAlt: "Façade of the Sagrada Familia with a panoramic view of the Eixample district"
 
 ratingProveedor: 4.8
 numeroOpiniones: 6701

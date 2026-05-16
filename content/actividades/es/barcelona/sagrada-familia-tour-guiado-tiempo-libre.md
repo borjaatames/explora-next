@@ -85,8 +85,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour sagrada familia tiempo libre", "sagrada familia grupo reducido", "visita guiada sagrada familia", "sagrada familia museo gaudi", "sagrada familia sin colas"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Interior de la Sagrada Familia con las columnas arborescentes y las vidrieras de colores"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp"
+imagenAlt: "Bóveda ornamentada de la nave central de la Sagrada Familia"
 
 ratingProveedor: 4.6
 numeroOpiniones: 1454

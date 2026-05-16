@@ -88,8 +88,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["entrada sagrada familia", "sagrada familia audioguia", "entradas sagrada familia barcelona", "sagrada familia sin colas", "visitar sagrada familia", "ticket sagrada familia"]
 
-imagen: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagenAlt: "Vidrieras de colores en el interior de la Sagrada Familia de Barcelona"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp"
+imagenAlt: "Vidrieras coloridas iluminando el interior de la Sagrada Familia"
 
 ratingProveedor: 4.6
 numeroOpiniones: 110558
