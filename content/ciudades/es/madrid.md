@@ -55,8 +55,12 @@ atracciones:
     imagenAlt: "Fachada de cristal y hierro del Mercado de San Miguel"
   - nombre: "Parque del Retiro"
     descripcion: "El pulmón verde de Madrid, antiguos jardines reales abiertos al público en el siglo XIX. Patrimonio de la Humanidad junto al Paseo del Prado. Estanque, Palacio de Cristal, rosaleda y el madrileño paseando los domingos."
+    imagen: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-view-palacio-cristal-hero.webp"
+    imagenAlt: "Palacio de Cristal del Parque del Retiro de Madrid reflejado en su estanque"
   - nombre: "Estadio Santiago Bernabéu"
     descripcion: "Estadio del Real Madrid, recién reformado: tejado retráctil, fachada de paneles iluminados y aforo de 85.000 espectadores. Tour del estadio disponible casi a diario; partidos del club blanco según calendario."
+    imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
+    imagenAlt: "Fachada exterior del estadio Santiago Bernabéu de Madrid tras la reforma"
 ---
 
 Madrid es la capital de España y la ciudad más poblada del país: alrededor de **3,3 millones de habitantes** en el municipio y más de 6,7 millones en su área metropolitana. Es sede del Gobierno y las Cortes Generales, además del principal centro financiero, cultural y administrativo del país.

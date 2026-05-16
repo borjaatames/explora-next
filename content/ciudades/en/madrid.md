@@ -55,8 +55,12 @@ atracciones:
     imagenAlt: "Glass and iron facade of Mercado de San Miguel"
   - nombre: "Retiro Park"
     descripcion: "Madrid's green lung, former royal gardens opened to the public in the 19th century. A UNESCO World Heritage Site together with the Paseo del Prado. Boating pond, Crystal Palace, rose garden and Madrileños strolling on Sundays."
+    imagen: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-view-palacio-cristal-hero.webp"
+    imagenAlt: "Crystal Palace of Madrid's Retiro Park reflected in its pond"
   - nombre: "Santiago Bernabéu Stadium"
     descripcion: "Real Madrid's stadium, freshly renovated: retractable roof, illuminated panel facade and capacity for 85,000. Daily stadium tour available; matches according to the season's calendar."
+    imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
+    imagenAlt: "Exterior facade of Madrid's Santiago Bernabéu stadium after the renovation"
 ---
 
 Madrid is Spain's capital and the most populous city in the country: around **3.3 million inhabitants** in the municipality and over 6.7 million in its metropolitan area. It is the seat of the Government and the Cortes Generales, as well as the country's main financial, cultural and administrative hub.
