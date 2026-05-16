@@ -1,0 +1,1671 @@
+{
+  "slug": "park-guell",
+  "schemaVersion": 1,
+  "entries": {
+    "park-guell-50030738571": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "mosaico",
+        "torre",
+        "jardin",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:34.299Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-aerial-view-city-buildings-during": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "azulejo",
+        "panoramica-ciudad",
+        "torre",
+        "jardin"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:36.013Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-aerial-view-city-buildings-during-2": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "azulejo",
+        "torre",
+        "vista-aerea",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:37.631Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-antonio-gaudi": {
+      "lugar": "park-guell",
+      "obra": "banco-serpentina-plaza-mayor",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "arquitectura",
+        "banco-mosaico",
+        "jardin",
+        "ornamentacion"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:39.361Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-antonio-gaudi-ice-fisheye": {
+      "lugar": "park-guell",
+      "obra": "paseo-columnas-mosaico",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "mosaico",
+        "azulejo",
+        "columna",
+        "jardin"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:41.043Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-gaudi-architecture-blue": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "torre",
+        "panoramica-ciudad",
+        "jardin"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:42.627Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-gaudi-mosaic-spain": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.4,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "fuente",
+        "decoracion-ceramica"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra un elemento decorativo de cerámica y mosaico que podría ser de Park Güell o cualquier otro lugar con arquitectura similar de Gaudí/modernismo catalán, pero sin contexto claro de ubicación específica no puede confirmarse con seguridad como parte de una guía de viajes estructurada."
+      },
+      "classifiedAt": "2026-05-15T23:51:46.306Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-gaudi-spain-architecture": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "escultura",
+        "panoramica-ciudad",
+        "fachada"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Estructura arquitectónica moderna que no corresponde a ningún lugar de la guía de viajes de España proporcionada."
+      },
+      "classifiedAt": "2026-05-15T23:51:48.565Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-gaudi-spain-architecture-2": {
+      "lugar": "palacio-real-madrid",
+      "obra": "chimeneas-decorativas-cubierta",
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "torre",
+        "panoramica-ciudad",
+        "escultura"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:50.236Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-gaudi-spain-catalonia": {
+      "lugar": "palacio-real-madrid",
+      "obra": "torres-azotea-palacio-real",
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "cupula",
+        "decoracion-clasica",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:52.098Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-parc-drac": {
+      "lugar": "park-guell",
+      "obra": "dragon-mosaico-entrada",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "escultura",
+        "azulejo",
+        "mosaico",
+        "arquitectura-gaudi",
+        "jardin"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:53.870Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-spain-catalonia-gaudi": {
+      "lugar": "park-guell",
+      "obra": "casa-porter",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "cupula",
+        "jardin"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:51:55.356Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-spain-city-mosaic-bench": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "torre",
+        "fachada",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "Presencia de multitud excesiva que cubre areas del conjunto arquitectonico, limitando su valor como imagen representativa."
+      },
+      "classifiedAt": "2026-05-15T23:51:57.498Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-spain-gaudi": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.4,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "patio",
+        "calle-empedrada",
+        "jardin"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Foto de una casa o villa privada de estilo colonial/mediterráneo, no corresponde a ningún lugar turístico relevante de la guía de viajes de España. La pista de Park Güell no coincide con el contenido actual."
+      },
+      "classifiedAt": "2026-05-15T23:51:59.982Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-barcelona-spain-gaudi-architecture": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "tower-cupula",
+        "fachada",
+        "azulejo",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:01.597Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-blue-white-red-floral-textile": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "patron-geometrico",
+        "color-vibrante",
+        "decoracion-artistica"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Imagen de azulejos o mosaicos decorativos sin contexto de ubicacion clara o elemento arquitectonico identificable de la guia de viajes."
+      },
+      "classifiedAt": "2026-05-15T23:52:05.127Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-brown-white-church-beside-trees": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.35,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "azulejo",
+        "torre",
+        "fachada"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Esta es una estructura arquitectónica de carácter religioso o fantástico (posiblemente de un parque temático u otra obra de Gaudí fuera de Park Güell), no corresponde a elementos característicos de Park Güell."
+      },
+      "classifiedAt": "2026-05-15T23:52:07.390Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-close-up-colorful-tile-wall": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "patron-geometrico",
+        "color"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra azulejos/mosaicos decorativos pero no corresponde a ningún lugar específico de la guía de viajes. Podría ser cerámica de Park Güell, pero la falta de contexto arquitectónico hace imposible una identificación segura."
+      },
+      "classifiedAt": "2026-05-15T23:52:10.076Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-foto-8790292": {
+      "lugar": "park-guell",
+      "obra": "porteria-entrada-park-guell",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "azulejo",
+        "fachada",
+        "modernismo"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:11.997Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-foto-9050140": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "torre",
+        "panoramica-ciudad",
+        "fachada"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "Presencia de multitud excesiva que reduce el impacto visual de los elementos arquitectónicos principales."
+      },
+      "classifiedAt": "2026-05-15T23:52:13.996Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-architecture-barcelona-spain": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "escalinata",
+        "terraza",
+        "azulejo",
+        "jardin"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:15.525Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-architecture-barcelona-spain-2": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "azulejo",
+        "escalera",
+        "jardin",
+        "columnata"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "La presencia de numerosos visitantes ocupa y fragmenta la composición, reduciendo el impacto visual del lugar."
+      },
+      "classifiedAt": "2026-05-15T23:52:19.714Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-architecture-barcelona-spain-3": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "jardin",
+        "torre"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:21.156Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-barcelona-europe-spain": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "arcos",
+        "claustro",
+        "boveda",
+        "piedra"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:22.884Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-barcelona-landmark-monument": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "parque",
+        "jardin"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:24.501Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-barcelona-mosaic-dragon": {
+      "lugar": "park-guell",
+      "obra": "banco-serpiente-principal",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "banco",
+        "arquitectura",
+        "jardin"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:26.423Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-barcelona-multicoloured-art": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "azulejo",
+        "panoramica-ciudad",
+        "torre",
+        "vista-aerea"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:27.894Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-barcelona-spain-landmark": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "balcon",
+        "jardin",
+        "escalinata",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:29.600Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-building-city-landmark": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "azulejo",
+        "torre",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:31.145Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-europe-architecture-spain": {
+      "lugar": "park-guell",
+      "obra": "mosaico-decorativo-gaudi",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "decoracion-colorida",
+        "obra-arte"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:32.964Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-europe-architecture-spain-2": {
+      "lugar": "park-guell",
+      "obra": "mosaicos-entrada-dragones",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "modernismo",
+        "decoracion-trencadis"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:34.748Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-lizard-trencadis-barcelona": {
+      "lugar": "park-guell",
+      "obra": "dragones-entrada-mosaic",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaic",
+        "escultura",
+        "arquitectura-modernista",
+        "ornamentacion"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:36.414Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-mosaic-barcelona-mosaic": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "trencadis",
+        "colorido",
+        "arquitectura-gaudi"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:38.419Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-mosaic-barcelona-mosaic-2": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "decoracion-modernista",
+        "vidrio-coloreado",
+        "patron-geometrico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:40.290Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-gaudi-portico-lavandera-barcelona": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "arco",
+        "claustro",
+        "piedra",
+        "corredor"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:42.492Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-green-yellow-concrete-statue": {
+      "lugar": "park-guell",
+      "obra": "banco-trencadis-plaza-mayor",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "trencadis",
+        "azulejo",
+        "mosaico",
+        "banco",
+        "arquitectura-gaudi"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:44.179Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-grey-concrete-pavement": {
+      "lugar": "toledo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "tunel",
+        "arquitectura",
+        "puerta",
+        "luz-natural",
+        "perspectiva-lineal"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:45.875Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-group-people-standing-front": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "escultura",
+        "azulejo",
+        "jardin",
+        "terraza",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "Presencia excesiva de visitantes que obstaculiza la apreciación clara del espacio arquitectónico y el diseño de Gaudí."
+      },
+      "classifiedAt": "2026-05-15T23:52:48.810Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-group-people-walking-up-down-set": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "escalinata",
+        "columna",
+        "azulejo",
+        "jardin",
+        "parque"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "Presencia excesiva de turistas que distrae del elemento arquitectónico principal."
+      },
+      "classifiedAt": "2026-05-15T23:52:51.129Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-guell-barcelona": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "puerta",
+        "decoracion-ceramica",
+        "arquitectura",
+        "patio"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Decoración interior de azulejos y mosaicos sin identificación clara de lugar turístico específico de la guía."
+      },
+      "classifiedAt": "2026-05-15T23:52:53.293Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaic-bench-overlooking-city": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "azulejo",
+        "torre",
+        "panoramica-ciudad",
+        "arquitectura",
+        "balcon"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:54.903Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaic-table-sun-design-it": {
+      "lugar": "park-guell",
+      "obra": "mosaico-sol-central",
+      "confianza": 0.92,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "trencadis",
+        "azulejo",
+        "decoracion-gaudy",
+        "simetria"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:56.818Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-01": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "flor",
+        "decoracion-modernista",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.7,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:52:58.440Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-02": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "trencadis",
+        "decoracion-colorida",
+        "diseno-organico"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:00.243Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-03": {
+      "lugar": "park-guell",
+      "obra": "banco-serpentiforme-mosaico",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "banco-serpentiforme",
+        "teselas-colores",
+        "obra-gaudi"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:02.194Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-06": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "ornamentacion",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra un detalle de cerámica/azulejo decorativo sin contexto claro del lugar específico. No corresponde claramente a Park Güell ni a otros lugares de la guía de viajes de España."
+      },
+      "classifiedAt": "2026-05-15T23:53:04.733Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-07": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "trencadis",
+        "decoracion-modernista",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:06.470Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-08": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.2,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "patrones-geometricos",
+        "decoracion-ceramica",
+        "colores-vibrantes"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Imagen de azulejos/cerámica decorativa sin contexto claro de ubicación geográfica o monumento específico de España."
+      },
+      "classifiedAt": "2026-05-15T23:53:13.694Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-09": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "trencadis",
+        "diseno-modernista",
+        "decoracion"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:15.467Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-14": {
+      "lugar": "park-guell",
+      "obra": "trencadis-detalle",
+      "confianza": 0.92,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "trencadis",
+        "ceramica",
+        "patron-geometrico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:17.321Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-18": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "decoracion-gaudi",
+        "trencadis"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:22.366Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-19": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "diseno-modernista",
+        "decoracion"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:23.970Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-20": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaic",
+        "arquitectura",
+        "decoracion-ornamental",
+        "terraza"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:28.754Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-21": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.2,
+      "espacio": "obra-arte",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "diseno-floral",
+        "mosaico",
+        "patrones-decorativos"
+      ],
+      "calidadVisual": 0.65,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Imagen de detalles decorativos/textiles sin relacion clara con lugares historicos de una guia de viajes de Espana."
+      },
+      "classifiedAt": "2026-05-15T23:53:31.096Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-22": {
+      "lugar": "park-guell",
+      "obra": "banco-ondulante-mosaico",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "banco",
+        "serpiente",
+        "modernismo-catalan"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:35.150Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-23": {
+      "lugar": "sinagoga-santa-maria-blanca-toledo",
+      "obra": "decoracion-azulejos",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "arquitectura",
+        "decoracion-geometrica",
+        "vitral",
+        "pared"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:36.974Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-26": {
+      "lugar": "park-guell",
+      "obra": "sol-mosaico-terraza",
+      "confianza": 0.9,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "trencadis",
+        "decoracion-modernista",
+        "sol"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:42.135Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-27": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "escultura",
+        "fauna",
+        "arquitectura-gaudi"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:43.798Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-31": {
+      "lugar": "park-guell",
+      "obra": "mosaico-detalle",
+      "confianza": 0.85,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "tesela",
+        "colorido",
+        "detalle-artistico",
+        "modernismo"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:48.777Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-mosaics-barcelona-38": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "mosaico",
+        "azulejo",
+        "escultura",
+        "pavimento",
+        "arte-modernista"
+      ],
+      "calidadVisual": 0.65,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "baja-calidad",
+        "nota": "Imagen borrosa y poco nítida, con composición confusa que no muestra claramente el lugar ni sus características distintivas."
+      },
+      "classifiedAt": "2026-05-15T23:53:51.046Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-orange-blue-inflatable-ring": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "azulejo",
+        "panoramica-ciudad",
+        "vista-aerea",
+        "jardin"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:52.754Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-path-trees-side": {
+      "lugar": "generalife-granada",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "jardin",
+        "patio",
+        "columna",
+        "vegetacion"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:53:59.252Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-people-walking-street-near-brown": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "escalera",
+        "azulejo",
+        "jardin",
+        "cubierta-ondulante"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "Demasiados turistas que obstaculizan la vista limpia del lugar y sus elementos arquitectónicos."
+      },
+      "classifiedAt": "2026-05-15T23:54:01.340Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-skyscraper-view-daytime": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "mosaico-colorido",
+        "torre",
+        "panoramica-ciudad",
+        "azulejo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:03.094Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-spain-catalonia-barcelona-anthony": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "columnas",
+        "piedra",
+        "erosion",
+        "ruinas"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La foto muestra estructuras de piedra erosionadas (posiblemente cantera o sitio arqueológico desconocido), no corresponde a Park Güell ni a ningún lugar identificable de la guía de viajes de España."
+      },
+      "classifiedAt": "2026-05-15T23:54:08.969Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-stunning-cityscape-barcelona-from": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "azulejo",
+        "arquitectura",
+        "torre",
+        "panoramica-ciudad",
+        "jardin"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:10.477Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-tile-trencadis-tiles-gaudi": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "ceramica",
+        "patron-geometrico",
+        "diseno-ornamental",
+        "mosaico"
+      ],
+      "calidadVisual": 0.6,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra azulejos decorativos y cerámica, pero sin contexto claro de lugar turístico identificable para una guía de viajes de España."
+      },
+      "classifiedAt": "2026-05-15T23:54:14.902Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-tree-grass-outdoor-during-daytime": {
+      "lugar": "generalife-granada",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "jardin",
+        "palmera",
+        "arquitectura-islamica",
+        "vegetacion",
+        "terraza-ajardinada"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:16.650Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-vibrant-mosaic-detail-showcasing": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "azulejo",
+        "mosaico",
+        "arquitectura",
+        "decoracion-ceramica",
+        "arte-tradicional"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra un elemento decorativo de cerámica y mosaico tradicional, posiblemente artesanía marroquí o similar, no identifiable como un lugar específico de la guía de viajes de España."
+      },
+      "classifiedAt": "2026-05-15T23:54:22.461Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-view-barcelona-from-showcasing": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "azulejo",
+        "torre",
+        "panoramica-ciudad",
+        "jardin"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:23.961Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-view-city-barcelona-from-top-hill": {
+      "lugar": "barcelona",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "panoramica-aerea",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "vista-aerea",
+        "panoramica-ciudad",
+        "sagrada-familia",
+        "arquitectura",
+        "mediterraneo"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:25.651Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-view-city-from-high-point-view": {
+      "lugar": "park-guell",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "torre",
+        "panoramica-ciudad",
+        "jardin",
+        "vista-aerea"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:31.439Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "park-guell-view-garden-palm-trees-background": {
+      "lugar": "generalife-granada",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "jardin",
+        "palmera",
+        "arquitectura",
+        "ruinas",
+        "arco"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:54:33.176Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "slug": "casa-batllo",
+  "schemaVersion": 1,
+  "entries": {
+    "casa-batllo-barcelona": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "atardecer",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ventana",
+        "balcon",
+        "modernismo"
+      ],
+      "calidadVisual": 0.65,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "borrosa",
+        "nota": "La imagen presenta desenfoque significativo que reduce su utilidad como foto de referencia para una guía de viajes."
+      },
+      "classifiedAt": "2026-05-15T23:56:11.725Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-barcelona-58": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "modernismo"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:13.303Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-barcelona-passeig-gracia-1905-07": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "azulejo",
+        "modernismo"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:15.322Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-barcelona-spain-gaudi-antonio": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "modernismo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:20.129Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-blick-aus-barcelona": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "ventana",
+        "vitral",
+        "panoramica-ciudad",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Foto de interior con vistas urbanas a través de ventana con vitrales de colores, pero no corresponde a ningún lugar específico de la guía de viajes de España listado."
+      },
+      "classifiedAt": "2026-05-15T23:56:22.475Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-building-is-lit-up-christmas-lights": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "fachada",
+        "balcon",
+        "ventana",
+        "nocturna-iluminada",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:27.332Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-ceiling-chandelier-barcelona": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "interior",
+      "momento": "interior-iluminado",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "cupula",
+        "arquitectura",
+        "iluminacion",
+        "diseno-organico"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Esta es una foto de un elemento arquitectonico/lampara interior que no corresponde a ningun lugar especifico de la guia de viajes de Espana. Parece ser un detalle de iluminacion decorativa pero no es identificable como parte de un lugar turistico valido."
+      },
+      "classifiedAt": "2026-05-15T23:56:29.887Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-foto-8985800": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "azulejo",
+        "balcon"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:31.427Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-gaudi-barcelona-spain-img-5380a": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "reja"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:37.196Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-high-first-gaudi-barcelona-bart": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "azulejo"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:38.729Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-high-first-gaudi-barcelona-bart-2": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "modernismo"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:43.956Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-high-first-gaudi-barcelona-bart-3": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "azulejo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:45.528Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-high-first-gaudi-barcelona-bart-4": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "escultura"
+      ],
+      "calidadVisual": 0.92,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:50.609Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-high-first-gaudi-barcelona-bart-5": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "azulejo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:52.362Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-night-view-flowers": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "nocturna-iluminada",
+        "flores-rojas"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:57.219Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-overview-barcelona-spain-cut": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "azulejo"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:56:58.703Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-people-reflected-glass-windows": {
+      "lugar": "casa-batllo",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "fachada",
+        "ventana",
+        "azulejo",
+        "balcon",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:03.951Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-stained-glass-barcelona-anthony": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-casa-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ventana",
+        "balcon",
+        "modernismo",
+        "azulejo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:05.708Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-statues-roof": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "azulejo"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:09.665Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-stunning-showcase-gaudi-modernist": {
+      "lugar": "casa-batllo",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "azulejo",
+        "modernismo"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:11.306Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-tall-building-lots-windows-next": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-principal-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "azulejo"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:16.467Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-vibrant-mosaic-chimneys-showcasing": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "torre",
+        "arquitectura",
+        "escultura",
+        "azulejo",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "La imagen muestra torres decorativas y esculturas que no corresponden a Casa Batlló ni a ningún lugar identificable de la lista de guía de viajes de España."
+      },
+      "classifiedAt": "2026-05-15T23:57:18.820Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-batllo-window-stained-glass-barcelona": {
+      "lugar": "casa-batllo",
+      "obra": "fachada-ventanales-casa-batllo",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ventana",
+        "balcon",
+        "modernismo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:23.981Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

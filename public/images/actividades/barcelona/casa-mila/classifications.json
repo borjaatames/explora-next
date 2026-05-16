@@ -1,0 +1,432 @@
+{
+  "slug": "casa-mila",
+  "schemaVersion": 1,
+  "entries": {
+    "casa-mila-2877": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal-casa-mila",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "modernismo",
+        "nocturna-iluminada"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:27.646Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-barcelona-passeig-gracia-pedrera": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "modernismo"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:29.260Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-barcelona-spain-jan-2007": {
+      "lugar": "casa-mila",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "noche",
+      "gente": "multitud",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "cupula",
+        "balcon",
+        "nocturna-iluminada"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "multitud",
+        "nota": "Presencia de multitud en la calle que afecta la claridad de la composición arquitectónica."
+      },
+      "classifiedAt": "2026-05-15T23:57:33.626Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-chimney-roof-barcelona-2014-3": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "azulejo",
+        "cupula"
+      ],
+      "calidadVisual": 0.65,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Esta es una foto de detalle de mosaicos/azulejos de una estructura de hormas curvas, posiblemente de la azotea de Casa Milà, pero sin contexto identificable claramente que confirme que sea un lugar específico de la guía de viajes."
+      },
+      "classifiedAt": "2026-05-15T23:57:36.120Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-close-up-view-unique-facade": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.4,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "ventana",
+        "reja"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Fachada de edificio con ornamentacion pero no identifica ningun lugar concreto de la guia de viajes de Espana."
+      },
+      "classifiedAt": "2026-05-15T23:57:39.687Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-detailed-view-curving-stone": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal-casa-mila",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "reja",
+        "modernismo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:41.341Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-explore-unique-rooftop": {
+      "lugar": "casa-mila",
+      "obra": "azotea-chimeneas",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "azotea",
+        "chimeneas",
+        "fachada",
+        "modernismo"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:46.299Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-gaudi-architecture-barcelona": {
+      "lugar": "desconocido",
+      "obra": null,
+      "confianza": 0.3,
+      "espacio": "obra-arte",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "escultura",
+        "fachada",
+        "arquitectura"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": {
+        "razon": "irrelevante",
+        "nota": "Imagen de escultura decorativa o instalación artística contemporánea sin clara identificación con lugares de la guía de viajes de España."
+      },
+      "classifiedAt": "2026-05-15T23:57:48.420Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-general-view": {
+      "lugar": "casa-mila",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "modernismo",
+        "ondulante"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:53.425Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-iron-gate-pedrera-by-gaudi": {
+      "lugar": "casa-mila",
+      "obra": "ventana-organica",
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "ventana",
+        "reja",
+        "modernismo"
+      ],
+      "calidadVisual": 0.75,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:57:55.033Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-pedrera-50335341691": {
+      "lugar": "casa-mila",
+      "obra": "terraza-azotea",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "panoramica",
+      "elementos": [
+        "arquitectura",
+        "cupula",
+        "escultura",
+        "vista-aerea",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.95,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:00.157Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-pedrera-barcelona-catalonia-antoni": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal-casa-mila",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "reja",
+        "cupula"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:01.789Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-pedrera-by-antoni-gaudi-barcelona": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal-casa-mila",
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "modernismo",
+        "piedra"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:06.531Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-pedrera-gaudi-architecture": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal-casa-mila",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "escultura",
+        "modernismo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:08.049Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-pedrera-gaudi-barcelona-spain": {
+      "lugar": "casa-mila",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "interior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "patio",
+        "fachada",
+        "ventana",
+        "claustro"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:12.996Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-stunning-view-antoni-gaudi-iconic": {
+      "lugar": "casa-mila",
+      "obra": null,
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "modernismo",
+        "vista-urbana"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:14.494Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-tall-building-balconies-it": {
+      "lugar": "casa-mila",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "modernismo",
+        "ondulante"
+      ],
+      "calidadVisual": 0.9,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:19.654Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-view-landmark-barcelona-showcasing": {
+      "lugar": "casa-mila",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "farol",
+        "panoramica-ciudad"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:21.148Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "casa-mila-window-stained-glass-barcelona": {
+      "lugar": "casa-mila",
+      "obra": "fachada-principal-casa-mila",
+      "confianza": 0.95,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ventana",
+        "balcon",
+        "modernismo"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:28.507Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}

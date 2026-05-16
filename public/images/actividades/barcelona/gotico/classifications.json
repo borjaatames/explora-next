@@ -1,0 +1,182 @@
+{
+  "slug": "barrio-gotico-barcelona",
+  "schemaVersion": 1,
+  "entries": {
+    "barrio-gotico-barcelona-cathedral-spain-architecture": {
+      "lugar": "catedral-barcelona",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "general",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "torre",
+        "vitral",
+        "claustro"
+      ],
+      "calidadVisual": 0.85,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:32.365Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-detailed-facade-cathedral": {
+      "lugar": "catedral-barcelona",
+      "obra": null,
+      "confianza": 0.92,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "vitral",
+        "puerta",
+        "escultura"
+      ],
+      "calidadVisual": 0.88,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:33.927Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-explore-moody-atmosphere-narrow": {
+      "lugar": "barrio-gotico-barcelona",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "panoramica",
+      "elementos": [
+        "calle-empedrada",
+        "arquitectura",
+        "fachada",
+        "arco",
+        "ambiente-historico"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:35.518Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-explore-narrow-historic-street": {
+      "lugar": "barrio-gotico-barcelona",
+      "obra": null,
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "pocos",
+      "composicion": "general",
+      "elementos": [
+        "calle-empedrada",
+        "arquitectura",
+        "fachada",
+        "balcon",
+        "farol"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": true,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:37.611Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-foto-91758634": {
+      "lugar": "barrio-gotico-barcelona",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "fachada",
+        "ornamentacion",
+        "piedra",
+        "escultura"
+      ],
+      "calidadVisual": 0.8,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:42.553Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-foto-91758636": {
+      "lugar": "monasterio-del-escorial",
+      "obra": "gargola-decorativa-fachada",
+      "confianza": 0.85,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "escultura",
+        "fachada",
+        "gargola",
+        "elemento-decorativo"
+      ],
+      "calidadVisual": 0.82,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:44.277Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-foto-91758639": {
+      "lugar": "catedral-toledo",
+      "obra": null,
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "escultura",
+        "relieve-escultorico",
+        "fachada",
+        "ornamentacion"
+      ],
+      "calidadVisual": 0.72,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:49.112Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    },
+    "barrio-gotico-barcelona-foto-91758642": {
+      "lugar": "monasterio-san-juan-reyes-toledo",
+      "obra": "capitel-decorativo",
+      "confianza": 0.75,
+      "espacio": "exterior",
+      "momento": "dia",
+      "gente": "none",
+      "composicion": "detalle",
+      "elementos": [
+        "arquitectura",
+        "capitel",
+        "escultura",
+        "relieve-escultorico",
+        "piedra"
+      ],
+      "calidadVisual": 0.72,
+      "adecuadoHero": false,
+      "descartar": false,
+      "classifiedAt": "2026-05-15T23:58:50.966Z",
+      "classifiedBy": "claude-haiku-4-5-20251001",
+      "humanReviewed": false
+    }
+  }
+}
