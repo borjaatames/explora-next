@@ -31,6 +31,8 @@ atracciones:
     imagenAlt: "Interior del Generalife con artesonado nazarí"
   - nombre: "Albaicín"
     descripcion: "El barrio musulmán medieval, Patrimonio de la Humanidad. Calles blancas en cuesta, cármenes con jardín y miradores. El reflejo más bonito de la Alhambra se ve desde el mirador de San Nicolás al atardecer."
+    imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
+    imagenAlt: "Calle empedrada del Albaicín de Granada con casas blancas tradicionales"
   - nombre: "Sacromonte"
     descripcion: "El barrio gitano histórico, en las cuevas excavadas en la colina frente a la Alhambra. Cuna del flamenco zambra y origen de tablaos antiguos. Visítalo de noche para sentir el ambiente real."
   - nombre: "Capilla Real y Catedral"

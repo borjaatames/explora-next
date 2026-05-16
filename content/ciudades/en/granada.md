@@ -31,6 +31,8 @@ atracciones:
     imagenAlt: "Interior of the Generalife with Nasrid coffered ceiling"
   - nombre: "Albaicín"
     descripcion: "The medieval Muslim quarter, a UNESCO World Heritage Site. White streets on a steep hill, garden cármenes and viewpoints. The best reflection of the Alhambra is from the Mirador de San Nicolás at sunset."
+    imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
+    imagenAlt: "Cobbled street in Granada's Albaicín quarter with traditional white houses"
   - nombre: "Sacromonte"
     descripcion: "Granada's historic Romani quarter, in caves dug into the hillside facing the Alhambra. Birthplace of the zambra flamenco and origin of the city's oldest tablaos. Visit at night for the real atmosphere."
   - nombre: "Royal Chapel and Cathedral"
