@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Now the honest part, and there's a fair amount of it. The score (4.4) is among the lowest on the page, and the reviews carry the classic complaint: «fast-track» is sold as fast access, but the security check is mandatory for everyone and you queue there anyway. The tower, as on any option, is more logistics than spectacle: up by lift, down by stairs, closed in bad weather, and under-6s can't go up. It isn't accessible. If the tower isn't essential for you, a normal guided tour gives you the basilica just as well and cheaper; if you want it and you're after the best price, here it is.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia tower tour cheap", "sagrada familia fast track tour", "sagrada familia tower climb", "sagrada familia skip the line tower", "sagrada familia tower tickets"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp"

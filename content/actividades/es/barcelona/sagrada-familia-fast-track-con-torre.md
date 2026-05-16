@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Ahora lo honesto, que es bastante. La nota (4,4) es de las más bajas de la página, y en las reseñas aparece la queja clásica: el «fast track» se vende como acceso rápido, pero el control de seguridad es obligatorio para todos y ahí se hace cola igual. La torre, como en cualquier opción, es más logística que espectáculo: se sube en ascensor, se baja por escalera, cierra con mal tiempo y no pueden subir los menores de 6 años. No es accesible. Si la torre no es imprescindible para ti, una guiada normal te da la basílica igual de bien y más barata; si la quieres y buscas el mejor precio, aquí lo tienes.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia con torre barata", "tour sagrada familia fast track", "subir torre sagrada familia", "sagrada familia sin colas torre", "entradas sagrada familia torre"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp"

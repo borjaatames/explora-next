@@ -97,7 +97,7 @@ opinionEditorial: |
 
   Y un detalle importante: **la cata no es una comida**. Tendrás 3 copas con tapas, pero después saldrás con hambre real. Cuenta con comer en Toledo (15-25€ extra) tras la cata, o llévate algo de picar.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion toledo cata vinos", "tour toledo bodega", "toledo bodega siglo XVIII", "excursion gastronomica toledo", "cata vinos cerca toledo bargas"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

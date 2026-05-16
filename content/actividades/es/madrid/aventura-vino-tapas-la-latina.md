@@ -95,7 +95,7 @@ opinionEditorial: |
 
   El precio (95€) está alineado con la propuesta: pagar por el enfoque en vino y el grupo reducido, no por un crawl rápido. Solo apto para mayores de 18 años por el componente de vino.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour vinos tapas madrid", "vine travel madrid", "tour la latina vinos", "cata vinos madrid", "tour gastronomico trilingue madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

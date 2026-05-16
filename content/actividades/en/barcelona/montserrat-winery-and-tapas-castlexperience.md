@@ -93,7 +93,7 @@ opinionEditorial: |
 
   What they don't tell you: it does NOT include the rack railway (unlike most Castlexperience variants). If you love the iconic image of the rack railway climbing the mountain, book EXB-23 (~€59) which does include it. And groups are big (up to 20 people), so if you want an intimate format or hotel pickup, consider EXB-26 (In Out, group of 8).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat winery tour", "montserrat wine tasting", "montserrat from barcelona", "visit montserrat", "montserrat tapas tour"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

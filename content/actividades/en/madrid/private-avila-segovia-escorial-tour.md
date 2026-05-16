@@ -85,7 +85,7 @@ opinionEditorial: |
 
   What's worth knowing before you book: the price. As a private tour, what you pay for is the exclusive vehicle and guide, so the per-person cost only makes sense in a group — the more of you, the better it works out. If you're travelling as a pair, the price per head is high compared with a shared trip. The other thing: linking three destinations in one day is still an intense day, even private, and the included entry is for El Escorial, not the monuments of Ávila and Segovia. If you're on a tight budget, a [shared day trip](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) delivers for much less.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["private avila segovia escorial tour", "private day trip from madrid", "avila segovia escorial one day", "private el escorial tour", "private tour avila segovia"]
 
 imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp"

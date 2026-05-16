@@ -91,7 +91,7 @@ opinionEditorial: |
 
   La accesibilidad en silla de ruedas es un diferencial real: es uno de los pocos tours de tapas de Madrid que la incluye explícitamente, con acceso por ascensor a la azotea. Confirma con el operador en la reserva si tienes requisitos de movilidad específicos.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour tapas madrid azotea", "tour gastronomico vino madrid", "world experience madrid", "tapas la latina barrio letras", "tour bilingue madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

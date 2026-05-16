@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Worth knowing: it does NOT include the Moreneta (the Black Madonna), which is what many people expect. If you want to touch her, book a variant that includes it explicitly or buy the ticket separately on site (usually sells out). And the 3 free hours are a double-edged sword: if you go with a clear plan (specific trail, funicular, museum) it's ideal; if you'll improvise, you may not know what to do.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["cheap montserrat tour", "montserrat half day", "montserrat basilica tour", "budget montserrat excursion", "montserrat from barcelona"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

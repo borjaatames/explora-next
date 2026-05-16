@@ -87,7 +87,7 @@ opinionEditorial: |
 
   Un detalle a favor: la información que da el operador antes de reservar es de las más completas del catálogo —deja muy claro cómo funciona la hora de los Palacios Nazaríes y el carácter nominativo de la entrada—. Para una primera visita a la Alhambra, ese nivel de detalle se agradece.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra grupo reducido", "alhambra sin colas", "palacios nazaries entrada prioritaria", "visita guiada alhambra granada", "tour alhambra generalife"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp"

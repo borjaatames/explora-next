@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Where it does shine is as a **complement or as an experience in itself**. If you already know the Alhambra by day, or if you'll be in Granada for several days, the evening visit to the illuminated palaces is one of the most memorable things you can do in the city. And a practical note: wheelchair access is very limited and entry with pushchairs is not allowed, so keep that in mind if you travel with small children or need accessibility.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra night tour", "alhambra at night", "illuminated nasrid palaces", "alhambra evening tour granada", "nasrid palaces night visit"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"

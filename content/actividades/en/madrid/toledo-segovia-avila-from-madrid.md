@@ -93,7 +93,7 @@ opinionEditorial: |
   The real catch is pace. In Segovia you'll get the aqueduct, the old town and not much more. In Ávila, the walls and a walk. In Toledo, a guided route through the Jewish quarter and the classic landmarks. Don't expect to dig into Toledo Cathedral, climb Segovia's bell tower or stroll the Real Sitio de la Granja unhurried. If your goal is to "see" the three cities, this delivers. If it is to "know" any of them, book a dedicated tour for that one and come back another day. One operational detail worth flagging: the coach drops the group at a different point from the pickup (Palacio de los Consejos, not Plaza de San Miguel) — plan your way back accordingly.
 
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo segovia avila day trip", "three cities one day madrid", "unesco day trip from madrid", "spain day trips madrid", "best day tours from madrid"]
 
 imagen: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"

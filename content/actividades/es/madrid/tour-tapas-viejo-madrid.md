@@ -86,7 +86,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: es un tour exigente con las restricciones. El operador deja claro que no está adaptado a veganos, vegetarianos ni a alergias o intolerancias (gluten, lactosa, marisco, pescado), y que es solo para mayores de 18 años. Si tienes cualquier restricción dietética o viajas con menores, este no es tu tour: el [de tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) sí contempla opciones vegetarianas y sin gluten y admite menores acompañados. Y ojo con la puntualidad: si no te presentas a la hora, pierdes el tour.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour de tapas viejo madrid", "tour gastronomico madrid centro", "ruta de tapas madrid", "visita enogastronomica madrid", "tapas casco historico madrid"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"

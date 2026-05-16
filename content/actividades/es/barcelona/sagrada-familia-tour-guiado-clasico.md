@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Ahora la parte honesta. Su nota media es de las más bajas de las guiadas (4,4) y la de relación calidad-precio se queda en 3,9 —el punto débil reconocido por los propios viajeros—. La queja recurrente es la salida bilingüe: cuando el guía alterna español e inglés en el mismo grupo, se pierde el hilo. Si reservas, elige la opción monolingüe. Y si lo que buscas es la mejor combinación de nota y precio sin más, la visita guiada sin colas del comparador rinde mejor por menos dinero.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour guiado sagrada familia", "sagrada familia en espanol", "visita sagrada familia sin colas", "tour sagrada familia grupo", "sagrada familia barcelona guia"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp"

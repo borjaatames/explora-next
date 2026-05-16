@@ -86,7 +86,7 @@ opinionEditorial: |
   ¿Para quién no es? Si conoces Madrid de sobra y ya tienes tus bares en La Latina, no necesitas un tour para ir por Cava Baja. Esto tiene sentido si vienes de fuera, si quieres descubrir bares fuera del circuito habitual sin investigar tú, o si lo regalas (despedida, aniversario, escapada con amigos). También es buena opción si vas a Madrid con poco tiempo y quieres una experiencia gastronómica concentrada en tres horas en lugar de probar suerte por libre.
 
 # ─── 11. CATEGORIZATION AND SEO ──────────────────────────
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour tapas madrid", "cata vinos madrid", "barrio de las letras", "tour gastronomico madrid", "tapas en español madrid"]
 
 

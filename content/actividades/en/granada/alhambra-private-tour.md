@@ -86,7 +86,7 @@ opinionEditorial: |
 
   Two honest warnings before booking. The operator expressly states it is **not suitable for people with reduced mobility or in wheelchairs** — being private doesn't change that. And **cancellation is still 50%**: the Alhambra ticket isn't refundable even on a private tour. With that clear, if you're after the best possible experience and the budget allows it, it's the most complete option in the comparison.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra private tour", "alhambra exclusive guide", "private nasrid palaces visit", "alhambra at your own pace", "alhambra private tour granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp"

@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Dos cosas que la hacen destacar más allá de la nota. La primera: el operador consigue entradas incluso cuando la web oficial marca «agotado», lo cual es un seguro real en temporada alta. La segunda: es de las visitas más amables para ir con niños —sin restricción de edad, con el contenido adaptado y juegos interactivos por el camino—. Si viajas en familia, ese detalle pesa.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra tour guiado entradas incluidas", "mejor tour alhambra", "alhambra grupo reducido", "visita alhambra con ninos", "alhambra palacios nazaries granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-spain-fortress-castle-architecture-hero.webp"

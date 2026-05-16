@@ -88,7 +88,7 @@ opinionEditorial: |
 
   Two honest caveats. First: the operator expressly states it is **not wheelchair accessible**; if you need accessibility, simply rule it out. Second: cancellation has a **2-day window**, not 24 hours like almost all the others — the refund is slightly higher (60%), but you have less room to decide at the last minute. With that clear, it's the best value-for-money option for a first visit to the Alhambra.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["cheap alhambra ticket", "budget alhambra guided tour", "alhambra nasrid palaces entry", "alhambra guided tour granada", "best value alhambra"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp"

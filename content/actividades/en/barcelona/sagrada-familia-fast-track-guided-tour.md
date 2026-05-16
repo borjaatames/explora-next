@@ -84,7 +84,7 @@ opinionEditorial: |
 
   The thing to be clear about: this listing is **English only**. There's no Spanish-language version of this exact product, so if you want a Spanish guide, look at the other guided tours in the comparison. Two more notes: it isn't wheelchair accessible, and the meeting point — Plaça de Gaudí, near the playground — is in a large, busy area, so allow time to find your host (the purple jacket helps). It doesn't include the towers.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia fast track tour", "sagrada familia guided tour english", "sagrada familia museum tour", "sagrada familia schools", "sagrada familia skip the line"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-showcasing-hero.webp"

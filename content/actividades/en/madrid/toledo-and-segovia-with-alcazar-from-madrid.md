@@ -96,7 +96,7 @@ opinionEditorial: |
 
   Important detail: **Toledo Cathedral entry is not included** in the base price. If your priority is the Cathedral and not Segovia, look at [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79 with Cathedral) instead. The upgrade here brings the price to roughly €60-65.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo and segovia day trip", "two unesco cities madrid", "alcazar segovia from madrid", "toledo segovia combined tour", "madrid day trip toledo segovia"]
 
 imagen: "/images/actividades/madrid/segovia/alcazar-lateral.webp"

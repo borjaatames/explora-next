@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Tres cosas que tienes que tener claras antes de reservar. Una: es una **ruta a pie larga** —unas 3 horas caminando más el templo—, así que valóralo si vas con niños pequeños o poca resistencia. Dos: solo se ven **por fuera** Casa Batlló, La Pedrera y Palau Güell; las entradas no van incluidas. Tres: la visita guiada del **interior de la basílica es compartida y en inglés**; si quieres el interior en español, elige la opción con audioguía, que va en tu idioma. Con eso claro, es un planazo para amantes de la arquitectura; si solo quieres ver la Sagrada Familia bien explicada, una guiada normal te cunde más y más barata.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour gaudi barcelona", "ruta gaudi sagrada familia", "sagrada familia tour privado", "barcelona gaudi grupo reducido", "tour modernismo barcelona"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero.webp"

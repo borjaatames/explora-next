@@ -92,7 +92,7 @@ opinionEditorial: |
 
   What you pay: €74, nearly double the cheapest option in the comparator (€41). In exchange you get a small group, a properly certified guide (not just a tourism guide), included cable car, real hike through the national park and activity insurance. If you go to Montserrat for the landscape and not the religious side, it's the right choice. If you go for the Moreneta, this is not the variant.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat hike", "montserrat hiking tour", "montserrat small group", "montserrat cable car", "montserrat national park"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

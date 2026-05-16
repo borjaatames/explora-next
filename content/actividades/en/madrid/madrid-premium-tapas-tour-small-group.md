@@ -92,7 +92,7 @@ opinionEditorial: |
 
   The 96-review sample is smaller than the high-volume operators (Gourmet Madrid sits at 3,842 reviews), which is normal for premium small-group formats: lower capacity per departure means slower review accumulation. The rating is what matters here, and 5/5 across nearly 100 verified reviews is as clean as it gets.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid premium tapas tour", "madrid private tapas", "small group tapas madrid", "english tapas tour madrid", "adventurous appetites madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

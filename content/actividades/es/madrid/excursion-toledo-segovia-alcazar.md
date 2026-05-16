@@ -96,7 +96,7 @@ opinionEditorial: |
 
   Detalle importante: **la Catedral de Toledo no está incluida** en el precio base. Si tu prioridad es la Catedral y no Segovia, mira el [Toledo día completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo) (79€ con Catedral) en su lugar. El upgrade aquí sube el precio aproximadamente a 60-65€.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion toledo segovia", "tour toledo segovia desde madrid", "alcazar segovia desde madrid", "dos ciudades unesco un dia", "excursion combinada madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

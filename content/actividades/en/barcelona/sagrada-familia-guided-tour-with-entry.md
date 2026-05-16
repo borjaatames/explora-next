@@ -83,7 +83,7 @@ opinionEditorial: |
 
   The honest part is its weak point: the average score (4.4) sits below other guided tours, and the cause that recurs in the reviews is language. Depending on the date and time, the group can be bilingual, with the guide alternating two languages for the same group — and that's where you lose the thread. Check your specific departure's language before paying. If you want a short, single-language, better-rated guided tour, the express tour delivers more; if you want the best combination of score and price on GetYourGuide, see the skip-the-line guided tour.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia guided tour", "sagrada familia skip the line tour", "sagrada familia guided tickets", "sagrada familia barcelona tour", "sagrada familia radio guide"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp"

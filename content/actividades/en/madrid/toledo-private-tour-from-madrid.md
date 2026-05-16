@@ -91,7 +91,7 @@ opinionEditorial: |
 
   The real catch is price. The fare works in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, €930 for up to 6 pax. That's €155/person as a couple, €155/person as a 4-person group — competitive for a private tour, but 5x the half-day Julià (€29) and 4x the full-day Fun&Tickets (€79). And Cathedral, Santo Tomé and Synagogue tickets (€12-15/person) are extra. If your priority is cost, another option fits better. If your priority is comfort, your own pace and a dedicated guide, this delivers.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo private tour", "toledo from madrid private", "toledo guide and driver", "private day trip toledo madrid", "toledo mercedes private"]
 
 imagen: "/images/actividades/madrid/toledo/hero-alcazar.webp"

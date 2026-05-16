@@ -94,7 +94,7 @@ opinionEditorial: |
 
   Worth knowing: NOT for people with walking difficulties (the hike, although easy, is on natural terrain). Minimum age 5. If you travel with younger children, see options without hiking.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat viator", "mont escape tours", "montserrat cable car viator", "montserrat hike", "montserrat 8 person tour"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Lo que el marketing no te cuenta: el tour es "bilingüe", no en grupo separado en español. El guía alterna idiomas al mismo grupo, así que el tiempo neto de explicación en cada idioma es la mitad. Si te molestan las pausas de traducción, te interesa más un tour en grupo solo en español o un privado. Y la comida no está incluida: cuenta unos 15-25 € extra para comer en Toledo.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion toledo desde madrid", "toledo dia completo", "tour toledo catedral", "visitar toledo desde madrid", "excursion guiada toledo"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

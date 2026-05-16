@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Who it's for: adult couples on weekend getaway, small groups of oenophile friends, travelers who value gastronomy as the day's protagonist. NOT the right option if you just want to «see Montserrat and eat something». Nor if traveling with young children (the premium experience is wasted).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat bages farmhouse", "montserrat sommelier lunch", "barcelona local experiences", "montserrat premium oenology", "montserrat authentic winery"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

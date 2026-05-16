@@ -63,12 +63,13 @@
     "valoracion": "Valoración",
     "opiniones": "opiniones",
     "categorias": {
-      "cultural": "Cultural",
-      "gastronomico": "Gastronomía",
-      "aireLibre": "Aire libre",
-      "nocturno": "Vida nocturna",
-      "excursion": "Excursión",
-      "familiar": "En familia"
+      "visitasGuiadas": "Visitas guiadas",
+      "entradas": "Entradas",
+      "excursionesDia": "Excursiones de un día",
+      "espectaculos": "Espectáculos",
+      "toursGastronomicos": "Tours gastronómicos",
+      "serviciosAdicionales": "Servicios adicionales",
+      "transporte": "Transporte"
     },
     "faqEnCiudad": "Preguntas frecuentes sobre actividades en {ciudad}"
   },

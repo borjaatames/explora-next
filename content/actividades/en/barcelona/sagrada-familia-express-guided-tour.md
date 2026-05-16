@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Two honest caveats. First: headphones are only handed out if the group is over 10 people; in small groups you hear the guide well anyway, but it's worth knowing. Second: it's a brisk visit, not an exhaustive one — if you want a long, leisurely explanation, an hour-and-a-half guided tour will give you more. It does not include towers. For a first visit on a tight schedule and with no language headaches, it's one of the cleanest options on the page.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia quick tour", "sagrada familia guided tour english", "sagrada familia skip the line", "sagrada familia accessible", "sagrada familia express tour"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp"

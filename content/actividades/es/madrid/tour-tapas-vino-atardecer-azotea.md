@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: en la azotea está incluida una copa de vino, pero el resto de consumiciones se pagan aparte; no es barra libre. Y el tour empieza en Tirso de Molina y acaba en Callao, así que organiza lo que hagas después contando con que terminas en otro punto. Es un plan sociable y de ambiente —se conoce gente—; si buscabas una experiencia gastronómica más íntima o centrada en la calidad del producto, te encajará mejor un tour más pequeño o el [del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid). Y no es accesible en silla de ruedas.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour de tapas madrid", "tapas y vino madrid", "tour tapas azotea madrid", "ruta de tapas centro madrid", "tour gastronomico madrid atardecer"]
 
 imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"

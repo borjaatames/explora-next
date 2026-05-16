@@ -93,7 +93,7 @@ opinionEditorial: |
 
   Lo que conviene saber: no incluye cremallera (si lo quieres, mira otras opciones). Y las variantes con extras (Moreneta, coro, bodega) tienen restricciones de día y horario — comprueba la disponibilidad en tu fecha antes de reservar.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat medio dia", "montserrat acceso anticipado", "montserrat barcelona local experiences", "tour montserrat 4 opciones"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

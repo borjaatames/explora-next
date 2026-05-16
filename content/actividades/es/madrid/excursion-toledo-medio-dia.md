@@ -94,7 +94,7 @@ opinionEditorial: |
 
   La pega real: 5 horas no son 5 horas en Toledo, son 5 horas totales contando ida y vuelta. Eso se traduce en alrededor de 3 horas reales en la ciudad, casi todas guiadas. No esperes tiempo libre para perderte por las callejuelas, comprar un mazapán con calma o sentarte a tomar algo en el Mirador del Valle. Si lo que buscas es eso, vete a la opción de día completo o coge el AVE por libre.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 
 keywords: ["excursion toledo desde madrid", "toledo medio dia", "tour toledo en autobus", "visitar toledo", "excursion toledo julia travel", "viaje toledo madrid"]
 

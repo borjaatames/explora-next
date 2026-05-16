@@ -18,14 +18,19 @@ const actividadesRoot = path.join(process.cwd(), "content", "actividades");
 /**
  * Categorías permitidas. Debe coincidir con las claves de
  * `dict.actividades.categorias` en los diccionarios.
+ *
+ * Reemplazo (mayo 2026): pasamos de 6 categorías semánticas (cultural,
+ * gastronomico, aireLibre, nocturno, excursion, familiar) a 7 comerciales
+ * más visibles y orientadas a conversión.
  */
 export const CATEGORIAS_ACTIVIDAD = [
-  "cultural",
-  "gastronomico",
-  "aireLibre",
-  "nocturno",
-  "excursion",
-  "familiar",
+  "visitasGuiadas",
+  "entradas",
+  "excursionesDia",
+  "espectaculos",
+  "toursGastronomicos",
+  "serviciosAdicionales",
+  "transporte",
 ] as const;
 
 export type CategoriaActividad = (typeof CATEGORIAS_ACTIVIDAD)[number];
@@ -315,12 +320,13 @@ export function agruparActividadesPorCategoria(
   actividades: ActividadListItem[]
 ): Record<CategoriaActividad, ActividadListItem[]> {
   const grupos = {
-    cultural: [],
-    gastronomico: [],
-    aireLibre: [],
-    nocturno: [],
-    excursion: [],
-    familiar: [],
+    visitasGuiadas: [],
+    entradas: [],
+    excursionesDia: [],
+    espectaculos: [],
+    toursGastronomicos: [],
+    serviciosAdicionales: [],
+    transporte: [],
   } as Record<CategoriaActividad, ActividadListItem[]>;
 
   for (const actividad of actividades) {
@@ -492,7 +498,7 @@ function construirListItem(
     opinionEditorial: fm.opinionEditorial,
     guiasRelacionadas: fm.guiasRelacionadas || [],
 
-    categoria: (fm.categoria || "cultural") as CategoriaActividad,
+    categoria: (fm.categoria || "visitasGuiadas") as CategoriaActividad,
     keywords: fm.keywords || [],
     atraccionesRelacionadas: fm.atraccionesRelacionadas || [],
 
@@ -528,12 +534,13 @@ function construirListItem(
  *   3) la clave en `dict.actividades.categorias` de los 6 idiomas
  */
 export const CATEGORIA_A_URL: Record<CategoriaActividad, string> = {
-  cultural: "cultural",
-  gastronomico: "gastronomico",
-  aireLibre: "aire-libre",
-  nocturno: "nocturno",
-  excursion: "excursion",
-  familiar: "familiar",
+  visitasGuiadas: "visitas-guiadas",
+  entradas: "entradas",
+  excursionesDia: "excursiones-de-un-dia",
+  espectaculos: "espectaculos",
+  toursGastronomicos: "tours-gastronomicos",
+  serviciosAdicionales: "servicios-adicionales",
+  transporte: "transporte",
 };
 
 const URL_A_CATEGORIA: Record<string, CategoriaActividad> = Object.fromEntries(

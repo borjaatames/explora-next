@@ -86,7 +86,7 @@ opinionEditorial: |
   ¿Cuándo no? Si ya conoces el centro de Madrid y has comido varias veces en San Miguel, este recorrido te va a sonar. Y si buscas formato sentado, descarta — esto es tapeo de pie, andando entre locales. Para esos casos, el Wine & Tapas del Barrio de las Letras o un tour distinto encajan mejor.
 
 # ─── 11. CATEGORIZATION AND SEO ──────────────────────────
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour tapas madrid centro", "secret food tour madrid", "tapas plaza mayor", "mercado san miguel tapas", "tour gastronomico madrid"]
 
 

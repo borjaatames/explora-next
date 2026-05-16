@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Now, honestly: the tower is more logistics than spectacle. You go up by lift but down a narrow staircase, only one tower is open — the monument decides which — and it closes in rain or wind. It isn't accessible, children under 6 can't go up, and the product's score (4.4) and value-for-money score (3.9) are among the lowest on the page. Before paying the tower extra, ask yourself whether that money wouldn't go further on another Gaudí site: it often does. If you're sure you want to go up, go ahead; if you're unsure, a normal guided tour gives you the basilica just as well for less.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia with towers", "sagrada familia tower climb", "sagrada familia tower tour", "sagrada familia views", "sagrada familia tower tickets"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp"

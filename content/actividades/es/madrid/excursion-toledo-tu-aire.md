@@ -98,7 +98,7 @@ opinionEditorial: |
 
   Lo que más cuesta entender al principio: **las entradas no están incluidas**. La Catedral, Santo Tomé y la Sinagoga del Tránsito son las visitas estrella de Toledo, y por entrar a las tres se te van **40-50€ por persona**. A ese precio total (35€ + 50€ entradas = 85€) ya estás por encima del [día completo con todo incluido](/ciudades/madrid/actividades/excursion-toledo-dia-completo). Solo merece la pena este formato si vas a hacer Toledo "por fuera" (calles, miradores, plaza, sin entrar a monumentos de pago).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo desde madrid barato", "excursion toledo a tu aire", "bus toledo desde madrid", "trenecito toledo", "toledo independiente"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

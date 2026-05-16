@@ -76,7 +76,7 @@ opinionEditorial: |
   win: the guide adapts to your pace, your interests and your
   questions, and hotel pickup removes any transport headache.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["private prado tour", "private guide madrid prado", "prado museum private visit", "prado tour english private"]
 
 imagen: "/images/actividades/madrid/prado/estatua-velazquez.webp"

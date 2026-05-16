@@ -87,7 +87,7 @@ opinionEditorial: |
 
   One point in its favour: the information the operator gives before booking is among the most thorough in the catalogue — it makes very clear how the Nasrid Palaces time slot works and that the ticket is nominative. For a first visit to the Alhambra, that level of detail is welcome.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra small group tour", "alhambra skip the line", "nasrid palaces priority entry", "alhambra guided tour granada", "alhambra generalife tour"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp"

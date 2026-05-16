@@ -84,7 +84,7 @@ opinionEditorial: |
 
   What the marketing doesn't tell you: the pace is tight. You can't eat on the coach and the refreshment stops are very short — under 15 minutes according to the reviews — so if you are travelling with children or need to eat calmly, bring water and a snack and say so in advance. There is also a smart-casual dress code to enter the monuments. And about the Valley of the Fallen: it is a place with a history that draws strongly divided opinions in Spain; I state it as a fact so you can decide with the information in front of you. It is not wheelchair accessible.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["el escorial day trip from madrid", "valley of the fallen tour", "monastery of el escorial tickets", "el escorial valley fallen tour", "visit el escorial from madrid"]
 
 imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp"

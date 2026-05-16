@@ -93,7 +93,7 @@ opinionEditorial: |
 
   Who for? Anniversary getaways, honeymoon trips, families with young children where flexible pace matters, or travelers who value exclusivity. If you just go to "see Montserrat", shared options are perfectly valid and much cheaper.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat private tour", "montserrat exclusive family", "in out barcelona tours private", "private montserrat tour barcelona", "montserrat no group"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

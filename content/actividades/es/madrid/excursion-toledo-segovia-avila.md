@@ -93,7 +93,7 @@ opinionEditorial: |
   La pega real es la velocidad. En Segovia tendrás tiempo para el acueducto, el casco antiguo y poco más. En Ávila, las murallas y un paseo. En Toledo, una ruta guiada por la judería y los hitos clásicos. No esperes entrar a fondo en la Catedral de Toledo, ni subir al campanario de Segovia, ni pasear sin prisa por el Real Sitio de la Granja. Si tu plan es "ver" las tres ciudades, esto cumple. Si es "conocer" alguna de ellas, mejor coge una excursión dedicada a esa ciudad y vuelves otro día. Y un detalle operativo importante: el bus te deja en un punto distinto al de salida (Palacio de los Consejos, no Plaza de San Miguel) — calcula la vuelta a tu alojamiento desde ahí.
 
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion toledo segovia avila", "tres ciudades en un dia desde madrid", "segovia avila toledo desde madrid", "excursion patrimonio humanidad madrid", "que ver cerca de madrid en un dia"]
 
 # Sección imágenes generada por exploraspain-image-pipeline (toledo + segovia + avila)

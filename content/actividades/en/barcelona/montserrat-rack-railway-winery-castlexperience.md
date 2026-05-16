@@ -97,7 +97,7 @@ opinionEditorial: |
 
   Worth knowing: groups are 20 people and the operator shares transport with other groups. For an intimate format, see [In Out with hotel pickup](/en/cities/barcelona/activities/montserrat-small-group-hotel-pickup).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat rack railway winery", "castlexperience montserrat tour", "montserrat black madonna winery", "complete montserrat excursion"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

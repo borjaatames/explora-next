@@ -88,7 +88,7 @@ opinionEditorial: |
 
   Dos salvedades honestas. La primera: el operador indica expresamente que **no es accesible en silla de ruedas**; si necesitas accesibilidad, descártala sin más. La segunda: la cancelación tiene una **ventana de 2 días**, no de 24 horas como casi todas las demás —el reembolso es algo mayor (60 %), pero tienes menos margen para decidir a última hora—. Con eso claro, es la opción de mejor relación calidad-precio para una primera visita a la Alhambra.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["entrada alhambra barata", "alhambra tour guiado economico", "entradas alhambra palacios nazaries", "visita guiada alhambra granada", "alhambra mejor precio"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp"

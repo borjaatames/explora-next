@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Lo que pagas: 74 €, casi el doble que la opción más barata del comparador (41 €). A cambio te llevas grupo reducido, guía titulado de verdad (no solo guía turístico), teleférico incluido, caminata real por el parque nacional y un seguro de actividad. Si vas a Montserrat por su paisaje y no por el aspecto religioso, es la elección correcta. Si vas por la Moreneta, esta no es la variante.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat caminata", "montserrat senderismo", "montserrat grupo reducido", "montserrat teleferico", "parque nacional montserrat"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

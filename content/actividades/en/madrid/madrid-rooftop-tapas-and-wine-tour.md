@@ -90,7 +90,7 @@ opinionEditorial: |
 
   Wheelchair accessibility is a real differentiator: this is one of the few tapas tours in Madrid that explicitly lists wheelchair access, and the rooftop has elevator access. Confirm with the operator at booking for specific mobility requirements.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid tapas rooftop tour", "madrid food and wine tour", "world experience madrid", "tapas la latina barrio letras", "madrid wheelchair accessible tour"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

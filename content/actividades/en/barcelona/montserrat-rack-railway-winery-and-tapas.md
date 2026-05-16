@@ -96,7 +96,7 @@ opinionEditorial: |
 
   The Spanish-language tapas tour option is a real differentiator: few operators offer it explicitly. For Spanish speakers who value having guide in their language without bilingual interruptions, this is the variant.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat rack railway winery tapas", "montserrat full day tour", "castlexperience montserrat", "oller del mas montserrat", "montserrat tapas spanish"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

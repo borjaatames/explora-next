@@ -90,7 +90,7 @@ opinionEditorial: |
 
   The honesty caveat: at €59, this is the cheapest tour on our Madrid shortlist. The 2-hour express version is genuinely shorter than the standard 3-hour crawl — fewer stops, less food. If you want depth, book the 3-hour. If you want a quick introduction without committing the whole evening, the 2-hour is good value.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid tapas tour", "secret food tours madrid", "madrid food tour with local guide", "madrid bilingual tapas tour", "tapas centro madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

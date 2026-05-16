@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Two honest warnings. First: it isn't accessible — the operator says so clearly — so if you need a wheelchair, rule it out and look at the small-group guided tour. Second: there are reviews mentioning the guided part can sometimes run slightly shorter than advertised; here it matters little, because the free time afterwards makes up for it, but if you expect exactly 90 minutes of guiding, bear it in mind. It does not include towers.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia tour free time", "sagrada familia small group", "sagrada familia guided tour", "sagrada familia gaudi museum", "sagrada familia skip the line"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp"

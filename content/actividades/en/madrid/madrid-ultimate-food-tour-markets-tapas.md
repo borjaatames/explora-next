@@ -89,7 +89,7 @@ opinionEditorial: |
 
   The honesty caveat: this is English only. If you want Spanish, this is not your tour. And if you only have appetite for tapas (no chocolate, no empanadas), the Viator Devour product or Gourmet Madrid will fit better.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid food tour", "madrid markets tour", "devour tours madrid", "anton martin market", "madrid culinary tour"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

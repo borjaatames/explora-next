@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Lo que pagas: 68 € por la opción base. Por ese precio te llevas grupo de 8, guía cualificado, funicular de Sant Joan (que es el upgrade más interesante de Montserrat), caminata por el parque y bastones incluidos. Si te interesa la combinación de naturaleza + grupo pequeño + multilingüe, esta es la opción que ofrece más versatilidad.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat funicular", "montserrat grupo pequeno", "montserrat sant joan", "tour montserrat panoramico", "unique tours barcelona"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

@@ -87,7 +87,7 @@ opinionEditorial: |
 
   What the marketing doesn't tell you: it is two UNESCO World Heritage cities squeezed into a 9-hour day, and you feel it. The most common complaint in the reviews is the rushed pace and the limited free time. If you are travelling to wander slowly, photograph without hurry and eat without watching the clock, this format will leave you wanting; you would be better off giving each city its own day. And if mobility is an issue, skip it: the cobblestones and slopes of both historic centres are unforgiving.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["avila and segovia day trip from madrid", "avila segovia one day", "avila segovia tour with tickets", "visit avila and segovia", "madrid to avila segovia tour"]
 
 imagen: "/images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp"

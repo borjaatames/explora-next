@@ -94,7 +94,7 @@ opinionEditorial: |
 
   Lo que conviene saber: NO es para personas con dificultades para caminar (la caminata, aunque fácil, es por terreno natural). Edad mínima 5 años. Si vas con niños más pequeños, mira opciones sin caminata.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat viator", "mont escape tours", "montserrat teleferico viator", "montserrat caminata", "tour montserrat 8 personas"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

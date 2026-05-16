@@ -91,7 +91,7 @@ opinionEditorial: |
 
   La salvedad honesta: a 59€, es el tour más económico de nuestra selección de Madrid. La versión exprés de 2 horas es genuinamente más corta que el crawl habitual de 3 horas — menos paradas, menos comida. Si quieres profundizar, reserva la de 3 h. Si quieres una introducción rápida sin comprometer toda la noche, la de 2 h es una buena relación calidad-precio.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour tapas madrid", "secret food tours madrid", "tour gastronomico madrid guia local", "tour bilingue tapas madrid", "tapas centro madrid"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

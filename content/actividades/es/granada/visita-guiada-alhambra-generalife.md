@@ -88,7 +88,7 @@ opinionEditorial: |
 
   Y un consejo práctico: reserva con más de 40 días de antelación. No solo te aseguras la entrada —la Alhambra se agota con semanas de margen— sino que el operador aplica un 20 % de descuento. Para una visita que ya de por sí es la más reservada, esa ventana de reserva anticipada es el mejor momento para comprar.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["visita guiada alhambra", "entradas alhambra sin colas", "palacios nazaries granada", "tour alhambra generalife", "visitar la alhambra"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-spain-hero.webp"

@@ -82,7 +82,7 @@ opinionEditorial: |
 
   What you need to know before booking: the booking is NON-REFUNDABLE. Zero refund if you cancel or change, for any reason. If your plans could shift, look at the options with free cancellation in the comparison. And one warning that comes up repeatedly in the reviews: bring your ORIGINAL passport or ID — a photocopy will not do; apparently it is not clear in the booking instructions and some travellers have had trouble getting in. With that sorted, it is one of the most reliable options in the group.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra small group tour", "alhambra skip the line", "alhambra generalife tour", "nasrid palaces small group", "alhambra tickets granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"

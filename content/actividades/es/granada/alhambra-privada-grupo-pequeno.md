@@ -81,7 +81,7 @@ opinionEditorial: |
 
   Lo que tienes que saber antes de reservar: la reserva NO es reembolsable —cero devolución si cancelas o cambias—. Si tus planes pueden moverse, mira las opciones con cancelación gratuita del comparador (de hecho, hay un tour privado de la Alhambra que sí la tiene). Dos detalles más: el operador NO incluye auriculares, así que en la opción de grupo dependes de oír bien al guía en directo; y avisa de forma destacada de que hay que dar los datos del pasaporte de todos los participantes al reservar, sin lo cual la Alhambra puede denegar el acceso. Resuelto eso, cumple.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra grupo pequeno", "alhambra tour privado", "visita alhambra sin colas", "palacios nazaries granada", "entradas alhambra granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"

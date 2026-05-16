@@ -88,7 +88,7 @@ opinionEditorial: |
 
   And a practical tip: book more than 40 days ahead. You not only secure your ticket — the Alhambra sells out weeks in advance — but the operator also applies a 20% discount. For a tour that is already the most-booked, that early-booking window is the best time to buy.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra guided tour", "alhambra skip the line tickets", "nasrid palaces granada", "alhambra generalife tour", "visit the alhambra"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-spain-hero.webp"

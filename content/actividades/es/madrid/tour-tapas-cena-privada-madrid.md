@@ -81,7 +81,7 @@ opinionEditorial: |
 
   Lo que tienes que valorar antes de reservar es el precio: 117 euros es de lo más caro del cluster de tapas de Madrid. Lo justifica el formato —cena sentada, grupo muy reducido, vino sin límite—, pero si lo que buscabas era un tapeo más informal y económico, hay opciones por la mitad. Un apunte de transparencia: el operador atiende dietas especiales y alergias, pero deja claro que no puede garantizar cero contaminación cruzada. Y no es accesible en silla de ruedas.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour de tapas con cena madrid", "tour gastronomico madrid grupo pequeno", "tour tapas vino sin fondo", "cena privada tapas madrid", "tour gastronomico premium madrid"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"

@@ -91,7 +91,7 @@ opinionEditorial: |
 
   What you pay: €68 for base option. For that price you get group of 8, qualified guide, Sant Joan funicular (Montserrat's most interesting upgrade), park hike and included hiking poles. If you want nature + small group + multilingual, this option offers most versatility.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat funicular", "montserrat small group", "montserrat sant joan", "montserrat scenic tour", "unique tours barcelona"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

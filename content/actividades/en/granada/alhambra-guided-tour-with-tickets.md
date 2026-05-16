@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Two things make it stand out beyond the score. First: the operator secures tickets even when the official website shows «sold out», which is a real insurance policy in high season. Second: it's one of the friendliest visits for travelling with children — no age restriction, content adapted, and interactive games along the way. If you're travelling as a family, that detail counts.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra guided tour with tickets", "best alhambra tour", "alhambra small group", "alhambra tour with kids", "alhambra nasrid palaces granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-spain-fortress-castle-architecture-hero.webp"

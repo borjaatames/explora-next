@@ -106,7 +106,7 @@ opinionEditorial: |
 
   Si tu prioridad es solo Toledo (no Segovia), te conviene más el [Toledo día completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo) (79€ con Catedral incluida). Si quieres añadir Ávila a Toledo+Segovia, mira el combo de [3 ciudades](/ciudades/madrid/actividades/excursion-toledo-segovia-avila).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion toledo segovia almuerzo", "tour amigo tours toledo segovia", "toledo segovia damasquinado", "alcazar segovia entrada", "tour combinado madrid economico"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

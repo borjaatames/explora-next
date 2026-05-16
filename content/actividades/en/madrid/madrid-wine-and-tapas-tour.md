@@ -85,7 +85,7 @@ opinionEditorial: |
 
   The catch worth knowing: the tour is offered in English plus one other language, but the operator doesn't specify which on Viator. If you need a specific language other than English, confirm before booking. Also, this is a walking tour at moderate pace on cobblestone streets — not ideal if mobility is an issue or if you were hoping for a sit-down format. For a sit-down market experience, a different operator suits better.
 # ─── 11. CATEGORIZATION AND SEO ────────────────────────────────────────────
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid tapas tour", "madrid wine tour", "barrio de las letras", "small group tapas", "spanish food tour"]
 
 

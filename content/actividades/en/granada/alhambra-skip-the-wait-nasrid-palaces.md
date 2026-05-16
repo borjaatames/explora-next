@@ -85,7 +85,7 @@ opinionEditorial: |
 
   My reading: it's the option to consider if you come with a requirement the more standard visits don't cover — the language, the format, the themed workshop — or if you want pickup as an add-on. If what you want is a conventional guided visit at the best price, there are cheaper options with more reviews in this same comparison.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra skip the wait", "alhambra guided tour languages", "alhambra small group or private", "alhambra tour granada", "alhambra nasrid palaces"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"

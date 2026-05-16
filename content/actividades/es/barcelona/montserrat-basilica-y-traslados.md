@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Lo que conviene tener claro: NO incluye la Moreneta (la Virgen Negra), que es lo que mucha gente espera. Si quieres tocarla, reserva una variante que la incluya explícitamente o compra la entrada por separado en el sitio (suele agotarse). Y las 3 horas libres son un arma de doble filo: si vas con plan claro (ruta concreta, funicular, museo) es ideal; si vas a improvisar, puedes quedarte sin saber qué hacer.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat barato", "montserrat medio dia", "tour montserrat basilica", "excursion economica montserrat", "montserrat desde barcelona"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

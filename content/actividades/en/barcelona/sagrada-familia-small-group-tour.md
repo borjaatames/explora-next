@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Its real strong point, beyond the small group, is accessibility: it's the guided visit that expressly declares wheelchair access, with special entry to the monument. If that's your need, this is the option in the comparison. What it doesn't include are the towers or any transfer, and the meeting point — by the Modernist Lamppost, between the KFC and the Hard Rock — is a busy one: arrive with time to spare. If the large group doesn't bother you, the skip-the-line guided tour is cheaper; if you want one-to-one attention, the jump is to the private tour.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia small group", "sagrada familia guided tour", "sagrada familia accessible", "sagrada familia wheelchair", "sagrada familia skip the line tour"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp"

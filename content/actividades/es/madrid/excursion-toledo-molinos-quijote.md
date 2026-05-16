@@ -102,7 +102,7 @@ opinionEditorial: |
 
   Y un detalle: el almuerzo es **degustación**, no menú a la carta. Hay variedad y abundancia, pero quien busca un menú clásico con primer y segundo plato puede sentirse un poco confundido por la ración tipo aperitivo extendido. Para vegetarianos/celíacos hay que avisar al reservar.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion toledo molinos quijote", "consuegra molinos viento desde madrid", "tour quijote la mancha", "toledo y molinos cervantes", "excursion premium toledo grupo pequeño"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

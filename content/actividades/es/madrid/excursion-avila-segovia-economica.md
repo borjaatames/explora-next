@@ -87,7 +87,7 @@ opinionEditorial: |
 
   Lo que el marketing no te cuenta: "escapada" aquí significa exteriores. No se entra a la Catedral ni al Alcázar de Segovia, ni a la Basílica de San Vicente, ni se sube a la muralla de Ávila. Si esperabas pisar esos monumentos, te vas a quedar con las ganas: para eso está la [versión con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas), que cuesta más precisamente por eso. Y como toda excursión de dos ciudades en un día, el ritmo es ágil y la movilidad reducida lo tiene difícil.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion barata avila segovia", "avila segovia desde madrid economica", "excursion avila y segovia", "tour avila segovia barato", "escapada avila segovia madrid"]
 
 imagen: "/images/actividades/madrid/avila/avila-murallas-01-hero.webp"

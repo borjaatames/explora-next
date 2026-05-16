@@ -97,7 +97,7 @@ opinionEditorial: |
 
   Lo que conviene saber: los grupos son de 20 personas y el operador comparte transporte con otros grupos. Si quieres formato íntimo, mira [In Out con recogida en hotel](/ciudades/barcelona/actividades/montserrat-grupo-pequeno-recogida-hotel).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat cremallera bodega", "tour montserrat castlexperience", "montserrat virgen negra bodega", "excursion montserrat completa"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

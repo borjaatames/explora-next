@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Dos avisos honestos. El primero: no es accesible —el operador lo dice claramente—, así que si necesitas silla de ruedas, descártala y mira la visita guiada en grupo reducido. El segundo: hay reseñas que mencionan que la parte guiada a veces dura algo menos de lo anunciado; aquí pesa poco, porque el tiempo libre posterior lo compensa, pero si esperas exactamente 90 minutos de guía, tenlo en cuenta. No incluye torres.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour sagrada familia tiempo libre", "sagrada familia grupo reducido", "visita guiada sagrada familia", "sagrada familia museo gaudi", "sagrada familia sin colas"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp"

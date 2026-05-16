@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Pero hay que entender qué se compra. Lo primero, y donde más gente se lleva un susto: **las entradas a la Sagrada Familia y al Park Güell no están incluidas** en el precio base; se pagan aparte al guía, 44 € por persona (salvo que reserves la opción privada, que sí las incluye). Lo segundo: **el guía no entra contigo** a los monumentos —te lleva hasta la puerta y entras con la entrada—; la parte guiada es la ciudad. Si eso encaja con lo que buscas, es un día redondo y muy bien valorado. Si lo que quieres es la Sagrada Familia explicada por dentro, esto no es una visita al templo: es un tour de ciudad que pasa por él.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["barcelona en un dia", "tour dia completo barcelona", "sagrada familia y park guell", "tour barcelona con recogida hotel", "que ver en barcelona en un dia"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-view-barcelona-blooming-trees-hero.webp"

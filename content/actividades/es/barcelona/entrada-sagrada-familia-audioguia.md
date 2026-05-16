@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Ahora la pega real. La audioguía es una app en TU móvil, con TUS auriculares: si te quedas sin batería, te quedas sin narración. No incluye subir a las torres —es un extra que se paga aparte— ni guía humano, así que si quieres entender el simbolismo a fondo, una visita guiada rinde más. Y la ventana de cancelación es de 48 horas, no de 24 como en casi todas las demás opciones: tienes algo menos de margen para decidir a última hora. Con eso claro, es la mejor relación calidad-precio para una primera visita.
 
-categoria: "cultural"
+categoria: "entradas"
 keywords: ["entrada sagrada familia", "sagrada familia audioguia", "entradas sagrada familia barcelona", "sagrada familia sin colas", "visitar sagrada familia", "ticket sagrada familia"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp"

@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Dos matices honestos. El primero: los auriculares solo se reparten si el grupo pasa de 10 personas; en grupos pequeños se oye bien al guía igualmente, pero conviene saberlo. El segundo: es una visita ágil, no exhaustiva —si quieres una explicación larga y pausada, una guiada de hora y media te dará más—. No incluye torres. Para una primera visita con tiempo ajustado y sin líos de idioma, es de las opciones más limpias de la página.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour sagrada familia rapido", "visita guiada sagrada familia en espanol", "sagrada familia sin colas", "sagrada familia accesible", "tour express sagrada familia"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp"

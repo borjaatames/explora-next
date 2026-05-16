@@ -94,7 +94,7 @@ opinionEditorial: |
 
   Lo que conviene saber: 9,5 horas son MUCHAS horas. Si tu energía no aguanta tanto tiempo en grupo, considera variantes de 6-7 h. La salida a las 8:30 obliga a madrugar. Y los grupos son de 20 personas, no íntimos.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat dia completo", "montserrat virgen negra bodega", "moreneta montserrat castlexperience", "montserrat almuerzo bodega"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: no es un plan de tapas urbano ni una sobremesa improvisada. Son 145 euros y 6 horas, hay que salir de la ciudad y el foco está en la cata, no en la comida —los aperitivos sustituyen al almuerzo, pero no son un menú—. Si lo que buscabas era picar tapas paseando por el centro de Madrid, este no es tu tour; mira los de tapas a pie. Y si vas con niños menores de 12 años, directamente no pueden participar.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour bodegas madrid", "cata de vinos madrid", "enoturismo madrid", "tour vino chinchon", "bodegas region de madrid"]
 
 imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"

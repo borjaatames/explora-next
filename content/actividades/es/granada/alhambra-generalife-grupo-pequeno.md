@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Lo que tienes que saber antes de reservar: la reserva NO es reembolsable. Cero devolución si cancelas o cambias, por cualquier motivo. Si tus planes pueden moverse, mira las opciones con cancelación gratuita del comparador. Y un aviso que sale repetido en las reseñas: lleva el pasaporte o DNI ORIGINAL —no vale fotocopia—; al parecer no queda claro en las instrucciones de la reserva y a algún viajero le ha costado el acceso. Resuelto eso, es de las opciones más fiables del grupo.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra grupo pequeno", "visita alhambra sin colas", "tour alhambra generalife", "palacios nazaries grupo reducido", "entradas alhambra granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"

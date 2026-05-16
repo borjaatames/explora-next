@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Worth knowing: the tour is bilingual Spanish + English to the same group, just like Julià Travel. If that matters, look at small-group variants with single-language guide.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat full day", "montserrat audio guide", "montserrat rack railway full day", "montserrat escolania", "catalunya bus turistic"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

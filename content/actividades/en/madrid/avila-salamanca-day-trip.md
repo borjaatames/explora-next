@@ -85,7 +85,7 @@ opinionEditorial: |
 
   What the marketing doesn't tell you: two things. First, the narration is "bilingual", not a separate Spanish-only group; the guide alternates languages with the same group, so the explanation time in each language is halved. Second, the entries to Salamanca Cathedral and the walls of Ávila are not included by default: they are an option with an extra cost. Check carefully which version you book. And, like any long trip with cobbled streets, it is not for reduced mobility.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["avila and salamanca day trip from madrid", "salamanca from madrid one day", "avila salamanca tour", "visit salamanca from madrid", "salamanca day trip madrid"]
 
 imagen: "/images/actividades/madrid/avila/avila-fortress-citadel-fortification-hero.webp"

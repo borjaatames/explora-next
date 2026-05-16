@@ -98,7 +98,7 @@ opinionEditorial: |
 
   Otra cosa importante: **la entrada a la Catedral NO está incluida**. Si quieres entrar son 12-15€ extra in situ. Si tu prioridad es la Catedral por dentro, el [Toledo día completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo) (79€) la incluye y sale más barato.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo en ave desde madrid", "tour grupo pequeño toledo", "excursion toledo tren alta velocidad", "ave madrid toledo guiado", "visitar toledo desde madrid en tren"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

@@ -106,7 +106,7 @@ opinionEditorial: |
 
   If your priority is just Toledo (not Segovia), the [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79 with Cathedral included) is a better fit. If you want to add Ávila to Toledo+Segovia, see the [3-cities combo](/en/cities/madrid/activities/toledo-segovia-avila-from-madrid).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo and segovia with lunch", "amigo tours toledo segovia", "toledo segovia damascene", "alcazar segovia entry", "cheap combined day trip madrid"]
 
 imagen: "/images/actividades/madrid/segovia/acueducto-hero.webp"

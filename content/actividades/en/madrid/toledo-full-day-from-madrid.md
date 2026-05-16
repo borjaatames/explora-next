@@ -84,7 +84,7 @@ opinionEditorial: |
 
   What marketing won't tell you: the tour is "bilingual", not English-only. The guide alternates languages for the same group, so net explanation time in English is roughly half. If translation pauses bother you, look for an English-only group tour or a private guide. Lunch is not included either: budget €15-25 extra for food in Toledo.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo full day tour", "toledo from madrid", "madrid to toledo day trip", "toledo cathedral tour", "toledo guided day trip"]
 
 imagen: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"

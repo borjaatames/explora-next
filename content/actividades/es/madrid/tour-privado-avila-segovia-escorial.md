@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: el precio. Al ser un tour privado, lo que pagas es el vehículo y el guía en exclusiva, así que el coste por persona solo tiene sentido en grupo —cuantos más seáis, mejor sale—. Si viajáis dos personas, el precio por cabeza es alto frente a una excursión compartida. La otra cosa: encadenar tres destinos en un día sigue siendo un día intenso, aunque sea privado, y la entrada incluida es la de El Escorial, no la de los monumentos de Ávila y Segovia. Si vais con presupuesto ajustado, una [excursión compartida](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas) cumple por mucho menos.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["tour privado avila segovia escorial", "excursion privada desde madrid", "avila segovia escorial un dia", "tour privado escorial", "excursion privada avila segovia"]
 
 imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp"

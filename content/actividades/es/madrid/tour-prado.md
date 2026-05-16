@@ -83,7 +83,7 @@ opinionEditorial: |
   en Madrid y quieres ver también el Palacio Real, el tour combinado
   es mejor opción que esta visita más Palacio por separado.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["museo prado", "velazquez", "goya", "arte madrid", "tour prado"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

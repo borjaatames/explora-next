@@ -82,7 +82,7 @@ opinionEditorial: |
 
   What's worth knowing before you book: it is a long day, almost twelve hours, and a significant part of it is coach travel, because Cuenca is further than Ávila or Segovia. Even the people who enjoy it ask for more free time to wander Cuenca at leisure. If long stretches on the road tire you, or you want a shorter getaway, this isn't your best option. And if mobility is an issue, skip it: the Enchanted City is walked along uneven natural paths.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["cuenca day trip from madrid", "enchanted city cuenca", "cuenca tour one day", "visit cuenca from madrid", "ciudad encantada tour"]
 
 imagen: "/images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-t5l9wd9evcq-unsplash-hero.webp"

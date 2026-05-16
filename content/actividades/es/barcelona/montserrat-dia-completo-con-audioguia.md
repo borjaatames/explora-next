@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Lo que conviene saber: el tour es bilingüe español + inglés al mismo grupo, igual que Julià Travel. Si te importa, mira variantes en grupo pequeño con guía solo en tu idioma.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat dia completo", "montserrat audioguia", "montserrat cremallera dia completo", "tour montserrat escolania", "catalunya bus turistic"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

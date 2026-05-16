@@ -86,7 +86,7 @@ opinionEditorial: |
 
   Lo que el marketing no te cuenta: "día completo" no significa "con todo incluido". No entra ninguna entrada a monumentos —ni la Catedral ni el Alcázar de Segovia, ni se sube a la muralla de Ávila—; el Alcázar es una opción con coste extra. Si dabas por hecho que pisarías esos monumentos, mira la [versión con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas) o el [tour de Segovia con Catedral y Alcázar](/ciudades/madrid/actividades/excursion-segovia-catedral-alcazar). El grupo además puede ser grande, de hasta 50 personas. Y no es accesible en silla de ruedas.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion avila y segovia desde madrid", "avila segovia dia completo", "tour avila segovia bilingue", "visitar avila y segovia", "excursion avila segovia madrid"]
 
 imagen: "/images/actividades/madrid/avila/avila-spain-ramparts-wall-medieval-town-hero.webp"

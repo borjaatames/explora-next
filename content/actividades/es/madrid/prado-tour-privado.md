@@ -76,7 +76,7 @@ opinionEditorial: |
   ventaja: el guía se adapta a vuestro ritmo, intereses y preguntas, y
   la recogida en hotel ahorra tiempo y dudas con el transporte.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour privado prado", "guia privado madrid prado", "visita privada museo", "prado privado español"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

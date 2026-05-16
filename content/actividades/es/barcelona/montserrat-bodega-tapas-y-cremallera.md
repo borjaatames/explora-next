@@ -96,7 +96,7 @@ opinionEditorial: |
 
   La opción de tour de tapas en español es un plus diferencial: pocos operadores la ofrecen explícitamente. Para hispanohablantes que valoran tener guía en su idioma sin tener que escuchar pausas de inglés alternadas, esta es la variante ideal.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat cremallera bodega tapas", "tour montserrat dia completo", "castlexperience montserrat", "oller del mas montserrat", "montserrat tapas espanol"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

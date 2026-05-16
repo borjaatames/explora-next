@@ -78,7 +78,7 @@ opinionEditorial: |
   Madrid and also want the Royal Palace, the combined tour beats
   doing this one and the Palace separately.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["prado museum tour", "skip the line prado", "velazquez goya tour madrid", "prado guided tour english"]
 
 imagen: "/images/actividades/madrid/prado/fachada-principal.webp"

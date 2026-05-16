@@ -85,7 +85,7 @@ opinionEditorial: |
 
   The catch is operational: the meeting point varies and is confirmed at booking, which adds a small step (and a chance for confusion if you book on the move). Also, the average booking lead time is 49 days — the longest of any tour we cover — so don't expect last-minute availability. If your trip is fixed and you're in town in high season, this should be one of the first things you book.
 # ─── 11. CATEGORIZATION AND SEO ────────────────────────────────────────────
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid food tour", "secret food tours madrid", "tapas tour madrid", "spanish tortilla tour", "padron peppers madrid"]
 
 

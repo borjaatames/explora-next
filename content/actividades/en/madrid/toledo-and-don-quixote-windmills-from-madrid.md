@@ -102,7 +102,7 @@ opinionEditorial: |
 
   And one detail: lunch is **tasting**, not à la carte. There's variety and abundance, but anyone expecting a classic main-course menu may feel slightly puzzled by the extended-aperitif format. Vegetarians/celiacs must notify at booking.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["don quixote windmills tour", "consuegra windmills from madrid", "toledo and don quixote la mancha", "premium toledo small group", "windmills cervantes spain"]
 
 imagen: "/images/actividades/madrid/toledo/patio-columnas.webp"

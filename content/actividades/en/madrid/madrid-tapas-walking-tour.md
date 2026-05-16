@@ -86,7 +86,7 @@ opinionEditorial: |
 
   Two caveats. First, the format is "no celiac, no vegan." The operator explicitly cannot accommodate gluten-free, and vegan isn't on the menu either — vegetarian is the only flexibility. If you have these restrictions, pick a different tour. Second, the volume of reviews (151) is significantly lower than the other three tours we cover (840 to 3,830). The 5-star average is great, but 151 reviews is less statistical certainty than 3,830. For a small-rating tour, the upside is that the operator is still in early-growth mode and may be more attentive than the high-volume incumbents.
 # ─── 11. CATEGORIZATION AND SEO ────────────────────────────────────────────
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["la latina madrid", "madrid tapas walking tour", "cava baja tapas", "tinto de verano madrid", "madrid food walk"]
 
 

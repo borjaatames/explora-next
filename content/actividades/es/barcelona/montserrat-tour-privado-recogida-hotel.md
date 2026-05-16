@@ -93,7 +93,7 @@ opinionEditorial: |
 
   ¿Para quién? Para escapadas de aniversario, viajes de novios, familias con niños pequeños donde el ritmo flexible es importante, o viajeros que valoran la exclusividad. Si vas solo a "ver Montserrat", las opciones compartidas son perfectamente válidas y mucho más baratas.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat tour privado", "montserrat exclusivo familia", "in out barcelona tours privado", "tour privado montserrat barcelona", "montserrat sin grupo"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

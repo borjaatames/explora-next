@@ -24,40 +24,38 @@ const SITE_URL =
 const IDIOMA = "en" as const;
 
 /**
- * Adjective form used to build natural English headings such as
- * "Cultural things to do in Madrid". The label from
- * `dict.actividades.categorias` is the user-facing tag (e.g. "Food & drink")
- * which doesn't always read naturally inside a long heading.
+ * Plural label used as both the user-facing category name and inside the
+ * H1 / meta. The new categories are already commercial nouns in plural,
+ * so we reuse the same label for both purposes.
  */
-const ADJETIVO_CATEGORIA: Record<CategoriaActividad, string> = {
-  cultural: "Cultural",
-  gastronomico: "Food & drink",
-  aireLibre: "Outdoor",
-  nocturno: "Nightlife",
-  excursion: "Day-trip",
-  familiar: "Family-friendly",
+const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
+  visitasGuiadas: "Guided tours",
+  entradas: "Tickets",
+  excursionesDia: "Day trips",
+  espectaculos: "Shows",
+  toursGastronomicos: "Food tours",
+  serviciosAdicionales: "Add-ons",
+  transporte: "Transport",
 };
 
 /**
  * Builds editorial copy (h1, description, meta) for a given category.
- * Special case `excursion`: in English, "Day trips from {city}" reads
- * far more naturally than "Day-trip things to do in {city}".
+ * Special case `excursionesDia`: "Day trips from {city}" reads more
+ * naturally than "Day trips in {city}".
  */
 function textosCategoria(
   categoria: CategoriaActividad,
   nombreCiudad: string
 ): { titulo: string; descripcion: string } {
-  if (categoria === "excursion") {
-    return {
-      titulo: `Day trips from ${nombreCiudad}`,
-      descripcion: `Handpicked day trips from ${nombreCiudad}. No filler — only what we'd actually recommend.`,
-    };
-  }
+  const label = LABEL_CATEGORIA[categoria];
+  const preposicion =
+    categoria === "excursionesDia"
+      ? `from ${nombreCiudad}`
+      : `in ${nombreCiudad}`;
 
-  const adjetivo = ADJETIVO_CATEGORIA[categoria];
   return {
-    titulo: `${adjetivo} things to do in ${nombreCiudad}`,
-    descripcion: `${adjetivo} tours and experiences in ${nombreCiudad}, picked with editorial criteria. No filler.`,
+    titulo: `${label} ${preposicion}`,
+    descripcion: `${label} ${preposicion}, hand-picked with editorial criteria. No filler.`,
   };
 }
 

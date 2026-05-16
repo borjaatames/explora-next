@@ -85,7 +85,7 @@ opinionEditorial: |
 
   The honesty caveat: the Viator title leans on "rooftop views" but recent travellers report this is a marginal feature — most of the tour is indoors at traditional venues, and the rooftop is essentially the last stop. Book this for the depth of the food experience and the bilingual guide, not for rooftop bars. If a rooftop ambience is what you actually want, you'll get more of that at a dedicated cocktail tour, not here.
 # ─── 11. CATEGORIZATION AND SEO ────────────────────────────────────────────
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["madrid tapas tour", "madrid food tour", "spanish food experience", "tapas with local guide", "old town madrid"]
 
 

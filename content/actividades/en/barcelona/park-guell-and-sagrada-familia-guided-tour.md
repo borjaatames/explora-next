@@ -79,7 +79,7 @@ opinionEditorial: |
 
   The one thing to be clear about: this listing is **English only**. The operator runs it as a single-language tour on purpose — no waiting while explanations are repeated — but it does mean there is no Spanish-speaking version of this exact product. If you want these two sites with a Spanish guide, the Sagrada Familia and Park Güell guided tour in the comparison covers the same ground. It doesn't include the Sagrada Familia towers, and Park Güell has slopes, so come in comfortable shoes.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["park guell and sagrada familia tour", "gaudi tour barcelona", "sagrada familia park guell tickets", "barcelona gaudi masterpieces", "skip the line gaudi tour"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp"

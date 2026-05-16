@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Worth knowing in advance: it's bilingual (Spanish + English in the same group), so translation pauses reduce net explanation time in your language. Groups can be large (full coach). And the 65 minutes of free time can feel short if you wanted to take the Sant Joan funicular or do a short trail. If those points bother you, consider the small-group variant or the private tour.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat rack railway", "montserrat black madonna tour", "moreneta montserrat", "montserrat half day", "visit montserrat from barcelona"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

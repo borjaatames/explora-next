@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Now the real catch. The audio guide is an app on YOUR phone, with YOUR headphones: if you run out of battery, you run out of narration. It does not include going up the towers — that is a separate paid extra — nor a human guide, so if you want to understand the symbolism in depth, a guided tour delivers more. And the cancellation window is 48 hours, not 24 like almost all the others: slightly less room to decide at the last minute. With that clear, it is the best value for money for a first visit.
 
-categoria: "cultural"
+categoria: "entradas"
 keywords: ["sagrada familia ticket", "sagrada familia audio guide", "sagrada familia tickets barcelona", "sagrada familia skip the line", "visit sagrada familia", "sagrada familia entry"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp"

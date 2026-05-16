@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Donde sí brilla es como **complemento o como experiencia en sí misma**. Si ya conoces la Alhambra de día, o si vas a estar varios días en Granada, la visita nocturna a los palacios iluminados es de las cosas más memorables que se pueden hacer en la ciudad. Y un apunte práctico: el acceso en silla de ruedas es muy limitado y no se permite entrar con carritos de bebé, así que tenlo en cuenta si viajas con peques o necesitas accesibilidad.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["visita nocturna alhambra", "alhambra de noche", "palacios nazaries iluminados", "alhambra nocturna granada", "tour nocturno alhambra"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"

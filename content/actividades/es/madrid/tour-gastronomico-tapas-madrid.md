@@ -83,7 +83,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: dos matices. El primero, que es un tour gastronómico, no de vinos —una reseña se quejó de que el vino solo aparecía en una parada y el propio operador lo aclaró—; si lo que buscas es cata de vino, no es este. El segundo, importante: las personas con alergias alimentarias graves no pueden participar, por motivos de seguridad. Hay opciones vegetarianas, pero conviene avisar al reservar. Y no es accesible en silla de ruedas.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour gastronomico madrid", "tour de tapas centro madrid", "ruta de tapas madrid", "tour gastronomico tapas madrid", "tapas guia local madrid"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp"

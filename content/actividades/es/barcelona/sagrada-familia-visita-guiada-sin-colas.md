@@ -80,7 +80,7 @@ opinionEditorial: |
 
   La pega real es que es un grupo estándar, no reducido: en temporada alta puede ser numeroso, y el refuerzo de audio personal solo se reparte si sois más de 10. No incluye subir a las torres y el punto de encuentro —entre el Hard Rock y el KFC, en la parte de atrás de la basílica— es de los concurridos, así que llega con margen. Si quieres un grupo más pequeño o subir a una torre, hay opciones específicas en el comparador; para todo lo demás, esta es la apuesta sólida.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["visita guiada sagrada familia", "sagrada familia sin colas", "tour sagrada familia", "entradas guiadas sagrada familia", "sagrada familia guia oficial"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"

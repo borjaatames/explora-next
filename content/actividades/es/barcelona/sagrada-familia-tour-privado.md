@@ -77,7 +77,7 @@ opinionEditorial: |
 
   Pero hay un detalle que cambia toda la decisión: **la entrada a la basílica NO está incluida**. El precio, desde 160 € por persona, paga solo al guía. La entrada la compras tú por separado y con antelación —y tienes que hacerlo antes de reservar este tour, porque dentro de las 24 horas previas no hay reembolso—. Es decir: el coste real es 160 € más el ticket oficial. Con ese cálculo claro, es un privado honesto y bien valorado; sin tenerlo claro, te llevas una sorpresa en la puerta. Si lo que quieres es atención cercana sin llegar a este precio, la visita guiada en grupo reducido es el escalón intermedio.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour privado sagrada familia", "sagrada familia guia privado", "visita privada sagrada familia", "sagrada familia guia oficial", "sagrada familia tour personalizado"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero.webp"

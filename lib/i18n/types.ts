@@ -78,12 +78,13 @@ export type Diccionario = {
     valoracion: string;
     opiniones: string;
     categorias: {
-      cultural: string;
-      gastronomico: string;
-      aireLibre: string;
-      nocturno: string;
-      excursion: string;
-      familiar: string;
+      visitasGuiadas: string;
+      entradas: string;
+      excursionesDia: string;
+      espectaculos: string;
+      toursGastronomicos: string;
+      serviciosAdicionales: string;
+      transporte: string;
     };
     faqEnCiudad: string;
   };

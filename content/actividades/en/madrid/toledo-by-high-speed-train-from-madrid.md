@@ -98,7 +98,7 @@ opinionEditorial: |
 
   Another important point: **Cathedral entry is NOT included**. If you want to enter, it's €12-15 extra at the box office. If your priority is the Cathedral interior, the [full-day tour](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79) includes it and works out cheaper.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo by ave train", "toledo from madrid by train", "high-speed train madrid toledo", "small group toledo tour", "toledo premium day trip"]
 
 imagen: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"

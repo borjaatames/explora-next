@@ -87,7 +87,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: el sistema de opciones. Las entradas a la Catedral y al Alcázar NO van en el precio base —son extras según la versión que elijas—, así que revisa bien qué reservas para no llevarte una sorpresa. Y un aviso operativo que sale en las reseñas: hay que llegar puntual al punto de encuentro; a algún viajero le ha costado el tour por unos minutos de retraso. El nivel de inglés del guía puede ser irregular, por si ese es tu idioma. No es accesible en silla de ruedas.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion segovia desde madrid", "segovia catedral alcazar", "tour segovia medio dia", "visitar segovia desde madrid", "excursion segovia acueducto"]
 
 imagen: "/images/actividades/madrid/segovia/segovia-alcazar-hero.webp"

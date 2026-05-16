@@ -63,12 +63,13 @@
     "valoracion": "Rating",
     "opiniones": "reviews",
     "categorias": {
-      "cultural": "Culture",
-      "gastronomico": "Food & drink",
-      "aireLibre": "Outdoors",
-      "nocturno": "Nightlife",
-      "excursion": "Day trips",
-      "familiar": "Family-friendly"
+      "visitasGuiadas": "Guided tours",
+      "entradas": "Tickets",
+      "excursionesDia": "Day trips",
+      "espectaculos": "Shows",
+      "toursGastronomicos": "Food tours",
+      "serviciosAdicionales": "Add-ons",
+      "transporte": "Transport"
     },
     "faqEnCiudad": "Frequently asked questions about things to do in {ciudad}"
   },

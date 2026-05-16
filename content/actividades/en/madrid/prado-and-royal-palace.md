@@ -80,7 +80,7 @@ opinionEditorial: |
   issues. If you're solo or as a couple, it's great value. If you're
   with a family with young kids, it can feel like a marathon.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["royal palace prado tour", "madrid must see guided tour", "madrid combined tour", "skip the line royal palace prado"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

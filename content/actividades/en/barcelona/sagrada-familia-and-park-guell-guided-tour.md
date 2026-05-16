@@ -83,7 +83,7 @@ opinionEditorial: |
 
   Honestly: it isn't cheap — from €119 — and it isn't accessible. Park Güell, moreover, has stairs and uphill stretches in its first part, so weigh it up if you have limited mobility. On language: the activity is offered in Spanish and English with separate groups, but confirm your departure's at booking so there are no surprises. If you want Gaudí's two jewels well explained in half a day with nothing to organise, it's the most direct option; if you only care about the Sagrada Familia, a guided tour of the temple costs much less.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia and park guell", "park guell sagrada familia tour", "gaudi combo barcelona", "sagrada familia park guell skip the line", "gaudi guided tour barcelona"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero.webp"

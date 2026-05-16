@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: dos detalles. La copa de cava o cóctel en la azotea solo va incluida en el tour de tarde; si reservas el de las 11:30 h, en su lugar tienes una degustación extra de tapas. Y el tour empieza en la Plaza de San Miguel y acaba en la Gran Vía, así que organiza lo de después contando con que terminas en otro punto. El precio (desde 98 €) está en la franja alta del cluster, justificado por las raciones generosas y la azotea; si buscabas algo más informal y barato, hay opciones por menos. No es accesible en silla de ruedas.
 
-categoria: "gastronomico"
+categoria: "toursGastronomicos"
 keywords: ["tour de tapas y vinos madrid", "tour tapas azotea madrid", "tour gastronomico madrid centro", "tapas mercado san miguel", "ruta de tapas madrid azotea"]
 
 imagen: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-2018-hero.webp"

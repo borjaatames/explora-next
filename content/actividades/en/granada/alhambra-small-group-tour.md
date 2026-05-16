@@ -87,7 +87,7 @@ opinionEditorial: |
 
   On accessibility it's one of the more reasonable in the comparison: it isn't a fully adapted visit, but the operator does account for an alternative route for wheelchairs and the guide explains it at the start. It isn't a full guarantee, so it's worth confirming before booking, but at least it isn't a flat «no» like other options.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra small group tour", "alhambra guided tour granada", "alhambra nasrid palaces tickets", "alhambra generalife tour", "small group alhambra"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"

@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Now the honest part. Its average score is among the lowest of the guided options (4.4) and the value-for-money score sits at 3.9 — the weak point travellers themselves point out. The recurring complaint is the bilingual departure: when the guide alternates Spanish and English in the same group, you lose the thread. If you book, pick the single-language option. And if what you want is simply the best combination of score and price, the skip-the-line guided tour in the comparison delivers more for less money.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia guided tour", "sagrada familia in english", "sagrada familia skip the line visit", "sagrada familia group tour", "sagrada familia barcelona guide"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp"

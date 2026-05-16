@@ -97,7 +97,7 @@ opinionEditorial: |
 
   And an important detail: **the tasting is not a meal**. You'll have 3 glasses with tapas, but you'll come out genuinely hungry. Plan to eat in Toledo (€15-25 extra) after the tasting, or bring snacks.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["toledo wine tasting tour", "toledo winery from madrid", "toledo 18th century winery", "toledo gastronomic tour", "wine tasting near toledo bargas"]
 
 imagen: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"

@@ -87,7 +87,7 @@ opinionEditorial: |
 
   Lo que el marketing no te cuenta: son dos ciudades Patrimonio de la Humanidad metidas en una jornada de 9 horas, y eso se nota. La queja más repetida en las reseñas es el ritmo apresurado y el poco tiempo libre. Si viajas para pasear con calma, fotografiar sin prisa y comer sin reloj, este formato te va a saber a poco; te encajará mejor dedicar un día a cada ciudad por tu cuenta. Y si la movilidad es un problema, descártala: el empedrado y las cuestas de los dos cascos históricos no perdonan.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion avila y segovia desde madrid", "avila segovia un dia", "excursion avila segovia con entradas", "visitar avila y segovia", "tour avila segovia madrid"]
 
 imagen: "/images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp"

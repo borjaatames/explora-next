@@ -85,7 +85,7 @@ opinionEditorial: |
 
   What you need to know before booking, and it's the most important thing: this booking is NON-REFUNDABLE. It allows no cancellation or changes for any reason. It is not a partial refund like other Alhambra visits — where you get 50% back — here it is zero. If your plans could change, this is not your tour: the comparison has options with free cancellation, though they usually cost a little more. Its score (4.6 over 102 reviews) is the lowest in the Alhambra group and the review count is the smallest, so it is a less well-tested option than the big ones. And it is not wheelchair accessible.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra guided tour", "alhambra guaranteed entry", "nasrid palaces tour", "alhambra tickets granada", "alhambra skip the line"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"

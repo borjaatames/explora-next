@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Lo que tienes que saber antes de reservar, y es lo más importante: esta reserva NO es reembolsable. No admite cancelación ni cambios por ningún motivo. No es una cancelación parcial como en otras visitas a la Alhambra —donde te devuelven el 50 %—, aquí es cero. Si tus planes pueden cambiar, este no es tu tour: en el comparador hay opciones con cancelación gratuita, aunque normalmente cuesten algo más. Su nota (4,6 sobre 102 reseñas) es la más baja del grupo de la Alhambra y el volumen de opiniones, el más pequeño, así que es una opción menos rodada que las grandes. Y no es accesible en silla de ruedas.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["visita guiada alhambra", "alhambra entrada garantizada", "tour alhambra palacios nazaries", "entradas alhambra granada", "alhambra sin colas"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"

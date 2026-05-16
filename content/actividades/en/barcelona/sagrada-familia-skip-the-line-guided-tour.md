@@ -80,7 +80,7 @@ opinionEditorial: |
 
   The real catch is that it's a standard group, not a small one: in high season it can be sizeable, and the personal audio booster is only handed out if you're more than 10. It doesn't include going up the towers, and the meeting point — between the Hard Rock and the KFC, behind the basilica — is a busy one, so arrive with time to spare. If you want a smaller group or to go up a tower, there are specific options in the comparison; for everything else, this is the solid pick.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia guided tour", "sagrada familia skip the line", "sagrada familia tour", "sagrada familia guided tickets", "sagrada familia official guide"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"

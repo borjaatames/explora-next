@@ -81,7 +81,7 @@ opinionEditorial: |
 
   What you need to know before booking: the booking is NON-REFUNDABLE — zero refund if you cancel or change. If your plans could shift, look at the options with free cancellation in the comparison (there is in fact a private Alhambra tour that does have it). Two more details: the operator does NOT include headsets, so on the group option you depend on hearing the guide live; and it warns prominently that you must provide the passport details of all participants at booking, without which the Alhambra can deny access. With that sorted, it delivers.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra small group tour", "alhambra private tour", "alhambra skip the line", "nasrid palaces granada", "alhambra tickets granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"

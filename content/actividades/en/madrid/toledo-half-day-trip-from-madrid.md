@@ -94,7 +94,7 @@ opinionEditorial: |
 
   The real catch: 5 hours is not 5 hours in Toledo, it's 5 hours total including transit. That translates to roughly 3 hours in the city itself, most of it on a guided walk. Don't expect free time to lose yourself in the alleys, buy marzipan unhurried, or sit at the Mirador del Valle. If that's what you want, take the full-day option or the AVE on your own.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 
 keywords: ["toledo from madrid", "toledo day trip", "toledo half day tour", "toledo coach tour", "visit toledo spain", "madrid to toledo"]
 

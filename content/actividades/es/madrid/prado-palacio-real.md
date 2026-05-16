@@ -80,7 +80,7 @@ opinionEditorial: |
   vienes en pareja o solo, sale muy a cuenta. Si vienes con familia
   con niños pequeños, puede saberte a maratón.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["palacio real prado tour", "madrid imprescindibles guiado", "tour combinado madrid", "palacio prado entrada sin colas"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

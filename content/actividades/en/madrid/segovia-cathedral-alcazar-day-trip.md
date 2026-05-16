@@ -87,7 +87,7 @@ opinionEditorial: |
 
   What's worth knowing before you book: the options system. Entries to the Cathedral and the Alcázar are NOT in the base price — they are extras depending on the version you choose — so check carefully what you book to avoid a surprise. And an operational warning that comes up in the reviews: you must arrive on time at the meeting point; some travellers have lost the tour over a few minutes' delay. The guide's English level can be uneven, in case that is your language. It is not wheelchair accessible.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["segovia day trip from madrid", "segovia cathedral alcazar", "segovia half day tour", "visit segovia from madrid", "segovia aqueduct tour"]
 
 imagen: "/images/actividades/madrid/segovia/segovia-alcazar-hero.webp"

@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Su punto fuerte real, más allá del grupo pequeño, es la accesibilidad: es la visita guiada que declara expresamente acceso en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción del comparador. Lo que no incluye son las torres ni ningún traslado, y el punto de encuentro —junto al Fanal Modernista, entre el KFC y el Hard Rock— es de los concurridos: llega con margen. Si el grupo grande no te importa, la visita guiada sin colas sale más barata; si quieres atención uno a uno, el salto es al tour privado.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia grupo reducido", "visita guiada sagrada familia", "sagrada familia accesible", "sagrada familia silla de ruedas", "tour sagrada familia sin colas"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp"

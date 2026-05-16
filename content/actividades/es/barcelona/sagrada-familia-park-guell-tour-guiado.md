@@ -83,7 +83,7 @@ opinionEditorial: |
 
   Lo honesto: no es barato —desde 119 €— y no es accesible. El Park Güell, además, tiene escaleras y cuesta arriba en su primera parte, así que valóralo si vas con poca movilidad. Sobre el idioma: la actividad se ofrece en español e inglés con grupos separados, pero confirma el de tu salida al reservar para no llevarte sorpresas. Si quieres las dos joyas de Gaudí bien explicadas en medio día y sin organizar nada, es la opción más directa; si solo te interesa la Sagrada Familia, una guiada del templo te sale por mucho menos.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia y park guell", "tour park guell sagrada familia", "combo gaudi barcelona", "entradas sin colas sagrada familia park guell", "visita guiada gaudi barcelona"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero.webp"

@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes: es bilingüe (español + inglés al mismo grupo), así que las pausas de traducción reducen el tiempo neto de explicación en tu idioma. Los grupos pueden ser grandes (autobús completo). Y los 65 minutos de tiempo libre se quedan cortos si querías subir al funicular de Sant Joan o hacer alguna ruta corta. Si esos puntos te molestan, considera la variante de grupo reducido o el privado.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat cremallera", "tour montserrat virgen negra", "moreneta montserrat", "montserrat medio dia", "visitar montserrat desde barcelona"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

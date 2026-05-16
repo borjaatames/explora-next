@@ -82,7 +82,7 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar: es una jornada larga, de casi doce horas, y una parte importante es autobús, porque Cuenca está más lejos que Ávila o Segovia. El propio público que la disfruta pide más tiempo libre para pasear Cuenca con calma. Si te cansa pasar muchas horas en carretera o quieres una escapada más corta, no es tu mejor opción. Y si la movilidad es un problema, descártala: la Ciudad Encantada se camina por senderos naturales irregulares.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion cuenca desde madrid", "ciudad encantada cuenca", "tour cuenca un dia", "visitar cuenca desde madrid", "excursion ciudad encantada"]
 
 imagen: "/images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-t5l9wd9evcq-unsplash-hero.webp"

@@ -83,7 +83,7 @@ opinionEditorial: |
 
   Lo honesto es su punto débil: la nota media (4,4) se queda por debajo de otras guiadas, y la causa que se repite en las reseñas es el idioma. Según la fecha y la hora, el grupo puede ser bilingüe, con el guía alternando dos idiomas para el mismo grupo —y ahí se pierde el hilo—. Comprueba el idioma de tu salida concreta antes de pagar. Si quieres una guiada corta, monolingüe y mejor valorada, el tour express rinde más; si quieres la mejor combinación de nota y precio en GetYourGuide, mira la visita guiada sin colas.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["visita guiada sagrada familia", "tour sagrada familia sin colas", "sagrada familia entradas guiadas", "sagrada familia barcelona tour", "sagrada familia radioguia"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp"

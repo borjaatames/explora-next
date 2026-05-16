@@ -22,43 +22,37 @@ const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
 /**
- * Plural feminino natural en español para construir frases del tipo
- * "Actividades culturales en Madrid". El label de
- * `dict.actividades.categorias` es un adjetivo en singular ("Cultural"),
- * que no encaja en frases largas. Esto solo aplica al texto en español:
- * cuando se activen otros idiomas, cada uno definirá sus propios plurales.
+ * Etiqueta editorial en plural para construir títulos del tipo
+ * "Visitas guiadas en Madrid". Las nuevas categorías son ya sustantivos
+ * comerciales en plural, así que reusamos el mismo label en H1 y meta.
  */
-const PLURAL_CATEGORIA: Record<CategoriaActividad, string> = {
-  cultural: "culturales",
-  gastronomico: "gastronómicas",
-  aireLibre: "al aire libre",
-  nocturno: "nocturnas",
-  excursion: "de un día",
-  familiar: "familiares",
+const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
+  visitasGuiadas: "Visitas guiadas",
+  entradas: "Entradas",
+  excursionesDia: "Excursiones de un día",
+  espectaculos: "Espectáculos",
+  toursGastronomicos: "Tours gastronómicos",
+  serviciosAdicionales: "Servicios adicionales",
+  transporte: "Transporte",
 };
 
 /**
  * Construye los textos editoriales (h1, descripción y meta) para una
- * categoría dada. Caso especial `excursion`: el sustantivo "actividades"
- * suena forzado con "de un día", por lo que usamos "Excursiones desde
- * {ciudad}" como fórmula natural en español.
+ * categoría dada. Caso especial `excursionesDia`: en español queda más
+ * natural "desde Madrid" que "en Madrid" (porque la actividad sale de
+ * la ciudad). El resto usa "en {ciudad}".
  */
 function textosCategoria(
   categoria: CategoriaActividad,
   nombreCiudad: string
 ): { titulo: string; descripcion: string } {
-  const plural = PLURAL_CATEGORIA[categoria];
-
-  if (categoria === "excursion") {
-    return {
-      titulo: `Excursiones ${plural} desde ${nombreCiudad}`,
-      descripcion: `Excursiones ${plural} desde ${nombreCiudad}, seleccionadas con criterio editorial.`,
-    };
-  }
+  const label = LABEL_CATEGORIA[categoria];
+  const preposicion =
+    categoria === "excursionesDia" ? `desde ${nombreCiudad}` : `en ${nombreCiudad}`;
 
   return {
-    titulo: `Actividades ${plural} en ${nombreCiudad}`,
-    descripcion: `Tours, visitas y experiencias ${plural} en ${nombreCiudad}, seleccionadas con criterio editorial.`,
+    titulo: `${label} ${preposicion}`,
+    descripcion: `${label} ${preposicion}, seleccionadas con criterio editorial.`,
   };
 }
 

@@ -95,7 +95,7 @@ opinionEditorial: |
 
   Worth knowing: 9.5 hours is A LOT. If your energy doesn't hold up that long in a group, consider 6-7h variants. The 8:30 departure means early start. And groups are 20 people, not intimate.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat full day", "montserrat black madonna winery", "moreneta montserrat castlexperience", "montserrat winery lunch"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

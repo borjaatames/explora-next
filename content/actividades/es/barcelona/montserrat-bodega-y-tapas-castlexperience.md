@@ -93,7 +93,7 @@ opinionEditorial: |
 
   Lo que no te cuentan: NO incluye el tren cremallera (al contrario que la mayoría de variantes de Castlexperience). Si te gusta la imagen icónica del cremallera subiendo por la montaña, reserva la EXB-23 (~59 €) que sí lo incluye. Y los grupos son grandes (hasta 20 personas), así que si quieres formato íntimo o recogida en hotel, considera EXB-26 (In Out, grupo de 8).
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion montserrat bodega", "tour montserrat cata vinos", "montserrat desde barcelona", "visitar montserrat desde barcelona", "montserrat tapas"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"

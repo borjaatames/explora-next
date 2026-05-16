@@ -86,7 +86,7 @@ opinionEditorial: |
 
   What the marketing doesn't tell you: "full day" doesn't mean "all included". No monument entry is included — not the Cathedral or the Alcázar of Segovia, and you don't climb the walls of Ávila; the Alcázar is an extra-cost option. If you assumed you'd set foot in those monuments, look at the [version with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) or the [Segovia tour with the Cathedral and the Alcázar](/en/cities/madrid/activities/segovia-cathedral-alcazar-day-trip). The group can also be large, up to 50 people. And it is not wheelchair accessible.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["avila and segovia day trip from madrid", "avila segovia full day", "avila segovia bilingual tour", "visit avila and segovia", "avila segovia tour madrid"]
 
 imagen: "/images/actividades/madrid/avila/avila-spain-ramparts-wall-medieval-town-hero.webp"

@@ -84,7 +84,7 @@ opinionEditorial: |
 
   Lo que el marketing no te cuenta: el ritmo es ajustado. No se puede comer en el autobús y las paradas de refrigerio son muy cortas —menos de 15 minutos según las reseñas—, así que si viajas con niños o necesitas comer con calma, lleva agua y algo de picar y cuéntalo de antemano. Hay además un código de vestimenta casual elegante para entrar a los monumentos. Y sobre el Valle de los Caídos: es un lugar con una historia que despierta opiniones encontradas en España; lo cuento como dato para que decidas con la información delante. No es accesible en silla de ruedas.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion el escorial desde madrid", "tour valle de los caidos", "monasterio escorial entradas", "excursion escorial valle caidos", "visitar el escorial desde madrid"]
 
 imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp"

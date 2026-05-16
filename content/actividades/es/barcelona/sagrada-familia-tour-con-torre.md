@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Ahora, lo honesto: la torre es más logística que espectáculo. Subes en ascensor pero bajas por una escalera estrecha, solo se accede a una torre —decide el monumento cuál—, y se cierra con lluvia o viento. No es accesible, los menores de 6 años no pueden subir, y la nota del producto (4,4) y la de relación calidad-precio (3,9) están entre las más bajas de la página. Antes de pagar el extra de la torre, plantéate si no rinde más dedicar ese dinero a otra obra de Gaudí: muchas veces compensa. Si tienes claro que quieres subir, adelante; si dudas, una guiada normal te da la basílica igual de bien por menos.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["sagrada familia con torres", "subir torre sagrada familia", "tour sagrada familia torre", "sagrada familia vistas", "entradas sagrada familia torres"]
 
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp"

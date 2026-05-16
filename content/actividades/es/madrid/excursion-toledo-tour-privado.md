@@ -91,7 +91,7 @@ opinionEditorial: |
 
   La pega real es el precio. La tarifa funciona por bloques de 2 personas: 310 € hasta 2 pax, 620 € hasta 4 pax, 930 € hasta 6 pax. Eso son 155 €/persona en pareja, 155 €/persona en grupo de 4 — competitivo para un privado, pero 5 veces más caro que el medio día Julià (29 €) y 4 veces más que el día completo Fun&Tickets (79 €). Y las entradas a Catedral, Santo Tomé y Sinagoga (12-15 €/persona) se pagan aparte. Si tu prioridad es coste, otra opción te encaja mejor. Si tu prioridad es comodidad, ritmo propio y guía dedicado, esto lo da.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["tour privado toledo desde madrid", "excursion privada toledo", "toledo con guia y chofer", "tour toledo mercedes", "visitar toledo privado"]
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────

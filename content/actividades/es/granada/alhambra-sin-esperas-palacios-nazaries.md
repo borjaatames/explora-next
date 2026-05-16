@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Mi lectura: es la opción a considerar si vienes con un requisito que las visitas más estándar no cubren —el idioma, el formato, el taller temático— o si quieres recogida como añadido. Si lo que buscas es una visita guiada convencional al mejor precio, hay opciones más económicas y con más reseñas en este mismo comparador.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra sin esperas", "visita guiada alhambra idiomas", "alhambra grupo reducido o privado", "tour alhambra granada", "alhambra palacios nazaries"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"

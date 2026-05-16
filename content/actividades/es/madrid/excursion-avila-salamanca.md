@@ -85,7 +85,7 @@ opinionEditorial: |
 
   Lo que el marketing no te cuenta: dos cosas. La primera, que la narración es "bilingüe", no en grupo separado en español; el guía alterna idiomas con el mismo grupo, así que el tiempo de explicación en cada idioma se reduce a la mitad. La segunda, que las entradas a la catedral de Salamanca y a la muralla de Ávila no van incluidas por defecto: son una opción con coste extra. Revisa bien qué versión reservas. Y, como toda excursión larga con calles empedradas, no es para movilidad reducida.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["excursion avila y salamanca desde madrid", "salamanca desde madrid un dia", "tour avila salamanca", "visitar salamanca desde madrid", "excursion salamanca madrid"]
 
 imagen: "/images/actividades/madrid/avila/avila-fortress-citadel-fortification-hero.webp"

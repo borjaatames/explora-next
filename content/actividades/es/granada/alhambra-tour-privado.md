@@ -86,7 +86,7 @@ opinionEditorial: |
 
   Dos avisos honestos antes de reservar. El operador indica expresamente que **no es apta para personas con movilidad reducida ni en silla de ruedas** —ser privado no lo cambia—. Y la **cancelación sigue siendo del 50 %**: la entrada de la Alhambra no es reembolsable ni en un privado. Con eso claro, si buscas la mejor experiencia posible y el presupuesto lo permite, es la opción más completa del comparador.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["tour privado alhambra", "alhambra guia exclusivo", "visita privada palacios nazaries", "alhambra a tu ritmo", "alhambra tour privado granada"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp"

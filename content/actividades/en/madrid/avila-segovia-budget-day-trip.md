@@ -87,7 +87,7 @@ opinionEditorial: |
 
   What the marketing doesn't tell you: "escape" here means exteriors. You don't go inside the Cathedral or the Alcázar of Segovia, or the Basilica of San Vicente, and you don't climb the Walls of Ávila. If you were expecting to set foot in those monuments, you'll be left wanting: for that there is the [version with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), which costs more for exactly that reason. And like any two-city day trip, the pace is brisk and reduced mobility has a hard time.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["cheap avila segovia day trip", "budget avila segovia from madrid", "avila and segovia tour", "affordable avila segovia tour", "avila segovia getaway madrid"]
 
 imagen: "/images/actividades/madrid/avila/avila-murallas-01-hero.webp"

@@ -82,7 +82,7 @@ opinionEditorial: |
 
   And there is a second point in its favour worth stating plainly: it is the only private Viator Alhambra option in the comparison with free cancellation up to 24 hours before. Compared with the other three Viator Alhambra options — all non-refundable — this one leaves you room if your plans change. What the operator does require, without exception, is the ID document in physical form and with the exact name on the booking. Being private, the per-person price only makes sense in a group; if there are two of you, it is expensive compared with a shared visit.
 
-categoria: "cultural"
+categoria: "visitasGuiadas"
 keywords: ["alhambra private tour", "alhambra arabic guide", "private nasrid palaces tour", "alhambra private visit granada", "alhambra arabic inscriptions"]
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp"

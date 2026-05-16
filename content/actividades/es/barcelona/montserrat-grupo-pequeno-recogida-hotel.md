@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Si vas en familia o pareja sin restricciones de presupuesto, considera el [tour privado de In Out (~204 €)](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel): es solo para ti, máxima flexibilidad. Si vas en grupo de 2 personas, el privado sale ~408 € (vs 188 € en este compartido) — depende de cuánto valoras la exclusividad.
 
-categoria: "excursion"
+categoria: "excursionesDia"
 keywords: ["montserrat recogida hotel", "montserrat grupo pequeno", "tour montserrat hotel pickup", "in out barcelona tours", "montserrat 8 personas hotel"]
 
 imagen: "/images/guias/barcelona-en-1-dia.jpg"
