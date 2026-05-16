@@ -1,19 +1,21 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
-  obtenerCategoriasConActividades,
   obtenerCiudadesConActividades,
-  type CategoriaConActividades,
+  obtenerListaActividadesPorCiudad,
+  type ActividadListItem,
 } from "@/lib/actividades";
-import { getDictionary } from "@/lib/i18n/getDictionary";
+import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
-  urlActividadesDeCiudadPorCategoria,
 } from "@/lib/i18n/utils";
+import ActividadesFiltradas, {
+  type ActividadCardData,
+  type ActividadesFiltradasStrings,
+} from "@/components/ciudad/ActividadesFiltradas";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -37,15 +39,8 @@ export async function generateMetadata({
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
-  const dict = getDictionary("es");
-  const titulo = dict.actividades.tituloIndiceCiudad.replace(
-    "{ciudad}",
-    ciudad.nombre
-  );
-  const descripcion = dict.actividades.descripcionIndiceCiudad.replace(
-    "{ciudad}",
-    ciudad.nombre
-  );
+  const titulo = `Actividades y tours en ${ciudad.nombre}`;
+  const descripcion = `Tours, visitas guiadas y excursiones en ${ciudad.nombre}. Selección honesta con criterio editorial.`;
   const url = `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
@@ -73,45 +68,68 @@ export async function generateMetadata({
   };
 }
 
+const FILTROS_STRINGS_ES: ActividadesFiltradasStrings = {
+  filtrarPor: "Filtrar por",
+  atracciones: "Atracciones",
+  limpiarFiltros: "Limpiar filtros",
+  actividadesUna: "1 actividad",
+  actividadesPlural: "{n} actividades",
+  filtrosActivosUno: "1 filtro activo",
+  filtrosActivosPlural: "{n} filtros activos",
+  desde: "Desde",
+  verActividad: "Ver actividad",
+  sinResultados:
+    "No hay actividades con esos filtros. Prueba a quitar alguno.",
+  cancelacionGratuita: "Cancelación gratis",
+};
+
+function aCardData(a: ActividadListItem): ActividadCardData {
+  return {
+    slug: a.slug,
+    titulo: a.titulo,
+    url: a.url,
+    imagen: a.imagen,
+    imagenAlt: a.imagenAlt,
+    duracion: a.duracion,
+    precioDesde: a.precioDesde,
+    moneda: a.moneda || "EUR",
+    ratingProveedor: a.ratingProveedor,
+    numeroOpiniones: a.numeroOpiniones,
+    cancelacionGratuita: a.cancelacionGratuita,
+    atraccionesRelacionadas: a.atraccionesRelacionadas ?? [],
+    destacada: a.destacada ?? false,
+  };
+}
+
+function calcularRatingMedio(actividades: ActividadListItem[]): number | null {
+  const ratings = actividades
+    .map((a) => a.ratingProveedor)
+    .filter((r): r is number => typeof r === "number" && r > 0);
+  if (ratings.length === 0) return null;
+  const media = ratings.reduce((acc, r) => acc + r, 0) / ratings.length;
+  return Math.round(media * 10) / 10;
+}
+
 export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) notFound();
 
-  const categorias = obtenerCategoriasConActividades("es", params.ciudad);
-  if (categorias.length === 0) notFound();
+  const actividades = obtenerListaActividadesPorCiudad("es", params.ciudad);
+  if (actividades.length === 0) notFound();
 
-  const dict = getDictionary("es");
-  const tituloPagina = dict.actividades.tituloIndiceCiudad.replace(
-    "{ciudad}",
-    ciudad.nombre
-  );
-  const descripcionPagina = dict.actividades.descripcionIndiceCiudad.replace(
-    "{ciudad}",
-    ciudad.nombre
-  );
+  const cardsActividades = actividades.map(aCardData);
+  const chipsFiltros = ciudad.chipsFiltros ?? [];
+  const ratingMedio = calcularRatingMedio(actividades);
+  const guiasDeCiudad = obtenerGuiasDeCiudad("es", params.ciudad);
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: dict.navegacion.inicio,
-        item: SITE_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: ciudad.nombre,
-        item: `${SITE_URL}${ciudad.url}`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
-        name: dict.navegacion.guias === "Guías" ? "Actividades" : "Activities",
-        item: `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}`,
-      },
+      { "@type": "ListItem", position: 1, name: "Inicio", item: SITE_URL },
+      { "@type": "ListItem", position: 2, name: "Ciudades", item: `${SITE_URL}/ciudades` },
+      { "@type": "ListItem", position: 3, name: ciudad.nombre, item: `${SITE_URL}${ciudad.url}` },
+      { "@type": "ListItem", position: 4, name: "Actividades", item: `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}` },
     ],
   };
 
@@ -122,104 +140,80 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="border-b border-slate-200 bg-slate-50">
-        <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
-          <nav
-            aria-label="Migas de pan"
-            className="mb-6 text-sm text-slate-500"
-          >
-            <ol className="flex flex-wrap items-center gap-x-2">
-              <li>
-                <Link href="/" className="hover:text-slate-700">
-                  {dict.navegacion.inicio}
-                </Link>
-              </li>
-              <li aria-hidden="true">/</li>
-              <li>
-                <Link href={ciudad.url} className="hover:text-slate-700">
-                  {ciudad.nombre}
-                </Link>
-              </li>
-              <li aria-hidden="true">/</li>
-              <li className="text-slate-700">Actividades</li>
-            </ol>
+      <header className="bg-sky-500 text-white py-12 md:py-16">
+        <div className="max-w-5xl mx-auto px-4">
+          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
+            <Link href="/" className="hover:text-white">Inicio</Link>
+            {" › "}
+            <Link href="/ciudades" className="hover:text-white">Ciudades</Link>
+            {" › "}
+            <Link href={ciudad.url} className="hover:text-white">{ciudad.nombre}</Link>
+            {" › "}
+            <span className="text-white">Actividades</span>
           </nav>
 
-          <h1 className="text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl">
-            {tituloPagina}
+          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-3 leading-tight">
+            Actividades en {ciudad.nombre}
           </h1>
-          <p className="mt-4 max-w-2xl text-lg text-slate-600">
-            {descripcionPagina}
+          <p className="text-lg md:text-xl text-sky-50 max-w-3xl mb-6">
+            Tours, visitas guiadas y excursiones seleccionadas con criterio editorial.
           </p>
+
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-3 max-w-3xl">
+            <Metrica valor={actividades.length} etiqueta="actividades" />
+            <Metrica
+              valor={ciudad.atracciones?.length ?? 0}
+              etiqueta="atracciones"
+            />
+            <Metrica valor={guiasDeCiudad.length} etiqueta="guías" />
+            {ratingMedio !== null ? (
+              <Metrica
+                valor={ratingMedio}
+                etiqueta="valoración media"
+                sufijo=" / 5"
+              />
+            ) : null}
+          </div>
         </div>
       </header>
 
-      <section className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
-        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {categorias.map((cat) => (
-            <TarjetaCategoria
-              key={cat.categoria}
-              ciudadSlug={params.ciudad}
-              categoria={cat}
-              labelCategoria={dict.actividades.categorias[cat.categoria]}
-            />
-          ))}
-        </div>
-      </section>
+      <ActividadesFiltradas
+        actividades={cardsActividades}
+        chips={chipsFiltros}
+        strings={FILTROS_STRINGS_ES}
+        locale="es-ES"
+      />
+
+      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
+        <Link
+          href={ciudad.url}
+          className="text-sky-600 hover:text-sky-700 font-semibold"
+        >
+          ← Volver a {ciudad.nombre}
+        </Link>
+      </div>
     </main>
   );
 }
 
-function TarjetaCategoria({
-  ciudadSlug,
-  categoria,
-  labelCategoria,
+function Metrica({
+  valor,
+  etiqueta,
+  sufijo,
 }: {
-  ciudadSlug: string;
-  categoria: CategoriaConActividades;
-  labelCategoria: string;
+  valor: number;
+  etiqueta: string;
+  sufijo?: string;
 }) {
-  const href = urlActividadesDeCiudadPorCategoria(
-    "es",
-    ciudadSlug,
-    categoria.urlSlug
-  );
-
   return (
-    <Link
-      href={href}
-      className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-slate-300 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
-    >
-      {categoria.imagenPortada ? (
-        <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
-          <Image
-            src={categoria.imagenPortada}
-            alt={categoria.imagenPortadaAlt}
-            fill
-            sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-            className="object-cover transition duration-300 group-hover:scale-105"
-          />
-        </div>
-      ) : (
-        <div className="aspect-[4/3] w-full bg-slate-100" aria-hidden="true" />
-      )}
-
-      <div className="flex flex-1 flex-col p-6">
-        <h2 className="text-xl font-semibold text-slate-900">
-          {labelCategoria}
-        </h2>
-        <p className="mt-2 text-sm text-slate-500">
-          {categoria.total === 1
-            ? "1 actividad"
-            : `${categoria.total} actividades`}
-        </p>
-        <span
-          aria-hidden="true"
-          className="mt-auto pt-6 text-sm font-semibold text-sky-600 group-hover:text-sky-700"
-        >
-          Ver actividades →
-        </span>
+    <div className="border-l-2 border-amber-400 pl-3">
+      <div className="text-2xl md:text-3xl font-bold text-white leading-none">
+        {valor}
+        {sufijo ? (
+          <span className="text-sm font-normal text-sky-100">{sufijo}</span>
+        ) : null}
       </div>
-    </Link>
+      <div className="text-xs text-sky-100 mt-1">{etiqueta}</div>
+    </div>
   );
 }
