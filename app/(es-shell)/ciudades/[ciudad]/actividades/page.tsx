@@ -3,11 +3,14 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
+  CATEGORIAS_ACTIVIDAD,
   obtenerCiudadesConActividades,
   obtenerListaActividadesPorCiudad,
   type ActividadListItem,
+  type CategoriaActividad,
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
+import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
@@ -15,6 +18,7 @@ import {
 import ActividadesFiltradas, {
   type ActividadCardData,
   type ActividadesFiltradasStrings,
+  type CategoriaOpcion,
 } from "@/components/ciudad/ActividadesFiltradas";
 
 const SITE_URL =
@@ -71,6 +75,7 @@ export async function generateMetadata({
 const FILTROS_STRINGS_ES: ActividadesFiltradasStrings = {
   filtrarPor: "Filtrar por",
   atracciones: "Atracciones",
+  categorias: "Categorías",
   limpiarFiltros: "Limpiar filtros",
   actividadesUna: "1 actividad",
   actividadesPlural: "{n} actividades",
@@ -97,8 +102,25 @@ function aCardData(a: ActividadListItem): ActividadCardData {
     numeroOpiniones: a.numeroOpiniones,
     cancelacionGratuita: a.cancelacionGratuita,
     atraccionesRelacionadas: a.atraccionesRelacionadas ?? [],
+    categoria: a.categoria,
     destacada: a.destacada ?? false,
   };
+}
+
+/**
+ * Calcula las categorías presentes en las actividades de esta ciudad
+ * (con al menos una actividad). Solo aparecen en el sidebar las que tienen
+ * contenido — las vacías se omiten para evitar chips muertos.
+ */
+function categoriasPresentes(
+  actividades: ActividadListItem[],
+  dictCategorias: Record<CategoriaActividad, string>
+): CategoriaOpcion[] {
+  const presentes = new Set(actividades.map((a) => a.categoria));
+  return CATEGORIAS_ACTIVIDAD.filter((c) => presentes.has(c)).map((c) => ({
+    key: c,
+    label: dictCategorias[c],
+  }));
 }
 
 function calcularRatingMedio(actividades: ActividadListItem[]): number | null {
@@ -121,6 +143,11 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const chipsFiltros = ciudad.chipsFiltros ?? [];
   const ratingMedio = calcularRatingMedio(actividades);
   const guiasDeCiudad = obtenerGuiasDeCiudad("es", params.ciudad);
+  const dict = getDictionary("es");
+  const categorias = categoriasPresentes(
+    actividades,
+    dict.actividades.categorias
+  );
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
@@ -180,6 +207,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       <ActividadesFiltradas
         actividades={cardsActividades}
         chips={chipsFiltros}
+        categorias={categorias}
         strings={FILTROS_STRINGS_ES}
         locale="es-ES"
       />

@@ -3,9 +3,11 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
+  CATEGORIAS_ACTIVIDAD,
   obtenerCiudadesConActividades,
   obtenerListaActividadesPorCiudad,
   type ActividadListItem,
+  type CategoriaActividad,
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -19,6 +21,7 @@ import {
 import ActividadesFiltradas, {
   type ActividadCardData,
   type ActividadesFiltradasStrings,
+  type CategoriaOpcion,
 } from "@/components/ciudad/ActividadesFiltradas";
 
 const SITE_URL =
@@ -75,6 +78,7 @@ export async function generateMetadata({
 const FILTROS_STRINGS_EN: ActividadesFiltradasStrings = {
   filtrarPor: "Filter by",
   atracciones: "Attractions",
+  categorias: "Categories",
   limpiarFiltros: "Clear filters",
   actividadesUna: "1 activity",
   actividadesPlural: "{n} activities",
@@ -100,8 +104,20 @@ function aCardData(a: ActividadListItem): ActividadCardData {
     numeroOpiniones: a.numeroOpiniones,
     cancelacionGratuita: a.cancelacionGratuita,
     atraccionesRelacionadas: a.atraccionesRelacionadas ?? [],
+    categoria: a.categoria,
     destacada: a.destacada ?? false,
   };
+}
+
+function categoriasPresentes(
+  actividades: ActividadListItem[],
+  dictCategorias: Record<CategoriaActividad, string>
+): CategoriaOpcion[] {
+  const presentes = new Set(actividades.map((a) => a.categoria));
+  return CATEGORIAS_ACTIVIDAD.filter((c) => presentes.has(c)).map((c) => ({
+    key: c,
+    label: dictCategorias[c],
+  }));
 }
 
 function calcularRatingMedio(actividades: ActividadListItem[]): number | null {
@@ -125,6 +141,10 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const ratingMedio = calcularRatingMedio(actividades);
   const guiasDeCiudad = obtenerGuiasDeCiudad(IDIOMA, params.ciudad);
   const dict = getDictionary(IDIOMA);
+  const categorias = categoriasPresentes(
+    actividades,
+    dict.actividades.categorias
+  );
 
   const homeUrl = `${SITE_URL}${prefijoIdioma(IDIOMA) || "/"}`;
   const indiceCiudadesUrl = `${SITE_URL}${urlIndiceCiudades(IDIOMA)}`;
@@ -213,6 +233,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       <ActividadesFiltradas
         actividades={cardsActividades}
         chips={chipsFiltros}
+        categorias={categorias}
         strings={FILTROS_STRINGS_EN}
         locale={IDIOMA_LOCALE[IDIOMA]}
       />

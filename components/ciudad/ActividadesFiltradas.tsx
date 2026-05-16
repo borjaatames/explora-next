@@ -23,7 +23,22 @@ export type ActividadCardData = {
   numeroOpiniones?: number;
   cancelacionGratuita?: boolean;
   atraccionesRelacionadas: string[];
+  /**
+   * Clave de categoría (visitasGuiadas, entradas, excursionesDia,
+   * espectaculos, toursGastronomicos, serviciosAdicionales, transporte).
+   * Se usa para el filtro lateral de categorías.
+   */
+  categoria: string;
   destacada: boolean;
+};
+
+/**
+ * Opción del bloque de categorías en el sidebar. La key debe coincidir con
+ * el valor de `categoria` de cada `ActividadCardData`.
+ */
+export type CategoriaOpcion = {
+  key: string;
+  label: string;
 };
 
 /**
@@ -35,6 +50,7 @@ export type ActividadCardData = {
 export type ActividadesFiltradasStrings = {
   filtrarPor: string;
   atracciones: string;
+  categorias: string;
   limpiarFiltros: string;
   actividadesUna: string;
   actividadesPlural: string;
@@ -49,6 +65,7 @@ export type ActividadesFiltradasStrings = {
 type Props = {
   actividades: ActividadCardData[];
   chips: ChipFiltro[];
+  categorias: CategoriaOpcion[];
   strings: ActividadesFiltradasStrings;
   locale: string;
 };
@@ -56,10 +73,12 @@ type Props = {
 export default function ActividadesFiltradas({
   actividades,
   chips,
+  categorias,
   strings,
   locale,
 }: Props) {
   const [tagsActivos, setTagsActivos] = useState<string[]>([]);
+  const [categoriasActivas, setCategoriasActivas] = useState<string[]>([]);
 
   const toggleTag = (tag: string) => {
     setTagsActivos((prev) =>
@@ -67,12 +86,35 @@ export default function ActividadesFiltradas({
     );
   };
 
-  const filtradas = useMemo(() => {
-    if (tagsActivos.length === 0) return actividades;
-    return actividades.filter((a) =>
-      a.atraccionesRelacionadas.some((t) => tagsActivos.includes(t))
+  const toggleCategoria = (key: string) => {
+    setCategoriasActivas((prev) =>
+      prev.includes(key) ? prev.filter((c) => c !== key) : [...prev, key]
     );
-  }, [actividades, tagsActivos]);
+  };
+
+  const limpiarTodo = () => {
+    setTagsActivos([]);
+    setCategoriasActivas([]);
+  };
+
+  const totalFiltros = tagsActivos.length + categoriasActivas.length;
+
+  /**
+   * Cruce AND entre los dos sets: cada bloque (atracciones, categorías) es
+   * un OR interno; entre bloques es AND. Coincide con la lógica de
+   * Civitatis o Booking — al sumar filtros se restringe progresivamente.
+   */
+  const filtradas = useMemo(() => {
+    return actividades.filter((a) => {
+      const pasaAtraccion =
+        tagsActivos.length === 0 ||
+        a.atraccionesRelacionadas.some((t) => tagsActivos.includes(t));
+      const pasaCategoria =
+        categoriasActivas.length === 0 ||
+        categoriasActivas.includes(a.categoria);
+      return pasaAtraccion && pasaCategoria;
+    });
+  }, [actividades, tagsActivos, categoriasActivas]);
 
   if (actividades.length === 0) return null;
 
@@ -82,51 +124,84 @@ export default function ActividadesFiltradas({
       : strings.actividadesPlural.replace("{n}", String(filtradas.length));
 
   const filtrosActivosLabel =
-    tagsActivos.length === 1
+    totalFiltros === 1
       ? strings.filtrosActivosUno
-      : strings.filtrosActivosPlural.replace(
-          "{n}",
-          String(tagsActivos.length)
-        );
+      : strings.filtrosActivosPlural.replace("{n}", String(totalFiltros));
 
   return (
     <section className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
         <div className="grid grid-cols-1 lg:grid-cols-[220px_1fr] gap-8">
-          {chips.length > 0 ? (
+          {chips.length > 0 || categorias.length > 0 ? (
             <aside className="lg:border-r lg:border-slate-200 lg:pr-6">
               <div className="text-xs font-semibold text-slate-900 uppercase tracking-wider mb-3">
                 {strings.filtrarPor}
               </div>
-              <div className="text-xs text-slate-500 uppercase tracking-wider mb-2">
-                {strings.atracciones}
-              </div>
-              <div className="flex flex-wrap lg:flex-col gap-2 mb-4">
-                {chips.map((chip) => {
-                  const activo = tagsActivos.includes(chip.tag);
-                  return (
-                    <button
-                      key={chip.tag}
-                      type="button"
-                      onClick={() => toggleTag(chip.tag)}
-                      aria-pressed={activo}
-                      className={
-                        "text-left text-sm font-medium px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 " +
-                        (activo
-                          ? "bg-sky-500 border-sky-500 text-white hover:bg-sky-600"
-                          : "bg-white border-slate-300 text-slate-900 hover:border-sky-400")
-                      }
-                    >
-                      {activo ? "✓ " : ""}
-                      {chip.label}
-                    </button>
-                  );
-                })}
-              </div>
-              {tagsActivos.length > 0 ? (
+
+              {chips.length > 0 ? (
+                <>
+                  <div className="text-xs text-slate-500 uppercase tracking-wider mb-2">
+                    {strings.atracciones}
+                  </div>
+                  <div className="flex flex-wrap lg:flex-col gap-2 mb-5">
+                    {chips.map((chip) => {
+                      const activo = tagsActivos.includes(chip.tag);
+                      return (
+                        <button
+                          key={chip.tag}
+                          type="button"
+                          onClick={() => toggleTag(chip.tag)}
+                          aria-pressed={activo}
+                          className={
+                            "text-left text-sm font-medium px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 " +
+                            (activo
+                              ? "bg-sky-500 border-sky-500 text-white hover:bg-sky-600"
+                              : "bg-white border-slate-300 text-slate-900 hover:border-sky-400")
+                          }
+                        >
+                          {activo ? "✓ " : ""}
+                          {chip.label}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
+              ) : null}
+
+              {categorias.length > 0 ? (
+                <>
+                  <div className="text-xs text-slate-500 uppercase tracking-wider mb-2">
+                    {strings.categorias}
+                  </div>
+                  <div className="flex flex-wrap lg:flex-col gap-2 mb-4">
+                    {categorias.map((cat) => {
+                      const activo = categoriasActivas.includes(cat.key);
+                      return (
+                        <button
+                          key={cat.key}
+                          type="button"
+                          onClick={() => toggleCategoria(cat.key)}
+                          aria-pressed={activo}
+                          className={
+                            "text-left text-sm font-medium px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 " +
+                            (activo
+                              ? "bg-amber-500 border-amber-500 text-white hover:bg-amber-600"
+                              : "bg-white border-slate-300 text-slate-900 hover:border-amber-400")
+                          }
+                        >
+                          {activo ? "✓ " : ""}
+                          {cat.label}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
+              ) : null}
+
+              {totalFiltros > 0 ? (
                 <button
                   type="button"
-                  onClick={() => setTagsActivos([])}
+                  onClick={limpiarTodo}
                   className="text-sm text-sky-600 hover:text-sky-700 font-semibold"
                 >
                   {strings.limpiarFiltros}
@@ -140,7 +215,7 @@ export default function ActividadesFiltradas({
               <div className="text-base font-semibold text-slate-900">
                 {contador}
               </div>
-              {tagsActivos.length > 0 ? (
+              {totalFiltros > 0 ? (
                 <div className="text-sm text-slate-500">
                   {filtrosActivosLabel}
                 </div>
