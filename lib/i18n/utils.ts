@@ -70,6 +70,13 @@ export function urlAtraccionesDeCiudad(
   return `${prefijo}/${segmentoCiudades}/${ciudad}/${segmentoAtracciones}`;
 }
 
+export function urlGuiasDeCiudad(idioma: Idioma, ciudad: string): string {
+  const prefijo = prefijoIdioma(idioma);
+  const segmentoCiudades = URL_SEGMENTS[idioma].ciudades;
+  const segmentoGuias = URL_SEGMENTS[idioma].guias;
+  return `${prefijo}/${segmentoCiudades}/${ciudad}/${segmentoGuias}`;
+}
+
 export function urlActividadesDeCiudadPorCategoria(
   idioma: Idioma,
   ciudad: string,

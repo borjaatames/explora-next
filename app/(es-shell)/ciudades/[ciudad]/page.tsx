@@ -6,13 +6,14 @@ import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
+import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
   urlAtraccionesDeCiudad,
   urlCiudad,
-  urlIndiceGuias,
+  urlGuiasDeCiudad,
 } from "@/lib/i18n/utils";
 
 const SITE_URL =
@@ -97,10 +98,19 @@ export default async function CiudadPage({ params }: Props) {
     ],
   };
 
-  const urlGuias = urlIndiceGuias("es");
+  const guiasDeCiudad = obtenerGuiasDeCiudad("es", params.ciudad);
+  const hayGuias = guiasDeCiudad.length > 0;
+  const urlGuias = urlGuiasDeCiudad("es", params.ciudad);
   const urlActividades = urlActividadesDeCiudad("es", params.ciudad);
   const urlAtracciones = urlAtraccionesDeCiudad("es", params.ciudad);
   const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
+  const numCards = (hayGuias ? 1 : 0) + 1 + (hayAtracciones ? 1 : 0);
+  const gridClass =
+    numCards === 3
+      ? "grid grid-cols-1 md:grid-cols-3 gap-6"
+      : numCards === 2
+      ? "grid grid-cols-1 md:grid-cols-2 gap-6"
+      : "grid grid-cols-1 gap-6";
 
   return (
     <main className="min-h-screen bg-white">
@@ -155,16 +165,18 @@ export default async function CiudadPage({ params }: Props) {
 
       <section className="bg-slate-50 border-t border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">
-          <div className={hayAtracciones ? "grid grid-cols-1 md:grid-cols-3 gap-6" : "grid grid-cols-1 md:grid-cols-2 gap-6"}>
-            <CtaCiudadCard
-              href={urlGuias}
-              imagen={ciudad.imagenGuias}
-              imagenAlt={ciudad.imagenGuiasAlt}
-              titulo={"Guías de " + ciudad.nombre}
-              descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
-              cta="Ver guías"
-              acento="sky"
-            />
+          <div className={gridClass}>
+            {hayGuias ? (
+              <CtaCiudadCard
+                href={urlGuias}
+                imagen={ciudad.imagenGuias}
+                imagenAlt={ciudad.imagenGuiasAlt}
+                titulo={"Guías de " + ciudad.nombre}
+                descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
+                cta="Ver guías"
+                acento="sky"
+              />
+            ) : null}
             <CtaCiudadCard
               href={urlActividades}
               imagen={ciudad.imagenActividades}

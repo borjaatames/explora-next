@@ -208,3 +208,112 @@ export function existeGuia(
   const fullPath = path.join(directorioIdioma(idioma), categoria, `${slug}.md`);
   return fs.existsSync(fullPath);
 }
+
+// =============================================================================
+// Helpers de filtrado por ciudad
+//
+// En este proyecto, las guías se organizan en carpetas por ciudad
+// (`content/guias/<idioma>/<ciudad>/<slug>.md`) y el campo `categoria` del
+// frontmatter coincide con el slug de la ciudad. Por lo tanto, "categoría" y
+// "ciudad" son sinónimos a efectos de filtrado. Los helpers de abajo
+// formalizan ese contrato para que las rutas `/ciudades/[ciudad]/guias` no
+// dependan de la convención implícita.
+// =============================================================================
+
+/**
+ * Devuelve todas las guías publicadas de una ciudad concreta en el idioma
+ * dado. Lee solo la carpeta de esa ciudad (más eficiente que filtrar la
+ * lista global). Devuelve array vacío si la carpeta no existe o no hay
+ * guías publicadas.
+ */
+export function obtenerGuiasDeCiudad(
+  idioma: Idioma,
+  ciudad: string
+): GuiaListItem[] {
+  const ciudadPath = path.join(directorioIdioma(idioma), ciudad);
+  if (!fs.existsSync(ciudadPath)) return [];
+  if (!fs.statSync(ciudadPath).isDirectory()) return [];
+
+  const archivos = fs
+    .readdirSync(ciudadPath)
+    .filter((f) => f.endsWith(".md"));
+
+  const guias: GuiaListItem[] = [];
+
+  for (const archivo of archivos) {
+    const slug = archivo.replace(/\.md$/, "");
+    const fullPath = path.join(ciudadPath, archivo);
+    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const { data, content } = matter(fileContents);
+
+    const fm = data as Partial<GuiaFrontmatter>;
+    if (!fm.publicada) continue;
+
+    guias.push({
+      titulo: fm.titulo || "Sin título",
+      descripcion: fm.descripcion || "",
+      categoria: ciudad,
+      slug,
+      fecha: fm.fecha || "",
+      fecha_actualizacion: fm.fecha_actualizacion,
+      autor: fm.autor,
+      imagen: fm.imagen,
+      imagen_portada: fm.imagen_portada,
+      imagen_alt: fm.imagen_alt,
+      publicada: true,
+      destacada: fm.destacada || false,
+      keywords: fm.keywords || [],
+      slugs: fm.slugs,
+      idioma,
+      tiempoLectura: calcularTiempoLectura(content),
+      url: urlGuia(idioma, ciudad, slug),
+    });
+  }
+
+  return guias.sort((a, b) => {
+    if (a.destacada !== b.destacada) return a.destacada ? -1 : 1;
+    return a.fecha < b.fecha ? 1 : a.fecha > b.fecha ? -1 : 0;
+  });
+}
+
+export type CiudadConGuias = {
+  /** Slug de la ciudad (= nombre de la carpeta). */
+  ciudad: string;
+  /** Número de guías publicadas en esa ciudad. */
+  total: number;
+  /** Imagen de portada: la primera guía con `imagen_portada`, si la hay. */
+  imagenPortada?: string;
+  /** Alt de la imagen de portada. */
+  imagenPortadaAlt?: string;
+};
+
+/**
+ * Devuelve los slugs de ciudades que tienen al menos una guía publicada en
+ * el idioma indicado, con su contador e imagen de portada. Ordenadas por
+ * número de guías descendente. Útil para construir el grid del hub `/guias`.
+ */
+export function obtenerCiudadesConGuias(idioma: Idioma): CiudadConGuias[] {
+  const base = directorioIdioma(idioma);
+  if (!fs.existsSync(base)) return [];
+
+  const ciudades = fs.readdirSync(base).filter((entry) => {
+    const fullPath = path.join(base, entry);
+    return fs.statSync(fullPath).isDirectory();
+  });
+
+  const resultado: CiudadConGuias[] = [];
+  for (const ciudad of ciudades) {
+    const guias = obtenerGuiasDeCiudad(idioma, ciudad);
+    if (guias.length === 0) continue;
+
+    const portada = guias.find((g) => g.imagen_portada) ?? guias[0];
+    resultado.push({
+      ciudad,
+      total: guias.length,
+      imagenPortada: portada.imagen_portada,
+      imagenPortadaAlt: portada.imagen_alt,
+    });
+  }
+
+  return resultado.sort((a, b) => b.total - a.total);
+}

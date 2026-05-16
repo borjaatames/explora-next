@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { obtenerListaGuias } from "@/lib/guias";
+import { obtenerCiudadesConGuias, obtenerListaGuias } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import {
   obtenerListaActividades,
@@ -11,6 +11,7 @@ import {
   urlCiudad,
   urlActividad,
   urlActividadesDeCiudad,
+  urlGuiasDeCiudad,
   urlIndiceGuias,
   urlIndiceCiudades,
   urlAvisoLegal,
@@ -211,6 +212,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly",
         priority: 0.8,
         alternates: alternatesPara((l) => urlActividadesDeCiudad(l, ciudad)),
+      });
+    }
+  }
+
+  // ─── Listados de guías por ciudad ────────────────────────────────
+  for (const lang of IDIOMAS_ACTIVOS) {
+    const ciudadesConGuias = obtenerCiudadesConGuias(lang);
+    for (const { ciudad } of ciudadesConGuias) {
+      entries.push({
+        url: `${SITE_URL}${urlGuiasDeCiudad(lang, ciudad)}`,
+        lastModified: ahora,
+        changeFrequency: "weekly",
+        priority: 0.8,
+        alternates: alternatesPara((l) => urlGuiasDeCiudad(l, ciudad)),
       });
     }
   }

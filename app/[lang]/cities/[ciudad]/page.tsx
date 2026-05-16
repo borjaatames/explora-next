@@ -6,6 +6,7 @@ import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
+import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -14,8 +15,8 @@ import {
   urlActividadesDeCiudad,
   urlAtraccionesDeCiudad,
   urlCiudad,
+  urlGuiasDeCiudad,
   urlIndiceCiudades,
-  urlIndiceGuias,
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
@@ -162,10 +163,19 @@ export default async function CiudadPage({ params }: Props) {
   };
 
   const strings = getStrings(lang, ciudad.nombre);
-  const urlGuias = urlIndiceGuias(lang);
+  const guiasDeCiudad = obtenerGuiasDeCiudad(lang, params.ciudad);
+  const hayGuias = guiasDeCiudad.length > 0;
+  const urlGuias = urlGuiasDeCiudad(lang, params.ciudad);
   const urlActividades = urlActividadesDeCiudad(lang, params.ciudad);
   const urlAtracciones = urlAtraccionesDeCiudad(lang, params.ciudad);
   const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
+  const numCards = (hayGuias ? 1 : 0) + 1 + (hayAtracciones ? 1 : 0);
+  const gridClass =
+    numCards === 3
+      ? "grid grid-cols-1 md:grid-cols-3 gap-6"
+      : numCards === 2
+      ? "grid grid-cols-1 md:grid-cols-2 gap-6"
+      : "grid grid-cols-1 gap-6";
 
   return (
     <main className="min-h-screen bg-white">
@@ -224,16 +234,18 @@ export default async function CiudadPage({ params }: Props) {
 
       <section className="bg-slate-50 border-t border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">
-          <div className={hayAtracciones ? "grid grid-cols-1 md:grid-cols-3 gap-6" : "grid grid-cols-1 md:grid-cols-2 gap-6"}>
-            <CtaCiudadCard
-              href={urlGuias}
-              imagen={ciudad.imagenGuias}
-              imagenAlt={ciudad.imagenGuiasAlt}
-              titulo={strings.guiasTitulo}
-              descripcion={strings.guiasDescripcion}
-              cta={strings.guiasCta}
-              acento="sky"
-            />
+          <div className={gridClass}>
+            {hayGuias ? (
+              <CtaCiudadCard
+                href={urlGuias}
+                imagen={ciudad.imagenGuias}
+                imagenAlt={ciudad.imagenGuiasAlt}
+                titulo={strings.guiasTitulo}
+                descripcion={strings.guiasDescripcion}
+                cta={strings.guiasCta}
+                acento="sky"
+              />
+            ) : null}
             <CtaCiudadCard
               href={urlActividades}
               imagen={ciudad.imagenActividades}
