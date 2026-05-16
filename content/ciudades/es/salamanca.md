@@ -21,14 +21,20 @@ atracciones:
     imagenAlt: "Soportales barrocos de la Plaza Mayor de Salamanca con medallones de personajes ilustres"
   - nombre: "Universidad de Salamanca"
     descripcion: "La universidad más antigua de España (1218). Fachada plateresca que esconde la mítica rana sobre la calavera — encontrarla trae suerte en los exámenes según la tradición estudiantil."
+    imagen: "/images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero.webp"
+    imagenAlt: "Fachada plateresca de la Universidad de Salamanca con sus detalles labrados en piedra dorada"
   - nombre: "Catedrales Vieja y Nueva"
     descripcion: "Dos catedrales unidas formando un único complejo: la Vieja románico-gótica (siglo XII) y la Nueva tardogótica-barroca (siglo XVI). Imprescindible subir a las torres."
     imagen: "/images/actividades/salamanca/catedrales/catedrales-salamanca-catedral-nueva-cupula-hero.webp"
     imagenAlt: "Cúpula barroca de la Catedral Nueva de Salamanca con sus pináculos góticos"
   - nombre: "Casa de las Conchas"
     descripcion: "Palacio del siglo XV con fachada cubierta de 365 conchas talladas (símbolo del Camino de Santiago). Hoy biblioteca pública con patio renacentista visitable gratis."
+    imagen: "/images/actividades/salamanca/casa-conchas/casa-conchas-salamanca-intricate-gothic-architecture-hero.webp"
+    imagenAlt: "Fachada gótica de la Casa de las Conchas de Salamanca cubierta de conchas talladas"
   - nombre: "Convento de San Esteban"
     descripcion: "Convento dominico con la fachada plateresca más impresionante de la ciudad. Allí enseñó Fray Luis de León y allí debatió Colón sus viajes con los teólogos."
+    imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
+    imagenAlt: "Fachada plateresca del Convento de San Esteban de Salamanca"
 ---
 
 Salamanca es la **ciudad dorada de Castilla y León**, capital de provincia con unos **143.000 habitantes** y sede de la **universidad más antigua de España** (fundada en 1218, una de las primeras del mundo). Está declarada Patrimonio de la Humanidad por la UNESCO.

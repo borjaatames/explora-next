@@ -35,8 +35,12 @@ atracciones:
     imagenAlt: "Calle empedrada del Albaicín de Granada con casas blancas tradicionales"
   - nombre: "Sacromonte"
     descripcion: "El barrio gitano histórico, en las cuevas excavadas en la colina frente a la Alhambra. Cuna del flamenco zambra y origen de tablaos antiguos. Visítalo de noche para sentir el ambiente real."
+    imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    imagenAlt: "Casa cueva del Sacromonte de Granada en la colina frente a la Alhambra"
   - nombre: "Capilla Real y Catedral"
     descripcion: "Las tumbas de los Reyes Católicos descansan en la Capilla Real, junto a la Catedral renacentista que ellos mandaron construir. El conjunto explica el final de la Reconquista y el inicio del Siglo de Oro."
+    imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+    imagenAlt: "Vista exterior de la Capilla Real de Granada junto a la Catedral"
 ---
 
 Granada es una de las cinco ciudades imprescindibles de España y la **última capital musulmana de Europa**, conquistada por los Reyes Católicos en 1492. Es capital de provincia en Andalucía, con unos **232.000 habitantes** en el municipio y más de 530.000 en su área metropolitana.

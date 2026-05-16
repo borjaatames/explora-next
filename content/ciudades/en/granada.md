@@ -35,8 +35,12 @@ atracciones:
     imagenAlt: "Cobbled street in Granada's Albaicín quarter with traditional white houses"
   - nombre: "Sacromonte"
     descripcion: "Granada's historic Romani quarter, in caves dug into the hillside facing the Alhambra. Birthplace of the zambra flamenco and origin of the city's oldest tablaos. Visit at night for the real atmosphere."
+    imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    imagenAlt: "Cave house of Granada's Sacromonte quarter on the hillside facing the Alhambra"
   - nombre: "Royal Chapel and Cathedral"
     descripcion: "The Catholic Monarchs' tombs rest in the Royal Chapel, next to the Renaissance Cathedral they commissioned. The complex tells the story of the end of the Reconquista and the start of the Spanish Golden Age."
+    imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+    imagenAlt: "Exterior view of Granada's Royal Chapel next to the Cathedral"
 ---
 
 Granada is one of Spain's five must-visit cities and the **last Muslim capital of Europe**, conquered by the Catholic Monarchs in 1492. It is a provincial capital in Andalusia, with around **232,000 inhabitants** in the municipality and more than 530,000 in its metropolitan area.

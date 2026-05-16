@@ -21,14 +21,20 @@ atracciones:
     imagenAlt: "Baroque arcades of Salamanca's Plaza Mayor with portrait medallions of historic figures"
   - nombre: "University of Salamanca"
     descripcion: "Spain's oldest university (1218). A Plateresque facade hiding the legendary frog on a skull — finding it brings exam luck according to student tradition."
+    imagen: "/images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero.webp"
+    imagenAlt: "Plateresque facade of the University of Salamanca with its carved golden-stone detail"
   - nombre: "Old and New Cathedrals"
     descripcion: "Two cathedrals merged into a single complex: the Old one (Romanesque-Gothic, 12th century) and the New one (Late Gothic-Baroque, 16th century). The tower climb is a must."
     imagen: "/images/actividades/salamanca/catedrales/catedrales-salamanca-catedral-nueva-cupula-hero.webp"
     imagenAlt: "Baroque dome of Salamanca's New Cathedral with its Gothic pinnacles"
   - nombre: "Casa de las Conchas"
     descripcion: "15th-century palace with a facade covered in 365 carved scallop shells (symbol of the Camino de Santiago). Today a public library with a free-to-visit Renaissance courtyard."
+    imagen: "/images/actividades/salamanca/casa-conchas/casa-conchas-salamanca-intricate-gothic-architecture-hero.webp"
+    imagenAlt: "Gothic facade of Salamanca's Casa de las Conchas covered with carved scallop shells"
   - nombre: "Convent of San Esteban"
     descripcion: "Dominican convent with the city's most striking Plateresque facade. Fray Luis de León taught here, and Columbus debated his voyages with theologians here."
+    imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
+    imagenAlt: "Plateresque facade of Salamanca's Convent of San Esteban"
 ---
 
 Salamanca is the **golden city of Castile and León**, a provincial capital of around **143,000 inhabitants** and home to **Spain's oldest university** (founded in 1218, one of the oldest in the world). It is a UNESCO World Heritage Site.
