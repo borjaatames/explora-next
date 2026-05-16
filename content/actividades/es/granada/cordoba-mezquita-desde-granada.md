@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de día completo (8 horas) a Córdoba desde Granada. Incluye visita guiada a la Mezquita-Catedral con entrada sin colas, paseo por la Judería y tiempo libre para explorar."
 
 slugs:
+  en: "cordoba-mosque-day-trip-from-granada"
   es: "cordoba-mezquita-desde-granada"
 
 duracion: "8 horas"

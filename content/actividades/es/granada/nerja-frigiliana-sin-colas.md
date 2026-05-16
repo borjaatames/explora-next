@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de 7 horas a Frigiliana y las Cuevas de Nerja desde Granada en grupo máximo 8 personas. Acceso sin colas a las cuevas, tiempo libre en Frigiliana y Balcón de Europa."
 
 slugs:
+  en: "nerja-frigiliana-skip-line-day-trip"
   es: "nerja-frigiliana-sin-colas"
 
 duracion: "7 horas"

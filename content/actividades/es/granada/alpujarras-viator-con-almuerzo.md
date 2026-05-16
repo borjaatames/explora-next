@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de día completo (8 horas) a las Alpujarras desde Granada con recogida en hotel y opción de almuerzo tradicional. Variante Viator de la excursión a los pueblos blancos."
 
 slugs:
+  en: "alpujarras-day-trip-with-lunch"
   es: "alpujarras-viator-con-almuerzo"
 
 duracion: "8 horas"

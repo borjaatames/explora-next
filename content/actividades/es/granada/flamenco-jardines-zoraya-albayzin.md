@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Espectáculo flamenco en directo en los Jardines de Zoraya, un tablao del Albayzín a 2 minutos del mirador de San Nicolás. Dos bailaoras, cantaor y guitarrista, con opción de cena previa."
 
 slugs:
+  en: "flamenco-show-jardines-zoraya-albayzin"
   es: "flamenco-jardines-zoraya-albayzin"
 
 duracion: "1 hora"

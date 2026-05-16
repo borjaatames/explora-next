@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Caminata por Sierra Nevada en grupo pequeño máx. 8 personas. Senderismo en primavera, verano y otoño; raquetas de nieve en invierno. Incluye bastones, ropa de abrigo y seguro."
 
 slugs:
+  en: "sierra-nevada-hiking-snowshoeing"
   es: "sierra-nevada-raquetas-senderismo"
 
 duracion: "7 horas"

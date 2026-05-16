@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour de 3 horas con guía local por bares de tapas de Granada y zonas del Albayzín. Pagas por la experiencia y el guía — la bebida la pides en cada parada, la tapa viene gratis con la bebida (tradición granadina)."
 
 slugs:
+  en: "tapas-tour-3h-albayzin"
   es: "tapas-tour-3h-albayzin"
 
 duracion: "3-4 horas"

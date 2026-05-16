@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour de 3 horas en bicicleta eléctrica por Granada con paradas de tapas. Recorrido por Albaicín, Sacromonte y miradores. Combina actividad física suave (asistencia eléctrica) con gastronomía local."
 
 slugs:
+  en: "ebike-tapas-tour-granada"
   es: "ebike-tapas-granada"
 
 duracion: "3 horas"

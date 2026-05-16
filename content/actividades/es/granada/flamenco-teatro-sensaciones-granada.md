@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Espectáculo flamenco de una hora en el Teatro Flamenco Granada (Plaza Campo del Príncipe). Formato teatro con butaca, bebida incluida en entrada general, accesible en silla de ruedas y traducción en 5 idiomas."
 
 slugs:
+  en: "flamenco-show-teatro-sensaciones-granada"
   es: "flamenco-teatro-sensaciones-granada"
 
 duracion: "1 hora"

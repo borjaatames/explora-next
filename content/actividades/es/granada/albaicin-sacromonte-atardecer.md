@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Visita guiada a pie por el Albaicín y el Sacromonte al atardecer, con parada en el mirador de San Nicolás para ver la Alhambra al sol poniente. 2-2,5 horas con guía en español o inglés."
 
 slugs:
+  en: "albaicin-sacromonte-sunset-tour"
   es: "albaicin-sacromonte-atardecer"
 
 duracion: "2-2,5 horas"

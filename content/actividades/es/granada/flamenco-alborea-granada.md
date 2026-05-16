@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Espectáculo flamenco de una hora con asientos reservados en el Tablao La Alboreá, en el centro de Granada. Opción de añadir copa de vino y surtido ibérico. El más reseñado del catálogo con 5.481 valoraciones."
 
 slugs:
+  en: "flamenco-show-alborea-granada"
   es: "flamenco-alborea-granada"
 
 duracion: "1 hora"

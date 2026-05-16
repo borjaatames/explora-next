@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour a pie de 2 horas por el Albayzín y Sacromonte con guías locales de Play Granada. Incluye paradas en miradores y Paseo de los Tristes. Wifi y carga de móvil incluidos durante el tour."
 
 slugs:
+  en: "albaicin-sacromonte-hidden-treasure-tour"
   es: "albaicin-sacromonte-tesoro-oculto"
 
 duracion: "2 horas"

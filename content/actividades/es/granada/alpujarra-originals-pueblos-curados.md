@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour guiado de 7 horas a los pueblos de la Alpujarra desde Granada, distinción Originals by GYG. Operado por Discovering Spain con grupo reducido y opción de privado disponible."
 
 slugs:
+  en: "alpujarra-originals-curated-villages-day-trip"
   es: "alpujarra-originals-pueblos-curados"
 
 duracion: "7 horas"

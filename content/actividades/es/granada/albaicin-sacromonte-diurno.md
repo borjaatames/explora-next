@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour guiado a pie por los barrios del Albaicín y Sacromonte de Granada, durante el día. 2-2,5 horas con guía oficial, recorrido por miradores, callejones moriscos y cuevas gitanas."
 
 slugs:
+  en: "albaicin-sacromonte-day-tour"
   es: "albaicin-sacromonte-diurno"
 
 duracion: "2-2,5 horas"

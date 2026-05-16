@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Aventura en bicicleta eléctrica de 5-7 horas entre Granada y Sierra Nevada, con guía local. Descubre la naturaleza, fauna y pueblos auténticos por ríos y aldeas. Cancelación gratuita 24h."
 
 slugs:
+  en: "ebike-sierra-nevada-villages"
   es: "ebike-sierra-nevada-aldeas"
 
 duracion: "5-7 horas"

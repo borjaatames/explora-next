@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de día completo desde Granada a Ronda, la ciudad del Tajo y el Puente Nuevo. Tour guiado del centro histórico, vista al desfiladero y tiempo libre para explorar."
 
 slugs:
+  en: "ronda-day-trip-from-granada"
   es: "ronda-desde-granada"
 
 duracion: "7 horas"

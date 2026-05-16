@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de día completo al Caminito del Rey desde Granada. Pasarela vertiginosa a 100 metros sobre el desfiladero de los Gaitanes. Incluye transporte privado, entrada, guía y almuerzo."
 
 slugs:
+  en: "caminito-del-rey-day-trip-from-granada"
   es: "caminito-del-rey-desde-granada"
 
 duracion: "8 horas"

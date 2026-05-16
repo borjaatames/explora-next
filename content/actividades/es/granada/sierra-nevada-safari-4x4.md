@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión en 4x4 de 6-7 horas por la Sierra Nevada desde Granada, subiendo hasta un refugio panorámico a 2.500 metros. Grupo reducido máximo 8 personas con guía de montaña local."
 
 slugs:
+  en: "sierra-nevada-4wd-safari-from-granada"
   es: "sierra-nevada-safari-4x4"
 
 duracion: "6-7 horas"

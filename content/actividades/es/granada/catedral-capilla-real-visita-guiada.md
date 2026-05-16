@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Visita guiada de 3 horas a la Catedral de la Encarnación y la Capilla Real de los Reyes Católicos, con entradas incluidas. Recorrido por la Alcaicería y La Madraza, primera universidad de Granada."
 
 slugs:
+  en: "cathedral-royal-chapel-guided-tour"
   es: "catedral-capilla-real-visita-guiada"
 
 duracion: "3 horas"

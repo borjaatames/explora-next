@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour de tapas nocturno de 3 horas por bares auténticos de Granada con guía local. Tapas tradicionales y vinos premium en zonas no turísticas. Rating perfecto 5,0 / 5."
 
 slugs:
+  en: "granada-evening-tapas-tour"
   es: "granada-tapas-noche"
 
 duracion: "3 horas"

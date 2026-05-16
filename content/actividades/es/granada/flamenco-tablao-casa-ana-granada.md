@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Espectáculo flamenco en directo en el Tablao Casa Ana, en pleno centro histórico de Granada. Telón, iluminación dinámica y sonido envolvente. Patrimonio cultural inmaterial UNESCO."
 
 slugs:
+  en: "flamenco-show-tablao-casa-ana-granada"
   es: "flamenco-tablao-casa-ana-granada"
 
 duracion: "1 hora"

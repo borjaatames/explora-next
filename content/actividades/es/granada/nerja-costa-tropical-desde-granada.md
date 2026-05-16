@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de día completo a las Cuevas de Nerja, Salobreña y Costa Tropical desde Granada. Incluye recogida en hotel, entrada a las cuevas y opción de almuerzo. Operado por Granavision."
 
 slugs:
+  en: "nerja-costa-tropical-day-trip-from-granada"
   es: "nerja-costa-tropical-desde-granada"
 
 duracion: "10 horas"

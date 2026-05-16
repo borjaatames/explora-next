@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour autoguiado de 3,5 horas por 5 restaurantes del centro de Granada con tapas y vino incluidos en cada parada. Recibes QR por WhatsApp/email para canjear en cada bar."
 
 slugs:
+  en: "gourmet-tapas-wine-tour-granada"
   es: "tour-gourmet-tapas-vino-granada"
 
 duracion: "3,5 horas"

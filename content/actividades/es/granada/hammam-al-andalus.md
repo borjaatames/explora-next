@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Sesión de 90 minutos en el Hammam Al Ándalus, a los pies de la Alhambra. Grupo reducido máx. 6 personas. Té de menta y agua ilimitados, masaje de 15 o 30 minutos incluido."
 
 slugs:
+  en: "hammam-al-andalus-arabic-baths"
   es: "hammam-al-andalus"
 
 duracion: "1,5 horas"

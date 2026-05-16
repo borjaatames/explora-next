@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de 7 horas a Úbeda y Baeza, dos joyas renacentistas Patrimonio de la Humanidad UNESCO. Tour guiado por Discovering Spain con sin colas y opción de grupo privado."
 
 slugs:
+  en: "ubeda-baeza-renaissance-day-trip"
   es: "ubeda-baeza-renacimiento"
 
 duracion: "7 horas"

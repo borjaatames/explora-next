@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Espectáculo flamenco de una hora en la Cueva Los Amayas, una zambra gitana en el Sacromonte para 60 personas, sin escenario ni megafonía. Bebida incluida y vistas al Generalife y la Alhambra."
 
 slugs:
+  en: "flamenco-show-cueva-los-amayas-sacromonte"
   es: "flamenco-cueva-amayas-sacromonte"
 
 duracion: "1 hora"

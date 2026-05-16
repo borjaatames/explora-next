@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Sesión de 90 minutos en el Hammam Palacio Nazarí: baños de vapor, piscinas de distinta temperatura, té árabe y opción de masaje (15, 30 o 45 minutos). Accesible en silla de ruedas."
 
 slugs:
+  en: "hammam-nasrid-palace-arabic-baths"
   es: "hammam-palacio-nazari"
 
 duracion: "1,5 horas - 105 minutos"

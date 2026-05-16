@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Entrada sin colas a los Jardines de la Alhambra, Generalife, Palacio de Carlos V y Alcazaba. Versión económica sin acceso a los Palacios Nazaríes. Incluye tasa de reserva de 4€."
 
 slugs:
+  en: "alhambra-gardens-generalife-skip-line-ticket"
   es: "entrada-jardines-alhambra-generalife"
 
 duracion: "1 día"

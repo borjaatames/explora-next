@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Excursión de día completo (8-10 horas) a los pueblos blancos de la Alpujarra granadina (Pampaneira, Bubión, Capileira). Recogida en hotel incluida y opción de almuerzo tradicional alpujarreño."
 
 slugs:
+  en: "alpujarra-mountain-villages-day-trip"
   es: "alpujarra-pueblos-montana"
 
 duracion: "8-10 horas"

@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour guiado de 2 horas a la Catedral y la Capilla Real de Granada con acceso sin colas. Guía en español, inglés, francés o italiano. Versión más rápida y económica que el tour de 3 horas."
 
 slugs:
+  en: "cathedral-royal-chapel-skip-line-small-group"
   es: "catedral-capilla-real-sin-colas-grupo"
 
 duracion: "2 horas"

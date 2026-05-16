@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Tour gastronómico de 3,5 horas en grupo pequeño por Granada. Tapas tradicionales, jamón, frutos secos y vino. Opción vegetariana. El food tour más reseñado de la ciudad (865 valoraciones, 4,9 / 5)."
 
 slugs:
+  en: "granada-small-group-food-tour-tapas-wine"
   es: "granada-food-tour-small-group"
 
 duracion: "3,5 horas"

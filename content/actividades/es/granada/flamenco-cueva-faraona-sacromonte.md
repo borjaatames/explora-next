@@ -5,6 +5,7 @@ ciudad: "granada"
 descripcion: "Espectáculo flamenco de una hora en la Cueva La Faraona, una cueva del Sacromonte con aforo de solo 25 personas. Ambiente íntimo y familiar, gestionado por la propia cueva."
 
 slugs:
+  en: "flamenco-show-cueva-la-faraona-sacromonte"
   es: "flamenco-cueva-faraona-sacromonte"
 
 duracion: "1 hora"
