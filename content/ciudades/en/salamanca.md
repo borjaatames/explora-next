@@ -17,8 +17,8 @@ keywords:
 atracciones:
   - nombre: "Plaza Mayor"
     descripcion: "Spain's most beautiful Baroque square (1755, by Alberto de Churriguera). The city's living room: everything happens here, from morning coffee to summer concerts."
-    imagen: "/images/actividades/salamanca/plaza-mayor/plaza-mayor-salamanca-soportales-barrocos-hero.webp"
-    imagenAlt: "Baroque arcades of Salamanca's Plaza Mayor with portrait medallions of historic figures"
+    imagen: "/images/actividades/salamanca/plaza-mayor/plaza-mayor-salamanca-pabellon-real-atardecer-hero.webp"
+    imagenAlt: "Royal Pavilion of Salamanca's Plaza Mayor at sunset with the city's golden Villamayor stone"
   - nombre: "University of Salamanca"
     descripcion: "Spain's oldest university (1218). A Plateresque facade hiding the legendary frog on a skull — finding it brings exam luck according to student tradition."
     imagen: "/images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero.webp"

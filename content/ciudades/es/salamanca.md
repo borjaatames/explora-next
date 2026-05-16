@@ -17,8 +17,8 @@ keywords:
 atracciones:
   - nombre: "Plaza Mayor"
     descripcion: "La plaza barroca más bella de España (1755, obra de Alberto de Churriguera). Salón de la ciudad: aquí pasa todo, desde el café de la mañana hasta los conciertos de verano."
-    imagen: "/images/actividades/salamanca/plaza-mayor/plaza-mayor-salamanca-soportales-barrocos-hero.webp"
-    imagenAlt: "Soportales barrocos de la Plaza Mayor de Salamanca con medallones de personajes ilustres"
+    imagen: "/images/actividades/salamanca/plaza-mayor/plaza-mayor-salamanca-pabellon-real-atardecer-hero.webp"
+    imagenAlt: "Pabellón Real de la Plaza Mayor de Salamanca iluminado al atardecer con la piedra dorada característica"
   - nombre: "Universidad de Salamanca"
     descripcion: "La universidad más antigua de España (1218). Fachada plateresca que esconde la mítica rana sobre la calavera — encontrarla trae suerte en los exámenes según la tradición estudiantil."
     imagen: "/images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero.webp"
