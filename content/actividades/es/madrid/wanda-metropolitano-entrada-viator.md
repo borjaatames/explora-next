@@ -1,114 +1,131 @@
 ---
-titulo: "Wanda Metropolitano: Entrada al Estadio del Atlético (Viator)"
-slug: "wanda-metropolitano-entrada-viator"
-ciudad: "madrid"
-descripcion: "Entrada al Estadio Riyadh Air Metropolitano (ex Wanda), sede del Atlético de Madrid. Reservada en Viator. Acceso autoguiado con audioguía opcional al museo interactivo y al recorrido por el estadio."
-
+titulo: 'Wanda Metropolitano: Entrada al Estadio del Atlético (Viator)'
+slug: wanda-metropolitano-entrada-viator
+ciudad: madrid
+descripcion: Entrada al Estadio Riyadh Air Metropolitano (ex Wanda), sede del Atlético de Madrid. Reservada en Viator. Acceso
+  autoguiado con audioguía opcional al museo interactivo y al recorrido por el estadio.
 slugs:
-  es: "wanda-metropolitano-entrada-viator"
-  en: "wanda-metropolitano-entrance-ticket-viator"
-
-duracion: "1,5 horas"
+  es: wanda-metropolitano-entrada-viator
+  en: wanda-metropolitano-entrance-ticket-viator
+duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 25
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Wanda-Metropolitano-Entrance-Ticket/d566-65969P1?pid=P00298823&mcid=42383&medium=link"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Madrid/Wanda-Metropolitano-Entrance-Ticket/d566-65969P1?pid=P00298823&mcid=42383&medium=link
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Acceso al Riyadh Air Metropolitano (ex Wanda), sede del Atlético de Madrid"
-  - "Vestuarios del primer equipo siempre abiertos (no se cierran por partidos)"
-  - "Museo interactivo con realidad virtual y experiencias inmersivas"
-  - "Producto Viator — alternativa al catálogo GetYourGuide"
-
+- Acceso al Riyadh Air Metropolitano (ex Wanda), sede del Atlético de Madrid
+- Vestuarios del primer equipo siempre abiertos (no se cierran por partidos)
+- Museo interactivo con realidad virtual y experiencias inmersivas
+- Producto Viator — alternativa al catálogo GetYourGuide
 incluye:
-  - "Entrada al Estadio Riyadh Air Metropolitano"
-  - "Acceso al Museo Atlético de Madrid"
-  - "Audioguía (verificar si va incluida o es extra según opción)"
-
+- Entrada al Estadio Riyadh Air Metropolitano
+- Acceso al Museo Atlético de Madrid
+- Audioguía (verificar si va incluida o es extra según opción)
 noIncluye:
-  - "Comida y bebida"
-  - "Transporte hasta el estadio"
-  - "Photo Corner (extra opcional)"
-  - "Propinas"
-
+- Comida y bebida
+- Transporte hasta el estadio
+- Photo Corner (extra opcional)
+- Propinas
 puntoEncuentro:
-  texto: "Estadio Riyadh Air Metropolitano, Av. de Luis Aragonés, 4 (zona Las Rosas). Entrada por el Atleti Tour. Confirma el punto exacto en email de reserva."
-  descripcionGuia: "Metro Estadio Metropolitano (línea 7) a 10 minutos andando. Desde Sol son 30-35 minutos en metro con transbordo. Llega 15 minutos antes para el control de seguridad. El estadio queda fuera del centro — calcula bien tu agenda."
+  texto: Estadio Riyadh Air Metropolitano, Av. de Luis Aragonés, 4 (zona Las Rosas). Entrada por el Atleti Tour. Confirma
+    el punto exacto en email de reserva.
+  descripcionGuia: Metro Estadio Metropolitano (línea 7) a 10 minutos andando. Desde Sol son 30-35 minutos en metro con transbordo.
+    Llega 15 minutos antes para el control de seguridad. El estadio queda fuera del centro — calcula bien tu agenda.
   latitud: 40.4356
   longitud: -3.6013
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo"
-    - "Documento de identidad"
-    - "Botella de agua"
+  - Calzado cómodo
+  - Documento de identidad
+  - Botella de agua
   noAptoPara:
-    - "Mascotas (salvo perros de asistencia)"
+  - Mascotas (salvo perros de asistencia)
   aTenerEnCuenta:
-    - "Cancelación gratuita hasta 24 horas antes — confirmación inmediata"
-    - "Confirma si la audioguía está incluida o es extra al elegir opción"
-    - "El estadio está fuera del centro (30-40 min en metro desde Sol)"
-    - "Hay reseñas críticas sobre atención al cliente del operador (alguna queja por falta de respuesta)"
-    - "Comparativa: producto similar en GetYourGuide con más reseñas validadas (4,7/5, 2.188 reseñas)"
-    - "Las funciones del museo interactivo se aprecian más a partir de las 17:30 con poca afluencia"
-
-accesibilidad: "El estadio Metropolitano es moderno (inaugurado 2017), con ascensores y rampas. Marcado como accesible en silla de ruedas."
-
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
-
+  - Cancelación gratuita hasta 24 horas antes — confirmación inmediata
+  - Confirma si la audioguía está incluida o es extra al elegir opción
+  - El estadio está fuera del centro (30-40 min en metro desde Sol)
+  - Hay reseñas críticas sobre atención al cliente del operador (alguna queja por falta de respuesta)
+  - 'Comparativa: producto similar en GetYourGuide con más reseñas validadas (4,7/5, 2.188 reseñas)'
+  - Las funciones del museo interactivo se aprecian más a partir de las 17:30 con poca afluencia
+accesibilidad: El estadio Metropolitano es moderno (inaugurado 2017), con ascensores y rampas. Marcado como accesible en silla
+  de ruedas.
+politicaCancelacion: Cancelación según la política específica del producto en Viator — verifica al reservar.
 preguntasFrecuentes:
-  - pregunta: "¿Está incluida la audioguía?"
-    respuesta: "Depende de la opción de Viator que elijas. En GetYourGuide la audioguía es habitualmente un extra. Confirma al reservar y, si no entra, añádela — el recorrido es autoguiado y sin audio pierde mucho contexto."
-  - pregunta: "¿Cuál es el nombre real del estadio?"
-    respuesta: "Oficialmente Riyadh Air Metropolitano desde 2024 (cambio de patrocinador). Antes era Wanda Metropolitano. Es el mismo estadio en la misma ubicación. Mucha gente sigue refiriéndose como «el Wanda»."
-  - pregunta: "¿Comparado con el Tour Bernabéu, qué tal?"
-    respuesta: "El Metropolitano cuesta menos (25 € vs 42 €), tiene vestuarios siempre abiertos (en el Bernabéu cierran por partidos), y tiene experiencias interactivas con VR que el Bernabéu no tiene. El Bernabéu tiene más trofeos y más historia del club. Si eres atlético o quieres ver un estadio nuevo, este es mejor opción precio-calidad."
-  - pregunta: "¿En qué idiomas?"
-    respuesta: "Audioguía habitualmente en español e inglés."
-  - pregunta: "¿Cuánto tiempo conviene reservar?"
-    respuesta: "1,5 horas para verlo todo con calma. Si solo quieres estadio y vestuarios sin entretenerte en el museo interactivo, 1 hora."
+- pregunta: ¿Está incluida la audioguía?
+  respuesta: Depende de la opción de Viator que elijas. En GetYourGuide la audioguía es habitualmente un extra. Confirma al
+    reservar y, si no entra, añádela — el recorrido es autoguiado y sin audio pierde mucho contexto.
+- pregunta: ¿Cuál es el nombre real del estadio?
+  respuesta: Oficialmente Riyadh Air Metropolitano desde 2024 (cambio de patrocinador). Antes era Wanda Metropolitano. Es
+    el mismo estadio en la misma ubicación. Mucha gente sigue refiriéndose como «el Wanda».
+- pregunta: ¿Comparado con el Tour Bernabéu, qué tal?
+  respuesta: El Metropolitano cuesta menos (25 € vs 42 €), tiene vestuarios siempre abiertos (en el Bernabéu cierran por partidos),
+    y tiene experiencias interactivas con VR que el Bernabéu no tiene. El Bernabéu tiene más trofeos y más historia del club.
+    Si eres atlético o quieres ver un estadio nuevo, este es mejor opción precio-calidad.
+- pregunta: ¿En qué idiomas?
+  respuesta: Audioguía habitualmente en español e inglés.
+- pregunta: ¿Cuánto tiempo conviene reservar?
+  respuesta: 1,5 horas para verlo todo con calma. Si solo quieres estadio y vestuarios sin entretenerte en el museo interactivo,
+    1 hora.
+variantes:
+- wanda-metropolitano-atletico-tour
+opinionEditorial: 'Es la versión Viator de la visita autoguiada al Riyadh Air Metropolitano (ex Wanda), con rating 4,4/5 sobre
+  188 opiniones. El precio arranca en 25 euros, competitivo respecto al equivalente en GetYourGuide (4,7/5 con 2.188 reseñas,
+  top rated). Si quieres máxima validación social, mira GetYourGuide; si ya usas Viator, este cumple con buen rating. Algunas
+  reseñas de 1 estrella critican atención al cliente del operador — el tour en sí está bien valorado pero las gestiones post-compra
+  pueden ser flojas.
 
-variantes: ["wanda-metropolitano-atletico-tour"]
 
-opinionEditorial: |
-  Es la versión Viator de la visita autoguiada al Riyadh Air Metropolitano (ex Wanda), con rating 4,4/5 sobre 188 opiniones. El precio arranca en 25 euros, competitivo respecto al equivalente en GetYourGuide (4,7/5 con 2.188 reseñas, top rated). Si quieres máxima validación social, mira GetYourGuide; si ya usas Viator, este cumple con buen rating. Algunas reseñas de 1 estrella critican atención al cliente del operador — el tour en sí está bien valorado pero las gestiones post-compra pueden ser flojas.
+  Lo que conviene saber. El Metropolitano es de los tours de estadio mejor valorados de Madrid por tres factores: vestuarios
+  siempre abiertos (en el Bernabéu cierran días de partido), museo interactivo con realidad virtual y juegos, y precio competitivo.
+  Si vas a Madrid con interés en fútbol, este estadio compite muy bien con el Bernabéu. La pega: está fuera del centro (30-40
+  min en metro desde Sol). Confirma si la audioguía está incluida en el precio o es extra.
 
-  Lo que conviene saber. El Metropolitano es de los tours de estadio mejor valorados de Madrid por tres factores: vestuarios siempre abiertos (en el Bernabéu cierran días de partido), museo interactivo con realidad virtual y juegos, y precio competitivo. Si vas a Madrid con interés en fútbol, este estadio compite muy bien con el Bernabéu. La pega: está fuera del centro (30-40 min en metro desde Sol). Confirma si la audioguía está incluida en el precio o es extra.
 
-  Para quién: aficionados al Atlético o al fútbol en general, familias con niños que disfruten experiencias interactivas, usuarios habituales de Viator. Para quién NO: viajeros con poco tiempo en Madrid (el estadio queda lejos), quienes quieran la máxima validación social (GetYourGuide tiene más reseñas), y quien no tenga interés deportivo.
+  Para quién: aficionados al Atlético o al fútbol en general, familias con niños que disfruten experiencias interactivas,
+  usuarios habituales de Viator. Para quién NO: viajeros con poco tiempo en Madrid (el estadio queda lejos), quienes quieran
+  la máxima validación social (GetYourGuide tiene más reseñas), y quien no tenga interés deportivo.
 
-categoria: "deportivo"
-keywords: ["wanda metropolitano viator", "atletico madrid tour viator", "metropolitano entrada viator", "tour atletico madrid", "civitas metropolitano"]
-
-imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
-imagenAlt: "Estadio moderno de fútbol (imagen referencial)"
-
+  '
+categoria: deportivo
+keywords:
+- wanda metropolitano viator
+- atletico madrid tour viator
+- metropolitano entrada viator
+- tour atletico madrid
+- civitas metropolitano
+imagen: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-estadio-exterior-fachada--hero.webp
+imagenAlt: Fachada moderna del Metropolitano, estadio del Atlético de Madrid, con arquitectura contemporánea y entrada principal
+  destacada
 galeria:
-  - src: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
-    alt: "Estadio de fútbol referencial"
-
+- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-interior-graderias-campo--hero.webp
+  alt: Interior del estadio de Madrid con amplias gradas y campo de fútbol visto desde las tribunas
+- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-vestuarios-equipo-02-hero.webp
+  alt: Vestuario del Atlético de Madrid con taquillas metálicas, bancos de madera y equipamiento deportivo
+- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-museo-realidad-virtual-03-hero.webp
+  alt: Interior de museo interactivo del Atlético de Madrid con instalaciones de realidad virtual y pantallas inmersivas de
+    tecnología deportiva
+- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-tunel-acceso-cancha-04-hero.webp
+  alt: Túnel de acceso al terreno de juego en estadio de Madrid con pasillos interiores y atmósfera de competición
 ratingProveedor: 4.4
 numeroOpiniones: 188
-
 publicada: true
 destacada: false
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 atraccionesRelacionadas: []
-
-# TODO: No hay imagen específica del Metropolitano — usado placeholder del Bernabéu. Sustituir por imagen propia cuando esté disponible.
 ---
 
 ## Qué vas a ver
