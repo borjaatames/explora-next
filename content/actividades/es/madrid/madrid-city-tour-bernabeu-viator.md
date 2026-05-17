@@ -1,0 +1,150 @@
+---
+titulo: "Madrid City Tour + Estadio Bernabéu (Viator)"
+slug: "madrid-city-tour-bernabeu-viator"
+ciudad: "madrid"
+descripcion: "Tour combinado de medio día por Madrid centro + visita al Estadio Santiago Bernabéu. Producto Viator para cubrir los hitos turísticos y el santuario del Real Madrid en una sola actividad."
+
+slugs:
+  es: "madrid-city-tour-bernabeu-viator"
+  en: "madrid-city-tour-bernabeu-viator"
+
+duracion: "4 horas"
+duracionMinutos: 240
+precioDesde: 70
+moneda: "EUR"
+idiomas: ["es", "en"]
+proveedor: "viator"
+urlReserva: "https://www.viator.com/tours/Madrid/Madrid-City-Tour-and-Santiago-Bernabeu-Stadium/d566-2140JTEMA13?pid=P00298823&mcid=42383&medium=link"
+cancelacionGratuita: true
+horasCancelacion: 24
+
+highlights:
+  - "City tour panorámico por los principales hitos de Madrid centro"
+  - "Visita al Estadio Santiago Bernabéu (entrada incluida)"
+  - "Hitos: Plaza Mayor, Puerta del Sol, Cibeles, Gran Vía, Palacio Real (exterior)"
+  - "Tour combinado en una sola jornada de medio día"
+
+incluye:
+  - "City tour de Madrid en autobús (panorámico)"
+  - "Entrada al Tour Bernabéu (autoguiado o guiado según opción)"
+  - "Guía durante el city tour"
+  - "Traslado al estadio"
+
+noIncluye:
+  - "Comida y bebida"
+  - "Entradas a museos del centro"
+  - "Propinas"
+  - "Visita interior del Palacio Real (es paseo exterior)"
+
+puntoEncuentro:
+  texto: "Confirma el punto de encuentro exacto en tu email de reserva — habitualmente un punto céntrico de Madrid con conexión a autobús turístico."
+  descripcionGuia: "Llega 15-20 minutos antes para no perder la salida del bus. El tour cubre Madrid centro panorámicamente (parada con bajada para fotos en algunos hitos) y luego se desplaza al Bernabéu. El estadio queda lejos del centro — sin el bus tendrías que tomar metro hasta Santiago Bernabéu (línea 10)."
+  latitud: 40.4168
+  longitud: -3.7038
+  zoom: 13
+
+detallesPracticos:
+  ticketMovil: true
+  confirmacionInmediata: true
+  accesibleSilla: false
+  edadMinima: 0
+  mascotasPermitidas: false
+
+informacionImportante:
+  queTraer:
+    - "Documento de identidad o pasaporte"
+    - "Calzado cómodo (zonas de bajada y visita al estadio implican andar)"
+    - "Botella de agua"
+    - "Gorra y crema en verano"
+  noAptoPara:
+    - "Usuarios de silla de ruedas que necesiten acceder a banquillos y vestuarios del Bernabéu"
+    - "Mascotas (salvo perros de asistencia)"
+  aTenerEnCuenta:
+    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
+    - "Día de partido o víspera: vestuarios y banquillos del Bernabéu cerrados"
+    - "El city tour es panorámico, no entras a museos ni al Palacio Real"
+    - "Combinar 2 actividades en 4 horas implica ritmo rápido"
+    - "Operador concreto y guía pueden variar entre fechas en Viator"
+
+accesibilidad: "El bus city tour suele ser accesible. El Tour Bernabéu es parcialmente accesible (museo y vista panorámica sí, banquillos y vestuarios no). Confirma con el operador al reservar."
+
+politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar. Habitualmente cancelación gratuita hasta 24 horas antes."
+
+preguntasFrecuentes:
+  - pregunta: "¿Qué se ve exactamente en el city tour?"
+    respuesta: "Recorrido panorámico en autobús por los hitos del centro: Plaza Mayor, Puerta del Sol, Plaza de Cibeles, Gran Vía, Palacio Real (exterior), Plaza de España, Templo de Debod. Algunas paradas permiten bajar para fotos. NO entras a monumentos."
+  - pregunta: "¿La visita al Bernabéu es guiada?"
+    respuesta: "Depende de la opción de Viator que elijas. La opción base suele incluir entrada autoguiada (paneles + audiovisuales en el museo y zona pitchside). Hay opciones premium con guía dedicada — confirma al reservar."
+  - pregunta: "¿Vale la pena el combinado vs reservar cada cosa por separado?"
+    respuesta: "Vale la pena si optimizar tiempo es tu prioridad. Por separado: 35-40 € el city tour + 42 € el Tour Bernabéu = ~80 €. El combinado en torno a 70 € es un ahorro modesto y te quita el desplazamiento al estadio. Si te sobra un día, mejor por separado para ver cada cosa con calma."
+  - pregunta: "¿En qué idiomas se ofrece?"
+    respuesta: "Típicamente español e inglés. Selecciona al reservar."
+  - pregunta: "¿Qué pasa si hay partido?"
+    respuesta: "Si tu visita coincide con día de partido del Real Madrid, vestuarios y banquillos del Bernabéu estarán cerrados (también el día anterior). Consulta el calendario del Real Madrid antes de elegir fecha para no perderte la parte más espectacular."
+
+variantes: ["bernabeu-ticket-acceso", "bernabeu-visita-guiada", "madrid-big-bus-hop-on-hop-off"]
+
+opinionEditorial: |
+  Es el tour combinado clásico de Madrid + Bernabéu en Viator. No hemos podido extraer datos detallados (Viator bloquea extracción automática). El precio ronda los 70 euros y combina city tour panorámico del centro con entrada al Tour Bernabéu en una sola actividad de medio día. Tiene sentido logístico para viajeros con poco tiempo.
+
+  Lo que conviene saber. El city tour es panorámico — pasas por los hitos pero no entras a museos ni al Palacio Real. Es plano para fotos y orientación, no profundidad cultural. El Bernabéu es la parte más interesante para muchos viajeros: si vas en día de partido, ten en cuenta que vestuarios y banquillos cierran el día y la víspera del encuentro. El ahorro frente a reservar cada cosa por separado es modesto (en torno a 10 €) — el valor real está en evitarte el desplazamiento al estadio y centralizar la organización del medio día.
+
+  Para quién: viajeros con un solo día en Madrid que quieran ver hitos centro + Bernabéu sin organizar por libre, fans del Real Madrid que también quieran orientarse por el centro, y usuarios habituales de Viator. Para quién NO: quien quiera profundidad cultural (esto es panorámico), viajeros con movilidad reducida que esperen acceder a toda la zona pitchside del Bernabéu (no es accesible), y quien tenga 2 días o más (mejor separar las dos actividades).
+
+categoria: "deportivo"
+keywords: ["madrid city tour bernabeu", "tour madrid bernabeu viator", "estadio bernabeu city tour", "real madrid madrid tour combinado", "viator madrid bernabeu"]
+
+imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
+imagenAlt: "Estadio Santiago Bernabéu, parte del tour combinado de Madrid"
+
+galeria:
+  - src: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
+    alt: "Estadio Santiago Bernabéu"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
+    alt: "Gran Vía de Madrid"
+
+ratingProveedor: 4.3
+numeroOpiniones: 0
+
+publicada: false
+destacada: false
+fecha: "2026-05-17"
+fecha_actualizacion: "2026-05-17"
+atraccionesRelacionadas:
+  - "bernabeu"
+
+# TODO: Viator bloqueó la extracción. Validar rating, reseñas, precio y operador concreto antes de publicar.
+---
+
+## Qué vas a ver
+
+Tour combinado de medio día que cubre los hitos panorámicos de Madrid centro + visita al Estadio Santiago Bernabéu. Reservado en Viator. Duración total aproximada: 4 horas.
+
+- **City tour panorámico:** Plaza Mayor, Puerta del Sol, Plaza de Cibeles, Gran Vía, Palacio Real (exterior), Plaza de España, Templo de Debod.
+- **Algunas paradas con bajada:** fotos en hitos seleccionados.
+- **Tour Bernabéu:** entrada al estadio del Real Madrid con museo, vista panorámica, vestuarios y banquillos (sujetos a cierre días de partido).
+- **Traslado incluido:** del centro al estadio sin que tengas que coger metro.
+
+## Cómo funciona
+
+**Punto de encuentro:** confirma en email de reserva. Llega 15-20 minutos antes para no perder la salida.
+
+**Duración:** 4 horas en total — city tour + traslado + Tour Bernabéu.
+
+**Idiomas:** español o inglés. Selecciona al reservar.
+
+**Aviso día de partido:** vestuarios y banquillos del Bernabéu cierran el día y la víspera del encuentro. Consulta el calendario del Real Madrid antes de elegir fecha.
+
+## A quién se lo recomiendo
+
+- A viajeros con un solo día que quieran combinar centro + Bernabéu.
+- A fans del Real Madrid que también quieran orientarse por el centro.
+- A quien prefiera no tener que coger metro hasta el estadio.
+- A usuarios habituales de Viator.
+
+## A quién NO se lo recomiendo
+
+- A quien busque profundidad cultural (esto es panorámico, no entras a museos).
+- A viajeros con movilidad reducida que esperen acceso completo al Bernabéu.
+- A quien tenga 2 días o más: mejor separar centro y estadio en jornadas distintas.
+- A quien visite en día de partido sin haber confirmado horario.
