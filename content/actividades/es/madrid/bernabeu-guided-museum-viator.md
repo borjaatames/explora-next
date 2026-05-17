@@ -8,9 +8,9 @@ slugs:
   es: "bernabeu-guided-museum-viator"
   en: "bernabeu-guided-museum-tour-viator"
 
-duracion: "2 horas"
-duracionMinutos: 120
-precioDesde: 55
+duracion: "1,5-2 horas"
+duracionMinutos: 105
+precioDesde: 63
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -82,11 +82,11 @@ preguntasFrecuentes:
 variantes: ["bernabeu-ticket-acceso", "bernabeu-visita-guiada"]
 
 opinionEditorial: |
-  Es la versión Viator del tour guiado al Bernabéu. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 55 euros con guía profesional y entrada incluida. La versión equivalente en GetYourGuide cuesta unos 62 euros pero tiene 1.500+ reseñas validadas — si quieres certeza de calidad, esa es la opción más probada. Esta Viator tiene sentido si ya usas la plataforma o quieres centralizar.
+  Es la versión Viator del tour guiado al Bernabéu, con 452 opiniones y rating 4,2/5 — un nivel correcto pero no top. El precio arranca en torno a 63 € (68,72 US$) por persona, con guía profesional y entrada incluida. El bloque más crítico de las reseñas señala que la guía añade poco sobre el contenido autoguiado del museo y que la diferencia de precio respecto a entrar por libre (unos 30 € en taquilla) no siempre se justifica. La versión equivalente en GetYourGuide cuesta similar pero tiene más reseñas validadas — si valoras certeza máxima, mira allí; si ya usas Viator, esta cumple.
 
-  Lo que conviene saber. El día de partido y la víspera, vestuarios y banquillos están cerrados — confirma calendario antes de elegir fecha. No es accesible en silla para la zona pitchside (museo sí). El recorrido completo dura 2 horas y cubre lo estándar del Tour Bernabéu remodelado: museo con trofeos (incluida la 15ª Champions), vista panorámica desde gradas, vestuarios y banquillos.
+  Lo que conviene saber. El día de partido y la víspera, vestuarios y banquillos están cerrados — confirma calendario antes de elegir fecha. No es accesible en silla para la zona pitchside (museo sí). El recorrido completo dura 1,5-2 horas y cubre lo estándar del Tour Bernabéu remodelado: museo con trofeos (incluida la 15ª Champions), vista panorámica desde gradas, vestuarios y banquillos. Cancelación gratuita hasta 24 horas antes.
 
-  Para quién: fans del Real Madrid que valoran guía profesional sobre autoguiado, usuarios habituales de Viator, y quien quiera centralizar todas sus reservas. Para quién NO: viajeros con movilidad reducida (zona pitchside no accesible), quienes busquen la opción más económica (el autoguiado cuesta unos 13 € menos), y visitantes en día de partido sin posibilidad de cambiar fecha.
+  Para quién: fans del Real Madrid que valoran guía profesional sobre autoguiado, usuarios habituales de Viator, y quien quiera centralizar todas sus reservas. Para quién NO: viajeros con movilidad reducida (zona pitchside no accesible), quienes busquen la opción más económica (en taquilla son 30 €), y visitantes en día de partido sin posibilidad de cambiar fecha.
 
 categoria: "deportivo"
 keywords: ["bernabeu guided tour viator", "tour bernabeu guia viator", "real madrid stadium viator", "bernabeu museum guided", "santiago bernabeu viator"]
@@ -98,17 +98,15 @@ galeria:
   - src: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
     alt: "Fachada del Estadio Santiago Bernabéu"
 
-ratingProveedor: 4.4
-numeroOpiniones: 0
+ratingProveedor: 4.2
+numeroOpiniones: 452
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "bernabeu"
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas y precio antes de publicar.
 ---
 
 ## Qué vas a ver

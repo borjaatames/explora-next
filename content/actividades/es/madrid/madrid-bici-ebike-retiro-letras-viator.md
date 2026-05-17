@@ -10,7 +10,7 @@ slugs:
 
 duracion: "3 horas"
 duracionMinutos: 180
-precioDesde: 45
+precioDesde: 42
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -60,14 +60,15 @@ informacionImportante:
     - "Niños menores de 14 años (típicamente)"
     - "Mascotas"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
-    - "Tramos por calles compartidas con tráfico — el guía elige rutas tranquilas"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
+    - "Producto «se agota rápido» según Viator — reserva con antelación"
+    - "Solo 5 opiniones publicadas en Viator — base estadística muy pequeña"
     - "El Parque del Retiro tiene zonas cerradas al tráfico — más seguro pedaleando"
     - "Lleva culotte o ropa cómoda si vas mucho en bici (los sillines pueden ser incómodos)"
 
 accesibilidad: "No accesible en silla de ruedas (es bicicleta). Para alternativa accesible al Retiro, paseo a pie por libre."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Qué se ve en el Barrio de las Letras?"
@@ -84,11 +85,11 @@ preguntasFrecuentes:
 variantes: ["madrid-tour-ebike-3h", "madrid-ebike-sunset-tour", "magic-retiro-park-bike-tour"]
 
 opinionEditorial: |
-  Es un tour Viator en e-bike que combina dos zonas clásicas de Madrid: el Parque del Retiro y el Barrio de las Letras. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 45 euros. La idea de combinar parque + barrio literario en una sola actividad es buena — son zonas geográficamente próximas y complementarias.
+  Tour Viator en e-bike combinando Parque del Retiro y Barrio de las Letras. 5,0 sobre 5 según Viator, pero con solo 5 opiniones — base estadística minúscula. Con tan pocas reseñas, el rating perfecto significa poco: una sola experiencia mediocre lo movería al 4,0. Etiquetado como «se agota rápido», lo que sugiere oferta limitada de plazas, no necesariamente tracción real de demanda. Precio: 42 €.
 
-  Lo que conviene saber. Tramos en calles compartidas con tráfico para llegar de un sitio a otro — el guía elige rutas tranquilas pero conviene tener experiencia básica en bici. Una vez en el Retiro, gran parte está cerrado al tráfico. El Barrio de las Letras tiene calles peatonales mezcladas con tráfico local. Si no eres ciclista habitual, la asistencia eléctrica te ayuda con cuestas y distancias. Tour comparable al «Magic Retiro» de GetYourGuide pero añadiendo el Barrio de las Letras — para fanáticos de la literatura del Siglo de Oro, plus interesante.
+  Lo que conviene saber. La idea combinatoria es buena — Retiro + Barrio de las Letras son zonas próximas y complementarias, y unirlas en una sola actividad ahorra logística. Pero el producto tiene tracción débil en Viator (5 opiniones es prácticamente nada para un destino del volumen de Madrid). Si reservas, asumes el riesgo de un operador poco contrastado. Para alternativas más probadas, el «Magic Retiro» y otros tours genéricos de e-bike en GetYourGuide tienen mucho más volumen de validación. Tramos en calles compartidas con tráfico para conectar las zonas — conviene tener experiencia básica en bici, la asistencia eléctrica no enseña a equilibrar.
 
-  Para quién: viajeros que quieran cubrir Retiro + zona literaria en una sola actividad, interesados en el Madrid de Cervantes y los grandes del Siglo de Oro, ciclistas casuales que valoren la asistencia eléctrica. Para quién NO: personas que nunca han llevado bici, viajeros con poco tiempo (3 h es jornada larga), y quien solo quiera ver el Retiro (mejor tour específico del parque).
+  Para quién: viajeros que valoran específicamente el Madrid literario del Siglo de Oro y quieran cubrirlo a pedales junto con el Retiro, ciclistas casuales con tolerancia al riesgo de un operador con poca base de reseñas. Para quién NO: quien necesite validación masiva antes de reservar (mejor tour de e-bike con cientos de opiniones), personas que nunca han llevado bici, viajeros con poco tiempo (3h es jornada larga), y quien solo quiera el Retiro (mejor tour específico del parque).
 
 categoria: "activo"
 keywords: ["ebike retiro letras madrid", "tour bici retiro barrio letras", "ebike madrid literario", "viator bici madrid", "retiro letras bicicleta"]
@@ -102,18 +103,16 @@ galeria:
   - src: "/images/actividades/madrid/barrio-letras/01.webp"
     alt: "Barrio de las Letras de Madrid"
 
-ratingProveedor: 4.6
-numeroOpiniones: 0
+ratingProveedor: 5.0
+numeroOpiniones: 5
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "retiro"
   - "barrio-letras"
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas y precio.
 ---
 
 ## Qué vas a ver

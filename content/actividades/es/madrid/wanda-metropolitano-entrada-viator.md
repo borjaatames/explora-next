@@ -57,9 +57,10 @@ informacionImportante:
   noAptoPara:
     - "Mascotas (salvo perros de asistencia)"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
+    - "Cancelación gratuita hasta 24 horas antes — confirmación inmediata"
     - "Confirma si la audioguía está incluida o es extra al elegir opción"
     - "El estadio está fuera del centro (30-40 min en metro desde Sol)"
+    - "Hay reseñas críticas sobre atención al cliente del operador (alguna queja por falta de respuesta)"
     - "Comparativa: producto similar en GetYourGuide con más reseñas validadas (4,7/5, 2.188 reseñas)"
     - "Las funciones del museo interactivo se aprecian más a partir de las 17:30 con poca afluencia"
 
@@ -82,7 +83,7 @@ preguntasFrecuentes:
 variantes: ["wanda-metropolitano-atletico-tour"]
 
 opinionEditorial: |
-  Es la versión Viator del ticket de entrada al Metropolitano. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 25 euros, similar al equivalente en GetYourGuide donde hay 2.188 reseñas validadas (4,7/5, top rated). Si quieres máxima certeza, la opción GetYourGuide está más probada. Esta de Viator tiene sentido si ya usas la plataforma o quieres centralizar reservas.
+  Es la versión Viator de la visita autoguiada al Riyadh Air Metropolitano (ex Wanda), con rating 4,4/5 sobre 188 opiniones. El precio arranca en 25 euros, competitivo respecto al equivalente en GetYourGuide (4,7/5 con 2.188 reseñas, top rated). Si quieres máxima validación social, mira GetYourGuide; si ya usas Viator, este cumple con buen rating. Algunas reseñas de 1 estrella critican atención al cliente del operador — el tour en sí está bien valorado pero las gestiones post-compra pueden ser flojas.
 
   Lo que conviene saber. El Metropolitano es de los tours de estadio mejor valorados de Madrid por tres factores: vestuarios siempre abiertos (en el Bernabéu cierran días de partido), museo interactivo con realidad virtual y juegos, y precio competitivo. Si vas a Madrid con interés en fútbol, este estadio compite muy bien con el Bernabéu. La pega: está fuera del centro (30-40 min en metro desde Sol). Confirma si la audioguía está incluida en el precio o es extra.
 
@@ -98,16 +99,16 @@ galeria:
   - src: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
     alt: "Estadio de fútbol referencial"
 
-ratingProveedor: 4.5
-numeroOpiniones: 0
+ratingProveedor: 4.4
+numeroOpiniones: 188
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas: []
 
-# TODO: Viator bloqueó la extracción. No hay imagen específica del Metropolitano — usado placeholder. Validar rating, reseñas y precio antes de publicar.
+# TODO: No hay imagen específica del Metropolitano — usado placeholder del Bernabéu. Sustituir por imagen propia cuando esté disponible.
 ---
 
 ## Qué vas a ver

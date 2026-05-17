@@ -8,9 +8,9 @@ slugs:
   es: "segway-retiro-park-viator"
   en: "retiro-park-segway-tour-viator"
 
-duracion: "1,5 horas"
-duracionMinutos: 90
-precioDesde: 38
+duracion: "1 hora"
+duracionMinutos: 60
+precioDesde: 37
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -61,10 +61,11 @@ informacionImportante:
     - "Personas con peso fuera del rango del segway (consulta al reservar)"
     - "Mascotas"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
     - "Se incluye instrucción previa — primer segway de tu vida no es problema si sigues indicaciones"
     - "El Retiro está cerrado al tráfico en gran parte — terreno seguro para segway"
-    - "El segway es más sencillo de lo que parece, pero requiere atención durante 1,5 h"
+    - "Duración 1 hora — formato compacto y eficiente"
+    - "Algunos clientes prolongan 30 min adicionales bajo petición"
 
 accesibilidad: "No accesible en silla de ruedas (es segway). Para alternativa accesible en el Retiro, paseo a pie por libre."
 
@@ -85,9 +86,9 @@ preguntasFrecuentes:
 variantes: ["magic-retiro-park-bike-tour", "madrid-bici-ebike-retiro-letras-viator"]
 
 opinionEditorial: |
-  Es el tour en segway por el Retiro en Viator. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 38 euros. El segway es alternativa interesante a la bici: no requiere saber pedalear y es muy sencillo después de la instrucción inicial. El Retiro, al estar cerrado al tráfico en gran parte, es terreno ideal — más seguro que tours en segway por el centro.
+  Es el tour en segway por el Retiro en Viator: rating excelente — 4,8/5 — sobre 282 opiniones validadas. El precio arranca en 37 euros por una hora con guía e instrucción previa incluidas. El segway es alternativa interesante a la bici: no requiere saber pedalear y es muy sencillo después de la instrucción inicial. El Retiro, al estar cerrado al tráfico en gran parte, es terreno ideal — más seguro que tours en segway por el centro. Las reseñas destacan especialmente la simpatía de los guías (Alan, Miquel, Filipe aparecen mencionados con buen feedback).
 
-  Lo que conviene saber. La instrucción previa de 10-15 minutos cubre lo fundamental, pero conviene tener equilibrio normal — si tienes vértigos o problemas vestibulares, mejor opta por tour a pie. Edad mínima típica 14 años. Algunos operadores tienen restricciones de peso (consulta al reservar). El segway es más sencillo de lo que parece pero exige atención durante la 1,5 hora — no es para distraerse.
+  Lo que conviene saber. La instrucción previa de 10-15 minutos cubre lo fundamental, pero conviene tener equilibrio normal — si tienes vértigos o problemas vestibulares, mejor opta por tour a pie. Edad mínima típica 14 años. Algunos operadores tienen restricciones de peso (consulta al reservar). Duración 1 hora — formato compacto; algunos clientes piden 30 minutos extra al guía. El segway es más sencillo de lo que parece pero exige atención durante toda la hora.
 
   Para quién: viajeros que no saben ir en bici o no quieren esfuerzo físico, mayores en forma que quieran ver el Retiro sin cansarse, grupos pequeños que busquen actividad diferente. Para quién NO: niños pequeños (edad mínima 14), personas con problemas de equilibrio o vestibulares, embarazadas (desaconsejado), y viajeros con movilidad muy reducida (mejor pasear o silla de ruedas).
 
@@ -101,17 +102,15 @@ galeria:
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
     alt: "Palacio de Cristal del Retiro"
 
-ratingProveedor: 4.7
-numeroOpiniones: 0
+ratingProveedor: 4.8
+numeroOpiniones: 282
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "retiro"
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas y precio.
 ---
 
 ## Qué vas a ver
@@ -128,7 +127,7 @@ Tour en segway de 1,5 horas por el Parque del Retiro de Madrid. Recorrido cómod
 
 **Punto de encuentro:** confirmar en email (próximo a una entrada del Retiro). Metro Retiro (línea 2) o Príncipe de Vergara.
 
-**Llega 20 minutos antes** — instrucción previa de 10-15 min + firma de descargo. **Duración: 1,5 horas.**
+**Llega 20 minutos antes** — instrucción previa de 10-15 min + firma de descargo. **Duración: 1 hora** (algunos guías ofrecen extender 30 min bajo petición).
 
 **Idiomas:** español e inglés. **Edad mínima: 14.**
 

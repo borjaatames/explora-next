@@ -1,8 +1,8 @@
 ---
-titulo: "Flamenco Tablao Las Carboneras: Show con Tapa y Bebida (Viator)"
+titulo: "Flamenco Tablao Las Carboneras: Show con Bebida (Viator)"
 slug: "flamenco-las-carboneras-viator"
 ciudad: "madrid"
-descripcion: "Show flamenco en el Tablao Las Carboneras con tapa y bebida incluidas, reservado en Viator. Tablao íntimo en el sótano del antiguo palacio del Conde de Miranda. Accesible en silla de ruedas."
+descripcion: "Show flamenco de 1 hora en el Tablao Las Carboneras con una bebida incluida, reservado en Viator. Tablao íntimo en el centro de Madrid con cuadro fijo de artistas. Accesible en silla de ruedas."
 
 slugs:
   es: "flamenco-las-carboneras-viator"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hora"
 duracionMinutos: 60
-precioDesde: 45
+precioDesde: 38
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -26,11 +26,10 @@ highlights:
 
 incluye:
   - "Show flamenco en directo (1 hora)"
-  - "Una tapa"
-  - "Una bebida"
+  - "Una bebida (refresco, agua, copa de vino, sangría, cerveza o zumo)"
 
 noIncluye:
-  - "Cena completa (esta opción es solo tapa + bebida)"
+  - "Cena o tapa (esta opción es solo show + bebida)"
   - "Bebidas adicionales"
   - "Propinas a los artistas"
 
@@ -55,10 +54,10 @@ informacionImportante:
   noAptoPara:
     - "Mascotas (solo perros de asistencia)"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
+    - "Cancelación gratuita hasta 24 horas antes del inicio (política Viator)"
     - "Las mesas se asignan por orden de llegada — llega pronto para mejor sitio"
-    - "Reseñas en GetYourGuide mencionan visión obstaculizada desde fila lateral"
-    - "Show 100% improvisado por los artistas"
+    - "Tablao accesible en silla de ruedas con superficies adaptadas — uno de los pocos del centro"
+    - "Producto en Viator con pocas reseñas validadas (23): el tablao Las Carboneras tiene 758 en GetYourGuide"
     - "El cuadro flamenco es fijo: José Maldonado, Candy Román, Juan Herrera, Shin Yamasawa, etc."
 
 accesibilidad: "El Tablao Las Carboneras está marcado como accesible en silla de ruedas — uno de los pocos del centro histórico."
@@ -80,7 +79,7 @@ preguntasFrecuentes:
 variantes: ["flamenco-tablao-las-carboneras", "flamenco-torres-bermejas-cena", "essential-flamenco-viator"]
 
 opinionEditorial: |
-  Es la versión Viator del show flamenco en el Tablao Las Carboneras con tapa y bebida incluidas. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 45 euros e incluye show + tapa + bebida. En GetYourGuide el mismo tablao tiene 4,7/5 con 758 reseñas y «top rated» — el producto es el mismo, la diferencia está en la plataforma y en la combinación tapa+bebida.
+  Es la versión Viator del show flamenco en el Tablao Las Carboneras con bebida incluida. Rating excelente — 4,7/5 — aunque sobre solo 23 opiniones validadas en Viator (el mismo tablao tiene 758 reseñas en GetYourGuide con idéntico 4,7). El precio arranca en torno a 38 € e incluye show de 1 hora + una bebida (refresco, agua, vino, sangría, cerveza o zumo) — esta opción NO incluye tapa (es solo bebida pese al título antiguo del producto). El tablao está marcado como accesible en silla de ruedas, algo poco habitual en el centro histórico.
 
   Lo que conviene saber. Las Carboneras es uno de los tablaos de referencia del centro de Madrid: íntimo, en sótano de palacio histórico, con cuadro fijo de artistas reconocidos (José Maldonado, Candy Román, etc.) y un nivel de improvisación real. La queja recurrente en reseñas es la asignación de mesa: si llegas justo, te tocan asientos laterales con peor visión. Llega 15-20 minutos antes y pide mesa central. Es accesible en silla de ruedas, poco habitual en tablaos del centro.
 
@@ -96,16 +95,14 @@ galeria:
   - src: "/images/actividades/madrid/la-latina/hero.webp"
     alt: "Casco histórico de Madrid"
 
-ratingProveedor: 4.6
-numeroOpiniones: 0
+ratingProveedor: 4.7
+numeroOpiniones: 23
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas: []
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas y precio.
 ---
 
 ## Qué vas a ver

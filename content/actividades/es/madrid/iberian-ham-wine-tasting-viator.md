@@ -8,11 +8,11 @@ slugs:
   es: "iberian-ham-wine-tasting-viator"
   en: "iberian-ham-wine-tasting-viator"
 
-duracion: "2 horas"
-duracionMinutos: 120
-precioDesde: 55
+duracion: "2 horas 30 minutos"
+duracionMinutos: 150
+precioDesde: 95
 moneda: "EUR"
-idiomas: ["es", "en"]
+idiomas: ["en"]
 proveedor: "viator"
 urlReserva: "https://www.viator.com/tours/Madrid/Cured-Meats-Cheese-and-Wine-Tasting-Tour-in-Madrid/d566-13557P3?pid=P00298823&mcid=42383&medium=link"
 cancelacionGratuita: true
@@ -47,7 +47,7 @@ puntoEncuentro:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-  accesibleSilla: true
+  accesibleSilla: false
   edadMinima: 18
   mascotasPermitidas: false
 
@@ -61,14 +61,15 @@ informacionImportante:
     - "Personas con alergias a frutos secos, gluten, etc. sin avisar antes"
     - "Mascotas"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
-    - "Es cata, NO comida completa — sal antes con algo de hambre"
-    - "Las cantidades son de degustación — si quieres ración completa, ve después a un bar"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
+    - "Experiencia IMPARTIDA SOLO EN INGLÉS según Viator"
+    - "Edad mínima: 18 años. Mínimo 2 personas por reserva. Máximo 12 personas"
+    - "NO apto para vegetarianos ni veganos. No recomendado para personas con problemas para andar"
     - "Avisa de alergias o restricciones alimentarias ANTES del taller"
 
-accesibilidad: "El espacio suele ser planta baja accesible — confirma al reservar."
+accesibilidad: "NO accesible en silla de ruedas. No recomendado para personas con problemas para andar."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Qué jamones se catan?"
@@ -80,16 +81,16 @@ preguntasFrecuentes:
   - pregunta: "¿Apto para vegetarianos?"
     respuesta: "No realmente. La cata se basa en jamón, embutidos y quesos. Los vegetarianos pueden disfrutar quesos y vino, pero pierden el 60% de la experiencia."
   - pregunta: "¿En qué idiomas?"
-    respuesta: "Típicamente español e inglés. Selecciona al reservar."
+    respuesta: "SOLO en inglés. Según la información actual de Viator, esta cata no se ofrece en español. Guiada por Brian, dueño del operador Madrid Tapas Trip."
 
 variantes: ["tour-tapas-vinos-barrio-letras", "ruta-tapas-nocturna-madrid", "tour-gastronomico-tapas-madrid"]
 
 opinionEditorial: |
-  Es la cata de jamón ibérico, embutidos, quesos y vino en Viator. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 55 euros por 2 horas. Producto pensado para foodies que quieran entender los productos D.O. españoles (jamón ibérico, embutidos curados, quesos con denominación) con maridaje de vinos.
+  Cata de jamón ibérico, embutidos, quesos y vino operada por Madrid Tapas Trip, dirigida por Brian (dueño del operador, mencionado en numerosas reseñas como guía excelente y conocedor). Validación máxima en Viator: 5,0 sobre 5 con 178 opiniones — combinación poco común que indica calidad consistente. El producto cubre dos productores de jamón ibérico premium con maridaje de vinos en 2h30. Precio aproximado: 95 €.
 
-  Lo que conviene saber. Es cata, no comida completa — sal con algo de hambre pero no muerto de hambre, las cantidades son de degustación. Si esperas saciedad como en un restaurante, vas a salir picado. Avisa de alergias o restricciones antes del taller — los productos típicos (jamón, queso, frutos secos eventualmente) pueden ser problema. No es apto para vegetarianos: el jamón es el protagonista. Confirma operador concreto y producto antes de reservar — Viator tiene varios productos similares.
+  Lo que conviene saber. Tres restricciones importantes: la experiencia se imparte SOLO en inglés (no hay opción en español según Viator); es solo para mayores de 18 años (hay vino), con mínimo 2 personas por reserva y máximo 12; y no es apta para vegetarianos, veganos, ni accesible en silla de ruedas. La cata se basa en jamón ibérico, embutidos curados, quesos D.O. y vinos — los vegetarianos pierden la mayor parte. Brian, el guía-dueño, sale repetidamente nombrado en las reseñas como factor diferencial: entretenido, conocedor de la materia y atento al cliente.
 
-  Para quién: foodies que quieran entender los productos españoles D.O., amantes del jamón ibérico con curiosidad por las categorías y denominaciones, parejas con plan gastronómico de tarde-noche. Para quién NO: vegetarianos y veganos (pierden la mayor parte), personas con alergias múltiples sin confirmar antes, viajeros que esperen comida saciante (esto es cata), y menores de edad (hay vino).
+  Para quién: foodies adultos con buen inglés que quieran entender los productos D.O. españoles con guía propietario muy bien valorado, amantes del jamón ibérico premium, parejas o grupos pequeños (2-12 personas) con plan gastronómico de tarde-noche. Para quién NO: vegetarianos y veganos (pierden la mayor parte de la cata), viajeros que no manejen inglés (no hay versión en español), personas con alergias múltiples sin confirmar antes, viajeros con movilidad reducida (no accesible silla, no apto si tienes problemas para andar), y menores de edad.
 
 categoria: "gastronomico"
 keywords: ["jamon iberico cata madrid", "viator jamon vino madrid", "embutidos quesos vino madrid", "cata gourmet madrid", "tasting iberian ham madrid"]
@@ -101,21 +102,19 @@ galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
     alt: "Jamón ibérico y croquetas"
 
-ratingProveedor: 4.6
-numeroOpiniones: 0
+ratingProveedor: 5.0
+numeroOpiniones: 178
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas: []
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas y precio. Confirmar la lista exacta de productos catados.
 ---
 
 ## Qué vas a ver
 
-Cata guiada de 2 horas de jamón ibérico, embutidos curados, quesos españoles D.O. y vinos seleccionados. Explicación de denominaciones de origen y procesos de curación con guía gastronómico.
+Cata guiada de 2 horas y media de jamón ibérico, embutidos curados, quesos españoles D.O. y vinos seleccionados. Operado por Madrid Tapas Trip, dirigido por Brian (dueño y guía).
 
 - **Jamones ibéricos:** varias categorías (cebo, cebo de campo, eventualmente bellota).
 - **Denominaciones:** Guijuelo, Jabugo, Los Pedroches — cómo distinguir.
@@ -127,9 +126,9 @@ Cata guiada de 2 horas de jamón ibérico, embutidos curados, quesos españoles 
 
 **Punto de encuentro:** confirmar en email (tienda gourmet o espacio de cata, centro de Madrid). **Llega 10 minutos antes.**
 
-**Duración: 2 horas.** Es CATA, no comida completa.
+**Duración: 2 horas y 30 minutos.** Es CATA, no comida completa.
 
-**Idiomas:** español e inglés. **Edad mínima: 18** (hay vino).
+**Idiomas:** SOLO en inglés según Viator. **Edad mínima: 18** (hay vino). Mínimo 2 personas, máximo 12.
 
 **Avisa de alergias o restricciones antes del taller.**
 

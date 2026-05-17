@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hora"
 duracionMinutos: 60
-precioDesde: 32
+precioDesde: 40
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -54,14 +54,14 @@ informacionImportante:
   noAptoPara:
     - "Mascotas (solo perros de asistencia)"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
-    - "Verifica si la consumición está incluida o es extra"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
+    - "Tablao dirigido por Juan Andrés Maya y Raquel Martos"
     - "Las mesas se asignan en el momento — llega temprano"
-    - "Producto disponible también en Viator y otras plataformas — compara antes"
+    - "Pocas opiniones validadas (32) — base estadística pequeña"
 
-accesibilidad: "Accesibilidad a confirmar con el operador al reservar."
+accesibilidad: "NO accesible en silla de ruedas. Sí accesible para carritos. Se admiten animales de asistencia."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Dónde está exactamente el Tablao La Carmela?"
@@ -78,11 +78,11 @@ preguntasFrecuentes:
 variantes: ["flamenco-tablao-las-carboneras", "flamenco-torres-bermejas-cena", "essential-flamenco-viator"]
 
 opinionEditorial: |
-  Es la opción Viator del Tablao La Carmela, junto a Puerta del Sol. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 32 euros. El tablao es menos conocido que Las Carboneras o Torres Bermejas pero compite por su ubicación: a 4-5 minutos de Sol, el más céntrico de los tablaos turísticos.
+  Tablao La Carmela en Viator: 4,2 sobre 5 con apenas 32 opiniones. El rating es decente pero la base estadística es pequeña — para producto turístico en una ciudad con tantas alternativas, 32 reseñas es poco para concluir nada robusto. El tablao está dirigido por Juan Andrés Maya y Raquel Martos, y se sitúa junto a Puerta del Sol, lo que le da la ventaja real frente a competidores: ubicación céntrica inmejorable. Precio: 40 €, competitivo.
 
-  Lo que conviene saber. El tablao está bien situado para combinar con un paseo por Puerta del Sol, Plaza Mayor o Gran Vía antes o después del show. Confirma al reservar si la opción que eliges incluye bebida o consumición — el precio base puede ser solo entrada. El cuadro flamenco específico puede variar entre fechas, así que no se puede comparar al fijo de Las Carboneras (cuadro reconocido). Llega 15-20 minutos antes para asignación de mesa decente.
+  Lo que conviene saber. Con solo 32 opiniones, una experiencia muy buena o muy mala mueve mucho la media — no esperes la consistencia estadística de Essential Flamenco (1.790 reseñas) o Las Carboneras. El cuadro lo dirige Juan Andrés Maya, bailaor reconocido del flamenco contemporáneo, lo que en teoría debería garantizar nivel artístico. NO es accesible en silla de ruedas (sí para carritos). Si tu prioridad es validación social masiva, Essential Flamenco o Las Carboneras son apuestas más sólidas; si quieres tablao concreto con dirección artística reconocida y te encaja la ubicación, La Carmela puede valer.
 
-  Para quién: viajeros alojados cerca de Puerta del Sol o Gran Vía que prioricen cercanía, parejas que busquen plan flamenco rápido tras cena en el centro, usuarios habituales de Viator. Para quién NO: quienes busquen cuadro flamenco fijo y reconocido (mejor Las Carboneras), quienes quieran tablao íntimo en barrio histórico (Las Carboneras en Austrias), y quienes valoren validación masiva (GetYourGuide tiene productos con más reseñas).
+  Para quién: viajeros alojados cerca de Sol o Gran Vía que prioricen cercanía sobre validación masiva, parejas con plan flamenco rápido en el centro, interesados en el trabajo de Juan Andrés Maya. Para quién NO: viajeros con movilidad reducida (no accesible silla), quienes prioricen máxima validación estadística (mejor Essential Flamenco o Las Carboneras), y quienes busquen tablao íntimo en barrio histórico (mejor La Latina o Austrias).
 
 categoria: "espectaculos"
 keywords: ["tablao la carmela madrid", "flamenco puerta del sol", "tablao madrid sol viator", "show flamenco centro madrid", "viator tablao la carmela"]
@@ -94,17 +94,15 @@ galeria:
   - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-6394609563-hero.webp"
     alt: "Puerta del Sol de Madrid"
 
-ratingProveedor: 4.4
-numeroOpiniones: 0
+ratingProveedor: 4.2
+numeroOpiniones: 32
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "puerta-sol"
-
-# TODO: Viator bloqueó la extracción. Validar dirección exacta del tablao, rating, reseñas y precio.
 ---
 
 ## Qué vas a ver

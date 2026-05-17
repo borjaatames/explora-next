@@ -8,11 +8,11 @@ slugs:
   es: "10-tapas-cooking-class-viator"
   en: "10-tapas-cooking-class-viator"
 
-duracion: "3 horas"
-duracionMinutos: 180
-precioDesde: 75
+duracion: "2 horas 30 minutos"
+duracionMinutos: 150
+precioDesde: 74
 moneda: "EUR"
-idiomas: ["es", "en"]
+idiomas: ["en"]
 proveedor: "viator"
 urlReserva: "https://www.viator.com/tours/Madrid/Paella-cooking-class/d566-29788P2?pid=P00298823&mcid=42383&medium=link"
 cancelacionGratuita: true
@@ -37,8 +37,8 @@ noIncluye:
   - "Transporte"
 
 puntoEncuentro:
-  texto: "Confirma la dirección exacta del espacio de cocina en email de reserva — habitualmente en el centro de Madrid."
-  descripcionGuia: "Llega 10 minutos antes. El espacio de cocina suele estar en pisos superiores — confirma accesibilidad si la necesitas."
+  texto: "A Punto Cooking School, Calle de la Farmacia 6, Centro, 28004 Madrid. La clase NO está dentro del edificio principal — accede por la puerta verde a la derecha. Toca la campana si está cerrada."
+  descripcionGuia: "A Punto Cooking School es una escuela de cocina reconocida en Madrid, junto al barrio de Chueca. Metro Tribunal (línea 1/10) o Chueca (5) a 5 minutos. Hora de inicio: 16:00. Llega 10 minutos antes. Importante: la entrada es por la puerta verde a la derecha del edificio — toca la campana si está cerrada."
   latitud: 40.4168
   longitud: -3.7038
   zoom: 16
@@ -59,36 +59,36 @@ informacionImportante:
     - "Mascotas"
     - "Personas con alergias múltiples sin avisar antes"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
+    - "Clase IMPARTIDA ÚNICAMENTE EN INGLÉS según Viator"
+    - "Hora de inicio: 16:00. Llega 10 minutos antes"
+    - "Entrada por la puerta verde a la derecha del edificio — toca la campana si está cerrada"
     - "Opciones vegetarianas y para alergias: confirma al reservar antes"
-    - "10 tapas implica más variedad pero menos profundidad por receta"
-    - "El espacio de cocina puede estar en piso superior"
-    - "Producto «Likely to sell out» en GetYourGuide equivalente — reserva con antelación"
 
 accesibilidad: "Confirma accesibilidad con el operador al reservar."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Qué 10 tapas se cocinan exactamente?"
-    respuesta: "Habitualmente: tortilla de patata, croquetas, gambas al ajillo, pulpo a la gallega, pinchos morunos, patatas bravas, jamón ibérico, queso manchego, ensaladilla rusa, y una décima variable. El menú concreto puede variar entre operadores Viator — confirma al reservar."
+    respuesta: "Algunas recetas confirmadas en Viator: tortilla española, brochetas de Gilda, sándwich de calamar (bocadillo de calamares), patatas bravas y sangría. El resto del menú lo completan tapas tradicionales españolas dependiendo de la temporada."
   - pregunta: "¿Es mejor 10 tapas o paella?"
     respuesta: "Depende. 10 tapas te da MÁS variedad y panorama del repertorio español, pero MENOS profundidad por receta (cada una se hace rápido). La paella te enfoca en un solo plato emblemático con preparación detallada. Si quieres «paseo» por la cocina española, elige tapas; si quieres dominar una receta, elige paella."
   - pregunta: "¿Hace falta experiencia?"
     respuesta: "No. Es para principiantes. Las recetas son las clásicas — accesibles para cualquiera con voluntad."
   - pregunta: "¿Cuánto dura?"
-    respuesta: "Aproximadamente 3 horas. 10 tapas exige tiempo de preparación y cocinado — no se hace en menos."
+    respuesta: "2 horas y 30 minutos. Hora de inicio: 16:00."
   - pregunta: "¿En qué idiomas?"
-    respuesta: "Típicamente español e inglés. Selecciona al reservar."
+    respuesta: "SOLO en inglés. Esta clase no se imparte en español según la información actual de Viator."
 
 variantes: ["spanish-cooking-class-viator", "paella-sangria-classes-private-viator", "taller-paella-sangria-madrid-centro"]
 
 opinionEditorial: |
-  Es la clase de cocina de 10 tapas en Viator. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 75 euros por 3 horas. En GetYourGuide hay un producto similar de «10 Tapas Cooking Class» con 232 reseñas, 4,8/5 y «likely to sell out» por unos 70 euros y 2,5 horas — opción más probada.
+  Clase de cocina de 10 tapas impartida por A Punto Cooking School, una escuela reconocida del centro de Madrid (Calle de la Farmacia 6, junto a Chueca). Validación sólida en Viator: 4,8 sobre 5 con 145 opiniones. Reseñas reales destacan a la profesora Rosa como excelente. Precio: 74 € por 2h30. Recetas confirmadas: tortilla española, brochetas de Gilda, sándwich de calamar (bocadillo de calamares), patatas bravas y sangría — clásicos del repertorio madrileño y español.
 
-  Lo que conviene saber. 10 tapas implica variedad pero menos profundidad por receta — cada plato se hace rápido para meterlo todo en 3 horas. Si quieres aprender bien UNA receta, mejor el taller de paella. Si quieres conocer la variedad de la cocina española de tapeo, este es la opción. Confirma opciones vegetarianas y alergias al reservar — con 10 tapas hay más variables que con un solo plato.
+  Lo que conviene saber. AVISO CRÍTICO: la clase se imparte SOLO en inglés según la información actual de Viator. Si no manejas inglés con soltura, no es tu opción. Otra particularidad logística: la clase NO está dentro del edificio principal de Calle Farmacia 6 — hay que acceder por una puerta verde a la derecha del edificio y tocar la campana si está cerrada. Hora de inicio: 16:00. El formato de 10 tapas implica variedad sobre profundidad — cada plato se hace con margen pero sin la profundidad de un taller monográfico de paella.
 
-  Para quién: viajeros que quieran panorama amplio de la cocina española de tapas, foodies que disfruten variedad sobre profundidad, parejas que prefieran tapeo a paella, y usuarios habituales de Viator. Para quién NO: quien quiera dominar una sola receta a fondo (mejor paella), viajeros con alergias múltiples sin confirmar antes, y quien busque máxima validación social — el catálogo GetYourGuide tiene productos similares con más reseñas.
+  Para quién: viajeros con buen inglés que quieran panorama amplio de cocina española en escuela reconocida (A Punto), foodies que prioricen variedad y aprendizaje estructurado, parejas que prefieran tapeo a paella. Para quién NO: viajeros que no manejen inglés (clase no disponible en español), quien quiera dominar una sola receta a fondo (mejor taller de paella), viajeros con alergias múltiples sin confirmar antes, y quien necesite accesibilidad sin verificar previamente.
 
 categoria: "gastronomico"
 keywords: ["10 tapas cooking class madrid", "clase cocina tapas madrid", "viator tapas cooking class", "tortilla croquetas clase madrid", "aprender cocinar tapas espana"]
@@ -102,21 +102,19 @@ galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
     alt: "Aceitunas, parte del repertorio de tapas"
 
-ratingProveedor: 4.7
-numeroOpiniones: 0
+ratingProveedor: 4.8
+numeroOpiniones: 145
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas: []
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas, precio y lista exacta de 10 tapas.
 ---
 
 ## Qué vas a ver
 
-Clase de cocina de 3 horas para preparar 10 tapas tradicionales españolas. Aprendizaje práctico con chef local y comida final en grupo.
+Clase de cocina de 2 horas y media para preparar 10 tapas tradicionales españolas. Aprendizaje práctico con chef local en A Punto Cooking School y comida final en grupo.
 
 - **Tortilla de patata** — la receta clásica española.
 - **Croquetas de jamón.**
@@ -129,11 +127,11 @@ Clase de cocina de 3 horas para preparar 10 tapas tradicionales españolas. Apre
 
 ## Cómo funciona
 
-**Punto de encuentro:** confirmar en email (centro de Madrid). **Llega 10 minutos antes.**
+**Punto de encuentro:** A Punto Cooking School, Calle de la Farmacia 6, Centro. Accede por la puerta verde a la derecha del edificio — toca la campana si está cerrada. **Llega 10 minutos antes.**
 
-**Duración: 3 horas.** Taller práctico — vas a cocinar tú mismo.
+**Hora de inicio:** 16:00. **Duración: 2 horas y 30 minutos.** Taller práctico — vas a cocinar tú mismo.
 
-**Idiomas:** español e inglés. **Opciones vegetarianas y alergias:** confirma al reservar antes.
+**Idiomas:** SOLO en inglés según Viator. **Opciones vegetarianas y alergias:** confirma al reservar antes.
 
 ## A quién se lo recomiendo
 

@@ -8,9 +8,9 @@ slugs:
   es: "madrid-ebike-sunset-tour"
   en: "madrid-ebike-sunset-tour"
 
-duracion: "2,5 horas"
-duracionMinutos: 150
-precioDesde: 42
+duracion: "2 horas"
+duracionMinutos: 120
+precioDesde: 40
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -28,7 +28,8 @@ incluye:
   - "Bicicleta eléctrica con asistencia"
   - "Casco"
   - "Guía local"
-  - "Tour de 2,5 horas"
+  - "Chubasquero (si las condiciones meteorológicas lo requieren)"
+  - "Tour de 2 horas"
 
 noIncluye:
   - "Comida y bebida"
@@ -36,8 +37,8 @@ noIncluye:
   - "Equipamiento adicional"
 
 puntoEncuentro:
-  texto: "Confirma el punto de encuentro exacto en email de reserva — habitualmente en el centro de Madrid próximo a Sol u Ópera."
-  descripcionGuia: "Llega 20-30 minutos antes de la salida — el ajuste de bici y firma de descargo lleva tiempo. La hora de salida depende de la temporada (sale antes en invierno por el atardecer temprano, más tarde en verano). Confirma al reservar."
+  texto: "Wonder Tours (Tour Operator), Calle de Santiago 18, Centro, 28013 Madrid. Reunión en la tienda en la Plaza de San Miguel con 15 minutos de antelación."
+  descripcionGuia: "Operador: Wonder Tours. Punto de encuentro en su tienda de Calle de Santiago 18, junto al Mercado de San Miguel. Hora de salida: 19:00. Llega 15 minutos antes para ajustar la bici y firmar descargo. Metro Sol u Ópera a 5-7 minutos."
   latitud: 40.4168
   longitud: -3.7038
   zoom: 15
@@ -60,21 +61,22 @@ informacionImportante:
     - "Niños menores de 14 años"
     - "Mascotas"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
-    - "La hora de salida varía con la temporada (atardecer temprano en invierno)"
-    - "Templo de Debod es uno de los sunset spots más concurridos — el guía lleva al mejor ángulo"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
+    - "Operador: Wonder Tours. Hora de salida: 19:00"
+    - "Solo 5 opiniones publicadas en Viator — base estadística pequeña"
+    - "Una reseña reciente menciona que las bicicletas son antiguas — algo a valorar"
     - "Lleva ropa de abrigo: la temperatura baja sensiblemente al anochecer"
     - "El tour termina ya con noche cerrada — luces encendidas dan otra perspectiva"
 
 accesibilidad: "No accesible en silla de ruedas (es bicicleta). Para sunset accesible, el mejor mirador a pie es el Templo de Debod (terreno llano, accesible)."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Cuál es el mejor sunset spot de Madrid?"
     respuesta: "Tradicionalmente el Templo de Debod (mejor cara oeste, sin obstáculos). Otros buenos: Mirador del Cerro del Tío Pío, terraza Círculo de Bellas Artes, terraza Hotel Riu Plaza España. Este tour pasa por Debod, que es el más accesible en bici y el más fotogénico al ocaso."
   - pregunta: "¿A qué hora sale?"
-    respuesta: "Varía con la temporada: en invierno sale en torno a las 15:30-16:00 (atardecer ~17:30); en verano hacia las 19:00-19:30 (atardecer ~21:30). Confirma al reservar la hora concreta de tu fecha."
+    respuesta: "Hora de salida declarada en Viator: 19:00, desde la tienda de Wonder Tours en Calle de Santiago 18 (junto al Mercado de San Miguel). Llega 15 minutos antes para ajustar la bici. Confirma al reservar si tu fecha tiene horario ajustado por temporada."
   - pregunta: "¿Es seguro pedalear con poca luz?"
     respuesta: "El tour termina con noche cerrada pero el guía elige rutas iluminadas. Las bicis suelen llevar luces delanteras y traseras. Si tienes dudas, valora versión diurna o tour a pie nocturno (Big Bus nocturno o tour de leyendas)."
   - pregunta: "¿Hace falta saber montar?"
@@ -85,11 +87,11 @@ preguntasFrecuentes:
 variantes: ["madrid-tour-ebike-3h", "madrid-bici-ebike-retiro-letras-viator", "madrid-big-bus-night-tour"]
 
 opinionEditorial: |
-  Es un tour Viator en e-bike orientado al atardecer en Madrid. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 42 euros. La idea es buena: combinar tour activo con la hora dorada y el sunset desde uno de los mejores miradores (Templo de Debod). El producto compite con tours diurnos genéricos sumando un factor visual distintivo.
+  Tour de e-bike al atardecer operado por Wonder Tours (Calle de Santiago 18, junto al Mercado de San Miguel), reservado en Viator. Rating: 4,6 sobre 5 con solo 5 opiniones — base estadística pequeña que no aporta mucha certeza. Hora de salida fija a las 19:00, lo que en verano cuadra perfecto con la hora dorada pero en invierno deja el tour ya con noche cerrada antes del Debod (a valorar). Idiomas: español e inglés. Precio aproximado: 40 €.
 
-  Lo que conviene saber. La hora de salida varía mucho con la temporada — en invierno sale antes (15:30-16:00), en verano más tarde (19:00-19:30). Verifica al reservar. Lleva ropa de abrigo: la temperatura baja sensiblemente al anochecer y en bici lo notas. El tour termina ya con noche cerrada — las bicis suelen llevar luces. Si nunca has llevado bici, no es la opción.
+  Lo que conviene saber. Una reseña real mencionada en Viator (usuario anka68) destaca que las bicicletas son antiguas — para tour de 2 horas no es necesariamente bloqueante, pero conviene saberlo. La idea del producto es sólida: combinar e-bike con sunset desde Templo de Debod, uno de los miradores más reconocidos de Madrid. La duración (2h) es razonable para no agotar. La debilidad es la base de validación (5 opiniones es muy poco para concluir consistencia) y la pega menor de las bicis. Lleva ropa de abrigo: la temperatura baja sensiblemente al anochecer y en bici lo notas.
 
-  Para quién: ciclistas casuales que disfruten la hora dorada y la fotografía, parejas que busquen plan romántico distinto, viajeros que ya hayan hecho el tour diurno y quieran versión nocturna activa. Para quién NO: personas que no saben ir en bici, viajeros con poca movilidad, niños pequeños, y quien viaje en invierno y no le motive arrancar la actividad a las 15:30-16:00.
+  Para quién: ciclistas casuales con plan romántico de hora dorada, parejas que ya conozcan Madrid diurno y quieran versión nocturna activa, viajeros de verano para los que la salida 19:00 cuadra perfecto. Para quién NO: viajeros que prioricen máxima validación social (mejor tour con cientos de opiniones), personas que no saben ir en bici, viajeros con poca movilidad, niños pequeños, y quien viaje en invierno y prefiera tours diurnos.
 
 categoria: "activo"
 keywords: ["ebike sunset madrid", "tour atardecer bici madrid", "madrid sunset bicicleta", "viator ebike atardecer", "templo debod ebike sunset"]
@@ -101,22 +103,20 @@ galeria:
   - src: "/images/actividades/madrid/debod/01.webp"
     alt: "Templo de Debod al atardecer"
 
-ratingProveedor: 4.7
-numeroOpiniones: 0
+ratingProveedor: 4.6
+numeroOpiniones: 5
 
-publicada: false
-destacada: true
+publicada: true
+destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "debod"
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas, precio y hora exacta de salida según temporada.
 ---
 
 ## Qué vas a ver
 
-Tour en e-bike de 2,5 horas al atardecer por Madrid. Combina bicicleta eléctrica con visita a los mejores miradores del sunset de la ciudad, terminando con noche cerrada y luces encendidas.
+Tour en e-bike de 2 horas al atardecer por Madrid. Combina bicicleta eléctrica con visita a los mejores miradores del sunset de la ciudad, terminando con noche cerrada y luces encendidas.
 
 - **Recorrido por el centro:** Plaza de Oriente, Palacio Real, Templo de Debod, miradores.
 - **Templo de Debod a la hora dorada:** el sunset spot más fotogénico de Madrid.
@@ -126,13 +126,11 @@ Tour en e-bike de 2,5 horas al atardecer por Madrid. Combina bicicleta eléctric
 
 ## Cómo funciona
 
-**Punto de encuentro:** confirmar en email (centro de Madrid). **Llega 20-30 minutos antes** para ajustar bici.
+**Punto de encuentro:** Wonder Tours, Calle de Santiago 18, junto al Mercado de San Miguel. **Llega 15 minutos antes** para ajustar bici.
 
-**Hora de salida variable por temporada:**
-- Invierno: 15:30-16:00 (atardecer ~17:30)
-- Verano: 19:00-19:30 (atardecer ~21:30)
+**Hora de salida: 19:00.**
 
-**Duración: 2,5 horas.** Idiomas: español e inglés. **Edad mínima: 14.**
+**Duración: 2 horas.** Idiomas: español e inglés. **Edad mínima: 14.**
 
 **Lleva ropa de abrigo** — la temperatura baja sensiblemente al anochecer.
 

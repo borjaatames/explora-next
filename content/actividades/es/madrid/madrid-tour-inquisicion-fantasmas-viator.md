@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 horas"
 duracionMinutos: 120
-precioDesde: 22
+precioDesde: 20
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -57,21 +57,21 @@ informacionImportante:
     - "Niños muy pequeños (contenido de tortura y fantasmas)"
     - "Mascotas (salvo perros de asistencia)"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
     - "Tono dramático con historias de tortura, ejecuciones y persecución"
-    - "Reseñas mencionan vestuario de época y atrezzo (farol, cruz) según operador"
+    - "Guía interpreta personaje durante toda la actividad (según reseñas)"
+    - "Producto popular: «reservado 10+ veces la semana pasada» en Viator"
     - "El tour se hace también con lluvia"
-    - "Producto similar en GetYourGuide con 1.482 reseñas validadas (4,7/5, top rated)"
 
 accesibilidad: "El recorrido es por calles del casco antiguo con adoquinado irregular — complicado en silla."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Qué nivel de «terror» tiene el tour?"
     respuesta: "Teatralizado, no de sustos. Tono dramático con historias reales de la Inquisición (tortura, ejecución, persecución) mezcladas con leyendas urbanas y fantasmas. No hay actores con sustos jumpscare. Apto desde 8 años en adelante."
   - pregunta: "¿En qué se diferencia del tour equivalente en GetYourGuide?"
-    respuesta: "El producto es muy similar. En GetYourGuide hay 1.482 reseñas con 4,7/5 (top rated) — opción más probada en validación. Esta de Viator tiene sentido si ya usas la plataforma. El precio en Viator suele ser ligeramente superior (22 € vs 19 €)."
+    respuesta: "El contenido es muy similar — relato dramatizado de Inquisición y fantasmas con guía narrador. El equivalente en GetYourGuide (Mysterium Tours) tiene 1.482 reseñas con 4,7/5 (top rated). Este de Viator también está muy bien valorado: 4,7/5 con 325 opiniones y precio más bajo (20 € vs 19-22 €). Si ya usas Viator, es una alternativa válida con buen rating."
   - pregunta: "¿Y si llueve?"
     respuesta: "El tour se hace igual. Lleva paraguas o capa de lluvia. La política de cancelación gratuita permite reprogramar si la previsión es muy mala."
   - pregunta: "¿En qué idiomas?"
@@ -82,11 +82,11 @@ preguntasFrecuentes:
 variantes: ["madrid-tour-nocturno-inquisicion-leyendas", "madrid-big-bus-night-tour"]
 
 opinionEditorial: |
-  Es la versión Viator del tour nocturno de Inquisición y fantasmas en Madrid. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 22 euros por 2 horas. En GetYourGuide hay un producto equivalente con 1.482 reseñas validadas, 4,7/5 y top rated por 19-21 euros — más probado en validación social y ligeramente más barato.
+  Tour nocturno de la Inquisición y fantasmas de Madrid en Viator: 4,7 sobre 5 con 325 opiniones y precio MUY competitivo (20 € por 2 horas). Combinación poco común que indica buena ejecución y precio agresivo simultáneamente. Etiquetado como «reservado 10+ veces la semana pasada» — tracción real. Disponible en español, inglés y un idioma más. El guía interpreta personaje durante toda la actividad según las reseñas, factor que repiten los usuarios satisfechos.
 
-  Lo que conviene saber. El contenido del tour es similar entre ambas plataformas: relato dramatizado sobre la Inquisición Española, fantasmas y leyendas urbanas del Madrid de los siglos XV-XVIII, con guía narrador y atrezzo (farol, vestuario de época en algunos casos). Lleva paraguas si hay previsión de lluvia — el tour se hace igual. Apto desde 8 años; niños más pequeños pueden asustarse con los temas de tortura.
+  Lo que conviene saber. Producto funcionalmente equivalente al tour de Mysterium Tours en GetYourGuide (4,7 con 1.482 opiniones), pero el equivalente Viator es ligeramente más barato (20 € vs 19-22 €) y tiene base estadística menor (325 frente a 1.482) pero todavía sólida. El contenido es similar: Inquisición Española, fantasmas, leyendas urbanas del casco antiguo, relato dramatizado con guía narrador. El tour se hace también con lluvia — lleva paraguas si toca. Apto desde 8 años; con menores muy pequeños puede asustar por los temas de tortura.
 
-  Para quién: viajeros que quieren plan nocturno entretenido y barato, parejas o grupos pequeños que disfruten formato relato, usuarios habituales de Viator. Para quién NO: viajeros con movilidad reducida (adoquinado complicado en silla), académicos exigentes que busquen rigor histórico puro, niños muy pequeños (temas oscuros), y quien valore validación social masiva (el equivalente GetYourGuide tiene 1.482 reseñas).
+  Para quién: viajeros que quieren plan nocturno entretenido y barato (20 € por 2 horas es de los mejores precios/hora del catálogo Madrid), parejas o grupos pequeños que disfruten formato relato, familias con niños desde 8 años, usuarios de Viator. Para quién NO: viajeros con movilidad reducida (adoquinado complicado en silla), académicos exigentes que busquen rigor histórico puro, niños muy pequeños (temas oscuros), y quien prefiera la máxima validación estadística (Mysterium Tours en GetYourGuide tiene 1.482 reseñas).
 
 categoria: "espectaculos"
 keywords: ["inquisicion madrid tour viator", "fantasmas madrid noche", "leyendas madrid viator", "ghost tour madrid", "tour nocturno madrid viator"]
@@ -98,17 +98,15 @@ galeria:
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
     alt: "Casco antiguo de Madrid"
 
-ratingProveedor: 4.6
-numeroOpiniones: 0
+ratingProveedor: 4.7
+numeroOpiniones: 325
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "plaza-mayor"
-
-# TODO: Viator bloqueó la extracción. Validar rating, reseñas y precio. Producto duplicado funcional con MAD-17 (Mysterium Tours en GetYourGuide).
 ---
 
 ## Qué vas a ver

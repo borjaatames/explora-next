@@ -8,9 +8,9 @@ slugs:
   es: "essential-flamenco-viator"
   en: "essential-flamenco-admission-viator"
 
-duracion: "1 hora"
-duracionMinutos: 60
-precioDesde: 28
+duracion: "1 hora 10 minutos"
+duracionMinutos: 70
+precioDesde: 42
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
@@ -26,15 +26,16 @@ highlights:
 
 incluye:
   - "Entrada al show flamenco"
+  - "Una consumición incluida (sangría, cerveza, vino o refresco)"
 
 noIncluye:
-  - "Comida y bebida (esta opción es solo entrada)"
+  - "Comida (esta opción es entrada + bebida, sin cena)"
   - "Propinas"
   - "Transporte"
 
 puntoEncuentro:
-  texto: "Confirma la ubicación exacta del tablao Essential Flamenco en tu email de reserva."
-  descripcionGuia: "Habitualmente en el centro de Madrid, fácilmente accesible en metro. Llega 15-20 minutos antes para asignación de mesa."
+  texto: "Essential Flamenco, Calle de la Cruz 26, 28012 Madrid (junto a Puerta del Sol)."
+  descripcionGuia: "A pocos minutos andando de Puerta del Sol — metro Sol (líneas 1/2/3) a 4 minutos. Llega 15-20 minutos antes para asignación de mesa."
   latitud: 40.4168
   longitud: -3.7038
   zoom: 16
@@ -53,35 +54,35 @@ informacionImportante:
   noAptoPara:
     - "Mascotas (solo perros de asistencia)"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
-    - "Esta opción es solo entrada, sin consumición incluida"
-    - "Producto presentado como introducción al flamenco — formato accesible al viajero"
-    - "Verifica nombre exacto del tablao y horarios al reservar"
+    - "Cancelación gratuita hasta 24 horas antes (política Viator)"
+    - "Incluye una consumición (sangría, cerveza, vino o refresco) — no hay cena"
+    - "Producto muy reservado (5+ veces en las últimas 12 horas según Viator)"
+    - "Ubicación céntrica: Calle de la Cruz 26, junto a Puerta del Sol"
 
 accesibilidad: "Accesibilidad a confirmar con el operador al reservar."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio de la experiencia (hora local)."
 
 preguntasFrecuentes:
   - pregunta: "¿Qué es «Essential Flamenco»?"
     respuesta: "Es el nombre comercial de un show flamenco en Madrid orientado a viajeros que buscan introducción al género. Cubre los elementos fundamentales del flamenco: cante, guitarra, palmas y baile. Es producto pensado como primer contacto, no como experiencia de fanático del flamenco."
   - pregunta: "¿Incluye bebida o cena?"
-    respuesta: "Esta opción base es solo entrada. Confirma al reservar si hay opciones con bebida o cena disponibles como upgrade."
+    respuesta: "Incluye una consumición a elegir (sangría, cerveza, vino o refresco). No hay cena ni comida adicional."
   - pregunta: "¿Cuánto dura?"
-    respuesta: "Aproximadamente 1 hora, formato estándar de show flamenco."
+    respuesta: "1 hora y 10 minutos. Llega 15-20 minutos antes para asignación de mesa."
   - pregunta: "¿Compite con tablaos más establecidos como Las Carboneras o Torres Bermejas?"
-    respuesta: "El precio es más competitivo (~28 € vs 45-60 € de otros tablaos). El nivel artístico puede variar — si buscas el cuadro flamenco más reconocido, Las Carboneras o Torres Bermejas son referencia. Si quieres un primer contacto sin gastar mucho, este Essential puede cumplir."
+    respuesta: "El precio es más competitivo (42 € vs 45-60 € de otros tablaos) y tiene un volumen masivo de validación (1.790 opiniones con 4,8/5). Si buscas un tablao con cuadro fijo de prestigio histórico, Las Carboneras o Torres Bermejas son referencia. Si quieres garantía estadística con precio bueno, Essential es de las apuestas más sólidas en Viator."
   - pregunta: "¿En qué idiomas?"
     respuesta: "El flamenco es lenguaje universal — el show no requiere idioma. Atención bilingüe ES/EN."
 
 variantes: ["flamenco-tablao-las-carboneras", "flamenco-torres-bermejas-cena", "flamenco-las-carboneras-viator", "tablao-la-carmela-viator"]
 
 opinionEditorial: |
-  Es un producto de show flamenco en Viator presentado como «Essential» — orientado a viajeros que buscan introducción al género sin gastar mucho. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 28 euros, claramente por debajo de tablaos premium como Las Carboneras (~45 €) o Torres Bermejas (~30-60 €). En el catálogo GetYourGuide hay productos similares con miles de reseñas — para máxima validación, esa es la vía.
+  Essential Flamenco es uno de los productos de tablao más validados de Viator en Madrid: 4,8 sobre 5 con 1.790 opiniones, de las cuales 1.560 son de 5 estrellas. Marcado como top rated y «reservado 5+ veces en las últimas 12 horas». A 42 € (con consumición incluida) y junto a Puerta del Sol — Calle de la Cruz 26 — el precio compite bien con los tablaos premium del centro y, sobre todo, supera con mucho la base estadística de la mayoría de tablaos en plataformas.
 
-  Lo que conviene saber. El nombre «Essential» sugiere formato accesible y pensado para viajeros que no son aficionados al flamenco. Cumple su función como primer contacto, pero si tu interés es real, mira tablaos con cuadro fijo reconocido (Las Carboneras, La Cueva de Lola, El Cortijo). Esta opción Viator tiene sentido si ya usas la plataforma, viajas con presupuesto justo, o quieres una experiencia ligera sin compromiso de cena.
+  Lo que conviene saber. «Essential» es marca propia, no un descriptor: es un tablao con espectáculo de 1h10 que incluye una consumición (sangría, cerveza, vino o refresco) y NO incluye cena. Si quieres cena espectáculo, busca producto con menú; si solo quieres el show con copa en mano, encaja perfecto. El volumen de reseñas (1.790) le da una solidez estadística que tablaos con 30-100 opiniones no pueden ofrecer — para reservar a ciegas en Viator, es de las apuestas más seguras.
 
-  Para quién: viajeros que quieren primer contacto con el flamenco a precio razonable, presupuestos justos, usuarios habituales de Viator. Para quién NO: aficionados al flamenco que busquen artistas reconocidos (mejor Las Carboneras o tablaos consolidados), quienes quieran cena espectáculo (este es solo entrada), y quienes valoren la validación masiva — el catálogo GetYourGuide tiene productos con miles de reseñas.
+  Para quién: viajeros que priorizan validación social masiva sin renunciar a precio competitivo, alojados cerca de Sol o Gran Vía, parejas que quieren show flamenco con copa sin compromiso de cena. Para quién NO: quienes busquen cena espectáculo (este es show + bebida), aficionados al flamenco más purista que quieran cuadro fijo histórico (Las Carboneras, Torres Bermejas), y quienes no aguanten formato pensado para turismo internacional.
 
 categoria: "espectaculos"
 keywords: ["essential flamenco madrid", "flamenco show barato madrid", "viator flamenco entrada", "show flamenco economico", "flamenco madrid principiantes"]
@@ -93,16 +94,14 @@ galeria:
   - src: "/images/actividades/madrid/la-latina/hero.webp"
     alt: "Casco histórico de Madrid"
 
-ratingProveedor: 4.4
-numeroOpiniones: 0
+ratingProveedor: 4.8
+numeroOpiniones: 1790
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas: []
-
-# TODO: Viator bloqueó la extracción. Validar nombre exacto del tablao, rating, reseñas y precio antes de publicar. Posiblemente despublicar hasta validar a mano.
 ---
 
 ## Qué vas a ver

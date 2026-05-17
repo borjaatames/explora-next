@@ -8,15 +8,15 @@ slugs:
   es: "walking-tour-austrias-privado-viator"
   en: "madrid-los-austrias-private-walking-tour-viator"
 
-duracion: "2,5 horas"
+duracion: "2 horas 30 minutos"
 duracionMinutos: 150
-precioDesde: 120
+precioDesde: 204
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"
 urlReserva: "https://www.viator.com/tours/Madrid/Private-Tour-Madrid-Walking-Tour-of-Los-Austrias/d566-5903WALKTOUR?pid=P00298823&mcid=42383&medium=link"
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
+horasCancelacion: 0
 
 highlights:
   - "Tour PRIVADO con guía dedicado para tu grupo"
@@ -36,8 +36,8 @@ noIncluye:
   - "Transporte"
 
 puntoEncuentro:
-  texto: "El punto de encuentro se coordina al reservar — habitualmente Puerta del Sol o Plaza Mayor."
-  descripcionGuia: "Al ser tour privado, hay margen para acordar punto de encuentro próximo a tu alojamiento. Metro Sol (líneas 1/2/3) o Ópera (2/5) son los más probables. Llega 5-10 minutos antes."
+  texto: "La Cúpula (The Palace Hotel), Pl. de las Cortes 7, Centro, 28014 Madrid. Punto final: Mercado de San Miguel."
+  descripcionGuia: "El tour arranca en el Hotel Palace (lobby de La Cúpula). Metro Sevilla (línea 2) o Sol (líneas 1/2/3) a 5 minutos. Termina en el Mercado de San Miguel, junto a Plaza Mayor. Llega 5-10 minutos antes."
   latitud: 40.4168
   longitud: -3.7038
   zoom: 17
@@ -57,21 +57,21 @@ informacionImportante:
   noAptoPara:
     - "Mascotas (solo perros de asistencia)"
   aTenerEnCuenta:
-    - "Cancelación según la política específica del producto en Viator — verifica al reservar"
-    - "Es tour PRIVADO — el precio se cotiza por grupo, no por persona"
+    - "ATENCIÓN: producto NO REEMBOLSABLE — si cancelas, pierdes el importe íntegro"
+    - "El precio (204 €) es POR PERSONA, no por grupo — verifícalo al reservar"
     - "Itinerario flexible — se puede adaptar a intereses específicos del grupo"
     - "No incluye entradas a monumentos — es visita exterior"
-    - "Para grupos de 4-6 personas, el coste por persona se reduce sensiblemente"
+    - "Disponible en español e inglés más otros 4 idiomas"
 
 accesibilidad: "Como tour privado, el guía puede adaptar el ritmo a personas con movilidad reducida. Casco antiguo con adoquinado — complicado en silla manual pero viable en silla eléctrica."
 
-politicaCancelacion: "Cancelación según la política específica del producto en Viator — verifica al reservar."
+politicaCancelacion: "NO REEMBOLSABLE. Si cancelas o modificas, no se devuelve el importe abonado."
 
 preguntasFrecuentes:
   - pregunta: "¿Por qué reservar tour privado en vez de grupo?"
     respuesta: "Por flexibilidad y atención exclusiva. En grupo (15-25 personas) el ritmo lo marca la mayoría. En privado tu grupo de 2-6 personas marca el ritmo, decide paradas, hace preguntas sin esperar turno. Si viajas en familia o grupo cerrado y quieres atención dedicada, vale la pena el extra."
   - pregunta: "¿Cuánto cuesta exactamente?"
-    respuesta: "El precio aproximado es de unos 120 euros para grupo de hasta 2-4 personas. Para más participantes consulta cotización específica. Por persona en grupo de 4 sale unos 30 euros — competitivo con tour en grupo grande."
+    respuesta: "El precio en Viator arranca en 204 € POR PERSONA — no por grupo. Es producto privado premium y no reembolsable. Para 2 personas la factura ronda los 408 € en total. Si buscas tour privado más asequible o cotización por grupo, valora alternativas en GetYourGuide u otros operadores locales."
   - pregunta: "¿Qué se ve exactamente?"
     respuesta: "Itinerario habitual: Puerta del Sol, Plaza Mayor con explicación histórica, Sobrino de Botín, Mercado de San Miguel, Plaza de la Villa, Catedral de la Almudena y Palacio Real (vista exterior). Como es privado, puedes pedir personalización (más tiempo en literatura, gastronomía, arquitectura, etc.)."
   - pregunta: "¿En qué idiomas?"
@@ -82,11 +82,11 @@ preguntasFrecuentes:
 variantes: ["walking-tour-habsburgos-grupo-reducido"]
 
 opinionEditorial: |
-  Es la versión PRIVADA del walking tour del Madrid de los Austrias en Viator. No hemos podido extraer datos exactos (Viator bloquea extracción). El precio ronda los 120 euros por grupo (hasta 2-4 personas), lo que en grupo de 4 sale a 30 € por persona — competitivo. Para 2 personas son 60 € por persona, claramente más caro que tour en grupo (la versión grupo reducido de GetYourGuide cuesta unos 32 € por persona).
+  Walking tour PRIVADO del Madrid de los Austrias en Viator. Tres alertas críticas antes de cualquier consideración: el precio arranca en 204 € POR PERSONA (no por grupo), el producto es NO REEMBOLSABLE (si cancelas, pierdes el importe íntegro), y el punto de encuentro es La Cúpula del Hotel Palace, indicador claro de posicionamiento premium. Itinerario completo declarado: Palacio Real, Iglesia de San Nicolás de los Servitas (la más antigua de Madrid), Mercado de San Miguel y Plaza Mayor en 2h30, con final en San Miguel.
 
-  Lo que conviene saber. El valor del privado está en la flexibilidad: ritmo, paradas y temática se adaptan a tu grupo. Para parejas que quieren intimidad y atención dedicada, vale. Para grupos de 4-6 personas, el coste por cabeza se acerca al de grupo y se gana mucho. Para una sola persona, no compensa. No incluye entradas a monumentos — el tour es exterior con explicación arquitectónica.
+  Lo que conviene saber. A 204 € por persona, una pareja se gasta más de 400 € en un walking tour exterior de 2h30 — sin entradas a monumentos incluidas. El valor justificable está en la atención dedicada, la flexibilidad de ritmo, la salida desde un hotel de 5 estrellas y los idiomas adicionales (español, inglés y otros cuatro). Para presupuestos normales, hay tours en grupo reducido por 25-35 € por persona que cubren el mismo recorrido sin la prima de privacidad. Punto especialmente importante: NO REEMBOLSABLE significa que si surge cualquier imprevisto (vuelo cancelado, enfermedad, cambio de planes), el dinero no vuelve. Para gasto de tres dígitos por cabeza, es un riesgo serio que valorar antes de pulsar reservar.
 
-  Para quién: grupos cerrados (familias, amigos) de 4-6 personas que quieran tour dedicado, parejas con presupuesto holgado que prefieran intimidad, viajeros con intereses específicos que requieran personalización (literatura, arquitectura, gastronomía). Para quién NO: viajeros solos (sale carísimo), parejas con presupuesto justo (mira tours en grupo reducido), y quien quiera entrar a los monumentos en la misma actividad (aquí es solo exterior).
+  Para quién: viajeros de alto presupuesto alojados en hoteles premium del centro que quieran atención dedicada y arranque elegante en el Palace, ocasiones especiales (aniversarios, lunas de miel) con presupuesto holgado y agenda firme, grupos cerrados pequeños donde el coste por cabeza compense pagar al guía dedicado. Para quién NO: cualquiera con presupuesto normal (alternativas en grupo reducido cuestan 1/8), viajeros con agenda que pueda cambiar (no reembolsable), quienes quieran entrar a monumentos en la misma actividad (esto es exterior), y viajeros solos (sale carísimo).
 
 categoria: "cultural"
 keywords: ["tour privado madrid austrias", "walking tour madrid privado", "madrid private tour viator", "tour personalizado madrid austrias", "viator privado madrid centro"]
@@ -103,15 +103,13 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 0
 
-publicada: false
+publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
   - "plaza-mayor"
   - "puerta-sol"
-
-# TODO: Viator bloqueó la extracción. Validar precio exacto, rating y reseñas antes de publicar.
 ---
 
 ## Qué vas a ver
