@@ -114,7 +114,7 @@ opinionEditorial: |
 
   **Para quién es:** visitantes que quieran venue arquitectónicamente único (palacio barroco s. XVII), viajeros que prefieran formato corto de 50 min para combinar con cena en restaurantes del Born (Cal Pep, Bar del Pla, Bormuth, La Vinya del Senyor), parejas que valoren ambiente íntimo en palacio histórico, visitantes que combinen con Museo Picasso (a 100 m), familias con niños (precios reducidos 15-20 €). **Para quién NO:** quien quiera cena durante show (Tablao de Carmen es el único formato así), quien quiera show largo + dinner completo (Tablao de Carmen con menú Estrella), quien busque tablao histórico sin micrófonos (Cordobés). Si tu prioridad es la arquitectura del venue, Palau Dalmases es la mejor opción de Barcelona.
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["palau dalmases flamenco", "flamenco palacio barcelona", "flamenco born barcelona", "espectáculo flamenco corto barcelona", "show flamenco carrer montcada"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"

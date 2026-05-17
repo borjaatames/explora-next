@@ -110,7 +110,7 @@ opinionEditorial: |
 
   **Who it's for:** visitors wanting a "complete planned evening" (dinner + show + Poble Espanyol visit), couples and groups valuing the traditional dinner-during-show atmosphere, travellers interested in the history of female flamenco (Carmen Amaya), diners seeking gastronomic menus (Noche Estrella is exceptional), visitors with time to combine Montjuïc (Magic Fountain, MNAC, Fundació Miró nearby). **Who it's NOT for:** rushed travellers who want just a 1h show (Palau Dalmases or Cordobés show-only), very tight budgets (Flamenco at the Theater from €25), those preferring Las Ramblas central location (Cordobés is more central).
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["tablao de carmen", "flamenco poble espanyol", "carmen amaya tablao", "flamenco dinner montjuic barcelona", "flamenco show with dinner barcelona"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"

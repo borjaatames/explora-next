@@ -110,7 +110,7 @@ opinionEditorial: |
 
   **Para quién es:** visitantes que quieran la experiencia clásica de tablao tradicional con historia, viajeros que valoren el SIN MICRÓFONOS como signo de autenticidad, comensales que busquen cena de calidad antes del show (el buffet Spanish Tasting es excepcional), parejas y grupos pequeños que quieran ambiente formal pero íntimo. **Para quién NO:** viajeros con presupuesto muy ajustado (Flamenco at the Theater desde 25 € es la opción más asequible), quienes prefieran venues más íntimos de 50-60 plazas (Palau Dalmases o Tablao de Carmen son más recogidos), familias con niños menores de 4 (no admitidos), personas con sillas eléctricas (solo manuales). Si quieres ambiente bar relajado, busca **El Duende** (mismo operador, formato bar de cócteles).
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["tablao cordobes barcelona", "flamenco las ramblas", "espectáculo flamenco barcelona cena", "tablao flamenco histórico barcelona", "show flamenco sin micrófonos"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"

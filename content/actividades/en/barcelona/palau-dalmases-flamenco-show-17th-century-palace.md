@@ -114,7 +114,7 @@ opinionEditorial: |
 
   **Who it's for:** visitors wanting an architecturally unique venue (17th-century Baroque palace), travellers preferring a 50-min short format to combine with dinner at El Born restaurants (Cal Pep, Bar del Pla, Bormuth, La Vinya del Senyor), couples valuing intimate atmosphere in a historic palace, visitors combining with Picasso Museum (100 m away), families with children (reduced prices €15-20). **Who it's NOT for:** anyone wanting dinner during show (Tablao de Carmen is the only such format), anyone wanting long show + complete dinner (Tablao de Carmen with Estrella menu), anyone seeking a historic tablao without microphones (Cordobés). If your priority is venue architecture, Palau Dalmases is Barcelona's best option.
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["palau dalmases flamenco", "flamenco palace barcelona", "flamenco el born barcelona", "short flamenco show barcelona", "carrer montcada flamenco"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"

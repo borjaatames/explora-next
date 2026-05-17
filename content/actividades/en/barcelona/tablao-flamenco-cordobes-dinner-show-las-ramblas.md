@@ -110,7 +110,7 @@ opinionEditorial: |
 
   **Who it's for:** visitors wanting the classic experience of a **traditional historic tablao** (1970, 55 years on Las Ramblas), travellers who value the NO MICROPHONES format as a sign of acoustic authenticity, diners seeking a quality meal BEFORE the show (the Spanish Tasting Buffet is exceptional), couples and small groups looking for a formal yet intimate atmosphere. **Who it's NOT for:** travellers on a tight budget (Flamenco at the Theater from €25 is more affordable), those preferring smaller intimate venues of 50-60 seats (Palau Dalmases or Tablao de Carmen are more compact), families with children under 4 (not admitted by minimum age), people with electric wheelchairs (only manual allowed). If you want a relaxed cocktail-bar atmosphere, look for **El Duende by Tablao Cordobes** (same operator, cocktail-bar format).
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["tablao cordobes barcelona", "flamenco las ramblas", "flamenco show barcelona dinner", "historic flamenco tablao barcelona", "no microphone flamenco show"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"

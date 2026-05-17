@@ -107,7 +107,7 @@ opinionEditorial: |
 
   **Para quién es:** viajeros con **presupuesto ajustado** que quieran ver flamenco profesional en Barcelona, visitantes con **prisa o agenda apretada** que necesiten flexibilidad de pases (4 al día), grupos grandes (familias, despedidas) que no entren en un tablao íntimo, primerizos en flamenco que quieran experiencia accesible sin compromiso de cena, visitantes alojados cerca de Plaça de Catalunya con desplazamientos mínimos. **Para quién NO:** puristas del flamenco que valoren formato íntimo sin micrófonos (Cordobés), quien quiera cena durante o antes del show (Carmen/Dalmases), quien priorice venue arquitectónicamente único (Palau Dalmases s. XVII), usuarios de silla de ruedas (este venue NO es accesible — los otros 3 SÍ lo son).
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["flamenco barcelona más vendido", "city hall theatre flamenco", "espectáculo flamenco barato barcelona", "show flamenco plaza catalunya", "flamenco teatro barcelona"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"

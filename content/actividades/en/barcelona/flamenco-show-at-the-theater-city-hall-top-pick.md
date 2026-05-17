@@ -107,7 +107,7 @@ opinionEditorial: |
 
   **Who it's for:** travellers on a **tight budget** wanting to see professional flamenco in Barcelona, visitors with a **rush or tight schedule** needing session flexibility (4 daily), large groups (families, hen/stag parties) who don't fit in an intimate tablao, flamenco first-timers wanting accessible experience without dinner commitment, visitors staying near Plaça de Catalunya with minimal commuting. **Who it's NOT for:** flamenco purists valuing intimate format without microphones (Cordobés), anyone wanting dinner during or before the show (Carmen/Dalmases), anyone prioritizing architecturally unique venue (Palau Dalmases 17th-c.), wheelchair users (this venue is NOT accessible — the other 3 ARE).
 
-categoria: "espectaculo"
+categoria: "espectaculos"
 keywords: ["best selling flamenco barcelona", "city hall theatre flamenco", "cheap flamenco show barcelona", "flamenco plaza catalunya show", "flamenco theater barcelona"]
 
 imagen: "/images/actividades/barcelona/flamenco/flamenco-hero.webp"
