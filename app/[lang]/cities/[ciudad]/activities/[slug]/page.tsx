@@ -1,15 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
   obtenerActividad,
-  obtenerActividadesAlternativas,
   obtenerTodosLosCaminosActividades,
-  obtenerVariantesDeActividad,
   type ActividadCompleta,
-  type ActividadListItem,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
 import { obtenerListaGuias } from "@/lib/guias";
@@ -26,7 +22,6 @@ import CalendarioReserva from "@/components/CalendarioReserva";
 import DetallesPracticos from "@/components/DetallesPracticos";
 import InformacionImportante from "@/components/InformacionImportante";
 import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
-import CarruselVariantes from "@/components/CarruselVariantes";
 import FaqActividad from "@/components/FaqActividad";
 
 const SITE_URL =
@@ -93,20 +88,6 @@ export default async function ActividadPage({ params }: Props) {
   if (!ciudad || !actividad) notFound();
 
   const dict = getDictionary(IDIOMA);
-
-  const variantes = obtenerVariantesDeActividad(
-    IDIOMA,
-    params.ciudad,
-    actividad.variantes || []
-  );
-
-  const alternativas = obtenerActividadesAlternativas(
-    IDIOMA,
-    params.ciudad,
-    params.slug,
-    3,
-    variantes.map((v) => v.slug)
-  );
 
   const guiasRelacionadas =
     actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
@@ -384,23 +365,7 @@ export default async function ActividadPage({ params }: Props) {
               />
             </div>
 
-            {/* 9. "Other ways to visit X" carousel */}
-            {variantes.length > 0 && (
-              <CarruselVariantes
-                variantes={variantes}
-                idioma={IDIOMA}
-                titulo={`Other ways to visit ${actividad.titulo
-                  .replace(/^Private\s+/i, "")
-                  .replace(/^Royal Palace and\s+/i, "")
-                  .replace(
-                    /\s+(Skip-the-Line\s+)?(Guided\s+)?(Combined\s+)?Tour.*$/i,
-                    ""
-                  )
-                  .trim()}`}
-              />
-            )}
-
-            {/* 10. Accessibility */}
+            {/* 9. Accessibility */}
             {actividad.accesibilidad && (
               <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
@@ -452,21 +417,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 14. Alternatives in the city */}
-            {alternativas.length > 0 && (
-              <div>
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
-                  {dict.actividades.alternativas}
-                </h2>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  {alternativas.map((alt) => (
-                    <AlternativaCard key={alt.url} actividad={alt} />
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {/* 15. Affiliate disclosure */}
+            {/* 14. Affiliate disclosure */}
             <p className="text-xs text-slate-500 border-t border-slate-200 pt-6">
               {dict.actividades.avisoAfiliacion}
             </p>
@@ -589,41 +540,4 @@ function buildProductLd(
   }
 
   return ld;
-}
-
-type AlternativaCardProps = { actividad: ActividadListItem };
-
-function AlternativaCard({ actividad }: AlternativaCardProps) {
-  const precio = new Intl.NumberFormat("en-US", {
-    style: "currency",
-    currency: actividad.moneda,
-    maximumFractionDigits: 0,
-  }).format(actividad.precioDesde);
-  return (
-    <Link
-      href={actividad.url}
-      className="group block bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
-    >
-      <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
-        {actividad.imagen ? (
-          <Image
-            src={actividad.imagen}
-            alt={actividad.imagenAlt}
-            fill
-            sizes="(max-width: 768px) 100vw, 33vw"
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
-          />
-        ) : null}
-      </div>
-      <div className="p-4">
-        <h3 className="font-playfair text-base font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-sky-700 transition-colors">
-          {actividad.titulo}
-        </h3>
-        <p className="text-xs text-slate-500">
-          {actividad.duracion} · From{" "}
-          <span className="font-semibold text-slate-900">{precio}</span>
-        </p>
-      </div>
-    </Link>
-  );
 }

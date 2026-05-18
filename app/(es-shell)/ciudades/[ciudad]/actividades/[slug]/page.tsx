@@ -1,15 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
   obtenerActividad,
-  obtenerActividadesAlternativas,
   obtenerTodosLosCaminosActividades,
-  obtenerVariantesDeActividad,
   type ActividadCompleta,
-  type ActividadListItem,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
 import { obtenerListaGuias } from "@/lib/guias";
@@ -26,7 +22,6 @@ import CalendarioReserva from "@/components/CalendarioReserva";
 import DetallesPracticos from "@/components/DetallesPracticos";
 import InformacionImportante from "@/components/InformacionImportante";
 import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
-import CarruselVariantes from "@/components/CarruselVariantes";
 import FaqActividad from "@/components/FaqActividad";
 
 const SITE_URL =
@@ -91,22 +86,6 @@ export default async function ActividadPage({ params }: Props) {
   if (!ciudad || !actividad) notFound();
 
   const dict = getDictionary("es");
-
-  const variantes = obtenerVariantesDeActividad(
-    "es",
-    params.ciudad,
-    actividad.variantes || []
-  );
-
-  // Las "alternativas en la ciudad" excluyen tanto la actividad actual
-  // como las variantes ya mostradas en el carrusel para no duplicar.
-  const alternativas = obtenerActividadesAlternativas(
-    "es",
-    params.ciudad,
-    params.slug,
-    3,
-    variantes.map((v) => v.slug)
-  );
 
   const guiasRelacionadas =
     actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
@@ -391,18 +370,7 @@ export default async function ActividadPage({ params }: Props) {
               />
             </div>
 
-            {/* 9. Carrusel "Otras formas de visitar X" */}
-            {variantes.length > 0 && (
-              <CarruselVariantes
-                variantes={variantes}
-                idioma="es"
-                titulo={`Otras formas de visitar ${actividad.titulo
-                  .replace(/^Visita guiada al?\s+/i, "")
-                  .replace(/^Tour( del?| por el?)?\s+/i, "")}`}
-              />
-            )}
-
-            {/* 10. Accesibilidad — frase global simple */}
+            {/* 9. Accesibilidad — frase global simple */}
             {actividad.accesibilidad && (
               <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
@@ -454,21 +422,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 14. Alternativas en la ciudad */}
-            {alternativas.length > 0 && (
-              <div>
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
-                  {dict.actividades.alternativas}
-                </h2>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                  {alternativas.map((alt) => (
-                    <AlternativaCard key={alt.url} actividad={alt} />
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {/* 15. Disclosure de afiliación */}
+            {/* 14. Disclosure de afiliación */}
             <p className="text-xs text-slate-500 border-t border-slate-200 pt-6">
               {dict.actividades.avisoAfiliacion}
             </p>
@@ -591,41 +545,4 @@ function buildProductLd(
   }
 
   return ld;
-}
-
-type AlternativaCardProps = { actividad: ActividadListItem };
-
-function AlternativaCard({ actividad }: AlternativaCardProps) {
-  const precio = new Intl.NumberFormat("es-ES", {
-    style: "currency",
-    currency: actividad.moneda,
-    maximumFractionDigits: 0,
-  }).format(actividad.precioDesde);
-  return (
-    <Link
-      href={actividad.url}
-      className="group block bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
-    >
-      <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
-        {actividad.imagen ? (
-          <Image
-            src={actividad.imagen}
-            alt={actividad.imagenAlt}
-            fill
-            sizes="(max-width: 768px) 100vw, 33vw"
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
-          />
-        ) : null}
-      </div>
-      <div className="p-4">
-        <h3 className="font-playfair text-base font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-sky-700 transition-colors">
-          {actividad.titulo}
-        </h3>
-        <p className="text-xs text-slate-500">
-          {actividad.duracion} · Desde{" "}
-          <span className="font-semibold text-slate-900">{precio}</span>
-        </p>
-      </div>
-    </Link>
-  );
 }
