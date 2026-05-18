@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useSearchParams } from 'next/navigation';
+import { useEffect, useState } from 'react';
 import type { SemLandingResumen } from '@/lib/sem/landings';
 
 type Props = {
@@ -27,8 +27,12 @@ type Props = {
  * - Si no, mostramos el enlace por defecto al listado de actividades de la
  *   ciudad.
  *
- * Client Component a propósito: `useSearchParams` lo exige y mantenemos
- * el resto de la ficha como Server Component (SSG).
+ * Por qué `useEffect` y NO `useSearchParams`:
+ * La página de la ficha se genera estáticamente con `generateStaticParams`.
+ * Usar `useSearchParams` dentro de un Client Component sin envolverlo en
+ * `<Suspense>` provoca un error de build en Next.js 14. Leer el query
+ * desde `window.location.search` tras la hidratación es suficiente y
+ * mantiene la SSG limpia.
  */
 export default function BotonVolverFicha({
   urlActividadesCiudad,
@@ -36,8 +40,14 @@ export default function BotonVolverFicha({
   landingsConocidas,
   textoVolverLanding,
 }: Props) {
-  const searchParams = useSearchParams();
-  const from = searchParams.get('from');
+  const [from, setFrom] = useState<string | null>(null);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const params = new URLSearchParams(window.location.search);
+    setFrom(params.get('from'));
+  }, []);
+
   const landingOrigen = from
     ? landingsConocidas.find((l) => l.slug === from)
     : undefined;
