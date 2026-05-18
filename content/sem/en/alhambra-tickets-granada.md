@@ -1,6 +1,7 @@
 ---
 slug: "alhambra-tickets-granada"
 publicada: true
+ficha_ciudad: "granada"
 
 titulo: "The Best Alhambra Tickets and Guided Tours"
 subtitulo: "12 hand-picked options: group, small group, private or night visit. Compare and book your access to the Nasrid Palaces."

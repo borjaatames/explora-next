@@ -1,6 +1,7 @@
 ---
 slug: "montserrat-day-trips-barcelona"
 publicada: true
+ficha_ciudad: "barcelona"
 
 titulo: "Best Montserrat Day Trips From Barcelona"
 subtitulo: "14 hand-picked tours: half day, full day with winery, small group or private tour. Compare prices and book with free cancellation up to 24 hours before."

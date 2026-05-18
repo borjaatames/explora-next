@@ -64,6 +64,7 @@ export default function Page() {
         tours={landing.tours}
         landingSlug={landing.slug}
         idioma={IDIOMA}
+        fichaCiudad={landing.ficha_ciudad}
       />
 
       <SemGarantias

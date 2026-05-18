@@ -1,4 +1,4 @@
-import type { SemIdioma, SemTour } from '@/lib/sem/types';
+import type { SemFichaCiudad, SemIdioma, SemTour } from '@/lib/sem/types';
 import SemTourCard from './SemTourCard';
 
 type Props = {
@@ -6,9 +6,19 @@ type Props = {
   landingSlug: string;
   /** Idioma de la landing. Default 'es' por retrocompatibilidad. */
   idioma?: SemIdioma;
+  /**
+   * Ciudad donde viven las fichas propias. Default 'madrid'
+   * (retrocompatibilidad).
+   */
+  fichaCiudad?: SemFichaCiudad;
 };
 
-export default function SemTourGrid({ tours, landingSlug, idioma = 'es' }: Props) {
+export default function SemTourGrid({
+  tours,
+  landingSlug,
+  idioma = 'es',
+  fichaCiudad = 'madrid',
+}: Props) {
   const labels = LABELS_BY_LANG[idioma];
   const ariaLabel = idioma === 'es' ? 'Excursiones disponibles' : 'Available tours';
 
@@ -33,6 +43,7 @@ export default function SemTourGrid({ tours, landingSlug, idioma = 'es' }: Props
               tour={tour}
               landingSlug={landingSlug}
               idioma={idioma}
+              fichaCiudad={fichaCiudad}
             />
           ))}
         </div>

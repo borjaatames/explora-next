@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useCallback } from 'react';
-import type { SemIdioma, SemTour } from '@/lib/sem/types';
+import type { SemFichaCiudad, SemIdioma, SemTour } from '@/lib/sem/types';
 import { construirUrlAfiliado } from '@/lib/sem/url-builder';
 
 type Props = {
@@ -11,6 +11,12 @@ type Props = {
   landingSlug: string;
   /** Idioma de la landing. Default 'es' por retrocompatibilidad. */
   idioma?: SemIdioma;
+  /**
+   * Ciudad donde vive la ficha propia. Default 'madrid' (retrocompatibilidad
+   * con Toledo, Tapas y Excursiones Madrid). Para SF/Montserrat 'barcelona',
+   * para Alhambra 'granada', etc.
+   */
+  fichaCiudad?: SemFichaCiudad;
 };
 
 /**
@@ -28,10 +34,15 @@ type Props = {
  * dentro del `<Link>`/`<a>`. Esto permite seleccionar texto, mantiene un único
  * enlace para lectores de pantalla y deja sitio a futuros elementos interactivos.
  */
-export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props) {
+export default function SemTourCard({
+  tour,
+  landingSlug,
+  idioma = 'es',
+  fichaCiudad = 'madrid',
+}: Props) {
   const tieneFichaPropia = Boolean(tour.ficha_propia_slug);
   const labels = LABELS_BY_LANG[idioma];
-  const fichaBase = FICHA_BASE_BY_LANG[idioma];
+  const fichaBase = construirFichaBase(idioma, fichaCiudad);
   const localeNumero = idioma === 'es' ? 'es-ES' : 'en-US';
 
   // Nombre del partner para el aviso "Continúa en X".
@@ -232,10 +243,19 @@ export default function SemTourCard({ tour, landingSlug, idioma = 'es' }: Props)
   );
 }
 
-const FICHA_BASE_BY_LANG: Record<SemIdioma, string> = {
-  es: '/ciudades/madrid/actividades',
-  en: '/en/cities/madrid/activities',
-};
+/**
+ * Construye la base de la ruta de la ficha propia según idioma y ciudad.
+ *  - es → `/ciudades/{ciudad}/actividades`
+ *  - en → `/en/cities/{ciudad}/activities`
+ *
+ * La ciudad se mantiene en kebab-case y coincide con los segmentos reales
+ * del filesystem en `app/ciudades/{ciudad}/...` y `app/en/cities/{ciudad}/...`.
+ */
+function construirFichaBase(idioma: SemIdioma, ciudad: SemFichaCiudad): string {
+  return idioma === 'es'
+    ? `/ciudades/${ciudad}/actividades`
+    : `/en/cities/${ciudad}/activities`;
+}
 
 const LABELS_BY_LANG: Record<
   SemIdioma,

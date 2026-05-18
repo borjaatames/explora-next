@@ -61,6 +61,7 @@ export default function Page() {
       <SemTourGrid
         tours={landing.tours}
         landingSlug={landing.slug}
+        fichaCiudad={landing.ficha_ciudad}
       />
 
       <SemGarantias

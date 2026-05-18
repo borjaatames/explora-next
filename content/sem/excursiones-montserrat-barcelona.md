@@ -1,6 +1,7 @@
 ---
 slug: "excursiones-montserrat-barcelona"
 publicada: true
+ficha_ciudad: "barcelona"
 
 titulo: "Las mejores excursiones a Montserrat desde Barcelona"
 subtitulo: "14 opciones seleccionadas: medio día, día completo con bodega, grupo reducido o tour privado. Compara precios y reserva con cancelación gratuita hasta 24 h antes."

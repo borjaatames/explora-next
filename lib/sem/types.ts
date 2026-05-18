@@ -9,6 +9,19 @@
 export type SemIdioma = 'es' | 'en';
 
 /**
+ * Ciudad de la ficha propia asociada a una landing SEM.
+ * Se usa para resolver la ruta interna `/ciudades/{ciudad}/actividades/{slug}`
+ * (o `/en/cities/{ciudad}/activities/{slug}` en inglés). Si no se declara,
+ * default `'madrid'` por retrocompatibilidad con Toledo, Tapas y Excursiones
+ * Madrid, donde todas las fichas viven bajo Madrid.
+ */
+export type SemFichaCiudad =
+  | 'madrid'
+  | 'barcelona'
+  | 'granada'
+  | 'sevilla';
+
+/**
  * Proveedor afiliado del tour. Solo `viator` y `getyourguide` activos.
  * Por defecto `viator` (retrocompatibilidad con Toledo SEM).
  */
@@ -128,6 +141,13 @@ export type SemLandingFrontmatter = {
   slug: string;
   /** Si es false, la página devuelve 404 */
   publicada: boolean;
+
+  /**
+   * Ciudad donde viven las fichas propias asociadas a los tours de esta
+   * landing. Determina la base de la ruta interna `/ciudades/{ciudad}/actividades/{slug}`.
+   * Si no se declara, default `'madrid'` (retrocompatibilidad).
+   */
+  ficha_ciudad?: SemFichaCiudad;
 
   /** H1 principal */
   titulo: string;

@@ -1,6 +1,7 @@
 ---
 slug: "entradas-alhambra-granada"
 publicada: true
+ficha_ciudad: "granada"
 
 titulo: "Las mejores entradas y visitas guiadas a la Alhambra"
 subtitulo: "12 opciones seleccionadas por nosotros: en grupo, grupo reducido, privada o nocturna. Compara y reserva tu acceso a los Palacios Nazaríes."
