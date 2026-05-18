@@ -176,7 +176,7 @@ export default function SemTourCard({
         <h3 className="text-base font-semibold leading-snug text-slate-900">
           {tieneFichaPropia ? (
             <Link
-              href={`${fichaBase}/${tour.ficha_propia_slug}`}
+              href={`${fichaBase}/${tour.ficha_propia_slug}?from=${landingSlug}`}
               onClick={handleClickInterno}
               className="focus-visible:outline-none focus-visible:underline"
             >

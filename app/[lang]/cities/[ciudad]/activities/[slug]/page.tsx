@@ -23,6 +23,8 @@ import DetallesPracticos from "@/components/DetallesPracticos";
 import InformacionImportante from "@/components/InformacionImportante";
 import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
 import FaqActividad from "@/components/FaqActividad";
+import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
+import { obtenerLandingsSemConocidas } from "@/lib/sem/landings";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -88,6 +90,10 @@ export default async function ActividadPage({ params }: Props) {
   if (!ciudad || !actividad) notFound();
 
   const dict = getDictionary(IDIOMA);
+
+  // Lista de landings SEM publicadas en este idioma; la consume el botón
+  // "← Volver" para resolver el query param `?from=<slug>` al destino real.
+  const landingsSemConocidas = obtenerLandingsSemConocidas(IDIOMA);
 
   const guiasRelacionadas =
     actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
@@ -453,12 +459,12 @@ export default async function ActividadPage({ params }: Props) {
       </section>
 
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
-        <Link
-          href={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
-          className="text-sky-600 hover:text-sky-700 font-semibold"
-        >
-          ← See more things to do in {ciudad.nombre}
-        </Link>
+        <BotonVolverFicha
+          urlActividadesCiudad={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
+          textoActividadesCiudad={`← See more things to do in ${ciudad.nombre}`}
+          landingsConocidas={landingsSemConocidas}
+          textoVolverLanding="← Back"
+        />
       </div>
 
       <StickyReservaMovil

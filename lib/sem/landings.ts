@@ -54,3 +54,49 @@ export function obtenerLandingSem(
     idioma,
   };
 }
+
+/**
+ * Resumen mínimo de una landing SEM para usar en links de navegación
+ * (por ejemplo, el botón "← Volver" en la ficha de actividad cuando el
+ * usuario llega desde una landing).
+ */
+export type SemLandingResumen = {
+  slug: string;
+  url: string;
+};
+
+/**
+ * Lista TODAS las landings SEM publicadas para un idioma, devolviendo
+ * solo `{slug, url}`. Pensado para pasar a un Client Component que
+ * necesita saber qué landings existen (por ejemplo, para validar un
+ * `?from=<slug>` antes de redirigir).
+ *
+ * Server-only — depende de `fs`. No importar desde Client Components.
+ *
+ * @param idioma 'es' lee `content/sem/*.md`; 'en' lee `content/sem/en/*.md`.
+ *               Para añadir más idiomas, replicar el patrón.
+ */
+export function obtenerLandingsSemConocidas(
+  idioma: SemIdioma = 'es',
+): SemLandingResumen[] {
+  const dir =
+    idioma === 'es' ? semDirectory : path.join(semDirectory, idioma);
+
+  if (!fs.existsSync(dir)) {
+    return [];
+  }
+
+  const entries = fs
+    .readdirSync(dir, { withFileTypes: true })
+    .filter((d) => d.isFile() && d.name.endsWith('.md'));
+
+  const resumen: SemLandingResumen[] = [];
+  for (const entry of entries) {
+    const slug = entry.name.replace(/\.md$/, '');
+    const landing = obtenerLandingSem(slug, idioma);
+    if (landing) {
+      resumen.push({ slug: landing.slug, url: landing.url });
+    }
+  }
+  return resumen;
+}
