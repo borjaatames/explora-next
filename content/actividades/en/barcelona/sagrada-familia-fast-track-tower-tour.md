@@ -104,8 +104,8 @@ keywords:
 - sagrada familia tower climb
 - sagrada familia skip the line tower
 - sagrada familia tower tickets
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-imagenAlt: Sagrada Familia ornate ceiling with intricate architectural details and illuminated designs
+imagen: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
+imagenAlt: Barcelona cityscape with historic architecture and urban landscape
 ratingProveedor: 4.4
 numeroOpiniones: 2480
 publicada: true
@@ -116,8 +116,8 @@ atraccionesRelacionadas:
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp
   alt: Towers of the Sagrada Familia silhouetted against the Barcelona sky
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
+  alt: Sagrada Familia ornate ceiling with intricate architectural details and illuminated designs
 - src: /images/actividades/barcelona/sagrada-familia/pixabay-552084-hero.webp
   alt: Barcelona cityscape with historic buildings and Mediterranean architecture
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp

@@ -104,8 +104,8 @@ keywords:
 - subir torre sagrada familia
 - sagrada familia sin colas torre
 - entradas sagrada familia torre
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-imagenAlt: Techo de la Sagrada Familia iluminado con detalles arquitectónicos y luz dorada
+imagen: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
+imagenAlt: Arquitectura gótica de Barcelona con torres medievales y calles empedradas
 ratingProveedor: 4.4
 numeroOpiniones: 2480
 publicada: true
@@ -116,8 +116,8 @@ atraccionesRelacionadas:
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero.webp
   alt: Torres de la Sagrada Familia recortadas contra el cielo de Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
-  alt: Arquitectura gótica de Barcelona con torres medievales y calles empedradas
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
+  alt: Techo de la Sagrada Familia iluminado con detalles arquitectónicos y luz dorada
 - src: /images/actividades/barcelona/sagrada-familia/pixabay-552084-hero.webp
   alt: Barcelona desde el aire, edificios y arquitectura urbana
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp
