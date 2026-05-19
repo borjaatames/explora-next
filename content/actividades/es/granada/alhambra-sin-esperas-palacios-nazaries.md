@@ -107,37 +107,39 @@ keywords:
 - alhambra grupo reducido o privado
 - tour alhambra granada
 - alhambra palacios nazaries
-imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
-imagenAlt: Vista aérea de la Alhambra de Granada con sus torres sobre la ciudad
+imagen: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+imagenAlt: Vistas panorámicas de Granada con la Alhambra al fondo
 galeria:
-- src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
-  alt: Arcos y patio interior de los Palacios Nazaríes de la Alhambra
-- src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fuente del Patio de los Leones de la Alhambra
-- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
-  alt: Pasillo de la Alhambra con columnas y arcos de arquitectura islámica granadina
-- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
-  alt: La Alcazaba de la Alhambra al atardecer sobre Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
+  alt: Vista aérea de la Alhambra de Granada con sus torres sobre la ciudad
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
   alt: 'Granada: vista panorámica de la ciudad con arquitectura histórica y paisaje montañoso'
-- src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
-  alt: Detalle de la decoración de estuco geométrico de los Palacios Nazaríes
-- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: Jardines del Generalife con sus acequias y vegetación
+- src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
+  alt: Arcos y patio interior de los Palacios Nazaríes de la Alhambra
+- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
+  alt: Pasillo de la Alhambra con columnas y arcos de arquitectura islámica granadina
+- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
+  alt: Vista panorámica de Granada con la Alhambra y las montañas de Sierra Nevada al fondo
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada
+- src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
+  alt: Granada, vista panorámica de la ciudad blanca con arquitectura tradicional andaluza
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: La Alcazaba de la Alhambra al atardecer sobre Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
+  alt: Detalle de la decoración de estuco geométrico de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero-hero.webp
   alt: Palacio de la Alhambra en Granada con palmeras y vistas panorámicas
-- src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
-  alt: Pabellón de la Corte de los Leones en la Alhambra de Granada, España
-- src: /images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero-hero.webp
-  alt: Ventana con decoración nazarí y lema inscrito en el Cuarto Dorado de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio del Generalife de la Alhambra con fuente central y arcadas, Granada
-- src: /images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
-  alt: Fortaleza de la Alhambra en Granada vista aérea, muros y torres medievales
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
   alt: Patio de la Alhambra en Granada con arcos islámicos, fuente central y detalles arquitectónicos dorados
+- src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
+  alt: Pabellón de la Corte de los Leones en la Alhambra de Granada, España
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
+  alt: Jardines del Generalife con sus acequias y vegetación
+- src: /images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
+  alt: Fortaleza de la Alhambra en Granada vista aérea, muros y torres medievales
 ratingProveedor: 4.8
 numeroOpiniones: 432
 publicada: true

@@ -108,37 +108,39 @@ keywords:
 - alhambra small group or private
 - alhambra tour granada
 - alhambra nasrid palaces
-imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
-imagenAlt: Aerial view of the Alhambra of Granada with its towers above the city
+imagen: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+imagenAlt: Granada cityscape with historic architecture and Mediterranean landscape
 galeria:
-- src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
-  alt: Arches and inner courtyard of the Nasrid Palaces of the Alhambra
-- src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fountain of the Court of the Lions in the Alhambra
-- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
-  alt: Ornate hallway in Alhambra palace featuring arched columns and decorative Islamic architecture
-- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
-  alt: The Alcazaba of the Alhambra at dusk above Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
+  alt: Aerial view of the Alhambra of Granada with its towers above the city
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
   alt: Granada cityscape with historic architecture and mountains in background
-- src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
-  alt: Detail of the geometric stucco decoration of the Nasrid Palaces
-- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: The Generalife gardens with their water channels and greenery
+- src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
+  alt: Arches and inner courtyard of the Nasrid Palaces of the Alhambra
+- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
+  alt: Ornate hallway in Alhambra palace featuring arched columns and decorative Islamic architecture
+- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
+  alt: Granada cityscape with historic architecture and mountain views
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Granada's historic architecture and winding cobblestone streets under soft daylight
+- src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
+  alt: Granada's historic architecture with traditional white buildings and cobblestone streets
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: The Alcazaba of the Alhambra at dusk above Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
+  alt: Detail of the geometric stucco decoration of the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero-hero.webp
   alt: Alhambra palace in Granada with palm trees and architectural details in landscape view
-- src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
-  alt: Lions Court pavilion with ornate Islamic arches and fountain in Alhambra palace, Granada
-- src: /images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero-hero.webp
-  alt: Ornate Nasrid window with Arabic motto in Cuarto Dorado hall, Alhambra palace
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Water courtyard with fountains and arches in Alhambra Palace, Granada
-- src: /images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
-  alt: Aerial view of Alhambra fortress in Granada with palace grounds and surrounding walls
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
   alt: Intricate Islamic geometric patterns and arabesques on ornate architecture at Alhambra Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
+  alt: Lions Court pavilion with ornate Islamic arches and fountain in Alhambra palace, Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
+  alt: The Generalife gardens with their water channels and greenery
+- src: /images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
+  alt: Aerial view of Alhambra fortress in Granada with palace grounds and surrounding walls
 ratingProveedor: 4.8
 numeroOpiniones: 432
 publicada: true
