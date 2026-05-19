@@ -150,8 +150,8 @@ tours:
     resenas: 6033
     viator_product_id: "2140JTEMA20"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Toledo-Half-Day-or-Full-Day-Trip-from-Madrid/d566-2140JTEMA20"
-    imagen: "/images/actividades/madrid/toledo/callejon-tipico.webp"
-    imagen_alt: "Callejón estrecho con relieves de piedra labrada en el casco histórico de Toledo"
+    imagen: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp"
+    imagen_alt: "Fachada gótica de la Catedral Primada de Toledo bajo cielo despejado"
     categoria: "medio-dia"
 
   - id: "segovia-catedral-alcazar"
