@@ -1,103 +1,130 @@
 ---
-titulo: "Sagrada Familia Small-Group Guided Tour"
-slug: "sagrada-familia-small-group-tour"
-ciudad: "barcelona"
-descripcion: "Small-group guided tour of the Sagrada Familia, with an official guide, skip-the-line entry and wheelchair access. Operator with 3,700 reviews."
-
+titulo: Sagrada Familia Small-Group Guided Tour
+slug: sagrada-familia-small-group-tour
+ciudad: barcelona
+descripcion: Small-group guided tour of the Sagrada Familia, with an official guide, skip-the-line entry and wheelchair access.
+  Operator with 3,700 reviews.
 slugs:
-  en: "sagrada-familia-small-group-tour"
-  es: "sagrada-familia-visita-guiada-grupo-reducido"
-
-duracion: "1h 30min"
+  en: sagrada-familia-small-group-tour
+  es: sagrada-familia-visita-guiada-grupo-reducido
+duracion: 1h 30min
 duracionMinutos: 90
 precioDesde: 56
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/sagrada-familia-visita-guiada-sin-hacer-cola-t195065/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/sagrada-familia-visita-guiada-sin-hacer-cola-t195065/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Small group: a more personal experience than a standard tour"
-  - "Official guide, skip-the-line entry and audio system included"
-  - "Operator with a good score and volume: 4.7 out of 5 with over 3,700 reviews"
-  - "Wheelchair accessible, with special access to the monument"
-  - "A 1.5-hour route covering the façades and the basilica interior"
-
+- 'Small group: a more personal experience than a standard tour'
+- Official guide, skip-the-line entry and audio system included
+- 'Operator with a good score and volume: 4.7 out of 5 with over 3,700 reviews'
+- Wheelchair accessible, with special access to the monument
+- A 1.5-hour route covering the façades and the basilica interior
 incluye:
-  - "Skip-the-line entry to the Sagrada Familia"
-  - "Official local guide"
-  - "Audio system to hear the guide"
-  - "Instant confirmation"
-
+- Skip-the-line entry to the Sagrada Familia
+- Official local guide
+- Audio system to hear the guide
+- Instant confirmation
 noIncluye:
-  - "Tower access"
-  - "Transport and transfers"
-  - "Food and drink"
-  - "Gratuities (optional)"
-
+- Tower access
+- Transport and transfers
+- Food and drink
+- Gratuities (optional)
 puntoEncuentro:
-  texto: "Av. de Gaudí, 1, 08025 Barcelona — by the Modernist Lamppost, between the KFC and the Hard Rock"
-  descripcionGuia: "The meeting point is on Avenida de Gaudí, by the Modernist Lamppost (a very tall lamppost with a stone base), facing the back of the basilica, between the KFC restaurant and the Hard Rock store. Under the lamppost, look for a red flag with the text «4U». Arrive 15 minutes early."
+  texto: Av. de Gaudí, 1, 08025 Barcelona — by the Modernist Lamppost, between the KFC and the Hard Rock
+  descripcionGuia: The meeting point is on Avenida de Gaudí, by the Modernist Lamppost (a very tall lamppost with a stone
+    base), facing the back of the basilica, between the KFC restaurant and the Hard Rock store. Under the lamppost, look for
+    a red flag with the text «4U». Arrive 15 minutes early.
   latitud: 41.4058
-  longitud: 2.1760
+  longitud: 2.176
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
-
 informacionImportante:
   queTraer:
-    - "ID document or passport (entry is nominative)"
-    - "Comfortable shoes and clothing, and water in the warm months"
+  - ID document or passport (entry is nominative)
+  - Comfortable shoes and clothing, and water in the warm months
   noAptoPara:
-    - "Pets, and large suitcases or bags (you cannot enter with them)"
+  - Pets, and large suitcases or bags (you cannot enter with them)
   aTenerEnCuenta:
-    - "You cannot enter the basilica with your head covered, in short trousers or with bare shoulders"
-    - "There is special wheelchair access"
-    - "Arrive 15 minutes early: the meeting point is a busy area"
-
-accesibilidad: "Wheelchair accessible: the monument has a special access route. It is the accessible option we recommend among the guided tours in the comparison."
-
-politicaCancelacion: "Free cancellation with a full refund if you cancel 24 hours in advance."
-
+  - You cannot enter the basilica with your head covered, in short trousers or with bare shoulders
+  - There is special wheelchair access
+  - 'Arrive 15 minutes early: the meeting point is a busy area'
+accesibilidad: 'Wheelchair accessible: the monument has a special access route. It is the accessible option we recommend among
+  the guided tours in the comparison.'
+politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance.
 preguntasFrecuentes:
-  - pregunta: "What do I get with the small group?"
-    respuesta: "A more personal experience: fewer people around the guide, easier to hear, ask questions and take photos without a crowd. The route content is the same as a standard guided visit; what changes is the group size."
-  - pregunta: "Is it wheelchair accessible?"
-    respuesta: "Yes. The operator states the visit is accessible and that the monument has special wheelchair access. It is the accessible option we recommend among the guided tours in the comparison."
-  - pregunta: "Does it include going up the towers?"
-    respuesta: "No. Going up a tower is not part of this visit. If you want to go up, check the tour with tower access in the comparison."
-  - pregunta: "What languages is the visit in?"
-    respuesta: "The official guide works in several languages, including Spanish and English. You choose the language at booking; check availability for your date."
-  - pregunta: "How long is it and what do you see?"
-    respuesta: "An hour and a half. The route covers the Nativity façade, the basilica interior, the Passion façade and the Sagrada Familia school."
+- pregunta: What do I get with the small group?
+  respuesta: 'A more personal experience: fewer people around the guide, easier to hear, ask questions and take photos without
+    a crowd. The route content is the same as a standard guided visit; what changes is the group size.'
+- pregunta: Is it wheelchair accessible?
+  respuesta: Yes. The operator states the visit is accessible and that the monument has special wheelchair access. It is the
+    accessible option we recommend among the guided tours in the comparison.
+- pregunta: Does it include going up the towers?
+  respuesta: No. Going up a tower is not part of this visit. If you want to go up, check the tour with tower access in the
+    comparison.
+- pregunta: What languages is the visit in?
+  respuesta: The official guide works in several languages, including Spanish and English. You choose the language at booking;
+    check availability for your date.
+- pregunta: How long is it and what do you see?
+  respuesta: An hour and a half. The route covers the Nativity façade, the basilica interior, the Passion façade and the Sagrada
+    Familia school.
+variantes:
+- sagrada-familia-skip-the-line-guided-tour
+- sagrada-familia-guided-tour-with-free-time
+- sagrada-familia-private-guided-tour
+- sagrada-familia-guided-tour
+opinionEditorial: 'This is the middle ground between the standard guided tour and the private tour: you pay slightly more
+  than in a large group (from €56) in exchange for a small group, where you can hear the guide better and don''t have to jostle
+  for position. The operator has a good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is
+  the same as any guided tour: façades, interior and school.
 
-variantes: ["sagrada-familia-skip-the-line-guided-tour", "sagrada-familia-guided-tour-with-free-time", "sagrada-familia-private-guided-tour", "sagrada-familia-guided-tour"]
 
-opinionEditorial: |
-  This is the middle ground between the standard guided tour and the private tour: you pay slightly more than in a large group (from €56) in exchange for a small group, where you can hear the guide better and don't have to jostle for position. The operator has a good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is the same as any guided tour: façades, interior and school.
+  Its real strong point, beyond the small group, is accessibility: it''s the guided visit that expressly declares wheelchair
+  access, with special entry to the monument. If that''s your need, this is the option in the comparison. What it doesn''t
+  include are the towers or any transfer, and the meeting point — by the Modernist Lamppost, between the KFC and the Hard
+  Rock — is a busy one: arrive with time to spare. If the large group doesn''t bother you, the skip-the-line guided tour is
+  cheaper; if you want one-to-one attention, the jump is to the private tour.
 
-  Its real strong point, beyond the small group, is accessibility: it's the guided visit that expressly declares wheelchair access, with special entry to the monument. If that's your need, this is the option in the comparison. What it doesn't include are the towers or any transfer, and the meeting point — by the Modernist Lamppost, between the KFC and the Hard Rock — is a busy one: arrive with time to spare. If the large group doesn't bother you, the skip-the-line guided tour is cheaper; if you want one-to-one attention, the jump is to the private tour.
-
-categoria: "visitasGuiadas"
-keywords: ["sagrada familia small group", "sagrada familia guided tour", "sagrada familia accessible", "sagrada familia wheelchair", "sagrada familia skip the line tour"]
-
-imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp"
-imagenAlt: "Altar and interior vault of the Sagrada Familia with stained glass in the background"
-
+  '
+categoria: visitasGuiadas
+keywords:
+- sagrada familia small group
+- sagrada familia guided tour
+- sagrada familia accessible
+- sagrada familia wheelchair
+- sagrada familia skip the line tour
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp
+imagenAlt: Altar and interior vault of the Sagrada Familia with stained glass in the background
 ratingProveedor: 4.7
 numeroOpiniones: 3690
-
 publicada: true
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "sagrada-familia"
+- sagrada-familia
+galeria:
+- src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
+  alt: Barcelona cityscape with architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-31878203-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
+  alt: Sagrada Familia basilica with ornate spires and construction cranes in Barcelona, Spain
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-architecture-monument-hero-hero.webp
+  alt: Sagrada Familia cathedral with ornate spires and detailed Gothic-inspired architecture in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
+  alt: Intricate Gothic ceiling with ornate stone vaulting and decorative details in Barcelona's Sagrada Familia basilica
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
+  alt: Vaulted ceiling of Sagrada Familia basilica in Barcelona, reaching 63 meters high
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
+  alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona with colorful light patterns
 ---
 
 ## What you'll see

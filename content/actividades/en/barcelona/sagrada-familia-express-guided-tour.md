@@ -1,101 +1,123 @@
 ---
-titulo: "Sagrada Familia Express Tour in Your Language"
-slug: "sagrada-familia-express-guided-tour"
-ciudad: "barcelona"
-descripcion: "A 1h 15min guided tour of the Sagrada Familia in the language you choose, with skip-the-line entry. Accessible, with free time inside afterwards."
-
+titulo: Sagrada Familia Express Tour in Your Language
+slug: sagrada-familia-express-guided-tour
+ciudad: barcelona
+descripcion: A 1h 15min guided tour of the Sagrada Familia in the language you choose, with skip-the-line entry. Accessible,
+  with free time inside afterwards.
 slugs:
-  en: "sagrada-familia-express-guided-tour"
-  es: "sagrada-familia-tour-express"
-
-duracion: "1h 15min"
+  en: sagrada-familia-express-guided-tour
+  es: sagrada-familia-tour-express
+duracion: 1h 15min
 duracionMinutos: 75
 precioDesde: 56
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Barcelona/Sagrada-Familia-Guided-express-english-tour/d562-190179P1?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Barcelona/Sagrada-Familia-Guided-express-english-tour/d562-190179P1?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Run in the language you choose: no bilingual groups, no waiting while it's translated"
-  - "A brisk 1h 15min visit, ideal if you're short on time"
-  - "Skip-the-line entry and an accredited official guide"
-  - "Wheelchair and stroller accessible"
-  - "Recommended by 91% of travellers: 4.7 out of 5"
-
+- 'Run in the language you choose: no bilingual groups, no waiting while it''s translated'
+- A brisk 1h 15min visit, ideal if you're short on time
+- Skip-the-line entry and an accredited official guide
+- Wheelchair and stroller accessible
+- 'Recommended by 91% of travellers: 4.7 out of 5'
 incluye:
-  - "Skip-the-line entry to the Sagrada Familia"
-  - "Accredited official guide"
-  - "Headphones during the route (in groups of more than 10 people)"
-  - "Free time inside the basilica when it ends"
-
+- Skip-the-line entry to the Sagrada Familia
+- Accredited official guide
+- Headphones during the route (in groups of more than 10 people)
+- Free time inside the basilica when it ends
 noIncluye:
-  - "Tower access"
-  - "Hotel pickup and return service"
-  - "Headphones for groups of fewer than 10 people and for children under 11"
-  - "Gratuities"
-
+- Tower access
+- Hotel pickup and return service
+- Headphones for groups of fewer than 10 people and for children under 11
+- Gratuities
 puntoEncuentro:
-  texto: "Av. de Gaudí, 5, 08025 Barcelona"
-  descripcionGuia: "The meeting point is a few steps from the temple, on Avenida de Gaudí, 5. The operator recommends being there 10 minutes before departure; the tour starts on time and there is no refund if you miss it through lateness."
+  texto: Av. de Gaudí, 5, 08025 Barcelona
+  descripcionGuia: The meeting point is a few steps from the temple, on Avenida de Gaudí, 5. The operator recommends being
+    there 10 minutes before departure; the tour starts on time and there is no refund if you miss it through lateness.
   latitud: 41.4056
   longitud: 2.1758
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
-
 informacionImportante:
   queTraer:
-    - "ID document for every participant"
+  - ID document for every participant
   aTenerEnCuenta:
-    - "Headphones are only handed out in groups of more than 10 people; children under 11 do not receive them"
-    - "Normal backpacks and bags are allowed, but no large luggage inside the basilica"
-    - "The security check can take time in high season"
-    - "Group of up to 25 travellers"
-
-accesibilidad: "Wheelchair and stroller accessible. Assistance animals are allowed."
-
-politicaCancelacion: "Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there is no refund."
-
+  - Headphones are only handed out in groups of more than 10 people; children under 11 do not receive them
+  - Normal backpacks and bags are allowed, but no large luggage inside the basilica
+  - The security check can take time in high season
+  - Group of up to 25 travellers
+accesibilidad: Wheelchair and stroller accessible. Assistance animals are allowed.
+politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there
+  is no refund.
 preguntasFrecuentes:
-  - pregunta: "How is it different from the other guided tours?"
-    respuesta: "In two things: it's shorter (1h 15min instead of 1.5 h) and it's run exclusively in the language you choose. There are no bilingual groups and no waiting while the guide translates, which is the most common complaint on other visits. You choose the language at booking and that's the language of the route."
-  - pregunta: "Is it wheelchair accessible?"
-    respuesta: "Yes. The operator states it is adapted for wheelchair users and strollers, and that assistance animals are allowed."
-  - pregunta: "Are headphones included?"
-    respuesta: "Only in groups of more than 10 people. In smaller groups they're not handed out, and children under 11 never receive them. In small groups you hear the guide well anyway because of how close you are."
-  - pregunta: "Does it include going up the towers?"
-    respuesta: "No. Going up the towers is not part of it. To go up, check the with-tower options in the comparison."
-  - pregunta: "Can I stay inside when it ends?"
-    respuesta: "Yes. The guided route ends inside the basilica and you can stay exploring it at your own pace for as long as you like."
+- pregunta: How is it different from the other guided tours?
+  respuesta: 'In two things: it''s shorter (1h 15min instead of 1.5 h) and it''s run exclusively in the language you choose.
+    There are no bilingual groups and no waiting while the guide translates, which is the most common complaint on other visits.
+    You choose the language at booking and that''s the language of the route.'
+- pregunta: Is it wheelchair accessible?
+  respuesta: Yes. The operator states it is adapted for wheelchair users and strollers, and that assistance animals are allowed.
+- pregunta: Are headphones included?
+  respuesta: Only in groups of more than 10 people. In smaller groups they're not handed out, and children under 11 never
+    receive them. In small groups you hear the guide well anyway because of how close you are.
+- pregunta: Does it include going up the towers?
+  respuesta: No. Going up the towers is not part of it. To go up, check the with-tower options in the comparison.
+- pregunta: Can I stay inside when it ends?
+  respuesta: Yes. The guided route ends inside the basilica and you can stay exploring it at your own pace for as long as
+    you like.
+variantes:
+- sagrada-familia-guided-tour-with-entry
+- sagrada-familia-skip-the-line-guided-tour
+- sagrada-familia-small-group-tour
+- sagrada-familia-ticket-audio-guide
+opinionEditorial: 'This is the guided tour for someone in a hurry who still wants it explained. It lasts 1h 15min — a bit
+  less than the others — and solves the language problem at the root: it''s run exclusively in the language you choose, with
+  no bilingual groups and no waiting while it''s translated. The score backs it up: 4.7 out of 5, recommended by 91% of travellers.
+  And, unlike several guided tours in the comparison, it''s wheelchair and stroller accessible.
 
-variantes: ["sagrada-familia-guided-tour-with-entry", "sagrada-familia-skip-the-line-guided-tour", "sagrada-familia-small-group-tour", "sagrada-familia-ticket-audio-guide"]
 
-opinionEditorial: |
-  This is the guided tour for someone in a hurry who still wants it explained. It lasts 1h 15min — a bit less than the others — and solves the language problem at the root: it's run exclusively in the language you choose, with no bilingual groups and no waiting while it's translated. The score backs it up: 4.7 out of 5, recommended by 91% of travellers. And, unlike several guided tours in the comparison, it's wheelchair and stroller accessible.
+  Two honest caveats. First: headphones are only handed out if the group is over 10 people; in small groups you hear the guide
+  well anyway, but it''s worth knowing. Second: it''s a brisk visit, not an exhaustive one — if you want a long, leisurely
+  explanation, an hour-and-a-half guided tour will give you more. It does not include towers. For a first visit on a tight
+  schedule and with no language headaches, it''s one of the cleanest options on the page.
 
-  Two honest caveats. First: headphones are only handed out if the group is over 10 people; in small groups you hear the guide well anyway, but it's worth knowing. Second: it's a brisk visit, not an exhaustive one — if you want a long, leisurely explanation, an hour-and-a-half guided tour will give you more. It does not include towers. For a first visit on a tight schedule and with no language headaches, it's one of the cleanest options on the page.
-
-categoria: "visitasGuiadas"
-keywords: ["sagrada familia quick tour", "sagrada familia guided tour english", "sagrada familia skip the line", "sagrada familia accessible", "sagrada familia express tour"]
-
-imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp"
-imagenAlt: "Illuminated interior of the Sagrada Familia with golden light filtered through the stained glass"
-
+  '
+categoria: visitasGuiadas
+keywords:
+- sagrada familia quick tour
+- sagrada familia guided tour english
+- sagrada familia skip the line
+- sagrada familia accessible
+- sagrada familia express tour
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp
+imagenAlt: Illuminated interior of the Sagrada Familia with golden light filtered through the stained glass
 ratingProveedor: 4.7
 numeroOpiniones: 3414
-
 publicada: true
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "sagrada-familia"
+- sagrada-familia
+galeria:
+- src: /images/actividades/barcelona/sagrada-familia/pixabay-552084-hero.webp
+  alt: Barcelona street view with historic buildings and narrow alleyway
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622770903-hero-hero.webp
+  alt: Sagrada Familia basilica in Barcelona, Spain with its iconic spires and architectural design
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp
+  alt: Sagrada Familia basilica with soaring spires and intricate architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
+  alt: Sagrada Familia basilica exterior facade with intricate stone carvings and towers in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero-hero.webp
+  alt: Ornate ceiling of Sagrada Familia basilica with intricate architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
+  alt: Vibrant stained glass windows of the Sagrada Familia basilica in Barcelona
 ---
 
 ## What you'll see
