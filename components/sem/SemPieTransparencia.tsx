@@ -38,7 +38,7 @@ export default function SemPieTransparencia({ idioma = 'es' }: Props) {
 }
 
 const TEXTO_ES =
-  'ExploraSpain es una guía editorial de viajes por España. Recomendamos solo las experiencias que consideramos que merecen la pena, no todo lo disponible. Las reservas se gestionan a través de Viator, nuestro partner de pagos. Recibimos una comisión por cada reserva confirmada, sin coste adicional para ti.';
+  'ExploraSpain es una guía editorial de viajes por España. Recomendamos solo las experiencias que consideramos que merecen la pena, no todo lo disponible. Las reservas se gestionan a través de Viator y GetYourGuide, nuestros partners de pagos. Recibimos una comisión por cada reserva confirmada, sin coste adicional para ti.';
 
 const TEXTO_EN =
-  'ExploraSpain is an editorial travel guide to Spain. We only recommend experiences we consider worth your time, not everything that exists. Bookings are processed by our trusted partners. We earn a commission on each confirmed booking at no additional cost to you.';
+  'ExploraSpain is an editorial travel guide to Spain. We only recommend experiences we consider worth your time, not everything that exists. Bookings are processed by Viator and GetYourGuide, our trusted partners. We earn a commission on each confirmed booking at no additional cost to you.';
