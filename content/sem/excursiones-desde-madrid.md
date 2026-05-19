@@ -121,8 +121,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "378999"
     url_reserva: "https://www.getyourguide.com/madrid-l46/madrid-tour-de-un-dia-a-cuenca-y-la-ciudad-encantada-t378999/"
-    imagen: "/images/actividades/madrid/toledo/molinos-consuegra.webp"
-    imagen_alt: "Molinos de viento en un paisaje de Castilla-La Mancha, la región de Cuenca"
+    imagen: "/images/actividades/cuenca/casas-colgadas/pexels-32084879-hero.webp"
+    imagen_alt: "Casas Colgadas de Cuenca sobre la hoz del Huécar con vegetación al fondo"
     categoria: "dia-completo"
 
   - id: "avila-segovia-escapada-gyg"
