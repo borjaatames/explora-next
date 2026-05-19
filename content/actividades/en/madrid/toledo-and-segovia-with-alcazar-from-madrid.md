@@ -1,137 +1,153 @@
 ---
-titulo: "Toledo and Segovia from Madrid with Alcázar and Cathedral Access"
-slug: "toledo-and-segovia-with-alcazar-from-madrid"
-ciudad: "madrid"
-descripcion: "Combined day trip from Madrid to Toledo and Segovia. Includes Alcázar of Segovia and optional Toledo Cathedral entry. Coach, official guide and tickets."
-
+titulo: Toledo and Segovia from Madrid with Alcázar and Cathedral Access
+slug: toledo-and-segovia-with-alcazar-from-madrid
+ciudad: madrid
+descripcion: Combined day trip from Madrid to Toledo and Segovia. Includes Alcázar of Segovia and optional Toledo Cathedral
+  entry. Coach, official guide and tickets.
 slugs:
-  en: "toledo-and-segovia-with-alcazar-from-madrid"
-  es: "excursion-toledo-segovia-alcazar"
-
-duracion: "12 hours"
+  en: toledo-and-segovia-with-alcazar-from-madrid
+  es: excursion-toledo-segovia-alcazar
+duracion: 12 hours
 duracionMinutos: 720
 precioDesde: 48
-moneda: "EUR"
-idiomas: ["en", "es"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Segovia-and-Toledo-from-Madrid-with-Cathedral-and-Alcazar-Access/d566-56823P10?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- en
+- es
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Madrid/Segovia-and-Toledo-from-Madrid-with-Cathedral-and-Alcazar-Access/d566-56823P10?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Two UNESCO World Heritage cities in a single day"
-  - "Entry to the Alcázar of Segovia included"
-  - "Optional add-on for entry to Toledo's Primate Cathedral"
-  - "Official bilingual guide + round-trip coach"
-
+- Two UNESCO World Heritage cities in a single day
+- Entry to the Alcázar of Segovia included
+- Optional add-on for entry to Toledo's Primate Cathedral
+- Official bilingual guide + round-trip coach
 incluye:
-  - "Round-trip coach transport from Madrid"
-  - "Official bilingual English-Spanish guide"
-  - "Entry to the Alcázar of Segovia"
-  - "Walking tour through Segovia's old town (Aqueduct, Jewish quarter, Plaza Mayor)"
-  - "Walking tour through Toledo's old town"
-  - "Panoramic view of Segovia's Aqueduct"
-
+- Round-trip coach transport from Madrid
+- Official bilingual English-Spanish guide
+- Entry to the Alcázar of Segovia
+- Walking tour through Segovia's old town (Aqueduct, Jewish quarter, Plaza Mayor)
+- Walking tour through Toledo's old town
+- Panoramic view of Segovia's Aqueduct
 noIncluye:
-  - "Food and drinks"
-  - "Entry to Toledo's Primate Cathedral (optional, +€12-15)"
-  - "Gratuities"
-
+- Food and drinks
+- Entry to Toledo's Primate Cathedral (optional, +€12-15)
+- Gratuities
 puntoEncuentro:
-  texto: "C. de Julio Camba, 13, Salamanca, 28028 Madrid (Plaza de las Ventas)"
-  descripcionGuia: "Meeting point at C. de Julio Camba 13, next to Plaza de las Ventas. Metro Las Ventas (lines 2 / 5), direct exit to Calle Julio Camba. You must be there 15 minutes before departure (around 08:30). The coach leaves on time."
+  texto: C. de Julio Camba, 13, Salamanca, 28028 Madrid (Plaza de las Ventas)
+  descripcionGuia: Meeting point at C. de Julio Camba 13, next to Plaza de las Ventas. Metro Las Ventas (lines 2 / 5), direct
+    exit to Calle Julio Camba. You must be there 15 minutes before departure (around 08:30). The coach leaves on time.
   latitud: 40.4316
   longitud: -3.6629
   zoom: 16
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document or passport"
-    - "VERY comfortable shoes: two old towns in one day means many kilometres on foot"
-    - "Water and a snack for mid-morning"
-    - "A light jacket (Segovia is at higher altitude and tends to be cool)"
+  - ID document or passport
+  - 'VERY comfortable shoes: two old towns in one day means many kilometres on foot'
+  - Water and a snack for mid-morning
+  - A light jacket (Segovia is at higher altitude and tends to be cool)
   noAptoPara:
-    - "People with reduced mobility (long walking route through two old towns with hills)"
-    - "Anyone seeking depth: seeing Toledo + Segovia in one day means an overview, not detail"
-    - "Young children who tire quickly (12-hour day)"
+  - People with reduced mobility (long walking route through two old towns with hills)
+  - 'Anyone seeking depth: seeing Toledo + Segovia in one day means an overview, not detail'
+  - Young children who tire quickly (12-hour day)
   aTenerEnCuenta:
-    - "It's a LONG day: departure 08:30, return 20:30. Expect real fatigue at the end"
-    - "Order Toledo → Segovia or Segovia → Toledo may vary by day"
-    - "The tour is bilingual: the guide alternates English and Spanish for the same group"
-    - "If you only care about one city, see [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) or a Segovia-specific tour"
-    - "Toledo Cathedral is NOT included in the base price. Optional upgrade only"
-
-accesibilidad: "Tour not suitable for wheelchairs. Both cities have steep slopes, cobbled streets, steps, and total walking exceeds 8 km."
-
-politicaCancelacion: "Free cancellation up to 24 hours before the experience for a full refund."
-
+  - 'It''s a LONG day: departure 08:30, return 20:30. Expect real fatigue at the end'
+  - Order Toledo → Segovia or Segovia → Toledo may vary by day
+  - 'The tour is bilingual: the guide alternates English and Spanish for the same group'
+  - If you only care about one city, see [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) or a
+    Segovia-specific tour
+  - Toledo Cathedral is NOT included in the base price. Optional upgrade only
+accesibilidad: Tour not suitable for wheelchairs. Both cities have steep slopes, cobbled streets, steps, and total walking
+  exceeds 8 km.
+politicaCancelacion: Free cancellation up to 24 hours before the experience for a full refund.
 preguntasFrecuentes:
-  - pregunta: "How much time do I get in each city?"
-    respuesta: "About 3-3.5 hours each, excluding meals and travel. Enough for the essentials (Aqueduct and Alcázar in Segovia, Jewish quarter and old town in Toledo) but short for going deep."
-  - pregunta: "Is Toledo Cathedral entry included?"
-    respuesta: "Not in the base €48 price. It's an optional upgrade at booking. If the Cathedral is your priority and you don't care about Segovia, the [Toledo full-day tour](/en/cities/madrid/activities/toledo-full-day-from-madrid) at €79 with Cathedral included is better value."
-  - pregunta: "In what order are the cities visited?"
-    respuesta: "Variable. The operator usually starts with Segovia (further away, 1h15min from Madrid) and returns via Toledo, but it can change based on traffic or monument schedules."
-  - pregunta: "Is lunch included?"
-    respuesta: "No. There's a stop for lunch (in either Segovia or Toledo, depending on the day) on your own. Budget €15-25 per person for a restaurant meal."
-  - pregunta: "Is it realistic to visit both cities in one day?"
-    respuesta: "Realistic but superficial. You'll see the headlines (Aqueduct, Alcázar of Segovia, Toledo's old town, Jewish quarter) but no time to dig into museums or eat at leisure. With 2 days, doing each city separately works better."
-
+- pregunta: How much time do I get in each city?
+  respuesta: About 3-3.5 hours each, excluding meals and travel. Enough for the essentials (Aqueduct and Alcázar in Segovia,
+    Jewish quarter and old town in Toledo) but short for going deep.
+- pregunta: Is Toledo Cathedral entry included?
+  respuesta: Not in the base €48 price. It's an optional upgrade at booking. If the Cathedral is your priority and you don't
+    care about Segovia, the [Toledo full-day tour](/en/cities/madrid/activities/toledo-full-day-from-madrid) at €79 with Cathedral
+    included is better value.
+- pregunta: In what order are the cities visited?
+  respuesta: Variable. The operator usually starts with Segovia (further away, 1h15min from Madrid) and returns via Toledo,
+    but it can change based on traffic or monument schedules.
+- pregunta: Is lunch included?
+  respuesta: No. There's a stop for lunch (in either Segovia or Toledo, depending on the day) on your own. Budget €15-25 per
+    person for a restaurant meal.
+- pregunta: Is it realistic to visit both cities in one day?
+  respuesta: Realistic but superficial. You'll see the headlines (Aqueduct, Alcázar of Segovia, Toledo's old town, Jewish
+    quarter) but no time to dig into museums or eat at leisure. With 2 days, doing each city separately works better.
 variantes:
-  - "toledo-segovia-avila-from-madrid"
-  - "toledo-full-day-from-madrid"
-  - "toledo-half-day-trip-from-madrid"
+- toledo-segovia-avila-from-madrid
+- toledo-full-day-from-madrid
+- toledo-half-day-trip-from-madrid
+opinionEditorial: 'This is the most efficient way to visit two UNESCO heritage cities in a single day from Madrid without
+  renting a car. The plan works: 12-hour day, both old towns covered, Alcázar of Segovia included, with the option to add
+  Toledo Cathedral. €48 covers a lot of ground — one of the best price/content ratios in the catalog.
 
-opinionEditorial: |
-  This is the most efficient way to visit two UNESCO heritage cities in a single day from Madrid without renting a car. The plan works: 12-hour day, both old towns covered, Alcázar of Segovia included, with the option to add Toledo Cathedral. €48 covers a lot of ground — one of the best price/content ratios in the catalog.
 
-  But to be honest: **it's a long, superficial day**. 3 hours per city is enough for the headlines (Aqueduct, Alcázar, Toledo's Jewish quarter, main streets) but not enough to dig deep into museums, synagogues or local food. If you're in Madrid for just a few days and have only one day for a side trip, this format is **the most efficient**. If you have 2-3 days, do each city separately: Toledo deserves time, and Segovia has its own pace.
+  But to be honest: **it''s a long, superficial day**. 3 hours per city is enough for the headlines (Aqueduct, Alcázar, Toledo''s
+  Jewish quarter, main streets) but not enough to dig deep into museums, synagogues or local food. If you''re in Madrid for
+  just a few days and have only one day for a side trip, this format is **the most efficient**. If you have 2-3 days, do each
+  city separately: Toledo deserves time, and Segovia has its own pace.
 
-  Important detail: **Toledo Cathedral entry is not included** in the base price. If your priority is the Cathedral and not Segovia, look at [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79 with Cathedral) instead. The upgrade here brings the price to roughly €60-65.
 
-categoria: "excursionesDia"
-keywords: ["toledo and segovia day trip", "two unesco cities madrid", "alcazar segovia from madrid", "toledo segovia combined tour", "madrid day trip toledo segovia"]
+  Important detail: **Toledo Cathedral entry is not included** in the base price. If your priority is the Cathedral and not
+  Segovia, look at [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79 with Cathedral) instead.
+  The upgrade here brings the price to roughly €60-65.
 
-imagen: "/images/actividades/madrid/segovia/alcazar-lateral.webp"
-imagenAlt: "AlcÃ¡zar of Segovia with its slate-roofed turrets"
-
+  '
+categoria: excursionesDia
+keywords:
+- toledo and segovia day trip
+- two unesco cities madrid
+- alcazar segovia from madrid
+- toledo segovia combined tour
+- madrid day trip toledo segovia
+imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero.webp
+imagenAlt: Alcázar castle fortress with towers and stone walls in Segovia
 galeria:
-  - src: "/images/actividades/madrid/segovia/acueducto-hero.webp"
-    alt: "Panoramic view of Segovia's Roman Aqueduct with the Guadarrama mountains in the background"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Panoramic view of Toledo's old town at sunset over the Tagus river"
-  - src: "/images/actividades/madrid/segovia/acueducto-arcos.webp"
-    alt: "Detail of the arches of Segovia's Roman Aqueduct"
-  - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "San MartÃ­n bridge in Toledo with the old town in the background"
-  - src: "/images/actividades/madrid/segovia/alcazar-sala-reyes.webp"
-    alt: "Interior room of the AlcÃ¡zar of Segovia with royal portrait and Gothic seating"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Mudejar arch in a street of Toledo's Jewish quarter"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Mudejar facade detail in Toledo's old town"
-  - src: "/images/actividades/madrid/segovia/alcazar-proa.webp"
-    alt: "AlcÃ¡zar of Segovia, main faÃ§ade with the Torre del Homenaje"
-  - src: "/images/actividades/madrid/segovia/alcazar-conjunto.webp"
-    alt: "AlcÃ¡zar of Segovia complex with its towers and slate spires"
-  - src: "/images/actividades/madrid/segovia/alcazar-sala-galera.webp"
-    alt: "Golden mudÃ©jar coffered ceiling of the Sala de la Galera at the AlcÃ¡zar of Segovia"
+- src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero-hero.webp
+  alt: Alcázar fortress towering over Toledo's skyline, historic Spanish architecture landmark
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp
+  alt: Segovia Aqueduct's iconic double-tiered Roman arches spanning across the landscape
+- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp
+  alt: Toledo Cathedral facade with Gothic architecture and intricate stonework details
+- src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
+  alt: Alcázar fortress castle with stone towers against blue sky in Segovia
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
+  alt: Alcázar castle fortress with towers against blue sky in Segovia, Spain
+- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp
+  alt: Toledo Cathedral, stunning Gothic architecture with ornate stonework and towers
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
+  alt: Alcázar of Segovia fortress with towers and crenellated walls overlooking the city
+- src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-striking-view-gothic-architecture-hero.webp
+  alt: Historic Toledo streets with striking Gothic architecture and medieval buildings
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
+  alt: Alcázar of Segovia, medieval fortress with white stone towers and crenellations overlooking the city
+- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-xx4HqF5gWhE-hero.webp
+  alt: Medieval cathedral and historic buildings in Toledo cityscape
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
+  alt: Toledo Cathedral with Gothic architecture and ornate stone facade
+- src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
+  alt: Ancient Roman aqueduct of Segovia spanning stone arches in Plaza de la Artillería
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
+  alt: Majestic Alcázar castle of Segovia with towers and fortified walls on hilltop
 ratingProveedor: 4.5
 numeroOpiniones: 856
-
 publicada: true
 destacada: false
-fecha: "2026-05-06"
+fecha: '2026-05-06'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
 ---
 
 ## What you'll see
