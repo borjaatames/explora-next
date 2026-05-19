@@ -106,28 +106,38 @@ keywords:
 imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
 imagenAlt: Ornate Renaissance facade of El Escorial monastery with stone details and arched windows in San Lorenzo, Madrid
 galeria:
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-intricate-ceiling-art-library-2-hero-hero.webp
-  alt: Intricate baroque ceiling frescoes in El Escorial monastery library with ornate architectural details
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp
   alt: Valley of the Fallen, Santa Cruz de la Orden Abbey, Madrid Community
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
   alt: Facade of the Monastery of El Escorial seen from the gardens under a clear sky
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-san-lorenzo-spain-hero-hero.webp
-  alt: Statue of San Lorenzo at Royal Monastery of El Escorial, Madrid
 - src: /images/actividades/madrid/valle-caidos/wikimedia-36777472-hero.webp
   alt: Madrid landmark with historic architecture and urban landscape view
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp
   alt: The Monastery of El Escorial, palace and royal pantheon of the Habsburgs
-- src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp
-  alt: The library of the Monastery of El Escorial with its frescoed vault
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-san-lorenzo-spain-hero-hero.webp
+  alt: Statue of San Lorenzo at Royal Monastery of El Escorial, Madrid
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp
   alt: Cloister of the Monastery of El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp
+  alt: The library of the Monastery of El Escorial with its frescoed vault
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-pontifical-basilica-holy-cross-hero.webp
   alt: The basilica of the Valley of the Fallen in the Sierra de Guadarrama
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
+  alt: Bronze ornamental door knocker on El Escorial monastery's main entrance portal, Madrid
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-santa-cruz-main-entrance-hero.webp
   alt: Main entrance of the basilica of the Valley of the Fallen
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero-hero.webp
+  alt: Aerial view of El Escorial monastery complex in Madrid with surrounding mountains and forests
 - src: /images/actividades/madrid/valle-caidos/wikimedia-3331940-hero.webp
   alt: Madrid cityscape with historic architecture and urban landmarks
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-solomon-spain-hero-hero.webp
+  alt: Statue of King Solomon at El Escorial Monastery in Madrid, Spain
+- src: /images/actividades/madrid/valle-de-los-caidos/valle-de-los-caidos-valley-fallen-7-29329788076-hero-hero.webp
+  alt: Aerial view of Valley of the Fallen monument in Madrid with surrounding forest landscape
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-low-angle-view-historic-facade-hero-hero.webp
+  alt: Historic El Escorial monastery facade shot from below, Madrid architectural landmark
+- src: /images/actividades/madrid/valle-de-los-caidos/wikimedia-69790647-hero.webp
+  alt: Madrid street scene with historic architecture and urban landscape
 ratingProveedor: 4.8
 numeroOpiniones: 2706
 publicada: true

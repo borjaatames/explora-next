@@ -110,13 +110,17 @@ galeria:
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4642730-hero.webp
   alt: Historic cityscape of Cuenca with colorful colonial buildings nestled in mountain valley
 - src: /images/actividades/cuenca/catedral-cuenca/pexels-27208543-hero.webp
-  alt: Historic colonial architecture in Cuenca's historic center with colorful buildings and cobblestone streets.
+  alt: Historic colonial architecture and blue-domed cathedral in Cuenca's mountain valley
 - src: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
   alt: Historic colonial architecture with blue-domed cathedral in Cuenca's main plaza
 - src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp
   alt: Historic colonial architecture and blue-domed cathedral in Cuenca, Ecuador
 - src: /images/actividades/cuenca/ciudad-encantada/pexels-2992883-hero.webp
   alt: Historic Cuenca colonial architecture with terracotta roofs and white buildings on hillside
+- src: /images/actividades/cuenca/hoz-huecar/pexels-1627961-hero.webp
+  alt: Historic colonial architecture and blue buildings in Cuenca's old town streets
+- src: /images/actividades/cuenca/catedral-cuenca/unsplash-oN4h_07E0KQ-hero.webp
+  alt: Historic architecture of Cuenca with colonial buildings and cobblestone streets
 ratingProveedor: 4.8
 numeroOpiniones: 561
 publicada: true

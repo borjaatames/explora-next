@@ -118,6 +118,10 @@ galeria:
   alt: Paisaje urbano de Cuenca con arquitectura colonial y rio entre montañas
 - src: /images/actividades/cuenca/ciudad-encantada/pexels-2992883-hero.webp
   alt: Catedral de Cuenca con arquitectura colonial española reflejada en río
+- src: /images/actividades/cuenca/hoz-huecar/pexels-1627961-hero.webp
+  alt: Vista panorámica de Cuenca con arquitectura colonial y río serpenteante entre montañas verdes
+- src: /images/actividades/cuenca/catedral-cuenca/unsplash-oN4h_07E0KQ-hero.webp
+  alt: Vista panorámica de Cuenca con arquitectura colonial y río entre montañas
 ratingProveedor: 4.8
 numeroOpiniones: 561
 publicada: true

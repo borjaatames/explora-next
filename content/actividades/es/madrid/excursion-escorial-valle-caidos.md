@@ -106,28 +106,38 @@ keywords:
 imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
 imagenAlt: Fachada principal del Monasterio de El Escorial en Madrid, arquitectura renacentista con torres y claustros
 galeria:
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-intricate-ceiling-art-library-2-hero-hero.webp
-  alt: Techo ornamentado con frescos artísticos en la biblioteca del Monasterio del Escorial, Madrid
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp
   alt: Abadía de Santa Cruz del Valle de los Caídos en la Comunidad de Madrid
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
   alt: Fachada del Monasterio de El Escorial vista desde los jardines bajo cielo despejado
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-san-lorenzo-spain-hero-hero.webp
-  alt: Estatua de San Lorenzo en el Monasterio de El Escorial, Madrid
 - src: /images/actividades/madrid/valle-caidos/wikimedia-36777472-hero.webp
   alt: Plaza Mayor de Madrid con arquitectura histórica y personas paseando
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp
   alt: El Monasterio de El Escorial, palacio y panteón real de los Austrias
-- src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp
-  alt: La biblioteca del Monasterio de El Escorial con sus frescos en la bóveda
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-san-lorenzo-spain-hero-hero.webp
+  alt: Estatua de San Lorenzo en el Monasterio de El Escorial, Madrid
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp
   alt: Claustro del Monasterio de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp
+  alt: La biblioteca del Monasterio de El Escorial con sus frescos en la bóveda
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-pontifical-basilica-holy-cross-hero.webp
   alt: La basílica del Valle de los Caídos en la sierra de Guadarrama
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
+  alt: Aldaba ornamental de bronce en la puerta principal del Monasterio de El Escorial, Madrid
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-santa-cruz-main-entrance-hero.webp
   alt: Entrada principal de la basílica del Valle de los Caídos
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero-hero.webp
+  alt: Vista aérea del Monasterio de El Escorial en Madrid, majestuosa arquitectura renacentista
 - src: /images/actividades/madrid/valle-caidos/wikimedia-3331940-hero.webp
   alt: Panorámica de Madrid con la Catedral de la Almudena y edificios históricos al atardecer
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-solomon-spain-hero-hero.webp
+  alt: Estatua del Rey Salomón frente al Monasterio de El Escorial en Madrid
+- src: /images/actividades/madrid/valle-de-los-caidos/valle-de-los-caidos-valley-fallen-7-29329788076-hero-hero.webp
+  alt: Paisaje del Valle de los Caídos en Madrid con vista panorámica de la cruz y monumentos históricos
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-low-angle-view-historic-facade-hero-hero.webp
+  alt: Fachada histórica del Monasterio del Escorial vista desde abajo, arquitectura renacentista en Madrid
+- src: /images/actividades/madrid/valle-de-los-caidos/wikimedia-69790647-hero.webp
+  alt: Calle madrileña con arquitectura histórica y fachadas tradicionales
 ratingProveedor: 4.8
 numeroOpiniones: 2706
 publicada: true
