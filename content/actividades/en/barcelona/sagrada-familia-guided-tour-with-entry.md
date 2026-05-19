@@ -1,102 +1,130 @@
 ---
-titulo: "Sagrada Familia Guided Tour with Skip-the-Line Entry"
-slug: "sagrada-familia-guided-tour-with-entry"
-ciudad: "barcelona"
-descripcion: "A 1.5-hour guided tour of the Sagrada Familia with skip-the-line entry, radio guide and museum access. The guided option with the most reviews."
-
+titulo: Sagrada Familia Guided Tour with Skip-the-Line Entry
+slug: sagrada-familia-guided-tour-with-entry
+ciudad: barcelona
+descripcion: A 1.5-hour guided tour of the Sagrada Familia with skip-the-line entry, radio guide and museum access. The guided
+  option with the most reviews.
 slugs:
-  en: "sagrada-familia-guided-tour-with-entry"
-  es: "sagrada-familia-tour-guiado-viator"
-
-duracion: "1h 30min"
+  en: sagrada-familia-guided-tour-with-entry
+  es: sagrada-familia-tour-guiado-viator
+duracion: 1h 30min
 duracionMinutos: 90
 precioDesde: 55
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Barcelona/Skip-the-Line-Barcelona-Sagrada-Familia-Tour/d562-2140SAGRADA?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Barcelona/Skip-the-Line-Barcelona-Sagrada-Familia-Tour/d562-2140SAGRADA?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "The guided tour with the most reviews in the comparison: over 9,200 ratings"
-  - "Skip-the-line entry and a local guide through the interior and exterior of the basilica"
-  - "Radio guide included so you can hear the guide throughout the route"
-  - "Museum access, with Gaudí's original plaster models and design sketches"
-  - "Free time inside the basilica once the guided part ends"
-
+- 'The guided tour with the most reviews in the comparison: over 9,200 ratings'
+- Skip-the-line entry and a local guide through the interior and exterior of the basilica
+- Radio guide included so you can hear the guide throughout the route
+- Museum access, with Gaudí's original plaster models and design sketches
+- Free time inside the basilica once the guided part ends
 incluye:
-  - "Skip-the-line entry to the Basilica of the Sagrada Familia"
-  - "Local guide through the interior and exterior of the basilica"
-  - "Radio guide system"
-
+- Skip-the-line entry to the Basilica of the Sagrada Familia
+- Local guide through the interior and exterior of the basilica
+- Radio guide system
 noIncluye:
-  - "Tower access"
-  - "Hotel pickup and return service"
-  - "Food and drink"
-
+- Tower access
+- Hotel pickup and return service
+- Food and drink
 puntoEncuentro:
-  texto: "Carrer de Sardenya, 311, 08025 Barcelona — Julia Travel office"
-  descripcionGuia: "The meeting point is the Julia Travel office at Carrer de Sardenya, 311, next to the basilica. Checking in at the desk is mandatory. Arrive 15 minutes before departure: if you don't show up at the set check-in time, you may lose the tour."
+  texto: Carrer de Sardenya, 311, 08025 Barcelona — Julia Travel office
+  descripcionGuia: 'The meeting point is the Julia Travel office at Carrer de Sardenya, 311, next to the basilica. Checking
+    in at the desk is mandatory. Arrive 15 minutes before departure: if you don''t show up at the set check-in time, you may
+    lose the tour.'
   latitud: 41.4044
   longitud: 2.1736
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
-
 informacionImportante:
   queTraer:
-    - "ID document for every participant, including children (they may ask for it to verify age)"
+  - ID document for every participant, including children (they may ask for it to verify age)
   noAptoPara:
-    - "Wheelchair users: the operator states it is not adapted"
+  - 'Wheelchair users: the operator states it is not adapted'
   aTenerEnCuenta:
-    - "Depending on the date and time, the group may be single-language or bilingual; check your departure's language at booking"
-    - "The security check can take 20 to 30 minutes"
-    - "Church dress code: no straps, crop tops, short trousers or sandals"
-    - "The Sagrada Familia asks visitors not to carry or display religious symbols on entry"
-    - "Group of up to 30 travellers"
-
-accesibilidad: "The operator states this visit is NOT adapted for wheelchair users. If you need accessibility, check the express tour or the private Gaudí tour in the comparison, which do declare it."
-
-politicaCancelacion: "Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there is no refund."
-
+  - Depending on the date and time, the group may be single-language or bilingual; check your departure's language at booking
+  - The security check can take 20 to 30 minutes
+  - 'Church dress code: no straps, crop tops, short trousers or sandals'
+  - The Sagrada Familia asks visitors not to carry or display religious symbols on entry
+  - Group of up to 30 travellers
+accesibilidad: The operator states this visit is NOT adapted for wheelchair users. If you need accessibility, check the express
+  tour or the private Gaudí tour in the comparison, which do declare it.
+politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there
+  is no refund.
 preguntasFrecuentes:
-  - pregunta: "Why include this option if its score is 4.4?"
-    respuesta: "For volume and price: it's the guided tour with the most reviews in the comparison — over 9,200 — and one of the most affordable (from €55). It's a tried and tested, reliable option; its average score (4.4) is slightly lower than other guided tours, mainly because of the group-language issue."
-  - pregunta: "Will the group be in English only?"
-    respuesta: "It depends on the date and time: there are single-language departures and bilingual ones where the guide alternates languages with the same group. It's the most common complaint in the reviews. Check your specific departure's language at booking."
-  - pregunta: "Does it include going up the towers?"
-    respuesta: "No. Going up the towers is not part of this visit. To go up, check the with-tower options in the comparison."
-  - pregunta: "Is it wheelchair accessible?"
-    respuesta: "No. The operator states the visit is not adapted. If you need accessibility, the express tour and the private Gaudí tour in the comparison do declare it."
-  - pregunta: "Can I stay inside when it ends?"
-    respuesta: "Yes. The guide says goodbye at the museum, but you can keep exploring the basilica and the museum at your own pace for as long as you like."
+- pregunta: Why include this option if its score is 4.4?
+  respuesta: 'For volume and price: it''s the guided tour with the most reviews in the comparison — over 9,200 — and one of
+    the most affordable (from €55). It''s a tried and tested, reliable option; its average score (4.4) is slightly lower than
+    other guided tours, mainly because of the group-language issue.'
+- pregunta: Will the group be in English only?
+  respuesta: 'It depends on the date and time: there are single-language departures and bilingual ones where the guide alternates
+    languages with the same group. It''s the most common complaint in the reviews. Check your specific departure''s language
+    at booking.'
+- pregunta: Does it include going up the towers?
+  respuesta: No. Going up the towers is not part of this visit. To go up, check the with-tower options in the comparison.
+- pregunta: Is it wheelchair accessible?
+  respuesta: No. The operator states the visit is not adapted. If you need accessibility, the express tour and the private
+    Gaudí tour in the comparison do declare it.
+- pregunta: Can I stay inside when it ends?
+  respuesta: Yes. The guide says goodbye at the museum, but you can keep exploring the basilica and the museum at your own
+    pace for as long as you like.
+variantes:
+- sagrada-familia-express-guided-tour
+- sagrada-familia-skip-the-line-guided-tour
+- sagrada-familia-guided-tour
+- sagrada-familia-ticket-audio-guide
+opinionEditorial: 'This is the guided tour with the most miles on it in the comparison: over 9,200 reviews and a tight starting
+  price (from €55). The route is the standard one — interior, exterior and museum — with skip-the-line entry and a radio guide,
+  and when it ends you can stay inside on your own. As volume and price, it delivers.
 
-variantes: ["sagrada-familia-express-guided-tour", "sagrada-familia-skip-the-line-guided-tour", "sagrada-familia-guided-tour", "sagrada-familia-ticket-audio-guide"]
 
-opinionEditorial: |
-  This is the guided tour with the most miles on it in the comparison: over 9,200 reviews and a tight starting price (from €55). The route is the standard one — interior, exterior and museum — with skip-the-line entry and a radio guide, and when it ends you can stay inside on your own. As volume and price, it delivers.
+  The honest part is its weak point: the average score (4.4) sits below other guided tours, and the cause that recurs in the
+  reviews is language. Depending on the date and time, the group can be bilingual, with the guide alternating two languages
+  for the same group — and that''s where you lose the thread. Check your specific departure''s language before paying. If
+  you want a short, single-language, better-rated guided tour, the express tour delivers more; if you want the best combination
+  of score and price on GetYourGuide, see the skip-the-line guided tour.
 
-  The honest part is its weak point: the average score (4.4) sits below other guided tours, and the cause that recurs in the reviews is language. Depending on the date and time, the group can be bilingual, with the guide alternating two languages for the same group — and that's where you lose the thread. Check your specific departure's language before paying. If you want a short, single-language, better-rated guided tour, the express tour delivers more; if you want the best combination of score and price on GetYourGuide, see the skip-the-line guided tour.
-
-categoria: "visitasGuiadas"
-keywords: ["sagrada familia guided tour", "sagrada familia skip the line tour", "sagrada familia guided tickets", "sagrada familia barcelona tour", "sagrada familia radio guide"]
-
-imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp"
-imagenAlt: "Tree-like columns and stained glass in the central nave of the Sagrada Familia"
-
+  '
+categoria: visitasGuiadas
+keywords:
+- sagrada familia guided tour
+- sagrada familia skip the line tour
+- sagrada familia guided tickets
+- sagrada familia barcelona tour
+- sagrada familia radio guide
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp
+imagenAlt: Tree-like columns and stained glass in the central nave of the Sagrada Familia
 ratingProveedor: 4.4
 numeroOpiniones: 9278
-
 publicada: true
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "sagrada-familia"
+- sagrada-familia
+galeria:
+- src: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
+  alt: Barcelona cityscape with architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
+  alt: Barcelona cityscape with modern buildings and Mediterranean architecture
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp
+  alt: Sagrada Familia basilica facade with intricate Gothic-Catalan architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-architecture-monument-hero-hero.webp
+  alt: Sagrada Familia basilica with intricate Gothic-modernist architecture and spires in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
+  alt: Sagrada Familia basilica with intricate architectural details and spires in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
+  alt: Intricate Gothic ceiling details of Barcelona's Sagrada Familia basilica with ornate architectural elements
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero-hero.webp
+  alt: Sagrada Familia ornate ceiling with intricate architectural details and stunning blue lighting
 ---
 
 ## What you'll see
