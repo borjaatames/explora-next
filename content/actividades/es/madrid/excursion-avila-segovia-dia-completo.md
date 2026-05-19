@@ -113,12 +113,20 @@ galeria:
   alt: El acueducto romano de Segovia con su doble hilera de arcos de granito
 - src: /images/actividades/avila/avila/avila_04_panoramica-PREVIEW-hero.webp
   alt: Vista panorámica de Ávila con sus murallas medievales y arquitectura histórica
+- src: /images/actividades/avila/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero-hero.webp
+  alt: Escultura en la plaza frente a la Catedral de Ávila
 - src: /images/actividades/madrid/segovia/segovia-cathedral-alcazar-old-town-history-hero.webp
   alt: La Catedral de Segovia y el casco histórico de la ciudad
 - src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
   alt: Catedral de Ávila vista desde el adarve de la muralla medieval
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
   alt: Alcázar de Segovia con sus torres almohadas y muros de piedra bajo cielo azul
+- src: /images/actividades/avila/catedral-avila/wikimedia-117794906-hero.webp
+  alt: Muralla medieval de Ávila con torres defensivas de piedra
+- src: /images/actividades/avila/basilica-san-vicente/pexels-27854529-hero.webp
+  alt: Paisaje de Ávila con murallas históricas y arquitectura medieval bajo cielo azul
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
+  alt: Alcázar de Segovia, fortaleza medieval con torres y murallas en Castilla, España
 ratingProveedor: 4.9
 numeroOpiniones: 1163
 publicada: true

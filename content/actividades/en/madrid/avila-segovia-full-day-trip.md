@@ -113,12 +113,20 @@ galeria:
   alt: The Roman aqueduct of Segovia with its double row of granite arches
 - src: /images/actividades/avila/avila/avila_04_panoramica-PREVIEW-hero.webp
   alt: Panoramic view of Ávila's medieval walls and cityscape
+- src: /images/actividades/avila/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero-hero.webp
+  alt: Cathedral of Ávila with stone sculptures in the church square
 - src: /images/actividades/madrid/segovia/segovia-cathedral-alcazar-old-town-history-hero.webp
   alt: Segovia Cathedral and the city's historic centre
 - src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
   alt: Cathedral of Ávila with defensive walls and crenellated tower in historic city center
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
   alt: Alcázar of Segovia fortress with stone towers and crenellated walls on hilltop
+- src: /images/actividades/avila/catedral-avila/wikimedia-117794906-hero.webp
+  alt: Ávila city walls and medieval architecture at sunset
+- src: /images/actividades/avila/basilica-san-vicente/pexels-27854529-hero.webp
+  alt: Historic stone walls and towers of Ávila, Spain, UNESCO World Heritage site
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
+  alt: Alcázar of Segovia castle with white stone towers and crenellated walls against blue sky
 ratingProveedor: 4.9
 numeroOpiniones: 1163
 publicada: true
