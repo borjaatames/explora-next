@@ -1,116 +1,145 @@
 ---
-titulo: "Alhambra: Guided Tour with Guaranteed Entry"
-slug: "alhambra-guided-tour-guaranteed-tickets"
-ciudad: "granada"
-descripcion: "A 3-hour guided tour of the Alhambra with guaranteed entry to the Nasrid Palaces, an official guide and priority access. Important: non-refundable."
-
+titulo: 'Alhambra: Guided Tour with Guaranteed Entry'
+slug: alhambra-guided-tour-guaranteed-tickets
+ciudad: granada
+descripcion: 'A 3-hour guided tour of the Alhambra with guaranteed entry to the Nasrid Palaces, an official guide and priority
+  access. Important: non-refundable.'
 slugs:
-  en: "alhambra-guided-tour-guaranteed-tickets"
-  es: "alhambra-visita-guiada-ticket-garantizado"
-
-duracion: "3 hours"
+  en: alhambra-guided-tour-guaranteed-tickets
+  es: alhambra-visita-guiada-ticket-garantizado
+duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 56
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Granada/Alhambra-guided-tour/d554-121471P35?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Granada/Alhambra-guided-tour/d554-121471P35?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: false
-
 highlights:
-  - "Guaranteed entry to the Nasrid Palaces, the Alcazaba and the Generalife"
-  - "Live official guide throughout the 3-hour visit"
-  - "Priority access to skip the main ticket-office queue"
-  - "Personal audio device to hear the guide clearly"
-
+- Guaranteed entry to the Nasrid Palaces, the Alcazaba and the Generalife
+- Live official guide throughout the 3-hour visit
+- Priority access to skip the main ticket-office queue
+- Personal audio device to hear the guide clearly
 incluye:
-  - "Official ticket to the full Alhambra monument complex"
-  - "Guaranteed entry to the Nasrid Palaces, the Alcazaba and the Generalife"
-  - "Live official guide throughout the visit"
-  - "Personal audio device to follow the guide's commentary"
-  - "Priority access at the main ticket office"
-
+- Official ticket to the full Alhambra monument complex
+- Guaranteed entry to the Nasrid Palaces, the Alcazaba and the Generalife
+- Live official guide throughout the visit
+- Personal audio device to follow the guide's commentary
+- Priority access at the main ticket office
 noIncluye:
-  - "Transfer to the meeting point or hotel pickup"
-  - "Food, drinks and personal expenses"
-  - "Gratuities"
-
+- Transfer to the meeting point or hotel pickup
+- Food, drinks and personal expenses
+- Gratuities
 puntoEncuentro:
-  texto: "Polinario Café Bar, Avda. del Generalife s/n, 18009 Granada (next to the Alhambra ticket offices)"
-  descripcionGuia: "The meeting point is the Polinario Café Bar, on Avenida del Generalife, next to the Alhambra ticket offices. The operator confirms the exact spot by email a few days before the visit. The route ends near the Palace of Charles V. Arrive 15 minutes early."
+  texto: Polinario Café Bar, Avda. del Generalife s/n, 18009 Granada (next to the Alhambra ticket offices)
+  descripcionGuia: The meeting point is the Polinario Café Bar, on Avenida del Generalife, next to the Alhambra ticket offices.
+    The operator confirms the exact spot by email a few days before the visit. The route ends near the Palace of Charles V.
+    Arrive 15 minutes early.
   latitud: 37.1769
   longitud: -3.5845
   zoom: 16
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Original ID card or passport (mandatory to enter the Alhambra)"
-    - "Comfortable shoes: the route is 3 hours over uneven ground"
-    - "Water and sun protection in the warmer months"
+  - Original ID card or passport (mandatory to enter the Alhambra)
+  - 'Comfortable shoes: the route is 3 hours over uneven ground'
+  - Water and sun protection in the warmer months
   noAptoPara:
-    - "Wheelchair users: the tour is not adapted"
-    - "Anyone not in average physical condition: there are slopes, steps and 3 hours on foot"
+  - 'Wheelchair users: the tour is not adapted'
+  - 'Anyone not in average physical condition: there are slopes, steps and 3 hours on foot'
   aTenerEnCuenta:
-    - "The ticket is NON-REFUNDABLE: it cannot be cancelled or changed for any reason"
-    - "The group has a maximum of 20 people"
-    - "The exact meeting point is confirmed by email a few days before the visit"
-
-accesibilidad: "Not adapted for wheelchairs. Average physical condition is required: the route lasts 3 hours through the Alhambra grounds, with slopes, steps and uneven terrain. Assistance animals are welcome."
-
-politicaCancelacion: "This experience is NON-REFUNDABLE. It cannot be cancelled or changed for any reason: if you cancel or request a change, the amount paid is not returned. This is the condition the operator applies due to the strict policy of the Alhambra's governing board. If you need cancellation flexibility, check the comparison for options with free cancellation."
-
+  - 'The ticket is NON-REFUNDABLE: it cannot be cancelled or changed for any reason'
+  - The group has a maximum of 20 people
+  - The exact meeting point is confirmed by email a few days before the visit
+accesibilidad: 'Not adapted for wheelchairs. Average physical condition is required: the route lasts 3 hours through the Alhambra
+  grounds, with slopes, steps and uneven terrain. Assistance animals are welcome.'
+politicaCancelacion: 'This experience is NON-REFUNDABLE. It cannot be cancelled or changed for any reason: if you cancel or
+  request a change, the amount paid is not returned. This is the condition the operator applies due to the strict policy of
+  the Alhambra''s governing board. If you need cancellation flexibility, check the comparison for options with free cancellation.'
 preguntasFrecuentes:
-  - pregunta: "Can I cancel if something comes up?"
-    respuesta: "No. This experience is non-refundable: it allows no cancellation or changes for any reason, and the amount paid is not returned. It is important to be clear on this before booking. If you need to be able to cancel, the comparison has Alhambra options with free cancellation."
-  - pregunta: "What does 'guaranteed' entry mean?"
-    respuesta: "It means the operator secures your access to the Nasrid Palaces, the part of the Alhambra with the most limited quota and the first to sell out. You book with the reassurance that entry is confirmed, in exchange for the booking being non-refundable."
-  - pregunta: "What language is the tour in?"
-    respuesta: "The tour is offered in Spanish and English (the operator mentions one more language without detailing it). You choose the language when you book."
-  - pregunta: "Do I need to bring my ID or passport?"
-    respuesta: "Yes, and it is essential. Alhambra entry is nominative: you must provide each participant's details at booking and bring the original document on the day. Without it, access can be denied."
-  - pregunta: "How long is it and what does it cover?"
-    respuesta: "It is 3 hours with an official guide covering the three main areas: the Generalife, the Alcazaba and the Nasrid Palaces, plus a stop at the Palace of Charles V. The group has a maximum of 20 people."
+- pregunta: Can I cancel if something comes up?
+  respuesta: 'No. This experience is non-refundable: it allows no cancellation or changes for any reason, and the amount paid
+    is not returned. It is important to be clear on this before booking. If you need to be able to cancel, the comparison
+    has Alhambra options with free cancellation.'
+- pregunta: What does 'guaranteed' entry mean?
+  respuesta: It means the operator secures your access to the Nasrid Palaces, the part of the Alhambra with the most limited
+    quota and the first to sell out. You book with the reassurance that entry is confirmed, in exchange for the booking being
+    non-refundable.
+- pregunta: What language is the tour in?
+  respuesta: The tour is offered in Spanish and English (the operator mentions one more language without detailing it). You
+    choose the language when you book.
+- pregunta: Do I need to bring my ID or passport?
+  respuesta: 'Yes, and it is essential. Alhambra entry is nominative: you must provide each participant''s details at booking
+    and bring the original document on the day. Without it, access can be denied.'
+- pregunta: How long is it and what does it cover?
+  respuesta: 'It is 3 hours with an official guide covering the three main areas: the Generalife, the Alcazaba and the Nasrid
+    Palaces, plus a stop at the Palace of Charles V. The group has a maximum of 20 people.'
+variantes:
+- alhambra-generalife-small-group-tour
+- alhambra-private-small-group-tour
+- alhambra-generalife-guided-tour
+opinionEditorial: 'This is an option to consider if your main concern is securing entry to the Nasrid Palaces and you don''t
+  mind giving up flexibility. The operator "guarantees" the ticket — the part of the Alhambra that sells out first — and the
+  format is the standard one: 3 hours, an official guide, the three main areas and priority access.
 
-variantes: ["alhambra-generalife-small-group-tour", "alhambra-private-small-group-tour", "alhambra-generalife-guided-tour"]
 
-opinionEditorial: |
-  This is an option to consider if your main concern is securing entry to the Nasrid Palaces and you don't mind giving up flexibility. The operator "guarantees" the ticket — the part of the Alhambra that sells out first — and the format is the standard one: 3 hours, an official guide, the three main areas and priority access.
+  What you need to know before booking, and it''s the most important thing: this booking is NON-REFUNDABLE. It allows no cancellation
+  or changes for any reason. It is not a partial refund like other Alhambra visits — where you get 50% back — here it is zero.
+  If your plans could change, this is not your tour: the comparison has options with free cancellation, though they usually
+  cost a little more. Its score (4.6 over 102 reviews) is the lowest in the Alhambra group and the review count is the smallest,
+  so it is a less well-tested option than the big ones. And it is not wheelchair accessible.
 
-  What you need to know before booking, and it's the most important thing: this booking is NON-REFUNDABLE. It allows no cancellation or changes for any reason. It is not a partial refund like other Alhambra visits — where you get 50% back — here it is zero. If your plans could change, this is not your tour: the comparison has options with free cancellation, though they usually cost a little more. Its score (4.6 over 102 reviews) is the lowest in the Alhambra group and the review count is the smallest, so it is a less well-tested option than the big ones. And it is not wheelchair accessible.
-
-categoria: "visitasGuiadas"
-keywords: ["alhambra guided tour", "alhambra guaranteed entry", "nasrid palaces tour", "alhambra tickets granada", "alhambra skip the line"]
-
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"
-imagenAlt: "Window of the Cuarto Dorado of the Alhambra with the Nasrid motto inscription"
-
+  '
+categoria: visitasGuiadas
+keywords:
+- alhambra guided tour
+- alhambra guaranteed entry
+- nasrid palaces tour
+- alhambra tickets granada
+- alhambra skip the line
+imagen: /images/actividades/granada/ciudades/granada-hero.webp
+imagenAlt: Granada's historic city center with traditional white buildings and mountain backdrop
 galeria:
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
-    alt: "Gallery of columns and arches in the Nasrid Palaces of the Alhambra"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
-    alt: "The Alcazaba of the Alhambra with its towers set against Granada"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
-    alt: "The Generalife gardens with their water channels and greenery"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
-    alt: "The Palace of Charles V and the Alhambra of Granada at dawn"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp"
-    alt: "Detail of the geometric stucco decoration of the Nasrid Palaces"
-
+- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
+  alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
+- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
+  alt: Granada street view with historic architecture and narrow cobblestone pathways
+- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
+  alt: Granada's historic architecture reflected in water, showing traditional buildings and street landscape.
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Granada historic street with traditional whitewashed buildings and narrow cobblestone path
+- src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
+  alt: Street view of historic Granada with traditional white buildings and narrow cobblestone paths
+- src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
+  alt: Granada's historic architecture with narrow streets and traditional buildings
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Granada cityscape with historic architecture and Mediterranean landscape
+- src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
+  alt: Granada cityscape with historic architecture and mountains in background
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
+  alt: Granada street scene with historic architecture and traditional buildings
+- src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
+  alt: Granada's historic architecture with traditional white buildings and narrow streets
+- src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
+  alt: Granada cityscape with historic architecture and mountain backdrop
+- src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp
+  alt: Granada cathedral and Renaissance architecture at sunset
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
+  alt: Ornate columns of Alhambra palace in Granada with intricate Islamic architectural details
 ratingProveedor: 4.6
 numeroOpiniones: 102
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 atraccionesRelacionadas:
-  - "alhambra"
+- alhambra
 ---
 
 ## What you'll see

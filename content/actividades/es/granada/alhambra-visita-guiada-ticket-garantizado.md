@@ -1,116 +1,145 @@
 ---
-titulo: "Alhambra: visita guiada con entrada garantizada"
-slug: "alhambra-visita-guiada-ticket-garantizado"
-ciudad: "granada"
-descripcion: "Visita guiada de 3 horas a la Alhambra con entrada garantizada a los Palacios Nazaríes, guía oficial y acceso prioritario. Importante: no reembolsable."
-
+titulo: 'Alhambra: visita guiada con entrada garantizada'
+slug: alhambra-visita-guiada-ticket-garantizado
+ciudad: granada
+descripcion: 'Visita guiada de 3 horas a la Alhambra con entrada garantizada a los Palacios Nazaríes, guía oficial y acceso
+  prioritario. Importante: no reembolsable.'
 slugs:
-  es: "alhambra-visita-guiada-ticket-garantizado"
-  en: "alhambra-guided-tour-guaranteed-tickets"
-
-duracion: "3 horas"
+  es: alhambra-visita-guiada-ticket-garantizado
+  en: alhambra-guided-tour-guaranteed-tickets
+duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 56
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Granada/Alhambra-guided-tour/d554-121471P35?pid=P00298823&mcid=42383&medium=link"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/es-ES/tours/Granada/Alhambra-guided-tour/d554-121471P35?pid=P00298823&mcid=42383&medium=link
 cancelacionGratuita: false
-
 highlights:
-  - "Entrada garantizada a los Palacios Nazaríes, la Alcazaba y el Generalife"
-  - "Guía oficial en directo durante las 3 horas de visita"
-  - "Acceso prioritario para evitar la cola de la taquilla principal"
-  - "Audio personal para escuchar al guía con claridad"
-
+- Entrada garantizada a los Palacios Nazaríes, la Alcazaba y el Generalife
+- Guía oficial en directo durante las 3 horas de visita
+- Acceso prioritario para evitar la cola de la taquilla principal
+- Audio personal para escuchar al guía con claridad
 incluye:
-  - "Ticket oficial de acceso al conjunto monumental completo de la Alhambra"
-  - "Entrada garantizada a los Palacios Nazaríes, la Alcazaba y el Generalife"
-  - "Guía oficial en directo durante toda la visita"
-  - "Dispositivo de audio personal para seguir la explicación del guía"
-  - "Acceso prioritario en la taquilla principal"
-
+- Ticket oficial de acceso al conjunto monumental completo de la Alhambra
+- Entrada garantizada a los Palacios Nazaríes, la Alcazaba y el Generalife
+- Guía oficial en directo durante toda la visita
+- Dispositivo de audio personal para seguir la explicación del guía
+- Acceso prioritario en la taquilla principal
 noIncluye:
-  - "Traslado al punto de encuentro o recogida en el hotel"
-  - "Comidas, bebidas y gastos personales"
-  - "Propinas"
-
+- Traslado al punto de encuentro o recogida en el hotel
+- Comidas, bebidas y gastos personales
+- Propinas
 puntoEncuentro:
-  texto: "Polinario Café Bar, Avda. del Generalife s/n, 18009 Granada (junto a las taquillas de la Alhambra)"
-  descripcionGuia: "El punto de encuentro es el Polinario Café Bar, en la Avenida del Generalife, junto a las taquillas de la Alhambra. El operador confirma el punto exacto por email unos días antes de la visita. El recorrido termina cerca del Palacio de Carlos V. Llega 15 minutos antes."
+  texto: Polinario Café Bar, Avda. del Generalife s/n, 18009 Granada (junto a las taquillas de la Alhambra)
+  descripcionGuia: El punto de encuentro es el Polinario Café Bar, en la Avenida del Generalife, junto a las taquillas de
+    la Alhambra. El operador confirma el punto exacto por email unos días antes de la visita. El recorrido termina cerca del
+    Palacio de Carlos V. Llega 15 minutos antes.
   latitud: 37.1769
   longitud: -3.5845
   zoom: 16
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Documento de identidad o pasaporte original (es obligatorio para acceder a la Alhambra)"
-    - "Calzado cómodo: el recorrido es de 3 horas por terreno irregular"
-    - "Agua y protección solar en los meses de calor"
+  - Documento de identidad o pasaporte original (es obligatorio para acceder a la Alhambra)
+  - 'Calzado cómodo: el recorrido es de 3 horas por terreno irregular'
+  - Agua y protección solar en los meses de calor
   noAptoPara:
-    - "Personas en silla de ruedas: el tour no está adaptado"
-    - "Quien no tenga una condición física media: hay cuestas, escalones y 3 horas a pie"
+  - 'Personas en silla de ruedas: el tour no está adaptado'
+  - 'Quien no tenga una condición física media: hay cuestas, escalones y 3 horas a pie'
   aTenerEnCuenta:
-    - "La entrada NO es reembolsable: no se puede cancelar ni modificar por ningún motivo"
-    - "El grupo es de un máximo de 20 personas"
-    - "El punto de encuentro exacto se confirma por email unos días antes de la visita"
-
-accesibilidad: "Visita no adaptada para sillas de ruedas. Se requiere una condición física media: el recorrido dura 3 horas por el recinto de la Alhambra, con cuestas, escalones y terreno irregular. Se admiten animales de asistencia."
-
-politicaCancelacion: "Esta experiencia NO es reembolsable. No se puede cancelar ni modificar por ningún motivo: si la cancelas o pides un cambio, no se devuelve el importe. Es la condición que aplica el operador por la política estricta del Patronato de la Alhambra. Si necesitas flexibilidad para cancelar, revisa en el comparador las opciones con cancelación gratuita."
-
+  - 'La entrada NO es reembolsable: no se puede cancelar ni modificar por ningún motivo'
+  - El grupo es de un máximo de 20 personas
+  - El punto de encuentro exacto se confirma por email unos días antes de la visita
+accesibilidad: 'Visita no adaptada para sillas de ruedas. Se requiere una condición física media: el recorrido dura 3 horas
+  por el recinto de la Alhambra, con cuestas, escalones y terreno irregular. Se admiten animales de asistencia.'
+politicaCancelacion: 'Esta experiencia NO es reembolsable. No se puede cancelar ni modificar por ningún motivo: si la cancelas
+  o pides un cambio, no se devuelve el importe. Es la condición que aplica el operador por la política estricta del Patronato
+  de la Alhambra. Si necesitas flexibilidad para cancelar, revisa en el comparador las opciones con cancelación gratuita.'
 preguntasFrecuentes:
-  - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
-    respuesta: "No. Esta experiencia no es reembolsable: no admite cancelación ni cambios por ningún motivo, y no se devuelve el importe pagado. Es importante tenerlo claro antes de reservar. Si necesitas poder cancelar, en el comparador hay opciones de Alhambra con cancelación gratuita."
-  - pregunta: "¿Qué significa que la entrada está 'garantizada'?"
-    respuesta: "Significa que el operador asegura tu acceso a los Palacios Nazaríes, que es la parte de la Alhambra con cupo más limitado y la primera que se agota. Reservas con la tranquilidad de que la entrada está confirmada, a cambio de que la reserva no sea reembolsable."
-  - pregunta: "¿En qué idioma es la visita?"
-    respuesta: "La visita se ofrece en español e inglés (el operador indica algún idioma más sin detallarlo). Eliges el idioma al reservar."
-  - pregunta: "¿Necesito llevar el DNI o el pasaporte?"
-    respuesta: "Sí, y es imprescindible. La entrada a la Alhambra es nominativa: hay que facilitar los datos de cada participante al reservar y llevar el documento original el día de la visita. Sin él pueden denegar el acceso."
-  - pregunta: "¿Cuánto dura y qué se visita?"
-    respuesta: "Son 3 horas con guía oficial que recorren las tres zonas principales: el Generalife, la Alcazaba y los Palacios Nazaríes, además de una parada en el Palacio de Carlos V. El grupo es de un máximo de 20 personas."
+- pregunta: ¿Puedo cancelar si me surge un imprevisto?
+  respuesta: 'No. Esta experiencia no es reembolsable: no admite cancelación ni cambios por ningún motivo, y no se devuelve
+    el importe pagado. Es importante tenerlo claro antes de reservar. Si necesitas poder cancelar, en el comparador hay opciones
+    de Alhambra con cancelación gratuita.'
+- pregunta: ¿Qué significa que la entrada está 'garantizada'?
+  respuesta: Significa que el operador asegura tu acceso a los Palacios Nazaríes, que es la parte de la Alhambra con cupo
+    más limitado y la primera que se agota. Reservas con la tranquilidad de que la entrada está confirmada, a cambio de que
+    la reserva no sea reembolsable.
+- pregunta: ¿En qué idioma es la visita?
+  respuesta: La visita se ofrece en español e inglés (el operador indica algún idioma más sin detallarlo). Eliges el idioma
+    al reservar.
+- pregunta: ¿Necesito llevar el DNI o el pasaporte?
+  respuesta: 'Sí, y es imprescindible. La entrada a la Alhambra es nominativa: hay que facilitar los datos de cada participante
+    al reservar y llevar el documento original el día de la visita. Sin él pueden denegar el acceso.'
+- pregunta: ¿Cuánto dura y qué se visita?
+  respuesta: 'Son 3 horas con guía oficial que recorren las tres zonas principales: el Generalife, la Alcazaba y los Palacios
+    Nazaríes, además de una parada en el Palacio de Carlos V. El grupo es de un máximo de 20 personas.'
+variantes:
+- alhambra-generalife-grupo-pequeno
+- alhambra-privada-grupo-pequeno
+- visita-guiada-alhambra-generalife
+opinionEditorial: 'Es una opción a considerar si lo que más te preocupa es asegurar la entrada a los Palacios Nazaríes y no
+  te importa renunciar a la flexibilidad. El operador "garantiza" el ticket, que es la parte de la Alhambra que antes se agota,
+  y el formato es el estándar: 3 horas, guía oficial, las tres zonas principales y acceso prioritario.
 
-variantes: ["alhambra-generalife-grupo-pequeno", "alhambra-privada-grupo-pequeno", "visita-guiada-alhambra-generalife"]
 
-opinionEditorial: |
-  Es una opción a considerar si lo que más te preocupa es asegurar la entrada a los Palacios Nazaríes y no te importa renunciar a la flexibilidad. El operador "garantiza" el ticket, que es la parte de la Alhambra que antes se agota, y el formato es el estándar: 3 horas, guía oficial, las tres zonas principales y acceso prioritario.
+  Lo que tienes que saber antes de reservar, y es lo más importante: esta reserva NO es reembolsable. No admite cancelación
+  ni cambios por ningún motivo. No es una cancelación parcial como en otras visitas a la Alhambra —donde te devuelven el 50
+  %—, aquí es cero. Si tus planes pueden cambiar, este no es tu tour: en el comparador hay opciones con cancelación gratuita,
+  aunque normalmente cuesten algo más. Su nota (4,6 sobre 102 reseñas) es la más baja del grupo de la Alhambra y el volumen
+  de opiniones, el más pequeño, así que es una opción menos rodada que las grandes. Y no es accesible en silla de ruedas.
 
-  Lo que tienes que saber antes de reservar, y es lo más importante: esta reserva NO es reembolsable. No admite cancelación ni cambios por ningún motivo. No es una cancelación parcial como en otras visitas a la Alhambra —donde te devuelven el 50 %—, aquí es cero. Si tus planes pueden cambiar, este no es tu tour: en el comparador hay opciones con cancelación gratuita, aunque normalmente cuesten algo más. Su nota (4,6 sobre 102 reseñas) es la más baja del grupo de la Alhambra y el volumen de opiniones, el más pequeño, así que es una opción menos rodada que las grandes. Y no es accesible en silla de ruedas.
-
-categoria: "visitasGuiadas"
-keywords: ["visita guiada alhambra", "alhambra entrada garantizada", "tour alhambra palacios nazaries", "entradas alhambra granada", "alhambra sin colas"]
-
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"
-imagenAlt: "Ventana del Cuarto Dorado de la Alhambra con la inscripción del lema nazarí"
-
+  '
+categoria: visitasGuiadas
+keywords:
+- visita guiada alhambra
+- alhambra entrada garantizada
+- tour alhambra palacios nazaries
+- entradas alhambra granada
+- alhambra sin colas
+imagen: /images/actividades/granada/ciudades/granada-hero.webp
+imagenAlt: Granada, ciudad histórica de Andalucía con la Alhambra y arquitectura medieval
 galeria:
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
-    alt: "Galería de columnas y arcos en los Palacios Nazaríes de la Alhambra"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
-    alt: "La Alcazaba de la Alhambra con sus torres recortadas sobre Granada"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
-    alt: "Los jardines del Generalife con sus acequias y vegetación"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
-    alt: "El Palacio de Carlos V y la Alhambra de Granada al amanecer"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp"
-    alt: "Detalle de la decoración geométrica de estuco de los Palacios Nazaríes"
-
+- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
+  alt: Galería de columnas y arcos en los Palacios Nazaríes de la Alhambra
+- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
+  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
+  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: 'Granada: vista panorámica de la ciudad con arquitectura histórica y montañas al fondo'
+- src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
+  alt: 'Granada: vista panorámica de la ciudad con arquitectura histórica y montañas al fondo'
+- src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
+  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Plaza con arquitectura histórica y torre en Granada
+- src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
+  alt: Calles empedradas de Granada con arquitectura andaluza tradicional
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
+  alt: Panorámica de Granada con vistas a la Alhambra y las montañas nevadas
+- src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
+  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+- src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
+  alt: Paisaje urbano de Granada con arquitectura histórica y calles coloniales
+- src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp
+  alt: 'Granada: calles históricas con arquitectura tradicional andaluza y edificios coloniales'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
+  alt: Columnas arquitectónicas de la Alhambra de Granada con detalles ornamentales islámicos
 ratingProveedor: 4.6
 numeroOpiniones: 102
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 atraccionesRelacionadas:
-  - "alhambra"
+- alhambra
 ---
 
 ## Qué vas a ver
