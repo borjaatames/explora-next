@@ -83,8 +83,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "285662"
     url_reserva: "https://www.getyourguide.com/granada-l207/granada-entrada-a-la-alhambra-y-tour-guiado-con-los-palacios-nazaries-t285662/"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp"
-    imagen_alt: "Pabellón del Patio de los Leones de la Alhambra de Granada"
+    imagen: "/images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp"
+    imagen_alt: "Plaza de la Catedral en Granada con edificios históricos y cielo azul"
     cancelacion: "Reembolso del 60 % hasta 48 h antes"
     categoria: "en-grupo"
 
@@ -99,8 +99,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "517606"
     url_reserva: "https://www.getyourguide.com/granada-l207/alhambra-y-palacios-nazaries-tour-guiado-con-entradas-t517606/"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
-    imagen_alt: "Galería de columnas y arcos de los Palacios Nazaríes de la Alhambra"
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero-hero.webp"
+    imagen_alt: "Fotografía aérea de la Alhambra de Granada con sus muros y torres de piedra marrón"
     cancelacion: "Reembolso del 50 % hasta 24 h antes"
     categoria: "en-grupo"
 
@@ -115,8 +115,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "171177"
     url_reserva: "https://www.getyourguide.com/granada-l207/visita-a-la-alhambra-con-palacios-nazaries-y-albaicin-sacromonte-t171177/"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
-    imagen_alt: "Vista aérea de la Alhambra de Granada sobre la colina de la Sabika"
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp"
+    imagen_alt: "Patio de la Alhambra con palmeras reflejadas en una acequia"
     cancelacion: "Reembolso del 60 % hasta 24 h antes"
     categoria: "grupo-reducido"
 
@@ -131,8 +131,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "181145"
     url_reserva: "https://www.getyourguide.com/granada-l207/granada-visita-guiada-sin-esperas-a-la-alhambra-y-los-palacios-nazaries-t181145/"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp"
-    imagen_alt: "Arcos de yesería labrada de los Palacios Nazaríes de la Alhambra"
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
+    imagen_alt: "Vista aérea de la Alhambra de Granada con sus torres sobre la ciudad"
     cancelacion: "Reembolso del 50 % hasta 24 h antes"
     categoria: "en-grupo"
 
@@ -146,8 +146,8 @@ tours:
     resenas: 102
     viator_product_id: "121471P35"
     viator_url: "https://www.viator.com/es-ES/tours/Granada/Alhambra-guided-tour/d554-121471P35"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"
-    imagen_alt: "Ventana del Cuarto Dorado de la Alhambra con la inscripción del lema nazarí"
+    imagen: "/images/actividades/granada/ciudades/granada-hero.webp"
+    imagen_alt: "Granada, ciudad histórica de Andalucía con la Alhambra y arquitectura medieval"
     cancelacion: "No reembolsable"
     categoria: "en-grupo"
 
@@ -161,8 +161,8 @@ tours:
     resenas: 3183
     viator_product_id: "11131P1"
     viator_url: "https://www.viator.com/es-ES/tours/Granada/Alhambra-and-Generalife-Tour-in-small-groups/d554-11131P1"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"
-    imagen_alt: "Fuente del Patio de los Leones de la Alhambra de Granada"
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-toit-salle-abencerrages-espagne-hero-hero.webp"
+    imagen_alt: "Techo ornamentado de la Sala de los Abencerrajes en la Alhambra de Granada, España"
     cancelacion: "No reembolsable"
     categoria: "grupo-reducido"
 
@@ -176,8 +176,8 @@ tours:
     resenas: 925
     viator_product_id: "3443CITALHVIA"
     viator_url: "https://www.viator.com/es-ES/tours/Granada/Alhambra-Private-Small-Group-Tour-and-Nasrid-Palaces-Skip-the-Line/d554-3443CITALHVIA"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"
-    imagen_alt: "Techo de estuco labrado en una sala del Patio de los Leones de la Alhambra"
+    imagen: "/images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp"
+    imagen_alt: "Granada, vista aérea con arquitectura histórica y sierra nevada"
     cancelacion: "No reembolsable"
     categoria: "grupo-reducido"
 
@@ -192,8 +192,8 @@ tours:
     proveedor: "getyourguide"
     proveedor_codigo: "70427"
     url_reserva: "https://www.getyourguide.com/granada-l207/skip-the-line-alhambra-generalife-tour-privado-t70427/"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
-    imagen_alt: "El Palacio de Carlos V y la Alhambra de Granada al amanecer"
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp"
+    imagen_alt: "Patio de la Alhambra con palmeras reflejadas en una acequia"
     cancelacion: "Reembolso del 50 % hasta 24 h antes"
     categoria: "privada"
     premium: true
@@ -208,8 +208,8 @@ tours:
     resenas: 170
     viator_product_id: "423057P1"
     viator_url: "https://www.viator.com/es-ES/tours/Granada/3-Hour-Private-Tour-to-the-Alhambra/d554-423057P1"
-    imagen: "/images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp"
-    imagen_alt: "La Alhambra de Granada entre palmeras y jardines"
+    imagen: "/images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp"
+    imagen_alt: "Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo"
     cancelacion: "Cancelación gratuita hasta 24 h antes"
     categoria: "privada"
 

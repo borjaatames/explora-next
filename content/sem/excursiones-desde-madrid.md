@@ -48,8 +48,8 @@ tours:
     resenas: 2706
     viator_product_id: "110971P4"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Escorial-y-Valle-de-los-Caidos-con-Tickets-Included-from-Madrid/d566-110971P4"
-    imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp"
-    imagen_alt: "Fachada del Monasterio de El Escorial vista desde los jardines bajo cielo despejado"
+    imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp"
+    imagen_alt: "Fachada principal del Monasterio de El Escorial en Madrid, arquitectura renacentista con torres y claustros"
     categoria: "dia-completo"
     ancla: true
 
@@ -63,8 +63,8 @@ tours:
     resenas: 9118
     viator_product_id: "6874P88"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Three-Cities-in-One-Day-Segovia-Avila-and-Toledo-from-Madrid/d566-6874P88"
-    imagen: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    imagen_alt: "Vista panorámica del casco histórico de Toledo al atardecer sobre el río Tajo"
+    imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-cathedral-alcazar-old-town-history-hero.webp"
+    imagen_alt: "cathedral, cathedral of segovia, alcazar of segovia, old town, history"
     categoria: "combinada"
 
   - id: "toledo-dia-completo-fun-tickets"
@@ -77,8 +77,8 @@ tours:
     resenas: 7252
     viator_product_id: "110971P5"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Toledo-Full-Day-with-Cathedral-from-Madrid/d566-110971P5"
-    imagen: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    imagen_alt: "Vista del puente de Alcántara sobre el Tajo con el Alcázar de Toledo en lo alto"
+    imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-may-2017-hero.webp"
+    imagen_alt: "Alcazar toledo spain may 2017 en Alcazar toledo"
     categoria: "dia-completo"
 
   - id: "avila-segovia-yellow"
@@ -150,8 +150,8 @@ tours:
     resenas: 6033
     viator_product_id: "2140JTEMA20"
     viator_url: "https://www.viator.com/es-ES/tours/Madrid/Toledo-Half-Day-or-Full-Day-Trip-from-Madrid/d566-2140JTEMA20"
-    imagen: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp"
-    imagen_alt: "Fachada gótica de la Catedral Primada de Toledo bajo cielo despejado"
+    imagen: "/images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero-hero.webp"
+    imagen_alt: "Alcázar de Toledo dominando el skyline de la ciudad histórica de España"
     categoria: "medio-dia"
 
   - id: "segovia-catedral-alcazar"
