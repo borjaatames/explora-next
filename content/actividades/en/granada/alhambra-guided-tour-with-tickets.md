@@ -116,24 +116,34 @@ galeria:
   alt: Ornate carved stucco and tilework detail in the Court of Myrtles at the Alhambra palace, Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
   alt: Ornate pavilion with carved columns in the Court of Lions, Alhambra palace, Granada
-- src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fountain of the Court of the Lions in the Alhambra
+- src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp
+  alt: Granada's historic architecture with narrow streets and traditional buildings
+- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
+  alt: Granada's historic architecture with traditional Spanish buildings and narrow streets
+- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
+  alt: Granada cityscape with historic architecture and mountains in background
+- src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
+  alt: Granada's historic streets and traditional architecture at sunset
+- src: /images/actividades/granada/palacios-nazaries/pexels-36046522-hero.webp
+  alt: Granada cityscape with historic architecture and street view
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
   alt: Wine Gate at Alhambra palace, Granada, Spain with ornate Islamic architecture
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
   alt: Ornate columns of Alhambra palace in Granada, Spain with Islamic geometric patterns
-- src: /images/actividades/granada/alhambra/alhambra-granada-spain-fortress-castle-architecture-hero.webp
-  alt: The Alhambra of Granada with its towers, courtyards and gardens seen from the air
 - src: /images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp
   alt: Carved ceiling of a hall in the Nasrid Palaces
-- src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
-  alt: Arches and inner courtyard of the Nasrid Palaces of the Alhambra
+- src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
+  alt: Granada's historic architecture and cobblestone streets in afternoon light
 - src: /images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp
   alt: Illuminated muqarnas ceiling in a hall of the Nasrid Palaces
-- src: /images/actividades/granada/alhambra/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
-  alt: Ornate Islamic palace architecture of Alhambra with intricate geometric patterns and arches in Granada
-- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Granada's historic architecture with traditional Spanish buildings and narrow streets
+- src: /images/actividades/granada/palacios-nazaries/pexels-5108925-hero.webp
+  alt: Granada's historic architecture with traditional white buildings and narrow streets
+- src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
+  alt: Granada cityscape with historic architecture and mountain backdrop
+- src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp
+  alt: Granada historic architecture with traditional white buildings and cobblestone streets
+- src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
+  alt: Granada's historic architecture with traditional white buildings and terracotta roofs
 ratingProveedor: 4.9
 numeroOpiniones: 1018
 publicada: true
