@@ -1,145 +1,144 @@
 ---
-titulo: "Toledo Half-Day Trip from Madrid"
-slug: "toledo-half-day-trip-from-madrid"
-ciudad: "madrid"
-descripcion: "Half-day trip to Toledo from Madrid by coach with an official local guide and optional Cathedral entry. Back in Madrid in time for lunch."
-
+titulo: Toledo Half-Day Trip from Madrid
+slug: toledo-half-day-trip-from-madrid
+ciudad: madrid
+descripcion: Half-day trip to Toledo from Madrid by coach with an official local guide and optional Cathedral entry. Back
+  in Madrid in time for lunch.
 slugs:
-  en: "toledo-half-day-trip-from-madrid"
-  es: "excursion-toledo-medio-dia"
-
-duracion: "5 hours"
+  en: toledo-half-day-trip-from-madrid
+  es: excursion-toledo-medio-dia
+duracion: 5 hours
 duracionMinutos: 300
-
 precioDesde: 29
-moneda: "EUR"
-
-idiomas: ["en", "es"]
-
-proveedor: "viator"
-
-urlReserva: "https://www.viator.com/tours/Madrid/Toledo-Half-Day-or-Full-Day-Trip-from-Madrid/d566-2140JTEMA20?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
-
+moneda: EUR
+idiomas:
+- en
+- es
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Madrid/Toledo-Half-Day-or-Full-Day-Trip-from-Madrid/d566-2140JTEMA20?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Round-trip coach from central Madrid: no AVE bookings, no parking, no driving"
-  - "Official local guide walking you through Toledo's old town"
-  - "Optional admission to Toledo Cathedral, a UNESCO World Heritage site"
-  - "Back in Madrid in time for lunch — ideal if you only have a free morning"
-
+- 'Round-trip coach from central Madrid: no AVE bookings, no parking, no driving'
+- Official local guide walking you through Toledo's old town
+- Optional admission to Toledo Cathedral, a UNESCO World Heritage site
+- Back in Madrid in time for lunch — ideal if you only have a free morning
 incluye:
-  - "Round-trip coach from Madrid"
-  - "Official walking guide in Toledo"
-  - "Toledo Cathedral admission (if that option is selected)"
-  - "Church of Santo Tomé and Synagogue of Santa María la Blanca admission (if option is selected)"
-
+- Round-trip coach from Madrid
+- Official walking guide in Toledo
+- Toledo Cathedral admission (if that option is selected)
+- Church of Santo Tomé and Synagogue of Santa María la Blanca admission (if option is selected)
 noIncluye:
-  - "Food and drinks"
-  - "Gratuities"
-  - "Hotel pickup"
-
+- Food and drinks
+- Gratuities
+- Hotel pickup
 puntoEncuentro:
-  texto: "C. de San Nicolás, 15, Centro, 28013 Madrid (Julià Travel office)"
-  descripcionGuia: "Show up at the Julià Travel office at least 15 minutes before departure. The tour ends at Plaza de Oriente (bus parking, level -2), not at the meeting point."
+  texto: C. de San Nicolás, 15, Centro, 28013 Madrid (Julià Travel office)
+  descripcionGuia: Show up at the Julià Travel office at least 15 minutes before departure. The tour ends at Plaza de Oriente
+    (bus parking, level -2), not at the meeting point.
   latitud: 40.4174
   longitud: -3.7102
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document"
-    - "Comfortable shoes — there's a fair amount of walking on cobbled, uphill streets"
-    - "Water and a snack (no long stops)"
+  - ID document
+  - Comfortable shoes — there's a fair amount of walking on cobbled, uphill streets
+  - Water and a snack (no long stops)
   noAptoPara:
-    - "People with reduced mobility or wheelchair users"
-    - "Anyone looking for a slow-paced visit with long stops"
+  - People with reduced mobility or wheelchair users
+  - Anyone looking for a slow-paced visit with long stops
   aTenerEnCuenta:
-    - "The route involves climbing slopes and walking on cobblestone"
-    - "Children under 5 ride free if they don't occupy a seat"
-    - "Julià Travel reserves the right to modify the itinerary in case of force majeure"
-    - "The return coach drops you at Plaza de Oriente, not at the departure point"
-
-accesibilidad: "Not wheelchair accessible. The Toledo route involves slopes, steps and cobbled streets throughout."
-
-politicaCancelacion: "Free cancellation up to 24 hours before the experience starts for a full refund."
-
+  - The route involves climbing slopes and walking on cobblestone
+  - Children under 5 ride free if they don't occupy a seat
+  - Julià Travel reserves the right to modify the itinerary in case of force majeure
+  - The return coach drops you at Plaza de Oriente, not at the departure point
+accesibilidad: Not wheelchair accessible. The Toledo route involves slopes, steps and cobbled streets throughout.
+politicaCancelacion: Free cancellation up to 24 hours before the experience starts for a full refund.
 preguntasFrecuentes:
-  - pregunta: "How fast is booking confirmed?"
-    respuesta: "Confirmation arrives at the time of booking — no waiting period."
-  - pregunta: "Is the guide really English-speaking?"
-    respuesta: "Yes. Julià Travel runs separate Spanish-speaking and English-speaking groups on the same coach. You walk Toledo with the English group."
-  - pregunta: "How much free time do I get in Toledo?"
-    respuesta: "Limited. The 5-hour figure includes the round-trip coach: roughly 3 hours on the ground in Toledo, most of it guided. If you want unstructured time to wander, consider the full-day option."
-  - pregunta: "Is Cathedral entry included?"
-    respuesta: "Only if you pick the option that includes it. Several variants exist — check the details on Viator before booking."
-  - pregunta: "What if I left something at the meeting point?"
-    respuesta: "Plan for it: the return coach ends at Plaza de Oriente in central Madrid, not back at Calle San Nicolás where you boarded."
-
+- pregunta: How fast is booking confirmed?
+  respuesta: Confirmation arrives at the time of booking — no waiting period.
+- pregunta: Is the guide really English-speaking?
+  respuesta: Yes. Julià Travel runs separate Spanish-speaking and English-speaking groups on the same coach. You walk Toledo
+    with the English group.
+- pregunta: How much free time do I get in Toledo?
+  respuesta: 'Limited. The 5-hour figure includes the round-trip coach: roughly 3 hours on the ground in Toledo, most of it
+    guided. If you want unstructured time to wander, consider the full-day option.'
+- pregunta: Is Cathedral entry included?
+  respuesta: Only if you pick the option that includes it. Several variants exist — check the details on Viator before booking.
+- pregunta: What if I left something at the meeting point?
+  respuesta: 'Plan for it: the return coach ends at Plaza de Oriente in central Madrid, not back at Calle San Nicolás where
+    you boarded.'
 variantes:
-  - "toledo-full-day-from-madrid"
-  - "toledo-private-tour-from-madrid"
-  - "toledo-segovia-avila-from-madrid"
+- toledo-full-day-from-madrid
+- toledo-private-tour-from-madrid
+- toledo-segovia-avila-from-madrid
+opinionEditorial: 'This is the right call if you have a free morning in Madrid and want to tick Toledo off the list without
+  dealing with the AVE high-speed train, peripheral parking lots or Cathedral opening hours. The coach picks you up, drives
+  you, walks you, brings you back. At €29 it''s hard to beat as the most efficient way to see Toledo in half a day.
 
-opinionEditorial: |
-  This is the right call if you have a free morning in Madrid and want to tick Toledo off the list without dealing with the AVE high-speed train, peripheral parking lots or Cathedral opening hours. The coach picks you up, drives you, walks you, brings you back. At €29 it's hard to beat as the most efficient way to see Toledo in half a day.
 
-  The real catch: 5 hours is not 5 hours in Toledo, it's 5 hours total including transit. That translates to roughly 3 hours in the city itself, most of it on a guided walk. Don't expect free time to lose yourself in the alleys, buy marzipan unhurried, or sit at the Mirador del Valle. If that's what you want, take the full-day option or the AVE on your own.
+  The real catch: 5 hours is not 5 hours in Toledo, it''s 5 hours total including transit. That translates to roughly 3 hours
+  in the city itself, most of it on a guided walk. Don''t expect free time to lose yourself in the alleys, buy marzipan unhurried,
+  or sit at the Mirador del Valle. If that''s what you want, take the full-day option or the AVE on your own.
 
-categoria: "excursionesDia"
-
-keywords: ["toledo from madrid", "toledo day trip", "toledo half day tour", "toledo coach tour", "visit toledo spain", "madrid to toledo"]
-
-imagen: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-imagenAlt: "View of the Alcántara Bridge over the Tagus with Toledo's Alcázar on the hilltop"
-
+  '
+categoria: excursionesDia
+keywords:
+- toledo from madrid
+- toledo day trip
+- toledo half day tour
+- toledo coach tour
+- visit toledo spain
+- madrid to toledo
+imagen: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp
+imagenAlt: Toledo Cathedral's Gothic facade with ornate stone architecture and intricate details
 galeria:
-  - src: "/images/actividades/madrid/toledo/hero-alcazar.webp"
-    alt: "Façade of Toledo's Alcázar with its towers and slate spires"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Detail of Mudéjar arches and Gothic pinnacles on a building in Toledo's old town"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Cobbled street in Toledo's old town bathed in warm sunset light"
-  - src: "/images/actividades/madrid/toledo/callejon-tipico.webp"
-    alt: "Narrow alley with carved stone reliefs in Toledo's historic centre"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Mudéjar brick-and-stone horseshoe arch with hanging ivy in a Toledo wall"
-  - src: "/images/actividades/madrid/toledo/patio-columnas.webp"
-    alt: "Renaissance courtyard with rounded arches and stone columns in Toledo"
-
+- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-16712621-hero.webp
+  alt: Toledo Cathedral's gothic facade with intricate stonework and towering spires against blue sky
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-june-2016-hero.webp
+  alt: Alcázar fortress overlooking Toledo cityscape at sunset, Spain
+- src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-72528323-hero.webp
+  alt: Church of Santo Tomé in Toledo, Spain with historic architecture and bell tower
+- src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-interior-santa-maria-la-blanca-2-hero.webp
+  alt: White synagogue interior with arched columns and ornate vaulted ceiling in Toledo
+- src: /images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-7-nueve-de-febrero-hero.webp
+  alt: Synagogue of El Tránsito in Toledo, Spain, with Gothic architecture and historical facade
+- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-discover-spain-stunning-view-hero.webp
+  alt: Panoramic view of Toledo's historic architecture and landscape from elevated viewpoint
+- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-village-hero.webp
+  alt: Panoramic view of Toledo with river flowing through historic medieval town
+- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-arc-bridge-darling-castile-mancha-hero.webp
+  alt: Medieval stone arch bridge spanning river with fortified towers in historic Spanish city
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp
+  alt: Gothic monastery with stone arches and cloisters in Toledo, Spain
+- src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp
+  alt: Toledo hinged door detail with ornate metalwork and traditional Spanish architecture
+- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-apse-hero.webp
+  alt: Apse of Mosque of Christ of the Light with golden arches and natural light in Toledo
+- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero-hero.webp
+  alt: Gothic cathedral interior with soaring arches and intricate architectural details in Toledo
+- src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
+  alt: Historic narrow alleyway with stone buildings in Toledo's old town
+- src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/sinagoga-santa-maria-blanca-toledo-ceiling-sinagoga-transito-4-hero-hero.webp
+  alt: Ornate wooden ceiling with geometric patterns and decorative details in historic Toledo synagogue
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-127579710-hero.webp
+  alt: Toledo cityscape with historic architecture and winding streets from elevated perspective
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp
+  alt: Church of Santo Tomé in Toledo with Gothic architecture and stone facade
 ratingProveedor: 4.5
 numeroOpiniones: 6033
-
 publicada: true
-
 destacada: false
-
-fecha: "2026-05-05"
-
-# ─── ✅ PRE-COMMIT CHECKLIST ──────────────────────────────────────────────────
-# Before flipping `publicada: false` to `publicada: true`, confirm:
-#
-#  [x] Guide language verified on Viator (English + Spanish in separate groups).
-#  [x] urlReserva does NOT include /es-ES/ and DOES include primaryLanguage=en.
-#  [x] urlReserva has all 4 params: pid=P00298823, mcid=42383, medium=link, primaryLanguage=en.
-#  [x] Commercial data sourced from Viator PDF, nothing invented.
-#  [x] ES pair declared in slugs.es and ES file present on disk.
-#  [x] Valid category (excursion) from lib/actividades.ts.
-#  [x] Images exist in /public/images/actividades/madrid/toledo/.
-#  [x] `npm run build` passes locally.
-#
-# Full runbook: docs/RUNBOOK-FICHAS.md
+fecha: '2026-05-05'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
 ---
 
 ## What you'll see
