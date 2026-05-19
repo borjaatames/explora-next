@@ -96,41 +96,35 @@ keywords:
 - toledo coach tour
 - visit toledo spain
 - madrid to toledo
-imagen: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp
-imagenAlt: Toledo Cathedral's Gothic facade with ornate stone architecture and intricate details
+imagen: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero-hero.webp
+imagenAlt: Alcázar fortress overlooking Toledo bridge spanning Spanish landscape
 galeria:
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-16712621-hero.webp
-  alt: Toledo Cathedral's gothic facade with intricate stonework and towering spires against blue sky
-- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-june-2016-hero.webp
-  alt: Alcázar fortress overlooking Toledo cityscape at sunset, Spain
-- src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-72528323-hero.webp
-  alt: Church of Santo Tomé in Toledo, Spain with historic architecture and bell tower
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
+  alt: Toledo Cathedral's Gothic facade with intricate stonework and towering spires against sky
+- src: /images/actividades/toledo/deniz-demirci-qxkezzshu8u/deniz-demirci-qxKEzZSHu8U-unsplash-hero.webp
+  alt: Historic Toledo cityscape with medieval architecture and winding streets
+- src: /images/actividades/toledo/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-mosque-hero-hero.webp
+  alt: Mosque of Christ of the Light in Toledo with golden interior illuminated by natural light
 - src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-interior-santa-maria-la-blanca-2-hero.webp
   alt: White synagogue interior with arched columns and ornate vaulted ceiling in Toledo
-- src: /images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-7-nueve-de-febrero-hero.webp
-  alt: Synagogue of El Tránsito in Toledo, Spain, with Gothic architecture and historical facade
-- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-discover-spain-stunning-view-hero.webp
-  alt: Panoramic view of Toledo's historic architecture and landscape from elevated viewpoint
-- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-village-hero.webp
-  alt: Panoramic view of Toledo with river flowing through historic medieval town
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
+  alt: Toledo's medieval cityscape with historic buildings and narrow cobblestone streets
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero-hero.webp
+  alt: Gothic Cathedral interior in Toledo with ornate vaulted ceilings and stained glass windows
 - src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-arc-bridge-darling-castile-mancha-hero.webp
   alt: Medieval stone arch bridge spanning river with fortified towers in historic Spanish city
 - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp
   alt: Gothic monastery with stone arches and cloisters in Toledo, Spain
 - src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp
   alt: Toledo hinged door detail with ornate metalwork and traditional Spanish architecture
-- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-apse-hero.webp
-  alt: Apse of Mosque of Christ of the Light with golden arches and natural light in Toledo
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero-hero.webp
-  alt: Gothic cathedral interior with soaring arches and intricate architectural details in Toledo
+- src: /images/actividades/toledo/catedral-toledo/wikimedia-163466149-hero.webp
+  alt: Toledo cityscape with historic architecture and river valley view
 - src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
   alt: Historic narrow alleyway with stone buildings in Toledo's old town
-- src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/sinagoga-santa-maria-blanca-toledo-ceiling-sinagoga-transito-4-hero-hero.webp
-  alt: Ornate wooden ceiling with geometric patterns and decorative details in historic Toledo synagogue
-- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-127579710-hero.webp
-  alt: Toledo cityscape with historic architecture and winding streets from elevated perspective
-- src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp
-  alt: Church of Santo Tomé in Toledo with Gothic architecture and stone facade
+- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-village-hero.webp
+  alt: Panoramic view of Toledo with river flowing through historic medieval town
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-santa-maria-int-03-hero-hero.webp
+  alt: Toledo Cathedral interior with soaring Gothic arches and ornate ceiling details
 ratingProveedor: 4.5
 numeroOpiniones: 6033
 publicada: true

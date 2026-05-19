@@ -99,41 +99,35 @@ keywords:
 - visitar toledo
 - excursion toledo julia travel
 - viaje toledo madrid
-imagen: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-hero.webp
-imagenAlt: Catedral de Toledo - Toledo 03
+imagen: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero-hero.webp
+imagenAlt: Alcázar de Toledo dominando el skyline de la ciudad histórica de España
 galeria:
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-16712621-hero.webp
-  alt: Catedral de Toledo - Toledo 10
-- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-june-2016-hero.webp
-  alt: Alcazar toledo june 2016 en Alcazar toledo
-- src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-72528323-hero.webp
-  alt: Iglesia de Santo Tomé, Toledo
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
+  alt: Catedral de Toledo con fachada gótica y torres iluminadas al atardecer
+- src: /images/actividades/toledo/deniz-demirci-qxkezzshu8u/deniz-demirci-qxKEzZSHu8U-unsplash-hero.webp
+  alt: Vistas panorámicas de Toledo con arquitectura medieval y río Tajo al atardecer
+- src: /images/actividades/toledo/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-mosque-hero-hero.webp
+  alt: Mezquita de la Luz en Toledo, fachada frontal con arcos y arquitectura medieval
 - src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-interior-santa-maria-la-blanca-2-hero.webp
   alt: Interior santa maria la blanca 2 en Sinagoga santa maria blanca
-- src: /images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-7-nueve-de-febrero-hero.webp
-  alt: Sinagoga transito toledo 7 nueve de febrero en Sinagoga transito
-- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-discover-spain-stunning-view-hero.webp
-  alt: Vista panoramica toledo discover spain stunning view en Vista panoramica toledo
-- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-village-hero.webp
-  alt: Vista panoramica toledo river running through village en Vista panoramica toledo
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
+  alt: Vista panorámica de Toledo con sus edificios históricos y la catedral al fondo
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero-hero.webp
+  alt: Interior gótico de la Catedral de Toledo con bóvedas y columnas arquitectónicas
 - src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-arc-bridge-darling-castile-mancha-hero.webp
   alt: toledo, arc, bridge, darling, castile la mancha
 - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp
   alt: Iglesia del monasterio de San Juan de los Reyes, Toledo, España
 - src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp
   alt: Toledo Puerta Bisagra 1
-- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-apse-hero.webp
-  alt: Cristo de la Luz 2025 Apse
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero-hero.webp
-  alt: Catedral Gótica de Toledo, interior con bóvedas y columnas de piedra
+- src: /images/actividades/toledo/catedral-toledo/wikimedia-163466149-hero.webp
+  alt: Vistas de Toledo con sus monumentos históricos y arquitectura medieval
 - src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
   alt: Callejón estrecho y empedrado de Toledo con fachadas históricas de piedra
-- src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/sinagoga-santa-maria-blanca-toledo-ceiling-sinagoga-transito-4-hero-hero.webp
-  alt: Bóveda decorada con motivos geométricos en la Sinagoga de Santa María la Blanca de Toledo
-- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-127579710-hero.webp
-  alt: Vista panorámica de Toledo con sus monumentos históricos y río Tajo
-- src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp
-  alt: Iglesia de Santo Tomé en Toledo con arquitectura gótica y campanario destacado
+- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-village-hero.webp
+  alt: Vista panoramica toledo river running through village en Vista panoramica toledo
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-santa-maria-int-03-hero-hero.webp
+  alt: Interior de la Catedral de Toledo con bóvedas góticas y luz natural destacando arquitectura religiosa medieval
 ratingProveedor: 4.5
 numeroOpiniones: 6033
 publicada: true

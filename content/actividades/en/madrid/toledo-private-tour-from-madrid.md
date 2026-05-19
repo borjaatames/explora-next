@@ -1,119 +1,150 @@
 ---
-titulo: "Toledo Private Tour from Madrid with Guide and Driver"
-slug: "toledo-private-tour-from-madrid"
-ciudad: "madrid"
-descripcion: "Private Toledo tour from Madrid with licensed guide and Mercedes-Benz driver. Hotel pickup included, flexible 5-to-8 hour pace at your own rhythm."
-
+titulo: Toledo Private Tour from Madrid with Guide and Driver
+slug: toledo-private-tour-from-madrid
+ciudad: madrid
+descripcion: Private Toledo tour from Madrid with licensed guide and Mercedes-Benz driver. Hotel pickup included, flexible
+  5-to-8 hour pace at your own rhythm.
 slugs:
-  en: "toledo-private-tour-from-madrid"
-  es: "excursion-toledo-tour-privado"
-
-duracion: "5 to 8 hours"
+  en: toledo-private-tour-from-madrid
+  es: excursion-toledo-tour-privado
+duracion: 5 to 8 hours
 duracionMinutos: 480
 precioDesde: 310
-moneda: "EUR"
-idiomas: ["en", "es"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Private-tour-to-Toledo-from-Madrid-with-licensed-guide-and-private-driver/d566-104043P8?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- en
+- es
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Madrid/Private-tour-to-Toledo-from-Madrid-with-licensed-guide-and-private-driver/d566-104043P8?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Private Mercedes-Benz vehicle with professional driver"
-  - "Private licensed guide in Toledo (not shared with another group)"
-  - "Hotel pickup and drop-off included (hotel, apartment, airport, station)"
-  - "Flexible duration and pace between 5 and 8 hours"
-
+- Private Mercedes-Benz vehicle with professional driver
+- Private licensed guide in Toledo (not shared with another group)
+- Hotel pickup and drop-off included (hotel, apartment, airport, station)
+- Flexible duration and pace between 5 and 8 hours
 incluye:
-  - "Private round-trip transport in Mercedes-Benz (sedan or minivan)"
-  - "Private licensed local guide in Toledo, with access to monuments"
-  - "Pickup from hotel, apartment, airport or station in Madrid"
-  - "Drop-off at the same point at the end of the day"
-
+- Private round-trip transport in Mercedes-Benz (sedan or minivan)
+- Private licensed local guide in Toledo, with access to monuments
+- Pickup from hotel, apartment, airport or station in Madrid
+- Drop-off at the same point at the end of the day
 noIncluye:
-  - "Entrance fees to museums and monuments (Cathedral, Santo Tomé, Synagogue)"
-  - "Food and drinks"
-  - "Gratuities (optional)"
-
+- Entrance fees to museums and monuments (Cathedral, Santo Tomé, Synagogue)
+- Food and drinks
+- Gratuities (optional)
 puntoEncuentro:
-  texto: "Pickup at your Madrid accommodation (hotel, apartment, airport, train or bus station)"
-  descripcionGuia: "The driver and guide pick you up at the location you specify when booking: hotel, apartment, Adolfo Suárez Madrid-Barajas Airport, Atocha or Chamartín station. You receive confirmation of the exact time and pickup point after booking."
+  texto: Pickup at your Madrid accommodation (hotel, apartment, airport, train or bus station)
+  descripcionGuia: 'The driver and guide pick you up at the location you specify when booking: hotel, apartment, Adolfo Suárez
+    Madrid-Barajas Airport, Atocha or Chamartín station. You receive confirmation of the exact time and pickup point after
+    booking.'
   latitud: 40.4168
   longitud: -3.7038
   zoom: 12
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document or passport"
-    - "Comfortable shoes (Toledo has hills and cobbled streets)"
-    - "Card to pay monument tickets at the box office (not included)"
+  - ID document or passport
+  - Comfortable shoes (Toledo has hills and cobbled streets)
+  - Card to pay monument tickets at the box office (not included)
   noAptoPara:
-    - "Travelers looking for the cheapest option (coach versions exist at €29-79)"
-    - "People with severe mobility issues (Toledo's old town is not fully accessible)"
+  - Travelers looking for the cheapest option (coach versions exist at €29-79)
+  - People with severe mobility issues (Toledo's old town is not fully accessible)
   aTenerEnCuenta:
-    - "Cathedral, Santo Tomé and Synagogue tickets are paid separately (~€12-15 per person total)"
-    - "Pricing is in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, etc."
-    - "Duration is flexible 5-8 hours, adjusted on the day to your pace"
-    - "Guide speaks English or Spanish (you choose at booking)"
-
-accesibilidad: "The Mercedes-Benz transfer makes reaching Toledo easy, but the historic centre has hills, cobbled streets and steps that limit on-foot accessibility once inside."
-
-politicaCancelacion: "Free cancellation up to 24 hours before the experience starts, with a full refund."
-
+  - Cathedral, Santo Tomé and Synagogue tickets are paid separately (~€12-15 per person total)
+  - 'Pricing is in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, etc.'
+  - Duration is flexible 5-8 hours, adjusted on the day to your pace
+  - Guide speaks English or Spanish (you choose at booking)
+accesibilidad: The Mercedes-Benz transfer makes reaching Toledo easy, but the historic centre has hills, cobbled streets and
+  steps that limit on-foot accessibility once inside.
+politicaCancelacion: Free cancellation up to 24 hours before the experience starts, with a full refund.
 preguntasFrecuentes:
-  - pregunta: "How does the pricing work?"
-    respuesta: "The product is priced in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, €930 for up to 6 pax. The car and guide are exclusively yours, never shared with other travelers. For 2 people that's €155 per person — one of the most competitive private-tour rates in Madrid for a Mercedes-Benz with licensed guide."
-  - pregunta: "Are Cathedral tickets included?"
-    respuesta: "No. The guide can accompany you inside the monuments, but the entrance fees to Cathedral, Santo Tomé and Synagogue are paid at the box office. Budget €12-15 per person for all three."
-  - pregunta: "Can they pick me up anywhere in Madrid?"
-    respuesta: "Yes. Free pickup from your hotel, apartment, Madrid-Barajas Airport, Atocha or Chamartín station. Specify the location at booking and you'll receive a time confirmation."
-  - pregunta: "What language does the guide speak?"
-    respuesta: "English or Spanish. You choose the language at booking and the guide is yours exclusively, no language alternation like on coach group tours."
-  - pregunta: "How many hours do I actually get in Toledo?"
-    respuesta: "Between 5 and 8 hours total door-to-door from Madrid. Subtracting 1 hour each way, that's 3 to 6 effective hours in Toledo depending on the format you choose. You set the pace with the guide."
-  - pregunta: "Can I cancel if something comes up?"
-    respuesta: "Yes. Free cancellation up to 24 hours before departure with full refund. After that window no refund applies."
-
+- pregunta: How does the pricing work?
+  respuesta: 'The product is priced in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, €930 for up to 6 pax.
+    The car and guide are exclusively yours, never shared with other travelers. For 2 people that''s €155 per person — one
+    of the most competitive private-tour rates in Madrid for a Mercedes-Benz with licensed guide.'
+- pregunta: Are Cathedral tickets included?
+  respuesta: No. The guide can accompany you inside the monuments, but the entrance fees to Cathedral, Santo Tomé and Synagogue
+    are paid at the box office. Budget €12-15 per person for all three.
+- pregunta: Can they pick me up anywhere in Madrid?
+  respuesta: Yes. Free pickup from your hotel, apartment, Madrid-Barajas Airport, Atocha or Chamartín station. Specify the
+    location at booking and you'll receive a time confirmation.
+- pregunta: What language does the guide speak?
+  respuesta: English or Spanish. You choose the language at booking and the guide is yours exclusively, no language alternation
+    like on coach group tours.
+- pregunta: How many hours do I actually get in Toledo?
+  respuesta: Between 5 and 8 hours total door-to-door from Madrid. Subtracting 1 hour each way, that's 3 to 6 effective hours
+    in Toledo depending on the format you choose. You set the pace with the guide.
+- pregunta: Can I cancel if something comes up?
+  respuesta: Yes. Free cancellation up to 24 hours before departure with full refund. After that window no refund applies.
 variantes:
-  - "toledo-half-day-trip-from-madrid"
-  - "toledo-full-day-from-madrid"
-  - "toledo-segovia-avila-from-madrid"
+- toledo-half-day-trip-from-madrid
+- toledo-full-day-from-madrid
+- toledo-segovia-avila-from-madrid
+opinionEditorial: 'This is the premium pick of our Toledo line-up, and the rating backs it up: 5.0 stars on 660 reviews, recommended
+  by 100% of travelers, Viator Badge of Excellence. The difference vs the coach options isn''t just the car: it''s pace, language
+  and exclusivity. The guide is yours alone in English (no alternation with Spanish), and the Mercedes-Benz driver picks you
+  up at the hotel and drops you off wherever you want at the end. For a couple with budget, a family with young kids, or a
+  group that doesn''t want a 8:00am rush to a downtown office, the format is clearly superior.
 
-opinionEditorial: |
-  This is the premium pick of our Toledo line-up, and the rating backs it up: 5.0 stars on 660 reviews, recommended by 100% of travelers, Viator Badge of Excellence. The difference vs the coach options isn't just the car: it's pace, language and exclusivity. The guide is yours alone in English (no alternation with Spanish), and the Mercedes-Benz driver picks you up at the hotel and drops you off wherever you want at the end. For a couple with budget, a family with young kids, or a group that doesn't want a 8:00am rush to a downtown office, the format is clearly superior.
 
-  The real catch is price. The fare works in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, €930 for up to 6 pax. That's €155/person as a couple, €155/person as a 4-person group — competitive for a private tour, but 5x the half-day Julià (€29) and 4x the full-day Fun&Tickets (€79). And Cathedral, Santo Tomé and Synagogue tickets (€12-15/person) are extra. If your priority is cost, another option fits better. If your priority is comfort, your own pace and a dedicated guide, this delivers.
+  The real catch is price. The fare works in 2-person blocks: €310 for up to 2 pax, €620 for up to 4 pax, €930 for up to 6
+  pax. That''s €155/person as a couple, €155/person as a 4-person group — competitive for a private tour, but 5x the half-day
+  Julià (€29) and 4x the full-day Fun&Tickets (€79). And Cathedral, Santo Tomé and Synagogue tickets (€12-15/person) are extra.
+  If your priority is cost, another option fits better. If your priority is comfort, your own pace and a dedicated guide,
+  this delivers.
 
-categoria: "excursionesDia"
-keywords: ["toledo private tour", "toledo from madrid private", "toledo guide and driver", "private day trip toledo madrid", "toledo mercedes private"]
-
-imagen: "/images/actividades/madrid/toledo/hero-alcazar.webp"
-imagenAlt: "Façade of Toledo's Alcázar with its towers and slate spires"
-
+  '
+categoria: excursionesDia
+keywords:
+- toledo private tour
+- toledo from madrid private
+- toledo guide and driver
+- private day trip toledo madrid
+- toledo mercedes private
+imagen: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-spain-tagus-river-hero.webp
+imagenAlt: Panoramic view of Toledo Spain with Tagus River and historic architecture
 galeria:
-  - src: "/images/actividades/madrid/toledo/patio-columnas.webp"
-    alt: "Renaissance courtyard with rounded arches and stone columns in Toledo"
-  - src: "/images/actividades/madrid/toledo/callejon-tipico.webp"
-    alt: "Narrow alley with carved stone reliefs in Toledo's historic centre"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Mudejar facade detail in Toledo's old town"
-
+- src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp
+  alt: Alcázar fortress northern façade in Toledo, Spain with stone architecture
+- src: /images/actividades/toledo/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero-hero.webp
+  alt: Toledo door with ornate hinge detail, traditional Spanish architecture
+- src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
+  alt: Monastery of San Juan de los Reyes in Toledo, Spain, showcasing Gothic architecture and stone facade
+- src: /images/actividades/toledo/deniz-demirci-qxkezzshu8u/deniz-demirci-qxKEzZSHu8U-unsplash-hero.webp
+  alt: Toledo city panorama with historic architecture and winding streets on hillside
+- src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
+  alt: Toledo historic cityscape with medieval architecture and cathedral overlooking river
+- src: /images/actividades/toledo/optimizacion/12-hero.webp
+  alt: Historic Toledo cityscape with medieval architecture and winding streets
+- src: /images/actividades/toledo/puente-alcantara-toledo/wikimedia-13481443-hero.webp
+  alt: Toledo medieval cityscape with historic architecture and winding streets
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
+  alt: Historic Toledo cityscape with winding medieval streets and architectural landmarks
+- src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-stone-bridge-over-river-city-hero-hero.webp
+  alt: Stone bridge crossing river with Toledo city walls and architecture in background
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
+  alt: Toledo Cathedral's Gothic facade with intricate stone carvings and ornate architectural details
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-santa-maria-int-03-hero-hero.webp
+  alt: Interior of Toledo Cathedral with ornate columns and vaulted ceiling architecture
+- src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/sinagoga-santa-maria-blanca-toledo-nave-central-hero-hero.webp
+  alt: Central nave of Sinagoga de Santa María la Blanca in Toledo with ornate arches and columns
+- src: /images/actividades/toledo/sinagoga-transito-toledo/wikimedia-22325937-hero.webp
+  alt: Toledo cityscape with medieval architecture and cathedral at sunset
+- src: /images/actividades/toledo/sinagoga-transito-toledo/wikimedia-82974449-hero.webp
+  alt: Historic Toledo cityscape with medieval architecture and Cathedral overlooking the Tagus River
 ratingProveedor: 5.0
 numeroOpiniones: 660
-
 publicada: true
 destacada: false
-fecha: "2026-05-06"
+fecha: '2026-05-06'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
 ---
 
 ## What you'll see

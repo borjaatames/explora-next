@@ -1,125 +1,156 @@
 ---
-titulo: "Toledo from Madrid with Winery Visit and Wine Tasting"
-slug: "toledo-with-winery-and-wine-tasting-from-madrid"
-ciudad: "madrid"
-descripcion: "Toledo experience with guided walk through the old town, visit to a traditional 18th-century winery and tasting of 3 wines with tapas. Recommended by 97% of travelers."
-
+titulo: Toledo from Madrid with Winery Visit and Wine Tasting
+slug: toledo-with-winery-and-wine-tasting-from-madrid
+ciudad: madrid
+descripcion: Toledo experience with guided walk through the old town, visit to a traditional 18th-century winery and tasting
+  of 3 wines with tapas. Recommended by 97% of travelers.
 slugs:
-  en: "toledo-with-winery-and-wine-tasting-from-madrid"
-  es: "excursion-toledo-vinos-tapas"
-
-duracion: "8 hours"
+  en: toledo-with-winery-and-wine-tasting-from-madrid
+  es: excursion-toledo-vinos-tapas
+duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 110
-moneda: "EUR"
-idiomas: ["en", "es"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Toledo-City-Tour-and-Winery-Experience-with-Wine-Tasting-from-Madrid/d566-6874P121?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- en
+- es
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Madrid/Toledo-City-Tour-and-Winery-Experience-with-Wine-Tasting-from-Madrid/d566-6874P121?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Visit to a traditional 18th-century winery in Bargas (near Toledo)"
-  - "Guided tasting of 3 selected wines with tapas and aperitif"
-  - "Walking tour through Toledo's old town with official guide"
-  - "Recommended by 97% of travelers (★4.9 with 2,658 reviews)"
-
+- Visit to a traditional 18th-century winery in Bargas (near Toledo)
+- Guided tasting of 3 selected wines with tapas and aperitif
+- Walking tour through Toledo's old town with official guide
+- Recommended by 97% of travelers (★4.9 with 2,658 reviews)
 incluye:
-  - "Guided visit to Toledo, the Imperial City"
-  - "Visit to an 18th-century winery in Bargas"
-  - "Tasting of 3 selected wines with tapas and aperitif"
-  - "Air-conditioned coach transport from Madrid"
-  - "Official bilingual English-Spanish guide"
-  - "Walking tour through Toledo's Jewish quarter"
-
+- Guided visit to Toledo, the Imperial City
+- Visit to an 18th-century winery in Bargas
+- Tasting of 3 selected wines with tapas and aperitif
+- Air-conditioned coach transport from Madrid
+- Official bilingual English-Spanish guide
+- Walking tour through Toledo's Jewish quarter
 noIncluye:
-  - "Main meal (the tasting is an aperitif, not a substitute for lunch)"
-  - "Entry to the Primate Cathedral (exterior visit only)"
-  - "Hotel pickup"
-  - "Gratuities"
-
+- Main meal (the tasting is an aperitif, not a substitute for lunch)
+- Entry to the Primate Cathedral (exterior visit only)
+- Hotel pickup
+- Gratuities
 puntoEncuentro:
-  texto: "Plaza de San Miguel, 7, Centro, 28005 Madrid (in front of Mercado de San Miguel)"
-  descripcionGuia: "Meeting point in front of Mercado de San Miguel. The guide will be there 15 minutes before departure. Metro Sol (L1, L2, L3) or Ópera (L2, L5, R), both 5 minutes on foot. Drop-off point: C. de Bailén, 25, next to the Royal Palace."
+  texto: Plaza de San Miguel, 7, Centro, 28005 Madrid (in front of Mercado de San Miguel)
+  descripcionGuia: 'Meeting point in front of Mercado de San Miguel. The guide will be there 15 minutes before departure.
+    Metro Sol (L1, L2, L3) or Ópera (L2, L5, R), both 5 minutes on foot. Drop-off point: C. de Bailén, 25, next to the Royal
+    Palace.'
   latitud: 40.4156
-  longitud: -3.7090
+  longitud: -3.709
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document or passport"
-    - "Comfortable shoes (Toledo has steep, cobbled streets)"
-    - "Something for lunch later: the tasting is aperitif, not a main meal"
+  - ID document or passport
+  - Comfortable shoes (Toledo has steep, cobbled streets)
+  - 'Something for lunch later: the tasting is aperitif, not a main meal'
   noAptoPara:
-    - "Minors: alcohol tasting is involved, no entry for under-18s"
-    - "People with severely reduced mobility (old town and winery have steps)"
-    - "Anyone seeking a strictly historical-cultural tour with no gastronomic component"
+  - 'Minors: alcohol tasting is involved, no entry for under-18s'
+  - People with severely reduced mobility (old town and winery have steps)
+  - Anyone seeking a strictly historical-cultural tour with no gastronomic component
   aTenerEnCuenta:
-    - "The 'tasting with tapas' is aperitif, NOT a substitute for lunch. Plan to eat on your own afterwards"
-    - "Entry to the Primate Cathedral is NOT included. Exterior visit only"
-    - "The tour is bilingual English-Spanish: the guide alternates languages for the same group"
-    - "Tour ends at C. de Bailén 25 (Royal Palace), not at the starting point"
-
-accesibilidad: "Tour not suitable for wheelchairs. The 18th-century winery typically has steps and uneven floors. Toledo's old town has steep slopes and cobbles."
-
-politicaCancelacion: "Free cancellation up to 24 hours before the experience for a full refund."
-
+  - The 'tasting with tapas' is aperitif, NOT a substitute for lunch. Plan to eat on your own afterwards
+  - Entry to the Primate Cathedral is NOT included. Exterior visit only
+  - 'The tour is bilingual English-Spanish: the guide alternates languages for the same group'
+  - Tour ends at C. de Bailén 25 (Royal Palace), not at the starting point
+accesibilidad: Tour not suitable for wheelchairs. The 18th-century winery typically has steps and uneven floors. Toledo's
+  old town has steep slopes and cobbles.
+politicaCancelacion: Free cancellation up to 24 hours before the experience for a full refund.
 preguntasFrecuentes:
-  - pregunta: "Does the wine tasting count as lunch?"
-    respuesta: "No. The tasting includes 3 selected wines with tapas and aperitif (jamón, cured meats, manchego cheese), but it's not a complete meal. The most sensible plan is to eat on your own afterwards in Toledo or bring snacks."
-  - pregunta: "How many wines are tasted?"
-    respuesta: "3 selected wines with professional explanation by the winemaker or specialised guide at the 18th-century winery in Bargas (near Toledo)."
-  - pregunta: "Which winery?"
-    respuesta: "A traditional 18th-century winery in Bargas, a few kilometres from Toledo. The operator doesn't fix a single venue because it can vary by day, but all are wineries with local production traditions."
-  - pregunta: "Is the Cathedral entry included?"
-    respuesta: "No. The tour includes an exterior visit to the Primate Cathedral with the guide's explanation, but not the interior entry. If the Cathedral interior is your priority, see the [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79) — Cathedral entry included."
-  - pregunta: "Can children come?"
-    respuesta: "No. The activity includes wine tasting and Spanish law forbids minors from entering a winery for alcohol tasting. If traveling with kids, see the [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) or the [private tour](/en/cities/madrid/activities/toledo-private-tour-from-madrid)."
-
+- pregunta: Does the wine tasting count as lunch?
+  respuesta: No. The tasting includes 3 selected wines with tapas and aperitif (jamón, cured meats, manchego cheese), but
+    it's not a complete meal. The most sensible plan is to eat on your own afterwards in Toledo or bring snacks.
+- pregunta: How many wines are tasted?
+  respuesta: 3 selected wines with professional explanation by the winemaker or specialised guide at the 18th-century winery
+    in Bargas (near Toledo).
+- pregunta: Which winery?
+  respuesta: A traditional 18th-century winery in Bargas, a few kilometres from Toledo. The operator doesn't fix a single
+    venue because it can vary by day, but all are wineries with local production traditions.
+- pregunta: Is the Cathedral entry included?
+  respuesta: No. The tour includes an exterior visit to the Primate Cathedral with the guide's explanation, but not the interior
+    entry. If the Cathedral interior is your priority, see the [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid)
+    (€79) — Cathedral entry included.
+- pregunta: Can children come?
+  respuesta: No. The activity includes wine tasting and Spanish law forbids minors from entering a winery for alcohol tasting.
+    If traveling with kids, see the [Toledo full-day](/en/cities/madrid/activities/toledo-full-day-from-madrid) or the [private
+    tour](/en/cities/madrid/activities/toledo-private-tour-from-madrid).
 variantes:
-  - "toledo-full-day-from-madrid"
-  - "toledo-half-day-trip-from-madrid"
-  - "toledo-private-tour-from-madrid"
+- toledo-full-day-from-madrid
+- toledo-half-day-trip-from-madrid
+- toledo-private-tour-from-madrid
+opinionEditorial: 'This is an excellent option if you want to step out of the standard cultural tour of Toledo and add a quality
+  gastronomic angle. The winery is 18th-century in Bargas (near Toledo) and the tasting is genuinely educational: they explain
+  the traditional production, the pairings with Manchego products, and the regional wine culture. The tapas are honest (Manchego
+  with PDO, Iberian ham, cured meats) — enough to count as a serious aperitif.
 
-opinionEditorial: |
-  This is an excellent option if you want to step out of the standard cultural tour of Toledo and add a quality gastronomic angle. The winery is 18th-century in Bargas (near Toledo) and the tasting is genuinely educational: they explain the traditional production, the pairings with Manchego products, and the regional wine culture. The tapas are honest (Manchego with PDO, Iberian ham, cured meats) — enough to count as a serious aperitif.
 
-  The product is **one of the best-rated in our Toledo catalog**: ★4.9 with 2,658 reviews (recommended by 97% of travelers). That puts it in the premium tier.
+  The product is **one of the best-rated in our Toledo catalog**: ★4.9 with 2,658 reviews (recommended by 97% of travelers).
+  That puts it in the premium tier.
 
-  What marketing won't tell you: €110 does NOT include the Cathedral interior entry. If you want to enter, that's €12-15 extra at the box office. At that total (€110 + €15) you're already close to the [full-day with Cathedral included](/en/cities/madrid/activities/toledo-full-day-from-madrid) (€79) plus a separate tasting, so this format only makes sense if the winery + Toledo combo really matters to you.
 
-  And an important detail: **the tasting is not a meal**. You'll have 3 glasses with tapas, but you'll come out genuinely hungry. Plan to eat in Toledo (€15-25 extra) after the tasting, or bring snacks.
+  What marketing won''t tell you: €110 does NOT include the Cathedral interior entry. If you want to enter, that''s €12-15
+  extra at the box office. At that total (€110 + €15) you''re already close to the [full-day with Cathedral included](/en/cities/madrid/activities/toledo-full-day-from-madrid)
+  (€79) plus a separate tasting, so this format only makes sense if the winery + Toledo combo really matters to you.
 
-categoria: "excursionesDia"
-keywords: ["toledo wine tasting tour", "toledo winery from madrid", "toledo 18th century winery", "toledo gastronomic tour", "wine tasting near toledo bargas"]
 
-imagen: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-imagenAlt: "Mudejar arch covered in ivy in a street of Toledo's Jewish quarter"
+  And an important detail: **the tasting is not a meal**. You''ll have 3 glasses with tapas, but you''ll come out genuinely
+  hungry. Plan to eat in Toledo (€15-25 extra) after the tasting, or bring snacks.
 
+  '
+categoria: excursionesDia
+keywords:
+- toledo wine tasting tour
+- toledo winery from madrid
+- toledo 18th century winery
+- toledo gastronomic tour
+- wine tasting near toledo bargas
+imagen: /images/actividades/toledo/toledo-medieval-city/toledo-medieval-city-architecture-hero-hero.webp
+imagenAlt: Medieval Toledo cityscape with historic architecture and winding cobblestone streets on hillside
 galeria:
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-    alt: "Panoramic view of Toledo's old town at sunset over the Tagus river"
-  - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "San Martín bridge in Toledo with the old town in the background"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Mudejar facade detail in Toledo's old town"
-
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
+  alt: Toledo Cathedral's Gothic architecture with detailed facade and towering spires
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
+  alt: Wine barrels stacked in a traditional Madrid winery cellar
+- src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero.webp
+  alt: Church of Santo Tomé in Toledo with historic architecture and bell tower
+- src: /images/actividades/toledo/sinagoga-transito-toledo/wikimedia-22325937-hero.webp
+  alt: Historic Toledo cityscape with medieval architecture and winding streets on hillside
+- src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
+  alt: Toledo cityscape with cathedral and historic architecture on hillside
+- src: /images/actividades/toledo/anastasia-lin-xuqkhtqphji/anastasia-lin-XuqKHtqphJI-unsplash-hero.webp
+  alt: Panoramic view of Toledo's historic hilltop city with cathedral and medieval architecture
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Wine cellar in Madrid with wooden barrels and shelves storing bottles
+- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-stone-bridge-over-river-city-hero.webp
+  alt: Stone bridge spanning river with historic city architecture in background
+- src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-10618556-hero.webp
+  alt: Toledo's historic skyline with cathedral and medieval architecture along the Tagus River
+- src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
+  alt: Monastery of San Juan de los Reyes in Toledo, Spain, exterior stone architecture
+- src: /images/actividades/toledo/dmitry-romanoff-yxf9j/dmitry-romanoff-YXf9J-bKOp4-unsplash-hero.webp
+  alt: Toledo's historic skyline with ancient architecture and medieval cathedral overlooking the city
+- src: /images/actividades/toledo/catedral-toledo/wikimedia-22995220-hero.webp
+  alt: Historic Toledo cityscape with cathedral and medieval architecture on hillside
+- src: /images/actividades/toledo/pixabay-1561698/pixabay-1561698-hero.webp
+  alt: Toledo's historic skyline with cathedral and medieval architecture at sunset
 ratingProveedor: 4.9
 numeroOpiniones: 2658
-
 publicada: true
 destacada: false
-fecha: "2026-05-06"
+fecha: '2026-05-06'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
 ---
 
 ## What you'll see
