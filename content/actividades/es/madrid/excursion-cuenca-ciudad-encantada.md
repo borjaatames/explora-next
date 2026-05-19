@@ -100,10 +100,24 @@ keywords:
 imagen: /images/actividades/cuenca/casas-colgadas/pexels-32084879-hero.webp
 imagenAlt: Río rodeado de montañas verdes y casas tradicionales en Cuenca, Ecuador
 galeria:
+- src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp
+  alt: Plaza histórica de Cuenca con arquitectura colonial española y turistas explorando
 - src: /images/actividades/cuenca/puente-san-pablo/pexels-33292983-hero.webp
   alt: Cuenca con arquitectura colonial, río y montañas al fondo
 - src: /images/actividades/cuenca/catedral-cuenca/pexels-27208543-hero.webp
   alt: Puente medieval de piedra sobre río en Cuenca con casas colgantes al fondo
+- src: /images/actividades/cuenca/ciudad-encantada/pixabay-4645475-hero.webp
+  alt: Casco antiguo de Cuenca con arquitectura colonial y río Tomebamba
+- src: /images/actividades/cuenca/ciudad-encantada/pixabay-4642730-hero.webp
+  alt: Puente colgante sobre río en Cuenca, Ecuador rodeado de vegetación verde
+- src: /images/actividades/cuenca/catedral-cuenca/pexels-27208543-hero.webp
+  alt: Vista panorámica de Cuenca con arquitectura colonial y río atravesando el valle
+- src: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
+  alt: Puente colgante sobre río en Cuenca con arquitectura histórica
+- src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp
+  alt: Paisaje urbano de Cuenca con arquitectura colonial y rio entre montañas
+- src: /images/actividades/cuenca/ciudad-encantada/pexels-2992883-hero.webp
+  alt: Catedral de Cuenca con arquitectura colonial española reflejada en río
 ratingProveedor: 4.8
 numeroOpiniones: 561
 publicada: true
