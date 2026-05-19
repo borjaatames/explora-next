@@ -1,120 +1,146 @@
 ---
-titulo: "Ávila y Segovia desde Madrid con entradas incluidas"
-slug: "excursion-avila-segovia-con-entradas"
-ciudad: "madrid"
-descripcion: "Excursión de un día a Ávila y Segovia desde Madrid con entradas a los monumentos incluidas, guía oficial, radioguía y aperitivo. Bus de ida y vuelta."
-
+titulo: Ávila y Segovia desde Madrid con entradas incluidas
+slug: excursion-avila-segovia-con-entradas
+ciudad: madrid
+descripcion: Excursión de un día a Ávila y Segovia desde Madrid con entradas a los monumentos incluidas, guía oficial, radioguía
+  y aperitivo. Bus de ida y vuelta.
 slugs:
-  es: "excursion-avila-segovia-con-entradas"
-  en: "avila-segovia-day-trip-with-tickets"
-
-duracion: "9 horas"
+  es: excursion-avila-segovia-con-entradas
+  en: avila-segovia-day-trip-with-tickets
+duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 71
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/madrid-excursion-de-un-dia-a-avila-y-segovia-con-entradas-a-monumentos-t409545/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/madrid-excursion-de-un-dia-a-avila-y-segovia-con-entradas-a-monumentos-t409545/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Entradas a los monumentos incluidas: Basílica de San Vicente, Catedral y Alcázar de Segovia"
-  - "Dos ciudades Patrimonio de la Humanidad en una sola jornada"
-  - "Bus con aire acondicionado y WiFi, con guía oficial y radioguía"
-  - "Aperitivo y bebida incluidos en la parada de Ávila"
-
+- 'Entradas a los monumentos incluidas: Basílica de San Vicente, Catedral y Alcázar de Segovia'
+- Dos ciudades Patrimonio de la Humanidad en una sola jornada
+- Bus con aire acondicionado y WiFi, con guía oficial y radioguía
+- Aperitivo y bebida incluidos en la parada de Ávila
 incluye:
-  - "Transporte en autobús con aire acondicionado y WiFi a bordo"
-  - "Guía oficial durante toda la jornada"
-  - "Radioguía con auriculares en Ávila y Segovia"
-  - "Entrada a la Basílica de San Vicente de Ávila"
-  - "Entradas a la Catedral de Segovia y al Alcázar de Segovia"
-  - "Visita a la iglesia-convento de Santa Teresa de Jesús"
-  - "Un aperitivo y una bebida en la parada de Ávila"
-
+- Transporte en autobús con aire acondicionado y WiFi a bordo
+- Guía oficial durante toda la jornada
+- Radioguía con auriculares en Ávila y Segovia
+- Entrada a la Basílica de San Vicente de Ávila
+- Entradas a la Catedral de Segovia y al Alcázar de Segovia
+- Visita a la iglesia-convento de Santa Teresa de Jesús
+- Un aperitivo y una bebida en la parada de Ávila
 noIncluye:
-  - "Almuerzo"
-  - "Propinas"
-
+- Almuerzo
+- Propinas
 puntoEncuentro:
-  texto: "Fun and Tickets, C. de San Bernardo, 7, Centro, 28015 Madrid"
-  descripcionGuia: "El punto de encuentro es la oficina de Fun and Tickets en la calle San Bernardo, 7, en el centro de Madrid. Llega 15 minutos antes de la hora de salida para el check-in. No lo confundas con otros operadores de la misma calle: busca el rótulo de Fun and Tickets."
+  texto: Fun and Tickets, C. de San Bernardo, 7, Centro, 28015 Madrid
+  descripcionGuia: 'El punto de encuentro es la oficina de Fun and Tickets en la calle San Bernardo, 7, en el centro de Madrid.
+    Llega 15 minutos antes de la hora de salida para el check-in. No lo confundas con otros operadores de la misma calle:
+    busca el rótulo de Fun and Tickets.'
   latitud: 40.4211
   longitud: -3.7082
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo: el día combina dos cascos históricos con cuestas y empedrado"
-    - "Ropa adecuada a la previsión meteorológica del día"
-    - "Dinero para el almuerzo, que no está incluido"
+  - 'Calzado cómodo: el día combina dos cascos históricos con cuestas y empedrado'
+  - Ropa adecuada a la previsión meteorológica del día
+  - Dinero para el almuerzo, que no está incluido
   noAptoPara:
-    - "Personas con movilidad reducida o en silla de ruedas"
-    - "Quien busque un ritmo pausado: la jornada es densa y va con horarios ajustados"
+  - Personas con movilidad reducida o en silla de ruedas
+  - 'Quien busque un ritmo pausado: la jornada es densa y va con horarios ajustados'
   aTenerEnCuenta:
-    - "El recorrido cubre dos ciudades en un día; el tiempo en cada monumento está medido"
-    - "El almuerzo no está incluido; hay un rato libre para comer por tu cuenta"
-    - "La visita guiada usa radioguía: te dan auriculares para seguir al guía"
-
-accesibilidad: "Excursión no recomendada para sillas de ruedas ni movilidad reducida: tanto Ávila como Segovia tienen cascos históricos con cuestas, escalones y pavimento empedrado, y el ritmo de la jornada es exigente."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo no hay reembolso."
-
+  - El recorrido cubre dos ciudades en un día; el tiempo en cada monumento está medido
+  - El almuerzo no está incluido; hay un rato libre para comer por tu cuenta
+  - 'La visita guiada usa radioguía: te dan auriculares para seguir al guía'
+accesibilidad: 'Excursión no recomendada para sillas de ruedas ni movilidad reducida: tanto Ávila como Segovia tienen cascos
+  históricos con cuestas, escalones y pavimento empedrado, y el ritmo de la jornada es exigente.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo
+  no hay reembolso.
 preguntasFrecuentes:
-  - pregunta: "¿Qué entradas a monumentos están incluidas?"
-    respuesta: "Están incluidas la entrada a la Basílica de San Vicente de Ávila, la Catedral de Segovia y el Alcázar de Segovia, además de la visita a la iglesia-convento de Santa Teresa de Jesús. Es la diferencia principal frente a la versión más económica de esta misma ruta, que se queda en los exteriores."
-  - pregunta: "¿El guía habla español?"
-    respuesta: "Sí. La excursión se ofrece en español e inglés. Según el grupo, el guía explica en directo o se usa una audioguía grabada; en ambos casos se entregan auriculares de radioguía."
-  - pregunta: "¿Cuánto tiempo se está en cada ciudad?"
-    respuesta: "La jornada dura unas 9 horas en total e incluye los desplazamientos desde Madrid. El tiempo se reparte entre Ávila y Segovia con visitas guiadas y una pausa con tiempo libre; el ritmo es ágil porque son dos ciudades en un día."
-  - pregunta: "¿Está incluida la comida?"
-    respuesta: "El almuerzo no está incluido. Sí entran un aperitivo y una bebida durante la parada en Ávila. Hay un rato libre para comer por tu cuenta; lleva algo de dinero para ello."
-  - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
-    respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución."
+- pregunta: ¿Qué entradas a monumentos están incluidas?
+  respuesta: Están incluidas la entrada a la Basílica de San Vicente de Ávila, la Catedral de Segovia y el Alcázar de Segovia,
+    además de la visita a la iglesia-convento de Santa Teresa de Jesús. Es la diferencia principal frente a la versión más
+    económica de esta misma ruta, que se queda en los exteriores.
+- pregunta: ¿El guía habla español?
+  respuesta: Sí. La excursión se ofrece en español e inglés. Según el grupo, el guía explica en directo o se usa una audioguía
+    grabada; en ambos casos se entregan auriculares de radioguía.
+- pregunta: ¿Cuánto tiempo se está en cada ciudad?
+  respuesta: La jornada dura unas 9 horas en total e incluye los desplazamientos desde Madrid. El tiempo se reparte entre
+    Ávila y Segovia con visitas guiadas y una pausa con tiempo libre; el ritmo es ágil porque son dos ciudades en un día.
+- pregunta: ¿Está incluida la comida?
+  respuesta: El almuerzo no está incluido. Sí entran un aperitivo y una bebida durante la parada en Ávila. Hay un rato libre
+    para comer por tu cuenta; lleva algo de dinero para ello.
+- pregunta: ¿Puedo cancelar si me surge un imprevisto?
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no
+    hay devolución.
+variantes:
+- excursion-avila-segovia-economica
+- excursion-avila-salamanca
+- tour-privado-avila-segovia-escorial
+opinionEditorial: 'Es la opción acertada si quieres ver Ávila y Segovia en un día sin preocuparte de comprar entradas por
+  separado. Frente a la versión "escapada" más barata, esta incluye los accesos que de verdad cuentan —la Basílica de San
+  Vicente, la Catedral y el Alcázar de Segovia— más la iglesia de Santa Teresa. Para un primer viaje a estas dos ciudades,
+  llegar con todo resuelto y un guía oficial al lado compensa el sobreprecio.
 
-variantes: ["excursion-avila-segovia-economica", "excursion-avila-salamanca", "tour-privado-avila-segovia-escorial"]
 
-opinionEditorial: |
-  Es la opción acertada si quieres ver Ávila y Segovia en un día sin preocuparte de comprar entradas por separado. Frente a la versión "escapada" más barata, esta incluye los accesos que de verdad cuentan —la Basílica de San Vicente, la Catedral y el Alcázar de Segovia— más la iglesia de Santa Teresa. Para un primer viaje a estas dos ciudades, llegar con todo resuelto y un guía oficial al lado compensa el sobreprecio.
+  Lo que el marketing no te cuenta: son dos ciudades Patrimonio de la Humanidad metidas en una jornada de 9 horas, y eso se
+  nota. La queja más repetida en las reseñas es el ritmo apresurado y el poco tiempo libre. Si viajas para pasear con calma,
+  fotografiar sin prisa y comer sin reloj, este formato te va a saber a poco; te encajará mejor dedicar un día a cada ciudad
+  por tu cuenta. Y si la movilidad es un problema, descártala: el empedrado y las cuestas de los dos cascos históricos no
+  perdonan.
 
-  Lo que el marketing no te cuenta: son dos ciudades Patrimonio de la Humanidad metidas en una jornada de 9 horas, y eso se nota. La queja más repetida en las reseñas es el ritmo apresurado y el poco tiempo libre. Si viajas para pasear con calma, fotografiar sin prisa y comer sin reloj, este formato te va a saber a poco; te encajará mejor dedicar un día a cada ciudad por tu cuenta. Y si la movilidad es un problema, descártala: el empedrado y las cuestas de los dos cascos históricos no perdonan.
-
-categoria: "excursionesDia"
-keywords: ["excursion avila y segovia desde madrid", "avila segovia un dia", "excursion avila segovia con entradas", "visitar avila y segovia", "tour avila segovia madrid"]
-
-imagen: "/images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp"
-imagenAlt: "Acueducto romano de Segovia con su doble hilera de arcos de granito"
-
+  '
+categoria: excursionesDia
+keywords:
+- excursion avila y segovia desde madrid
+- avila segovia un dia
+- excursion avila segovia con entradas
+- visitar avila y segovia
+- tour avila segovia madrid
+imagen: /images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp
+imagenAlt: Acueducto romano de Segovia con su doble hilera de arcos de granito
 galeria:
-  - src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-02-hero.webp"
-    alt: "El acueducto romano de Segovia visto desde la plaza del Azoguejo"
-  - src: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-hero.webp"
-    alt: "El Alcázar de Segovia sobre el promontorio rocoso con sus torres y chapiteles"
-  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-murallas-06-hero.webp"
-    alt: "Las murallas medievales de Ávila con sus torreones de piedra"
-  - src: "/images/actividades/madrid/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero.webp"
-    alt: "Escultura y fachada de la Catedral de Ávila en la plaza"
-  - src: "/images/actividades/madrid/avila/avila-basilica-sv-08-hero.webp"
-    alt: "Exterior de la Basílica de San Vicente de Ávila, ejemplo del románico abulense"
-  - src: "/images/actividades/madrid/segovia/segovia-cathedral-alcazar-old-town-history-hero.webp"
-    alt: "La Catedral de Segovia y el casco histórico de la ciudad"
-
+- src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp
+  alt: Castillo de Alcázar de Segovia, fortaleza medieval española con torres y muros de piedra
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
+  alt: Alcázar de Segovia con torres puntiagudas y muros de piedra bajo cielo azul
+- src: /images/actividades/madrid/muralla-avila/muralla-avila-murallas-06-hero.webp
+  alt: Las murallas medievales de Ávila con sus torreones de piedra
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
+  alt: Fortaleza medieval del Alcázar de Segovia con torres de piedra y arquitectura gótica
+- src: /images/actividades/avila/basilica-san-vicente/pexels-32979839-hero.webp
+  alt: Vistas panorámicas de la muralla medieval de Ávila con torres y ciudad antigua
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero-hero.webp
+  alt: Castillo del Alcázar de Segovia, fortaleza medieval de piedra clara en lo alto de la ciudad
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
+  alt: Alcázar de Segovia con torres de piedra y arquitectura medieval bajo cielo nublado
+- src: /images/actividades/madrid/avila/avila-basilica-sv-08-hero.webp
+  alt: Exterior de la Basílica de San Vicente de Ávila, ejemplo del románico abulense
+- src: /images/actividades/madrid/segovia/segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
+  alt: Castillo de Segovia con torres puntiagudas y arquitectura medieval bajo cielo azul
+- src: /images/actividades/avila/catedral-avila/wikimedia-38736409-hero.webp
+  alt: Murallas medievales de Ávila con torres de piedra bajo cielo azul
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-arthur-tseng-ydyizev4pqk-unsplash-hero-hero.webp
+  alt: Alcázar de Segovia con sus torres y murallas medievales bajo cielo azul
+- src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
+  alt: Muralla medieval de Ávila con torres de piedra al atardecer
+- src: /images/actividades/avila/catedral-avila/wikimedia-117794914-hero.webp
+  alt: Muralla medieval de Ávila con torres de piedra y puertas fortificadas
 ratingProveedor: 4.6
 numeroOpiniones: 4805
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
+- excursiones-desde-madrid
 ---
 
 ## Qué vas a ver

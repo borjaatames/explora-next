@@ -1,116 +1,141 @@
 ---
-titulo: "El Escorial y el Valle de los Caídos desde Madrid"
-slug: "excursion-escorial-valle-caidos"
-ciudad: "madrid"
-descripcion: "Excursión de medio día desde Madrid al Monasterio de El Escorial y al Valle de los Caídos (Cuelgamuros), con entradas incluidas y autobús de lujo."
-
+titulo: El Escorial y el Valle de los Caídos desde Madrid
+slug: excursion-escorial-valle-caidos
+ciudad: madrid
+descripcion: Excursión de medio día desde Madrid al Monasterio de El Escorial y al Valle de los Caídos (Cuelgamuros), con
+  entradas incluidas y autobús de lujo.
 slugs:
-  es: "excursion-escorial-valle-caidos"
-  en: "el-escorial-valley-fallen-day-trip"
-
-duracion: "5 horas"
+  es: excursion-escorial-valle-caidos
+  en: el-escorial-valley-fallen-day-trip
+duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 62
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Madrid/Escorial-y-Valle-de-los-Caidos-con-Tickets-Included-from-Madrid/d566-110971P4?pid=P00298823&mcid=42383&medium=link"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/es-ES/tours/Madrid/Escorial-y-Valle-de-los-Caidos-con-Tickets-Included-from-Madrid/d566-110971P4?pid=P00298823&mcid=42383&medium=link
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "El Monasterio de El Escorial (Patrimonio de la Humanidad) y el Valle de los Caídos en una mañana"
-  - "Entradas a los dos monumentos incluidas, sin colas en taquilla"
-  - "Autobús de lujo con aire acondicionado y WiFi, con guía profesional"
-  - "Salida a las 9:00 h; de vuelta en Madrid a media tarde"
-
+- El Monasterio de El Escorial (Patrimonio de la Humanidad) y el Valle de los Caídos en una mañana
+- Entradas a los dos monumentos incluidas, sin colas en taquilla
+- Autobús de lujo con aire acondicionado y WiFi, con guía profesional
+- Salida a las 9:00 h; de vuelta en Madrid a media tarde
 incluye:
-  - "Viaje en autobús de lujo con aire acondicionado y WiFi"
-  - "Guía profesional"
-  - "Entrada al Monasterio de El Escorial"
-  - "Entrada al Valle de los Caídos (Cuelgamuros)"
-
+- Viaje en autobús de lujo con aire acondicionado y WiFi
+- Guía profesional
+- Entrada al Monasterio de El Escorial
+- Entrada al Valle de los Caídos (Cuelgamuros)
 noIncluye:
-  - "Comida y bebida"
-  - "Propinas"
-
+- Comida y bebida
+- Propinas
 puntoEncuentro:
-  texto: "Fun and Tickets, C. de San Bernardo, 7, Centro, 28013 Madrid"
-  descripcionGuia: "El punto de encuentro es la oficina de Fun and Tickets en la calle San Bernardo, 7, fuera de la galería comercial. El check-in es a las 08:30 h y la salida, puntual, a las 09:00 h. Busca el rótulo de Fun and Tickets para no confundirlo con otros operadores de la calle."
+  texto: Fun and Tickets, C. de San Bernardo, 7, Centro, 28013 Madrid
+  descripcionGuia: El punto de encuentro es la oficina de Fun and Tickets en la calle San Bernardo, 7, fuera de la galería
+    comercial. El check-in es a las 08:30 h y la salida, puntual, a las 09:00 h. Busca el rótulo de Fun and Tickets para no
+    confundirlo con otros operadores de la calle.
   latitud: 40.4253
   longitud: -3.7081
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Agua y algo de picar: las paradas para refrigerio son muy cortas"
-    - "Ropa de estilo casual elegante (hay un código de vestimenta para acceder a los monumentos)"
-    - "Calzado cómodo"
+  - 'Agua y algo de picar: las paradas para refrigerio son muy cortas'
+  - Ropa de estilo casual elegante (hay un código de vestimenta para acceder a los monumentos)
+  - Calzado cómodo
   noAptoPara:
-    - "Personas en silla de ruedas: el tour no está adaptado"
-    - "Quien necesite comer a media mañana con calma: no se permite comer en el autobús y las pausas son breves"
+  - 'Personas en silla de ruedas: el tour no está adaptado'
+  - 'Quien necesite comer a media mañana con calma: no se permite comer en el autobús y las pausas son breves'
   aTenerEnCuenta:
-    - "No se permite comer dentro del autobús"
-    - "Las paradas para refrigerio son muy cortas (menos de 15 minutos); conviene llevar agua"
-    - "Hay un código de vestimenta de estilo casual elegante para entrar a los monumentos"
-
-accesibilidad: "Excursión no recomendada para sillas de ruedas: incluye recorridos a pie por el Monasterio de El Escorial y el Valle de los Caídos, con escalones y desniveles. Se requiere una condición física media."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo no hay reembolso. Disponible la opción 'Reserva ahora y paga después'."
-
+  - No se permite comer dentro del autobús
+  - Las paradas para refrigerio son muy cortas (menos de 15 minutos); conviene llevar agua
+  - Hay un código de vestimenta de estilo casual elegante para entrar a los monumentos
+accesibilidad: 'Excursión no recomendada para sillas de ruedas: incluye recorridos a pie por el Monasterio de El Escorial
+  y el Valle de los Caídos, con escalones y desniveles. Se requiere una condición física media.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo
+  no hay reembolso. Disponible la opción 'Reserva ahora y paga después'.
 preguntasFrecuentes:
-  - pregunta: "¿Qué es el Valle de los Caídos?"
-    respuesta: "Es un conjunto monumental de la sierra de Guadarrama, en el valle de Cuelgamuros, formado por una basílica católica excavada en la roca y una gran cruz. Se construyó entre 1940 y 1958 durante la dictadura franquista; en las obras participaron tanto trabajadores libres como, en parte, presos bajo el régimen de redención de penas. Hoy es monumento nacional y un lugar de visita habitual en las excursiones desde Madrid."
-  - pregunta: "¿Las entradas a los monumentos están incluidas?"
-    respuesta: "Sí. La excursión incluye la entrada al Monasterio de El Escorial y la entrada al Valle de los Caídos. No tendrás que hacer cola en taquilla ni gestionar los tickets por tu cuenta."
-  - pregunta: "¿El guía habla español?"
-    respuesta: "Sí. La excursión se ofrece en español e inglés; según el grupo, puede ir a cargo de un guía multilingüe. Hay auriculares de radioguía disponibles."
-  - pregunta: "¿Está incluida la comida?"
-    respuesta: "No. La excursión no incluye comida ni bebida, y además no se permite comer dentro del autobús. Las pausas para refrigerio son muy cortas, así que conviene llevar agua y algo de picar."
-  - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
-    respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución."
+- pregunta: ¿Qué es el Valle de los Caídos?
+  respuesta: Es un conjunto monumental de la sierra de Guadarrama, en el valle de Cuelgamuros, formado por una basílica católica
+    excavada en la roca y una gran cruz. Se construyó entre 1940 y 1958 durante la dictadura franquista; en las obras participaron
+    tanto trabajadores libres como, en parte, presos bajo el régimen de redención de penas. Hoy es monumento nacional y un
+    lugar de visita habitual en las excursiones desde Madrid.
+- pregunta: ¿Las entradas a los monumentos están incluidas?
+  respuesta: Sí. La excursión incluye la entrada al Monasterio de El Escorial y la entrada al Valle de los Caídos. No tendrás
+    que hacer cola en taquilla ni gestionar los tickets por tu cuenta.
+- pregunta: ¿El guía habla español?
+  respuesta: Sí. La excursión se ofrece en español e inglés; según el grupo, puede ir a cargo de un guía multilingüe. Hay
+    auriculares de radioguía disponibles.
+- pregunta: ¿Está incluida la comida?
+  respuesta: No. La excursión no incluye comida ni bebida, y además no se permite comer dentro del autobús. Las pausas para
+    refrigerio son muy cortas, así que conviene llevar agua y algo de picar.
+- pregunta: ¿Puedo cancelar si me surge un imprevisto?
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no
+    hay devolución.
+variantes:
+- tour-privado-avila-segovia-escorial
+- excursion-avila-segovia-con-entradas
+- excursion-segovia-catedral-alcazar
+opinionEditorial: 'Es la opción acertada si quieres ver El Escorial por dentro y conocer el Valle de los Caídos sin organizar
+  transporte por tu cuenta, dos sitios mal conectados con transporte público. En media mañana resuelves los dos, con las entradas
+  incluidas y un operador con más de 2.700 reseñas a 4,8. La salida es a las 9:00 y vuelves a Madrid a media tarde, así que
+  te queda el resto del día libre.
 
-variantes: ["tour-privado-avila-segovia-escorial", "excursion-avila-segovia-con-entradas", "excursion-segovia-catedral-alcazar"]
 
-opinionEditorial: |
-  Es la opción acertada si quieres ver El Escorial por dentro y conocer el Valle de los Caídos sin organizar transporte por tu cuenta, dos sitios mal conectados con transporte público. En media mañana resuelves los dos, con las entradas incluidas y un operador con más de 2.700 reseñas a 4,8. La salida es a las 9:00 y vuelves a Madrid a media tarde, así que te queda el resto del día libre.
+  Lo que el marketing no te cuenta: el ritmo es ajustado. No se puede comer en el autobús y las paradas de refrigerio son
+  muy cortas —menos de 15 minutos según las reseñas—, así que si viajas con niños o necesitas comer con calma, lleva agua
+  y algo de picar y cuéntalo de antemano. Hay además un código de vestimenta casual elegante para entrar a los monumentos.
+  Y sobre el Valle de los Caídos: es un lugar con una historia que despierta opiniones encontradas en España; lo cuento como
+  dato para que decidas con la información delante. No es accesible en silla de ruedas.
 
-  Lo que el marketing no te cuenta: el ritmo es ajustado. No se puede comer en el autobús y las paradas de refrigerio son muy cortas —menos de 15 minutos según las reseñas—, así que si viajas con niños o necesitas comer con calma, lleva agua y algo de picar y cuéntalo de antemano. Hay además un código de vestimenta casual elegante para entrar a los monumentos. Y sobre el Valle de los Caídos: es un lugar con una historia que despierta opiniones encontradas en España; lo cuento como dato para que decidas con la información delante. No es accesible en silla de ruedas.
-
-categoria: "excursionesDia"
-keywords: ["excursion el escorial desde madrid", "tour valle de los caidos", "monasterio escorial entradas", "excursion escorial valle caidos", "visitar el escorial desde madrid"]
-
-imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp"
-imagenAlt: "Fachada del Monasterio de El Escorial vista desde los jardines bajo cielo despejado"
-
+  '
+categoria: excursionesDia
+keywords:
+- excursion el escorial desde madrid
+- tour valle de los caidos
+- monasterio escorial entradas
+- excursion escorial valle caidos
+- visitar el escorial desde madrid
+imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
+imagenAlt: Fachada principal del Monasterio de El Escorial en Madrid, arquitectura renacentista con torres y claustros
 galeria:
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp"
-    alt: "El Monasterio de El Escorial, palacio y panteón real de los Austrias"
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp"
-    alt: "La biblioteca del Monasterio de El Escorial con sus frescos en la bóveda"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
-    alt: "Claustro del Monasterio de El Escorial"
-  - src: "/images/actividades/madrid/valle-caidos/valle-caidos-pontifical-basilica-holy-cross-hero.webp"
-    alt: "La basílica del Valle de los Caídos en la sierra de Guadarrama"
-  - src: "/images/actividades/madrid/valle-caidos/valle-caidos-santa-cruz-main-entrance-hero.webp"
-    alt: "Entrada principal de la basílica del Valle de los Caídos"
-
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-intricate-ceiling-art-library-2-hero-hero.webp
+  alt: Techo ornamentado con frescos artísticos en la biblioteca del Monasterio del Escorial, Madrid
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp
+  alt: Abadía de Santa Cruz del Valle de los Caídos en la Comunidad de Madrid
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
+  alt: Fachada del Monasterio de El Escorial vista desde los jardines bajo cielo despejado
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-san-lorenzo-spain-hero-hero.webp
+  alt: Estatua de San Lorenzo en el Monasterio de El Escorial, Madrid
+- src: /images/actividades/madrid/valle-caidos/wikimedia-36777472-hero.webp
+  alt: Plaza Mayor de Madrid con arquitectura histórica y personas paseando
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp
+  alt: El Monasterio de El Escorial, palacio y panteón real de los Austrias
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp
+  alt: La biblioteca del Monasterio de El Escorial con sus frescos en la bóveda
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp
+  alt: Claustro del Monasterio de El Escorial
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-pontifical-basilica-holy-cross-hero.webp
+  alt: La basílica del Valle de los Caídos en la sierra de Guadarrama
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-santa-cruz-main-entrance-hero.webp
+  alt: Entrada principal de la basílica del Valle de los Caídos
+- src: /images/actividades/madrid/valle-caidos/wikimedia-3331940-hero.webp
+  alt: Panorámica de Madrid con la Catedral de la Almudena y edificios históricos al atardecer
 ratingProveedor: 4.8
 numeroOpiniones: 2706
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "escorial"
+- excursiones-desde-madrid
+- escorial
 ---
 
 ## Qué vas a ver
