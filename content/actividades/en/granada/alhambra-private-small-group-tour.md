@@ -1,112 +1,143 @@
 ---
-titulo: "Alhambra Small-Group or Private Skip-the-Line Tour"
-slug: "alhambra-private-small-group-tour"
-ciudad: "granada"
-descripcion: "A 3-hour Alhambra tour in a small group or private, skip-the-line, with a guide and guaranteed entry to the Nasrid Palaces. The booking is non-refundable."
-
+titulo: Alhambra Small-Group or Private Skip-the-Line Tour
+slug: alhambra-private-small-group-tour
+ciudad: granada
+descripcion: A 3-hour Alhambra tour in a small group or private, skip-the-line, with a guide and guaranteed entry to the Nasrid
+  Palaces. The booking is non-refundable.
 slugs:
-  en: "alhambra-private-small-group-tour"
-  es: "alhambra-privada-grupo-pequeno"
-
-duracion: "3 hours"
+  en: alhambra-private-small-group-tour
+  es: alhambra-privada-grupo-pequeno
+duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 89
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Granada/Alhambra-Private-Small-Group-Tour-and-Nasrid-Palaces-Skip-the-Line/d554-3443CITALHVIA?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Granada/Alhambra-Private-Small-Group-Tour-and-Nasrid-Palaces-Skip-the-Line/d554-3443CITALHVIA?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: false
-
 highlights:
-  - "Choose between a small-group option or a private one for your group"
-  - "Skip-the-line, guaranteed access to the entire Alhambra complex"
-  - "Group of a maximum of 15 people"
-  - "Local guide covering the Nasrid Palaces, the Alcazaba and the Generalife"
-
+- Choose between a small-group option or a private one for your group
+- Skip-the-line, guaranteed access to the entire Alhambra complex
+- Group of a maximum of 15 people
+- Local guide covering the Nasrid Palaces, the Alcazaba and the Generalife
 incluye:
-  - "Local guide (private if you choose the private option)"
-  - "Guaranteed skip-the-line entry to the entire Alhambra complex, including the Nasrid Palaces"
-
+- Local guide (private if you choose the private option)
+- Guaranteed skip-the-line entry to the entire Alhambra complex, including the Nasrid Palaces
 noIncluye:
-  - "Headsets"
-  - "Transport"
-  - "Food and drinks"
-
+- Headsets
+- Transport
+- Food and drinks
 puntoEncuentro:
-  texto: "P.º de la Sabica, 15, 18009 Granada (Welcome Visitor Center, next to the Hotel Guadalupe)"
-  descripcionGuia: "The meeting point is the Welcome Visitor Center, on Paseo de la Sabica, next to the Hotel Guadalupe. If the operator needs to change the start time, it notifies the traveller the day before the tour. Arrive 15 minutes early."
+  texto: P.º de la Sabica, 15, 18009 Granada (Welcome Visitor Center, next to the Hotel Guadalupe)
+  descripcionGuia: The meeting point is the Welcome Visitor Center, on Paseo de la Sabica, next to the Hotel Guadalupe. If
+    the operator needs to change the start time, it notifies the traveller the day before the tour. Arrive 15 minutes early.
   latitud: 37.1748
   longitud: -3.5875
   zoom: 16
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Original passport or ID card (mandatory for entry)"
-    - "Comfortable shoes: it is around 3 hours on foot over uneven ground"
-    - "Water and sun protection in the warmer months"
+  - Original passport or ID card (mandatory for entry)
+  - 'Comfortable shoes: it is around 3 hours on foot over uneven ground'
+  - Water and sun protection in the warmer months
   noAptoPara:
-    - "Anyone after an intimate experience on the small-group option: it can be up to 15 people"
+  - 'Anyone after an intimate experience on the small-group option: it can be up to 15 people'
   aTenerEnCuenta:
-    - "The booking is NON-REFUNDABLE: it cannot be cancelled or changed for any reason"
-    - "The Alhambra requires the full name and passport details of every participant at booking; without them access can be denied"
-    - "The actual duration can range from 2.5 to 3 hours depending on the group's pace"
-
-accesibilidad: "The operator states that the activity is adapted for wheelchair users, with adapted surfaces and transport, and that it is accessible for prams. Even so, the Alhambra grounds have uneven terrain: if you need accessibility, confirm with the operator before booking."
-
-politicaCancelacion: "This experience is NON-REFUNDABLE. It cannot be cancelled or changed for any reason: if you cancel or request a change, the amount paid is not returned. This is the operator's condition due to the strict policy of the Alhambra's governing board. If you need to be able to cancel, check the comparison for options with free cancellation."
-
+  - 'The booking is NON-REFUNDABLE: it cannot be cancelled or changed for any reason'
+  - The Alhambra requires the full name and passport details of every participant at booking; without them access can be denied
+  - The actual duration can range from 2.5 to 3 hours depending on the group's pace
+accesibilidad: 'The operator states that the activity is adapted for wheelchair users, with adapted surfaces and transport,
+  and that it is accessible for prams. Even so, the Alhambra grounds have uneven terrain: if you need accessibility, confirm
+  with the operator before booking.'
+politicaCancelacion: 'This experience is NON-REFUNDABLE. It cannot be cancelled or changed for any reason: if you cancel or
+  request a change, the amount paid is not returned. This is the operator''s condition due to the strict policy of the Alhambra''s
+  governing board. If you need to be able to cancel, check the comparison for options with free cancellation.'
 preguntasFrecuentes:
-  - pregunta: "Can I cancel if something comes up?"
-    respuesta: "No. This booking is non-refundable: it allows no cancellation or changes for any reason, and the amount paid is not returned. Be clear on this before booking. If you need flexibility, the comparison has Alhambra options with free cancellation."
-  - pregunta: "What is the difference between the small-group option and the private one?"
-    respuesta: "On the small-group option you share the guide with other travellers, up to a maximum of 15 people. On the private option, the guide is just for your group. The private option costs more, but you gain in pace and closeness."
-  - pregunta: "What details do I have to provide at booking?"
-    respuesta: "The Alhambra requires the full name and passport details of every participant at the time of booking. It is a critical warning from the operator: without those details, the Alhambra can deny access. On the day of the visit you must bring the original document."
-  - pregunta: "How long is the visit?"
-    respuesta: "It is scheduled for around 3 hours, though the actual duration can run from 2.5 to 3 hours depending on the group's pace. It covers the Palace of Charles V, the Nasrid Palaces and the Generalife."
-  - pregunta: "Does it include headsets?"
-    respuesta: "No. This visit does not include headsets or an audio system: the guide explains live. In a group of up to 15 people it is usually easy to hear, but it is worth keeping in mind."
+- pregunta: Can I cancel if something comes up?
+  respuesta: 'No. This booking is non-refundable: it allows no cancellation or changes for any reason, and the amount paid
+    is not returned. Be clear on this before booking. If you need flexibility, the comparison has Alhambra options with free
+    cancellation.'
+- pregunta: What is the difference between the small-group option and the private one?
+  respuesta: On the small-group option you share the guide with other travellers, up to a maximum of 15 people. On the private
+    option, the guide is just for your group. The private option costs more, but you gain in pace and closeness.
+- pregunta: What details do I have to provide at booking?
+  respuesta: 'The Alhambra requires the full name and passport details of every participant at the time of booking. It is
+    a critical warning from the operator: without those details, the Alhambra can deny access. On the day of the visit you
+    must bring the original document.'
+- pregunta: How long is the visit?
+  respuesta: It is scheduled for around 3 hours, though the actual duration can run from 2.5 to 3 hours depending on the group's
+    pace. It covers the Palace of Charles V, the Nasrid Palaces and the Generalife.
+- pregunta: Does it include headsets?
+  respuesta: 'No. This visit does not include headsets or an audio system: the guide explains live. In a group of up to 15
+    people it is usually easy to hear, but it is worth keeping in mind.'
+variantes:
+- alhambra-private-tour-arabic-guide
+- alhambra-generalife-small-group-tour
+- alhambra-private-tour
+opinionEditorial: 'This is a flexible option in terms of format: with the same booking you can choose a small group (up to
+  15 people) or private for your group. Entry to the entire complex is guaranteed and skip-the-line, and the operator has
+  a decent review volume (925) with a fair 4.6.
 
-variantes: ["alhambra-private-tour-arabic-guide", "alhambra-generalife-small-group-tour", "alhambra-private-tour"]
 
-opinionEditorial: |
-  This is a flexible option in terms of format: with the same booking you can choose a small group (up to 15 people) or private for your group. Entry to the entire complex is guaranteed and skip-the-line, and the operator has a decent review volume (925) with a fair 4.6.
+  What you need to know before booking: the booking is NON-REFUNDABLE — zero refund if you cancel or change. If your plans
+  could shift, look at the options with free cancellation in the comparison (there is in fact a private Alhambra tour that
+  does have it). Two more details: the operator does NOT include headsets, so on the group option you depend on hearing the
+  guide live; and it warns prominently that you must provide the passport details of all participants at booking, without
+  which the Alhambra can deny access. With that sorted, it delivers.
 
-  What you need to know before booking: the booking is NON-REFUNDABLE — zero refund if you cancel or change. If your plans could shift, look at the options with free cancellation in the comparison (there is in fact a private Alhambra tour that does have it). Two more details: the operator does NOT include headsets, so on the group option you depend on hearing the guide live; and it warns prominently that you must provide the passport details of all participants at booking, without which the Alhambra can deny access. With that sorted, it delivers.
-
-categoria: "visitasGuiadas"
-keywords: ["alhambra small group tour", "alhambra private tour", "alhambra skip the line", "nasrid palaces granada", "alhambra tickets granada"]
-
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"
-imagenAlt: "Carved stucco ceiling in a hall of the Court of the Lions of the Alhambra"
-
+  '
+categoria: visitasGuiadas
+keywords:
+- alhambra small group tour
+- alhambra private tour
+- alhambra skip the line
+- nasrid palaces granada
+- alhambra tickets granada
+imagen: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
+imagenAlt: Granada's historic architecture with narrow streets and traditional buildings
 galeria:
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp"
-    alt: "Pavilion of the Court of the Lions of the Alhambra of Granada"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
-    alt: "The Palace of Charles V and the Alhambra at dawn"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
-    alt: "The Alcazaba of the Alhambra with its towers over Granada"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
-    alt: "The Generalife gardens with their water channels and greenery"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp"
-    alt: "Carved plaster arches of the Nasrid Palaces of the Alhambra"
-
+- src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp
+  alt: Granada street view with historic architecture and narrow cobblestone pathways
+- src: /images/actividades/granada/palacios-nazaries/pixabay-3150862-hero.webp
+  alt: Granada's historic architecture and narrow streets in old quarter
+- src: /images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp
+  alt: Carved stucco ceiling in a hall of the Court of the Lions of the Alhambra
+- src: /images/actividades/granada/palacios-nazaries/pexels-37387057-hero.webp
+  alt: Granada's historic architecture with traditional whitewashed buildings and terracotta roofs
+- src: /images/actividades/granada/palacios-nazaries/pexels-34369631-hero.webp
+  alt: Granada's historic streets and traditional architecture in golden afternoon light
+- src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
+  alt: Granada cityscape with historic architecture and mountain backdrop
+- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
+  alt: Granada's historic architecture and street landscape
+- src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
+  alt: Pavilion of the Court of the Lions of the Alhambra of Granada
+- src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
+  alt: Granada cityscape with historic architecture and narrow streets
+- src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
+  alt: Granada's historic architecture with traditional buildings and narrow streets
+- src: /images/actividades/granada/palacios-nazaries/pexels-36046525-hero.webp
+  alt: Granada historic architecture with Moorish influence and traditional Spanish buildings
+- src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
+  alt: Granada's historic streets with traditional white buildings and architecture
+- src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
+  alt: Granada cityscape with historic architecture and mountains in background
+- src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
+  alt: Granada cityscape with historic architecture and mountain backdrop
 ratingProveedor: 4.6
 numeroOpiniones: 925
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 atraccionesRelacionadas:
-  - "alhambra"
+- alhambra
 ---
 
 ## What you'll see
