@@ -118,30 +118,32 @@ imagenAlt: Segovia - Alcázar de Segovia 22
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero-hero.webp
   alt: Fortaleza del Alcázar de Toledo, imponente construcción medieval en la ciudad española
+- src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp
+  alt: Fachada norte del Alcázar de Toledo con arquitectura medieval en piedra, España
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp
   alt: Aqueduct of Segovia 06
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp
-  alt: FP Toledo Cathedral 2025 04
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
   alt: alcazar of segovia, castle, segovia, fortress, architecture
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Fortaleza del Alcázar de Segovia con torres y murallas medievales en vista frontal
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp
-  alt: Catedral de Toledo - Toledo 01
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
-  alt: Alcázar de Segovia con torres de defensa y arquitectura medieval sobre acantilado rocoso
-- src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-striking-view-gothic-architecture-hero.webp
-  alt: Calles historicas toledo striking view gothic architecture en Calles historicas toledo
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia, imponente fortaleza medieval con torres puntiagudas sobre colina rocosa
-- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-xx4HqF5gWhE-hero.webp
-  alt: Vistas panorámicas de Toledo con sus monumentos históricos y arquitectura medieval
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
   alt: Catedral Metropolitana de Toledo con arquitectura gótica y torre campanario al atardecer
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
+  alt: Fortaleza del Alcázar de Segovia con torres y murallas medievales en vista frontal
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
+  alt: Alcázar de Segovia con torres de defensa y arquitectura medieval sobre acantilado rocoso
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
   alt: Acueducto de Segovia visto desde la Plaza de la Artillería, monumento romano en la ciudad
+- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
+  alt: Vistas panorámicas de Toledo con arquitectura medieval y río Tajo al atardecer
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
+  alt: Alcázar de Segovia, imponente fortaleza medieval con torres puntiagudas sobre colina rocosa
+- src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp
+  alt: Vista aérea de Toledo con sus monumentos históricos y río Tajo
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
   alt: Alcázar de Segovia con torres y murallas medievales bajo cielo azul
+- src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
+  alt: Fachada gótica del Monasterio de San Juan de los Reyes en Toledo, España, con arcos y detalles arquitectónicos medievale
+- src: /images/actividades/toledo/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-septentrional-hero-hero.webp
+  alt: Puerta con bisagra en la nueva fachada septentrional de Toledo
 ratingProveedor: 4.5
 numeroOpiniones: 856
 publicada: true

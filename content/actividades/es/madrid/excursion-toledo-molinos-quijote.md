@@ -1,151 +1,173 @@
 ---
-titulo: "Excursión a Toledo y Molinos del Quijote desde Madrid con almuerzo"
-slug: "excursion-toledo-molinos-quijote"
-ciudad: "madrid"
-descripcion: "Excursión combinada Toledo + Consuegra (los molinos de Don Quijote de Cervantes) con almuerzo en grupo pequeño. Operador autorizado oficial con sello Distintivo de Excelencia."
-
+titulo: Excursión a Toledo y Molinos del Quijote desde Madrid con almuerzo
+slug: excursion-toledo-molinos-quijote
+ciudad: madrid
+descripcion: Excursión combinada Toledo + Consuegra (los molinos de Don Quijote de Cervantes) con almuerzo en grupo pequeño.
+  Operador autorizado oficial con sello Distintivo de Excelencia.
 slugs:
-  es: "excursion-toledo-molinos-quijote"
-  en: "toledo-and-don-quixote-windmills-from-madrid"
-
-duracion: "9 horas"
+  es: excursion-toledo-molinos-quijote
+  en: toledo-and-don-quixote-windmills-from-madrid
+duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 120
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Madrid/Tour-the-Windmills-of-Don-Quixote-de-la-Mancha-and-Toledo-with-Lunch/d566-379928P1?pid=P00298823&mcid=42383&medium=link"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/es-ES/tours/Madrid/Tour-the-Windmills-of-Don-Quixote-de-la-Mancha-and-Toledo-with-Lunch/d566-379928P1?pid=P00298823&mcid=42383&medium=link
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "12 molinos de viento del Cerro Calderico de Consuegra (los del Quijote de Cervantes)"
-  - "Tour por Toledo con tiempo libre y Mirador del Valle"
-  - "Almuerzo de productos ibéricos de bellota incluido (degustación premium)"
-  - "Grupo pequeño 4-14 personas con tour operator oficial autorizado de Consuegra"
-  - "Recomendado por el 99% de los viajeros (★4,9 con 223 opiniones)"
-
+- 12 molinos de viento del Cerro Calderico de Consuegra (los del Quijote de Cervantes)
+- Tour por Toledo con tiempo libre y Mirador del Valle
+- Almuerzo de productos ibéricos de bellota incluido (degustación premium)
+- Grupo pequeño 4-14 personas con tour operator oficial autorizado de Consuegra
+- Recomendado por el 99% de los viajeros (★4,9 con 223 opiniones)
 incluye:
-  - "Transporte en vehículo de lujo desde Madrid (Wi-Fi, aire acondicionado)"
-  - "Guía oficial bilingüe español-inglés"
-  - "Tour por los molinos de Consuegra (Cerro Calderico)"
-  - "Entrada al Molino de Viento Rucio"
-  - "Almuerzo: jamón ibérico de bellota, lomo ibérico, patatera, manchego DOP, pan, 2 consumiciones"
-  - "Tour a pie por el casco antiguo de Toledo"
-  - "Parada en el Mirador del Valle de Toledo"
-
+- Transporte en vehículo de lujo desde Madrid (Wi-Fi, aire acondicionado)
+- Guía oficial bilingüe español-inglés
+- Tour por los molinos de Consuegra (Cerro Calderico)
+- Entrada al Molino de Viento Rucio
+- 'Almuerzo: jamón ibérico de bellota, lomo ibérico, patatera, manchego DOP, pan, 2 consumiciones'
+- Tour a pie por el casco antiguo de Toledo
+- Parada en el Mirador del Valle de Toledo
 noIncluye:
-  - "Entradas a monumentos de Toledo (Catedral, Sinagogas, Santo Tomé)"
-  - "Recogida en hotel"
-  - "Propinas"
-
+- Entradas a monumentos de Toledo (Catedral, Sinagogas, Santo Tomé)
+- Recogida en hotel
+- Propinas
 puntoEncuentro:
-  texto: "C. de Montalbán, 2, Retiro, 28014 Madrid (200m de la Plaza de Cibeles)"
-  descripcionGuia: "Punto de encuentro en C. de Montalbán 2, a 200 metros de la Plaza de Cibeles. Hay que estar 15 minutos antes de la hora de salida (10:00). Metro Banco de España (L2) o Retiro (L2), ambos a menos de 5 minutos andando."
+  texto: C. de Montalbán, 2, Retiro, 28014 Madrid (200m de la Plaza de Cibeles)
+  descripcionGuia: Punto de encuentro en C. de Montalbán 2, a 200 metros de la Plaza de Cibeles. Hay que estar 15 minutos
+    antes de la hora de salida (10:00). Metro Banco de España (L2) o Retiro (L2), ambos a menos de 5 minutos andando.
   latitud: 40.4189
   longitud: -3.6925
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Documento de identidad o pasaporte"
-    - "Calzado cómodo (Cerro Calderico tiene terreno irregular y Toledo tiene cuestas)"
-    - "Agua: la Mancha es un sitio caluroso y soleado en verano"
-    - "Para vegetarianos/celíacos: avisar al reservar (la degustación incluye productos ibéricos)"
+  - Documento de identidad o pasaporte
+  - Calzado cómodo (Cerro Calderico tiene terreno irregular y Toledo tiene cuestas)
+  - 'Agua: la Mancha es un sitio caluroso y soleado en verano'
+  - 'Para vegetarianos/celíacos: avisar al reservar (la degustación incluye productos ibéricos)'
   noAptoPara:
-    - "Personas con movilidad muy reducida (Cerro Calderico tiene cuestas y terreno irregular)"
-    - "Vegetarianos estrictos sin opción alternativa: el almuerzo es degustación de jamón ibérico (avisar al reservar)"
-    - "Quien busca solo Toledo sin parada en La Mancha"
+  - Personas con movilidad muy reducida (Cerro Calderico tiene cuestas y terreno irregular)
+  - 'Vegetarianos estrictos sin opción alternativa: el almuerzo es degustación de jamón ibérico (avisar al reservar)'
+  - Quien busca solo Toledo sin parada en La Mancha
   aTenerEnCuenta:
-    - "Es un tour de día completo (9 horas) con SALIDA TARDÍA a las 10:00 (más relajado que otros tours)"
-    - "Grupo pequeño máximo 14 personas en vehículo de lujo (no autobús masivo)"
-    - "El operador es Agiday Experience, oficial autorizado de los Molinos de Consuegra"
-    - "Las entradas a monumentos de Toledo NO están incluidas (solo tiempo libre durante 2 horas)"
-    - "El almuerzo es degustación de productos ibéricos extremeños premium, no menú a la carta"
-
-accesibilidad: "Tour no recomendado para sillas de ruedas. El Cerro Calderico de Consuegra tiene terreno irregular con piedras y cuestas. El casco antiguo de Toledo tiene cuestas pronunciadas y empedrado."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo."
-
+  - Es un tour de día completo (9 horas) con SALIDA TARDÍA a las 10:00 (más relajado que otros tours)
+  - Grupo pequeño máximo 14 personas en vehículo de lujo (no autobús masivo)
+  - El operador es Agiday Experience, oficial autorizado de los Molinos de Consuegra
+  - Las entradas a monumentos de Toledo NO están incluidas (solo tiempo libre durante 2 horas)
+  - El almuerzo es degustación de productos ibéricos extremeños premium, no menú a la carta
+accesibilidad: Tour no recomendado para sillas de ruedas. El Cerro Calderico de Consuegra tiene terreno irregular con piedras
+  y cuestas. El casco antiguo de Toledo tiene cuestas pronunciadas y empedrado.
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo.
 preguntasFrecuentes:
-  - pregunta: "¿Por qué se llaman 'molinos del Quijote'?"
-    respuesta: "Porque son los que inspiraron a Miguel de Cervantes para el famoso pasaje de Don Quijote contra los gigantes en su novela del siglo XVII. El Cerro Calderico de Consuegra tiene 12 molinos de viento blancos del siglo XIX que conforman uno de los iconos más reconocibles de España."
-  - pregunta: "¿Está incluida la entrada a la Catedral de Toledo?"
-    respuesta: "No. Este tour se centra en los Molinos de Consuegra + tour exterior por Toledo. Tienes 2 horas libres en Toledo donde puedes entrar a la Catedral pagando 12-15€ in situ. Si la Catedral por dentro es prioridad, mira el [Toledo día completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo)."
-  - pregunta: "¿Qué incluye exactamente el almuerzo?"
-    respuesta: "Una degustación de productos ibéricos extremeños premium: jamón ibérico de bellota, lomo ibérico de bellota, patatera ibérica, tomate de huerta con aceite virgen extra, selección de quesos manchegos, pan y 2 consumiciones. No es menú a la carta, sino degustación tipo aperitivo abundante."
-  - pregunta: "¿Cuántas personas en el grupo?"
-    respuesta: "Mínimo 4 y máximo 14 personas. El operador usa vehículo de lujo (no autobús masivo), lo que mantiene el ambiente íntimo y permite mejor explicación del guía. Con 14 personas el coche aún se siente confortable."
-  - pregunta: "¿Por qué este tour es más caro que otros tours a Toledo?"
-    respuesta: "Por 4 razones: vehículo de lujo (no autobús grande), grupo pequeño máximo 14, almuerzo de productos premium incluido, y operador oficial autorizado de Consuegra (sello Distintivo de Excelencia con ★4,9). Es un producto premium con calidad consistente, no un tour bus genérico."
-
+- pregunta: ¿Por qué se llaman 'molinos del Quijote'?
+  respuesta: Porque son los que inspiraron a Miguel de Cervantes para el famoso pasaje de Don Quijote contra los gigantes
+    en su novela del siglo XVII. El Cerro Calderico de Consuegra tiene 12 molinos de viento blancos del siglo XIX que conforman
+    uno de los iconos más reconocibles de España.
+- pregunta: ¿Está incluida la entrada a la Catedral de Toledo?
+  respuesta: No. Este tour se centra en los Molinos de Consuegra + tour exterior por Toledo. Tienes 2 horas libres en Toledo
+    donde puedes entrar a la Catedral pagando 12-15€ in situ. Si la Catedral por dentro es prioridad, mira el [Toledo día
+    completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo).
+- pregunta: ¿Qué incluye exactamente el almuerzo?
+  respuesta: 'Una degustación de productos ibéricos extremeños premium: jamón ibérico de bellota, lomo ibérico de bellota,
+    patatera ibérica, tomate de huerta con aceite virgen extra, selección de quesos manchegos, pan y 2 consumiciones. No es
+    menú a la carta, sino degustación tipo aperitivo abundante.'
+- pregunta: ¿Cuántas personas en el grupo?
+  respuesta: Mínimo 4 y máximo 14 personas. El operador usa vehículo de lujo (no autobús masivo), lo que mantiene el ambiente
+    íntimo y permite mejor explicación del guía. Con 14 personas el coche aún se siente confortable.
+- pregunta: ¿Por qué este tour es más caro que otros tours a Toledo?
+  respuesta: 'Por 4 razones: vehículo de lujo (no autobús grande), grupo pequeño máximo 14, almuerzo de productos premium
+    incluido, y operador oficial autorizado de Consuegra (sello Distintivo de Excelencia con ★4,9). Es un producto premium
+    con calidad consistente, no un tour bus genérico.'
 variantes:
-  - "excursion-toledo-dia-completo"
-  - "excursion-toledo-segovia-avila"
-  - "excursion-toledo-vinos-tapas"
+- excursion-toledo-dia-completo
+- excursion-toledo-segovia-avila
+- excursion-toledo-vinos-tapas
+opinionEditorial: 'Es uno de los tours mejor valorados del catálogo Toledo: **★4,9 con 223 opiniones** (recomendado por el
+  99% de los viajeros) y sello "Distintivo de Excelencia" de Viator. La diferencia con los tours en bus tradicionales es notable:
+  vehículo de lujo, grupo máximo 14 personas, almuerzo de productos ibéricos premium incluido, y operador oficial autorizado
+  de los Molinos de Consuegra.
 
-opinionEditorial: |
-  Es uno de los tours mejor valorados del catálogo Toledo: **★4,9 con 223 opiniones** (recomendado por el 99% de los viajeros) y sello "Distintivo de Excelencia" de Viator. La diferencia con los tours en bus tradicionales es notable: vehículo de lujo, grupo máximo 14 personas, almuerzo de productos ibéricos premium incluido, y operador oficial autorizado de los Molinos de Consuegra.
 
-  El plan combina **dos iconos**: el casco antiguo de Toledo (UNESCO) y los **12 molinos del Cerro Calderico de Consuegra**, los que inspiraron a Cervantes para Don Quijote. Si te gusta la literatura clásica española o la fotografía de paisajes, los molinos son uno de los iconos más espectaculares de la Mancha. Está a 1h 30min de Madrid (más lejos que Toledo, que está a 1h).
+  El plan combina **dos iconos**: el casco antiguo de Toledo (UNESCO) y los **12 molinos del Cerro Calderico de Consuegra**,
+  los que inspiraron a Cervantes para Don Quijote. Si te gusta la literatura clásica española o la fotografía de paisajes,
+  los molinos son uno de los iconos más espectaculares de la Mancha. Está a 1h 30min de Madrid (más lejos que Toledo, que
+  está a 1h).
 
-  Lo que el marketing sí te dice y se cumple: el operador es **Agiday Experience**, oficial autorizado por el Ayuntamiento de Consuegra para los molinos. Eso significa que tienen acceso preferente al **interior del Molino Rucio** (uno de los 12 que se pueden visitar por dentro) y que el guía conoce las técnicas de molienda tradicional. No es turismo de selfie, es turismo cultural.
 
-  Lo que el marketing no te cuenta: las **entradas a monumentos de Toledo NO están incluidas**. Si quieres entrar a la Catedral, Santo Tomé o Sinagogas durante las 2 horas libres en Toledo, suma 12-15€ por entrada. A 120€ + 30€ de monumentos ya estás en 150€ por día, lo que es premium. Solo merece la pena si valoras los molinos + grupo pequeño + almuerzo incluido. Si solo quieres ver Toledo profundo, mejor el [día completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo) (79€).
+  Lo que el marketing sí te dice y se cumple: el operador es **Agiday Experience**, oficial autorizado por el Ayuntamiento
+  de Consuegra para los molinos. Eso significa que tienen acceso preferente al **interior del Molino Rucio** (uno de los 12
+  que se pueden visitar por dentro) y que el guía conoce las técnicas de molienda tradicional. No es turismo de selfie, es
+  turismo cultural.
 
-  Y un detalle: el almuerzo es **degustación**, no menú a la carta. Hay variedad y abundancia, pero quien busca un menú clásico con primer y segundo plato puede sentirse un poco confundido por la ración tipo aperitivo extendido. Para vegetarianos/celíacos hay que avisar al reservar.
 
-categoria: "excursionesDia"
-keywords: ["excursion toledo molinos quijote", "consuegra molinos viento desde madrid", "tour quijote la mancha", "toledo y molinos cervantes", "excursion premium toledo grupo pequeño"]
+  Lo que el marketing no te cuenta: las **entradas a monumentos de Toledo NO están incluidas**. Si quieres entrar a la Catedral,
+  Santo Tomé o Sinagogas durante las 2 horas libres en Toledo, suma 12-15€ por entrada. A 120€ + 30€ de monumentos ya estás
+  en 150€ por día, lo que es premium. Solo merece la pena si valoras los molinos + grupo pequeño + almuerzo incluido. Si solo
+  quieres ver Toledo profundo, mejor el [día completo](/ciudades/madrid/actividades/excursion-toledo-dia-completo) (79€).
 
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-aerial-view-historic-cityscape-hero.webp"
-imagenAlt: "Vista panoramica toledo aerial view historic cityscape en Vista panoramica toledo"
 
+  Y un detalle: el almuerzo es **degustación**, no menú a la carta. Hay variedad y abundancia, pero quien busca un menú clásico
+  con primer y segundo plato puede sentirse un poco confundido por la ración tipo aperitivo extendido. Para vegetarianos/celíacos
+  hay que avisar al reservar.
+
+  '
+categoria: excursionesDia
+keywords:
+- excursion toledo molinos quijote
+- consuegra molinos viento desde madrid
+- tour quijote la mancha
+- toledo y molinos cervantes
+- excursion premium toledo grupo pequeño
+imagen: /images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-96epxricdr4-unsplash-hero.webp
+imagenAlt: molinos consuegra manuel lopez 96epxricdr4 unsplash
 galeria:
-  - src: "/images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-96epxricdr4-unsplash-hero.webp"
-    alt: "molinos consuegra manuel lopez 96epxricdr4 unsplash"
-  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero.webp"
-    alt: "Calles historicas toledo narrow old alleyway leads into en Calles historicas toledo"
-  - src: "/images/actividades/madrid/castillo-san-servando/castillo-san-servando-toledo-majestic-stone-castle-spain-bathed-hero.webp"
-    alt: "Majestic stone castle in Toledo, Spain, bathed in golden sunset light highlighting its ancient architecture."
-  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp"
-    alt: "Catedral de Toledo - Toledo 01"
-  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp"
-    alt: "España - Toledo - Iglesia de Santo Tomé"
-  - src: "/images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-t5l9wd9evcq-unsplash-hero.webp"
-    alt: "molinos consuegra manuel lopez t5l9wd9evcq unsplash"
-  - src: "/images/actividades/madrid/puente-alcantara-toledo/puente-alcantara-toledo-bridge-spain-view-from-north-east-hero.webp"
-    alt: "Alcantara Bridge in Toledo, Spain. View from the north-east"
-  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp"
-    alt: "Toledo Puerta Bisagra 1"
-  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-panoramio-edited-hero.webp"
-    alt: "Sinagoga santa maria blanca toledo panoramio edited en Sinagoga santa maria blanca"
+- src: /images/actividades/madrid/puente-alcantara-toledo/puente-alcantara-toledo-bridge-spain-view-from-north-east-hero.webp
+  alt: Alcantara Bridge in Toledo, Spain. View from the north-east
+- src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp
+  alt: Fachada norte del Alcázar de Toledo con arquitectura renacentista y cielo azul
+- src: /images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-t5l9wd9evcq-unsplash-hero.webp
+  alt: molinos consuegra manuel lopez t5l9wd9evcq unsplash
+- src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero.webp
+  alt: Calles historicas toledo narrow old alleyway leads into en Calles historicas toledo
+- src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-foto-10618556-hero.webp
+  alt: Toledo Puerta Bisagra 1
+- src: /images/actividades/toledo/catedral-toledo/wikimedia-163466149-hero.webp
+  alt: Panorámica de Toledo con río Tajo, puentes históricos y arquitectura medieval
+- src: /images/actividades/toledo/dmitry-romanoff-yxf9j/dmitry-romanoff-YXf9J-bKOp4-unsplash-hero.webp
+  alt: 'Toledo: vista panorámica de la ciudad medieval con río Tajo, arquitectura histórica y puentes antiguos'
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
+  alt: Panorámica de Toledo con sus edificios históricos y la catedral al fondo
+- src: /images/actividades/madrid/tapas-madrid/pixabay-2545742-hero.webp
+  alt: Vista panorámica de Madrid con edificios históricos y modernos bajo cielo azul
+- src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540624-hero.webp
+  alt: Panorámica de Toledo con sus monumentos históricos y arquitectura medieval
+- src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/wikimedia-16963473-hero.webp
+  alt: Vistas de Toledo desde el mirador del Valle del Tajo al atardecer
+- src: /images/actividades/toledo/sinagoga-transito-toledo/sinagoga-transito-toledo-7-nueve-de-febrero-hero-hero.webp
+  alt: Fachada de la Sinagoga del Tránsito en Toledo, con puerta gótica y detalles arquitectónicos medievales
+- src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/wikimedia-25496325-hero.webp
+  alt: 'Toledo: vista aérea de la ciudad medieval con catedral y río Tajo'
+- src: /images/actividades/toledo/tom-g-kfgjwjnpdq8/tom-g-Kfgjwjnpdq8-unsplash-hero.webp
+  alt: Vista panorámica de Toledo con sus casas blancas y la catedral al atardecer
 ratingProveedor: 4.9
 numeroOpiniones: 223
-
 publicada: true
 destacada: false
-fecha: "2026-05-06"
-fecha_actualizacion: "2026-05-06"
+fecha: '2026-05-06'
+fecha_actualizacion: '2026-05-06'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
 ---
 
 ## Qué vas a ver

@@ -116,30 +116,32 @@ imagenAlt: Alcázar castle fortress with towers and stone walls in Segovia
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero-hero.webp
   alt: Alcázar fortress towering over Toledo's skyline, historic Spanish architecture landmark
+- src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp
+  alt: Alcázar fortress with stone facade and towers on hilltop overlooking Toledo, Spain
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp
   alt: Segovia Aqueduct's iconic double-tiered Roman arches spanning across the landscape
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp
-  alt: Toledo Cathedral facade with Gothic architecture and intricate stonework details
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
   alt: Alcázar fortress castle with stone towers against blue sky in Segovia
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar castle fortress with towers against blue sky in Segovia, Spain
-- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-2-hero.webp
-  alt: Toledo Cathedral, stunning Gothic architecture with ornate stonework and towers
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
-  alt: Alcázar of Segovia fortress with towers and crenellated walls overlooking the city
-- src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-striking-view-gothic-architecture-hero.webp
-  alt: Historic Toledo streets with striking Gothic architecture and medieval buildings
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Alcázar of Segovia, medieval fortress with white stone towers and crenellations overlooking the city
-- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-xx4HqF5gWhE-hero.webp
-  alt: Medieval cathedral and historic buildings in Toledo cityscape
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
   alt: Toledo Cathedral with Gothic architecture and ornate stone facade
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
+  alt: Alcázar castle fortress with towers against blue sky in Segovia, Spain
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
+  alt: Alcázar of Segovia fortress with towers and crenellated walls overlooking the city
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
   alt: Ancient Roman aqueduct of Segovia spanning stone arches in Plaza de la Artillería
+- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
+  alt: Toledo's historic medieval cityscape with narrow cobblestone streets and ancient architecture
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
+  alt: Alcázar of Segovia, medieval fortress with white stone towers and crenellations overlooking the city
+- src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp
+  alt: Toledo medieval cityscape with historic architecture and cathedral
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
   alt: Majestic Alcázar castle of Segovia with towers and fortified walls on hilltop
+- src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
+  alt: Monastery of San Juan de los Reyes in Toledo, Spain with Gothic architecture
+- src: /images/actividades/toledo/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-septentrional-hero-hero.webp
+  alt: Ornate wooden door with metal hinges on Toledo's new northern facade
 ratingProveedor: 4.5
 numeroOpiniones: 856
 publicada: true
