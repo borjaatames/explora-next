@@ -114,7 +114,7 @@ galeria:
   alt: Montserrat monastery cloister corridor with stone arches and columns
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
   alt: Montserrat monastery nestled among dramatic stone mountains near Barcelona, Spain
-- src: /images/actividades/madrid/bodegas-vino-madrid/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero-hero.webp
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero-hero.webp
   alt: Wine cellar with wooden barrels and bottles in Madrid
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
   alt: Montserrat Abbey with distinctive rock formations and basilica nestled in Catalonian mountains near Barcelona
@@ -122,7 +122,7 @@ galeria:
   alt: Montserrat's dramatic rock formations and mountain landscape near Barcelona
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
   alt: Montserrat Monastery nestled in dramatic rocky mountains near Barcelona, Spain
-- src: /images/actividades/madrid/bodegas-vino-madrid/bodegas-vino-madrid-pexels-kuremo-8660221-hero-hero.webp
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero-hero.webp
   alt: Wine barrels stored in Madrid cellar with wooden racks
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero-hero.webp
   alt: Stunning Gothic facade of Montserrat monastery with historic stone architecture and mountain backdrop
