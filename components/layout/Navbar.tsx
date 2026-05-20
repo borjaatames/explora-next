@@ -13,6 +13,7 @@ import type { MapaParejas } from "@/lib/i18n/parejas";
 
 const DICT = {
   es: {
+    inicioMenu: "Inicio",
     guias: "Guías",
     ciudades: "Ciudades",
     sobreNosotros: "Sobre nosotros",
@@ -22,6 +23,7 @@ const DICT = {
     cerrarMenu: "Cerrar menú",
   },
   en: {
+    inicioMenu: "Home",
     guias: "Guides",
     ciudades: "Cities",
     sobreNosotros: "About us",
@@ -56,6 +58,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
   const t = DICT[idioma === "en" ? "en" : "es"];
 
   const enlaces = [
+    { href: urlHome(idioma), label: t.inicioMenu },
     { href: urlIndiceGuias(idioma), label: t.guias },
     { href: urlIndiceCiudades(idioma), label: t.ciudades },
     { href: urlAbout(idioma), label: t.sobreNosotros },
