@@ -109,20 +109,44 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
   alt: Barcelona cityscape with historic architecture and urban streets
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
-  alt: Sagrada Familia basilica in Barcelona with Gothic and modernist architecture, taken in 2008
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate Gothic and Modernist architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
+  alt: Sagrada Familia basilica in Barcelona with Gothic and modernist architecture, taken in 2008
+- src: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with intricate Gothic spires and construction details
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-close-up-intricate-facade-hero-hero.webp
-  alt: Intricate stone carvings and architectural details of the Sagrada Familia facade in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
   alt: Intricate ceiling and columns of Sagrada Familia basilica in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-9033308-hero.webp
   alt: Barcelona street view with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
+  alt: Barcelona cityscape with buildings and urban architecture
+- src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
+  alt: Barcelona street scene with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
+  alt: Barcelona street scene with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Barcelona cityscape with modern and historic architecture under blue sky
+- src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
+  alt: Barcelona street scene with modern architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
+  alt: Barcelona street scene with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
+  alt: Barcelona's Gothic Quarter street with medieval architecture and narrow alleyways
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
+  alt: Barcelona cityscape with historic architecture and vibrant streets
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-Sy4CXsj6BDE-hero.webp
+  alt: Sagrada Familia basilica at sunset with golden light, Barcelona, Spain
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Barcelona skyline with Sagrada Familia basilica and urban architecture at sunset
 ---
 
 ## What you'll see
