@@ -21,6 +21,7 @@ import {
   prefijoIdioma,
   urlIndiceGuias,
   urlIndiceCiudades,
+  urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
@@ -277,7 +278,7 @@ export default function HomePage({ params }: Props) {
               {ciudades.map((ciudad, index) => (
                 <Link
                   key={ciudad.url}
-                  href={ciudad.url}
+                  href={urlActividadesDeCiudad(lang, ciudad.slug)}
                   className="group block bg-white border border-amber-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
                 >
                   <div className="relative w-full h-44 bg-slate-100 overflow-hidden">
