@@ -8,6 +8,7 @@ import {
   IDIOMA_DEFECTO,
   IDIOMA_LABELS,
   esIdiomaActivo,
+  COOKIE_LOCALE,
 } from "@/lib/i18n/config";
 import type { Idioma } from "@/lib/i18n/types";
 import type { MapaParejas } from "@/lib/i18n/parejas";
@@ -112,7 +113,13 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
               <li key={lang} role="option" aria-selected={seleccionado}>
                 <Link
                   href={destino}
-                  onClick={() => setAbierto(false)}
+                  onClick={() => {
+                    // Persistir la elección de idioma. Sin esto, el middleware
+                    // de la home reescribe "/" según la cookie/navegador y la
+                    // selección manual se pierde (rebote a /en).
+                    document.cookie = `${COOKIE_LOCALE}=${lang}; path=/; max-age=31536000; samesite=lax`;
+                    setAbierto(false);
+                  }}
                   className={`block px-3 py-2 text-sm transition-colors ${
                     seleccionado
                       ? "bg-amber-50 text-slate-900 font-semibold"
