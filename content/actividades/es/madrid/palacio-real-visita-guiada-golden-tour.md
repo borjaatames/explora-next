@@ -1,117 +1,139 @@
 ---
-titulo: "Palacio Real de Madrid: Visita Guiada Sin Colas"
-slug: "palacio-real-visita-guiada-golden-tour"
-ciudad: "madrid"
-descripcion: "Visita guiada de 2 horas al Palacio Real de Madrid con entrada sin colas y guía oficial. Salón del Trono, Apartamentos Privados y Armería Real. 4,8/5 con más de 4.000 reseñas."
-
+titulo: 'Palacio Real de Madrid: Visita Guiada Sin Colas'
+slug: palacio-real-visita-guiada-golden-tour
+ciudad: madrid
+descripcion: Visita guiada de 2 horas al Palacio Real de Madrid con entrada sin colas y guía oficial. Salón del Trono, Apartamentos
+  Privados y Armería Real. 4,8/5 con más de 4.000 reseñas.
 slugs:
-  es: "palacio-real-visita-guiada-golden-tour"
-  en: "royal-palace-skip-line-guided-tour-golden"
-
-duracion: "2 horas"
+  es: palacio-real-visita-guiada-golden-tour
+  en: royal-palace-skip-line-guided-tour-golden
+duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 38
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/palacio-real-de-madrid-visita-guiada-sin-colas-t591591/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/palacio-real-de-madrid-visita-guiada-sin-colas-t591591/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Entrada prioritaria al Palacio Real sin hacer cola en taquilla"
-  - "Recorrido por el Salón del Trono, la Sala de Banquetes y los Apartamentos Privados"
-  - "Armería Real incluida: armaduras, espadas y enseres de la corte"
-  - "Obras de Giordano y Goya, tapices históricos y mobiliario real del siglo XIX"
-  - "4,8 / 5 con 4.060 reseñas — la opción mejor valorada del Palacio Real de Madrid"
-
+- Entrada prioritaria al Palacio Real sin hacer cola en taquilla
+- Recorrido por el Salón del Trono, la Sala de Banquetes y los Apartamentos Privados
+- 'Armería Real incluida: armaduras, espadas y enseres de la corte'
+- Obras de Giordano y Goya, tapices históricos y mobiliario real del siglo XIX
+- 4,8 / 5 con 4.060 reseñas — la opción mejor valorada del Palacio Real de Madrid
 incluye:
-  - "Guía oficial certificado por la Autoridad de Turismo"
-  - "Entrada sin colas garantizada al Palacio Real"
-  - "Acceso a la Armería Real"
-  - "Auriculares con receptor para escuchar al guía"
-
+- Guía oficial certificado por la Autoridad de Turismo
+- Entrada sin colas garantizada al Palacio Real
+- Acceso a la Armería Real
+- Auriculares con receptor para escuchar al guía
 noIncluye:
-  - "Comida y bebida"
-  - "Consigna de equipaje"
-  - "Acceso opcional a la Galería de las Colecciones Reales (se contrata aparte)"
-  - "Propinas"
-
+- Comida y bebida
+- Consigna de equipaje
+- Acceso opcional a la Galería de las Colecciones Reales (se contrata aparte)
+- Propinas
 puntoEncuentro:
-  texto: "Calle de Carlos III, 1, junto al Palacio Real de Madrid. El guía espera DENTRO de la tienda de souvenirs con un cartel «Golden Tour Guide»."
-  descripcionGuia: "El punto de encuentro es la tienda de souvenirs de la calle Carlos III, 1, frente al Palacio Real. NO vayas directamente a la entrada del palacio: el grupo se reúne dentro de la tienda con el cartel del operador. Llega 10-15 minutos antes — incluso con entrada prioritaria, el control de seguridad del palacio puede llevar unos minutos."
+  texto: Calle de Carlos III, 1, junto al Palacio Real de Madrid. El guía espera DENTRO de la tienda de souvenirs con un cartel
+    «Golden Tour Guide».
+  descripcionGuia: 'El punto de encuentro es la tienda de souvenirs de la calle Carlos III, 1, frente al Palacio Real. NO
+    vayas directamente a la entrada del palacio: el grupo se reúne dentro de la tienda con el cartel del operador. Llega 10-15
+    minutos antes — incluso con entrada prioritaria, el control de seguridad del palacio puede llevar unos minutos.'
   latitud: 40.4178
   longitud: -3.7107
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Documento de identidad o pasaporte (puede pedirse en el control)"
-    - "Ropa cómoda y calzado para caminar 2 horas"
-    - "Botella de agua (la comida y bebida no están incluidas)"
+  - Documento de identidad o pasaporte (puede pedirse en el control)
+  - Ropa cómoda y calzado para caminar 2 horas
+  - Botella de agua (la comida y bebida no están incluidas)
   noAptoPara:
-    - "Equipaje grande o mochilas voluminosas (no se admiten en el palacio)"
-    - "Mascotas (salvo perros de asistencia)"
+  - Equipaje grande o mochilas voluminosas (no se admiten en el palacio)
+  - Mascotas (salvo perros de asistencia)
   aTenerEnCuenta:
-    - "NO se permite fotografía ni vídeo dentro del palacio"
-    - "Los horarios y días de apertura pueden variar por eventos oficiales o de Estado"
-    - "Aunque la entrada sea prioritaria, hay que pasar el control de seguridad — calcula 5-10 minutos extra"
-    - "El guía espera DENTRO de la tienda de souvenirs, no en la puerta del palacio"
-    - "La Galería de las Colecciones Reales no entra en el precio base — se puede ampliar"
-
-accesibilidad: "El Palacio Real es accesible en silla de ruedas según indica el operador. Los recorridos por las salas son llanos o con rampas. Si necesitas asistencia específica, avisa al guía al inicio."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso completo. También está disponible la opción «Reserva ahora y paga después»."
-
+  - NO se permite fotografía ni vídeo dentro del palacio
+  - Los horarios y días de apertura pueden variar por eventos oficiales o de Estado
+  - Aunque la entrada sea prioritaria, hay que pasar el control de seguridad — calcula 5-10 minutos extra
+  - El guía espera DENTRO de la tienda de souvenirs, no en la puerta del palacio
+  - La Galería de las Colecciones Reales no entra en el precio base — se puede ampliar
+accesibilidad: El Palacio Real es accesible en silla de ruedas según indica el operador. Los recorridos por las salas son
+  llanos o con rampas. Si necesitas asistencia específica, avisa al guía al inicio.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo. También está disponible la opción «Reserva
+  ahora y paga después».
 preguntasFrecuentes:
-  - pregunta: "¿Cuánto se ahorra con la entrada sin colas?"
-    respuesta: "Depende del día. En temporada alta (primavera-verano y festivos) la cola en taquilla puede ser de 30-60 minutos. Con esta visita entras por acceso prioritario y solo esperas el control de seguridad estándar (5-10 minutos). En temporada baja la ventaja se nota menos, pero el guía sigue añadiendo contexto que en una visita por libre se pierde."
-  - pregunta: "¿Puedo hacer fotos dentro del palacio?"
-    respuesta: "No. La fotografía y el vídeo están prohibidos dentro de las salas del palacio. Sí se permiten en la fachada, en la Plaza de Oriente, los jardines y la entrada al recinto."
-  - pregunta: "¿En qué idiomas se ofrece la visita?"
-    respuesta: "Hay opciones de guía en español y en inglés, con sistema de auriculares incluido para que oigas al guía sin amontonarte con el grupo. Selecciona el idioma al reservar."
-  - pregunta: "¿Es accesible en silla de ruedas?"
-    respuesta: "Sí. El operador indica accesibilidad en silla de ruedas y el propio palacio tiene rampas y ascensores en el recorrido principal. Si la persona necesita atención específica, conviene avisar al guía al inicio del tour."
-  - pregunta: "¿Qué incluye exactamente la Armería Real?"
-    respuesta: "La Armería Real, dentro del recinto del palacio, expone armaduras, espadas, lanzas y enseres usados por reyes y caballeros desde el siglo XV. También hay muebles, instrumentos musicales y juegos cortesanos que dan una idea de la vida diaria en la corte. Está incluida en esta visita guiada y no requiere ticket aparte."
-
+- pregunta: ¿Cuánto se ahorra con la entrada sin colas?
+  respuesta: Depende del día. En temporada alta (primavera-verano y festivos) la cola en taquilla puede ser de 30-60 minutos.
+    Con esta visita entras por acceso prioritario y solo esperas el control de seguridad estándar (5-10 minutos). En temporada
+    baja la ventaja se nota menos, pero el guía sigue añadiendo contexto que en una visita por libre se pierde.
+- pregunta: ¿Puedo hacer fotos dentro del palacio?
+  respuesta: No. La fotografía y el vídeo están prohibidos dentro de las salas del palacio. Sí se permiten en la fachada,
+    en la Plaza de Oriente, los jardines y la entrada al recinto.
+- pregunta: ¿En qué idiomas se ofrece la visita?
+  respuesta: Hay opciones de guía en español y en inglés, con sistema de auriculares incluido para que oigas al guía sin amontonarte
+    con el grupo. Selecciona el idioma al reservar.
+- pregunta: ¿Es accesible en silla de ruedas?
+  respuesta: Sí. El operador indica accesibilidad en silla de ruedas y el propio palacio tiene rampas y ascensores en el recorrido
+    principal. Si la persona necesita atención específica, conviene avisar al guía al inicio del tour.
+- pregunta: ¿Qué incluye exactamente la Armería Real?
+  respuesta: La Armería Real, dentro del recinto del palacio, expone armaduras, espadas, lanzas y enseres usados por reyes
+    y caballeros desde el siglo XV. También hay muebles, instrumentos musicales y juegos cortesanos que dan una idea de la
+    vida diaria en la corte. Está incluida en esta visita guiada y no requiere ticket aparte.
 variantes: []
+opinionEditorial: 'La opción más sólida del Palacio Real de Madrid por la combinación de tres factores: rating (4,8 sobre
+  5), volumen de reseñas (más de 4.000 — el más alto del catálogo de visitas al palacio) y precio. A 38 euros entra la guía
+  certificada, los auriculares, el acceso sin colas y la Armería Real. Es difícil hacer mejor el precio-experiencia para un
+  monumento de este peso.
 
-opinionEditorial: |
-  La opción más sólida del Palacio Real de Madrid por la combinación de tres factores: rating (4,8 sobre 5), volumen de reseñas (más de 4.000 — el más alto del catálogo de visitas al palacio) y precio. A 38 euros entra la guía certificada, los auriculares, el acceso sin colas y la Armería Real. Es difícil hacer mejor el precio-experiencia para un monumento de este peso.
 
-  Lo que conviene saber antes de reservar: el punto de encuentro NO es la entrada del palacio. El guía espera dentro de una tienda de souvenirs en la calle Carlos III, 1, con un cartel del operador. Es la queja más recurrente en reseñas mediocres («fui directo al palacio y no me encontraron»). Y aunque la entrada sea prioritaria, hay control de seguridad — calcula 5-10 minutos extra. Dentro no se puede fotografiar ni grabar, así que prepara la cámara para fuera (Plaza de Oriente, jardines, Catedral de la Almudena enfrente).
+  Lo que conviene saber antes de reservar: el punto de encuentro NO es la entrada del palacio. El guía espera dentro de una
+  tienda de souvenirs en la calle Carlos III, 1, con un cartel del operador. Es la queja más recurrente en reseñas mediocres
+  («fui directo al palacio y no me encontraron»). Y aunque la entrada sea prioritaria, hay control de seguridad — calcula
+  5-10 minutos extra. Dentro no se puede fotografiar ni grabar, así que prepara la cámara para fuera (Plaza de Oriente, jardines,
+  Catedral de la Almudena enfrente).
 
-  Para quien quiera ampliar, hay opción de añadir la Galería de las Colecciones Reales (obras de El Bosco, Tiziano, Velázquez), que es una visita adicional que merece la pena si te sobra una hora más en el plan del día. Quien busque grupo más pequeño puede mirar las versiones premium o «small group» del mismo palacio — más caras, pero con menos cabezas alrededor.
 
-categoria: "cultural"
-keywords: ["palacio real madrid", "visita guiada palacio real", "skip the line palacio real", "tour palacio real madrid", "entrada sin colas palacio real"]
+  Para quien quiera ampliar, hay opción de añadir la Galería de las Colecciones Reales (obras de El Bosco, Tiziano, Velázquez),
+  que es una visita adicional que merece la pena si te sobra una hora más en el plan del día. Quien busque grupo más pequeño
+  puede mirar las versiones premium o «small group» del mismo palacio — más caras, pero con menos cabezas alrededor.
 
-imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
-imagenAlt: "Fachada del Palacio Real de Madrid de día con turistas en la explanada"
-
+  '
+categoria: cultural
+keywords:
+- palacio real madrid
+- visita guiada palacio real
+- skip the line palacio real
+- tour palacio real madrid
+- entrada sin colas palacio real
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-spain-architecture-city-buildings-hero-hero.webp
+imagenAlt: Fachada del Palacio Real de Madrid con arquitectura clásica y torres en la ciudad
 galeria:
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
-    alt: "Vista exterior del Palacio Real de Madrid con su arquitectura neoclásica"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
-    alt: "Arquitectura neoclásica del Palacio Real de Madrid"
-
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp
+  alt: Vista exterior del Palacio Real de Madrid con su arquitectura neoclásica
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: Fachada del Palacio Real de Madrid con arquitectura neoclásica y torre en primer plano
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
+  alt: Fachada del Palacio Real de Madrid de día con turistas en la explanada
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-03-hero-hero.webp
+  alt: Fachada principal del Palacio Real de Madrid con arquitectura neoclásica y banderas españolas
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero-hero.webp
+  alt: Palacio Real de Madrid con fachada blanca bajo cielo azul despejado
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: Arquitectura neoclásica del Palacio Real de Madrid
 ratingProveedor: 4.8
 numeroOpiniones: 4060
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 atraccionesRelacionadas:
-  - "palacio-real"
+- palacio-real
 ---
 
 ## Qué vas a ver
