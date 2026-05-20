@@ -67,7 +67,7 @@ chipsFiltros:
   - { label: "Day trip to Toledo", tag: "toledo" }
   - { label: "Day trips", tag: "excursiones-desde-madrid" }
   - { label: "Tapas and wine", tag: "tapas-madrid" }
-  - { label: "Bernabéu Stadium", tag: "estadio-bernabeu" }
+  - { label: "Bernabéu Stadium", tag: "bernabeu" }
 ---
 
 Madrid is Spain's capital and the most populous city in the country: around **3.3 million inhabitants** in the municipality and over 6.7 million in its metropolitan area. It is the seat of the Government and the Cortes Generales, as well as the country's main financial, cultural and administrative hub.

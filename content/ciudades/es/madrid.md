@@ -67,7 +67,7 @@ chipsFiltros:
   - { label: "Excursión a Toledo", tag: "toledo" }
   - { label: "Excursiones de un día", tag: "excursiones-desde-madrid" }
   - { label: "Tapas y vinos", tag: "tapas-madrid" }
-  - { label: "Estadio Bernabéu", tag: "estadio-bernabeu" }
+  - { label: "Estadio Bernabéu", tag: "bernabeu" }
 ---
 
 Madrid es la capital de España y la ciudad más poblada del país: alrededor de **3,3 millones de habitantes** en el municipio y más de 6,7 millones en su área metropolitana. Es sede del Gobierno y las Cortes Generales, además del principal centro financiero, cultural y administrativo del país.
