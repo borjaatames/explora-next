@@ -115,7 +115,8 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- casa-batllo
 ---
 
 ## What you'll see

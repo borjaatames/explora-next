@@ -109,8 +109,8 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
-
+atraccionesRelacionadas:
+- park-guell
 # TODO: rating exacto no devuelto por Tavily (solo "94% recomendación + distintivo de excelencia"). Asumido 4,5/5 conservador. Verificar manualmente en Viator si se publica como destacado.
 ---
 

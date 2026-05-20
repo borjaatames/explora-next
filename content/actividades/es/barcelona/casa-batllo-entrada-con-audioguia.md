@@ -156,7 +156,8 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- casa-batllo
 ---
 
 ## Qué vas a ver
