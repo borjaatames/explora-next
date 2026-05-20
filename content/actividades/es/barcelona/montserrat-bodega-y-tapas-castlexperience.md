@@ -1,116 +1,144 @@
 ---
-titulo: "Montserrat con bodega del siglo X, cata de vinos y tapas"
-slug: "montserrat-bodega-y-tapas-castlexperience"
-ciudad: "barcelona"
-descripcion: "Excursión de medio día a Montserrat desde Barcelona con visita guiada al monasterio, bodega ecológica en castillo del siglo X y degustación de 3 vinos con tapas."
-
+titulo: Montserrat con bodega del siglo X, cata de vinos y tapas
+slug: montserrat-bodega-y-tapas-castlexperience
+ciudad: barcelona
+descripcion: Excursión de medio día a Montserrat desde Barcelona con visita guiada al monasterio, bodega ecológica en castillo
+  del siglo X y degustación de 3 vinos con tapas.
 slugs:
-  es: "montserrat-bodega-y-tapas-castlexperience"
-  en: "montserrat-winery-and-tapas-castlexperience"
-
-duracion: "6-7 horas"
+  es: montserrat-bodega-y-tapas-castlexperience
+  en: montserrat-winery-and-tapas-castlexperience
+duracion: 6-7 horas
 duracionMinutos: 420
 precioDesde: 47
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Barcelona/Small-Group-Montserrat-Tour-from-Barcelona-Wine-and-Cheese-Tasting-with-Optional-Golf-Round/d562-5716GOLFWINE?pid=P00298823&mcid=42383&medium=link"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/es-ES/tours/Barcelona/Small-Group-Montserrat-Tour-from-Barcelona-Wine-and-Cheese-Tasting-with-Optional-Golf-Round/d562-5716GOLFWINE?pid=P00298823&mcid=42383&medium=link
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Visita guiada de 1 hora al Monasterio de Montserrat y entrada sin colas a la basílica"
-  - "Bodega ecológica Oller del Mas en un castillo del siglo X — uno de los vinos catalanes premiados como «Mejor Vino de Cataluña 2018»"
-  - "Cata de 3 vinos locales con tapas de temporada como almuerzo ligero"
-  - "Operador con más volumen del comparador: 4,9 ★ con más de 7.700 reseñas verificadas"
-
+- Visita guiada de 1 hora al Monasterio de Montserrat y entrada sin colas a la basílica
+- Bodega ecológica Oller del Mas en un castillo del siglo X — uno de los vinos catalanes premiados como «Mejor Vino de Cataluña
+  2018»
+- Cata de 3 vinos locales con tapas de temporada como almuerzo ligero
+- 'Operador con más volumen del comparador: 4,9 ★ con más de 7.700 reseñas verificadas'
 incluye:
-  - "Transporte compartido en autobús con aire acondicionado"
-  - "Guía local en español o inglés (grupos máximos de 20 personas)"
-  - "Visita guiada al Monasterio de Montserrat (1 hora) + 1 hora de tiempo libre"
-  - "Entrada sin colas a la Basílica de Montserrat"
-  - "Visita guiada a la bodega Oller del Mas (si seleccionas la opción)"
-  - "Degustación de 3 vinos locales con tapas (si seleccionas la opción)"
-
+- Transporte compartido en autobús con aire acondicionado
+- Guía local en español o inglés (grupos máximos de 20 personas)
+- Visita guiada al Monasterio de Montserrat (1 hora) + 1 hora de tiempo libre
+- Entrada sin colas a la Basílica de Montserrat
+- Visita guiada a la bodega Oller del Mas (si seleccionas la opción)
+- Degustación de 3 vinos locales con tapas (si seleccionas la opción)
 noIncluye:
-  - "Recogida y entrega en el hotel"
-  - "Propinas"
-  - "Tren cremallera (esta opción NO lo incluye; reservar EXB-23 si quieres añadirlo)"
-  - "Acceso a la Virgen Negra"
-
+- Recogida y entrega en el hotel
+- Propinas
+- Tren cremallera (esta opción NO lo incluye; reservar EXB-23 si quieres añadirlo)
+- Acceso a la Virgen Negra
 puntoEncuentro:
-  texto: "Barcelona Nord Bus Station, Carrer de Nàpols, 68, Eixample, 08018 Barcelona"
-  descripcionGuia: "Check-in en la oficina de Castlexperience dentro de la Estación de Nord (sección B). Llega 20 minutos antes de la hora de salida para registrarte antes de bajar a la zona de autobuses. Salida sobre las 8:30 o 9:45 según la temporada."
-  latitud: 41.3950
-  longitud: 2.1830
+  texto: Barcelona Nord Bus Station, Carrer de Nàpols, 68, Eixample, 08018 Barcelona
+  descripcionGuia: Check-in en la oficina de Castlexperience dentro de la Estación de Nord (sección B). Llega 20 minutos antes
+    de la hora de salida para registrarte antes de bajar a la zona de autobuses. Salida sobre las 8:30 o 9:45 según la temporada.
+  latitud: 41.395
+  longitud: 2.183
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo para caminar por la montaña"
-    - "Agua, especialmente en verano"
-    - "Ropa adecuada al clima (Montserrat suele estar más fresco que Barcelona)"
-    - "Documento de identidad"
+  - Calzado cómodo para caminar por la montaña
+  - Agua, especialmente en verano
+  - Ropa adecuada al clima (Montserrat suele estar más fresco que Barcelona)
+  - Documento de identidad
   noAptoPara:
-    - "Personas con movilidad reducida (no es accesible para sillas de ruedas)"
-    - "Quienes esperan tren cremallera incluido (esta opción no lo trae)"
+  - Personas con movilidad reducida (no es accesible para sillas de ruedas)
+  - Quienes esperan tren cremallera incluido (esta opción no lo trae)
   aTenerEnCuenta:
-    - "Los grupos pueden alcanzar las 20 personas por guía (a veces 22). Si quieres formato más íntimo, considera EXB-26 (grupo de 8)"
-    - "La bodega es una bodega familiar; por logística, puede sustituirse por otra de la misma comarca"
-    - "Si quieres ver la Virgen Negra (la Moreneta), reserva la variante que la incluya explícitamente"
-
-accesibilidad: "Tour no accesible en silla de ruedas. Los animales de servicio sí están permitidos. Para movilidad reducida, contactar con el operador antes de reservar."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio del tour. Después de ese plazo no hay reembolso. La hora límite se basa en la hora local del lugar."
-
+  - Los grupos pueden alcanzar las 20 personas por guía (a veces 22). Si quieres formato más íntimo, considera EXB-26 (grupo
+    de 8)
+  - La bodega es una bodega familiar; por logística, puede sustituirse por otra de la misma comarca
+  - Si quieres ver la Virgen Negra (la Moreneta), reserva la variante que la incluya explícitamente
+accesibilidad: Tour no accesible en silla de ruedas. Los animales de servicio sí están permitidos. Para movilidad reducida,
+  contactar con el operador antes de reservar.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio del tour. Después de ese plazo no hay reembolso.
+  La hora límite se basa en la hora local del lugar.
 preguntasFrecuentes:
-  - pregunta: "¿Está incluido el tren cremallera?"
-    respuesta: "No, esta variante NO incluye el tren cremallera. Si quieres tren cremallera + bodega + tapas, mira EXB-23 (mismo operador con cremallera, ~59 €). Si solo quieres cremallera + Moreneta sin bodega, mira EXB-01 (Julia Travel, 50 €)."
-  - pregunta: "¿Qué vinos vamos a catar?"
-    respuesta: "Tres vinos ecológicos de Oller del Mas. La bodega ha revivido antiguas variedades de uva locales (Picapoll, Mandó, Sumoll) y produce tintos, blancos y dulces. Uno de sus vinos fue premiado como Mejor Vino de Cataluña en 2018."
-  - pregunta: "¿En qué idioma habla el guía?"
-    respuesta: "El operador ofrece tours separados en español e inglés. Al reservar, selecciona el idioma. En raras ocasiones puede haber grupos bilingües si la demanda es baja."
-  - pregunta: "¿Cuánto tiempo libre hay en Montserrat?"
-    respuesta: "1 hora tras la visita guiada de 1 hora. Es tiempo justo para entrar a la basílica, dar un paseo y tomar algo en el mercado de productos locales. Si quieres más libertad, considera variantes de día completo o el privado."
-  - pregunta: "¿Es accesible en silla de ruedas?"
-    respuesta: "No, este tour no está adaptado. El monasterio en sí tiene rampas pero el bus y el recorrido a pie no son accesibles. Para movilidad reducida, contacta con el operador antes de reservar."
-
+- pregunta: ¿Está incluido el tren cremallera?
+  respuesta: No, esta variante NO incluye el tren cremallera. Si quieres tren cremallera + bodega + tapas, mira EXB-23 (mismo
+    operador con cremallera, ~59 €). Si solo quieres cremallera + Moreneta sin bodega, mira EXB-01 (Julia Travel, 50 €).
+- pregunta: ¿Qué vinos vamos a catar?
+  respuesta: Tres vinos ecológicos de Oller del Mas. La bodega ha revivido antiguas variedades de uva locales (Picapoll, Mandó,
+    Sumoll) y produce tintos, blancos y dulces. Uno de sus vinos fue premiado como Mejor Vino de Cataluña en 2018.
+- pregunta: ¿En qué idioma habla el guía?
+  respuesta: El operador ofrece tours separados en español e inglés. Al reservar, selecciona el idioma. En raras ocasiones
+    puede haber grupos bilingües si la demanda es baja.
+- pregunta: ¿Cuánto tiempo libre hay en Montserrat?
+  respuesta: 1 hora tras la visita guiada de 1 hora. Es tiempo justo para entrar a la basílica, dar un paseo y tomar algo
+    en el mercado de productos locales. Si quieres más libertad, considera variantes de día completo o el privado.
+- pregunta: ¿Es accesible en silla de ruedas?
+  respuesta: No, este tour no está adaptado. El monasterio en sí tiene rampas pero el bus y el recorrido a pie no son accesibles.
+    Para movilidad reducida, contacta con el operador antes de reservar.
 variantes:
-  - "montserrat-cremallera-virgen-negra"
-  - "montserrat-cremallera-bodega-castlexperience"
-  - "montserrat-bodega-tapas-y-cremallera"
-  - "montserrat-virgen-negra-y-bodega-medieval"
+- montserrat-cremallera-virgen-negra
+- montserrat-cremallera-bodega-castlexperience
+- montserrat-bodega-tapas-y-cremallera
+- montserrat-virgen-negra-y-bodega-medieval
+opinionEditorial: 'Es la opción que más recomendamos del comparador y la que más se reserva: 4,9 estrellas con 7.700+ reseñas
+  no se construyen por casualidad. El precio (47 € con la oferta -12 %) está al nivel del medio día clásico de Julia Travel
+  pero sumas una experiencia de bodega de verdad: Oller del Mas no es un decorado para turistas, es un castillo del siglo
+  X reconvertido en bodega ecológica que ha ganado premios reales, y los vinos están a la altura.
 
-opinionEditorial: |
-  Es la opción que más recomendamos del comparador y la que más se reserva: 4,9 estrellas con 7.700+ reseñas no se construyen por casualidad. El precio (47 € con la oferta -12 %) está al nivel del medio día clásico de Julia Travel pero sumas una experiencia de bodega de verdad: Oller del Mas no es un decorado para turistas, es un castillo del siglo X reconvertido en bodega ecológica que ha ganado premios reales, y los vinos están a la altura.
 
-  Lo que no te cuentan: NO incluye el tren cremallera (al contrario que la mayoría de variantes de Castlexperience). Si te gusta la imagen icónica del cremallera subiendo por la montaña, reserva la EXB-23 (~59 €) que sí lo incluye. Y los grupos son grandes (hasta 20 personas), así que si quieres formato íntimo o recogida en hotel, considera EXB-26 (In Out, grupo de 8).
+  Lo que no te cuentan: NO incluye el tren cremallera (al contrario que la mayoría de variantes de Castlexperience). Si te
+  gusta la imagen icónica del cremallera subiendo por la montaña, reserva la EXB-23 (~59 €) que sí lo incluye. Y los grupos
+  son grandes (hasta 20 personas), así que si quieres formato íntimo o recogida en hotel, considera EXB-26 (In Out, grupo
+  de 8).
 
-categoria: "excursionesDia"
-keywords: ["excursion montserrat bodega", "tour montserrat cata vinos", "montserrat desde barcelona", "visitar montserrat desde barcelona", "montserrat tapas"]
-
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
-imagenAlt: "Vistas panorámicas del monasterio de Montserrat en lo alto de la montaña catalana"
-
+  '
+categoria: excursionesDia
+keywords:
+- excursion montserrat bodega
+- tour montserrat cata vinos
+- montserrat desde barcelona
+- visitar montserrat desde barcelona
+- montserrat tapas
+imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp
+imagenAlt: Monasterio de Montserrat en Barcelona, España, con arquitectura religiosa e iglesia
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Cata de vinos en bodega ecológica catalana con barricas al fondo"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
+  alt: Claustro del Monasterio de Montserrat con arcadas de piedra y columnas, Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
+  alt: Picos rocosos de Montserrat con formaciones geológicas únicas y vegetación mediterránea
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Abadía de Montserrat con sus característicos picos rocosos y construcciones religiosas
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Panorámica de Montserrat con formaciones rocosas escarpadas bajo cielo despejado, Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Abadía de Montserrat, monasterio benedictino en la sierra cerca de Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
+  alt: Monasterio de Montserrat en la montaña rocosa de Cataluña, rodeado de naturaleza
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Iglesia de Montserrat con arquitectura religiosa de estilo pomposo en Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
+  alt: Monasterio de Montserrat en Barcelona, España con formaciones rocosas características
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-vault-cloister-columns-hero-hero.webp
+  alt: Bóveda del claustro del Monasterio de Montserrat con columnas de piedra en Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero-hero.webp
+  alt: Vista aérea de Montserrat con teleférico, Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero-hero.webp
+  alt: Fachada gótica de Montserrat en Barcelona, arquitectura medieval impresionante
 ratingProveedor: 4.9
 numeroOpiniones: 7736
-
 publicada: true
 destacada: true
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
 ---
 
 ## Qué vas a ver

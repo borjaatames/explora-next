@@ -1,119 +1,144 @@
 ---
-titulo: "Montserrat con cremallera, bodega Oller del Mas y tapas o almuerzo"
-slug: "montserrat-bodega-tapas-y-cremallera"
-ciudad: "barcelona"
-descripcion: "Día completo de 7-8 horas: bus, tren cremallera, monasterio, basílica y bodega Oller del Mas con cata de 3 vinos + tapas o almuerzo de varios platos. La opción más completa de Castlexperience."
-
+titulo: Montserrat con cremallera, bodega Oller del Mas y tapas o almuerzo
+slug: montserrat-bodega-tapas-y-cremallera
+ciudad: barcelona
+descripcion: 'Día completo de 7-8 horas: bus, tren cremallera, monasterio, basílica y bodega Oller del Mas con cata de 3 vinos
+  + tapas o almuerzo de varios platos. La opción más completa de Castlexperience.'
 slugs:
-  es: "montserrat-bodega-tapas-y-cremallera"
-  en: "montserrat-rack-railway-winery-and-tapas"
-
-duracion: "7-8 horas"
+  es: montserrat-bodega-tapas-y-cremallera
+  en: montserrat-rack-railway-winery-and-tapas
+duracion: 7-8 horas
 duracionMinutos: 450
 precioDesde: 59
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Barcelona/Extended-Montserrat-with-Tapas-and-Wine/d562-5716P4?pid=P00298823&mcid=42383&medium=link"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/es-ES/tours/Barcelona/Extended-Montserrat-with-Tapas-and-Wine/d562-5716P4?pid=P00298823&mcid=42383&medium=link
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Tren cremallera + visita guiada al monasterio + entrada a la basílica"
-  - "Bodega Oller del Mas en castillo del siglo X con cata de 3 vinos ecológicos"
-  - "Tapas o almuerzo completo de varios platos (según opción)"
-  - "Tour de tapas en español disponible para quien prefiere explorar en español"
-  - "4,9 ★ con 7.000+ reseñas — uno de los productos top del operador"
-
+- Tren cremallera + visita guiada al monasterio + entrada a la basílica
+- Bodega Oller del Mas en castillo del siglo X con cata de 3 vinos ecológicos
+- Tapas o almuerzo completo de varios platos (según opción)
+- Tour de tapas en español disponible para quien prefiere explorar en español
+- 4,9 ★ con 7.000+ reseñas — uno de los productos top del operador
 incluye:
-  - "Transporte compartido en autobús con aire acondicionado"
-  - "Guía turístico local en español o inglés (máximo 20 personas)"
-  - "Visita guiada al monasterio y entrada a la basílica"
-  - "Paseo en tren cremallera por la montaña"
-  - "Almuerzo regional de tapas con postre (opción de tapas)"
-  - "Comida de varios platos con vino (opción de almuerzo completo)"
-  - "Visita a bodega del siglo X (si seleccionas la opción)"
-  - "Tres catas de vinos (si seleccionas la opción)"
-
+- Transporte compartido en autobús con aire acondicionado
+- Guía turístico local en español o inglés (máximo 20 personas)
+- Visita guiada al monasterio y entrada a la basílica
+- Paseo en tren cremallera por la montaña
+- Almuerzo regional de tapas con postre (opción de tapas)
+- Comida de varios platos con vino (opción de almuerzo completo)
+- Visita a bodega del siglo X (si seleccionas la opción)
+- Tres catas de vinos (si seleccionas la opción)
 noIncluye:
-  - "Recogida y entrega en el hotel"
-  - "Propinas"
-  - "Entradas para tocar la Virgen Negra"
-
+- Recogida y entrega en el hotel
+- Propinas
+- Entradas para tocar la Virgen Negra
 puntoEncuentro:
-  texto: "Barcelona North Station, Carrer de Nàpols, 68, Eixample, 08013 Barcelona"
-  descripcionGuia: "Check-in en oficina Castlexperience dentro de la Estación de Nord, sección B. Llega 20 minutos antes de la salida (9:45)."
-  latitud: 41.3950
-  longitud: 2.1830
+  texto: Barcelona North Station, Carrer de Nàpols, 68, Eixample, 08013 Barcelona
+  descripcionGuia: Check-in en oficina Castlexperience dentro de la Estación de Nord, sección B. Llega 20 minutos antes de
+    la salida (9:45).
+  latitud: 41.395
+  longitud: 2.183
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo"
-    - "Ropa adecuada al clima"
-    - "Agua, especialmente en verano"
+  - Calzado cómodo
+  - Ropa adecuada al clima
+  - Agua, especialmente en verano
   noAptoPara:
-    - "Personas con movilidad reducida (contactar al operador antes)"
+  - Personas con movilidad reducida (contactar al operador antes)
   aTenerEnCuenta:
-    - "Salida única a las 9:45. Llega 20 minutos antes para check-in"
-    - "Grupos máximos de 20 personas por guía (raramente 22)"
-    - "La bodega Oller del Mas puede sustituirse por otra de la misma comarca por logística"
-    - "Las restricciones alimentarias se acomodan sin previo aviso"
-
-accesibilidad: "Tour no accesible en silla de ruedas. Animales de servicio sí permitidos. Para movilidad reducida, contactar antes de reservar."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso completo."
-
+  - Salida única a las 9:45. Llega 20 minutos antes para check-in
+  - Grupos máximos de 20 personas por guía (raramente 22)
+  - La bodega Oller del Mas puede sustituirse por otra de la misma comarca por logística
+  - Las restricciones alimentarias se acomodan sin previo aviso
+accesibilidad: Tour no accesible en silla de ruedas. Animales de servicio sí permitidos. Para movilidad reducida, contactar
+  antes de reservar.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
 preguntasFrecuentes:
-  - pregunta: "¿Diferencia con EXB-22 (mismo operador sin cremallera)?"
-    respuesta: "Esta SÍ incluye tren cremallera + bodega + tapas. EXB-22 SOLO tiene bodega + tapas (sin cremallera). La diferencia de precio es ~12 € (59 vs 47). Si te importa el cremallera icónico, esta es la elección."
-  - pregunta: "Tapas vs almuerzo completo: ¿qué elijo?"
-    respuesta: "Tapas: experiencia ligera con 3 vinos (más social, más rápida, ideal si solo quieres probar). Almuerzo completo: menú de varios platos con maridajes (más larga, sentada, más comida formal). Decide según si quieres comer bien o simplemente probar los vinos. La diferencia de precio entre ambas opciones suele ser ~10-15 €."
-  - pregunta: "¿Está incluida la Moreneta?"
-    respuesta: "No, la entrada para tocar la Virgen Negra NO está incluida en ninguna variante de Castlexperience. Si la quieres, intenta acceder por tu cuenta durante el tiempo libre (suele agotarse) o reserva una variante que la incluya."
-  - pregunta: "¿Cómo es Oller del Mas?"
-    respuesta: "Castillo del siglo X reconvertido en bodega ecológica, propiedad de la misma familia durante 36 generaciones. Sus vinos son orgánicos y han ganado premios reales (uno de ellos «Mejor Vino de Cataluña 2018»). Producen tintos, blancos y dulces con variedades de uva autóctonas (Picapoll, Mandó, Sumoll)."
-  - pregunta: "¿También hay tour de tapas en español?"
-    respuesta: "Sí. Es la única variante de Castlexperience que ofrece tour de tapas específicamente en español. Para hablantes nativos que prefieren guía en su idioma sin pausas de inglés, esta variante es ideal."
-
+- pregunta: ¿Diferencia con EXB-22 (mismo operador sin cremallera)?
+  respuesta: Esta SÍ incluye tren cremallera + bodega + tapas. EXB-22 SOLO tiene bodega + tapas (sin cremallera). La diferencia
+    de precio es ~12 € (59 vs 47). Si te importa el cremallera icónico, esta es la elección.
+- pregunta: 'Tapas vs almuerzo completo: ¿qué elijo?'
+  respuesta: 'Tapas: experiencia ligera con 3 vinos (más social, más rápida, ideal si solo quieres probar). Almuerzo completo:
+    menú de varios platos con maridajes (más larga, sentada, más comida formal). Decide según si quieres comer bien o simplemente
+    probar los vinos. La diferencia de precio entre ambas opciones suele ser ~10-15 €.'
+- pregunta: ¿Está incluida la Moreneta?
+  respuesta: No, la entrada para tocar la Virgen Negra NO está incluida en ninguna variante de Castlexperience. Si la quieres,
+    intenta acceder por tu cuenta durante el tiempo libre (suele agotarse) o reserva una variante que la incluya.
+- pregunta: ¿Cómo es Oller del Mas?
+  respuesta: Castillo del siglo X reconvertido en bodega ecológica, propiedad de la misma familia durante 36 generaciones.
+    Sus vinos son orgánicos y han ganado premios reales (uno de ellos «Mejor Vino de Cataluña 2018»). Producen tintos, blancos
+    y dulces con variedades de uva autóctonas (Picapoll, Mandó, Sumoll).
+- pregunta: ¿También hay tour de tapas en español?
+  respuesta: Sí. Es la única variante de Castlexperience que ofrece tour de tapas específicamente en español. Para hablantes
+    nativos que prefieren guía en su idioma sin pausas de inglés, esta variante es ideal.
 variantes:
-  - "montserrat-bodega-y-tapas-castlexperience"
-  - "montserrat-cremallera-bodega-castlexperience"
-  - "montserrat-virgen-negra-y-bodega-medieval"
-  - "montserrat-masia-bages-almuerzo-vinos"
+- montserrat-bodega-y-tapas-castlexperience
+- montserrat-cremallera-bodega-castlexperience
+- montserrat-virgen-negra-y-bodega-medieval
+- montserrat-masia-bages-almuerzo-vinos
+opinionEditorial: 'Si quieres TODO de Castlexperience en una sola reserva (cremallera + monasterio + basílica + bodega + tapas),
+  esta es la opción. Por 59 € (la oferta puntual la deja en menos) tienes 7-8 horas con todos los iconos de Montserrat y la
+  enología catalana incluidas. Es difícil hacerlo mejor por ese precio.
 
-opinionEditorial: |
-  Si quieres TODO de Castlexperience en una sola reserva (cremallera + monasterio + basílica + bodega + tapas), esta es la opción. Por 59 € (la oferta puntual la deja en menos) tienes 7-8 horas con todos los iconos de Montserrat y la enología catalana incluidas. Es difícil hacerlo mejor por ese precio.
 
-  Lo que conviene saber: NO incluye la Moreneta (necesitarás reservarla aparte si la quieres). Y los grupos son grandes (20 personas). Pero por el precio y la cantidad de cosas que cubre, sigue siendo nuestra recomendación de día completo para quien quiere cremallera + bodega.
+  Lo que conviene saber: NO incluye la Moreneta (necesitarás reservarla aparte si la quieres). Y los grupos son grandes (20
+  personas). Pero por el precio y la cantidad de cosas que cubre, sigue siendo nuestra recomendación de día completo para
+  quien quiere cremallera + bodega.
 
-  La opción de tour de tapas en español es un plus diferencial: pocos operadores la ofrecen explícitamente. Para hispanohablantes que valoran tener guía en su idioma sin tener que escuchar pausas de inglés alternadas, esta es la variante ideal.
 
-categoria: "excursionesDia"
-keywords: ["montserrat cremallera bodega tapas", "tour montserrat dia completo", "castlexperience montserrat", "oller del mas montserrat", "montserrat tapas espanol"]
+  La opción de tour de tapas en español es un plus diferencial: pocos operadores la ofrecen explícitamente. Para hispanohablantes
+  que valoran tener guía en su idioma sin tener que escuchar pausas de inglés alternadas, esta es la variante ideal.
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
-imagenAlt: "Bodega Oller del Mas en Cataluña con viñedos al fondo"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat cremallera bodega tapas
+- tour montserrat dia completo
+- castlexperience montserrat
+- oller del mas montserrat
+- montserrat tapas espanol
+imagen: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
+imagenAlt: Vista panorámica de Montserrat con formaciones rocosas escarpadas cerca de Barcelona
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Tren cremallera de Montserrat con la montaña al fondo"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Iglesia de Montserrat con arquitectura gótica, fachada de piedra y elementos religiosos solemnes
+- src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero-hero.webp
+  alt: Vista aérea de Montserrat con teleférico, Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
+  alt: Monasterio de Montserrat en Cataluña, España con arquitectura religiosa y montañas rocosas
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero-hero.webp
+  alt: Vistas panorámicas de Montserrat, macizo rocoso en Cataluña, España, cerca de Barcelona
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero-hero.webp
+  alt: Bodega de vinos tradicional en Madrid con botellas en estanterías de madera
+- src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
+  alt: Vista panorámica de Montserrat con formaciones rocosas monumentales cerca de Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero-hero.webp
+  alt: Fachada gótica de la Basílica de Montserrat en Barcelona, con torres y ornamentación arquitectónica medieval
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-13-hero-hero.webp
+  alt: Vistas panorámicas de Montserrat con sus formaciones rocosas singulares cerca de Barcelona
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-vault-cloister-columns-hero-hero.webp
+  alt: Claustro del Monasterio de Montserrat con bóvedas y columnas de piedra
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero-hero.webp
+  alt: Bodegas de vino en Madrid con botellas apiladas en toneles de madera
 ratingProveedor: 4.9
 numeroOpiniones: 7069
-
 publicada: true
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
 ---
 
 ## Qué vas a ver
