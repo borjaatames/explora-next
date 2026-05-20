@@ -135,7 +135,8 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- real-alcazar
 ---
 
 ## What you'll see
