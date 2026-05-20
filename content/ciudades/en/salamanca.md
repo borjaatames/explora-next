@@ -35,11 +35,9 @@ atracciones:
     descripcion: "Dominican convent with the city's most striking Plateresque facade. Fray Luis de León taught here, and Columbus debated his voyages with theologians here."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Plateresque facade of Salamanca's Convent of San Esteban"
-chipsFiltros:
-  - { label: "University", tag: "universidad-salamanca" }
-  - { label: "Plaza Mayor", tag: "plaza-mayor-salamanca" }
-  - { label: "Cathedrals", tag: "catedrales-salamanca" }
-  - { label: "Casa de las Conchas", tag: "casa-conchas" }
+# Sin actividades de Salamanca todavia: chips desactivados para no dejar filtros muertos.
+# Re-anadir cuando existan fichas en content/actividades/{es,en}/salamanca.
+chipsFiltros: []
 ---
 
 Salamanca is the **golden city of Castile and León**, a provincial capital of around **143,000 inhabitants** and home to **Spain's oldest university** (founded in 1218, one of the oldest in the world). It is a UNESCO World Heritage Site.
