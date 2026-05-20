@@ -116,20 +116,38 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
-- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: Narrow cobblestone street in Barcelona's Gothic Quarter with historic medieval buildings
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
+  alt: Barcelona cityscape with architectural landmarks and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
   alt: Sagrada Familia basilica front facade with ornate spires in Barcelona
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-hero-hero.webp
   alt: Casa Batlló's ornate facade with colorful mosaics and flowing balconies, Barcelona's Gaudí masterpiece
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-64034595-hero.webp
   alt: Barcelona's Gothic Quarter narrow cobblestone street with medieval buildings and architecture
-- src: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
-  alt: Barcelona cityscape with architectural landmarks and urban landscape
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
+  alt: Gothic Quarter Barcelona's narrow medieval streets and atmospheric architecture
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: Narrow cobblestone street in Barcelona's Gothic Quarter with historic medieval buildings
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero-hero.webp
   alt: Gothic Quarter Barcelona, low-angle view of ornate historic architecture against sky
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
   alt: Barcelona street scene with historic architecture and pedestrians
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-vibrant-mosaic-chimneys-showcasing-hero-hero.webp
+  alt: Casa Batlló's vibrant mosaic chimneys with colorful ceramic decorations
+- src: /images/actividades/barcelona/casa-batllo/unsplash-bvecz8smyDY-hero.webp
+  alt: Barcelona cityscape with gothic architecture and bustling streets
+- src: /images/actividades/barcelona/casa-batllo/wikimedia-8985800-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban landscape
+- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
+  alt: Barcelona cityscape with Gothic architecture and historic buildings
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Aerial view of Barcelona cityscape with Mediterranean coastline and urban architecture
+- src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban landmarks
+- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
 ---
 
 ## What you'll see

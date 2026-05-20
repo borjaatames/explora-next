@@ -119,22 +119,44 @@ atraccionesRelacionadas:
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Park Güell Barcelona with colorful mosaic architecture and city views
-- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Barcelona cityscape with modern architecture and historic buildings
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Barcelona cityscape with modern architecture and Mediterranean coastline view
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
   alt: Park Güell's colorful mosaic terraces and architectural features designed by Gaudí in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
-  alt: Barcelona cityscape with urban architecture and street view
-- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
-  alt: Park Güell's colorful mosaic terraces and architectural structures designed by Gaudí, Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Sagrada Familia basilica exterior with intricate Gothic-inspired architecture in Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
-  alt: Park Güell terrace with colorful mosaic tiles overlooking Barcelona cityscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
   alt: Barcelona cityscape with historic architecture and Mediterranean atmosphere
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
+  alt: Park Güell's colorful mosaic terraces and architectural structures designed by Gaudí, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Barcelona cityscape with modern architecture and historic buildings
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
+  alt: Park Güell terrace with colorful mosaic tiles overlooking Barcelona cityscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Barcelona urban street with modernist architecture and bustling city atmosphere
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
   alt: Dragon staircase and mosaic details at Park Güell Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Barcelona cityscape with buildings and urban architecture
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero-hero.webp
+  alt: Park Güell's colorful mosaic terraces and architecture designed by Gaudí in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-mosaic-barcelona-mosaic-2-hero-hero.webp
+  alt: Park Güell colorful mosaic tilework designed by Gaudí in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: Sagrada Familia basilica exterior with intricate Gothic architecture and towering spires in Barcelona
+- src: /images/actividades/barcelona/park-guell/pexels-27348494-hero.webp
+  alt: Barcelona cityscape with historic architecture and vibrant streets
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
+  alt: Barcelona street scene with historic architecture and urban buildings
+- src: /images/actividades/barcelona/park-guell/unsplash-aX5NLrKgRBc-hero.webp
+  alt: Panoramic view of Barcelona skyline with Mediterranean Sea and mountains in background
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
+  alt: Barcelona cityscape with Gothic architecture and narrow medieval streets
+- src: /images/actividades/barcelona/park-guell/wikimedia-8790292-hero.webp
+  alt: Barcelona street scene with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
+  alt: Sagrada Familia basilica with soaring Gothic towers in Barcelona, Spain
 ---
 
 ## What you'll see

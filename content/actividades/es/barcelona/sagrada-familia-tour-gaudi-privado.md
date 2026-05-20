@@ -115,20 +115,38 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
-- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: Calle estrecha del Barrio Gótico de Barcelona con edificios históricos de piedra y arquitectura medieval
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: Barcelona, ciudad con arquitectura moderna y tradicional
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
+  alt: Vista aérea de Barcelona con edificios modernos, calles y el mediterráneo al fondo
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas en Barcelona
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-hero-hero.webp
   alt: Fachada modernista de la Casa Batlló con formas ondulantes y colores vibrantes en Barcelona
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-64034595-hero.webp
   alt: Vista aérea de Barcelona con playas, puerto y arquitectura urbana
-- src: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
-  alt: Vista aérea de Barcelona con edificios modernos, calles y el mediterráneo al fondo
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
+  alt: Callejón estrecho del Barrio Gótico de Barcelona con atmósfera medieval y luz tenue
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: Calle estrecha del Barrio Gótico de Barcelona con edificios históricos de piedra y arquitectura medieval
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero-hero.webp
   alt: Edificios góticos de Barcelona vistos desde abajo, arquitectura medieval ornamentada
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
   alt: Vista aérea de Barcelona con sus edificios y calles
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-vibrant-mosaic-chimneys-showcasing-hero-hero.webp
+  alt: Chimeneas de mosaico vibrante en la Casa Batlló de Barcelona, arquitectura modernista
+- src: /images/actividades/barcelona/casa-batllo/unsplash-bvecz8smyDY-hero.webp
+  alt: Vistas panorámicas de Barcelona con la Sagrada Familia y arquitectura modernista bajo cielo azul
+- src: /images/actividades/barcelona/casa-batllo/wikimedia-8985800-hero.webp
+  alt: Vistas panorámicas del puerto y la costa de Barcelona con edificios modernos
+- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
+  alt: 'Barcelona: vista aérea de la ciudad con montañas al fondo y arquitectura urbana'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Vistas panorámicas de Barcelona con la sagrada familia al fondo
+- src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
+  alt: Plaza con arquitectura modernista y transeúntes en Barcelona
+- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
+  alt: Vistas panorámicas de Barcelona con arquitectura moderna y antigua
 ---
 
 ## Qué vas a ver

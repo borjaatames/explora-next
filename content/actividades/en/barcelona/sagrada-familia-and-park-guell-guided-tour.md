@@ -111,24 +111,38 @@ atraccionesRelacionadas:
 - sagrada-familia
 - park-guell
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-architecture-monument-hero-hero.webp
-  alt: Sagrada Familia cathedral with intricate Gothic and Modernist architecture in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
+  alt: Sagrada Familia basilica facade with intricate Gothic and modernist architecture in Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Group of people standing in front of Park Güell's colorful mosaic structures in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Barcelona cityscape with modern architecture and urban streets
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Barcelona cityscape with architecture and urban landmarks
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp
   alt: Park Güell's colorful mosaic terraces and architectural structures in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Soaring columns inside Sagrada Familia Cathedral, Barcelona with intricate architectural details
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Tree-lined path at Park Güell in Barcelona with architectural railings
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
-  alt: Sagrada Familia basilica facade with intricate Gothic and modernist architecture in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
   alt: Church with brown and white architecture surrounded by trees in Park Güell, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
   alt: Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details
+- src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
+  alt: Colorful ceramic statue at Park Güell with green and yellow mosaic details in Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
+  alt: Colorful mosaic dragon sculpture at Park Güell entrance in Barcelona, Spain
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Barcelona street scene with historic architecture and urban landscape
+- src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
+  alt: Stunning Barcelona cityscape view from Park Güell with modernist architecture
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban landmarks
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
+  alt: Park Güell's colorful mosaic terrace with Barcelona cityscape in background
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
+  alt: Barcelona cityscape with Gothic architecture and bustling streets
 ---
 
 ## What you'll see

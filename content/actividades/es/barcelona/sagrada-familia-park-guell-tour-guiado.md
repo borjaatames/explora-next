@@ -112,24 +112,38 @@ atraccionesRelacionadas:
 - sagrada-familia
 - park-guell
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-architecture-monument-hero-hero.webp
-  alt: Fachada de la Sagrada Familia con torres góticas y modernistas en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
+  alt: Fachada de la Sagrada Familia de Barcelona con torres ornamentadas y detalles arquitectónicos góticos modernistas
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Grupo de personas de pie frente a la entrada principal del Park Güell en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura modernista y el mar Mediterráneo al fondo
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Vistas panorámicas de Barcelona con arquitectura moderna y tradicional bajo cielo despejado
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp
   alt: Mosaicos de cerámica colorida y estructuras ondulantes del Park Güell diseñado por Gaudí en Barcelona.
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Columnas ornamentadas de la Sagrada Familia en Barcelona con detalles arquitectónicos góticos
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Camino arbolado en el Parque Güell de Barcelona con árboles a ambos lados
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
-  alt: Fachada de la Sagrada Familia de Barcelona con torres ornamentadas y detalles arquitectónicos góticos modernistas
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: Basílica de la Sagrada Familia de Barcelona con sus torres góticas y fachadas decoradas
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
   alt: Iglesia marrón y blanca junto a árboles en Park Güell, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
   alt: Fachada de la Basílica de la Sagrada Familia con torres en construcción, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
+  alt: Estatua de hormigón verde y amarillo en el Parque Güell de Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
+  alt: Dragón de mosaico multicolor del Park Güell diseñado por Gaudí en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Vista panorámica de Barcelona con la Sagrada Familia al fondo y arquitectura moderna
+- src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
+  alt: Vistas panorámicas de Barcelona desde Park Güell con arquitectura modernista
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
+  alt: Playa de Barcelona con aguas turquesas y edificios costeros al fondo
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
+  alt: Park Güell de Barcelona con terrazas de mosaico y vistas panorámicas de la ciudad
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
+  alt: Paisaje urbano de Barcelona con arquitectura modernista y vistas de la ciudad
 ---
 
 ## Qué vas a ver

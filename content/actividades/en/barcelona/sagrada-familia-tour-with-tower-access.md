@@ -102,8 +102,8 @@ keywords:
 - sagrada familia tower tour
 - sagrada familia views
 - sagrada familia tower tickets
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
-imagenAlt: Panoramic view of the Sagrada Familia with its towers visible
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+imagenAlt: Barcelona cityscape with modern architecture and Mediterranean skyline
 ratingProveedor: 4.4
 numeroOpiniones: 5238
 publicada: true
@@ -112,20 +112,42 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Barcelona street scene with historic architecture and urban surroundings
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
-  alt: Sagrada Familia basilica in Barcelona with intricate stone facades and towering spires
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
-  alt: Barcelona street view with historic buildings and urban architecture
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
+  alt: Panoramic view of the Sagrada Familia with its towers visible
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
+  alt: Barcelona street view with historic buildings and urban architecture
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
+  alt: Sagrada Familia basilica in Barcelona with intricate stone facades and towering spires
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Barcelona cityscape with historic architecture and vibrant streets
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with ornate spires and detailed Gothic architecture
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
   alt: Sagrada Familia basilica facade with tourists and construction details visible
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
+  alt: Barcelona street view with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Barcelona cityscape with modern and historic architecture
+- src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
+  alt: Barcelona cityscape with historic architecture and street view
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Barcelona cityscape with buildings and urban architecture under blue sky
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
+  alt: Barcelona cityscape with modern buildings and urban architecture
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
+  alt: Sagrada Familia's ornate ceiling with golden and blue illuminated architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
+  alt: Sagrada Familia basilica facade with intricate stone carvings and towering spires in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
+  alt: Barcelona skyline with Sagrada Familia basilica at sunset
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
+  alt: Barcelona street view with colorful buildings and bustling urban atmosphere
 ---
 
 ## What you'll see
