@@ -5,6 +5,11 @@ import { notFound } from "next/navigation";
 import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import {
+  obtenerCiudadesConActividades,
+  obtenerActividadesDestacadasPorCiudad,
+  type ActividadListItem,
+} from "@/lib/actividades";
+import {
   IDIOMAS_ACTIVOS,
   IDIOMA_LOCALE,
   esIdiomaActivo,
@@ -42,9 +47,9 @@ export async function generateMetadata({
   const languages = hreflangAlternates((l) => `${prefijoIdioma(l)}/`);
 
   return {
-    title: "ExploraSpain · Honest travel guides for visiting Spain",
+    title: "ExploraSpain · Activities, tours and tickets in Spain",
     description:
-      "Editorial guides with judgment on Madrid, Seville, Barcelona, Granada and Salamanca. Real itineraries, honest editorial picks and practical advice without tourist hype.",
+      "Book the best activities, tours and tickets in Spain: Madrid, Barcelona, Seville, Granada and more. Hand-picked, free cancellation and trusted partners.",
     alternates: {
       canonical: canonicalUrl,
       languages,
@@ -54,11 +59,20 @@ export async function generateMetadata({
       locale: IDIOMA_LOCALE[lang],
       url: canonicalUrl,
       siteName: "ExploraSpain",
-      title: "ExploraSpain · Honest travel guides for visiting Spain",
+      title: "ExploraSpain · Activities, tours and tickets in Spain",
       description:
-        "Real itineraries, honest editorial picks and practical advice for visiting Spain — without tourist hype.",
+        "Activities, tours and tickets in Spain chosen with judgment. Free cancellation and booking through trusted partners.",
     },
   };
+}
+
+/** Formatea un precio en EUR sin decimales para el locale dado. */
+function formatearPrecio(precio: number, moneda: string, locale: string): string {
+  return new Intl.NumberFormat(locale, {
+    style: "currency",
+    currency: moneda || "EUR",
+    maximumFractionDigits: 0,
+  }).format(precio);
 }
 
 export default function HomePage({ params }: Props) {
@@ -67,11 +81,25 @@ export default function HomePage({ params }: Props) {
   }
 
   const lang: Idioma = params.lang;
+  const locale = IDIOMA_LOCALE[lang];
   const dict = getDictionary(lang);
   const guias = obtenerGuiasDestacadas(lang, 3);
   const ciudades = obtenerListaCiudades(lang);
 
-  const homeUrl = `${SITE_URL}${prefijoIdioma(lang)}/`;
+  // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.
+  const nombrePorCiudad = new Map(ciudades.map((c) => [c.slug, c.nombre]));
+
+  // Actividades destacadas con variedad entre ciudades: hasta 2 por ciudad.
+  const actividades: ActividadListItem[] = [];
+  for (const slugCiudad of obtenerCiudadesConActividades(lang)) {
+    actividades.push(
+      ...obtenerActividadesDestacadasPorCiudad(lang, slugCiudad, 2)
+    );
+  }
+  const actividadesHome = [
+    ...actividades.filter((a) => a.destacada),
+    ...actividades.filter((a) => !a.destacada),
+  ].slice(0, 8);
 
   const websiteJsonLd = {
     "@context": "https://schema.org",
@@ -80,7 +108,7 @@ export default function HomePage({ params }: Props) {
     url: SITE_URL,
     inLanguage: IDIOMA_LOCALE[lang],
     description:
-      "Honest editorial guides for traveling Spain: real itineraries, honest editorial picks and practical advice.",
+      "Activities, tours and tickets in Spain chosen with judgment: book with free cancellation and trusted partners.",
   };
 
   const organizationJsonLd = {
@@ -117,88 +145,131 @@ export default function HomePage({ params }: Props) {
       <section className="bg-sky-500 text-white">
         <div className="max-w-5xl mx-auto px-4 py-20 md:py-28 text-center">
           <h1 className="font-playfair text-4xl md:text-6xl font-bold mb-6 leading-tight">
-            {dict.home.heroTitulo}
+            Activities and tours in Spain, chosen with judgment
           </h1>
           <p className="text-lg md:text-xl text-sky-50 mb-8 max-w-2xl mx-auto leading-relaxed">
-            {dict.home.heroSubtitulo}
+            Tickets, guided tours and day trips, hand-picked. With free
+            cancellation and booking through trusted partners.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href={urlIndiceGuias(lang)}
+              href="#activities"
               className="bg-amber-400 hover:bg-amber-500 text-slate-900 font-semibold px-8 py-3 rounded-lg transition-colors"
             >
-              {dict.home.ctaExplorar}
+              See featured activities
             </Link>
             <Link
-              href={`/${lang}/about`}
+              href={urlIndiceCiudades(lang)}
               className="bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/30"
             >
-              About the project
+              Explore destinations
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Featured guides */}
-      <section className="max-w-6xl mx-auto px-4 py-16 md:py-20">
-        <div className="mb-10">
-          <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
-            {dict.home.seccionGuiasDestacadas}
-          </h2>
-          <p className="text-slate-600 text-lg">
-            The latest we&rsquo;ve published: routes with judgment for
-            traveling well.
-          </p>
-        </div>
+      {/* Featured activities and tours */}
+      {actividadesHome.length > 0 && (
+        <section
+          id="activities"
+          className="max-w-6xl mx-auto px-4 py-16 md:py-20 scroll-mt-24"
+        >
+          <div className="mb-10">
+            <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
+              Featured activities and tours
+            </h2>
+            <p className="text-slate-600 text-lg">
+              The best of each city: free cancellation and instant
+              confirmation.
+            </p>
+          </div>
 
-        {guias.length === 0 ? null : (
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {guias.map((guia) => (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {actividadesHome.map((a) => (
               <Link
-                key={guia.url}
-                href={guia.url}
-                className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all"
+                key={a.url}
+                href={a.url}
+                className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md"
               >
-                <span className="inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
-                  {guia.categoria}
-                </span>
-                <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
-                  {guia.titulo}
-                </h3>
-                <p className="text-slate-600 text-sm leading-relaxed mb-4 line-clamp-3">
-                  {guia.descripcion}
-                </p>
-                <div className="flex items-center justify-between text-xs text-slate-500">
-                  <span>{formatearFecha(guia.fecha, lang)}</span>
-                  <span>
-                    {guia.tiempoLectura} {dict.guias.minutosLectura}
-                  </span>
+                <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+                  {a.imagen ? (
+                    <Image
+                      src={a.imagen}
+                      alt={a.imagenAlt}
+                      fill
+                      sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
+                      className="object-cover transition duration-300 group-hover:scale-105"
+                    />
+                  ) : null}
+                  {a.cancelacionGratuita ? (
+                    <span className="absolute top-3 left-3 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded">
+                      Free cancellation
+                    </span>
+                  ) : null}
+                </div>
+                <div className="flex flex-1 flex-col p-5">
+                  {nombrePorCiudad.get(a.ciudad) ? (
+                    <span className="text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
+                      {nombrePorCiudad.get(a.ciudad)}
+                    </span>
+                  ) : null}
+                  <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2">
+                    {a.titulo}
+                  </h3>
+                  <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-slate-500 mb-4">
+                    {a.duracion ? <span>{a.duracion}</span> : null}
+                    {typeof a.ratingProveedor === "number" &&
+                    typeof a.numeroOpiniones === "number" ? (
+                      <span>
+                        <span className="text-amber-500" aria-hidden="true">
+                          ★
+                        </span>{" "}
+                        {a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})
+                      </span>
+                    ) : null}
+                  </div>
+                  <div className="mt-auto flex items-end justify-between pt-4 border-t border-slate-100">
+                    <div>
+                      <p className="text-xs uppercase tracking-wider text-slate-400">
+                        From
+                      </p>
+                      <p className="text-xl font-bold text-slate-900">
+                        {formatearPrecio(a.precioDesde, a.moneda, locale)}
+                      </p>
+                    </div>
+                    <span
+                      aria-hidden="true"
+                      className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+                    >
+                      View activity →
+                    </span>
+                  </div>
                 </div>
               </Link>
             ))}
           </div>
-        )}
 
-        <div className="mt-10 text-center">
-          <Link
-            href={urlIndiceGuias(lang)}
-            className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
-          >
-            {dict.home.verTodas} →
-          </Link>
-        </div>
-      </section>
+          <div className="mt-10 text-center">
+            <Link
+              href={urlIndiceCiudades(lang)}
+              className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
+            >
+              See all activities by city →
+            </Link>
+          </div>
+        </section>
+      )}
 
-      {/* Cities */}
+      {/* Cities / destinations */}
       {ciudades.length > 0 && (
         <section className="bg-amber-50 border-y border-amber-200">
           <div className="max-w-6xl mx-auto px-4 py-16 md:py-20">
             <div className="mb-10">
               <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
-                {dict.home.seccionCiudades}
+                Explore by destination
               </h2>
               <p className="text-slate-700 text-lg">
-                Practical information about each city before you visit.
+                Pick your city and discover the best activities in each one.
               </p>
             </div>
 
@@ -239,38 +310,60 @@ export default function HomePage({ params }: Props) {
                 href={urlIndiceCiudades(lang)}
                 className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
               >
-                {dict.home.verTodas} →
+                See all cities →
               </Link>
             </div>
           </div>
         </section>
       )}
 
-      {/* About the project */}
-      <section className="bg-slate-50 border-y border-slate-200">
-        <div className="max-w-3xl mx-auto px-4 py-16 md:py-20">
-          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
-            What is ExploraSpain
-          </h2>
-          <p className="text-slate-700 text-lg leading-relaxed mb-4">
-            An editorial project about traveling Spain. We write honest
-            guides: routes with judgment, editorial picks, and practical
-            advice — without the inflated tone of postcard tourism.
-          </p>
-          <p className="text-slate-700 text-lg leading-relaxed mb-6">
-            There&rsquo;s a lot of information about what to see in Spain.
-            Very little about{" "}
-            <strong>what&rsquo;s actually worth it in each case</strong>.
-            ExploraSpain fills that gap.
-          </p>
-          <Link
-            href={`/${lang}/about`}
-            className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
-          >
-            Learn more about us →
-          </Link>
-        </div>
-      </section>
+      {/* Guides (accessory) */}
+      {guias.length > 0 && (
+        <section className="max-w-6xl mx-auto px-4 py-14 md:py-16">
+          <div className="flex flex-wrap items-end justify-between gap-3 mb-8">
+            <div>
+              <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
+                Guides to travel better
+              </h2>
+              <p className="text-slate-600">
+                Practical tips and routes with judgment before you book.
+              </p>
+            </div>
+            <Link
+              href={urlIndiceGuias(lang)}
+              className="text-sky-600 hover:text-sky-700 font-semibold whitespace-nowrap"
+            >
+              See all guides →
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {guias.map((guia) => (
+              <Link
+                key={guia.url}
+                href={guia.url}
+                className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all"
+              >
+                <span className="inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+                  {guia.categoria}
+                </span>
+                <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
+                  {guia.titulo}
+                </h3>
+                <p className="text-slate-600 text-sm leading-relaxed mb-4 line-clamp-3">
+                  {guia.descripcion}
+                </p>
+                <div className="flex items-center justify-between text-xs text-slate-500">
+                  <span>{formatearFecha(guia.fecha, lang)}</span>
+                  <span>
+                    {guia.tiempoLectura} {dict.guias.minutosLectura}
+                  </span>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </main>
   );
 }
