@@ -1,107 +1,127 @@
 ---
-titulo: "Flamenco Tablao Las Carboneras: Show with Drink (via Viator)"
-slug: "flamenco-las-carboneras-tapa-drink-viator"
-ciudad: "madrid"
-descripcion: "1-hour flamenco show at Tablao Las Carboneras with one drink included, booked through Viator. Intimate tablao in central Madrid with a fixed cuadro of established artists. Wheelchair accessible."
-
+titulo: 'Flamenco Tablao Las Carboneras: Show with Drink (via Viator)'
+slug: flamenco-las-carboneras-tapa-drink-viator
+ciudad: madrid
+descripcion: 1-hour flamenco show at Tablao Las Carboneras with one drink included, booked through Viator. Intimate tablao
+  in central Madrid with a fixed cuadro of established artists. Wheelchair accessible.
 slugs:
-  es: "flamenco-las-carboneras-viator"
-  en: "flamenco-las-carboneras-tapa-drink-viator"
-
-duracion: "1 hour"
+  es: flamenco-las-carboneras-viator
+  en: flamenco-las-carboneras-tapa-drink-viator
+duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 38
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Flamenco-Show-with-Tapa-and-a-Drink/d566-70755P1?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: viator
+urlReserva: https://www.viator.com/tours/Madrid/Flamenco-Show-with-Tapa-and-a-Drink/d566-70755P1?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "1-hour flamenco show at Tablao Las Carboneras"
-  - "One drink included in the price"
-  - "Intimate tablao in the basement of the former Conde de Miranda palace"
-  - "Same tablao as the GetYourGuide product (4.7/5, 758 reviews)"
-
+- 1-hour flamenco show at Tablao Las Carboneras
+- One drink included in the price
+- Intimate tablao in the basement of the former Conde de Miranda palace
+- Same tablao as the GetYourGuide product (4.7/5, 758 reviews)
 incluye:
-  - "Live flamenco show (1 hour)"
-  - "One drink (soft drink, water, wine, sangria, beer or juice)"
-
+- Live flamenco show (1 hour)
+- One drink (soft drink, water, wine, sangria, beer or juice)
 noIncluye:
-  - "Dinner or tapa (this option is show + drink only)"
-  - "Additional drinks"
-  - "Gratuities for the artists"
-
+- Dinner or tapa (this option is show + drink only)
+- Additional drinks
+- Gratuities for the artists
 puntoEncuentro:
-  texto: "Tablao Las Carboneras, Plaza del Conde de Miranda, 1. The entrance is discreet — follow the «Las Carboneras» sign."
-  descripcionGuia: "Pedestrian street between Plaza Mayor and Calle Mayor. Ópera or Sol metro 5 minutes away. Arrive 15-20 minutes early — tables are assigned on a first-come basis and side seats have a worse view."
+  texto: Tablao Las Carboneras, Plaza del Conde de Miranda, 1. The entrance is discreet — follow the «Las Carboneras» sign.
+  descripcionGuia: Pedestrian street between Plaza Mayor and Calle Mayor. Ópera or Sol metro 5 minutes away. Arrive 15-20
+    minutes early — tables are assigned on a first-come basis and side seats have a worse view.
   latitud: 40.4147
   longitud: -3.7092
   zoom: 18
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document"
-    - "Smart casual attire"
+  - ID document
+  - Smart casual attire
   noAptoPara:
-    - "Pets (service dogs only)"
+  - Pets (service dogs only)
   aTenerEnCuenta:
-    - "Free cancellation up to 24 hours before start (Viator policy)"
-    - "Tables are assigned by arrival order — get there early for a better seat"
-    - "Tablao marked as wheelchair accessible with adapted surfaces — one of the few in the historic centre"
-    - "Few validated reviews on Viator (23): the same tablao has 758 reviews on GetYourGuide"
-    - "Fixed flamenco cuadro: José Maldonado, Candy Román, Juan Herrera, Shin Yamasawa, among others"
-
-accesibilidad: "Tablao Las Carboneras is marked as wheelchair accessible — one of the few in the historic centre."
-
-politicaCancelacion: "Free cancellation up to 24 hours before the experience starts (local time)."
-
+  - Free cancellation up to 24 hours before start (Viator policy)
+  - Tables are assigned by arrival order — get there early for a better seat
+  - Tablao marked as wheelchair accessible with adapted surfaces — one of the few in the historic centre
+  - 'Few validated reviews on Viator (23): the same tablao has 758 reviews on GetYourGuide'
+  - 'Fixed flamenco cuadro: José Maldonado, Candy Román, Juan Herrera, Shin Yamasawa, among others'
+accesibilidad: Tablao Las Carboneras is marked as wheelchair accessible — one of the few in the historic centre.
+politicaCancelacion: Free cancellation up to 24 hours before the experience starts (local time).
 preguntasFrecuentes:
-  - pregunta: "Is this the same tablao as on GetYourGuide?"
-    respuesta: "Yes, it's the same Tablao Las Carboneras. On GetYourGuide it has 4.7/5 across 758 reviews (top rated). The show content is the same. The difference is the platform and the included drink."
-  - pregunta: "How do I secure a good seat?"
-    respuesta: "Arrive 15-20 minutes early. Tables are assigned by arrival order. Side seats have a worse view — ask for a central or front table on the way in."
-  - pregunta: "Is the show improvised?"
-    respuesta: "Yes, reviews mention the show is 100% improvised by the artists. Each evening is slightly different. This gives intensity but also means there's no fixed choreography."
-  - pregunta: "What languages?"
-    respuesta: "Flamenco is universal — the show doesn't require translation. Front-of-house and introduction are typically bilingual Spanish/English."
-  - pregunta: "Is it wheelchair accessible?"
-    respuesta: "Yes — Tablao Las Carboneras is marked as wheelchair accessible with adapted surfaces, one of the few in the historic centre."
+- pregunta: Is this the same tablao as on GetYourGuide?
+  respuesta: Yes, it's the same Tablao Las Carboneras. On GetYourGuide it has 4.7/5 across 758 reviews (top rated). The show
+    content is the same. The difference is the platform and the included drink.
+- pregunta: How do I secure a good seat?
+  respuesta: Arrive 15-20 minutes early. Tables are assigned by arrival order. Side seats have a worse view — ask for a central
+    or front table on the way in.
+- pregunta: Is the show improvised?
+  respuesta: Yes, reviews mention the show is 100% improvised by the artists. Each evening is slightly different. This gives
+    intensity but also means there's no fixed choreography.
+- pregunta: What languages?
+  respuesta: Flamenco is universal — the show doesn't require translation. Front-of-house and introduction are typically bilingual
+    Spanish/English.
+- pregunta: Is it wheelchair accessible?
+  respuesta: Yes — Tablao Las Carboneras is marked as wheelchair accessible with adapted surfaces, one of the few in the historic
+    centre.
+variantes:
+- flamenco-tablao-las-carboneras
+- flamenco-torres-bermejas-cena
+- essential-flamenco-viator
+opinionEditorial: 'Viator''s version of the flamenco show at Tablao Las Carboneras, with one drink included. Excellent rating
+  — 4.7/5 — but on only 23 validated Viator reviews (the same tablao has 758 reviews on GetYourGuide with an identical 4.7).
+  Price starts around €38 and includes a 1-hour show plus one drink (soft drink, water, wine, sangria, beer or juice) — this
+  option does NOT include a tapa (drink only, despite the product''s legacy title). The tablao is marked as wheelchair accessible,
+  which is rare in the historic centre.
 
-variantes: ["flamenco-tablao-las-carboneras", "flamenco-torres-bermejas-cena", "essential-flamenco-viator"]
 
-opinionEditorial: |
-  Viator's version of the flamenco show at Tablao Las Carboneras, with one drink included. Excellent rating — 4.7/5 — but on only 23 validated Viator reviews (the same tablao has 758 reviews on GetYourGuide with an identical 4.7). Price starts around €38 and includes a 1-hour show plus one drink (soft drink, water, wine, sangria, beer or juice) — this option does NOT include a tapa (drink only, despite the product's legacy title). The tablao is marked as wheelchair accessible, which is rare in the historic centre.
+  What''s worth knowing. Las Carboneras is one of central Madrid''s reference tablaos: intimate, in the basement of a historic
+  palace, with a fixed cuadro of established artists (José Maldonado, Candy Román, etc.) and real improvisation. The recurring
+  complaint in reviews is seating: if you arrive just in time, you get side seats with a worse view. Arrive 15-20 minutes
+  early and ask for a central table. Wheelchair accessibility — unusual in centre-of-Madrid tablaos — is a real differential.
 
-  What's worth knowing. Las Carboneras is one of central Madrid's reference tablaos: intimate, in the basement of a historic palace, with a fixed cuadro of established artists (José Maldonado, Candy Román, etc.) and real improvisation. The recurring complaint in reviews is seating: if you arrive just in time, you get side seats with a worse view. Arrive 15-20 minutes early and ask for a central table. Wheelchair accessibility — unusual in centre-of-Madrid tablaos — is a real differential.
 
-  Who it's for: travellers looking for intimate flamenco with a light drink in a central location, couples or small groups, travellers with reduced mobility (accessible). Who it's NOT for: families with children under 7 (closed 1-hour format), anyone wanting full dinner (look at show + dinner options), and those needing maximum social validation — GetYourGuide has 758 validated reviews of the same tablao.
+  Who it''s for: travellers looking for intimate flamenco with a light drink in a central location, couples or small groups,
+  travellers with reduced mobility (accessible). Who it''s NOT for: families with children under 7 (closed 1-hour format),
+  anyone wanting full dinner (look at show + dinner options), and those needing maximum social validation — GetYourGuide has
+  758 validated reviews of the same tablao.
 
-categoria: "espectaculos"
-keywords: ["flamenco las carboneras viator", "tablao las carboneras drink", "flamenco show madrid viator", "viator flamenco madrid", "madrid tablao viator"]
-
-imagen: "/images/actividades/madrid/la-latina/hero.webp"
-imagenAlt: "Historic Madrid neighbourhood near Tablao Las Carboneras"
-
+  '
+categoria: espectaculos
+keywords:
+- flamenco las carboneras viator
+- tablao las carboneras drink
+- flamenco show madrid viator
+- viator flamenco madrid
+- madrid tablao viator
+imagen: /images/actividades/madrid/tablao-las-carboneras/descarga-2-hero.webp
+imagenAlt: Madrid cityscape with historic buildings and urban architecture
 galeria:
-  - src: "/images/actividades/madrid/la-latina/hero.webp"
-    alt: "Historic central Madrid"
-
+- src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp
+  alt: Madrid cityscape with historic architecture and urban landscape
+- src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
+  alt: Madrid cityscape with historic architecture and urban landscape
+- src: /images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp
+  alt: Madrid cityscape with historic architecture and urban streets
+- src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
+  alt: Madrid cityscape with historic architecture and urban landscape
+- src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp
+  alt: Madrid cityscape with historic architecture and urban landscape
 ratingProveedor: 4.7
 numeroOpiniones: 23
-
 publicada: true
 destacada: false
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 atraccionesRelacionadas: []
 ---
 
