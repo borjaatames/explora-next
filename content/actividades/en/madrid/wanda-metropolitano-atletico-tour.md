@@ -114,17 +114,21 @@ keywords:
 - riyadh air metropolitano
 - atletico stadium tour
 - civitas metropolitano visit
-imagen: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-estadio-exterior-fachada-e-hero.webp
-imagenAlt: Modern Riyadh Air Metropolitano stadium facade with contemporary architecture and main entrance, Madrid
+imagen: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp
+imagenAlt: Wanda Metropolitano stadium exterior view in Madrid, Spain
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-campo-cancha-vista-01-hero.webp
-  alt: Aerial view of Madrid stadium field with green pitch and modern grandstand architecture
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-vestuarios-interiores-02-hero.webp
-  alt: Professional locker room with individual lockers, benches, and training facilities for first team
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-museo-interactivo-tecnolog-hero.webp
-  alt: Interactive museum exhibit with touchscreens, VR installations, and modern tech displays about Madrid club history
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-palco-presidencial-04-hero.webp
-  alt: Presidential stage area with reserved seats overlooking the Madrid stadium field and executive perspective
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp
+  alt: Wanda Metropolitano stadium exterior view, Madrid
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
+  alt: Wanda Metropolitano stadium in Madrid with distinctive red and white striped exterior architecture
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
+  alt: Wanda Metropolitano stadium interior with seating and pitch
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
+  alt: Wanda Metropolitano stadium exterior view in Madrid
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
+  alt: Wanda Metropolitano stadium exterior in Madrid, Spain
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
+  alt: Wanda Metropolitano stadium exterior with architectural features in Madrid
 ratingProveedor: 4.7
 numeroOpiniones: 2188
 publicada: true

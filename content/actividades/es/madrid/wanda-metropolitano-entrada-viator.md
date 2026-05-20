@@ -106,19 +106,21 @@ keywords:
 - metropolitano entrada viator
 - tour atletico madrid
 - civitas metropolitano
-imagen: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-estadio-exterior-fachada--hero.webp
-imagenAlt: Fachada moderna del Metropolitano, estadio del Atlético de Madrid, con arquitectura contemporánea y entrada principal
-  destacada
+imagen: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp
+imagenAlt: Estadio Wanda Metropolitano de Madrid, vista exterior del recinto deportivo
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-interior-graderias-campo--hero.webp
-  alt: Interior del estadio de Madrid con amplias gradas y campo de fútbol visto desde las tribunas
-- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-vestuarios-equipo-02-hero.webp
-  alt: Vestuario del Atlético de Madrid con taquillas metálicas, bancos de madera y equipamiento deportivo
-- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-museo-realidad-virtual-03-hero.webp
-  alt: Interior de museo interactivo del Atlético de Madrid con instalaciones de realidad virtual y pantallas inmersivas de
-    tecnología deportiva
-- src: /images/actividades/madrid/wanda-metropolitano-entrada-viator/wanda-metropolitano-entrada-viator-tunel-acceso-cancha-04-hero.webp
-  alt: Túnel de acceso al terreno de juego en estadio de Madrid con pasillos interiores y atmósfera de competición
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
+  alt: Estadio Wanda Metropolitano de Madrid, vista exterior del recinto deportivo
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
+  alt: Interior del Metropolitano de Madrid con pasajeros en la estación
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp
+  alt: Estadio Wanda Metropolitano de Madrid con vista exterior de su moderna arquitectura y fachada
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
+  alt: Estadio Wanda Metropolitano de Madrid, moderno recinto deportivo con estructura arquitectónica característica
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
+  alt: Estadio Metropolitano de Madrid, vista exterior de la estructura arquitectónica
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
+  alt: Wanda Metropolitano, estadio de fútbol del Atlético Madrid
 ratingProveedor: 4.4
 numeroOpiniones: 188
 publicada: true

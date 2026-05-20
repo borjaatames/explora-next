@@ -117,18 +117,21 @@ keywords:
 - riyadh air metropolitano
 - tour estadio atletico
 - civitas metropolitano visita
-imagen: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-estadio-exterior-fachada-e-hero.webp
-imagenAlt: Fachada moderna del estadio Riyadh Air Metropolitano en Madrid con letrero iluminado y entrada principal
+imagen: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp
+imagenAlt: Estadio Wanda Metropolitano de Madrid, vista frontal de la fachada principal
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-campo-cancha-vista-01-hero.webp
-  alt: Vista panorámica del estadio madridista con el campo de césped y las gradas modernas llenas de capacidad
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-vestuarios-interiores-02-hero.webp
-  alt: Vestuarios del primer equipo con taquillas metálicas, bancos y ambiente profesional de juego en Madrid.
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-museo-interactivo-tecnolog-hero.webp
-  alt: Museo interactivo del club con pantallas táctiles, instalaciones de realidad virtual y tecnología moderna para aprender
-    su historia
-- src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-palco-presidencial-04-hero.webp
-  alt: Palco presidencial del estadio con asientos de dirección y vista panorámica del campo de juego
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp
+  alt: Estadio Wanda Metropolitano de Madrid, vista exterior de la estructura arquitectónica
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
+  alt: Estadio Wanda Metropolitano de Madrid, vista exterior con estructura moderna y fachada característica
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
+  alt: Interior de la estación de Metropolitano de Madrid con pasillos y señalética
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
+  alt: Estadio Wanda Metropolitano de Madrid, vista exterior de la fachada moderna
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
+  alt: Estación de Metro de Wanda Metropolitano en Madrid
+- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
+  alt: Estadio Metropolitano de Madrid con nieve en invierno, vista exterior general
 ratingProveedor: 4.7
 numeroOpiniones: 2188
 publicada: true
