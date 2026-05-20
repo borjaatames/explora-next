@@ -1,116 +1,143 @@
 ---
-titulo: "Excursión Privada a Alcalá de Henares y Bodega desde Madrid"
-slug: "excursion-alcala-henares-bodega-privada"
-ciudad: "madrid"
-descripcion: "Excursión privada de 6 horas a Alcalá de Henares (Patrimonio UNESCO, cuna de Cervantes) con visita a bodega local y cata de vinos. 4,1/5 sobre 16 reseñas. Operador Naturanda Turismo Ambiental."
-
+titulo: Excursión Privada a Alcalá de Henares y Bodega desde Madrid
+slug: excursion-alcala-henares-bodega-privada
+ciudad: madrid
+descripcion: Excursión privada de 6 horas a Alcalá de Henares (Patrimonio UNESCO, cuna de Cervantes) con visita a bodega local
+  y cata de vinos. 4,1/5 sobre 16 reseñas. Operador Naturanda Turismo Ambiental.
 slugs:
-  es: "excursion-alcala-henares-bodega-privada"
-  en: "alcala-henares-winery-private-tour"
-
-duracion: "6 horas"
+  es: excursion-alcala-henares-bodega-privada
+  en: alcala-henares-winery-private-tour
+duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 199
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/madrid-visita-de-medio-dia-a-alcala-de-henares-t373120/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/madrid-visita-de-medio-dia-a-alcala-de-henares-t373120/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Tour privado a Alcalá de Henares, ciudad natal de Miguel de Cervantes (UNESCO)"
-  - "Recorrido a pie por la Catedral de los Santos Niños, Palacete de Laredo, Calle Mayor"
-  - "Visita a la Universidad de Alcalá (fundada en 1499)"
-  - "Visita a bodega local con cata de vinos incluida"
-  - "Transporte de ida y vuelta desde Madrid incluido"
-
+- Tour privado a Alcalá de Henares, ciudad natal de Miguel de Cervantes (UNESCO)
+- Recorrido a pie por la Catedral de los Santos Niños, Palacete de Laredo, Calle Mayor
+- Visita a la Universidad de Alcalá (fundada en 1499)
+- Visita a bodega local con cata de vinos incluida
+- Transporte de ida y vuelta desde Madrid incluido
 incluye:
-  - "Transporte privado de ida y vuelta desde Madrid"
-  - "Guía experto durante todo el tour"
-  - "Visita guiada a bodega local"
-  - "Cata de vinos"
-
+- Transporte privado de ida y vuelta desde Madrid
+- Guía experto durante todo el tour
+- Visita guiada a bodega local
+- Cata de vinos
 noIncluye:
-  - "Comida en restaurante (solo cata + algún acompañamiento de vino)"
-  - "Propinas"
-  - "Bebidas extra"
-
+- Comida en restaurante (solo cata + algún acompañamiento de vino)
+- Propinas
+- Bebidas extra
 puntoEncuentro:
-  texto: "Recogida en Madrid (punto a confirmar por el operador al reservar). Alcalá de Henares está a 40 minutos en autobús desde el centro."
-  descripcionGuia: "Es un tour privado, así que la recogida se coordina con el operador al confirmar la reserva — punto exacto a definir según tu alojamiento. Es excursión de medio día (6 horas en total con desplazamientos). Lleva calzado cómodo y ten en cuenta que parte del día estarás en Alcalá andando y parte en bodega."
+  texto: Recogida en Madrid (punto a confirmar por el operador al reservar). Alcalá de Henares está a 40 minutos en autobús
+    desde el centro.
+  descripcionGuia: Es un tour privado, así que la recogida se coordina con el operador al confirmar la reserva — punto exacto
+    a definir según tu alojamiento. Es excursión de medio día (6 horas en total con desplazamientos). Lleva calzado cómodo
+    y ten en cuenta que parte del día estarás en Alcalá andando y parte en bodega.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 12
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo (recorrido a pie por Alcalá)"
-    - "Documento de identidad"
-    - "Para el descuento de estudiante (hasta 25 años): carnet de estudiante válido"
+  - Calzado cómodo (recorrido a pie por Alcalá)
+  - Documento de identidad
+  - 'Para el descuento de estudiante (hasta 25 años): carnet de estudiante válido'
   noAptoPara:
-    - "Menores de edad (la cata de vinos limita la actividad a adultos)"
-    - "Mascotas"
+  - Menores de edad (la cata de vinos limita la actividad a adultos)
+  - Mascotas
   aTenerEnCuenta:
-    - "Tour PRIVADO — el precio se cotiza por grupo, no por persona"
-    - "Precio base $436 (~398 euros) para grupo de hasta 2 personas — para grupos mayores aumenta"
-    - "Solo 16 reseñas — producto poco validado en volumen"
-    - "La nota global es 4,1/5 con 4/5 en value for money — algunos viajeros consideran que el precio es alto"
-    - "Hay reseñas negativas puntuales sobre incidencias del operador no resueltas (revisar antes de reservar)"
-    - "La visita a bodega es de 30 minutos solo — el grueso del tour es Alcalá"
-
-accesibilidad: "El operador no marca accesibilidad expresa en silla de ruedas. Alcalá tiene casco histórico con adoquinado. Para grupos con movilidad reducida, contacta antes con el operador."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después»."
-
+  - Tour PRIVADO — el precio se cotiza por grupo, no por persona
+  - Precio base $436 (~398 euros) para grupo de hasta 2 personas — para grupos mayores aumenta
+  - Solo 16 reseñas — producto poco validado en volumen
+  - La nota global es 4,1/5 con 4/5 en value for money — algunos viajeros consideran que el precio es alto
+  - Hay reseñas negativas puntuales sobre incidencias del operador no resueltas (revisar antes de reservar)
+  - La visita a bodega es de 30 minutos solo — el grueso del tour es Alcalá
+accesibilidad: El operador no marca accesibilidad expresa en silla de ruedas. Alcalá tiene casco histórico con adoquinado.
+  Para grupos con movilidad reducida, contacta antes con el operador.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva
+  ahora y paga después».
 preguntasFrecuentes:
-  - pregunta: "¿Cuánto cuesta exactamente?"
-    respuesta: "El precio base es de aproximadamente 398-400 euros para grupo de hasta 2 personas (tour privado completo). Para grupos mayores se cotiza aparte. Por pareja sale unos 200 euros por persona; en grupo de 4, baja a unos 100 por persona. Es producto más interesante en grupo de 4-6 que en pareja por economía de escala."
-  - pregunta: "¿Qué se ve en Alcalá de Henares?"
-    respuesta: "Catedral de los Santos Niños (gótica), Palacete de Laredo, Calle Mayor (la principal del casco histórico) y la Universidad de Alcalá fundada en 1499. Alcalá es Patrimonio UNESCO desde 1998 por su trazado universitario renacentista. La ciudad natal de Cervantes es muy compacta — en 2-3 horas se ve bien."
-  - pregunta: "¿La bodega merece la pena?"
-    respuesta: "La parada en bodega es de 30 minutos según el itinerario oficial — visita corta a la cava con explicación del proceso de elaboración y cata final. Si tu interés principal es vinos, hay tours específicos solo de bodegas Madrid (Ribera del Duero, por ejemplo) más completos. Aquí la bodega es complemento al recorrido cultural."
-  - pregunta: "¿Por qué solo 16 reseñas?"
-    respuesta: "Es producto privado, por tanto vende menos volumen que tours en grupo. Las reseñas son mixtas: nota global 4,1/5 con algunas críticas puntuales (un viajero con incidencia no resuelta, otro con precio elevado para grupo de 2). Es producto MENOS validado por volumen — si la flexibilidad y el tour privado son críticos para ti, valóralo; si quieres certezas de tour masivo, mira la versión en grupo (también de Alcalá + bodega) con más reseñas."
-  - pregunta: "¿Hay alternativa en grupo más barata?"
-    respuesta: "Sí. Existe la versión NO privada de Alcalá + bodega con cata en GetYourGuide a precio por persona (en torno a 95 euros). Tiene más reseñas y rating algo mejor. La versión privada que cubrimos aquí solo tiene sentido si quieres flexibilidad total de horarios, grupo cerrado o atención exclusiva del guía."
-
+- pregunta: ¿Cuánto cuesta exactamente?
+  respuesta: El precio base es de aproximadamente 398-400 euros para grupo de hasta 2 personas (tour privado completo). Para
+    grupos mayores se cotiza aparte. Por pareja sale unos 200 euros por persona; en grupo de 4, baja a unos 100 por persona.
+    Es producto más interesante en grupo de 4-6 que en pareja por economía de escala.
+- pregunta: ¿Qué se ve en Alcalá de Henares?
+  respuesta: Catedral de los Santos Niños (gótica), Palacete de Laredo, Calle Mayor (la principal del casco histórico) y la
+    Universidad de Alcalá fundada en 1499. Alcalá es Patrimonio UNESCO desde 1998 por su trazado universitario renacentista.
+    La ciudad natal de Cervantes es muy compacta — en 2-3 horas se ve bien.
+- pregunta: ¿La bodega merece la pena?
+  respuesta: La parada en bodega es de 30 minutos según el itinerario oficial — visita corta a la cava con explicación del
+    proceso de elaboración y cata final. Si tu interés principal es vinos, hay tours específicos solo de bodegas Madrid (Ribera
+    del Duero, por ejemplo) más completos. Aquí la bodega es complemento al recorrido cultural.
+- pregunta: ¿Por qué solo 16 reseñas?
+  respuesta: 'Es producto privado, por tanto vende menos volumen que tours en grupo. Las reseñas son mixtas: nota global 4,1/5
+    con algunas críticas puntuales (un viajero con incidencia no resuelta, otro con precio elevado para grupo de 2). Es producto
+    MENOS validado por volumen — si la flexibilidad y el tour privado son críticos para ti, valóralo; si quieres certezas
+    de tour masivo, mira la versión en grupo (también de Alcalá + bodega) con más reseñas.'
+- pregunta: ¿Hay alternativa en grupo más barata?
+  respuesta: Sí. Existe la versión NO privada de Alcalá + bodega con cata en GetYourGuide a precio por persona (en torno a
+    95 euros). Tiene más reseñas y rating algo mejor. La versión privada que cubrimos aquí solo tiene sentido si quieres flexibilidad
+    total de horarios, grupo cerrado o atención exclusiva del guía.
 variantes: []
+opinionEditorial: 'Es el tour privado a Alcalá de Henares con bodega de Naturanda Turismo Ambiental: 4,1/5 sobre apenas 16
+  reseñas — volumen MUY BAJO de validación. La nota global es media-alta pero hay críticas puntuales operativas (incidencias
+  sin resolver, precio percibido como alto). El precio es de unos 398-400 euros para grupo de hasta 2 personas (tour privado
+  completo), lo que en pareja sale 199 euros por persona; en grupo de 4-6 baja sensiblemente la cuota individual. Para 2 personas
+  es caro respecto al valor del recorrido.
 
-opinionEditorial: |
-  Es el tour privado a Alcalá de Henares con bodega de Naturanda Turismo Ambiental: 4,1/5 sobre apenas 16 reseñas — volumen MUY BAJO de validación. La nota global es media-alta pero hay críticas puntuales operativas (incidencias sin resolver, precio percibido como alto). El precio es de unos 398-400 euros para grupo de hasta 2 personas (tour privado completo), lo que en pareja sale 199 euros por persona; en grupo de 4-6 baja sensiblemente la cuota individual. Para 2 personas es caro respecto al valor del recorrido.
 
-  Lo que conviene saber. Primero, este es un PRODUCTO POCO VALIDADO — 16 reseñas es muy poco para tomar decisiones con seguridad. Existe la versión en GRUPO del mismo Alcalá + bodega (otro producto de GetYourGuide, no este) con 65 reseñas, 4,3/5 y precio por persona en torno a 95 euros — esa es la opción razonable salvo que necesites tour privado expresamente. Segundo, el itinerario es desproporcionado: 2-3 horas en Alcalá, 30 minutos solo en bodega. Si quieres tour serio de vinos, contrata un tour específico de bodegas (mejor Ribera del Duero o bodegas Madrid región).
+  Lo que conviene saber. Primero, este es un PRODUCTO POCO VALIDADO — 16 reseñas es muy poco para tomar decisiones con seguridad.
+  Existe la versión en GRUPO del mismo Alcalá + bodega (otro producto de GetYourGuide, no este) con 65 reseñas, 4,3/5 y precio
+  por persona en torno a 95 euros — esa es la opción razonable salvo que necesites tour privado expresamente. Segundo, el
+  itinerario es desproporcionado: 2-3 horas en Alcalá, 30 minutos solo en bodega. Si quieres tour serio de vinos, contrata
+  un tour específico de bodegas (mejor Ribera del Duero o bodegas Madrid región).
 
-  Para quién: grupos cerrados de 4-6 personas que quieran flexibilidad total y atención exclusiva del guía, viajeros con tiempo limitado que quieran combinar Alcalá + bodega en medio día sin coordinar transporte por libre. Para quién NO: parejas que quieran ahorrar (la versión en grupo cuesta menos de la mitad por persona), viajeros que valoren validación social masiva (16 reseñas es poco), aficionados serios al vino (la parada en bodega es corta), y quienes prefieran Alcalá por libre (es fácil con Cercanías RENFE desde Madrid en 30 min por menos de 5 euros).
 
-categoria: "excursionesDia"
-keywords: ["alcala de henares excursion", "tour privado alcala henares", "alcala bodega cata vino", "excursion cervantes alcala", "tour patrimonio unesco madrid"]
+  Para quién: grupos cerrados de 4-6 personas que quieran flexibilidad total y atención exclusiva del guía, viajeros con tiempo
+  limitado que quieran combinar Alcalá + bodega en medio día sin coordinar transporte por libre. Para quién NO: parejas que
+  quieran ahorrar (la versión en grupo cuesta menos de la mitad por persona), viajeros que valoren validación social masiva
+  (16 reseñas es poco), aficionados serios al vino (la parada en bodega es corta), y quienes prefieran Alcalá por libre (es
+  fácil con Cercanías RENFE desde Madrid en 30 min por menos de 5 euros).
 
-imagen: "/images/actividades/madrid/bodegas-vino/01.webp"
-imagenAlt: "Bodega de vinos en la región de Madrid, parte del tour a Alcalá de Henares"
-
+  '
+categoria: excursionesDia
+keywords:
+- alcala de henares excursion
+- tour privado alcala henares
+- alcala bodega cata vino
+- excursion cervantes alcala
+- tour patrimonio unesco madrid
+imagen: /images/actividades/alcala-de-henares/alcala-de-henares/pixabay-954165-hero.webp
+imagenAlt: Alcalá de Henares, plaza principal con arquitectura histórica y edificios coloniales
 galeria:
-  - src: "/images/actividades/madrid/bodegas-vino/01.webp"
-    alt: "Bodega de vinos cerca de Madrid"
-
+- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
+  alt: Bartender de Madrid preparando tapas con destreza mientras mide ingredientes
+- src: /images/actividades/alcala-de-henares/alcala-de-henares/wikimedia-ayuntamiento-de-alcalá-de-henares-rps-11-06-2017-torre-del-reloj-hero.webp
+  alt: Torre del Reloj del Ayuntamiento de Alcalá de Henares
+- src: /images/actividades/madrid/tapas-madrid/pexels-28826629-hero.webp
+  alt: Paisaje urbano de Madrid con arquitectura histórica y calles concurridas
+- src: /images/actividades/madrid/bodegas-vino/01.webp
+  alt: Bodega de vinos en la región de Madrid, parte del tour a Alcalá de Henares
+- src: /images/actividades/madrid/bodegas-vino/01.webp
+  alt: Bodega de vinos cerca de Madrid
 ratingProveedor: 4.1
 numeroOpiniones: 16
-
 publicada: true
 destacada: false
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 atraccionesRelacionadas: []
-
-# TODO: producto con poca validación (16 reseñas) y rating discreto (4,1). Valorar humanamente si conviene publicarlo destacado o no. Versión en grupo del mismo tour (t373180) tiene más reseñas.
 ---
 
 ## Qué vas a ver
