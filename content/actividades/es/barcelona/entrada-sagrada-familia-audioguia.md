@@ -116,20 +116,34 @@ atraccionesRelacionadas:
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
   alt: Techo ornamentado de la Sagrada Familia iluminado en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
-  alt: Fachada de la Sagrada Familia en Barcelona con torres góticas y decoraciones arquitectónicas detalladas
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero-hero.webp
-  alt: Detalle del techo de la nave central de la Sagrada Familia en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-40415313-hero.webp
   alt: Vistas aéreas de Barcelona con la sagrada familia y edificios modernistas al atardecer
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero-hero.webp
+  alt: Detalle del techo de la nave central de la Sagrada Familia en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres ornamentadas, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
+  alt: Fachada de la Sagrada Familia en Barcelona con torres góticas y decoraciones arquitectónicas detalladas
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y decoración arquitectónica en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Ventanas de vidriera de la Sagrada Familia con colores vibrantes en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
+  alt: Vistas de Barcelona con arquitectura gótica y moderna mezclada en el horizonte urbano
+- src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
+  alt: Vistas panorámicas de Barcelona con edificios modernistas y montaña al fondo
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Vistas de Barcelona con arquitectura moderna y paisaje urbano
+- src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
+  alt: Vista panorámica de Barcelona con arquitectura moderna y la ciudad de fondo
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: Basílica de la Sagrada Familia de Barcelona con sus torres modernistas al atardecer
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
+  alt: Techo gótico intrincado de la Sagrada Familia con detalles ornamentales arquitectónicos en Barcelona.
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-7NRFpYkHsRc-hero.webp
+  alt: Barcelona vista aérea con edificios históricos y modernos bajo cielo azul
 ---
 
 ## Qué vas a ver

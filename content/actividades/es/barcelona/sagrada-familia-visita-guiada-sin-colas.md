@@ -119,6 +119,20 @@ galeria:
   alt: Basílica de la Sagrada Familia con torres góticas y modernistas, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Basílica de la Sagrada Familia de Barcelona con sus torres góticas y fachada ornamentada
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Vistas de Barcelona con arquitectura modernista y edificios históricos
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Vistas panorámicas de Barcelona con arquitectura modernista y espacios urbanos
+- src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
+  alt: Vistas panorámicas de Barcelona con edificios modernistas y arquitectura característica de la ciudad
+- src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
+  alt: Calles del centro histórico de Barcelona con arquitectura medieval y modernista
+- src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
+  alt: Vista del Paseo Marítimo de Barcelona con arquitectura costera
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
+  alt: Vistas panorámicas de Barcelona con la Sagrada Familia de fondo
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
+  alt: Basílica de la Sagrada Familia en Barcelona, fachada principal con torres góticas
 ---
 
 ## Qué vas a ver

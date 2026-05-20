@@ -118,6 +118,20 @@ galeria:
   alt: Sagrada Familia basilica in Barcelona with Gothic towers and construction site
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Sagrada Familia basilica exterior with intricate Gothic spires and stone facade in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
+  alt: Barcelona cityscape with architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
+  alt: Barcelona cityscape with modern and historic architecture
+- src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
+  alt: Barcelona street scene with historic architecture and urban buildings
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
+  alt: Barcelona cityscape with architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
+  alt: Sagrada Familia basilica with towering spires and intricate Gothic architecture in Barcelona
 ---
 
 ## What you'll see

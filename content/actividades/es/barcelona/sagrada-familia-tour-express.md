@@ -120,6 +120,26 @@ galeria:
   alt: Techo ornamentado de la Sagrada Familia en Barcelona con detalles arquitectónicos elaborados
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vitrales vibrantes de la Sagrada Familia con diseños geométricos y colores luminosos en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Barcelona, vista urbana con arquitectura moderna y tradicional
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Vistas de Barcelona con arquitectura moderna y skyline de la ciudad
+- src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
+  alt: Vistas de Barcelona con arquitectura moderna y histórica bajo cielo azul
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Vistas panorámicas de Barcelona con edificios modernistas y montaña al fondo
+- src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
+  alt: Vistas panorámicas de Barcelona con arquitectura moderna y paisaje urbano al atardecer
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
+  alt: Barcelona, vista panorámica de la ciudad con arquitectura moderna y edificios históricos
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
+  alt: Basílica de la Sagrada Familia con sus torres góticas características en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
+  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz multicolor reflejada
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
+  alt: Fachada de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
+  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con diseños geométricos y luz vibrante
 ---
 
 ## Qué vas a ver

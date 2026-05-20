@@ -118,6 +118,26 @@ galeria:
   alt: Ornate ceiling of Sagrada Familia basilica with intricate architectural details in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vibrant stained glass windows of the Sagrada Familia basilica in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban streets
+- src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
+  alt: Barcelona cityscape with Gothic architecture and historic buildings
+- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
+  alt: Barcelona cityscape with historic architecture and modern buildings at sunset
+- src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
+  alt: Barcelona cityscape with modern architecture and urban buildings at sunset
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
+  alt: Barcelona cityscape with modern architecture and urban skyline
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
+  alt: Sagrada Família basilica with towering spires and intricate stone architecture in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
+  alt: Colorful stained glass windows at Sagrada Familia basilica in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
+  alt: Sagrada Família basilica with intricate stone facade and soaring spires in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
+  alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona
 ---
 
 ## What you'll see
