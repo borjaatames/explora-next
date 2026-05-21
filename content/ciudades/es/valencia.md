@@ -3,6 +3,8 @@ nombre: "Valencia"
 slug: "valencia"
 descripcion: "La Ciudad de las Artes y las Ciencias, la cuna de la paella y un casco histórico de récord. La tercera ciudad de España, junto al Mediterráneo."
 comunidad: "Comunidad Valenciana"
+imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
+imagenAlt: "La Ciudad de las Artes y las Ciencias de Valencia reflejada en el agua"
 publicada: true
 destacada: false
 orden: 6

@@ -3,6 +3,8 @@ nombre: "Valencia"
 slug: "valencia"
 descripcion: "The City of Arts and Sciences, the birthplace of paella and a record-breaking old town. Spain's third city, right on the Mediterranean."
 comunidad: "Valencian Community"
+imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
+imagenAlt: "The City of Arts and Sciences in Valencia reflected in the water"
 publicada: true
 destacada: false
 orden: 6
