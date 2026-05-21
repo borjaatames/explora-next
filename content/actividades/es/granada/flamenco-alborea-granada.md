@@ -92,8 +92,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Escenario del Tablao Flamenco La Alboreá en el centro de Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Escenario del Tablao Flamenco La Alboreá en el centro de Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 5481
 

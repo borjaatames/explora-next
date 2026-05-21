@@ -94,8 +94,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Tablao flamenco con bailaoras y guitarrista en los Jardines de Zoraya del Albayzín"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Tablao flamenco con bailaoras y guitarrista en los Jardines de Zoraya del Albayzín"
 ratingProveedor: 4.7
 numeroOpiniones: 1431
 

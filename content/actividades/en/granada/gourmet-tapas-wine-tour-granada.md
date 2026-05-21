@@ -91,8 +91,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Traditional Granada tapa with a glass of wine at a central bar"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Traditional Granada tapa with a glass of wine at a central bar"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 

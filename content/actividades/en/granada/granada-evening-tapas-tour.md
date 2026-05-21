@@ -91,8 +91,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Albayzín street in Granada at dusk with illuminated bars"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Albayzín street in Granada at dusk with illuminated bars"
 ratingProveedor: 5.0
 numeroOpiniones: 85
 

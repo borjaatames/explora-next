@@ -52,6 +52,10 @@ atraccionesRelacionadas:
   - ciudad-artes-ciencias
 imagen: "/images/actividades/valencia/ciudad-artes/valencia-bike-tour-hero.webp"
 imagenAlt: "Group cycling in front of the City of Arts and Sciences in Valencia"
+
+galeria:
+  - src: "/images/actividades/valencia/ciudad-artes/valencia-bike-tour-hero.webp"
+    alt: "Group cycling in front of the City of Arts and Sciences in Valencia"
 ratingProveedor: 4.7
 numeroOpiniones: 289
 publicada: true

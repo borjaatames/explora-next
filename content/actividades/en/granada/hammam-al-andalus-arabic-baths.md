@@ -97,8 +97,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"
 ratingProveedor: 4.8
 numeroOpiniones: 1724
 

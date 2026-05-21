@@ -93,8 +93,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 503
 

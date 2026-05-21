@@ -91,8 +91,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Tapa tradicional granadina con copa de vino en bar del centro"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Tapa tradicional granadina con copa de vino en bar del centro"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 

@@ -90,8 +90,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Female dancer and guitarist on stage at Tablao Casa Ana in Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Female dancer and guitarist on stage at Tablao Casa Ana in Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 435
 

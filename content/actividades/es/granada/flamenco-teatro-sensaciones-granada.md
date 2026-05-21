@@ -93,8 +93,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Espectáculo flamenco con bailarines y guitarra en el Teatro Flamenco Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Espectáculo flamenco con bailarines y guitarra en el Teatro Flamenco Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 

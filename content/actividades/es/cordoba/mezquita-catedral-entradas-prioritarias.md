@@ -51,6 +51,10 @@ atraccionesRelacionadas:
   - mezquita-catedral
 imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-hero.webp"
 imagenAlt: "Arcos bicolor y bosque de columnas de la Mezquita-Catedral de Córdoba"
+
+galeria:
+  - src: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-hero.webp"
+    alt: "Arcos bicolor y bosque de columnas de la Mezquita-Catedral de Córdoba"
 ratingProveedor: 4.4
 numeroOpiniones: 386
 publicada: true

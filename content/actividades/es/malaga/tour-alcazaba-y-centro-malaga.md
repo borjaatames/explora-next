@@ -49,6 +49,10 @@ atraccionesRelacionadas:
   - centro-historico
 imagen: "/images/actividades/malaga/alcazaba/alcazaba-malaga-hero.webp"
 imagenAlt: "Murallas y jardines de la Alcazaba de Málaga con el puerto al fondo"
+
+galeria:
+  - src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-hero.webp"
+    alt: "Murallas y jardines de la Alcazaba de Málaga con el puerto al fondo"
 ratingProveedor: 4.9
 numeroOpiniones: 7
 publicada: true

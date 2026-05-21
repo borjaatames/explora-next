@@ -93,8 +93,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Tour en bicicleta eléctrica por el Albaicín de Granada con parada de tapas"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Tour en bicicleta eléctrica por el Albaicín de Granada con parada de tapas"
 ratingProveedor: 4.9
 numeroOpiniones: 116
 

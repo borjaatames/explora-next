@@ -90,8 +90,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Barra de un bar de tapas tradicional en el Albayzín de Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Barra de un bar de tapas tradicional en el Albayzín de Granada"
 ratingProveedor: 4.9
 numeroOpiniones: 101
 

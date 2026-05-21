@@ -48,6 +48,10 @@ keywords:
   - "que hacer cerca de valencia"
 imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-hero.webp"
 imagenAlt: "Paseo en barca por el río subterráneo de las Cuevas de San José cerca de Valencia"
+
+galeria:
+  - src: "/images/actividades/valencia/excursiones/cuevas-san-jose-hero.webp"
+    alt: "Paseo en barca por el río subterráneo de las Cuevas de San José cerca de Valencia"
 ratingProveedor: 4.6
 numeroOpiniones: 785
 publicada: true

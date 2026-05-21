@@ -52,6 +52,10 @@ atraccionesRelacionadas:
   - juderia
 imagen: "/images/actividades/cordoba/juderia/juderia-cordoba-hero.webp"
 imagenAlt: "Calleja de las Flores de la Judería de Córdoba con la torre de la Mezquita al fondo"
+
+galeria:
+  - src: "/images/actividades/cordoba/juderia/juderia-cordoba-hero.webp"
+    alt: "Calleja de las Flores de la Judería de Córdoba con la torre de la Mezquita al fondo"
 ratingProveedor: 4.5
 numeroOpiniones: 55
 publicada: true

@@ -49,6 +49,10 @@ keywords:
   - "mercado de ruzafa"
 imagen: "/images/actividades/valencia/gastronomia/clase-paella-valencia-hero.webp"
 imagenAlt: "Paella valenciana cocinándose sobre el fuego en una clase de cocina en Valencia"
+
+galeria:
+  - src: "/images/actividades/valencia/gastronomia/clase-paella-valencia-hero.webp"
+    alt: "Paella valenciana cocinándose sobre el fuego en una clase de cocina en Valencia"
 ratingProveedor: 4.97
 numeroOpiniones: 1005
 publicada: true

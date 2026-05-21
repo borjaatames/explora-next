@@ -95,8 +95,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Fachada azul y blanca de una cueva-tablao flamenco del Sacromonte de Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Fachada azul y blanca de una cueva-tablao flamenco del Sacromonte de Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 1107
 

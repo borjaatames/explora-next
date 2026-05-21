@@ -99,8 +99,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra"
 ratingProveedor: 4.4
 numeroOpiniones: 724
 

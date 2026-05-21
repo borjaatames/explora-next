@@ -94,8 +94,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"
 ratingProveedor: 4.6
 numeroOpiniones: 1286
 

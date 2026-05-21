@@ -95,8 +95,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer"
 ratingProveedor: 4.9
 numeroOpiniones: 3200
 

@@ -94,8 +94,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 2093
 

@@ -94,8 +94,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
 imagenAlt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+    alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
 ratingProveedor: 4.7
 numeroOpiniones: 312
 

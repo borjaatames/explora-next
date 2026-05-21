@@ -99,8 +99,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Pool at Hammam Palacio Nazarí in Granada with traditional Arab lighting"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Pool at Hammam Palacio Nazarí in Granada with traditional Arab lighting"
 ratingProveedor: 4.5
 numeroOpiniones: 860
 

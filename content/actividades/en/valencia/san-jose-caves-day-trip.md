@@ -48,6 +48,10 @@ keywords:
   - "what to do near valencia"
 imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-hero.webp"
 imagenAlt: "Boat ride along the underground river of the San José Caves near Valencia"
+
+galeria:
+  - src: "/images/actividades/valencia/excursiones/cuevas-san-jose-hero.webp"
+    alt: "Boat ride along the underground river of the San José Caves near Valencia"
 ratingProveedor: 4.6
 numeroOpiniones: 785
 publicada: true

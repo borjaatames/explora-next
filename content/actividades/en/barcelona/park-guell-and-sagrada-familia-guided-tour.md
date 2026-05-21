@@ -85,6 +85,10 @@ keywords: ["park guell and sagrada familia tour", "gaudi tour barcelona", "sagra
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp"
 imagenAlt: "Panoramic view of the intricate façade of the Sagrada Familia"
 
+galeria:
+  - src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp"
+    alt: "Panoramic view of the intricate façade of the Sagrada Familia"
+
 ratingProveedor: 4.8
 numeroOpiniones: 1184
 

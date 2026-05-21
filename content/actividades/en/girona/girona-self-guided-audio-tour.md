@@ -39,6 +39,10 @@ atraccionesRelacionadas:
   - catedral
 imagen: "/images/actividades/girona/casco-medieval/girona-casco-antiguo-hero.webp"
 imagenAlt: "Girona Cathedral at the top of its monumental staircase"
+
+galeria:
+  - src: "/images/actividades/girona/casco-medieval/girona-casco-antiguo-hero.webp"
+    alt: "Girona Cathedral at the top of its monumental staircase"
 publicada: true
 destacada: false
 fecha: "2026-05-21"

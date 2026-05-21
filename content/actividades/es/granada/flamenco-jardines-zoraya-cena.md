@@ -98,8 +98,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Cena en el tablao Jardines de Zoraya del Albayzín antes del espectáculo flamenco"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Cena en el tablao Jardines de Zoraya del Albayzín antes del espectáculo flamenco"
 ratingProveedor: 4.6
 numeroOpiniones: 288
 

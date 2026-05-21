@@ -39,6 +39,10 @@ atraccionesRelacionadas:
   - casco-medieval
 imagen: "/images/actividades/girona/costa-brava/girona-pueblos-medievales-hero.webp"
 imagenAlt: "Pueblo medieval de piedra del Empordà cerca de Girona"
+
+galeria:
+  - src: "/images/actividades/girona/costa-brava/girona-pueblos-medievales-hero.webp"
+    alt: "Pueblo medieval de piedra del Empordà cerca de Girona"
 ratingProveedor: 4.99
 numeroOpiniones: 228
 publicada: true

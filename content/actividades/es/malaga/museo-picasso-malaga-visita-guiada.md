@@ -48,6 +48,10 @@ atraccionesRelacionadas:
   - picasso
 imagen: "/images/actividades/malaga/picasso/museo-picasso-malaga-hero.webp"
 imagenAlt: "Patio del Palacio de Buenavista, sede del Museo Picasso de Málaga"
+
+galeria:
+  - src: "/images/actividades/malaga/picasso/museo-picasso-malaga-hero.webp"
+    alt: "Patio del Palacio de Buenavista, sede del Museo Picasso de Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 40
 publicada: true

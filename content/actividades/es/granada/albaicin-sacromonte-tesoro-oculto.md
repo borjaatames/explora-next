@@ -96,8 +96,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Mirador de los Carvajales en el Albaicín de Granada con vistas a la Alhambra"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Mirador de los Carvajales en el Albaicín de Granada con vistas a la Alhambra"
 ratingProveedor: 4.7
 numeroOpiniones: 595
 

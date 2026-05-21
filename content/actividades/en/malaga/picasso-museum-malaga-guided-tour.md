@@ -48,6 +48,10 @@ atraccionesRelacionadas:
   - picasso
 imagen: "/images/actividades/malaga/picasso/museo-picasso-malaga-hero.webp"
 imagenAlt: "Courtyard of the Buenavista Palace, home of the Picasso Museum in Málaga"
+
+galeria:
+  - src: "/images/actividades/malaga/picasso/museo-picasso-malaga-hero.webp"
+    alt: "Courtyard of the Buenavista Palace, home of the Picasso Museum in Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 40
 publicada: true

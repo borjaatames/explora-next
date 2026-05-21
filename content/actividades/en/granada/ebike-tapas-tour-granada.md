@@ -93,8 +93,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "E-bike tour through the Albaicín of Granada with a tapas stop"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "E-bike tour through the Albaicín of Granada with a tapas stop"
 ratingProveedor: 4.9
 numeroOpiniones: 116
 

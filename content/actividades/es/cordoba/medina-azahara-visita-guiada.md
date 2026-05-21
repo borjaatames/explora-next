@@ -51,6 +51,10 @@ atraccionesRelacionadas:
   - medina-azahara
 imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-hero.webp"
 imagenAlt: "Arcos restaurados del Salón Rico de Medina Azahara cerca de Córdoba"
+
+galeria:
+  - src: "/images/actividades/cordoba/medina-azahara/medina-azahara-hero.webp"
+    alt: "Arcos restaurados del Salón Rico de Medina Azahara cerca de Córdoba"
 ratingProveedor: 4.9
 numeroOpiniones: 244
 publicada: true

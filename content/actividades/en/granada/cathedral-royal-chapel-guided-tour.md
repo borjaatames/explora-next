@@ -91,8 +91,9 @@ atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
 imagenAlt: "Facade of the Royal Chapel and Cathedral of Granada"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+    alt: "Facade of the Royal Chapel and Cathedral of Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 413
 

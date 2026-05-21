@@ -51,6 +51,10 @@ atraccionesRelacionadas:
   - caminito-del-rey
 imagen: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-hero.webp"
 imagenAlt: "Pasarela del Caminito del Rey colgada en el desfiladero de los Gaitanes, Málaga"
+
+galeria:
+  - src: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-hero.webp"
+    alt: "Pasarela del Caminito del Rey colgada en el desfiladero de los Gaitanes, Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 726
 publicada: true

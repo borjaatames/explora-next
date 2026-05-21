@@ -94,8 +94,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Flamenco tablao with dancers and guitarist at Jardines de Zoraya in the Albayzín"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Flamenco tablao with dancers and guitarist at Jardines de Zoraya in the Albayzín"
 ratingProveedor: 4.7
 numeroOpiniones: 1431
 

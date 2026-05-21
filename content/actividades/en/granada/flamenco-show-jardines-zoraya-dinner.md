@@ -98,8 +98,9 @@ atraccionesRelacionadas:
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Dinner at the Jardines de Zoraya tablao in the Albayzín before the flamenco show"
 
-galeria: []
-
+galeria:
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+    alt: "Dinner at the Jardines de Zoraya tablao in the Albayzín before the flamenco show"
 ratingProveedor: 4.6
 numeroOpiniones: 288
 

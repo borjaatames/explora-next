@@ -90,6 +90,10 @@ keywords: ["sagrada familia fast track tour", "sagrada familia guided tour engli
 imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-showcasing-hero.webp"
 imagenAlt: "Panoramic view of the Sagrada Familia vault from the central nave"
 
+galeria:
+  - src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-showcasing-hero.webp"
+    alt: "Panoramic view of the Sagrada Familia vault from the central nave"
+
 ratingProveedor: 4.9
 numeroOpiniones: 1431
 

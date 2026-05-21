@@ -39,6 +39,10 @@ atraccionesRelacionadas:
   - casco-medieval
 imagen: "/images/actividades/girona/costa-brava/girona-costa-brava-hero.webp"
 imagenAlt: "Colourful houses of Girona over the Oñar river"
+
+galeria:
+  - src: "/images/actividades/girona/costa-brava/girona-costa-brava-hero.webp"
+    alt: "Colourful houses of Girona over the Oñar river"
 ratingProveedor: 4.9
 numeroOpiniones: 7496
 publicada: true

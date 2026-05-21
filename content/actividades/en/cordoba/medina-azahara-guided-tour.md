@@ -51,6 +51,10 @@ atraccionesRelacionadas:
   - medina-azahara
 imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-hero.webp"
 imagenAlt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
+
+galeria:
+  - src: "/images/actividades/cordoba/medina-azahara/medina-azahara-hero.webp"
+    alt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
 ratingProveedor: 4.9
 numeroOpiniones: 244
 publicada: true
