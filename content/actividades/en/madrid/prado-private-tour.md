@@ -79,17 +79,30 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["private prado tour", "private guide madrid prado", "prado museum private visit", "prado tour english private"]
 
-imagen: "/images/actividades/madrid/prado/estatua-velazquez.webp"
-imagenAlt: "Velázquez statue in front of the Prado Museum"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
+imagenAlt: "The Prado Museum building, Madrid"
+
 galeria:
-  - src: "/images/actividades/madrid/prado/fachada-principal.webp"
-    alt: "Main facade of the Prado Museum in Madrid"
-  - src: "/images/actividades/madrid/prado/fachada-tarde.webp"
-    alt: "Prado Museum facade in the late afternoon light"
-  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
-    alt: "Interior gallery of a classical art museum with visitors"
-  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
-    alt: "Visitor contemplating a painting in a museum gallery"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+    alt: "Entrance to the Prado Museum, Madrid"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"
+    alt: "The Prado Museum building, Madrid"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-francisco-goya-maja-desnuda-hero.webp"
+    alt: "The Naked Maja by Goya (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-triomf-van-doodsthe-triumph-death-hero.webp"
+    alt: "The Triumph of Death by Bruegel (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-by-bosch-hero.webp"
+    alt: "The Garden of Earthly Delights by Bosch (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-label-qs-hero.webp"
+    alt: "The Garden of Earthly Delights by Bosch, detail (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-spanish-tres-gracias-three-hero.webp"
+    alt: "The Three Graces by Rubens (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-hero.webp"
+    alt: "The Surrender of Breda by Velázquez (Prado Museum)"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp"
+    alt: "Paseo del Prado, Madrid"
+  - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-plaza-canovas-castillo-espana-2017-hero.webp"
+    alt: "Fountain of Neptune, Madrid"
 
 ratingProveedor: 4.7
 numeroOpiniones: 91

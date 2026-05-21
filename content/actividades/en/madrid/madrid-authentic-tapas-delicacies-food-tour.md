@@ -96,26 +96,22 @@ keywords: ["madrid tapas tour", "secret food tours madrid", "madrid food tour wi
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp"
-imagenAlt: "Beautiful architectural buildings in Madrid under a bright blue sky."
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+imagenAlt: "Plaza Mayor, Madrid"
 
 galeria:
-  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
-    alt: "pexels kuremo 8660221"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "Madrid, Plaza Mayor, 2016, (02)"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
-    alt: "Aceitunas"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
-    alt: "Puerta sol madrid building spain capital city en Puerta sol"
-  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-bar-hawaiano-plaza-santa-ana-rainy-hero.webp"
-    alt: "Bar Hawaiano, Plaza de Santa Ana, Madrid (rainy December)"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-ham-delicacy-food-meat-swine-hero.webp"
-    alt: "Tapas madrid ham delicacy food meat swine en Tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
-    alt: "Close-up of a hand breaking a cheesy croquette, showcasing melted cheese filling."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
+    alt: "Spanish cured meats and drinks"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-patagonia-churros-hot-chocolate-hero.webp"
+    alt: "Churros with hot chocolate"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-joselita-hero.webp"
+    alt: "Iberian ham (jamón ibérico)"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
-    alt: "Tapas madrid open toast spanish omelette en Tapas"
+    alt: "Open toast with Spanish omelette"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-001-hero.webp"
+    alt: "Mercado de San Miguel, Madrid"
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-stunning-view-hotel-riu-plaza-hero.webp"
+    alt: "View over central Madrid"
 ratingProveedor: 4.9
 numeroOpiniones: 147
 

@@ -91,22 +91,28 @@ keywords: ["madrid food tour", "secret food tours madrid", "tapas tour madrid", 
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
-imagenAlt: "Puerta sol madrid statue city en Puerta sol"
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+imagenAlt: "Plaza Mayor, Madrid (Casa de la Panadería)"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
-    alt: "Bocadillo de calamares 22"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
-    alt: "Aceitunas manzanilla (España)"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
-    alt: "Crowds gather at the historic Plaza Mayor in Madrid, España with its iconic architecture."
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
-    alt: "Tapas madrid interior bar stools glass cups en Tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
-    alt: "Tapas madrid open toast spanish omelette en Tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-white-table-topped-bowl-food-glass-hero.webp"
-    alt: "Tapas madrid white table topped bowl food glass en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp"
+    alt: "Spanish potato omelette (tortilla de patatas)"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-potatoes-food-kitchen-hero.webp"
+    alt: "Spanish tortilla being prepared"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-lazo-hero.webp"
+    alt: "Churros with hot chocolate"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-green-olives-small-white-bowl-hero.webp"
+    alt: "Spanish green olives"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Iberian ham tapa"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "Mercado de San Miguel, Madrid"
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-discover-quaint-street-classic-hero.webp"
+    alt: "A classic street in central Madrid"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Puerta del Sol, Madrid"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp"
+    alt: "Plaza de la Villa, historic Madrid"
 ratingProveedor: 5.0
 numeroOpiniones: 840
 

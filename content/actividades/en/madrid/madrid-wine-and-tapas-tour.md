@@ -91,24 +91,18 @@ keywords: ["madrid tapas tour", "madrid wine tour", "barrio de las letras", "sma
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-15-hero.webp"
-imagenAlt: "Plaza cibeles fuente madrid 15 en Plaza cibeles"
+imagen: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-grayscale-photo-brick-street-hero.webp"
+imagenAlt: "A street in Madrid's Barrio de las Letras"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
-    alt: "Tapas madrid open toast spanish omelette en Tapas"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-    alt: "Felipe III - Casa de la Panadería - Plaza Mayor de Madrid - 02"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
-    alt: "Appetizing fried arancini balls served on white plate in cozy setting."
-  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp"
-    alt: "Gran via madrid madrid spain road plaza callao en Gran via"
-  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
-    alt: "pexels kuremo 8660221"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
-    alt: "Tapas madrid jamon iberico bellota cinco jotas en Tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
-    alt: "Bartender skillfully measures and pours red wine in a bar setting."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tapa-mejillon-2009-hero.webp"
+    alt: "Mussel tapa"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-cobblestones-road-street-pavement-hero.webp"
+    alt: "Cobbled street in Barrio de las Letras, Madrid"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
+    alt: "The Bear and the Strawberry Tree statue, Puerta del Sol"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-plaza-santa-ana-cerveceria-alemana-hero.webp"
+    alt: "Cervecería Alemana, Plaza de Santa Ana, Madrid"
 ratingProveedor: 4.9
 numeroOpiniones: 3830
 

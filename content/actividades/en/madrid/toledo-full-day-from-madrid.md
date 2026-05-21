@@ -87,16 +87,32 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["toledo full day tour", "toledo from madrid", "madrid to toledo day trip", "toledo cathedral tour", "toledo guided day trip"]
 
-imagen: "/images/actividades/madrid/toledo/casco-antiguo-atardecer.webp"
-imagenAlt: "Panoramic view of Toledo's old town at sunset over the Tagus river"
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-may-2017-hero.webp"
+imagenAlt: "The Alcázar of Toledo, Spain"
 
 galeria:
-  - src: "/images/actividades/madrid/toledo/hero-puente-alcazar.webp"
-    alt: "San Martín bridge in Toledo with the old town in the background"
-  - src: "/images/actividades/madrid/toledo/arco-mudejar-hiedra.webp"
-    alt: "Mudejar arch covered in ivy in a street of Toledo's Jewish quarter"
-  - src: "/images/actividades/madrid/toledo/casco-antiguo-detalle-mudejar.webp"
-    alt: "Mudejar facade detail in Toledo's old town"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp"
+    alt: "Toledo Cathedral"
+  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp"
+    alt: "Interior of the Gothic Toledo Cathedral"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-ext-01-hero.webp"
+    alt: "Monastery of San Juan de los Reyes, Toledo (exterior)"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp"
+    alt: "Monastery of San Juan de los Reyes, Toledo"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"
+    alt: "Mosque of Cristo de la Luz, Toledo (façade)"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-altar-hero.webp"
+    alt: "Mosque of Cristo de la Luz, Toledo (interior)"
+  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157710301-hero.webp"
+    alt: "Synagogue of Santa María la Blanca, Toledo"
+  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-sala-oracion-hero.webp"
+    alt: "Prayer hall of the Synagogue of El Tránsito, Toledo"
+  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-august-2012-hero.webp"
+    alt: "San Martín bridge, Toledo"
+  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-hero.webp"
+    alt: "Puerta Nueva de Bisagra, Toledo (façade)"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp"
+    alt: "Stunning panoramic view of Toledo, Spain"
 
 ratingProveedor: 4.8
 numeroOpiniones: 7252

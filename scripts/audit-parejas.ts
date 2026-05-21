@@ -30,6 +30,12 @@
  *      las ciudades usan slug invariante y `slugParejaCiudad` resuelve
  *      por existencia física del archivo (ver lib/i18n/slugs.ts).
  *
+ *   6. (Solo actividades) Si una ficha tiene gemelo ES↔EN en disco, ambas
+ *      versiones deben compartir EXACTAMENTE el mismo hero (`imagen`) y la
+ *      misma galería (lista de `src`). Las fotos son las mismas; solo el
+ *      `alt` cambia de idioma. Divergencia = ERROR. La comprobación se hace
+ *      una vez por pareja, desde el lado ES.
+ *
  * Plantillas (`_TEMPLATE.md`, archivos cuyo nombre empiece por "_") se
  * excluyen siempre.
  *
@@ -122,6 +128,53 @@ function nombreSinExtension(fullPath: string): string {
   return path.basename(fullPath, ".md");
 }
 
+/**
+ * Extrae el hero (`imagen`) y la lista ordenada de `src` de la galería de
+ * un frontmatter de actividad. La galería puede ser lista de objetos
+ * `{ src, alt }` o lista de strings.
+ */
+function extraerImagenes(
+  data: Record<string, unknown>
+): { hero: string | null; galeria: string[] } {
+  const hero = typeof data.imagen === "string" ? data.imagen : null;
+  const galRaw = Array.isArray(data.galeria) ? data.galeria : [];
+  const galeria = galRaw.map((it) => {
+    if (it && typeof it === "object" && "src" in it) {
+      return String((it as { src: unknown }).src);
+    }
+    return String(it);
+  });
+  return { hero, galeria };
+}
+
+/**
+ * Regla 6: una pareja de actividades ES↔EN debe compartir el mismo hero y
+ * la misma galería (mismos `src`, mismo orden). Se llama una vez por pareja
+ * desde el lado ES. Si alguna versión está sin publicar, se omite.
+ */
+function compararImagenesPareja(esPath: string, enPath: string): void {
+  const a = leerFrontmatter(esPath);
+  const b = leerFrontmatter(enPath);
+  if (!a || !b) return;
+  if (a.publicada === false || b.publicada === false) return;
+  const ia = extraerImagenes(a);
+  const ib = extraerImagenes(b);
+  if (ia.hero !== ib.hero) {
+    hallazgos.push({
+      nivel: "error",
+      archivo: enPath,
+      mensaje: `hero (imagen) distinto al gemelo ES. ES="${ia.hero}" · EN="${ib.hero}". Los gemelos deben usar la misma imagen de portada.`,
+    });
+  }
+  if (JSON.stringify(ia.galeria) !== JSON.stringify(ib.galeria)) {
+    hallazgos.push({
+      nivel: "error",
+      archivo: enPath,
+      mensaje: `galería distinta al gemelo ES (ES ${ia.galeria.length} foto(s), EN ${ib.galeria.length}). Ambas versiones deben listar los mismos \`src\` en el mismo orden; solo el \`alt\` cambia de idioma.`,
+    });
+  }
+}
+
 function auditarMarkdown(fullPath: string, raiz: string): void {
   const data = leerFrontmatter(fullPath);
   const slugFichero = nombreSinExtension(fullPath);
@@ -199,6 +252,9 @@ function auditarMarkdown(fullPath: string, raiz: string): void {
         archivo: fullPath,
         mensaje: `slugs.${idiomaOpuesto} = "${slugOpuestoDeclarado}" pero no existe el archivo ${path.relative(process.cwd(), metaOpuesto.pathOpuesto)}.`,
       });
+    } else if (raiz === ACTIVIDADES_ROOT && idiomaActual === "es") {
+      // Regla 6: la pareja existe → hero y galería deben coincidir.
+      compararImagenesPareja(fullPath, metaOpuesto.pathOpuesto);
     }
   } else {
     // No declara pareja. Comprobamos si existe en disco un .md "candidato

@@ -97,24 +97,22 @@ keywords: ["madrid tapas rooftop tour", "madrid food and wine tour", "world expe
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-man-riding-horse-city-hero.webp"
-imagenAlt: "Puerta sol madrid statue man riding horse city en Puerta sol"
+imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
+imagenAlt: "Rooftop view over Madrid"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-spoon-full-olives-plate-hero.webp"
-    alt: "Tapas madrid spoon full olives plate en Tapas"
-  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-view-city-from-high-point-view-hero.webp"
-    alt: "Gran via madrid view city from high point view en Gran via"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
-    alt: "Appetizing fried arancini balls served on white plate in cozy setting."
-  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
-    alt: "pexels emanuele nuccilli 1919977143 28826629 (1)"
-  - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
-    alt: "Plaza santa ana madrid 26159833570 en Plaza santa ana"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
-    alt: "Tapas madrid jamon iberico tapa en Tapas"
-  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-elegant-building-lit-trees-night-hero.webp"
-    alt: "Elegant building and lit trees in Madrid at night, capturing urban romance and architecture."
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
+    alt: "Patatas bravas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"
+    alt: "Pinchos with red wine"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp"
+    alt: "Sardine tapa with a glass of beer"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp"
+    alt: "Gran Vía, Madrid"
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-water-fountain-statue-lion-top-it-hero.webp"
+    alt: "Cibeles Fountain, Madrid"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
+    alt: "Puerta del Sol, Madrid"
 ratingProveedor: 4.8
 numeroOpiniones: 619
 

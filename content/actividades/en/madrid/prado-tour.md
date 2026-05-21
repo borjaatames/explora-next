@@ -81,17 +81,26 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["prado museum tour", "skip the line prado", "velazquez goya tour madrid", "prado guided tour english"]
 
-imagen: "/images/actividades/madrid/prado/fachada-principal.webp"
-imagenAlt: "Main facade of the Prado Museum in Madrid"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp"
+imagenAlt: "The Prado Museum, Madrid"
+
 galeria:
-  - src: "/images/actividades/madrid/prado/fachada-tarde.webp"
-    alt: "Prado Museum facade in the late afternoon light"
-  - src: "/images/actividades/madrid/prado/estatua-velazquez.webp"
-    alt: "Velázquez statue in front of the Prado Museum"
-  - src: "/images/actividades/madrid/prado/ambiente-galeria-museo.webp"
-    alt: "Interior gallery of a classical art museum with visitors"
-  - src: "/images/actividades/madrid/prado/visitante-contemplando.webp"
-    alt: "Visitor contemplating a painting in a museum gallery"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-monastery-09-hero.webp"
+    alt: "The Prado Museum building, Madrid"
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
+    alt: "The Prado Museum building, Madrid"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp"
+    alt: "The Garden of Earthly Delights by Bosch (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-2-hero.webp"
+    alt: "The Surrender of Breda by Velázquez (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-apollo-forge-vulcan-label-qs-leu-hero.webp"
+    alt: "Apollo in the Forge of Vulcan by Velázquez (Prado Museum)"
+  - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp"
+    alt: "Charles V at Mühlberg by Titian (Prado Museum)"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
+    alt: "Paseo del Prado, Madrid"
+  - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp"
+    alt: "Fountain of Neptune, Madrid"
 
 ratingProveedor: 4.8
 numeroOpiniones: 549
