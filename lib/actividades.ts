@@ -313,6 +313,48 @@ export function obtenerActividadesDestacadasPorCiudad(
 }
 
 /**
+ * Selección curada de actividades "estrella" para la portada (home).
+ *
+ * Son las que promocionamos en Google Ads y mejor convierten, no un
+ * surtido por ciudad. Se define por slug ES (única fuente de verdad);
+ * para otros idiomas se resuelve automáticamente la ficha gemela vía
+ * `slugs.es`, así no hay dos listas que mantener.
+ *
+ * Para cambiar la portada, edita SLUGS_ACTIVIDADES_HOME.
+ */
+const SLUGS_ACTIVIDADES_HOME: ReadonlyArray<{ ciudad: string; slug: string }> = [
+  { ciudad: "barcelona", slug: "entrada-sagrada-familia-audioguia" },
+  { ciudad: "granada", slug: "visita-guiada-alhambra-generalife" },
+  { ciudad: "madrid", slug: "excursion-toledo-dia-completo" },
+  { ciudad: "barcelona", slug: "park-guell-tour-guiado-mejor-valorado-sin-colas" },
+  { ciudad: "granada", slug: "alhambra-palacios-nazaries-sin-colas" },
+  { ciudad: "madrid", slug: "excursion-avila-segovia-con-entradas" },
+  { ciudad: "barcelona", slug: "barcelona-un-dia-sagrada-familia-park-guell" },
+  { ciudad: "madrid", slug: "excursion-toledo-medio-dia" },
+];
+
+export function obtenerActividadesHome(idioma: Idioma): ActividadListItem[] {
+  const cachePorCiudad = new Map<string, ActividadListItem[]>();
+  const resultado: ActividadListItem[] = [];
+
+  for (const { ciudad, slug } of SLUGS_ACTIVIDADES_HOME) {
+    if (!cachePorCiudad.has(ciudad)) {
+      cachePorCiudad.set(ciudad, obtenerListaActividadesPorCiudad(idioma, ciudad));
+    }
+    const lista = cachePorCiudad.get(ciudad)!;
+    // En ES el nombre del fichero es el slug; en otros idiomas se resuelve
+    // la ficha gemela por su `slugs.es`.
+    const item =
+      idioma === "es"
+        ? lista.find((a) => a.slug === slug)
+        : lista.find((a) => a.slugs?.es === slug);
+    if (item) resultado.push(item);
+  }
+
+  return resultado;
+}
+
+/**
  * Agrupa las actividades de una ciudad por categoría.
  * Útil para el listado tipo Viator (secciones por categoría).
  */

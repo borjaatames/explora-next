@@ -3,11 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
-import {
-  obtenerCiudadesConActividades,
-  obtenerActividadesDestacadasPorCiudad,
-  type ActividadListItem,
-} from "@/lib/actividades";
+import { obtenerActividadesHome } from "@/lib/actividades";
 import {
   formatearFecha,
   hreflangAlternates,
@@ -53,18 +49,9 @@ export default function HomePage() {
   // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.
   const nombrePorCiudad = new Map(ciudades.map((c) => [c.slug, c.nombre]));
 
-  // Actividades destacadas con variedad entre ciudades: hasta 2 por ciudad.
-  const actividades: ActividadListItem[] = [];
-  for (const slugCiudad of obtenerCiudadesConActividades("es")) {
-    actividades.push(
-      ...obtenerActividadesDestacadasPorCiudad("es", slugCiudad, 2)
-    );
-  }
-  // Destacadas primero y máximo 8 tarjetas en la home.
-  const actividadesHome = [
-    ...actividades.filter((a) => a.destacada),
-    ...actividades.filter((a) => !a.destacada),
-  ].slice(0, 8);
+  // Actividades estrella de la home: las que promocionamos en Google Ads.
+  // Selección curada en lib/actividades.ts (obtenerActividadesHome).
+  const actividadesHome = obtenerActividadesHome("es");
 
   const websiteJsonLd = {
     "@context": "https://schema.org",
