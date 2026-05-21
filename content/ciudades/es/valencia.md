@@ -7,7 +7,7 @@ imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
 imagenAlt: "La Ciudad de las Artes y las Ciencias de Valencia reflejada en el agua"
 publicada: true
 destacada: false
-orden: 6
+orden: 3
 keywords:
   - "valencia"
   - "viajar a valencia"
@@ -41,4 +41,4 @@ Su gran particularidad nace de una catástrofe: tras la riada de 1957, el río T
 
 El **casco histórico** es de los mejores conservados de España: la Catedral con el Santo Cáliz y la torre del Miguelete, la **Lonja de la Seda** —Patrimonio de la Humanidad—, el modernista **Mercado Central** y barrios con vida propia como el Carmen o Ruzafa. A las afueras, el parque natural de **La Albufera**, con sus arrozales y barracas, es la cuna de la paella valenciana.
 
-Valencia es además una ciudad de **playa urbana** (la Malvarrosa), bici (es de las más llanas y ciclables de España) y buena mesa a precios razonables comparada con Madrid o Barcelona. Dos o tres días dan para lo esencial. La mejor época es la **primavera y el otoño**; si vienes a mediados de marzo coincidirás con **Las Fallas**, la fiesta más explosiva del calendario español —espectacular, pero con la ciudad llena y los precios disparados.
+Valencia es además una ciudad de **playa urbana** (la Malvarrosa), bici (es de las más llanas y ciclables de España) y buena mesa a precios razonables comparada con Madrid o Barcelona. Dos o tres días dan para lo esencial. La mejor época es la **primavera y el otoño**; si vienes a mediados de marzo

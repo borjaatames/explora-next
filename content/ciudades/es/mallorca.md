@@ -7,7 +7,7 @@ imagen: "/images/actividades/mallorca/ciudades/mallorca-hero.webp"
 imagenAlt: "La Catedral de Palma de Mallorca (La Seu) junto al mar"
 publicada: true
 destacada: false
-orden: 12
+orden: 6
 keywords:
   - "mallorca"
   - "viajar a mallorca"
@@ -41,4 +41,3 @@ Palma se vive alrededor de su **Catedral (La Seu)**, gótica y frente al mar, co
 
 Mallorca da para una semana, pero en **dos o tres días** se ve lo esencial de Palma y una incursión a la Tramuntana o a las cuevas. Hay vuelos y ferris constantes desde la península.
 
-La mejor época es de **mayo a junio y de septiembre a octubre**: buen tiempo, mar templado y menos masificación que en pleno agosto.

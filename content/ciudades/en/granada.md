@@ -13,7 +13,7 @@ imagenAtracciones: "/images/actividades/granada/alhambra/alhambra-granada-alcaza
 imagenAtraccionesAlt: "The Alcazaba of the Alhambra of Granada"
 publicada: true
 destacada: true
-orden: 4
+orden: 10
 keywords:
   - "granada"
   - "things to do in granada"

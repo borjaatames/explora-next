@@ -7,7 +7,7 @@ imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
 imagenAlt: "Ibiza coastline with turquoise waters and boats"
 publicada: true
 destacada: false
-orden: 13
+orden: 16
 keywords:
   - "ibiza"
   - "travel to ibiza"
@@ -44,4 +44,4 @@ The heritage heart is **Dalt Vila**, the walled upper town, with its Renaissance
 
 Half an hour by ferry is **Formentera**, with its Caribbean-clear beaches, the essential day trip. And then there's the other Ibiza: that of **San Antonio** and its sunsets, the boat parties and the most famous clubs on the planet —Pacha, Ushuaïa, Amnesia. The island is seen in **two or three days**, combining both sides.
 
-The best time depends on what you're after: **May, June and September** for beaches and calm; **July and August** for nightlife at full tilt (and the highest prices).
+The best time depends on what you're after: *

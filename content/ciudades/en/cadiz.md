@@ -7,7 +7,7 @@ imagen: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
 imagenAlt: "Cádiz watchtower with the old town and the sea behind"
 publicada: true
 destacada: false
-orden: 10
+orden: 13
 keywords:
   - "cadiz"
   - "travel to cadiz"
@@ -44,4 +44,4 @@ Its **old town** is compact and walkable: the **Cathedral** facing the Atlantic,
 
 Cádiz is also a perfect base for the province: half an hour away, **Jerez de la Frontera** (wine, flamenco and horses); further south, **Tarifa** and the great windswept beaches of the **Costa de la Luz**, with Africa across the Strait. The city is seen well in **one or two days**.
 
-The best time to visit is **spring and autumn**; in February, the **Carnival of Cádiz** is one of the most famous in the world, but it fills the city completely.
+The best time to visit is **spring

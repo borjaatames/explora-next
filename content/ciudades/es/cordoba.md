@@ -7,7 +7,7 @@ imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "La Mezquita-Catedral de Córdoba y el Puente Romano reflejados en el Guadalquivir"
 publicada: true
 destacada: false
-orden: 7
+orden: 9
 keywords:
   - "cordoba"
   - "viajar a cordoba"
@@ -41,4 +41,4 @@ De aquel esplendor queda su joya, la **Mezquita-Catedral**, uno de los monumento
 
 Córdoba se vive además por sus **patios**: casas con patios encalados repletos de macetas, Patrimonio Inmaterial de la Humanidad, que se abren al público en la Fiesta de los Patios de mayo. La ciudad es compacta y se ve bien **en uno o dos días**, lo que la convierte en una excursión clásica desde Sevilla, Madrid o Granada —pero merece hacer noche.
 
-La mejor época es la **primavera** (abril-junio), con los patios en flor y temperaturas suaves; el verano cordobés es de los más calurosos de España, con frecuentes 40 °C en julio y agosto.
+La mejor época es la **primavera**

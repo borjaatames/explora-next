@@ -7,7 +7,7 @@ imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
 imagenAlt: "The City of Arts and Sciences in Valencia reflected in the water"
 publicada: true
 destacada: false
-orden: 6
+orden: 3
 keywords:
   - "valencia"
   - "travel to valencia"
@@ -44,4 +44,4 @@ Its defining feature was born from a disaster: after the 1957 flood, the Turia r
 
 The **old town** is one of the best preserved in Spain: the Cathedral with the Holy Chalice and the Miguelete tower, the **Silk Exchange** —a UNESCO World Heritage Site—, the Modernista **Central Market** and lively neighbourhoods like El Carmen and Ruzafa. On the outskirts, the natural park of **La Albufera**, with its rice paddies and barracas, is the birthplace of Valencian paella.
 
-Valencia is also a city of **urban beach** (La Malvarrosa), bikes (one of the flattest, most cycle-friendly cities in Spain) and great food at reasonable prices compared with Madrid or Barcelona. Two or three days cover the essentials. The best time to visit is **spring and autumn**; come in mid-March and you'll hit **Las Fallas**, the most explosive festival on the Spanish calendar —spectacular, but with the city packed and prices soaring.
+Valencia is also a city of **urban beach** (La Malvarrosa), bikes (one of the flattest, most cycle-friendly cities in Spain) and great food at reasonable prices compared with Madrid or Barcelona. Two or three days cover the essentials. The best time to visit is **spring and autumn**; come in mid-March

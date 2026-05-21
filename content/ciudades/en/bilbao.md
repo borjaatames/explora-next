@@ -7,7 +7,7 @@ imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
 imagenAlt: "The Guggenheim Museum in Bilbao on the riverbank"
 publicada: true
 destacada: false
-orden: 16
+orden: 7
 keywords:
   - "bilbao"
   - "travel to bilbao"
@@ -42,6 +42,4 @@ Bilbao is the capital of Biscay and the largest city in the Basque Country —ar
 
 Gehry's **Guggenheim Museum** is its symbol, on the riverbank, but Bilbao is much more: the medieval **Old Town** with its Seven Streets, the Modernista **La Ribera Market**, the **Artxanda funicular** with the best views and, on the estuary, the **Bizkaia Bridge**, the oldest transporter bridge in the world and a UNESCO World Heritage Site.
 
-And then there's the food: Bilbao and its surroundings are one of Europe's **gastronomic capitals**, from the pintxos of the Old Town to the grill houses. Half an hour away, **San Juan de Gaztelugatxe** offers one of the most striking sights in the north. The city is seen in **one or two days** and pairs with the Basque coast and San Sebastián.
-
-The best time to visit is **May to September**; the Atlantic climate is rainy year-round, so an umbrella is wise.
+And then there's the food: Bilbao and its surroundings are one of Europe's **gastronomic capitals**, from the pintxos of the Old Town to the grill houses. Half an hour away, **San Juan de Gaztelugatxe** offers one of the most striking sights in the north. The city is seen in **one or two days** and pairs with the Basque coast and San Se

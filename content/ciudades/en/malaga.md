@@ -7,7 +7,7 @@ imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "View of Málaga with the Alcazaba and the Mediterranean sea"
 publicada: true
 destacada: false
-orden: 8
+orden: 5
 keywords:
   - "malaga"
   - "travel to malaga"
@@ -44,4 +44,4 @@ Its old town packs a lot into a small space: the **Alcazaba** and **Gibralfaro C
 
 An hour away is the **Caminito del Rey**, one of Spain's best-selling nature experiences, with the whole **Costa del Sol** (Marbella, Nerja, Ronda) within day-trip reach. Málaga is seen well in **two days** and works as a base for exploring the province.
 
-The best time to visit is **spring and autumn**; thanks to its mild climate, it's also one of the most pleasant city breaks in Spain in winter.
+The best

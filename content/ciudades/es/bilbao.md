@@ -7,7 +7,7 @@ imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
 imagenAlt: "El Museo Guggenheim de Bilbao a orillas de la ría"
 publicada: true
 destacada: false
-orden: 16
+orden: 7
 keywords:
   - "bilbao"
   - "viajar a bilbao"
@@ -40,5 +40,3 @@ Bilbao es la capital de Vizcaya y la mayor ciudad del País Vasco —unos 345.00
 El **Museo Guggenheim** de Gehry es su símbolo, a orillas de la ría, pero Bilbao es mucho más: el medieval **Casco Viejo** con sus Siete Calles, el modernista **Mercado de la Ribera**, el **funicular de Artxanda** con las mejores vistas y, en la ría, el **Puente Bizkaia**, el puente colgante más antiguo del mundo y Patrimonio de la Humanidad.
 
 Y luego está la mesa: Bilbao y su entorno son una de las **capitales gastronómicas** de Europa, desde los pintxos del Casco Viejo hasta los asadores. A media hora, **San Juan de Gaztelugatxe** ofrece una de las estampas más impresionantes del norte. La ciudad se ve en **uno o dos días** y combina con la costa vasca y San Sebastián.
-
-La mejor época es de **mayo a septiembre**; el clima atlántico es lluvioso todo el año, así que conviene llevar paraguas.

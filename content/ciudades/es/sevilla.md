@@ -7,7 +7,7 @@ imagen: "/ciudades/sevilla.jpg"
 imagenAlt: "Vista de Sevilla con la Giralda y la Catedral"
 publicada: true
 destacada: true
-orden: 3
+orden: 4
 keywords:
   - "sevilla"
   - "viajar a sevilla"

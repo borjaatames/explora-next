@@ -7,7 +7,7 @@ imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Las casas de colores de Girona sobre el río Oñar"
 publicada: true
 destacada: false
-orden: 9
+orden: 14
 keywords:
   - "girona"
   - "viajar a girona"
@@ -39,6 +39,4 @@ Girona es una ciudad media del noreste de Cataluña —unos 105.000 habitantes�
 
 Su corona es la **Catedral**, con la nave gótica más ancha del mundo, a lo alto de una escalinata monumental que muchos reconocerán de *Juego de Tronos*. A su alrededor, **El Call** —una de las juderías medievales mejor conservadas de Europa—, los **Baños Árabes**, el monasterio de Sant Pere y el paseo por la **muralla** carolingia. Y abajo, las célebres **casas de colores del Oñar** reflejadas en el río.
 
-Girona se ve bien en **uno o dos días** y combina de maravilla con la **Costa Brava** (Cadaqués, calas, pueblos medievales) y con el **Teatro-Museo Dalí** de Figueres, a media hora. Es además una capital gastronómica de primer nivel.
-
-La mejor época es la **primavera y el otoño**; en mayo, la ciudad se llena de flores con el festival Temps de Flors.
+Girona se ve bien en **uno o dos días** y combina de maravilla con la **Costa Brava** (Cadaqués, calas, pueblos medievales) y con el **Teatro-Museo Dalí** de Figueres, a media hora. Es además una capital gastronómica de primer 

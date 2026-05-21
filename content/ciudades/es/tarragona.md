@@ -7,7 +7,7 @@ imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
 imagenAlt: "El anfiteatro romano de Tarragona junto al mar Mediterráneo"
 publicada: true
 destacada: false
-orden: 14
+orden: 12
 keywords:
   - "tarragona"
   - "viajar a tarragona"
@@ -41,4 +41,4 @@ Su monumento estrella es el **Anfiteatro Romano**, asomado al mar, pero la ciuda
 
 A pocos kilómetros, en Salou, está **PortAventura World**, uno de los mayores parques de atracciones de Europa con Ferrari Land, el gran reclamo familiar de la costa. Tarragona se ve bien en **uno o dos días** y combina historia, playa y ocio.
 
-La mejor época es la **primavera y el otoño**; el verano suma las playas de la Costa Daurada, y cada dos años la ciudad celebra el concurso de **castells** (torres humanas), Patrimonio Inmaterial de la Humanidad.
+La mejor época es la **primavera y el otoño**; el verano suma las playa

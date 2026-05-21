@@ -7,7 +7,7 @@ imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "Vista de Málaga con la Alcazaba y el mar Mediterráneo"
 publicada: true
 destacada: false
-orden: 8
+orden: 5
 keywords:
   - "malaga"
   - "viajar a malaga"
@@ -41,4 +41,4 @@ Su casco histórico concentra mucho en poco espacio: la **Alcazaba** y el **Cast
 
 A una hora está el **Caminito del Rey**, una de las experiencias de naturaleza más vendidas de España, y toda la **Costa del Sol** (Marbella, Nerja, Ronda) a tiro de excursión. Málaga se ve bien en **dos días** y funciona como base para explorar la provincia.
 
-La mejor época es la **primavera y el otoño**; gracias a su clima suave, es además uno de los destinos urbanos más agradables de España en invierno.
+La mejor época es la 
