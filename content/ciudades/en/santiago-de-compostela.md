@@ -3,6 +3,8 @@ nombre: "Santiago de Compostela"
 slug: "santiago-de-compostela"
 descripcion: "The end of the Camino: the cathedral, the Obradoiro and a World Heritage stone old town. The spiritual capital of Galicia."
 comunidad: "Galicia"
+imagen: "/images/actividades/santiago-de-compostela/ciudades/santiago-de-compostela-hero.webp"
+imagenAlt: "Santiago de Compostela Cathedral and the Obradoiro façade"
 publicada: true
 destacada: false
 orden: 15

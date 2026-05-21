@@ -3,6 +3,8 @@ nombre: "Córdoba"
 slug: "cordoba"
 descripcion: "La Mezquita-Catedral, la Judería y los patios. La ciudad de las tres culturas y uno de los cascos históricos más bellos de Europa."
 comunidad: "Andalucía"
+imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
+imagenAlt: "La Mezquita-Catedral de Córdoba y el Puente Romano reflejados en el Guadalquivir"
 publicada: true
 destacada: false
 orden: 7

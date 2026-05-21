@@ -3,6 +3,8 @@ nombre: "Girona"
 slug: "girona"
 descripcion: "Casco medieval, judería y casas de colores sobre el río Oñar. Una de las ciudades más bellas de Cataluña y puerta de la Costa Brava."
 comunidad: "Cataluña"
+imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
+imagenAlt: "Las casas de colores de Girona sobre el río Oñar"
 publicada: true
 destacada: false
 orden: 9

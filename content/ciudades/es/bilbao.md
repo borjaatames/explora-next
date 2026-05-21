@@ -3,6 +3,8 @@ nombre: "Bilbao"
 slug: "bilbao"
 descripcion: "El Guggenheim, el Casco Viejo y la mejor cocina de pintxos. La capital vizcaína que pasó de ciudad industrial a icono mundial del diseño."
 comunidad: "País Vasco"
+imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
+imagenAlt: "El Museo Guggenheim de Bilbao a orillas de la ría"
 publicada: true
 destacada: false
 orden: 16

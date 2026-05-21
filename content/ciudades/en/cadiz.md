@@ -3,6 +3,8 @@ nombre: "Cádiz"
 slug: "cadiz"
 descripcion: "The oldest inhabited city in the West, surrounded by sea on three sides. An old town, urban beaches and the wit of the 'Little Silver Cup'."
 comunidad: "Andalusia"
+imagen: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
+imagenAlt: "Cádiz watchtower with the old town and the sea behind"
 publicada: true
 destacada: false
 orden: 10

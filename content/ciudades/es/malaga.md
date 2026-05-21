@@ -3,6 +3,8 @@ nombre: "Málaga"
 slug: "malaga"
 descripcion: "La ciudad de Picasso, la Alcazaba y la mejor puerta de la Costa del Sol. Sol, museos y un casco histórico que ha resurgido como capital cultural del sur."
 comunidad: "Andalucía"
+imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
+imagenAlt: "Vista de Málaga con la Alcazaba y el mar Mediterráneo"
 publicada: true
 destacada: false
 orden: 8

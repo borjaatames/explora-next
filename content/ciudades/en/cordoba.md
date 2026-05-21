@@ -3,6 +3,8 @@ nombre: "Córdoba"
 slug: "cordoba"
 descripcion: "The Mosque-Cathedral, the Jewish Quarter and the patios. The city of three cultures and one of the most beautiful old towns in Europe."
 comunidad: "Andalusia"
+imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
+imagenAlt: "The Mosque-Cathedral of Córdoba and the Roman Bridge reflected in the Guadalquivir"
 publicada: true
 destacada: false
 orden: 7

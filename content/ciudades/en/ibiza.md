@@ -3,6 +3,8 @@ nombre: "Ibiza"
 slug: "ibiza"
 descripcion: "Walled Dalt Vila, Es Vedrà and the most photographed coves in the Mediterranean. The world's party island and, at once, a place of surprising heritage and nature."
 comunidad: "Balearic Islands"
+imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
+imagenAlt: "Ibiza coastline with turquoise waters and boats"
 publicada: true
 destacada: false
 orden: 13

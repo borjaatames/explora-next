@@ -3,6 +3,8 @@ nombre: "Ibiza"
 slug: "ibiza"
 descripcion: "Dalt Vila amurallada, Es Vedrà y las calas más fotografiadas del Mediterráneo. La isla del ocio mundial y, a la vez, un patrimonio y una naturaleza sorprendentes."
 comunidad: "Islas Baleares"
+imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
+imagenAlt: "Costa de Ibiza con aguas turquesa y barcos"
 publicada: true
 destacada: false
 orden: 13

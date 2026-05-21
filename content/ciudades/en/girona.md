@@ -3,6 +3,8 @@ nombre: "Girona"
 slug: "girona"
 descripcion: "A medieval old town, Jewish quarter and colourful houses over the Oñar river. One of Catalonia's most beautiful cities and the gateway to the Costa Brava."
 comunidad: "Catalonia"
+imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
+imagenAlt: "The colourful houses of Girona over the Oñar river"
 publicada: true
 destacada: false
 orden: 9
