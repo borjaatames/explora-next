@@ -3,8 +3,8 @@ titulo: "Caminito del Rey: how to visit it (tickets, access and tips)"
 descripcion: "How to visit the Caminito del Rey from Málaga: how to get tickets, how to arrive by train or car, duration, difficulty and what to bring. Everything you need."
 categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-10"
+fecha_actualizacion: "2026-03-10"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

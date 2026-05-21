@@ -3,8 +3,8 @@ titulo: "Qué ver en Girona en un día: casco medieval y Juego de Tronos"
 descripcion: "Guía de Girona en un día: catedral, El Call, casas del Oñar y la muralla. Ruta a pie hora a hora, escenarios de Juego de Tronos, dónde comer y qué evitar."
 categoria: "girona"
 slug: "que-ver-en-girona-en-un-dia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-25"
+fecha_actualizacion: "2026-04-25"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Escapadas desde Málaga: Ronda, Nerja, Antequera y pueblos blancos"
 descripcion: "Las mejores escapadas de un día desde Málaga: Ronda, Nerja y Frigiliana, Antequera y El Torcal, Mijas y Gibraltar. Cómo llegar, qué ver y cuánto tiempo dedicar."
 categoria: "malaga"
 slug: "escapadas-desde-malaga"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-04-13"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

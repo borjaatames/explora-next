@@ -3,8 +3,8 @@ titulo: "Santiago de Compostela en un día: catedral, casco viejo y Camino"
 descripcion: "Qué ver en Santiago en un día: Catedral, Obradoiro, casco histórico y Mercado de Abastos. Ruta a pie hora a hora por el fin del Camino, dónde comer y qué evitar."
 categoria: "santiago-de-compostela"
 slug: "santiago-en-un-dia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-05-02"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

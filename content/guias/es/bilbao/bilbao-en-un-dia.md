@@ -3,8 +3,8 @@ titulo: "Bilbao en un día: Guggenheim, Casco Viejo y pintxos"
 descripcion: "Qué ver en Bilbao en un día: Museo Guggenheim, Casco Viejo, Mercado de la Ribera y Artxanda. Ruta a pie hora a hora, dónde comer pintxos y Gaztelugatxe al lado."
 categoria: "bilbao"
 slug: "bilbao-en-un-dia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-13"
+fecha_actualizacion: "2026-03-13"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

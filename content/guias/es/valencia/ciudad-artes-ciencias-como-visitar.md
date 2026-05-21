@@ -3,8 +3,8 @@ titulo: "Ciudad de las Artes y las Ciencias: cómo visitarla con criterio"
 descripcion: "Guía para visitar la Ciudad de las Artes y las Ciencias de Valencia: qué entrar y qué ver por fuera, Oceanogràfic, entradas combinadas, horarios y trucos."
 categoria: "valencia"
 slug: "ciudad-artes-ciencias-como-visitar"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-04"
+fecha_actualizacion: "2026-03-04"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

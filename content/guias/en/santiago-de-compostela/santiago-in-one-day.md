@@ -3,8 +3,8 @@ titulo: "Santiago de Compostela in one day: cathedral, old town and the Camino"
 descripcion: "What to see in Santiago in one day: Cathedral, Obradoiro, old town and the Mercado de Abastos. An hour-by-hour walking route at the end of the Camino, where to eat and what to skip."
 categoria: "santiago-de-compostela"
 slug: "santiago-in-one-day"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-05-02"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

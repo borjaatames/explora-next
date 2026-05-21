@@ -3,8 +3,8 @@ titulo: "Eating in Valencia with criteria: real paella and where to find it"
 descripcion: "A guide to eating in Valencia: what authentic Valencian paella is, rice dishes, horchata and agua de Valencia, where to eat well and what to skip in the tourist zone."
 categoria: "valencia"
 slug: "eating-in-valencia-paella"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-16"
+fecha_actualizacion: "2026-03-16"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

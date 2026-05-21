@@ -3,8 +3,8 @@ titulo: "Valencia en dos días: ruta con criterio sin perder lo importante"
 descripcion: "Qué ver en Valencia en 2 días: casco histórico, Ciudad de las Artes, Albufera y paella. Ruta hora a hora, dónde comer, dónde dormir y qué evitar."
 categoria: "valencia"
 slug: "valencia-en-2-dias"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-02-22"
+fecha_actualizacion: "2026-02-22"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

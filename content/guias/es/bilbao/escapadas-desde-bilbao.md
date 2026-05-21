@@ -3,8 +3,8 @@ titulo: "Escapadas desde Bilbao: Gaztelugatxe, San Sebastián y la costa vasca"
 descripcion: "Las mejores escapadas de un día desde Bilbao: Gaztelugatxe, San Sebastián, Urdaibai y Mundaka, Gernika y la Rioja Alavesa. Cómo llegar y qué ver."
 categoria: "bilbao"
 slug: "escapadas-desde-bilbao"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-04-26"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

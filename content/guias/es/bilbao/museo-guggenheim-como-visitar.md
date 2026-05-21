@@ -3,8 +3,8 @@ titulo: "Museo Guggenheim de Bilbao: cómo visitarlo (entradas y consejos)"
 descripcion: "Guía para visitar el Guggenheim de Bilbao: entradas y horarios, qué ver dentro y fuera (Puppy, Maman, Serra), cuánto tiempo dedicar y mejores trucos."
 categoria: "bilbao"
 slug: "museo-guggenheim-como-visitar"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-24"
+fecha_actualizacion: "2026-03-24"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

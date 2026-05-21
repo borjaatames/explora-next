@@ -3,8 +3,8 @@ titulo: "Tarragona in one day: Roman Tarraco by the sea"
 descripcion: "What to see in Tarragona in one day: amphitheatre, circus, cathedral, walls and the aqueduct. An hour-by-hour route through Roman Tarraco, where to eat and PortAventura nearby."
 categoria: "tarragona"
 slug: "tarragona-in-one-day"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-10"
+fecha_actualizacion: "2026-04-10"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Comer en Mallorca con criterio: ensaïmada, sobrasada y cellers"
 descripcion: "Guía para comer en Mallorca: ensaïmada, sobrasada, pa amb oli, tumbet y arròs brut. Dónde comer mallorquín de verdad, mercados, vinos y qué evitar."
 categoria: "mallorca"
 slug: "comer-en-mallorca"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-04-20"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

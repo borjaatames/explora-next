@@ -3,8 +3,8 @@ titulo: "What to see in Alicante: castle, old town and beaches"
 descripcion: "Alicante guide for one or two days: Santa Bárbara Castle, Santa Cruz quarter, the Explanada, beaches and Tabarca Island. The route, where to eat and the Costa Blanca around."
 categoria: "alicante"
 slug: "what-to-see-in-alicante"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-26"
+fecha_actualizacion: "2026-03-26"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

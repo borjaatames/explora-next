@@ -3,8 +3,8 @@ titulo: "City of Arts and Sciences: how to visit it with criteria"
 descripcion: "How to visit Valencia's City of Arts and Sciences: what to go inside and what to see from outside, the Oceanogràfic, combined tickets, opening hours and tips."
 categoria: "valencia"
 slug: "city-of-arts-sciences-how-to-visit"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-04"
+fecha_actualizacion: "2026-03-04"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Qué ver en Ibiza más allá de la fiesta: Dalt Vila, calas y Formenter
 descripcion: "Guía de Ibiza: Dalt Vila, Es Vedrà, las mejores calas, Formentera y los atardeceres. Qué ver por zonas, cuántos días, cómo moverte y la otra cara de la isla."
 categoria: "ibiza"
 slug: "que-ver-en-ibiza"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-03"
+fecha_actualizacion: "2026-04-03"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Comer en Valencia con criterio: paella de verdad y dónde encontrarla"
 descripcion: "Guía para comer en Valencia: qué es la paella valenciana auténtica, arroces, horchata y agua de Valencia, dónde comer bien y qué evitar en la zona turística."
 categoria: "valencia"
 slug: "comer-en-valencia-paella"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-16"
+fecha_actualizacion: "2026-03-16"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Eating in Málaga with criteria: espetos, fried fish and sweet wine"
 descripcion: "A guide to eating in Málaga: sardine espetos, fritura malagueña, ajoblanco, sweet wine and where to eat well away from the tourist traps by the Cathedral."
 categoria: "malaga"
 slug: "eating-in-malaga"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-21"
+fecha_actualizacion: "2026-03-21"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

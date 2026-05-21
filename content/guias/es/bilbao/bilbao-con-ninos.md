@@ -3,8 +3,8 @@ titulo: "Bilbao con niños: funicular, ría y playas a un metro de distancia"
 descripcion: "Guía de Bilbao con niños: funicular de Artxanda, esculturas del Guggenheim, museo marítimo, parques y playas en metro. Planes en familia, dónde comer y qué evitar."
 categoria: "bilbao"
 slug: "bilbao-con-ninos"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-15"
+fecha_actualizacion: "2026-04-15"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

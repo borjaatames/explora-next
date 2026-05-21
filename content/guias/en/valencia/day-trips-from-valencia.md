@@ -3,8 +3,8 @@ titulo: "Day trips from Valencia: La Albufera, Sagunto, Xàtiva and more"
 descripcion: "The best day trips from Valencia: La Albufera, Sagunto, Xàtiva, Peñíscola and the Costa del Azahar. How to get there, what to see and how long to spend."
 categoria: "valencia"
 slug: "day-trips-from-valencia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-08"
+fecha_actualizacion: "2026-04-08"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

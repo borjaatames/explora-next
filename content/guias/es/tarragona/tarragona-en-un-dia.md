@@ -3,8 +3,8 @@ titulo: "Tarragona en un día: la Tarraco romana frente al mar"
 descripcion: "Qué ver en Tarragona en un día: anfiteatro, circo, catedral, murallas y el acueducto. Ruta hora a hora por la Tarraco romana, dónde comer y PortAventura al lado."
 categoria: "tarragona"
 slug: "tarragona-en-un-dia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-10"
+fecha_actualizacion: "2026-04-10"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

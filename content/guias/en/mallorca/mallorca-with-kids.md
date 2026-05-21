@@ -3,8 +3,8 @@ titulo: "Mallorca with kids: calm coves, trains and aquariums"
 descripcion: "Mallorca with kids: the best family beaches, Palma Aquarium, the Sóller train, the Drach Caves and water parks. Plans by area and what to avoid."
 categoria: "mallorca"
 slug: "mallorca-with-kids"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-04-09"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

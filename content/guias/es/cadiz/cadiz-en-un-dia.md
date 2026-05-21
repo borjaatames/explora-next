@@ -3,8 +3,8 @@ titulo: "Cádiz en un día: la ciudad más antigua de Occidente"
 descripcion: "Qué ver en Cádiz en un día: Catedral, Torre Tavira, barrio del Pópulo, La Viña y La Caleta. Ruta a pie hora a hora por la Tacita de Plata, dónde comer y qué evitar."
 categoria: "cadiz"
 slug: "cadiz-en-un-dia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-18"
+fecha_actualizacion: "2026-04-18"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

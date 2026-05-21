@@ -3,8 +3,8 @@ titulo: "Málaga en dos días: ruta con criterio entre museos y mar"
 descripcion: "Qué ver en Málaga en dos días: Alcazaba, Catedral, Museo Picasso, Caminito del Rey y playas. Ruta hora a hora, dónde comer, dónde dormir y qué evitar."
 categoria: "malaga"
 slug: "malaga-en-dos-dias"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-02-28"
+fecha_actualizacion: "2026-02-28"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Cádiz in one day: the oldest city in the West"
 descripcion: "What to see in Cádiz in one day: Cathedral, Torre Tavira, El Pópulo quarter, La Viña and La Caleta. An hour-by-hour walking route, where to eat and what to skip."
 categoria: "cadiz"
 slug: "cadiz-in-one-day"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-18"
+fecha_actualizacion: "2026-04-18"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Valencia with kids: Oceanogràfic, the beach and plans that work"
 descripcion: "Valencia with kids: Oceanogràfic, City of Arts, Bioparc, the beach and cycling the Turia. Plans by age, where to eat and what to skip with little ones."
 categoria: "valencia"
 slug: "valencia-with-kids"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-27"
+fecha_actualizacion: "2026-03-27"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

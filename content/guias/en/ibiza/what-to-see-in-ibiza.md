@@ -3,8 +3,8 @@ titulo: "What to see in Ibiza beyond the party: Dalt Vila, coves and Formentera"
 descripcion: "Ibiza guide: Dalt Vila, Es Vedrà, the best coves, Formentera and the sunsets. What to see by area, how many days, how to get around and the island's other side."
 categoria: "ibiza"
 slug: "what-to-see-in-ibiza"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-03"
+fecha_actualizacion: "2026-04-03"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

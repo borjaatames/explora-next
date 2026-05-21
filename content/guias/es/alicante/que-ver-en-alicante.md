@@ -3,8 +3,8 @@ titulo: "Qué ver en Alicante: castillo, casco antiguo y playas"
 descripcion: "Guía de Alicante en uno o dos días: Castillo de Santa Bárbara, barrio de Santa Cruz, Explanada, playas e Isla de Tabarca. Ruta, dónde comer y la Costa Blanca alrededor."
 categoria: "alicante"
 slug: "que-ver-en-alicante"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-26"
+fecha_actualizacion: "2026-03-26"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

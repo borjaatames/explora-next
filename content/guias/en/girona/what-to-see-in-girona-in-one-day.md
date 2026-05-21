@@ -3,8 +3,8 @@ titulo: "What to see in Girona in one day: medieval old town and Game of Thrones
 descripcion: "Girona in one day: cathedral, El Call, the Oñar houses and the walls. An hour-by-hour walking route, Game of Thrones locations, where to eat and what to skip."
 categoria: "girona"
 slug: "what-to-see-in-girona-in-one-day"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-25"
+fecha_actualizacion: "2026-04-25"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

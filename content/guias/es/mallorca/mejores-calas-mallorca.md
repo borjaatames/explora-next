@@ -3,8 +3,8 @@ titulo: "Las mejores calas de Mallorca por zonas (y cómo evitar las colas)"
 descripcion: "Las mejores calas y playas de Mallorca: Es Trenc, Cala Mondragó, Caló des Moro, Sa Calobra y más, por zonas. Cuáles tienen servicios, cómo llegar y cuándo ir."
 categoria: "mallorca"
 slug: "mejores-calas-mallorca"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-29"
+fecha_actualizacion: "2026-03-29"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

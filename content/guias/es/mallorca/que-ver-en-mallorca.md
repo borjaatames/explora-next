@@ -3,8 +3,8 @@ titulo: "Qué ver en Mallorca: Palma, Tramuntana y las mejores calas"
 descripcion: "Guía de Mallorca: Catedral de Palma, Serra de Tramuntana, Valldemossa, Sóller, Cuevas del Drach y calas. Qué ver por zonas, cuántos días, cómo moverte y cuándo ir."
 categoria: "mallorca"
 slug: "que-ver-en-mallorca"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-07"
+fecha_actualizacion: "2026-03-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

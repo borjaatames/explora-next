@@ -3,8 +3,8 @@ titulo: "Bilbao with kids: funicular, river and beaches a metro ride away"
 descripcion: "Bilbao with kids: the Artxanda funicular, Guggenheim sculptures, the maritime museum, parks and beaches by metro. Family plans, where to eat and what to avoid."
 categoria: "bilbao"
 slug: "bilbao-with-kids"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-15"
+fecha_actualizacion: "2026-04-15"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

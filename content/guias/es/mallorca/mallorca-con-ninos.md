@@ -3,8 +3,8 @@ titulo: "Mallorca con niños: calas tranquilas, trenes y acuarios"
 descripcion: "Guía de Mallorca con niños: mejores playas familiares, Palma Aquarium, tren de Sóller, Cuevas del Drach y parques acuáticos. Planes por zonas y qué evitar."
 categoria: "mallorca"
 slug: "mallorca-con-ninos"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-04-09"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

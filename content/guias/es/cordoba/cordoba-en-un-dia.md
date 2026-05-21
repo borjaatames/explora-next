@@ -3,8 +3,8 @@ titulo: "Córdoba en un día: la ruta para no perderte lo esencial"
 descripcion: "Qué ver en Córdoba en un día: Mezquita-Catedral, Judería, Alcázar, Puente Romano y patios. Ruta a pie hora a hora, dónde comer y qué evitar."
 categoria: "cordoba"
 slug: "cordoba-en-un-dia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-20"
+fecha_actualizacion: "2026-03-20"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Málaga with kids: beaches, castles and family plans"
 descripcion: "Málaga with kids: beaches, the Alcazaba, Bioparc Fuengirola, the Benalmádena cable car and interactive museums. Plans by age, where to eat and what to skip."
 categoria: "malaga"
 slug: "malaga-with-kids"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-01"
+fecha_actualizacion: "2026-04-01"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

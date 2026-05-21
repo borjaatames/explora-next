@@ -3,8 +3,8 @@ titulo: "Bilbao in one day: Guggenheim, Old Town and pintxos"
 descripcion: "What to see in Bilbao in one day: Guggenheim Museum, Old Town, La Ribera Market and Artxanda. An hour-by-hour walking route, where to eat pintxos and Gaztelugatxe nearby."
 categoria: "bilbao"
 slug: "bilbao-in-one-day"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-13"
+fecha_actualizacion: "2026-03-13"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

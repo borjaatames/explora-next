@@ -3,8 +3,8 @@ titulo: "Eating in Mallorca with criteria: ensaïmada, sobrasada and cellers"
 descripcion: "A guide to eating in Mallorca: ensaïmada, sobrasada, pa amb oli, tumbet and arròs brut. Where to eat genuine Mallorcan food, markets, wines and what to avoid."
 categoria: "mallorca"
 slug: "eating-in-mallorca"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-04-20"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

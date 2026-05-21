@@ -3,8 +3,8 @@ titulo: "Pintxos en Bilbao: guía del txikiteo (zonas, clásicos y reglas)"
 descripcion: "Guía de pintxos en Bilbao: dónde ir de txikiteo (Plaza Nueva, Casco Viejo, Ensanche), los pintxos clásicos, la Gilda, qué beber y cómo no quedar de turista."
 categoria: "bilbao"
 slug: "pintxos-bilbao"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-04"
+fecha_actualizacion: "2026-04-04"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

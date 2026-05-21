@@ -3,8 +3,8 @@ titulo: "Comer en Málaga con criterio: espetos, pescaíto y vino dulce"
 descripcion: "Guía para comer en Málaga: espeto de sardinas, fritura malagueña, ajoblanco, vino dulce y dónde comer bien lejos de las trampas turísticas de la Catedral."
 categoria: "malaga"
 slug: "comer-en-malaga"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-21"
+fecha_actualizacion: "2026-03-21"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

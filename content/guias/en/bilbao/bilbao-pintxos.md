@@ -3,8 +3,8 @@ titulo: "Pintxos in Bilbao: a txikiteo guide (areas, classics and rules)"
 descripcion: "A guide to pintxos in Bilbao: where to go bar-hopping (Plaza Nueva, Old Town, Ensanche), the classic pintxos, the Gilda, what to drink and how not to look like a tourist."
 categoria: "bilbao"
 slug: "bilbao-pintxos"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-04"
+fecha_actualizacion: "2026-04-04"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

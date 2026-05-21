@@ -3,8 +3,8 @@ titulo: "Escapadas desde Valencia: Albufera, Sagunto, Xàtiva y más"
 descripcion: "Las mejores escapadas de un día desde Valencia: la Albufera, Sagunto, Xàtiva, Peñíscola y la Costa del Azahar. Cómo llegar, qué ver y cuánto tiempo dedicar."
 categoria: "valencia"
 slug: "escapadas-desde-valencia"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-08"
+fecha_actualizacion: "2026-04-08"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "What to see in Mallorca: Palma, Tramuntana and the best coves"
 descripcion: "Mallorca guide: Palma Cathedral, Serra de Tramuntana, Valldemossa, Sóller, Drach Caves and coves. What to see by area, how many days, how to get around and when to go."
 categoria: "mallorca"
 slug: "what-to-see-in-mallorca"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-07"
+fecha_actualizacion: "2026-03-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

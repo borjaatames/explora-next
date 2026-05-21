@@ -3,8 +3,8 @@ titulo: "Málaga con niños: playa, castillos y planes en familia"
 descripcion: "Guía de Málaga con niños: playas, Alcazaba, Bioparc Fuengirola, teleférico de Benalmádena y museos interactivos. Planes por edades, dónde comer y qué evitar."
 categoria: "malaga"
 slug: "malaga-con-ninos"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-01"
+fecha_actualizacion: "2026-04-01"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

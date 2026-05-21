@@ -3,8 +3,8 @@ titulo: "Day trips from Málaga: Ronda, Nerja, Antequera and white villages"
 descripcion: "The best day trips from Málaga: Ronda, Nerja and Frigiliana, Antequera and El Torcal, Mijas and Gibraltar. How to get there, what to see and how long to spend."
 categoria: "malaga"
 slug: "day-trips-from-malaga"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-04-13"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false

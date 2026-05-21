@@ -3,8 +3,8 @@ titulo: "Serra de Tramuntana y Sóller: ruta por la Mallorca de montaña"
 descripcion: "Guía de la Serra de Tramuntana: Valldemossa, Deià, Sóller y su tren, Sa Calobra y los miradores. Ruta en coche o en tren, qué ver y cuándo ir."
 categoria: "mallorca"
 slug: "serra-tramuntana-soller"
-fecha: "2026-05-21"
-fecha_actualizacion: "2026-05-21"
+fecha: "2026-03-18"
+fecha_actualizacion: "2026-03-18"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
