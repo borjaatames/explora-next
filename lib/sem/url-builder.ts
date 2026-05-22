@@ -6,6 +6,7 @@
  */
 
 import type { SemIdioma, SemTour } from './types';
+import { normalizarUrlGetYourGuide } from '@/lib/afiliados-gyg';
 
 // ─── Viator ──────────────────────────────────────────────────────────────────
 const VIATOR_PARTNER_ID = 'P00298823';
@@ -39,15 +40,15 @@ export function construirUrlViator(
 }
 
 // ─── GetYourGuide ────────────────────────────────────────────────────────────
-const GYG_PARTNER_ID = 'C71NOAW';
-
 /**
  * Construye la URL de afiliado de GetYourGuide para un tour concreto.
  *
  * Reglas:
- *  - Locale 'es' → fuerza dominio `www.getyourguide.es`.
- *  - Locale 'en' → fuerza dominio `www.getyourguide.com`.
- *  - Añade `partner_id` y `cmp` granular: `{locale}_sem_{landingSlug}_{tourId}[_{gclid}]`.
+ *  - Normaliza dominio + segmento de locale en la ruta (`en-us` / `es-es`) vía
+ *    `normalizarUrlGetYourGuide`, de modo que GYG abra en el idioma de la landing
+ *    con independencia de la geolocalización del visitante (análogo a
+ *    `primaryLanguage=en` en Viator). También fija el `partner_id` correcto.
+ *  - Añade `cmp` granular: `{locale}_sem_{landingSlug}_{tourId}[_{gclid}]`.
  */
 export function construirUrlGetYourGuide(
   gygUrl: string,
@@ -56,16 +57,7 @@ export function construirUrlGetYourGuide(
   locale: SemIdioma,
   gclid?: string,
 ): string {
-  const url = new URL(gygUrl);
-
-  // Forzar dominio según locale.
-  if (locale === 'es' && url.hostname !== 'www.getyourguide.es') {
-    url.hostname = 'www.getyourguide.es';
-  } else if (locale === 'en' && url.hostname !== 'www.getyourguide.com') {
-    url.hostname = 'www.getyourguide.com';
-  }
-
-  url.searchParams.set('partner_id', GYG_PARTNER_ID);
+  const url = new URL(normalizarUrlGetYourGuide(gygUrl, locale));
 
   const cmpParts = [locale, 'sem', landingSlug, tourId];
   if (gclid) {

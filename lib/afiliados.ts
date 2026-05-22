@@ -8,6 +8,8 @@
  * pero tampoco genera comisión).
  */
 
+import { normalizarUrlGetYourGuide } from "./afiliados-gyg";
+
 export type ProveedorActividad = "civitatis" | "getyourguide" | "viator";
 
 export const PROVEEDORES_ACTIVOS: ProveedorActividad[] = [
@@ -63,10 +65,16 @@ export function proveedorActivo(proveedor: ProveedorActividad): boolean {
  *
  * Si el proveedor no está activo (no hay ID en .env.local), devuelve
  * la URL tal cual sin tracking. La web sigue funcionando.
+ *
+ * `idioma` (por defecto "es") fija el idioma del sitio del proveedor:
+ * para GetYourGuide fuerza el segmento de locale en la ruta (en-us /
+ * es-es) y normaliza el partner_id. Sin él, GYG cae a geolocalización y
+ * sirve español a visitantes de páginas en inglés.
  */
 export function construirUrlReserva(
   proveedor: ProveedorActividad,
-  urlBase: string
+  urlBase: string,
+  idioma: "es" | "en" = "es"
 ): string {
   if (!urlBase) return "";
 
@@ -74,7 +82,7 @@ export function construirUrlReserva(
     case "civitatis":
       return construirUrlCivitatis(urlBase);
     case "getyourguide":
-      return construirUrlGetYourGuide(urlBase);
+      return normalizarUrlGetYourGuide(urlBase, idioma);
     case "viator":
       return construirUrlViator(urlBase);
     default:
@@ -94,16 +102,6 @@ function construirUrlCivitatis(urlBase: string): string {
   const aid = process.env.AID_CIVITATIS;
   if (!aid) return urlBase;
   return añadirParametros(urlBase, { aid });
-}
-
-/**
- * GetYourGuide: añade ?partner_id=XXXX a la URL.
- * Ejemplo: getyourguide.com/madrid-l46/tour-t12345/?partner_id=ABCDEF
- */
-function construirUrlGetYourGuide(urlBase: string): string {
-  const aid = process.env.AID_GETYOURGUIDE;
-  if (!aid) return urlBase;
-  return añadirParametros(urlBase, { partner_id: aid });
 }
 
 /**

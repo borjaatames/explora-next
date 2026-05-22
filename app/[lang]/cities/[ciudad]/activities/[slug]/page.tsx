@@ -111,7 +111,8 @@ export default async function ActividadPage({ params }: Props) {
 
   const urlReservaBase = construirUrlReserva(
     actividad.proveedor,
-    actividad.urlReserva
+    actividad.urlReserva,
+    IDIOMA
   );
   const nombreComercialProveedor = nombreProveedor(actividad.proveedor);
 
