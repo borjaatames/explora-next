@@ -20,6 +20,7 @@ import { obtenerHorariosViator } from "@/lib/viator-api";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
+import SelloProveedor from "@/components/SelloProveedor";
 import DetallesPracticos from "@/components/DetallesPracticos";
 import InformacionImportante from "@/components/InformacionImportante";
 import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
@@ -251,6 +252,8 @@ export default async function ActividadPage({ params }: Props) {
       <section className="max-w-6xl mx-auto px-4 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2 space-y-12">
+            <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} />
+
             {/* 1. Galería con sello "Recomendado" */}
             {actividad.imagen && (
               <GaleriaActividad
@@ -436,6 +439,9 @@ export default async function ActividadPage({ params }: Props) {
             <p className="text-xs text-slate-500 border-t border-slate-200 pt-6">
               {dict.actividades.avisoAfiliacion}
             </p>
+
+            {/* 15. Provider reference (end) */}
+            <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} />
           </div>
 
           <aside className="hidden lg:block lg:col-span-1">
