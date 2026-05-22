@@ -42,7 +42,7 @@ tours:
     titulo: "Toledo + Segovia + Ávila en un día"
     descripcion: "Tres ciudades Patrimonio UNESCO en una jornada con guía bilingüe y entradas incluidas."
     operador: "Julià Travel · Bus + guía bilingüe"
-    precio_desde: 84
+    precio_desde: 89.99
     rating: 4.8
     resenas: 9118
     viator_product_id: "6874P88"

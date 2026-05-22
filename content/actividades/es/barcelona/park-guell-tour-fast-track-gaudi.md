@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hora"
 duracionMinutos: 60
-precioDesde: 30
+precioDesde: 25.99
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

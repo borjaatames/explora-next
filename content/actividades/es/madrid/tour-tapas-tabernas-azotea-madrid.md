@@ -9,7 +9,7 @@ slugs:
 
 duracion: "4 horas"
 duracionMinutos: 240
-precioDesde: 98
+precioDesde: 97.99
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"

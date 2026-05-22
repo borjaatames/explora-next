@@ -44,7 +44,7 @@ tours:
     titulo: "Montserrat con bodega del siglo X, cata y tapas"
     descripcion: "Monasterio + bodega ecológica en castillo del siglo X + cata de 3 vinos con tapas. El más reservado del comparador con 4,9 ★."
     operador: "Castlexperience · Bus + bodega + tapas"
-    precio_desde: 47
+    precio_desde: 53
     rating: 4.9
     resenas: 7736
     viator_product_id: "5716GOLFWINE"
@@ -108,7 +108,7 @@ tours:
     titulo: "Montserrat de día completo con audioguía"
     descripcion: "Bus + tren cremallera + Abadía Benedictina + audioguía + opción Escolanía o Museo. La opción autoguiada con más libertad."
     operador: "Catalunya Bus Turístic · Bus + cremallera + audioguía"
-    precio_desde: 48
+    precio_desde: 42
     rating: 4.6
     resenas: 2449
     proveedor: "getyourguide"

@@ -9,7 +9,7 @@ slugs:
   en: toledo-segovia-avila-from-madrid
 duracion: 12 horas
 duracionMinutos: 720
-precioDesde: 83.99
+precioDesde: 89.99
 moneda: EUR
 idiomas:
 - es

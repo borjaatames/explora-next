@@ -10,7 +10,7 @@ slugs:
   en: cordoba-premium-small-group-tour-high-speed-train-from-seville
 duracion: 8 hours
 duracionMinutos: 480
-precioDesde: 165
+precioDesde: 109.99
 moneda: EUR
 idiomas:
 - es

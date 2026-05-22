@@ -44,7 +44,7 @@ tours:
     titulo: "Montserrat with 10th-century winery, wine and tapas"
     descripcion: "Monastery + organic winery in a 10th-century castle + tasting of 3 wines with tapas. The most booked option with 4.9 ★ and 7,700+ reviews."
     operador: "Castlexperience · Bus + winery + tapas"
-    precio_desde: 47
+    precio_desde: 53
     rating: 4.9
     resenas: 7736
     viator_product_id: "5716GOLFWINE"
@@ -108,7 +108,7 @@ tours:
     titulo: "Montserrat full day with audio guide"
     descripcion: "Bus + rack railway + Benedictine Abbey + audio guide + optional Boys' Choir or Museum access. The self-guided option with the most freedom."
     operador: "Catalunya Bus Turístic · Bus + rack railway + audio guide"
-    precio_desde: 48
+    precio_desde: 42
     rating: 4.6
     resenas: 2449
     proveedor: "getyourguide"

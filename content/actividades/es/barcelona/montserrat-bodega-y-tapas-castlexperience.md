@@ -9,7 +9,7 @@ slugs:
   en: montserrat-winery-and-tapas-castlexperience
 duracion: 6-7 horas
 duracionMinutos: 420
-precioDesde: 47
+precioDesde: 53
 moneda: EUR
 idiomas:
 - es

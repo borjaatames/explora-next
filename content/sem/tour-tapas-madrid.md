@@ -62,7 +62,7 @@ tours:
     titulo: "Secret Food Tour Madrid"
     descripcion: "El clásico de Secret Food Tours en Madrid. Tapas tradicionales, vino local y el famoso 'plato secreto' por el centro histórico. Guía bilingüe."
     operador: "Secret Food Tours · Bilingüe"
-    precio_desde: 65
+    precio_desde: 64.8
     rating: 5.0
     resenas: 845
     viator_product_id: "7812P9"
@@ -203,7 +203,7 @@ tours:
     titulo: "Tour de tapas y vinos con vistas a la azotea"
     descripcion: "Plaza San Miguel, La Latina, Barrio de las Letras y Plaza Santa Ana, con cierre en una azotea de Gran Vía con cava. Incluye un restaurante centenario."
     operador: "World Experience · Guía local bilingüe"
-    precio_desde: 98
+    precio_desde: 97.99
     rating: 5.0
     resenas: 2146
     viator_product_id: "6874P84"

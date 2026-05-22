@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 día (visita ~75 min)"
 duracionMinutos: 75
-precioDesde: 22
+precioDesde: 39
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

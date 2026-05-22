@@ -9,7 +9,7 @@ slugs:
   es: montserrat-bodega-y-tapas-castlexperience
 duracion: 6-7 hours
 duracionMinutos: 420
-precioDesde: 47
+precioDesde: 53
 moneda: EUR
 idiomas:
 - es

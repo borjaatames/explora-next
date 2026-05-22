@@ -93,7 +93,7 @@ tours:
     titulo: "Alhambra and Nasrid Palaces: guided tour with tickets"
     descripcion: "Group guided tour of the Alhambra and the Nasrid Palaces with entry tickets included and a specialist guide."
     operador: "Alhambra Guide · Live guide"
-    precio_desde: 99
+    precio_desde: 83.78
     rating: 4.9
     resenas: 1018
     proveedor: "getyourguide"

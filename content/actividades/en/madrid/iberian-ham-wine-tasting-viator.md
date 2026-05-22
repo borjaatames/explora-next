@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 hours 30 minutes"
 duracionMinutos: 150
-precioDesde: 95
+precioDesde: 60.05
 moneda: "EUR"
 idiomas: ["en"]
 proveedor: "viator"

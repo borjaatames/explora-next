@@ -10,7 +10,7 @@ slugs:
 
 duracion: "7 hours"
 duracionMinutos: 420
-precioDesde: 48
+precioDesde: 42
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hour"
 duracionMinutos: 60
-precioDesde: 40
+precioDesde: 45
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"

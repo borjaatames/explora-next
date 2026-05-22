@@ -9,7 +9,7 @@ slugs:
   en: park-guell-skip-line-guided-tour-classic
 duracion: 1.5-2 hours
 duracionMinutos: 105
-precioDesde: 32
+precioDesde: 27.3
 moneda: EUR
 idiomas:
 - es

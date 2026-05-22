@@ -93,7 +93,7 @@ tours:
     titulo: "Alhambra y Palacios Nazaríes: tour guiado con entradas"
     descripcion: "Tour guiado en grupo de la Alhambra y los Palacios Nazaríes con las entradas incluidas y guía especializado."
     operador: "Alhambra Guide · Guía en directo"
-    precio_desde: 99
+    precio_desde: 83.78
     rating: 4.9
     resenas: 1018
     proveedor: "getyourguide"

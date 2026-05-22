@@ -9,7 +9,7 @@ slugs:
   en: reina-sofia-museum-tour-viator
 duracion: 1.25 horas
 duracionMinutos: 75
-precioDesde: 38
+precioDesde: 29
 moneda: EUR
 idiomas:
 - es

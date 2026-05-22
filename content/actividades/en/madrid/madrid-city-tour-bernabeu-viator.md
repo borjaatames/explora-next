@@ -9,7 +9,7 @@ slugs:
   en: madrid-city-tour-bernabeu-viator
 duracion: 4-4.5 hours
 duracionMinutos: 255
-precioDesde: 63
+precioDesde: 71
 moneda: EUR
 idiomas:
 - es

@@ -10,7 +10,7 @@ slugs:
   en: pueblos-blancos-ronda-day-trip-from-seville
 duracion: 10 hours
 duracionMinutos: 600
-precioDesde: 55
+precioDesde: 47.4
 moneda: EUR
 idiomas:
 - es

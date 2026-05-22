@@ -9,7 +9,7 @@ slugs:
   en: madrid-ebike-sunset-tour
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 40
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es

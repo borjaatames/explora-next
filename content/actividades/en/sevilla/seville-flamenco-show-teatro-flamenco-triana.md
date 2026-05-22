@@ -10,7 +10,7 @@ slugs:
   en: seville-flamenco-show-teatro-flamenco-triana
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 35
+precioDesde: 25
 moneda: EUR
 idiomas:
 - es

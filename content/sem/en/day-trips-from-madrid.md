@@ -58,7 +58,7 @@ tours:
     titulo: "Toledo, Segovia and Ávila in one day"
     descripcion: "Three UNESCO World Heritage cities in a single day with a bilingual guide and entry tickets included."
     operador: "Julià Travel · Bus + bilingual guide"
-    precio_desde: 84
+    precio_desde: 89.99
     rating: 4.8
     resenas: 9118
     viator_product_id: "6874P88"
@@ -115,7 +115,7 @@ tours:
     titulo: "Cuenca and the Enchanted City"
     descripcion: "The Hanging Houses of Cuenca and the rock formations of the Enchanted City on a full-day trip, with a specialist guide."
     operador: "Cuenqueando · Bus + guide"
-    precio_desde: 75
+    precio_desde: 89
     rating: 4.8
     resenas: 564
     proveedor: "getyourguide"
@@ -173,7 +173,7 @@ tours:
     titulo: "Ávila and Salamanca in one day"
     descripcion: "The walls of Ávila and the golden city of Salamanca in a single day, with admission to Salamanca's cathedral included."
     operador: "Amigo Tours Spain · Bus + bilingual guide"
-    precio_desde: 69
+    precio_desde: 48.88
     rating: 4.5
     resenas: 580
     proveedor: "getyourguide"

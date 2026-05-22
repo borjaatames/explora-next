@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 - 2 days"
 duracionMinutos: 75
-precioDesde: 33
+precioDesde: 28
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

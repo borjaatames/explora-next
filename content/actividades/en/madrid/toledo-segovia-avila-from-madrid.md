@@ -10,7 +10,7 @@ slugs:
 
 duracion: "12 hours"
 duracionMinutos: 720
-precioDesde: 83.99
+precioDesde: 89.99
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"

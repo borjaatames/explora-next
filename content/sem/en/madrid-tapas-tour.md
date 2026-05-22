@@ -54,7 +54,7 @@ tours:
     titulo: "Secret Food Tour of Madrid"
     descripcion: "The classic Secret Food Tours product in Madrid. Traditional tapas, local wine and the famous 'secret dish' through the historic centre. Bilingual guide."
     operador: "Secret Food Tours · Bilingual"
-    precio_desde: 65
+    precio_desde: 64.8
     rating: 5.0
     resenas: 845
     viator_product_id: "7812P9"
@@ -69,7 +69,7 @@ tours:
     titulo: "Devour Madrid Food and Tapas Tour"
     descripcion: "Devour Tours' Viator flagship in Madrid. 4 hours covering Plaza Mayor, Sol and surrounding tapas bars. English only."
     operador: "Devour Tours · English"
-    precio_desde: 95
+    precio_desde: 71
     rating: 4.8
     resenas: 1200
     viator_product_id: "39034P1"
@@ -84,7 +84,7 @@ tours:
     titulo: "Madrid Tapas and Wine Tour with a Local Guide"
     descripcion: "World Experience. 4 hours, three sit-down restaurant stops in central Madrid. Bilingual guide, generous portions."
     operador: "World Experience · Bilingual"
-    precio_desde: 98
+    precio_desde: 97.99
     rating: 5.0
     resenas: 2146
     viator_product_id: "6874P84"
@@ -114,7 +114,7 @@ tours:
     titulo: "Carpe Diem Tapas Walking Tour"
     descripcion: "Walking-focused tapas crawl by Carpe Diem. Multiple stops across central Madrid neighbourhoods. English-speaking guide."
     operador: "Carpe Diem · English"
-    precio_desde: 89
+    precio_desde: 65
     rating: 4.7
     resenas: 410
     viator_product_id: "109384P93"

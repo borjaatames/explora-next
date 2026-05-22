@@ -9,7 +9,7 @@ slugs:
   en: reina-sofia-museum-guided-tour-amigo-tours
 duracion: 75 minutos
 duracionMinutos: 75
-precioDesde: 38
+precioDesde: 29.05
 moneda: EUR
 idiomas:
 - es

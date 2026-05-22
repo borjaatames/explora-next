@@ -9,7 +9,7 @@ slugs:
   es: excursion-avila-salamanca
 duracion: 11 hours
 duracionMinutos: 660
-precioDesde: 69
+precioDesde: 48.88
 moneda: EUR
 idiomas:
 - es

@@ -9,7 +9,7 @@ slugs:
   en: alhambra-guided-tour-with-tickets
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 99
+precioDesde: 83.78
 moneda: EUR
 idiomas:
 - es

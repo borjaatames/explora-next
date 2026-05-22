@@ -9,7 +9,7 @@ slugs:
   en: cuenca-enchanted-city-day-trip
 duracion: 11 horas 30 minutos
 duracionMinutos: 690
-precioDesde: 75
+precioDesde: 89
 moneda: EUR
 idiomas:
 - es

@@ -9,7 +9,7 @@ slugs:
   es: excursion-cuenca-ciudad-encantada
 duracion: 11 hours 30 minutes
 duracionMinutos: 690
-precioDesde: 75
+precioDesde: 89
 moneda: EUR
 idiomas:
 - es

@@ -9,7 +9,7 @@ slugs:
   en: alcala-henares-winery-private-tour
 duracion: 6 horas
 duracionMinutos: 360
-precioDesde: 199
+precioDesde: 375
 moneda: EUR
 idiomas:
 - es

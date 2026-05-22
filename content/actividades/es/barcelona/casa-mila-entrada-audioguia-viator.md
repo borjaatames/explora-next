@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hora 30 minutos"
 duracionMinutos: 90
-precioDesde: 29
+precioDesde: 34
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "viator"

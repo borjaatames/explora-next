@@ -9,7 +9,7 @@ slugs:
   en: royal-palace-premium-tour-skip-line
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 48
+precioDesde: 40.95
 moneda: EUR
 idiomas:
 - es
