@@ -1,11 +1,13 @@
 "use client";
 
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlViatorFicha } from "@/lib/sem/url-builder-ficha";
 
 type Props = {
   idioma: Idioma;
+  /** Código de producto Viator (solo Viator). Activa el selector de precio en vivo. */
+  viatorCode?: string;
   precio: string;
   precioPorPersona: string;
   duracion: string;
@@ -140,6 +142,7 @@ export default function CalendarioReserva({
   textoIdiomas,
   textoCancelacionHorasAntes,
   textoCancelacionGratuita,
+  viatorCode,
 }: Props) {
   const t = dictFor(idioma);
   const hoy = useMemo(() => new Date(), []);
@@ -148,6 +151,50 @@ export default function CalendarioReserva({
     { year: hoy.getFullYear(), month: hoy.getMonth() }
   );
   const [fechaSeleccionada, setFechaSeleccionada] = useState<Date | null>(null);
+
+  // Incremento 2: precio exacto de la selección (fecha + adultos/niños) vía API Viator.
+  const [adultos, setAdultos] = useState(1);
+  const [ninos, setNinos] = useState(0);
+  const [precioSel, setPrecioSel] = useState<{
+    cargando: boolean;
+    disponible: boolean | null;
+    total: number | null;
+    moneda: string | null;
+  }>({ cargando: false, disponible: null, total: null, moneda: null });
+
+  useEffect(() => {
+    if (!viatorCode || !fechaSeleccionada) {
+      setPrecioSel({ cargando: false, disponible: null, total: null, moneda: null });
+      return;
+    }
+    const fecha = `${fechaSeleccionada.getFullYear()}-${String(
+      fechaSeleccionada.getMonth() + 1,
+    ).padStart(2, "0")}-${String(fechaSeleccionada.getDate()).padStart(2, "0")}`;
+    let cancelado = false;
+    setPrecioSel((s) => ({ ...s, cargando: true }));
+    fetch("/api/viator/precio", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ code: viatorCode, fecha, adultos, ninos, idioma }),
+    })
+      .then((r) => r.json())
+      .then((d) => {
+        if (cancelado) return;
+        setPrecioSel({
+          cargando: false,
+          disponible: d?.disponible ?? null,
+          total: d?.precioTotal ?? null,
+          moneda: d?.moneda ?? null,
+        });
+      })
+      .catch(() => {
+        if (!cancelado)
+          setPrecioSel({ cargando: false, disponible: null, total: null, moneda: null });
+      });
+    return () => {
+      cancelado = true;
+    };
+  }, [viatorCode, fechaSeleccionada, adultos, ninos, idioma]);
 
   const diasDelMes = useMemo(
     () => construirGridMes(mesVisible.year, mesVisible.month),
@@ -314,6 +361,41 @@ export default function CalendarioReserva({
             </div>
           </div>
         </div>
+
+        {viatorCode && (
+          <div className="mt-5 border-t border-slate-100 pt-4">
+            <div className="flex items-center justify-between text-sm mb-2">
+              <span className="text-slate-700">{idioma === "es" ? "Adultos" : "Adults"}</span>
+              <div className="flex items-center gap-2">
+                <button type="button" aria-label="menos adultos" onClick={() => setAdultos((a) => Math.max(1, a - 1))} className="w-7 h-7 rounded border border-slate-300 text-slate-700 hover:border-sky-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500">−</button>
+                <span className="w-6 text-center font-semibold text-slate-900">{adultos}</span>
+                <button type="button" aria-label="más adultos" onClick={() => setAdultos((a) => Math.min(9, a + 1))} className="w-7 h-7 rounded border border-slate-300 text-slate-700 hover:border-sky-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500">+</button>
+              </div>
+            </div>
+            <div className="flex items-center justify-between text-sm">
+              <span className="text-slate-700">{idioma === "es" ? "Niños" : "Children"}</span>
+              <div className="flex items-center gap-2">
+                <button type="button" aria-label="menos niños" onClick={() => setNinos((n) => Math.max(0, n - 1))} className="w-7 h-7 rounded border border-slate-300 text-slate-700 hover:border-sky-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500">−</button>
+                <span className="w-6 text-center font-semibold text-slate-900">{ninos}</span>
+                <button type="button" aria-label="más niños" onClick={() => setNinos((n) => Math.min(9, n + 1))} className="w-7 h-7 rounded border border-slate-300 text-slate-700 hover:border-sky-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500">+</button>
+              </div>
+            </div>
+            {fechaSeleccionada && (
+              <p className="mt-3 text-center text-sm">
+                {precioSel.cargando ? (
+                  <span className="text-slate-500">{idioma === "es" ? "Comprobando disponibilidad…" : "Checking availability…"}</span>
+                ) : precioSel.disponible === false ? (
+                  <span className="text-slate-600">{idioma === "es" ? "No disponible esa fecha" : "Not available on that date"}</span>
+                ) : precioSel.total != null ? (
+                  <span className="font-semibold text-slate-900">
+                    {idioma === "es" ? "Total: " : "Total: "}
+                    {new Intl.NumberFormat(t.locale, { style: "currency", currency: precioSel.moneda || "EUR", maximumFractionDigits: 0 }).format(precioSel.total)}
+                  </span>
+                ) : null}
+              </p>
+            )}
+          </div>
+        )}
 
         <a
           href={urlReservaBase}

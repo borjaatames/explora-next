@@ -44,7 +44,7 @@ tours:
     titulo: "Montserrat con bodega del siglo X, cata y tapas"
     descripcion: "Monasterio + bodega ecológica en castillo del siglo X + cata de 3 vinos con tapas. El más reservado del comparador con 4,9 ★."
     operador: "Castlexperience · Bus + bodega + tapas"
-    precio_desde: 53
+    precio_desde: 46.64
     rating: 4.9
     resenas: 7736
     viator_product_id: "5716GOLFWINE"

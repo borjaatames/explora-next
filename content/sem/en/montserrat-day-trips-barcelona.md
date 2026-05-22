@@ -44,7 +44,7 @@ tours:
     titulo: "Montserrat with 10th-century winery, wine and tapas"
     descripcion: "Monastery + organic winery in a 10th-century castle + tasting of 3 wines with tapas. The most booked option with 4.9 ★ and 7,700+ reviews."
     operador: "Castlexperience · Bus + winery + tapas"
-    precio_desde: 53
+    precio_desde: 46.64
     rating: 4.9
     resenas: 7736
     viator_product_id: "5716GOLFWINE"

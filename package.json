@@ -5,10 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "prebuild": "tsx scripts/audit-parejas.ts",
+    "prebuild": "tsx scripts/audit-parejas.ts && tsx scripts/audit-enlaces-afiliados.ts",
     "start": "next start",
     "lint": "next lint",
-    "audit:parejas": "tsx scripts/audit-parejas.ts"
+    "audit:parejas": "tsx scripts/audit-parejas.ts",
+    "audit:enlaces": "tsx scripts/audit-enlaces-afiliados.ts",
+    "verificar:precios": "tsx scripts/verificar-precios.ts"
   },
   "dependencies": {
     "@next/third-parties": "^14.2.33",

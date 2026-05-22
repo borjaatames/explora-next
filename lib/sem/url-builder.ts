@@ -6,7 +6,8 @@
  */
 
 import type { SemIdioma, SemTour } from './types';
-import { normalizarUrlGetYourGuide } from '@/lib/afiliados-gyg';
+import { normalizarUrlGetYourGuide } from '../afiliados-gyg';
+import { normalizarUrlViator } from '../afiliados-viator';
 
 // ─── Viator ──────────────────────────────────────────────────────────────────
 const VIATOR_PARTNER_ID = 'P00298823';
@@ -23,9 +24,11 @@ export function construirUrlViator(
   viatorUrl: string,
   landingSlug: string,
   tourId: string,
+  locale: SemIdioma,
   gclid?: string,
 ): string {
-  const url = new URL(viatorUrl);
+  // Normaliza el idioma del operador (ES → /es-ES/ ; EN → primaryLanguage=en).
+  const url = new URL(normalizarUrlViator(viatorUrl, locale));
   url.searchParams.set('pid', VIATOR_PARTNER_ID);
   url.searchParams.set('mcid', VIATOR_MCID);
   url.searchParams.set('medium', 'link');
@@ -106,5 +109,5 @@ export function construirUrlAfiliado(
       `[construirUrlAfiliado] Tour ${tour.id} no tiene viator_url ni url_reserva.`,
     );
   }
-  return construirUrlViator(urlBase, landingSlug, codigo, gclid);
+  return construirUrlViator(urlBase, landingSlug, codigo, locale, gclid);
 }

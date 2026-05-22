@@ -9,6 +9,7 @@
  */
 
 import { normalizarUrlGetYourGuide } from "./afiliados-gyg";
+import { normalizarUrlViator } from "./afiliados-viator";
 
 export type ProveedorActividad = "civitatis" | "getyourguide" | "viator";
 
@@ -84,7 +85,7 @@ export function construirUrlReserva(
     case "getyourguide":
       return normalizarUrlGetYourGuide(urlBase, idioma);
     case "viator":
-      return construirUrlViator(urlBase);
+      return construirUrlViator(normalizarUrlViator(urlBase, idioma));
     default:
       return urlBase;
   }

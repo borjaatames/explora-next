@@ -16,6 +16,7 @@ import {
   urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
+import { obtenerHorariosViator } from "@/lib/viator-api";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
@@ -101,11 +102,18 @@ export default async function ActividadPage({ params }: Props) {
       : [];
 
   const url = `${SITE_URL}${actividad.url}`;
+  // Incremento 1: precio "desde" en vivo de la API de Viator (fallback al del .md).
+  const codViator =
+    actividad.proveedor === "viator"
+      ? actividad.urlReserva.match(/\/d\d+-([A-Za-z0-9]+)/)?.[1] ?? null
+      : null;
+  const dispViator = codViator ? await obtenerHorariosViator(codViator, "es") : null;
+  const precioDesdeFinal = dispViator?.precioDesde ?? actividad.precioDesde;
   const precio = new Intl.NumberFormat("es-ES", {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
-  }).format(actividad.precioDesde);
+  }).format(precioDesdeFinal);
 
   // URL limpia con tu PID/aid del proveedor ya añadido. NO se le añaden
   // parámetros de fecha ni viajeros porque Viator (afiliado básico) no
@@ -438,6 +446,7 @@ export default async function ActividadPage({ params }: Props) {
             <div className="lg:sticky lg:top-6">
               <CalendarioReserva
                 idioma="es"
+                viatorCode={codViator ?? undefined}
                 precio={precio}
                 precioPorPersona={dict.actividades.porPersona}
                 duracion={actividad.duracion}

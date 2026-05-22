@@ -9,7 +9,7 @@ slugs:
   es: alpujarras-viator-con-almuerzo
 duracion: 8 horas
 duracionMinutos: 480
-precioDesde: 85
+precioDesde: 71.31
 moneda: EUR
 idiomas:
 - es
