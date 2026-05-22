@@ -20,6 +20,7 @@ import {
   urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+import SelloProveedor from "@/components/SelloProveedor";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -217,21 +218,28 @@ export default function HomePage({ params }: Props) {
                       </span>
                     ) : null}
                   </div>
-                  <div className="mt-auto flex items-end justify-between pt-4 border-t border-slate-100">
-                    <div>
-                      <p className="text-xs uppercase tracking-wider text-slate-400">
-                        From
-                      </p>
-                      <p className="text-xl font-bold text-slate-900">
-                        {formatearPrecio(a.precioDesde, a.moneda, locale)}
-                      </p>
+                  <div className="mt-auto pt-4 border-t border-slate-100">
+                    <SelloProveedor
+                      proveedor={a.proveedor}
+                      idioma={lang}
+                      className="mb-3"
+                    />
+                    <div className="flex items-end justify-between">
+                      <div>
+                        <p className="text-xs uppercase tracking-wider text-slate-400">
+                          From
+                        </p>
+                        <p className="text-xl font-bold text-slate-900">
+                          {formatearPrecio(a.precioDesde, a.moneda, locale)}
+                        </p>
+                      </div>
+                      <span
+                        aria-hidden="true"
+                        className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+                      >
+                        View activity →
+                      </span>
                     </div>
-                    <span
-                      aria-hidden="true"
-                      className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
-                    >
-                      View activity →
-                    </span>
                   </div>
                 </div>
               </Link>

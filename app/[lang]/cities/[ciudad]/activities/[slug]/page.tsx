@@ -442,6 +442,7 @@ export default async function ActividadPage({ params }: Props) {
             <div className="lg:sticky lg:top-6">
               <CalendarioReserva
                 idioma={IDIOMA}
+                proveedor={actividad.proveedor}
                 viatorCode={codViator ?? undefined}
                 precio={precio}
                 precioPorPersona={dict.actividades.porPersona}

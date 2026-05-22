@@ -17,6 +17,7 @@ import {
   urlActividadesDeCiudad,
   urlActividadesDeCiudadPorCategoria,
 } from "@/lib/i18n/utils";
+import SelloProveedor from "@/components/SelloProveedor";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -296,21 +297,28 @@ function TarjetaActividad({
           ) : null}
         </div>
 
-        <div className="mt-auto flex items-end justify-between pt-6">
-          <div>
-            <p className="text-xs uppercase tracking-wide text-slate-400">
-              {dict.actividades.desde}
-            </p>
-            <p className="text-xl font-semibold text-slate-900">
-              {formatoPrecio.format(actividad.precioDesde)}
-            </p>
+        <div className="mt-auto pt-6">
+          <SelloProveedor
+            proveedor={actividad.proveedor}
+            idioma={IDIOMA}
+            className="mb-3"
+          />
+          <div className="flex items-end justify-between">
+            <div>
+              <p className="text-xs uppercase tracking-wide text-slate-400">
+                {dict.actividades.desde}
+              </p>
+              <p className="text-xl font-semibold text-slate-900">
+                {formatoPrecio.format(actividad.precioDesde)}
+              </p>
+            </div>
+            <span
+              aria-hidden="true"
+              className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+            >
+              {dict.actividades.verActividad} →
+            </span>
           </div>
-          <span
-            aria-hidden="true"
-            className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
-          >
-            {dict.actividades.verActividad} →
-          </span>
         </div>
       </div>
     </Link>

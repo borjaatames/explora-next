@@ -10,6 +10,7 @@ import {
   prefijoIdioma,
   urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
+import SelloProveedor from "@/components/SelloProveedor";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -180,21 +181,28 @@ export default function HomePage() {
                       </span>
                     ) : null}
                   </div>
-                  <div className="mt-auto flex items-end justify-between pt-4 border-t border-slate-100">
-                    <div>
-                      <p className="text-xs uppercase tracking-wider text-slate-400">
-                        Desde
-                      </p>
-                      <p className="text-xl font-bold text-slate-900">
-                        {formatearPrecio(a.precioDesde, a.moneda)}
-                      </p>
+                  <div className="mt-auto pt-4 border-t border-slate-100">
+                    <SelloProveedor
+                      proveedor={a.proveedor}
+                      idioma="es"
+                      className="mb-3"
+                    />
+                    <div className="flex items-end justify-between">
+                      <div>
+                        <p className="text-xs uppercase tracking-wider text-slate-400">
+                          Desde
+                        </p>
+                        <p className="text-xl font-bold text-slate-900">
+                          {formatearPrecio(a.precioDesde, a.moneda)}
+                        </p>
+                      </div>
+                      <span
+                        aria-hidden="true"
+                        className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+                      >
+                        Ver actividad →
+                      </span>
                     </div>
-                    <span
-                      aria-hidden="true"
-                      className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
-                    >
-                      Ver actividad →
-                    </span>
                   </div>
                 </div>
               </Link>

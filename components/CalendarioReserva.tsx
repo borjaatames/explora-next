@@ -3,11 +3,15 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlViatorFicha } from "@/lib/sem/url-builder-ficha";
+import SelloProveedor from "./SelloProveedor";
+import type { ProveedorActividad } from "@/lib/afiliados";
 
 type Props = {
   idioma: Idioma;
   /** Código de producto Viator (solo Viator). Activa el selector de precio en vivo. */
   viatorCode?: string;
+  /** Proveedor de la actividad: muestra el sello "Ofrecida por …" con su logo. */
+  proveedor?: ProveedorActividad;
   precio: string;
   precioPorPersona: string;
   duracion: string;
@@ -143,6 +147,7 @@ export default function CalendarioReserva({
   textoCancelacionHorasAntes,
   textoCancelacionGratuita,
   viatorCode,
+  proveedor,
 }: Props) {
   const t = dictFor(idioma);
   const hoy = useMemo(() => new Date(), []);
@@ -406,6 +411,12 @@ export default function CalendarioReserva({
         >
           {textoReservar} →
         </a>
+
+        {proveedor && (
+          <div className="mt-3 text-center">
+            <SelloProveedor proveedor={proveedor} idioma={idioma} />
+          </div>
+        )}
 
         <p className="mt-3 text-center text-[11px] text-slate-500 leading-relaxed">
           {t.enProveedorConfirma(nombreProveedor)}

@@ -1,9 +1,12 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import type { ChipFiltro } from "@/lib/ciudades";
+import type { Idioma } from "@/lib/i18n/types";
+import type { ProveedorActividad } from "@/lib/afiliados";
+import SelloProveedor from "@/components/SelloProveedor";
 
 /**
  * Datos serializables que el Server Component pasa al Client Component.
@@ -23,6 +26,8 @@ export type ActividadCardData = {
   numeroOpiniones?: number;
   cancelacionGratuita?: boolean;
   atraccionesRelacionadas: string[];
+  /** Proveedor (viator / getyourguide) para el sello "Ofrecida por…". */
+  proveedor: ProveedorActividad;
   /**
    * Clave de categoría (visitasGuiadas, entradas, excursionesDia,
    * espectaculos, toursGastronomicos, serviciosAdicionales, transporte).
@@ -79,6 +84,26 @@ export default function ActividadesFiltradas({
 }: Props) {
   const [tagsActivos, setTagsActivos] = useState<string[]>([]);
   const [categoriasActivas, setCategoriasActivas] = useState<string[]>([]);
+
+  // Filtro pre-seleccionable por URL (?atraccion=bernabeu o ?attraction=...).
+  // Permite que un anuncio SEM aterrice ya filtrado en las pocas variantes de
+  // una atracción, sin sacar al usuario de la página. Se lee tras el montaje
+  // para NO romper el prerender estático (SSG): el HTML sigue trayendo todas
+  // las actividades y el filtro se aplica en cliente. Acepta lista separada por
+  // comas y valida contra los chips disponibles (insensible a mayúsculas).
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const params = new URLSearchParams(window.location.search);
+    const raw = params.get("atraccion") ?? params.get("attraction");
+    if (!raw) return;
+    const validos = new Map(chips.map((c) => [c.tag.toLowerCase(), c.tag]));
+    const seleccion = raw
+      .split(",")
+      .map((t) => t.trim().toLowerCase())
+      .map((t) => validos.get(t))
+      .filter((t): t is string => Boolean(t));
+    if (seleccion.length > 0) setTagsActivos(seleccion);
+  }, [chips]);
 
   const toggleTag = (tag: string) => {
     setTagsActivos((prev) =>
@@ -260,6 +285,8 @@ function CardActividad({
     maximumFractionDigits: 0,
   });
 
+  const idioma: Idioma = locale.startsWith("en") ? "en" : "es";
+
   return (
     <Link
       href={actividad.url}
@@ -301,21 +328,28 @@ function CardActividad({
             </span>
           ) : null}
         </div>
-        <div className="mt-auto flex items-end justify-between pt-4 border-t border-slate-100">
-          <div>
-            <p className="text-xs uppercase tracking-wider text-slate-400">
-              {strings.desde}
-            </p>
-            <p className="text-xl font-bold text-slate-900">
-              {formato.format(actividad.precioDesde)}
-            </p>
+        <div className="mt-auto pt-4 border-t border-slate-100">
+          <SelloProveedor
+            proveedor={actividad.proveedor}
+            idioma={idioma}
+            className="mb-3"
+          />
+          <div className="flex items-end justify-between">
+            <div>
+              <p className="text-xs uppercase tracking-wider text-slate-400">
+                {strings.desde}
+              </p>
+              <p className="text-xl font-bold text-slate-900">
+                {formato.format(actividad.precioDesde)}
+              </p>
+            </div>
+            <span
+              aria-hidden="true"
+              className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+            >
+              {strings.verActividad} →
+            </span>
           </div>
-          <span
-            aria-hidden="true"
-            className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
-          >
-            {strings.verActividad} →
-          </span>
         </div>
       </div>
     </Link>

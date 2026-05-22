@@ -102,6 +102,7 @@ function aCardData(a: ActividadListItem): ActividadCardData {
     numeroOpiniones: a.numeroOpiniones,
     cancelacionGratuita: a.cancelacionGratuita,
     atraccionesRelacionadas: a.atraccionesRelacionadas ?? [],
+    proveedor: a.proveedor,
     categoria: a.categoria,
     destacada: a.destacada ?? false,
   };
