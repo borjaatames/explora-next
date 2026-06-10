@@ -92,7 +92,7 @@ opinionEditorial: |
 categoria: "espectaculos"
 keywords: ["tour nocturno madrid", "inquisicion espanola madrid tour", "leyendas madrid noche", "fantasmas madrid tour", "mysterium tours madrid"]
 
-imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-medieval-castle-spain-hero.webp"
 imagenAlt: "Calles históricas del casco antiguo de Madrid, escenario del tour nocturno de leyendas"
 
 galeria:

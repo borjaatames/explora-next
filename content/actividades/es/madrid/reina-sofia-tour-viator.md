@@ -95,7 +95,7 @@ keywords:
 - amigo tours reina sofia
 - reina sofia grupo 15
 - guernica picasso tour viator
-imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+imagen: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp"
 imagenAlt: Fachada principal del Museo Reina Sofía de Madrid con su estructura moderna de vidrio y acero
 galeria:
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp

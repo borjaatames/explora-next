@@ -103,7 +103,7 @@ keywords:
 - salobreña excursion
 - playa burriana desde granada
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
+imagen: "/images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp"
 imagenAlt: Catedral natural de las Cuevas de Nerja con columnas geológicas, estalactitas y estalagmitas milenarias iluminadas
 galeria:
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-salobrena-pueblo-blanco-0-hero.webp

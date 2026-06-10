@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["museo picasso grupo reducido", "tours for today picasso barcelona", "museo picasso tour sin cola", "barcelona museo picasso guiado", "visita museu picasso"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+imagen: "/images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp"
 imagenAlt: "Interior del Museo Picasso con tour guiado de grupo reducido en El Born"
 
 galeria:

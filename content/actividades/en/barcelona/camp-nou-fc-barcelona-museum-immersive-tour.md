@@ -138,7 +138,7 @@ keywords:
 - fc barcelona museum
 - camp nou renovation visit
 - barca immersive exhibition
-imagen: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
+imagen: "/images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp"
 imagenAlt: Barcelona street scene with historic architecture and pedestrians
 galeria:
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp

@@ -95,7 +95,7 @@ keywords:
 - discovering spain alpujarra
 - curated white villages tour
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-pueblos-blancos-alpujarr-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp"
 imagenAlt: White villages cascading down Alpujarra mountain slopes with traditional cubic Andalusian architecture near Granada
 galeria:
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp

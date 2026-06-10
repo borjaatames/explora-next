@@ -109,7 +109,7 @@ keywords:
 - reina sofia skip line
 - reina sofia museum guide madrid
 - reina sofia bilingual tour
-imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero-hero.webp
+imagen: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
 imagenAlt: Museum building with modern architecture, glass and steel facade, Madrid cultural center
 galeria:
 - src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp

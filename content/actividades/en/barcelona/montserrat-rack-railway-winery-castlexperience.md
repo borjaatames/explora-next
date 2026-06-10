@@ -107,7 +107,7 @@ keywords:
 - castlexperience montserrat tour
 - montserrat black madonna winery
 - complete montserrat excursion
-imagen: /images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero-hero.webp
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp"
 imagenAlt: Montserrat mountains with distinctive rock formations near Barcelona, Catalonia, Spain
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp

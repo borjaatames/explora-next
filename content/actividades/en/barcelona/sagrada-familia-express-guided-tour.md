@@ -96,7 +96,7 @@ keywords:
 - sagrada familia skip the line
 - sagrada familia accessible
 - sagrada familia express tour
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp"
 imagenAlt: Illuminated interior of the Sagrada Familia with golden light filtered through the stained glass
 ratingProveedor: 4.7
 numeroOpiniones: 3414

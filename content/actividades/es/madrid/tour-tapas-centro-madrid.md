@@ -93,7 +93,7 @@ keywords: ["tour tapas madrid centro", "secret food tour madrid", "tapas plaza m
 # ─── 12. IMAGES ──────────────────────────────────────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
 imagenAlt: "Felipe III - Casa de la Panadería - Plaza Mayor de Madrid - 02"
 
 galeria:

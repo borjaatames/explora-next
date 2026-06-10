@@ -148,7 +148,7 @@ keywords:
 - setenil de las bodegas tour
 - zahara de la sierra excursion
 - new bridge ronda day
-imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
+imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
 imagenAlt: Puente Nuevo of Ronda spanning deep Tajo gorge with three stone arches and dramatic cliff landscape
 galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp

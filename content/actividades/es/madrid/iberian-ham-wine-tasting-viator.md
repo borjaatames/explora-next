@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["jamon iberico cata madrid", "viator jamon vino madrid", "embutidos quesos vino madrid", "cata gourmet madrid", "tasting iberian ham madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-26642593854-hero.webp"
 imagenAlt: "Jamón ibérico y productos gourmet españoles"
 
 galeria:

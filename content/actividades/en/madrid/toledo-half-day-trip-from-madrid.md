@@ -96,7 +96,7 @@ keywords:
 - toledo coach tour
 - visit toledo spain
 - madrid to toledo
-imagen: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp"
 imagenAlt: Alcázar fortress overlooking Toledo bridge spanning Spanish landscape
 galeria:
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp

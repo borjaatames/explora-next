@@ -87,7 +87,7 @@ opinionEditorial: |
 categoria: "espectaculos"
 keywords: ["essential flamenco madrid", "flamenco show barato madrid", "viator flamenco entrada", "show flamenco economico", "flamenco madrid principiantes"]
 
-imagen: "/images/actividades/madrid/la-latina/hero.webp"
+imagen: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
 imagenAlt: "Casco histórico de Madrid - referencia visual de tablaos"
 
 galeria:

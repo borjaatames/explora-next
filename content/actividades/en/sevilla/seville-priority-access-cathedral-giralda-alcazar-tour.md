@@ -123,7 +123,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["seville 3 monuments tour", "cathedral alcazar giralda combo", "seville priority access 3 sites", "seville top selling tour", "seville best 1 day tour"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-catedral-ca-hero.webp"
 imagenAlt: "Seville Cathedral with the Giralda — 3 UNESCO monuments combo tour"
 
 galeria:

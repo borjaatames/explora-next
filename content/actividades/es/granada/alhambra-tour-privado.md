@@ -112,7 +112,7 @@ keywords:
 - visita privada palacios nazaries
 - alhambra a tu ritmo
 - alhambra tour privado granada
-imagen: /images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp"
 imagenAlt: Patio de la Alhambra con palmeras reflejadas en una acequia
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp

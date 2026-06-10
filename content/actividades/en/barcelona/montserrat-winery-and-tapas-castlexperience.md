@@ -105,7 +105,7 @@ keywords:
 - montserrat from barcelona
 - visit montserrat
 - montserrat tapas tour
-imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp
+imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
 imagenAlt: Montserrat Monastery perched on dramatic rocky mountains near Barcelona, Spain
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp

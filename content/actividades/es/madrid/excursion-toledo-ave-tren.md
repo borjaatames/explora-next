@@ -108,7 +108,7 @@ keywords: ["toledo en ave desde madrid", "tour grupo pequeño toledo", "excursio
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero.webp"
 imagenAlt: "Alcazar toledo fachada norte espana en Alcazar toledo"
 
 galeria:

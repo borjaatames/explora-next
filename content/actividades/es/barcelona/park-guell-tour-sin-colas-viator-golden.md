@@ -92,7 +92,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour viator", "golden tour guide park guell", "park guell sin colas viator", "park guell visita guiada viator barcelona", "park guell entrada viator"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp"
 imagenAlt: "Park Güell de Barcelona, zona monumental con los mosaicos de Gaudí"
 
 galeria:

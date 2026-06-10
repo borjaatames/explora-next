@@ -97,7 +97,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat viator", "mont escape tours", "montserrat cable car viator", "montserrat hike", "montserrat 8 person tour"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp"
 imagenAlt: "Hiking the trails of Montserrat National Park"
 
 galeria:

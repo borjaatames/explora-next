@@ -100,7 +100,7 @@ keywords:
 - visita sagrada familia sin colas
 - tour sagrada familia grupo
 - sagrada familia barcelona guia
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp"
 imagenAlt: 'Barcelona: vista de la ciudad con arquitectura moderna y montañas al fondo'
 ratingProveedor: 4.4
 numeroOpiniones: 5559

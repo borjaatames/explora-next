@@ -49,7 +49,7 @@ keywords:
   - "tour mezquita cordoba"
 atraccionesRelacionadas:
   - mezquita-catedral
-imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
+imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-pixabay-5078141.jpg"
 imagenAlt: "Arcos bicolor y bosque de columnas de la Mezquita-Catedral de Córdoba"
 
 galeria:

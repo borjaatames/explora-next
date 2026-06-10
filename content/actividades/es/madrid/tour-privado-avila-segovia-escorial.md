@@ -104,7 +104,7 @@ keywords:
 - avila segovia escorial un dia
 - tour privado escorial
 - excursion privada avila segovia
-imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero.webp"
 imagenAlt: El Monasterio de El Escorial, palacio y panteón real de los Austrias
 galeria:
 - src: /images/actividades/avila/avila/avila-panoramica-hero.webp

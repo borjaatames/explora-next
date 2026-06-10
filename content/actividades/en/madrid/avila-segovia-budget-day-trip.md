@@ -104,7 +104,7 @@ keywords:
 - avila and segovia tour
 - affordable avila segovia tour
 - avila segovia getaway madrid
-imagen: /images/actividades/madrid/avila/avila-murallas-01-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp"
 imagenAlt: A stretch of Ávila's wall with battlements and towers set against the sky
 galeria:
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp

@@ -102,7 +102,7 @@ keywords:
 - sagrada familia tower tour
 - sagrada familia views
 - sagrada familia tower tickets
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: Barcelona cityscape with modern architecture and Mediterranean skyline
 ratingProveedor: 4.4
 numeroOpiniones: 5238

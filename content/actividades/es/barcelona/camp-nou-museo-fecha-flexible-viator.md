@@ -132,7 +132,7 @@ keywords:
 - fc barcelona museo fecha abierta
 - camp nou ticket viator
 - julia travel camp nou
-imagen: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
+imagen: "/images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp"
 imagenAlt: Vistas panorámicas de Barcelona con arquitectura gótica y modernista desde una perspectiva elevada
 galeria:
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp

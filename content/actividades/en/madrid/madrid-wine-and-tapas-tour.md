@@ -91,7 +91,7 @@ keywords: ["madrid tapas tour", "madrid wine tour", "barrio de las letras", "sma
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-grayscale-photo-brick-street-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-20180604-094957-hero.webp"
 imagenAlt: "A street in Madrid's Barrio de las Letras"
 
 galeria:

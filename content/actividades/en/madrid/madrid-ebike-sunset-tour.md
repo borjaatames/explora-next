@@ -115,7 +115,7 @@ keywords:
 - madrid golden hour bike
 - viator ebike sunset
 - templo debod ebike sunset
-imagen: /images/actividades/madrid/ebike/touring-madrid-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero.webp"
 imagenAlt: Touring the historic streets and landmarks of central Madrid
 galeria:
 - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp

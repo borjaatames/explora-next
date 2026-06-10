@@ -110,7 +110,7 @@ keywords:
 - ebike literary madrid
 - viator madrid bike
 - retiro letters bike
-imagen: /images/actividades/madrid/ebike/touring-madrid-hero.webp
+imagen: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
 imagenAlt: Touring Madrid landmarks and historic architecture
 galeria:
 - src: /images/actividades/madrid/ebike/images-hero.webp

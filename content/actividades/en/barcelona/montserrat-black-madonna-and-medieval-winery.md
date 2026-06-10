@@ -98,7 +98,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat full day", "montserrat black madonna winery", "moreneta montserrat castlexperience", "montserrat winery lunch"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp"
 imagenAlt: "Medieval castle with organic winery in the Bages region, Catalonia"
 
 galeria:

@@ -114,7 +114,7 @@ keywords:
 - toledo 18th century winery
 - toledo gastronomic tour
 - wine tasting near toledo bargas
-imagen: /images/actividades/toledo/toledo-medieval-city/toledo-medieval-city-architecture-hero-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-discover-breathtaking-aerial-view-hero.webp"
 imagenAlt: Medieval Toledo cityscape with historic architecture and winding cobblestone streets on hillside
 galeria:
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp

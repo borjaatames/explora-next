@@ -112,7 +112,7 @@ keywords:
 - sierra nevada en grupo pequeno
 - refugio sierra nevada
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp
+imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
 imagenAlt: Jeep 4x4 en pista de montaña rocosa de Sierra Nevada, Granada, con picos nevados al fondo
 galeria:
 - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-vista-panoramica-refugio-2500m-01-hero.webp

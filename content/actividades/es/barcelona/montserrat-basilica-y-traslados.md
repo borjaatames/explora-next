@@ -105,7 +105,7 @@ keywords:
 - tour montserrat basilica
 - excursion economica montserrat
 - montserrat desde barcelona
-imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
 imagenAlt: Vistas panorámicas de Montserrat con formaciones rocosas escarpadas al atardecer
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp

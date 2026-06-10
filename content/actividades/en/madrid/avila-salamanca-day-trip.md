@@ -101,7 +101,7 @@ keywords:
 - avila salamanca tour
 - visit salamanca from madrid
 - salamanca day trip madrid
-imagen: /images/actividades/madrid/avila/avila-fortress-citadel-fortification-hero.webp
+imagen: "/images/actividades/madrid/avila/avila-24-8-2002-hero.webp"
 imagenAlt: The walls and towers of Ávila, the best-preserved medieval fortification in Spain
 galeria:
 - src: /images/actividades/madrid/avila/avila-spain-unesco-world-heritage-site-2-hero.webp

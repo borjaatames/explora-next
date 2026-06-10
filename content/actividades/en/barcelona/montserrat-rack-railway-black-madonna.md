@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat rack railway", "montserrat black madonna tour", "moreneta montserrat", "montserrat half day", "visit montserrat from barcelona"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp"
 imagenAlt: "Rack railway climbing the slopes of Montserrat mountain"
 
 galeria:

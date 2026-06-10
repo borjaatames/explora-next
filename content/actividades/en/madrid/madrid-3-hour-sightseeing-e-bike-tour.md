@@ -115,7 +115,7 @@ keywords:
 - ebike royal palace tour
 - wonder tours madrid
 - e-bike central madrid
-imagen: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero.webp"
 imagenAlt: Madrid city skyline with historic buildings and modern architecture
 galeria:
 - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp

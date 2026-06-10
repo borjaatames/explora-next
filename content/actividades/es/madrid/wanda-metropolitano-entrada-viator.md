@@ -106,7 +106,7 @@ keywords:
 - metropolitano entrada viator
 - tour atletico madrid
 - civitas metropolitano
-imagen: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp
+imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp"
 imagenAlt: Estadio Wanda Metropolitano de Madrid, vista exterior del recinto deportivo
 galeria:
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp

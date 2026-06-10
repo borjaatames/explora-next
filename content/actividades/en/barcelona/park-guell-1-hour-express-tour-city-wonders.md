@@ -93,7 +93,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour 1 hour", "park guell express", "park guell quick tour", "park guell city wonders", "park guell skip line english"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp"
 imagenAlt: "Park Güell in Barcelona, main staircase with mosaics"
 
 galeria:

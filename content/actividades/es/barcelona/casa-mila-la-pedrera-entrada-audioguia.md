@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["entradas casa mila", "la pedrera entrada audioguia", "casa mila ticket online", "la pedrera sin colas", "casa mila precio entrada"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-spain-jan-2007-hero.webp"
 imagenAlt: "Fachada de Casa Milà con la terraza de chimeneas-guerrero en Barcelona"
 
 galeria:

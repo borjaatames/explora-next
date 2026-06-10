@@ -92,7 +92,7 @@ opinionEditorial: |
 categoria: "deportivo"
 keywords: ["las ventas madrid", "plaza toros madrid", "tour las ventas", "viator las ventas", "museo taurino madrid"]
 
-imagen: "/images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-27215383406-hero.webp"
 imagenAlt: "Fachada de la Plaza de Toros de Las Ventas de Madrid"
 
 galeria:

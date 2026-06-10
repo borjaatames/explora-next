@@ -87,7 +87,7 @@ opinionEditorial: |
 categoria: "espectaculos"
 keywords: ["essential flamenco madrid", "flamenco show madrid viator", "flamenco admission ticket madrid", "viator flamenco entrance", "flamenco show puerta del sol"]
 
-imagen: "/images/actividades/madrid/la-latina/hero.webp"
+imagen: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
 imagenAlt: "Central Madrid — visual reference of flamenco tablaos"
 
 galeria:

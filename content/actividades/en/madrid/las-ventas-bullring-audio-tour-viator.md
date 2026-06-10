@@ -92,7 +92,7 @@ opinionEditorial: |
 categoria: "deportivo"
 keywords: ["las ventas madrid", "madrid bullring", "las ventas tour", "viator las ventas", "taurine museum madrid"]
 
-imagen: "/images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-27215383406-hero.webp"
 imagenAlt: "Façade of Las Ventas Bullring in Madrid"
 
 galeria:

@@ -138,7 +138,7 @@ keywords:
 - museo fc barcelona
 - camp nou visita renovacion
 - barca immersive exposicion
-imagen: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
+imagen: "/images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp"
 imagenAlt: Vistas panorámicas de Barcelona con arquitectura modernista y montaña de Montjuïc al fondo
 galeria:
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp

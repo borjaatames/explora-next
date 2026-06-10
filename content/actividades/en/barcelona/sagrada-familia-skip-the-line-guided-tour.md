@@ -94,7 +94,7 @@ keywords:
 - sagrada familia tour
 - sagrada familia guided tickets
 - sagrada familia official guide
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-27348438-hero.webp"
 imagenAlt: Sagrada Familia basilica exterior facade with intricate architectural details and towering spires
 ratingProveedor: 4.8
 numeroOpiniones: 13565

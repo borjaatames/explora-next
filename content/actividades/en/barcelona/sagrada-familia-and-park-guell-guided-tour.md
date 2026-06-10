@@ -100,7 +100,7 @@ keywords:
 - gaudi combo barcelona
 - sagrada familia park guell skip the line
 - gaudi guided tour barcelona
-imagen: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
 imagenAlt: Park Güell's colorful mosaic terraces and Gaudí's whimsical architecture in Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 6701

@@ -102,7 +102,7 @@ keywords:
 - cuevas nerja sin colas
 - discovering spain nerja
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
+imagen: "/images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp"
 imagenAlt: Pueblo blanco de Frigiliana con casas encaladas, callejones estrechos, macetas de flores y arquitectura andaluza
   tradicional
 galeria:

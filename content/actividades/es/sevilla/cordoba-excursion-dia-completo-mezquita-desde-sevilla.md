@@ -153,7 +153,7 @@ keywords:
 - cordoba dia desde sevilla
 - excursion guiada cordoba
 - judería cordoba tour sevilla
-imagen: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
+imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp"
 imagenAlt: Nave interior de la Mezquita-Catedral de Sevilla con columnas y arcos de herradura rojo-blanco, luz natural iluminando
   la arquitectura islámica y cristiana medieval.
 galeria:

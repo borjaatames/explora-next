@@ -106,7 +106,7 @@ keywords:
 - toledo con guia y chofer
 - tour toledo mercedes
 - visitar toledo privado
-imagen: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-spain-tagus-river-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-castilla-la-mancha-landscape-hero.webp"
 imagenAlt: Vista panoramica toledo spain tagus river en Vista panoramica toledo
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp

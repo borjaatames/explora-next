@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["toledo segovia avila day trip", "three cities one day madrid", "unesco day trip from madrid", "spain day trips madrid", "best day tours from madrid"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-cathedral-alcazar-old-town-history-hero.webp"
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero.webp"
 imagenAlt: "The Alcázar and old town of Segovia"
 
 galeria:

@@ -95,7 +95,7 @@ keywords: ["museo prado", "velazquez", "goya", "arte madrid", "tour prado"]
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp"
+imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp"
 imagenAlt: "madrid, spain, capital city, museum, prado"
 
 galeria:

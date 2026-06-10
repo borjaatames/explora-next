@@ -100,7 +100,7 @@ keywords:
 - sagrada familia skip the line visit
 - sagrada familia group tour
 - sagrada familia barcelona guide
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp"
 imagenAlt: Barcelona street with historic architecture and urban landscape
 ratingProveedor: 4.4
 numeroOpiniones: 5559

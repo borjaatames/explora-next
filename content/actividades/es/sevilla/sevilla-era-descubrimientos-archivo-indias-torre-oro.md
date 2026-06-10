@@ -105,7 +105,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["archivo indias tour", "torre del oro entrada", "sevilla siglo xvi tour", "era descubrimientos sevilla", "casa contratacion sevilla", "imperio español sevilla tour"]
 
-imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
+imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
 imagenAlt: "Archivo General de Indias de Sevilla — fachada renacentista del s. XVI, sede del archivo del Imperio español en América"
 
 galeria:

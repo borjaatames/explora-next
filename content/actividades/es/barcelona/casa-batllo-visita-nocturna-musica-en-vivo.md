@@ -99,7 +99,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa batllo visita nocturna", "casa batllo concierto terraza", "casa batllo musica en vivo", "casa batllo tour de noche", "casa batllo jazz flamenco"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp"
 imagenAlt: "Terraza de Casa Batlló de noche con música en vivo y vistas de Barcelona"
 
 galeria:

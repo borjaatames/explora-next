@@ -106,7 +106,7 @@ keywords:
 - reina sofia premium guided tour
 - guernica small group
 - reina sofia with expert guide
-imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
+imagen: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-large-white-building-clock-tower-hero.webp"
 imagenAlt: Museum entrance with modern architecture and glass facade in Madrid
 galeria:
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp

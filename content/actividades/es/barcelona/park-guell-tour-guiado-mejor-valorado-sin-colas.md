@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour guiado", "park guell sin colas con guia", "park guell golden tour guide", "park guell mejor tour", "park guell tour con guia barcelona"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp"
 imagenAlt: "Grupo en tour guiado del Park Güell en la terraza del banco serpenteante"
 
 galeria:

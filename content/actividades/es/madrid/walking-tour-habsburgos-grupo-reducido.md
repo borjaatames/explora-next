@@ -93,7 +93,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["madrid austrias tour", "walking tour madrid grupo reducido", "tour centro madrid pequeño grupo", "habsburgos madrid guia local", "free tour madrid grupo pequeno"]
 
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-hero.webp"
 imagenAlt: "Plaza Mayor de Madrid, una de las paradas del tour por el Madrid de los Austrias"
 
 galeria:

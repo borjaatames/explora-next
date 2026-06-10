@@ -100,7 +100,7 @@ keywords:
 - sagrada familia entradas guiadas
 - sagrada familia barcelona tour
 - sagrada familia radioguia
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp"
 imagenAlt: Columnas arborescentes y vitrales en la nave central de la Sagrada Familia
 ratingProveedor: 4.4
 numeroOpiniones: 9278

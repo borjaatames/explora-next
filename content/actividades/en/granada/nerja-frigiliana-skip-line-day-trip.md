@@ -101,7 +101,7 @@ keywords:
 - caves of nerja skip the line
 - discovering spain nerja
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
+imagen: "/images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp"
 imagenAlt: Whitewashed village street in Frigiliana with narrow Moorish lanes, flower pots on facades and traditional Andalusian
   architecture
 galeria:

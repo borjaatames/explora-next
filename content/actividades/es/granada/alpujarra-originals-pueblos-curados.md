@@ -95,7 +95,7 @@ keywords:
 - discovering spain alpujarra
 - pueblos blancos curados
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-pueblos-blancos-alpujarr-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp"
 imagenAlt: Pueblos blancos encalados en las laderas montañosas de La Alpujarra, Granada, con arquitectura andaluza tradicional
   de casas cúbicas agrupadas en la sierra
 galeria:

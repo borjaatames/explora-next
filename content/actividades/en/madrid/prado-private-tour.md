@@ -79,7 +79,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["private prado tour", "private guide madrid prado", "prado museum private visit", "prado tour english private"]
 
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
+imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
 imagenAlt: "The Prado Museum building, Madrid"
 
 galeria:

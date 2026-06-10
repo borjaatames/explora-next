@@ -109,7 +109,7 @@ keywords:
 - royal palace 1.5 hour tour
 - royal palace fast track viator
 - royal palace english only tour
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero-hero.webp
+imagen: "/images/actividades/madrid/aranjuez/wikimedia-palacio-real-aranjuez-madrid-hero.webp"
 imagenAlt: 'Royal Palace of Madrid: majestic exterior facade with ornate architecture and gardens'
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp

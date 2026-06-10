@@ -104,7 +104,7 @@ keywords:
 - sagrada familia tower climb
 - sagrada familia skip the line tower
 - sagrada familia tower tickets
-imagen: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp"
 imagenAlt: Barcelona cityscape with historic architecture and urban landscape
 ratingProveedor: 4.4
 numeroOpiniones: 2480

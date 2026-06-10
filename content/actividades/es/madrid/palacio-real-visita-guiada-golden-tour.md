@@ -111,7 +111,7 @@ keywords:
 - skip the line palacio real
 - tour palacio real madrid
 - entrada sin colas palacio real
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-spain-architecture-city-buildings-hero-hero.webp
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
 imagenAlt: Fachada del Palacio Real de Madrid con arquitectura clásica y torres en la ciudad
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp

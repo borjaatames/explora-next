@@ -91,7 +91,7 @@ keywords: ["madrid food tour", "secret food tours madrid", "tapas tour madrid", 
 
 # ─── 12. IMAGES ────────────────────────────────────────────────────────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
 imagenAlt: "Plaza Mayor, Madrid (Casa de la Panadería)"
 
 galeria:

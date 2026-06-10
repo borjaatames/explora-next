@@ -88,7 +88,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tour de tapas madrid", "tapas y vino madrid", "tour tapas azotea madrid", "ruta de tapas centro madrid", "tour gastronomico madrid atardecer"]
 
-imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp"
 imagenAlt: "Vista de los tejados del centro de Madrid desde una azotea"
 
 galeria:

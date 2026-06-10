@@ -49,7 +49,7 @@ keywords:
   - "mezquita cordoba tour"
 atraccionesRelacionadas:
   - mezquita-catedral
-imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
+imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-pixabay-5078141.jpg"
 imagenAlt: "Two-tone arches and forest of columns of the Mosque-Cathedral of Córdoba"
 
 galeria:

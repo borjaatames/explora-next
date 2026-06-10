@@ -91,7 +91,7 @@ opinionEditorial: |
 categoria: "espectaculos"
 keywords: ["madrid inquisition tour viator", "madrid ghost stories tour", "madrid legends tour viator", "ghost tour madrid", "madrid night tour viator"]
 
-imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-hero.webp"
 imagenAlt: "Historic streets of Madrid — setting for the night tour"
 
 galeria:

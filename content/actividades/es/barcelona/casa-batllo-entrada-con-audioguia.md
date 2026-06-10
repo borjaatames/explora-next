@@ -135,7 +135,7 @@ keywords:
 - casa batllo ticket
 - casa batllo gaudi
 - casa batllo ticket oficial
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-overview-barcelona-spain-cut-hero-hero.webp
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
 imagenAlt: Casa Batlló, edificio modernista de Gaudí con fachada ondulante en Barcelona
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp

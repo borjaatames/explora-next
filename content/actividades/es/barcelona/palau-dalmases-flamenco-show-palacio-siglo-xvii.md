@@ -170,7 +170,7 @@ keywords:
 - flamenco born barcelona
 - espectáculo flamenco corto barcelona
 - show flamenco carrer montcada
-imagen: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-palacio-barr-hero.webp
+imagen: "/images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp"
 imagenAlt: Fachada barroca del Palau Dalmases en Carrer Montcada, Barcelona, con portada noble y detalles arquitectónicos
   del siglo XVII.
 galeria:

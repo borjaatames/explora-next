@@ -101,7 +101,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona cathedral vr experience", "cathedral barcelona guided tour rooftop", "vr tour barcelona cathedral", "catedral barcelona realidad virtual", "cathedral guided tour barri gotic"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
 imagenAlt: "Barcelona Cathedral with VR experience on the rooftop"
 
 galeria:

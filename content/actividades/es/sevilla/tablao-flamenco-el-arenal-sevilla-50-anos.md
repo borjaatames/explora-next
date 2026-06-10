@@ -173,7 +173,7 @@ keywords:
 - tablao historico sevilla
 - flamenco cena sevilla
 - tablao 50 años sevilla
-imagen: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-bailaora-tablao-fl-hero.webp
+imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-bailaora-tablao-fl-hero.webp"
 imagenAlt: Bailaora en traje flamenco realizando espectáculo apasionado en tablao sevillano
 galeria:
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-interior-tablao-at-hero.webp

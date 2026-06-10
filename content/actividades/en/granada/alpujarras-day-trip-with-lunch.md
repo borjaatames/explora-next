@@ -88,7 +88,7 @@ keywords:
 - viator alpujarra granada
 - alpujarra villages viator
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/alpujarras-viator-con-almuerzo/alpujarras-viator-con-almuerzo-pueblos-blancos-alpujarra-pue-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp"
 imagenAlt: Traditional whitewashed villages perched on Alpujarra mountainsides in Granada, Spain
 galeria:
 - src: /images/actividades/granada/alpujarras-viator-con-almuerzo/alpujarras-viator-con-almuerzo-calles-estrechas-pueblos-01-hero.webp

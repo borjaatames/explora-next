@@ -105,7 +105,7 @@ keywords:
 - excursion avila y segovia
 - tour avila segovia barato
 - escapada avila segovia madrid
-imagen: /images/actividades/madrid/avila/avila-murallas-01-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp"
 imagenAlt: Lienzo de muralla de Ávila con almenas y torreones recortado contra el cielo
 galeria:
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp

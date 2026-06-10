@@ -110,7 +110,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["most booked guadalquivir cruise seville", "cheap seville boat", "eco cruise seville", "river cruise seville cheap", "guadalquivir cruise wheelchair accessible"]
 
-imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
 imagenAlt: "Panoramic cruise on the Guadalquivir next to the Torre del Oro of Seville"
 
 galeria:

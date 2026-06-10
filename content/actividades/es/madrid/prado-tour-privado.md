@@ -86,7 +86,7 @@ keywords: ["tour privado prado", "guia privado madrid prado", "visita privada mu
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
+imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
 imagenAlt: "a large building with many windows"
 
 galeria:

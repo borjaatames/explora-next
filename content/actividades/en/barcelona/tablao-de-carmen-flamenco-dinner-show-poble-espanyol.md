@@ -162,7 +162,7 @@ keywords:
 - carmen amaya tablao
 - flamenco dinner montjuic barcelona
 - flamenco show with dinner barcelona
-imagen: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
+imagen: "/images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-carmen-amaya-h-hero.webp"
 imagenAlt: Flamenco dancer in traditional dress performing with intensity on Barcelona tablao stage
 galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-cena-durante-e-hero.webp

@@ -90,7 +90,7 @@ keywords: ["flamenco granada", "teatro flamenco granada", "flamenco campo del pr
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
 imagenAlt: "Flamenco show with dancers and guitar at Teatro Flamenco Granada"
 
 galeria:

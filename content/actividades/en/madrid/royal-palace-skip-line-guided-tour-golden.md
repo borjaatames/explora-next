@@ -109,7 +109,7 @@ keywords:
 - skip the line royal palace madrid
 - royal palace madrid tour
 - royal palace madrid skip line ticket
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-spain-architecture-city-buildings-hero-hero.webp
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
 imagenAlt: Royal Palace of Madrid with neoclassical architecture and historic buildings in cityscape
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp

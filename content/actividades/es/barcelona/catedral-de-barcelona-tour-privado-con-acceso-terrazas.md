@@ -98,7 +98,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour catedral barcelona terraza", "tour privado catedral barcelona", "terrazas catedral barcelona", "visita guiada catedral barcelona", "tour privado barri gotic"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-saint-eulalia-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"
 imagenAlt: "Terrazas de la Catedral de Barcelona con vistas sobre el Barri Gotic"
 
 galeria:

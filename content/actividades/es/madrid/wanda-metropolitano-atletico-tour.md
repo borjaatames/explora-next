@@ -117,7 +117,7 @@ keywords:
 - riyadh air metropolitano
 - tour estadio atletico
 - civitas metropolitano visita
-imagen: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp
+imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp"
 imagenAlt: Estadio Wanda Metropolitano de Madrid, vista frontal de la fachada principal
 galeria:
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp

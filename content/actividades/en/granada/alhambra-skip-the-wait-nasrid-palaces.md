@@ -108,7 +108,7 @@ keywords:
 - alhambra small group or private
 - alhambra tour granada
 - alhambra nasrid palaces
-imagen: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
 imagenAlt: Granada cityscape with historic architecture and Mediterranean landscape
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp

@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila viator audio", "la pedrera viator ticket", "casa mila fundacio catalunya la pedrera", "la pedrera audioguia viator", "casa mila sin colas viator"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-close-up-view-unique-facade-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp"
 imagenAlt: "Fachada y terraza de Casa Milà en Barcelona"
 
 galeria:

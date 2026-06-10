@@ -37,7 +37,7 @@ keywords:
 atraccionesRelacionadas:
   - costa-brava
   - casco-medieval
-imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
+imagen: "/images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg"
 imagenAlt: "Casas de colores de Girona sobre el río Oñar"
 
 galeria:

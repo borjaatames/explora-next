@@ -89,7 +89,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tour de tapas viejo madrid", "tour gastronomico madrid centro", "ruta de tapas madrid", "visita enogastronomica madrid", "tapas casco historico madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp"
 imagenAlt: "Tapa de jamón ibérico en un bar del casco histórico de Madrid"
 
 galeria:

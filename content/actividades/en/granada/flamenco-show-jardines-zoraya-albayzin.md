@@ -91,7 +91,7 @@ keywords: ["flamenco granada", "albayzin flamenco", "jardines zoraya", "granada 
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp"
 imagenAlt: "Flamenco tablao with dancers and guitarist at Jardines de Zoraya in the Albayzín"
 
 galeria:

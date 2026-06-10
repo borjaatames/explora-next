@@ -88,7 +88,7 @@ keywords: ["catedral granada", "capilla real granada", "reyes catolicos granada"
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp"
 imagenAlt: "Fachada de la Capilla Real y la Catedral de Granada"
 
 galeria:

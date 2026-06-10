@@ -95,7 +95,7 @@ keywords:
 - private sagrada familia visit
 - sagrada familia official guide
 - sagrada familia personalized tour
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp"
 imagenAlt: Sagrada Familia of Barcelona seen from the square
 ratingProveedor: 4.6
 publicada: true

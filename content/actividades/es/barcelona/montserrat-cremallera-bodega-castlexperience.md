@@ -110,7 +110,7 @@ keywords:
 - tour montserrat castlexperience
 - montserrat virgen negra bodega
 - excursion montserrat completa
-imagen: /images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero-hero.webp
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp"
 imagenAlt: Vistas de Montserrat en Cataluña, España con sus formaciones rocosas icónicas
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp

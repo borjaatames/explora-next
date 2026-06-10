@@ -105,7 +105,7 @@ opinionEditorial: |
 categoria: "entradas"
 keywords: ["palacio las dueñas entrada", "casa de alba sevilla", "duquesa de alba palacio", "antonio machado sevilla", "las dueñas audioguia", "palacio dueñas tickets"]
 
-imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
 imagenAlt: "Barrio histórico de Sevilla — entorno del Palacio de Las Dueñas, residencia sevillana de la Casa de Alba"
 
 galeria:

@@ -102,7 +102,7 @@ keywords:
 - tour avila salamanca
 - visitar salamanca desde madrid
 - excursion salamanca madrid
-imagen: /images/actividades/madrid/avila/avila-fortress-citadel-fortification-hero.webp
+imagen: "/images/actividades/madrid/avila/avila-24-8-2002-hero.webp"
 imagenAlt: Murallas y torreones de Ávila, la fortificación medieval mejor conservada de España
 galeria:
 - src: /images/actividades/madrid/avila/avila-spain-unesco-world-heritage-site-2-hero.webp

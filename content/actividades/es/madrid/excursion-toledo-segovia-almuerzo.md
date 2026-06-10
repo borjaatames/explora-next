@@ -125,7 +125,7 @@ keywords:
 - toledo segovia damasquinado
 - alcazar segovia entrada
 - tour combinado madrid economico
-imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-2-hero.webp"
 imagenAlt: alcazar de segovia, castle, spain, segovia, fortress
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp

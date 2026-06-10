@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat bages farmhouse", "montserrat sommelier lunch", "barcelona local experiences", "montserrat premium oenology", "montserrat authentic winery"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
 imagenAlt: "12th-century Catalan farmhouse with vineyards in the Bages region"
 
 galeria:

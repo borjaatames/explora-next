@@ -103,7 +103,7 @@ keywords:
 - monasterio escorial entradas
 - excursion escorial valle caidos
 - visitar el escorial desde madrid
-imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
+imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp"
 imagenAlt: Fachada principal del Monasterio de El Escorial en Madrid, arquitectura renacentista con torres y claustros
 galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp

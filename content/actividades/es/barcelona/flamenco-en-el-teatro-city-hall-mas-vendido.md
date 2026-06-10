@@ -165,7 +165,7 @@ keywords:
 - espectáculo flamenco barato barcelona
 - show flamenco plaza catalunya
 - flamenco teatro barcelona
-imagen: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp
+imagen: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp"
 imagenAlt: Bailaora de flamenco en traje rojo y negro con volantes, brazos en movimiento expresivo durante actuación en Barcelona
 galeria:
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-teatro-interior--hero.webp

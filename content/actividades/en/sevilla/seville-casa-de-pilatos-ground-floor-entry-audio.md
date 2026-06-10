@@ -105,7 +105,7 @@ opinionEditorial: |
 categoria: "entradas"
 keywords: ["casa de pilatos ticket", "casa pilatos seville", "medinaceli palace seville", "casa pilatos free monday", "casa pilatos audio guide", "casa pilatos tickets"]
 
-imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
 imagenAlt: "Barrio de Santa Cruz in Seville — location of Casa de Pilatos at the heart of the Jewish quarter"
 
 galeria:

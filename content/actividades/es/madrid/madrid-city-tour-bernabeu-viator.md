@@ -117,7 +117,7 @@ keywords:
 - estadio bernabeu city tour
 - real madrid madrid tour combinado
 - viator madrid bernabeu
-imagen: /images/actividades/madrid/santiago-bernabeu/images-1-hero.webp
+imagen: "/images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp"
 imagenAlt: Vistas panorámicas de Madrid con la Puerta del Sol y edificios históricos
 galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/estadio_santiago_bernabeu_bicimad_2025-hero.webp

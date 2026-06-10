@@ -101,7 +101,7 @@ keywords:
 - cordoba tour granada
 - discovering spain cordoba
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
 imagenAlt: Red and white striped columns with horseshoe arches inside the Mosque-Cathedral of Granada
 galeria:
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp

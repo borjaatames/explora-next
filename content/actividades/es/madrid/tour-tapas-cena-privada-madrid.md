@@ -84,7 +84,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tour de tapas con cena madrid", "tour gastronomico madrid grupo pequeno", "tour tapas vino sin fondo", "cena privada tapas madrid", "tour gastronomico premium madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
 imagenAlt: "Tapa de jamón ibérico de bellota en un restaurante del centro de Madrid"
 
 galeria:

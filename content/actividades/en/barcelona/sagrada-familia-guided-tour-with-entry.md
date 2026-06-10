@@ -101,7 +101,7 @@ keywords:
 - sagrada familia guided tickets
 - sagrada familia barcelona tour
 - sagrada familia radio guide
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp"
 imagenAlt: Tree-like columns and stained glass in the central nave of the Sagrada Familia
 ratingProveedor: 4.4
 numeroOpiniones: 9278

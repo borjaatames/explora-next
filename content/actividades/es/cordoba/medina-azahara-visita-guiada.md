@@ -49,7 +49,7 @@ keywords:
   - "que ver cerca de cordoba"
 atraccionesRelacionadas:
   - medina-azahara
-imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
+imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-pixabay-7771933.jpg"
 imagenAlt: "Arcos restaurados del Salón Rico de Medina Azahara cerca de Córdoba"
 
 galeria:

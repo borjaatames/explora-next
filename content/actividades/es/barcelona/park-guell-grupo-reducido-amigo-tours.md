@@ -92,7 +92,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell grupo reducido", "park guell amigo tours", "park guell tour bilingue", "park guell tour pequeno", "park guell skip line grupo"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp"
 imagenAlt: "Park Güell de Barcelona, mosaicos en la terraza principal"
 
 galeria:

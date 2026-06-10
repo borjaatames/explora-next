@@ -117,7 +117,7 @@ opinionEditorial: |
 categoria: "entradas"
 keywords: ["catedral sevilla audioguia español", "giralda audio movil", "catedral sevilla app movil", "entrada catedral sevilla cancelacion 24h", "audioguia catedral sevilla 5 idiomas"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
+imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
 imagenAlt: "Fachada gótica de la Catedral de Sevilla y la Giralda"
 
 galeria:

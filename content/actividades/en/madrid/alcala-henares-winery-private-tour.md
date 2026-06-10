@@ -117,7 +117,7 @@ keywords:
 - alcala winery wine tasting
 - cervantes alcala excursion
 - unesco heritage madrid tour
-imagen: /images/actividades/alcala-de-henares/alcala-de-henares/pixabay-954165-hero.webp
+imagen: "/images/actividades/madrid/Bigbus/descarga-hero.webp"
 imagenAlt: Historic arcaded square in Alcalá de Henares with traditional Spanish architecture and covered walkways
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp

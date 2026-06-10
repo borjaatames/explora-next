@@ -105,7 +105,7 @@ keywords:
 - sagrada familia tour privado
 - barcelona gaudi grupo reducido
 - tour modernismo barcelona
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
 imagenAlt: Casa Batlló en Passeig de Gràcia, Barcelona, 1905, arquitectura modernista de Gaudí
 ratingProveedor: 4.7
 numeroOpiniones: 1242

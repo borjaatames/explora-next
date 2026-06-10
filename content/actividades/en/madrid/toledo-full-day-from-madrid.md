@@ -87,7 +87,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["toledo full day tour", "toledo from madrid", "madrid to toledo day trip", "toledo cathedral tour", "toledo guided day trip"]
 
-imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-may-2017-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero.webp"
 imagenAlt: "The Alcázar of Toledo, Spain"
 
 galeria:

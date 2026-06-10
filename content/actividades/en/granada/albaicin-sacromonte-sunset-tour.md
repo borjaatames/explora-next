@@ -92,7 +92,7 @@ keywords: ["albaicin sacromonte tour granada", "granada sunset walking tour", "a
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
 imagenAlt: "Mirador de San Nicolás in the Albaicín with views of the Alhambra at sunset"
 
 galeria:

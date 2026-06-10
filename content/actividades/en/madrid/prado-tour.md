@@ -81,7 +81,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["prado museum tour", "skip the line prado", "velazquez goya tour madrid", "prado guided tour english"]
 
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp"
+imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp"
 imagenAlt: "The Prado Museum, Madrid"
 
 galeria:

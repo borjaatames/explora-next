@@ -94,7 +94,7 @@ keywords: ["excursion toledo desde madrid", "toledo dia completo", "tour toledo 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-may-2017-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero.webp"
 imagenAlt: "Alcazar toledo spain may 2017 en Alcazar toledo"
 
 galeria:

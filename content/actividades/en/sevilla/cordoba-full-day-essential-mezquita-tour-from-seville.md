@@ -153,7 +153,7 @@ keywords:
 - cordoba from seville full day
 - cordoba guided tour
 - jewish quarter cordoba tour seville
-imagen: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
+imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp"
 imagenAlt: Vast interior nave with red-and-white striped horseshoe arches and columns of Córdoba's Mosque-Cathedral, showcasing
   Islamic-Christian architectural fusion.
 galeria:

@@ -103,7 +103,7 @@ keywords:
 - flamenco show madrid viator
 - viator flamenco madrid
 - madrid tablao viator
-imagen: /images/actividades/madrid/tablao-las-carboneras/descarga-2-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-05-2017-10-22-hero.webp"
 imagenAlt: Madrid cityscape with historic buildings and urban architecture
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp

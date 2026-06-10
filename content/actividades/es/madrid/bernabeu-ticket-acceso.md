@@ -115,7 +115,7 @@ keywords:
 - tour bernabeu madrid
 - estadio real madrid visita
 - bernabeu ticket
-imagen: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
+imagen: "/images/actividades/madrid/santiago-bernabeu/16562715299818-hero.webp"
 imagenAlt: Fachada exterior del estadio Santiago Bernabéu de Madrid
 galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp

@@ -101,7 +101,7 @@ keywords:
 - combo gaudi barcelona
 - entradas sin colas sagrada familia park guell
 - visita guiada gaudi barcelona
-imagen: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
 imagenAlt: Park Güell con arquitectura modernista de Gaudí, terrazas y mosaicos coloridos en Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 6701

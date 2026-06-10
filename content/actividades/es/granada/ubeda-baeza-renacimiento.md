@@ -100,7 +100,7 @@ keywords:
 - excursion ubeda granada
 - discovering spain ubeda
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-ubeda-plaza-vazquez-molina-ubeda-pl-hero.webp
+imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp"
 imagenAlt: Plaza Vázquez de Molina en Úbeda con Capilla del Salvador y palacios renacentistas, arquitectura del Siglo de Oro
 galeria:
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp

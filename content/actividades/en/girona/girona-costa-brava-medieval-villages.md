@@ -37,7 +37,7 @@ keywords:
 atraccionesRelacionadas:
   - costa-brava
   - casco-medieval
-imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
+imagen: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg"
 imagenAlt: "Stone medieval village of the Empordà near Girona"
 
 galeria:

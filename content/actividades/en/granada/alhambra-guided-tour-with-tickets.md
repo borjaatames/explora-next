@@ -109,7 +109,7 @@ keywords:
 - alhambra small group
 - alhambra tour with kids
 - alhambra nasrid palaces granada
-imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero-hero.webp"
 imagenAlt: Aerial view of Alhambra castle in Granada with brown stone architecture surrounded by green hills
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero-hero.webp

@@ -111,7 +111,7 @@ keywords:
 - segovia avila toledo desde madrid
 - excursion patrimonio humanidad madrid
 - que ver cerca de madrid en un dia
-imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-cathedral-alcazar-old-town-history-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero.webp"
 imagenAlt: cathedral, cathedral of segovia, alcazar of segovia, old town, history
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero-hero.webp

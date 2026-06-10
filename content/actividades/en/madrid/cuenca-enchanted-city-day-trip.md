@@ -96,7 +96,7 @@ keywords:
 - cuenca tour one day
 - visit cuenca from madrid
 - ciudad encantada tour
-imagen: /images/actividades/cuenca/casas-colgadas/pexels-32084879-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp"
 imagenAlt: Historic colonial architecture and cobblestone streets of Cuenca, Ecuador
 galeria:
 - src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp

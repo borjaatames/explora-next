@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["paella workshop madrid", "cooking class madrid paella", "paella sangria class madrid", "paella sangria workshop madrid", "learn cook paella madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
 imagenAlt: "Traditional Spanish cuisine, visual reference for the paella workshop in Madrid"
 
 galeria:

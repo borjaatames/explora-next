@@ -126,7 +126,7 @@ keywords:
 - toledo and don quixote la mancha
 - premium toledo small group
 - windmills cervantes spain
-imagen: /images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-96epxricdr4-unsplash-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-cathedral-monuments-nocturnal-hero.webp"
 imagenAlt: White windmills on hilltop in Consuegra, Spain with blue sky
 galeria:
 - src: /images/actividades/madrid/puente-alcantara-toledo/puente-alcantara-toledo-bridge-spain-view-from-north-east-hero.webp

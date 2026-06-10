@@ -100,7 +100,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila experiencia nocturna", "la pedrera de noche", "casa mila visita nocturna", "la pedrera proyecciones terraza", "casa mila cava"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-detailed-view-curving-stone-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
 imagenAlt: "Terraza de Casa Milà de noche con proyecciones audiovisuales en las chimeneas-guerrero"
 
 galeria:

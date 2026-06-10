@@ -172,7 +172,7 @@ keywords:
 - tanger dia ferry
 - africa desde sevilla 1 dia
 - tanger guiado español sevilla
-imagen: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-ferry-estrecho--hero.webp
+imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-pa-hero.webp"
 imagenAlt: Ferry blanco navegando por el Estrecho de Gibraltar bajo cielo azul, con costas de Europa y África visibles al
   fondo
 galeria:

@@ -116,7 +116,7 @@ keywords:
 - tour nocturno bus madrid
 - madrid iluminado bus
 - panoramic night tour madrid
-imagen: /images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero.webp"
 imagenAlt: Autobús turístico de dos pisos de EMT en Madrid con pasajeros en la azotea
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp

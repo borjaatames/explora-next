@@ -166,7 +166,7 @@ keywords:
 - puro flamenco show sevilla
 - patio ecija flamenco
 - show flamenco patio andaluz sevilla
-imagen: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-bailaora-flamenco-esc-hero.webp
+imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
 imagenAlt: Bailaora en movimiento con traje flamenco tradicional, brazos levantados y expresión intensa durante actuación
   en Sevilla
 galeria:

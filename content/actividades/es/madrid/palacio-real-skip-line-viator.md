@@ -116,7 +116,7 @@ keywords:
 - golden tour guide palacio real
 - tour palacio real viator
 - palacio real entrada sin colas viator
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
 imagenAlt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp

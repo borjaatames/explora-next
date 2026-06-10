@@ -87,7 +87,7 @@ keywords: ["flamenco granada", "tablao casa ana", "central flamenco granada", "g
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp"
 imagenAlt: "Female dancer and guitarist on stage at Tablao Casa Ana in Granada"
 
 galeria:

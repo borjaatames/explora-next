@@ -92,7 +92,7 @@ atraccionesRelacionadas:
   - "albaicin-sacromonte"
   - "sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero.webp"
 imagenAlt: "Fachada azul y blanca de una cueva-tablao flamenco del Sacromonte de Granada"
 
 galeria:

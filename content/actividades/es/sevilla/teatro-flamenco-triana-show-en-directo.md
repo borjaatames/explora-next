@@ -158,7 +158,7 @@ keywords:
 - flamenco barrio gitano sevilla
 - calle betis flamenco
 - show flamenco al otro lado del rio
-imagen: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-bailaora-flamenco-esc-hero.webp
+imagen: "/images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-bailaora-flamenco-esc-hero.webp"
 imagenAlt: Bailaora en movimiento ejecutando flamenco con traje tradicional rojo y volantes, captura de intensidad y pasión
   en escena
 galeria:

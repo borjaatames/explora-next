@@ -106,7 +106,7 @@ keywords:
 - tour alhambra generalife
 - palacios nazaries grupo reducido
 - entradas alhambra granada
-imagen: /images/actividades/granada/alhambra/alhambra-granada-toit-salle-abencerrages-espagne-hero-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero-hero.webp"
 imagenAlt: Techo ornamentado de la Sala de los Abencerrajes en la Alhambra de Granada, España
 galeria:
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp

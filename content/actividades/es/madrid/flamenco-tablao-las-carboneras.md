@@ -113,7 +113,7 @@ keywords:
 - espectaculo flamenco madrid
 - tablao madrid centro
 - flamenco autentico madrid
-imagen: /images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp
+imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp"
 imagenAlt: Plaza Mayor de Madrid con edificios históricos y turistas
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-4-hero.webp

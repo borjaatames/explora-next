@@ -104,7 +104,7 @@ keywords:
 - sagrada familia sin colas
 - visitar sagrada familia
 - ticket sagrada familia
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-27348438-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
 imagenAlt: Vista panorámica de Barcelona con edificios históricos y el mar Mediterráneo al fondo
 ratingProveedor: 4.6
 numeroOpiniones: 110558

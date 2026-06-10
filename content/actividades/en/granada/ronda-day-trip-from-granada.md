@@ -106,7 +106,7 @@ keywords:
 - ronda full day
 - ronda andalusia day trip
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-puente-nuevo-tajo-puente-nuevo-tajo-pexe-hero.webp
+imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp"
 imagenAlt: Puente Nuevo spanning dramatic Tajo gorge with limestone cliffs in Ronda
 galeria:
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp

@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "deportivo"
 keywords: ["bernabeu visita guiada", "bernabeu tour guiado", "tour real madrid guia", "estadio bernabeu guiado", "santiago bernabeu visita guiada espanol"]
 
-imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
+imagen: "/images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp"
 imagenAlt: "Estadio Santiago Bernabéu desde el exterior"
 
 galeria:

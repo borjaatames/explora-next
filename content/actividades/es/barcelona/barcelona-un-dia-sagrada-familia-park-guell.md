@@ -107,7 +107,7 @@ keywords:
 - sagrada familia y park guell
 - tour barcelona con recogida hotel
 - que ver en barcelona en un dia
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-view-barcelona-blooming-trees-hero.webp
+imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp"
 imagenAlt: Sagrada Familia de Barcelona con árboles en flor en primer plano
 ratingProveedor: 4.9
 numeroOpiniones: 14863

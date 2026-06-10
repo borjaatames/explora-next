@@ -123,7 +123,7 @@ keywords:
 - excursion dia desde madrid
 - aranjuez palacio real excursion
 - toledo desde madrid tour
-imagen: /images/actividades/madrid/aranjuez/wikimedia-palacio-real-aranjuez-madrid-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp"
 imagenAlt: Palacio Real de Aranjuez en Madrid, vista frontal con fachada arquitectónica clásica
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp

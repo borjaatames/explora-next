@@ -99,7 +99,7 @@ keywords:
 - visitar toledo
 - excursion toledo julia travel
 - viaje toledo madrid
-imagen: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp"
 imagenAlt: Alcázar de Toledo dominando el skyline de la ciudad histórica de España
 galeria:
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp

@@ -91,7 +91,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell accesible silla ruedas", "park guell guia oficial", "park guell tour 75 minutos", "park guell barcelona accesible", "park guell tour italiano frances"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp"
 imagenAlt: "Park Güell de Barcelona, entrada con los pabellones modernistas de Gaudí"
 
 galeria:

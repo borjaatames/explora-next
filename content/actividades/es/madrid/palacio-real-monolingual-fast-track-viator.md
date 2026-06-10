@@ -111,7 +111,7 @@ keywords:
 - palacio real tour 1.5 horas
 - palacio real fast track viator
 - palacio real espanol solo
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero-hero.webp
+imagen: "/images/actividades/madrid/aranjuez/wikimedia-palacio-real-aranjuez-madrid-hero.webp"
 imagenAlt: Fachada del Palacio Real de Madrid con sus torres y arquitectura neoclásica
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp

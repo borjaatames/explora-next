@@ -106,7 +106,7 @@ keywords:
 - sagrada familia private tour
 - barcelona gaudi small group
 - barcelona modernism tour
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
 imagenAlt: Casa Batlló's ornate facade with colorful mosaic tiles and undulating balconies on Passeig de Gràcia, Barcelona
 ratingProveedor: 4.7
 numeroOpiniones: 1242

@@ -104,7 +104,7 @@ keywords:
 - private nasrid palaces tour
 - alhambra private visit granada
 - alhambra arabic inscriptions
-imagen: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
 imagenAlt: Granada cityscape with historic architecture and mountain views
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp

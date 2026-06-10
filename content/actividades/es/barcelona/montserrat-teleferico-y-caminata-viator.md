@@ -97,7 +97,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat viator", "mont escape tours", "montserrat teleferico viator", "montserrat caminata", "tour montserrat 8 personas"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp"
 imagenAlt: "Caminata por los senderos del Parque Nacional de Montserrat"
 
 galeria:

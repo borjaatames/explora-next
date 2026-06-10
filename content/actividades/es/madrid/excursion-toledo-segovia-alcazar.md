@@ -113,7 +113,7 @@ keywords:
 - alcazar segovia desde madrid
 - dos ciudades unesco un dia
 - excursion combinada madrid
-imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-08-hero.webp"
 imagenAlt: Segovia - Alcázar de Segovia 22
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero-hero.webp

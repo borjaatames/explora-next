@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour guiado", "park guell entrada fast track", "park guell gaudi tour", "park guell visita guiada barcelona", "park guell skip the line"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp"
 imagenAlt: "Vista panorámica del Park Güell con sus mosaicos característicos"
 
 galeria:

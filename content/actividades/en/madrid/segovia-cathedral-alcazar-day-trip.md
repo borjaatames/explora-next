@@ -106,7 +106,7 @@ keywords:
 - segovia half day tour
 - visit segovia from madrid
 - segovia aqueduct tour
-imagen: /images/actividades/madrid/segovia/segovia-alcazar-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp"
 imagenAlt: The Alcázar of Segovia on its rocky promontory with its towers and slate spires
 galeria:
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp

@@ -86,7 +86,7 @@ keywords: ["food tour granada", "granada tapas tour", "small group food granada"
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas-reflejo-hero.webp"
 imagenAlt: "Traditional tapas and red wine at a Granada tapas bar"
 
 galeria:

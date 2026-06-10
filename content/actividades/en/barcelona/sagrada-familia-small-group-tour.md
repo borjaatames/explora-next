@@ -101,7 +101,7 @@ keywords:
 - sagrada familia accessible
 - sagrada familia wheelchair
 - sagrada familia skip the line tour
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp"
 imagenAlt: Altar and interior vault of the Sagrada Familia with stained glass in the background
 ratingProveedor: 4.7
 numeroOpiniones: 3690

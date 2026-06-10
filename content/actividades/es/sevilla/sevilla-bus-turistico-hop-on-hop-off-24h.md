@@ -119,7 +119,7 @@ opinionEditorial: |
 categoria: "transporte"
 keywords: ["bus turistico sevilla", "hop on hop off sevilla", "city sightseeing sevilla", "bus 24h sevilla audioguia", "bus turistico sevilla 48h"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
 imagenAlt: "Bus turístico City Sightseeing Sevilla pasando por la Catedral"
 
 galeria:

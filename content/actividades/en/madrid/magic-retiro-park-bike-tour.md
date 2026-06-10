@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "activo"
 keywords: ["retiro bike tour", "retiro park bike tour madrid", "ebike retiro park", "magic retiro madrid", "park retiro cycling tour"]
 
-imagen: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
+imagen: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
 imagenAlt: "Crystal Palace in Madrid's Retiro Park"
 
 galeria:

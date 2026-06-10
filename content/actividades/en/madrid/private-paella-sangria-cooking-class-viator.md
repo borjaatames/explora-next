@@ -93,7 +93,7 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["private paella class madrid", "private cooking class madrid", "viator private paella", "exclusive paella workshop madrid", "private spanish cooking class"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
 imagenAlt: "Traditional Spanish cuisine"
 
 galeria:

@@ -112,7 +112,7 @@ keywords:
 - royal palace skip line guided
 - madrid royal palace skip line
 - royal palace madzguia
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero-hero.webp
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
 imagenAlt: Royal Palace of Madrid, grand neoclassical façade with ornate columns and symmetrical architecture
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp

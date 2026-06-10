@@ -105,7 +105,7 @@ opinionEditorial: |
 categoria: "entradas"
 keywords: ["las dueñas palace ticket", "house of alba seville", "duchess of alba palace", "antonio machado seville", "las duenas audio guide", "duenas palace tickets"]
 
-imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
 imagenAlt: "Historic centre of Seville — surroundings of Palacio de Las Dueñas, House of Alba's Seville residence"
 
 galeria:

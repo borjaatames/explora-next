@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat hike", "montserrat hiking tour", "montserrat small group", "montserrat cable car", "montserrat national park"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
 imagenAlt: "Cable car ascending to the top of the Montserrat massif"
 
 galeria:

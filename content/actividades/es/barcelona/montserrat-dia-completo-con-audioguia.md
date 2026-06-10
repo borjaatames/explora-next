@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat dia completo", "montserrat audioguia", "montserrat cremallera dia completo", "tour montserrat escolania", "catalunya bus turistic"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp"
 imagenAlt: "Tren cremallera de Montserrat con vistas a la montaña catalana"
 
 galeria:

@@ -131,7 +131,7 @@ keywords:
 - casa batllo entrada
 - casa batllo gaudi tour
 - casa batllo official ticket
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-overview-barcelona-spain-cut-hero-hero.webp
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
 imagenAlt: Casa Batlló modernist facade with colorful mosaic tiles and undulating walls in Barcelona
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp

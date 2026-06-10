@@ -92,7 +92,7 @@ keywords:
 - madrid imprescindibles guiado
 - tour combinado madrid
 - palacio prado entrada sin colas
-imagen: /images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp"
 imagenAlt: Museo del Prado 2016
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero.webp

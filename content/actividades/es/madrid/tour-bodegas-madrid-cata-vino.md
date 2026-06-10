@@ -87,7 +87,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tour bodegas madrid", "cata de vinos madrid", "enoturismo madrid", "tour vino chinchon", "bodegas region de madrid"]
 
-imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-arthur-tseng-ydyizev4pqk-unsplash-hero.webp"
 imagenAlt: "Barricas de vino apiladas en una bodega de la región de Madrid"
 
 galeria:

@@ -93,7 +93,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["madrid austrias tour", "madrid small group walking tour", "central madrid small group tour", "habsburg madrid local guide", "madrid free tour small group"]
 
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-hero.webp"
 imagenAlt: "Madrid's Plaza Mayor, one of the stops on the Habsburg Madrid tour"
 
 galeria:

@@ -115,7 +115,7 @@ keywords:
 - madrid sunset bicicleta
 - viator ebike atardecer
 - templo debod ebike sunset
-imagen: /images/actividades/madrid/ebike/touring-madrid-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero.webp"
 imagenAlt: Recorrido turístico por las principales atracciones de Madrid, incluyendo monumentos históricos y plazas emblemáticas
 galeria:
 - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp

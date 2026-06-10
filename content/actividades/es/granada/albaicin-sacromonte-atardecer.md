@@ -92,7 +92,7 @@ keywords: ["albaicin sacromonte tour", "tour atardecer granada", "albaicin guiad
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
 imagenAlt: "Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer"
 
 galeria:

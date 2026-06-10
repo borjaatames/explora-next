@@ -145,7 +145,7 @@ keywords:
 - cadiz jerez excursion dia
 - bodega jerez vino sherry
 - show ecuestre jerez caballos andaluces
-imagen: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp
+imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
 imagenAlt: Playa La Caleta en Cádiz con aguas cristalinas, arena dorada y bahía al fondo bajo cielo despejado
 galeria:
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp

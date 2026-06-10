@@ -47,7 +47,7 @@ keywords:
 atraccionesRelacionadas:
   - alcazaba-gibralfaro
   - centro-historico
-imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
+imagen: "/images/actividades/malaga/alcazaba/alcazaba-malaga-pixabay-8681568.jpg"
 imagenAlt: "Walls and gardens of the Alcazaba of Málaga with the port behind"
 
 galeria:

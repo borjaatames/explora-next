@@ -104,7 +104,7 @@ keywords:
 - avila segovia tour with tickets
 - visit avila and segovia
 - madrid to avila segovia tour
-imagen: /images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp"
 imagenAlt: The Roman aqueduct of Segovia with its double row of granite arches
 galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp

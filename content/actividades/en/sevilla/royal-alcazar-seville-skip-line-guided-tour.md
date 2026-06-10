@@ -119,7 +119,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["royal alcazar seville guided tour", "alcazar seville skip line", "alcazar tour english", "mudejar palace pedro i", "alcazar game of thrones dorne"]
 
-imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
 imagenAlt: "Patio de las Doncellas of the Royal Alcázar of Seville with elongated pond and Mudéjar arcades"
 
 galeria:

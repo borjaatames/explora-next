@@ -46,7 +46,7 @@ keywords:
   - "day trip from valencia"
   - "cuevas de san jose la vall duixo"
   - "what to do near valencia"
-imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
+imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-unsplash-_U6ErkXnC3Q.jpg"
 imagenAlt: "Boat ride along the underground river of the San José Caves near Valencia"
 
 galeria:

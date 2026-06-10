@@ -102,7 +102,7 @@ keywords:
 - avila segovia bilingual tour
 - visit avila and segovia
 - avila segovia tour madrid
-imagen: /images/actividades/madrid/avila/avila-spain-ramparts-wall-medieval-town-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-02-hero.webp"
 imagenAlt: Medieval walls of Ávila with their stone towers under a blue sky
 galeria:
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp

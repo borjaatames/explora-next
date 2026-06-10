@@ -97,7 +97,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat dia completo", "montserrat virgen negra bodega", "moreneta montserrat castlexperience", "montserrat almuerzo bodega"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp"
 imagenAlt: "Castillo medieval con bodega ecológica en la comarca del Bages, Cataluña"
 
 galeria:

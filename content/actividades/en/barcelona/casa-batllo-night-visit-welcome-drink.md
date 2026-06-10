@@ -100,7 +100,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa batllo night visit", "casa batllo cava", "casa batllo evening tour", "casa batllo welcome drink", "casa batllo night ticket"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
 imagenAlt: "Casa Batlló at night illuminated on Passeig de Gràcia"
 
 galeria:

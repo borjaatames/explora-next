@@ -168,7 +168,7 @@ keywords:
 - tangier day ferry
 - africa from seville 1 day
 - tangier guided english seville
-imagen: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-ferry-estrecho--hero.webp
+imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-pa-hero.webp"
 imagenAlt: Modern ferry crossing the Strait of Gibraltar with sea and sky, connecting Europe and Africa
 galeria:
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp

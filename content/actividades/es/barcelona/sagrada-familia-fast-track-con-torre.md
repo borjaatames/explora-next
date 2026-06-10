@@ -104,7 +104,7 @@ keywords:
 - subir torre sagrada familia
 - sagrada familia sin colas torre
 - entradas sagrada familia torre
-imagen: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp"
 imagenAlt: Arquitectura gótica de Barcelona con torres medievales y calles empedradas
 ratingProveedor: 4.4
 numeroOpiniones: 2480

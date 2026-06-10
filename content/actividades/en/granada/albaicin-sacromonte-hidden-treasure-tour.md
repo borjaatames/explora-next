@@ -93,7 +93,7 @@ keywords: ["albaicin sacromonte tour viator", "play granada tour", "granada hidd
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
 imagenAlt: "Mirador de los Carvajales in the Albaicín of Granada with views of the Alhambra"
 
 galeria:

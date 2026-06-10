@@ -91,7 +91,7 @@ opinionEditorial: |
 categoria: "espectaculos"
 keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show cena madrid", "tablao torres bermejas precio", "show flamenco madrid centro"]
 
-imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero.webp"
 imagenAlt: "Gran Vía de Madrid, zona donde está el Tablao Torres Bermejas"
 
 galeria:

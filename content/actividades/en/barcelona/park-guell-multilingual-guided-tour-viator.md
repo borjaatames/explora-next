@@ -99,7 +99,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour viator multilingual", "park guell french tour", "park guell guided tour spanish", "park guell tour with skip the line viator", "tours for today park guell"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-architecture-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp"
 imagenAlt: "Park Güell multilingual guided tour group at the serpentine terrace"
 
 galeria:

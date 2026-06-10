@@ -157,7 +157,7 @@ keywords:
 - flamenco gypsy neighborhood seville
 - calle betis flamenco
 - flamenco show other side of river
-imagen: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-bailaora-flamenco-esc-hero.webp
+imagen: "/images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-bailaora-flamenco-esc-hero.webp"
 imagenAlt: Flamenco dancer in traditional dress performing passionately on theater stage
 galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-interior-teatro-asien-hero.webp

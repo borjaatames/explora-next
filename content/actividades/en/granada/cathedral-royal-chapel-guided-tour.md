@@ -88,7 +88,7 @@ keywords: ["granada cathedral", "granada royal chapel", "catholic monarchs grana
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp"
 imagenAlt: "Facade of the Royal Chapel and Cathedral of Granada"
 
 galeria:

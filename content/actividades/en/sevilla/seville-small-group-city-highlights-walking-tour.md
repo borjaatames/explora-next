@@ -104,7 +104,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["best rated walking tour seville", "small group tour seville", "premium walking tour seville", "city highlights seville walking", "seville tour 4 9 stars"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
+imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-me-hero.webp"
 imagenAlt: "Small-group walking tour through Seville's UNESCO monuments — Cathedral exterior"
 
 galeria:

@@ -111,7 +111,7 @@ keywords:
 - park guell idiomas
 - park guell tour barcelona 5 idiomas
 - park guell tour profundo
-imagen: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp"
 imagenAlt: Vista aérea del Parque Güell con edificios de Barcelona al fondo
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-9029528-hero.webp

@@ -128,7 +128,7 @@ keywords:
 - tour quijote la mancha
 - toledo y molinos cervantes
 - excursion premium toledo grupo pequeño
-imagen: /images/actividades/madrid/molinos-consuegra/molinos-consuegra-manuel-lopez-96epxricdr4-unsplash-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-cathedral-monuments-nocturnal-hero.webp"
 imagenAlt: molinos consuegra manuel lopez 96epxricdr4 unsplash
 galeria:
 - src: /images/actividades/madrid/puente-alcantara-toledo/puente-alcantara-toledo-bridge-spain-view-from-north-east-hero.webp

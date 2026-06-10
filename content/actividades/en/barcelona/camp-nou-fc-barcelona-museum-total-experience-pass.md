@@ -128,7 +128,7 @@ keywords:
 - barca robokeeper
 - camp nou virtual dream
 - fc barcelona pass premium
-imagen: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
+imagen: "/images/actividades/barcelona/camp-nou/16979312785855-hero.webp"
 imagenAlt: Bird's eye view of Barcelona's southern district with urban layout and streets
 galeria:
 - src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp

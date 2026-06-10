@@ -112,7 +112,7 @@ keywords:
 - bernabeu city tour stadium
 - real madrid combined madrid tour
 - viator madrid bernabeu
-imagen: /images/actividades/madrid/santiago-bernabeu/images-1-hero.webp
+imagen: "/images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp"
 imagenAlt: Madrid cityscape with historic architecture and urban streets
 galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/estadio_santiago_bernabeu_bicimad_2025-hero.webp

@@ -122,7 +122,7 @@ keywords:
 - bus turistico madrid
 - madrid sightseeing bus
 - big bus madrid 24 horas
-imagen: /images/actividades/madrid/Bigbus/descarga-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp"
 imagenAlt: Descarga de archivo con logotipo de Madrid
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp

@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat cremallera", "tour montserrat virgen negra", "moreneta montserrat", "montserrat medio dia", "visitar montserrat desde barcelona"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp"
 imagenAlt: "Tren cremallera ascendiendo por la ladera de la montaña de Montserrat"
 
 galeria:

@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat tour privado", "montserrat exclusivo familia", "in out barcelona tours privado", "tour privado montserrat barcelona", "montserrat sin grupo"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
 imagenAlt: "Vehículo privado con guía en el complejo del monasterio de Montserrat"
 
 galeria:

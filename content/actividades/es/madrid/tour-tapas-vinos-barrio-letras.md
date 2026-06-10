@@ -96,7 +96,7 @@ keywords: ["tour tapas madrid", "cata vinos madrid", "barrio de las letras", "to
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-grayscale-photo-brick-street-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-20180604-094957-hero.webp"
 imagenAlt: "grayscale photo of a brick street"
 
 galeria:

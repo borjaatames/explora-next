@@ -105,7 +105,7 @@ keywords:
 - excursion avila segovia con entradas
 - visitar avila y segovia
 - tour avila segovia madrid
-imagen: /images/actividades/madrid/segovia/segovia-aqueduct-01-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp"
 imagenAlt: Acueducto romano de Segovia con su doble hilera de arcos de granito
 galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp

@@ -157,7 +157,7 @@ keywords:
 - espectáculo flamenco barcelona cena
 - tablao flamenco histórico barcelona
 - show flamenco sin micrófonos
-imagen: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
+imagen: "/images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp"
 imagenAlt: Bailaora con traje flamenco rojo realizando zapateado intenso en tablao de Barcelona, brazos en movimiento y expresión
   apasionada.
 galeria:

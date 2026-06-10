@@ -109,7 +109,7 @@ keywords:
 - flamenco show madrid
 - tablao central madrid
 - authentic flamenco madrid
-imagen: /images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp
+imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp"
 imagenAlt: Madrid cityscape with buildings and urban architecture
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-4-hero.webp

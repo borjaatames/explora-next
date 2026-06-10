@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat hotel pickup", "montserrat small group", "montserrat hotel pickup tour", "in out barcelona tours", "montserrat 8 person hotel"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"
 imagenAlt: "Small group van on the mountain road to Montserrat"
 
 galeria:

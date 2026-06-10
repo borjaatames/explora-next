@@ -157,7 +157,7 @@ keywords:
 - flamenco show barato sevilla
 - flamenco barrio santa cruz
 - show flamenco asequible sevilla
-imagen: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
+imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-bailaora-flamenco-esc-hero.webp"
 imagenAlt: Bailaora en escenario con falda volante, postura flamenca característica y luz profesional
 galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp

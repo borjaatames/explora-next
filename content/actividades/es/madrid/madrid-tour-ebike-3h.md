@@ -122,7 +122,7 @@ keywords:
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero.webp"
 imagenAlt: Portada de libro o revista sobre Madrid con diseño de encabezado
 galeria:
 - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp

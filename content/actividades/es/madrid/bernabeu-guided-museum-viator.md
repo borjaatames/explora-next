@@ -104,7 +104,7 @@ keywords:
 - real madrid stadium viator
 - bernabeu museum guided
 - santiago bernabeu viator
-imagen: /images/actividades/madrid/santiago-bernabeu/images-3-hero.webp
+imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
 imagenAlt: Vistas panorámicas de Madrid con edificios históricos y modernos bajo cielo despejado
 galeria:
 - src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp

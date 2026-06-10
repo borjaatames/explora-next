@@ -96,7 +96,7 @@ keywords: ["tour albaicin granada", "tour sacromonte granada", "guia albaicin di
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
 imagenAlt: "Mirador de San Nicolás del Albaicín de Granada con vistas a la Alhambra de día"
 
 galeria:

@@ -104,7 +104,7 @@ keywords:
 - flamenco show tapa drink madrid
 - viator flamenco madrid
 - tablao madrid viator
-imagen: /images/actividades/madrid/tablao-las-carboneras/descarga-2-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-05-2017-10-22-hero.webp"
 imagenAlt: Vistas panorámicas de Madrid con edificios históricos y modernos
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp

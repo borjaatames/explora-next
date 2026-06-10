@@ -113,7 +113,7 @@ keywords:
 - malaga walkway andalusia
 - caminito del rey with ticket
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-pasarela-vertiginosa-desfilad-hero.webp
+imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
 imagenAlt: Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls
 galeria:
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp

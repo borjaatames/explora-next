@@ -93,7 +93,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell museo casa gaudi entrada", "park guell combo museo", "casa museo gaudi park guell", "entrada combinada park guell", "park guell con museo gaudi"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagenAlt: "Park Güell con la Casa Museo Gaudí al fondo"
 
 galeria:

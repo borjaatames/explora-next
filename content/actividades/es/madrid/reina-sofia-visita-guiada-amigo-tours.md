@@ -109,7 +109,7 @@ keywords:
 - reina sofia entrada sin colas
 - museo reina sofia madrid guia
 - reina sofia bilingue tour
-imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero-hero.webp
+imagen: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
 imagenAlt: Museo Reina Sofía Nacional Centro Arte en Plaza Juan Miró de Madrid
 galeria:
 - src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp

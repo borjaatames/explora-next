@@ -101,7 +101,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour barri gotic barcelona", "tour barrio gotico castellano", "casco antiguo barcelona andando", "la rambla tour guiado", "barcelona barri gotic español"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona"
 
 galeria:

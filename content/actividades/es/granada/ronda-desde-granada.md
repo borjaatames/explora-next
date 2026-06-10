@@ -106,7 +106,7 @@ keywords:
 - ronda dia completo
 - excursion ronda andalucia
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-puente-nuevo-tajo-puente-nuevo-tajo-pexe-hero.webp
+imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp"
 imagenAlt: Puente Nuevo de Ronda atravesando el desfiladero del Tajo, acantilados de piedra caliza y profundo cañón
 galeria:
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp

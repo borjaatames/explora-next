@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat medio dia", "montserrat acceso anticipado", "montserrat barcelona local experiences", "tour montserrat 4 opciones"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp"
 imagenAlt: "Interior del monasterio benedictino de Montserrat"
 
 galeria:

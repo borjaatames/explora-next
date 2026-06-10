@@ -111,7 +111,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["guadalquivir cruise seville", "seville boat top rated", "river boat tour seville", "guadalquivir cruise drink included", "seville boat torre del oro"]
 
-imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp"
 imagenAlt: "Torre del Oro of Seville next to the Guadalquivir pier — start of the cruise"
 
 galeria:

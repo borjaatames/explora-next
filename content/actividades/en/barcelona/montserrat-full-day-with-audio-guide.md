@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat full day", "montserrat audio guide", "montserrat rack railway full day", "montserrat escolania", "catalunya bus turistic"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp"
 imagenAlt: "Montserrat rack railway with views over the Catalan mountain"
 
 galeria:

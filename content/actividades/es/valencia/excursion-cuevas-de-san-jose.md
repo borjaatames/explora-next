@@ -46,7 +46,7 @@ keywords:
   - "excursion desde valencia"
   - "cuevas de san jose la vall duixo"
   - "que hacer cerca de valencia"
-imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
+imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-unsplash-_U6ErkXnC3Q.jpg"
 imagenAlt: "Paseo en barca por el río subterráneo de las Cuevas de San José cerca de Valencia"
 
 galeria:

@@ -162,7 +162,7 @@ keywords:
 - cheap flamenco show barcelona
 - flamenco plaza catalunya show
 - flamenco theater barcelona
-imagen: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp
+imagen: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp"
 imagenAlt: Flamenco dancer in polka dot red and black dress with expressive arm movements performing passionately on stage
   in Barcelona.
 galeria:

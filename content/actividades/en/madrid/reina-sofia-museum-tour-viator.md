@@ -94,7 +94,7 @@ keywords:
 - amigo tours reina sofia english
 - reina sofia group 15
 - guernica picasso tour viator madrid
-imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+imagen: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp"
 imagenAlt: Reina Sofía Museum building exterior in Madrid with modernist architecture
 galeria:
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp

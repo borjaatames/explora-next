@@ -115,7 +115,7 @@ keywords:
 - palacio real catedral madrid
 - visita palacio real almudena guia
 - palacio real plaza mayor tour
-imagen: /images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero-hero.webp
+imagen: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-hero.webp"
 imagenAlt: Catedral de la Almudena al atardecer iluminada, Madrid
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp

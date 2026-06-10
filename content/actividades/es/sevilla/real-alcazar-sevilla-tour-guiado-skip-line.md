@@ -119,7 +119,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["real alcazar sevilla tour guiado", "alcazar sevilla sin colas", "tour alcazar español", "palacio mudejar pedro i", "alcazar juego de tronos dorne"]
 
-imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
 imagenAlt: "Patio de las Doncellas del Real Alcázar de Sevilla con estanque alargado y arquería mudéjar"
 
 galeria:

@@ -85,7 +85,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tour de tapas y vinos madrid", "tour tapas azotea madrid", "tour gastronomico madrid centro", "tapas mercado san miguel", "ruta de tapas madrid azotea"]
 
-imagen: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-2018-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp"
 imagenAlt: "El Mercado de San Miguel de Madrid, punto de inicio del recorrido de tapas"
 
 galeria:

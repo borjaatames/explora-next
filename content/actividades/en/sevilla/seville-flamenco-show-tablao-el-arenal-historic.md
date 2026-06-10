@@ -170,7 +170,7 @@ keywords:
 - historic tablao seville
 - flamenco dinner seville
 - tablao 50 years seville
-imagen: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-bailaora-tablao-fl-hero.webp
+imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-bailaora-tablao-fl-hero.webp"
 imagenAlt: Flamenco dancer in traditional dress performing passionately on tablao stage in Seville
 galeria:
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-interior-tablao-at-hero.webp

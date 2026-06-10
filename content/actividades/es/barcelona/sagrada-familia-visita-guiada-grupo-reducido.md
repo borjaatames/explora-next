@@ -102,7 +102,7 @@ keywords:
 - sagrada familia accesible
 - sagrada familia silla de ruedas
 - tour sagrada familia sin colas
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp"
 imagenAlt: Altar y bóveda interior de la Sagrada Familia con vitrales al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 3690

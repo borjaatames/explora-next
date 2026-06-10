@@ -153,7 +153,7 @@ keywords:
 - patio andaluz flamenco
 - flamenco autentico sevilla
 - show flamenco 2 filas sevilla
-imagen: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp
+imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
 imagenAlt: Escenario flamenco en patio andaluz de Sevilla con dos filas de asientos cercanos, artistas y público a 2-3 metros
   de distancia
 galeria:

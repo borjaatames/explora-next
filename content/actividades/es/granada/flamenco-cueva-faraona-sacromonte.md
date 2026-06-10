@@ -90,7 +90,7 @@ atraccionesRelacionadas:
   - "albaicin-sacromonte"
   - "sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp"
 imagenAlt: "Fachada de una cueva-tablao flamenco en el Camino del Sacromonte de Granada"
 
 galeria:

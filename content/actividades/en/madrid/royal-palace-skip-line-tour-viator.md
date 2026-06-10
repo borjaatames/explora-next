@@ -115,7 +115,7 @@ keywords:
 - golden tour guide royal palace
 - royal palace madrid tour viator
 - royal palace skip line viator
-imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
 imagenAlt: Equestrian statue in front of Madrid's Royal Palace main facade
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp

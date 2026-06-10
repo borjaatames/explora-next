@@ -109,7 +109,7 @@ keywords:
 - castlexperience montserrat
 - oller del mas montserrat
 - montserrat tapas espanol
-imagen: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
+imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
 imagenAlt: Vista panorámica de Montserrat con formaciones rocosas escarpadas cerca de Barcelona
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp

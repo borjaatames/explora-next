@@ -111,7 +111,7 @@ keywords:
 - royal palace cathedral madrid
 - palace almudena guided tour
 - royal palace plaza mayor tour madrid
-imagen: /images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero-hero.webp
+imagen: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-hero.webp"
 imagenAlt: Almudena Cathedral illuminated at dusk with ornate white facade and blue dome in Madrid
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp

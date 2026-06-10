@@ -107,7 +107,7 @@ keywords:
 - montserrat desde barcelona
 - visitar montserrat desde barcelona
 - montserrat tapas
-imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp
+imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
 imagenAlt: Monasterio de Montserrat en Barcelona, España, con arquitectura religiosa e iglesia
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp

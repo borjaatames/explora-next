@@ -103,7 +103,7 @@ keywords:
 - sagrada familia skip the line
 - visit sagrada familia
 - sagrada familia entry
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-27348438-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
 imagenAlt: Barcelona cityscape with modern architecture and street view
 ratingProveedor: 4.6
 numeroOpiniones: 110558

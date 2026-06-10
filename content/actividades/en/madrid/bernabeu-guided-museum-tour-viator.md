@@ -105,7 +105,7 @@ keywords:
 - santiago bernabeu museum tour
 - bernabeu museum guided viator
 - real madrid bernabeu viator
-imagen: /images/actividades/madrid/santiago-bernabeu/images-3-hero.webp
+imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
 imagenAlt: Madrid cityscape with historic buildings and urban architecture
 galeria:
 - src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp

@@ -138,7 +138,7 @@ keywords:
 - italica game of thrones dragonpit
 - italica amphitheater tour
 - trajan hadrian emperor italica
-imagen: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-anfiteatro-r-hero.webp
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
 imagenAlt: Aerial view of Itálica Roman amphitheater showing preserved semicircular tiers and monumental architecture seating
   25,000 spectators.
 galeria:

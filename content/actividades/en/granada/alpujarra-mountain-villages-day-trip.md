@@ -109,7 +109,7 @@ keywords:
 - alpujarra tour from granada
 - alpujarra full day
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-pueblos-blancos-panorama-pueblos-b-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
 imagenAlt: Whitewashed Moorish villages cascading down mountainside in Alpujarra, Granada, with flat-roofed houses and sierra
   peaks.
 galeria:

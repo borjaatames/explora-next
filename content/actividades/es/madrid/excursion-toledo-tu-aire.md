@@ -106,7 +106,7 @@ keywords: ["toledo desde madrid barato", "excursion toledo a tu aire", "bus tole
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp"
 imagenAlt: "Alcazar toledo breathtaking aerial view historic en Alcazar toledo"
 
 galeria:

@@ -102,7 +102,7 @@ keywords:
 - tour sagrada familia torre
 - sagrada familia vistas
 - entradas sagrada familia torres
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: 'Barcelona: vista panorámica de la ciudad con arquitectura moderna y antigua mezcladas entre edificios y horizonte
   urbano'
 ratingProveedor: 4.4

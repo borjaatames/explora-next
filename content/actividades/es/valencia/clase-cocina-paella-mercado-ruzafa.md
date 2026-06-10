@@ -47,7 +47,7 @@ keywords:
   - "cocinar paella valenciana"
   - "tour gastronomico valencia"
   - "mercado de ruzafa"
-imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
+imagen: "/images/actividades/valencia/gastronomia/paella-ruzafa-pixabay-2398845.jpg"
 imagenAlt: "Paella valenciana cocinándose sobre el fuego en una clase de cocina en Valencia"
 
 galeria:

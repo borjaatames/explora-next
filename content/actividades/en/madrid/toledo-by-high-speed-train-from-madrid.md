@@ -101,7 +101,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["toledo by ave train", "toledo from madrid by train", "high-speed train madrid toledo", "small group toledo tour", "toledo premium day trip"]
 
-imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero.webp"
 imagenAlt: "North façade of the Alcázar of Toledo"
 
 galeria:

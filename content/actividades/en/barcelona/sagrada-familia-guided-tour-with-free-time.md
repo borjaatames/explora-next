@@ -99,7 +99,7 @@ keywords:
 - sagrada familia guided tour
 - sagrada familia gaudi museum
 - sagrada familia skip the line
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
 imagenAlt: Ornate vault of the central nave of the Sagrada Familia
 ratingProveedor: 4.6
 numeroOpiniones: 1454

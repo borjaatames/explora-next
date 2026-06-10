@@ -102,7 +102,7 @@ keywords:
 - tour avila segovia bilingue
 - visitar avila y segovia
 - excursion avila segovia madrid
-imagen: /images/actividades/madrid/avila/avila-spain-ramparts-wall-medieval-town-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-02-hero.webp"
 imagenAlt: Murallas medievales de Ávila con sus torreones de piedra bajo cielo azul
 galeria:
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp

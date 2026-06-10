@@ -124,7 +124,7 @@ keywords:
 - premium cordoba excursion seville
 - cordoba high speed train
 - cordoba mezquita ave premium
-imagen: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-me-hero.webp
+imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
 imagenAlt: Red and white horseshoe arches with columns in the central nave of Córdoba's Mosque-Cathedral, a UNESCO World Heritage
   site.
 galeria:

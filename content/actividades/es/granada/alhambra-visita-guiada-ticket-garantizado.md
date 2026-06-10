@@ -104,7 +104,7 @@ keywords:
 - tour alhambra palacios nazaries
 - entradas alhambra granada
 - alhambra sin colas
-imagen: /images/actividades/granada/ciudades/granada-hero.webp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"
 imagenAlt: Granada, ciudad histórica de Andalucía con la Alhambra y arquitectura medieval
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp

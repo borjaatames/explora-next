@@ -126,7 +126,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["seville 3 5 hour tour", "cathedral alcazar long tour", "seville 3 monuments gardens", "seville free time alcazar tour", "seville photo stop tour"]
 
-imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp"
 imagenAlt: "3.5h tour of Seville Cathedral, Giralda and Royal Alcázar with free time in gardens"
 
 galeria:

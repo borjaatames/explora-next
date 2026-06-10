@@ -115,7 +115,7 @@ keywords:
 - toledo bodega siglo XVIII
 - excursion gastronomica toledo
 - cata vinos cerca toledo bargas
-imagen: /images/actividades/toledo/toledo-medieval-city/toledo-medieval-city-architecture-hero-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-discover-breathtaking-aerial-view-hero.webp"
 imagenAlt: Vistas panorámicas de Toledo con arquitectura medieval, calles empedradas y edificios históricos
 galeria:
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp

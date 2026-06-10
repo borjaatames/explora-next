@@ -100,7 +100,7 @@ keywords:
 - ubeda day trip granada
 - discovering spain ubeda
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-ubeda-plaza-vazquez-molina-ubeda-pl-hero.webp
+imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp"
 imagenAlt: Renaissance square with Salvador Chapel and palatial architecture from Spain's Golden Age
 galeria:
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp

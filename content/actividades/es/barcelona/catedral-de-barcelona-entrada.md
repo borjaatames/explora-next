@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["entrada catedral barcelona", "ticket catedral de barcelona", "catedral gotica barcelona", "santa esglesia catedral barcelona", "visita catedral barri gotic"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp"
 imagenAlt: "Fachada gótica de la Catedral de Barcelona en el Pla de la Seu"
 
 galeria:

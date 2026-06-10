@@ -120,7 +120,7 @@ keywords:
 - madrid sightseeing bus
 - madrid bus tour
 - big bus madrid 24 hours
-imagen: /images/actividades/madrid/Bigbus/descarga-hero.webp
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp"
 imagenAlt: Madrid cityscape with historic architecture and urban landmarks
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp

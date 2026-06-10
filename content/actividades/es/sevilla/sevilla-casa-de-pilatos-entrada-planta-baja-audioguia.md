@@ -105,7 +105,7 @@ opinionEditorial: |
 categoria: "entradas"
 keywords: ["casa de pilatos entrada", "casa pilatos sevilla", "palacio medinaceli sevilla", "casa pilatos lunes gratis", "casa pilatos tickets", "casa pilatos audioguia"]
 
-imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
 imagenAlt: "Barrio de Santa Cruz de Sevilla — ubicación de la Casa de Pilatos en el corazón del barrio judío"
 
 galeria:

@@ -98,7 +98,7 @@ keywords:
 - visita guiada sagrada familia
 - sagrada familia museo gaudi
 - sagrada familia sin colas
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-ornate-ceiling-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
 imagenAlt: Bóveda ornamentada de la nave central de la Sagrada Familia
 ratingProveedor: 4.6
 numeroOpiniones: 1454

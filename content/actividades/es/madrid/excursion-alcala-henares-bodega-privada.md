@@ -118,7 +118,7 @@ keywords:
 - alcala bodega cata vino
 - excursion cervantes alcala
 - tour patrimonio unesco madrid
-imagen: /images/actividades/alcala-de-henares/alcala-de-henares/pixabay-954165-hero.webp
+imagen: "/images/actividades/madrid/Bigbus/descarga-hero.webp"
 imagenAlt: Alcalá de Henares, plaza principal con arquitectura histórica y edificios coloniales
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp

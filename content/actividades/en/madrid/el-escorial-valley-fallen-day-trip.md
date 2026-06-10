@@ -103,7 +103,7 @@ keywords:
 - monastery of el escorial tickets
 - el escorial valley fallen tour
 - visit el escorial from madrid
-imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
+imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp"
 imagenAlt: Ornate Renaissance facade of El Escorial monastery with stone details and arched windows in San Lorenzo, Madrid
 galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp

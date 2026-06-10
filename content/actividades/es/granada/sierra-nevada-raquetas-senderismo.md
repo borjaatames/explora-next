@@ -104,7 +104,7 @@ keywords:
 - senderismo desde granada
 - hiking sierra nevada
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-montaneros-cima-nevada-mon-hero.webp
+imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-aldea-autentica-arquitectura-alde-hero.webp"
 imagenAlt: Grupo de senderistas en la cima de Sierra Nevada con vistas panorámicas de montañas nevadas bajo cielo despejado
 galeria:
 - src: /images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-raquetas-nieve-invierno-01-hero.webp

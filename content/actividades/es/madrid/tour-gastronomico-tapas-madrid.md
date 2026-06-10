@@ -86,7 +86,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tour gastronomico madrid", "tour de tapas centro madrid", "ruta de tapas madrid", "tour gastronomico tapas madrid", "tapas guia local madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp"
 imagenAlt: "Bocadillo de calamares con una caña, comida callejera típica de Madrid"
 
 galeria:

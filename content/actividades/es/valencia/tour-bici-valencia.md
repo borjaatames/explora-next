@@ -50,7 +50,7 @@ keywords:
 atraccionesRelacionadas:
   - centro-historico
   - ciudad-artes-ciencias
-imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
+imagen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-unsplash-OerQvrNvozU.jpg"
 imagenAlt: "Grupo en bicicleta frente a la Ciudad de las Artes y las Ciencias de Valencia"
 
 galeria:

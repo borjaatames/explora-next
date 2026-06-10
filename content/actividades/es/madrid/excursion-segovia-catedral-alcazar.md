@@ -106,7 +106,7 @@ keywords:
 - tour segovia medio dia
 - visitar segovia desde madrid
 - excursion segovia acueducto
-imagen: /images/actividades/madrid/segovia/segovia-alcazar-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp"
 imagenAlt: El Alcázar de Segovia sobre el promontorio rocoso con sus torres y chapiteles de pizarra
 galeria:
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp

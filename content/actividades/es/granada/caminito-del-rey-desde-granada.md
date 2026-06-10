@@ -113,7 +113,7 @@ keywords:
 - pasarela malaga andalucia
 - caminito del rey con entrada
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-pasarela-vertiginosa-desfilad-hero.webp
+imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
 imagenAlt: Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes
   rocosas verticales.
 galeria:

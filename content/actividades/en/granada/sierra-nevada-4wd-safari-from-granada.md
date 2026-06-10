@@ -109,7 +109,7 @@ keywords:
 - sierra nevada small group
 - sierra nevada mountain refuge
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp
+imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
 imagenAlt: Rugged 4x4 vehicle driving on rocky mountain trail with snow-capped Sierra Nevada peaks in background, Granada
 galeria:
 - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-vista-panoramica-refugio-2500m-01-hero.webp

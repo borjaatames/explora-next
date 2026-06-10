@@ -102,7 +102,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["triana tapas tour seville", "spanish tapas tour seville", "small group tapas seville", "triana market tour", "authentic seville tapas", "seville food tour spanish"]
 
-imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp"
 imagenAlt: "Triana bridge over the Guadalquivir river — gateway to the tapas tour neighbourhood"
 
 galeria:

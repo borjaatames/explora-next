@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat masia bages", "montserrat almuerzo sommelier", "barcelona local experiences", "montserrat enologia premium", "montserrat bodega autentica"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
 imagenAlt: "Masía catalana del siglo XII con viñedos en la comarca del Bages"
 
 galeria:

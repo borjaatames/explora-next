@@ -91,7 +91,7 @@ atraccionesRelacionadas:
   - "albaicin-sacromonte"
   - "sacromonte"
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"
 imagenAlt: "Flamenco show in a cave in Granada's Sacromonte"
 
 galeria:

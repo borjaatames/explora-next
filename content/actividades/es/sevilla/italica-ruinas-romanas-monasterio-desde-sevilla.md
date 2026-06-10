@@ -144,7 +144,7 @@ keywords:
 - italica game of thrones dragonpit
 - anfiteatro italica tour
 - trajano adriano emperador italica
-imagen: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-anfiteatro-r-hero.webp
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
 imagenAlt: Anfiteatro romano de Itálica en Sevilla desde arriba, con gradas semicirculares conservadas y arquitectura monumental.
 galeria:
 - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp

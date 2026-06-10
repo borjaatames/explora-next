@@ -99,7 +99,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour viator multilingue", "park guell tour frances", "park guell tour guiado en español", "park guell tour sin colas viator", "tours for today park guell"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-architecture-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp"
 imagenAlt: "Grupo en tour multilingüe del Park Güell en la terraza serpenteante"
 
 galeria:

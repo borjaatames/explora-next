@@ -154,7 +154,7 @@ keywords:
 - flamenco show barcelona dinner
 - historic flamenco tablao barcelona
 - no microphone flamenco show
-imagen: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
+imagen: "/images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp"
 imagenAlt: Flamenco dancer in red and black dress performing intense footwork on Barcelona tablao stage with passionate expression
   and flowing arms
 galeria:

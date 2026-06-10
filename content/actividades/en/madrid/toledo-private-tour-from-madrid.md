@@ -106,7 +106,7 @@ keywords:
 - toledo guide and driver
 - private day trip toledo madrid
 - toledo mercedes private
-imagen: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-spain-tagus-river-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-castilla-la-mancha-landscape-hero.webp"
 imagenAlt: Panoramic view of Toledo Spain with Tagus River and historic architecture
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp

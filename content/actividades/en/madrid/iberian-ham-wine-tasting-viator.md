@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "gastronomico"
 keywords: ["iberian ham tasting madrid", "viator ham wine madrid", "cured meats cheese wine madrid", "gourmet tasting madrid", "spanish ham tasting"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-26642593854-hero.webp"
 imagenAlt: "Iberian ham and Spanish gourmet products"
 
 galeria:

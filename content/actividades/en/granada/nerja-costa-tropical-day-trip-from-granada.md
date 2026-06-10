@@ -101,7 +101,7 @@ keywords:
 - salobreña day trip
 - burriana beach from granada
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
+imagen: "/images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp"
 imagenAlt: Natural limestone columns and mineral formations inside Nerja Caves, featuring illuminated stalactites and stalagmites
   in vast underground cathedral chamber.
 galeria:

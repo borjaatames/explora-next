@@ -152,7 +152,7 @@ keywords:
 - cheap flamenco show seville
 - flamenco santa cruz neighborhood
 - affordable flamenco show seville
-imagen: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
+imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-bailaora-flamenco-esc-hero.webp"
 imagenAlt: Flamenco dancer in motion on stage with flowing skirt and traditional posture, Seville
 galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp

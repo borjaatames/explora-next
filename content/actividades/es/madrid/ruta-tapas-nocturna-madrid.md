@@ -83,7 +83,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["ruta de tapas nocturna madrid", "tour de tapas noche madrid", "tapas madrid en aleman", "tour tapas tradicionales madrid", "ruta tapas centro madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
 imagenAlt: "Interior de un bar de tapas tradicional de Madrid por la noche"
 
 galeria:

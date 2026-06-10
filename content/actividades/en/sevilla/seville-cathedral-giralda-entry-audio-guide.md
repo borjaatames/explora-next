@@ -117,7 +117,7 @@ opinionEditorial: |
 categoria: "entradas"
 keywords: ["seville cathedral audio guide spanish", "giralda mobile audio", "seville cathedral mobile app", "seville cathedral 24h cancellation entry", "audio guide seville cathedral 5 languages"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
+imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
 imagenAlt: "Gothic facade of Seville Cathedral and the Giralda"
 
 galeria:

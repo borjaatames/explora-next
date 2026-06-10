@@ -97,7 +97,7 @@ keywords:
 - tour cuenca un dia
 - visitar cuenca desde madrid
 - excursion ciudad encantada
-imagen: /images/actividades/cuenca/casas-colgadas/pexels-32084879-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp"
 imagenAlt: Río rodeado de montañas verdes y casas tradicionales en Cuenca, Ecuador
 galeria:
 - src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp

@@ -128,7 +128,7 @@ keywords:
 - fc barcelona museum open date
 - camp nou ticket viator
 - julia travel camp nou
-imagen: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
+imagen: "/images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp"
 imagenAlt: Barcelona cityscape with historic architecture and Mediterranean views
 galeria:
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp

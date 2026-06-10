@@ -121,7 +121,7 @@ keywords:
 - day trip from madrid
 - aranjuez royal palace day trip
 - toledo from madrid tour
-imagen: /images/actividades/madrid/aranjuez/wikimedia-palacio-real-aranjuez-madrid-hero.webp
+imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp"
 imagenAlt: Royal Palace of Aranjuez, Madrid, Spain
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp

@@ -95,7 +95,7 @@ keywords:
 - tour sagrada familia
 - entradas guiadas sagrada familia
 - sagrada familia guia oficial
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
+imagen: "/images/actividades/barcelona/sagrada-familia/pexels-27348438-hero.webp"
 imagenAlt: Fachada de la Basílica de la Sagrada Familia con torres de piedra tallada en Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 13565

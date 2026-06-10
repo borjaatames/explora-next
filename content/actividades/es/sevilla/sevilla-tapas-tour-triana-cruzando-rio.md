@@ -102,7 +102,7 @@ opinionEditorial: |
 categoria: "toursGastronomicos"
 keywords: ["tapas tour triana sevilla", "tour tapas sevilla español", "tapas tour sevilla grupo reducido", "mercado triana tour", "tapas auténticas sevilla", "sevilla food tour spanish"]
 
-imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp"
 imagenAlt: "Puente de Triana sobre el río Guadalquivir — entrada al barrio del tapas tour"
 
 galeria:

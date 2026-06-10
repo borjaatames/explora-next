@@ -152,7 +152,7 @@ keywords:
 - andalusian patio flamenco
 - authentic flamenco seville
 - flamenco 2 rows seville
-imagen: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp
+imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
 imagenAlt: Flamenco stage in traditional Andalusian courtyard with intimate seating arrangement close to performers in Seville
 galeria:
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp

@@ -97,7 +97,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila tour temprano", "la pedrera amanecer tour", "casa mila tour guiado", "la pedrera antes apertura", "casa mila grupo reducido"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-chimney-roof-barcelona-2014-3-hero.webp"
 imagenAlt: "Terraza de Casa Milà al amanecer sin gente"
 
 galeria:

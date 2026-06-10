@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat caminata", "montserrat senderismo", "montserrat grupo reducido", "montserrat teleferico", "parque nacional montserrat"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
 imagenAlt: "Teleférico ascendiendo a la cima del macizo de Montserrat"
 
 galeria:

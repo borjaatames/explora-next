@@ -91,7 +91,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour privado madrid austrias", "walking tour madrid privado", "madrid private tour viator", "tour personalizado madrid austrias", "viator privado madrid centro"]
 
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-2-hero.webp"
 imagenAlt: "Plaza Mayor de Madrid, parada del walking tour por el Madrid de los Austrias"
 
 galeria:

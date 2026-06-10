@@ -98,7 +98,7 @@ keywords:
 - ciclismo sierra nevada
 - aldeas granada bici
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-aldea-autentica-arquitectura-alde-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp"
 imagenAlt: Pueblo blanco de Granada con casas encaladas, callejones angostos y arquitectura tradicional andaluza
 galeria:
 - src: /images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-ebike-rio-naturaleza-01-hero.webp

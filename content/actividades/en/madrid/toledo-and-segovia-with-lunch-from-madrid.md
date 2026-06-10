@@ -123,7 +123,7 @@ keywords:
 - toledo segovia damascene
 - alcazar segovia entry
 - cheap combined day trip madrid
-imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero.webp
+imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-2-hero.webp"
 imagenAlt: Alcázar castle fortress in Segovia, Spain with distinctive towers and medieval architecture
 galeria:
 - src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp

@@ -94,7 +94,7 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat funicular", "montserrat small group", "montserrat sant joan", "montserrat scenic tour", "unique tours barcelona"]
 
-imagen: "/images/guias/barcelona-en-1-dia.jpg"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
 imagenAlt: "Panoramic views from the top of the Sant Joan funicular, Montserrat"
 
 galeria:

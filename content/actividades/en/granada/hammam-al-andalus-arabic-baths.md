@@ -93,7 +93,7 @@ keywords: ["hammam al andalus granada", "alhambra arabic baths", "hammam with ma
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagenAlt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"
 
 galeria:

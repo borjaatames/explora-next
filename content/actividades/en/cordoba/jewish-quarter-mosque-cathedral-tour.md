@@ -50,7 +50,7 @@ keywords:
 atraccionesRelacionadas:
   - mezquita-catedral
   - juderia
-imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
+imagen: "/images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg"
 imagenAlt: "Calleja de las Flores in Córdoba's Jewish Quarter with the Mosque tower behind"
 
 galeria:

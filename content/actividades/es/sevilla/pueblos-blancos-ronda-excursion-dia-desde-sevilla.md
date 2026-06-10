@@ -150,7 +150,7 @@ keywords:
 - setenil de las bodegas tour
 - zahara de la sierra excursion
 - puente nuevo ronda dia
-imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
+imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
 imagenAlt: Puente Nuevo de Ronda con tres arcos de piedra sobre el profundo desfiladero del Tajo, monumento icónico de Andalucía.
 galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp

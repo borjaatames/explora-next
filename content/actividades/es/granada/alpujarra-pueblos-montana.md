@@ -110,7 +110,7 @@ keywords:
 - excursion alpujarra desde granada
 - alpujarra dia completo
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-pueblos-blancos-panorama-pueblos-b-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
 imagenAlt: Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y
   montañas al fondo
 galeria:

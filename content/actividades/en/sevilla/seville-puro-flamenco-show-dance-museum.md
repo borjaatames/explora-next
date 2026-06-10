@@ -164,7 +164,7 @@ keywords:
 - puro flamenco show seville
 - ecija patio flamenco
 - andalusian patio flamenco seville
-imagen: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-bailaora-flamenco-esc-hero.webp
+imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
 imagenAlt: Flamenco dancer in motion with raised arms, wearing traditional dress, expressing passion and intensity during
   performance in Seville
 galeria:

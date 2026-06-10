@@ -110,7 +110,7 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["crucero guadalquivir mas vendido sevilla", "barco guadalquivir barato", "eco crucero sevilla", "river cruise seville cheap", "guadalquivir crucero accesible silla"]
 
-imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
 imagenAlt: "Crucero panorámico por el Guadalquivir junto a la Torre del Oro de Sevilla"
 
 galeria:

@@ -145,7 +145,7 @@ keywords:
 - cadiz jerez day excursion
 - jerez winery sherry wine
 - equestrian show jerez andalusian horses
-imagen: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp
+imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
 imagenAlt: Golden sandy beach at La Caleta in Cadiz with crystal waters and bay views, showcasing the coastal promenade of
   this ancient Andalusian city
 galeria:

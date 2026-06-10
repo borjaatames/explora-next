@@ -88,7 +88,7 @@ keywords:
 - viator alpujarra granada
 - pueblos alpujarra viator
 atraccionesRelacionadas: []
-imagen: /images/actividades/granada/alpujarras-viator-con-almuerzo/alpujarras-viator-con-almuerzo-pueblos-blancos-alpujarra-pue-hero.webp
+imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp"
 imagenAlt: Pueblos blancos de la Alpujarra anidados en las laderas montañosas con casas encaladas tradicionales típicas de
   Granada.
 galeria:

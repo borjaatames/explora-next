@@ -125,7 +125,7 @@ keywords:
 - excursion premium cordoba sevilla
 - cordoba tren alta velocidad
 - cordoba mezquita ave premium
-imagen: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-me-hero.webp
+imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
 imagenAlt: Arcos de herradura rojo-blancos y columnas en la nave central iluminada de la Mezquita-Catedral de Córdoba.
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp

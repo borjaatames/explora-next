@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "activo"
 keywords: ["retiro segway madrid", "retiro park segway tour", "viator segway madrid", "segway madrid park", "retiro segway tour"]
 
-imagen: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
+imagen: "/images/actividades/madrid/retiro/parque-del-retiro-madrid-own-crystal-palace-hero.webp"
 imagenAlt: "Retiro Park in Madrid, setting for the segway tour"
 
 galeria:
