@@ -9,7 +9,7 @@ slugs:
   en: toledo-and-don-quixote-windmills-from-madrid
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 120
+precioDesde: 125
 moneda: EUR
 idiomas:
 - es

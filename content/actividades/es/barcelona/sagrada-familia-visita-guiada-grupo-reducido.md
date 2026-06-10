@@ -9,7 +9,7 @@ slugs:
   en: sagrada-familia-small-group-tour
 duracion: 1h 30min
 duracionMinutos: 90
-precioDesde: 56
+precioDesde: 59
 moneda: EUR
 idiomas:
 - es

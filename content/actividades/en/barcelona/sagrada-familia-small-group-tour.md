@@ -9,7 +9,7 @@ slugs:
   es: sagrada-familia-visita-guiada-grupo-reducido
 duracion: 1h 30min
 duracionMinutos: 90
-precioDesde: 56
+precioDesde: 59
 moneda: EUR
 idiomas:
 - es
