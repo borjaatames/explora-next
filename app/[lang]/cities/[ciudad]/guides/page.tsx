@@ -17,6 +17,7 @@ import {
   formatearFecha,
   hreflangAlternates,
   prefijoIdioma,
+  urlActividadesDeCiudad,
   urlCiudad,
   urlGuiasDeCiudad,
   urlIndiceCiudades,
@@ -53,14 +54,14 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
     return {
       titulo: `Guides for ${nombreCiudad}`,
       descripcion: `Honest itineraries and practical advice to explore ${nombreCiudad} without the tourist clichés.`,
-      volver: `← Back to ${nombreCiudad}`,
+      volver: `See activities in ${nombreCiudad} →`,
       guias: "Guides",
     };
   }
   return {
     titulo: `Guías de ${nombreCiudad}`,
     descripcion: `Rutas con criterio y consejos prácticos para conocer ${nombreCiudad} sin postales.`,
-    volver: `← Volver a ${nombreCiudad}`,
+    volver: `Ver actividades en ${nombreCiudad} →`,
     guias: "Guías",
   };
 }
@@ -194,7 +195,7 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
-          href={ciudad.url}
+          href={urlActividadesDeCiudad(lang, params.ciudad)}
           className="text-sky-600 hover:text-sky-700 font-semibold"
         >
           {strings.volver}

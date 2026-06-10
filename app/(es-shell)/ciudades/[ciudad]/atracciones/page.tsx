@@ -10,6 +10,7 @@ import {
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import {
   hreflangAlternates,
+  urlActividadesDeCiudad,
   urlAtraccionesDeCiudad,
   urlCiudad,
 } from "@/lib/i18n/utils";
@@ -111,8 +112,8 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
       </section>
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link href={ciudad.url} className="text-sky-600 hover:text-sky-700 font-semibold">
-          ← Volver a {ciudad.nombre}
+        <Link href={urlActividadesDeCiudad("es", params.ciudad)} className="text-sky-600 hover:text-sky-700 font-semibold">
+          Ver actividades en {ciudad.nombre} →
         </Link>
       </div>
     </main>

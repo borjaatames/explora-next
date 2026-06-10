@@ -12,6 +12,7 @@ import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
+  urlActividadesDeCiudad,
   urlAtraccionesDeCiudad,
   urlCiudad,
   urlIndiceCiudades,
@@ -95,9 +96,9 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
     ? `What you can't miss in ${ciudad.nombre}, with photos and context.`
     : `Lo imprescindible que ver en ${ciudad.nombre}, con foto y contexto.`;
   const breadcrumbAtracciones = lang === "en" ? "Attractions" : "Atracciones";
-  const volverA = lang === "en"
-    ? `Back to ${ciudad.nombre}`
-    : `Volver a ${ciudad.nombre}`;
+  const verActividades = lang === "en"
+    ? `See activities in ${ciudad.nombre} →`
+    : `Ver actividades en ${ciudad.nombre} →`;
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
@@ -148,8 +149,8 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
       </section>
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link href={ciudad.url} className="text-sky-600 hover:text-sky-700 font-semibold">
-          ← {volverA}
+        <Link href={urlActividadesDeCiudad(lang, params.ciudad)} className="text-sky-600 hover:text-sky-700 font-semibold">
+          {verActividades}
         </Link>
       </div>
     </main>

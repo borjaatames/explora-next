@@ -10,6 +10,7 @@ import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import {
   formatearFecha,
   hreflangAlternates,
+  urlActividadesDeCiudad,
   urlCiudad,
   urlGuiasDeCiudad,
 } from "@/lib/i18n/utils";
@@ -138,10 +139,10 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
-          href={ciudad.url}
+          href={urlActividadesDeCiudad("es", params.ciudad)}
           className="text-sky-600 hover:text-sky-700 font-semibold"
         >
-          ← Volver a {ciudad.nombre}
+          Ver actividades en {ciudad.nombre} →
         </Link>
       </div>
     </main>
