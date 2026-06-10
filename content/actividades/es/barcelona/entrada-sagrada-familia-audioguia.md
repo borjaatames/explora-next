@@ -179,4 +179,3 @@ La entrada es **nominativa**: das los datos de todos los participantes al reserv
 - Si necesitas poder cancelar con menos de 48 horas de margen: la ventana aquí es de 2 días, no de 24 horas.
 
 Antes de reservar, te recomiendo leer nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar): explica qué torre subir, el código de vestimenta y los errores típicos.
-          
