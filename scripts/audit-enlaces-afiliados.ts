@@ -20,7 +20,6 @@ import path from "path";
 import matter from "gray-matter";
 import { construirUrlReserva } from "../lib/afiliados";
 import { construirUrlViatorFicha } from "../lib/sem/url-builder-ficha";
-import { construirUrlAfiliado } from "../lib/sem/url-builder";
 
 const GYG_PARTNER = "C71NOAW";
 const VIATOR_PID = "P00298823";
@@ -100,29 +99,10 @@ for (const idioma of ["es", "en"] as Idi[]) {
   }
 }
 
-// ── Landings SEM (ES en content/sem/*.md, EN en content/sem/en/*.md) ──────────
-for (const file of listar(path.join(ROOT, "sem"))) {
-  const idioma: Idi = file.includes(`${path.sep}en${path.sep}`) ? "en" : "es";
-  const { data } = matter(fs.readFileSync(file, "utf8"));
-  const landing = String((data as Record<string, unknown>).slug || path.basename(file, ".md"));
-  const tours = ((data as Record<string, unknown>).tours as unknown[]) || [];
-  for (const t of tours) {
-    const tour = t as Record<string, unknown>;
-    const url = (tour.url_reserva as string) || (tour.viator_url as string) || "";
-    if (!url) continue;
-    const prov = proveedorDe(tour.proveedor, url);
-    if (prov === "otro" || prov === "civitatis") continue;
-    let final: string;
-    try {
-      // construirUrlAfiliado espera un SemTour; el frontmatter ya trae los campos.
-      final = construirUrlAfiliado(tour as never, landing, idioma);
-    } catch (e) {
-      errores.push(`[builder] sem/${idioma}/${path.basename(file)} tour ${String(tour.id)}: ${(e as Error).message}`);
-      continue;
-    }
-    comprobar(final, prov, idioma, `sem/${idioma}/${path.basename(file)}#${String(tour.id)}`);
-  }
-}
+// ── Landings SEM: retiradas en junio 2026. El audit anterior recorría
+//    content/sem/**/*.md llamando a construirUrlAfiliado(); ese módulo
+//    (lib/sem/url-builder) ya no existe y las landings tampoco. Solo se
+//    audita el set de fichas vivas (arriba).
 
 // ── Resultado ────────────────────────────────────────────────────────────────
 if (errores.length > 0) {
