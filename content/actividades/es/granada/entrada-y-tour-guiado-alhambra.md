@@ -110,7 +110,7 @@ keywords:
 - entradas alhambra palacios nazaries
 - visita guiada alhambra granada
 - alhambra mejor precio
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
 imagenAlt: Plaza de la Catedral en Granada con edificios históricos y cielo azul
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp

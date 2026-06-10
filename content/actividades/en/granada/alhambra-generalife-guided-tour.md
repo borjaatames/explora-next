@@ -115,7 +115,7 @@ keywords:
 - nasrid palaces granada
 - alhambra generalife tour
 - visit the alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
 imagenAlt: Panoramic view of the Alhambra of Granada on the Sabika hill
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp

@@ -108,7 +108,7 @@ keywords:
 - alhambra nasrid palaces tickets
 - alhambra generalife tour
 - small group alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
 imagenAlt: Courtyard of the Alhambra with palm trees reflected in a water channel
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp

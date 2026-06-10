@@ -112,7 +112,7 @@ keywords:
 atraccionesRelacionadas:
 - alhambra
 - generalife
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
 imagenAlt: Jardines del Generalife de la Alhambra de Granada
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp

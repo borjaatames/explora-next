@@ -90,7 +90,7 @@ keywords: ["ebike tapas granada", "electric bike tapas tour", "granada bike tour
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
 imagenAlt: "E-bike tour through the Albaicín of Granada with a tapas stop"
 
 galeria:

@@ -108,7 +108,7 @@ keywords:
 - palacios nazaries iluminados
 - alhambra nocturna granada
 - tour nocturno alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
 imagenAlt: La Alhambra de Granada iluminada al anochecer
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp

@@ -107,7 +107,7 @@ keywords:
 - illuminated nasrid palaces
 - alhambra evening tour granada
 - nasrid palaces night visit
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
 imagenAlt: The Alhambra of Granada illuminated at dusk
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp

@@ -102,7 +102,7 @@ keywords:
 - visita alhambra sin colas
 - palacios nazaries granada
 - entradas alhambra granada
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp"
 imagenAlt: Granada, vista aérea con arquitectura histórica y sierra nevada
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp

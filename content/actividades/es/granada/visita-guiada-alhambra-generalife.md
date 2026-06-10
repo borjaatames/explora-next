@@ -115,7 +115,7 @@ keywords:
 - palacios nazaries granada
 - tour alhambra generalife
 - visitar la alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
 imagenAlt: Vista panorámica de la Alhambra de Granada sobre la colina de la Sabika
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp

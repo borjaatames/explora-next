@@ -87,7 +87,7 @@ opinionEditorial: |
 categoria: "espectaculos"
 keywords: ["tablao la carmela madrid", "flamenco puerta del sol", "tablao madrid sol viator", "flamenco show central madrid", "viator tablao la carmela"]
 
-imagen: "/images/actividades/madrid/calles-centro/calles-madrid-centro-plaza-santa-ana-villa-rosa-tablao-hero.webp"
+imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.avif"
 imagenAlt: "Puerta del Sol in Madrid, next to Tablao La Carmela"
 
 galeria:

@@ -109,7 +109,7 @@ keywords:
 - alhambra grupo reducido
 - visita alhambra con ninos
 - alhambra palacios nazaries granada
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
 imagenAlt: Fotografía aérea de la Alhambra de Granada con sus muros y torres de piedra marrón
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero-hero.webp

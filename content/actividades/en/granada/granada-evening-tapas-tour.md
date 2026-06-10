@@ -88,7 +88,7 @@ keywords: ["granada evening tapas tour", "granada premium wines", "granada night
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp"
 imagenAlt: "Albayzín street in Granada at dusk with illuminated bars"
 
 galeria:

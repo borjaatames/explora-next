@@ -110,7 +110,7 @@ keywords:
 - private nasrid palaces visit
 - alhambra at your own pace
 - alhambra private tour granada
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
 imagenAlt: Courtyard of the Alhambra with palm trees reflected in a water channel
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp

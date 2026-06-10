@@ -104,7 +104,7 @@ keywords:
 - tour privado palacios nazaries
 - visita privada alhambra granada
 - alhambra inscripciones arabes
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero-hero.webp"
 imagenAlt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp

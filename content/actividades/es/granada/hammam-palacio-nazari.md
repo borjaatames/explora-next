@@ -96,7 +96,7 @@ keywords: ["hammam granada", "baños arabes granada", "palacio nazari hammam", "
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagenAlt: "Piscina del Hammam Palacio Nazarí en Granada con iluminación tradicional árabe"
 
 galeria:

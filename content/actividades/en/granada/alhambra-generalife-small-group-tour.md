@@ -107,7 +107,7 @@ keywords:
 - alhambra generalife tour
 - nasrid palaces small group
 - alhambra tickets granada
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp"
 imagenAlt: Hall of the Abencerrages with ornate ceiling and arches, Alhambra palace, Granada Spain
 galeria:
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp

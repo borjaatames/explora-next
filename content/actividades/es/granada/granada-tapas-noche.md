@@ -88,7 +88,7 @@ keywords: ["tapas tour granada noche", "vinos premium granada", "food tour noctu
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp"
 imagenAlt: "Calle del Albayzín de Granada al anochecer con bares iluminados"
 
 galeria:

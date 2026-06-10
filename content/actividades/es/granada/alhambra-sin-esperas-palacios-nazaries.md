@@ -107,7 +107,7 @@ keywords:
 - alhambra grupo reducido o privado
 - tour alhambra granada
 - alhambra palacios nazaries
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp"
 imagenAlt: Vistas panorámicas de Granada con la Alhambra al fondo
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp

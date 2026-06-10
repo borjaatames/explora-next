@@ -104,7 +104,7 @@ keywords:
 - nasrid palaces tour
 - alhambra tickets granada
 - alhambra skip the line
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
 imagenAlt: Granada's historic city center with traditional white buildings and mountain backdrop
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp

@@ -96,7 +96,7 @@ keywords: ["hammam granada", "arabic baths granada", "nasrid palace hammam", "gr
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagenAlt: "Pool at Hammam Palacio Nazarí in Granada with traditional Arab lighting"
 
 galeria:

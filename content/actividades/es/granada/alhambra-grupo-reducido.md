@@ -108,7 +108,7 @@ keywords:
 - alhambra palacios nazaries entradas
 - tour alhambra generalife
 - alhambra grupo pequeno
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
 imagenAlt: Patio de la Alhambra con palmeras reflejadas en una acequia
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp

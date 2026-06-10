@@ -100,7 +100,7 @@ keywords:
 - alhambra skip the line
 - nasrid palaces granada
 - alhambra tickets granada
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp"
 imagenAlt: Granada's historic architecture with narrow streets and traditional buildings
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp

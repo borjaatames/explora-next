@@ -88,7 +88,7 @@ keywords: ["tour tapas granada", "tapas vino granada", "tour gourmet granada", "
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
 imagenAlt: "Tapa tradicional granadina con copa de vino en bar del centro"
 
 galeria:

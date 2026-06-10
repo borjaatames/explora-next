@@ -93,7 +93,7 @@ keywords: ["hammam al andalus granada", "alhambra arabic baths", "hammam with ma
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
 imagenAlt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"
 
 galeria:

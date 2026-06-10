@@ -87,7 +87,7 @@ keywords: ["tapas tour granada", "albaicin tapas", "free tapas granada", "cheap 
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"
 imagenAlt: "Bar counter at a traditional tapas bar in Granada's Albayzín"
 
 galeria:

@@ -109,7 +109,7 @@ keywords:
 - alhambra nasrid palaces entry
 - alhambra guided tour granada
 - best value alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
 imagenAlt: Granada's historic streets with traditional architecture and narrow pathways
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp

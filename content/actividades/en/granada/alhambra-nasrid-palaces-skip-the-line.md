@@ -112,7 +112,7 @@ keywords:
 - nasrid palaces priority entry
 - alhambra guided tour granada
 - alhambra generalife tour
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+imagen: "/images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp"
 imagenAlt: Courtyard of the Alhambra with its columns and arches reflected in the water
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
