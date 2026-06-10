@@ -9,7 +9,7 @@ slugs:
   en: avila-salamanca-day-trip
 duracion: 11 horas
 duracionMinutos: 660
-precioDesde: 48.88
+precioDesde: 82
 moneda: EUR
 idiomas:
 - es
