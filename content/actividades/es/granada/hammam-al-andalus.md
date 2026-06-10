@@ -91,8 +91,7 @@ opinionEditorial: |
 categoria: "serviciosAdicionales"
 keywords: ["hammam al andalus granada", "baños arabes alhambra", "hammam con masaje granada", "spa premium granada", "experiencia árabe granada"]
 
-atraccionesRelacionadas:
-  - "alhambra"
+atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
 imagenAlt: "Interior del Hammam Al Ándalus de Granada con piscinas y arcos árabes"
