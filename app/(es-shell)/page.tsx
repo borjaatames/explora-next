@@ -97,7 +97,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="bg-sky-500 text-white">
         <div className="max-w-5xl mx-auto px-4 py-20 md:py-28 text-center">
-          <h1 className="font-playfair text-4xl md:text-6xl font-bold mb-6 leading-tight">
+          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight">
             Actividades y tours en España, elegidos con criterio
           </h1>
           <p className="text-lg md:text-xl text-sky-50 mb-8 max-w-2xl mx-auto leading-relaxed">
