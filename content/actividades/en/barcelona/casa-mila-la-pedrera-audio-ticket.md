@@ -91,7 +91,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila ticket", "la pedrera entrada", "casa mila audioguide", "la pedrera audio guide", "casa mila barcelona ticket"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-spain-jan-2007-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp"
 imagenAlt: "Casa Milà façade with warrior-chimney rooftop in Barcelona"
 
 galeria:

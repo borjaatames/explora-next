@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona cathedral ticket", "cathedral of barcelona entrance", "barri gotic cathedral", "santa esglesia catedral barcelona", "catedral de barcelona entry"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp"
 imagenAlt: "Barcelona Cathedral facade with Gothic spires in Pla de la Seu"
 
 galeria:

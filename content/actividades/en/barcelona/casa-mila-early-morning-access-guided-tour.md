@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila early morning tour", "la pedrera sunrise tour", "casa mila guided tour", "la pedrera before opening", "casa mila small group tour"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp"
 imagenAlt: "Casa Milà rooftop at sunrise with no crowds"
 
 galeria:

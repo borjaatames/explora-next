@@ -93,7 +93,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell ticket", "park guell admission", "park guell entry barcelona", "park guell skip the line", "park guell tickets online"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp"
 imagenAlt: "Park Güell monumental zone with Gaudí mosaics and Barcelona views"
 
 galeria:

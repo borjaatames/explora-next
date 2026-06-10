@@ -95,7 +95,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell express viator", "park guell with transport", "city wonders park guell", "park guell skip line transport", "park guell viator combined"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
 imagenAlt: "Park Güell in Barcelona, panoramic view from the main terrace"
 
 galeria:

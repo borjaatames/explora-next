@@ -101,7 +101,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["3 gaudi houses tour barcelona", "casa batllo casa mila casa vicens", "gaudi houses guided tour", "the touring pandas gaudi", "small group gaudi tour barcelona"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp"
 imagenAlt: "Casa Batlló, Casa Milà and Casa Vicens — Gaudí's three Barcelona houses"
 
 galeria:

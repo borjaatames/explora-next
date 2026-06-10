@@ -99,7 +99,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa batllo night visit", "casa batllo concert rooftop", "casa batllo live music", "casa batllo night tour", "casa batllo jazz flamenco"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp"
 imagenAlt: "Casa Batlló rooftop at night with live music and Barcelona views"
 
 galeria:

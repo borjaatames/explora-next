@@ -99,7 +99,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila night experience", "la pedrera de noche", "casa mila tour nocturno", "la pedrera rooftop projections", "casa mila cava"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-chimney-roof-barcelona-2014-3-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-detailed-view-curving-stone-hero.webp"
 imagenAlt: "Casa Milà rooftop at night with audiovisual projections on the warrior chimneys"
 
 galeria:

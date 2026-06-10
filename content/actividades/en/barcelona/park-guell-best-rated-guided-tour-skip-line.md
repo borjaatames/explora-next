@@ -96,7 +96,7 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell guided tour", "park guell skip the line tour", "park guell golden tour guide", "park guell best tour", "park guell tour with guide barcelona"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
 imagenAlt: "Park Güell guided tour group on the serpentine bench terrace"
 
 galeria:
