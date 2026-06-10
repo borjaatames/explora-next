@@ -224,21 +224,21 @@ export default function Footer({ idioma }: Props) {
         </div>
 
         {/* Bloque pago seguro */}
-        <div className="border-t border-slate-800 pt-8 mb-6">
-          <p className="text-center text-sm text-white font-semibold mb-4 flex items-center justify-center gap-2">
+        <div className="border-t border-slate-800 pt-12 pb-4 mb-8">
+          <p className="text-center text-sm text-white font-semibold mb-8 flex items-center justify-center gap-2">
             <IconLock />
             {t.pagoSeguro}
           </p>
 
           {/* Partners */}
-          <div className="flex justify-center items-center gap-3 flex-wrap mb-4">
+          <div className="flex justify-center items-center gap-3 flex-wrap mb-8">
             <SelloChip texto="VIATOR" color="#1a1f71" size="lg" italic />
             <span className="text-slate-600 text-xs">+</span>
             <SelloChip texto="GetYourGuide" color="#f25c00" size="lg" />
           </div>
 
           {/* Métodos de pago — logos SVG inline. */}
-          <div className="flex justify-center items-center gap-2 flex-wrap">
+          <div className="flex justify-center items-center gap-3 flex-wrap">
             <LogoVisa />
             <LogoMastercard />
             <LogoAmex />
@@ -448,8 +448,8 @@ function IconLock() {
 function LogoPagoWrapper({ children, title }: { children: React.ReactNode; title: string }) {
   return (
     <div
-      className="bg-white rounded h-6 px-2 flex items-center justify-center"
-      style={{ minWidth: "38px" }}
+      className="bg-white rounded h-9 px-3 flex items-center justify-center"
+      style={{ minWidth: "54px" }}
       aria-label={title}
       title={title}
     >
@@ -461,7 +461,7 @@ function LogoPagoWrapper({ children, title }: { children: React.ReactNode; title
 function LogoVisa() {
   return (
     <LogoPagoWrapper title="Visa">
-      <svg width="36" height="14" viewBox="0 0 60 22" xmlns="http://www.w3.org/2000/svg">
+      <svg width="48" height="20" viewBox="0 0 60 22" xmlns="http://www.w3.org/2000/svg">
         <text
           x="30"
           y="17"
@@ -483,7 +483,7 @@ function LogoVisa() {
 function LogoMastercard() {
   return (
     <LogoPagoWrapper title="Mastercard">
-      <svg width="32" height="20" viewBox="0 0 32 20" xmlns="http://www.w3.org/2000/svg">
+      <svg width="44" height="28" viewBox="0 0 32 20" xmlns="http://www.w3.org/2000/svg">
         <circle cx="12" cy="10" r="8" fill="#EB001B" />
         <circle cx="20" cy="10" r="8" fill="#F79E1B" />
         <path
@@ -498,12 +498,12 @@ function LogoMastercard() {
 function LogoAmex() {
   return (
     <div
-      className="rounded h-6 px-2 flex items-center justify-center"
-      style={{ minWidth: "38px", background: "#006FCF" }}
+      className="rounded h-9 px-3 flex items-center justify-center"
+      style={{ minWidth: "54px", background: "#006FCF" }}
       aria-label="American Express"
       title="American Express"
     >
-      <svg width="34" height="14" viewBox="0 0 60 22" xmlns="http://www.w3.org/2000/svg">
+      <svg width="46" height="20" viewBox="0 0 60 22" xmlns="http://www.w3.org/2000/svg">
         <text
           x="30"
           y="16"
@@ -524,7 +524,7 @@ function LogoAmex() {
 function LogoPaypal() {
   return (
     <LogoPagoWrapper title="PayPal">
-      <svg width="42" height="14" viewBox="0 0 70 22" xmlns="http://www.w3.org/2000/svg">
+      <svg width="58" height="20" viewBox="0 0 70 22" xmlns="http://www.w3.org/2000/svg">
         <text
           x="2"
           y="17"
@@ -545,7 +545,7 @@ function LogoPaypal() {
 function LogoApplePay() {
   return (
     <LogoPagoWrapper title="Apple Pay">
-      <svg width="40" height="16" viewBox="0 0 50 20" xmlns="http://www.w3.org/2000/svg">
+      <svg width="54" height="22" viewBox="0 0 50 20" xmlns="http://www.w3.org/2000/svg">
         <g fill="#000">
           {/* Manzana simplificada */}
           <path d="M12.5 6.4c-.4-.5-1-.8-1.6-.8-.3 0-.7.1-1 .3-.3-.2-.7-.3-1-.3-.8 0-1.4.4-1.7 1-.6.9-.3 2.3.4 3.4.4.6.8 1.3 1.4 1.3.6 0 .8-.3 1.4-.3.7 0 .8.3 1.4.3.6 0 1-.7 1.4-1.3.3-.5.4-1 .6-1.4-1.1-.5-1-1.7-.3-2.2zM10.6 4.4c.3-.4.6-1 .5-1.6-.5 0-1 .4-1.3.7-.3.4-.5.9-.5 1.5.5 0 1-.2 1.3-.6z" />
@@ -568,7 +568,7 @@ function LogoApplePay() {
 function LogoGooglePay() {
   return (
     <LogoPagoWrapper title="Google Pay">
-      <svg width="48" height="16" viewBox="0 0 60 20" xmlns="http://www.w3.org/2000/svg">
+      <svg width="62" height="22" viewBox="0 0 60 20" xmlns="http://www.w3.org/2000/svg">
         {/* G de Google en sus colores */}
         <text x="2" y="15" fontFamily="Helvetica, Arial, sans-serif" fontWeight="700" fontSize="14">
           <tspan fill="#4285F4">G</tspan>
