@@ -99,12 +99,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila night experience", "la pedrera de noche", "casa mila tour nocturno", "la pedrera rooftop projections", "casa mila cava"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-chimney-roof-barcelona-2014-3-hero.webp"
 imagenAlt: "Casa Milà rooftop at night with audiovisual projections on the warrior chimneys"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
-    alt: "Casa Milà night experience in Barcelona"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-chimney-roof-barcelona-2014-3-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí — rooftop (in the Eixample, Barcelona)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-close-up-view-unique-facade-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí — facade (in the Eixample, Barcelona)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-detailed-view-curving-stone-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí — architectural detail (in the Eixample, Barcelona)
 
 ratingProveedor: 4.4
 numeroOpiniones: 4913

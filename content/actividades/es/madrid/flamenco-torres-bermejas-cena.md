@@ -95,8 +95,12 @@ imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.we
 imagenAlt: "Gran Vía de Madrid, zona donde está el Tablao Torres Bermejas"
 
 galeria:
-  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
-    alt: "Zona Gran Vía de Madrid próxima al Tablao Torres Bermejas"
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
+  alt: Gran Vía de Madrid — vista aérea (con su arquitectura monumental)
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
+  alt: Gran Vía de Madrid con su arquitectura monumental (vista 2)
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
+  alt: Gran Vía de Madrid con su arquitectura monumental (vista 3)
 
 ratingProveedor: 4.5
 numeroOpiniones: 10330

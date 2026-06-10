@@ -99,8 +99,12 @@ imagen: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-p
 imagenAlt: "Retiro Park in Madrid, setting for the segway tour"
 
 galeria:
-  - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
-    alt: "Palacio de Cristal in Retiro Park"
+- src: /images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp
+  alt: Retiro Park in central Madrid (view 1)
+- src: /images/actividades/madrid/retiro/parque-del-retiro-madrid-own-crystal-palace-hero.webp
+  alt: Retiro Park in central Madrid (view 2)
+- src: /images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-03-hero.webp
+  alt: Retiro Park in central Madrid (view 3)
 
 ratingProveedor: 4.8
 numeroOpiniones: 282

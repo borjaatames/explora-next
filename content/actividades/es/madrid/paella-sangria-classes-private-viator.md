@@ -97,8 +97,12 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Cocina española tradicional"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Cocina española tradicional"
+- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
+  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
+  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp
+  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
 
 ratingProveedor: 5.0
 numeroOpiniones: 287

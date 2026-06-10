@@ -95,11 +95,11 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["picasso museum barcelona tour", "skip the line picasso barcelona", "museu picasso guided tour", "barcelona picasso multilingual tour", "el born picasso museum"]
 
-imagen: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Picasso Museum facade on Carrer de Montcada in the El Born quarter"
 
 galeria:
-  - src: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Museu Picasso Barcelona facade on Carrer de Montcada in the El Born quarter"
 
 ratingProveedor: 4.5

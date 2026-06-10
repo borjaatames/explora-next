@@ -47,11 +47,11 @@ keywords:
 atraccionesRelacionadas:
   - alcazaba-gibralfaro
   - centro-historico
-imagen: "/images/actividades/malaga/alcazaba/alcazaba-malaga-hero.webp"
+imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "Murallas y jardines de la Alcazaba de Málaga con el puerto al fondo"
 
 galeria:
-  - src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-hero.webp"
+  - src: "/images/actividades/malaga/ciudades/malaga-hero.webp"
     alt: "Murallas y jardines de la Alcazaba de Málaga con el puerto al fondo"
 ratingProveedor: 4.9
 numeroOpiniones: 7

@@ -96,12 +96,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila early morning tour", "la pedrera sunrise tour", "casa mila guided tour", "la pedrera before opening", "casa mila small group tour"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
 imagenAlt: "Casa Milà rooftop at sunrise with no crowds"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
-    alt: "Casa Milà early morning guided tour"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-iron-gate-pedrera-by-gaudi-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 1)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-50335341691-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 2)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-barcelona-catalonia-antoni-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 3)
 
 ratingProveedor: 4.8
 numeroOpiniones: 220

@@ -96,12 +96,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["entrada catedral barcelona", "ticket catedral de barcelona", "catedral gotica barcelona", "santa esglesia catedral barcelona", "visita catedral barri gotic"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp"
 imagenAlt: "Fachada gótica de la Catedral de Barcelona en el Pla de la Seu"
 
 galeria:
-  - src: "/images/actividades/barcelona/catedral/catedral-hero.webp"
-    alt: "Fachada gótica de la Catedral de Barcelona en el Barri Gòtic"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp
+  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
+  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp
+  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
 
 ratingProveedor: 4.5
 numeroOpiniones: 1916

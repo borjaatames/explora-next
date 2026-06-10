@@ -96,11 +96,11 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["picasso museum small group", "tours for today picasso barcelona", "picasso museum skip line tour", "barcelona picasso guided tour", "museu picasso visit"]
 
-imagen: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Picasso Museum interior with small group guided tour in El Born"
 
 galeria:
-  - src: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Picasso Museum Barcelona galleries with Tours For Today small group"
 
 ratingProveedor: 4.6

@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell gaudi house museum ticket", "park guell combo ticket", "park guell museum gaudi", "gaudi house museum park guell", "park guell combined entry"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
 imagenAlt: "Park Güell with the Gaudí House Museum in the background"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell and Gaudí House Museum in Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
+  alt: Park Güell by Gaudí — aerial view (with panoramic views of Barcelona)
 
 ratingProveedor: 4.5
 numeroOpiniones: 7565

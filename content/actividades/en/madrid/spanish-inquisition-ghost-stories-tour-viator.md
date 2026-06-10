@@ -95,8 +95,12 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2
 imagenAlt: "Historic streets of Madrid — setting for the night tour"
 
 galeria:
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Madrid's historic centre"
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
+  alt: Historic streets of old Madrid (view 1)
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
+  alt: Historic streets of old Madrid (view 2)
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
+  alt: Historic streets — facade (of old Madrid)
 
 ratingProveedor: 4.7
 numeroOpiniones: 325

@@ -95,11 +95,11 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour museo picasso barcelona", "museo picasso sin colas", "museu picasso visita guiada", "tour multilingue picasso barcelona", "museo picasso el born"]
 
-imagen: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Fachada del Museo Picasso en Carrer de Montcada en el barrio del Born"
 
 galeria:
-  - src: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Fachada del Museu Picasso Barcelona en Carrer de Montcada en El Born"
 
 ratingProveedor: 4.5

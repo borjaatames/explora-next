@@ -94,12 +94,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila viator audio", "la pedrera viator ticket", "casa mila fundacio catalunya la pedrera", "la pedrera audio guide viator", "casa mila skip the line viator"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp"
 imagenAlt: "Casa Milà façade and rooftop in Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
-    alt: "Casa Milà audio admission ticket via Viator"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 1)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 2)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-barcelona-spain-jan-2007-hero.webp
+  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 3)
 
 ratingProveedor: 4.5
 numeroOpiniones: 1052

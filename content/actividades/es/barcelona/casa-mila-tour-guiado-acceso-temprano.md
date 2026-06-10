@@ -97,12 +97,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa mila tour temprano", "la pedrera amanecer tour", "casa mila tour guiado", "la pedrera antes apertura", "casa mila grupo reducido"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp"
 imagenAlt: "Terraza de Casa Milà al amanecer sin gente"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
-    alt: "Tour guiado madrugador en Casa Milà"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-iron-gate-pedrera-by-gaudi-hero.webp
+  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 1)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-50335341691-hero.webp
+  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 2)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-barcelona-catalonia-antoni-hero.webp
+  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 3)
 
 ratingProveedor: 4.8
 numeroOpiniones: 220

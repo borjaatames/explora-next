@@ -98,11 +98,11 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["picasso walking tour barcelona", "picasso museum and walking tour", "el born picasso walking tour", "picasso museum top rated barcelona", "picasso footsteps barcelona"]
 
-imagen: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "El Born neighborhood and Picasso Museum walking tour route"
 
 galeria:
-  - src: "/images/actividades/barcelona/museo-picasso/museo-picasso-hero.webp"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "El Born medieval streets and Picasso Museum on Carrer de Montcada"
 
 ratingProveedor: 4.8

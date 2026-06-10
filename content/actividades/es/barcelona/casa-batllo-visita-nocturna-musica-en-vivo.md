@@ -99,12 +99,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa batllo visita nocturna", "casa batllo concierto terraza", "casa batllo musica en vivo", "casa batllo tour de noche", "casa batllo jazz flamenco"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp"
 imagenAlt: "Terraza de Casa Batlló de noche con música en vivo y vistas de Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
-    alt: "Visita nocturna a Casa Batlló con concierto en terraza en Barcelona"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
+  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 1)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero.webp
+  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 2)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp
+  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
 
 ratingProveedor: 4.5
 numeroOpiniones: 377

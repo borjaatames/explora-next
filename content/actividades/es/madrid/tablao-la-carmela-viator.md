@@ -91,8 +91,12 @@ imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-6394609563-hero
 imagenAlt: "Puerta del Sol de Madrid, junto al Tablao La Carmela"
 
 galeria:
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-6394609563-hero.webp"
-    alt: "Puerta del Sol de Madrid"
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp
+  alt: Puerta del Sol en el corazón de Madrid (vista 1)
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-crowd-people-walking-down-street-hero.webp
+  alt: Puerta del Sol en el corazón de Madrid (vista 2)
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-foto-19240901-hero.webp
+  alt: Puerta del Sol en el corazón de Madrid (vista 3)
 
 ratingProveedor: 4.2
 numeroOpiniones: 32

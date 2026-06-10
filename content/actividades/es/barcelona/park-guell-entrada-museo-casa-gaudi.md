@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell museo casa gaudi entrada", "park guell combo museo", "casa museo gaudi park guell", "entrada combinada park guell", "park guell con museo gaudi"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp"
 imagenAlt: "Park Güell con la Casa Museo Gaudí al fondo"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell y Casa Museo Gaudí en Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
+  alt: Park Güell de Gaudí — vista aérea (con vistas panorámicas de Barcelona)
 
 ratingProveedor: 4.5
 numeroOpiniones: 7565

@@ -37,11 +37,11 @@ keywords:
 atraccionesRelacionadas:
   - casco-medieval
   - catedral
-imagen: "/images/actividades/girona/casco-medieval/girona-casco-antiguo-hero.webp"
+imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Girona Cathedral at the top of its monumental staircase"
 
 galeria:
-  - src: "/images/actividades/girona/casco-medieval/girona-casco-antiguo-hero.webp"
+  - src: "/images/actividades/girona/ciudades/girona-hero.webp"
     alt: "Girona Cathedral at the top of its monumental staircase"
 publicada: true
 destacada: false

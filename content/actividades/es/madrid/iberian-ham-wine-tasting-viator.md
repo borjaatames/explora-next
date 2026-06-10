@@ -99,8 +99,12 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Jamón ibérico y productos gourmet españoles"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Jamón ibérico y croquetas"
+- src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp
+  alt: Tapas españolas típicas de la gastronomía madrileña (vista 1)
+- src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
+  alt: Tapas españolas típicas de la gastronomía madrileña (vista 2)
+- src: /images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp
+  alt: Tapas españolas típicas de la gastronomía madrileña (vista 3)
 
 ratingProveedor: 5.0
 numeroOpiniones: 178

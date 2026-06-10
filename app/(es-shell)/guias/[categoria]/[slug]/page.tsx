@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   // Imagen absoluta para Open Graph (necesaria en WhatsApp, Twitter, LinkedIn).
   const imagenRelativa =
-    guia.imagen_portada || guia.imagen || "/images/og-default.jpg";
+    guia.imagen_portada || guia.imagen || "/images/actividades/barcelona/sagrada-familia/pexels-11565894-og.jpg";
   const imagenAbsoluta = imagenRelativa.startsWith("http")
     ? imagenRelativa
     : `${SITE_URL}${imagenRelativa}`;
@@ -101,7 +101,7 @@ export default async function GuiaPage({ params }: Props) {
 
   // Imagen absoluta para JSON-LD (Google la requiere completa).
   const imagenRelativa =
-    guia.imagen_portada || guia.imagen || "/images/og-default.jpg";
+    guia.imagen_portada || guia.imagen || "/images/actividades/barcelona/sagrada-familia/pexels-11565894-og.jpg";
   const imagenAbsoluta = imagenRelativa.startsWith("http")
     ? imagenRelativa
     : `${SITE_URL}${imagenRelativa}`;

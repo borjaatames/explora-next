@@ -95,12 +95,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa batllo tour guia experto", "casa batllo viator guiado", "casa batllo grupo reducido", "casa batllo guia licenciado", "we are guides barcelona casa batllo"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp"
 imagenAlt: "Grupo de tour con guía experto en Casa Batlló en Passeig de Gràcia"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
-    alt: "Tour guiado de Casa Batlló con guía licenciado vía Viator"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp
+  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 1)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp
+  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 2)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
+  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
 
 ratingProveedor: 5.0
 numeroOpiniones: 17

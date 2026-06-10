@@ -95,12 +95,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell express viator", "park guell con transporte", "city wonders park guell", "park guell sin colas transporte", "park guell viator combinado"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
 imagenAlt: "Park Güell de Barcelona, vista panorámica desde la terraza principal"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell de Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
+  alt: Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)
 
 ratingProveedor: 4.5
 numeroOpiniones: 386

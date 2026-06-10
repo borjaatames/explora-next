@@ -49,11 +49,11 @@ keywords:
   - "what to do near malaga"
 atraccionesRelacionadas:
   - caminito-del-rey
-imagen: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-hero.webp"
+imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "The Caminito del Rey walkway hung in the Gaitanes gorge, Málaga"
 
 galeria:
-  - src: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-hero.webp"
+  - src: "/images/actividades/malaga/ciudades/malaga-hero.webp"
     alt: "The Caminito del Rey walkway hung in the Gaitanes gorge, Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 726

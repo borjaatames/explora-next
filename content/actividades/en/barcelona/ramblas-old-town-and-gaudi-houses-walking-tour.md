@@ -101,11 +101,11 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona ramblas walking tour", "old town gaudi walking tour barcelona", "barcelona top rated walking tour", "passeig de gracia walking tour", "barcelona gothic quarter english tour"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp"
 imagenAlt: "La Rambla and Gothic Quarter combined with Passeig de Gracia"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Barcelona Old Town Gothic Quarter route and Passeig de Gracia Gaudi houses"
 
 ratingProveedor: 4.8

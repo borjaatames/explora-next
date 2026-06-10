@@ -101,12 +101,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["3 gaudi houses tour barcelona", "casa batllo casa mila casa vicens", "gaudi houses guided tour", "the touring pandas gaudi", "small group gaudi tour barcelona"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero.webp"
 imagenAlt: "Casa Batlló, Casa Milà and Casa Vicens — Gaudí's three Barcelona houses"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
-    alt: "3 Gaudí houses tour in Barcelona"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero.webp
+  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 1)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
+  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 2)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp
+  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 3)
 
 ratingProveedor: 4.6
 numeroOpiniones: 331

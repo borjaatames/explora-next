@@ -94,12 +94,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["entradas casa mila", "la pedrera entrada audioguia", "casa mila ticket online", "la pedrera sin colas", "casa mila precio entrada"]
 
-imagen: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
+imagen: "/images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp"
 imagenAlt: "Fachada de Casa Milà con la terraza de chimeneas-guerrero en Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-mila/casa-mila-hero.webp"
-    alt: "Casa Milà / La Pedrera en Barcelona"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp
+  alt: Casa Milà (La Pedrera) de Gaudí — azotea (en el Eixample de Barcelona)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp
+  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 2)
+- src: /images/actividades/barcelona/casa-mila/casa-mila-general-view-hero.webp
+  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 3)
 
 ratingProveedor: 4.7
 numeroOpiniones: 18195

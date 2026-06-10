@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["entradas park guell", "ticket park guell barcelona", "park guell sin colas", "entrada park guell online", "park guell precio entrada"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp"
 imagenAlt: "Zona monumental del Park Güell con mosaicos de Gaudí y vistas de Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Zona monumental del Park Güell en Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
+  alt: Park Güell de Gaudí — vista aérea (con vistas panorámicas de Barcelona)
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
+  alt: Park Güell de Gaudí — vista aérea (con vistas panorámicas de Barcelona)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 3)
 
 ratingProveedor: 4.4
 numeroOpiniones: 81572

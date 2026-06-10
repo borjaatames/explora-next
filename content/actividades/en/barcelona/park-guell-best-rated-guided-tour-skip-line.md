@@ -96,12 +96,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell guided tour", "park guell skip the line tour", "park guell golden tour guide", "park guell best tour", "park guell tour with guide barcelona"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp"
 imagenAlt: "Park Güell guided tour group on the serpentine bench terrace"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell guided tour with Golden Tour Guide in Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp
+  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
 
 ratingProveedor: 4.7
 numeroOpiniones: 19407

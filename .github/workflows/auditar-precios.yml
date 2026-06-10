@@ -1,0 +1,77 @@
+name: Auditar precios y vigencia de actividades
+
+# Cuándo se ejecuta:
+#   - Cada día a las 06:00 UTC (08:00 hora España en verano, 07:00 en invierno).
+#   - Manual desde la pestaña Actions → Run workflow → branch main.
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+# Necesita poder commitear el CSV del día al repo.
+permissions:
+  contents: write
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      VIATOR_API_KEY: ${{ secrets.VIATOR_API_KEY }}
+      VIATOR_API_BASE: ${{ secrets.VIATOR_API_BASE }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run audit
+        id: audit
+        # Forzamos un exit 0 aquí para que SIEMPRE lleguemos a los pasos de
+        # commit/artefacto, aunque el script haya marcado alertas. Más abajo
+        # convertimos el código del script en `failed` para decidir si el
+        # workflow falla (y por tanto manda la notificación al dueño).
+        run: |
+          set +e
+          npx tsx scripts/auditar-precios-actividades.ts | tee audit.log
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+          set -e
+
+      - name: Upload CSV as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: auditoria-precios-${{ github.run_number }}
+          path: |
+            auditorias/*.csv
+            audit.log
+          retention-days: 90
+          if-no-files-found: warn
+
+      - name: Commit CSV del día
+        run: |
+          if [ -d "auditorias" ] && [ "$(ls -A auditorias 2>/dev/null)" ]; then
+            git config user.name "exploraspain-bot"
+            git config user.email "bot@exploraspain.com"
+            git add auditorias/
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(auditoria): reporte diario de precios [skip ci]"
+              git push
+            else
+              echo "Sin cambios en auditorias/"
+            fi
+          fi
+
+      - name: Fail si hubo alertas críticas
+        if: steps.audit.outputs.exit_code != '0'
+        run: |
+          echo "🚨 La auditoría reportó alertas críticas. Mira el log y el CSV."
+          exit 1

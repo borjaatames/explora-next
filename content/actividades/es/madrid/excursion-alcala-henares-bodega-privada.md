@@ -127,9 +127,9 @@ galeria:
   alt: Torre del Reloj del Ayuntamiento de Alcalá de Henares
 - src: /images/actividades/madrid/tapas-madrid/pexels-28826629-hero.webp
   alt: Paisaje urbano de Madrid con arquitectura histórica y calles concurridas
-- src: /images/actividades/madrid/bodegas-vino/01.webp
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
   alt: Bodega de vinos en la región de Madrid, parte del tour a Alcalá de Henares
-- src: /images/actividades/madrid/bodegas-vino/01.webp
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
   alt: Bodega de vinos cerca de Madrid
 ratingProveedor: 4.1
 numeroOpiniones: 16

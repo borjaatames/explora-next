@@ -101,11 +101,11 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona hidden gems walking tour", "el born gothic quarter small group", "barcelona top rated walking tour 4.9", "barcelona hidden corners tour", "barri gotic el born walking tour"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp"
 imagenAlt: "Hidden corners of Gothic Quarter and El Born neighborhoods Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Hidden alleys and medieval squares in Gothic Quarter and El Born Barcelona"
 
 ratingProveedor: 4.9

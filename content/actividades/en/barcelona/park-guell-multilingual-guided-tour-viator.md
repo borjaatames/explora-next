@@ -99,12 +99,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour viator multilingual", "park guell french tour", "park guell guided tour spanish", "park guell tour with skip the line viator", "tours for today park guell"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp"
 imagenAlt: "Park Güell multilingual guided tour group at the serpentine terrace"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell guided tour with Tours for Today via Viator"
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 3)
 
 ratingProveedor: 4.3
 numeroOpiniones: 265

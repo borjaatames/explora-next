@@ -129,7 +129,7 @@ galeria:
   alt: Gran Vía de Madrid, uno de los puntos de la ruta del Big Bus
 - src: /images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp
   alt: Autobús turístico de EMT en Madrid con pasajeros en la azotea descubierta
-- src: /images/actividades/madrid/plaza-cibeles/01.webp
+- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-city-street-ornate-white-hero.webp
   alt: Plaza de Cibeles, en la ruta del Big Bus
 ratingProveedor: 4.2
 numeroOpiniones: 904

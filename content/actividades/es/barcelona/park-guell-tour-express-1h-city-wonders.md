@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour 1 hora", "park guell express", "park guell tour rapido", "park guell city wonders", "park guell skip line ingles"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp"
 imagenAlt: "Park Güell de Barcelona, escalinata principal con mosaicos"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell de Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 3)
 
 ratingProveedor: 4.4
 numeroOpiniones: 1851

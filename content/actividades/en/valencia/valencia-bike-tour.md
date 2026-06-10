@@ -50,11 +50,11 @@ keywords:
 atraccionesRelacionadas:
   - centro-historico
   - ciudad-artes-ciencias
-imagen: "/images/actividades/valencia/ciudad-artes/valencia-bike-tour-hero.webp"
+imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
 imagenAlt: "Group cycling in front of the City of Arts and Sciences in Valencia"
 
 galeria:
-  - src: "/images/actividades/valencia/ciudad-artes/valencia-bike-tour-hero.webp"
+  - src: "/images/actividades/valencia/ciudades/valencia-hero.webp"
     alt: "Group cycling in front of the City of Arts and Sciences in Valencia"
 ratingProveedor: 4.7
 numeroOpiniones: 289

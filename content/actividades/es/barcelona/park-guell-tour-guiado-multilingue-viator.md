@@ -99,12 +99,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour viator multilingue", "park guell tour frances", "park guell tour guiado en español", "park guell tour sin colas viator", "tours for today park guell"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-architecture-hero.webp"
 imagenAlt: "Grupo en tour multilingüe del Park Güell en la terraza serpenteante"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Tour guiado del Park Güell con Tours for Today vía Viator"
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 3)
 
 ratingProveedor: 4.3
 numeroOpiniones: 265

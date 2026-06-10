@@ -98,12 +98,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona cathedral rooftop tour", "private cathedral tour barcelona", "barcelona cathedral terraces", "catedral barcelona guided tour", "barri gotic private tour"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"
 imagenAlt: "Barcelona Cathedral rooftop terraces with views over Barri Gotic"
 
 galeria:
-  - src: "/images/actividades/barcelona/catedral/catedral-hero.webp"
-    alt: "Barcelona Cathedral terraces and rooftop with city views"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp
+  alt: Barcelona Cathedral — interior (in the Gothic Quarter)
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+  alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp
+  alt: Barcelona Cathedral — facade (in the Gothic Quarter)
 
 ratingProveedor: 4.5
 numeroOpiniones: 176

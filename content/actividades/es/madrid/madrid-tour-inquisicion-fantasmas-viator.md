@@ -95,8 +95,12 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2
 imagenAlt: "Calles del casco antiguo de Madrid - escenario del tour nocturno"
 
 galeria:
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Casco antiguo de Madrid"
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
+  alt: Calles históricas del Madrid antiguo (vista 1)
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
+  alt: Calles históricas del Madrid antiguo (vista 2)
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
+  alt: Calles históricas — fachada (del Madrid antiguo)
 
 ratingProveedor: 4.7
 numeroOpiniones: 325

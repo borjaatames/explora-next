@@ -92,12 +92,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell grupo reducido", "park guell amigo tours", "park guell tour bilingue", "park guell tour pequeno", "park guell skip line grupo"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero.webp"
 imagenAlt: "Park Güell de Barcelona, mosaicos en la terraza principal"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell de Barcelona"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp
+  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 3)
 
 ratingProveedor: 4.3
 numeroOpiniones: 318

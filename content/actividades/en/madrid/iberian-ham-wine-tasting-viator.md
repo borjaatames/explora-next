@@ -99,8 +99,12 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Iberian ham and Spanish gourmet products"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Iberian ham and croquetas"
+- src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp
+  alt: "Spanish tapas from Madrid's traditional cuisine (view 1)"
+- src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
+  alt: "Spanish tapas from Madrid's traditional cuisine (view 2)"
+- src: /images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp
+  alt: "Spanish tapas from Madrid's traditional cuisine (view 3)"
 
 ratingProveedor: 5.0
 numeroOpiniones: 178

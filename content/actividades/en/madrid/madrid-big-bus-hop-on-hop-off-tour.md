@@ -127,7 +127,7 @@ galeria:
   alt: Madrid's Gran Vía, one of the stops on the Big Bus route
 - src: /images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp
   alt: EMT Madrid tourist bus in traffic, iconic red and white public transport vehicle
-- src: /images/actividades/madrid/plaza-cibeles/01.webp
+- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-city-street-ornate-white-hero.webp
   alt: Plaza de Cibeles, on the Big Bus route
 ratingProveedor: 4.2
 numeroOpiniones: 904

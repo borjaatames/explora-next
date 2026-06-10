@@ -100,12 +100,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["casa batllo night visit", "casa batllo cava", "casa batllo evening tour", "casa batllo welcome drink", "casa batllo night ticket"]
 
-imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
+imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
 imagenAlt: "Casa Batlló at night illuminated on Passeig de Gràcia"
 
 galeria:
-  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-hero.webp"
-    alt: "Casa Batlló night visit with welcome drink in Barcelona"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero.webp
+  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 1)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp
+  alt: Casa Batlló by Gaudí — night view (on Passeig de Gràcia, Barcelona)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 3)
 
 ratingProveedor: 4.4
 numeroOpiniones: 1930

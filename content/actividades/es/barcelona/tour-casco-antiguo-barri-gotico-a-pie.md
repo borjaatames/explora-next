@@ -101,12 +101,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour barri gotic barcelona", "tour barrio gotico castellano", "casco antiguo barcelona andando", "la rambla tour guiado", "barcelona barri gotic español"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
 imagenAlt: "Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
-    alt: "Calles medievales del Barri Gòtic y Pla de la Seu en el casco antiguo"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Barrio Gótico de Barcelona con sus calles medievales (vista 1)
+- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
+  alt: Barrio Gótico de Barcelona con sus calles medievales (vista 2)
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: Barrio Gótico de Barcelona con sus calles medievales (vista 3)
 
 ratingProveedor: 4.8
 numeroOpiniones: 1582

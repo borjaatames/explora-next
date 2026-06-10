@@ -49,11 +49,11 @@ keywords:
   - "que hacer cerca de malaga"
 atraccionesRelacionadas:
   - caminito-del-rey
-imagen: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-hero.webp"
+imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "Pasarela del Caminito del Rey colgada en el desfiladero de los Gaitanes, Málaga"
 
 galeria:
-  - src: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-hero.webp"
+  - src: "/images/actividades/malaga/ciudades/malaga-hero.webp"
     alt: "Pasarela del Caminito del Rey colgada en el desfiladero de los Gaitanes, Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 726

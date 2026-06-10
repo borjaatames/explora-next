@@ -49,11 +49,11 @@ keywords:
   - "what to see near cordoba"
 atraccionesRelacionadas:
   - medina-azahara
-imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-hero.webp"
+imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
 
 galeria:
-  - src: "/images/actividades/cordoba/medina-azahara/medina-azahara-hero.webp"
+  - src: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
     alt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
 ratingProveedor: 4.9
 numeroOpiniones: 244

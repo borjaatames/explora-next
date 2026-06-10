@@ -100,8 +100,12 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Cocina española tradicional, referencia visual del taller de paella en Madrid"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Cocina tradicional española"
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
+  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
+  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+- src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
+  alt: Tapas españolas típicas de la gastronomía madrileña (vista 3)
 
 ratingProveedor: 4.9
 numeroOpiniones: 1448

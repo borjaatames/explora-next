@@ -47,11 +47,11 @@ keywords:
   - "cook valencian paella"
   - "valencia food tour"
   - "ruzafa market"
-imagen: "/images/actividades/valencia/gastronomia/clase-paella-valencia-hero.webp"
+imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
 imagenAlt: "Valencian paella cooking over the fire in a cooking class in Valencia"
 
 galeria:
-  - src: "/images/actividades/valencia/gastronomia/clase-paella-valencia-hero.webp"
+  - src: "/images/actividades/valencia/ciudades/valencia-hero.webp"
     alt: "Valencian paella cooking over the fire in a cooking class in Valencia"
 ratingProveedor: 4.97
 numeroOpiniones: 1005

@@ -101,12 +101,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["tour catedral barcelona realidad virtual", "tour vr catedral barcelona", "catedral barcelona guiado vr", "catedral barcelona tour guiado", "realidad virtual catedral barri gotic"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-hero.webp"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp"
 imagenAlt: "Catedral de Barcelona con experiencia VR en la terraza"
 
 galeria:
-  - src: "/images/actividades/barcelona/catedral/catedral-hero.webp"
-    alt: "Terraza de la Catedral de Barcelona con instalación de realidad virtual"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp
+  alt: Catedral de Barcelona — interior (en el Barrio Gótico)
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp
+  alt: Catedral de Barcelona — interior (en el Barrio Gótico)
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-saint-eulalia-hero.webp
+  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
 
 ratingProveedor: 4.5
 numeroOpiniones: 205

@@ -95,12 +95,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell guided tour", "park guell fast track ticket", "park guell gaudi tour", "park guell barcelona guided visit", "park guell skip the line"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp"
 imagenAlt: "Panoramic view of Park Güell with its characteristic mosaics"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-hero.webp"
-    alt: "Park Güell in Barcelona, main terrace with Gaudí mosaics"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp
+  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp
+  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
 
 ratingProveedor: 4.7
 numeroOpiniones: 5637

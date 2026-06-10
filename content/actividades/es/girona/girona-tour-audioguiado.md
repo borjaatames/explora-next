@@ -37,11 +37,11 @@ keywords:
 atraccionesRelacionadas:
   - casco-medieval
   - catedral
-imagen: "/images/actividades/girona/casco-medieval/girona-casco-antiguo-hero.webp"
+imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Catedral de Girona al final de su escalinata monumental"
 
 galeria:
-  - src: "/images/actividades/girona/casco-medieval/girona-casco-antiguo-hero.webp"
+  - src: "/images/actividades/girona/ciudades/girona-hero.webp"
     alt: "Catedral de Girona al final de su escalinata monumental"
 publicada: true
 destacada: false

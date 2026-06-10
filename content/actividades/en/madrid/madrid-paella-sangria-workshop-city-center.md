@@ -100,8 +100,12 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Traditional Spanish cuisine, visual reference for the paella workshop in Madrid"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Traditional Spanish cuisine"
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
+  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
+  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
+- src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
+  alt: "Spanish tapas from Madrid's traditional cuisine (view 3)"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1448

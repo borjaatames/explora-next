@@ -101,12 +101,16 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["barcelona gothic quarter walking tour", "barri gotic guided tour", "old town barcelona walking tour", "la rambla walking tour barcelona", "barcelona old town spanish guide"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
+imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Barcelona Gothic Quarter medieval streets and Cathedral exterior"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/barrio-gotico-hero.webp"
-    alt: "Barri Gotic medieval streets and Pla de la Seu in Barcelona Old Town"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: "Barcelona's Gothic Quarter with its medieval lanes (view 1)"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
+  alt: "Barcelona's Gothic Quarter with its medieval lanes (view 2)"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: "Barcelona's Gothic Quarter with its medieval lanes (view 3)"
 
 ratingProveedor: 4.8
 numeroOpiniones: 1582
