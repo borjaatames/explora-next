@@ -10,7 +10,8 @@
     "lint": "next lint",
     "audit:parejas": "tsx scripts/audit-parejas.ts",
     "audit:enlaces": "tsx scripts/audit-enlaces-afiliados.ts",
-    "verificar:precios": "tsx scripts/verificar-precios.ts"
+    "verificar:precios": "tsx scripts/verificar-precios.ts",
+    "descubrir:viator": "tsx scripts/descubrir-viator.ts"
   },
   "dependencies": {
     "@next/third-parties": "^14.2.33",
