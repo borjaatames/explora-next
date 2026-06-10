@@ -237,14 +237,14 @@ export default function Footer({ idioma }: Props) {
             <SelloChip texto="GetYourGuide" color="#f25c00" size="lg" />
           </div>
 
-          {/* Métodos de pago — placeholders. Sustituir por SVGs oficiales cuando estén. */}
+          {/* Métodos de pago — logos SVG inline. */}
           <div className="flex justify-center items-center gap-2 flex-wrap">
-            <SelloChip texto="VISA" color="#1a1f71" wide />
-            <SelloChip texto="MC" color="#eb001b" />
-            <SelloChip texto="AMEX" color="#006fcf" />
-            <SelloChip texto="PayPal" color="#003087" />
-            <SelloChip texto="Apple Pay" color="#000000" />
-            <SelloChip texto="Google Pay" color="#5f6368" />
+            <LogoVisa />
+            <LogoMastercard />
+            <LogoAmex />
+            <LogoPaypal />
+            <LogoApplePay />
+            <LogoGooglePay />
           </div>
         </div>
 
@@ -432,5 +432,158 @@ function IconLock() {
       <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
       <path d="M7 11V7a5 5 0 0 1 10 0v4" />
     </svg>
+  );
+}
+
+/* ───────────────────────── Logos de pago (SVG inline) ───────────────────────── */
+
+/**
+ * Cada logo se renderiza dentro de una "caja blanca" uniforme (38×24 px) con
+ * border-radius pequeño, para alinearse visualmente entre sí. Los SVGs internos
+ * son aproximaciones reconocibles a los logos de marca, no las marcas oficiales
+ * registradas. Para una versión final 100% fiel, sustituir por los SVG/PNG de
+ * los press kits oficiales en /public/payment/<marca>.svg.
+ */
+
+function LogoPagoWrapper({ children, title }: { children: React.ReactNode; title: string }) {
+  return (
+    <div
+      className="bg-white rounded h-6 px-2 flex items-center justify-center"
+      style={{ minWidth: "38px" }}
+      aria-label={title}
+      title={title}
+    >
+      {children}
+    </div>
+  );
+}
+
+function LogoVisa() {
+  return (
+    <LogoPagoWrapper title="Visa">
+      <svg width="36" height="14" viewBox="0 0 60 22" xmlns="http://www.w3.org/2000/svg">
+        <text
+          x="30"
+          y="17"
+          textAnchor="middle"
+          fontFamily="Helvetica, Arial, sans-serif"
+          fontWeight="900"
+          fontStyle="italic"
+          fontSize="18"
+          fill="#1A1F71"
+          letterSpacing="-0.5"
+        >
+          VISA
+        </text>
+      </svg>
+    </LogoPagoWrapper>
+  );
+}
+
+function LogoMastercard() {
+  return (
+    <LogoPagoWrapper title="Mastercard">
+      <svg width="32" height="20" viewBox="0 0 32 20" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="12" cy="10" r="8" fill="#EB001B" />
+        <circle cx="20" cy="10" r="8" fill="#F79E1B" />
+        <path
+          d="M16 4.2a8 8 0 0 0 0 11.6 8 8 0 0 0 0-11.6z"
+          fill="#FF5F00"
+        />
+      </svg>
+    </LogoPagoWrapper>
+  );
+}
+
+function LogoAmex() {
+  return (
+    <div
+      className="rounded h-6 px-2 flex items-center justify-center"
+      style={{ minWidth: "38px", background: "#006FCF" }}
+      aria-label="American Express"
+      title="American Express"
+    >
+      <svg width="34" height="14" viewBox="0 0 60 22" xmlns="http://www.w3.org/2000/svg">
+        <text
+          x="30"
+          y="16"
+          textAnchor="middle"
+          fontFamily="Helvetica, Arial, sans-serif"
+          fontWeight="800"
+          fontSize="14"
+          fill="#ffffff"
+          letterSpacing="0.5"
+        >
+          AMEX
+        </text>
+      </svg>
+    </div>
+  );
+}
+
+function LogoPaypal() {
+  return (
+    <LogoPagoWrapper title="PayPal">
+      <svg width="42" height="14" viewBox="0 0 70 22" xmlns="http://www.w3.org/2000/svg">
+        <text
+          x="2"
+          y="17"
+          fontFamily="Helvetica, Arial, sans-serif"
+          fontWeight="900"
+          fontStyle="italic"
+          fontSize="17"
+          letterSpacing="-0.3"
+        >
+          <tspan fill="#003087">Pay</tspan>
+          <tspan fill="#009CDE">Pal</tspan>
+        </text>
+      </svg>
+    </LogoPagoWrapper>
+  );
+}
+
+function LogoApplePay() {
+  return (
+    <LogoPagoWrapper title="Apple Pay">
+      <svg width="40" height="16" viewBox="0 0 50 20" xmlns="http://www.w3.org/2000/svg">
+        <g fill="#000">
+          {/* Manzana simplificada */}
+          <path d="M12.5 6.4c-.4-.5-1-.8-1.6-.8-.3 0-.7.1-1 .3-.3-.2-.7-.3-1-.3-.8 0-1.4.4-1.7 1-.6.9-.3 2.3.4 3.4.4.6.8 1.3 1.4 1.3.6 0 .8-.3 1.4-.3.7 0 .8.3 1.4.3.6 0 1-.7 1.4-1.3.3-.5.4-1 .6-1.4-1.1-.5-1-1.7-.3-2.2zM10.6 4.4c.3-.4.6-1 .5-1.6-.5 0-1 .4-1.3.7-.3.4-.5.9-.5 1.5.5 0 1-.2 1.3-.6z" />
+        </g>
+        <text
+          x="18"
+          y="15"
+          fontFamily="Helvetica, Arial, sans-serif"
+          fontWeight="600"
+          fontSize="13"
+          fill="#000"
+        >
+          Pay
+        </text>
+      </svg>
+    </LogoPagoWrapper>
+  );
+}
+
+function LogoGooglePay() {
+  return (
+    <LogoPagoWrapper title="Google Pay">
+      <svg width="48" height="16" viewBox="0 0 60 20" xmlns="http://www.w3.org/2000/svg">
+        {/* G de Google en sus colores */}
+        <text x="2" y="15" fontFamily="Helvetica, Arial, sans-serif" fontWeight="700" fontSize="14">
+          <tspan fill="#4285F4">G</tspan>
+        </text>
+        <text
+          x="14"
+          y="15"
+          fontFamily="Helvetica, Arial, sans-serif"
+          fontWeight="500"
+          fontSize="13"
+          fill="#5F6368"
+        >
+          Pay
+        </text>
+      </svg>
+    </LogoPagoWrapper>
   );
 }
