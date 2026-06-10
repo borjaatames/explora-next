@@ -91,7 +91,7 @@ atraccionesRelacionadas:
   - "albaicin-sacromonte"
   - "sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero-hero.webp"
+imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra-gitana.jpg"
 imagenAlt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"
 
 galeria:

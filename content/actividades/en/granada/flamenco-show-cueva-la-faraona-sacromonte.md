@@ -90,7 +90,7 @@ atraccionesRelacionadas:
   - "albaicin-sacromonte"
   - "sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp"
+imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-granada.png"
 imagenAlt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"
 
 galeria:

@@ -91,7 +91,7 @@ atraccionesRelacionadas:
   - "albaicin-sacromonte"
   - "sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"
+imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-zambra-gitana.jpg"
 imagenAlt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"
 
 galeria:

@@ -95,7 +95,7 @@ keywords: ["flamenco with dinner granada", "flamenco dinner albayzin", "jardines
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
+imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-show-con-paella.jpg"
 imagenAlt: "Dinner at the Jardines de Zoraya tablao in the Albayzín before the flamenco show"
 
 galeria:

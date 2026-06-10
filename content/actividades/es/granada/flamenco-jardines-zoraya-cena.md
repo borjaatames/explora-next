@@ -95,7 +95,7 @@ keywords: ["flamenco con cena granada", "cena espectaculo flamenco albayzin", "j
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
+imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-show-con-paella.jpg"
 imagenAlt: "Cena en el tablao Jardines de Zoraya del Albayzín antes del espectáculo flamenco"
 
 galeria:

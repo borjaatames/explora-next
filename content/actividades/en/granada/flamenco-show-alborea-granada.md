@@ -89,7 +89,7 @@ keywords: ["flamenco granada", "la alborea granada", "central flamenco tablao gr
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
+imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-granada.jpg"
 imagenAlt: "Stage of Tablao Flamenco La Alboreá in central Granada"
 
 galeria:
