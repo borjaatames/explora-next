@@ -86,7 +86,7 @@ keywords: ["food tour granada", "granada tapas tour", "small group food granada"
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
 imagenAlt: "Traditional tapas and red wine at a Granada tapas bar"
 
 galeria:

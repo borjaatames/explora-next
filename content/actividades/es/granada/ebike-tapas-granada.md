@@ -90,7 +90,7 @@ keywords: ["ebike tapas granada", "bicicleta electrica tapas", "tour bici granad
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
 imagenAlt: "Tour en bicicleta eléctrica por el Albaicín de Granada con parada de tapas"
 
 galeria:

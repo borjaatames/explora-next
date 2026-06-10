@@ -88,7 +88,7 @@ keywords: ["tapas tour granada noche", "vinos premium granada", "food tour noctu
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp"
 imagenAlt: "Calle del Albayzín de Granada al anochecer con bares iluminados"
 
 galeria:
