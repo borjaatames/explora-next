@@ -79,7 +79,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
-    title: `${strings.titulo} | ExploraSpain`,
+    // Sin sufijo manual: el template "%s | ExploraSpain" del RootLayout ya lo añade.
+    title: strings.titulo,
     description: strings.descripcion,
     robots: {
       index: allowIndexing,

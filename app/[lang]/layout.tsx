@@ -4,6 +4,7 @@ import type { Idioma } from "@/lib/i18n/types";
 import NavbarServer from "@/components/layout/NavbarServer";
 import Footer from "@/components/layout/Footer";
 import CookieBanner from "@/components/CookieBanner";
+import SetHtmlLang from "@/components/layout/SetHtmlLang";
 type Props = {
   children: React.ReactNode;
   params: { lang: string };
@@ -31,6 +32,8 @@ export default function LangLayout({ children, params }: Props) {
   const lang: Idioma = params.lang;
   return (
     <div lang={lang}>
+      {/* Corrige <html lang> en cliente sin romper SSG — ver SetHtmlLang.tsx */}
+      <SetHtmlLang lang={lang} />
       <NavbarServer idioma={lang} />
       <div className="min-h-screen">{children}</div>
       <Footer idioma={lang} />
