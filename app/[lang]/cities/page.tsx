@@ -91,7 +91,7 @@ export default function CiudadesPage({ params }: Props) {
           <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-3">
             {dict.ciudades.tituloIndice}
           </h1>
-          <p className="text-lg text-sky-50">
+          <p className="text-lg md:text-xl text-sky-50">
             {dict.ciudades.descripcionIndice}
           </p>
         </div>

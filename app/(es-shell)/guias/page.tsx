@@ -80,7 +80,7 @@ export default async function GuiasHubPage() {
           <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-3">
             Guías de viaje
           </h1>
-          <p className="text-lg text-sky-50">
+          <p className="text-lg md:text-xl text-sky-50">
             Cada ciudad tiene sus rutas y consejos propios. Elige por dónde empezar.
           </p>
         </div>

@@ -137,7 +137,7 @@ export default async function GuiasHubPage({ params }: Props) {
           <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-3">
             {dict.guias.tituloIndice}
           </h1>
-          <p className="text-lg text-sky-50">{strings.hubSubtitulo}</p>
+          <p className="text-lg md:text-xl text-sky-50">{strings.hubSubtitulo}</p>
         </div>
       </section>
 

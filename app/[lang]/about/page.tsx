@@ -427,7 +427,7 @@ export default function AboutPage({ params }: { params: { lang: string } }) {
       {/* Hero */}
       <section className="bg-sky-500 text-white py-16 md:py-24">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
+          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-4">
             {copy.heroTitle}
           </h1>
           <p className="text-lg md:text-xl text-sky-50">{copy.heroSubtitle}</p>
