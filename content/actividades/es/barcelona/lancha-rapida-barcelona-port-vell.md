@@ -45,15 +45,15 @@ keywords:
 - lancha rapida barcelona
 - powerboat barcelona
 - paseo en lancha barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp"
-imagenAlt: "Vista aérea del litoral de Barcelona"
+imagen: "https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg"
+imagenAlt: "Lancha rápida en el Port Vell de Barcelona"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea del litoral de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Playa de la Barceloneta junto al mar
-- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Edificio acristalado junto al puerto de Barcelona
+- src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
+  alt: Lancha rápida en el Port Vell de Barcelona
+- src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
+  alt: Paseo en lancha rápida por la costa de Barcelona
+- src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
+  alt: Vistas de Barcelona desde la lancha rápida
 publicada: true
 destacada: false
 fecha: '2026-06-18'

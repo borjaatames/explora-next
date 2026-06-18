@@ -45,15 +45,15 @@ keywords:
 - barcelona powerboat
 - high speed boat barcelona
 - speedboat barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp"
-imagenAlt: "Aerial view of the Barcelona coastline"
+imagen: "https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg"
+imagenAlt: "High-speed powerboat in Barcelona's Port Vell"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea del litoral de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Playa de la Barceloneta junto al mar
-- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Edificio acristalado junto al puerto de Barcelona
+- src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
+  alt: High-speed powerboat in Barcelona's Port Vell
+- src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
+  alt: High-speed powerboat ride along the Barcelona coast
+- src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
+  alt: Views of Barcelona from the powerboat
 publicada: true
 destacada: false
 fecha: '2026-06-18'

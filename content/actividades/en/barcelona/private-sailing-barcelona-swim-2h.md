@@ -46,15 +46,15 @@ keywords:
 - private sailing barcelona
 - private boat barcelona
 - swim at sea barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
-imagenAlt: "Sailboat and sea on the Barcelona coast"
+imagen: "https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg"
+imagenAlt: "Private sailboat off the Barcelona coast"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: Velero y mar en la costa de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-playa-atardecer-mar-sol-relajacion-hero.webp
-  alt: Atardecer sobre el mar en Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea de la costa de Barcelona
+- src: https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg
+  alt: Private sailboat off the Barcelona coast
+- src: https://imgcdn.bokun.tools/125dc4d5-7bd9-425c-8dd1-a6dcbc32db74.jpg
+  alt: Time for a swim from the sailboat in Barcelona
+- src: https://imgcdn.bokun.tools/64b4b831-44cb-48e2-9dfe-250e8b64df85.jpg
+  alt: Views of Barcelona from the private sailboat
 publicada: true
 destacada: false
 fecha: '2026-06-18'

@@ -46,15 +46,15 @@ keywords:
 - private sailing barcelona
 - yacht charter barcelona
 - private boat barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp"
-imagenAlt: "Sailing yacht off the Barcelona coast"
+imagen: "https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg"
+imagenAlt: "Private yacht sailing off Barcelona"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: Velero frente a la costa de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea de la costa de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-playa-atardecer-mar-sol-relajacion-hero.webp
-  alt: Atardecer sobre el mar en Barcelona
+- src: https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg
+  alt: Private yacht sailing off Barcelona
+- src: https://imgcdn.bokun.tools/34922688-bc8f-4fff-aa2d-2800d15081e2.jpg
+  alt: Deck of the private yacht in Barcelona
+- src: https://imgcdn.bokun.tools/44b6a8a1-9e6a-4ef6-8ebc-a8e051cb7f99.jpg
+  alt: Private sailing along the Barcelona coast
 publicada: true
 destacada: false
 fecha: '2026-06-18'

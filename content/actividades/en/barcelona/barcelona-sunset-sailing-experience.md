@@ -46,15 +46,15 @@ keywords:
 - barcelona sunset sailing
 - barcelona sailing trip
 - boat trip barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-playa-atardecer-mar-sol-relajacion-hero.webp"
-imagenAlt: "Sunset over the sea on the Barcelona coast"
+imagen: "https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg"
+imagenAlt: "Sailing yacht at sunset off the Barcelona coast"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-playa-atardecer-mar-sol-relajacion-hero.webp
-  alt: Atardecer sobre el mar en la costa de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea del litoral de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Playa de la Barceloneta junto al mar
+- src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
+  alt: Sailing yacht at sunset off the Barcelona coast
+- src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
+  alt: Sunset sailing in Barcelona with drinks onboard
+- src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
+  alt: Views of Barcelona from the yacht at sunset
 publicada: true
 destacada: false
 fecha: '2026-06-18'

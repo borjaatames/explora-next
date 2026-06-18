@@ -23,6 +23,11 @@ const nextConfig = {
         hostname: "media.tacdn.com",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "imgcdn.bokun.tools",
+        pathname: "/**",
+      },
     ],
     formats: ["image/avif", "image/webp"],
   },

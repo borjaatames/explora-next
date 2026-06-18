@@ -46,15 +46,15 @@ keywords:
 - barcelona sailing cruise
 - small group sailing barcelona
 - sailing barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp"
-imagenAlt: "Aerial view of the Barcelona coast"
+imagen: "https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg"
+imagenAlt: "Sailing yacht cruising off the Barcelona coast"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea de la costa de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: Playa de la Barceloneta
-- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Edificio acristalado junto al mar en Barcelona
+- src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
+  alt: Sailing yacht cruising off the Barcelona coast
+- src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
+  alt: Small-group sailing cruise on the Barcelona sea
+- src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
+  alt: Views of Barcelona from the yacht
 publicada: true
 destacada: false
 fecha: '2026-06-18'

@@ -46,15 +46,15 @@ keywords:
 - navegacion atardecer barcelona
 - velero barcelona
 - paseo en barco barcelona
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-playa-atardecer-mar-sol-relajacion-hero.webp"
-imagenAlt: "Atardecer sobre el mar en la costa de Barcelona"
+imagen: "https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg"
+imagenAlt: "Velero al atardecer frente a la costa de Barcelona"
 galeria:
-- src: /images/actividades/barcelona/barceloneta/barceloneta-playa-atardecer-mar-sol-relajacion-hero.webp
-  alt: Atardecer sobre el mar en la costa de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-stunning-aerial-view-sandy-beach-hero.webp
-  alt: Vista aérea del litoral de Barcelona
-- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Playa de la Barceloneta junto al mar
+- src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
+  alt: Velero al atardecer frente a la costa de Barcelona
+- src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
+  alt: Navegación al atardecer en Barcelona con bebidas a bordo
+- src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
+  alt: Vistas de Barcelona desde el velero al atardecer
 publicada: true
 destacada: false
 fecha: '2026-06-18'
