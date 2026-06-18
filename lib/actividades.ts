@@ -31,6 +31,7 @@ export const CATEGORIAS_ACTIVIDAD = [
   "toursGastronomicos",
   "serviciosAdicionales",
   "transporte",
+  "experienciasPrivadas",
 ] as const;
 
 export type CategoriaActividad = (typeof CATEGORIAS_ACTIVIDAD)[number];
@@ -116,6 +117,12 @@ export type ActividadFrontmatter = {
   idiomas: string[];
   proveedor: ProveedorActividad;
   urlReserva: string;
+  /**
+   * ID de producto/experiencia en Bokun (solo `proveedor: bokun`).
+   * Alimenta el data-src del widget embebido de reserva. Se ignora para
+   * el resto de proveedores, que usan `urlReserva`.
+   */
+  bokunProductId?: number;
   cancelacionGratuita?: boolean;
   horasCancelacion?: number;
 
@@ -369,6 +376,7 @@ export function agruparActividadesPorCategoria(
     toursGastronomicos: [],
     serviciosAdicionales: [],
     transporte: [],
+    experienciasPrivadas: [],
   } as Record<CategoriaActividad, ActividadListItem[]>;
 
   for (const actividad of actividades) {
@@ -522,6 +530,7 @@ function construirListItem(
     idiomas: fm.idiomas || [],
     proveedor,
     urlReserva: fm.urlReserva || "",
+    bokunProductId: fm.bokunProductId,
     cancelacionGratuita: fm.cancelacionGratuita ?? false,
     horasCancelacion: fm.horasCancelacion,
 
@@ -583,6 +592,7 @@ export const CATEGORIA_A_URL: Record<CategoriaActividad, string> = {
   toursGastronomicos: "tours-gastronomicos",
   serviciosAdicionales: "servicios-adicionales",
   transporte: "transporte",
+  experienciasPrivadas: "experiencias-privadas",
 };
 
 const URL_A_CATEGORIA: Record<string, CategoriaActividad> = Object.fromEntries(

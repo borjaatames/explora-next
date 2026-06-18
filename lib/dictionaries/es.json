@@ -69,7 +69,8 @@
       "espectaculos": "Espectáculos",
       "toursGastronomicos": "Tours gastronómicos",
       "serviciosAdicionales": "Servicios adicionales",
-      "transporte": "Transporte"
+      "transporte": "Transporte",
+      "experienciasPrivadas": "Experiencias privadas"
     },
     "faqEnCiudad": "Preguntas frecuentes sobre actividades en {ciudad}"
   },

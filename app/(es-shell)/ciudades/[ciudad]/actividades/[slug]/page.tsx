@@ -20,6 +20,7 @@ import { obtenerHorariosViator } from "@/lib/viator-api";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
+import BokunWidget from "@/components/BokunWidget";
 import SelloProveedor from "@/components/SelloProveedor";
 import DetallesPracticos from "@/components/DetallesPracticos";
 import InformacionImportante from "@/components/InformacionImportante";
@@ -445,6 +446,12 @@ export default async function ActividadPage({ params }: Props) {
 
           <aside className="hidden lg:block lg:col-span-1">
             <div className="lg:sticky lg:top-6">
+              {actividad.proveedor === "bokun" ? (
+                <BokunWidget
+                  idioma="es"
+                  productId={actividad.bokunProductId ?? 0}
+                />
+              ) : (
               <CalendarioReserva
                 idioma="es"
                 proveedor={actividad.proveedor}
@@ -469,10 +476,19 @@ export default async function ActividadPage({ params }: Props) {
                 }
                 textoCancelacionGratuita={dict.actividades.cancelacionGratuita}
               />
+              )}
             </div>
           </aside>
         </div>
       </section>
+
+      {/* Reserva en móvil: para bokun el widget va inline (es responsive y
+          gestiona pago en el sitio); para afiliados, barra sticky externa. */}
+      {actividad.proveedor === "bokun" && (
+        <div className="lg:hidden max-w-6xl mx-auto px-4 pb-10">
+          <BokunWidget idioma="es" productId={actividad.bokunProductId ?? 0} />
+        </div>
+      )}
 
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
         <BotonVolverFicha
@@ -481,27 +497,29 @@ export default async function ActividadPage({ params }: Props) {
         />
       </div>
 
-      <StickyReservaMovil
-        idioma="es"
-        precio={`${dict.actividades.desde} ${precio}`}
-        precioPorPersona={dict.actividades.porPersona}
-        duracion={actividad.duracion}
-        idiomas={actividad.idiomas}
-        cancelacionGratuita={actividad.cancelacionGratuita}
-        horasCancelacion={actividad.horasCancelacion}
-        ratingProveedor={actividad.ratingProveedor}
-        numeroOpiniones={actividad.numeroOpiniones}
-        urlReservaBase={urlReservaBase}
-        nombreProveedor={nombreComercialProveedor}
-        textoReservar={dict.actividades.reservar}
-        textoOpiniones={dict.actividades.opiniones}
-        textoDesde={dict.actividades.desde}
-        textoPorPersona={dict.actividades.porPersona}
-        textoDuracion={dict.actividades.duracion}
-        textoIdiomas={dict.actividades.idiomas}
-        textoCancelacionHorasAntes={dict.actividades.cancelacionHorasAntes}
-        textoCancelacionGratuita={dict.actividades.cancelacionGratuita}
-      />
+      {actividad.proveedor !== "bokun" && (
+        <StickyReservaMovil
+          idioma="es"
+          precio={`${dict.actividades.desde} ${precio}`}
+          precioPorPersona={dict.actividades.porPersona}
+          duracion={actividad.duracion}
+          idiomas={actividad.idiomas}
+          cancelacionGratuita={actividad.cancelacionGratuita}
+          horasCancelacion={actividad.horasCancelacion}
+          ratingProveedor={actividad.ratingProveedor}
+          numeroOpiniones={actividad.numeroOpiniones}
+          urlReservaBase={urlReservaBase}
+          nombreProveedor={nombreComercialProveedor}
+          textoReservar={dict.actividades.reservar}
+          textoOpiniones={dict.actividades.opiniones}
+          textoDesde={dict.actividades.desde}
+          textoPorPersona={dict.actividades.porPersona}
+          textoDuracion={dict.actividades.duracion}
+          textoIdiomas={dict.actividades.idiomas}
+          textoCancelacionHorasAntes={dict.actividades.cancelacionHorasAntes}
+          textoCancelacionGratuita={dict.actividades.cancelacionGratuita}
+        />
+      )}
     </main>
   );
 }

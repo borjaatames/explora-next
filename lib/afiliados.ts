@@ -11,12 +11,17 @@
 import { normalizarUrlGetYourGuide } from "./afiliados-gyg";
 import { normalizarUrlViator } from "./afiliados-viator";
 
-export type ProveedorActividad = "civitatis" | "getyourguide" | "viator";
+export type ProveedorActividad =
+  | "civitatis"
+  | "getyourguide"
+  | "viator"
+  | "bokun";
 
 export const PROVEEDORES_ACTIVOS: ProveedorActividad[] = [
   "civitatis",
   "getyourguide",
   "viator",
+  "bokun",
 ];
 
 type ConfigProveedor = {
@@ -38,6 +43,15 @@ const CONFIG: Record<ProveedorActividad, ConfigProveedor> = {
   viator: {
     nombre: "Viator",
     activo: Boolean(process.env.AID_VIATOR_PID),
+  },
+  // Bokun NO es afiliación: somos revendedores. La reserva y el pago se
+  // completan dentro de exploraspain.com vía el widget embebido (calendario
+  // Bokun), no saltando a una URL externa. Por eso `construirUrlReserva`
+  // devuelve "" para bokun y la ficha renderiza <BokunWidget> en su lugar.
+  // "activo" depende de tener el UUID del canal de reservas en .env.local.
+  bokun: {
+    nombre: "Bokun",
+    activo: Boolean(process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID),
   },
 };
 
@@ -86,6 +100,11 @@ export function construirUrlReserva(
       return normalizarUrlGetYourGuide(urlBase, idioma);
     case "viator":
       return construirUrlViator(normalizarUrlViator(urlBase, idioma));
+    case "bokun":
+      // Revendedor: no hay URL externa de reserva. El widget embebido
+      // (calendario Bokun) gestiona disponibilidad, reserva y pago dentro
+      // del sitio. La ficha usa `bokunProductId`, no `urlReserva`.
+      return "";
     default:
       return urlBase;
   }

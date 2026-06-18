@@ -69,7 +69,8 @@
       "espectaculos": "Shows",
       "toursGastronomicos": "Food tours",
       "serviciosAdicionales": "Add-ons",
-      "transporte": "Transport"
+      "transporte": "Transport",
+      "experienciasPrivadas": "Private experiences"
     },
     "faqEnCiudad": "Frequently asked questions about things to do in {ciudad}"
   },
