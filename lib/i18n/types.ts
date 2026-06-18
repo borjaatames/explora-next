@@ -85,6 +85,7 @@ export type Diccionario = {
       toursGastronomicos: string;
       serviciosAdicionales: string;
       transporte: string;
+      experienciasPrivadas: string;
     };
     faqEnCiudad: string;
   };
