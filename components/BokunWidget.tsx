@@ -93,7 +93,10 @@ export default function BokunWidget({ productId, idioma }: Props) {
     );
   }
 
-  const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}`;
+  // El widget de Bokun localiza su interfaz (Participantes, calendario, meses…)
+  // según el parámetro `lang` del data-src. Lo hacemos seguir el idioma de la
+  // página: español en fichas ES, inglés en fichas EN.
+  const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
 
   return (
     <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
