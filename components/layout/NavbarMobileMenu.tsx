@@ -64,7 +64,7 @@ export default function NavbarMobileMenu({
       <button
         type="button"
         onClick={() => setAbierto((v) => !v)}
-        className="p-2 -mr-2 text-slate-900 hover:bg-amber-500 rounded transition-colors"
+        className="p-2 -mr-2 text-slate-700 hover:bg-slate-100 rounded transition-colors"
         aria-label={abierto ? cerrarLabel : abrirLabel}
         aria-expanded={abierto}
         aria-controls="menu-movil"
@@ -97,7 +97,7 @@ export default function NavbarMobileMenu({
       {abierto && (
         <div
           id="menu-movil"
-          className="md:hidden absolute top-full left-0 right-0 bg-amber-400 border-b-4 border-sky-500 shadow-lg"
+          className="md:hidden absolute top-full left-0 right-0 bg-white border-b border-slate-200 shadow-lg"
         >
           <nav className="max-w-6xl mx-auto px-4 py-2 flex flex-col">
             {enlaces.map((e) => (
@@ -105,7 +105,7 @@ export default function NavbarMobileMenu({
                 key={e.href}
                 href={e.href}
                 onClick={() => setAbierto(false)}
-                className="py-3 px-2 text-lg text-slate-900 font-semibold border-b border-amber-500/40 last:border-b-0 hover:bg-amber-500 rounded transition-colors"
+                className="py-3 px-2 text-lg text-slate-800 font-medium border-b border-slate-100 last:border-b-0 hover:bg-slate-50 hover:text-amber-600 rounded transition-colors"
               >
                 {e.label}
               </Link>

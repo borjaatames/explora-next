@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import ContactForm from "@/components/ContactForm";
 import {
   IDIOMAS_ACTIVOS,
   IDIOMA_LOCALE,
@@ -136,15 +137,10 @@ export default function ContactPage({
             Write to us directly
           </h2>
           <p className="text-slate-700 mb-6">
-            The fastest way to get in touch is by email. We reply within{" "}
+            Fill in the form and we&apos;ll reply within{" "}
             <strong>2-3 business days</strong>.
           </p>
-          <a
-            href="mailto:contacto@exploraspain.com"
-            className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-semibold px-6 py-3 rounded-lg transition-colors text-lg"
-          >
-            contacto@exploraspain.com
-          </a>
+          <ContactForm idioma="en" />
         </div>
 
         {/* Categories of messages */}

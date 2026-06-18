@@ -66,7 +66,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
   ];
 
   return (
-    <header className="sticky top-0 z-50 bg-amber-400 border-b-4 border-sky-500 shadow-sm">
+    <header className="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link
           href={urlHome(idioma)}
@@ -91,7 +91,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
             <Link
               key={e.href}
               href={e.href}
-              className="text-slate-900 hover:text-sky-700 font-semibold transition-colors"
+              className="text-slate-700 hover:text-amber-600 font-medium transition-colors"
             >
               {e.label}
             </Link>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { hreflangAlternates, urlContacto } from "@/lib/i18n/utils";
+import ContactForm from "@/components/ContactForm";
 
 export async function generateMetadata(): Promise<Metadata> {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -56,15 +57,10 @@ export default function ContactoPage() {
             Escríbenos directamente
           </h2>
           <p className="text-slate-700 mb-6">
-            La forma más rápida de contactar es por correo. Respondemos en{" "}
+            Rellena el formulario y te respondemos en{" "}
             <strong>2-3 días laborables</strong>.
           </p>
-          <a
-            href="mailto:contacto@exploraspain.com"
-            className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-semibold px-6 py-3 rounded-lg transition-colors text-lg"
-          >
-            contacto@exploraspain.com
-          </a>
+          <ContactForm idioma="es" />
         </div>
 
         {/* Para qué tipo de mensajes */}
