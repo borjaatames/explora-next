@@ -20,7 +20,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Adrenaline-filled high-speed ride
-- Tour of Port Vell: superyachts and America's Cup team bases
+- "Tour of Port Vell: superyachts and America's Cup team bases"
 - Views of Barcelona from the sea
 - Drinks onboard
 incluye:

@@ -20,7 +20,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Paseo de adrenalina en lancha rápida
-- Recorrido por el Port Vell: superyates y bases de la America's Cup
+- "Recorrido por el Port Vell: superyates y bases de la America's Cup"
 - Vistas de Barcelona desde el mar
 - Bebidas a bordo
 incluye:
