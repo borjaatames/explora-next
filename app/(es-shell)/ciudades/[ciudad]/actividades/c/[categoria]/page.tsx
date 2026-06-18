@@ -35,6 +35,7 @@ const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
   toursGastronomicos: "Tours gastronómicos",
   serviciosAdicionales: "Servicios adicionales",
   transporte: "Transporte",
+  experienciasPrivadas: "Experiencias privadas",
 };
 
 /**
