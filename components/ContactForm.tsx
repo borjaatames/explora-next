@@ -47,22 +47,6 @@ export default function ContactForm({ idioma }: { idioma: Idioma }) {
   const accessKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY;
   const [estado, setEstado] = useState<Estado>("idle");
 
-  // Sin clave configurada: fallback a email para no dejar la página sin
-  // vía de contacto.
-  if (!accessKey) {
-    return (
-      <div>
-        <p className="text-slate-700 mb-4">{t.sinConfig}</p>
-        <a
-          href="mailto:contacto@exploraspain.com"
-          className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-slate-900 font-semibold px-6 py-3 rounded-lg transition-colors"
-        >
-          contacto@exploraspain.com
-        </a>
-      </div>
-    );
-  }
-
   if (estado === "ok") {
     return (
       <div className="bg-sky-50 border border-sky-200 rounded-lg p-6 text-slate-800">
@@ -75,7 +59,21 @@ export default function ContactForm({ idioma }: { idioma: Idioma }) {
     e.preventDefault();
     const form = e.currentTarget;
     const fd = new FormData(form);
-    fd.append("access_key", accessKey as string);
+
+    // Sin clave de Web3Forms: el formulario sigue visible y, al enviar,
+    // abre el correo del usuario con el mensaje ya redactado (mailto).
+    if (!accessKey) {
+      const nombre = String(fd.get("name") || "");
+      const correo = String(fd.get("email") || "");
+      const mensaje = String(fd.get("message") || "");
+      const body = `${mensaje}\n\n— ${nombre} (${correo})`;
+      window.location.href = `mailto:contacto@exploraspain.com?subject=${encodeURIComponent(
+        t.subject
+      )}&body=${encodeURIComponent(body)}`;
+      return;
+    }
+
+    fd.append("access_key", accessKey);
     fd.append("subject", t.subject);
     fd.append("from_name", "ExploraSpain");
     setEstado("sending");
