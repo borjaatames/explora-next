@@ -262,15 +262,6 @@ export default function Footer({ idioma }: Props) {
             />
             <SelloChip texto="stripe" color="#635BFF" size="lg" />
           </div>
-
-          {/* Reservas con partners de afiliación */}
-          <p className="text-center text-xs text-slate-400 mb-3">
-            {t.reservaPartners}
-          </p>
-          <div className="flex flex-wrap items-center justify-center gap-12">
-            <SelloChip texto="VIATOR" color="#1a1f71" size="lg" italic />
-            <SelloChip texto="GetYourGuide" color="#f25c00" size="lg" />
-          </div>
         </div>
 
         {/* Línea legal */}
