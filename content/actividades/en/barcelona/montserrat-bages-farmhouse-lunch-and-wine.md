@@ -12,9 +12,10 @@ duracion: "9 hours"
 duracionMinutos: 540
 precioDesde: 109
 moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Barcelona/Montserrat-Full-Day-Experience-Farmhouse-Lunch-and-Wine-Tasting/d562-16168P34?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+idiomas:
+- en
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 
@@ -109,7 +110,11 @@ destacada: false
 fecha: "2026-05-15"
 atraccionesRelacionadas:
   - "montserrat"
+bokunProductId: 850193
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Note:** this experience is conducted in English.
 
 ## What you'll see
 

@@ -9,13 +9,12 @@ slugs:
   es: sagrada-familia-visita-guiada-grupo-reducido
 duracion: 1h 30min
 duracionMinutos: 90
-precioDesde: 59
+precioDesde: 84
 moneda: EUR
 idiomas:
-- es
 - en
-proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/barcelona-l45/sagrada-familia-visita-guiada-sin-hacer-cola-t195065/?partner_id=C71NOAW
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -145,7 +144,11 @@ galeria:
   alt: Barcelona cityscape with historic architecture and urban skyline view
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-A27sA6kViXc-hero.webp
   alt: Panoramic view of Barcelona cityscape with architectural landmarks and Mediterranean Sea
+bokunProductId: 662268
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Note:** this experience is conducted in English.
 
 ## What you'll see
 

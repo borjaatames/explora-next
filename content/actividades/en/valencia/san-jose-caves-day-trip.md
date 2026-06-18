@@ -8,13 +8,13 @@ slugs:
   en: san-jose-caves-day-trip
 duracion: "4 hours"
 duracionMinutos: 240
-precioDesde: 69
+precioDesde: 55
 moneda: EUR
 idiomas:
   - es
   - en
-proveedor: viator
-urlReserva: "https://www.viator.com/tours/Valencia/Cuevas-San-Jose/d811-85805P12?primaryLanguage=en"
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 highlights:
   - "Sail the longest navigable underground river in Europe"
@@ -57,6 +57,8 @@ numeroOpiniones: 785
 publicada: true
 destacada: false
 fecha: "2026-05-21"
+bokunProductId: 953416
+fecha_actualizacion: '2026-06-18'
 ---
 
 ## What you'll see

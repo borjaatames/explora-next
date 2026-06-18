@@ -12,9 +12,10 @@ duracion: "40-75 minutos"
 duracionMinutos: 60
 precioDesde: 24
 moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/barcelona-l45/barcelona-park-guell-guided-tour-with-skip-the-line-ticket-t968188/?partner_id=C71NOAW"
+idiomas:
+- en
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 
@@ -109,10 +110,13 @@ numeroOpiniones: 318
 publicada: true
 destacada: false
 fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha_actualizacion: '2026-06-18'
 atraccionesRelacionadas:
 - park-guell
+bokunProductId: 819658
 ---
+
+> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
 
 ## Qué vas a ver
 

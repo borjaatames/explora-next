@@ -9,13 +9,12 @@ slugs:
   en: barcelona-in-one-day-sagrada-familia-park-guell
 duracion: 8 horas
 duracionMinutos: 480
-precioDesde: 99.47
+precioDesde: 129
 moneda: EUR
 idiomas:
-- es
 - en
-proveedor: viator
-urlReserva: https://www.viator.com/es-ES/tours/Barcelona/Barcelona-in-One-Day-Sagrada-Familia-Park-Guell-and-Old-Town-with-Hotel-Pick-up/d562-9866P21?pid=P00298823&mcid=42383&medium=link
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -158,7 +157,11 @@ galeria:
   alt: Panorámica aérea de Barcelona con la Sagrada Familia y arquitectura urbana
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Fachada de la Sagrada Familia de Barcelona con torres góticas y detalles arquitectónicos ornamentales
+bokunProductId: 674376
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
 
 ## Qué vas a ver
 

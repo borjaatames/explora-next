@@ -1,0 +1,67 @@
+---
+titulo: "Cala Granadella Day Trip from Valencia"
+slug: cala-granadella-javea-day-trip
+ciudad: valencia
+descripcion: "Day trip to Cala Granadella in Jávea, one of the most beautiful coves on the Costa Blanca, with turquoise water ideal for swimming and snorkelling."
+slugs:
+  es: excursion-cala-granadella-javea
+  en: cala-granadella-javea-day-trip
+duracion: Full day (about 9 hours)
+duracionMinutos: 540
+precioDesde: 85
+moneda: EUR
+idiomas:
+- es
+proveedor: bokun
+bokunProductId: 1034927
+urlReserva: ""
+cancelacionGratuita: true
+horasCancelacion: 24
+highlights:
+- Beach day at Cala Granadella in Jávea
+- Crystal-clear water ideal for swimming and snorkelling
+- Protected setting of pine woods and cliffs
+- Transport from Valencia included
+incluye:
+- Round-trip transport from Valencia
+- Guide escort
+noIncluye:
+- Food and drink
+- Snorkelling gear
+- Tips
+puntoEncuentro:
+  texto: Meeting point in Valencia (confirmed when booking)
+detallesPracticos:
+  ticketMovil: true
+  confirmacionInmediata: true
+politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+opinionEditorial: "Granadella is one of those coves that makes every list of Spain's best, and for good reason: turquoise water, pines down to the shore and great snorkelling. Going with transport from Valencia saves you the parking nightmare that summer brings."
+categoria: excursionesDia
+keywords:
+- cala granadella day trip
+- javea beach from valencia
+- best costa blanca coves
+imagen: "/images/actividades/valencia/cala-granadella/excursion-cala-granadella-javea-hero.webp"
+imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+galeria:
+- src: /images/actividades/valencia/cala-granadella/excursion-cala-granadella-javea-hero.webp
+  alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+publicada: false
+destacada: false
+fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-18'
+---
+
+## What you'll see
+
+A beach day at **Cala Granadella**, in Jávea (Alicante), regarded as one of the most beautiful coves on the Costa Blanca: turquoise water, a pebble seabed and a protected setting of pine woods and cliffs, perfect for swimming and snorkelling.
+
+## How it works
+
+A **full-day** trip from Valencia, with round-trip transport included. Booking and payment happen right here; free cancellation up to 24 hours before.
+
+## Who it's for
+
+- If you want a beach day at one of the area's best coves.
+- If you enjoy snorkelling and crystal-clear water.
+- If you'd rather travel without a car and skip the parking.

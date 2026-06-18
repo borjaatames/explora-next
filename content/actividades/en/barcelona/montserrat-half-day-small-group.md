@@ -10,11 +10,12 @@ slugs:
 
 duracion: "5 h 15 min"
 duracionMinutos: 315
-precioDesde: 54
+precioDesde: 49
 moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Barcelona/Private-tour-half-day-customized-sightseeing/d562-16168P9?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en"
+idiomas:
+- en
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 
@@ -111,7 +112,11 @@ destacada: false
 fecha: "2026-05-15"
 atraccionesRelacionadas:
   - "montserrat"
+bokunProductId: 866982
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Note:** this experience is conducted in English.
 
 ## What you'll see
 

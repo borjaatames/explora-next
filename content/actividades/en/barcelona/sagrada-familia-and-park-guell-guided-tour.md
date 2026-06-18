@@ -12,10 +12,9 @@ duracionMinutos: 240
 precioDesde: 119
 moneda: EUR
 idiomas:
-- es
 - en
-proveedor: viator
-urlReserva: https://www.viator.com/tours/Barcelona/Skip-the-Line-Park-Guell-and-La-Sagrada-Familia-Guided-Tour/d562-16168P10?pid=P00298823&mcid=42383&medium=link&primaryLanguage=en
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -143,7 +142,11 @@ galeria:
   alt: Park Güell's colorful mosaic terrace with Barcelona cityscape in background
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
   alt: Barcelona cityscape with Gothic architecture and bustling streets
+bokunProductId: 866939
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Note:** this experience is conducted in English.
 
 ## What you'll see
 

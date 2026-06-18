@@ -8,13 +8,12 @@ slugs:
   en: girona-costa-brava-medieval-villages
 duracion: "9 horas"
 duracionMinutos: 540
-precioDesde: 53
+precioDesde: 89
 moneda: EUR
 idiomas:
-  - es
-  - en
-proveedor: viator
-urlReserva: "https://www.viator.com/tours/Barcelona/The-best-of-Catalonia-Girona-Costa-Brava-and-Medieval-Villages/d562-16168P38"
+- en
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 highlights:
   - "Girona, la Costa Brava y un pueblo medieval en un día"
@@ -48,7 +47,11 @@ numeroOpiniones: 228
 publicada: true
 destacada: false
 fecha: "2026-05-21"
+bokunProductId: 936816
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
 
 ## Qué vas a ver
 

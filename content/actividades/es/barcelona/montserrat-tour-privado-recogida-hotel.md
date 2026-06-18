@@ -10,11 +10,12 @@ slugs:
 
 duracion: "5 horas"
 duracionMinutos: 300
-precioDesde: 204
+precioDesde: 550
 moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Barcelona/Private-Montserrat-Half-Day-Tour-with-Hotel-pick-up-from-Barcelona/d562-9866P81?pid=P00298823&mcid=42383&medium=link"
+idiomas:
+- en
+proveedor: bokun
+urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 
@@ -111,7 +112,11 @@ destacada: true
 fecha: "2026-05-15"
 atraccionesRelacionadas:
   - "montserrat"
+bokunProductId: 674378
+fecha_actualizacion: '2026-06-18'
 ---
+
+> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
 
 ## Qué vas a ver
 
