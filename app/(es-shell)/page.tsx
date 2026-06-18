@@ -11,6 +11,7 @@ import {
   urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
 import SelloProveedor from "@/components/SelloProveedor";
+import TrustStrip from "@/components/TrustStrip";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -118,6 +119,7 @@ export default function HomePage() {
               Explorar destinos
             </Link>
           </div>
+          <TrustStrip idioma="es" />
         </div>
       </section>
 

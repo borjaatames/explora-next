@@ -21,6 +21,7 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import SelloProveedor from "@/components/SelloProveedor";
+import TrustStrip from "@/components/TrustStrip";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -155,6 +156,7 @@ export default function HomePage({ params }: Props) {
               Explore destinations
             </Link>
           </div>
+          <TrustStrip idioma={lang} />
         </div>
       </section>
 
