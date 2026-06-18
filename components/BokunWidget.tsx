@@ -34,6 +34,12 @@ type Props = {
   /** ID de experiencia en Bokun (frontmatter `bokunProductId`). */
   productId: number;
   idioma: Idioma;
+  /** Precio "desde" (frontmatter `precioDesde`). Si se pasa, se muestra. */
+  precioDesde?: number;
+  /** Moneda ISO (frontmatter `moneda`). Por defecto EUR. */
+  moneda?: string;
+  /** true → "por grupo" (experiencias privadas); false → "por persona". */
+  porGrupo?: boolean;
 };
 
 type BokunGlobal = {
@@ -60,7 +66,13 @@ function asegurarLoader(channelUuid: string): boolean {
   return false;
 }
 
-export default function BokunWidget({ productId, idioma }: Props) {
+export default function BokunWidget({
+  productId,
+  idioma,
+  precioDesde,
+  moneda,
+  porGrupo,
+}: Props) {
   const channelUuid = process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID;
   const contenedorRef = useRef<HTMLDivElement>(null);
 
@@ -111,6 +123,30 @@ export default function BokunWidget({ productId, idioma }: Props) {
           {idioma === "es" ? "Reserva directa" : "Direct booking"}
         </span>
       </div>
+
+      {typeof precioDesde === "number" && precioDesde > 0 && (
+        <div className="px-4 pt-3 flex items-baseline gap-1.5">
+          <span className="text-[11px] uppercase tracking-wider text-slate-400">
+            {idioma === "es" ? "Desde" : "From"}
+          </span>
+          <span className="text-xl font-bold text-slate-900">
+            {new Intl.NumberFormat(idioma === "es" ? "es-ES" : "en-GB", {
+              style: "currency",
+              currency: moneda || "EUR",
+              maximumFractionDigits: 0,
+            }).format(precioDesde)}
+          </span>
+          <span className="text-xs text-slate-500">
+            {porGrupo
+              ? idioma === "es"
+                ? "por grupo"
+                : "per group"
+              : idioma === "es"
+                ? "por persona"
+                : "per person"}
+          </span>
+        </div>
+      )}
 
       <div className="p-4" ref={contenedorRef}>
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y

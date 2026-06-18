@@ -450,6 +450,9 @@ export default async function ActividadPage({ params }: Props) {
                 <BokunWidget
                   idioma="es"
                   productId={actividad.bokunProductId ?? 0}
+                  precioDesde={actividad.precioDesde}
+                  moneda={actividad.moneda}
+                  porGrupo={actividad.categoria === "experienciasPrivadas"}
                 />
               ) : (
               <CalendarioReserva
@@ -486,7 +489,13 @@ export default async function ActividadPage({ params }: Props) {
           gestiona pago en el sitio); para afiliados, barra sticky externa. */}
       {actividad.proveedor === "bokun" && (
         <div className="lg:hidden max-w-6xl mx-auto px-4 pb-10">
-          <BokunWidget idioma="es" productId={actividad.bokunProductId ?? 0} />
+          <BokunWidget
+            idioma="es"
+            productId={actividad.bokunProductId ?? 0}
+            precioDesde={actividad.precioDesde}
+            moneda={actividad.moneda}
+            porGrupo={actividad.categoria === "experienciasPrivadas"}
+          />
         </div>
       )}
 

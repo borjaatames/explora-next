@@ -446,6 +446,9 @@ export default async function ActividadPage({ params }: Props) {
                 <BokunWidget
                   idioma={IDIOMA}
                   productId={actividad.bokunProductId ?? 0}
+                  precioDesde={actividad.precioDesde}
+                  moneda={actividad.moneda}
+                  porGrupo={actividad.categoria === "experienciasPrivadas"}
                 />
               ) : (
               <CalendarioReserva
@@ -480,7 +483,13 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.proveedor === "bokun" && (
         <div className="lg:hidden max-w-6xl mx-auto px-4 pb-10">
-          <BokunWidget idioma={IDIOMA} productId={actividad.bokunProductId ?? 0} />
+          <BokunWidget
+            idioma={IDIOMA}
+            productId={actividad.bokunProductId ?? 0}
+            precioDesde={actividad.precioDesde}
+            moneda={actividad.moneda}
+            porGrupo={actividad.categoria === "experienciasPrivadas"}
+          />
         </div>
       )}
 
