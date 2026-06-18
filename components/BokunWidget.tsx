@@ -79,7 +79,10 @@ export default function BokunWidget({ productId, idioma }: Props) {
         /* el loader hidratará en su próximo ciclo */
       }
     }
-  }, [channelUuid, productId]);
+    // `idioma` va en las dependencias: al cambiar de idioma el productId no
+    // cambia, pero el data-src sí (?lang=), y hay que re-inicializar para que
+    // Bokun vuelva a hidratar el widget en el nuevo idioma.
+  }, [channelUuid, productId, idioma]);
 
   // Sin UUID configurado no se puede montar el widget. En vez de romper la
   // ficha, mostramos un aviso discreto (solo se vería en una mala config).
@@ -110,7 +113,10 @@ export default function BokunWidget({ productId, idioma }: Props) {
       </div>
 
       <div className="p-4" ref={contenedorRef}>
-        <div className="bokunWidget" data-src={dataSrc} />
+        {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y
+            limpio en cada cambio, para que Bokun lo re-hidrate con el lang
+            correcto (un div ya hidratado no vuelve a leer su data-src). */}
+        <div key={`${productId}-${idioma}`} className="bokunWidget" data-src={dataSrc} />
         <noscript>
           {idioma === "es"
             ? "Habilita JavaScript en tu navegador para reservar."
