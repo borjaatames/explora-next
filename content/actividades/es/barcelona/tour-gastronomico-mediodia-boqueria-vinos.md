@@ -32,6 +32,9 @@ noIncluye:
 - Bebidas adicionales fuera del menú
 puntoEncuentro:
   texto: Mercado de La Boquería, La Rambla, 91, 08001 Barcelona
+  latitud: 41.3817
+  longitud: 2.1716
+  zoom: 16
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

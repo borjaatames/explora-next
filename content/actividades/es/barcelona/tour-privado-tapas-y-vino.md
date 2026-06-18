@@ -30,7 +30,7 @@ noIncluye:
 - Propinas
 - Bebidas adicionales fuera del menú
 puntoEncuentro:
-  texto: Plaça Reial, 08002 Barcelona
+  texto: Punto de encuentro en el casco antiguo de Barcelona (se confirma al reservar)
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

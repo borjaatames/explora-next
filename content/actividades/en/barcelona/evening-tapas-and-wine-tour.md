@@ -30,7 +30,7 @@ noIncluye:
 - Tips
 - Extra drinks beyond the set menu
 puntoEncuentro:
-  texto: Plaça Reial, 08002 Barcelona
+  texto: Meeting point in Barcelona's old town (confirmed when booking)
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
