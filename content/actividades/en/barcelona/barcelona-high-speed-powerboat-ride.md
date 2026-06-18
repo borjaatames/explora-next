@@ -45,14 +45,14 @@ keywords:
 - barcelona powerboat
 - high speed boat barcelona
 - speedboat barcelona
-imagen: "https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg"
+imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp"
 imagenAlt: "High-speed powerboat in Barcelona's Port Vell"
 galeria:
-- src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
   alt: High-speed powerboat in Barcelona's Port Vell
-- src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
   alt: High-speed powerboat ride along the Barcelona coast
-- src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
   alt: Views of Barcelona from the powerboat
 publicada: true
 destacada: false

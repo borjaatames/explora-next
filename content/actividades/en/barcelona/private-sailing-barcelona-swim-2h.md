@@ -46,14 +46,14 @@ keywords:
 - private sailing barcelona
 - private boat barcelona
 - swim at sea barcelona
-imagen: "https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg"
+imagen: "/images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp"
 imagenAlt: "Private sailboat off the Barcelona coast"
 galeria:
-- src: https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg
+- src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
   alt: Private sailboat off the Barcelona coast
-- src: https://imgcdn.bokun.tools/125dc4d5-7bd9-425c-8dd1-a6dcbc32db74.jpg
+- src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
   alt: Time for a swim from the sailboat in Barcelona
-- src: https://imgcdn.bokun.tools/64b4b831-44cb-48e2-9dfe-250e8b64df85.jpg
+- src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
   alt: Views of Barcelona from the private sailboat
 publicada: true
 destacada: false

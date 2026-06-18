@@ -45,14 +45,14 @@ keywords:
 - lancha rapida barcelona
 - powerboat barcelona
 - paseo en lancha barcelona
-imagen: "https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg"
+imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp"
 imagenAlt: "Lancha rápida en el Port Vell de Barcelona"
 galeria:
-- src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
   alt: Lancha rápida en el Port Vell de Barcelona
-- src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
   alt: Paseo en lancha rápida por la costa de Barcelona
-- src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
   alt: Vistas de Barcelona desde la lancha rápida
 publicada: true
 destacada: false

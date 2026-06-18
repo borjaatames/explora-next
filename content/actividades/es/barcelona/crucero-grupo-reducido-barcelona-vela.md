@@ -46,14 +46,14 @@ keywords:
 - crucero barcelona
 - velero grupo reducido barcelona
 - navegar barcelona
-imagen: "https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg"
+imagen: "/images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp"
 imagenAlt: "Velero navegando frente a la costa de Barcelona"
 galeria:
-- src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
+- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Velero navegando frente a la costa de Barcelona
-- src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
+- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
   alt: Crucero en grupo reducido por el mar de Barcelona
-- src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
+- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp
   alt: Vistas de Barcelona desde el velero
 publicada: true
 destacada: false

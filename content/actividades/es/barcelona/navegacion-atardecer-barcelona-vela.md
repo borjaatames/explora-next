@@ -46,14 +46,14 @@ keywords:
 - navegacion atardecer barcelona
 - velero barcelona
 - paseo en barco barcelona
-imagen: "https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg"
+imagen: "/images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp"
 imagenAlt: "Velero al atardecer frente a la costa de Barcelona"
 galeria:
-- src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
+- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Velero al atardecer frente a la costa de Barcelona
-- src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
+- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
   alt: Navegación al atardecer en Barcelona con bebidas a bordo
-- src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
+- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp
   alt: Vistas de Barcelona desde el velero al atardecer
 publicada: true
 destacada: false

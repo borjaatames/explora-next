@@ -46,14 +46,14 @@ keywords:
 - private sailing barcelona
 - yacht charter barcelona
 - private boat barcelona
-imagen: "https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg"
+imagen: "/images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp"
 imagenAlt: "Private yacht sailing off Barcelona"
 galeria:
-- src: https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg
+- src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
   alt: Private yacht sailing off Barcelona
-- src: https://imgcdn.bokun.tools/34922688-bc8f-4fff-aa2d-2800d15081e2.jpg
+- src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
   alt: Deck of the private yacht in Barcelona
-- src: https://imgcdn.bokun.tools/44b6a8a1-9e6a-4ef6-8ebc-a8e051cb7f99.jpg
+- src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp
   alt: Private sailing along the Barcelona coast
 publicada: true
 destacada: false

@@ -46,14 +46,14 @@ keywords:
 - barcelona sunset sailing
 - barcelona sailing trip
 - boat trip barcelona
-imagen: "https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg"
+imagen: "/images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp"
 imagenAlt: "Sailing yacht at sunset off the Barcelona coast"
 galeria:
-- src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
+- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Sailing yacht at sunset off the Barcelona coast
-- src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
+- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
   alt: Sunset sailing in Barcelona with drinks onboard
-- src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
+- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp
   alt: Views of Barcelona from the yacht at sunset
 publicada: true
 destacada: false

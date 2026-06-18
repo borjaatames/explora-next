@@ -46,14 +46,14 @@ keywords:
 - barcelona sailing cruise
 - small group sailing barcelona
 - sailing barcelona
-imagen: "https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg"
+imagen: "/images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp"
 imagenAlt: "Sailing yacht cruising off the Barcelona coast"
 galeria:
-- src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
+- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Sailing yacht cruising off the Barcelona coast
-- src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
+- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
   alt: Small-group sailing cruise on the Barcelona sea
-- src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
+- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp
   alt: Views of Barcelona from the yacht
 publicada: true
 destacada: false
