@@ -238,29 +238,20 @@ export default function Footer({ idioma }: Props) {
           <p className="text-center text-xs text-slate-400 mb-3">
             {t.pagoDirecto}
           </p>
-          <div className="w-full md:w-3/4 mx-auto mb-10 flex flex-wrap items-center justify-between gap-4">
-            <img src="/payment/visa.svg" alt="Visa" className="h-8 w-auto" />
-            <img
-              src="/payment/mastercard.svg"
-              alt="Mastercard"
-              className="h-8 w-auto"
-            />
-            <img
-              src="/payment/amex.svg"
-              alt="American Express"
-              className="h-8 w-auto"
-            />
-            <img
-              src="/payment/applepay.svg"
-              alt="Apple Pay"
-              className="h-8 w-auto"
-            />
-            <img
-              src="/payment/googlepay.svg"
-              alt="Google Pay"
-              className="h-8 w-auto"
-            />
-            <SelloChip texto="stripe" color="#635BFF" size="lg" />
+          <div className="w-full md:w-3/4 mx-auto mb-10 flex flex-wrap items-center justify-between gap-3">
+            <TilePago src="/payment/visa.svg" alt="Visa" />
+            <TilePago src="/payment/mastercard.svg" alt="Mastercard" />
+            <TilePago src="/payment/amex.svg" alt="American Express" />
+            <TilePago src="/payment/applepay.svg" alt="Apple Pay" />
+            <TilePago src="/payment/googlepay.svg" alt="Google Pay" />
+            <div className="bg-white rounded-md h-9 w-[58px] flex items-center justify-center">
+              <span
+                className="font-bold italic text-sm"
+                style={{ color: "#635BFF" }}
+              >
+                stripe
+              </span>
+            </div>
           </div>
         </div>
 
@@ -326,29 +317,12 @@ function Promesa({
   );
 }
 
-function SelloChip({
-  texto,
-  color,
-  italic = false,
-  size = "sm",
-  wide = false,
-}: {
-  texto: string;
-  color: string;
-  italic?: boolean;
-  size?: "sm" | "lg";
-  wide?: boolean;
-}) {
-  const padding = size === "lg" ? "px-3.5 py-1.5" : "px-2.5 py-1";
-  const fontSize = size === "lg" ? "text-sm" : "text-[11px]";
+/** Casilla blanca uniforme para cada logo de pago (mismo tamaño exacto). */
+function TilePago({ src, alt }: { src: string; alt: string }) {
   return (
-    <div
-      className={`bg-white rounded font-semibold ${padding} ${fontSize} ${
-        italic ? "italic" : ""
-      }`}
-      style={{ color, letterSpacing: wide ? "0.1em" : undefined }}
-    >
-      {texto}
+    <div className="bg-white rounded-md h-9 w-[58px] flex items-center justify-center p-1.5">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src={src} alt={alt} className="max-h-full max-w-full object-contain" />
     </div>
   );
 }
