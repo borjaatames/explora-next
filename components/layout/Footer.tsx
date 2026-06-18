@@ -238,27 +238,27 @@ export default function Footer({ idioma }: Props) {
           <p className="text-center text-xs text-slate-400 mb-3">
             {t.pagoDirecto}
           </p>
-          <div className="flex flex-wrap items-center justify-center md:justify-between gap-6 mb-10">
-            <img src="/payment/visa.svg" alt="Visa" className="h-11 w-auto" />
+          <div className="w-full md:w-3/4 mx-auto mb-10 flex flex-wrap items-center justify-between gap-4">
+            <img src="/payment/visa.svg" alt="Visa" className="h-8 w-auto" />
             <img
               src="/payment/mastercard.svg"
               alt="Mastercard"
-              className="h-11 w-auto"
+              className="h-8 w-auto"
             />
             <img
               src="/payment/amex.svg"
               alt="American Express"
-              className="h-11 w-auto"
+              className="h-8 w-auto"
             />
             <img
               src="/payment/applepay.svg"
               alt="Apple Pay"
-              className="h-10 w-auto"
+              className="h-8 w-auto"
             />
             <img
               src="/payment/googlepay.svg"
               alt="Google Pay"
-              className="h-10 w-auto"
+              className="h-8 w-auto"
             />
             <SelloChip texto="stripe" color="#635BFF" size="lg" />
           </div>
