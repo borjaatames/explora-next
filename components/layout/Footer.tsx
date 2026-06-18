@@ -31,8 +31,8 @@ const DICT = {
     promesaCancelacionSub: "Hasta 24 h antes",
     promesaConfirmacion: "Confirmación inmediata",
     promesaConfirmacionSub: "Ticket en el móvil",
-    promesaSoporte: "Soporte 24 h",
-    promesaSoporteSub: "Vía Viator y GetYourGuide",
+    promesaSoporte: "Atención al cliente",
+    promesaSoporteSub: "Te ayudamos con tu reserva",
     sectionDestinos: "Destinos top",
     sectionWeb: "ExploraSpain",
     verTodas: "Ver todas →",
@@ -43,10 +43,12 @@ const DICT = {
     avisoLegal: "Aviso legal",
     privacidad: "Privacidad",
     cookies: "Cookies",
-    pagoSeguro: "Pago seguro procesado por nuestros partners",
+    pagoSeguro: "Pago 100% seguro",
+    pagoDirecto: "Reserva directa con pago seguro vía Stripe",
+    reservaPartners: "Reservas con partners oficiales",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "ExploraSpain es socio afiliado oficial de Viator (Tripadvisor) y GetYourGuide. Las reservas se realizan en sus plataformas con cancelación gratuita.",
+      "En las experiencias de reserva directa, el pago se procesa de forma segura con Stripe y la atención al cliente la presta ExploraSpain. En el resto, actuamos como afiliado oficial de Viator (Tripadvisor) y GetYourGuide, donde se completa la reserva con cancelación gratuita.",
   },
   en: {
     tagline:
@@ -55,8 +57,8 @@ const DICT = {
     promesaCancelacionSub: "Up to 24 h before",
     promesaConfirmacion: "Instant confirmation",
     promesaConfirmacionSub: "Mobile ticket",
-    promesaSoporte: "24 h support",
-    promesaSoporteSub: "Via Viator and GetYourGuide",
+    promesaSoporte: "Customer support",
+    promesaSoporteSub: "We help with your booking",
     sectionDestinos: "Top destinations",
     sectionWeb: "ExploraSpain",
     verTodas: "See all →",
@@ -67,10 +69,12 @@ const DICT = {
     avisoLegal: "Legal notice",
     privacidad: "Privacy",
     cookies: "Cookies",
-    pagoSeguro: "Secure payment processed by our partners",
+    pagoSeguro: "100% secure payment",
+    pagoDirecto: "Direct booking with secure payment via Stripe",
+    reservaPartners: "Bookings with official partners",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "ExploraSpain is an official affiliate partner of Viator (Tripadvisor) and GetYourGuide. Bookings are made on their platforms with free cancellation.",
+      "For direct-booking experiences, payment is securely processed by Stripe and customer support is provided by ExploraSpain. For the rest, we act as an official affiliate of Viator (Tripadvisor) and GetYourGuide, where the booking is completed with free cancellation.",
   },
 } as const;
 
@@ -225,26 +229,32 @@ export default function Footer({ idioma }: Props) {
 
         {/* Bloque pago seguro */}
         <div className="border-t border-slate-800 pt-12 pb-4 mb-8">
-          <p className="text-center text-sm text-white font-semibold mb-8 flex items-center justify-center gap-2">
+          <p className="text-center text-sm text-white font-semibold mb-6 flex items-center justify-center gap-2">
             <IconLock />
             {t.pagoSeguro}
           </p>
 
-          {/* Partners */}
+          {/* Pago directo (reservas Bokun) — procesado por Stripe */}
+          <p className="text-center text-xs text-slate-400 mb-3">
+            {t.pagoDirecto}
+          </p>
           <div className="flex justify-center items-center gap-3 flex-wrap mb-8">
-            <SelloChip texto="VIATOR" color="#1a1f71" size="lg" italic />
-            <span className="text-slate-600 text-xs">+</span>
-            <SelloChip texto="GetYourGuide" color="#f25c00" size="lg" />
-          </div>
-
-          {/* Métodos de pago — logos SVG inline. */}
-          <div className="flex justify-center items-center gap-3 flex-wrap">
             <LogoVisa />
             <LogoMastercard />
             <LogoAmex />
             <LogoPaypal />
             <LogoApplePay />
             <LogoGooglePay />
+            <SelloChip texto="stripe" color="#635BFF" size="lg" />
+          </div>
+
+          {/* Reservas con partners de afiliación */}
+          <p className="text-center text-xs text-slate-400 mb-3">
+            {t.reservaPartners}
+          </p>
+          <div className="flex justify-center items-center gap-3 flex-wrap">
+            <SelloChip texto="VIATOR" color="#1a1f71" size="lg" italic />
+            <SelloChip texto="GetYourGuide" color="#f25c00" size="lg" />
           </div>
         </div>
 
