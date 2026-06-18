@@ -238,27 +238,27 @@ export default function Footer({ idioma }: Props) {
           <p className="text-center text-xs text-slate-400 mb-3">
             {t.pagoDirecto}
           </p>
-          <div className="flex justify-center items-center gap-3 flex-wrap mb-8">
-            <img src="/payment/visa.svg" alt="Visa" className="h-9 w-auto" />
+          <div className="flex flex-wrap items-center justify-center md:justify-between gap-6 mb-10">
+            <img src="/payment/visa.svg" alt="Visa" className="h-11 w-auto" />
             <img
               src="/payment/mastercard.svg"
               alt="Mastercard"
-              className="h-9 w-auto"
+              className="h-11 w-auto"
             />
             <img
               src="/payment/amex.svg"
               alt="American Express"
-              className="h-9 w-auto"
+              className="h-11 w-auto"
             />
             <img
               src="/payment/applepay.svg"
               alt="Apple Pay"
-              className="h-8 w-auto"
+              className="h-10 w-auto"
             />
             <img
               src="/payment/googlepay.svg"
               alt="Google Pay"
-              className="h-8 w-auto"
+              className="h-10 w-auto"
             />
             <SelloChip texto="stripe" color="#635BFF" size="lg" />
           </div>
@@ -267,7 +267,7 @@ export default function Footer({ idioma }: Props) {
           <p className="text-center text-xs text-slate-400 mb-3">
             {t.reservaPartners}
           </p>
-          <div className="flex justify-center items-center gap-3 flex-wrap">
+          <div className="flex flex-wrap items-center justify-center gap-12">
             <SelloChip texto="VIATOR" color="#1a1f71" size="lg" italic />
             <SelloChip texto="GetYourGuide" color="#f25c00" size="lg" />
           </div>
