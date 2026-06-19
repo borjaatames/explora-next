@@ -3,18 +3,19 @@ import type { Idioma } from "@/lib/i18n/types";
 /**
  * Barra de señales de confianza para el hero (fondo sky-500).
  * Texto claro (sky-50) con iconos en amber-300, según la guía de estilo.
- * Sin cifras: solo promesas verificables (cancelación, confirmación, pago
- * seguro). Server Component puro.
+ * Sin cifras: solo promesas verificables (atención al cliente, confirmación,
+ * pago seguro). NO se promete cancelación gratuita en bloque porque algunas
+ * experiencias Bokun no la permiten; eso va por ficha. Server Component puro.
  */
 
 const DICT = {
   es: {
-    cancelacion: "Cancelación gratuita",
+    cancelacion: "Atención al cliente",
     confirmacion: "Confirmación inmediata",
     pago: "Pago 100% seguro",
   },
   en: {
-    cancelacion: "Free cancellation",
+    cancelacion: "Customer support",
     confirmacion: "Instant confirmation",
     pago: "100% secure payment",
   },
