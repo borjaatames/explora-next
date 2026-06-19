@@ -3,6 +3,10 @@ nombre: "Málaga"
 slug: "malaga"
 descripcion: "The city of Picasso, the Alcazaba and the best gateway to the Costa del Sol. Sun, museums and an old town reborn as the cultural capital of the south."
 resumenActividades: "The gateway to the Costa del Sol, now one of the south's cultural capitals with more than thirty museums. Within a few minutes: the Alcazaba, Gibralfaro Castle, the Roman Theatre, the Cathedral and the Picasso Museum, topped off by the Muelle Uno harbour and La Malagueta beach. An hour away lies the Caminito del Rey. Two days does it justice."
+imagenGuias: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp"
+imagenGuiasAlt: "The Caminito del Rey in the gorge"
+imagenAtracciones: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+imagenAtraccionesAlt: "Málaga's Alcazaba above the city"
 comunidad: "Andalusia"
 imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp"
 imagenResumenAlt: "Vista de Málaga: el puerto y la catedral"
@@ -58,5 +62,3 @@ Málaga is the capital of the Costa del Sol and Spain's sixth city —around 580
 Its old town packs a lot into a small space: the **Alcazaba** and **Gibralfaro Castle** crowning the city, the **Roman Theatre** at their feet, the Renaissance **Cathedral** and the **Picasso Museum**, dedicated to the city's most universal son. All five minutes apart on foot and rounded off by the redeveloped **Muelle Uno** port and La Malagueta beach.
 
 An hour away is the **Caminito del Rey**, one of Spain's best-selling nature experiences, with the whole **Costa del Sol** (Marbella, Nerja, Ronda) within day-trip reach. Málaga is seen well in **two days** and works as a base for exploring the province.
-
-The best
