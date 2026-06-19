@@ -3,7 +3,6 @@ import Image from "next/image";
 import LanguageSwitcher from "./LanguageSwitcher";
 import NavbarMobileMenu from "./NavbarMobileMenu";
 import {
-  urlIndiceGuias,
   urlIndiceCiudades,
   urlContacto,
   prefijoIdioma,
@@ -34,10 +33,6 @@ const DICT = {
   },
 } as const;
 
-function urlAbout(idioma: Idioma): string {
-  return idioma === "es" ? "/sobre-nosotros" : `/${idioma}/about`;
-}
-
 function urlHome(idioma: Idioma): string {
   return prefijoIdioma(idioma) || "/";
 }
@@ -57,11 +52,12 @@ type Props = {
 export default function Navbar({ idioma, mapaParejas }: Props) {
   const t = DICT[idioma === "en" ? "en" : "es"];
 
+  // Guías y "Sobre nosotros" se han sacado del menú principal: viven solo
+  // en el footer (columna ExploraSpain). El menú queda más limpio y enfocado
+  // en navegar a ciudades / contactar.
   const enlaces = [
     { href: urlHome(idioma), label: t.inicioMenu },
-    { href: urlIndiceGuias(idioma), label: t.guias },
     { href: urlIndiceCiudades(idioma), label: t.ciudades },
-    { href: urlAbout(idioma), label: t.sobreNosotros },
     { href: urlContacto(idioma), label: t.contacto },
   ];
 
