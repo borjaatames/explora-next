@@ -20,16 +20,28 @@ keywords:
 atracciones:
   - nombre: "Mezquita-Catedral"
     descripcion: "El monumento más impresionante de Córdoba y uno de los grandes de España: un bosque de 856 columnas y arcos bicolor con una catedral renacentista incrustada en su interior. Patrimonio de la Humanidad y símbolo de la ciudad de las tres culturas. Reserva la entrada con antelación."
+    imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-pixabay-5078141.jpg"
+    imagenAlt: "Interior de la Mezquita-Catedral de Córdoba con sus arcos bicolor"
   - nombre: "La Judería y la Sinagoga"
     descripcion: "El laberinto de callejuelas blancas del barrio judío medieval, con la Sinagoga del siglo XIV —una de las tres conservadas en España— y la famosa Calleja de las Flores. Se recorre a pie y rodea la Mezquita."
+    imagen: "/images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg"
+    imagenAlt: "Calleja de las Flores en la Judería de Córdoba"
   - nombre: "Alcázar de los Reyes Cristianos"
     descripcion: "La fortaleza-palacio donde residieron los Reyes Católicos, con sus torres, baños árabes y, sobre todo, unos jardines escalonados de estanques y surtidores que son de lo más fotografiado de Córdoba."
+    imagen: "/images/actividades/cordoba/alcazar/alcazar-cordoba-jardines-hero.webp"
+    imagenAlt: "Jardines del Alcázar de los Reyes Cristianos de Córdoba"
   - nombre: "Puente Romano y la Calahorra"
     descripcion: "El puente romano sobre el Guadalquivir, con la Torre de la Calahorra en un extremo y la Mezquita al fondo. La estampa clásica de Córdoba, especialmente al atardecer."
+    imagen: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
+    imagenAlt: "Puente Romano de Córdoba sobre el Guadalquivir con la Mezquita al fondo"
   - nombre: "Los Patios de Córdoba"
     descripcion: "Patios encalados repletos de macetas y flores, Patrimonio Inmaterial de la Humanidad. El Palacio de Viana reúne doce de los más bonitos; en mayo, la Fiesta de los Patios abre decenas de casas particulares."
+    imagen: "/images/actividades/cordoba/patios/patios-cordoba-hero.webp"
+    imagenAlt: "Patio cordobés encalado lleno de macetas y flores"
   - nombre: "Medina Azahara"
     descripcion: "La ciudad palatina del califa Abderramán III, a las afueras. Las ruinas de la capital del califato omeya de Occidente, Patrimonio de la Humanidad. Se visita en media jornada desde Córdoba."
+    imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-pixabay-7771933.jpg"
+    imagenAlt: "Ruinas de Medina Azahara, ciudad palatina del califato de Córdoba"
 chipsFiltros:
   - { label: "Mezquita-Catedral", tag: "mezquita-catedral" }
   - { label: "Judería", tag: "juderia" }

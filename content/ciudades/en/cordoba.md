@@ -23,16 +23,28 @@ slugs:
 atracciones:
   - nombre: "Mosque-Cathedral"
     descripcion: "Córdoba's most impressive monument and one of Spain's greatest: a forest of 856 columns and two-tone arches with a Renaissance cathedral built inside it. A UNESCO World Heritage Site and the symbol of the city of three cultures. Book your ticket in advance."
+    imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-pixabay-5078141.jpg"
+    imagenAlt: "Interior of the Mosque-Cathedral of Córdoba with its two-tone arches"
   - nombre: "The Jewish Quarter and Synagogue"
     descripcion: "The maze of white alleys of the medieval Jewish quarter, with the 14th-century Synagogue —one of only three preserved in Spain— and the famous Calleja de las Flores. Explored on foot, it wraps around the Mosque."
+    imagen: "/images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg"
+    imagenAlt: "Calleja de las Flores in Córdoba's Jewish Quarter"
   - nombre: "Alcázar of the Christian Monarchs"
     descripcion: "The fortress-palace where the Catholic Monarchs lived, with its towers, Arab baths and, above all, terraced gardens of pools and fountains that are among the most photographed sights in Córdoba."
+    imagen: "/images/actividades/cordoba/alcazar/alcazar-cordoba-jardines-hero.webp"
+    imagenAlt: "Gardens of the Alcázar de los Reyes Cristianos in Córdoba"
   - nombre: "Roman Bridge and the Calahorra"
     descripcion: "The Roman bridge over the Guadalquivir, with the Calahorra Tower at one end and the Mosque in the background. Córdoba's classic view, especially at sunset."
+    imagen: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
+    imagenAlt: "Roman Bridge of Córdoba over the Guadalquivir with the Mosque behind"
   - nombre: "The Patios of Córdoba"
     descripcion: "Whitewashed patios filled with pots and flowers, an Intangible Cultural Heritage. The Palacio de Viana gathers twelve of the finest; in May, the Patio Festival opens dozens of private homes."
+    imagen: "/images/actividades/cordoba/patios/patios-cordoba-hero.webp"
+    imagenAlt: "Whitewashed Córdoba courtyard full of flower pots"
   - nombre: "Medina Azahara"
     descripcion: "The palatial city of Caliph Abd al-Rahman III, on the outskirts. The ruins of the capital of the Western Umayyad Caliphate, a UNESCO World Heritage Site. Visited as a half-day trip from Córdoba."
+    imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-pixabay-7771933.jpg"
+    imagenAlt: "Ruins of Medina Azahara, palace-city of the Córdoba caliphate"
 chipsFiltros:
   - { label: "Mosque-Cathedral", tag: "mezquita-catedral" }
   - { label: "Jewish Quarter", tag: "juderia" }
