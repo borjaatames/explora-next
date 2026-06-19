@@ -20,16 +20,28 @@ keywords:
 atracciones:
   - nombre: "Dalt Vila"
     descripcion: "La ciudad alta amurallada de Ibiza, Patrimonio de la Humanidad: murallas renacentistas, la catedral en lo alto y callejuelas con vistas al puerto. El casco histórico mejor conservado del Mediterráneo."
+    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
+    imagenAlt: "Dalt Vila, la ciudad alta amurallada de Ibiza, con la catedral en lo alto"
   - nombre: "Es Vedrà"
     descripcion: "El islote rocoso que emerge frente a la costa suroeste, envuelto en leyendas. El atardecer desde Cala d'Hort, con Es Vedrà al fondo, es la postal de la isla."
+    imagen: "/images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp"
+    imagenAlt: "El islote de Es Vedrà al atardecer frente a la costa de Ibiza"
   - nombre: "Calas y playas"
     descripcion: "Cala Comte, Cala Salada, Cala d'Hort... algunas de las calas de agua turquesa más bonitas del Mediterráneo, célebres por sus atardeceres."
+    imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-03.webp"
+    imagenAlt: "Cala de aguas turquesas en Ibiza"
   - nombre: "Formentera"
     descripcion: "La isla vecina, a media hora en ferry, con playas de arena blanca y agua caribeña como Ses Illetes. La excursión imprescindible desde Ibiza."
+    imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-02.webp"
+    imagenAlt: "Playas de agua cristalina de Formentera"
   - nombre: "San Antonio y los atardeceres"
     descripcion: "La capital del oeste, famosa por sus puestas de sol en el Sunset Strip (Café del Mar) y por ser uno de los epicentros del ocio nocturno."
+    imagen: "/images/actividades/ibiza/san-antonio/san-antonio-ibiza-hero.webp"
+    imagenAlt: "Atardecer en San Antonio, Ibiza"
   - nombre: "Ocio nocturno"
     descripcion: "Las discotecas más famosas del mundo —Pacha, Ushuaïa, Amnesia, Hï— y las fiestas en barco, que han hecho de Ibiza la capital mundial de la música electrónica."
+    imagen: "/images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp"
+    imagenAlt: "Fiesta en Ushuaïa, el ocio nocturno de Ibiza"
 chipsFiltros:
   - { label: "Dalt Vila", tag: "dalt-vila" }
   - { label: "Es Vedrà", tag: "es-vedra" }
