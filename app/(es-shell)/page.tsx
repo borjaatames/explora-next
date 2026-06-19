@@ -16,6 +16,20 @@ import TrustStrip from "@/components/TrustStrip";
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
+/**
+ * Destinos principales que se muestran en la home (orden manual). El resto
+ * de ciudades sigue accesible desde /ciudades. Civitatis-style: pocos
+ * destinos, muy visuales.
+ */
+const ORDEN_DESTINOS_HOME = [
+  "madrid",
+  "barcelona",
+  "sevilla",
+  "granada",
+  "valencia",
+  "malaga",
+] as const;
+
 export const metadata: Metadata = {
   title: "ExploraSpain · Actividades, tours y entradas en España",
   description:
@@ -50,6 +64,13 @@ export default function HomePage() {
 
   // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.
   const nombrePorCiudad = new Map(ciudades.map((c) => [c.slug, c.nombre]));
+
+  // Destinos principales de la home: 6 ciudades en orden manual. Si alguna
+  // no estuviera publicada, simplemente se omite (sin huecos).
+  const porSlug = new Map(ciudades.map((c) => [c.slug, c]));
+  const destinosHome = ORDEN_DESTINOS_HOME.map((s) => porSlug.get(s)).filter(
+    (c): c is NonNullable<typeof c> => c != null
+  );
 
   // Actividades estrella de la home: las que promocionamos en Google Ads.
   // Selección curada en lib/actividades.ts (obtenerActividadesHome).
@@ -95,117 +116,83 @@ export default function HomePage() {
         }}
       />
 
-      {/* Hero */}
-      <section className="bg-sky-500 text-white">
-        <div className="max-w-5xl mx-auto px-4 py-20 md:py-28 text-center">
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight">
+      {/* Hero con foto de fondo */}
+      <section className="relative isolate overflow-hidden text-white">
+        <Image
+          src="/images/home/hero.jpg"
+          alt=""
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover"
+        />
+        {/* Overlay oscuro para que el texto blanco siempre tenga contraste */}
+        <div className="absolute inset-0 bg-slate-900/55" />
+        <div className="relative max-w-5xl mx-auto px-4 py-24 md:py-32 text-center">
+          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight drop-shadow">
             Actividades y tours en España, elegidos con criterio
           </h1>
-          <p className="text-lg md:text-xl text-sky-50 mb-8 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
             Entradas, visitas guiadas y excursiones seleccionadas a mano. Con
             cancelación gratuita y reserva con partners de confianza.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="#actividades"
+              href="#destinos"
               className="bg-amber-400 hover:bg-amber-500 text-slate-900 font-semibold px-8 py-3 rounded-lg transition-colors"
             >
-              Ver actividades destacadas
+              Explorar destinos
             </Link>
             <Link
-              href="/ciudades"
+              href="#actividades"
               className="bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/30"
             >
-              Explorar destinos
+              Ver actividades destacadas
             </Link>
           </div>
           <TrustStrip idioma="es" />
         </div>
       </section>
 
-      {/* Actividades y tours destacados */}
-      {actividadesHome.length > 0 && (
+      {/* Principales destinos */}
+      {destinosHome.length > 0 && (
         <section
-          id="actividades"
+          id="destinos"
           className="max-w-6xl mx-auto px-4 py-16 md:py-20 scroll-mt-24"
         >
           <div className="mb-10">
             <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
-              Actividades y tours destacados
+              Principales destinos
             </h2>
             <p className="text-slate-600 text-lg">
-              Lo mejor de cada ciudad: cancelación gratuita y confirmación
-              inmediata.
+              Elige tu ciudad y descubre las mejores actividades en cada una.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {actividadesHome.map((a) => (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {destinosHome.map((ciudad, index) => (
               <Link
-                key={a.url}
-                href={a.url}
-                className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md"
+                key={ciudad.url}
+                href={urlActividadesDeCiudad("es", ciudad.slug)}
+                className="group relative block h-56 md:h-64 rounded-xl overflow-hidden shadow-sm"
               >
-                <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
-                  {a.imagen ? (
-                    <Image
-                      src={a.imagen}
-                      alt={a.imagenAlt}
-                      fill
-                      sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
-                      className="object-cover transition duration-300 group-hover:scale-105"
-                    />
-                  ) : null}
-                  {a.cancelacionGratuita ? (
-                    <span className="absolute top-3 left-3 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded">
-                      Cancelación gratuita
-                    </span>
-                  ) : null}
-                </div>
-                <div className="flex flex-1 flex-col p-5">
-                  {nombrePorCiudad.get(a.ciudad) ? (
-                    <span className="text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
-                      {nombrePorCiudad.get(a.ciudad)}
-                    </span>
-                  ) : null}
-                  <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2">
-                    {a.titulo}
+                <Image
+                  src={`/ciudades/${ciudad.slug}.jpg`}
+                  alt={`${ciudad.nombre}, ${ciudad.comunidad}`}
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  priority={index === 0}
+                />
+                {/* Degradado inferior para legibilidad del nombre */}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
+                <div className="absolute inset-x-0 bottom-0 p-5">
+                  <span className="inline-block bg-white/90 text-slate-800 text-[11px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded mb-2">
+                    {ciudad.comunidad}
+                  </span>
+                  <h3 className="font-playfair text-2xl md:text-3xl font-bold text-white leading-tight drop-shadow">
+                    {ciudad.nombre}
                   </h3>
-                  <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-slate-500 mb-4">
-                    {a.duracion ? <span>{a.duracion}</span> : null}
-                    {typeof a.ratingProveedor === "number" &&
-                    typeof a.numeroOpiniones === "number" ? (
-                      <span>
-                        <span className="text-amber-500" aria-hidden="true">
-                          ★
-                        </span>{" "}
-                        {a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})
-                      </span>
-                    ) : null}
-                  </div>
-                  <div className="mt-auto pt-4 border-t border-slate-100">
-                    <SelloProveedor
-                      proveedor={a.proveedor}
-                      idioma="es"
-                      className="mb-3"
-                    />
-                    <div className="flex items-end justify-between">
-                      <div>
-                        <p className="text-xs uppercase tracking-wider text-slate-400">
-                          Desde
-                        </p>
-                        <p className="text-xl font-bold text-slate-900">
-                          {formatearPrecio(a.precioDesde, a.moneda)}
-                        </p>
-                      </div>
-                      <span
-                        aria-hidden="true"
-                        className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
-                      >
-                        Ver actividad →
-                      </span>
-                    </div>
-                  </div>
                 </div>
               </Link>
             ))}
@@ -216,52 +203,96 @@ export default function HomePage() {
               href="/ciudades"
               className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
             >
-              Ver todas las actividades por ciudad →
+              Ver todas las ciudades →
             </Link>
           </div>
         </section>
       )}
 
-      {/* Ciudades / destinos */}
-      {ciudades.length > 0 && (
-        <section className="bg-amber-50 border-y border-amber-200">
+      {/* Actividades y tours destacados (debajo de los destinos) */}
+      {actividadesHome.length > 0 && (
+        <section
+          id="actividades"
+          className="bg-slate-50 border-y border-slate-200 scroll-mt-24"
+        >
           <div className="max-w-6xl mx-auto px-4 py-16 md:py-20">
             <div className="mb-10">
               <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
-                Explora por destino
+                Actividades destacadas
               </h2>
-              <p className="text-slate-700 text-lg">
-                Elige tu ciudad y descubre las mejores actividades en cada una.
+              <p className="text-slate-600 text-lg">
+                Lo mejor de cada ciudad: cancelación gratuita y confirmación
+                inmediata.
               </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {ciudades.map((ciudad, index) => (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+              {actividadesHome.map((a) => (
                 <Link
-                  key={ciudad.url}
-                  href={urlActividadesDeCiudad("es", ciudad.slug)}
-                  className="group block bg-white border border-amber-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
+                  key={a.url}
+                  href={a.url}
+                  className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md"
                 >
-                  <div className="relative w-full h-44 bg-slate-100 overflow-hidden">
-                    <Image
-                      src={`/ciudades/${ciudad.slug}.jpg`}
-                      alt={`${ciudad.nombre}, ${ciudad.comunidad}`}
-                      fill
-                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                      className="object-cover group-hover:scale-105 transition-transform duration-300"
-                      priority={index === 0}
-                    />
+                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+                    {a.imagen ? (
+                      <Image
+                        src={a.imagen}
+                        alt={a.imagenAlt}
+                        fill
+                        sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
+                        className="object-cover transition duration-300 group-hover:scale-105"
+                      />
+                    ) : null}
+                    {a.cancelacionGratuita ? (
+                      <span className="absolute top-3 left-3 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded">
+                        Cancelación gratuita
+                      </span>
+                    ) : null}
                   </div>
-                  <div className="p-6">
-                    <span className="inline-block bg-amber-100 text-amber-800 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
-                      {ciudad.comunidad}
-                    </span>
-                    <h3 className="font-playfair text-2xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
-                      {ciudad.nombre}
+                  <div className="flex flex-1 flex-col p-5">
+                    {nombrePorCiudad.get(a.ciudad) ? (
+                      <span className="text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
+                        {nombrePorCiudad.get(a.ciudad)}
+                      </span>
+                    ) : null}
+                    <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2">
+                      {a.titulo}
                     </h3>
-                    <p className="text-slate-600 leading-relaxed">
-                      {ciudad.descripcion}
-                    </p>
+                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-slate-500 mb-4">
+                      {a.duracion ? <span>{a.duracion}</span> : null}
+                      {typeof a.ratingProveedor === "number" &&
+                      typeof a.numeroOpiniones === "number" ? (
+                        <span>
+                          <span className="text-amber-500" aria-hidden="true">
+                            ★
+                          </span>{" "}
+                          {a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})
+                        </span>
+                      ) : null}
+                    </div>
+                    <div className="mt-auto pt-4 border-t border-slate-100">
+                      <SelloProveedor
+                        proveedor={a.proveedor}
+                        idioma="es"
+                        className="mb-3"
+                      />
+                      <div className="flex items-end justify-between">
+                        <div>
+                          <p className="text-xs uppercase tracking-wider text-slate-400">
+                            Desde
+                          </p>
+                          <p className="text-xl font-bold text-slate-900">
+                            {formatearPrecio(a.precioDesde, a.moneda)}
+                          </p>
+                        </div>
+                        <span
+                          aria-hidden="true"
+                          className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+                        >
+                          Ver actividad →
+                        </span>
+                      </div>
+                    </div>
                   </div>
                 </Link>
               ))}
@@ -272,7 +303,7 @@ export default function HomePage() {
                 href="/ciudades"
                 className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
               >
-                Ver todas las ciudades →
+                Ver todas las actividades por ciudad →
               </Link>
             </div>
           </div>
