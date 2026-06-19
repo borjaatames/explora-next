@@ -6,7 +6,7 @@ slug: "cadiz-carnival"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-04-29"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 11
 keywords:

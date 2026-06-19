@@ -6,7 +6,7 @@ slug: "escapadas-desde-bilbao"
 fecha: "2026-04-26"
 fecha_actualizacion: "2026-04-26"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 11
 keywords:

@@ -6,7 +6,7 @@ slug: "tarraco-romana-que-ver"
 fecha: "2026-04-21"
 fecha_actualizacion: "2026-04-21"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 12
 keywords:

@@ -6,7 +6,7 @@ slug: "bilbao-in-one-day"
 fecha: "2026-03-13"
 fecha_actualizacion: "2026-03-13"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 11
 keywords:

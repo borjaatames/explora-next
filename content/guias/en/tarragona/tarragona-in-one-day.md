@@ -6,7 +6,7 @@ slug: "tarragona-in-one-day"
 fecha: "2026-04-10"
 fecha_actualizacion: "2026-04-10"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 11
 keywords:

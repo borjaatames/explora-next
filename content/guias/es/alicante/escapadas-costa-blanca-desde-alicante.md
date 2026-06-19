@@ -6,7 +6,7 @@ slug: "escapadas-costa-blanca-desde-alicante"
 fecha: "2026-04-17"
 fecha_actualizacion: "2026-04-17"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 11
 keywords:

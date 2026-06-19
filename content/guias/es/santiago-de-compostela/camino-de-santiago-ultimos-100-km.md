@@ -6,7 +6,7 @@ slug: "camino-de-santiago-ultimos-100-km"
 fecha: "2026-05-11"
 fecha_actualizacion: "2026-05-11"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 12
 keywords:

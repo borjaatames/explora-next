@@ -6,7 +6,7 @@ slug: "eating-in-mallorca"
 fecha: "2026-04-20"
 fecha_actualizacion: "2026-04-20"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 10
 keywords:

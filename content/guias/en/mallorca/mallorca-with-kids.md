@@ -6,7 +6,7 @@ slug: "mallorca-with-kids"
 fecha: "2026-04-09"
 fecha_actualizacion: "2026-04-09"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 11
 keywords:

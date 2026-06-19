@@ -6,7 +6,7 @@ slug: "what-to-see-in-mallorca"
 fecha: "2026-03-07"
 fecha_actualizacion: "2026-03-07"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 13
 keywords:

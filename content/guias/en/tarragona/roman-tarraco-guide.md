@@ -6,7 +6,7 @@ slug: "roman-tarraco-guide"
 fecha: "2026-04-21"
 fecha_actualizacion: "2026-04-21"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 12
 keywords:

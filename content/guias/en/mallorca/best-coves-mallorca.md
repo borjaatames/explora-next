@@ -6,7 +6,7 @@ slug: "best-coves-mallorca"
 fecha: "2026-03-29"
 fecha_actualizacion: "2026-03-29"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 11
 keywords:

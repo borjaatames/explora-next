@@ -6,7 +6,7 @@ slug: "cadiz-en-un-dia"
 fecha: "2026-04-18"
 fecha_actualizacion: "2026-04-18"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 11
 keywords:

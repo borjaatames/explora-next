@@ -6,7 +6,7 @@ slug: "salamanca-en-un-fin-de-semana"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-05-02"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"
 imagen_alt: "Vista del Puente Romano sobre el río Tormes en Salamanca"

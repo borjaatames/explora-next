@@ -6,7 +6,7 @@ slug: "salamanca-weekend-trip"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-05-03"
 autor: "ExploraSpain editorial team"
-publicada: true
+publicada: false
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"
 imagen_alt: "View of the Roman Bridge over the Tormes river in Salamanca"

@@ -6,7 +6,7 @@ slug: "portaventura-world-guia"
 fecha: "2026-05-01"
 fecha_actualizacion: "2026-05-01"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 11
 keywords:

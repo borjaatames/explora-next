@@ -6,7 +6,7 @@ slug: "que-ver-en-mallorca"
 fecha: "2026-03-07"
 fecha_actualizacion: "2026-03-07"
 autor: "Equipo ExploraSpain"
-publicada: true
+publicada: false
 destacada: true
 tiempo_lectura: 13
 keywords:

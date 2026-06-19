@@ -6,7 +6,7 @@ slug: "cadiz-beaches-costa-de-la-luz"
 fecha: "2026-05-07"
 fecha_actualizacion: "2026-05-07"
 autor: "ExploraSpain Team"
-publicada: true
+publicada: false
 destacada: false
 tiempo_lectura: 11
 keywords:
