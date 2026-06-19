@@ -5,7 +5,7 @@ descripcion: "The golden city of Castile: a Baroque Plaza Mayor, Spain's oldest 
 comunidad: "Castile and León"
 imagen: "/ciudades/salamanca.jpg"
 imagenAlt: "View of Salamanca with its Cathedral and golden stone at sunset"
-publicada: true
+publicada: false
 destacada: true
 orden: 11
 keywords:

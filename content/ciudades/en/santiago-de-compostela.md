@@ -5,7 +5,7 @@ descripcion: "The end of the Camino: the cathedral, the Obradoiro and a World He
 comunidad: "Galicia"
 imagen: "/images/actividades/santiago-de-compostela/ciudades/santiago-de-compostela-hero.webp"
 imagenAlt: "Santiago de Compostela Cathedral and the Obradoiro façade"
-publicada: true
+publicada: false
 destacada: false
 orden: 15
 keywords:

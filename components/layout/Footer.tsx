@@ -90,8 +90,8 @@ const CIUDADES_TOP: ReadonlyArray<{
   { slug: "granada", nombreEs: "Granada", nombreEn: "Granada" },
   { slug: "valencia", nombreEs: "Valencia", nombreEn: "Valencia" },
   { slug: "malaga", nombreEs: "Málaga", nombreEn: "Málaga" },
-  { slug: "mallorca", nombreEs: "Mallorca", nombreEn: "Mallorca" },
-  { slug: "bilbao", nombreEs: "Bilbao", nombreEn: "Bilbao" },
+  { slug: "cordoba", nombreEs: "Córdoba", nombreEn: "Cordoba" },
+  { slug: "girona", nombreEs: "Girona", nombreEn: "Girona" },
 ];
 
 function urlAbout(idioma: Idioma): string {

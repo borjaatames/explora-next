@@ -5,7 +5,7 @@ descripcion: "Palma Cathedral, the Drach Caves and the Serra de Tramuntana. The 
 comunidad: "Balearic Islands"
 imagen: "/images/actividades/mallorca/ciudades/mallorca-hero.webp"
 imagenAlt: "Palma Cathedral (La Seu) in Mallorca by the sea"
-publicada: true
+publicada: false
 destacada: false
 orden: 6
 keywords:

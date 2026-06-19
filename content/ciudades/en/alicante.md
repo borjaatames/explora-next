@@ -5,7 +5,7 @@ descripcion: "A castle above the sea, the Explanada promenade and urban beaches.
 comunidad: "Valencian Community"
 imagen: "/images/actividades/alicante/ciudades/alicante-hero.webp"
 imagenAlt: "View of Alicante bay with the marina and the hill of Santa Bárbara Castle"
-publicada: true
+publicada: false
 destacada: false
 orden: 8
 keywords:

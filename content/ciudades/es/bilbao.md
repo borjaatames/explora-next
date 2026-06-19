@@ -5,7 +5,7 @@ descripcion: "El Guggenheim, el Casco Viejo y la mejor cocina de pintxos. La cap
 comunidad: "País Vasco"
 imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
 imagenAlt: "El Museo Guggenheim de Bilbao a orillas de la ría"
-publicada: true
+publicada: false
 destacada: false
 orden: 7
 keywords:

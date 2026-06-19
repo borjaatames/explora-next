@@ -5,7 +5,7 @@ descripcion: "The Guggenheim, the Old Town and the best pintxos cuisine. The Bis
 comunidad: "Basque Country"
 imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
 imagenAlt: "The Guggenheim Museum in Bilbao on the riverbank"
-publicada: true
+publicada: false
 destacada: false
 orden: 7
 keywords:

@@ -5,7 +5,7 @@ descripcion: "El fin del Camino: la catedral, el Obradoiro y un casco histórico
 comunidad: "Galicia"
 imagen: "/images/actividades/santiago-de-compostela/ciudades/santiago-de-compostela-hero.webp"
 imagenAlt: "La Catedral de Santiago de Compostela y la fachada del Obradoiro"
-publicada: true
+publicada: false
 destacada: false
 orden: 15
 keywords:

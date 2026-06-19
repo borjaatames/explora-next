@@ -5,7 +5,7 @@ descripcion: "La ciudad dorada de Castilla: Plaza Mayor barroca, la universidad 
 comunidad: "Castilla y León"
 imagen: "/ciudades/salamanca.jpg"
 imagenAlt: "Vista de Salamanca con la Catedral y la piedra dorada al atardecer"
-publicada: true
+publicada: false
 destacada: true
 orden: 11
 keywords:

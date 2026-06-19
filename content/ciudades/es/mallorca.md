@@ -5,7 +5,7 @@ descripcion: "La catedral de Palma, las cuevas del Drach y la Serra de Tramuntan
 comunidad: "Islas Baleares"
 imagen: "/images/actividades/mallorca/ciudades/mallorca-hero.webp"
 imagenAlt: "La Catedral de Palma de Mallorca (La Seu) junto al mar"
-publicada: true
+publicada: false
 destacada: false
 orden: 6
 keywords:
