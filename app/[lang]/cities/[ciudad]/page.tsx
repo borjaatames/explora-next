@@ -199,11 +199,11 @@ export default async function CiudadPage({ params }: Props) {
               sizes="100vw"
               className="object-cover"
             />
-            <div className="absolute inset-0 bg-sky-500/75" aria-hidden="true" />
+            <div className="absolute inset-0 bg-slate-900/55" aria-hidden="true" />
           </>
         ) : null}
         <div className="relative max-w-3xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-sky-100 mb-4">
+          <nav aria-label="Breadcrumb" className="text-sm text-slate-200 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>
@@ -221,7 +221,7 @@ export default async function CiudadPage({ params }: Props) {
           <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
             {ciudad.nombre}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">{ciudad.descripcion}</p>
+          <p className="text-lg md:text-xl text-slate-100">{ciudad.descripcion}</p>
         </div>
       </header>
 

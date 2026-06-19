@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
   CATEGORIAS_ACTIVIDAD,
@@ -168,9 +169,22 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
-        <div className="max-w-5xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
+      <header className="relative isolate overflow-hidden bg-sky-500 text-white py-12 md:py-16">
+        {ciudad.imagenActividades || ciudad.imagen ? (
+          <>
+            <Image
+              src={(ciudad.imagenActividades || ciudad.imagen) as string}
+              alt=""
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover"
+            />
+            <div className="absolute inset-0 bg-slate-900/60" aria-hidden="true" />
+          </>
+        ) : null}
+        <div className="relative max-w-5xl mx-auto px-4">
+          <nav aria-label="Migas de pan" className="text-sm text-slate-200 mb-4">
             <Link href="/" className="hover:text-white">Inicio</Link>
             {" › "}
             <Link href="/ciudades" className="hover:text-white">Ciudades</Link>
@@ -183,7 +197,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
           <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-3 leading-tight">
             Actividades en {ciudad.nombre}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50 max-w-3xl mb-6">
+          <p className="text-lg md:text-xl text-slate-100 max-w-3xl mb-6">
             Tours, visitas guiadas y excursiones seleccionadas con criterio editorial.
           </p>
 
@@ -239,10 +253,10 @@ function Metrica({
       <div className="text-2xl md:text-3xl font-bold text-white leading-none">
         {valor}
         {sufijo ? (
-          <span className="text-sm font-normal text-sky-100">{sufijo}</span>
+          <span className="text-sm font-normal text-slate-200">{sufijo}</span>
         ) : null}
       </div>
-      <div className="text-xs text-sky-100 mt-1">{etiqueta}</div>
+      <div className="text-xs text-slate-200 mt-1">{etiqueta}</div>
     </div>
   );
 }
