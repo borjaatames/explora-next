@@ -113,12 +113,24 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
               <li key={lang} role="option" aria-selected={seleccionado}>
                 <Link
                   href={destino}
-                  onClick={() => {
+                  prefetch={false}
+                  onClick={(e) => {
                     // Persistir la elección de idioma. Sin esto, el middleware
                     // de la home reescribe "/" según la cookie/navegador y la
                     // selección manual se pierde (rebote a /en).
                     document.cookie = `${COOKIE_LOCALE}=${lang}; path=/; max-age=31536000; samesite=lax`;
                     setAbierto(false);
+
+                    // Navegación DURA (recarga completa) en vez del soft-nav de
+                    // Next. Motivo del bug recurrente: el router prefetch-cachea
+                    // la home "/" resuelta con la cookie/Accept-Language ANTERIOR
+                    // (inglés); al volver a "/" para pasar a español usaba esa
+                    // versión cacheada y el middleware la rebotaba a /en, de modo
+                    // que "no se podía cambiar a ES" desde el inicio en inglés.
+                    // window.location obliga a una request real al servidor con
+                    // la cookie recién puesta, sin caché de prefetch de por medio.
+                    e.preventDefault();
+                    window.location.assign(destino);
                   }}
                   className={`block px-3 py-2 text-sm transition-colors ${
                     seleccionado
