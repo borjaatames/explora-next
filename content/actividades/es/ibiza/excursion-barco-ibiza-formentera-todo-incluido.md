@@ -49,14 +49,14 @@ keywords:
 - excursion barco ibiza formentera
 - barco formentera todo incluido
 - fiesta barco ibiza atardecer
-imagen: "https://imgcdn.bokun.tools/d1b64079-063a-48f2-a640-10582c340940.jpeg"
+imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Barco frente a las aguas turquesa de Formentera"
 galeria:
-- src: https://imgcdn.bokun.tools/d1b64079-063a-48f2-a640-10582c340940.jpeg
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-01.webp
   alt: Barco frente a las aguas turquesa de Formentera
-- src: https://imgcdn.bokun.tools/0e31727a-1bb1-4858-98ce-7995a854640f.jpeg
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-02.webp
   alt: Aguas cristalinas de Formentera desde el barco
-- src: https://imgcdn.bokun.tools/4da6f196-fa54-42f1-baf8-83de547dada2.jpeg
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-03.webp
   alt: Ambiente a bordo de la excursión Ibiza-Formentera
 publicada: true
 destacada: false
