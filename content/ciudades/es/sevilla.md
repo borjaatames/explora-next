@@ -4,6 +4,8 @@ slug: "sevilla"
 descripcion: "Andalucía concentrada: catedral, Alcázar, Triana y la mejor luz de España."
 resumenActividades: "Andalucía concentrada a orillas del Guadalquivir: la Catedral con la Giralda, el Real Alcázar mudéjar, la Plaza de España y el barrio de Triana. Es la ciudad del flamenco, los patios, la Feria de Abril y la Semana Santa. Tres días bastan; la mejor época, marzo-abril y octubre-noviembre, evitando el calor extremo del verano."
 comunidad: "Andalucía"
+imagenResumen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
+imagenResumenAlt: "Plaza de España de Sevilla"
 imagen: "/ciudades/sevilla.jpg"
 imagenAlt: "Vista de Sevilla con la Giralda y la Catedral"
 publicada: true

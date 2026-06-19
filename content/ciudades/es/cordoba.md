@@ -4,6 +4,8 @@ slug: "cordoba"
 descripcion: "La Mezquita-Catedral, la Judería y los patios. La ciudad de las tres culturas y uno de los cascos históricos más bellos de Europa."
 resumenActividades: "Antigua capital del califato y ciudad de las tres culturas, con uno de los cascos históricos más bellos de Europa. Su joya es la Mezquita-Catedral; alrededor, la Judería, el Alcázar de los Reyes Cristianos, el Puente Romano y los célebres patios. Compacta, se ve en uno o dos días, aunque merece hacer noche. Mejor en primavera."
 comunidad: "Andalucía"
+imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-pixabay-5078141.jpg"
+imagenResumenAlt: "Mezquita-Catedral de Córdoba"
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "La Mezquita-Catedral de Córdoba y el Puente Romano reflejados en el Guadalquivir"
 publicada: true

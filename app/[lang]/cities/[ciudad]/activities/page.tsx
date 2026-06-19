@@ -154,6 +154,12 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
     hayGuias && hayAtracciones
       ? "grid grid-cols-1 md:grid-cols-2 gap-6"
       : "grid grid-cols-1 gap-6";
+  const imagenCabecera = ciudad.imagenActividades || ciudad.imagen;
+  const imagenSobre =
+    ciudad.imagenResumen ||
+    [ciudad.imagen, ciudad.imagenAtracciones, ciudad.imagenGuias].find(
+      (img) => img && img !== imagenCabecera
+    );
   const dict = getDictionary(IDIOMA);
   const categorias = categoriasPresentes(
     actividades,
@@ -268,21 +274,47 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       {/* City intro text as secondary context at the foot of the page. */}
       {ciudad.resumenActividades || ciudad.contenidoHtml ? (
         <section className="bg-slate-50 border-t border-slate-200">
-          <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
-              About {ciudad.nombre}
-            </h2>
+          <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
             {ciudad.resumenActividades ? (
-              <p className="text-slate-600 text-base md:text-lg leading-relaxed">
-                {ciudad.resumenActividades}
-              </p>
-            ) : (
               <div
-                className="prose-guia text-justify hyphens-auto"
-                dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
-              />
+                className={
+                  imagenSobre
+                    ? "grid md:grid-cols-2 gap-8 lg:gap-10 items-center"
+                    : "max-w-3xl"
+                }
+              >
+                {imagenSobre ? (
+                  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl bg-slate-100 shadow-sm">
+                    <Image
+                      src={imagenSobre}
+                      alt={ciudad.imagenResumenAlt || "View of " + ciudad.nombre}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 50vw"
+                      className="object-cover"
+                    />
+                  </div>
+                ) : null}
+                <div>
+                  <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
+                    About {ciudad.nombre}
+                  </h2>
+                  <p className="text-slate-600 text-base md:text-lg leading-relaxed">
+                    {ciudad.resumenActividades}
+                  </p>
+                </div>
+              </div>
+            ) : (
+              <article className="max-w-3xl">
+                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+                  About {ciudad.nombre}
+                </h2>
+                <div
+                  className="prose-guia text-justify hyphens-auto"
+                  dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+                />
+              </article>
             )}
-          </article>
+          </div>
         </section>
       ) : null}
 

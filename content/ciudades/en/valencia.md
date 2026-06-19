@@ -4,6 +4,8 @@ slug: "valencia"
 descripcion: "The City of Arts and Sciences, the birthplace of paella and a record-breaking old town. Spain's third city, right on the Mediterranean."
 resumenActividades: "Spain's third city blends ancient farmland with futuristic architecture: the City of Arts and Sciences, the Turia Gardens, an outstanding old town (Cathedral, Silk Exchange, Central Market) and the Albufera, birthplace of paella. Add an urban beach and great food at fair prices. Two or three days cover the essentials; best in spring or autumn."
 comunidad: "Valencian Community"
+imagenResumen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-unsplash-OerQvrNvozU.jpg"
+imagenResumenAlt: "Ciudad de las Artes y las Ciencias de Valencia"
 imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
 imagenAlt: "The City of Arts and Sciences in Valencia reflected in the water"
 publicada: true

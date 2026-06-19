@@ -4,6 +4,8 @@ slug: "cordoba"
 descripcion: "The Mosque-Cathedral, the Jewish Quarter and the patios. The city of three cultures and one of the most beautiful old towns in Europe."
 resumenActividades: "The former capital of the caliphate and city of three cultures, with one of Europe's most beautiful old towns. Its jewel is the Mosque-Cathedral; around it, the Jewish Quarter, the Alcázar de los Reyes Cristianos, the Roman Bridge and the famous flower-filled patios. Compact enough to see in one or two days, though it's worth staying overnight. Best in spring."
 comunidad: "Andalusia"
+imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-pixabay-5078141.jpg"
+imagenResumenAlt: "Mezquita-Catedral de Córdoba"
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "The Mosque-Cathedral of Córdoba and the Roman Bridge reflected in the Guadalquivir"
 publicada: true

@@ -41,6 +41,9 @@ export type CiudadFrontmatter = {
   comunidad: string;
   imagen?: string;
   imagenAlt?: string;
+  /** Foto para la sección "Sobre la ciudad" de la página de actividades. */
+  imagenResumen?: string;
+  imagenResumenAlt?: string;
   imagenGuias?: string;
   imagenGuiasAlt?: string;
   imagenActividades?: string;
@@ -98,6 +101,8 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       comunidad: fm.comunidad || "",
       imagen: fm.imagen,
       imagenAlt: fm.imagenAlt,
+      imagenResumen: fm.imagenResumen,
+      imagenResumenAlt: fm.imagenResumenAlt,
       imagenGuias: fm.imagenGuias,
       imagenGuiasAlt: fm.imagenGuiasAlt,
       imagenActividades: fm.imagenActividades,
@@ -144,6 +149,8 @@ export async function obtenerCiudad(
     comunidad: fm.comunidad || "",
     imagen: fm.imagen,
     imagenAlt: fm.imagenAlt,
+    imagenResumen: fm.imagenResumen,
+    imagenResumenAlt: fm.imagenResumenAlt,
     imagenGuias: fm.imagenGuias,
     imagenGuiasAlt: fm.imagenGuiasAlt,
     imagenActividades: fm.imagenActividades,

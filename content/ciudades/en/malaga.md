@@ -4,6 +4,8 @@ slug: "malaga"
 descripcion: "The city of Picasso, the Alcazaba and the best gateway to the Costa del Sol. Sun, museums and an old town reborn as the cultural capital of the south."
 resumenActividades: "The gateway to the Costa del Sol, now one of the south's cultural capitals with more than thirty museums. Within a few minutes: the Alcazaba, Gibralfaro Castle, the Roman Theatre, the Cathedral and the Picasso Museum, topped off by the Muelle Uno harbour and La Malagueta beach. An hour away lies the Caminito del Rey. Two days does it justice."
 comunidad: "Andalusia"
+imagenResumen: "/images/actividades/malaga/alcazaba/alcazaba-malaga-pixabay-8681568.jpg"
+imagenResumenAlt: "La Alcazaba de Málaga"
 imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "View of Málaga with the Alcazaba and the Mediterranean sea"
 publicada: true
