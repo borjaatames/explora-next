@@ -2,6 +2,7 @@
 nombre: "Granada"
 slug: "granada"
 descripcion: "La Alhambra, el Albaicín y el último reino musulmán de Europa. Una de las ciudades imprescindibles de España."
+resumenActividades: "La última capital musulmana de Europa, coronada por la Alhambra y el Generalife. A sus pies, el Albaicín de calles blancas y miradores, el Sacromonte flamenco y la Capilla Real. Conserva la tradición de la tapa gratis con cada consumición. Dos o tres días bastan; reserva la Alhambra con semanas de antelación."
 comunidad: "Andalucía"
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
 imagenAlt: "Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo"

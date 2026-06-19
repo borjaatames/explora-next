@@ -2,6 +2,7 @@
 nombre: "Ibiza"
 slug: "ibiza"
 descripcion: "Walled Dalt Vila, Es Vedrà and the most photographed coves in the Mediterranean. The world's party island and, at once, a place of surprising heritage and nature."
+resumenActividades: "Far more than nightlife: Dalt Vila, the walled UNESCO old town, turquoise coves such as Cala Comte and Cala d'Hort, and the mythical Es Vedrà islet at sunset. Half an hour away by ferry, Formentera is the must-do trip. Two or three days let you see both sides of the island; the best season starts in May."
 comunidad: "Balearic Islands"
 imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
 imagenAlt: "Ibiza coastline with turquoise waters and boats"

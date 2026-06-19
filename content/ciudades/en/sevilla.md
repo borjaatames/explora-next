@@ -2,6 +2,7 @@
 nombre: "Seville"
 slug: "sevilla"
 descripcion: "Andalusia distilled: cathedral, Alcázar, Triana and the best light in Spain."
+resumenActividades: "Andalusia in concentrated form on the banks of the Guadalquivir: the Cathedral with the Giralda, the Mudéjar Real Alcázar, the Plaza de España and the Triana district. This is the city of flamenco, tiled patios, the April Fair and Holy Week. Three days is enough; the best time is March–April and October–November, avoiding the extreme summer heat."
 comunidad: "Andalusia"
 imagen: "/ciudades/sevilla.jpg"
 imagenAlt: "View of Seville with the Giralda and the Cathedral"

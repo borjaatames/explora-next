@@ -2,6 +2,7 @@
 nombre: "Girona"
 slug: "girona"
 descripcion: "Casco medieval, judería y casas de colores sobre el río Oñar. Una de las ciudades más bellas de Cataluña y puerta de la Costa Brava."
+resumenActividades: "Uno de los cascos medievales mejor conservados de Cataluña y puerta de la Costa Brava. Destacan la Catedral con la nave gótica más ancha del mundo, la judería de El Call, los Baños Árabes y las casas de colores sobre el río Oñar. Combina de maravilla con la Costa Brava y el Teatro-Museo Dalí de Figueres. Uno o dos días bastan."
 comunidad: "Cataluña"
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Las casas de colores de Girona sobre el río Oñar"

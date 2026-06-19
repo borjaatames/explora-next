@@ -2,6 +2,7 @@
 nombre: "Granada"
 slug: "granada"
 descripcion: "The Alhambra, the Albaicín, and the last Muslim kingdom in Europe. One of Spain's must-visit cities."
+resumenActividades: "Europe's last Muslim capital, crowned by the Alhambra and the Generalife. Below it lie the white-walled Albaicín with its viewpoints, the flamenco caves of Sacromonte and the Royal Chapel. It still keeps the tradition of a free tapa with every drink. Two or three days are enough; book the Alhambra weeks ahead."
 comunidad: "Andalusia"
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
 imagenAlt: "Aerial view of the Alhambra of Granada with Sierra Nevada in the background"

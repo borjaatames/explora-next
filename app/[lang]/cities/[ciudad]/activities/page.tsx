@@ -266,16 +266,22 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       />
 
       {/* City intro text as secondary context at the foot of the page. */}
-      {ciudad.contenidoHtml ? (
+      {ciudad.resumenActividades || ciudad.contenidoHtml ? (
         <section className="bg-slate-50 border-t border-slate-200">
           <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
             <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
               About {ciudad.nombre}
             </h2>
-            <div
-              className="prose-guia text-justify hyphens-auto"
-              dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
-            />
+            {ciudad.resumenActividades ? (
+              <p className="text-slate-600 text-base md:text-lg leading-relaxed">
+                {ciudad.resumenActividades}
+              </p>
+            ) : (
+              <div
+                className="prose-guia text-justify hyphens-auto"
+                dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+              />
+            )}
           </article>
         </section>
       ) : null}

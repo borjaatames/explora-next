@@ -32,6 +32,12 @@ export type CiudadFrontmatter = {
   nombre: string;
   slug: string;
   descripcion: string;
+  /**
+   * Resumen breve (2-4 frases) que se muestra como sección "Sobre {ciudad}"
+   * al pie de la página de actividades. Versión sintetizada del cuerpo, para
+   * no volcar el texto completo en esa página.
+   */
+  resumenActividades?: string;
   comunidad: string;
   imagen?: string;
   imagenAlt?: string;
@@ -88,6 +94,7 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       nombre: fm.nombre || slug,
       slug,
       descripcion: fm.descripcion || "",
+      resumenActividades: fm.resumenActividades,
       comunidad: fm.comunidad || "",
       imagen: fm.imagen,
       imagenAlt: fm.imagenAlt,
@@ -133,6 +140,7 @@ export async function obtenerCiudad(
     nombre: fm.nombre || slug,
     slug,
     descripcion: fm.descripcion || "",
+    resumenActividades: fm.resumenActividades,
     comunidad: fm.comunidad || "",
     imagen: fm.imagen,
     imagenAlt: fm.imagenAlt,

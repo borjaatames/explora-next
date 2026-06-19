@@ -2,6 +2,7 @@
 nombre: "Girona"
 slug: "girona"
 descripcion: "A medieval old town, Jewish quarter and colourful houses over the Oñar river. One of Catalonia's most beautiful cities and the gateway to the Costa Brava."
+resumenActividades: "One of Catalonia's best-preserved medieval old towns and the gateway to the Costa Brava. Highlights include the Cathedral with the widest Gothic nave in the world, the El Call Jewish quarter, the Arab Baths and the colourful houses over the Oñar river. It pairs beautifully with the Costa Brava and the Dalí Theatre-Museum in Figueres. One or two days are enough."
 comunidad: "Catalonia"
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "The colourful houses of Girona over the Oñar river"

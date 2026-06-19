@@ -2,6 +2,7 @@
 nombre: "Barcelona"
 slug: "barcelona"
 descripcion: "Modernismo, mar y la mejor arquitectura del siglo XX en Europa."
+resumenActividades: "La capital catalana es la ciudad del modernismo: la Sagrada Família, el Park Güell, la Casa Batlló y la Casa Milà conviven con el barrio Gótico, las Ramblas y la playa de la Barceloneta. Montserrat y Girona son escapadas perfectas a tiro de piedra. Tres o cuatro días son el punto justo; la mejor época, de mayo a junio y de septiembre a octubre."
 comunidad: "Cataluña"
 imagen: "/ciudades/barcelona.jpg"
 imagenAlt: "Vista panorámica de Barcelona con la Sagrada Familia"

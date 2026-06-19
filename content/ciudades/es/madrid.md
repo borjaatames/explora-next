@@ -2,6 +2,7 @@
 nombre: "Madrid"
 slug: "madrid"
 descripcion: "Capital de España y centro del arte clásico europeo. Imprescindible para entender el país."
+resumenActividades: "Capital de España y mayor concentración de arte clásico de Europa: el Triángulo del Arte (Prado, Reina Sofía y Thyssen), el Palacio Real, la Puerta del Sol, la Plaza Mayor y el Retiro reúnen lo esencial. Es además la mejor base para excursiones de un día a Toledo, Segovia o El Escorial. Tres días son el punto justo; la mejor época, de abril a junio o de septiembre a octubre."
 comunidad: "Comunidad de Madrid"
 imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
 imagenAlt: "Vista aérea de la Gran Vía de Madrid con tráfico y edificios"

@@ -2,6 +2,7 @@
 nombre: "Madrid"
 slug: "madrid"
 descripcion: "Spain's capital and the heart of European classical art. Essential for understanding the country."
+resumenActividades: "Spain's capital and Europe's greatest hub of classical art: the Art Triangle (Prado, Reina Sofía and Thyssen), the Royal Palace, Puerta del Sol, Plaza Mayor and the Retiro cover the essentials. It's also the best base for day trips to Toledo, Segovia or El Escorial. Three days is the sweet spot; the best time is April–June or September–October."
 comunidad: "Region of Madrid"
 imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
 imagenAlt: "Aerial view of Madrid's Gran Vía with traffic and buildings"

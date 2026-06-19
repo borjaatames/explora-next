@@ -2,6 +2,7 @@
 nombre: "Málaga"
 slug: "malaga"
 descripcion: "La ciudad de Picasso, la Alcazaba y la mejor puerta de la Costa del Sol. Sol, museos y un casco histórico que ha resurgido como capital cultural del sur."
+resumenActividades: "La puerta de la Costa del Sol, hoy una de las capitales culturales del sur con más de treinta museos. En pocos metros: la Alcazaba, el Castillo de Gibralfaro, el Teatro Romano, la Catedral y el Museo Picasso, rematados por el puerto de Muelle Uno y la playa de la Malagueta. A una hora, el Caminito del Rey. Se ve bien en dos días."
 comunidad: "Andalucía"
 imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
 imagenAlt: "Vista de Málaga con la Alcazaba y el mar Mediterráneo"

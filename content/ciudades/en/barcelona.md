@@ -2,6 +2,7 @@
 nombre: "Barcelona"
 slug: "barcelona"
 descripcion: "Modernisme, the Mediterranean, and the best 20th-century architecture in Europe."
+resumenActividades: "The Catalan capital is the city of Modernisme: the Sagrada Família, Park Güell, Casa Batlló and Casa Milà sit alongside the Gothic Quarter, the Ramblas and Barceloneta beach. Montserrat and Girona make perfect day trips nearby. Three or four days is the sweet spot; the best time is May–June and September–October."
 comunidad: "Catalonia"
 imagen: "/ciudades/barcelona.jpg"
 imagenAlt: "Panoramic view of Barcelona with the Sagrada Familia"
