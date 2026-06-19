@@ -17,8 +17,11 @@ import {
   hreflangAlternates,
   prefijoIdioma,
   urlActividadesDeCiudad,
+  urlGuiasDeCiudad,
+  urlAtraccionesDeCiudad,
   urlIndiceCiudades,
 } from "@/lib/i18n/utils";
+import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import ActividadesFiltradas, {
   type ActividadCardData,
   type ActividadesFiltradasStrings,
@@ -142,6 +145,15 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const chipsFiltros = ciudad.chipsFiltros ?? [];
   const ratingMedio = calcularRatingMedio(actividades);
   const guiasDeCiudad = obtenerGuiasDeCiudad(IDIOMA, params.ciudad);
+  const hayGuias = guiasDeCiudad.length > 0;
+  const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
+  const hayExtras = hayGuias || hayAtracciones;
+  const urlGuias = urlGuiasDeCiudad(IDIOMA, params.ciudad);
+  const urlAtracciones = urlAtraccionesDeCiudad(IDIOMA, params.ciudad);
+  const gridExtras =
+    hayGuias && hayAtracciones
+      ? "grid grid-cols-1 md:grid-cols-2 gap-6"
+      : "grid grid-cols-1 gap-6";
   const dict = getDictionary(IDIOMA);
   const categorias = categoriasPresentes(
     actividades,
@@ -252,6 +264,55 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         strings={FILTROS_STRINGS_EN}
         locale={IDIOMA_LOCALE[IDIOMA]}
       />
+
+      {/* City intro text as secondary context at the foot of the page. */}
+      {ciudad.contenidoHtml ? (
+        <section className="bg-slate-50 border-t border-slate-200">
+          <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
+            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+              About {ciudad.nombre}
+            </h2>
+            <div
+              className="prose-guia text-justify hyphens-auto"
+              dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+            />
+          </article>
+        </section>
+      ) : null}
+
+      {/* Keep exploring: links to guides and attractions, so the activities
+          page works as a complete hub for the city. */}
+      {hayExtras ? (
+        <section className="max-w-6xl mx-auto px-4 pb-12 md:pb-16">
+          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+            Keep exploring {ciudad.nombre}
+          </h2>
+          <div className={gridExtras}>
+            {hayGuias ? (
+              <CtaCiudadCard
+                href={urlGuias}
+                imagen={ciudad.imagenGuias}
+                imagenAlt={ciudad.imagenGuiasAlt}
+                titulo={"Guides for " + ciudad.nombre}
+                descripcion="Honest itineraries and practical advice to plan your trip with intent."
+                cta="View guides"
+                acento="sky"
+              />
+            ) : null}
+            {hayAtracciones ? (
+              <CtaCiudadCard
+                href={urlAtracciones}
+                imagen={ciudad.imagenAtracciones}
+                imagenAlt={ciudad.imagenAtraccionesAlt}
+                titulo={"Attractions in " + ciudad.nombre}
+                descripcion="The must-see sights of the city, with photos and context."
+                cta="View attractions"
+                acento="slate"
+              />
+            ) : null}
+          </div>
+        </section>
+      ) : null}
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link

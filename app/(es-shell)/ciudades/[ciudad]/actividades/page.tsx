@@ -12,9 +12,12 @@ import {
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
+import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
+  urlGuiasDeCiudad,
+  urlAtraccionesDeCiudad,
 } from "@/lib/i18n/utils";
 import ActividadesFiltradas, {
   type ActividadCardData,
@@ -145,6 +148,15 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const chipsFiltros = ciudad.chipsFiltros ?? [];
   const ratingMedio = calcularRatingMedio(actividades);
   const guiasDeCiudad = obtenerGuiasDeCiudad("es", params.ciudad);
+  const hayGuias = guiasDeCiudad.length > 0;
+  const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
+  const hayExtras = hayGuias || hayAtracciones;
+  const urlGuias = urlGuiasDeCiudad("es", params.ciudad);
+  const urlAtracciones = urlAtraccionesDeCiudad("es", params.ciudad);
+  const gridExtras =
+    hayGuias && hayAtracciones
+      ? "grid grid-cols-1 md:grid-cols-2 gap-6"
+      : "grid grid-cols-1 gap-6";
   const dict = getDictionary("es");
   const categorias = categoriasPresentes(
     actividades,
@@ -226,6 +238,57 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         strings={FILTROS_STRINGS_ES}
         locale="es-ES"
       />
+
+      {/* Texto introductorio de la ciudad, como contexto secundario al pie de
+          la página de actividades (la ficha de actividades es ahora la entrada
+          principal a cada ciudad). */}
+      {ciudad.contenidoHtml ? (
+        <section className="bg-slate-50 border-t border-slate-200">
+          <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
+            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+              Sobre {ciudad.nombre}
+            </h2>
+            <div
+              className="prose-guia text-justify hyphens-auto"
+              dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+            />
+          </article>
+        </section>
+      ) : null}
+
+      {/* Sigue explorando: enlaces a guías y atracciones de la ciudad, para
+          que la página de actividades funcione como hub completo. */}
+      {hayExtras ? (
+        <section className="max-w-6xl mx-auto px-4 pb-12 md:pb-16">
+          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+            Sigue explorando {ciudad.nombre}
+          </h2>
+          <div className={gridExtras}>
+            {hayGuias ? (
+              <CtaCiudadCard
+                href={urlGuias}
+                imagen={ciudad.imagenGuias}
+                imagenAlt={ciudad.imagenGuiasAlt}
+                titulo={"Guías de " + ciudad.nombre}
+                descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
+                cta="Ver guías"
+                acento="sky"
+              />
+            ) : null}
+            {hayAtracciones ? (
+              <CtaCiudadCard
+                href={urlAtracciones}
+                imagen={ciudad.imagenAtracciones}
+                imagenAlt={ciudad.imagenAtraccionesAlt}
+                titulo={"Atracciones de " + ciudad.nombre}
+                descripcion="Lo imprescindible que ver en la ciudad, con foto y contexto."
+                cta="Ver atracciones"
+                acento="slate"
+              />
+            ) : null}
+          </div>
+        </section>
+      ) : null}
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
