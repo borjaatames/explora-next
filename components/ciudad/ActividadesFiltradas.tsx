@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import type { ChipFiltro } from "@/lib/ciudades";
@@ -75,6 +75,27 @@ type Props = {
   locale: string;
 };
 
+/** Actividades por página. Múltiplo de 3 para cuadrar con la rejilla. */
+const POR_PAGINA = 12;
+
+/**
+ * Lista de páginas a mostrar en la barra de paginación. Hasta 7 páginas se
+ * muestran todas; con más, se compacta con elipsis: 1 … (n-1) n (n+1) … total.
+ */
+function paginasVisibles(actual: number, total: number): (number | "…")[] {
+  if (total <= 7) {
+    return Array.from({ length: total }, (_, i) => i + 1);
+  }
+  const out: (number | "…")[] = [1];
+  const inicio = Math.max(2, actual - 1);
+  const fin = Math.min(total - 1, actual + 1);
+  if (inicio > 2) out.push("…");
+  for (let i = inicio; i <= fin; i++) out.push(i);
+  if (fin < total - 1) out.push("…");
+  out.push(total);
+  return out;
+}
+
 export default function ActividadesFiltradas({
   actividades,
   chips,
@@ -84,6 +105,8 @@ export default function ActividadesFiltradas({
 }: Props) {
   const [tagsActivos, setTagsActivos] = useState<string[]>([]);
   const [categoriasActivas, setCategoriasActivas] = useState<string[]>([]);
+  const [pagina, setPagina] = useState(1);
+  const listaRef = useRef<HTMLDivElement>(null);
 
   // Filtro pre-seleccionable por URL (?atraccion=bernabeu o ?attraction=...).
   // Permite que un anuncio SEM aterrice ya filtrado en las pocas variantes de
@@ -141,7 +164,35 @@ export default function ActividadesFiltradas({
     });
   }, [actividades, tagsActivos, categoriasActivas]);
 
+  // Al cambiar cualquier filtro, volvemos a la primera página.
+  useEffect(() => {
+    setPagina(1);
+  }, [tagsActivos, categoriasActivas]);
+
   if (actividades.length === 0) return null;
+
+  const totalPaginas = Math.max(1, Math.ceil(filtradas.length / POR_PAGINA));
+  const paginaSegura = Math.min(pagina, totalPaginas);
+  const visibles = filtradas.slice(
+    (paginaSegura - 1) * POR_PAGINA,
+    paginaSegura * POR_PAGINA
+  );
+
+  const en = locale.startsWith("en");
+  const txtPaginacion = {
+    nav: en ? "Pagination" : "Paginación",
+    anterior: en ? "Previous page" : "Página anterior",
+    siguiente: en ? "Next page" : "Página siguiente",
+    pagina: (n: number) => (en ? `Page ${n}` : `Página ${n}`),
+  };
+
+  const irAPagina = (p: number) => {
+    const destino = Math.min(Math.max(1, p), totalPaginas);
+    setPagina(destino);
+    if (typeof window !== "undefined") {
+      listaRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  };
 
   const contador =
     filtradas.length === 1
@@ -235,7 +286,7 @@ export default function ActividadesFiltradas({
             </aside>
           ) : null}
 
-          <div>
+          <div ref={listaRef} className="scroll-mt-24">
             <div className="flex flex-wrap items-baseline justify-between gap-2 mb-6">
               <div className="text-base font-semibold text-slate-900">
                 {contador}
@@ -252,16 +303,73 @@ export default function ActividadesFiltradas({
                 {strings.sinResultados}
               </div>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-                {filtradas.map((a) => (
-                  <CardActividad
-                    key={a.slug}
-                    actividad={a}
-                    strings={strings}
-                    locale={locale}
-                  />
-                ))}
-              </div>
+              <>
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                  {visibles.map((a) => (
+                    <CardActividad
+                      key={a.slug}
+                      actividad={a}
+                      strings={strings}
+                      locale={locale}
+                    />
+                  ))}
+                </div>
+
+                {totalPaginas > 1 ? (
+                  <nav
+                    aria-label={txtPaginacion.nav}
+                    className="mt-10 flex items-center justify-center gap-1.5"
+                  >
+                    <button
+                      type="button"
+                      onClick={() => irAPagina(paginaSegura - 1)}
+                      disabled={paginaSegura === 1}
+                      aria-label={txtPaginacion.anterior}
+                      className="inline-flex items-center justify-center w-9 h-9 rounded-lg border border-slate-300 text-slate-700 hover:border-sky-400 hover:text-sky-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                    >
+                      ‹
+                    </button>
+
+                    {paginasVisibles(paginaSegura, totalPaginas).map((p, i) =>
+                      p === "…" ? (
+                        <span
+                          key={`gap-${i}`}
+                          className="px-1.5 text-slate-400 select-none"
+                          aria-hidden="true"
+                        >
+                          …
+                        </span>
+                      ) : (
+                        <button
+                          key={p}
+                          type="button"
+                          onClick={() => irAPagina(p)}
+                          aria-label={txtPaginacion.pagina(p)}
+                          aria-current={p === paginaSegura ? "page" : undefined}
+                          className={
+                            "inline-flex items-center justify-center min-w-9 h-9 px-3 rounded-lg border text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 " +
+                            (p === paginaSegura
+                              ? "bg-sky-500 border-sky-500 text-white"
+                              : "bg-white border-slate-300 text-slate-700 hover:border-sky-400 hover:text-sky-700")
+                          }
+                        >
+                          {p}
+                        </button>
+                      )
+                    )}
+
+                    <button
+                      type="button"
+                      onClick={() => irAPagina(paginaSegura + 1)}
+                      disabled={paginaSegura === totalPaginas}
+                      aria-label={txtPaginacion.siguiente}
+                      className="inline-flex items-center justify-center w-9 h-9 rounded-lg border border-slate-300 text-slate-700 hover:border-sky-400 hover:text-sky-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                    >
+                      ›
+                    </button>
+                  </nav>
+                ) : null}
+              </>
             )}
           </div>
         </div>
