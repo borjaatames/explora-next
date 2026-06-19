@@ -1,6 +1,7 @@
 import NavbarServer from "@/components/layout/NavbarServer";
 import Footer from "@/components/layout/Footer";
 import CookieBanner from "@/components/CookieBanner";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 /**
  * Shell para todas las rutas en español (idioma por defecto).
@@ -20,6 +21,7 @@ export default function EsShellLayout({
       <NavbarServer idioma="es" />
       <div className="min-h-screen">{children}</div>
       <Footer idioma="es" />
+      <WhatsAppButton idioma="es" />
       <CookieBanner idioma="es" />
     </>
   );

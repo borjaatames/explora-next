@@ -5,6 +5,7 @@ import NavbarServer from "@/components/layout/NavbarServer";
 import Footer from "@/components/layout/Footer";
 import CookieBanner from "@/components/CookieBanner";
 import SetHtmlLang from "@/components/layout/SetHtmlLang";
+import WhatsAppButton from "@/components/WhatsAppButton";
 type Props = {
   children: React.ReactNode;
   params: { lang: string };
@@ -37,6 +38,7 @@ export default function LangLayout({ children, params }: Props) {
       <NavbarServer idioma={lang} />
       <div className="min-h-screen">{children}</div>
       <Footer idioma={lang} />
+      <WhatsAppButton idioma={lang} />
       <CookieBanner idioma={lang} />
     </div>
   );
