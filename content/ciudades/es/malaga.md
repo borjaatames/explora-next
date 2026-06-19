@@ -29,7 +29,7 @@ atracciones:
   - nombre: "Museo Picasso"
     descripcion: "El museo dedicado al hijo más universal de Málaga, en el Palacio de Buenavista. Reúne más de 200 obras y completa la ruta picassiana junto a su casa natal en la Plaza de la Merced."
     imagen: "/images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp"
-    imagenAlt: "Casa Natal de Picasso en Málaga (Fundación Picasso)"
+    imagenAlt: "Patio del Museo Picasso de Málaga, en el Palacio de Buenavista"
   - nombre: "Teatro Romano"
     descripcion: "El teatro romano del siglo I a los pies de la Alcazaba, símbolo del pasado romano de la ciudad. Se ve gratis y resume tres culturas superpuestas en cien metros."
     imagen: "/images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp"

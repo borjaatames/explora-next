@@ -32,7 +32,7 @@ atracciones:
   - nombre: "Picasso Museum"
     descripcion: "The museum devoted to Málaga's most universal son, in the Buenavista Palace. It gathers over 200 works and completes the Picasso route alongside his birthplace on Plaza de la Merced."
     imagen: "/images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp"
-    imagenAlt: "Picasso's Birthplace in Málaga (Fundación Picasso)"
+    imagenAlt: "Courtyard of the Picasso Museum in Málaga (Buenavista Palace)"
   - nombre: "Roman Theatre"
     descripcion: "The 1st-century Roman theatre at the foot of the Alcazaba, a symbol of the city's Roman past. Free to see and a snapshot of three overlapping cultures in a hundred metres."
     imagen: "/images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp"
