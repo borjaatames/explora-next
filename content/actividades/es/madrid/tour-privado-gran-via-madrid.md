@@ -57,14 +57,14 @@ keywords:
 - visita guiada privada gran via
 - tour gran via madrid
 imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
-imagenAlt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
+imagenAlt: "La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida"
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: La Gran Vía de Madrid con sus edificios históricos
+  alt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Edificios de arquitectura singular en la Gran Vía de Madrid
+  alt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Vista aérea de la Gran Vía de Madrid con el tráfico de la avenida
+  alt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
 publicada: true
 destacada: false
 fecha: '2026-06-18'

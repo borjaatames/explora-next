@@ -57,14 +57,14 @@ keywords:
 - private walking tour gran via
 - gran via madrid tour
 imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
-imagenAlt: Madrid's Gran Vía with its historic buildings and avenue traffic
+imagenAlt: "Madrid's Gran Vía with its historic buildings and avenue traffic"
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: Madrid's Gran Vía with its historic buildings
+  alt: Madrid's Gran Vía with its historic buildings and avenue traffic
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Striking architecture along Madrid's Gran Vía
+  alt: Madrid's Gran Vía with its historic buildings and avenue traffic
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Aerial view of Madrid's Gran Vía with avenue traffic
+  alt: Madrid's Gran Vía with its historic buildings and avenue traffic
 publicada: true
 destacada: false
 fecha: '2026-06-18'

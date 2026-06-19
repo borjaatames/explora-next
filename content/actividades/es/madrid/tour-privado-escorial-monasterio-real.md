@@ -59,15 +59,13 @@ keywords:
 - tour privado el escorial desde madrid
 - excursion privada escorial monasterio
 - el escorial dia completo privado
-imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp"
+imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
 imagenAlt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 galeria:
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
+- src: /images/actividades/madrid/escorial/escorial-tour-01.webp
   alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
-  alt: El Monasterio de El Escorial visto desde los jardines
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
-  alt: La biblioteca del Monasterio de El Escorial con sus frescos
+- src: /images/actividades/madrid/escorial/escorial-tour-02.webp
+  alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 publicada: true
 destacada: false
 fecha: '2026-06-18'

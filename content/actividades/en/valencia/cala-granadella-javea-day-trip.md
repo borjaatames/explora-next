@@ -41,12 +41,16 @@ keywords:
 - cala granadella day trip
 - javea beach from valencia
 - best costa blanca coves
-imagen: "/images/actividades/valencia/cala-granadella/excursion-cala-granadella-javea-hero.webp"
+imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
 galeria:
-- src: /images/actividades/valencia/cala-granadella/excursion-cala-granadella-javea-hero.webp
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
   alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
-publicada: false
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
+  alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
+  alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'

@@ -41,12 +41,16 @@ keywords:
 - excursion cala granadella
 - playa javea desde valencia
 - mejores calas costa blanca
-imagen: "/images/actividades/valencia/cala-granadella/excursion-cala-granadella-javea-hero.webp"
+imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
-- src: /images/actividades/valencia/cala-granadella/excursion-cala-granadella-javea-hero.webp
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
   alt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
-publicada: false
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
+  alt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
+  alt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'

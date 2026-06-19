@@ -54,15 +54,15 @@ keywords:
 - jewish madrid private tour
 - jewish history madrid walking tour
 - sephardic madrid tour
-imagen: "/images/actividades/madrid/centro-historico/hero.webp"
-imagenAlt: Streets of Madrid's historic centre
+imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+imagenAlt: "Historic streets of central Madrid"
 galeria:
-- src: /images/actividades/madrid/centro-historico/hero.webp
-  alt: Streets of Madrid's historic centre
-- src: /images/actividades/madrid/centro-historico/01.webp
-  alt: A corner of historic Madrid
-- src: /images/actividades/madrid/centro-historico/02.webp
-  alt: Traditional architecture in central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
+  alt: Historic streets of central Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'

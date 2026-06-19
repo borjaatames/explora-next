@@ -40,12 +40,12 @@ keywords:
 - montanejos bus day trip
 - montanejos thermal springs
 - montanejos pools from valencia
-imagen: "/images/actividades/valencia/montanejos/excursion-montanejos-en-bus-hero.webp"
+imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
 imagenAlt: Turquoise thermal pools in Montanejos, Castellón
 galeria:
-- src: /images/actividades/valencia/montanejos/excursion-montanejos-en-bus-hero.webp
+- src: /images/actividades/valencia/montanejos/montanejos-01.webp
   alt: Turquoise thermal pools in Montanejos, Castellón
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'

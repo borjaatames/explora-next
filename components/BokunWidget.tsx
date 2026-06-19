@@ -129,14 +129,14 @@ export default function BokunWidget({
           <span className="text-[11px] uppercase tracking-wider text-slate-400">
             {idioma === "es" ? "Desde" : "From"}
           </span>
-          <span className="text-xl font-bold text-slate-900">
+          <span className="text-3xl font-bold text-slate-900">
             {new Intl.NumberFormat(idioma === "es" ? "es-ES" : "en-GB", {
               style: "currency",
               currency: moneda || "EUR",
               maximumFractionDigits: 0,
             }).format(precioDesde)}
           </span>
-          <span className="text-xs text-slate-500">
+          <span className="text-sm text-slate-500">
             {porGrupo
               ? idioma === "es"
                 ? "por grupo"
