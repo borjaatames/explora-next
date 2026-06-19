@@ -20,16 +20,28 @@ keywords:
 atracciones:
   - nombre: "Ciudad de las Artes y las Ciencias"
     descripcion: "El conjunto futurista de Santiago Calatrava y Félix Candela: el Hemisfèric, el Museu de les Ciències, el Palau de les Arts y el Àgora. La imagen moderna de Valencia y su atracción más fotografiada, levantada sobre el antiguo cauce del Turia."
+    imagen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-unsplash-OerQvrNvozU.jpg"
+    imagenAlt: "La Ciudad de las Artes y las Ciencias de Valencia"
   - nombre: "Oceanogràfic"
     descripcion: "El acuario más grande de Europa, dentro de la Ciudad de las Artes. Nueve ambientes marinos —del Ártico a los trópicos—, túnel de tiburones y delfinario. La visita estrella para familias; reserva con antelación en temporada alta."
+    imagen: "/images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp"
+    imagenAlt: "El Oceanogràfic de Valencia, el mayor acuario de Europa"
   - nombre: "Catedral y el Miguelete"
     descripcion: "La catedral gótica que custodia el Santo Cáliz, considerado por muchos el Grial. Sube los 207 escalones del campanario del Miguelete para la mejor panorámica del casco antiguo y la huerta."
+    imagen: "/images/actividades/valencia/catedral-valencia/catedral-valencia-hero.webp"
+    imagenAlt: "La Catedral de Valencia y la torre del Miguelete en la Plaza de la Virgen"
   - nombre: "La Lonja de la Seda"
     descripcion: "La joya del gótico civil valenciano y Patrimonio de la Humanidad. Su Salón de Columnas, con palmeras de piedra retorcidas, recuerda el esplendor de la Valencia mercantil del siglo XV."
+    imagen: "/images/actividades/valencia/lonja-seda/lonja-valencia-hero.webp"
+    imagenAlt: "La Lonja de la Seda de Valencia, gótico civil Patrimonio de la Humanidad"
   - nombre: "Mercado Central"
     descripcion: "Uno de los mercados de productos frescos más grandes de Europa, en un edificio modernista de hierro, cristal y cerámica. Imprescindible para empaparse del producto valenciano y picar algo a media mañana."
+    imagen: "/images/actividades/valencia/mercado-central/mercado-central-valencia-hero.webp"
+    imagenAlt: "Interior modernista del Mercado Central de Valencia"
   - nombre: "La Albufera"
     descripcion: "El parque natural a las afueras: lago, arrozales y barracas. Aquí nació la paella valenciana. Un paseo en barca al atardecer entre los arrozales es uno de los planes más bonitos cerca de la ciudad."
+    imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
+    imagenAlt: "Atardecer en la Albufera de Valencia con una barca tradicional"
 chipsFiltros:
   - { label: "Ciudad de las Artes", tag: "ciudad-artes-ciencias" }
   - { label: "Oceanogràfic", tag: "oceanografic" }

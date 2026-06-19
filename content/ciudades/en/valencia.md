@@ -23,16 +23,28 @@ slugs:
 atracciones:
   - nombre: "City of Arts and Sciences"
     descripcion: "Santiago Calatrava and Félix Candela's futuristic complex: the Hemisfèric, the Science Museum, the Palau de les Arts and the Àgora. Valencia's modern icon and its most photographed sight, built on the old Turia riverbed."
+    imagen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-unsplash-OerQvrNvozU.jpg"
+    imagenAlt: "The City of Arts and Sciences in Valencia"
   - nombre: "Oceanogràfic"
     descripcion: "The largest aquarium in Europe, inside the City of Arts. Nine marine environments —from the Arctic to the tropics—, a shark tunnel and a dolphinarium. The star visit for families; book ahead in high season."
+    imagen: "/images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp"
+    imagenAlt: "The Oceanogràfic in Valencia, Europe's largest aquarium"
   - nombre: "Cathedral and the Miguelete"
     descripcion: "The Gothic cathedral that holds the Holy Chalice, considered by many to be the Holy Grail. Climb the 207 steps of the Miguelete bell tower for the best view over the old town and the surrounding farmland."
+    imagen: "/images/actividades/valencia/catedral-valencia/catedral-valencia-hero.webp"
+    imagenAlt: "Valencia Cathedral and the Miguelete tower on Plaza de la Virgen"
   - nombre: "La Lonja de la Seda"
     descripcion: "The jewel of Valencian civic Gothic and a UNESCO World Heritage Site. Its Hall of Columns, with twisting stone palm trees, recalls the splendour of 15th-century mercantile Valencia."
+    imagen: "/images/actividades/valencia/lonja-seda/lonja-valencia-hero.webp"
+    imagenAlt: "La Lonja de la Seda in Valencia, a UNESCO civil Gothic landmark"
   - nombre: "Central Market"
     descripcion: "One of the largest fresh-produce markets in Europe, in a Modernista building of iron, glass and ceramic. A must to soak up Valencian produce and grab a mid-morning bite."
+    imagen: "/images/actividades/valencia/mercado-central/mercado-central-valencia-hero.webp"
+    imagenAlt: "Modernista interior of Valencia's Central Market"
   - nombre: "La Albufera"
     descripcion: "The natural park on the outskirts: lagoon, rice paddies and traditional barracas. This is where Valencian paella was born. A sunset boat ride among the rice fields is one of the loveliest plans near the city."
+    imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
+    imagenAlt: "Sunset over the Albufera of Valencia with a traditional boat"
 chipsFiltros:
   - { label: "City of Arts", tag: "ciudad-artes-ciencias" }
   - { label: "Oceanogràfic", tag: "oceanografic" }
