@@ -133,8 +133,8 @@ export default function HomePage() {
             Actividades y tours en España, elegidos con criterio
           </h1>
           <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            Entradas, visitas guiadas y excursiones seleccionadas a mano, con
-            reserva segura y partners de confianza.
+            Tours, entradas, actividades y experiencias por toda España, con
+            reserva directa y segura.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

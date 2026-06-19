@@ -167,8 +167,8 @@ export default function HomePage({ params }: Props) {
             Activities and tours in Spain, chosen with judgment
           </h1>
           <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            Tickets, guided tours and day trips, hand-picked, with secure
-            booking through trusted partners.
+            Tours, tickets, activities and experiences across Spain, with
+            direct, secure booking.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
