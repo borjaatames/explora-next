@@ -330,15 +330,6 @@ export default function HomePage({ params }: Props) {
                 </Link>
               ))}
             </div>
-
-            <div className="mt-10 text-center">
-              <Link
-                href={urlIndiceCiudades(lang)}
-                className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
-              >
-                See all activities by city →
-              </Link>
-            </div>
           </div>
         </section>
       )}

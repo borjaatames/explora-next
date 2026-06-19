@@ -351,15 +351,6 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
           </div>
         </section>
       ) : null}
-
-      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link
-          href={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
-          className="text-sky-600 hover:text-sky-700 font-semibold"
-        >
-          See all activities in {ciudad.nombre} →
-        </Link>
-      </div>
     </main>
   );
 }

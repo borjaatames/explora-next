@@ -297,15 +297,6 @@ export default function HomePage() {
                 </Link>
               ))}
             </div>
-
-            <div className="mt-10 text-center">
-              <Link
-                href="/ciudades"
-                className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
-              >
-                Ver todas las actividades por ciudad →
-              </Link>
-            </div>
           </div>
         </section>
       )}

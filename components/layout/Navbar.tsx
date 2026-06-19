@@ -75,7 +75,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
             width={40}
             height={40}
             priority
-            className="w-[27px] h-[27px] md:w-[30px] md:h-[30px]"
+            className="w-[19px] h-[19px] md:w-[21px] md:h-[21px]"
           />
           <span className="font-playfair text-2xl md:text-3xl font-bold text-slate-900">
             ExploraSpain
