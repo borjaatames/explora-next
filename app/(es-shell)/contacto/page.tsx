@@ -13,7 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: "Contacto | ExploraSpain",
     description:
-      "¿Sugerencias, correcciones o colaboraciones? Escríbenos. Respondemos en 2-3 días laborables.",
+      "¿Sugerencias, correcciones o colaboraciones? Escríbenos y te responderemos lo antes posible.",
     robots: {
       index: allowIndexing,
       follow: allowIndexing,
@@ -57,8 +57,7 @@ export default function ContactoPage() {
             Escríbenos directamente
           </h2>
           <p className="text-slate-700 mb-6">
-            Rellena el formulario y te respondemos en{" "}
-            <strong>2-3 días laborables</strong>.
+            Rellena el formulario y te responderemos lo antes posible.
           </p>
           <ContactForm idioma="es" />
         </div>

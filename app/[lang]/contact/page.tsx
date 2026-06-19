@@ -38,7 +38,7 @@ export async function generateMetadata({
   return {
     title: "Contact | ExploraSpain",
     description:
-      "Suggestions, corrections or partnerships? Write to us. We reply within 2-3 business days.",
+      "Suggestions, corrections or partnerships? Write to us and we'll get back to you as soon as possible.",
     alternates: {
       canonical: canonicalUrl,
       languages,
@@ -137,8 +137,7 @@ export default function ContactPage({
             Write to us directly
           </h2>
           <p className="text-slate-700 mb-6">
-            Fill in the form and we&apos;ll reply within{" "}
-            <strong>2-3 business days</strong>.
+            Fill in the form and we&apos;ll get back to you as soon as possible.
           </p>
           <ContactForm idioma="en" />
         </div>
