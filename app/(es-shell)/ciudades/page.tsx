@@ -2,7 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { obtenerListaCiudades } from "@/lib/ciudades";
-import { hreflangAlternates, urlIndiceCiudades } from "@/lib/i18n/utils";
+import { obtenerCiudadesConActividades } from "@/lib/actividades";
+import {
+  hreflangAlternates,
+  urlIndiceCiudades,
+  urlActividadesDeCiudad,
+} from "@/lib/i18n/utils";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -19,6 +24,12 @@ export const metadata: Metadata = {
 
 export default function CiudadesPage() {
   const ciudades = obtenerListaCiudades("es");
+
+  // Ciudades con al menos una actividad publicada: al pulsar en su tarjeta
+  // vamos directos a la página de actividades de esa ciudad. Las que no
+  // tengan actividades (no existe esa ruta) caen a su página de ciudad para
+  // no romper el enlace.
+  const conActividades = new Set(obtenerCiudadesConActividades("es"));
 
   return (
     <main className="min-h-screen bg-white">
@@ -40,10 +51,15 @@ export default function CiudadesPage() {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {ciudades.map((ciudad, index) => (
+            {ciudades.map((ciudad, index) => {
+              const tieneActividades = conActividades.has(ciudad.slug);
+              const hrefCiudad = tieneActividades
+                ? urlActividadesDeCiudad("es", ciudad.slug)
+                : ciudad.url;
+              return (
               <Link
                 key={ciudad.url}
-                href={ciudad.url}
+                href={hrefCiudad}
                 className="group block border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
               >
                 <div className="relative w-full h-48 bg-slate-100 overflow-hidden">
@@ -67,11 +83,12 @@ export default function CiudadesPage() {
                     {ciudad.descripcion}
                   </p>
                   <div className="mt-4 text-sm font-semibold text-sky-600 group-hover:text-sky-700">
-                    Ver guía →
+                    {tieneActividades ? "Ver actividades →" : "Ver guía →"}
                   </div>
                 </div>
               </Link>
-            ))}
+              );
+            })}
           </div>
         )}
       </section>

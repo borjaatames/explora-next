@@ -3,11 +3,13 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import { obtenerCiudadesConActividades } from "@/lib/actividades";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
   urlIndiceCiudades,
+  urlActividadesDeCiudad,
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
@@ -60,6 +62,10 @@ export default function CiudadesPage({ params }: Props) {
   const dict = getDictionary(lang);
   const ciudades = obtenerListaCiudades(lang);
 
+  // Ciudades con actividades publicadas: al pulsar su tarjeta vamos directos
+  // a la página de actividades de esa ciudad; el resto, a su página de ciudad.
+  const conActividades = new Set(obtenerCiudadesConActividades(lang));
+
   const breadcrumbsLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -104,10 +110,15 @@ export default function CiudadesPage({ params }: Props) {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {ciudades.map((ciudad, index) => (
+            {ciudades.map((ciudad, index) => {
+              const tieneActividades = conActividades.has(ciudad.slug);
+              const hrefCiudad = tieneActividades
+                ? urlActividadesDeCiudad(lang, ciudad.slug)
+                : ciudad.url;
+              return (
               <Link
                 key={ciudad.url}
-                href={ciudad.url}
+                href={hrefCiudad}
                 className="group block border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all"
               >
                 <div className="relative w-full h-48 bg-slate-100 overflow-hidden">
@@ -131,11 +142,15 @@ export default function CiudadesPage({ params }: Props) {
                     {ciudad.descripcion}
                   </p>
                   <div className="mt-4 text-sm font-semibold text-sky-600 group-hover:text-sky-700">
-                    {dict.ciudades.verCiudad} →
+                    {tieneActividades
+                      ? dict.actividades.verActividad
+                      : dict.ciudades.verCiudad}{" "}
+                    →
                   </div>
                 </div>
               </Link>
-            ))}
+              );
+            })}
           </div>
         )}
       </section>
