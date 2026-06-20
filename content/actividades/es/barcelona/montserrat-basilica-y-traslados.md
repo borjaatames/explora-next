@@ -124,7 +124,7 @@ galeria:
   alt: Vista aérea de Montserrat con teleférico sobre las montañas de Barcelona
 ratingProveedor: 4.7
 numeroOpiniones: 3416
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

@@ -98,7 +98,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-27348438-hero.webp
 imagenAlt: Sagrada Familia basilica exterior facade with intricate architectural details and towering spires
 ratingProveedor: 4.8
 numeroOpiniones: 13565
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

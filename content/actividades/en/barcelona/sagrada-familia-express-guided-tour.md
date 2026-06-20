@@ -100,7 +100,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
 imagenAlt: Illuminated interior of the Sagrada Familia with golden light filtered through the stained glass
 ratingProveedor: 4.7
 numeroOpiniones: 3414
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

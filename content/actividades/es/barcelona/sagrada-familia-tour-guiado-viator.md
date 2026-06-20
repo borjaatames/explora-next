@@ -104,7 +104,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
 imagenAlt: Columnas arborescentes y vitrales en la nave central de la Sagrada Familia
 ratingProveedor: 4.4
 numeroOpiniones: 9278
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

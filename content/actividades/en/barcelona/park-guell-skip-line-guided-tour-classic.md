@@ -150,7 +150,7 @@ galeria:
   alt: Barcelona's Gothic Quarter with medieval architecture and narrow cobblestone streets
 ratingProveedor: 4.0
 numeroOpiniones: 885
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

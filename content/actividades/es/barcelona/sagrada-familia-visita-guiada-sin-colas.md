@@ -99,7 +99,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-27348438-hero.webp
 imagenAlt: Fachada de la Basílica de la Sagrada Familia con torres de piedra tallada en Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 13565
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

@@ -104,7 +104,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
 imagenAlt: 'Barcelona: vista de la ciudad con arquitectura moderna y montañas al fondo'
 ratingProveedor: 4.4
 numeroOpiniones: 5559
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

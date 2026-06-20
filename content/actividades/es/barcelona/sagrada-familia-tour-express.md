@@ -102,7 +102,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
 imagenAlt: Interior iluminado de la Sagrada Familia con luz dorada filtrada por los vitrales
 ratingProveedor: 4.7
 numeroOpiniones: 3414
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

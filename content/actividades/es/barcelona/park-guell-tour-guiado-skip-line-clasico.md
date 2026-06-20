@@ -152,7 +152,7 @@ galeria:
   alt: Vista panorámica de Barcelona con la Sagrada Familia y edificios modernistas al atardecer
 ratingProveedor: 4.0
 numeroOpiniones: 885
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

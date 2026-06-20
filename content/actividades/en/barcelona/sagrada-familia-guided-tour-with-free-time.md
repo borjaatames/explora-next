@@ -103,7 +103,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
 imagenAlt: Ornate vault of the central nave of the Sagrada Familia
 ratingProveedor: 4.6
 numeroOpiniones: 1454
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:
