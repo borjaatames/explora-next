@@ -11,6 +11,7 @@ duracionMinutos: 180
 precioDesde: 350
 moneda: EUR
 idiomas:
+- es
 - en
 proveedor: bokun
 bokunProductId: 673604

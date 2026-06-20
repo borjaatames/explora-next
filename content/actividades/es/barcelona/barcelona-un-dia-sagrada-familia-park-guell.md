@@ -12,6 +12,7 @@ duracionMinutos: 480
 precioDesde: 129
 moneda: EUR
 idiomas:
+- es
 - en
 proveedor: bokun
 urlReserva: ''
@@ -169,8 +170,6 @@ bokunProductId: 674376
 fecha_actualizacion: '2026-06-18'
 ---
 
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
 ## Qué vas a ver
 
 El día recorre lo más reconocible de Barcelona, con la Sagrada Familia y el Park Güell como cierre.
@@ -192,13 +191,4 @@ La entrada a la Sagrada Familia es nominativa: los datos se piden al reservar y 
 - Si tienes un solo día en Barcelona y quieres ver lo máximo sin organizar nada.
 - Si valoras la comodidad de la recogida en el hotel y el transporte entre puntos.
 - Si quieres un guía que te dé contexto de la ciudad entera, no solo de un monumento.
-- Si te encaja un grupo reducido y un día largo.
-
-## A quién NO se lo recomiendo
-
-- Si lo que quieres es la Sagrada Familia explicada por dentro: aquí el guía no entra contigo. Mira la [visita guiada sin colas](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-sin-colas).
-- Si esperabas que las entradas estuvieran incluidas: no lo están, salvo en la opción privada.
-- Si necesitas accesibilidad en silla de ruedas: el tour no está adaptado.
-- Si solo te interesan la Sagrada Familia y el Park Güell, sin el resto del día: el [tour de Sagrada Familia y Park Güell](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado) es más directo.
-
-Para sacar partido a la parada en el templo, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) te ayuda a aprovecharla.
+- Si 

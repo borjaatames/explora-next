@@ -12,6 +12,7 @@ duracionMinutos: 480
 precioDesde: 129
 moneda: EUR
 idiomas:
+- es
 - en
 proveedor: bokun
 urlReserva: ''
@@ -189,15 +190,4 @@ Sagrada Familia entry is nominative: details are requested at booking and the do
 ## Who I'd recommend it to
 
 - If you have a single day in Barcelona and want to see the most without organising anything.
-- If you value the comfort of hotel pickup and transport between points.
-- If you want a guide who gives you context for the whole city, not just one monument.
-- If a small group and a long day work for you.
-
-## Who I would NOT recommend it to
-
-- If what you want is the Sagrada Familia explained from inside: here the guide doesn't go in with you. See the [skip-the-line guided tour](/en/cities/barcelona/activities/sagrada-familia-skip-the-line-guided-tour).
-- If you expected entry to be included: it isn't, except in the private option.
-- If you need wheelchair accessibility: the tour is not adapted.
-- If you only care about the Sagrada Familia and Park Güell, without the rest of the day: the [Sagrada Familia and Park Güell tour](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) is more direct.
-
-To get the most from the temple stop, our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) helps you make the most of it.
+- If you value the comfort of hotel pickup and transport be

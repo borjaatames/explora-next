@@ -12,6 +12,7 @@ duracionMinutos: 90
 precioDesde: 84
 moneda: EUR
 idiomas:
+- es
 - en
 proveedor: bokun
 urlReserva: ""
@@ -150,8 +151,6 @@ bokunProductId: 662268
 fecha_actualizacion: '2026-06-18'
 ---
 
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
 ## Qué vas a ver
 
 El recorrido es el de cualquier visita guiada a la basílica —fachadas, interior y escuela—, pero en un grupo más pequeño. La diferencia no está en lo que ves, sino en cómo lo ves: con sitio, sin agobio y con el guía cerca.
@@ -183,3 +182,4 @@ Esta es **la visita guiada accesible** del comparador: el operador declara acces
 - Si prefieres quedarte dentro a tu aire después de la parte guiada: te encaja más el [tour guiado con tiempo libre](/ciudades/barcelona/actividades/sagrada-familia-tour-guiado-tiempo-libre).
 
 Para preparar la visita, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) explica el código de vestimenta y los errores típicos.
+                                                                                                  

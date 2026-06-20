@@ -12,6 +12,7 @@ duracionMinutos: 240
 precioDesde: 119
 moneda: EUR
 idiomas:
+- es
 - en
 proveedor: bokun
 urlReserva: ""
