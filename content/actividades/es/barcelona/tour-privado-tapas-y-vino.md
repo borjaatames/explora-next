@@ -2,7 +2,7 @@
 titulo: "Tour privado de tapas y vino"
 slug: tour-privado-tapas-y-vino
 ciudad: barcelona
-descripcion: "Tour privado de tapas y vino por Barcelona, solo para tu grupo, con guía en exclusiva y degustaciones en bares locales. Precio por grupo."
+descripcion: "Ruta privada de tapas y vino a pie por el Barrio Gótico y el casco antiguo de Barcelona, solo para tu grupo y con guía en exclusiva. Degustación de tapas con maridaje de vinos regionales en 4 locales auténticos. Precio por grupo."
 slugs:
   es: tour-privado-tapas-y-vino
   en: private-tapas-and-wine-walking-tour
@@ -19,19 +19,27 @@ urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Tour privado solo para tu grupo, con guía en exclusiva
-- Paradas en bares y tabernas locales seleccionados
-- Degustación de tapas y vinos catalanes incluida
-- Precio por grupo, no por persona
+- Ruta privada de 3 horas por el Barrio Gótico y el casco antiguo de Barcelona
+- Guía turístico en exclusiva, solo para ti y tu grupo
+- Tapas y bebidas en 4 locales auténticos diferentes, con maridaje de vinos regionales
+- Historia, cultura y escena gastronómica de Barcelona y Cataluña de la mano del guía
+- Recomendaciones del guía para el resto de tu estancia en Barcelona
 incluye:
-- Guía privado en directo
-- Tapas en cada parada
-- Vinos locales incluidos
+- 'Comida completa: degustación de tapas con maridaje de vinos regionales en 4 bares diferentes'
+- Parada en 4 restaurantes emblemáticos, con comida y bebida en cada uno
+- Guía local experto en gastronomía, cercano y aficionado a la cocina
+- Visita guiada privada a pie por la ciudad vieja, solo para tu grupo
 noIncluye:
-- Propinas
-- Bebidas adicionales fuera del menú
+- Recogida y devolución en el alojamiento
+- Propinas (opcionales)
 puntoEncuentro:
-  texto: Punto de encuentro en el casco antiguo de Barcelona (se confirma al reservar)
+  texto: Punto de encuentro en el centro de Barcelona, a convenir al reservar (salidas habitualmente por la tarde, sobre las 18:00)
+informacionImportante:
+  aTenerEnCuenta:
+  - Recorrido disponible en español o inglés; elige el idioma al reservar
+  - Llega al punto de encuentro 10 minutos antes para el registro
+  - Avisa al guía de cualquier alergia o restricción alimentaria al llegar
+  - Se adaptan a restricciones dietéticas, alergias y opciones vegetarianas
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

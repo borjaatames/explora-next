@@ -2,7 +2,7 @@
 titulo: "Tour gastronómico de mediodía con el Mercado de la Boquería"
 slug: tour-gastronomico-mediodia-boqueria-vinos
 ciudad: barcelona
-descripcion: "Tour gastronómico a pie por Barcelona con visita al Mercado de la Boquería, paradas en cuatro bodegas y degustación de vinos y tapas locales."
+descripcion: "Visita enogastronómica de mediodía por el casco antiguo de Barcelona: Mercado de la Boquería con degustación de quesos y embutidos locales, y tapas con vinos regionales en 4 bodegas de los barrios Gótico y del Born. Grupo reducido (máx. 12)."
 slugs:
   es: tour-gastronomico-mediodia-boqueria-vinos
   en: midday-food-and-wine-tour-boqueria-market
@@ -19,23 +19,32 @@ urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Recorrido a pie por el casco antiguo con un guía local
-- Visita al emblemático Mercado de la Boquería
-- Paradas en cuatro bodegas y bares tradicionales
-- Degustación de tapas y vinos catalanes incluida
+- Historia y patrimonio culinario de Barcelona de la mano de un guía experto
+- Degustación de quesos y embutidos locales en el Mercado de la Boquería
+- Tapas y vinos tradicionales en restaurantes y bodegas familiares
+- Visita a 4 bodegas en los barrios Gótico y del Born
+- Grupo reducido, máximo 12 personas
+- Recomendaciones del guía para el resto de tu estancia en Barcelona
 incluye:
-- Guía local en directo
-- Degustación de tapas en cada parada
-- Vinos locales incluidos
-- Visita al Mercado de la Boquería
+- 'Comida completa: degustación de tapas con vinos regionales'
+- Visita al Mercado de la Boquería con degustación de quesos y embutidos locales
+- Parada en 4 bodegas emblemáticas del Gótico y el Born, con comida y bebida en cada una
+- Guía local experto en gastronomía, cercano y aficionado a la cocina
+- Visita guiada a pie por la ciudad vieja, en grupo reducido (máx. 12)
 noIncluye:
-- Propinas
-- Bebidas adicionales fuera del menú
+- Recogida y devolución en el alojamiento
+- Propinas (opcionales)
 puntoEncuentro:
   texto: Mercado de La Boquería, La Rambla, 91, 08001 Barcelona
   latitud: 41.3817
   longitud: 2.1716
   zoom: 16
+informacionImportante:
+  aTenerEnCuenta:
+  - Salida a las 11:00 de la mañana
+  - Llega al punto de encuentro 10 minutos antes para el registro
+  - Avisa al guía de cualquier alergia o necesidad alimentaria al llegar
+  - Se adaptan a restricciones dietéticas, alergias y opciones vegetarianas
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

@@ -2,7 +2,7 @@
 titulo: "Midday Food & Wine Tour with the Boquería Market"
 slug: midday-food-and-wine-tour-boqueria-market
 ciudad: barcelona
-descripcion: "Walking food tour of Barcelona with a visit to the Boquería Market, stops at four traditional taverns and tastings of local wines and tapas."
+descripcion: "Midday food & wine tour through Barcelona's old town: La Boquería Market with a tasting of local cheeses and cured meats, plus tapas and regional wines at 4 wine bars in the Gothic Quarter and El Born. Small group (max 12)."
 slugs:
   es: tour-gastronomico-mediodia-boqueria-vinos
   en: midday-food-and-wine-tour-boqueria-market
@@ -19,23 +19,32 @@ urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Walking tour of the old town with a local guide
-- Visit to the iconic Boquería Market
-- Stops at four traditional taverns and bars
-- Tastings of Catalan tapas and wines included
+- Barcelona's history and culinary heritage with an expert local guide
+- Tasting of local cheeses and cured meats at La Boquería Market
+- Traditional tapas and wines at family-run venues
+- Visit to 4 wine bars in the Gothic Quarter and El Born
+- Small group, maximum 12 people
+- Tips from your guide for the rest of your stay in Barcelona
 incluye:
-- Live local guide
-- Tapas tastings at each stop
-- Local wines included
-- Visit to the Boquería Market
+- 'Full meal: tapas tasting paired with regional wines'
+- Visit to La Boquería Market with a tasting of local cheeses and cured meats
+- Stop at 4 emblematic wine bars in the Gothic Quarter and El Born, with food and drink at each
+- Knowledgeable, friendly local food-loving guide
+- Small-group guided walk through the old town (max 12)
 noIncluye:
-- Tips
-- Extra drinks beyond the set menu
+- Hotel pickup and drop-off
+- Tips (optional)
 puntoEncuentro:
   texto: La Boquería Market, La Rambla, 91, 08001 Barcelona
   latitud: 41.3817
   longitud: 2.1716
   zoom: 16
+informacionImportante:
+  aTenerEnCuenta:
+  - Departure at 11:00 am
+  - Arrive at the meeting point 10 minutes early for check-in
+  - Tell your guide about any allergies or dietary needs on arrival
+  - Dietary restrictions, allergies and vegetarian options can be accommodated
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

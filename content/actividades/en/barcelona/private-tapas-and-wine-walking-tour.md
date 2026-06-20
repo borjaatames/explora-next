@@ -2,7 +2,7 @@
 titulo: "Private Tapas & Wine Walking Tour"
 slug: private-tapas-and-wine-walking-tour
 ciudad: barcelona
-descripcion: "Private tapas and wine walking tour of Barcelona, just for your group, with a guide of your own and tastings at local bars. Price per group."
+descripcion: "Private tapas and wine walking tour through Barcelona's Gothic Quarter and old town, just for your group and with a private guide. Tapas tasting paired with regional wines at 4 authentic venues. Price per group."
 slugs:
   es: tour-privado-tapas-y-vino
   en: private-tapas-and-wine-walking-tour
@@ -19,19 +19,27 @@ urlReserva: ""
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Private tour for your group only, with a guide just for you
-- Stops at selected local bars and taverns
-- Tastings of Catalan tapas and wines included
-- Price per group, not per person
+- 3-hour private route through Barcelona's Gothic Quarter and old town
+- A private guide just for you and your group
+- Tapas and drinks at 4 different authentic venues, paired with regional wines
+- Barcelona and Catalonia's history, culture and food scene, told by your guide
+- Tips from your guide for the rest of your stay in Barcelona
 incluye:
-- Live private guide
-- Tapas at each stop
-- Local wines included
+- 'Full meal: tapas tasting paired with regional wines at 4 different bars'
+- Stop at 4 emblematic venues, with food and drink at each one
+- Knowledgeable, friendly local food-loving guide
+- Private guided walking tour of the old town, for your group only
 noIncluye:
-- Tips
-- Extra drinks beyond the set menu
+- Hotel pickup and drop-off
+- Tips (optional)
 puntoEncuentro:
-  texto: Meeting point in Barcelona's old town (confirmed when booking)
+  texto: Meeting point in central Barcelona, arranged when booking (departures usually in the evening, around 6:00 pm)
+informacionImportante:
+  aTenerEnCuenta:
+  - Tour available in Spanish or English; choose the language when booking
+  - Arrive at the meeting point 10 minutes early for check-in
+  - Tell your guide about any allergies or dietary restrictions on arrival
+  - Dietary restrictions, allergies and vegetarian options can be accommodated
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
