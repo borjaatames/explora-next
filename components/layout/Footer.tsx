@@ -27,8 +27,8 @@ const DICT = {
   es: {
     tagline:
       "Tours, actividades y guías editoriales para viajar por España con criterio.",
-    promesaCancelacion: "Cancelación gratuita",
-    promesaCancelacionSub: "Hasta 24 h antes",
+    promesaPago: "Pago 100% seguro",
+    promesaPagoSub: "Vía Stripe y partners oficiales",
     promesaConfirmacion: "Confirmación inmediata",
     promesaConfirmacionSub: "Ticket en el móvil",
     promesaSoporte: "Atención al cliente",
@@ -53,8 +53,8 @@ const DICT = {
   en: {
     tagline:
       "Tours, activities and editorial guides for traveling Spain with judgment.",
-    promesaCancelacion: "Free cancellation",
-    promesaCancelacionSub: "Up to 24 h before",
+    promesaPago: "100% secure payment",
+    promesaPagoSub: "Via Stripe and official partners",
     promesaConfirmacion: "Instant confirmation",
     promesaConfirmacionSub: "Mobile ticket",
     promesaSoporte: "Customer support",
@@ -114,8 +114,8 @@ export default function Footer({ idioma }: Props) {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 md:gap-6">
             <Promesa
               icon={<IconShieldCheck />}
-              titulo={t.promesaCancelacion}
-              subtitulo={t.promesaCancelacionSub}
+              titulo={t.promesaPago}
+              subtitulo={t.promesaPagoSub}
             />
             <Promesa
               icon={<IconMobile />}

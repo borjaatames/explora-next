@@ -52,16 +52,18 @@ keywords:
 imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Barco frente a las aguas turquesa de Formentera"
 galeria:
-- src: /images/actividades/ibiza/formentera/ibiza-formentera-01.webp
-  alt: Playas turquesas de Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-02.webp
   alt: Playas turquesas de Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-03.webp
-  alt: Playas turquesas de Formentera
+  alt: Aguas cristalinas de Formentera con arena blanca
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-04.webp
-  alt: Playas turquesas de Formentera
+  alt: Cala de Formentera con mar turquesa
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-05.webp
-  alt: Playas turquesas de Formentera
+  alt: Costa de Formentera vista desde el mar
+- src: /images/actividades/ibiza/formentera/formentera-pexels-5096831-hero.webp
+  alt: Barco navegando por las aguas turquesa de Formentera
+- src: /images/actividades/ibiza/formentera/formentera-pexels-33838897-hero.webp
+  alt: Playa de Formentera con aguas cristalinas y embarcaciones
 - src: /images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp
   alt: Islote de Es Vedra, Ibiza
 publicada: true

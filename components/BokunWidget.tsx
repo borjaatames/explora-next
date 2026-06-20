@@ -178,8 +178,8 @@ export default function BokunWidget({
             <path d="M7 11V7a5 5 0 0 1 10 0v4" />
           </svg>
           {idioma === "es"
-            ? "Pago 100% seguro · Cancelación gratuita · Confirmación inmediata"
-            : "100% secure payment · Free cancellation · Instant confirmation"}
+            ? "Pago 100% seguro · Confirmación inmediata"
+            : "100% secure payment · Instant confirmation"}
         </p>
       </div>
     </div>

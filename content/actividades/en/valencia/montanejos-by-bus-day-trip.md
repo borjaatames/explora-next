@@ -43,8 +43,8 @@ keywords:
 imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
 imagenAlt: Turquoise thermal pools in Montanejos, Castellón
 galeria:
-- src: /images/actividades/valencia/montanejos/montanejos-01.webp
-  alt: Turquoise thermal pools in Montanejos, Castellón
+- src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
+  alt: Mijares river running through Montanejos, among the mountains of Castellón
 publicada: true
 destacada: false
 fecha: '2026-06-18'

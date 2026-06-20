@@ -50,8 +50,12 @@ imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-unsplash-_U6Er
 imagenAlt: "Boat ride along the underground river of the San José Caves near Valencia"
 
 galeria:
-  - src: "/images/actividades/valencia/ciudades/valencia-hero.webp"
-    alt: "Boat ride along the underground river of the San José Caves near Valencia"
+  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
+    alt: "Illuminated underground river of the San José Caves with rock formations"
+  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-hero.webp"
+    alt: "Cave interior with stalactites and water, San José Caves"
+  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp"
+    alt: "San José Caves in Vall d'Uixó, Castellón, with the navigable river"
 ratingProveedor: 4.6
 numeroOpiniones: 785
 publicada: true

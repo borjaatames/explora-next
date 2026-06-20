@@ -44,18 +44,18 @@ keywords:
 imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Cala Granadella en Javea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Cala Granadella en Javea
+  alt: Aguas turquesa de la Cala Granadella en Jávea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Cala Granadella en Javea
+  alt: Cala Granadella rodeada de acantilados y pinos, Costa Blanca
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Cala Granadella en Javea
+  alt: Cala de aguas cristalinas en la Granadella, Jávea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Cala Granadella en Javea
-- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
-  alt: Parque Natural de la Albufera, Valencia
+  alt: Vista de la Cala Granadella desde el mirador
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30681578-hero.webp
+  alt: Cala Granadella con barcas fondeadas en aguas turquesa
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
+  alt: Cala mediterránea de aguas turquesa en la Costa Blanca
 publicada: true
 destacada: false
 fecha: '2026-06-18'

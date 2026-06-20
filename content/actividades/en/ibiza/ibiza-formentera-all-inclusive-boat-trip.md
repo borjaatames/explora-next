@@ -52,16 +52,18 @@ keywords:
 imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Boat off the turquoise waters of Formentera"
 galeria:
-- src: /images/actividades/ibiza/formentera/ibiza-formentera-01.webp
-  alt: Turquoise beaches of Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-02.webp
   alt: Turquoise beaches of Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-03.webp
-  alt: Turquoise beaches of Formentera
+  alt: Crystal-clear waters of Formentera with white sand
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-04.webp
-  alt: Turquoise beaches of Formentera
+  alt: Formentera cove with turquoise sea
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-05.webp
-  alt: Turquoise beaches of Formentera
+  alt: Formentera coastline seen from the sea
+- src: /images/actividades/ibiza/formentera/formentera-pexels-5096831-hero.webp
+  alt: Boat sailing across the turquoise waters of Formentera
+- src: /images/actividades/ibiza/formentera/formentera-pexels-33838897-hero.webp
+  alt: Formentera beach with crystal-clear waters and boats
 - src: /images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp
   alt: Es Vedra islet, Ibiza
 publicada: true

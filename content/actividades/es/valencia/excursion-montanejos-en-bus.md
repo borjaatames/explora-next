@@ -43,8 +43,8 @@ keywords:
 imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
 imagenAlt: Pozas turquesa de aguas termales en Montanejos, Castellón
 galeria:
-- src: /images/actividades/valencia/montanejos/montanejos-01.webp
-  alt: Pozas turquesa de aguas termales en Montanejos, Castellón
+- src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
+  alt: Río Mijares a su paso por Montanejos, entre montañas de Castellón
 publicada: true
 destacada: false
 fecha: '2026-06-18'

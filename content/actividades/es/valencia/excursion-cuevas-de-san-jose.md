@@ -50,8 +50,12 @@ imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-unsplash-_U6Er
 imagenAlt: "Paseo en barca por el río subterráneo de las Cuevas de San José cerca de Valencia"
 
 galeria:
-  - src: "/images/actividades/valencia/ciudades/valencia-hero.webp"
-    alt: "Paseo en barca por el río subterráneo de las Cuevas de San José cerca de Valencia"
+  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
+    alt: "Río subterráneo de las Cuevas de San José iluminado, con formaciones de roca"
+  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-hero.webp"
+    alt: "Galería interior de una cueva con estalactitas y agua, Cuevas de San José"
+  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp"
+    alt: "Cuevas de San José en la Vall d'Uixó, Castellón, con el río navegable"
 ratingProveedor: 4.6
 numeroOpiniones: 785
 publicada: true

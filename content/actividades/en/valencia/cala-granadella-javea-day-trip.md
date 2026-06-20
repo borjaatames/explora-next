@@ -44,18 +44,18 @@ keywords:
 imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
 galeria:
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Cala Granadella cove in Javea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Cala Granadella cove in Javea
+  alt: Turquoise water of Cala Granadella in Jávea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Cala Granadella cove in Javea
+  alt: Cala Granadella surrounded by cliffs and pines, Costa Blanca
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Cala Granadella cove in Javea
+  alt: Crystal-clear cove waters at La Granadella, Jávea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Cala Granadella cove in Javea
-- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
-  alt: Albufera Natural Park, Valencia
+  alt: View of Cala Granadella from the viewpoint
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30681578-hero.webp
+  alt: Cala Granadella with boats anchored in turquoise water
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
+  alt: Mediterranean cove with turquoise water on the Costa Blanca
 publicada: true
 destacada: false
 fecha: '2026-06-18'
