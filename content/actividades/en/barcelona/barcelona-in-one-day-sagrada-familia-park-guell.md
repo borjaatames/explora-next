@@ -120,8 +120,6 @@ galeria:
   alt: Sagrada Familia of Barcelona with blooming trees in the foreground
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
   alt: 'Gothic Quarter Barcelona: narrow medieval street with historic architecture and stone buildings'
-- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-  alt: Barcelona cityscape with modern architecture and landmarks
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Barcelona cityscape with modern architecture and Mediterranean coastline view
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
@@ -144,8 +142,6 @@ galeria:
   alt: Park Güell's colorful mosaic terraces and architecture designed by Gaudí in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Barcelona cityscape with historic architecture and urban streets
-- src: /images/actividades/barcelona/montjuic/images-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landmarks
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica exterior with intricate Gothic architecture and towering spires in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
