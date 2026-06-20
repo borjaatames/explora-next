@@ -132,7 +132,7 @@ galeria:
   alt: Montserrat monastery's ornate Gothic facade with dramatic mountain backdrop
 ratingProveedor: 4.9
 numeroOpiniones: 7736
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-15'
 atraccionesRelacionadas:

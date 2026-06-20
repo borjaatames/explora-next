@@ -134,7 +134,7 @@ galeria:
   alt: Fachada gótica de Montserrat en Barcelona, arquitectura medieval impresionante
 ratingProveedor: 4.9
 numeroOpiniones: 7736
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-15'
 atraccionesRelacionadas:

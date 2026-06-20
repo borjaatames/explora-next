@@ -134,7 +134,7 @@ galeria:
   alt: Bodegas de vino en Madrid con botellas apiladas en toneles de madera
 ratingProveedor: 4.9
 numeroOpiniones: 7069
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

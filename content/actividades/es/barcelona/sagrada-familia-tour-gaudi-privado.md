@@ -109,7 +109,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
 imagenAlt: Casa Batlló en Passeig de Gràcia, Barcelona, 1905, arquitectura modernista de Gaudí
 ratingProveedor: 4.7
 numeroOpiniones: 1242
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

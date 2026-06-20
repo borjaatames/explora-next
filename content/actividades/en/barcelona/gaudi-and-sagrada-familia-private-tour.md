@@ -110,7 +110,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
 imagenAlt: Casa Batlló's ornate facade with colorful mosaic tiles and undulating balconies on Passeig de Gràcia, Barcelona
 ratingProveedor: 4.7
 numeroOpiniones: 1242
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

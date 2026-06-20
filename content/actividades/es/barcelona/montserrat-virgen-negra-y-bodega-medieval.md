@@ -107,7 +107,7 @@ galeria:
 ratingProveedor: 4.9
 numeroOpiniones: 5305
 
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-15"
 atraccionesRelacionadas:

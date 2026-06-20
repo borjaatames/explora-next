@@ -108,7 +108,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
 imagenAlt: Barcelona cityscape with historic architecture and urban landscape
 ratingProveedor: 4.4
 numeroOpiniones: 2480
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

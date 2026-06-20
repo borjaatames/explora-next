@@ -143,7 +143,7 @@ galeria:
   alt: Barcelona cityscape with historic buildings and Mediterranean architecture
 ratingProveedor: 3.9
 numeroOpiniones: 1319
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

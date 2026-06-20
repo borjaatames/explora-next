@@ -132,7 +132,7 @@ galeria:
   alt: Wine barrels stacked in a traditional Madrid winery cellar
 ratingProveedor: 4.9
 numeroOpiniones: 7069
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:
