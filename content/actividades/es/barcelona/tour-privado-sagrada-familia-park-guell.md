@@ -6,8 +6,8 @@ descripcion: "Tour privado por la Sagrada Família y el Park Güell con guía en
 slugs:
   es: tour-privado-sagrada-familia-park-guell
   en: private-sagrada-familia-and-park-guell-tour
-duracion: Medio día (unas 5 horas)
-duracionMinutos: 300
+duracion: Medio día (unas 4 horas)
+duracionMinutos: 240
 precioDesde: 450
 moneda: EUR
 idiomas:
