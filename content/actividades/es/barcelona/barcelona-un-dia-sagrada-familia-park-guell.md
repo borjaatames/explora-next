@@ -121,6 +121,8 @@ galeria:
   alt: Sagrada Familia de Barcelona con árboles en flor en primer plano
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
   alt: Calle estrecha del Barrio Gótico de Barcelona con arquitectura medieval y fachadas históricas
+- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
+  alt: Vistas panorámicas de Barcelona con edificios históricos y arquitectura moderna bajo cielo azul.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Vistas de Barcelona con arquitectura modernista y skyline urbano
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
@@ -145,6 +147,8 @@ galeria:
   alt: Vistas panorámicas de Barcelona con arquitectura moderna y antigua bajo cielo azul
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Fachada de la Sagrada Familia en Barcelona, arquitectura gótica modernista con torres ornamentadas.
+- src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
+  alt: Vista panorámica de Barcelona con la Sagrada Familia destacada entre los edificios
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
   alt: Barcelona, vista aérea de la ciudad con arquitectura modernista y edificios históricos
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero-hero.webp
