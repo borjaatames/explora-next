@@ -65,27 +65,27 @@ keywords:
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: La Sagrada Familia de Barcelona, una de las paradas del tour por España
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: La Sagrada Familia de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Detalle de la arquitectura de la Sagrada Familia
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Vista de la Sagrada Familia de Barcelona
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un **gran tour privado de 9 días** por cuatro de las ciudades imprescindibles de España: **Barcelona** (modernismo y barrio gótico), **Madrid** (la capital y sus museos), **Granada** (la Alhambra y el Albaicín) y **Sevilla** (la Andalucía monumental). El viaje combina visitas guiadas, entradas sin colas y cenas locales con tiempo libre para explorar a tu aire.
-
-## Cómo funciona
-
-Es un **viaje privado** (solo tu grupo) de **9 días**, en **español e inglés**, con **hoteles, desayunos y cenas, entradas, trenes AVE entre ciudades y traslados** incluidos, además de **visitas guiadas a pie en Barcelona y Madrid**. Reserva y pago aquí mismo; **precio por grupo**, no por persona. No incluye los almuerzos.
-
-## A quién se lo recomiendo
-
-- Si quieres ver lo esencial de España en un solo viaje, sin organizar trenes, hoteles ni entradas.
-- Si viajáis en familia o grupo y preferís algo privado, con estructura pero a vuestro ritmo.
-- Si valoras moverte cómodo entre ciudades en alta velocidad.

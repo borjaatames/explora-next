@@ -48,28 +48,28 @@ keywords:
 imagen: "/images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp"
 imagenAlt: Barcelona's Boquería Market full of fresh produce stalls
 galeria:
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
-  alt: El Mercado de la Boquería de Barcelona lleno de puestos de productos frescos
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: Puestos de fruta y producto fresco en el Mercado de la Boquería
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
+  alt: La Boqueria market, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
-  alt: Interior del mercado de la Boquería con productos típicos catalanes
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
+  alt: La Boqueria market, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A walking tour of Barcelona's old town focused on its food. The highlight is the **Boquería Market**, just off La Rambla, where you'll see the fresh produce that defines Catalan cooking. Along the way you stop at **four traditional taverns and bars** to try local tapas and wines.
-
-## How it works
-
-It's a **small-group** tour (max 14 people), around **3 hours**, with a local guide. Tapas tastings and the wines at each stop are included. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want to eat like a local and find places off the tourist track.
-- If you're interested in Barcelona's food and produce culture.
-- If you prefer a small group to a crowded visit.

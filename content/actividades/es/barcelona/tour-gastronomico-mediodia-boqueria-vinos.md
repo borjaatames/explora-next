@@ -48,28 +48,28 @@ keywords:
 imagen: "/images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp"
 imagenAlt: El Mercado de la Boquería de Barcelona lleno de puestos de productos frescos
 galeria:
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
-  alt: El Mercado de la Boquería de Barcelona lleno de puestos de productos frescos
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: Puestos de fruta y producto fresco en el Mercado de la Boquería
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
-  alt: Interior del mercado de la Boquería con productos típicos catalanes
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un recorrido a pie por el casco antiguo de Barcelona centrado en su gastronomía. La parada estrella es el **Mercado de la Boquería**, junto a La Rambla, donde verás el producto fresco que define la cocina catalana. Por el camino paráis en **cuatro bodegas y bares tradicionales** para probar tapas y vinos locales.
-
-## Cómo funciona
-
-Es un tour en **grupo reducido** (máximo 14 personas), de unas **3 horas**, con guía local. Incluye las degustaciones de tapas y los vinos de cada parada. La reserva y el pago se hacen aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si quieres comer como un local y descubrir sitios fuera del circuito turístico.
-- Si te interesa el producto y la cultura gastronómica de Barcelona.
-- Si prefieres un grupo pequeño a una visita masificada.

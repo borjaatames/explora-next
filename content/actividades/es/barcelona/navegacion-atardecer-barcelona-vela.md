@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.w
 imagenAlt: "Velero al atardecer frente a la costa de Barcelona"
 galeria:
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
-  alt: Velero al atardecer frente a la costa de Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
-  alt: Navegación al atardecer en Barcelona con bebidas a bordo
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp
-  alt: Vistas de Barcelona desde el velero al atardecer
+  alt: Navegacion por la costa de Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una salida en **velero al atardecer** desde **Marina Vela**, en el Port Vell. Saldrás del puerto con la estatua de Colón al fondo y navegarás la costa de Barcelona en un yate Beneteau Oceanis 41, con la ciudad encendiéndose a medida que cae el sol. Puedes relajarte con una copa, echar una mano al patrón o darte un baño.
-
-## Cómo funciona
-
-Experiencia de **2 horas** en **grupo reducido** (máx. 12), con patrón profesional, barra libre y aperitivos a bordo. Disponible en varios idiomas (español e inglés, entre otros). Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si buscas un plan distinto y fotogénico al atardecer.
-- Si viajas en pareja o grupo y te apetece algo relajado.
-- Si quieres ver Barcelona desde el mar.

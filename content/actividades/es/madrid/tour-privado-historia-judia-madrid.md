@@ -58,28 +58,26 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2
 imagenAlt: "Calles históricas del centro de Madrid"
 galeria:
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
-  alt: Calles históricas del centro de Madrid
+  alt: Calles historicas del centro de Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
-  alt: Calles históricas del centro de Madrid
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
+  alt: Calles historicas del centro de Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
-  alt: Calles históricas del centro de Madrid
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-explore-quaint-urban-street-hero.webp
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-05-hero.webp
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-anagoria-hero.webp
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
+  alt: Calles historicas del centro de Madrid
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp
+  alt: Barrio de las Letras, Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un recorrido a pie por el **Madrid judío** en formato **privado**: el guía es solo para tu grupo. El punto de partida es el entorno de la **Comunidad Judía de Madrid**, y desde ahí se explora una historia muchas veces invisible pero muy presente en las calles, los nombres y los espacios públicos de la ciudad.
-
-La presencia judía en España se remonta a más de mil años, mucho antes de que Madrid fuera capital del reino en 1561. El recorrido recorre esa memoria: la convivencia y la tensión medievales, el exilio de la mayoría de la comunidad y el regreso de la vida judía a Madrid en el siglo XX, de la mano de sefardíes y nuevas generaciones.
-
-## Cómo funciona
-
-Es un **tour privado** (solo tu grupo), de unas **2 horas**, en **español e inglés**. Reserva y pago aquí mismo; **precio por grupo**, no por persona. El punto de encuentro exacto se confirma al reservar.
-
-## A quién se lo recomiendo
-
-- Si te interesa una mirada distinta y poco conocida de la historia de Madrid.
-- Si prefieres una visita a medida, sin grupos grandes y a tu ritmo.
-- Si buscas una experiencia privada asequible (precio por grupo).

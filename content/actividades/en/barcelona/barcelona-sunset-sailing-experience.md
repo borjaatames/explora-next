@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.w
 imagenAlt: "Sailing yacht at sunset off the Barcelona coast"
 galeria:
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
-  alt: Sailing yacht at sunset off the Barcelona coast
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
-  alt: Sunset sailing in Barcelona with drinks onboard
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp
-  alt: Views of Barcelona from the yacht at sunset
+  alt: Sailing along the Barcelona coastline
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A **sunset sailing** trip from **Marina Vela**, in Port Vell. You'll leave the harbour with the Columbus statue behind you and sail the Barcelona coast on a Beneteau Oceanis 41 yacht as the city lights up at dusk. Relax with a drink, help the skipper or take a dip.
-
-## How it works
-
-A **2-hour** experience in a **small group** (max 12), with a professional skipper, open bar and snacks onboard. Available in several languages (Spanish and English among them). Book and pay right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want a different, photogenic plan at sunset.
-- If you're travelling as a couple or group and fancy something relaxed.
-- If you'd like to see Barcelona from the sea.

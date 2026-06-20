@@ -101,8 +101,26 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "Interior of the Benedictine monastery of Montserrat"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Montserrat monastery atrium at dawn"
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Montserrat monastery and mountains
 
 ratingProveedor: 4.9
 numeroOpiniones: 6372
@@ -115,38 +133,3 @@ atraccionesRelacionadas:
 bokunProductId: 866982
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Note:** this experience is conducted in English.
-
-## What you'll see
-
-This variant is modular: the tour's "skeleton" is always the same (coach + monastery + free time), and then you choose the extras that interest you most. What distinguishes the operator is early access to the monastery before massive groups arrive.
-
-- **Monastery of Montserrat (45-minute guided visit):** atrium, basilica and iconic points of the complex. Early access (around 9:30) before the crowds.
-- **2 hours of free time:** to take the funicular (extra), visit the museum, eat or stroll through the market.
-- **Optional extras based on booked option:**
-  - **Moreneta** (Black Madonna chamber access): +€5 approx.
-  - **Boys' Choir (Escolanía):** attendance at the 13:00 performance (Mon-Fri only, school term).
-  - **Winery + lunch:** full day (9h) with Bages farmhouse, wine tasting and 3-course lunch.
-
-## How it works
-
-Meet at **Estació de França** (Av. del Marquès de l'Argentera, 6). The guide will have a burgundy red umbrella for identification. Arrive 10 minutes early — the bus leaves on time.
-
-1-hour journey to Montserrat. Upon arrival, **45-minute guided visit** and basilica entry (if your option includes it). Then, **2 hours of free time** for the extras you've booked or to explore at your pace.
-
-Return to Barcelona in 1 hour. Total: 5h 15min for the basic option; 9 hours for the winery and lunch option.
-
-## Who I'd recommend it to
-
-- If you value arriving at the monastery before the crowds (early access is real).
-- If you want flexibility to choose extras based on your interest (Moreneta, Escolanía, winery).
-- If your booking goes through Viator and you prefer an operator with 6,300+ verified reviews.
-- If traveling with family that wants to see the boys' choir (the Escolanía option is designed for that).
-
-## Who I would NOT recommend it to
-
-- If you expect the iconic rack railway — not included. See [Julià Travel with rack railway](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna).
-- If you want a very intimate format (4-8 people). Here it can be 22. See [UNIque Tours group of 8](/en/cities/barcelona/activities/montserrat-funicular-scenic-hike).
-- If you want all-inclusive pricing without optional extras — the operator's modular model has different prices based on what you choose.
-- If the extra charge for the Moreneta bothers you (you may feel it «should be included»).

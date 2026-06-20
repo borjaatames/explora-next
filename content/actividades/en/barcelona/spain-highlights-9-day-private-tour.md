@@ -65,27 +65,27 @@ keywords:
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: Barcelona's Sagrada Familia, one of the stops on the Spain tour
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Barcelona's Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Detail of the Sagrada Familia's architecture
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: View of Barcelona's Sagrada Familia
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## What you'll see
-
-A **9-day private grand tour** of four of Spain's must-see cities: **Barcelona** (modernisme and the Gothic Quarter), **Madrid** (the capital and its museums), **Granada** (the Alhambra and the Albaicín) and **Seville** (monumental Andalusia). The trip combines guided tours, skip-the-line admissions and local dinners with free time to explore on your own.
-
-## How it works
-
-It's a **private trip** (your group only) of **9 days**, in **Spanish and English**, with **hotels, breakfasts and dinners, admissions, AVE trains between cities and transfers** included, plus **guided walking tours in Barcelona and Madrid**. Book and pay right here; **price is per group**, not per person. Lunches are not included.
-
-## Who it's for
-
-- If you want to see the essentials of Spain in one trip, with no trains, hotels or tickets to arrange.
-- If you're travelling as a family or group and prefer something private, with structure but at your own pace.
-- If you value travelling comfortably between cities by high-speed rail.

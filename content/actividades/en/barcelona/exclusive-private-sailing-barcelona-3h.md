@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01
 imagenAlt: "Private yacht sailing off Barcelona"
 galeria:
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
-  alt: Private yacht sailing off Barcelona
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
-  alt: Deck of the private yacht in Barcelona
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp
-  alt: Private sailing along the Barcelona coast
+  alt: Sailing along the Barcelona coastline
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A **private yacht** for your group (up to 11 people), 3 hours sailing the Barcelona coast on an Oceanis 41. No sharing with strangers: you set your own pace, swim, help the skipper or simply relax with tapas and drinks as the city drifts by.
-
-## How it works
-
-It's a **private** experience (your group only), **3 hours**, with a professional skipper, tapas and drinks included. The **price is per group**, not per person. Available in several languages (Spanish and English among them). Book and pay right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you're travelling as a group or celebrating something special.
-- If you prefer privacy and setting your own pace.
-- If you want a tailor-made experience at sea.

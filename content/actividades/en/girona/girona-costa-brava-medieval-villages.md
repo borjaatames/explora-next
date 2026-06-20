@@ -40,8 +40,24 @@ imagen: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixaba
 imagenAlt: "Stone medieval village of the Empordà near Girona"
 
 galeria:
-  - src: "/images/actividades/girona/ciudades/girona-hero.webp"
-    alt: "Stone medieval village of the Empordà near Girona"
+- src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
+  alt: Costa Brava coastline, Girona
+- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
+  alt: Costa Brava coastline, Girona
+- src: /images/actividades/girona/ciudades/girona-hero.webp
+  alt: Medieval old town of Girona
+- src: /images/actividades/girona/call/call-girona-hero.webp
+  alt: Jewish Quarter of Girona
+- src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
+  alt: Colourful houses on the Onyar river, Girona
+- src: /images/actividades/girona/muralla/muralla-girona-hero.webp
+  alt: Medieval city walls of Girona
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: Banos Arabes
+- src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
+  alt: Catedral Girona
+- src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp
+  alt: Dali Figueres
 ratingProveedor: 4.99
 numeroOpiniones: 228
 publicada: true
@@ -50,9 +66,3 @@ fecha: "2026-05-21"
 bokunProductId: 936816
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Note:** this experience is conducted in English.
-
-## What you'll see
-
-Girona, the Costa Brava and the medieval villages of the Empordà on a guided day trip with transport from Barcelona. Scenery, coves and heritage in one of Catalonia's best escapes.

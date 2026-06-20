@@ -61,25 +61,23 @@ galeria:
   alt: Historic streets of central Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
   alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
+  alt: Historic streets of central Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
   alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-explore-quaint-urban-street-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-05-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-anagoria-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp
+  alt: Barrio de las Letras, Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## What you'll see
-
-A walking tour of **Jewish Madrid** in **private** format: the guide is yours alone. It starts around the **Jewish Community of Madrid**, and from there explores a history that is often invisible yet very present in the city's streets, names and public spaces.
-
-The Jewish presence in Spain goes back more than a thousand years, long before Madrid became the capital in 1561. The tour traces that memory: medieval coexistence and tension, the exile of most of the community, and the return of Jewish life to Madrid in the 20th century through Sephardic Jews and new generations.
-
-## How it works
-
-It's a **private tour** (your group only), around **2 hours**, in **Spanish and English**. Book and pay right here; **price is per group**, not per person. The exact meeting point is confirmed on booking.
-
-## Who it's for
-
-- If you want a different, lesser-known angle on Madrid's history.
-- If you prefer a tailored visit, no large groups, at your own pace.
-- If you're after an affordable private experience (price per group).

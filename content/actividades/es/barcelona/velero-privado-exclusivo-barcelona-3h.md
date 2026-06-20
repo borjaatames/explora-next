@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01
 imagenAlt: "Velero privado navegando frente a Barcelona"
 galeria:
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
-  alt: Velero privado navegando frente a Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
-  alt: Cubierta del velero privado en Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp
-  alt: Navegación privada por la costa de Barcelona
+  alt: Navegacion por la costa de Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un **velero en exclusiva** para tu grupo (hasta 11 personas), 3 horas navegando la costa de Barcelona en un yate Oceanis 41. Sin compartir con desconocidos: marcáis vuestro ritmo, podéis bañaros, echar una mano al patrón o simplemente relajaros con tapas y bebidas mientras la ciudad pasa de fondo.
-
-## Cómo funciona
-
-Es una experiencia **privada** (solo tu grupo), de **3 horas**, con patrón profesional, tapas y bebidas incluidas. El **precio es por grupo**, no por persona. Disponible en varios idiomas (español e inglés, entre otros). Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si viajáis en grupo o celebráis algo especial.
-- Si preferís privacidad y marcar vuestro propio ritmo.
-- Si queréis una experiencia en el mar a medida.

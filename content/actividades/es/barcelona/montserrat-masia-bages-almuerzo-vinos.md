@@ -99,8 +99,26 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "Masía catalana del siglo XII con viñedos en la comarca del Bages"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Mesa de almuerzo con maridaje de vinos en una bodega del Bages"
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
 
 ratingProveedor: 4.9
 numeroOpiniones: 1130
@@ -113,38 +131,3 @@ atraccionesRelacionadas:
 bokunProductId: 850193
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
-## Qué vas a ver
-
-Variante premium gastronómica de Barcelona Local Experiences. La excursión combina Montserrat con una experiencia de bodega curada por sommelier en una masía catalana del siglo XII en la comarca del Bages.
-
-- **Monasterio de Montserrat (3 horas):** visita al complejo + tiempo libre.
-- **Tren cremallera (bajada):** descenso histórico desde el monasterio al valle.
-- **Masía del siglo XII en Bages (3 horas):** bodega familiar con viñedos propios. Paseo, explicación, cata.
-- **Almuerzo de 3 platos con maridaje:** menú elaborado y vinos seleccionados por un sommelier para acompañar plato a plato.
-
-## Cómo funciona
-
-Encuentro en la **Estació de França** (Av. del Marquès de l'Argentera, 6). El guía estará identificado con paraguas rojo burdeos. Salida a las **8:30**.
-
-Trayecto a Montserrat: 1 hora. **3 horas en el monasterio**: visita guiada + tiempo libre suficiente para explorar a fondo. **Bajada en tren cremallera** al valle (12 minutos). Trayecto en autobús hasta la **masía del Bages**.
-
-En la masía: **paseo guiado por los viñedos + visita a la bodega + cata de vinos + almuerzo de 3 platos con maridaje curado por sommelier**. Tiempo en la masía: aproximadamente 3 horas.
-
-Vuelta a Barcelona. Duración total: 9 horas.
-
-## A quién se lo recomiendo
-
-- Si la enología y la gastronomía son tu motivo principal para hacer Montserrat.
-- Si valoras una experiencia de bodega curada (sommelier, maridaje plato a plato) por encima de la cata estándar.
-- Si vas en pareja o grupo de amigos adultos con presupuesto para gama alta.
-- Si quieres bajar en tren cremallera (experiencia distinta a subir).
-
-## A quién NO se lo recomiendo
-
-- Si tu objetivo es solo "ver Montserrat" — el precio (109 €) no se justifica si la gastronomía no es prioritaria. Mira [opciones de medio día](/ciudades/barcelona/actividades/montserrat-basilica-y-traslados).
-- Si quieres tour privado o íntimo. Aquí pueden ser hasta 22 personas. Mira [el tour privado de In Out](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel).
-- Si vas con niños pequeños. La experiencia gastronómica premium se desperdicia y los niños se aburren en una bodega.
-- Si quieres tocar la Moreneta — NO está incluida.

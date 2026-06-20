@@ -97,12 +97,26 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-bu
 imagenAlt: "Park Güell de Barcelona, mosaicos en la terraza principal"
 
 galeria:
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
+  alt: Park Guell de Gaudi, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 3)
+  alt: Park Guell de Gaudi, Barcelona
 
 ratingProveedor: 4.3
 numeroOpiniones: 318
@@ -115,38 +129,3 @@ atraccionesRelacionadas:
 - park-guell
 bokunProductId: 819658
 ---
-
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
-## Qué vas a ver
-
-Tour guiado bilingüe (ES + EN) en grupo reducido por la zona monumental del Park Güell, operado por Amigo Tours. Duración 40-75 minutos según la opción y el ritmo del grupo.
-
-- **El Drac y escalinata principal:** la salamandra de mosaico icónica del parque.
-- **Sala Hipóstila:** las 86 columnas dóricas con explicación del proyecto original.
-- **Banco serpentino y terraza:** vistas panorámicas con el banco corrido decorado en trencadís.
-- **Pabellones de la entrada:** las dos torres modernistas con detalles de mosaico.
-
-## Cómo funciona
-
-**Punto de encuentro:** entrada del Park Güell, confirmado por email. El guía espera con cartel de Amigo Tours. Metro Vallcarca o Lesseps (línea 3) + 10-15 min cuesta arriba.
-
-**Llega 15 minutos antes** — el grupo entra sin ti si te retrasas. Las reseñas mencionan retrasos puntuales del operador en el inicio; revisa el email la noche anterior.
-
-**Tour bilingüe simultáneo ES + EN** — el guía explica en los dos idiomas a la vez. Si prefieres tour monolingüe en tu idioma, mira las opciones de Gaudí Fast-Track o el tour clásico de 1,5-2 h.
-
-**Grupo reducido** — más pequeño que los 20-25 habituales, pero el operador no fija un máximo público.
-
-## A quién se lo recomiendo
-
-- A grupos mixtos español + inglés que quieran un solo tour.
-- A quien valore formato pequeño + precio competitivo (24 €).
-- A viajeros que ya hayan reservado con Amigo Tours en otras ciudades y quieran continuidad.
-- A quien busque alternativa entre las opciones de tours guiados sin pagar el premium del top product.
-
-## A quién NO se lo recomiendo
-
-- A monolingües que quieran toda la explicación en su idioma sin reparto.
-- A quien necesite grupo CERRADAMENTE pequeño garantizado (mira opciones privadas).
-- A quien busque máxima fiabilidad operativa: t663776 (4,7/5 con 5.637 reseñas) es más seguro.
-- A quien viaje con poco tiempo y necesite el formato más corto: las versiones de 55-60 min existen.

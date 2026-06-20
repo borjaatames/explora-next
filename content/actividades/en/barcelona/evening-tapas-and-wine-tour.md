@@ -44,28 +44,28 @@ keywords:
 imagen: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
 imagenAlt: Narrow street in Barcelona's Gothic Quarter at dusk
 galeria:
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
-  alt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp
-  alt: Catedral y arquitectura del Barrio Gótico de Barcelona
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-detailed-facade-cathedral-hero.webp
-  alt: Fachada histórica en el casco antiguo de Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
+  alt: La Boqueria market, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-An evening tapas route through Barcelona's **old town**. You stop at **four traditional bars and taverns** to try local tapas and wines, while the guide shares the story of each spot and the neighbourhood.
-
-## How it works
-
-A **small-group** tour (max 14 people), around **3 hours**, with a local guide. Tapas and the wines at each stop are included. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want a tapas dinner while discovering authentic spots.
-- If you prefer the evening to soak up the old town's atmosphere.
-- If you're after a small group and a relaxed pace.

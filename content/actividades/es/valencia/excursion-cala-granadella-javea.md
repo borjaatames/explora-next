@@ -45,27 +45,19 @@ imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
+  alt: Cala Granadella en Javea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
+  alt: Cala Granadella en Javea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
+  alt: Parque Natural de la Albufera, Valencia
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un día de playa en la **Cala Granadella**, en Jávea (Alicante), considerada una de las calas más bonitas de la Costa Blanca: agua turquesa, fondo de grava y un entorno protegido de pinares y acantilados, perfecto para el baño y el snorkel.
-
-## Cómo funciona
-
-Excursión de **día completo** desde Valencia, con transporte de ida y vuelta incluido. Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si quieres un día de playa en una de las mejores calas de la zona.
-- Si te gusta el snorkel y el agua cristalina.
-- Si prefieres ir sin coche y olvidarte del aparcamiento.

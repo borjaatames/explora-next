@@ -44,28 +44,28 @@ keywords:
 imagen: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
 imagenAlt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
 galeria:
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
-  alt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp
-  alt: Catedral y arquitectura del Barrio Gótico de Barcelona
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-detailed-facade-cathedral-hero.webp
-  alt: Fachada histórica en el casco antiguo de Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
+  alt: Mercado de la Boqueria, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una ruta de tapas al caer la noche por el **casco antiguo** de Barcelona. Paráis en **cuatro bares y tabernas** tradicionales para probar tapas y vinos locales, mientras el guía cuenta la historia de cada sitio y del barrio.
-
-## Cómo funciona
-
-Tour en **grupo reducido** (máximo 14 personas), de unas **3 horas**, con guía local. Incluye las tapas y los vinos de cada parada. Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si quieres cenar a base de tapas conociendo sitios auténticos.
-- Si prefieres la noche para descubrir el ambiente del casco antiguo.
-- Si buscas un grupo pequeño y un ritmo tranquilo.

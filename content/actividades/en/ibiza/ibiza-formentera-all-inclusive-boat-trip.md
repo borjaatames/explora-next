@@ -53,27 +53,19 @@ imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Boat off the turquoise waters of Formentera"
 galeria:
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-01.webp
-  alt: Boat off the turquoise waters of Formentera
+  alt: Turquoise beaches of Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-02.webp
-  alt: Crystal-clear Formentera waters from the boat
+  alt: Turquoise beaches of Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-03.webp
-  alt: Onboard atmosphere of the Ibiza-Formentera trip
+  alt: Turquoise beaches of Formentera
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-04.webp
+  alt: Turquoise beaches of Formentera
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-05.webp
+  alt: Turquoise beaches of Formentera
+- src: /images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp
+  alt: Es Vedra islet, Ibiza
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-An **all-inclusive boat trip** from Ibiza to Formentera. You sail to the turquoise waters of **Ses Illetes and Espalmador**, with swim stops, buffet breakfast onboard, **Ibizan paella**, open bar, water sports (paddle surf, snorkel, slide) and music throughout.
-
-## How it works
-
-There are **three versions** to choose when booking: **Essential** (morning, ~5 h), **Explorer** (~10 h, with free time in Formentera) and **Full Experience – Sunset Party** (~12 h, with a sunset party, live DJs and dinner onboard). Languages: Spanish and English (among others). Book and pay right here; free cancellation up to 1 day before.
-
-## Who it's for
-
-- If you want to see Formentera and swim in its best coves hassle-free.
-- If you're travelling as a group and want a full-day, all-inclusive plan.
-- If you're into a party vibe, with the Sunset Party option on the way back.

@@ -101,8 +101,26 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-m
 imagenAlt: "Private vehicle with guide at the Montserrat monastery complex"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Holy Cave of Montserrat with its rocky walls"
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Montserrat monastery and mountains
 
 ratingProveedor: 5.0
 numeroOpiniones: 658
@@ -115,38 +133,3 @@ atraccionesRelacionadas:
 bokunProductId: 674378
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Note:** this experience is conducted in English.
-
-## What you'll see
-
-This is the private option of the comparator: exclusive vehicle and guide only for your group, with flexible itinerary and hotel pickup. The difference vs shared options isn't so much in content (icons are the same) as in how the day feels — no outside groups, your pace, stops wherever you want.
-
-- **Pickup at your Barcelona hotel** with private vehicle.
-- **Montserrat (Rocky Massif):** declared Natural Park in 1987. Gentle 30-minute walk for one of the park's most impressive views.
-- **Basilica of Montserrat:** access to the 12th-century Benedictine monastery where the Moreneta resides.
-- **Sant Jeroni (summit):** if the funicular is operational, ride to the top of the sacred mountain for panoramic views.
-- **Holy Cave of Montserrat:** optional 30-minute hike to access the grotto where the Virgin is said to have appeared. Views of the San Miguel Cross.
-
-## How it works
-
-**The day before** you receive message with exact pickup time and guide data.
-
-**On tour day:** the guide picks you up at your hotel with private vehicle. Journey to Montserrat with explanation along the way about Catalan history and the Santiago de Compostela pilgrimage. The route is completely flexible based on your interests: if you're more interested in nature, more time at the park; if more in cultural, deeper monastery focus.
-
-Standard stops are monastery + basilica + Sant Jeroni + Holy Cave. Total: 5 hours (longer if you want). Return to hotel.
-
-## Who I'd recommend it to
-
-- If traveling as couple or family and value exclusivity over price.
-- If your plan is anniversary getaway, honeymoon or special celebration.
-- If traveling with young children where flexible pace matters.
-- If you want to stop for photos without group pressure.
-- If you need a guide in languages other than Spanish/English (other languages on request).
-
-## Who I would NOT recommend it to
-
-- If traveling solo or as a couple of 2 on tight budget. The price math works better with [shared group of 8](/en/cities/barcelona/activities/montserrat-small-group-hotel-pickup).
-- If you want winery and oenology — this variant doesn't include it. See [options with winery](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine).
-- If your plan is "quick and cheap" — private isn't the format.
-- If the extra charge for the Moreneta or the funicular bothers you (not included in base price).

@@ -53,27 +53,19 @@ imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Barco frente a las aguas turquesa de Formentera"
 galeria:
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-01.webp
-  alt: Barco frente a las aguas turquesa de Formentera
+  alt: Playas turquesas de Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-02.webp
-  alt: Aguas cristalinas de Formentera desde el barco
+  alt: Playas turquesas de Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-03.webp
-  alt: Ambiente a bordo de la excursión Ibiza-Formentera
+  alt: Playas turquesas de Formentera
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-04.webp
+  alt: Playas turquesas de Formentera
+- src: /images/actividades/ibiza/formentera/ibiza-formentera-05.webp
+  alt: Playas turquesas de Formentera
+- src: /images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp
+  alt: Islote de Es Vedra, Ibiza
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una **excursión en barco todo incluido** de Ibiza a Formentera. Navegas hacia las aguas turquesa de **Ses Illetes y Espalmador**, con paradas para bañarte, desayuno buffet a bordo, **paella ibicenca**, barra libre, deportes acuáticos (paddle surf, snorkel, tobogán) y música durante toda la travesía.
-
-## Cómo funciona
-
-Hay **tres versiones** a elegir al reservar: **Essential** (mañana, ~5 h), **Explorer** (~10 h, con tiempo libre en Formentera) y **Full Experience – Sunset Party** (~12 h, con fiesta al atardecer, DJs y cena a bordo). Idiomas: español e inglés (entre otros). Reserva y pago aquí mismo; cancelación gratuita hasta 1 día antes.
-
-## A quién se lo recomiendo
-
-- Si quieres ver Formentera y bañarte en sus mejores calas sin complicarte.
-- Si viajas en grupo y buscas un plan de día completo con todo incluido.
-- Si te va el ambiente de fiesta, con la opción Sunset Party de vuelta.

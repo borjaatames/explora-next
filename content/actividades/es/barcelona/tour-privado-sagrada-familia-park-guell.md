@@ -46,27 +46,27 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
 imagenAlt: La Sagrada Família de Barcelona, obra de Gaudí
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: La Sagrada Família de Barcelona, obra de Gaudí
-- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
-  alt: Terraza y mosaicos del Park Güell de Gaudí
+  alt: Basilica de la Sagrada Familia, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Interior de columnas de la Sagrada Família
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
+  alt: Basilica de la Sagrada Familia, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Las dos obras maestras de Gaudí en un solo recorrido **privado**: la **Sagrada Família** y el **Park Güell**, con entradas sin colas y un guía solo para tu grupo. El tour incluye **recogida en el hotel** y traslado privado entre ambos lugares.
-
-## Cómo funciona
-
-Es un **tour privado** (solo tu grupo), de **medio día** (unas 5 horas), con guía en exclusiva. El **precio es por grupo**, no por persona, e incluye entradas y transporte. Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si quieres ver lo esencial de Gaudí sin colas y sin organizar nada.
-- Si viajas en familia o grupo y prefieres comodidad y ritmo propio.
-- Si valoras un guía en exclusiva y la recogida en el hotel.

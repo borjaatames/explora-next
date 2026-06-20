@@ -49,27 +49,27 @@ imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.we
 imagenAlt: "Lancha rápida en el Port Vell de Barcelona"
 galeria:
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
-  alt: Lancha rápida en el Port Vell de Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
-  alt: Paseo en lancha rápida por la costa de Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
-  alt: Vistas de Barcelona desde la lancha rápida
+  alt: Navegacion por la costa de Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un paseo de **1 hora en lancha rápida** desde el Port Vell. Primero, 25 minutos recorriendo el puerto entre superyates y las bases de los equipos de la **America's Cup**; después, 25 minutos a velocidad por la costa, viendo Barcelona desde el mar. Con suerte, hasta delfines o peces luna.
-
-## Cómo funciona
-
-Experiencia de **1 hora**, hasta 8 plazas, con patrón profesional y bebidas a bordo. Edad mínima 12 años; dificultad intermedia (puedes mojarte con el agua). Disponible en varios idiomas (español e inglés, entre otros). Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si buscas algo de adrenalina y velocidad.
-- Si te interesan los superyates y la America's Cup.
-- Si tienes poco tiempo y quieres una experiencia intensa y corta.

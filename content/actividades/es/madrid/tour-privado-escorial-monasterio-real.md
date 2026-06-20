@@ -62,30 +62,27 @@ keywords:
 imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
 imagenAlt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 galeria:
-- src: /images/actividades/madrid/escorial/escorial-tour-01.webp
-  alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
-- src: /images/actividades/madrid/escorial/escorial-tour-02.webp
-  alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-2-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-3-hero.webp
+  alt: Real Monasterio de San Lorenzo de El Escorial
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una excursión **privada de día completo** desde Madrid, solo para tu grupo, dedicada al legado real de España. El recorrido pasa por hitos como el **Panteón de España**, la Real Basílica de San Miguel, la **Catedral de la Almudena**, el **Palacio Real de Madrid** y los jardines del Palacio de la Zarzuela, antes de salir a la sierra para visitar el **Real Monasterio de San Lorenzo de El Escorial**, el gran complejo de los Austrias.
-
-## Cómo funciona
-
-Es un **tour privado** (solo tu grupo) de unas **10 horas**, en **español e inglés**, con **transporte privado, entradas y guía incluidos**. El guía te recoge en tu alojamiento. Reserva y pago aquí mismo; **precio por grupo**, no por persona. **No incluye el almuerzo.**
-
-## A quién se lo recomiendo
-
-- Si quieres ver El Escorial con comodidad total, sin organizar transporte ni entradas.
-- Si viajáis en grupo o familia y buscáis una jornada a medida y exclusiva.
-- Si te interesa la historia de los Austrias, de la que El Escorial es el gran símbolo.
-
-## A quién NO se lo recomiendo
-
-- Si buscas una opción económica: es una experiencia premium por grupo.
-- Si la movilidad es un problema: hay recorridos a pie con escalones y no es accesible en silla de ruedas.

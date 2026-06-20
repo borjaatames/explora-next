@@ -40,8 +40,24 @@ imagen: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixaba
 imagenAlt: "Pueblo medieval de piedra del Empordà cerca de Girona"
 
 galeria:
-  - src: "/images/actividades/girona/ciudades/girona-hero.webp"
-    alt: "Pueblo medieval de piedra del Empordà cerca de Girona"
+- src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
+  alt: Costa Brava, Girona
+- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
+  alt: Costa Brava, Girona
+- src: /images/actividades/girona/ciudades/girona-hero.webp
+  alt: Casco medieval de Girona
+- src: /images/actividades/girona/call/call-girona-hero.webp
+  alt: Call jueu (juderia) de Girona
+- src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
+  alt: Casas de colores del rio Onar, Girona
+- src: /images/actividades/girona/muralla/muralla-girona-hero.webp
+  alt: Muralla medieval de Girona
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: Banos Arabes
+- src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
+  alt: Catedral Girona
+- src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp
+  alt: Dali Figueres
 ratingProveedor: 4.99
 numeroOpiniones: 228
 publicada: true
@@ -50,9 +66,3 @@ fecha: "2026-05-21"
 bokunProductId: 936816
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
-## Qué vas a ver
-
-Girona, la Costa Brava y los pueblos medievales del Empordà en una excursión de día con guía y transporte desde Barcelona. Paisaje, calas y patrimonio en una de las mejores escapadas de Cataluña.

@@ -60,28 +60,26 @@ imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.we
 imagenAlt: "Madrid's Gran Vía with its historic buildings and avenue traffic"
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: Madrid's Gran Vía with its historic buildings and avenue traffic
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Madrid's Gran Vía with its historic buildings and avenue traffic
+  alt: Gran Via avenue, Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Madrid's Gran Vía with its historic buildings and avenue traffic
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-city-street-ornate-white-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-pedestrians-cars-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-spanish-flags-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp
+  alt: Gran Via avenue, Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-city-street-filled-lots-tall-hero.webp
+  alt: Gran Via avenue, Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## What you'll see
-
-A walking tour of **Gran Vía**, Madrid's most famous avenue, in **private** format: the guide is yours alone. You start at the **Maqueta del Centenario**, next to Plaza de España, and finish at **Plaza de Callao**.
-
-Along the way, the story of how Gran Vía went from a medieval layout to a grand modern avenue, conceived as a showcase for new architecture, technology and ways of living in 20th-century Madrid: Beaux-Arts buildings, Art Deco skyscrapers and the cinemas that made it famous.
-
-## How it works
-
-It's a **private tour** (your group only), around **2 hours**, available in **Spanish and English**. Booking and payment happen right here; the **price is per group**, not per person. Cancellation is free up to the start of the activity.
-
-## Who it's for
-
-- If you prefer a tailored visit, no large groups, at your own pace.
-- If you're travelling as a couple, family or group of friends and want something exclusive.
-- If you're interested in Madrid's architecture and urban history told at a relaxed pace.

@@ -99,8 +99,26 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "12th-century Catalan farmhouse with vineyards in the Bages region"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Lunch table with wine pairing in a Bages winery"
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Montserrat monastery and mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Montserrat monastery and mountains
 
 ratingProveedor: 4.9
 numeroOpiniones: 1130
@@ -113,38 +131,3 @@ atraccionesRelacionadas:
 bokunProductId: 850193
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Note:** this experience is conducted in English.
-
-## What you'll see
-
-Barcelona Local Experiences' premium gastronomic variant. The excursion combines Montserrat with a sommelier-curated winery experience at a 12th-century Catalan farmhouse in the Bages region.
-
-- **Monastery of Montserrat (3 hours):** complex visit + free time.
-- **Rack railway (descent):** historic descent from the monastery to the valley.
-- **12th-century farmhouse in Bages (3 hours):** family winery with own vineyards. Walk, explanation, tasting.
-- **3-course lunch with pairing:** menu prepared and wines selected by sommelier to accompany dish by dish.
-
-## How it works
-
-Meet at **Estació de França** (Av. del Marquès de l'Argentera, 6). The guide will be identified with a burgundy red umbrella. Departure at **8:30**.
-
-Journey to Montserrat: 1 hour. **3 hours at the monastery**: guided tour + sufficient free time to explore in depth. **Descent by rack railway** to the valley (12 minutes). Coach journey to the **Bages farmhouse**.
-
-At the farmhouse: **guided vineyard walk + winery visit + wine tasting + 3-course lunch with sommelier-curated pairing**. Time at the farmhouse: approximately 3 hours.
-
-Return to Barcelona. Total: 9 hours.
-
-## Who I'd recommend it to
-
-- If oenology and gastronomy are your main reason for doing Montserrat.
-- If you value a curated winery experience (sommelier, dish-by-dish pairing) over standard tasting.
-- If you're traveling as a couple or with adult friends with high-end budget.
-- If you want to descend on the rack railway (different experience than climbing).
-
-## Who I would NOT recommend it to
-
-- If your goal is just "see Montserrat" — the price (€109) isn't justified if gastronomy isn't your priority. See [half-day options](/en/cities/barcelona/activities/montserrat-basilica-and-transfers).
-- If you want a private or intimate tour. Here it can be up to 22 people. See [In Out private tour](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup).
-- If traveling with young children. The premium gastronomic experience is wasted and children get bored in a winery.
-- If you want to touch the Moreneta — NOT included.

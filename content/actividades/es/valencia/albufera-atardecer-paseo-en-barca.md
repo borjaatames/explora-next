@@ -44,24 +44,20 @@ keywords:
 imagen: "/images/actividades/valencia/albufera/albufera-atardecer-paseo-en-barca-hero.webp"
 imagenAlt: Atardecer sobre el lago de la Albufera de Valencia desde una barca
 galeria:
-- src: /images/actividades/valencia/albufera/albufera-atardecer-paseo-en-barca-hero.webp
-  alt: Atardecer sobre el lago de la Albufera de Valencia desde una barca
+- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
+  alt: Parque Natural de la Albufera, Valencia
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
+  alt: Cala Granadella en Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
+  alt: Cala Granadella en Javea
 publicada: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una salida al atardecer al **Parque Natural de la Albufera**, junto a Valencia. El plato fuerte es el **paseo en barca tradicional** por el lago justo cuando se pone el sol, con el cielo encendido sobre el agua y los arrozales que rodean la laguna.
-
-## Cómo funciona
-
-Excursión de **medio día** desde Valencia, con transporte de ida y vuelta y el paseo en barca incluidos. Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si buscas un plan tranquilo y fotogénico al final del día.
-- Si quieres ver la Albufera, uno de los grandes iconos naturales de Valencia.
-- Si te apetece un paseo en barca al atardecer.

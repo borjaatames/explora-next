@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/velero-privado-barcelona-01.w
 imagenAlt: "Private sailboat off the Barcelona coast"
 galeria:
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
-  alt: Private sailboat off the Barcelona coast
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
-  alt: Time for a swim from the sailboat in Barcelona
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
-  alt: Views of Barcelona from the private sailboat
+  alt: Sailing along the Barcelona coastline
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A **private 2-hour sail** for your group on a 12 m Oceanis 41 sailboat. You'll leave Marina Vela and cruise the Barcelona coast with a different view of the city, with time to **swim** in open water and drinks and snacks onboard.
-
-## How it works
-
-It's a **private** experience (your group only), **2 hours**, with a professional skipper, drinks and snacks included. The **price is per group**, not per person. Available in several languages (Spanish and English among them). Book and pay right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want private sailing without spending as much as the 3-hour trip.
-- If you're travelling as a couple or family and fancy a swim.
-- If you prefer privacy and your own pace.

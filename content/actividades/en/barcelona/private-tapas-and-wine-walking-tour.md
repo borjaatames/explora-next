@@ -44,28 +44,28 @@ keywords:
 imagen: "/images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp"
 imagenAlt: Barcelona's La Rambla with pedestrians at dusk
 galeria:
-- src: /images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp
-  alt: La Rambla de Barcelona con viandantes al atardecer
-- src: /images/actividades/barcelona/ramblas/las-ramblas-barcelona-desde-colon-panoramio-hero.webp
-  alt: Vista de La Rambla de Barcelona desde Colón
-- src: /images/actividades/barcelona/ramblas/las-ramblas-barcelona-foto-10619467-hero.webp
-  alt: Ambiente de La Rambla de Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
+  alt: La Boqueria market, Barcelona
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
+  alt: La Boqueria market, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A tapas and wine route through Barcelona in **private** format: the guide is yours alone. You stop at selected local bars and taverns to try tapas and wines, with the pace and stops tailored to you.
-
-## How it works
-
-It's a **private tour** (your group only), around **3 hours**, with a guide just for you. The **price is per group**, not per person, and includes the tastings. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you're travelling as a couple, family or group of friends and want something exclusive.
-- If you prefer to set your own pace and tailor the stops.
-- If you're after a tailor-made food experience.

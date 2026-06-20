@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/crucero-vela-barcelona-01.web
 imagenAlt: "Sailing yacht cruising off the Barcelona coast"
 galeria:
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
-  alt: Sailing yacht cruising off the Barcelona coast
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
-  alt: Small-group sailing cruise on the Barcelona sea
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp
-  alt: Views of Barcelona from the yacht
+  alt: Sailing along the Barcelona coastline
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A **2-hour small-group sail** on the Mediterranean off Barcelona, on an Oceanis 41 yacht. You'll cruise the coast enjoying a different view of the city, with food and drinks onboard and the option to take a dip.
-
-## How it works
-
-A **2-hour** experience with a professional skipper, food and drinks included. Two departure times to choose from when booking. Available in several languages (Spanish and English among them). Book and pay right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want to see Barcelona from the sea, hassle-free.
-- If you're travelling as a couple or family and want a relaxed plan.
-- If you fancy a swim in the Mediterranean.

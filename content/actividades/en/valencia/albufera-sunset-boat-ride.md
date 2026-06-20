@@ -44,24 +44,20 @@ keywords:
 imagen: "/images/actividades/valencia/albufera/albufera-atardecer-paseo-en-barca-hero.webp"
 imagenAlt: Sunset over Valencia's Albufera lake from a boat
 galeria:
-- src: /images/actividades/valencia/albufera/albufera-atardecer-paseo-en-barca-hero.webp
-  alt: Sunset over Valencia's Albufera lake from a boat
+- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
+  alt: Albufera Natural Park, Valencia
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
+  alt: Cala Granadella cove in Javea
 publicada: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A sunset outing to the **Albufera Natural Park**, next to Valencia. The highlight is the **traditional boat ride** across the lake just as the sun sets, with the sky glowing over the water and the rice fields surrounding the lagoon.
-
-## How it works
-
-A **half-day** trip from Valencia, with round-trip transport and the boat ride included. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want a calm, photogenic plan at the end of the day.
-- If you'd like to see the Albufera, one of Valencia's great natural icons.
-- If you fancy a boat ride at sunset.

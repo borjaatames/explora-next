@@ -45,28 +45,28 @@ keywords:
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp"
 imagenAlt: The Sagrada Família, the main stop on the Barcelona tour
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: La Sagrada Família, parada principal del tour por Barcelona
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp
-  alt: Catedral del Barrio Gótico de Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
-  alt: Vista del Park Güell sobre Barcelona
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-Barcelona's essentials in a day, in **private** format: the **Sagrada Família** and **Park Güell** (with skip-the-line tickets), the **Montjuïc** hill and the **Gothic Quarter**, with a guide just for your group and private transport throughout.
-
-## How it works
-
-It's a **private tour** (your group only), a **full day** (about 7 hours), with a guide just for you and hotel pickup. The **price is per group**, not per person, and includes tickets and transport. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you only have one day and want to see the essentials without stress.
-- If you prefer a private guide and no logistics to handle.
-- If you're travelling with family or a group and want comfort and your own pace.

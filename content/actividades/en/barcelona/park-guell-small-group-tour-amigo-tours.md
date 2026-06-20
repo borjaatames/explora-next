@@ -97,12 +97,26 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-bu
 imagenAlt: "Park Güell in Barcelona, mosaics on the main terrace"
 
 galeria:
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
+  alt: Gaudi Park Guell, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
+  alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 3)
+  alt: Gaudi Park Guell, Barcelona
 
 ratingProveedor: 4.3
 numeroOpiniones: 318
@@ -115,38 +129,3 @@ atraccionesRelacionadas:
 - park-guell
 bokunProductId: 819658
 ---
-
-> **Note:** this experience is conducted in English.
-
-## What you'll see
-
-Bilingual (ES + EN) guided tour in a small group through Park Güell's monumental zone, operated by Amigo Tours. Duration 40-75 minutes depending on option and group pace.
-
-- **El Drac and main staircase:** the iconic mosaic salamander of the park.
-- **Hypostyle Hall:** the 86 Doric columns with explanation of the original project.
-- **Serpentine bench and terrace:** panoramic views with the continuous bench decorated in trencadís.
-- **Entrance pavilions:** the two Modernista towers with mosaic details.
-
-## How it works
-
-**Meeting point:** Park Güell entrance, confirmed by email. The guide waits with an Amigo Tours sign. Metro Vallcarca or Lesseps (line 3) + 10-15 min uphill.
-
-**Arrive 15 minutes early** — the group enters without you if you're late. Reviews mention occasional operator delays at the start; check the email the night before.
-
-**Simultaneous bilingual tour ES + EN** — the guide explains in both languages at the same time. If you prefer a monolingual tour in your language, see the Gaudí Fast-Track or the classic 1.5-2 h tour options.
-
-**Small group** — smaller than the usual 20-25, but the operator doesn't fix a public maximum.
-
-## Who I'd recommend it to
-
-- Mixed Spanish + English groups wanting a single tour.
-- Anyone valuing the small format + competitive price (€24).
-- Travellers who've already booked with Amigo Tours in other cities and want continuity.
-- Anyone looking for an alternative among guided options without paying the top product premium.
-
-## Who I would NOT recommend it to
-
-- Monolinguals who want all explanation in their language without split.
-- Anyone needing a CLOSELY small group guaranteed (see private options).
-- Anyone after maximum operational reliability: t663776 (4.7/5 across 5,637 reviews) is safer.
-- Anyone with little time needing the shortest format: the 55-60 min versions exist.

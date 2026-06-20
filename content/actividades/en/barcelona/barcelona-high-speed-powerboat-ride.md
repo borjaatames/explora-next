@@ -49,27 +49,27 @@ imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.we
 imagenAlt: "High-speed powerboat in Barcelona's Port Vell"
 galeria:
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
-  alt: High-speed powerboat in Barcelona's Port Vell
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
-  alt: High-speed powerboat ride along the Barcelona coast
+  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
-  alt: Views of Barcelona from the powerboat
+  alt: Sailing along the Barcelona coastline
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Barceloneta beach and Barcelona seafront
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A **1-hour high-speed powerboat ride** from Port Vell. First, 25 minutes around the harbour among superyachts and the **America's Cup** team bases; then 25 minutes at speed along the coast, seeing Barcelona from the sea. With luck, even dolphins or sunfish.
-
-## How it works
-
-A **1-hour** experience, up to 8 seats, with a professional skipper and drinks onboard. Minimum age 12; intermediate difficulty (you may get wet). Available in several languages (Spanish and English among them). Book and pay right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you're after some adrenaline and speed.
-- If you're into superyachts and the America's Cup.
-- If you're short on time and want a short, intense experience.

@@ -45,27 +45,19 @@ imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
 galeria:
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+  alt: Cala Granadella cove in Javea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+  alt: Cala Granadella cove in Javea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
+  alt: Cala Granadella cove in Javea
+- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
+  alt: Albufera Natural Park, Valencia
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-A beach day at **Cala Granadella**, in Jávea (Alicante), regarded as one of the most beautiful coves on the Costa Blanca: turquoise water, a pebble seabed and a protected setting of pine woods and cliffs, perfect for swimming and snorkelling.
-
-## How it works
-
-A **full-day** trip from Valencia, with round-trip transport included. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want a beach day at one of the area's best coves.
-- If you enjoy snorkelling and crystal-clear water.
-- If you'd rather travel without a car and skip the parking.

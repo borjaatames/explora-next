@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/velero-privado-barcelona-01.w
 imagenAlt: "Velero privado en la costa de Barcelona"
 galeria:
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
-  alt: Velero privado en la costa de Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
-  alt: Tiempo para un baño desde el velero en Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
-  alt: Vistas de Barcelona desde el velero privado
+  alt: Navegacion por la costa de Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una **navegación privada de 2 horas** para tu grupo en un velero Oceanis 41 de 12 metros. Saldréis de Marina Vela y recorreréis la costa de Barcelona con una vista distinta de la ciudad, con tiempo para **darse un baño** en mar abierto y bebidas y aperitivos a bordo.
-
-## Cómo funciona
-
-Es una experiencia **privada** (solo tu grupo), de **2 horas**, con patrón profesional, bebidas y aperitivos incluidos. El **precio es por grupo**, no por persona. Disponible en varios idiomas (español e inglés, entre otros). Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si quieres velero privado sin gastar tanto como en el de 3 horas.
-- Si viajáis en pareja o familia y os apetece bañaros.
-- Si preferís privacidad y vuestro propio ritmo.

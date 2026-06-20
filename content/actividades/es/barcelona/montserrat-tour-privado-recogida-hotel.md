@@ -101,8 +101,26 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-m
 imagenAlt: "Vehículo privado con guía en el complejo del monasterio de Montserrat"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Cueva Santa de Montserrat con sus paredes rocosas"
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
 
 ratingProveedor: 5.0
 numeroOpiniones: 658
@@ -115,38 +133,3 @@ atraccionesRelacionadas:
 bokunProductId: 674378
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
-## Qué vas a ver
-
-Esta es la opción privada del comparador: vehículo y guía exclusivos solo para tu grupo, con itinerario flexible y recogida en hotel. La diferencia frente a las opciones compartidas no está tanto en el contenido (los iconos son los mismos) como en cómo se vive el día — sin grupos ajenos, a tu ritmo, parando donde quieras.
-
-- **Recogida en tu hotel** de Barcelona con vehículo privado.
-- **Monte de Montserrat (Macizo Rocoso):** declarado Parque Natural en 1987. Caminata suave de 30 minutos para una de las vistas más impresionantes del parque.
-- **Basílica de Montserrat:** acceso al monasterio benedictino del siglo XII donde se encuentra la Moreneta.
-- **Sant Jeroni (cima):** si el funicular está operativo, subida a la cima de la montaña sagrada para vistas panorámicas.
-- **Santa Cueva de Montserrat:** caminata opcional de 30 minutos para acceder a la gruta donde se dice que apareció la Virgen. Vistas a la Cruz de San Miguel.
-
-## Cómo funciona
-
-**El día antes** recibes mensaje con la hora exacta de recogida y los datos del guía.
-
-**El día del tour:** el guía te recoge en tu hotel con vehículo privado. Trayecto a Montserrat con explicación durante el camino sobre la historia catalana y la peregrinación de Santiago de Compostela. El recorrido es completamente flexible según tus intereses: si te interesa más la naturaleza, dedicas más tiempo al parque; si te interesa más lo cultural, profundizas en el monasterio.
-
-Las paradas estándar son monasterio + basílica + Sant Jeroni + Santa Cueva. Total: 5 horas (más larga si quieres). Vuelta al hotel.
-
-## A quién se lo recomiendo
-
-- Si vas en pareja o familia y valoras la exclusividad por encima del precio.
-- Si tu plan es escapada de aniversario, viaje de novios o celebración especial.
-- Si vas con niños pequeños donde el ritmo flexible es importante.
-- Si quieres parar a hacer fotos sin presión de grupo.
-- Si necesitas guía en idiomas distintos al español/inglés (otros idiomas bajo pedido).
-
-## A quién NO se lo recomiendo
-
-- Si vas solo o en grupo de 2 con presupuesto ajustado. El cálculo de precio sale mejor con [grupo compartido de 8](/ciudades/barcelona/actividades/montserrat-grupo-pequeno-recogida-hotel).
-- Si quieres bodega y enología — esta variante no la incluye. Mira [opciones con bodega](/ciudades/barcelona/actividades/montserrat-masia-bages-almuerzo-vinos).
-- Si tu plan es "rápido y barato" — el privado no es el formato.
-- Si te molesta el cobro extra por la Moreneta o el funicular (no están incluidos en el precio base).

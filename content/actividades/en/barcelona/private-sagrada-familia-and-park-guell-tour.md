@@ -46,27 +46,27 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
 imagenAlt: Barcelona's Sagrada Família, Gaudí's masterpiece
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: La Sagrada Família de Barcelona, obra de Gaudí
-- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
-  alt: Terraza y mosaicos del Park Güell de Gaudí
+  alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Interior de columnas de la Sagrada Família
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
+  alt: Sagrada Familia basilica, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## What you'll see
-
-Gaudí's two masterpieces in one **private** tour: the **Sagrada Família** and **Park Güell**, with skip-the-line tickets and a guide just for your group. The tour includes **hotel pickup** and private transfer between the two sites.
-
-## How it works
-
-It's a **private tour** (your group only), **half a day** (about 5 hours), with a guide just for you. The **price is per group**, not per person, and includes tickets and transport. Booking and payment happen right here; free cancellation up to 24 hours before.
-
-## Who it's for
-
-- If you want Gaudí's essentials skip-the-line and with nothing to organise.
-- If you're travelling with family or a group and prefer comfort and your own pace.
-- If you value a private guide and hotel pickup.

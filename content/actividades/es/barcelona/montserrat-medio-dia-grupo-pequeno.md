@@ -101,8 +101,26 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "Interior del monasterio benedictino de Montserrat"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Atrio del monasterio de Montserrat al amanecer"
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Monasterio y montanas de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
+  alt: Monasterio y montanas de Montserrat
 
 ratingProveedor: 4.9
 numeroOpiniones: 6372
@@ -115,38 +133,3 @@ atraccionesRelacionadas:
 bokunProductId: 866982
 fecha_actualizacion: '2026-06-18'
 ---
-
-> **Importante:** esta experiencia se realiza en inglés. Puede no estar disponible en español.
-
-## Qué vas a ver
-
-Esta variante es modular: el "esqueleto" del tour es siempre el mismo (autobús + monasterio + tiempo libre), y luego eliges los extras que más te interesen. Lo que distingue al operador es el acceso anticipado al monasterio antes de que lleguen los grupos masivos.
-
-- **Monasterio de Montserrat (visita guiada de 45 minutos):** atrio, basílica y los puntos icónicos del complejo. Acceso temprano (sobre 9:30) antes de las multitudes.
-- **2 horas de tiempo libre:** para subir al funicular (extra), visitar el museo, comer algo o pasear por el mercado.
-- **Extras opcionales según la opción reservada:**
-  - **Moreneta** (entrada al camarín de la Virgen Negra): +5 € aprox.
-  - **Coro de Niños (Escolanía):** asistencia a la actuación de las 13:00 (solo lunes-viernes, periodo escolar).
-  - **Bodega + almuerzo:** día completo (9 h) con masía del Bages, cata de vinos y almuerzo de 3 platos.
-
-## Cómo funciona
-
-Encuentro en la **Estació de França** (Av. del Marquès de l'Argentera, 6). El guía estará con un paraguas rojo burdeos como punto de identificación. Llega 10 minutos antes — el bus sale en hora.
-
-Trayecto de 1 hora a Montserrat. Al llegar, **visita guiada de 45 minutos** y entrada a la basílica (si tu opción la incluye). Después, **2 horas de tiempo libre** para los extras que hayas reservado o para explorar a tu ritmo.
-
-Vuelta a Barcelona en 1 hora. Duración total: 5 h 15 min para la opción básica; 9 horas para la opción con bodega y almuerzo.
-
-## A quién se lo recomiendo
-
-- Si valoras llegar al monasterio antes que las multitudes (el acceso anticipado es real).
-- Si quieres flexibilidad para elegir extras según tu interés (Moreneta, Escolanía, bodega).
-- Si tu reserva la haces a través de Viator y prefieres un operador con 6.300+ reseñas verificadas.
-- Si vas con familia que quiere ver al coro de niños (la opción Escolanía está pensada para eso).
-
-## A quién NO se lo recomiendo
-
-- Si esperas el tren cremallera icónico — no está incluido. Mira [Julia Travel con cremallera](/ciudades/barcelona/actividades/montserrat-cremallera-virgen-negra).
-- Si quieres formato muy íntimo (4-8 personas). Aquí pueden ser 22. Mira [grupo de 8 de UNIque Tours](/ciudades/barcelona/actividades/montserrat-funicular-caminata-panoramica).
-- Si quieres pago todo incluido sin extras opcionales — el modelo modular del operador tiene precios distintos según lo que elijas.
-- Si te molesta el cobro extra por la Moreneta (vas a sentir que «debería estar incluida»).

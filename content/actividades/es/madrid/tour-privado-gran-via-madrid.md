@@ -60,28 +60,26 @@ imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.we
 imagenAlt: "La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida"
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
+  alt: Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-city-street-ornate-white-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-pedestrians-cars-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-spanish-flags-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp
+  alt: Gran Via de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-city-street-filled-lots-tall-hero.webp
+  alt: Gran Via de Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Un recorrido a pie por la **Gran Vía**, la avenida más famosa de Madrid, en formato **privado**: el guía es solo para tu grupo. Empezáis en la **Maqueta del Centenario**, junto a Plaza de España, y terminás en **Plaza de Callao**.
-
-Por el camino, la historia de cómo la Gran Vía pasó de un trazado medieval a una gran avenida moderna, concebida como escaparate de la nueva arquitectura, la tecnología y las formas de vida del Madrid del siglo XX: edificios Beaux-Arts, rascacielos Art Déco y los cines que la hicieron famosa.
-
-## Cómo funciona
-
-Es un **tour privado** (solo tu grupo), de unas **2 horas**, disponible en **español e inglés**. La reserva y el pago se hacen aquí mismo; el **precio es por grupo**, no por persona. La cancelación es gratuita hasta el inicio de la actividad.
-
-## A quién se lo recomiendo
-
-- Si prefieres una visita a medida, sin grupos grandes, marcando tu ritmo.
-- Si viajas en pareja, familia o grupo de amigos y buscáis algo exclusivo.
-- Si te interesa la arquitectura y la historia urbana de Madrid contadas con calma.

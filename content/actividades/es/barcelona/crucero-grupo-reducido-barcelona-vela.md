@@ -50,27 +50,27 @@ imagen: "/images/actividades/barcelona/watersports/crucero-vela-barcelona-01.web
 imagenAlt: "Velero navegando frente a la costa de Barcelona"
 galeria:
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
-  alt: Velero navegando frente a la costa de Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
-  alt: Crucero en grupo reducido por el mar de Barcelona
+  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp
-  alt: Vistas de Barcelona desde el velero
+  alt: Navegacion por la costa de Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: Litoral y playa de la Barceloneta, Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'
 ---
-
-## Qué vas a ver
-
-Una **navegación de 2 horas** en **grupo reducido** por el Mediterráneo frente a Barcelona, en un yate Oceanis 41. Recorrerás la costa disfrutando de una vista distinta de la ciudad, con comida y bebidas a bordo y la opción de darte un chapuzón.
-
-## Cómo funciona
-
-Experiencia de **2 horas** con patrón profesional, comida y bebidas incluidas. Hay dos horarios de salida a elegir al reservar. Disponible en varios idiomas (español e inglés, entre otros). Reserva y pago aquí mismo; cancelación gratuita hasta 24 horas antes.
-
-## A quién se lo recomiendo
-
-- Si quieres ver Barcelona desde el mar sin agobios.
-- Si viajas en pareja o familia y buscas un plan relajado.
-- Si te apetece bañarte en el Mediterráneo.
