@@ -40,6 +40,10 @@ type Props = {
   moneda?: string;
   /** true → "por grupo" (experiencias privadas); false → "por persona". */
   porGrupo?: boolean;
+  /** Nota media del proveedor (frontmatter `ratingProveedor`). */
+  ratingProveedor?: number;
+  /** Nº de opiniones (frontmatter `numeroOpiniones`). */
+  numeroOpiniones?: number;
 };
 
 type BokunGlobal = {
@@ -72,6 +76,8 @@ export default function BokunWidget({
   precioDesde,
   moneda,
   porGrupo,
+  ratingProveedor,
+  numeroOpiniones,
 }: Props) {
   const channelUuid = process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID;
   const contenedorRef = useRef<HTMLDivElement>(null);
@@ -113,6 +119,24 @@ export default function BokunWidget({
   // página: español en fichas ES, inglés en fichas EN.
   const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
 
+  const localeNota = idioma === "es" ? "es-ES" : "en-GB";
+  const tieneRating =
+    typeof ratingProveedor === "number" &&
+    typeof numeroOpiniones === "number" &&
+    numeroOpiniones > 0;
+  const ratingValor = (ratingProveedor ?? 0).toLocaleString(localeNota, {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  });
+  const ratingOpiniones =
+    numeroOpiniones === 1
+      ? idioma === "es"
+        ? "1 opinión"
+        : "1 review"
+      : `${(numeroOpiniones ?? 0).toLocaleString(localeNota)} ${
+          idioma === "es" ? "opiniones" : "reviews"
+        }`;
+
   return (
     <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
       <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
@@ -145,6 +169,20 @@ export default function BokunWidget({
                 ? "por persona"
                 : "per person"}
           </p>
+          {tieneRating && (
+            <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-amber-50 px-2.5 py-1.5 text-sm">
+              <span className="inline-flex items-center gap-1 font-semibold text-slate-900">
+                <span aria-hidden="true" className="text-amber-500 text-base leading-none">
+                  ★
+                </span>
+                <span>{ratingValor}</span>
+              </span>
+              <span aria-hidden="true" className="text-slate-300">
+                ·
+              </span>
+              <span className="text-slate-700">{ratingOpiniones}</span>
+            </div>
+          )}
         </div>
       )}
 

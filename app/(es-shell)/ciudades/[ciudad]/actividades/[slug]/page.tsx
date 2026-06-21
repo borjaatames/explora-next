@@ -453,6 +453,8 @@ export default async function ActividadPage({ params }: Props) {
                   precioDesde={actividad.precioDesde}
                   moneda={actividad.moneda}
                   porGrupo={actividad.categoria === "experienciasPrivadas"}
+                  ratingProveedor={actividad.ratingProveedor}
+                  numeroOpiniones={actividad.numeroOpiniones}
                 />
               ) : (
               <CalendarioReserva
@@ -495,6 +497,8 @@ export default async function ActividadPage({ params }: Props) {
             precioDesde={actividad.precioDesde}
             moneda={actividad.moneda}
             porGrupo={actividad.categoria === "experienciasPrivadas"}
+            ratingProveedor={actividad.ratingProveedor}
+            numeroOpiniones={actividad.numeroOpiniones}
           />
         </div>
       )}
