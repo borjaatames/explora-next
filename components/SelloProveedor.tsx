@@ -1,24 +1,16 @@
-import Image from "next/image";
-import { nombreProveedor, type ProveedorActividad } from "@/lib/afiliados";
+import type { ProveedorActividad } from "@/lib/afiliados";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
- * Sello "Ofrecida por {proveedor}" con el logo oficial.
+ * Sello de confianza "Pago seguro" con icono de candado.
  *
- * Da continuidad de marca y transparencia: el cliente sabe en qué
- * plataforma (Viator / GetYourGuide) completará y pagará la reserva antes
- * de pulsar. Server Component puro (sin JS al cliente).
+ * Unificado para todos los proveedores (Bokun, Viator, GetYourGuide): se
+ * muestra siempre el mismo distintivo "Pago seguro", sin logos externos ni
+ * el texto "Reserva directa". Server Component puro (sin JS al cliente).
  *
- * Logos en /public/logos (SVG). Se sirven sin optimizar (un SVG no se
- * optimiza) y con width/height explícitos para no provocar layout shift.
+ * Se mantiene la prop `proveedor` por compatibilidad con los puntos de
+ * llamada, aunque ya no afecta al render.
  */
-
-type LogoInfo = { src: string; width: number; height: number };
-
-const LOGOS: Partial<Record<ProveedorActividad, LogoInfo>> = {
-  viator: { src: "/logos/viator.svg", width: 72, height: 18 },
-  getyourguide: { src: "/logos/getyourguide.svg", width: 47, height: 40 },
-};
 
 type Props = {
   proveedor: ProveedorActividad;
@@ -27,60 +19,31 @@ type Props = {
   className?: string;
 };
 
-export default function SelloProveedor({ proveedor, idioma, className }: Props) {
-  // Bokun = reserva directa en ExploraSpain (pago seguro con Stripe), no es
-  // afiliación. En vez de un logo externo, mostramos un sello de confianza
-  // propio: la reserva y el pago se completan aquí mismo.
-  if (proveedor === "bokun") {
-    const texto =
-      idioma === "es"
-        ? "Reserva directa · Pago seguro"
-        : "Direct booking · Secure payment";
-    return (
-      <div
-        className={`inline-flex items-center gap-1.5 text-xs font-medium text-slate-600 ${
-          className ?? ""
-        }`}
-      >
-        <svg
-          width="13"
-          height="13"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          aria-hidden="true"
-          className="text-sky-600"
-        >
-          <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
-          <path d="M7 11V7a5 5 0 0 1 10 0v4" />
-        </svg>
-        <span>{texto}</span>
-      </div>
-    );
-  }
-
-  const logo = LOGOS[proveedor];
-  if (!logo) return null;
-
-  const texto = idioma === "es" ? "Ofrecida por" : "Offered by";
-  const nombre = nombreProveedor(proveedor);
+export default function SelloProveedor({ idioma, className }: Props) {
+  const texto = idioma === "es" ? "Pago seguro" : "Secure payment";
 
   return (
     <div
-      className={`inline-flex items-center gap-2 ${className ?? ""}`}
+      className={`inline-flex items-center gap-1.5 text-xs font-medium text-slate-600 ${
+        className ?? ""
+      }`}
     >
-      <span className="text-xs text-slate-500">{texto}</span>
-      <Image
-        src={logo.src}
-        alt={nombre}
-        width={logo.width}
-        height={logo.height}
-        unoptimized
-        className="inline-block"
-      />
+      <svg
+        width="13"
+        height="13"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        aria-hidden="true"
+        className="text-sky-600"
+      >
+        <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
+        <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+      </svg>
+      <span>{texto}</span>
     </div>
   );
 }
