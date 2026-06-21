@@ -129,21 +129,21 @@ export default function BokunWidget({
           <p className="text-xs text-slate-500">
             {idioma === "es" ? "Desde" : "From"}
           </p>
-          <p className="text-3xl font-bold text-slate-900 mt-0.5">
+          <p className="text-4xl font-bold text-slate-900 mt-0.5">
             {new Intl.NumberFormat(idioma === "es" ? "es-ES" : "en-GB", {
               style: "currency",
               currency: moneda || "EUR",
               maximumFractionDigits: 0,
             }).format(precioDesde)}
-            <span className="ml-1.5 text-sm font-normal text-slate-500">
-              {porGrupo
-                ? idioma === "es"
-                  ? "por grupo"
-                  : "per group"
-                : idioma === "es"
-                  ? "por persona"
-                  : "per person"}
-            </span>
+          </p>
+          <p className="text-xs text-slate-500">
+            {porGrupo
+              ? idioma === "es"
+                ? "por grupo"
+                : "per group"
+              : idioma === "es"
+                ? "por persona"
+                : "per person"}
           </p>
         </div>
       )}

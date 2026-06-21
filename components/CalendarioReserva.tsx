@@ -297,7 +297,7 @@ export default function CalendarioReserva({
 
       <div className="p-5">
         <p className="text-xs text-slate-500">{textoDesde}</p>
-        <p className="text-3xl font-bold text-slate-900 mt-0.5">{precio}</p>
+        <p className="text-4xl font-bold text-slate-900 mt-0.5">{precio}</p>
         <p className="text-xs text-slate-500">{textoPorPersona}</p>
 
         {tieneRating && (
