@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Fachada de la Sagrada Família de Barcelona"
 comunidad: "Cataluña"
 imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagenResumenAlt: "Park Güell de Gaudí en Barcelona"
-imagen: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
-imagenAlt: "Vista panorámica de Barcelona desde Montjuïc, con la Plaza de España, la Fuente Mágica y la ciudad al fondo"
+imagen: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
+imagenAlt: "Plaza de España de Barcelona con las Torres Venecianas y el Palacio Nacional de Montjuïc al fondo"
 publicada: true
 destacada: true
 orden: 2
