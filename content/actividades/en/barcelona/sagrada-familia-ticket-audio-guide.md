@@ -19,7 +19,7 @@ urlReserva: https://www.getyourguide.com/barcelona-l45/sagrada-familia-ticket-de
 cancelacionGratuita: true
 horasCancelacion: 48
 highlights:
-- 'The most affordable option in the comparison: you enter at your own pace, with no group or guide schedule'
+- 'The most affordable option: you enter at your own pace, with no group or guide schedule'
 - Audio guide included in the price, available in 16 languages
 - Access to the basilica with a confirmed time slot, even when the official website is sold out
 - Free cancellation with a full refund up to 2 days before
@@ -61,7 +61,7 @@ informacionImportante:
 accesibilidad: The basilica is wheelchair accessible and entry is free for visitors with reduced mobility. Tower access is
   NOT accessible.
 politicaCancelacion: 'Free cancellation with a full refund if you cancel 2 days (48 hours) in advance. Note: the window is
-  48 hours, not 24 as on other options in the comparison.'
+  48 hours, not 24 as on other options.'
 preguntasFrecuentes:
 - pregunta: Is the audio guide included or an extra?
   respuesta: It is included in the price (€34), not a separate charge. It works as an app you download on your own smartphone
@@ -69,11 +69,11 @@ preguntasFrecuentes:
     in 16 languages and only for visitors over 11.
 - pregunta: Does this ticket include going up the towers?
   respuesta: No. Going up a tower — Nativity or Passion — is an optional extra selected and paid for at booking; it is not
-    in the base price. If you want to go up, select it when booking or check the «with tower» options in the comparison.
+    in the base price. If you want to go up, select it when booking or check the «with tower» options.
 - pregunta: How is this different from a guided tour?
   respuesta: 'There is no in-person guide here: you enter at your own pace and the audio guide explains as you go. It is the
     most affordable and flexible option. If you prefer an official guide telling you the symbolism live, check the guided
-    tours in the comparison.'
+    tours.'
 - pregunta: How far in advance should I book?
   respuesta: 'As early as possible. The Sagrada Familia runs on limited-capacity time slots and is only sold online. In 2026,
     with the Gaudí Year, demand is exceptional and slots sell out weeks ahead: book 4-8 weeks in advance, more if you go on
@@ -174,9 +174,9 @@ Entry is **nominative**: bring your ID. The Sagrada Familia is an active church 
 
 ## Who I would NOT recommend it to
 
-- If you want an official guide explaining the symbolism live: this option is self-guided. For that, see the guided tours in the comparison.
+- If you want an official guide explaining the symbolism live: this option is self-guided. For that, see the guided tours.
 - If you want to go up a tower: here it's a separate paid extra. Check the «with tower» options.
 - If you travel without a smartphone or tend to run out of battery: the audio guide depends on your phone; without it, you have no narration.
 - If you need to be able to cancel with less than 48 hours' notice: the window here is 2 days, not 24 hours.
 
-Before booking, I'd recommend reading our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit): it explains which tower to climb, the dress code and the typical mistakes.
+Before booking, I'd recommend reading our

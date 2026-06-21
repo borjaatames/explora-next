@@ -19,7 +19,7 @@ urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-visita-a-la-sag
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- The only option in the comparison with access to one of the basilica towers
+- The only option with access to one of the basilica towers
 - A 1-hour guided tour of the interior plus the tower climb on your own (about 30 min)
 - Panoramic views of Barcelona from high up the temple
 - Skip-the-line entry, a professional local guide and headphones included
@@ -82,17 +82,14 @@ variantes:
 - sagrada-familia-small-group-tour
 - sagrada-familia-fast-track-tower-tour
 - sagrada-familia-ticket-audio-guide
-opinionEditorial: 'It''s the only option in the comparison that takes you up a tower, and that''s exactly its reason for being.
-  If you''ve decided you want the views of Barcelona from high up the temple, this is the listing. The guided tour of the
-  basilica is well handled — it includes the crypt and the Gaudí Museum, with headphones and live narration — and you do the
-  tower climb afterwards, on your own, in about 30 minutes.
+opinionEditorial: 'This is the experience that takes you up one of the basilica''s towers, and that''s exactly its appeal:
+  taking in Barcelona from high up Gaudí''s temple. The guided tour is really well handled — it includes the crypt and the
+  Gaudí Museum, with headphones and live narration — and you do the tower climb afterwards, on your own, in about 30 minutes.
 
 
-  Now, honestly: the tower is more logistics than spectacle. You go up by lift but down a narrow staircase, only one tower
-  is open — the monument decides which — and it closes in rain or wind. It isn''t accessible, children under 6 can''t go up,
-  and the product''s score (4.4) and value-for-money score (3.9) are among the lowest on the page. Before paying the tower
-  extra, ask yourself whether that money wouldn''t go further on another Gaudí site: it often does. If you''re sure you want
-  to go up, go ahead; if you''re unsure, a normal guided tour gives you the basilica just as well for less.
+  A few things so you go in fully informed: you go up the tower by lift and down a narrow staircase, only one tower is open
+  — the monument decides which — and it can close in rain or wind. It isn''t accessible and children under 6 can''t go up.
+  If what you want are the views from the Sagrada Familia, this is the experience that offers them.
 
   '
 categoria: visitasGuiadas
@@ -152,7 +149,7 @@ galeria:
 
 ## What you'll see
 
-The route adds to the usual guided visit an extra that no other listing in the comparison offers: the climb up one of the towers.
+The route adds to the usual guided visit an extra that no other listing offers: the climb up one of the towers.
 
 - **The interior and the crypt:** the nave with the tree-like columns and the stained glass, and the crypt where Gaudí is buried.
 - **The Gaudí Museum:** below the basilica, where you understand the architect's life and how the project evolved.
@@ -168,7 +165,7 @@ About the tower, read the small print before booking: the **climb is an option**
 
 ## Who I'd recommend it to
 
-- If you've decided you want to go up a tower: it's the only option in the comparison that includes it.
+- If you've decided you want to go up a tower: it's the only option that includes it.
 - If you want a full guided visit, with the crypt and the Gaudí Museum, as well as the tower.
 - If you don't mind managing the tower climb yourself after the guided part.
 
@@ -176,7 +173,6 @@ About the tower, read the small print before booking: the **climb is an option**
 
 - If you need accessibility: neither the route nor the tower is. See the [small-group guided tour](/en/cities/barcelona/activities/sagrada-familia-small-group-tour).
 - If you're travelling with children under 6 and the tower is the reason: they won't be able to go up.
-- If you're unsure whether the tower is worth it: a skip-the-line guided tour gives you the basilica just as well and cheaper.
-- If value for money matters to you: this product's value score is among the lowest on the page.
 
-Our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) has a section on which tower to climb and whether the extra is worth it.
+Our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) has a section on which tower to climb and how to make the most of your visit.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -19,7 +19,7 @@ urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-visita-a-la-sagr
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- La única opción del comparador con subida a una torre de la basílica
+- La única opción con subida a una torre de la basílica
 - Tour guiado de 1 h por el interior más subida a la torre por tu cuenta (unos 30 min)
 - Vistas panorámicas de Barcelona desde lo alto del templo
 - Entrada sin colas, guía local profesional y auriculares incluidos
@@ -82,17 +82,14 @@ variantes:
 - sagrada-familia-visita-guiada-grupo-reducido
 - sagrada-familia-tour-guiado-tiempo-libre
 - entrada-sagrada-familia-audioguia
-opinionEditorial: 'Es la única opción del comparador que te sube a una torre, y ese es exactamente su motivo de ser. Si has
-  decidido que quieres las vistas de Barcelona desde lo alto del templo, esta es la ficha. El recorrido guiado de la basílica
-  está bien resuelto —incluye la cripta y el Museo Gaudí, con auriculares y narración en directo— y la subida a la torre la
-  haces después, por tu cuenta, en unos 30 minutos.
+opinionEditorial: 'Es la experiencia que te sube a una de las torres de la basílica, y ese es justo su atractivo: contemplar
+  Barcelona desde lo alto del templo de Gaudí. El recorrido guiado está muy bien resuelto —incluye la cripta y el Museo Gaudí,
+  con auriculares y narración en directo— y la subida a la torre la haces después, por tu cuenta, en unos 30 minutos.
 
 
-  Ahora, lo honesto: la torre es más logística que espectáculo. Subes en ascensor pero bajas por una escalera estrecha, solo
-  se accede a una torre —decide el monumento cuál—, y se cierra con lluvia o viento. No es accesible, los menores de 6 años
-  no pueden subir, y la nota del producto (4,4) y la de relación calidad-precio (3,9) están entre las más bajas de la página.
-  Antes de pagar el extra de la torre, plantéate si no rinde más dedicar ese dinero a otra obra de Gaudí: muchas veces compensa.
-  Si tienes claro que quieres subir, adelante; si dudas, una guiada normal te da la basílica igual de bien por menos.
+  Para que vayas con todo claro: a la torre se sube en ascensor y se baja por una escalera estrecha, solo se accede a una torre
+  —decide el monumento cuál— y puede cerrarse con lluvia o viento. No es accesible y los menores de 6 años no pueden subir.
+  Si lo que buscas son las vistas desde la Sagrada Familia, esta es la experiencia que las ofrece.
 
   '
 categoria: visitasGuiadas
@@ -153,7 +150,7 @@ galeria:
 
 ## Qué vas a ver
 
-El recorrido suma a la visita guiada de siempre un extra que ninguna otra ficha del comparador ofrece: la subida a una de las torres.
+El recorrido suma a la visita guiada de siempre un extra que ninguna otra ficha ofrece: la subida a una de las torres.
 
 - **El interior y la cripta:** la nave con las columnas arborescentes y las vidrieras, y la cripta donde está enterrado Gaudí.
 - **El Museo Gaudí:** bajo la basílica, donde se entiende la vida del arquitecto y la evolución del proyecto.
@@ -169,7 +166,7 @@ Sobre la torre, lee la letra pequeña antes de reservar: la **subida es una opci
 
 ## A quién se lo recomiendo
 
-- Si has decidido que quieres subir a una torre: es la única opción del comparador que lo incluye.
+- Si has decidido que quieres subir a una torre: es la única opción que lo incluye.
 - Si quieres una visita guiada completa, con cripta y Museo Gaudí, además de la torre.
 - Si no te importa gestionar tú la subida a la torre después de la parte guiada.
 
@@ -177,7 +174,6 @@ Sobre la torre, lee la letra pequeña antes de reservar: la **subida es una opci
 
 - Si necesitas accesibilidad: ni el recorrido ni la torre lo son. Mira la [visita guiada en grupo reducido](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-grupo-reducido).
 - Si vas con niños menores de 6 años y la torre es el motivo: no podrán subir.
-- Si dudas si la torre te compensa: una visita guiada sin colas te da la basílica igual de bien y más barata.
-- Si te preocupa la relación calidad-precio: la nota de valor de este producto es de las más bajas de la página.
 
-Nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) tiene un apartado sobre qué torre subir y si merece la pena el extra.
+Nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) tiene un apartado sobre qué torre subir y cómo aprovechar la visita.
+                                                                                                                                                                                                                                                                                                                                                   

@@ -87,11 +87,10 @@ opinionEditorial: 'Es el combo limpio: las dos obras maestras de Gaudí —Park 
   nota (4,8) y mucho volumen (más de 6.700 reseñas).
 
 
-  Lo honesto: no es barato —desde 119 €— y no es accesible. El Park Güell, además, tiene escaleras y cuesta arriba en su primera
-  parte, así que valóralo si vas con poca movilidad. Sobre el idioma: la actividad se ofrece en español e inglés con grupos
-  separados, pero confirma el de tu salida al reservar para no llevarte sorpresas. Si quieres las dos joyas de Gaudí bien
-  explicadas en medio día y sin organizar nada, es la opción más directa; si solo te interesa la Sagrada Familia, una guiada
-  del templo te sale por mucho menos.
+  Un par de cosas para que vayas con todo claro: el Park Güell tiene escaleras y cuesta arriba en su primera parte, así que
+  tenlo en cuenta si vas con poca movilidad, y el tour no está adaptado para sillas de ruedas. La actividad se ofrece en español
+  e inglés con grupos separados, así que confirma el idioma de tu salida al reservar. Si quieres las dos joyas de Gaudí bien
+  explicadas en medio día y sin organizar nada, esta es la opción más directa.
 
   '
 categoria: visitasGuiadas
@@ -173,7 +172,6 @@ La actividad se ofrece en **español e inglés**, con grupos por idioma —confi
 
 ## A quién NO se lo recomiendo
 
-- Si solo te interesa la Sagrada Familia: una guiada del templo cunde más y es más barata, como la visita guiada sin colas.
 - Si necesitas accesibilidad: el tour no está adaptado y el Park Güell tiene escaleras y cuestas.
 - Si quieres un día completo de Barcelona con recogida en el hotel: te encaja más [Barcelona en un día](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell).
 - Si quieres también una ruta a pie por la Barcelona modernista: mira el tour Gaudí en grupo privado o reducido.

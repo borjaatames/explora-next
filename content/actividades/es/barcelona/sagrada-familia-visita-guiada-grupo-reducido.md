@@ -58,7 +58,7 @@ informacionImportante:
   - Hay un acceso especial para sillas de ruedas
   - 'Llega 15 minutos antes: el punto de encuentro es una zona concurrida'
 accesibilidad: 'Accesible para personas en silla de ruedas: el monumento dispone de un acceso especial. Es la opción accesible
-  recomendada entre las visitas guiadas del comparador.'
+  recomendada entre las visitas guiadas.'
 politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación.
 preguntasFrecuentes:
 - pregunta: ¿Qué gano con el grupo reducido?
@@ -67,10 +67,9 @@ preguntasFrecuentes:
     tamaño del grupo.'
 - pregunta: ¿Es accesible para sillas de ruedas?
   respuesta: Sí. El operador indica que la visita es accesible y que el monumento tiene un acceso especial para sillas de
-    ruedas. Es la opción accesible que recomendamos entre las guiadas del comparador.
+    ruedas. Es la opción accesible que recomendamos entre las guiadas.
 - pregunta: ¿Incluye subir a las torres?
-  respuesta: No. La subida a una torre no entra en esta visita. Si quieres subir, revisa el tour con acceso a la torre del
-    comparador.
+  respuesta: No. La subida a una torre no entra en esta visita. Si quieres subir, revisa el tour con acceso a la torre.
 - pregunta: ¿En qué idiomas es la visita?
   respuesta: El guía oficial trabaja en varios idiomas, entre ellos español e inglés. Eliges el idioma al reservar; comprueba
     la disponibilidad en tu fecha.
@@ -82,17 +81,15 @@ variantes:
 - sagrada-familia-tour-guiado-tiempo-libre
 - sagrada-familia-tour-privado
 - sagrada-familia-tour-guiado-clasico
-opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour privado: pagas algo más que en un grupo grande
-  (desde 56 €) a cambio de un grupo reducido, donde se oye mejor al guía y no vas peleando por el sitio. El operador tiene
-  buena nota (4,7) y volumen suficiente —más de 3.700 reseñas— para fiarte, y el contenido es el mismo que en cualquier guiada:
-  fachadas, interior y escuela.
+opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour privado: pagas un poco más a cambio de un grupo
+  reducido, donde se oye mejor al guía y no vas peleando por el sitio. El operador tiene buena nota (4,7) y volumen suficiente
+  —más de 3.700 reseñas— para fiarte, y el contenido es el mismo que en cualquier guiada: fachadas, interior y escuela.
 
 
   Su punto fuerte real, más allá del grupo pequeño, es la accesibilidad: es la visita guiada que declara expresamente acceso
-  en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción del comparador. Lo que
-  no incluye son las torres ni ningún traslado, y el punto de encuentro —junto al Fanal Modernista, entre el KFC y el Hard
-  Rock— es de los concurridos: llega con margen. Si el grupo grande no te importa, la visita guiada sin colas sale más barata;
-  si quieres atención uno a uno, el salto es al tour privado.
+  en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción. Lo que no incluye son las
+  torres ni ningún traslado, y el punto de encuentro —junto al Fanal Modernista, entre el KFC y el Hard Rock— es de los concurridos:
+  llega con margen.
 
   '
 categoria: visitasGuiadas
@@ -165,7 +162,7 @@ El punto de encuentro está en la **Avenida de Gaudí, junto al Fanal Modernista
 
 El recorrido dura **1,5 horas** con guía oficial y **sistema de audio** para oírlo bien. Al ser grupo reducido, el guía puede ir más al detalle y responder preguntas sin que se pierda el hilo.
 
-Esta es **la visita guiada accesible** del comparador: el operador declara acceso en silla de ruedas y el monumento dispone de una entrada especial. La entrada es **nominativa** —lleva el documento de identidad— y aplica el **código de vestimenta** de iglesia: nada de hombros descubiertos, pantalones cortos ni cabeza cubierta.
+Esta es **la visita guiada accesible**: el operador declara acceso en silla de ruedas y el monumento dispone de una entrada especial. La entrada es **nominativa** —lleva el documento de identidad— y aplica el **código de vestimenta** de iglesia: nada de hombros descubiertos, pantalones cortos ni cabeza cubierta.
 
 ## A quién se lo recomiendo
 
@@ -176,9 +173,7 @@ Esta es **la visita guiada accesible** del comparador: el operador declara acces
 
 ## A quién NO se lo recomiendo
 
-- Si el grupo grande no te importa y buscas el mejor precio: mira la visita guiada sin colas.
 - Si quieres atención uno a uno o ir a tu ritmo: el salto es al tour privado.
 - Si quieres subir a una torre: no entra. Para eso está el [tour con acceso a la torre](/ciudades/barcelona/actividades/sagrada-familia-tour-con-torre).
-- Si prefieres quedarte dentro a tu aire después de la parte guiada: te encaja más el tour guiado con tiempo libre.
 
 Para preparar la visita, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) explica el código de vestimenta y los errores típicos.

@@ -22,7 +22,7 @@ highlights:
 - 'Full day: Montjuïc, the old town, the Sagrada Familia and Park Güell in a single booking'
 - Pickup and drop-off at your Barcelona hotel, in an air-conditioned vehicle
 - Small group of up to 16 people with a local guide
-- 'The highest-rated activity in the comparison: 4.9 out of 5 with nearly 15,000 reviews'
+- 'The highest-rated activity: 4.9 out of 5 with nearly 15,000 reviews'
 - Walking tour of the Gothic Quarter and panoramic views from Montjuïc
 incluye:
 - Pickup and drop-off at your Barcelona city hotel (between 8 and 9 a.m.)
@@ -88,7 +88,7 @@ variantes:
 opinionEditorial: 'This is Barcelona''s «all in one day»: you''re picked up at the hotel first thing and, over 8 hours, you
   see Montjuïc, the old town, the Gothic Quarter, Passeig de Gràcia, the Sagrada Familia and Park Güell, with transport and
   a guide. For anyone landing with a single day and wanting to squeeze it without organising anything, it works — and the
-  score backs it up like few others: 4.9 out of 5 with nearly 15,000 reviews, the highest in the comparison.
+  score backs it up like few others: 4.9 out of 5 with nearly 15,000 reviews, the highest.
 
 
   But you have to understand what you''re buying. First, and where most people get a shock: **entry to the Sagrada Familia

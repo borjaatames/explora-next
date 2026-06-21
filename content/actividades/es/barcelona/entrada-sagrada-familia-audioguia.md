@@ -19,7 +19,7 @@ urlReserva: https://www.getyourguide.es/barcelona-l45/sagrada-familia-ticket-de-
 cancelacionGratuita: true
 horasCancelacion: 48
 highlights:
-- 'La opción más económica del comparador: entras a tu propio ritmo, sin grupo ni horario de guía'
+- 'La opción más económica: entras a tu propio ritmo, sin grupo ni horario de guía'
 - Audioguía incluida en el precio, disponible en 16 idiomas
 - Acceso a la basílica con franja horaria confirmada, también cuando la web oficial está agotada
 - Cancelación gratuita con reembolso íntegro hasta 2 días antes
@@ -62,7 +62,7 @@ informacionImportante:
 accesibilidad: La basílica es accesible para personas en silla de ruedas y la entrada es gratuita para visitantes con movilidad
   reducida. La subida a las torres NO es accesible.
 politicaCancelacion: 'Cancelación gratuita con reembolso íntegro si cancelas con 2 días (48 horas) de antelación. Ojo: la
-  ventana es de 48 horas, no de 24 como en otras opciones del comparador.'
+  ventana es de 48 horas, no de 24 como en otras opciones.'
 preguntasFrecuentes:
 - pregunta: ¿La audioguía está incluida o es un extra?
   respuesta: 'Está incluida en el precio (34 €), no es un pago aparte. Funciona como una app que descargas en tu propio smartphone:
@@ -70,11 +70,10 @@ preguntasFrecuentes:
     16 idiomas y solo para mayores de 11 años.'
 - pregunta: ¿Esta entrada incluye subir a las torres?
   respuesta: No. La subida a una torre —Nacimiento o Pasión— es un extra opcional que se selecciona y se paga al reservar;
-    no entra en el precio base. Si quieres subir, márcalo en la reserva o revisa las opciones «con torres» del comparador.
+    no entra en el precio base. Si quieres subir, márcalo en la reserva o revisa las opciones «con torres».
 - pregunta: ¿Qué diferencia hay con una visita guiada?
   respuesta: 'Aquí no hay guía en persona: entras a tu ritmo y la audioguía te va explicando lo que ves. Es la opción más
-    económica y flexible. Si prefieres que un guía oficial te cuente el simbolismo en directo, mira las visitas guiadas del
-    comparador.'
+    económica y flexible. Si prefieres que un guía oficial te cuente el simbolismo en directo, mira nuestras visitas guiadas.'
 - pregunta: ¿Con cuánta antelación debo reservar?
   respuesta: 'Cuanto antes. La Sagrada Familia funciona con franjas horarias de aforo limitado y solo se vende online. En
     2026, con el Año Gaudí, la demanda es excepcional y las franjas se agotan con semanas de antelación: reserva con 4-8 semanas
@@ -175,9 +174,7 @@ La entrada es **nominativa**: das los datos de todos los participantes al reserv
 
 ## A quién NO se lo recomiendo
 
-- Si quieres que un guía oficial te explique el simbolismo en directo: esta opción es autoguiada. Para eso están las visitas guiadas del comparador.
+- Si quieres que un guía oficial te explique el simbolismo en directo: esta opción es autoguiada. Para eso están las visitas guiadas.
 - Si quieres subir a una torre: aquí es un extra de pago aparte. Mira las opciones «con torres».
 - Si viajas sin smartphone o sueles quedarte sin batería: la audioguía depende de tu móvil; sin él, te quedas sin narración.
-- Si necesitas poder cancelar con menos de 48 horas de margen: la ventana aquí es de 2 días, no de 24 horas.
-
-Antes de reservar, te recomiendo leer nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar): explica qué torre subir, el código de vestimenta y los errores típicos.
+- Si n

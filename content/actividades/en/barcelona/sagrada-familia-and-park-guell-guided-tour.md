@@ -86,11 +86,10 @@ opinionEditorial: 'This is the clean combo: Gaudí''s two masterpieces — Park 
   at the door. Good score (4.8) and plenty of volume (over 6,700 reviews).
 
 
-  Honestly: it isn''t cheap — from €119 — and it isn''t accessible. Park Güell, moreover, has stairs and uphill stretches
-  in its first part, so weigh it up if you have limited mobility. On language: the activity is offered in Spanish and English
-  with separate groups, but confirm your departure''s at booking so there are no surprises. If you want Gaudí''s two jewels
-  well explained in half a day with nothing to organise, it''s the most direct option; if you only care about the Sagrada
-  Familia, a guided tour of the temple costs much less.
+  A couple of things so you go in fully informed: Park Güell has stairs and uphill stretches in its first part, so keep that
+  in mind if you have limited mobility, and the tour isn''t adapted for wheelchairs. The activity is offered in Spanish and
+  English with separate groups, so confirm your departure''s language at booking. If you want Gaudí''s two jewels well explained
+  in half a day with nothing to organise, this is the most direct option.
 
   '
 categoria: visitasGuiadas
@@ -174,7 +173,6 @@ The activity is offered in **Spanish and English**, with groups by language — 
 
 ## Who I would NOT recommend it to
 
-- If you only care about the Sagrada Familia: a guided tour of the temple gives you more and is cheaper, like the skip-the-line guided tour.
 - If you need accessibility: the tour is not adapted and Park Güell has stairs and slopes.
 - If you want a full day of Barcelona with hotel pickup: [Barcelona in one day](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) suits you better.
 - If you also want a walking route through modernist Barcelona: see the Gaudí private or small-group tour.
