@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Facade of the Sagrada Família in Barcelona"
 comunidad: "Catalonia"
 imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagenResumenAlt: "Park Güell de Gaudí en Barcelona"
-imagen: "/ciudades/barcelona.jpg"
-imagenAlt: "Panoramic view of Barcelona with the Sagrada Familia"
+imagen: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
+imagenAlt: "Panoramic view of Barcelona from Montjuïc, with Plaça d'Espanya, the Magic Fountain and the city beyond"
 publicada: true
 destacada: true
 orden: 2
