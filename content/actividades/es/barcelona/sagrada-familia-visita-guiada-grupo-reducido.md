@@ -182,4 +182,3 @@ Esta es **la visita guiada accesible** del comparador: el operador declara acces
 - Si prefieres quedarte dentro a tu aire después de la parte guiada: te encaja más el [tour guiado con tiempo libre](/ciudades/barcelona/actividades/sagrada-familia-tour-guiado-tiempo-libre).
 
 Para preparar la visita, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) explica el código de vestimenta y los errores típicos.
-                                                                                                  

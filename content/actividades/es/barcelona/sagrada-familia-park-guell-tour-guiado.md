@@ -179,4 +179,3 @@ La actividad se ofrece en **español e inglés**, con grupos por idioma —confi
 - Si quieres también una ruta a pie por la Barcelona modernista: mira el [tour Gaudí en grupo privado o reducido](/ciudades/barcelona/actividades/sagrada-familia-tour-gaudi-privado).
 
 Para preparar la parada en el templo, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) te será útil.
-                                                                                                  
