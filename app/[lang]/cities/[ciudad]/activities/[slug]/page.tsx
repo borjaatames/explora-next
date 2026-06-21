@@ -495,7 +495,11 @@ export default async function ActividadPage({ params }: Props) {
 
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
         <BotonVolverFicha
-          urlActividadesCiudad={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
+          urlActividadesCiudad={
+            actividad.atraccionesRelacionadas?.[0]
+              ? `${urlActividadesDeCiudad(IDIOMA, params.ciudad)}?atraccion=${actividad.atraccionesRelacionadas[0]}`
+              : urlActividadesDeCiudad(IDIOMA, params.ciudad)
+          }
           textoActividadesCiudad={`← See more things to do in ${ciudad.nombre}`}
         />
       </div>
