@@ -177,7 +177,7 @@ Sobre la torre, lee la letra pequeña antes de reservar: la **subida es una opci
 
 - Si necesitas accesibilidad: ni el recorrido ni la torre lo son. Mira la [visita guiada en grupo reducido](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-grupo-reducido).
 - Si vas con niños menores de 6 años y la torre es el motivo: no podrán subir.
-- Si dudas si la torre te compensa: una [visita guiada sin colas](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-sin-colas) te da la basílica igual de bien y más barata.
+- Si dudas si la torre te compensa: una visita guiada sin colas te da la basílica igual de bien y más barata.
 - Si te preocupa la relación calidad-precio: la nota de valor de este producto es de las más bajas de la página.
 
 Nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) tiene un apartado sobre qué torre subir y si merece la pena el extra.

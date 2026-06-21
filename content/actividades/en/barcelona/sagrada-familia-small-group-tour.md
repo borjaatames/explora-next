@@ -176,9 +176,9 @@ This is **the accessible guided visit** in the comparison: the operator declares
 
 ## Who I would NOT recommend it to
 
-- If the large group doesn't bother you and you want the best price: see the [skip-the-line guided tour](/en/cities/barcelona/activities/sagrada-familia-skip-the-line-guided-tour).
-- If you want one-to-one attention or to go at your own pace: the jump is to the [private tour](/en/cities/barcelona/activities/sagrada-familia-private-guided-tour).
+- If the large group doesn't bother you and you want the best price: see the skip-the-line guided tour.
+- If you want one-to-one attention or to go at your own pace: the jump is to the private tour.
 - If you want to go up a tower: it's not included. For that there's the [tour with tower access](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access).
-- If you'd rather stay inside on your own after the guided part: the [guided tour with free time](/en/cities/barcelona/activities/sagrada-familia-guided-tour-with-free-time) suits you better.
+- If you'd rather stay inside on your own after the guided part: the guided tour with free time suits you better.
 
 To prepare for the visit, our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) explains the dress code and the typical mistakes.

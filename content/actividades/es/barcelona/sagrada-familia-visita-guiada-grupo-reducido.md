@@ -176,9 +176,9 @@ Esta es **la visita guiada accesible** del comparador: el operador declara acces
 
 ## A quién NO se lo recomiendo
 
-- Si el grupo grande no te importa y buscas el mejor precio: mira la [visita guiada sin colas](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-sin-colas).
-- Si quieres atención uno a uno o ir a tu ritmo: el salto es al [tour privado](/ciudades/barcelona/actividades/sagrada-familia-tour-privado).
+- Si el grupo grande no te importa y buscas el mejor precio: mira la visita guiada sin colas.
+- Si quieres atención uno a uno o ir a tu ritmo: el salto es al tour privado.
 - Si quieres subir a una torre: no entra. Para eso está el [tour con acceso a la torre](/ciudades/barcelona/actividades/sagrada-familia-tour-con-torre).
-- Si prefieres quedarte dentro a tu aire después de la parte guiada: te encaja más el [tour guiado con tiempo libre](/ciudades/barcelona/actividades/sagrada-familia-tour-guiado-tiempo-libre).
+- Si prefieres quedarte dentro a tu aire después de la parte guiada: te encaja más el tour guiado con tiempo libre.
 
 Para preparar la visita, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) explica el código de vestimenta y los errores típicos.

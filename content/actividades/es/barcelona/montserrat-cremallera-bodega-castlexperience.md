@@ -175,7 +175,7 @@ Trayecto Barcelona-Montserrat (45 minutos) → tren cremallera (12 minutos) → 
 
 ## A quién NO se lo recomiendo
 
-- Si quieres formato íntimo. Aquí pueden ser 20 personas. Mira [In Out con grupo de 8](/ciudades/barcelona/actividades/montserrat-grupo-pequeno-recogida-hotel).
-- Si tu prioridad es la naturaleza y senderismo — esta variante no incluye teleférico ni caminata. Mira [Mont Escape](/ciudades/barcelona/actividades/montserrat-teleferico-y-caminata-grupo-pequeno).
+- Si quieres formato íntimo. Aquí pueden ser 20 personas. Mira In Out con grupo de 8.
+- Si tu prioridad es la naturaleza y senderismo — esta variante no incluye teleférico ni caminata. Mira Mont Escape.
 - Si quieres tour privado con recogida en hotel — mira [el tour privado de In Out](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel).
 - Si esperas grupo en un solo idioma. Aquí pueden ser bilingües según demanda.

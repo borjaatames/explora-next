@@ -174,9 +174,9 @@ The activity is offered in **Spanish and English**, with groups by language — 
 
 ## Who I would NOT recommend it to
 
-- If you only care about the Sagrada Familia: a guided tour of the temple gives you more and is cheaper, like the [skip-the-line guided tour](/en/cities/barcelona/activities/sagrada-familia-skip-the-line-guided-tour).
+- If you only care about the Sagrada Familia: a guided tour of the temple gives you more and is cheaper, like the skip-the-line guided tour.
 - If you need accessibility: the tour is not adapted and Park Güell has stairs and slopes.
 - If you want a full day of Barcelona with hotel pickup: [Barcelona in one day](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) suits you better.
-- If you also want a walking route through modernist Barcelona: see the [Gaudí private or small-group tour](/en/cities/barcelona/activities/gaudi-and-sagrada-familia-private-tour).
+- If you also want a walking route through modernist Barcelona: see the Gaudí private or small-group tour.
 
 To prepare for the temple stop, our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) will be useful.

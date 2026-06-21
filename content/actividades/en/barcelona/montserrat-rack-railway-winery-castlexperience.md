@@ -172,7 +172,7 @@ Barcelona-Montserrat (45 min) → rack railway (12 min) → guided monastery tou
 
 ## Who I would NOT recommend it to
 
-- If you want an intimate format. Here it can be 20 people. See [In Out with group of 8](/en/cities/barcelona/activities/montserrat-small-group-hotel-pickup).
-- If your priority is nature and hiking — this variant doesn't include cable car or hike. See [Mont Escape](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group).
+- If you want an intimate format. Here it can be 20 people. See In Out with group of 8.
+- If your priority is nature and hiking — this variant doesn't include cable car or hike. See Mont Escape.
 - If you want a private tour with hotel pickup — see [the In Out private tour](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup).
 - If you expect a single-language group. Here it can be bilingual depending on demand.

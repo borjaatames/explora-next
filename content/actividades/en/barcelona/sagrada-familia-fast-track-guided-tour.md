@@ -129,7 +129,7 @@ The route ends inside the basilica, so you can stay and explore at your own pace
 
 ## Who I would NOT recommend it to
 
-- If you want a Spanish-speaking guide: this listing is English only. See the [guided tour with skip-the-line entry](/en/cities/barcelona/activities/sagrada-familia-guided-tour-with-entry) or the [express tour](/en/cities/barcelona/activities/sagrada-familia-express-guided-tour).
+- If you want a Spanish-speaking guide: this listing is English only. See the guided tour with skip-the-line entry or the express tour.
 - If you need wheelchair accessibility: this tour is not adapted.
 - If you want to go up a tower: it's not included. For that there are the [with-tower options](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access).
 - If you'd rather go entirely at your own pace: the [ticket with audio guide](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) suits you better.

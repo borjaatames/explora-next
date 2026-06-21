@@ -176,7 +176,7 @@ About the tower, read the small print before booking: the **climb is an option**
 
 - If you need accessibility: neither the route nor the tower is. See the [small-group guided tour](/en/cities/barcelona/activities/sagrada-familia-small-group-tour).
 - If you're travelling with children under 6 and the tower is the reason: they won't be able to go up.
-- If you're unsure whether the tower is worth it: a [skip-the-line guided tour](/en/cities/barcelona/activities/sagrada-familia-skip-the-line-guided-tour) gives you the basilica just as well and cheaper.
+- If you're unsure whether the tower is worth it: a skip-the-line guided tour gives you the basilica just as well and cheaper.
 - If value for money matters to you: this product's value score is among the lowest on the page.
 
 Our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) has a section on which tower to climb and whether the extra is worth it.

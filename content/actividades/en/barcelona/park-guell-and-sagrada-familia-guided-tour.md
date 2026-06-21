@@ -126,7 +126,7 @@ After Park Güell, a **private bus** takes the group to the Sagrada Familia, whe
 ## Who I would NOT recommend it to
 
 - If you want a Spanish-speaking guide: this listing is English only. See the [Sagrada Familia and Park Güell guided tour](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour).
-- If you only care about the Sagrada Familia: a guided tour of the basilica alone is cheaper, like the [skip-the-line guided tour](/en/cities/barcelona/activities/sagrada-familia-skip-the-line-guided-tour).
+- If you only care about the Sagrada Familia: a guided tour of the basilica alone is cheaper, like the skip-the-line guided tour.
 - If you want a full day of Barcelona with hotel pickup: [Barcelona in one day](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) suits you better.
 - If you need wheelchair accessibility: the operator doesn't specify it and Park Güell has slopes.
 

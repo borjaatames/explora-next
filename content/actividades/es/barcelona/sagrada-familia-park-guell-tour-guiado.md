@@ -173,9 +173,9 @@ La actividad se ofrece en **español e inglés**, con grupos por idioma —confi
 
 ## A quién NO se lo recomiendo
 
-- Si solo te interesa la Sagrada Familia: una guiada del templo cunde más y es más barata, como la [visita guiada sin colas](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-sin-colas).
+- Si solo te interesa la Sagrada Familia: una guiada del templo cunde más y es más barata, como la visita guiada sin colas.
 - Si necesitas accesibilidad: el tour no está adaptado y el Park Güell tiene escaleras y cuestas.
 - Si quieres un día completo de Barcelona con recogida en el hotel: te encaja más [Barcelona en un día](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell).
-- Si quieres también una ruta a pie por la Barcelona modernista: mira el [tour Gaudí en grupo privado o reducido](/ciudades/barcelona/actividades/sagrada-familia-tour-gaudi-privado).
+- Si quieres también una ruta a pie por la Barcelona modernista: mira el tour Gaudí en grupo privado o reducido.
 
 Para preparar la parada en el templo, nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) te será útil.
