@@ -15,7 +15,7 @@ idiomas:
 - es
 - en
 proveedor: bokun
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -99,7 +99,7 @@ keywords:
 - gaudi combo barcelona
 - sagrada familia park guell skip the line
 - gaudi guided tour barcelona
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
+imagen: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp
 imagenAlt: Park Güell's colorful mosaic terraces and Gaudí's whimsical architecture in Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 6776
@@ -116,16 +116,14 @@ galeria:
   alt: Group of people standing in front of Park Güell's colorful mosaic structures in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona cityscape with architecture and urban landmarks
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp
-  alt: Park Güell's colorful mosaic terraces and architectural structures in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
-  alt: Soaring columns inside Sagrada Familia Cathedral, Barcelona with intricate architectural details
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Tree-lined path at Park Güell in Barcelona with architectural railings
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
-  alt: Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
+  alt: Soaring columns inside Sagrada Familia Cathedral, Barcelona with intricate architectural details
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
   alt: Church with brown and white architecture surrounded by trees in Park Güell, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
   alt: Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details
 - src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
