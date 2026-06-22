@@ -57,6 +57,32 @@ galeria:
   alt: Mosaicos multicolores del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Basilica de la Sagrada Familia, Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero-hero.webp
+  alt: Parque Güell en Barcelona, España con arquitectura modernista de Gaudí
+- src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
+  alt: Calles y edificios históricos del Barrio Gótico de Barcelona
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-europe-architecture-spain-hero-hero.webp
+  alt: Park Güell de Gaudí con terrazas de mosaico, columnas y vistas de Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero-hero.webp
+  alt: Sagrada Familia de Barcelona con sus intrincadas torres y fachada detallada
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-zv5o_MIc3WA-hero.webp
+  alt: Paisaje urbano de Barcelona con arquitectura moderna y calles transitadas
+- src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
+  alt: Camino arbolado en el Parque Güell de Barcelona con árboles a ambos lados
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-hero.webp
+  alt: Fachada de la Basílica de la Sagrada Familia en Barcelona con torres góticas decoradas.
+- src: /images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp
+  alt: Vista diurna del Park Güell con edificios altos de fondo, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-I1vI47ouAok-hero.webp
+  alt: Vistas panorámicas de Barcelona con la Sagrada Familia al atardecer
+- src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
+  alt: Vistas panorámicas de Barcelona con la Sagrada Familia al fondo y arquitectura moderna
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16131880-hero.webp
+  alt: Vistas de Barcelona con edificios modernos y arquitectura urbana
+- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
+  alt: Vista panorámica de Barcelona con la Sagrada Familia al fondo y arquitectura modernista
+- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
+  alt: Vista aérea de Barcelona con edificios modernistas y la Sagrada Familia al fondo
 publicada: true
 destacada: false
 fecha: '2026-06-18'
