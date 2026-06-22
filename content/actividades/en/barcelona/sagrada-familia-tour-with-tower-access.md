@@ -99,8 +99,8 @@ keywords:
 - sagrada familia tower tour
 - sagrada familia views
 - sagrada familia tower tickets
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
-imagenAlt: Barcelona cityscape with modern architecture and Mediterranean skyline
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero-hero.webp
+imagenAlt: Sagrada Familia basilica front facade with towering spires, Barcelona
 ratingProveedor: 4.4
 numeroOpiniones: 5518
 publicada: true
@@ -110,17 +110,15 @@ atraccionesRelacionadas:
 - sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Barcelona street scene with historic architecture and urban surroundings
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
-  alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
-  alt: Panoramic view of the Sagrada Familia with its towers visible
+  alt: Barcelona cityscape with modern architecture and Mediterranean skyline
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate architectural details in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
-  alt: Barcelona street view with historic buildings and urban architecture
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with intricate stone facades and towering spires
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
+  alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona, Spain
+- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
+  alt: Barcelona street view with historic buildings and urban architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Barcelona cityscape with historic architecture and vibrant streets
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp

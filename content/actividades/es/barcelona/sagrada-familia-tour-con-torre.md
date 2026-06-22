@@ -87,9 +87,9 @@ opinionEditorial: 'Es la experiencia que te sube a una de las torres de la basí
   con auriculares y narración en directo— y la subida a la torre la haces después, por tu cuenta, en unos 30 minutos.
 
 
-  Para que vayas con todo claro: a la torre se sube en ascensor y se baja por una escalera estrecha, solo se accede a una torre
-  —decide el monumento cuál— y puede cerrarse con lluvia o viento. No es accesible y los menores de 6 años no pueden subir.
-  Si lo que buscas son las vistas desde la Sagrada Familia, esta es la experiencia que las ofrece.
+  Para que vayas con todo claro: a la torre se sube en ascensor y se baja por una escalera estrecha, solo se accede a una
+  torre —decide el monumento cuál— y puede cerrarse con lluvia o viento. No es accesible y los menores de 6 años no pueden
+  subir. Si lo que buscas son las vistas desde la Sagrada Familia, esta es la experiencia que las ofrece.
 
   '
 categoria: visitasGuiadas
@@ -99,9 +99,8 @@ keywords:
 - tour sagrada familia torre
 - sagrada familia vistas
 - entradas sagrada familia torres
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
-imagenAlt: 'Barcelona: vista panorámica de la ciudad con arquitectura moderna y antigua mezcladas entre edificios y horizonte
-  urbano'
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero-hero.webp
+imagenAlt: Basílica de la Sagrada Familia de Barcelona con impresionante vista frontal de sus torres y fachada
 ratingProveedor: 4.4
 numeroOpiniones: 5518
 publicada: true
@@ -111,17 +110,16 @@ atraccionesRelacionadas:
 - sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Paisaje urbano de Barcelona con arquitectura moderna y histórica bajo cielo despejado
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
-  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz vibrante atravesando el vidrio
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
-  alt: Vista panorámica de la Sagrada Familia con sus torres visibles
+  alt: 'Barcelona: vista panorámica de la ciudad con arquitectura moderna y antigua mezcladas entre edificios y horizonte
+    urbano'
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
-  alt: Plaza mayor de Barcelona con edificios históricos y turistas
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y detalles arquitectónicos ornamentales en Barcelona.
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
+  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz vibrante atravesando el vidrio
+- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
+  alt: Plaza mayor de Barcelona con edificios históricos y turistas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Paisaje urbano de Barcelona con arquitectura modernista y vista de la ciudad
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
