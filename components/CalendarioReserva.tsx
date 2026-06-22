@@ -41,7 +41,6 @@ type Strings = {
   ariaDia: (dia: number, mes: string) => string;
   opinionSingular: string;
   opinionPlural: string;
-  verOpiniones: string;
   meses: readonly string[];
   diasSemana: readonly string[];
   locale: string;
@@ -59,7 +58,6 @@ const DICT: Record<"es" | "en", Strings> = {
     ariaDia: (d: number, m: string) => `${d} de ${m}`,
     opinionSingular: "1 opinión",
     opinionPlural: "opiniones",
-    verOpiniones: "Ver opiniones",
     meses: [
       "Enero",
       "Febrero",
@@ -88,7 +86,6 @@ const DICT: Record<"es" | "en", Strings> = {
     ariaDia: (d: number, m: string) => `${m} ${d}`,
     opinionSingular: "1 review",
     opinionPlural: "reviews",
-    verOpiniones: "See reviews",
     meses: [
       "January",
       "February",
@@ -315,20 +312,6 @@ export default function CalendarioReserva({
               ·
             </span>
             <span className="text-slate-700">{ratingTextoOpiniones}</span>
-          </div>
-        )}
-
-        {tieneRating && (
-          <div>
-            <a
-              href={urlReservaBase}
-              onClick={handleReservarClick}
-              target="_blank"
-              rel="noopener noreferrer sponsored"
-              className="mt-2 inline-flex items-center text-sm font-medium text-sky-600 hover:text-sky-700 focus-visible:outline-none focus-visible:underline"
-            >
-              {t.verOpiniones} →
-            </a>
           </div>
         )}
 
