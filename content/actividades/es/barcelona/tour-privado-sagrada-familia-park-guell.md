@@ -91,3 +91,27 @@ atraccionesRelacionadas:
 - park-guell
 fecha_actualizacion: '2026-06-22'
 ---
+
+## Qué vas a ver
+
+Las dos obras cumbre de Antoni Gaudí en medio día, en privado y sin colas:
+
+- **Sagrada Família:** acceso prioritario al templo más icónico de Barcelona, con tu guía explicándote por dentro las fachadas, las bóvedas arborescentes y las vidrieras.
+- **Park Güell:** la zona monumental con los mosaicos, el banco ondulado y las vistas de la ciudad, también con guía y entrada sin colas.
+
+## Cómo funciona
+
+Es un tour **100% privado, solo para tu grupo**. Tu guía y conductor te **recogen en el hotel** (o en el punto de encuentro acordado, según la distancia) y te llevan en **transporte privado** entre la Sagrada Família y el Park Güell, sin que tengas que organizar nada. Las **entradas sin colas a los dos monumentos van incluidas**.
+
+Dura **unas 4 horas** y el precio es **por grupo, no por persona**, así que cuantos más seáis, mejor sale. La entrada a la Sagrada Família es nominativa: ten a mano el documento de identidad de los participantes. Comprueba el idioma del guía al reservar.
+
+## A quién se lo recomiendo
+
+- A familias o grupos que quieran ver lo mejor de Gaudí sin colas ni logística.
+- A quien valore un guía en exclusiva y la comodidad de la recogida en el hotel.
+- A quien tenga medio día y quiera aprovecharlo al máximo.
+
+## A quién NO se lo recomiendo
+
+- A quien viaje solo o en pareja con presupuesto ajustado: al ser precio por grupo, sale más a cuenta cuantos más seáis.
+- A quien quiera ir por libre y a su ritmo: aquí el recorrido lo marca el tour guiado.

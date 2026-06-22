@@ -91,3 +91,27 @@ atraccionesRelacionadas:
 - park-guell
 fecha_actualizacion: '2026-06-22'
 ---
+
+## What you'll see
+
+Gaudí's two masterpieces in half a day, private and skip-the-line:
+
+- **Sagrada Família:** priority access to Barcelona's most iconic basilica, with your guide explaining the façades, the tree-like vaults and the stained glass from inside.
+- **Park Güell:** the monumental zone with the mosaics, the wavy bench and the city views, also with a guide and skip-the-line entry.
+
+## How it works
+
+It's a **fully private tour, for your group only**. Your guide and driver **pick you up at your hotel** (or at the agreed meeting point, depending on distance) and take you by **private transport** between the Sagrada Família and Park Güell, with nothing for you to organise. **Skip-the-line entry to both monuments is included**.
+
+It lasts **about 4 hours** and the price is **per group, not per person**, so the more of you there are, the better the value. Sagrada Família entry is nominative: keep every participant's ID document to hand. Check the guide's language when booking.
+
+## Who I'd recommend it to
+
+- Families or groups who want to see the best of Gaudí with no queues or logistics.
+- Anyone who values a private guide and the comfort of hotel pickup.
+- Anyone with half a day who wants to make the most of it.
+
+## Who I would NOT recommend it to
+
+- Solo travellers or couples on a tight budget: with a per-group price, it works out better the more of you there are.
+- Anyone who wants to go at their own pace: here the route follows the guided tour.
