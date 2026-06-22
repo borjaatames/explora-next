@@ -115,8 +115,8 @@ keywords:
 - bernabeu tour madrid
 - real madrid stadium visit
 - bernabeu ticket
-imagen: "/images/actividades/madrid/santiago-bernabeu/16562715299818-hero.webp"
-imagenAlt: Exterior façade of Santiago Bernabéu Stadium in Madrid
+imagen: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
+imagenAlt: Aerial view of the Santiago Bernabéu Stadium in Madrid at sunset
 galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
   alt: Madrid cityscape with historic architecture and street view

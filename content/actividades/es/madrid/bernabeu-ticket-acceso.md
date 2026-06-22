@@ -115,8 +115,8 @@ keywords:
 - tour bernabeu madrid
 - estadio real madrid visita
 - bernabeu ticket
-imagen: "/images/actividades/madrid/santiago-bernabeu/16562715299818-hero.webp"
-imagenAlt: Fachada exterior del estadio Santiago Bernabéu de Madrid
+imagen: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
+imagenAlt: Vista aérea del estadio Santiago Bernabéu de Madrid al atardecer
 galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
   alt: Skyline de Madrid con la Puerta de Alcalá y edificios históricos al atardecer

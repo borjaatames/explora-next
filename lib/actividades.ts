@@ -333,7 +333,7 @@ const SLUGS_ACTIVIDADES_HOME: ReadonlyArray<{ ciudad: string; slug: string }> = 
   { ciudad: "barcelona", slug: "entrada-sagrada-familia-audioguia" },
   { ciudad: "granada", slug: "visita-guiada-alhambra-generalife" },
   { ciudad: "madrid", slug: "excursion-toledo-dia-completo" },
-  { ciudad: "barcelona", slug: "park-guell-tour-guiado-mejor-valorado-sin-colas" },
+  { ciudad: "madrid", slug: "bernabeu-ticket-acceso" },
   { ciudad: "granada", slug: "alhambra-palacios-nazaries-sin-colas" },
   { ciudad: "madrid", slug: "excursion-avila-segovia-con-entradas" },
   { ciudad: "barcelona", slug: "barcelona-un-dia-sagrada-familia-park-guell" },
