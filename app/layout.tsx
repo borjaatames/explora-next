@@ -99,6 +99,17 @@ export default function RootLayout({
             gtag('set', 'url_passthrough', true);
           `}
         </Script>
+
+        {/*
+         * Calienta la conexión con el host del widget de reserva de Bokun
+         * (widgets.bokun.io). El calendario de las fichas `proveedor: bokun`
+         * es un iframe externo que tarda en montar porque requiere varias
+         * idas y vueltas a Bokun (loader → iframe → disponibilidad). Abrir
+         * el DNS + TLS por adelantado recorta ese arranque. Es solo una
+         * pista de conexión, sin coste apreciable en páginas sin Bokun.
+         */}
+        <link rel="preconnect" href="https://widgets.bokun.io" />
+        <link rel="dns-prefetch" href="https://widgets.bokun.io" />
       </head>
       <body className="font-inter bg-white text-slate-900 antialiased">
         {children}

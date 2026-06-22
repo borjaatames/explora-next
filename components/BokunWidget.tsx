@@ -119,6 +119,13 @@ export default function BokunWidget({
   // página: español en fichas ES, inglés en fichas EN.
   const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
 
+  // URL del loader. La rendereamos como <link rel="preload"> para que el
+  // navegador empiece a descargar el script de Bokun ya con el HTML inicial
+  // (React lo iza al <head>), en lugar de esperar a que el useEffect lo
+  // inyecte tras la hidratación. Así el loader está en caché y se ejecuta
+  // de inmediato cuando el efecto lo monta → el calendario arranca antes.
+  const loaderUrl = `${LOADER_BASE}?bookingChannelUUID=${channelUuid}`;
+
   const localeNota = idioma === "es" ? "es-ES" : "en-GB";
   const tieneRating =
     typeof ratingProveedor === "number" &&
@@ -139,6 +146,7 @@ export default function BokunWidget({
 
   return (
     <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
+      <link rel="preload" as="script" href={loaderUrl} />
       <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
           {idioma === "es" ? "Reservar tu visita" : "Book your visit"}
