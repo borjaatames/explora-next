@@ -124,7 +124,7 @@ galeria:
   alt: Madrid city skyline with modern buildings and historic architecture under clear sky
 ratingProveedor: 4.2
 numeroOpiniones: 452
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

@@ -45,7 +45,7 @@ galeria:
     alt: "Casas de colores de Girona sobre el río Oñar"
 ratingProveedor: 4.9
 numeroOpiniones: 7496
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

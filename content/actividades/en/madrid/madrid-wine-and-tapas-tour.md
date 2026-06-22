@@ -108,7 +108,7 @@ numeroOpiniones: 3830
 
 
 # ─── 14. STATUS ────────────────────────────────────────────────────────────
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-04"
 atraccionesRelacionadas:

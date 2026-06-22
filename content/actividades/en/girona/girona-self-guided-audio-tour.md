@@ -43,7 +43,7 @@ imagenAlt: "Girona Cathedral at the top of its monumental staircase"
 galeria:
   - src: "/images/actividades/girona/ciudades/girona-hero.webp"
     alt: "Girona Cathedral at the top of its monumental staircase"
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

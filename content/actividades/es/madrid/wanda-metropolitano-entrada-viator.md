@@ -123,7 +123,7 @@ galeria:
   alt: Wanda Metropolitano, estadio de fútbol del Atlético Madrid
 ratingProveedor: 4.4
 numeroOpiniones: 188
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

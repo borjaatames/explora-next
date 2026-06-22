@@ -45,7 +45,7 @@ galeria:
     alt: "Colourful houses of Girona over the Oñar river"
 ratingProveedor: 4.9
 numeroOpiniones: 7496
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

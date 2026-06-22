@@ -110,7 +110,7 @@ galeria:
   alt: Electric bike with helmet highlighting modern safety features and technology for urban Granada commuting
 ratingProveedor: 5.0
 numeroOpiniones: 84
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

@@ -140,7 +140,7 @@ galeria:
   alt: Calle madrileña con arquitectura histórica y fachadas tradicionales
 ratingProveedor: 4.8
 numeroOpiniones: 2706
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

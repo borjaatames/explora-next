@@ -159,7 +159,7 @@ galeria:
   alt: Historic Toledo cityscape with medieval architecture and winding cobblestone streets
 ratingProveedor: 4.9
 numeroOpiniones: 223
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 atraccionesRelacionadas:

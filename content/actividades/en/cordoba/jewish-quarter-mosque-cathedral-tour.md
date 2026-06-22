@@ -58,7 +58,7 @@ galeria:
     alt: "Calleja de las Flores in Córdoba's Jewish Quarter with the Mosque tower behind"
 ratingProveedor: 4.5
 numeroOpiniones: 55
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

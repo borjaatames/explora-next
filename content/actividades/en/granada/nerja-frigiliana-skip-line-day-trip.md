@@ -114,7 +114,7 @@ galeria:
   alt: Nerja beach cove with crystal clear Mediterranean water, golden sand, and dramatic limestone cliffs in background
 ratingProveedor: 4.7
 numeroOpiniones: 27
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

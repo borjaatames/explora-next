@@ -112,7 +112,7 @@ galeria:
     urbano
 ratingProveedor: 5.0
 numeroOpiniones: 84
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

@@ -127,7 +127,7 @@ galeria:
   alt: Toledo Cathedral interior with soaring Gothic arches and ornate ceiling details
 ratingProveedor: 4.5
 numeroOpiniones: 6033
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-05'
 atraccionesRelacionadas:

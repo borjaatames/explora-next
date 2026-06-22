@@ -135,7 +135,7 @@ galeria:
   alt: Columnas arquitectónicas de la Alhambra de Granada con detalles ornamentales islámicos
 ratingProveedor: 4.6
 numeroOpiniones: 102
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

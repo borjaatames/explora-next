@@ -135,7 +135,7 @@ galeria:
   alt: Ornate columns of Alhambra palace in Granada with intricate Islamic architectural details
 ratingProveedor: 4.6
 numeroOpiniones: 102
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

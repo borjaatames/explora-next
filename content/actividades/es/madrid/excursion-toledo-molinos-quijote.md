@@ -161,7 +161,7 @@ galeria:
   alt: Vista panorámica de Toledo con sus casas blancas y la catedral al atardecer
 ratingProveedor: 4.9
 numeroOpiniones: 223
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-05-06'

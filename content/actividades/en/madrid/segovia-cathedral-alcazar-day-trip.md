@@ -129,7 +129,7 @@ galeria:
   alt: Alcázar of Segovia medieval fortress with towers against blue sky
 ratingProveedor: 4.6
 numeroOpiniones: 247
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

@@ -134,7 +134,7 @@ galeria:
   alt: Royal Palace of Madrid with grand neo-classical architecture and ornate golden details overlooking the city
 ratingProveedor: 4.7
 numeroOpiniones: 2170
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

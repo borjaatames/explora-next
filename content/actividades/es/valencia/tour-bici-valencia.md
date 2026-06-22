@@ -58,7 +58,7 @@ galeria:
     alt: "Grupo en bicicleta frente a la Ciudad de las Artes y las Ciencias de Valencia"
 ratingProveedor: 4.7
 numeroOpiniones: 289
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

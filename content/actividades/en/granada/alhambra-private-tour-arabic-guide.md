@@ -139,7 +139,7 @@ galeria:
   alt: Granada street view with historic architecture and traditional buildings
 ratingProveedor: 4.7
 numeroOpiniones: 170
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

@@ -57,7 +57,7 @@ galeria:
     alt: "Two-tone arches and forest of columns of the Mosque-Cathedral of Córdoba"
 ratingProveedor: 4.4
 numeroOpiniones: 386
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

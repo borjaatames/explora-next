@@ -117,7 +117,7 @@ galeria:
     montañosa
 ratingProveedor: 4.5
 numeroOpiniones: 52
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

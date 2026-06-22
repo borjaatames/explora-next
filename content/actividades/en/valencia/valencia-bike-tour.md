@@ -58,7 +58,7 @@ galeria:
     alt: "Group cycling in front of the City of Arts and Sciences in Valencia"
 ratingProveedor: 4.7
 numeroOpiniones: 289
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

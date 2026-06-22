@@ -110,7 +110,7 @@ galeria:
   alt: Niños y maestros observan pintura abstracta en el Museo Reina Sofía de Madrid
 ratingProveedor: 4.2
 numeroOpiniones: 212
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

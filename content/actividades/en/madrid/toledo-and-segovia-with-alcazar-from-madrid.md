@@ -144,7 +144,7 @@ galeria:
   alt: Ornate wooden door with metal hinges on Toledo's new northern facade
 ratingProveedor: 4.5
 numeroOpiniones: 856
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 atraccionesRelacionadas:

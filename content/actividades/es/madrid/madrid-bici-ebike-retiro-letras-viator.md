@@ -123,7 +123,7 @@ galeria:
   alt: Vistas panorámicas de Madrid con sus principales monumentos y edificios emblemáticos
 ratingProveedor: 5.0
 numeroOpiniones: 5
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

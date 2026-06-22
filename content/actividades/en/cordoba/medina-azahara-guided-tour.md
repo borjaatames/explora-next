@@ -57,7 +57,7 @@ galeria:
     alt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
 ratingProveedor: 4.9
 numeroOpiniones: 244
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

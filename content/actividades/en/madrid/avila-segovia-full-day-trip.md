@@ -129,7 +129,7 @@ galeria:
   alt: Alcázar of Segovia castle with white stone towers and crenellated walls against blue sky
 ratingProveedor: 4.9
 numeroOpiniones: 1163
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

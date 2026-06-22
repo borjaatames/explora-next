@@ -156,7 +156,7 @@ galeria:
   alt: Apse of Christ of the Light Mosque in Toledo with ornate Islamic geometric patterns and arches
 ratingProveedor: 4.6
 numeroOpiniones: 4637
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 atraccionesRelacionadas:

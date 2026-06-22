@@ -129,7 +129,7 @@ galeria:
   alt: Alcázar de Segovia, fortaleza medieval con torres puntiagudas sobre colina rocosa en Castilla y León
 ratingProveedor: 4.6
 numeroOpiniones: 247
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

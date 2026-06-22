@@ -118,7 +118,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 549
 
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-02"
 slugs:

@@ -58,7 +58,7 @@ galeria:
     alt: "Calleja de las Flores de la Judería de Córdoba con la torre de la Mezquita al fondo"
 ratingProveedor: 4.5
 numeroOpiniones: 55
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

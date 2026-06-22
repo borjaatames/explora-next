@@ -54,7 +54,7 @@ galeria:
     alt: "Courtyard of the Buenavista Palace, home of the Picasso Museum in Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 40
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

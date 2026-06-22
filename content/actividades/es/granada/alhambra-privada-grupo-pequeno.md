@@ -135,7 +135,7 @@ galeria:
   alt: 'Granada: vista panorámica de la ciudad con la Alhambra al atardecer'
 ratingProveedor: 4.6
 numeroOpiniones: 925
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

@@ -144,7 +144,7 @@ galeria:
   alt: Panorámica de Toledo con sus monumentos históricos y arquitectura medieval
 ratingProveedor: 4.8
 numeroOpiniones: 9118
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-05'
 atraccionesRelacionadas:

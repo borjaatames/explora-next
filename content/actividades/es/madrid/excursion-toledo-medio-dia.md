@@ -130,7 +130,7 @@ galeria:
   alt: Interior de la Catedral de Toledo con bóvedas góticas y luz natural destacando arquitectura religiosa medieval
 ratingProveedor: 4.5
 numeroOpiniones: 6033
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-05'
 atraccionesRelacionadas:

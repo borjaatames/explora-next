@@ -133,7 +133,7 @@ galeria:
   alt: Granada cityscape with historic architecture and mountain backdrop
 ratingProveedor: 4.6
 numeroOpiniones: 925
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

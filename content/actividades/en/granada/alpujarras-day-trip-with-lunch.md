@@ -100,7 +100,7 @@ galeria:
   alt: Panoramic view of white villages nestled in Granada's Alpujarra mountains with terraced slopes
 ratingProveedor: 4.6
 numeroOpiniones: 138
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

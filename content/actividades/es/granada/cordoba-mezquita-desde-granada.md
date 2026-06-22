@@ -111,7 +111,7 @@ galeria:
   alt: Puente Romano de Córdoba sobre el Guadalquivir con la ciudad histórica al fondo
 ratingProveedor: 4.6
 numeroOpiniones: 67
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

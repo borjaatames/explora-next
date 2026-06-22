@@ -57,7 +57,7 @@ galeria:
     alt: "The Caminito del Rey walkway hung in the Gaitanes gorge, Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 726
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

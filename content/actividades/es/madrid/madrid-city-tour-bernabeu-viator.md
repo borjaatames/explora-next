@@ -140,7 +140,7 @@ galeria:
   alt: Vistas panorámicas de Madrid con edificios históricos y modernos al atardecer
 ratingProveedor: 3.3
 numeroOpiniones: 132
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

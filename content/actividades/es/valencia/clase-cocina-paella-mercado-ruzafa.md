@@ -55,7 +55,7 @@ galeria:
     alt: "Paella valenciana cocinándose sobre el fuego en una clase de cocina en Valencia"
 ratingProveedor: 4.97
 numeroOpiniones: 1005
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

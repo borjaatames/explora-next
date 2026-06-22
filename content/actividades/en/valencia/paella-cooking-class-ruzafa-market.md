@@ -55,7 +55,7 @@ galeria:
     alt: "Valencian paella cooking over the fire in a cooking class in Valencia"
 ratingProveedor: 4.97
 numeroOpiniones: 1005
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

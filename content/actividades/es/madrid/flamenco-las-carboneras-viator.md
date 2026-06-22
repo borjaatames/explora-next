@@ -119,7 +119,7 @@ galeria:
   alt: Vista panorámica de Madrid con edificios históricos y modernos bajo cielo despejado
 ratingProveedor: 4.7
 numeroOpiniones: 23
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

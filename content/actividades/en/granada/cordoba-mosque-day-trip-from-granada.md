@@ -110,7 +110,7 @@ galeria:
   alt: Roman Bridge spanning Guadalquivir River with Córdoba cityscape in background, showcasing historic geography
 ratingProveedor: 4.6
 numeroOpiniones: 67
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

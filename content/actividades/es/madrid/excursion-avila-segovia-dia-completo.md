@@ -129,7 +129,7 @@ galeria:
   alt: Alcázar de Segovia, fortaleza medieval con torres y murallas en Castilla, España
 ratingProveedor: 4.9
 numeroOpiniones: 1163
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

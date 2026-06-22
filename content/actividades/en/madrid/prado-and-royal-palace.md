@@ -115,7 +115,7 @@ galeria:
   alt: Equestrian statue at Royal Palace of Madrid entrance with ornate architecture
 ratingProveedor: 4.5
 numeroOpiniones: 1405
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-02'
 fecha_actualizacion: '2026-05-04'

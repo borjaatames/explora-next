@@ -122,7 +122,7 @@ galeria:
   alt: Wanda Metropolitano stadium exterior in Madrid, Spain
 ratingProveedor: 4.4
 numeroOpiniones: 188
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

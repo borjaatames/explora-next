@@ -146,7 +146,7 @@ galeria:
   alt: Puerta con bisagra en la nueva fachada septentrional de Toledo
 ratingProveedor: 4.5
 numeroOpiniones: 856
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-05-06'

@@ -57,7 +57,7 @@ galeria:
     alt: "Arcos bicolor y bosque de columnas de la Mezquita-Catedral de Córdoba"
 ratingProveedor: 4.4
 numeroOpiniones: 386
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

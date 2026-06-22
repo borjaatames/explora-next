@@ -130,7 +130,7 @@ galeria:
   alt: Panorámica de Madrid con edificios históricos y cielo azul
 ratingProveedor: 4.2
 numeroOpiniones: 497
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

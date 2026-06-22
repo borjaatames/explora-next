@@ -147,7 +147,7 @@ galeria:
   alt: 'Toledo: vista panorámica de la ciudad medieval con catedrales y arquitectura histórica al atardecer'
 ratingProveedor: 4.9
 numeroOpiniones: 2658
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-05-06'

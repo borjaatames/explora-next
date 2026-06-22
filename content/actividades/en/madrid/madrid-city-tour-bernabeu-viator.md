@@ -135,7 +135,7 @@ galeria:
   alt: Madrid cityscape with historic landmarks and urban architecture
 ratingProveedor: 3.3
 numeroOpiniones: 132
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

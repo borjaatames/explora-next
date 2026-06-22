@@ -100,7 +100,7 @@ galeria:
   alt: Panorámica de pueblos blancos de Las Alpujarras rodeados de montañas desde un mirador en Granada
 ratingProveedor: 4.6
 numeroOpiniones: 138
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

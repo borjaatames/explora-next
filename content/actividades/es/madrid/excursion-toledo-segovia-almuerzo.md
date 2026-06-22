@@ -158,7 +158,7 @@ galeria:
   alt: Ábside de la Mezquita de Cristo de la Luz en Toledo, iluminado por luz natural
 ratingProveedor: 4.6
 numeroOpiniones: 4637
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-05-06'

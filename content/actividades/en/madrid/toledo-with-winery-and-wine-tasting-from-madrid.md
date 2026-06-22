@@ -145,7 +145,7 @@ galeria:
   alt: Toledo's historic skyline with cathedral and medieval architecture at sunset
 ratingProveedor: 4.9
 numeroOpiniones: 2658
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 atraccionesRelacionadas:

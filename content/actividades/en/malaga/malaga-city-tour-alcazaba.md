@@ -55,7 +55,7 @@ galeria:
     alt: "Walls and gardens of the Alcazaba of Málaga with the port behind"
 ratingProveedor: 4.9
 numeroOpiniones: 7
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---

@@ -123,7 +123,7 @@ galeria:
   alt: Plaza Mayor de Madrid con edificios históricos y turistas disfrutando del espacio público
 ratingProveedor: 4.2
 numeroOpiniones: 452
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

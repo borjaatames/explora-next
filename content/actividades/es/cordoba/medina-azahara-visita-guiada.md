@@ -57,7 +57,7 @@ galeria:
     alt: "Arcos restaurados del Salón Rico de Medina Azahara cerca de Córdoba"
 ratingProveedor: 4.9
 numeroOpiniones: 244
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

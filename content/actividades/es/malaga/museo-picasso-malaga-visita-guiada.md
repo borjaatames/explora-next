@@ -54,7 +54,7 @@ galeria:
     alt: "Patio del Palacio de Buenavista, sede del Museo Picasso de Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 40
-publicada: true
+publicada: false
 destacada: false
 fecha: "2026-05-21"
 ---

@@ -117,7 +117,7 @@ galeria:
   alt: Picos nevados de Sierra Nevada desde vista aérea mostrando desniveles y altitud sobre Granada
 ratingProveedor: 4.9
 numeroOpiniones: 95
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

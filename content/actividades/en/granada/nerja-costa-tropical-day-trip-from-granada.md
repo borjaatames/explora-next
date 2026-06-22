@@ -116,7 +116,7 @@ galeria:
   alt: Entrance to Nerja Caves with Mediterranean vegetation, stone pathway, and mountain backdrop in Granada
 ratingProveedor: 4.5
 numeroOpiniones: 52
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

@@ -114,7 +114,7 @@ galeria:
   alt: Cala con arena blanca, agua turquesa del Mediterráneo y acantilados rocosos al fondo cerca de Nerja
 ratingProveedor: 4.7
 numeroOpiniones: 27
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

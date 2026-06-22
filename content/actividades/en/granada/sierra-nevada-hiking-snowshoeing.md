@@ -119,7 +119,7 @@ galeria:
   alt: Snow-capped peaks of Sierra Nevada mountain range above Granada, showing dramatic elevation and rugged alpine terrain
 ratingProveedor: 4.9
 numeroOpiniones: 95
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'

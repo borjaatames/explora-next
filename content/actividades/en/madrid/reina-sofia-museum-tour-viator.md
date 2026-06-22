@@ -109,7 +109,7 @@ galeria:
   alt: Children and teachers observing abstract painting at Museo Reina Sofía in Madrid
 ratingProveedor: 4.2
 numeroOpiniones: 212
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

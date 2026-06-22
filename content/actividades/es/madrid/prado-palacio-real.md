@@ -116,7 +116,7 @@ galeria:
   alt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
 ratingProveedor: 4.5
 numeroOpiniones: 1405
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-02'
 slugs:

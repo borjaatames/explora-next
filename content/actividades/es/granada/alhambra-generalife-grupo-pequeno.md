@@ -143,7 +143,7 @@ galeria:
   alt: Vista panorámica de Granada con la Alhambra al atardecer, montañas al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 3183
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:

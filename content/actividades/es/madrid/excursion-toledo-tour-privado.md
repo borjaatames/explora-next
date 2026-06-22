@@ -139,7 +139,7 @@ galeria:
   alt: Vistas de Toledo con sus monumentos y arquitectura histórica medieval
 ratingProveedor: 5.0
 numeroOpiniones: 660
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-06'
 atraccionesRelacionadas:

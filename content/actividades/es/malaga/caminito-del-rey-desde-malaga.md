@@ -57,7 +57,7 @@ galeria:
     alt: "Pasarela del Caminito del Rey colgada en el desfiladero de los Gaitanes, Málaga"
 ratingProveedor: 4.8
 numeroOpiniones: 726
-publicada: true
+publicada: false
 destacada: true
 fecha: "2026-05-21"
 ---
