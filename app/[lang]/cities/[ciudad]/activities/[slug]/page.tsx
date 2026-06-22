@@ -248,7 +248,7 @@ export default async function ActividadPage({ params }: Props) {
       <section className="max-w-6xl mx-auto px-4 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2 space-y-12">
-            <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} conLogo />
+            <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} />
 
             {/* 1. Galería con sello "Recomendado" */}
             {actividad.imagen && (
@@ -478,6 +478,9 @@ export default async function ActividadPage({ params }: Props) {
                 textoCancelacionGratuita={dict.actividades.cancelacionGratuita}
               />
               )}
+              <div className="mt-3 flex justify-center">
+                <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} conLogo />
+              </div>
             </div>
           </aside>
         </div>
