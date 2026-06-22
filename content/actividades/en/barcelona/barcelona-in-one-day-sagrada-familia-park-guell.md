@@ -24,14 +24,15 @@ highlights:
 - 'The highest-rated activity: 4.9 out of 5 with over 15,000 reviews'
 - Walking tour of the Gothic Quarter and panoramic views from Montjuïc
 incluye:
-- Skip-the-line entry to the Sagrada Familia and Park Güell
+- Skip-the-line entry and an exterior guided visit to the Sagrada Familia
+- Skip-the-line entry to Park Güell
 - Guided walking tour of the Gothic Quarter and panoramic views from Montjuïc
 - Private transport throughout the tour
 - Professional guide
 noIncluye:
 - Hotel pickup and drop-off (this activity has a meeting point, not pickup)
 - Food (there's an hour for lunch between Park Güell and the Sagrada Familia)
-- A guided visit inside the monuments (you explore the interiors on your own with the ticket)
+- A guided visit inside the basilica (the guided visit of the Sagrada Familia is exterior only; you explore the interior on your own with the ticket)
 - Tower access at the Sagrada Familia
 puntoEncuentro:
   texto: 'Meeting point: La Rambla 97 (next to the «Casa Beethoven» music store), Barcelona'
@@ -51,7 +52,7 @@ informacionImportante:
   noAptoPara:
   - Anyone wanting only the interior visit of the Sagrada Familia without the city tour
   aTenerEnCuenta:
-  - 'Skip-the-line entry to the Sagrada Familia and Park Güell is INCLUDED; you explore the interiors on your own with the ticket (the Sagrada Familia with an audio-guide app), the guide does not go in with you'
+  - 'Skip-the-line entry to the Sagrada Familia and Park Güell is INCLUDED, plus an exterior guided visit of the Sagrada Familia; you explore the interiors on your own with the ticket (the Sagrada Familia with an audio-guide app), the guide does not go inside with you'
   - 'It''s a meeting-point tour (La Rambla 97, 9:00 a.m.), not hotel pickup; it ends at the Sagrada Familia'
   - It's a long day, around 7 hours, in a small group
   - 'Sagrada Familia entry is nominative: keep every participant''s ID document to hand'
@@ -60,7 +61,7 @@ politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours
   is no refund.
 preguntasFrecuentes:
 - pregunta: Is entry to the Sagrada Familia and Park Güell included?
-  respuesta: 'Yes. The price includes skip-the-line entry to the Sagrada Familia and Park Güell. You explore the interiors on your own with the ticket — the Sagrada Familia with an audio-guide app — while the guide handles the city part (Gothic Quarter, Montjuïc) but does not go inside the monuments with you.'
+  respuesta: 'Yes. The price includes skip-the-line entry to the Sagrada Familia and Park Güell, plus an exterior guided visit of the Sagrada Familia. You explore the interiors on your own with the ticket — the Sagrada Familia with an audio-guide app — while the guide handles the city part (Gothic Quarter, Montjuïc) and the exterior visit of the basilica, but does not go inside the monuments with you.'
 - pregunta: Is there hotel pickup?
   respuesta: 'No. This is a meeting-point tour at La Rambla 97, next to the «Casa Beethoven» store, at 9:00 a.m.; arrive 10 minutes early for check-in. The route ends at the Sagrada Familia.'
 - pregunta: What language is the tour in?
@@ -150,21 +151,19 @@ bokunProductId: 674376
 fecha_actualizacion: '2026-06-22'
 ---
 
-> **Note:** this experience is conducted in English.
-
 ## What you'll see
 
 The day covers the most recognisable parts of Barcelona and ends at the Sagrada Familia, with skip-the-line entry to the basilica and Park Güell included.
 
 - **Montjuïc (about 2 h in the area):** the hill with panoramic views over the city and the sea. You pass Plaça d'Espanya, the MNAC, the Olympic Stadium and the castle, with a stop at a viewpoint for photos.
 - **Las Ramblas and the Gothic Quarter (a walk of about 2 h):** the medieval streets, the Cathedral, Plaça del Rei and the squares where Barcelona began, with a glimpse of Las Ramblas and Barceloneta on the way.
-- **Passeig de Gràcia, Park Güell and the Sagrada Familia:** the modernist avenue with Casa Batlló and La Pedrera (seen from the vehicle), Park Güell, and as the finale the Sagrada Familia — you enter both with the included ticket and explore them on your own.
+- **Passeig de Gràcia, Park Güell and the Sagrada Familia:** the modernist avenue with Casa Batlló and La Pedrera (seen from the vehicle), Park Güell, and as the finale the Sagrada Familia — one of Barcelona's most important churches and a perfect example of Catalan Gothic religious architecture. It includes skip-the-line entry and an exterior guided visit; you enter the interior of both monuments with the included ticket and explore them on your own.
 
 ## How it works
 
 The meeting point is **La Rambla 97**, next to the «Casa Beethoven» music store, at **9:00 a.m.** — arrive 10 minutes early for check-in. The day is on foot and with **private transport on some legs**, in a **small group**, and ends at the Sagrada Familia. There is no hotel pickup.
 
-The entries are included: **skip-the-line entry to the Sagrada Familia and Park Güell**. You explore the interiors **on your own** with the ticket — the Sagrada Familia with an audio-guide app; the guide accompanies you on the city part (Gothic Quarter, Montjuïc) and hands you the tickets, but doesn't go inside the monuments with you. There's an hour for lunch between Park Güell and the Sagrada Familia. Sagrada Familia entry is nominative: details are requested at booking and the document is shown at the entrance.
+The entries are included: **skip-the-line entry to the Sagrada Familia and Park Güell**, plus an **exterior guided visit of the Sagrada Familia**. You explore the interiors **on your own** with the ticket — the Sagrada Familia with an audio-guide app; the guide accompanies you on the city part (Gothic Quarter, Montjuïc) and the exterior of the basilica, but doesn't go inside the monuments with you. There's an hour for lunch between Park Güell and the Sagrada Familia. Sagrada Familia entry is nominative: details are requested at booking and the document is shown at the entrance.
 
 ## Who I'd recommend it to
 
