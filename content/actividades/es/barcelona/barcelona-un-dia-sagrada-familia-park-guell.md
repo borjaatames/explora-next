@@ -22,7 +22,7 @@ highlights:
 - 'Día completo: Montjuïc, casco antiguo, Sagrada Familia y Park Güell en una sola reserva'
 - Recogida y regreso en tu hotel de Barcelona, en vehículo con aire acondicionado
 - Grupo reducido de máximo 16 personas con guía local
-- 'La actividad mejor valorada: 4,9 sobre 5 con casi 15.000 reseñas'
+- 'La actividad mejor valorada: 4,9 sobre 5 con más de 15.000 reseñas'
 - Tour a pie por el barrio gótico y vistas panorámicas desde Montjuïc
 incluye:
 - Recogida y regreso en tu hotel de Barcelona (entre las 8 y las 9 de la mañana)
@@ -89,7 +89,7 @@ variantes:
 opinionEditorial: 'Es el «todo en un día» de Barcelona: te recogen en el hotel a primera hora y, en 8 horas, ves Montjuïc,
   el casco antiguo, el barrio gótico, Passeig de Gràcia, la Sagrada Familia y el Park Güell, con transporte y guía. Para quien
   aterriza con un día y quiere exprimirlo sin organizar nada, funciona —y la nota lo respalda como pocas: 4,9 sobre 5 con
-  casi 15.000 reseñas, la más alta—.
+  más de 15.000 reseñas, la más alta—.
 
 
   Pero hay que entender qué se compra. Lo primero, y donde más gente se lleva un susto: **las entradas a la Sagrada Familia
@@ -110,7 +110,7 @@ keywords:
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
 imagenAlt: Vistas panorámicas de Barcelona con arquitectura modernista y mar Mediterráneo al fondo
 ratingProveedor: 4.9
-numeroOpiniones: 14863
+numeroOpiniones: 15762
 publicada: true
 destacada: false
 fecha: '2026-05-15'

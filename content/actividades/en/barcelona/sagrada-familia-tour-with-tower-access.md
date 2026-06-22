@@ -102,7 +102,7 @@ keywords:
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: Barcelona cityscape with modern architecture and Mediterranean skyline
 ratingProveedor: 4.4
-numeroOpiniones: 5238
+numeroOpiniones: 5518
 publicada: true
 destacada: false
 fecha: '2026-05-15'

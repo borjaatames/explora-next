@@ -23,7 +23,7 @@ highlights:
 - Audioguía incluida en el precio, disponible en 16 idiomas
 - Acceso a la basílica con franja horaria confirmada, también cuando la web oficial está agotada
 - Cancelación gratuita con reembolso íntegro hasta 2 días antes
-- 'Más de 110.000 reseñas: uno de los productos con más volumen de la Sagrada Familia'
+- 'Más de 113.000 reseñas: uno de los productos con más volumen de la Sagrada Familia'
 incluye:
 - Ticket de acceso a la Sagrada Familia con franja horaria
 - Audioguía en app descargable (gratuita, 16 idiomas)
@@ -84,7 +84,7 @@ preguntasFrecuentes:
 variantes: []
 opinionEditorial: 'Es la forma más sencilla y económica de entrar a la Sagrada Familia: el acceso a la basílica con audioguía,
   a tu ritmo, sin depender de un grupo ni del horario de un guía. Por 34 € entras a ver lo que de verdad impresiona —las columnas
-  arborescentes y las vidrieras—, que se aprecia igual sin guía en persona. Más de 110.000 reseñas y un 4,6 respaldan que
+  arborescentes y las vidrieras—, que se aprecia igual sin guía en persona. Más de 113.000 reseñas y un 4,6 respaldan que
   es un producto rodado.
 
 
@@ -106,7 +106,7 @@ keywords:
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
 imagenAlt: Vistas panorámicas de Barcelona con arquitectura gótica y moderna bajo cielo despejado
 ratingProveedor: 4.6
-numeroOpiniones: 110558
+numeroOpiniones: 113748
 publicada: true
 destacada: false
 fecha: '2026-05-15'

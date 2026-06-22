@@ -103,7 +103,7 @@ keywords:
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
 imagenAlt: Park Güell con arquitectura modernista de Gaudí, terrazas y mosaicos coloridos en Barcelona
 ratingProveedor: 4.8
-numeroOpiniones: 6701
+numeroOpiniones: 6776
 publicada: true
 destacada: false
 fecha: '2026-05-15'

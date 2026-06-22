@@ -23,7 +23,7 @@ highlights:
 - Audio guide included in the price, available in 16 languages
 - Access to the basilica with a confirmed time slot, even when the official website is sold out
 - Free cancellation with a full refund up to 2 days before
-- 'Over 110,000 reviews: one of the highest-volume Sagrada Familia products'
+- 'Over 113,000 reviews: one of the highest-volume Sagrada Familia products'
 incluye:
 - Skip-the-line entry to the Sagrada Familia with a time slot
 - Audio guide via a downloadable app (free, 16 languages)
@@ -84,7 +84,7 @@ preguntasFrecuentes:
 variantes: []
 opinionEditorial: 'This is the simplest, cheapest way into the Sagrada Familia: access to the basilica with an audio guide,
   at your own pace, without depending on a group or a guide''s schedule. For €34 you get in to see what genuinely impresses
-  — the tree-like columns and the stained glass — which lands just as well without an in-person guide. Over 110,000 reviews
+  — the tree-like columns and the stained glass — which lands just as well without an in-person guide. Over 113,000 reviews
   and a 4.6 back it up as a well-oiled product.
 
 
@@ -106,7 +106,7 @@ keywords:
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
 imagenAlt: Barcelona cityscape with historic architecture and urban landmarks
 ratingProveedor: 4.6
-numeroOpiniones: 110558
+numeroOpiniones: 113748
 publicada: true
 destacada: false
 fecha: '2026-05-15'

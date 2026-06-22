@@ -102,7 +102,7 @@ keywords:
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp"
 imagenAlt: Park Güell's colorful mosaic terraces and Gaudí's whimsical architecture in Barcelona
 ratingProveedor: 4.8
-numeroOpiniones: 6701
+numeroOpiniones: 6776
 publicada: true
 destacada: false
 fecha: '2026-05-15'

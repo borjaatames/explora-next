@@ -103,7 +103,7 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
 imagenAlt: 'Barcelona: vista panorámica de la ciudad con arquitectura moderna y antigua mezcladas entre edificios y horizonte
   urbano'
 ratingProveedor: 4.4
-numeroOpiniones: 5238
+numeroOpiniones: 5518
 publicada: true
 destacada: false
 fecha: '2026-05-15'
