@@ -61,4 +61,6 @@ Girona is a mid-sized city in north-eastern Catalonia —around 105,000 people�
 
 Its crown is the **Cathedral**, with the widest Gothic nave in the world, atop a monumental staircase many will recognise from *Game of Thrones*. Around it sit **El Call** —one of the best-preserved medieval Jewish quarters in Europe—, the **Arab Baths**, the monastery of Sant Pere and the walk along the Carolingian **walls**. And below, the famous **colourful Oñar houses** reflected in the river.
 
-Girona is seen well in **one or two days** and pairs beautifully with the **Costa Brava** (Cadaqués, coves, medieval villages) and with the **Dalí Theatre-Museum** in Figueres, half an hour away. It's also a top-tier gastronomic ca
+Girona is seen well in **one or two days** and pairs beautifully with the **Costa Brava** (Cadaqués, coves, medieval villages) and with the **Dalí Theatre-Museum** in Figueres, half an hour away. It's also a top-tier gastronomic capital.
+
+The best time to visit is **spring and autumn**; in May the city fills with flowers during the Temps de Flors festival.

@@ -63,4 +63,4 @@ From that splendour comes its jewel, the **Mosque-Cathedral**, one of the most i
 
 Córdoba is also lived through its **patios**: houses with whitewashed courtyards crammed with flowerpots, an Intangible Cultural Heritage, opened to the public during May's Patio Festival. The city is compact and seen well **in one or two days**, which makes it a classic day trip from Seville, Madrid or Granada —though it's worth staying overnight.
 
-The best time to visit is **
+The best time to visit is **spring** (April-June), with the patios in bloom and mild temperatures; Córdoba's summer is one of the hottest in Spain, often hitting 40 °C in July and August.

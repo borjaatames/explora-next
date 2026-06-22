@@ -176,4 +176,3 @@ Sobre la torre, lee la letra pequeña antes de reservar: la **subida es una opci
 - Si vas con niños menores de 6 años y la torre es el motivo: no podrán subir.
 
 Nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar) tiene un apartado sobre qué torre subir y cómo aprovechar la visita.
-                                                                                                                                                                                                                                                                                                                                                   

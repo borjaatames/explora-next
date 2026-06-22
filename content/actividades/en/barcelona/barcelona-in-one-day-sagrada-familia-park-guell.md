@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: Are entry tickets to the Sagrada Familia and Park Güell included?
   respuesta: 'Not in the base price. They''re paid separately to the guide: €44 per person for both. The exception is the
     «private» option, which does include the tickets. It''s the most common confusion in the reviews, so be clear before booking:
-    the real cost, except for the private option, is €99.47 plus €44.'
+    the real cost, except for the private option, is the tour price plus €44 per person for tickets.'
 - pregunta: Does the guide go into the monuments with me?
   respuesta: 'No. The guide accompanies you through the day, explains on the way and walks you to the door, but at the Sagrada
     Familia and Park Güell you go in on your own with the ticket. The guided part is the route through the city: Montjuïc,
@@ -175,9 +175,9 @@ fecha_actualizacion: '2026-06-18'
 
 The day covers the most recognisable parts of Barcelona, with the Sagrada Familia and Park Güell as the finale.
 
-- **Montjuïc:** the hill with panoramic views over the city and the sea, and the sites linked to the 1992 Olympics.
-- **The old town and the Gothic Quarter:** a walking route through the medieval streets, the cathedral and the squares where Barcelona began.
-- **Passeig de Gràcia, the Sagrada Familia and Park Güell:** the modernist avenue and Gaudí's two UNESCO World Heritage works, with time at each.
+- **Montjuïc (about 2 h in the area):** the hill with panoramic views over the city and the sea. You pass Plaça d'Espanya, the MNAC, the Olympic Stadium and the castle, with a stop at a viewpoint for photos.
+- **Las Ramblas and the Gothic Quarter (a walk of about 2 h):** the medieval streets, the Cathedral, Plaça del Rei and the squares where Barcelona began, with a glimpse of Las Ramblas and Barceloneta on the way.
+- **Passeig de Gràcia, the Sagrada Familia and Park Güell:** the modernist avenue with Casa Batlló and La Pedrera, and the finale with Gaudí's two UNESCO World Heritage works — about 90 minutes at each.
 
 ## How it works
 
@@ -190,4 +190,13 @@ Sagrada Familia entry is nominative: details are requested at booking and the do
 ## Who I'd recommend it to
 
 - If you have a single day in Barcelona and want to see the most without organising anything.
-- If you value the comfort of hotel pickup and transport be
+- If you value the comfort of hotel pickup and transport between points.
+- If you want a guide who gives you context for the whole city, not just one monument.
+- If you're travelling with kids: child seats are available and the pace mixes driving and walking (under-5s enter the Sagrada Familia free).
+
+## Who I would NOT recommend it to
+
+- If your priority is the Sagrada Familia explained from inside: here the guide doesn't go in with you, it's a city tour that passes by it.
+- If you need wheelchair accessibility: the operator states the tour is not adapted.
+- If you'd rather not pay entry separately: unless you book the private option, it's €44 per person paid to the guide during the day.
+- If you want a relaxed day: it's around 8 hours with a lot of moving and walking.

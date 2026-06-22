@@ -44,4 +44,4 @@ Palma revolves around its **Cathedral (La Seu)**, Gothic and right on the sea, w
 
 Mallorca is worth a week, but in **two or three days** you can see the essentials of Palma and a foray into the Tramuntana or the caves. There are constant flights and ferries from the mainland.
 
-T
+The best time to visit is **May to June and September to October**: good weather, warm sea and fewer crowds than in peak August.

@@ -39,4 +39,6 @@ Alicante es la capital de la Costa Blanca y la segunda ciudad de la Comunidad Va
 
 Su imagen es el **Castillo de Santa Bárbara**, una de las fortalezas medievales más grandes de España, sobre el monte Benacantil y con vistas de 360 grados a la bahía. A sus pies, el casco antiguo del **barrio de Santa Cruz**, la **Explanada de España** con su mosaico ondulado, y la **Playa del Postiguet** a un paso del centro.
 
-Desde el puerto sale el barco a la **Isla de Tabarca**, reserva marina y única isla habitada de la Comunidad. Y alrededor se abre toda la **Costa Blanca**: Benidorm y sus parques, Altea, Calpe, Jávea y el pueblo de interior de Guadalest. La ciudad se ve en **uno o dos días** y es base ideal para la provincia
+Desde el puerto sale el barco a la **Isla de Tabarca**, reserva marina y única isla habitada de la Comunidad. Y alrededor se abre toda la **Costa Blanca**: Benidorm y sus parques, Altea, Calpe, Jávea y el pueblo de interior de Guadalest. La ciudad se ve en **uno o dos días** y es base ideal para la provincia.
+
+La mejor época es de **primavera a otoño**, aunque su clima suave la hace agradable casi todo el año; en junio, las **Hogueras de San Juan** son su gran fiesta.

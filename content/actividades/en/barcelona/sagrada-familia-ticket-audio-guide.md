@@ -179,4 +179,4 @@ Entry is **nominative**: bring your ID. The Sagrada Familia is an active church 
 - If you travel without a smartphone or tend to run out of battery: the audio guide depends on your phone; without it, you have no narration.
 - If you need to be able to cancel with less than 48 hours' notice: the window here is 2 days, not 24 hours.
 
-Before booking, I'd recommend reading our
+Before booking, I'd recommend reading our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit), which covers timings, dress code and the typical mistakes.

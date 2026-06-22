@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: ¿Las entradas a la Sagrada Familia y al Park Güell están incluidas?
   respuesta: 'No en el precio base. Se pagan aparte al guía: 44 € por persona por las dos. La excepción es la opción «privada»,
     que sí incluye las entradas. Es la confusión más habitual en las reseñas, así que tenlo claro antes de reservar: el coste
-    real, salvo opción privada, es 99,47 € más 44 €.'
+    real, salvo opción privada, es el precio del tour más 44 € por persona de entradas.'
 - pregunta: ¿El guía entra conmigo a los monumentos?
   respuesta: 'No. El guía te acompaña durante el día, explica en el trayecto y te lleva hasta la puerta, pero en la Sagrada
     Familia y el Park Güell entras por tu cuenta con la entrada. La parte guiada es el recorrido por la ciudad: Montjuïc,
@@ -174,9 +174,9 @@ fecha_actualizacion: '2026-06-18'
 
 El día recorre lo más reconocible de Barcelona, con la Sagrada Familia y el Park Güell como cierre.
 
-- **Montjuïc:** la colina con vistas panorámicas de la ciudad y el mar, y los escenarios de los Juegos Olímpicos del 92.
-- **El casco antiguo y el barrio gótico:** un recorrido a pie por las calles medievales, la catedral y las plazas donde empezó Barcelona.
-- **Passeig de Gràcia, Sagrada Familia y Park Güell:** la avenida modernista y las dos obras de Gaudí declaradas Patrimonio de la Humanidad, con tiempo en cada una.
+- **Montjuïc (unas 2 h en la zona):** la colina con vistas panorámicas de la ciudad y el mar. Se pasa por la Plaça d'Espanya, el MNAC, el Estadi Olímpic y el castillo, con parada en un mirador para las fotos.
+- **Las Ramblas y el barrio gótico (paseo a pie de unas 2 h):** las calles medievales, la Catedral, la Plaça del Rei y las plazas donde empezó Barcelona, con un vistazo a Las Ramblas y la Barceloneta de camino.
+- **Passeig de Gràcia, Sagrada Familia y Park Güell:** la avenida modernista con la Casa Batlló y La Pedrera, y el cierre con las dos obras de Gaudí Patrimonio de la Humanidad —unos 90 minutos en cada una—.
 
 ## Cómo funciona
 
@@ -191,4 +191,11 @@ La entrada a la Sagrada Familia es nominativa: los datos se piden al reservar y 
 - Si tienes un solo día en Barcelona y quieres ver lo máximo sin organizar nada.
 - Si valoras la comodidad de la recogida en el hotel y el transporte entre puntos.
 - Si quieres un guía que te dé contexto de la ciudad entera, no solo de un monumento.
-- Si 
+- Si viajas con niños: hay sillas infantiles disponibles y el ritmo combina coche y paseo (los menores de 5 años entran gratis a la Sagrada Familia).
+
+## A quién NO se lo recomiendo
+
+- Si tu prioridad es la Sagrada Familia explicada por dentro: aquí el guía no entra contigo, es un tour de ciudad que pasa por ella.
+- Si necesitas accesibilidad en silla de ruedas: el operador indica que el tour no está adaptado.
+- Si prefieres no pagar las entradas aparte: salvo la opción privada, son 44 € por persona que se abonan al guía durante el día.
+- Si buscas un día tranquilo: son unas 8 horas con bastante desplazamiento y caminata.

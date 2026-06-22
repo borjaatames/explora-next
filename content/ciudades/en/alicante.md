@@ -44,4 +44,4 @@ Its signature image is **Santa Bárbara Castle**, one of the largest medieval fo
 
 From the port, a boat sails to **Tabarca Island**, a marine reserve and the only inhabited island in the Community. And all around opens the **Costa Blanca**: Benidorm and its theme parks, Altea, Calpe, Jávea and the inland village of Guadalest. The city is seen in **one or two days** and is an ideal base for the province.
 
-The best time to v
+The best time to visit is **spring to autumn**, though its mild climate makes it pleasant almost year-round; in June, the **Bonfires of Saint John** are its great festival.

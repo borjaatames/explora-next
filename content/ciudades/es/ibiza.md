@@ -60,4 +60,4 @@ El corazón patrimonial es **Dalt Vila**, la ciudad alta amurallada, con sus mur
 
 A media hora en ferry está **Formentera**, con sus playas de agua caribeña, la excursión imprescindible. Y luego está la otra Ibiza: la de **San Antonio** y sus atardeceres, las fiestas en barco y las discotecas más famosas del planeta —Pacha, Ushuaïa, Amnesia—. La isla se ve en **dos o tres días**, combinando ambas caras.
 
-La mejor época depende de lo que busques: **mayo
+La mejor época depende de lo que busques: **mayo, junio y septiembre** para playa y tranquilidad; **julio y agosto** para el ocio a tope (y los precios más altos).

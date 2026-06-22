@@ -177,4 +177,6 @@ La entrada es **nominativa**: das los datos de todos los participantes al reserv
 - Si quieres que un guía oficial te explique el simbolismo en directo: esta opción es autoguiada. Para eso están las visitas guiadas.
 - Si quieres subir a una torre: aquí es un extra de pago aparte. Mira las opciones «con torres».
 - Si viajas sin smartphone o sueles quedarte sin batería: la audioguía depende de tu móvil; sin él, te quedas sin narración.
-- Si n
+- Si necesitas poder cancelar con menos de 48 horas de antelación: aquí la ventana es de 2 días, no de 24 horas.
+
+Antes de reservar, te recomiendo leer nuestra guía [Sagrada Familia: cómo visitarla bien](/guias/barcelona/sagrada-familia-como-visitar), que explica horarios, código de vestimenta y los errores típicos.

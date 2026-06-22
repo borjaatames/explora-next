@@ -44,4 +44,4 @@ Its star monument is the **Roman Amphitheatre**, overlooking the sea, but the wh
 
 A few kilometres away, in Salou, is **PortAventura World**, one of the largest theme parks in Europe with Ferrari Land, the coast's big family draw. Tarragona is seen well in **one or two days** and combines history, beach and leisure.
 
-The best time to visit is **spring and autumn**; summer ad
+The best time to visit is **spring and autumn**; summer adds the Costa Daurada beaches, and every two years the city holds the **castells** competition (human towers), an Intangible Cultural Heritage.

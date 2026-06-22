@@ -41,4 +41,4 @@ Su **casco antiguo** es compacto y se recorre a pie: la **Catedral** frente al A
 
 Cádiz es además base perfecta para la provincia: a media hora, **Jerez de la Frontera** (vino, flamenco y caballos); más al sur, **Tarifa** y las grandes playas de viento de la **Costa de la Luz**, con África al otro lado del Estrecho. La ciudad se ve bien en **uno o dos días**.
 
-La mejor época es la *
+La mejor época es la **primavera y el otoño**; en febrero, el **Carnaval de Cádiz** es uno de los más famosos del mundo, pero llena la ciudad por completo.

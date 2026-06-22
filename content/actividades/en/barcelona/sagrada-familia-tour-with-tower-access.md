@@ -175,4 +175,3 @@ About the tower, read the small print before booking: the **climb is an option**
 - If you're travelling with children under 6 and the tower is the reason: they won't be able to go up.
 
 Our guide [Sagrada Familia: how to visit it well](/en/guides/barcelona/sagrada-familia-how-to-visit) has a section on which tower to climb and how to make the most of your visit.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
