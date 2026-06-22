@@ -1,27 +1,46 @@
-import type { ProveedorActividad } from "@/lib/afiliados";
+import Image from "next/image";
+import { nombreProveedor, type ProveedorActividad } from "@/lib/afiliados";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
- * Sello de confianza "Pago seguro" con icono de candado.
+ * Sello de proveedor / confianza.
  *
- * Unificado para todos los proveedores (Bokun, Viator, GetYourGuide): se
- * muestra siempre el mismo distintivo "Pago seguro", sin logos externos ni
- * el texto "Reserva directa". Server Component puro (sin JS al cliente).
+ * - En **tarjetas** (default, `conLogo` ausente): muestra solo "Pago seguro".
+ *   Las tarjetas que enlazan a la actividad no llevan logo externo.
+ * - En la **ficha de detalle** (`conLogo`): en actividades de afiliado
+ *   (Viator / GetYourGuide) muestra "Ofrecida por {logo}" para dar
+ *   transparencia — el cliente sabe en qué plataforma completará y pagará
+ *   la reserva antes de pulsar Reservar, y no se siente engañado al ver la
+ *   página del proveedor. En Bokun (reserva directa en ExploraSpain) no hay
+ *   logo externo: se muestra "Pago seguro".
  *
- * Se mantiene la prop `proveedor` por compatibilidad con los puntos de
- * llamada, aunque ya no afecta al render.
+ * Server Component puro (sin JS al cliente). Logos en /public/logos (SVG).
  */
+
+type LogoInfo = { src: string; width: number; height: number };
+
+const LOGOS: Partial<Record<ProveedorActividad, LogoInfo>> = {
+  viator: { src: "/logos/viator.svg", width: 72, height: 18 },
+  getyourguide: { src: "/logos/getyourguide.svg", width: 47, height: 40 },
+};
 
 type Props = {
   proveedor: ProveedorActividad;
   idioma: Idioma;
+  /** true → ficha de detalle: muestra "Ofrecida por {logo}" en afiliados. */
+  conLogo?: boolean;
   /** Clases extra para el contenedor (márgenes, alineación). */
   className?: string;
 };
 
-export default function SelloProveedor({ idioma, className }: Props) {
+function SelloPagoSeguro({
+  idioma,
+  className,
+}: {
+  idioma: Idioma;
+  className?: string;
+}) {
   const texto = idioma === "es" ? "Pago seguro" : "Secure payment";
-
   return (
     <div
       className={`inline-flex items-center gap-1.5 text-xs font-medium text-slate-600 ${
@@ -44,6 +63,37 @@ export default function SelloProveedor({ idioma, className }: Props) {
         <path d="M7 11V7a5 5 0 0 1 10 0v4" />
       </svg>
       <span>{texto}</span>
+    </div>
+  );
+}
+
+export default function SelloProveedor({
+  proveedor,
+  idioma,
+  conLogo,
+  className,
+}: Props) {
+  // Solo en la ficha (conLogo) y solo si el proveedor tiene logo (afiliados).
+  const logo = conLogo ? LOGOS[proveedor] : undefined;
+
+  if (!logo) {
+    return <SelloPagoSeguro idioma={idioma} className={className} />;
+  }
+
+  const texto = idioma === "es" ? "Ofrecida por" : "Offered by";
+  const nombre = nombreProveedor(proveedor);
+
+  return (
+    <div className={`inline-flex items-center gap-2 ${className ?? ""}`}>
+      <span className="text-xs text-slate-500">{texto}</span>
+      <Image
+        src={logo.src}
+        alt={nombre}
+        width={logo.width}
+        height={logo.height}
+        unoptimized
+        className="inline-block"
+      />
     </div>
   );
 }
