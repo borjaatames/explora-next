@@ -9,7 +9,7 @@ slugs:
   es: sagrada-familia-park-guell-tour-guiado
 duracion: 4 hours
 duracionMinutos: 240
-precioDesde: 119
+precioDesde: 104
 moneda: EUR
 idiomas:
 - es
@@ -33,12 +33,12 @@ noIncluye:
 - Tower access at the Sagrada Familia
 - Hotel pickup and return service (included only in the private option)
 puntoEncuentro:
-  texto: Ctra. del Carmel, 23, 08024 Barcelona — one of the Park Güell entrances
-  descripcionGuia: 'The meeting point is at Ctra. del Carmel, 23, by one of the Park Güell entrances. Note: the park has several
+  texto: Carrer d'Olot, 24, 08024 Barcelona — one of the Park Güell entrances
+  descripcionGuia: 'The meeting point is at Carrer d''Olot, 24, by one of the Park Güell entrances, at 10:00 a.m. Note: the park has several
     entrances, so make sure you go to the exact address given. Look for the guide with a burgundy-red umbrella. The visit
     ends at the Sagrada Familia.'
-  latitud: 41.415
-  longitud: 2.154
+  latitud: 41.4135
+  longitud: 2.1521
   zoom: 16
 detallesPracticos:
   ticketMovil: true
@@ -55,7 +55,7 @@ informacionImportante:
   - Park Güell has stairs and uphill stretches in the first part of the route
   - 'The park has several entrances: confirm the exact meeting-point address so you don''t go to the wrong one'
   - 'Confirm your departure''s language at booking: the activity is offered in Spanish and English, with groups by language'
-  - Group of up to 19 people; a private option is available for larger groups
+  - Group of up to 16 people; a private option is available for larger groups
 accesibilidad: The operator states the tour is NOT adapted for wheelchair users. In addition, Park Güell has stairs and uphill
   stretches.
 politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there

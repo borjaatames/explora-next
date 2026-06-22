@@ -103,7 +103,7 @@ Gaudí's two masterpieces in half a day, private and skip-the-line:
 
 It's a **fully private tour, for your group only**. Your guide and driver **pick you up at your hotel** (or at the agreed meeting point, depending on distance) and take you by **private transport** between the Sagrada Família and Park Güell, with nothing for you to organise. **Skip-the-line entry to both monuments is included**.
 
-It lasts **about 4 hours** and the price is **per group, not per person**, so the more of you there are, the better the value. Sagrada Família entry is nominative: keep every participant's ID document to hand. Check the guide's language when booking.
+It lasts **about 4 hours** and the price is **per group, not per person**, so the more of you there are, the better the value. Book ahead (the operator requires at least 3 days). Sagrada Família entry is nominative: keep every participant's ID document to hand. Check the guide's language when booking.
 
 ## Who I'd recommend it to
 

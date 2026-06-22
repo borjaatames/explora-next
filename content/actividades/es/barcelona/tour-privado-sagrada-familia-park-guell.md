@@ -103,7 +103,7 @@ Las dos obras cumbre de Antoni Gaudí en medio día, en privado y sin colas:
 
 Es un tour **100% privado, solo para tu grupo**. Tu guía y conductor te **recogen en el hotel** (o en el punto de encuentro acordado, según la distancia) y te llevan en **transporte privado** entre la Sagrada Família y el Park Güell, sin que tengas que organizar nada. Las **entradas sin colas a los dos monumentos van incluidas**.
 
-Dura **unas 4 horas** y el precio es **por grupo, no por persona**, así que cuantos más seáis, mejor sale. La entrada a la Sagrada Família es nominativa: ten a mano el documento de identidad de los participantes. Comprueba el idioma del guía al reservar.
+Dura **unas 4 horas** y el precio es **por grupo, no por persona**, así que cuantos más seáis, mejor sale. Reserva con antelación (el operador pide al menos 3 días). La entrada a la Sagrada Família es nominativa: ten a mano el documento de identidad de los participantes. Comprueba el idioma del guía al reservar.
 
 ## A quién se lo recomiendo
 
