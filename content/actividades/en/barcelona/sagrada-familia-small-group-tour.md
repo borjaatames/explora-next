@@ -15,7 +15,7 @@ idiomas:
 - es
 - en
 proveedor: bokun
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -80,10 +80,10 @@ variantes:
 - sagrada-familia-guided-tour-with-free-time
 - sagrada-familia-private-guided-tour
 - sagrada-familia-guided-tour
-opinionEditorial: 'This is the middle ground between the standard guided tour and the private tour: you pay a little more in
-  exchange for a small group, where you can hear the guide better and don''t have to jostle for position. The operator has a
-  good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is the same as any guided tour: façades,
-  interior and school.
+opinionEditorial: 'This is the middle ground between the standard guided tour and the private tour: you pay a little more
+  in exchange for a small group, where you can hear the guide better and don''t have to jostle for position. The operator
+  has a good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is the same as any guided tour:
+  façades, interior and school.
 
 
   Its real strong point, beyond the small group, is accessibility: it''s the guided visit that expressly declares wheelchair
@@ -99,8 +99,8 @@ keywords:
 - sagrada familia accessible
 - sagrada familia wheelchair
 - sagrada familia skip the line tour
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp"
-imagenAlt: Altar and interior vault of the Sagrada Familia with stained glass in the background
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
+imagenAlt: Barcelona cityscape with historic architecture and urban streets
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
@@ -109,36 +109,30 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
-  alt: Barcelona cityscape with architecture and urban landscape
-- src: /images/actividades/barcelona/sagrada-familia/pexels-31878203-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban streets
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
-  alt: Sagrada Familia basilica with ornate spires and construction cranes in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-architecture-monument-hero-hero.webp
-  alt: Sagrada Familia cathedral with ornate spires and detailed Gothic-inspired architecture in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
   alt: Intricate Gothic ceiling with ornate stone vaulting and decorative details in Barcelona's Sagrada Familia basilica
+- src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
+  alt: Barcelona cityscape with architecture and urban landscape
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Barcelona street scene with historic architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
   alt: Vaulted ceiling of Sagrada Familia basilica in Barcelona, reaching 63 meters high
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona with colorful light patterns
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Barcelona cityscape with modern architecture and street view
-- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Barcelona cityscape with modern architecture and Mediterranean skyline
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona cityscape with modern architecture and bustling streets during daytime
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
+  alt: Barcelona cityscape with historic architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Barcelona street scene with historic architecture and urban landmarks
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
-  alt: Sagrada Familia basilica exterior with intricate stone architecture and towers in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Barcelona cityscape with modern architecture and Mediterranean skyline
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
   alt: Ornate ceiling of Barcelona's Sagrada Familia basilica with intricate illuminated architectural details
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
+  alt: Sagrada Familia basilica with ornate spires and construction cranes in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
   alt: Barcelona cityscape with historic architecture and urban skyline view
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-A27sA6kViXc-hero.webp

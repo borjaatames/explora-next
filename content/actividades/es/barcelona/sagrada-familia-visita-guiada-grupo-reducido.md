@@ -15,7 +15,7 @@ idiomas:
 - es
 - en
 proveedor: bokun
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -87,9 +87,9 @@ opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour 
 
 
   Su punto fuerte real, más allá del grupo pequeño, es la accesibilidad: es la visita guiada que declara expresamente acceso
-  en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción. Lo que no incluye son las
-  torres ni ningún traslado, y el punto de encuentro —junto al Fanal Modernista, entre el KFC y el Hard Rock— es de los concurridos:
-  llega con margen.
+  en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción. Lo que no incluye son
+  las torres ni ningún traslado, y el punto de encuentro —junto al Fanal Modernista, entre el KFC y el Hard Rock— es de los
+  concurridos: llega con margen.
 
   '
 categoria: visitasGuiadas
@@ -99,8 +99,8 @@ keywords:
 - sagrada familia accesible
 - sagrada familia silla de ruedas
 - tour sagrada familia sin colas
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp"
-imagenAlt: Altar y bóveda interior de la Sagrada Familia con vitrales al fondo
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
+imagenAlt: Calles de Barcelona con arquitectura gótica y modernista
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
@@ -109,37 +109,30 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
-  alt: Vistas panorámicas de Barcelona con la Sagrada Familia al fondo
-- src: /images/actividades/barcelona/sagrada-familia/pexels-31878203-hero.webp
-  alt: 'Barcelona: vista urbana con arquitectura moderna y calles históricas'
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia con sus torres ornamentadas en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-architecture-monument-hero-hero.webp
-  alt: Basílica de la Sagrada Familia de Barcelona, fachada principal con torres neogóticas y ornamentación arquitectónica
-    deta
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
   alt: Techo intrincado con bóvedas góticas de la Sagrada Familia en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
+  alt: Vistas panorámicas de Barcelona con la Sagrada Familia al fondo
+- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
+  alt: Vistas panorámicas de Barcelona con edificios históricos y modernistas bajo cielo despejado.
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
   alt: Techo de la nave central de la Sagrada Familia en Barcelona, arquitectura gótica modernista a 63 metros de altura
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vitrales vibrantes de la Sagrada Familia en Barcelona con luz celestial
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y la sagrada familia al fondo
-- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios históricos y modernistas bajo cielo despejado.
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y histórica bajo cielo despejado
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Vista panorámica de Barcelona con edificios modernistas y montaña Montjuïc al fondo
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
+  alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Vistas de Barcelona con edificios modernistas y arquitectura urbana
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
+  alt: Vistas panorámicas de Barcelona con arquitectura moderna y histórica bajo cielo despejado
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
   alt: Techo ornamentado e iluminado de la Sagrada Familia en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
+  alt: Fachada de la Basílica de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y la ciudad al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-A27sA6kViXc-hero.webp
