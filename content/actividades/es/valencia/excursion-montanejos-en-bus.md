@@ -29,7 +29,7 @@ noIncluye:
 - Comida y bebida
 - Propinas
 puntoEncuentro:
-  texto: Punto de encuentro en Valencia (se confirma al reservar)
+  texto: 'El punto de encuentro está en Valencia; el lugar exacto se indica al confirmar la reserva.'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

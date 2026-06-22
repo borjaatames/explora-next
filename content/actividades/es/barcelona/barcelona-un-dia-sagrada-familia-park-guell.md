@@ -35,6 +35,9 @@ noIncluye:
 - Acceso a las torres de la Sagrada Familia
 puntoEncuentro:
   texto: 'Punto de encuentro: La Rambla 97 (junto a la tienda de música «Casa Beethoven»), Barcelona'
+  latitud: 41.3816
+  longitud: 2.172
+  zoom: 17
   descripcionGuia: 'El punto de encuentro es La Rambla 97, frente a la tienda de música «Casa Beethoven», a las 9:00 de la mañana. Llega 10 minutos antes para el check-in. El tour se hace a pie y con transporte privado en algunos tramos, y termina en la Sagrada Familia. No hay recogida en el hotel.'
 detallesPracticos:
   ticketMovil: true

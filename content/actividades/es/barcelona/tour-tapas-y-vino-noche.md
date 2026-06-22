@@ -31,7 +31,7 @@ noIncluye:
 - Propinas
 - Bebidas adicionales fuera del menú
 puntoEncuentro:
-  texto: Punto de encuentro en el casco antiguo de Barcelona (se confirma al reservar)
+  texto: 'El punto de encuentro está en el casco antiguo de Barcelona; la dirección exacta se indica al confirmar la reserva.'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

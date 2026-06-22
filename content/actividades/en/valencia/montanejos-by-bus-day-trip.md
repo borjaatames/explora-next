@@ -29,7 +29,7 @@ noIncluye:
 - Food and drink
 - Tips
 puntoEncuentro:
-  texto: Meeting point in Valencia (confirmed when booking)
+  texto: 'The meeting point is in Valencia; the exact spot is given when your booking is confirmed.'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true

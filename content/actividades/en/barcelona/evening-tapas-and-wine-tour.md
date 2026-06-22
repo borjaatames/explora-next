@@ -31,7 +31,7 @@ noIncluye:
 - Tips
 - Extra drinks beyond the set menu
 puntoEncuentro:
-  texto: Meeting point in Barcelona's old town (confirmed when booking)
+  texto: 'The meeting point is in Barcelona''s old town; the exact address is given when your booking is confirmed.'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
