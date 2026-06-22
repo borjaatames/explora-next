@@ -7,9 +7,9 @@ descripcion: Small-group guided tour of the Sagrada Familia, with an official gu
 slugs:
   en: sagrada-familia-small-group-tour
   es: sagrada-familia-visita-guiada-grupo-reducido
-duracion: 1h 30min
-duracionMinutos: 90
-precioDesde: 84
+duracion: 1h 45min
+duracionMinutos: 105
+precioDesde: 99
 moneda: EUR
 idiomas:
 - es
@@ -23,7 +23,7 @@ highlights:
 - Official guide, skip-the-line entry and audio system included
 - 'Operator with a good score and volume: 4.7 out of 5 with over 3,700 reviews'
 - Wheelchair accessible, with special access to the monument
-- A 1.5-hour route covering the façades and the basilica interior
+- A 1h 45min route covering the façades and the basilica interior
 incluye:
 - Skip-the-line entry to the Sagrada Familia
 - Official local guide
@@ -161,7 +161,7 @@ The route is that of any guided tour of the basilica — façades, interior and 
 
 The meeting point is on **Avenida de Gaudí, by the Modernist Lamppost** — a very tall lamppost with a stone base — facing the back of the basilica, between the KFC and the Hard Rock. Under the lamppost, look for a **red flag with the text «4U»**. It's a busy area: **arrive 15 minutes early**.
 
-The route lasts **1.5 hours** with an official guide and an **audio system** to hear them well. Being a small group, the guide can go into more detail and answer questions without losing the thread.
+The route lasts **1 h 45 min** with an official guide and an **audio system** to hear them well. Being a small group, the guide can go into more detail and answer questions without losing the thread.
 
 This is **the accessible guided visit**: the operator declares wheelchair access and the monument has a special entry. Entry is **nominative** — bring your ID — and the church **dress code** applies: no bare shoulders, short trousers or covered heads.
 

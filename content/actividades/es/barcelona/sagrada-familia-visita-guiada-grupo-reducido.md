@@ -7,9 +7,9 @@ descripcion: Visita guiada a la Sagrada Familia en grupo reducido, con guía ofi
 slugs:
   es: sagrada-familia-visita-guiada-grupo-reducido
   en: sagrada-familia-small-group-tour
-duracion: 1h 30min
-duracionMinutos: 90
-precioDesde: 84
+duracion: 1h 45min
+duracionMinutos: 105
+precioDesde: 99
 moneda: EUR
 idiomas:
 - es
@@ -23,7 +23,7 @@ highlights:
 - Guía oficial, entrada sin colas y sistema de audio incluido
 - 'Operador con buena nota y volumen: 4,7 sobre 5 con más de 3.700 reseñas'
 - Accesible en silla de ruedas, con acceso especial al monumento
-- Recorrido de 1,5 h por las fachadas y el interior de la basílica
+- Recorrido de 1h 45min por las fachadas y el interior de la basílica
 incluye:
 - Entrada sin colas a la Sagrada Familia
 - Guía local oficial
@@ -160,7 +160,7 @@ El recorrido es el de cualquier visita guiada a la basílica —fachadas, interi
 
 El punto de encuentro está en la **Avenida de Gaudí, junto al Fanal Modernista** —una farola muy alta con base de piedra—, frente a la parte trasera de la basílica, entre el KFC y el Hard Rock. Bajo el fanal, busca una **bandera roja con el texto «4U»**. Es una zona concurrida: **llega 15 minutos antes**.
 
-El recorrido dura **1,5 horas** con guía oficial y **sistema de audio** para oírlo bien. Al ser grupo reducido, el guía puede ir más al detalle y responder preguntas sin que se pierda el hilo.
+El recorrido dura **1 h 45 min** con guía oficial y **sistema de audio** para oírlo bien. Al ser grupo reducido, el guía puede ir más al detalle y responder preguntas sin que se pierda el hilo.
 
 Esta es **la visita guiada accesible**: el operador declara acceso en silla de ruedas y el monumento dispone de una entrada especial. La entrada es **nominativa** —lleva el documento de identidad— y aplica el **código de vestimenta** de iglesia: nada de hombros descubiertos, pantalones cortos ni cabeza cubierta.
 

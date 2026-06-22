@@ -69,5 +69,8 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+atraccionesRelacionadas:
+- sagrada-familia
+- park-guell
+fecha_actualizacion: '2026-06-22'
 ---

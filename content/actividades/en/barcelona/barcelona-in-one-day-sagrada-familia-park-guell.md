@@ -2,13 +2,12 @@
 titulo: 'Barcelona in One Day: Sagrada Familia and Park Güell'
 slug: barcelona-in-one-day-sagrada-familia-park-guell
 ciudad: barcelona
-descripcion: 'A full-day Barcelona tour with hotel pickup: Montjuïc, the old town, the Sagrada Familia and Park Güell. Monument
-  entry tickets bought separately.'
+descripcion: 'A full-day Barcelona small-group tour with a central meeting point: Montjuïc, the old town, Passeig de Gràcia, Park Güell and the Sagrada Familia, with skip-the-line entry to the Sagrada Familia and Park Güell included.'
 slugs:
   en: barcelona-in-one-day-sagrada-familia-park-guell
   es: barcelona-un-dia-sagrada-familia-park-guell
-duracion: 8 hours
-duracionMinutos: 480
+duracion: 7 hours
+duracionMinutos: 420
 precioDesde: 129
 moneda: EUR
 idiomas:
@@ -19,84 +18,63 @@ urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- 'Full day: Montjuïc, the old town, the Sagrada Familia and Park Güell in a single booking'
-- Pickup and drop-off at your Barcelona hotel, in an air-conditioned vehicle
-- Small group of up to 16 people with a local guide
+- 'Full day in a small group: Montjuïc, the old town, Passeig de Gràcia, Park Güell and the Sagrada Familia'
+- 'Skip-the-line entry to the Sagrada Familia and Park Güell, included in the price'
+- Private transport during some parts of the tour and a professional guide
 - 'The highest-rated activity: 4.9 out of 5 with over 15,000 reviews'
 - Walking tour of the Gothic Quarter and panoramic views from Montjuïc
 incluye:
-- Pickup and drop-off at your Barcelona city hotel (between 8 and 9 a.m.)
-- Air-conditioned vehicle and a local guide
-- Walking tour of the old town and the Gothic Quarter
-- Panoramic views from Montjuïc
+- Skip-the-line entry to the Sagrada Familia and Park Güell
+- Guided walking tour of the Gothic Quarter and panoramic views from Montjuïc
+- Private transport throughout the tour
+- Professional guide
 noIncluye:
-- Entry to the Sagrada Familia and Park Güell (€44 per person, paid to the guide; the private option does include them)
-- Food and drink
-- Gratuities
+- Hotel pickup and drop-off (this activity has a meeting point, not pickup)
+- Food (there's an hour for lunch between Park Güell and the Sagrada Familia)
+- A guided visit inside the monuments (you explore the interiors on your own with the ticket)
 - Tower access at the Sagrada Familia
 puntoEncuentro:
-  texto: Pickup at your hotel or apartment in Barcelona city
-  descripcionGuia: You're picked up at your hotel or apartment in Barcelona city between 8 and 9 a.m. Give your accommodation
-    address at booking. The day before, you'll receive a message with the exact pickup time, the guide's name and a contact
-    phone number. The activity ends back at your hotel.
+  texto: 'Meeting point: La Rambla 97 (next to the «Casa Beethoven» music store), Barcelona'
+  descripcionGuia: 'The meeting point is La Rambla 97, in front of the «Casa Beethoven» music store, at 9:00 a.m. Arrive 10 minutes early for check-in. The tour is on foot and with private transport on some legs, and ends at the Sagrada Familia. There is no hotel pickup.'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-  accesibleSilla: false
+  accesibleSilla: true
   edadMinima: 0
 informacionImportante:
   queTraer:
-  - 'ID document or passport for every participant: details are requested at booking and the document is shown at the Sagrada
-    Familia entrance'
-  - €44 per person for entry to the Sagrada Familia and Park Güell, unless you book the private option
+  - 'ID document or passport for every participant: details are requested at booking and the document is shown at the Sagrada Familia entrance'
+  - 'Comfortable shoes: it''s a long day, with walking and stairs'
   noAptoPara:
-  - 'Wheelchair users: the operator states it is not adapted'
+  - Anyone wanting only the interior visit of the Sagrada Familia without the city tour
   aTenerEnCuenta:
-  - 'IMPORTANT: entry to the Sagrada Familia and Park Güell is NOT included in the base price; it''s paid separately to the
-    guide (€44 per person). The «private» option does include them'
-  - The guide accompanies you through the day and explains, but at the Sagrada Familia and Park Güell you go in with the ticket
-    on your own; the guide does not go in with you
-  - It's a long day, around 8 hours; group of up to 16 people
-  - If you choose the «without Sagrada Familia» option, no tickets for the temple are reserved
-accesibilidad: The operator states the tour is NOT adapted for wheelchair users. It is stroller accessible and child seats
-  are available.
+  - 'Skip-the-line entry to the Sagrada Familia and Park Güell is INCLUDED; you explore the interiors on your own with the ticket (the Sagrada Familia with an audio-guide app), the guide does not go in with you'
+  - 'It''s a meeting-point tour (La Rambla 97, 9:00 a.m.), not hotel pickup; it ends at the Sagrada Familia'
+  - It's a long day, around 7 hours, in a small group
+  - 'Sagrada Familia entry is nominative: keep every participant''s ID document to hand'
+accesibilidad: The operator states the tour is wheelchair and stroller accessible, with child seats available. The Sagrada Familia towers are not accessible.
 politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there
   is no refund.
 preguntasFrecuentes:
-- pregunta: Are entry tickets to the Sagrada Familia and Park Güell included?
-  respuesta: 'Not in the base price. They''re paid separately to the guide: €44 per person for both. The exception is the
-    «private» option, which does include the tickets. It''s the most common confusion in the reviews, so be clear before booking:
-    the real cost, except for the private option, is the tour price plus €44 per person for tickets.'
-- pregunta: Does the guide go into the monuments with me?
-  respuesta: 'No. The guide accompanies you through the day, explains on the way and walks you to the door, but at the Sagrada
-    Familia and Park Güell you go in on your own with the ticket. The guided part is the route through the city: Montjuïc,
-    the old town and the Gothic Quarter.'
+- pregunta: Is entry to the Sagrada Familia and Park Güell included?
+  respuesta: 'Yes. The price includes skip-the-line entry to the Sagrada Familia and Park Güell. You explore the interiors on your own with the ticket — the Sagrada Familia with an audio-guide app — while the guide handles the city part (Gothic Quarter, Montjuïc) but does not go inside the monuments with you.'
+- pregunta: Is there hotel pickup?
+  respuesta: 'No. This is a meeting-point tour at La Rambla 97, next to the «Casa Beethoven» store, at 9:00 a.m.; arrive 10 minutes early for check-in. The route ends at the Sagrada Familia.'
 - pregunta: What language is the tour in?
-  respuesta: Spanish and English. Check your departure's language at booking; some reviews mention groups where the two languages
-    are alternated.
+  respuesta: Spanish and English. Check your departure's language at booking.
 - pregunta: Is it wheelchair accessible?
-  respuesta: No. The operator states the tour is not adapted for wheelchair users. It is stroller accessible.
+  respuesta: Yes. The operator states the tour is wheelchair and stroller accessible. The Sagrada Familia towers are not accessible.
 - pregunta: Who is a full day like this for?
-  respuesta: 'For anyone with little time in Barcelona who wants to see the most in one day without organising anything: hotel
-    pickup, transport between points and a guide who threads the city together. If what you want is the Sagrada Familia well
-    explained from inside, this isn''t for you.'
+  respuesta: 'For anyone with little time in Barcelona who wants to see the most in one day without organising anything: a central meeting point, private transport between points, entry to the Sagrada Familia and Park Güell already sorted, and a guide who threads the city together.'
 variantes:
 - sagrada-familia-and-park-guell-guided-tour
 - gaudi-and-sagrada-familia-private-tour
 - sagrada-familia-ticket-audio-guide
 - sagrada-familia-skip-the-line-guided-tour
-opinionEditorial: 'This is Barcelona''s «all in one day»: you''re picked up at the hotel first thing and, over 8 hours, you
-  see Montjuïc, the old town, the Gothic Quarter, Passeig de Gràcia, the Sagrada Familia and Park Güell, with transport and
-  a guide. For anyone landing with a single day and wanting to squeeze it without organising anything, it works — and the
-  score backs it up like few others: 4.9 out of 5 with over 15,000 reviews, the highest.
+opinionEditorial: 'This is Barcelona''s «all in one day»: you meet in the centre first thing and, over around 7 hours, you see Montjuïc, the old town, the Gothic Quarter, Passeig de Gràcia, Park Güell and the Sagrada Familia, with a guide and private transport on some legs. For anyone landing with a single day and wanting to squeeze it without organising anything, it works — and the score backs it up like few others: 4.9 out of 5 with over 15,000 reviews, the highest.
 
 
-  But you have to understand what you''re buying. First, and where most people get a shock: **entry to the Sagrada Familia
-  and Park Güell is not included** in the base price; it''s paid separately to the guide, €44 per person (unless you book
-  the private option, which does include them). Second: **the guide does not go in with you** to the monuments — they walk
-  you to the door and you enter with the ticket; the guided part is the city. If that fits what you''re looking for, it''s
-  a full, very well-rated day. If what you want is the Sagrada Familia explained from inside, this isn''t a visit to the temple:
-  it''s a city tour that passes by it.
+  The best part is that the headline is sorted: **skip-the-line entry to the Sagrada Familia and Park Güell is included**, so you don''t have to fight the official website or pay for the entries separately. Just be clear on how it works: you **explore the interiors on your own** with the ticket (the Sagrada Familia with an audio-guide app); the guide handles the city part — Gothic Quarter and Montjuïc — but doesn''t go in with you. And two more things: it''s a **central meeting point (La Rambla 97), not hotel pickup**, and it''s a long, active day with a lot of walking. If that fits, it''s a full, very well-rated day.
 
   '
 categoria: visitasGuiadas
@@ -104,7 +82,7 @@ keywords:
 - barcelona in one day
 - barcelona full day tour
 - sagrada familia and park guell
-- barcelona tour with hotel pickup
+- sagrada familia guided tour barcelona
 - what to see in barcelona in one day
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
 imagenAlt: Bustling Barcelona street with colorful buildings and pedestrians
@@ -166,37 +144,34 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
   alt: Barcelona cityscape with historic architecture and urban landscape
 bokunProductId: 674376
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-22'
 ---
 
 > **Note:** this experience is conducted in English.
 
 ## What you'll see
 
-The day covers the most recognisable parts of Barcelona, with the Sagrada Familia and Park Güell as the finale.
+The day covers the most recognisable parts of Barcelona and ends at the Sagrada Familia, with skip-the-line entry to the basilica and Park Güell included.
 
 - **Montjuïc (about 2 h in the area):** the hill with panoramic views over the city and the sea. You pass Plaça d'Espanya, the MNAC, the Olympic Stadium and the castle, with a stop at a viewpoint for photos.
 - **Las Ramblas and the Gothic Quarter (a walk of about 2 h):** the medieval streets, the Cathedral, Plaça del Rei and the squares where Barcelona began, with a glimpse of Las Ramblas and Barceloneta on the way.
-- **Passeig de Gràcia, the Sagrada Familia and Park Güell:** the modernist avenue with Casa Batlló and La Pedrera, and the finale with Gaudí's two UNESCO World Heritage works — about 90 minutes at each.
+- **Passeig de Gràcia, Park Güell and the Sagrada Familia:** the modernist avenue with Casa Batlló and La Pedrera (seen from the vehicle), Park Güell, and as the finale the Sagrada Familia — you enter both with the included ticket and explore them on your own.
 
 ## How it works
 
-You're **picked up at your hotel or apartment** in Barcelona between 8 and 9 a.m. — the day before you get a message with the exact time, the guide and a phone number. The day is done in an **air-conditioned vehicle** and on foot, in a **group of up to 16 people**, and ends back at your hotel.
+The meeting point is **La Rambla 97**, next to the «Casa Beethoven» music store, at **9:00 a.m.** — arrive 10 minutes early for check-in. The day is on foot and with **private transport on some legs**, in a **small group**, and ends at the Sagrada Familia. There is no hotel pickup.
 
-Two things to be clear about. First: **entry to the Sagrada Familia and Park Güell is not included** in the base price — it's paid to the guide, €44 per person — unless you book the private option, which does include them. Second: the guide **does not go in with you** to the monuments; they accompany you, explain on the way and walk you to the door, but you cover the interiors on your own with the ticket.
-
-Sagrada Familia entry is nominative: details are requested at booking and the document is shown at the entrance.
+The entries are included: **skip-the-line entry to the Sagrada Familia and Park Güell**. You explore the interiors **on your own** with the ticket — the Sagrada Familia with an audio-guide app; the guide accompanies you on the city part (Gothic Quarter, Montjuïc) and hands you the tickets, but doesn't go inside the monuments with you. There's an hour for lunch between Park Güell and the Sagrada Familia. Sagrada Familia entry is nominative: details are requested at booking and the document is shown at the entrance.
 
 ## Who I'd recommend it to
 
 - If you have a single day in Barcelona and want to see the most without organising anything.
-- If you value the comfort of hotel pickup and transport between points.
+- If you want the Sagrada Familia and Park Güell sorted: skip-the-line entry included (the interior is self-guided).
 - If you want a guide who gives you context for the whole city, not just one monument.
-- If you're travelling with kids: child seats are available and the pace mixes driving and walking (under-5s enter the Sagrada Familia free).
+- If you're travelling with kids: child seats are available and the pace mixes transport and walking (under-5s enter the Sagrada Familia free).
 
 ## Who I would NOT recommend it to
 
-- If your priority is the Sagrada Familia explained from inside: here the guide doesn't go in with you, it's a city tour that passes by it.
-- If you need wheelchair accessibility: the operator states the tour is not adapted.
-- If you'd rather not pay entry separately: unless you book the private option, it's €44 per person paid to the guide during the day.
-- If you want a relaxed day: it's around 8 hours with a lot of moving and walking.
+- If you want hotel pickup: this tour has a central meeting point (La Rambla 97).
+- If you expect the guide to explain the monuments inside: the interiors of the Sagrada Familia and Park Güell are self-explored (the Sagrada Familia with an audio guide).
+- If you want a relaxed day: it's around 7 hours with a lot of walking.
