@@ -156,15 +156,22 @@ export default function ActividadesFiltradas({
    * Civitatis o Booking — al sumar filtros se restringe progresivamente.
    */
   const filtradas = useMemo(() => {
-    return actividades.filter((a) => {
-      const pasaAtraccion =
-        tagsActivos.length === 0 ||
-        a.atraccionesRelacionadas.some((t) => tagsActivos.includes(t));
-      const pasaCategoria =
-        categoriasActivas.length === 0 ||
-        categoriasActivas.includes(a.categoria);
-      return pasaAtraccion && pasaCategoria;
-    });
+    // Orden por proveedor: primero Bokun (reserva directa, mayor comisión),
+    // y al final GetYourGuide. Es un orden estable, así que dentro de cada
+    // proveedor se respeta el orden de entrada (destacadas/fecha del server).
+    const rangoProveedor = (p: string) =>
+      p === "bokun" ? 0 : p === "getyourguide" ? 2 : 1;
+    return actividades
+      .filter((a) => {
+        const pasaAtraccion =
+          tagsActivos.length === 0 ||
+          a.atraccionesRelacionadas.some((t) => tagsActivos.includes(t));
+        const pasaCategoria =
+          categoriasActivas.length === 0 ||
+          categoriasActivas.includes(a.categoria);
+        return pasaAtraccion && pasaCategoria;
+      })
+      .sort((a, b) => rangoProveedor(a.proveedor) - rangoProveedor(b.proveedor));
   }, [actividades, tagsActivos, categoriasActivas]);
 
   // Al cambiar cualquier filtro, volvemos a la primera página.
