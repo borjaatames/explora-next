@@ -39,10 +39,10 @@ noIncluye:
   - "Hotel pickup"
 
 puntoEncuentro:
-  texto: "Estació de França, Av. del Marquès de l'Argentera, 6, Ciutat Vella, 08003 Barcelona"
-  descripcionGuia: "The guide will be waiting with a burgundy red umbrella at the meeting point. Departure at 8:30."
-  latitud: 41.3852
-  longitud: 2.1849
+  texto: "Placeta de Vicenç Albert Ballester, Barcelona — 8:30 departure"
+  descripcionGuia: "The departure point is Placeta de Vicenç Albert Ballester (Ciutat Vella, near Passeig de Lluís Companys), at 8:30 a.m. Arrive 10 minutes early."
+  latitud: 41.3894
+  longitud: 2.1816
   zoom: 17
 
 detallesPracticos:
@@ -100,6 +100,16 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "12th-century Catalan farmhouse with vineyards in the Bages region"
 
 galeria:
+- src: https://imgcdn.bokun.tools/385b1052-e05a-4e23-87d0-00135808437c.jpg
+  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+- src: https://imgcdn.bokun.tools/00de596f-5a97-4b80-94ff-826f4a96bd6f.jpg
+  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+- src: https://imgcdn.bokun.tools/1c423c1a-f9e5-4787-8830-aec47db4d693.jpg
+  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+- src: https://imgcdn.bokun.tools/4c7590a1-fdf7-4844-930e-970e24819bb7.jpg
+  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+- src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
+  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Montserrat monastery and mountains
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp

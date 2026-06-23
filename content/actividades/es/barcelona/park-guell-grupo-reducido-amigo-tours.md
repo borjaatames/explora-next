@@ -98,6 +98,16 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-bu
 imagenAlt: "Park Güell de Barcelona, mosaicos en la terraza principal"
 
 galeria:
+- src: https://imgcdn.bokun.tools/8a3d0598-2129-4487-b7d6-3f9f88458539.jpg
+  alt: Tour en grupo reducido por el Park Güell (Bokun)
+- src: https://imgcdn.bokun.tools/0f0faecc-ef76-49ac-9bab-5eb956b73a0a.jpg
+  alt: Tour en grupo reducido por el Park Güell (Bokun)
+- src: https://imgcdn.bokun.tools/82ca9757-6ad1-4e64-87ae-945c6852778a.jpg
+  alt: Tour en grupo reducido por el Park Güell (Bokun)
+- src: https://imgcdn.bokun.tools/a80d266d-6cf1-412e-adb9-23e449164587.jpg
+  alt: Tour en grupo reducido por el Park Güell (Bokun)
+- src: https://imgcdn.bokun.tools/ae027a47-7d7e-4d2e-ac19-51e28495207d.jpg
+  alt: Tour en grupo reducido por el Park Güell (Bokun)
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Park Guell de Gaudi, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp

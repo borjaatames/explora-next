@@ -39,10 +39,10 @@ noIncluye:
   - "Recogida en hotel"
 
 puntoEncuentro:
-  texto: "Estació de França, Av. del Marquès de l'Argentera, 6, Ciutat Vella, 08003 Barcelona"
-  descripcionGuia: "El guía estará esperando con un paraguas rojo burdeos en el punto de encuentro. Salida a las 8:30."
-  latitud: 41.3852
-  longitud: 2.1849
+  texto: "Placeta de Vicenç Albert Ballester, Barcelona — salida 8:30"
+  descripcionGuia: "El punto de salida es la Placeta de Vicenç Albert Ballester (Ciutat Vella, junto al Passeig de Lluís Companys), a las 8:30. Llega 10 minutos antes."
+  latitud: 41.3894
+  longitud: 2.1816
   zoom: 17
 
 detallesPracticos:
@@ -100,6 +100,16 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "Masía catalana del siglo XII con viñedos en la comarca del Bages"
 
 galeria:
+- src: https://imgcdn.bokun.tools/385b1052-e05a-4e23-87d0-00135808437c.jpg
+  alt: Montserrat con masía del Bages y maridaje de vinos (Bokun)
+- src: https://imgcdn.bokun.tools/00de596f-5a97-4b80-94ff-826f4a96bd6f.jpg
+  alt: Montserrat con masía del Bages y maridaje de vinos (Bokun)
+- src: https://imgcdn.bokun.tools/1c423c1a-f9e5-4787-8830-aec47db4d693.jpg
+  alt: Montserrat con masía del Bages y maridaje de vinos (Bokun)
+- src: https://imgcdn.bokun.tools/4c7590a1-fdf7-4844-930e-970e24819bb7.jpg
+  alt: Montserrat con masía del Bages y maridaje de vinos (Bokun)
+- src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
+  alt: Montserrat con masía del Bages y maridaje de vinos (Bokun)
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
