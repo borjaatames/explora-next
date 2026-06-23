@@ -110,8 +110,31 @@ export default function RootLayout({
          */}
         <link rel="preconnect" href="https://widgets.bokun.io" />
         <link rel="dns-prefetch" href="https://widgets.bokun.io" />
+
+        {/*
+         * Fraud Blocker — detección de clic fraudulento en campañas de Ads.
+         * Registra IP, ubicación, device fingerprint y origen del clic de los
+         * visitantes para que Fraud Blocker pueda excluir automáticamente las
+         * IPs fraudulentas en Google Ads. sid = identificador del sitio.
+         */}
+        <link rel="preconnect" href="https://monitor.fraudblocker.com" />
+        <Script
+          id="fraud-blocker"
+          strategy="afterInteractive"
+          src="https://monitor.fraudblocker.com/fbt.js?sid=8YRRIOE9RVopNfa3izfp0"
+        />
       </head>
       <body className="font-inter bg-white text-slate-900 antialiased">
+        {/* Fraud Blocker: respaldo sin JavaScript (beacon de imagen). */}
+        <noscript>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <a href="https://fraudblocker.com" rel="nofollow">
+            <img
+              src="https://monitor.fraudblocker.com/fbt.gif?sid=8YRRIOE9RVopNfa3izfp0"
+              alt="Fraud Blocker"
+            />
+          </a>
+        </noscript>
         {children}
         <Analytics gaId={gaId} />
         {/*
