@@ -6,8 +6,8 @@ descripcion: "Excursión en bus a Montanejos, con sus fuentes de aguas termales 
 slugs:
   es: excursion-montanejos-en-bus
   en: montanejos-by-bus-day-trip
-duracion: Día completo (unas 10 horas)
-duracionMinutos: 600
+duracion: Día completo (unas 8 horas)
+duracionMinutos: 480
 precioDesde: 42
 moneda: EUR
 idiomas:

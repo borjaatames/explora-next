@@ -6,8 +6,8 @@ descripcion: "Half-day trip to the San José Caves, the longest navigable underg
 slugs:
   es: excursion-cuevas-de-san-jose
   en: san-jose-caves-day-trip
-duracion: "4 hours"
-duracionMinutos: 240
+duracion: "3 h 30 min"
+duracionMinutos: 210
 precioDesde: 55
 moneda: EUR
 idiomas:

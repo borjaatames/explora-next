@@ -81,5 +81,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## What you'll see and taste
+
+A three-hour food walk that starts at **La Boquería Market** — Barcelona's famous food market — with a tasting of local **cheeses and cured meats** and a couple of red wines in a "secret" spot. From there you continue through the old town, stopping at **four family-run wine bars** in the Gothic Quarter and El Born to taste traditional tapas paired with wine, cava and vermouth, with your guide explaining the origins and traditions of each bite.
+
+## How it works
+
+**Small group (max 12)**, departing at **11:00 am** from La Boquería (La Rambla 91). **Arrive 10 minutes early** for check-in and tell your guide about any allergies or dietary needs — vegetarian options can be arranged. The tour ends with recommendations for the rest of your stay.
+
+## Who I'd recommend it to
+
+- Food lovers who want La Boquería plus the best local wine bars, all sorted.
+- Couples and small groups after an authentic, well-paced food experience.
+- Anyone who'd rather taste like a local than guess which bar is good.

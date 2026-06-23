@@ -91,8 +91,8 @@ export default function GaleriaActividad({
   const [indiceInicial, setIndiceInicial] = useState(0);
 
   const todas: ImagenGaleria[] = [principal, ...galeria];
-  const enGrid = todas.slice(0, 5);
-  const restantes = Math.max(0, todas.length - 5);
+  const enGrid = todas.slice(0, 8);
+  const restantes = Math.max(0, todas.length - 8);
 
   const slidesLightbox = todas.map((img) => ({
     src: img.src,
@@ -106,79 +106,52 @@ export default function GaleriaActividad({
 
   return (
     <>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 rounded-lg overflow-hidden">
-        {/* Imagen principal con badge editorial opcional */}
-        <div className="relative md:row-span-2">
-          <button
-            type="button"
-            onClick={() => abrirEn(0)}
-            className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
-            aria-label={t.abrirGaleriaEn(principal.alt)}
-          >
-            <Image
-              src={principal.src}
-              alt={principal.alt}
-              fill
-              priority
-              sizes="(max-width: 768px) 100vw, 50vw"
-              className="object-cover group-hover:scale-105 transition-transform duration-500"
-            />
-          </button>
-
-          {/* Sello editorial: solo si destacada */}
-          {destacada && (
-            <div
-              className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-slate-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-lg pointer-events-none select-none"
-              aria-label={t.selloAriaLabel}
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2 rounded-lg overflow-hidden">
+        {enGrid.map((img, i) => {
+          const esUltima = i === enGrid.length - 1 && restantes > 0;
+          return (
+            <button
+              key={img.src}
+              type="button"
+              onClick={() => abrirEn(i)}
+              className="relative aspect-[4/3] bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+              aria-label={
+                esUltima ? t.verFotosRestantes(restantes + 1) : t.abrirGaleriaEn(img.alt)
+              }
             >
-              <span aria-hidden="true" className="text-amber-400 text-base leading-none">
-                ★
-              </span>
-              <span className="hidden sm:inline">{t.selloLargo}</span>
-              <span className="sm:hidden">{t.selloCorto}</span>
-            </div>
-          )}
-        </div>
+              <Image
+                src={img.src}
+                alt={img.alt}
+                fill
+                priority={i === 0}
+                sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                className="object-cover group-hover:scale-105 transition-transform duration-500"
+              />
 
-        {/* Resto de imágenes (mobile: scroll horizontal, desktop: grid 2x2) */}
-        {enGrid.length > 1 && (
-          <div className="md:grid md:grid-cols-2 md:gap-2 md:h-full flex gap-2 overflow-x-auto md:overflow-visible snap-x snap-mandatory md:snap-none">
-            {enGrid.slice(1).map((img, i) => {
-              const indiceReal = i + 1;
-              const esUltimaConRestantes =
-                i === enGrid.length - 2 && restantes > 0;
-
-              return (
-                <button
-                  key={img.src}
-                  type="button"
-                  onClick={() => abrirEn(indiceReal)}
-                  className="relative aspect-square bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 flex-shrink-0 w-2/3 md:w-auto snap-center md:snap-align-none"
-                  aria-label={
-                    esUltimaConRestantes
-                      ? t.verFotosRestantes(restantes + 1)
-                      : t.abrirGaleriaEn(img.alt)
-                  }
+              {/* Sello editorial: solo en la primera imagen y si destacada */}
+              {destacada && i === 0 && (
+                <div
+                  className="absolute top-3 left-3 inline-flex items-center gap-2 bg-slate-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-lg pointer-events-none select-none"
+                  aria-label={t.selloAriaLabel}
                 >
-                  <Image
-                    src={img.src}
-                    alt={img.alt}
-                    fill
-                    sizes="(max-width: 768px) 66vw, 25vw"
-                    className="object-cover group-hover:scale-105 transition-transform duration-500"
-                  />
-                  {esUltimaConRestantes && (
-                    <div className="absolute inset-0 bg-black/55 flex items-center justify-center z-10">
-                      <span className="text-white font-semibold text-base md:text-lg">
-                        {t.fotos(restantes + 1)}
-                      </span>
-                    </div>
-                  )}
-                </button>
-              );
-            })}
-          </div>
-        )}
+                  <span aria-hidden="true" className="text-amber-400 text-base leading-none">
+                    ★
+                  </span>
+                  <span className="hidden sm:inline">{t.selloLargo}</span>
+                  <span className="sm:hidden">{t.selloCorto}</span>
+                </div>
+              )}
+
+              {esUltima && (
+                <div className="absolute inset-0 bg-black/55 flex items-center justify-center z-10">
+                  <span className="text-white font-semibold text-base md:text-lg">
+                    {t.fotos(restantes + 1)}
+                  </span>
+                </div>
+              )}
+            </button>
+          );
+        })}
       </div>
 
       <Lightbox

@@ -6,8 +6,8 @@ descripcion: "Excursión de un día a la Cala Granadella, en Jávea, una de las 
 slugs:
   es: excursion-cala-granadella-javea
   en: cala-granadella-javea-day-trip
-duracion: Día completo (unas 9 horas)
-duracionMinutos: 540
+duracion: Día completo (unas 8 horas)
+duracionMinutos: 480
 precioDesde: 85
 moneda: EUR
 idiomas:

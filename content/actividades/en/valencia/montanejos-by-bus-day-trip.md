@@ -6,8 +6,8 @@ descripcion: "Bus day trip to Montanejos, with its thermal springs and turquoise
 slugs:
   es: excursion-montanejos-en-bus
   en: montanejos-by-bus-day-trip
-duracion: Full day (about 10 hours)
-duracionMinutos: 600
+duracion: Full day (about 8 hours)
+duracionMinutos: 480
 precioDesde: 42
 moneda: EUR
 idiomas:

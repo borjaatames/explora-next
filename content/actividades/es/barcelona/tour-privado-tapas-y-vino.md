@@ -76,5 +76,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a ver y probar
+
+Una ruta gastronómica **totalmente privada** de tres horas por el Barrio Gótico y el casco antiguo, solo para tu grupo. Paras en **cuatro locales auténticos y familiares**, probando tapas locales con maridaje de vinos regionales, cava y vermut, mientras tu guía privado te cuenta la historia, la cultura y la escena gastronómica de Barcelona y Cataluña — y adapta la ruta a lo que te apetezca.
+
+## Cómo funciona
+
+Es **privado, solo para tu grupo**, con guía en exclusiva. El punto de encuentro está en el centro de Barcelona (a convenir al reservar; las salidas suelen ser por la tarde, sobre las 18:00). **Llega 10 minutos antes**, elige el idioma (español o inglés) al reservar y avisa al guía de cualquier alergia o necesidad alimentaria — hay opciones vegetarianas. El precio es por grupo.
+
+## A quién se lo recomiendo
+
+- A parejas o grupos que quieran una velada gastronómica a medida y a su ritmo.
+- A quien valore un guía privado y la libertad de preguntar de todo.
+- A foodies que prefieran profundizar en cuatro buenos sitios antes que correr en un grupo grande.

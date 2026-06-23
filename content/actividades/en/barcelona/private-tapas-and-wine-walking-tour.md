@@ -76,5 +76,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## What you'll see and taste
+
+A **fully private** three-hour food walk through the Gothic Quarter and old town, just for your group. You stop at **four authentic, family-run venues**, tasting local tapas paired with regional wines, cava and vermouth, while your private guide tells you about Barcelona and Catalonia's history, culture and food scene — and adapts the route to what you fancy.
+
+## How it works
+
+It's **private, for your group only**, with a guide just for you. The meeting point is in central Barcelona (arranged when you book; departures are usually in the evening, around 6:00 pm). **Arrive 10 minutes early**, choose your language (Spanish or English) when booking, and tell your guide about any allergies or dietary needs — vegetarian options can be arranged. The price is per group.
+
+## Who I'd recommend it to
+
+- Couples or groups who want a tailor-made food evening at their own pace.
+- Anyone who values a private guide and the flexibility to ask anything.
+- Foodies who'd rather go deep at four great spots than rush a big-group crawl.

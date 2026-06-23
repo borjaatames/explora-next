@@ -8,8 +8,8 @@ slugs:
   es: "montserrat-medio-dia-grupo-pequeno"
   en: "montserrat-half-day-small-group"
 
-duracion: "5 h 15 min"
-duracionMinutos: 315
+duracion: "5 h 30 min"
+duracionMinutos: 330
 precioDesde: 49
 moneda: "EUR"
 idiomas:
@@ -42,10 +42,10 @@ noIncluye:
   - "Tren cremallera (NO incluido en esta variante)"
 
 puntoEncuentro:
-  texto: "Estació de França, Av. del Marquès de l'Argentera, 6, Ciutat Vella, 08003 Barcelona"
-  descripcionGuia: "El guía estará esperando con un paraguas rojo burdeos en el punto de encuentro. Llega con 10 minutos de antelación."
-  latitud: 41.3852
-  longitud: 2.1849
+  texto: "Placeta de Vicenç Albert Ballester, Barcelona — salida 8:30"
+  descripcionGuia: "El punto de salida es la Placeta de Vicenç Albert Ballester (Ciutat Vella, junto al Passeig de Lluís Companys), a las 8:30. Llega 10 minutos antes."
+  latitud: 41.3894
+  longitud: 2.1816
   zoom: 17
 
 detallesPracticos:

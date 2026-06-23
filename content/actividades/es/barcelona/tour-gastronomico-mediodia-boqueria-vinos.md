@@ -81,5 +81,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a ver y probar
+
+Una ruta gastronómica de tres horas que empieza en el **Mercado de la Boquería** —el famoso mercado de Barcelona— con una degustación de **quesos y embutidos** locales y un par de vinos tintos en un lugar "secreto". Desde ahí sigues por el casco antiguo, parando en **cuatro bodegas familiares** del Gótico y el Born para probar tapas tradicionales con maridaje de vino, cava y vermut, mientras el guía te explica los orígenes y las tradiciones de cada bocado.
+
+## Cómo funciona
+
+**Grupo reducido (máx. 12)**, con salida a las **11:00** desde la Boquería (La Rambla 91). **Llega 10 minutos antes** para el registro y avisa al guía de cualquier alergia o necesidad alimentaria — hay opciones vegetarianas. El tour termina con recomendaciones para el resto de tu estancia.
+
+## A quién se lo recomiendo
+
+- A amantes de la comida que quieran la Boquería más las mejores bodegas locales, ya resueltas.
+- A parejas y grupos pequeños que busquen una experiencia gastronómica auténtica y bien llevada.
+- A quien prefiera probar como un local en vez de adivinar qué bar es bueno.

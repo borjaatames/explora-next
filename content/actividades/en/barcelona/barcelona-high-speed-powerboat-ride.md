@@ -38,7 +38,25 @@ puntoEncuentro:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
+  edadMinima: 12
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+informacionImportante:
+  queTraer:
+  - Loose, casual clothing and flat-soled shoes
+  - Towel and swimwear if you want a swim
+  - Sunglasses and sun cream
+  aTenerEnCuenta:
+  - 'Minimum age: 12'
+  - At speed you may get wet from the spray
+  - Arrive 10 minutes before departure
+  - Not recommended for people with back problems or heart conditions, or for pregnant travellers
+preguntasFrecuentes:
+- pregunta: How does the hour break down?
+  respuesta: 'Around 25 minutes touring Port Vell — superyachts and the America''s Cup team bases, often with the teams practising on their foiling boats — and around 25 minutes at speed along the coast with views of the city from the sea. Safari-style, with the occasional dolphin or sunfish.'
+- pregunta: How many people are on board?
+  respuesta: The boat is fully licensed for commercial activities and carries up to 8 passengers in individual seats, with a professional, fun skipper who tells you about the city.
+- pregunta: Is there a minimum age or any restrictions?
+  respuesta: 'Minimum age is 12. It is not recommended for people with back problems or heart conditions, or for pregnant travellers, as it is a high-speed ride.'
 opinionEditorial: "For those who want something livelier than a sailboat: half an hour around Port Vell among superyachts and the America's Cup bases, then half an hour at speed along the coast. Short, intense and great fun."
 categoria: visitasGuiadas
 keywords:
@@ -71,5 +89,24 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## What you'll do
+
+A one-hour ride in two halves:
+
+- **About 25 minutes around Port Vell:** in among the superyachts and the America's Cup team bases, often with the teams out practising on their foiling boats.
+- **About 25 minutes at speed along the coast:** the city seen from the sea, safari-style, with the occasional dolphin or sunfish along the way.
+
+You go on a boat fully licensed for commercial activities, with **up to 8 passengers in individual seats** and a professional, fun skipper who fills you in on the city. There are drinks on board (still and sparkling water and soft drinks).
+
+## How it works
+
+Meeting point at **Marina Vela, Port Vell**. **Arrive 10 minutes before** departure and wear loose, casual clothing and flat-soled shoes — **at speed you may get wet** from the spray, so bring a towel and swimwear if you fancy a dip. **Minimum age 12.** It's a high-speed ride, so it isn't recommended for people with back problems or heart conditions, or for pregnant travellers.
+
+## Who I'd recommend it to
+
+- Anyone after something livelier than a sailing trip: short, intense and great fun.
+- Groups and friends who want adrenaline and the Port Vell superyachts up close.
+- Not the best fit if you want a calm cruise or have back, heart or pregnancy concerns.

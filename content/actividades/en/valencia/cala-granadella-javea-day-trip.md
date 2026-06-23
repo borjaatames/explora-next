@@ -6,8 +6,8 @@ descripcion: "Day trip to Cala Granadella in Jávea, one of the most beautiful c
 slugs:
   es: excursion-cala-granadella-javea
   en: cala-granadella-javea-day-trip
-duracion: Full day (about 9 hours)
-duracionMinutos: 540
+duracion: Full day (about 8 hours)
+duracionMinutos: 480
 precioDesde: 85
 moneda: EUR
 idiomas:

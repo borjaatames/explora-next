@@ -36,6 +36,19 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+informacionImportante:
+  aTenerEnCuenta:
+  - Puedes elegir el tour de las 11:00 o el de las 18:00
+  - Llega al punto de encuentro 10 minutos antes para el registro
+  - Avisa al guía de cualquier alergia o necesidad alimentaria al llegar
+  - Se adaptan a restricciones dietéticas y opciones vegetarianas
+preguntasFrecuentes:
+- pregunta: ¿Cuántas paradas hay y qué se prueba?
+  respuesta: Cuatro paradas en bares familiares por tres barrios, probando tapas locales con maridaje de vino, cava y vermut, con un guía local que explica cada una.
+- pregunta: ¿A qué hora es?
+  respuesta: Puedes elegir entre el tour de las 11:00 y el de las 18:00. El punto de encuentro exacto se confirma al reservar.
+- pregunta: ¿Se adaptan a alergias o vegetarianos?
+  respuesta: Sí. Avisa al guía de cualquier alergia o necesidad alimentaria al llegar; hay opciones vegetarianas.
 opinionEditorial: "La noche es el mejor momento para las tapas en Barcelona, y hacerlo con guía te ahorra acabar en el bar equivocado. Cuatro paradas dan para probar bastante y conocer el barrio con calma."
 categoria: toursGastronomicos
 keywords:
@@ -68,5 +81,21 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a hacer
+
+Una ruta de tapas relajada al atardecer por el casco antiguo de Barcelona, con **cuatro paradas en bares y tabernas familiares**. En cada una pruebas tapas locales con bebidas tradicionales —vino, cava o vermut— mientras un guía local te cuenta la historia y las tradiciones de cada plato y cada sitio.
+
+Es más que cenar: es el "tapeo" español bien hecho, con calma, por tres barrios distintos del Gótico y el Born.
+
+## Cómo funciona
+
+Puedes elegir el tour de las **11:00** o el de las **18:00**. El punto de encuentro está en el casco antiguo (la dirección exacta se confirma al reservar) — **llega 10 minutos antes** para el registro y avisa al guía de cualquier alergia o necesidad alimentaria al llegar. Hay opciones vegetarianas.
+
+## A quién se lo recomiendo
+
+- A amantes de la comida que quieran probar mucho sin acabar en una trampa para turistas.
+- A parejas y grupos de amigos que busquen una velada relajada con sabor local.
+- A quien prefiera que un guía elija los mejores bares en vez de buscarlos por su cuenta.

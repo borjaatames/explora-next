@@ -39,7 +39,25 @@ puntoEncuentro:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
+  edadMinima: 8
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+informacionImportante:
+  queTraer:
+  - Toalla y bañador si quieres bañarte
+  - Una capa ligera para cuando baje el sol
+  - Crema solar y gafas de sol
+  aTenerEnCuenta:
+  - Grupo reducido, máximo 12 personas en un yate Beneteau Oceanis 41
+  - 'Edad mínima: 8 años'
+  - Sujeto al tiempo; si se cancela por mal tiempo, te dan fecha alternativa o reembolso completo
+  - El embarque tiene un pequeño hueco desde el pantalán, así que no es apto para sillas de ruedas (se te puede ayudar el corto trecho hasta los asientos)
+preguntasFrecuentes:
+- pregunta: ¿Qué incluye a bordo?
+  respuesta: Barra libre con cava, vino y cervezas, además de aperitivos, con patrón y guía multilingüe. Se facilitan chalecos salvavidas.
+- pregunta: ¿Se puede uno bañar?
+  respuesta: Sí, hay opción de darse un chapuzón en el mar. Lleva toalla y bañador, no se facilitan.
+- pregunta: ¿Va bien para parejas o grupos?
+  respuesta: Para ambos. Es un grupo reducido (máximo 12), así que funciona para una velada romántica o un grupo de amigos.
 opinionEditorial: "Ver Barcelona desde el mar al atardecer es de esos planes que casi nadie hace y que merecen mucho la pena: grupo pequeño, copa en mano y la ciudad iluminándose desde el agua. Para una pareja o un grupo de amigos, redondo."
 categoria: visitasGuiadas
 keywords:
@@ -72,5 +90,29 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a hacer
+
+Una navegación de dos horas al atardecer en un **yate Beneteau Oceanis 41**. Tras un breve briefing de seguridad, soltáis amarras y salís a motor del Port Vell —entre cruceros, superyates y la estatua de Colón— y luego el patrón iza las velas y navegáis por la costa de Barcelona mientras la ciudad se ilumina. Puedes relajarte con una copa, ayudar a navegar o darte un baño en el mar.
+
+Es un **grupo reducido (máximo 12)** con **barra libre** (cava, vino y cervezas) y aperitivos a bordo.
+
+## Qué incluye
+
+- Uso del yate con combustible, con patrón y guía multilingüe
+- Chalecos salvavidas
+- Barra libre (cava, vino y cervezas) y aperitivos
+
+No incluye: traslados al hotel, propinas ni toalla/bañador.
+
+## Cómo funciona
+
+Punto de encuentro en **Marina Vela, Port Vell**. **Edad mínima 8 años.** Lleva toalla y bañador si quieres bañarte, y una capa ligera para cuando baje el sol. Depende del tiempo: si se cancela por malas condiciones, te dan fecha alternativa o reembolso completo. Ten en cuenta que el embarque tiene un pequeño hueco desde el pantalán, así que no es apto para sillas de ruedas (se te puede ayudar el corto trecho hasta los asientos).
+
+## A quién se lo recomiendo
+
+- A parejas que busquen una velada romántica y a quien quiera Barcelona desde el agua a la hora dorada.
+- A grupos pequeños de amigos que quieran copas, aperitivos y baño al atardecer.
+- No es lo ideal si necesitas accesibilidad total o quieres un paseo a alta velocidad.

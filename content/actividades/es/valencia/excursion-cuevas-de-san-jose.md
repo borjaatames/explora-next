@@ -6,8 +6,8 @@ descripcion: "Excursión de medio día a las Cuevas de San José, el río subter
 slugs:
   es: excursion-cuevas-de-san-jose
   en: san-jose-caves-day-trip
-duracion: "4 horas"
-duracionMinutos: 240
+duracion: "3 h 30 min"
+duracionMinutos: 210
 precioDesde: 55
 moneda: EUR
 idiomas:
