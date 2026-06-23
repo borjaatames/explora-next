@@ -35,12 +35,10 @@ noIncluye:
 - Comida y bebida
 - Propinas (opcionales)
 puntoEncuentro:
-  texto: Av. de Gaudí, 1, 08025 Barcelona — junto al Fanal Modernista, entre el KFC y el Hard Rock
-  descripcionGuia: El punto de encuentro está en la Avenida de Gaudí, junto al Fanal Modernista (una farola muy alta con base
-    de piedra), frente a la parte trasera de la basílica, entre el restaurante KFC y la tienda Hard Rock. Bajo el fanal, busca
-    una bandera roja con el texto «4U». Llega 15 minutos antes.
-  latitud: 41.4058
-  longitud: 2.176
+  texto: Avenida de Gaudí, 1, 08025 Barcelona — frente a la tienda de la Sagrada Familia
+  descripcionGuia: 'El punto de encuentro está en la Avenida de Gaudí, 1, frente a la tienda de la Sagrada Familia. Es una zona concurrida: llega 15 minutos antes.'
+  latitud: 41.4046
+  longitud: 2.1744
   zoom: 17
 detallesPracticos:
   ticketMovil: true
@@ -88,7 +86,7 @@ opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour 
 
   Su punto fuerte real, más allá del grupo pequeño, es la accesibilidad: es la visita guiada que declara expresamente acceso
   en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción. Lo que no incluye son
-  las torres ni ningún traslado, y el punto de encuentro —junto al Fanal Modernista, entre el KFC y el Hard Rock— es de los
+  las torres ni ningún traslado, y el punto de encuentro —Avenida de Gaudí, 1— es de los
   concurridos: llega con margen.
 
   '
@@ -151,7 +149,7 @@ El recorrido es el de cualquier visita guiada a la basílica —fachadas, interi
 
 ## Cómo funciona
 
-El punto de encuentro está en la **Avenida de Gaudí, junto al Fanal Modernista** —una farola muy alta con base de piedra—, frente a la parte trasera de la basílica, entre el KFC y el Hard Rock. Bajo el fanal, busca una **bandera roja con el texto «4U»**. Es una zona concurrida: **llega 15 minutos antes**.
+El punto de encuentro está en la **Avenida de Gaudí, 1**, frente a la tienda de la Sagrada Familia. Es una zona concurrida: **llega 15 minutos antes**.
 
 El recorrido dura **1 h 45 min** con guía oficial y **sistema de audio** para oírlo bien. Al ser grupo reducido, el guía puede ir más al detalle y responder preguntas sin que se pierda el hilo.
 

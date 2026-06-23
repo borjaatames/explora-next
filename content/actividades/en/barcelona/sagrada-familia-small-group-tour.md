@@ -35,12 +35,10 @@ noIncluye:
 - Food and drink
 - Gratuities (optional)
 puntoEncuentro:
-  texto: Av. de Gaudí, 1, 08025 Barcelona — by the Modernist Lamppost, between the KFC and the Hard Rock
-  descripcionGuia: The meeting point is on Avenida de Gaudí, by the Modernist Lamppost (a very tall lamppost with a stone
-    base), facing the back of the basilica, between the KFC restaurant and the Hard Rock store. Under the lamppost, look for
-    a red flag with the text «4U». Arrive 15 minutes early.
-  latitud: 41.4058
-  longitud: 2.176
+  texto: Avenida de Gaudí, 1, 08025 Barcelona — outside the Sagrada Familia shop
+  descripcionGuia: 'The meeting point is at Avenida de Gaudí, 1, outside the Sagrada Familia shop. It''s a busy area, so arrive 15 minutes early.'
+  latitud: 41.4046
+  longitud: 2.1744
   zoom: 17
 detallesPracticos:
   ticketMovil: true
@@ -88,7 +86,7 @@ opinionEditorial: 'This is the middle ground between the standard guided tour an
 
   Its real strong point, beyond the small group, is accessibility: it''s the guided visit that expressly declares wheelchair
   access, with special entry to the monument. If that''s your need, this is the option. What it doesn''t include are the towers
-  or any transfer, and the meeting point — by the Modernist Lamppost, between the KFC and the Hard Rock — is a busy one: arrive
+  or any transfer, and the meeting point — Avenida de Gaudí, 1 — is a busy one: arrive
   with time to spare.
 
   '
@@ -153,7 +151,7 @@ The route is that of any guided tour of the basilica — façades, interior and 
 
 ## How it works
 
-The meeting point is on **Avenida de Gaudí, by the Modernist Lamppost** — a very tall lamppost with a stone base — facing the back of the basilica, between the KFC and the Hard Rock. Under the lamppost, look for a **red flag with the text «4U»**. It's a busy area: **arrive 15 minutes early**.
+The meeting point is at **Avenida de Gaudí, 1**, outside the Sagrada Familia shop. It's a busy area: **arrive 15 minutes early**.
 
 The route lasts **1 h 45 min** with an official guide and an **audio system** to hear them well. Being a small group, the guide can go into more detail and answer questions without losing the thread.
 
