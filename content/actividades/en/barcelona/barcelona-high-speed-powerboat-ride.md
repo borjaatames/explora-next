@@ -66,6 +66,16 @@ keywords:
 imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp"
 imagenAlt: "High-speed powerboat in Barcelona's Port Vell"
 galeria:
+- src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
+  alt: Barcelona high-speed powerboat ride (Bokun)
+- src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
+  alt: Barcelona high-speed powerboat ride (Bokun)
+- src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
+  alt: Barcelona high-speed powerboat ride (Bokun)
+- src: https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg
+  alt: Barcelona high-speed powerboat ride (Bokun)
+- src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
+  alt: Barcelona high-speed powerboat ride (Bokun)
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
   alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp

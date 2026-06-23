@@ -58,6 +58,16 @@ keywords:
 imagen: "/images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp"
 imagenAlt: El Mercado de la Boquería de Barcelona lleno de puestos de productos frescos
 galeria:
+- src: https://imgcdn.bokun.tools/5d4c20ab-4401-4362-96fe-377b78cac9f2.jpeg
+  alt: Tour gastronómico de mediodía con la Boquería (Bokun)
+- src: https://imgcdn.bokun.tools/57741ce2-c812-4933-b7f6-0d121cc20550.jpeg
+  alt: Tour gastronómico de mediodía con la Boquería (Bokun)
+- src: https://imgcdn.bokun.tools/4238c556-4b96-4d5a-a7b6-851b459fc661.jpeg
+  alt: Tour gastronómico de mediodía con la Boquería (Bokun)
+- src: https://imgcdn.bokun.tools/33d1acca-8d37-4951-9f18-12a4164f18ee.jpeg
+  alt: Tour gastronómico de mediodía con la Boquería (Bokun)
+- src: https://imgcdn.bokun.tools/7157a993-70b2-4ff7-80a2-c7b9030cd867.jpeg
+  alt: Tour gastronómico de mediodía con la Boquería (Bokun)
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Mercado de la Boqueria, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp

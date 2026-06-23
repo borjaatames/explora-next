@@ -53,6 +53,16 @@ keywords:
 imagen: "/images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp"
 imagenAlt: Barcelona's La Rambla with pedestrians at dusk
 galeria:
+- src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
+  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
+  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
+  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
+  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
+  alt: Private tapas & wine walking tour, Barcelona (Bokun)
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: La Boqueria market, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp

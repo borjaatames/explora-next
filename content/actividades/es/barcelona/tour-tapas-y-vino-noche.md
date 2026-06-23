@@ -58,6 +58,16 @@ keywords:
 imagen: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
 imagenAlt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
 galeria:
+- src: https://imgcdn.bokun.tools/5c1402e6-e8df-4350-9b80-3a2426849395.jpeg
+  alt: Tour de tapas y vino por la noche, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/318d9bd7-7208-4d0c-a090-144ec506c897.jpeg
+  alt: Tour de tapas y vino por la noche, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/0ec26797-2071-4a52-94d9-7e4c24752979.jpeg
+  alt: Tour de tapas y vino por la noche, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/02d48709-4a2c-4925-8bb8-3c1d734ec81e.jpeg
+  alt: Tour de tapas y vino por la noche, Barcelona (Bokun)
+- src: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
+  alt: Tour de tapas y vino por la noche, Barcelona (Bokun)
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Mercado de la Boqueria, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp

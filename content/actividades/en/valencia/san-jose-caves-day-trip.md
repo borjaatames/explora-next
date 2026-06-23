@@ -50,6 +50,8 @@ imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-unsplash-_U6Er
 imagenAlt: "Boat ride along the underground river of the San José Caves near Valencia"
 
 galeria:
+  - src: "https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg"
+    alt: "San José Caves boat ride from Valencia (Bokun)"
   - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
     alt: "Illuminated underground river of the San José Caves with rock formations"
   - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-hero.webp"

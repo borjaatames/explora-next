@@ -44,6 +44,16 @@ keywords:
 imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
+- src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
+  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+- src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
+  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+- src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
+  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+- src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
+  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+- src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
+  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
   alt: Aguas turquesa de la Cala Granadella en Jávea
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
@@ -59,5 +69,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a ver
+
+Un día de playa en la **Cala Granadella**, en Jávea — habitualmente votada entre las calas más bonitas de España. Aguas turquesa y cristalinas ideales para **bañarse y hacer snorkel**, enmarcadas por pinares y acantilados, y con Bandera Azul cada año desde 1989.
+
+## Cómo funciona
+
+**Transporte de ida y vuelta desde Valencia** con acompañante; el punto de encuentro en Valencia se confirma al reservar. Es un día completo de playa (unas 8 horas) — lleva cosas de playa, agua y comida, ya que la comida, la bebida y el equipo de snorkel no están incluidos.
+
+## A quién se lo recomiendo
+
+- A quien quiera una de las mejores calas de la Costa Blanca sin la pesadilla de aparcar en verano.
+- A amantes de la playa y el snorkel.
+- No es un tour cultural guiado — es un traslado para pasar el día en la playa.

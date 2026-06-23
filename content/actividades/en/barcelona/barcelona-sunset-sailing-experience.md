@@ -67,6 +67,16 @@ keywords:
 imagen: "/images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp"
 imagenAlt: "Sailing yacht at sunset off the Barcelona coast"
 galeria:
+- src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
+  alt: Barcelona sunset sailing experience (Bokun)
+- src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
+  alt: Barcelona sunset sailing experience (Bokun)
+- src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
+  alt: Barcelona sunset sailing experience (Bokun)
+- src: https://imgcdn.bokun.tools/740143a2-08a4-4ea5-a6cd-d9c69fb1db12.jpg
+  alt: Barcelona sunset sailing experience (Bokun)
+- src: https://imgcdn.bokun.tools/d96e5712-3550-494f-af18-2999c7d413dc.jpg
+  alt: Barcelona sunset sailing experience (Bokun)
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
