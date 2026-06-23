@@ -59,6 +59,16 @@ keywords:
 imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
 imagenAlt: "Madrid's Gran Vía with its historic buildings and avenue traffic"
 galeria:
+- src: https://imgcdn.bokun.tools/ec298125-bc0c-4877-b1ec-1dcd41fc08f2.jpg
+  alt: Gran Vía private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/f967b27b-ce18-4427-bf30-c1412a783e94.jpg
+  alt: Gran Vía private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/7e10b32d-ee1f-4629-8e51-7a7dfe3e8238.jpg
+  alt: Gran Vía private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/66713f56-a58f-4f2c-b887-8c8b3356edd2.jpg
+  alt: Gran Vía private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
+  alt: Gran Vía private walking tour, Madrid (Bokun)
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
   alt: Gran Via avenue, Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
@@ -82,4 +92,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## What you'll see
+
+A two-hour **private walk along Gran Vía**, Madrid's most famous avenue, from the **Maqueta del Centenario** (by Plaza de España) to **Plaza de Callao**. Your guide tells the story of how Gran Vía was carved through the old city as a showcase of modernity — its **Beaux-Arts buildings, Art Deco skyscrapers and historic cinemas** — and how it became the stage where Madrid presented itself as a cosmopolitan capital.
+
+## How it works
+
+It's a **private tour for your group only**, with a guide just for you, so you set the pace and ask whatever you like. The price is **per group, not per person**, so it works out better the more of you there are. The route is accessible for wheelchairs and strollers (moderate due to the distance).
+
+## Who I'd recommend it to
+
+- Couples or families who want Gran Vía explained properly, at their own pace.
+- Anyone who prefers a private guide over a big-group tour.
+- Architecture and classic-cinema lovers.

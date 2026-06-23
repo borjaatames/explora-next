@@ -28,7 +28,7 @@ noIncluye:
   - "Comida y bebida"
   - "Propinas"
 puntoEncuentro: "Punto de salida en Barcelona; se confirma en la reserva."
-opinionEditorial: "Una de las excursiones mejor valoradas de la zona (4,99 sobre 5) y de las más económicas: Girona, la Costa Brava y un pueblo medieval en un día por 53 €."
+opinionEditorial: "Una de las excursiones mejor valoradas de la zona (4,99 sobre 5) y de las más económicas: Girona, la Costa Brava y un pueblo medieval en un día desde 89 €."
 categoria: excursionesDia
 keywords:
   - "girona costa brava pueblos medievales"

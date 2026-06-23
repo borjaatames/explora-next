@@ -65,6 +65,16 @@ keywords:
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: La Sagrada Familia de Barcelona, una de las paradas del tour por España
 galeria:
+- src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
+  alt: Tour privado de 9 días por España (Bokun)
+- src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
+  alt: Tour privado de 9 días por España (Bokun)
+- src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
+  alt: Tour privado de 9 días por España (Bokun)
+- src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
+  alt: Tour privado de 9 días por España (Bokun)
+- src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
+  alt: Tour privado de 9 días por España (Bokun)
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Basilica de la Sagrada Familia, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
@@ -88,4 +98,30 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a ver
+
+Un **gran tour privado de 9 días por España** que recorre sus cuatro ciudades estrella —**Barcelona, Madrid, Granada y Sevilla**— enlazadas por **trenes AVE de alta velocidad**. Viajas con estructura pero a tu ritmo: visitas guiadas a pie en Barcelona y Madrid, entradas a monumentos y tiempo libre para descubrir cada ciudad.
+
+## Qué incluye
+
+- Alojamiento en hoteles seleccionados
+- Desayuno y cena cada día
+- Entradas a los monumentos indicados
+- Billetes de tren AVE entre ciudades
+- Traslados de aeropuerto especificados
+- Visitas guiadas a pie en Barcelona y Madrid
+
+No incluye: comidas, propinas y extras/souvenirs.
+
+## Cómo funciona
+
+El viaje es **privado** (no vas con un grupo de 40) y empieza en **Barcelona** — el punto de recogida exacto y el itinerario se confirman al reservar. El precio "desde" es **por persona**. Implica caminar y no es accesible en silla de ruedas.
+
+## A quién se lo recomiendo
+
+- A familias o grupos de amigos que quieran ver lo esencial de España sin organizar nada.
+- A quien quiera comodidad (AVE, hoteles, comidas) con un ritmo privado y flexible.
+- No es para presupuestos ajustados ni para quien prefiera planificar su propia ruta.

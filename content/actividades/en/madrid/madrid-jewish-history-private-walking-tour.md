@@ -57,6 +57,14 @@ keywords:
 imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
 imagenAlt: "Historic streets of central Madrid"
 galeria:
+- src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
+  alt: Jewish history private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/4bbb1531-f10a-4c51-9d03-8ed595ff00bf.jpg
+  alt: Jewish history private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/fb9bc168-1926-4ae4-9a48-6ac589e5d6cf.jpg
+  alt: Jewish history private walking tour, Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
+  alt: Jewish history private walking tour, Madrid (Bokun)
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
   alt: Historic streets of central Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
@@ -80,4 +88,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## What you'll see
+
+A two-hour **private walk through Jewish Madrid**, uncovering a history that goes back **more than a thousand years** yet is largely invisible in the city today. Your guide traces the Jewish presence in Madrid and Spain — centuries of coexistence and tension, the medieval communities, the 1492 exile and the 20th-century Sephardic return — through the streets, names and spaces that still carry it.
+
+## How it works
+
+It's a **private tour for your group only**, with a guide just for you, starting around the Jewish Community of Madrid (the exact meeting point is confirmed when you book). The price is **per group, not per person**, and at €199 it's one of the most affordable private options in the catalogue.
+
+## Who I'd recommend it to
+
+- Anyone interested in Jewish and Sephardic history, told with time and context.
+- Couples or small groups who want a niche, tailored tour.
+- Travellers who value a private guide who adapts the story to them.

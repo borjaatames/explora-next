@@ -59,6 +59,16 @@ keywords:
 imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
 imagenAlt: "La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida"
 galeria:
+- src: https://imgcdn.bokun.tools/ec298125-bc0c-4877-b1ec-1dcd41fc08f2.jpg
+  alt: Tour privado por la Gran Vía de Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/f967b27b-ce18-4427-bf30-c1412a783e94.jpg
+  alt: Tour privado por la Gran Vía de Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/7e10b32d-ee1f-4629-8e51-7a7dfe3e8238.jpg
+  alt: Tour privado por la Gran Vía de Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/66713f56-a58f-4f2c-b887-8c8b3356edd2.jpg
+  alt: Tour privado por la Gran Vía de Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
+  alt: Tour privado por la Gran Vía de Madrid (Bokun)
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
   alt: Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
@@ -82,4 +92,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a ver
+
+Un paseo privado de dos horas por la **Gran Vía**, la avenida más famosa de Madrid, desde la **Maqueta del Centenario** (junto a Plaza de España) hasta la **Plaza de Callao**. Tu guía te cuenta cómo se abrió la Gran Vía a través de la ciudad vieja como escaparate de la modernidad —sus **edificios Beaux-Arts, rascacielos Art Déco y cines históricos**— y cómo se convirtió en el escenario donde Madrid se presentó como capital cosmopolita.
+
+## Cómo funciona
+
+Es un **tour privado solo para tu grupo**, con guía en exclusiva, así que marcáis el ritmo y preguntáis lo que queráis. El precio es **por grupo, no por persona**, así que sale mejor cuantos más seáis. El recorrido es accesible para sillas de ruedas y carritos (dificultad moderada por la distancia).
+
+## A quién se lo recomiendo
+
+- A parejas o familias que quieran la Gran Vía bien explicada y a su ritmo.
+- A quien prefiera un guía privado antes que un tour de grupo grande.
+- A los amantes de la arquitectura y el cine clásico.

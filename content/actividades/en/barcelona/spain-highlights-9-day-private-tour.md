@@ -65,6 +65,16 @@ keywords:
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
 imagenAlt: Barcelona's Sagrada Familia, one of the stops on the Spain tour
 galeria:
+- src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
+  alt: Spain 9-day private tour (Bokun)
+- src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
+  alt: Spain 9-day private tour (Bokun)
+- src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
+  alt: Spain 9-day private tour (Bokun)
+- src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
+  alt: Spain 9-day private tour (Bokun)
+- src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
+  alt: Spain 9-day private tour (Bokun)
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
@@ -88,4 +98,30 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## What you'll see
+
+A private **9-day grand tour of Spain** taking in its four headline cities — **Barcelona, Madrid, Granada and Seville** — linked by **high-speed AVE trains**. You travel with structure but at your own pace: guided walking tours in Barcelona and Madrid, monument admissions, and free time to explore each city.
+
+## What's included
+
+- Accommodation in handpicked hotels
+- Breakfast and dinner each day
+- Admission to the listed monuments
+- High-speed (AVE) train tickets between cities
+- Specified airport transfers
+- Guided walking tours in Barcelona and Madrid
+
+Not included: lunches, tips, and extras/souvenirs.
+
+## How it works
+
+The trip is **private** (you're not stuck with a group of 40) and starts in **Barcelona** — the exact pickup point and itinerary are confirmed when you book. The "from" price is **per person**. It involves walking and isn't wheelchair accessible.
+
+## Who I'd recommend it to
+
+- Families or groups of friends who want to see the essentials of Spain without organising anything.
+- Travellers who want comfort (AVE, hotels, meals) with a private, flexible pace.
+- Not for those on a tight budget or who prefer to plan their own route.

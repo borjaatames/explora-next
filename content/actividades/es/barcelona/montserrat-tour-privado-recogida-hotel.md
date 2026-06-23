@@ -65,6 +65,7 @@ informacionImportante:
     - "Accesible para carritos de bebé"
     - "Otros idiomas bajo pedido (no solo español/inglés)"
     - "El precio mostrado es POR PERSONA"
+    - "Reserva con al menos 3 días de antelación"
 
 accesibilidad: "Accesible para carritos de bebé. Asientos infantiles disponibles. No accesible para sillas de ruedas estándar; consulta con el operador si lo necesitas."
 
@@ -102,6 +103,14 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-m
 imagenAlt: "Vehículo privado con guía en el complejo del monasterio de Montserrat"
 
 galeria:
+- src: https://imgcdn.bokun.tools/80bfa4ed-213d-478e-94ff-0010a7d96d0a.jpg
+  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+- src: https://imgcdn.bokun.tools/ca02199c-32ac-4dc9-9765-34b7904a543b.jpg
+  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+- src: https://imgcdn.bokun.tools/0fa5951b-6760-4696-a43b-359ebabc050a.jpg
+  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+- src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
+  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp

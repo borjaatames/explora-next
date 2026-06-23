@@ -62,6 +62,16 @@ keywords:
 imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
 imagenAlt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 galeria:
+- src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
+  alt: Tour privado a El Escorial desde Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
+  alt: Tour privado a El Escorial desde Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg
+  alt: Tour privado a El Escorial desde Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
+  alt: Tour privado a El Escorial desde Madrid (Bokun)
+- src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg
+  alt: Tour privado a El Escorial desde Madrid (Bokun)
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
   alt: Real Monasterio de San Lorenzo de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
@@ -85,4 +95,19 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
+fecha_actualizacion: '2026-06-23'
 ---
+
+## Qué vas a ver
+
+Un día completo en privado desde Madrid hasta **El Escorial** y los grandes hitos reales de la ciudad. Antes de subir a la sierra recorres el corazón regio de Madrid —el Panteón de España, la Real Basílica de San Miguel, la Catedral de la Almudena, el Palacio Real y los jardines del Palacio de la Zarzuela— y después el **Real Monasterio de San Lorenzo de El Escorial**, el enorme complejo de los Austrias con su basílica, biblioteca y panteón real.
+
+## Cómo funciona
+
+Es un **tour privado solo para tu grupo**, con **recogida en el hotel**, transporte privado, entradas y guía en exclusiva. Vas a tu ritmo y con tiempo de sobra para el monasterio. **Reserva con al menos 1 día de antelación.** La comida no está incluida, así que tenlo en cuenta, y hay caminata y escalones (conviene una forma física media).
+
+## A quién se lo recomiendo
+
+- A quien quiera ver El Escorial sin complicaciones — está mal conectado en transporte público.
+- A familias o grupos que valoren guía privado, comodidad y un ritmo a medida.
+- No es para quien viaje solo con presupuesto ajustado: es la opción premium (€1.499 por grupo).
