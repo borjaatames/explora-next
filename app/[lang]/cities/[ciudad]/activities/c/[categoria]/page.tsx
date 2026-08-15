@@ -12,17 +12,18 @@ import {
   type CategoriaActividad,
 } from "@/lib/actividades";
 import { getDictionary } from "@/lib/i18n/getDictionary";
+import { esIdiomaActivo, IDIOMAS_ACTIVOS, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
   hreflangAlternates,
+  prefijoIdioma,
   urlActividadesDeCiudad,
   urlActividadesDeCiudadPorCategoria,
 } from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
 import SelloProveedor from "@/components/SelloProveedor";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
-
-const IDIOMA = "en" as const;
 
 /**
  * Plural label used as both the user-facing category name and inside the
@@ -66,15 +67,20 @@ type Props = {
 };
 
 /**
- * Only generate category pages for (city, category) combinations with at
- * least one activity published in English. Avoids empty indexable pages
- * and 404 paths.
+ * Solo genera páginas de categoría para (idioma, ciudad, categoría) con
+ * al menos una actividad publicada. Recorre todos los idiomas activos
+ * != es; hoy solo `en` tiene contenido, así que en la práctica solo se
+ * generan rutas /en/... — cuando haya contenido en otro idioma activo,
+ * se recoge automáticamente sin tocar código.
  */
 export async function generateStaticParams() {
   const params: { lang: string; ciudad: string; categoria: string }[] = [];
-  for (const ciudad of obtenerCiudadesConActividades(IDIOMA)) {
-    for (const cat of obtenerCategoriasConActividades(IDIOMA, ciudad)) {
-      params.push({ lang: IDIOMA, ciudad, categoria: cat.urlSlug });
+  for (const lang of IDIOMAS_ACTIVOS) {
+    if (lang === "es") continue;
+    for (const ciudad of obtenerCiudadesConActividades(lang)) {
+      for (const cat of obtenerCategoriasConActividades(lang, ciudad)) {
+        params.push({ lang, ciudad, categoria: cat.urlSlug });
+      }
     }
   }
   return params;
@@ -83,7 +89,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: Props): Promise<Metadata> {
-  const ciudad = await obtenerCiudad(IDIOMA, params.ciudad);
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    return { title: "Not found" };
+  }
+  const lang: Idioma = params.lang;
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) return { title: "City not found" };
 
   const categoria = categoriaDesdeUrl(params.categoria);
@@ -91,7 +101,7 @@ export async function generateMetadata({
 
   const { titulo, descripcion } = textosCategoria(categoria, ciudad.nombre);
   const url = `${SITE_URL}${urlActividadesDeCiudadPorCategoria(
-    IDIOMA,
+    lang,
     params.ciudad,
     params.categoria
   )}`;
@@ -116,33 +126,37 @@ export async function generateMetadata({
       title: `${titulo} | ExploraSpain`,
       description: descripcion,
       siteName: "ExploraSpain",
-      locale: "en_US",
+      locale: IDIOMA_LOCALE[lang],
     },
   };
 }
 
 export default async function ActividadesCategoriaPage({ params }: Props) {
-  const ciudad = await obtenerCiudad(IDIOMA, params.ciudad);
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    notFound();
+  }
+  const lang: Idioma = params.lang;
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) notFound();
 
   const categoria = categoriaDesdeUrl(params.categoria);
   if (!categoria) notFound();
 
   const actividades = obtenerActividadesDeCiudadPorCategoria(
-    IDIOMA,
+    lang,
     params.ciudad,
     categoria
   );
   if (actividades.length === 0) notFound();
 
-  const dict = getDictionary(IDIOMA);
+  const dict = getDictionary(lang);
   const labelCategoria = dict.actividades.categorias[categoria];
   const { titulo: tituloPagina, descripcion: descripcionPagina } =
     textosCategoria(categoria, ciudad.nombre);
 
-  const urlIndice = urlActividadesDeCiudad(IDIOMA, params.ciudad);
+  const urlIndice = urlActividadesDeCiudad(lang, params.ciudad);
   const urlCategoria = urlActividadesDeCiudadPorCategoria(
-    IDIOMA,
+    lang,
     params.ciudad,
     params.categoria
   );
@@ -205,7 +219,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
           <nav aria-label="Breadcrumb" className="mb-6 text-sm text-slate-500">
             <ol className="flex flex-wrap items-center gap-x-2">
               <li>
-                <Link href="/en" className="hover:text-slate-700">
+                <Link href={prefijoIdioma(lang) || "/"} className="hover:text-slate-700">
                   {dict.navegacion.inicio}
                 </Link>
               </li>
@@ -242,6 +256,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
               key={actividad.slug}
               actividad={actividad}
               dict={dict}
+              lang={lang}
             />
           ))}
         </div>
@@ -253,11 +268,13 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
 function TarjetaActividad({
   actividad,
   dict,
+  lang,
 }: {
   actividad: ActividadListItem;
   dict: ReturnType<typeof getDictionary>;
+  lang: Idioma;
 }) {
-  const formatoPrecio = new Intl.NumberFormat("en-US", {
+  const formatoPrecio = new Intl.NumberFormat(IDIOMA_LOCALE[lang], {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
@@ -301,7 +318,7 @@ function TarjetaActividad({
         <div className="mt-auto pt-6">
           <SelloProveedor
             proveedor={actividad.proveedor}
-            idioma={IDIOMA}
+            idioma={lang}
             className="mb-3"
           />
           <div className="flex items-end justify-between">

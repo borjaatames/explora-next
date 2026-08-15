@@ -7,6 +7,7 @@ import {
   obtenerTodosLosCaminosCiudades,
   type Atraccion,
 } from "@/lib/ciudades";
+import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -87,6 +88,13 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
   if (!ciudad) notFound();
   const atracciones = ciudad.atracciones ?? [];
   if (atracciones.length === 0) notFound();
+  // El enlace "ver actividades" al final de la página solo debe mostrarse
+  // si esa ruta existe de verdad para este idioma+ciudad (mismo criterio
+  // que hayActividades en cities/[ciudad]/page.tsx). Hoy solo `en` tiene
+  // contenido de actividades: sin este guard, el enlace en alemán (u
+  // otro idioma sin contenido) apuntaría a una página que no existe.
+  const hayActividades =
+    obtenerListaActividadesPorCiudad(lang, params.ciudad).length > 0;
 
   const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
   const indiceUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
@@ -159,11 +167,13 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
         </div>
       </section>
 
-      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link href={urlActividadesDeCiudad(lang, params.ciudad)} className="text-sky-600 hover:text-sky-700 font-semibold">
-          {verActividades}
-        </Link>
-      </div>
+      {hayActividades ? (
+        <div className="max-w-3xl mx-auto px-4 py-12 text-center">
+          <Link href={urlActividadesDeCiudad(lang, params.ciudad)} className="text-sky-600 hover:text-sky-700 font-semibold">
+            {verActividades}
+          </Link>
+        </div>
+      ) : null}
     </main>
   );
 }

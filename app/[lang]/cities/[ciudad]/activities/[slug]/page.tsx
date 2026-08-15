@@ -10,11 +10,15 @@ import {
 import { slugParejaActividad } from "@/lib/i18n/slugs";
 import { obtenerListaGuias } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
+import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
   hreflangAlternates,
+  prefijoIdioma,
   urlActividad,
   urlActividadesDeCiudad,
+  urlIndiceCiudades,
 } from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
 import { obtenerHorariosViator } from "@/lib/viator-api";
 import GaleriaActividad from "@/components/GaleriaActividad";
@@ -31,22 +35,31 @@ import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
-const IDIOMA = "en" as const;
-
 type Props = {
   params: { lang: string; ciudad: string; slug: string };
 };
 
+/**
+ * Genera rutas para todas las (idioma, ciudad, slug) de actividades
+ * publicadas en idiomas activos != es. Hoy solo `en` tiene contenido de
+ * actividades; si se añade contenido en otro idioma activo, se recoge
+ * automáticamente. Sin contenido para un idioma, la ruta no se genera y
+ * visitarla a mano hace notFound() (ver guard más abajo).
+ */
 export async function generateStaticParams() {
   return obtenerTodosLosCaminosActividades()
-    .filter((c) => c.idioma === IDIOMA)
-    .map(({ ciudad, slug }) => ({ lang: IDIOMA, ciudad, slug }));
+    .filter((c) => c.idioma !== "es")
+    .map(({ idioma, ciudad, slug }) => ({ lang: idioma, ciudad, slug }));
 }
 
 export async function generateMetadata({
   params,
 }: Props): Promise<Metadata> {
-  const actividad = await obtenerActividad(IDIOMA, params.ciudad, params.slug);
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    return { title: "Not found" };
+  }
+  const lang: Idioma = params.lang;
+  const actividad = await obtenerActividad(lang, params.ciudad, params.slug);
   if (!actividad) return { title: "Activity not found" };
 
   const url = `${SITE_URL}${actividad.url}`;
@@ -64,7 +77,7 @@ export async function generateMetadata({
       canonical: url,
       languages: hreflangAlternates((l) => {
         const slugPareja = slugParejaActividad(
-          IDIOMA,
+          lang,
           params.ciudad,
           params.slug,
           l
@@ -78,7 +91,7 @@ export async function generateMetadata({
       title: `${actividad.titulo} | ExploraSpain`,
       description: actividad.descripcion,
       siteName: "ExploraSpain",
-      locale: "en_US",
+      locale: IDIOMA_LOCALE[lang],
       images: actividad.imagen
         ? [{ url: actividad.imagen, alt: actividad.imagenAlt }]
         : [],
@@ -87,28 +100,40 @@ export async function generateMetadata({
 }
 
 export default async function ActividadPage({ params }: Props) {
-  const ciudad = await obtenerCiudad(IDIOMA, params.ciudad);
-  const actividad = await obtenerActividad(IDIOMA, params.ciudad, params.slug);
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    notFound();
+  }
+  const lang: Idioma = params.lang;
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
+  const actividad = await obtenerActividad(lang, params.ciudad, params.slug);
   if (!ciudad || !actividad) notFound();
 
-  const dict = getDictionary(IDIOMA);
+  const dict = getDictionary(lang);
 
   const guiasRelacionadas =
     actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
-      ? obtenerListaGuias(IDIOMA).filter((g) =>
+      ? obtenerListaGuias(lang).filter((g) =>
           actividad.guiasRelacionadas!.includes(g.slug)
         )
       : [];
 
   const url = `${SITE_URL}${actividad.url}`;
+  // Viator y GetYourGuide solo soportan es/en en su propio sitio (ver
+  // docstring de construirUrlReserva en lib/afiliados.ts). Esta ficha solo
+  // se genera hoy para lang="en" (sin contenido de actividades en otros
+  // idiomas), pero acotamos el tipo aquí explícitamente para no ensanchar
+  // la firma de esas funciones con idiomas que el proveedor no entiende.
+  const idiomaProveedor: "es" | "en" = lang === "en" ? "en" : "es";
   // Incremento 1: precio "desde" en vivo de la API de Viator (fallback al del .md).
   const codViator =
     actividad.proveedor === "viator"
       ? actividad.urlReserva.match(/\/d\d+-([A-Za-z0-9]+)/)?.[1] ?? null
       : null;
-  const dispViator = codViator ? await obtenerHorariosViator(codViator, IDIOMA) : null;
+  const dispViator = codViator
+    ? await obtenerHorariosViator(codViator, idiomaProveedor)
+    : null;
   const precioDesdeFinal = dispViator?.precioDesde ?? actividad.precioDesde;
-  const precio = new Intl.NumberFormat("en-US", {
+  const precio = new Intl.NumberFormat(IDIOMA_LOCALE[lang], {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
@@ -117,22 +142,25 @@ export default async function ActividadPage({ params }: Props) {
   const urlReservaBase = construirUrlReserva(
     actividad.proveedor,
     actividad.urlReserva,
-    IDIOMA
+    idiomaProveedor
   );
   const nombreComercialProveedor = nombreProveedor(actividad.proveedor);
 
-  const productLd = buildProductLd(actividad, url, urlReservaBase);
+  const productLd = buildProductLd(actividad, url, urlReservaBase, lang);
+
+  const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
+  const indiceCiudadesUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
       {
         "@type": "ListItem",
         position: 2,
         name: "Cities",
-        item: `${SITE_URL}/en/cities`,
+        item: indiceCiudadesUrl,
       },
       {
         "@type": "ListItem",
@@ -144,7 +172,7 @@ export default async function ActividadPage({ params }: Props) {
         "@type": "ListItem",
         position: 4,
         name: "Things to do",
-        item: `${SITE_URL}${urlActividadesDeCiudad(IDIOMA, params.ciudad)}`,
+        item: `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`,
       },
       { "@type": "ListItem", position: 5, name: actividad.titulo, item: url },
     ],
@@ -158,12 +186,12 @@ export default async function ActividadPage({ params }: Props) {
   const ratingTextoOpiniones =
     actividad.numeroOpiniones === 1
       ? `1 ${dict.actividades.opiniones}`
-      : `${(actividad.numeroOpiniones ?? 0).toLocaleString("en-US")} ${
+      : `${(actividad.numeroOpiniones ?? 0).toLocaleString(IDIOMA_LOCALE[lang])} ${
           dict.actividades.opiniones
         }`;
 
   const ratingTextoValor = (actividad.ratingProveedor ?? 0).toLocaleString(
-    "en-US",
+    IDIOMA_LOCALE[lang],
     {
       minimumFractionDigits: 1,
       maximumFractionDigits: 1,
@@ -184,7 +212,7 @@ export default async function ActividadPage({ params }: Props) {
       <header className="bg-sky-500 text-white py-10 md:py-14">
         <div className="max-w-6xl mx-auto px-4">
           <nav aria-label="Breadcrumb" className="text-sm text-sky-100 mb-4">
-            <Link href="/en" className="hover:text-white">
+            <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               Home
             </Link>
             {" › "}
@@ -193,7 +221,7 @@ export default async function ActividadPage({ params }: Props) {
             </Link>
             {" › "}
             <Link
-              href={urlActividadesDeCiudad(IDIOMA, params.ciudad)}
+              href={urlActividadesDeCiudad(lang, params.ciudad)}
               className="hover:text-white"
             >
               Things to do
@@ -248,12 +276,12 @@ export default async function ActividadPage({ params }: Props) {
       <section className="max-w-6xl mx-auto px-4 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2 space-y-12">
-            <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} />
+            <SelloProveedor proveedor={actividad.proveedor} idioma={lang} />
 
             {/* 1. Galería con sello "Recomendado" */}
             {actividad.imagen && (
               <GaleriaActividad
-                idioma={IDIOMA}
+                idioma={lang}
                 principal={{
                   src: actividad.imagen,
                   alt: actividad.imagenAlt,
@@ -265,7 +293,7 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 2. Detalles prácticos */}
             <DetallesPracticos
-              idioma={IDIOMA}
+              idioma={lang}
               duracion={actividad.duracion}
               idiomas={actividad.idiomas}
               detalles={actividad.detallesPracticos}
@@ -361,11 +389,11 @@ export default async function ActividadPage({ params }: Props) {
             )}
 
             {/* 6. Important info — 3 columns */}
-            <InformacionImportante idioma={IDIOMA} info={actividad.informacionImportante} />
+            <InformacionImportante idioma={lang} info={actividad.informacionImportante} />
 
             {/* 7. Meeting point with OSM map */}
             {actividad.puntoEncuentro.texto && (
-              <MapaPuntoEncuentro idioma={IDIOMA} punto={actividad.puntoEncuentro} />
+              <MapaPuntoEncuentro idioma={lang} punto={actividad.puntoEncuentro} />
             )}
 
             {/* 8. The experience (Markdown) */}
@@ -404,7 +432,7 @@ export default async function ActividadPage({ params }: Props) {
             )}
 
             {/* 12. FAQs */}
-            <FaqActividad idioma={IDIOMA} preguntas={actividad.preguntasFrecuentes || []} />
+            <FaqActividad idioma={lang} preguntas={actividad.preguntasFrecuentes || []} />
 
             {/* 13. Related guides */}
             {guiasRelacionadas.length > 0 && (
@@ -437,14 +465,14 @@ export default async function ActividadPage({ params }: Props) {
             </p>
 
             {/* 15. Provider reference (end) */}
-            <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} conLogo />
+            <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
           </div>
 
           <aside className="hidden lg:block lg:col-span-1">
             <div className="lg:sticky lg:top-6">
               {actividad.proveedor === "bokun" ? (
                 <BokunWidget
-                  idioma={IDIOMA}
+                  idioma={lang}
                   productId={actividad.bokunProductId ?? 0}
                   precioDesde={actividad.precioDesde}
                   moneda={actividad.moneda}
@@ -454,7 +482,7 @@ export default async function ActividadPage({ params }: Props) {
                 />
               ) : (
               <CalendarioReserva
-                idioma={IDIOMA}
+                idioma={lang}
                 proveedor={actividad.proveedor}
                 viatorCode={codViator ?? undefined}
                 precio={precio}
@@ -479,7 +507,7 @@ export default async function ActividadPage({ params }: Props) {
               />
               )}
               <div className="mt-3 flex justify-center">
-                <SelloProveedor proveedor={actividad.proveedor} idioma={IDIOMA} conLogo />
+                <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
               </div>
             </div>
           </aside>
@@ -489,7 +517,7 @@ export default async function ActividadPage({ params }: Props) {
       {actividad.proveedor === "bokun" && (
         <div className="lg:hidden max-w-6xl mx-auto px-4 pb-10">
           <BokunWidget
-            idioma={IDIOMA}
+            idioma={lang}
             productId={actividad.bokunProductId ?? 0}
             precioDesde={actividad.precioDesde}
             moneda={actividad.moneda}
@@ -504,8 +532,8 @@ export default async function ActividadPage({ params }: Props) {
         <BotonVolverFicha
           urlActividadesCiudad={
             actividad.atraccionesRelacionadas?.[0]
-              ? `${urlActividadesDeCiudad(IDIOMA, params.ciudad)}?atraccion=${actividad.atraccionesRelacionadas[0]}`
-              : urlActividadesDeCiudad(IDIOMA, params.ciudad)
+              ? `${urlActividadesDeCiudad(lang, params.ciudad)}?atraccion=${actividad.atraccionesRelacionadas[0]}`
+              : urlActividadesDeCiudad(lang, params.ciudad)
           }
           textoActividadesCiudad={`← See more things to do in ${ciudad.nombre}`}
         />
@@ -513,7 +541,7 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.proveedor !== "bokun" && (
         <StickyReservaMovil
-          idioma={IDIOMA}
+          idioma={lang}
           precio={`${dict.actividades.desde} ${precio}`}
           precioPorPersona={dict.actividades.porPersona}
           duracion={actividad.duracion}
@@ -541,7 +569,8 @@ export default async function ActividadPage({ params }: Props) {
 function buildProductLd(
   actividad: ActividadCompleta,
   url: string,
-  urlReservaFinal: string
+  urlReservaFinal: string,
+  lang: Idioma
 ) {
   const imagenAbsoluta = actividad.imagen.startsWith("http")
     ? actividad.imagen
@@ -553,7 +582,7 @@ function buildProductLd(
     description: actividad.descripcion,
     image: actividad.imagen ? [imagenAbsoluta] : undefined,
     category: actividad.categoria,
-    inLanguage: "en",
+    inLanguage: lang,
     url,
     offers: {
       "@type": "Offer",
@@ -587,7 +616,7 @@ function buildProductLd(
         name: "ExploraSpain",
       },
       reviewBody: actividad.opinionEditorial.trim(),
-      inLanguage: "en",
+      inLanguage: lang,
     };
   }
 

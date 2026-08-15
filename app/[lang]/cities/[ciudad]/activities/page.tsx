@@ -12,7 +12,7 @@ import {
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
-import { IDIOMA_LOCALE } from "@/lib/i18n/config";
+import { esIdiomaActivo, IDIOMAS_ACTIVOS, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
   hreflangAlternates,
   prefijoIdioma,
@@ -21,6 +21,7 @@ import {
   urlAtraccionesDeCiudad,
   urlIndiceCiudades,
 } from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import ActividadesFiltradas, {
   type ActividadCardData,
@@ -31,28 +32,42 @@ import ActividadesFiltradas, {
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
 
-const IDIOMA = "en" as const;
-
 type Props = {
   params: { lang: string; ciudad: string };
 };
 
+/**
+ * Solo generamos esta ruta para (idioma, ciudad) con actividades
+ * publicadas de verdad. Hoy en día solo `en` tiene contenido de
+ * actividades (content/actividades/en/...); si en el futuro se añade
+ * contenido en otro idioma activo, esto lo recoge automáticamente sin
+ * tocar código. Los idiomas sin contenido (de/fr/it/pt por ahora)
+ * simplemente no generan ninguna ruta — visitarla a mano hace notFound().
+ */
 export async function generateStaticParams() {
-  return obtenerCiudadesConActividades(IDIOMA).map((ciudad) => ({
-    lang: IDIOMA,
-    ciudad,
-  }));
+  const params: { lang: string; ciudad: string }[] = [];
+  for (const lang of IDIOMAS_ACTIVOS) {
+    if (lang === "es") continue;
+    for (const ciudad of obtenerCiudadesConActividades(lang)) {
+      params.push({ lang, ciudad });
+    }
+  }
+  return params;
 }
 
 export async function generateMetadata({
   params,
 }: Props): Promise<Metadata> {
-  const ciudad = await obtenerCiudad(IDIOMA, params.ciudad);
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    return { title: "Not found" };
+  }
+  const lang: Idioma = params.lang;
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) return { title: "City not found" };
 
   const titulo = `Things to do in ${ciudad.nombre}`;
   const descripcion = `Tours, guided visits and day trips in ${ciudad.nombre}. Hand-picked with editorial criteria.`;
-  const url = `${SITE_URL}${urlActividadesDeCiudad(IDIOMA, params.ciudad)}`;
+  const url = `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
@@ -74,7 +89,7 @@ export async function generateMetadata({
       title: `${titulo} | ExploraSpain`,
       description: descripcion,
       siteName: "ExploraSpain",
-      locale: IDIOMA_LOCALE[IDIOMA],
+      locale: IDIOMA_LOCALE[lang],
     },
   };
 }
@@ -135,21 +150,25 @@ function calcularRatingMedio(actividades: ActividadListItem[]): number | null {
 }
 
 export default async function ActividadesCiudadIndicePage({ params }: Props) {
-  const ciudad = await obtenerCiudad(IDIOMA, params.ciudad);
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    notFound();
+  }
+  const lang: Idioma = params.lang;
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) notFound();
 
-  const actividades = obtenerListaActividadesPorCiudad(IDIOMA, params.ciudad);
+  const actividades = obtenerListaActividadesPorCiudad(lang, params.ciudad);
   if (actividades.length === 0) notFound();
 
   const cardsActividades = actividades.map(aCardData);
   const chipsFiltros = ciudad.chipsFiltros ?? [];
   const ratingMedio = calcularRatingMedio(actividades);
-  const guiasDeCiudad = obtenerGuiasDeCiudad(IDIOMA, params.ciudad);
+  const guiasDeCiudad = obtenerGuiasDeCiudad(lang, params.ciudad);
   const hayGuias = guiasDeCiudad.length > 0;
   const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
   const hayExtras = hayGuias || hayAtracciones;
-  const urlGuias = urlGuiasDeCiudad(IDIOMA, params.ciudad);
-  const urlAtracciones = urlAtraccionesDeCiudad(IDIOMA, params.ciudad);
+  const urlGuias = urlGuiasDeCiudad(lang, params.ciudad);
+  const urlAtracciones = urlAtraccionesDeCiudad(lang, params.ciudad);
   const gridExtras =
     hayGuias && hayAtracciones
       ? "grid grid-cols-1 md:grid-cols-2 gap-6"
@@ -160,14 +179,14 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
     [ciudad.imagen, ciudad.imagenAtracciones, ciudad.imagenGuias].find(
       (img) => img && img !== imagenCabecera
     );
-  const dict = getDictionary(IDIOMA);
+  const dict = getDictionary(lang);
   const categorias = categoriasPresentes(
     actividades,
     dict.actividades.categorias
   );
 
-  const homeUrl = `${SITE_URL}${prefijoIdioma(IDIOMA) || "/"}`;
-  const indiceCiudadesUrl = `${SITE_URL}${urlIndiceCiudades(IDIOMA)}`;
+  const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
+  const indiceCiudadesUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
@@ -195,7 +214,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         "@type": "ListItem",
         position: 4,
         name: "Activities",
-        item: `${SITE_URL}${urlActividadesDeCiudad(IDIOMA, params.ciudad)}`,
+        item: `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`,
       },
     ],
   };
@@ -223,11 +242,11 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         ) : null}
         <div className="relative max-w-5xl mx-auto px-4">
           <nav aria-label="Breadcrumb" className="text-sm text-slate-200 mb-4">
-            <Link href={prefijoIdioma(IDIOMA) || "/"} className="hover:text-white">
+            <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>
             {" › "}
-            <Link href={urlIndiceCiudades(IDIOMA)} className="hover:text-white">
+            <Link href={urlIndiceCiudades(lang)} className="hover:text-white">
               {dict.navegacion.ciudades}
             </Link>
             {" › "}
@@ -268,7 +287,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         chips={chipsFiltros}
         categorias={categorias}
         strings={FILTROS_STRINGS_EN}
-        locale={IDIOMA_LOCALE[IDIOMA]}
+        locale={IDIOMA_LOCALE[lang]}
       />
 
       {/* City intro text as secondary context at the foot of the page. */}
