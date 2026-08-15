@@ -6,7 +6,7 @@ slug: "bilbao-con-ninos"
 fecha: "2026-04-15"
 fecha_actualizacion: "2026-04-15"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 10
 keywords:

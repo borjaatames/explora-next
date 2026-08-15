@@ -5,7 +5,7 @@ descripcion: "La ciudad habitada más antigua de Occidente, rodeada de mar por t
 comunidad: "Andalucía"
 imagen: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
 imagenAlt: "Torre mirador de Cádiz con el casco antiguo y el mar al fondo"
-publicada: false
+publicada: true
 destacada: false
 orden: 13
 keywords:

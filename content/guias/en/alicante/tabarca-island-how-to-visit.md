@@ -6,7 +6,7 @@ slug: "tabarca-island-how-to-visit"
 fecha: "2026-04-06"
 fecha_actualizacion: "2026-04-06"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 11
 keywords:

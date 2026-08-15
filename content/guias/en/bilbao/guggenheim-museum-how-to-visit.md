@@ -6,7 +6,7 @@ slug: "guggenheim-museum-how-to-visit"
 fecha: "2026-03-24"
 fecha_actualizacion: "2026-03-24"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 11
 keywords:

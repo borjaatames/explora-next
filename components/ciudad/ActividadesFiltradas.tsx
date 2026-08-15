@@ -157,8 +157,8 @@ export default function ActividadesFiltradas({
    */
   const filtradas = useMemo(() => {
     // Orden por proveedor: primero Bokun (reserva directa, mayor comisión),
-    // y al final GetYourGuide. Es un orden estable, así que dentro de cada
-    // proveedor se respeta el orden de entrada (destacadas/fecha del server).
+    // y al final GetYourGuide. Dentro de cada proveedor, de menor a mayor
+    // precio (precioDesde ascendente) como criterio secundario.
     const rangoProveedor = (p: string) =>
       p === "bokun" ? 0 : p === "getyourguide" ? 2 : 1;
     return actividades
@@ -171,7 +171,12 @@ export default function ActividadesFiltradas({
           categoriasActivas.includes(a.categoria);
         return pasaAtraccion && pasaCategoria;
       })
-      .sort((a, b) => rangoProveedor(a.proveedor) - rangoProveedor(b.proveedor));
+      .sort((a, b) => {
+        const porProveedor =
+          rangoProveedor(a.proveedor) - rangoProveedor(b.proveedor);
+        if (porProveedor !== 0) return porProveedor;
+        return a.precioDesde - b.precioDesde;
+      });
   }, [actividades, tagsActivos, categoriasActivas]);
 
   // Al cambiar cualquier filtro, volvemos a la primera página.

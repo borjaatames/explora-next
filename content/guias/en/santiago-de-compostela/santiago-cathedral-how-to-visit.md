@@ -6,7 +6,7 @@ slug: "santiago-cathedral-how-to-visit"
 fecha: "2026-05-18"
 fecha_actualizacion: "2026-05-18"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 11
 keywords:

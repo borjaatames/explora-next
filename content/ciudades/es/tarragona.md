@@ -5,7 +5,7 @@ descripcion: "La Tarraco romana frente al Mediterráneo: anfiteatro, circo y mur
 comunidad: "Cataluña"
 imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
 imagenAlt: "El anfiteatro romano de Tarragona junto al mar Mediterráneo"
-publicada: false
+publicada: true
 destacada: false
 orden: 12
 keywords:

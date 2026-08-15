@@ -6,7 +6,7 @@ slug: "carnaval-de-cadiz"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-04-29"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 11
 keywords:

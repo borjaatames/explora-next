@@ -6,7 +6,7 @@ slug: "mallorca-con-ninos"
 fecha: "2026-04-09"
 fecha_actualizacion: "2026-04-09"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 11
 keywords:

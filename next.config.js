@@ -1,4 +1,113 @@
 /** @type {import('next').NextConfig} */
+const fs = require("fs");
+const path = require("path");
+const matter = require("gray-matter");
+
+/**
+ * Actividades despublicadas de proveedor Viator (leídas en vivo del
+ * frontmatter en build time, no una lista hardcodeada). Se despublicó
+ * el catálogo completo de Viator el 22 de junio de 2026 (ver
+ * listado-tareas-2026-06-22.md) para migrar comisión a Bokun donde hay
+ * proveedor equivalente, pero las URLs de esas fichas llevaban semanas
+ * en producción — es muy probable que Google las tuviera indexadas.
+ *
+ * Sin redirect, esas URLs devuelven 404 puro (confirmado: la página
+ * "404" aparecía en el top de páginas más vistas en GA4 en agosto).
+ * Redirigimos cada una a la página índice de actividades de su ciudad
+ * en vez de tratar de adivinar la categoría — el campo `categoria` en
+ * fichas despublicadas puede llevar meses sin migrar a la taxonomía
+ * nueva (ver pendiente "reformular taxonomía de categorías") y no es
+ * fiable para construir la URL de destino.
+ *
+ * Calculado dinámicamente para que cualquier despublicación futura de
+ * Viator quede cubierta automáticamente en el siguiente build, sin
+ * tener que tocar este archivo a mano. Ver
+ * auditoria-seo-organico-2026-08-15.md, sección 2.
+ */
+function obtenerActividadesDespublicadasViator() {
+  const raiz = path.join(process.cwd(), "content", "actividades");
+  const resultado = { es: [], en: [] };
+
+  for (const idioma of ["es", "en"]) {
+    const dirIdioma = path.join(raiz, idioma);
+    if (!fs.existsSync(dirIdioma)) continue;
+
+    const ciudades = fs
+      .readdirSync(dirIdioma, { withFileTypes: true })
+      .filter((entrada) => entrada.isDirectory());
+
+    for (const ciudadDir of ciudades) {
+      const dirCiudad = path.join(dirIdioma, ciudadDir.name);
+      const archivos = fs
+        .readdirSync(dirCiudad)
+        .filter((archivo) => archivo.endsWith(".md"));
+
+      for (const archivo of archivos) {
+        const ruta = path.join(dirCiudad, archivo);
+        const { data } = matter(fs.readFileSync(ruta, "utf8"));
+
+        if (data.publicada === false && data.proveedor === "viator") {
+          resultado[idioma].push({ ciudad: data.ciudad, slug: data.slug });
+        }
+      }
+    }
+  }
+
+  return resultado;
+}
+
+/**
+ * Guías editoriales despublicadas (leídas en vivo del frontmatter, mismo
+ * motivo que la función de arriba). Confirmado con `git log`: las 25
+ * guías ES actualmente sin publicar (Bilbao, Mallorca, Alicante, Cádiz,
+ * Salamanca, Santiago de Compostela, Tarragona) estuvieron publicadas
+ * antes del commit `ed58bfd` (2026-06-19, "despublicar las de ciudades
+ * sin actividades") — así que es razonable asumir que Google llegó a
+ * indexarlas.
+ *
+ * Redirigimos al índice general de guías (`/guias` / `/en/guides`) en
+ * vez de al hub de la ciudad: comprobado en `content/ciudades/{idioma}/
+ * {ciudad}.md` que esas mismas 7 ciudades tienen SU PROPIO hub también
+ * despublicado (`publicada: false`), así que redirigir ahí encadenaría
+ * un redirect a un 404 — peor que no redirigir. El índice de guías
+ * siempre existe.
+ *
+ * El frontmatter de guías usa `categoria` (no `ciudad`) para el slug de
+ * ciudad en la URL — es el mismo campo que ya usa
+ * app/(es-shell)/guias/[categoria]/[slug]/page.tsx para generar rutas.
+ */
+function obtenerGuiasDespublicadas() {
+  const raiz = path.join(process.cwd(), "content", "guias");
+  const resultado = { es: [], en: [] };
+
+  for (const idioma of ["es", "en"]) {
+    const dirIdioma = path.join(raiz, idioma);
+    if (!fs.existsSync(dirIdioma)) continue;
+
+    const ciudades = fs
+      .readdirSync(dirIdioma, { withFileTypes: true })
+      .filter((entrada) => entrada.isDirectory());
+
+    for (const ciudadDir of ciudades) {
+      const dirCiudad = path.join(dirIdioma, ciudadDir.name);
+      const archivos = fs
+        .readdirSync(dirCiudad)
+        .filter((archivo) => archivo.endsWith(".md"));
+
+      for (const archivo of archivos) {
+        const ruta = path.join(dirCiudad, archivo);
+        const { data } = matter(fs.readFileSync(ruta, "utf8"));
+
+        if (data.publicada === false) {
+          resultado[idioma].push({ categoria: data.categoria, slug: data.slug });
+        }
+      }
+    }
+  }
+
+  return resultado;
+}
+
 const nextConfig = {
   reactStrictMode: true,
   images: {
@@ -107,6 +216,45 @@ const nextConfig = {
     for (const [viejaEs, viejaEn, destinoEs, destinoEn] of semPares) {
       redirects.push({ source: viejaEs, destination: destinoEs, permanent: true });
       redirects.push({ source: viejaEn, destination: destinoEn, permanent: true });
+    }
+
+    // ── 3. Fichas de actividad despublicadas de Viator (agosto 2026) →
+    //    índice de actividades de su ciudad. Ver función
+    //    obtenerActividadesDespublicadasViator() arriba para el porqué.
+    const despublicadasViator = obtenerActividadesDespublicadasViator();
+    for (const { ciudad, slug } of despublicadasViator.es) {
+      redirects.push({
+        source: `/ciudades/${ciudad}/actividades/${slug}`,
+        destination: `/ciudades/${ciudad}/actividades`,
+        permanent: true,
+      });
+    }
+    for (const { ciudad, slug } of despublicadasViator.en) {
+      redirects.push({
+        source: `/en/cities/${ciudad}/activities/${slug}`,
+        destination: `/en/cities/${ciudad}/activities`,
+        permanent: true,
+      });
+    }
+
+    // ── 4. Guías editoriales despublicadas (agosto 2026) → índice general
+    //    de guías. Ver función obtenerGuiasDespublicadas() arriba para el
+    //    porqué del destino (no se puede usar el hub de ciudad: también
+    //    está despublicado para estas mismas 7 ciudades).
+    const guiasDespublicadas = obtenerGuiasDespublicadas();
+    for (const { categoria, slug } of guiasDespublicadas.es) {
+      redirects.push({
+        source: `/guias/${categoria}/${slug}`,
+        destination: "/guias",
+        permanent: true,
+      });
+    }
+    for (const { categoria, slug } of guiasDespublicadas.en) {
+      redirects.push({
+        source: `/en/guides/${categoria}/${slug}`,
+        destination: "/en/guides",
+        permanent: true,
+      });
     }
 
     return redirects;

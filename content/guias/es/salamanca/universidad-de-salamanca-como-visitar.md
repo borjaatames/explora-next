@@ -6,7 +6,7 @@ slug: "universidad-de-salamanca-como-visitar"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-05-02"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: false
 imagen_portada: "/images/guias/universidad-de-salamanca-como-visitar.jpg"
 imagen_alt: "Fachada plateresca del Edificio Histórico de la Universidad de Salamanca"

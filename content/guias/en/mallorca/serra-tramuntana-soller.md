@@ -6,7 +6,7 @@ slug: "serra-tramuntana-soller"
 fecha: "2026-03-18"
 fecha_actualizacion: "2026-03-18"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 12
 keywords:

@@ -6,7 +6,7 @@ slug: "museo-guggenheim-como-visitar"
 fecha: "2026-03-24"
 fecha_actualizacion: "2026-03-24"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 11
 keywords:

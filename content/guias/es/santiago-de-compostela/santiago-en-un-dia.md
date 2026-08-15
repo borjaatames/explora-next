@@ -6,7 +6,7 @@ slug: "santiago-en-un-dia"
 fecha: "2026-05-02"
 fecha_actualizacion: "2026-05-02"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 11
 keywords:

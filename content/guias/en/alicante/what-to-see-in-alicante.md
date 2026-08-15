@@ -6,7 +6,7 @@ slug: "what-to-see-in-alicante"
 fecha: "2026-03-26"
 fecha_actualizacion: "2026-03-26"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: true
 tiempo_lectura: 11
 keywords:

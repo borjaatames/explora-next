@@ -6,7 +6,7 @@ slug: "day-trips-from-bilbao"
 fecha: "2026-04-26"
 fecha_actualizacion: "2026-04-26"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 11
 keywords:

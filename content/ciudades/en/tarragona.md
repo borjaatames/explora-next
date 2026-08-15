@@ -5,7 +5,7 @@ descripcion: "Roman Tarraco facing the Mediterranean: amphitheatre, circus and W
 comunidad: "Catalonia"
 imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
 imagenAlt: "The Roman amphitheatre of Tarragona by the Mediterranean sea"
-publicada: false
+publicada: true
 destacada: false
 orden: 12
 keywords:

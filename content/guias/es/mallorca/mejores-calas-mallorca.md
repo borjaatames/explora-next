@@ -6,7 +6,7 @@ slug: "mejores-calas-mallorca"
 fecha: "2026-03-29"
 fecha_actualizacion: "2026-03-29"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 11
 keywords:

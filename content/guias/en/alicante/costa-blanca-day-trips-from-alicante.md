@@ -6,7 +6,7 @@ slug: "costa-blanca-day-trips-from-alicante"
 fecha: "2026-04-17"
 fecha_actualizacion: "2026-04-17"
 autor: "ExploraSpain Team"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 11
 keywords:

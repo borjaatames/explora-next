@@ -6,7 +6,7 @@ slug: "salamanca-in-1-day"
 fecha: "2026-04-28"
 fecha_actualizacion: "2026-05-03"
 autor: "ExploraSpain editorial team"
-publicada: false
+publicada: true
 destacada: true
 imagen_portada: "/images/guias/salamanca-en-1-dia.jpg"
 imagen_alt: "Plaza Mayor of Salamanca, one of the most beautiful in Spain"

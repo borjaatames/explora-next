@@ -5,7 +5,7 @@ descripcion: "Castillo sobre el mar, paseo de la Explanada y playas urbanas. La 
 comunidad: "Comunidad Valenciana"
 imagen: "/images/actividades/alicante/ciudades/alicante-hero.webp"
 imagenAlt: "Vista de la bahía de Alicante con el puerto y el monte del Castillo de Santa Bárbara"
-publicada: false
+publicada: true
 destacada: false
 orden: 8
 keywords:

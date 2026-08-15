@@ -6,7 +6,7 @@ slug: "comer-en-mallorca"
 fecha: "2026-04-20"
 fecha_actualizacion: "2026-04-20"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 10
 keywords:

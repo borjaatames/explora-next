@@ -6,7 +6,7 @@ slug: "pintxos-bilbao"
 fecha: "2026-04-04"
 fecha_actualizacion: "2026-04-04"
 autor: "Equipo ExploraSpain"
-publicada: false
+publicada: true
 destacada: false
 tiempo_lectura: 10
 keywords:
