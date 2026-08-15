@@ -7,6 +7,7 @@ import {
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
+import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
@@ -166,11 +167,19 @@ export default async function CiudadPage({ params }: Props) {
   const strings = getStrings(lang, ciudad.nombre);
   const guiasDeCiudad = obtenerGuiasDeCiudad(lang, params.ciudad);
   const hayGuias = guiasDeCiudad.length > 0;
+  // La ficha de actividades solo existe (generateStaticParams) para
+  // ciudades con al menos una actividad publicada — si no hay ninguna,
+  // esa ruta hace notFound(). Por eso ocultamos el botón aquí en vez de
+  // enlazar a una página que no existe (mismo criterio que hayGuias /
+  // hayAtracciones más abajo).
+  const hayActividades =
+    obtenerListaActividadesPorCiudad(lang, params.ciudad).length > 0;
   const urlGuias = urlGuiasDeCiudad(lang, params.ciudad);
   const urlActividades = urlActividadesDeCiudad(lang, params.ciudad);
   const urlAtracciones = urlAtraccionesDeCiudad(lang, params.ciudad);
   const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
-  const numCards = (hayGuias ? 1 : 0) + 1 + (hayAtracciones ? 1 : 0);
+  const numCards =
+    (hayGuias ? 1 : 0) + (hayActividades ? 1 : 0) + (hayAtracciones ? 1 : 0);
   const gridClass =
     numCards === 3
       ? "grid grid-cols-1 md:grid-cols-3 gap-6"
@@ -247,15 +256,17 @@ export default async function CiudadPage({ params }: Props) {
                 acento="sky"
               />
             ) : null}
-            <CtaCiudadCard
-              href={urlActividades}
-              imagen={ciudad.imagenActividades}
-              imagenAlt={ciudad.imagenActividadesAlt}
-              titulo={strings.actividadesTitulo}
-              descripcion={strings.actividadesDescripcion}
-              cta={strings.actividadesCta}
-              acento="amber"
-            />
+            {hayActividades ? (
+              <CtaCiudadCard
+                href={urlActividades}
+                imagen={ciudad.imagenActividades}
+                imagenAlt={ciudad.imagenActividadesAlt}
+                titulo={strings.actividadesTitulo}
+                descripcion={strings.actividadesDescripcion}
+                cta={strings.actividadesCta}
+                acento="amber"
+              />
+            ) : null}
             {hayAtracciones ? (
               <CtaCiudadCard
                 href={urlAtracciones}
@@ -282,4 +293,3 @@ export default async function CiudadPage({ params }: Props) {
     </main>
   );
 }
-
