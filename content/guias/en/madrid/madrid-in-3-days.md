@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: madrid-en-3-dias
   en: madrid-in-3-days
+  de: madrid-in-3-tagen
 ---
 
 I've spent years hosting friends and family on their first trip to Madrid. With every visit I've refined a route that works: it doesn't drown you in fifty must-sees, and it doesn't send you to the same postcards every other guide pushes. This is the route I'd build today if someone said "I have 3 days in Madrid, show me something that helps me understand Spain."

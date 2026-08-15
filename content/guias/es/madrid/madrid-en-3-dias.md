@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: madrid-en-3-dias
   en: madrid-in-3-days
+  de: madrid-in-3-tagen
 ---
 
 Llevo años recibiendo a amigos y familia que vienen a Madrid por primera vez. Con cada visita he ido afinando una ruta que funciona: ni empacha con listas de cincuenta cosas, ni los manda a las mismas postales que aparecen en todas las guías. Esta es la ruta que haría hoy si me dijeran "tengo 3 días en Madrid, enséñame algo que me haga entender España".

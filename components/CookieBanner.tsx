@@ -31,6 +31,16 @@ const DICT = {
     rechazar: "Reject",
     aceptar: "Accept",
   },
+  de: {
+    titulo: "Wir verwenden Cookies, um zu verstehen, wie die Website genutzt wird",
+    texto:
+      "Analyse mit Google Analytics 4. Wir verkaufen deine Daten nicht. Weitere Informationen in der",
+    politicaCookies: "Cookie-Richtlinie",
+    politicaPrivacidad: "Datenschutz",
+    y: "und",
+    rechazar: "Ablehnen",
+    aceptar: "Akzeptieren",
+  },
 } as const;
 
 type Props = {
@@ -50,7 +60,7 @@ type Props = {
  *   - GA4 NO carga hasta que se pulsa "Aceptar" (lo gestiona Analytics.tsx).
  */
 export default function CookieBanner({ idioma }: Props) {
-  const t = DICT[idioma === "en" ? "en" : "es"];
+  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
 
   const [visible, setVisible] = useState(false);
 

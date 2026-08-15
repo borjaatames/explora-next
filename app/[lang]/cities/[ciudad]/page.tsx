@@ -47,7 +47,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const url = `${SITE_URL}${ciudad.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const titleSuffix =
-    lang === "en" ? " | Travel guide" : ` | ${getDictionary(lang).ciudades.tituloIndice}`;
+    lang === "en"
+      ? " | Travel guide"
+      : lang === "de"
+      ? " | Reiseführer"
+      : ` | ${getDictionary(lang).ciudades.tituloIndice}`;
 
   return {
     title: `${ciudad.nombre}${titleSuffix}`,
@@ -115,6 +119,19 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
       atraccionesTitulo: `Attractions in ${nombreCiudad}`,
       atraccionesDescripcion: "The must-see sights of the city, with photos and context.",
       atraccionesCta: "View attractions",
+    };
+  }
+  if (lang === "de") {
+    return {
+      guiasTitulo: `Reiseführer für ${nombreCiudad}`,
+      guiasDescripcion: "Ehrliche Routen und praktische Tipps, um deine Reise gezielt zu planen.",
+      guiasCta: "Reiseführer ansehen",
+      actividadesTitulo: `Aktivitäten in ${nombreCiudad}`,
+      actividadesDescripcion: "Handverlesene Touren und Erlebnisse. Kostenlose Stornierung inklusive.",
+      actividadesCta: "Aktivitäten ansehen",
+      atraccionesTitulo: `Sehenswürdigkeiten in ${nombreCiudad}`,
+      atraccionesDescripcion: "Die wichtigsten Sehenswürdigkeiten der Stadt, mit Fotos und Hintergrundinfos.",
+      atraccionesCta: "Sehenswürdigkeiten ansehen",
     };
   }
   return {

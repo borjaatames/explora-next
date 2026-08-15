@@ -47,6 +47,15 @@ function getStrings(lang: Idioma): Strings {
       cta: "View guides",
     };
   }
+  if (lang === "de") {
+    return {
+      hubSubtitulo: "Jede Stadt hat ihre eigenen Routen und Tipps. Wähle, wo du beginnen möchtest.",
+      vacio: "Wir veröffentlichen bald unsere ersten Reiseführer. Schau bald wieder vorbei.",
+      contadorUno: "1 Reiseführer",
+      contadorN: (n) => `${n} Reiseführer`,
+      cta: "Reiseführer ansehen",
+    };
+  }
   return {
     hubSubtitulo: "Cada ciudad tiene sus rutas y consejos propios. Elige por dónde empezar.",
     vacio: "Próximamente publicaremos nuestras primeras guías. Vuelve pronto.",

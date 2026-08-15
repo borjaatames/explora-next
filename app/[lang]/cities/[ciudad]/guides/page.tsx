@@ -58,6 +58,14 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
       guias: "Guides",
     };
   }
+  if (lang === "de") {
+    return {
+      titulo: `Reiseführer für ${nombreCiudad}`,
+      descripcion: `Ehrliche Routen und praktische Tipps, um ${nombreCiudad} ohne Touristenklischees zu entdecken.`,
+      volver: `Aktivitäten in ${nombreCiudad} ansehen →`,
+      guias: "Reiseführer",
+    };
+  }
   return {
     titulo: `Guías de ${nombreCiudad}`,
     descripcion: `Rutas con criterio y consejos prácticos para conocer ${nombreCiudad} sin postales.`,

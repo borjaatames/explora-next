@@ -45,10 +45,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const titulo = lang === "en"
     ? `Top attractions in ${ciudad.nombre}`
+    : lang === "de"
+    ? `Die besten Sehenswürdigkeiten in ${ciudad.nombre}`
     : `Las mejores atracciones de ${ciudad.nombre}`;
   const lista = (ciudad.atracciones ?? []).map((a) => a.nombre).slice(0, 5).join(", ");
   const descripcion = lang === "en"
     ? `What you can't miss in ${ciudad.nombre}: ${lista}.`
+    : lang === "de"
+    ? `Was man in ${ciudad.nombre} nicht verpassen sollte: ${lista}.`
     : `Lo imprescindible que ver en ${ciudad.nombre}: ${lista}.`;
 
   return {
@@ -91,13 +95,20 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
 
   const titulo = lang === "en"
     ? `Top attractions in ${ciudad.nombre}`
+    : lang === "de"
+    ? `Die besten Sehenswürdigkeiten in ${ciudad.nombre}`
     : `Las mejores atracciones de ${ciudad.nombre}`;
   const subtitulo = lang === "en"
     ? `What you can't miss in ${ciudad.nombre}, with photos and context.`
+    : lang === "de"
+    ? `Was man in ${ciudad.nombre} nicht verpassen sollte, mit Fotos und Hintergrundinfos.`
     : `Lo imprescindible que ver en ${ciudad.nombre}, con foto y contexto.`;
-  const breadcrumbAtracciones = lang === "en" ? "Attractions" : "Atracciones";
+  const breadcrumbAtracciones =
+    lang === "en" ? "Attractions" : lang === "de" ? "Sehenswürdigkeiten" : "Atracciones";
   const verActividades = lang === "en"
     ? `See activities in ${ciudad.nombre} →`
+    : lang === "de"
+    ? `Aktivitäten in ${ciudad.nombre} ansehen →`
     : `Ver actividades en ${ciudad.nombre} →`;
 
   const breadcrumbsLd = {

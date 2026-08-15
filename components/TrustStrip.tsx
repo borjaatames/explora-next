@@ -19,10 +19,15 @@ const DICT = {
     confirmacion: "Instant confirmation",
     pago: "100% secure payment",
   },
+  de: {
+    cancelacion: "Kundenservice",
+    confirmacion: "Sofortige Bestätigung",
+    pago: "100% sichere Zahlung",
+  },
 } as const;
 
 export default function TrustStrip({ idioma }: { idioma: Idioma }) {
-  const t = DICT[idioma === "en" ? "en" : "es"];
+  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
   return (
     <ul className="mt-10 flex flex-wrap items-center justify-center gap-x-8 gap-y-3 text-sm font-medium text-sky-50">
       <li className="inline-flex items-center gap-2">

@@ -282,8 +282,19 @@ function auditarMarkdown(fullPath: string, raiz: string): void {
   }
 }
 
+/**
+ * Este audit solo entiende parejas ES↔EN (ver docstring superior). Idiomas
+ * añadidos después (de/fr/it/pt) usan `slugs:` con más claves pero su
+ * pareja se resuelve en build vía `lib/i18n/parejas.ts` (MapaParejas, por
+ * existencia física de archivo), no por este script. Por eso limitamos el
+ * recorrido a las subcarpetas `es/` y `en/` explícitamente: cualquier otro
+ * idioma queda fuera de este audit a propósito, en vez de producir un falso
+ * "estructura de carpetas inesperada".
+ */
 function auditarRaiz(raiz: string, etiqueta: string): void {
-  const archivos = listarMarkdowns(raiz);
+  const archivos = IDIOMAS.flatMap((idioma) =>
+    listarMarkdowns(path.join(raiz, idioma))
+  );
   console.log(`\n[audit-parejas] ${etiqueta}: ${archivos.length} .md analizados`);
   for (const archivo of archivos) {
     auditarMarkdown(archivo, raiz);

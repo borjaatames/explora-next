@@ -28,10 +28,17 @@ const DICT = {
     desde: "From",
     localePrecio: "en-US",
   },
+  de: {
+    deslizar: "Wischen, um mehr zu sehen →",
+    desde: "Ab",
+    localePrecio: "de-DE",
+  },
 } as const;
 
 function textosCarrusel(idioma: Idioma): (typeof DICT)[keyof typeof DICT] {
-  return idioma === "en" ? DICT.en : DICT.es;
+  if (idioma === "en") return DICT.en;
+  if (idioma === "de") return DICT.de;
+  return DICT.es;
 }
 
 /**

@@ -1,88 +1,89 @@
 {
   "meta": {
     "sitioNombre": "ExploraSpain",
-    "sitioDescripcion": "Guías honestas y prácticas para viajar por España"
+    "sitioDescripcion": "Ehrliche und praktische Reiseführer für Spanien"
   },
   "navegacion": {
-    "inicio": "Inicio",
-    "guias": "Guías",
-    "ciudades": "Ciudades",
-    "sobreNosotros": "Sobre nosotros",
-    "contacto": "Contacto",
-    "abrirMenu": "Abrir menú",
-    "cerrarMenu": "Cerrar menú",
-    "cambiarIdioma": "Cambiar idioma"
+    "inicio": "Start",
+    "guias": "Reiseführer",
+    "ciudades": "Städte",
+    "sobreNosotros": "Über uns",
+    "contacto": "Kontakt",
+    "abrirMenu": "Menü öffnen",
+    "cerrarMenu": "Menü schließen",
+    "cambiarIdioma": "Sprache ändern"
   },
   "home": {
-    "heroTitulo": "Guías honestas para viajar por España",
-    "heroSubtitulo": "Sin frases huecas, con datos prácticos y criterio.",
-    "ctaExplorar": "Explorar guías",
-    "seccionGuiasDestacadas": "Guías destacadas",
-    "seccionCiudades": "Ciudades",
-    "verTodas": "Ver todas"
+    "heroTitulo": "Ehrliche Reiseführer für Spanien",
+    "heroSubtitulo": "Keine leeren Phrasen, sondern praktische Infos und klare Empfehlungen.",
+    "ctaExplorar": "Reiseführer entdecken",
+    "seccionGuiasDestacadas": "Empfohlene Reiseführer",
+    "seccionCiudades": "Städte",
+    "verTodas": "Alle ansehen"
   },
   "guias": {
-    "tituloIndice": "Guías",
-    "descripcionIndice": "Itinerarios y consejos prácticos para viajar por España con criterio.",
-    "minutosLectura": "min de lectura",
-    "publicadoEl": "Publicado el",
-    "autorPor": "Por",
-    "relacionadas": "Otras guías que pueden interesarte",
-    "volverAGuias": "Volver a guías"
+    "tituloIndice": "Reiseführer",
+    "descripcionIndice": "Reiserouten und praktische Tipps, um Spanien mit Weitblick zu bereisen.",
+    "minutosLectura": "Min. Lesezeit",
+    "publicadoEl": "Veröffentlicht am",
+    "autorPor": "Von",
+    "relacionadas": "Weitere Reiseführer, die dich interessieren könnten",
+    "volverAGuias": "Zurück zu den Reiseführern"
   },
   "ciudades": {
-    "tituloIndice": "Ciudades",
-    "descripcionIndice": "Las ciudades imprescindibles de España, con guías propias.",
-    "verCiudad": "Ver ciudad",
-    "guiasDeCiudad": "Guías de esta ciudad",
-    "volverACiudades": "Volver a ciudades"
+    "tituloIndice": "Städte",
+    "descripcionIndice": "Die wichtigsten Städte Spaniens, mit eigenen Reiseführern.",
+    "verCiudad": "Stadt ansehen",
+    "guiasDeCiudad": "Reiseführer zu dieser Stadt",
+    "volverACiudades": "Zurück zu den Städten"
   },
   "actividades": {
-    "tituloIndiceCiudad": "Actividades en {ciudad}",
-    "descripcionIndiceCiudad": "Selección honesta de tours y experiencias. Sin postureo, con criterio editorial.",
-    "verActividad": "Ver actividad",
-    "actividadesEnCiudad": "Actividades en esta ciudad",
-    "desde": "Desde",
-    "porPersona": "por persona",
-    "duracion": "Duración",
-    "idiomas": "Idiomas",
-    "cancelacionGratuita": "Cancelación gratuita",
-    "cancelacionHorasAntes": "Cancela hasta {horas}h antes",
-    "sinColas": "Acceso sin colas",
-    "reservar": "Reservar",
-    "viaProveedor": "vía",
-    "highlights": "Lo más destacado",
-    "nuestraOpinion": "Nuestra opinión",
-    "queIncluye": "Qué incluye",
-    "queNoIncluye": "Qué no incluye",
-    "puntoEncuentro": "Punto de encuentro",
-    "laExperiencia": "La experiencia",
-    "guiasRelacionadas": "Lee también en nuestras guías",
-    "alternativas": "Alternativas que te pueden encajar",
-    "avisoAfiliacion": "Si reservas a través de esta página, recibimos una pequeña comisión sin coste extra para ti. Solo recomendamos lo que creemos que merece la pena.",
-    "valoracion": "Valoración",
-    "opiniones": "opiniones",
+    "tituloIndiceCiudad": "Aktivitäten in {ciudad}",
+    "descripcionIndiceCiudad": "Ehrliche Auswahl an Touren und Erlebnissen. Ohne Effekthascherei, mit redaktionellem Anspruch.",
+    "verActividad": "Aktivität ansehen",
+    "actividadesEnCiudad": "Aktivitäten in dieser Stadt",
+    "desde": "Ab",
+    "porPersona": "pro Person",
+    "duracion": "Dauer",
+    "idiomas": "Sprachen",
+    "cancelacionGratuita": "Kostenlose Stornierung",
+    "cancelacionHorasAntes": "Kostenlose Stornierung bis {horas} Std. vorher",
+    "sinColas": "Ohne Anstehen",
+    "reservar": "Jetzt buchen",
+    "viaProveedor": "über",
+    "highlights": "Highlights",
+    "nuestraOpinion": "Unsere Meinung",
+    "queIncluye": "Leistungen",
+    "queNoIncluye": "Nicht enthalten",
+    "puntoEncuentro": "Treffpunkt",
+    "laExperiencia": "Das Erlebnis",
+    "guiasRelacionadas": "Lies auch in unseren Reiseführern",
+    "alternativas": "Alternativen, die zu dir passen könnten",
+    "avisoAfiliacion": "Wenn du über diese Seite buchst, erhalten wir eine kleine Provision, ohne Mehrkosten für dich. Wir empfehlen nur, was sich unserer Meinung nach wirklich lohnt.",
+    "valoracion": "Bewertung",
+    "opiniones": "Bewertungen",
     "categorias": {
-      "visitasGuiadas": "Visitas guiadas",
-      "entradas": "Entradas",
-      "excursionesDia": "Excursiones de un día",
-      "espectaculos": "Espectáculos",
-      "toursGastronomicos": "Tours gastronómicos",
-      "serviciosAdicionales": "Servicios adicionales",
-      "transporte": "Transporte"
+      "visitasGuiadas": "Geführte Besichtigungen",
+      "entradas": "Eintrittskarten",
+      "excursionesDia": "Tagesausflüge",
+      "espectaculos": "Shows",
+      "toursGastronomicos": "Kulinarische Touren",
+      "serviciosAdicionales": "Zusatzleistungen",
+      "transporte": "Transport",
+      "experienciasPrivadas": "Private Erlebnisse"
     },
-    "faqEnCiudad": "Preguntas frecuentes sobre actividades en {ciudad}"
+    "faqEnCiudad": "Häufig gestellte Fragen zu Aktivitäten in {ciudad}"
   },
   "footer": {
-    "derechos": "Todos los derechos reservados",
-    "avisoLegal": "Aviso legal",
-    "privacidad": "Privacidad",
+    "derechos": "Alle Rechte vorbehalten",
+    "avisoLegal": "Impressum",
+    "privacidad": "Datenschutz",
     "cookies": "Cookies",
-    "operadoPor": "Operado por SKYWARD PARTNERS, S.L."
+    "operadoPor": "Betrieben von SKYWARD PARTNERS, S.L."
   },
   "comun": {
-    "cargando": "Cargando…",
-    "error": "Algo ha ido mal",
-    "leerMas": "Leer más"
+    "cargando": "Wird geladen…",
+    "error": "Etwas ist schiefgelaufen",
+    "leerMas": "Weiterlesen"
   }
 }

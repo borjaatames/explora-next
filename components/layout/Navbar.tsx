@@ -31,6 +31,16 @@ const DICT = {
     abrirMenu: "Open menu",
     cerrarMenu: "Close menu",
   },
+  de: {
+    inicioMenu: "Startseite",
+    guias: "Reiseführer",
+    ciudades: "Städte",
+    sobreNosotros: "Über uns",
+    contacto: "Kontakt",
+    inicio: "ExploraSpain - Startseite",
+    abrirMenu: "Menü öffnen",
+    cerrarMenu: "Menü schließen",
+  },
 } as const;
 
 function urlHome(idioma: Idioma): string {
@@ -50,7 +60,7 @@ type Props = {
  * también es Client pero se monta como isla independiente.
  */
 export default function Navbar({ idioma, mapaParejas }: Props) {
-  const t = DICT[idioma === "en" ? "en" : "es"];
+  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
 
   // Guías y "Sobre nosotros" se han sacado del menú principal: viven solo
   // en el footer (columna ExploraSpain). El menú queda más limpio y enfocado

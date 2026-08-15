@@ -38,12 +38,23 @@ const T = {
     subject: "New message from ExploraSpain",
     sinConfig: "Email us directly at:",
   },
+  de: {
+    nombre: "Name",
+    email: "Deine E-Mail",
+    mensaje: "Nachricht",
+    enviar: "Nachricht senden",
+    enviando: "Wird gesendet…",
+    ok: "Danke! Wir haben deine Nachricht erhalten und melden uns so schnell wie möglich.",
+    error: "Senden fehlgeschlagen. Bitte versuche es erneut oder schreibe uns an contacto@exploraspain.com.",
+    subject: "Neue Nachricht von ExploraSpain",
+    sinConfig: "Schreib uns direkt an:",
+  },
 } as const;
 
 type Estado = "idle" | "sending" | "ok" | "error";
 
 export default function ContactForm({ idioma }: { idioma: Idioma }) {
-  const t = T[idioma === "en" ? "en" : "es"];
+  const t = T[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
   const accessKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY;
   const [estado, setEstado] = useState<Estado>("idle");
 

@@ -6,7 +6,7 @@ import {
   IDIOMA_LOCALE,
   esIdiomaActivo,
 } from "@/lib/i18n/config";
-import { hreflangAlternates } from "@/lib/i18n/utils";
+import { hreflangAlternates, urlContacto } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
 type AboutCopy = {
@@ -153,7 +153,7 @@ function getCopy(lang: Idioma): AboutCopy {
               contacto@exploraspain.com
             </a>{" "}
             or visit{" "}
-            <Link href="/contacto" className="font-semibold">
+            <Link href={urlContacto(lang)} className="font-semibold">
               the contact page
             </Link>
             .
@@ -168,6 +168,147 @@ function getCopy(lang: Idioma): AboutCopy {
       },
       breadcrumbHome: "Home",
       breadcrumbSelf: "About",
+    };
+  }
+
+  if (lang === "de") {
+    return {
+      metaTitle: "Über ExploraSpain | Wer wir sind",
+      metaDescription:
+        "ExploraSpain ist ein Projekt von SKYWARD PARTNERS, S.L.: kuratierte Touren und Aktivitäten in ganz Spanien sowie ehrliche redaktionelle Reiseführer – ohne Floskeln, mit echter Meinung.",
+      ogTitle: "Über ExploraSpain",
+      ogDescription:
+        "Ein Projekt von SKYWARD PARTNERS, S.L. Touren, Aktivitäten und ehrliche redaktionelle Reiseführer für Spanien.",
+      heroTitle: "Über ExploraSpain",
+      heroSubtitle:
+        "Touren, Aktivitäten und ehrliche Reiseführer für deinen Spanien-Besuch.",
+      intro: (
+        <>
+          ExploraSpain ist ein Projekt von{" "}
+          <strong>SKYWARD PARTNERS, S.L.</strong>, das Touren und Aktivitäten
+          in den wichtigsten Städten Spaniens anbietet, zusammen mit
+          unabhängigen redaktionellen Inhalten über das Reisen im Land.
+        </>
+      ),
+      whatWeDo: {
+        heading: "Was wir tun",
+        lead: "Zwei Dinge, beide mit demselben Anspruch:",
+        items: [
+          <>
+            <strong>Touren und Erlebnisse</strong>: Wir kuratieren
+            Aktivitäten in den wichtigsten Städten Spaniens und stellen sie
+            Reisenden zur Verfügung. Wir setzen auf Erlebnisse mit echtem
+            Mehrwert statt auf endlose Listen.
+          </>,
+          <>
+            <strong>Redaktionelle Reiseführer</strong>: fundierte Routen,
+            ehrliche redaktionelle Empfehlungen und praktische Tipps, damit
+            du entscheiden kannst, was deine Zeit, deine Tage und dein
+            Budget wert ist – ohne endlose Listen oder Postkarten-Touristik.
+          </>,
+        ],
+      },
+      whyWeBuilt: {
+        heading: "Warum wir das gebaut haben",
+        body: (
+          <>
+            An Informationen darüber, was man in Spanien sehen kann, mangelt
+            es nicht. Sehr wenig gibt es hingegen darüber,{" "}
+            <strong>was sich wirklich lohnt</strong>, je nachdem, wie viele
+            Tage man hat, was einen wirklich interessiert und was man
+            ausgeben möchte. ExploraSpain schließt diese Lücke mit konkreten
+            Inhalten und einem sorgfältig ausgewählten Aktivitätenkatalog.
+          </>
+        ),
+      },
+      editorial: {
+        heading: "Unser redaktioneller Anspruch",
+        body: (
+          <>
+            <p>
+              Wir sind konkret und sagen die Dinge klar. Wenn sich etwas
+              nicht lohnt, sagen wir das. Wenn zwei Optionen ungefähr
+              gleichwertig sind, sagen wir auch das. Eine fundierte
+              Empfehlung ist mehr wert als eine Liste, in der alles gleich
+              wichtig erscheint.
+            </p>
+            <p>
+              Praktische Angaben (Preise, Öffnungszeiten, Dauer) werden vor
+              der Veröffentlichung anhand offizieller Quellen geprüft. Wenn
+              sich etwas ändert und wir es bemerken, aktualisieren wir es.
+              Wenn ein Leser einen Fehler entdeckt, kann er ihn melden und
+              wir korrigieren ihn.
+            </p>
+          </>
+        ),
+      },
+      funding: {
+        heading: "Wie wir Geld verdienen",
+        lead: "ExploraSpain erzielt Einnahmen auf zwei Wegen:",
+        items: [
+          <>
+            <strong>Verkauf von Touren und Aktivitäten</strong> in den
+            Städten, in denen wir tätig sind, entweder direkt oder über
+            vertrauenswürdige Reisepartner.
+          </>,
+          <>
+            <strong>Affiliate-Links</strong> zu Plattformen wie Viator und
+            GetYourGuide für Erlebnisse, die wir nicht direkt anbieten. Wenn
+            du über einen dieser Links buchst, erhalten wir eine kleine
+            Provision, ohne Mehrkosten für dich.
+          </>,
+        ],
+        body: (
+          <>
+            Wie wir Geld verdienen, beeinflusst nicht unsere redaktionellen
+            Empfehlungen. Eine Aktivität wird empfohlen, weil sie für die
+            Reise des Lesers sinnvoll ist, nicht weil sie eine höhere
+            Provision zahlt. Wenn sich etwas nicht lohnt, sagen wir das –
+            auch wenn es in unserem Affiliate-Feed oder unserem eigenen
+            Katalog steht.
+          </>
+        ),
+      },
+      company: {
+        heading: "Unternehmensangaben",
+        body: (
+          <>
+            ExploraSpain wird betrieben von SKYWARD PARTNERS, S.L.,
+            Steuernummer B26629576, mit Sitz in Calle Castelló 117, 28006
+            Madrid, Spanien. Vollständige rechtliche Angaben findest du im{" "}
+            <Link href={`/${lang}/legal-notice`}>Impressum</Link>.
+          </>
+        ),
+      },
+      contact: {
+        heading: "Kontakt",
+        body: (
+          <>
+            Für Vorschläge, Korrekturen, Kooperationen oder Anfragen schreib
+            uns an{" "}
+            <a
+              href="mailto:contacto@exploraspain.com"
+              className="font-semibold"
+              aria-label="Schreib uns an contacto@exploraspain.com"
+            >
+              contacto@exploraspain.com
+            </a>{" "}
+            oder besuche{" "}
+            <Link href={urlContacto(lang)} className="font-semibold">
+              die Kontaktseite
+            </Link>
+            .
+          </>
+        ),
+      },
+      cta: {
+        heading: "Hier geht's los",
+        body: "Wirf einen Blick auf die veröffentlichten Reiseführer, um die Art von Inhalten zu sehen, die wir erstellen.",
+        button: "Alle Reiseführer ansehen →",
+        href: "/de/guides",
+      },
+      breadcrumbHome: "Startseite",
+      breadcrumbSelf: "Über uns",
     };
   }
 

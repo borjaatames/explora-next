@@ -76,26 +76,62 @@ const DICT = {
     disclaimerAfiliados:
       "For direct-booking experiences, payment is securely processed by Stripe and customer support is provided by ExploraSpain. For the rest, we act as an official affiliate of Viator (Tripadvisor) and GetYourGuide, where the booking is completed with free cancellation.",
   },
+  de: {
+    tagline:
+      "Touren, Aktivitäten und redaktionelle Reiseführer, um Spanien mit Kompetenz zu bereisen.",
+    promesaPago: "100% sichere Zahlung",
+    promesaPagoSub: "Über Stripe und offizielle Partner",
+    promesaConfirmacion: "Sofortige Bestätigung",
+    promesaConfirmacionSub: "Ticket auf dem Handy",
+    promesaSoporte: "Kundenservice",
+    promesaSoporteSub: "Wir helfen bei deiner Buchung",
+    sectionDestinos: "Top-Reiseziele",
+    sectionWeb: "ExploraSpain",
+    verTodas: "Alle ansehen →",
+    sobreNosotros: "Über uns",
+    guias: "Reiseführer",
+    ciudades: "Städte",
+    contacto: "Kontakt",
+    avisoLegal: "Impressum",
+    privacidad: "Datenschutz",
+    cookies: "Cookies",
+    pagoSeguro: "100% sichere Zahlung",
+    pagoDirecto: "Direktbuchung mit sicherer Zahlung über Stripe",
+    reservaPartners: "Buchungen mit offiziellen Partnern",
+    direccion: "Madrid",
+    disclaimerAfiliados:
+      "Bei Erlebnissen mit Direktbuchung wird die Zahlung sicher über Stripe abgewickelt und der Kundenservice von ExploraSpain übernommen. Bei den übrigen Angeboten agieren wir als offizieller Partner von Viator (Tripadvisor) und GetYourGuide, wo die Buchung mit kostenloser Stornierung abgeschlossen wird.",
+  },
 } as const;
 
-/** Ciudades destacadas en el footer. Slug -> nombre ES/EN. */
+/** Ciudades destacadas en el footer. Slug -> nombre ES/EN/DE. */
 const CIUDADES_TOP: ReadonlyArray<{
   slug: string;
   nombreEs: string;
   nombreEn: string;
+  nombreDe: string;
 }> = [
-  { slug: "madrid", nombreEs: "Madrid", nombreEn: "Madrid" },
-  { slug: "barcelona", nombreEs: "Barcelona", nombreEn: "Barcelona" },
-  { slug: "sevilla", nombreEs: "Sevilla", nombreEn: "Seville" },
-  { slug: "granada", nombreEs: "Granada", nombreEn: "Granada" },
-  { slug: "valencia", nombreEs: "Valencia", nombreEn: "Valencia" },
-  { slug: "malaga", nombreEs: "Málaga", nombreEn: "Málaga" },
-  { slug: "cordoba", nombreEs: "Córdoba", nombreEn: "Cordoba" },
-  { slug: "girona", nombreEs: "Girona", nombreEn: "Girona" },
+  { slug: "madrid", nombreEs: "Madrid", nombreEn: "Madrid", nombreDe: "Madrid" },
+  { slug: "barcelona", nombreEs: "Barcelona", nombreEn: "Barcelona", nombreDe: "Barcelona" },
+  { slug: "sevilla", nombreEs: "Sevilla", nombreEn: "Seville", nombreDe: "Sevilla" },
+  { slug: "granada", nombreEs: "Granada", nombreEn: "Granada", nombreDe: "Granada" },
+  { slug: "valencia", nombreEs: "Valencia", nombreEn: "Valencia", nombreDe: "Valencia" },
+  { slug: "malaga", nombreEs: "Málaga", nombreEn: "Málaga", nombreDe: "Málaga" },
+  { slug: "cordoba", nombreEs: "Córdoba", nombreEn: "Cordoba", nombreDe: "Córdoba" },
+  { slug: "girona", nombreEs: "Girona", nombreEn: "Girona", nombreDe: "Girona" },
 ];
 
 function urlAbout(idioma: Idioma): string {
   return idioma === "es" ? "/sobre-nosotros" : `/${idioma}/about`;
+}
+
+function nombreCiudadTop(
+  idioma: Idioma,
+  c: { nombreEs: string; nombreEn: string; nombreDe: string }
+): string {
+  if (idioma === "en") return c.nombreEn;
+  if (idioma === "de") return c.nombreDe;
+  return c.nombreEs;
 }
 
 type Props = {
@@ -103,7 +139,7 @@ type Props = {
 };
 
 export default function Footer({ idioma }: Props) {
-  const t = DICT[idioma === "en" ? "en" : "es"];
+  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
   const year = new Date().getFullYear();
 
   return (
@@ -172,7 +208,7 @@ export default function Footer({ idioma }: Props) {
                     href={urlActividadesDeCiudad(idioma, c.slug)}
                     className="text-slate-300 hover:text-white transition-colors"
                   >
-                    {idioma === "en" ? c.nombreEn : c.nombreEs}
+                    {nombreCiudadTop(idioma, c)}
                   </Link>
                 </li>
               ))}
