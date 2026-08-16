@@ -45,7 +45,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Mismo criterio que el componente de página (más abajo): sin
   // atracciones para este idioma+ciudad, la página hace notFound().
   if ((ciudad.atracciones ?? []).length === 0) {
-    return { title: "Page not found", robots: { index: false, follow: false } };
+    return { title: lang === "de" ? "Seite nicht gefunden" : "Page not found", robots: { index: false, follow: false } };
   }
 
   const url = `${SITE_URL}${urlAtraccionesDeCiudad(lang, params.ciudad)}`;

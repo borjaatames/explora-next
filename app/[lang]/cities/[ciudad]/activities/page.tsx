@@ -69,7 +69,7 @@ export async function generateMetadata({
   // actividades para este idioma+ciudad, la página hace notFound() y el
   // <title>/robots deben reflejarlo, no anunciar contenido inexistente.
   if (obtenerListaActividadesPorCiudad(lang, params.ciudad).length === 0) {
-    return { title: "Page not found", robots: { index: false, follow: false } };
+    return { title: lang === "de" ? "Seite nicht gefunden" : "Page not found", robots: { index: false, follow: false } };
   }
 
   const titulo = `Things to do in ${ciudad.nombre}`;
