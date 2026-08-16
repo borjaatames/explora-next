@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-11"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
+imagen_alt: "Rooftops of Santiago de Compostela with the cathedral towers in the background"
 tiempo_lectura: 12
 keywords:
   - "camino de santiago last 100 km"

@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-13"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
+imagen_alt: "Blick auf Bilbao mit dem Guggenheim-Museum am Fluss"
 tiempo_lectura: 11
 keywords:
   - "was sieht man in bilbao"

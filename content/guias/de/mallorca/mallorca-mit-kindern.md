@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-09"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/mallorca-con-ninos.jpg"
+imagen_alt: "Gartenanlage an der Kathedrale von Palma de Mallorca"
 tiempo_lectura: 11
 keywords:
   - "mallorca mit kindern"

@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
+imagen_alt: "Palma Cathedral (La Seu) in Mallorca at sunset"
 tiempo_lectura: 13
 keywords:
   - "what to see in mallorca"

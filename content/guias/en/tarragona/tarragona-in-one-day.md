@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-10"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
+imagen_alt: "Tarragona's Roman amphitheatre with the Mediterranean in the background"
 tiempo_lectura: 11
 keywords:
   - "what to see in tarragona"

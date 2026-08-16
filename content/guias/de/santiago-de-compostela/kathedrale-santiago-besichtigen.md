@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-18"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/catedral-de-santiago-como-visitar.jpg"
+imagen_alt: "Obradoiro-Fassade der Kathedrale von Santiago de Compostela"
 tiempo_lectura: 11
 keywords:
   - "kathedrale von santiago"

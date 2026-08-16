@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-26"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
+imagen_alt: "Puente de la Salve y Torre Iberdrola junto al Guggenheim de Bilbao"
 tiempo_lectura: 11
 keywords:
   - "escapadas desde bilbao"

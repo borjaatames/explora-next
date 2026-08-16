@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-15"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
+imagen_alt: "Bilbao, eine familienfreundliche Stadt"
 tiempo_lectura: 10
 keywords:
   - "bilbao mit kindern"

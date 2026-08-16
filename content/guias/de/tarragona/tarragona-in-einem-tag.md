@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-10"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
+imagen_alt: "Römisches Amphitheater von Tarragona mit dem Mittelmeer im Hintergrund"
 tiempo_lectura: 11
 keywords:
   - "was sehen in tarragona"

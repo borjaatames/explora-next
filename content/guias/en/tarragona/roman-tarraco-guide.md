@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-21"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"
+imagen_alt: "Roman amphitheatre of Tarragona by the sea"
 tiempo_lectura: 12
 keywords:
   - "roman tarraco"

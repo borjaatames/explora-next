@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-09"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/mallorca-con-ninos.jpg"
+imagen_alt: "Zona ajardinada junto a la Catedral de Palma de Mallorca"
 tiempo_lectura: 11
 keywords:
   - "mallorca con niños"

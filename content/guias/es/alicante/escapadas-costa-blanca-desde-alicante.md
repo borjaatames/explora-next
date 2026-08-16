@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-17"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/escapadas-costa-blanca-desde-alicante.jpg"
+imagen_alt: "Playas y costa de la Costa Blanca cerca de Alicante"
 tiempo_lectura: 11
 keywords:
   - "escapadas desde alicante"

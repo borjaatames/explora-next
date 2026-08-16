@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/playas-cadiz-costa-de-la-luz.jpg"
+imagen_alt: "Playa y faro en la Costa de la Luz, Cádiz"
 tiempo_lectura: 11
 keywords:
   - "playas de cádiz"

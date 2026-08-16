@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-26"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
+imagen_alt: "La Salve Bridge and the Iberdrola Tower next to the Bilbao Guggenheim"
 tiempo_lectura: 11
 keywords:
   - "day trips from bilbao"

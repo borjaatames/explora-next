@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-01"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/portaventura-world-guia.jpg"
+imagen_alt: "Tarragona's Roman amphitheatre, a landmark of the city"
 tiempo_lectura: 11
 keywords:
   - "portaventura world"

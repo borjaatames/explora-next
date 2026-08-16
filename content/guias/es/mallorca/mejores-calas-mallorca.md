@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-29"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"
+imagen_alt: "Catedral de Palma de Mallorca al atardecer"
 tiempo_lectura: 11
 keywords:
   - "mejores calas de mallorca"

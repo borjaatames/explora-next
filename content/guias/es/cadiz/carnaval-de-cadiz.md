@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-29"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
+imagen_alt: "Plaza de España de Cádiz, escenario de la vida en la calle"
 tiempo_lectura: 11
 keywords:
   - "carnaval de cádiz"

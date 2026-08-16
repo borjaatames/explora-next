@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-10"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
+imagen_alt: "Anfiteatro romano de Tarragona con el Mediterráneo al fondo"
 tiempo_lectura: 11
 keywords:
   - "qué ver en tarragona"

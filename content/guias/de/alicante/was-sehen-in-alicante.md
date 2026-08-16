@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-26"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
+imagen_alt: "Blick auf die Burg Santa Bárbara über der Bucht von Alicante"
 tiempo_lectura: 11
 keywords:
   - "was sehen in alicante"

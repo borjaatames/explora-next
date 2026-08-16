@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-29"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
+imagen_alt: "Plaza de España in Cádiz, Mittelpunkt des Stadtlebens"
 tiempo_lectura: 11
 keywords:
   - "karneval von cadiz"

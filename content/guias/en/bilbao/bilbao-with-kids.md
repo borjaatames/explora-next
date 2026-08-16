@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-15"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
+imagen_alt: "Bilbao, an easy city to visit with children"
 tiempo_lectura: 10
 keywords:
   - "bilbao with kids"

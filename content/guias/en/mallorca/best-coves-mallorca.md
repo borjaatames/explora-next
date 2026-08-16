@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-29"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"
+imagen_alt: "Palma Cathedral in Mallorca at sunset"
 tiempo_lectura: 11
 keywords:
   - "best coves in mallorca"

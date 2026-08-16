@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-20"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/comer-en-mallorca.jpg"
+imagen_alt: "Promenade beside Palma Cathedral in Mallorca"
 tiempo_lectura: 10
 keywords:
   - "eating in mallorca"

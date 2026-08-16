@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-02"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
+imagen_alt: "Catedral de Santiago de Compostela al atardecer"
 tiempo_lectura: 11
 keywords:
   - "qué ver en santiago de compostela"

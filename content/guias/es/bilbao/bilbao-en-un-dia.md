@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-13"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
+imagen_alt: "Vista de Bilbao con el Museo Guggenheim junto a la ría"
 tiempo_lectura: 11
 keywords:
   - "qué ver en bilbao"

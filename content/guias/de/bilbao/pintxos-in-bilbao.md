@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-04"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/pintxos-bilbao.jpg"
+imagen_alt: "Typische Pintxos-Bar in der Altstadt von Bilbao"
 tiempo_lectura: 10
 keywords:
   - "pintxos bilbao"

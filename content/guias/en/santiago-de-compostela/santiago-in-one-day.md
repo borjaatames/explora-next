@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-02"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
+imagen_alt: "Santiago de Compostela Cathedral at sunset"
 tiempo_lectura: 11
 keywords:
   - "what to see in santiago de compostela"

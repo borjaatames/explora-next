@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-06"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"
+imagen_alt: "Vista de la costa de Alicante desde el mar, camino de Tabarca"
 tiempo_lectura: 11
 keywords:
   - "isla de tabarca"

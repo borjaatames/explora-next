@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-20"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/comer-en-mallorca.jpg"
+imagen_alt: "Paseo junto a la Catedral de Palma de Mallorca"
 tiempo_lectura: 10
 keywords:
   - "comer en mallorca"

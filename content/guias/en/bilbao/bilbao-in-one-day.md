@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-13"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
+imagen_alt: "View of Bilbao with the Guggenheim Museum beside the estuary"
 tiempo_lectura: 11
 keywords:
   - "what to see in bilbao"

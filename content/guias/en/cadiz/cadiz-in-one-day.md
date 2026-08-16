@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-18"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
+imagen_alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
 tiempo_lectura: 11
 keywords:
   - "what to see in cadiz"

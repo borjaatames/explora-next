@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-02"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
+imagen_alt: "Kathedrale von Santiago de Compostela bei Sonnenuntergang"
 tiempo_lectura: 11
 keywords:
   - "was sieht man in santiago de compostela"

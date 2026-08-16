@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
+imagen_alt: "Catedral de Santa María de Palma de Mallorca (La Seu) al atardecer"
 tiempo_lectura: 13
 keywords:
   - "qué ver en mallorca"

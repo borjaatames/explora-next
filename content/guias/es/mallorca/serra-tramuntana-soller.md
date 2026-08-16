@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-18"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/serra-tramuntana-soller.jpg"
+imagen_alt: "Catedral de Palma de Mallorca, imagen icónica de la isla"
 tiempo_lectura: 12
 keywords:
   - "serra de tramuntana"

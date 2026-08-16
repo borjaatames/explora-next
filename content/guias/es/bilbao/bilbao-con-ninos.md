@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-15"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
+imagen_alt: "Bilbao, una ciudad cómoda para visitar en familia"
 tiempo_lectura: 10
 keywords:
   - "bilbao con niños"

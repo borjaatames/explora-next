@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-18"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
+imagen_alt: "Denkmal der Verfassung von 1812 auf der Plaza de España in Cádiz"
 tiempo_lectura: 11
 keywords:
   - "was sieht man in cadiz"

@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-29"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
+imagen_alt: "Cádiz's Plaza de España, a hub of city life"
 tiempo_lectura: 11
 keywords:
   - "cadiz carnival"

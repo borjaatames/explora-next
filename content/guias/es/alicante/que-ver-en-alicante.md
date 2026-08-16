@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-26"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
+imagen_alt: "Vista del Castillo de Santa Bárbara sobre la bahía de Alicante"
 tiempo_lectura: 11
 keywords:
   - "qué ver en alicante"

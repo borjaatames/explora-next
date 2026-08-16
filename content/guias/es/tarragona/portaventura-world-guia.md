@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-01"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/portaventura-world-guia.jpg"
+imagen_alt: "Anfiteatro romano de Tarragona, patrimonio de la ciudad"
 tiempo_lectura: 11
 keywords:
   - "portaventura world"

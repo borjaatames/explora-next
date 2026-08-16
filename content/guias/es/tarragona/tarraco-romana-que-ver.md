@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-21"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"
+imagen_alt: "Anfiteatro romano de Tarragona junto al mar"
 tiempo_lectura: 12
 keywords:
   - "tarraco romana"

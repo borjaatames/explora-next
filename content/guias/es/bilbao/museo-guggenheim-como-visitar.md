@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-24"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
+imagen_alt: "Museo Guggenheim de Bilbao junto a la ría del Nervión"
 tiempo_lectura: 11
 keywords:
   - "museo guggenheim bilbao"

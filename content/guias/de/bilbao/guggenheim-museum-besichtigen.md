@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-24"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
+imagen_alt: "Guggenheim-Museum Bilbao am Ufer des Nervión"
 tiempo_lectura: 11
 keywords:
   - "guggenheim museum bilbao"

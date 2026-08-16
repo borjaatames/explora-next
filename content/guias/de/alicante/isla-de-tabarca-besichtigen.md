@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-04-06"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"
+imagen_alt: "Blick auf die Küste von Alicante vom Meer aus, auf dem Weg nach Tabarca"
 tiempo_lectura: 11
 keywords:
   - "insel tabarca"

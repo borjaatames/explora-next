@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-24"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
+imagen_alt: "The Guggenheim Museum in Bilbao beside the Nervión estuary"
 tiempo_lectura: 11
 keywords:
   - "guggenheim museum bilbao"

@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-05-01"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
+imagen_portada: "/images/guias/portaventura-world-guia.jpg"
+imagen_alt: "Römisches Amphitheater von Tarragona, ein Wahrzeichen der Stadt"
 tiempo_lectura: 11
 keywords:
   - "portaventura world"

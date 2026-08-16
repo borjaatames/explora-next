@@ -8,6 +8,8 @@ fecha_actualizacion: "2026-03-26"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
+imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
+imagen_alt: "View of Santa Bárbara Castle over Alicante bay"
 tiempo_lectura: 11
 keywords:
   - "what to see in alicante"
