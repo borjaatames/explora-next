@@ -30,6 +30,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
+  // Mismo criterio que el componente de página (más abajo): sin guías
+  // para esta ciudad, la página hace notFound().
+  if (obtenerGuiasDeCiudad("es", params.ciudad).length === 0) {
+    return { title: "Página no encontrada", robots: { index: false, follow: false } };
+  }
+
   const url = `${SITE_URL}${urlGuiasDeCiudad("es", params.ciudad)}`;
   const titulo = `Guías de ${ciudad.nombre}`;
   const descripcion = `Rutas con criterio y consejos prácticos para visitar ${ciudad.nombre} sin postureo turístico.`;

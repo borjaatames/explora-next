@@ -47,6 +47,12 @@ export async function generateMetadata({
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
+  // Mismo criterio que el componente de página (más abajo): sin
+  // actividades para esta ciudad, la página hace notFound().
+  if (obtenerListaActividadesPorCiudad("es", params.ciudad).length === 0) {
+    return { title: "Página no encontrada", robots: { index: false, follow: false } };
+  }
+
   const titulo = `Actividades y tours en ${ciudad.nombre}`;
   const descripcion = `Tours, visitas guiadas y excursiones en ${ciudad.nombre}. Selección honesta con criterio editorial.`;
   const url = `${SITE_URL}${urlActividadesDeCiudad("es", params.ciudad)}`;

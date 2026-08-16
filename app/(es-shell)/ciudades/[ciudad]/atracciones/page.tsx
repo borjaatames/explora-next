@@ -32,6 +32,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
+  // Mismo criterio que el componente de página (más abajo): sin
+  // atracciones para esta ciudad, la página hace notFound().
+  if ((ciudad.atracciones ?? []).length === 0) {
+    return { title: "Página no encontrada", robots: { index: false, follow: false } };
+  }
+
   const url = `${SITE_URL}${urlAtraccionesDeCiudad("es", params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const titulo = `Las mejores atracciones de ${ciudad.nombre}`;

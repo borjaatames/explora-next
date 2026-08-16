@@ -82,6 +82,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) return { title: "Not found" };
 
+  // Mismo criterio que el componente de página (más abajo): sin guías
+  // para este idioma+ciudad, la página hace notFound().
+  if (obtenerGuiasDeCiudad(lang, params.ciudad).length === 0) {
+    return { title: "Page not found", robots: { index: false, follow: false } };
+  }
+
   const url = `${SITE_URL}${urlGuiasDeCiudad(lang, params.ciudad)}`;
   const strings = getStrings(lang, ciudad.nombre);
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";

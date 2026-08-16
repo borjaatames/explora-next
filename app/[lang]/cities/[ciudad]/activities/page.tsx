@@ -65,6 +65,13 @@ export async function generateMetadata({
   const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) return { title: "City not found" };
 
+  // Mismo criterio que el componente de página (más abajo): si no hay
+  // actividades para este idioma+ciudad, la página hace notFound() y el
+  // <title>/robots deben reflejarlo, no anunciar contenido inexistente.
+  if (obtenerListaActividadesPorCiudad(lang, params.ciudad).length === 0) {
+    return { title: "Page not found", robots: { index: false, follow: false } };
+  }
+
   const titulo = `Things to do in ${ciudad.nombre}`;
   const descripcion = `Tours, guided visits and day trips in ${ciudad.nombre}. Hand-picked with editorial criteria.`;
   const url = `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`;
