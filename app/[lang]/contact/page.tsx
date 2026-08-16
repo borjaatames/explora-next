@@ -41,6 +41,7 @@ type Copy = {
   bookingsHeading: string;
   bookingsBody: string;
   companyInfoLabel: string;
+  companyLegalLine: string;
   moreInfoPrefix: string;
   legalNoticeLink: string;
   backToHome: string;
@@ -80,6 +81,8 @@ function getCopy(lang: Idioma): Copy {
       bookingsBody:
         "Bei Fragen zu Aktivitäten, Änderungen oder Problemen mit einer Buchung gib bitte die Buchungsnummer und das Datum der Aktivität in deiner Nachricht an.",
       companyInfoLabel: "Unternehmensangaben:",
+      companyLegalLine:
+        "SKYWARD PARTNERS, S.L. · Steuernummer (NIF) B26629576 · Calle Castelló 117, 28006 Madrid, Spanien.",
       moreInfoPrefix: "Weitere Informationen im",
       legalNoticeLink: "Impressum",
       backToHome: "← Zurück zur Startseite",
@@ -116,6 +119,8 @@ function getCopy(lang: Idioma): Copy {
     bookingsBody:
       "For questions about activities, changes or issues with a booking, please include the booking number and the date of the activity in your message.",
     companyInfoLabel: "Company information:",
+    companyLegalLine:
+      "SKYWARD PARTNERS, S.L. · Tax ID B26629576 · Calle Castelló 117, 28006 Madrid, Spain.",
     moreInfoPrefix: "More information in the",
     legalNoticeLink: "legal notice",
     backToHome: "← Back to home",
@@ -308,10 +313,7 @@ export default function ContactPage({
           <p className="mb-2">
             <strong className="text-slate-900">{copy.companyInfoLabel}</strong>
           </p>
-          <p>
-            SKYWARD PARTNERS, S.L. · Tax ID B26629576 · Calle Castelló 117,
-            28006 Madrid, Spain.
-          </p>
+          <p>{copy.companyLegalLine}</p>
           <p className="mt-3">
             {copy.moreInfoPrefix}{" "}
             <Link
