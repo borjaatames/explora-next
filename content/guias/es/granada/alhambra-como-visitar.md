@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
+  de: alhambra-besichtigen
 ---
 
 La Alhambra es **el monumento más visitado de España** — más de 2,5 millones de personas al año — y, casi con seguridad, **el peor visitado**. La gente que va sin saber nada acaba pagando 60 € a una empresa de reventa, llegando tarde a Palacios Nazaríes y perdiendo la entrada, o saliendo después de tres horas sin haber entendido lo que ha visto. Es una pena, porque la Alhambra recompensa muchísimo a quien va con un mínimo de plan.

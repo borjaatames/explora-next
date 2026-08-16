@@ -1,0 +1,266 @@
+=== COMANDO — VIATOR (pégalo en la extensión Claude del navegador) ===
+
+NOTA: esta semana sigue sin haber productos Viator publicados en las landings (las 81 fichas Viator están como "publicada: false"). No hay nada vivo que verificar en Viator ahora mismo. Si republicas alguna, usa el patrón de abajo.
+
+Eres mi verificador de condiciones de producto en VIATOR. Vamos a comprobar, UNO POR UNO, si el precio, el rating, el nº de reseñas y la política de cancelación de cada producto siguen coincidiendo con lo guardado en mi web.
+
+REGLAS DE RITMO (CRÍTICAS — Viator banea a los bots que van rápido, ve MUY despacio):
+- Abre y verifica UN producto cada vez. Espera a que cargue del todo antes de leer.
+- Pausa de VARIOS segundos entre producto y producto. Nunca varios a la vez.
+- Si aparece captcha, "verifica que eres humano" o cualquier bloqueo: PARA INMEDIATAMENTE, no recargues, y dime en qué producto te quedaste.
+- Solo leer la ficha pública: ni reservar ni iniciar sesión.
+
+PARA CADA PRODUCTO devuélveme exactamente esta línea:
+  CÓDIGO | precio_actual | rating_actual | nº_reseñas_actual | cancelación_actual (gratis Xh / no reembolsable)
+Marca con ⚠️ lo que NO coincida con el valor "guardado".
+
+Hazlo por LOTES de máx. 15. Al terminar un lote dame la tabla y espera mi "sigue".
+
+PRODUCTOS (REFERENCIA — actualmente DESPUBLICADOS, 81). Formato: CÓDIGO | ciudad | precio | rating/reseñas | cancelación | URL
+
+--- LOTE V1 ---
+  - 110975P4 | barcelona | precio 91 EUR | rating 4.7/1242res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Loving-Gaudi-The-most-original-private-tour-with-skip-the-line-tickets/d562-110975P4
+  - 15932P95 | barcelona | precio 54 EUR | rating 4.9/1431res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Barcelona-Gaudis-Sagrada-Familia-Fast-Track-Guided-Tour/d562-15932P95
+  - 17377P55 | barcelona | precio 159 EUR | rating 5.0/17res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Casa-Batllo/d562-17377P55
+  - 190179P1 | barcelona | precio 56 EUR | rating 4.7/3414res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Sagrada-Familia-Guided-express-english-tour/d562-190179P1
+  - 190179P9 | barcelona | precio 30 EUR | rating 4.3/265res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Guided-Tour-Park-Guell-English-Spanish-or-French-guided-tour/d562-190179P9
+  - 21035P1 | barcelona | precio 74 EUR | rating 4.9/566res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Montserrat-Half-Day-Tour-Easy-Hike-with-Hotel-Pick-up-from-Barcelona/d562-21035P1
+  - 2140FCBCN | barcelona | precio 45 EUR | rating 3.9/1319res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Camp-Nou-Experience-and-Museum-Admission-Ticket/d562-2140FCBCN
+  - 2140SAGRADA | barcelona | precio 55 EUR | rating 4.4/9278res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Skip-the-Line-Barcelona-Sagrada-Familia-Tour/d562-2140SAGRADA
+  - 340934P2 | barcelona | precio 32 EUR | rating 4.2/511res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Park-Guell-Tickets-Skip-The-Line-Entrance/d562-340934P2
+  - 3731P233 | barcelona | precio 24 EUR | rating 4.5/386res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Park-Guell-Express-Tour-Skip-the-Line-and-Private-Transport-from-City-Center/d562-3731P233
+  - 5587CASAMILA | barcelona | precio 34 EUR | rating 4.5/1052res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Skip-the-Line-Gaudis-La-Pedrera-Audio-Tour-in-Barcelona/d562-5587CASAMILA
+  - 56823P23 | barcelona | precio 65 EUR | rating 4.4/2480res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Sagrada-Familia-Fast-Track-Guided-Tour-with-Towers-Access/d562-56823P23
+  - 5716GOLFWINE | barcelona | precio 46.64 EUR | rating 4.9/7736res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Small-Group-Montserrat-Tour-from-Barcelona-Wine-and-Cheese-Tasting-with-Optional-Golf-Round/d562-5716GOLFWINE
+  - 5716P2 | barcelona | precio 54 EUR | rating 4.9/5305res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Montserrat-Tour-from-Barcelona-Including-Lunch-and-Wine-Tasting-in-Oller-del-Mas/d562-5716P2
+  - 5716P4 | barcelona | precio 59 EUR | rating 4.9/7069res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Extended-Montserrat-with-Tapas-and-Wine/d562-5716P4
+
+--- LOTE V2 ---
+  - 9866P26 | barcelona | precio 94 EUR | rating 4.8/5579res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Montserrat-tour/d562-9866P26
+  - 22705P14 | cordoba | precio 18 EUR | rating 4.9/244res | cancelación: gratis 24h | https://www.viator.com/tours/Cordoba/Guided-visit-to-Medina-Azahara/d5254-22705P14
+  - 22705P16 | cordoba | precio 34 EUR | rating 4.5/55res | cancelación: gratis 24h | https://www.viator.com/tours/Cordoba/Guided-Tour-Jewish-Quarter-and-Mosque-Cathedral-of-Cordoba-with-tickets/d5254-22705P16
+  - 34697P5 | cordoba | precio 30 EUR | rating 4.4/386res | cancelación: gratis 24h | https://www.viator.com/tours/Cordoba/Official-Tour-Mosque-Cathedral-of-Cordoba/d5254-34697P5
+  - 5520738P119 | girona | precio 7 EUR | rating /res | cancelación: gratis 24h | https://www.viator.com/tours/Girona/Discover-Girona-and-Costa-Brava-A-Guided-Tour/d23015-5520738P119
+  - 9866P29 | girona | precio 99 EUR | rating 4.9/7496res | cancelación: gratis 24h | https://www.viator.com/tours/Barcelona/Girona-and-Costa-Brava-tour/d562-9866P29
+  - 11131P1 | granada | precio 59 EUR | rating 4.7/3183res | cancelación: no reembolsable | https://www.viator.com/tours/Granada/Alhambra-and-Generalife-Tour-in-small-groups/d554-11131P1
+  - 121471P1 | granada | precio 165 EUR | rating 4.6/67res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Cordoba-and-its-Mosque-Tour-from-Granada/d554-121471P1
+  - 121471P11 | granada | precio 135 EUR | rating 4.7/27res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Nerja-and-Frijiliana-Day-Trip-from-Granada/d554-121471P11
+  - 121471P35 | granada | precio 56 EUR | rating 4.6/102res | cancelación: no reembolsable | https://www.viator.com/tours/Granada/Alhambra-guided-tour/d554-121471P35
+  - 169592P1 | granada | precio 67 EUR | rating 4.9/865res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Small-Group-Food-Tour-in-Granada/d554-169592P1
+  - 177568P2 | granada | precio 75 EUR | rating 5.0/85res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/The-Entertaining-Granada-Tapas-Crawl/d554-177568P2
+  - 181777P10 | granada | precio 79 EUR | rating 5.0/84res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Granada-Nature-Wildlife-and-Authentic-Villages-E-bike-Tour/d554-181777P10
+  - 181777P7 | granada | precio 69 EUR | rating 4.9/116res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Granada-Highlights-Tour-with-Tapas-Breaks-by-Electric-Bike/d554-181777P7
+  - 19234P15 | granada | precio 29 EUR | rating 4.7/595res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Granada-Walking-Tour-of-Albaicin-and-Sacromonte/d554-19234P15
+
+--- LOTE V3 ---
+  - 3443CITALHVIA | granada | precio 89 EUR | rating 4.6/925res | cancelación: no reembolsable | https://www.viator.com/tours/Granada/Alhambra-Private-Small-Group-Tour-and-Nasrid-Palaces-Skip-the-Line/d554-3443CITALHVIA
+  - 3443G4 | granada | precio 69 EUR | rating 4.5/52res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Tropical-Coast-and-Caves-of-Nerja-Day-Trip-with-Lunch-from-Granada/d554-3443G4
+  - 3443G5 | granada | precio 71.31 EUR | rating 4.6/138res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Las-Alpujarras-Full-Day-Tour-with-Optional-Lunch-from-Granada/d554-3443G5
+  - 419048P1 | granada | precio 35 EUR | rating 4.9/101res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Tapas-tour-in-Granada/d554-419048P1
+  - 423057P1 | granada | precio 105 EUR | rating 4.7/170res | cancelación: gratis 24h | https://www.viator.com/tours/Granada/3-Hour-Private-Tour-to-the-Alhambra/d554-423057P1
+  - 8297P4 | granada | precio 65 EUR | rating 4.9/95res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Granada/Hiking-Experience-in-Sierra-Nevada-from-Granada/d554-8297P4
+  - 104043P8 | madrid | precio 310 EUR | rating 5.0/660res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Private-tour-to-Toledo-from-Madrid-with-licensed-guide-and-private-driver/d566-104043P8
+  - 109384P93 | madrid | precio 65 EUR | rating 5.0/151res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Tipsy-Tapas-Walking-Tour-with-Food-and-Drinks/d566-109384P93
+  - 110971P29 | madrid | precio 35 EUR | rating 3.9/12res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Madrid/Toledo-Tour-on-your-Own-with-Walking-Tour-Included/d566-110971P29
+  - 110971P4 | madrid | precio 62 EUR | rating 4.8/2706res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Escorial-y-Valle-de-los-Caidos-con-Tickets-Included-from-Madrid/d566-110971P4
+  - 110971P5 | madrid | precio 79 EUR | rating 4.8/7252res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Toledo-Full-Day-with-Cathedral-from-Madrid/d566-110971P5
+  - 13557P3 | madrid | precio 60.05 EUR | rating 5.0/178res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Cured-Meats-Cheese-and-Wine-Tasting-Tour-in-Madrid/d566-13557P3
+  - 135793P1 | madrid | precio 20 EUR | rating 4.7/325res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Spanish-Inquisition-Tour-and-Ghost-Stories-of-Madrid/d566-135793P1
+  - 144457P1 | madrid | precio 125 EUR | rating 4.7/91res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Private-Tour-2H-Prado-Museum/d566-144457P1
+  - 2140JTEMA13 | madrid | precio 71 EUR | rating 3.3/132res | cancelación: no reembolsable | https://www.viator.com/tours/Madrid/Madrid-City-Tour-and-Santiago-Bernabeu-Stadium/d566-2140JTEMA13
+
+--- LOTE V4 ---
+  - 2140JTEMA20 | madrid | precio 29 EUR | rating 4.5/6033res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Toledo-Half-Day-or-Full-Day-Trip-from-Madrid/d566-2140JTEMA20
+  - 2140LASVENTAS | madrid | precio 16 EUR | rating 4.3/110res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Las-Ventas-Bullring-Entrance-Ticket-and-Audio-Tour/d566-2140LASVENTAS
+  - 2140P273 | madrid | precio 63 EUR | rating 4.2/452res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Guided-Tour-in-Bernabeu-Stadium/d566-2140P273
+  - 2140P294 | madrid | precio 42 EUR | rating 4.6/247res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Best-of-Segovia-Entrance-to-the-Cathedral-and-the-Alcazar/d566-2140P294
+  - 22869P66 | madrid | precio 29 EUR | rating 4.2/212res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Guided-Tour-of-Madrids-Reina-Sofia-Museum/d566-22869P66
+  - 22869P9 | madrid | precio 38 EUR | rating 4.6/4637res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Toledo-and-Segovia-Full-Day-Tour-with-an-Optional-Visit-to-Avila/d566-22869P9
+  - 22869ROYALPALACEEXC | madrid | precio 43 EUR | rating 4.2/497res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Royal-Palace-of-Madrid-Monolingual-Guided-Tour-with-Fast-Track-Access/d566-22869ROYALPALACEEXC
+  - 29788P2 | madrid | precio 74 EUR | rating 4.8/145res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Paella-cooking-class/d566-29788P2
+  - 322183P1 | madrid | precio 45 EUR | rating 4.2/32res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Flamenco-show-at-Tablao-la-Carmela-Puerta-del-Sol-Madrid/d566-322183P1
+  - 340934P5 | madrid | precio 38 EUR | rating 4.7/2170res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Madrid-Royal-Palace-Guided-Tour-with-Skip-The-Line-Tickets/d566-340934P5
+  - 354476P6 | madrid | precio 117 EUR | rating 5.0/239res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Madrid/Local-tapas-tour-with-private-sit-down-dinner-and-bottomless-wine/d566-354476P6
+  - 379928P1 | madrid | precio 125 EUR | rating 4.9/223res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Tour-the-Windmills-of-Don-Quixote-de-la-Mancha-and-Toledo-with-Lunch/d566-379928P1
+  - 441637P1 | madrid | precio 85 EUR | rating 5.0/287res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/2-Hour-Private-Paella-Cooking-Clases/d566-441637P1
+  - 48293P13 | madrid | precio 54 EUR | rating 4.9/119res | cancelación: gratis 24h | https://www.viator.com/es-ES/tours/Madrid/Madrid-Food-Tour/d566-48293P13
+  - 56823P10 | madrid | precio 48 EUR | rating 4.5/856res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Segovia-and-Toledo-from-Madrid-with-Cathedral-and-Alcazar-Access/d566-56823P10
+
+--- LOTE V5 ---
+  - 5830WINETAPAS | madrid | precio 77 EUR | rating 4.9/3830res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Madrid-Tapas-and-Wine-Tasting-Tour/d566-5830WINETAPAS
+  - 5903WALKTOUR | madrid | precio 204 EUR | rating 4.6/0res | cancelación: no reembolsable | https://www.viator.com/tours/Madrid/Private-Tour-Madrid-Walking-Tour-of-Los-Austrias/d566-5903WALKTOUR
+  - 5995P34 | madrid | precio 42 EUR | rating 5.0/5res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Retiro-park-and-Literary-Quarter-by-e-bike/d566-5995P34
+  - 65969P1 | madrid | precio 25 EUR | rating 4.4/188res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Wanda-Metropolitano-Entrance-Ticket/d566-65969P1
+  - 68331P12 | madrid | precio 45 EUR | rating 4.6/5res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/E-Bike-Tour-chasing-the-best-Sunset-in-Madrid/d566-68331P12
+  - 6874P121 | madrid | precio 110 EUR | rating 4.9/2658res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Toledo-City-Tour-and-Winery-Experience-with-Wine-Tasting-from-Madrid/d566-6874P121
+  - 6874P162 | madrid | precio 90 EUR | rating 4.9/222res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Toledo-city-tour-with-high-speed-train-from-Madrid/d566-6874P162
+  - 6874P84 | madrid | precio 97.99 EUR | rating 5.0/2136res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Madrid-Tapas-and-Wine-Tour-with-Rooftop-Views-and-Local-Guide/d566-6874P84
+  - 6874P88 | madrid | precio 89.99 EUR | rating 4.8/9118res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Three-Cities-in-One-Day-Segovia-Avila-and-Toledo-from-Madrid/d566-6874P88
+  - 70755P1 | madrid | precio 38 EUR | rating 4.7/23res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Flamenco-Show-with-Tapa-and-a-Drink/d566-70755P1
+  - 72567P5 | madrid | precio 37 EUR | rating 4.8/282res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Retiro-Park-Segway-Tour/d566-72567P5
+  - 7812P9 | madrid | precio 64.8 EUR | rating 5.0/840res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Tapas-and-food-tour-of-Madrid/d566-7812P9
+  - 8512P81 | madrid | precio 72 EUR | rating 4.5/1405res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/El-Prado-Museum-and-Madrid-Royal-Palace-Guided-Tour-tickets-included/d566-8512P81
+  - 8512P83 | madrid | precio 39 EUR | rating 4.8/549res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/El-Prado-Museum-of-Madrid-Guided-Tour-Tickets-included-and-Skip-the-line/d566-8512P83
+  - 8648P4 | madrid | precio 59 EUR | rating 4.9/1163res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Avila-Segovia-Full-day/d566-8648P4
+
+--- LOTE V6 ---
+  - 86817P1 | madrid | precio 34 EUR | rating 4.8/1790res | cancelación: gratis 24h | https://www.viator.com/tours/Madrid/Essential-Flamenco-Admission-Ticket/d566-86817P1
+  - 199554P3 | malaga | precio 25 EUR | rating 4.9/7res | cancelación: gratis 24h | https://www.viator.com/tours/Malaga/Discover-Malaga-City-tour-and-Alcazaba-3-hours-tour/d956-199554P3
+  - 384801P1 | malaga | precio 66 EUR | rating 4.8/726res | cancelación: gratis 24h | https://www.viator.com/tours/Malaga/Excursion-to-Caminito-del-Rey-from-Malaga/d956-384801P1
+  - 5502350P1 | malaga | precio 45 EUR | rating 4.8/40res | cancelación: gratis 24h | https://www.viator.com/tours/Malaga/Malaga-Picasso-Museum-Tour-Expert-Art-Guide-with-tickets/d956-5502350P1
+  - 102062P1 | valencia | precio 65 EUR | rating 4.97/1005res | cancelación: gratis 24h | https://www.viator.com/tours/Valencia/Workshop-Valencian-Paella-and-Visit-Ruzafa-Market/d811-102062P1
+  - 276333P2 | valencia | precio 29 EUR | rating 4.7/289res | cancelación: gratis 24h | https://www.viator.com/tours/Valencia/Bike-Tour-Valencia/d811-276333P2
+
+
+=== COMANDO — GETYOURGUIDE (pégalo en la extensión Claude del navegador) ===
+
+Eres mi verificador de condiciones de producto en GetYourGuide. Vamos a comprobar, UNO POR UNO, si el precio "desde", el rating, el nº de reseñas y la política de cancelación de cada producto siguen coincidiendo con lo que tengo guardado en mi web.
+
+REGLAS DE RITMO (importantes):
+- Abre y verifica UN producto cada vez. Espera a que la página cargue del todo antes de leer.
+- Deja una pausa de unos segundos entre producto y producto. No abras varios a la vez.
+- Si aparece un captcha o cualquier bloqueo: PARA, no recargues, y dime en qué producto te quedaste.
+- No hace falta reservar ni iniciar sesión: solo leer la ficha pública.
+
+PARA CADA PRODUCTO devuélveme exactamente esta línea:
+  CÓDIGO | precio_actual | rating_actual | nº_reseñas_actual | cancelación_actual (gratis Xh / no reembolsable)
+Marca con ⚠️ cualquier dato que NO coincida con el valor "guardado" que te paso.
+
+Hazlo por LOTES. Al terminar un lote dame la tabla de ese lote y espera mi "sigue" antes del siguiente.
+
+PRODUCTOS A VERIFICAR (119 en total). Formato guardado: CÓDIGO | ciudad | precio | rating/reseñas | cancelación | URL
+
+--- LOTE G1 ---
+  - t1014836 | barcelona | precio 20 EUR | rating 4.9/117res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-walk-like-a-local-el-born-gothic-15-sights-t1014836/
+  - t168768 | barcelona | precio 64 EUR | rating 4.5/377res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/casa-batllo-night-visit-with-live-music-on-the-roof-terrace-t168768/
+  - t231887 | barcelona | precio 88 EUR | rating 4.8/2125res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-flamenco-show-with-tapas-dinner-t231887/
+  - t356790 | barcelona | precio 128 EUR | rating 4.6/331res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-the-3-gaudi-houses-tour-t356790/
+  - t381019 | barcelona | precio 40 EUR | rating 4.5/3552res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-skip-the-line-guided-tour-of-picasso-museum-t381019/
+  - t382639 | barcelona | precio 47 EUR | rating 4.8/6154res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-rack-railway-and-winery-t382639/
+  - t398519 | barcelona | precio 31 EUR | rating 4.7/27982res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/barcelona-casa-batllo-10d-experience-t398519/
+  - t405115 | barcelona | precio 30 EUR | rating 4.6/919res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-flamenco-show-at-palau-dalmases-t405115/
+  - t428189 | barcelona | precio 21 EUR | rating 4.5/1916res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/barcelona-cathedral-of-barcelona-entry-ticket-t428189/
+  - t448358 | barcelona | precio 38 EUR | rating 4.8/271res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-ramblas-old-town-gaudi-houses-walking-tour-t448358/
+  - t449261 | barcelona | precio 28 EUR | rating 4.3/12092res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/barcelona-barca-immersive-exhibition-ticket-t449261/
+  - t50027 | barcelona | precio 34 EUR | rating 4.6/113748res | cancelación: gratis 48h | https://www.getyourguide.com/barcelona-l45/sagrada-familia-ticket-de-entrada-sin-colas-t50027/
+  - t53791 | barcelona | precio 23 EUR | rating 4.4/81572res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/skip-the-line-park-guell-entrance-ticket-t53791/
+  - t61664 | barcelona | precio 20 EUR | rating 4.8/1582res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-old-town-and-gothic-quarter-walking-tour-t61664/
+  - t638978 | barcelona | precio 29 EUR | rating 4.5/205res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-cathedral-of-barcelona-ticket-with-guided-tour-and-vr-experience-t638978/
+
+--- LOTE G2 ---
+  - t67263 | barcelona | precio 48 EUR | rating 4.6/4617res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-tablao-flamenco-cordobes-with-fooddrink-options-t67263/
+  - t682388 | barcelona | precio 31 EUR | rating 4.4/1930res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/barcelona-casa-batllo-intimate-night-visit-w-welcome-drink-t682388/
+  - t700918 | barcelona | precio 49 EUR | rating 4.2/979res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/barcelona-all-included-fc-barcelona-museum-total-experience-t700918/
+  - t72879 | barcelona | precio 75 EUR | rating 4.4/5518res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-visita-a-la-sagrada-familia-y-visita-opcional-a-la-torre-t72879/
+  - t76003 | barcelona | precio 25 EUR | rating 4.5/11305res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-flamenco-show-at-the-theater-t76003/
+  - t808734 | barcelona | precio 40 EUR | rating 4.6/158res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-skip-the-line-guided-tour-of-the-picasso-museum-t808734/
+  - t826796 | barcelona | precio 30 EUR | rating 4.5/7565res | cancelación: no reembolsable | https://www.getyourguide.com/barcelona-l45/barcelona-park-guell-and-gaudi-house-museum-entry-ticket-t826796/
+  - t906191 | barcelona | precio 34.04 EUR | rating 4.8/47res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-picasso-walking-tour-guided-museum-experience-t906191/
+  - t913286 | barcelona | precio 25 EUR | rating 4.7/18195res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-la-pedrera-casa-mila-ticket-audio-guide-option-t913286/
+  - t913305 | barcelona | precio 39.50 EUR | rating 4.4/4913res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-la-pedrera-night-experience-t913305/
+  - t913306 | barcelona | precio 39.5 EUR | rating 4.8/220res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-casa-mila-early-morning-access-guided-tour-t913306/
+  - t949030 | barcelona | precio 29 EUR | rating 4.5/176res | cancelación: gratis 24h | https://www.getyourguide.com/barcelona-l45/barcelona-private-cathedral-tour-with-rooftop-t949030/
+  - t1002737 | granada | precio 45 EUR | rating 4.5/860res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-bano-tradicional-en-hammam-palacio-nazari-con-masaje-opcional-t1002737/
+  - t1263762 | granada | precio 42 EUR | rating 4.5/0res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-tour-gourmet-de-vino-y-tapas-t1263762/
+  - t152952 | granada | precio 135 EUR | rating 4.5/34res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/desde-granada-tour-de-dia-completo-por-ronda-t152952/
+
+--- LOTE G3 ---
+  - t153792 | granada | precio 135 EUR | rating 4.5/0res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/desde-granada-excursion-de-1-dia-a-ubeda-y-baeza-t153792/
+  - t158852 | granada | precio 135 EUR | rating 4.8/59res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/caminito-del-rey-desde-granada-t158852/
+  - t159257 | granada | precio 115 EUR | rating 4.7/224res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/excursion-de-un-dia-por-la-alpujarra-desde-granada-t159257/
+  - t165483 | granada | precio 36 EUR | rating 4.8/413res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-visita-a-la-catedral-y-la-capilla-t165483/
+  - t171177 | granada | precio 65 EUR | rating 4.8/890res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/visita-a-la-alhambra-con-palacios-nazaries-y-albaicin-sacromonte-t171177/
+  - t171748 | granada | precio 18 EUR | rating 4.5/2256res | cancelación: no reembolsable | https://www.getyourguide.es/granada-l207/granada-entrada-sin-colas-a-la-alhambra-y-el-generalife-t171748/
+  - t181145 | granada | precio 96 EUR | rating 4.8/432res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/granada-visita-guiada-sin-esperas-a-la-alhambra-y-los-palacios-nazaries-t181145/
+  - t184220 | granada | precio 15 EUR | rating 4.9/3200res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-tour-a-pie-de-25-horas-por-el-albaicin-y-el-sacromonte-t184220/
+  - t221412 | granada | precio 54 EUR | rating 4.9/288res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/granada-visita-nocturna-a-la-alhambra-y-palacios-nazaries-t221412/
+  - t285662 | granada | precio 50 EUR | rating 4.7/3516res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/granada-entrada-a-la-alhambra-y-tour-guiado-con-los-palacios-nazaries-t285662/
+  - t33381 | granada | precio 70 EUR | rating 4.8/1724res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/bano-hammam-solo-granada-t33381/
+  - t387418 | granada | precio 18 EUR | rating 4.7/5481res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-flamenco-en-la-alborea-t387418/
+  - t404960 | granada | precio 18 EUR | rating 4.8/435res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-flamenco-tradicional-en-el-tablao-casa-ana-t404960/
+  - t41379 | granada | precio 71 EUR | rating 4.7/320res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/excursion-de-un-dia-a-la-alpujarra-desde-granada-t41379/
+  - t42370 | granada | precio 19 EUR | rating 4.7/1431res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-de-flamenco-en-el-albayzin-jardines-de-zoraya-t42370/
+
+--- LOTE G4 ---
+  - t42922 | granada | precio 75 EUR | rating 4.9/1718res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/desde-granada-safari-por-sierra-nevada-hasta-los-2500-metros-de-altura-t42922/
+  - t48015 | granada | precio 54 EUR | rating 4.6/288res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-de-flamenco-con-cena-en-jardines-de-zoraya-t48015/
+  - t48474 | granada | precio 28 EUR | rating 4.5/2093res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/espectaculo-flamenco-sacromonte-entradas-cuevas-los-tarantos-t48474/
+  - t48872 | granada | precio 75 EUR | rating 4.7/8443res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/sin-colas-palacio-de-la-alhambra-y-jardines-del-generalife-t48872/
+  - t517606 | granada | precio 83.78 EUR | rating 4.9/1018res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/alhambra-y-palacios-nazaries-tour-guiado-con-entradas-t517606/
+  - t54011 | granada | precio 54 EUR | rating 4.7/21100res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/saltate-la-cola-visita-guiada-a-la-alhambra-y-el-generalife-t54011/
+  - t632032 | granada | precio 23 EUR | rating 4.7/1107res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-flamenco-en-la-cueva-los-amayas-en-el-sacromonte-t632032/
+  - t636799 | granada | precio 20 EUR | rating 4.6/1286res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-flamenco-zincale-en-las-cuevas-del-sacromonte-t636799/
+  - t70427 | granada | precio 280 EUR | rating 4.9/242res | cancelación: no reembolsable | https://www.getyourguide.com/granada-l207/skip-the-line-alhambra-generalife-tour-privado-t70427/
+  - t73427 | granada | precio 36 EUR | rating 4.7/312res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-visita-en-grupo-a-la-catedral-y-la-capilla-real-en-espanol-t73427/
+  - t840866 | granada | precio 18 EUR | rating 4.7/503res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-flamenco-en-la-cueva-la-faraona-t840866/
+  - t855430 | granada | precio 20 EUR | rating 4.8/788res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-espectaculo-flamenco-sensaciones-en-el-teatro-flamenco-granada-t855430/
+  - t98307 | granada | precio 18 EUR | rating 4.4/724res | cancelación: gratis 24h | https://www.getyourguide.es/granada-l207/granada-tour-a-pie-del-albaicin-y-el-sacromonte-t98307/
+  - t1253280 | madrid | precio 58 EUR | rating 4.5/9res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-visita-guiada-al-palacio-real-y-la-catedral-de-la-almudena-t1253280/
+  - t127466 | madrid | precio 19 EUR | rating 4.7/1482res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-tour-nocturno-de-inquisicion-fantasmas-y-leyendas-t127466/
+
+--- LOTE G5 ---
+  - t166094 | madrid | precio 460 EUR | rating 4.6/106res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/desde-madrid-excursion-de-dia-completo-a-avila-segovia-y-el-escorial-t166094/
+  - t193784 | madrid | precio 80 EUR | rating 4.9/113res | cancelación: gratis 24h | https://www.getyourguide.es/madrid-l46/madrid-visita-enogastronomica-a-pie-del-viejo-madrid-t193784/
+  - t194657 | madrid | precio 42 EUR | rating 4.5/23468res | cancelación: no reembolsable | https://www.getyourguide.com/madrid-l46/madrid-ticket-de-acceso-para-la-visita-al-bernabeu-t194657/
+  - t19684 | madrid | precio 145 EUR | rating 4.9/249res | cancelación: gratis 24h | https://www.getyourguide.es/madrid-l46/madrid-tour-guiado-por-bodegas-de-la-region-de-madrid-y-catas-t19684/
+  - t362290 | madrid | precio 62 EUR | rating 4.1/1532res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-visita-guiada-al-estadio-bernabeu-t362290/
+  - t373120 | madrid | precio 375 EUR | rating 4.1/16res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-visita-de-medio-dia-a-alcala-de-henares-t373120/
+  - t378999 | madrid | precio 89 EUR | rating 4.8/561res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-tour-de-un-dia-a-cuenca-y-la-ciudad-encantada-t378999/
+  - t38212 | madrid | precio 35 EUR | rating 4.9/65res | cancelación: gratis 24h | https://www.getyourguide.es/madrid-l46/25-horas-de-tapas-por-la-noche-en-madrid-t38212/
+  - t391310 | madrid | precio 27 EUR | rating 4.7/2188res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-territorio-atleti-y-tour-civitas-metropolitano-t391310/
+  - t408853 | madrid | precio 46 EUR | rating 4.6/1149res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/desde-madrid-excursion-de-un-dia-por-avila-y-segovia-t408853/
+  - t409545 | madrid | precio 71 EUR | rating 4.6/4805res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-excursion-de-un-dia-a-avila-y-segovia-con-entradas-a-monumentos-t409545/
+  - t434716 | madrid | precio 44.59 EUR | rating 5.0/59res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/tour-premium-por-el-palacio-real-con-entradas-y-sin-colas-t434716/
+  - t434998 | madrid | precio 50 EUR | rating 4.9/418res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-museo-reina-sofia-visita-guiada-solo-grupos-reducidos-t434998/
+  - t469464 | madrid | precio 35 EUR | rating 4.2/904res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-tour-turistico-en-autobus-grande-descapotable-con-guia-en-directo-t469464/
+  - t479181 | madrid | precio 28 EUR | rating 4.2/977res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-visita-panoramica-nocturna-en-big-bus-con-guia-en-directo-t479181/
+
+--- LOTE G6 ---
+  - t58181 | madrid | precio 82 EUR | rating 4.5/579res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/desde-madrid-tour-de-1-dia-a-avila-y-salamanca-entradas-a-la-catedral-t58181/
+  - t591591 | madrid | precio 38 EUR | rating 4.8/4060res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/palacio-real-de-madrid-visita-guiada-sin-colas-t591591/
+  - t610177 | madrid | precio 61 EUR | rating 4.9/1448res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/taller-de-paella-y-sangria-en-el-centro-de-madrid-t610177/
+  - t68374 | madrid | precio 30 EUR | rating 4.5/10330res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-espectaculo-de-flamenco-con-opciones-culinarias-t68374/
+  - t69643 | madrid | precio 38 EUR | rating 4.5/196res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-sightseeing-e-bike-tour-t69643/
+  - t69761 | madrid | precio 48 EUR | rating 4.7/758res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/espectaculo-flamenco-de-madrid-en-el-tablao-las-carboneras-t69761/
+  - t708104 | madrid | precio 62 EUR | rating 4.7/342res | cancelación: gratis 24h | https://www.getyourguide.es/madrid-l46/madrid-tour-de-tapas-y-vino-con-visita-a-una-azotea-t708104/
+  - t739468 | madrid | precio 73 EUR | rating 4.4/158res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/desde-madrid-excursion-de-un-dia-con-guia-a-chinchon-aranjuez-y-toledo-t739468/
+  - t892275 | madrid | precio 32 EUR | rating 4.9/55res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-tour-a-pie-historico-en-grupo-reducido-t892275/
+  - t92208 | madrid | precio 35 EUR | rating 4.3/676res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/madrid-visita-al-museo-reina-sofia-t92208/
+  - t933622 | madrid | precio 31 EUR | rating 4.8/73res | cancelación: gratis 24h | https://www.getyourguide.com/madrid-l46/magic-retiro-park-bike-tour-t933622/
+  - t1014366 | sevilla | precio 39 EUR | rating 4.5/850res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/cathedral-and-giralda-entry-ticket-with-audio-guide-t1014366/
+  - t1260039 | sevilla | precio 48 EUR | rating 4.9/22res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/flamenco-show-at-tablao-el-arenal-t1260039/
+  - t1277605 | sevilla | precio 32 EUR | rating 4.8/35res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-guided-walking-tour-with-plaza-de-espana-visit-t1277605/
+  - t131913 | sevilla | precio 15 EUR | rating 4.6/3500res | cancelación: no reembolsable | https://www.getyourguide.com/seville-l48/seville-cathedral-and-la-giralda-entry-ticket-t131913/
+
+--- LOTE G7 ---
+  - t179534 | sevilla | precio 75 EUR | rating 4.9/1848res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-tapas-crawl-t179534/
+  - t220767 | sevilla | precio 42 EUR | rating 4.9/58res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-paella-and-sangria-experience-t220767/
+  - t26951 | sevilla | precio 60 EUR | rating 4.8/48res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/3-hour-tapas-tour-in-sevilla-t26951/
+  - t292115 | sevilla | precio 27 EUR | rating 4.5/1784res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-bullring-guided-tour-with-a-skip-the-line-ticket-t292115/
+  - t294545 | sevilla | precio 69 EUR | rating 4.7/50res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-tastes-tapas-and-traditions-food-tour-t294545/
+  - t302548 | sevilla | precio 15 EUR | rating 4.7/3823res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/las-duenas-palace-entry-ticket-and-audio-guide-t302548/
+  - t312898 | sevilla | precio 32 EUR | rating 4.8/6456res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-puro-flamenco-show-with-optional-museum-ticket-t312898/
+  - t336556 | sevilla | precio 26 EUR | rating 4.8/13526res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-casa-de-la-memoria-flamenco-show-t336556/
+  - t3673 | sevilla | precio 28 EUR | rating 4.0/4954res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-hop-on-hop-off-tour-24h-ticket-t3673/
+  - t396762 | sevilla | precio 39 EUR | rating 4.4/510res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/royal-alcazar-of-seville-skip-the-line-guided-tour-t396762/
+  - t408947 | sevilla | precio 27 EUR | rating 4.7/18292res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-live-flamenco-dancing-show-ticket-at-the-theater-t408947/
+  - t418633 | sevilla | precio 13 EUR | rating 4.5/200res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-casa-de-pilatos-ticket-t418633/
+  - t418722 | sevilla | precio 17 EUR | rating 4.2/11157res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-1-hour-guadalquivir-river-sightseeing-eco-cruise-t418722/
+  - t436073 | sevilla | precio 25 EUR | rating 4.7/4363res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-flamenco-triana-theater-live-flamenco-show-t436073/
+  - t491580 | sevilla | precio 49.5 EUR | rating 4.9/180res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-small-group-alcazar-guided-tour-entry-ticket-t491580/
+
+--- LOTE G8 ---
+  - t491716 | sevilla | precio 26 EUR | rating 4.9/1475res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-small-group-city-highlights-walking-tour-t491716/
+  - t521326 | sevilla | precio 26 EUR | rating 4.7/1746res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-guadalquivir-river-boat-tour-t521326/
+  - t67456 | sevilla | precio 47.4 EUR | rating 4.5/4027res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/pueblos-blancos-and-ronda-t67456/
+  - t67489 | sevilla | precio 44 EUR | rating 4.5/320res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/day-trip-italica-from-seville-t67489/
+  - t67616 | sevilla | precio 230 EUR | rating 4.4/250res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/tangier-morocco-day-trip-from-seville-t67616/
+  - t69843 | sevilla | precio 70 EUR | rating 4.9/975res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-3-hour-spanish-cooking-class-w-dinner-t69843/
+  - t77605 | sevilla | precio 40 EUR | rating 4.5/2362res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-cathedral-and-giralda-tower-tour-t77605/
+  - t800561 | sevilla | precio 53 EUR | rating 4.8/9797res | cancelación: gratis 48h | https://www.getyourguide.com/seville-l48/seville-priority-access-cathedral-giralda-alcazar-tour-t800561/
+  - t83544 | sevilla | precio 95 EUR | rating 4.2/641res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-bay-of-cadiz-jerez-de-la-frontera-day-tour-t83544/
+  - t842973 | sevilla | precio 18 EUR | rating 4.6/12014res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-setas-de-sevilla-entry-ticket-t842973/
+  - t89625 | sevilla | precio 115 EUR | rating 4.3/280res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/from-seville-full-day-essential-cordoba-tour-t89625/
+  - t89805 | sevilla | precio 65 EUR | rating 4.5/2085res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-monuments-tour-t89805/
+  - t938632 | sevilla | precio 32 EUR | rating 5.0/3res | cancelación: gratis 24h | https://www.getyourguide.com/seville-l48/seville-the-age-of-discovery-guided-tour-with-monuments-access-t938632/
+  - t979945 | sevilla | precio 109.99 EUR | rating 4.7/85res | cancelación: gratis 24h | https://www.getyourguide.com/cordoba-l1689/from-seville-cordoba-trip-with-mezquita-by-high-speed-train-t979945/

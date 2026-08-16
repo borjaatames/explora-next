@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
+  de: barcelona-in-3-tagen
 ---
 
 Barcelona is the Spanish city with the most tourism in the year and the clearest evidence that mass tourism can spoil what people came for. That isn't fatalism: it's context. If you go to Barcelona and do what everyone does — Las Ramblas at 11 AM, Sagrada Familia without a reservation, Park Güell without realizing the good zone is paid, eating paella in Barceloneta — you'll come out feeling like you've been at a theme park. And the fault isn't Barcelona's, it's the plan's.

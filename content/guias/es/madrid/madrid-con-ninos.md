@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: madrid-con-ninos
   en: madrid-with-kids
+  de: madrid-mit-kindern
 ---
 
 Madrid es una de las capitales europeas que mejor se vive en familia. Tiene parques al aire libre por toda la ciudad, fauna real a 20 minutos del centro, museos que sorprenden a los niños (algunos más que el Prado a sus padres) y planes de verano que en pocas otras capitales encuentras.

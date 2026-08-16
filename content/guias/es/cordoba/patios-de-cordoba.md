@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: patios-de-cordoba
   en: cordoba-patios
+  de: patios-von-cordoba
 ---
 
 **Los patios son el alma de Córdoba**, y en mayo, su mayor espectáculo. Casas particulares abren sus patios encalados, repletos de macetas y flores, para que cualquiera entre a verlos gratis. La **Fiesta de los Patios** es **Patrimonio Inmaterial de la Humanidad**, pero también se pueden ver fuera de temporada si sabes dónde. Esta guía te dice cuándo, dónde y cómo, sin colas ni calor de más.

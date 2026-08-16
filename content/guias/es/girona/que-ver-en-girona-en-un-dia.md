@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
+  de: girona-in-einem-tag
 ---
 
 **Girona se ve bien en un día.** Su casco antiguo es compacto y se recorre a pie, así que en una jornada entran la catedral, El Call, las casas de colores del Oñar y un paseo por lo alto de la muralla. Es la excursión clásica desde Barcelona —apenas 38 minutos en AVE—, pero quien se queda a comer y a ver el atardecer sobre el río se lleva una ciudad, no una postal de paso.

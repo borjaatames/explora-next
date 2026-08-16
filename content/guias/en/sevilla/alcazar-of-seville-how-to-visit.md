@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
+  de: alcazar-von-sevilla-besichtigen
 ---
 
 The Royal Alcázar of Seville is **the oldest royal palace still in use in Europe**. Its origins go back to the 10th century, and it's still the official residence of the Spanish royal family when they visit the city. But beyond the headline, what makes it exceptional is something few monuments can offer: **a thousand years of historical layers in the same complex**, from Almohad remains of the 12th century to 19th-century English gardens, passing through the most spectacular Mudéjar palace preserved in Spain.

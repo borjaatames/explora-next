@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: madrid-gratis
   en: madrid-on-a-budget
+  de: madrid-kostenlos
 ---
 
 Madrid es de las pocas capitales europeas donde se puede pasar varios días sin pagar entrada a casi nada y aun así llevarse una experiencia rica. La clave no es buscar "10 cosas gratis en Madrid" en Google y tachar lista — es entender qué merece la pena en cada caso, cuándo, y cómo evitar los errores típicos del que llega buscando planes gratuitos.

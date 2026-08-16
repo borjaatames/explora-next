@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
+  de: caminito-del-rey-besichtigen
 ---
 
 **The Caminito del Rey is the best-selling nature excursion in Andalusia**, and for good reason: a walkway pinned to the vertical walls of the Gaitanes gorge, more than 100 metres above the river, in a spectacular landscape. But it's also the visit most people miss for an avoidable reason: **not booking the ticket in time**. This guide explains how to organise everything so you don't miss out.

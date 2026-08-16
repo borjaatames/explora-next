@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
+  de: cordoba-in-einem-tag
 ---
 
 **Córdoba se ve bien en un día**, y por eso es la excursión clásica desde Sevilla, Madrid o Granada. El casco histórico es compacto y se recorre a pie: la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. Esta guía te ordena el día para no hacer colas ni pasar calor de más, y deja claro qué merece la pena y qué es relleno turístico.

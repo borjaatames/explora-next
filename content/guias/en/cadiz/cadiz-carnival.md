@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: carnaval-de-cadiz
   en: cadiz-carnival
+  de: karneval-von-cadiz
 ---
 
 **The Cádiz Carnival is one of the most famous in the world**, and a unique experience: an entire city in costume singing witty, biting, hilarious songs through its streets. It's not a carnival of floats and feathers, but of **wit and lyrics**: the people of Cádiz laugh at everything, above all at themselves. This guide explains when it is, how it works and how to enjoy it without dying in the attempt.

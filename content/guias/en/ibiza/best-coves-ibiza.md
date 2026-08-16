@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
+  de: schoenste-buchten-ibiza
 ---
 
 **Ibiza has some of the most beautiful coves in the Mediterranean**, of turquoise water and legendary sunsets. But also the usual summer problem: minimal parking and fashionable coves overflowing. This guide sorts them by area, tells you which have services and where to watch the best sunset, with the trick of going early to enjoy them.

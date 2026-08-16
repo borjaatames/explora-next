@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: sevilla-en-1-dia
   en: seville-in-1-day
+  de: sevilla-in-einem-tag
 ---
 
 Un día en Sevilla desde Madrid en AVE es **perfectamente factible** y, si lo planificas bien, te llevas una experiencia completa. Ida y vuelta el mismo día, 5-6 horas en la ciudad, los cuatro imprescindibles cubiertos. Pero el éxito está en **renunciar a verlo todo y elegir bien lo que sí**.

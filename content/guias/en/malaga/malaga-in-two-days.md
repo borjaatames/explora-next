@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
+  de: malaga-in-zwei-tagen
 ---
 
 **Two days in Málaga go a long way.** The old town is compact, flat and walkable, so a well-planned 48 hours cover the monuments, the museums, the beach and, if you organise it, the Caminito del Rey. This guide separates the essentials from the skippable and assumes you want to understand the city, not just sunbathe. In fifteen years Málaga has gone from being the transit gate to the Costa del Sol to a cultural capital with more than thirty museums, and it shows.

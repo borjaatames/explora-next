@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: catedral-de-santiago-como-visitar
   en: santiago-cathedral-how-to-visit
+  de: kathedrale-santiago-besichtigen
 ---
 
 **Santiago Cathedral is the goal of the Camino and the heart of the city**, but its visit confuses many people: is there a fee? what's the botafumeiro? can you go up on the roof? The short answer is that **entering the temple is free**, but there are paid experiences well worth it. This guide clarifies what to see, what to book and how to organise yourself.

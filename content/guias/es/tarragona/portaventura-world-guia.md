@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: portaventura-world-guia
   en: portaventura-world-guide
+  de: portaventura-world-guide
 ---
 
 **PortAventura World es uno de los mayores resorts de atracciones de Europa**, y el gran plan familiar de la Costa Daurada, a un paso de Tarragona. Pero es tan grande que conviene organizarse: saber qué parque elegir, cuántos días dedicar y cómo esquivar las colas marca la diferencia entre un día redondo y uno agotador. Esta guía te lo resuelve.

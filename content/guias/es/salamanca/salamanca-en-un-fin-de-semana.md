@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
+  de: salamanca-wochenendtrip
 ---
 
 Si **Salamanca en un día funciona como check-list rápido**, Salamanca en un fin de semana es otra cosa: te permite **vivir** la ciudad. Hacer los monumentos sin agobio, tapear bien al menos dos veces, ver la piedra dorada al atardecer y pisar la noche universitaria que es la mitad del alma de la ciudad.

@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: playas-cadiz-costa-de-la-luz
   en: cadiz-beaches-costa-de-la-luz
+  de: straende-costa-de-la-luz-cadiz
 ---
 
 **The Costa de la Luz has some of the best beaches in Spain:** wide, golden Atlantic stretches, clean water and, in many cases, kilometres with no buildings. This guide separates the city beaches of the capital from the great wild beaches of the province, and helps you choose by the day and, above all, by the **levante wind**, the factor that changes everything on this coast.

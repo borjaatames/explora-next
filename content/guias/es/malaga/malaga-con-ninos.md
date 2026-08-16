@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: malaga-con-ninos
   en: malaga-with-kids
+  de: malaga-mit-kindern
 ---
 
 **Málaga es un destino muy cómodo para viajar con niños.** Tiene clima suave casi todo el año, playa urbana a pie del centro, castillos para jugar a exploradores y, a un paso, algunos de los mejores planes familiares de la Costa del Sol. Esta guía reúne lo que de verdad funciona con peques, sin saturar el día de museos.

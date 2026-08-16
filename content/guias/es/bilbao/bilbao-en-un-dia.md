@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: bilbao-en-un-dia
   en: bilbao-in-one-day
+  de: bilbao-in-einem-tag
 ---
 
 **Bilbao se ve bien en un día**, con el **Guggenheim** como gran reclamo y un Casco Viejo de pintxos imbatible. La ciudad protagonizó una de las transformaciones urbanas más famosas del mundo —el "efecto Guggenheim"—, pasando de gris industrial a icono del diseño, y hoy se recorre a pie siguiendo la ría. Esta guía cubre lo esencial y separa lo que merece la pena de lo que es relleno.

@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
+  de: girona-in-einem-tag
 ---
 
 **Girona is easily seen in a day.** Its old town is compact and walkable, so a single day covers the cathedral, El Call, the colourful Oñar houses and a stroll along the top of the walls. It's the classic day trip from Barcelona —barely 38 minutes by high-speed train— but whoever stays for lunch and sunset over the river takes home a city, not a passing postcard.

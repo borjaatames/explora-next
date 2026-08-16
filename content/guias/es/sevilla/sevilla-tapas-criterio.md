@@ -21,6 +21,7 @@ keywords:
 slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
+  de: tapas-in-sevilla
 ---
 
 Sevilla tiene un problema que nadie te cuenta: hay tantos bares de tapas que es casi imposible elegir mal del todo, pero igual de difícil elegir realmente bien. La media es alta, sí, pero la diferencia entre comerte una pringá honesta hecha por la cuarta generación de la familia y una versión turistizada con foto plastificada en la puerta es brutal. Y lo segundo está más extendido de lo que la gente piensa, sobre todo en el cuadrante Catedral-Santa Cruz.

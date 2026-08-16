@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: pintxos-bilbao
   en: bilbao-pintxos
+  de: pintxos-in-bilbao
 ---
 
 **Eating pintxos in Bilbao is a ritual, not just a meal.** It's not about sitting in one place, but moving from bar to bar —the **txikiteo** or **poteo**— having a pintxo and a txikito (wine) or a zurito (small beer) in each. This guide tells you where to go, what to order and how to do it like a local, not a clueless tourist.

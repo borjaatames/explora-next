@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: mejores-calas-mallorca
   en: best-coves-mallorca
+  de: schoenste-buchten-mallorca
 ---
 
 **Mallorca tiene algunas de las calas más bonitas del Mediterráneo**, pero también el mayor problema de aparcamiento de España en verano. Esta guía las ordena por zonas, te dice cuáles tienen servicios y cuáles son vírgenes, y cómo llegar sin pelearte por un sitio. La clave: madrugar o ir fuera de temporada.

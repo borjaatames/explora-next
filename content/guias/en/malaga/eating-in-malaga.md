@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: comer-en-malaga
   en: eating-in-malaga
+  de: essen-in-malaga
 ---
 
 **You eat wonderfully and cheaply in Málaga if you know where.** It's seafaring, simple cooking, of beach bars and taverns, with exceptional seafood. The only trap is the tourist terraces opposite the Cathedral and on Calle Larios; two streets away, everything improves. This guide gives you the keys to eat like a local.

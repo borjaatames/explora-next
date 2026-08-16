@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: camino-de-santiago-ultimos-100-km
   en: camino-de-santiago-last-100-km
+  de: jakobsweg-letzte-100-km
 ---
 
 **Walking the last 100 km of the Camino is the most popular way to experience it** and to earn the Compostela without needing weeks. It's the minimum walking distance the Cathedral requires to issue the certificate, completed in about **5-7 days** within reach of almost anyone with basic preparation. This guide explains where to start, what the stages are like and what you need for the plan to go smoothly.

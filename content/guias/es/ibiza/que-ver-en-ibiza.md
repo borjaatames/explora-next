@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: que-ver-en-ibiza
   en: what-to-see-in-ibiza
+  de: was-sehen-in-ibiza
 ---
 
 **Ibiza es famosa por la fiesta, pero tiene mucho más.** Detrás de las discotecas hay un casco histórico Patrimonio de la Humanidad, calas de agua turquesa, atardeceres de leyenda y la vecina Formentera a media hora en barco. El error del visitante medio es no salir de Playa d'en Bossa o San Antonio y reducir la isla a una pista de baile. Esta guía cubre la otra cara —que es la mayoritaria— sin renunciar a la noche si vienes a ello.

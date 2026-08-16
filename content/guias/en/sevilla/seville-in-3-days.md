@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: sevilla-en-3-dias
   en: seville-in-3-days
+  de: sevilla-in-3-tagen
 ---
 
 Seville isn't a city to see: it's a city to **live**. The light at sunset on the Giralda, the tiles of Plaza de España, the river as you cross the Triana bridge, the shade of the orange trees in the historic center, the tilework on every wall. Three days are enough to soak in the essence, **as long as you know what to prioritize and what to skip**.

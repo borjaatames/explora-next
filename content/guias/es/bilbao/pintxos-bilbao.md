@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: pintxos-bilbao
   en: bilbao-pintxos
+  de: pintxos-in-bilbao
 ---
 
 **Comer pintxos en Bilbao es un ritual, no solo una comida.** No se trata de sentarse en un sitio, sino de ir de barra en barra —el **txikiteo** o **poteo**— tomando un pintxo y un txikito (vino) o un zurito (caña pequeña) en cada local. Esta guía te dice dónde ir, qué pedir y cómo hacerlo como un bilbaíno y no como un turista despistado.

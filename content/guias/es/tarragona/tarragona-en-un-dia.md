@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: tarragona-en-un-dia
   en: tarragona-in-one-day
+  de: tarragona-in-einem-tag
 ---
 
 **Tarragona se ve bien en un día.** Guarda el mayor conjunto romano de Cataluña —y uno de los más importantes de España, Patrimonio de la Humanidad—, todo en un casco antiguo compacto y asomado al Mediterráneo. Aquí estuvo **Tarraco**, capital de la Hispania romana, y la ciudad sigue construida literalmente sobre sus piedras. Esta guía cubre la Tarraco romana sin prisas, separa lo imprescindible del relleno y deja apuntada PortAventura para quien viaje en familia.

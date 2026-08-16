@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
+  de: schoenste-buchten-ibiza
 ---
 
 **Ibiza tiene algunas de las calas más bonitas del Mediterráneo**, de agua turquesa y atardeceres de leyenda. Pero también el problema de siempre en verano: aparcamiento mínimo y calas de moda a rebosar. Esta guía las ordena por zonas, te dice cuáles tienen servicios y dónde ver la mejor puesta de sol, con el truco de madrugar para disfrutarlas.

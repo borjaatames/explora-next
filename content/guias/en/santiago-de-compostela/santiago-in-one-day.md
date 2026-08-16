@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
+  de: santiago-in-einem-tag
 ---
 
 **Santiago is easily seen in a day**, though its atmosphere invites you to stay. The old town is compact, all stone and arcades, a UNESCO World Heritage Site, and everything revolves around the **cathedral**, the goal of the Camino. This guide covers the essentials of the Galician capital and makes clear why whoever stays overnight takes home far more than the passing tourist.

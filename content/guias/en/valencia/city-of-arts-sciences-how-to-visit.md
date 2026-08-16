@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: ciudad-artes-ciencias-como-visitar
   en: city-of-arts-sciences-how-to-visit
+  de: stadt-der-kuenste-und-wissenschaften-besichtigen
 ---
 
 **The City of Arts and Sciences is Valencia's modern icon**, but also the easiest trap: buying the combined ticket to everything and ending up exhausted without enjoying any of it. This complex by Santiago Calatrava and Félix Candela, raised in the old Turia riverbed, is best visited with criteria: knowing what's worth a ticket, what you enjoy from outside and how to combine it without queues or rushing.

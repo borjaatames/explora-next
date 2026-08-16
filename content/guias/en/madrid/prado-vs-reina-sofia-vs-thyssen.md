@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
+  de: prado-reina-sofia-thyssen-vergleich
 ---
 
 If you only have time for one museum in Madrid, **go to the Prado**. If you have time for two, add the Thyssen. The Reina Sofía comes last and only deserves your time if you genuinely care about 20th-century art.

@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: que-ver-en-mallorca
   en: what-to-see-in-mallorca
+  de: was-sehen-auf-mallorca
 ---
 
 **Mallorca is far more than sun and sand.** It blends a capital with one of the most impressive Gothic cathedrals in Europe, a World Heritage mountain range and some of the most beautiful coves in the Mediterranean. The average visitor's mistake is staying in a hotel on Palma bay or in Magaluf and never seeing the real island. This guide arranges it by area so you make the most of two or three days, or a whole week.

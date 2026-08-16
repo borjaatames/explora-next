@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
+  de: valencia-in-2-tagen
 ---
 
 **Valencia en dos días cunde, y mucho.** Es una ciudad llana, compacta y bien conectada, con el casco histórico a un lado y la Ciudad de las Artes al otro, unidos por un parque de nueve kilómetros donde antes había un río. En 48 horas bien organizadas ves lo esencial sin agobios: el casco antiguo, la arquitectura futurista de Calatrava, una paella de verdad en la Albufera y, si te queda hueco, playa. Esta guía está pensada para que vuelvas con la sensación de haber entendido Valencia, no solo de haberla fotografiado.

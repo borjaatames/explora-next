@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: granada-en-2-dias
   en: granada-in-2-days
+  de: granada-in-2-tagen
 ---
 
 **Two days in Granada is tight**. Not so few that you skip the trip, but not the three or four the city is asking for. If you only have 48 hours and want to leave having understood something of Granada — not just photographed it — this guide is built for that.

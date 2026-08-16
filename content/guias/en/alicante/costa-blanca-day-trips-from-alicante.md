@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: escapadas-costa-blanca-desde-alicante
   en: costa-blanca-day-trips-from-alicante
+  de: costa-blanca-ausfluege-ab-alicante
 ---
 
 **Alicante is the gateway to the whole Costa Blanca.** Within an hour you have white villages above the sea, postcard headlands, a mountain village perched over a turquoise reservoir and the largest palm grove in Europe. This guide sorts the best day trips by how much time you have and how to get there, with the bonus that many can be done by **TRAM** (tram) without a car.

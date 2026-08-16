@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: valencia-con-ninos
   en: valencia-with-kids
+  de: valencia-mit-kindern
 ---
 
 **Valencia is one of the best cities in Spain to travel with kids.** It's flat, safe, with an urban beach, a nine-kilometre park for cycling and two of the country's great family attractions: the **Oceanogràfic** (the largest aquarium in Europe) and the **Bioparc**. This guide lays out the plans that actually work with little ones, without forcing the adult itinerary or ending the day dragging everyone home.

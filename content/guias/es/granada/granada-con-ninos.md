@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: granada-con-ninos
   en: granada-with-kids
+  de: granada-mit-kindern
 ---
 
 Granada con niños puede ser una experiencia magnífica o un desastre, y la diferencia depende casi por completo del plan. Si lo planteas como Granada-versión-adultos-con-niños-detrás (Alhambra cuatro horas, Sacromonte hasta tarde, Albaicín a pleno sol del mediodía), los niños se queman, los padres se queman y la ciudad pasa de ser un descubrimiento a una pelea constante. Pero si entiendes que **Granada tiene tres o cuatro joyas reales para familias** — que la mayoría de padres ni saben que existen — el viaje cambia.

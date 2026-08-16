@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
+  de: caminito-del-rey-besichtigen
 ---
 
 **El Caminito del Rey es la excursión de naturaleza más vendida de Andalucía**, y con razón: una pasarela colgada en las paredes verticales del desfiladero de los Gaitanes, a más de 100 metros sobre el río, en un paisaje espectacular. Pero es también la visita que más gente se queda sin hacer por un motivo evitable: **no reservar la entrada a tiempo**. Esta guía te explica cómo organizarlo todo para no fallar.

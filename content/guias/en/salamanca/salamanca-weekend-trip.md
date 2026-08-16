@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
+  de: salamanca-wochenendtrip
 ---
 
 If **Salamanca in a day works as a quick checklist**, Salamanca over a weekend is something else: it lets you **live** the city. Hit the monuments without the rush, eat tapas well at least twice, see the golden stone at sunset, and step into the university nightlife that's half the city's soul.

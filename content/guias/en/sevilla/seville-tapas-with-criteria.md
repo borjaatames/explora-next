@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
+  de: tapas-in-sevilla
 ---
 
 Seville has a problem nobody warns you about: there are so many tapas bars that it's almost impossible to choose entirely badly, but just as hard to choose really well. The average is high, true, but the gap between an honest pringá made by the fourth generation of the family and a touristified version with a plasticized photo on the door is enormous. And the second one is more widespread than people think, especially in the Cathedral–Santa Cruz quadrant.

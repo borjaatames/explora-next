@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: bilbao-con-ninos
   en: bilbao-with-kids
+  de: bilbao-mit-kindern
 ---
 
 **Bilbao es una ciudad muy cómoda con niños.** Es compacta, llana junto a la ría, con un metro y un tranvía facilísimos, parques, un funicular con vistas y playas a 20 minutos sin coche. Esta guía reúne los planes que de verdad funcionan en familia, combinando ciudad y costa sin agobios.

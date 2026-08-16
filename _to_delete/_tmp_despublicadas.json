@@ -1,0 +1,634 @@
+{
+  "es": [
+    {
+      "ciudad": "barcelona",
+      "slug": "camp-nou-museo-fecha-flexible-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "casa-batllo-tour-guia-experto-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "casa-mila-entrada-audioguia-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-bodega-tapas-y-cremallera"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-bodega-y-tapas-castlexperience"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-grupo-pequeno-recogida-hotel"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-teleferico-y-caminata-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-virgen-negra-y-bodega-medieval"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "park-guell-express-sin-colas-con-transporte-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "park-guell-tour-guiado-multilingue-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "park-guell-tour-sin-colas-viator-golden"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-fast-track-con-torre"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-tour-express"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-tour-gaudi-privado"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-tour-guiado-viator"
+    },
+    {
+      "ciudad": "cordoba",
+      "slug": "juderia-mezquita-catedral-entradas"
+    },
+    {
+      "ciudad": "cordoba",
+      "slug": "medina-azahara-visita-guiada"
+    },
+    {
+      "ciudad": "cordoba",
+      "slug": "mezquita-catedral-entradas-prioritarias"
+    },
+    {
+      "ciudad": "girona",
+      "slug": "girona-costa-brava-grupo-pequeno"
+    },
+    {
+      "ciudad": "girona",
+      "slug": "girona-tour-audioguiado"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "albaicin-sacromonte-tesoro-oculto"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-generalife-grupo-pequeno"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-privada-grupo-pequeno"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-tour-privado-guia-arabe"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-visita-guiada-ticket-garantizado"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alpujarras-viator-con-almuerzo"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "cordoba-mezquita-desde-granada"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "ebike-sierra-nevada-aldeas"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "ebike-tapas-granada"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "granada-food-tour-small-group"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "granada-tapas-noche"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "nerja-costa-tropical-desde-granada"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "nerja-frigiliana-sin-colas"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "sierra-nevada-raquetas-senderismo"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "tapas-tour-3h-albayzin"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "10-tapas-cooking-class-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "bernabeu-guided-museum-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "essential-flamenco-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-avila-segovia-dia-completo"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-escorial-valle-caidos"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-segovia-catedral-alcazar"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-ave-tren"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-dia-completo"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-medio-dia"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-molinos-quijote"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-segovia-alcazar"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-segovia-almuerzo"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-segovia-avila"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-tour-privado"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-tu-aire"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "excursion-toledo-vinos-tapas"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "flamenco-las-carboneras-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "iberian-ham-wine-tasting-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "las-ventas-plaza-toros-audioguia"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-bici-ebike-retiro-letras-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-city-tour-bernabeu-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-ebike-sunset-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-tour-inquisicion-fantasmas-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "paella-sangria-classes-private-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "palacio-real-monolingual-fast-track-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "palacio-real-skip-line-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "prado-palacio-real"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "prado-tour-privado"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "reina-sofia-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "segway-retiro-park-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tablao-la-carmela-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tour-gastronomico-tapas-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tour-prado"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tour-tapas-cena-privada-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tour-tapas-centro-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tour-tapas-tabernas-azotea-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tour-tapas-vinos-barrio-letras"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "walking-tour-austrias-privado-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "wanda-metropolitano-entrada-viator"
+    },
+    {
+      "ciudad": "malaga",
+      "slug": "caminito-del-rey-desde-malaga"
+    },
+    {
+      "ciudad": "malaga",
+      "slug": "museo-picasso-malaga-visita-guiada"
+    },
+    {
+      "ciudad": "malaga",
+      "slug": "tour-alcazaba-y-centro-malaga"
+    },
+    {
+      "ciudad": "valencia",
+      "slug": "clase-cocina-paella-mercado-ruzafa"
+    },
+    {
+      "ciudad": "valencia",
+      "slug": "tour-bici-valencia"
+    }
+  ],
+  "en": [
+    {
+      "ciudad": "barcelona",
+      "slug": "camp-nou-museum-open-date-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "casa-batllo-expert-guide-tour-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "casa-mila-audio-admission-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "gaudi-and-sagrada-familia-private-tour"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-black-madonna-and-medieval-winery"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-cable-car-and-easy-hike-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-rack-railway-winery-and-tapas"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-small-group-hotel-pickup"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "montserrat-winery-and-tapas-castlexperience"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "park-guell-express-skip-line-with-transport-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "park-guell-multilingual-guided-tour-viator"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "park-guell-skip-line-tour-viator-golden"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-express-guided-tour"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-fast-track-guided-tour"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-fast-track-tower-tour"
+    },
+    {
+      "ciudad": "barcelona",
+      "slug": "sagrada-familia-guided-tour-with-entry"
+    },
+    {
+      "ciudad": "cordoba",
+      "slug": "jewish-quarter-mosque-cathedral-tour"
+    },
+    {
+      "ciudad": "cordoba",
+      "slug": "medina-azahara-guided-tour"
+    },
+    {
+      "ciudad": "cordoba",
+      "slug": "mosque-cathedral-priority-tickets-tour"
+    },
+    {
+      "ciudad": "girona",
+      "slug": "girona-costa-brava-small-group-tour"
+    },
+    {
+      "ciudad": "girona",
+      "slug": "girona-self-guided-audio-tour"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "albaicin-sacromonte-hidden-treasure-tour"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-generalife-small-group-tour"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-guided-tour-guaranteed-tickets"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-private-small-group-tour"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alhambra-private-tour-arabic-guide"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "alpujarras-day-trip-with-lunch"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "cordoba-mosque-day-trip-from-granada"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "ebike-sierra-nevada-villages"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "ebike-tapas-tour-granada"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "granada-evening-tapas-tour"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "granada-small-group-food-tour-tapas-wine"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "nerja-costa-tropical-day-trip-from-granada"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "nerja-frigiliana-skip-line-day-trip"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "sierra-nevada-hiking-snowshoeing"
+    },
+    {
+      "ciudad": "granada",
+      "slug": "tapas-tour-3h-albayzin"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "10-tapas-cooking-class-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "avila-segovia-full-day-trip"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "bernabeu-guided-museum-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "el-escorial-valley-fallen-day-trip"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "essential-flamenco-admission-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "flamenco-las-carboneras-tapa-drink-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "iberian-ham-wine-tasting-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "las-ventas-bullring-audio-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-city-tour-bernabeu-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-ebike-sunset-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-los-austrias-private-walking-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-secret-food-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-tapas-and-wine-tour-with-local-guide"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-tapas-walking-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "madrid-wine-and-tapas-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "prado-and-royal-palace"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "prado-private-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "prado-tour"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "private-paella-sangria-cooking-class-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "reina-sofia-museum-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "retiro-park-literary-quarter-ebike-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "retiro-park-segway-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "royal-palace-monolingual-fast-track-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "royal-palace-skip-line-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "segovia-cathedral-alcazar-day-trip"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "spanish-inquisition-ghost-stories-tour-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "tablao-la-carmela-flamenco-show-viator"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-and-don-quixote-windmills-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-and-segovia-with-alcazar-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-and-segovia-with-lunch-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-by-high-speed-train-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-full-day-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-half-day-trip-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-private-tour-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-segovia-avila-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "toledo-with-winery-and-wine-tasting-from-madrid"
+    },
+    {
+      "ciudad": "madrid",
+      "slug": "wanda-metropolitano-entrance-ticket-viator"
+    },
+    {
+      "ciudad": "malaga",
+      "slug": "caminito-del-rey-day-trip-from-malaga"
+    },
+    {
+      "ciudad": "malaga",
+      "slug": "malaga-city-tour-alcazaba"
+    },
+    {
+      "ciudad": "malaga",
+      "slug": "picasso-museum-malaga-guided-tour"
+    },
+    {
+      "ciudad": "valencia",
+      "slug": "paella-cooking-class-ruzafa-market"
+    },
+    {
+      "ciudad": "valencia",
+      "slug": "valencia-bike-tour"
+    }
+  ]
+}

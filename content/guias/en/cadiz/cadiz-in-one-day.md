@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: cadiz-en-un-dia
   en: cadiz-in-one-day
+  de: cadiz-in-einem-tag
 ---
 
 **Cádiz is easily seen in a day.** Almost surrounded by sea on a narrow peninsula, its old town is compact and walked from square to square, with the Atlantic forever peeking at the end of the streets. This guide covers the essentials of the oldest city in the West —founded by the Phoenicians more than three thousand years ago— without rushing, and makes clear what's worth your time and what's filler.

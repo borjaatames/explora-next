@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
+  de: formentera-ab-ibiza
 ---
 
 **Formentera is the essential excursion from Ibiza.** Half an hour by ferry, the neighbouring island has some of the most crystal-clear beaches in the Mediterranean —genuinely Caribbean— and a calm atmosphere, with no clubs or big hotels. This guide explains how to get there, how to get around and what not to miss to make the most of the day.

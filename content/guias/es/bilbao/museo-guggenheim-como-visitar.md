@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: museo-guggenheim-como-visitar
   en: guggenheim-museum-how-to-visit
+  de: guggenheim-museum-besichtigen
 ---
 
 **El Guggenheim no es solo un museo: es el edificio que cambió Bilbao.** La obra de titanio de Frank Gehry, inaugurada en 1997, transformó una ciudad industrial en un icono mundial del diseño —el famoso "efecto Guggenheim"—. Por eso la visita tiene dos partes que conviene no confundir: **el edificio y sus esculturas (gratis, por fuera)** y **las salas (de pago, por dentro)**. Esta guía te ayuda a aprovechar las dos.

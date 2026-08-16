@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
+  de: costa-brava-ausfluege-ab-girona
 ---
 
 **Girona is the best base for discovering north-east Catalonia.** Within an hour you have the prettiest coves on the Costa Brava, the world of Dalí in Figueres and Cadaqués, fairytale medieval villages and Greco-Roman ruins. This guide sorts the best day trips by how much time you have and how to get there, by train or car.

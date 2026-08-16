@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
+  de: mallorca-mit-kindern
 ---
 
 **Mallorca is a first-rate family destination.** It has shallow-water beaches perfect for little ones, a century-old wooden train, aquariums, caves with a lake and water parks, all at short distances. The key is choosing the right **base** for the kids' ages and not trying to cover the whole island. This guide gathers the plans that really work with family.

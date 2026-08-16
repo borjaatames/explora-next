@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: salamanca-en-1-dia
   en: salamanca-in-1-day
+  de: salamanca-in-einem-tag
 ---
 
 Salamanca es de las pocas ciudades históricas españolas que **funciona en un día**. El casco antiguo es compacto, los grandes monumentos están a menos de 10 minutos andando entre ellos y el ritmo de visita es directo: Plaza Mayor, Universidad, las dos catedrales, Clerecía y vuelta. Pero ojo: si la corres como check-list, te pierdes lo que la hace especial. El ambiente.

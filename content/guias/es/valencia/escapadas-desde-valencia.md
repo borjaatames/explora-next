@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: escapadas-desde-valencia
   en: day-trips-from-valencia
+  de: ausfluege-ab-valencia
 ---
 
 **Valencia es una base estupenda para escapadas de un día.** En menos de una hora tienes el parque natural donde nació la paella, castillos espectaculares, ciudades íberas y romanas y pueblos de la Costa del Azahar. Esta guía ordena las mejores salidas según el tiempo que tengas y cómo llegar, con o sin coche.

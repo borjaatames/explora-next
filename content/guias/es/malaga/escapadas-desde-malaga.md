@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: escapadas-desde-malaga
   en: day-trips-from-malaga
+  de: ausfluege-ab-malaga
 ---
 
 **Málaga es la mejor base de la Costa del Sol para escapadas.** En menos de hora y media tienes pueblos blancos colgados de barrancos, cuevas y playas, paisajes lunares y hasta el Peñón de Gibraltar. Esta guía ordena las mejores salidas de un día según el tiempo que tengas y cómo llegar, con o sin coche.

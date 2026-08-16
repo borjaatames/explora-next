@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: comer-en-mallorca
   en: eating-in-mallorca
+  de: essen-auf-mallorca
 ---
 
 **La cocina mallorquina es de payés y de mar, contundente y muy buena**, pero en las zonas turísticas de la bahía abundan las cartas internacionales de paella congelada y pizza. Para comer mallorquín de verdad hay que ir tierra adentro, a los **cellers** y restaurantes de pueblo. Esta guía te da las claves y los platos que no te puedes perder.

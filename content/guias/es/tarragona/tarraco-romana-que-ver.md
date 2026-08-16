@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: tarraco-romana-que-ver
   en: roman-tarraco-guide
+  de: roemisches-tarraco
 ---
 
 **Tarragona guarda el mayor conjunto romano de Cataluña**, y uno de los más importantes de España: el legado de **Tarraco**, capital de la Hispania Citerior y Patrimonio de la Humanidad. Lo extraordinario es que está repartido por todo el casco antiguo —el anfiteatro a pie de playa, el circo bajo las calles, la catedral sobre un templo— y se recorre a pie. Esta guía te dice qué ver, en qué orden y cómo no pagar de más con la entrada conjunta.

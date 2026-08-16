@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
+  de: alcazar-von-sevilla-besichtigen
 ---
 
 El Real Alcázar de Sevilla es **el palacio en uso más antiguo de Europa**. Sus orígenes se remontan al siglo X, y todavía hoy es residencia oficial de los Reyes de España cuando visitan la ciudad. Pero más allá del titular, lo que lo hace excepcional es lo que pocos monumentos pueden ofrecer: **mil años de capas históricas en el mismo recinto**, desde restos almohades del siglo XII hasta jardines ingleses del XIX, pasando por el palacio mudéjar más espectacular conservado en España.

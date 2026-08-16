@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: isla-de-tabarca-como-visitar
   en: tabarca-island-how-to-visit
+  de: isla-de-tabarca-besichtigen
 ---
 
 **Tabarca is the excursion that sets Alicante apart.** The smallest inhabited island in Spain is also a **marine reserve** (the country's first), with crystal-clear water for snorkelling, an 18th-century walled town and rice dishes by the sea. This guide explains how to get there, what to do and how to organise the day to make the most of it.

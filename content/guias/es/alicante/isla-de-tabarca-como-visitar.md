@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: isla-de-tabarca-como-visitar
   en: tabarca-island-how-to-visit
+  de: isla-de-tabarca-besichtigen
 ---
 
 **Tabarca es la excursión que hace distinta a Alicante.** La isla habitada más pequeña de España es además **reserva marina** (la primera del país), con aguas cristalinas para snorkel, un pueblo amurallado del siglo XVIII y arroces frente al mar. Esta guía te explica cómo llegar, qué hacer y cómo organizar el día para aprovecharla.

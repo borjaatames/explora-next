@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
+  de: girona-game-of-thrones
 ---
 
 **Girona se convirtió en plató de Juego de Tronos** en su sexta temporada (2016), y su casco antiguo medieval encaja tan bien que reconocerás los escenarios al instante. La ciudad hizo de **Braavos** y de **Desembarco del Rey**, y hoy es una de las paradas favoritas de los fans de la serie. Esta guía reúne los escenarios reales, cómo enlazarlos a pie y qué tener en cuenta.

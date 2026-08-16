@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: que-ver-en-alicante
   en: what-to-see-in-alicante
+  de: was-sehen-in-alicante
 ---
 
 **Alicante se ve bien en uno o dos días** y es la mejor base de la Costa Blanca. Tiene sol más de 300 días al año, un castillo espectacular asomado al mar, un casco antiguo de callejuelas blancas y playa a un paso del centro. Esta guía cubre lo esencial de la ciudad y las escapadas de alrededor, y separa lo que merece la pena de lo que es pura postal de paquete turístico.

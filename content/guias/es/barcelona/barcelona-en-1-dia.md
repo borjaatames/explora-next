@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: barcelona-en-1-dia
   en: barcelona-in-1-day
+  de: barcelona-in-einem-tag
 ---
 
 Barcelona en un día desde Madrid es **factible, pero requiere disciplina**. La ciudad es más extensa que Sevilla, los grandes monumentos están separados (Sagrada Familia, Park Güell y Barrio Gótico no se andan tan fácil entre sí), y casi todo lo importante necesita **entrada online reservada con días de antelación**. Pero si planificas bien, en 9-10 horas haces los imprescindibles y vuelves a Madrid con la sensación de haberlo aprovechado.

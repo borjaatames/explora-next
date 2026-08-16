@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: comer-en-valencia-paella
   en: eating-in-valencia-paella
+  de: paella-in-valencia
 ---
 
 **En Valencia se come muy bien, pero también es fácil comer mal.** La ciudad inventó la paella y vive rodeada de huerta y mar, así que el listón es altísimo; el problema son las trampas turísticas frente a los monumentos. Esta guía te da las reglas para comer un arroz de verdad y no caer en la paella recalentada de la Plaza de la Reina.

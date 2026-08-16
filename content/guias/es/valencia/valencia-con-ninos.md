@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: valencia-con-ninos
   en: valencia-with-kids
+  de: valencia-mit-kindern
 ---
 
 **Valencia es de las mejores ciudades de España para viajar con niños.** Es llana, segura, con playa urbana, un parque de nueve kilómetros para ir en bici y dos de los grandes atractivos familiares del país: el **Oceanogràfic** (el mayor acuario de Europa) y el **Bioparc**. Esta guía ordena los planes que de verdad funcionan con peques, sin forzar el itinerario adulto ni acabar el día a rastras.

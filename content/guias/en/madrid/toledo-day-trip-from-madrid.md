@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
+  de: tagesausflug-toledo-ab-madrid
 ---
 
 70 km from Madrid sits an intact medieval city. It isn't a recreation, isn't a theme park, isn't a postcard: it's **Toledo**, the only European city where Jews, Muslims and Christians coexisted for centuries, each leaving their mark in stone. And you can see it in a day.

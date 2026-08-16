@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
+  de: sagrada-familia-besichtigen
 ---
 
 La Sagrada Familia es **el monumento más visitado de Barcelona** — unos 4,5 millones de personas al año — y, como pasa con todos los monumentos así, la mayoría de visitantes salen con la sensación de haber visto algo importante sin haberlo entendido del todo. Es una pena, porque pocos edificios del mundo recompensan tanto ir bien preparado: las vidrieras orientadas a propósito, los símbolos en cada columna, las matemáticas detrás de la geometría, las decisiones que Gaudí dejó por escrito antes de morir y las que están haciendo sus arquitectos sucesores ahora mismo.

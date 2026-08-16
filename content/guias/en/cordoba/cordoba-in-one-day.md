@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
+  de: cordoba-in-einem-tag
 ---
 
 **Córdoba is easily seen in a day**, which is why it's the classic day trip from Seville, Madrid or Granada. The old town is compact and walkable: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from one another. This guide orders your day so you skip the queues and the worst of the heat, and it makes clear what's worth your time and what's tourist filler.

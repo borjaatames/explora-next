@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: comer-en-malaga
   en: eating-in-malaga
+  de: essen-in-malaga
 ---
 
 **En Málaga se come de maravilla y barato si sabes dónde.** Es cocina marinera y sencilla, de chiringuito y de taberna, con un producto del mar excepcional. La única trampa son las terrazas turísticas frente a la Catedral y en calle Larios; dos calles más allá, todo mejora. Esta guía te da las claves para comer como un malagueño.

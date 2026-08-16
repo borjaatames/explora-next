@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
+  de: santiago-in-einem-tag
 ---
 
 **Santiago se ve bien en un día**, aunque su ambiente invita a quedarse. El casco histórico es compacto, de piedra y soportales, declarado Patrimonio de la Humanidad, y todo gira en torno a la **catedral**, meta del Camino. Esta guía cubre lo esencial de la capital gallega y deja claro por qué quien hace noche se lleva mucho más que el turista de paso.

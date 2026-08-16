@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
+  de: girona-game-of-thrones
 ---
 
 **Girona became a Game of Thrones set** in its sixth season (2016), and its medieval old town fits so well that you'll recognise the locations instantly. The city played **Braavos** and **King's Landing**, and today it's a favourite stop for fans of the show. This guide gathers the real locations, how to link them on foot and what to bear in mind.

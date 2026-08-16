@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: cadiz-en-un-dia
   en: cadiz-in-one-day
+  de: cadiz-in-einem-tag
 ---
 
 **Cádiz se ve bien en un día.** Está casi rodeada de mar en una península estrecha, así que el casco antiguo es compacto y se recorre a pie de plaza en plaza, con el Atlántico siempre asomando al fondo de las calles. Esta guía cubre lo esencial de la ciudad más antigua de Occidente —fundada por los fenicios hace más de tres mil años— sin prisas, y deja claro qué merece la pena y qué es relleno.

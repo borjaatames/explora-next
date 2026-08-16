@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: comer-en-mallorca
   en: eating-in-mallorca
+  de: essen-auf-mallorca
 ---
 
 **Mallorcan cooking is country and sea, hearty and very good**, but the tourist zones of the bay are full of international menus of frozen paella and pizza. To eat genuine Mallorcan food you have to head inland, to the **cellers** and village restaurants. This guide gives you the keys and the dishes you can't miss.

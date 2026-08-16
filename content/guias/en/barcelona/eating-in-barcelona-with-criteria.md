@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: comer-en-barcelona-criterio
   en: eating-in-barcelona-with-criteria
+  de: essen-in-barcelona
 ---
 
 Eating badly in Barcelona is **easy**. Three decades of mass tourism have filled the city with traps: restaurants with plasticized menus in six languages, mediocre paellas at €25, and "mixed tapas" that don't exist in local culture. The real city, the one Barcelonans eat in, **is right next door** — but you have to know where to look.

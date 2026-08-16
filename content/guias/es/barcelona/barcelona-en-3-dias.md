@@ -21,6 +21,7 @@ keywords:
 slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
+  de: barcelona-in-3-tagen
 ---
 
 Barcelona es la ciudad española con más turismo del año y la prueba más clara de que el turismo masivo puede llegar a estropear lo que viene a ver. Esto no es fatalismo: es contexto. Si vas a Barcelona y haces lo que hacen todos — Ramblas a las once, Sagrada Familia sin reserva, Park Güell sin entender que la zona buena es de pago, comer paella en la Barceloneta — vas a salir con la sensación de haber estado en un parque temático. Y la culpa no es de Barcelona, es del plan.

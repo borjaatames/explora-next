@@ -19,6 +19,7 @@ keywords:
 slugs:
   es: madrid-con-ninos
   en: madrid-with-kids
+  de: madrid-mit-kindern
 ---
 
 Madrid is one of the European capitals that works best as a family destination. It has open-air parks across the city, real wildlife 20 minutes from the center, museums that surprise kids (some more than the Prado surprises their parents), and summer plans you don't easily find in other capitals.

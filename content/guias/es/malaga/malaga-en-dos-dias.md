@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
+  de: malaga-in-zwei-tagen
 ---
 
 **Málaga en dos días cunde mucho.** El casco histórico es compacto, llano y se ve a pie, así que en 48 horas bien repartidas entran los monumentos, los museos, la playa y, si te organizas, el Caminito del Rey. Esta guía separa lo imprescindible de lo prescindible y asume que vienes a entender la ciudad, no solo a tomar el sol. Málaga ha pasado en quince años de ser la puerta de paso de la Costa del Sol a una capital cultural con más de treinta museos, y se nota.

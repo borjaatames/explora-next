@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: bilbao-con-ninos
   en: bilbao-with-kids
+  de: bilbao-mit-kindern
 ---
 
 **Bilbao is a very comfortable city with kids.** It's compact, flat along the river, with an easy metro and tram, parks, a funicular with views and beaches 20 minutes away without a car. This guide gathers the plans that really work with family, combining city and coast without stress.
