@@ -14,7 +14,8 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
-const LAST_UPDATED = "April 24, 2026";
+const LAST_UPDATED_EN = "April 24, 2026";
+const LAST_UPDATED_DE = "24. April 2026";
 
 export function generateStaticParams(): Array<{ lang: Idioma }> {
   return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
@@ -36,10 +37,20 @@ export async function generateMetadata({
   const canonicalUrl = `${siteUrl}${urlCookies(lang)}`;
   const languages = hreflangAlternates((l) => urlCookies(l));
 
+  const titulo =
+    lang === "de" ? "Cookie-Richtlinie | ExploraSpain" : "Cookie Policy | ExploraSpain";
+  const descripcion =
+    lang === "de"
+      ? "Informationen über die Verwendung von Cookies auf ExploraSpain, die verwendeten Cookie-Typen und wie du sie verwalten kannst."
+      : "Information about the use of cookies on ExploraSpain, the types of cookies used, and how to manage them.";
+  const ogDescripcion =
+    lang === "de"
+      ? "Auf ExploraSpain verwendete Cookies und wie du sie verwaltest."
+      : "Cookies used on ExploraSpain and how to manage them.";
+
   return {
-    title: "Cookie Policy | ExploraSpain",
-    description:
-      "Information about the use of cookies on ExploraSpain, the types of cookies used, and how to manage them.",
+    title: titulo,
+    description: descripcion,
     alternates: {
       canonical: canonicalUrl,
       languages,
@@ -54,9 +65,8 @@ export async function generateMetadata({
       locale: IDIOMA_LOCALE[lang],
       url: canonicalUrl,
       siteName: "ExploraSpain",
-      title: "Cookie Policy | ExploraSpain",
-      description:
-        "Cookies used on ExploraSpain and how to manage them.",
+      title: titulo,
+      description: ogDescripcion,
     },
   };
 }
@@ -70,6 +80,7 @@ export default function CookiesPage({
   if (!esIdiomaActivo(lang) || lang === "es") {
     notFound();
   }
+  const esAleman = lang === "de";
 
   const siteUrl =
     process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -80,15 +91,275 @@ export default function CookiesPage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: esAleman ? "Startseite" : "Home",
+        item: homeUrl,
+      },
       {
         "@type": "ListItem",
         position: 2,
-        name: "Cookie Policy",
+        name: esAleman ? "Cookie-Richtlinie" : "Cookie Policy",
         item: pageUrl,
       },
     ],
   };
+
+  if (esAleman) {
+    return (
+      <main className="min-h-screen bg-white">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
+
+        <section className="bg-sky-500 text-white py-12 md:py-16">
+          <div className="max-w-3xl mx-auto px-4">
+            <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+              Cookie-Richtlinie
+            </h1>
+            <p className="text-sky-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
+          </div>
+        </section>
+
+        <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
+          <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+            <h2>1. Was Cookies sind</h2>
+            <p>
+              Ein Cookie ist eine kleine Textdatei, die eine Website beim
+              Besuch in deinem Browser speichert. Cookies ermöglichen es der
+              Website, Informationen über deinen Besuch zu speichern, etwa
+              deine bevorzugte Sprache oder Nutzungsdaten, was die
+              Nutzererfahrung verbessern und dem Betreiber helfen kann, zu
+              verstehen, wie die Website genutzt wird.
+            </p>
+            <p>
+              Diese Richtlinie erklärt, welche Cookies{" "}
+              <strong>exploraspain.com</strong> verwendet, zu welchem Zweck
+              und wie du sie verwalten kannst, gemäß Artikel 22.2 des
+              spanischen Gesetzes 34/2002 (LSSI-CE) und dem Cookie-Leitfaden
+              der{" "}
+              <a
+                href="https://www.aepd.es"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                spanischen Datenschutzbehörde (AEPD)
+              </a>
+              .
+            </p>
+
+            <h2>2. Cookie-Arten nach Zweck</h2>
+            <ul>
+              <li>
+                <strong>Technische Cookies (unbedingt erforderlich)</strong>:
+                ermöglichen grundlegende Funktionen der Website (Navigation,
+                Zugriff auf Bereiche, Sicherheit). Erfordern keine
+                Einwilligung.
+              </li>
+              <li>
+                <strong>Analyse- oder Messungs-Cookies</strong>: ermöglichen
+                die aggregierte Analyse des Nutzerverhaltens (besuchte
+                Seiten, Verweildauer usw.), um die Website zu verbessern.
+                Erfordern Einwilligung.
+              </li>
+              <li>
+                <strong>Cookies für verhaltensbasierte Werbung</strong>:
+                ermöglichen die Anzeige personalisierter Werbung basierend
+                auf dem Nutzerprofil. Erfordern Einwilligung. Aktuell{" "}
+                <strong>
+                  verwendet diese Website keine Cookies für
+                  verhaltensbasierte Werbung
+                </strong>
+                .
+              </li>
+            </ul>
+
+            <h2>3. Auf dieser Website verwendete Cookies</h2>
+            <p>
+              Die aktuell von dieser Website verwendeten Cookies sind unten
+              aufgeführt:
+            </p>
+
+            <div className="not-prose my-8 overflow-x-auto">
+              <table className="w-full text-sm border border-slate-200 rounded-lg overflow-hidden">
+                <thead className="bg-slate-50">
+                  <tr>
+                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                      Cookie
+                    </th>
+                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                      Typ
+                    </th>
+                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                      Zweck
+                    </th>
+                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                      Dauer
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr className="border-b border-slate-100">
+                    <td className="p-3 font-mono text-xs">__vercel_live_token</td>
+                    <td className="p-3">Technisch</td>
+                    <td className="p-3">
+                      Verwaltung von Deployment und Betrieb der Website
+                      (Vercel).
+                    </td>
+                    <td className="p-3">Sitzung</td>
+                  </tr>
+                  <tr>
+                    <td className="p-3 font-mono text-xs">
+                      exploraspain_cookie_consent
+                    </td>
+                    <td className="p-3">Technisch</td>
+                    <td className="p-3">
+                      Speichert deine Entscheidung zur Cookie-Nutzung auf
+                      dieser Website.
+                    </td>
+                    <td className="p-3">12 Monate</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <p className="text-sm text-slate-600 italic">
+              Diese Tabelle wird aktualisiert, sobald weitere Analyse- oder
+              Messtools hinzugefügt werden. Sobald Google Analytics 4
+              aktiviert wird, werden die entsprechenden Cookies (_ga,
+              _ga_*) hinzugefügt und vor der Aktivierung wird eine
+              vorherige Einwilligung eingeholt.
+            </p>
+
+            <h2>4. Cookies Dritter bei ausgehenden Links</h2>
+            <p>
+              Die Website enthält Links zu externen Plattformen (Viator,
+              GetYourGuide oder andere). Wenn du auf diese Links klickst,
+              wirst du zu deren Websites weitergeleitet, die eigene
+              Cookies verwenden und ihre eigenen Datenschutz- und
+              Cookie-Richtlinien anwenden. Der Betreiber dieser Website hat
+              keine Kontrolle über die Cookie-Nutzung dieser Plattformen auf
+              ihren eigenen Domains und übernimmt hierfür keine
+              Verantwortung.
+            </p>
+
+            <h2>5. Wie du Cookies verwaltest</h2>
+            <p>
+              Du kannst die Verwendung von Cookies auf dieser Website über
+              das Einwilligungsbanner, das bei deinem ersten Besuch
+              erscheint, akzeptieren, ablehnen oder anpassen. Du kannst
+              deine Entscheidung jederzeit ändern.
+            </p>
+            <p>
+              Du kannst außerdem deinen Browser so konfigurieren, dass er
+              Cookies akzeptiert, ablehnt oder löscht. Anleitungen für
+              deinen Browser:
+            </p>
+            <ul>
+              <li>
+                <a
+                  href="https://support.google.com/chrome/answer/95647?hl=de"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Google Chrome
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://support.mozilla.org/de/kb/verbesserter-schutz-vor-aktivitatenverfolgung-firefox-desktop"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Mozilla Firefox
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://support.apple.com/de-de/guide/safari/sfri11471/mac"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Safari
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://support.microsoft.com/de-de/microsoft-edge"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Microsoft Edge
+                </a>
+              </li>
+            </ul>
+            <p>
+              Bitte beachte, dass das Deaktivieren bestimmter Cookies die
+              Funktionalität der Website beeinträchtigen kann.
+            </p>
+
+            <h2>6. Aktualisierungen dieser Richtlinie</h2>
+            <p>
+              Diese Cookie-Richtlinie kann aktualisiert werden, wenn sich
+              die verwendeten Cookies oder die geltenden Vorschriften
+              ändern. Es gilt stets die auf dieser Seite veröffentlichte
+              Fassung, mit dem oben angegebenen Datum der letzten
+              Aktualisierung.
+            </p>
+
+            <h2>7. Weitere Informationen</h2>
+            <p>
+              Bei Fragen zu dieser Cookie-Richtlinie schreib uns an{" "}
+              <a href="mailto:contacto@exploraspain.com">
+                contacto@exploraspain.com
+              </a>{" "}
+              oder über die <Link href="/contacto">Kontaktseite</Link>.
+            </p>
+            <p>
+              Weitere Informationen darüber, wie deine personenbezogenen
+              Daten verarbeitet werden, findest du in der{" "}
+              <Link href={`/${lang}/privacy`}>Datenschutzerklärung</Link>.
+            </p>
+          </div>
+
+          <aside
+            className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+            aria-label="Hinweis zur Sprachversion"
+          >
+            <p className="font-semibold text-slate-900 mb-2">
+              Hinweis zur Sprachversion
+            </p>
+            <p>
+              Diese deutsche Fassung dient ausschließlich der Orientierung
+              für nicht spanischsprachige Nutzer. Rechtsverbindlich ist
+              allein die spanische Originalfassung dieses Dokuments. Bei
+              Abweichungen oder Widersprüchen zwischen den Fassungen hat die
+              spanische Version Vorrang. Die spanische Originalfassung ist
+              verfügbar unter{" "}
+              <Link
+                href="/cookies"
+                className="text-sky-600 hover:text-sky-700 underline"
+              >
+                /cookies
+              </Link>
+              .
+            </p>
+          </aside>
+
+          <div className="mt-12 text-center">
+            <Link
+              href={`/${lang}`}
+              className="text-sky-600 hover:text-sky-700 font-semibold"
+            >
+              ← Zurück zur Startseite
+            </Link>
+          </div>
+        </article>
+      </main>
+    );
+  }
 
   return (
     <main className="min-h-screen bg-white">
@@ -102,7 +373,7 @@ export default function CookiesPage({
           <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
             Cookie Policy
           </h1>
-          <p className="text-sky-50">Last updated: {LAST_UPDATED}</p>
+          <p className="text-sky-50">Last updated: {LAST_UPDATED_EN}</p>
         </div>
       </section>
 

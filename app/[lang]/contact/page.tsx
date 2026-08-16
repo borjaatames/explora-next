@@ -19,6 +19,109 @@ export function generateStaticParams(): Array<{ lang: Idioma }> {
   return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
 }
 
+type Copy = {
+  metaTitle: string;
+  metaDescription: string;
+  ogDescription: string;
+  breadcrumbHome: string;
+  breadcrumbContact: string;
+  heroTitle: string;
+  heroSubtitle: string;
+  whatsappHeading: string;
+  whatsappBody: string;
+  whatsappPrefill: string;
+  writeHeading: string;
+  writeBody: string;
+  errorHeading: string;
+  errorBody: string;
+  suggestionHeading: string;
+  suggestionBody: string;
+  partnershipsHeading: string;
+  partnershipsBody: string;
+  bookingsHeading: string;
+  bookingsBody: string;
+  companyInfoLabel: string;
+  moreInfoPrefix: string;
+  legalNoticeLink: string;
+  backToHome: string;
+};
+
+function getCopy(lang: Idioma): Copy {
+  if (lang === "de") {
+    return {
+      metaTitle: "Kontakt | ExploraSpain",
+      metaDescription:
+        "Fragen zu einer Aktivität oder Buchung, Vorschläge oder Kooperationen? Schreib uns über das Formular oder WhatsApp — wir melden uns so schnell wie möglich.",
+      ogDescription:
+        "Kontaktiere das ExploraSpain-Team für Vorschläge, Korrekturen oder Kooperationen.",
+      breadcrumbHome: "Startseite",
+      breadcrumbContact: "Kontakt",
+      heroTitle: "Kontakt",
+      heroSubtitle:
+        "Fragen, Vorschläge, Korrekturen, Kooperationen. Wir lesen alles.",
+      whatsappHeading: "Kurze Frage? Schreib uns auf WhatsApp",
+      whatsappBody:
+        "Direkte Hilfe bei Aktivitäten und Buchungen. Wir antworten so schnell wie möglich.",
+      whatsappPrefill:
+        "Hallo, ich habe eine Frage zu einem Erlebnis von ExploraSpain.",
+      writeHeading: "Schreib uns direkt",
+      writeBody:
+        "Füll das Formular aus und wir melden uns so schnell wie möglich.",
+      errorHeading: "Einen Fehler entdeckt?",
+      errorBody:
+        "Veraltete Preise, geänderte Öffnungszeiten, ein ungenaues Detail. Sag uns Bescheid und wir korrigieren es. Bitte gib die URL der Guide und das Problem an.",
+      suggestionHeading: "Vorschlag für eine Guide?",
+      suggestionBody:
+        "Wenn dir ein Reiseziel, eine Route oder eine bestimmte Empfehlung fehlt, sag es uns. Die besten Ideen kommen von Leuten, die tatsächlich unterwegs sind.",
+      partnershipsHeading: "Kooperationen?",
+      partnershipsBody:
+        "Presse, Medien, Tourismuspartner, redaktionelle Vorschläge. Erzähl uns kurz, wer du bist und was du vorschlägst.",
+      bookingsHeading: "Buchungen und Touren?",
+      bookingsBody:
+        "Bei Fragen zu Aktivitäten, Änderungen oder Problemen mit einer Buchung gib bitte die Buchungsnummer und das Datum der Aktivität in deiner Nachricht an.",
+      companyInfoLabel: "Unternehmensangaben:",
+      moreInfoPrefix: "Weitere Informationen im",
+      legalNoticeLink: "Impressum",
+      backToHome: "← Zurück zur Startseite",
+    };
+  }
+  return {
+    metaTitle: "Contact | ExploraSpain",
+    metaDescription:
+      "Questions about an activity or booking, suggestions or partnerships? Message us via the form or WhatsApp and we'll get back to you as soon as possible.",
+    ogDescription:
+      "Get in touch with the ExploraSpain team for suggestions, corrections or partnerships.",
+    breadcrumbHome: "Home",
+    breadcrumbContact: "Contact",
+    heroTitle: "Contact",
+    heroSubtitle:
+      "Questions, suggestions, corrections, partnerships. We read everything.",
+    whatsappHeading: "Quick questions? Message us on WhatsApp",
+    whatsappBody:
+      "Direct help with activities and bookings. We'll reply as soon as possible.",
+    whatsappPrefill:
+      "Hi, I have a question about ExploraSpain's experiences.",
+    writeHeading: "Write to us directly",
+    writeBody: "Fill in the form and we'll get back to you as soon as possible.",
+    errorHeading: "Spotted an error?",
+    errorBody:
+      "Outdated prices, changed opening hours, an inaccurate detail. Let us know and we'll fix it. Please include the URL of the guide and what's wrong.",
+    suggestionHeading: "Guide suggestion?",
+    suggestionBody:
+      "If you're missing a destination, route or specific recommendation, tell us. The best ideas come from people who are actually traveling.",
+    partnershipsHeading: "Partnerships?",
+    partnershipsBody:
+      "Press, media, tourism partners, editorial proposals. Briefly explain who you are and what you're proposing.",
+    bookingsHeading: "Bookings and tours?",
+    bookingsBody:
+      "For questions about activities, changes or issues with a booking, please include the booking number and the date of the activity in your message.",
+    companyInfoLabel: "Company information:",
+    moreInfoPrefix: "More information in the",
+    legalNoticeLink: "legal notice",
+    backToHome: "← Back to home",
+  };
+}
+
 export async function generateMetadata({
   params,
 }: {
@@ -29,6 +132,7 @@ export async function generateMetadata({
     return {};
   }
 
+  const copy = getCopy(lang);
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const siteUrl =
     process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
@@ -36,9 +140,8 @@ export async function generateMetadata({
   const languages = hreflangAlternates((l) => urlContacto(l));
 
   return {
-    title: "Contact | ExploraSpain",
-    description:
-      "Questions about an activity or booking, suggestions or partnerships? Message us via the form or WhatsApp and we'll get back to you as soon as possible.",
+    title: copy.metaTitle,
+    description: copy.metaDescription,
     alternates: {
       canonical: canonicalUrl,
       languages,
@@ -53,9 +156,8 @@ export async function generateMetadata({
       locale: IDIOMA_LOCALE[lang],
       url: canonicalUrl,
       siteName: "ExploraSpain",
-      title: "Contact | ExploraSpain",
-      description:
-        "Get in touch with the ExploraSpain team for suggestions, corrections or partnerships.",
+      title: copy.metaTitle,
+      description: copy.ogDescription,
     },
   };
 }
@@ -70,6 +172,7 @@ export default function ContactPage({
     notFound();
   }
 
+  const copy = getCopy(lang);
   const siteUrl =
     process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
   const pageUrl = `${siteUrl}${urlContacto(lang)}`;
@@ -79,8 +182,8 @@ export default function ContactPage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
-      { "@type": "ListItem", position: 2, name: "Contact", item: pageUrl },
+      { "@type": "ListItem", position: 1, name: copy.breadcrumbHome, item: homeUrl },
+      { "@type": "ListItem", position: 2, name: copy.breadcrumbContact, item: pageUrl },
     ],
   };
 
@@ -88,7 +191,7 @@ export default function ContactPage({
   const contactJsonLd = {
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    name: "Contact | ExploraSpain",
+    name: copy.metaTitle,
     url: pageUrl,
     inLanguage: IDIOMA_LOCALE[lang],
     mainEntity: {
@@ -121,12 +224,9 @@ export default function ContactPage({
       <section className="bg-sky-500 text-white py-16 md:py-24">
         <div className="max-w-3xl mx-auto px-4">
           <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-            Contact
+            {copy.heroTitle}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">
-            Questions, suggestions, corrections, partnerships. We read
-            everything.
-          </p>
+          <p className="text-lg md:text-xl text-sky-50">{copy.heroSubtitle}</p>
         </div>
       </section>
 
@@ -136,15 +236,14 @@ export default function ContactPage({
         <div className="bg-[#25D366]/10 border border-[#25D366]/40 rounded-lg p-6 mb-8 flex flex-col sm:flex-row sm:items-center gap-4">
           <div className="flex-1">
             <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-1">
-              Quick questions? Message us on WhatsApp
+              {copy.whatsappHeading}
             </h2>
-            <p className="text-slate-700 text-sm">
-              Direct help with activities and bookings. We&apos;ll reply as
-              soon as possible.
-            </p>
+            <p className="text-slate-700 text-sm">{copy.whatsappBody}</p>
           </div>
           <a
-            href="https://wa.me/34917647730?text=Hi%2C%20I%20have%20a%20question%20about%20ExploraSpain%27s%20experiences."
+            href={`https://wa.me/34917647730?text=${encodeURIComponent(
+              copy.whatsappPrefill
+            )}`}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#1ebe5d] text-white font-semibold px-6 py-3 rounded-lg whitespace-nowrap transition-colors"
@@ -159,56 +258,47 @@ export default function ContactPage({
         {/* Main email block */}
         <div className="bg-amber-50 border-l-4 border-amber-500 rounded-r-lg p-8 mb-12">
           <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-3">
-            Write to us directly
+            {copy.writeHeading}
           </h2>
-          <p className="text-slate-700 mb-6">
-            Fill in the form and we&apos;ll get back to you as soon as possible.
-          </p>
-          <ContactForm idioma="en" />
+          <p className="text-slate-700 mb-6">{copy.writeBody}</p>
+          <ContactForm idioma={lang} />
         </div>
 
         {/* Categories of messages */}
         <div className="grid md:grid-cols-2 gap-6 mb-12">
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
-              Spotted an error?
+              {copy.errorHeading}
             </h3>
             <p className="text-slate-700 text-sm leading-relaxed">
-              Outdated prices, changed opening hours, an inaccurate detail.
-              Let us know and we&rsquo;ll fix it. Please include the URL of
-              the guide and what&rsquo;s wrong.
+              {copy.errorBody}
             </p>
           </div>
 
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
-              Guide suggestion?
+              {copy.suggestionHeading}
             </h3>
             <p className="text-slate-700 text-sm leading-relaxed">
-              If you&rsquo;re missing a destination, route or specific
-              recommendation, tell us. The best ideas come from people who are
-              actually traveling.
+              {copy.suggestionBody}
             </p>
           </div>
 
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
-              Partnerships?
+              {copy.partnershipsHeading}
             </h3>
             <p className="text-slate-700 text-sm leading-relaxed">
-              Press, media, tourism partners, editorial proposals. Briefly
-              explain who you are and what you&rsquo;re proposing.
+              {copy.partnershipsBody}
             </p>
           </div>
 
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
-              Bookings and tours?
+              {copy.bookingsHeading}
             </h3>
             <p className="text-slate-700 text-sm leading-relaxed">
-              For questions about activities, changes or issues with a
-              booking, please include the booking number and the date of the
-              activity in your message.
+              {copy.bookingsBody}
             </p>
           </div>
         </div>
@@ -216,19 +306,19 @@ export default function ContactPage({
         {/* Company info */}
         <div className="p-6 bg-slate-50 rounded-lg text-sm text-slate-600 leading-relaxed">
           <p className="mb-2">
-            <strong className="text-slate-900">Company information:</strong>
+            <strong className="text-slate-900">{copy.companyInfoLabel}</strong>
           </p>
           <p>
             SKYWARD PARTNERS, S.L. · Tax ID B26629576 · Calle Castelló 117,
             28006 Madrid, Spain.
           </p>
           <p className="mt-3">
-            More information in the{" "}
+            {copy.moreInfoPrefix}{" "}
             <Link
               href={urlAvisoLegal(lang)}
               className="text-sky-600 hover:underline"
             >
-              legal notice
+              {copy.legalNoticeLink}
             </Link>
             .
           </p>
@@ -240,7 +330,7 @@ export default function ContactPage({
             href={`/${lang}`}
             className="text-sky-600 hover:text-sky-700 font-semibold"
           >
-            ← Back to home
+            {copy.backToHome}
           </Link>
         </div>
       </section>
