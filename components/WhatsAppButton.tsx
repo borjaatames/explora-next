@@ -20,7 +20,7 @@ import type { Idioma } from "@/lib/i18n/types";
 // (sin "+", espacios ni guiones), como exige la API de wa.me.
 const WHATSAPP_NUMERO = "34917647730";
 
-const DICT: Record<"es" | "en", { aria: string; tooltip: string; mensaje: string }> = {
+const DICT: Record<"es" | "en" | "de", { aria: string; tooltip: string; mensaje: string }> = {
   es: {
     aria: "Contactar por WhatsApp",
     tooltip: "¿Dudas? Escríbenos",
@@ -31,10 +31,15 @@ const DICT: Record<"es" | "en", { aria: string; tooltip: string; mensaje: string
     tooltip: "Questions? Chat with us",
     mensaje: "Hi, I have a question about ExploraSpain's experiences.",
   },
+  de: {
+    aria: "Über WhatsApp kontaktieren",
+    tooltip: "Fragen? Schreib uns",
+    mensaje: "Hallo, ich habe eine Frage zu den Erlebnissen von ExploraSpain.",
+  },
 };
 
 export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
-  const t = idioma === "es" ? DICT.es : DICT.en;
+  const t = idioma === "es" ? DICT.es : idioma === "de" ? DICT.de : DICT.en;
   const href = `https://wa.me/${WHATSAPP_NUMERO}?text=${encodeURIComponent(
     t.mensaje
   )}`;

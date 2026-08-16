@@ -43,6 +43,88 @@ type Props = {
   params: { lang: string };
 };
 
+type Copy = {
+  metaTitle: string;
+  metaDescription: string;
+  ogDescription: string;
+  websiteJsonLdDescription: string;
+  heroTitle: string;
+  heroSubtitle: string;
+  exploreDestinos: string;
+  seeActivitiesCta: string;
+  topDestinosHeading: string;
+  topDestinosSubheading: string;
+  seeAllCities: string;
+  featuredActHeading: string;
+  featuredActSubheading: string;
+  freeCancellation: string;
+  fromLabel: string;
+  viewActivity: string;
+  guidesHeading: string;
+  guidesSubheading: string;
+  seeAllGuides: string;
+};
+
+function getCopy(lang: Idioma): Copy {
+  if (lang === "de") {
+    return {
+      metaTitle: "ExploraSpain · Aktivitäten, Touren und Tickets in Spanien",
+      metaDescription:
+        "Buche die besten Aktivitäten, Touren und Tickets in Spanien: Madrid, Barcelona, Sevilla, Granada und mehr. Handverlesen, kostenlose Stornierung und vertrauenswürdige Partner.",
+      ogDescription:
+        "Aktivitäten, Touren und Tickets in Spanien mit Kriterium ausgewählt. Kostenlose Stornierung und Buchung über vertrauenswürdige Partner.",
+      websiteJsonLdDescription:
+        "Aktivitäten, Touren und Tickets in Spanien mit Kriterium ausgewählt: buche mit kostenloser Stornierung und vertrauenswürdigen Partnern.",
+      heroTitle: "Aktivitäten und Touren in Spanien, mit Kriterium ausgewählt",
+      heroSubtitle:
+        "Touren, Tickets, Aktivitäten und Erlebnisse in ganz Spanien, mit direkter, sicherer Buchung.",
+      exploreDestinos: "Reiseziele entdecken",
+      seeActivitiesCta: "Beliebte Aktivitäten ansehen",
+      topDestinosHeading: "Top-Reiseziele",
+      topDestinosSubheading:
+        "Wähle deine Stadt und entdecke die besten Aktivitäten in jeder von ihnen.",
+      seeAllCities: "Alle Städte ansehen →",
+      featuredActHeading: "Beliebte Aktivitäten",
+      featuredActSubheading:
+        "Das Beste aus jeder Stadt: kostenlose Stornierung und sofortige Bestätigung.",
+      freeCancellation: "Kostenlose Stornierung",
+      fromLabel: "Ab",
+      viewActivity: "Aktivität ansehen →",
+      guidesHeading: "Reiseführer für bessere Reisen",
+      guidesSubheading:
+        "Praktische Tipps und Routen mit Kriterium, bevor du buchst.",
+      seeAllGuides: "Alle Reiseführer ansehen →",
+    };
+  }
+  return {
+    metaTitle: "ExploraSpain · Activities, tours and tickets in Spain",
+    metaDescription:
+      "Book the best activities, tours and tickets in Spain: Madrid, Barcelona, Seville, Granada and more. Hand-picked, free cancellation and trusted partners.",
+    ogDescription:
+      "Activities, tours and tickets in Spain chosen with judgment. Free cancellation and booking through trusted partners.",
+    websiteJsonLdDescription:
+      "Activities, tours and tickets in Spain chosen with judgment: book with free cancellation and trusted partners.",
+    heroTitle: "Activities and tours in Spain, chosen with judgment",
+    heroSubtitle:
+      "Tours, tickets, activities and experiences across Spain, with direct, secure booking.",
+    exploreDestinos: "Explore destinations",
+    seeActivitiesCta: "See featured activities",
+    topDestinosHeading: "Top destinations",
+    topDestinosSubheading:
+      "Pick your city and discover the best activities in each one.",
+    seeAllCities: "See all cities →",
+    featuredActHeading: "Featured activities",
+    featuredActSubheading:
+      "The best of each city: free cancellation and instant confirmation.",
+    freeCancellation: "Free cancellation",
+    fromLabel: "From",
+    viewActivity: "View activity →",
+    guidesHeading: "Guides to travel better",
+    guidesSubheading: "Practical tips and routes with judgment before you book.",
+    seeAllGuides: "See all guides →",
+  };
+}
+
 export function generateStaticParams(): Array<{ lang: Idioma }> {
   return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
 }
@@ -55,13 +137,13 @@ export async function generateMetadata({
     return {};
   }
 
+  const copy = getCopy(lang);
   const canonicalUrl = `${SITE_URL}${prefijoIdioma(lang)}/`;
   const languages = hreflangAlternates((l) => `${prefijoIdioma(l)}/`);
 
   return {
-    title: "ExploraSpain · Activities, tours and tickets in Spain",
-    description:
-      "Book the best activities, tours and tickets in Spain: Madrid, Barcelona, Seville, Granada and more. Hand-picked, free cancellation and trusted partners.",
+    title: copy.metaTitle,
+    description: copy.metaDescription,
     alternates: {
       canonical: canonicalUrl,
       languages,
@@ -71,9 +153,8 @@ export async function generateMetadata({
       locale: IDIOMA_LOCALE[lang],
       url: canonicalUrl,
       siteName: "ExploraSpain",
-      title: "ExploraSpain · Activities, tours and tickets in Spain",
-      description:
-        "Activities, tours and tickets in Spain chosen with judgment. Free cancellation and booking through trusted partners.",
+      title: copy.metaTitle,
+      description: copy.ogDescription,
     },
   };
 }
@@ -93,6 +174,7 @@ export default function HomePage({ params }: Props) {
   }
 
   const lang: Idioma = params.lang;
+  const copy = getCopy(lang);
   const locale = IDIOMA_LOCALE[lang];
   const dict = getDictionary(lang);
   const guias = obtenerGuiasDestacadas(lang, 3);
@@ -117,8 +199,7 @@ export default function HomePage({ params }: Props) {
     name: "ExploraSpain",
     url: SITE_URL,
     inLanguage: IDIOMA_LOCALE[lang],
-    description:
-      "Activities, tours and tickets in Spain chosen with judgment: book with free cancellation and trusted partners.",
+    description: copy.websiteJsonLdDescription,
   };
 
   const organizationJsonLd = {
@@ -164,24 +245,23 @@ export default function HomePage({ params }: Props) {
         <div className="absolute inset-0 bg-slate-900/55" />
         <div className="relative max-w-5xl mx-auto px-4 py-24 md:py-32 text-center">
           <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight drop-shadow">
-            Activities and tours in Spain, chosen with judgment
+            {copy.heroTitle}
           </h1>
           <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            Tours, tickets, activities and experiences across Spain, with
-            direct, secure booking.
+            {copy.heroSubtitle}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href="#destinations"
               className="bg-amber-400 hover:bg-amber-500 text-slate-900 font-semibold px-8 py-3 rounded-lg transition-colors"
             >
-              Explore destinations
+              {copy.exploreDestinos}
             </Link>
             <Link
               href="#activities"
               className="bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/30"
             >
-              See featured activities
+              {copy.seeActivitiesCta}
             </Link>
           </div>
           <TrustStrip idioma={lang} />
@@ -196,11 +276,9 @@ export default function HomePage({ params }: Props) {
         >
           <div className="mb-10">
             <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
-              Top destinations
+              {copy.topDestinosHeading}
             </h2>
-            <p className="text-slate-600 text-lg">
-              Pick your city and discover the best activities in each one.
-            </p>
+            <p className="text-slate-600 text-lg">{copy.topDestinosSubheading}</p>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -236,7 +314,7 @@ export default function HomePage({ params }: Props) {
               href={urlIndiceCiudades(lang)}
               className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
             >
-              See all cities →
+              {copy.seeAllCities}
             </Link>
           </div>
         </section>
@@ -251,12 +329,9 @@ export default function HomePage({ params }: Props) {
           <div className="max-w-6xl mx-auto px-4 py-16 md:py-20">
             <div className="mb-10">
               <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
-                Featured activities
+                {copy.featuredActHeading}
               </h2>
-              <p className="text-slate-600 text-lg">
-                The best of each city: free cancellation and instant
-                confirmation.
-              </p>
+              <p className="text-slate-600 text-lg">{copy.featuredActSubheading}</p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -278,7 +353,7 @@ export default function HomePage({ params }: Props) {
                     ) : null}
                     {a.cancelacionGratuita ? (
                       <span className="absolute top-3 left-3 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded">
-                        Free cancellation
+                        {copy.freeCancellation}
                       </span>
                     ) : null}
                   </div>
@@ -312,7 +387,7 @@ export default function HomePage({ params }: Props) {
                       <div className="flex items-end justify-between">
                         <div>
                           <p className="text-xs uppercase tracking-wider text-slate-400">
-                            From
+                            {copy.fromLabel}
                           </p>
                           <p className="text-xl font-bold text-slate-900">
                             {formatearPrecio(a.precioDesde, a.moneda, locale)}
@@ -322,7 +397,7 @@ export default function HomePage({ params }: Props) {
                           aria-hidden="true"
                           className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
                         >
-                          View activity →
+                          {copy.viewActivity}
                         </span>
                       </div>
                     </div>
@@ -340,17 +415,15 @@ export default function HomePage({ params }: Props) {
           <div className="flex flex-wrap items-end justify-between gap-3 mb-8">
             <div>
               <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
-                Guides to travel better
+                {copy.guidesHeading}
               </h2>
-              <p className="text-slate-600">
-                Practical tips and routes with judgment before you book.
-              </p>
+              <p className="text-slate-600">{copy.guidesSubheading}</p>
             </div>
             <Link
               href={urlIndiceGuias(lang)}
               className="text-sky-600 hover:text-sky-700 font-semibold whitespace-nowrap"
             >
-              See all guides →
+              {copy.seeAllGuides}
             </Link>
           </div>
 

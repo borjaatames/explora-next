@@ -40,7 +40,8 @@ function SelloPagoSeguro({
   idioma: Idioma;
   className?: string;
 }) {
-  const texto = idioma === "es" ? "Pago seguro" : "Secure payment";
+  const texto =
+    idioma === "es" ? "Pago seguro" : idioma === "de" ? "Sichere Zahlung" : "Secure payment";
   return (
     <div
       className={`inline-flex items-center gap-1.5 text-xs font-medium text-slate-600 ${
@@ -80,7 +81,8 @@ export default function SelloProveedor({
     return <SelloPagoSeguro idioma={idioma} className={className} />;
   }
 
-  const texto = idioma === "es" ? "Ofrecida por" : "Offered by";
+  const texto =
+    idioma === "es" ? "Ofrecida por" : idioma === "de" ? "Angeboten von" : "Offered by";
   const nombre = nombreProveedor(proveedor);
 
   return (
