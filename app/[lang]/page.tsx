@@ -68,16 +68,17 @@ type Copy = {
 function getCopy(lang: Idioma): Copy {
   if (lang === "de") {
     return {
-      metaTitle: "ExploraSpain · Aktivitäten, Touren und Tickets in Spanien",
+      metaTitle: "ExploraSpain · Reiseführer, Touren & Aktivitäten Spanien",
       metaDescription:
-        "Buche die besten Aktivitäten, Touren und Tickets in Spanien: Madrid, Barcelona, Sevilla, Granada und mehr. Handverlesen, kostenlose Stornierung und vertrauenswürdige Partner.",
+        "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten: Madrid, Barcelona, Sevilla, Granada und mehr. Kostenlose Stornierung und vertrauenswürdige Partner.",
       ogDescription:
-        "Aktivitäten, Touren und Tickets in Spanien mit Kriterium ausgewählt. Kostenlose Stornierung und Buchung über vertrauenswürdige Partner.",
+        "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten. Kostenlose Stornierung und Buchung über vertrauenswürdige Partner.",
       websiteJsonLdDescription:
-        "Aktivitäten, Touren und Tickets in Spanien mit Kriterium ausgewählt: buche mit kostenloser Stornierung und vertrauenswürdigen Partnern.",
-      heroTitle: "Aktivitäten und Touren in Spanien, mit Kriterium ausgewählt",
+        "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten: buche mit kostenloser Stornierung und vertrauenswürdigen Partnern.",
+      heroTitle:
+        "Reiseführer, Touren und Aktivitäten für Spanien, mit den besten Tipps von lokalen Experten",
       heroSubtitle:
-        "Touren, Tickets, Aktivitäten und Erlebnisse in ganz Spanien, mit direkter, sicherer Buchung.",
+        "Direkte und sichere Buchung von Touren und Aktivitäten in ganz Spanien — kein touristischer Fülltext, nur das, was sich wirklich lohnt.",
       exploreDestinos: "Reiseziele entdecken",
       seeActivitiesCta: "Beliebte Aktivitäten ansehen",
       topDestinosHeading: "Top-Reiseziele",
@@ -97,16 +98,17 @@ function getCopy(lang: Idioma): Copy {
     };
   }
   return {
-    metaTitle: "ExploraSpain · Activities, tours and tickets in Spain",
+    metaTitle: "ExploraSpain · Spain Travel Guides, Tours & Activities",
     metaDescription:
-      "Book the best activities, tours and tickets in Spain: Madrid, Barcelona, Seville, Granada and more. Hand-picked, free cancellation and trusted partners.",
+      "Spain travel guides, tours and activities with the best advice from local experts: Madrid, Barcelona, Seville, Granada and more. Free cancellation and trusted partners.",
     ogDescription:
-      "Activities, tours and tickets in Spain chosen with judgment. Free cancellation and booking through trusted partners.",
+      "Spain travel guides, tours and activities with the best advice from local experts. Free cancellation and booking through trusted partners.",
     websiteJsonLdDescription:
-      "Activities, tours and tickets in Spain chosen with judgment: book with free cancellation and trusted partners.",
-    heroTitle: "Activities and tours in Spain, chosen with judgment",
+      "Spain travel guides, tours and activities with the best advice from local experts: book with free cancellation and trusted partners.",
+    heroTitle:
+      "Spain travel guides, tours and activities, with the best advice from local experts",
     heroSubtitle:
-      "Tours, tickets, activities and experiences across Spain, with direct, secure booking.",
+      "Direct, secure booking for tours and activities across Spain — no tourist filler, just what's actually worth it.",
     exploreDestinos: "Explore destinations",
     seeActivitiesCta: "See featured activities",
     topDestinosHeading: "Top destinations",

@@ -31,9 +31,9 @@ const ORDEN_DESTINOS_HOME = [
 ] as const;
 
 export const metadata: Metadata = {
-  title: "ExploraSpain · Actividades, tours y entradas en España",
+  title: "ExploraSpain · Actividades, tours y guías de España",
   description:
-    "Reserva las mejores actividades, tours y entradas en España: Madrid, Barcelona, Sevilla, Granada y más. Selección con criterio, cancelación gratuita y partners de confianza.",
+    "Actividades, tours y guías de viaje por España elegidos por expertos locales: Madrid, Barcelona, Sevilla, Granada y más. Cancelación gratuita y partners de confianza.",
   alternates: {
     canonical: `${SITE_URL}/`,
     languages: hreflangAlternates((l) => `${prefijoIdioma(l)}/`),
@@ -43,9 +43,9 @@ export const metadata: Metadata = {
     locale: "es_ES",
     url: `${SITE_URL}/`,
     siteName: "ExploraSpain",
-    title: "ExploraSpain · Actividades, tours y entradas en España",
+    title: "ExploraSpain · Actividades, tours y guías de España",
     description:
-      "Actividades, tours y entradas en España elegidos con criterio. Cancelación gratuita y reserva con partners de confianza.",
+      "Actividades, tours y guías de viaje por España elegidos por expertos locales. Cancelación gratuita y reserva con partners de confianza.",
   },
 };
 
@@ -83,7 +83,7 @@ export default function HomePage() {
     url: SITE_URL,
     inLanguage: "es-ES",
     description:
-      "Actividades, tours y entradas en España elegidos con criterio: reserva con cancelación gratuita y partners de confianza.",
+      "Actividades, tours y guías de viaje por España elegidos por expertos locales: reserva con cancelación gratuita y partners de confianza.",
   };
 
   const organizationJsonLd = {
@@ -130,11 +130,12 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-slate-900/55" />
         <div className="relative max-w-5xl mx-auto px-4 py-24 md:py-32 text-center">
           <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight drop-shadow">
-            Actividades y tours en España, elegidos con criterio
+            Guías de viaje de España, de tours y actividades, con los mejores
+            consejos de los expertos locales
           </h1>
           <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            Tours, entradas, actividades y experiencias por toda España, con
-            reserva directa y segura.
+            Reserva directa y segura de tours y actividades por toda España —
+            sin relleno turístico, solo lo que de verdad merece la pena.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
