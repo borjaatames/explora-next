@@ -106,6 +106,46 @@ En **Casa Julio** (Calle de la Madera, 37, Malasaña). Es la referencia de la ci
 
 **Criterio**: Casa Labra siempre tiene gente esperando en la puerta a la hora de comer; no es sitio para prisas, pero la espera es corta porque el servicio en barra es rápido.
 
+## ¿Prefieres tapear por zonas en vez de plato a plato?
+
+Si te apetece elegir un barrio y hacer una ruta de bares seguidos en vez de cruzar la ciudad plato a plato, estas son las cuatro zonas de Madrid con más densidad de tapeo bueno — tres o cuatro sitios por zona.
+
+### La Latina y Cava Baja
+
+La calle con más tabernas por metro cuadrado de Madrid. Ya hemos mencionado **Malacatín** y **Casa Lucio** por sus callos; en la misma calle o muy cerca:
+
+- **Posada del León de Oro** (Cava Baja, 12) — cocido en tres vuelcos y rabo de toro.
+- **Posada de la Villa** (Cava Baja, 9) — cordero lechal asado y callos.
+- **Taberna La Chata** (Cava Baja, 24) — tapa gratis con cada bebida, huevos rotos con jamón.
+
+**Criterio**: ir un domingo a mediodía para el vermú es la experiencia más castiza de la calle; entre semana está mucho más tranquilo y se tapea con calma.
+
+### Malasaña
+
+- **Casa Julio** (Madera, 37) — las croquetas de referencia (ya lo hemos cubierto arriba).
+- **Bodega de La Ardosa** (Colón, 13) — abierta desde 1892, vermut de grifo y una tortilla de patatas que compite en fama con la de Casa Dani.
+
+**Criterio**: dos sitios centenarios a diez minutos andando uno del otro. Se pueden hacer los dos en la misma tarde sin prisa.
+
+### Chueca
+
+- **Bodega Ángel Sierra** (Gravina, 11) — barra clásica, vermut de grifo con encurtidos.
+- **El Cisne Azul** (Gravina, 19) — especialistas en setas de temporada, a menos de 50 metros del anterior.
+- **Bocaíto** (Libertad, 4-6) — pinchos; el de bacalao con guacamole es el más pedido.
+- **La Trastienda** (Augusto Figueroa, 24, dentro del Mercado de San Antón) — más de 12 tipos de croqueta distintos.
+
+**Criterio**: Gravina es la calle troncal de la ruta; se puede hacer entera en una noche sin coger el coche ni el metro.
+
+### Barrio de Salamanca
+
+Más caro que el resto de zonas de esta lista, pero con nivel serio si prefieres tapear con mantel.
+
+- **Jurucha** (Ayala, 19) — croquetas de jamón y de huevo (estas últimas solo por las mañanas), empanadas caseras.
+- **La Maruca** (Velázquez, 54) — cocina del norte de España: ensaladilla con bonito, calamares fritos.
+- **Sagardi** (Paseo de la Castellana, 13) — pintxos vascos, gildas.
+
+**Criterio**: aquí el tapeo es más de sentarse a la mesa que de ir de bar en bar, y los precios suben respecto al resto de zonas de esta lista.
+
 ## Lo que NO recomendaríamos
 
 ❌ **Bares con foto plastificada de las bravas o los calamares en el escaparate.** Es la misma señal de alarma en Madrid que en cualquier otra ciudad española: cuanto más se esfuerza el bar en venderte la imagen, peor suele estar el plato real.

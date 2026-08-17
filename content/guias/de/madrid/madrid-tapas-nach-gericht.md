@@ -107,6 +107,46 @@ Bei **Casa Julio** (Calle de la Madera, 37, Malasaña). Es ist die Referenz der 
 
 **Kriterium**: Vor Casa Labra warten mittags immer Leute vor der Tür; es ist kein Ort für Eilige, aber die Wartezeit ist kurz, weil der Thekenservice schnell ist.
 
+## Lieber viertelweise tapen statt Gericht für Gericht?
+
+Wenn du lieber ein Viertel auswählst und dort mehrere Bars nacheinander besuchst, statt Gericht für Gericht quer durch die Stadt zu ziehen, hier die vier Madrider Viertel mit der höchsten Dichte an gutem Tapeo — drei bis vier Lokale pro Viertel.
+
+### La Latina und Cava Baja
+
+Die Straße mit den meisten Tabernas pro Quadratmeter in Madrid. **Malacatín** und **Casa Lucio** haben wir wegen ihrer Callos schon erwähnt; in derselben Straße oder ganz in der Nähe:
+
+- **Posada del León de Oro** (Cava Baja, 12) — Cocido in drei Gängen und Rabo de Toro (Ochsenschwanz).
+- **Posada de la Villa** (Cava Baja, 9) — gebratenes Milchlamm und Callos.
+- **Taberna La Chata** (Cava Baja, 24) — gratis Tapa zu jedem Getränk, Huevos Rotos mit Schinken.
+
+**Kriterium**: Sonntagmittag zum Vermú zu gehen, ist das urigste Erlebnis der Straße; unter der Woche ist es viel ruhiger und man kann in Ruhe tapen.
+
+### Malasaña
+
+- **Casa Julio** (Madera, 37) — die Referenz für Croquetas (bereits oben behandelt).
+- **Bodega de La Ardosa** (Colón, 13) — seit 1892 geöffnet, Vermut vom Fass und eine Tortilla de Patatas, die es an Ruhm mit der von Casa Dani aufnimmt.
+
+**Kriterium**: zwei hundertjährige Lokale, zehn Gehminuten voneinander entfernt. Man kann beide an einem Abend ohne Eile besuchen.
+
+### Chueca
+
+- **Bodega Ángel Sierra** (Gravina, 11) — klassische Theke, Vermut vom Fass mit Eingelegtem.
+- **El Cisne Azul** (Gravina, 19) — Spezialisten für Saisonpilze, keine 50 Meter vom vorigen entfernt.
+- **Bocaíto** (Libertad, 4-6) — Pintxos; der mit Kabeljau und Guacamole ist der meistbestellte.
+- **La Trastienda** (Augusto Figueroa, 24, im Mercado de San Antón) — mehr als 12 verschiedene Croqueta-Sorten.
+
+**Kriterium**: Die Gravina ist die Hauptstraße der Route; man kann sie an einem Abend komplett machen, ohne Auto oder Metro zu brauchen.
+
+### Barrio de Salamanca
+
+Teurer als die anderen Viertel dieser Liste, aber mit ernsthaftem Niveau, wenn du lieber sitzend tapst.
+
+- **Jurucha** (Ayala, 19) — Schinken- und Ei-Croquetas (letztere nur vormittags), hausgemachte Empanadas.
+- **La Maruca** (Velázquez, 54) — nordspanische Küche: Ensaladilla mit Bonito, frittierte Tintenfischringe.
+- **Sagardi** (Paseo de la Castellana, 13) — baskische Pintxos, Gildas.
+
+**Kriterium**: Hier wird eher sitzend am Tisch getapt als von Bar zu Bar gezogen, und die Preise liegen höher als in den übrigen Vierteln dieser Liste.
+
 ## Was wir NICHT empfehlen würden
 
 ❌ **Bars mit einem laminierten Foto der Bravas oder Calamares im Schaufenster.** Dasselbe Warnsignal wie in jeder anderen spanischen Stadt: Je mehr sich eine Bar bemüht, dir das Bild zu verkaufen, desto schlechter ist meist das tatsächliche Gericht.

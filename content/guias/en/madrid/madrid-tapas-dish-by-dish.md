@@ -106,6 +106,46 @@ At **Casa Julio** (Calle de la Madera, 37, Malasaña). It's the city's reference
 
 **Judgment call**: Casa Labra always has people waiting at the door at lunchtime; it's not a place to rush, but the wait is short because bar service is fast.
 
+## Prefer tapas by neighborhood instead of dish by dish?
+
+If you'd rather pick one neighborhood and do a bar crawl instead of criss-crossing the city dish by dish, here are the four Madrid areas with the highest density of good tapas — three or four spots per area.
+
+### La Latina and Cava Baja
+
+The street with the highest concentration of taverns per square meter in Madrid. We've already mentioned **Malacatín** and **Casa Lucio** for their callos; on the same street or very close by:
+
+- **Posada del León de Oro** (Cava Baja, 12) — cocido served in three courses, and rabo de toro (oxtail).
+- **Posada de la Villa** (Cava Baja, 9) — roast suckling lamb and callos.
+- **Taberna La Chata** (Cava Baja, 24) — a free tapa with every drink, huevos rotos with ham.
+
+**Judgment call**: going on a Sunday at midday for vermú is the street's most old-school experience; on weekdays it's much quieter and you can take your time.
+
+### Malasaña
+
+- **Casa Julio** (Madera, 37) — the reference point for croquetas (already covered above).
+- **Bodega de La Ardosa** (Colón, 13) — open since 1892, tap vermouth and a tortilla de patatas that rivals Casa Dani's in fame.
+
+**Judgment call**: two century-old spots ten minutes' walk apart. You can do both in the same evening without rushing.
+
+### Chueca
+
+- **Bodega Ángel Sierra** (Gravina, 11) — classic bar counter, tap vermouth with pickles.
+- **El Cisne Azul** (Gravina, 19) — mushroom specialists, less than 50 meters from the previous one.
+- **Bocaíto** (Libertad, 4-6) — pintxos; the cod with guacamole one is the most ordered.
+- **La Trastienda** (Augusto Figueroa, 24, inside Mercado de San Antón) — more than 12 different croqueta flavors.
+
+**Judgment call**: Gravina is the route's main street; you can do the whole crawl in one evening without needing a car or the metro.
+
+### Barrio de Salamanca
+
+Pricier than the rest of the areas on this list, but with a serious level if you'd rather sit down at a table.
+
+- **Jurucha** (Ayala, 19) — ham and egg croquetas (the latter only in the mornings), homemade empanadas.
+- **La Maruca** (Velázquez, 54) — northern Spanish cooking: ensaladilla with bonito, fried squid.
+- **Sagardi** (Paseo de la Castellana, 13) — Basque pintxos, gildas.
+
+**Judgment call**: tapas here are more about sitting at a table than bar-hopping, and prices are higher than the rest of the areas on this list.
+
 ## What we would NOT recommend
 
 ❌ **Bars with a laminated photo of bravas or calamares in the window.** Same warning sign in Madrid as in any other Spanish city: the more effort a bar puts into selling you the image, the worse the actual dish tends to be.
