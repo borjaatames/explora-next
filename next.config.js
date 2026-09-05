@@ -108,6 +108,76 @@ function obtenerGuiasDespublicadas() {
   return resultado;
 }
 
+/**
+ * Comprueba si a una ciudad le queda al menos una actividad publicada en
+ * el idioma dado. Se usa para decidir el destino del redirect de fichas
+ * despublicadas de Viator (ver más abajo): si a una ciudad no le queda
+ * NINGUNA actividad publicada, su propio índice de actividades
+ * (`/ciudades/{ciudad}/actividades`) es también un 404 — redirigir ahí
+ * encadenaría un redirect a otro 404, en vez de arreglarlo.
+ *
+ * Caso real detectado en Search Console (sección "No se ha encontrado
+ * (404)", septiembre 2026): las 3 fichas de actividad de Málaga (ES y EN)
+ * eran todas de Viator y se despublicaron a la vez, así que
+ * `/ciudades/malaga/actividades` y `/en/cities/malaga/activities` se
+ * quedaron sin ninguna actividad que listar y devuelven 404 ellos mismos
+ * — el redirect de la sección 3 (tal cual estaba) mandaba a los usuarios
+ * y a Google directamente a ese 404.
+ */
+function tieneActividadesPublicadas(idioma, ciudad) {
+  const dirCiudad = path.join(
+    process.cwd(),
+    "content",
+    "actividades",
+    idioma,
+    ciudad
+  );
+  if (!fs.existsSync(dirCiudad)) return false;
+
+  const archivos = fs
+    .readdirSync(dirCiudad)
+    .filter((archivo) => archivo.endsWith(".md"));
+
+  return archivos.some((archivo) => {
+    const { data } = matter(
+      fs.readFileSync(path.join(dirCiudad, archivo), "utf8")
+    );
+    return Boolean(data.publicada);
+  });
+}
+
+/**
+ * Comprueba si el hub de una ciudad (`content/ciudades/{idioma}/{ciudad}.md`)
+ * está publicado. Es el siguiente escalón de la cascada de fallback
+ * cuando una ciudad se queda sin actividades publicadas — mismo criterio
+ * que ya usa obtenerGuiasDespublicadas() más abajo para las guías.
+ */
+function ciudadPublicada(idioma, ciudad) {
+  const ruta = path.join(
+    process.cwd(),
+    "content",
+    "ciudades",
+    idioma,
+    `${ciudad}.md`
+  );
+  if (!fs.existsSync(ruta)) return false;
+
+  const { data } = matter(fs.readFileSync(ruta, "utf8"));
+  return Boolean(data.publicada);
+}
+
+/**
+ * Destino de fallback cuando una ciudad ya no tiene ninguna actividad
+ * publicada: su hub si sigue publicado, o si no, el índice general de
+ * ciudades (que siempre existe).
+ */
+function destinoParaCiudadSinActividad(idioma, ciudad) {
+  if (idioma === "es") {
+    return ciudadPublicada("es", ciudad) ? `/ciudades/${ciudad}` : "/ciudades";
+  }
+  return ciudadPublicada("en", ciudad) ? `/en/cities/${ciudad}` : "/en/cities";
+}
+
 const nextConfig = {
   reactStrictMode: true,
   images: {
@@ -219,20 +289,30 @@ const nextConfig = {
     }
 
     // ── 3. Fichas de actividad despublicadas de Viator (agosto 2026) →
-    //    índice de actividades de su ciudad. Ver función
-    //    obtenerActividadesDespublicadasViator() arriba para el porqué.
+    //    índice de actividades de su ciudad, salvo que a esa ciudad no le
+    //    quede ninguna actividad publicada — en ese caso el índice es
+    //    también un 404, así que caemos al hub de la ciudad (o al índice
+    //    general si el hub también está despublicado). Ver funciones
+    //    obtenerActividadesDespublicadasViator() / tieneActividadesPublicadas()
+    //    / destinoParaCiudadSinActividad() arriba para el porqué.
     const despublicadasViator = obtenerActividadesDespublicadasViator();
     for (const { ciudad, slug } of despublicadasViator.es) {
+      const destino = tieneActividadesPublicadas("es", ciudad)
+        ? `/ciudades/${ciudad}/actividades`
+        : destinoParaCiudadSinActividad("es", ciudad);
       redirects.push({
         source: `/ciudades/${ciudad}/actividades/${slug}`,
-        destination: `/ciudades/${ciudad}/actividades`,
+        destination: destino,
         permanent: true,
       });
     }
     for (const { ciudad, slug } of despublicadasViator.en) {
+      const destino = tieneActividadesPublicadas("en", ciudad)
+        ? `/en/cities/${ciudad}/activities`
+        : destinoParaCiudadSinActividad("en", ciudad);
       redirects.push({
         source: `/en/cities/${ciudad}/activities/${slug}`,
-        destination: `/en/cities/${ciudad}/activities`,
+        destination: destino,
         permanent: true,
       });
     }
