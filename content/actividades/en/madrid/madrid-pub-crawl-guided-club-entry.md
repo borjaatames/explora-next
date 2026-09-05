@@ -1,8 +1,8 @@
 ---
-titulo: "Madrid Pub Crawl: VIP Club Entry & Free Shots"
+titulo: 'Madrid Pub Crawl: VIP Club Entry & Free Shots'
 slug: madrid-pub-crawl-guided-club-entry
 ciudad: madrid
-descripcion: "Guided pub crawl through 5 of Madrid's liveliest clubs, with VIP entry, a welcome drink and a free shot at every stop. Adults only, 18 and over."
+descripcion: Guided pub crawl through 5 of Madrid's liveliest clubs, with VIP entry, a welcome drink and a free shot at every stop. Adults only, 18 and over.
 slugs:
   es: pub-crawl-madrid-discotecas-vip
   en: madrid-pub-crawl-guided-club-entry
@@ -16,7 +16,7 @@ idiomas:
 proveedor: bokun
 bokunProductId: 1109016
 numeroOpiniones: 3077
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: false
 highlights:
 - Guided 4-hour crawl through 5 of the liveliest venues in central Madrid
@@ -40,19 +40,19 @@ informacionImportante:
   - A valid passport or ID card is required to get into the venues
   - The meeting point is sent by chat or email after booking
   - Venues on the route can vary by day of the week (Icon Club on Thursdays, Moondance on Fridays and Saturdays, Shoko on Mondays)
-  - Final sale: no cancellations or date changes once the booking is confirmed
+  - 'Final sale: no cancellations or date changes once the booking is confirmed'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 18
-politicaCancelacion: "This activity does not allow cancellation or refund once the booking is confirmed."
-opinionEditorial: "This is the bigger of our two Madrid pub crawls: five venues with VIP entry, against four on the other one, at popular clubs like Icon Club or Shoko. The trade-off is that it's a final sale — no cancellations or date changes — and the guide only speaks English and Spanish. Only book this one if your night out is locked in."
+politicaCancelacion: This activity does not allow cancellation or refund once the booking is confirmed.
+opinionEditorial: 'This is the bigger of our two Madrid pub crawls: five venues with VIP entry, against four on the other one, at popular clubs like Icon Club or Shoko. The trade-off is that it''s a final sale — no cancellations or date changes — and the guide only speaks English and Spanish. Only book this one if your night out is locked in.'
 categoria: espectaculos
 keywords:
 - madrid pub crawl
 - madrid nightclubs
 - madrid night out
-imagen: "https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg"
+imagen: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg
 imagenAlt: VIP club entry pub crawl in Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg

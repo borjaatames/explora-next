@@ -1,8 +1,8 @@
 ---
-titulo: "Pub Crawl Madrid: bares, chupitos y discoteca"
+titulo: 'Pub Crawl Madrid: bares, chupitos y discoteca'
 slug: pub-crawl-madrid-bares-chupitos
 ciudad: madrid
-descripcion: "Ruta de pub crawl por el centro de Madrid: 3 bares y una discoteca, con chupito gratis en cada parada y propinas incluidas. Cancelación gratis hasta 24h antes."
+descripcion: 'Ruta de pub crawl por el centro de Madrid: 3 bares y una discoteca, con chupito gratis en cada parada y propinas incluidas. Cancelación gratis hasta 24h antes.'
 slugs:
   es: pub-crawl-madrid-bares-chupitos
   en: madrid-pub-crawl-bars-club-shots
@@ -20,11 +20,11 @@ idiomas:
 proveedor: bokun
 bokunProductId: 544197
 numeroOpiniones: 2897
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Ruta de 5 horas por 4 locales del centro de Madrid: 3 bares/pubs y una gran discoteca
+- 'Ruta de 5 horas por 4 locales del centro de Madrid: 3 bares/pubs y una gran discoteca'
 - Chupito de bienvenida gratis en cada uno de los 4 locales
 - Propinas incluidas en el precio, sin sorpresas de última hora
 - Descuentos en bebidas en discotecas del centro para los miembros de la ruta
@@ -43,23 +43,23 @@ informacionImportante:
   - Actividad solo para mayores de 18 años
   - No apta para sillas de ruedas ni cochecitos, ni se admiten mascotas
   - No recomendada si tienes problemas de espalda o de corazón, o estás embarazada
-  - Código de vestimenta obligatorio: nada de ropa deportiva (los hombres no pueden llevar sandalias ni pantalón corto)
+  - 'Código de vestimenta obligatorio: nada de ropa deportiva (los hombres no pueden llevar sandalias ni pantalón corto)'
   - Las entradas se cambian por pulseras en el propio punto de encuentro
   - Los locales de la ruta pueden variar según el día de la semana
-  - Contacto directo del operador para dudas: info@pubcrawl.madrid
+  - 'Contacto directo del operador para dudas: info@pubcrawl.madrid'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
-opinionEditorial: "Frente a la otra ruta de pub crawl que tenemos en Madrid, esta es la opción más flexible: cancelación gratuita hasta 24h antes y guía en seis idiomas, buena elección si viajas en un grupo internacional. Tiene un local menos (4 frente a 5) y el código de vestimenta es más estricto, así que nada de ropa deportiva ni sandalias para ellos."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+opinionEditorial: 'Frente a la otra ruta de pub crawl que tenemos en Madrid, esta es la opción más flexible: cancelación gratuita hasta 24h antes y guía en seis idiomas, buena elección si viajas en un grupo internacional. Tiene un local menos (4 frente a 5) y el código de vestimenta es más estricto, así que nada de ropa deportiva ni sandalias para ellos.'
 categoria: espectaculos
 keywords:
 - pub crawl madrid bares
 - ruta de bares madrid
 - fiesta madrid chupitos
-imagen: "https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg"
+imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
 imagenAlt: Pub crawl por bares y discoteca en el centro de Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg

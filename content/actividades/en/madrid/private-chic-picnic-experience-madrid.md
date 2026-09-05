@@ -1,8 +1,8 @@
 ---
-titulo: "Private Chic Picnic Experience in Madrid"
+titulo: Private Chic Picnic Experience in Madrid
 slug: private-chic-picnic-experience-madrid
 ciudad: madrid
-descripcion: "Private gourmet picnic at a secret Madrid location: Reserva Serrano ham, artisan cheeses and 0.0% sparkling wine. The team sets up and cleans up for you."
+descripcion: 'Private gourmet picnic at a secret Madrid location: Reserva Serrano ham, artisan cheeses and 0.0% sparkling wine. The team sets up and cleans up for you.'
 slugs:
   es: picnic-chic-privado-madrid
   en: private-chic-picnic-experience-madrid
@@ -15,14 +15,14 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1183282
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 12
 highlights:
 - 2-hour private gourmet picnic at a discreet Madrid spot
 - Curated selection of Reserva Serrano ham, artisan cheeses and Spanish delicacies
 - Paired with premium 0.0% non-alcoholic sparkling wine
-- The team sets up and cleans up everything: all you have to do is show up
+- 'The team sets up and cleans up everything: all you have to do is show up'
 - Priced per person; group size confirmed when booking
 incluye:
 - 'Full meal: Reserva Serrano ham, artisan cheeses and authentic Spanish delicacies'
@@ -43,14 +43,14 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 3
-politicaCancelacion: "Free cancellation up to 12 hours before the start, with a full refund (100% charge if cancelled with less notice)."
-opinionEditorial: "This is the most relaxed option in this group of experiences: less 'touristy' and more suited to a quiet, stylish afternoon as a couple or with friends. The surprise location is part of the concept, so it's not for anyone who needs to know exactly where they'll be beforehand. The menu (ham, cheeses, alcohol-free sparkling wine) is high-end and works well for non-drinkers too, though it's not a good fit if anyone in the group has severe food intolerances."
+politicaCancelacion: Free cancellation up to 12 hours before the start, with a full refund (100% charge if cancelled with less notice).
+opinionEditorial: 'This is the most relaxed option in this group of experiences: less ''touristy'' and more suited to a quiet, stylish afternoon as a couple or with friends. The surprise location is part of the concept, so it''s not for anyone who needs to know exactly where they''ll be beforehand. The menu (ham, cheeses, alcohol-free sparkling wine) is high-end and works well for non-drinkers too, though it''s not a good fit if anyone in the group has severe food intolerances.'
 categoria: experienciasPrivadas
 keywords:
 - private picnic madrid
 - gourmet picnic madrid
 - chic picnic experience madrid
-imagen: "https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg"
+imagen: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
 imagenAlt: Gourmet picnic table set up at a discreet spot in Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg

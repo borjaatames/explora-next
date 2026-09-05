@@ -1,8 +1,8 @@
 ---
-titulo: "Vistas panorámicas exclusivas en tuk-tuk"
+titulo: Vistas panorámicas exclusivas en tuk-tuk
 slug: tuk-tuk-vistas-panoramicas-exclusivas-madrid
 ciudad: madrid
-descripcion: "Tour privado en tuk-tuk de 2 horas por Madrid: Gran Vía, Palacio Real, barrio de Salamanca y calles empedradas de La Latina. Precio por tuk-tuk."
+descripcion: 'Tour privado en tuk-tuk de 2 horas por Madrid: Gran Vía, Palacio Real, barrio de Salamanca y calles empedradas de La Latina. Precio por tuk-tuk.'
 slugs:
   es: tuk-tuk-vistas-panoramicas-exclusivas-madrid
   en: exclusive-panoramic-tuk-tuk-tour-madrid
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1022798
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -23,7 +23,7 @@ highlights:
 - Pasa por Gran Vía, el Palacio Real y el elegante barrio de Salamanca
 - Accede a calles estrechas y empedradas de La Latina que los autobuses no alcanzan
 - Conductor cercano que va contando anécdotas curiosas de la ciudad
-- Precio por tuk-tuk: ideal para viajar en grupo o en familia
+- 'Precio por tuk-tuk: ideal para viajar en grupo o en familia'
 incluye:
 - Entrada/admisión
 - Transporte privado en tuk-tuk durante todo el recorrido
@@ -44,14 +44,14 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 3
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación)."
-opinionEditorial: "El tuk-tuk es una forma ágil de ver mucho Madrid en poco tiempo, pero no es un tour a pie: no esperéis paradas largas ni explicaciones profundas de cada monumento. Funciona muy bien si vais en grupo y queréis repartir el coste entre varios, o si alguien del grupo tiene dificultad para caminar largas distancias pero no usa silla de ruedas."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+opinionEditorial: 'El tuk-tuk es una forma ágil de ver mucho Madrid en poco tiempo, pero no es un tour a pie: no esperéis paradas largas ni explicaciones profundas de cada monumento. Funciona muy bien si vais en grupo y queréis repartir el coste entre varios, o si alguien del grupo tiene dificultad para caminar largas distancias pero no usa silla de ruedas.'
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk madrid
 - tour panorámico madrid
 - tuk tuk privado madrid
-imagen: "https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg"
+imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
 imagenAlt: Tuk-tuk turístico frente a un monumento icónico de Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg

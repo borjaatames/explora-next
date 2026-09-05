@@ -1,8 +1,8 @@
 ---
-titulo: "Tuk-tuk panorámico puerta a puerta"
+titulo: Tuk-tuk panorámico puerta a puerta
 slug: tuk-tuk-panoramico-puerta-a-puerta-madrid
 ciudad: madrid
-descripcion: "Tuk-tuk eléctrico de lujo con recogida puerta a puerta en tu hotel o alojamiento en Madrid. Guía multilingüe y duración flexible desde 1 hora."
+descripcion: Tuk-tuk eléctrico de lujo con recogida puerta a puerta en tu hotel o alojamiento en Madrid. Guía multilingüe y duración flexible desde 1 hora.
 slugs:
   es: tuk-tuk-panoramico-puerta-a-puerta-madrid
   en: panoramic-tuk-tuk-door-to-door-madrid
@@ -16,7 +16,7 @@ idiomas:
 - es
 proveedor: bokun
 bokunProductId: 1144219
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -24,7 +24,7 @@ highlights:
 - Tuk-tuks eléctricos de última generación, silenciosos y sostenibles
 - Acceso a calles estrechas y rincones históricos donde no llegan otros vehículos
 - Guía multilingüe (francés, inglés, español) que adapta el ritmo al grupo
-- Duración flexible: desde tours express hasta experiencias de lujo de varias horas
+- 'Duración flexible: desde tours express hasta experiencias de lujo de varias horas'
 incluye:
 - Transporte privado en tuk-tuk eléctrico con recogida puerta a puerta
 noIncluye:
@@ -44,14 +44,14 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 3
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación)."
-opinionEditorial: "La recogida puerta a puerta es el gran punto a favor frente a otros tuk-tuks de Madrid: no tenéis que desplazaros a ningún punto de encuentro. En una hora da tiempo a un buen resumen visual de la ciudad desde el hotel, pero si buscáis parar y explorar a pie con calma, mejor combinarlo con otra actividad o alargar la duración al reservar."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+opinionEditorial: 'La recogida puerta a puerta es el gran punto a favor frente a otros tuk-tuks de Madrid: no tenéis que desplazaros a ningún punto de encuentro. En una hora da tiempo a un buen resumen visual de la ciudad desde el hotel, pero si buscáis parar y explorar a pie con calma, mejor combinarlo con otra actividad o alargar la duración al reservar.'
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk puerta a puerta madrid
 - tuk tuk eléctrico madrid
 - tour privado tuk tuk madrid
-imagen: "https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg"
+imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
 imagenAlt: Tuk-tuk eléctrico de lujo recogiendo a viajeros en su alojamiento en Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg

@@ -1,8 +1,8 @@
 ---
-titulo: "Madrid Pub Crawl: Club Entry, Bars & Shots"
+titulo: 'Madrid Pub Crawl: Club Entry, Bars & Shots'
 slug: madrid-pub-crawl-bars-club-shots
 ciudad: madrid
-descripcion: "Madrid pub crawl through 3 bars and a nightclub in the city centre, with a free shot at every stop and tips included. Free cancellation up to 24h before."
+descripcion: Madrid pub crawl through 3 bars and a nightclub in the city centre, with a free shot at every stop and tips included. Free cancellation up to 24h before.
 slugs:
   es: pub-crawl-madrid-bares-chupitos
   en: madrid-pub-crawl-bars-club-shots
@@ -20,11 +20,11 @@ idiomas:
 proveedor: bokun
 bokunProductId: 544197
 numeroOpiniones: 2897
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- 5-hour route through 4 venues in central Madrid: 3 bars/pubs and one big nightclub
+- '5-hour route through 4 venues in central Madrid: 3 bars/pubs and one big nightclub'
 - A free welcome shot at each of the 4 venues
 - Tips already included in the price, no last-minute surprises
 - Drink discounts at central Madrid nightclubs for members of the crawl
@@ -43,23 +43,23 @@ informacionImportante:
   - Adults only, 18+
   - Not suitable for wheelchairs or strollers, and pets aren't allowed
   - Not recommended if you have back or heart problems, or are pregnant
-  - Dress code enforced: no sportswear, and men can't wear sandals or shorts
+  - 'Dress code enforced: no sportswear, and men can''t wear sandals or shorts'
   - Tickets are exchanged for wristbands at the meeting point
   - Venues on the route can vary by day of the week
-  - Direct operator contact for questions: info@pubcrawl.madrid
+  - 'Direct operator contact for questions: info@pubcrawl.madrid'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
-opinionEditorial: "Compared to our other Madrid pub crawl, this is the more flexible option: free cancellation up to 24h before and a guide in six languages, a good pick for international groups. It has one venue fewer (4 instead of 5), and the dress code is stricter — no sportswear, and no sandals or shorts for the guys."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+opinionEditorial: 'Compared to our other Madrid pub crawl, this is the more flexible option: free cancellation up to 24h before and a guide in six languages, a good pick for international groups. It has one venue fewer (4 instead of 5), and the dress code is stricter — no sportswear, and no sandals or shorts for the guys.'
 categoria: espectaculos
 keywords:
 - madrid pub crawl bars
 - madrid bar crawl
 - madrid nightlife tour
-imagen: "https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg"
+imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
 imagenAlt: Pub crawl through bars and a nightclub in central Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg

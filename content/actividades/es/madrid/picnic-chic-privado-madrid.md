@@ -1,8 +1,8 @@
 ---
-titulo: "Picnic chic privado en Madrid"
+titulo: Picnic chic privado en Madrid
 slug: picnic-chic-privado-madrid
 ciudad: madrid
-descripcion: "Picnic gourmet privado en una ubicación secreta de Madrid: jamón Reserva Serrano, quesos artesanales y espumoso 0,0%. El equipo lo monta y recoge todo."
+descripcion: 'Picnic gourmet privado en una ubicación secreta de Madrid: jamón Reserva Serrano, quesos artesanales y espumoso 0,0%. El equipo lo monta y recoge todo.'
 slugs:
   es: picnic-chic-privado-madrid
   en: private-chic-picnic-experience-madrid
@@ -15,14 +15,14 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1183282
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 12
 highlights:
 - Picnic gourmet privado de 2 horas en un rincón discreto de Madrid
 - Selección de Jamón Reserva Serrano, quesos artesanales y delicias españolas
 - Maridaje con espumosos sin alcohol (0,0%) de primera calidad
-- El equipo monta y recoge todo: tú solo tienes que llegar
+- 'El equipo monta y recoge todo: tú solo tienes que llegar'
 - Precio por persona; grupo a confirmar al reservar
 incluye:
 - 'Comida completa: jamón Reserva Serrano, quesos artesanales y delicias españolas auténticas'
@@ -43,14 +43,14 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 3
-politicaCancelacion: "Cancelación gratuita hasta 12 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación)."
-opinionEditorial: "Es la opción más relajada de este grupo de experiencias: menos 'turística' y más pensada para una tarde tranquila en pareja o con amigos. La localización sorpresa forma parte de la propuesta, así que no es para quien necesite controlar exactamente dónde va a estar de antemano. El menú (jamón, quesos, espumoso sin alcohol) es de gama alta y funciona también para quien no bebe, aunque no es buena opción si hay intolerancias alimenticias severas en el grupo."
+politicaCancelacion: Cancelación gratuita hasta 12 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+opinionEditorial: 'Es la opción más relajada de este grupo de experiencias: menos ''turística'' y más pensada para una tarde tranquila en pareja o con amigos. La localización sorpresa forma parte de la propuesta, así que no es para quien necesite controlar exactamente dónde va a estar de antemano. El menú (jamón, quesos, espumoso sin alcohol) es de gama alta y funciona también para quien no bebe, aunque no es buena opción si hay intolerancias alimenticias severas en el grupo.'
 categoria: experienciasPrivadas
 keywords:
 - picnic privado madrid
 - picnic gourmet madrid
 - experiencia picnic chic madrid
-imagen: "https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg"
+imagen: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
 imagenAlt: Mesa de picnic gourmet montada en un rincón discreto de Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg

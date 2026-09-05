@@ -1,14 +1,14 @@
 ---
-titulo: "Tour autoguiado por Córdoba con app DareMapp"
+titulo: Tour autoguiado por Córdoba con app DareMapp
 slug: tour-autoguiado-daremapp-cordoba
 ciudad: cordoba
-descripcion: "Audioguía autoguiada por Córdoba vía app DareMapp: sin guía físico, a tu ritmo, disponible 24/7/365. Código de acceso tras la compra. Desde 10.00 EUR."
+descripcion: 'Audioguía autoguiada por Córdoba vía app DareMapp: sin guía físico, a tu ritmo, disponible 24/7/365. Código de acceso tras la compra. Desde 10.00 EUR.'
 slugs:
   es: tour-autoguiado-daremapp-cordoba
   en: self-guided-tour-daremapp-cordoba
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 10.00
+precioDesde: 10.0
 moneda: EUR
 idiomas:
 - es
@@ -19,15 +19,15 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1140217
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorrido autoguiado por Córdoba a tu propio ritmo, sin horarios ni grupos
 - Acceso mediante la app DareMapp con tu código de referencia, disponible 24 horas al día los 365 días del año
 - Elige las paradas que quieras entre +25 puntos de interés, como la Mezquita-Catedral, el Palacio de Viana y la Plaza de las Tendillas
-- Audioguía en 6 idiomas: español, inglés, portugués, francés, italiano y alemán
-- El acceso no caduca: actívalo cuando quieras, sin fecha límite
+- 'Audioguía en 6 idiomas: español, inglés, portugués, francés, italiano y alemán'
+- 'El acceso no caduca: actívalo cuando quieras, sin fecha límite'
 incluye:
 - Acceso a la ruta autoguiada por Córdoba a través de la app DareMapp, con código de referencia enviado tras la compra
 - Audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán)
@@ -39,10 +39,10 @@ noIncluye:
 - Transporte hasta el punto de inicio de la ruta
 - Entradas a monumentos o museos del recorrido (donde aplique)
 puntoEncuentro:
-  texto: "Sin punto de encuentro físico: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Córdoba."
+  texto: 'Sin punto de encuentro físico: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Córdoba.'
 informacionImportante:
   aTenerEnCuenta:
-  - Apto para toda la familia: edad mínima 1 año
+  - 'Apto para toda la familia: edad mínima 1 año'
   - Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; la judería tiene calles estrechas y empedradas
   - Se permiten animales de servicio
   - Buena conexión con el transporte público en los puntos de la ruta
@@ -52,26 +52,26 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Córdoba tiene un centro histórico denso —Mezquita-Catedral, judería, Puente Romano— y el formato autoguiado permite quedarte el tiempo que quieras en cada rincón, sin depender del ritmo de un grupo. Con 2 rutas (la esencial y otras joyas de la ciudad) cubre bien tanto lo imprescindible como lo menos evidente. Eso sí, la entrada a la Mezquita-Catedral no está incluida y hay que sacarla aparte."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
+opinionEditorial: Córdoba tiene un centro histórico denso —Mezquita-Catedral, judería, Puente Romano— y el formato autoguiado permite quedarte el tiempo que quieras en cada rincón, sin depender del ritmo de un grupo. Con 2 rutas (la esencial y otras joyas de la ciudad) cubre bien tanto lo imprescindible como lo menos evidente. Eso sí, la entrada a la Mezquita-Catedral no está incluida y hay que sacarla aparte.
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado córdoba
 - audioguía app córdoba
 - visita autoguiada córdoba
-imagen: "https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg"
-imagenAlt: "Tour autoguiado por Córdoba con la app DareMapp"
+imagen: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
+imagenAlt: Tour autoguiado por Córdoba con la app DareMapp
 galeria:
 - src: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
-  alt: "Calles del casco histórico de Córdoba en el tour autoguiado DareMapp"
+  alt: Calles del casco histórico de Córdoba en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/61a42a1d-00c2-41a5-bf31-48655ee118c8.jpg
-  alt: "La Mezquita-Catedral durante el recorrido autoguiado por Córdoba"
+  alt: La Mezquita-Catedral durante el recorrido autoguiado por Córdoba
 - src: https://imgcdn.bokun.tools/8642abdc-b6fc-49bb-9bae-56a4f3a1c5f0.jpg
-  alt: "El Palacio de Viana durante el recorrido autoguiado por Córdoba"
+  alt: El Palacio de Viana durante el recorrido autoguiado por Córdoba
 - src: https://imgcdn.bokun.tools/3cfafc16-2bd3-41b5-9a2d-b503290e5dab.jpg
-  alt: "La Plaza de las Tendillas durante el recorrido autoguiado por Córdoba"
+  alt: La Plaza de las Tendillas durante el recorrido autoguiado por Córdoba
 - src: https://imgcdn.bokun.tools/134753c5-3aab-4ba0-812c-901d18ec2b17.jpg
-  alt: "El Puente Romano durante el recorrido autoguiado por Córdoba"
+  alt: El Puente Romano durante el recorrido autoguiado por Córdoba
 publicada: true
 destacada: false
 fecha: '2026-09-05'

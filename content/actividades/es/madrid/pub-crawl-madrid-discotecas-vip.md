@@ -1,8 +1,8 @@
 ---
-titulo: "Pub Crawl Madrid: discotecas VIP y chupitos gratis"
+titulo: 'Pub Crawl Madrid: discotecas VIP y chupitos gratis'
 slug: pub-crawl-madrid-discotecas-vip
 ciudad: madrid
-descripcion: "Pub crawl guiado por 5 de las discotecas más animadas de Madrid, con entrada VIP, bebida de bienvenida y chupito gratis en cada parada. Solo mayores de 18 años."
+descripcion: Pub crawl guiado por 5 de las discotecas más animadas de Madrid, con entrada VIP, bebida de bienvenida y chupito gratis en cada parada. Solo mayores de 18 años.
 slugs:
   es: pub-crawl-madrid-discotecas-vip
   en: madrid-pub-crawl-guided-club-entry
@@ -16,7 +16,7 @@ idiomas:
 proveedor: bokun
 bokunProductId: 1109016
 numeroOpiniones: 3077
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: false
 highlights:
 - Ruta guiada de 4 horas por 5 de los locales más animados del centro de Madrid
@@ -40,19 +40,19 @@ informacionImportante:
   - Imprescindible llevar pasaporte o DNI en vigor para acceder a los locales
   - El punto de encuentro se comunica por chat o email después de reservar
   - Los locales de la ruta pueden variar según el día de la semana (Icon Club los jueves, Moondance viernes y sábados, Shoko los lunes)
-  - Venta final: no se admite cancelación ni cambio de fecha una vez confirmada la reserva
+  - 'Venta final: no se admite cancelación ni cambio de fecha una vez confirmada la reserva'
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 18
-politicaCancelacion: "Esta actividad no admite cancelación ni reembolso una vez confirmada la reserva."
-opinionEditorial: "Esta es la versión con más locales de las dos rutas de pub crawl que tenemos en Madrid: cinco paradas con entrada VIP, frente a las cuatro de la otra opción, en discotecas populares como Icon Club o Shoko. A cambio es venta final, sin posibilidad de cancelar ni cambiar de fecha, y el guía solo habla inglés y español. Solo la recomiendo si tienes clarísimo que vas a poder ir esa noche."
+politicaCancelacion: Esta actividad no admite cancelación ni reembolso una vez confirmada la reserva.
+opinionEditorial: 'Esta es la versión con más locales de las dos rutas de pub crawl que tenemos en Madrid: cinco paradas con entrada VIP, frente a las cuatro de la otra opción, en discotecas populares como Icon Club o Shoko. A cambio es venta final, sin posibilidad de cancelar ni cambiar de fecha, y el guía solo habla inglés y español. Solo la recomiendo si tienes clarísimo que vas a poder ir esa noche.'
 categoria: espectaculos
 keywords:
 - pub crawl madrid
 - discotecas madrid
 - fiesta nocturna madrid
-imagen: "https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg"
+imagen: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg
 imagenAlt: Pub crawl con entrada VIP a discotecas de Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg

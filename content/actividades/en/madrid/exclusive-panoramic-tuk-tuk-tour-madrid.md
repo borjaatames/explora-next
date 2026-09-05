@@ -1,8 +1,8 @@
 ---
-titulo: "Exclusive Panoramic Views in Tuk Tuk"
+titulo: Exclusive Panoramic Views in Tuk Tuk
 slug: exclusive-panoramic-tuk-tuk-tour-madrid
 ciudad: madrid
-descripcion: "Private 2-hour tuk-tuk tour through Madrid: Gran Vía, the Royal Palace, the Salamanca district and the cobbled streets of La Latina. Price per tuk-tuk."
+descripcion: 'Private 2-hour tuk-tuk tour through Madrid: Gran Vía, the Royal Palace, the Salamanca district and the cobbled streets of La Latina. Price per tuk-tuk.'
 slugs:
   es: tuk-tuk-vistas-panoramicas-exclusivas-madrid
   en: exclusive-panoramic-tuk-tuk-tour-madrid
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1022798
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -23,7 +23,7 @@ highlights:
 - Passes Gran Vía, the Royal Palace and the elegant Salamanca district
 - Reaches narrow, cobbled streets in La Latina that buses can't access
 - Friendly driver who shares curious stories about the city along the way
-- Priced per tuk-tuk: great value when traveling as a group or family
+- 'Priced per tuk-tuk: great value when traveling as a group or family'
 incluye:
 - Admission
 - Private transport by tuk-tuk for the whole route
@@ -44,14 +44,14 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 3
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice)."
-opinionEditorial: "A tuk-tuk is a quick way to see a lot of Madrid in a short time, but it isn't a walking tour: don't expect long stops or in-depth explanations at every landmark. It works well if you're traveling as a group and want to split the cost, or if someone in your party struggles with long walks but doesn't use a wheelchair."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
+opinionEditorial: 'A tuk-tuk is a quick way to see a lot of Madrid in a short time, but it isn''t a walking tour: don''t expect long stops or in-depth explanations at every landmark. It works well if you''re traveling as a group and want to split the cost, or if someone in your party struggles with long walks but doesn''t use a wheelchair.'
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk madrid
 - madrid panoramic tour
 - private tuk tuk madrid
-imagen: "https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg"
+imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
 imagenAlt: Sightseeing tuk-tuk parked in front of an iconic Madrid landmark
 galeria:
 - src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
