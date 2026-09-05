@@ -53,8 +53,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
 imagenAlt: Gourmet picnic table set up at a discreet spot in Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
-  alt: Gourmet picnic table set up at a discreet spot in Madrid
 - src: https://imgcdn.bokun.tools/35d99623-943d-4e85-978a-6daa27b6ca1e.jpg
   alt: Selection of Reserva Serrano ham and artisan cheeses for the picnic
 - src: https://imgcdn.bokun.tools/c3cdf5fc-6479-473c-9726-df26b823e480.jpg

@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
 imagenAlt: Tour autoguiado por Bilbao con la app DareMapp
 galeria:
-- src: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
-  alt: Calles del casco histórico de Bilbao en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/25dbdd4f-a9bb-499f-a6b7-47fbbbe6a63a.jpg
   alt: El Museo Guggenheim durante el recorrido autoguiado por Bilbao
 - src: https://imgcdn.bokun.tools/8895c2a4-97ef-43c4-84ee-871908848302.jpg

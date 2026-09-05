@@ -177,8 +177,6 @@ galeria:
 - src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-galeria-arte-hero.webp
   alt: Interior del Palau Dalmases en Barcelona con obras de arte en paredes de piedra, esculturas y techos arcos barrocos
     iluminados
-- src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp
-  alt: Copa de bebida en mesa de tablao Barcelona con público disfrutando del show en venue histórico y elegante
 - src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-detalle-arqu-hero.webp
   alt: Interior barroco de Barcelona con columnas, arcos y molduras ornamentadas del siglo XVII, techo decorado y paredes
     con patina histórica

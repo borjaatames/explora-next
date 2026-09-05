@@ -176,8 +176,6 @@ galeria:
 - src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-galeria-arte-hero.webp
   alt: Baroque gallery in Barcelona's Palau Dalmases with artworks on stone walls, sculptures, and ornate arched ceilings
     with dramatic lighting
-- src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp
-  alt: Glass of sparkling wine at intimate Barcelona flamenco venue with audience enjoying live performance
 - src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-detalle-arqu-hero.webp
   alt: Ornate Baroque interior with fluted columns, curved arches, decorative moldings, and embellished ceiling in Barcelona
 ratingProveedor: 4.6

@@ -111,9 +111,6 @@ imagenAlt: "Archivo General de Indias de Sevilla — fachada renacentista del s.
 galeria:
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "Archivo General de Indias — Patrimonio UNESCO desde 1987"
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro junto al río Guadalquivir — museo naval de Sevilla"
-
 ratingProveedor: 5.0
 numeroOpiniones: 3
 

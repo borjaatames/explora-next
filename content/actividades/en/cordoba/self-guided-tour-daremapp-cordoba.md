@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
 imagenAlt: Self-guided Córdoba tour with the DareMapp app
 galeria:
-- src: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
-  alt: Historic streets of Córdoba on the DareMapp self-guided tour
 - src: https://imgcdn.bokun.tools/61a42a1d-00c2-41a5-bf31-48655ee118c8.jpg
   alt: The Mosque-Cathedral on the self-guided Córdoba route
 - src: https://imgcdn.bokun.tools/8642abdc-b6fc-49bb-9bae-56a4f3a1c5f0.jpg

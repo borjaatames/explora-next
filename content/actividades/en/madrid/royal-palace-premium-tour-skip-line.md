@@ -121,8 +121,6 @@ galeria:
   alt: Royal Palace of Madrid with equestrian statue in front courtyard
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero-hero.webp
   alt: Royal Palace Madrid dining room with ornate gold décor and crystal chandeliers
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp
-  alt: Exterior view of Madrid's Royal Palace with neoclassical architecture
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
   alt: Neoclassical architecture of Madrid's Royal Palace
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092793-hero-hero.webp

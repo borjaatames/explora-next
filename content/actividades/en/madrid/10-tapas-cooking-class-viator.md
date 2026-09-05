@@ -97,11 +97,8 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Traditional Spanish tapas: croquetas and Iberian ham"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Spanish tapas — croquetas and ham"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
     alt: "Olives, part of the tapas repertoire"
-
 ratingProveedor: 4.8
 numeroOpiniones: 145
 

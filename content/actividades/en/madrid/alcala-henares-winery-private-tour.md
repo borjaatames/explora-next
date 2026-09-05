@@ -128,8 +128,6 @@ galeria:
   alt: Madrid cityscape with historic architecture and urban skyline
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
   alt: Winery in the Madrid region, part of the Alcalá de Henares tour
-- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
-  alt: Winery in the Madrid region, part of the Alcalá de Henares tour
 ratingProveedor: 4.1
 numeroOpiniones: 16
 publicada: true

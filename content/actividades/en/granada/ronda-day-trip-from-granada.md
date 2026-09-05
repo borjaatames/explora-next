@@ -111,9 +111,6 @@ imagenAlt: Puente Nuevo spanning dramatic Tajo gorge with limestone cliffs in Ro
 galeria:
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
   alt: White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp
-  alt: Cobblestone streets in historic Ronda with whitewashed facades, wrought-iron balconies, and traditional Andalusian
-    architecture
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
   alt: Puente Nuevo de Ronda arco de piedra con geometría estructural vista desde abajo
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp

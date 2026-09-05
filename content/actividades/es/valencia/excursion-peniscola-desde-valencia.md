@@ -44,8 +44,6 @@ keywords:
 imagen: "/images/actividades/valencia/peniscola/excursion-peniscola-desde-valencia-hero.webp"
 imagenAlt: El casco antiguo amurallado y el castillo de Peñíscola sobre el mar
 galeria:
-- src: /images/actividades/valencia/peniscola/excursion-peniscola-desde-valencia-hero.webp
-  alt: El casco antiguo amurallado y el castillo de Peñíscola sobre el mar
 publicada: false
 destacada: false
 fecha: '2026-06-18'

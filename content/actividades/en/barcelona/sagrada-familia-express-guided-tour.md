@@ -136,8 +136,6 @@ galeria:
   alt: Colorful stained glass windows at Sagrada Familia basilica in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Sagrada Família basilica with intricate stone facade and soaring spires in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
-  alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona
 ---
 
 ## What you'll see

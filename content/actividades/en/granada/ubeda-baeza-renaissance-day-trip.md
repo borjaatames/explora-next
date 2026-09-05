@@ -105,8 +105,6 @@ imagenAlt: Renaissance square with Salvador Chapel and palatial architecture fro
 galeria:
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp
   alt: Renaissance cathedral interior with ornate stone arches and religious architectural details from Andalusian period
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp
-  alt: Historic cobblestone street in Baeza with Renaissance stone facades and traditional Andalusian balconies
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-palacio-renacentista-ubeda-03-hero.webp
   alt: Renaissance palace facade in Ubeda with ornamental stonework, monumental entrance, and classical columns
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-vista-panoramica-ciudad-ubeda-04-hero.webp

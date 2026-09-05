@@ -54,8 +54,6 @@ keywords:
 imagen: "/images/actividades/gran-canaria/este/gran-canaria-este-hero.webp"
 imagenAlt: Landscape of eastern Gran Canaria
 galeria:
-- src: /images/actividades/gran-canaria/este/gran-canaria-este-hero.webp
-  alt: Landscape of eastern Gran Canaria
 publicada: false
 destacada: false
 fecha: '2026-06-18'

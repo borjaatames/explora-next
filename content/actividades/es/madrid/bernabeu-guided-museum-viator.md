@@ -107,8 +107,6 @@ keywords:
 imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
 imagenAlt: Vistas panorámicas de Madrid con edificios históricos y modernos bajo cielo despejado
 galeria:
-- src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
-  alt: Estadio Santiago Bernabéu del Real Madrid
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-5-hero.webp
   alt: Vista aérea de Madrid con edificios históricos y calles del centro urbano
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp

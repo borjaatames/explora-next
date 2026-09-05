@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
 imagenAlt: Self-guided Barcelona tour with the DareMapp app
 galeria:
-- src: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
-  alt: Historic streets of Barcelona on the DareMapp self-guided tour
 - src: https://imgcdn.bokun.tools/207918b5-2342-4b45-8936-47f5a828b573.jpg
   alt: The Sagrada Familia on the self-guided Barcelona route
 - src: https://imgcdn.bokun.tools/dc4be5d3-0d80-40ad-902b-dee0c81ad582.jpg

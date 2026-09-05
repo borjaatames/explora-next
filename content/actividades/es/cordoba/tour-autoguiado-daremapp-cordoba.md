@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
 imagenAlt: Tour autoguiado por Córdoba con la app DareMapp
 galeria:
-- src: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
-  alt: Calles del casco histórico de Córdoba en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/61a42a1d-00c2-41a5-bf31-48655ee118c8.jpg
   alt: La Mezquita-Catedral durante el recorrido autoguiado por Córdoba
 - src: https://imgcdn.bokun.tools/8642abdc-b6fc-49bb-9bae-56a4f3a1c5f0.jpg

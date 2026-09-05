@@ -138,8 +138,6 @@ galeria:
   alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz multicolor reflejada
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
-  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con diseños geométricos y luz vibrante
 ---
 
 ## Qué vas a ver

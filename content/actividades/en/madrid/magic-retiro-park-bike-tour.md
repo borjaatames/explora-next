@@ -100,9 +100,6 @@ imagenAlt: "Crystal Palace in Madrid's Retiro Park"
 galeria:
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
     alt: "Crystal Palace of Retiro Park"
-  - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
-    alt: "Retiro's Crystal Palace at dusk"
-
 ratingProveedor: 4.8
 numeroOpiniones: 73
 

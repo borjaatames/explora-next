@@ -118,8 +118,6 @@ keywords:
 imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
 imagenAlt: Equestrian statue in front of Madrid's Royal Palace main facade
 galeria:
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
-  alt: Façade of Madrid's Royal Palace by day with tourists on the esplanade
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-03-hero-hero.webp
   alt: Royal Palace of Madrid exterior facade with classical architecture and manicured gardens
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp

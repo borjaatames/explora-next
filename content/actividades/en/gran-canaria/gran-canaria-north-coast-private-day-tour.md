@@ -55,8 +55,6 @@ keywords:
 imagen: "/images/actividades/gran-canaria/norte/gran-canaria-norte-hero.webp"
 imagenAlt: North coast of Gran Canaria
 galeria:
-- src: /images/actividades/gran-canaria/norte/gran-canaria-norte-hero.webp
-  alt: North coast of Gran Canaria
 publicada: false
 destacada: false
 fecha: '2026-06-18'

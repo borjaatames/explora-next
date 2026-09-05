@@ -172,8 +172,6 @@ galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-poble-espanyol-hero.webp
   alt: Exterior courtyard of Poble Espanyol Barcelona displaying traditional Andalusian architecture with whitewashed buildings
     and ornate doorways
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-carmen-amaya-h-hero.webp
-  alt: Ornamental plaque honoring Carmen Amaya at Barcelona flamenco tablao, established 1988
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true

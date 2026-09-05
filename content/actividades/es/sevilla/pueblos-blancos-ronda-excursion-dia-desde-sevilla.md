@@ -153,9 +153,6 @@ keywords:
 imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
 imagenAlt: Puente Nuevo de Ronda con tres arcos de piedra sobre el profundo desfiladero del Tajo, monumento icónico de Andalucía.
 galeria:
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
-  alt: Casas blancas construidas bajo acantilados rocosos en Setenil de las Bodegas, Sevilla, donde la roca natural forma
-    los techos
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: Zahara de la Sierra con casas blancas, castillo nazarí en la cumbre y embalse al fondo en la provincia de Sevilla
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp

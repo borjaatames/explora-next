@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
 imagenAlt: Self-guided Cádiz tour with the DareMapp app
 galeria:
-- src: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
-  alt: Historic streets of Cádiz on the DareMapp self-guided tour
 - src: https://imgcdn.bokun.tools/11616e1c-19cc-4476-9c19-5854cde71b6c.jpg
   alt: The Parroquia de la Santa Cruz on the self-guided Cádiz route
 - src: https://imgcdn.bokun.tools/3f91f493-17cf-40cf-aabc-c06784e82871.jpg

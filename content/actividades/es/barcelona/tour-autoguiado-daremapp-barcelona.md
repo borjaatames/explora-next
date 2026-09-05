@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
 imagenAlt: Tour autoguiado por Barcelona con la app DareMapp
 galeria:
-- src: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
-  alt: Calles del casco histórico de Barcelona en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/207918b5-2342-4b45-8936-47f5a828b573.jpg
   alt: La Sagrada Familia durante el recorrido autoguiado por Barcelona
 - src: https://imgcdn.bokun.tools/dc4be5d3-0d80-40ad-902b-dee0c81ad582.jpg

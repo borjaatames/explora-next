@@ -162,9 +162,6 @@ galeria:
     an overlaid Christian bell tower, prominent urban landmark.
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
   alt: Historic Córdoba Synagogue interior with Hebrew architectural details and medieval decorative elements
-- src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp
-  alt: Panoramic view of Cordoba skyline featuring the Mosque-Cathedral, Guadalquivir River, and medieval urban layout from
-    a distant viewpoint.
 ratingProveedor: 4.3
 numeroOpiniones: 280
 publicada: true

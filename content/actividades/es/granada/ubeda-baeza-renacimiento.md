@@ -106,8 +106,6 @@ galeria:
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp
   alt: Interior de la Catedral de Baeza con columnas renacentistas y bóvedas de crucería características del Renacimiento
     andaluz
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp
-  alt: Calle empedrada de Baeza con fachadas renacentistas de piedra, palacios señoriales y balconadas andaluzas tradicionales
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-palacio-renacentista-ubeda-03-hero.webp
   alt: Fachada renacentista con portada monumental, columnas ornamentadas y detalles arquitectónicos en piedra
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-vista-panoramica-ciudad-ubeda-04-hero.webp

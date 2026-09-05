@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg"
 imagenAlt: Tour autoguiado DareMapp por Sevilla
 galeria:
-- src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: Tour autoguiado DareMapp por Sevilla (Bokun)
 - src: https://imgcdn.bokun.tools/9e07992a-5c47-4ee9-b4ce-3702171c1317.jpg
   alt: Tour autoguiado DareMapp por Sevilla (Bokun)
 - src: https://imgcdn.bokun.tools/d2a6e8cd-b7f8-43cf-b560-55f13de3a846.jpg

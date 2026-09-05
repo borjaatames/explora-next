@@ -75,8 +75,6 @@ galeria:
   alt: Exclusive private sailing in Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/db9cad39-dffb-4d0f-9d30-b192ba6f1e36.jpg
   alt: Exclusive private sailing in Barcelona (Bokun)
-- src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
-  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
   alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp

@@ -117,9 +117,6 @@ imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-f
 imagenAlt: "Gothic facade of Seville Cathedral with the Giralda bell tower"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Seville Cathedral and Giralda exterior facade"
-
 ratingProveedor: 4.5
 numeroOpiniones: 2362
 

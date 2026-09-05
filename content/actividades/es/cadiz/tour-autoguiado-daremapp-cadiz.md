@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
 imagenAlt: Tour autoguiado por Cádiz con la app DareMapp
 galeria:
-- src: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
-  alt: Calles del casco histórico de Cádiz en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/11616e1c-19cc-4476-9c19-5854cde71b6c.jpg
   alt: La Parroquia de la Santa Cruz durante el recorrido autoguiado por Cádiz
 - src: https://imgcdn.bokun.tools/3f91f493-17cf-40cf-aabc-c06784e82871.jpg

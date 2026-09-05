@@ -170,8 +170,6 @@ galeria:
   alt: Professional theater performance in Barcelona with audience seated and live performers on illuminated stage
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-guitarrista-flam-hero.webp
   alt: Flamenco guitarist's hands on acoustic guitar demonstrating technical skill and traditional passion in Barcelona
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp
-  alt: Male flamenco dancer in dynamic movement, captured mid-stomp with powerful posture showcasing technique and vigor
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
   alt: Plaça de Catalunya at sunset with City Hall Theatre illuminated, central Barcelona landmark
 ratingProveedor: 4.5

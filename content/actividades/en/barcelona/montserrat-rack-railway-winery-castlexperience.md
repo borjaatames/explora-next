@@ -130,8 +130,6 @@ galeria:
   alt: Montserrat mountain range with dramatic rocky peaks and monastery nestled among cliffs near Barcelona
 - src: /images/guias/barcelona-en-1-dia.jpg
   alt: Rack railway climbing to Montserrat with the Oller del Mas winery in the background
-- src: /images/guias/barcelona-en-1-dia.jpg
-  alt: Rack railway climbing to Montserrat with the Oller del Mas winery in the background
 ratingProveedor: 4.8
 numeroOpiniones: 6154
 publicada: true

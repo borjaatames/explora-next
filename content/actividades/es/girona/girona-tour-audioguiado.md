@@ -41,8 +41,6 @@ imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Catedral de Girona al final de su escalinata monumental"
 
 galeria:
-  - src: "/images/actividades/girona/ciudades/girona-hero.webp"
-    alt: "Catedral de Girona al final de su escalinata monumental"
 publicada: false
 destacada: false
 fecha: "2026-05-21"

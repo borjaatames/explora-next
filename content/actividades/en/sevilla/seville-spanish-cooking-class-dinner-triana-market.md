@@ -106,9 +106,6 @@ imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-en
 imagenAlt: "Triana bridge — location of the Triana Market where the cooking class takes place"
 
 galeria:
-  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-    alt: "Triana neighbourhood — home to the cooking class venue"
-
 ratingProveedor: 4.9
 numeroOpiniones: 975
 

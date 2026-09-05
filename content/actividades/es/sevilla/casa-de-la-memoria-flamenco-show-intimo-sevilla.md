@@ -157,8 +157,6 @@ imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sev
 imagenAlt: Escenario flamenco en patio andaluz de Sevilla con dos filas de asientos cercanos, artistas y público a 2-3 metros
   de distancia
 galeria:
-- src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp
-  alt: Patio andaluz con columnas y arcos de piedra del siglo XV, azulejos tradicionales sevillanos en muros históricos.
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
   alt: Público en primera fila del escenario en Sevilla, rostros concentrados disfrutando del directo de los artistas
 ratingProveedor: 4.8

@@ -117,8 +117,6 @@ keywords:
 imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp"
 imagenAlt: Wanda Metropolitano stadium exterior view in Madrid, Spain
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp
-  alt: Wanda Metropolitano stadium exterior view, Madrid
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
   alt: Wanda Metropolitano stadium in Madrid with distinctive red and white striped exterior architecture
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp

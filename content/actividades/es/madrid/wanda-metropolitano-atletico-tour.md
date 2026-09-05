@@ -120,8 +120,6 @@ keywords:
 imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp"
 imagenAlt: Estadio Wanda Metropolitano de Madrid, vista frontal de la fachada principal
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp
-  alt: Estadio Wanda Metropolitano de Madrid, vista exterior de la estructura arquitectónica
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
   alt: Estadio Wanda Metropolitano de Madrid, vista exterior con estructura moderna y fachada característica
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp

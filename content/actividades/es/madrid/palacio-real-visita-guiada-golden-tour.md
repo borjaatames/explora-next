@@ -124,8 +124,6 @@ galeria:
   alt: Fachada principal del Palacio Real de Madrid con arquitectura neoclásica y banderas españolas
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero-hero.webp
   alt: Palacio Real de Madrid con fachada blanca bajo cielo azul despejado
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
-  alt: Arquitectura neoclásica del Palacio Real de Madrid
 ratingProveedor: 4.8
 numeroOpiniones: 4060
 publicada: true

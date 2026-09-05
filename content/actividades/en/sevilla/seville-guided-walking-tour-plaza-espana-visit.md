@@ -107,9 +107,6 @@ imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-
 imagenAlt: "Plaza de España of Seville with its two towers and navigable canal — final destination of the tour"
 
 galeria:
-  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
-    alt: "Plaza de España of Seville — central pavilion and canal with rowing boats"
-
 ratingProveedor: 4.8
 numeroOpiniones: 35
 

@@ -43,8 +43,6 @@ keywords:
 imagen: "/images/actividades/valencia/montanejos/excursion-montanejos-fuentes-termales-salto-novia-hero.webp"
 imagenAlt: The Waterfall of the Bride in Montanejos, Castellón
 galeria:
-- src: /images/actividades/valencia/montanejos/excursion-montanejos-fuentes-termales-salto-novia-hero.webp
-  alt: The Waterfall of the Bride in Montanejos, Castellón
 publicada: false
 destacada: false
 fecha: '2026-06-18'

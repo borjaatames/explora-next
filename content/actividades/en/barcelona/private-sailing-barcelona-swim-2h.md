@@ -74,8 +74,6 @@ galeria:
   alt: Private sailing in Barcelona with a swim (Bokun)
 - src: https://imgcdn.bokun.tools/8b948181-0930-4854-8d9f-4ee17e682a17.jpg
   alt: Private sailing in Barcelona with a swim (Bokun)
-- src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
-  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
   alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp

@@ -151,8 +151,6 @@ keywords:
 imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
 imagenAlt: Puente Nuevo of Ronda spanning deep Tajo gorge with three stone arches and dramatic cliff landscape
 galeria:
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
-  alt: White houses built beneath natural rock cliffs in Setenil de las Bodegas, where limestone formations serve as roofs.
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: White hilltop village of Zahara de la Sierra with Nasrid castle ruins overlooking turquoise reservoir and surrounding
     mountains.

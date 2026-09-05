@@ -65,8 +65,6 @@ galeria:
   alt: Jewish history private walking tour, Madrid (Bokun)
 - src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
   alt: Jewish history private walking tour, Madrid (Bokun)
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
-  alt: Historic streets of central Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
   alt: Historic streets of central Madrid
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp

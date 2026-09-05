@@ -108,8 +108,6 @@ imagenAlt: Catedral natural de las Cuevas de Nerja con columnas geológicas, est
 galeria:
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-salobrena-pueblo-blanco-0-hero.webp
   alt: Pueblo blanco de Salobreña escalonado en acantilados, castillo medieval en la cima y mar Mediterráneo al fondo
-- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp
-  alt: Acantilados y playas de arena del Balcón de Europa en Nerja con vistas al Mediterráneo turquesa
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-playa-burriana-03-hero.webp
   alt: Playa de Burriana con arena clara, aguas cristalinas y acantilados rocosos, Costa Tropical de Granada
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp

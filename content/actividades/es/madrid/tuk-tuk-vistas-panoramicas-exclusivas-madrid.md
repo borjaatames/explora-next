@@ -54,8 +54,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
 imagenAlt: Tuk-tuk turístico frente a un monumento icónico de Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
-  alt: Tuk-tuk turístico frente a un monumento icónico de Madrid
 - src: https://imgcdn.bokun.tools/c166b6f3-4c94-42ea-8503-7077dd9a4623.jpg
   alt: Recorrido en tuk-tuk por las calles del centro de Madrid
 - src: https://imgcdn.bokun.tools/994c744a-eb97-4f7b-9dbd-e374167501ea.jpg

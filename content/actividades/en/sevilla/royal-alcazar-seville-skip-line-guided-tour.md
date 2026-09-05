@@ -125,9 +125,6 @@ imagenAlt: "Patio de las Doncellas of the Royal Alcázar of Seville with elongat
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Patio de las Doncellas — the Mudéjar jewel of the Royal Alcázar of Seville"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
-    alt: "Mudéjar arcade of the Royal Alcázar of Seville"
-
 ratingProveedor: 4.4
 numeroOpiniones: 510
 

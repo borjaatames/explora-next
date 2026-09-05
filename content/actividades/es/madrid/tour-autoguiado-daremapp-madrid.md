@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg"
 imagenAlt: Tour autoguiado DareMapp por Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg
-  alt: Tour autoguiado DareMapp por Madrid (Bokun)
 - src: https://imgcdn.bokun.tools/2c8244c4-2afd-43dd-8a82-d3273d97a936.jpg
   alt: Tour autoguiado DareMapp por Madrid (Bokun)
 - src: https://imgcdn.bokun.tools/6207309c-7c1e-4b6a-927c-28327d984c72.jpg

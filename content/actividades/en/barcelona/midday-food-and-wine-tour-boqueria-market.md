@@ -70,8 +70,6 @@ galeria:
   alt: Midday food & wine tour with the Boquería Market (Bokun)
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: La Boqueria market, Barcelona
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
-  alt: La Boqueria market, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
   alt: La Boqueria market, Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp

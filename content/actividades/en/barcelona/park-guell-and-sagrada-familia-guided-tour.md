@@ -86,9 +86,6 @@ imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-
 imagenAlt: "Panoramic view of the intricate façade of the Sagrada Familia"
 
 galeria:
-  - src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp"
-    alt: "Panoramic view of the intricate façade of the Sagrada Familia"
-
 ratingProveedor: 4.8
 numeroOpiniones: 1184
 

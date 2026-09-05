@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
 imagenAlt: Pub crawl through bars and a nightclub in central Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
-  alt: Group of travellers on Madrid's bar pub crawl
 - src: https://imgcdn.bokun.tools/c302637a-b16c-4626-ab8c-ffe7c577f64a.jpg
   alt: Atmosphere at one of the bars on the Madrid pub crawl
 - src: https://imgcdn.bokun.tools/b813d50b-e2da-4214-9573-c59e69da86d4.jpg

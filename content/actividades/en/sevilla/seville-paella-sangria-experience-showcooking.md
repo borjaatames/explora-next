@@ -102,9 +102,6 @@ imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-en
 imagenAlt: "Triana bridge in Seville — backdrop of the city's food culture experiences"
 
 galeria:
-  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-    alt: "Triana bridge — gateway to Seville's culinary culture"
-
 ratingProveedor: 4.9
 numeroOpiniones: 58
 

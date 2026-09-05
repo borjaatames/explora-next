@@ -77,8 +77,6 @@ galeria:
   alt: Navegación al atardecer en Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/d96e5712-3550-494f-af18-2999c7d413dc.jpg
   alt: Navegación al atardecer en Barcelona (Bokun)
-- src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
-  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
   alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp

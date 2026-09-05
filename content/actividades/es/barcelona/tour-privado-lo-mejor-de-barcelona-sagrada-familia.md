@@ -69,8 +69,6 @@ galeria:
   alt: Vista panorámica de Barcelona con la Sagrada Familia y edificios modernistas bajo cielo despejado
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
   alt: Vistas panorámicas de Barcelona con arquitectura moderna y montañas al fondo
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
-  alt: Callejón angosto con edificios antiguos en el Barrio Gótico de Barcelona, atmósfera medieval
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Panorámica de Barcelona con la Sagrada Familia y arquitectura moderna al atardecer
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero-hero.webp

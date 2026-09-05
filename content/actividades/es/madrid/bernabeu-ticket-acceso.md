@@ -126,8 +126,6 @@ galeria:
   alt: Vistas panorámicas de Madrid con arquitectura histórica y moderna
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
   alt: Vistas panorámicas de Madrid con edificios históricos y modernos
-- src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
-  alt: Skyline de Madrid con la Torre Eiffel al atardecer y cielo naranja
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
   alt: Vistas panorámicas de Madrid con edificios históricos y cielo despejado
 - src: /images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp

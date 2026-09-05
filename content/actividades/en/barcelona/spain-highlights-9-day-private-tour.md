@@ -79,8 +79,6 @@ galeria:
   alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
   alt: Sagrada Familia basilica, Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Sagrada Familia basilica, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp

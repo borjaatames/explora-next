@@ -118,11 +118,8 @@ imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-f
 imagenAlt: "Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Fachada gótica de la Catedral de Sevilla y exterior de la Giralda"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "Vista panorámica de la Catedral de Sevilla con la Giralda iluminada al atardecer"
-
 ratingProveedor: 4.6
 numeroOpiniones: 3500
 

@@ -56,8 +56,6 @@ keywords:
 imagen: "/images/actividades/jerez-de-la-frontera/centro/jerez-hero.webp"
 imagenAlt: Historic old town of Jerez de la Frontera
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/jerez-hero.webp
-  alt: Historic old town of Jerez de la Frontera
 publicada: false
 destacada: false
 fecha: '2026-06-18'

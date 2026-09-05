@@ -163,8 +163,6 @@ galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
   alt: Nave interior de la Sinagoga de Córdoba con arcos de herradura, decoraciones geométricas y elementos arquitectónicos
     hebreos del período medieval.
-- src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp
-  alt: Panorámica de Córdoba con la Mezquita-Catedral, río Guadalquivir y casco antiguo medieval al atardecer
 ratingProveedor: 4.3
 numeroOpiniones: 280
 publicada: true

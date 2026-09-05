@@ -103,9 +103,6 @@ imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasar
 imagenAlt: "Setas de Sevilla (Metropol Parasol) — meeting point of the Ultimate Food Tour at the Mercado de la Encarnación"
 
 galeria:
-  - src: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-    alt: "Setas de Sevilla — above the Mercado de la Encarnación, tour starting point"
-
 ratingProveedor: 4.7
 numeroOpiniones: 50
 

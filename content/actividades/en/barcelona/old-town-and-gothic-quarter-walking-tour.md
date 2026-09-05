@@ -105,13 +105,10 @@ imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Barcelona Gothic Quarter medieval streets and Cathedral exterior"
 
 galeria:
-- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-  alt: "Barcelona's Gothic Quarter with its medieval lanes (view 1)"
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
   alt: "Barcelona's Gothic Quarter with its medieval lanes (view 2)"
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
   alt: "Barcelona's Gothic Quarter with its medieval lanes (view 3)"
-
 ratingProveedor: 4.8
 numeroOpiniones: 1582
 

@@ -107,9 +107,6 @@ imagenAlt: Natural limestone columns and mineral formations inside Nerja Caves, 
 galeria:
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-salobrena-pueblo-blanco-0-hero.webp
   alt: Whitewashed village of Salobreña cascading down cliffs with medieval castle at summit overlooking Mediterranean Sea
-- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp
-  alt: Dramatic coastal view from elevated balcony overlooking turquoise Mediterranean Sea, golden sandy beaches, and towering
-    cliffs along the Andalusian shoreline
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-playa-burriana-03-hero.webp
   alt: Burriana beach with clear turquoise waters, golden sand, and rocky cliffs under sunny coastal sky
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp

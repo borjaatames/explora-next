@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
 imagenAlt: Tour autoguiado por Girona con la app DareMapp
 galeria:
-- src: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
-  alt: Calles del casco histórico de Girona en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/d4056f2e-618b-4d0c-bc59-d888233ca126.jpg
   alt: El Puente de Piedra durante el recorrido autoguiado por Girona
 - src: https://imgcdn.bokun.tools/e6b2e28e-6215-4ef1-88a7-d07d522f25b6.jpg

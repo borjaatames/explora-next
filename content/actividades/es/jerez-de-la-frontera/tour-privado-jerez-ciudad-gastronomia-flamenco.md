@@ -55,8 +55,6 @@ keywords:
 imagen: "/images/actividades/jerez-de-la-frontera/centro/jerez-hero.webp"
 imagenAlt: Casco histórico de Jerez de la Frontera
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/jerez-hero.webp
-  alt: Casco histórico de Jerez de la Frontera
 publicada: false
 destacada: false
 fecha: '2026-06-18'

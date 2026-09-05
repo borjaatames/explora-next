@@ -53,8 +53,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg"
 imagenAlt: Quick 20-minute photo shoot in Barcelona
 galeria:
-- src: https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg
-  alt: Quick 20-minute photo shoot in Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/40b8a734-bfbb-4d2c-b166-9517b9c4d354.jpg
   alt: Candid moment captured during the quick session in Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/966da696-a772-45b9-a42a-5be0a0fd4110.jpg

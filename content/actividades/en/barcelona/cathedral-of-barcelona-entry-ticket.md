@@ -100,13 +100,10 @@ imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-arc
 imagenAlt: "Barcelona Cathedral facade with Gothic spires in Pla de la Seu"
 
 galeria:
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp
-  alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
   alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp
   alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
-
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

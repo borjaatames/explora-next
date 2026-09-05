@@ -43,8 +43,6 @@ keywords:
 imagen: "/images/actividades/valencia/montanejos/excursion-montanejos-fuentes-termales-salto-novia-hero.webp"
 imagenAlt: El Salto de la Novia en Montanejos, Castellón
 galeria:
-- src: /images/actividades/valencia/montanejos/excursion-montanejos-fuentes-termales-salto-novia-hero.webp
-  alt: El Salto de la Novia en Montanejos, Castellón
 publicada: false
 destacada: false
 fecha: '2026-06-18'

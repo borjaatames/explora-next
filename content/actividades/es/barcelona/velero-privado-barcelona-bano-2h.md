@@ -74,8 +74,6 @@ galeria:
   alt: Velero privado en Barcelona con baño (Bokun)
 - src: https://imgcdn.bokun.tools/8b948181-0930-4854-8d9f-4ee17e682a17.jpg
   alt: Velero privado en Barcelona con baño (Bokun)
-- src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
-  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
   alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp

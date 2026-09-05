@@ -54,8 +54,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg"
 imagenAlt: Montserrat Signature private photoshoot, day trip from Barcelona
 galeria:
-- src: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
-  alt: Montserrat Signature private photoshoot, day trip from Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
   alt: Montserrat mountain scenery during the photoshoot (Bokun)
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg

@@ -111,8 +111,6 @@ galeria:
   alt: Royal Palace of Madrid, grand Spanish royal residence with classical architecture and ornate facade
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-panel-painting-wall-painting-hero.webp
   alt: Gallery wall at Prado Museum displaying classical panel and wall paintings in Madrid
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp
-  alt: Equestrian statue at Royal Palace of Madrid entrance with ornate architecture
 ratingProveedor: 4.5
 numeroOpiniones: 1405
 publicada: false

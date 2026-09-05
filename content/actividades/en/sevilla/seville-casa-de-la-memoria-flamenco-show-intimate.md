@@ -155,8 +155,6 @@ keywords:
 imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
 imagenAlt: Flamenco stage in traditional Andalusian courtyard with intimate seating arrangement close to performers in Seville
 galeria:
-- src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp
-  alt: Andalusian 15th-century courtyard with ornate columns, horseshoe arches, and traditional tilework in Seville
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
   alt: Engaged audience members sitting close to stage in Seville, showing expressions of emotion and concentration during
     live performance

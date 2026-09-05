@@ -97,11 +97,8 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Tapas españolas tradicionales: croquetas y jamón ibérico"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Tapas españolas - croquetas y jamón"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
     alt: "Aceitunas, parte del repertorio de tapas"
-
 ratingProveedor: 4.8
 numeroOpiniones: 145
 

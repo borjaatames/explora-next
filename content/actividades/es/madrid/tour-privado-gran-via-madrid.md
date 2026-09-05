@@ -69,8 +69,6 @@ galeria:
   alt: Tour privado por la Gran Vía de Madrid (Bokun)
 - src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
   alt: Tour privado por la Gran Vía de Madrid (Bokun)
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
   alt: Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp

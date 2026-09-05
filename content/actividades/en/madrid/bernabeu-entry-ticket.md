@@ -126,8 +126,6 @@ galeria:
   alt: Madrid city skyline with historic architecture and modern buildings at sunset
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
   alt: Historic Madrid architecture with classical building facade and ornate details
-- src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
   alt: Madrid street scene with historic buildings and urban architecture
 - src: /images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp

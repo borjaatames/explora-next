@@ -55,8 +55,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg
 imagenAlt: VIP club entry pub crawl in Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg
-  alt: Group of travellers on Madrid's VIP pub crawl
 - src: https://imgcdn.bokun.tools/fdd76de0-c8e6-4ea6-a239-d7c3057312bf.jpeg
   alt: Nightlife atmosphere inside one of the clubs on the Madrid pub crawl
 - src: https://imgcdn.bokun.tools/158ac800-421a-4f90-b451-28bffe3901b4.jpeg

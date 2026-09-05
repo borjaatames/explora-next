@@ -109,8 +109,6 @@ keywords:
 imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp"
 imagenAlt: The Alcázar of Segovia on its rocky promontory with its towers and slate spires
 galeria:
-- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp
-  alt: The Roman aqueduct of Segovia with its double row of granite arches
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-blue-sky-clouds-hero.webp
   alt: The Alcázar of Segovia set against the sky
 - src: /images/actividades/madrid/segovia/segovia-plaza-artilleria-hero.webp

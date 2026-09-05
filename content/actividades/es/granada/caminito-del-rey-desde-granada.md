@@ -123,8 +123,6 @@ galeria:
   alt: Pasarela en desfiladero de Granada con paredes rocosas verticales y profundidad del cañón
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
   alt: Excursionista con mochila caminando por pasarela de seguridad en ruta de senderismo de Granada
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp
-  alt: Entrada a túnel excavado en roca del Caminito del Rey, Granada
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

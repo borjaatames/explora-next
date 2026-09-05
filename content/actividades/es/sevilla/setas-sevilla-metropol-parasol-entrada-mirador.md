@@ -109,9 +109,6 @@ imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasar
 imagenAlt: "Pasarela superior de las Setas de Sevilla (Metropol Parasol) con vista a la Giralda al fondo"
 
 galeria:
-  - src: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-    alt: "Pasarela del mirador de Las Setas con la Giralda en el horizonte"
-
 ratingProveedor: 4.6
 numeroOpiniones: 12014
 

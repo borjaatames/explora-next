@@ -53,8 +53,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg"
 imagenAlt: Sesión de fotos rápida de 20 minutos en Barcelona
 galeria:
-- src: https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg
-  alt: Sesión de fotos rápida de 20 minutos en Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/40b8a734-bfbb-4d2c-b166-9517b9c4d354.jpg
   alt: Momento espontáneo captado durante la sesión rápida en Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/966da696-a772-45b9-a42a-5be0a0fd4110.jpg

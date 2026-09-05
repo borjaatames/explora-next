@@ -54,8 +54,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/6445b6f0-5311-418a-9b57-cd1c180b475b.jpg"
 imagenAlt: Grupo celebrando una fiesta privada a bordo de un tuk-tuk en Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/6445b6f0-5311-418a-9b57-cd1c180b475b.jpg
-  alt: Grupo celebrando una fiesta privada a bordo de un tuk-tuk en Madrid
 - src: https://imgcdn.bokun.tools/9479c210-2e2c-4047-a5d9-4b4ca1524f43.jpg
   alt: Tuk-tuk decorado para una fiesta privada circulando por Madrid
 - src: https://imgcdn.bokun.tools/c300ee9d-a797-4169-aacb-9dea301ec259.jpg

@@ -110,8 +110,6 @@ galeria:
   alt: Casco antiguo de Cuenca con arquitectura colonial y río Tomebamba
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4642730-hero.webp
   alt: Puente colgante sobre río en Cuenca, Ecuador rodeado de vegetación verde
-- src: /images/actividades/cuenca/catedral-cuenca/pexels-27208543-hero.webp
-  alt: Vista panorámica de Cuenca con arquitectura colonial y río atravesando el valle
 - src: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
   alt: Puente colgante sobre río en Cuenca con arquitectura histórica
 - src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp

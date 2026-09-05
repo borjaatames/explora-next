@@ -163,9 +163,6 @@ imagenAlt: Bailaora con traje flamenco rojo realizando zapateado intenso en tabl
 galeria:
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-guitar-acoust-hero.webp
   alt: Guitarrista en Barcelona tocando flamenco acústico con intensidad y concentración, dedos en movimiento sobre las cuerdas
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp
-  alt: Mesa con variedad de tapas españolas tradicionales, copas de vino y más de 40 delicias del buffet Spanish Tasting en
-    Barcelona.
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-rambla-barcel-hero.webp
   alt: Entrada del Tablao Cordobés en La Rambla 33-35 de Barcelona, con fachada de acceso al venue en la avenida histórica
 ratingProveedor: 4.6

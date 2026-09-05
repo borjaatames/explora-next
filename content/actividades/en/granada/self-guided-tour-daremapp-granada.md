@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
 imagenAlt: Self-guided Granada tour with the DareMapp app
 galeria:
-- src: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
-  alt: Historic streets of Granada on the DareMapp self-guided tour
 - src: https://imgcdn.bokun.tools/49778177-a26c-49bb-b360-3f7c08c339a2.jpg
   alt: The Albaicín on the self-guided Granada route
 - src: https://imgcdn.bokun.tools/baf4a141-3965-44bc-80ea-0a09b8b2fd45.jpg

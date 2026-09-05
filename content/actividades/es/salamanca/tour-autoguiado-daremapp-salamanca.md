@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg"
 imagenAlt: Tour autoguiado DareMapp por Salamanca
 galeria:
-- src: https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg
-  alt: Tour autoguiado DareMapp por Salamanca (Bokun)
 - src: https://imgcdn.bokun.tools/0603c3d6-6a68-4703-83f9-46c1aba473d2.jpg
   alt: Tour autoguiado DareMapp por Salamanca (Bokun)
 - src: https://imgcdn.bokun.tools/994feb55-c91d-4eab-b30e-9f6b78ab625a.jpg

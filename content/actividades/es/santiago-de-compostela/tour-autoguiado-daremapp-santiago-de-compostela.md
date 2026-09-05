@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg"
 imagenAlt: Tour autoguiado DareMapp por Santiago de Compostela
 galeria:
-- src: https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela (Bokun)
 - src: https://imgcdn.bokun.tools/d3b885d9-7070-4689-8743-dd1c14f208b7.jpg
   alt: Tour autoguiado DareMapp por Santiago de Compostela (Bokun)
 - src: https://imgcdn.bokun.tools/38bee4a3-d2ee-431f-8c9b-d8879a92cd2f.jpg

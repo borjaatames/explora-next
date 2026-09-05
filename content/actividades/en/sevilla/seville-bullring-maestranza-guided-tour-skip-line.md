@@ -108,9 +108,6 @@ imagen: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-e
 imagenAlt: "Baroque facade of the Plaza de Toros de la Real Maestranza in Seville — Prince's Gate"
 
 galeria:
-  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
-    alt: "Plaza de Toros de la Real Maestranza — exterior and Prince's Gate"
-
 ratingProveedor: 4.5
 numeroOpiniones: 1784
 

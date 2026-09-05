@@ -140,8 +140,6 @@ galeria:
   alt: Vista panorámica de Barcelona con arquitectura gótica y modernista
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
   alt: Barcelona con vista aérea de la Sagrada Familia y arquitectura moderna
-- src: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
-  alt: Paisaje urbano de Barcelona con arquitectura modernista y vista de la ciudad
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
   alt: Vista aérea de Barcelona con la Sagrada Familia y edificios modernistas
 ratingProveedor: 4.2

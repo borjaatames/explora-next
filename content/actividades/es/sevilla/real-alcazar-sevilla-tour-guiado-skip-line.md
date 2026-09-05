@@ -125,9 +125,6 @@ imagenAlt: "Patio de las Doncellas del Real Alcázar de Sevilla con estanque ala
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Patio de las Doncellas — la joya mudéjar del Real Alcázar de Sevilla"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
-    alt: "Arquería mudéjar del Real Alcázar de Sevilla"
-
 ratingProveedor: 4.4
 numeroOpiniones: 510
 

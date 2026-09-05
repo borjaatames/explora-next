@@ -108,9 +108,6 @@ imagen: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-e
 imagenAlt: "Fachada barroca de la Plaza de Toros de la Real Maestranza de Sevilla — Puerta del Príncipe"
 
 galeria:
-  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
-    alt: "Plaza de Toros de la Real Maestranza — exterior y Puerta del Príncipe"
-
 ratingProveedor: 4.5
 numeroOpiniones: 1784
 

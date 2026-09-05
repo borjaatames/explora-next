@@ -130,8 +130,6 @@ galeria:
   alt: Barcelona street scene with buildings and urban architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
   alt: Barcelona cityscape with historic architecture and urban streets
-- src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
-  alt: Barcelona cityscape with historic architecture and Mediterranean landscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
   alt: Barcelona cityscape with architectural buildings and urban streets
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
@@ -152,8 +150,6 @@ galeria:
   alt: Barcelona cityscape with historic architecture and Mediterranean views
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Barcelona cityscape with architectural landmarks and urban landscape
-- src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Barcelona cityscape with buildings and urban architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Barcelona street scene with historic architecture and urban landscape
 ---

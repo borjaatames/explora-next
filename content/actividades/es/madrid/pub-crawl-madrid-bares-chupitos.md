@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
 imagenAlt: Pub crawl por bares y discoteca en el centro de Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
-  alt: Grupo de viajeros en el pub crawl de bares de Madrid
 - src: https://imgcdn.bokun.tools/c302637a-b16c-4626-ab8c-ffe7c577f64a.jpg
   alt: Ambiente en uno de los bares del pub crawl de Madrid
 - src: https://imgcdn.bokun.tools/b813d50b-e2da-4214-9573-c59e69da86d4.jpg

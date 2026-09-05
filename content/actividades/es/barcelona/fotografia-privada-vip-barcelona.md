@@ -54,8 +54,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg"
 imagenAlt: Sesión de fotos privada VIP en Barcelona junto a la Sagrada Familia
 galeria:
-- src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-  alt: Sesión de fotos privada VIP en Barcelona junto a la Sagrada Familia (Bokun)
 - src: https://imgcdn.bokun.tools/86766be2-5ed0-486e-a5c4-39025a205491.jpg
   alt: Fotógrafo profesional durante la sesión privada en Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/8ee67383-b1c7-4b11-8e9f-b83c9894c7a0.jpg

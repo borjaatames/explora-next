@@ -44,8 +44,6 @@ keywords:
 imagen: "/images/actividades/valencia/peniscola/excursion-peniscola-desde-valencia-hero.webp"
 imagenAlt: Peñíscola's walled old town and castle above the sea
 galeria:
-- src: /images/actividades/valencia/peniscola/excursion-peniscola-desde-valencia-hero.webp
-  alt: Peñíscola's walled old town and castle above the sea
 publicada: false
 destacada: false
 fecha: '2026-06-18'

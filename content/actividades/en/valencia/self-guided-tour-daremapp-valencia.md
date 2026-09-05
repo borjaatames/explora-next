@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg"
 imagenAlt: DareMapp self-guided tour of Valencia
 galeria:
-- src: https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg
-  alt: DareMapp self-guided tour of Valencia (Bokun)
 - src: https://imgcdn.bokun.tools/ec32f71b-edb7-4cea-b2e2-894fb6c18451.jpg
   alt: DareMapp self-guided tour of Valencia (Bokun)
 - src: https://imgcdn.bokun.tools/8755799c-4ab6-48f6-931f-6231289110b8.jpg

@@ -161,8 +161,6 @@ galeria:
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-guitar-acoust-hero.webp
   alt: Flamenco guitarist in close-up playing acoustic guitar with intense focus and hand technique, intimate unplugged performance
     in Barcelona
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp
-  alt: Spanish tapas spread with jamón, queso, olives, and wine on elegant table setting in Barcelona restaurant
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-rambla-barcel-hero.webp
   alt: Historic flamenco venue entrance on Barcelona's famous La Rambla boulevard at street level
 ratingProveedor: 4.6

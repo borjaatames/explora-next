@@ -101,9 +101,6 @@ imagenAlt: Pueblos blancos encalados en las laderas montañosas de La Alpujarra,
 galeria:
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
   alt: Barranco de Poqueira con los pueblos blancos de Pampaneira, Capileira y Órgiva en las laderas de montaña, Granada
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp
-  alt: Callejuela empedrada con casas blancas, puertas de madera y macetas floridas en arquitectura vernácula alpujareña de
-    Granada.
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
   alt: Grupo de turistas explorando las calles empedradas del centro histórico de Granada con guía local atento a sus necesidades
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp

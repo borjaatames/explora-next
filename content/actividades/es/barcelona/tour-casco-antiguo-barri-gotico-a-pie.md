@@ -105,13 +105,10 @@ imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-  alt: Barrio Gótico de Barcelona con sus calles medievales (vista 1)
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
   alt: Barrio Gótico de Barcelona con sus calles medievales (vista 2)
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
   alt: Barrio Gótico de Barcelona con sus calles medievales (vista 3)
-
 ratingProveedor: 4.8
 numeroOpiniones: 1582
 

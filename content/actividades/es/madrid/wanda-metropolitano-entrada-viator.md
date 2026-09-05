@@ -113,8 +113,6 @@ galeria:
   alt: Estadio Wanda Metropolitano de Madrid, vista exterior del recinto deportivo
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
   alt: Interior del Metropolitano de Madrid con pasajeros en la estación
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp
-  alt: Estadio Wanda Metropolitano de Madrid con vista exterior de su moderna arquitectura y fachada
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
   alt: Estadio Wanda Metropolitano de Madrid, moderno recinto deportivo con estructura arquitectónica característica
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp

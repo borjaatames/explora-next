@@ -120,8 +120,6 @@ galeria:
   alt: Almudena Cathedral in Madrid with white neoclassical architecture and blue dome
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Façade of the Royal Palace of Madrid on a clear day
-- src: /images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-hero.webp
-  alt: Cathedral of the Almudena in Madrid with illuminated facade at dusk
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
   alt: Neoclassical architecture of the Royal Palace of Madrid
 - src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero-hero.webp

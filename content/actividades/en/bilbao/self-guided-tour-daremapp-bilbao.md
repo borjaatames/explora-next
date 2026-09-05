@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
 imagenAlt: Self-guided Bilbao tour with the DareMapp app
 galeria:
-- src: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
-  alt: Historic streets of Bilbao on the DareMapp self-guided tour
 - src: https://imgcdn.bokun.tools/25dbdd4f-a9bb-499f-a6b7-47fbbbe6a63a.jpg
   alt: The Guggenheim Museum on the self-guided Bilbao route
 - src: https://imgcdn.bokun.tools/8895c2a4-97ef-43c4-84ee-871908848302.jpg

@@ -123,8 +123,6 @@ galeria:
   alt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero-hero.webp
   alt: Comedor del Palacio Real de Madrid con decoración dorada y cristaleras palatinas
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp
-  alt: Vista exterior del Palacio Real de Madrid con su arquitectura neoclásica
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
   alt: Arquitectura neoclásica del Palacio Real de Madrid
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092793-hero-hero.webp

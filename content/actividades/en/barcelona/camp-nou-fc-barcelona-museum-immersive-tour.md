@@ -143,8 +143,6 @@ imagenAlt: Barcelona street scene with historic architecture and pedestrians
 galeria:
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
   alt: Barcelona's iconic architecture and vibrant urban landscape with historic buildings and streets
-- src: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
-  alt: Bird's eye view of Barcelona's southern neighborhood with urban planning layout
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
   alt: Barcelona cityscape with historic Gothic Quarter architecture and modern buildings
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp

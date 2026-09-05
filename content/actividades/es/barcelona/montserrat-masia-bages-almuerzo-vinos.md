@@ -126,11 +126,8 @@ galeria:
   alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
   alt: Monasterio y montanas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
   alt: Monasterio y montanas de Montserrat
-
 ratingProveedor: 4.9
 numeroOpiniones: 1130
 

@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
 imagenAlt: Self-guided Girona tour with the DareMapp app
 galeria:
-- src: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
-  alt: Historic streets of Girona on the DareMapp self-guided tour
 - src: https://imgcdn.bokun.tools/d4056f2e-618b-4d0c-bc59-d888233ca126.jpg
   alt: The Puente de Piedra (Stone Bridge) on the self-guided Girona route
 - src: https://imgcdn.bokun.tools/e6b2e28e-6215-4ef1-88a7-d07d522f25b6.jpg

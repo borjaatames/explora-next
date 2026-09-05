@@ -116,8 +116,6 @@ galeria:
   alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
   alt: Gaudi Park Guell, Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
-  alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
   alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
@@ -128,7 +126,6 @@ galeria:
   alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
   alt: Gaudi Park Guell, Barcelona
-
 ratingProveedor: 4.3
 numeroOpiniones: 318
 

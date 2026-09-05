@@ -54,8 +54,6 @@ keywords:
 imagen: "/images/actividades/gran-canaria/este/gran-canaria-este-hero.webp"
 imagenAlt: Paisaje del este de Gran Canaria
 galeria:
-- src: /images/actividades/gran-canaria/este/gran-canaria-este-hero.webp
-  alt: Paisaje del este de Gran Canaria
 publicada: false
 destacada: false
 fecha: '2026-06-18'

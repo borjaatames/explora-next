@@ -70,8 +70,6 @@ galeria:
   alt: Barcelona cityscape with historic architecture and Mediterranean views
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
   alt: Barcelona street scene with historic architecture and urban landscape
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
-  alt: Gothic Quarter Barcelona, narrow cobblestone street with historic medieval buildings and moody atmospheric lighting
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Barcelona skyline with Sagrada Familia basilica and urban architecture
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero-hero.webp

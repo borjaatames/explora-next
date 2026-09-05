@@ -76,8 +76,6 @@ galeria:
   alt: Barcelona high-speed powerboat ride (Bokun)
 - src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
   alt: Barcelona high-speed powerboat ride (Bokun)
-- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
-  alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
   alt: Sailing along the Barcelona coastline
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp

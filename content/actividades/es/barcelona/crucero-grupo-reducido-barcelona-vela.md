@@ -75,8 +75,6 @@ galeria:
   alt: Crucero en velero en grupo reducido, Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/b50e028c-5639-4ae4-a958-0bf9f6f195e7.jpg
   alt: Crucero en velero en grupo reducido, Barcelona (Bokun)
-- src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
-  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
   alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp

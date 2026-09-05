@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg"
 imagenAlt: Tour autoguiado DareMapp por Tarragona
 galeria:
-- src: https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg
-  alt: Tour autoguiado DareMapp por Tarragona (Bokun)
 - src: https://imgcdn.bokun.tools/60361b90-bd42-4a6c-92ec-3d266ee7f349.jpg
   alt: Tour autoguiado DareMapp por Tarragona (Bokun)
 - src: https://imgcdn.bokun.tools/c4f4a7a7-bcb8-482b-afc1-dd629fdb20b3.jpg

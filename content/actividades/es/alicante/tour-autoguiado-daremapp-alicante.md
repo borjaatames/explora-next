@@ -62,8 +62,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
 imagenAlt: Tour autoguiado por Alicante con la app DareMapp
 galeria:
-- src: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
-  alt: Calles del casco histórico de Alicante en el tour autoguiado DareMapp
 - src: https://imgcdn.bokun.tools/13ea71f8-86c5-4dbe-b680-a8d11277d0dc.jpg
   alt: La Plaza de Gabriel Miró durante el recorrido autoguiado por Alicante
 - src: https://imgcdn.bokun.tools/10655a80-037d-4ebb-bcbe-af757b4b7503.jpg

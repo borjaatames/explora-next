@@ -112,8 +112,6 @@ galeria:
   alt: palace, spain, king, madrid, architecture
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-panel-painting-wall-painting-hero.webp
   alt: panel painting, wall painting, the garden of earthly delights, hieronymus bosch's triptychs, painting
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp
-  alt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
 ratingProveedor: 4.5
 numeroOpiniones: 1405
 publicada: false

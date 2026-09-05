@@ -98,13 +98,10 @@ imagen: "/images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp"
 imagenAlt: "Casa Milà façade and rooftop in Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp
-  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 1)
 - src: /images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp
   alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 2)
 - src: /images/actividades/barcelona/casa-mila/casa-mila-barcelona-spain-jan-2007-hero.webp
   alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 3)
-
 ratingProveedor: 4.5
 numeroOpiniones: 1052
 

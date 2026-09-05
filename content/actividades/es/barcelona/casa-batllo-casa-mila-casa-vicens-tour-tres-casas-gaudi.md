@@ -105,13 +105,10 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero
 imagenAlt: "Casa Batlló, Casa Milà y Casa Vicens — las tres casas de Gaudí en Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 1)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
   alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 2)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp
   alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
-
 ratingProveedor: 4.6
 numeroOpiniones: 331
 

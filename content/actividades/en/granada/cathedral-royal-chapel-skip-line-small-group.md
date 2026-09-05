@@ -95,8 +95,6 @@ imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-c
 imagenAlt: "Royal Chapel of Granada — tombs of the Catholic Monarchs Isabella and Ferdinand"
 
 galeria:
-  - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
-    alt: "Royal Chapel of Granada — tombs of the Catholic Monarchs Isabella and Ferdinand"
 ratingProveedor: 4.7
 numeroOpiniones: 312
 

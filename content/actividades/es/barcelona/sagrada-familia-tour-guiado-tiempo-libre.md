@@ -122,8 +122,6 @@ galeria:
   alt: Bóveda ornamentada de la Sagrada Familia con columnas intricadas en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-9033308-hero.webp
   alt: Vista aérea de Barcelona con edificios modernistas y la Sagrada Familia al fondo
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Vistas de Barcelona con la Sagrada Familia al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
   alt: Vistas panorámicas de Barcelona con arquitectura moderna y histórica
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp

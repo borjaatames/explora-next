@@ -112,11 +112,8 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-don
 imagenAlt: "Patio de las Doncellas of the Royal Alcázar of Seville — premium small-group tour"
 
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Patio de las Doncellas — the Mudéjar jewel of the Royal Alcázar"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
     alt: "Mudéjar arcade of the Royal Alcázar — premium small group format"
-
 ratingProveedor: 4.9
 numeroOpiniones: 180
 

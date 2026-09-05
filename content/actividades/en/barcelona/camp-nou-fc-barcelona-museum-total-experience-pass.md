@@ -137,8 +137,6 @@ galeria:
   alt: Barcelona cityscape with buildings and urban architecture
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
   alt: Barcelona city skyline with Sagrada Familia and urban architecture
-- src: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
   alt: Barcelona cityscape with historic architecture and modern buildings
 ratingProveedor: 4.2

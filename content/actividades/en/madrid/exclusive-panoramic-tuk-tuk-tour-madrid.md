@@ -54,8 +54,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
 imagenAlt: Sightseeing tuk-tuk parked in front of an iconic Madrid landmark
 galeria:
-- src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
-  alt: Sightseeing tuk-tuk parked in front of an iconic Madrid landmark
 - src: https://imgcdn.bokun.tools/c166b6f3-4c94-42ea-8503-7077dd9a4623.jpg
   alt: Tuk-tuk ride through central Madrid streets
 - src: https://imgcdn.bokun.tools/994c744a-eb97-4f7b-9dbd-e374167501ea.jpg

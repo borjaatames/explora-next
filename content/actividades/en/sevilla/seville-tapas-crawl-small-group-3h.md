@@ -103,9 +103,6 @@ imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callej
 imagenAlt: "Historic centre of Seville — neighbourhood where the tapas crawl takes place"
 
 galeria:
-  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-    alt: "Historic centre of Seville — backdrop of the tapas crawl"
-
 ratingProveedor: 4.9
 numeroOpiniones: 1848
 

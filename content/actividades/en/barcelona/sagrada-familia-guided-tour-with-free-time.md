@@ -123,8 +123,6 @@ galeria:
   alt: Intricate ceiling and columns of Sagrada Familia basilica in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-9033308-hero.webp
   alt: Barcelona street view with historic architecture and urban landscape
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Barcelona cityscape with buildings and urban architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
   alt: Barcelona street scene with historic architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp

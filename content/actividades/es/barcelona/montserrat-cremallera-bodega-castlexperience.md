@@ -133,8 +133,6 @@ galeria:
   alt: Vista aérea de Montserrat con formaciones rocosas irregulares y vegetación
 - src: /images/guias/barcelona-en-1-dia.jpg
   alt: Tren cremallera subiendo a Montserrat con la bodega Oller del Mas al fondo
-- src: /images/guias/barcelona-en-1-dia.jpg
-  alt: Bodega Oller del Mas en un castillo del siglo X
 ratingProveedor: 4.8
 numeroOpiniones: 6154
 publicada: true

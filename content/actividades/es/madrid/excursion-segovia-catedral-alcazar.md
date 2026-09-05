@@ -109,8 +109,6 @@ keywords:
 imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp"
 imagenAlt: El Alcázar de Segovia sobre el promontorio rocoso con sus torres y chapiteles de pizarra
 galeria:
-- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-06-hero.webp
-  alt: El acueducto romano de Segovia con su doble hilera de arcos de granito
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-blue-sky-clouds-hero.webp
   alt: El Alcázar de Segovia recortado contra el cielo
 - src: /images/actividades/madrid/segovia/segovia-plaza-artilleria-hero.webp

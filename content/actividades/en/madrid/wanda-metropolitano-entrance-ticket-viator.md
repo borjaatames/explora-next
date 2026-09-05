@@ -112,8 +112,6 @@ galeria:
   alt: Wanda Metropolitano stadium exterior with distinctive architecture in Madrid
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
   alt: Wanda Metropolitano stadium interior with seating and field view
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp
-  alt: Wanda Metropolitano stadium exterior in Madrid with modern architecture
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
   alt: Wanda Metropolitano stadium exterior in Madrid, Spain
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp

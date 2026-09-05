@@ -119,8 +119,6 @@ keywords:
 imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
 imagenAlt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
 galeria:
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
-  alt: Fachada del Palacio Real de Madrid de día con turistas en la explanada
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-03-hero-hero.webp
   alt: Fachada principal del Palacio Real de Madrid con arquitectura neoclásica y plaza frontal
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp

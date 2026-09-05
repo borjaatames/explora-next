@@ -53,8 +53,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
 imagenAlt: Mesa de picnic gourmet montada en un rincón discreto de Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
-  alt: Mesa de picnic gourmet montada en un rincón discreto de Madrid
 - src: https://imgcdn.bokun.tools/35d99623-943d-4e85-978a-6daa27b6ca1e.jpg
   alt: Selección de jamón Reserva Serrano y quesos artesanales para el picnic
 - src: https://imgcdn.bokun.tools/c3cdf5fc-6479-473c-9726-df26b823e480.jpg

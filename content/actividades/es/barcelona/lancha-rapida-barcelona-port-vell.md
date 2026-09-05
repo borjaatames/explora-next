@@ -76,8 +76,6 @@ galeria:
   alt: Lancha rápida por Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
   alt: Lancha rápida por Barcelona (Bokun)
-- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
-  alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
   alt: Navegacion por la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp

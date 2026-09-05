@@ -122,8 +122,6 @@ galeria:
   alt: Rocky canyon walls and depth viewed from wooden walkway in Granada gorge
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
   alt: Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp
-  alt: Stone tunnel entrance along the Caminito del Rey hiking trail carved into rock formations in Granada
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

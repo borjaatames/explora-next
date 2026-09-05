@@ -108,8 +108,6 @@ keywords:
 imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
 imagenAlt: Madrid cityscape with historic buildings and urban architecture
 galeria:
-- src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
-  alt: Santiago Bernabéu Stadium, home of Real Madrid
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-5-hero.webp
   alt: Madrid cityscape with historic architecture and urban streets
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp

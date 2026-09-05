@@ -107,9 +107,6 @@ imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-
 imagenAlt: "Plaza de España de Sevilla con sus dos torres y el canal navegable — destino final del tour"
 
 galeria:
-  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
-    alt: "Plaza de España de Sevilla — pabellón central y canal con barcas de remo"
-
 ratingProveedor: 4.8
 numeroOpiniones: 35
 

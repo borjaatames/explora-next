@@ -122,8 +122,6 @@ galeria:
   alt: Royal Palace of Madrid front facade with classical architecture and manicured gardens
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero-hero.webp
   alt: Royal Palace of Madrid with grand architecture against clear blue sky
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
-  alt: Neoclassical architecture of Madrid's Royal Palace
 ratingProveedor: 4.8
 numeroOpiniones: 4060
 publicada: true

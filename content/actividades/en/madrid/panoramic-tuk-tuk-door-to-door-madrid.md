@@ -54,8 +54,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg"
 imagenAlt: Luxury electric tuk-tuk picking up travelers at their accommodation in Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
-  alt: Luxury electric tuk-tuk picking up travelers at their accommodation in Madrid
 - src: https://imgcdn.bokun.tools/c166b6f3-4c94-42ea-8503-7077dd9a4623.jpg
   alt: Electric tuk-tuk driving through central Madrid
 - src: https://imgcdn.bokun.tools/dd370581-02a1-4f32-a1c3-34c09523ec80.jpg

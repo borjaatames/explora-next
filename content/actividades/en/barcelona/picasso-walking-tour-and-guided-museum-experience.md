@@ -102,9 +102,6 @@ imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
 imagenAlt: "El Born neighborhood and Picasso Museum walking tour route"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-    alt: "El Born medieval streets and Picasso Museum on Carrer de Montcada"
-
 ratingProveedor: 4.8
 numeroOpiniones: 47
 

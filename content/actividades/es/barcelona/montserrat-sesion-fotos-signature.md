@@ -54,8 +54,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg"
 imagenAlt: Sesión de fotos privada Montserrat Signature, excursión desde Barcelona
 galeria:
-- src: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
-  alt: Sesión de fotos privada Montserrat Signature, excursión desde Barcelona (Bokun)
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
   alt: Paisaje de montaña de Montserrat durante la sesión de fotos (Bokun)
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg

@@ -111,8 +111,6 @@ imagenAlt: Puente Nuevo de Ronda atravesando el desfiladero del Tajo, acantilado
 galeria:
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
   alt: Ronda asomada al acantilado con casas blancas colgantes y sierra andaluza al fondo
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp
-  alt: Calles empedradas de Ronda con fachadas encaladas, balcones de hierro forjado y arquitectura tradicional andaluza
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
   alt: Arco de piedra del Puente Nuevo de Granada visto desde abajo, mostrando su estructura geométrica y arquitectura histórica.
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp

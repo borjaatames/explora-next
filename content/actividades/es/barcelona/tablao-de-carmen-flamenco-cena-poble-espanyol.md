@@ -176,8 +176,6 @@ galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-poble-espanyol-hero.webp
   alt: Fachada del Poble Espanyol en Barcelona con arquitectura andaluza típica, recreación de 1929 con edificios regionales
     españoles
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-carmen-amaya-h-hero.webp
-  alt: Placa conmemorativa de Carmen Amaya en la pared del tablao flamenco barcelonés, homenaje a la legendaria bailaora.
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true

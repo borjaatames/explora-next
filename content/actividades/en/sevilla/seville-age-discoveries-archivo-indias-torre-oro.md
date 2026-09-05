@@ -111,9 +111,6 @@ imagenAlt: "Archivo General de Indias in Seville — 16th-century Renaissance fa
 galeria:
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "Archivo General de Indias — UNESCO World Heritage since 1987"
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro on the Guadalquivir river — Seville's Naval Museum"
-
 ratingProveedor: 5.0
 numeroOpiniones: 3
 

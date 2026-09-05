@@ -60,8 +60,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg"
 imagenAlt: Tour autoguiado DareMapp por Málaga
 galeria:
-- src: https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg
-  alt: Tour autoguiado DareMapp por Málaga (Bokun)
 - src: https://imgcdn.bokun.tools/adbbdf61-4446-4454-94c7-8197ed4f0e55.jpg
   alt: Tour autoguiado DareMapp por Málaga (Bokun)
 - src: https://imgcdn.bokun.tools/cb19c081-a2d0-48be-8a82-b8437895992c.jpg

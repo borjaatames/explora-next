@@ -173,8 +173,6 @@ galeria:
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-guitarrista-flam-hero.webp
   alt: Manos de guitarrista tocando flamenco en guitarra acústica con técnica experta, mostrando la energía del instrumento
     tradicional
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp
-  alt: Bailaor en movimiento dinámico, levantando polvareda con sus taconazos, expresando la potencia y técnica del flamenco
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
   alt: Plaça de Catalunya al atardecer con edificios iluminados del centro de Barcelona
 ratingProveedor: 4.5

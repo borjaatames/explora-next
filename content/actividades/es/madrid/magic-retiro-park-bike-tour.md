@@ -100,9 +100,6 @@ imagenAlt: "Palacio de Cristal en el Parque del Retiro de Madrid"
 galeria:
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
     alt: "Palacio de Cristal del Parque del Retiro"
-  - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
-    alt: "Palacio de Cristal del Retiro al atardecer"
-
 ratingProveedor: 4.8
 numeroOpiniones: 73
 

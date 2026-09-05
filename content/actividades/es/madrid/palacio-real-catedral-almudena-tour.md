@@ -124,8 +124,6 @@ galeria:
   alt: Catedral de la Almudena en Madrid con arquitectura neoclásica y neogótica, fachada blanca iluminada
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Fachada del Palacio Real de Madrid en día despejado
-- src: /images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-hero.webp
-  alt: Catedral de la Almudena en Madrid al atardecer con iluminación dorada
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
   alt: Arquitectura neoclásica del Palacio Real de Madrid
 - src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero-hero.webp
