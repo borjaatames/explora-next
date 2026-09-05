@@ -111,8 +111,6 @@ galeria:
   alt: Panorámica de Ávila con muralla medieval y edificios históricos al atardecer
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
   alt: El acueducto romano de Segovia con su doble hilera de arcos
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia, fortaleza medieval con torres almenadas y muros de piedra bajo cielo azul
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp
   alt: Vista del conjunto del Monasterio de El Escorial bajo cielo despejado
 - src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp

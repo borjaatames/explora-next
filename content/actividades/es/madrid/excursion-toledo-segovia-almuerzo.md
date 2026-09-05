@@ -148,8 +148,6 @@ galeria:
   alt: Vistas de Toledo con sus monumentos históricos y arquitectura medieval
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
   alt: Alcázar de Segovia con torres medievales y muros de piedra bajo cielo azul
-- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
-  alt: Panorámica de Toledo con arquitectura medieval y río Tajo al atardecer
 - src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
   alt: Fachada principal del Monasterio de San Juan de los Reyes en Toledo, España, con arquitectura gótica
 - src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp

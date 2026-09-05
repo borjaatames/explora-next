@@ -117,8 +117,6 @@ galeria:
   alt: Aerial view of Alhambra fortress in Granada with red-tiled roofs and surrounding gardens
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp
   alt: Historic Alhambra fortress in Granada with lush gardens and architectural details
-- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp
-  alt: Lush green gardens of Generalife palace with fountains and flowers in Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Courtyard with fountain and water channels at Alhambra palace, Granada
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp

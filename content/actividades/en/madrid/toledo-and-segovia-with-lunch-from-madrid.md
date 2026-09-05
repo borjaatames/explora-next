@@ -146,8 +146,6 @@ galeria:
   alt: Historic Toledo cityscape with cathedral and medieval architecture on hillside
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
   alt: Majestic Alcázar fortress in Segovia with castle towers and fortified walls against blue sky
-- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
-  alt: Historic Toledo cityscape with medieval architecture and cathedral at sunset
 - src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
   alt: Monastery of San Juan de los Reyes in Toledo, Spain with Gothic architecture
 - src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp

@@ -105,11 +105,8 @@ imagenAlt: "Terraza de Casa Batlló de noche con música en vivo y vistas de Bar
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
   alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 1)
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 2)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp
   alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
-
 ratingProveedor: 4.5
 numeroOpiniones: 377
 

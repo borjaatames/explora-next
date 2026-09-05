@@ -130,8 +130,6 @@ galeria:
   alt: Vistas panorámicas de Barcelona con arquitectura modernista y mar Mediterráneo al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y arquitectura urbana densamente construida
-- src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y montaña al fondo bajo cielo azul
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
   alt: Vista panorámica de Barcelona con edificios históricos y modernos bajo cielo azul
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp

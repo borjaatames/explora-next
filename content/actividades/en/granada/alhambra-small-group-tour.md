@@ -119,8 +119,6 @@ galeria:
   alt: The Palace of Charles V within the grounds of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Gallery of columns and arches in the Nasrid Palaces
-- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
-  alt: Ornate columns and arches of the Alhambra palace in Granada, Spain
 - src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
   alt: Granada's historic streets with traditional white buildings and narrow passageways
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp

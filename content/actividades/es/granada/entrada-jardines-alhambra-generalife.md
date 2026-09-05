@@ -119,8 +119,6 @@ galeria:
   alt: Fortaleza de la Alhambra vista aérea, Granada con sus murallas y torres medievales
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp
   alt: Fortaleza histórica de la Alhambra en Granada rodeada de exuberante vegetación verde
-- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp
-  alt: Jardines del Generalife con flores y fuentes en la Alhambra de Granada, Andalucía
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio de los Arrayanes de la Alhambra con fuente y arcos en Granada, Andalucía
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp

@@ -114,8 +114,6 @@ galeria:
   alt: Edificio histórico en Barcelona con fachada de piedra y arquitectura clásica
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
   alt: Vistas de la ciudad de Barcelona con arquitectura distintiva y urbanismo
-- src: /images/actividades/barcelona/sagrada-familia/pexels-27348442-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura modernista y el Mediterráneo al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pixabay-915071-hero.webp
   alt: Vista aérea de Barcelona con la sagrada familia destacándose entre los edificios
 ---

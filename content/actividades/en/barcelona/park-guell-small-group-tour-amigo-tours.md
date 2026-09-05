@@ -110,11 +110,7 @@ galeria:
   alt: Park Güell small-group tour (Bokun)
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Gaudi Park Guell, Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp
-  alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: Gaudi Park Guell, Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
   alt: Gaudi Park Guell, Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
   alt: Gaudi Park Guell, Barcelona

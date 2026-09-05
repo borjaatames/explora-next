@@ -99,11 +99,8 @@ imagenAlt: "Traditional Spanish cuisine"
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
   alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
-- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
-  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp
   alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
-
 ratingProveedor: 5.0
 numeroOpiniones: 287
 

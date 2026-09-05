@@ -104,17 +104,11 @@ imagenAlt: "Interior of the Benedictine monastery of Montserrat"
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Montserrat monastery and mountains
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
-  alt: Montserrat monastery and mountains
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
   alt: Montserrat monastery and mountains
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
   alt: Montserrat monastery and mountains
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
-  alt: Montserrat monastery and mountains
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Montserrat monastery and mountains
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
   alt: Montserrat monastery and mountains
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
   alt: Montserrat monastery and mountains

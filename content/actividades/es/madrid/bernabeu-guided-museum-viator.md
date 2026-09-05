@@ -117,8 +117,6 @@ galeria:
   alt: Fotografía de Madrid con vista de edificios y calles representativos de la ciudad
 - src: /images/actividades/madrid/santiago-bernabeu/images-8-hero.webp
   alt: Plaza Mayor de Madrid con turistas y arquitectura histórica
-- src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
-  alt: Plaza Mayor de Madrid con edificios históricos y turistas disfrutando del espacio público
 ratingProveedor: 4.2
 numeroOpiniones: 452
 publicada: false

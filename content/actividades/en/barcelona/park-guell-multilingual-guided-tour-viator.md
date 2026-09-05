@@ -105,11 +105,8 @@ imagenAlt: "Park Güell multilingual guided tour group at the serpentine terrace
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
   alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
   alt: Park Güell by Gaudí with panoramic views of Barcelona (view 3)
-
 ratingProveedor: 4.3
 numeroOpiniones: 265
 

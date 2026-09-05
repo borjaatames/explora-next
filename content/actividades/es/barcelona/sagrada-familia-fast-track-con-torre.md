@@ -138,8 +138,6 @@ galeria:
   alt: Vistas panorámicas de Barcelona con edificios y arquitectura urbana al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
   alt: Barcelona, vista de la ciudad con edificios modernos y antiguos
-- src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y montañas al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Panorámica de Barcelona con la Sagrada Familia y edificios modernistas bajo cielo azul
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp

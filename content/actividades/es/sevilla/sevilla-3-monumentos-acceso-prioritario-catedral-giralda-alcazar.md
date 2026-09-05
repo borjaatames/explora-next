@@ -127,11 +127,8 @@ imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-se
 imagenAlt: "Catedral de Sevilla con la Giralda — tour combo 3 monumentos UNESCO"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
-    alt: "Catedral de Sevilla y Giralda — primer monumento del tour"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Real Alcázar — segundo monumento del tour 3 UNESCO"
-
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 

@@ -99,13 +99,10 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig
 imagenAlt: "Casa Batlló expert guide tour group on Passeig de Gràcia"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp
-  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 1)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp
   alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 2)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
   alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 3)
-
 ratingProveedor: 5.0
 numeroOpiniones: 17
 

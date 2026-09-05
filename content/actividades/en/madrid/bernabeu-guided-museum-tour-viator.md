@@ -118,8 +118,6 @@ galeria:
   alt: Madrid cityscape with historic architecture and urban landscape
 - src: /images/actividades/madrid/santiago-bernabeu/images-8-hero.webp
   alt: Madrid cityscape with historic architecture and urban landmarks
-- src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
-  alt: Madrid city skyline with modern buildings and historic architecture under clear sky
 ratingProveedor: 4.2
 numeroOpiniones: 452
 publicada: false

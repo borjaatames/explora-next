@@ -97,8 +97,6 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.we
 imagenAlt: "Park Güell with the Gaudí House Museum in the background"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
   alt: Park Güell by Gaudí — aerial view (with panoramic views of Barcelona)
 ratingProveedor: 4.5

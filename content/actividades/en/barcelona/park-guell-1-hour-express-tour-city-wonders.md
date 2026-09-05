@@ -99,11 +99,8 @@ imagenAlt: "Park Güell in Barcelona, main staircase with mosaics"
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero-hero.webp
   alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-catalonia-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
   alt: Park Güell by Gaudí with panoramic views of Barcelona (view 3)
-
 ratingProveedor: 4.4
 numeroOpiniones: 1851
 

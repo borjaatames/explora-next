@@ -76,8 +76,6 @@ galeria:
   alt: Royal Monastery of San Lorenzo de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
   alt: Royal Monastery of San Lorenzo de El Escorial
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp
-  alt: Royal Monastery of San Lorenzo de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
   alt: Royal Monastery of San Lorenzo de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
@@ -85,8 +83,6 @@ galeria:
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp
   alt: Royal Monastery of San Lorenzo de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
-  alt: Royal Monastery of San Lorenzo de El Escorial
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero.webp
   alt: Royal Monastery of San Lorenzo de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-2-hero.webp
   alt: Royal Monastery of San Lorenzo de El Escorial

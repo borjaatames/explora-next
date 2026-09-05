@@ -102,11 +102,8 @@ imagenAlt: "Park Güell guided tour group on the serpentine bench terrace"
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
   alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
 - src: /images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp
   alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
-
 ratingProveedor: 4.7
 numeroOpiniones: 19407
 

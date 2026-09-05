@@ -114,8 +114,6 @@ galeria:
   alt: Barcelona cityscape with historic architecture and urban landmarks
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
   alt: Barcelona cityscape with historic architecture and Mediterranean coastal views
-- src: /images/actividades/barcelona/sagrada-familia/pexels-27348442-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/pixabay-915071-hero.webp
   alt: Barcelona's Gothic Quarter with narrow medieval streets and historic architecture
 ---

@@ -113,17 +113,11 @@ galeria:
   alt: Tour privado a Montserrat con recogida en hotel (Bokun)
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Monasterio y montanas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
-  alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
   alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
   alt: Monasterio y montanas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp
-  alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Monasterio y montanas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
   alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
   alt: Monasterio y montanas de Montserrat
@@ -131,7 +125,6 @@ galeria:
   alt: Monasterio y montanas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
   alt: Monasterio y montanas de Montserrat
-
 ratingProveedor: 5.0
 numeroOpiniones: 658
 

@@ -119,8 +119,6 @@ galeria:
   alt: El Palacio de Carlos V dentro del recinto de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Galería de columnas y arcos en los Palacios Nazaríes
-- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
-  alt: Columnas arquitectónicas de la Alhambra de Granada con detalles islámicos ornamentales
 - src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
   alt: Vista panorámica de Granada con la Alhambra y Sierra Nevada al fondo
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp

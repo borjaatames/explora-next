@@ -110,8 +110,6 @@ galeria:
   alt: Panoramic view of Ávila cityscape with medieval walls and historic buildings
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
   alt: The Roman aqueduct of Segovia with its double row of arches
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
-  alt: Alcázar fortress in Segovia with white stone walls and towers against blue sky
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp
   alt: View of the Monastery of El Escorial complex under a clear sky
 - src: /images/actividades/madrid/escorial/monasterio-escorial-escorialbiblioteca-hero.webp

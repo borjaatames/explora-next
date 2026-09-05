@@ -102,11 +102,8 @@ imagenAlt: "Grupo en tour guiado del Park Güell en la terraza del banco serpent
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
   alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
 - src: /images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp
   alt: Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)
-
 ratingProveedor: 4.7
 numeroOpiniones: 19407
 

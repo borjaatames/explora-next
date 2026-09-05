@@ -105,11 +105,8 @@ imagenAlt: "Casa Batlló rooftop at night with live music and Barcelona views"
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
   alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 1)
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero.webp
-  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 2)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp
   alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 3)
-
 ratingProveedor: 4.5
 numeroOpiniones: 377
 
