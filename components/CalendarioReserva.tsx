@@ -13,6 +13,14 @@ type Props = {
   /** Proveedor de la actividad: muestra el sello "Ofrecida por …" con su logo. */
   proveedor?: ProveedorActividad;
   precio: string;
+  /**
+   * Valor numérico "desde" de la actividad (sin formatear), usado como
+   * fallback de `value` en el evento outbound_click cuando no hay precio
+   * exacto seleccionado vía la API de Viator (precioSel.total).
+   */
+  valorEstimado?: number;
+  /** Moneda ISO (ej. "EUR") asociada a `valorEstimado`. */
+  monedaEstimada?: string;
   precioPorPersona: string;
   duracion: string;
   idiomas: string[];
@@ -130,6 +138,8 @@ function dictFor(idioma: Idioma): Strings {
 export default function CalendarioReserva({
   idioma,
   precio,
+  valorEstimado,
+  monedaEstimada,
   precioPorPersona,
   duracion,
   idiomas,
@@ -252,18 +262,29 @@ export default function CalendarioReserva({
           }
         ).gtag;
 
+        // Valor de conversión: preferimos el precio exacto de la API de
+        // Viator para la fecha/pax seleccionados (precioSel.total); si el
+        // usuario no ha llegado a seleccionar fecha (o no hay selector de
+        // precio en vivo, ej. sticky móvil), caemos al "desde" de la ficha.
+        // Sin esto GA4 registra la conversión pero con 0 € de ingresos,
+        // impidiendo medir ROAS real (ver auditoría GA4 2026-09-05).
+        const valorConversion = precioSel.total ?? valorEstimado ?? null;
+        const monedaConversion = precioSel.moneda ?? monedaEstimada ?? null;
+
         gtag("event", "outbound_click", {
           event_category: "ficha",
           event_label: slug,
           item_name: slug,
           ficha_slug: slug,
           gclid: gclid ?? null,
+          ...(valorConversion !== null ? { value: valorConversion } : {}),
+          ...(monedaConversion !== null ? { currency: monedaConversion } : {}),
         });
       }
 
       window.open(url, "_blank", "noopener,noreferrer");
     },
-    [urlReservaBase]
+    [urlReservaBase, valorEstimado, monedaEstimada, precioSel.total, precioSel.moneda]
   );
 
   // Rating como dato agregado del proveedor (Viator). NO se renderizan

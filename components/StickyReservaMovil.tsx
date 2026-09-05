@@ -15,6 +15,10 @@ const CalendarioReserva = dynamic(() => import("./CalendarioReserva"), {
 type Props = {
   idioma: Idioma;
   precio: string;
+  /** Valor numérico "desde" sin formatear, para el evento outbound_click. */
+  valorEstimado?: number;
+  /** Moneda ISO (ej. "EUR") asociada a `valorEstimado`. */
+  monedaEstimada?: string;
   precioPorPersona: string;
   duracion: string;
   idiomas: string[];
@@ -74,6 +78,8 @@ function dictFor(idioma: Idioma): Strings {
 export default function StickyReservaMovil({
   idioma,
   precio,
+  valorEstimado,
+  monedaEstimada,
   precioPorPersona,
   duracion,
   idiomas,
@@ -219,6 +225,8 @@ export default function StickyReservaMovil({
               <CalendarioReserva
                 idioma={idioma}
                 precio={precio}
+                valorEstimado={valorEstimado}
+                monedaEstimada={monedaEstimada}
                 precioPorPersona={precioPorPersona}
                 duracion={duracion}
                 idiomas={idiomas}

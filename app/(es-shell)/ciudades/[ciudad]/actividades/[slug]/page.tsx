@@ -462,6 +462,8 @@ export default async function ActividadPage({ params }: Props) {
                 proveedor={actividad.proveedor}
                 viatorCode={codViator ?? undefined}
                 precio={precio}
+                valorEstimado={precioDesdeFinal}
+                monedaEstimada={actividad.moneda}
                 precioPorPersona={dict.actividades.porPersona}
                 duracion={actividad.duracion}
                 idiomas={actividad.idiomas}
@@ -521,6 +523,8 @@ export default async function ActividadPage({ params }: Props) {
         <StickyReservaMovil
           idioma="es"
           precio={`${dict.actividades.desde} ${precio}`}
+          valorEstimado={precioDesdeFinal}
+          monedaEstimada={actividad.moneda}
           precioPorPersona={dict.actividades.porPersona}
           duracion={actividad.duracion}
           idiomas={actividad.idiomas}
