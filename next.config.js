@@ -218,25 +218,6 @@ const nextConfig = {
   async redirects() {
     const redirects = [];
 
-    // ── 0. Canonicalización de host: www.exploraspain.com -> exploraspain.com.
-    //    El canonical tag de cada página ya apunta a la version sin "www"
-    //    (ver `SITE_URL` en app/sitemap.ts, app/robots.ts, etc.), pero sin
-    //    este redirect a nivel de host, exploraspain.com y
-    //    www.exploraspain.com sirven la MISMA pagina 200 OK en paralelo
-    //    (verificado con WebFetch el 6 sept 2026). Google acaba
-    //    consolidando via canonical (bucket "pagina alternativa con
-    //    etiqueta canonica adecuada" en Search Console, 230 paginas), pero
-    //    tiene que rastrear las dos versiones de cada URL para llegar ahi,
-    //    duplicando el gasto de crawl budget en un dominio pequeno que no
-    //    le sobra. Ver claude/auditoria-trafico-organico-2026-09-06-profundizacion.md,
-    //    seccion 1.3.
-    redirects.push({
-      source: "/:path*",
-      has: [{ type: "host", value: "www.exploraspain.com" }],
-      destination: "https://exploraspain.com/:path*",
-      permanent: true,
-    });
-
     // ── 1. Redirects 301 de las URLs viejas de categoría (cultural, gastronomico,
     //    aireLibre, nocturno, excursion, familiar) a las nuevas (mayo 2026).
     //    Aplica a ES (/ciudades/{ciudad}/actividades/c/{cat}) y a las EN
