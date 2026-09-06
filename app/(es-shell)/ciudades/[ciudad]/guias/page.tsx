@@ -16,7 +16,7 @@ import {
 } from "@/lib/i18n/utils";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 type Props = {
   params: { ciudad: string };

@@ -30,7 +30,7 @@ import ActividadesFiltradas, {
 } from "@/components/ciudad/ActividadesFiltradas";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 type Props = {
   params: { lang: string; ciudad: string };

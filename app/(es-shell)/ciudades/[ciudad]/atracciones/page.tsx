@@ -16,7 +16,7 @@ import {
 } from "@/lib/i18n/utils";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 type Props = {
   params: { ciudad: string };
@@ -75,7 +75,7 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://exploraspain.com" },
+      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.exploraspain.com" },
       { "@type": "ListItem", position: 2, name: "Ciudades", item: "https://exploraspain.com/ciudades" },
       { "@type": "ListItem", position: 3, name: ciudad.nombre, item: `https://exploraspain.com${ciudad.url}` },
       { "@type": "ListItem", position: 4, name: "Atracciones", item: `https://exploraspain.com${urlAtraccionesDeCiudad("es", params.ciudad)}` },

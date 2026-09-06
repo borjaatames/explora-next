@@ -28,7 +28,7 @@ import {
 import type { Idioma } from "@/lib/i18n/types";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 /**
  * Devuelve el bloque hreflang `alternates.languages` para una entrada

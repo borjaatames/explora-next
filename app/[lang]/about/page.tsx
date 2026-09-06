@@ -466,7 +466,7 @@ export async function generateMetadata({
   const copy = getCopy(lang);
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
   // /about en EN, /sobre-nosotros en ES (legacy). Si en el futuro
   // creamos /de/about, /fr/about, etc., la convención EN se mantiene.
@@ -512,7 +512,7 @@ export default function AboutPage({ params }: { params: { lang: string } }) {
 
   const copy = getCopy(lang);
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const pageUrl = `${siteUrl}/${lang}/about`;
   const homeUrl = `${siteUrl}/${lang}`;
 

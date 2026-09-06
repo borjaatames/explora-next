@@ -140,7 +140,7 @@ export async function generateMetadata({
   const copy = getCopy(lang);
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const canonicalUrl = `${siteUrl}${urlContacto(lang)}`;
   const languages = hreflangAlternates((l) => urlContacto(l));
 
@@ -179,7 +179,7 @@ export default function ContactPage({
 
   const copy = getCopy(lang);
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const pageUrl = `${siteUrl}${urlContacto(lang)}`;
   const homeUrl = `${siteUrl}${prefijoIdioma(lang) || "/"}`;
 

@@ -33,7 +33,7 @@ import FaqActividad from "@/components/FaqActividad";
 import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 type Props = {
   params: { lang: string; ciudad: string; slug: string };

@@ -24,7 +24,7 @@ const playfair = Playfair_Display({
 });
 
 const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 const gaId = process.env.NEXT_PUBLIC_GA_ID;
 

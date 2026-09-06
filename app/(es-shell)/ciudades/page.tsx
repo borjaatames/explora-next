@@ -10,7 +10,7 @@ import {
 } from "@/lib/i18n/utils";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 export const metadata: Metadata = {
   title: "Ciudades de España",

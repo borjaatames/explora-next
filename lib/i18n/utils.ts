@@ -130,7 +130,7 @@ export function formatearFecha(iso: string, idioma: Idioma): string {
 }
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 export function hreflangAlternates(
   constructorUrl: (idioma: Idioma) => string | null

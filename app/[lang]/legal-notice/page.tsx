@@ -32,7 +32,7 @@ export async function generateMetadata({
 
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const canonicalUrl = `${siteUrl}${urlAvisoLegal(lang)}`;
   const languages = hreflangAlternates((l) => urlAvisoLegal(l));
 
@@ -82,7 +82,7 @@ export default function LegalNoticePage({
   const esAleman = lang === "de";
 
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const pageUrl = `${siteUrl}${urlAvisoLegal(lang)}`;
   const homeUrl = `${siteUrl}${prefijoIdioma(lang) || "/"}`;
 

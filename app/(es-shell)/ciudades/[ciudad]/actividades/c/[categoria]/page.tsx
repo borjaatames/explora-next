@@ -20,7 +20,7 @@ import {
 import SelloProveedor from "@/components/SelloProveedor";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 /**
  * Etiqueta editorial en plural para construir títulos del tipo

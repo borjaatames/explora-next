@@ -33,7 +33,7 @@ export async function generateMetadata({
 
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const canonicalUrl = `${siteUrl}${urlCookies(lang)}`;
   const languages = hreflangAlternates((l) => urlCookies(l));
 
@@ -83,7 +83,7 @@ export default function CookiesPage({
   const esAleman = lang === "de";
 
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
   const pageUrl = `${siteUrl}${urlCookies(lang)}`;
   const homeUrl = `${siteUrl}${prefijoIdioma(lang) || "/"}`;
 

@@ -15,7 +15,7 @@ import {
 import type { Idioma } from "@/lib/i18n/types";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 type Props = {
   params: { lang: string };

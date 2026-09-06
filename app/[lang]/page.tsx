@@ -24,7 +24,7 @@ import SelloProveedor from "@/components/SelloProveedor";
 import TrustStrip from "@/components/TrustStrip";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://exploraspain.com";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 /**
  * Destinos principales que se muestran en la home (orden manual). El resto
