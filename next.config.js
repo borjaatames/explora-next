@@ -4,12 +4,17 @@ const path = require("path");
 const matter = require("gray-matter");
 
 /**
- * Actividades despublicadas de proveedor Viator (leídas en vivo del
- * frontmatter en build time, no una lista hardcodeada). Se despublicó
- * el catálogo completo de Viator el 22 de junio de 2026 (ver
- * listado-tareas-2026-06-22.md) para migrar comisión a Bokun donde hay
- * proveedor equivalente, pero las URLs de esas fichas llevaban semanas
- * en producción — es muy probable que Google las tuviera indexadas.
+ * Actividades despublicadas de CUALQUIER proveedor (leídas en vivo del
+ * frontmatter en build time, no una lista hardcodeada). Originalmente
+ * cubría solo Viator (despublicado el 22 de junio de 2026, ver
+ * listado-tareas-2026-06-22.md, para migrar comisión a Bokun donde hay
+ * proveedor equivalente), pero fichas despublicadas de OTROS
+ * proveedores (GetYourGuide, Bokun) tenían el mismo problema y se
+ * quedaban sin redirect. Caso real confirmado en Search Console
+ * (septiembre 2026): la ficha de GetYourGuide de Park Güell en
+ * Barcelona seguía indexada y devolvía 404 puro. Generalizado en
+ * septiembre 2026 para cubrir cualquier `proveedor` (ver
+ * claude/handoff-exploraspain-2026-09-05-ga4-fixes-404-viator.md).
  *
  * Sin redirect, esas URLs devuelven 404 puro (confirmado: la página
  * "404" aparecía en el top de páginas más vistas en GA4 en agosto).
@@ -19,12 +24,12 @@ const matter = require("gray-matter");
  * nueva (ver pendiente "reformular taxonomía de categorías") y no es
  * fiable para construir la URL de destino.
  *
- * Calculado dinámicamente para que cualquier despublicación futura de
- * Viator quede cubierta automáticamente en el siguiente build, sin
- * tener que tocar este archivo a mano. Ver
+ * Calculado dinámicamente para que cualquier despublicación futura, de
+ * cualquier proveedor, quede cubierta automáticamente en el siguiente
+ * build, sin tener que tocar este archivo a mano. Ver
  * auditoria-seo-organico-2026-08-15.md, sección 2.
  */
-function obtenerActividadesDespublicadasViator() {
+function obtenerActividadesDespublicadas() {
   const raiz = path.join(process.cwd(), "content", "actividades");
   const resultado = { es: [], en: [] };
 
@@ -46,7 +51,7 @@ function obtenerActividadesDespublicadasViator() {
         const ruta = path.join(dirCiudad, archivo);
         const { data } = matter(fs.readFileSync(ruta, "utf8"));
 
-        if (data.publicada === false && data.proveedor === "viator") {
+        if (data.publicada === false) {
           resultado[idioma].push({ ciudad: data.ciudad, slug: data.slug });
         }
       }
@@ -288,15 +293,17 @@ const nextConfig = {
       redirects.push({ source: viejaEn, destination: destinoEn, permanent: true });
     }
 
-    // ── 3. Fichas de actividad despublicadas de Viator (agosto 2026) →
+    // ── 3. Fichas de actividad despublicadas de CUALQUIER proveedor →
     //    índice de actividades de su ciudad, salvo que a esa ciudad no le
     //    quede ninguna actividad publicada — en ese caso el índice es
     //    también un 404, así que caemos al hub de la ciudad (o al índice
-    //    general si el hub también está despublicado). Ver funciones
-    //    obtenerActividadesDespublicadasViator() / tieneActividadesPublicadas()
-    //    / destinoParaCiudadSinActividad() arriba para el porqué.
-    const despublicadasViator = obtenerActividadesDespublicadasViator();
-    for (const { ciudad, slug } of despublicadasViator.es) {
+    //    general si el hub también está despublicado). Generalizado en
+    //    septiembre 2026 para cubrir GetYourGuide y Bokun además de
+    //    Viator. Ver funciones obtenerActividadesDespublicadas() /
+    //    tieneActividadesPublicadas() / destinoParaCiudadSinActividad()
+    //    arriba para el porqué.
+    const despublicadas = obtenerActividadesDespublicadas();
+    for (const { ciudad, slug } of despublicadas.es) {
       const destino = tieneActividadesPublicadas("es", ciudad)
         ? `/ciudades/${ciudad}/actividades`
         : destinoParaCiudadSinActividad("es", ciudad);
@@ -306,7 +313,7 @@ const nextConfig = {
         permanent: true,
       });
     }
-    for (const { ciudad, slug } of despublicadasViator.en) {
+    for (const { ciudad, slug } of despublicadas.en) {
       const destino = tieneActividadesPublicadas("en", ciudad)
         ? `/en/cities/${ciudad}/activities`
         : destinoParaCiudadSinActividad("en", ciudad);
