@@ -104,6 +104,8 @@ publicada: true
 destacada: false
 fecha: "2026-05-16"
 fecha_actualizacion: "2026-05-16"
+guiasRelacionadas:
+  - "flamenco-cueva-sacromonte-cual-elegir"
 ---
 
 # Espectáculo flamenco en Cuevas Los Tarantos (Sacromonte)

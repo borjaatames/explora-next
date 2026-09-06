@@ -104,6 +104,8 @@ publicada: true
 destacada: false
 fecha: "2026-05-16"
 fecha_actualizacion: "2026-05-16"
+guiasRelacionadas:
+  - "flamenco-cave-sacromonte-which-to-choose"
 ---
 
 # Flamenco Show at Cuevas Los Tarantos (Sacromonte)
