@@ -324,6 +324,21 @@ const nextConfig = {
       });
     }
 
+    // ── 3.5. URL histórica con typo indexada por Google (Search Console,
+    //    "No se ha encontrado (404)", septiembre 2026): la ficha real de
+    //    Park Güell usa el slug "...-sin-colas" (plural) y así ha estado
+    //    siempre en el repo — no hay ningún enlace interno actual con el
+    //    singular "...-sin-cola". Es una URL huérfana que Google indexó
+    //    en algún momento (typo externo o rastreo antiguo) y que sigue
+    //    reportando como 404 aunque no la genere ya ningún enlace del
+    //    sitio. Redirect de seguridad, de coste nulo, para que esa URL
+    //    resuelva al slug correcto en vez de devolver 404 puro.
+    redirects.push({
+      source: "/ciudades/barcelona/actividades/park-guell-tour-guiado-mejor-valorado-sin-cola",
+      destination: "/ciudades/barcelona/actividades/park-guell-tour-guiado-mejor-valorado-sin-colas",
+      permanent: true,
+    });
+
     // ── 4. Guías editoriales despublicadas (agosto 2026) → índice general
     //    de guías. Ver función obtenerGuiasDespublicadas() arriba para el
     //    porqué del destino (no se puede usar el hub de ciudad: también
