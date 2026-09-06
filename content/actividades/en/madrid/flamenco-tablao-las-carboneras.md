@@ -131,6 +131,8 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 atraccionesRelacionadas: []
+guiasRelacionadas:
+  - "flamenco-madrid-which-tablao-to-choose"
 ---
 
 ## What you'll see

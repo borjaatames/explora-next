@@ -112,6 +112,8 @@ fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas: []
 
 # TODO: no hay imagen específica del Tablao Torres Bermejas. Usado placeholder de Gran Vía por proximidad geográfica.
+guiasRelacionadas:
+  - "flamenco-madrid-que-tablao-elegir"
 ---
 
 ## Qué vas a ver
