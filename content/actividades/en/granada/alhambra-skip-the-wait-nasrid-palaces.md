@@ -119,8 +119,8 @@ galeria:
   alt: Arches and inner courtyard of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
   alt: Ornate hallway in Alhambra palace featuring arched columns and decorative Islamic architecture
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Granada's historic architecture and winding cobblestone streets under soft daylight
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp

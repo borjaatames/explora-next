@@ -124,8 +124,8 @@ galeria:
   alt: The Alhambra surrounded by gardens and cypresses above Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-world-heritage-site-islamic-art-hero.webp
   alt: Arches decorated with geometric plasterwork in the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369629-hero.webp

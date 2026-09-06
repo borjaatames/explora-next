@@ -117,8 +117,8 @@ imagenAlt: Patio de la Alhambra con palmeras reflejadas en una acequia
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
   alt: La Alcazaba de la Alhambra al atardecer sobre Granada
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Arcos y columnas de un patio de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp

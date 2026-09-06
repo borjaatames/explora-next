@@ -110,8 +110,6 @@ galeria:
   alt: The stage at the Las Carboneras tablao, with a guitar and chairs set up before the show.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
   alt: Flamenco dancer with a red shawl during a live performance
-- src: /images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp
-  alt: Madrid cityscape with historic architecture and urban streets
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
   alt: A flamenco dancer in a white suit performing at Las Carboneras.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp

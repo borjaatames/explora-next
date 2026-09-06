@@ -111,8 +111,6 @@ galeria:
   alt: Escenario del tablao Las Carboneras, con guitarra y sillas dispuestas antes del espectáculo.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
   alt: Bailaora de flamenco con un manton rojo durante una actuacion en directo
-- src: /images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp
-  alt: Plaza Mayor de Madrid con edificios históricos y visitantes
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
   alt: Bailaor de flamenco en traje blanco durante una actuación en Las Carboneras.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp

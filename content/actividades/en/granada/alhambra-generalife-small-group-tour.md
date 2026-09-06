@@ -114,8 +114,8 @@ galeria:
   alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
   alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: Granada's historic streets lined with traditional whitewashed buildings and narrow alleyways
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp

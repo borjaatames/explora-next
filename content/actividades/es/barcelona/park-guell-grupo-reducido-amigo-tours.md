@@ -120,8 +120,8 @@ galeria:
   alt: Vista de las casas del guarda de Park Guell con la ciudad de Barcelona al fondo
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
   alt: Fuente escultorica de mosaico ceramico en Park Guell
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Chimeneas esculturales con forma de guerrero en la azotea de un edificio modernista de Gaudi
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
+  alt: La famosa fuente-escultura del dragón de mosaico (El Drac) en la escalinata de entrada del Park Güell
 ratingProveedor: 4.3
 numeroOpiniones: 318
 

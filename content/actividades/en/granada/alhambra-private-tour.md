@@ -115,8 +115,8 @@ imagenAlt: Courtyard of the Alhambra with palm trees reflected in a water channe
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
   alt: The Alcazaba of the Alhambra at dusk above Granada
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Arches and columns of a courtyard in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp

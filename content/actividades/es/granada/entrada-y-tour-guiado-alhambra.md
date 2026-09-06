@@ -125,8 +125,8 @@ galeria:
   alt: La Alhambra rodeada de jardines y cipreses sobre Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Otro ángulo de un arco de mocárabes en los Palacios Nazaríes de la Alhambra.
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-world-heritage-site-islamic-art-hero.webp
   alt: Arcos decorados con yesería geométrica de los Palacios Nazaríes
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369629-hero.webp

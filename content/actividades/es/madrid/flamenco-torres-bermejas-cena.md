@@ -99,8 +99,8 @@ galeria:
   alt: Vista aerea de la Gran Via de Madrid al atardecer, con el edificio Metropolis
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
   alt: Edificios de arquitectura ornamentada en la Gran Via de Madrid
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
-  alt: Templo egipcio de piedra con el perfil de rascacielos de Madrid al fondo
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
+  alt: El edificio Metropolis, con su cupula dorada y la escultura del angel, en la Gran Via de Madrid
 
 ratingProveedor: 4.5
 numeroOpiniones: 10330

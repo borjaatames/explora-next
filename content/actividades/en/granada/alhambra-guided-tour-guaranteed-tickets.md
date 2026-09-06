@@ -109,8 +109,8 @@ imagenAlt: Granada's historic city center with traditional white buildings and m
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
+  alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
   alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp

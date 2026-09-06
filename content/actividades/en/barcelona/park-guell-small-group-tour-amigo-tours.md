@@ -120,8 +120,8 @@ galeria:
   alt: View of Park Guell's gatehouse pavilions with the city of Barcelona in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
   alt: Ceramic mosaic sculptural fountain at Park Guell
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Sculptural helmet-shaped chimneys on the rooftop of a Gaudi modernist building
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
+  alt: The park's famous mosaic dragon fountain (El Drac) on the entrance staircase of Park Güell
 ratingProveedor: 4.3
 numeroOpiniones: 318
 

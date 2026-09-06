@@ -113,8 +113,8 @@ galeria:
   alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
   alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: 'Granada: vista aérea de la Alhambra y el barrio del Albaicín con Sierra Nevada al fondo'
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp

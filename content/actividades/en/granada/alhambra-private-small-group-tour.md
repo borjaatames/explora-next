@@ -115,8 +115,8 @@ galeria:
   alt: Detail of the plasterwork and arches of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Pavilion of the Court of the Lions of the Alhambra of Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp

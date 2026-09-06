@@ -120,8 +120,8 @@ imagenAlt: Vista panorámica de la Alhambra de Granada sobre la colina de la Sab
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Galería de columnas y arcos en los Palacios Nazaríes de la Alhambra
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369624-hero.webp
   alt: Plaza Mayor de Granada con arquitectura histórica y atmósfera medieval
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp

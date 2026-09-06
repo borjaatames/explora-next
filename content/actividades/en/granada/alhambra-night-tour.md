@@ -124,8 +124,8 @@ galeria:
   alt: Detail of the muqarnas vault ceiling in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/unsplash-EczvSxn9Ges-hero.webp
   alt: Historic Granada street with traditional architecture and narrow cobblestone path
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: Historic architecture and narrow streets of Granada's old town
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp

@@ -113,8 +113,8 @@ galeria:
   alt: Vista panorámica de Granada con la Alhambra destacando entre la arquitectura histórica
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Otro ángulo de un arco de mocárabes en los Palacios Nazaríes de la Alhambra.
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
+  alt: Techo de madera artesonado en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio del Agua de la Alhambra en Granada con fuente central y arcos arabescos
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp

@@ -118,8 +118,8 @@ galeria:
   alt: Arcos y patio interior de los Palacios Nazaríes de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
   alt: Pasillo de la Alhambra con columnas y arcos de arquitectura islámica granadina
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp

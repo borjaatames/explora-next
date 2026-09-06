@@ -73,8 +73,8 @@ galeria:
   alt: Aerial view of Madrid's Gran Via at dusk, with the Metropolis building
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
   alt: Ornately decorated buildings on Madrid's Gran Via
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
-  alt: Egyptian stone temple with the Madrid skyline in the background
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
+  alt: The Metropolis building, with its golden dome and angel sculpture, on Madrid's Gran Via
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-hero.webp
   alt: Night view of Madrid's Gran Via with the illuminated Schweppes sign in the background
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-city-street-ornate-white-hero.webp

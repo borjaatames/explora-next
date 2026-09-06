@@ -117,8 +117,8 @@ galeria:
   alt: Detalle de las yeserias y arcos de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Otro ángulo de un arco de mocárabes en los Palacios Nazaríes de la Alhambra.
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Pabellón del Patio de los Leones de la Alhambra de Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp

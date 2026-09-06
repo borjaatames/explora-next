@@ -107,8 +107,8 @@ galeria:
   alt: Barcelona cityscape with modern architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Sculptural helmet-shaped chimneys on the rooftop of a Gaudi modernist building
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
+  alt: The park's famous mosaic dragon fountain (El Drac) on the entrance staircase of Park Güell
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
   alt: Gothic Quarter Barcelona's narrow medieval streets with shadowy arches and historic architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp

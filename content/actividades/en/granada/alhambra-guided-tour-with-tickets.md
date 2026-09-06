@@ -120,8 +120,8 @@ galeria:
   alt: Muqarnas archway with Arabic inscriptions in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
   alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
   alt: Detail of the muqarnas vault ceiling in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-36046522-hero.webp

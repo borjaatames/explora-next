@@ -74,16 +74,16 @@ galeria:
   alt: Spice stall with garlic and dried chili peppers hanging at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
   alt: Fresh bonito fish for sale at a fish stall in La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
-  alt: Interior of a municipal market hall with an ornate ironwork roof and Art Nouveau stained glass
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-st-josep-barcelona-hero.webp
+  alt: The stained-glass entrance sign of Mercat de Sant Josep - La Boqueria in Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
   alt: Display of colorful candy at a sweets stall in La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
   alt: Stained-glass crest with the crown and the name of Mercat de Sant Josep - La Boqueria, at the entrance
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
   alt: Fruit and vegetable stall with hanging chili peppers at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
-  alt: Interior of a municipal market hall under a large glass dome with decorative stained glass
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-sant-josep-17-hero.webp
+  alt: Fresh seafood stall with shellfish and lobster at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
   alt: Variety of loose olives at a stall in La Boqueria market
 publicada: true

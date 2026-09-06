@@ -99,8 +99,8 @@ opinionEditorial: |
 categoria: "cultural"
 keywords: ["park guell tour viator multilingue", "park guell tour frances", "park guell tour guiado en español", "park guell tour sin colas viator", "tours for today park guell"]
 
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp"
-imagenAlt: "Grupo en tour multilingüe del Park Güell en la terraza serpenteante"
+imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp"
+imagenAlt: "La fuente-escultura del dragón de mosaico en la escalinata de entrada del Park Güell"
 
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp

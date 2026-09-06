@@ -109,8 +109,8 @@ imagenAlt: Granada, ciudad histórica de Andalucía con la Alhambra y arquitectu
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Galería de columnas y arcos en los Palacios Nazaríes de la Alhambra
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
+  alt: Otro angulo de un arco de mocarabes en los Palacios Nazaries de la Alhambra.
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
   alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp

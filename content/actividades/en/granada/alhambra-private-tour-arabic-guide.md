@@ -113,8 +113,8 @@ galeria:
   alt: Granada cityscape with historic architecture and terracotta roofs at sunset
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
+  alt: Wooden coffered ceiling in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Ornate water courtyard with reflecting pools and arches in the Alhambra palace, Granada
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp

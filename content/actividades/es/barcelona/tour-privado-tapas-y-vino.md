@@ -71,16 +71,16 @@ galeria:
   alt: Puesto de especias, ajos y guindillas secas colgando en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
   alt: Pescado fresco (bonito) a la venta en una pescaderia del Mercado de la Boqueria
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
-  alt: Interior de mercado municipal con techumbre de hierro y vidrieras de estilo modernista
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-st-josep-barcelona-hero.webp
+  alt: El cartel de entrada de vidrieras del Mercat de Sant Josep - La Boqueria en Barcelona
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
   alt: Expositor de golosinas de colores en un puesto de dulces del Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
   alt: Escudo de vidriera con la corona y el nombre del Mercat de Sant Josep - la Boqueria, en la entrada
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
   alt: Puesto de frutas y verduras con guindillas colgando en el Mercado de la Boqueria
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
-  alt: Interior de mercado municipal bajo una gran cupula acristalada con vidrieras decorativas
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-sant-josep-17-hero.webp
+  alt: Puesto de marisco fresco con mariscos y bogavante en el mercado de La Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
   alt: Variedad de aceitunas a granel en un puesto del Mercado de la Boqueria
 publicada: true

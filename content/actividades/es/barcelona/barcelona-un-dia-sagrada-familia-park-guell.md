@@ -107,8 +107,8 @@ galeria:
   alt: Vistas panorámicas de Barcelona con edificios históricos y arquitectura moderna bajo cielo azul.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Chimeneas esculturales con forma de guerrero en la azotea de un edificio modernista de Gaudi
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
+  alt: La famosa fuente-escultura del dragón de mosaico (El Drac) en la escalinata de entrada del Park Güell
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
   alt: Calles estrechas y atmósfera gótica en el Barrio Gótico de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp

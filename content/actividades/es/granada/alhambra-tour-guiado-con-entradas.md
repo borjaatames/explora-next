@@ -120,8 +120,8 @@ galeria:
   alt: Arco de mocarabes con inscripciones arabes en los Palacios Nazaries
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
   alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
   alt: Detalle de la boveda de mocarabes en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-36046522-hero.webp

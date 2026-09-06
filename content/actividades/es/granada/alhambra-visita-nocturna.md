@@ -125,8 +125,8 @@ galeria:
   alt: Detalle de la boveda de mocarabes en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/unsplash-EczvSxn9Ges-hero.webp
   alt: Panorámica de Granada con la Alhambra al fondo y sierra Nevada
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada de fondo
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp

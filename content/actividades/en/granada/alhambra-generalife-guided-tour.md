@@ -120,8 +120,8 @@ imagenAlt: Panoramic view of the Alhambra of Granada on the Sabika hill
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
-- src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369624-hero.webp
   alt: Historic Granada architecture with traditional buildings and urban landscape
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
