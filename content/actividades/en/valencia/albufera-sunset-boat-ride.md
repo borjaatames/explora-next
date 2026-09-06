@@ -41,7 +41,7 @@ keywords:
 - albufera sunset boat ride
 - albufera boat trip valencia
 - albufera natural park
-imagen: "/images/actividades/valencia/albufera/albufera-atardecer-paseo-en-barca-hero.webp"
+imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
 imagenAlt: Sunset over Valencia's Albufera lake from a boat
 galeria:
 - src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp

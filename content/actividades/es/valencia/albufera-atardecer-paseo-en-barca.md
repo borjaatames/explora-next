@@ -41,7 +41,7 @@ keywords:
 - albufera atardecer barca
 - paseo en barca albufera valencia
 - parque natural albufera
-imagen: "/images/actividades/valencia/albufera/albufera-atardecer-paseo-en-barca-hero.webp"
+imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
 imagenAlt: Atardecer sobre el lago de la Albufera de Valencia desde una barca
 galeria:
 - src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp

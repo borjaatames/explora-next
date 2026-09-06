@@ -40,8 +40,8 @@ keywords:
 - montanejos waterfall of the bride
 - montanejos thermal springs
 - montanejos day trip from valencia
-imagen: "/images/actividades/valencia/montanejos/excursion-montanejos-fuentes-termales-salto-novia-hero.webp"
-imagenAlt: The Waterfall of the Bride in Montanejos, Castellón
+imagen: "/images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp"
+imagenAlt: Aerial view of the village of Montanejos nestled in the Mijares river canyon, Castellon
 galeria:
 publicada: false
 destacada: false
