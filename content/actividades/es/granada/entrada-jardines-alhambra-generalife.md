@@ -143,6 +143,8 @@ publicada: true
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'
+guiasRelacionadas:
+  - "alhambra-que-tour-elegir"
 ---
 
 # Entrada a los Jardines de la Alhambra y el Generalife (sin Palacios Nazaríes)

@@ -148,6 +148,8 @@ fecha: '2026-05-14'
 atraccionesRelacionadas:
 - alhambra
 - palacios-nazaries
+guiasRelacionadas:
+  - "alhambra-que-tour-elegir"
 ---
 
 ## Qué vas a ver

@@ -141,6 +141,8 @@ publicada: true
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'
+guiasRelacionadas:
+  - "alhambra-which-tour-to-choose"
 ---
 
 # Alhambra Gardens and Generalife Ticket (without Nasrid Palaces)

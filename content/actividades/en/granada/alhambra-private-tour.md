@@ -144,6 +144,8 @@ destacada: false
 fecha: '2026-05-14'
 atraccionesRelacionadas:
 - alhambra
+guiasRelacionadas:
+  - "alhambra-which-tour-to-choose"
 ---
 
 ## What you'll see
