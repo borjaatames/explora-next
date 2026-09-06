@@ -98,9 +98,9 @@ imagenAlt: "Cocina española tradicional"
 
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
-  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+  alt: Camarero preparando un vermut en un bar de tapas de Madrid
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp
-  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+  alt: Bocadillo de calamares y dos canas de cerveza en un bar de Madrid
 ratingProveedor: 5.0
 numeroOpiniones: 287
 

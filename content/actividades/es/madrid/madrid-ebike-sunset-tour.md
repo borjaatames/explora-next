@@ -121,9 +121,9 @@ galeria:
 - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
   alt: Portada de header con vista destacada de Madrid
 - src: /images/actividades/madrid/ebike/images-hero.webp
-  alt: Vistas panorámicas del skyline de Madrid con edificios modernos y monumentos históricos
+  alt: Grupo de ciclistas con bicicletas eléctricas frente al Palacio de Cristal, en el parque del Retiro de Madrid.
 - src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-  alt: Skyline de Madrid con edificios modernos y históricos al atardecer
+  alt: Grupo de ciclistas con casco posando en bicicleta eléctrica frente al Palacio Real de Madrid.
 ratingProveedor: 4.6
 numeroOpiniones: 5
 publicada: false

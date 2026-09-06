@@ -115,11 +115,11 @@ galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Picos rocosos de Montserrat con formaciones geológicas únicas y vegetación mediterránea
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Abadía de Montserrat con sus característicos picos rocosos y construcciones religiosas
+  alt: Mural con la historia de la fundacion del monasterio de Montserrat y la Moreneta
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Panorámica de Montserrat con formaciones rocosas escarpadas bajo cielo despejado, Barcelona
+  alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Abadía de Montserrat, monasterio benedictino en la sierra cerca de Barcelona
+  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
   alt: Monasterio de Montserrat en la montaña rocosa de Cataluña, rodeado de naturaleza
 - src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp

@@ -121,9 +121,9 @@ galeria:
 - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
   alt: Madrid cityscape with historic architecture and modern buildings
 - src: /images/actividades/madrid/ebike/images-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
+  alt: A group of cyclists with e-bikes in front of the Palacio de Cristal in Madrid's Retiro Park.
 - src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
+  alt: A group of helmeted cyclists posing on e-bikes in front of the Royal Palace of Madrid.
 ratingProveedor: 4.6
 numeroOpiniones: 5
 publicada: false

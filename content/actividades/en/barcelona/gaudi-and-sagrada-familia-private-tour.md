@@ -117,7 +117,7 @@ atraccionesRelacionadas:
 - sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban streets
+  alt: The neo-Gothic Pont del Bisbe, known as the Bridge of Sighs, in Barcelona's Gothic Quarter.
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
   alt: Barcelona cityscape with architectural landmarks and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
@@ -147,7 +147,7 @@ galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
   alt: Barcelona cityscape with historic architecture and urban landmarks
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban streets
+  alt: A narrow stone alley in Barcelona's Gothic Quarter with a scooter parked along it.
 ---
 
 ## What you'll see

@@ -122,7 +122,7 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio de los Arrayanes de la Alhambra con fuente y arcos en Granada, Andalucía
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Plaza histórica de Granada con arquitectura colonial y torre de iglesia al fondo
+  alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Paisaje urbano de Granada con arquitectura histórica y montañas de fondo al atardecer
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-andalusia-spain-hero-hero.webp

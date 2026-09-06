@@ -66,33 +66,33 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
 imagenAlt: La Sagrada Familia de Barcelona, una de las paradas del tour por España
 galeria:
 - src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
-  alt: Tour privado de 9 días por España (Bokun)
+  alt: Tour privado de 9 días por España, foto 1 de 5
 - src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
-  alt: Tour privado de 9 días por España (Bokun)
+  alt: Tour privado de 9 días por España, foto 2 de 5
 - src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
-  alt: Tour privado de 9 días por España (Bokun)
+  alt: Tour privado de 9 días por España, foto 3 de 5
 - src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
-  alt: Tour privado de 9 días por España (Bokun)
+  alt: Tour privado de 9 días por España, foto 4 de 5
 - src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
-  alt: Tour privado de 9 días por España (Bokun)
+  alt: Tour privado de 9 días por España, foto 5 de 5
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Nave interior de la Sagrada Familia vista hacia el altar, con sus altas columnas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Vidrieras interiores de la Sagrada Familia en tonos azules y verdes iluminando la nave
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
 - src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Vista exterior de la Sagrada Familia al atardecer, con varias de sus torres
 - src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Vista cenital del techo interior de la Sagrada Familia con sus vidrieras y motivos estelares
 publicada: true
 destacada: false
 fecha: '2026-06-18'

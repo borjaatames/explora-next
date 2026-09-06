@@ -101,27 +101,27 @@ imagenAlt: "12th-century Catalan farmhouse with vineyards in the Bages region"
 
 galeria:
 - src: https://imgcdn.bokun.tools/385b1052-e05a-4e23-87d0-00135808437c.jpg
-  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+  alt: Montserrat with Bages farmhouse and wine pairing, photo 1 of 5
 - src: https://imgcdn.bokun.tools/00de596f-5a97-4b80-94ff-826f4a96bd6f.jpg
-  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+  alt: Montserrat with Bages farmhouse and wine pairing, photo 2 of 5
 - src: https://imgcdn.bokun.tools/1c423c1a-f9e5-4787-8830-aec47db4d693.jpg
-  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+  alt: Montserrat with Bages farmhouse and wine pairing, photo 3 of 5
 - src: https://imgcdn.bokun.tools/4c7590a1-fdf7-4844-930e-970e24819bb7.jpg
-  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+  alt: Montserrat with Bages farmhouse and wine pairing, photo 4 of 5
 - src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
-  alt: Montserrat with Bages farmhouse and wine pairing (Bokun)
+  alt: Montserrat with Bages farmhouse and wine pairing, photo 5 of 5
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Statue of Abbot Oliba next to the facade of the Montserrat monastery
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Detail of the religious frescoes painted on the vaults of Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Mural depicting the founding history of the Montserrat monastery and the Black Madonna
 ratingProveedor: 4.9
 numeroOpiniones: 1130
 

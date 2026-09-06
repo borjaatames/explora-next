@@ -56,15 +56,15 @@ imagen: "https://imgcdn.bokun.tools/a6b2476e-ada9-4866-b2c7-d046415f6ed4.jpg"
 imagenAlt: Personal photoshoot at an iconic Barcelona location
 galeria:
 - src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-  alt: Photo taken outside the Sagrada Familia (Bokun)
+  alt: Photo taken outside the Sagrada Familia, photo 1 of 5
 - src: https://imgcdn.bokun.tools/3c940b4e-9a54-4f89-948e-c6b83a6315ab.jpg
-  alt: Photo session in Barcelona's Gothic Quarter (Bokun)
+  alt: Photo session in Barcelona's Gothic Quarter, photo 2 of 5
 - src: https://imgcdn.bokun.tools/071a5473-f0cd-455c-824d-195c26691b88.jpg
-  alt: Edited photo taken at Park Güell, Barcelona (Bokun)
+  alt: Edited photo taken at Park Güell, Barcelona, photo 3 of 5
 - src: https://imgcdn.bokun.tools/72057d2a-12e3-4cfd-9fb5-ba5cc287c966.jpg
-  alt: Moment captured during the personal session in Barcelona (Bokun)
+  alt: Moment captured during the personal session in Barcelona, photo 4 of 5
 - src: https://imgcdn.bokun.tools/ea896ba5-b1a6-4bf2-a6e9-6d45f2a05d5c.jpg
-  alt: Detail shot from the personal photoshoot in Barcelona (Bokun)
+  alt: Detail shot from the personal photoshoot in Barcelona, photo 5 of 5
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -107,7 +107,7 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-231
 imagenAlt: Montserrat mountain landscape with dramatic rock formations near Barcelona
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Montserrat Abbey church interior with ornate stained glass windows and vaulted architecture
+  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Rocky peaks of Montserrat mountain near Barcelona with dramatic landscape formations
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp

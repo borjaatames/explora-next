@@ -121,29 +121,29 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Granada's historic architecture with traditional buildings and narrow streets
+  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369624-hero.webp
   alt: Historic Granada architecture with traditional buildings and urban landscape
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
   alt: Columns and carved capitals inside the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Granada's historic streets with traditional architecture and cobblestone pathways
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
-  alt: Granada's historic architecture and narrow cobblestone streets in old town district
+  alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada cityscape with historic architecture and terracotta rooftops
+  alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
   alt: Detail of the geometric stucco decoration in the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pixabay-4296920-hero.webp
   alt: Granada's historic architecture and cobblestone streets in old town district
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369631-hero.webp
-  alt: Granada street view with historic architecture and narrow cobblestone pathways
+  alt: Detail of the plasterwork and arches of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1756310-hero.webp
-  alt: Granada historic architecture with traditional Spanish buildings and narrow streets
+  alt: Archway decorated with plasterwork in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pixabay-503208-hero.webp
   alt: Historic Granada street with traditional white-washed buildings and narrow cobblestone alley
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
-  alt: Granada's historic architecture and cityscape with traditional buildings
+  alt: The Generalife gardens, with arching water jets over the long central pool.
 ratingProveedor: 4.7
 numeroOpiniones: 21100
 publicada: true

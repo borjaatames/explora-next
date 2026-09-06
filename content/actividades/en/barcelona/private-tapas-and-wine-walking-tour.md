@@ -54,35 +54,35 @@ imagen: "/images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians
 imagenAlt: Barcelona's La Rambla with pedestrians at dusk
 galeria:
 - src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
-  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+  alt: Private tapas & wine walking tour, Barcelona, photo 1 of 5
 - src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
-  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+  alt: Private tapas & wine walking tour, Barcelona, photo 2 of 5
 - src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
-  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+  alt: Private tapas & wine walking tour, Barcelona, photo 3 of 5
 - src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
-  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+  alt: Private tapas & wine walking tour, Barcelona, photo 4 of 5
 - src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
-  alt: Private tapas & wine walking tour, Barcelona (Bokun)
+  alt: Private tapas & wine walking tour, Barcelona, photo 5 of 5
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Iberian ham and charcuterie stall at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Interior of a shop selling loose sweets and candy at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Spice stall with garlic and dried chili peppers hanging at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Fresh bonito fish for sale at a fish stall in La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Interior of a municipal market hall with an ornate ironwork roof and Art Nouveau stained glass
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Display of colorful candy at a sweets stall in La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Stained-glass crest with the crown and the name of Mercat de Sant Josep - La Boqueria, at the entrance
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Fruit and vegetable stall with hanging chili peppers at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Interior of a municipal market hall under a large glass dome with decorative stained glass
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
-  alt: La Boqueria market, Barcelona
+  alt: Variety of loose olives at a stall in La Boqueria market
 publicada: true
 destacada: false
 fecha: '2026-06-18'

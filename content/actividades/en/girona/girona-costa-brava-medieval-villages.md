@@ -42,15 +42,15 @@ imagenAlt: "Stone medieval village of the Empordà near Girona"
 
 galeria:
 - src: https://imgcdn.bokun.tools/d1d22fb3-1f2d-4ef2-bb72-0c5c5768e128.jpeg
-  alt: Girona, Costa Brava and medieval villages day trip (Bokun)
+  alt: Girona, Costa Brava and medieval villages day trip, photo 1 of 5
 - src: https://imgcdn.bokun.tools/9618cb80-8d90-44f8-8240-5c2b8ffffea4.jpeg
-  alt: Girona, Costa Brava and medieval villages day trip (Bokun)
+  alt: Girona, Costa Brava and medieval villages day trip, photo 2 of 5
 - src: https://imgcdn.bokun.tools/a153cdb6-cb11-44ff-8d39-d83707406b18.jpeg
-  alt: Girona, Costa Brava and medieval villages day trip (Bokun)
+  alt: Girona, Costa Brava and medieval villages day trip, photo 3 of 5
 - src: https://imgcdn.bokun.tools/ed68d116-31ed-44f4-b723-315f9141715c.jpeg
-  alt: Girona, Costa Brava and medieval villages day trip (Bokun)
+  alt: Girona, Costa Brava and medieval villages day trip, photo 4 of 5
 - src: https://imgcdn.bokun.tools/7a6c1bbb-f290-46ae-97a6-adcb36273b51.jpeg
-  alt: Girona, Costa Brava and medieval villages day trip (Bokun)
+  alt: Girona, Costa Brava and medieval villages day trip, photo 5 of 5
 - src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
   alt: Costa Brava coastline, Girona
 - src: /images/actividades/girona/ciudades/girona-hero.webp

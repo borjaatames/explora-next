@@ -119,15 +119,15 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vibrant stained glass windows of the Sagrada Familia basilica in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban streets
+  alt: Passion facade of the Sagrada Familia, with its towers and construction cranes, in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Barcelona cityscape with Gothic architecture and historic buildings
+  alt: Interior view of the tree-like columns and ceiling of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona cityscape with historic architecture and modern buildings at sunset
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Barcelona cityscape with modern architecture and urban buildings at sunset
+  alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
   alt: Barcelona cityscape with modern architecture and urban skyline
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp

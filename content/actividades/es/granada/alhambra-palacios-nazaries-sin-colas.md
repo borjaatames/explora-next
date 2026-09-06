@@ -133,11 +133,11 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp
   alt: Artesonado y yeserías decoradas de los Palacios Nazaríes
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
-  alt: Panorámica de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Arco decorado con mocarabes y caligrafia arabe en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1756310-hero.webp
-  alt: Panorámica de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Arco decorado con yeserias en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
-  alt: Plaza con arquitectura histórica y fuente en Granada
+  alt: Otro ángulo de un arco de mocárabes en los Palacios Nazaríes de la Alhambra.
 ratingProveedor: 4.7
 numeroOpiniones: 8443
 publicada: true

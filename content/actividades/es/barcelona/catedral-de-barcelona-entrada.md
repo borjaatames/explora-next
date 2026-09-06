@@ -101,9 +101,9 @@ imagenAlt: "Fachada gótica de la Catedral de Barcelona en el Pla de la Seu"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
-  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
+  alt: Fachada principal de la Catedral de Barcelona (Catedral de la Santa Creu i Santa Eulalia)
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp
-  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
+  alt: Fachada de la Catedral de Barcelona vista desde la plaza, con turistas en las escaleras
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

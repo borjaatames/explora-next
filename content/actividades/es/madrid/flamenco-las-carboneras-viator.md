@@ -108,15 +108,15 @@ imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-05-2
 imagenAlt: Vistas panorámicas de Madrid con edificios históricos y modernos
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp
-  alt: Vistas panorámicas de Madrid con monumentos históricos y arquitectura urbana
+  alt: Escenario del tablao Las Carboneras, con guitarra y sillas dispuestas antes del espectáculo.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
-  alt: Vista panorámica de Madrid con la Puerta de Alcalá y edificios históricos al atardecer
+  alt: Bailaora de flamenco con un manton rojo durante una actuacion en directo
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp
   alt: Plaza Mayor de Madrid con edificios históricos y visitantes
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y modernos
+  alt: Bailaor de flamenco en traje blanco durante una actuación en Las Carboneras.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp
-  alt: Vista panorámica de Madrid con edificios históricos y modernos bajo cielo despejado
+  alt: Cantaores y guitarristas durante una actuacion en el tablao Las Carboneras de Madrid
 ratingProveedor: 4.7
 numeroOpiniones: 23
 publicada: false

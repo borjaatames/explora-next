@@ -96,11 +96,11 @@ imagenAlt: "Historic streets of Madrid — setting for the night tour"
 
 galeria:
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
-  alt: Historic streets of old Madrid (view 1)
+  alt: Plaza de la Villa in Madrid, with the statue of Alvaro de Bazan and the Torreon de los Lujanes tower
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
-  alt: Historic streets of old Madrid (view 2)
+  alt: Plaza Mayor in Madrid, with its arcaded buildings and red facades
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
-  alt: Historic streets — facade (of old Madrid)
+  alt: Sculpted relief on a corner of Madrid's Calle Mayor, with a Latin inscription
 
 ratingProveedor: 4.7
 numeroOpiniones: 325

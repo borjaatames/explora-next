@@ -125,7 +125,7 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/images-1-hero.webp
   alt: Vistas panorámicas de Madrid con arquitectura histórica y moderna
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y modernos
+  alt: Tunel de acceso al terreno de juego del estadio Santiago Bernabeu
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
   alt: Vistas panorámicas de Madrid con edificios históricos y cielo despejado
 - src: /images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp

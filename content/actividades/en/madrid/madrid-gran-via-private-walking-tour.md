@@ -60,33 +60,33 @@ imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.we
 imagenAlt: "Madrid's Gran Vía with its historic buildings and avenue traffic"
 galeria:
 - src: https://imgcdn.bokun.tools/ec298125-bc0c-4877-b1ec-1dcd41fc08f2.jpg
-  alt: Gran Vía private walking tour, Madrid (Bokun)
+  alt: Gran Vía private walking tour, Madrid, photo 1 of 5
 - src: https://imgcdn.bokun.tools/f967b27b-ce18-4427-bf30-c1412a783e94.jpg
-  alt: Gran Vía private walking tour, Madrid (Bokun)
+  alt: Gran Vía private walking tour, Madrid, photo 2 of 5
 - src: https://imgcdn.bokun.tools/7e10b32d-ee1f-4629-8e51-7a7dfe3e8238.jpg
-  alt: Gran Vía private walking tour, Madrid (Bokun)
+  alt: Gran Vía private walking tour, Madrid, photo 3 of 5
 - src: https://imgcdn.bokun.tools/66713f56-a58f-4f2c-b887-8c8b3356edd2.jpg
-  alt: Gran Vía private walking tour, Madrid (Bokun)
+  alt: Gran Vía private walking tour, Madrid, photo 4 of 5
 - src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
-  alt: Gran Vía private walking tour, Madrid (Bokun)
+  alt: Gran Vía private walking tour, Madrid, photo 5 of 5
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Aerial view of Madrid's Gran Via at dusk, with the Metropolis building
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Ornately decorated buildings on Madrid's Gran Via
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Egyptian stone temple with the Madrid skyline in the background
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Night view of Madrid's Gran Via with the illuminated Schweppes sign in the background
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-city-street-ornate-white-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Plaza de Cibeles with the Cibeles Palace in the background, next to the start of Madrid's Gran Via
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-pedestrians-cars-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Pedestrians and traffic on Madrid's Gran Via, with the Plaza de Espana skyscrapers in the background
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-spanish-flags-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Plaza de Cibeles with Spanish flags waving next to the Bank of Spain, near Madrid's Gran Via
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: Aerial view of the rooftops and buildings of Madrid's Gran Via at dawn
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-city-street-filled-lots-tall-hero.webp
-  alt: Gran Via avenue, Madrid
+  alt: View of Madrid's Gran Via with its historic buildings and the Torre de Madrid in the background
 publicada: true
 destacada: false
 fecha: '2026-06-18'

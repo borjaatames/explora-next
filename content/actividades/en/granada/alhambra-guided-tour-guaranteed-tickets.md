@@ -110,23 +110,23 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Granada street view with historic architecture and narrow cobblestone pathways
+  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Granada's historic architecture reflected in water, showing traditional buildings and street landscape.
+  alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: Granada historic street with traditional whitewashed buildings and narrow cobblestone path
+  alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
-  alt: Street view of historic Granada with traditional white buildings and narrow cobblestone paths
+  alt: Wooden coffered ceiling in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
-  alt: Granada's historic architecture with narrow streets and traditional buildings
+  alt: Partal Palace with its pool and gardens at the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Granada cityscape with historic architecture and Mediterranean landscape
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada cityscape with historic architecture and mountains in background
+  alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
   alt: Granada street scene with historic architecture and traditional buildings
 - src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
-  alt: Granada's historic architecture with traditional white buildings and narrow streets
+  alt: Reflection of the Partal Palace in its pool, at the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
   alt: Granada cityscape with historic architecture and mountain backdrop
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp

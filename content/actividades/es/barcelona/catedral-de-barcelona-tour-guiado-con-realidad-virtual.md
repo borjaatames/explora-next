@@ -106,9 +106,9 @@ imagenAlt: "Catedral de Barcelona con experiencia VR en la terraza"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp
-  alt: Catedral de Barcelona — interior (en el Barrio Gótico)
+  alt: Sepulcro medieval con la efigie de un caballero, en el interior de la Catedral de Barcelona
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp
-  alt: Catedral de Barcelona — interior (en el Barrio Gótico)
+  alt: Relieve de Sant Oleguer, obispo de Barcelona, en el interior de la catedral
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-saint-eulalia-hero.webp
   alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
 

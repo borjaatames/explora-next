@@ -127,7 +127,7 @@ galeria:
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
   alt: Catedral Metropolitana de Toledo con arquitectura gótica y torre campanario al atardecer
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Fortaleza del Alcázar de Segovia con torres y murallas medievales en vista frontal
+  alt: Sala interior del Alcázar de Segovia decorada en rojo y dorado, con retratos reales en las paredes.
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
   alt: Alcázar de Segovia con torres de defensa y arquitectura medieval sobre acantilado rocoso
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
@@ -135,7 +135,7 @@ galeria:
 - src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
   alt: Vistas panorámicas de Toledo con arquitectura medieval y río Tajo al atardecer
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia, imponente fortaleza medieval con torres puntiagudas sobre colina rocosa
+  alt: Sala de los Reyes del Alcázar de Segovia, con dosel rojo y figuras con armadura.
 - src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp
   alt: Vista aérea de Toledo con sus monumentos históricos y río Tajo
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp

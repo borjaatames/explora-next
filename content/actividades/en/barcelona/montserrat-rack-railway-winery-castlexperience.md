@@ -117,7 +117,7 @@ galeria:
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero-hero.webp
   alt: Wine cellar with wooden barrels and bottles in Madrid
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Montserrat Abbey with distinctive rock formations and basilica nestled in Catalonian mountains near Barcelona
+  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
   alt: Montserrat's dramatic rock formations and mountain landscape near Barcelona
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp

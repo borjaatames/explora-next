@@ -121,9 +121,9 @@ galeria:
 - src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
   alt: Medieval walls and towers of Ávila, Spain's historic walled city
 - src: /images/actividades/avila/avila/wikimedia-21462651-hero.webp
-  alt: Medieval stone walls and towers of Ávila's historic city fortifications at sunset
+  alt: Medieval walls of Avila alongside the path that surrounds them
 - src: /images/actividades/avila/avila/wikimedia-56544635-hero.webp
-  alt: Historic stone walls and towers of Ávila's medieval fortress city surrounded by ancient ramparts
+  alt: Walkway along the top of Ávila's medieval walls, lined with battlements overlooking the city.
 - src: /images/actividades/salamanca/casa-conchas/pexels-28435492-hero.webp
   alt: Salamanca historic plaza with golden sandstone buildings and central monument
 - src: /images/actividades/salamanca/convento-san-esteban-salamanca/pixabay-2709103-hero.webp

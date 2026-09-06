@@ -52,15 +52,15 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-2-hero-hero.webp
   alt: Coloridas estructuras arquitectónicas del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-multicoloured-art-hero-hero.webp
   alt: Mosaicos multicolores del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Basilica de la Sagrada Familia, Barcelona
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero-hero.webp
   alt: Parque Güell en Barcelona, España con arquitectura modernista de Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
-  alt: Calles y edificios históricos del Barrio Gótico de Barcelona
+  alt: Interior de la Sagrada Família, con las columnas en forma de árbol y el techo iluminado por los medallones de colores.
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-europe-architecture-spain-hero-hero.webp
   alt: Park Güell de Gaudí con terrazas de mosaico, columnas y vistas de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-towers-hero-hero.webp

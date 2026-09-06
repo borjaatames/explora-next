@@ -61,13 +61,13 @@ imagen: "https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg"
 imagenAlt: DareMapp self-guided tour of Valencia
 galeria:
 - src: https://imgcdn.bokun.tools/ec32f71b-edb7-4cea-b2e2-894fb6c18451.jpg
-  alt: DareMapp self-guided tour of Valencia (Bokun)
+  alt: DareMapp self-guided tour of Valencia, photo 1 of 4
 - src: https://imgcdn.bokun.tools/8755799c-4ab6-48f6-931f-6231289110b8.jpg
-  alt: DareMapp self-guided tour of Valencia (Bokun)
+  alt: DareMapp self-guided tour of Valencia, photo 2 of 4
 - src: https://imgcdn.bokun.tools/3e9ca7cc-4ab5-40e1-b86a-83c44b69a5c2.jpg
-  alt: DareMapp self-guided tour of Valencia (Bokun)
+  alt: DareMapp self-guided tour of Valencia, photo 3 of 4
 - src: https://imgcdn.bokun.tools/f683b1a1-64eb-41af-8c12-a829efb810f8.jpg
-  alt: DareMapp self-guided tour of Valencia (Bokun)
+  alt: DareMapp self-guided tour of Valencia, photo 4 of 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

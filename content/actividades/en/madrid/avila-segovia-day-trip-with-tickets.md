@@ -110,11 +110,11 @@ galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp
   alt: Segovia Alcázar castle fortress with towers overlooking medieval Spanish landscape
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar of Segovia fortress with towers against blue sky
+  alt: Ornate red-and-gold interior hall of the Alcázar of Segovia, lined with royal portraits.
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-murallas-06-hero.webp
   alt: The medieval walls of Ávila with their stone towers
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Alcázar castle in Segovia with white stone towers and blue-tiled roofs
+  alt: Hall of the Kings inside the Alcázar of Segovia, featuring a red canopy and armored figures.
 - src: /images/actividades/avila/basilica-san-vicente/pexels-32979839-hero.webp
   alt: Historic stone walls and medieval architecture of Avila's old town
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero-hero.webp

@@ -104,27 +104,27 @@ imagenAlt: "Private vehicle with guide at the Montserrat monastery complex"
 
 galeria:
 - src: https://imgcdn.bokun.tools/80bfa4ed-213d-478e-94ff-0010a7d96d0a.jpg
-  alt: Private Montserrat tour with hotel pickup (Bokun)
+  alt: Private Montserrat tour with hotel pickup, photo 1 of 4
 - src: https://imgcdn.bokun.tools/ca02199c-32ac-4dc9-9765-34b7904a543b.jpg
-  alt: Private Montserrat tour with hotel pickup (Bokun)
+  alt: Private Montserrat tour with hotel pickup, photo 2 of 4
 - src: https://imgcdn.bokun.tools/0fa5951b-6760-4696-a43b-359ebabc050a.jpg
-  alt: Private Montserrat tour with hotel pickup (Bokun)
+  alt: Private Montserrat tour with hotel pickup, photo 3 of 4
 - src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
-  alt: Private Montserrat tour with hotel pickup (Bokun)
+  alt: Private Montserrat tour with hotel pickup, photo 4 of 4
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Statue of Abbot Oliba next to the facade of the Montserrat monastery
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Detail of the religious frescoes painted on the vaults of Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Religious frescoes and wrought-iron crosses inside the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Mural depicting the founding history of the Montserrat monastery and the Black Madonna
 ratingProveedor: 5.0
 numeroOpiniones: 658
 

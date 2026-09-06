@@ -61,13 +61,13 @@ imagen: "https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg"
 imagenAlt: Tour autoguiado DareMapp por Santiago de Compostela
 galeria:
 - src: https://imgcdn.bokun.tools/d3b885d9-7070-4689-8743-dd1c14f208b7.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela (Bokun)
+  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 1 de 4
 - src: https://imgcdn.bokun.tools/38bee4a3-d2ee-431f-8c9b-d8879a92cd2f.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela (Bokun)
+  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 2 de 4
 - src: https://imgcdn.bokun.tools/2e631431-879f-4605-aeae-6ac0dbff4d60.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela (Bokun)
+  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 3 de 4
 - src: https://imgcdn.bokun.tools/e0b22093-2d87-44d8-b7e6-7c4f07dcd23d.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela (Bokun)
+  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 4 de 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

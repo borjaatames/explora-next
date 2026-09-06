@@ -127,7 +127,7 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp
   alt: Fachada exterior de un estadio moderno en Madrid con arquitectura contemporánea
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y modernos al atardecer
+  alt: Tunel de acceso al terreno de juego del estadio Santiago Bernabeu
 - src: /images/actividades/madrid/santiago-bernabeu/images-8-hero.webp
   alt: Vistas de Madrid con arquitectura histórica y moderna
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
@@ -135,9 +135,9 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/16562715299818-hero.webp
   alt: Skyline de Madrid con edificios modernos y cielo azul
 - src: /images/actividades/madrid/santiago-bernabeu/images-3-hero.webp
-  alt: Plaza Mayor de Madrid con arquitectura clásica y turistas disfrutando del espacio
+  alt: Vista amplia del estadio Santiago Bernabéu con una banda luminosa iluminada en el graderío.
 - src: /images/actividades/madrid/santiago-bernabeu/images-4-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y modernos al atardecer
+  alt: Vista panorámica del graderío del estadio Santiago Bernabéu desde las gradas.
 ratingProveedor: 3.3
 numeroOpiniones: 132
 publicada: false

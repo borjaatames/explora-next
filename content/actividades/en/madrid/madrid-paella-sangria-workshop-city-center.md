@@ -101,9 +101,9 @@ imagenAlt: "Traditional Spanish cuisine, visual reference for the paella worksho
 
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
+  alt: Fried squid sandwich with a beer next to the tapas bar counter
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
-  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
+  alt: Close-up of a fried squid sandwich with a beer in Madrid
 - src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
   alt: "Spanish tapas from Madrid's traditional cuisine (view 3)"
 

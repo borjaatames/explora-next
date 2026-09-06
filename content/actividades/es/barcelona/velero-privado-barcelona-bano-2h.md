@@ -65,33 +65,33 @@ imagen: "/images/actividades/barcelona/watersports/velero-privado-barcelona-01.w
 imagenAlt: "Velero privado en la costa de Barcelona"
 galeria:
 - src: https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg
-  alt: Velero privado en Barcelona con baño (Bokun)
+  alt: Velero privado en Barcelona con baño, foto 1 de 5
 - src: https://imgcdn.bokun.tools/125dc4d5-7bd9-425c-8dd1-a6dcbc32db74.jpg
-  alt: Velero privado en Barcelona con baño (Bokun)
+  alt: Velero privado en Barcelona con baño, foto 2 de 5
 - src: https://imgcdn.bokun.tools/64b4b831-44cb-48e2-9dfe-250e8b64df85.jpg
-  alt: Velero privado en Barcelona con baño (Bokun)
+  alt: Velero privado en Barcelona con baño, foto 3 de 5
 - src: https://imgcdn.bokun.tools/29957db4-554e-452e-b43d-c8a0ee126d2f.jpg
-  alt: Velero privado en Barcelona con baño (Bokun)
+  alt: Velero privado en Barcelona con baño, foto 4 de 5
 - src: https://imgcdn.bokun.tools/8b948181-0930-4854-8d9f-4ee17e682a17.jpg
-  alt: Velero privado en Barcelona con baño (Bokun)
+  alt: Velero privado en Barcelona con baño, foto 5 de 5
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
-  alt: Navegacion por la costa de Barcelona
+  alt: Velero privado amarrado en el puerto deportivo de Barcelona con la tripulacion a bordo
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
-  alt: Navegacion por la costa de Barcelona
+  alt: Grupo disfrutando de un aperitivo a bordo de un velero privado en Barcelona
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Cartel informativo con las normas de la playa de la Barceloneta, en catalan
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Velero y parasailing frente a la playa de la Barceloneta
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 publicada: true
 destacada: false
 fecha: '2026-06-18'

@@ -61,13 +61,13 @@ imagen: "https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg"
 imagenAlt: DareMapp self-guided tour of Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/2c8244c4-2afd-43dd-8a82-d3273d97a936.jpg
-  alt: DareMapp self-guided tour of Madrid (Bokun)
+  alt: DareMapp self-guided tour of Madrid, photo 1 of 4
 - src: https://imgcdn.bokun.tools/6207309c-7c1e-4b6a-927c-28327d984c72.jpg
-  alt: DareMapp self-guided tour of Madrid (Bokun)
+  alt: DareMapp self-guided tour of Madrid, photo 2 of 4
 - src: https://imgcdn.bokun.tools/fe465ef9-00a1-40bb-b436-f2c82554182b.jpg
-  alt: DareMapp self-guided tour of Madrid (Bokun)
+  alt: DareMapp self-guided tour of Madrid, photo 3 of 4
 - src: https://imgcdn.bokun.tools/0194940e-e2ca-42f3-aa68-7dc0d048b832.jpg
-  alt: DareMapp self-guided tour of Madrid (Bokun)
+  alt: DareMapp self-guided tour of Madrid, photo 4 of 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

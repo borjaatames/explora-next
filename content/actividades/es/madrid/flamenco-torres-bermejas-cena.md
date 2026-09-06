@@ -96,11 +96,11 @@ imagenAlt: "Gran Vía de Madrid, zona donde está el Tablao Torres Bermejas"
 
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Gran Vía de Madrid — vista aérea (con su arquitectura monumental)
+  alt: Vista aerea de la Gran Via de Madrid al atardecer, con el edificio Metropolis
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Gran Vía de Madrid con su arquitectura monumental (vista 2)
+  alt: Edificios de arquitectura ornamentada en la Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-blue-hero.webp
-  alt: Gran Vía de Madrid con su arquitectura monumental (vista 3)
+  alt: Templo egipcio de piedra con el perfil de rascacielos de Madrid al fondo
 
 ratingProveedor: 4.5
 numeroOpiniones: 10330

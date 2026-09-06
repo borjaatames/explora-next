@@ -130,9 +130,9 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: Granada street scene with historic architecture and urban pathway
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
-  alt: Granada cityscape with historic architecture and mountain views
+  alt: Partal Palace with its pool and gardens at the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
-  alt: Pexels
+  alt: Archway decorated with muqarnas and Arabic calligraphy in the Nasrid Palaces of the Alhambra
 ratingProveedor: 4.8
 numeroOpiniones: 890
 publicada: true

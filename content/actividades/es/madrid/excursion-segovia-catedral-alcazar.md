@@ -124,7 +124,7 @@ galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
   alt: Alcázar de Segovia con torres y muros de piedra sobre colina
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia, fortaleza medieval con torres puntiagudas sobre colina rocosa en Castilla y León
+  alt: Sala interior del Alcázar de Segovia decorada en rojo y dorado, con retratos reales en las paredes.
 ratingProveedor: 4.6
 numeroOpiniones: 247
 publicada: false

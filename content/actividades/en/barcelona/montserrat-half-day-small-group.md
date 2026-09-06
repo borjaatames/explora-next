@@ -103,17 +103,17 @@ imagenAlt: "Interior of the Benedictine monastery of Montserrat"
 
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Statue of Abbot Oliba next to the facade of the Montserrat monastery
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Detail of the religious frescoes painted on the vaults of Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Montserrat monastery and mountains
+  alt: Religious frescoes and wrought-iron crosses inside the Montserrat basilica
 ratingProveedor: 4.9
 numeroOpiniones: 6372
 

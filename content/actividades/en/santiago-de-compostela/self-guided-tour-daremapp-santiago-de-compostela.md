@@ -61,13 +61,13 @@ imagen: "https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg"
 imagenAlt: DareMapp self-guided tour of Santiago de Compostela
 galeria:
 - src: https://imgcdn.bokun.tools/d3b885d9-7070-4689-8743-dd1c14f208b7.jpg
-  alt: DareMapp self-guided tour of Santiago de Compostela (Bokun)
+  alt: DareMapp self-guided tour of Santiago de Compostela, photo 1 of 4
 - src: https://imgcdn.bokun.tools/38bee4a3-d2ee-431f-8c9b-d8879a92cd2f.jpg
-  alt: DareMapp self-guided tour of Santiago de Compostela (Bokun)
+  alt: DareMapp self-guided tour of Santiago de Compostela, photo 2 of 4
 - src: https://imgcdn.bokun.tools/2e631431-879f-4605-aeae-6ac0dbff4d60.jpg
-  alt: DareMapp self-guided tour of Santiago de Compostela (Bokun)
+  alt: DareMapp self-guided tour of Santiago de Compostela, photo 3 of 4
 - src: https://imgcdn.bokun.tools/e0b22093-2d87-44d8-b7e6-7c4f07dcd23d.jpg
-  alt: DareMapp self-guided tour of Santiago de Compostela (Bokun)
+  alt: DareMapp self-guided tour of Santiago de Compostela, photo 4 of 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

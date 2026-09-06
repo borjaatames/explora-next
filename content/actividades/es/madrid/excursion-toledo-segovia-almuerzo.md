@@ -139,7 +139,7 @@ galeria:
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero.webp
   alt: Alcázar, Segovia, España,
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia con torres medievales y muros de piedra bajo cielo azul
+  alt: Sala interior del Alcázar de Segovia decorada en rojo y dorado, con retratos reales en las paredes.
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-castle-hill-trees-front-it-hero-hero.webp
   alt: Alcázar de Segovia rodeado de árboles en la colina frontal
 - src: /images/actividades/toledo/catedral-toledo/wikimedia-138379159-hero.webp
@@ -147,7 +147,7 @@ galeria:
 - src: /images/actividades/toledo/catedral-toledo/wikimedia-22995220-hero.webp
   alt: Vistas de Toledo con sus monumentos históricos y arquitectura medieval
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia con torres medievales y muros de piedra bajo cielo azul
+  alt: Sala de los Reyes del Alcázar de Segovia, con dosel rojo y figuras con armadura.
 - src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
   alt: Fachada principal del Monasterio de San Juan de los Reyes en Toledo, España, con arquitectura gótica
 - src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp

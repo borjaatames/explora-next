@@ -61,7 +61,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
   alt: Scenic Barcelona cityscape with buildings and Mediterranean architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
-  alt: Barcelona cityscape with Gothic architecture and Mediterranean atmosphere
+  alt: Detail of the interior columns and stained glass of the Sagrada Familia, with a medallion dedicated to the Virgin Mary
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Towering columns of Sagrada Familia cathedral interior, Barcelona
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp

@@ -121,15 +121,15 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vitrales vibrantes de la Sagrada Familia con diseños geométricos y colores luminosos en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Barcelona, vista urbana con arquitectura moderna y tradicional
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Vistas de Barcelona con arquitectura moderna y skyline de la ciudad
+  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Vistas de Barcelona con arquitectura moderna y histórica bajo cielo azul
+  alt: Vista interior de las columnas arboriformes y el techo de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y montaña al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y paisaje urbano al atardecer
+  alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
   alt: Barcelona, vista panorámica de la ciudad con arquitectura moderna y edificios históricos
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp

@@ -112,21 +112,21 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
   alt: Vistas panorámicas de Barcelona con la Sagrada Familia al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios históricos y modernistas bajo cielo despejado.
+  alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
   alt: Techo de la nave central de la Sagrada Familia en Barcelona, arquitectura gótica modernista a 63 metros de altura
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vitrales vibrantes de la Sagrada Familia en Barcelona con luz celestial
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la sagrada familia al fondo
+  alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Vista panorámica de Barcelona con edificios modernistas y montaña Montjuïc al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
+  alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Vistas de Barcelona con edificios modernistas y arquitectura urbana
+  alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y histórica bajo cielo despejado
+  alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
   alt: Techo ornamentado e iluminado de la Sagrada Familia en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp

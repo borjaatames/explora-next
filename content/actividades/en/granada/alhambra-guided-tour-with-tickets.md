@@ -117,13 +117,13 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
   alt: Ornate pavilion with carved columns in the Court of Lions, Alhambra palace, Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp
-  alt: Granada's historic architecture with narrow streets and traditional buildings
+  alt: Muqarnas archway with Arabic inscriptions in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Granada's historic architecture with traditional Spanish buildings and narrow streets
+  alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Granada cityscape with historic architecture and mountains in background
+  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
 - src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
-  alt: Granada's historic streets and traditional architecture at sunset
+  alt: Detail of the muqarnas vault ceiling in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-36046522-hero.webp
   alt: Granada cityscape with historic architecture and street view
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
@@ -139,11 +139,11 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-5108925-hero.webp
   alt: Granada's historic architecture with traditional white buildings and narrow streets
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada cityscape with historic architecture and mountain backdrop
+  alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp
   alt: Granada historic architecture with traditional white buildings and cobblestone streets
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
-  alt: Granada's historic architecture with traditional white buildings and terracotta roofs
+  alt: The Generalife gardens, with arching water jets over the long central pool.
 ratingProveedor: 4.9
 numeroOpiniones: 1018
 publicada: true

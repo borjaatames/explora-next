@@ -113,17 +113,17 @@ imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-pl
 imagenAlt: Madrid cityscape with buildings and urban architecture
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-4-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landscape
+  alt: A flamenco singer performing with musicians at the Las Carboneras tablao, with the venue's sign visible in the background.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp
-  alt: Cityscape of Madrid with historic architecture and modern buildings
+  alt: The stage at the Las Carboneras tablao, with a guitar and chairs set up before the show.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-2-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landscape
+  alt: Three flamenco dancers in red dresses performing on the tablao stage.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
-  alt: Madrid cityscape with historic architecture and urban skyline
+  alt: A flamenco dancer in a white suit performing at Las Carboneras.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
+  alt: Flamenco dancer with a red shawl during a live performance
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
+  alt: Singers and guitarists performing at the Las Carboneras tablao in Madrid
 ratingProveedor: 4.7
 numeroOpiniones: 758
 publicada: true

@@ -45,23 +45,23 @@ imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
 - src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+  alt: Excursión a la Cala Granadella desde Valencia, foto 1 de 5
 - src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+  alt: Excursión a la Cala Granadella desde Valencia, foto 2 de 5
 - src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+  alt: Excursión a la Cala Granadella desde Valencia, foto 3 de 5
 - src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+  alt: Excursión a la Cala Granadella desde Valencia, foto 4 de 5
 - src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia (Bokun)
+  alt: Excursión a la Cala Granadella desde Valencia, foto 5 de 5
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Aguas turquesa de la Cala Granadella en Jávea
+  alt: Vista aerea de la Cala Granadella, con su playa y las montanas que la rodean
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Cala Granadella rodeada de acantilados y pinos, Costa Blanca
+  alt: Vista aerea de los acantilados y el mar de la Cala Granadella
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Cala de aguas cristalinas en la Granadella, Jávea
+  alt: Aguas cristalinas y rocas en la orilla de la Cala Granadella
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Vista de la Cala Granadella desde el mirador
+  alt: Cala Granadella con un velero fondeado y la playa entre acantilados
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30681578-hero.webp
   alt: Cala Granadella con barcas fondeadas en aguas turquesa
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp

@@ -119,7 +119,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Group of people standing in front of Park Güell's colorful mosaic structures in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
 - src: /images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero-hero.webp
   alt: Park Güell terrace with Barcelona cityscape view and colorful mosaic decorations
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-gXr8KVp1ick-hero.webp
@@ -129,17 +129,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona cityscape with architecture and urban landscape
 - src: /images/actividades/barcelona/park-guell/pexels-27348494-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Close-up of the trencadís mosaic tilework on Park Güell's curving bench.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Barcelona street scene with architecture and urban landscape
+  alt: Detail of a sculpture on the Nativity facade of the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/pixabay-63820-hero.webp
   alt: Barcelona cityscape with Gothic architecture and historic buildings
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Barcelona cityscape with buildings and urban architecture
+  alt: Interior view of the tree-like columns and ceiling of the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/pixabay-1137859-hero.webp
   alt: Sagrada Familia basilica with intricate Gothic architecture in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Barcelona street scene with architecture and urban landscape
+  alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
   alt: Barcelona street scene with historic architecture and urban atmosphere
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp

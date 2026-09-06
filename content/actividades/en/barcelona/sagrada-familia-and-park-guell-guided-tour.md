@@ -131,7 +131,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
   alt: Colorful mosaic dragon sculpture at Park Güell entrance in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
+  alt: Passion facade of the Sagrada Familia, with its towers and construction cranes, in Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
   alt: Stunning Barcelona cityscape view from Park Güell with modernist architecture
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp

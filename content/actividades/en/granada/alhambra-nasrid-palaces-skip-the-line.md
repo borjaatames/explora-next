@@ -134,11 +134,11 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp
   alt: Decorated coffered ceiling and plasterwork of the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
-  alt: Granada street scene with historic architecture and traditional buildings
+  alt: Archway decorated with muqarnas and Arabic calligraphy in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1756310-hero.webp
-  alt: Granada cityscape with historic architecture and terracotta roofs
+  alt: Archway decorated with plasterwork in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
-  alt: Granada's historic Albaicín neighborhood with whitewashed buildings and traditional architecture
+  alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
 ratingProveedor: 4.7
 numeroOpiniones: 8443
 publicada: true

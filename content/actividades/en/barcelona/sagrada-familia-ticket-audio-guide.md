@@ -116,17 +116,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
   alt: Sagrada Familia's vibrant stained glass windows with intricate colored patterns and religious iconography
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Barcelona street scene with historic architecture and urban atmosphere
+  alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
+  alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
 - src: /images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp
   alt: Barcelona city skyline with buildings and urban landscape at dusk
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban streets
+  alt: Detail of the interior columns and stained glass of the Sagrada Familia, with a medallion dedicated to the Virgin Mary
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Barcelona's urban architecture and street view with historic buildings
+  alt: Interior view of the tree-like columns and ceiling of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Detail of a sculpture on the Nativity facade of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona cityscape with historic architecture and Mediterranean atmosphere
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
@@ -142,9 +142,9 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-XtIsFomnwgE-hero.webp
   alt: Barcelona cityscape with historic architecture and Mediterranean skyline at sunset
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176352-hero.webp
-  alt: Barcelona skyline with Sagrada Familia basilica and urban architecture
+  alt: Crucifixion scene carved into the Passion Façade of the Sagrada Família.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
-  alt: Barcelona cityscape with modern architecture and urban streets
+  alt: Interior ceiling of the Sagrada Familia with its characteristic illuminated golden star pattern
 ---
 
 ## What you'll see

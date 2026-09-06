@@ -109,7 +109,7 @@ galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp
   alt: Abadía de Santa Cruz del Valle de los Caídos en la Comunidad de Madrid
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
-  alt: Fachada del Monasterio de El Escorial vista desde los jardines bajo cielo despejado
+  alt: Vista del Monasterio de El Escorial y sus jardines bajo un cielo nublado
 - src: /images/actividades/madrid/valle-caidos/wikimedia-36777472-hero.webp
   alt: Plaza Mayor de Madrid con arquitectura histórica y personas paseando
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp
@@ -123,7 +123,7 @@ galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-pontifical-basilica-holy-cross-hero.webp
   alt: La basílica del Valle de los Caídos en la sierra de Guadarrama
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
-  alt: Aldaba ornamental de bronce en la puerta principal del Monasterio de El Escorial, Madrid
+  alt: Detalle de la aldaba de bronce en la puerta principal del Monasterio de El Escorial
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-santa-cruz-main-entrance-hero.webp
   alt: Entrada principal de la basílica del Valle de los Caídos
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero-hero.webp

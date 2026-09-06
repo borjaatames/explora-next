@@ -122,9 +122,9 @@ galeria:
 - src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
   alt: Muralla medieval de Ávila con torres y almenas bajo cielo azul
 - src: /images/actividades/avila/avila/wikimedia-21462651-hero.webp
-  alt: Muralla medieval de Ávila con torres de piedra y puertas históricas
+  alt: Murallas medievales de Avila junto al paseo que las rodea
 - src: /images/actividades/avila/avila/wikimedia-56544635-hero.webp
-  alt: Muralla medieval de Ávila con torres de piedra y puertas históricas
+  alt: Adarve de la muralla medieval de Ávila con sus almenas, con vistas sobre la ciudad.
 - src: /images/actividades/salamanca/casa-conchas/pexels-28435492-hero.webp
   alt: Vistas panorámicas de Salamanca con arquitectura histórica y monumentos
 - src: /images/actividades/salamanca/convento-san-esteban-salamanca/pixabay-2709103-hero.webp

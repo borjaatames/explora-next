@@ -111,7 +111,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with Gothic architecture and stone spires
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36827551-hero.webp
-  alt: Barcelona cityscape with iconic architecture and Mediterranean atmosphere
+  alt: Towers of the Sagrada Familia facade with the Sanctus inscription
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero-hero.webp
   alt: Sagrada Familia basilica with intricate Gothic architecture and soaring spires in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
@@ -119,17 +119,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Sagrada Familia basilica exterior with intricate Gothic spires and stone facade in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban streets
+  alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
-  alt: Barcelona cityscape with architecture and urban landscape
+  alt: Interior ceiling of the Sagrada Familia with its characteristic illuminated golden star pattern
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Barcelona cityscape with modern and historic architecture
+  alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Barcelona street scene with historic architecture and urban buildings
+  alt: Detail of a sculpture on the Nativity facade of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
-  alt: Barcelona cityscape with architecture and urban landscape
+  alt: Venetian mosaic finials atop the towers of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Sagrada Familia basilica with towering spires and intricate Gothic architecture in Barcelona
 ---

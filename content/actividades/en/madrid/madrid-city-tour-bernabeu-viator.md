@@ -122,7 +122,7 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp
   alt: Madrid stadium exterior facade with modern architectural design
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
+  alt: Players' tunnel leading to the pitch at the Santiago Bernabeu stadium
 - src: /images/actividades/madrid/santiago-bernabeu/images-8-hero.webp
   alt: Historic architectural landmark in central Madrid with classical facade
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
@@ -130,9 +130,9 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/16562715299818-hero.webp
   alt: Madrid's historic architecture with ornate facades and traditional balconies
 - src: /images/actividades/madrid/santiago-bernabeu/images-3-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landmarks
+  alt: Wide view of the Santiago Bernabéu stadium with an illuminated ribbon banner across the stands.
 - src: /images/actividades/madrid/santiago-bernabeu/images-4-hero.webp
-  alt: Madrid cityscape with historic landmarks and urban architecture
+  alt: Wide view of the Santiago Bernabéu stadium bowl seen from the stands.
 ratingProveedor: 3.3
 numeroOpiniones: 132
 publicada: false

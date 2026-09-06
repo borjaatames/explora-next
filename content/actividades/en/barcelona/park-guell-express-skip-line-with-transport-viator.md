@@ -100,11 +100,11 @@ imagenAlt: "Park Güell in Barcelona, panoramic view from the main terrace"
 
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
+  alt: Row of pinnacles decorated with ceramic mosaic at Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
+  alt: View of Park Guell's gatehouse pavilions with the city of Barcelona in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
-  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
+  alt: Ceramic mosaic sculptural fountain at Park Guell
 
 ratingProveedor: 4.5
 numeroOpiniones: 386

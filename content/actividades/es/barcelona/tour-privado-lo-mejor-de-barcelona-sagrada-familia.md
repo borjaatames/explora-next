@@ -60,7 +60,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
   alt: Vistas panorámicas de Barcelona con arquitectura moderna y el Mediterráneo al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
-  alt: Barcelona, vista aérea con edificios modernos y arquitectura urbana
+  alt: Detalle de las columnas y vidrieras interiores de la Sagrada Familia, con un medallon dedicado a la Virgen
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Columnas y bóvedas de la Sagrada Familia en Barcelona, arquitectura modernista con detalles ornamentales
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp

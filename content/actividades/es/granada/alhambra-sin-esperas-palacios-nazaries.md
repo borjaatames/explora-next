@@ -113,17 +113,17 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
   alt: Vista aérea de la Alhambra de Granada con sus torres sobre la ciudad
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: 'Granada: vista panorámica de la ciudad con arquitectura histórica y paisaje montañoso'
+  alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
   alt: Arcos y patio interior de los Palacios Nazaríes de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
   alt: Pasillo de la Alhambra con columnas y arcos de arquitectura islámica granadina
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Vista panorámica de Granada con la Alhambra y las montañas de Sierra Nevada al fondo
+  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada, vista panorámica de la ciudad blanca con arquitectura tradicional andaluza
+  alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
   alt: La Alcazaba de la Alhambra al atardecer sobre Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp

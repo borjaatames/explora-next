@@ -96,11 +96,11 @@ imagenAlt: "Calles del casco antiguo de Madrid - escenario del tour nocturno"
 
 galeria:
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
-  alt: Calles históricas del Madrid antiguo (vista 1)
+  alt: Plaza de la Villa de Madrid, con la estatua de Alvaro de Bazan y el Torreon de los Lujanes
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
-  alt: Calles históricas del Madrid antiguo (vista 2)
+  alt: Plaza Mayor de Madrid, con sus edificios porticados de fachada roja
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
-  alt: Calles históricas — fachada (del Madrid antiguo)
+  alt: Relieve esculpido en una esquina de la Calle Mayor de Madrid, con una inscripcion en latin
 
 ratingProveedor: 4.7
 numeroOpiniones: 325

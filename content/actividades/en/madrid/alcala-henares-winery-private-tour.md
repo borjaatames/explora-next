@@ -121,7 +121,7 @@ imagen: "/images/actividades/madrid/Bigbus/descarga-hero.webp"
 imagenAlt: Historic arcaded square in Alcalá de Henares with traditional Spanish architecture and covered walkways
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
-  alt: Bartender expertly measures ingredients for traditional Madrid tapas cocktail
+  alt: Bartender preparing a vermouth at a Madrid tapas bar
 - src: /images/actividades/alcala-de-henares/alcala-de-henares/wikimedia-ayuntamiento-de-alcalá-de-henares-rps-11-06-2017-torre-del-reloj-hero.webp
   alt: Clock tower of Alcalá de Henares city hall, historic architecture
 - src: /images/actividades/madrid/tapas-madrid/pexels-28826629-hero.webp

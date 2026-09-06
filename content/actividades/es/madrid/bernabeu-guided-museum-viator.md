@@ -112,9 +112,9 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
   alt: Plaza Mayor de Madrid con arquitectura histórica y personas disfrutando del espacio público
 - src: /images/actividades/madrid/santiago-bernabeu/images-5-hero.webp
-  alt: Plaza Mayor de Madrid con edificios históricos y turistas disfrutando del espacio público
+  alt: Otra vista del graderío lleno del estadio Santiago Bernabéu.
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Fotografía de Madrid con vista de edificios y calles representativos de la ciudad
+  alt: Tunel de acceso al terreno de juego del estadio Santiago Bernabeu
 - src: /images/actividades/madrid/santiago-bernabeu/images-8-hero.webp
   alt: Plaza Mayor de Madrid con turistas y arquitectura histórica
 ratingProveedor: 4.2

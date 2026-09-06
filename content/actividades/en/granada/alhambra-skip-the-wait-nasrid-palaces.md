@@ -114,17 +114,17 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
   alt: Aerial view of the Alhambra of Granada with its towers above the city
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Granada cityscape with historic architecture and mountains in background
+  alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-s-stunning-arches-hero.webp
   alt: Arches and inner courtyard of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp
   alt: Ornate hallway in Alhambra palace featuring arched columns and decorative Islamic architecture
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Granada cityscape with historic architecture and mountain views
+  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Granada's historic architecture and winding cobblestone streets under soft daylight
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada's historic architecture with traditional white buildings and cobblestone streets
+  alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
   alt: The Alcazaba of the Alhambra at dusk above Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp

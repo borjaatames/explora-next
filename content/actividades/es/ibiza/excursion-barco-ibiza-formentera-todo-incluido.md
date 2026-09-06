@@ -72,15 +72,15 @@ imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Barco frente a las aguas turquesa de Formentera"
 galeria:
 - src: https://imgcdn.bokun.tools/d1b64079-063a-48f2-a640-10582c340940.jpeg
-  alt: Excursión en barco Ibiza–Formentera todo incluido (Bokun)
+  alt: Excursión en barco Ibiza–Formentera todo incluido, foto 1 de 5
 - src: https://imgcdn.bokun.tools/0e31727a-1bb1-4858-98ce-7995a854640f.jpeg
-  alt: Excursión en barco Ibiza–Formentera todo incluido (Bokun)
+  alt: Excursión en barco Ibiza–Formentera todo incluido, foto 2 de 5
 - src: https://imgcdn.bokun.tools/4da6f196-fa54-42f1-baf8-83de547dada2.jpeg
-  alt: Excursión en barco Ibiza–Formentera todo incluido (Bokun)
+  alt: Excursión en barco Ibiza–Formentera todo incluido, foto 3 de 5
 - src: https://imgcdn.bokun.tools/2881056d-e230-42cb-b2d5-cf88b813a363.jpeg
-  alt: Excursión en barco Ibiza–Formentera todo incluido (Bokun)
+  alt: Excursión en barco Ibiza–Formentera todo incluido, foto 4 de 5
 - src: https://imgcdn.bokun.tools/6da2d7b6-5568-41ad-8dc7-3cea064efa36.jpeg
-  alt: Excursión en barco Ibiza–Formentera todo incluido (Bokun)
+  alt: Excursión en barco Ibiza–Formentera todo incluido, foto 5 de 5
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-02.webp
   alt: Playas turquesas de Formentera
 - src: /images/actividades/ibiza/formentera/ibiza-formentera-03.webp

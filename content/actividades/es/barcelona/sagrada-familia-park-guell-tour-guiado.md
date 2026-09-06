@@ -132,7 +132,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
   alt: Dragón de mosaico multicolor del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Vista panorámica de Barcelona con la Sagrada Familia al fondo y arquitectura moderna
+  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
   alt: Vistas panorámicas de Barcelona desde Park Güell con arquitectura modernista
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp

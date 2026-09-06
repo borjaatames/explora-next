@@ -106,9 +106,9 @@ imagenAlt: "Barcelona Gothic Quarter medieval streets and Cathedral exterior"
 
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: "Barcelona's Gothic Quarter with its medieval lanes (view 2)"
+  alt: A narrow stone alley in Barcelona's Gothic Quarter with a scooter parked along it.
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: "Barcelona's Gothic Quarter with its medieval lanes (view 3)"
+  alt: The neo-Gothic Pont del Bisbe, known as the Bridge of Sighs, in Barcelona's Gothic Quarter.
 ratingProveedor: 4.8
 numeroOpiniones: 1582
 

@@ -114,11 +114,11 @@ galeria:
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
   alt: Interior del Metropolitano de Madrid con pasajeros en la estación
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
-  alt: Estadio Wanda Metropolitano de Madrid, moderno recinto deportivo con estructura arquitectónica característica
+  alt: Exterior del estadio Metropolitano del Atlético de Madrid, con su cubierta curva roja y blanca y un cartel de acceso al tour.
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Estadio Metropolitano de Madrid, vista exterior de la estructura arquitectónica
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
-  alt: Wanda Metropolitano, estadio de fútbol del Atlético Madrid
+  alt: Interior del estadio Metropolitano, con el graderío rotulado «Atlético de Madrid – 1903» y el césped parcialmente cubierto.
 ratingProveedor: 4.4
 numeroOpiniones: 188
 publicada: false

@@ -118,13 +118,13 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
   alt: La Alcazaba de la Alhambra al atardecer sobre Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Paisaje urbano de Granada con arquitectura tradicional y paisaje montañoso al fondo
+  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Arcos y columnas de un patio de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra destacando en las montañas
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
   alt: Patio con agua y vegetación en el Generalife de la Alhambra
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
@@ -136,9 +136,9 @@ galeria:
 - src: /images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp
   alt: Vista aérea de Granada con la Alhambra en la colina, rodeada de edificios blancos
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
-  alt: Calles empedradas y arquitectura histórica de Granada al atardecer
+  alt: Otro ángulo de un arco de mocárabes en los Palacios Nazaríes de la Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
-  alt: 'Granada: vista panorámica de la ciudad con monumentos históricos y arquitectura tradicional andaluza'
+  alt: Los jardines del Generalife, con los chorros de agua en arco sobre el estanque central.
 ratingProveedor: 4.9
 numeroOpiniones: 242
 publicada: true

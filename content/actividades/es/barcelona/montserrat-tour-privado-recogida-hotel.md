@@ -104,27 +104,27 @@ imagenAlt: "Vehículo privado con guía en el complejo del monasterio de Montser
 
 galeria:
 - src: https://imgcdn.bokun.tools/80bfa4ed-213d-478e-94ff-0010a7d96d0a.jpg
-  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+  alt: Tour privado a Montserrat con recogida en hotel, foto 1 de 4
 - src: https://imgcdn.bokun.tools/ca02199c-32ac-4dc9-9765-34b7904a543b.jpg
-  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+  alt: Tour privado a Montserrat con recogida en hotel, foto 2 de 4
 - src: https://imgcdn.bokun.tools/0fa5951b-6760-4696-a43b-359ebabc050a.jpg
-  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+  alt: Tour privado a Montserrat con recogida en hotel, foto 3 de 4
 - src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
-  alt: Tour privado a Montserrat con recogida en hotel (Bokun)
+  alt: Tour privado a Montserrat con recogida en hotel, foto 4 de 4
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Estatua del Abat Oliba junto a la fachada del monasterio de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Detalle de los frescos religiosos pintados en las bovedas de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Frescos con motivos religiosos y cruces de hierro forjado en el interior de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Monasterio y montanas de Montserrat
+  alt: Mural con la historia de la fundacion del monasterio de Montserrat y la Moreneta
 ratingProveedor: 5.0
 numeroOpiniones: 658
 

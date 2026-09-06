@@ -111,11 +111,11 @@ galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp
   alt: Castillo de Alcázar de Segovia, fortaleza medieval española con torres y muros de piedra
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar de Segovia con torres puntiagudas y muros de piedra bajo cielo azul
+  alt: Sala interior del Alcázar de Segovia decorada en rojo y dorado, con retratos reales en las paredes.
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-murallas-06-hero.webp
   alt: Las murallas medievales de Ávila con sus torreones de piedra
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Fortaleza medieval del Alcázar de Segovia con torres de piedra y arquitectura gótica
+  alt: Sala de los Reyes del Alcázar de Segovia, con dosel rojo y figuras con armadura.
 - src: /images/actividades/avila/basilica-san-vicente/pexels-32979839-hero.webp
   alt: Vistas panorámicas de la muralla medieval de Ávila con torres y ciudad antigua
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero-hero.webp

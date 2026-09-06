@@ -112,21 +112,21 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
   alt: Barcelona cityscape with architecture and urban landscape
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
+  alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
   alt: Vaulted ceiling of Sagrada Familia basilica in Barcelona, reaching 63 meters high
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona with colorful light patterns
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Barcelona cityscape with modern architecture and street view
+  alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona cityscape with modern architecture and bustling streets during daytime
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Towers of the Sagrada Familia with a construction crane, at dusk
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landmarks
+  alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Barcelona cityscape with modern architecture and Mediterranean skyline
+  alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
   alt: Ornate ceiling of Barcelona's Sagrada Familia basilica with intricate illuminated architectural details
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp

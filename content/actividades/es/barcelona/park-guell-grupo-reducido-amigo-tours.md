@@ -99,29 +99,29 @@ imagenAlt: "Park Güell de Barcelona, mosaicos en la terraza principal"
 
 galeria:
 - src: https://imgcdn.bokun.tools/8a3d0598-2129-4487-b7d6-3f9f88458539.jpg
-  alt: Tour en grupo reducido por el Park Güell (Bokun)
+  alt: Tour en grupo reducido por el Park Güell, foto 1 de 5
 - src: https://imgcdn.bokun.tools/0f0faecc-ef76-49ac-9bab-5eb956b73a0a.jpg
-  alt: Tour en grupo reducido por el Park Güell (Bokun)
+  alt: Tour en grupo reducido por el Park Güell, foto 2 de 5
 - src: https://imgcdn.bokun.tools/82ca9757-6ad1-4e64-87ae-945c6852778a.jpg
-  alt: Tour en grupo reducido por el Park Güell (Bokun)
+  alt: Tour en grupo reducido por el Park Güell, foto 3 de 5
 - src: https://imgcdn.bokun.tools/a80d266d-6cf1-412e-adb9-23e449164587.jpg
-  alt: Tour en grupo reducido por el Park Güell (Bokun)
+  alt: Tour en grupo reducido por el Park Güell, foto 4 de 5
 - src: https://imgcdn.bokun.tools/ae027a47-7d7e-4d2e-ac19-51e28495207d.jpg
-  alt: Tour en grupo reducido por el Park Güell (Bokun)
+  alt: Tour en grupo reducido por el Park Güell, foto 5 de 5
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Vista de las casas del guarda de Park Guell con Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Detalle de una columna decorada con mosaico de trencadis en Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Fila de pinaculos decorados con mosaico de ceramica en Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Vista de las casas del guarda de Park Guell con la ciudad de Barcelona al fondo
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Fuente escultorica de mosaico ceramico en Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Park Guell de Gaudi, Barcelona
+  alt: Chimeneas esculturales con forma de guerrero en la azotea de un edificio modernista de Gaudi
 ratingProveedor: 4.3
 numeroOpiniones: 318
 

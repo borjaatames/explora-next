@@ -98,7 +98,7 @@ imagenAlt: "Park Güell con la Casa Museo Gaudí al fondo"
 
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: Park Güell de Gaudí — vista aérea (con vistas panorámicas de Barcelona)
+  alt: Vista de las casas del guarda de Park Guell con Barcelona y el mar al fondo
 ratingProveedor: 4.5
 numeroOpiniones: 7565
 

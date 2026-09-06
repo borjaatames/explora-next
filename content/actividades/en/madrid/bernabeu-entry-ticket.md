@@ -125,7 +125,7 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/images-1-hero.webp
   alt: Madrid city skyline with historic architecture and modern buildings at sunset
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Historic Madrid architecture with classical building facade and ornate details
+  alt: Players' tunnel leading to the pitch at the Santiago Bernabeu stadium
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
   alt: Madrid street scene with historic buildings and urban architecture
 - src: /images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp

@@ -121,27 +121,27 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Columnas ondulantes de la Sagrada Familia con detalles arquitectónicos en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176352-hero.webp
-  alt: Monumento histórico en Barcelona con arquitectura gótica medieval
+  alt: Escena de la crucifixión esculpida en la fachada de la Pasión de la Sagrada Família.
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero-hero.webp
   alt: Detalle arquitectónico de la bóveda de la nave de la Sagrada Familia, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Vista aérea de Barcelona con la Sagrada Familia y la costa mediterránea al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Panorámica de Barcelona con la Sagrada Familia y arquitectura modernista
+  alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Plaza de Catalunya con turistas y edificios históricos al fondo en Barcelona
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Barcelona con edificios modernistas y calles animadas
+  alt: Vidrieras interiores de la Sagrada Familia en tonos azules y verdes iluminando la nave
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Vistas de Barcelona con arquitectura moderna y histórica bajo cielo azul
+  alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
 - src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios y arquitectura urbana al atardecer
+  alt: Vista aérea de la Sagrada Família y el perfil de Barcelona al atardecer.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Barcelona, vista de la ciudad con edificios modernos y antiguos
+  alt: Vista interior de las columnas arboriformes y el techo de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Panorámica de Barcelona con la Sagrada Familia y edificios modernistas bajo cielo azul
+  alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Vistas de Barcelona con arquitectura moderna y paisaje urbano
+  alt: Detalle de una escultura de la fachada del Nacimiento de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pixabay-915071-hero.webp
   alt: Vista aérea de Barcelona con edificios, calles y arquitectura urbana
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp

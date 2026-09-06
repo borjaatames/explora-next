@@ -120,7 +120,7 @@ galeria:
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero-hero.webp
   alt: Bodegas tradicionales de vino en Madrid con barriles de roble y toneles de envejecimiento
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Abadía de Montserrat rodeada de formaciones rocosas características en Barcelona
+  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
   alt: Vista panorámica de las montañas de Montserrat desde Barcelona con formaciones rocosas icónicas
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp

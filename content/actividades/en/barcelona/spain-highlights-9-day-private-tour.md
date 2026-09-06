@@ -66,33 +66,33 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
 imagenAlt: Barcelona's Sagrada Familia, one of the stops on the Spain tour
 galeria:
 - src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
-  alt: Spain 9-day private tour (Bokun)
+  alt: Spain 9-day private tour, photo 1 of 5
 - src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
-  alt: Spain 9-day private tour (Bokun)
+  alt: Spain 9-day private tour, photo 2 of 5
 - src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
-  alt: Spain 9-day private tour (Bokun)
+  alt: Spain 9-day private tour, photo 3 of 5
 - src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
-  alt: Spain 9-day private tour (Bokun)
+  alt: Spain 9-day private tour, photo 4 of 5
 - src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
-  alt: Spain 9-day private tour (Bokun)
+  alt: Spain 9-day private tour, photo 5 of 5
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Towers of the Sagrada Familia with a construction crane, at dusk
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Passion facade of the Sagrada Familia, with its towers and construction cranes, in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Interior stained-glass windows of the Sagrada Familia in blue and green tones lighting the nave
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
 - src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Exterior view of the Sagrada Familia at dusk, with several of its towers
 - src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
-  alt: Sagrada Familia basilica, Barcelona
+  alt: Overhead view of the Sagrada Familia's interior ceiling with its stained glass and star motifs
 publicada: true
 destacada: false
 fecha: '2026-06-18'

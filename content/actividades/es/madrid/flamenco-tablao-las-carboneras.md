@@ -117,17 +117,17 @@ imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-pl
 imagenAlt: Plaza Mayor de Madrid con edificios históricos y turistas
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-4-hero.webp
-  alt: Vista panorámica de Madrid con edificios históricos y modernos al atardecer
+  alt: Cantaora y músicos de flamenco actuando en el tablao Las Carboneras, con el rótulo del local al fondo.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp
-  alt: Plaza Mayor de Madrid con arquitectura histórica y turistas
+  alt: Escenario del tablao Las Carboneras, con guitarra y sillas dispuestas antes del espectáculo.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-2-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y modernos
+  alt: Tres bailaoras de flamenco con trajes rojos actuando en el tablao.
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y modernos al atardecer
+  alt: Bailaor de flamenco en traje blanco durante una actuación en Las Carboneras.
 - src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
-  alt: Vistas panorámicas de Madrid con edificios históricos y cielo azul
+  alt: Bailaora de flamenco con un manton rojo durante una actuacion en directo
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp
-  alt: Monumento histórico o punto de interés emblemático de Madrid
+  alt: Cantaores y guitarristas durante una actuacion en el tablao Las Carboneras de Madrid
 ratingProveedor: 4.7
 numeroOpiniones: 758
 publicada: true

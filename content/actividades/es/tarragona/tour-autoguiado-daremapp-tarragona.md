@@ -61,13 +61,13 @@ imagen: "https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg"
 imagenAlt: Tour autoguiado DareMapp por Tarragona
 galeria:
 - src: https://imgcdn.bokun.tools/60361b90-bd42-4a6c-92ec-3d266ee7f349.jpg
-  alt: Tour autoguiado DareMapp por Tarragona (Bokun)
+  alt: Tour autoguiado DareMapp por Tarragona, foto 1 de 4
 - src: https://imgcdn.bokun.tools/c4f4a7a7-bcb8-482b-afc1-dd629fdb20b3.jpg
-  alt: Tour autoguiado DareMapp por Tarragona (Bokun)
+  alt: Tour autoguiado DareMapp por Tarragona, foto 2 de 4
 - src: https://imgcdn.bokun.tools/cd26f449-3b38-4129-8f44-267e1e1e53e8.jpg
-  alt: Tour autoguiado DareMapp por Tarragona (Bokun)
+  alt: Tour autoguiado DareMapp por Tarragona, foto 3 de 4
 - src: https://imgcdn.bokun.tools/cd8b9ee4-7dcd-4b05-a9cc-5afcfdb69370.jpg
-  alt: Tour autoguiado DareMapp por Tarragona (Bokun)
+  alt: Tour autoguiado DareMapp por Tarragona, foto 4 de 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

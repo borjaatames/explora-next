@@ -99,29 +99,29 @@ imagenAlt: "Park Güell in Barcelona, mosaics on the main terrace"
 
 galeria:
 - src: https://imgcdn.bokun.tools/8a3d0598-2129-4487-b7d6-3f9f88458539.jpg
-  alt: Park Güell small-group tour (Bokun)
+  alt: Park Güell small-group tour, photo 1 of 5
 - src: https://imgcdn.bokun.tools/0f0faecc-ef76-49ac-9bab-5eb956b73a0a.jpg
-  alt: Park Güell small-group tour (Bokun)
+  alt: Park Güell small-group tour, photo 2 of 5
 - src: https://imgcdn.bokun.tools/82ca9757-6ad1-4e64-87ae-945c6852778a.jpg
-  alt: Park Güell small-group tour (Bokun)
+  alt: Park Güell small-group tour, photo 3 of 5
 - src: https://imgcdn.bokun.tools/a80d266d-6cf1-412e-adb9-23e449164587.jpg
-  alt: Park Güell small-group tour (Bokun)
+  alt: Park Güell small-group tour, photo 4 of 5
 - src: https://imgcdn.bokun.tools/ae027a47-7d7e-4d2e-ac19-51e28495207d.jpg
-  alt: Park Güell small-group tour (Bokun)
+  alt: Park Güell small-group tour, photo 5 of 5
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: View of Park Guell's gatehouse pavilions with Barcelona and the sea in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: Detail of a column decorated with trencadis mosaic at Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: Row of pinnacles decorated with ceramic mosaic at Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: View of Park Guell's gatehouse pavilions with the city of Barcelona in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: Ceramic mosaic sculptural fountain at Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Gaudi Park Guell, Barcelona
+  alt: Sculptural helmet-shaped chimneys on the rooftop of a Gaudi modernist building
 ratingProveedor: 4.3
 numeroOpiniones: 318
 

@@ -100,11 +100,11 @@ imagenAlt: "Park Güell de Barcelona, vista panorámica desde la terraza princip
 
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
+  alt: Fila de pinaculos decorados con mosaico de ceramica en Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
+  alt: Vista de las casas del guarda de Park Guell con la ciudad de Barcelona al fondo
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
-  alt: Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)
+  alt: Fuente escultorica de mosaico ceramico en Park Guell
 
 ratingProveedor: 4.5
 numeroOpiniones: 386

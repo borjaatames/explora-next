@@ -67,33 +67,33 @@ imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.we
 imagenAlt: "Lancha rápida en el Port Vell de Barcelona"
 galeria:
 - src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
-  alt: Lancha rápida por Barcelona (Bokun)
+  alt: Lancha rápida por Barcelona, foto 1 de 5
 - src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
-  alt: Lancha rápida por Barcelona (Bokun)
+  alt: Lancha rápida por Barcelona, foto 2 de 5
 - src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
-  alt: Lancha rápida por Barcelona (Bokun)
+  alt: Lancha rápida por Barcelona, foto 3 de 5
 - src: https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg
-  alt: Lancha rápida por Barcelona (Bokun)
+  alt: Lancha rápida por Barcelona, foto 4 de 5
 - src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
-  alt: Lancha rápida por Barcelona (Bokun)
+  alt: Lancha rápida por Barcelona, foto 5 de 5
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
-  alt: Navegacion por la costa de Barcelona
+  alt: Grupo con chalecos salvavidas a bordo de una lancha rapida frente a la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
-  alt: Navegacion por la costa de Barcelona
+  alt: Lancha rapida levantando una gran ola de agua con los pasajeros riendo a bordo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Cartel informativo con las normas de la playa de la Barceloneta, en catalan
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Velero y parasailing frente a la playa de la Barceloneta
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: Litoral y playa de la Barceloneta, Barcelona
+  alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 publicada: true
 destacada: false
 fecha: '2026-06-18'

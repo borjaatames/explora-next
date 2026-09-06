@@ -100,15 +100,15 @@ atraccionesRelacionadas:
 - park-guell
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-  alt: Sagrada Familia de Barcelona con árboles en flor en primer plano
+  alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
   alt: Calle estrecha del Barrio Gótico de Barcelona con arquitectura medieval y fachadas históricas
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios históricos y arquitectura moderna bajo cielo azul.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Vistas de Barcelona con arquitectura modernista y skyline urbano
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero-hero.webp
-  alt: Vista panorámica del Park Güell con sus estructuras modernistas de Gaudí rodeadas de vegetación en Barcelona
+  alt: Chimeneas esculturales con forma de guerrero en la azotea de un edificio modernista de Gaudi
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
   alt: Calles estrechas y atmósfera gótica en el Barrio Gótico de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
@@ -116,17 +116,17 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
   alt: Parque Güell con arquitectura de Gaudí y vistas panorámicas de Barcelona, España
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y histórica
+  alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
   alt: Vistas panorámicas del Park Güell con modernismo catalán y la ciudad de Barcelona al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura modernista y el mar Mediterráneo al fondo
+  alt: Nave interior de la Sagrada Familia vista hacia el altar, con sus altas columnas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Barcelona con arquitectura modernista y vida urbana vibrante
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero-hero.webp
   alt: Parque Güell con terrazas y mosaicos modernistas en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y antigua bajo cielo azul
+  alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Fachada de la Sagrada Familia en Barcelona, arquitectura gótica modernista con torres ornamentadas.
 - src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp

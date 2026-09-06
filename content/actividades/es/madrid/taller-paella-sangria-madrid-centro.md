@@ -101,9 +101,9 @@ imagenAlt: "Cocina española tradicional, referencia visual del taller de paella
 
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+  alt: Bocadillo de calamares con una cana junto a la barra de tapas
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
-  alt: Tapas españolas — plato típico (típicas de la gastronomía madrileña)
+  alt: Primer plano de un bocadillo de calamares con una cerveza en Madrid
 - src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
   alt: Tapas españolas típicas de la gastronomía madrileña (vista 3)
 

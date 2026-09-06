@@ -122,9 +122,9 @@ galeria:
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
   alt: Wanda Metropolitano stadium interior with seating and pitch
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
-  alt: Wanda Metropolitano stadium exterior view in Madrid
+  alt: Exterior of Atlético Madrid's Metropolitano stadium, showing its curved red-and-white roof and a tour entrance sign.
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
-  alt: Wanda Metropolitano stadium exterior in Madrid, Spain
+  alt: Interior of the Metropolitano stadium, with stands lettered 'Atlético de Madrid – 1903' and the pitch partly covered.
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Wanda Metropolitano stadium exterior with architectural features in Madrid
 ratingProveedor: 4.7

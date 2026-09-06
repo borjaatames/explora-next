@@ -66,33 +66,33 @@ imagen: "/images/actividades/barcelona/watersports/crucero-vela-barcelona-01.web
 imagenAlt: "Sailing yacht cruising off the Barcelona coast"
 galeria:
 - src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
-  alt: Barcelona small-group sailing cruise (Bokun)
+  alt: Barcelona small-group sailing cruise, photo 1 of 5
 - src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
-  alt: Barcelona small-group sailing cruise (Bokun)
+  alt: Barcelona small-group sailing cruise, photo 2 of 5
 - src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
-  alt: Barcelona small-group sailing cruise (Bokun)
+  alt: Barcelona small-group sailing cruise, photo 3 of 5
 - src: https://imgcdn.bokun.tools/1bdd1e38-0107-49c1-a661-bed096539b60.jpg
-  alt: Barcelona small-group sailing cruise (Bokun)
+  alt: Barcelona small-group sailing cruise, photo 4 of 5
 - src: https://imgcdn.bokun.tools/b50e028c-5639-4ae4-a958-0bf9f6f195e7.jpg
-  alt: Barcelona small-group sailing cruise (Bokun)
+  alt: Barcelona small-group sailing cruise, photo 5 of 5
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
-  alt: Sailing along the Barcelona coastline
+  alt: Passenger smiling aboard a sailboat with the Barcelona port skyline in the background
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp
-  alt: Sailing along the Barcelona coastline
+  alt: Group jumping into the sea from a sailboat's platform during the excursion
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore
 - src: /images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: Information sign with the beach rules at Barceloneta, in Catalan
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: Sunbathers and walkers on the sand of Barceloneta beach on a sunny day
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: View of Barceloneta beach with the marina and palm trees in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: Sailboat and parasailing off Barceloneta beach
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: Barceloneta beach and Barcelona seafront
+  alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 publicada: true
 destacada: false
 fecha: '2026-06-18'

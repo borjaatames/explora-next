@@ -125,7 +125,7 @@ galeria:
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
   alt: Toledo Cathedral with Gothic architecture and ornate stone facade
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar castle fortress with towers against blue sky in Segovia, Spain
+  alt: Ornate red-and-gold interior hall of the Alcázar of Segovia, lined with royal portraits.
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
   alt: Alcázar of Segovia fortress with towers and crenellated walls overlooking the city
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
@@ -133,7 +133,7 @@ galeria:
 - src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
   alt: Toledo's historic medieval cityscape with narrow cobblestone streets and ancient architecture
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Alcázar of Segovia, medieval fortress with white stone towers and crenellations overlooking the city
+  alt: Hall of the Kings inside the Alcázar of Segovia, featuring a red canopy and armored figures.
 - src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp
   alt: Toledo medieval cityscape with historic architecture and cathedral
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp

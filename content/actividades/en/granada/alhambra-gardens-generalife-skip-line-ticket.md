@@ -120,7 +120,7 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Courtyard with fountain and water channels at Alhambra palace, Granada
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Granada cityscape with historic architecture and Mediterranean landscape
+  alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Granada's historic architecture with traditional white buildings and winding streets
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-andalusia-spain-hero-hero.webp

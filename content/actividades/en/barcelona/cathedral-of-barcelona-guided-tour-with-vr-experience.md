@@ -106,9 +106,9 @@ imagenAlt: "Barcelona Cathedral with VR experience on the rooftop"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp
-  alt: Barcelona Cathedral — interior (in the Gothic Quarter)
+  alt: Medieval tomb with a knight's effigy, inside Barcelona Cathedral
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp
-  alt: Barcelona Cathedral — interior (in the Gothic Quarter)
+  alt: Relief of Saint Olegarius, bishop of Barcelona, inside the cathedral
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-saint-eulalia-hero.webp
   alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
 

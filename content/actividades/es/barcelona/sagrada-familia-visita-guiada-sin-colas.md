@@ -112,7 +112,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Fachada de la Sagrada Familia de Barcelona con torres y detalles arquitectónicos góticos
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36827551-hero.webp
-  alt: Vistas de Barcelona con arquitectura modernista y edificios históricos
+  alt: Torres de la fachada de la Sagrada Familia con la inscripcion Sanctus
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y diseño modernista en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
@@ -120,17 +120,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Basílica de la Sagrada Familia de Barcelona con sus torres góticas y fachada ornamentada
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Vistas de Barcelona con arquitectura modernista y edificios históricos
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura modernista y espacios urbanos
+  alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y arquitectura característica de la ciudad
+  alt: Techo interior de la Sagrada Familia con su caracteristico patron de estrellas doradas iluminadas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Calles del centro histórico de Barcelona con arquitectura medieval y modernista
+  alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Vista del Paseo Marítimo de Barcelona con arquitectura costera
+  alt: Detalle de una escultura de la fachada del Nacimiento de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
-  alt: Vistas panorámicas de Barcelona con la Sagrada Familia de fondo
+  alt: Remates de mosaico veneciano en lo alto de las torres de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Basílica de la Sagrada Familia en Barcelona, fachada principal con torres góticas
 ---

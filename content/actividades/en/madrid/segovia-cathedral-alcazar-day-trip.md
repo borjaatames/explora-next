@@ -124,7 +124,7 @@ galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
   alt: Segovia's Alcázar castle with turrets and stone walls against cloudy sky
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar of Segovia medieval fortress with towers against blue sky
+  alt: Ornate red-and-gold interior hall of the Alcázar of Segovia, lined with royal portraits.
 ratingProveedor: 4.6
 numeroOpiniones: 247
 publicada: false

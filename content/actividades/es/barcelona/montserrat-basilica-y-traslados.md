@@ -109,7 +109,7 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-231
 imagenAlt: Vistas panorámicas de Montserrat con formaciones rocosas escarpadas al atardecer
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Interiores de la iglesia abadía de Montserrat con vitrales de colores en Barcelona
+  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Paisaje cautivador de Montserrat con picos rocosos escarpados bajo cielo despejado
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp

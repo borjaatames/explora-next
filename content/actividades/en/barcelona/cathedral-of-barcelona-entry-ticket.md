@@ -101,9 +101,9 @@ imagenAlt: "Barcelona Cathedral facade with Gothic spires in Pla de la Seu"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
-  alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
+  alt: Main facade of Barcelona Cathedral (Cathedral of the Holy Cross and Saint Eulalia)
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp
-  alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
+  alt: Facade of Barcelona Cathedral seen from the square, with tourists on the steps
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

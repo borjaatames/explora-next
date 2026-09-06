@@ -98,9 +98,9 @@ imagenAlt: "Traditional Spanish cuisine"
 
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
-  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
+  alt: Bartender preparing a vermouth at a Madrid tapas bar
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp
-  alt: "Spanish tapas — typical dish (from Madrid's traditional cuisine)"
+  alt: Fried squid sandwich and two beers at a Madrid bar
 ratingProveedor: 5.0
 numeroOpiniones: 287
 

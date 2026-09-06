@@ -108,29 +108,29 @@ imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photograph
 imagenAlt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Vista panorámica de Granada con la Alhambra y las montañas de Sierra Nevada al fondo
+  alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/palacios-nazaries/pexels-5108925-hero.webp
   alt: Vista panorámica de Granada con la Alhambra destacando entre la arquitectura histórica
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Otro ángulo de un arco de mocárabes en los Palacios Nazaríes de la Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Plaza del Bib-Rambla en Granada con arquitectura histórica y ambiente urbano
+  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio del Agua de la Alhambra en Granada con fuente central y arcos arabescos
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra al fondo entre montañas
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: 'Granada: vista aérea de la ciudad con la Alhambra y Sierra Nevada al fondo'
+  alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: Paisaje urbano de Granada con arquitectura tradicional y cielo azul
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
   alt: Detalle de la decoración con inscripciones y motivos geométricos de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pixabay-3150862-hero.webp
-  alt: Calles históricas de Granada con arquitectura tradicional andaluza
+  alt: El Patio de los Arrayanes de la Alhambra, con la Torre de Comares reflejada en el estanque.
 - src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
-  alt: Granada con arquitectura histórica y calles empedradas al atardecer
+  alt: Detalle de la boveda de mocarabes en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387057-hero.webp
-  alt: Vistas panorámicas de Granada con arquitectura histórica y paisaje montañoso al fondo
+  alt: Arco con techo de mocárabes en los Palacios Nazaríes de la Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369618-hero.webp
   alt: 'Granada: vista de la Alhambra con torres medievales y arquitectura islámica al atardecer'
 - src: /images/actividades/granada/palacios-nazaries/pexels-12203897-hero.webp

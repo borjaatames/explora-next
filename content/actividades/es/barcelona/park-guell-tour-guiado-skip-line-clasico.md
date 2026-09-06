@@ -121,7 +121,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Grupo de personas en primer plano en el Parque Güell de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura urbana y edificios modernos
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero-hero.webp
   alt: Vista panorámica del parque Güell en Barcelona con la ciudad al fondo
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-gXr8KVp1ick-hero.webp
@@ -131,17 +131,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
   alt: Vistas panorámicas de Barcelona con la Sagrada Familia y arquitectura modernista
 - src: /images/actividades/barcelona/park-guell/pexels-27348494-hero.webp
-  alt: Plaza de Cataluña en Barcelona con arquitectura modernista y flujo de turistas
+  alt: Detalle del mosaico de trencadís en el banco ondulado del Park Güell.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura modernista y horizonte urbano
+  alt: Detalle de una escultura de la fachada del Nacimiento de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/pixabay-63820-hero.webp
   alt: Vista panorámica de Barcelona con la Sagrada Familia al fondo y edificios modernistas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Vistas panorámicas de Barcelona con la Sagrada Familia y modernismo arquitectónico catalán
+  alt: Vista interior de las columnas arboriformes y el techo de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/pixabay-1137859-hero.webp
   alt: Vistas panorámicas de Barcelona con la Sagrada Familia y edificios modernistas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Calles mojadas de Barcelona con edificios históricos reflejados en charcos de lluvia
+  alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
   alt: Barcelona, vista aérea de la ciudad con arquitectura modernista y paseos arbolados
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp

@@ -110,23 +110,23 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Galería de columnas y arcos en los Palacios Nazaríes de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: 'Granada: vista panorámica de la ciudad con arquitectura histórica y montañas al fondo'
+  alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp
-  alt: 'Granada: vista panorámica de la ciudad con arquitectura histórica y montañas al fondo'
+  alt: Techo de madera artesonado en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Palacio del Partal con su estanque y jardines en la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Plaza con arquitectura histórica y torre en Granada
+  alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Calles empedradas de Granada con arquitectura andaluza tradicional
+  alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
   alt: Panorámica de Granada con vistas a la Alhambra y las montañas nevadas
 - src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Reflejo del Palacio del Partal en su estanque, en la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
   alt: Paisaje urbano de Granada con arquitectura histórica y calles coloniales
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp

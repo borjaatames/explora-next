@@ -61,13 +61,13 @@ imagen: "https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg"
 imagenAlt: DareMapp self-guided tour of Salamanca
 galeria:
 - src: https://imgcdn.bokun.tools/0603c3d6-6a68-4703-83f9-46c1aba473d2.jpg
-  alt: DareMapp self-guided tour of Salamanca (Bokun)
+  alt: DareMapp self-guided tour of Salamanca, photo 1 of 4
 - src: https://imgcdn.bokun.tools/994feb55-c91d-4eab-b30e-9f6b78ab625a.jpg
-  alt: DareMapp self-guided tour of Salamanca (Bokun)
+  alt: DareMapp self-guided tour of Salamanca, photo 2 of 4
 - src: https://imgcdn.bokun.tools/424a7197-a308-437a-80e6-afde90a88830.jpg
-  alt: DareMapp self-guided tour of Salamanca (Bokun)
+  alt: DareMapp self-guided tour of Salamanca, photo 3 of 4
 - src: https://imgcdn.bokun.tools/b4ff9e63-deea-4a1b-b4c5-1e7b3d7ca5b6.jpg
-  alt: DareMapp self-guided tour of Salamanca (Bokun)
+  alt: DareMapp self-guided tour of Salamanca, photo 4 of 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

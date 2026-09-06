@@ -117,13 +117,13 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
   alt: Pabellón de la Corte de los Leones en la Alhambra de Granada, arquitectura islámica con columnas y arcos
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp
-  alt: Calles empedradas de Granada con fachadas blancas y arquitectura tradicional andaluza
+  alt: Arco de mocarabes con inscripciones arabes en los Palacios Nazaries
 - src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Paisaje urbano de Granada con vista a la Alhambra y arquitectura tradicional andaluza
+  alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: 'Granada: vista panorámica de la ciudad blanca con sierra nevada al fondo'
+  alt: Jardines con un estanque alargado, surtidores de agua y arboles topiarios junto a un edificio con torres
 - src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
-  alt: Vistas de Granada con arquitectura histórica y paisaje urbano andaluz
+  alt: Detalle de la boveda de mocarabes en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-36046522-hero.webp
   alt: Panorámica de Granada con la Alhambra y Sierra Nevada al fondo
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
@@ -139,11 +139,11 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-5108925-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y sierra Nevada al fondo
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada, vista panorámica de la ciudad con edificios históricos y montañas al fondo
+  alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
-  alt: Panorámica de Granada con la Alhambra y Sierra Nevada de fondo
+  alt: Los jardines del Generalife, con los chorros de agua en arco sobre el estanque central.
 ratingProveedor: 4.9
 numeroOpiniones: 1018
 publicada: true

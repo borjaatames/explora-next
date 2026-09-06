@@ -47,15 +47,15 @@ galeria:
 - src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
   alt: Parque Natural de la Albufera, Valencia
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Cala Granadella en Javea
+  alt: Aguas turquesas y acantilados de la Cala Granadella, en la Costa Blanca
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Cala Granadella en Javea
+  alt: Vista aerea de la Cala Granadella, con su playa y las montanas que la rodean
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Cala Granadella en Javea
+  alt: Vista aerea de los acantilados y el mar de la Cala Granadella
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Cala Granadella en Javea
+  alt: Aguas cristalinas y rocas en la orilla de la Cala Granadella
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Cala Granadella en Javea
+  alt: Cala Granadella con un velero fondeado y la playa entre acantilados
 publicada: false
 destacada: false
 fecha: '2026-06-18'

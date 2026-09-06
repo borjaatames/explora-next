@@ -113,11 +113,11 @@ galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Rocky peaks and dramatic landscape of Montserrat mountain range near Barcelona
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Montserrat Abbey with distinctive rock formations and basilica surrounded by dramatic mountains
+  alt: Mural depicting the founding history of the Montserrat monastery and the Black Madonna
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Montserrat monastery nestled among dramatic rocky peaks near Barcelona, Spain
+  alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Montserrat Abbey, Benedictine monastery nestled among dramatic rocky peaks near Barcelona
+  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
   alt: Montserrat monastery perched on dramatic rocky mountains near Barcelona
 - src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp

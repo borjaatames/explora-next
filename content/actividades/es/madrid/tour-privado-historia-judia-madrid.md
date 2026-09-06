@@ -58,29 +58,29 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2
 imagenAlt: "Calles históricas del centro de Madrid"
 galeria:
 - src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
-  alt: Tour privado de historia judía en Madrid (Bokun)
+  alt: Tour privado de historia judía en Madrid, foto 1 de 4
 - src: https://imgcdn.bokun.tools/4bbb1531-f10a-4c51-9d03-8ed595ff00bf.jpg
-  alt: Tour privado de historia judía en Madrid (Bokun)
+  alt: Tour privado de historia judía en Madrid, foto 2 de 4
 - src: https://imgcdn.bokun.tools/fb9bc168-1926-4ae4-9a48-6ac589e5d6cf.jpg
-  alt: Tour privado de historia judía en Madrid (Bokun)
+  alt: Tour privado de historia judía en Madrid, foto 3 de 4
 - src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
-  alt: Tour privado de historia judía en Madrid (Bokun)
+  alt: Tour privado de historia judía en Madrid, foto 4 de 4
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Plaza de la Villa de Madrid, con la estatua de Alvaro de Bazan y el Torreon de los Lujanes
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Plaza Mayor de Madrid, con sus edificios porticados de fachada roja
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Relieve esculpido en una esquina de la Calle Mayor de Madrid, con una inscripcion en latin
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-explore-quaint-urban-street-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Calle estrecha del Madrid de los Austrias, con una torreta al fondo
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-05-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Plaza de la Villa de Madrid con su estatua y los edificios historicos que la rodean
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-anagoria-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Azulejo con el escudo de Madrid y el nombre de la Plaza de la Villa
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
-  alt: Calles historicas del centro de Madrid
+  alt: Plaza de la Villa de Madrid iluminada de noche
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp
   alt: Barrio de las Letras, Madrid
 publicada: true

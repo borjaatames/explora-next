@@ -44,7 +44,7 @@ imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
 imagenAlt: Pozas turquesa de aguas termales en Montanejos, Castellón
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
-  alt: Excursión a Montanejos en bus (Bokun)
+  alt: Excursión a Montanejos en bus, foto 1 de 1
 - src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
   alt: Río Mijares a su paso por Montanejos, entre montañas de Castellón
 publicada: true

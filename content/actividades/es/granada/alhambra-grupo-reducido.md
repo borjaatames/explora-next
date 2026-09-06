@@ -130,9 +130,9 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: Vistas panorámicas de Granada con la Alhambra y sierra Nevada al fondo
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Palacio del Partal con su estanque y jardines en la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
-  alt: Plaza y arquitectura histórica de Granada con edificios tradicionales andaluces
+  alt: Arco decorado con mocarabes y caligrafia arabe en los Palacios Nazaries de la Alhambra
 ratingProveedor: 4.8
 numeroOpiniones: 890
 publicada: true

@@ -106,9 +106,9 @@ imagenAlt: "Calles medievales del Barri Gòtic y exterior de la Catedral de Barc
 
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: Barrio Gótico de Barcelona con sus calles medievales (vista 2)
+  alt: Callejón estrecho de piedra en el Barrio Gótico de Barcelona con una moto aparcada.
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: Barrio Gótico de Barcelona con sus calles medievales (vista 3)
+  alt: El puente neogótico de la calle del Bisbe, conocido como el Puente de los Suspiros, en el Barrio Gótico de Barcelona.
 ratingProveedor: 4.8
 numeroOpiniones: 1582
 

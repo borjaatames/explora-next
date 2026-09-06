@@ -109,7 +109,7 @@ galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-abadia-santa-cruz-comunidad-madrid-2-hero-hero.webp
   alt: Valley of the Fallen, Santa Cruz de la Orden Abbey, Madrid Community
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
-  alt: Facade of the Monastery of El Escorial seen from the gardens under a clear sky
+  alt: View of El Escorial Monastery and its gardens under a cloudy sky
 - src: /images/actividades/madrid/valle-caidos/wikimedia-36777472-hero.webp
   alt: Madrid landmark with historic architecture and urban landscape view
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-madrid-spain-palace-church-hero.webp
@@ -123,7 +123,7 @@ galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-pontifical-basilica-holy-cross-hero.webp
   alt: The basilica of the Valley of the Fallen in the Sierra de Guadarrama
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
-  alt: Bronze ornamental door knocker on El Escorial monastery's main entrance portal, Madrid
+  alt: Detail of the bronze door knocker on the main portal of El Escorial Monastery
 - src: /images/actividades/madrid/valle-caidos/valle-caidos-santa-cruz-main-entrance-hero.webp
   alt: Main entrance of the basilica of the Valley of the Fallen
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero-hero.webp

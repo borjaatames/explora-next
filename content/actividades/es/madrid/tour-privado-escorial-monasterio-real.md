@@ -63,31 +63,31 @@ imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
 imagenAlt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 galeria:
 - src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
-  alt: Tour privado a El Escorial desde Madrid (Bokun)
+  alt: Tour privado a El Escorial desde Madrid, foto 1 de 5
 - src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
-  alt: Tour privado a El Escorial desde Madrid (Bokun)
+  alt: Tour privado a El Escorial desde Madrid, foto 2 de 5
 - src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg
-  alt: Tour privado a El Escorial desde Madrid (Bokun)
+  alt: Tour privado a El Escorial desde Madrid, foto 3 de 5
 - src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
-  alt: Tour privado a El Escorial desde Madrid (Bokun)
+  alt: Tour privado a El Escorial desde Madrid, foto 4 de 5
 - src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg
-  alt: Tour privado a El Escorial desde Madrid (Bokun)
+  alt: Tour privado a El Escorial desde Madrid, foto 5 de 5
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Estatuas de los Reyes de Judea en la fachada de la basilica del Monasterio de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Detalle de la aldaba de bronce en la puerta principal del Monasterio de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Vista del Monasterio de El Escorial y sus jardines bajo un cielo nublado
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Biblioteca del Monasterio de El Escorial, con su boveda pintada al fresco
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Fachada del Monasterio de El Escorial bajo un cielo tormentoso
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Fachada de la basilica de San Lorenzo del Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-2-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Vista de la basilica del Monasterio de El Escorial a traves de uno de sus arcos
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-3-hero.webp
-  alt: Real Monasterio de San Lorenzo de El Escorial
+  alt: Monasterio de El Escorial reflejado en el estanque de los jardines
 publicada: true
 destacada: false
 fecha: '2026-06-18'

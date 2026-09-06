@@ -113,9 +113,9 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
   alt: Madrid city skyline with modern buildings and historic architecture
 - src: /images/actividades/madrid/santiago-bernabeu/images-5-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landscape
+  alt: Another view of the crowded stands at the Santiago Bernabéu stadium.
 - src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Madrid cityscape with historic architecture and urban landscape
+  alt: Players' tunnel leading to the pitch at the Santiago Bernabeu stadium
 - src: /images/actividades/madrid/santiago-bernabeu/images-8-hero.webp
   alt: Madrid cityscape with historic architecture and urban landmarks
 ratingProveedor: 4.2

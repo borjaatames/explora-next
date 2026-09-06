@@ -116,13 +116,13 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
   alt: The Alcazaba of the Alhambra at dusk above Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Granada's historic architecture and scenic streets at golden hour
+  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Arches and columns of a courtyard in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
   alt: Aerial view of Granada's historic city center with Alhambra palace and surrounding architecture
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Granada's historic architecture with traditional Spanish buildings and street view
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
   alt: Courtyard with water and greenery in the Generalife of the Alhambra
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
@@ -134,9 +134,9 @@ galeria:
 - src: /images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp
   alt: Granada's historic architecture and urban landscape view
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
-  alt: Granada's historic architecture and narrow streets showcase traditional Spanish charm
+  alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
-  alt: Granada's historic architecture with traditional Spanish buildings and street view
+  alt: The Generalife gardens, with arching water jets over the long central pool.
 ratingProveedor: 4.9
 numeroOpiniones: 242
 publicada: true

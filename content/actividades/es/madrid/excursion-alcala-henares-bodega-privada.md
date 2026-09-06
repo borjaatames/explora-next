@@ -122,7 +122,7 @@ imagen: "/images/actividades/madrid/Bigbus/descarga-hero.webp"
 imagenAlt: Alcalá de Henares, plaza principal con arquitectura histórica y edificios coloniales
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
-  alt: Bartender de Madrid preparando tapas con destreza mientras mide ingredientes
+  alt: Camarero preparando un vermut en un bar de tapas de Madrid
 - src: /images/actividades/alcala-de-henares/alcala-de-henares/wikimedia-ayuntamiento-de-alcalá-de-henares-rps-11-06-2017-torre-del-reloj-hero.webp
   alt: Torre del Reloj del Ayuntamiento de Alcalá de Henares
 - src: /images/actividades/madrid/tapas-madrid/pexels-28826629-hero.webp

@@ -137,7 +137,7 @@ galeria:
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero.webp
   alt: Castle fortress with stone towers and crenellated walls overlooking green valley in Spain
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
-  alt: Alcázar of Segovia castle with stone towers against blue sky
+  alt: Ornate red-and-gold interior hall of the Alcázar of Segovia, lined with royal portraits.
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-castle-hill-trees-front-it-hero-hero.webp
   alt: Alcázar of Segovia castle on hilltop surrounded by trees
 - src: /images/actividades/toledo/catedral-toledo/wikimedia-138379159-hero.webp
@@ -145,7 +145,7 @@ galeria:
 - src: /images/actividades/toledo/catedral-toledo/wikimedia-22995220-hero.webp
   alt: Historic Toledo cityscape with cathedral and medieval architecture on hillside
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
-  alt: Majestic Alcázar fortress in Segovia with castle towers and fortified walls against blue sky
+  alt: Hall of the Kings inside the Alcázar of Segovia, featuring a red canopy and armored figures.
 - src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero-hero.webp
   alt: Monastery of San Juan de los Reyes in Toledo, Spain with Gothic architecture
 - src: /images/actividades/toledo/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-23770003-hero-hero.webp

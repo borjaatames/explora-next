@@ -55,13 +55,13 @@ imagen: "https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg"
 imagenAlt: VIP private photoshoot in Barcelona by the Sagrada Familia
 galeria:
 - src: https://imgcdn.bokun.tools/86766be2-5ed0-486e-a5c4-39025a205491.jpg
-  alt: Professional photographer during the private session in Barcelona (Bokun)
+  alt: Professional photographer during the private session in Barcelona, photo 1 of 4
 - src: https://imgcdn.bokun.tools/8ee67383-b1c7-4b11-8e9f-b83c9894c7a0.jpg
-  alt: Edited photo from the VIP private session in Barcelona (Bokun)
+  alt: Edited photo from the VIP private session in Barcelona, photo 2 of 4
 - src: https://imgcdn.bokun.tools/28df9fcf-8e1e-4822-8fc8-7b8509e7dccf.jpg
-  alt: Iconic Barcelona location during the photoshoot (Bokun)
+  alt: Iconic Barcelona location during the photoshoot, photo 3 of 4
 - src: https://imgcdn.bokun.tools/1a8bd2cf-3c54-477e-858a-b4be659f64b4.jpg
-  alt: Detail shot from the VIP private photoshoot in Barcelona (Bokun)
+  alt: Detail shot from the VIP private photoshoot in Barcelona, photo 4 of 4
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -54,35 +54,35 @@ imagen: "/images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians
 imagenAlt: La Rambla de Barcelona con viandantes al atardecer
 galeria:
 - src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
-  alt: Tour privado de tapas y vino, Barcelona (Bokun)
+  alt: Tour privado de tapas y vino, Barcelona, foto 1 de 5
 - src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
-  alt: Tour privado de tapas y vino, Barcelona (Bokun)
+  alt: Tour privado de tapas y vino, Barcelona, foto 2 de 5
 - src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
-  alt: Tour privado de tapas y vino, Barcelona (Bokun)
+  alt: Tour privado de tapas y vino, Barcelona, foto 3 de 5
 - src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
-  alt: Tour privado de tapas y vino, Barcelona (Bokun)
+  alt: Tour privado de tapas y vino, Barcelona, foto 4 de 5
 - src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
-  alt: Tour privado de tapas y vino, Barcelona (Bokun)
+  alt: Tour privado de tapas y vino, Barcelona, foto 5 de 5
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Puesto de jamones y embutidos ibericos en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Interior de una tienda de golosinas a granel en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Puesto de especias, ajos y guindillas secas colgando en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Pescado fresco (bonito) a la venta en una pescaderia del Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-captivating-interior-valencia-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Interior de mercado municipal con techumbre de hierro y vidrieras de estilo modernista
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Expositor de golosinas de colores en un puesto de dulces del Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Escudo de vidriera con la corona y el nombre del Mercat de Sant Josep - la Boqueria, en la entrada
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Puesto de frutas y verduras con guindillas colgando en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-interior-view-historic-valencia-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Interior de mercado municipal bajo una gran cupula acristalada con vidrieras decorativas
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
-  alt: Mercado de la Boqueria, Barcelona
+  alt: Variedad de aceitunas a granel en un puesto del Mercado de la Boqueria
 publicada: true
 destacada: false
 fecha: '2026-06-18'

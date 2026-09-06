@@ -111,35 +111,35 @@ imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortr
 imagenAlt: The Alhambra of Granada illuminated at dusk
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp
-  alt: Granada street scene with historic architecture and urban landscape
+  alt: Muqarnas archway with Arabic inscriptions in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
   alt: Columns and arches inside the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero-hero.webp
   alt: Ornate Islamic archway with intricate tilework in Alhambra's Court of Myrtles, Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Granada street with historic architecture and narrow cobblestone pathways
+  alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp
   alt: Illuminated muqarnas ceiling in a hall of the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pexels-35037746-hero.webp
-  alt: Granada cityscape with historic architecture and surrounding hills
+  alt: Detail of the muqarnas vault ceiling in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/alhambra/unsplash-EczvSxn9Ges-hero.webp
   alt: Historic Granada street with traditional architecture and narrow cobblestone path
 - src: /images/actividades/granada/palacios-nazaries/pexels-17329575-hero.webp
-  alt: Granada historic plaza with traditional architecture and narrow streets
+  alt: Gardens with a long reflecting pool, water jets and topiary trees next to a building with towers
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
   alt: Historic architecture and narrow streets of Granada's old town
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp
   alt: Granada street view with historic architecture and buildings
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
-  alt: Granada's historic architecture with Moorish influence and traditional Spanish buildings
+  alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
   alt: Granada historic architecture with traditional white buildings and narrow streets
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387057-hero.webp
-  alt: Granada cityscape with historic architecture and surrounding hills
+  alt: Archway with a muqarnas ceiling in the Nasrid Palaces of the Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
-  alt: Granada cityscape with historic architecture and mountains
+  alt: The Generalife gardens, with arching water jets over the long central pool.
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369629-hero.webp
-  alt: Granada street view with historic architecture and narrow cobblestone pathways
+  alt: Ceilings decorated with muqarnas and windows in the Nasrid Palaces of the Alhambra
 ratingProveedor: 4.9
 numeroOpiniones: 288
 publicada: true

@@ -116,7 +116,7 @@ atraccionesRelacionadas:
 - sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: Barcelona, ciudad con arquitectura moderna y tradicional
+  alt: El puente neogótico de la calle del Bisbe, conocido como el Puente de los Suspiros, en el Barrio Gótico de Barcelona.
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
   alt: Vista aérea de Barcelona con edificios modernos, calles y el mediterráneo al fondo
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
@@ -146,7 +146,7 @@ galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
   alt: Plaza con arquitectura modernista y transeúntes en Barcelona
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y antigua
+  alt: Callejón estrecho de piedra en el Barrio Gótico de Barcelona con una moto aparcada.
 ---
 
 ## Qué vas a ver
