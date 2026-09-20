@@ -137,6 +137,8 @@ galeria:
   alt: Panoramic view of Barcelona cityscape with architectural landmarks and Mediterranean Sea
 bokunProductId: 662268
 fecha_actualizacion: '2026-06-18'
+guiasRelacionadas:
+  - "sagrada-familia-which-ticket-to-choose"
 ---
 
 > **Note:** this experience is conducted in English.

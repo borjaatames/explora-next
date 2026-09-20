@@ -143,6 +143,8 @@ galeria:
   alt: Barcelona skyline with Sagrada Familia basilica at sunset
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
   alt: Barcelona street view with colorful buildings and bustling urban atmosphere
+guiasRelacionadas:
+  - "sagrada-familia-which-ticket-to-choose"
 ---
 
 ## What you'll see

@@ -145,6 +145,8 @@ galeria:
   alt: Escena de la crucifixión esculpida en la fachada de la Pasión de la Sagrada Família.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
   alt: Techo interior de la Sagrada Familia con su caracteristico patron de estrellas doradas iluminadas
+guiasRelacionadas:
+  - "sagrada-familia-que-entrada-elegir"
 ---
 
 ## Qué vas a ver

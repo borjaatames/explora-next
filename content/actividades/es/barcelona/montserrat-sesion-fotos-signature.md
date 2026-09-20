@@ -66,6 +66,8 @@ publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'
+guiasRelacionadas:
+  - "montserrat-que-excursion-elegir"
 ---
 
 ## Qué vas a vivir

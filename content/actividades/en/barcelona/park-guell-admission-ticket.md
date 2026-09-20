@@ -110,6 +110,8 @@ fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
 atraccionesRelacionadas:
 - park-guell
+guiasRelacionadas:
+  - "park-guell-which-ticket-to-choose"
 ---
 
 ## What you'll see

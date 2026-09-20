@@ -132,4 +132,6 @@ fecha_actualizacion: '2026-06-18'
 atraccionesRelacionadas:
 - park-guell
 bokunProductId: 819658
+guiasRelacionadas:
+  - "park-guell-que-entrada-elegir"
 ---

@@ -142,6 +142,8 @@ galeria:
   alt: Barcelona cityscape with Gothic architecture and bustling streets
 bokunProductId: 866939
 fecha_actualizacion: '2026-06-18'
+guiasRelacionadas:
+  - "sagrada-familia-which-ticket-to-choose"
 ---
 
 > **Note:** this experience is conducted in English.

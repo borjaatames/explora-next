@@ -112,6 +112,8 @@ destacada: false
 fecha: "2026-05-14"
 atraccionesRelacionadas:
   - "tapas-madrid"
+guiasRelacionadas:
+  - "tapas-madrid-que-tour-elegir"
 ---
 
 ## Qué vas a ver

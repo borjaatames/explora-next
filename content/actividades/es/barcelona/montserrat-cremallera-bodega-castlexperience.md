@@ -140,6 +140,8 @@ destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:
 - montserrat
+guiasRelacionadas:
+  - "montserrat-que-excursion-elegir"
 ---
 
 ## Qué vas a ver

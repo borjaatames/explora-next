@@ -149,6 +149,8 @@ galeria:
   alt: Barcelona cityscape with historic architecture and urban landscape
 bokunProductId: 674376
 fecha_actualizacion: '2026-06-22'
+guiasRelacionadas:
+  - "sagrada-familia-which-ticket-to-choose"
 ---
 
 ## What you'll see

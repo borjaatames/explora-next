@@ -143,6 +143,8 @@ galeria:
   alt: Paisaje urbano de Barcelona con arquitectura modernista y vistas de la ciudad
 bokunProductId: 866939
 fecha_actualizacion: '2026-06-18'
+guiasRelacionadas:
+  - "sagrada-familia-que-entrada-elegir"
 ---
 
 ## Qué vas a ver

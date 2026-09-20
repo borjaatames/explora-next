@@ -135,4 +135,6 @@ atraccionesRelacionadas:
   - "montserrat"
 bokunProductId: 674378
 fecha_actualizacion: '2026-06-18'
+guiasRelacionadas:
+  - "montserrat-que-excursion-elegir"
 ---

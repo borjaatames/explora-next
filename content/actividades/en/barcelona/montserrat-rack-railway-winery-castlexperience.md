@@ -137,6 +137,8 @@ destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:
 - montserrat
+guiasRelacionadas:
+  - "montserrat-which-excursion-to-choose"
 ---
 
 ## What you'll see

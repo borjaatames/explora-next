@@ -145,6 +145,8 @@ galeria:
   alt: Crucifixion scene carved into the Passion Façade of the Sagrada Família.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
   alt: Interior ceiling of the Sagrada Familia with its characteristic illuminated golden star pattern
+guiasRelacionadas:
+  - "sagrada-familia-which-ticket-to-choose"
 ---
 
 ## What you'll see

@@ -90,6 +90,8 @@ atraccionesRelacionadas:
 - sagrada-familia
 - park-guell
 fecha_actualizacion: '2026-06-22'
+guiasRelacionadas:
+  - "sagrada-familia-que-entrada-elegir"
 ---
 
 ## Qué vas a ver

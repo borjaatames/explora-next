@@ -80,6 +80,8 @@ fecha: '2026-06-18'
 atraccionesRelacionadas:
 - sagrada-familia
 fecha_actualizacion: '2026-06-22'
+guiasRelacionadas:
+  - "sagrada-familia-which-ticket-to-choose"
 ---
 
 ## What you'll see

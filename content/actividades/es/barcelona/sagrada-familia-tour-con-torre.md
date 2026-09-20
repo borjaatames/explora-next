@@ -144,6 +144,8 @@ galeria:
   alt: Playa urbana de Barcelona con edificios modernos y bañistas disfrutando del mar
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
+guiasRelacionadas:
+  - "sagrada-familia-que-entrada-elegir"
 ---
 
 ## Qué vas a ver

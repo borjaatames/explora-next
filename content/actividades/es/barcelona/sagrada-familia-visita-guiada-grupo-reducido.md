@@ -137,6 +137,8 @@ galeria:
   alt: Vistas panorámicas de Barcelona con la sagrada familia y arquitectura modernista
 bokunProductId: 662268
 fecha_actualizacion: '2026-06-18'
+guiasRelacionadas:
+  - "sagrada-familia-que-entrada-elegir"
 ---
 
 ## Qué vas a ver
