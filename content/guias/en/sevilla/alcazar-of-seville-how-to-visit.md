@@ -20,6 +20,17 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+faq:
+  - pregunta: "How much does it cost to visit the Royal Alcázar of Seville in 2026?"
+    respuesta: "General admission is around €20, with a €12 reduced rate for students under 25 and retirees. The Cuarto Real Alto, the royal apartments, is a 25-minute guided add-on for €5.50 extra. Entry is free for people born in Seville or residents of the city, under-16s with an adult, people with a disability of 33% or more, and unemployed residents of the province. Always confirm the current price at alcazarsevilla.org."
+  - pregunta: "Is the Alcázar of Seville ever free to visit?"
+    respuesta: "Yes, but with caveats: April to September it is free Mondays 6 to 7 PM, and October to March Mondays 4 to 5 PM. Capacity drops to about 250 people versus 750 in normal hours, free tickets sell out in minutes, and in high season (March to October) it is effectively impossible. Paying general admission and visiting without the stress is usually the better option."
+  - pregunta: "Is the Royal Alcázar the same as the Alhambra?"
+    respuesta: "No, even though they share 14th-century Mudéjar craftsmen and look similar in places. The Alcázar has been in continuous use for eight centuries and is still an official royal residence, while the Alhambra was abandoned after 1492 and only reoccupied as a Romantic ruin in the 19th century. They are historically related but different experiences."
+  - pregunta: "Is the Cuarto Real Alto at the Alcázar worth the extra ticket?"
+    respuesta: "Only in specific cases. It is a mandatory guided visit of just 25 minutes through the royal apartments still used by the Spanish royal family, for €5.50 on top of general admission. It is worth it if you have a full half-day and a strong interest in royal heritage; if you are short on time or traveling with kids, general admission already gives a complete experience."
+  - pregunta: "How long should I budget for the Alcázar of Seville?"
+    respuesta: "The trust itself recommends 2.5 hours minimum, 3 hours ideally: about 1.5 to 2 hours for the palaces alone, 2.5 hours including the gardens, which cover more than half the complex, and 3 hours if you add the Cuarto Real Alto. Book the 9:30 AM opening slot to avoid crowds and the worst of the summer heat."
 ---
 
 The Royal Alcázar of Seville is **the oldest royal palace still in use in Europe**. Its origins go back to the 10th century, and it's still the official residence of the Spanish royal family when they visit the city. But beyond the headline, what makes it exceptional is something few monuments can offer: **a thousand years of historical layers in the same complex**, from Almohad remains of the 12th century to 19th-century English gardens, passing through the most spectacular Mudéjar palace preserved in Spain.

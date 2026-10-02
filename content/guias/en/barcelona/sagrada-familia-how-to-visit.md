@@ -20,6 +20,17 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+faq:
+  - pregunta: "How much does a Sagrada Familia ticket cost in 2026?"
+    respuesta: "The basic ticket costs €26 and includes basilica access plus a downloadable audio guide in 19 languages. Adding a tower climb brings it to €36, and a group guided visit costs €30 (€40 with towers). Barcelona residents get a 50% discount throughout 2026, the Gaudí Year, by emailing residents@ext.sagradafamilia.org with proof of residency."
+  - pregunta: "How far ahead should I book Sagrada Familia tickets?"
+    respuesta: "Book 4 to 6 weeks ahead for a good time slot, and 8 to 10 weeks ahead if visiting in July, August, or during 2026's Gaudí Year, Holy Week or Spanish bank holidays, when demand roughly doubles. Tickets are sold only online at sagradafamilia.org — there is no walk-up sale at the gate."
+  - pregunta: "Is it worth paying extra to climb the Sagrada Familia towers?"
+    respuesta: "For most first-time visitors, no. You go up by elevator but come down a narrow spiral staircase, it is not wheelchair-accessible or recommended for vertigo, and you photograph the spires from inside them rather than seeing them whole. What matters most, the stained glass, is already included in the basic €26 ticket. The €10 tower upgrade is worth it mainly if you still have budget left after Park Güell or Casa Batlló."
+  - pregunta: "What is the dress code at Sagrada Familia?"
+    respuesta: "It is an active Catholic church with an enforced dress code: shoulders covered, skirts and trousers reaching at least mid-thigh, no see-through clothing, no swimwear or beach flip-flops, and no hats or caps inside the nave. Staff deny entry at the security check for violations, so dress as you would for any European church."
+  - pregunta: "What is the Hour of Silence at Sagrada Familia?"
+    respuesta: "Starting February 2, 2026, the basilica designates 9 to 10 AM every day as the Hour of Silence: headphones are mandatory for audio guides, no speaker audio is allowed, and visitors are asked to stay quiet. It is also the best time to visit, since it is less crowded and the morning light hits the east-side stained glass."
 ---
 
 Sagrada Familia is **the most visited monument in Barcelona** — about 4.5 million people a year — and, as happens with all monuments at that scale, most visitors come out feeling they've seen something important without quite understanding it. That's a shame, because few buildings in the world reward arriving prepared the way this one does: stained glass deliberately oriented for the light, symbols on every column, the mathematics behind the geometry, the decisions Gaudí left in writing before he died, and the choices his successor architects are making right now.

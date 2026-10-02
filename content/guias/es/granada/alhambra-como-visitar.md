@@ -21,6 +21,17 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+faq:
+  - pregunta: "¿Cuánto cuesta la entrada a la Alhambra en 2026?"
+    respuesta: "La entrada Alhambra General (diurna) cuesta 22,27 € en 2026 e incluye Palacios Nazaríes, Alcazaba, Generalife y Palacio de Carlos V: es la que debe comprar casi todo el mundo. Opciones más baratas como Jardines y Generalife (12,73 €) no incluyen los Palacios Nazaríes. Las entradas salen a la venta con un máximo de 90 días de antelación en tickets.alhambra-patronato.es, el único sitio oficial."
+  - pregunta: "¿Con cuánta antelación hay que reservar la Alhambra?"
+    respuesta: "Entre 60 y 90 días antes siempre que sea posible. La Alhambra limita el aforo a unas 8.000 entradas diarias y los Palacios Nazaríes solo admiten 300 personas cada media hora, así que los horarios más demandados (10:00 a 12:00) se agotan con semanas de antelación, sobre todo en Semana Santa, puentes de mayo, julio-agosto y Navidad, cuando las entradas vuelan en minutos."
+  - pregunta: "¿Qué pasa si llego tarde a mi hora de Palacios Nazaríes?"
+    respuesta: "Hay 30 minutos de tolerancia desde la hora impresa, por ejemplo de 11:30 a 12:00. Pasado ese margen no se puede entrar, sin devolución ni excepciones. Calcula entre 30 y 45 minutos para llegar caminando desde la entrada principal hasta los Palacios Nazaríes, así que si tu turno es a las 10:00, entra al recinto como muy tarde a las 9:00."
+  - pregunta: "¿Qué hago si las entradas a la Alhambra están agotadas?"
+    respuesta: "Tres opciones, por orden de preferencia: reservar una visita guiada con un operador autorizado como Civitatis o GetYourGuide, que tienen cupos propios fuera de la web oficial (entre 45 y 80 € por persona); reservar la visita nocturna a los Palacios Nazaríes (12,73 €), que suele quedar disponible cuando el turno de día ya no hay; o hacer cola en taquilla antes de las 7:30 para el cupo limitado del mismo día, que funciona sobre todo en temporada baja."
+  - pregunta: "¿Es gratis visitar la Alhambra alguna vez?"
+    respuesta: "No existe un día gratuito recurrente. Las opciones realmente gratuitas son los menores de 12 años (que igualmente necesitan una entrada nominal reservada de antemano), personas con discapacidad igual o superior al 33% con documentación, profesorado acreditado, y los días gratuitos puntuales que libera el Patronato cada año, con aforo muy limitado y que se agotan al instante."
 ---
 
 La Alhambra es **el monumento más visitado de España** — más de 2,5 millones de personas al año — y, casi con seguridad, **el peor visitado**. La gente que va sin saber nada acaba pagando 60 € a una empresa de reventa, llegando tarde a Palacios Nazaríes y perdiendo la entrada, o saliendo después de tres horas sin haber entendido lo que ha visto. Es una pena, porque la Alhambra recompensa muchísimo a quien va con un mínimo de plan.

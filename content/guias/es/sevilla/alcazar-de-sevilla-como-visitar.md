@@ -21,6 +21,17 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+faq:
+  - pregunta: "¿Cuánto cuesta visitar el Real Alcázar de Sevilla en 2026?"
+    respuesta: "La entrada general ronda los 20 €, con tarifa reducida de 12 € para estudiantes menores de 25 años y jubilados. El Cuarto Real Alto, las habitaciones reales, es una visita guiada de 25 minutos que cuesta 5,50 € adicionales. La entrada es gratuita para nacidos en Sevilla o residentes en la ciudad, menores de 16 años acompañados de un adulto, personas con discapacidad igual o superior al 33% y desempleados residentes en la provincia. Confirma siempre el precio actual en alcazarsevilla.org."
+  - pregunta: "¿Es gratis visitar el Alcázar de Sevilla alguna vez?"
+    respuesta: "Sí, pero con matices: de abril a septiembre es gratis los lunes de 18:00 a 19:00, y de octubre a marzo los lunes de 16:00 a 17:00. El aforo baja a unas 250 personas frente a las 750 del horario normal, las entradas gratuitas se agotan en minutos y en temporada alta (marzo a octubre) es prácticamente imposible conseguirlas. Pagar la entrada general y visitar sin esa presión suele ser la mejor opción."
+  - pregunta: "¿Es lo mismo el Real Alcázar que la Alhambra?"
+    respuesta: "No, aunque comparten artesanos mudéjares del siglo XIV y se parecen en algunos espacios. El Alcázar lleva ocho siglos en uso continuo y sigue siendo residencia oficial de la familia real, mientras que la Alhambra fue abandonada tras 1492 y solo se recuperó como ruina romántica en el siglo XIX. Están emparentados históricamente pero son experiencias distintas."
+  - pregunta: "¿Merece la pena el Cuarto Real Alto del Alcázar?"
+    respuesta: "Solo en casos concretos. Es una visita guiada obligatoria de apenas 25 minutos por las habitaciones reales que todavía usa la familia real, por 5,50 € adicionales sobre la entrada general. Compensa si dispones de medio día completo y te interesa de verdad el patrimonio real; si vas justo de tiempo o viajas con niños, la entrada general ya ofrece una experiencia completa."
+  - pregunta: "¿Cuánto tiempo hay que reservar para el Alcázar de Sevilla?"
+    respuesta: "El propio patronato recomienda un mínimo de 2,5 horas, idealmente 3: entre 1,5 y 2 horas solo para los palacios, 2,5 horas si incluyes los jardines, que ocupan más de la mitad del recinto, y 3 horas si añades el Cuarto Real Alto. Reserva el turno de apertura, las 9:30, para evitar aglomeraciones y el peor calor del verano."
 ---
 
 El Real Alcázar de Sevilla es **el palacio en uso más antiguo de Europa**. Sus orígenes se remontan al siglo X, y todavía hoy es residencia oficial de los Reyes de España cuando visitan la ciudad. Pero más allá del titular, lo que lo hace excepcional es lo que pocos monumentos pueden ofrecer: **mil años de capas históricas en el mismo recinto**, desde restos almohades del siglo XII hasta jardines ingleses del XIX, pasando por el palacio mudéjar más espectacular conservado en España.

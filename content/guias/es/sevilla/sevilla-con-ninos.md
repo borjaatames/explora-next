@@ -22,6 +22,17 @@ slugs:
   es: sevilla-con-ninos
   en: seville-with-kids
   de: sevilla-mit-kindern
+faq:
+  - pregunta: "¿Cuál es el plan gratis más rentable en Sevilla con niños?"
+    respuesta: "Plaza de España + Parque de María Luisa: gratis, al aire libre, funciona de 3 a 14 años, con barcas en el canal (~6 €/35 min) y dos zonas de juegos infantiles en el parque."
+  - pregunta: "¿A partir de qué edad merece la pena el Real Alcázar con niños?"
+    respuesta: "A partir de 6-7 años. La entrada general ronda los 20 € pero los menores de 16 años acompañados de un adulto entran gratis; eso sí, hay que comprar online porque la cola en taquilla puede llegar a 90 minutos."
+  - pregunta: "¿Qué hacer con niños en Sevilla si hace mucho calor?"
+    respuesta: "El Acuario de Sevilla (18 € adultos, 13 € niños de 4 a 14 años, gratis menores de 4) es el plan B definitivo: aire acondicionado, 1,5-2 horas, abierto los 365 días del año. En verano, el combo Isla Mágica + Agua Mágica también resuelve el calor."
+  - pregunta: "¿Hace falta entrar en la Catedral entera con niños?"
+    respuesta: "No. La Catedral completa no engancha a menores de 10 años: es enorme, oscura y llena de capillas. Mejor subir solo a la Giralda (gratis para menores de 13 años acompañados), que tiene rampas en lugar de escaleras y vistas de 360°."
+  - pregunta: "¿Cuándo es mejor evitar Sevilla con niños pequeños?"
+    respuesta: "En Semana Santa y la Feria de Abril: calles cortadas, aglomeraciones y hoteles al doble de precio. Y en invierno (noviembre-marzo) Isla Mágica está cerrada, así que el plan de parque temático no existe esos meses."
 ---
 
 Sevilla con niños funciona, pero no funciona sola. Si llegas con la lista de monumentos del adulto medio (Catedral, Alcázar, Archivo de Indias, Hospital de los Venerables, Casa de Pilatos…) los críos se plantan a las dos horas y el viaje se convierte en una negociación de helados. La buena noticia: la ciudad tiene una densidad rara de planes que enganchan a niños de 4 a 14 años casi sin esfuerzo —**Plaza de España, Alcázar, Acuario, Isla Mágica, kayak, Triana**— y todos están a menos de 30 minutos andando o un taxi de 8-10 € entre ellos. La promesa de esta guía: salir con un plan jerarquizado, no con una lista.

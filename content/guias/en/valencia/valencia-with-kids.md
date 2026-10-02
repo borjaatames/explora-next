@@ -19,6 +19,17 @@ slugs:
   es: valencia-con-ninos
   en: valencia-with-kids
   de: valencia-mit-kindern
+faq:
+  - pregunta: "How much time should you set aside for the Oceanogràfic with kids?"
+    respuesta: "Half a day, 3-4 hours. It's the largest aquarium in Europe (sharks, belugas, penguins, an underwater tunnel and a dolphinarium), so don't try to combine it with the Bioparc on the same day — it's too many hours for little ones."
+  - pregunta: "What's the best free plan with kids in Valencia?"
+    respuesta: "Cycling the Turia Garden: the old riverbed is now a nine-kilometre park, flat and car-free. Renting bikes with child seats, the big draw is Parque Gulliver, a giant slide shaped like the character."
+  - pregunta: "Can you do the Oceanogràfic and the Bioparc on the same day with kids?"
+    respuesta: "It's not recommended. That's too many hours of animals back to back; it's better to give each one its own half-day, on separate days."
+  - pregunta: "When's the best time of year to visit Valencia with kids?"
+    respuesta: "March to June and September-October are ideal: good weather, a warming (or still-warm) beach, and shorter queues than in peak summer. July and August work for the beach and water parks, but the city centre wears kids out at midday."
+  - pregunta: "Do you need to book ahead to eat paella with kids in Valencia?"
+    respuesta: "Yes — book and go early (2 PM), because rice dishes take 30-40 minutes to cook. With hungry kids, order some tapas to bridge the wait."
 ---
 
 **Valencia is one of the best cities in Spain to travel with kids.** It's flat, safe, with an urban beach, a nine-kilometre park for cycling and two of the country's great family attractions: the **Oceanogràfic** (the largest aquarium in Europe) and the **Bioparc**. This guide lays out the plans that actually work with little ones, without forcing the adult itinerary or ending the day dragging everyone home.

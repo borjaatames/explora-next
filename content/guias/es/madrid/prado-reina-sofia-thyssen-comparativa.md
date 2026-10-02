@@ -21,6 +21,17 @@ slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
+faq:
+  - pregunta: "¿Qué museo de Madrid visitar si solo tengo tiempo para uno?"
+    respuesta: "El Prado. Es el más importante de los tres, con pintura europea clásica de primer nivel del siglo XII al XIX, y necesita entre 2 y 3 horas para lo esencial. Si tienes tiempo para un segundo museo, añade el Thyssen antes que el Reina Sofía."
+  - pregunta: "¿Cuánto cuestan el Prado, el Thyssen y el Reina Sofía en 2026?"
+    respuesta: "El Prado cuesta 15 € (7,50 € reducida), el Thyssen 14 € y el Reina Sofía 12 €. La entrada combinada Paseo del Arte, que incluye los tres, cuesta 32,80 €, un 20% de descuento, pero solo compensa si de verdad planeas visitar los tres museos."
+  - pregunta: "¿Cuándo son gratis el Prado, el Thyssen y el Reina Sofía?"
+    respuesta: "El Prado es gratis de lunes a sábado de 18:00 a 20:00 y domingos y festivos de 17:00 a 19:00; el Thyssen es gratis los lunes de 12:00 a 16:00 y los sábados de 21:00 a 23:00; el Reina Sofía es gratis lunes y de miércoles a sábado de 19:00 a 21:00 y domingos de 12:30 a 14:30. Los horarios gratuitos están muy concurridos, así que pagar la entrada y entrar a las 10:00 suele ser mejor experiencia."
+  - pregunta: "¿Merece la pena visitar el Reina Sofía?"
+    respuesta: "Solo si te interesa de verdad el arte del siglo XX. Alberga el Guernica de Picasso junto a obras importantes de Dalí y Miró, pero frente al Prado pierde en variedad para un visitante generalista. 1,5 horas bastan para ver el Guernica, Dalí y Miró; el recorrido completo lleva de 3 a 4 horas."
+  - pregunta: "¿Cierra el Thyssen los lunes?"
+    respuesta: "En parte. El Thyssen tiene horario reducido y solo gratuito los lunes (de 12:00 a 16:00 para la colección permanente), a diferencia del Prado, que abre todos los días en horario completo. Conviene comprobar siempre el horario concreto de cada museo antes de planificar un día con varios, porque es habitual confundir los días de cierre."
 ---
 
 Si solo tienes tiempo para un museo en Madrid, **ve al Prado**. Si tienes para dos, añade el Thyssen. El Reina Sofía está en el último puesto y solo merece el tiempo si te interesa de verdad el arte del siglo XX.

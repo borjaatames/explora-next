@@ -21,6 +21,17 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+faq:
+  - pregunta: "What's the best area to stay in Mallorca with kids?"
+    respuesta: "The north, around Alcúdia, beats the party-oriented south-west. It has calm, shallow beaches like Playa de Muro and is a better family base than the small, fashionable coves, which have no shade or parking."
+  - pregunta: "What's special about the Sóller train with kids?"
+    respuesta: "It's a wooden train built in 1912 that crosses the Tramuntana mountains from Palma, connecting with a vintage tram down to the port. Kids love it — it's an experience in itself, not just transport."
+  - pregunta: "Do you need to book the Drach Caves in advance?"
+    respuesta: "Yes. The caves have one of the largest underground lakes in Europe, with a classical music concert performed from boats on the lake — and those concert tickets sell out, so book ahead."
+  - pregunta: "What's the best Mallorca beach for young kids?"
+    respuesta: "Playa de Muro, near Alcúdia, in the north: fine sand, shallow water and plenty of space. Cala Mondragó, in a natural park in the south-east, is another calm option."
+  - pregunta: "Is Sa Calobra a good drive to do with kids?"
+    respuesta: "Not if they get carsick — the road has extreme hairpin bends. It's one of the drives specifically flagged as one to avoid with young children."
 ---
 
 **Mallorca is a first-rate family destination.** It has shallow-water beaches perfect for little ones, a century-old wooden train, aquariums, caves with a lake and water parks, all at short distances. The key is choosing the right **base** for the kids' ages and not trying to cover the whole island. This guide gathers the plans that really work with family.

@@ -19,6 +19,17 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
+faq:
+  - pregunta: "¿Cuánto tiempo hace falta para ver Córdoba?"
+    respuesta: "Un día completo es suficiente: el casco histórico es compacto y la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. La ruta recomendada va de 9:00 a 18:30."
+  - pregunta: "¿Cómo se llega a Córdoba en tren?"
+    respuesta: "En AVE, 1h 45min desde Madrid, 45 minutos desde Sevilla y 1 hora desde Málaga. La estación queda a 20 minutos andando del centro histórico."
+  - pregunta: "¿A qué hora hay que entrar a la Mezquita-Catedral?"
+    respuesta: "A primera hora, nada más abrir (9:00), antes del calor y de los grupos. Dejarlo para la tarde significa colas largas y una visita con prisa."
+  - pregunta: "¿Cuál es la mejor época para visitar Córdoba?"
+    respuesta: "Abril a junio, con mayo como mes mágico porque coinciden las Cruces, el Festival de los Patios y la Feria — aunque la ciudad se llena y hay que reservar alojamiento con semanas de antelación. En julio y agosto hay que evitar el mediodía: rondan los 40 °C."
+  - pregunta: "¿Merece la pena ir a Medina Azahara desde Córdoba?"
+    respuesta: "Sí, es la gran olvidada del turista de día. Es Patrimonio de la Humanidad y está a las afueras de la ciudad; si tienes medio día más o vienes en primavera, completa muy bien la visita a la Mezquita."
 ---
 
 **Córdoba se ve bien en un día**, y por eso es la excursión clásica desde Sevilla, Madrid o Granada. El casco histórico es compacto y se recorre a pie: la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. Esta guía te ordena el día para no hacer colas ni pasar calor de más, y deja claro qué merece la pena y qué es relleno turístico.

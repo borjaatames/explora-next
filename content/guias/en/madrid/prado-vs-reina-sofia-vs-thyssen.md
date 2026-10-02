@@ -20,6 +20,17 @@ slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
+faq:
+  - pregunta: "Which Madrid museum should I visit if I only have time for one?"
+    respuesta: "The Prado. It is the most important of the three, with world-class European classical painting from the 12th to 19th centuries, and needs 2 to 3 hours for the essentials. If you have time for a second museum, add the Thyssen before the Reina Sofía."
+  - pregunta: "How much do the Prado, Thyssen and Reina Sofía cost in 2026?"
+    respuesta: "The Prado costs €15 (€7.50 reduced), the Thyssen €14, and the Reina Sofía €12. A combined Paseo del Arte ticket covering all three costs €32.80, a 20% discount, but it is only worth it if you genuinely plan to visit all three."
+  - pregunta: "When are the Prado, Thyssen and Reina Sofía free to visit?"
+    respuesta: "The Prado is free Monday to Saturday 6 to 8 PM and Sunday/holidays 5 to 7 PM; the Thyssen is free Monday noon to 4 PM and Saturday 9 to 11 PM; the Reina Sofía is free Monday and Wednesday to Saturday 7 to 9 PM and Sunday 12:30 to 2:30 PM. Free hours are crowded, so paying full price and arriving at 10 AM is usually the better experience."
+  - pregunta: "Is the Reina Sofía worth visiting?"
+    respuesta: "Only if you genuinely care about 20th-century art. It holds Picasso's Guernica along with important Dalí and Miró works, but compared to the Prado it loses on variety for generalist visitors. 1.5 hours is enough to see Guernica, Dalí and Miró; a full circuit takes 3 to 4 hours."
+  - pregunta: "Is the Thyssen closed on Mondays?"
+    respuesta: "Partially. The Thyssen has reduced, free-only hours on Mondays (noon to 4 PM for the permanent collection), unlike the Prado, which is open every day at full hours. Always check each museum's specific schedule before planning a multi-museum day, since people frequently mix up the closure days."
 ---
 
 If you only have time for one museum in Madrid, **go to the Prado**. If you have time for two, add the Thyssen. The Reina Sofía comes last and only deserves your time if you genuinely care about 20th-century art.

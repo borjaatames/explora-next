@@ -13,6 +13,7 @@ import {
   hreflangAlternates,
   urlGuia,
 } from "@/lib/i18n/utils";
+import FaqActividad from "@/components/FaqActividad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -155,6 +156,26 @@ export default async function GuiaPage({ params }: Props) {
     ],
   };
 
+  // Igual que en FaqActividad: no inyectamos FAQPage hasta tener 4+
+  // preguntas reales (con menos, el rich snippet rara vez se muestra y
+  // solo añade peso al HTML).
+  const faq = guia.faq || [];
+  const faqJsonLd =
+    faq.length >= 4
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faq.map((p) => ({
+            "@type": "Question",
+            name: p.pregunta,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: p.respuesta,
+            },
+          })),
+        }
+      : null;
+
   return (
     <main className="min-h-screen bg-white">
       <script
@@ -165,6 +186,12 @@ export default async function GuiaPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       <header className="bg-sky-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
@@ -228,6 +255,11 @@ export default async function GuiaPage({ params }: Props) {
           className="prose-guia"
           dangerouslySetInnerHTML={{ __html: guia.contenidoHtml }}
         />
+        {faq.length > 0 && (
+          <div className="mt-12 pt-8 border-t border-slate-200">
+            <FaqActividad idioma="es" preguntas={faq} />
+          </div>
+        )}
       </article>
 
       {relacionadas.length > 0 && (

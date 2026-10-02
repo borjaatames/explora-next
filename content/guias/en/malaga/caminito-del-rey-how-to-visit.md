@@ -19,6 +19,17 @@ slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
+faq:
+  - pregunta: "How far in advance should you buy Caminito del Rey tickets?"
+    respuesta: "Weeks or months ahead: tickets go on sale online and sell out fast, especially in high season. The best approach is to check available dates first and build the trip around that day, not the other way around."
+  - pregunta: "Can you visit the Caminito del Rey with kids?"
+    respuesta: "Children under 8 aren't allowed in. From that age up, the walk is physically easy (there's almost no elevation gain), though it's not suitable for anyone with serious vertigo."
+  - pregunta: "How long does the Caminito del Rey visit take?"
+    respuesta: "Between 3 and 4 hours in total, including the shuttle bus connecting the two entrances, since the route is linear (7.7 km / 4.8 miles) rather than a loop."
+  - pregunta: "How do you get to the Caminito del Rey from Málaga?"
+    respuesta: "By train (Cercanías/regional rail to El Chorro-Caminito del Rey or Álora, 40-50 minutes) or by car (about 50 minutes to Ardales/El Chorro). Either way, you'll need the shuttle bus to get back to your starting point."
+  - pregunta: "What can cause the Caminito del Rey to close?"
+    respuesta: "Strong wind or heavy rain. It's worth checking the weather forecast before you go and having a backup plan, on top of booking tickets well in advance."
 ---
 
 **The Caminito del Rey is the best-selling nature excursion in Andalusia**, and for good reason: a walkway pinned to the vertical walls of the Gaitanes gorge, more than 100 metres above the river, in a spectacular landscape. But it's also the visit most people miss for an avoidable reason: **not booking the ticket in time**. This guide explains how to organise everything so you don't miss out.

@@ -21,6 +21,17 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+faq:
+  - pregunta: "¿A partir de qué edad se puede visitar la Alhambra con niños?"
+    respuesta: "Funciona ya desde los 4-7 años si se adapta (Generalife + Alcazaba + 2-3 salas de los Palacios Nazaríes), y de forma completa a partir de 8-12 años. Los menores de 12 entran gratis, pero necesitan ticket nominativo propio aunque no paguen."
+  - pregunta: "¿Cuánto cuesta el Parque de las Ciencias de Granada y qué edades funcionan mejor?"
+    respuesta: "10 € la entrada general (8 € niños de 6 a 18 años, gratis menores de 6). La Sala Explora está pensada para 3-7 años y el resto del museo funciona de los 6 a los 14. Cerrado los lunes."
+  - pregunta: "¿Cuánto tiempo hay que calcular para la Alhambra con niños?"
+    respuesta: "Entre 2h 30min y 3 horas, no más. Forzar las 4 horas que aguanta un adulto termina en niños llorando; si tienes dos días en Granada, mejor verla en porciones."
+  - pregunta: "¿Es buena idea hacer un espectáculo de flamenco en Sacromonte con niños?"
+    respuesta: "Con niños menores de 8 años, no: los espectáculos de flamenco-cena en cuevas empiezan a las 22:00 y duran 90 minutos, y los niños se duermen o se aburren. Mejor una visita diurna a las cuevas del Sacromonte o un espectáculo de tarde temprana (18:00-19:00)."
+  - pregunta: "¿Cómo se sube a la Alhambra con niños sin agotarlos?"
+    respuesta: "En el microbús turístico C30/C32, que cuesta 1,40 € por persona. Subir a pie con niños cansados hasta la entrada es mucho más duro de lo que parece."
 ---
 
 Granada con niños puede ser una experiencia magnífica o un desastre, y la diferencia depende casi por completo del plan. Si lo planteas como Granada-versión-adultos-con-niños-detrás (Alhambra cuatro horas, Sacromonte hasta tarde, Albaicín a pleno sol del mediodía), los niños se queman, los padres se queman y la ciudad pasa de ser un descubrimiento a una pelea constante. Pero si entiendes que **Granada tiene tres o cuatro joyas reales para familias** — que la mayoría de padres ni saben que existen — el viaje cambia.

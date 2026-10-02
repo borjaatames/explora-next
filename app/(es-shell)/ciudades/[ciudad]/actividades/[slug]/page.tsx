@@ -151,6 +151,26 @@ export default async function ActividadPage({ params }: Props) {
     ],
   };
 
+  /**
+   * Igual que en las guías (ver app/(es-shell)/guias/[categoria]/[slug]/page.tsx):
+   * NO se inyecta JSON-LD `FAQPage` hasta que la actividad tenga 4+ preguntas
+   * reales, siguiendo la misma decisión de producto documentada en
+   * components/FaqActividad.tsx.
+   */
+  const faqActividad = actividad.preguntasFrecuentes || [];
+  const faqJsonLd =
+    faqActividad.length >= 4
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqActividad.map((p) => ({
+            "@type": "Question",
+            name: p.pregunta,
+            acceptedAnswer: { "@type": "Answer", text: p.respuesta },
+          })),
+        }
+      : null;
+
   // Rating como dato agregado del proveedor (Viator). NO se renderizan
   // opiniones individuales: la API de afiliación lo prohíbe y, además,
   // ExploraSpain no es el operador de la actividad.
@@ -184,6 +204,12 @@ export default async function ActividadPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       <header className="bg-sky-500 text-white py-10 md:py-14">
         <div className="max-w-6xl mx-auto px-4">

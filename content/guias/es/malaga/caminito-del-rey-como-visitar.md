@@ -19,6 +19,17 @@ slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
+faq:
+  - pregunta: "¿Con cuánta antelación hay que comprar la entrada del Caminito del Rey?"
+    respuesta: "Con semanas o meses de antelación: las entradas salen a la venta online y se agotan rápido, sobre todo en temporada alta. Lo mejor es mirar primero las fechas disponibles y montar el viaje alrededor de ese día, no al revés."
+  - pregunta: "¿Se puede ir al Caminito del Rey con niños?"
+    respuesta: "No se permite la entrada a menores de 8 años. A partir de esa edad, el recorrido es físicamente fácil (apenas hay desnivel), aunque no apto para quien tenga vértigo serio."
+  - pregunta: "¿Cuánto dura la visita al Caminito del Rey?"
+    respuesta: "Entre 3 y 4 horas en total, contando el bus lanzadera que conecta las dos entradas, ya que el recorrido es lineal (7,7 km) y no circular."
+  - pregunta: "¿Cómo se llega al Caminito del Rey desde Málaga?"
+    respuesta: "En tren (Cercanías/Media Distancia hasta El Chorro-Caminito del Rey o Álora, 40-50 minutos) o en coche (unos 50 minutos hasta Ardales/El Chorro). En ambos casos hace falta el bus lanzadera para volver al punto de partida."
+  - pregunta: "¿Qué puede hacer que se cierre el Caminito del Rey?"
+    respuesta: "El viento fuerte o la lluvia intensa. Por eso conviene mirar el parte meteorológico antes de ir y tener un plan B, además de reservar la entrada con mucha antelación."
 ---
 
 **El Caminito del Rey es la excursión de naturaleza más vendida de Andalucía**, y con razón: una pasarela colgada en las paredes verticales del desfiladero de los Gaitanes, a más de 100 metros sobre el río, en un paisaje espectacular. Pero es también la visita que más gente se queda sin hacer por un motivo evitable: **no reservar la entrada a tiempo**. Esta guía te explica cómo organizarlo todo para no fallar.

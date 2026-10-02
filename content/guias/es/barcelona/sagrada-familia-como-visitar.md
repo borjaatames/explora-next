@@ -21,6 +21,17 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+faq:
+  - pregunta: "¿Cuánto cuesta la entrada a la Sagrada Familia en 2026?"
+    respuesta: "La entrada básica cuesta 26 € e incluye el acceso a la basílica más una audioguía descargable en 19 idiomas. Subir a una torre sube el precio a 36 €, y la visita guiada en grupo cuesta 30 € (40 € con torres). Los residentes en Barcelona tienen un 50% de descuento durante todo 2026, el Año Gaudí, escribiendo a residents@ext.sagradafamilia.org con justificante de empadronamiento."
+  - pregunta: "¿Con cuánta antelación hay que reservar la Sagrada Familia?"
+    respuesta: "Reserva entre 4 y 6 semanas antes para conseguir buen horario, y entre 8 y 10 semanas si visitas en julio o agosto o durante el Año Gaudí 2026, Semana Santa o puentes españoles, cuando la demanda prácticamente se duplica. Las entradas solo se venden online en sagradafamilia.org: no hay venta en taquilla el mismo día."
+  - pregunta: "¿Merece la pena pagar más por subir a las torres de la Sagrada Familia?"
+    respuesta: "Para la mayoría de primeras visitas, no. Se sube en ascensor pero se baja por una escalera de caracol estrecha, no es accesible en silla de ruedas ni recomendable con vértigo, y fotografías las agujas desde dentro en vez de verlas enteras. Lo que más importa, las vidrieras, ya está incluido en la entrada básica de 26 €. La subida (10 € extra) compensa sobre todo si te sobra presupuesto después de Park Güell o la Casa Batlló."
+  - pregunta: "¿Cuál es el código de vestimenta en la Sagrada Familia?"
+    respuesta: "Es una iglesia católica en activo con código de vestimenta exigido: hombros cubiertos, faldas y pantalones que lleguen al menos a medio muslo, nada transparente, sin bañador ni chanclas de playa, y sin gorras ni sombreros dentro de la nave. El personal de seguridad deniega la entrada por incumplirlo, así que viste como lo harías para cualquier iglesia europea."
+  - pregunta: "¿Qué es la Hora del Silencio en la Sagrada Familia?"
+    respuesta: "Desde el 2 de febrero de 2026, la basílica reserva todos los días de 9:00 a 10:00 como Hora del Silencio: son obligatorios los auriculares para audioguías, no se permite audio por altavoz y se pide silencio a los visitantes. Es además el mejor momento para visitarla, porque hay menos gente y la luz de la mañana ilumina las vidrieras del lado este."
 ---
 
 La Sagrada Familia es **el monumento más visitado de Barcelona** — unos 4,5 millones de personas al año — y, como pasa con todos los monumentos así, la mayoría de visitantes salen con la sensación de haber visto algo importante sin haberlo entendido del todo. Es una pena, porque pocos edificios del mundo recompensan tanto ir bien preparado: las vidrieras orientadas a propósito, los símbolos en cada columna, las matemáticas detrás de la geometría, las decisiones que Gaudí dejó por escrito antes de morir y las que están haciendo sus arquitectos sucesores ahora mismo.

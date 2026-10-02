@@ -20,6 +20,17 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+faq:
+  - pregunta: "At what age can you visit the Alhambra with kids?"
+    respuesta: "It already works from age 4-7 if you adapt it (Generalife + Alcazaba + 2-3 rooms of the Nasrid Palaces), and in full from age 8-12. Kids under 12 get in free, but they still need their own named ticket even though they don't pay."
+  - pregunta: "How much does Granada's Science Park cost and what ages does it suit best?"
+    respuesta: "General admission is €10 (€8 for kids 6-18, free under 6). The Explora Room is built for ages 3-7, and the rest of the museum works well from age 6 to 14. Closed Mondays."
+  - pregunta: "How much time should you budget for the Alhambra with kids?"
+    respuesta: "Between 2h 30min and 3 hours, no more. Pushing the 4 hours an adult can handle ends in tears; if you have two days in Granada, it's better to see it in portions."
+  - pregunta: "Is a flamenco show in Sacromonte a good idea with kids?"
+    respuesta: "Not with kids under 8: the cave dinner-and-flamenco shows start at 10 PM and run 90 minutes, and kids either fall asleep or get bored. Better a daytime visit to the Sacromonte caves or an early-evening show (6-7 PM)."
+  - pregunta: "What's the easiest way up to the Alhambra with kids?"
+    respuesta: "The C30/C32 tourist minibus, which costs €1.40 per person. Walking up with tired kids to the entrance is much harder than it looks."
 ---
 
 Granada with kids can be a magnificent experience or a disaster, and the difference depends almost entirely on the plan. If you frame it as Granada-adult-version-with-kids-in-tow (Alhambra for four hours, Sacromonte until late, Albaicín under midday sun), the kids burn out, the parents burn out, and the city goes from being a discovery to a constant fight. But if you understand that **Granada has three or four real family gems** — most parents don't even know they exist — the trip changes.

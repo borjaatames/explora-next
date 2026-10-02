@@ -251,6 +251,17 @@ export default function CalendarioReserva({
 
       const url = construirUrlViatorFicha(urlReservaBase, slug, gclid);
 
+      // Dominio y URL de destino del clic de salida. Sin esto, GA4 registra
+      // el evento outbound_click pero con link_domain/link_url vacíos,
+      // impidiendo saber a qué proveedor concreto (Viator, GetYourGuide...)
+      // se dirigió cada clic (ver análisis tráfico IA 2026-10-02).
+      let linkDomain: string | null = null;
+      try {
+        linkDomain = new URL(url).hostname;
+      } catch {
+        linkDomain = null;
+      }
+
       if ("gtag" in window) {
         const gtag = (
           window as unknown as {
@@ -277,6 +288,8 @@ export default function CalendarioReserva({
           item_name: slug,
           ficha_slug: slug,
           gclid: gclid ?? null,
+          link_domain: linkDomain,
+          link_url: url,
           ...(valorConversion !== null ? { value: valorConversion } : {}),
           ...(monedaConversion !== null ? { currency: monedaConversion } : {}),
         });

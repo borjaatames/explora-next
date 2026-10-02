@@ -20,6 +20,17 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+faq:
+  - pregunta: "How much does an Alhambra ticket cost in 2026?"
+    respuesta: "The Alhambra General (daytime) ticket costs €22.27 in 2026 and includes the Nasrid Palaces, Alcazaba, Generalife and Palace of Charles V — it's the ticket almost everyone should buy. Cheaper options like Gardens and Generalife (€12.73) leave out the Nasrid Palaces entirely. Tickets go on sale up to 90 days ahead at tickets.alhambra-patronato.es, the only official site."
+  - pregunta: "How far in advance should I book Alhambra tickets?"
+    respuesta: "Book 60 to 90 days ahead whenever you can. The Alhambra caps capacity at about 8,000 tickets a day and the Nasrid Palaces only admit 300 people every half hour, so the popular 10 AM to noon slots can sell out weeks in advance, especially during Holy Week, the May bridge holidays, July-August and Christmas, when tickets sell out within minutes of release."
+  - pregunta: "What happens if I arrive late for my Nasrid Palaces time slot?"
+    respuesta: "You get 30 minutes of tolerance from the printed time, for example 11:30 AM to noon. After that you are not allowed in, with no refund and no exceptions. Budget 30 to 45 minutes to walk from the main entrance to the Nasrid Palaces, so if your slot is 10 AM, enter the complex by 9 AM at the latest."
+  - pregunta: "What can I do if Alhambra tickets are sold out?"
+    respuesta: "Three options, in order of preference: book a guided visit with an authorized operator such as Civitatis or GetYourGuide, which hold separate allotments outside the official site (€45 to €80 per person); book the nighttime Nasrid Palaces visit (€12.73), often still available when the daytime slots are gone; or queue at the ticket office before 7:30 AM for the limited same-day allotment, which mostly works in low season."
+  - pregunta: "Is the Alhambra ever free to visit?"
+    respuesta: "There is no recurring free day. The real free options are children under 12 (who still need a named ticket reserved in advance), visitors with a disability of 33% or more with documentation, accredited teaching staff, and the handful of occasional free days the Patronato releases each year, which have very limited capacity and sell out immediately."
 ---
 
 The Alhambra is **the most visited monument in Spain** — over 2.5 million people a year — and, almost certainly, **the worst-visited**. People who go without preparation end up paying €60 to a reseller, arriving late to the Nasrid Palaces and losing their entry, or leaving after three hours without having understood what they saw. That's a shame, because the Alhambra rewards anyone who arrives with a minimum plan.

@@ -21,6 +21,17 @@ slugs:
   es: sevilla-con-ninos
   en: seville-with-kids
   de: sevilla-mit-kindern
+faq:
+  - pregunta: "What's the best free plan to do with kids in Seville?"
+    respuesta: "Plaza de España + Parque de María Luisa: free, outdoors, works from age 3 to 14, with boats on the canal (about €6/35 min) and two playgrounds in the park."
+  - pregunta: "At what age does the Alcázar start to work with kids?"
+    respuesta: "From age 6-7. General admission is around €20, but kids under 16 accompanied by an adult get in free — just book online, since the ticket-office queue can run up to 90 minutes."
+  - pregunta: "What's the best plan with kids in Seville when it's very hot?"
+    respuesta: "The Seville Aquarium (€18 adults, €13 kids 4-14, free under 4) is the definitive plan B: air-conditioned, 1.5-2 hours, open 365 days a year. In summer, the Isla Mágica + Agua Mágica water park combo also solves the heat problem."
+  - pregunta: "Do you need to go inside the whole Cathedral with kids?"
+    respuesta: "No. The full Cathedral doesn't hook kids under 10 — it's huge, dark and full of side chapels. Better to just climb the Giralda tower (free for kids under 13 with an adult), which has ramps instead of stairs and 360° views."
+  - pregunta: "When is it best to avoid Seville with small kids?"
+    respuesta: "During Holy Week and the April Fair: closed streets, crowds and hotel prices that double. And in winter (November-March) Isla Mágica is closed, so the theme-park plan doesn't exist those months."
 ---
 
 Seville with kids works, but it doesn't work on its own. If you arrive with the average adult's monument list (Cathedral, Alcázar, Archivo de Indias, Hospital de los Venerables, Casa de Pilatos…) the kids will tap out after two hours and the trip turns into an ice-cream negotiation. The good news: the city has a rare density of plans that hook kids ages 4 to 14 with almost no effort — **Plaza de España, the Alcázar, the aquarium, Isla Mágica, kayaking, Triana** — and they all sit within 30 minutes' walk or an €8–10 taxi from each other. The promise of this guide: leave with a prioritized plan, not a list.

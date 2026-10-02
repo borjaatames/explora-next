@@ -21,6 +21,17 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+faq:
+  - pregunta: "¿Cuál es la mejor zona para alojarse en Mallorca con niños?"
+    respuesta: "El norte, en torno a Alcúdia, gana al suroeste de ambiente fiestero. Tiene playas tranquilas y de aguas poco profundas como Playa de Muro, y es mejor base familiar que las calas pequeñas de moda, que no tienen sombra ni aparcamiento."
+  - pregunta: "¿Qué tiene de especial el tren de Sóller con niños?"
+    respuesta: "Es un tren de madera de 1912 que cruza la Sierra de Tramuntana desde Palma, conectando con un tranvía histórico hasta el puerto. A los niños les encanta: es una experiencia en sí misma, no solo un transporte."
+  - pregunta: "¿Hay que reservar las Cuevas del Drach con antelación?"
+    respuesta: "Sí. Las cuevas tienen uno de los lagos subterráneos más grandes de Europa, con un concierto de música clásica interpretado desde barcas sobre el lago, y esas entradas para el concierto se agotan, así que conviene reservar con tiempo."
+  - pregunta: "¿Cuál es la mejor playa de Mallorca para niños pequeños?"
+    respuesta: "Playa de Muro, cerca de Alcúdia, en el norte: arena fina, aguas poco profundas y mucho espacio. Cala Mondragó, en un parque natural al sureste, es otra opción tranquila."
+  - pregunta: "¿Es buena idea hacer la carretera de Sa Calobra con niños?"
+    respuesta: "No si se marean en el coche: la carretera tiene curvas muy cerradas. Es una de las rutas que se desaconseja expresamente hacer con niños pequeños."
 ---
 
 **Mallorca es un destino familiar de primera.** Tiene playas de aguas poco profundas perfectas para peques, un tren de madera centenario, acuarios, cuevas con lago y parques acuáticos, todo a distancias cortas. La clave es elegir bien la **zona de alojamiento** según la edad de los niños y no intentar recorrer la isla entera. Esta guía reúne los planes que de verdad funcionan en familia.

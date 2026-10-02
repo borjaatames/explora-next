@@ -19,6 +19,17 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
+faq:
+  - pregunta: "How much time do you need to see Córdoba?"
+    respuesta: "A full day is enough: the old town is compact, and the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from each other. The recommended route runs from 9 AM to 6:30 PM."
+  - pregunta: "How do you get to Córdoba by train?"
+    respuesta: "By AVE high-speed train: 1h 45min from Madrid, 45 minutes from Seville, and 1 hour from Málaga. The station is a 20-minute walk from the historic centre."
+  - pregunta: "What time should you enter the Mosque-Cathedral?"
+    respuesta: "First thing, right at opening (9 AM), before the heat and the tour groups arrive. Leaving it for the afternoon means long queues and a rushed visit."
+  - pregunta: "What's the best time of year to visit Córdoba?"
+    respuesta: "April to June, with May as the magical month because the Cruces festival, the Patios Festival and the Feria all overlap — though the city fills up and you need to book accommodation weeks ahead. In July and August, avoid midday: temperatures regularly hit 40°C/104°F."
+  - pregunta: "Is Medina Azahara worth visiting from Córdoba?"
+    respuesta: "Yes, it's the day-tripper's biggest miss. It's a UNESCO World Heritage Site just outside the city; if you have an extra half-day or you're visiting in spring, it rounds out the Mosque visit very well."
 ---
 
 **Córdoba is easily seen in a day**, which is why it's the classic day trip from Seville, Madrid or Granada. The old town is compact and walkable: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from one another. This guide orders your day so you skip the queues and the worst of the heat, and it makes clear what's worth your time and what's tourist filler.

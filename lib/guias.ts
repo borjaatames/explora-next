@@ -8,6 +8,7 @@ import remarkHtml from "remark-html";
 import { IDIOMAS_ACTIVOS } from "./i18n/config";
 import { urlGuia } from "./i18n/utils";
 import type { Idioma } from "./i18n/types";
+import type { PreguntaFrecuente } from "./actividades";
 
 const guiasRoot = path.join(process.cwd(), "content", "guias");
 
@@ -31,6 +32,14 @@ export type GuiaFrontmatter = {
    * `ActividadFrontmatter` para el patrón completo.
    */
   slugs?: Partial<Record<Idioma, string>>;
+
+  /**
+   * Preguntas frecuentes de la guía (mismo tipo que en actividades).
+   * Se renderizan con <FaqActividad> y, a partir de 4 preguntas, activan
+   * el JSON-LD `FAQPage` en la página de la guía (ver geo-checklist-
+   * guias-citables-ia.md, punto 4 — relevante para citabilidad en IA).
+   */
+  faq?: PreguntaFrecuente[];
 };
 
 export type GuiaListItem = GuiaFrontmatter & {
@@ -91,6 +100,7 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
         destacada: fm.destacada || false,
         keywords: fm.keywords || [],
         slugs: fm.slugs,
+        faq: fm.faq,
         idioma,
         tiempoLectura: calcularTiempoLectura(content),
         url: urlGuia(idioma, categoria, slug),
@@ -139,6 +149,7 @@ export async function obtenerGuia(
     destacada: fm.destacada || false,
     keywords: fm.keywords || [],
     slugs: fm.slugs,
+    faq: fm.faq,
     idioma,
     tiempoLectura: calcularTiempoLectura(content),
     url: urlGuia(idioma, categoria, slug),
