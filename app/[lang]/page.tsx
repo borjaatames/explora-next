@@ -179,7 +179,7 @@ export default function HomePage({ params }: Props) {
   const copy = getCopy(lang);
   const locale = IDIOMA_LOCALE[lang];
   const dict = getDictionary(lang);
-  const guias = obtenerGuiasDestacadas(lang, 3);
+  const guias = obtenerGuiasDestacadas(lang, 6);
   const ciudades = obtenerListaCiudades(lang);
 
   // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.

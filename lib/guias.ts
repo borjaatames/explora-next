@@ -328,3 +328,75 @@ export function obtenerCiudadesConGuias(idioma: Idioma): CiudadConGuias[] {
 
   return resultado.sort((a, b) => b.total - a.total);
 }
+
+// =============================================================================
+// Enlazado interno ficha → guías
+//
+// Cada ficha de actividad enlaza a guías de su ciudad para repartir autoridad
+// hacia las guías (el contenido que Google y los asistentes de IA citan) y
+// ayudar a su descubrimiento e indexación. Primero van las guías indicadas a
+// mano en `guiasRelacionadas` del frontmatter; el resto se completa con guías
+// de la misma ciudad ordenadas por afinidad temática con la ficha.
+// =============================================================================
+
+const PALABRAS_VACIAS = new Set<string>([
+  "with", "from", "tour", "tours", "guided", "ticket", "tickets", "entry",
+  "desde", "con", "para", "visita", "entrada", "entradas", "guiada", "guiado",
+  "the", "and", "por", "sin", "dia", "day", "trip", "excursion", "small",
+  "group", "grupo", "reducido", "private", "privado", "skip", "line",
+]);
+
+function tokensDe(texto: string): Set<string> {
+  return new Set(
+    texto
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[̀-ͯ]/g, "")
+      .split(/[^a-z0-9]+/)
+      .filter((t) => t.length > 3 && !PALABRAS_VACIAS.has(t))
+  );
+}
+
+function afinidad(tokensFicha: Set<string>, guia: GuiaListItem): number {
+  const tokensGuia = tokensDe(
+    [guia.slug, guia.titulo, ...(guia.keywords ?? [])].join(" ")
+  );
+  let puntos = 0;
+  tokensFicha.forEach((t) => {
+    if (tokensGuia.has(t)) puntos += 1;
+  });
+  return puntos;
+}
+
+/**
+ * Guías a enlazar desde una ficha de actividad: las de `guiasRelacionadas`
+ * primero y, hasta completar `limite`, guías de la misma ciudad ordenadas
+ * por afinidad con el slug/título de la ficha (después, destacadas y más
+ * recientes, que es el orden de `obtenerGuiasDeCiudad`).
+ */
+export function obtenerGuiasParaFicha(
+  idioma: Idioma,
+  ciudad: string,
+  ficha: { slug: string; titulo: string; guiasRelacionadas?: string[] },
+  limite: number = 3
+): GuiaListItem[] {
+  const explicitas =
+    ficha.guiasRelacionadas && ficha.guiasRelacionadas.length > 0
+      ? obtenerListaGuias(idioma).filter((g) =>
+          ficha.guiasRelacionadas!.includes(g.slug)
+        )
+      : [];
+
+  if (explicitas.length >= limite) return explicitas.slice(0, limite);
+
+  const yaIncluidas = new Set<string>(explicitas.map((g) => g.url));
+  const tokensFicha = tokensDe(`${ficha.slug} ${ficha.titulo}`);
+
+  const candidatas = obtenerGuiasDeCiudad(idioma, ciudad)
+    .filter((g) => !yaIncluidas.has(g.url))
+    .map((g, orden) => ({ g, orden, puntos: afinidad(tokensFicha, g) }))
+    .sort((a, b) => b.puntos - a.puntos || a.orden - b.orden)
+    .map(({ g }) => g);
+
+  return [...explicitas, ...candidatas].slice(0, limite);
+}

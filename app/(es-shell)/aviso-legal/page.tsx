@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     follow: process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true",
   },
   alternates: {
-    canonical: "https://exploraspain.com/aviso-legal",
+    canonical: "https://www.exploraspain.com/aviso-legal",
   },
 };
 

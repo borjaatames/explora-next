@@ -8,7 +8,7 @@ import {
   type ActividadCompleta,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
-import { obtenerListaGuias } from "@/lib/guias";
+import { obtenerGuiasParaFicha } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
@@ -91,12 +91,7 @@ export default async function ActividadPage({ params }: Props) {
 
   const dict = getDictionary("es");
 
-  const guiasRelacionadas =
-    actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
-      ? obtenerListaGuias("es").filter((g) =>
-          actividad.guiasRelacionadas!.includes(g.slug)
-        )
-      : [];
+  const guiasRelacionadas = obtenerGuiasParaFicha("es", params.ciudad, actividad);
 
   const url = `${SITE_URL}${actividad.url}`;
   // Incremento 1: precio "desde" en vivo de la API de Viator (fallback al del .md).

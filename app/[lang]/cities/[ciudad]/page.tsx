@@ -9,6 +9,7 @@ import {
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
+import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -99,6 +100,9 @@ type Strings = {
   guiasTitulo: string;
   guiasDescripcion: string;
   guiasCta: string;
+  guiasListaTitulo: string;
+  guiasVerTodas: string;
+  minLectura: string;
   actividadesTitulo: string;
   actividadesDescripcion: string;
   actividadesCta: string;
@@ -113,6 +117,9 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
       guiasTitulo: `Guides for ${nombreCiudad}`,
       guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
       guiasCta: "View guides",
+      guiasListaTitulo: `${nombreCiudad} travel guides`,
+      guiasVerTodas: `All guides for ${nombreCiudad}`,
+      minLectura: "min read",
       actividadesTitulo: `Things to do in ${nombreCiudad}`,
       actividadesDescripcion: "Hand-picked tours and experiences. Free cancellation included.",
       actividadesCta: "View activities",
@@ -126,6 +133,9 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
       guiasTitulo: `Reiseführer für ${nombreCiudad}`,
       guiasDescripcion: "Ehrliche Routen und praktische Tipps, um deine Reise gezielt zu planen.",
       guiasCta: "Reiseführer ansehen",
+      guiasListaTitulo: `Reiseführer für ${nombreCiudad}`,
+      guiasVerTodas: `Alle Reiseführer für ${nombreCiudad}`,
+      minLectura: "Min. Lesezeit",
       actividadesTitulo: `Aktivitäten in ${nombreCiudad}`,
       actividadesDescripcion: "Handverlesene Touren und Erlebnisse. Kostenlose Stornierung inklusive.",
       actividadesCta: "Aktivitäten ansehen",
@@ -138,6 +148,9 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
     guiasTitulo: `Guías de ${nombreCiudad}`,
     guiasDescripcion: "Rutas con criterio y consejos honestos para planificar tu viaje.",
     guiasCta: "Ver guías",
+    guiasListaTitulo: `Guías de ${nombreCiudad}`,
+    guiasVerTodas: `Ver todas las guías de ${nombreCiudad}`,
+    minLectura: "min lectura",
     actividadesTitulo: `Actividades y tours en ${nombreCiudad}`,
     actividadesDescripcion: "Tours seleccionados con criterio editorial. Reserva con cancelación gratis.",
     actividadesCta: "Ver actividades",
@@ -258,6 +271,14 @@ export default async function CiudadPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
         />
       </article>
+
+      <GuiasDeCiudadLista
+        guias={guiasDeCiudad}
+        titulo={strings.guiasListaTitulo}
+        urlTodas={urlGuias}
+        textoVerTodas={strings.guiasVerTodas}
+        textoMinLectura={strings.minLectura}
+      />
 
       <section className="bg-slate-50 border-t border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">

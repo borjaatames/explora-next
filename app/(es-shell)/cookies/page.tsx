@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     follow: process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true",
   },
   alternates: {
-    canonical: "https://exploraspain.com/cookies",
+    canonical: "https://www.exploraspain.com/cookies",
   },
 };
 

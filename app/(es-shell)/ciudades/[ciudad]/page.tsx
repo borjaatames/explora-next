@@ -9,6 +9,7 @@ import {
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
+import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import {
   hreflangAlternates,
@@ -106,9 +107,9 @@ export default async function CiudadPage({ params }: Props) {
     name: ciudad.nombre,
     description: ciudad.descripcion,
     addressCountry: "ES",
-    url: `https://exploraspain.com${ciudad.url}`,
+    url: `https://www.exploraspain.com${ciudad.url}`,
     ...(ciudad.imagen
-      ? { image: `https://exploraspain.com${ciudad.imagen}` }
+      ? { image: `https://www.exploraspain.com${ciudad.imagen}` }
       : {}),
   };
 
@@ -117,8 +118,8 @@ export default async function CiudadPage({ params }: Props) {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.exploraspain.com" },
-      { "@type": "ListItem", position: 2, name: "Ciudades", item: "https://exploraspain.com/ciudades" },
-      { "@type": "ListItem", position: 3, name: ciudad.nombre, item: `https://exploraspain.com${ciudad.url}` },
+      { "@type": "ListItem", position: 2, name: "Ciudades", item: "https://www.exploraspain.com/ciudades" },
+      { "@type": "ListItem", position: 3, name: ciudad.nombre, item: `https://www.exploraspain.com${ciudad.url}` },
     ],
   };
 
@@ -172,6 +173,14 @@ export default async function CiudadPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
         />
       </article>
+
+      <GuiasDeCiudadLista
+        guias={guiasDeCiudad}
+        titulo={"Guías de " + ciudad.nombre}
+        urlTodas={urlGuias}
+        textoVerTodas={"Ver todas las guías de " + ciudad.nombre}
+        textoMinLectura="min lectura"
+      />
 
       <section className="bg-slate-50 border-t border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">

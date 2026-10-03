@@ -13,13 +13,13 @@ export const metadata: Metadata = {
     title: "Sobre ExploraSpain",
     description:
       "Proyecto de SKYWARD PARTNERS, S.L. Tours, actividades y guías editoriales sobre viajes por España.",
-    url: "https://exploraspain.com/sobre-nosotros",
+    url: "https://www.exploraspain.com/sobre-nosotros",
     siteName: "ExploraSpain",
     locale: "es_ES",
     type: "website",
   },
   alternates: {
-    canonical: "https://exploraspain.com/sobre-nosotros",
+    canonical: "https://www.exploraspain.com/sobre-nosotros",
   },
 };
 

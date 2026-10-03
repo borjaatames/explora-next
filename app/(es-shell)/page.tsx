@@ -60,7 +60,7 @@ function formatearPrecio(precio: number, moneda: string): string {
 
 export default function HomePage() {
   const ciudades = obtenerListaCiudades("es");
-  const guias = obtenerGuiasDestacadas("es", 3);
+  const guias = obtenerGuiasDestacadas("es", 6);
 
   // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.
   const nombrePorCiudad = new Map(ciudades.map((c) => [c.slug, c.nombre]));

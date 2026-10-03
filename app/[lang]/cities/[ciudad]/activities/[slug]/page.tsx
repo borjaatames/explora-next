@@ -8,7 +8,7 @@ import {
   type ActividadCompleta,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
-import { obtenerListaGuias } from "@/lib/guias";
+import { obtenerGuiasParaFicha } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
@@ -110,12 +110,7 @@ export default async function ActividadPage({ params }: Props) {
 
   const dict = getDictionary(lang);
 
-  const guiasRelacionadas =
-    actividad.guiasRelacionadas && actividad.guiasRelacionadas.length > 0
-      ? obtenerListaGuias(lang).filter((g) =>
-          actividad.guiasRelacionadas!.includes(g.slug)
-        )
-      : [];
+  const guiasRelacionadas = obtenerGuiasParaFicha(lang, params.ciudad, actividad);
 
   const url = `${SITE_URL}${actividad.url}`;
   // Viator y GetYourGuide solo soportan es/en en su propio sitio (ver
