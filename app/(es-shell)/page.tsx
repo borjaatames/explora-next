@@ -251,19 +251,20 @@ export default function HomePage() {
                     ) : null}
                   </div>
                   <div className="flex flex-1 flex-col p-5">
-                    {nombrePorCiudad.get(a.ciudad) ? (
-                      <span className="text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
-                        {nombrePorCiudad.get(a.ciudad)}
-                      </span>
-                    ) : null}
-                    <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2">
+                    {/* Siempre se pinta (vacío si no hay ciudad) para que todas las tarjetas midan igual. */}
+                    <span className="h-4 text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
+                      {nombrePorCiudad.get(a.ciudad) ?? ""}
+                    </span>
+                    <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
                       {a.titulo}
                     </h3>
-                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-slate-500 mb-4">
-                      {a.duracion ? <span>{a.duracion}</span> : null}
+                    <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-slate-500 mb-4">
+                      {a.duracion ? (
+                        <span className="min-w-0 truncate">{a.duracion}</span>
+                      ) : null}
                       {typeof a.ratingProveedor === "number" &&
                       typeof a.numeroOpiniones === "number" ? (
-                        <span>
+                        <span className="shrink-0">
                           <span className="text-amber-500" aria-hidden="true">
                             ★
                           </span>{" "}

@@ -470,14 +470,16 @@ function CardActividad({
       )}
 
       <div className="flex flex-1 flex-col p-5">
-        <h3 className="font-playfair text-lg md:text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight">
+        <h3 className="font-playfair text-lg md:text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
           {actividad.titulo}
         </h3>
-        <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-slate-500 mb-4">
-          {actividad.duracion ? <span>{actividad.duracion}</span> : null}
+        <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-slate-500 mb-4">
+          {actividad.duracion ? (
+            <span className="min-w-0 truncate">{actividad.duracion}</span>
+          ) : null}
           {typeof actividad.ratingProveedor === "number" &&
           typeof actividad.numeroOpiniones === "number" ? (
-            <span>
+            <span className="shrink-0">
               <span className="text-amber-500" aria-hidden="true">
                 ★
               </span>{" "}

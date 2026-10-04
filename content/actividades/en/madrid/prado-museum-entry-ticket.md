@@ -7,7 +7,7 @@ slugs:
   es: museo-prado-entrada
   en: prado-museum-entry-ticket
 
-duracion: "Ticket valid 1 day (recommended visit: 2-3 hours)"
+duracion: "Valid 1 day"
 duracionMinutos: 150
 precioDesde: 18
 moneda: "EUR"

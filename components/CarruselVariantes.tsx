@@ -129,13 +129,13 @@ function VarianteCard({ actividad, idioma }: CardProps) {
         ) : null}
       </div>
       <div className="p-4">
-        <h3 className="font-playfair text-base font-bold text-slate-900 mb-1 line-clamp-2 group-hover:text-sky-700 transition-colors">
+        <h3 className="font-playfair text-base font-bold text-slate-900 mb-1 line-clamp-2 min-h-[3em] group-hover:text-sky-700 transition-colors">
           {actividad.titulo}
         </h3>
-        <p className="text-xs text-slate-500 mb-2 line-clamp-2 leading-relaxed">
+        <p className="text-xs text-slate-500 mb-2 line-clamp-2 min-h-[3.25em] leading-relaxed">
           {actividad.descripcion}
         </p>
-        <p className="text-xs text-slate-500">
+        <p className="text-xs text-slate-500 truncate">
           {actividad.duracion} · {t.desde}{" "}
           <span className="font-semibold text-slate-900">{precio}</span>
         </p>
