@@ -153,6 +153,7 @@ atraccionesRelacionadas:
 - alhambra
 - generalife
 guiasRelacionadas:
+  - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"
 ---
 

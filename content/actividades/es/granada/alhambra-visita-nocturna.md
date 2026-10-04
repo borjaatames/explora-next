@@ -150,6 +150,7 @@ atraccionesRelacionadas:
 - alhambra
 - alhambra-noche
 guiasRelacionadas:
+  - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"
 ---
 

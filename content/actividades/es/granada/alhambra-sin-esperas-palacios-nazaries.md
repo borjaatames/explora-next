@@ -149,6 +149,7 @@ atraccionesRelacionadas:
 - alhambra
 - palacios-nazaries
 guiasRelacionadas:
+  - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"
 ---
 

@@ -123,6 +123,8 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 
+guiasRelacionadas:
+  - "sevilla-con-ninos"
 publicada: true
 destacada: true
 fecha: "2026-05-17"

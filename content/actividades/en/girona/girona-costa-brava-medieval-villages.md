@@ -67,6 +67,8 @@ galeria:
   alt: Dali Figueres
 ratingProveedor: 4.99
 numeroOpiniones: 228
+guiasRelacionadas:
+  - "costa-brava-day-trips-from-girona"
 publicada: true
 destacada: false
 fecha: "2026-05-21"

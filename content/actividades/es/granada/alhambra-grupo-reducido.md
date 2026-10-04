@@ -141,6 +141,7 @@ fecha: '2026-05-14'
 atraccionesRelacionadas:
 - alhambra
 guiasRelacionadas:
+  - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"
 ---
 

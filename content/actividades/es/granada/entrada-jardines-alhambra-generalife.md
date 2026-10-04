@@ -144,6 +144,7 @@ destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'
 guiasRelacionadas:
+  - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"
 ---
 

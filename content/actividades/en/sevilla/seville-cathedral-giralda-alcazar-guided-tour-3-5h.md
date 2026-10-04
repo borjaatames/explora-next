@@ -138,6 +138,8 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 2085
 
+guiasRelacionadas:
+  - "alcazar-of-seville-how-to-visit"
 publicada: true
 destacada: true
 fecha: "2026-05-17"

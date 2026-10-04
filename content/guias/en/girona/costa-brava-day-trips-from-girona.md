@@ -1,76 +1,62 @@
 ---
-titulo: "Day trips from Girona: Costa Brava, Cadaqués and Figueres (Dalí)"
-descripcion: "The best day trips from Girona: Figueres and the Dalí Theatre-Museum, Cadaqués, Besalú, Tossa de Mar and the Costa Brava coves. How to get there and what to see."
-categoria: "girona"
-slug: "costa-brava-day-trips-from-girona"
-fecha: "2026-05-12"
-fecha_actualizacion: "2026-05-12"
-autor: "ExploraSpain Team"
+titulo: 'Day trips from Girona: Costa Brava, Cadaqués and Figueres (Dalí)'
+descripcion: 'The best day trips from Girona: Figueres and the Dalí Theatre-Museum, Cadaqués, Besalú, Tossa de Mar and the Costa Brava coves. How to get there and what to see.'
+categoria: girona
+slug: costa-brava-day-trips-from-girona
+fecha: '2026-05-12'
+fecha_actualizacion: '2026-10-04'
+autor: ExploraSpain Team
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 3
 keywords:
-  - "day trips from girona"
-  - "costa brava"
-  - "cadaques"
-  - "dali theatre museum figueres"
-  - "besalu"
+- day trips from girona
+- costa brava
+- cadaques
+- dali theatre museum figueres
+- besalu
 slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 ---
 
-**Girona is the best base for discovering north-east Catalonia.** Within an hour you have the prettiest coves on the Costa Brava, the world of Dalí in Figueres and Cadaqués, fairytale medieval villages and Greco-Roman ruins. This guide sorts the best day trips by how much time you have and how to get there, by train or car.
+**Girona is the best base for the Costa Brava.** In under an hour you can reach Dalí's Figueres and Cadaqués, medieval villages like Besalú and the prettiest coves on the coast.
 
-The area splits into three worlds: the **Dalí triangle** (Figueres-Cadaqués-Portlligat), the inland **medieval villages** and the coastal **coves**. Choose by the day.
+## Trips with everything organised
 
-## The best day trips
+| Plan | Activity | From |
+| --- | --- | --- |
+| Coves and caves by kayak | [Kayak and snorkel in S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4.7★ (1,393) | €34 |
+| Cadaqués by sea | [Boat from Roses to Cadaqués along Cap de Creus](/en/cities/girona/activities/roses-cadaques-boat-trip-cap-de-creus), 4.5★ (414) | €27 |
+| Medes Islands | [Boat to the Medes Islands from L'Estartit](/en/cities/girona/activities/medes-islands-boat-trip-caves-estartit), 4.6★ (634) | €24 |
+| Dalí Museum with a guide | [Guided tour of the Dalí Theatre-Museum](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
+| Medieval villages and coast | [Girona, Costa Brava and medieval villages](/en/cities/girona/activities/girona-costa-brava-medieval-villages), 5.0★ (228) | €89 |
+| If you're staying in Barcelona | [Girona, Figueres, Dalí and Cadaqués in one day](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €69 |
 
-| Destination | Distance | Ideal for |
+## Day trips on your own
+
+| Destination | From Girona | Best for |
 | --- | --- | --- |
 | Figueres | 40 min (train) | The Dalí Theatre-Museum |
-| Cadaqués and Cap de Creus | 1h 15min (car) | A white village and Dalí's house |
-| Besalú | 45 min (car) | A medieval village and Romanesque bridge |
-| Calella de Palafrugell / Begur | 50 min (car) | Coves and a seafaring old town |
-| Tossa de Mar | 1h (car) | Walled enclosure by the sea |
+| Cadaqués and Cap de Creus | 1h 15 min (car) | White village and Dalí's house |
+| Besalú | 45 min (car) | Medieval village and Romanesque bridge |
+| Calella de Palafrugell / Begur | 50 min (car) | Coves and fishing villages |
+| Tossa de Mar | 1 h (car) | Walled town by the sea |
 | Empúries (L'Escala) | 50 min (car) | Greek and Roman ruins |
 
-## The Dalí triangle
-
-**Figueres** is home to the **Dalí Theatre-Museum**, the most visited museum in Spain after the Prado and a total work of art designed by the painter himself (40 minutes by train). An hour further, **Cadaqués**, the prettiest white village of Cap de Creus, and **Portlligat**, with **Dalí's house-museum**. Wild nature at **Cap de Creus**, the easternmost point of the peninsula.
-
-## The medieval villages
-
-**Besalú**, with its fortified Romanesque bridge and Jewish quarter, is one of the best-preserved medieval villages in Catalonia. A step away, **Pals** and **Peratallada**, of golden stone and charming lanes.
-
-## The Costa Brava coves
-
-**Calella de Palafrugell**, **Llafranc** and **Tamariu** are three postcard seafaring coves; **Begur** crowns the area with coves like Sa Riera and Aiguablava. **Tossa de Mar** adds a medieval **walled enclosure** above the sea to its beach.
-
-## Empúries
-
-In L'Escala, the ruins of **Empúries** gather a **Greek and Roman** city by the sea: one of the most important archaeological sites on the peninsula, with a swim right alongside.
+- **Dalí:** the Figueres Theatre-Museum, Cadaqués and the Portlligat house complement each other.
+- **Medieval villages:** Besalú, Pals and Peratallada.
+- **Coves:** Calella de Palafrugell, Llafranc, Tamariu and Begur's coves (Sa Riera, Aiguablava).
 
 ## Getting around
 
-**Figueres** and part of the coast can be done by **train**; for **Cadaqués**, the **medieval villages** and the **coves**, a **car** gives much more freedom (public transport reaches Cap de Creus and the cove coast poorly).
+Figueres is easy by train. For Cadaqués, the villages and the coves you need a car or an organised trip: public transport is poor.
 
-## What we don't recommend
+## Mistakes to avoid
 
-1. **Doing two far-off trips on the same day.** Cadaqués or the coves are a full day each.
-2. **Going to the small coves at midday in August.** Minimal parking; go early.
-3. **Driving to Cadaqués in a rush.** The mountain road is slow and beautiful; take it calmly.
-4. **Skipping Empúries if you like history.** It's underrated.
+1. **Not booking the Dalí Museum in high season:** it sells out.
+2. **Cramming two long trips into one day:** Cadaqués or the coves fill a whole day.
+3. **Heading to the coves at midday in August:** there's no parking; go early.
 
-## Common mistakes
-
-> **⚠️ Warning:** the slip-ups we see most.
-
-1. **Not booking the Dalí Theatre-Museum** in season: it sells out.
-2. **Seeing Figueres without Cadaqués/Portlligat** if Dalí interests you: they complement each other.
-3. **Underestimating the Cap de Creus road.** Bends and difficult parking in summer.
-
-## In one sentence
-
-From Girona, within an hour you have the Dalí of Figueres and Cadaqués, medieval villages like Besalú and the coves of the Costa Brava: three different worlds within day-trip reach. They complement [Girona in one day](/en/guides/girona/what-to-see-in-girona-in-one-day).
+For the city itself, see [what to see in Girona in one day](/en/guides/girona/what-to-see-in-girona-in-one-day).

@@ -112,6 +112,8 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 12014
 
+guiasRelacionadas:
+  - "seville-with-kids"
 publicada: true
 destacada: true
 fecha: "2026-05-17"

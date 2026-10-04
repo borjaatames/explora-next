@@ -128,6 +128,9 @@ galeria:
 ratingProveedor: 4.4
 numeroOpiniones: 510
 
+guiasRelacionadas:
+  - "alcazar-of-seville-how-to-visit"
+  - "seville-with-kids"
 publicada: true
 destacada: true
 fecha: "2026-05-17"
