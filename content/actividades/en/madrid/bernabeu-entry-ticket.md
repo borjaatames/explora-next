@@ -116,20 +116,22 @@ keywords:
 - real madrid stadium visit
 - bernabeu ticket
 imagen: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
-imagenAlt: Aerial view of the Santiago Bernabéu Stadium in Madrid at sunset
+imagenAlt: Aerial view of the new Santiago Bernabéu Stadium in Madrid at sunset
 galeria:
-- src: /images/actividades/madrid/santiago-bernabeu/descarga-hero.webp
-  alt: Madrid cityscape with historic architecture and street view
-- src: /images/actividades/madrid/santiago-bernabeu/estadio_santiago_bernabeu_bicimad_2025-hero.webp
-  alt: Bicimad bike station at Santiago Bernabéu stadium in Madrid
-- src: /images/actividades/madrid/santiago-bernabeu/images-1-hero.webp
-  alt: Madrid city skyline with historic architecture and modern buildings at sunset
-- src: /images/actividades/madrid/santiago-bernabeu/descarga-1-hero.webp
-  alt: Players' tunnel leading to the pitch at the Santiago Bernabeu stadium
-- src: /images/actividades/madrid/santiago-bernabeu/descarga-2-hero.webp
-  alt: Madrid street scene with historic buildings and urban architecture
-- src: /images/actividades/madrid/santiago-bernabeu/bernabeu_3-hero.webp
-  alt: Santiago Bernabéu stadium in Madrid, exterior view with distinctive architecture
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
+  alt: Façade of the new Santiago Bernabéu Stadium after the renovation
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
+  alt: Stands and pitch of the renovated Bernabéu
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-cubierta-retractil-hero.webp
+  alt: The Bernabéu's retractable roof seen from inside
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cesped-hero.webp
+  alt: Overview of the Bernabéu interior from the upper tier
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-panoramica-hero.webp
+  alt: Panoramic view of the Bernabéu stands under the new roof
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-metro-entrada-hero.webp
+  alt: Entrance to Santiago Bernabéu metro station
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp
+  alt: The Bernabéu's metal façade from Paseo de la Castellana
 ratingProveedor: 4.5
 numeroOpiniones: 23468
 publicada: true
