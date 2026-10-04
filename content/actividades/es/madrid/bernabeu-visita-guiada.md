@@ -95,11 +95,27 @@ categoria: "deportivo"
 keywords: ["bernabeu visita guiada", "bernabeu tour guiado", "tour real madrid guia", "estadio bernabeu guiado", "santiago bernabeu visita guiada espanol"]
 
 imagen: "/images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp"
-imagenAlt: "Estadio Santiago Bernabéu desde el exterior"
+imagenAlt: "Vestuario del Real Madrid en el Estadio Santiago Bernabéu"
 
 galeria:
+  - src: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
+    alt: "Vista aérea del nuevo Estadio Santiago Bernabéu de Madrid al atardecer"
   - src: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
     alt: "Vista exterior del Estadio Santiago Bernabéu del Real Madrid"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp"
+    alt: "Fachada del nuevo Estadio Santiago Bernabéu tras la reforma"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"
+    alt: "Gradas y terreno de juego del Bernabéu reformado"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-cubierta-retractil-hero.webp"
+    alt: "Cubierta retráctil del Bernabéu vista desde dentro"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cesped-hero.webp"
+    alt: "Vista general del interior del Bernabéu desde la grada alta"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-panoramica-hero.webp"
+    alt: "Panorámica de las gradas del Bernabéu con la cubierta nueva"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-metro-entrada-hero.webp"
+    alt: "Boca de metro de la estación Santiago Bernabéu"
+  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp"
+    alt: "Fachada metálica del Bernabéu desde el Paseo de la Castellana"
 
 ratingProveedor: 4.1
 numeroOpiniones: 1532
