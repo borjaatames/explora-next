@@ -4,7 +4,7 @@ descripcion: "Guía de Bilbao con niños: funicular de Artxanda, esculturas del 
 categoria: "bilbao"
 slug: "bilbao-con-ninos"
 fecha: "2026-04-15"
-fecha_actualizacion: "2026-04-15"
+fecha_actualizacion: '2026-10-04'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Bilbao es una ciudad muy cómoda con niños.** Es compacta, llana junto a la ría, con un metro y un tranvía facilísimos, parques, un funicular con vistas y playas a 20 minutos sin coche. Esta guía reúne los planes que de verdad funcionan en familia, combinando ciudad y costa sin agobios.
+
+## Planes con niños que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Barco por la ría (1 h o 2 h)](/ciudades/bilbao/actividades/barco-ria-bilbao-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 17 € |
+| [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
 
 La clave es alternar: una mañana de ría y esculturas, una tarde de parque o playa. Y aprovechar que el transporte público lo pone todo a tiro.
 

@@ -4,7 +4,7 @@ descripcion: "Qué ver en Bilbao en un día: Museo Guggenheim, Casco Viejo, Merc
 categoria: "bilbao"
 slug: "bilbao-en-un-dia"
 fecha: "2026-03-13"
-fecha_actualizacion: "2026-03-13"
+fecha_actualizacion: '2026-10-04'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,17 @@ slugs:
 ---
 
 **Bilbao se ve bien en un día**, con el **Guggenheim** como gran reclamo y un Casco Viejo de pintxos imbatible. La ciudad protagonizó una de las transformaciones urbanas más famosas del mundo —el "efecto Guggenheim"—, pasando de gris industrial a icono del diseño, y hoy se recorre a pie siguiendo la ría. Esta guía cubre lo esencial y separa lo que merece la pena de lo que es relleno.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie por el Casco Viejo](/ciudades/bilbao/actividades/tour-a-pie-casco-viejo-bilbao) | 4,7★ (449) | 42 € |
+| [Guggenheim con guía y entrada (en español)](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-guiada-entrada) | 4,9★ (182) | 49 € |
+| [Tour de pintxos con vino](/ciudades/bilbao/actividades/tour-pintxos-bilbao-vino) | 4,9★ (1.041) | 95 € |
+| [Barco por la ría (1 h o 2 h)](/ciudades/bilbao/actividades/barco-ria-bilbao-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 17 € |
+| [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
 
 La gracia de Bilbao es el contraste: el titanio futurista de Gehry a un lado de la ría, las Siete Calles medievales al otro, y una de las mejores barras de pintxos de Europa de fondo. Quien lo ve con prisa se queda en la foto del museo; quien se queda a comer y a subir a Artxanda se lleva la ciudad entera.
 

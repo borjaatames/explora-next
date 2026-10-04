@@ -4,7 +4,7 @@ descripcion: "A guide to pintxos in Bilbao: where to go bar-hopping (Plaza Nueva
 categoria: "bilbao"
 slug: "bilbao-pintxos"
 fecha: "2026-04-04"
-fecha_actualizacion: "2026-04-04"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,13 @@ slugs:
 ---
 
 **Eating pintxos in Bilbao is a ritual, not just a meal.** It's not about sitting in one place, but moving from bar to bar —the **txikiteo** or **poteo**— having a pintxo and a txikito (wine) or a zurito (small beer) in each. This guide tells you where to go, what to order and how to do it like a local, not a clueless tourist.
+
+## Pintxos tours
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Pintxos food tour with wine](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4.9★ (1,041) | €95 |
+| [Pintxos cooking class](/en/cities/bilbao/activities/bilbao-pintxos-cooking-class) | 4.8★ (70) | €80 |
 
 Rule number one: **move**. The point is to try each bar's speciality, not to stay in one. And the best pintxos often aren't on display at the bar: they're ordered hot.
 

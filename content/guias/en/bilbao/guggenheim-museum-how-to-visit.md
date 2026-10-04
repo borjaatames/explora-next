@@ -4,7 +4,7 @@ descripcion: "How to visit the Bilbao Guggenheim: tickets and hours, what to see
 categoria: "bilbao"
 slug: "guggenheim-museum-how-to-visit"
 fecha: "2026-03-24"
-fecha_actualizacion: "2026-03-24"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,13 @@ slugs:
 ---
 
 **The Guggenheim isn't just a museum: it's the building that changed Bilbao.** Frank Gehry's titanium work, opened in 1997, turned an industrial city into a global design icon —the famous "Bilbao effect". So the visit has two parts you shouldn't confuse: **the building and its sculptures (free, outside)** and **the galleries (paid, inside)**. This guide helps you make the most of both.
+
+## Guided Guggenheim tours
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guggenheim guided tour with ticket (Spanish only)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4.9★ (182) | €49 |
+| [Guggenheim VIP small group (10 languages)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4.5★ (763) | €95 |
 
 The golden rule: even if you don't go in, the exterior alone is worth the trip. And if you do go in, head for what really matters, not "seeing everything".
 

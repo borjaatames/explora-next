@@ -4,7 +4,7 @@ descripcion: "Bilbao with kids: the Artxanda funicular, Guggenheim sculptures, t
 categoria: "bilbao"
 slug: "bilbao-with-kids"
 fecha: "2026-04-15"
-fecha_actualizacion: "2026-04-15"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Bilbao is a very comfortable city with kids.** It's compact, flat along the river, with an easy metro and tram, parks, a funicular with views and beaches 20 minutes away without a car. This guide gathers the plans that really work with family, combining city and coast without stress.
+
+## Kid-friendly plans you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
+| [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €17 |
+| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
 
 The key is to alternate: a morning of river and sculptures, an afternoon of park or beach. And to make the most of public transport putting everything within reach.
 

@@ -4,7 +4,7 @@ descripcion: "Las mejores escapadas de un día desde Bilbao: Gaztelugatxe, San S
 categoria: "bilbao"
 slug: "escapadas-desde-bilbao"
 fecha: "2026-04-26"
-fecha_actualizacion: "2026-04-26"
+fecha_actualizacion: '2026-10-04'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Bilbao es una base perfecta para descubrir el País Vasco.** En menos de una hora tienes una de las costas más bravas de España, San Sebastián, una reserva de la biosfera, el corazón histórico vasco y los viñedos de la Rioja Alavesa. Esta guía ordena las mejores escapadas de un día según el tiempo que tengas y cómo llegar.
+
+## Excursiones con transporte desde Bilbao
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
+| [San Sebastián, Hondarribia y Getaria](/ciudades/bilbao/actividades/san-sebastian-hondarribia-getaria-desde-bilbao) | 4,6★ (1.022) | 45 € |
+| [Biarritz, San Juan de Luz y San Sebastián](/ciudades/bilbao/actividades/biarritz-san-juan-de-luz-san-sebastian-desde-bilbao) | 4,7★ (898) | 70 € |
 
 La más famosa es **Gaztelugatxe**, pero la costa de Urdaibai y San Sebastián compiten de tú a tú. Elige según el día: mar, gastronomía, naturaleza o vino.
 

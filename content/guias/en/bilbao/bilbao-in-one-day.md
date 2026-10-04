@@ -4,7 +4,7 @@ descripcion: "What to see in Bilbao in one day: Guggenheim Museum, Old Town, La 
 categoria: "bilbao"
 slug: "bilbao-in-one-day"
 fecha: "2026-03-13"
-fecha_actualizacion: "2026-03-13"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,17 @@ slugs:
 ---
 
 **Bilbao is easily seen in a day**, with the **Guggenheim** as the headline draw and an unbeatable Old Town for pintxos. The city pulled off one of the most famous urban transformations in the world —the "Bilbao effect"—, going from industrial grey to a design icon, and today it's walked along the river. This guide covers the essentials and separates what's worth your time from the filler.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Old Town walking tour](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4.7★ (449) | €42 |
+| [Guggenheim guided tour with ticket (Spanish only)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4.9★ (182) | €49 |
+| [Pintxos food tour with wine](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4.9★ (1,041) | €95 |
+| [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
+| [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €17 |
+| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
 
 Bilbao's charm is the contrast: Gehry's futuristic titanium on one bank of the river, the medieval Seven Streets on the other, and one of the best pintxo scenes in Europe in between. Whoever sees it in a rush stops at the museum photo; whoever stays for lunch and rides up to Artxanda takes home the whole city.
 

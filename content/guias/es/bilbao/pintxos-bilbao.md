@@ -4,7 +4,7 @@ descripcion: "Guía de pintxos en Bilbao: dónde ir de txikiteo (Plaza Nueva, Ca
 categoria: "bilbao"
 slug: "pintxos-bilbao"
 fecha: "2026-04-04"
-fecha_actualizacion: "2026-04-04"
+fecha_actualizacion: '2026-10-04'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,13 @@ slugs:
 ---
 
 **Comer pintxos en Bilbao es un ritual, no solo una comida.** No se trata de sentarse en un sitio, sino de ir de barra en barra —el **txikiteo** o **poteo**— tomando un pintxo y un txikito (vino) o un zurito (caña pequeña) en cada local. Esta guía te dice dónde ir, qué pedir y cómo hacerlo como un bilbaíno y no como un turista despistado.
+
+## Tours de pintxos
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour de pintxos con vino](/ciudades/bilbao/actividades/tour-pintxos-bilbao-vino) | 4,9★ (1.041) | 95 € |
+| [Clase de cocina de pintxos (en inglés)](/ciudades/bilbao/actividades/clase-cocina-pintxos-bilbao) | 4,8★ (70) | 80 € |
 
 La regla número uno: **muévete**. La gracia es probar la especialidad de cada bar, no quedarte en uno. Y los mejores pintxos muchas veces no están en la barra a la vista: se piden en caliente.
 

@@ -4,7 +4,7 @@ descripcion: "The best day trips from Bilbao: Gaztelugatxe, San Sebastián, Urda
 categoria: "bilbao"
 slug: "day-trips-from-bilbao"
 fecha: "2026-04-26"
-fecha_actualizacion: "2026-04-26"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Bilbao is a perfect base for discovering the Basque Country.** Within an hour you have one of the wildest coasts in Spain, San Sebastián, a biosphere reserve, the historic Basque heartland and the vineyards of the Rioja Alavesa. This guide sorts the best day trips by how much time you have and how to get there.
+
+## Day trips with transport from Bilbao
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
+| [San Sebastián, Hondarribia and Getaria](/en/cities/bilbao/activities/san-sebastian-hondarribia-getaria-from-bilbao) | 4.6★ (1,022) | €45 |
+| [Biarritz, Saint-Jean-de-Luz and San Sebastián](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4.7★ (898) | €70 |
 
 The most famous is **Gaztelugatxe**, but the Urdaibai coast and San Sebastián compete head to head. Choose by the day: sea, gastronomy, nature or wine.
 
