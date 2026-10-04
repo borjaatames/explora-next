@@ -4,7 +4,7 @@ descripcion: "Las mejores escapadas de un día desde Málaga: Ronda, Nerja y Fri
 categoria: "malaga"
 slug: "escapadas-desde-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-04-13"
+fecha_actualizacion: '2026-10-04'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -22,6 +22,16 @@ slugs:
 ---
 
 **Málaga es la mejor base de la Costa del Sol para escapadas.** En menos de hora y media tienes pueblos blancos colgados de barrancos, cuevas y playas, paisajes lunares y hasta el Peñón de Gibraltar. Esta guía ordena las mejores salidas de un día según el tiempo que tengas y cómo llegar, con o sin coche.
+
+## Excursiones con transporte desde Málaga
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Caminito del Rey guiado](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
+| [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga) | 4,7★ (8.742) | 35 € |
+| [Cuevas de Nerja, Nerja y Frigiliana](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga) | 4,6★ (3.192) | 69 € |
+| [Gibraltar](/ciudades/malaga/actividades/gibraltar-desde-malaga) | 4,6★ (5.510) | 35 € |
+| [Córdoba con entrada a la Mezquita](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | 4,5★ (753) | 35 € |
 
 Además del **Caminito del Rey** (que merece su propia guía: [cómo visitarlo](/guias/malaga/caminito-del-rey-como-visitar)), estas son las escapadas que de verdad compensan.
 

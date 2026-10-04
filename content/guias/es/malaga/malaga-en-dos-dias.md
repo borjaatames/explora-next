@@ -4,7 +4,7 @@ descripcion: "Qué ver en Málaga en dos días: Alcazaba, Catedral, Museo Picass
 categoria: "malaga"
 slug: "malaga-en-dos-dias"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-02-28"
+fecha_actualizacion: '2026-10-04'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -22,6 +22,17 @@ slugs:
 ---
 
 **Málaga en dos días cunde mucho.** El casco histórico es compacto, llano y se ve a pie, así que en 48 horas bien repartidas entran los monumentos, los museos, la playa y, si te organizas, el Caminito del Rey. Esta guía separa lo imprescindible de lo prescindible y asume que vienes a entender la ciudad, no solo a tomar el sol. Málaga ha pasado en quince años de ser la puerta de paso de la Costa del Sol a una capital cultural con más de treinta museos, y se nota.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 18 € |
+| [Museo Picasso, entrada con audioguía](/ciudades/malaga/actividades/museo-picasso-malaga-entrada) | 4,5★ (13.842) | 13 € |
+| [Catedral, Alcazaba y Teatro con entradas](/ciudades/malaga/actividades/malaga-esencial-catedral-alcazaba-teatro) | 4,6★ (1.134) | 42 € |
+| [Catamarán por la bahía al atardecer](/ciudades/malaga/actividades/catamaran-malaga-atardecer) | 4,4★ (10.537) | 13 € |
+| [Baños árabes Hammam Al Ándalus](/ciudades/malaga/actividades/hammam-al-andalus-malaga) | 4,7★ (2.863) | 60 € |
+| [Caminito del Rey guiado desde Málaga](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
 
 La trampa de Málaga es tratarla solo como aeropuerto y playa. Quien sale habiendo visto únicamente la Malagueta se ha perdido la otra mitad: la Alcazaba colgada sobre el Teatro Romano, el Picasso, la Catedral y un centro histórico peatonal que se ha convertido en uno de los más agradables del sur. Dos días dan justo para las dos caras.
 

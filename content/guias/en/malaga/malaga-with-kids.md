@@ -4,7 +4,7 @@ descripcion: "Málaga with kids: beaches, the Alcazaba, Bioparc Fuengirola, the 
 categoria: "malaga"
 slug: "malaga-with-kids"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-04-01"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -22,6 +22,15 @@ slugs:
 ---
 
 **Málaga is a very comfortable destination for travelling with kids.** It has mild weather almost all year, an urban beach at the foot of the centre, castles for playing explorers and, a step away, some of the best family plans on the Costa del Sol. This guide gathers what really works with little ones, without overloading the day with museums.
+
+## Kid-friendly plans you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |
+| [Nerja Caves and Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4.6★ (3,192) | €69 |
+| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €18 |
+| [Caminito del Rey (ages 8+)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
 
 The key is to alternate: a morning of castle or old town in short doses and an afternoon of beach or animals. With that, Málaga delivers without stress.
 

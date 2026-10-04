@@ -4,7 +4,7 @@ descripcion: "How to visit the Caminito del Rey from Málaga: how to get tickets
 categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
 fecha: "2026-03-10"
-fecha_actualizacion: "2026-03-10"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -33,6 +33,13 @@ faq:
 ---
 
 **The Caminito del Rey is the best-selling nature excursion in Andalusia**, and for good reason: a walkway pinned to the vertical walls of the Gaitanes gorge, more than 100 metres above the river, in a spectacular landscape. But it's also the visit most people miss for an avoidable reason: **not booking the ticket in time**. This guide explains how to organise everything so you don't miss out.
+
+## Caminito with transport from Málaga
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided tour with transport and ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
+| [Guided day trip with transport](/en/cities/malaga/activities/caminito-del-rey-day-trip-from-malaga) | 4.8★ (726) | €66 |
 
 The golden rule: **no ticket, no entry**, and it sells out weeks or months ahead. If your Málaga trip revolves around the Caminito, book it before even your accommodation.
 

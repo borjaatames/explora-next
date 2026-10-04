@@ -4,7 +4,7 @@ descripcion: "The best day trips from Málaga: Ronda, Nerja and Frigiliana, Ante
 categoria: "malaga"
 slug: "day-trips-from-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-04-13"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -22,6 +22,16 @@ slugs:
 ---
 
 **Málaga is the best base on the Costa del Sol for day trips.** Within an hour and a half you have white villages clinging to ravines, caves and beaches, lunar landscapes and even the Rock of Gibraltar. This guide sorts the best day outings by how much time you have and how to get there, with or without a car.
+
+## Day trips with transport from Málaga
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Caminito del Rey guided tour](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
+| [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 4.7★ (8,742) | €35 |
+| [Nerja Caves, Nerja and Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4.6★ (3,192) | €69 |
+| [Gibraltar](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga) | 4.6★ (5,510) | €35 |
+| [Córdoba with Mosque ticket](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | 4.5★ (753) | €35 |
 
 Besides the **Caminito del Rey** (which deserves its own guide: [how to visit it](/en/guides/malaga/caminito-del-rey-how-to-visit)), these are the trips that really pay off.
 

@@ -4,7 +4,7 @@ descripcion: "What to see in Málaga in two days: Alcazaba, Cathedral, Picasso M
 categoria: "malaga"
 slug: "malaga-in-two-days"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-02-28"
+fecha_actualizacion: '2026-10-04'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -22,6 +22,17 @@ slugs:
 ---
 
 **Two days in Málaga go a long way.** The old town is compact, flat and walkable, so a well-planned 48 hours cover the monuments, the museums, the beach and, if you organise it, the Caminito del Rey. This guide separates the essentials from the skippable and assumes you want to understand the city, not just sunbathe. In fifteen years Málaga has gone from being the transit gate to the Costa del Sol to a cultural capital with more than thirty museums, and it shows.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €18 |
+| [Picasso Museum ticket with audio guide](/en/cities/malaga/activities/picasso-museum-malaga-ticket) | 4.5★ (13,842) | €13 |
+| [Cathedral, Alcazaba and Theatre with tickets](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4.6★ (1,134) | €42 |
+| [Sunset catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |
+| [Hammam Al Ándalus Arab baths](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4.7★ (2,863) | €60 |
+| [Caminito del Rey guided tour from Málaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
 
 The trap in Málaga is treating it only as an airport and a beach. Whoever leaves having seen only La Malagueta has missed the other half: the Alcazaba hanging above the Roman Theatre, the Picasso, the Cathedral and a pedestrian old town that has become one of the most pleasant in the south. Two days are just enough for both faces.
 
