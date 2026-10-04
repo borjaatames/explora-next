@@ -94,6 +94,10 @@ galeria:
   alt: Clear-water cove on the Costa Brava
 ratingProveedor: 4.8
 numeroOpiniones: 2096
+atraccionesRelacionadas:
+- costa-brava
+- casco-medieval
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

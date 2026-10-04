@@ -94,6 +94,10 @@ galeria:
   alt: Cala de la Costa Brava de aguas transparentes
 ratingProveedor: 4.8
 numeroOpiniones: 2096
+atraccionesRelacionadas:
+- costa-brava
+- casco-medieval
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

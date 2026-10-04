@@ -98,6 +98,9 @@ galeria:
   alt: Tossa de Mar seen from above with its rooftops and the sea
 ratingProveedor: 4.8
 numeroOpiniones: 1971
+atraccionesRelacionadas:
+- costa-brava
+- casco-medieval
 publicada: true
 destacada: false
 fecha: '2026-10-04'

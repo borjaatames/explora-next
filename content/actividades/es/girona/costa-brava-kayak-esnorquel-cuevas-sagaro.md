@@ -99,6 +99,8 @@ galeria:
   alt: Bahía y puerto de Sant Feliu de Guíxols
 ratingProveedor: 4.7
 numeroOpiniones: 1393
+atraccionesRelacionadas:
+- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

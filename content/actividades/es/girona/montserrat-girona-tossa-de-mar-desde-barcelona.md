@@ -98,6 +98,9 @@ galeria:
   alt: Tossa de Mar vista desde lo alto con sus tejados y el mar
 ratingProveedor: 4.8
 numeroOpiniones: 1971
+atraccionesRelacionadas:
+- costa-brava
+- casco-medieval
 publicada: true
 destacada: false
 fecha: '2026-10-04'

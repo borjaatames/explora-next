@@ -89,6 +89,8 @@ galeria:
   alt: Dalí Theatre-Museum in Figueres
 ratingProveedor: 4.7
 numeroOpiniones: 105
+atraccionesRelacionadas:
+- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

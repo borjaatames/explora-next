@@ -81,6 +81,10 @@ galeria:
   alt: Escaleras y arcos en una calle del Call de Girona
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Campanarios del Barri Vell de Girona vistos desde la muralla
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

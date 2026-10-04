@@ -96,6 +96,11 @@ galeria:
   alt: Rocky coastline near Cadaqués
 ratingProveedor: 4.7
 numeroOpiniones: 2352
+atraccionesRelacionadas:
+- dali-figueres
+- costa-brava
+- casco-medieval
+- catedral
 publicada: true
 destacada: false
 fecha: '2026-10-04'

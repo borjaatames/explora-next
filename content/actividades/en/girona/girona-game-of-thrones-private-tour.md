@@ -81,6 +81,10 @@ galeria:
   alt: Steps and arches in a street of Girona's Call
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Bell towers of Girona's Barri Vell seen from the city walls
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

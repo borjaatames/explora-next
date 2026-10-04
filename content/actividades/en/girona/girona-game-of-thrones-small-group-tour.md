@@ -88,6 +88,10 @@ galeria:
   alt: Stone street next to Girona's city wall walk
 ratingProveedor: 4.9
 numeroOpiniones: 951
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

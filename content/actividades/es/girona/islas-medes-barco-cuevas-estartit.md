@@ -93,6 +93,8 @@ galeria:
   alt: Las islas Medes en el horizonte vistas desde la costa
 ratingProveedor: 4.6
 numeroOpiniones: 634
+atraccionesRelacionadas:
+- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

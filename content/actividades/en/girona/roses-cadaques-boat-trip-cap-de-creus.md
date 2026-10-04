@@ -95,6 +95,9 @@ galeria:
   alt: View of Cadaqués and its bay from above
 ratingProveedor: 4.5
 numeroOpiniones: 414
+atraccionesRelacionadas:
+- costa-brava
+- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

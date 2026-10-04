@@ -93,6 +93,8 @@ galeria:
   alt: The Medes Islands on the horizon seen from the coast
 ratingProveedor: 4.6
 numeroOpiniones: 634
+atraccionesRelacionadas:
+- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

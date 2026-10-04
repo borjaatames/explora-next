@@ -4,7 +4,7 @@ descripcion: "Guía de Mallorca con niños: mejores playas familiares, Palma Aqu
 categoria: "mallorca"
 slug: "mallorca-con-ninos"
 fecha: "2026-04-09"
-fecha_actualizacion: "2026-04-09"
+fecha_actualizacion: "2026-10-04"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -58,9 +58,13 @@ Con niños, el norte (Alcúdia) gana al suroeste de fiesta, y las calas tranquil
 
 **Cuevas del Drach.** En Porto Cristo, con uno de los mayores lagos subterráneos de Europa y un concierto de música clásica en barca. Mágico para los peques (reserva).
 
-**Parques acuáticos.** En verano, Aqualand (El Arenal), Western Water Park (Magaluf) e Hidropark (Alcúdia).
+**Parques acuáticos.** En verano hay tres. El mejor valorado es **Western Water Park** (Magaluf), con zona infantil y toboganes para todas las edades; está a las afueras, lejos del ambiente de fiesta. Aqualand (El Arenal) e Hidropark (Alcúdia) tienen opiniones bastante peores: Hidropark solo compensa si te alojas en el norte y no quieres conducir.
 
 **Castell de Bellver.** El castillo circular de Palma, ideal para jugar a caballeros con vistas a la bahía.
+
+**Forestal Park.** Circuitos de aventura entre los árboles cerca de Palma, con recorridos infantiles, puentes colgantes y la tirolina más larga de la isla. Perfecto para niños de unos 6 años en adelante que necesitan quemar energía.
+
+**Barco con fondo de cristal.** Desde Paguera salen paseos de unas 2 horas para buscar delfines en libertad, mirando el fondo marino a través del casco. Un plan tranquilo de mañana que funciona a cualquier edad.
 
 ## Ruta de una semana en familia (base norte)
 
@@ -71,7 +75,7 @@ Con niños, el norte (Alcúdia) gana al suroeste de fiesta, y las calas tranquil
 | 3 | Cuevas del Drach + Porto Cristo |
 | 4 | Palma: Catedral, Bellver y Palma Aquarium |
 | 5 | Parque acuático o Marineland |
-| 6 | Cala Mondragó o Cala Agulla |
+| 6 | Cala Mondragó o Cala Agulla (o barco con fondo de cristal desde Paguera si os alojáis en el suroeste) |
 
 ## Dónde comer con niños
 

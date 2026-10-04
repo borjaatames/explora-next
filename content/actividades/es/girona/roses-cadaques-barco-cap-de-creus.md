@@ -95,6 +95,9 @@ galeria:
   alt: Vista de Cadaqués y su bahía desde lo alto
 ratingProveedor: 4.5
 numeroOpiniones: 414
+atraccionesRelacionadas:
+- costa-brava
+- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

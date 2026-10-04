@@ -4,7 +4,7 @@ descripcion: "Ratgeber Mallorca mit Kindern: beste Familienstrände, Palma Aquar
 categoria: "mallorca"
 slug: "mallorca-mit-kindern"
 fecha: "2026-04-09"
-fecha_actualizacion: "2026-04-09"
+fecha_actualizacion: "2026-10-04"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -47,9 +47,13 @@ Mit Kindern schlägt der Norden (Alcúdia) den feierfreudigen Südwesten, und ru
 
 **Drachenhöhlen.** In Porto Cristo, mit einem der größten unterirdischen Seen Europas und einem Konzert klassischer Musik im Boot. Magisch für die Kleinen (reservieren).
 
-**Wasserparks.** Im Sommer Aqualand (El Arenal), Western Water Park (Magaluf) und Hidropark (Alcúdia).
+**Wasserparks.** Im Sommer gibt es drei. Am besten bewertet ist der **Western Water Park** (Magaluf), mit Kinderbereich und Rutschen für jedes Alter; er liegt am Ortsrand, weit weg vom Partytrubel. Aqualand (El Arenal) und Hidropark (Alcúdia) haben deutlich schlechtere Bewertungen: Hidropark lohnt sich nur, wenn ihr im Norden wohnt und nicht fahren wollt.
 
 **Castell de Bellver.** Die runde Burg von Palma, ideal, um Ritter zu spielen, mit Blick auf die Bucht.
+
+**Forestal Park.** Kletterparcours in den Bäumen nahe Palma, mit Kinderrouten, Hängebrücken und der längsten Seilrutsche der Insel. Ideal für Kinder ab etwa 6 Jahren, die sich austoben wollen.
+
+**Glasbodenboot.** Ab Paguera starten etwa zweistündige Fahrten zur Suche nach wilden Delfinen, mit Blick auf den Meeresgrund durch den Rumpf. Ein ruhiger Vormittag für jedes Alter.
 
 ## Eine Woche mit der Familie (Basis Norden)
 
@@ -60,7 +64,7 @@ Mit Kindern schlägt der Norden (Alcúdia) den feierfreudigen Südwesten, und ru
 | 3 | Drachenhöhlen + Porto Cristo |
 | 4 | Palma: Kathedrale, Bellver und Palma Aquarium |
 | 5 | Wasserpark oder Marineland |
-| 6 | Cala Mondragó oder Cala Agulla |
+| 6 | Cala Mondragó oder Cala Agulla (oder Glasbodenboot ab Paguera, wenn ihr im Südwesten wohnt) |
 
 ## Wo man mit Kindern isst
 

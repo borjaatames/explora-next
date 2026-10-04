@@ -4,7 +4,7 @@ descripcion: "Mallorca with kids: the best family beaches, Palma Aquarium, the S
 categoria: "mallorca"
 slug: "mallorca-with-kids"
 fecha: "2026-04-09"
-fecha_actualizacion: "2026-04-09"
+fecha_actualizacion: "2026-10-04"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -58,9 +58,13 @@ With kids, the north (Alcúdia) beats the party south-west, and calm coves beat 
 
 **Drach Caves.** In Porto Cristo, with one of the largest underground lakes in Europe and a classical music concert from boats. Magical for little ones (book ahead).
 
-**Water parks.** In summer, Aqualand (El Arenal), Western Water Park (Magaluf) and Hidropark (Alcúdia).
+**Water parks.** There are three in summer. The best rated is **Western Water Park** (Magaluf), with a kids' area and slides for all ages; it is on the outskirts, away from the party scene. Aqualand (El Arenal) and Hidropark (Alcúdia) have noticeably worse reviews: Hidropark only makes sense if you are staying in the north and do not want to drive.
 
 **Castell de Bellver.** Palma's circular castle, ideal for playing knights with views over the bay.
+
+**Forestal Park.** Treetop adventure courses near Palma, with children's routes, rope bridges and the longest zip line on the island. Perfect for kids aged around 6 and up who need to burn off energy.
+
+**Glass-bottom boat.** From Paguera, trips of about 2 hours go looking for wild dolphins while you watch the seabed through the hull. A relaxed morning plan that works at any age.
 
 ## A week with family (north base)
 
@@ -71,7 +75,7 @@ With kids, the north (Alcúdia) beats the party south-west, and calm coves beat 
 | 3 | Drach Caves + Porto Cristo |
 | 4 | Palma: Cathedral, Bellver and Palma Aquarium |
 | 5 | Water park or Marineland |
-| 6 | Cala Mondragó or Cala Agulla |
+| 6 | Cala Mondragó or Cala Agulla (or a glass-bottom boat from Paguera if you are staying in the southwest) |
 
 ## Where to eat with kids
 

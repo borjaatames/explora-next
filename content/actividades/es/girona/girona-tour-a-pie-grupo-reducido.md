@@ -88,6 +88,10 @@ galeria:
   alt: Monasterio de Sant Pere de Galligants en Girona
 ratingProveedor: 4.8
 numeroOpiniones: 826
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

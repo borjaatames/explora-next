@@ -88,6 +88,10 @@ galeria:
   alt: Calle de piedra junto al paseo de la muralla de Girona
 ratingProveedor: 4.9
 numeroOpiniones: 951
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'
