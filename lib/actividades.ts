@@ -330,14 +330,16 @@ export function obtenerActividadesDestacadasPorCiudad(
  * Para cambiar la portada, edita SLUGS_ACTIVIDADES_HOME.
  */
 const SLUGS_ACTIVIDADES_HOME: ReadonlyArray<{ ciudad: string; slug: string }> = [
+  // Una actividad por atracción (sin repetir monumento) y todas publicadas:
+  // si una se despublica, la portada muestra un hueco. Revisar al despublicar.
   { ciudad: "barcelona", slug: "entrada-sagrada-familia-audioguia" },
   { ciudad: "granada", slug: "visita-guiada-alhambra-generalife" },
-  { ciudad: "madrid", slug: "excursion-toledo-dia-completo" },
+  { ciudad: "madrid", slug: "museo-prado-entrada" },
+  { ciudad: "barcelona", slug: "park-guell-entrada-zona-monumental" },
   { ciudad: "madrid", slug: "bernabeu-ticket-acceso" },
-  { ciudad: "granada", slug: "alhambra-palacios-nazaries-sin-colas" },
-  { ciudad: "madrid", slug: "excursion-avila-segovia-con-entradas" },
-  { ciudad: "barcelona", slug: "barcelona-un-dia-sagrada-familia-park-guell" },
-  { ciudad: "madrid", slug: "excursion-toledo-medio-dia" },
+  { ciudad: "sevilla", slug: "sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar" },
+  { ciudad: "madrid", slug: "excursion-toledo-segovia-alcazar" },
+  { ciudad: "sevilla", slug: "teatro-flamenco-sevilla-show-mas-vendido" },
 ];
 
 export function obtenerActividadesHome(idioma: Idioma): ActividadListItem[] {
