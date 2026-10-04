@@ -11,9 +11,13 @@ import { slugParejaGuia } from "@/lib/i18n/slugs";
 import {
   formatearFecha,
   hreflangAlternates,
+  urlActividadesDeCiudad,
   urlGuia,
 } from "@/lib/i18n/utils";
 import FaqActividad from "@/components/FaqActividad";
+import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
+import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
+import { obtenerListaCiudades } from "@/lib/ciudades";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -99,6 +103,16 @@ export default async function GuiaPage({ params }: Props) {
     guia.slug,
     3
   );
+
+  const actividadesRecomendadas = obtenerActividadesParaGuia(
+    "es",
+    guia.categoria,
+    { slug: guia.slug, titulo: guia.titulo, keywords: guia.keywords },
+    6
+  );
+  const nombreCiudad =
+    obtenerListaCiudades("es").find((c) => c.slug === guia.categoria)?.nombre ??
+    guia.categoria.charAt(0).toUpperCase() + guia.categoria.slice(1);
 
   // Imagen absoluta para JSON-LD (Google la requiere completa).
   const imagenRelativa =
@@ -261,6 +275,13 @@ export default async function GuiaPage({ params }: Props) {
           </div>
         )}
       </article>
+
+      <ActividadesRecomendadasGuia
+        actividades={actividadesRecomendadas}
+        idioma={"es"}
+        nombreCiudad={nombreCiudad}
+        urlTodas={urlActividadesDeCiudad("es", guia.categoria)}
+      />
 
       {relacionadas.length > 0 && (
         <section className="bg-slate-50 border-t border-slate-200">

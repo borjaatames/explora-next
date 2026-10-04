@@ -346,7 +346,7 @@ const PALABRAS_VACIAS = new Set<string>([
   "group", "grupo", "reducido", "private", "privado", "skip", "line",
 ]);
 
-function tokensDe(texto: string): Set<string> {
+export function tokensDe(texto: string): Set<string> {
   return new Set(
     texto
       .toLowerCase()
