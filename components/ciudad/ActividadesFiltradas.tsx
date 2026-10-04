@@ -156,7 +156,8 @@ export default function ActividadesFiltradas({
    * Civitatis o Booking — al sumar filtros se restringe progresivamente.
    */
   const filtradas = useMemo(() => {
-    // Orden por proveedor: primero Bokun (reserva directa, mayor comisión),
+    // Orden: primero las destacadas; después por proveedor (Bokun primero:
+    // reserva directa, mayor comisión),
     // y al final GetYourGuide. Dentro de cada proveedor, de menor a mayor
     // precio (precioDesde ascendente) como criterio secundario.
     const rangoProveedor = (p: string) =>
@@ -172,6 +173,8 @@ export default function ActividadesFiltradas({
         return pasaAtraccion && pasaCategoria;
       })
       .sort((a, b) => {
+        // Las destacadas (museos y monumentos principales) van siempre primero.
+        if (a.destacada !== b.destacada) return a.destacada ? -1 : 1;
         const porProveedor =
           rangoProveedor(a.proveedor) - rangoProveedor(b.proveedor);
         if (porProveedor !== 0) return porProveedor;
