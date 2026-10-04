@@ -110,8 +110,6 @@ galeria:
   alt: Park Güell small-group tour, photo 5 of 5
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: View of Park Guell's gatehouse pavilions with Barcelona and the sea in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
   alt: Detail of a column decorated with trencadis mosaic at Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp

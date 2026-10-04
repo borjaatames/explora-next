@@ -111,8 +111,6 @@ galeria:
   alt: Galería de columnas y arcos en los Palacios Nazaríes de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Otro angulo de un arco de mocarabes en los Palacios Nazaries de la Alhambra.
-- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp

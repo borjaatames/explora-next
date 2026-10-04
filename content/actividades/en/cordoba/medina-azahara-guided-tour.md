@@ -53,8 +53,6 @@ imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-pixabay-77719
 imagenAlt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
 
 galeria:
-  - src: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
-    alt: "Restored arches of the Rich Hall at Medina Azahara near Córdoba"
 ratingProveedor: 4.9
 numeroOpiniones: 244
 publicada: false

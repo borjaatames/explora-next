@@ -111,8 +111,6 @@ galeria:
   alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-30359817-hero.webp
   alt: Another angle of a muqarnas archway in the Nasrid Palaces of the Alhambra.
-- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-12494928-hero.webp

@@ -110,8 +110,6 @@ galeria:
   alt: Tour en grupo reducido por el Park Güell, foto 5 de 5
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: Vista de las casas del guarda de Park Guell con Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
   alt: Detalle de una columna decorada con mosaico de trencadis en Park Guell
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp

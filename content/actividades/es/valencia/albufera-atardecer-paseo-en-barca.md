@@ -44,8 +44,6 @@ keywords:
 imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
 imagenAlt: Atardecer sobre el lago de la Albufera de Valencia desde una barca
 galeria:
-- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
-  alt: Parque Natural de la Albufera, Valencia
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
   alt: Aguas turquesas y acantilados de la Cala Granadella, en la Costa Blanca
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp

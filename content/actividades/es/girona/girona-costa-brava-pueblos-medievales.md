@@ -53,8 +53,6 @@ galeria:
   alt: Excursión a Girona, Costa Brava y pueblos medievales, foto 5 de 5
 - src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
   alt: Costa Brava, Girona
-- src: /images/actividades/girona/ciudades/girona-hero.webp
-  alt: Casco medieval de Girona
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Call jueu (juderia) de Girona
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp

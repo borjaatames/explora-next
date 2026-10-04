@@ -144,8 +144,6 @@ galeria:
   alt: Barcelona cityscape with Gothic Quarter architecture and modern buildings at sunset
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
   alt: Aerial view of Barcelona's urban landscape with Mediterranean coastline and Sagrada Familia
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-8985800-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landmarks
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

@@ -44,8 +44,6 @@ keywords:
 imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
 imagenAlt: Sunset over Valencia's Albufera lake from a boat
 galeria:
-- src: /images/actividades/valencia/albufera/albufera-valencia-hero.webp
-  alt: Albufera Natural Park, Valencia
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
   alt: Turquoise waters and cliffs of Cala Granadella, on the Costa Blanca
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp

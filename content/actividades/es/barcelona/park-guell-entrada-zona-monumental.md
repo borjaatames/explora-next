@@ -97,8 +97,6 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-bu
 imagenAlt: "Zona monumental del Park Güell con mosaicos de Gaudí y vistas de Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp
-  alt: Park Güell de Gaudí — vista aérea (con vistas panorámicas de Barcelona)
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
   alt: Detalle de una columna decorada con mosaico de trencadis en Park Guell
 ratingProveedor: 4.4

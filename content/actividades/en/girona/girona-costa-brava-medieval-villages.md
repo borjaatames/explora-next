@@ -53,8 +53,6 @@ galeria:
   alt: Girona, Costa Brava and medieval villages day trip, photo 5 of 5
 - src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
   alt: Costa Brava coastline, Girona
-- src: /images/actividades/girona/ciudades/girona-hero.webp
-  alt: Medieval old town of Girona
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Jewish Quarter of Girona
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp

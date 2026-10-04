@@ -100,8 +100,6 @@ imagenAlt: "Real Madrid dressing room at the Santiago Bernabéu Stadium"
 galeria:
   - src: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
     alt: "Aerial view of the new Santiago Bernabéu Stadium in Madrid at sunset"
-  - src: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
-    alt: "Exterior view of Real Madrid's Santiago Bernabéu Stadium"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp"
     alt: "Façade of the new Santiago Bernabéu Stadium after the renovation"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"

@@ -148,8 +148,6 @@ galeria:
   alt: Skyline de Barcelona con la Sagrada Familia y edificios modernistas al atardecer
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
   alt: Vista aérea de Barcelona con la montaña de Montjuïc y la costa mediterránea
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-8985800-hero.webp
-  alt: Vistas de Barcelona con arquitectura modernista y la sagrada familia al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true
