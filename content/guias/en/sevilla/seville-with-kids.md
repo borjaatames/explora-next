@@ -41,12 +41,15 @@ tiempo_lectura: 3
 
 | Plan | Activity | From |
 | --- | --- | --- |
-| Boat trip on the river | [Guided Guadalquivir river cruise](/en/cities/sevilla/activities/seville-guadalquivir-river-boat-tour), 4.7★ (1,746) | €26 |
-| The shortest boat trip | [1-hour eco cruise](/en/cities/sevilla/activities/seville-1-hour-guadalquivir-eco-cruise), 4.2★ (11,157) | €17 |
+| Theme park (ages 4-11) | [Isla Mágica with optional Agua Mágica](/en/cities/sevilla/activities/isla-magica-seville-ticket), 4.4★ (1,386) | €27 |
+| Indoor plan in the heat | [Seville Aquarium](/en/cities/sevilla/activities/seville-aquarium-ticket), 4.6★ (2,295) | €17 |
+| See Seville without walking | [Private electric tuk tuk tour](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 4.8★ (1,429) | €40 |
+| River boat trip | [Guided Guadalquivir river cruise](/en/cities/sevilla/activities/seville-guadalquivir-river-boat-tour), 4.7★ (1,746) | €26 |
+| Teens (from age 8) | [Kayaking on the Guadalquivir](/en/cities/sevilla/activities/guadalquivir-kayak-rental-seville), 4.5★ (777) | €17 |
+| By bike (confident young riders) | [Seville bike tour](/en/cities/sevilla/activities/seville-bike-tour-group), 4.9★ (1,585) | €35 |
 | Sunset viewpoint | [Setas de Sevilla with 360° viewpoint](/en/cities/sevilla/activities/seville-setas-metropol-parasol-entry-ticket-viewpoint), 4.6★ (12,014) | €18 |
 | Alcázar without queues | [Royal Alcázar guided tour, skip the line](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €39 |
-| Climb the Giralda | [Cathedral and Giralda, skip the line](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4.6★ (3,500) | €15 |
-| Without tiring the kids | [24-hour sightseeing bus](/en/cities/sevilla/activities/seville-hop-on-hop-off-bus-tour-24h), 4.0★ (4,954) | €28 |
+| Impossible photos indoors | [Museum of Illusions](/en/cities/sevilla/activities/museum-of-illusions-seville-ticket), 4.2★ (1,352) | €15 |
 
 ## What works by age
 

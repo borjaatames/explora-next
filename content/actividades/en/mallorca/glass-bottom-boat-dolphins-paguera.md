@@ -84,6 +84,16 @@ galeria:
   alt: Paguera bay seen from above
 - src: /images/actividades/mallorca/marineland/delfin-mar.webp
   alt: Bottlenose dolphin swimming in open sea
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: Pod of dolphins leaping in open sea
+- src: /images/actividades/mallorca/barco-paguera/delfines-2.webp
+  alt: Dolphins swimming near the surface
+- src: /images/actividades/mallorca/barco-paguera/delfines-3.webp
+  alt: Dolphin seen from the side of a boat
+- src: /images/actividades/mallorca/barco-paguera/peguera-playa.webp
+  alt: Paguera beach in summer
+- src: /images/actividades/mallorca/barco-paguera/peguera-pueblo.webp
+  alt: Paguera with its hotels and hills behind
 ratingProveedor: 4.6
 numeroOpiniones: 3852
 atraccionesRelacionadas:

@@ -83,6 +83,8 @@ galeria:
   alt: Bottlenose dolphin jumping out of the water
 - src: /images/actividades/mallorca/marineland/delfin-mar.webp
   alt: Bottlenose dolphin swimming in open sea
+- src: /images/actividades/mallorca/marineland/marineland-entrada-parque.webp
+  alt: Entrance to Marineland Mallorca park
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

@@ -74,9 +74,19 @@ keywords:
 - mallorca water park
 - western park magaluf
 - mallorca water park kids
-imagen: /images/actividades/mallorca/parque-acuatico/toboganes-colores.webp
-imagenAlt: Colourful slides at a water park
+imagen: /images/actividades/mallorca/parque-acuatico/parque-acuatico-1.webp
+imagenAlt: Children's pool with colourful slides at a water park
 galeria:
+- src: /images/actividades/mallorca/parque-acuatico/toboganes-colores.webp
+  alt: Colourful slides at a water park
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-2.webp
+  alt: Spiral and funnel slides at a water park
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-3.webp
+  alt: Large pool with slides in the background
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-4.webp
+  alt: Kids' area with slides and play structures
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-5.webp
+  alt: Red spiral slide outdoors
 - src: /images/actividades/mallorca/parque-acuatico/tobogan-piscina.webp
   alt: Water slide dropping into a pool
 ratingProveedor: 4.3

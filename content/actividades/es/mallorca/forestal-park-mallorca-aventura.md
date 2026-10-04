@@ -79,13 +79,23 @@ keywords:
 - tirolina mallorca
 - que hacer en mallorca con niños
 - parque de aventura mallorca
-imagen: /images/actividades/mallorca/forestal-park/circuito-arboles.webp
-imagenAlt: Circuito de aventura con puentes de cuerda entre pinos
+imagen: /images/actividades/mallorca/forestal-park/parque-aventura-1.webp
+imagenAlt: Niña cruzando un circuito de cuerdas entre los árboles
 galeria:
+- src: /images/actividades/mallorca/forestal-park/circuito-arboles.webp
+  alt: Circuito de aventura con puentes de cuerda entre pinos
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-2.webp
+  alt: Plataformas y puentes de un parque de aventura en el bosque
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-3.webp
+  alt: Familia escalando una pared de madera en un parque de aventura
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-4.webp
+  alt: Niños con arnés en un circuito entre árboles
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-5.webp
+  alt: Circuito de cuerdas alto rodeado de vegetación
 - src: /images/actividades/mallorca/forestal-park/tirolina-bosque.webp
   alt: Persona bajando por una tirolina en el bosque
-- src: /images/actividades/mallorca/forestal-park/circuito-cuerdas.webp
-  alt: Plataformas y puentes de un parque de aventura en los árboles
+- src: /images/actividades/mallorca/forestal-park/escalada-arbol.webp
+  alt: Persona trepando a un árbol con arnés
 ratingProveedor: 4.8
 numeroOpiniones: 277
 publicada: true

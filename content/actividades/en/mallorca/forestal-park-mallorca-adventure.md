@@ -79,13 +79,23 @@ keywords:
 - zip line mallorca
 - things to do in mallorca with kids
 - adventure park mallorca
-imagen: /images/actividades/mallorca/forestal-park/circuito-arboles.webp
-imagenAlt: Adventure course with rope bridges between pine trees
+imagen: /images/actividades/mallorca/forestal-park/parque-aventura-1.webp
+imagenAlt: Girl crossing a rope course among the trees
 galeria:
+- src: /images/actividades/mallorca/forestal-park/circuito-arboles.webp
+  alt: Adventure course with rope bridges between pines
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-2.webp
+  alt: Platforms and bridges in a forest adventure park
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-3.webp
+  alt: Family climbing a wooden wall in an adventure park
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-4.webp
+  alt: Kids in harnesses on a tree course
+- src: /images/actividades/mallorca/forestal-park/parque-aventura-5.webp
+  alt: High ropes course surrounded by greenery
 - src: /images/actividades/mallorca/forestal-park/tirolina-bosque.webp
   alt: Person on a zip line in the forest
-- src: /images/actividades/mallorca/forestal-park/circuito-cuerdas.webp
-  alt: Platforms and bridges in a treetop adventure park
+- src: /images/actividades/mallorca/forestal-park/escalada-arbol.webp
+  alt: Person climbing a tree in a harness
 ratingProveedor: 4.8
 numeroOpiniones: 277
 publicada: true

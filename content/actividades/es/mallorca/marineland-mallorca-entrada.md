@@ -83,6 +83,8 @@ galeria:
   alt: Delfín mular saltando fuera del agua
 - src: /images/actividades/mallorca/marineland/delfin-mar.webp
   alt: Delfín mular nadando en mar abierto
+- src: /images/actividades/mallorca/marineland/marineland-entrada-parque.webp
+  alt: Entrada al parque Marineland Mallorca
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

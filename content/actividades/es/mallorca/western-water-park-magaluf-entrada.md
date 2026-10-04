@@ -74,9 +74,19 @@ keywords:
 - parque acuatico mallorca
 - western park magaluf
 - parque acuatico mallorca niños
-imagen: /images/actividades/mallorca/parque-acuatico/toboganes-colores.webp
-imagenAlt: Toboganes de colores en un parque acuático
+imagen: /images/actividades/mallorca/parque-acuatico/parque-acuatico-1.webp
+imagenAlt: Piscina infantil con toboganes de colores en un parque acuático
 galeria:
+- src: /images/actividades/mallorca/parque-acuatico/toboganes-colores.webp
+  alt: Toboganes de colores en un parque acuático
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-2.webp
+  alt: Toboganes en espiral y embudo en un parque acuático
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-3.webp
+  alt: Piscina grande con toboganes al fondo
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-4.webp
+  alt: Zona infantil con toboganes y estructuras de juego
+- src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-5.webp
+  alt: Tobogán rojo en espiral al aire libre
 - src: /images/actividades/mallorca/parque-acuatico/tobogan-piscina.webp
   alt: Tobogán acuático cayendo a una piscina
 ratingProveedor: 4.3

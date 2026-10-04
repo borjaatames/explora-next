@@ -41,12 +41,15 @@ faq:
 
 | Plan | Actividad | Desde |
 | --- | --- | --- |
+| Parque temático (4-11 años) | [Isla Mágica con opción de Agua Mágica](/ciudades/sevilla/actividades/isla-magica-sevilla-entrada), 4,4★ (1.386) | 27 € |
+| Plan a cubierto con calor | [Acuario de Sevilla](/ciudades/sevilla/actividades/acuario-sevilla-entrada), 4,6★ (2.295) | 17 € |
+| Ver Sevilla sin andar | [Tour privado en tuk tuk eléctrico](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla), 4,8★ (1.429) | 40 € |
 | Paseo en barco por el río | [Crucero guiado por el Guadalquivir](/ciudades/sevilla/actividades/sevilla-guadalquivir-river-boat-tour), 4,7★ (1.746) | 26 € |
-| El más corto en barco | [Crucero eco de 1 hora](/ciudades/sevilla/actividades/sevilla-1-hora-guadalquivir-eco-crucero), 4,2★ (11.157) | 17 € |
+| Adolescentes (desde 8 años) | [Kayak por el Guadalquivir](/ciudades/sevilla/actividades/kayak-guadalquivir-sevilla-alquiler), 4,5★ (777) | 17 € |
+| En bici (niños que pedalean bien) | [Tour en bici por Sevilla (en inglés)](/ciudades/sevilla/actividades/tour-bici-sevilla-grupo), 4,9★ (1.585) | 35 € |
 | Mirador al atardecer | [Setas de Sevilla con mirador 360°](/ciudades/sevilla/actividades/setas-sevilla-metropol-parasol-entrada-mirador), 4,6★ (12.014) | 18 € |
 | Alcázar sin colas | [Real Alcázar con guía y acceso sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 39 € |
-| Subir a la Giralda | [Catedral y Giralda sin colas](/ciudades/sevilla/actividades/catedral-sevilla-giralda-entrada-skip-line), 4,6★ (3.500) | 15 € |
-| Sin cansar a los peques | [Bus turístico 24 h](/ciudades/sevilla/actividades/sevilla-bus-turistico-hop-on-hop-off-24h), 4,0★ (4.954) | 28 € |
+| Fotos imposibles a cubierto | [Museo de las Ilusiones](/ciudades/sevilla/actividades/museo-ilusiones-sevilla-entrada), 4,2★ (1.352) | 15 € |
 
 ## Qué funciona según la edad
 
