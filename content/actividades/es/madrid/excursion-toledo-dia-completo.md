@@ -1,163 +1,142 @@
 ---
-titulo: "Excursión a Toledo desde Madrid: día completo con Catedral"
-slug: "excursion-toledo-dia-completo"
-ciudad: "madrid"
-descripcion: "Excursión guiada de 8 horas desde Madrid a Toledo con entrada a la Catedral Primada, Sinagoga y Santo Tomé. Bus ida/vuelta y guía bilingüe."
-
+titulo: 'Toledo desde Madrid: día completo con guía y entrada a la Catedral'
+slug: excursion-toledo-dia-completo
+ciudad: madrid
+descripcion: Excursión de 8 horas desde Madrid a Toledo con guía, bus de ida y vuelta y entradas sin colas a la Catedral, Santo Tomé (El Greco) y la Sinagoga de Santa María la Blanca. 4,6/5 con casi 900 reseñas.
 slugs:
-  es: "excursion-toledo-dia-completo"
-  en: "toledo-full-day-from-madrid"
-
-duracion: "8 horas"
+  es: excursion-toledo-dia-completo
+  en: toledo-full-day-from-madrid
+duracion: 8 horas
 duracionMinutos: 480
-precioDesde: 79
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/es-ES/tours/Madrid/Toledo-Full-Day-with-Cathedral-from-Madrid/d566-110971P5?pid=P00298823&mcid=42383&medium=link"
+precioDesde: 63
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/toledo-l663/from-madrid-full-day-guided-tour-of-toledo-with-santo-tome-t410819/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Día completo en Toledo con entrada incluida a la Catedral Primada"
-  - "Visita a la Sinagoga del Tránsito y a la iglesia de Santo Tomé"
-  - "Bus ida y vuelta desde el centro de Madrid, sin gestiones"
-  - "Guía oficial bilingüe (español e inglés) durante el tour a pie"
-
+- Entradas sin colas a la Catedral Primada, Santo Tomé y la Sinagoga de Santa María la Blanca
+- El entierro del señor de Orgaz de El Greco
+- Vista panorámica desde el Mirador del Valle
+- Guía en español e inglés y bus de ida y vuelta
+- Cancelación gratuita hasta 24 h antes
 incluye:
-  - "Transporte en autobús ida y vuelta desde Madrid"
-  - "Guía oficial bilingüe en Toledo"
-  - "Entrada a la Catedral Primada de Toledo"
-  - "Panorámica de Toledo en autobús (miradores)"
-
+- Bus de ida y vuelta desde Madrid
+- Guía profesional
+- Entradas a la Catedral, la iglesia de Santo Tomé y la Sinagoga de Santa María la Blanca
+- Auriculares para escuchar al guía
+- Wifi a bordo
 noIncluye:
-  - "Comida y bebida"
-  - "Propinas"
-
+- Comida y bebida
+- Propinas
 puntoEncuentro:
-  texto: "C. de San Bernardo, 7, Centro, 28013 Madrid"
-  descripcionGuia: "Punto de encuentro en Fun & Tickets / San Bernardo, dentro de la galería comercial. Check-in entre 08:30 y 08:40. Salida puntual a las 09:00. Vuelta al mismo punto sobre las 16:00."
-  latitud: 40.4253
-  longitud: -3.7081
+  texto: Calle de San Bernardo, 7 (centro de Madrid), en la puerta de la galería comercial.
+  descripcionGuia: Te espera el personal de Fun and Tickets. Llega 15 minutos antes de la salida.
+  latitud: 40.4209
+  longitud: -3.7068
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Documento de identidad o pasaporte"
-    - "Calzado cómodo (Toledo tiene calles empinadas y empedradas)"
-    - "Agua y algo de picar para media mañana"
+  - Calzado cómodo
+  - Gorra o sombrero
+  - Cámara
   noAptoPara:
-    - "Personas con movilidad muy reducida (recorrido a pie por casco antiguo con cuestas)"
-    - "Carritos de bebé grandes"
+  - Personas en silla de ruedas
+  - Personas con movilidad reducida (cuestas y calles empedradas)
   aTenerEnCuenta:
-    - "El tour es bilingüe: el guía explica en español e inglés alternativamente al mismo grupo"
-    - "La comida no está incluida; en Toledo hay tiempo libre para comer por tu cuenta"
-    - "Confirma siempre el punto de salida en C. de San Bernardo, 7 (no confundir con otros operadores cercanos)"
-
-accesibilidad: "Tour no recomendado para sillas de ruedas: incluye recorrido a pie por el casco antiguo de Toledo con cuestas, escalones y pavimento empedrado."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo."
-
+  - 'La comida no está incluida: hay 75 minutos de tiempo libre para comer'
+  - El guía explica en español e inglés al mismo grupo
+accesibilidad: No es accesible en silla de ruedas. Toledo tiene cuestas pronunciadas, calles empedradas y escalones.
+politicaCancelacion: Cancela gratis hasta 24 horas antes del inicio y recibirás el reembolso completo. Con menos de 24 horas, o si no te presentas, no hay reembolso.
 preguntasFrecuentes:
-  - pregunta: "¿Cuánto tiempo se está realmente en Toledo?"
-    respuesta: "Unas 5 horas efectivas en Toledo. La salida es a las 09:00 desde Madrid y el regreso a las 16:00; entre desplazamiento y panorámica en bus se van unas 3 horas, el resto es ciudad."
-  - pregunta: "¿El guía habla español?"
-    respuesta: "Sí. El tour a pie en Toledo es bilingüe español-inglés: el guía oficial explica en los dos idiomas alternativamente al mismo grupo."
-  - pregunta: "¿Está incluida la comida?"
-    respuesta: "No. La excursión incluye transporte, guía y entradas, pero no comida ni bebida. Hay tiempo libre durante la visita para comer por tu cuenta en Toledo."
-  - pregunta: "¿Qué entradas a monumentos están incluidas?"
-    respuesta: "La entrada a la Catedral Primada está incluida. La Sinagoga del Tránsito y la iglesia de Santo Tomé se visitan como parte del tour guiado."
-  - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
-    respuesta: "Sí. Cancelación gratuita hasta 24 horas antes de la salida con reembolso completo. Después de ese plazo no hay reembolso."
-
-variantes: ["excursion-toledo-medio-dia", "excursion-toledo-tour-privado", "excursion-toledo-segovia-avila"]
-
-opinionEditorial: |
-  Es la opción acertada si quieres conocer Toledo a fondo en un solo día sin alquilar coche ni hacer logística. Las 8 horas dan margen para la Catedral con calma, la judería, Santo Tomé y un rato libre para comer y pasear. El precio (79 €) es competitivo para un día completo con entrada a la Catedral incluida y operador con más de 7.000 opiniones a 4,8 estrellas.
-
-  Lo que el marketing no te cuenta: el tour es "bilingüe", no en grupo separado en español. El guía alterna idiomas al mismo grupo, así que el tiempo neto de explicación en cada idioma es la mitad. Si te molestan las pausas de traducción, te interesa más un tour en grupo solo en español o un privado. Y la comida no está incluida: cuenta unos 15-25 € extra para comer en Toledo.
-
-categoria: "excursionesDia"
-keywords: ["excursion toledo desde madrid", "toledo dia completo", "tour toledo catedral", "visitar toledo desde madrid", "excursion guiada toledo"]
-
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-# ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero.webp"
-imagenAlt: "Alcazar toledo spain may 2017 en Alcazar toledo"
-
+- pregunta: ¿Están incluidas las entradas a los monumentos?
+  respuesta: 'Sí: Catedral Primada, iglesia de Santo Tomé y Sinagoga de Santa María la Blanca, sin hacer cola.'
+- pregunta: ¿Incluye la comida?
+  respuesta: No. Hay unos 75 minutos de tiempo libre en Toledo para comer por tu cuenta.
+- pregunta: ¿En qué idioma es?
+  respuesta: El guía explica en español e inglés al mismo grupo.
+- pregunta: ¿A qué hora se vuelve a Madrid?
+  respuesta: La excursión dura unas 8 horas en total, con aproximadamente 1 hora de trayecto en cada sentido.
+variantes:
+- excursion-toledo-ave-tren
+- excursion-toledo-segovia-alcazar
+- excursion-toledo-molinos-quijote
+opinionEditorial: 'Es la forma más completa de ver Toledo en un día desde Madrid sin preocuparte de nada: el bus, el guía y las tres entradas clave van incluidos. La Catedral sola ya justifica el viaje, y Santo Tomé con El Greco es imprescindible. Si buscas algo más rápido y en grupo pequeño, mira la opción en AVE.'
+categoria: excursionesDia
+keywords:
+- excursion toledo desde madrid
+- toledo dia completo
+- tour toledo catedral
+- visitar toledo desde madrid
+- excursion guiada toledo
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero.webp
+imagenAlt: Alcazar toledo spain may 2017 en Alcazar toledo
 galeria:
-  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp"
-    alt: "FP Toledo Cathedral 2025 04"
-  - src: "/images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp"
-    alt: "Interior view of a gothic cathedral in Toledo, Spain, showcasing its grandeur and intricate details."
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-ext-01-hero.webp"
-    alt: "Toledo - Monasterio de San Juan de los Reyes ext 01"
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp"
-    alt: "Monasterio de San Juan de los Reyes, Toledo 07"
-  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"
-    alt: "Cristo de la Luz 2025 Façade"
-  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-altar-hero.webp"
-    alt: "Cristo de la Luz 2025 Altar"
-  - src: "/images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157710301-hero.webp"
-    alt: "Sinagoga Santa María la Blanca, Toledo"
-  - src: "/images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-sala-oracion-hero.webp"
-    alt: "Sinagoga transito toledo sala oracion en Sinagoga transito"
-  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-august-2012-hero.webp"
-    alt: "Puente de Alcántara, Toledo, August 2012"
-  - src: "/images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-hero.webp"
-    alt: "Puerta Nueva de Bisagra (Toledo). Fachada"
-  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp"
-    alt: "Vista panoramica toledo stunning panoramic view spain en Vista panoramica toledo"
-ratingProveedor: 4.8
-numeroOpiniones: 7252
-
-publicada: false
+- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp
+  alt: FP Toledo Cathedral 2025 04
+- src: /images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp
+  alt: Interior view of a gothic cathedral in Toledo, Spain, showcasing its grandeur and intricate details.
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-ext-01-hero.webp
+  alt: Toledo - Monasterio de San Juan de los Reyes ext 01
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp
+  alt: Monasterio de San Juan de los Reyes, Toledo 07
+- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp
+  alt: Cristo de la Luz 2025 Façade
+- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-altar-hero.webp
+  alt: Cristo de la Luz 2025 Altar
+- src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157710301-hero.webp
+  alt: Sinagoga Santa María la Blanca, Toledo
+- src: /images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-sala-oracion-hero.webp
+  alt: Sinagoga transito toledo sala oracion en Sinagoga transito
+- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-august-2012-hero.webp
+  alt: Puente de Alcántara, Toledo, August 2012
+- src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-hero.webp
+  alt: Puerta Nueva de Bisagra (Toledo). Fachada
+- src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp
+  alt: Vista panoramica toledo stunning panoramic view spain en Vista panoramica toledo
+ratingProveedor: 4.6
+numeroOpiniones: 869
+publicada: true
 destacada: true
-fecha: "2026-05-06"
+fecha: '2026-05-06'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
+fecha_actualizacion: '2026-10-04'
 ---
 
 ## Qué vas a ver
 
-Toledo concentra en menos de un kilómetro cuadrado tres culturas (cristiana, musulmana y judía), una catedral gótica que pelea por estar entre las más importantes de España y un casco antiguo declarado Patrimonio de la Humanidad por la UNESCO. La excursión te lleva en autobús desde el centro de Madrid (1 hora aproximadamente) y dedica el grueso del día a recorrer Toledo a pie con guía oficial.
+Toledo, la ciudad de las tres culturas, en una jornada completa con guía y las entradas principales incluidas:
 
-- **Catedral Primada (entrada incluida):** núcleo del tour. Gótico del siglo XIII, capilla mayor monumental, sacristía con obras de El Greco, Goya y Tiziano.
-- **Sinagoga del Tránsito:** una de las dos sinagogas medievales que quedan en Toledo, de estilo mudéjar y con el Museo Sefardí en su interior.
-- **Iglesia de Santo Tomé:** alberga *El entierro del señor de Orgaz* de El Greco, una de las obras maestras del manierismo español.
-- **Panorámica en bus:** antes de bajar al centro, parada en uno de los miradores exteriores con la vista clásica de Toledo desde el otro lado del Tajo.
+- **Mirador del Valle:** la vista clásica de Toledo desde el otro lado del Tajo, nada más llegar.
+- **Iglesia de Santo Tomé:** *El entierro del señor de Orgaz*, la obra más famosa de El Greco.
+- **Sinagoga de Santa María la Blanca:** una de las dos sinagogas medievales que conserva la ciudad.
+- **Catedral Primada:** unos 45 minutos dentro de una de las grandes catedrales góticas de España.
 
 ## Cómo funciona
 
-Te recibe el equipo de Fun & Tickets en **C. de San Bernardo, 7** (centro de Madrid, dentro de una galería comercial) entre las **08:30 y las 08:40**. Salida puntual del autobús a las 09:00. El trayecto a Toledo es de aproximadamente 1 hora; antes de entrar al casco antiguo el bus para en un mirador exterior para la foto panorámica clásica.
+El punto de encuentro está en la **Calle de San Bernardo, 7**, en el centro de Madrid. El trayecto a Toledo dura alrededor de una hora y el bus para primero en el Mirador del Valle.
 
-Una vez en Toledo, comienza la **visita guiada a pie bilingüe** (español e inglés). El guía oficial explica los puntos clave alternando los dos idiomas al mismo grupo. La ruta cubre la Catedral Primada (con entrada incluida), la Sinagoga del Tránsito y la iglesia de Santo Tomé. Hay tiempo libre durante la jornada para comer por tu cuenta y pasear sin grupo.
-
-**Vuelta al punto de origen** sobre las 16:00. La duración total declarada es de 8 horas: descontando ida, vuelta y panorámica, quedan unas 5 horas efectivas en Toledo.
+Ya en Toledo, el guía os lleva a pie por Santo Tomé, la Sinagoga y la Catedral, entrando sin hacer cola. Después tienes **unos 75 minutos libres** para comer y pasear antes de volver a Madrid. En total son unas 8 horas.
 
 ## A quién se lo recomiendo
 
-- Si es tu primer viaje a Madrid y quieres añadir Toledo sin dedicar más de un día.
-- Si prefieres no alquilar coche ni gestionar trenes/autobuses por tu cuenta.
-- Si te interesan la Catedral Primada y El Greco como prioridad cultural del día.
-- Si vas con presupuesto ajustado: 79 € incluye transporte, guía y la entrada principal.
+- Si quieres ver **lo esencial de Toledo en un día** sin alquilar coche ni organizar nada.
+- Si te interesa entrar en la **Catedral** y ver **El Greco**: las entradas van incluidas.
+- Si buscas una excursión con buena relación calidad-precio.
 
 ## A quién NO se lo recomiendo
 
-- Si esperabas un grupo solo en español. Aquí el guía alterna idiomas; valora la versión privada o un tour solo en español si te incomoda. Mira [Toledo medio día](/ciudades/madrid/actividades/excursion-toledo-medio-dia) si vas justo de tiempo y prefieres formato más corto.
-- Si tienes movilidad reducida. Toledo tiene cuestas pronunciadas, calles empedradas y escalones; este formato no es accesible.
-- Si quieres profundizar en Toledo (museos, sinagogas con calma, cigarrales). Un día completo da para titulares; con dos días disfrutas la ciudad.
-- Si viajas con niños pequeños y carritos grandes. Las calles del casco antiguo no perdonan los carritos voluminosos.
+- Si tienes **movilidad reducida**: Toledo es todo cuestas y empedrado.
+- Si prefieres un **grupo pequeño**: mira Toledo en AVE (máximo 8 personas).
+- Si quieres guía solo en español: aquí se explica en español e inglés.

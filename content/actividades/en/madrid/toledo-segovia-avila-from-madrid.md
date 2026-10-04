@@ -1,170 +1,146 @@
 ---
-titulo: "Toledo, Segovia and Ávila from Madrid in One Day"
-slug: "toledo-segovia-avila-from-madrid"
-ciudad: "madrid"
-descripcion: "Full-day guided trip from Madrid to three UNESCO World Heritage cities: Segovia, Ávila and Toledo. Bus, bilingual guide and entrance fees included."
-
+titulo: Segovia, Ávila and Toledo from Madrid in One Day, with Lunch
+slug: toledo-segovia-avila-from-madrid
+ciudad: madrid
+descripcion: '12-hour day trip from Madrid to three UNESCO World Heritage cities with an official guide in English and Spanish: Segovia''s aqueduct, Ávila''s walls and Toledo, with a traditional lunch. Rated 4.7/5 by over 1,300 travellers.'
 slugs:
-  en: "toledo-segovia-avila-from-madrid"
-  es: "excursion-toledo-segovia-avila"
-
-duracion: "12 hours"
+  en: toledo-segovia-avila-from-madrid
+  es: excursion-toledo-segovia-avila
+duracion: 12 hours
 duracionMinutos: 720
-precioDesde: 89.99
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "viator"
-urlReserva: "https://www.viator.com/tours/Madrid/Three-Cities-in-One-Day-Segovia-Avila-and-Toledo-from-Madrid/d566-6874P88?pid=P00298823&mcid=42383&medium=link&medium_version=selector&primaryLanguage=en"
+precioDesde: 78
+moneda: EUR
+idiomas:
+- en
+- es
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/madrid-l46/from-madrid-3-cities-in-1-day-segovia-avila-and-toledo-t200788/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Three UNESCO World Heritage cities in a single day from Madrid"
-  - "Professional bilingual guide (English and Spanish)"
-  - "Entrance fees to the guided visits included in each city"
-  - "Modern air-conditioned coach between the three stops"
-
+- Three UNESCO World Heritage cities in one day
+- Segovia's aqueduct and Ávila's walls
+- Traditional lunch in a restaurant
+- Official guide in English and Spanish
+- Free cancellation up to 24 h before
 incluye:
-  - "Modern air-conditioned coach"
-  - "Professional bilingual guide (English and Spanish)"
-  - "Guided tours in Segovia, Ávila and Toledo"
-  - "Entrance fees to the guided visits"
-
+- Air-conditioned minibus
+- Guided visits in all three cities
+- Official guide
+- Traditional lunch in a restaurant
+- Toledo Cathedral entry (with the upgraded option)
 noIncluye:
-  - "Hotel pickup and drop-off"
-  - "Food and drinks (unless the lunch option is selected at booking)"
-  - "Gratuities (optional)"
-
+- Hotel pickup
+- Other food and drinks
+- Gratuities
 puntoEncuentro:
-  texto: "Pl. de San Miguel, 7, 28005 Madrid"
-  descripcionGuia: "Meeting point in front of Mercado de San Miguel. The guide is on site 15 minutes before departure. Arrive with margin: the coach leaves at 8:00 sharp and the day is long."
-  latitud: 40.4151
-  longitud: -3.7090
+  texto: Plaza de San Miguel, 7, next to the San Miguel Market (Madrid).
+  descripcionGuia: Your World Experience guide waits at the meeting point. Arrive 15 minutes early.
+  latitud: 40.4152
+  longitud: -3.709
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document or passport"
-    - "Comfortable walking shoes: all three cities involve hours on cobbled old-town streets"
-    - "Water, hat and sunscreen in summer (Toledo and Ávila top 35 °C in July-August)"
-    - "Warm layer in winter (Ávila sits above 1,100 m and gets cold by sunset)"
+  - Comfortable shoes
+  - Water
   noAptoPara:
-    - "Travelers requiring full wheelchair access"
-    - "Anyone preferring a slow pace: this is three cities in 12 hours with tight time slots in each"
+  - Wheelchair users
   aTenerEnCuenta:
-    - "Departure is at 8:00 sharp. Estimated end of tour around 20:00 in Madrid"
-    - "The drop-off point is not the same as the pickup: the coach leaves the group at Palacio de los Consejos, C. de Bailén 25"
-    - "The lunch after Ávila is optional and selected at booking"
-    - "The order of city visits may vary depending on operational conditions"
-
-accesibilidad: "This trip is not wheelchair accessible. All three cities have cobbled streets, slopes and steps; the group keeps a steady pace for 12 hours."
-
-politicaCancelacion: "Cancel free up to 24 hours before the experience starts (local time) for a full refund."
-
+  - A minimum number of participants is required
+  - 'It is a long day: about 12 hours'
+  - The guide explains in English and Spanish
+accesibilidad: Not wheelchair accessible.
+politicaCancelacion: Cancel free of charge up to 24 hours before the start for a full refund. No refund for cancellations within 24 hours or no-shows.
 preguntasFrecuentes:
-  - pregunta: "Is it realistic to visit three cities in one day?"
-    respuesta: "It's intense but well organised. The coach moves between cities while you rest; at each stop the guide takes you to the essential highlights with just enough time to see them. This is not slow travel, but it lets you cover all three in a single day. If you want to know one city in depth, book a city-specific tour instead."
-  - pregunta: "In what order are the cities visited?"
-    respuesta: "Typically Segovia first (aqueduct and old town), then Ávila (the walls), and Toledo last. The order may vary occasionally for operational reasons (traffic, local events). In any case, you return to Madrid at the end."
-  - pregunta: "Which entrance fees are included?"
-    respuesta: "The entrances required for the guided visits in the three cities. Anything you visit on your own during free time is paid separately (for example, climbing the bell tower of Segovia Cathedral or entering Toledo Cathedral if it's not on that day's guided route)."
-  - pregunta: "Is hotel pickup included?"
-    respuesta: "No. Departure is from Plaza de San Miguel 7, in front of Mercado de San Miguel. It's right in central Madrid, walkable from Sol or by metro (line 5, Ópera stop). Arrive 15 minutes early."
-  - pregunta: "What about lunch?"
-    respuesta: "Lunch is NOT included by default. There's an option to add a lunch after the Ávila visit at booking time. If you skip it, you'll have free time to eat on your own at one of the stops (Toledo is the strongest food option of the three)."
-  - pregunta: "Is there a private or small-group version?"
-    respuesta: "No, this is a coach group tour. If you prefer a smaller format or flexible timing, look at our small-group or private Toledo trips, although they won't cover the three cities."
-
+- pregunta: Is lunch included?
+  respuesta: Yes, a traditional lunch in a restaurant, usually in Ávila.
+- pregunta: Do you go inside Toledo Cathedral?
+  respuesta: With the upgraded option, yes. With the basic one you see it from outside.
+- pregunta: Is there hotel pickup?
+  respuesta: No. The meeting point is Plaza de San Miguel, next to the San Miguel Market.
+- pregunta: Is it worth seeing three cities in one day?
+  respuesta: 'If you only have one day, yes: you get a feel for all three. With more time, it is better to give each city its own day.'
 variantes:
-  - "toledo-half-day-trip-from-madrid"
-  - "toledo-full-day-from-madrid"
-  - "toledo-private-tour-from-madrid"
-
-opinionEditorial: |
-  This is the most ambitious day trip we cover: three UNESCO World Heritage cities — Segovia, Ávila and Toledo — in a single 12-hour day from Madrid. The pitch is honest: if you have only a few days in Madrid and want to maximise what you see beyond the city without renting a car, this format does it better than any other. The 9,118 reviews at 4.8 stars suggest the logistics are well-oiled after years of running the product.
-
-  The real catch is pace. In Segovia you'll get the aqueduct, the old town and not much more. In Ávila, the walls and a walk. In Toledo, a guided route through the Jewish quarter and the classic landmarks. Don't expect to dig into Toledo Cathedral, climb Segovia's bell tower or stroll the Real Sitio de la Granja unhurried. If your goal is to "see" the three cities, this delivers. If it is to "know" any of them, book a dedicated tour for that one and come back another day. One operational detail worth flagging: the coach drops the group at a different point from the pickup (Palacio de los Consejos, not Plaza de San Miguel) — plan your way back accordingly.
-
-
-categoria: "excursionesDia"
-keywords: ["toledo segovia avila day trip", "three cities one day madrid", "unesco day trip from madrid", "spain day trips madrid", "best day tours from madrid"]
-
-imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero.webp"
-imagenAlt: "The Alcázar and old town of Segovia"
-
+- toledo-and-segovia-with-alcazar-from-madrid
+- toledo-full-day-from-madrid
+opinionEditorial: 'Three cities in a day is a lot, but this tour handles it well: minibus group, official guide and lunch included. It suits those with one free day who want Segovia, Ávila and Toledo. If you prefer a slower pace, the Segovia and Toledo tour gives more time in each city.'
+categoria: excursionesDia
+keywords:
+- toledo segovia avila day trip
+- three cities one day madrid
+- unesco day trip from madrid
+- spain day trips madrid
+- best day tours from madrid
+imagen: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero.webp
+imagenAlt: The Alcázar and old town of Segovia
 galeria:
-  - src: "/images/actividades/toledo/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero-hero.webp"
-    alt: "Aerial view of Toledo and its ancient bridge"
-  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-walls-002-hero.webp"
-    alt: "The medieval walls of Ávila"
-  - src: "/images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp"
-    alt: "Roman aqueduct of Segovia"
-  - src: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp"
-    alt: "North façade of the Alcázar of Toledo"
-  - src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp"
-    alt: "Alcázar of Segovia (exterior)"
-  - src: "/images/actividades/avila/catedral-avila/pixabay-573069-hero.webp"
-    alt: "Cathedral of Ávila"
-  - src: "/images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp"
-    alt: "Fortified walls of Ávila"
-  - src: "/images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp"
-    alt: "Toledo Cathedral"
-  - src: "/images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp"
-    alt: "Stone walls of Ávila"
-  - src: "/images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp"
-    alt: "San Martín bridge, Toledo"
-  - src: "/images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp"
-    alt: "Narrow historic alleyway in Toledo"
-  - src: "/images/actividades/avila/avila/avila-catedral-adarve-hero.webp"
-    alt: "Cathedral walkway in Ávila"
-  - src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-arthur-tseng-ydyizev4pqk-unsplash-hero-hero.webp"
-    alt: "Alcázar of Segovia"
-  - src: "/images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp"
-    alt: "Mosque of Cristo de la Luz, Toledo"
-ratingProveedor: 4.8
-numeroOpiniones: 9118
-
-publicada: false
+- src: /images/actividades/toledo/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero-hero.webp
+  alt: Aerial view of Toledo and its ancient bridge
+- src: /images/actividades/madrid/muralla-avila/muralla-avila-walls-002-hero.webp
+  alt: The medieval walls of Ávila
+- src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp
+  alt: Roman aqueduct of Segovia
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp
+  alt: North façade of the Alcázar of Toledo
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
+  alt: Alcázar of Segovia (exterior)
+- src: /images/actividades/avila/catedral-avila/pixabay-573069-hero.webp
+  alt: Cathedral of Ávila
+- src: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
+  alt: Fortified walls of Ávila
+- src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
+  alt: Toledo Cathedral
+- src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
+  alt: Stone walls of Ávila
+- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
+  alt: San Martín bridge, Toledo
+- src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
+  alt: Narrow historic alleyway in Toledo
+- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
+  alt: Cathedral walkway in Ávila
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-arthur-tseng-ydyizev4pqk-unsplash-hero-hero.webp
+  alt: Alcázar of Segovia
+- src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
+  alt: Mosque of Cristo de la Luz, Toledo
+ratingProveedor: 4.7
+numeroOpiniones: 1330
+publicada: true
 destacada: false
-fecha: "2026-05-05"
+fecha: '2026-05-05'
 atraccionesRelacionadas:
-  - "excursiones-desde-madrid"
-  - "toledo"
+- excursiones-desde-madrid
+- toledo
+fecha_actualizacion: '2026-10-04'
 ---
 
-## What you'll see
+## What you will see
 
-Three UNESCO World Heritage cities in a 12-hour day: Segovia, Ávila and Toledo. The trip pairs the most representative visit of each city with comfortable air-conditioned coach transfers and a bilingual guide who stays with the group all day. It's the most ground-covered-per-euro option among day trips from Madrid.
+Three UNESCO World Heritage cities in one day:
 
-- **Segovia: the aqueduct and the medieval old town.** Guided visit to the Roman aqueduct and a walk through the old town to the Cathedral and Alcázar area. Segovia's essentials in roughly 2 hours.
-- **Ávila: the walled city.** Tour of the best-preserved city walls in Europe and the inner old town. Lunch in Ávila can be added at booking.
-- **Toledo: the three cultures.** Guided route through the Jewish quarter and the classic landmarks of Spain's former capital, where Jewish, Muslim and Christian heritage are layered into every street.
+- **Segovia:** the **Roman aqueduct**, the Cathedral, free time and a photo stop at the **Alcázar**.
+- **Ávila:** Europe's best-preserved **medieval walls** and a traditional lunch.
+- **Toledo:** a guided walk through the old town, the Cathedral and the **Mirador del Valle** to finish.
 
 ## How it works
 
-The meeting point is **Plaza de San Miguel 7, in front of Mercado de San Miguel**, right in central Madrid. The guide is on site 15 minutes before departure; the coach leaves at **8:00 sharp**. If you arrive late, the group leaves without you.
+You meet at **Plaza de San Miguel, 7**, next to the San Miguel Market. You travel by **air-conditioned minibus** with an official guide in English and Spanish.
 
-The day follows a well-rehearsed pattern: coach to the first city, guided visit, coach to the second city, guided visit (with the optional Ávila lunch if you booked it), coach to Toledo, guided visit, and back to Madrid. Entrance fees for the guided visits are included, so you don't queue at any ticket office. The guide handles the logistics and the storytelling for each city.
+The usual order is Segovia, then Ávila, where you have lunch in a restaurant, then Toledo, returning to Madrid in the evening. About 12 hours in total.
 
-**Important operational detail**: at the end of the day the coach drops the group at **Palacio de los Consejos, C. de Bailén 25**, not at the pickup point. It's a 5-minute walk from the Royal Palace, so still very central, but worth noting when you plan your way back to your accommodation.
+## Who I recommend it for
 
-## Who I'd recommend it to
+- Travellers with **one day** who want to see **all three cities**.
+- Anyone who doesn't want to worry about where to eat: **lunch is included**.
+- People who enjoy packed days.
 
-- If you have few days in Madrid and want to see the maximum around the city without renting a car.
-- If you want all three cities but can't dedicate a full day to each.
-- If you value the comfort of a coach and a guide over the flexibility of public transport.
-- If you travel as a couple or in a small group and prefer logistics resolved over improvising.
+## Who I don't recommend it for
 
-## Who I would NOT recommend it to
-
-- If you want to know one city in depth. Book a dedicated trip instead (Toledo half-day, full-day, or a Segovia-specific tour).
-- If you require full wheelchair accessibility. Coach + cobbled old-town walking doesn't allow it.
-- If you like a slow pace and museums without a clock. This is efficient sightseeing, not contemplative travel.
-- If you want hotel pickup. You'll have to make your own way to Plaza de San Miguel.
+- If you want time in each city: three in a day covers the essentials, not more.
+- If you need hotel pickup: it is not included.
+- Wheelchair users: it is not accessible.
