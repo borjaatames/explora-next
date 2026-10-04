@@ -2,6 +2,8 @@
 titulo: 'Desde Barcelona: Girona, Figueres, Museo Dalí y Cadaqués en un día'
 slug: girona-figueres-dali-cadaques-desde-barcelona
 ciudad: girona
+ciudadesAdicionales:
+- barcelona
 descripcion: 'Excursión de un día desde Barcelona a Girona, Figueres (con entrada opcional al Teatro-Museo Dalí) y Cadaqués, con guía y autobús. 4,7/5 con 2.352 reseñas: la excursión a la Costa Brava daliniana más valorada.'
 slugs:
   es: girona-figueres-dali-cadaques-desde-barcelona

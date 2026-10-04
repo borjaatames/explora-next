@@ -2,6 +2,8 @@
 titulo: 'From Barcelona: Girona, Pals and Calella de Palafrugell small-group tour'
 slug: girona-costa-brava-small-group-hotel-pickup
 ciudad: girona
+ciudadesAdicionales:
+- barcelona
 descripcion: 'Day trip from Barcelona by minivan, maximum 8 people, with hotel pickup: guided walk in medieval Girona, the village of Pals and Calella de Palafrugell with its coastal path. Rated 4.8/5 from 2,096 reviews.'
 slugs:
   es: girona-costa-brava-grupo-reducido-recogida-hotel

@@ -2,6 +2,8 @@
 titulo: 'Desde Barcelona: Montserrat, Girona y Tossa de Mar en un día'
 slug: montserrat-girona-tossa-de-mar-desde-barcelona
 ciudad: girona
+ciudadesAdicionales:
+- barcelona
 descripcion: Excursión guiada de un día desde Barcelona al monasterio de Montserrat, la Girona medieval y Tossa de Mar en la Costa Brava, con entrada a la abadía. 4,8/5 con 1.971 reseñas.
 slugs:
   es: montserrat-girona-tossa-de-mar-desde-barcelona

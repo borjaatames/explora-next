@@ -172,6 +172,12 @@ export type ActividadFrontmatter = {
    * "tapas-madrid", "sagrada-familia", "park-guell".
    */
   atraccionesRelacionadas?: string[];
+  /**
+   * Otras ciudades en cuya página de actividades debe listarse también esta
+   * ficha (p. ej. una excursión a Girona que sale de Barcelona). La ficha
+   * sigue teniendo una sola URL, la de su carpeta: no se duplica contenido.
+   */
+  ciudadesAdicionales?: string[];
 
   // Imágenes
   imagen: string;
@@ -302,6 +308,22 @@ export function obtenerListaActividades(idioma: Idioma): ActividadListItem[] {
   }
 
   return todas;
+}
+
+/**
+ * Actividades a mostrar en la página de actividades de una ciudad: las suyas
+ * más las de otras ciudades que declaran esta en `ciudadesAdicionales`.
+ * Las añadidas conservan su URL original (una sola ficha por actividad).
+ */
+export function obtenerActividadesParaPaginaCiudad(
+  idioma: Idioma,
+  ciudad: string
+): ActividadListItem[] {
+  const propias = obtenerListaActividadesPorCiudad(idioma, ciudad);
+  const ajenas = obtenerListaActividades(idioma).filter(
+    (a) => a.ciudad !== ciudad && a.ciudadesAdicionales?.includes(ciudad)
+  );
+  return [...propias, ...ajenas];
 }
 
 /**
@@ -554,6 +576,7 @@ function construirListItem(
     categoria: (fm.categoria || "visitasGuiadas") as CategoriaActividad,
     keywords: fm.keywords || [],
     atraccionesRelacionadas: fm.atraccionesRelacionadas || [],
+    ciudadesAdicionales: fm.ciudadesAdicionales || [],
 
     imagen: fm.imagen || "",
     imagenAlt: fm.imagenAlt || "",

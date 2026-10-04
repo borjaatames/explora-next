@@ -7,6 +7,7 @@ import {
   CATEGORIAS_ACTIVIDAD,
   obtenerCiudadesConActividades,
   obtenerListaActividadesPorCiudad,
+  obtenerActividadesParaPaginaCiudad,
   type ActividadListItem,
   type CategoriaActividad,
 } from "@/lib/actividades";
@@ -147,7 +148,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const ciudad = await obtenerCiudad("es", params.ciudad);
   if (!ciudad) notFound();
 
-  const actividades = obtenerListaActividadesPorCiudad("es", params.ciudad);
+  const actividades = obtenerActividadesParaPaginaCiudad("es", params.ciudad);
   if (actividades.length === 0) notFound();
 
   const cardsActividades = actividades.map(aCardData);

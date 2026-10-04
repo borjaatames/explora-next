@@ -2,6 +2,8 @@
 titulo: 'Desde Barcelona: Girona, Pals y Calella de Palafrugell en grupo reducido'
 slug: girona-costa-brava-grupo-reducido-recogida-hotel
 ciudad: girona
+ciudadesAdicionales:
+- barcelona
 descripcion: 'Excursión de un día desde Barcelona en minibús, máximo 8 personas y recogida en el hotel: visita guiada por la Girona medieval, el pueblo de Pals y Calella de Palafrugell con su camino de ronda. 4,8/5 con 2.096 reseñas.'
 slugs:
   es: girona-costa-brava-grupo-reducido-recogida-hotel

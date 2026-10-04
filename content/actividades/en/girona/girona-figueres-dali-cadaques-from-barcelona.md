@@ -2,6 +2,8 @@
 titulo: 'From Barcelona: Girona, Figueres, Dalí Museum and Cadaqués in one day'
 slug: girona-figueres-dali-cadaques-from-barcelona
 ciudad: girona
+ciudadesAdicionales:
+- barcelona
 descripcion: 'Day trip from Barcelona to Girona, Figueres (optional Dalí Theatre-Museum ticket) and Cadaqués, with guide and coach. Rated 4.7/5 from 2,352 reviews: the top-rated Dalí Costa Brava day trip.'
 slugs:
   es: girona-figueres-dali-cadaques-desde-barcelona
