@@ -2,40 +2,42 @@
 titulo: 'Seville: private electric tuk tuk tour'
 slug: private-tuk-tuk-tour-seville
 ciudad: sevilla
-descripcion: 'Private tour of Seville in an electric tuk tuk with a local guide: Plaza de España, María Luisa Park, Torre del Oro, the Maestranza and Triana, without tiring the kids. Rated 4.8/5 from 1,429 reviews.'
+descripcion: 'Private 1-hour tour of Seville in an electric tuk tuk, just for your group (up to 4 people): Plaza de España, María Luisa Park, the Maestranza and Triana, with photo stops. Book direct, price per group.'
 slugs:
   es: tuk-tuk-privado-sevilla
   en: private-tuk-tuk-tour-seville
-duracion: 1-2 hours
-duracionMinutos: 90
-precioDesde: 40
+duracion: 1 hour
+duracionMinutos: 60
+precioDesde: 71
 moneda: EUR
 idiomas:
 - en
 - es
-proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/sevilla-l48/sevilla-tour-de-1-hora-de-la-ciudad-en-tuk-tuk-electrico-t399035/?partner_id=C71NOAW
+proveedor: bokun
+bokunProductId: 1154015
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Electric tuk tuk just for your group, with a guide
-- Plaza de España, María Luisa, Torre del Oro, Maestranza and Triana
-- Panoramic photo stops
-- Blankets and rain capes provided
+- Electric tuk tuk just for your group, up to 4 people
+- Plaza de España, María Luisa, Maestranza and Triana
+- Photo stops
+- Price per group, not per person
 - Free cancellation up to 24 hours before
 incluye:
-- Driver and guide
-- Private electric tuk tuk
+- Private 60-minute electric tuk tuk tour
+- Local driver-guide
+- Digital guide with tips
 - Photo stops
 noIncluye:
 - Monument entry
 - Tips
 - Hotel pickup (not allowed by local rules)
 puntoEncuentro:
-  texto: Parking APK2 Arjona, by the Cristo de la Expiración bridge, Seville.
-  descripcionGuia: The starting point is by the river near Plaza de Armas. The route is fixed and returns to the same place.
-  latitud: 37.393
-  longitud: -6.0045
+  texto: Parking Saba Plaza de Armas, Calle Marqués de Paradas, Seville.
+  descripcionGuia: 'Go down to level -1 of the car park and walk to the "Centro de Control": your driver will meet you there.'
+  latitud: 37.3925
+  longitud: -6.001
   zoom: 16
 detallesPracticos:
   ticketMovil: true
@@ -51,7 +53,6 @@ informacionImportante:
   - Children under 2
   - Wheelchair users
   aTenerEnCuenta:
-  - 'The route is fixed: no stops outside it'
   - No hotel pickup
   - Monuments are seen from outside
 accesibilidad: Not suitable for wheelchairs.
@@ -62,10 +63,10 @@ preguntasFrecuentes:
 - pregunta: Do you go inside monuments?
   respuesta: No, you see them from outside with photo stops.
 - pregunta: Is there hotel pickup?
-  respuesta: No, local rules don't allow it. You start from a point by the river.
+  respuesta: No, local rules don't allow it. You start from the Saba car park at Plaza de Armas.
 - pregunta: How long is it?
-  respuesta: 1 to 2 hours, depending on the option.
-opinionEditorial: With small kids or on hot days, this is the easiest way to see Seville's essentials without anyone getting worn out. The tuk tuk is part of the fun, and nearly 1,500 reviews averaging 4.8 back it up.
+  respuesta: One hour. Up to 4 people fit in each tuk tuk and the price is per group.
+opinionEditorial: With small kids or on hot days, this is the easiest way to see Seville's essentials without anyone getting worn out. The tuk tuk is part of the fun. You book it directly with us and the price is per group.
 guiasRelacionadas:
 - seville-with-kids
 categoria: experienciasPrivadas
@@ -74,9 +75,19 @@ keywords:
 - seville tuk tuk tour
 - seville with kids tour
 - private tour seville
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
-imagenAlt: Central pavilion and towers of Plaza de España in Seville
+imagen: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
+imagenAlt: Electric tuk tuk with passengers outside the San Telmo Palace
 galeria:
+- src: https://imgcdn.bokun.tools/8a40af56-7065-4c8c-be9d-7f9f300d3d8d.jpeg
+  alt: Central building of the Plaza de España
+- src: https://imgcdn.bokun.tools/8dc4383a-6294-4723-9a2f-948d4fd71529.jpeg
+  alt: Main gate of the Maestranza bullring
+- src: https://imgcdn.bokun.tools/7e95727a-e074-44fc-a806-5d89ceb2df63.jpeg
+  alt: Torre del Oro among palm trees
+- src: https://imgcdn.bokun.tools/1c608d5a-4f0d-4dfb-9f7c-658afd5b50a3.jpeg
+  alt: Electric tuk tuk by the Guadalquivir
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
+  alt: Central pavilion and towers of Plaza de España in Seville
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
   alt: Bridges and canal at Plaza de España, Seville
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
@@ -87,25 +98,24 @@ galeria:
   alt: Pond with plants in María Luisa Park
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
   alt: Maestranza bullring in Seville
-ratingProveedor: 4.8
-numeroOpiniones: 1429
 atraccionesRelacionadas:
 - plaza-espana
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-05'
 ---
 
 ## What you will do
 
 - **Plaza de España** and **María Luisa Park**.
-- The **Torre del Oro** and the Guadalquivir riverside.
 - The **Maestranza** and **Triana**.
 
 ## How it works
 
-You book a time, meet at the starting point by the river and the guide takes you in an electric tuk tuk just for your group, with photo stops.
+You book a day and time, go down to level -1 of the Saba car park at Plaza de Armas, and the driver takes you round in an electric tuk tuk just for your group, with photo stops.
+
+To also see Cartuja and the Macarena, there's a [2-hour version](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours).
 
 ## Who I recommend it for
 

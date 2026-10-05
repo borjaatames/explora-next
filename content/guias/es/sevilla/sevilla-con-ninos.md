@@ -43,7 +43,8 @@ faq:
 | --- | --- | --- |
 | Parque temático (4-11 años) | [Isla Mágica con opción de Agua Mágica](/ciudades/sevilla/actividades/isla-magica-sevilla-entrada), 4,4★ (1.386) | 27 € |
 | Plan a cubierto con calor | [Acuario de Sevilla](/ciudades/sevilla/actividades/acuario-sevilla-entrada), 4,6★ (2.295) | 17 € |
-| Ver Sevilla sin andar | [Tour privado en tuk tuk eléctrico](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla), 4,8★ (1.429) | 40 € |
+| Ver Sevilla sin andar | [Tour privado en tuk tuk eléctrico](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla), 1 h, hasta 4 personas | 71 € por grupo |
+| Ver toda Sevilla, con Cartuja y Macarena | [Gran tour privado en tuk tuk de 2 horas](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla-2-horas), hasta 4 personas | 124 € por grupo |
 | Paseo en barco por el río | [Crucero guiado por el Guadalquivir](/ciudades/sevilla/actividades/sevilla-guadalquivir-river-boat-tour), 4,7★ (1.746) | 26 € |
 | Adolescentes (desde 8 años) | [Kayak por el Guadalquivir](/ciudades/sevilla/actividades/kayak-guadalquivir-sevilla-alquiler), 4,5★ (777) | 17 € |
 | En bici (niños que pedalean bien) | [Tour en bici por Sevilla (en inglés)](/ciudades/sevilla/actividades/tour-bici-sevilla-grupo), 4,9★ (1.585) | 35 € |
