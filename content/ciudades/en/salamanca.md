@@ -35,8 +35,6 @@ atracciones:
     descripcion: "Dominican convent with the city's most striking Plateresque facade. Fray Luis de León taught here, and Columbus debated his voyages with theologians here."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Plateresque facade of Salamanca's Convent of San Esteban"
-# Sin actividades de Salamanca todavia: chips desactivados para no dejar filtros muertos.
-# Re-anadir cuando existan fichas en content/actividades/{es,en}/salamanca.
 chipsFiltros:
   - { label: "Old Town", tag: "casco-historico" }
   - { label: "Cathedrals and University", tag: "monumentos" }

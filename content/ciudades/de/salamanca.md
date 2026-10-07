@@ -35,8 +35,6 @@ atracciones:
     descripcion: "Dominikanerkloster mit der beeindruckendsten Plateresk-Fassade der Stadt. Hier lehrte Fray Luis de León, und hier diskutierte Kolumbus seine Reisen mit den Theologen."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Plateresk-Fassade des Klosters San Esteban in Salamanca"
-# Noch keine Aktivitäten für Salamanca: Chips deaktiviert, um keine toten Filter zu hinterlassen.
-# Wieder hinzufügen, sobald Beiträge in content/actividades/{es,en,de}/salamanca existieren.
 chipsFiltros:
   - { label: "Altstadt", tag: "casco-historico" }
   - { label: "Kathedralen und Universität", tag: "monumentos" }

@@ -35,8 +35,6 @@ atracciones:
     descripcion: "Convento dominico con la fachada plateresca más impresionante de la ciudad. Allí enseñó Fray Luis de León y allí debatió Colón sus viajes con los teólogos."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Fachada plateresca del Convento de San Esteban de Salamanca"
-# Sin actividades de Salamanca todavia: chips desactivados para no dejar filtros muertos.
-# Re-anadir cuando existan fichas en content/actividades/{es,en}/salamanca.
 chipsFiltros:
   - { label: "Casco histórico", tag: "casco-historico" }
   - { label: "Catedrales y Universidad", tag: "monumentos" }
