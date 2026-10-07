@@ -101,6 +101,8 @@ opinionEditorial: 'The best-rated nature day trip from Granada by a wide margin:
   return. For a full day away from the tourist bustle of the city, this is the best day trip from Granada in the catalogue.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - sierra nevada granada
@@ -108,7 +110,6 @@ keywords:
 - sierra nevada day trip from granada
 - sierra nevada small group
 - sierra nevada mountain refuge
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
 imagenAlt: Rugged 4x4 vehicle driving on rocky mountain trail with snow-capped Sierra Nevada peaks in background, Granada
 galeria:

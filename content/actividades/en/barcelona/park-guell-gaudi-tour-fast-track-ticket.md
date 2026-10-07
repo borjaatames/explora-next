@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Who it's for: travellers wanting Park Güell with solid historical context and maximum operator reliability (5,637 reviews don't lie), monolingual travellers who prefer all explanation in their language (no simultaneous bilingual) and families using the guide so kids don't tire of the «other Gaudí monument». Who it's NOT for: travellers with very reduced mobility (the standard itinerary has stairs and slopes — see the official adapted itinerary), anyone wanting only a cheap ticket (the simple ticket at around €18 is the option) and anyone visiting in summer at midday without water and a cap: the park is very exposed.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell guided tour", "park guell fast track ticket", "park guell gaudi tour", "park guell barcelona guided visit", "park guell skip the line"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp"

@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Two countries in a day from Bilbao: Biarritz''s glamour, Saint-Jean-de-Luz''s harbour and San Sebastián. It costs more than other trips, but groups tend to be smaller and the Igueldo view is one of the best in northern Spain.'
 guiasRelacionadas:
 - day-trips-from-bilbao
+atraccionesRelacionadas:
+- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - biarritz day trip from bilbao

@@ -63,6 +63,8 @@ preguntasFrecuentes:
 opinionEditorial: 'El acuario es la mejor carta para las horas de calor en Sevilla: interior, fresco y cerca de la Plaza de España, así que se combina fácil. No es de los más grandes de España, pero el tanque de tiburones engancha a los niños.'
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- familia
 categoria: entradas
 keywords:
 - acuario de sevilla entradas

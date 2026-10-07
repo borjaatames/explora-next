@@ -45,6 +45,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
 opinionEditorial: "Para 35 euros y 20 minutos, es la opción lógica si solo quieres un puñado de fotos buenas sin montar una producción. No esperes decenas de escenarios distintos: es una sesión corta y centrada en moverte con naturalidad cerca de la Sagrada Familia."
+atraccionesRelacionadas:
+- fotos
 categoria: experienciasPrivadas
 keywords:
 - sesion fotos rapida barcelona

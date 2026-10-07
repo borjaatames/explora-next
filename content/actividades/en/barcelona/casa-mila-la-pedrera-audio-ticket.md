@@ -88,7 +88,9 @@ opinionEditorial: |
 
   Who it's for: most Casa Milà visitors, audio-guide-comfortable travellers, Gaudí completists doing Casa Batlló + Casa Milà as a Passeig de Gràcia walk, photographers (rooftop has panoramic views), Modernisme enthusiasts (Espai Gaudí exhibition has scale models of every Gaudí project). Who it's NOT for: travellers wanting live guide narration (book t913306 Early-Morning Guided Tour at €43 — top rated 4.8/5), travellers visiting on a guaranteed rainy day (the rooftop closure is a real loss), and anyone interested only in the night experience (book t913305 separately).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa mila ticket", "la pedrera entrada", "casa mila audioguide", "la pedrera audio guide", "casa mila barcelona ticket"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-spain-jan-2007-hero.webp"
@@ -109,7 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

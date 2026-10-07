@@ -89,7 +89,7 @@ opinionEditorial: |
 
   Para quién: viajeros que ya usan Viator por costumbre (tiene sentido consolidar reservas), quien valore el operador Golden Tour Guide sin preferir la plataforma de reserva, y viajeros que puedan garantizar que llegan a la entrada correcta puntuales. Para quién NO: usuarios de silla de ruedas (el operador marca NO adaptado — mira t217593 para accesibilidad), quien busque máximo volumen de validación (t663776 con 5.637 reseñas es más conservador), y quien tenga incertidumbre logística sobre el punto de encuentro (aquí el coste de equivocarte es perder el tour sin reembolso).
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell tour viator", "golden tour guide park guell", "park guell sin colas viator", "park guell visita guiada viator barcelona", "park guell entrada viator"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp"

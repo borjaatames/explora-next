@@ -70,6 +70,8 @@ opinionEditorial: It's the simplest way to see Bilbao from a different angle, an
 guiasRelacionadas:
 - bilbao-with-kids
 - bilbao-in-one-day
+atraccionesRelacionadas:
+- ria-miradores
 categoria: visitasGuiadas
 keywords:
 - bilbao boat tour
@@ -91,9 +93,6 @@ galeria:
   alt: Bizkaia Bridge over the estuary at Portugalete
 ratingProveedor: 4.2
 numeroOpiniones: 3389
-atraccionesRelacionadas:
-- ria-miradores
-- guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -102,8 +102,6 @@ opinionEditorial: 'This is the only visit in the comparison that changes the rul
   '
 atraccionesRelacionadas:
 - alhambra
-- alhambra-noche
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra night tour

@@ -87,6 +87,8 @@ opinionEditorial: 'La versión "premium" de la excursión a la Alpujarra: la dis
   justo, el tour estándar cumple igual y ahorras 44 € por persona.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - alpujarra originals
@@ -94,7 +96,6 @@ keywords:
 - alpujarra grupo pequeño
 - discovering spain alpujarra
 - pueblos blancos curados
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp"
 imagenAlt: Pueblos blancos encalados en las laderas montañosas de La Alpujarra, Granada, con arquitectura andaluza tradicional
   de casas cúbicas agrupadas en la sierra

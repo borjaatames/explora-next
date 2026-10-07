@@ -70,6 +70,8 @@ variantes:
 - toledo-and-segovia-with-alcazar-from-madrid
 - toledo-full-day-from-madrid
 opinionEditorial: 'Three cities in a day is a lot, but this tour handles it well: minibus group, official guide and lunch included. It suits those with one free day who want Segovia, Ávila and Toledo. If you prefer a slower pace, the Segovia and Toledo tour gives more time in each city.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - toledo segovia avila day trip
@@ -113,9 +115,6 @@ numeroOpiniones: 1330
 publicada: true
 destacada: false
 fecha: '2026-05-05'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 fecha_actualizacion: '2026-10-04'
 ---
 

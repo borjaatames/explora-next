@@ -52,7 +52,6 @@ politicaCancelacion: According to the supplier, the booking is non-refundable, s
 opinionEditorial: 'It''s the companion to the historic-centre route: no Plaza Mayor or Royal Palace here, but the Madrid of grand avenues, the Bernabéu and the Serrano shops. It makes sense if you already know the centre or football is part of your trip. The booking is non-refundable.'
 atraccionesRelacionadas:
 - tuk-tuk
-- bernabeu
 categoria: experienciasPrivadas
 keywords:
 - bernabeu tuk tuk

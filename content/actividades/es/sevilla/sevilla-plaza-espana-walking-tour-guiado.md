@@ -100,6 +100,8 @@ opinionEditorial: |
 
   **Para quién es:** primerizos en Sevilla que quieran un primer contacto con la ciudad moderna, viajeros con interés en arquitectura del s. XX (modernismo regional + neo-mudéjar), parejas y familias que valoren ritmo pausado, visitantes en silla de ruedas (este tour es totalmente accesible), fotógrafos amateurs (la Plaza España al final es el clímax visual). **Para quién NO:** visitantes con 1 día que prioricen monumentos UNESCO (mejor combo Catedral+Giralda+Alcázar `sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar`), hablantes de alemán/italiano/francés (este es solo ES y EN), visitantes ágiles que prefieran ver Plaza España rápido sin contexto histórico (ve por libre con metro).
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "visitasGuiadas"
 keywords: ["plaza españa sevilla tour", "walking tour plaza españa", "las setas plaza españa tour", "tour parque maria luisa sevilla", "walking tour sevilla 2 horas"]
 
@@ -114,8 +116,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- plaza-espana
 ---
 
 ## Qué vas a ver

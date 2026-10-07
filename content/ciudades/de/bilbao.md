@@ -29,10 +29,11 @@ atracciones:
     descripcion: "Eine halbe Stunde entfernt: die Felseninsel mit ihrer Einsiedelei, verbunden mit dem Festland durch 241 Stufen, Drehort von Game of Thrones. Eines der eindrucksvollsten Bilder des Nordens."
 chipsFiltros:
   - { label: "Guggenheim", tag: "guggenheim" }
+  - { label: "Baskische Küste", tag: "gaztelugatxe" }
+  - { label: "Pintxos und Kochen", tag: "gastronomia" }
+  - { label: "Bootsfahrt auf der Ría", tag: "ria-miradores" }
+  - { label: "San Mamés", tag: "futbol" }
   - { label: "Altstadt", tag: "casco-viejo" }
-  - { label: "Gastronomie", tag: "gastronomia" }
-  - { label: "Gaztelugatxe", tag: "gaztelugatxe" }
-  - { label: "Ría und Aussichtspunkte", tag: "ria-miradores" }
 ---
 
 Bilbao ist die Hauptstadt Biskayas und die größte Stadt des Baskenlandes – rund 345.000 Einwohner in der Gemeinde, knapp eine Million im Großraum. Ihre jüngere Geschichte ist die des 'Guggenheim-Effekts': Aus einer Industriestadt im Niedergang wurde eine **weltweite Ikone für Design und Kultur**.

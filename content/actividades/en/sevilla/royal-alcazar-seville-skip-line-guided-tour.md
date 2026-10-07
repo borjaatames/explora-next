@@ -116,6 +116,8 @@ opinionEditorial: |
 
   **Who it's for:** high-season visitors (May-September, weekends, holidays) wanting to save the queues, Spanish/English/French/Portuguese-speaking travellers who want an official licensed guide, Game of Thrones fans (the guide covers Dorne locations), couples and small groups wanting 14th-century Mudéjar historical-architectural context. **Who it's NOT for:** strict wheelchair users (not suitable per operator), very tight budget travellers (general independent entry €13.50 is half the price), anyone wanting short visit without guide (independent entry 60-90 min enough), visitors who can book the free Monday slot in advance.
 
+atraccionesRelacionadas:
+- real-alcazar
 categoria: "visitasGuiadas"
 keywords: ["royal alcazar seville guided tour", "alcazar seville skip line", "alcazar tour english", "mudejar palace pedro i", "alcazar game of thrones dorne"]
 
@@ -135,8 +137,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- real-alcazar
 ---
 
 ## What you'll see

@@ -98,6 +98,8 @@ opinionEditorial: 'Es la opción acertada si quieres ver Ávila y Segovia en un 
   perdonan.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - excursion avila y segovia desde madrid
@@ -139,8 +141,6 @@ numeroOpiniones: 4805
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## Qué vas a ver

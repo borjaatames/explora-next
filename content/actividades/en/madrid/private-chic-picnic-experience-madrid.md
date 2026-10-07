@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Free cancellation up to 12 hours before the start, with a full refund (100% charge if cancelled with less notice).
 opinionEditorial: 'This is the most relaxed option in this group of experiences: less ''touristy'' and more suited to a quiet, stylish afternoon as a couple or with friends. The surprise location is part of the concept, so it''s not for anyone who needs to know exactly where they''ll be beforehand. The menu (ham, cheeses, alcohol-free sparkling wine) is high-end and works well for non-drinkers too, though it''s not a good fit if anyone in the group has severe food intolerances.'
+atraccionesRelacionadas:
+- otros-madrid
 categoria: experienciasPrivadas
 keywords:
 - private picnic madrid

@@ -90,7 +90,9 @@ opinionEditorial: |
 
   Who it's for: travellers who prefer a small group with individual attention over massive free tours; French speakers (the French-language tour is especially well rated); travellers with reduced mobility (the operator marks accessibility). And as a first activity of the Madrid trip — several French reviews insist it's «worth doing on the first day to organise the rest of the trip better». Who it's NOT for: anyone after the massive validation of a tour with thousands of reviews (here it's 55), and anyone wanting to enter the landmarks on the same activity.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- tours-a-pie
+categoria: visitasGuiadas
 keywords: ["madrid austrias tour", "madrid small group walking tour", "central madrid small group tour", "habsburg madrid local guide", "madrid free tour small group"]
 
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-hero.webp"
@@ -109,9 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "plaza-mayor"
-  - "puerta-sol"
 ---
 
 ## What you'll see

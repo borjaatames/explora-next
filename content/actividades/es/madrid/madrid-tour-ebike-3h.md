@@ -115,7 +115,9 @@ opinionEditorial: 'Es el tour clásico de e-bike por Madrid en GetYourGuide: 4,5
   libre cerrado sin tráfico — mira la opción segway por Retiro.
 
   '
-categoria: activo
+atraccionesRelacionadas:
+- tours-a-pie
+categoria: visitasGuiadas
 keywords:
 - ebike madrid
 - tour bicicleta electrica madrid
@@ -137,10 +139,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
-- debod
-- plaza-mayor
 ---
 
 ## Qué vas a ver

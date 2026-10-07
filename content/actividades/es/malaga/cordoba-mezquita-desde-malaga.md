@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: Córdoba es una visita muy completa desde Málaga y la Mezquita sola ya justifica el viaje. Por 35 € con la entrada y el guía incluidos, es de las excursiones con mejor relación calidad-precio de la Costa del Sol.
 guiasRelacionadas:
 - escapadas-desde-malaga
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - excursion cordoba desde malaga

@@ -43,12 +43,13 @@ atracciones:
     imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     imagenAlt: "Außenansicht der Capilla Real von Granada neben der Kathedrale"
 chipsFiltros:
-  - { label: "La Alhambra", tag: "alhambra" }
-  - { label: "Nasridenpaläste", tag: "palacios-nazaries" }
-  - { label: "Generalife", tag: "generalife" }
-  - { label: "Nachtbesichtigung", tag: "alhambra-noche" }
-  - { label: "Albaicín und Sacromonte", tag: "albaicin-sacromonte" }
+  - { label: "Hammam", tag: "hammam" }
+  - { label: "Die Alhambra", tag: "alhambra" }
   - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Albaicín und Sacromonte", tag: "albaicin-sacromonte" }
+  - { label: "Kathedrale und Königliche Kapelle", tag: "catedral" }
+  - { label: "Tagesausflüge", tag: "excursiones" }
+  - { label: "Weitere Erlebnisse", tag: "otros-granada" }
 ---
 
 Granada ist eine der fünf unverzichtbaren Städte Spaniens und die **letzte muslimische Hauptstadt Europas**, erobert von den Katholischen Königen im Jahr 1492. Sie ist Provinzhauptstadt in Andalusien mit rund **232.000 Einwohnern** im Stadtgebiet und mehr als 530.000 im Großraum.

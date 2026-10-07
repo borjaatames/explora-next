@@ -70,6 +70,8 @@ preguntasFrecuentes:
 opinionEditorial: Ronda is the classic day trip from Málaga, and adding Setenil, with its houses tucked under the rock, rounds it off. Very low price for what's included, and almost 9,000 reviews.
 guiasRelacionadas:
 - day-trips-from-malaga
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - ronda day trip from malaga

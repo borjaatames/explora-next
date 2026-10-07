@@ -89,7 +89,7 @@ opinionEditorial: |
 
   Para quién: viajeros con interés en arquitectura neomudéjar y patrimonio histórico de Madrid sin entrar en el debate sobre el toreo, viajeros que combinen con paseo por la Avenida de Alcalá hasta el Retiro, aficionados al toreo o al arte taurino, viajeros internacionales que necesiten audioguía en idiomas menos comunes (la oferta multidioma es amplia). Para quién NO: viajeros con rechazo ético al toreo (el museo expone elementos del espectáculo), familias que prefieran enfoques más universales (museos, parques), quien visite en días de Feria de San Isidro o de Otoño con horario reducido, y quien quiera tour con guía humano (aquí es autoguiado).
 
-categoria: "deportivo"
+categoria: entradas
 keywords: ["las ventas madrid", "plaza toros madrid", "tour las ventas", "viator las ventas", "museo taurino madrid"]
 
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-27215383406-hero.webp"

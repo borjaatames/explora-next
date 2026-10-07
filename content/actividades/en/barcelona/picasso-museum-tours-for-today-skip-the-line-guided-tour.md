@@ -93,7 +93,9 @@ opinionEditorial: |
 
   Who it's for: travelers who value small-group interaction with the guide, anyone who prefers a proven operator with consistent reviews (Tours For Today reputation across multiple Barcelona products), visitors wanting Italian or French guide (covered here), and Spanish-speaking visitors (Spanish is supported, unlike some other Picasso products on GYG). Who it's NOT for: travelers needing hotel pickup (book t381019), Japanese or German speakers (those languages are only on t381019), and budget travelers near the museum (buy direct at €12).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- picasso
+categoria: visitasGuiadas
 keywords: ["picasso museum small group", "tours for today picasso barcelona", "picasso museum skip line tour", "barcelona picasso guided tour", "museu picasso visit"]
 
 imagen: "/images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp"
@@ -110,7 +112,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

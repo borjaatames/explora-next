@@ -95,7 +95,6 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - montserrat
-- tapas-barcelona
 categoria: "excursionesDia"
 keywords: ["montserrat masia bages", "montserrat almuerzo sommelier", "barcelona local experiences", "montserrat enologia premium", "montserrat bodega autentica"]
 

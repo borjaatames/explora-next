@@ -101,6 +101,8 @@ opinionEditorial: 'The most-reviewed day trip to the Granada Alpujarra (320 rati
   or the Sierra Nevada safari are the two best options — the Alpujarra is more cultural, Sierra Nevada more natural.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - alpujarra granada day trip
@@ -108,7 +110,6 @@ keywords:
 - pampaneira bubion capileira
 - alpujarra tour from granada
 - alpujarra full day
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
 imagenAlt: Whitewashed Moorish villages cascading down mountainside in Alpujarra, Granada, with flat-roofed houses and sierra
   peaks.

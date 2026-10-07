@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: 'Con 3 rutas y más de 50 puntos de interés, es de las fichas de DareMapp más completas del catálogo: cubre desde la Sagrada Familia hasta la Casa Batlló y el Modernismo barcelonés sin tener que reservar tres visitas distintas. Para una ciudad tan grande, poder ir a tu ritmo y pausar cuando quieras es una ventaja real frente a un tour guiado con horario fijo. Lo que no vas a tener es acceso prioritario a los monumentos ni las anécdotas de un guía en vivo.'
+atraccionesRelacionadas:
+- otros-barcelona
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado barcelona

@@ -165,6 +165,8 @@ opinionEditorial: 'La **única excursión INTERNACIONAL desde Sevilla** — cruz
   familias con bebés (día demasiado largo).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - tanger desde sevilla
@@ -188,7 +190,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

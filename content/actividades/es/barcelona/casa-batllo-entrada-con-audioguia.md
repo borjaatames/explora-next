@@ -128,7 +128,9 @@ opinionEditorial: 'El ticket estrella de Casa Batlló — oficial, vendido direc
   es genuinamente más cara).
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords:
 - casa batllo entrada
 - casa batllo audioguia
@@ -154,8 +156,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## Qué vas a ver

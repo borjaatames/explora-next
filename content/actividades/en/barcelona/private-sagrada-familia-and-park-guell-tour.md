@@ -41,6 +41,8 @@ politicaCancelacion: Free cancellation up to 24 hours before the start, with a f
 opinionEditorial: 'Gaudí''s two must-see works in half a day and skip-the-line, with a guide just for you and transfer between
   them: it''s the most comfortable way to see both, especially with family or if you''d rather not deal with transport or
   tickets.'
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: experienciasPrivadas
 keywords:
 - private sagrada familia park guell tour
@@ -86,9 +88,6 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-atraccionesRelacionadas:
-- sagrada-familia
-- park-guell
 fecha_actualizacion: '2026-06-22'
 guiasRelacionadas:
   - "sagrada-familia-which-ticket-to-choose"

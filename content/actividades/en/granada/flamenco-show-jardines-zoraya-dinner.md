@@ -90,7 +90,6 @@ opinionEditorial: |
   At €54 it's the most expensive option in the shows catalogue. The price is justified if you value the convenience of a single venue (dinner + show) and not having to hunt for a table afterwards in the Albayzín at night. If you only want the flamenco show, the no-dinner option at the same tablao (€19) offers the same artistic quality for a third of the price. For travellers wanting the complete "Albayzín flamenco evening with set dinner" plan, this is the direct pick.
 
 atraccionesRelacionadas:
-- albaicin-sacromonte
 - flamenco
 categoria: "espectaculos"
 keywords: ["flamenco with dinner granada", "flamenco dinner albayzin", "jardines zoraya dinner", "albayzin flamenco dinner", "granada flamenco menu"]

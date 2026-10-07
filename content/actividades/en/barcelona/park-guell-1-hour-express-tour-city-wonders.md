@@ -90,7 +90,7 @@ opinionEditorial: |
 
   Who it's for: travellers with limited time in Barcelona wanting to see Park Güell with a guide without losing half a morning, English speakers who prefer a 100% English tour with a professional Anglo operator, and anyone valuing the price-time ratio (€26 for 1 hour with guide + skip the line, vs the €18 of the simple ticket without guide). Who it's NOT for: travellers with plenty of time who prefer a long detailed tour (see t2323 of 1.5-2 h), Spanish monolinguals without English (see Spanish monolingual), and families with strollers (not allowed).
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell tour 1 hour", "park guell express", "park guell quick tour", "park guell city wonders", "park guell skip line english"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp"

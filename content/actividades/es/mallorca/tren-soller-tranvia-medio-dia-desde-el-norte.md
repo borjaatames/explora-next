@@ -70,6 +70,8 @@ opinionEditorial: 'Es la versión del tren de Sóller que mejor encaja con una f
 guiasRelacionadas:
 - mallorca-con-ninos
 - serra-tramuntana-soller
+atraccionesRelacionadas:
+- tramuntana
 categoria: excursionesDia
 keywords:
 - tren de soller desde alcudia
@@ -90,9 +92,6 @@ galeria:
   alt: Bahía de Port de Sóller rodeada de montañas
 ratingProveedor: 4.4
 numeroOpiniones: 381
-atraccionesRelacionadas:
-- tramuntana
-- pueblos
 publicada: true
 destacada: false
 fecha: '2026-10-04'

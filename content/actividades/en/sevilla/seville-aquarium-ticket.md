@@ -63,6 +63,8 @@ preguntasFrecuentes:
 opinionEditorial: 'The aquarium is the best card to play during Seville''s hottest hours: indoors, cool and close to Plaza de España, so it combines easily. It isn''t one of Spain''s biggest, but the shark tank wins kids over.'
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- familia
 categoria: entradas
 keywords:
 - seville aquarium tickets

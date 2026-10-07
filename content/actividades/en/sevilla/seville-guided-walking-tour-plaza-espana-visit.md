@@ -100,6 +100,8 @@ opinionEditorial: |
 
   **Who it's for:** Seville first-timers wanting a first contact with the modern city, travellers interested in 20th-century architecture (regional modernism + neo-Mudéjar), couples and families valuing leisurely pace, wheelchair visitors (fully accessible), amateur photographers (Plaza España at the end is the visual climax). **Who it's NOT for:** 1-day visitors prioritizing UNESCO monuments (better Cathedral+Giralda+Alcázar combo), German/Italian/French speakers (this tour is only ES and EN), agile visitors who prefer to see Plaza España quickly without historical context (go independently by metro).
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "visitasGuiadas"
 keywords: ["plaza españa seville tour", "walking tour plaza españa", "las setas plaza españa tour", "maria luisa park tour seville", "seville walking tour 2 hours"]
 
@@ -114,8 +116,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- plaza-espana
 ---
 
 ## What you'll see

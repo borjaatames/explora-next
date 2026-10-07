@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **NOTE ON THE ANTIQUARIUM MUSEUM** (5 m underground, Roman remains from 1st century AD): NOT included in this ticket. Separate entry (~€2 on site) and worth it if you're into Roman archaeology — mosaics, layered Almohad houses, Seville's pre-Islamic context. Pairs perfectly with the viewpoint visit in the same morning.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "entradas"
 keywords: ["setas seville ticket", "metropol parasol entry", "setas seville viewpoint", "las setas seville price", "aurora setas seville", "feeling sevilla ticket"]
 
@@ -118,7 +120,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

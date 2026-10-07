@@ -79,6 +79,8 @@ opinionEditorial: |
   you like Impressionism or modern art, this is the one. The included audio
   guide makes it better value than buying at the box office.
 
+atraccionesRelacionadas:
+- reina-sofia
 categoria: "entradas"
 keywords: ["thyssen museum tickets", "thyssen-bornemisza museum madrid", "thyssen museum entry", "thyssen audio guide", "buy thyssen tickets"]
 
@@ -106,8 +108,6 @@ destacada: true
 fecha: "2026-10-04"
 fecha_actualizacion: "2026-10-04"
 variantes: ["thyssen-museum-small-group-tour"]
-atraccionesRelacionadas:
-  - "museo-thyssen"
 ---
 
 ## What you will see

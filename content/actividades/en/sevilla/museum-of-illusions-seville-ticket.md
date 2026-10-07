@@ -62,6 +62,8 @@ preguntasFrecuentes:
 opinionEditorial: An easy, cheap indoor plan for the heat of the day or a rainy afternoon, right in the centre. It's not essential, but kids aged 6 to 14 have a great time with the impossible photos.
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- familia
 categoria: entradas
 keywords:
 - museum of illusions seville

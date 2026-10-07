@@ -90,6 +90,8 @@ opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour 
   concurridos: llega con margen.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - sagrada familia grupo reducido
@@ -104,8 +106,6 @@ numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
   alt: Techo intrincado con bóvedas góticas de la Sagrada Familia en Barcelona

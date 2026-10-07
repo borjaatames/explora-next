@@ -86,11 +86,11 @@ opinionEditorial: |
 
   Worth knowing: the operator advises against the activity for people with mobility or heart problems. The Albaicín and Sacromonte have steep hills and steps — closed shoes and water are essential, especially in summer. The start time changes by season: in winter you'll set off around 17:00, in summer around 20:30, always aiming to reach the viewpoint just before sunset. It's one of the most memorable activities in Granada and I'd recommend it over the daytime version of the same route — the sunset light transforms the experience.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
 categoria: "visitasGuiadas"
 keywords: ["albaicin sacromonte tour granada", "granada sunset walking tour", "albaicin guided tour", "mirador san nicolas tour", "sacromonte walking tour"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
 
 imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
 imagenAlt: "Mirador de San Nicolás in the Albaicín with views of the Alhambra at sunset"

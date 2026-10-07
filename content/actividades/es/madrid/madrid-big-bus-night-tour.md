@@ -109,6 +109,8 @@ opinionEditorial: 'Es el tour nocturno de Big Bus en Madrid: 4,2/5 sobre 977 res
   viaje sin chaqueta (incluso en verano hace fresco en descapotable a 70 km/h).
 
   '
+atraccionesRelacionadas:
+- otros-madrid
 categoria: transporte
 keywords:
 - big bus nocturno madrid
@@ -129,9 +131,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- plaza-cibeles
-- almudena
 ---
 
 ## Qué vas a ver

@@ -105,6 +105,8 @@ opinionEditorial: 'The Caminito del Rey is one of the most spectacular outdoor e
   Spain.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - caminito del rey
@@ -112,7 +114,6 @@ keywords:
 - gaitanes gorge tour
 - malaga walkway andalusia
 - caminito del rey with ticket
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
 imagenAlt: Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls
 galeria:

@@ -118,6 +118,8 @@ opinionEditorial: 'La **alternativa PREMIUM en AVE al tour estándar de Córdoba
   usuarios estrictos de silla de ruedas (no apto según operador).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - cordoba ave desde sevilla
@@ -141,7 +143,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

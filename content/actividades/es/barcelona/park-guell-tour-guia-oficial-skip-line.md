@@ -88,7 +88,7 @@ opinionEditorial: |
 
   Para quién: viajeros con movilidad reducida que necesiten tour guiado accesible (es de las pocas opciones del parque que lo marcan expresamente), viajeros monolingües en cualquiera de los 4 idiomas (FR, IT, ES, EN) que prefieran toda la explicación en su idioma, y quien busque un equilibrio entre profundidad y duración (75 min — más que el express, menos que el clásico). Para quién NO: quien busque el mayor volumen de validación (mira t663776 con 5.637 reseñas), quien necesite formato más corto y más barato (Amigo Tours pequeño grupo a 24 €), y quien viaje sin margen de puntualidad (aquí el no-show no es reembolsable).
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell accesible silla ruedas", "park guell guia oficial", "park guell tour 75 minutos", "park guell barcelona accesible", "park guell tour italiano frances"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp"

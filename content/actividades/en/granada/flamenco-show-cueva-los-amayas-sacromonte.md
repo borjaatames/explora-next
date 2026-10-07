@@ -86,8 +86,6 @@ opinionEditorial: |
   With 4.7 out of 5 and 1,107 reviews, the rating is solid. At €23 with a drink included and 24-hour free cancellation, it's one of the best value-for-money options in Granada's flamenco catalogue. If you're going to Granada for the first time and want to see flamenco just one night, this is the show to pick; if you have limited mobility or want comfortable seating, a central tablao like Casa Ana or La Alboreá is a better fit.
 
 atraccionesRelacionadas:
-- albaicin-sacromonte
-- sacromonte
 - flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "granada flamenco cave", "gypsy zambra granada", "cave flamenco show granada"]

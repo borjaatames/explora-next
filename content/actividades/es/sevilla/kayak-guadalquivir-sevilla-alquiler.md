@@ -73,6 +73,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Es el plan perfecto para preadolescentes y adolescentes, que suelen aburrirse con los monumentos: deporte, agua y Sevilla desde un ángulo que casi nadie ve. Precio muy razonable y con monitor.'
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - kayak sevilla

@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Who it's for: serious architecture enthusiasts willing to pay a premium for licensed-guide narration, English-speaking travellers, anyone valuing small-group format (max 15) over mass-market tours, and visitors with a clear 9:00 AM morning slot. Who it's NOT for: budget travellers (~€159 is 5x the self-guided ticket), Spanish-only speakers, anyone needing flexibility on start time, wheelchair users (NOT adapted), and visitors who don't trust thin review samples (17 reviews is light for committing €159). For most Casa Batlló visitors the self-guided audio ticket (t398519, ~€31, 27,982 reviews, 4.7/5) is the smarter buy; this Viator tour is for the committed minority who specifically want premium guided narration.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["casa batllo expert guide tour", "casa batllo viator guided", "casa batllo small group tour", "casa batllo licensed guide", "we are guides barcelona casa batllo"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp"

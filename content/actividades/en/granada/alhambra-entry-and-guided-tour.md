@@ -104,7 +104,6 @@ opinionEditorial: 'This is the most economical option in the comparison, and not
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - cheap alhambra ticket

@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Para quién: viajeros que no saben ir en bici o no quieren esfuerzo físico, mayores en forma que quieran ver el Retiro sin cansarse, grupos pequeños que busquen actividad diferente. Para quién NO: niños pequeños (edad mínima 14), personas con problemas de equilibrio o vestibulares, embarazadas (desaconsejado), y viajeros con movilidad muy reducida (mejor pasear o silla de ruedas).
 
-categoria: "activo"
+categoria: visitasGuiadas
 keywords: ["segway retiro madrid", "tour segway parque retiro", "viator segway madrid", "segway madrid parque", "retiro segway tour"]
 
 imagen: "/images/actividades/madrid/retiro/parque-del-retiro-madrid-own-crystal-palace-hero.webp"

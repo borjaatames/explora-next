@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: This is the same Drach Caves visit as from Palma, but leaving from Alcúdia, which is where we recommend staying with kids. You avoid driving across the island and entry skips the queue. The pearl factory stop is unnecessary, but short.
 guiasRelacionadas:
 - mallorca-with-kids
+atraccionesRelacionadas:
+- cuevas-drach
 categoria: excursionesDia
 keywords:
 - drach caves from alcudia
@@ -88,8 +90,6 @@ galeria:
   alt: Chamber of the Drach Caves with turquoise water
 ratingProveedor: 4.4
 numeroOpiniones: 616
-atraccionesRelacionadas:
-- cuevas-drach
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -73,6 +73,8 @@ opinionEditorial: 'Las Cuevas del Drach son el plan más mágico de Mallorca con
 guiasRelacionadas:
 - mallorca-con-ninos
 - que-ver-en-mallorca
+atraccionesRelacionadas:
+- cuevas-drach
 categoria: excursionesDia
 keywords:
 - cuevas del drach entradas
@@ -95,8 +97,6 @@ galeria:
   alt: Sala de las Cuevas del Drach con agua turquesa
 ratingProveedor: 4.4
 numeroOpiniones: 1489
-atraccionesRelacionadas:
-- cuevas-drach
 publicada: true
 destacada: false
 fecha: '2026-10-04'

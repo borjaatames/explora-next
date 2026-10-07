@@ -124,7 +124,9 @@ opinionEditorial: 'El «Total Experience Pass» premium del FC Barcelona — 979
   es significativo y el ticket básico entrega el 80% del valor).
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - camp nou total experience
 - fc barcelona museo vr
@@ -148,7 +150,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

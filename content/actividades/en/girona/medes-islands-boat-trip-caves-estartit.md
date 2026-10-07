@@ -73,6 +73,8 @@ preguntasFrecuentes:
 opinionEditorial: 'The Medes are Catalonia''s best-known marine reserve, and the small boat makes the difference: it goes into caves and under the Roca Foradada, which the big boats skip. An hour and a half is short but well used. Pair it with an afternoon in Pals or Begur for a full day out from Girona.'
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona
+atraccionesRelacionadas:
+- costa-brava
 categoria: visitasGuiadas
 keywords:
 - medes islands boat trip
@@ -93,8 +95,6 @@ galeria:
   alt: The Medes Islands on the horizon seen from the coast
 ratingProveedor: 4.6
 numeroOpiniones: 634
-atraccionesRelacionadas:
-- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

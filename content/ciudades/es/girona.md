@@ -47,11 +47,9 @@ atracciones:
     imagen: "/images/actividades/girona/dali-figueres/dali-figueres-hero.webp"
     imagenAlt: "El Teatro-Museo Dalí de Figueres con sus huevos y la fachada roja"
 chipsFiltros:
-  - { label: "Catedral", tag: "catedral" }
-  - { label: "El Call", tag: "call-juderia" }
-  - { label: "Casco medieval", tag: "casco-medieval" }
-  - { label: "Costa Brava", tag: "costa-brava" }
   - { label: "Dalí (Figueres)", tag: "dali-figueres" }
+  - { label: "Costa Brava y excursiones", tag: "costa-brava" }
+  - { label: "Casco medieval y Call", tag: "casco-medieval" }
 ---
 
 Girona es una ciudad media del noreste de Cataluña —unos 105.000 habitantes—, a una hora de Barcelona y puerta de la Costa Brava. Su casco antiguo, encajado entre cuatro ríos, es de los **mejor conservados de Cataluña** y uno de los más cinematográficos de España.

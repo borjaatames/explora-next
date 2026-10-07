@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Para quién: viajeros anglohablantes con poco tiempo que quieran Park Güell con solución operativa (transporte al parque + sin colas + propinas en un solo ticket), quien valore la combinación con Sagrada Familia el mismo día, y viajeros que comparen productos de City Wonders entre GYG y Viator y prefieran Viator. Para quién NO: viajeros que no dominen inglés y necesiten el tour en otro idioma, quien busque tour profundo (1h 5min es express — mira el clásico GYG t2323 de 1,5-2 h), y viajeros que ya sepan llegar al Park Güell en transporte público y no necesiten que «transporte incluido» pese en su decisión.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell express viator", "park guell con transporte", "city wonders park guell", "park guell sin colas transporte", "park guell viator combinado"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp"

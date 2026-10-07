@@ -69,6 +69,8 @@ opinionEditorial: 'The Dalí Theatre-Museum is the easiest day trip from Girona:
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 - what-to-see-in-girona-in-one-day
+atraccionesRelacionadas:
+- dali-figueres
 categoria: visitasGuiadas
 keywords:
 - dali theatre museum figueres
@@ -89,8 +91,6 @@ galeria:
   alt: Dalí Theatre-Museum in Figueres
 ratingProveedor: 4.7
 numeroOpiniones: 105
-atraccionesRelacionadas:
-- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -104,6 +104,8 @@ opinionEditorial: 'La excursión natural mejor valorada de Granada con diferenci
   Para una jornada completa lejos del bullicio turístico de la ciudad, esta es la mejor excursión de Granada del catálogo.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - sierra nevada granada
@@ -111,7 +113,6 @@ keywords:
 - excursion sierra nevada
 - sierra nevada en grupo pequeno
 - refugio sierra nevada
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
 imagenAlt: Jeep 4x4 en pista de montaña rocosa de Sierra Nevada, Granada, con picos nevados al fondo
 galeria:

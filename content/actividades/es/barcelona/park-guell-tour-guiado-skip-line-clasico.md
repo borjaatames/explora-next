@@ -104,7 +104,7 @@ opinionEditorial: 'La opción más LARGA del catálogo Park Güell en GetYourGui
   quien venga al parque solo a hacer fotos: el ticket simple es la opción.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - park guell tour 2 horas
 - park guell tour clasico

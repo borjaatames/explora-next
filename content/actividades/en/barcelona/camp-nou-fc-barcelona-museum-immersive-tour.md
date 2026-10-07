@@ -131,7 +131,9 @@ opinionEditorial: 'Official FC Barcelona Museum ticket during the Camp Nou renov
   rush (the visit needs 1.5-2 hours minimum to be worthwhile at this price).
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - camp nou museum ticket
 - barca immersive tour
@@ -155,7 +157,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

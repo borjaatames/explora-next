@@ -116,6 +116,8 @@ opinionEditorial: |
 
   **Who it's for:** first-timers with **2-3 days** wanting to orient themselves + cover distant areas, **multilingual visitors** (Arabic, Chinese, Japanese, Dutch — only place to find audio guide), families with **small children or elderly** who don't walk much, **wheelchair users** who want to see Seville comfortably, **large groups** with tight budget (cheaper than private guided tour). **Who it's NOT for:** 1-day visitors who prefer to walk (more efficient), tourists who only want UNESCO monuments (better book specific tours), those seeking authentic and intimate experience (this is mass tourism), visitors with VERY tight budget (walking is free).
 
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: "transporte"
 keywords: ["tourist bus seville", "hop on hop off seville", "city sightseeing seville", "seville bus 24h audio guide", "seville tourist bus 48h"]
 
@@ -135,7 +137,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

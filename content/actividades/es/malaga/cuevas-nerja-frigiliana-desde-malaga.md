@@ -69,6 +69,8 @@ opinionEditorial: 'Junta en un día las tres cosas que merecen la pena al este d
 guiasRelacionadas:
 - escapadas-desde-malaga
 - malaga-con-ninos
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - excursion nerja desde malaga

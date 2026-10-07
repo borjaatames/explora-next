@@ -71,6 +71,8 @@ variantes:
 - excursion-toledo-dia-completo
 - excursion-toledo-ave-tren
 opinionEditorial: 'Combina lo mejor de La Mancha con Toledo en un solo día y en grupo pequeño, y se nota en las reseñas: 4,9 sobre 5. Los molinos de Consuegra son de las estampas más bonitas de España y no es fácil llegar sin coche. Es más cara que un bus grande, pero el formato lo compensa.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - excursion toledo molinos quijote
@@ -115,9 +117,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-10-04'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 ---
 
 ## Qué vas a ver

@@ -68,6 +68,8 @@ opinionEditorial: 'This is the best way to see the Alcazaba: with someone explai
 guiasRelacionadas:
 - malaga-in-two-days
 - malaga-with-kids
+atraccionesRelacionadas:
+- alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:
 - alcazaba malaga guided tour
@@ -91,9 +93,6 @@ galeria:
   alt: Panorama of Málaga from the Alcazaba
 ratingProveedor: 4.7
 numeroOpiniones: 7412
-atraccionesRelacionadas:
-- alcazaba-gibralfaro
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

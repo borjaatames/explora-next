@@ -84,8 +84,6 @@ opinionEditorial: |
   A 18 € es la opción más barata de cueva. El rating 4,7 con la distinción «Mejor valorados» de GetYourGuide y la trayectoria del operador (la propia cueva, sin intermediarios) hacen que sea una apuesta segura para quien valore el formato íntimo por encima del confort de butaca. Conviene ir con calzado cómodo: el camino desde el centro hasta el número 53 del Camino del Sacromonte es cuesta arriba.
 
 atraccionesRelacionadas:
-- albaicin-sacromonte
-- sacromonte
 - flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco sacromonte", "cueva flamenca granada", "cueva la faraona", "espectaculo flamenco intimo granada"]

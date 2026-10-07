@@ -101,6 +101,8 @@ opinionEditorial: |
 
   **Who it's for:** Seville first-timers wanting **general overview** with premium guide, travellers with **1 day available** who want to combine walking tour (morning) + interior tours (afternoon) + flamenco (evening), couples and small groups (2-6 people) valuing small group over minimum price, **Spanish or English speakers**. **Who it's NOT for:** large groups 6+ (fill almost the whole 10 capacity), visitors wanting interior entries (this is exterior), German/Italian/French speakers (see multilingual combos), visitors with very little time (see shorter tours or go independently).
 
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: "visitasGuiadas"
 keywords: ["best rated walking tour seville", "small group tour seville", "premium walking tour seville", "city highlights seville walking", "seville tour 4 9 stars"]
 
@@ -120,7 +122,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

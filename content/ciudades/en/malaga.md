@@ -50,10 +50,12 @@ atracciones:
     imagen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp"
     imagenAlt: "Málaga's port and Muelle Uno with the cathedral behind"
 chipsFiltros:
-  - { label: "Alcazaba & Gibralfaro", tag: "alcazaba-gibralfaro" }
+  - { label: "Alcazaba and Gibralfaro", tag: "alcazaba-gibralfaro" }
   - { label: "Picasso Museum", tag: "picasso" }
   - { label: "Caminito del Rey", tag: "caminito-del-rey" }
-  - { label: "Old town", tag: "centro-historico" }
+  - { label: "Boat trip", tag: "barco" }
+  - { label: "Day trips", tag: "excursiones" }
+  - { label: "Old town and more", tag: "centro-historico" }
 ---
 
 Málaga is the capital of the Costa del Sol and Spain's sixth city —around 580,000 people— on the Mediterranean in the heart of Andalusia. For years it was just the gateway to the coast's beaches; today it's one of the **fastest-rising cultural destinations in the south**, with more than thirty museums.

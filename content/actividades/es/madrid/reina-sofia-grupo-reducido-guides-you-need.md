@@ -100,7 +100,9 @@ opinionEditorial: 'La mejor opción del Reina Sofía en GetYourGuide en relació
   de un tour privado.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- reina-sofia
+categoria: visitasGuiadas
 keywords:
 - reina sofia grupo reducido
 - reina sofia maximo 6
@@ -126,8 +128,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- reina-sofia
 ---
 
 ## Qué vas a ver

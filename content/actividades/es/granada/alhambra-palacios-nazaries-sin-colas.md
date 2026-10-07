@@ -104,6 +104,8 @@ opinionEditorial: 'Esta visita ocupa el escalón intermedio del catálogo: cuest
   ese nivel de detalle se agradece.
 
   '
+atraccionesRelacionadas:
+- alhambra
 categoria: visitasGuiadas
 keywords:
 - alhambra grupo reducido
@@ -143,9 +145,6 @@ numeroOpiniones: 8443
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
-- palacios-nazaries
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

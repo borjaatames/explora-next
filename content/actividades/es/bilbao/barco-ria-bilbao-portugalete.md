@@ -70,6 +70,8 @@ opinionEditorial: Es el plan más sencillo para ver Bilbao desde otro ángulo, y
 guiasRelacionadas:
 - bilbao-con-ninos
 - bilbao-en-un-dia
+atraccionesRelacionadas:
+- ria-miradores
 categoria: visitasGuiadas
 keywords:
 - barco ria bilbao
@@ -91,9 +93,6 @@ galeria:
   alt: Puente Bizkaia sobre la ría en Portugalete
 ratingProveedor: 4.2
 numeroOpiniones: 3389
-atraccionesRelacionadas:
-- ria-miradores
-- guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-04'

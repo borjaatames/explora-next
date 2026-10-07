@@ -68,6 +68,8 @@ opinionEditorial: 'This is the most-reviewed family boat trip in southwest Mallo
 guiasRelacionadas:
 - mallorca-with-kids
 - best-coves-mallorca
+atraccionesRelacionadas:
+- calas-playas
 categoria: excursionesDia
 keywords:
 - glass bottom boat mallorca
@@ -96,8 +98,6 @@ galeria:
   alt: Paguera with its hotels and hills behind
 ratingProveedor: 4.6
 numeroOpiniones: 3852
-atraccionesRelacionadas:
-- calas-playas
 publicada: true
 destacada: false
 fecha: '2026-10-04'

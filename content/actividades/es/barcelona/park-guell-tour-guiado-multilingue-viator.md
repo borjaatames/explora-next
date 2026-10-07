@@ -96,7 +96,7 @@ opinionEditorial: |
 
   Para quién es: viajeros que necesitan francés (poco común en los listados principales de GetYourGuide), grupos de idiomas mixtos que quieran consolidar reserva, usuarios de Viator con cuentas o fidelidad existentes y cualquiera priorizando cancelación gratuita 24 h con «Garantía del Precio Más Bajo». Para quién NO: usuarios de silla de ruedas (el operador marca NO apto), viajeros que quieran máxima validación por volumen (el GetYourGuide t419045 tiene 19.407 reseñas) y cualquiera que necesite auriculares para escucha en grupo.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell tour viator multilingue", "park guell tour frances", "park guell tour guiado en español", "park guell tour sin colas viator", "tours for today park guell"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp"

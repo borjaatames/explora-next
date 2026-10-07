@@ -52,6 +52,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
 opinionEditorial: "This is the right pick if you want to explore Malaga on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
+atraccionesRelacionadas:
+- centro-historico
 categoria: visitasGuiadas
 keywords:
 - self-guided tour malaga

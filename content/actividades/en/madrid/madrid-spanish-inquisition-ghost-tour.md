@@ -89,6 +89,8 @@ opinionEditorial: |
 
   Who it's for: travellers wanting an affordable, entertaining night plan, couples or small groups who enjoy the storytelling format, families with older kids (8+) who'll get hooked on dramatised stories. Who it's NOT for: travellers with reduced mobility (cobblestones tricky in a wheelchair), demanding academics after pure historical rigour, very small kids (dark themes), and travellers expecting scares like a haunted house (there are none here).
 
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: "espectaculos"
 keywords: ["madrid night tour", "spanish inquisition madrid tour", "madrid night legends", "madrid ghost tour", "mysterium tours madrid"]
 
@@ -108,8 +110,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "plaza-mayor"
 ---
 
 ## What you'll see

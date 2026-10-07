@@ -92,6 +92,8 @@ opinionEditorial: 'Si valoras el Renacimiento andaluz por encima de la Alhambra 
   varios días en la ciudad o que vuelven a la zona.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - ubeda baeza desde granada
@@ -99,7 +101,6 @@ keywords:
 - ubeda baeza unesco
 - excursion ubeda granada
 - discovering spain ubeda
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp"
 imagenAlt: Plaza Vázquez de Molina en Úbeda con Capilla del Salvador y palacios renacentistas, arquitectura del Siglo de Oro
 galeria:

@@ -92,6 +92,8 @@ opinionEditorial: 'If you value the Andalusian Renaissance over the Alhambra (wh
   several days in the city or returning to the area.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - ubeda baeza from granada
@@ -99,7 +101,6 @@ keywords:
 - ubeda baeza unesco
 - ubeda day trip granada
 - discovering spain ubeda
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp"
 imagenAlt: Renaissance square with Salvador Chapel and palatial architecture from Spain's Golden Age
 galeria:

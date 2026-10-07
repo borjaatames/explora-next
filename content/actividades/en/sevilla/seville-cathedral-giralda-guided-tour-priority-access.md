@@ -110,6 +110,8 @@ opinionEditorial: |
 
   **Who it's for:** international visitors who don't speak Spanish (French/German speakers in particular have very few alternatives), travellers who value a professional guide for context, mid-budget visitors comfortable with €40 for 1h guided + Giralda climb. **Who it's NOT for:** Spanish-speaking visitors (use the audio-guide ticket or the official guided tour at `catedraldesevilla.es`), those wanting more depth/length (the 1h format is intentionally concise), visitors who want full wheelchair access to the Giralda (not possible on any product — the tower is not adapted).
 
+atraccionesRelacionadas:
+- catedral-giralda
 categoria: "visitasGuiadas"
 keywords: ["seville cathedral guided tour", "giralda priority access tour", "seville cathedral skip line english", "cathedral seville french guide", "cathedral seville german guide"]
 
@@ -124,7 +126,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

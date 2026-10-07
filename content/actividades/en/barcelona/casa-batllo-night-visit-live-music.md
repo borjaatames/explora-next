@@ -96,7 +96,9 @@ opinionEditorial: |
 
   Who it's for: travellers wanting a non-touristy «evening cultural experience» (Casa Batlló at night is dramatically different from day), couples on a date night, music lovers (the jazz/flamenco programme is genuinely competent), photographers (rooftop at sunset = exceptional photos), and anyone valuing Casa Batlló's commitment to neurodivergent staff inclusion. Who it's NOT for: travellers expecting dinner (only cava + optional bar snacks), music-sensitive visitors, anyone uncertain about a specific date (non-refundable), and budget-conscious visitors — at €64 this is one of the more expensive Casa Batlló options. For the basic night experience at half the price, the Welcome Drink version (t682388) is the smarter choice.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa batllo night visit", "casa batllo concert rooftop", "casa batllo live music", "casa batllo night tour", "casa batllo jazz flamenco"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp"
@@ -114,8 +116,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## What you'll see

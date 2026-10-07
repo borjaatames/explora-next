@@ -75,6 +75,8 @@ opinionEditorial: La entrada al Caminito del Rey se agota y llegar sin coche es 
 guiasRelacionadas:
 - caminito-del-rey-como-visitar
 - escapadas-desde-malaga
+atraccionesRelacionadas:
+- caminito-del-rey
 categoria: excursionesDia
 keywords:
 - caminito del rey desde malaga
@@ -94,8 +96,6 @@ galeria:
   alt: Garganta de los Gaitanes vista desde el Caminito
 ratingProveedor: 4.9
 numeroOpiniones: 19083
-atraccionesRelacionadas:
-- caminito-del-rey
 publicada: true
 destacada: false
 fecha: '2026-10-04'

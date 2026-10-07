@@ -95,7 +95,9 @@ opinionEditorial: |
 
   Who it's for: first-time Barcelona visitors who want to understand WHY Picasso matters to the city (not just see his works), English/French/Chinese/Korean-speaking travelers (Spanish guide NOT available), small-group enthusiasts, anyone wanting "top rated" 4.8/5 status. Who it's NOT for: Spanish-speaking visitors (book t381019 or t808734), wheelchair users (book t381019 or t808734), and anyone wanting museum-only without the walking add-on (book t381019 or t808734).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- picasso
+categoria: visitasGuiadas
 keywords: ["picasso walking tour barcelona", "picasso museum and walking tour", "el born picasso walking tour", "picasso museum top rated barcelona", "picasso footsteps barcelona"]
 
 imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
@@ -109,7 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

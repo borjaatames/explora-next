@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: 'Con 3 rutas —Granada Esencial, Albaicín y Sacromonte, y La Alhambra— es de las fichas más flexibles del catálogo: puedes hacer solo la que te interese o repartirlas en varios días, porque el acceso no caduca. Ojo con un matiz importante: la ruta de la Alhambra es un recorrido narrado por el entorno, no incluye la entrada al recinto monumental, que hay que reservar aparte y con antelación.'
+atraccionesRelacionadas:
+- otros-granada
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado granada

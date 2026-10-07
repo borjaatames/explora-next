@@ -88,7 +88,7 @@ opinionEditorial: |
 
   Who it's for: travellers with reduced mobility needing an accessible guided tour (it's one of the few park options that mark this expressly), monolingual travellers in any of the 4 languages (FR, IT, ES, EN) who prefer all explanation in their language, and anyone looking for a balance between depth and duration (75 min — more than express, less than classic). Who it's NOT for: anyone wanting the highest validation volume (see t663776 with 5,637 reviews), anyone needing a shorter and cheaper format (Amigo Tours small group at €24), and anyone travelling without punctuality margin (no-show is non-refundable here).
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell wheelchair accessible", "park guell official guide", "park guell tour 75 minutes", "park guell barcelona accessible", "park guell tour italian french"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp"

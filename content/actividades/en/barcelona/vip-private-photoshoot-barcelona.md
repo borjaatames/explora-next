@@ -46,6 +46,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
 opinionEditorial: "One hour goes further than it sounds: the photographer knows which angles work around the Sagrada Familia and doesn't waste time. If you also want to go inside the basilica or Park Güell, book those tickets separately and in advance — they're not included and they sell out."
+atraccionesRelacionadas:
+- fotos
 categoria: experienciasPrivadas
 keywords:
 - private photoshoot barcelona

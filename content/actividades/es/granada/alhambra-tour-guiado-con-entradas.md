@@ -104,7 +104,6 @@ opinionEditorial: 'Es la visita mejor valorada del comparador: 4,9 sobre 5, con 
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra tour guiado entradas incluidas

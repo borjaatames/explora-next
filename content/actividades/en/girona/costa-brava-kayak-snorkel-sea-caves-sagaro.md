@@ -79,6 +79,8 @@ preguntasFrecuentes:
 opinionEditorial: 'This is the best way to see the Costa Brava the way it looks on postcards: from the water, paddling into caves and coves with no land access. With almost 1,400 reviews and a 4.7 rating, the guides are what reviewers mention most. If you are staying in Girona, it is the ideal half-day plan to pair with lunch in Sant Feliu or Calella.'
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona
+atraccionesRelacionadas:
+- costa-brava
 categoria: visitasGuiadas
 keywords:
 - costa brava kayak
@@ -99,8 +101,6 @@ galeria:
   alt: Bay and harbour of Sant Feliu de Guíxols
 ratingProveedor: 4.7
 numeroOpiniones: 1393
-atraccionesRelacionadas:
-- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

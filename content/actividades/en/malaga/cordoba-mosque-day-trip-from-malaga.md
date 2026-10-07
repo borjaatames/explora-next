@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: Córdoba is a very rewarding trip from Málaga, and the Mosque alone is worth the journey. At €35 with tickets and guide included, it's one of the best-value day trips on the Costa del Sol.
 guiasRelacionadas:
 - day-trips-from-malaga
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - cordoba day trip from malaga

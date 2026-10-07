@@ -99,7 +99,9 @@ opinionEditorial: 'The best Reina Sofía option on GetYourGuide for quality-expe
   tour.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- reina-sofia
+categoria: visitasGuiadas
 keywords:
 - reina sofia small group
 - reina sofia maximum 6
@@ -125,8 +127,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- reina-sofia
 ---
 
 ## What you'll see

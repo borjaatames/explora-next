@@ -104,7 +104,7 @@ opinionEditorial: 'Tour de 1,5 horas al Palacio Real con Amigo Tours Spain (el m
   sus 2.000+ reseñas a 4,7. Si valoras tour monolingüe + accesibilidad confirmada en silla de ruedas, este encaja.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - palacio real monolingue
 - amigo tours palacio real

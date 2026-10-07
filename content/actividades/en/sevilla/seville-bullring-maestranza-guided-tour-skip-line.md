@@ -101,6 +101,8 @@ opinionEditorial: |
 
   **Who it's for:** visitors interested in 18th-century civil architecture, Seville's social history, amateur photographers (the Prince's Gate at sunset is iconic), curious travellers exploring the cultural bullfighting phenomenon without committing to seeing it live. **Who it's NOT for:** anyone very sensitive to bullfighting themes (the museum displays historically blood-stained costumes), visitors in a hurry who only want an exterior photo (cheaper general entry suffices), families with children under 10 without preparation. **ETHICAL NOTE:** the tour is a CULTURAL visit to the building, NOT bullfighting advocacy. If you're morally opposed to bullfighting and prefer not to enter, that's perfectly valid — Seville has 30+ monuments without that component.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "visitasGuiadas"
 keywords: ["seville bullring tour", "maestranza seville visit", "plaza de toros maestranza ticket", "real maestranza seville museum", "bullring guided tour spain"]
 
@@ -115,7 +117,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

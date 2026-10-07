@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Who it's for: mixed Spanish + English groups preferring a single tour, travellers wanting a smaller format than the park's mass tours, and anyone looking for a competitive price among guided options (€24). Who it's NOT for: travellers needing 100% tour in their language with maximum depth (see monolinguals t663776 or t2323), anyone wanting a CLOSELY small group guaranteed (max 6-8) — confirm with the operator or book private — and anyone prioritising maximum operational reliability: t663776 with 5,637 reviews at 4.7/5 is more conservative.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- park-guell
+categoria: visitasGuiadas
 keywords: ["park guell small group", "park guell amigo tours", "park guell bilingual tour", "park guell small tour", "park guell skip line group"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp"
@@ -127,8 +129,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: '2026-06-18'
-atraccionesRelacionadas:
-- park-guell
 bokunProductId: 819658
 guiasRelacionadas:
   - "park-guell-which-ticket-to-choose"

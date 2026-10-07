@@ -95,6 +95,8 @@ opinionEditorial: 'Es la forma más sencilla y económica de entrar a la Sagrada
   una primera visita.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: entradas
 keywords:
 - entrada sagrada familia
@@ -110,8 +112,6 @@ numeroOpiniones: 113748
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
   alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz natural reflejada en vidrios multicolores

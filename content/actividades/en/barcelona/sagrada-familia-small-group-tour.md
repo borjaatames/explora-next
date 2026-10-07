@@ -90,6 +90,8 @@ opinionEditorial: 'This is the middle ground between the standard guided tour an
   with time to spare.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - sagrada familia small group
@@ -104,8 +106,6 @@ numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
   alt: Intricate Gothic ceiling with ornate stone vaulting and decorative details in Barcelona's Sagrada Familia basilica

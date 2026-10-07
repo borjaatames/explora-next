@@ -151,6 +151,8 @@ opinionEditorial: 'El **flamenco en el barrio cuna del flamenco español** — T
   icónica de Cristina Hoyos (Museo del Baile Flamenco).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - teatro flamenco triana
@@ -176,8 +178,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-sevilla-que-tablao-elegir"
 ---

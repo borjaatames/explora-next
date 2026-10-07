@@ -108,6 +108,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes que quieran perspectiva única de Sevilla desde el río, parejas que valoren la opción ATARDECER con bebida incluida (romántico), viajeros con interés en la historia fluvial de la ciudad (Hispalis romana → puerto de las Indias), familias con niños mayores de 6 (el crucero es entretenido pero requiere cierta paciencia), fotógrafos amateurs (vistas únicas Triana + Torre del Oro). **Para quién NO:** presupuestos muy ajustados (Eco Cruise t418722 desde 17 €), usuarios estrictos de silla de ruedas (embarque no adaptado), visitantes con muy poco tiempo (1h+ es compromiso), quien quiera el crucero con MÁS volumen y no le importe sacrificar 0,5 puntos de rating (Eco Cruise).
 
+atraccionesRelacionadas:
+- barco
 categoria: "visitasGuiadas"
 keywords: ["crucero guadalquivir sevilla", "barco guadalquivir top rated", "river boat tour sevilla", "crucero guadalquivir bebida incluida", "barco sevilla torre del oro"]
 
@@ -129,7 +131,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

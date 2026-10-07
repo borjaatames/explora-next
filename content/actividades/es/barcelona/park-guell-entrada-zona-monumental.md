@@ -90,7 +90,9 @@ opinionEditorial: |
 
   Para quién es: viajeros independientes que quieren flexibilidad, fotógrafos que planean quedarse 2-3 horas, gente con presupuesto ajustado y visitantes que ya han hecho su lectura previa de Gaudí y no necesitan guía. Para quién NO: primeras veces que quieren contexto sobre la visión de Gaudí (plantéate el tour guiado t419045 — 4,7/5 con 19.407 reseñas, ~29 € — mejor relación calidad-precio si quieres narración), viajeros con limitaciones de movilidad (la distribución es la limitación, no el ticket) y cualquiera con dudas en la hora (este ticket NO se reembolsa). El combo con Museo Casa Gaudí (t826796) cuesta solo 7 € más y añade una parada con sentido; si el museo te interesa mínimamente, es la compra más inteligente.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- park-guell
+categoria: entradas
 keywords: ["entradas park guell", "ticket park guell barcelona", "park guell sin colas", "entrada park guell online", "park guell precio entrada"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
@@ -106,8 +108,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- park-guell
 guiasRelacionadas:
   - "park-guell-que-entrada-elegir"
 ---

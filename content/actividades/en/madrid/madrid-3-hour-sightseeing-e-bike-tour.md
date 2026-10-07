@@ -108,7 +108,9 @@ opinionEditorial: 'This is the classic e-bike tour of Madrid on GetYourGuide: 4.
   Retiro segway option.
 
   '
-categoria: activo
+atraccionesRelacionadas:
+- tours-a-pie
+categoria: visitasGuiadas
 keywords:
 - ebike madrid
 - electric bike tour madrid
@@ -130,10 +132,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
-- debod
-- plaza-mayor
 ---
 
 ## What you'll see

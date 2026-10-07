@@ -52,7 +52,6 @@ politicaCancelacion: 'Según el proveedor, la reserva no es reembolsable: revisa
 opinionEditorial: 'Es el complemento de la ruta del centro histórico: aquí no hay Plaza Mayor ni Palacio Real, sino el Madrid de las avenidas, el Bernabéu y las tiendas de Serrano. Tiene sentido si ya conocéis el centro o si el fútbol es parte del viaje. La reserva no es reembolsable.'
 atraccionesRelacionadas:
 - tuk-tuk
-- bernabeu
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk bernabéu

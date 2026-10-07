@@ -92,7 +92,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "gastronomico"
+categoria: experienciasPrivadas
 keywords: ["private paella class madrid", "private cooking class madrid", "viator private paella", "exclusive paella workshop madrid", "private spanish cooking class"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"

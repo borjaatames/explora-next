@@ -70,6 +70,8 @@ preguntasFrecuentes:
 opinionEditorial: Ronda es la excursión clásica desde Málaga, y sumar Setenil, con sus casas metidas bajo la roca, la hace redonda. Precio muy bajo para lo que incluye y casi 9.000 reseñas.
 guiasRelacionadas:
 - escapadas-desde-malaga
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - excursion ronda desde malaga

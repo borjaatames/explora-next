@@ -73,7 +73,6 @@ opinionEditorial: Short on time in Seville? In two hours you see almost the whol
 guiasRelacionadas:
 - seville-with-kids
 atraccionesRelacionadas:
-- plaza-espana
 - tuk-tuk
 categoria: experienciasPrivadas
 keywords:

@@ -63,15 +63,17 @@ atracciones:
     imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
     imagenAlt: "Fachada exterior del estadio Santiago Bernabéu de Madrid tras la reforma"
 chipsFiltros:
-  - { label: "Museo del Prado", tag: "museo-prado" }
-  - { label: "Palacio Real", tag: "palacio-real" }
-  - { label: "Museo Reina Sofía", tag: "reina-sofia" }
-  - { label: "Tapas y vinos", tag: "tapas-madrid" }
   - { label: "Tuk-tuk", tag: "tuk-tuk" }
+  - { label: "Museo del Prado", tag: "museo-prado" }
+  - { label: "Reina Sofía y Thyssen", tag: "reina-sofia" }
+  - { label: "Palacio Real", tag: "palacio-real" }
+  - { label: "Fútbol (Bernabéu y Atlético)", tag: "futbol" }
   - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Estadio Bernabéu", tag: "bernabeu" }
+  - { label: "Tapas y vinos", tag: "tapas-madrid" }
   - { label: "Excursión a Toledo", tag: "toledo" }
-  - { label: "Excursiones de un día", tag: "excursiones-desde-madrid" }
+  - { label: "Otras excursiones", tag: "excursiones-desde-madrid" }
+  - { label: "Tours a pie y en bici", tag: "tours-a-pie" }
+  - { label: "Bus turístico y otros planes", tag: "otros-madrid" }
 ---
 
 Madrid es la capital de España y la ciudad más poblada del país: alrededor de **3,3 millones de habitantes** en el municipio y más de 6,7 millones en su área metropolitana. Es sede del Gobierno y las Cortes Generales, además del principal centro financiero, cultural y administrativo del país.

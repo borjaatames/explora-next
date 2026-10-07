@@ -62,6 +62,8 @@ preguntasFrecuentes:
 opinionEditorial: Es un plan de interior fácil y barato para las horas de calor o un día de lluvia, en pleno centro. No es imprescindible, pero los niños de 6 a 14 años se lo pasan en grande con las fotos imposibles.
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- familia
 categoria: entradas
 keywords:
 - museo de las ilusiones sevilla

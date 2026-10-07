@@ -72,6 +72,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Es el plan de Mallorca con mejor nota de los que encajan con niños, y no estaba en nuestra guía: lo hemos añadido. Funciona muy bien para familias con niños de 6 años en adelante que necesitan quemar energía, y es una buena alternativa a la playa en un día de calor suave.'
 guiasRelacionadas:
 - mallorca-con-ninos
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - forestal park mallorca

@@ -102,7 +102,9 @@ opinionEditorial: 'This is the most popular Reina Sofía guided tour on GetYourG
   maximum individual attention, the small-group or private format from the same operator is better.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- reina-sofia
+categoria: visitasGuiadas
 keywords:
 - reina sofia guided tour
 - guernica picasso tour
@@ -126,8 +128,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- reina-sofia
 ---
 
 ## What you'll see

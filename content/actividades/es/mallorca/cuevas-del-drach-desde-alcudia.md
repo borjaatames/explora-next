@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: Es la misma visita a las Cuevas del Drach que desde Palma, pero saliendo desde Alcúdia, que es donde recomendamos alojarse con niños. Te ahorras conducir de punta a punta de la isla y la entrada va sin colas. La parada en la fábrica de perlas sobra, pero es corta.
 guiasRelacionadas:
 - mallorca-con-ninos
+atraccionesRelacionadas:
+- cuevas-drach
 categoria: excursionesDia
 keywords:
 - cuevas del drach desde alcudia
@@ -88,8 +90,6 @@ galeria:
   alt: Sala de las Cuevas del Drach con agua turquesa
 ratingProveedor: 4.4
 numeroOpiniones: 616
-atraccionesRelacionadas:
-- cuevas-drach
 publicada: true
 destacada: false
 fecha: '2026-10-04'

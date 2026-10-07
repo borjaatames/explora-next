@@ -105,6 +105,8 @@ opinionEditorial: 'This visit sits on the middle rung of the catalogue: it costs
   that level of detail is welcome.
 
   '
+atraccionesRelacionadas:
+- alhambra
 categoria: visitasGuiadas
 keywords:
 - alhambra small group tour
@@ -144,8 +146,6 @@ numeroOpiniones: 8443
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-how-to-visit"
   - "alhambra-which-tour-to-choose"

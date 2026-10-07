@@ -98,7 +98,7 @@ opinionEditorial: 'Viator''s version of the Bernabéu guided tour, with 452 revi
   the cheapest option (box office is €30), and visitors during match windows without flexibility to change dates.
 
   '
-categoria: deportivo
+categoria: visitasGuiadas
 keywords:
 - bernabeu guided tour viator
 - real madrid stadium tour viator

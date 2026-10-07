@@ -49,6 +49,8 @@ opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado
   tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo
   y contexto. A 199 € por grupo es, además, de las opciones privadas más asequibles
   del catálogo.'
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: experienciasPrivadas
 keywords:
 - tour privado madrid judio

@@ -67,6 +67,8 @@ preguntasFrecuentes:
 opinionEditorial: Marineland is one of Mallorca's long-standing family plans, and young children love it. It is in the southwest, so it suits families based in or near Palma best. If your family prefers not to watch animal shows, Palma Aquarium is the alternative.
 guiasRelacionadas:
 - mallorca-with-kids
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - marineland mallorca tickets

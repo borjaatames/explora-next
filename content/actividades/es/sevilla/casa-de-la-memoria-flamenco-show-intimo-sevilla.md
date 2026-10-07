@@ -146,6 +146,8 @@ opinionEditorial: 'El **flamenco más íntimo y mejor valorado de Sevilla** — 
   marcado accesible), quien necesite reserva de última hora (likely to sell out, especialmente julio-agosto).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - casa de la memoria sevilla
@@ -165,8 +167,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-sevilla-que-tablao-elegir"
 ---

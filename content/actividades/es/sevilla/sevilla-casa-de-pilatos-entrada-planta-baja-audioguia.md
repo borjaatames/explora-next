@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **Para quién es:** amantes de la arquitectura civil renacentista, fotógrafos de patios y azulejería, fans de Star Wars/El Reino de los Cielos/Lawrence de Arabia, visitantes con interés en familias nobles españolas (Medinaceli, Casa de Alba), viajeros con 1.5-2 h libres en el centro. **Para quién NO:** visitantes con prisa (no le sacarás partido en menos de 45 min), personas en silla de ruedas con expectativa de accesibilidad total (es limitada), quien busque guía oficial en directo (es app móvil). **NOTA LUNES GRATIS:** si tu presupuesto es ajustado, ve lunes tarde (15:00-17:30) con DNI — la entrada es gratis y la audioguía sigue funcionando.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "entradas"
 keywords: ["casa de pilatos entrada", "casa pilatos sevilla", "palacio medinaceli sevilla", "casa pilatos lunes gratis", "casa pilatos tickets", "casa pilatos audioguia"]
 
@@ -119,7 +121,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

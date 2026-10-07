@@ -49,6 +49,8 @@ opinionEditorial: 'This is a niche tour, which is exactly why it works so well i
   of coexistence, tension, exile and a 20th-century return— so it deserves to be told
   with time and context. At €199 per group it is also one of the most affordable private
   options in the catalogue.'
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: experienciasPrivadas
 keywords:
 - jewish madrid private tour

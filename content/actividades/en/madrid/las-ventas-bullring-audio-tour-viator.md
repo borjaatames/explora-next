@@ -89,7 +89,7 @@ opinionEditorial: |
 
   Who it's for: travellers interested in neo-Mudéjar architecture and Madrid's historic heritage without engaging the bullfighting debate, those combining with a walk down Avenida de Alcalá to Retiro, bullfighting fans, international travellers needing audio guide in less common languages (the multi-language offer is broad). Who it's NOT for: travellers with ethical objections to bullfighting (the museum displays elements of the spectacle), families preferring more universal approaches (museums, parks), anyone visiting during San Isidro or Autumn Fair days with reduced hours, and those wanting a human guide (this is self-guided audio).
 
-categoria: "deportivo"
+categoria: entradas
 keywords: ["las ventas madrid", "madrid bullring", "las ventas tour", "viator las ventas", "taurine museum madrid"]
 
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-27215383406-hero.webp"

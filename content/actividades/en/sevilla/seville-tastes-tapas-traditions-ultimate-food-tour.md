@@ -96,6 +96,8 @@ opinionEditorial: |
 
   **Who it's for:** travellers who want a MORNING food activity (vs. evening tapas), foodies interested in market culture and Spanish breakfast traditions (churros, café con leche), visitors wanting BREADTH of tastings rather than a sit-down meal, anyone staying near Las Setas (meeting point is adjacent), guests of Devour Tours' premium positioning. **Who it's NOT for:** strict vegans (limited adaptations), severe celiacs (cross-contamination risk), wheelchair users (the route is not accessible), visitors looking for evening dinner experience (use Tapas Crawl instead), summer afternoon visitors (siesta hour reduces stops available). **EDITORIAL NOTE:** this is one of multiple EN-only food tours in Seville — Devour Tours operates exclusively in English globally. Spanish-speaking visitors looking for similar premium experiences should check Take Walks alternatives or book local cooking schools directly.
 
+atraccionesRelacionadas:
+- tapas-sevilla
 categoria: "toursGastronomicos"
 keywords: ["seville food tour", "devour seville", "tastes tapas traditions", "mercado encarnacion tour", "seville culinary tour", "ultimate food tour seville"]
 
@@ -110,7 +112,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

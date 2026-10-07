@@ -68,6 +68,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Gibraltar es una de las excursiones más curiosas desde Málaga: otro país a dos horas, con el Peñón y sus macacos. El precio es muy bajo porque solo incluye el transporte, así que es ideal si prefieres moverte por libre allí.'
 guiasRelacionadas:
 - escapadas-desde-malaga
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - excursion gibraltar desde malaga

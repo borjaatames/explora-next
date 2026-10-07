@@ -66,6 +66,8 @@ preguntasFrecuentes:
 opinionEditorial: Si ya has ido de pintxos, aprender a hacerlos es el siguiente paso. Grupo pequeño, buen ambiente y te llevas las recetas. Ten en cuenta que es en inglés.
 guiasRelacionadas:
 - pintxos-bilbao
+atraccionesRelacionadas:
+- gastronomia
 categoria: toursGastronomicos
 keywords:
 - clase cocina pintxos bilbao
@@ -87,8 +89,6 @@ galeria:
   alt: Copa de vino blanco
 ratingProveedor: 4.8
 numeroOpiniones: 70
-atraccionesRelacionadas:
-- gastronomia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

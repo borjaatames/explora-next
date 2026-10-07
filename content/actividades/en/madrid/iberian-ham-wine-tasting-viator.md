@@ -94,7 +94,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "gastronomico"
+categoria: entradas
 keywords: ["iberian ham tasting madrid", "viator ham wine madrid", "cured meats cheese wine madrid", "gourmet tasting madrid", "spanish ham tasting"]
 
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-26642593854-hero.webp"

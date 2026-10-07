@@ -72,7 +72,7 @@ opinionEditorial: 'Es la forma más barata de ver lo mejor de la costa de Gipuzk
 guiasRelacionadas:
 - escapadas-desde-bilbao
 atraccionesRelacionadas:
-- ria-miradores
+- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - excursion san sebastian desde bilbao

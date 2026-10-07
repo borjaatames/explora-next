@@ -92,6 +92,8 @@ opinionEditorial: 'This is the experience that takes you up one of the basilica'
   If what you want are the views from the Sagrada Familia, this is the experience that offers them.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - sagrada familia with towers
@@ -106,8 +108,6 @@ numeroOpiniones: 5518
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light

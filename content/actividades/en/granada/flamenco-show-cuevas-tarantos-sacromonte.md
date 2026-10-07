@@ -85,8 +85,6 @@ opinionEditorial: |
   For those after the cave with the most history and a tried-and-tested product, Los Tarantos. For maximum closeness to the artists, La Faraona. For good views of the Alhambra from the cave, Los Amayas. Three similar formats with different nuances — the choice depends on what you prioritise.
 
 atraccionesRelacionadas:
-- albaicin-sacromonte
-- sacromonte
 - flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "cuevas los tarantos", "zambra granada", "sacromonte cave flamenco"]

@@ -71,6 +71,8 @@ variantes:
 - excursion-toledo-segovia-alcazar
 - excursion-toledo-molinos-quijote
 opinionEditorial: 'Es la forma más completa de ver Toledo en un día desde Madrid sin preocuparte de nada: el bus, el guía y las tres entradas clave van incluidos. La Catedral sola ya justifica el viaje, y Santo Tomé con El Greco es imprescindible. Si buscas algo más rápido y en grupo pequeño, mira la opción en AVE.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - excursion toledo desde madrid
@@ -108,9 +110,6 @@ numeroOpiniones: 869
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 fecha_actualizacion: '2026-10-04'
 ---
 

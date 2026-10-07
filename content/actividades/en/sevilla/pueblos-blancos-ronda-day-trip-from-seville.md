@@ -141,6 +141,8 @@ opinionEditorial: 'The **most booked day trip from Seville** — 4,027 reviews a
   (extreme heat 40°C in the white villages).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - white villages from seville
@@ -165,7 +167,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

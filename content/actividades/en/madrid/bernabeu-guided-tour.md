@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Who it's for: Real Madrid fans who value the historical narrative with a human guide and radio guide, travellers who prefer explained context over wandering with panels. Who it's NOT for: travellers with reduced mobility (the operator explicitly marks it as not suitable), anyone needing to save (the self-guided ticket costs about €20 less) and anyone visiting on the eve of or the day of a match (you'll miss dressing rooms and benches without refund for that reason).
 
-categoria: "deportivo"
+atraccionesRelacionadas:
+- futbol
+categoria: visitasGuiadas
 keywords: ["bernabeu guided tour", "real madrid stadium guided", "bernabeu tour english guide", "santiago bernabeu guided english", "bernabeu stadium expert guide"]
 
 imagen: "/images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp"
@@ -122,8 +124,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "bernabeu"
 ---
 
 ## What you'll see

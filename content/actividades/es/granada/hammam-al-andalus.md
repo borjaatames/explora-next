@@ -88,10 +88,11 @@ opinionEditorial: |
 
   Pega: no es accesible para silla de ruedas (el Palacio Nazarí sí lo es), prohibido a embarazadas y a personas con hipertensión. Y se agota rápido — la distinción «Likely to sell out» y el grupo limitado a 6 hacen que en temporada alta haya que reservar con días/semanas de antelación.
 
+atraccionesRelacionadas:
+- hammam
 categoria: "serviciosAdicionales"
 keywords: ["hammam al andalus granada", "baños arabes alhambra", "hammam con masaje granada", "spa premium granada", "experiencia árabe granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
 imagenAlt: "Interior del Hammam Al Ándalus de Granada con piscinas y arcos árabes"

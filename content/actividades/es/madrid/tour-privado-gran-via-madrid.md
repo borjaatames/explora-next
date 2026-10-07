@@ -51,6 +51,8 @@ opinionEditorial: 'Es un formato muy distinto al de las visitas en grupo grande:
   calma. El precio es por grupo privado, no por persona: cuantos más seáis, más sale
   a cuenta, y para una pareja o una familia es una experiencia a medida más que una
   visita de masas.'
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: experienciasPrivadas
 keywords:
 - tour privado gran via madrid

@@ -88,10 +88,11 @@ opinionEditorial: |
 
   Catch: not wheelchair accessible (Palacio Nazarí is), and not recommended for pregnant women or people with high blood pressure. It also sells out quickly — the «Likely to sell out» distinction and the 6-person limit mean that in high season you need to book days or weeks ahead.
 
+atraccionesRelacionadas:
+- hammam
 categoria: "serviciosAdicionales"
 keywords: ["hammam al andalus granada", "alhambra arabic baths", "hammam with massage granada", "premium spa granada", "arabic experience granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
 imagenAlt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"

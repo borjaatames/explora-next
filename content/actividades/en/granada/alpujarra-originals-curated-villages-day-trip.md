@@ -87,6 +87,8 @@ opinionEditorial: 'The "premium" version of the Alpujarra day trip: the Original
   a tight budget, the standard tour delivers just as well and saves you €44 per person.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - alpujarra originals tour
@@ -94,7 +96,6 @@ keywords:
 - alpujarra small group
 - discovering spain alpujarra
 - curated white villages tour
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp"
 imagenAlt: White villages cascading down Alpujarra mountain slopes with traditional cubic Andalusian architecture near Granada
 galeria:

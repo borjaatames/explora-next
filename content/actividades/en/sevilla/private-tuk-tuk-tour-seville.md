@@ -70,7 +70,6 @@ opinionEditorial: With small kids or on hot days, this is the easiest way to see
 guiasRelacionadas:
 - seville-with-kids
 atraccionesRelacionadas:
-- plaza-espana
 - tuk-tuk
 categoria: experienciasPrivadas
 keywords:

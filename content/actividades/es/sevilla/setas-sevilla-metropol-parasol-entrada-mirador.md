@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **NOTA SOBRE EL MUSEO ANTIQUARIUM** (5 m bajo el suelo, restos romanos del s. I d.C.): NO incluido en este ticket. Es entrada aparte (~2 € en taquilla) y merece la pena si te interesa la arqueología romana — mosaicos, casas almohades superpuestas, contexto histórico de Sevilla antes del islam. Combina perfecto con la visita al mirador en la misma mañana.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "entradas"
 keywords: ["setas sevilla entrada", "metropol parasol entrada", "setas sevilla mirador", "las setas sevilla precio", "aurora setas sevilla", "feeling sevilla entrada"]
 
@@ -118,7 +120,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

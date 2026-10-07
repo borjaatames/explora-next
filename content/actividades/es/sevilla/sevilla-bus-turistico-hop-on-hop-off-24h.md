@@ -116,6 +116,8 @@ opinionEditorial: |
 
   **Para quién es:** primerizos con **2-3 días** que quieran orientarse + cubrir zonas alejadas, visitantes **multilingües** (árabe, chino, japonés, neerlandés — únicos donde encuentras audioguía), familias con **niños pequeños o mayores** que no caminan mucho, usuarios de **silla de ruedas** que quieran ver Sevilla cómodamente, **grupos grandes** con presupuesto ajustado (más barato que tour guiado privado). **Para quién NO:** visitantes con 1 día que prefieran caminar (más eficiente), turistas que solo quieran monumentos UNESCO (mejor reservar tours específicos), quien busque experiencia auténtica e íntima (este es turismo masivo), visitantes con presupuesto MUY ajustado (caminar es gratis).
 
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: "transporte"
 keywords: ["bus turistico sevilla", "hop on hop off sevilla", "city sightseeing sevilla", "bus 24h sevilla audioguia", "bus turistico sevilla 48h"]
 
@@ -135,7 +137,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

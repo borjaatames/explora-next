@@ -29,9 +29,9 @@ atracciones:
     descripcion: "Von der Playa de Palma bis zu den unberührten Buchten im Osten und Süden (Es Trenc, Cala Mondragó): die vielfältigste Strandauswahl der Balearen."
 chipsFiltros:
   - { label: "Drachenhöhlen", tag: "cuevas-drach" }
-  - { label: "Serra de Tramuntana", tag: "tramuntana" }
-  - { label: "Dörfer", tag: "pueblos" }
-  - { label: "Buchten und Strände", tag: "calas-playas" }
+  - { label: "Tramuntana und Sóller", tag: "tramuntana" }
+  - { label: "Buchten und Bootsfahrten", tag: "calas-playas" }
+  - { label: "Parks und Familienausflüge", tag: "parques" }
 ---
 
 Mallorca ist die größte der Balearen-Inseln und eines der großen Reiseziele am Mittelmeer, mit dem lebendigen Palma als Hauptstadt – etwas mehr als 400.000 Einwohner. Die Insel ist weit mehr als Sonne und Strand: Sie vereint traumhafte Buchten mit einer zum Weltkulturerbe erklärten Bergkette.

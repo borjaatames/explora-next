@@ -66,6 +66,8 @@ opinionEditorial: 'Es el plan comodín de Mallorca con niños: funciona a cualqu
 guiasRelacionadas:
 - mallorca-con-ninos
 - que-ver-en-mallorca
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - palma aquarium entradas

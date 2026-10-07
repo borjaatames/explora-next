@@ -97,7 +97,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - barrio-gotico
-categoria: "cultural"
+categoria: experienciasPrivadas
 keywords: ["tour catedral barcelona terraza", "tour privado catedral barcelona", "terrazas catedral barcelona", "visita guiada catedral barcelona", "tour privado barri gotic"]
 
 imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"

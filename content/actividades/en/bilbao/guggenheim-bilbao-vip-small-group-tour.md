@@ -72,6 +72,8 @@ preguntasFrecuentes:
 opinionEditorial: This is the one if you want the Guggenheim with a guide in English, or you hate big groups. It costs twice the standard tour, but with 4-8 people it's almost private.
 guiasRelacionadas:
 - guggenheim-museum-how-to-visit
+atraccionesRelacionadas:
+- guggenheim
 categoria: visitasGuiadas
 keywords:
 - guggenheim vip tour
@@ -93,8 +95,6 @@ galeria:
   alt: The Guggenheim lit up at night
 ratingProveedor: 4.5
 numeroOpiniones: 763
-atraccionesRelacionadas:
-- guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-04'

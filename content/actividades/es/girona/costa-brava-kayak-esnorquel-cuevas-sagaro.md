@@ -79,6 +79,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Es la mejor forma de ver la Costa Brava como se ve en las postales: desde el agua, entrando en cuevas y calas que no tienen acceso por tierra. Con casi 1.400 reseñas y un 4,7, los guías son lo que más se repite en los comentarios. Si te alojas en Girona, es el plan de medio día perfecto para combinar con una comida en Sant Feliu o en Calella.'
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
+atraccionesRelacionadas:
+- costa-brava
 categoria: visitasGuiadas
 keywords:
 - kayak costa brava
@@ -99,8 +101,6 @@ galeria:
   alt: Bahía y puerto de Sant Feliu de Guíxols
 ratingProveedor: 4.7
 numeroOpiniones: 1393
-atraccionesRelacionadas:
-- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

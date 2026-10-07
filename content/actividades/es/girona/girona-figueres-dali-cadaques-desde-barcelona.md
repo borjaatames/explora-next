@@ -74,6 +74,8 @@ opinionEditorial: 'Es la excursión que mejor resume la Costa Brava daliniana: l
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 - que-ver-en-girona-en-un-dia
+atraccionesRelacionadas:
+- dali-figueres
 categoria: excursionesDia
 keywords:
 - excursion girona figueres cadaques
@@ -96,11 +98,6 @@ galeria:
   alt: Costa rocosa junto a Cadaqués
 ratingProveedor: 4.7
 numeroOpiniones: 2352
-atraccionesRelacionadas:
-- dali-figueres
-- costa-brava
-- casco-medieval
-- catedral
 publicada: true
 destacada: false
 fecha: '2026-10-04'

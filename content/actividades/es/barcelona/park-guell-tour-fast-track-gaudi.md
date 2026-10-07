@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Para quién: viajeros que quieran el Park Güell con contexto histórico sólido y máxima fiabilidad de operador (5.637 reseñas no se discuten), viajeros monolingües que prefieren toda la explicación en su idioma (sin bilingüe simultáneo) y familias que aprovechen el guía para que los niños no se cansen del «otro monumento de Gaudí». Para quién NO: viajeros con movilidad muy reducida (el itinerario estándar tiene escaleras y cuestas — mira el adaptado oficial del parque), quien busque solo entrada barata (el ticket simple a unos 18 € es la opción) y quien viaje en verano al mediodía sin agua ni gorra: el parque es muy expuesto.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell tour guiado", "park guell entrada fast track", "park guell gaudi tour", "park guell visita guiada barcelona", "park guell skip the line"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp"

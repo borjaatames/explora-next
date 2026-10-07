@@ -71,6 +71,8 @@ variantes:
 - toledo-segovia-avila-from-madrid
 - toledo-full-day-from-madrid
 opinionEditorial: 'The most booked two-city day trip from Madrid and the best value for what it includes: two cities and Alcázar entry for less than going on your own. The day is long (12 hours) and the pace brisk, but if you only have one free day it is the most efficient way to see Segovia and Toledo.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - toledo and segovia day trip
@@ -114,9 +116,6 @@ numeroOpiniones: 10421
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 fecha_actualizacion: '2026-10-04'
 ---
 

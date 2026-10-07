@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: This is Seville's number-one plan with young kids, and the Agua Mágica option saves it in summer. It isn't a world-class theme park, but for kids aged 4 to 11 it's a great day. Booking online is cheaper than the ticket office.
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- familia
 categoria: entradas
 keywords:
 - isla magica tickets

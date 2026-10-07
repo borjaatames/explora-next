@@ -95,6 +95,8 @@ opinionEditorial: |
 
   Worth knowing: doesn't include rack railway (if you want it, see other options). And the extra variants (Moreneta, choir, winery) have day and time restrictions — check availability on your date before booking.
 
+atraccionesRelacionadas:
+- montserrat
 categoria: "excursionesDia"
 keywords: ["montserrat half day", "montserrat early access", "barcelona local experiences", "montserrat 4 options tour"]
 
@@ -120,8 +122,6 @@ numeroOpiniones: 6372
 publicada: true
 destacada: false
 fecha: "2026-05-15"
-atraccionesRelacionadas:
-  - "montserrat"
 bokunProductId: 866982
 fecha_actualizacion: '2026-06-18'
 guiasRelacionadas:

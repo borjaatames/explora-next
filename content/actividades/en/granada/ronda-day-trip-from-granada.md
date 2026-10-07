@@ -98,6 +98,8 @@ opinionEditorial: 'Ronda is one of the most photogenic destinations in Andalusia
   rural). Book a few days in advance.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - ronda from granada
@@ -105,7 +107,6 @@ keywords:
 - ronda gorge day trip
 - ronda full day
 - ronda andalusia day trip
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp"
 imagenAlt: Puente Nuevo spanning dramatic Tajo gorge with limestone cliffs in Ronda
 galeria:

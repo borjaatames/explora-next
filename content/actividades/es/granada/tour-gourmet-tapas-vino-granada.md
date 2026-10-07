@@ -83,10 +83,11 @@ opinionEditorial: |
 
   Producto nuevo en GYG (1.263.762 ID, sin reseñas aún) operado de forma profesional con soporte WhatsApp en directo y PDF entregable. La selección de 5 zonas (Carlos Cano, Reyes Católicos, Bib-Rambla, Elvira, Santa Ana) cubre las áreas de tapeo más conocidas. Perfecta intro al tapeo granadino sin gastar más.
 
+atraccionesRelacionadas:
+- otros-granada
 categoria: "toursGastronomicos"
 keywords: ["tour tapas granada", "tapas vino granada", "tour gourmet granada", "autoguiado tapas granada", "ruta tapas granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
 imagenAlt: "Tapa tradicional granadina con copa de vino en bar del centro"

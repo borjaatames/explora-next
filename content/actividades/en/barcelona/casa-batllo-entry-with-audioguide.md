@@ -124,7 +124,9 @@ opinionEditorial: 'The flagship Casa Batlló ticket — official, sold directly 
   budget (the basic ticket at €31 is significantly more than Park Güell''s €23 — Casa Batlló is genuinely more expensive).
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords:
 - casa batllo ticket
 - casa batllo audioguia
@@ -150,8 +152,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## What you'll see

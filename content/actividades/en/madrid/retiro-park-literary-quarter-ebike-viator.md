@@ -103,7 +103,7 @@ opinionEditorial: 'Viator e-bike tour combining Retiro Park and Barrio de las Le
   with little time (3h is a long block), and those who only want Retiro (better a Retiro-specific tour).
 
   '
-categoria: activo
+categoria: visitasGuiadas
 keywords:
 - ebike retiro letters madrid
 - literary quarter ebike madrid

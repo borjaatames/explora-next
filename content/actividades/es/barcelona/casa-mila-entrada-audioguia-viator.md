@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Para quién es: usuarios existentes de Viator, viajeros que prefieran la UX de Viator, cualquiera que valore la Garantía del Precio Más Bajo y entusiastas del modernismo (la calidad de la audioguía sobre el Espai Gaudí del desván se elogia consistentemente). Para quién NO: viajeros maximizando ahorro (reserva el oficial `lapedrera.com` a 25 €), usuarios de GYG (el mismo ticket en GYG tiene 18× más volumen de reseñas — mismo precio, más validación), viajeros que quieran narración en directo (reserva t913306 Acceso Temprano Guiado) y visitantes con incertidumbre por lluvia (la terraza cierra, sin reembolso — cierto en todos los canales).
 
-categoria: "cultural"
+categoria: entradas
 keywords: ["casa mila viator audio", "la pedrera viator ticket", "casa mila fundacio catalunya la pedrera", "la pedrera audioguia viator", "casa mila sin colas viator"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp"

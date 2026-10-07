@@ -104,6 +104,8 @@ opinionEditorial: 'La variante de Castlexperience en GetYourGuide y la más comp
   íntimo, mira [In Out con recogida en hotel](/ciudades/barcelona/actividades/montserrat-grupo-pequeno-recogida-hotel).
 
   '
+atraccionesRelacionadas:
+- montserrat
 categoria: excursionesDia
 keywords:
 - montserrat cremallera bodega
@@ -138,8 +140,6 @@ numeroOpiniones: 6154
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- montserrat
 guiasRelacionadas:
   - "montserrat-que-excursion-elegir"
 ---

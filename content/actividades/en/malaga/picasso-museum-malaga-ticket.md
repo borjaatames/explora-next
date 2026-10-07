@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: 'This is Málaga''s essential cultural visit: Picasso in his home town, in a beautiful palace, without booking weeks ahead. With almost 14,000 reviews it''s the city''s most-reviewed activity. Book a time slot in high season to avoid queues.'
 guiasRelacionadas:
 - malaga-in-two-days
+atraccionesRelacionadas:
+- picasso
 categoria: entradas
 keywords:
 - picasso museum malaga tickets
@@ -90,9 +92,6 @@ galeria:
   alt: Málaga Cathedral façade, a few steps from the museum
 ratingProveedor: 4.5
 numeroOpiniones: 13842
-atraccionesRelacionadas:
-- picasso
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

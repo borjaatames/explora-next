@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: 'Es la ficha más corta del catálogo (1h30) y tiene sentido: el casco antiguo de Girona, con el Call y la Rambla de la Llibertat, se recorre bien en poco tiempo. Buena opción si vas de paso camino a otro destino o si combinas el tour con tiempo libre para tapear. No esperes un recorrido exhaustivo por toda la ciudad.'
+atraccionesRelacionadas:
+- casco-medieval
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado girona

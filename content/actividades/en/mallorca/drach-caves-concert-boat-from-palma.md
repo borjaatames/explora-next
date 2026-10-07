@@ -73,6 +73,8 @@ opinionEditorial: 'The Drach Caves are the most magical plan in Mallorca with ki
 guiasRelacionadas:
 - mallorca-with-kids
 - what-to-see-in-mallorca
+atraccionesRelacionadas:
+- cuevas-drach
 categoria: excursionesDia
 keywords:
 - drach caves tickets
@@ -95,8 +97,6 @@ galeria:
   alt: Chamber of the Drach Caves with turquoise water
 ratingProveedor: 4.4
 numeroOpiniones: 1489
-atraccionesRelacionadas:
-- cuevas-drach
 publicada: true
 destacada: false
 fecha: '2026-10-04'

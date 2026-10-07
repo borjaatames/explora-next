@@ -72,6 +72,8 @@ preguntasFrecuentes:
 opinionEditorial: 'This is the highest-rated family-friendly plan in Mallorca, and it was missing from our guide: we have added it. It works very well for families with active children aged around 6 and up who need to burn off energy, and it is a good alternative to the beach on a warm day.'
 guiasRelacionadas:
 - mallorca-with-kids
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - forestal park mallorca

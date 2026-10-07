@@ -131,6 +131,8 @@ opinionEditorial: 'The **shortest and most affordable excursion from Seville** â
   CÃ³rdoba or Granada).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - italica from seville
@@ -158,7 +160,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

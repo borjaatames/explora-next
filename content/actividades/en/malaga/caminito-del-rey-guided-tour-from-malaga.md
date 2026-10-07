@@ -75,6 +75,8 @@ opinionEditorial: Caminito del Rey tickets sell out and getting there without a 
 guiasRelacionadas:
 - caminito-del-rey-how-to-visit
 - day-trips-from-malaga
+atraccionesRelacionadas:
+- caminito-del-rey
 categoria: excursionesDia
 keywords:
 - caminito del rey from malaga
@@ -94,8 +96,6 @@ galeria:
   alt: Gaitanes gorge seen from the Caminito
 ratingProveedor: 4.9
 numeroOpiniones: 19083
-atraccionesRelacionadas:
-- caminito-del-rey
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -83,10 +83,11 @@ opinionEditorial: |
 
   The €36 price is fair: Cathedral entry is €6, Royal Chapel entry is €6-8, so the guide and the extra route add up to around €22. It's not the cheapest option, but the "Value for money" in reviews is 4.6 / 5 — enough to be considered reasonable. If your priority is just getting in (no guide), individual tickets are cheaper; but if you want to understand what you're seeing, this is the direct route. For a complete trip to Granada, pair this tour (morning) with a visit to the Alhambra (afternoon or next day) to cover the city's two historical poles.
 
+atraccionesRelacionadas:
+- catedral
 categoria: "visitasGuiadas"
 keywords: ["granada cathedral", "granada royal chapel", "catholic monarchs granada", "granada cathedral tour", "granada centre guided tour"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp"
 imagenAlt: "Facade of the Royal Chapel and Cathedral of Granada"

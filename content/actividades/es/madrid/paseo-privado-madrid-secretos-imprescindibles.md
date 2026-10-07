@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 4
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: Un free tour hace una ruta parecida por mucho menos dinero; lo que paga esta versión es tener al guía para tu grupo, empezar en tu hotel y poder preguntar todo lo que quieras. Compensa sobre todo en familia o en grupo. Mínimo 2 personas por reserva.
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: visitasGuiadas
 keywords:
 - tour privado madrid a pie

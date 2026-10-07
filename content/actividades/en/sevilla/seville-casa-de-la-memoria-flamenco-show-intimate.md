@@ -145,6 +145,8 @@ opinionEditorial: 'The **most intimate and highest-rated flamenco in Seville** â
   booking (likely to sell out, especially July-August).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - casa de la memoria seville
@@ -164,8 +166,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-seville-which-tablao-to-choose"
 ---

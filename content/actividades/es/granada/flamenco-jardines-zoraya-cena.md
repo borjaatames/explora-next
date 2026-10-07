@@ -90,7 +90,6 @@ opinionEditorial: |
   A 54 € es la opción más cara del catálogo de espectáculos. El precio se justifica si valoras la comodidad de un único sitio (cena + show) y la posibilidad de no buscar mesa después por el Albayzín de noche. Si solo quieres el espectáculo flamenco, la opción sin cena en el mismo tablao (19 €) ofrece la misma calidad artística por una tercera parte del precio. Para quien busque el plan completo "noche de flamenco en el Albayzín con cena cerrada", esta es la elección directa.
 
 atraccionesRelacionadas:
-- albaicin-sacromonte
 - flamenco
 categoria: "espectaculos"
 keywords: ["flamenco con cena granada", "cena espectaculo flamenco albayzin", "jardines zoraya cena", "flamenco con cena albayzin", "menu flamenco granada"]

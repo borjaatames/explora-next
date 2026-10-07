@@ -52,6 +52,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
 opinionEditorial: "Es la opción ideal si quieres moverte por Madrid a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
+atraccionesRelacionadas:
+- otros-madrid
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado madrid

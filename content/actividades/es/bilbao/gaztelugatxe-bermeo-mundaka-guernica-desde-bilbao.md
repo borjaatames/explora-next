@@ -72,6 +72,8 @@ opinionEditorial: 'Es la excursión más completa desde Bilbao: Gaztelugatxe con
 guiasRelacionadas:
 - escapadas-desde-bilbao
 - bilbao-en-un-dia
+atraccionesRelacionadas:
+- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - excursion gaztelugatxe desde bilbao
@@ -95,8 +97,6 @@ galeria:
   alt: Vista de San Juan de Gaztelugatxe desde la costa
 ratingProveedor: 4.7
 numeroOpiniones: 3229
-atraccionesRelacionadas:
-- gaztelugatxe
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -67,6 +67,8 @@ opinionEditorial: 'For the price, it''s one of Málaga''s best plans: the city, 
 guiasRelacionadas:
 - malaga-in-two-days
 - malaga-with-kids
+atraccionesRelacionadas:
+- barco
 categoria: excursionesDia
 keywords:
 - malaga catamaran

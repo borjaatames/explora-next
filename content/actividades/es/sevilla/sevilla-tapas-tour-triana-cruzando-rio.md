@@ -99,6 +99,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes hispanohablantes que quieran un tapas tour de calidad (la mayoría de tours en GYG son EN-only), parejas y grupos pequeños que prioricen experiencia personal, foodies que busquen autenticidad sobre cantidad, viajeros con interés en Triana como barrio (no solo como «zona cerca del centro»). **Para quién NO:** veganos/celíacos severos (las adaptaciones son limitadas), familias con niños menores de 12 (edad mínima 12), presupuestos muy ajustados (con 30 € se come bien por libre en Triana), visitantes en silla de ruedas (Triana tiene calles empedradas con barreras).
 
+atraccionesRelacionadas:
+- tapas-sevilla
 categoria: "toursGastronomicos"
 keywords: ["tapas tour triana sevilla", "tour tapas sevilla español", "tapas tour sevilla grupo reducido", "mercado triana tour", "tapas auténticas sevilla", "sevilla food tour spanish"]
 
@@ -116,8 +118,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- tapas-sevilla
 ---
 
 ## Qué vas a ver

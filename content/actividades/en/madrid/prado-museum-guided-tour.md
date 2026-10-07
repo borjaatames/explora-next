@@ -80,6 +80,8 @@ opinionEditorial: |
   to two hours with someone who explains why they matter. If you only want
   to see two or three specific paintings, the official entry ticket is enough.
 
+atraccionesRelacionadas:
+- museo-prado
 categoria: "visitasGuiadas"
 keywords: ["prado museum guided tour", "prado tour madrid", "prado museum with guide", "velazquez goya prado", "prado ticket and guide"]
 
@@ -109,8 +111,6 @@ destacada: true
 fecha: "2026-10-03"
 fecha_actualizacion: "2026-10-03"
 variantes: ["prado-museum-entry-ticket"]
-atraccionesRelacionadas:
-  - "museo-prado"
 ---
 
 ## What you will see

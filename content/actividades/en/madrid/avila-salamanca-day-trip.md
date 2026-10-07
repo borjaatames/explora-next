@@ -94,6 +94,8 @@ opinionEditorial: 'This is the right pick if you want to add Salamanca to your t
   carefully which version you book. And, like any long trip with cobbled streets, it is not for reduced mobility.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - avila and salamanca day trip from madrid
@@ -137,8 +139,6 @@ numeroOpiniones: 579
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## What you'll see

@@ -101,6 +101,8 @@ opinionEditorial: 'The Castlexperience variant on GetYourGuide and the most comp
   Out with hotel pickup](/en/cities/barcelona/activities/montserrat-small-group-hotel-pickup).
 
   '
+atraccionesRelacionadas:
+- montserrat
 categoria: excursionesDia
 keywords:
 - montserrat rack railway winery
@@ -135,8 +137,6 @@ numeroOpiniones: 6154
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- montserrat
 guiasRelacionadas:
   - "montserrat-which-excursion-to-choose"
 ---

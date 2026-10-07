@@ -89,6 +89,8 @@ opinionEditorial: 'This is the right pick if you want a getaway from Madrid that
   is an issue, skip it: the Enchanted City is walked along uneven natural paths.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - cuenca day trip from madrid
@@ -124,8 +126,6 @@ numeroOpiniones: 561
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## What you'll see

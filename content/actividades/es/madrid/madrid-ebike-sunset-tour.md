@@ -108,7 +108,7 @@ opinionEditorial: 'Tour de e-bike al atardecer operado por Wonder Tours (Calle d
   niños pequeños, y quien viaje en invierno y prefiera tours diurnos.
 
   '
-categoria: activo
+categoria: visitasGuiadas
 keywords:
 - ebike sunset madrid
 - tour atardecer bici madrid

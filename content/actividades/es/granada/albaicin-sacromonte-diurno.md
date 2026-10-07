@@ -90,11 +90,11 @@ opinionEditorial: |
 
   El precio de 18 € por persona es la entrada en gama media — más barato que tour privado, similar al de atardecer. Para quien viaja con personas mayores que no quieran caminar de noche, o con niños que prefieren cubrir el barrio durante el día, esta versión cumple. La duración (2-2,5 horas) y las cuestas obligan a calzado cómodo, agua y crema solar en verano — el Albaicín en julio-agosto al mediodía es duro. Mejor reservar la primera franja de la mañana en temporada cálida.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
 categoria: "visitasGuiadas"
 keywords: ["tour albaicin granada", "tour sacromonte granada", "guia albaicin diurno", "albaicin sacromonte a pie", "tour granada albaicin"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
 
 imagen: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
 imagenAlt: "Mirador de San Nicolás del Albaicín de Granada con vistas a la Alhambra de día"

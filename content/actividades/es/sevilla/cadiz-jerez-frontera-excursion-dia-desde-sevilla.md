@@ -138,6 +138,8 @@ opinionEditorial: 'Excursión combinada a **Cádiz** (ciudad más antigua de Occ
   flamenco sevillano clásico vs. bulerías jerezanas.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - excursion cadiz desde sevilla
@@ -164,7 +166,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

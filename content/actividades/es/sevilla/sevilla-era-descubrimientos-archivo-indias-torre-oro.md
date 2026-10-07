@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **Para quién es:** primerizos en Sevilla con interés en historia, fans del «siglo de oro» español, curiosos de historia naval (Lepanto, Trafalgar, galeones), visitantes que quieran entender por qué Sevilla fue capital del Imperio, viajeros de habla inglesa que necesiten guía oficial. **Para quién NO:** historiadores expertos del s. XVI (el tour es introductorio), visitantes en silla de ruedas (algunos puntos NO son accesibles), familias con niños menores de 10 sin paciencia, presupuestos muy ajustados (los monumentos son visitables por libre por <5 €). **NOTA UNESCO:** el Archivo de Indias es uno de los 4 sitios UNESCO de Sevilla (junto a Catedral, Giralda y Real Alcázar) — y el menos visitado paradójicamente. Este tour le da el contexto que merece.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "visitasGuiadas"
 keywords: ["archivo indias tour", "torre del oro entrada", "sevilla siglo xvi tour", "era descubrimientos sevilla", "casa contratacion sevilla", "imperio español sevilla tour"]
 
@@ -118,7 +120,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

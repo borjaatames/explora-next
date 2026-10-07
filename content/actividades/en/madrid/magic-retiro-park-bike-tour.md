@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Who it's for: travellers wanting to see Retiro thoroughly in 2 hours (a complete route is hard to do walking in such short time), families with kids over 10 with cycling experience (the traffic-free park adds safety), and French speakers (with the day limitation). Who it's NOT for: people who've never ridden a bike (no learning here), travellers with reduced mobility (not wheelchair suitable — better walk the park), and anyone needing arrival flexibility (the operator is strict on the 15 min).
 
-categoria: "activo"
+atraccionesRelacionadas:
+- tours-a-pie
+categoria: visitasGuiadas
 keywords: ["retiro bike tour", "retiro park bike tour madrid", "ebike retiro park", "magic retiro madrid", "park retiro cycling tour"]
 
 imagen: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
@@ -107,8 +109,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "retiro"
 ---
 
 ## What you'll see

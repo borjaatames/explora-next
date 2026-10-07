@@ -93,7 +93,9 @@ opinionEditorial: |
 
   Para quién es: viajeros que valoren la interacción de grupo reducido con el guía, cualquiera que prefiera un operador consolidado con buen historial (reputación de Tours For Today en varios productos de Barcelona), visitantes que quieran guía en italiano o francés (cubiertos aquí) y visitantes hispanohablantes (el español está soportado, a diferencia de algunos otros productos Picasso en GYG). Para quién NO: viajeros que necesiten recogida en hotel (reserva t381019), hablantes de japonés o alemán (esos idiomas solo están en t381019) y viajeros con presupuesto ajustado cerca del museo (compra directa a 12 €).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- picasso
+categoria: visitasGuiadas
 keywords: ["museo picasso grupo reducido", "tours for today picasso barcelona", "museo picasso tour sin cola", "barcelona museo picasso guiado", "visita museu picasso"]
 
 imagen: "/images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp"
@@ -110,7 +112,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

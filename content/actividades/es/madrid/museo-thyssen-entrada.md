@@ -79,6 +79,8 @@ opinionEditorial: |
   te gusta el impresionismo o el arte moderno, este es el tuyo. La
   audioguía incluida compensa frente a comprar en taquilla.
 
+atraccionesRelacionadas:
+- reina-sofia
 categoria: "entradas"
 keywords: ["entrada museo thyssen", "entradas thyssen madrid", "museo thyssen bornemisza", "thyssen audioguia", "comprar entrada thyssen"]
 
@@ -105,8 +107,6 @@ publicada: true
 destacada: true
 fecha: "2026-10-04"
 fecha_actualizacion: "2026-10-04"
-atraccionesRelacionadas:
-  - "museo-thyssen"
 ---
 
 ## Qué vas a ver

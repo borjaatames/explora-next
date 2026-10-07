@@ -67,6 +67,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Si tienes poco tiempo en Málaga, esta visita te resuelve la mañana: los tres monumentos imprescindibles, con entradas y un guía oficial. Sale más a cuenta que comprar las tres entradas y un guía por separado.'
 guiasRelacionadas:
 - malaga-en-dos-dias
+atraccionesRelacionadas:
+- alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:
 - tour malaga catedral alcazaba
@@ -90,9 +92,6 @@ galeria:
   alt: Vista del puerto de Málaga desde la Alcazaba
 ratingProveedor: 4.6
 numeroOpiniones: 1134
-atraccionesRelacionadas:
-- alcazaba-gibralfaro
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

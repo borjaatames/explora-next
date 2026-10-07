@@ -121,7 +121,7 @@ opinionEditorial: 'Viator''s open-date Camp Nou Museum ticket — 1,319 reviews 
   show people who didn''t read).
 
   '
-categoria: cultural
+categoria: entradas
 keywords:
 - camp nou museum viator
 - barca immersive viator

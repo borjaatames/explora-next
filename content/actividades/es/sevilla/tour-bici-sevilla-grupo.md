@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Sevilla es de las mejores ciudades de España para ver en bici: llana, con carril bici y monumentos cerca unos de otros. Con casi 1.600 reseñas y un 4,9, es de los tours mejor valorados de la ciudad. Para familias con niños que ya pedalean bien.'
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: visitasGuiadas
 keywords:
 - tour bici sevilla
@@ -90,9 +92,6 @@ galeria:
   alt: Grupo de amigas en bici por una calle con encanto
 ratingProveedor: 4.9
 numeroOpiniones: 1585
-atraccionesRelacionadas:
-- plaza-espana
-- real-alcazar
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -96,7 +96,9 @@ opinionEditorial: |
 
   Who it's for: couples wanting an atmospheric date night, photographers (dramatic night lighting + rooftop projections = exceptional photos), Gaudí enthusiasts doing a second Casa Milà visit (after the daytime audio), and travellers comparing Casa Milà and Casa Batlló night experiences (this one is cheaper and more architectural than Casa Batlló's live-music format). Who it's NOT for: travellers expecting full live narration (book t913306 Early-Morning), music-sensitive visitors (audio shows are amplified), anyone wanting dinner (only cava), and kids under 8 (operator's minimum age guidance).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa mila night experience", "la pedrera de noche", "casa mila tour nocturno", "la pedrera rooftop projections", "casa mila cava"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
@@ -117,7 +119,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

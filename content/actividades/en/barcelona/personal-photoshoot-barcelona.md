@@ -47,6 +47,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
 opinionEditorial: "With 104 reviews behind it, this is the most established of this provider's three Barcelona sessions. The flexibility to pick your backdrop — Sagrada Familia, Gothic Quarter or Park Güell — is its strength, but agree it with the photographer when you book, since it isn't fixed in advance."
+atraccionesRelacionadas:
+- fotos
 categoria: experienciasPrivadas
 keywords:
 - personal photoshoot barcelona

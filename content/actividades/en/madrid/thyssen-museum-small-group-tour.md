@@ -76,6 +76,8 @@ opinionEditorial: |
   give you. If you prefer to go at your own pace, the entry ticket with audio
   guide costs a third of the price.
 
+atraccionesRelacionadas:
+- reina-sofia
 categoria: "visitasGuiadas"
 keywords: ["thyssen museum guided tour", "thyssen small group tour", "thyssen-bornemisza tour madrid", "thyssen museum tour english", "madrid art museum tour"]
 
@@ -103,8 +105,6 @@ destacada: true
 fecha: "2026-10-04"
 fecha_actualizacion: "2026-10-04"
 variantes: ["thyssen-museum-entry-ticket"]
-atraccionesRelacionadas:
-  - "museo-thyssen"
 ---
 
 ## What you will see

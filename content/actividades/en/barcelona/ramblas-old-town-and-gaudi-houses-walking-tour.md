@@ -98,7 +98,9 @@ opinionEditorial: |
 
   Who it's for: English-speaking visitors with limited time who want both medieval Barcelona AND Gaudí highlights in one tour, first-time visitors wanting a city overview, travellers who plan to enter Casa Batlló or Casa Milà later (this tour gives context), and anyone wanting a "top rated" operator with social proof. Who it's NOT for: Spanish-speaking travellers (book t61664 instead), travellers expecting Gaudí house interiors (book those separately), and visitors with strict wheelchair needs (cobblestones).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- barrio-gotico
+categoria: visitasGuiadas
 keywords: ["barcelona ramblas walking tour", "old town gaudi walking tour barcelona", "barcelona top rated walking tour", "passeig de gracia walking tour", "barcelona gothic quarter english tour"]
 
 imagen: "/images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp"
@@ -115,7 +117,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

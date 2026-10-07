@@ -71,6 +71,8 @@ variantes:
 - toledo-and-segovia-with-alcazar-from-madrid
 - toledo-and-don-quixote-windmills-from-madrid
 opinionEditorial: 'The most complete way to see Toledo in a day from Madrid without arranging anything: coach, guide and the three key tickets are all included. The Cathedral alone is worth the trip, and El Greco at Santo Tomé is a must. If you want something faster in a small group, see the high-speed train option.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - toledo full day tour
@@ -108,9 +110,6 @@ numeroOpiniones: 869
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 fecha_actualizacion: '2026-10-04'
 ---
 

@@ -68,6 +68,8 @@ opinionEditorial: 'Es el paseo en barco más reseñado del suroeste de Mallorca 
 guiasRelacionadas:
 - mallorca-con-ninos
 - mejores-calas-mallorca
+atraccionesRelacionadas:
+- calas-playas
 categoria: excursionesDia
 keywords:
 - barco fondo de cristal mallorca
@@ -96,8 +98,6 @@ galeria:
   alt: Paguera con sus hoteles y montañas al fondo
 ratingProveedor: 4.6
 numeroOpiniones: 3852
-atraccionesRelacionadas:
-- calas-playas
 publicada: true
 destacada: false
 fecha: '2026-10-04'

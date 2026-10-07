@@ -105,6 +105,8 @@ opinionEditorial: 'El Caminito del Rey es una de las experiencias outdoor más e
   natural del sur de España.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - caminito del rey
@@ -112,7 +114,6 @@ keywords:
 - excursion gaitanes
 - pasarela malaga andalucia
 - caminito del rey con entrada
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
 imagenAlt: Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes
   rocosas verticales.

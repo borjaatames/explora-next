@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **Para quién es:** amantes de la historia nobiliaria española (Casa de Alba), fans del poeta Antonio Machado, fotógrafos de patios sevillanos, curiosos de la alta sociedad del s. XX, viajeros con interés en muebles y decoración decimonónica. **Para quién NO:** visitantes que ya hicieron Pilatos y buscan algo radicalmente distinto (los dos comparten el formato «palacio privado sevillano»), familias con niños menores de 8 sin paciencia para audioguías, visitantes muy ajetreados con menos de 1 h disponible. **CONSEJO LUNES:** ir lunes tarde (16:00 a cierre) — la entrada es GRATIS (solo 1 € de gastos de gestión) con buena política de la Fundación Casa de Alba.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "entradas"
 keywords: ["palacio las dueñas entrada", "casa de alba sevilla", "duquesa de alba palacio", "antonio machado sevilla", "las dueñas audioguia", "palacio dueñas tickets"]
 
@@ -119,7 +121,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

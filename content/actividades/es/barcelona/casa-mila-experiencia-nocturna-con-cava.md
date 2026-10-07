@@ -97,7 +97,9 @@ opinionEditorial: |
 
   Para quién es: parejas que quieran una cita atmosférica, fotógrafos (iluminación nocturna dramática + proyecciones en terraza = fotos excepcionales), entusiastas de Gaudí haciendo una segunda visita a Casa Milà (tras el audio diurno) y viajeros comparando experiencias nocturnas Casa Milà y Casa Batlló (esta es más barata y más arquitectónica que el formato música-en-vivo de Casa Batlló). Para quién NO: viajeros esperando narración completa en directo (reserva t913306 Acceso Temprano), visitantes sensibles a la música (los shows audio están amplificados), cualquiera que quiera cena (solo cava) y niños menores de 8 (recomendación de edad mínima del operador).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa mila experiencia nocturna", "la pedrera de noche", "casa mila visita nocturna", "la pedrera proyecciones terraza", "casa mila cava"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
@@ -118,7 +120,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

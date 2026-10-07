@@ -97,7 +97,7 @@ opinionEditorial: 'Es la versión Viator del tour guiado al Bernabéu, con 452 o
   la opción más económica (en taquilla son 30 €), y visitantes en día de partido sin posibilidad de cambiar fecha.
 
   '
-categoria: deportivo
+categoria: visitasGuiadas
 keywords:
 - bernabeu guided tour viator
 - tour bernabeu guia viator

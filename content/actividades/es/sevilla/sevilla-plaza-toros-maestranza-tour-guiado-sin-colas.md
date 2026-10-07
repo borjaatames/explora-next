@@ -101,6 +101,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes interesados en arquitectura civil del s. XVIII, historia social de Sevilla, fotógrafos amateur (la Puerta del Príncipe al atardecer es icónica), curiosos del fenómeno cultural taurino sin compromiso con verlo en vivo. **Para quién NO:** personas muy sensibles a la temática taurina (el museo expone trajes con sangre histórica), visitantes con prisa que solo quieran una foto exterior (entrada general más barata basta), familias con niños menores de 10 años sin preparación previa. **NOTA ÉTICA:** el tour es una visita CULTURAL al edificio, NO una apología de la corrida. Si estás moralmente en contra de la tauromaquia y prefieres no entrar, es perfectamente válido — Sevilla tiene 30+ monumentos sin ese componente.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "visitasGuiadas"
 keywords: ["plaza toros sevilla tour", "maestranza sevilla visita", "plaza toros maestranza entrada", "real maestranza sevilla museo", "bullring seville tour"]
 
@@ -115,7 +117,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

@@ -92,6 +92,8 @@ opinionEditorial: 'Es la experiencia que te sube a una de las torres de la basí
   subir. Si lo que buscas son las vistas desde la Sagrada Familia, esta es la experiencia que las ofrece.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - sagrada familia con torres
@@ -106,8 +108,6 @@ numeroOpiniones: 5518
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras

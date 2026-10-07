@@ -68,6 +68,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Gibraltar is one of the most unusual day trips from Málaga: another country two hours away, with the Rock and its macaques. The price is very low because only transport is included, so it suits you if you like exploring on your own once there.'
 guiasRelacionadas:
 - day-trips-from-malaga
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - gibraltar day trip from malaga

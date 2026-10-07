@@ -67,6 +67,8 @@ preguntasFrecuentes:
 opinionEditorial: 'En dos horas une las tres caras de Bilbao: el Casco Viejo, el Ensanche y la ría moderna. El grupo pequeño se nota. Hazlo a primera hora y luego vuelve a las Siete Calles a comer pintxos.'
 guiasRelacionadas:
 - bilbao-en-un-dia
+atraccionesRelacionadas:
+- casco-viejo
 categoria: visitasGuiadas
 keywords:
 - tour a pie bilbao
@@ -90,9 +92,6 @@ galeria:
   alt: Claustro de la catedral de Santiago
 ratingProveedor: 4.7
 numeroOpiniones: 449
-atraccionesRelacionadas:
-- casco-viejo
-- ria-miradores
 publicada: true
 destacada: false
 fecha: '2026-10-04'

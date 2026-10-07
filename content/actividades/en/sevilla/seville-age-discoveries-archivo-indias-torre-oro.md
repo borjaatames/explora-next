@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **Who it's for:** first-timers in Seville interested in history, fans of the Spanish «Golden Age», naval history enthusiasts (Lepanto, Trafalgar, galleons), visitors wanting to understand why Seville was capital of the Empire, English-speaking travellers who need a licensed guide. **Who it's NOT for:** expert 16th-century historians (the tour is introductory), wheelchair users (some points are NOT accessible), families with children under 10 lacking patience, very tight budgets (monuments are visitable on your own for <€5). **UNESCO NOTE:** the Archivo de Indias is one of Seville's 4 UNESCO sites (alongside the Cathedral, Giralda and Royal Alcázar) — and paradoxically the least visited. This tour gives it the context it deserves.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "visitasGuiadas"
 keywords: ["archivo indias tour", "torre del oro ticket", "seville 16th century tour", "age of discoveries seville", "casa contratacion seville", "spanish empire seville tour"]
 
@@ -118,7 +120,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

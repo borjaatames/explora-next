@@ -72,7 +72,7 @@ opinionEditorial: 'It''s the cheapest way to see the best of the Gipuzkoa coast 
 guiasRelacionadas:
 - day-trips-from-bilbao
 atraccionesRelacionadas:
-- ria-miradores
+- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - san sebastian day trip from bilbao

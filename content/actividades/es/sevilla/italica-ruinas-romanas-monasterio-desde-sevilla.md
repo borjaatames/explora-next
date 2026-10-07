@@ -137,6 +137,8 @@ opinionEditorial: 'La **excursión más corta y asequible desde Sevilla** — me
   en monumentos islámicos andaluces (Itálica es romana — mejor Córdoba o Granada).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - italica desde sevilla
@@ -162,7 +164,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

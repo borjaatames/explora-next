@@ -166,6 +166,8 @@ opinionEditorial: 'El **tablao flamenco con más historia y prestigio de Sevilla
   auténticos en lugar de cena en tablao, vegetarianos/veganos sin avisar (necesitan comunicar al reservar).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - tablao el arenal sevilla
@@ -191,8 +193,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-sevilla-que-tablao-elegir"
 ---

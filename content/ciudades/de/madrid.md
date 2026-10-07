@@ -63,15 +63,17 @@ atracciones:
     imagen: "/images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp"
     imagenAlt: "Außenfassade des Estadio Santiago Bernabéu in Madrid nach dem Umbau"
 chipsFiltros:
-  - { label: "Museo del Prado", tag: "museo-prado" }
-  - { label: "Palacio Real", tag: "palacio-real" }
-  - { label: "Museum Reina Sofía", tag: "reina-sofia" }
-  - { label: "Tapas und Wein", tag: "tapas-madrid" }
   - { label: "Tuk-Tuk", tag: "tuk-tuk" }
+  - { label: "Prado-Museum", tag: "museo-prado" }
+  - { label: "Reina Sofía und Thyssen", tag: "reina-sofia" }
+  - { label: "Königspalast", tag: "palacio-real" }
+  - { label: "Fußball (Bernabéu und Atlético)", tag: "futbol" }
   - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Estadio Bernabéu", tag: "bernabeu" }
+  - { label: "Tapas und Wein", tag: "tapas-madrid" }
   - { label: "Ausflug nach Toledo", tag: "toledo" }
-  - { label: "Tagesausflüge", tag: "excursiones-desde-madrid" }
+  - { label: "Weitere Tagesausflüge", tag: "excursiones-desde-madrid" }
+  - { label: "Stadt- und Radtouren", tag: "tours-a-pie" }
+  - { label: "Stadtrundfahrt und mehr", tag: "otros-madrid" }
 ---
 
 Madrid ist die Hauptstadt Spaniens und die bevölkerungsreichste Stadt des Landes: rund **3,3 Millionen Einwohner** im Stadtgebiet und mehr als 6,7 Millionen im Großraum. Sie ist Sitz der Regierung und der Cortes Generales sowie das wichtigste Finanz-, Kultur- und Verwaltungszentrum des Landes.

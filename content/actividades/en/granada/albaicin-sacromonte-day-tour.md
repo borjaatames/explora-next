@@ -90,11 +90,11 @@ opinionEditorial: |
 
   The €18 price puts it in the mid-range — cheaper than a private tour, similar to the sunset version. For travellers with older relatives who'd rather not walk at night, or with children who'd prefer to see the neighbourhood by day, this version does the job. The duration (2-2.5 hours) and the hills demand comfortable shoes, water and sun cream in summer — the Albaicín at midday in July or August is tough. Better to book the earliest morning slot in the hot season.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
 categoria: "visitasGuiadas"
 keywords: ["albaicin tour granada", "sacromonte tour granada", "albaicin day tour", "albaicin sacromonte walking tour", "granada walking tour albaicin"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
 
 imagen: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
 imagenAlt: "Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra"

@@ -116,6 +116,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes en alta temporada (mayo-septiembre, fines de semana, festivos) que quieran ahorrar las colas, viajeros hispanohablantes/anglófonos/francófonos/lusoparlantes que quieran guía oficial titulado, fans de Game of Thrones (el guía cubre las localizaciones de Dorne), parejas y grupos pequeños que quieran contexto histórico-arquitectónico del s. XIV mudéjar. **Para quién NO:** usuarios estrictos de silla de ruedas (no apto según operador), viajeros con presupuesto muy ajustado (entrada general por libre €13,50 es la mitad del precio), quien quiera visita corta sin guía (entrada por libre 60-90 min suficiente), visitantes que pueden reservar el lunes gratuito con antelación.
 
+atraccionesRelacionadas:
+- real-alcazar
 categoria: "visitasGuiadas"
 keywords: ["real alcazar sevilla tour guiado", "alcazar sevilla sin colas", "tour alcazar español", "palacio mudejar pedro i", "alcazar juego de tronos dorne"]
 
@@ -135,8 +137,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- real-alcazar
 ---
 
 ## Qué vas a ver

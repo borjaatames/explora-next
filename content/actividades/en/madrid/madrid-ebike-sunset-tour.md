@@ -108,7 +108,7 @@ opinionEditorial: 'Sunset e-bike tour operated by Wonder Tours (Calle de Santiag
   mobility, small children, and winter travellers who''d rather do daytime tours.
 
   '
-categoria: activo
+categoria: visitasGuiadas
 keywords:
 - ebike sunset madrid
 - madrid sunset bike tour

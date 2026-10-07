@@ -29,9 +29,9 @@ atracciones:
     descripcion: "Desde la Playa de Palma hasta las calas vírgenes del este y el sur (Es Trenc, Cala Mondragó): el abanico de playas más variado de Baleares."
 chipsFiltros:
   - { label: "Cuevas del Drach", tag: "cuevas-drach" }
-  - { label: "Serra de Tramuntana", tag: "tramuntana" }
-  - { label: "Pueblos", tag: "pueblos" }
-  - { label: "Calas y playas", tag: "calas-playas" }
+  - { label: "Tramuntana y Sóller", tag: "tramuntana" }
+  - { label: "Calas y barco", tag: "calas-playas" }
+  - { label: "Parques y familias", tag: "parques" }
 ---
 
 Mallorca es la mayor de las Islas Baleares y uno de los grandes destinos del Mediterráneo, con la vibrante **Palma** como capital —algo más de 400.000 habitantes—. Es mucho más que sol y playa: combina calas de ensueño con una montaña declarada Patrimonio de la Humanidad.

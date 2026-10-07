@@ -67,6 +67,8 @@ preguntasFrecuentes:
 opinionEditorial: 'In two hours it ties together Bilbao''s three sides: the Old Town, the Ensanche and the modern riverside. The small group makes a difference. Do it first thing, then head back to the Seven Streets for pintxos.'
 guiasRelacionadas:
 - bilbao-in-one-day
+atraccionesRelacionadas:
+- casco-viejo
 categoria: visitasGuiadas
 keywords:
 - bilbao walking tour
@@ -90,9 +92,6 @@ galeria:
   alt: Cloister of Santiago Cathedral
 ratingProveedor: 4.7
 numeroOpiniones: 449
-atraccionesRelacionadas:
-- casco-viejo
-- ria-miradores
 publicada: true
 destacada: false
 fecha: '2026-10-04'

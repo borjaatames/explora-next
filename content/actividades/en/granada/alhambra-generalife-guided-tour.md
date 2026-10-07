@@ -110,8 +110,6 @@ opinionEditorial: 'This is the default choice, and for solid reasons. With more 
   '
 atraccionesRelacionadas:
 - alhambra
-- generalife
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra guided tour

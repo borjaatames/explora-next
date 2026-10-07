@@ -98,7 +98,9 @@ opinionEditorial: |
 
   Para quién es: visitantes hispanohablantes (este es uno de los pocos productos top-volumen con guía en español), viajeros que quieran entender el Barri Gòtic en profundidad (orígenes romanos, periodo medieval, heridas de Guerra Civil), visitantes con presupuesto ajustado (20 € por 2,5 horas es excelente relación) y cualquiera que prefiera un operador consolidado con aval social (1.582 reseñas). Para quién NO: usuarios de silla de ruedas (adoquines), viajeros que quieran el interior de la Catedral (reservar aparte) y quienes quieran el Eixample/casas de Gaudí en el mismo tour (reserva t448358 en su lugar)."
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- barrio-gotico
+categoria: visitasGuiadas
 keywords: ["tour barri gotic barcelona", "tour barrio gotico castellano", "casco antiguo barcelona andando", "la rambla tour guiado", "barcelona barri gotic español"]
 
 imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
@@ -116,8 +118,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- barrio-gotico
 ---
 
 ## Qué vas a ver

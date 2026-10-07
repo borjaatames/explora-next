@@ -103,8 +103,6 @@ opinionEditorial: 'Esta es la única visita del comparador que cambia las reglas
   '
 atraccionesRelacionadas:
 - alhambra
-- alhambra-noche
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - visita nocturna alhambra

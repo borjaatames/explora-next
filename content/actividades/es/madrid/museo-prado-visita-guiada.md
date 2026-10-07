@@ -80,6 +80,8 @@ opinionEditorial: |
   esencial con alguien que te explica por qué importa. Si solo quieres ver
   dos o tres cuadros concretos, te basta con la entrada oficial.
 
+atraccionesRelacionadas:
+- museo-prado
 categoria: "visitasGuiadas"
 keywords: ["visita guiada museo del prado", "tour prado madrid", "museo del prado con guia", "velazquez goya prado", "prado entrada y guia"]
 
@@ -109,8 +111,6 @@ destacada: true
 fecha: "2026-10-03"
 fecha_actualizacion: "2026-10-03"
 variantes: ["museo-prado-entrada"]
-atraccionesRelacionadas:
-  - "museo-prado"
 ---
 
 ## Qué vas a ver

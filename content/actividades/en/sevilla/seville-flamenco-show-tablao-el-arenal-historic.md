@@ -163,6 +163,8 @@ opinionEditorial: 'The **flamenco tablao with most history and prestige in Sevil
   without notice (need to communicate when booking with 48h+ notice).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - tablao el arenal seville
@@ -187,8 +189,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-seville-which-tablao-to-choose"
 ---

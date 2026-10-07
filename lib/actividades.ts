@@ -26,12 +26,12 @@ const actividadesRoot = path.join(process.cwd(), "content", "actividades");
 export const CATEGORIAS_ACTIVIDAD = [
   "visitasGuiadas",
   "entradas",
+  "experienciasPrivadas",
   "excursionesDia",
-  "espectaculos",
   "toursGastronomicos",
+  "espectaculos",
   "serviciosAdicionales",
   "transporte",
-  "experienciasPrivadas",
 ] as const;
 
 export type CategoriaActividad = (typeof CATEGORIAS_ACTIVIDAD)[number];

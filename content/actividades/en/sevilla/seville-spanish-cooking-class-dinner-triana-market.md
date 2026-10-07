@@ -99,6 +99,8 @@ opinionEditorial: |
 
   **Who it's for:** foodies who want to LEARN cooking technique, not just eat, couples wanting an interactive evening, travellers staying in Seville for 4+ days (worth the time investment), summer visitors (air-conditioned market is a heat refuge), small groups celebrating special occasions. **Who it's NOT for:** visitors who don't want to cook on holiday (use show-cooking instead), severe celiacs (cross-contamination risk), children under 14 (knife/hot pan safety), anyone with mobility issues preventing 2 h standing. **EDITORIAL NOTE on EN-only:** this class is EN-only on GYG, consistent with the precedent that culinary tourism experiences in Spain target international travellers learning Spanish cuisine. Spanish-speaking visitors who want hands-on classes may find better value with local cooking schools booked directly (e.g., Espacio Eslava, Tres Bocados — €40-50, but Spanish-only).
 
+atraccionesRelacionadas:
+- tapas-sevilla
 categoria: "toursGastronomicos"
 keywords: ["seville cooking class hands on", "spanish cooking class seville", "triana market cooking class", "paella cooking class seville", "andalusian cooking class"]
 
@@ -113,7 +115,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

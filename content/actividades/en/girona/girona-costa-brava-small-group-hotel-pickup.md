@@ -72,6 +72,8 @@ opinionEditorial: 'If a big coach puts you off, this is the alternative: an 8-se
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 - what-to-see-in-girona-in-one-day
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
 - girona costa brava small group tour
@@ -94,10 +96,6 @@ galeria:
   alt: Clear-water cove on the Costa Brava
 ratingProveedor: 4.8
 numeroOpiniones: 2096
-atraccionesRelacionadas:
-- costa-brava
-- casco-medieval
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

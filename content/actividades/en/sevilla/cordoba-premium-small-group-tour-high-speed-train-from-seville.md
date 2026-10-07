@@ -117,6 +117,8 @@ opinionEditorial: 'The **PREMIUM AVE alternative to the standard Córdoba tour**
   (not suitable per operator).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - cordoba ave from seville
@@ -142,7 +144,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

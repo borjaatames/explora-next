@@ -94,7 +94,9 @@ opinionEditorial: |
 
   Para quién es: entusiastas comprometidos de Gaudí (ya pagarías por Casa Batlló + Sagrada Familia + Park Güell + Casa Milà = «hacer la ronda Gaudí en serio»), fotógrafos (el edificio sin multitudes es excepcional), grupos pequeños de 2-6 que quieran atención personal, angloparlantes/chinos, y viajeros con jet lag oeste-este (8:30 AM encaja con tu ciclo). Para quién NO: hispanohablantes solo, viajeros con presupuesto justo (el ticket audio estándar a 25 € es mucho mejor valor), usuarios de silla de ruedas (el operador no confirma accesibilidad para este formato), y trasnochadores (el valor desaparece si empiezas a las 10:00).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: visitasGuiadas
 keywords: ["casa mila tour temprano", "la pedrera amanecer tour", "casa mila tour guiado", "la pedrera antes apertura", "casa mila grupo reducido"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-chimney-roof-barcelona-2014-3-hero.webp"
@@ -115,7 +117,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

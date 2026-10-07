@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: Es el plan número uno de Sevilla con niños pequeños, y la opción con Agua Mágica lo salva en verano. No es un gran parque de atracciones internacional, pero para niños de 4 a 11 años es un día redondo. Reservar online sale más barato que en taquilla.
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- familia
 categoria: entradas
 keywords:
 - isla magica entradas

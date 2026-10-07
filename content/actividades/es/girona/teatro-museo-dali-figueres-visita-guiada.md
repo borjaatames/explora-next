@@ -69,6 +69,8 @@ opinionEditorial: 'El Teatro-Museo Dalí es la escapada más fácil desde Girona
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 - que-ver-en-girona-en-un-dia
+atraccionesRelacionadas:
+- dali-figueres
 categoria: visitasGuiadas
 keywords:
 - teatro museo dali figueres
@@ -89,8 +91,6 @@ galeria:
   alt: Teatro-Museo Dalí en Figueres
 ratingProveedor: 4.7
 numeroOpiniones: 105
-atraccionesRelacionadas:
-- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

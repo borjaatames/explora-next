@@ -114,6 +114,8 @@ opinionEditorial: |
 
   **Who it's for:** Spanish-speaking visitors (main reason for the product), multilingual travellers preferring free pace, couples wanting cancellation flexibility, mid-budget visitors prioritizing autonomy over physical guide. **Who it's NOT for:** anyone preferring cheaper ticket without audio and without cancellation (`seville-cathedral-giralda-entry-ticket` from €15), anyone wanting a guided tour with live Spanish-speaking guide (NOT available on this operator — look for the official guided tour at `catedraldesevilla.es` for €20, 90 min), visitors without smartphone or own headphones, strict wheelchair users wanting to climb the Giralda (not accessible).
 
+atraccionesRelacionadas:
+- catedral-giralda
 categoria: "entradas"
 keywords: ["seville cathedral audio guide spanish", "giralda mobile audio", "seville cathedral mobile app", "seville cathedral 24h cancellation entry", "audio guide seville cathedral 5 languages"]
 
@@ -131,8 +133,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- catedral-giralda
 ---
 
 ## What you'll see

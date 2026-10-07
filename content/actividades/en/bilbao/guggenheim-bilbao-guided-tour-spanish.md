@@ -64,6 +64,8 @@ opinionEditorial: 'On your own, the Guggenheim can feel like a beautiful buildin
 guiasRelacionadas:
 - guggenheim-museum-how-to-visit
 - bilbao-in-one-day
+atraccionesRelacionadas:
+- guggenheim
 categoria: visitasGuiadas
 keywords:
 - guggenheim guided tour spanish
@@ -85,8 +87,6 @@ galeria:
   alt: The Guggenheim with the red arch of La Salve bridge
 ratingProveedor: 4.9
 numeroOpiniones: 182
-atraccionesRelacionadas:
-- guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-04'

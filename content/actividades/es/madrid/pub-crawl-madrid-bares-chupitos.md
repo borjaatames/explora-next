@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 18
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'Frente a la otra ruta de pub crawl que tenemos en Madrid, esta es la opción más flexible: cancelación gratuita hasta 24h antes y guía en seis idiomas, buena elección si viajas en un grupo internacional. Tiene un local menos (4 frente a 5) y el código de vestimenta es más estricto, así que nada de ropa deportiva ni sandalias para ellos.'
+atraccionesRelacionadas:
+- otros-madrid
 categoria: espectaculos
 keywords:
 - pub crawl madrid bares

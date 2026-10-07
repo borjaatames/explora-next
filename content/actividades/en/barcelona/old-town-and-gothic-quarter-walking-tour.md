@@ -98,7 +98,9 @@ opinionEditorial: |
 
   Who it's for: Spanish-speaking visitors (this is one of the few top-volume products with a Spanish guide), travellers wanting to understand the Gothic Quarter in depth (Roman origins, medieval period, Civil War scars), budget-conscious visitors (€20 for 2.5 hours is excellent value), and anyone who prefers a proven operator with social proof (1,582 reviews). Who it's NOT for: wheelchair users (cobblestones), travellers wanting Cathedral interior (book separately), and those wanting the Eixample/Gaudí houses in the same tour (book t448358 instead).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- barrio-gotico
+categoria: visitasGuiadas
 keywords: ["barcelona gothic quarter walking tour", "barri gotic guided tour", "old town barcelona walking tour", "la rambla walking tour barcelona", "barcelona old town spanish guide"]
 
 imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
@@ -116,8 +118,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- barrio-gotico
 ---
 
 ## What you'll see

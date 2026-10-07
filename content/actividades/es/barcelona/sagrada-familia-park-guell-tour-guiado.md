@@ -93,6 +93,8 @@ opinionEditorial: 'Es el combo limpio: las dos obras maestras de Gaudí —Park 
   explicadas en medio día y sin organizar nada, esta es la opción más directa.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - sagrada familia y park guell
@@ -107,9 +109,6 @@ numeroOpiniones: 6776
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
-- park-guell
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
   alt: Fachada de la Sagrada Familia de Barcelona con torres ornamentadas y detalles arquitectónicos góticos modernistas

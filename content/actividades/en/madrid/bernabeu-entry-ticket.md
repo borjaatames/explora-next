@@ -108,7 +108,9 @@ opinionEditorial: 'This is the official Bernabéu Tour ticket sold by GetYourGui
   (there is none here), or anyone needing date flexibility (the standard ticket doesn''t allow refunds).
 
   '
-categoria: deportivo
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - bernabeu tour ticket
 - santiago bernabeu entry
@@ -141,8 +143,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- bernabeu
 ---
 
 ## What you'll see

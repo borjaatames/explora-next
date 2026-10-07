@@ -109,7 +109,7 @@ opinionEditorial: 'Es la versión Viator del mismo tour de Golden Tour Guide que
   verificadas. La elección entre las dos plataformas es cuestión de preferencia.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - palacio real madrid viator
 - visita guiada palacio real viator

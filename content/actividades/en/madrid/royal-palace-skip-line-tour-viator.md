@@ -108,7 +108,7 @@ opinionEditorial: 'This is the Viator version of the same Golden Tour Guide tour
   The choice between the two platforms is a preference question.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - royal palace madrid viator
 - royal palace guided tour viator

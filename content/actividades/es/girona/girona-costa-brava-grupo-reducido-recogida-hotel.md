@@ -72,6 +72,8 @@ opinionEditorial: 'Si el autobús grande te echa para atrás, esta es la alterna
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 - que-ver-en-girona-en-un-dia
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
 - excursion girona costa brava grupo reducido
@@ -94,10 +96,6 @@ galeria:
   alt: Cala de la Costa Brava de aguas transparentes
 ratingProveedor: 4.8
 numeroOpiniones: 2096
-atraccionesRelacionadas:
-- costa-brava
-- casco-medieval
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

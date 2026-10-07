@@ -93,7 +93,7 @@ opinionEditorial: |
 
   Para quién es: primeras visitas Gaudí que quieran narración sólida, cualquiera que valore la credencial «guía oficial de Turismo de Barcelona», grupos grandes que se benefician de auriculares y viajeros comparando las versiones GetYourGuide vs Viator del producto Golden Tour Guide (este tiene 38× más reseñas y 3 € menos). Para quién NO: usuarios de silla de ruedas (el operador marca NO apto — ver t217593 para accesibilidad), viajeros independientes que prefieran saltarse la narración (reservar t53791 — entrada simple) y cualquiera que quiera recogida en hotel al precio de entrada (necesitas la opción premium).
 
-categoria: "cultural"
+categoria: entradas
 keywords: ["park guell tour guiado", "park guell sin colas con guia", "park guell golden tour guide", "park guell mejor tour", "park guell tour con guia barcelona"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp"

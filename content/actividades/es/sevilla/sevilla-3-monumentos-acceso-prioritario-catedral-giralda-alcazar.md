@@ -120,6 +120,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes con **tiempo limitado** (cruceristas, escapadas 2 días, fin de semana) que quieran lo esencial en una sola sesión, viajeros que valoren cancelación 48h, hablantes de los 5 idiomas (ES/EN/IT/FR/PT), grupos pequeños que prefieran ritmo ágil sobre profundidad. **Para quién NO:** usuarios estrictos de silla de ruedas (no apto según operador), visitantes que quieran profundidad detallada por monumento (tours individuales por separado son mejores), quien tenga 3-4 días en Sevilla y pueda permitirse visitas pausadas (separar productos da más tiempo en cada sitio), viajeros con presupuesto muy ajustado (DIY por libre Catedral + Alcázar ahorra €15-20).
 
+atraccionesRelacionadas:
+- real-alcazar
 categoria: "visitasGuiadas"
 keywords: ["tour 3 monumentos sevilla", "catedral alcazar giralda combo", "sevilla acceso prioritario 3 sitios", "tour top vendido sevilla", "sevilla mejor tour 1 dia"]
 
@@ -138,9 +140,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- real-alcazar
-- catedral-giralda
 ---
 
 ## Qué vas a ver

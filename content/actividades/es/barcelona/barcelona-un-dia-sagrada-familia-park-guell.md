@@ -81,6 +81,8 @@ opinionEditorial: 'Es el «todo en un día» de Barcelona: quedas a primera hora
   Lo mejor es que la parte estrella va resuelta: **las entradas sin colas a la Sagrada Familia y al Park Güell están incluidas**, así que no tienes que pelearte con la web oficial ni pagar las entradas aparte. Eso sí, ten claro cómo funciona: el **interior de los monumentos lo recorres por tu cuenta** con la entrada (la Sagrada, con una app de audioguía); el guía hace la parte de ciudad —barrio gótico y Montjuïc— pero no entra contigo. Y dos detalles más: es **punto de encuentro en el centro (La Rambla 97), no recogida en hotel**, y es un día largo y activo con bastante caminata. Si encaja con eso, es un día redondo y muy bien valorado.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - barcelona en un dia
@@ -95,9 +97,6 @@ numeroOpiniones: 15762
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
-- park-guell
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo

@@ -105,7 +105,7 @@ opinionEditorial: 'Tour Viator en e-bike combinando Parque del Retiro y Barrio d
   bici, viajeros con poco tiempo (3h es jornada larga), y quien solo quiera el Retiro (mejor tour específico del parque).
 
   '
-categoria: activo
+categoria: visitasGuiadas
 keywords:
 - ebike retiro letras madrid
 - tour bici retiro barrio letras

@@ -102,7 +102,9 @@ opinionEditorial: 'The most solid Madrid Royal Palace option by combining three 
   can look at the premium or «small group» versions of the same palace — more expensive, but with fewer heads around.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- palacio-real
+categoria: visitasGuiadas
 keywords:
 - royal palace madrid
 - royal palace guided tour
@@ -128,8 +130,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
 ---
 
 ## What you'll see

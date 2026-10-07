@@ -86,10 +86,11 @@ opinionEditorial: |
 
   When to choose this version and when to go for the 3-hour one: if you're only interested in the Cathedral and Royal Chapel, this one is enough. If you want to understand the history of the Moorish centre and see La Madraza (the first university of Granada) and the Alcaicería (the old souk), choose the 3-hour version — it adds context but also an extra hour. For visitors arriving by cruise at the Port of Motril and spending a day in Granada, this 2-hour version pairs well with a quick visit to the Alhambra on the same day.
 
+atraccionesRelacionadas:
+- catedral
 categoria: "visitasGuiadas"
 keywords: ["granada cathedral tour", "royal chapel skip the line", "cathedral royal chapel granada tour", "skip the line granada cathedral", "guided tour granada cathedral"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
 imagenAlt: "Royal Chapel of Granada — tombs of the Catholic Monarchs Isabella and Ferdinand"

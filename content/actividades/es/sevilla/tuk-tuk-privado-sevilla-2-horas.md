@@ -73,7 +73,6 @@ opinionEditorial: Si tienes poco tiempo en Sevilla, en dos horas ves prácticame
 guiasRelacionadas:
 - sevilla-con-ninos
 atraccionesRelacionadas:
-- plaza-espana
 - tuk-tuk
 categoria: experienciasPrivadas
 keywords:

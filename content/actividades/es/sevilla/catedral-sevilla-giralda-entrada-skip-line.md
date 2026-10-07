@@ -111,6 +111,8 @@ opinionEditorial: |
 
   **Para quién es:** primerizos en Sevilla que quieran lo esencial sin comprometerse con horarios de tour guiado, viajeros multilingües (audioguía en 5 idiomas), familias con niños mayores de 6 años, visitantes con presupuesto medio que prefieran skip-the-line. **Para quién NO:** quien necesite flexibilidad de cancelación (este ticket es no reembolsable — ver web oficial), quien quiera profundidad histórica/artística (visita guiada oficial es mejor), usuarios estrictos de silla de ruedas que quieran subir a la Giralda (no accesible), visitantes que puedan reservar el lunes gratuito con mucha antelación.
 
+atraccionesRelacionadas:
+- catedral-giralda
 categoria: "entradas"
 keywords: ["catedral sevilla entrada", "giralda sevilla skip line", "catedral sevilla sin colas", "tumba colon sevilla", "entrada catedral sevilla audio"]
 
@@ -129,8 +131,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- catedral-giralda
 ---
 
 ## Qué vas a ver

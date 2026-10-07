@@ -92,7 +92,9 @@ opinionEditorial: |
 
   Who it's for: art-history-curious travelers, Picasso fans (the museum's strength is his early works that you can't see elsewhere), families with kids 10+, wheelchair users (fully accessible), and visitors staying outside the Barri Gòtic who value hotel pickup. Who it's NOT for: travelers expecting Guernica-style iconic works (those are in Madrid), strict self-paced visitors, and budget travelers staying in El Born/Gothic Quarter (buy direct from the museum at €12 instead).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- picasso
+categoria: visitasGuiadas
 keywords: ["picasso museum barcelona tour", "skip the line picasso barcelona", "museu picasso guided tour", "barcelona picasso multilingual tour", "el born picasso museum"]
 
 imagen: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
@@ -109,7 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

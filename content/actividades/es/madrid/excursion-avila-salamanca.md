@@ -95,6 +95,8 @@ opinionEditorial: 'Es la opción acertada si quieres añadir Salamanca a tu viaj
   extra. Revisa bien qué versión reservas. Y, como toda excursión larga con calles empedradas, no es para movilidad reducida.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - excursion avila y salamanca desde madrid
@@ -138,8 +140,6 @@ numeroOpiniones: 579
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## Qué vas a ver

@@ -31,10 +31,10 @@ atracciones:
   - nombre: "The coves and beaches"
     descripcion: "From Playa de Palma to the unspoiled coves of the east and south (Es Trenc, Cala Mondragó): the most varied range of beaches in the Balearics."
 chipsFiltros:
-  - { label: "Drach Caves", tag: "cuevas-drach" }
-  - { label: "Serra de Tramuntana", tag: "tramuntana" }
-  - { label: "Villages", tag: "pueblos" }
-  - { label: "Coves & beaches", tag: "calas-playas" }
+  - { label: "Caves of Drach", tag: "cuevas-drach" }
+  - { label: "Tramuntana and Sóller", tag: "tramuntana" }
+  - { label: "Coves and boat trips", tag: "calas-playas" }
+  - { label: "Parks and family fun", tag: "parques" }
 ---
 
 Mallorca is the largest of the Balearic Islands and one of the great Mediterranean destinations, with the vibrant city of **Palma** as its capital —just over 400,000 people. It's far more than sun and sand: it blends dream coves with a mountain range declared a World Heritage Site.

@@ -29,10 +29,11 @@ atracciones:
     descripcion: "A media hora, el islote con su ermita unida a tierra por 241 escalones, escenario de Juego de Tronos. Una de las estampas más impresionantes del norte."
 chipsFiltros:
   - { label: "Guggenheim", tag: "guggenheim" }
+  - { label: "Costa vasca", tag: "gaztelugatxe" }
+  - { label: "Pintxos y cocina", tag: "gastronomia" }
+  - { label: "Ría", tag: "ria-miradores" }
+  - { label: "San Mamés", tag: "futbol" }
   - { label: "Casco Viejo", tag: "casco-viejo" }
-  - { label: "Gastronomía", tag: "gastronomia" }
-  - { label: "Gaztelugatxe", tag: "gaztelugatxe" }
-  - { label: "Ría y miradores", tag: "ria-miradores" }
 ---
 
 Bilbao es la capital de Vizcaya y la mayor ciudad del País Vasco —unos 345.000 habitantes en el municipio, cerca de un millón en su área metropolitana—. Su historia reciente es la del 'efecto Guggenheim': pasó de ciudad industrial en declive a **icono mundial del diseño y la cultura**.

@@ -66,6 +66,8 @@ opinionEditorial: 'Es la mejor primera toma de contacto con Girona: en dos horas
 guiasRelacionadas:
 - que-ver-en-girona-en-un-dia
 - girona-juego-de-tronos
+atraccionesRelacionadas:
+- casco-medieval
 categoria: visitasGuiadas
 keywords:
 - tour a pie girona
@@ -88,10 +90,6 @@ galeria:
   alt: Monasterio de Sant Pere de Galligants en Girona
 ratingProveedor: 4.8
 numeroOpiniones: 826
-atraccionesRelacionadas:
-- casco-medieval
-- catedral
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

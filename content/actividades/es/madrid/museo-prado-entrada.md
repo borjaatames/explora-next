@@ -80,6 +80,8 @@ opinionEditorial: |
   antes para no hacer la cola de taquilla. Si es tu primera vez y quieres
   entender lo que ves, la visita guiada merece la diferencia de precio.
 
+atraccionesRelacionadas:
+- museo-prado
 categoria: "entradas"
 keywords: ["entrada museo del prado", "entradas prado madrid", "ticket museo del prado", "comprar entrada prado", "museo del prado horario"]
 
@@ -111,8 +113,6 @@ destacada: false
 fecha: "2026-10-03"
 fecha_actualizacion: "2026-10-03"
 variantes: ["museo-prado-visita-guiada"]
-atraccionesRelacionadas:
-  - "museo-prado"
 ---
 
 ## Qué vas a ver

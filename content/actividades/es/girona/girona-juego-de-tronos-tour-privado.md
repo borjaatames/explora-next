@@ -64,6 +64,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Para familias o grupos de amigos de 4 o más es la mejor opción: el precio por persona se parece al del tour en grupo y tenéis al guía para vosotros. Aún no tiene reseñas porque es nuevo, pero lo organiza la misma empresa que el tour de grupo reducido, que tiene un 4,9 con casi mil opiniones.'
 guiasRelacionadas:
 - girona-juego-de-tronos
+atraccionesRelacionadas:
+- casco-medieval
 categoria: experienciasPrivadas
 keywords:
 - tour privado juego de tronos girona
@@ -81,10 +83,6 @@ galeria:
   alt: Escaleras y arcos en una calle del Call de Girona
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Campanarios del Barri Vell de Girona vistos desde la muralla
-atraccionesRelacionadas:
-- casco-medieval
-- catedral
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

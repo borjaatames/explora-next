@@ -94,7 +94,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "gastronomico"
+categoria: entradas
 keywords: ["jamon iberico cata madrid", "viator jamon vino madrid", "embutidos quesos vino madrid", "cata gourmet madrid", "tasting iberian ham madrid"]
 
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-26642593854-hero.webp"

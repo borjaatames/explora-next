@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Para quién: fans del Real Madrid que valoran el relato histórico con guía humano y radioguía, viajeros que prefieren contexto explicado a deambular con paneles. Para quién NO: viajeros con movilidad reducida (el operador lo marca expresamente como no apto), quien necesita ahorrar (la entrada autoguiada cuesta unos 20 euros menos) y quien tenga visita en víspera o día de partido (te pierdes vestuarios y banquillos sin reembolso por ese motivo).
 
-categoria: "deportivo"
+atraccionesRelacionadas:
+- futbol
+categoria: visitasGuiadas
 keywords: ["bernabeu visita guiada", "bernabeu tour guiado", "tour real madrid guia", "estadio bernabeu guiado", "santiago bernabeu visita guiada espanol"]
 
 imagen: "/images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp"
@@ -122,8 +124,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "bernabeu"
 ---
 
 ## Qué vas a ver

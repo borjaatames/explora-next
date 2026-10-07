@@ -78,8 +78,6 @@ guiasRelacionadas:
 - what-to-see-in-mallorca
 atraccionesRelacionadas:
 - tramuntana
-- pueblos
-- calas-playas
 categoria: excursionesDia
 keywords:
 - soller train tour

@@ -105,7 +105,6 @@ opinionEditorial: 'Es la opción más económica del comparador, y no porque rec
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - entrada alhambra barata

@@ -98,6 +98,8 @@ opinionEditorial: 'Es la opción acertada si quieres conocer Ávila y Segovia si
   lo tiene difícil.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - excursion barata avila segovia
@@ -133,8 +135,6 @@ numeroOpiniones: 1149
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## Qué vas a ver

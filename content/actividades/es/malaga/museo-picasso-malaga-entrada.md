@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Es la visita cultural imprescindible de Málaga: Picasso en su ciudad, en un palacio precioso y sin necesidad de reservar con semanas. Con casi 14.000 reseñas es la actividad más reseñada de la ciudad. Reserva hora en temporada alta para no hacer cola.'
 guiasRelacionadas:
 - malaga-en-dos-dias
+atraccionesRelacionadas:
+- picasso
 categoria: entradas
 keywords:
 - museo picasso malaga entradas
@@ -90,9 +92,6 @@ galeria:
   alt: Fachada de la Catedral de Málaga, a pocos pasos del museo
 ratingProveedor: 4.5
 numeroOpiniones: 13842
-atraccionesRelacionadas:
-- picasso
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

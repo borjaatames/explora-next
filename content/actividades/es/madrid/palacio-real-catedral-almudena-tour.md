@@ -109,7 +109,9 @@ opinionEditorial: 'La opción 2-en-1 para quien quiera juntar Palacio Real y Cat
   combo te lo deja resuelto.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- palacio-real
+categoria: visitasGuiadas
 keywords:
 - palacio real almudena tour
 - palacio real catedral madrid
@@ -148,9 +150,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
-- almudena
 ---
 
 ## Qué vas a ver

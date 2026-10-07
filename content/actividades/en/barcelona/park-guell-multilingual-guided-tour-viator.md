@@ -96,7 +96,7 @@ opinionEditorial: |
 
   Who it's for: travellers needing French (rare on GetYourGuide's main listings), mixed-language groups that want to consolidate booking, Viator users with existing accounts/loyalty, and anyone prioritising free 24-hour cancellation with «Lowest Price Guarantee». Who it's NOT for: wheelchair users (operator marks NOT adapted), travellers wanting maximum volume validation (the GetYourGuide t419045 has 19,407 reviews), and anyone needing headsets for group listening.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell tour viator multilingual", "park guell french tour", "park guell guided tour spanish", "park guell tour with skip the line viator", "tours for today park guell"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp"

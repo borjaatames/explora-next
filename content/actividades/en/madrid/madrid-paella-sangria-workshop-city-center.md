@@ -95,7 +95,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "gastronomico"
+categoria: toursGastronomicos
 keywords: ["paella workshop madrid", "cooking class madrid paella", "paella sangria class madrid", "paella sangria workshop madrid", "learn cook paella madrid"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"

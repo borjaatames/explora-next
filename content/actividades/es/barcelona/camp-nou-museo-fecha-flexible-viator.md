@@ -125,7 +125,7 @@ opinionEditorial: 'Ticket Viator de fecha abierta al Museo Camp Nou — 1.319 re
   la descripción lo deja claro, pero las reseñas muestran repetidamente gente que no la leyó).
 
   '
-categoria: cultural
+categoria: entradas
 keywords:
 - museo camp nou viator
 - barca immersive viator

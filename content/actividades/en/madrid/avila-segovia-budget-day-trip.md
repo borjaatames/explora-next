@@ -97,6 +97,8 @@ opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia 
   time.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - cheap avila segovia day trip
@@ -132,8 +134,6 @@ numeroOpiniones: 1149
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## What you'll see

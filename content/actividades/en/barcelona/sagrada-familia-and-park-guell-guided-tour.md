@@ -92,6 +92,8 @@ opinionEditorial: 'This is the clean combo: Gaudí''s two masterpieces — Park 
   in half a day with nothing to organise, this is the most direct option.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - sagrada familia and park guell
@@ -106,9 +108,6 @@ numeroOpiniones: 6776
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
-- park-guell
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate Gothic and modernist architecture in Barcelona

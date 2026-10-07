@@ -51,6 +51,8 @@ opinionEditorial: 'This is a very different format from large-group visits: here
   price is per private group, not per person: the more of you there are, the better
   the value, and for a couple or a family it is a tailor-made experience rather than
   a mass tour.'
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: experienciasPrivadas
 keywords:
 - madrid gran via private tour

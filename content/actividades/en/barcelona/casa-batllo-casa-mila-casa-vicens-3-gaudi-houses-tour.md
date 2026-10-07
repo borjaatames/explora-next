@@ -98,7 +98,9 @@ opinionEditorial: |
 
   Who it's for: cultural travellers wanting Gaudí context efficiently, anyone with one day in Barcelona who wants to «do Gaudí» before Sagrada Familia, English/Chinese/Japanese/Korean speakers, photographers (small group = better photo angles), and anyone valuing the «no-mass-market» small-group format. Who it's NOT for: Spanish-only travellers (no Spanish option), wheelchair users (operator marks NOT suitable), anyone needing deep single-house exploration (each house gets 45 min max), and travellers prioritising Casa Batlló's rooftop (not included).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: visitasGuiadas
 keywords: ["3 gaudi houses tour barcelona", "casa batllo casa mila casa vicens", "gaudi houses guided tour", "the touring pandas gaudi", "small group gaudi tour barcelona"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero.webp"
@@ -116,8 +118,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## What you'll see

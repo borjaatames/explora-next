@@ -105,7 +105,7 @@ opinionEditorial: 'This is the combined city-tour + Bernabéu Tour product on Vi
   this at the bottom of the catalogue. Consider booking the Bernabéu separately.
 
   '
-categoria: deportivo
+categoria: visitasGuiadas
 keywords:
 - madrid city tour bernabeu
 - madrid bernabeu tour viator

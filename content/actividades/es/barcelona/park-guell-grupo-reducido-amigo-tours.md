@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Para quién: grupos mixtos español + inglés que prefieran un único tour, viajeros que quieran formato más pequeño que los tours masivos del parque, y quien busque precio competitivo entre las opciones guiadas (24 €). Para quién NO: viajeros que necesiten tour 100% en su idioma con máxima profundidad (mira monolingües t663776 o t2323), quien busque grupo CERRADAMENTE pequeño garantizado (máximo 6-8) — confirma con el operador o reserva privado — y quien priorice máxima fiabilidad operativa: t663776 con 5.637 reseñas a 4,7/5 es más conservador.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- park-guell
+categoria: visitasGuiadas
 keywords: ["park guell grupo reducido", "park guell amigo tours", "park guell tour bilingue", "park guell tour pequeno", "park guell skip line grupo"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp"
@@ -127,8 +129,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: '2026-06-18'
-atraccionesRelacionadas:
-- park-guell
 bokunProductId: 819658
 guiasRelacionadas:
   - "park-guell-que-entrada-elegir"

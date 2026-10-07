@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
 opinionEditorial: 'This is the shortest listing in the catalogue (1h30), and that makes sense: Girona''s old town, with the Call and the Rambla de la Llibertat, is easily covered in that time. A good fit if you''re passing through on the way to somewhere else, or if you pair the tour with free time for tapas. Don''t expect an exhaustive tour of the whole city.'
+atraccionesRelacionadas:
+- casco-medieval
 categoria: visitasGuiadas
 keywords:
 - self-guided girona tour

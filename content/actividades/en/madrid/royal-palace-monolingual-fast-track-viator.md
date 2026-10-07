@@ -102,7 +102,7 @@ opinionEditorial: '1.5-hour tour of the Royal Palace with Amigo Tours Spain (sam
   with 2,000+ reviews at 4.7. If you value monolingual tour + confirmed wheelchair accessibility, this one fits.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - royal palace monolingual tour
 - amigo tours royal palace madrid

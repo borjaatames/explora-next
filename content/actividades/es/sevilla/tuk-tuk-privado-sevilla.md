@@ -70,7 +70,6 @@ opinionEditorial: Con niños pequeños o en días de calor, es la forma más có
 guiasRelacionadas:
 - sevilla-con-ninos
 atraccionesRelacionadas:
-- plaza-espana
 - tuk-tuk
 categoria: experienciasPrivadas
 keywords:

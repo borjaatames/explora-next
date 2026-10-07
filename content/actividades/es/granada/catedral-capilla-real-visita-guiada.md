@@ -83,10 +83,11 @@ opinionEditorial: |
 
   El precio de 36 € es justo: la entrada a Catedral son 6 €, a Capilla Real 6-8 €, así que el guía y el recorrido extra suman unos 22 €. No es la opción más barata, pero el "Value for money" en reseñas es 4,6 / 5 — lo suficiente para considerarse precio razonable. Si tu prioridad es solo entrar (sin guía), las entradas sueltas son más baratas; pero si quieres entender lo que ves, este tour es el directo. Para un viaje completo a Granada, combinar este tour (mañana) con la visita a la Alhambra (tarde o día siguiente) cubre los dos polos históricos de la ciudad.
 
+atraccionesRelacionadas:
+- catedral
 categoria: "visitasGuiadas"
 keywords: ["catedral granada", "capilla real granada", "reyes catolicos granada", "tour catedral granada", "visita guiada granada centro"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp"
 imagenAlt: "Fachada de la Capilla Real y la Catedral de Granada"

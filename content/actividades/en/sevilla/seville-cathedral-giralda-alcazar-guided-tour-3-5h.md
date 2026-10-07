@@ -123,6 +123,8 @@ opinionEditorial: |
 
   **Who it's for:** visitors preferring **leisurely pace** over maximum efficiency, families with children valuing the 1h free time in gardens (space to run, peacocks, exploration), couples wanting structured photography at the start + gardens at the end, Italian or French speakers (specific coverage of these languages), groups of 4-6+ who can afford the PRIVATE option. **Who it's NOT for:** rushed visitors preferring 2.5h format (the top-seller t800561 is better for that), Portuguese speakers (not available — see t800561), anyone wanting depth on a single monument (separate individual tours give more detailed context per site), very tight budget travellers (DIY saves €11-15).
 
+atraccionesRelacionadas:
+- real-alcazar
 categoria: "visitasGuiadas"
 keywords: ["seville 3 5 hour tour", "cathedral alcazar long tour", "seville 3 monuments gardens", "seville free time alcazar tour", "seville photo stop tour"]
 
@@ -144,9 +146,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- real-alcazar
-- catedral-giralda
 ---
 
 ## What you'll see

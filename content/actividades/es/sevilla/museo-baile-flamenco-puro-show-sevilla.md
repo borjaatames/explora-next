@@ -159,6 +159,8 @@ opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseña
   Flamenco Triana), quien valore poder hacer fotos (no permitidas aquí), usuarios estrictos de silla de ruedas.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - museo baile flamenco sevilla
@@ -186,8 +188,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-sevilla-que-tablao-elegir"
 ---

@@ -98,6 +98,8 @@ opinionEditorial: 'Ronda es uno de los destinos más fotogénicos de Andalucía:
   Conviene reservar con varios días de antelación.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - ronda desde granada
@@ -105,7 +107,6 @@ keywords:
 - tajo ronda excursion
 - ronda dia completo
 - excursion ronda andalucia
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp"
 imagenAlt: Puente Nuevo de Ronda atravesando el desfiladero del Tajo, acantilados de piedra caliza y profundo cañón
 galeria:

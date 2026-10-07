@@ -147,7 +147,7 @@ opinionEditorial: 'The **classic Córdoba excursion from Seville** — long-stan
 
   '
 atraccionesRelacionadas:
-- catedral-giralda
+- excursiones
 categoria: excursionesDia
 keywords:
 - cordoba day trip from seville

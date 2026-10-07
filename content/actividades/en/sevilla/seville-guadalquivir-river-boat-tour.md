@@ -108,6 +108,8 @@ opinionEditorial: |
 
   **Who it's for:** visitors wanting a unique perspective of Seville from the river, couples valuing the SUNSET option with drink included (romantic), travellers interested in the city's fluvial history (Roman Hispalis → port of the Indies), families with children over 6 (the cruise is entertaining but requires some patience), amateur photographers (unique views of Triana + Torre del Oro). **Who it's NOT for:** very tight budgets (Eco Cruise t418722 from €17), strict wheelchair users (boarding not adapted), visitors with very little time (1h+ is commitment), those wanting the cruise with MORE volume and not minding sacrificing 0.5 rating points (Eco Cruise).
 
+atraccionesRelacionadas:
+- barco
 categoria: "visitasGuiadas"
 keywords: ["guadalquivir cruise seville", "seville boat top rated", "river boat tour seville", "guadalquivir cruise drink included", "seville boat torre del oro"]
 
@@ -129,7 +131,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

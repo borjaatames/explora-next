@@ -143,6 +143,8 @@ opinionEditorial: 'La **excursión más reservada desde Sevilla** — 4.027 rese
   libre puede ser difícil), visitantes en julio-agosto (calor extremo 40°C en los pueblos blancos).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - pueblos blancos desde sevilla
@@ -166,7 +168,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

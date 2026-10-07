@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
 opinionEditorial: 'With 3 routes — Essential Granada, Albaicín and Sacromonte, and The Alhambra — this is one of the most flexible listings in the catalogue: you can do just the one you want or spread them over several days, since the access never expires. One important caveat: the Alhambra route is a narrated tour of the surroundings, it does not include entry to the monument itself, which has to be booked separately and well in advance.'
+atraccionesRelacionadas:
+- otros-granada
 categoria: visitasGuiadas
 keywords:
 - self-guided granada tour

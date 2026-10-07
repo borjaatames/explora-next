@@ -57,6 +57,8 @@ opinionEditorial: 'This is a "grand tour" of Spain sorted from start to finish: 
   not stuck to a group of 40: there''s structure but also free time. It''s a premium
   per-group experience; for a family or group of friends who want to see the essentials
   of Spain without organising anything, it makes a lot of sense.'
+atraccionesRelacionadas:
+- otros-barcelona
 categoria: experienciasPrivadas
 keywords:
 - spain 9 day private tour

@@ -66,6 +66,8 @@ preguntasFrecuentes:
 opinionEditorial: If you've already been out for pintxos, learning to make them is the next step. Small group, good atmosphere, and you take the recipes home.
 guiasRelacionadas:
 - bilbao-pintxos
+atraccionesRelacionadas:
+- gastronomia
 categoria: toursGastronomicos
 keywords:
 - bilbao cooking class
@@ -87,8 +89,6 @@ galeria:
   alt: Glass of white wine
 ratingProveedor: 4.8
 numeroOpiniones: 70
-atraccionesRelacionadas:
-- gastronomia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

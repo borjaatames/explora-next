@@ -81,6 +81,8 @@ opinionEditorial: 'This is Barcelona''s «all in one day»: you meet in the cent
   The best part is that the headline is sorted: **skip-the-line entry to the Sagrada Familia and Park Güell is included**, so you don''t have to fight the official website or pay for the entries separately. Just be clear on how it works: you **explore the interiors on your own** with the ticket (the Sagrada Familia with an audio-guide app); the guide handles the city part — Gothic Quarter and Montjuïc — but doesn''t go in with you. And two more things: it''s a **central meeting point (La Rambla 97), not hotel pickup**, and it''s a long, active day with a lot of walking. If that fits, it''s a full, very well-rated day.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: visitasGuiadas
 keywords:
 - barcelona in one day
@@ -95,9 +97,6 @@ numeroOpiniones: 15762
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
-- park-guell
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background

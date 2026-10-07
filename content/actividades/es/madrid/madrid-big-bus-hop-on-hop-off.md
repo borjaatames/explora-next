@@ -115,6 +115,8 @@ opinionEditorial: 'Es el clásico bus turístico hop-on hop-off de Big Bus en Ma
   y quien viaje en días lluviosos sin alternativa flexible.
 
   '
+atraccionesRelacionadas:
+- otros-madrid
 categoria: transporte
 keywords:
 - big bus madrid
@@ -137,10 +139,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- gran-via
-- plaza-cibeles
-- puerta-alcala
 ---
 
 ## Qué vas a ver

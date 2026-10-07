@@ -86,10 +86,11 @@ opinionEditorial: |
 
   Cuándo elegir esta versión y cuándo la de 3 horas: si solo te interesan Catedral y Capilla Real, esta basta. Si quieres entender la historia del centro morisco y ver La Madraza (primera universidad de Granada) y la Alcaicería (antiguo zoco), elige la de 3 horas — añade contexto pero también una hora extra. Para visitantes que llegan en crucero al puerto de Motril y van un día a Granada, esta versión de 2 horas se combina bien con visita rápida a la Alhambra el mismo día.
 
+atraccionesRelacionadas:
+- catedral
 categoria: "visitasGuiadas"
 keywords: ["catedral granada tour", "capilla real sin colas", "tour catedral capilla real granada", "skip the line catedral granada", "visita guiada catedral granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
 imagenAlt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"

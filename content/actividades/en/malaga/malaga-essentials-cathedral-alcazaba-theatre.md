@@ -67,6 +67,8 @@ preguntasFrecuentes:
 opinionEditorial: 'If you''re short on time in Málaga, this sorts out your morning: the three essential monuments with tickets and an official guide. It works out better than buying three tickets and a guide separately.'
 guiasRelacionadas:
 - malaga-in-two-days
+atraccionesRelacionadas:
+- alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:
 - malaga cathedral alcazaba tour
@@ -90,9 +92,6 @@ galeria:
   alt: View of Málaga port from the Alcazaba
 ratingProveedor: 4.6
 numeroOpiniones: 1134
-atraccionesRelacionadas:
-- alcazaba-gibralfaro
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -90,6 +90,8 @@ opinionEditorial: 'Es la opción acertada si te apetece una escapada distinta a 
   es un problema, descártala: la Ciudad Encantada se camina por senderos naturales irregulares.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - excursion cuenca desde madrid
@@ -125,8 +127,6 @@ numeroOpiniones: 561
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## Qué vas a ver

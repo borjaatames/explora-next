@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
 opinionEditorial: It works well for combining classic Bilbao (Casco Viejo, palaces, cathedral) with the Guggenheim without depending on guided-tour timetables. With +15 points of interest it's a mid-length route, longer than Girona but shorter than Barcelona. Good for travellers who'd rather move at their own pace and take their time over photos.
+atraccionesRelacionadas:
+- casco-viejo
 categoria: visitasGuiadas
 keywords:
 - self-guided bilbao tour

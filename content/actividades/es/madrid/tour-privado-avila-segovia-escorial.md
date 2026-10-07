@@ -97,6 +97,8 @@ opinionEditorial: 'Es la opción acertada si viajáis en grupo o en familia y qu
   cumple por mucho menos.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - tour privado avila segovia escorial
@@ -134,9 +136,6 @@ numeroOpiniones: 106
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- escorial
 ---
 
 ## Qué vas a ver

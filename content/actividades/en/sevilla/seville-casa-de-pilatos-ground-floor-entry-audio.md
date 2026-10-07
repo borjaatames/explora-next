@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **Who it's for:** Renaissance civil architecture lovers, photographers of courtyards and tilework, fans of Star Wars/Kingdom of Heaven/Lawrence of Arabia, visitors interested in Spanish noble families (Medinaceli, House of Alba), travellers with 1.5-2 h free in the centre. **Who it's NOT for:** rushed visitors (you won't get value in under 45 min), wheelchair users expecting full accessibility (it's limited), anyone wanting a live official guide (it's a mobile app). **FREE MONDAY NOTE:** if your budget is tight, go Monday afternoon (3:00-5:30 PM) with an EU ID — entry is free and the audio guide still works.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "entradas"
 keywords: ["casa de pilatos ticket", "casa pilatos seville", "medinaceli palace seville", "casa pilatos free monday", "casa pilatos audio guide", "casa pilatos tickets"]
 
@@ -119,7 +121,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

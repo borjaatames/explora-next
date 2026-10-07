@@ -73,6 +73,8 @@ preguntasFrecuentes:
 opinionEditorial: La carretera a Cadaqués tiene muchas curvas; llegar por mar es más bonito y pasas por el tramo de costa más salvaje del Cap de Creus. La parada de hora y media es justa pero suficiente para el pueblo. Es buena opción si te alojas en Girona y quieres ver Cadaqués sin conducir la última parte.
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
 - barco roses cadaques
@@ -95,9 +97,6 @@ galeria:
   alt: Vista de Cadaqués y su bahía desde lo alto
 ratingProveedor: 4.5
 numeroOpiniones: 414
-atraccionesRelacionadas:
-- costa-brava
-- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

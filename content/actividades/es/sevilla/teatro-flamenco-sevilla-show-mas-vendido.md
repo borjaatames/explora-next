@@ -150,6 +150,8 @@ opinionEditorial: 'El **espectáculo de flamenco más reservado de Sevilla** —
   es mejor), quien busque tablao tradicional con 50 años de historia + cena (Tablao El Arenal es mejor).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - teatro flamenco sevilla
@@ -175,8 +177,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-sevilla-que-tablao-elegir"
 ---

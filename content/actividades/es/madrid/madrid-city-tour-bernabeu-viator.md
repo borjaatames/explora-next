@@ -110,7 +110,7 @@ opinionEditorial: 'Es el tour combinado de city tour panorámico + Tour Bernabé
   de cancelar lo dejan en lo más bajo del catálogo. Considera reservar Bernabéu por separado.
 
   '
-categoria: deportivo
+categoria: visitasGuiadas
 keywords:
 - madrid city tour bernabeu
 - tour madrid bernabeu viator

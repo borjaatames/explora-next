@@ -113,6 +113,8 @@ opinionEditorial: 'The classic Big Bus hop-on hop-off in Madrid: 4.2/5 across 90
   rainy days without flexible alternative.
 
   '
+atraccionesRelacionadas:
+- otros-madrid
 categoria: transporte
 keywords:
 - big bus madrid
@@ -135,10 +137,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- gran-via
-- plaza-cibeles
-- puerta-alcala
 ---
 
 ## What you'll see

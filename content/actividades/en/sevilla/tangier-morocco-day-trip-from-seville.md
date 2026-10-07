@@ -161,6 +161,8 @@ opinionEditorial: 'The **only INTERNATIONAL excursion from Seville** — you cro
   with babies (day too long).
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - tangier from seville
@@ -184,7 +186,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

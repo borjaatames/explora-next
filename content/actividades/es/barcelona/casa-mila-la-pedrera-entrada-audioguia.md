@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Para quién es: la mayoría de visitantes de Casa Milà, viajeros cómodos con audioguía, completistas de Gaudí haciendo Casa Batlló + Casa Milà como paseo por Passeig de Gràcia, fotógrafos (terraza con vistas panorámicas), entusiastas del modernismo (Espai Gaudí tiene maquetas de toda la obra Gaudí). Para quién NO es: viajeros que quieran narración con guía en directo (reserva t913306 Acceso Temprano Guiado a 39,50 € — top rated 4,8/5), viajeros que visiten un día seguro de lluvia (el cierre de terraza es pérdida real) y cualquiera interesado solo en la experiencia nocturna (reserva t913305 aparte).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["entradas casa mila", "la pedrera entrada audioguia", "casa mila ticket online", "la pedrera sin colas", "casa mila precio entrada"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-spain-jan-2007-hero.webp"
@@ -112,7 +114,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

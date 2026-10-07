@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 4
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: A free tour follows a similar route for far less; what you pay for here is a guide for your group alone, starting at your hotel, with time for all your questions. It's best value for families or groups. Minimum 2 people per booking.
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: visitasGuiadas
 keywords:
 - private walking tour madrid

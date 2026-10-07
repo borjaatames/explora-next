@@ -69,6 +69,8 @@ variantes:
 - excursion-toledo-dia-completo
 - excursion-toledo-molinos-quijote
 opinionEditorial: 'La opción más rápida y cómoda: en media hora de tren estás en Toledo y en cinco horas has vuelto, con un grupo de como mucho ocho personas. No incluye entradas, así que es para quien quiere ver la ciudad con buen guía más que entrar en todos los monumentos.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - toledo en ave desde madrid
@@ -107,9 +109,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-10-04'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 ---
 
 ## Qué vas a ver

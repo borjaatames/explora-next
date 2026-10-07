@@ -98,7 +98,7 @@ opinionEditorial: 'Viator''s version of the self-guided visit to Riyadh Air Metr
   validation (GetYourGuide has more reviews), and those without sporting interest.
 
   '
-categoria: deportivo
+categoria: entradas
 keywords:
 - wanda metropolitano viator
 - atletico madrid tour viator

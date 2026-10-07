@@ -96,7 +96,9 @@ opinionEditorial: |
 
   Para quién es: viajeros que quieran una «experiencia cultural nocturna» no turística (Casa Batlló de noche es dramáticamente distinta del día), parejas en cita, amantes de la música (el programa jazz/flamenco es realmente competente), fotógrafos (terraza al atardecer = fotos excepcionales) y cualquiera que valore el compromiso de Casa Batlló con la inclusión de personal neurodivergente. Para quién NO: viajeros esperando cena (solo cava + snacks de bar opcionales), visitantes sensibles a la música, cualquiera con dudas sobre una fecha concreta (no reembolsable) y visitantes con presupuesto justo — a 64 € esta es una de las opciones más caras de Casa Batlló. Para la experiencia nocturna básica a la mitad de precio, la versión con Copa de Bienvenida (t682388) es la elección más inteligente.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa batllo visita nocturna", "casa batllo concierto terraza", "casa batllo musica en vivo", "casa batllo tour de noche", "casa batllo jazz flamenco"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp"
@@ -114,8 +116,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## Qué vas a ver

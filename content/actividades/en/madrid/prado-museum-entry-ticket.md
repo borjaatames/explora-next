@@ -81,6 +81,8 @@ opinionEditorial: |
   time and you want to understand what you see, the guided tour is worth the
   price difference.
 
+atraccionesRelacionadas:
+- museo-prado
 categoria: "entradas"
 keywords: ["prado museum ticket", "prado museum tickets madrid", "buy prado tickets", "prado entry ticket", "prado museum opening hours"]
 
@@ -112,8 +114,6 @@ destacada: false
 fecha: "2026-10-03"
 fecha_actualizacion: "2026-10-03"
 variantes: ["prado-museum-guided-tour"]
-atraccionesRelacionadas:
-  - "museo-prado"
 ---
 
 ## What you will see

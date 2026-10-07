@@ -138,6 +138,8 @@ opinionEditorial: 'Combined excursion to **Cádiz** (oldest city in the West, 11
   vs. Jerez bulerías.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - cadiz day trip from seville
@@ -165,7 +167,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

@@ -67,6 +67,8 @@ opinionEditorial: Even if you're not an Athletic fan, San Mamés is one of Europ
 guiasRelacionadas:
 - bilbao-with-kids
 - bilbao-in-one-day
+atraccionesRelacionadas:
+- futbol
 categoria: entradas
 keywords:
 - san mames tour

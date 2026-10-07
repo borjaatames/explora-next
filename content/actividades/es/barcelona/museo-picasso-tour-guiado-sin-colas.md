@@ -92,7 +92,9 @@ opinionEditorial: |
 
   Para quién es: viajeros curiosos por la historia del arte, fans de Picasso (la fuerza del museo son las obras tempranas que no se ven en otro sitio), familias con niños 10+, usuarios de silla de ruedas (totalmente accesible) y visitantes alojados fuera del Barri Gòtic que valoran la recogida en hotel. Para quién NO: viajeros que esperen obras icónicas tipo Guernica (están en Madrid), visitantes estrictos de visita libre a su ritmo, y viajeros con presupuesto ajustado alojados en El Born/Gótico (compra directa en el museo a 12 €).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- picasso
+categoria: visitasGuiadas
 keywords: ["tour museo picasso barcelona", "museo picasso sin colas", "museu picasso visita guiada", "tour multilingue picasso barcelona", "museo picasso el born"]
 
 imagen: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
@@ -109,7 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: Funciona muy bien para combinar el Bilbao clásico (Casco Viejo, palacios, catedral) con el Guggenheim sin depender de horarios de visita guiada. Con +15 puntos de interés es un recorrido de nivel medio, ni tan corto como Girona ni tan extenso como Barcelona. Recomendable para quien prefiere moverse a su aire y hacer sus propias fotos con calma.
+atraccionesRelacionadas:
+- casco-viejo
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado bilbao

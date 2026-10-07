@@ -145,6 +145,8 @@ opinionEditorial: 'The **most booked flamenco show in Seville** — 18,292 revie
   is better), those wanting traditional tablao with 50 years of history + dinner (Tablao El Arenal is better).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - teatro flamenco seville
@@ -170,8 +172,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-seville-which-tablao-to-choose"
 ---

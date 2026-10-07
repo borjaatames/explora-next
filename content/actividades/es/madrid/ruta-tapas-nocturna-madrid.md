@@ -80,6 +80,8 @@ opinionEditorial: |
 
   Lo que conviene saber antes de reservar, y es lo más importante: el precio de 35 € engaña. Solo cubre el tour guiado. Al empezar, el guía recauda 30 € más de cada persona como fondo común para pagar la comida y la bebida, así que el coste real ronda los 65 € por cabeza. No es un sobrecoste oculto —el operador lo explica—, pero conviene saberlo y llevar el efectivo. Si te molesta ese sistema de bote o esperabas que todo estuviera incluido en el precio de reserva, te encajará mejor un tour con todo cerrado de antemano, como el [del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid). Y no es accesible en silla de ruedas.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "toursGastronomicos"
 keywords: ["ruta de tapas nocturna madrid", "tour de tapas noche madrid", "tapas madrid en aleman", "tour tapas tradicionales madrid", "ruta tapas centro madrid"]
 
@@ -102,8 +104,6 @@ numeroOpiniones: 65
 publicada: true
 destacada: false
 fecha: "2026-05-14"
-atraccionesRelacionadas:
-  - "tapas-madrid"
 guiasRelacionadas:
   - "tapas-madrid-que-tour-elegir"
 ---

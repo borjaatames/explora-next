@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Seville is one of Spain''s best cities to see by bike: flat, with cycle lanes and monuments close together. With nearly 1,600 reviews and a 4.9 rating, it''s one of the city''s top-rated tours. For families whose kids already ride well.'
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: visitasGuiadas
 keywords:
 - seville bike tour
@@ -90,9 +92,6 @@ galeria:
   alt: Group of friends cycling down a charming street
 ratingProveedor: 4.9
 numeroOpiniones: 1585
-atraccionesRelacionadas:
-- plaza-espana
-- real-alcazar
 publicada: true
 destacada: false
 fecha: '2026-10-04'

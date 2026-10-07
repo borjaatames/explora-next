@@ -105,7 +105,9 @@ opinionEditorial: 'The 2-in-1 option for anyone wanting to combine Royal Palace 
   it up for you.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- palacio-real
+categoria: visitasGuiadas
 keywords:
 - royal palace almudena tour
 - royal palace cathedral madrid
@@ -144,9 +146,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
-- almudena
 ---
 
 ## What you'll see

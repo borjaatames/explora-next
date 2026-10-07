@@ -50,7 +50,9 @@ chipsFiltros:
   - { label: "Alcazaba y Gibralfaro", tag: "alcazaba-gibralfaro" }
   - { label: "Museo Picasso", tag: "picasso" }
   - { label: "Caminito del Rey", tag: "caminito-del-rey" }
-  - { label: "Centro histórico", tag: "centro-historico" }
+  - { label: "Barco", tag: "barco" }
+  - { label: "Excursiones", tag: "excursiones" }
+  - { label: "Centro y otros planes", tag: "centro-historico" }
 ---
 
 Málaga es la capital de la Costa del Sol y la sexta ciudad de España —unos 580.000 habitantes—, a orillas del Mediterráneo en plena Andalucía. Durante años fue solo la puerta de entrada a las playas de la costa; hoy es uno de los **destinos culturales más en alza del sur**, con más de treinta museos.

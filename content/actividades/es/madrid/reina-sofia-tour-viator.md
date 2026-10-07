@@ -89,7 +89,7 @@ opinionEditorial: 'Versión Viator del tour del Reina Sofía con Amigo Tours. Es
   es mejor opción.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - reina sofia viator
 - amigo tours reina sofia

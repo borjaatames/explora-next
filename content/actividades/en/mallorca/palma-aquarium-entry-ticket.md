@@ -66,6 +66,8 @@ opinionEditorial: 'This is the all-purpose Mallorca plan with kids: it works at 
 guiasRelacionadas:
 - mallorca-with-kids
 - what-to-see-in-mallorca
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - palma aquarium tickets

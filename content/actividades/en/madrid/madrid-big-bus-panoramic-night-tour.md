@@ -106,6 +106,8 @@ opinionEditorial: 'This is the Big Bus night tour in Madrid: 4.2/5 across 977 re
   makes it hard to hear), and anyone travelling without a jacket (even in summer it''s chilly in an open-top at 70 km/h).
 
   '
+atraccionesRelacionadas:
+- otros-madrid
 categoria: transporte
 keywords:
 - big bus night madrid
@@ -126,9 +128,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- plaza-cibeles
-- almudena
 ---
 
 ## What you'll see

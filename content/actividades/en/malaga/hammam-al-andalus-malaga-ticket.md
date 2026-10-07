@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: This is Málaga's go-to relaxation plan, ideal after a day of sightseeing or on a rainy afternoon. Highly rated and right in the centre. Book ahead at weekends.
 guiasRelacionadas:
 - malaga-in-two-days
+atraccionesRelacionadas:
+- centro-historico
 categoria: entradas
 keywords:
 - hammam malaga
@@ -88,8 +90,6 @@ galeria:
   alt: Two people in robes drinking tea at a hammam
 ratingProveedor: 4.7
 numeroOpiniones: 2863
-atraccionesRelacionadas:
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

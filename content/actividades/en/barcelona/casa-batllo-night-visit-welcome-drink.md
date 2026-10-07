@@ -97,7 +97,9 @@ opinionEditorial: |
 
   Who it's for: cost-conscious travellers wanting a night-time Casa Batlló experience without paying for a concert, anyone who wants Gaudí + cava + atmosphere at a reasonable price (~€31), couples wanting a low-key date evening, photographers (different lighting from daytime), and Gaudí enthusiasts adding a second Casa Batlló visit after the daytime tour. Who it's NOT for: travellers wanting the rooftop concert (book t168768 instead, €64), anyone needing flexible cancellation (this is non-refundable), and visitors with strollers (not allowed inside).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa batllo night visit", "casa batllo cava", "casa batllo evening tour", "casa batllo welcome drink", "casa batllo night ticket"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
@@ -118,8 +120,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## What you'll see

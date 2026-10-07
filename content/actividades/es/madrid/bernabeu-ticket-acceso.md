@@ -108,7 +108,9 @@ opinionEditorial: 'Es el ticket oficial del Tour Bernabéu que vende GetYourGuid
   humano (aquí no la hay) o quien necesite cambiar de fecha (la entrada estándar no admite reembolso).
 
   '
-categoria: deportivo
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - bernabeu tour
 - santiago bernabeu entrada
@@ -141,8 +143,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- bernabeu
 ---
 
 ## Qué vas a ver

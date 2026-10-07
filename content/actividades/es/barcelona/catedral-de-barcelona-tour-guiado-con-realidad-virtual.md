@@ -100,7 +100,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - barrio-gotico
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["tour catedral barcelona realidad virtual", "tour vr catedral barcelona", "catedral barcelona guiado vr", "catedral barcelona tour guiado", "realidad virtual catedral barri gotic"]
 
 imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"

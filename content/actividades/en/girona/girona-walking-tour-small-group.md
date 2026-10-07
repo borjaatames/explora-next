@@ -66,6 +66,8 @@ opinionEditorial: 'This is the best first introduction to Girona: in two and a h
 guiasRelacionadas:
 - what-to-see-in-girona-in-one-day
 - girona-game-of-thrones
+atraccionesRelacionadas:
+- casco-medieval
 categoria: visitasGuiadas
 keywords:
 - girona walking tour
@@ -88,10 +90,6 @@ galeria:
   alt: Sant Pere de Galligants monastery in Girona
 ratingProveedor: 4.8
 numeroOpiniones: 826
-atraccionesRelacionadas:
-- casco-medieval
-- catedral
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

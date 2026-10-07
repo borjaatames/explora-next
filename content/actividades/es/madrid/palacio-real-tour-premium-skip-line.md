@@ -107,7 +107,9 @@ opinionEditorial: 'Es la opción «premium» del Palacio Real de Madrid, en el s
   grupos mixtos, mejor coordinarse antes.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- palacio-real
+categoria: visitasGuiadas
 keywords:
 - palacio real madrid premium
 - tour palacio real guia local
@@ -135,8 +137,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
 ---
 
 ## Qué vas a ver

@@ -104,7 +104,6 @@ opinionEditorial: 'This is the highest-rated visit in the comparison: 4.9 out of
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra guided tour with tickets

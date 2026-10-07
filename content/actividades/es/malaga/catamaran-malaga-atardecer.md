@@ -67,6 +67,8 @@ opinionEditorial: 'Por lo que cuesta, es de los mejores planes de Málaga: ves l
 guiasRelacionadas:
 - malaga-en-dos-dias
 - malaga-con-ninos
+atraccionesRelacionadas:
+- barco
 categoria: excursionesDia
 keywords:
 - catamaran malaga

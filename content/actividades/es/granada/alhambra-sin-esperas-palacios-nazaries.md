@@ -100,6 +100,8 @@ opinionEditorial: 'Lo que distingue a esta visita es la flexibilidad. No es un �
   hay opciones más económicas y con más reseñas en este mismo comparador.
 
   '
+atraccionesRelacionadas:
+- alhambra
 categoria: visitasGuiadas
 keywords:
 - alhambra sin esperas
@@ -145,9 +147,6 @@ numeroOpiniones: 432
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
-- palacios-nazaries
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

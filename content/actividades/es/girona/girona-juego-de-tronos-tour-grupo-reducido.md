@@ -66,6 +66,8 @@ opinionEditorial: 'Es el tour de Juego de Tronos más reseñado de Girona y se n
 guiasRelacionadas:
 - girona-juego-de-tronos
 - que-ver-en-girona-en-un-dia
+atraccionesRelacionadas:
+- casco-medieval
 categoria: visitasGuiadas
 keywords:
 - tour juego de tronos girona
@@ -88,10 +90,6 @@ galeria:
   alt: Calle de piedra junto al paseo de la muralla de Girona
 ratingProveedor: 4.9
 numeroOpiniones: 951
-atraccionesRelacionadas:
-- casco-medieval
-- catedral
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

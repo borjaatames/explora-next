@@ -105,6 +105,8 @@ opinionEditorial: |
 
   **Who it's for:** English-speaking solo travellers, couples or small parties (2-6 people) who value intimate experience over price, wheelchair users (this is the accessible alternative to t396762), visitors with deeper interest in 14th-century Mudéjar architecture and Spanish royal history. **Who it's NOT for:** Spanish-speaking visitors (use the standard skip-line tour t396762), tight-budget travellers (€20 more than the standard), large families/groups (8+ would fill the entire group quota), visitors not fluent in English.
 
+atraccionesRelacionadas:
+- real-alcazar
 categoria: "visitasGuiadas"
 keywords: ["seville alcazar small group tour", "alcazar english only premium", "alcazar wheelchair accessible tour", "alcazar private group max 10", "seville unique experiences alcazar"]
 
@@ -121,7 +123,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

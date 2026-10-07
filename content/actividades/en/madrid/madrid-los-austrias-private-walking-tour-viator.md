@@ -88,7 +88,7 @@ opinionEditorial: |
 
   Who it's for: high-budget travellers staying in premium centre hotels who want dedicated attention and an elegant Palace start, special occasions (anniversaries, honeymoons) with comfortable budget and firm dates, small closed groups where the per-head cost makes paying for a dedicated guide worthwhile. Who it's NOT for: anyone on a normal budget (small-group alternatives cost 1/8), travellers with potentially changing schedules (non-refundable), those wanting to enter monuments in the same activity (this is exterior), and solo travellers (extremely expensive per head).
 
-categoria: "cultural"
+categoria: experienciasPrivadas
 keywords: ["private madrid austrias tour", "madrid private walking tour", "madrid private tour viator", "personalised madrid austrias tour", "viator private madrid centre"]
 
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-2-hero.webp"

@@ -98,7 +98,9 @@ opinionEditorial: |
 
   Who it's for: repeat Barcelona visitors wanting depth, first-timers willing to skip postcards for storytelling, English-speaking small-group preferrers (max 9), travellers who appreciate hidden-corner storytelling over highlight bingo, and anyone wanting «top rated» 4.9/5 status with Guide 5/5. Who it's NOT for: Spanish-speaking visitors (book t61664), wheelchair users (cobblestones + narrow alleys), travellers wanting Gaudí houses in the tour (book t448358), and first-timers needing iconic-only highlights.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- barrio-gotico
+categoria: visitasGuiadas
 keywords: ["barcelona hidden gems walking tour", "el born gothic quarter small group", "barcelona top rated walking tour 4.9", "barcelona hidden corners tour", "barri gotic el born walking tour"]
 
 imagen: "/images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp"
@@ -115,7 +117,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

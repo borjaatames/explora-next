@@ -86,11 +86,11 @@ opinionEditorial: |
 
   Lo que conviene saber: el operador desaconseja la actividad a personas con problemas de movilidad o cardíacos. El Albaicín y el Sacromonte tienen cuestas empinadas y escaleras — calzado cerrado y agua son obligatorios, especialmente en verano. El horario cambia según la estación: en invierno arrancarás sobre las 17:00, en verano sobre las 20:30, siempre apuntando a llegar al mirador justo antes del atardecer. Es una de las actividades más memorables de Granada y la prefiero recomendar antes que la visita diurna del mismo recorrido — la luz del atardecer transforma la experiencia.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
 categoria: "visitasGuiadas"
 keywords: ["albaicin sacromonte tour", "tour atardecer granada", "albaicin guiado", "san nicolas mirador", "tour albaicin sacromonte"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
 
 imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
 imagenAlt: "Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer"

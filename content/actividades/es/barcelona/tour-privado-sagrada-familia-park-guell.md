@@ -41,6 +41,8 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'Las dos obras imprescindibles de Gaudí en medio día y sin colas, con un guía solo para vosotros y traslado
   entre ambas: es la forma más cómoda de verlas, sobre todo en familia o si no quieres pelearte con el transporte ni con las
   entradas.'
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: experienciasPrivadas
 keywords:
 - tour privado sagrada familia park guell
@@ -86,9 +88,6 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-atraccionesRelacionadas:
-- sagrada-familia
-- park-guell
 fecha_actualizacion: '2026-06-22'
 guiasRelacionadas:
   - "sagrada-familia-que-entrada-elegir"

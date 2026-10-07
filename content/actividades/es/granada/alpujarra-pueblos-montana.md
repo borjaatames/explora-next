@@ -102,6 +102,8 @@ opinionEditorial: 'La excursión más reseñada a la Alpujarra granadina (320 va
   más natural.
 
   '
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - alpujarra granada
@@ -109,7 +111,6 @@ keywords:
 - pampaneira bubion capileira
 - excursion alpujarra desde granada
 - alpujarra dia completo
-atraccionesRelacionadas: []
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
 imagenAlt: Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y
   montañas al fondo

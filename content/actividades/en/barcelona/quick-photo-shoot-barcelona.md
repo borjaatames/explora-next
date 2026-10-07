@@ -45,6 +45,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
 opinionEditorial: "At 35 euros for 20 minutes, this is the obvious pick if you just want a handful of good photos without staging a production. Don't expect dozens of different backdrops — it's a short, focused session built around moving naturally near the Sagrada Familia."
+atraccionesRelacionadas:
+- fotos
 categoria: experienciasPrivadas
 keywords:
 - quick photoshoot barcelona

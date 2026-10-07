@@ -65,10 +65,14 @@ atracciones:
 chipsFiltros:
   - { label: "Real Alcázar", tag: "real-alcazar" }
   - { label: "Kathedrale und Giralda", tag: "catedral-giralda" }
-  - { label: "Plaza de España", tag: "plaza-espana" }
   - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Tapas und Wein", tag: "tapas-sevilla" }
   - { label: "Tuk-Tuk", tag: "tuk-tuk" }
+  - { label: "Tapas und Wein", tag: "tapas-sevilla" }
+  - { label: "Boot und Kajak", tag: "barco" }
+  - { label: "Tagesausflüge", tag: "excursiones" }
+  - { label: "Familienausflüge", tag: "familia" }
+  - { label: "Weitere Sehenswürdigkeiten", tag: "monumentos" }
+  - { label: "Stadt-, Rad- und Bustouren", tag: "tours-a-pie" }
 ---
 
 Sevilla ist die **Hauptstadt Andalusiens** und die viertgrößte Stadt Spaniens: **684.000 Einwohner** im Stadtgebiet und mehr als 1,5 Millionen im Großraum. Sie ist Sitz der Junta de Andalucía und wirtschaftliches, kulturelles und religiöses Zentrum des südlichen Spaniens.

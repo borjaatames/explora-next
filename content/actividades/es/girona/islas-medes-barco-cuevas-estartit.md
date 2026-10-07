@@ -73,6 +73,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Las Medes son la reserva marina más conocida de Cataluña y el barco pequeño marca la diferencia: entra en cuevas y pasa bajo la Roca Foradada, cosa que los barcos grandes no hacen. Hora y media es corto, pero bien aprovechado. Combínalo con una tarde en Pals o en Begur y tienes un día completo desde Girona.'
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
+atraccionesRelacionadas:
+- costa-brava
 categoria: visitasGuiadas
 keywords:
 - islas medes barco
@@ -93,8 +95,6 @@ galeria:
   alt: Las islas Medes en el horizonte vistas desde la costa
 ratingProveedor: 4.6
 numeroOpiniones: 634
-atraccionesRelacionadas:
-- costa-brava
 publicada: true
 destacada: false
 fecha: '2026-10-04'

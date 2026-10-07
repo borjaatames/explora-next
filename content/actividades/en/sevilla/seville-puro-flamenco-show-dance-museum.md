@@ -157,6 +157,8 @@ opinionEditorial: '**Flamenco with the Cristina Hoyos signature** — 6,456 revi
   (Teatro Flamenco Triana), those who value being able to take photos (not allowed here), strict wheelchair users.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - flamenco dance museum seville
@@ -184,8 +186,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- flamenco
 guiasRelacionadas:
   - "flamenco-seville-which-tablao-to-choose"
 ---

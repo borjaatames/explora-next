@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: Es el plan de relax por excelencia en Málaga, ideal después de un día de calle o para una tarde de lluvia. Muy bien valorado y en pleno centro. Reserva con antelación los fines de semana.
 guiasRelacionadas:
 - malaga-en-dos-dias
+atraccionesRelacionadas:
+- centro-historico
 categoria: entradas
 keywords:
 - hammam malaga
@@ -88,8 +90,6 @@ galeria:
   alt: Dos personas con albornoz tomando té en un hammam
 ratingProveedor: 4.7
 numeroOpiniones: 2863
-atraccionesRelacionadas:
-- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-10-04'

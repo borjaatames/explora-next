@@ -103,7 +103,6 @@ opinionEditorial: 'This visit sits in the middle of the catalogue, and it does i
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra small group tour

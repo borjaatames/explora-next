@@ -67,6 +67,8 @@ opinionEditorial: Aunque no seas del Athletic, San Mamés es de los estadios má
 guiasRelacionadas:
 - bilbao-con-ninos
 - bilbao-en-un-dia
+atraccionesRelacionadas:
+- futbol
 categoria: entradas
 keywords:
 - san mames tour

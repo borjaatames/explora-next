@@ -69,6 +69,8 @@ opinionEditorial: 'It packs the three things worth seeing east of Málaga into o
 guiasRelacionadas:
 - day-trips-from-malaga
 - malaga-with-kids
+atraccionesRelacionadas:
+- excursiones
 categoria: excursionesDia
 keywords:
 - nerja day trip from malaga

@@ -95,6 +95,8 @@ opinionEditorial: |
 
   **Who it's for:** travellers who want an EVENING activity around food without effort, visitors who don't want to cook on holiday, groups mixing vegetarians and seafood eaters (both options available), couples seeking a relaxed dinner with chef demonstration, photographers (the cooking demo is visually rich). **Who it's NOT for:** anyone expecting hands-on cooking participation (explicit show-cooking), strict vegans (vegetarian option includes dairy/eggs), severe shellfish allergies if seafood option (vegetarian is safe), children under 12 (alcohol is part of the pairing). **EDITORIAL NOTE on EN-only:** this experience is EN-only on GYG — following the Madrid tapas precedent where international culinary experiences target English-speaking tourists. Spanish-speaking visitors who want hands-on culinary experiences may prefer local cooking schools booked directly (not via GYG).
 
+atraccionesRelacionadas:
+- tapas-sevilla
 categoria: "toursGastronomicos"
 keywords: ["seville paella experience", "seville sangria tasting", "paella show cooking seville", "seville food experience english", "paella class seville"]
 
@@ -109,7 +111,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

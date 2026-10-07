@@ -110,7 +110,9 @@ opinionEditorial: 'El producto mejor valorado de los tours de estadios de Madrid
   con audio opcional.
 
   '
-categoria: deportivo
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - wanda metropolitano tour
 - atletico madrid estadio
@@ -136,7 +138,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

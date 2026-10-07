@@ -101,6 +101,8 @@ opinionEditorial: 'What sets this visit apart is its flexibility. It isn''t a si
   the best price, there are cheaper options with more reviews in this same comparison.
 
   '
+atraccionesRelacionadas:
+- alhambra
 categoria: visitasGuiadas
 keywords:
 - alhambra skip the wait
@@ -146,8 +148,6 @@ numeroOpiniones: 432
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-how-to-visit"
   - "alhambra-which-tour-to-choose"

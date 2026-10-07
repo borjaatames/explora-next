@@ -66,6 +66,8 @@ opinionEditorial: 'This is Girona''s most-reviewed Game of Thrones tour, and it 
 guiasRelacionadas:
 - girona-game-of-thrones
 - what-to-see-in-girona-in-one-day
+atraccionesRelacionadas:
+- casco-medieval
 categoria: visitasGuiadas
 keywords:
 - game of thrones tour girona
@@ -88,10 +90,6 @@ galeria:
   alt: Stone street next to Girona's city wall walk
 ratingProveedor: 4.9
 numeroOpiniones: 951
-atraccionesRelacionadas:
-- casco-medieval
-- catedral
-- call-juderia
 publicada: true
 destacada: false
 fecha: '2026-10-04'

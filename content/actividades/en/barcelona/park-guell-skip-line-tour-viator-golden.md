@@ -89,7 +89,7 @@ opinionEditorial: |
 
   Who it's for: travellers who already use Viator as a habit (so it makes sense to keep bookings consolidated), anyone wanting the Golden Tour Guide operator without preferring the booking platform, and travellers who can guarantee they'll arrive at the right entrance on time. Who it's NOT for: wheelchair users (the operator marks NOT adapted — see t217593 for accessibility), anyone after maximum volume validation (t663776 with 5,637 reviews is more conservative), and anyone with logistic uncertainty about the meeting point (here the cost of getting it wrong is losing the tour without refund).
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell tour viator", "golden tour guide park guell", "park guell skip line viator", "park guell guided tour viator barcelona", "park guell ticket viator"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-hero.webp"

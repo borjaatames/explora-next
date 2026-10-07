@@ -97,6 +97,8 @@ opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia 
   are unforgiving.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - avila and segovia day trip from madrid
@@ -138,8 +140,6 @@ numeroOpiniones: 4805
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
 ---
 
 ## What you'll see

@@ -83,10 +83,11 @@ opinionEditorial: |
 
   A new product on GYG (no reviews yet) run professionally with live WhatsApp support and a downloadable PDF. The selection of 5 areas (Carlos Cano, Reyes Católicos, Bib-Rambla, Elvira, Santa Ana) covers the best-known tapas zones. A perfect intro to Granada's tapeo without spending more.
 
+atraccionesRelacionadas:
+- otros-granada
 categoria: "toursGastronomicos"
 keywords: ["granada tapas tour", "granada tapas wine", "granada gourmet tour", "granada self-guided tapas", "granada tapas route"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
 imagenAlt: "Traditional Granada tapa with a glass of wine at a central bar"

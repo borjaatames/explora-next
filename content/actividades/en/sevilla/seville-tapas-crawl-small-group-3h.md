@@ -96,6 +96,8 @@ opinionEditorial: |
 
   **Who it's for:** English-speaking visitors who want a TOP-tier tapas experience without research risk (1,848 reviews remove all doubt), foodies who appreciate small groups and curated bar selections, travellers staying near Las Setas or the historic centre (meeting point is central), couples and small groups looking for an evening activity. **Who it's NOT for:** strict vegans/vegetarians (the operator explicit cannot accommodate), visitors under 18 (alcohol is integral), wheelchair users (cobbled streets, standing-only bars), anyone wanting hotel pickup (use Triana tour instead), severe celiacs (cross-contamination risk). **EDITORIAL NOTE:** the EN-only status of this tour reflects a precedent of Madrid tapas cluster — many of Spain's best-rated food tours target international tourists exclusively. The Spanish-speaking audience is better served by the bilingual Triana tour.
 
+atraccionesRelacionadas:
+- tapas-sevilla
 categoria: "toursGastronomicos"
 keywords: ["seville tapas crawl", "seville tapas tour top rated", "seville food tour english", "best tapas tour seville", "tapas crawl small group seville"]
 
@@ -110,7 +112,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

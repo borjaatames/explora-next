@@ -121,7 +121,9 @@ opinionEditorial: 'FC Barcelona''s premium «Total Experience Pass» — 979 rev
   add 30-45 min minimum), and budget-conscious travellers (€49 is meaningful, and the basic ticket delivers 80% of the value).
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - camp nou total experience
 - fc barcelona museum vr
@@ -145,7 +147,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

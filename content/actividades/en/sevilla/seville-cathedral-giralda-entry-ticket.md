@@ -111,6 +111,8 @@ opinionEditorial: |
 
   **Who it's for:** Seville first-timers wanting the essentials without committing to fixed guided tour schedules, multilingual travellers (audio guide in 5 languages), families with children over 6, mid-budget visitors who prefer skip-the-line. **Who it's NOT for:** anyone needing cancellation flexibility (this ticket is non-refundable — see official website), anyone wanting historical/artistic depth (official guided tour is better), strict wheelchair users wanting to climb the Giralda (not accessible), visitors who can book the free Monday slot well in advance.
 
+atraccionesRelacionadas:
+- catedral-giralda
 categoria: "entradas"
 keywords: ["seville cathedral entry", "giralda seville skip line", "seville cathedral no queues", "columbus tomb seville", "seville cathedral audio entry"]
 
@@ -129,8 +131,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- catedral-giralda
 ---
 
 ## What you'll see

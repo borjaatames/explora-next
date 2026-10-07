@@ -69,6 +69,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Ver dos países en un día desde Bilbao: el glamour de Biarritz, el puerto de San Juan de Luz y San Sebastián. Es más cara que otras excursiones, pero el grupo suele ser más pequeño y la vista desde Igueldo es de las mejores del norte.'
 guiasRelacionadas:
 - escapadas-desde-bilbao
+atraccionesRelacionadas:
+- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - excursion biarritz desde bilbao

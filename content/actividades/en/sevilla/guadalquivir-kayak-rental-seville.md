@@ -73,6 +73,8 @@ preguntasFrecuentes:
 opinionEditorial: 'This is the perfect plan for tweens and teens who get bored of monuments: sport, water and Seville from an angle few people see. Very good value, with an instructor.'
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - kayak seville

@@ -95,7 +95,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - barrio-gotico
-categoria: "cultural"
+categoria: entradas
 keywords: ["entrada catedral barcelona", "ticket catedral de barcelona", "catedral gotica barcelona", "santa esglesia catedral barcelona", "visita catedral barri gotic"]
 
 imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp"

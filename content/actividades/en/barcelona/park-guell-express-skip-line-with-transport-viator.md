@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Who it's for: English-speaking travellers tight on time wanting Park Güell with operational solution (transport to the park + skip-the-line + gratuities included in one ticket), anyone who values the combination with Sagrada Familia in a single day, and travellers comparing City Wonders products between GYG and Viator who prefer Viator. Who it's NOT for: non-English-fluent travellers needing the tour in another language, anyone wanting deep tour (1h 5min is express — see the 1.5-2h GYG t2323 classic), and travellers who already know the public transport to Park Güell and don't need «transport included» to drive their decision.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["park guell express viator", "park guell with transport", "city wonders park guell", "park guell skip line transport", "park guell viator combined"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero-hero.webp"

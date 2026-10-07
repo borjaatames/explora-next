@@ -54,6 +54,8 @@ detallesPracticos:
   edadMinima: 18
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'Compared to our other Madrid pub crawl, this is the more flexible option: free cancellation up to 24h before and a guide in six languages, a good pick for international groups. It has one venue fewer (4 instead of 5), and the dress code is stricter — no sportswear, and no sandals or shorts for the guys.'
+atraccionesRelacionadas:
+- otros-madrid
 categoria: espectaculos
 keywords:
 - madrid pub crawl bars

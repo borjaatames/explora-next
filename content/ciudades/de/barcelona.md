@@ -63,14 +63,18 @@ atracciones:
     imagen: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
     imagenAlt: "Strand von Barceloneta mit der Strandpromenade von Barcelona"
 chipsFiltros:
-  - { label: "Sagrada Familia", tag: "sagrada-familia" }
+  - { label: "Sagrada Família", tag: "sagrada-familia" }
   - { label: "Park Güell", tag: "park-guell" }
-  - { label: "Casa Batlló", tag: "casa-batllo" }
-  - { label: "Ausflug nach Montserrat", tag: "montserrat" }
-  - { label: "Gotisches Viertel", tag: "barrio-gotico" }
+  - { label: "Casa Batlló und La Pedrera", tag: "casa-batllo" }
+  - { label: "Montserrat", tag: "montserrat" }
+  - { label: "Camp Nou", tag: "futbol" }
+  - { label: "Picasso-Museum", tag: "picasso" }
   - { label: "Flamenco", tag: "flamenco" }
   - { label: "Bootstouren", tag: "barco" }
   - { label: "Tapas und Wein", tag: "tapas-barcelona" }
+  - { label: "Gotisches Viertel und Kathedrale", tag: "barrio-gotico" }
+  - { label: "Fotoshootings", tag: "fotos" }
+  - { label: "Weitere Erlebnisse", tag: "otros-barcelona" }
 ---
 
 Barcelona ist die Hauptstadt Kataloniens und die zweitgrößte Stadt Spaniens: rund **1,7 Millionen Einwohner** im Stadtgebiet und mehr als 5,7 Millionen im Großraum. Sie ist Sitz der Generalitat und der wichtigste Wirtschaftsmotor am spanischen Mittelmeer.

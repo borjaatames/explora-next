@@ -105,7 +105,9 @@ opinionEditorial: 'This is the «premium» option for Madrid''s Royal Palace, in
   For mixed groups, better coordinate beforehand.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- palacio-real
+categoria: visitasGuiadas
 keywords:
 - royal palace madrid premium
 - royal palace local guide tour
@@ -133,8 +135,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
 ---
 
 ## What you'll see

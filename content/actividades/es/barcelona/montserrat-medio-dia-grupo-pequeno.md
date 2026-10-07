@@ -95,6 +95,8 @@ opinionEditorial: |
 
   Lo que conviene saber: no incluye cremallera (si lo quieres, mira otras opciones). Y las variantes con extras (Moreneta, coro, bodega) tienen restricciones de día y horario — comprueba la disponibilidad en tu fecha antes de reservar.
 
+atraccionesRelacionadas:
+- montserrat
 categoria: "excursionesDia"
 keywords: ["montserrat medio dia", "montserrat acceso anticipado", "montserrat barcelona local experiences", "tour montserrat 4 opciones"]
 
@@ -120,8 +122,6 @@ numeroOpiniones: 6372
 publicada: true
 destacada: false
 fecha: "2026-05-15"
-atraccionesRelacionadas:
-  - "montserrat"
 bokunProductId: 866982
 fecha_actualizacion: '2026-06-18'
 guiasRelacionadas:

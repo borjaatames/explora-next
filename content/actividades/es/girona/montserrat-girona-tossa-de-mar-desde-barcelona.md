@@ -76,6 +76,8 @@ opinionEditorial: Montserrat, Girona y la Costa Brava son tres excursiones disti
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 - montserrat-que-excursion-elegir
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
 - excursion montserrat girona costa brava
@@ -98,9 +100,6 @@ galeria:
   alt: Tossa de Mar vista desde lo alto con sus tejados y el mar
 ratingProveedor: 4.8
 numeroOpiniones: 1971
-atraccionesRelacionadas:
-- costa-brava
-- casco-medieval
 publicada: true
 destacada: false
 fecha: '2026-10-04'

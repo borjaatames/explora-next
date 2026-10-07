@@ -67,6 +67,8 @@ opinionEditorial: 'It''s Bilbao''s top-rated tour: 4.9 from over a thousand revi
 guiasRelacionadas:
 - bilbao-pintxos
 - bilbao-in-one-day
+atraccionesRelacionadas:
+- gastronomia
 categoria: toursGastronomicos
 keywords:
 - bilbao pintxos tour
@@ -90,9 +92,6 @@ galeria:
   alt: Table with pintxos and sharing plates
 ratingProveedor: 4.9
 numeroOpiniones: 1041
-atraccionesRelacionadas:
-- gastronomia
-- casco-viejo
 publicada: true
 destacada: false
 fecha: '2026-10-04'

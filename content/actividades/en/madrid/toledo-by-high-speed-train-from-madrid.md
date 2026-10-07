@@ -69,6 +69,8 @@ variantes:
 - toledo-full-day-from-madrid
 - toledo-and-don-quixote-windmills-from-madrid
 opinionEditorial: 'The fastest and most comfortable option: half an hour by train and you are in Toledo, and you are back within five hours, with a group of eight at most. Tickets are not included, so it suits those who want to see the city with a good guide rather than go inside every monument.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - toledo by ave train
@@ -106,9 +108,6 @@ numeroOpiniones: 81
 publicada: true
 destacada: false
 fecha: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 fecha_actualizacion: '2026-10-04'
 ---
 

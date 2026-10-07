@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 12 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
 opinionEditorial: 'Es la opción más relajada de este grupo de experiencias: menos ''turística'' y más pensada para una tarde tranquila en pareja o con amigos. La localización sorpresa forma parte de la propuesta, así que no es para quien necesite controlar exactamente dónde va a estar de antemano. El menú (jamón, quesos, espumoso sin alcohol) es de gama alta y funciona también para quien no bebe, aunque no es buena opción si hay intolerancias alimenticias severas en el grupo.'
+atraccionesRelacionadas:
+- otros-madrid
 categoria: experienciasPrivadas
 keywords:
 - picnic privado madrid

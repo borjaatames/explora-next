@@ -102,8 +102,6 @@ opinionEditorial: 'The CHEAPEST Alhambra ticket in the catalogue (€18). The bi
   '
 atraccionesRelacionadas:
 - alhambra
-- generalife
-- palacios-nazaries
 categoria: entradas
 keywords:
 - alhambra gardens ticket

@@ -97,7 +97,9 @@ opinionEditorial: |
 
   Para quién es: viajeros con presupuesto justo que quieran una experiencia nocturna en Casa Batlló sin pagar por concierto, cualquiera que quiera Gaudí + cava + ambiente a precio razonable (~31 €), parejas para una cita tranquila, fotógrafos (iluminación distinta del día) y entusiastas de Gaudí añadiendo una segunda visita a Casa Batlló tras la diurna. Para quién NO: viajeros que quieran el concierto en terraza (reserva t168768 — 64 €), cualquiera que necesite cancelación flexible (esta no es reembolsable) y visitantes con cochecitos (no permitidos dentro).
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- casa-batllo
+categoria: entradas
 keywords: ["casa batllo visita nocturna", "casa batllo cava", "casa batllo tour de tarde", "casa batllo copa bienvenida", "casa batllo entrada nocturna"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
@@ -118,8 +120,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- casa-batllo
 ---
 
 ## Qué vas a ver

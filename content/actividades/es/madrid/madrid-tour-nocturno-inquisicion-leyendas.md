@@ -89,6 +89,8 @@ opinionEditorial: |
 
   Para quién: viajeros que quieren plan nocturno barato y entretenido, parejas o grupos pequeños que disfruten el formato relato, familias con niños mayores (8+) que se enganchen con historias dramatizadas. Para quién NO: viajeros con movilidad reducida (adoquinado del casco antiguo complicado en silla), académicos exigentes que busquen rigor histórico puro, niños muy pequeños (temas oscuros), y viajeros que esperen sustos tipo casa del terror (aquí no los hay).
 
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: "espectaculos"
 keywords: ["tour nocturno madrid", "inquisicion espanola madrid tour", "leyendas madrid noche", "fantasmas madrid tour", "mysterium tours madrid"]
 
@@ -108,8 +110,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "plaza-mayor"
 ---
 
 ## Qué vas a ver

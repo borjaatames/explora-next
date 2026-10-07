@@ -131,7 +131,9 @@ opinionEditorial: 'Ticket oficial del Museo FC Barcelona durante el periodo de r
   visita necesita 1,5-2 horas mínimo para que merezca la pena a este precio).
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - entrada museo camp nou
 - barca immersive tour
@@ -155,7 +157,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

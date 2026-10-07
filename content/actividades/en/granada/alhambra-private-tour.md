@@ -105,7 +105,6 @@ opinionEditorial: 'This is the premium option in the comparison, and the key que
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra private tour

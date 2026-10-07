@@ -64,6 +64,8 @@ opinionEditorial: 'El Guggenheim por libre se queda en un edificio bonito y sala
 guiasRelacionadas:
 - museo-guggenheim-como-visitar
 - bilbao-en-un-dia
+atraccionesRelacionadas:
+- guggenheim
 categoria: visitasGuiadas
 keywords:
 - visita guiada guggenheim
@@ -85,8 +87,6 @@ galeria:
   alt: El Guggenheim con el arco rojo del puente de La Salve
 ratingProveedor: 4.9
 numeroOpiniones: 182
-atraccionesRelacionadas:
-- guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-04'

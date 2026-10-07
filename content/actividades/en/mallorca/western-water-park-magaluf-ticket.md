@@ -68,6 +68,8 @@ preguntasFrecuentes:
 opinionEditorial: 'Of Mallorca''s three water parks, this is the one with the best reviews. It is in Magaluf, an area we do not recommend staying in with kids, but a day trip is fine: the park is on the outskirts, away from the party scene. Arrive early to get a shady spot.'
 guiasRelacionadas:
 - mallorca-with-kids
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - western water park tickets

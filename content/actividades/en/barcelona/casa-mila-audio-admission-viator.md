@@ -91,7 +91,7 @@ opinionEditorial: |
 
   Who it's for: existing Viator users, travellers who prefer Viator's UX, anyone valuing the Lowest Price Guarantee, and Modernisme enthusiasts (the audio guide quality on the Espai Gaudí attic is consistently praised). Who it's NOT for: travellers maximising savings (book the official `lapedrera.com` at €25), GYG users (the same ticket on GYG has 18× more review volume — same price, more validation), travellers wanting live narration (book t913306 Early-Morning Guided Tour instead), and visitors uncertain about rain (rooftop closes, no refund — true on all channels).
 
-categoria: "cultural"
+categoria: entradas
 keywords: ["casa mila viator audio", "la pedrera viator ticket", "casa mila fundacio catalunya la pedrera", "la pedrera audio guide viator", "casa mila skip the line viator"]
 
 imagen: "/images/actividades/barcelona/casa-mila/casa-mila-2877-hero.webp"

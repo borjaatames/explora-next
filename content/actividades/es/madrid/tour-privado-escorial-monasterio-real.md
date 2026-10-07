@@ -54,6 +54,8 @@ opinionEditorial: 'El Escorial está mal conectado con transporte público, así
   vais a vuestro aire, con un guía solo para vosotros y tiempo para el monasterio,
   que es enorme. Es la opción premium —1.499 € por grupo— pensada para quien quiere
   comodidad total y una visita a medida; no incluye el almuerzo, así que contad con ello.'
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: experienciasPrivadas
 keywords:
 - tour privado el escorial desde madrid

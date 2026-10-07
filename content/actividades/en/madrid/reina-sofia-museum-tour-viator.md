@@ -88,7 +88,7 @@ opinionEditorial: 'Viator version of the Reina Sofía tour with Amigo Tours. It'
   option.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - reina sofia viator
 - amigo tours reina sofia english

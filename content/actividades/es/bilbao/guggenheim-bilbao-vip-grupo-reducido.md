@@ -72,6 +72,8 @@ preguntasFrecuentes:
 opinionEditorial: Es la opción si quieres el Guggenheim con guía y no hablas español, o si odias los grupos grandes. Cuesta el doble que la visita estándar, pero con 4-8 personas es casi privada.
 guiasRelacionadas:
 - museo-guggenheim-como-visitar
+atraccionesRelacionadas:
+- guggenheim
 categoria: visitasGuiadas
 keywords:
 - guggenheim vip tour
@@ -93,8 +95,6 @@ galeria:
   alt: El Guggenheim iluminado de noche
 ratingProveedor: 4.5
 numeroOpiniones: 763
-atraccionesRelacionadas:
-- guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-04'

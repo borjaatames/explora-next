@@ -107,6 +107,8 @@ opinionEditorial: |
 
   **Who it's for:** travellers with **tight budget** wanting to see Seville from the river (from €17), visitors needing French as guide language (River Boat Tour only ES+EN), **wheelchair users** (this is accessible, the other is not), families with children over 6 (low price + manageable 1h), tourists with little time wanting to add the cruise without spending much. **Who it's NOT for:** couples valuing premium experience with drink (see River Boat Tour), those seeking maximum rating (River Boat Tour 4.7 vs. 4.2), those wanting intimate boat (this is mass), visitors expecting food or premium drinks included (this is just the cruise).
 
+atraccionesRelacionadas:
+- barco
 categoria: "visitasGuiadas"
 keywords: ["most booked guadalquivir cruise seville", "cheap seville boat", "eco cruise seville", "river cruise seville cheap", "guadalquivir cruise wheelchair accessible"]
 
@@ -126,7 +128,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

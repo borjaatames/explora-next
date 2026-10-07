@@ -107,6 +107,8 @@ opinionEditorial: |
 
   **Para quién es:** viajeros con **presupuesto ajustado** que quieran ver Sevilla desde el río (desde 17 €), visitantes que necesiten el francés como idioma de guía (el River Boat Tour solo ES+EN), **usuarios de silla de ruedas** (este es accesible, el otro no), familias con niños mayores de 6 (precio bajo + 1h manejable), turistas con poco tiempo que quieran añadir el crucero sin gastar mucho. **Para quién NO:** parejas que valoren experiencia premium con bebida (ver River Boat Tour), quien busque puntuación máxima (River Boat Tour 4,7 vs. 4,2), quien quiera barco íntimo (este es masivo), visitantes que esperen comida o bebidas premium incluidas (este es solo el crucero).
 
+atraccionesRelacionadas:
+- barco
 categoria: "visitasGuiadas"
 keywords: ["crucero guadalquivir mas vendido sevilla", "barco guadalquivir barato", "eco crucero sevilla", "river cruise seville cheap", "guadalquivir crucero accesible silla"]
 
@@ -126,7 +128,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

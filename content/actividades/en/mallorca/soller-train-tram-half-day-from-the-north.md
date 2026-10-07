@@ -70,6 +70,8 @@ opinionEditorial: 'This is the version of the Sóller train that best suits a fa
 guiasRelacionadas:
 - mallorca-with-kids
 - serra-tramuntana-soller
+atraccionesRelacionadas:
+- tramuntana
 categoria: excursionesDia
 keywords:
 - soller train from alcudia
@@ -90,9 +92,6 @@ galeria:
   alt: Port de Sóller bay surrounded by mountains
 ratingProveedor: 4.4
 numeroOpiniones: 381
-atraccionesRelacionadas:
-- tramuntana
-- pueblos
 publicada: true
 destacada: false
 fecha: '2026-10-04'

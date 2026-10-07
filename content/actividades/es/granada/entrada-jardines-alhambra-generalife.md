@@ -104,8 +104,6 @@ opinionEditorial: 'La entrada MÁS BARATA del catálogo a la Alhambra (18 €). 
   '
 atraccionesRelacionadas:
 - alhambra
-- generalife
-- palacios-nazaries
 categoria: entradas
 keywords:
 - entrada alhambra jardines

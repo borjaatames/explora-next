@@ -92,7 +92,7 @@ opinionEditorial: |
 
   Para quién es: entusiastas serios de la arquitectura dispuestos a pagar premium por narración con guía licenciado, viajeros angloparlantes, cualquiera que valore el formato de grupo reducido (máx. 15) sobre tours masivos, y visitantes con una franja clara de mañana a las 9:00. Para quién NO: viajeros con presupuesto justo (~159 € es 5x el ticket autoguiado), hispanohablantes solo, cualquiera que necesite flexibilidad en hora de inicio, usuarios de silla de ruedas (NO adaptado) y visitantes que no confíen en muestras de reseñas escasas (17 reseñas es poco para comprometer 159 €). Para la mayoría de visitantes de Casa Batlló, el ticket autoguiado con audio (t398519, ~31 €, 27.982 reseñas, 4,7/5) es la compra más inteligente; este tour de Viator es para la minoría comprometida que específicamente quiera narración guiada premium.
 
-categoria: "cultural"
+categoria: visitasGuiadas
 keywords: ["casa batllo tour guia experto", "casa batllo viator guiado", "casa batllo grupo reducido", "casa batllo guia licenciado", "we are guides barcelona casa batllo"]
 
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp"

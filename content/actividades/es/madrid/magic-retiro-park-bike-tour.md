@@ -91,7 +91,9 @@ opinionEditorial: |
 
   Para quién: viajeros que quieren ver el Retiro a fondo en 2 horas (recorrido completo difícil de hacer andando con tan poco tiempo), familias con niños mayores de 10 años con experiencia en bici (el parque cerrado al tráfico añade seguridad), y francófonos (con la limitación de días). Para quién NO: personas que nunca han llevado bici (aquí no se enseña), viajeros con movilidad reducida (no apto en silla — mejor recorrer el parque andando), y quienes necesiten flexibilidad de llegada (el operador es estricto con los 15 min).
 
-categoria: "activo"
+atraccionesRelacionadas:
+- tours-a-pie
+categoria: visitasGuiadas
 keywords: ["retiro bici tour", "tour bicicleta retiro madrid", "ebike retiro park", "magic retiro madrid", "tour bici parque retiro"]
 
 imagen: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
@@ -107,8 +109,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "retiro"
 ---
 
 ## Qué vas a ver

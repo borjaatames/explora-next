@@ -107,7 +107,9 @@ opinionEditorial: 'The best-rated stadium tour product in Madrid: 4.7/5 across 2
   with optional audio.
 
   '
-categoria: deportivo
+atraccionesRelacionadas:
+- futbol
+categoria: entradas
 keywords:
 - wanda metropolitano tour
 - atletico madrid stadium
@@ -133,7 +135,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

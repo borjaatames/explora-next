@@ -104,7 +104,9 @@ opinionEditorial: 'La opción más sólida del Palacio Real de Madrid por la com
   puede mirar las versiones premium o «small group» del mismo palacio — más caras, pero con menos cabezas alrededor.
 
   '
-categoria: cultural
+atraccionesRelacionadas:
+- palacio-real
+categoria: visitasGuiadas
 keywords:
 - palacio real madrid
 - visita guiada palacio real
@@ -130,8 +132,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas:
-- palacio-real
 ---
 
 ## Qué vas a ver

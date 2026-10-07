@@ -123,6 +123,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes que prefieran **ritmo pausado** sobre máxima eficiencia, familias con niños que valoren la 1h de tiempo libre en jardines (espacio para correr, pavos reales, exploración), parejas que quieran fotografía estructurada al inicio + jardines al final, hablantes de italiano o francés (cobertura específica de estos idiomas), grupos de 4-6+ que puedan permitirse la opción PRIVATE. **Para quién NO:** visitantes con prisa que prefieran formato 2,5h (el top vendido t800561 es mejor para eso), hablantes de portugués (no disponible — ver t800561), quien quiera profundidad de un solo monumento (los tours individuales por separado dan más contexto detallado por sitio), viajeros con presupuesto muy ajustado (DIY ahorra €11-15).
 
+atraccionesRelacionadas:
+- real-alcazar
 categoria: "visitasGuiadas"
 keywords: ["sevilla tour 3 5 horas", "catedral alcazar tour largo", "sevilla 3 monumentos jardines", "sevilla tour tiempo libre alcazar", "sevilla foto stop tour"]
 
@@ -144,9 +146,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- real-alcazar
-- catedral-giralda
 ---
 
 ## Qué vas a ver

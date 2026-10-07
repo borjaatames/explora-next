@@ -102,6 +102,8 @@ opinionEditorial: |
 
   **Who it's for:** Spanish nobility history lovers (House of Alba), fans of poet Antonio Machado, photographers of Sevillian courtyards, curious travellers exploring 20th-century high society, anyone interested in 19th-century furniture and decor. **Who it's NOT for:** visitors who already did Pilatos and want something radically different (both share the «private Sevillian palace» format), families with children under 8 lacking patience for audio guides, very rushed visitors with less than 1 h available. **MONDAY TIP:** go Monday afternoon (16:00 to closing) — entry is FREE (just €1 admin fee) thanks to the Fundación Casa de Alba's open-access policy.
 
+atraccionesRelacionadas:
+- monumentos
 categoria: "entradas"
 keywords: ["las dueñas palace ticket", "house of alba seville", "duchess of alba palace", "antonio machado seville", "las duenas audio guide", "duenas palace tickets"]
 
@@ -119,7 +121,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

@@ -76,6 +76,8 @@ opinionEditorial: Montserrat, Girona and the Costa Brava are three separate day 
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 - montserrat-which-excursion-to-choose
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
 - montserrat girona costa brava tour
@@ -98,9 +100,6 @@ galeria:
   alt: Tossa de Mar seen from above with its rooftops and the sea
 ratingProveedor: 4.8
 numeroOpiniones: 1971
-atraccionesRelacionadas:
-- costa-brava
-- casco-medieval
 publicada: true
 destacada: false
 fecha: '2026-10-04'

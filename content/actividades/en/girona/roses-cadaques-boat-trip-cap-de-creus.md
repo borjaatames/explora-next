@@ -73,6 +73,8 @@ preguntasFrecuentes:
 opinionEditorial: The road to Cadaqués is all hairpin bends; arriving by sea is prettier and takes you past the wildest stretch of the Cap de Creus coast. The 1.5-hour stop is tight but enough for the village. A good choice if you are based in Girona and want to see Cadaqués without driving the last stretch.
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
 - roses cadaques boat
@@ -95,9 +97,6 @@ galeria:
   alt: View of Cadaqués and its bay from above
 ratingProveedor: 4.5
 numeroOpiniones: 414
-atraccionesRelacionadas:
-- costa-brava
-- dali-figueres
 publicada: true
 destacada: false
 fecha: '2026-10-04'

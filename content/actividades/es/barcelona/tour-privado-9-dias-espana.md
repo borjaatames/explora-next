@@ -57,6 +57,8 @@ opinionEditorial: 'Es un "gran tour" de España resuelto de principio a fin: cua
   hay estructura pero también tiempo libre. Es una experiencia premium por grupo;
   para una familia o un grupo de amigos que quieren ver lo esencial de España sin
   organizar nada, tiene mucho sentido.'
+atraccionesRelacionadas:
+- otros-barcelona
 categoria: experienciasPrivadas
 keywords:
 - tour privado espana 9 dias

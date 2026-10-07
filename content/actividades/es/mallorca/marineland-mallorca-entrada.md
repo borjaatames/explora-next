@@ -67,6 +67,8 @@ preguntasFrecuentes:
 opinionEditorial: Marineland es uno de los planes familiares de siempre en Mallorca y los niños pequeños lo disfrutan mucho. Está en el suroeste, así que encaja mejor si os alojáis en Palma o alrededores. Si en casa preferís no ver espectáculos con animales, Palma Aquarium es la alternativa.
 guiasRelacionadas:
 - mallorca-con-ninos
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - marineland mallorca entradas

@@ -95,6 +95,8 @@ opinionEditorial: 'This is the simplest, cheapest way into the Sagrada Familia: 
   for a first visit.
 
   '
+atraccionesRelacionadas:
+- sagrada-familia
 categoria: entradas
 keywords:
 - sagrada familia ticket
@@ -110,8 +112,6 @@ numeroOpiniones: 113748
 publicada: true
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
   alt: Sagrada Familia's vibrant stained glass windows with intricate colored patterns and religious iconography

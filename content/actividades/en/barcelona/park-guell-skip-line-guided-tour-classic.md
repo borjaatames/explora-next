@@ -102,7 +102,7 @@ opinionEditorial: 'The LONGEST option in the Park Güell GetYourGuide catalogue:
   visiting the park only to take photos: the simple ticket is the option.
 
   '
-categoria: cultural
+categoria: visitasGuiadas
 keywords:
 - park guell tour 2 hours
 - park guell classic tour

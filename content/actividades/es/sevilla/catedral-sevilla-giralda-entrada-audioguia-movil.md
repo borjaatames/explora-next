@@ -114,6 +114,8 @@ opinionEditorial: |
 
   **Para quién es:** visitantes hispanohablantes (motivo principal del producto), viajeros multilingües que prefieran ritmo libre, parejas que quieran flexibilidad de cancelación, visitantes con presupuesto medio que prioricen autonomía sobre guía físico. **Para quién NO:** quien prefiera ticket más barato sin audio y sin cancelación (`catedral-sevilla-giralda-entrada-skip-line` desde €15), quien quiera tour guiado con guía físico en español (NO disponible en este operador — buscar `catedraldesevilla.es` para la visita guiada oficial en español, €20, 90 min), visitantes sin smartphone o sin auriculares propios, usuarios estrictos de silla de ruedas que quieran subir a la Giralda (no accesible).
 
+atraccionesRelacionadas:
+- catedral-giralda
 categoria: "entradas"
 keywords: ["catedral sevilla audioguia español", "giralda audio movil", "catedral sevilla app movil", "entrada catedral sevilla cancelacion 24h", "audioguia catedral sevilla 5 idiomas"]
 
@@ -131,8 +133,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- catedral-giralda
 ---
 
 ## Qué vas a ver

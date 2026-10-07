@@ -101,6 +101,8 @@ opinionEditorial: |
 
   **Para quién es:** primerizos en Sevilla que quieran **visión general** con guía premium, viajeros con **1 día disponible** que quieran combinar walking tour (mañana) + tours de interiores (tarde) + flamenco (noche), parejas y grupos pequeños (2-6 personas) que valoren grupo reducido sobre precio mínimo, hablantes de **español o inglés**. **Para quién NO:** grupos grandes 6+ (llenan casi todo el cupo de 10), visitantes que quieran entrar a interiores (este es exterior), hablantes de alemán/italiano/francés (ver combos multilingües), visitantes con muy poco tiempo (ver tours más cortos o ir por libre).
 
+atraccionesRelacionadas:
+- tours-a-pie
 categoria: "visitasGuiadas"
 keywords: ["walking tour sevilla mejor valorado", "tour sevilla grupo reducido", "small group tour sevilla", "city highlights sevilla walking", "tour sevilla 4 9 estrellas"]
 
@@ -120,7 +122,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

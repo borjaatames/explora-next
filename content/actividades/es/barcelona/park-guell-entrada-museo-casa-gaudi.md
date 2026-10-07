@@ -90,7 +90,9 @@ opinionEditorial: |
 
   Para quién es: viajeros culturales, fans de Gaudí, cualquiera que planee visitar el resto de obra modernista de Barcelona (Sagrada Familia, Casa Batlló, La Pedrera) y quiera el contexto biográfico primero. Para quién NO es: viajeros con prisa (el museo añade 45 min + paseo), niños menores de 8 (el contenido del museo es denso y adulto) y cualquiera que quiera guía para ambos espacios — el GetYourGuide t419045 (4,7/5 con 19.407 reseñas) es mejor opción si la narración importa, aunque no incluya el museo.
 
-categoria: "cultural"
+atraccionesRelacionadas:
+- park-guell
+categoria: entradas
 keywords: ["park guell museo casa gaudi entrada", "park guell combo museo", "casa museo gaudi park guell", "entrada combinada park guell", "park guell con museo gaudi"]
 
 imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
@@ -106,8 +108,6 @@ publicada: true
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-- park-guell
 guiasRelacionadas:
   - "park-guell-que-entrada-elegir"
 ---

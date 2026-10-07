@@ -103,7 +103,6 @@ opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo ha
   '
 atraccionesRelacionadas:
 - alhambra
-- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra grupo reducido

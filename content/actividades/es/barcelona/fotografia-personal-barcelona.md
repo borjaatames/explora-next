@@ -47,6 +47,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
 opinionEditorial: "Con 104 opiniones a sus espaldas, es la opción con más recorrido de las tres sesiones de este proveedor en Barcelona. La flexibilidad de elegir escenario (Sagrada Familia, Gótico o Park Güell) es su punto fuerte, pero recuerda hablarlo con el fotógrafo al reservar porque no viene fijado de antemano."
+atraccionesRelacionadas:
+- fotos
 categoria: experienciasPrivadas
 keywords:
 - fotografia personal barcelona

@@ -35,8 +35,8 @@ const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
   entradas: "Tickets",
   excursionesDia: "Day trips",
   espectaculos: "Shows",
-  toursGastronomicos: "Food tours",
-  serviciosAdicionales: "Add-ons",
+  toursGastronomicos: "Food & drink",
+  serviciosAdicionales: "Wellness",
   transporte: "Transport",
   experienciasPrivadas: "Private experiences",
 };

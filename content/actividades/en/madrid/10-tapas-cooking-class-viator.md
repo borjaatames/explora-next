@@ -92,7 +92,7 @@ opinionEditorial: |
 
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "gastronomico"
+categoria: toursGastronomicos
 keywords: ["10 tapas cooking class madrid", "tapas cooking class madrid", "viator tapas cooking class", "tortilla croquetas class madrid", "learn spanish tapas cooking"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"

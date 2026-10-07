@@ -71,6 +71,8 @@ variantes:
 - toledo-full-day-from-madrid
 - toledo-by-high-speed-train-from-madrid
 opinionEditorial: 'It combines the best of La Mancha with Toledo in one day and in a small group, and the reviews show it: 4.9 out of 5. The Consuegra windmills are one of Spain''s prettiest sights and hard to reach without a car. It costs more than a big coach tour, but the format makes up for it.'
+atraccionesRelacionadas:
+- toledo
 categoria: excursionesDia
 keywords:
 - don quixote windmills tour
@@ -114,9 +116,6 @@ numeroOpiniones: 314
 publicada: true
 destacada: false
 fecha: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 fecha_actualizacion: '2026-10-04'
 ---
 

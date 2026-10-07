@@ -29,14 +29,13 @@ noIncluye:
   - "Gratuities"
 puntoEncuentro: "Departure point in Barcelona; confirmed on booking."
 opinionEditorial: "One of the best-rated tours in the area (4.99 out of 5) and one of the cheapest: Girona, the Costa Brava and a medieval village in a day from 89 €."
+atraccionesRelacionadas:
+- costa-brava
 categoria: excursionesDia
 keywords:
   - "girona costa brava medieval villages"
   - "emporda day trip"
   - "catalonia tour"
-atraccionesRelacionadas:
-  - costa-brava
-  - casco-medieval
 imagen: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg"
 imagenAlt: "Stone medieval village of the Empordà near Girona"
 

@@ -99,7 +99,7 @@ opinionEditorial: 'Es la versión Viator de la visita autoguiada al Riyadh Air M
   la máxima validación social (GetYourGuide tiene más reseñas), y quien no tenga interés deportivo.
 
   '
-categoria: deportivo
+categoria: entradas
 keywords:
 - wanda metropolitano viator
 - atletico madrid tour viator

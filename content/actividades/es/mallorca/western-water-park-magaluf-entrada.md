@@ -68,6 +68,8 @@ preguntasFrecuentes:
 opinionEditorial: 'De los tres parques acuáticos de Mallorca, es el que mejor sale en las reseñas. Está en Magaluf, una zona que no recomendamos para alojarse con niños, pero ir a pasar el día no tiene problema: está a las afueras, lejos del ambiente de fiesta. Llegad pronto para coger sitio a la sombra.'
 guiasRelacionadas:
 - mallorca-con-ninos
+atraccionesRelacionadas:
+- parques
 categoria: entradas
 keywords:
 - western water park entradas

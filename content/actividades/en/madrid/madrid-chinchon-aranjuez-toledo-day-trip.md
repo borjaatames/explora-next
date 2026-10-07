@@ -116,7 +116,6 @@ opinionEditorial: 'This is the classic combined day trip from Madrid: Chinchón 
   '
 atraccionesRelacionadas:
 - toledo
-- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - chinchon aranjuez toledo day trip
