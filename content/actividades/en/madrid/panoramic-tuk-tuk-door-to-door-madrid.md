@@ -1,8 +1,8 @@
 ---
-titulo: "Panoramic Views in Tuk Tuk"
+titulo: Panoramic Views in Tuk Tuk
 slug: panoramic-tuk-tuk-door-to-door-madrid
 ciudad: madrid
-descripcion: "Luxury electric tuk-tuk tour with door-to-door pickup at your hotel or accommodation in Madrid. Multilingual guide and flexible duration from 1 hour."
+descripcion: Luxury electric tuk-tuk tour with door-to-door pickup at your hotel or accommodation in Madrid. Multilingual guide and flexible duration from 1 hour.
 slugs:
   es: tuk-tuk-panoramico-puerta-a-puerta-madrid
   en: panoramic-tuk-tuk-door-to-door-madrid
@@ -16,7 +16,7 @@ idiomas:
 - es
 proveedor: bokun
 bokunProductId: 1144219
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -44,14 +44,14 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 3
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice)."
-opinionEditorial: "Door-to-door pickup is the big advantage over other Madrid tuk-tuks: you don't have to travel to a meeting point at all. One hour is enough for a solid visual overview of the city straight from your hotel, but if you want to stop and explore on foot at a relaxed pace, pair it with another activity or extend the duration when booking."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
+opinionEditorial: 'Door-to-door pickup is the big advantage over other Madrid tuk-tuks: you don''t have to travel to a meeting point at all. One hour is enough for a solid visual overview of the city straight from your hotel, but if you want to stop and explore on foot at a relaxed pace, pair it with another activity or extend the duration when booking.'
 categoria: experienciasPrivadas
 keywords:
 - door to door tuk tuk madrid
 - electric tuk tuk madrid
 - private tuk tuk tour madrid
-imagen: "https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg"
+imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
 imagenAlt: Luxury electric tuk-tuk picking up travelers at their accommodation in Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/c166b6f3-4c94-42ea-8503-7077dd9a4623.jpg
@@ -64,10 +64,28 @@ galeria:
   alt: Electric tuk-tuk passing through a narrow street in the historic center
 - src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
   alt: Panoramic view of Madrid during the electric tuk-tuk tour
+- src: https://imgcdn.bokun.tools/994c744a-eb97-4f7b-9dbd-e374167501ea.jpg
+  alt: Tuk-tuk heading towards Almudena Cathedral
+- src: https://imgcdn.bokun.tools/9479c210-2e2c-4047-a5d9-4b4ca1524f43.jpg
+  alt: Group enjoying a tuk-tuk ride on a Madrid street
+- src: https://imgcdn.bokun.tools/270a83c2-d29c-40ed-8e91-506fc5eadb04.jpg
+  alt: Electric tuk-tuk stopped by a historic building in Madrid
+- src: https://imgcdn.bokun.tools/4a599e23-7a97-43e9-9b61-8dd3c8b01016.jpg
+  alt: Passengers in a tuk-tuk outside a classic Madrid façade
+- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-street-scene-spanish-flags-hero.webp
+  alt: Plaza de Cibeles and the Palacio de Comunicaciones
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
+  alt: Royal Palace of Madrid
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
+  alt: Tío Pepe sign at Puerta del Sol
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp
+  alt: Plaza Mayor in Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-metropolis-wide-view-hero.webp
+  alt: Gran Vía with the Metrópolis building
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-07'
 ---
 
 ## What you'll see

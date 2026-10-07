@@ -1,8 +1,8 @@
 ---
-titulo: "Tuk-tuk fiesta privada con música en Madrid"
+titulo: Tuk-tuk fiesta privada con música en Madrid
 slug: tuk-tuk-fiesta-privada-musica-madrid
 ciudad: madrid
-descripcion: "Tuk-tuk privado con música a tu gusto por las avenidas más famosas de Madrid. Ideal para cumpleaños, despedidas de soltero/a o antes de salir de noche."
+descripcion: Tuk-tuk privado con música a tu gusto por las avenidas más famosas de Madrid. Ideal para cumpleaños, despedidas de soltero/a o antes de salir de noche.
 slugs:
   es: tuk-tuk-fiesta-privada-musica-madrid
   en: madrid-private-party-tuk-tuk-tour-music
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1229903
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -44,14 +44,14 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación)."
-opinionEditorial: "Esto no es un tour cultural: es una experiencia festiva pensada para animar el ambiente antes de salir de noche o para celebrar algo en grupo. Si buscáis historia y monumentos con calma, mejor elegid el tuk-tuk panorámico; si lo que queréis es música y buen rollo con vuestra gente, este es el producto. Eso sí, nada de alcohol a bordo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+opinionEditorial: 'Esto no es un tour cultural: es una experiencia festiva pensada para animar el ambiente antes de salir de noche o para celebrar algo en grupo. Si buscáis historia y monumentos con calma, mejor elegid el tuk-tuk panorámico; si lo que queréis es música y buen rollo con vuestra gente, este es el producto. Eso sí, nada de alcohol a bordo.'
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk fiesta madrid
 - despedida de soltero tuk tuk madrid
 - tuk tuk música madrid
-imagen: "https://imgcdn.bokun.tools/6445b6f0-5311-418a-9b57-cd1c180b475b.jpg"
+imagen: https://imgcdn.bokun.tools/6445b6f0-5311-418a-9b57-cd1c180b475b.jpg
 imagenAlt: Grupo celebrando una fiesta privada a bordo de un tuk-tuk en Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/9479c210-2e2c-4047-a5d9-4b4ca1524f43.jpg
@@ -60,10 +60,30 @@ galeria:
   alt: Ambiente festivo con música a bordo del tuk-tuk en Madrid
 - src: https://imgcdn.bokun.tools/c56afb2b-0470-47cc-b549-04abad354d5e.jpg
   alt: Grupo de amigos disfrutando de una despedida de soltero/a en tuk-tuk por Madrid
+- src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
+  alt: Pasajeros saludando desde un tuk-tuk eléctrico en Madrid
+- src: https://imgcdn.bokun.tools/270a83c2-d29c-40ed-8e91-506fc5eadb04.jpg
+  alt: Tuk-tuk eléctrico parado frente a un edificio histórico de Madrid
+- src: https://imgcdn.bokun.tools/4a599e23-7a97-43e9-9b61-8dd3c8b01016.jpg
+  alt: Pasajeros en un tuk-tuk ante una fachada clásica de Madrid
+- src: https://imgcdn.bokun.tools/dd370581-02a1-4f32-a1c3-34c09523ec80.jpg
+  alt: Grupo de amigos en un tuk-tuk eléctrico por el centro de Madrid
+- src: https://imgcdn.bokun.tools/249ccaa0-40bc-400b-b42e-07de5501d09c.jpg
+  alt: Tuk-tuk eléctrico con pasajeros por las calles de Madrid
+- src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
+  alt: Tuk-tuk recorriendo el Madrid histórico
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
+  alt: La Gran Vía de noche junto a Callao
+- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp
+  alt: Fuente de Cibeles iluminada de noche
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: Palacio Real iluminado de noche
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
+  alt: Cartel de Tío Pepe en la Puerta del Sol
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-07'
 ---
 
 ## Qué vas a vivir

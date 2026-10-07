@@ -65,9 +65,9 @@ function dictFor(idioma: Idioma): Strings {
 /**
  * Galería de imágenes tipo Civitatis/GetYourGuide.
  *
- * Desktop: imagen grande a la izquierda (50%) + hasta 4 fotos iguales a la
- * derecha (2x2). Con menos fotos la rejilla se adapta para no dejar huecos;
- * con una sola foto, ocupa todo el ancho.
+ * Desktop: imagen grande a la izquierda (50%) + 2 fotos grandes apiladas a
+ * la derecha (mismo formato en todas las actividades). Con 2 fotos, la
+ * secundaria ocupa toda la columna; con una sola foto, ocupa todo el ancho.
  * Mobile: imagen grande arriba + fila horizontal scrollable debajo.
  *
  * Usa next/image para optimización automática (AVIF/WebP, lazy loading,
@@ -76,8 +76,8 @@ function dictFor(idioma: Idioma): Strings {
  * Al hacer clic en cualquier imagen abre un lightbox a pantalla completa
  * con navegación por flechas, swipe en móvil y cierre con Esc.
  *
- * Si hay más de 5 imágenes en total, la última muestra un overlay con
- * el contador "+N más".
+ * Si hay más de 3 imágenes en total, la última visible muestra un overlay
+ * con el contador "+N fotos".
  *
  * Si la actividad está marcada como `destacada`, muestra un sello
  * editorial en la esquina superior izquierda de la imagen principal.
@@ -93,8 +93,9 @@ export default function GaleriaActividad({
   const [indiceInicial, setIndiceInicial] = useState(0);
 
   const todas: ImagenGaleria[] = [principal, ...galeria];
-  const enGrid = todas.slice(0, 5);
-  const restantes = Math.max(0, todas.length - 5);
+  const MAX_VISIBLES = 3;
+  const enGrid = todas.slice(0, MAX_VISIBLES);
+  const restantes = Math.max(0, todas.length - MAX_VISIBLES);
 
   const slidesLightbox = todas.map((img) => ({
     src: img.src,
@@ -109,13 +110,9 @@ export default function GaleriaActividad({
   const secundarias = enGrid.slice(1);
   const haySecundarias = secundarias.length > 0;
 
-  // Rejilla de la columna derecha (desktop) según cuántas fotos pequeñas
-  // haya, para que nunca quede un hueco vacío: 1 → una foto, 2 → dos
-  // apiladas, 3 → una ancha arriba y dos abajo, 4 → 2x2.
+  // Columna derecha (desktop): 2 fotos apiladas, o 1 a toda altura.
   const rejillaSecundarias =
-    secundarias.length >= 3
-      ? "md:grid-cols-2 md:grid-rows-2"
-      : secundarias.length === 2
+    secundarias.length === 2
       ? "md:grid-cols-1 md:grid-rows-2"
       : "md:grid-cols-1 md:grid-rows-1";
 
@@ -172,7 +169,6 @@ export default function GaleriaActividad({
               const indiceReal = i + 1;
               const esUltimaConRestantes =
                 i === secundarias.length - 1 && restantes > 0;
-              const ocupaAncho = secundarias.length === 3 && i === 0;
 
               return (
                 <button
@@ -180,8 +176,7 @@ export default function GaleriaActividad({
                   type="button"
                   onClick={() => abrirEn(indiceReal)}
                   className={
-                    "relative aspect-square md:aspect-auto md:h-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 flex-shrink-0 w-2/3 md:w-auto snap-center " +
-                    (ocupaAncho ? "md:col-span-2" : "")
+                    "relative aspect-[4/3] md:aspect-auto md:h-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 flex-shrink-0 w-5/6 md:w-auto snap-center"
                   }
                   aria-label={
                     esUltimaConRestantes
@@ -193,7 +188,7 @@ export default function GaleriaActividad({
                     src={img.src}
                     alt={img.alt}
                     fill
-                    sizes={ocupaAncho ? "(max-width: 768px) 66vw, 50vw" : "(max-width: 768px) 66vw, 25vw"}
+                    sizes="(max-width: 768px) 85vw, 50vw"
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                   />
                   {esUltimaConRestantes && (

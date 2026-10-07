@@ -64,10 +64,26 @@ galeria:
   alt: Tuk-tuk driver leading the tour through Madrid
 - src: https://imgcdn.bokun.tools/4a599e23-7a97-43e9-9b61-8dd3c8b01016.jpg
   alt: Cobbled street in the La Latina neighborhood seen from the tuk-tuk
+- src: https://imgcdn.bokun.tools/dd370581-02a1-4f32-a1c3-34c09523ec80.jpg
+  alt: Group of friends in an electric tuk-tuk in central Madrid
+- src: https://imgcdn.bokun.tools/249ccaa0-40bc-400b-b42e-07de5501d09c.jpg
+  alt: Electric tuk-tuk with passengers on Madrid's streets
+- src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
+  alt: Tuk-tuk riding through historic Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-metropolis-wide-view-hero.webp
+  alt: Gran Vía with the Metrópolis building
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
+  alt: Royal Palace of Madrid
+- src: /images/actividades/madrid/la-latina/01.webp
+  alt: La Latina metro sign in old Madrid
+- src: /images/actividades/madrid/puerta-alcala/puerta-alcala-madrid-monument-madrid-center-hero.webp
+  alt: Puerta de Alcalá
+- src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp
+  alt: Almudena Cathedral
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-07'
 ---
 
 ## What you'll see

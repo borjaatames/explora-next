@@ -64,10 +64,28 @@ galeria:
   alt: Tuk-tuk eléctrico atravesando una calle estrecha del casco histórico
 - src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
   alt: Vista panorámica de Madrid durante el recorrido en tuk-tuk eléctrico
+- src: https://imgcdn.bokun.tools/994c744a-eb97-4f7b-9dbd-e374167501ea.jpg
+  alt: Tuk-tuk subiendo hacia la catedral de la Almudena
+- src: https://imgcdn.bokun.tools/9479c210-2e2c-4047-a5d9-4b4ca1524f43.jpg
+  alt: Grupo disfrutando de un tuk-tuk en una calle de Madrid
+- src: https://imgcdn.bokun.tools/270a83c2-d29c-40ed-8e91-506fc5eadb04.jpg
+  alt: Tuk-tuk eléctrico parado frente a un edificio histórico de Madrid
+- src: https://imgcdn.bokun.tools/4a599e23-7a97-43e9-9b61-8dd3c8b01016.jpg
+  alt: Pasajeros en un tuk-tuk ante una fachada clásica de Madrid
+- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-street-scene-spanish-flags-hero.webp
+  alt: Plaza de Cibeles con el Palacio de Comunicaciones
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
+  alt: Palacio Real de Madrid
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
+  alt: Cartel de Tío Pepe en la Puerta del Sol
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp
+  alt: Plaza Mayor de Madrid
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-metropolis-wide-view-hero.webp
+  alt: La Gran Vía con el edificio Metrópolis
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-07'
 ---
 
 ## Qué vas a ver
