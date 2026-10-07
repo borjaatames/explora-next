@@ -97,6 +97,18 @@ export default function RootLayout({
             });
             gtag('set', 'ads_data_redaction', true);
             gtag('set', 'url_passthrough', true);
+
+            // Visitas propias: abrir la web una vez con ?interno=1 en cada
+            // navegador/dispositivo desactiva GA4 ahí para siempre (no depende
+            // de la IP, que cambia). ?interno=0 lo revierte.
+            try {
+              var interno = new URLSearchParams(window.location.search).get('interno');
+              if (interno === '1') window.localStorage.setItem('exploraspain_interno', '1');
+              if (interno === '0') window.localStorage.removeItem('exploraspain_interno');
+              if (window.localStorage.getItem('exploraspain_interno') === '1') {
+                window['ga-disable-${gaId ?? ""}'] = true;
+              }
+            } catch (e) {}
           `}
         </Script>
 
