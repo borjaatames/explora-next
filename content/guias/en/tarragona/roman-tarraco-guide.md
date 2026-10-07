@@ -4,7 +4,7 @@ descripcion: "A guide to Roman Tarraco in Tarragona: amphitheatre, circus, forum
 categoria: "tarragona"
 slug: "roman-tarraco-guide"
 fecha: "2026-04-21"
-fecha_actualizacion: "2026-04-21"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,13 @@ slugs:
 ---
 
 **Tarragona holds the largest Roman ensemble in Catalonia**, and one of the most important in Spain: the legacy of **Tarraco**, capital of Hispania Citerior and a UNESCO World Heritage Site. What's extraordinary is that it's spread across the whole old town —the amphitheatre by the beach, the circus beneath the streets, the cathedral over a temple— and walked on foot. This guide tells you what to see, in what order and how not to overpay with the combined ticket.
+
+## Visits you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided walking tour of Roman Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4.7★ (334) | €15 |
+| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €13 |
 
 The key: there are several separate monuments, but the **combined ticket** is far better value. And if you can, come in May, when the city turns Roman.
 

@@ -4,7 +4,7 @@ descripcion: "Guía de la Tarraco romana en Tarragona: anfiteatro, circo, foro, 
 categoria: "tarragona"
 slug: "tarraco-romana-que-ver"
 fecha: "2026-04-21"
-fecha_actualizacion: "2026-04-21"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,13 @@ slugs:
 ---
 
 **Tarragona guarda el mayor conjunto romano de Cataluña**, y uno de los más importantes de España: el legado de **Tarraco**, capital de la Hispania Citerior y Patrimonio de la Humanidad. Lo extraordinario es que está repartido por todo el casco antiguo —el anfiteatro a pie de playa, el circo bajo las calles, la catedral sobre un templo— y se recorre a pie. Esta guía te dice qué ver, en qué orden y cómo no pagar de más con la entrada conjunta.
+
+## Visitas que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado a pie por la Tarraco romana](/ciudades/tarragona/actividades/tour-tarraco-romana-a-pie) | 4,7★ (334) | 15 € |
+| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 13 € |
 
 La clave: hay varios monumentos sueltos, pero la **entrada conjunta** sale mucho más a cuenta. Y si puedes, ven en mayo, cuando la ciudad se vuelve romana.
 

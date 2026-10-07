@@ -4,7 +4,7 @@ descripcion: "Guía de PortAventura World: los tres parques (PortAventura, Ferra
 categoria: "tarragona"
 slug: "portaventura-world-guia"
 fecha: "2026-05-01"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,12 @@ slugs:
 ---
 
 **PortAventura World es uno de los mayores resorts de atracciones de Europa**, y el gran plan familiar de la Costa Daurada, a un paso de Tarragona. Pero es tan grande que conviene organizarse: saber qué parque elegir, cuántos días dedicar y cómo esquivar las colas marca la diferencia entre un día redondo y uno agotador. Esta guía te lo resuelve.
+
+## Entradas a PortAventura
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Entrada a PortAventura y Ferrari Land de 1, 2 o 3 días](/ciudades/tarragona/actividades/portaventura-ferrari-land-entrada) | 4,3★ (2.697) | 50 € |
 
 La regla de oro: **un día por parque**. Intentar verlo todo en una jornada es la receta para acabar reventado y sin montar en lo mejor.
 

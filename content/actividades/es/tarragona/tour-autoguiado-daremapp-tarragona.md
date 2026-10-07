@@ -68,6 +68,8 @@ galeria:
   alt: Tour autoguiado DareMapp por Tarragona, foto 3 de 4
 - src: https://imgcdn.bokun.tools/cd8b9ee4-7dcd-4b05-a9cc-5afcfdb69370.jpg
   alt: Tour autoguiado DareMapp por Tarragona, foto 4 de 4
+atraccionesRelacionadas:
+  - tarraco
 publicada: true
 destacada: false
 fecha: '2026-09-05'

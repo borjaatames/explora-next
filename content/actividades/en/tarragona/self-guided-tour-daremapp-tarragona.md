@@ -68,6 +68,8 @@ galeria:
   alt: DareMapp self-guided tour of Tarragona, photo 3 of 4
 - src: https://imgcdn.bokun.tools/cd8b9ee4-7dcd-4b05-a9cc-5afcfdb69370.jpg
   alt: DareMapp self-guided tour of Tarragona, photo 4 of 4
+atraccionesRelacionadas:
+  - tarraco
 publicada: true
 destacada: false
 fecha: '2026-09-05'

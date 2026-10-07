@@ -4,7 +4,7 @@ descripcion: "Qué ver en Tarragona en un día: anfiteatro, circo, catedral, mur
 categoria: "tarragona"
 slug: "tarragona-en-un-dia"
 fecha: "2026-04-10"
-fecha_actualizacion: "2026-04-10"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,18 @@ slugs:
 ---
 
 **Tarragona se ve bien en un día.** Guarda el mayor conjunto romano de Cataluña —y uno de los más importantes de España, Patrimonio de la Humanidad—, todo en un casco antiguo compacto y asomado al Mediterráneo. Aquí estuvo **Tarraco**, capital de la Hispania romana, y la ciudad sigue construida literalmente sobre sus piedras. Esta guía cubre la Tarraco romana sin prisas, separa lo imprescindible del relleno y deja apuntada PortAventura para quien viaje en familia.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado a pie por la Tarraco romana](/ciudades/tarragona/actividades/tour-tarraco-romana-a-pie) | 4,7★ (334) | 15 € |
+| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 13 € |
+| [Paseo en catamarán con barra libre, comida y baño](/ciudades/tarragona/actividades/catamaran-cambrils-barra-libre-bano) | 4,5★ (2.188) | 35 € |
+| [Safari guiado en quad con recogida en el hotel](/ciudades/tarragona/actividades/quad-safari-salou-recogida-hotel) | 4,8★ (1.225) | 90 € |
+| [Visita a Bodegas Yzaguirre con cata de 5 vermuts](/ciudades/tarragona/actividades/bodegas-yzaguirre-vermut-visita-cata) | 4,8★ (6) | 25 € |
+| [Tour guiado en kayak por el río Ebro hasta Miravet](/ciudades/tarragona/actividades/kayak-rio-ebro-miravet) | 4,7★ (97) | 35 € |
+| [Observación de flamencos y aves al atardecer](/ciudades/tarragona/actividades/flamencos-delta-del-ebro-atardecer) | 4,7★ (63) | 40 € |
 
 La gracia de Tarragona es que el anfiteatro está a pie de playa, el circo bajo las calles del casco antiguo y la catedral medieval encima de un templo romano. Es la excursión clásica desde Barcelona, pero quien se queda a comer marisco en el Serrallo y a ver el atardecer desde el Balcó del Mediterrani se lleva una ciudad, no una visita exprés.
 

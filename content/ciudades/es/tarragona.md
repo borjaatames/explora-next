@@ -27,7 +27,12 @@ atracciones:
     descripcion: "El acueducto romano a las afueras, uno de los mejor conservados de España, en plena naturaleza."
   - nombre: "PortAventura World (Salou)"
     descripcion: "A pocos kilómetros, uno de los mayores parques de atracciones de Europa, con Ferrari Land. El gran reclamo familiar de la Costa Daurada."
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Tarraco y catedral", tag: "tarraco" }
+  - { label: "PortAventura", tag: "portaventura" }
+  - { label: "Costa Dorada", tag: "costa" }
+  - { label: "Ebro y Delta", tag: "naturaleza" }
+  - { label: "Vermut", tag: "vermut" }
 ---
 
 Tarragona es una ciudad media de la Costa Daurada —unos 135.000 habitantes—, a una hora de Barcelona, y guarda el mayor tesoro romano de Cataluña. Fue **Tárraco**, capital de la Hispania romana, y de aquella época conserva un conjunto declarado Patrimonio de la Humanidad.

@@ -4,7 +4,7 @@ descripcion: "What to see in Tarragona in one day: amphitheatre, circus, cathedr
 categoria: "tarragona"
 slug: "tarragona-in-one-day"
 fecha: "2026-04-10"
-fecha_actualizacion: "2026-04-10"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,18 @@ slugs:
 ---
 
 **Tarragona is easily seen in a day.** It holds the largest Roman ensemble in Catalonia —and one of the most important in Spain, a UNESCO World Heritage Site— all in a compact old town overlooking the Mediterranean. This was **Tarraco**, capital of Roman Hispania, and the city is still built literally on its stones. This guide covers Roman Tarraco without rushing, separates the essentials from the filler and notes PortAventura for those travelling with family.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided walking tour of Roman Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4.7★ (334) | €15 |
+| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €13 |
+| [Catamaran trip with open bar, lunch and swim](/en/cities/tarragona/activities/cambrils-catamaran-open-bar-swim) | 4.5★ (2,188) | €35 |
+| [Guided quad safari with hotel pickup](/en/cities/tarragona/activities/salou-guided-quad-safari-hotel-pickup) | 4.8★ (1,225) | €90 |
+| [Bodegas Yzaguirre visit with 5-vermouth tasting](/en/cities/tarragona/activities/bodegas-yzaguirre-vermouth-tour-tasting) | 4.8★ (6) | €25 |
+| [Guided kayak tour on the Ebro river to Miravet](/en/cities/tarragona/activities/ebro-river-kayak-tour-miravet) | 4.7★ (97) | €35 |
+| [Flamingo and birdwatching tour at sunset](/en/cities/tarragona/activities/ebro-delta-flamingos-sunset-tour) | 4.7★ (63) | €40 |
 
 Tarragona's charm is that the amphitheatre sits right on the beach, the circus runs beneath the old-town streets and the medieval cathedral stands over a Roman temple. It's the classic day trip from Barcelona, but whoever stays for seafood in the Serrallo and sunset from the Balcó del Mediterrani takes home a city, not an express visit.
 

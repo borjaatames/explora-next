@@ -4,7 +4,7 @@ descripcion: "A guide to PortAventura World: the three parks (PortAventura, Ferr
 categoria: "tarragona"
 slug: "portaventura-world-guide"
 fecha: "2026-05-01"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,12 @@ slugs:
 ---
 
 **PortAventura World is one of the largest theme-park resorts in Europe**, and the great family plan of the Costa Daurada, a step from Tarragona. But it's so big that it pays to organise: knowing which park to choose, how many days to spend and how to dodge the queues is the difference between a perfect day and an exhausting one. This guide sorts it out.
+
+## PortAventura tickets
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [PortAventura and Ferrari Land 1, 2 or 3-day ticket](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4.3★ (2,697) | €50 |
 
 The golden rule: **one day per park**. Trying to see it all in a single day is the recipe for ending up wrecked and missing the best rides.
 
