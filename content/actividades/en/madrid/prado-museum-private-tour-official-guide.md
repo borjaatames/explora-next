@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'At the Prado a guide makes all the difference: the museum is huge, and in 3 hours you go straight to the essentials with context. The private version is pricey compared with a small group, but worth it if there are 3 or 4 of you or you want to set your own pace. Minimum 2 people per booking.'
+atraccionesRelacionadas:
+- museo-prado
 categoria: visitasGuiadas
 keywords:
 - prado museum private tour

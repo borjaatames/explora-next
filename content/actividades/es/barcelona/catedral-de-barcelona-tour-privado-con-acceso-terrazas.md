@@ -95,6 +95,8 @@ opinionEditorial: |
 
   Para quién es: viajeros que quieran las vistas desde la terraza (el mejor mirador del Barri Gòtic fuera de las torres de la Sagrada Família), parejas o familias pequeñas que quieran un guión personalizado, visitantes con tiempo limitado que quieran entrada sin cola + guía + terrazas en un solo paquete y cualquiera que necesite cancelación flexible (esta sí la permite hasta 24 h antes). Para quién NO: usuarios de silla de ruedas (las terrazas requieren escaleras), viajeros con presupuesto ajustado (la entrada básica t428189 a 21 € cubre la catedral de planta), y viajeros que prefieran visita a su ritmo sin guía."
 
+atraccionesRelacionadas:
+- barrio-gotico
 categoria: "cultural"
 keywords: ["tour catedral barcelona terraza", "tour privado catedral barcelona", "terrazas catedral barcelona", "visita guiada catedral barcelona", "tour privado barri gotic"]
 
@@ -116,7 +118,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

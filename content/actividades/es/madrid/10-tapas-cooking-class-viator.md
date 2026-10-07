@@ -90,6 +90,8 @@ opinionEditorial: |
 
   Para quién: viajeros con buen inglés que quieran panorama amplio de cocina española en escuela reconocida (A Punto), foodies que prioricen variedad y aprendizaje estructurado, parejas que prefieran tapeo a paella. Para quién NO: viajeros que no manejen inglés (clase no disponible en español), quien quiera dominar una sola receta a fondo (mejor taller de paella), viajeros con alergias múltiples sin confirmar antes, y quien necesite accesibilidad sin verificar previamente.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["10 tapas cooking class madrid", "clase cocina tapas madrid", "viator tapas cooking class", "tortilla croquetas clase madrid", "aprender cocinar tapas espana"]
 
@@ -106,7 +108,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

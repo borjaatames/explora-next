@@ -68,6 +68,7 @@ chipsFiltros:
   - { label: "Plaza de España", tag: "plaza-espana" }
   - { label: "Flamenco", tag: "flamenco" }
   - { label: "Tapas y vinos", tag: "tapas-sevilla" }
+  - { label: "Tuk-tuk", tag: "tuk-tuk" }
 ---
 
 Sevilla es la **capital de Andalucía** y la cuarta ciudad más poblada de España: **684.000 habitantes** en el municipio y más de 1,5 millones en su área metropolitana. Es sede de la Junta de Andalucía y centro económico, cultural y religioso del sur peninsular.

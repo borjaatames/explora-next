@@ -93,6 +93,8 @@ opinionEditorial: |
 
   Para quién: viajeros que quieran experiencia gastronómica práctica (no de cara a la galería), parejas y grupos pequeños que disfruten cocinar juntos, principiantes en cocina española (es taller introductorio que se valora especialmente por viajeros angloparlantes), y quien quiera llevarse recetas para replicar en casa. Para quién NO: chefs aficionados experimentados (puede resultar básico), quien busque taller privado y no compartido, viajeros con movilidad reducida (cocina en piso superior, sin garantía de ascensor) y quien busque opciones rápidas de comer fuera (aquí son 3 horas dedicadas).
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["taller paella madrid", "cooking class madrid paella", "clase paella sangria madrid", "paella sangria workshop madrid", "aprender cocinar paella madrid"]
 
@@ -114,7 +116,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 
 # TODO: no hay imagen específica de paella o cooking class. Usado tapas como aproximación a cocina española.
 ---

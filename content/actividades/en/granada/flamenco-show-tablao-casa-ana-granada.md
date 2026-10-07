@@ -82,10 +82,11 @@ opinionEditorial: |
 
   At €18 it's the cheapest option in the centre and the only fully accessible one alongside Teatro Flamenco (which reaches €20 in PROMO without a drink). For travellers who want a traditional tablao with no fuss, no menu or ticket categories, this is the direct route. The catch: the show is in Spanish only and under-6s aren't admitted.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "tablao casa ana", "central flamenco granada", "granada flamenco tablao", "intimate flamenco show granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp"
 imagenAlt: "Female dancer and guitarist on stage at Tablao Casa Ana in Granada"

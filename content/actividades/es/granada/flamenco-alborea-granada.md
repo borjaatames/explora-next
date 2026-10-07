@@ -84,10 +84,11 @@ opinionEditorial: |
 
   El cantar y el bailar son los mismos artistas profesionales del centro — la diferencia frente a otros tablaos está en la organización del local y en el volumen de público. Para quien viaja con poco tiempo y no quiere arriesgarse con opciones menos probadas, La Alboreá es la opción "segura por defecto" del catálogo. Apto para toda la familia y con cancelación 24 horas antes.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "la alborea granada", "tablao flamenco centro granada", "flamenco granada con vino", "flamenco centro granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-granada.jpg"
 imagenAlt: "Escenario del Tablao Flamenco La Alboreá en el centro de Granada"

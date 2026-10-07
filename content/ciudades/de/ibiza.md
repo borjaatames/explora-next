@@ -46,12 +46,7 @@ atracciones:
     descripcion: "Die berühmtesten Diskotheken der Welt — Pacha, Ushuaïa, Amnesia, Hï — und die Bootspartys, die Ibiza zur Welthauptstadt der elektronischen Musik gemacht haben."
     imagen: "/images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp"
     imagenAlt: "Party im Ushuaïa, dem Nachtleben von Ibiza"
-chipsFiltros:
-  - { label: "Dalt Vila", tag: "dalt-vila" }
-  - { label: "Es Vedrà", tag: "es-vedra" }
-  - { label: "Buchten & Strände", tag: "calas-playas" }
-  - { label: "Formentera", tag: "formentera" }
-  - { label: "Nachtleben", tag: "ocio-nocturno" }
+chipsFiltros: []
 ---
 
 Ibiza ist weltberühmt für sein **Nachtleben**, doch die Insel ist viel mehr: Sie hat eine Altstadt, die UNESCO-Welterbe ist, türkisfarbene Buchten und eine überraschend geschützte Natur. Ihre Hauptstadt **Eivissa** zählt rund 50.000 Einwohner.

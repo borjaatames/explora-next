@@ -29,14 +29,15 @@ noIncluye:
   - "Monument entry tickets"
 puntoEncuentro: "Starts in Girona's old town; shown in the app after booking."
 opinionEditorial: "The cheapest way to discover Girona: a phone audio guide to explore the medieval old town at your own pace for 7 €. Ideal if you prefer to go independently, with no guide or schedules."
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- costa-brava
 categoria: visitasGuiadas
 keywords:
   - "girona on your own"
   - "girona audio guide"
   - "what to see in girona"
-atraccionesRelacionadas:
-  - casco-medieval
-  - catedral
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Girona Cathedral at the top of its monumental staircase"
 

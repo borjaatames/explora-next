@@ -41,6 +41,9 @@ preguntasFrecuentes:
   - pregunta: "Do I get to keep the recipe?"
     respuesta: "Yes. The point of the class is that you learn the method —the sofrito, the rice timing, the socarrat— to make it again at home. You take the recipe and, above all, the technique."
 opinionEditorial: "It's Valencia's top-rated activity, and it's easy to see why: a class with a chef, the market included and the paella you cook as your meal, all for 65 €. With 4.97 out of 5 and over a thousand reviews, it's one of the safest bets in the catalogue. If you're only doing one experience in Valencia and you enjoy cooking, this is the one that best sums up the city: produce, farmland and rice."
+atraccionesRelacionadas:
+- albufera-paella
+- gastronomia
 categoria: toursGastronomicos
 keywords:
   - "paella cooking class valencia"

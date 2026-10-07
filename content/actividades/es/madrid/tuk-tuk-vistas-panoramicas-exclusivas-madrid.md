@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
 opinionEditorial: 'El tuk-tuk es una forma ágil de ver mucho Madrid en poco tiempo, pero no es un tour a pie: no esperéis paradas largas ni explicaciones profundas de cada monumento. Funciona muy bien si vais en grupo y queréis repartir el coste entre varios, o si alguien del grupo tiene dificultad para caminar largas distancias pero no usa silla de ruedas.'
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk madrid

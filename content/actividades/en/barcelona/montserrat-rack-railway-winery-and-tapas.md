@@ -100,6 +100,9 @@ opinionEditorial: 'If you want EVERYTHING from Castlexperience in one booking (r
   who value having guide in their language without bilingual interruptions, this is the variant.
 
   '
+atraccionesRelacionadas:
+- montserrat
+- tapas-barcelona
 categoria: excursionesDia
 keywords:
 - montserrat rack railway winery tapas
@@ -135,8 +138,6 @@ numeroOpiniones: 7069
 publicada: false
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- montserrat
 ---
 
 ## What you'll see

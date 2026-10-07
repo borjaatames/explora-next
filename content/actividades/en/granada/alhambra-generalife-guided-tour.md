@@ -108,6 +108,10 @@ opinionEditorial: 'This is the default choice, and for solid reasons. With more 
   the best time to buy.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- generalife
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra guided tour
@@ -149,9 +153,6 @@ numeroOpiniones: 21100
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
-- generalife
 guiasRelacionadas:
   - "alhambra-how-to-visit"
   - "alhambra-which-tour-to-choose"

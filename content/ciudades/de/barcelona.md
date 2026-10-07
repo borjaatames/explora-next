@@ -68,6 +68,9 @@ chipsFiltros:
   - { label: "Casa Batlló", tag: "casa-batllo" }
   - { label: "Ausflug nach Montserrat", tag: "montserrat" }
   - { label: "Gotisches Viertel", tag: "barrio-gotico" }
+  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Bootstouren", tag: "barco" }
+  - { label: "Tapas und Wein", tag: "tapas-barcelona" }
 ---
 
 Barcelona ist die Hauptstadt Kataloniens und die zweitgrößte Stadt Spaniens: rund **1,7 Millionen Einwohner** im Stadtgebiet und mehr als 5,7 Millionen im Großraum. Sie ist Sitz der Generalitat und der wichtigste Wirtschaftsmotor am spanischen Mittelmeer.

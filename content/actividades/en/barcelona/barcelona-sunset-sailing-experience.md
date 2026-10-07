@@ -59,6 +59,8 @@ preguntasFrecuentes:
 - pregunta: Is it good for couples or groups?
   respuesta: Both. It is a small group (maximum 12), so it works for a romantic evening or a group of friends.
 opinionEditorial: "Seeing Barcelona from the sea at sunset is one of those plans hardly anyone does and that really pays off: small group, drink in hand and the city lighting up from the water. Perfect for a couple or a group of friends."
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - barcelona sunset sailing

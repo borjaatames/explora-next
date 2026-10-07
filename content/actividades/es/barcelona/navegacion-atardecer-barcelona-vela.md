@@ -59,6 +59,8 @@ preguntasFrecuentes:
 - pregunta: ¿Va bien para parejas o grupos?
   respuesta: Para ambos. Es un grupo reducido (máximo 12), así que funciona para una velada romántica o un grupo de amigos.
 opinionEditorial: "Ver Barcelona desde el mar al atardecer es de esos planes que casi nadie hace y que merecen mucho la pena: grupo pequeño, copa en mano y la ciudad iluminándose desde el agua. Para una pareja o un grupo de amigos, redondo."
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - navegacion atardecer barcelona

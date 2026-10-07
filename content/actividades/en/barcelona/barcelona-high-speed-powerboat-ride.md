@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: Is there a minimum age or any restrictions?
   respuesta: 'Minimum age is 12. It is not recommended for people with back problems or heart conditions, or for pregnant travellers, as it is a high-speed ride.'
 opinionEditorial: "For those who want something livelier than a sailboat: half an hour around Port Vell among superyachts and the America's Cup bases, then half an hour at speed along the coast. Short, intense and great fun."
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - barcelona powerboat

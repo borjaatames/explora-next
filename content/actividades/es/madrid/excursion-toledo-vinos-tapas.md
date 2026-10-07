@@ -108,6 +108,10 @@ opinionEditorial: 'Es una opción excelente si quieres salirte del tour cultural
   Cuenta con comer en Toledo (15-25€ extra) tras la cata, o llévate algo de picar.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
+- toledo
+- tapas-madrid
 categoria: excursionesDia
 keywords:
 - excursion toledo cata vinos
@@ -151,9 +155,6 @@ publicada: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 ---
 
 ## Qué vas a ver

@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: You can see the Royal Palace on your own in an hour, but with a guide you understand what each room was for and who decorated it. This private version is pricey for 2 and reasonable from 3 or 4. Minimum 2 people per booking.
+atraccionesRelacionadas:
+- palacio-real
 categoria: visitasGuiadas
 keywords:
 - royal palace madrid private tour

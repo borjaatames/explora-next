@@ -88,6 +88,8 @@ opinionEditorial: |
 
   Who it's for: travellers wanting an accessible flamenco show in a very central area, with the option of dinner on the same spot to avoid breaking up the evening. Families with teens (12+). Who it's NOT for: travellers with reduced mobility (the operator doesn't explicitly mark accessibility — see Las Carboneras), children under 12, and anyone after intimate, low-touristic flamenco (here there are 10,000+ reviews: the format is mass-market though with quality).
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show dinner madrid", "tablao torres bermejas price", "flamenco show central madrid"]
 
@@ -109,7 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-madrid-which-tablao-to-choose"
 ---

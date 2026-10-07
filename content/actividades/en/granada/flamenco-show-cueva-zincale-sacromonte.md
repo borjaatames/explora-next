@@ -84,12 +84,13 @@ opinionEditorial: |
 
   If you're going to see flamenco in a cave just once, the most tested options are Los Amayas (Alhambra views + drink included) or Los Tarantos (more pedigree, drink included). Cueva del Zincalé is the choice for travellers who want a different artistic team and prefer the format run directly by the artists. The location at number 55 of the Camino del Sacromonte is at the far end of the neighbourhood, so it's worth arriving by taxi or bus — walking from the centre is 30-40 minutes uphill.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "cueva zincale", "sacromonte flamenco", "gypsy zambra granada", "granada flamenco caves"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
-  - "sacromonte"
 
 imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra-gitana.jpg"
 imagenAlt: "Facade of Cueva del Zincalé on the Camino del Sacromonte in Granada"

@@ -30,12 +30,7 @@ atracciones:
     descripcion: "Half an hour away, the home of sherry wine, flamenco and horses: centuries-old bodegas and the Royal Andalusian School of Equestrian Art."
   - nombre: "Tarifa and the beaches"
     descripcion: "To the south, the great windswept beaches of the Costa de la Luz, a kitesurfing paradise, with Africa across the Strait."
-chipsFiltros:
-  - { label: "Cathedral", tag: "catedral" }
-  - { label: "Old town", tag: "casco-antiguo" }
-  - { label: "Beaches", tag: "playas" }
-  - { label: "Jerez", tag: "jerez" }
-  - { label: "Tarifa", tag: "tarifa" }
+chipsFiltros: []
 ---
 
 Cádiz is the southernmost provincial capital in mainland Spain —around 110,000 people— and, by tradition, the **oldest inhabited city in the West**, founded by the Phoenicians more than 3,000 years ago. Almost surrounded by sea on a narrow peninsula, it has a light and character all its own.

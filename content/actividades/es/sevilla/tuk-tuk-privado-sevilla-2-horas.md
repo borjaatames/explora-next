@@ -72,6 +72,9 @@ preguntasFrecuentes:
 opinionEditorial: Si tienes poco tiempo en Sevilla, en dos horas ves prácticamente toda la ciudad, incluidas la Cartuja y la Macarena, que a pie quedan lejos. Con niños o en verano es la opción más cómoda. Lo reservas directamente con nosotros y el precio es por grupo.
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- plaza-espana
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk sevilla 2 horas
@@ -97,8 +100,6 @@ galeria:
   alt: Basílica de la Macarena
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
   alt: Paseo arbolado del Parque de María Luisa
-atraccionesRelacionadas:
-- plaza-espana
 publicada: true
 destacada: false
 fecha: '2026-10-05'

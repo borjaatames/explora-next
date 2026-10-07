@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 12
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'It''s more a history walk than a food tour: you eat little (2 tapas) and hear a lot. If you''re after dinner, a tapas tour with dinner suits better; if you''re curious about Madrid''s history through its bars, this one is unlike anything else. Minimum 2 people per booking.'
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: toursGastronomicos
 keywords:
 - madrid oldest taverns

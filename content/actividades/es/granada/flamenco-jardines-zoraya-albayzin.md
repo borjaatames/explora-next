@@ -85,11 +85,12 @@ opinionEditorial: |
 
   Algunas reseñas mencionan que las mesas laterales pueden tener líneas de visión parcialmente tapadas — al asignar asientos al reservar, conviene hacerlo con antelación para asegurar buena posición. Para quien busque el flamenco más íntimo, las cuevas del Sacromonte son mejor opción; para quien quiera tablao tradicional con producción cuidada y opción gastronómica, los Jardines de Zoraya son una elección segura.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco albayzin", "jardines zoraya", "tablao flamenco granada", "flamenco con cena granada"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
 
 imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-artistas-luis-de-luis.jpg"
 imagenAlt: "Tablao flamenco con bailaoras y guitarrista en los Jardines de Zoraya del Albayzín"

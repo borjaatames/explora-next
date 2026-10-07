@@ -68,6 +68,9 @@ chipsFiltros:
   - { label: "Casa Batlló", tag: "casa-batllo" }
   - { label: "Montserrat day trip", tag: "montserrat" }
   - { label: "Gothic Quarter", tag: "barrio-gotico" }
+  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Boat trips", tag: "barco" }
+  - { label: "Tapas and wine", tag: "tapas-barcelona" }
 ---
 
 Barcelona is the capital of Catalonia and Spain's second most populated city: around **1.7 million inhabitants** in the municipality and more than 5.7 million in its metropolitan area. It is the seat of the Generalitat and the main economic engine of the Spanish Mediterranean.

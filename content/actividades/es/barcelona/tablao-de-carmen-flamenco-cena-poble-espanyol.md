@@ -158,6 +158,8 @@ opinionEditorial: 'El **tablao con MAYOR puntuación de Barcelona** — 4,8/5 co
   céntrica de Las Ramblas (Cordobés es más céntrico).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - tablao de carmen
@@ -182,7 +184,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-que-tablao-elegir"
 ---

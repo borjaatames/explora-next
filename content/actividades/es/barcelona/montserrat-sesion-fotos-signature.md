@@ -46,6 +46,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
 opinionEditorial: "Es la ficha que más se sale del centro de Barcelona: aquí lo que compras es el paisaje de Montserrat, no la ciudad. Ten en cuenta que el transporte hasta la montaña corre por tu cuenta y que la entrada al monasterio se paga aparte; si ya tienes pensada la excursión a Montserrat, añadir esta sesión de fotos le da un recuerdo distinto al resto del viaje."
+atraccionesRelacionadas:
+- montserrat
 categoria: experienciasPrivadas
 keywords:
 - sesion fotos montserrat

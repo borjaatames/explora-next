@@ -28,7 +28,6 @@ atracciones:
   - nombre: "Die Buchten und Strände"
     descripcion: "Von der Playa de Palma bis zu den unberührten Buchten im Osten und Süden (Es Trenc, Cala Mondragó): die vielfältigste Strandauswahl der Balearen."
 chipsFiltros:
-  - { label: "Kathedrale von Palma", tag: "catedral-palma" }
   - { label: "Drachenhöhlen", tag: "cuevas-drach" }
   - { label: "Serra de Tramuntana", tag: "tramuntana" }
   - { label: "Dörfer", tag: "pueblos" }

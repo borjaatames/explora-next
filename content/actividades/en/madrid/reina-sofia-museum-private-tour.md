@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 5
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'The Reina Sofía makes far more sense with someone explaining the context: the Civil War, the avant-garde and why Guernica hangs there. Two hours is just right. Minimum 2 people per booking.'
+atraccionesRelacionadas:
+- reina-sofia
 categoria: visitasGuiadas
 keywords:
 - reina sofia private tour

@@ -46,6 +46,8 @@ detallesPracticos:
   accesibleSilla: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
 opinionEditorial: "This is the listing that strays furthest from central Barcelona: what you're buying here is the Montserrat landscape, not the city. Keep in mind that transport up the mountain is on you, and admission to the monastery is paid separately — if you're already planning a Montserrat day trip, adding this photoshoot gives you a keepsake unlike the rest of your Barcelona photos."
+atraccionesRelacionadas:
+- montserrat
 categoria: experienciasPrivadas
 keywords:
 - montserrat photoshoot

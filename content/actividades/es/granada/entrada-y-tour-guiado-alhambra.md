@@ -103,6 +103,9 @@ opinionEditorial: 'Es la opción más económica del comparador, y no porque rec
   es la opción de mejor relación calidad-precio para una primera visita a la Alhambra.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - entrada alhambra barata
@@ -144,8 +147,6 @@ numeroOpiniones: 3516
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

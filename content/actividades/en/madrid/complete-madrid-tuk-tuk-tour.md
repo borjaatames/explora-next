@@ -50,6 +50,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: According to the supplier, the booking is non-refundable, so double-check the date and time before paying.
 opinionEditorial: It combines Tuk Tuk Zero's two short routes into one. If you're short on time and want both Habsburg Madrid and the Bernabéu and Salamanca district, this is the one. For just one area, the shorter historic-centre route is cheaper. The booking is non-refundable.
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk madrid

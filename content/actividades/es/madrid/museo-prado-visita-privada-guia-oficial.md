@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'Para el Prado, un guía marca la diferencia: el museo es enorme y en 3 horas te lleva directo a lo esencial con contexto. La versión privada es cara frente a un grupo reducido, pero compensa si vais 3 o 4 personas o queréis adaptar el ritmo. Mínimo 2 personas por reserva.'
+atraccionesRelacionadas:
+- museo-prado
 categoria: visitasGuiadas
 keywords:
 - visita privada museo del prado

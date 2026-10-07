@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: Can we swim?
   respuesta: Yes, there is time for a dip. Bring a towel and swimwear, as they are not provided.
 opinionEditorial: "The private format changes everything: the boat is yours alone, you set the pace and you get three hours to sail, swim and toast with the city in the background. For celebrations or groups, a tailor-made experience."
+atraccionesRelacionadas:
+- barco
 categoria: experienciasPrivadas
 keywords:
 - private sailing barcelona

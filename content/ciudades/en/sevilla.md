@@ -68,6 +68,7 @@ chipsFiltros:
   - { label: "Plaza de España", tag: "plaza-espana" }
   - { label: "Flamenco", tag: "flamenco" }
   - { label: "Tapas and wine", tag: "tapas-sevilla" }
+  - { label: "Tuk-tuk", tag: "tuk-tuk" }
 ---
 
 Seville is the **capital of Andalusia** and Spain's fourth most populated city: **684,000 inhabitants** in the municipality and more than 1.5 million in its metropolitan area. It is the seat of the Junta de Andalucía and the economic, cultural and religious heart of southern Spain.

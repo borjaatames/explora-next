@@ -30,12 +30,7 @@ atracciones:
     descripcion: "The Roman aqueduct on the outskirts, one of the best preserved in Spain, set in open countryside."
   - nombre: "PortAventura World (Salou)"
     descripcion: "A few kilometres away, one of the largest theme parks in Europe, with Ferrari Land. The big family draw of the Costa Daurada."
-chipsFiltros:
-  - { label: "Roman Amphitheatre", tag: "anfiteatro" }
-  - { label: "Roman Tárraco", tag: "tarraco-romana" }
-  - { label: "Cathedral", tag: "catedral" }
-  - { label: "PortAventura", tag: "portaventura" }
-  - { label: "Beaches", tag: "playas" }
+chipsFiltros: []
 ---
 
 Tarragona is a mid-sized city on the Costa Daurada —around 135,000 people—, an hour from Barcelona, and it holds Catalonia's greatest Roman treasure. It was **Tarraco**, capital of Roman Hispania, and from that era it preserves a complex declared a World Heritage Site.

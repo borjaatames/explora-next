@@ -88,6 +88,8 @@ opinionEditorial: |
 
   Para quién: viajeros que quieren show flamenco accesible, en zona muy céntrica, con opción de cena en el mismo sitio para no romper la noche. Familias con adolescentes (de 12 años en adelante). Para quién NO: viajeros con movilidad reducida (el operador no marca accesibilidad expresa — mira Las Carboneras), niños menores de 12 años, y quien busque flamenco íntimo y poco turístico (aquí hay 10.000+ reseñas: el formato es masivo aunque con calidad).
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show cena madrid", "tablao torres bermejas precio", "show flamenco madrid centro"]
 
@@ -109,7 +111,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 
 # TODO: no hay imagen específica del Tablao Torres Bermejas. Usado placeholder de Gran Vía por proximidad geográfica.
 guiasRelacionadas:

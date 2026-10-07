@@ -76,6 +76,10 @@ guiasRelacionadas:
 - mallorca-with-kids
 - serra-tramuntana-soller
 - what-to-see-in-mallorca
+atraccionesRelacionadas:
+- tramuntana
+- pueblos
+- calas-playas
 categoria: excursionesDia
 keywords:
 - soller train tour
@@ -98,9 +102,6 @@ galeria:
   alt: View of Port de Sóller and its harbour from above
 ratingProveedor: 4.4
 numeroOpiniones: 4540
-atraccionesRelacionadas:
-- tramuntana
-- pueblos
 publicada: true
 destacada: false
 fecha: '2026-10-04'

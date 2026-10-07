@@ -101,6 +101,10 @@ opinionEditorial: 'Esta es la única visita del comparador que cambia las reglas
   bebé, así que tenlo en cuenta si viajas con peques o necesitas accesibilidad.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- alhambra-noche
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - visita nocturna alhambra
@@ -146,9 +150,6 @@ numeroOpiniones: 288
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
-- alhambra-noche
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

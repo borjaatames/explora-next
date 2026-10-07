@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 0
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: La versión de mediodía del tour de Native Spanish Tapas, con más peso en el vino. Si os interesa entender los vinos españoles mientras coméis bien, es buena opción; si preferís cenar, el tour nocturno con paella es más completo.
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: toursGastronomicos
 keywords:
 - tour vinos tapas madrid

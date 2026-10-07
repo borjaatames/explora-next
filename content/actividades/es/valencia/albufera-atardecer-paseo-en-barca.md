@@ -36,6 +36,8 @@ detallesPracticos:
   confirmacionInmediata: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
 opinionEditorial: "El atardecer en la Albufera es uno de los grandes clásicos de Valencia, y con razón: el cielo se enciende sobre el agua y los arrozales mientras navegas en barca tradicional. Es un plan tranquilo y muy fotogénico para terminar el día."
+atraccionesRelacionadas:
+- albufera-paella
 categoria: excursionesDia
 keywords:
 - albufera atardecer barca

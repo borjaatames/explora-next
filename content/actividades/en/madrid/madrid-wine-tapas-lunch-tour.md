@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 0
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: The lunchtime version of Native Spanish Tapas' tour, with more focus on wine. If you want to understand Spanish wines while eating well, it's a good pick; if you'd rather have dinner, the evening tour with paella is more complete.
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: toursGastronomicos
 keywords:
 - madrid wine and tapas tour

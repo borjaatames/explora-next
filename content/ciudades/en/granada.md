@@ -48,6 +48,7 @@ chipsFiltros:
   - { label: "Generalife", tag: "generalife" }
   - { label: "Night visit", tag: "alhambra-noche" }
   - { label: "Albaicín & Sacromonte", tag: "albaicin-sacromonte" }
+  - { label: "Flamenco", tag: "flamenco" }
 ---
 
 Granada is one of Spain's five must-visit cities and the **last Muslim capital of Europe**, conquered by the Catholic Monarchs in 1492. It is a provincial capital in Andalusia, with around **232,000 inhabitants** in the municipality and more than 530,000 in its metropolitan area.

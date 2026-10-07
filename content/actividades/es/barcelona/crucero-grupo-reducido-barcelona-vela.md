@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: ¿Hay recogida en el hotel?
   respuesta: No. Vas por tu cuenta a Marina Vela, Port Vell; los traslados al hotel no están incluidos.
 opinionEditorial: "Una forma tranquila y diferente de ver Barcelona: desde el agua, con la costa de fondo y sin prisa. El grupo reducido hace que no sea una masificación, y poder bañarte es un plus en verano."
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - crucero barcelona

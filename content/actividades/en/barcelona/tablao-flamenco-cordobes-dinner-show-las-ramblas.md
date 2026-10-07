@@ -147,6 +147,8 @@ opinionEditorial: 'The **most historic flamenco tablao in Barcelona** — founde
   atmosphere, look for **El Duende by Tablao Cordobes** (same operator, cocktail-bar format).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - tablao cordobes barcelona
@@ -169,7 +171,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-which-tablao-to-choose"
 ---

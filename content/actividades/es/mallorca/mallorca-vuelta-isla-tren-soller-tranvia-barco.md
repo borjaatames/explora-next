@@ -76,6 +76,10 @@ guiasRelacionadas:
 - mallorca-con-ninos
 - serra-tramuntana-soller
 - que-ver-en-mallorca
+atraccionesRelacionadas:
+- tramuntana
+- pueblos
+- calas-playas
 categoria: excursionesDia
 keywords:
 - tren de soller excursion
@@ -98,9 +102,6 @@ galeria:
   alt: Vista de Port de Sóller y su puerto desde lo alto
 ratingProveedor: 4.4
 numeroOpiniones: 4540
-atraccionesRelacionadas:
-- tramuntana
-- pueblos
 publicada: true
 destacada: false
 fecha: '2026-10-04'

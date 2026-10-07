@@ -110,6 +110,8 @@ opinionEditorial: 'This is the private tour to Alcalá de Henares with winery by
   easy with Cercanías RENFE from Madrid in 30 min for under €5).
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - alcala de henares trip
@@ -132,7 +134,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

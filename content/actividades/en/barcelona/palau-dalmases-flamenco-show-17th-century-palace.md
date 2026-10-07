@@ -162,6 +162,8 @@ opinionEditorial: 'The **most architecturally spectacular tablao in Barcelona** 
   tablao without microphones (Cordobés). If your priority is venue architecture, Palau Dalmases is Barcelona''s best option.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - palau dalmases flamenco
@@ -184,7 +186,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-which-tablao-to-choose"
 ---

@@ -50,6 +50,8 @@ detallesPracticos:
   confirmacionInmediata: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
 opinionEditorial: "Es una forma estupenda de comer como un local sin acabar en una trampa para turistas: el guía te lleva a sitios que no encontrarías solo, y la Boquería al mediodía está en su mejor momento. Grupo reducido, ritmo tranquilo y comida de verdad."
+atraccionesRelacionadas:
+- tapas-barcelona
 categoria: toursGastronomicos
 keywords:
 - tour gastronomico barcelona

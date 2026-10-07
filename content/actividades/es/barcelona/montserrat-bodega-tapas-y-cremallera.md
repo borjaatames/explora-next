@@ -102,6 +102,9 @@ opinionEditorial: 'Si quieres TODO de Castlexperience en una sola reserva (crema
   que valoran tener guía en su idioma sin tener que escuchar pausas de inglés alternadas, esta es la variante ideal.
 
   '
+atraccionesRelacionadas:
+- montserrat
+- tapas-barcelona
 categoria: excursionesDia
 keywords:
 - montserrat cremallera bodega tapas
@@ -137,8 +140,6 @@ numeroOpiniones: 7069
 publicada: false
 destacada: false
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- montserrat
 ---
 
 ## Qué vas a ver

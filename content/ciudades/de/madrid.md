@@ -65,10 +65,13 @@ atracciones:
 chipsFiltros:
   - { label: "Museo del Prado", tag: "museo-prado" }
   - { label: "Palacio Real", tag: "palacio-real" }
+  - { label: "Museum Reina Sofía", tag: "reina-sofia" }
+  - { label: "Tapas und Wein", tag: "tapas-madrid" }
+  - { label: "Tuk-Tuk", tag: "tuk-tuk" }
+  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Estadio Bernabéu", tag: "bernabeu" }
   - { label: "Ausflug nach Toledo", tag: "toledo" }
   - { label: "Tagesausflüge", tag: "excursiones-desde-madrid" }
-  - { label: "Tapas und Wein", tag: "tapas-madrid" }
-  - { label: "Estadio Bernabéu", tag: "bernabeu" }
 ---
 
 Madrid ist die Hauptstadt Spaniens und die bevölkerungsreichste Stadt des Landes: rund **3,3 Millionen Einwohner** im Stadtgebiet und mehr als 6,7 Millionen im Großraum. Sie ist Sitz der Regierung und der Cortes Generales sowie das wichtigste Finanz-, Kultur- und Verwaltungszentrum des Landes.

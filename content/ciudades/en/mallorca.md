@@ -31,7 +31,6 @@ atracciones:
   - nombre: "The coves and beaches"
     descripcion: "From Playa de Palma to the unspoiled coves of the east and south (Es Trenc, Cala Mondragó): the most varied range of beaches in the Balearics."
 chipsFiltros:
-  - { label: "Palma Cathedral", tag: "catedral-palma" }
   - { label: "Drach Caves", tag: "cuevas-drach" }
   - { label: "Serra de Tramuntana", tag: "tramuntana" }
   - { label: "Villages", tag: "pueblos" }

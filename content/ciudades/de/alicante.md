@@ -27,12 +27,7 @@ atracciones:
     descripcion: "Die einzige bewohnte Insel der Valencianischen Gemeinschaft, ein Meeresschutzgebiet, mit dem Boot vom Hafen aus erreichbar. Kristallklares Wasser und ein ummauertes Dorf."
   - nombre: "Guadalest und die Costa Blanca"
     descripcion: "Landeinwärts das auf dem Felsen thronende Dorf Guadalest; an der Küste Benidorm, Altea, Calpe und Jávea – das gesamte Spektrum der Costa Blanca."
-chipsFiltros:
-  - { label: "Burg Santa Bárbara", tag: "castillo-santa-barbara" }
-  - { label: "Altstadt", tag: "casco-antiguo" }
-  - { label: "Strände", tag: "playas" }
-  - { label: "Insel Tabarca", tag: "tabarca" }
-  - { label: "Costa Blanca", tag: "costa-blanca" }
+chipsFiltros: []
 ---
 
 Alicante ist die Hauptstadt der Costa Blanca und die zweitgrößte Stadt der Valencianischen Gemeinschaft – rund 340.000 Einwohner –, direkt am Mittelmeer gelegen mit einem der besten Klimata Europas: mehr als 300 Sonnentage im Jahr.

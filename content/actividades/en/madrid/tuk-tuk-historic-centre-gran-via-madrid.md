@@ -50,6 +50,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: According to the supplier, the booking is non-refundable, so double-check the date and time before paying.
 opinionEditorial: 'This is Tuk Tuk Zero''s most complete short route for a first visit: it covers most of postcard Madrid in just over an hour. Bear in mind the commentary comes through headphones rather than a live guide, and the booking can''t be cancelled.'
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk madrid

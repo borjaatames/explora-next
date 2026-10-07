@@ -111,6 +111,8 @@ opinionEditorial: 'Es el tour privado a Alcalá de Henares con bodega de Naturan
   fácil con Cercanías RENFE desde Madrid en 30 min por menos de 5 euros).
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
 - alcala de henares excursion
@@ -133,7 +135,6 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

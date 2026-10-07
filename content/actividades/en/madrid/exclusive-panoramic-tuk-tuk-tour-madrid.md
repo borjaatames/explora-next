@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
 opinionEditorial: 'A tuk-tuk is a quick way to see a lot of Madrid in a short time, but it isn''t a walking tour: don''t expect long stops or in-depth explanations at every landmark. It works well if you''re traveling as a group and want to split the cost, or if someone in your party struggles with long walks but doesn''t use a wheelchair.'
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk madrid

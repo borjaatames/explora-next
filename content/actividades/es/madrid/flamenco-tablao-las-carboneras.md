@@ -106,6 +106,8 @@ opinionEditorial: 'Es uno de los tablaos de referencia del centro de Madrid, eti
   masivo, y quien llegue al tablao 5 minutos antes esperando primera fila — aquí funciona el orden de llegada.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - flamenco madrid
@@ -134,7 +136,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-madrid-que-tablao-elegir"
 ---

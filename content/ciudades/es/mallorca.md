@@ -28,7 +28,6 @@ atracciones:
   - nombre: "Las calas y playas"
     descripcion: "Desde la Playa de Palma hasta las calas vírgenes del este y el sur (Es Trenc, Cala Mondragó): el abanico de playas más variado de Baleares."
 chipsFiltros:
-  - { label: "Catedral de Palma", tag: "catedral-palma" }
   - { label: "Cuevas del Drach", tag: "cuevas-drach" }
   - { label: "Serra de Tramuntana", tag: "tramuntana" }
   - { label: "Pueblos", tag: "pueblos" }

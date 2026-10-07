@@ -107,6 +107,10 @@ opinionEditorial: 'This is an excellent option if you want to step out of the st
   hungry. Plan to eat in Toledo (€15-25 extra) after the tasting, or bring snacks.
 
   '
+atraccionesRelacionadas:
+- excursiones-desde-madrid
+- toledo
+- tapas-madrid
 categoria: excursionesDia
 keywords:
 - toledo wine tasting tour
@@ -148,9 +152,6 @@ numeroOpiniones: 2658
 publicada: false
 destacada: false
 fecha: '2026-05-06'
-atraccionesRelacionadas:
-- excursiones-desde-madrid
-- toledo
 ---
 
 ## What you'll see

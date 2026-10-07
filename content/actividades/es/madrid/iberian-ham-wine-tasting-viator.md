@@ -92,6 +92,8 @@ opinionEditorial: |
 
   Para quién: foodies adultos con buen inglés que quieran entender los productos D.O. españoles con guía propietario muy bien valorado, amantes del jamón ibérico premium, parejas o grupos pequeños (2-12 personas) con plan gastronómico de tarde-noche. Para quién NO: vegetarianos y veganos (pierden la mayor parte de la cata), viajeros que no manejen inglés (no hay versión en español), personas con alergias múltiples sin confirmar antes, viajeros con movilidad reducida (no accesible silla, no apto si tienes problemas para andar), y menores de edad.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["jamon iberico cata madrid", "viator jamon vino madrid", "embutidos quesos vino madrid", "cata gourmet madrid", "tasting iberian ham madrid"]
 
@@ -113,7 +115,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

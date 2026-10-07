@@ -105,6 +105,9 @@ opinionEditorial: 'Es la opción premium del comparador, y la pregunta clave es 
   es la opción más completa del comparador.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - tour privado alhambra
@@ -144,8 +147,6 @@ numeroOpiniones: 242
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

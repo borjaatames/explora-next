@@ -98,6 +98,8 @@ opinionEditorial: |
 
   Who it's for: families with kids 8-14 (the VR often becomes the trip highlight), tech-curious adults, travellers wanting "more than just a tour" of the cathedral, fans of historical reconstruction (the VR shows off-limit medieval areas), and anyone who wants the rooftop with added context. Who it's NOT for: wheelchair users (rooftop requires stairs), travellers who only want self-paced visit (this is a group tour), visitors with epilepsy/photosensitivity (VR can trigger), and couples wanting intimacy (book t949030 for private format instead).
 
+atraccionesRelacionadas:
+- barrio-gotico
 categoria: "cultural"
 keywords: ["barcelona cathedral vr experience", "cathedral barcelona guided tour rooftop", "vr tour barcelona cathedral", "catedral barcelona realidad virtual", "cathedral guided tour barri gotic"]
 
@@ -119,7 +121,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

@@ -108,6 +108,10 @@ opinionEditorial: 'Es la opción por defecto, y lo es por motivos sólidos. Con 
   esa ventana de reserva anticipada es el mejor momento para comprar.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- generalife
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - visita guiada alhambra
@@ -149,9 +153,6 @@ numeroOpiniones: 21100
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
-- generalife
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

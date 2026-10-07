@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 5
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'El Reina Sofía se entiende mucho mejor con alguien que explique el contexto: la Guerra Civil, las vanguardias y por qué el Guernica está allí. Dos horas es la medida justa. Mínimo 2 personas por reserva.'
+atraccionesRelacionadas:
+- reina-sofia
 categoria: visitasGuiadas
 keywords:
 - visita privada reina sofía

@@ -90,6 +90,8 @@ opinionEditorial: |
 
   Who it's for: travellers with generous budgets prioritising excellent ratings and a very polished experience, closed groups who split the per-person price, foodies wanting a complete and personalised menu. Who it's NOT for: tighter budgets (GetYourGuide has excellent alternatives at a fraction of the price), travellers with reduced mobility (not accessible), and those who want the social format of a large group.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["private paella class madrid", "private cooking class madrid", "viator private paella", "exclusive paella workshop madrid", "private spanish cooking class"]
 
@@ -108,7 +110,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

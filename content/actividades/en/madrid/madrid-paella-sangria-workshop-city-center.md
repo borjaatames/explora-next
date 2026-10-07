@@ -93,6 +93,8 @@ opinionEditorial: |
 
   Who it's for: travellers who want a hands-on gastronomic experience (not just for show), couples and small groups who enjoy cooking together, beginners in Spanish cooking (it's an introductory workshop especially valued by English-speaking travellers), and anyone wanting to take recipes home to replicate. Who it's NOT for: experienced amateur chefs (may feel basic), anyone after a private not shared workshop, travellers with reduced mobility (kitchen upstairs, no lift guarantee) and anyone after quick eat-out options (here it's 3 dedicated hours).
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["paella workshop madrid", "cooking class madrid paella", "paella sangria class madrid", "paella sangria workshop madrid", "learn cook paella madrid"]
 
@@ -114,7 +116,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

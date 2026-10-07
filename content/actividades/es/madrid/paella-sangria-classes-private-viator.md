@@ -90,6 +90,8 @@ opinionEditorial: |
 
   Para quién: viajeros con presupuesto holgado que prioricen valoraciones excelentes y experiencia muy cuidada, grupos cerrados que se reparten el precio por persona, foodies que quieran menú completo y personalizado. Para quién NO: presupuestos justos (en GetYourGuide hay alternativas excelentes por una fracción del precio), viajeros con movilidad reducida (no accesible), y quien busque el formato social de un grupo grande.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["clase paella privada madrid", "private cooking class madrid", "viator paella privada", "taller paella exclusivo madrid", "clase cocina privada espanola"]
 
@@ -108,7 +110,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

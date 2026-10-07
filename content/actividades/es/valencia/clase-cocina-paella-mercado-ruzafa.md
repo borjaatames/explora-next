@@ -41,6 +41,9 @@ preguntasFrecuentes:
   - pregunta: "¿Me llevo la receta?"
     respuesta: "Sí. La gracia de la clase es que aprendes el método —el sofrito, el punto del arroz, el socarrat— para repetirla en casa. Te llevas la receta y, sobre todo, la técnica."
 opinionEditorial: "Es la actividad mejor valorada de Valencia y se entiende por qué: una clase con chef, mercado incluido y la paella que tú cocinas como comida, todo por 65 €. Con 4,97 sobre 5 y más de mil opiniones, es de las apuestas más seguras del catálogo. Si solo vas a hacer una experiencia en Valencia y te gusta la cocina, esta es la que mejor resume la ciudad: producto, huerta y arroz."
+atraccionesRelacionadas:
+- albufera-paella
+- gastronomia
 categoria: toursGastronomicos
 keywords:
   - "clase de paella valencia"

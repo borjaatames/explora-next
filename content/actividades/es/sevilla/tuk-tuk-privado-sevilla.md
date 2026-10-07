@@ -69,6 +69,9 @@ preguntasFrecuentes:
 opinionEditorial: Con niños pequeños o en días de calor, es la forma más cómoda de ver lo esencial de Sevilla sin que nadie acabe agotado. El tuk tuk es parte de la diversión. Lo reservas directamente con nosotros y el precio es por grupo.
 guiasRelacionadas:
 - sevilla-con-ninos
+atraccionesRelacionadas:
+- plaza-espana
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk sevilla
@@ -98,8 +101,6 @@ galeria:
   alt: Estanque con vegetación en el Parque de María Luisa
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
   alt: Plaza de toros de la Maestranza en Sevilla
-atraccionesRelacionadas:
-- plaza-espana
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -85,10 +85,11 @@ opinionEditorial: |
 
   An important note on price: the €20 tickets are PROMO, with no drink. If you want a drink included, step up to General or Premium. If you want unlimited drinks and to meet the artists, VIP — but careful, the VIP zone is on the 1st floor without a lift, so it's not an option if you need accessibility. For travellers with older relatives, young children or those who don't want to walk up to Sacromonte at night, this is the Granada flamenco show.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "teatro flamenco granada", "flamenco campo del principe", "central flamenco granada", "accessible flamenco granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/teatro-flamenco-granada/teatro-flamenco-granada-sensaciones.png"
 imagenAlt: "Flamenco show with dancers and guitar at Teatro Flamenco Granada"

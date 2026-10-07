@@ -100,6 +100,10 @@ opinionEditorial: 'The CHEAPEST Alhambra ticket in the catalogue (€18). The bi
   before booking.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- generalife
+- palacios-nazaries
 categoria: entradas
 keywords:
 - alhambra gardens ticket
@@ -107,9 +111,6 @@ keywords:
 - generalife ticket
 - cheap alhambra ticket
 - alhambra gardens ticket granada
-atraccionesRelacionadas:
-- alhambra
-- generalife
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
 imagenAlt: Generalife gardens of the Alhambra in Granada
 galeria:

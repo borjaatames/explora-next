@@ -46,12 +46,7 @@ atracciones:
     descripcion: "Las discotecas más famosas del mundo —Pacha, Ushuaïa, Amnesia, Hï— y las fiestas en barco, que han hecho de Ibiza la capital mundial de la música electrónica."
     imagen: "/images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp"
     imagenAlt: "Fiesta en Ushuaïa, el ocio nocturno de Ibiza"
-chipsFiltros:
-  - { label: "Dalt Vila", tag: "dalt-vila" }
-  - { label: "Es Vedrà", tag: "es-vedra" }
-  - { label: "Calas y playas", tag: "calas-playas" }
-  - { label: "Formentera", tag: "formentera" }
-  - { label: "Ocio nocturno", tag: "ocio-nocturno" }
+chipsFiltros: []
 ---
 
 Ibiza es famosa en el mundo entero por su **ocio nocturno**, pero la isla es mucho más: tiene un casco histórico Patrimonio de la Humanidad, calas de agua turquesa y una naturaleza protegida sorprendente. Su capital, **Eivissa**, ronda los 50.000 habitantes.

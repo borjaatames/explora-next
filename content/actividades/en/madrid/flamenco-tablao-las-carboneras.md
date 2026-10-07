@@ -102,6 +102,8 @@ opinionEditorial: 'This is one of central Madrid''s reference tablaos, flagged Â
   and anyone arriving at the tablao 5 minutes before expecting front row â€” here it works on arrival order.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - flamenco madrid
@@ -130,7 +132,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-madrid-which-tablao-to-choose"
 ---

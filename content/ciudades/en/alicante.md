@@ -30,12 +30,7 @@ atracciones:
     descripcion: "The only inhabited island in the Valencian Community, a marine reserve, a boat ride from the port. Crystal-clear waters and a walled village."
   - nombre: "Guadalest and the Costa Blanca"
     descripcion: "Inland, the village of Guadalest perched on the rock; along the coast, Benidorm, Altea, Calpe and Jávea, the full sweep of the Costa Blanca."
-chipsFiltros:
-  - { label: "Santa Bárbara Castle", tag: "castillo-santa-barbara" }
-  - { label: "Old town", tag: "casco-antiguo" }
-  - { label: "Beaches", tag: "playas" }
-  - { label: "Tabarca Island", tag: "tabarca" }
-  - { label: "Costa Blanca", tag: "costa-blanca" }
+chipsFiltros: []
 ---
 
 Alicante is the capital of the Costa Blanca and the second city of the Valencian Community —around 340,000 people—, facing the Mediterranean with one of the best climates in Europe: more than 300 days of sun a year.

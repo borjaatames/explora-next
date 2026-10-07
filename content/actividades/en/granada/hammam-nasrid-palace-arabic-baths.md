@@ -91,10 +91,12 @@ opinionEditorial: |
 
   Worth knowing: swimsuit mandatory (not included), not allowed for under-12s, pregnant women or people with high blood pressure. If you're going as a couple or group, you can go together. For a first experience or a tight budget, this hammam delivers comfortably; if you want the best of the best regardless of price, Hammam Al Ándalus is the next tier up.
 
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: "serviciosAdicionales"
 keywords: ["hammam granada", "arabic baths granada", "nasrid palace hammam", "granada spa", "granada massage"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagenAlt: "Pool at Hammam Palacio Nazarí in Granada with traditional Arab lighting"

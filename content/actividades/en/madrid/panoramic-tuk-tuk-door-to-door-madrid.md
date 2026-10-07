@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
 opinionEditorial: 'Door-to-door pickup is the big advantage over other Madrid tuk-tuks: you don''t have to travel to a meeting point at all. One hour is enough for a solid visual overview of the city straight from your hotel, but if you want to stop and explore on foot at a relaxed pace, pair it with another activity or extend the duration when booking.'
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - door to door tuk tuk madrid

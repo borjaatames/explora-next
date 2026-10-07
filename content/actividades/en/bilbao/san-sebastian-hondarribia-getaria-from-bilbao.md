@@ -71,6 +71,8 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s the cheapest way to see the best of the Gipuzkoa coast in a day: San Sebastián, the star, plus two lovely towns, Hondarribia and Getaria. The pace is quick, but at €45 it''s well worth it.'
 guiasRelacionadas:
 - day-trips-from-bilbao
+atraccionesRelacionadas:
+- ria-miradores
 categoria: excursionesDia
 keywords:
 - san sebastian day trip from bilbao

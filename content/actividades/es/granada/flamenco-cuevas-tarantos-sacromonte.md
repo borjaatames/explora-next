@@ -84,12 +84,13 @@ opinionEditorial: |
 
   Para quien busque la cueva con más historia y un producto rodado, Los Tarantos. Para quien busque la cercanía máxima con los artistas, La Faraona. Para quien quiera buenas vistas a la Alhambra desde la cueva, Los Amayas. Tres formatos similares con matices distintos — la elección depende de qué priorices.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco sacromonte", "cuevas los tarantos", "zambra granada", "cueva flamenca sacromonte"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
-  - "sacromonte"
 
 imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-zambra-gitana.jpg"
 imagenAlt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"

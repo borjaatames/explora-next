@@ -100,6 +100,10 @@ opinionEditorial: 'This is the only visit in the comparison that changes the rul
   so keep that in mind if you travel with small children or need accessibility.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- alhambra-noche
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra night tour
@@ -145,8 +149,6 @@ numeroOpiniones: 288
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-how-to-visit"
   - "alhambra-which-tour-to-choose"

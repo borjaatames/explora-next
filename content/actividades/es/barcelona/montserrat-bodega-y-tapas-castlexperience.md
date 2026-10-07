@@ -100,6 +100,9 @@ opinionEditorial: 'Es la opción que más recomendamos del comparador y la que m
   de 8).
 
   '
+atraccionesRelacionadas:
+- montserrat
+- tapas-barcelona
 categoria: excursionesDia
 keywords:
 - excursion montserrat bodega
@@ -137,8 +140,6 @@ numeroOpiniones: 7736
 publicada: false
 destacada: true
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- montserrat
 ---
 
 ## Qué vas a ver

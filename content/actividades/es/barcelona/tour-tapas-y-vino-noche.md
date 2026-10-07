@@ -50,6 +50,8 @@ preguntasFrecuentes:
 - pregunta: ¿Se adaptan a alergias o vegetarianos?
   respuesta: Sí. Avisa al guía de cualquier alergia o necesidad alimentaria al llegar; hay opciones vegetarianas.
 opinionEditorial: "La noche es el mejor momento para las tapas en Barcelona, y hacerlo con guía te ahorra acabar en el bar equivocado. Cuatro paradas dan para probar bastante y conocer el barrio con calma."
+atraccionesRelacionadas:
+- tapas-barcelona
 categoria: toursGastronomicos
 keywords:
 - tour de tapas barcelona

@@ -45,6 +45,8 @@ detallesPracticos:
   confirmacionInmediata: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
 opinionEditorial: "El formato privado da mucho juego con la comida: marcáis el ritmo, el guía adapta las paradas a lo que os apetece y podéis preguntar de todo. Para una pareja o un grupo de amigos es una velada a medida."
+atraccionesRelacionadas:
+- tapas-barcelona
 categoria: experienciasPrivadas
 keywords:
 - tour privado tapas barcelona

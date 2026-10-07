@@ -98,6 +98,8 @@ opinionEditorial: |
 
   Para quién es: familias con niños 8-14 (la VR suele ser lo mejor del viaje), adultos tecno-curiosos, viajeros que quieran «algo más que un tour» de la catedral, aficionados a la reconstrucción histórica (la VR muestra zonas medievales no accesibles) y cualquiera que quiera la terraza con contexto añadido. Para quién NO: usuarios de silla de ruedas (las terrazas requieren escaleras), viajeros que solo quieran visita libre a su ritmo (es un tour grupal), visitantes con epilepsia/fotosensibilidad (la VR puede provocarles molestias), y parejas que busquen intimidad (reserva t949030 para formato privado en su lugar)."
 
+atraccionesRelacionadas:
+- barrio-gotico
 categoria: "cultural"
 keywords: ["tour catedral barcelona realidad virtual", "tour vr catedral barcelona", "catedral barcelona guiado vr", "catedral barcelona tour guiado", "realidad virtual catedral barri gotic"]
 
@@ -119,7 +121,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

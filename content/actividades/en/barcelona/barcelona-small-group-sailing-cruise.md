@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: Is hotel pickup included?
   respuesta: No. You make your own way to Marina Vela, Port Vell; hotel transfers are not included.
 opinionEditorial: "A calm, different way to see Barcelona: from the water, with the coastline behind you and no rush. The small group keeps it uncrowded, and being able to swim is a plus in summer."
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - barcelona sailing cruise

@@ -92,6 +92,8 @@ opinionEditorial: |
 
   Who it's for: adult foodies with strong English looking to understand Spanish D.O. products with a highly-rated owner-host, premium Iberian ham lovers, couples or small groups (2-12 people) on an afternoon/evening gastronomic plan. Who it's NOT for: vegetarians and vegans (lose most of the tasting), travellers without English (no Spanish version), people with multiple allergies without prior notice, travellers with reduced mobility (not wheelchair accessible, not suitable if you have walking difficulties), and minors.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["iberian ham tasting madrid", "viator ham wine madrid", "cured meats cheese wine madrid", "gourmet tasting madrid", "spanish ham tasting"]
 
@@ -113,7 +115,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

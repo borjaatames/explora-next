@@ -48,6 +48,7 @@ chipsFiltros:
   - { label: "Generalife", tag: "generalife" }
   - { label: "Visita nocturna", tag: "alhambra-noche" }
   - { label: "Albaicín y Sacromonte", tag: "albaicin-sacromonte" }
+  - { label: "Flamenco", tag: "flamenco" }
 ---
 
 Granada es una de las cinco ciudades imprescindibles de España y la **última capital musulmana de Europa**, conquistada por los Reyes Católicos en 1492. Es capital de provincia en Andalucía, con unos **232.000 habitantes** en el municipio y más de 530.000 en su área metropolitana.

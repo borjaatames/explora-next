@@ -68,6 +68,7 @@ chipsFiltros:
   - { label: "Plaza de España", tag: "plaza-espana" }
   - { label: "Flamenco", tag: "flamenco" }
   - { label: "Tapas und Wein", tag: "tapas-sevilla" }
+  - { label: "Tuk-Tuk", tag: "tuk-tuk" }
 ---
 
 Sevilla ist die **Hauptstadt Andalusiens** und die viertgrößte Stadt Spaniens: **684.000 Einwohner** im Stadtgebiet und mehr als 1,5 Millionen im Großraum. Sie ist Sitz der Junta de Andalucía und wirtschaftliches, kulturelles und religiöses Zentrum des südlichen Spaniens.

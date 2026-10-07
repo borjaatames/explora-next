@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: ¿Hay edad mínima o alguna restricción?
   respuesta: 'La edad mínima es 12 años. No se recomienda a personas con problemas de espalda o afecciones cardíacas, ni a embarazadas, por ser un paseo a alta velocidad.'
 opinionEditorial: "Para quien quiere algo más movido que un velero: media hora por el Port Vell viendo superyates y las bases de la America's Cup, y media hora a toda velocidad por la costa. Corto, intenso y muy divertido."
+atraccionesRelacionadas:
+- barco
 categoria: visitasGuiadas
 keywords:
 - lancha rapida barcelona

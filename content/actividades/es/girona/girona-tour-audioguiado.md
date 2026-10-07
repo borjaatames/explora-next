@@ -29,14 +29,15 @@ noIncluye:
   - "Entradas a monumentos"
 puntoEncuentro: "Inicio en el casco antiguo de Girona; se indica en la app tras la reserva."
 opinionEditorial: "La opción más barata para descubrir Girona: una audioguía en el móvil para recorrer el casco medieval a tu aire por 7 €. Ideal si prefieres ir por libre sin guía ni horarios."
+atraccionesRelacionadas:
+- casco-medieval
+- catedral
+- costa-brava
 categoria: visitasGuiadas
 keywords:
   - "girona por libre"
   - "audioguia girona"
   - "que ver en girona"
-atraccionesRelacionadas:
-  - casco-medieval
-  - catedral
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Catedral de Girona al final de su escalinata monumental"
 

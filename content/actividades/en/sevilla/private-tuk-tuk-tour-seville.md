@@ -69,6 +69,9 @@ preguntasFrecuentes:
 opinionEditorial: With small kids or on hot days, this is the easiest way to see Seville's essentials without anyone getting worn out. The tuk tuk is part of the fun. You book it directly with us and the price is per group.
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- plaza-espana
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk seville
@@ -98,8 +101,6 @@ galeria:
   alt: Pond with plants in María Luisa Park
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
   alt: Maestranza bullring in Seville
-atraccionesRelacionadas:
-- plaza-espana
 publicada: true
 destacada: false
 fecha: '2026-10-04'

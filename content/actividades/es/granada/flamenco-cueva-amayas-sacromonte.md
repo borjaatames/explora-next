@@ -85,12 +85,13 @@ opinionEditorial: |
 
   Con 4,7 sobre 5 y 1.107 reseñas, el rating es sólido. A 23 € con bebida incluida y cancelación gratuita 24 horas antes, es una de las mejores relaciones calidad-precio del catálogo de flamenco en Granada. Si vas a Granada por primera vez y quieres ver flamenco una sola noche, este es el espectáculo a elegir; si vas con movilidad reducida o buscas comodidad de butaca, mejor un tablao en el centro como el Casa Ana o La Alboreá.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco sacromonte", "cueva flamenca granada", "zambra gitana granada", "espectaculo flamenco cueva"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
-  - "sacromonte"
 
 imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-artistas-actuacion.avif"
 imagenAlt: "Fachada azul y blanca de una cueva-tablao flamenco del Sacromonte de Granada"

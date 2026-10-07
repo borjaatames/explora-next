@@ -93,6 +93,8 @@ opinionEditorial: |
 
   Para quién es: viajeros independientes que quieren marcar su propio ritmo, visitantes con presupuesto ajustado, viajeros con interés previo en arquitectura gótica (el claustro, las ocas, las capillas laterales) y cualquiera con tiempo limitado en el Barri Gòtic que quiera ticarlo en 60-90 minutos. Para quién NO: viajeros que quieran vistas desde la terraza (se venden aparte), quienes prefieran un guión guiado (reserva t949030 o t638978) y visitantes con ventana de tiempo apretada que necesiten cancelación gratuita (esta no la tiene).
 
+atraccionesRelacionadas:
+- barrio-gotico
 categoria: "cultural"
 keywords: ["entrada catedral barcelona", "ticket catedral de barcelona", "catedral gotica barcelona", "santa esglesia catedral barcelona", "visita catedral barri gotic"]
 
@@ -111,7 +113,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

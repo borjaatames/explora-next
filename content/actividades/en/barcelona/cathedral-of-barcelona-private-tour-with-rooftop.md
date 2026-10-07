@@ -95,6 +95,8 @@ opinionEditorial: |
 
   Who it's for: travellers who want the rooftop views (best Barri Gòtic panorama outside the Sagrada Família towers), couples or small families wanting personalized narrative, visitors with limited time who want skip-the-line + guide + rooftop in one package, and anyone who needs flexible cancellation (this one allows it up to 24 hours before). Who it's NOT for: wheelchair users (rooftop requires stairs), budget travellers (the basic ticket t428189 at €21 covers the ground-level cathedral), and travellers who prefer self-paced visit without a guide.
 
+atraccionesRelacionadas:
+- barrio-gotico
 categoria: "cultural"
 keywords: ["barcelona cathedral rooftop tour", "private cathedral tour barcelona", "barcelona cathedral terraces", "catedral barcelona guided tour", "barri gotic private tour"]
 
@@ -116,7 +118,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

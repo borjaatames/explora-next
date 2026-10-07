@@ -101,6 +101,9 @@ opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo ha
   antes de reservar, pero al menos no es un «no» rotundo como en otras opciones.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra grupo reducido
@@ -138,8 +141,6 @@ numeroOpiniones: 890
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

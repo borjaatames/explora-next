@@ -83,12 +83,13 @@ opinionEditorial: |
 
   At €18 it's the cheapest cave option. The 4.7 rating with GetYourGuide's «Best rated» distinction and the operator's track record (the cave itself, no middlemen) make it a safe bet for travellers who value the intimate format over seating comfort. Wear comfortable shoes: the walk from the centre up to number 53 of the Camino del Sacromonte is uphill.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "granada flamenco cave", "cueva la faraona", "intimate flamenco show granada"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
-  - "sacromonte"
 
 imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-granada.png"
 imagenAlt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"

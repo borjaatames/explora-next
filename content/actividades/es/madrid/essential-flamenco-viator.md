@@ -84,6 +84,8 @@ opinionEditorial: |
 
   Para quién: viajeros que priorizan validación social masiva sin renunciar a precio competitivo, alojados cerca de Sol o Gran Vía, parejas que quieren show flamenco con copa sin compromiso de cena. Para quién NO: quienes busquen cena espectáculo (este es show + bebida), aficionados al flamenco más purista que quieran cuadro fijo histórico (Las Carboneras, Torres Bermejas), y quienes no aguanten formato pensado para turismo internacional.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["essential flamenco madrid", "flamenco show barato madrid", "viator flamenco entrada", "show flamenco economico", "flamenco madrid principiantes"]
 
@@ -101,7 +103,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

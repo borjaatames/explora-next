@@ -146,6 +146,8 @@ opinionEditorial: 'La **excursión clásica a Córdoba desde Sevilla** — opera
   (calor extremo 45°C en Córdoba).
 
   '
+atraccionesRelacionadas:
+- catedral-giralda
 categoria: excursionesDia
 keywords:
 - excursion cordoba desde sevilla
@@ -169,7 +171,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

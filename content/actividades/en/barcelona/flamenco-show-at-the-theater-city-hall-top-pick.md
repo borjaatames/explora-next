@@ -155,6 +155,8 @@ opinionEditorial: 'The **most booked flamenco show in Barcelona** — 11,305 rev
   venue (Palau Dalmases 17th-c.), wheelchair users (this venue is NOT accessible — the other 3 ARE).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - best selling flamenco barcelona
@@ -178,7 +180,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-which-tablao-to-choose"
 ---

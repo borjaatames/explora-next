@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 0
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'It''s a long dinner with a walk and stories rather than a quick bar crawl: you finish sitting down to paella and sangria. It''s run in English, so it suits international travelers best. It has lots of reviews on booking platforms, a good sign the experience is consistent.'
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: toursGastronomicos
 keywords:
 - madrid tapas tour with dinner

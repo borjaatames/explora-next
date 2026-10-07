@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: El Palacio Real se ve en una hora por tu cuenta, pero con un guía entiendes para qué servía cada salón y quién lo decoró. Esta versión privada es cara si vais 2, y razonable desde 3 o 4. Mínimo 2 personas por reserva.
+atraccionesRelacionadas:
+- palacio-real
 categoria: visitasGuiadas
 keywords:
 - visita privada palacio real madrid

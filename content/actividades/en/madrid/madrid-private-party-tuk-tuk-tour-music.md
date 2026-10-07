@@ -46,6 +46,8 @@ detallesPracticos:
   accesibleSilla: false
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
 opinionEditorial: This isn't a cultural tour — it's a party experience meant to get the mood going before a night out or to celebrate something as a group. If you want history and monuments at a relaxed pace, go for the panoramic tuk-tuk instead; if you want music and good energy with your crew, this is the product. Just note there's no alcohol allowed on board.
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - madrid party tuk tuk

@@ -56,6 +56,8 @@ preguntasFrecuentes:
 - pregunta: What's included on board?
   respuesta: Drinks (water, soft and alcoholic) and snacks, with life jackets and a qualified skipper.
 opinionEditorial: "Two private hours are plenty to leave the harbour, sail for a while and stop for a swim in open water. It's the more affordable private-sailing option and works really well for a couple or a family."
+atraccionesRelacionadas:
+- barco
 categoria: experienciasPrivadas
 keywords:
 - private sailing barcelona

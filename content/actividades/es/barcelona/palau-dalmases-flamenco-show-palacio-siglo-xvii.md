@@ -163,6 +163,8 @@ opinionEditorial: 'El **tablao más arquitectónicamente espectacular de Barcelo
   micrófonos (Cordobés). Si tu prioridad es la arquitectura del venue, Palau Dalmases es la mejor opción de Barcelona.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - palau dalmases flamenco
@@ -186,7 +188,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-que-tablao-elegir"
 ---

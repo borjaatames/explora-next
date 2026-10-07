@@ -102,6 +102,9 @@ opinionEditorial: 'This is the most economical option in the comparison, and not
   option for a first visit to the Alhambra.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - cheap alhambra ticket
@@ -143,8 +146,6 @@ numeroOpiniones: 3516
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-how-to-visit"
   - "alhambra-which-tour-to-choose"

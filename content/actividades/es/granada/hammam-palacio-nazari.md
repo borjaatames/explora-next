@@ -91,10 +91,12 @@ opinionEditorial: |
 
   Lo que conviene saber: bañador obligatorio (no incluido), prohibido para menores de 12 años, mujeres embarazadas y personas con hipertensión. Si vas en pareja o grupo, podéis ir juntos. Para una primera experiencia o presupuesto justo, este hammam cumple sobradamente; si quieres lo mejor del mejor sin importar el precio, el Hammam Al Ándalus es la siguiente categoría.
 
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: "serviciosAdicionales"
 keywords: ["hammam granada", "baños arabes granada", "palacio nazari hammam", "spa granada", "masaje granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagenAlt: "Piscina del Hammam Palacio Nazarí en Granada con iluminación tradicional árabe"

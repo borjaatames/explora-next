@@ -93,6 +93,9 @@ opinionEditorial: |
 
   Who it's for: adult couples on weekend getaway, small groups of oenophile friends, travelers who value gastronomy as the day's protagonist. NOT the right option if you just want to «see Montserrat and eat something». Nor if traveling with young children (the premium experience is wasted).
 
+atraccionesRelacionadas:
+- montserrat
+- tapas-barcelona
 categoria: "excursionesDia"
 keywords: ["montserrat bages farmhouse", "montserrat sommelier lunch", "barcelona local experiences", "montserrat premium oenology", "montserrat authentic winery"]
 
@@ -128,8 +131,6 @@ numeroOpiniones: 1130
 publicada: true
 destacada: false
 fecha: "2026-05-15"
-atraccionesRelacionadas:
-  - "montserrat"
 bokunProductId: 850193
 fecha_actualizacion: '2026-06-18'
 guiasRelacionadas:

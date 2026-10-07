@@ -27,12 +27,7 @@ atracciones:
     descripcion: "Das römische Aquädukt am Stadtrand, eines der besterhaltenen Spaniens, mitten in der Natur."
   - nombre: "PortAventura World (Salou)"
     descripcion: "Nur wenige Kilometer entfernt, einer der größten Freizeitparks Europas, mit Ferrari Land. Die große Familienattraktion der Costa Daurada."
-chipsFiltros:
-  - { label: "Römisches Amphitheater", tag: "anfiteatro" }
-  - { label: "Römisches Tárraco", tag: "tarraco-romana" }
-  - { label: "Kathedrale", tag: "catedral" }
-  - { label: "PortAventura", tag: "portaventura" }
-  - { label: "Strände", tag: "playas" }
+chipsFiltros: []
 ---
 
 Tarragona ist eine mittelgroße Stadt an der Costa Daurada – rund 135.000 Einwohner –, eine Stunde von Barcelona entfernt, und bewahrt den größten römischen Schatz Kataloniens. Hier lag **Tárraco**, Hauptstadt des römischen Hispania, und aus jener Zeit ist ein zum UNESCO-Welterbe erklärtes Ensemble erhalten.

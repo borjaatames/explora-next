@@ -102,6 +102,10 @@ opinionEditorial: 'La entrada MÁS BARATA del catálogo a la Alhambra (18 €). 
   bien antes de reservar.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- generalife
+- palacios-nazaries
 categoria: entradas
 keywords:
 - entrada alhambra jardines
@@ -109,9 +113,6 @@ keywords:
 - entrada generalife
 - alhambra economica
 - ticket alhambra jardines
-atraccionesRelacionadas:
-- alhambra
-- generalife
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
 imagenAlt: Jardines del Generalife de la Alhambra de Granada
 galeria:

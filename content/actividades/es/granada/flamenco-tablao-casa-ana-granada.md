@@ -82,10 +82,11 @@ opinionEditorial: |
 
   A 18 € es la opción más económica del centro y la única plenamente accesible junto con el Teatro Flamenco (que llega a 20 € en PROMO sin bebida). Para quien busque tablao tradicional sin complicaciones, sin opciones de menú o categorías de entrada, este es el directo. La pega: el espectáculo es solo en español y los menores de 6 años no pueden entrar.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "tablao casa ana", "flamenco centro granada", "tablao flamenco granada", "espectaculo flamenco intimo granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp"
 imagenAlt: "Bailaora y guitarrista en escena del Tablao Casa Ana de Granada"

@@ -93,6 +93,8 @@ opinionEditorial: |
 
   Who it's for: independent travelers who want to set their own pace, budget-conscious visitors, travelers with strong prior interest in Gothic architecture (the cloister, the geese, the side chapels), and anyone with limited time in the Barri Gòtic who wants to tick this off in 60-90 minutes. Who it's NOT for: travelers wanting rooftop views (terraces sold separately), those wanting a guided narrative (book t949030 or t638978), and visitors with a tight time window who need free cancellation (this one is non-refundable).
 
+atraccionesRelacionadas:
+- barrio-gotico
 categoria: "cultural"
 keywords: ["barcelona cathedral ticket", "cathedral of barcelona entrance", "barri gotic cathedral", "santa esglesia catedral barcelona", "catedral de barcelona entry"]
 
@@ -111,7 +113,6 @@ publicada: true
 destacada: true
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

@@ -97,6 +97,8 @@ opinionEditorial: 'Es la versión Viator del show flamenco en el Tablao Las Carb
   hay 758 reseñas validadas del mismo tablao.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - flamenco las carboneras viator
@@ -121,7 +123,6 @@ publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## Qué vas a ver

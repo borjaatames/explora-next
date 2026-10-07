@@ -84,6 +84,9 @@ opinionEditorial: |
 
   Who it's for: travellers staying near Sol or Gran Vía who prioritise proximity over mass validation, couples with a quick flamenco plan in the centre, those interested in Juan Andrés Maya's work. Who it's NOT for: travellers with reduced mobility (not wheelchair accessible), those prioritising maximum statistical validation (better Essential Flamenco or Las Carboneras), and those looking for an intimate tablao in a historic neighbourhood (better La Latina or Austrias).
 
+atraccionesRelacionadas:
+- puerta-sol
+- flamenco
 categoria: "espectaculos"
 keywords: ["tablao la carmela madrid", "flamenco puerta del sol", "tablao madrid sol viator", "flamenco show central madrid", "viator tablao la carmela"]
 
@@ -105,8 +108,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas:
-  - "puerta-sol"
 ---
 
 ## What you'll see

@@ -101,6 +101,9 @@ opinionEditorial: 'This visit sits in the middle of the catalogue, and it does i
   it''s worth confirming before booking, but at least it isn''t a flat «no» like other options.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra small group tour
@@ -138,8 +141,6 @@ numeroOpiniones: 890
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-how-to-visit"
   - "alhambra-which-tour-to-choose"

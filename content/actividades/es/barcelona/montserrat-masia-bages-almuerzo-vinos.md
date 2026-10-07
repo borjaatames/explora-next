@@ -93,6 +93,9 @@ opinionEditorial: |
 
   Para quién es: parejas adultas en escapada de fin de semana, grupos pequeños de amigos enólogos, viajeros que valoran la gastronomía como protagonista del día. NO es la opción correcta si solo quieres «ver Montserrat y comer algo». Tampoco si vas con niños pequeños (la experiencia premium se desperdicia).
 
+atraccionesRelacionadas:
+- montserrat
+- tapas-barcelona
 categoria: "excursionesDia"
 keywords: ["montserrat masia bages", "montserrat almuerzo sommelier", "barcelona local experiences", "montserrat enologia premium", "montserrat bodega autentica"]
 
@@ -128,8 +131,6 @@ numeroOpiniones: 1130
 publicada: true
 destacada: false
 fecha: "2026-05-15"
-atraccionesRelacionadas:
-  - "montserrat"
 bokunProductId: 850193
 fecha_actualizacion: '2026-06-18'
 guiasRelacionadas:

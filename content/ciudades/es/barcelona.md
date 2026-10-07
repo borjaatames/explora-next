@@ -68,6 +68,9 @@ chipsFiltros:
   - { label: "Casa Batlló", tag: "casa-batllo" }
   - { label: "Excursión a Montserrat", tag: "montserrat" }
   - { label: "Barrio Gótico", tag: "barrio-gotico" }
+  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Paseos en barco", tag: "barco" }
+  - { label: "Tapas y vinos", tag: "tapas-barcelona" }
 ---
 
 Barcelona es la capital de Cataluña y la segunda ciudad más poblada de España: alrededor de **1,7 millones de habitantes** en el municipio y más de 5,7 millones en su área metropolitana. Es sede de la Generalitat y el principal motor económico del Mediterráneo español.

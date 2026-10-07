@@ -102,6 +102,9 @@ opinionEditorial: 'Es la visita mejor valorada del comparador: 4,9 sobre 5, con 
   pesa.
 
   '
+atraccionesRelacionadas:
+- alhambra
+- palacios-nazaries
 categoria: visitasGuiadas
 keywords:
 - alhambra tour guiado entradas incluidas
@@ -149,8 +152,6 @@ numeroOpiniones: 1018
 publicada: true
 destacada: false
 fecha: '2026-05-14'
-atraccionesRelacionadas:
-- alhambra
 guiasRelacionadas:
   - "alhambra-como-visitar"
   - "alhambra-que-tour-elegir"

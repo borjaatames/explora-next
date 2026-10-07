@@ -36,6 +36,8 @@ detallesPracticos:
   confirmacionInmediata: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
 opinionEditorial: "Sunset on the Albufera is one of Valencia's great classics, and for good reason: the sky lights up over the water and rice fields as you sail in a traditional boat. It's a calm, very photogenic way to end the day."
+atraccionesRelacionadas:
+- albufera-paella
 categoria: excursionesDia
 keywords:
 - albufera sunset boat ride

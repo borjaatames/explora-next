@@ -155,6 +155,8 @@ opinionEditorial: 'The **highest-rated tablao in Barcelona** — 4.8/5 with 2,12
   is more central).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - tablao de carmen
@@ -178,7 +180,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-which-tablao-to-choose"
 ---

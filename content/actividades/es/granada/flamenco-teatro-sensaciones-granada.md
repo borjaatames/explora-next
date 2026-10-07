@@ -85,10 +85,11 @@ opinionEditorial: |
 
   Aviso importante con el precio: los 20 € son entradas PROMO, sin bebida. Si quieres la copa incluida, sube a General o Premium. Si quieres bebidas ilimitadas y conocer a los artistas, VIP — pero ojo, la zona VIP está en la 1ª planta sin ascensor, así que no es opción si necesitas accesibilidad. Para quien viaja con personas mayores, niños pequeños o no quiere subir al Sacromonte de noche, este es el espectáculo de Granada.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "teatro flamenco granada", "flamenco campo del principe", "espectaculo flamenco centro granada", "flamenco accesible granada"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/teatro-flamenco-granada/teatro-flamenco-granada-sensaciones.png"
 imagenAlt: "Espectáculo flamenco con bailarines y guitarra en el Teatro Flamenco Granada"

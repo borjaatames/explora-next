@@ -85,11 +85,12 @@ opinionEditorial: |
 
   Some reviews mention that side tables can have partially obstructed sight lines — since seats are assigned at booking, book in advance to secure a good position. For travellers who want the most intimate flamenco, the Sacromonte caves are a better choice; for those who want a traditional tablao with careful production and a food option, Jardines de Zoraya is a safe pick.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "albayzin flamenco", "jardines zoraya", "granada flamenco tablao", "flamenco with dinner granada"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
 
 imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-artistas-luis-de-luis.jpg"
 imagenAlt: "Flamenco tablao with dancers and guitarist at Jardines de Zoraya in the Albayzín"

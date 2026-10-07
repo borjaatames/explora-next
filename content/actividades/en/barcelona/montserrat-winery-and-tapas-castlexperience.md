@@ -98,6 +98,9 @@ opinionEditorial: 'This is the option we recommend most in the comparator and th
   to 20 people), so if you want an intimate format or hotel pickup, consider EXB-26 (In Out, group of 8).
 
   '
+atraccionesRelacionadas:
+- montserrat
+- tapas-barcelona
 categoria: excursionesDia
 keywords:
 - montserrat winery tour
@@ -135,8 +138,6 @@ numeroOpiniones: 7736
 publicada: false
 destacada: true
 fecha: '2026-05-15'
-atraccionesRelacionadas:
-- montserrat
 ---
 
 ## What you'll see

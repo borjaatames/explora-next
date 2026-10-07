@@ -72,6 +72,9 @@ preguntasFrecuentes:
 opinionEditorial: Short on time in Seville? In two hours you see almost the whole city, including Cartuja and the Macarena, which are far on foot. With kids or in summer it's the comfiest option. You book it directly with us and the price is per group.
 guiasRelacionadas:
 - seville-with-kids
+atraccionesRelacionadas:
+- plaza-espana
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - seville tuk tuk 2 hours
@@ -97,8 +100,6 @@ galeria:
   alt: Macarena Basilica
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
   alt: Tree-lined avenue in María Luisa Park
-atraccionesRelacionadas:
-- plaza-espana
 publicada: true
 destacada: false
 fecha: '2026-10-05'

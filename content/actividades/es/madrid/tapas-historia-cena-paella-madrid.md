@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 0
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'Es una cena larga con paseo y explicaciones, más que una ruta de pinchos rápida: termina sentado con paella y sangría. Va en inglés, así que encaja mejor con viajeros extranjeros o con quien quiera practicar. Tiene muchas opiniones en las plataformas de reserva, buena señal de que la experiencia es consistente.'
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: toursGastronomicos
 keywords:
 - tour tapas madrid con cena

@@ -84,12 +84,13 @@ opinionEditorial: |
 
   Si vas a ver flamenco en cueva una sola vez, las opciones más probadas son Los Amayas (vistas a la Alhambra + bebida incluida) o Los Tarantos (más solera, bebida incluida). La Cueva del Zincalé es la elección para quien busque un equipo artístico distinto y prefiera el formato gestionado directamente por los artistas. La ubicación en el número 55 del Camino del Sacromonte está al final del barrio, así que conviene llegar en taxi o autobús — caminar desde el centro son 30-40 minutos en cuesta.
 
+atraccionesRelacionadas:
+- albaicin-sacromonte
+- sacromonte
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "cueva zincale", "flamenco sacromonte", "zambra gitana granada", "cuevas flamencas granada"]
 
-atraccionesRelacionadas:
-  - "albaicin-sacromonte"
-  - "sacromonte"
 
 imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra-gitana.jpg"
 imagenAlt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"

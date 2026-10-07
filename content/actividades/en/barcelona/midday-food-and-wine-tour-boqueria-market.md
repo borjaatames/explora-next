@@ -50,6 +50,8 @@ detallesPracticos:
   confirmacionInmediata: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
 opinionEditorial: "A great way to eat like a local without ending up in a tourist trap: the guide takes you to places you would not find on your own, and the Boquería at midday is at its best. Small group, relaxed pace and real food."
+atraccionesRelacionadas:
+- tapas-barcelona
 categoria: toursGastronomicos
 keywords:
 - barcelona food tour

@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: ¿Nos podemos bañar?
   respuesta: Sí, hay tiempo para un chapuzón. Lleva toalla y bañador, no se facilitan.
 opinionEditorial: "El formato privado le da otro aire: el barco es solo para vosotros, marcáis el ritmo y tenéis tres horas para navegar, bañaros y brindar con la ciudad de fondo. Para celebraciones o grupos, una experiencia a medida."
+atraccionesRelacionadas:
+- barco
 categoria: experienciasPrivadas
 keywords:
 - velero privado barcelona

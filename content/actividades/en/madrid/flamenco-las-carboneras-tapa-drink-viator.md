@@ -96,6 +96,8 @@ opinionEditorial: 'Viator''s version of the flamenco show at Tablao Las Carboner
   758 validated reviews of the same tablao.
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - flamenco las carboneras viator
@@ -120,7 +122,6 @@ publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

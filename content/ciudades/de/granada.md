@@ -48,6 +48,7 @@ chipsFiltros:
   - { label: "Generalife", tag: "generalife" }
   - { label: "Nachtbesichtigung", tag: "alhambra-noche" }
   - { label: "Albaicín und Sacromonte", tag: "albaicin-sacromonte" }
+  - { label: "Flamenco", tag: "flamenco" }
 ---
 
 Granada ist eine der fünf unverzichtbaren Städte Spaniens und die **letzte muslimische Hauptstadt Europas**, erobert von den Katholischen Königen im Jahr 1492. Sie ist Provinzhauptstadt in Andalusien mit rund **232.000 Einwohnern** im Stadtgebiet und mehr als 530.000 im Großraum.

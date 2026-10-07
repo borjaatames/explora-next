@@ -56,6 +56,8 @@ preguntasFrecuentes:
 - pregunta: ¿Qué incluye a bordo?
   respuesta: Bebidas (agua, refrescos y alcohólicas) y aperitivos, con chalecos salvavidas y patrón cualificado.
 opinionEditorial: "Dos horas en privado dan de sobra para salir del puerto, navegar un rato y parar a bañarse en mar abierto. Es la versión más asequible del velero privado y funciona muy bien para una pareja o una familia."
+atraccionesRelacionadas:
+- barco
 categoria: experienciasPrivadas
 keywords:
 - velero privado barcelona

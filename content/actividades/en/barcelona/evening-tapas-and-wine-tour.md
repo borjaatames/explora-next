@@ -50,6 +50,8 @@ preguntasFrecuentes:
 - pregunta: Can you cater for allergies or vegetarians?
   respuesta: Yes. Let your guide know about any allergies or dietary needs when you arrive; vegetarian options can be arranged.
 opinionEditorial: "Evening is the best time for tapas in Barcelona, and going with a guide saves you from ending up in the wrong bar. Four stops are enough to taste plenty and get to know the neighbourhood at a relaxed pace."
+atraccionesRelacionadas:
+- tapas-barcelona
 categoria: toursGastronomicos
 keywords:
 - barcelona tapas tour

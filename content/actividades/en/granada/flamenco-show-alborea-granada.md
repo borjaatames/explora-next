@@ -84,10 +84,11 @@ opinionEditorial: |
 
   The singing and dancing are the same professional artists who perform across central Granada — the difference against other tablaos is in venue organisation and audience volume. For travellers with limited time who don't want to risk less-tested options, La Alboreá is the "safe default" in the catalogue. Family-friendly and with 24-hour cancellation.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["flamenco granada", "la alborea granada", "central flamenco tablao granada", "flamenco granada with wine", "central granada flamenco"]
 
-atraccionesRelacionadas: []
 
 imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-granada.jpg"
 imagenAlt: "Stage of Tablao Flamenco La Alboreá in central Granada"

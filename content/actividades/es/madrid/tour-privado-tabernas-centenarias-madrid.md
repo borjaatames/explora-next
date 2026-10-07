@@ -45,6 +45,8 @@ detallesPracticos:
   edadMinima: 12
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'Es más un paseo de historia que un tour gastronómico: se come poco (2 tapas) y se cuenta mucho. Si buscáis cenar, mejor un tour de tapas con cena; si os interesa la historia de Madrid a través de sus bares, este es diferente a todo lo demás. Mínimo 2 personas por reserva.'
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: toursGastronomicos
 keywords:
 - tabernas centenarias madrid

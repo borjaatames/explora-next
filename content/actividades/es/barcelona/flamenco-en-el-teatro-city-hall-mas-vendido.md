@@ -158,6 +158,8 @@ opinionEditorial: 'El **espectáculo de flamenco más reservado de Barcelona** �
   único (Palau Dalmases s. XVII), usuarios de silla de ruedas (este venue NO es accesible — los otros 3 SÍ lo son).
 
   '
+atraccionesRelacionadas:
+- flamenco
 categoria: espectaculos
 keywords:
 - flamenco barcelona más vendido
@@ -181,7 +183,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
-atraccionesRelacionadas: []
 guiasRelacionadas:
   - "flamenco-barcelona-que-tablao-elegir"
 ---

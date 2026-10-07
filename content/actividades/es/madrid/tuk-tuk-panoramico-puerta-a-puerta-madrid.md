@@ -46,6 +46,8 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
 opinionEditorial: 'La recogida puerta a puerta es el gran punto a favor frente a otros tuk-tuks de Madrid: no tenéis que desplazaros a ningún punto de encuentro. En una hora da tiempo a un buen resumen visual de la ciudad desde el hotel, pero si buscáis parar y explorar a pie con calma, mejor combinarlo con otra actividad o alargar la duración al reservar.'
+atraccionesRelacionadas:
+- tuk-tuk
 categoria: experienciasPrivadas
 keywords:
 - tuk tuk puerta a puerta madrid

@@ -90,6 +90,8 @@ opinionEditorial: |
 
   Who it's for: travellers with strong English wanting a broad panorama of Spanish cuisine at a recognised school (A Punto), foodies prioritising variety and structured learning, couples preferring tapas over paella. Who it's NOT for: travellers without strong English (class not offered in Spanish), those wanting to master a single recipe in depth (better a paella workshop), travellers with multiple allergies without prior notice, and those needing accessibility without prior verification.
 
+atraccionesRelacionadas:
+- tapas-madrid
 categoria: "gastronomico"
 keywords: ["10 tapas cooking class madrid", "tapas cooking class madrid", "viator tapas cooking class", "tortilla croquetas class madrid", "learn spanish tapas cooking"]
 
@@ -106,7 +108,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see

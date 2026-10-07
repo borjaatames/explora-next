@@ -84,6 +84,8 @@ opinionEditorial: |
 
   Who it's for: travellers prioritising mass social validation without giving up a competitive price, those staying near Sol or Gran Vía, couples wanting a flamenco show with a drink and no dinner commitment. Who it's NOT for: those wanting a dinner show (this is show + drink), flamenco purists seeking historically renowned fixed cuadros (Las Carboneras, Torres Bermejas), and those who can't stand a format aimed at international tourism.
 
+atraccionesRelacionadas:
+- flamenco
 categoria: "espectaculos"
 keywords: ["essential flamenco madrid", "flamenco show madrid viator", "flamenco admission ticket madrid", "viator flamenco entrance", "flamenco show puerta del sol"]
 
@@ -101,7 +103,6 @@ publicada: false
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: "2026-05-17"
-atraccionesRelacionadas: []
 ---
 
 ## What you'll see
