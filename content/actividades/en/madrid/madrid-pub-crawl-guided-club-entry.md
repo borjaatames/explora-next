@@ -63,7 +63,7 @@ galeria:
   alt: Welcome shots at one of the venues on the Madrid pub crawl
 - src: https://imgcdn.bokun.tools/362d996a-932f-4a52-8b03-4d3c5ace6d2c.jpeg
   alt: VIP entry to a club in central Madrid during the pub crawl
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'

@@ -63,7 +63,7 @@ galeria:
   alt: Chupitos de bienvenida en uno de los locales del pub crawl de Madrid
 - src: https://imgcdn.bokun.tools/362d996a-932f-4a52-8b03-4d3c5ace6d2c.jpeg
   alt: Entrada VIP a una discoteca del centro de Madrid durante el pub crawl
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'

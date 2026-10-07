@@ -82,7 +82,7 @@ galeria:
   alt: Plaza Mayor in Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-metropolis-wide-view-hero.webp
   alt: Gran Vía with the Metrópolis building
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-07'
