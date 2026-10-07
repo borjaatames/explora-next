@@ -4,7 +4,7 @@ descripcion: "Alicante guide for one or two days: Santa Bárbara Castle, Santa C
 categoria: "alicante"
 slug: "what-to-see-in-alicante"
 fecha: "2026-03-26"
-fecha_actualizacion: "2026-03-26"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,17 @@ slugs:
 ---
 
 **Alicante is well seen in one or two days** and is the best base for the Costa Blanca. It has sun more than 300 days a year, a spectacular castle leaning over the sea, an old town of white lanes and a beach a step from the centre. This guide covers the essentials of the city and the escapes nearby, and separates what's worth your time from the package-tour postcard.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided walking tour of the highlights](/en/cities/alicante/activities/alicante-highlights-walking-tour) | 4.7★ (111) | €27 |
+| [Premium tuk tuk tour of the centre, castles and beaches](/en/cities/alicante/activities/alicante-tuk-tuk-tour-castles-beaches) | 4.7★ (234) | €50 |
+| [3-hour catamaran cruise with snorkelling](/en/cities/alicante/activities/alicante-3-hour-catamaran-snorkel-cruise) | 4.6★ (1,205) | €42 |
+| [Paella cooking class with market visit, tapas and wine](/en/cities/alicante/activities/alicante-paella-cooking-class-market) | 4.9★ (514) | €49 |
+| [Flamenco show at El Mentidero with tapas option](/en/cities/alicante/activities/alicante-flamenco-show-el-mentidero) | 4.8★ (1,744) | €15 |
+| [Return boat to Tabarca island](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
 
 The trap in Alicante is treating it only as the Costa Blanca's airport, on the way to Benidorm. The city has much more: Santa Bárbara Castle, the Santa Cruz quarter, an Explanada that's among the prettiest in the Mediterranean and an award-winning archaeology museum. One day covers the city; two let you add Tabarca or a coastal village.
 

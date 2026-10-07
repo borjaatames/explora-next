@@ -4,7 +4,7 @@ descripcion: "Guía de Alicante en uno o dos días: Castillo de Santa Bárbara, 
 categoria: "alicante"
 slug: "que-ver-en-alicante"
 fecha: "2026-03-26"
-fecha_actualizacion: "2026-03-26"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,17 @@ slugs:
 ---
 
 **Alicante se ve bien en uno o dos días** y es la mejor base de la Costa Blanca. Tiene sol más de 300 días al año, un castillo espectacular asomado al mar, un casco antiguo de callejuelas blancas y playa a un paso del centro. Esta guía cubre lo esencial de la ciudad y las escapadas de alrededor, y separa lo que merece la pena de lo que es pura postal de paquete turístico.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado a pie por lo imprescindible](/ciudades/alicante/actividades/tour-a-pie-alicante-imprescindibles) | 4,7★ (111) | 27 € |
+| [Tour premium en tuk tuk por el centro, los castillos y las playas](/ciudades/alicante/actividades/tour-tuk-tuk-alicante-castillos-playas) | 4,7★ (234) | 50 € |
+| [Paseo de 3 horas en catamarán con esnórquel](/ciudades/alicante/actividades/catamaran-alicante-3-horas-esnorquel) | 4,6★ (1.205) | 42 € |
+| [Clase de cocina de paella con visita al mercado, tapas y vino](/ciudades/alicante/actividades/clase-cocina-paella-alicante-mercado) | 4,9★ (514) | 49 € |
+| [Espectáculo flamenco en El Mentidero con opción de tapas](/ciudades/alicante/actividades/flamenco-alicante-tablao-el-mentidero) | 4,8★ (1.744) | 15 € |
+| [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
 
 La trampa de Alicante es tratarla solo como aeropuerto de la Costa Blanca, de paso hacia Benidorm. La ciudad tiene mucho más: el Castillo de Santa Bárbara, el barrio de Santa Cruz, una Explanada que es de las más bonitas del Mediterráneo y un museo arqueológico premiado. Un día da para la ciudad; dos, para sumarle Tabarca o un pueblo de la costa.
 

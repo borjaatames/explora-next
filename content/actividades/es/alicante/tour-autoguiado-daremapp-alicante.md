@@ -70,6 +70,8 @@ galeria:
   alt: El Castillo de Santa Bárbara durante el recorrido autoguiado por Alicante
 - src: https://imgcdn.bokun.tools/8f755291-00ec-4261-8d96-2ce8510756ad.jpg
   alt: Recorrido autoguiado por Alicante con la app DareMapp
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

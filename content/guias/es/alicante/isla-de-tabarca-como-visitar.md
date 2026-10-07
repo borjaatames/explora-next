@@ -4,7 +4,7 @@ descripcion: "Guía para visitar la Isla de Tabarca: cómo llegar en barco desde
 categoria: "alicante"
 slug: "isla-de-tabarca-como-visitar"
 fecha: "2026-04-06"
-fecha_actualizacion: "2026-04-06"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,12 @@ slugs:
 ---
 
 **Tabarca es la excursión que hace distinta a Alicante.** La isla habitada más pequeña de España es además **reserva marina** (la primera del país), con aguas cristalinas para snorkel, un pueblo amurallado del siglo XVIII y arroces frente al mar. Esta guía te explica cómo llegar, qué hacer y cómo organizar el día para aprovecharla.
+
+## Cómo ir a Tabarca
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
 
 La clave: es un plan de **medio día o día completo**, y depende del barco. Elige bien el puerto de salida y mira siempre el estado del mar.
 

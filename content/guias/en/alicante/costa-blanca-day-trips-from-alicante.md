@@ -4,7 +4,7 @@ descripcion: "The best day trips from Alicante: Benidorm, Altea, Calpe and the P
 categoria: "alicante"
 slug: "costa-blanca-day-trips-from-alicante"
 fecha: "2026-04-17"
-fecha_actualizacion: "2026-04-17"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Alicante is the gateway to the whole Costa Blanca.** Within an hour you have white villages above the sea, postcard headlands, a mountain village perched over a turquoise reservoir and the largest palm grove in Europe. This guide sorts the best day trips by how much time you have and how to get there, with the bonus that many can be done by **TRAM** (tram) without a car.
+
+## Day trips you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guadalest, Altea and Algar Falls](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4.8★ (3,714) | €39 |
+| [Return boat to Tabarca island](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
+| [Small-group countryside winery tour with 4 tastings](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4.9★ (445) | €65 |
 
 Besides **Tabarca Island** (which has its own guide: [how to visit it](/en/guides/alicante/tabarca-island-how-to-visit)), these are the outings that pay off most.
 

@@ -4,7 +4,7 @@ descripcion: "How to visit Tabarca Island: how to get there by boat from Alicant
 categoria: "alicante"
 slug: "tabarca-island-how-to-visit"
 fecha: "2026-04-06"
-fecha_actualizacion: "2026-04-06"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,12 @@ slugs:
 ---
 
 **Tabarca is the excursion that sets Alicante apart.** The smallest inhabited island in Spain is also a **marine reserve** (the country's first), with crystal-clear water for snorkelling, an 18th-century walled town and rice dishes by the sea. This guide explains how to get there, what to do and how to organise the day to make the most of it.
+
+## How to get to Tabarca
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Return boat to Tabarca island](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
 
 The key: it's a **half-day or full-day** plan, and it depends on the boat. Choose the right departure port and always check the sea conditions.
 

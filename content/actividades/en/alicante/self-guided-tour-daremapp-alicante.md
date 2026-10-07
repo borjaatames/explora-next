@@ -70,6 +70,8 @@ galeria:
   alt: Santa Bárbara Castle on the self-guided Alicante route
 - src: https://imgcdn.bokun.tools/8f755291-00ec-4261-8d96-2ce8510756ad.jpg
   alt: Self-guided Alicante tour with the DareMapp app
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'
