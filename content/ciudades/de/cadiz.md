@@ -31,7 +31,11 @@ atracciones:
     descripcion: "Eine halbe Stunde entfernt, die Wiege des Sherry-Weins, des Flamenco und der Pferde: jahrhundertealte Weinkeller und die Königliche Andalusische Reitschule."
   - nombre: "Tarifa und die Strände"
     descripcion: "Im Süden die großen windgepeitschten Strände der Costa de la Luz, ein Paradies für Kitesurfer, mit Afrika auf der anderen Seite der Meerenge."
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Bootsfahrten", tag: "barco" }
+  - { label: "Altstadt", tag: "centro-historico" }
+  - { label: "Jerez: Pferde und Wein", tag: "jerez" }
+  - { label: "Weiße Dörfer", tag: "pueblos-blancos" }
 ---
 
 Cádiz ist die südlichste Provinzhauptstadt im spanischen Festland — rund 110.000 Einwohner — und der Überlieferung nach die **älteste durchgehend bewohnte Stadt des Westens**, vor mehr als 3.000 Jahren von den Phöniziern gegründet. Sie liegt fast vollständig vom Meer umgeben auf einer schmalen Halbinsel, die ihr ein einzigartiges Licht und einen ganz eigenen Charakter verleiht.

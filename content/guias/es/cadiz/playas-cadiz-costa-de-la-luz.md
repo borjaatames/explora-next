@@ -4,7 +4,7 @@ descripcion: "Las mejores playas de Cádiz y la Costa de la Luz: La Caleta, La V
 categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
 fecha: "2026-05-07"
-fecha_actualizacion: "2026-05-07"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **La Costa de la Luz tiene algunas de las mejores playas de España:** arenales atlánticos anchos y dorados, agua limpia y, en muchos casos, kilómetros sin construir. Esta guía separa las playas urbanas de la capital de las grandes playas vírgenes de la provincia, y te ayuda a elegir según el día y, sobre todo, según el **viento de levante**, el factor que lo cambia todo en esta costa.
+
+## Planes en el mar que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 25 € |
+| [Barbate: avistamiento de delfines y ballenas en el cabo Trafalgar](/ciudades/cadiz/actividades/avistamiento-delfines-trafalgar-barbate) | 4,1★ (792) | 50 € |
+| [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
 
 La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor casco antiguo o una cala protegida. Mira el parte antes de elegir.
 

@@ -4,7 +4,7 @@ descripcion: "The best beaches of Cádiz and the Costa de la Luz: La Caleta, La 
 categoria: "cadiz"
 slug: "cadiz-beaches-costa-de-la-luz"
 fecha: "2026-05-07"
-fecha_actualizacion: "2026-05-07"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **The Costa de la Luz has some of the best beaches in Spain:** wide, golden Atlantic stretches, clean water and, in many cases, kilometres with no buildings. This guide separates the city beaches of the capital from the great wild beaches of the province, and helps you choose by the day and, above all, by the **levante wind**, the factor that changes everything on this coast.
+
+## Sea trips you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Sunset catamaran cruise with cava](/en/cities/cadiz/activities/cadiz-sunset-catamaran-cruise) | 4.6★ (856) | €25 |
+| [Barbate: dolphin and whale watching off Cape Trafalgar](/en/cities/cadiz/activities/dolphin-whale-watching-trafalgar-barbate) | 4.1★ (792) | €50 |
+| [Bay of Cádiz catamaran tour](/en/cities/cadiz/activities/cadiz-bay-catamaran-tour) | 4.5★ (453) | €19 |
 
 The local rule: with **poniente** (westerly), a perfect beach; with strong **levante** (easterly), better the old town or a sheltered cove. Check the forecast before choosing.
 

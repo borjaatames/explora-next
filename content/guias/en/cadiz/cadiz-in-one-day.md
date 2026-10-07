@@ -4,7 +4,7 @@ descripcion: "What to see in Cádiz in one day: Cathedral, Torre Tavira, El Póp
 categoria: "cadiz"
 slug: "cadiz-in-one-day"
 fecha: "2026-04-18"
-fecha_actualizacion: "2026-04-18"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,17 @@ slugs:
 ---
 
 **Cádiz is easily seen in a day.** Almost surrounded by sea on a narrow peninsula, its old town is compact and walked from square to square, with the Atlantic forever peeking at the end of the streets. This guide covers the essentials of the oldest city in the West —founded by the Phoenicians more than three thousand years ago— without rushing, and makes clear what's worth your time and what's filler.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided walking tour of the old town](/en/cities/cadiz/activities/cadiz-guided-walking-tour) | 4.7★ (225) | €20 |
+| [Sunset catamaran cruise with cava](/en/cities/cadiz/activities/cadiz-sunset-catamaran-cruise) | 4.6★ (856) | €25 |
+| [Bay of Cádiz catamaran tour](/en/cities/cadiz/activities/cadiz-bay-catamaran-tour) | 4.5★ (453) | €19 |
+| [Jerez: Bodegas Fundador tour with sherry and brandy tasting](/en/cities/cadiz/activities/bodegas-fundador-jerez-tasting-tour) | 4.8★ (959) | €18 |
+| [Jerez: Yeguada de la Cartuja stud tour and show](/en/cities/cadiz/activities/yeguada-de-la-cartuja-jerez-tour) | 4.8★ (1,073) | €20 |
+| [White villages of the Sierra day trip](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4.6★ (58) | €68 |
 
 The key to Cádiz isn't a monument, it's the **light** and the **sea on all four sides**. It's the "Tacita de Plata" (little silver cup), a city of wit, fry shops and sunsets at La Caleta. Whoever sees it only in passing from Seville takes home half the city; whoever stays for sunset takes home the other half, which is the best part.
 

@@ -27,7 +27,11 @@ atracciones:
     descripcion: "A media hora, la cuna del vino de Jerez, el flamenco y los caballos: bodegas centenarias y la Real Escuela Andaluza del Arte Ecuestre."
   - nombre: "Tarifa y las playas"
     descripcion: "Al sur, las grandes playas de viento de la Costa de la Luz, paraíso del kitesurf, con África al otro lado del Estrecho."
-chipsFiltros: []
+chipsFiltros:
+  - { label: "En barco", tag: "barco" }
+  - { label: "Casco antiguo", tag: "centro-historico" }
+  - { label: "Jerez: caballos y vino", tag: "jerez" }
+  - { label: "Pueblos blancos", tag: "pueblos-blancos" }
 ---
 
 Cádiz es la capital más meridional de la España peninsular —unos 110.000 habitantes— y, según la tradición, la **ciudad habitada más antigua de Occidente**, fundada por los fenicios hace más de 3.000 años. Está casi rodeada de mar, en una estrecha península que le da una luz y un carácter únicos.

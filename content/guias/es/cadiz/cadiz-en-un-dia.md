@@ -4,7 +4,7 @@ descripcion: "Qué ver en Cádiz en un día: Catedral, Torre Tavira, barrio del 
 categoria: "cadiz"
 slug: "cadiz-en-un-dia"
 fecha: "2026-04-18"
-fecha_actualizacion: "2026-04-18"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,17 @@ slugs:
 ---
 
 **Cádiz se ve bien en un día.** Está casi rodeada de mar en una península estrecha, así que el casco antiguo es compacto y se recorre a pie de plaza en plaza, con el Atlántico siempre asomando al fondo de las calles. Esta guía cubre lo esencial de la ciudad más antigua de Occidente —fundada por los fenicios hace más de tres mil años— sin prisas, y deja claro qué merece la pena y qué es relleno.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado por el casco antiguo](/ciudades/cadiz/actividades/tour-guiado-cadiz-centro) | 4,7★ (225) | 20 € |
+| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 25 € |
+| [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
+| [Jerez: tour por Bodegas Fundador con cata de jerez y brandy](/ciudades/cadiz/actividades/bodegas-fundador-jerez-cata) | 4,8★ (959) | 18 € |
+| [Jerez: visita a la Yeguada de la Cartuja con exhibición](/ciudades/cadiz/actividades/yeguada-de-la-cartuja-jerez) | 4,8★ (1.073) | 20 € |
+| [Excursión a los pueblos blancos de la Sierra](/ciudades/cadiz/actividades/excursion-pueblos-blancos-desde-cadiz) | 4,6★ (58) | 68 € |
 
 La clave de Cádiz no es un monumento, es la **luz** y el **mar por los cuatro costados**. Es la "Tacita de Plata", una ciudad de salero, freidurías y atardeceres en La Caleta. Quien la ve solo de paso desde Sevilla se lleva media ciudad; quien se queda al atardecer se lleva la otra mitad, que es la mejor.
 

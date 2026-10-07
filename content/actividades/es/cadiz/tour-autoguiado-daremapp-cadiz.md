@@ -70,6 +70,8 @@ galeria:
   alt: El Museo de Cádiz durante el recorrido autoguiado por Cádiz
 - src: https://imgcdn.bokun.tools/69a87e34-afff-444c-9cc9-9c83169ac647.jpg
   alt: La Catedral durante el recorrido autoguiado por Cádiz
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

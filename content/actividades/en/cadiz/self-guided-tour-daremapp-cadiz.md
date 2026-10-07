@@ -70,6 +70,8 @@ galeria:
   alt: The Museo de Cádiz on the self-guided Cádiz route
 - src: https://imgcdn.bokun.tools/69a87e34-afff-444c-9cc9-9c83169ac647.jpg
   alt: The Cathedral on the self-guided Cádiz route
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'
