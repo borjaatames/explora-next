@@ -4,7 +4,7 @@ descripcion: "Guía para comer en Valencia: qué es la paella valenciana autént
 categoria: "valencia"
 slug: "comer-en-valencia-paella"
 fecha: "2026-03-16"
-fecha_actualizacion: "2026-03-16"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -22,6 +22,12 @@ slugs:
 ---
 
 **En Valencia se come muy bien, pero también es fácil comer mal.** La ciudad inventó la paella y vive rodeada de huerta y mar, así que el listón es altísimo; el problema son las trampas turísticas frente a los monumentos. Esta guía te da las reglas para comer un arroz de verdad y no caer en la paella recalentada de la Plaza de la Reina.
+
+## Experiencias gastronómicas
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 29 € |
 
 La regla número uno: **la paella valenciana no es la paella de marisco**. La original es de huerta y corral, y se come a mediodía. Quien entiende esto ya ha ganado media partida.
 

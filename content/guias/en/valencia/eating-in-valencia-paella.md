@@ -4,7 +4,7 @@ descripcion: "A guide to eating in Valencia: what authentic Valencian paella is,
 categoria: "valencia"
 slug: "eating-in-valencia-paella"
 fecha: "2026-03-16"
-fecha_actualizacion: "2026-03-16"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -22,6 +22,12 @@ slugs:
 ---
 
 **You eat very well in Valencia, but it's also easy to eat badly.** The city invented paella and is ringed by farmland and sea, so the bar is sky-high; the problem is the tourist traps opposite the monuments. This guide gives you the rules to eat a real rice dish and avoid the reheated paella on Plaza de la Reina.
+
+## Food experiences
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €29 |
 
 Rule number one: **Valencian paella is not seafood paella**. The original is farm and field, and it's eaten at lunch. Understand that and you've already won half the game.
 

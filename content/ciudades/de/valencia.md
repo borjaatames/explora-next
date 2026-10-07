@@ -46,7 +46,13 @@ atracciones:
     descripcion: "Der Naturpark am Stadtrand: See, Reisfelder und Barracas. Hier entstand die valencianische Paella. Eine Bootsfahrt bei Sonnenuntergang zwischen den Reisfeldern gehört zu den schönsten Ausflügen in Stadtnähe."
     imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
     imagenAlt: "Sonnenuntergang an der Albufera von Valencia mit einem traditionellen Boot"
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Stadt der Künste und Wissenschaften", tag: "ciudad-artes-ciencias" }
+  - { label: "Altstadt", tag: "centro-historico" }
+  - { label: "Bioparc", tag: "bioparc" }
+  - { label: "Tagesausflüge", tag: "excursiones" }
+  - { label: "Bootsfahrt", tag: "barco" }
+  - { label: "Essen und Trinken", tag: "gastronomia" }
 ---
 
 Valencia ist die **drittgrößte Stadt Spaniens** – rund 800.000 Einwohner in der Gemeinde und knapp 1,6 Millionen im Großraum – und die Hauptstadt der Valencianischen Gemeinschaft, gelegen am **Mittelmeer** an der Costa del Azahar.

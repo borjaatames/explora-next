@@ -4,7 +4,7 @@ descripcion: "A guide to the Patios of Córdoba: what the Patio Festival is (May
 categoria: "cordoba"
 slug: "cordoba-patios"
 fecha: "2026-04-12"
-fecha_actualizacion: "2026-04-12"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -22,6 +22,12 @@ slugs:
 ---
 
 **The patios are the soul of Córdoba**, and in May, its greatest spectacle. Private houses open their whitewashed courtyards, packed with pots and flowers, for anyone to come in and see them for free. The **Patio Festival** is **UNESCO Intangible Heritage**, but they can also be seen out of season if you know where. This guide tells you when, where and how, without queues or too much heat.
+
+## Patios tour with tickets
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
 
 The key: come in May and you'll experience the most beautiful Córdoba of the year (but the busiest); come another time and you still won't miss out on patios.
 

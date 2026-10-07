@@ -46,7 +46,12 @@ atracciones:
     descripcion: "Die Palaststadt des Kalifen Abd ar-Rahman III. am Stadtrand. Die Ruinen der Hauptstadt des westlichen Kalifats von Córdoba, UNESCO-Weltkulturerbe. In einem halben Tag von Córdoba aus zu besichtigen."
     imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
     imagenAlt: "Ruinen von Medina Azahara, Palaststadt des Kalifats von Córdoba"
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Mezquita-Kathedrale", tag: "mezquita-catedral" }
+  - { label: "Judenviertel", tag: "juderia" }
+  - { label: "Patios", tag: "patios" }
+  - { label: "Medina Azahara", tag: "medina-azahara" }
+  - { label: "Pferde und Flamenco", tag: "espectaculos" }
 ---
 
 Córdoba ist eine mittelgroße Stadt Andalusiens – rund 320.000 Einwohner – am Ufer des Guadalquivir, doch ihr Gewicht in der Geschichte ist enorm: Sie war die **Hauptstadt des westlichen Kalifats** und im 10. Jahrhundert eine der größten und gebildetsten Städte der Welt, in der Muslime, Juden und Christen zusammenlebten.

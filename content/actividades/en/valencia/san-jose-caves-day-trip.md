@@ -60,6 +60,8 @@ galeria:
     alt: "San José Caves in Vall d'Uixó, Castellón, with the navigable river"
 ratingProveedor: 4.6
 numeroOpiniones: 785
+atraccionesRelacionadas:
+  - excursiones
 publicada: true
 destacada: false
 fecha: "2026-05-21"

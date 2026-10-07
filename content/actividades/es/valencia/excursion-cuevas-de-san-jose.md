@@ -60,6 +60,8 @@ galeria:
     alt: "Cuevas de San José en la Vall d'Uixó, Castellón, con el río navegable"
 ratingProveedor: 4.6
 numeroOpiniones: 785
+atraccionesRelacionadas:
+  - excursiones
 publicada: true
 destacada: false
 fecha: "2026-05-21"

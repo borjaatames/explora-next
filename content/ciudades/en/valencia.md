@@ -49,7 +49,13 @@ atracciones:
     descripcion: "The natural park on the outskirts: lagoon, rice paddies and traditional barracas. This is where Valencian paella was born. A sunset boat ride among the rice fields is one of the loveliest plans near the city."
     imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
     imagenAlt: "Sunset over the Albufera of Valencia with a traditional boat"
-chipsFiltros: []
+chipsFiltros:
+  - { label: "City of Arts and Sciences", tag: "ciudad-artes-ciencias" }
+  - { label: "Old Town", tag: "centro-historico" }
+  - { label: "Bioparc", tag: "bioparc" }
+  - { label: "Day trips", tag: "excursiones" }
+  - { label: "Boat trip", tag: "barco" }
+  - { label: "Food and drink", tag: "gastronomia" }
 ---
 
 Valencia is **Spain's third city** —around 800,000 people in the city itself and close to 1.6 million in its metropolitan area— and the capital of the Valencian Community, facing the **Mediterranean** on the Costa del Azahar.

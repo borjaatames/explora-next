@@ -70,6 +70,8 @@ galeria:
   alt: Plaza de las Tendillas on the self-guided Córdoba route
 - src: https://imgcdn.bokun.tools/134753c5-3aab-4ba0-812c-901d18ec2b17.jpg
   alt: The Roman Bridge on the self-guided Córdoba route
+atraccionesRelacionadas:
+  - juderia
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -68,6 +68,8 @@ galeria:
   alt: Tour autoguiado DareMapp por Valencia, foto 3 de 4
 - src: https://imgcdn.bokun.tools/f683b1a1-64eb-41af-8c12-a829efb810f8.jpg
   alt: Tour autoguiado DareMapp por Valencia, foto 4 de 4
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -4,7 +4,7 @@ descripcion: "Guía de los Patios de Córdoba: qué es la Fiesta de los Patios (
 categoria: "cordoba"
 slug: "patios-de-cordoba"
 fecha: "2026-04-12"
-fecha_actualizacion: "2026-04-12"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -22,6 +22,12 @@ slugs:
 ---
 
 **Los patios son el alma de Córdoba**, y en mayo, su mayor espectáculo. Casas particulares abren sus patios encalados, repletos de macetas y flores, para que cualquiera entre a verlos gratis. La **Fiesta de los Patios** es **Patrimonio Inmaterial de la Humanidad**, pero también se pueden ver fuera de temporada si sabes dónde. Esta guía te dice cuándo, dónde y cómo, sin colas ni calor de más.
+
+## Tour de patios con entradas
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Los auténticos patios cordobeses, tour de 2 horas con entradas](/ciudades/cordoba/actividades/patios-cordobeses-tour-con-entradas) | 4,3★ (1.106) | 19 € |
 
 La clave: si vienes en mayo, vas a vivir la Córdoba más bonita del año (pero más llena); si vienes en otra época, no te quedas sin patios.
 

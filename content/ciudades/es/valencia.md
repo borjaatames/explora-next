@@ -46,7 +46,13 @@ atracciones:
     descripcion: "El parque natural a las afueras: lago, arrozales y barracas. Aquí nació la paella valenciana. Un paseo en barca al atardecer entre los arrozales es uno de los planes más bonitos cerca de la ciudad."
     imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
     imagenAlt: "Atardecer en la Albufera de Valencia con una barca tradicional"
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Ciudad de las Artes", tag: "ciudad-artes-ciencias" }
+  - { label: "Centro histórico", tag: "centro-historico" }
+  - { label: "Bioparc", tag: "bioparc" }
+  - { label: "Excursiones", tag: "excursiones" }
+  - { label: "Paseo en barco", tag: "barco" }
+  - { label: "Gastronomía", tag: "gastronomia" }
 ---
 
 Valencia es la **tercera ciudad de España** —unos 800.000 habitantes en el municipio y cerca de 1,6 millones en su área metropolitana— y la capital de la Comunidad Valenciana, asomada al **Mediterráneo** en plena Costa del Azahar.

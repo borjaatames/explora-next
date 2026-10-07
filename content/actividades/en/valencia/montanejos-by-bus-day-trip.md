@@ -47,6 +47,8 @@ galeria:
   alt: Montanejos by bus day trip, photo 1 of 1
 - src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
   alt: Mijares river running through Montanejos, among the mountains of Castellón
+atraccionesRelacionadas:
+  - excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

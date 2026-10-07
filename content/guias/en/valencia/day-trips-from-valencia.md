@@ -4,7 +4,7 @@ descripcion: "The best day trips from Valencia: La Albufera, Sagunto, Xàtiva, P
 categoria: "valencia"
 slug: "day-trips-from-valencia"
 fecha: "2026-04-08"
-fecha_actualizacion: "2026-04-08"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -22,6 +22,15 @@ slugs:
 ---
 
 **Valencia is a great base for day trips.** Within an hour you have the natural park where paella was born, spectacular castles, Iberian and Roman towns and villages on the Costa del Azahar. This guide sorts the best outings by how much time you have and how to get there, with or without a car.
+
+## Day trips with transport from Valencia
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guadalest, Altea and Algar Falls](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4.7★ (553) | €39 |
+| [Cala Granadella Day Trip from Valencia](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | €85 |
+| [San José Caves Day Trip from Valencia](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4.6★ (785) | €55 |
+| [Montanejos by Bus Day Trip](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | €42 |
 
 The closest and most essential is **La Albufera**, 20 minutes away: for many, the best experience in the area. The rest you choose by taste: history (Sagunto, Xàtiva), a beach with a castle (Peñíscola) or wine (Requena).
 

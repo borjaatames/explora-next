@@ -49,7 +49,12 @@ atracciones:
     descripcion: "The palatial city of Caliph Abd al-Rahman III, on the outskirts. The ruins of the capital of the Western Umayyad Caliphate, a UNESCO World Heritage Site. Visited as a half-day trip from Córdoba."
     imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
     imagenAlt: "Ruins of Medina Azahara, palace-city of the Córdoba caliphate"
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Mosque-Cathedral", tag: "mezquita-catedral" }
+  - { label: "Jewish Quarter", tag: "juderia" }
+  - { label: "Patios", tag: "patios" }
+  - { label: "Medina Azahara", tag: "medina-azahara" }
+  - { label: "Horses and flamenco", tag: "espectaculos" }
 ---
 
 Córdoba is a mid-sized Andalusian city —around 320,000 people— on the banks of the Guadalquivir, but its place in history is huge: it was the **capital of the Western Umayyad Caliphate** and, in the 10th century, one of the largest and most cultured cities in the world, where Muslims, Jews and Christians lived side by side.

@@ -4,7 +4,7 @@ descripcion: "Guía para visitar la Mezquita-Catedral de Córdoba: entradas y ho
 categoria: "cordoba"
 slug: "mezquita-catedral-como-visitar"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-04-01"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -22,6 +22,14 @@ slugs:
 ---
 
 **La Mezquita-Catedral es el monumento que justifica el viaje a Córdoba**, y uno de los edificios más asombrosos de Europa: un bosque de 856 columnas y arcos rojiblancos con una catedral renacentista levantada en el centro. Pero es también el lugar donde más se nota organizarse bien: entrar a la hora correcta marca la diferencia entre disfrutarlo en calma o sufrir colas y calor. Esta guía te lo resuelve.
+
+## Entradas y tours de la Mezquita
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado por la Mezquita-Catedral sin colas](/ciudades/cordoba/actividades/mezquita-catedral-tour-guiado-sin-colas) | 4,6★ (10.966) | 32 € |
+| [Entrada a la Mezquita-Catedral con audioguía](/ciudades/cordoba/actividades/mezquita-catedral-entrada-audioguia) | 4,2★ (3.788) | 22 € |
+| [Tour por la Mezquita y la Judería con entradas](/ciudades/cordoba/actividades/mezquita-juderia-tour-a-pie) | 4,5★ (2.200) | 34 € |
 
 La regla de oro: **ve a primera hora**. Es cuando hay menos gente, mejor luz entre las columnas y, además, existe una franja de **entrada gratuita** que casi nadie aprovecha.
 

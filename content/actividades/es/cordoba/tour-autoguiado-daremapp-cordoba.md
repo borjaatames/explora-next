@@ -70,6 +70,8 @@ galeria:
   alt: La Plaza de las Tendillas durante el recorrido autoguiado por Córdoba
 - src: https://imgcdn.bokun.tools/134753c5-3aab-4ba0-812c-901d18ec2b17.jpg
   alt: El Puente Romano durante el recorrido autoguiado por Córdoba
+atraccionesRelacionadas:
+  - juderia
 publicada: true
 destacada: false
 fecha: '2026-09-05'

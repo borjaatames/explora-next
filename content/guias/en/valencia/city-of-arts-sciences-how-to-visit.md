@@ -4,7 +4,7 @@ descripcion: "How to visit Valencia's City of Arts and Sciences: what to go insi
 categoria: "valencia"
 slug: "city-of-arts-sciences-how-to-visit"
 fecha: "2026-03-04"
-fecha_actualizacion: "2026-03-04"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -22,6 +22,14 @@ slugs:
 ---
 
 **The City of Arts and Sciences is Valencia's modern icon**, but also the easiest trap: buying the combined ticket to everything and ending up exhausted without enjoying any of it. This complex by Santiago Calatrava and Félix Candela, raised in the old Turia riverbed, is best visited with criteria: knowing what's worth a ticket, what you enjoy from outside and how to combine it without queues or rushing.
+
+## Tickets you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Oceanogràfic entry ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4.7★ (11,540) | €37 |
+| [Oceanogràfic and Science Museum combo ticket](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket) | 4.7★ (2,797) | €39 |
+| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €32 |
 
 The golden rule: **you don't need to go into everything**. The architectural ensemble, with its sheets of water reflecting the white buildings, is free and one of the most photogenic spots in Spain. Inside, prioritise according to who you're travelling with.
 

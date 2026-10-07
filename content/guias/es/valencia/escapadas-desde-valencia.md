@@ -4,7 +4,7 @@ descripcion: "Las mejores escapadas de un día desde Valencia: la Albufera, Sagu
 categoria: "valencia"
 slug: "escapadas-desde-valencia"
 fecha: "2026-04-08"
-fecha_actualizacion: "2026-04-08"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -22,6 +22,15 @@ slugs:
 ---
 
 **Valencia es una base estupenda para escapadas de un día.** En menos de una hora tienes el parque natural donde nació la paella, castillos espectaculares, ciudades íberas y romanas y pueblos de la Costa del Azahar. Esta guía ordena las mejores salidas según el tiempo que tengas y cómo llegar, con o sin coche.
+
+## Excursiones con transporte desde Valencia
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Guadalest, Altea y Fuentes del Algar](/ciudades/valencia/actividades/excursion-guadalest-altea-fuentes-algar) | 4,7★ (553) | 39 € |
+| [Excursión a la Cala Granadella en Jávea](/ciudades/valencia/actividades/excursion-cala-granadella-javea) | — | 85 € |
+| [Excursión a las Cuevas de San José desde Valencia](/ciudades/valencia/actividades/excursion-cuevas-de-san-jose) | 4,6★ (785) | 55 € |
+| [Excursión a Montanejos en bus](/ciudades/valencia/actividades/excursion-montanejos-en-bus) | — | 42 € |
 
 La más cercana e imprescindible es la **Albufera**, a 20 minutos: para muchos, la mejor experiencia de la zona. El resto se elige según gustos: historia (Sagunto, Xàtiva), playa con castillo (Peñíscola) o vino (Requena).
 

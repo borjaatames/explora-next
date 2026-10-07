@@ -4,7 +4,7 @@ descripcion: "How to visit the Mosque-Cathedral of Córdoba: tickets and the fre
 categoria: "cordoba"
 slug: "mosque-cathedral-how-to-visit"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-04-01"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -22,6 +22,14 @@ slugs:
 ---
 
 **The Mosque-Cathedral is the monument that justifies the trip to Córdoba**, and one of the most astonishing buildings in Europe: a forest of 856 columns and red-and-white arches with a Renaissance cathedral raised in the centre. But it's also where organising well matters most: going in at the right time is the difference between enjoying it calmly and enduring queues and heat. This guide sorts it out.
+
+## Mosque tickets and tours
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Skip-the-line guided tour of the Mosque-Cathedral](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4.6★ (10,966) | €32 |
+| [Mosque-Cathedral ticket with audio guide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide) | 4.2★ (3,788) | €22 |
+| [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
 
 The golden rule: **go first thing**. That's when there are fewest people, the best light between the columns and, on top of that, a **free entry slot** that almost no one uses.
 

@@ -4,7 +4,7 @@ descripcion: "Qué ver en Valencia en 2 días: casco histórico, Ciudad de las A
 categoria: "valencia"
 slug: "valencia-en-2-dias"
 fecha: "2026-02-22"
-fecha_actualizacion: "2026-02-22"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -22,6 +22,17 @@ slugs:
 ---
 
 **Valencia en dos días cunde, y mucho.** Es una ciudad llana, compacta y bien conectada, con el casco histórico a un lado y la Ciudad de las Artes al otro, unidos por un parque de nueve kilómetros donde antes había un río. En 48 horas bien organizadas ves lo esencial sin agobios: el casco antiguo, la arquitectura futurista de Calatrava, una paella de verdad en la Albufera y, si te queda hueco, playa. Esta guía está pensada para que vuelvas con la sensación de haber entendido Valencia, no solo de haberla fotografiado.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour por la catedral, San Nicolás y la Lonja de la Seda](/ciudades/valencia/actividades/tour-catedral-lonja-san-nicolas-valencia) | 4,8★ (1.243) | 49 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 32 € |
+| [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
+| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 30 € |
+| [Paseo en catamarán de día o al atardecer con bebida](/ciudades/valencia/actividades/paseo-catamaran-valencia-atardecer) | 4,0★ (3.360) | 15 € |
+| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 29 € |
 
 La trampa de Valencia es quedarse solo en la Ciudad de las Artes. Es espectacular y merece la visita, pero el alma de la ciudad está en el casco histórico —el Mercado Central, la Lonja, los barrios del Carmen y Ruzafa— y en la huerta que la rodea. Quien sale habiendo visto solo a Calatrava se lleva una postal moderna; quien suma centro y Albufera se lleva la ciudad entera.
 
@@ -79,7 +90,7 @@ Una vez allí, el centro se hace **a pie** y para lo demás Valencia es de las c
 
 **Mañana.** A 20 minutos del centro (bus 25 desde la Plaza de la Reina) está el **parque natural de la Albufera**, donde nació la paella: un gran lago rodeado de arrozales y barracas. Da un **paseo en barca** entre los arrozales —uno de los planes más bonitos cerca de la ciudad— y visita **El Palmar**, capital de los arroces.
 
-**Comida.** Cómete una **paella valenciana** de verdad en El Palmar: la original lleva pollo, conejo, garrofó y judía verde —ni marisco ni chorizo— y es plato de mediodía. Si prefieres aprender a hacerla, hay una [clase de cocina de paella con visita al mercado](/ciudades/valencia/actividades/clase-cocina-paella-mercado-ruzafa).
+**Comida.** Cómete una **paella valenciana** de verdad en El Palmar: la original lleva pollo, conejo, garrofó y judía verde —ni marisco ni chorizo— y es plato de mediodía. Si prefieres aprender a hacerla, hay una clase de cocina de paella con visita al mercado.
 
 **Tarde.** De vuelta, date un baño o un paseo por la **playa de la Malvarrosa**, de arena ancha y dorada, con restaurantes de arroces frente al mar. Cierra con una **horchata con fartons**. La última tarde, vuelta tranquila al centro: el Carmen tiene una luz dorada al atardecer y siempre queda algo —la Plaza Redonda o el modernista Mercado de Colón.
 

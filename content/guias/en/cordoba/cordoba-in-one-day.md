@@ -4,7 +4,7 @@ descripcion: "What to see in Córdoba in one day: Mosque-Cathedral, Jewish Quart
 categoria: "cordoba"
 slug: "cordoba-in-one-day"
 fecha: "2026-03-20"
-fecha_actualizacion: "2026-03-20"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -33,6 +33,17 @@ faq:
 ---
 
 **Córdoba is easily seen in a day**, which is why it's the classic day trip from Seville, Madrid or Granada. The old town is compact and walkable: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from one another. This guide orders your day so you skip the queues and the worst of the heat, and it makes clear what's worth your time and what's tourist filler.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Skip-the-line guided tour of the Mosque-Cathedral](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4.6★ (10,966) | €32 |
+| [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
+| [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
+| [3-hour guided tour of Medina Azahara](/en/cities/cordoba/activities/medina-azahara-3-hour-guided-tour) | 4.6★ (1,034) | €18 |
+| [Equestrian show at the Royal Stables](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4.5★ (2,910) | €19 |
+| [Flamenco show at Tablao Cardenal with a drink](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4.8★ (1,167) | €25 |
 
 The key to Córdoba is one thing: **step into the Mosque-Cathedral first thing in the morning**. It's the monument that justifies the trip and the one that copes worst with the midday heat and crowds. Leave it for later and you risk long queues and a rushed visit. And if you stay overnight you gain something the day-tripper misses: the old town lit up and empty at dusk.
 
@@ -63,9 +74,9 @@ Córdoba sits right on the **high-speed line**, which makes it perfect for a day
 | 14:00 — 16:00 | Lunch in the centre |
 | 16:30 — 18:30 | Patios (Palacio de Viana) or Medina Azahara |
 
-**9:00 — Mosque-Cathedral.** First thing, before the heat and the groups. Book your ticket or a [guided tour with priority entry](/en/cities/cordoba/activities/mosque-cathedral-priority-tickets-tour): the **forest of 856 columns and red-and-white arches**, with a Renaissance cathedral raised in the centre, is one of Europe's great monumental experiences. Don't miss the **mihrab**, with its gilded Byzantine mosaics, or the **Patio de los Naranjos** (Courtyard of the Orange Trees) at the entrance. Allow 1h-1h 30min. A guide makes far more sense of the two temples in one.
+**9:00 — Mosque-Cathedral.** First thing, before the heat and the groups. Book your ticket or a [skip-the-line guided tour](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour): the **forest of 856 columns and red-and-white arches**, with a Renaissance cathedral raised in the centre, is one of Europe's great monumental experiences. Don't miss the **mihrab**, with its gilded Byzantine mosaics, or the **Patio de los Naranjos** (Courtyard of the Orange Trees) at the entrance. Allow 1h-1h 30min. A guide makes far more sense of the two temples in one.
 
-**10:30 — The Jewish Quarter.** Leaving the Mosque, get lost in the medieval Jewish quarter: the **Calleja de las Flores** (with the Mosque tower framed at the end, the classic photo), the 14th-century **Synagogue** —one of only three preserved in Spain— and a maze of whitewashed lanes. It's for wandering with no fixed plan; in May, many houses open their patios. A [walking tour of the Jewish Quarter and the Mosque](/en/cities/cordoba/activities/jewish-quarter-mosque-cathedral-tour) links the two in one go.
+**10:30 — The Jewish Quarter.** Leaving the Mosque, get lost in the medieval Jewish quarter: the **Calleja de las Flores** (with the Mosque tower framed at the end, the classic photo), the 14th-century **Synagogue** —one of only three preserved in Spain— and a maze of whitewashed lanes. It's for wandering with no fixed plan; in May, many houses open their patios. A [walking tour of the Jewish Quarter and the Mosque](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) links the two in one go.
 
 **12:00 — Alcázar of the Christian Monarchs.** The fortress-palace where the Catholic Monarchs lived, with its towers, baths and, above all, **terraced gardens** of pools and fountains that are among the most photographed spots in the city. 1 hour.
 
@@ -73,7 +84,7 @@ Córdoba sits right on the **high-speed line**, which makes it perfect for a day
 
 **14:00 — Lunch.** Try **salmorejo** (a cold tomato cream thicker than gazpacho), **rabo de toro** (oxtail stew) and **aubergines with cane honey** in a tavern in the centre, away from the Mosque's front row. A well-chilled fino or Montilla-Moriles goes beautifully with it.
 
-**16:30 — Patios or Medina Azahara.** If it's the season (especially May), visit the **patios** of the Palacio de Viana, which gathers a dozen of the finest. If you have an extra half-day or come in spring, the trip to [Medina Azahara](/en/cities/cordoba/activities/medina-azahara-guided-tour) —the palace-city of Caliph Abd al-Rahman III, a UNESCO World Heritage Site on the outskirts— is the top pick and the great omission of the day-tripper.
+**16:30 — Patios or Medina Azahara.** If it's the season (especially May), visit the **patios** of the Palacio de Viana, which gathers a dozen of the finest. If you have an extra half-day or come in spring, the trip to [Medina Azahara](/en/cities/cordoba/activities/medina-azahara-3-hour-guided-tour) —the palace-city of Caliph Abd al-Rahman III, a UNESCO World Heritage Site on the outskirts— is the top pick and the great omission of the day-tripper.
 
 ## Where to stay
 

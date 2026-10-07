@@ -66,6 +66,8 @@ galeria:
   alt: Cala Granadella con barcas fondeadas en aguas turquesa
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
   alt: Cala mediterránea de aguas turquesa en la Costa Blanca
+atraccionesRelacionadas:
+  - excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

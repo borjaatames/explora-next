@@ -47,6 +47,8 @@ galeria:
   alt: Excursión a Montanejos en bus, foto 1 de 1
 - src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
   alt: Río Mijares a su paso por Montanejos, entre montañas de Castellón
+atraccionesRelacionadas:
+  - excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

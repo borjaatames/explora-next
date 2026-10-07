@@ -4,7 +4,7 @@ descripcion: "What to see in Valencia in 2 days: old town, City of Arts, La Albu
 categoria: "valencia"
 slug: "valencia-in-2-days"
 fecha: "2026-02-22"
-fecha_actualizacion: "2026-02-22"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -22,6 +22,17 @@ slugs:
 ---
 
 **Two days in Valencia go a long way.** It's a flat, compact, well-connected city, with the old town on one side and the City of Arts on the other, joined by a nine-kilometre park where a river once ran. In a well-planned 48 hours you can cover the essentials without rushing: the old town, Calatrava's futuristic architecture, a real paella out in La Albufera and, if you have time, the beach. This guide is built so you leave feeling you've understood Valencia, not just photographed it.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cathedral, San Nicolás and Silk Exchange tour](/en/cities/valencia/activities/valencia-cathedral-silk-exchange-san-nicolas-tour) | 4.8★ (1,243) | €49 |
+| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €32 |
+| [Oceanogràfic entry ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4.7★ (11,540) | €37 |
+| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €30 |
+| [Day or sunset catamaran cruise with a drink](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4.0★ (3,360) | €15 |
+| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €29 |
 
 The trap in Valencia is stopping at the City of Arts. It's spectacular and worth it, but the soul of the city is in the old town —the Central Market, the Silk Exchange, the El Carmen and Ruzafa quarters— and in the farmland that surrounds it. Whoever leaves having seen only Calatrava takes home a modern postcard; whoever adds the centre and La Albufera takes home the whole city.
 
@@ -85,7 +96,7 @@ One day forces you to choose between the centre and the City of Arts, and to ski
 
 **9:30 — La Albufera.** Twenty minutes from the centre (bus 25 from Plaza de la Reina, or by car) is the **natural park** where paella was born: a large freshwater lagoon ringed by rice paddies and traditional barracas. Take a **boat ride** at sunset among the rice fields —one of the loveliest plans near the city— and visit the village of **El Palmar**, the rice capital.
 
-**13:30 — Real paella.** Eat an authentic **Valencian paella** in El Palmar: the original has chicken, rabbit, garrofó beans, green beans and, depending on the house, snails —no seafood, no chorizo. It's a lunchtime dish, and here they nail it. Prefer to learn how it's made? A [paella cooking class with a market visit](/en/cities/valencia/activities/paella-cooking-class-ruzafa-market) is the hands-on alternative.
+**13:30 — Real paella.** Eat an authentic **Valencian paella** in El Palmar: the original has chicken, rabbit, garrofó beans, green beans and, depending on the house, snails —no seafood, no chorizo. It's a lunchtime dish, and here they nail it. Prefer to learn how it's made? A paella cooking class with a market visit is the hands-on alternative.
 
 **16:30 — La Malvarrosa beach.** On the way back, take a swim or a stroll along the **Malvarrosa promenade**, a wide golden-sand beach lined with rice and seafood restaurants facing the sea. Finish with **horchata and fartons** (the real stuff is from the nearby Alboraya area).
 

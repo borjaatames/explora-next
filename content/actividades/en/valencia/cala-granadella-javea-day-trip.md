@@ -66,6 +66,8 @@ galeria:
   alt: Cala Granadella with boats anchored in turquoise water
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
   alt: Mediterranean cove with turquoise water on the Costa Blanca
+atraccionesRelacionadas:
+  - excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'
