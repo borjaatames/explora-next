@@ -4,7 +4,7 @@ descripcion: "Weekend plan in Salamanca with judgment: monuments, the two cathed
 categoria: "salamanca"
 slug: "salamanca-weekend-trip"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-03"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
@@ -23,6 +23,16 @@ slugs:
 ---
 
 If **Salamanca in a day works as a quick checklist**, Salamanca over a weekend is something else: it lets you **live** the city. Hit the monuments without the rush, eat tapas well at least twice, see the golden stone at sunset, and step into the university nightlife that's half the city's soul.
+
+## Experiences you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
+| [Legends walking tour at dusk](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4.7★ (90) | €17 |
+| [Guided bike tour](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4.6★ (52) | €25 |
+| [Iberian ham masterclass and tasting](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4.9★ (16) | €29 |
+| [Cathedrals ticket with audio guide](/en/cities/salamanca/activities/salamanca-cathedrals-ticket-audio-guide) | 4.6★ (202) | €10 |
 
 This guide doesn't repeat what we already covered in [Salamanca in 1 day](/en/guides/salamanca/salamanca-in-1-day). Here we assume you have two full days and we focus on **how to make the most of them without overdoing it**, where to eat well (with specific places), where to drink with judgment, and what to do on day two when the essential monuments are already covered.
 

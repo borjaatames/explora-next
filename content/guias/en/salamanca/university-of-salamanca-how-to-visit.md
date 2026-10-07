@@ -4,7 +4,7 @@ descripcion: "How to visit the University of Salamanca: prices, hours, what to s
 categoria: "salamanca"
 slug: "university-of-salamanca-how-to-visit"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-03"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
@@ -23,6 +23,13 @@ slugs:
 ---
 
 The University of Salamanca is **the oldest university in Spain** (founded in 1218) and one of the four oldest in the world, alongside Bologna, Oxford and Paris. But beyond the headline, what makes it special is something few monuments can offer: when you enter the historic classrooms, **you literally sit where Fray Luis de León, Cervantes, Nebrija, Unamuno once sat**. Fray Luis's classroom is preserved as it was, with wooden benches carved with knives by students centuries ago.
+
+## Guided University visits
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €19 |
+| [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
 
 This guide explains how to visit it well: prices, when it's free, which tickets give access to which spaces, what to see inside, and how to make the most of the visit hours without missing what matters. And of course, how to find the frog.
 

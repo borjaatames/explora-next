@@ -37,7 +37,10 @@ atracciones:
     imagenAlt: "Plateresk-Fassade des Klosters San Esteban in Salamanca"
 # Noch keine Aktivitäten für Salamanca: Chips deaktiviert, um keine toten Filter zu hinterlassen.
 # Wieder hinzufügen, sobald Beiträge in content/actividades/{es,en,de}/salamanca existieren.
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Altstadt", tag: "casco-historico" }
+  - { label: "Kathedralen und Universität", tag: "monumentos" }
+  - { label: "Iberischer Schinken", tag: "jamon" }
 ---
 
 Salamanca ist die **goldene Stadt Kastilien-Léons**, Provinzhauptstadt mit rund **143.000 Einwohnern** und Sitz der **ältesten Universität Spaniens** (gegründet 1218, eine der ersten der Welt). Die Stadt ist von der UNESCO zum Weltkulturerbe erklärt worden.

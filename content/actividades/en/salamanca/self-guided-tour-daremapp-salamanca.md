@@ -68,6 +68,8 @@ galeria:
   alt: DareMapp self-guided tour of Salamanca, photo 3 of 4
 - src: https://imgcdn.bokun.tools/b4ff9e63-deea-4a1b-b4c5-1e7b3d7ca5b6.jpg
   alt: DareMapp self-guided tour of Salamanca, photo 4 of 4
+atraccionesRelacionadas:
+  - casco-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

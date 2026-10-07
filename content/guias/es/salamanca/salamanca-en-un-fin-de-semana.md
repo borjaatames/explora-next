@@ -4,7 +4,7 @@ descripcion: "Plan de fin de semana en Salamanca con criterio: monumentos, las d
 categoria: "salamanca"
 slug: "salamanca-en-un-fin-de-semana"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,16 @@ slugs:
 ---
 
 Si **Salamanca en un día funciona como check-list rápido**, Salamanca en un fin de semana es otra cosa: te permite **vivir** la ciudad. Hacer los monumentos sin agobio, tapear bien al menos dos veces, ver la piedra dorada al atardecer y pisar la noche universitaria que es la mitad del alma de la ciudad.
+
+## Planes que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
+| [Tour de leyendas al anochecer](/ciudades/salamanca/actividades/salamanca-leyendas-al-anochecer) | 4,7★ (90) | 17 € |
+| [Tour guiado en bicicleta](/ciudades/salamanca/actividades/tour-bici-salamanca-panoramico) | 4,6★ (52) | 25 € |
+| [Clase magistral de jamón ibérico con cata](/ciudades/salamanca/actividades/jamon-iberico-clase-magistral-cata-salamanca) | 4,9★ (16) | 29 € |
+| [Entrada a las catedrales con audioguía](/ciudades/salamanca/actividades/catedrales-salamanca-entrada-audioguia) | 4,6★ (202) | 10 € |
 
 Esta guía no repite lo que ya hicimos en [Salamanca en 1 día](/guias/salamanca/salamanca-en-1-dia). Aquí asumimos que tienes los dos días completos y nos centramos en **cómo aprovecharlos sin saturar**, dónde comer bien (con sitios concretos), dónde tomar copas con criterio y qué hacer en el segundo día cuando los monumentos esenciales ya están cubiertos.
 

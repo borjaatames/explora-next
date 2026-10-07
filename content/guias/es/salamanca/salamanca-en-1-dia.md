@@ -4,7 +4,7 @@ descripcion: "Salamanca en un día con criterio: Plaza Mayor, Universidad, las d
 categoria: "salamanca"
 slug: "salamanca-en-1-dia"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,15 @@ slugs:
 ---
 
 Salamanca es de las pocas ciudades históricas españolas que **funciona en un día**. El casco antiguo es compacto, los grandes monumentos están a menos de 10 minutos andando entre ellos y el ritmo de visita es directo: Plaza Mayor, Universidad, las dos catedrales, Clerecía y vuelta. Pero ojo: si la corres como check-list, te pierdes lo que la hace especial. El ambiente.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
+| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 19 € |
+| [Entrada a las catedrales con audioguía](/ciudades/salamanca/actividades/catedrales-salamanca-entrada-audioguia) | 4,6★ (202) | 10 € |
+| [Tour de leyendas al anochecer](/ciudades/salamanca/actividades/salamanca-leyendas-al-anochecer) | 4,7★ (90) | 17 € |
 
 Esta guía es para quien tiene un día completo. Lo que merece la pena, lo que se puede saltar, los errores típicos del visitante apurado y cómo encajar la magia nocturna de Salamanca aunque vengas y te vayas el mismo día. Salamanca tiene 30.000 estudiantes en una ciudad de 145.000 habitantes, lo que significa que la mitad del centro está prácticamente entregado al mundo universitario. Esa densidad joven, sumada a la piedra dorada del casco antiguo y a un tamaño que invita a caminar, es lo que la convierte en el destino corto perfecto desde Madrid.
 

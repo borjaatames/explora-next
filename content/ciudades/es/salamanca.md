@@ -37,7 +37,10 @@ atracciones:
     imagenAlt: "Fachada plateresca del Convento de San Esteban de Salamanca"
 # Sin actividades de Salamanca todavia: chips desactivados para no dejar filtros muertos.
 # Re-anadir cuando existan fichas en content/actividades/{es,en}/salamanca.
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Casco histórico", tag: "casco-historico" }
+  - { label: "Catedrales y Universidad", tag: "monumentos" }
+  - { label: "Jamón ibérico", tag: "jamon" }
 ---
 
 Salamanca es la **ciudad dorada de Castilla y León**, capital de provincia con unos **143.000 habitantes** y sede de la **universidad más antigua de España** (fundada en 1218, una de las primeras del mundo). Está declarada Patrimonio de la Humanidad por la UNESCO.

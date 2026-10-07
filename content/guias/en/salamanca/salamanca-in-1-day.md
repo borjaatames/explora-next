@@ -4,7 +4,7 @@ descripcion: "Salamanca in one day with judgment: Plaza Mayor, the University, t
 categoria: "salamanca"
 slug: "salamanca-in-1-day"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-03"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
@@ -23,6 +23,15 @@ slugs:
 ---
 
 Salamanca is one of the few historic Spanish cities that **works in a single day**. The old town is compact, the major monuments are less than 10 minutes apart on foot, and the visiting pace is straightforward: Plaza Mayor, the University, the two cathedrals, La Clerecía, and back. But careful: if you run it as a checklist, you miss what makes it special. The atmosphere.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
+| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €19 |
+| [Cathedrals ticket with audio guide](/en/cities/salamanca/activities/salamanca-cathedrals-ticket-audio-guide) | 4.6★ (202) | €10 |
+| [Legends walking tour at dusk](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4.7★ (90) | €17 |
 
 This guide is for someone with a full day. What's worth it, what you can skip, the common mistakes of the rushed visitor, and how to fit Salamanca's nighttime magic in even if you arrive and leave the same day. Salamanca has 30,000 students in a city of 145,000, which means half the center is essentially given over to the university world. That young density, plus the golden stone of the old town and a size that invites walking, is what makes it the perfect short destination from Madrid.
 
