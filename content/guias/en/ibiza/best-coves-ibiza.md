@@ -4,7 +4,7 @@ descripcion: "The best coves in Ibiza: Cala Comte, Cala Salada, Cala d'Hort and 
 categoria: "ibiza"
 slug: "best-coves-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: "2026-04-14"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -22,6 +22,16 @@ slugs:
 ---
 
 **Ibiza has some of the most beautiful coves in the Mediterranean**, of turquoise water and legendary sunsets. But also the usual summer problem: minimal parking and fashionable coves overflowing. This guide sorts them by area, tells you which have services and where to watch the best sunset, with the trick of going early to enjoy them.
+
+## The coves from the sea
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €54 |
+| [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €52 |
+| [Snorkelling, paddleboarding and sea cave boat tour](/en/cities/ibiza/activities/ibiza-snorkel-paddleboard-sea-cave-boat-tour) | 4.7★ (1,435) | €60 |
+| [Sea kayak tour through caves with snorkelling from Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4.8★ (333) | €50 |
+| [Es Vedrà cruise with drinks and snacks](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.6★ (375) | €25 |
 
 The island is small: the **south-west** holds the most photogenic coves and the sunsets; the **north** is calmer and wilder; the **south** has the trendy beaches by the salt flats.
 

@@ -4,7 +4,7 @@ descripcion: "Guía de Ibiza: Dalt Vila, Es Vedrà, las mejores calas, Formenter
 categoria: "ibiza"
 slug: "que-ver-en-ibiza"
 fecha: "2026-04-03"
-fecha_actualizacion: "2026-04-03"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -22,6 +22,16 @@ slugs:
 ---
 
 **Ibiza es famosa por la fiesta, pero tiene mucho más.** Detrás de las discotecas hay un casco histórico Patrimonio de la Humanidad, calas de agua turquesa, atardeceres de leyenda y la vecina Formentera a media hora en barco. El error del visitante medio es no salir de Playa d'en Bossa o San Antonio y reducir la isla a una pista de baile. Esta guía cubre la otra cara —que es la mayoritaria— sin renunciar a la noche si vienes a ello.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 54 € |
+| [Crucero por calas con paddle surf, comida y bebidas](/ciudades/ibiza/actividades/crucero-calas-ibiza-paddle-surf-barra-libre) | 4,6★ (3.570) | 52 € |
+| [Crucero a Es Vedrà con bebidas y aperitivos](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,6★ (375) | 25 € |
+| [Paseo en barco al atardecer con bebidas y baño](/ciudades/ibiza/actividades/barco-atardecer-ibiza-bebidas-bano) | 4,8★ (110) | 49 € |
+| [Ibiza–Formentera 360°: excursión en barco todo incluido](/ciudades/ibiza/actividades/excursion-barco-ibiza-formentera-todo-incluido) | — | 89,10 € |
 
 La isla es pequeña y se recorre rápido: el **este y el norte** son más tranquilos y rurales; el **suroeste** concentra las calas más bonitas y los atardeceres; **Eivissa** (la capital) guarda Dalt Vila y el puerto; y **San Antonio** es el epicentro del ocio. Con un coche o una moto y un buen reparto se ve todo en dos o tres días.
 

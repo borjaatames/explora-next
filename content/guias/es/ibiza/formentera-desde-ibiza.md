@@ -4,7 +4,7 @@ descripcion: "Guía para visitar Formentera desde Ibiza: ferris y horarios, cóm
 categoria: "ibiza"
 slug: "formentera-desde-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: "2026-04-24"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -22,6 +22,13 @@ slugs:
 ---
 
 **Formentera es la excursión imprescindible desde Ibiza.** A media hora en ferry, la isla vecina tiene algunas de las playas de agua más cristalina del Mediterráneo —caribeñas de verdad— y un ambiente tranquilo, sin discotecas ni grandes hoteles. Esta guía te explica cómo llegar, cómo moverte y qué no perderte para aprovechar el día.
+
+## Cómo ir a Formentera
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Ibiza–Formentera 360°: excursión en barco todo incluido](/ciudades/ibiza/actividades/excursion-barco-ibiza-formentera-todo-incluido) | — | 89,10 € |
+| [Billete de ferry de ida y vuelta a Formentera](/ciudades/ibiza/actividades/ferry-ida-vuelta-ibiza-formentera) | 4,7★ (322) | 55 € |
 
 La clave: dedícale un **día completo**, no medio. Y reserva el ferry (y el vehículo) con antelación en verano: vuela.
 

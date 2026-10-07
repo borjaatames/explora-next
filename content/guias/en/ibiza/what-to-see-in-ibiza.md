@@ -4,7 +4,7 @@ descripcion: "Ibiza guide: Dalt Vila, Es Vedrà, the best coves, Formentera and 
 categoria: "ibiza"
 slug: "what-to-see-in-ibiza"
 fecha: "2026-04-03"
-fecha_actualizacion: "2026-04-03"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -22,6 +22,16 @@ slugs:
 ---
 
 **Ibiza is famous for the party, but it's much more.** Behind the clubs lies a UNESCO World Heritage old town, turquoise coves, legendary sunsets and neighbouring Formentera half an hour away by boat. The average visitor's mistake is never leaving Playa d'en Bossa or San Antonio and reducing the island to a dance floor. This guide covers the other side —which is most of it— without giving up the night if that's why you've come.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €54 |
+| [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €52 |
+| [Es Vedrà cruise with drinks and snacks](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.6★ (375) | €25 |
+| [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €49 |
+| [Ibiza–Formentera 360°: all-inclusive boat trip](/en/cities/ibiza/activities/ibiza-formentera-all-inclusive-boat-trip) | — | €89.10 |
 
 The island is small and quickly covered: the **east and north** are quieter and more rural; the **south-west** holds the prettiest coves and the sunsets; **Eivissa** (the capital) keeps Dalt Vila and the port; and **San Antonio** is the nightlife hub. With a car or scooter and a good plan you can see it all in two or three days.
 

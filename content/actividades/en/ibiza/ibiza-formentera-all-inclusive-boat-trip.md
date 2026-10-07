@@ -95,6 +95,8 @@ galeria:
   alt: Formentera beach with crystal-clear waters and boats
 - src: /images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp
   alt: Es Vedra islet, Ibiza
+atraccionesRelacionadas:
+  - formentera
 publicada: true
 destacada: false
 fecha: '2026-06-18'

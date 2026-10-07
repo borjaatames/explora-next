@@ -95,6 +95,8 @@ galeria:
   alt: Playa de Formentera con aguas cristalinas y embarcaciones
 - src: /images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp
   alt: Islote de Es Vedra, Ibiza
+atraccionesRelacionadas:
+  - formentera
 publicada: true
 destacada: false
 fecha: '2026-06-18'
