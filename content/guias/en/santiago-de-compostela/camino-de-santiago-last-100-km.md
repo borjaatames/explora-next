@@ -4,7 +4,7 @@ descripcion: "A guide to the last 100 km of the Camino de Santiago: where to sta
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-last-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: "2026-05-11"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Walking the last 100 km of the Camino is the most popular way to experience it** and to earn the Compostela without needing weeks. It's the minimum walking distance the Cathedral requires to issue the certificate, completed in about **5-7 days** within reach of almost anyone with basic preparation. This guide explains where to start, what the stages are like and what you need for the plan to go smoothly.
+
+## Once you reach Santiago
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Old town walking tour with an official guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4.8★ (356) | €10 |
+| [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
+| [Finisterre, Muxía and Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4.7★ (2,372) | €52 |
 
 The key: choose your starting point well for the route, carry the **credential** stamped and enjoy the Camino for what it is —an experience, not a race—.
 

@@ -4,7 +4,7 @@ descripcion: "Guía para visitar la Catedral de Santiago: qué es gratis y qué 
 categoria: "santiago-de-compostela"
 slug: "catedral-de-santiago-como-visitar"
 fecha: "2026-05-18"
-fecha_actualizacion: "2026-05-18"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **La Catedral de Santiago es la meta del Camino y el corazón de la ciudad**, pero su visita confunde a mucha gente: ¿se paga?, ¿qué es el botafumeiro?, ¿se puede subir al tejado? La respuesta corta es que **entrar al templo es gratis**, pero hay experiencias de pago que merecen mucho la pena. Esta guía te aclara qué ver, qué reservar y cómo organizarte.
+
+## Visitas guiadas a la catedral
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
+| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 29 € |
+| [Tour por las cubiertas de la catedral y la torre de la Carraca](/ciudades/santiago-de-compostela/actividades/cubiertas-catedral-santiago-tour) | 4,6★ (134) | 37 € |
 
 La clave: separa lo gratuito (el templo, la tumba del Apóstol) de las visitas especiales (Pórtico de la Gloria, cubiertas, museo), que requieren entrada y, a veces, reserva previa.
 

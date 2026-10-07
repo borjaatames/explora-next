@@ -27,7 +27,11 @@ atracciones:
     descripcion: "El segundo lugar más visitado tras la catedral: el gran mercado de producto gallego, donde comprar marisco, pulpo, queso y empanada y que te lo cocinen al momento."
   - nombre: "Parque de la Alameda"
     descripcion: "El parque clásico de la ciudad, con la mejor vista de la catedral y sus torres sobre el casco histórico, sobre todo al atardecer."
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Catedral", tag: "catedral" }
+  - { label: "Casco antiguo", tag: "centro-historico" }
+  - { label: "Tapas", tag: "gastronomia" }
+  - { label: "Excursiones", tag: "excursiones" }
 ---
 
 Santiago de Compostela es la capital de Galicia —unos 100.000 habitantes— y uno de los grandes destinos de peregrinación del mundo desde hace mil años: aquí termina el **Camino de Santiago**, ante la tumba del Apóstol.

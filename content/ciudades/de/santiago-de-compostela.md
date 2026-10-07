@@ -27,7 +27,11 @@ atracciones:
     descripcion: "Der nach der Kathedrale meistbesuchte Ort: der große Markt für galicische Produkte, wo man Meeresfrüchte, Oktopus, Käse und Empanada kaufen und direkt zubereiten lassen kann."
   - nombre: "Parque de la Alameda"
     descripcion: "Der klassische Stadtpark mit dem besten Blick auf die Kathedrale und ihre Türme über der Altstadt, besonders bei Sonnenuntergang."
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Kathedrale", tag: "catedral" }
+  - { label: "Altstadt", tag: "centro-historico" }
+  - { label: "Tapas", tag: "gastronomia" }
+  - { label: "Tagesausflüge", tag: "excursiones" }
 ---
 
 Santiago de Compostela ist die Hauptstadt Galiciens – rund 100.000 Einwohner – und seit tausend Jahren eines der großen Pilgerziele der Welt: Hier endet der **Jakobsweg**, vor dem Grab des Apostels.

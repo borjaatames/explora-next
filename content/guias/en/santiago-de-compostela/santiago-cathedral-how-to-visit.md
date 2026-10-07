@@ -4,7 +4,7 @@ descripcion: "How to visit Santiago Cathedral: what's free and what's paid, the 
 categoria: "santiago-de-compostela"
 slug: "santiago-cathedral-how-to-visit"
 fecha: "2026-05-18"
-fecha_actualizacion: "2026-05-18"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Santiago Cathedral is the goal of the Camino and the heart of the city**, but its visit confuses many people: is there a fee? what's the botafumeiro? can you go up on the roof? The short answer is that **entering the temple is free**, but there are paid experiences well worth it. This guide clarifies what to see, what to book and how to organise yourself.
+
+## Guided cathedral visits
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
+| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €29 |
+| [Cathedral rooftops and Carraca tower tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-rooftops-tour) | 4.6★ (134) | €37 |
 
 The key: separate the free part (the temple, the Apostle's tomb) from the special visits (Pórtico de la Gloria, rooftops, museum), which require a ticket and, sometimes, advance booking.
 

@@ -4,7 +4,7 @@ descripcion: "What to see in Santiago in one day: Cathedral, Obradoiro, old town
 categoria: "santiago-de-compostela"
 slug: "santiago-in-one-day"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-07"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -24,6 +24,18 @@ slugs:
 ---
 
 **Santiago is easily seen in a day**, though its atmosphere invites you to stay. The old town is compact, all stone and arcades, a UNESCO World Heritage Site, and everything revolves around the **cathedral**, the goal of the Camino. This guide covers the essentials of the Galician capital and makes clear why whoever stays overnight takes home far more than the passing tourist.
+
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €29 |
+| [Old town walking tour with an official guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4.8★ (356) | €10 |
+| [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
+| [Tapas tour with drinks and live music](/en/cities/santiago-de-compostela/activities/santiago-tapas-tour-live-music) | 4.7★ (231) | €45 |
+| [Finisterre, Muxía and Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4.7★ (2,372) | €52 |
+| [Rías Baixas with boat trip and winery](/en/cities/santiago-de-compostela/activities/rias-baixas-boat-winery-day-trip) | 4.7★ (486) | €47 |
+| [Las Catedrales beach, Lugo and Ribadeo](/en/cities/santiago-de-compostela/activities/las-catedrales-beach-lugo-ribadeo-day-trip) | 4.5★ (225) | €65 |
 
 The key to Santiago isn't only monumental, it's atmospheric: rain on the stone, bagpipes in the squares, pilgrims arriving moved at the Obradoiro and a university old town with a life you don't see on an express visit. This route orders the day so you miss neither the cathedral nor the soul of the city.
 

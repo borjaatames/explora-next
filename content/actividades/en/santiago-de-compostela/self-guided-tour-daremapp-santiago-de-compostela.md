@@ -68,6 +68,8 @@ galeria:
   alt: DareMapp self-guided tour of Santiago de Compostela, photo 3 of 4
 - src: https://imgcdn.bokun.tools/e0b22093-2d87-44d8-b7e6-7c4f07dcd23d.jpg
   alt: DareMapp self-guided tour of Santiago de Compostela, photo 4 of 4
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

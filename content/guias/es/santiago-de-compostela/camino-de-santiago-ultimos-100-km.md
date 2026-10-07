@@ -4,7 +4,7 @@ descripcion: "Guía de los últimos 100 km del Camino de Santiago: dónde empeza
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-ultimos-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: "2026-05-11"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,14 @@ slugs:
 ---
 
 **Hacer los últimos 100 km del Camino es la forma más popular de vivirlo** y de conseguir la Compostela sin disponer de semanas. Es la distancia mínima a pie que la Catedral exige para entregar el certificado, y se completa en unos **5-7 días** al alcance de casi cualquiera con una preparación básica. Esta guía te explica dónde empezar, cómo son las etapas y qué necesitas para que el plan salga redondo.
+
+## Al llegar a Santiago
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie por el casco antiguo con guía oficial](/ciudades/santiago-de-compostela/actividades/tour-a-pie-casco-antiguo-santiago) | 4,8★ (356) | 10 € |
+| [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
+| [Finisterre, Muxía y la Costa da Morte](/ciudades/santiago-de-compostela/actividades/excursion-finisterre-muxia-costa-da-morte) | 4,7★ (2.372) | 52 € |
 
 La clave: elige bien el punto de salida según la ruta, lleva la **credencial** sellada y disfruta del Camino como lo que es —una experiencia, no una carrera—.
 

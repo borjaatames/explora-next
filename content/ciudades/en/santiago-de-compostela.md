@@ -30,7 +30,11 @@ atracciones:
     descripcion: "The second most visited spot after the cathedral: the great Galician produce market, where you can buy seafood, octopus, cheese and empanada and have it cooked on the spot."
   - nombre: "Alameda Park"
     descripcion: "The city's classic park, with the best view of the cathedral and its towers over the old town, especially at sunset."
-chipsFiltros: []
+chipsFiltros:
+  - { label: "Cathedral", tag: "catedral" }
+  - { label: "Old Town", tag: "centro-historico" }
+  - { label: "Tapas", tag: "gastronomia" }
+  - { label: "Day trips", tag: "excursiones" }
 ---
 
 Santiago de Compostela is the capital of Galicia —around 100,000 people— and one of the world's great pilgrimage destinations for a thousand years: this is where the **Camino de Santiago** ends, before the tomb of the Apostle.

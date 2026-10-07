@@ -68,6 +68,8 @@ galeria:
   alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 3 de 4
 - src: https://imgcdn.bokun.tools/e0b22093-2d87-44d8-b7e6-7c4f07dcd23d.jpg
   alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 4 de 4
+atraccionesRelacionadas:
+  - centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

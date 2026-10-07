@@ -4,7 +4,7 @@ descripcion: "Qué ver en Santiago en un día: Catedral, Obradoiro, casco histó
 categoria: "santiago-de-compostela"
 slug: "santiago-en-un-dia"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-07"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -24,6 +24,18 @@ slugs:
 ---
 
 **Santiago se ve bien en un día**, aunque su ambiente invita a quedarse. El casco histórico es compacto, de piedra y soportales, declarado Patrimonio de la Humanidad, y todo gira en torno a la **catedral**, meta del Camino. Esta guía cubre lo esencial de la capital gallega y deja claro por qué quien hace noche se lleva mucho más que el turista de paso.
+
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 29 € |
+| [Tour a pie por el casco antiguo con guía oficial](/ciudades/santiago-de-compostela/actividades/tour-a-pie-casco-antiguo-santiago) | 4,8★ (356) | 10 € |
+| [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
+| [Tour de tapas con bebidas y música en directo](/ciudades/santiago-de-compostela/actividades/tour-tapas-santiago-musica-directo) | 4,7★ (231) | 45 € |
+| [Finisterre, Muxía y la Costa da Morte](/ciudades/santiago-de-compostela/actividades/excursion-finisterre-muxia-costa-da-morte) | 4,7★ (2.372) | 52 € |
+| [Rías Baixas con paseo en barco y bodega](/ciudades/santiago-de-compostela/actividades/excursion-rias-baixas-barco-bodega) | 4,7★ (486) | 47 € |
+| [Playa de las Catedrales, Lugo y Ribadeo](/ciudades/santiago-de-compostela/actividades/excursion-playa-catedrales-lugo-ribadeo) | 4,5★ (225) | 65 € |
 
 La clave de Santiago no es solo monumental, es atmosférica: la lluvia sobre la piedra, las gaitas en las plazas, los peregrinos llegando emocionados al Obradoiro y un casco viejo universitario con una vida que no se ve en una visita exprés. Esta ruta ordena el día para no perderte ni la catedral ni el alma de la ciudad.
 
