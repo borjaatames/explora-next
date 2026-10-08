@@ -27,7 +27,11 @@ incluye:
 noIncluye:
   - "Food and drink"
   - "Gratuities"
-puntoEncuentro: "Departure point in Barcelona; confirmed on booking."
+puntoEncuentro:
+  texto: "Estació de França train station, Avinguda del Marquès de l'Argentera 6, Barcelona"
+  latitud: 41.3846
+  longitud: 2.1849
+  zoom: 17
 opinionEditorial: "One of the best-rated tours in the area (4.99 out of 5) and one of the cheapest: Girona, the Costa Brava and a medieval village in a day from 89 €."
 atraccionesRelacionadas:
 - costa-brava

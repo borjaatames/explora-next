@@ -31,6 +31,9 @@ noIncluye:
 - Propinas (opcionales)
 puntoEncuentro:
   texto: Plaza de la Villa, 28005 Madrid, España
+  latitud: 40.4153
+  longitud: -3.7104
+  zoom: 17
 informacionImportante:
   aTenerEnCuenta:
   - Edad mínima 3 años; los bebés no pueden viajar en brazos

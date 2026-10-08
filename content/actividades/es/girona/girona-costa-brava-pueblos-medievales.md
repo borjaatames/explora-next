@@ -27,7 +27,11 @@ incluye:
 noIncluye:
   - "Comida y bebida"
   - "Propinas"
-puntoEncuentro: "Punto de salida en Barcelona; se confirma en la reserva."
+puntoEncuentro:
+  texto: "Estación de Francia, Avinguda del Marquès de l'Argentera 6, Barcelona"
+  latitud: 41.3846
+  longitud: 2.1849
+  zoom: 17
 opinionEditorial: "Una de las excursiones mejor valoradas de la zona (4,99 sobre 5) y de las más económicas: Girona, la Costa Brava y un pueblo medieval en un día desde 89 €."
 atraccionesRelacionadas:
 - costa-brava

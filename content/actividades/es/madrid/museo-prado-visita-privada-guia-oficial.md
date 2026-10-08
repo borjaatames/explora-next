@@ -32,6 +32,9 @@ noIncluye:
 - Transporte (si el hotel no está cerca, el guía recomienda quedar en el museo)
 puntoEncuentro:
   texto: Taquillas del Museo del Prado, junto a la estatua de Goya (Paseo del Prado, Madrid), o recogida en tu hotel
+  latitud: 40.415
+  longitud: -3.6921
+  zoom: 17
 informacionImportante:
   aTenerEnCuenta:
   - Precio por persona con un mínimo de 2 personas por reserva

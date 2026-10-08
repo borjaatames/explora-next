@@ -32,6 +32,9 @@ noIncluye:
 - Transport (if your hotel isn't nearby, the guide recommends meeting at the museum)
 puntoEncuentro:
   texto: Prado Museum ticket office, by the Goya statue (Paseo del Prado, Madrid), or pickup at your hotel
+  latitud: 40.415
+  longitud: -3.6921
+  zoom: 17
 informacionImportante:
   aTenerEnCuenta:
   - Price per person, with a minimum of 2 people per booking

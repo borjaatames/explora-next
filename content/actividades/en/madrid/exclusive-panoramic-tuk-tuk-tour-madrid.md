@@ -31,6 +31,9 @@ noIncluye:
 - Tips (optional)
 puntoEncuentro:
   texto: Plaza de la Villa, 28005 Madrid, Spain
+  latitud: 40.4153
+  longitud: -3.7104
+  zoom: 17
 informacionImportante:
   aTenerEnCuenta:
   - Minimum age 3; infants cannot ride in arms

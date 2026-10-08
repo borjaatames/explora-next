@@ -33,6 +33,9 @@ noIncluye:
 - Transport
 puntoEncuentro:
   texto: Plaza de la Armería, in front of the Royal Palace entrance (Madrid), or pickup at your hotel
+  latitud: 40.4173
+  longitud: -3.7143
+  zoom: 17
 informacionImportante:
   aTenerEnCuenta:
   - Price per person, with a minimum of 2 people per booking

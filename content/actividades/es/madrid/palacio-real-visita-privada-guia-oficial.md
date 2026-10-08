@@ -33,6 +33,9 @@ noIncluye:
 - Transporte
 puntoEncuentro:
   texto: Plaza de la Armería, frente a la entrada del Palacio Real (Madrid), o recogida en tu hotel
+  latitud: 40.4173
+  longitud: -3.7143
+  zoom: 17
 informacionImportante:
   aTenerEnCuenta:
   - Precio por persona con un mínimo de 2 personas por reserva
