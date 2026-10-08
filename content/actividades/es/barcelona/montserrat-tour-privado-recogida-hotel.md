@@ -73,9 +73,9 @@ politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso c
 
 preguntasFrecuentes:
   - pregunta: "¿Es realmente privado solo para mi grupo?"
-    respuesta: "Sí. Vehículo y guía exclusivos para tu grupo (familia, pareja, amigos). No compartes con otros viajeros. Por eso el precio (204 € por persona) es más alto que las opciones compartidas (94-109 €)."
+    respuesta: "Sí. Vehículo y guía exclusivos para tu grupo (familia, pareja, amigos). No compartes con otros viajeros. Por eso el precio (desde 838 € por todo el grupo) es más alto que las opciones compartidas (94-109 € por persona)."
   - pregunta: "¿Por qué tan caro?"
-    respuesta: "Es PRIVADO. Si vas en pareja, son 2 personas × 204 € = 408 € total para el tour entero (vs 188 € en el grupo de 8 compartido). Si vas con 4 personas, son 816 €. El precio por persona baja con grupos más grandes — comprueba si tienen tarifa por grupo entero en la reserva."
+    respuesta: "Es PRIVADO y el precio es por grupo: desde 838 € para un grupo pequeño y unos 895 € para 6 personas. En pareja sale bastante más caro que el grupo de 8 compartido (188 € los dos), pero con 5 o 6 personas queda en torno a 150 € por cabeza."
   - pregunta: "¿En qué se diferencia del grupo de 8 (EXB-26)?"
     respuesta: "EXB-26 es grupo pequeño COMPARTIDO con hasta 8 viajeros (familias o parejas distintas). Este es PRIVADO solo para tu grupo. EXB-27 da máxima flexibilidad: paras donde quieras, eliges el ritmo, el guía se adapta a ti."
   - pregunta: "¿Qué incluye el itinerario flexible?"
@@ -92,13 +92,13 @@ variantes:
 opinionEditorial: |
   Es la opción premium del comparador y la única realmente privada. 5,0 estrellas con 658 reseñas no se construyen sin entregar mucho — y la diferencia se nota cuando vas: vehículo solo para ti, guía exclusivo, ritmo a tu medida, paradas donde quieras.
 
-  El cálculo de precio: 204 € por persona. Si vais 2 personas, 408 € totales. Si vais 4, 816 €. La diferencia con el grupo de 8 compartido (94 €/persona = 376 € para 4 personas) está en ~440 € de diferencia para 4 personas. Para esa diferencia compras: exclusividad total, flexibilidad de paradas y itinerario adaptable.
+  El cálculo de precio: se paga por grupo, desde 838 € (unos 876 € para 4 personas y 895 € para 6). Frente al grupo de 8 compartido (94 €/persona = 376 € para 4 personas), 4 personas pagan unos 500 € más. Para esa diferencia compras: exclusividad total, flexibilidad de paradas y itinerario adaptable.
 
   ¿Para quién? Para escapadas de aniversario, viajes de novios, familias con niños pequeños donde el ritmo flexible es importante, o viajeros que valoran la exclusividad. Si vas solo a "ver Montserrat", las opciones compartidas son perfectamente válidas y mucho más baratas.
 
 atraccionesRelacionadas:
 - montserrat
-categoria: "excursionesDia"
+categoria: "experienciasPrivadas"
 keywords: ["montserrat tour privado", "montserrat exclusivo familia", "in out barcelona tours privado", "tour privado montserrat barcelona", "montserrat sin grupo"]
 
 imagen: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"

@@ -72,7 +72,7 @@ preguntasFrecuentes:
   - pregunta: "What's the difference vs UNIque Tours (EXB-07)?"
     respuesta: "Both are 8-person groups. UNIque does NOT pick up at hotel (meeting point at Passeig de Gràcia 29) and includes funicular + hike for €68. This picks up at hotel but does NOT include funicular or hike for €94. The difference (~€26) is basically the pickup service."
   - pregunta: "Is it the same as the private tour (EXB-27)?"
-    respuesta: "No. The private tour (~€204) is ONLY for your group (family or couple). This (~€94) is shared small group with up to 8 other travelers. The private gives maximum flexibility to stop wherever you want."
+    respuesta: "No. The private tour (from €838 per group) is ONLY for your group (family or couple). This (~€94) is shared small group with up to 8 other travelers. The private gives maximum flexibility to stop wherever you want."
   - pregunta: "Is the Black Madonna entry included?"
     respuesta: "Monastery and basilica access are included. The Throne Room where the Moreneta is is not explicitly included — the guide will help you access during free time if you want to see her."
   - pregunta: "What if the pickup is late?"
@@ -89,7 +89,7 @@ opinionEditorial: |
 
   What you pay: difference vs UNIque Tours (€68, same 8-person group but without hotel pickup) is ~€26. If you value comfort over nature/hike, this is your tour. If you want MORE content (funicular, hike) for less money, UNIque gives it but with the catch of having to go to the meeting point yourself.
 
-  If traveling as family or couple without budget restrictions, consider the [In Out private tour (~€204)](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup): only for you, maximum flexibility. For 2 people, private comes to ~€408 (vs €188 in this shared) — depends on how much you value exclusivity.
+  If traveling as family or couple without budget restrictions, consider the [In Out private tour (from €838 per group)](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup): only for you, maximum flexibility. For 2 people, private comes to ~€838 (vs €188 in this shared) — depends on how much you value exclusivity.
 
 categoria: "excursionesDia"
 keywords: ["montserrat hotel pickup", "montserrat small group", "montserrat hotel pickup tour", "in out barcelona tours", "montserrat 8 person hotel"]
@@ -136,7 +136,7 @@ Total: 5 hours. Max 8-person group with single guide.
 
 - If you value hotel pickup comfort over price.
 - If traveling with family or group and prefer not to wake early to reach the meeting point.
-- If you want a small group (max 8) without paying private tour premium (~€204 pp).
+- If you want a small group (max 8) without paying the private tour premium (from €838 per group).
 - If your hotel is in central Barcelona (Eixample, Gothic, Barceloneta).
 
 ## Who I would NOT recommend it to

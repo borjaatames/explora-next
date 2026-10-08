@@ -72,7 +72,7 @@ preguntasFrecuentes:
   - pregunta: "¿Cuál es la diferencia con UNIque Tours (EXB-07)?"
     respuesta: "Ambos son grupo de 8 personas. UNIque NO recoge en hotel (punto de encuentro en Passeig de Gràcia 29) e incluye funicular + caminata por 68 €. Este recoge en hotel pero NO incluye funicular ni caminata por 94 €. La diferencia (~26 €) es básicamente el servicio de recogida."
   - pregunta: "¿Es lo mismo que el tour privado (EXB-27)?"
-    respuesta: "No. El tour privado (~204 €) es SOLO para tu grupo (familia o pareja). Este (~94 €) es grupo pequeño compartido con otros viajeros (hasta 8 personas). El privado da máxima flexibilidad para parar donde quieras."
+    respuesta: "No. El tour privado (desde 838 € por grupo) es SOLO para tu grupo (familia o pareja). Este (~94 €) es grupo pequeño compartido con otros viajeros (hasta 8 personas). El privado da máxima flexibilidad para parar donde quieras."
   - pregunta: "¿Está incluida la entrada a la Virgen Negra?"
     respuesta: "El acceso al monasterio y la basílica están incluidos. La Sala del Trono donde está la Moreneta no se incluye explícitamente — el guía te orientará para acceder durante el tiempo libre si quieres verla."
   - pregunta: "¿Y si llega tarde la recogida?"
@@ -89,7 +89,7 @@ opinionEditorial: |
 
   Lo que pagas: la diferencia frente a UNIque Tours (68 €, mismo grupo de 8 pero sin recogida en hotel) son ~26 €. Si valoras la comodidad por encima de la naturaleza/caminata, este es tu tour. Si quieres MÁS contenido (funicular, caminata) por menos dinero, UNIque te lo da con la pega de tener que ir tú al punto.
 
-  Si vas en familia o pareja sin restricciones de presupuesto, considera el [tour privado de In Out (~204 €)](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel): es solo para ti, máxima flexibilidad. Si vas en grupo de 2 personas, el privado sale ~408 € (vs 188 € en este compartido) — depende de cuánto valoras la exclusividad.
+  Si vas en familia o pareja sin restricciones de presupuesto, considera el [tour privado de In Out (desde 838 € por grupo)](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel): es solo para ti, máxima flexibilidad. Si vas en grupo de 2 personas, el privado sale ~838 € (vs 188 € en este compartido) — depende de cuánto valoras la exclusividad.
 
 categoria: "excursionesDia"
 keywords: ["montserrat recogida hotel", "montserrat grupo pequeno", "tour montserrat hotel pickup", "in out barcelona tours", "montserrat 8 personas hotel"]
@@ -136,7 +136,7 @@ Duración total: 5 horas. Grupo máximo de 8 personas con guía único.
 
 - Si valoras la comodidad de la recogida en hotel por encima del precio.
 - Si vas con familia o grupo y prefieres no madrugar para llegar al punto de encuentro.
-- Si quieres grupo reducido (8 máx) sin pagar el premium del tour privado (~204 € pp).
+- Si quieres grupo reducido (8 máx) sin pagar el premium del tour privado (desde 838 € por grupo).
 - Si tu hotel está en zona céntrica de Barcelona (Eixample, Gótico, Barceloneta).
 
 ## A quién NO se lo recomiendo
