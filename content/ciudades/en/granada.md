@@ -42,6 +42,10 @@ atracciones:
     descripcion: "The Catholic Monarchs' tombs rest in the Royal Chapel, next to the Renaissance Cathedral they commissioned. The complex tells the story of the end of the Reconquista and the start of the Spanish Golden Age."
     imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     imagenAlt: "Exterior view of Granada's Royal Chapel next to the Cathedral"
+  - nombre: "Sierra Nevada"
+    descripcion: "The highest mountain range on the Iberian Peninsula, about 45 minutes' drive from Granada. Peaks over 3,000 metres such as Mulhacén, Europe's southernmost ski resort in winter and hiking trails in summer. A National Park since 1999."
+    imagen: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
+    imagenAlt: "Snow-capped peaks of Sierra Nevada seen from above"
 chipsFiltros:
   - { label: "Hammam", tag: "hammam" }
   - { label: "The Alhambra", tag: "alhambra" }

@@ -35,6 +35,10 @@ atracciones:
     descripcion: "Dominican convent with the city's most striking Plateresque facade. Fray Luis de León taught here, and Columbus debated his voyages with theologians here."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Plateresque facade of Salamanca's Convent of San Esteban"
+  - nombre: "Tormes River and Roman Bridge"
+    descripcion: "The Roman Bridge crosses the Tormes beside the stone boar (verraco) made famous by the Lazarillo de Tormes. The riverbanks are the best place to take in the skyline of the Cathedrals, especially at sunset."
+    imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"
+    imagenAlt: "The Tormes River beneath an iron bridge, with Salamanca's Cathedrals in the background"
 chipsFiltros:
   - { label: "Old Town", tag: "casco-historico" }
   - { label: "Cathedrals and University", tag: "monumentos" }

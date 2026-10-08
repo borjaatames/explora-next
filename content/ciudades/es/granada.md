@@ -42,6 +42,10 @@ atracciones:
     descripcion: "Las tumbas de los Reyes Católicos descansan en la Capilla Real, junto a la Catedral renacentista que ellos mandaron construir. El conjunto explica el final de la Reconquista y el inicio del Siglo de Oro."
     imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     imagenAlt: "Vista exterior de la Capilla Real de Granada junto a la Catedral"
+  - nombre: "Sierra Nevada"
+    descripcion: "La cordillera más alta de la Península, a unos 45 minutos de Granada en coche. Picos de más de 3.000 metros como el Mulhacén, la estación de esquí más al sur de Europa en invierno y rutas de senderismo en verano. Es Parque Nacional desde 1999."
+    imagen: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
+    imagenAlt: "Picos nevados de Sierra Nevada vistos desde lo alto"
 chipsFiltros:
   - { label: "Hammam", tag: "hammam" }
   - { label: "La Alhambra", tag: "alhambra" }

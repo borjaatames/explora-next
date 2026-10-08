@@ -35,6 +35,10 @@ atracciones:
     descripcion: "Dominikanerkloster mit der beeindruckendsten Plateresk-Fassade der Stadt. Hier lehrte Fray Luis de León, und hier diskutierte Kolumbus seine Reisen mit den Theologen."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Plateresk-Fassade des Klosters San Esteban in Salamanca"
+  - nombre: "Tormes und Römische Brücke"
+    descripcion: "Die Römische Brücke überquert den Tormes neben dem steinernen Eber (Verraco), den der Lazarillo de Tormes berühmt gemacht hat. Vom Flussufer aus sieht man die Silhouette der Kathedralen am schönsten, besonders bei Sonnenuntergang."
+    imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"
+    imagenAlt: "Der Tormes unter einer Eisenbrücke, im Hintergrund die Kathedralen von Salamanca"
 chipsFiltros:
   - { label: "Altstadt", tag: "casco-historico" }
   - { label: "Kathedralen und Universität", tag: "monumentos" }

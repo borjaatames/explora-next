@@ -110,7 +110,8 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
       </header>
 
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Si el número de atracciones es impar, la última tarjeta se centra en vez de dejar un hueco */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:[&>*:last-child:nth-child(odd)]:col-span-2 md:[&>*:last-child:nth-child(odd)]:justify-self-center md:[&>*:last-child:nth-child(odd)]:w-[calc(50%-0.75rem)]">
           {atracciones.map((atr, i) => (
             <AtraccionCard key={i} atraccion={atr} />
           ))}

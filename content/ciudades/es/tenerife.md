@@ -50,6 +50,10 @@ atracciones:
     descripcion: "Reserva de la Biosfera en el extremo noreste: bosque de laurisilva, roques como el de Taborno y playas salvajes de arena negra como Benijo."
     imagen: "/images/actividades/tenerife/ciudad/roque-taborno.webp"
     imagenAlt: "Roque de Taborno, en Anaga"
+  - nombre: "Icod de los Vinos y el Drago Milenario"
+    descripcion: "El drago más grande y antiguo de Canarias, símbolo de la isla, preside un parque en el centro de Icod. Cerca está la Cueva del Viento, uno de los tubos volcánicos más largos del mundo."
+    imagen: "/images/actividades/tenerife/icod/drago-milenario.webp"
+    imagenAlt: "El Drago Milenario de Icod de los Vinos"
 chipsFiltros:
   - { label: "El Teide", tag: "teide" }
   - { label: "En el mar", tag: "mar" }

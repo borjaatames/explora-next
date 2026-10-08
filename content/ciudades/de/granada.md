@@ -42,6 +42,10 @@ atracciones:
     descripcion: "Die Gräber der Katholischen Könige ruhen in der Capilla Real, direkt neben der Renaissance-Kathedrale, die sie in Auftrag gaben. Der Gebäudekomplex erzählt vom Ende der Reconquista und dem Beginn des Goldenen Zeitalters."
     imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     imagenAlt: "Außenansicht der Capilla Real von Granada neben der Kathedrale"
+  - nombre: "Sierra Nevada"
+    descripcion: "Das höchste Gebirge der Iberischen Halbinsel, etwa 45 Autominuten von Granada entfernt. Gipfel über 3.000 Meter wie der Mulhacén, im Winter das südlichste Skigebiet Europas und im Sommer Wanderwege. Seit 1999 Nationalpark."
+    imagen: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
+    imagenAlt: "Schneebedeckte Gipfel der Sierra Nevada von oben gesehen"
 chipsFiltros:
   - { label: "Hammam", tag: "hammam" }
   - { label: "Die Alhambra", tag: "alhambra" }

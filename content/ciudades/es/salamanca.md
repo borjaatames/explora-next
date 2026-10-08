@@ -35,6 +35,10 @@ atracciones:
     descripcion: "Convento dominico con la fachada plateresca más impresionante de la ciudad. Allí enseñó Fray Luis de León y allí debatió Colón sus viajes con los teólogos."
     imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
     imagenAlt: "Fachada plateresca del Convento de San Esteban de Salamanca"
+  - nombre: "Río Tormes y Puente Romano"
+    descripcion: "El Puente Romano cruza el Tormes junto al verraco de piedra que hizo famoso el Lazarillo de Tormes. Las riberas son el mejor sitio para ver la silueta de las Catedrales, sobre todo al atardecer."
+    imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"
+    imagenAlt: "El río Tormes bajo un puente de hierro, con las Catedrales de Salamanca al fondo"
 chipsFiltros:
   - { label: "Casco histórico", tag: "casco-historico" }
   - { label: "Catedrales y Universidad", tag: "monumentos" }

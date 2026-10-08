@@ -50,6 +50,10 @@ atracciones:
     descripcion: "Biosphärenreservat im äußersten Nordosten: Lorbeerwald, Felsnadeln wie der Roque de Taborno und wilde schwarze Sandstrände wie Benijo."
     imagen: "/images/actividades/tenerife/ciudad/roque-taborno.webp"
     imagenAlt: "Der Roque de Taborno in Anaga"
+  - nombre: "Icod de los Vinos und der Drago Milenario"
+    descripcion: "Der größte und älteste Drachenbaum der Kanaren, ein Wahrzeichen Teneriffas, steht in einem Park im Zentrum von Icod. In der Nähe liegt die Cueva del Viento, eine der längsten Lavaröhren der Welt."
+    imagen: "/images/actividades/tenerife/icod/drago-milenario.webp"
+    imagenAlt: "Der Drago Milenario in Icod de los Vinos"
 chipsFiltros:
   - { label: "Teide", tag: "teide" }
   - { label: "Auf dem Meer", tag: "mar" }

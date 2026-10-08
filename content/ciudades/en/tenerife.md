@@ -50,6 +50,10 @@ atracciones:
     descripcion: "A Biosphere Reserve at the north-eastern tip: laurel forest, rock pinnacles such as Taborno and wild black-sand beaches such as Benijo."
     imagen: "/images/actividades/tenerife/ciudad/roque-taborno.webp"
     imagenAlt: "Roque de Taborno in Anaga"
+  - nombre: "Icod de los Vinos and the Drago Milenario"
+    descripcion: "The largest and oldest dragon tree in the Canary Islands, a symbol of Tenerife, stands in a park in the centre of Icod. Nearby is the Cueva del Viento, one of the longest lava tubes in the world."
+    imagen: "/images/actividades/tenerife/icod/drago-milenario.webp"
+    imagenAlt: "The Drago Milenario dragon tree in Icod de los Vinos"
 chipsFiltros:
   - { label: "Teide", tag: "teide" }
   - { label: "At sea", tag: "mar" }
