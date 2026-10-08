@@ -68,7 +68,8 @@ preguntasFrecuentes:
 - pregunta: Is there food on board?
   respuesta: No, only soft drinks and water during the swim stop.
 opinionEditorial: 'It''s Gran Canaria''s most-booked boat trip and its strength is balance: genuine whale and dolphin watching, with the glass panels as a bonus, plus time to swim. If you want a party or lunch on board, choose the catamaran with lunch instead.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-gran-canaria
 categoria: excursionesDia
 keywords:
 - dolphin watching gran canaria

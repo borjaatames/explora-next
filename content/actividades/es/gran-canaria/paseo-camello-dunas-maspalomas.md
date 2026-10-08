@@ -66,7 +66,9 @@ preguntasFrecuentes:
 - pregunta: ¿Incluye recogida?
   respuesta: No, hay que llegar por cuenta propia al punto en Maspalomas.
 opinionEditorial: Es corto y turístico, pero barato y muy bien llevado, y es la forma más cómoda de adentrarse en las dunas con niños. Ve a primera hora o al final de la tarde para evitar el calor y la luz dura.
-guiasRelacionadas: []
+guiasRelacionadas:
+- dunas-de-maspalomas
+- que-ver-en-gran-canaria
 categoria: excursionesDia
 keywords:
 - paseo en camello maspalomas

@@ -70,7 +70,9 @@ preguntasFrecuentes:
 - pregunta: ¿Incluye recogida?
   respuesta: Sí, en las zonas del sur indicadas en la opción.
 opinionEditorial: 'Es la actividad mejor valorada de Gran Canaria con miles de reseñas, y se entiende: conduces tú por pistas que no verías en coche de alquiler y el paisaje del interior sorprende a quien solo conoce la playa. Lleva pañuelo para el polvo.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-gran-canaria
+- roque-nublo-como-subir
 categoria: excursionesDia
 keywords:
 - buggy gran canaria

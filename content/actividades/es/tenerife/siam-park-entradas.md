@@ -63,7 +63,8 @@ preguntasFrecuentes:
 - pregunta: ¿Cuánto tiempo se necesita?
   respuesta: Un día completo para aprovecharlo.
 opinionEditorial: Siam Park es probablemente el mejor parque acuático de Europa, y la tematización tailandesa se nota. Ve a primera hora o en temporada baja para evitar colas en la Tower of Power y la ola gigante.
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-tenerife
 categoria: entradas
 keywords:
 - siam park entradas

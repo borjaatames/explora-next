@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: What will I see through the telescope?
   respuesta: 'Depending on the season: the Moon, Saturn and Jupiter, galaxies, nebulae and clusters such as the Pleiades.'
 opinionEditorial: 'Teide''s sky is among the world''s best for stargazing and this tour makes the most of it: small groups, lots of telescope time and a sunset with three islands on the horizon. Bring winter layers even if you were in swimwear that afternoon.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- climbing-mount-teide
+- what-to-see-in-tenerife
 categoria: excursionesDia
 keywords:
 - teide stargazing

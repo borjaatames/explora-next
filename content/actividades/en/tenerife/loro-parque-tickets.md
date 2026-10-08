@@ -62,7 +62,8 @@ preguntasFrecuentes:
 - pregunta: Where is it?
   respuesta: In Puerto de la Cruz, in the north of the island.
 opinionEditorial: 'It''s Tenerife''s best-rated park and one of Europe''s most complete zoos; the penguins and parrots are the highlights. Orca and dolphin shows are debated: decide for yourself whether you want to see them.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-tenerife
 categoria: entradas
 keywords:
 - loro parque tickets

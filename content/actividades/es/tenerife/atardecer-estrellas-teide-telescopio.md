@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: ¿Qué se ve por el telescopio?
   respuesta: 'Según la época: la Luna, Saturno y Júpiter, galaxias, nebulosas y cúmulos como las Pléyades.'
 opinionEditorial: 'El cielo del Teide es de los mejores del mundo para observar estrellas y este tour lo aprovecha bien: grupos pequeños, mucho tiempo de telescopio y un atardecer con tres islas en el horizonte. Lleva abrigo de invierno aunque estés en bañador por la tarde.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- subir-al-teide
+- que-ver-en-tenerife
 categoria: excursionesDia
 keywords:
 - observacion estrellas teide

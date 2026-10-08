@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: Is pickup included?
   respuesta: No, departure is from Los Cristianos pier.
 opinionEditorial: 'It''s Tenerife''s best-rated whale-watching trip by a huge margin of reviews, and the no-chasing approach is welcome. An hour and a half is just right: enough to see pilot whales without dragging on.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- whale-watching-tenerife
+- what-to-see-in-tenerife
 categoria: excursionesDia
 keywords:
 - whale watching tenerife

@@ -66,7 +66,9 @@ preguntasFrecuentes:
 - pregunta: Is pickup included?
   respuesta: No, you make your own way to the site in Maspalomas.
 opinionEditorial: It's short and touristy, but cheap and very well run, and the easiest way into the dunes with children. Go early or late afternoon to avoid the heat and harsh light.
-guiasRelacionadas: []
+guiasRelacionadas:
+- maspalomas-dunes-guide
+- what-to-see-in-gran-canaria
 categoria: excursionesDia
 keywords:
 - maspalomas camel ride

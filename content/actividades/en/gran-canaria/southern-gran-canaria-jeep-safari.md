@@ -66,7 +66,9 @@ preguntasFrecuentes:
 - pregunta: Which languages?
   respuesta: Spanish, English, German, Dutch and Italian.
 opinionEditorial: 'The relaxed way to see the interior: instead of driving yourself, the guide takes you along tracks to reservoirs and viewpoints that are hard to find in a hire car. More scenic than the buggy and suitable for almost everyone.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- roque-nublo-hike
+- what-to-see-in-gran-canaria
 categoria: excursionesDia
 keywords:
 - gran canaria jeep safari

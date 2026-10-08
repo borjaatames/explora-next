@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: ¿Se entra al Drago?
   respuesta: Se ve desde el pueblo; la entrada al Parque del Drago no está incluida.
 opinionEditorial: Es la mejor forma de ver en un día los imprescindibles de Tenerife sin conducir por las carreteras de montaña, sobre todo la de Masca. A cambio, son muchas horas de autobús; si solo te interesa el Teide, mejor el tour con teleférico.
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-tenerife
+- subir-al-teide
 categoria: excursionesDia
 keywords:
 - excursion teide masca

@@ -73,7 +73,9 @@ preguntasFrecuentes:
 - pregunta: ¿Desde dónde recogen?
   respuesta: Desde el norte y el sur de la isla.
 opinionEditorial: 'Subir al Teide en teleférico es la experiencia más famosa de Tenerife y así te ahorras el problema del aparcamiento, que en el parque es muy limitado. Ve con abrigo y paciencia: arriba hay poco oxígeno y el viento puede cerrar el teleférico.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- subir-al-teide
+- que-ver-en-tenerife
 categoria: excursionesDia
 keywords:
 - teleferico del teide

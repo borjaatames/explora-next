@@ -73,7 +73,9 @@ preguntasFrecuentes:
 - pregunta: Where is pickup?
   respuesta: From the north and south of the island.
 opinionEditorial: 'Riding the cable car up Teide is Tenerife''s most famous experience, and this way you avoid the parking problem, as spaces in the park are very limited. Bring a jacket and patience: there''s little oxygen up there and wind can close the cable car.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- climbing-mount-teide
+- what-to-see-in-tenerife
 categoria: excursionesDia
 keywords:
 - teide cable car

@@ -64,7 +64,9 @@ preguntasFrecuentes:
 - pregunta: ¿Se puede bañar?
   respuesta: Sí, en Puerto de Mogán hay tiempo libre para ir a la playa.
 opinionEditorial: 'Pensado para quien se aloja en Las Palmas y no quiere conducir: en un día ves la Gran Canaria más contrastada, del barranco verde de Guayadeque a las dunas y el puerto de Mogán. Los grupos son grandes y se explica en dos idiomas.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-gran-canaria
+- dunas-de-maspalomas
 categoria: excursionesDia
 keywords:
 - excursion gran canaria desde las palmas

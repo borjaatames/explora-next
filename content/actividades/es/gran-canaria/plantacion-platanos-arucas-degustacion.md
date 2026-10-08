@@ -61,7 +61,8 @@ preguntasFrecuentes:
 - pregunta: ¿Es para niños?
   respuesta: Sí, es una visita apta para todas las edades.
 opinionEditorial: 'Pequeña, barata y muy bien explicada: sales entendiendo por qué el plátano de Canarias es distinto. Combínala en la misma mañana con el casco de Arucas y su iglesia neogótica, a pocos minutos.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-gran-canaria
 categoria: visitasGuiadas
 keywords:
 - plantacion platanos gran canaria

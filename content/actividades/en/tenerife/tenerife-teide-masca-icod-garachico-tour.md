@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: Do we go into the Drago park?
   respuesta: You see the tree from the town; entry to the Parque del Drago isn't included.
 opinionEditorial: It's the best way to see Tenerife's essentials in a day without driving the mountain roads, especially the one to Masca. The trade-off is long hours on the coach; if Teide is all you want, choose the cable car tour.
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-tenerife
+- climbing-mount-teide
 categoria: excursionesDia
 keywords:
 - teide masca tour

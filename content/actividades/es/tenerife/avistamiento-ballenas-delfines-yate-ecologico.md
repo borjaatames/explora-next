@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: ¿Incluye recogida?
   respuesta: No, la salida es desde el muelle de Los Cristianos.
 opinionEditorial: 'Es la salida de avistamiento mejor valorada de Tenerife con muchísima diferencia de reseñas, y el enfoque sin persecución se agradece. Hora y media es justo lo necesario: suficiente para ver calderones sin hacerse largo.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- avistamiento-ballenas-tenerife
+- que-ver-en-tenerife
 categoria: excursionesDia
 keywords:
 - avistamiento ballenas tenerife

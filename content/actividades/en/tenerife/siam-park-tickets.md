@@ -63,7 +63,8 @@ preguntasFrecuentes:
 - pregunta: How long do I need?
   respuesta: A full day to make the most of it.
 opinionEditorial: Siam Park is probably Europe's best water park, and the Thai theming really shows. Go first thing or in low season to avoid queues for the Tower of Power and the giant wave.
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-tenerife
 categoria: entradas
 keywords:
 - siam park tickets

@@ -80,7 +80,9 @@ preguntasFrecuentes:
 - pregunta: ¿Cuándo llegan las fotos?
   respuesta: Te las envían el mismo día.
 opinionEditorial: 'Por menos de 30 € es de las actividades con mejor relación calidad-precio de Tenerife: grupos pequeños, equipo completo y las fotos resueltas. Elige la salida de primera hora, cuando el mar suele estar más tranquilo.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- avistamiento-ballenas-tenerife
+- que-ver-en-tenerife
 categoria: excursionesDia
 keywords:
 - kayak tenerife

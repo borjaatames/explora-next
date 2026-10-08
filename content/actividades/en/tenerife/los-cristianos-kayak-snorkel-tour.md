@@ -80,7 +80,9 @@ preguntasFrecuentes:
 - pregunta: When do I get the photos?
   respuesta: They're sent the same day.
 opinionEditorial: 'At under €30 it''s one of Tenerife''s best-value activities: small groups, full kit and the photos taken care of. Choose the early departure, when the sea is usually calmer.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- whale-watching-tenerife
+- what-to-see-in-tenerife
 categoria: excursionesDia
 keywords:
 - tenerife kayak

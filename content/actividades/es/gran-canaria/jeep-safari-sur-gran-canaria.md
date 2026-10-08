@@ -66,7 +66,9 @@ preguntasFrecuentes:
 - pregunta: ¿En qué idiomas es?
   respuesta: Español, inglés, alemán, neerlandés e italiano.
 opinionEditorial: 'La opción tranquila para conocer el interior: en vez de conducir tú, el guía te lleva por pistas a presas y miradores que en coche de alquiler cuesta encontrar. Más contemplativo que el buggy y apto para casi todos.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- roque-nublo-como-subir
+- que-ver-en-gran-canaria
 categoria: excursionesDia
 keywords:
 - jeep safari gran canaria

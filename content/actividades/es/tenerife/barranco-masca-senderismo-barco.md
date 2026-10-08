@@ -76,7 +76,9 @@ preguntasFrecuentes:
 - pregunta: ¿Hay que subir de vuelta?
   respuesta: No, se vuelve en barco desde la cala hasta Los Gigantes.
 opinionEditorial: Masca es la caminata más espectacular de Tenerife y, desde que exige permiso, ir con guía es lo más sencillo. Bajar y volver en barco frente a Los Gigantes es el broche perfecto; eso sí, el calzado de montaña no es negociable.
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-tenerife
+- avistamiento-ballenas-tenerife
 categoria: excursionesDia
 keywords:
 - barranco de masca

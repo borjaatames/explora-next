@@ -61,7 +61,8 @@ preguntasFrecuentes:
 - pregunta: Is it suitable for children?
   respuesta: Yes, it suits all ages.
 opinionEditorial: 'Small, cheap and very well explained: you leave understanding why Canary bananas are different. Pair it the same morning with Arucas old town and its neo-Gothic church, a few minutes away.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-gran-canaria
 categoria: visitasGuiadas
 keywords:
 - gran canaria banana plantation

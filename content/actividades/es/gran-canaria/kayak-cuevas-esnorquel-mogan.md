@@ -71,7 +71,8 @@ preguntasFrecuentes:
 - pregunta: ¿Incluye recogida?
   respuesta: No, se llega por cuenta propia a Taurito.
 opinionEditorial: Es la mejor forma de ver la costa salvaje del suroeste, la que no se ve desde las playas. Exige algo de forma física, pero los guías lo ponen fácil y el esnórquel en agua abierta suele ser muy claro.
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-gran-canaria
 categoria: excursionesDia
 keywords:
 - kayak mogan

@@ -64,7 +64,9 @@ preguntasFrecuentes:
 - pregunta: Can I swim?
   respuesta: Yes, there's free time in Puerto de Mogán to go to the beach.
 opinionEditorial: 'Designed for anyone staying in Las Palmas who doesn''t want to drive: in one day you see Gran Canaria''s contrasts, from the green Guayadeque ravine to the dunes and Mogán''s harbour. Groups are large and commentary is in two languages.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-gran-canaria
+- maspalomas-dunes-guide
 categoria: excursionesDia
 keywords:
 - gran canaria tour from las palmas

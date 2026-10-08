@@ -76,7 +76,9 @@ preguntasFrecuentes:
 - pregunta: Do we hike back up?
   respuesta: No, you return by boat from the cove to Los Gigantes.
 opinionEditorial: Masca is Tenerife's most spectacular hike and, now that a permit is required, going with a guide is the easiest option. Walking down and returning by boat beneath Los Gigantes is the perfect finish; proper hiking boots are non-negotiable.
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-tenerife
+- whale-watching-tenerife
 categoria: excursionesDia
 keywords:
 - masca gorge

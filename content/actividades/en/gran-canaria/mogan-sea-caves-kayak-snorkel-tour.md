@@ -71,7 +71,8 @@ preguntasFrecuentes:
 - pregunta: Is pickup included?
   respuesta: No, you make your own way to Taurito.
 opinionEditorial: It's the best way to see the wild south-west coast that you can't see from the beaches. It needs some fitness, but the guides make it easy and the open-water snorkeling is usually very clear.
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-gran-canaria
 categoria: excursionesDia
 keywords:
 - mogan kayak

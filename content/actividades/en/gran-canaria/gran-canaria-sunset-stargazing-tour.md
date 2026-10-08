@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: Why can't I dive that day?
   respuesta: 'Because of the altitude: going up to 1,800 m after diving is a health risk.'
 opinionEditorial: 'One of the island''s most special experiences: the sunset over the sea of clouds with Teide on the horizon is worth it alone, and the telescopes finish it off. Bring proper warm layers even if it''s 25 degrees on the coast.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- roque-nublo-hike
+- what-to-see-in-gran-canaria
 categoria: excursionesDia
 keywords:
 - gran canaria stargazing

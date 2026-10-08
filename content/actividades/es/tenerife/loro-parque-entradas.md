@@ -62,7 +62,8 @@ preguntasFrecuentes:
 - pregunta: ¿Dónde está?
   respuesta: En Puerto de la Cruz, en el norte de la isla.
 opinionEditorial: 'Es el parque mejor valorado de Tenerife y uno de los zoológicos más completos de Europa; los pingüinos y los loros son lo más espectacular. Los espectáculos con orcas y delfines generan debate: valora tú si quieres verlos.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-tenerife
 categoria: entradas
 keywords:
 - loro parque entradas

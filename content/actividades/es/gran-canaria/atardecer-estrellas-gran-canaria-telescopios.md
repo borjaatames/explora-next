@@ -72,7 +72,9 @@ preguntasFrecuentes:
 - pregunta: ¿Por qué no puedo bucear ese día?
   respuesta: 'Por la altitud: subir a 1.800 m tras bucear es un riesgo para la salud.'
 opinionEditorial: 'Es de las experiencias más especiales de la isla: el atardecer sobre el mar de nubes con el Teide al fondo ya justifica la salida, y los telescopios rematan. Lleva abrigo de verdad aunque abajo haga 25 grados.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- roque-nublo-como-subir
+- que-ver-en-gran-canaria
 categoria: excursionesDia
 keywords:
 - observacion estrellas gran canaria

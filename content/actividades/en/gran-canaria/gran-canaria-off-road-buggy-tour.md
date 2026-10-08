@@ -70,7 +70,9 @@ preguntasFrecuentes:
 - pregunta: Is pickup included?
   respuesta: Yes, in the southern areas listed in the option.
 opinionEditorial: 'It''s Gran Canaria''s best-rated activity with thousands of reviews, and it shows: you drive tracks you''d never reach in a hire car, and the interior surprises anyone who only knows the beach. Bring a scarf for the dust.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- what-to-see-in-gran-canaria
+- roque-nublo-hike
 categoria: excursionesDia
 keywords:
 - gran canaria buggy

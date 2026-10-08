@@ -68,7 +68,8 @@ preguntasFrecuentes:
 - pregunta: ¿Hay comida a bordo?
   respuesta: No, solo refrescos y agua durante la parada de baño.
 opinionEditorial: 'Es la excursión en barco más reservada de Gran Canaria y su punto fuerte es el equilibrio: avistamiento de cetáceos de verdad, con los paneles de cristal como extra, y un rato de baño. Si buscas fiesta o comida a bordo, mejor el catamarán con almuerzo.'
-guiasRelacionadas: []
+guiasRelacionadas:
+- que-ver-en-gran-canaria
 categoria: excursionesDia
 keywords:
 - avistamiento delfines gran canaria
