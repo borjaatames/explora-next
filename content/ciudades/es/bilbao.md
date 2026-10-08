@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Museo Guggenheim"
     descripcion: "El museo de Frank Gehry que cambió la ciudad: titanio ondulado a orillas de la ría, con 'Puppy' y la araña 'Maman' en sus puertas. El símbolo del Bilbao moderno."
+    imagen: "/images/actividades/bilbao/guggenheim/guggenheim-ria.webp"
+    imagenAlt: "El Museo Guggenheim junto a la ría de Bilbao"
   - nombre: "Casco Viejo (Siete Calles)"
     descripcion: "El núcleo medieval, con sus Siete Calles, la catedral de Santiago, soportales y el mejor ambiente de pintxos y comercio tradicional de la ciudad."
+    imagen: "/images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp"
+    imagenAlt: "Calle del Casco Viejo de Bilbao"
   - nombre: "Mercado de la Ribera"
     descripcion: "El gran mercado modernista a orillas de la ría, uno de los más grandes de Europa, templo del producto vasco y de los pintxos."
+    imagen: "/images/actividades/bilbao/casco-viejo/mercado-ribera.webp"
+    imagenAlt: "El Mercado de la Ribera junto a la ría"
   - nombre: "Funicular de Artxanda"
     descripcion: "El funicular centenario que sube al monte Artxanda, con la mejor panorámica de Bilbao, la ría y las montañas que lo rodean."
+    imagen: "/images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp"
+    imagenAlt: "Vista de Bilbao desde el monte Artxanda"
   - nombre: "Puente Bizkaia (Portugalete)"
     descripcion: "El puente colgante más antiguo del mundo, Patrimonio de la Humanidad, en la desembocadura de la ría. Una joya de la arquitectura industrial."
+    imagen: "/images/actividades/bilbao/ria/puente-bizkaia.webp"
+    imagenAlt: "El Puente Bizkaia entre Portugalete y Getxo"
   - nombre: "San Juan de Gaztelugatxe"
     descripcion: "A media hora, el islote con su ermita unida a tierra por 241 escalones, escenario de Juego de Tronos. Una de las estampas más impresionantes del norte."
+    imagen: "/images/actividades/bilbao/gaztelugatxe/gaztelugatxe-vista.webp"
+    imagenAlt: "San Juan de Gaztelugatxe y su escalera sobre el mar"
 chipsFiltros:
   - { label: "Guggenheim", tag: "guggenheim" }
   - { label: "Costa vasca", tag: "gaztelugatxe" }

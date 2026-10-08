@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Castillo de Santa Bárbara"
     descripcion: "La gran fortaleza sobre el monte Benacantil, asomada al mar y a la ciudad. Una de las fortalezas medievales más grandes de España, con vistas de 360 grados sobre la bahía."
+    imagen: "/images/actividades/alicante/centro/castillo-santa-barbara.webp"
+    imagenAlt: "El castillo de Santa Bárbara sobre el monte Benacantil"
   - nombre: "Explanada de España"
     descripcion: "El paseo marítimo emblemático, con su suelo de mosaico ondulado de seis millones de teselas y sus palmeras. El corazón de la vida alicantina."
+    imagen: "/images/actividades/alicante/centro/explanada.webp"
+    imagenAlt: "Suelo de mosaico ondulado y palmeras de la Explanada de España"
   - nombre: "Barrio de Santa Cruz y casco antiguo"
     descripcion: "Las callejuelas blancas y empinadas a los pies del castillo, llenas de flores, junto a la Concatedral de San Nicolás y el Ayuntamiento barroco."
+    imagen: "/images/actividades/alicante/centro/santa-cruz.webp"
+    imagenAlt: "Casas blancas del barrio de Santa Cruz bajo el castillo"
   - nombre: "Playa del Postiguet y la Albufereta"
     descripcion: "La playa urbana junto al castillo, de arena dorada, y las calas cercanas. Mediterráneo a un paso del centro."
+    imagen: "/images/actividades/alicante/costa/postiguet-castillo.webp"
+    imagenAlt: "Playa del Postiguet con el castillo de Santa Bárbara al fondo"
   - nombre: "Isla de Tabarca"
     descripcion: "La única isla habitada de la Comunidad Valenciana, reserva marina, a un paseo en barco desde el puerto. Aguas cristalinas y un pueblo amurallado."
+    imagen: "/images/actividades/alicante/tabarca/tabarca-aerea.webp"
+    imagenAlt: "Vista aérea de la isla de Tabarca"
   - nombre: "Guadalest y la Costa Blanca"
     descripcion: "Hacia el interior, el pueblo de Guadalest colgado de la roca; por la costa, Benidorm, Altea, Calpe y Jávea, todo el abanico de la Costa Blanca."
+    imagen: "/images/actividades/alicante/excursiones/guadalest.webp"
+    imagenAlt: "El pueblo de Guadalest sobre la roca"
 chipsFiltros:
   - { label: "Centro y castillo", tag: "centro-historico" }
   - { label: "Mar y Tabarca", tag: "mar" }

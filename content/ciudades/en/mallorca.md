@@ -20,16 +20,28 @@ slugs:
 atracciones:
   - nombre: "Palma Cathedral (La Seu)"
     descripcion: "The great seafront Gothic cathedral, with interventions by Gaudí and a spectacular rose window. The symbol of Palma and of the whole island."
+    imagen: "/images/ciudades/hero/mallorca.webp"
+    imagenAlt: "Palma Cathedral reflected in the Parc de la Mar lake"
   - nombre: "Drach Caves"
     descripcion: "Mallorca's most famous caves, in Porto Cristo, with one of the largest underground lakes in the world and classical music concerts over the water."
+    imagen: "/images/actividades/mallorca/cuevas-drach/lago-martel-azul.webp"
+    imagenAlt: "Lake Martel lit up inside the Drach Caves"
   - nombre: "Serra de Tramuntana"
     descripcion: "The World Heritage mountain range along the north-west: stone villages, viewpoints, terraced olive groves and vertiginous roads like Sa Calobra."
+    imagen: "/images/actividades/mallorca/soller/sa-calobra-costa.webp"
+    imagenAlt: "The Sa Calobra coast in the Serra de Tramuntana"
   - nombre: "Valldemossa and Sóller"
     descripcion: "Two of the prettiest villages in the Tramuntana: Valldemossa, with the charterhouse where Chopin stayed, and Sóller, linked to Palma by a century-old wooden train."
+    imagen: "/images/actividades/mallorca/soller/tranvia-soller-tranvia.webp"
+    imagenAlt: "The historic Sóller tram"
   - nombre: "Cap de Formentor"
     descripcion: "The island's most spectacular cape, at the northern tip: cliffs, a lighthouse and viewpoints over the Mediterranean."
+    imagen: "/images/atracciones/mallorca/formentor.webp"
+    imagenAlt: "Formentor lighthouse on the cliffs at sunset"
   - nombre: "The coves and beaches"
     descripcion: "From Playa de Palma to the unspoiled coves of the east and south (Es Trenc, Cala Mondragó): the most varied range of beaches in the Balearics."
+    imagen: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
+    imagenAlt: "Peguera bay on the south-west coast of Mallorca"
 chipsFiltros:
   - { label: "Caves of Drach", tag: "cuevas-drach" }
   - { label: "Tramuntana and Sóller", tag: "tramuntana" }

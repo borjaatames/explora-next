@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Catedral de Santiago"
     descripcion: "La meta del Camino y una de las grandes catedrales de Europa: el Pórtico de la Gloria, el botafumeiro y la tumba del Apóstol. Corazón espiritual de la ciudad."
+    imagen: "/images/actividades/santiago-de-compostela/catedral/catedral-torres.webp"
+    imagenAlt: "Torres de la Catedral de Santiago"
   - nombre: "Plaza del Obradoiro"
     descripcion: "La gran plaza frente a la fachada barroca de la catedral, rodeada del Hostal de los Reyes Católicos y el Pazo de Raxoi. El punto donde acaban los peregrinos."
+    imagen: "/images/actividades/santiago-de-compostela/catedral/obradoiro.webp"
+    imagenAlt: "La plaza del Obradoiro frente a la catedral"
   - nombre: "Casco histórico"
     descripcion: "El laberinto de calles de piedra con soportales, plazas e iglesias, Patrimonio de la Humanidad. Uno de los conjuntos medievales mejor conservados de España."
+    imagen: "/images/actividades/santiago-de-compostela/casco/rua-vilar.webp"
+    imagenAlt: "La Rúa do Vilar en el casco histórico"
   - nombre: "Camino de Santiago"
     descripcion: "La red de rutas de peregrinación que confluyen en la ciudad desde toda Europa. El último tramo, desde Sarria o el Monte do Gozo, llena Santiago de caminantes."
+    imagen: "/images/actividades/santiago-de-compostela/casco/peregrinos.webp"
+    imagenAlt: "Peregrinos llegando a Santiago"
   - nombre: "Mercado de Abastos"
     descripcion: "El segundo lugar más visitado tras la catedral: el gran mercado de producto gallego, donde comprar marisco, pulpo, queso y empanada y que te lo cocinen al momento."
+    imagen: "/images/actividades/santiago-de-compostela/casco/mercado-abastos.webp"
+    imagenAlt: "El Mercado de Abastos de Santiago"
   - nombre: "Parque de la Alameda"
     descripcion: "El parque clásico de la ciudad, con la mejor vista de la catedral y sus torres sobre el casco histórico, sobre todo al atardecer."
+    imagen: "/images/actividades/santiago-de-compostela/casco/alameda.webp"
+    imagenAlt: "Paseo arbolado del parque de la Alameda"
 chipsFiltros:
   - { label: "Catedral", tag: "catedral" }
   - { label: "Casco antiguo", tag: "centro-historico" }

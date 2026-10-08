@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Römisches Amphitheater"
     descripcion: "Das Amphitheater aus dem 2. Jahrhundert am Meer, wo einst Gladiatoren kämpften, mit Rängen, die zum Mittelmeer blicken. Das berühmteste Bild des römischen Tarraco."
+    imagen: "/images/actividades/tarragona/romana/anfiteatro.webp"
+    imagenAlt: "Das römische Amphitheater von Tarragona am Meer"
   - nombre: "Archäologisches Ensemble von Tárraco"
     descripcion: "Der römische Zirkus, das Forum und die Stadtmauern, UNESCO-Welterbe. Tarragona bewahrt eines der vollständigsten römischen Ensembles der Halbinsel."
+    imagen: "/images/actividades/tarragona/romana/circo-romano.webp"
+    imagenAlt: "Überreste des römischen Circus von Tarraco"
   - nombre: "Kathedrale von Tarragona"
     descripcion: "Die mittelalterliche Kathedrale, die Romanik und Gotik vereint, hoch oben in der Altstadt, errichtet über dem einstigen römischen Tempel."
+    imagen: "/images/actividades/tarragona/catedral/catedral.webp"
+    imagenAlt: "Die Kathedrale von Tarragona"
   - nombre: "Balcó del Mediterrani"
     descripcion: "Der Aussichtspunkt über dem Meer am Ende der Rambla Nova, mit Blick auf Amphitheater und Hafen. Der Ort der Tradition 'tocar ferro' (Eisen berühren)."
+    imagen: "/images/atracciones/tarragona/balco.webp"
+    imagenAlt: "Blick auf die Küste von Tarragona und den Strand Miracle"
   - nombre: "Aquädukt von les Ferreres (Pont del Diable)"
     descripcion: "Das römische Aquädukt am Stadtrand, eines der besterhaltenen Spaniens, mitten in der Natur."
+    imagen: "/images/atracciones/tarragona/pont-del-diable.webp"
+    imagenAlt: "Das römische Aquädukt Les Ferreres (Pont del Diable)"
   - nombre: "PortAventura World (Salou)"
     descripcion: "Nur wenige Kilometer entfernt, einer der größten Freizeitparks Europas, mit Ferrari Land. Die große Familienattraktion der Costa Daurada."
+    imagen: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
+    imagenAlt: "Achterbahnen in PortAventura World"
 chipsFiltros:
   - { label: "Tarraco und Kathedrale", tag: "tarraco" }
   - { label: "PortAventura", tag: "portaventura" }

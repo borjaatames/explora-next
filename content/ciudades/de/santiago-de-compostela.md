@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Kathedrale von Santiago"
     descripcion: "Das Ziel des Jakobswegs und eine der großen Kathedralen Europas: das Pórtico de la Gloria, der Botafumeiro und das Grab des Apostels. Das geistliche Herz der Stadt."
+    imagen: "/images/actividades/santiago-de-compostela/catedral/catedral-torres.webp"
+    imagenAlt: "Die Türme der Kathedrale von Santiago"
   - nombre: "Plaza del Obradoiro"
     descripcion: "Der große Platz vor der barocken Fassade der Kathedrale, umgeben vom Hostal de los Reyes Católicos und dem Pazo de Raxoi. Der Ort, an dem die Pilger ihre Reise beenden."
+    imagen: "/images/actividades/santiago-de-compostela/catedral/obradoiro.webp"
+    imagenAlt: "Die Plaza del Obradoiro vor der Kathedrale"
   - nombre: "Historische Altstadt"
     descripcion: "Das Labyrinth steinerner Gassen mit Arkaden, Plätzen und Kirchen, UNESCO-Weltkulturerbe. Eines der besterhaltenen mittelalterlichen Ensembles Spaniens."
+    imagen: "/images/actividades/santiago-de-compostela/casco/rua-vilar.webp"
+    imagenAlt: "Die Rúa do Vilar in der Altstadt"
   - nombre: "Jakobsweg"
     descripcion: "Das Netz der Pilgerwege, die aus ganz Europa in der Stadt zusammenlaufen. Der letzte Abschnitt, ab Sarria oder dem Monte do Gozo, füllt Santiago mit Wanderern."
+    imagen: "/images/actividades/santiago-de-compostela/casco/peregrinos.webp"
+    imagenAlt: "Pilger bei der Ankunft in Santiago"
   - nombre: "Mercado de Abastos"
     descripcion: "Der nach der Kathedrale meistbesuchte Ort: der große Markt für galicische Produkte, wo man Meeresfrüchte, Oktopus, Käse und Empanada kaufen und direkt zubereiten lassen kann."
+    imagen: "/images/actividades/santiago-de-compostela/casco/mercado-abastos.webp"
+    imagenAlt: "Der Mercado de Abastos in Santiago"
   - nombre: "Parque de la Alameda"
     descripcion: "Der klassische Stadtpark mit dem besten Blick auf die Kathedrale und ihre Türme über der Altstadt, besonders bei Sonnenuntergang."
+    imagen: "/images/actividades/santiago-de-compostela/casco/alameda.webp"
+    imagenAlt: "Ein baumgesäumter Weg im Parque de la Alameda"
 chipsFiltros:
   - { label: "Kathedrale", tag: "catedral" }
   - { label: "Altstadt", tag: "centro-historico" }

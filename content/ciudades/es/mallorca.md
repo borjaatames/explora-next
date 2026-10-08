@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Catedral de Palma (La Seu)"
     descripcion: "La gran catedral gótica frente al mar, con intervenciones de Gaudí y un rosetón espectacular. El símbolo de Palma y de toda la isla."
+    imagen: "/images/ciudades/hero/mallorca.webp"
+    imagenAlt: "Catedral de Palma reflejada en el lago del Parc de la Mar"
   - nombre: "Cuevas del Drach"
     descripcion: "Las cuevas más famosas de Mallorca, en Porto Cristo, con uno de los lagos subterráneos más grandes del mundo y conciertos de música clásica sobre el agua."
+    imagen: "/images/actividades/mallorca/cuevas-drach/lago-martel-azul.webp"
+    imagenAlt: "El lago Martel iluminado en las Cuevas del Drach"
   - nombre: "Serra de Tramuntana"
     descripcion: "La cordillera Patrimonio de la Humanidad que recorre el noroeste: pueblos de piedra, miradores, olivares en bancales y carreteras de vértigo como Sa Calobra."
+    imagen: "/images/actividades/mallorca/soller/sa-calobra-costa.webp"
+    imagenAlt: "Costa de Sa Calobra en la Serra de Tramuntana"
   - nombre: "Valldemossa y Sóller"
     descripcion: "Dos de los pueblos más bonitos de la Tramuntana: Valldemossa, con su cartuja donde vivió Chopin, y Sóller, unida a Palma por un tren de madera centenario."
+    imagen: "/images/actividades/mallorca/soller/tranvia-soller-tranvia.webp"
+    imagenAlt: "El tranvía histórico de Sóller"
   - nombre: "Cap de Formentor"
     descripcion: "El cabo más espectacular de la isla, en el extremo norte: acantilados, faro y miradores sobre el Mediterráneo."
+    imagen: "/images/atracciones/mallorca/formentor.webp"
+    imagenAlt: "El faro de Formentor sobre los acantilados al atardecer"
   - nombre: "Las calas y playas"
     descripcion: "Desde la Playa de Palma hasta las calas vírgenes del este y el sur (Es Trenc, Cala Mondragó): el abanico de playas más variado de Baleares."
+    imagen: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
+    imagenAlt: "Bahía de Peguera en la costa suroeste de Mallorca"
 chipsFiltros:
   - { label: "Cuevas del Drach", tag: "cuevas-drach" }
   - { label: "Tramuntana y Sóller", tag: "tramuntana" }

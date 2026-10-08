@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Burg Santa Bárbara"
     descripcion: "Die große Festung auf dem Berg Benacantil, mit Blick auf Meer und Stadt. Eine der größten mittelalterlichen Festungen Spaniens, mit einem 360-Grad-Panorama über die Bucht."
+    imagen: "/images/actividades/alicante/centro/castillo-santa-barbara.webp"
+    imagenAlt: "Die Burg Santa Bárbara auf dem Berg Benacantil"
   - nombre: "Explanada de España"
     descripcion: "Die emblematische Strandpromenade mit ihrem gewellten Mosaikboden aus sechs Millionen Fliesen und ihren Palmen. Das Herz des Lebens in Alicante."
+    imagen: "/images/actividades/alicante/centro/explanada.webp"
+    imagenAlt: "Gewelltes Mosaikpflaster und Palmen der Explanada de España"
   - nombre: "Viertel Santa Cruz und Altstadt"
     descripcion: "Die weißen, steilen Gassen am Fuß der Burg, voller Blumen, neben der Konkathedrale San Nicolás und dem barocken Rathaus."
+    imagen: "/images/actividades/alicante/centro/santa-cruz.webp"
+    imagenAlt: "Weiße Häuser im Viertel Santa Cruz unterhalb der Burg"
   - nombre: "Strand Postiguet und La Albufereta"
     descripcion: "Der goldene Stadtstrand neben der Burg und die nahegelegenen Buchten. Mittelmeer nur einen Schritt vom Zentrum entfernt."
+    imagen: "/images/actividades/alicante/costa/postiguet-castillo.webp"
+    imagenAlt: "Strand Postiguet mit der Burg Santa Bárbara im Hintergrund"
   - nombre: "Insel Tabarca"
     descripcion: "Die einzige bewohnte Insel der Valencianischen Gemeinschaft, ein Meeresschutzgebiet, mit dem Boot vom Hafen aus erreichbar. Kristallklares Wasser und ein ummauertes Dorf."
+    imagen: "/images/actividades/alicante/tabarca/tabarca-aerea.webp"
+    imagenAlt: "Luftaufnahme der Insel Tabarca"
   - nombre: "Guadalest und die Costa Blanca"
     descripcion: "Landeinwärts das auf dem Felsen thronende Dorf Guadalest; an der Küste Benidorm, Altea, Calpe und Jávea – das gesamte Spektrum der Costa Blanca."
+    imagen: "/images/actividades/alicante/excursiones/guadalest.webp"
+    imagenAlt: "Das Dorf Guadalest auf seinem Felsen"
 chipsFiltros:
   - { label: "Altstadt und Burg", tag: "centro-historico" }
   - { label: "Meer und Tabarca", tag: "mar" }

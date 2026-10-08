@@ -20,16 +20,28 @@ slugs:
 atracciones:
   - nombre: "Roman Amphitheatre"
     descripcion: "The 2nd-century amphitheatre by the sea, where gladiators fought, with its tiers looking out over the Mediterranean. The most famous image of Roman Tarraco."
+    imagen: "/images/actividades/tarragona/romana/anfiteatro.webp"
+    imagenAlt: "Tarragona’s Roman amphitheatre by the sea"
   - nombre: "Tárraco archaeological complex"
     descripcion: "The Roman circus, the forum and the walls, a UNESCO World Heritage Site. Tarragona preserves one of the most complete Roman complexes on the peninsula."
+    imagen: "/images/actividades/tarragona/romana/circo-romano.webp"
+    imagenAlt: "Remains of the Roman circus of Tarraco"
   - nombre: "Tarragona Cathedral"
     descripcion: "The medieval cathedral mixing Romanesque and Gothic, atop the old town, built over the former Roman temple."
+    imagen: "/images/actividades/tarragona/catedral/catedral.webp"
+    imagenAlt: "Tarragona Cathedral"
   - nombre: "Balcó del Mediterrani"
     descripcion: "The clifftop viewpoint over the sea at the end of the Rambla Nova, with views of the amphitheatre and the port. Home to the 'touch iron' tradition."
+    imagen: "/images/atracciones/tarragona/balco.webp"
+    imagenAlt: "View of the Tarragona coast and Miracle beach"
   - nombre: "Les Ferreres Aqueduct (Devil's Bridge)"
     descripcion: "The Roman aqueduct on the outskirts, one of the best preserved in Spain, set in open countryside."
+    imagen: "/images/atracciones/tarragona/pont-del-diable.webp"
+    imagenAlt: "The Roman aqueduct of Les Ferreres (Pont del Diable)"
   - nombre: "PortAventura World (Salou)"
     descripcion: "A few kilometres away, one of the largest theme parks in Europe, with Ferrari Land. The big family draw of the Costa Daurada."
+    imagen: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
+    imagenAlt: "Roller coasters at PortAventura World"
 chipsFiltros:
   - { label: "Tarraco and cathedral", tag: "tarraco" }
   - { label: "PortAventura", tag: "portaventura" }

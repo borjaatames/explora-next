@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Guggenheim-Museum"
     descripcion: "Das Museum von Frank Gehry, das die Stadt veränderte: gewelltes Titan am Ufer der Ría, mit 'Puppy' und der Spinnenskulptur 'Maman' vor den Toren. Das Symbol des modernen Bilbao."
+    imagen: "/images/actividades/bilbao/guggenheim/guggenheim-ria.webp"
+    imagenAlt: "Das Guggenheim-Museum an der Flussmündung von Bilbao"
   - nombre: "Altstadt (Siete Calles)"
     descripcion: "Der mittelalterliche Kern der Stadt mit seinen sieben Straßen ('Siete Calles'), der Kathedrale Santiago, Arkaden und dem besten Pintxos- und Einzelhandelsflair der Stadt."
+    imagen: "/images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp"
+    imagenAlt: "Eine Gasse in der Altstadt von Bilbao"
   - nombre: "Mercado de la Ribera"
     descripcion: "Die große Jugendstil-Markthalle am Ufer der Ría, eine der größten Europas, ein Tempel für baskische Produkte und Pintxos."
+    imagen: "/images/actividades/bilbao/casco-viejo/mercado-ribera.webp"
+    imagenAlt: "Der Mercado de la Ribera an der Flussmündung"
   - nombre: "Standseilbahn Artxanda"
     descripcion: "Die jahrhundertealte Standseilbahn auf den Berg Artxanda mit dem besten Panoramablick auf Bilbao, die Ría und die umliegenden Berge."
+    imagen: "/images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp"
+    imagenAlt: "Blick auf Bilbao vom Berg Artxanda"
   - nombre: "Puente Bizkaia (Portugalete)"
     descripcion: "Die älteste Schwebefähre der Welt, UNESCO-Weltkulturerbe, an der Mündung der Ría. Ein Juwel der Industriearchitektur."
+    imagen: "/images/actividades/bilbao/ria/puente-bizkaia.webp"
+    imagenAlt: "Die Puente Bizkaia zwischen Portugalete und Getxo"
   - nombre: "San Juan de Gaztelugatxe"
     descripcion: "Eine halbe Stunde entfernt: die Felseninsel mit ihrer Einsiedelei, verbunden mit dem Festland durch 241 Stufen, Drehort von Game of Thrones. Eines der eindrucksvollsten Bilder des Nordens."
+    imagen: "/images/actividades/bilbao/gaztelugatxe/gaztelugatxe-vista.webp"
+    imagenAlt: "San Juan de Gaztelugatxe mit seiner Treppe über dem Meer"
 chipsFiltros:
   - { label: "Guggenheim", tag: "guggenheim" }
   - { label: "Baskische Küste", tag: "gaztelugatxe" }

@@ -21,16 +21,28 @@ slugs:
 atracciones:
   - nombre: "Kathedrale von Cádiz"
     descripcion: "Die barocke und neoklassizistische Kathedrale am Atlantik, mit ihrer goldenen Kuppel. Steigen Sie auf den Uhrturm, um die Stadt rundum vom Meer umgeben zu sehen."
+    imagen: "/images/actividades/cadiz/centro/catedral-fachada.webp"
+    imagenAlt: "Fassade der Kathedrale von Cádiz"
   - nombre: "Torre Tavira und die Wachtürme"
     descripcion: "Der höchste Wachturm der Altstadt, mit einer Camera obscura. Erinnerung an das Handelscádiz des 18. Jahrhunderts, als die Stadt den Handel mit Amerika monopolisierte."
+    imagen: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
+    imagenAlt: "Die Dächer von Cádiz vom Torre Tavira aus"
   - nombre: "Das Viertel El Pópulo und die Altstadt"
     descripcion: "Der mittelalterliche Kern, der älteste Teil der Stadt, mit seinen Torbögen, dem Römischen Theater und den charmanten Plätzen, in denen das echte, alltägliche Cádiz pulsiert."
+    imagen: "/images/actividades/cadiz/centro/arco-blanco-populo.webp"
+    imagenAlt: "Torbogen ins Viertel El Pópulo"
   - nombre: "Der Strand La Caleta"
     descripcion: "Der Stadtstrand zwischen den Burgen San Sebastián und Santa Catalina, der urtypischste Strand von Cádiz und eine bekannte Filmkulisse. Postkartenhafte Sonnenuntergänge."
+    imagen: "/images/actividades/cadiz/mar/caleta-playa.webp"
+    imagenAlt: "Der Strand La Caleta mit seinem Badehaus"
   - nombre: "Jerez de la Frontera"
     descripcion: "Eine halbe Stunde entfernt, die Wiege des Sherry-Weins, des Flamenco und der Pferde: jahrhundertealte Weinkeller und die Königliche Andalusische Reitschule."
+    imagen: "/images/actividades/cadiz/bodega/botas-arcos.webp"
+    imagenAlt: "Weinfässer unter den Bögen einer Bodega in Jerez"
   - nombre: "Tarifa und die Strände"
     descripcion: "Im Süden die großen windgepeitschten Strände der Costa de la Luz, ein Paradies für Kitesurfer, mit Afrika auf der anderen Seite der Meerenge."
+    imagen: "/images/atracciones/cadiz/tarifa.webp"
+    imagenAlt: "Kitesurf-Schirme über einem Strand in Tarifa"
 chipsFiltros:
   - { label: "Bootsfahrten", tag: "barco" }
   - { label: "Altstadt", tag: "centro-historico" }

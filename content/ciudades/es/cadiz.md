@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Catedral de Cádiz"
     descripcion: "La catedral barroca y neoclásica frente al Atlántico, con su cúpula dorada. Sube a la Torre del Reloj para ver la ciudad rodeada de mar por todos lados."
+    imagen: "/images/actividades/cadiz/centro/catedral-fachada.webp"
+    imagenAlt: "Fachada de la Catedral de Cádiz"
   - nombre: "Torre Tavira y las torres miradoras"
     descripcion: "La torre vigía más alta del casco antiguo, con cámara oscura. Recuerdo de la Cádiz comercial del siglo XVIII, cuando la ciudad monopolizaba el comercio con América."
+    imagen: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
+    imagenAlt: "Los tejados de Cádiz vistos desde la Torre Tavira"
   - nombre: "Barrio del Pópulo y casco antiguo"
     descripcion: "El núcleo medieval, el más antiguo de la ciudad, con sus arcos, el teatro romano y las plazas con encanto donde late la Cádiz de toda la vida."
+    imagen: "/images/actividades/cadiz/centro/arco-blanco-populo.webp"
+    imagenAlt: "Arco de entrada al barrio del Pópulo"
   - nombre: "Playa de la Caleta"
     descripcion: "La playa urbana entre los castillos de San Sebastián y Santa Catalina, la más castiza de Cádiz y escenario de cine. Atardeceres de postal."
+    imagen: "/images/actividades/cadiz/mar/caleta-playa.webp"
+    imagenAlt: "La playa de La Caleta con su balneario"
   - nombre: "Jerez de la Frontera"
     descripcion: "A media hora, la cuna del vino de Jerez, el flamenco y los caballos: bodegas centenarias y la Real Escuela Andaluza del Arte Ecuestre."
+    imagen: "/images/actividades/cadiz/bodega/botas-arcos.webp"
+    imagenAlt: "Botas de vino bajo los arcos de una bodega de Jerez"
   - nombre: "Tarifa y las playas"
     descripcion: "Al sur, las grandes playas de viento de la Costa de la Luz, paraíso del kitesurf, con África al otro lado del Estrecho."
+    imagen: "/images/atracciones/cadiz/tarifa.webp"
+    imagenAlt: "Cometas de kitesurf en una playa de Tarifa"
 chipsFiltros:
   - { label: "En barco", tag: "barco" }
   - { label: "Casco antiguo", tag: "centro-historico" }

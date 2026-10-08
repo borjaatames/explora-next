@@ -20,16 +20,28 @@ slugs:
 atracciones:
   - nombre: "Santa Bárbara Castle"
     descripcion: "The great fortress on Mount Benacantil, overlooking the sea and the city. One of the largest medieval fortresses in Spain, with 360-degree views over the bay."
+    imagen: "/images/actividades/alicante/centro/castillo-santa-barbara.webp"
+    imagenAlt: "Santa Bárbara Castle on Mount Benacantil"
   - nombre: "Explanada de España"
     descripcion: "The emblematic seafront promenade, with its wavy mosaic floor of six million tiles and its palm trees. The heart of Alicante life."
+    imagen: "/images/actividades/alicante/centro/explanada.webp"
+    imagenAlt: "Wavy mosaic paving and palm trees on the Explanada de España"
   - nombre: "Santa Cruz quarter and old town"
     descripcion: "The white, steep lanes at the foot of the castle, full of flowers, next to the Co-Cathedral of San Nicolás and the Baroque town hall."
+    imagen: "/images/actividades/alicante/centro/santa-cruz.webp"
+    imagenAlt: "White houses of the Santa Cruz quarter below the castle"
   - nombre: "Postiguet beach and La Albufereta"
     descripcion: "The golden-sand urban beach beside the castle, and the nearby coves. The Mediterranean a step from the centre."
+    imagen: "/images/actividades/alicante/costa/postiguet-castillo.webp"
+    imagenAlt: "Postiguet beach with Santa Bárbara Castle behind"
   - nombre: "Tabarca Island"
     descripcion: "The only inhabited island in the Valencian Community, a marine reserve, a boat ride from the port. Crystal-clear waters and a walled village."
+    imagen: "/images/actividades/alicante/tabarca/tabarca-aerea.webp"
+    imagenAlt: "Aerial view of Tabarca Island"
   - nombre: "Guadalest and the Costa Blanca"
     descripcion: "Inland, the village of Guadalest perched on the rock; along the coast, Benidorm, Altea, Calpe and Jávea, the full sweep of the Costa Blanca."
+    imagen: "/images/actividades/alicante/excursiones/guadalest.webp"
+    imagenAlt: "The village of Guadalest on its rock"
 chipsFiltros:
   - { label: "Old Town and castle", tag: "centro-historico" }
   - { label: "Sea and Tabarca", tag: "mar" }

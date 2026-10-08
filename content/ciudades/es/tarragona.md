@@ -17,16 +17,28 @@ keywords:
 atracciones:
   - nombre: "Anfiteatro Romano"
     descripcion: "El anfiteatro del siglo II junto al mar, donde luchaban los gladiadores, con las gradas mirando al Mediterráneo. La imagen más célebre de la Tarraco romana."
+    imagen: "/images/actividades/tarragona/romana/anfiteatro.webp"
+    imagenAlt: "El anfiteatro romano de Tarragona junto al mar"
   - nombre: "Conjunto arqueológico de Tárraco"
     descripcion: "El circo romano, el foro y las murallas, Patrimonio de la Humanidad. Tarragona conserva uno de los conjuntos romanos más completos de la península."
+    imagen: "/images/actividades/tarragona/romana/circo-romano.webp"
+    imagenAlt: "Restos del circo romano de Tárraco"
   - nombre: "Catedral de Tarragona"
     descripcion: "La catedral medieval que mezcla románico y gótico, en lo alto del casco antiguo, construida sobre el antiguo templo romano."
+    imagen: "/images/actividades/tarragona/catedral/catedral.webp"
+    imagenAlt: "La Catedral de Tarragona"
   - nombre: "Balcó del Mediterrani"
     descripcion: "El mirador sobre el mar al final de la Rambla Nova, con vistas al anfiteatro y al puerto. El lugar de la tradición de 'tocar ferro'."
+    imagen: "/images/atracciones/tarragona/balco.webp"
+    imagenAlt: "Vista de la costa de Tarragona y la playa del Miracle"
   - nombre: "Acueducto de les Ferreres (Pont del Diable)"
     descripcion: "El acueducto romano a las afueras, uno de los mejor conservados de España, en plena naturaleza."
+    imagen: "/images/atracciones/tarragona/pont-del-diable.webp"
+    imagenAlt: "El acueducto romano de les Ferreres (Pont del Diable)"
   - nombre: "PortAventura World (Salou)"
     descripcion: "A pocos kilómetros, uno de los mayores parques de atracciones de Europa, con Ferrari Land. El gran reclamo familiar de la Costa Daurada."
+    imagen: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
+    imagenAlt: "Montañas rusas de PortAventura World"
 chipsFiltros:
   - { label: "Tarraco y catedral", tag: "tarraco" }
   - { label: "PortAventura", tag: "portaventura" }
