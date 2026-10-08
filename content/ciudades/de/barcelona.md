@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Fassade der Sagrada Família in Barcelona"
 comunidad: "Katalonien"
 imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagenResumenAlt: "Gaudís Park Güell in Barcelona"
-imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero.webp"
-imagenAlt: "Sagrada Família in Barcelona, Gaudís Meisterwerk, mit ihren Türmen unter blauem Himmel"
+imagen: "/images/ciudades/hero/barcelona.webp"
+imagenAlt: "Sagrada Família bei Sonnenuntergang mit dem Tibidabo im Hintergrund"
 publicada: true
 destacada: true
 orden: 2

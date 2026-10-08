@@ -3,8 +3,8 @@ nombre: "Salamanca"
 slug: "salamanca"
 descripcion: "La ciudad dorada de Castilla: Plaza Mayor barroca, la universidad más antigua de España y piedra de Villamayor en cada esquina."
 comunidad: "Castilla y León"
-imagen: "/ciudades/salamanca.jpg"
-imagenAlt: "Vista de Salamanca con la Catedral y la piedra dorada al atardecer"
+imagen: "/images/ciudades/hero/salamanca.webp"
+imagenAlt: "Catedrales de Salamanca reflejadas en el río Tormes"
 publicada: true
 destacada: true
 orden: 11

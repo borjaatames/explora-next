@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "San Cristóbal de La Laguna con el Teide al fondo"
 comunidad: "Canarias"
 imagenResumen: "/images/actividades/tenerife/ciudad/auditorio-tenerife.webp"
 imagenResumenAlt: "Auditorio de Tenerife, en Santa Cruz"
-imagen: "/images/actividades/tenerife/teide/teide-nordeste.webp"
-imagenAlt: "El Teide visto desde el noreste"
+imagen: "/images/ciudades/hero/tenerife.webp"
+imagenAlt: "Roques de García con el Teide al fondo"
 publicada: true
 destacada: false
 orden: 18

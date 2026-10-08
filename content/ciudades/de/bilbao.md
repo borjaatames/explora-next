@@ -3,8 +3,8 @@ nombre: "Bilbao"
 slug: "bilbao"
 descripcion: "Das Guggenheim, die Altstadt und die beste Pintxos-Küche. Die Hauptstadt Biskayas, die von der Industriestadt zur weltweiten Design-Ikone wurde."
 comunidad: "Baskenland"
-imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
-imagenAlt: "Das Guggenheim-Museum in Bilbao am Ufer der Ría"
+imagen: "/images/ciudades/hero/bilbao.webp"
+imagenAlt: "Guggenheim-Museum Bilbao an der Flussmündung bei Sonnenuntergang"
 publicada: true
 destacada: false
 orden: 7

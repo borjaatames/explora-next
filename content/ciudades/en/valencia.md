@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Valencia Cathedral and the Miguelete"
 comunidad: "Valencian Community"
 imagenResumen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-unsplash-OerQvrNvozU.jpg"
 imagenResumenAlt: "Ciudad de las Artes y las Ciencias de Valencia"
-imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
-imagenAlt: "The City of Arts and Sciences in Valencia reflected in the water"
+imagen: "/images/ciudades/hero/valencia.webp"
+imagenAlt: "Hemisfèric and Science Museum reflected in the water"
 publicada: true
 destacada: false
 orden: 3

@@ -3,8 +3,8 @@ nombre: "Santiago de Compostela"
 slug: "santiago-de-compostela"
 descripcion: "Das Ende des Jakobswegs: die Kathedrale, der Obradoiro-Platz und eine von der UNESCO geschützte historische Altstadt aus Stein. Die geistliche Hauptstadt Galiciens."
 comunidad: "Galicien"
-imagen: "/images/actividades/santiago-de-compostela/ciudades/santiago-de-compostela-hero.webp"
-imagenAlt: "Die Kathedrale von Santiago de Compostela und die Fassade des Obradoiro"
+imagen: "/images/ciudades/hero/santiago-de-compostela.webp"
+imagenAlt: "Blick auf Santiago de Compostela mit den Türmen der Kathedrale"
 publicada: true
 destacada: false
 orden: 15

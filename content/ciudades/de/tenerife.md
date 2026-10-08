@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "San Cristóbal de La Laguna mit dem Teide im Hintergrund"
 comunidad: "Kanarische Inseln"
 imagenResumen: "/images/actividades/tenerife/ciudad/auditorio-tenerife.webp"
 imagenResumenAlt: "Das Auditorio de Tenerife in Santa Cruz"
-imagen: "/images/actividades/tenerife/teide/teide-nordeste.webp"
-imagenAlt: "Der Teide von Nordosten"
+imagen: "/images/ciudades/hero/tenerife.webp"
+imagenAlt: "Roques de García mit dem Teide im Hintergrund"
 publicada: true
 destacada: false
 orden: 18

@@ -3,8 +3,8 @@ nombre: "Salamanca"
 slug: "salamanca"
 descripcion: "The golden city of Castile: a Baroque Plaza Mayor, Spain's oldest university, and Villamayor sandstone on every corner."
 comunidad: "Castile and León"
-imagen: "/ciudades/salamanca.jpg"
-imagenAlt: "View of Salamanca with its Cathedral and golden stone at sunset"
+imagen: "/images/ciudades/hero/salamanca.webp"
+imagenAlt: "Salamanca cathedrals reflected in the Tormes river"
 publicada: true
 destacada: true
 orden: 11

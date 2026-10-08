@@ -3,8 +3,8 @@ nombre: "Alicante"
 slug: "alicante"
 descripcion: "A castle above the sea, the Explanada promenade and urban beaches. The capital of the Costa Blanca, sunny and Mediterranean all year round."
 comunidad: "Valencian Community"
-imagen: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-imagenAlt: "View of Alicante bay with the marina and the hill of Santa Bárbara Castle"
+imagen: "/images/ciudades/hero/alicante.webp"
+imagenAlt: "Santa Bárbara Castle above Alicante at sunset"
 publicada: true
 destacada: false
 orden: 8

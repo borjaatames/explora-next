@@ -3,8 +3,8 @@ nombre: "Cádiz"
 slug: "cadiz"
 descripcion: "Die älteste durchgehend bewohnte Stadt des Westens, von drei Seiten vom Meer umgeben. Altstadt, Stadtstrände und der Charme der 'Tacita de Plata'."
 comunidad: "Andalusien"
-imagen: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-imagenAlt: "Wachturm von Cádiz mit der Altstadt und dem Meer im Hintergrund"
+imagen: "/images/ciudades/hero/cadiz.webp"
+imagenAlt: "Uferpromenade von Cádiz mit der Kathedrale bei Sonnenuntergang"
 publicada: true
 destacada: false
 orden: 13

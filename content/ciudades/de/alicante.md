@@ -3,8 +3,8 @@ nombre: "Alicante"
 slug: "alicante"
 descripcion: "Ein Schloss über dem Meer, die Strandpromenade Explanada und Stadtstrände. Die Hauptstadt der Costa Blanca, sonnig und mediterran das ganze Jahr über."
 comunidad: "Valencianische Gemeinschaft"
-imagen: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-imagenAlt: "Blick auf die Bucht von Alicante mit dem Hafen und dem Berg der Burg Santa Bárbara"
+imagen: "/images/ciudades/hero/alicante.webp"
+imagenAlt: "Burg Santa Bárbara über Alicante bei Sonnenuntergang"
 publicada: true
 destacada: false
 orden: 8

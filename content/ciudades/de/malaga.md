@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Die Alcazaba von Málaga über der Stadt"
 comunidad: "Andalusien"
 imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp"
 imagenResumenAlt: "Blick auf Málaga: der Hafen und die Kathedrale"
-imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
-imagenAlt: "Blick auf Málaga mit der Alcazaba und dem Mittelmeer"
+imagen: "/images/ciudades/hero/malaga.webp"
+imagenAlt: "Hafen und Stadt Málaga bei Sonnenuntergang von oben"
 publicada: true
 destacada: false
 orden: 5

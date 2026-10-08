@@ -3,8 +3,8 @@ nombre: "Mallorca"
 slug: "mallorca"
 descripcion: "Die Kathedrale von Palma, die Drachenhöhlen und die Serra de Tramuntana. Die größte der Balearen-Inseln, ein Mix aus Traumstränden und einer Bergkette, die zum Weltkulturerbe zählt."
 comunidad: "Balearen"
-imagen: "/images/actividades/mallorca/ciudades/mallorca-hero.webp"
-imagenAlt: "Die Kathedrale von Palma de Mallorca (La Seu) am Meer"
+imagen: "/images/ciudades/hero/mallorca.webp"
+imagenAlt: "Die Kathedrale von Palma spiegelt sich im See des Parc de la Mar"
 publicada: true
 destacada: false
 orden: 6

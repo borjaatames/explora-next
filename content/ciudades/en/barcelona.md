@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Facade of the Sagrada Família in Barcelona"
 comunidad: "Catalonia"
 imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagenResumenAlt: "Park Güell de Gaudí en Barcelona"
-imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero.webp"
-imagenAlt: "Sagrada Familia basilica in Barcelona, Gaudí's masterpiece, with its towers against a blue sky"
+imagen: "/images/ciudades/hero/barcelona.webp"
+imagenAlt: "Sagrada Familia at sunset with Tibidabo behind"
 publicada: true
 destacada: true
 orden: 2

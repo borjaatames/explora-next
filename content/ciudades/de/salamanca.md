@@ -3,8 +3,8 @@ nombre: "Salamanca"
 slug: "salamanca"
 descripcion: "Die goldene Stadt Kastiliens: barocke Plaza Mayor, Spaniens älteste Universität und Villamayor-Sandstein an jeder Ecke."
 comunidad: "Kastilien und León"
-imagen: "/ciudades/salamanca.jpg"
-imagenAlt: "Blick auf Salamanca mit der Kathedrale und dem goldenen Stein bei Sonnenuntergang"
+imagen: "/images/ciudades/hero/salamanca.webp"
+imagenAlt: "Die Kathedralen von Salamanca spiegeln sich im Fluss Tormes"
 publicada: true
 destacada: true
 orden: 11

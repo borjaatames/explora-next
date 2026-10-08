@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Santa Ana Cathedral in the Vegueta district"
 comunidad: "Canary Islands"
 imagenResumen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
 imagenResumenAlt: "The Guayadeque ravine, between Agüimes and Ingenio"
-imagen: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp"
-imagenAlt: "Roque Nublo and Teide above a sea of clouds"
+imagen: "/images/ciudades/hero/gran-canaria.webp"
+imagenAlt: "Roque Nublo above a sea of clouds in golden light"
 publicada: true
 destacada: false
 orden: 17

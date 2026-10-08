@@ -3,8 +3,8 @@ nombre: "Mallorca"
 slug: "mallorca"
 descripcion: "Palma Cathedral, the Drach Caves and the Serra de Tramuntana. The largest of the Balearics, a blend of dream beaches and World Heritage mountains."
 comunidad: "Balearic Islands"
-imagen: "/images/actividades/mallorca/ciudades/mallorca-hero.webp"
-imagenAlt: "Palma Cathedral (La Seu) in Mallorca by the sea"
+imagen: "/images/ciudades/hero/mallorca.webp"
+imagenAlt: "Palma Cathedral reflected in the Parc de la Mar lake"
 publicada: true
 destacada: false
 orden: 6

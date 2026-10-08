@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Catedral de Santa Ana, en el barrio de Vegueta"
 comunidad: "Canarias"
 imagenResumen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
 imagenResumenAlt: "El barranco de Guayadeque, entre Agüimes e Ingenio"
-imagen: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp"
-imagenAlt: "El Roque Nublo y el Teide sobre el mar de nubes"
+imagen: "/images/ciudades/hero/gran-canaria.webp"
+imagenAlt: "Roque Nublo sobre un mar de nubes con luz dorada"
 publicada: true
 destacada: false
 orden: 17

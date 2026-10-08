@@ -3,8 +3,8 @@ nombre: "Bilbao"
 slug: "bilbao"
 descripcion: "The Guggenheim, the Old Town and the best pintxos cuisine. The Biscay capital that went from industrial city to a global design icon."
 comunidad: "Basque Country"
-imagen: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
-imagenAlt: "The Guggenheim Museum in Bilbao on the riverbank"
+imagen: "/images/ciudades/hero/bilbao.webp"
+imagenAlt: "Guggenheim Museum Bilbao on the estuary at sunset"
 publicada: true
 destacada: false
 orden: 7

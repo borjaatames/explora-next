@@ -3,8 +3,8 @@ nombre: "Cádiz"
 slug: "cadiz"
 descripcion: "La ciudad habitada más antigua de Occidente, rodeada de mar por tres lados. Casco antiguo, playas urbanas y el salero de la Tacita de Plata."
 comunidad: "Andalucía"
-imagen: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-imagenAlt: "Torre mirador de Cádiz con el casco antiguo y el mar al fondo"
+imagen: "/images/ciudades/hero/cadiz.webp"
+imagenAlt: "Paseo marítimo de Cádiz con la catedral al atardecer"
 publicada: true
 destacada: false
 orden: 13

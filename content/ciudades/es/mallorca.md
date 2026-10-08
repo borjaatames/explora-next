@@ -3,8 +3,8 @@ nombre: "Mallorca"
 slug: "mallorca"
 descripcion: "La catedral de Palma, las cuevas del Drach y la Serra de Tramuntana. La mayor de las Baleares, mezcla de playas de ensueño y montaña Patrimonio de la Humanidad."
 comunidad: "Islas Baleares"
-imagen: "/images/actividades/mallorca/ciudades/mallorca-hero.webp"
-imagenAlt: "La Catedral de Palma de Mallorca (La Seu) junto al mar"
+imagen: "/images/ciudades/hero/mallorca.webp"
+imagenAlt: "Catedral de Palma reflejada en el lago del Parc de la Mar"
 publicada: true
 destacada: false
 orden: 6

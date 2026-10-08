@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "La Alcazaba de Málaga sobre la ciudad"
 comunidad: "Andalucía"
 imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp"
 imagenResumenAlt: "Vista de Málaga: el puerto y la catedral"
-imagen: "/images/actividades/malaga/ciudades/malaga-hero.webp"
-imagenAlt: "Vista de Málaga con la Alcazaba y el mar Mediterráneo"
+imagen: "/images/ciudades/hero/malaga.webp"
+imagenAlt: "Puerto y ciudad de Málaga al atardecer desde lo alto"
 publicada: true
 destacada: false
 orden: 5

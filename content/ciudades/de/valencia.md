@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Die Kathedrale von Valencia und der Miguelete-Turm"
 comunidad: "Valencianische Gemeinschaft"
 imagenResumen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-unsplash-OerQvrNvozU.jpg"
 imagenResumenAlt: "Die Stadt der Künste und Wissenschaften von Valencia"
-imagen: "/images/actividades/valencia/ciudades/valencia-hero.webp"
-imagenAlt: "Die Stadt der Künste und Wissenschaften von Valencia, gespiegelt im Wasser"
+imagen: "/images/ciudades/hero/valencia.webp"
+imagenAlt: "Hemisfèric und Wissenschaftsmuseum spiegeln sich im Wasser"
 publicada: true
 destacada: false
 orden: 3

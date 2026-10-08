@@ -3,8 +3,8 @@ nombre: "Santiago de Compostela"
 slug: "santiago-de-compostela"
 descripcion: "El fin del Camino: la catedral, el Obradoiro y un casco histórico de piedra Patrimonio de la Humanidad. La capital espiritual de Galicia."
 comunidad: "Galicia"
-imagen: "/images/actividades/santiago-de-compostela/ciudades/santiago-de-compostela-hero.webp"
-imagenAlt: "La Catedral de Santiago de Compostela y la fachada del Obradoiro"
+imagen: "/images/ciudades/hero/santiago-de-compostela.webp"
+imagenAlt: "Vista de Santiago de Compostela con las torres de la catedral"
 publicada: true
 destacada: false
 orden: 15

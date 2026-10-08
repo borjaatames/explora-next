@@ -10,8 +10,8 @@ imagenAtraccionesAlt: "Die Kathedrale Santa Ana im Viertel Vegueta"
 comunidad: "Kanarische Inseln"
 imagenResumen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
 imagenResumenAlt: "Die Schlucht von Guayadeque zwischen Agüimes und Ingenio"
-imagen: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp"
-imagenAlt: "Roque Nublo und Teide über dem Wolkenmeer"
+imagen: "/images/ciudades/hero/gran-canaria.webp"
+imagenAlt: "Roque Nublo über einem Wolkenmeer im goldenen Licht"
 publicada: true
 destacada: false
 orden: 17
