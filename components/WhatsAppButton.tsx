@@ -23,17 +23,17 @@ const WHATSAPP_NUMERO = "34917647730";
 const DICT: Record<"es" | "en" | "de", { aria: string; tooltip: string; mensaje: string }> = {
   es: {
     aria: "Contactar por WhatsApp",
-    tooltip: "¿Dudas? Escríbenos",
+    tooltip: "Hablar con un experto",
     mensaje: "Hola, tengo una consulta sobre las experiencias de ExploraSpain.",
   },
   en: {
     aria: "Contact us on WhatsApp",
-    tooltip: "Questions? Chat with us",
+    tooltip: "Talk to an expert",
     mensaje: "Hi, I have a question about ExploraSpain's experiences.",
   },
   de: {
     aria: "Über WhatsApp kontaktieren",
-    tooltip: "Fragen? Schreib uns",
+    tooltip: "Mit einem Experten sprechen",
     mensaje: "Hallo, ich habe eine Frage zu den Erlebnissen von ExploraSpain.",
   },
 };
@@ -51,11 +51,12 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
       rel="noopener noreferrer"
       aria-label={t.aria}
       title={t.tooltip}
-      className="group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-[#25D366] text-white shadow-lg hover:shadow-xl hover:bg-[#1ebe5d] transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#25D366] pl-3 pr-3 lg:pr-4 py-3"
+      className="group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-slate-900 hover:bg-slate-800 text-white shadow-md transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-sky-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3"
     >
+      <span className="hidden lg:block w-2 h-2 rounded-full bg-sky-400" aria-hidden="true" />
       <svg
-        width="26"
-        height="26"
+        width="22"
+        height="22"
         viewBox="0 0 24 24"
         fill="currentColor"
         aria-hidden="true"

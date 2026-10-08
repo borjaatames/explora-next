@@ -9,9 +9,11 @@ import {
   hreflangAlternates,
   prefijoIdioma,
   urlActividadesDeCiudad,
+  urlIndiceCiudades,
 } from "@/lib/i18n/utils";
 import SelloProveedor from "@/components/SelloProveedor";
-import TrustStrip from "@/components/TrustStrip";
+import HeroHome from "@/components/home/HeroHome";
+import FranjaConfianza from "@/components/home/FranjaConfianza";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -116,44 +118,16 @@ export default function HomePage() {
         }}
       />
 
-      {/* Hero con foto de fondo */}
-      <section className="relative isolate overflow-hidden text-white">
-        <Image
-          src="/images/home/hero.jpg"
-          alt=""
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
-        />
-        {/* Overlay oscuro para que el texto blanco siempre tenga contraste */}
-        <div className="absolute inset-0 bg-slate-900/55" />
-        <div className="relative max-w-5xl mx-auto px-4 py-24 md:py-32 text-center">
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight drop-shadow">
-            Guías de viaje de España, de tours y actividades, con los mejores
-            consejos de los expertos locales
-          </h1>
-          <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            Reserva directa y segura de tours y actividades por toda España —
-            sin relleno turístico, solo lo que de verdad merece la pena.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="#destinos"
-              className="bg-amber-400 hover:bg-amber-500 text-slate-900 font-semibold px-8 py-3 rounded-lg transition-colors"
-            >
-              Explorar destinos
-            </Link>
-            <Link
-              href="#actividades"
-              className="bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/30"
-            >
-              Ver actividades destacadas
-            </Link>
-          </div>
-          <TrustStrip idioma="es" />
-        </div>
-      </section>
+      <HeroHome
+        idioma={"es"}
+        opciones={ciudades.map((c) => ({
+          nombre: c.nombre,
+          url: urlActividadesDeCiudad("es", c.slug),
+        }))}
+        urlTodos={urlIndiceCiudades("es")}
+        anclaDestinos="#destinos"
+      />
+      <FranjaConfianza idioma={"es"} />
 
       {/* Principales destinos */}
       {destinosHome.length > 0 && (

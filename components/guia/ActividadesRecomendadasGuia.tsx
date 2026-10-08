@@ -97,7 +97,7 @@ export default function ActividadesRecomendadasGuia({
 
         <ul className="flex gap-4 overflow-x-auto snap-x snap-mandatory -mx-4 px-4 pb-4 scrollbar-hide">
           {actividades.map((actividad) => (
-            <li key={actividad.url} className="flex-none w-64 snap-start">
+            <li key={actividad.url} className="relative flex-none w-64 snap-start">
               <TarjetaActividad actividad={actividad} t={t} />
             </li>
           ))}

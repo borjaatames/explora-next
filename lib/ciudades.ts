@@ -56,6 +56,8 @@ export type CiudadFrontmatter = {
    * vacío o ausente, no se muestra sidebar de chips. Orden manual.
    */
   chipsFiltros?: ChipFiltro[];
+  /** Cifras cortas para la caja "Datos clave" bajo el hero (máx. 4). */
+  datosClave?: { etiqueta: string; valor: string }[];
   publicada: boolean;
   destacada?: boolean;
   orden?: number;
@@ -111,6 +113,7 @@ export function obtenerListaCiudades(idioma: Idioma): CiudadListItem[] {
       imagenAtraccionesAlt: fm.imagenAtraccionesAlt,
       atracciones: fm.atracciones,
       chipsFiltros: fm.chipsFiltros,
+      datosClave: fm.datosClave,
       publicada: true,
       destacada: fm.destacada || false,
       orden: fm.orden ?? 999,
@@ -159,6 +162,7 @@ export async function obtenerCiudad(
     imagenAtraccionesAlt: fm.imagenAtraccionesAlt,
     atracciones: fm.atracciones,
     chipsFiltros: fm.chipsFiltros,
+    datosClave: fm.datosClave,
     publicada: true,
     destacada: fm.destacada || false,
     orden: fm.orden ?? 999,

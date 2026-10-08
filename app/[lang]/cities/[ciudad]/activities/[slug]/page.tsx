@@ -230,36 +230,36 @@ export default async function ActividadPage({ params }: Props) {
         />
       )}
 
-      <header className="bg-sky-500 text-white py-10 md:py-14">
+      <header className="bg-white pt-6 md:pt-8">
         <div className="max-w-6xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-sky-100 mb-4">
-            <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
+          <nav aria-label="Breadcrumb" className="text-sm text-slate-500 mb-4">
+            <Link href={prefijoIdioma(lang) || "/"} className="hover:text-sky-700">
               Home
             </Link>
             {" › "}
-            <Link href={ciudad.url} className="hover:text-white">
+            <Link href={ciudad.url} className="hover:text-sky-700">
               {ciudad.nombre}
             </Link>
             {" › "}
             <Link
               href={urlActividadesDeCiudad(lang, params.ciudad)}
-              className="hover:text-white"
+              className="hover:text-sky-700"
             >
               Things to do
             </Link>
             {" › "}
-            <span className="text-white">{actividad.titulo}</span>
+            <span className="text-slate-900">{actividad.titulo}</span>
           </nav>
 
-          <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-wider text-sky-50 mb-4">
-            <span className="bg-amber-400 text-slate-900 px-2 py-1 rounded">
+          <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-wider text-slate-600 mb-3">
+            <span className="bg-sky-100 text-sky-700 px-2 py-1 rounded">
               {dict.actividades.categorias[actividad.categoria]}
             </span>
-            <span className="bg-white/10 px-2 py-1 rounded">
+            <span className="bg-slate-100 text-slate-600 px-2 py-1 rounded">
               {actividad.duracion}
             </span>
             {actividad.cancelacionGratuita && (
-              <span className="bg-white/10 px-2 py-1 rounded">
+              <span className="bg-slate-100 text-slate-600 px-2 py-1 rounded">
                 {actividad.horasCancelacion
                   ? dict.actividades.cancelacionHorasAntes.replace(
                       "{horas}",
@@ -270,22 +270,22 @@ export default async function ActividadPage({ params }: Props) {
             )}
           </div>
 
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
+          <h1 className="font-playfair text-3xl md:text-5xl font-bold text-slate-900 mb-3 leading-tight">
             {actividad.titulo}
           </h1>
-          <p className="text-lg text-sky-50 max-w-3xl">
+          <p className="text-lg text-slate-600 max-w-3xl leading-relaxed">
             {actividad.descripcion}
           </p>
 
           {tieneRating && (
-            <p className="mt-5 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-sky-50">
-              <span className="inline-flex items-center gap-1.5 font-semibold text-white">
-                <span aria-hidden="true" className="text-amber-300 text-base">
+            <p className="mt-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
+              <span className="inline-flex items-center gap-1.5 font-semibold text-slate-900">
+                <span aria-hidden="true" className="text-amber-500 text-base">
                   ★
                 </span>
                 <span>{ratingTextoValor}</span>
               </span>
-              <span aria-hidden="true" className="text-sky-200">
+              <span aria-hidden="true" className="text-slate-400">
                 ·
               </span>
               <span>{ratingTextoOpiniones}</span>
@@ -294,23 +294,24 @@ export default async function ActividadPage({ params }: Props) {
         </div>
       </header>
 
+      {actividad.imagen && (
+        <div className="max-w-6xl mx-auto px-4 pt-6 md:pt-8">
+          <GaleriaActividad
+            idioma={lang}
+            principal={{
+              src: actividad.imagen,
+              alt: actividad.imagenAlt,
+            }}
+            galeria={actividad.galeria}
+            destacada={actividad.destacada}
+          />
+        </div>
+      )}
+
       <section className="max-w-6xl mx-auto px-4 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2 space-y-12">
             <SelloProveedor proveedor={actividad.proveedor} idioma={lang} />
-
-            {/* 1. Galería con sello "Recomendado" */}
-            {actividad.imagen && (
-              <GaleriaActividad
-                idioma={lang}
-                principal={{
-                  src: actividad.imagen,
-                  alt: actividad.imagenAlt,
-                }}
-                galeria={actividad.galeria}
-                destacada={actividad.destacada}
-              />
-            )}
 
             {/* 2. Detalles prácticos */}
             <DetallesPracticos
@@ -490,7 +491,7 @@ export default async function ActividadPage({ params }: Props) {
           </div>
 
           <aside className="hidden lg:block lg:col-span-1">
-            <div className="lg:sticky lg:top-6">
+            <div className="lg:sticky lg:top-24">
               {actividad.proveedor === "bokun" ? (
                 <BokunWidget
                   idioma={lang}

@@ -86,12 +86,12 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["prado museum ticket", "prado museum tickets madrid", "buy prado tickets", "prado entry ticket", "prado museum opening hours"]
 
-imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
-imagenAlt: "Façade of the Prado Museum in Madrid"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+imagenAlt: "Prado Museum entrance with the statue of Goya"
 
 galeria:
-  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
-    alt: "Entrance to the Prado Museum"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
+    alt: "Paseo del Prado, next to the museum"
   - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"
     alt: "Villanueva Building of the Prado Museum"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-francisco-goya-maja-desnuda-hero.webp"

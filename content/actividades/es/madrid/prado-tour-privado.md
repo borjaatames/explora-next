@@ -86,12 +86,12 @@ keywords: ["tour privado prado", "guia privado madrid prado", "visita privada mu
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
-imagenAlt: "a large building with many windows"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+imagenAlt: "Entrada al Museo del Prado con la estatua de Goya"
 
 galeria:
-  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
-    alt: "Museo del Prado Entrance 2024"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
+    alt: "Paseo del Prado, junto al museo"
   - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"
     alt: "Museo del Prado (Madrid) 04"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-francisco-goya-maja-desnuda-hero.webp"

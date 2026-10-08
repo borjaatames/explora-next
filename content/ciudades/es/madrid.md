@@ -12,6 +12,15 @@ imagenActividades: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-fo
 imagenActividadesAlt: "Plaza Mayor de Madrid con la estatua de Felipe III"
 imagenAtracciones: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
 imagenAtraccionesAlt: "Fachada del Museo del Prado en Madrid"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "3,3 M"
+  - etiqueta: "Altitud"
+    valor: "657 m"
+  - etiqueta: "Capital desde"
+    valor: "1561"
+  - etiqueta: "UNESCO a menos de 1 h"
+    valor: "3 lugares"
 publicada: true
 destacada: true
 orden: 1

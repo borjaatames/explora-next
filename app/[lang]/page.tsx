@@ -21,7 +21,8 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import SelloProveedor from "@/components/SelloProveedor";
-import TrustStrip from "@/components/TrustStrip";
+import HeroHome from "@/components/home/HeroHome";
+import FranjaConfianza from "@/components/home/FranjaConfianza";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -234,41 +235,16 @@ export default function HomePage({ params }: Props) {
         }}
       />
 
-      {/* Hero with background photo */}
-      <section className="relative isolate overflow-hidden text-white">
-        <Image
-          src="/images/home/hero.jpg"
-          alt=""
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
-        />
-        <div className="absolute inset-0 bg-slate-900/55" />
-        <div className="relative max-w-5xl mx-auto px-4 py-24 md:py-32 text-center">
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-6 leading-tight drop-shadow">
-            {copy.heroTitle}
-          </h1>
-          <p className="text-lg md:text-xl text-slate-100 mb-8 max-w-2xl mx-auto leading-relaxed drop-shadow">
-            {copy.heroSubtitle}
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="#destinations"
-              className="bg-amber-400 hover:bg-amber-500 text-slate-900 font-semibold px-8 py-3 rounded-lg transition-colors"
-            >
-              {copy.exploreDestinos}
-            </Link>
-            <Link
-              href="#activities"
-              className="bg-white/10 hover:bg-white/20 backdrop-blur text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/30"
-            >
-              {copy.seeActivitiesCta}
-            </Link>
-          </div>
-          <TrustStrip idioma={lang} />
-        </div>
-      </section>
+      <HeroHome
+        idioma={lang}
+        opciones={ciudades.map((c) => ({
+          nombre: c.nombre,
+          url: urlActividadesDeCiudad(lang, c.slug),
+        }))}
+        urlTodos={urlIndiceCiudades(lang)}
+        anclaDestinos="#destinations"
+      />
+      <FranjaConfianza idioma={lang} />
 
       {/* Top destinations */}
       {destinosHome.length > 0 && (

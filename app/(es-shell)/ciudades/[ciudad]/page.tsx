@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import {
   obtenerCiudad,
   obtenerTodosLosCaminosCiudades,
@@ -18,6 +17,7 @@ import {
   urlCiudad,
   urlGuiasDeCiudad,
 } from "@/lib/i18n/utils";
+import HeroCiudad, { DatosClaveCiudad } from "@/components/ciudad/HeroCiudad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -134,38 +134,23 @@ export default async function CiudadPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="relative bg-sky-500 text-white py-16 md:py-24 overflow-hidden">
-        {ciudad.imagen ? (
-          <>
-            <Image
-              src={ciudad.imagen}
-              alt={ciudad.imagenAlt ?? ""}
-              fill
-              priority
-              sizes="100vw"
-              className="object-cover"
-            />
-            <div className="absolute inset-0 bg-slate-900/55" aria-hidden="true" />
-          </>
-        ) : null}
-        <div className="relative max-w-3xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-slate-200 mb-4">
-            <Link href="/" className="hover:text-white">Inicio</Link>
-            {" › "}
-            <Link href="/ciudades" className="hover:text-white">Ciudades</Link>
-            {" › "}
-            <span className="text-white">{ciudad.nombre}</span>
-          </nav>
-
-          <span className="inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-4">
-            {ciudad.comunidad}
-          </span>
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
-            {ciudad.nombre}
-          </h1>
-          <p className="text-lg md:text-xl text-slate-100">{ciudad.descripcion}</p>
-        </div>
-      </header>
+      <HeroCiudad
+        idioma={"es"}
+        nombre={ciudad.nombre}
+        descripcion={ciudad.descripcion}
+        comunidad={ciudad.comunidad}
+        imagen={ciudad.imagen}
+        imagenAlt={ciudad.imagenAlt}
+        migas={[
+          { label: "Inicio", href: "/" },
+          { label: "Ciudades", href: "/ciudades" },
+          { label: ciudad.nombre },
+        ]}
+        urlActividades={hayActividades ? urlActividades : undefined}
+        urlGuias={hayGuias ? urlGuias : undefined}
+        urlAtracciones={hayAtracciones ? urlAtracciones : undefined}
+      />
+      <DatosClaveCiudad idioma={"es"} datos={ciudad.datosClave ?? []} />
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         <div

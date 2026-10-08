@@ -99,13 +99,13 @@ export default function NavbarMobileMenu({
           id="menu-movil"
           className="md:hidden absolute top-full left-0 right-0 bg-white border-b border-slate-200 shadow-lg"
         >
-          <nav className="max-w-6xl mx-auto px-4 py-2 flex flex-col">
+          <nav className="max-w-7xl mx-auto px-4 py-2 flex flex-col">
             {enlaces.map((e) => (
               <Link
                 key={e.href}
                 href={e.href}
                 onClick={() => setAbierto(false)}
-                className="py-3 px-2 text-lg text-slate-800 font-medium border-b border-slate-100 last:border-b-0 hover:bg-slate-50 hover:text-amber-600 rounded transition-colors"
+                className="py-3 px-2 text-lg text-slate-800 font-medium border-b border-slate-100 last:border-b-0 hover:bg-slate-50 hover:text-sky-700 rounded transition-colors"
               >
                 {e.label}
               </Link>

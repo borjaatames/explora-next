@@ -12,6 +12,15 @@ imagenActividades: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-fo
 imagenActividadesAlt: "Plaza Mayor of Madrid with the Philip III equestrian statue"
 imagenAtracciones: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
 imagenAtraccionesAlt: "Facade of the Prado Museum in Madrid"
+datosClave:
+  - etiqueta: "Population"
+    valor: "3.3 M"
+  - etiqueta: "Altitude"
+    valor: "657 m"
+  - etiqueta: "Capital since"
+    valor: "1561"
+  - etiqueta: "UNESCO sites within 1 h"
+    valor: "3"
 publicada: true
 destacada: true
 orden: 1

@@ -12,6 +12,15 @@ imagenActividades: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-fo
 imagenActividadesAlt: "Plaza Mayor in Madrid mit der Statue Philipps III."
 imagenAtracciones: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
 imagenAtraccionesAlt: "Fassade des Prado-Museums in Madrid"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "3,3 Mio."
+  - etiqueta: "Höhe"
+    valor: "657 m"
+  - etiqueta: "Hauptstadt seit"
+    valor: "1561"
+  - etiqueta: "UNESCO-Stätten in 1 Std."
+    valor: "3"
 publicada: true
 destacada: true
 orden: 1

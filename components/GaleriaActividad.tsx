@@ -120,12 +120,12 @@ export default function GaleriaActividad({
     <>
       <div
         className={
-          "grid grid-cols-1 gap-2 rounded-lg overflow-hidden md:aspect-[2/1] " +
-          (haySecundarias ? "md:grid-cols-2" : "")
+          "grid grid-cols-1 gap-2 rounded-xl overflow-hidden md:aspect-[5/2] " +
+          (haySecundarias ? "md:grid-cols-3" : "")
         }
       >
         {/* Imagen principal con badge editorial opcional */}
-        <div className="relative md:h-full">
+        <div className={"relative md:h-full " + (haySecundarias ? "md:col-span-2" : "")}>
           <button
             type="button"
             onClick={() => abrirEn(0)}
@@ -137,7 +137,7 @@ export default function GaleriaActividad({
               alt={principal.alt}
               fill
               priority
-              sizes={haySecundarias ? "(max-width: 768px) 100vw, 50vw" : "100vw"}
+              sizes={haySecundarias ? "(max-width: 768px) 100vw, 66vw" : "100vw"}
               className="object-cover group-hover:scale-105 transition-transform duration-500"
             />
           </button>
@@ -188,7 +188,7 @@ export default function GaleriaActividad({
                     src={img.src}
                     alt={img.alt}
                     fill
-                    sizes="(max-width: 768px) 85vw, 50vw"
+                    sizes="(max-width: 768px) 85vw, 33vw"
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                   />
                   {esUltimaConRestantes && (

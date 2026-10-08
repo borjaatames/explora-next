@@ -15,12 +15,15 @@ import {
   urlActividadesDeCiudad,
   urlGuia,
   urlIndiceGuias,
+  prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
 import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
+import { anadirAnclasH2 } from "@/lib/indiceGuia";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -228,6 +231,8 @@ export default async function GuiaPage({ params }: Props) {
         }
       : null;
 
+  const { html: htmlConAnclas, indice } = anadirAnclasH2(guia.contenidoHtml);
+
   return (
     <main className="min-h-screen bg-white">
       <script
@@ -245,44 +250,49 @@ export default async function GuiaPage({ params }: Props) {
         />
       )}
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
-        <div className="max-w-3xl mx-auto px-4">
-          <span className="inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-4">
-            {guia.categoria}
-          </span>
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
-            {guia.titulo}
-          </h1>
-          <p className="text-lg md:text-xl text-sky-50 mb-4">
-            {guia.descripcion}
-          </p>
-          <div className="text-sm text-sky-100 flex flex-wrap gap-x-4 gap-y-1">
-            {guia.autor && (
-              <span>
-                {dict.guias.autorPor} {guia.autor}
-              </span>
-            )}
-            {guia.fecha && (
-              <span>· {formatearFecha(guia.fecha, lang)}</span>
-            )}
-            <span>
-              · {guia.tiempoLectura} {dict.guias.minutosLectura}
-            </span>
-          </div>
-        </div>
-      </header>
+      <HeroGuia
+        etiqueta={nombreCiudad || guia.categoria}
+        titulo={guia.titulo}
+        descripcion={guia.descripcion}
+        imagen={guia.imagen_portada}
+        imagenAlt={guia.imagen_alt}
+        migasLabel={lang === "de" ? "Brotkrümel" : "Breadcrumb"}
+        migas={[
+          { label: dict.navegacion.inicio, href: prefijoIdioma(lang) || "/" },
+          { label: dict.navegacion.guias, href: urlIndiceGuias(lang) },
+          { label: guia.titulo },
+        ]}
+        meta={[
+          ...(guia.autor ? [`${dict.guias.autorPor} ${guia.autor}`] : []),
+          ...(guia.fecha ? [formatearFecha(guia.fecha, lang)] : []),
+          `${guia.tiempoLectura} ${dict.guias.minutosLectura}`,
+        ]}
+      />
 
-      <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div
-          className="prose-guia"
-          dangerouslySetInnerHTML={{ __html: guia.contenidoHtml }}
-        />
-        {faq.length > 0 && (
-          <div className="mt-12 pt-8 border-t border-slate-200">
-            <FaqActividad idioma={lang} preguntas={faq} />
-          </div>
+      <div
+        className={
+          "max-w-6xl mx-auto px-4 py-12 md:py-16 " +
+          (indice.length > 2 ? "lg:grid lg:grid-cols-[220px_minmax(0,1fr)] lg:gap-16" : "")
+        }
+      >
+        {indice.length > 2 && (
+          <IndiceGuia
+            titulo={lang === "de" ? "In diesem Reiseführer" : "In this guide"}
+            entradas={indice}
+          />
         )}
-      </article>
+        <article className={"max-w-3xl " + (indice.length > 2 ? "" : "mx-auto")}>
+          <div
+            className="prose-guia"
+            dangerouslySetInnerHTML={{ __html: htmlConAnclas }}
+          />
+          {faq.length > 0 && (
+            <div className="mt-12 pt-8 border-t border-slate-200">
+              <FaqActividad idioma={lang} preguntas={faq} />
+            </div>
+          )}
+        </article>
+      </div>
 
       <ActividadesRecomendadasGuia
         actividades={actividadesRecomendadas}

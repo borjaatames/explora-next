@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
@@ -18,6 +17,8 @@ import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
 import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
+import { anadirAnclasH2 } from "@/lib/indiceGuia";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -190,6 +191,8 @@ export default async function GuiaPage({ params }: Props) {
         }
       : null;
 
+  const { html: htmlConAnclas, indice } = anadirAnclasH2(guia.contenidoHtml);
+
   return (
     <main className="min-h-screen bg-white">
       <script
@@ -207,74 +210,48 @@ export default async function GuiaPage({ params }: Props) {
         />
       )}
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
-        <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
-            <Link href="/" className="hover:text-white">
-              Inicio
-            </Link>
-            {" › "}
-            <Link href="/guias" className="hover:text-white">
-              Guías
-            </Link>
-            {" › "}
-            <span className="text-white">{guia.titulo}</span>
-          </nav>
+      <HeroGuia
+        etiqueta={nombreCiudad || guia.categoria}
+        titulo={guia.titulo}
+        descripcion={guia.descripcion}
+        imagen={guia.imagen_portada}
+        imagenAlt={guia.imagen_alt}
+        migasLabel="Migas de pan"
+        migas={[
+          { label: "Inicio", href: "/" },
+          { label: "Guías", href: "/guias" },
+          { label: guia.titulo },
+        ]}
+        meta={[
+          ...(guia.autor ? [`Por ${guia.autor}`] : []),
+          ...(guia.fecha_actualizacion && guia.fecha_actualizacion !== guia.fecha
+            ? [`Actualizado el ${formatearFecha(guia.fecha_actualizacion, "es")}`]
+            : guia.fecha
+              ? [formatearFecha(guia.fecha, "es")]
+              : []),
+          `${guia.tiempoLectura} min de lectura`,
+        ]}
+      />
 
-          <span className="inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-4">
-            {guia.categoria}
-          </span>
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
-            {guia.titulo}
-          </h1>
-          <p className="text-lg md:text-xl text-sky-50 mb-4">
-            {guia.descripcion}
-          </p>
-          <div className="text-sm text-sky-100 flex flex-wrap gap-x-4 gap-y-1">
-            {guia.autor && <span>Por {guia.autor}</span>}
-            {guia.fecha && <span>· {formatearFecha(guia.fecha, "es")}</span>}
-            {guia.fecha_actualizacion &&
-              guia.fecha_actualizacion !== guia.fecha && (
-                <span>
-                  · Actualizado {formatearFecha(guia.fecha_actualizacion, "es")}
-                </span>
-              )}
-            <span>· {guia.tiempoLectura} min de lectura</span>
-          </div>
-        </div>
-      </header>
-
-      {guia.imagen_portada && (
-        <figure className="max-w-2xl mx-auto px-4 pt-8 md:pt-12">
-          <div className="relative w-full aspect-[1200/630] rounded-lg overflow-hidden bg-slate-100">
-            <Image
-              src={guia.imagen_portada}
-              alt={guia.imagen_alt || guia.titulo}
-              fill
-              priority
-              sizes="(max-width: 768px) 100vw, 672px"
-              className="object-cover"
-            />
-          </div>
-          {guia.imagen_alt && (
-            <figcaption className="text-xs italic text-slate-500 mt-2 px-1">
-              {guia.imagen_alt}
-            </figcaption>
+      <div
+        className={
+          "max-w-6xl mx-auto px-4 py-12 md:py-16 " +
+          (indice.length > 2 ? "lg:grid lg:grid-cols-[220px_minmax(0,1fr)] lg:gap-16" : "")
+        }
+      >
+        {indice.length > 2 && <IndiceGuia titulo="En esta guía" entradas={indice} />}
+        <article className={"max-w-3xl " + (indice.length > 2 ? "" : "mx-auto")}>
+          <div
+            className="prose-guia"
+            dangerouslySetInnerHTML={{ __html: htmlConAnclas }}
+          />
+          {faq.length > 0 && (
+            <div className="mt-12 pt-8 border-t border-slate-200">
+              <FaqActividad idioma="es" preguntas={faq} />
+            </div>
           )}
-        </figure>
-      )}
-
-      <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div
-          className="prose-guia"
-          dangerouslySetInnerHTML={{ __html: guia.contenidoHtml }}
-        />
-        {faq.length > 0 && (
-          <div className="mt-12 pt-8 border-t border-slate-200">
-            <FaqActividad idioma="es" preguntas={faq} />
-          </div>
-        )}
-      </article>
+        </article>
+      </div>
 
       <ActividadesRecomendadasGuia
         actividades={actividadesRecomendadas}

@@ -79,12 +79,12 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["private prado tour", "private guide madrid prado", "prado museum private visit", "prado tour english private"]
 
-imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
-imagenAlt: "The Prado Museum building, Madrid"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+imagenAlt: "Prado Museum entrance with the statue of Goya"
 
 galeria:
-  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
-    alt: "Entrance to the Prado Museum, Madrid"
+  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
+    alt: "Paseo del Prado, next to the museum"
   - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"
     alt: "The Prado Museum building, Madrid"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-francisco-goya-maja-desnuda-hero.webp"
