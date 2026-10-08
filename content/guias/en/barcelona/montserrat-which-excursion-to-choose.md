@@ -31,7 +31,7 @@ Montserrat can be visited from Barcelona five very different ways — this isn't
 | [Rack railway, Black Madonna and winery (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | €47 | 6-10 h | Flexible, group | Travelers who want the cheapest full-day option |
 | [Bages farmhouse with lunch and wine pairing](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | €109 | 9 h | Premium, group | Travelers who want a top-tier food experience added on |
 | [Montserrat Signature photoshoot](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | €180 | 1 h | Private, photography | Travelers after professional photos, not a guided visit |
-| [Private tour with hotel pickup](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | €550 | 5 h | Private, your group only | Travelers who want an exclusive vehicle and guide, no sharing |
+| [Private tour with hotel pickup](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | €838 | 5 h | Private, your group only | Travelers who want an exclusive vehicle and guide, no sharing |
 
 ## How to choose in 30 seconds
 
@@ -39,7 +39,7 @@ Montserrat can be visited from Barcelona five very different ways — this isn't
 - **Full day without paying more for it:** the interesting fact here is that the full-day option (€47, 6-10 hours) costs practically the same as the half-day one — worth it if you have time to spare.
 - **Want a top-tier food experience:** Bages farmhouse with wine pairing (€109), includes a sommelier-curated 3-course lunch.
 - **After professional photos, not a guided visit:** Signature photoshoot (€180), includes 30 edited digital photos.
-- **Want to go without sharing a group with anyone:** private tour with hotel pickup (€550), exclusive vehicle and guide.
+- **Want to go without sharing a group with anyone:** private tour with hotel pickup (€838 per group), exclusive vehicle and guide.
 
 ## Things to know before booking
 

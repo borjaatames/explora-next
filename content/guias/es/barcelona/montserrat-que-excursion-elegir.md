@@ -31,7 +31,7 @@ Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre 
 | [Cremallera, Virgen Negra y bodega (CastlExperience)](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience) | 47 € | 6-10 h | Flexible, en grupo | Quien quiere el día completo más económico |
 | [Masía del Bages con almuerzo y maridaje](/ciudades/barcelona/actividades/montserrat-masia-bages-almuerzo-vinos) | 109 € | 9 h | Premium, en grupo | Quien quiere sumarle una experiencia gastronómica de nivel |
 | [Sesión de fotos Montserrat Signature](/ciudades/barcelona/actividades/montserrat-sesion-fotos-signature) | 180 € | 1 h | Privado, fotográfico | Quien busca fotos profesionales, no una visita guiada |
-| [Tour privado con recogida en hotel](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel) | 550 € | 5 h | Privado, solo tu grupo | Quien quiere vehículo y guía en exclusiva, sin compartir con nadie |
+| [Tour privado con recogida en hotel](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel) | 838 € | 5 h | Privado, solo tu grupo | Quien quiere vehículo y guía en exclusiva, sin compartir con nadie |
 
 ## Cómo elegir en 30 segundos
 
@@ -39,7 +39,7 @@ Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre 
 - **Día completo sin pagar de más:** el dato curioso es que la opción de día completo (47 €, 6-10 horas) cuesta prácticamente lo mismo que la de medio día — compensa si tienes tiempo de sobra.
 - **Quieres una experiencia gastronómica de nivel:** masía del Bages con maridaje (109 €), incluye almuerzo de 3 platos curado por sommelier.
 - **Buscas fotos profesionales, no una visita guiada:** sesión Signature (180 €), incluye 30 fotos digitales editadas.
-- **Quieres ir sin compartir grupo con nadie:** tour privado con recogida en hotel (550 €), vehículo y guía en exclusiva.
+- **Quieres ir sin compartir grupo con nadie:** tour privado con recogida en hotel (838 € por grupo), vehículo y guía en exclusiva.
 
 ## Cosas a tener en cuenta al reservar
 

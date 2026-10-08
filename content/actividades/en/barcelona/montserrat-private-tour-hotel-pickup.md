@@ -10,7 +10,7 @@ slugs:
 
 duracion: "5 hours"
 duracionMinutos: 300
-precioDesde: 550
+precioDesde: 838
 moneda: "EUR"
 idiomas:
 - es
