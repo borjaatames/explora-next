@@ -13,7 +13,7 @@ import {
 } from "@/lib/i18n/utils";
 import SelloProveedor from "@/components/SelloProveedor";
 import HeroHome from "@/components/home/HeroHome";
-import FranjaConfianza from "@/components/home/FranjaConfianza";
+import FranjaConfianza, { FranjaPartners } from "@/components/home/FranjaConfianza";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -322,6 +322,7 @@ export default function HomePage() {
           </div>
         </section>
       )}
+      <FranjaPartners idioma={"es"} />
     </main>
   );
 }

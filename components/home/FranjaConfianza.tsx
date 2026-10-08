@@ -42,8 +42,8 @@ const ICONOS: ReadonlyArray<JSX.Element> = [
 ];
 
 /**
- * Franja de confianza bajo el hero de la home + fila de partners. Solo
- * promesas verificables, sin cifras inventadas. Server Component puro.
+ * Franja de confianza bajo el hero de la home. Solo promesas verificables,
+ * sin cifras inventadas. Server Component puro.
  */
 export default function FranjaConfianza({ idioma }: { idioma: Idioma }) {
   const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
@@ -76,16 +76,24 @@ export default function FranjaConfianza({ idioma }: { idioma: Idioma }) {
           ))}
         </ul>
       </div>
-      <div className="bg-slate-50 border-b border-slate-200">
-        <div className="max-w-6xl mx-auto px-4 py-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-          <p className="text-xs font-semibold uppercase tracking-widest text-slate-500">
-            {t.partners}
-          </p>
-          <div className="flex items-center gap-10 opacity-70 grayscale">
-            <Image src="/logos/getyourguide.svg" alt="GetYourGuide" width={47} height={40} className="h-10 w-auto" />
-            <Image src="/logos/viator.svg" alt="Viator" width={100} height={32} className="h-6 w-auto" />
-            <span className="text-lg font-semibold text-slate-500">Stripe</span>
-          </div>
+    </section>
+  );
+}
+
+/** Fila de partners, al final de la home (justo antes del footer). */
+export function FranjaPartners({ idioma }: { idioma: Idioma }) {
+  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+
+  return (
+    <section aria-label={t.partners} className="bg-slate-50 border-t border-slate-200">
+      <div className="max-w-6xl mx-auto px-4 py-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <p className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+          {t.partners}
+        </p>
+        <div className="flex items-center gap-10 opacity-70 grayscale">
+          <Image src="/logos/getyourguide.svg" alt="GetYourGuide" width={47} height={40} className="h-10 w-auto" />
+          <Image src="/logos/viator.svg" alt="Viator" width={100} height={32} className="h-6 w-auto" />
+          <span className="text-lg font-semibold text-slate-500">Stripe</span>
         </div>
       </div>
     </section>
