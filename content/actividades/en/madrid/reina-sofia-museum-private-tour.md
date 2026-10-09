@@ -19,6 +19,7 @@ bokunProductId: 385673
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Private 2-hour tour just for your group
 - Picasso's Guernica explained in its historical context

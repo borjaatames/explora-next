@@ -19,6 +19,7 @@ bokunProductId: 385671
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Private 3-hour tour just for your group
 - Official guide, mostly art historians
@@ -48,6 +49,19 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'At the Prado a guide makes all the difference: the museum is huge, and in 3 hours you go straight to the essentials with context. The private version is pricey compared with a small group, but worth it if there are 3 or 4 of you or you want to set your own pace. Minimum 2 people per booking.'
+preguntasFrecuentes:
+- pregunta: Is the tour really private?
+  respuesta: 'Yes. The guide is only for your group: no other travellers join, and the pace and focus adapt to you.'
+- pregunta: Is the Prado entry ticket included?
+  respuesta: Yes. The skip-the-line Prado Museum ticket is included in the price, so you don't need to buy it separately.
+- pregunta: How much does it cost for two people?
+  respuesta: The price is per person, from €146, with a minimum of 2 people per booking. The final price for your group appears in the calendar when you choose the date and the number of people.
+- pregunta: Where do we meet the guide?
+  respuesta: 'At the Prado Museum ticket office, by the Goya statue on Paseo del Prado. The guide can also pick you up at your hotel: after booking you get the guide''s contact details, so send your hotel name. Transport is not included, so if your hotel isn''t nearby the supplier recommends meeting at the museum.'
+- pregunta: What languages is the tour available in?
+  respuesta: Spanish, English and Italian.
+- pregunta: Can I cancel?
+  respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
 - museo-prado
 categoria: visitasGuiadas

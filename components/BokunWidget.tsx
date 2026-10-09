@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { textoUnidadBokun } from "@/lib/reservaBokun";
 
 /**
  * Widget de reserva embebido de Bokun (tipo "Booking Calendar").
@@ -44,6 +45,8 @@ type Props = {
   ratingProveedor?: number;
   /** Nº de opiniones (frontmatter `numeroOpiniones`). */
   numeroOpiniones?: number;
+  /** Mínimo de personas por reserva (frontmatter `minimoPersonas`). */
+  minimoPersonas?: number;
 };
 
 type BokunGlobal = {
@@ -78,6 +81,7 @@ export default function BokunWidget({
   porGrupo,
   ratingProveedor,
   numeroOpiniones,
+  minimoPersonas,
 }: Props) {
   const channelUuid = process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID;
   const contenedorRef = useRef<HTMLDivElement>(null);
@@ -169,13 +173,7 @@ export default function BokunWidget({
             }).format(precioDesde)}
           </p>
           <p className="text-xs text-slate-500">
-            {porGrupo
-              ? idioma === "es"
-                ? "por grupo"
-                : "per group"
-              : idioma === "es"
-                ? "por persona"
-                : "per person"}
+            {textoUnidadBokun({ porGrupo: Boolean(porGrupo), minimoPersonas }, idioma)}
           </p>
           {tieneRating && (
             <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-amber-50 px-2.5 py-1.5 text-sm">

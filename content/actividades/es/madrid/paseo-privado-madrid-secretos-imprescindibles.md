@@ -19,6 +19,7 @@ bokunProductId: 159740
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Paseo privado a pie de 2 h 15 min con guía local
 - Puerta del Sol, Plaza Mayor, Plaza de la Villa y Teatro Real

@@ -19,6 +19,7 @@ bokunProductId: 159737
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Visita privada de 2 h 30 min con guía oficial
 - Entrada sin colas incluida
@@ -49,6 +50,21 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: El Palacio Real se ve en una hora por tu cuenta, pero con un guía entiendes para qué servía cada salón y quién lo decoró. Esta versión privada es cara si vais 2, y razonable desde 3 o 4. Mínimo 2 personas por reserva.
+preguntasFrecuentes:
+- pregunta: ¿La visita es de verdad privada?
+  respuesta: 'Sí. El guía es solo para tu grupo: no se une nadie más y la visita se adapta a vuestro ritmo.'
+- pregunta: ¿Está incluida la entrada al Palacio Real?
+  respuesta: Sí. La entrada al Palacio Real sin colas va incluida en el precio.
+- pregunta: ¿Podemos elegir la hora?
+  respuesta: 'Sí. Eliges la hora de inicio dentro del horario del palacio: de 10:00 a 15:00 en invierno (octubre a marzo) y de 10:00 a 17:00 en verano (abril a septiembre).'
+- pregunta: ¿Cuánto cuesta para dos personas?
+  respuesta: El precio es por persona, desde 141 €, con un mínimo de 2 personas por reserva. El precio final de tu grupo aparece en el calendario al elegir fecha y número de personas.
+- pregunta: ¿Incluye recogida en el hotel?
+  respuesta: Sí, la recogida en el hotel está incluida. Tras reservar recibes el contacto del guía para indicarle tu hotel, o puedes quedar en la Plaza de la Armería, frente a la entrada del palacio.
+- pregunta: ¿Es accesible en silla de ruedas o con carrito?
+  respuesta: No. La visita no es accesible en silla de ruedas ni con carrito.
+- pregunta: ¿Puedo cancelar?
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

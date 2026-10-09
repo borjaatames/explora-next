@@ -19,6 +19,7 @@ bokunProductId: 385672
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Paseo privado de 2 h 10 min por tabernas de más de 100 y 200 años
 - El restaurante más antiguo del mundo según el Guinness

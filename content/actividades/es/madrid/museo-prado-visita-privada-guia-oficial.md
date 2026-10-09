@@ -19,6 +19,7 @@ bokunProductId: 385671
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Visita privada de 3 horas solo para tu grupo
 - Guía oficial, en su mayoría historiadores del arte
@@ -48,6 +49,19 @@ detallesPracticos:
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'Para el Prado, un guía marca la diferencia: el museo es enorme y en 3 horas te lleva directo a lo esencial con contexto. La versión privada es cara frente a un grupo reducido, pero compensa si vais 3 o 4 personas o queréis adaptar el ritmo. Mínimo 2 personas por reserva.'
+preguntasFrecuentes:
+- pregunta: ¿La visita es de verdad privada?
+  respuesta: 'Sí. El guía es solo para tu grupo: no se une nadie más y el ritmo y los temas se adaptan a vosotros.'
+- pregunta: ¿Está incluida la entrada al Prado?
+  respuesta: Sí. La entrada al Museo del Prado sin colas va incluida en el precio; no hace falta comprarla aparte.
+- pregunta: ¿Cuánto cuesta para dos personas?
+  respuesta: El precio es por persona, desde 146 €, con un mínimo de 2 personas por reserva. El precio final de tu grupo aparece en el calendario al elegir fecha y número de personas.
+- pregunta: ¿Dónde se queda con el guía?
+  respuesta: 'En las taquillas del Museo del Prado, junto a la estatua de Goya, en el Paseo del Prado. El guía también puede recogeros en el hotel: tras reservar recibes su contacto y le indicas tu hotel. El transporte no está incluido, así que si el hotel no está cerca el proveedor recomienda quedar en el museo.'
+- pregunta: ¿En qué idiomas se hace la visita?
+  respuesta: En español, inglés e italiano.
+- pregunta: ¿Puedo cancelar?
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
 - museo-prado
 categoria: visitasGuiadas

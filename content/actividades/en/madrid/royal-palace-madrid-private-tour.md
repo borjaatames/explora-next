@@ -19,6 +19,7 @@ bokunProductId: 159737
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Private 2 h 30 min tour with an official guide
 - Skip-the-line entry included
@@ -49,6 +50,21 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: You can see the Royal Palace on your own in an hour, but with a guide you understand what each room was for and who decorated it. This private version is pricey for 2 and reasonable from 3 or 4. Minimum 2 people per booking.
+preguntasFrecuentes:
+- pregunta: Is the tour really private?
+  respuesta: 'Yes. The guide is only for your group: no other travellers join, and the visit adapts to your pace.'
+- pregunta: Is the Royal Palace entry ticket included?
+  respuesta: Yes. Skip-the-line entry to the Royal Palace is included in the price.
+- pregunta: Can we choose the start time?
+  respuesta: 'Yes. You choose the start time within the palace''s opening hours: from 10:00 to 15:00 in winter (October to March) and from 10:00 to 17:00 in summer (April to September).'
+- pregunta: How much does it cost for two people?
+  respuesta: The price is per person, from €141, with a minimum of 2 people per booking. The final price for your group appears in the calendar when you choose the date and the number of people.
+- pregunta: Is hotel pickup included?
+  respuesta: Yes, hotel pickup is included. After booking you get the guide's contact details; send your hotel name, or meet at Plaza de la Armería, in front of the palace entrance.
+- pregunta: Is it suitable for wheelchairs or pushchairs?
+  respuesta: No. The tour is not accessible for wheelchairs or pushchairs.
+- pregunta: Can I cancel?
+  respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

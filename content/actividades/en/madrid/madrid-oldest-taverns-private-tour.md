@@ -19,6 +19,7 @@ bokunProductId: 385672
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Private 2 h 10 min walk through taverns over 100 and 200 years old
 - The world's oldest restaurant according to Guinness

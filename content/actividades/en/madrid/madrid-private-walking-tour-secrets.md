@@ -19,6 +19,7 @@ bokunProductId: 159740
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
+minimoPersonas: 2
 highlights:
 - Private 2 h 15 min walking tour with a local guide
 - Puerta del Sol, Plaza Mayor, Plaza de la Villa and the Royal Theatre

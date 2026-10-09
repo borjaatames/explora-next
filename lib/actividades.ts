@@ -125,6 +125,12 @@ export type ActividadFrontmatter = {
   bokunProductId?: number;
   cancelacionGratuita?: boolean;
   horasCancelacion?: number;
+  /**
+   * Mínimo de personas por reserva cuando el precio es por persona
+   * (ej. visitas privadas "mínimo 2"). Se muestra junto al precio "desde"
+   * para que el visitante que llega desde un anuncio no se lleve sorpresas.
+   */
+  minimoPersonas?: number;
 
   // Vendedor
   highlights: ActividadHighlight[];
@@ -557,6 +563,7 @@ function construirListItem(
     bokunProductId: fm.bokunProductId,
     cancelacionGratuita: fm.cancelacionGratuita ?? false,
     horasCancelacion: fm.horasCancelacion,
+    minimoPersonas: fm.minimoPersonas,
 
     highlights: fm.highlights || [],
     incluye: fm.incluye || [],

@@ -25,6 +25,9 @@ import GaleriaActividad from "@/components/GaleriaActividad";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import BokunWidget from "@/components/BokunWidget";
+import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
+import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
+import { ANCLA_RESERVA } from "@/lib/reservaBokun";
 import SelloProveedor from "@/components/SelloProveedor";
 import DetallesPracticos from "@/components/DetallesPracticos";
 import InformacionImportante from "@/components/InformacionImportante";
@@ -291,6 +294,16 @@ export default async function ActividadPage({ params }: Props) {
               <span>{ratingTextoOpiniones}</span>
             </p>
           )}
+
+          {actividad.proveedor === "bokun" && (
+            <CtaReservaBokun
+              idioma={lang}
+              precioDesde={actividad.precioDesde}
+              moneda={actividad.moneda}
+              porGrupo={actividad.categoria === "experienciasPrivadas"}
+              minimoPersonas={actividad.minimoPersonas}
+            />
+          )}
         </div>
       </header>
 
@@ -490,7 +503,17 @@ export default async function ActividadPage({ params }: Props) {
             <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
           </div>
 
-          <aside className="hidden lg:block lg:col-span-1">
+          {/* Bókun: un solo widget. En móvil el aside se apila tras el contenido
+              (la barra fija y el CTA de cabecera bajan hasta él); para afiliados
+              el aside solo existe en escritorio y en móvil manda la barra sticky. */}
+          <aside
+            id={actividad.proveedor === "bokun" ? ANCLA_RESERVA : undefined}
+            className={
+              actividad.proveedor === "bokun"
+                ? "lg:col-span-1 scroll-mt-24"
+                : "hidden lg:block lg:col-span-1"
+            }
+          >
             <div className="lg:sticky lg:top-24">
               {actividad.proveedor === "bokun" ? (
                 <BokunWidget
@@ -501,6 +524,7 @@ export default async function ActividadPage({ params }: Props) {
                   porGrupo={actividad.categoria === "experienciasPrivadas"}
                   ratingProveedor={actividad.ratingProveedor}
                   numeroOpiniones={actividad.numeroOpiniones}
+                  minimoPersonas={actividad.minimoPersonas}
                 />
               ) : (
               <CalendarioReserva
@@ -538,20 +562,6 @@ export default async function ActividadPage({ params }: Props) {
         </div>
       </section>
 
-      {actividad.proveedor === "bokun" && (
-        <div className="lg:hidden max-w-6xl mx-auto px-4 pb-10">
-          <BokunWidget
-            idioma={lang}
-            productId={actividad.bokunProductId ?? 0}
-            precioDesde={actividad.precioDesde}
-            moneda={actividad.moneda}
-            porGrupo={actividad.categoria === "experienciasPrivadas"}
-            ratingProveedor={actividad.ratingProveedor}
-            numeroOpiniones={actividad.numeroOpiniones}
-          />
-        </div>
-      )}
-
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
         <BotonVolverFicha
           urlActividadesCiudad={
@@ -562,6 +572,16 @@ export default async function ActividadPage({ params }: Props) {
           textoActividadesCiudad={`← See more things to do in ${ciudad.nombre}`}
         />
       </div>
+
+      {actividad.proveedor === "bokun" && (
+        <StickyReservaBokun
+          idioma={lang}
+          precioDesde={actividad.precioDesde}
+          moneda={actividad.moneda}
+          porGrupo={actividad.categoria === "experienciasPrivadas"}
+          minimoPersonas={actividad.minimoPersonas}
+        />
+      )}
 
       {actividad.proveedor !== "bokun" && (
         <StickyReservaMovil
