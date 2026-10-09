@@ -9,7 +9,7 @@ slugs:
   en: best-of-barcelona-private-tour-sagrada-familia
 duracion: Día completo (unas 7 horas)
 duracionMinutos: 420
-precioDesde: 500
+precioDesde: 658
 moneda: EUR
 idiomas:
 - es
@@ -23,7 +23,7 @@ highlights:
 - Tour privado de día completo solo para tu grupo
 - Sagrada Família con entrada sin colas y visita guiada por dentro
 - Montjuïc, Barrio Gótico y Passeig de Gràcia con guía en exclusiva
-- Precio por grupo, no por persona
+- Precio por grupo: 658 € para 1 o 2 personas (máximo 6)
 incluye:
 - Guía privado en directo
 - Entrada sin colas y visita guiada por dentro de la Sagrada Família
@@ -96,7 +96,7 @@ Un día completo por lo más icónico de Barcelona, en privado y a tu ritmo:
 
 Es un tour **privado de día completo (unas 7 horas), solo para tu grupo**. Te **recogen en el hotel** (o en el punto de encuentro acordado, según la distancia) y te mueven en **transporte privado** entre los puntos, con un **guía en exclusiva** durante todo el día. La **entrada sin colas a la Sagrada Família y la visita guiada por dentro van incluidas**.
 
-El precio es **por grupo, no por persona**. Resérvalo con antelación (el operador pide al menos 5 días). La entrada a la Sagrada Família es nominativa: ten a mano el documento de identidad de los participantes. Comprueba el idioma del guía al reservar.
+El precio es **por grupo, según cuántos seáis**: 658 € para 1 o 2 personas, 747 € para 3, 836 € para 4, 945 € para 5 y 1.014 € para 6 (máximo 6 personas). Resérvalo con antelación (el operador pide al menos 5 días). La entrada a la Sagrada Família es nominativa: ten a mano el documento de identidad de los participantes. Comprueba el idioma del guía al reservar.
 
 ## A quién se lo recomiendo
 

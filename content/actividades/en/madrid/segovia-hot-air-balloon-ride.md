@@ -61,25 +61,33 @@ keywords:
 - hot air balloon ride near madrid
 - segovia balloon flight
 - balloon ride segovia
-imagen: https://imgcdn.bokun.tools/57d9a415-99dd-488b-9fe7-9cc43bfaa7a9.jpg
-imagenAlt: Segovia's Alcázar with hot air balloons in the background
+imagen: /images/actividades/segovia/globo/unsplash-globos-alcazar.webp
+imagenAlt: Hot air balloons over the Alcázar of Segovia at sunrise
 galeria:
-- src: https://imgcdn.bokun.tools/5af089eb-bf81-4c6d-95fa-bdf8d367d71a.jpg
-  alt: Segovia Balloons balloon flying over the city
-- src: https://imgcdn.bokun.tools/3e07bd35-4758-455c-92af-3ce1198a3b0b.jpg
-  alt: Balloon over Segovia with the Cathedral behind
-- src: https://imgcdn.bokun.tools/468e239d-587e-4d4e-b05c-95f70ba72b25.jpg
-  alt: Overhead view of the balloon basket above the Alcázar
-- src: https://imgcdn.bokun.tools/7e6a76e6-8620-456b-b780-c423c87a4c70.jpg
-  alt: Passenger in the basket with the Segovia Aqueduct below
-- src: https://imgcdn.bokun.tools/c39522b6-2002-42a9-b414-344172ba21d6.jpg
-  alt: Passengers in the balloon basket above the clouds
-- src: https://imgcdn.bokun.tools/e8ed28f6-9319-4371-93b6-8014f6c390fa.jpg
-  alt: Balloons being inflated at dawn
-- src: https://imgcdn.bokun.tools/28f18399-38b5-4623-8e6b-33307a59e112.jpg
-  alt: Group of passengers next to the balloon before take-off
-- src: https://imgcdn.bokun.tools/69acbe78-26d4-406e-8ac4-63ad368dfaa8.jpg
-  alt: Passengers having breakfast after the flight
+- src: /images/actividades/segovia/globo/unsplash-globo-alcazar-catedral.webp
+  alt: Balloon over Segovia with the Alcázar and the Cathedral below
+- src: /images/actividades/segovia/globo/unsplash-globos-catedral.webp
+  alt: Balloons beside the Cathedral of Segovia
+- src: /images/actividades/segovia/globo/pexels-alcazar-globos-amanecer.webp
+  alt: The Alcázar silhouetted at dawn with balloons in the sky
+- src: /images/actividades/segovia/globo/unsplash-aerea-catedral-cerca.webp
+  alt: Balloon flying over the rooftops of Segovia
+- src: /images/actividades/segovia/globo/unsplash-globos-atardecer.webp
+  alt: Balloons rising over the plain with the Guadarrama mountains behind
+- src: /images/actividades/segovia/globo/unsplash-vista-aerea-catedral.webp
+  alt: Aerial view of the Cathedral of Segovia
+- src: /images/actividades/segovia/globo/unsplash-globo-sobre-segovia.webp
+  alt: Morning view of Segovia from the air
+- src: /images/actividades/segovia/globo/unsplash-globo-iglesia.webp
+  alt: Balloon passing a Romanesque bell tower in Segovia
+- src: /images/actividades/segovia/globo/unsplash-catedral-desde-arriba.webp
+  alt: The Cathedral and old town of Segovia from above
+- src: /images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp
+  alt: Segovia old town with the Alcázar on the horizon
+- src: /images/actividades/segovia/globo/pexels-globo-amarillo.webp
+  alt: Yellow hot air balloon against a blue sky
+- src: /images/actividades/segovia/globo/pexels-globo-cielo-azul.webp
+  alt: Hot air balloon in flight
 publicada: true
 destacada: false
 fecha: '2026-10-08'

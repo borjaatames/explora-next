@@ -38,7 +38,7 @@ La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres
 | [Tour guiado Sagrada Família + Park Güell](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado) | 104 € | 4 h | Solo estos dos monumentos, con guía | Quien quiere ambos con guía sin gastar el día entero |
 | [Barcelona en un día: Sagrada Família y Park Güell](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell) | 129 € | 7 h | Montjuïc, casco antiguo, Passeig de Gràcia + ambos monumentos | Quien quiere ver lo más importante de Barcelona en una sola jornada |
 | [Tour privado Sagrada Família + Park Güell](/ciudades/barcelona/actividades/tour-privado-sagrada-familia-park-guell) | 450 €/grupo | 4 h | Solo estos dos monumentos, guía en exclusiva | Quien quiere ambos monumentos sin compartir grupo |
-| [Lo mejor de Barcelona en privado, con Sagrada Família](/ciudades/barcelona/actividades/tour-privado-lo-mejor-de-barcelona-sagrada-familia) | 500 €/grupo | 7 h | Montjuïc, Barrio Gótico, Passeig de Gràcia + Sagrada Família — **no incluye Park Güell** | Quien quiere un privado de día completo centrado en el resto de la ciudad, no en Park Güell |
+| [Lo mejor de Barcelona en privado, con Sagrada Família](/ciudades/barcelona/actividades/tour-privado-lo-mejor-de-barcelona-sagrada-familia) | desde 658 €/grupo (1-2 personas) | 7 h | Montjuïc, Barrio Gótico, Passeig de Gràcia + Sagrada Família — **no incluye Park Güell** | Quien quiere un privado de día completo centrado en el resto de la ciudad, no en Park Güell |
 
 ## Cómo elegir en 30 segundos
 
@@ -51,4 +51,4 @@ La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres
 
 ## Cosas a tener en cuenta al reservar
 
-La subida a la torre tiene aforo limitado y a veces cierra por mantenimiento — conviene confirmar disponibilidad antes de reservar si es el motivo principal de la visita. El privado de 500 € no incluye Park Güell: si quieres ambos monumentos en formato privado, hay que elegir uno de los otros tres combinados. Todas las opciones incluyen entrada sin colas a la Sagrada Família.
+La subida a la torre tiene aforo limitado y a veces cierra por mantenimiento — conviene confirmar disponibilidad antes de reservar si es el motivo principal de la visita. El privado de día completo (desde 658 €) no incluye Park Güell: si quieres ambos monumentos en formato privado, hay que elegir uno de los otros tres combinados. Todas las opciones incluyen entrada sin colas a la Sagrada Família.

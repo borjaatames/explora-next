@@ -53,17 +53,25 @@ keywords:
 - visita privada reina sofía
 - guernica visita guiada
 - tour reina sofía madrid
-imagen: https://imgcdn.bokun.tools/ff1740db-f0c9-48ad-b3ca-cb25a1e3d402.jpg
-imagenAlt: Edificio Sabatini del Museo Reina Sofía con sus torres de cristal
+imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-madrid-6394601959-hero.webp
+imagenAlt: Entrada del edificio Sabatini del Museo Reina Sofía con sus torres de ascensores de cristal
 galeria:
-- src: https://imgcdn.bokun.tools/26ec7c30-ab84-433f-9d6c-2ac9396ff1ee.jpg
-  alt: Ampliación de Jean Nouvel del Museo Reina Sofía iluminada
+- src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
+  alt: El edificio Sabatini iluminado de noche
+- src: /images/actividades/madrid/reina-sofia-obras/museo-reina-sofia-obras-museum-4252011522-hero.webp
+  alt: Sala de pintura moderna del Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
   alt: Visitantes en una sala del Museo Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Jardín del Museo Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
+  alt: Sala de esculturas con luz cálida en el Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
   alt: Grupo escolar ante una pintura abstracta en el Reina Sofía
+- src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
+  alt: Larga sala blanca del Museo Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
+  alt: Escultura en el jardín del Museo Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
+  alt: Torre de ascensores de cristal del Reina Sofía desde una calle cercana
 publicada: true
 destacada: false
 fecha: '2026-10-07'

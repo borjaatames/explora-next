@@ -38,7 +38,7 @@ The Sagrada Família can be booked seven different ways. If you only want to vis
 | [Guided tour: Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | €104 | 4 h | Just these two monuments, guided | Travelers who want both, guided, without spending the whole day |
 | [Barcelona in one day: Sagrada Família and Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | €129 | 7 h | Montjuïc, old town, Passeig de Gràcia + both monuments | Travelers who want to see Barcelona's highlights in a single day |
 | [Private tour: Sagrada Família + Park Güell](/en/cities/barcelona/activities/private-sagrada-familia-and-park-guell-tour) | €450/group | 4 h | Just these two monuments, private guide | Travelers who want both monuments without sharing a group |
-| [Best of Barcelona private tour, with Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | €500/group | 7 h | Montjuïc, Gothic Quarter, Passeig de Gràcia + Sagrada Família — **does not include Park Güell** | Travelers who want a full-day private tour focused on the rest of the city, not Park Güell |
+| [Best of Barcelona private tour, with Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | from €658/group (1-2 people) | 7 h | Montjuïc, Gothic Quarter, Passeig de Gràcia + Sagrada Família — **does not include Park Güell** | Travelers who want a full-day private tour focused on the rest of the city, not Park Güell |
 
 ## How to choose in 30 seconds
 
@@ -51,4 +51,4 @@ The Sagrada Família can be booked seven different ways. If you only want to vis
 
 ## Things to know before booking
 
-Tower access has limited capacity and sometimes closes for maintenance — confirm availability before booking if that's your main reason for visiting. The €500 private tour does not include Park Güell: if you want both monuments in a private format, choose one of the other three combined options instead. All options include skip-the-line entry to the Sagrada Família.
+Tower access has limited capacity and sometimes closes for maintenance — confirm availability before booking if that's your main reason for visiting. The full-day private tour (from €658) does not include Park Güell: if you want both monuments in a private format, choose one of the other three combined options instead. All options include skip-the-line entry to the Sagrada Família.

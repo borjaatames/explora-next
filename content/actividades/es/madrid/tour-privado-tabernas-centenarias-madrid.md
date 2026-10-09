@@ -53,27 +53,37 @@ keywords:
 - tabernas centenarias madrid
 - tour tabernas madrid
 - restaurante más antiguo del mundo
-imagen: https://imgcdn.bokun.tools/3f61203a-d624-4bd7-92d7-4561f1fb4793.jpg
-imagenAlt: Cocinero metiendo asados en un horno de leña centenario
+imagen: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
+imagenAlt: Interior de madera de una taberna tradicional de Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/8ec6700c-af4a-4423-86a1-602e7f321e2d.jpg
-  alt: Fachada histórica de Lhardy
-- src: https://imgcdn.bokun.tools/741daac1-3031-4ca3-982e-13e81a7c4a8b.jpg
-  alt: Comedor clásico de un restaurante centenario
-- src: https://imgcdn.bokun.tools/cc8f937a-fbbd-4621-8593-e05224566176.jpg
-  alt: Comedor bajo bóveda de ladrillo
-- src: https://imgcdn.bokun.tools/d25651b8-c2fa-4fab-991c-ebbacaae0f89.jpg
-  alt: Interior de una taberna con jamones y botellas
-- src: https://imgcdn.bokun.tools/87909b28-8b43-47ff-a967-3ace7dec16d6.jpg
-  alt: Antigua caja registradora de una taberna
-- src: https://imgcdn.bokun.tools/cdeca9dd-46e8-47dd-ad87-0cbffa13f836.jpg
-  alt: Escalera estrecha que baja a la bodega
-- src: https://imgcdn.bokun.tools/f95f2101-52d1-4aa7-88ea-78b863d43525.jpg
-  alt: Bodega con botellas de vino
-- src: https://imgcdn.bokun.tools/2ac9e187-4d68-4a99-bb71-c2cfa6dc3e82.jpg
-  alt: Entrada de una taberna tradicional de Madrid
-- src: https://imgcdn.bokun.tools/ecead973-0b7d-436e-9928-a3f191969aa5.jpg
-  alt: Comedor elegante de un restaurante histórico
+- src: /images/actividades/madrid/tabernas-centenarias/unsplash-barra-madera-antigua.webp
+  alt: Barra antigua de madera con botellas y taburetes
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp
+  alt: Fachada de azulejos de Villa Rosa, un local histórico junto a la Plaza de Santa Ana
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp
+  alt: Fachada de una taberna antigua iluminada de noche en el centro de Madrid
+- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
+  alt: Camarero sirviendo vino en la barra
+- src: /images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp
+  alt: Jamones colgados sobre la barra de una taberna madrileña
+- src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
+  alt: Una caña con su tapa en una barra de zinc
+- src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
+  alt: Ración de croquetas de jamón
+- src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
+  alt: Patatas bravas, un clásico de las tabernas de Madrid
+- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp
+  alt: Pincho de tortilla de patatas
+- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-cutter-cutting-iberian-court-hero.webp
+  alt: Corte de jamón ibérico a cuchillo
+- src: /images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp
+  alt: Sirviendo una copa de vino tinto
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
+  alt: Bocadillo de calamares con una caña
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp
+  alt: Calle estrecha del Madrid antiguo
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
+  alt: La Plaza Mayor, en el corazón del Madrid de los Austrias
 publicada: true
 destacada: false
 fecha: '2026-10-07'

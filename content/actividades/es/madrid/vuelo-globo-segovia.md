@@ -61,25 +61,33 @@ keywords:
 - globo segovia
 - paseo en globo cerca de madrid
 - globo aerostático segovia
-imagen: https://imgcdn.bokun.tools/57d9a415-99dd-488b-9fe7-9cc43bfaa7a9.jpg
-imagenAlt: Alcázar de Segovia con globos aerostáticos al fondo
+imagen: /images/actividades/segovia/globo/unsplash-globos-alcazar.webp
+imagenAlt: Globos aerostáticos sobre el Alcázar de Segovia al amanecer
 galeria:
-- src: https://imgcdn.bokun.tools/5af089eb-bf81-4c6d-95fa-bdf8d367d71a.jpg
-  alt: Globo de Segovia Balloons volando sobre la ciudad
-- src: https://imgcdn.bokun.tools/3e07bd35-4758-455c-92af-3ce1198a3b0b.jpg
-  alt: Globo sobre Segovia con la Catedral al fondo
-- src: https://imgcdn.bokun.tools/468e239d-587e-4d4e-b05c-95f70ba72b25.jpg
-  alt: Vista cenital de la cesta del globo sobre el Alcázar
-- src: https://imgcdn.bokun.tools/7e6a76e6-8620-456b-b780-c423c87a4c70.jpg
-  alt: Pasajera en la cesta con el Acueducto de Segovia debajo
-- src: https://imgcdn.bokun.tools/c39522b6-2002-42a9-b414-344172ba21d6.jpg
-  alt: Pasajeros en la cesta del globo por encima de las nubes
-- src: https://imgcdn.bokun.tools/e8ed28f6-9319-4371-93b6-8014f6c390fa.jpg
-  alt: Globos inflándose al amanecer
-- src: https://imgcdn.bokun.tools/28f18399-38b5-4623-8e6b-33307a59e112.jpg
-  alt: Grupo de pasajeros junto al globo antes del despegue
-- src: https://imgcdn.bokun.tools/69acbe78-26d4-406e-8ac4-63ad368dfaa8.jpg
-  alt: Desayuno de los pasajeros después del vuelo
+- src: /images/actividades/segovia/globo/unsplash-globo-alcazar-catedral.webp
+  alt: Globo sobre Segovia con el Alcázar y la Catedral a sus pies
+- src: /images/actividades/segovia/globo/unsplash-globos-catedral.webp
+  alt: Globos junto a la Catedral de Segovia
+- src: /images/actividades/segovia/globo/pexels-alcazar-globos-amanecer.webp
+  alt: El Alcázar a contraluz al amanecer con globos en el cielo
+- src: /images/actividades/segovia/globo/unsplash-aerea-catedral-cerca.webp
+  alt: Globo volando sobre los tejados de Segovia
+- src: /images/actividades/segovia/globo/unsplash-globos-atardecer.webp
+  alt: Globos sobre la llanura con la sierra de Guadarrama al fondo
+- src: /images/actividades/segovia/globo/unsplash-vista-aerea-catedral.webp
+  alt: Vista aérea de la Catedral de Segovia
+- src: /images/actividades/segovia/globo/unsplash-globo-sobre-segovia.webp
+  alt: Segovia vista desde el aire por la mañana
+- src: /images/actividades/segovia/globo/unsplash-globo-iglesia.webp
+  alt: Globo pasando junto a un campanario románico de Segovia
+- src: /images/actividades/segovia/globo/unsplash-catedral-desde-arriba.webp
+  alt: La Catedral y el casco antiguo de Segovia desde arriba
+- src: /images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp
+  alt: Casco antiguo de Segovia con el Alcázar en el horizonte
+- src: /images/actividades/segovia/globo/pexels-globo-amarillo.webp
+  alt: Globo aerostático amarillo en un cielo azul
+- src: /images/actividades/segovia/globo/pexels-globo-cielo-azul.webp
+  alt: Globo aerostático en pleno vuelo
 publicada: true
 destacada: false
 fecha: '2026-10-08'

@@ -53,27 +53,37 @@ keywords:
 - madrid oldest taverns
 - madrid tavern tour
 - world's oldest restaurant
-imagen: https://imgcdn.bokun.tools/3f61203a-d624-4bd7-92d7-4561f1fb4793.jpg
-imagenAlt: Chef placing roasts in a century-old wood-fired oven
+imagen: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
+imagenAlt: Wood-panelled interior of a traditional Madrid tavern
 galeria:
-- src: https://imgcdn.bokun.tools/8ec6700c-af4a-4423-86a1-602e7f321e2d.jpg
-  alt: Historic façade of Lhardy
-- src: https://imgcdn.bokun.tools/741daac1-3031-4ca3-982e-13e81a7c4a8b.jpg
-  alt: Classic dining room of a century-old restaurant
-- src: https://imgcdn.bokun.tools/cc8f937a-fbbd-4621-8593-e05224566176.jpg
-  alt: Dining room under a brick vault
-- src: https://imgcdn.bokun.tools/d25651b8-c2fa-4fab-991c-ebbacaae0f89.jpg
-  alt: Tavern interior with hams and bottles
-- src: https://imgcdn.bokun.tools/87909b28-8b43-47ff-a967-3ace7dec16d6.jpg
-  alt: Old cash register in a tavern
-- src: https://imgcdn.bokun.tools/cdeca9dd-46e8-47dd-ad87-0cbffa13f836.jpg
-  alt: Narrow staircase down to the cellar
-- src: https://imgcdn.bokun.tools/f95f2101-52d1-4aa7-88ea-78b863d43525.jpg
-  alt: Wine cellar with bottles
-- src: https://imgcdn.bokun.tools/2ac9e187-4d68-4a99-bb71-c2cfa6dc3e82.jpg
-  alt: Entrance to a traditional Madrid tavern
-- src: https://imgcdn.bokun.tools/ecead973-0b7d-436e-9928-a3f191969aa5.jpg
-  alt: Elegant dining room of a historic restaurant
+- src: /images/actividades/madrid/tabernas-centenarias/unsplash-barra-madera-antigua.webp
+  alt: Old wooden bar lined with bottles and stools
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp
+  alt: Tiled façade of Villa Rosa, a historic venue near Plaza de Santa Ana
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp
+  alt: Old tavern façade lit up at night in the centre of Madrid
+- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
+  alt: Waiter pouring wine behind the bar
+- src: /images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp
+  alt: Hams hanging over the bar of a Madrid tavern
+- src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
+  alt: A caña with a tapa on a zinc counter
+- src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
+  alt: Plate of ham croquettes
+- src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
+  alt: Patatas bravas, a classic Madrid tapa
+- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp
+  alt: Slice of Spanish omelette
+- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-cutter-cutting-iberian-court-hero.webp
+  alt: Carving Iberian ham by hand
+- src: /images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp
+  alt: Pouring a glass of red wine
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
+  alt: Squid sandwich with a beer
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp
+  alt: Narrow street in old Madrid
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
+  alt: Plaza Mayor, in the heart of the old town
 publicada: true
 destacada: false
 fecha: '2026-10-07'
