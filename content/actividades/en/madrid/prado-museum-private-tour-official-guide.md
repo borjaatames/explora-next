@@ -76,10 +76,38 @@ galeria:
   alt: Las Meninas by Velázquez, Prado Museum
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-by-bosch-hero.webp
   alt: Detail of The Garden of Earthly Delights by Bosch
+- src: /images/actividades/madrid/prado-privado/wm-goya-tres-de-mayo.webp
+  alt: The Third of May 1808 by Goya
+- src: /images/actividades/madrid/prado-privado/wm-greco-caballero.webp
+  alt: The Nobleman with his Hand on his Chest by El Greco
+- src: /images/actividades/madrid/prado-privado/wm-velazquez-hilanderas.webp
+  alt: The Spinners (The Fable of Arachne) by Velázquez
+- src: /images/actividades/madrid/prado-privado/wm-fra-angelico-anunciacion.webp
+  alt: The Annunciation by Fra Angelico
+- src: /images/actividades/madrid/prado-privado/wm-weyden-descendimiento.webp
+  alt: The Descent from the Cross by Rogier van der Weyden
+- src: /images/actividades/madrid/prado-privado/wm-durero-autorretrato.webp
+  alt: Self-Portrait by Albrecht Dürer (1498)
+- src: /images/actividades/madrid/prado-privado/wm-rafael-cardenal.webp
+  alt: The Cardinal by Raphael
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp
   alt: Detail of Titian's Charles V at Mühlberg
+- src: /images/actividades/madrid/prado-privado/pexels-velazquez-facade.webp
+  alt: Velázquez façade of the Prado Museum with the Velázquez statue
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
   alt: Villanueva Building of the Prado Museum with the Velázquez statue
+- src: /images/actividades/madrid/prado-privado/unsplash-villanueva-hedges.webp
+  alt: Rotunda of the Villanueva Building behind the hedge gardens
+- src: /images/actividades/madrid/prado-privado/unsplash-goya-statue-gardens.webp
+  alt: Statue of Goya at the north entrance of the Prado
+- src: /images/actividades/madrid/prado-privado/unsplash-velazquez-door.webp
+  alt: Columns of the Velázquez door, the museum’s main entrance
+- src: /images/actividades/madrid/prado-privado/unsplash-museo-del-prado-sign.webp
+  alt: '"Museo del Prado" lettering on the façade'
+- src: /images/actividades/madrid/prado-privado/pexels-prado-autumn.webp
+  alt: The Prado Museum in autumn
+- src: /images/actividades/madrid/prado-privado/unsplash-jeronimos-church.webp
+  alt: San Jerónimo el Real church, next to the Prado
 - src: /images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp
   alt: Tree-lined Paseo del Prado, next to the museum
 publicada: true

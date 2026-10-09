@@ -77,12 +77,36 @@ imagenAlt: Royal Palace of Madrid and its gardens
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
   alt: Gala Dining Room of the Royal Palace with crystal chandeliers
+- src: /images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp
+  alt: The Throne Room of the Royal Palace
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-capilla-real.webp
+  alt: The Royal Chapel of the palace
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-estatua.webp
+  alt: Statue and painted ceiling on the main staircase
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-cupula.webp
+  alt: Dome and chandelier above the main staircase
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-balaustrada.webp
+  alt: Marble balustrade and lamps on the main staircase
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Main façade of the Royal Palace on Plaza de la Armería
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
   alt: Arcades of Plaza de la Armería, the meeting point
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-patio-arcadas.webp
+  alt: Arcaded gallery and dome of the Royal Palace
+- src: /images/actividades/madrid/palacio-real-privado/pexels-reloj-bandera.webp
+  alt: Clock and Spanish flag on the palace’s main façade
+- src: /images/actividades/madrid/palacio-real-privado/pexels-fachada-detalle.webp
+  alt: Corner of the Royal Palace façade against a blue sky
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-verja-escudo.webp
+  alt: Royal coat of arms on the palace gates
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
   alt: Equestrian statue of Philip IV in Plaza de Oriente, in front of the palace
+- src: /images/actividades/madrid/palacio-real-privado/pexels-fuente-leones.webp
+  alt: Fountain with lions at the foot of the Philip IV statue
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-jardines-sabatini.webp
+  alt: The Royal Palace from the Sabatini Gardens
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-campo-del-moro.webp
+  alt: The Royal Palace from the Campo del Moro gardens
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp
   alt: Plaza de la Armería and the Royal Palace on a sunny day
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp

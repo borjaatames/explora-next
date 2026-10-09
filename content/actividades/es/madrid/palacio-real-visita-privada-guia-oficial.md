@@ -77,12 +77,36 @@ imagenAlt: Palacio Real de Madrid y sus jardines
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
   alt: Comedor de gala del Palacio Real con lámparas de cristal
+- src: /images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp
+  alt: El Salón del Trono del Palacio Real
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-capilla-real.webp
+  alt: La Capilla Real del palacio
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-estatua.webp
+  alt: Estatua y techo pintado en la escalera principal
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-cupula.webp
+  alt: Cúpula y lámpara sobre la escalera principal
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-balaustrada.webp
+  alt: Balaustrada de mármol y faroles de la escalera principal
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Fachada principal del Palacio Real en la Plaza de la Armería
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
   alt: Arcos de la Plaza de la Armería, punto de encuentro
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-patio-arcadas.webp
+  alt: Galería de arcos y cúpula del Palacio Real
+- src: /images/actividades/madrid/palacio-real-privado/pexels-reloj-bandera.webp
+  alt: Reloj y bandera de España en la fachada principal
+- src: /images/actividades/madrid/palacio-real-privado/pexels-fachada-detalle.webp
+  alt: Esquina de la fachada del Palacio Real con cielo azul
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-verja-escudo.webp
+  alt: Escudo real en la verja del palacio
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
   alt: Estatua ecuestre de Felipe IV en la Plaza de Oriente, frente al palacio
+- src: /images/actividades/madrid/palacio-real-privado/pexels-fuente-leones.webp
+  alt: Fuente con leones a los pies de la estatua de Felipe IV
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-jardines-sabatini.webp
+  alt: El Palacio Real desde los jardines de Sabatini
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-campo-del-moro.webp
+  alt: El Palacio Real desde los jardines del Campo del Moro
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp
   alt: Plaza de la Armería y el Palacio Real en un día soleado
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp

@@ -76,10 +76,38 @@ galeria:
   alt: Las meninas, de Velázquez, en el Museo del Prado
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-by-bosch-hero.webp
   alt: Detalle de El jardín de las delicias, de El Bosco
+- src: /images/actividades/madrid/prado-privado/wm-goya-tres-de-mayo.webp
+  alt: El 3 de mayo en Madrid (Los fusilamientos), de Goya
+- src: /images/actividades/madrid/prado-privado/wm-greco-caballero.webp
+  alt: El caballero de la mano en el pecho, de El Greco
+- src: /images/actividades/madrid/prado-privado/wm-velazquez-hilanderas.webp
+  alt: Las hilanderas (La fábula de Aracne), de Velázquez
+- src: /images/actividades/madrid/prado-privado/wm-fra-angelico-anunciacion.webp
+  alt: La Anunciación, de Fra Angelico
+- src: /images/actividades/madrid/prado-privado/wm-weyden-descendimiento.webp
+  alt: El Descendimiento, de Rogier van der Weyden
+- src: /images/actividades/madrid/prado-privado/wm-durero-autorretrato.webp
+  alt: Autorretrato de Alberto Durero (1498)
+- src: /images/actividades/madrid/prado-privado/wm-rafael-cardenal.webp
+  alt: El cardenal, de Rafael
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp
   alt: Detalle de Carlos V en Mühlberg, de Tiziano
+- src: /images/actividades/madrid/prado-privado/pexels-velazquez-facade.webp
+  alt: Fachada de Velázquez del Museo del Prado con la estatua del pintor
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
   alt: Edificio Villanueva del Museo del Prado con la estatua de Velázquez
+- src: /images/actividades/madrid/prado-privado/unsplash-villanueva-hedges.webp
+  alt: Rotonda del edificio Villanueva tras los jardines de setos
+- src: /images/actividades/madrid/prado-privado/unsplash-goya-statue-gardens.webp
+  alt: Estatua de Goya en la entrada norte del Prado
+- src: /images/actividades/madrid/prado-privado/unsplash-velazquez-door.webp
+  alt: Columnas de la puerta de Velázquez, entrada principal del museo
+- src: /images/actividades/madrid/prado-privado/unsplash-museo-del-prado-sign.webp
+  alt: Rótulo «Museo del Prado» en la fachada
+- src: /images/actividades/madrid/prado-privado/pexels-prado-autumn.webp
+  alt: El Museo del Prado en otoño
+- src: /images/actividades/madrid/prado-privado/unsplash-jeronimos-church.webp
+  alt: Iglesia de San Jerónimo el Real, junto al Prado
 - src: /images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp
   alt: Paseo del Prado arbolado, junto al museo
 publicada: true
