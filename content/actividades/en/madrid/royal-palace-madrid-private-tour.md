@@ -72,29 +72,21 @@ keywords:
 - royal palace madrid private tour
 - royal palace guide
 - royal palace tour madrid
-imagen: https://imgcdn.bokun.tools/b8686b78-2e1b-490b-869e-da2b2ea8579d.jpg
-imagenAlt: Plaza de la Armería and the façade of the Royal Palace of Madrid
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp
+imagenAlt: Royal Palace of Madrid and its gardens
 galeria:
-- src: https://imgcdn.bokun.tools/d3fa8eff-c260-4f1b-9139-c946d0d55a26.jpg
-  alt: Throne Room of the Royal Palace
-- src: https://imgcdn.bokun.tools/707b0731-37d1-4865-8eb6-73252acc8961.jpg
-  alt: The Royal Palace of Madrid at sunset
-- src: https://imgcdn.bokun.tools/65687025-ad62-4947-aa98-be55e7ac8955.jpg
-  alt: Hall with a painted ceiling and chandelier
-- src: https://imgcdn.bokun.tools/1e8257c0-be49-4079-bf5c-3b477f9f6931.jpg
-  alt: Fresco ceiling in the Royal Palace
-- src: https://imgcdn.bokun.tools/dec342ea-0204-4baa-8975-2038b667161f.jpg
-  alt: Room decorated with a large crystal chandelier
-- src: https://imgcdn.bokun.tools/91b70f5c-8b59-4da8-9a85-eaa44d20a705.jpg
-  alt: Rococo hall with a chandelier
-- src: https://imgcdn.bokun.tools/3fe84981-66c3-4650-9ee9-b0f229b6e73a.jpg
-  alt: Ceiling fresco in one of the halls
-- src: https://imgcdn.bokun.tools/83bbf851-9503-4f20-b29f-2581c38fec25.jpg
-  alt: Royal crown and sceptre in a display case
-- src: https://imgcdn.bokun.tools/5d451f20-9fb0-44d2-947f-804e28567215.jpg
-  alt: Detail of gilded reliefs on a palace wall
-- src: https://imgcdn.bokun.tools/0c7de456-c1a1-42e7-9abf-b3309e01d4e5.jpg
-  alt: Lit chandelier
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
+  alt: Gala Dining Room of the Royal Palace with crystal chandeliers
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
+  alt: Main façade of the Royal Palace on Plaza de la Armería
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: Arcades of Plaza de la Armería, the meeting point
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: Equestrian statue of Philip IV in Plaza de Oriente, in front of the palace
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp
+  alt: Plaza de la Armería and the Royal Palace on a sunny day
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: The Royal Palace lit up at night
 publicada: true
 destacada: false
 fecha: '2026-10-07'

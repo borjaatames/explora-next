@@ -72,29 +72,21 @@ keywords:
 - visita privada palacio real madrid
 - guía palacio real
 - tour palacio real madrid
-imagen: https://imgcdn.bokun.tools/b8686b78-2e1b-490b-869e-da2b2ea8579d.jpg
-imagenAlt: Plaza de la Armería y fachada del Palacio Real de Madrid
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp
+imagenAlt: Palacio Real de Madrid y sus jardines
 galeria:
-- src: https://imgcdn.bokun.tools/d3fa8eff-c260-4f1b-9139-c946d0d55a26.jpg
-  alt: Salón del Trono del Palacio Real
-- src: https://imgcdn.bokun.tools/707b0731-37d1-4865-8eb6-73252acc8961.jpg
-  alt: Palacio Real de Madrid al atardecer
-- src: https://imgcdn.bokun.tools/65687025-ad62-4947-aa98-be55e7ac8955.jpg
-  alt: Salón con techo pintado y lámpara de araña
-- src: https://imgcdn.bokun.tools/1e8257c0-be49-4079-bf5c-3b477f9f6931.jpg
-  alt: Techo pintado al fresco en el Palacio Real
-- src: https://imgcdn.bokun.tools/dec342ea-0204-4baa-8975-2038b667161f.jpg
-  alt: Sala decorada con una gran lámpara de cristal
-- src: https://imgcdn.bokun.tools/91b70f5c-8b59-4da8-9a85-eaa44d20a705.jpg
-  alt: Salón rococó con lámpara de araña
-- src: https://imgcdn.bokun.tools/3fe84981-66c3-4650-9ee9-b0f229b6e73a.jpg
-  alt: Fresco del techo de uno de los salones
-- src: https://imgcdn.bokun.tools/83bbf851-9503-4f20-b29f-2581c38fec25.jpg
-  alt: Corona y cetro reales en una vitrina
-- src: https://imgcdn.bokun.tools/5d451f20-9fb0-44d2-947f-804e28567215.jpg
-  alt: Detalle de relieves dorados en una pared del palacio
-- src: https://imgcdn.bokun.tools/0c7de456-c1a1-42e7-9abf-b3309e01d4e5.jpg
-  alt: Lámpara de araña encendida
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
+  alt: Comedor de gala del Palacio Real con lámparas de cristal
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
+  alt: Fachada principal del Palacio Real en la Plaza de la Armería
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: Arcos de la Plaza de la Armería, punto de encuentro
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: Estatua ecuestre de Felipe IV en la Plaza de Oriente, frente al palacio
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp
+  alt: Plaza de la Armería y el Palacio Real en un día soleado
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: El Palacio Real iluminado de noche
 publicada: true
 destacada: false
 fecha: '2026-10-07'

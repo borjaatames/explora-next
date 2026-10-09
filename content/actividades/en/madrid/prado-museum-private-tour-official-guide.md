@@ -69,21 +69,19 @@ keywords:
 - prado museum private tour
 - private guide prado
 - prado tour madrid
-imagen: https://imgcdn.bokun.tools/789982f9-685f-4da0-9a46-e0ab07b68be9.jpg
-imagenAlt: The Velázquez entrance of the Prado Museum
+imagen: /images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp
+imagenAlt: Prado Museum entrance with the statue of Goya, the meeting point
 galeria:
-- src: https://imgcdn.bokun.tools/bb0b4683-50bf-453f-a308-931a741d80bd.jpg
-  alt: The Prado Museum next to the Jerónimos church
-- src: https://imgcdn.bokun.tools/30adc823-e66e-44ee-8ef8-66fedb766fdb.jpg
-  alt: Lobby of the Prado Museum extension
-- src: https://imgcdn.bokun.tools/e0007d68-9bde-4dda-8fd3-b934f0fd10ed.jpg
-  alt: Prado gallery room with paintings
-- src: https://imgcdn.bokun.tools/515e17dc-35a5-49e2-a8e0-78d063829ec8.jpg
-  alt: Central gallery of the Prado Museum
-- src: https://imgcdn.bokun.tools/65f6d0d5-c0a7-4546-a9dc-21525259d919.jpg
-  alt: The Villanueva building seen from the gardens
-- src: https://imgcdn.bokun.tools/ca72c5e5-5f36-4e1e-beab-603a9324f77f.jpg
-  alt: Main façade of the Prado with the Velázquez statue
+- src: /images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp
+  alt: Las Meninas by Velázquez, Prado Museum
+- src: /images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-by-bosch-hero.webp
+  alt: Detail of The Garden of Earthly Delights by Bosch
+- src: /images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp
+  alt: Detail of Titian's Charles V at Mühlberg
+- src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
+  alt: Villanueva Building of the Prado Museum with the Velázquez statue
+- src: /images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp
+  alt: Tree-lined Paseo del Prado, next to the museum
 publicada: true
 destacada: false
 fecha: '2026-10-07'

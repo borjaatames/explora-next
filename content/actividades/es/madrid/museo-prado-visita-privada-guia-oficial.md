@@ -69,21 +69,19 @@ keywords:
 - visita privada museo del prado
 - guía privado prado
 - tour prado madrid
-imagen: https://imgcdn.bokun.tools/789982f9-685f-4da0-9a46-e0ab07b68be9.jpg
-imagenAlt: Puerta de Velázquez del Museo del Prado
+imagen: /images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp
+imagenAlt: Entrada del Museo del Prado con la estatua de Goya, punto de encuentro
 galeria:
-- src: https://imgcdn.bokun.tools/bb0b4683-50bf-453f-a308-931a741d80bd.jpg
-  alt: Museo del Prado junto a la iglesia de los Jerónimos
-- src: https://imgcdn.bokun.tools/30adc823-e66e-44ee-8ef8-66fedb766fdb.jpg
-  alt: Vestíbulo de la ampliación del Museo del Prado
-- src: https://imgcdn.bokun.tools/e0007d68-9bde-4dda-8fd3-b934f0fd10ed.jpg
-  alt: Sala del Prado con pinturas
-- src: https://imgcdn.bokun.tools/515e17dc-35a5-49e2-a8e0-78d063829ec8.jpg
-  alt: Galería central del Museo del Prado
-- src: https://imgcdn.bokun.tools/65f6d0d5-c0a7-4546-a9dc-21525259d919.jpg
-  alt: Edificio Villanueva visto desde los jardines
-- src: https://imgcdn.bokun.tools/ca72c5e5-5f36-4e1e-beab-603a9324f77f.jpg
-  alt: Fachada principal del Prado con la estatua de Velázquez
+- src: /images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp
+  alt: Las meninas, de Velázquez, en el Museo del Prado
+- src: /images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-by-bosch-hero.webp
+  alt: Detalle de El jardín de las delicias, de El Bosco
+- src: /images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp
+  alt: Detalle de Carlos V en Mühlberg, de Tiziano
+- src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
+  alt: Edificio Villanueva del Museo del Prado con la estatua de Velázquez
+- src: /images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp
+  alt: Paseo del Prado arbolado, junto al museo
 publicada: true
 destacada: false
 fecha: '2026-10-07'
