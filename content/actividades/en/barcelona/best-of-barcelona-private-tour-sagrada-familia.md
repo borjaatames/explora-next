@@ -23,7 +23,7 @@ highlights:
 - Full-day private tour for your group only
 - Sagrada Família with skip-the-line entry and a guided visit inside
 - Montjuïc, the Gothic Quarter and Passeig de Gràcia with a private guide
-- Price per group: €658 for 1 or 2 people (up to 6)
+- 'Price per group: €658 for 1 or 2 people (up to 6)'
 incluye:
 - Live private guide
 - Skip-the-line entry and a guided visit inside the Sagrada Família

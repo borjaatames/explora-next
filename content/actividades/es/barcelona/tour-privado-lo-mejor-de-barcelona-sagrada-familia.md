@@ -23,7 +23,7 @@ highlights:
 - Tour privado de día completo solo para tu grupo
 - Sagrada Família con entrada sin colas y visita guiada por dentro
 - Montjuïc, Barrio Gótico y Passeig de Gràcia con guía en exclusiva
-- Precio por grupo: 658 € para 1 o 2 personas (máximo 6)
+- 'Precio por grupo: 658 € para 1 o 2 personas (máximo 6)'
 incluye:
 - Guía privado en directo
 - Entrada sin colas y visita guiada por dentro de la Sagrada Família
