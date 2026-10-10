@@ -88,6 +88,24 @@ galeria:
   alt: Yellow hot air balloon against a blue sky
 - src: /images/actividades/segovia/globo/pexels-globo-cielo-azul.webp
   alt: Hot air balloon in flight
+- src: https://imgcdn.bokun.tools/57d9a415-99dd-488b-9fe7-9cc43bfaa7a9.jpg
+  alt: Segovia's Alcázar with hot air balloons in the background
+- src: https://imgcdn.bokun.tools/5af089eb-bf81-4c6d-95fa-bdf8d367d71a.jpg
+  alt: Segovia Balloons balloon flying over the city
+- src: https://imgcdn.bokun.tools/3e07bd35-4758-455c-92af-3ce1198a3b0b.jpg
+  alt: Balloon over Segovia with the Cathedral behind
+- src: https://imgcdn.bokun.tools/468e239d-587e-4d4e-b05c-95f70ba72b25.jpg
+  alt: Overhead view of the balloon basket above the Alcázar
+- src: https://imgcdn.bokun.tools/7e6a76e6-8620-456b-b780-c423c87a4c70.jpg
+  alt: Passenger in the basket with the Segovia Aqueduct below
+- src: https://imgcdn.bokun.tools/c39522b6-2002-42a9-b414-344172ba21d6.jpg
+  alt: Passengers in the balloon basket above the clouds
+- src: https://imgcdn.bokun.tools/e8ed28f6-9319-4371-93b6-8014f6c390fa.jpg
+  alt: Balloons being inflated at dawn
+- src: https://imgcdn.bokun.tools/28f18399-38b5-4623-8e6b-33307a59e112.jpg
+  alt: Group of passengers next to the balloon before take-off
+- src: https://imgcdn.bokun.tools/69acbe78-26d4-406e-8ac4-63ad368dfaa8.jpg
+  alt: Passengers having breakfast after the flight
 publicada: true
 destacada: false
 fecha: '2026-10-08'

@@ -88,6 +88,24 @@ galeria:
   alt: Globo aerostático amarillo en un cielo azul
 - src: /images/actividades/segovia/globo/pexels-globo-cielo-azul.webp
   alt: Globo aerostático en pleno vuelo
+- src: https://imgcdn.bokun.tools/57d9a415-99dd-488b-9fe7-9cc43bfaa7a9.jpg
+  alt: Alcázar de Segovia con globos aerostáticos al fondo
+- src: https://imgcdn.bokun.tools/5af089eb-bf81-4c6d-95fa-bdf8d367d71a.jpg
+  alt: Globo de Segovia Balloons volando sobre la ciudad
+- src: https://imgcdn.bokun.tools/3e07bd35-4758-455c-92af-3ce1198a3b0b.jpg
+  alt: Globo sobre Segovia con la Catedral al fondo
+- src: https://imgcdn.bokun.tools/468e239d-587e-4d4e-b05c-95f70ba72b25.jpg
+  alt: Vista cenital de la cesta del globo sobre el Alcázar
+- src: https://imgcdn.bokun.tools/7e6a76e6-8620-456b-b780-c423c87a4c70.jpg
+  alt: Pasajera en la cesta con el Acueducto de Segovia debajo
+- src: https://imgcdn.bokun.tools/c39522b6-2002-42a9-b414-344172ba21d6.jpg
+  alt: Pasajeros en la cesta del globo por encima de las nubes
+- src: https://imgcdn.bokun.tools/e8ed28f6-9319-4371-93b6-8014f6c390fa.jpg
+  alt: Globos inflándose al amanecer
+- src: https://imgcdn.bokun.tools/28f18399-38b5-4623-8e6b-33307a59e112.jpg
+  alt: Grupo de pasajeros junto al globo antes del despegue
+- src: https://imgcdn.bokun.tools/69acbe78-26d4-406e-8ac4-63ad368dfaa8.jpg
+  alt: Desayuno de los pasajeros después del vuelo
 publicada: true
 destacada: false
 fecha: '2026-10-08'
