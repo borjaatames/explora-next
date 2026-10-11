@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 import { textoUnidadBokun } from "@/lib/reservaBokun";
 
@@ -25,11 +25,21 @@ import { textoUnidadBokun } from "@/lib/reservaBokun";
  * Consentimiento: por decisión de producto el widget se trata como cookie
  * funcional (necesaria para reservar) y se carga siempre, sin gate del
  * banner de cookies.
+ *
+ * Rendimiento: el loader arrastra ~1,3 MB de JavaScript de Bokun y monta un
+ * botón flotante que provocaba un CLS de 0,47 en móvil (PageSpeed 17-24).
+ * Por eso NO se inyecta al cargar la página: se espera a que el bloque de
+ * reserva esté a MARGEN_CARGA de entrar en pantalla (scroll o clic en
+ * "Ver fechas disponibles", que baja hasta #reservar). En escritorio el
+ * bloque está en el sidebar visible, así que se carga de inmediato.
  */
 
 const LOADER_BASE =
   "https://widgets.bokun.io/assets/javascripts/apps/build/BokunWidgetsLoader.js";
 const WIDGET_BASE = "https://widgets.bokun.io/online-sales";
+
+/** Antelación con la que se empieza a cargar el widget antes de verse. */
+const MARGEN_CARGA = "600px 0px";
 
 type Props = {
   /** ID de experiencia en Bokun (frontmatter `bokunProductId`). */
@@ -85,9 +95,30 @@ export default function BokunWidget({
 }: Props) {
   const channelUuid = process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID;
   const contenedorRef = useRef<HTMLDivElement>(null);
+  const [activo, setActivo] = useState(false);
 
   useEffect(() => {
-    if (!channelUuid) return;
+    if (activo) return;
+    const nodo = contenedorRef.current;
+    if (!nodo || typeof IntersectionObserver === "undefined") {
+      setActivo(true);
+      return;
+    }
+    const observer = new IntersectionObserver(
+      ([entrada]) => {
+        if (entrada.isIntersecting) {
+          setActivo(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: MARGEN_CARGA }
+    );
+    observer.observe(nodo);
+    return () => observer.disconnect();
+  }, [activo]);
+
+  useEffect(() => {
+    if (!channelUuid || !activo) return;
     const loaderYaCargado = asegurarLoader(channelUuid);
 
     // En navegaciones cliente (App Router no recarga la página), el loader
@@ -104,7 +135,7 @@ export default function BokunWidget({
     // `idioma` va en las dependencias: al cambiar de idioma el productId no
     // cambia, pero el data-src sí (?lang=), y hay que re-inicializar para que
     // Bokun vuelva a hidratar el widget en el nuevo idioma.
-  }, [channelUuid, productId, idioma]);
+  }, [channelUuid, productId, idioma, activo]);
 
   // Sin UUID configurado no se puede montar el widget. En vez de romper la
   // ficha, mostramos un aviso discreto (solo se vería en una mala config).
@@ -122,13 +153,6 @@ export default function BokunWidget({
   // según el parámetro `lang` del data-src. Lo hacemos seguir el idioma de la
   // página: español en fichas ES, inglés en fichas EN.
   const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
-
-  // URL del loader. La rendereamos como <link rel="preload"> para que el
-  // navegador empiece a descargar el script de Bokun ya con el HTML inicial
-  // (React lo iza al <head>), en lugar de esperar a que el useEffect lo
-  // inyecte tras la hidratación. Así el loader está en caché y se ejecuta
-  // de inmediato cuando el efecto lo monta → el calendario arranca antes.
-  const loaderUrl = `${LOADER_BASE}?bookingChannelUUID=${channelUuid}`;
 
   const localeNota = idioma === "es" ? "es-ES" : "en-GB";
   const tieneRating =
@@ -150,7 +174,6 @@ export default function BokunWidget({
 
   return (
     <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
-      <link rel="preload" as="script" href={loaderUrl} />
       <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
           {idioma === "es" ? "Reservar tu visita" : "Book your visit"}
@@ -192,7 +215,16 @@ export default function BokunWidget({
         </div>
       )}
 
-      <div className="p-4" ref={contenedorRef}>
+      {/* min-h reserva el hueco del calendario (iframe de ~800-900 px) para
+          que su aparición no empuje el contenido. */}
+      <div className="p-4 min-h-[560px]" ref={contenedorRef}>
+        {!activo && (
+          <p className="text-sm text-slate-500 text-center py-8">
+            {idioma === "es"
+              ? "Cargando calendario de disponibilidad…"
+              : "Loading availability calendar…"}
+          </p>
+        )}
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y
             limpio en cada cambio, para que Bokun lo re-hidrate con el lang
             correcto (un div ya hidratado no vuelve a leer su data-src). */}
