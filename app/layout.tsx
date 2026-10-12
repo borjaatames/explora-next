@@ -113,14 +113,11 @@ export default function RootLayout({
         </Script>
 
         {/*
-         * Calienta la conexión con el host del widget de reserva de Bokun
-         * (widgets.bokun.io). El calendario de las fichas `proveedor: bokun`
-         * es un iframe externo que tarda en montar porque requiere varias
-         * idas y vueltas a Bokun (loader → iframe → disponibilidad). Abrir
-         * el DNS + TLS por adelantado recorta ese arranque. Es solo una
-         * pista de conexión, sin coste apreciable en páginas sin Bokun.
+         * Solo dns-prefetch hacia widgets.bokun.io: el widget de reserva se
+         * carga en diferido (ver BokunWidget.tsx), así que un preconnect
+         * abría una conexión TLS que nadie usaba en la carga inicial y
+         * PageSpeed lo marcaba como "preconnect no usado".
          */}
-        <link rel="preconnect" href="https://widgets.bokun.io" />
         <link rel="dns-prefetch" href="https://widgets.bokun.io" />
       </head>
       <body className="font-inter bg-white text-slate-900 antialiased">

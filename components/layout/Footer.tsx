@@ -358,7 +358,15 @@ function TilePago({ src, alt }: { src: string; alt: string }) {
   return (
     <div className="bg-white rounded-md h-9 w-[58px] flex items-center justify-center p-1.5">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={src} alt={alt} className="max-h-full max-w-full object-contain" />
+      <img
+        src={src}
+        alt={alt}
+        width={46}
+        height={24}
+        loading="lazy"
+        decoding="async"
+        className="max-h-full max-w-full w-auto h-auto object-contain"
+      />
     </div>
   );
 }

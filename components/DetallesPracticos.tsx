@@ -351,12 +351,16 @@ export default function DetallesPracticos({
       </h2>
       <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4">
         {filas.map((fila) => (
-          <div key={fila.titulo} className="flex items-start gap-3">
-            {fila.icono}
-            <div className="text-sm">
-              <dt className="font-semibold text-slate-900">{fila.titulo}</dt>
-              <dd className="text-slate-600 mt-0.5">{fila.valor}</dd>
-            </div>
+          // Cada grupo es un <div> con solo <dt> + <dd> dentro (HTML válido
+          // para <dl>); el icono va dentro del <dt> y se posiciona en absoluto.
+          <div key={fila.titulo} className="relative pl-8 text-sm">
+            <dt className="font-semibold text-slate-900">
+              <span aria-hidden="true" className="absolute left-0 top-0">
+                {fila.icono}
+              </span>
+              {fila.titulo}
+            </dt>
+            <dd className="text-slate-600 mt-0.5">{fila.valor}</dd>
           </div>
         ))}
       </dl>

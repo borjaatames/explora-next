@@ -1,5 +1,6 @@
 import type { PuntoEncuentroDetallado } from "@/lib/actividades";
 import type { Idioma } from "@/lib/i18n/types";
+import MapaIframeDiferido from "@/components/MapaIframeDiferido";
 
 type Props = {
   idioma: Idioma;
@@ -10,6 +11,7 @@ type Strings = {
   titulo: string;
   mapaDe: (lugar: string) => string;
   abrirGoogleMaps: string;
+  verMapa: string;
 };
 
 const DICT: Record<"es" | "en", Strings> = {
@@ -17,11 +19,13 @@ const DICT: Record<"es" | "en", Strings> = {
     titulo: "Punto de encuentro",
     mapaDe: (lugar: string) => `Mapa de ${lugar}`,
     abrirGoogleMaps: "Abrir en Google Maps ↗",
+    verMapa: "Ver mapa",
   },
   en: {
     titulo: "Meeting point",
     mapaDe: (lugar: string) => `Map of ${lugar}`,
     abrirGoogleMaps: "Open in Google Maps ↗",
+    verMapa: "Show map",
   },
 };
 
@@ -47,7 +51,8 @@ function dictFor(idioma: Idioma): Strings {
  *    OSM no acepta zoom directo en el embed, solo bounding box.
  *  - El marker se pinta en las coordenadas exactas con el parámetro
  *    `marker=lat,lon`.
- *  - loading="lazy" para no penalizar el LCP.
+ *  - El iframe se monta en diferido (MapaIframeDiferido) para no
+ *    penalizar la carga inicial en móvil.
  *
  * Si la actividad no tiene coordenadas, se muestra solo el texto
  * y el botón con búsqueda por dirección. Si no tiene texto, no se
@@ -96,15 +101,11 @@ export default function MapaPuntoEncuentro({ idioma, punto }: Props) {
       </div>
 
       {mapaSrc && (
-        <div className="relative w-full aspect-[2/1] bg-slate-100">
-          <iframe
-            src={mapaSrc}
-            title={t.mapaDe(punto.texto)}
-            className="absolute inset-0 w-full h-full border-0"
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          />
-        </div>
+        <MapaIframeDiferido
+          src={mapaSrc}
+          title={t.mapaDe(punto.texto)}
+          textoCargar={t.verMapa}
+        />
       )}
 
       <div className="p-4 border-t border-slate-200">
