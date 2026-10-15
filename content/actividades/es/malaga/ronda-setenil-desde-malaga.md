@@ -78,21 +78,21 @@ keywords:
 - ronda y setenil
 - setenil de las bodegas excursion
 - ronda desde malaga
-imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
-imagenAlt: Puente Nuevo de Ronda sobre el Tajo
+imagen: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
+imagenAlt: "Calle de Setenil de las Bodegas con casas bajo la roca"
 galeria:
-- src: /images/actividades/malaga/setenil/calle-casas-roca.webp
-  alt: Calle de Setenil de las Bodegas con casas bajo la roca
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
-  alt: Casco histórico de Ronda
-- src: /images/actividades/malaga/setenil/vista-pueblo.webp
-  alt: Vista de Setenil de las Bodegas
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
-  alt: Paisaje de la serranía cerca de Ronda
-- src: /images/actividades/malaga/setenil/casas-bajo-roca.webp
-  alt: Casas encajadas bajo la roca en Setenil
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
-  alt: Casas blancas de Ronda al borde del tajo
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp"
+    alt: "Puente Nuevo de Ronda sobre el Tajo"
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp"
+    alt: "Casco histórico de Ronda"
+  - src: "/images/actividades/malaga/setenil/vista-pueblo.webp"
+    alt: "Vista de Setenil de las Bodegas"
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp"
+    alt: "Paisaje de la serranía cerca de Ronda"
+  - src: "/images/actividades/malaga/setenil/casas-bajo-roca.webp"
+    alt: "Casas encajadas bajo la roca en Setenil"
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
+    alt: "Casas blancas de Ronda al borde del tajo"
 ratingProveedor: 4.7
 numeroOpiniones: 8742
 publicada: true

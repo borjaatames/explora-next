@@ -98,14 +98,18 @@ atraccionesRelacionadas:
 categoria: entradas
 keywords: ["barcelona cathedral ticket", "cathedral of barcelona entrance", "barri gotic cathedral", "santa esglesia catedral barcelona", "catedral de barcelona entry"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp"
-imagenAlt: "Barcelona Cathedral facade with Gothic spires in Pla de la Seu"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp"
+imagenAlt: "Gothic central nave of Barcelona Cathedral"
 
 galeria:
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
-  alt: Main facade of Barcelona Cathedral (Cathedral of the Holy Cross and Saint Eulalia)
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp
-  alt: Facade of Barcelona Cathedral seen from the square, with tourists on the steps
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+    alt: "Main facade of Barcelona Cathedral (Cathedral of the Holy Cross and Saint Eulalia)"
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"
+    alt: "Facade of Barcelona Cathedral seen from the square, with tourists on the steps"
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp"
+    alt: "Cloister of Barcelona Cathedral"
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp"
+    alt: "Gothic vaults of the cathedral"
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

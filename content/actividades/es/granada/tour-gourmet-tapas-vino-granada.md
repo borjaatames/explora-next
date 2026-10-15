@@ -93,8 +93,6 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Tapa tradicional granadina con copa de vino en bar del centro"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Tapa tradicional granadina con copa de vino en bar del centro"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 

@@ -89,12 +89,22 @@ categoria: "visitasGuiadas"
 keywords: ["granada cathedral", "granada royal chapel", "catholic monarchs granada", "granada cathedral tour", "granada centre guided tour"]
 
 
-imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp"
-imagenAlt: "Facade of the Royal Chapel and Cathedral of Granada"
+imagen: "/images/actividades/granada/wikimedia/granada-catedral-04.webp"
+imagenAlt: "Main façade of Granada Cathedral"
 
 galeria:
   - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     alt: "Facade of the Royal Chapel and Cathedral of Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
+    alt: "Puerta del Perdón of Granada Cathedral"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-01.webp"
+    alt: "Chapel of Our Lady of Sorrows inside the Cathedral"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-03.webp"
+    alt: "Courtyard by Granada Cathedral"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-02.webp"
+    alt: "Gothic exterior of the Royal Chapel of Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-07.webp"
+    alt: "Portal of the Royal Chapel of Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 413
 

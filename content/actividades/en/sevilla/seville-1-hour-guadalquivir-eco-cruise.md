@@ -112,12 +112,18 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["most booked guadalquivir cruise seville", "cheap seville boat", "eco cruise seville", "river cruise seville cheap", "guadalquivir cruise wheelchair accessible"]
 
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
-imagenAlt: "Panoramic cruise on the Guadalquivir next to the Torre del Oro of Seville"
+imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+imagenAlt: "Torre del Oro on the Guadalquivir"
 
 galeria:
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro and the Guadalquivir — view during the eco cruise"
+  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+    alt: "Triana Bridge over the Guadalquivir at sunset"
+  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
+    alt: "La Maestranza bullring"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp"
+    alt: "Sightseeing boats by the Torre del Oro"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
+    alt: "Sightseeing boat on the Guadalquivir"
 
 ratingProveedor: 4.2
 numeroOpiniones: 11157

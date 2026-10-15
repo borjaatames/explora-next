@@ -111,19 +111,12 @@ keywords:
 - alpujarra tour from granada
 - alpujarra full day
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
-imagenAlt: Whitewashed Moorish villages cascading down mountainside in Alpujarra, Granada, with flat-roofed houses and sierra
-  peaks.
+imagenAlt: "Whitewashed Moorish villages cascading down mountainside in Alpujarra, Granada, with flat-roofed houses and sierra peaks."
 galeria:
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
-  alt: Narrow winding street in white Andalusian village with whitewashed houses, traditional doors, flower pots, and authentic
-    Alpujarra architecture
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-arquitectura-arabe-detalle-02-hero.webp
-  alt: Traditional white cylindrical chimney on Arab-Berber architecture with small windows and flat roof, Alpujarran style
-    Granada.
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-artesania-productos-locales-03-hero.webp
-  alt: Traditional Alpujarran craft shop with hanging jamón, textiles, ceramics and local artisan goods in Granada
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp
-  alt: Mountain landscape of Las Alpujarras with native vegetation, natural gorge, and rural valley views near Granada
+  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp"
+    alt: "Narrow winding street in white Andalusian village with whitewashed houses, traditional doors, flower pots, and authentic Alpujarra architecture"
+  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp"
+    alt: "Mountain landscape of Las Alpujarras with native vegetation, natural gorge, and rural valley views near Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

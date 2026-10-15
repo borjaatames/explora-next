@@ -95,8 +95,6 @@ imagen: "/images/actividades/granada/teatro-flamenco-granada/teatro-flamenco-gra
 imagenAlt: "Flamenco show with dancers and guitar at Teatro Flamenco Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Flamenco show with dancers and guitar at Teatro Flamenco Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 

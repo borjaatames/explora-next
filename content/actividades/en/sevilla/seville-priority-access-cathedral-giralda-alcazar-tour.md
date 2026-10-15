@@ -131,6 +131,10 @@ imagenAlt: "Seville Cathedral with the Giralda — 3 UNESCO monuments combo tour
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Royal Alcázar — second monument of the 3 UNESCO tour"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
+    alt: "Choir and nave of Seville Cathedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+    alt: "Mercury Pool in the Alcázar gardens"
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 

@@ -128,15 +128,12 @@ keywords:
 - cordoba tren alta velocidad
 - cordoba mezquita ave premium
 imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
-imagenAlt: Arcos de herradura rojo-blancos y columnas en la nave central iluminada de la Mezquita-Catedral de Córdoba.
+imagenAlt: "Arcos de herradura rojo-blancos y columnas en la nave central iluminada de la Mezquita-Catedral de Córdoba."
 galeria:
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
-  alt: Tren AVE rojo y blanco de Renfe en movimiento, conectando Sevilla y Córdoba con tecnología de transporte de alta velocidad.
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
-  alt: Callejuela empedrada blanca y estrecha de la Judería con fachadas tradicionales, macetas de flores y luz natural en
-    Sevilla
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-pa-hero.webp
-  alt: Patio andaluz con fuente central, arcos y columnas rodeados de plantas en macetas y vegetación exuberante
+  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp"
+    alt: "Tren AVE rojo y blanco de Renfe en movimiento, conectando Sevilla y Córdoba con tecnología de transporte de alta velocidad."
+  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
+    alt: "Callejuela empedrada blanca y estrecha de la Judería con fachadas tradicionales, macetas de flores y luz natural en"
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

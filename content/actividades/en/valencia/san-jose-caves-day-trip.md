@@ -46,16 +46,14 @@ keywords:
   - "day trip from valencia"
   - "cuevas de san jose la vall duixo"
   - "what to do near valencia"
-imagen: "/images/actividades/valencia/excursiones/cuevas-san-jose-unsplash-_U6ErkXnC3Q.jpg"
-imagenAlt: "Boat ride along the underground river of the San José Caves near Valencia"
+imagen: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-hero.webp"
+imagenAlt: "Boats on the underground river of the San José Caves"
 
 galeria:
   - src: "https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg"
     alt: "San José Caves boat ride from Valencia (Bokun)"
   - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
     alt: "Illuminated underground river of the San José Caves with rock formations"
-  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-hero.webp"
-    alt: "Cave interior with stalactites and water, San José Caves"
   - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp"
     alt: "San José Caves in Vall d'Uixó, Castellón, with the navigable river"
 ratingProveedor: 4.6

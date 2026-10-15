@@ -98,12 +98,16 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["museo picasso grupo reducido", "tours for today picasso barcelona", "museo picasso tour sin cola", "barcelona museo picasso guiado", "visita museu picasso"]
 
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp"
-imagenAlt: "Interior del Museo Picasso con tour guiado de grupo reducido en El Born"
+imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+imagenAlt: "Patio de Casa Finestres, parte del Museu Picasso de Barcelona"
 
 galeria:
   - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Salas del Museu Picasso Barcelona con grupo reducido de Tours For Today"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+    alt: "Patio del Palau del Baró de Castellet, Museu Picasso"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
+    alt: "Fachada de Casa Mauri en la calle Montcada, Museu Picasso"
 
 ratingProveedor: 4.6
 numeroOpiniones: 158

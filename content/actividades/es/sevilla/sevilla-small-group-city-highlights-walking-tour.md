@@ -106,14 +106,20 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["walking tour sevilla mejor valorado", "tour sevilla grupo reducido", "small group tour sevilla", "city highlights sevilla walking", "tour sevilla 4 9 estrellas"]
 
-imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-me-hero.webp"
-imagenAlt: "Walking tour grupo reducido por los monumentos UNESCO de Sevilla — Catedral exterior"
+imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+imagenAlt: "Callejón del Agua en el barrio de Santa Cruz"
 
 galeria:
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
     alt: "Tour walking premium Sevilla — Catedral exterior y Giralda"
-  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-    alt: "Barrio Santa Cruz — callejón del Agua en el tour walking"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
+    alt: "La Giralda iluminada"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+    alt: "Patio de las Doncellas del Real Alcázar"
+  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
+    alt: "Plaza de España de Sevilla"
+  - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
+    alt: "Archivo General de Indias"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1475

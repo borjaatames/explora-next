@@ -97,12 +97,18 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["tour museo picasso barcelona", "museo picasso sin colas", "museu picasso visita guiada", "tour multilingue picasso barcelona", "museo picasso el born"]
 
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
-imagenAlt: "Fachada del Museo Picasso en Carrer de Montcada en el barrio del Born"
+imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp"
+imagenAlt: "Patio gótico del Palau Finestres, sede del Museu Picasso en la calle Montcada"
 
 galeria:
   - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Fachada del Museu Picasso Barcelona en Carrer de Montcada en El Born"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+    alt: "Patio del Palau del Baró de Castellet, Museu Picasso"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
+    alt: "Fachada de Casa Mauri en la calle Montcada, Museu Picasso"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+    alt: "Patio de Casa Finestres, Museu Picasso"
 
 ratingProveedor: 4.5
 numeroOpiniones: 3552

@@ -106,14 +106,20 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["best rated walking tour seville", "small group tour seville", "premium walking tour seville", "city highlights seville walking", "seville tour 4 9 stars"]
 
-imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-me-hero.webp"
-imagenAlt: "Small-group walking tour through Seville's UNESCO monuments — Cathedral exterior"
+imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+imagenAlt: "Callejón del Agua in the Santa Cruz quarter"
 
 galeria:
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
     alt: "Premium walking tour Seville — Cathedral exterior and Giralda"
-  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-    alt: "Barrio Santa Cruz — Calle del Agua on the walking tour"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
+    alt: "The Giralda lit up"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+    alt: "Courtyard of the Maidens, Royal Alcázar"
+  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
+    alt: "Plaza de España in Seville"
+  - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
+    alt: "General Archive of the Indies"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1475

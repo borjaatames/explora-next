@@ -112,12 +112,18 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["crucero guadalquivir mas vendido sevilla", "barco guadalquivir barato", "eco crucero sevilla", "river cruise seville cheap", "guadalquivir crucero accesible silla"]
 
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
-imagenAlt: "Crucero panorámico por el Guadalquivir junto a la Torre del Oro de Sevilla"
+imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+imagenAlt: "Torre del Oro junto al Guadalquivir"
 
 galeria:
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro y el Guadalquivir — vista durante el crucero eco"
+  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+    alt: "Puente de Triana sobre el Guadalquivir al atardecer"
+  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
+    alt: "Plaza de toros de la Maestranza"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp"
+    alt: "Barcos turísticos junto a la Torre del Oro"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
+    alt: "Barco turístico navegando por el Guadalquivir"
 
 ratingProveedor: 4.2
 numeroOpiniones: 11157

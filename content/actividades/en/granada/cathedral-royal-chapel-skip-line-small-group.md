@@ -92,10 +92,22 @@ categoria: "visitasGuiadas"
 keywords: ["granada cathedral tour", "royal chapel skip the line", "cathedral royal chapel granada tour", "skip the line granada cathedral", "guided tour granada cathedral"]
 
 
-imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
-imagenAlt: "Royal Chapel of Granada — tombs of the Catholic Monarchs Isabella and Ferdinand"
+imagen: "/images/actividades/granada/wikimedia/granada-capilla-real-08.webp"
+imagenAlt: "The Royal Chapel of Granada seen from the street"
 
 galeria:
+  - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+    alt: "Royal Chapel of Granada — tombs of the Catholic Monarchs Isabella and Ferdinand"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-02.webp"
+    alt: "Gothic exterior of the Royal Chapel of Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-07.webp"
+    alt: "Portal of the Royal Chapel of Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-01.webp"
+    alt: "Royal Chapel of Granada, resting place of the Catholic Monarchs"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
+    alt: "Puerta del Perdón of Granada Cathedral"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-01.webp"
+    alt: "Chapel of Our Lady of Sorrows inside the Cathedral"
 ratingProveedor: 4.7
 numeroOpiniones: 312
 

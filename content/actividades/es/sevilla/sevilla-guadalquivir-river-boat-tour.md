@@ -113,14 +113,18 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["crucero guadalquivir sevilla", "barco guadalquivir top rated", "river boat tour sevilla", "crucero guadalquivir bebida incluida", "barco sevilla torre del oro"]
 
-imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp"
-imagenAlt: "Torre del Oro de Sevilla junto al embarcadero del Guadalquivir — inicio del crucero"
+imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+imagenAlt: "Puente de Triana sobre el Guadalquivir al atardecer"
 
 galeria:
   - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
     alt: "Torre del Oro y el Guadalquivir — vista durante el crucero"
-  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-    alt: "Puente de Triana sobre el Guadalquivir — vista desde el barco"
+  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
+    alt: "Plaza de toros de la Maestranza"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
+    alt: "Barco turístico navegando por el Guadalquivir"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp"
+    alt: "Barcos turísticos junto a la Torre del Oro"
 
 ratingProveedor: 4.7
 numeroOpiniones: 1746

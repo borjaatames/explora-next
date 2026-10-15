@@ -78,21 +78,21 @@ keywords:
 - ronda and setenil
 - setenil de las bodegas tour
 - ronda from malaga
-imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
-imagenAlt: Ronda's Puente Nuevo over the gorge
+imagen: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
+imagenAlt: "Street in Setenil de las Bodegas with houses under the rock"
 galeria:
-- src: /images/actividades/malaga/setenil/calle-casas-roca.webp
-  alt: Street in Setenil de las Bodegas with houses under the rock
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
-  alt: Ronda old town
-- src: /images/actividades/malaga/setenil/vista-pueblo.webp
-  alt: View of Setenil de las Bodegas
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
-  alt: Mountain landscape near Ronda
-- src: /images/actividades/malaga/setenil/casas-bajo-roca.webp
-  alt: Houses tucked under the rock in Setenil
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
-  alt: White houses of Ronda on the gorge edge
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp"
+    alt: "Ronda's Puente Nuevo over the gorge"
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp"
+    alt: "Ronda old town"
+  - src: "/images/actividades/malaga/setenil/vista-pueblo.webp"
+    alt: "View of Setenil de las Bodegas"
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp"
+    alt: "Mountain landscape near Ronda"
+  - src: "/images/actividades/malaga/setenil/casas-bajo-roca.webp"
+    alt: "Houses tucked under the rock in Setenil"
+  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
+    alt: "White houses of Ronda on the gorge edge"
 ratingProveedor: 4.7
 numeroOpiniones: 8742
 publicada: true

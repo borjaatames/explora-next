@@ -68,21 +68,15 @@ keywords:
 - granada tapas tour
 - private tapas tour granada
 - granada food tour
-imagen: /images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp
-imagenAlt: Cobbled street in Granada's old town
+imagen: https://imgcdn.bokun.tools/7249db2c-9ea4-4dba-a525-439b2f5501cd.jpg
+imagenAlt: Waiter serving a tapa in a Granada bar
 galeria:
-- src: https://imgcdn.bokun.tools/7249db2c-9ea4-4dba-a525-439b2f5501cd.jpg
-  alt: Waiter serving a tapa in a Granada bar
 - src: https://imgcdn.bokun.tools/16e9a455-2914-4013-9b28-570eb9ae952d.jpg
   alt: Group with their guide on a whitewashed Granada street
 - src: https://imgcdn.bokun.tools/993c6dcd-be8f-4d3a-b387-b09bdf74610d.jpg
   alt: Walking along a street in the old town
 - src: https://imgcdn.bokun.tools/ad6215b4-d87f-4d89-ad47-b98e2b6b5692.jpg
   alt: Cobbled alley during the tour
-- src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
-  alt: A tapa of ham croquettes
-- src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
-  alt: Olives, a classic Andalusian tapa
 - src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
   alt: Panoramic view of Granada from the Alhambra
 publicada: true

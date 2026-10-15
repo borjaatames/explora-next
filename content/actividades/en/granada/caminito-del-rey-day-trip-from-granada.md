@@ -115,14 +115,12 @@ keywords:
 - malaga walkway andalusia
 - caminito del rey with ticket
 imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
-imagenAlt: Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls
+imagenAlt: "Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls"
 galeria:
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
-  alt: Suspension bridges and mountain pathways in Granada's natural landscape during a 5km hiking route
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-vista-panoramica-desfiladero--hero.webp
-  alt: Rocky canyon walls and depth viewed from wooden walkway in Granada gorge
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
-  alt: Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible
+  - src: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp"
+    alt: "Suspension bridges and mountain pathways in Granada's natural landscape during a 5km hiking route"
+  - src: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp"
+    alt: "Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible"
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

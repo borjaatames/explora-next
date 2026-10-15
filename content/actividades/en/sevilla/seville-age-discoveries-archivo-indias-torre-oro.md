@@ -107,12 +107,12 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["archivo indias tour", "torre del oro ticket", "seville 16th century tour", "age of discoveries seville", "casa contratacion seville", "spanish empire seville tour"]
 
-imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-imagenAlt: "Archivo General de Indias in Seville — 16th-century Renaissance facade, archive of the Spanish Empire in the Americas"
+imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
+imagenAlt: "General Archive of the Indies"
 
 galeria:
-  - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
-    alt: "Archivo General de Indias — UNESCO World Heritage since 1987"
+  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+    alt: "Archivo General de Indias in Seville — 16th-century Renaissance facade, archive of the Spanish Empire in the Americas"
 ratingProveedor: 5.0
 numeroOpiniones: 3
 

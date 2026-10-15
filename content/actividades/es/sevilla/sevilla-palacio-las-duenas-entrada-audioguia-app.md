@@ -107,12 +107,18 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["palacio las dueñas entrada", "casa de alba sevilla", "duquesa de alba palacio", "antonio machado sevilla", "las dueñas audioguia", "palacio dueñas tickets"]
 
-imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
-imagenAlt: "Barrio histórico de Sevilla — entorno del Palacio de Las Dueñas, residencia sevillana de la Casa de Alba"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-duenas-04.webp"
+imagenAlt: "Patio principal del Palacio de las Dueñas"
 
 galeria:
-  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-    alt: "Casco histórico de Sevilla en el entorno del Palacio de Las Dueñas"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp"
+    alt: "Naranjo en un patio del palacio"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-06.webp"
+    alt: "Arcos mudéjares del patio"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-02.webp"
+    alt: "Jardín del Palacio de las Dueñas"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-07.webp"
+    alt: "Reja y azulejos en Las Dueñas"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3823

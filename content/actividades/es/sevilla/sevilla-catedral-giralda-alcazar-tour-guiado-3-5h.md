@@ -128,14 +128,18 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["sevilla tour 3 5 horas", "catedral alcazar tour largo", "sevilla 3 monumentos jardines", "sevilla tour tiempo libre alcazar", "sevilla foto stop tour"]
 
-imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp"
-imagenAlt: "Tour 3,5h por Catedral, Giralda y Real Alcázar de Sevilla con tiempo libre en jardines"
+imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+imagenAlt: "Patio de las Doncellas del Real Alcázar"
 
 galeria:
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
     alt: "Catedral de Sevilla y Giralda — primera parte del tour 3,5h"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Real Alcázar — segunda parte del tour con tiempo libre en jardines"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
+    alt: "La Giralda iluminada"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
+    alt: "Bóvedas góticas de la Catedral de Sevilla"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
+    alt: "Jardines del Real Alcázar"
 
 ratingProveedor: 4.5
 numeroOpiniones: 2085

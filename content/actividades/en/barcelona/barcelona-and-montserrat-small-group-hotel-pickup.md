@@ -73,23 +73,23 @@ keywords:
 - barcelona and montserrat day tour
 - montserrat tour hotel pickup
 - barcelona shore excursion montserrat
-imagen: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp
-imagenAlt: The Montserrat mountains with the monastery on the slope
+imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
+imagenAlt: "Cloister of Montserrat monastery"
 galeria:
-- src: https://imgcdn.bokun.tools/852af406-bbee-4ed9-9a2b-e6a95d2e1bec.jpg
-  alt: Montserrat basilica façade seen from the courtyard
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
-  alt: Barcelona's Sagrada Família
-- src: https://imgcdn.bokun.tools/ae987d0a-5d5a-419e-8aef-9c06d1a7c340.jpg
-  alt: Group of travellers with the Montserrat peaks behind
-- src: https://imgcdn.bokun.tools/dd55eccf-90c0-4dae-b3c6-8a4e7212e769.jpg
-  alt: Montjuïc fountain with the Palau Nacional behind
-- src: https://imgcdn.bokun.tools/31a558f0-c1a9-4a48-8a4c-7e404c707815.jpg
-  alt: Passeig de Gràcia with modernist façades
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp
-  alt: Cloister of Montserrat monastery
-- src: https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg
-  alt: Travellers by the tour van in front of the Sagrada Família
+  - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
+    alt: "The Montserrat mountains with the monastery on the slope"
+  - src: "https://imgcdn.bokun.tools/852af406-bbee-4ed9-9a2b-e6a95d2e1bec.jpg"
+    alt: "Montserrat basilica façade seen from the courtyard"
+  - src: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
+    alt: "Barcelona's Sagrada Família"
+  - src: "https://imgcdn.bokun.tools/ae987d0a-5d5a-419e-8aef-9c06d1a7c340.jpg"
+    alt: "Group of travellers with the Montserrat peaks behind"
+  - src: "https://imgcdn.bokun.tools/dd55eccf-90c0-4dae-b3c6-8a4e7212e769.jpg"
+    alt: "Montjuïc fountain with the Palau Nacional behind"
+  - src: "https://imgcdn.bokun.tools/31a558f0-c1a9-4a48-8a4c-7e404c707815.jpg"
+    alt: "Passeig de Gràcia with modernist façades"
+  - src: "https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg"
+    alt: "Travellers by the tour van in front of the Sagrada Família"
 publicada: true
 destacada: false
 fecha: '2026-10-12'

@@ -77,19 +77,15 @@ keywords:
 - mezquita cordoba desde malaga
 - cordoba desde malaga
 - tour cordoba
-imagen: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-imagenAlt: Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba
+imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
+imagenAlt: "Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba"
 galeria:
-- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp
-  alt: Mihrab dorado de la Mezquita de Córdoba
-- src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: Calleja de la Judería de Córdoba
-- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
-  alt: Puente Romano y río Guadalquivir en Córdoba
-- src: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
-  alt: Patio cordobés con macetas
-- src: /images/actividades/cordoba/ciudades/cordoba-hero.webp
-  alt: Vista de Córdoba
+  - src: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
+    alt: "Calleja de la Judería de Córdoba"
+  - src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
+    alt: "Puente Romano y río Guadalquivir en Córdoba"
+  - src: "/images/actividades/cordoba/patios/patios-cordoba-hero.webp"
+    alt: "Patio cordobés con macetas"
 ratingProveedor: 4.5
 numeroOpiniones: 753
 publicada: true

@@ -131,6 +131,10 @@ imagenAlt: "Catedral de Sevilla con la Giralda — tour combo 3 monumentos UNESC
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Real Alcázar — segundo monumento del tour 3 UNESCO"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
+    alt: "Coro y nave de la Catedral de Sevilla"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+    alt: "Estanque de Mercurio en los jardines del Alcázar"
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 

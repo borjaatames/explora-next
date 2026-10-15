@@ -68,21 +68,15 @@ keywords:
 - tour tapas granada
 - tapas granada privado
 - ruta de tapas granada con guia
-imagen: /images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp
-imagenAlt: Calle empedrada del centro histórico de Granada
+imagen: https://imgcdn.bokun.tools/7249db2c-9ea4-4dba-a525-439b2f5501cd.jpg
+imagenAlt: Camarero sirviendo una tapa en un bar de Granada
 galeria:
-- src: https://imgcdn.bokun.tools/7249db2c-9ea4-4dba-a525-439b2f5501cd.jpg
-  alt: Camarero sirviendo una tapa en un bar de Granada
 - src: https://imgcdn.bokun.tools/16e9a455-2914-4013-9b28-570eb9ae952d.jpg
   alt: Grupo con su guía en una calle encalada de Granada
 - src: https://imgcdn.bokun.tools/993c6dcd-be8f-4d3a-b387-b09bdf74610d.jpg
   alt: Paseo por una calle del centro histórico
 - src: https://imgcdn.bokun.tools/ad6215b4-d87f-4d89-ad47-b98e2b6b5692.jpg
   alt: Callejuela empedrada durante el tour
-- src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
-  alt: Tapa de croquetas de jamón
-- src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
-  alt: Aceitunas, un clásico de las tapas andaluzas
 - src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
   alt: Vista panorámica de Granada desde la Alhambra
 publicada: true

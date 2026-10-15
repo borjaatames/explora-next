@@ -116,12 +116,20 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["catedral sevilla entrada", "giralda sevilla skip line", "catedral sevilla sin colas", "tumba colon sevilla", "entrada catedral sevilla audio"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-imagenAlt: "Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
+imagenAlt: "Coro y nave de la Catedral de Sevilla"
 
 galeria:
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
+    alt: "Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "Vista panorámica de la Catedral de Sevilla con la Giralda iluminada al atardecer"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
+    alt: "Bóvedas góticas de la Catedral de Sevilla"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp"
+    alt: "Bóveda del crucero de la catedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-04.webp"
+    alt: "Capilla de la Catedral de Sevilla"
 ratingProveedor: 4.6
 numeroOpiniones: 3500
 

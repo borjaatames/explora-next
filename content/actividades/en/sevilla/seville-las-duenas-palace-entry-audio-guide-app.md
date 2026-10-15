@@ -107,12 +107,18 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["las dueñas palace ticket", "house of alba seville", "duchess of alba palace", "antonio machado seville", "las duenas audio guide", "duenas palace tickets"]
 
-imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
-imagenAlt: "Historic centre of Seville — surroundings of Palacio de Las Dueñas, House of Alba's Seville residence"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-duenas-04.webp"
+imagenAlt: "Main courtyard of the Palacio de las Dueñas"
 
 galeria:
-  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-    alt: "Seville historic centre near Palacio de Las Dueñas"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp"
+    alt: "Orange tree in a palace courtyard"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-06.webp"
+    alt: "Mudéjar arches of the courtyard"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-02.webp"
+    alt: "Garden of the Palacio de las Dueñas"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-07.webp"
+    alt: "Ironwork and tiles at Las Dueñas"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3823

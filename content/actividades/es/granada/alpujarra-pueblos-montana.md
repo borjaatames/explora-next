@@ -112,18 +112,12 @@ keywords:
 - excursion alpujarra desde granada
 - alpujarra dia completo
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
-imagenAlt: Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y
-  montañas al fondo
+imagenAlt: "Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y montañas al fondo"
 galeria:
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
-  alt: Calle sinuosa con casas encaladas, puertas y ventanas tradicionales, macetas floridas en pueblo blanco de la Alpujarra
-    granadina.
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-arquitectura-arabe-detalle-02-hero.webp
-  alt: Chimenea blanca cilíndrica y tejado plano con ventanas pequeñas de arquitectura tradicional alpujarreña de Granada
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-artesania-productos-locales-03-hero.webp
-  alt: Tienda de artesanía alpujarreña con jamones colgados, tejidos y cerámica tradicional de Granada
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp
-  alt: Paisaje montañoso de la Alpujarra granadina con vegetación, barrancos y vistas rurales a altitud elevada
+  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp"
+    alt: "Calle sinuosa con casas encaladas, puertas y ventanas tradicionales, macetas floridas en pueblo blanco de la Alpujarra granadina."
+  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp"
+    alt: "Paisaje montañoso de la Alpujarra granadina con vegetación, barrancos y vistas rurales a altitud elevada"
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

@@ -67,19 +67,19 @@ keywords:
 - italica private tour
 - italica private guide
 - italica roman ruins seville
-imagen: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-anfiteatro-r-hero.webp
-imagenAlt: The Roman amphitheatre of Itálica
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-08.webp"
+imagenAlt: "Arena of the Itálica amphitheatre"
 galeria:
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp
-  alt: Roman mosaic of coloured tesserae
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp
-  alt: Remains of Roman houses at Itálica
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp
-  alt: Itálica ruins among the olive groves of Santiponce
-- src: https://imgcdn.bokun.tools/0b0fd9c1-a004-459b-86a1-1cf6e637842e.jpg
-  alt: The Roman city of Itálica
-- src: https://imgcdn.bokun.tools/765285f7-589c-46f8-a2a4-0c08dfec97f3.jpg
-  alt: Itálica's theatre and amphitheatre
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp"
+    alt: "Roman mosaic of coloured tesserae"
+  - src: "https://imgcdn.bokun.tools/0b0fd9c1-a004-459b-86a1-1cf6e637842e.jpg"
+    alt: "The Roman city of Itálica"
+  - src: "https://imgcdn.bokun.tools/765285f7-589c-46f8-a2a4-0c08dfec97f3.jpg"
+    alt: "Itálica's theatre and amphitheatre"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp"
+    alt: "Roman passage in the amphitheatre"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp"
+    alt: "Stands of the Itálica amphitheatre"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

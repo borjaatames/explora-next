@@ -113,18 +113,19 @@ keywords:
 - excursion sierra nevada
 - sierra nevada en grupo pequeno
 - refugio sierra nevada
-imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
-imagenAlt: Jeep 4x4 en pista de montaña rocosa de Sierra Nevada, Granada, con picos nevados al fondo
+imagen: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp"
+imagenAlt: "Todoterreno subiendo por la montaña en Sierra Nevada"
 galeria:
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-vista-panoramica-refugio-2500m-01-hero.webp
-  alt: Vistas panorámicas desde refugio de montaña en Granada con valle y picos nevados bajo horizonte infinito
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-paisaje-alpino-nieve-picos-02-hero.webp
-  alt: Picos rocosos de Sierra Nevada con parches de nieve, vegetación subalpina escasa y cielo despejado en Granada.
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp
-  alt: Grupo de turistas con guía local en refugio de montaña de Granada, compartiendo experiencia de senderismo en ambiente
-    accesible
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-puesta-sol-sierra-nevada-04-hero.webp
-  alt: Picos de las Alpujarras iluminados por atardecer dorado desde Granada
+  - src: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp"
+    alt: "Grupo de turistas con guía local en refugio de montaña de Granada, compartiendo experiencia de senderismo en ambiente"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-04.webp"
+    alt: "Alrededores del pico Veleta en Sierra Nevada"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-03.webp"
+    alt: "Cumbres de Sierra Nevada"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-07.webp"
+    alt: "Observatorio del Mojón del Trigo en Sierra Nevada"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-06.webp"
+    alt: "Cabra montés, fauna típica de Sierra Nevada"
 ratingProveedor: 4.9
 numeroOpiniones: 1718
 publicada: true

@@ -93,8 +93,6 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Traditional Granada tapa with a glass of wine at a central bar"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Traditional Granada tapa with a glass of wine at a central bar"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 

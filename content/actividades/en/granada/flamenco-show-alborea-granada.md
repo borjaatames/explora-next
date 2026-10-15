@@ -94,8 +94,6 @@ imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-
 imagenAlt: "Stage of Tablao Flamenco La Alboreá in central Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Stage of Tablao Flamenco La Alboreá in central Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 5481
 

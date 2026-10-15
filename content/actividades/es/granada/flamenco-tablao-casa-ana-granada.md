@@ -88,12 +88,10 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "tablao casa ana", "flamenco centro granada", "tablao flamenco granada", "espectaculo flamenco intimo granada"]
 
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero-hero.webp"
-imagenAlt: "Bailaora y guitarrista en escena del Tablao Casa Ana de Granada"
+imagen: "/images/actividades/granada/wikimedia/granada-catedral-02.webp"
+imagenAlt: "Catedral de Granada en el centro histórico, cerca del tablao"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Bailaora y guitarrista en escena del Tablao Casa Ana de Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 435
 

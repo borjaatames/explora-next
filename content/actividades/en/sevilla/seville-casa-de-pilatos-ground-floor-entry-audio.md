@@ -107,12 +107,22 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["casa de pilatos ticket", "casa pilatos seville", "medinaceli palace seville", "casa pilatos free monday", "casa pilatos audio guide", "casa pilatos tickets"]
 
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
-imagenAlt: "Barrio de Santa Cruz in Seville — location of Casa de Pilatos at the heart of the Jewish quarter"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp"
+imagenAlt: "Main courtyard of the Casa de Pilatos"
 
 galeria:
-  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-    alt: "Barrio de Santa Cruz, where Casa de Pilatos is located"
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
+    alt: "Barrio de Santa Cruz in Seville — location of Casa de Pilatos at the heart of the Jewish quarter"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp"
+    alt: "Tiled gallery with statues at the Casa de Pilatos"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-03.webp"
+    alt: "Fountain in the Casa de Pilatos courtyard"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-05.webp"
+    alt: "Mudéjar arches and classical statue"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-02.webp"
+    alt: "Classical sculpture at the Casa de Pilatos"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-08.webp"
+    alt: "Roman bust in the upper gallery"
 
 ratingProveedor: 4.5
 numeroOpiniones: 200

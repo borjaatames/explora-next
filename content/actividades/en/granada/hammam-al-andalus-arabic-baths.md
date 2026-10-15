@@ -94,12 +94,20 @@ categoria: "serviciosAdicionales"
 keywords: ["hammam al andalus granada", "alhambra arabic baths", "hammam with massage granada", "premium spa granada", "arabic experience granada"]
 
 
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
-imagenAlt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"
+imagen: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-01.webp"
+imagenAlt: "Santa Ana church on Plaza Nueva, home of Hammam Al Andalus"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Interior of Hammam Al Ándalus in Granada with pools and Arab arches"
+  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-06.webp"
+    alt: "Plaza Nueva and Santa Ana church, next to the hammam"
+  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp"
+    alt: "The Darro river in central Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-05.webp"
+    alt: "Santa Ana church at the start of Carrera del Darro"
+  - src: "/images/actividades/granada/wikimedia/granada-banuelo-07.webp"
+    alt: "Horseshoe arches of El Bañuelo, Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-banuelo-02.webp"
+    alt: "Arcade in the warm room of El Bañuelo"
 ratingProveedor: 4.8
 numeroOpiniones: 1724
 

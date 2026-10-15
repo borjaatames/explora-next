@@ -98,14 +98,18 @@ atraccionesRelacionadas:
 categoria: entradas
 keywords: ["entrada catedral barcelona", "ticket catedral de barcelona", "catedral gotica barcelona", "santa esglesia catedral barcelona", "visita catedral barri gotic"]
 
-imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp"
-imagenAlt: "Fachada gótica de la Catedral de Barcelona en el Pla de la Seu"
+imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp"
+imagenAlt: "Nave central gótica de la Catedral de Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
-  alt: Fachada principal de la Catedral de Barcelona (Catedral de la Santa Creu i Santa Eulalia)
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp
-  alt: Fachada de la Catedral de Barcelona vista desde la plaza, con turistas en las escaleras
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+    alt: "Fachada principal de la Catedral de Barcelona (Catedral de la Santa Creu i Santa Eulalia)"
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"
+    alt: "Fachada de la Catedral de Barcelona vista desde la plaza, con turistas en las escaleras"
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp"
+    alt: "Claustro de la Catedral de Barcelona"
+  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp"
+    alt: "Bóvedas góticas de la catedral"
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

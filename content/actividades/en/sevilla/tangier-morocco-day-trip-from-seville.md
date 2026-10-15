@@ -170,16 +170,13 @@ keywords:
 - tangier day ferry
 - africa from seville 1 day
 - tangier guided english seville
-imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-pa-hero.webp"
-imagenAlt: Modern ferry crossing the Strait of Gibraltar with sea and sky, connecting Europe and Africa
+imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp"
+imagenAlt: "Narrow alleyways in Tangier's Medina with painted wooden doors, traditional bazaar shops, vendors and tourists in authentic"
 galeria:
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp
-  alt: Narrow alleyways in Tangier's Medina with painted wooden doors, traditional bazaar shops, vendors and tourists in authentic
-    Moroccan market atmosphere.
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
-  alt: Traditional Moroccan tajine with mint tea, bread, and colorful plates in local restaurant
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp
-  alt: Moroccan mint tea in traditional metal glasses at medina market stall, Seville's old town atmosphere
+  - src: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
+    alt: "Traditional Moroccan tajine with mint tea, bread, and colorful plates in local restaurant"
+  - src: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp"
+    alt: "Moroccan mint tea in traditional metal glasses at medina market stall, Seville's old town atmosphere"
 ratingProveedor: 4.4
 numeroOpiniones: 250
 publicada: true

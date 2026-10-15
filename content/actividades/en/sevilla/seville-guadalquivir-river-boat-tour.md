@@ -113,14 +113,18 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["guadalquivir cruise seville", "seville boat top rated", "river boat tour seville", "guadalquivir cruise drink included", "seville boat torre del oro"]
 
-imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp"
-imagenAlt: "Torre del Oro of Seville next to the Guadalquivir pier — start of the cruise"
+imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+imagenAlt: "Triana Bridge over the Guadalquivir at sunset"
 
 galeria:
   - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
     alt: "Torre del Oro and the Guadalquivir — view during the cruise"
-  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-    alt: "Triana Bridge over the Guadalquivir — view from the boat"
+  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
+    alt: "La Maestranza bullring"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
+    alt: "Sightseeing boat on the Guadalquivir"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp"
+    alt: "Sightseeing boats by the Torre del Oro"
 
 ratingProveedor: 4.7
 numeroOpiniones: 1746

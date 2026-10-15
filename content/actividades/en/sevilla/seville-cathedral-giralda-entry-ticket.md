@@ -116,12 +116,20 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["seville cathedral entry", "giralda seville skip line", "seville cathedral no queues", "columbus tomb seville", "seville cathedral audio entry"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-imagenAlt: "Gothic facade of Seville Cathedral with the Giralda tower in the background"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
+imagenAlt: "Choir and nave of Seville Cathedral"
 
 galeria:
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
+    alt: "Gothic facade of Seville Cathedral with the Giralda tower in the background"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "Panoramic view of Seville Cathedral with the Giralda illuminated at sunset"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
+    alt: "Gothic vaults of Seville Cathedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp"
+    alt: "Crossing vault of the cathedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-04.webp"
+    alt: "Chapel in Seville Cathedral"
 ratingProveedor: 4.6
 numeroOpiniones: 3500
 

@@ -92,10 +92,22 @@ categoria: "visitasGuiadas"
 keywords: ["catedral granada tour", "capilla real sin colas", "tour catedral capilla real granada", "skip the line catedral granada", "visita guiada catedral granada"]
 
 
-imagen: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
-imagenAlt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
+imagen: "/images/actividades/granada/wikimedia/granada-capilla-real-08.webp"
+imagenAlt: "La Capilla Real de Granada vista desde la calle"
 
 galeria:
+  - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
+    alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-02.webp"
+    alt: "Exterior gótico de la Capilla Real de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-07.webp"
+    alt: "Portada de la Capilla Real de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-01.webp"
+    alt: "Capilla Real de Granada, panteón de los Reyes Católicos"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
+    alt: "Puerta del Perdón de la Catedral de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-01.webp"
+    alt: "Capilla de Nuestra Señora de las Angustias en la Catedral"
 ratingProveedor: 4.7
 numeroOpiniones: 312
 

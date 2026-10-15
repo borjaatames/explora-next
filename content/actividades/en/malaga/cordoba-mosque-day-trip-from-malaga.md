@@ -77,19 +77,15 @@ keywords:
 - cordoba mosque from malaga
 - cordoba from malaga
 - cordoba tour
-imagen: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-imagenAlt: Two-tone arches inside the Mosque-Cathedral of Córdoba
+imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
+imagenAlt: "Two-tone arches inside the Mosque-Cathedral of Córdoba"
 galeria:
-- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp
-  alt: Golden mihrab of the Córdoba Mosque
-- src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: Narrow street in Córdoba's Jewish Quarter
-- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
-  alt: Roman Bridge and the Guadalquivir in Córdoba
-- src: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
-  alt: Córdoba patio with flower pots
-- src: /images/actividades/cordoba/ciudades/cordoba-hero.webp
-  alt: View of Córdoba
+  - src: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
+    alt: "Narrow street in Córdoba's Jewish Quarter"
+  - src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
+    alt: "Roman Bridge and the Guadalquivir in Córdoba"
+  - src: "/images/actividades/cordoba/patios/patios-cordoba-hero.webp"
+    alt: "Córdoba patio with flower pots"
 ratingProveedor: 4.5
 numeroOpiniones: 753
 publicada: true

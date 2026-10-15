@@ -125,6 +125,10 @@ imagenAlt: "Gothic facade of Seville Cathedral and the Giralda"
 galeria:
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
     alt: "Seville Cathedral with the Giralda — entry with mobile audio guide"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
+    alt: "Gothic vaults of Seville Cathedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp"
+    alt: "Crossing vault of the cathedral"
 
 ratingProveedor: 4.5
 numeroOpiniones: 850

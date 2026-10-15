@@ -174,16 +174,13 @@ keywords:
 - tanger dia ferry
 - africa desde sevilla 1 dia
 - tanger guiado español sevilla
-imagen: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-pa-hero.webp"
-imagenAlt: Ferry blanco navegando por el Estrecho de Gibraltar bajo cielo azul, con costas de Europa y África visibles al
-  fondo
+imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp"
+imagenAlt: "Callejuela estrecha de la Medina con puertas de madera pintada, tiendas de bazar y vendedores en mercado marroquí"
 galeria:
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp
-  alt: Callejuela estrecha de la Medina con puertas de madera pintada, tiendas de bazar y vendedores en mercado marroquí
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
-  alt: Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp
-  alt: Té de menta marroquí en vasos tradicionales de metal dentro de la Medina, con callejones del casco antiguo al fondo
+  - src: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
+    alt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"
+  - src: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp"
+    alt: "Té de menta marroquí en vasos tradicionales de metal dentro de la Medina, con callejones del casco antiguo al fondo"
 ratingProveedor: 4.4
 numeroOpiniones: 250
 publicada: true

@@ -146,18 +146,19 @@ keywords:
 - italica game of thrones dragonpit
 - anfiteatro italica tour
 - trajano adriano emperador italica
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
-imagenAlt: Anfiteatro romano de Itálica en Sevilla desde arriba, con gradas semicirculares conservadas y arquitectura monumental.
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp"
+imagenAlt: "Anfiteatro romano de Itálica"
 galeria:
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp
-  alt: Mosaico romano de teselas de colores con motivos decorativos, conservado en casa señorial de Sevilla
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp
-  alt: Fachada medieval del Monasterio de San Isidoro del Campo en Sevilla con elementos arquitectónicos mudéjares, góticos
-    y barrocos
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp
-  alt: Ruinas romanas de Sevilla con columnas, muros y pavimentos entre vegetación, vestigios de viviendas y termas
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp
-  alt: Ruinas de Itálica entre olivares de Santiponce, Sevilla, con restos de anfiteatro y viviendas romanas
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp"
+    alt: "Mosaico romano de teselas de colores con motivos decorativos, conservado en casa señorial de Sevilla"
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp"
+    alt: "Fachada medieval del Monasterio de San Isidoro del Campo en Sevilla con elementos arquitectónicos mudéjares, góticos"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-03.webp"
+    alt: "Galerías bajo las gradas del anfiteatro"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp"
+    alt: "Gradas del anfiteatro de Itálica"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp"
+    alt: "Pasadizo romano del anfiteatro"
 ratingProveedor: 4.5
 numeroOpiniones: 320
 publicada: true

@@ -98,12 +98,16 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["picasso museum small group", "tours for today picasso barcelona", "picasso museum skip line tour", "barcelona picasso guided tour", "museu picasso visit"]
 
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-large-sign-beach-rules-information-hero.webp"
-imagenAlt: "Picasso Museum interior with small group guided tour in El Born"
+imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+imagenAlt: "Courtyard of Casa Finestres, part of the Picasso Museum in Barcelona"
 
 galeria:
   - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Picasso Museum Barcelona galleries with Tours For Today small group"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+    alt: "Courtyard of Palau del Baró de Castellet, Picasso Museum"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
+    alt: "Casa Mauri façade on Carrer Montcada, Picasso Museum"
 
 ratingProveedor: 4.6
 numeroOpiniones: 158

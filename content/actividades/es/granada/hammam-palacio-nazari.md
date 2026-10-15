@@ -97,12 +97,18 @@ categoria: "serviciosAdicionales"
 keywords: ["hammam granada", "baños arabes granada", "palacio nazari hammam", "spa granada", "masaje granada"]
 
 
-imagen: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
-imagenAlt: "Piscina del Hammam Palacio Nazarí en Granada con iluminación tradicional árabe"
+imagen: "/images/actividades/granada/wikimedia/granada-banuelo-05.webp"
+imagenAlt: "Bóvedas con lucernarios estrellados del Bañuelo, baño árabe de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Piscina del Hammam Palacio Nazarí en Granada con iluminación tradicional árabe"
+  - src: "/images/actividades/granada/wikimedia/granada-banuelo-07.webp"
+    alt: "Arcos de herradura del Bañuelo de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-banuelo-02.webp"
+    alt: "Arquería de la sala templada del Bañuelo"
+  - src: "/images/actividades/granada/wikimedia/granada-banuelo-01.webp"
+    alt: "Sala de entrada del Bañuelo, baño árabe del siglo XI"
+  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp"
+    alt: "Río Darro a su paso por el centro de Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 860
 

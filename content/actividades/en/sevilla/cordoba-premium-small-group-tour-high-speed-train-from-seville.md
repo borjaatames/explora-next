@@ -127,17 +127,12 @@ keywords:
 - cordoba high speed train
 - cordoba mezquita ave premium
 imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
-imagenAlt: Red and white horseshoe arches with columns in the central nave of Córdoba's Mosque-Cathedral, a UNESCO World Heritage
-  site.
+imagenAlt: "Red and white horseshoe arches with columns in the central nave of Córdoba's Mosque-Cathedral, a UNESCO World Heritage site."
 galeria:
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
-  alt: Modern Renfe AVE high-speed train in motion connecting Seville and Córdoba, showcasing premium rail transport and connectivity.
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
-  alt: Narrow cobblestone streets with whitewashed walls in historic Jewish quarter, traditional facades, flowering planters,
-    natural sunlight
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-pa-hero.webp
-  alt: Typical Cordoban courtyard featuring potted plants, central fountain, columns, arches, and lush vegetation showcasing
-    historic Andalusian architecture
+  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp"
+    alt: "Modern Renfe AVE high-speed train in motion connecting Seville and Córdoba, showcasing premium rail transport and connectivity."
+  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
+    alt: "Narrow cobblestone streets with whitewashed walls in historic Jewish quarter, traditional facades, flowering planters, natural sunlight"
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

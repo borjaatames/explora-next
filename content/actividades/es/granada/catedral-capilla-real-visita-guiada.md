@@ -89,12 +89,22 @@ categoria: "visitasGuiadas"
 keywords: ["catedral granada", "capilla real granada", "reyes catolicos granada", "tour catedral granada", "visita guiada granada centro"]
 
 
-imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp"
-imagenAlt: "Fachada de la Capilla Real y la Catedral de Granada"
+imagen: "/images/actividades/granada/wikimedia/granada-catedral-04.webp"
+imagenAlt: "Fachada principal de la Catedral de Granada"
 
 galeria:
   - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     alt: "Fachada de la Capilla Real y la Catedral de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
+    alt: "Puerta del Perdón de la Catedral de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-01.webp"
+    alt: "Capilla de Nuestra Señora de las Angustias en la Catedral"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-03.webp"
+    alt: "Patio junto a la Catedral de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-02.webp"
+    alt: "Exterior gótico de la Capilla Real de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-capilla-real-07.webp"
+    alt: "Portada de la Capilla Real de Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 413
 

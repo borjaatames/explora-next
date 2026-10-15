@@ -140,20 +140,19 @@ keywords:
 - italica game of thrones dragonpit
 - italica amphitheater tour
 - trajan hadrian emperor italica
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
-imagenAlt: Aerial view of Itálica Roman amphitheater showing preserved semicircular tiers and monumental architecture seating
-  25,000 spectators.
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp"
+imagenAlt: "Roman amphitheatre of Itálica"
 galeria:
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp
-  alt: Well-preserved Roman mosaic with decorative tesserae and motifs from a Seville noble house, featuring intricate tile
-    patterns and classical designs.
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp
-  alt: Exterior facade of San Isidoro del Campo Monastery in Seville, displaying Mudéjar, Gothic and Baroque architectural
-    elements from the 13th century with medieval portal
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp
-  alt: Roman domestic ruins in Seville showing collapsed walls, columns, and tiled floors partially overgrown with vegetation
-- src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp
-  alt: Aerial view of Italica archaeological site with rural landscape of Santiponce near Seville
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp"
+    alt: "Well-preserved Roman mosaic with decorative tesserae and motifs from a Seville noble house, featuring intricate tile patterns and classical designs."
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp"
+    alt: "Exterior facade of San Isidoro del Campo Monastery in Seville, displaying Mudéjar, Gothic and Baroque architectural elements from the 13th century with medieval portal"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-03.webp"
+    alt: "Galleries beneath the amphitheatre stands"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp"
+    alt: "Stands of the Itálica amphitheatre"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp"
+    alt: "Roman passage in the amphitheatre"
 ratingProveedor: 4.5
 numeroOpiniones: 320
 publicada: true

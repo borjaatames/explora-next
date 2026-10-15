@@ -147,20 +147,23 @@ keywords:
 - cadiz jerez day excursion
 - jerez winery sherry wine
 - equestrian show jerez andalusian horses
-imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
-imagenAlt: Golden sandy beach at La Caleta in Cadiz with crystal waters and bay views, showcasing the coastal promenade of
-  this ancient Andalusian city
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
+imagenAlt: "Castle by La Caleta beach, Cádiz"
 galeria:
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp
-  alt: Historic Cadiz old town with cobblestone streets, white colonial facades, ancient towers, and Andalusian architecture
-    from 1100 BC
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp
-  alt: Traditional sherry winery interior with wooden barrels, tasting glasses, and authentic wine production atmosphere in
-    Jerez
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-  alt: Andalusian horses galloping in arena with rider in traditional costume during equestrian show at Royal School
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-catedral-ca-hero.webp
-  alt: Baroque Cathedral of Cadiz with distinctive yellow dome and surrounding plaza in historic old town
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
+    alt: "Traditional sherry winery interior with wooden barrels, tasting glasses, and authentic wine production atmosphere in Jerez"
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
+    alt: "Andalusian horses galloping in arena with rider in traditional costume during equestrian show at Royal School"
+  - src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
+    alt: "Cádiz Cathedral"
+  - src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
+    alt: "Cádiz from the Tavira Tower"
+  - src: "/images/actividades/cadiz/bodega/botas-fundador.webp"
+    alt: "Barrels in a Jerez bodega"
+  - src: "/images/actividades/cadiz/bodega/calle-bodega.webp"
+    alt: "Street between bodegas in Jerez"
+  - src: "/images/actividades/cadiz/yeguada/jinete-cartujano.webp"
+    alt: "Rider with a Carthusian horse in Jerez"
 ratingProveedor: 4.2
 numeroOpiniones: 641
 publicada: true

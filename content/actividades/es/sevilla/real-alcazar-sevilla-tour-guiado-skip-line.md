@@ -127,6 +127,14 @@ imagenAlt: "Patio de las Doncellas del Real Alcázar de Sevilla con estanque ala
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Patio de las Doncellas — la joya mudéjar del Real Alcázar de Sevilla"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+    alt: "Estanque de Mercurio en los jardines del Alcázar"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
+    alt: "Jardines del Real Alcázar"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-04.webp"
+    alt: "Palmeras en los jardines del Alcázar"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-08.webp"
+    alt: "Fuente en los jardines del Real Alcázar"
 ratingProveedor: 4.4
 numeroOpiniones: 510
 

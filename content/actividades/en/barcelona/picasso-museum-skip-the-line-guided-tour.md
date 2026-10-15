@@ -97,12 +97,18 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["picasso museum barcelona tour", "skip the line picasso barcelona", "museu picasso guided tour", "barcelona picasso multilingual tour", "el born picasso museum"]
 
-imagen: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
-imagenAlt: "Picasso Museum facade on Carrer de Montcada in the El Born quarter"
+imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp"
+imagenAlt: "Gothic courtyard of Palau Finestres, Picasso Museum on Carrer Montcada"
 
 galeria:
   - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Museu Picasso Barcelona facade on Carrer de Montcada in the El Born quarter"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+    alt: "Courtyard of Palau del Baró de Castellet, Picasso Museum"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
+    alt: "Casa Mauri façade on Carrer Montcada, Picasso Museum"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+    alt: "Courtyard of Casa Finestres, Picasso Museum"
 
 ratingProveedor: 4.5
 numeroOpiniones: 3552

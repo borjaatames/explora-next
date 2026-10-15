@@ -110,17 +110,19 @@ keywords:
 - sierra nevada day trip from granada
 - sierra nevada small group
 - sierra nevada mountain refuge
-imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
-imagenAlt: Rugged 4x4 vehicle driving on rocky mountain trail with snow-capped Sierra Nevada peaks in background, Granada
+imagen: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp"
+imagenAlt: "4x4 climbing the mountain in Sierra Nevada"
 galeria:
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-vista-panoramica-refugio-2500m-01-hero.webp
-  alt: Aerial view from mountain refuge overlooking snowy peaks and valley below Granada
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-paisaje-alpino-nieve-picos-02-hero.webp
-  alt: Alpine mountain landscape with rocky peaks, snow patches, sparse subalpine vegetation near Granada
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp
-  alt: Small group of tourists with local guide on Granada mountain trail, warm interaction at mountain refuge
-- src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-puesta-sol-sierra-nevada-04-hero.webp
-  alt: Golden sunrise over Granada's mountain peaks and valleys from high altitude
+  - src: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp"
+    alt: "Small group of tourists with local guide on Granada mountain trail, warm interaction at mountain refuge"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-04.webp"
+    alt: "Around Veleta peak in Sierra Nevada"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-03.webp"
+    alt: "Sierra Nevada summits"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-07.webp"
+    alt: "Mojón del Trigo observatory in Sierra Nevada"
+  - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-06.webp"
+    alt: "Iberian ibex, typical Sierra Nevada wildlife"
 ratingProveedor: 4.9
 numeroOpiniones: 1718
 publicada: true

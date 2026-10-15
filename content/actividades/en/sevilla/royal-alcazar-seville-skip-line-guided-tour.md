@@ -127,6 +127,14 @@ imagenAlt: "Patio de las Doncellas of the Royal Alcázar of Seville with elongat
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Patio de las Doncellas — the Mudéjar jewel of the Royal Alcázar of Seville"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+    alt: "Mercury Pool in the Alcázar gardens"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
+    alt: "Gardens of the Royal Alcázar"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-04.webp"
+    alt: "Palm trees in the Alcázar gardens"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-08.webp"
+    alt: "Fountain in the Royal Alcázar gardens"
 ratingProveedor: 4.4
 numeroOpiniones: 510
 

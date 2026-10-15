@@ -172,16 +172,17 @@ keywords:
 - flamenco born barcelona
 - espectáculo flamenco corto barcelona
 - show flamenco carrer montcada
-imagen: "/images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp"
-imagenAlt: Fachada barroca del Palau Dalmases en Carrer Montcada, Barcelona, con portada noble y detalles arquitectónicos
-  del siglo XVII.
+imagen: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-05.webp"
+imagenAlt: "Salón barroco del Palau Dalmases, donde se celebra el espectáculo flamenco"
 galeria:
-- src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-galeria-arte-hero.webp
-  alt: Interior del Palau Dalmases en Barcelona con obras de arte en paredes de piedra, esculturas y techos arcos barrocos
-    iluminados
-- src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-detalle-arqu-hero.webp
-  alt: Interior barroco de Barcelona con columnas, arcos y molduras ornamentadas del siglo XVII, techo decorado y paredes
-    con patina histórica
+  - src: "/images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp"
+    alt: "Fachada barroca del Palau Dalmases en Carrer Montcada, Barcelona, con portada noble y detalles arquitectónicos del siglo XVII."
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-06.webp"
+    alt: "Sala junto al salón barroco del Palau Dalmases"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-01.webp"
+    alt: "Patio del Palau Dalmases en la calle Montcada"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp"
+    alt: "Palau Dalmases visto desde el carrer d'en Rosic"
 ratingProveedor: 4.6
 numeroOpiniones: 919
 publicada: true

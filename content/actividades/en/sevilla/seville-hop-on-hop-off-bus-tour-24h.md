@@ -121,12 +121,18 @@ atraccionesRelacionadas:
 categoria: "transporte"
 keywords: ["tourist bus seville", "hop on hop off seville", "city sightseeing seville", "seville bus 24h audio guide", "seville tourist bus 48h"]
 
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
-imagenAlt: "City Sightseeing tourist bus Seville passing by the Cathedral"
+imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp"
+imagenAlt: "Bridges and canal of Plaza de España"
 
 galeria:
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "View of Cathedral and Giralda from the tourist bus route"
+  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+    alt: "Torre del Oro on the Guadalquivir"
+  - src: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
+    alt: "Las Setas walkway with the Giralda behind"
+  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
+    alt: "La Maestranza bullring"
 
 ratingProveedor: 4.0
 numeroOpiniones: 4954

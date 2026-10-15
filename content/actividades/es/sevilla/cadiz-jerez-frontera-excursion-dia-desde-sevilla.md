@@ -147,19 +147,23 @@ keywords:
 - cadiz jerez excursion dia
 - bodega jerez vino sherry
 - show ecuestre jerez caballos andaluces
-imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
-imagenAlt: Playa La Caleta en Cádiz con aguas cristalinas, arena dorada y bahía al fondo bajo cielo despejado
+imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
+imagenAlt: "Castillo junto a la playa de La Caleta, en Cádiz"
 galeria:
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp
-  alt: Callejuelas empedradas del Casco Antiguo de Cádiz con fachadas coloniales blancas, torres históricas y arquitectura
-    andaluza
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp
-  alt: Barriles de vino sherry alineados en bodega tradicional de Jerez con copas de cata y atmósfera vinícola artesanal
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-  alt: Jinete en traje tradicional montando caballo andaluz en movimiento durante espectáculo ecuestre en arena de la Real
-    Escuela de Sevilla
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-catedral-ca-hero.webp
-  alt: Cúpula amarilla de la Catedral de Cádiz con arquitectura barroca y plaza circundante en el Casco Antiguo.
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
+    alt: "Barriles de vino sherry alineados en bodega tradicional de Jerez con copas de cata y atmósfera vinícola artesanal"
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
+    alt: "Jinete en traje tradicional montando caballo andaluz en movimiento durante espectáculo ecuestre en arena de la Real"
+  - src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
+    alt: "Catedral de Cádiz"
+  - src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
+    alt: "Cádiz desde la Torre Tavira"
+  - src: "/images/actividades/cadiz/bodega/botas-fundador.webp"
+    alt: "Botas de una bodega de Jerez"
+  - src: "/images/actividades/cadiz/bodega/calle-bodega.webp"
+    alt: "Calle entre bodegas en Jerez"
+  - src: "/images/actividades/cadiz/yeguada/jinete-cartujano.webp"
+    alt: "Jinete con caballo cartujano en Jerez"
 ratingProveedor: 4.2
 numeroOpiniones: 641
 publicada: true
