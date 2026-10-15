@@ -91,10 +91,22 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco albayzin", "jardines zoraya", "tablao flamenco granada", "flamenco con cena granada"]
 
 
-imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-artistas-luis-de-luis.jpg"
-imagenAlt: "Tablao flamenco con bailaoras y guitarrista en los Jardines de Zoraya del Albayzín"
+imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-baile-lunares.webp"
+imagenAlt: "Bailaora con traje de lunares en el escenario de Jardines de Zoraya"
 
 galeria:
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-artistas-luis-de-luis.jpg"
+    alt: "Tablao flamenco con bailaoras y guitarrista en los Jardines de Zoraya del Albayzín"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-bailaora-cante.webp"
+    alt: "Bailaora, cantaores y guitarrista en Jardines de Zoraya"
+  - src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
+    alt: "Vista del Albaicín, el barrio donde está Jardines de Zoraya"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-cuadro-flamenco.webp"
+    alt: "Cuadro flamenco al completo en Jardines de Zoraya"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-escenario.webp"
+    alt: "Escenario y sala de Jardines de Zoraya antes del espectáculo"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-baile-pareja.webp"
+    alt: "Pareja de baile flamenco en Jardines de Zoraya"
 ratingProveedor: 4.7
 numeroOpiniones: 1431
 

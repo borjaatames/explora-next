@@ -95,10 +95,20 @@ categoria: "espectaculos"
 keywords: ["flamenco con cena granada", "cena espectaculo flamenco albayzin", "jardines zoraya cena", "flamenco con cena albayzin", "menu flamenco granada"]
 
 
-imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-show-con-paella.jpg"
-imagenAlt: "Cena en el tablao Jardines de Zoraya del Albayzín antes del espectáculo flamenco"
+imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-sala-cena-publico.webp"
+imagenAlt: "Público en las mesas durante el espectáculo con cena en Jardines de Zoraya"
 
 galeria:
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-cuadro-flamenco.webp"
+    alt: "Cuadro flamenco al completo en Jardines de Zoraya"
+  - src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
+    alt: "Vista del Albaicín, el barrio donde está Jardines de Zoraya"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-bailaora-publico.webp"
+    alt: "Bailaora con mantón ante el público de Jardines de Zoraya"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-escenario.webp"
+    alt: "Escenario y sala de Jardines de Zoraya antes del espectáculo"
+  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-baile-pareja.webp"
+    alt: "Pareja de baile flamenco en Jardines de Zoraya"
 ratingProveedor: 4.6
 numeroOpiniones: 288
 
