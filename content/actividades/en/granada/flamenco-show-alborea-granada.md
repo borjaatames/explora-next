@@ -94,6 +94,14 @@ imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-
 imagenAlt: "Stage of Tablao Flamenco La Alboreá in central Granada"
 
 galeria:
+  - src: "/images/actividades/granada/la-alborea/la-alborea-cuadro-flamenco.webp"
+    alt: "Full flamenco troupe on the La Alboreá stage"
+  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
+    alt: "Puerta del Perdón of the Cathedral, a few minutes from the tablao"
+  - src: "/images/actividades/granada/la-alborea/la-alborea-bailaora-bata-de-cola.webp"
+    alt: "Dancer with a train dress and shawl at La Alboreá"
+  - src: "/images/actividades/granada/la-alborea/la-alborea-cante-guitarra.webp"
+    alt: "Singer, handclaps and guitar at La Alboreá"
 ratingProveedor: 4.7
 numeroOpiniones: 5481
 

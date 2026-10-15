@@ -89,12 +89,18 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "granada flamenco cave", "cueva la faraona", "intimate flamenco show granada"]
 
 
-imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-granada.png"
-imagenAlt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"
+imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cueva-publico.webp"
+imagenAlt: "Flamenco zambra inside Cueva La Faraona, with the audience around the artists"
 
 galeria:
   - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
     alt: "Cave houses on the Sacromonte hillside, Granada"
+  - src: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-bailaoras.webp"
+    alt: "Cueva La Faraona dancers in red dresses"
+  - src: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cantaora-cueva.webp"
+    alt: "Singer wearing a shawl in Cueva La Faraona"
+  - src: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-escenario-bailaora.webp"
+    alt: "Dancer on stage during the La Faraona show"
 ratingProveedor: 4.7
 numeroOpiniones: 503
 
