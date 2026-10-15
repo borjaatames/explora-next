@@ -93,16 +93,30 @@ atraccionesRelacionadas:
 categoria: "espectaculos"
 keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show cena madrid", "tablao torres bermejas precio", "show flamenco madrid centro"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero.webp"
-imagenAlt: "Gran Vía de Madrid, zona donde está el Tablao Torres Bermejas"
+imagen: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-baile-flamenco-escenario.webp"
+imagenAlt: "Cuadro flamenco bailando en el escenario del Tablao Torres Bermejas, con su decoración de inspiración nazarí"
 
 galeria:
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Vista aerea de la Gran Via de Madrid al atardecer, con el edificio Metropolis
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Edificios de arquitectura ornamentada en la Gran Via de Madrid
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
-  alt: El edificio Metropolis, con su cupula dorada y la escultura del angel, en la Gran Via de Madrid
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-pareja-baile.webp"
+    alt: "Pareja de bailaores con trajes rojos en el escenario del Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+    alt: "Plaza de Callao de noche, a pocos pasos del Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-arcos-salon.webp"
+    alt: "Salón del Tablao Torres Bermejas con arcos y yeserías de estilo nazarí"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+    alt: "Vista aérea de la Gran Vía de Madrid al atardecer, con el edificio Metrópolis"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-guitarrista.webp"
+    alt: "Guitarrista y cantaor en el escenario iluminado del Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+    alt: "Edificio Capitol en la plaza de Callao, junto a la calle Mesonero Romanos"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-columnas-azulejos.webp"
+    alt: "Columnas de azulejos y escenario del Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-red-white-stop-sign-hero.webp"
+    alt: "Boca de metro de Gran Vía, la parada más cercana al tablao"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-escenario-sillas.webp"
+    alt: "Escenario del Tablao Torres Bermejas con sillas de enea y decoración mudéjar"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
+    alt: "La Gran Vía de Madrid de noche junto a Callao"
 
 ratingProveedor: 4.5
 numeroOpiniones: 10330

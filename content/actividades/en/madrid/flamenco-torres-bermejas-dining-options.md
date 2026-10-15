@@ -93,16 +93,30 @@ atraccionesRelacionadas:
 categoria: "espectaculos"
 keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show dinner madrid", "tablao torres bermejas price", "flamenco show central madrid"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero.webp"
-imagenAlt: "Madrid's Gran Vía, the area where Tablao Torres Bermejas is located"
+imagen: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-baile-flamenco-escenario.webp"
+imagenAlt: "Flamenco dancers performing on stage at Tablao Torres Bermejas, with its Alhambra-inspired decor"
 
 galeria:
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: Aerial view of Madrid's Gran Via at dusk, with the Metropolis building
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
-  alt: Ornately decorated buildings on Madrid's Gran Via
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
-  alt: The Metropolis building, with its golden dome and angel sculpture, on Madrid's Gran Via
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-pareja-baile.webp"
+    alt: "Flamenco dancing couple in red on stage at Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+    alt: "Plaza de Callao at night, a short walk from Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-arcos-salon.webp"
+    alt: "Tablao Torres Bermejas dining room with Nasrid-style arches and plasterwork"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+    alt: "Aerial view of Madrid's Gran Vía at dusk, with the Metrópolis building"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-guitarrista.webp"
+    alt: "Guitarist and singer on the lit stage at Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+    alt: "Capitol building on Plaza de Callao, next to Calle Mesonero Romanos"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-columnas-azulejos.webp"
+    alt: "Tiled columns and stage at Tablao Torres Bermejas"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-red-white-stop-sign-hero.webp"
+    alt: "Gran Vía metro entrance, the closest stop to the tablao"
+  - src: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-escenario-sillas.webp"
+    alt: "Tablao Torres Bermejas stage with rush-seat chairs and Mudéjar decor"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
+    alt: "Madrid's Gran Vía at night by Plaza de Callao"
 
 ratingProveedor: 4.5
 numeroOpiniones: 10330
