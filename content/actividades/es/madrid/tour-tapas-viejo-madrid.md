@@ -91,20 +91,28 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["tour de tapas viejo madrid", "tour gastronomico madrid centro", "ruta de tapas madrid", "visita enogastronomica madrid", "tapas casco historico madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp"
-imagenAlt: "Tapa de jamón ibérico en un bar del casco histórico de Madrid"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
+imagenAlt: "Barra de bar con jamones y botellas de vino"
 
 galeria:
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
+    alt: "El Oso y el Madroño en la Puerta del Sol, de camino entre bares"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Croquetas de jamón, una tapa tradicional madrileña"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
-    alt: "Patatas bravas servidas en un bar de tapas"
-  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-discover-quaint-street-classic-hero.webp"
-    alt: "Calle del casco histórico de Madrid con bares tradicionales"
+    alt: "Croquetas de jamón"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-    alt: "La Plaza Mayor de Madrid con la Casa de la Panadería"
+    alt: "Plaza Mayor"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
+    alt: "Patatas bravas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberian-ham-jamon-hero.webp"
+    alt: "Jamón ibérico"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-potatoes-food-kitchen-hero.webp"
+    alt: "Tortilla de patatas entera"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp"
+    alt: "Bocadillo de calamares, clásico madrileño"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-stewed-food-sliced-bacon-hero.webp"
+    alt: "Gildas y encurtidos"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-lazo-hero.webp"
-    alt: "Churros con chocolate, postre típico de Madrid"
+    alt: "Chocolate con churros"
 
 ratingProveedor: 4.9
 numeroOpiniones: 113

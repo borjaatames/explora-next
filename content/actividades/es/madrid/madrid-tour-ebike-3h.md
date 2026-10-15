@@ -127,10 +127,22 @@ keywords:
 imagen: "/images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp"
 imagenAlt: "Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid"
 galeria:
-- src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
-  alt: Tour en grupo por las calles históricas y monumentos principales de Madrid
-- src: /images/actividades/madrid/ebike/images-hero.webp
-  alt: Grupo de ciclistas con bicicletas eléctricas frente al Palacio de Cristal, en el parque del Retiro de Madrid.
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+    alt: "Plaza Mayor, primera parada del recorrido"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "Mercado de San Miguel"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+    alt: "Plaza de la Villa con la Casa y Torre de los Lujanes"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
+    alt: "Plaza de Oriente y Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
+    alt: "Palacio Real visto desde los jardines del Campo del Moro"
+  - src: "/images/actividades/madrid/ebike/touring-madrid-hero.webp"
+    alt: "Parada del grupo en bicicleta durante el recorrido"
+  - src: "/images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp"
+    alt: "Templo de Debod reflejado en su estanque"
+  - src: "/images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp"
+    alt: "Ciclistas del tour en el Templo de Debod"
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

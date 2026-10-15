@@ -128,16 +128,22 @@ keywords:
 imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp"
 imagenAlt: Palacio Real de Aranjuez en Madrid, vista frontal con fachada arquitectónica clásica
 galeria:
-- src: /images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp
-  alt: Vista panorámica de Toledo con sus edificios históricos sobre la colina
-- src: /images/actividades/madrid/chinchon/pexels-36878676-hero.webp
-  alt: Paisaje urbano de Madrid con edificios históricos y calles típicas de la ciudad
-- src: /images/actividades/madrid/aranjuez/pexels-13165103-hero.webp
-  alt: Paisaje urbano de Madrid con arquitectura histórica y moderna al atardecer
-- src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp
-  alt: Puente de San Martín sobre el río Tajo en Toledo con edificios históricos en la ladera
-- src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
-  alt: Paisaje urbano de Madrid con arquitectura y calles del centro histórico
+  - src: "/images/actividades/madrid/chinchon/pexels-36878676-hero.webp"
+    alt: "Plaza Mayor de Chinchón"
+  - src: "/images/actividades/madrid/chinchon/pexels-36878591-hero.webp"
+    alt: "Balcones de madera de Chinchón"
+  - src: "/images/actividades/madrid/aranjuez/wikimedia-palacio-real-aranjuez-madrid-hero.webp"
+    alt: "Palacio Real de Aranjuez"
+  - src: "/images/actividades/madrid/aranjuez/pexels-13165103-hero.webp"
+    alt: "Jardines del Palacio Real de Aranjuez"
+  - src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+    alt: "Alcázar de Toledo"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp"
+    alt: "Vista de Toledo desde el Mirador del Valle"
+  - src: "/images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp"
+    alt: "Puente de San Martín sobre el Tajo"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-small-town-hero.webp"
+    alt: "El Tajo rodeando Toledo"
 ratingProveedor: 4.4
 numeroOpiniones: 158
 publicada: true

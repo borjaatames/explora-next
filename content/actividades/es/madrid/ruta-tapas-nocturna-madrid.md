@@ -85,18 +85,28 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["ruta de tapas nocturna madrid", "tour de tapas noche madrid", "tapas madrid en aleman", "tour tapas tradicionales madrid", "ruta tapas centro madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
-imagenAlt: "Interior de un bar de tapas tradicional de Madrid por la noche"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
+imagenAlt: "Interior de un bar de tapas tradicional de Madrid"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-joselita-hero.webp"
-    alt: "Jamón ibérico cortado en un bar de tapas de Madrid"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-17-hero.webp"
+    alt: "Plaza de Santa Ana de noche, zona de bares de tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
+    alt: "Jamones colgados en la barra de un bar"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp"
-    alt: "Pincho de tortilla de patatas, tapa clásica madrileña"
+    alt: "Tortilla de patatas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
+    alt: "Croqueta recién hecha"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-joselita-hero.webp"
+    alt: "Plato de jamón ibérico"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-olives-stuffed-olives-pintxo-hero.webp"
+    alt: "Banderillas de aceitunas"
   - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
-    alt: "La Plaza de Santa Ana de Madrid, zona de bares de tapas"
+    alt: "Plaza de Santa Ana"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
+    alt: "Tapa de jamón con caña"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp"
-    alt: "Tapa de sardina con una caña en un bar tradicional"
+    alt: "Caña con tapa de sardina"
 
 ratingProveedor: 4.9
 numeroOpiniones: 65

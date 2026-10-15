@@ -122,16 +122,18 @@ keywords:
 imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp"
 imagenAlt: Estadio Wanda Metropolitano de Madrid, vista frontal de la fachada principal
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
-  alt: Estadio Wanda Metropolitano de Madrid, vista exterior con estructura moderna y fachada característica
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
-  alt: Interior de la estación de Metropolitano de Madrid con pasillos y señalética
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
-  alt: Exterior del estadio Metropolitano del Atlético de Madrid, con su cubierta curva roja y blanca y un cartel de acceso al tour.
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
-  alt: Interior del estadio Metropolitano, con el graderío rotulado «Atlético de Madrid – 1903» y el césped parcialmente cubierto.
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
-  alt: Estadio Metropolitano de Madrid con nieve en invierno, vista exterior general
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp"
+    alt: "Exterior del estadio Metropolitano"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp"
+    alt: "Interior del estadio Metropolitano"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp"
+    alt: "Gradas del Metropolitano"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp"
+    alt: "Cubierta del estadio Metropolitano"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp"
+    alt: "Estadio Metropolitano del Atlético de Madrid"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp"
+    alt: "Estadio Metropolitano en día de partido"
 ratingProveedor: 4.7
 numeroOpiniones: 2188
 publicada: true

@@ -111,16 +111,22 @@ keywords:
 imagen: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
 imagenAlt: "Museo Reina Sofía façade at night, with its glass lift towers"
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp
-  alt: Reina Sofía Museum exterior facade in Madrid with modern architectural design
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Children and teachers observing abstract painting at Museo Reina Sofía, Madrid
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Garden entrance with modern sculptures and green vegetation at Museo Reina Sofía, Madrid
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Reina Sofía Museum exterior facade in Madrid
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Madrid cityscape with historic architecture and street views
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
+    alt: "Visitors in a Reina Sofía gallery"
+  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp"
+    alt: "Contemporary art gallery in the museum"
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp"
+    alt: "Group listening to an explanation in front of a work"
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp"
+    alt: "Cloister garden of the Museo Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp"
+    alt: "Permanent collection gallery"
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp"
+    alt: "Sculpture gallery at the Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
+    alt: "Entrance to the Museo Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
+    alt: "Lift towers of the Sabatini building"
 ratingProveedor: 4.9
 numeroOpiniones: 418
 publicada: true

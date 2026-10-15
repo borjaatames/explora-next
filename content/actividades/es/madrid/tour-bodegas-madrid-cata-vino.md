@@ -93,12 +93,18 @@ imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-eman
 imagenAlt: "Copa de vino tinto sirviéndose durante una cata en bodega"
 
 galeria:
+  - src: "/images/actividades/madrid/chinchon/pexels-36878676-hero.webp"
+    alt: "Plaza Mayor de Chinchón con sus balcones de madera"
   - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
-    alt: "Copa de vino tinto en una cata de bodega"
+    alt: "Copas de vino en la cata"
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+    alt: "Barricas en una bodega"
+  - src: "/images/actividades/madrid/chinchon/pexels-36878591-hero.webp"
+    alt: "Soportales y balcones de Chinchón"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
-    alt: "Servicio de vino tinto durante una cata"
+    alt: "Vino tinto de la D.O. Vinos de Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
-    alt: "Tapa de jamón ibérico como aperitivo de acompañamiento"
+    alt: "Aperitivo de jamón acompañando la cata"
 
 ratingProveedor: 4.9
 numeroOpiniones: 249

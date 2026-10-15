@@ -126,16 +126,22 @@ keywords:
 imagen: "/images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp"
 imagenAlt: Royal Palace of Aranjuez, Madrid, Spain
 galeria:
-- src: /images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp
-  alt: Toledo cityscape with historic cathedral and Alcázar fortress overlooking terraced buildings
-- src: /images/actividades/madrid/chinchon/pexels-36878676-hero.webp
-  alt: Street view of Madrid with historic architecture and urban landscape
-- src: /images/actividades/madrid/aranjuez/pexels-13165103-hero.webp
-  alt: Madrid street scene with historic architecture and urban landscape
-- src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp
-  alt: San Martín Bridge spanning Tagus River with Toledo's historic buildings cascading down hillside
-- src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
-  alt: Madrid cityscape with historic architecture and urban streets
+  - src: "/images/actividades/madrid/chinchon/pexels-36878676-hero.webp"
+    alt: "Chinchón's Plaza Mayor"
+  - src: "/images/actividades/madrid/chinchon/pexels-36878591-hero.webp"
+    alt: "Wooden balconies in Chinchón"
+  - src: "/images/actividades/madrid/aranjuez/wikimedia-palacio-real-aranjuez-madrid-hero.webp"
+    alt: "Royal Palace of Aranjuez"
+  - src: "/images/actividades/madrid/aranjuez/pexels-13165103-hero.webp"
+    alt: "Gardens of the Royal Palace of Aranjuez"
+  - src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+    alt: "Alcázar of Toledo"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp"
+    alt: "View of Toledo from the Mirador del Valle"
+  - src: "/images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp"
+    alt: "San Martín Bridge over the Tagus"
+  - src: "/images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-river-running-through-small-town-hero.webp"
+    alt: "The Tagus River encircling Toledo"
 ratingProveedor: 4.4
 numeroOpiniones: 158
 publicada: true

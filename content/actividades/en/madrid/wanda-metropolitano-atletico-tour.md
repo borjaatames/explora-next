@@ -119,16 +119,18 @@ keywords:
 imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp"
 imagenAlt: Wanda Metropolitano stadium exterior view in Madrid, Spain
 galeria:
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp
-  alt: Wanda Metropolitano stadium in Madrid with distinctive red and white striped exterior architecture
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp
-  alt: Wanda Metropolitano stadium interior with seating and pitch
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp
-  alt: Exterior of Atlético Madrid's Metropolitano stadium, showing its curved red-and-white roof and a tour entrance sign.
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp
-  alt: Interior of the Metropolitano stadium, with stands lettered 'Atlético de Madrid – 1903' and the pitch partly covered.
-- src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
-  alt: Wanda Metropolitano stadium exterior with architectural features in Madrid
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp"
+    alt: "Exterior of the Metropolitano stadium"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp"
+    alt: "Inside the Metropolitano stadium"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp"
+    alt: "Metropolitano stands"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp"
+    alt: "Roof of the Metropolitano stadium"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp"
+    alt: "Atlético de Madrid's Metropolitano stadium"
+  - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp"
+    alt: "Metropolitano stadium on match day"
 ratingProveedor: 4.7
 numeroOpiniones: 2188
 publicada: true

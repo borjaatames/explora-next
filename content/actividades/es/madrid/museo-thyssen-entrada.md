@@ -88,18 +88,24 @@ imagen: "/images/actividades/madrid/thyssen/thyssen-fachada-villahermosa-hero.we
 imagenAlt: "Palacio de Villahermosa, sede del Museo Thyssen-Bornemisza en Madrid"
 
 galeria:
-  - src: "/images/actividades/madrid/thyssen/thyssen-fachada-paseo-prado-hero.webp"
-    alt: "Fachada del Museo Thyssen-Bornemisza en el Paseo del Prado"
+  - src: "/images/actividades/madrid/thyssen/thyssen-sala-coleccion-03-hero.webp"
+    alt: "Sala de la colección permanente del Thyssen"
   - src: "/images/actividades/madrid/thyssen/thyssen-patio-entrada-hero.webp"
-    alt: "Patio de acceso al Museo Thyssen-Bornemisza"
-  - src: "/images/actividades/madrid/thyssen/thyssen-sala-coleccion-01-hero.webp"
-    alt: "Sala de la colección permanente del Museo Thyssen"
+    alt: "Vestíbulo central del Museo Thyssen"
   - src: "/images/actividades/madrid/thyssen/thyssen-triptico-flamenco-hero.webp"
-    alt: "Tríptico de pintura flamenca en el Museo Thyssen"
-  - src: "/images/actividades/madrid/thyssen/thyssen-sala-coleccion-02-hero.webp"
-    alt: "Sala de pintura del Museo Thyssen-Bornemisza"
+    alt: "Tríptico de pintura flamenca"
+  - src: "/images/actividades/madrid/thyssen/thyssen-sala-bodegon-hero.webp"
+    alt: "Sala de bodegones"
+  - src: "/images/actividades/madrid/thyssen/thyssen-fachada-paseo-prado-02-hero.webp"
+    alt: "Palacio de Villahermosa en el Paseo del Prado"
+  - src: "/images/actividades/madrid/thyssen/thyssen-sala-pintura-religiosa-hero.webp"
+    alt: "Sala de pintura religiosa"
+  - src: "/images/actividades/madrid/thyssen/thyssen-sala-coleccion-04-hero.webp"
+    alt: "Sala de pintura moderna"
+  - src: "/images/actividades/madrid/thyssen/thyssen-fachada-detalle-hero.webp"
+    alt: "Detalle de la fachada del museo"
   - src: "/images/actividades/madrid/thyssen/thyssen-placa-entrada-hero.webp"
-    alt: "Placa del Museo Thyssen-Bornemisza en la entrada"
+    alt: "Placa de entrada del Museo Thyssen-Bornemisza"
 ratingProveedor: 4.8
 numeroOpiniones: 460
 

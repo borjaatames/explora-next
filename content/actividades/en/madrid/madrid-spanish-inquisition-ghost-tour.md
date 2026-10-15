@@ -98,8 +98,18 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-p
 imagenAlt: "Plaza de la Villa at night, in Habsburg Madrid"
 
 galeria:
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+    alt: "Plaza Mayor at dusk, once the stage for autos-da-fé"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+    alt: "The Royal Post Office at Puerta del Sol at night"
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Old town of Madrid"
+    alt: "Plaza de la Villa, in the medieval old town"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+    alt: "Almudena Cathedral lit up at nightfall"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+    alt: "Royal Palace lit up at night"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-panoramio-hero.webp"
+    alt: "Old-town Madrid street at night"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
     alt: "Madrid's Plaza Mayor"
 

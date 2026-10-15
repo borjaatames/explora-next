@@ -96,12 +96,24 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["retiro bici tour", "tour bicicleta retiro madrid", "ebike retiro park", "magic retiro madrid", "tour bici parque retiro"]
 
-imagen: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
-imagenAlt: "Palacio de Cristal en el Parque del Retiro de Madrid"
+imagen: "/images/actividades/madrid/ebike/images-hero.webp"
+imagenAlt: "Grupo de ciclistas con el guía junto al Palacio de Cristal del Retiro"
 
 galeria:
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
+    alt: "Palacio de Cristal y su estanque con surtidor"
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-monument-alfonso-xii-hero.webp"
+    alt: "Gran Estanque y monumento a Alfonso XII"
+  - src: "/images/actividades/madrid/retiro/parque-retiro-stunning-view-palacio-cristal-hero.webp"
+    alt: "Palacio de Cristal entre los árboles en otoño"
+  - src: "/images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp"
+    alt: "Columnata del monumento a Alfonso XII"
+  - src: "/images/actividades/madrid/retiro/parque-retiro-palacio-cristal-madrid-03-hero.webp"
+    alt: "Estanque del Palacio de Cristal"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
-    alt: "Palacio de Cristal del Parque del Retiro"
+    alt: "Estructura de hierro y cristal del Palacio de Cristal"
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
+    alt: "Palacio de Cristal en una tarde de niebla"
 ratingProveedor: 4.8
 numeroOpiniones: 73
 

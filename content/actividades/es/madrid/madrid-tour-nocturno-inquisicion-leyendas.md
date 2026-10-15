@@ -98,8 +98,18 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-p
 imagenAlt: "Plaza de la Villa de noche, en el Madrid de los Austrias"
 
 galeria:
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+    alt: "Plaza Mayor al anochecer, antiguo escenario de autos de fe"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+    alt: "Real Casa de Correos en la Puerta del Sol de noche"
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Casco antiguo de Madrid"
+    alt: "Plaza de la Villa, en pleno casco medieval"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+    alt: "Catedral de la Almudena iluminada al caer la noche"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+    alt: "Palacio Real iluminado de noche"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-panoramio-hero.webp"
+    alt: "Calle del centro histórico de Madrid de noche"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
     alt: "Plaza Mayor de Madrid"
 

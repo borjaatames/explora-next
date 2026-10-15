@@ -119,18 +119,28 @@ keywords:
 imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
 imagenAlt: Fachada del Palacio Real de Madrid con detalles arquitectónicos neoclásicos y ornamentaciones doradas
 galeria:
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
-  alt: Fachada principal del Palacio Real de Madrid con arquitectura neoclásica y escalinatas de acceso
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp
-  alt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero-hero.webp
-  alt: Comedor del Palacio Real de Madrid con decoración dorada y cristaleras palatinas
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
-  alt: Arquitectura neoclásica del Palacio Real de Madrid
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092793-hero-hero.webp
-  alt: Fachada principal del Palacio Real de Madrid con arquitectura neoclásica y columnata
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero-hero.webp
-  alt: Fachada del Palacio Real de Madrid con arquitectura neoclásica y columnas blancas
+  - src: "/images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp"
+    alt: "Salón del Trono del Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+    alt: "Palacio Real desde los jardines"
+  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-escalera-balaustrada.webp"
+    alt: "Balaustrada de la escalera de honor"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero-hero.webp"
+    alt: "Comedor de Gala del Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-capilla-real.webp"
+    alt: "Capilla Real del Palacio"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp"
+    alt: "Plaza de Oriente con la estatua de Felipe IV"
+  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-escalera-cupula.webp"
+    alt: "Bóveda pintada sobre la escalera principal"
+  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-patio-arcadas.webp"
+    alt: "Patio porticado del Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+    alt: "Arquitectura neoclásica del Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-jardines-sabatini.webp"
+    alt: "Jardines de Sabatini junto al Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-campo-del-moro.webp"
+    alt: "Palacio Real visto desde el Campo del Moro"
 ratingProveedor: 5.0
 numeroOpiniones: 59
 publicada: true

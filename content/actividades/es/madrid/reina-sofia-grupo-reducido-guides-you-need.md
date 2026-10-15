@@ -112,16 +112,22 @@ keywords:
 imagen: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
 imagenAlt: "Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal"
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp
-  alt: Fachada contemporánea del Museo Reina Sofía en Madrid con arquitectura moderna de acero y vidrio
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Niños y maestros observan pintura abstracta en el Museo Reina Sofía de Madrid
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Jardín del Museo Reina Sofía en Madrid con plantas y vegetación exuberante
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Entrada principal del Museo Reina Sofía en Madrid con su fachada de acero y cristal
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Vistas panorámicas del skyline de Madrid con edificios modernos y cielo azul
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
+    alt: "Visitantes en una sala del Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp"
+    alt: "Sala de arte contemporáneo del museo"
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp"
+    alt: "Grupo escuchando la explicación ante una obra"
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp"
+    alt: "Jardín del claustro del Museo Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp"
+    alt: "Galería de la colección permanente"
+  - src: "/images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp"
+    alt: "Sala de escultura del Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
+    alt: "Entrada del Museo Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
+    alt: "Torres de ascensores del edificio Sabatini"
 ratingProveedor: 4.9
 numeroOpiniones: 418
 publicada: true

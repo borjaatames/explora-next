@@ -96,12 +96,24 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["retiro bike tour", "retiro park bike tour madrid", "ebike retiro park", "magic retiro madrid", "park retiro cycling tour"]
 
-imagen: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
-imagenAlt: "Crystal Palace in Madrid's Retiro Park"
+imagen: "/images/actividades/madrid/ebike/images-hero.webp"
+imagenAlt: "Cyclists with their guide by the Crystal Palace in Retiro Park"
 
 galeria:
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
+    alt: "The Crystal Palace and its pond with fountain"
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-monument-alfonso-xii-hero.webp"
+    alt: "The Great Pond and the Alfonso XII monument"
+  - src: "/images/actividades/madrid/retiro/parque-retiro-stunning-view-palacio-cristal-hero.webp"
+    alt: "The Crystal Palace among autumn trees"
+  - src: "/images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp"
+    alt: "Colonnade of the Alfonso XII monument"
+  - src: "/images/actividades/madrid/retiro/parque-retiro-palacio-cristal-madrid-03-hero.webp"
+    alt: "The Crystal Palace pond"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"
-    alt: "Crystal Palace of Retiro Park"
+    alt: "Iron and glass structure of the Crystal Palace"
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
+    alt: "The Crystal Palace on a misty evening"
 ratingProveedor: 4.8
 numeroOpiniones: 73
 

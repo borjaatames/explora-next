@@ -90,20 +90,26 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["tour de tapas madrid", "tapas y vino madrid", "tour tapas azotea madrid", "ruta de tapas centro madrid", "tour gastronomico madrid atardecer"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp"
-imagenAlt: "Vista de los tejados del centro de Madrid desde una azotea"
+imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
+imagenAlt: "La Gran Vía al atardecer vista desde una azotea"
 
 galeria:
-  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
-    alt: "La Gran Vía y la Plaza del Callao de Madrid al anochecer"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"
-    alt: "Pinchos y una copa de vino tinto en un bar del centro de Madrid"
   - src: "/images/actividades/madrid/la-latina/01.webp"
-    alt: "Calle del barrio de La Latina, una de las zonas de tapas de Madrid"
+    alt: "Barrio de La Latina, inicio de la ruta"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp"
+    alt: "Vinos y vermut en una terraza"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "La Plaza Mayor de Madrid, parada del recorrido de tapas"
+    alt: "Plaza Mayor"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
+    alt: "Jamón ibérico de bellota"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+    alt: "Plaza del Callao y Gran Vía al anochecer"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-spanish-sangria-hero.webp"
-    alt: "Jarra de sangría española servida en una mesa"
+    alt: "Sangría en una terraza del centro"
+  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp"
+    alt: "La Gran Vía iluminada vista desde lo alto"
+  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-foto-774234-hero.webp"
+    alt: "Terrazas en una calle del centro de Madrid"
 
 ratingProveedor: 4.7
 numeroOpiniones: 342
