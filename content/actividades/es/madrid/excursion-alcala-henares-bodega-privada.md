@@ -120,15 +120,25 @@ keywords:
 - alcala bodega cata vino
 - excursion cervantes alcala
 - tour patrimonio unesco madrid
-imagen: "/images/actividades/madrid/Bigbus/descarga-hero.webp"
-imagenAlt: Alcalá de Henares, plaza principal con arquitectura histórica y edificios coloniales
+imagen: "/images/actividades/madrid/alcala-henares/alcala-universidad-san-ildefonso-fachada.webp"
+imagenAlt: "Fachada plateresca del Colegio Mayor de San Ildefonso, Universidad de Alcalá"
 galeria:
-- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
-  alt: Camarero preparando un vermut en un bar de tapas de Madrid
-- src: /images/actividades/alcala-de-henares/alcala-de-henares/wikimedia-ayuntamiento-de-alcalá-de-henares-rps-11-06-2017-torre-del-reloj-hero.webp
-  alt: Torre del Reloj del Ayuntamiento de Alcalá de Henares
-- src: /images/actividades/madrid/tapas-madrid/pexels-28826629-hero.webp
-  alt: Paisaje urbano de Madrid con arquitectura histórica y calles concurridas
+- src: "/images/actividades/madrid/alcala-henares/alcala-calle-mayor-soportales.webp"
+  alt: "Calle Mayor de Alcalá de Henares con sus soportales"
+- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+  alt: "Vino tinto sirviéndose durante la cata en la bodega"
+- src: "/images/actividades/madrid/alcala-henares/alcala-casa-natal-cervantes.webp"
+  alt: "Museo Casa Natal de Cervantes con las estatuas de Don Quijote y Sancho Panza"
+- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+  alt: "Barricas de vino en una bodega"
+- src: "/images/actividades/madrid/alcala-henares/alcala-plaza-cervantes.webp"
+  alt: "Plaza de Cervantes, centro de Alcalá de Henares"
+- src: "/images/actividades/madrid/alcala-henares/alcala-universidad-jardin.webp"
+  alt: "Universidad de Alcalá vista desde la plaza de San Diego"
+- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
+  alt: "Copas de vino en la cata"
+- src: "/images/actividades/madrid/alcala-henares/alcala-torre-ciguenas.webp"
+  alt: "Nidos de cigüeña en una espadaña de Alcalá de Henares, Patrimonio de la Humanidad"
 ratingProveedor: 4.1
 numeroOpiniones: 16
 publicada: true

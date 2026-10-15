@@ -119,15 +119,25 @@ keywords:
 - alcala winery wine tasting
 - cervantes alcala excursion
 - unesco heritage madrid tour
-imagen: "/images/actividades/madrid/Bigbus/descarga-hero.webp"
-imagenAlt: Historic arcaded square in Alcalá de Henares with traditional Spanish architecture and covered walkways
+imagen: "/images/actividades/madrid/alcala-henares/alcala-universidad-san-ildefonso-fachada.webp"
+imagenAlt: "Plateresque façade of the Colegio Mayor de San Ildefonso, University of Alcalá"
 galeria:
-- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero-hero.webp
-  alt: Bartender preparing a vermouth at a Madrid tapas bar
-- src: /images/actividades/alcala-de-henares/alcala-de-henares/wikimedia-ayuntamiento-de-alcalá-de-henares-rps-11-06-2017-torre-del-reloj-hero.webp
-  alt: Clock tower of Alcalá de Henares city hall, historic architecture
-- src: /images/actividades/madrid/tapas-madrid/pexels-28826629-hero.webp
-  alt: Madrid cityscape with historic architecture and urban skyline
+- src: "/images/actividades/madrid/alcala-henares/alcala-calle-mayor-soportales.webp"
+  alt: "Alcalá de Henares Calle Mayor with its arcades"
+- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+  alt: "Red wine being poured during the winery tasting"
+- src: "/images/actividades/madrid/alcala-henares/alcala-casa-natal-cervantes.webp"
+  alt: "Cervantes Birthplace Museum with statues of Don Quixote and Sancho Panza"
+- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
+  alt: "Wine barrels in a winery cellar"
+- src: "/images/actividades/madrid/alcala-henares/alcala-plaza-cervantes.webp"
+  alt: "Plaza de Cervantes, the centre of Alcalá de Henares"
+- src: "/images/actividades/madrid/alcala-henares/alcala-universidad-jardin.webp"
+  alt: "University of Alcalá seen from Plaza de San Diego"
+- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
+  alt: "Wine glasses at the tasting"
+- src: "/images/actividades/madrid/alcala-henares/alcala-torre-ciguenas.webp"
+  alt: "Stork nests on a bell gable in Alcalá de Henares, a World Heritage city"
 ratingProveedor: 4.1
 numeroOpiniones: 16
 publicada: true
