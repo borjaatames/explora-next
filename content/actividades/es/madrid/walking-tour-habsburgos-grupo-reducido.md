@@ -99,10 +99,26 @@ imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.
 imagenAlt: "Plaza Mayor de Madrid con la estatua ecuestre de Felipe III"
 
 galeria:
-- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-  alt: "Plaza de la Villa, corazón del Madrid de los Austrias"
-- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
-  alt: "Plaza de la Villa iluminada de noche"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
+    alt: "Estatua del Oso y el Madroño en la Puerta del Sol, punto de salida del tour"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Fuente y estatua de Carlos III en la Puerta del Sol"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+    alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "Mercado de San Miguel, con su estructura de hierro y cristal"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+    alt: "Plaza de la Villa, corazón del Madrid de los Austrias"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+    alt: "Plaza de la Villa iluminada de noche"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp"
+    alt: "Catedral de la Almudena junto al Palacio Real"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero.webp"
+    alt: "Bóveda decorada de la Catedral de la Almudena"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
+    alt: "Plaza de Oriente con la estatua de Felipe IV y el Palacio Real al fondo"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero.webp"
+    alt: "Palacio Real de Madrid, final del recorrido"
 
 ratingProveedor: 4.9
 numeroOpiniones: 55

@@ -99,10 +99,26 @@ imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.
 imagenAlt: "Madrid's Plaza Mayor with the equestrian statue of Philip III"
 
 galeria:
-- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-  alt: "Plaza de la Villa, the heart of Habsburg Madrid"
-- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
-  alt: "Plaza de la Villa lit up at night"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
+    alt: "Bear and Strawberry Tree statue at Puerta del Sol, where the tour starts"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Fountain and statue of Charles III at Puerta del Sol"
+  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+    alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "San Miguel Market, with its iron and glass structure"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+    alt: "Plaza de la Villa, the heart of Habsburg Madrid"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+    alt: "Plaza de la Villa lit up at night"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp"
+    alt: "Almudena Cathedral next to the Royal Palace"
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero.webp"
+    alt: "Decorated vault of the Almudena Cathedral"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
+    alt: "Plaza de Oriente with the statue of Philip IV and the Royal Palace behind"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero.webp"
+    alt: "Royal Palace of Madrid, the end of the tour"
 
 ratingProveedor: 4.9
 numeroOpiniones: 55
