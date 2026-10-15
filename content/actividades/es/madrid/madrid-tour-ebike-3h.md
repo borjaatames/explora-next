@@ -124,15 +124,13 @@ keywords:
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero.webp"
-imagenAlt: Portada de libro o revista sobre Madrid con diseño de encabezado
+imagen: "/images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp"
+imagenAlt: "Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid"
 galeria:
 - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
   alt: Tour en grupo por las calles históricas y monumentos principales de Madrid
 - src: /images/actividades/madrid/ebike/images-hero.webp
   alt: Grupo de ciclistas con bicicletas eléctricas frente al Palacio de Cristal, en el parque del Retiro de Madrid.
-- src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-  alt: Grupo de ciclistas con casco posando en bicicleta eléctrica frente al Palacio Real de Madrid.
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

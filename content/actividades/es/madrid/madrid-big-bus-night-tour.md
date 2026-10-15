@@ -118,13 +118,17 @@ keywords:
 - tour nocturno bus madrid
 - madrid iluminado bus
 - panoramic night tour madrid
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero.webp"
-imagenAlt: Autobús turístico de dos pisos de EMT en Madrid con pasajeros en la azotea
+imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+imagenAlt: "Plaza de Callao y la Gran Vía de noche, con las luces del tráfico"
 galeria:
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: Gran Vía de Madrid
-- src: /images/actividades/madrid/Bigbus/descarga-hero.webp
-  alt: Vista panorámica de Madrid con edificios históricos y modernos
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
+  alt: "La Gran Vía iluminada de noche"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Fuente de Cibeles iluminada de noche"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+  alt: "Palacio Real de Madrid iluminado de noche"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
 ratingProveedor: 4.2
 numeroOpiniones: 977
 publicada: true

@@ -98,29 +98,23 @@ keywords:
 - cuenca tour one day
 - visit cuenca from madrid
 - ciudad encantada tour
-imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp"
-imagenAlt: Historic colonial architecture and cobblestone streets of Cuenca, Ecuador
+imagen: "/images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp"
+imagenAlt: "Cuenca's Hanging Houses above the Huécar gorge"
 galeria:
 - src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp
   alt: Historic colonial architecture and blue Domed Cathedral in Cuenca Ecuador's main plaza
 - src: /images/actividades/cuenca/puente-san-pablo/pexels-33292983-hero.webp
   alt: Historic cathedral in Cuenca with blue dome and colonial architecture
-- src: /images/actividades/cuenca/catedral-cuenca/pexels-27208543-hero.webp
-  alt: Historic colonial architecture and blue-domed cathedral in Cuenca's mountain valley
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4645475-hero.webp
   alt: Historic Cuenca cityscape with colonial architecture and river valley
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4642730-hero.webp
   alt: Historic cityscape of Cuenca with colorful colonial buildings nestled in mountain valley
-- src: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
-  alt: Historic colonial architecture with blue-domed cathedral in Cuenca's main plaza
 - src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp
   alt: Historic colonial architecture and blue-domed cathedral in Cuenca, Ecuador
 - src: /images/actividades/cuenca/ciudad-encantada/pexels-2992883-hero.webp
   alt: Historic Cuenca colonial architecture with terracotta roofs and white buildings on hillside
 - src: /images/actividades/cuenca/hoz-huecar/pexels-1627961-hero.webp
   alt: Historic colonial architecture and blue buildings in Cuenca's old town streets
-- src: /images/actividades/cuenca/catedral-cuenca/unsplash-oN4h_07E0KQ-hero.webp
-  alt: Historic architecture of Cuenca with colonial buildings and cobblestone streets
 ratingProveedor: 4.8
 numeroOpiniones: 561
 publicada: true

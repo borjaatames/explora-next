@@ -117,15 +117,13 @@ keywords:
 - ebike royal palace tour
 - wonder tours madrid
 - e-bike central madrid
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero.webp"
-imagenAlt: Madrid city skyline with historic buildings and modern architecture
+imagen: "/images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp"
+imagenAlt: "E-bike tour group in front of the Royal Palace of Madrid"
 galeria:
 - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
   alt: Touring through Madrid's historic streets and landmarks
 - src: /images/actividades/madrid/ebike/images-hero.webp
   alt: A group of cyclists with e-bikes in front of the Palacio de Cristal in Madrid's Retiro Park.
-- src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-  alt: A group of helmeted cyclists posing on e-bikes in front of the Royal Palace of Madrid.
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

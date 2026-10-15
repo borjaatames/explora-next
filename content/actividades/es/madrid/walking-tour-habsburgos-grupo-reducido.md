@@ -95,14 +95,14 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["madrid austrias tour", "walking tour madrid grupo reducido", "tour centro madrid pequeño grupo", "habsburgos madrid guia local", "free tour madrid grupo pequeno"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-hero.webp"
-imagenAlt: "Plaza Mayor de Madrid, una de las paradas del tour por el Madrid de los Austrias"
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+imagenAlt: "Plaza Mayor de Madrid con la estatua ecuestre de Felipe III"
 
 galeria:
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "Plaza Mayor de Madrid de día"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-6394609563-hero.webp"
-    alt: "Puerta del Sol, punto de encuentro del tour por el Madrid de los Austrias"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+  alt: "Plaza de la Villa, corazón del Madrid de los Austrias"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+  alt: "Plaza de la Villa iluminada de noche"
 
 ratingProveedor: 4.9
 numeroOpiniones: 55

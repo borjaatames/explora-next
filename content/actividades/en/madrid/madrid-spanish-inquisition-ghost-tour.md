@@ -94,8 +94,8 @@ atraccionesRelacionadas:
 categoria: "espectaculos"
 keywords: ["madrid night tour", "spanish inquisition madrid tour", "madrid night legends", "madrid ghost tour", "mysterium tours madrid"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-medieval-castle-spain-hero.webp"
-imagenAlt: "Historic old-town streets of Madrid, setting of the night legends tour"
+imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+imagenAlt: "Plaza de la Villa at night, in Habsburg Madrid"
 
 galeria:
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"

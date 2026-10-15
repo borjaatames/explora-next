@@ -95,14 +95,14 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["madrid austrias tour", "madrid small group walking tour", "central madrid small group tour", "habsburg madrid local guide", "madrid free tour small group"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-castle-alcazar-palace-architecture-hero.webp"
-imagenAlt: "Madrid's Plaza Mayor, one of the stops on the Habsburg Madrid tour"
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+imagenAlt: "Madrid's Plaza Mayor with the equestrian statue of Philip III"
 
 galeria:
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "Madrid's Plaza Mayor by day"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-6394609563-hero.webp"
-    alt: "Puerta del Sol, meeting point of the Habsburg Madrid tour"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+  alt: "Plaza de la Villa, the heart of Habsburg Madrid"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+  alt: "Plaza de la Villa lit up at night"
 
 ratingProveedor: 4.9
 numeroOpiniones: 55

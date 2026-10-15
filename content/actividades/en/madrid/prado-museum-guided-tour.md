@@ -85,8 +85,8 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["prado museum guided tour", "prado tour madrid", "prado museum with guide", "velazquez goya prado", "prado ticket and guide"]
 
-imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp"
-imagenAlt: "Exterior of the Prado Museum on Paseo del Prado, Madrid"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+imagenAlt: "Entrance to the Prado Museum with the statue of Goya"
 
 galeria:
   - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
@@ -99,8 +99,6 @@ galeria:
     alt: "Apollo in the Forge of Vulcan by Velázquez"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp"
     alt: "Detail of Titian's Charles V at Mühlberg"
-  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
-    alt: "Paseo del Prado boulevard in Madrid"
   - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp"
     alt: "Neptune Fountain, next to the Prado Museum"
 ratingProveedor: 4.9

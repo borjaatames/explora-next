@@ -109,8 +109,8 @@ keywords:
 - reina sofia visita guiada premium
 - guernica grupo pequeño
 - reina sofia con guia experto
-imagen: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-large-white-building-clock-tower-hero.webp"
-imagenAlt: Entrada principal del Museo Reina Sofía en Madrid con su fachada contemporánea y acceso visible
+imagen: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
+imagenAlt: "Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal"
 galeria:
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp
   alt: Fachada contemporánea del Museo Reina Sofía en Madrid con arquitectura moderna de acero y vidrio

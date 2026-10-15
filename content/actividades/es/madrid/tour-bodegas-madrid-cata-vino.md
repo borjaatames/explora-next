@@ -89,12 +89,10 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["tour bodegas madrid", "cata de vinos madrid", "enoturismo madrid", "tour vino chinchon", "bodegas region de madrid"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-arthur-tseng-ydyizev4pqk-unsplash-hero.webp"
-imagenAlt: "Barricas de vino apiladas en una bodega de la región de Madrid"
+imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+imagenAlt: "Copa de vino tinto sirviéndose durante una cata en bodega"
 
 galeria:
-  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
-    alt: "Interior de una bodega familiar con depósitos y barricas"
   - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
     alt: "Copa de vino tinto en una cata de bodega"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"

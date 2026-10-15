@@ -85,8 +85,8 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["visita guiada museo del prado", "tour prado madrid", "museo del prado con guia", "velazquez goya prado", "prado entrada y guia"]
 
-imagen: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp"
-imagenAlt: "Exterior del Museo del Prado en el Paseo del Prado, Madrid"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+imagenAlt: "Entrada del Museo del Prado con la estatua de Goya"
 
 galeria:
   - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
@@ -99,8 +99,6 @@ galeria:
     alt: "La fragua de Vulcano de Velázquez"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp"
     alt: "Detalle del retrato de Carlos V en Mühlberg de Tiziano"
-  - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
-    alt: "Paseo del Prado en Madrid"
   - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp"
     alt: "Fuente de Neptuno, junto al Museo del Prado"
 ratingProveedor: 4.9

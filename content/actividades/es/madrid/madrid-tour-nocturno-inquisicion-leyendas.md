@@ -94,8 +94,8 @@ atraccionesRelacionadas:
 categoria: "espectaculos"
 keywords: ["tour nocturno madrid", "inquisicion espanola madrid tour", "leyendas madrid noche", "fantasmas madrid tour", "mysterium tours madrid"]
 
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-medieval-castle-spain-hero.webp"
-imagenAlt: "Calles históricas del casco antiguo de Madrid, escenario del tour nocturno de leyendas"
+imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+imagenAlt: "Plaza de la Villa de noche, en el Madrid de los Austrias"
 
 galeria:
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"

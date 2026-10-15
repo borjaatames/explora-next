@@ -122,13 +122,11 @@ keywords:
 - madrid sightseeing bus
 - madrid bus tour
 - big bus madrid 24 hours
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp"
-imagenAlt: Madrid cityscape with historic architecture and urban landmarks
+imagen: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
+imagenAlt: "Red double-decker sightseeing bus driving through central Madrid"
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
   alt: Madrid's Gran Vía, one of the stops on the Big Bus route
-- src: /images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp
-  alt: EMT Madrid tourist bus in traffic, iconic red and white public transport vehicle
 - src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-city-street-ornate-white-hero.webp
   alt: Plaza de Cibeles, on the Big Bus route
 ratingProveedor: 4.2

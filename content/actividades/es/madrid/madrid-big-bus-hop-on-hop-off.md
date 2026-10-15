@@ -124,13 +124,11 @@ keywords:
 - bus turistico madrid
 - madrid sightseeing bus
 - big bus madrid 24 horas
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp"
-imagenAlt: Descarga de archivo con logotipo de Madrid
+imagen: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
+imagenAlt: "Autobús turístico rojo de dos pisos recorriendo el centro de Madrid"
 galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
   alt: Gran Vía de Madrid, uno de los puntos de la ruta del Big Bus
-- src: /images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp
-  alt: Autobús turístico de EMT en Madrid con pasajeros en la azotea descubierta
 - src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-city-street-ornate-white-hero.webp
   alt: Plaza de Cibeles, en la ruta del Big Bus
 ratingProveedor: 4.2
