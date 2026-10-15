@@ -111,11 +111,11 @@ keywords:
 - reina sofia skip line
 - reina sofia museum guide madrid
 - reina sofia bilingual tour
-imagen: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
-imagenAlt: "Museo Reina Sofía façade at night, with its glass lift towers"
+imagen: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
+imagenAlt: "Visitors in a gallery of the Museo Reina Sofía"
 galeria:
-  - src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
-    alt: "Visitors in a Reina Sofía gallery"
+  - src: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
+    alt: "Museo Reina Sofía façade at night, with its glass lift towers"
   - src: "/images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp"
     alt: "Cloister garden of the Museo Reina Sofía"
   - src: "/images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp"

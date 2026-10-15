@@ -111,11 +111,11 @@ keywords:
 - reina sofia entrada sin colas
 - museo reina sofia madrid guia
 - reina sofia bilingue tour
-imagen: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
-imagenAlt: "Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal"
+imagen: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
+imagenAlt: "Visitantes en una sala del Museo Reina Sofía"
 galeria:
-  - src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
-    alt: "Visitantes en una sala del Reina Sofía"
+  - src: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
+    alt: "Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal"
   - src: "/images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp"
     alt: "Jardín del claustro del Museo Reina Sofía"
   - src: "/images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp"

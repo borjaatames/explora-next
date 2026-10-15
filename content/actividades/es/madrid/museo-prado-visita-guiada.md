@@ -85,14 +85,14 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["visita guiada museo del prado", "tour prado madrid", "museo del prado con guia", "velazquez goya prado", "prado entrada y guia"]
 
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
-imagenAlt: "Entrada del Museo del Prado con la estatua de Goya"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
+imagenAlt: "Edificio Villanueva del Museo del Prado"
 
 galeria:
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+    alt: "Entrada del Museo del Prado con la estatua de Goya"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp"
     alt: "Las Meninas de Velázquez"
-  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
-    alt: "Edificio Villanueva del Museo del Prado"
   - src: "/images/actividades/madrid/prado-privado/wm-goya-tres-de-mayo.webp"
     alt: "El 3 de mayo en Madrid, de Goya"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp"

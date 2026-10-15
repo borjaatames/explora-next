@@ -85,14 +85,14 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["prado museum guided tour", "prado tour madrid", "prado museum with guide", "velazquez goya prado", "prado ticket and guide"]
 
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
-imagenAlt: "Entrance to the Prado Museum with the statue of Goya"
+imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
+imagenAlt: "Villanueva Building of the Prado Museum"
 
 galeria:
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+    alt: "Entrance to the Prado Museum with the statue of Goya"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp"
     alt: "Las Meninas by Velázquez"
-  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
-    alt: "Villanueva Building of the Prado Museum"
   - src: "/images/actividades/madrid/prado-privado/wm-goya-tres-de-mayo.webp"
     alt: "The Third of May 1808, by Goya"
   - src: "/images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp"

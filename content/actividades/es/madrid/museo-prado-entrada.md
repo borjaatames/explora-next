@@ -85,10 +85,12 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["entrada museo del prado", "entradas prado madrid", "ticket museo del prado", "comprar entrada prado", "museo del prado horario"]
 
-imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
-imagenAlt: "Entrada al Museo del Prado con la estatua de Goya"
+imagen: "/images/actividades/madrid/prado-privado/pexels-velazquez-facade.webp"
+imagenAlt: "Fachada del Museo del Prado con la estatua de Velázquez"
 
 galeria:
+  - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+    alt: "Entrada al Museo del Prado con la estatua de Goya"
   - src: "/images/actividades/madrid/paseo-prado/paseo-prado-madrid-001-hero.webp"
     alt: "Paseo del Prado, junto al museo"
   - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"

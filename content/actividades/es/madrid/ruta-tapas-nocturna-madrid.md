@@ -85,14 +85,14 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["ruta de tapas nocturna madrid", "tour de tapas noche madrid", "tapas madrid en aleman", "tour tapas tradicionales madrid", "ruta tapas centro madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
-imagenAlt: "Interior de un bar de tapas tradicional de Madrid"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
+imagenAlt: "Jamones colgados en la barra de un bar de tapas de Madrid"
 
 galeria:
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
+    alt: "Interior de un bar de tapas tradicional de Madrid"
   - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-17-hero.webp"
     alt: "Plaza de Santa Ana de noche, zona de bares de tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
-    alt: "Jamones colgados en la barra de un bar"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp"
     alt: "Tortilla de patatas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"

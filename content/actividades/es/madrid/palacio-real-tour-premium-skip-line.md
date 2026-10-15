@@ -116,11 +116,11 @@ keywords:
 - visita guiada palacio real sin colas
 - palacio real madrid skip line
 - palacio real madrid madzguia
-imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
-imagenAlt: Fachada del Palacio Real de Madrid con detalles arquitectónicos neoclásicos y ornamentaciones doradas
+imagen: "/images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp"
+imagenAlt: "Salón del Trono del Palacio Real de Madrid"
 galeria:
-  - src: "/images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp"
-    alt: "Salón del Trono del Palacio Real"
+  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+    alt: "Fachada del Palacio Real de Madrid con detalles arquitectónicos neoclásicos y ornamentaciones doradas"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
     alt: "Palacio Real desde los jardines"
   - src: "/images/actividades/madrid/palacio-real-privado/unsplash-escalera-balaustrada.webp"
