@@ -94,8 +94,8 @@ imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-zam
 imagenAlt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    alt: "Casas cueva en la ladera del Sacromonte, Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 2093
 

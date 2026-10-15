@@ -93,8 +93,8 @@ imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-granada.p
 imagenAlt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Facade of a flamenco cave-tablao on the Camino del Sacromonte in Granada"
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    alt: "Cave houses on the Sacromonte hillside, Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 503
 

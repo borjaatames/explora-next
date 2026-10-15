@@ -94,8 +94,8 @@ imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-zam
 imagenAlt: "Flamenco show in a cave in Granada's Sacromonte"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Flamenco show in a cave in Granada's Sacromonte"
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    alt: "Cave houses on the Sacromonte hillside, Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 2093
 

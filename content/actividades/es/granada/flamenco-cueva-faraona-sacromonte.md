@@ -93,8 +93,8 @@ imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-granada.p
 imagenAlt: "Fachada de una cueva-tablao flamenco en el Camino del Sacromonte de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Fachada de una cueva-tablao flamenco en el Camino del Sacromonte de Granada"
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    alt: "Casas cueva en la ladera del Sacromonte, Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 503
 

@@ -94,8 +94,8 @@ imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra
 imagenAlt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    alt: "Casas cueva en la ladera del Sacromonte, Granada"
 ratingProveedor: 4.6
 numeroOpiniones: 1286
 

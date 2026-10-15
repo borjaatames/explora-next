@@ -95,8 +95,8 @@ imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-artistas-
 imagenAlt: "Blue and white facade of a flamenco cave-tablao in Granada's Sacromonte"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Blue and white facade of a flamenco cave-tablao in Granada's Sacromonte"
+  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
+    alt: "Cave houses on the Sacromonte hillside, Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 1107
 
