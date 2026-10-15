@@ -124,13 +124,27 @@ keywords:
 - bus turistico madrid
 - madrid sightseeing bus
 - big bus madrid 24 horas
-imagen: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
-imagenAlt: "Autobús turístico rojo de dos pisos recorriendo el centro de Madrid"
+imagen: "/images/actividades/madrid/Bigbus/big-bus-madrid-cibeles.webp"
+imagenAlt: "Big Bus Madrid rojo de dos pisos frente al Palacio de Cibeles"
 galeria:
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: Gran Vía de Madrid, uno de los puntos de la ruta del Big Bus
-- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-city-street-ornate-white-hero.webp
-  alt: Plaza de Cibeles, en la ruta del Big Bus
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-piso-superior-cibeles.webp"
+  alt: "Viajeros en el piso superior descubierto del Big Bus frente a Cibeles"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+  alt: "Vista aérea de la Gran Vía, una de las calles de la ruta"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-puerta-alcala.webp"
+  alt: "Big Bus Madrid pasando junto a la Puerta de Alcalá"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+  alt: "Palacio Real de Madrid, parada de la ruta histórica"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-subida-pasajeros.webp"
+  alt: "Viajeros subiendo al Big Bus Madrid en una parada del centro"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp"
+  alt: "Edificio Metrópolis, al inicio de la Gran Vía"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-lateral-cibeles.webp"
+  alt: "Lateral del Big Bus Madrid con la plaza de Cibeles al fondo"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-embarque.webp"
+  alt: "Personal de Big Bus ayudando a embarcar a los viajeros"
+- src: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
+  alt: "Autobús turístico Big Bus recorriendo el centro de Madrid"
 ratingProveedor: 4.2
 numeroOpiniones: 904
 publicada: true

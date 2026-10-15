@@ -122,13 +122,27 @@ keywords:
 - madrid sightseeing bus
 - madrid bus tour
 - big bus madrid 24 hours
-imagen: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
-imagenAlt: "Red double-decker sightseeing bus driving through central Madrid"
+imagen: "/images/actividades/madrid/Bigbus/big-bus-madrid-cibeles.webp"
+imagenAlt: "Red double-decker Big Bus Madrid in front of Cibeles Palace"
 galeria:
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
-  alt: Madrid's Gran Vía, one of the stops on the Big Bus route
-- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-city-street-ornate-white-hero.webp
-  alt: Plaza de Cibeles, on the Big Bus route
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-piso-superior-cibeles.webp"
+  alt: "Passengers on the open top deck of the Big Bus facing Cibeles"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+  alt: "Aerial view of Gran Vía, one of the streets on the route"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-puerta-alcala.webp"
+  alt: "Big Bus Madrid passing the Puerta de Alcalá"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+  alt: "Royal Palace of Madrid, a stop on the historic route"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-subida-pasajeros.webp"
+  alt: "Passengers boarding Big Bus Madrid at a stop in the city centre"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp"
+  alt: "Metrópolis building at the start of Gran Vía"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-lateral-cibeles.webp"
+  alt: "Side view of Big Bus Madrid with Plaza de Cibeles behind"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-embarque.webp"
+  alt: "Big Bus staff helping passengers board"
+- src: "/images/actividades/madrid/Bigbus/EMT-Bus-Madrid_touristics-bus-min-hero.webp"
+  alt: "Big Bus sightseeing bus driving through central Madrid"
 ratingProveedor: 4.2
 numeroOpiniones: 904
 publicada: true

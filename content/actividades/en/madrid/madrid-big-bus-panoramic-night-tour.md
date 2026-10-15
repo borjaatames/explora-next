@@ -115,15 +115,25 @@ keywords:
 - madrid night bus tour
 - madrid illuminated bus
 - panoramic night tour madrid
-imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
-imagenAlt: "Plaza de Callao and Gran Vía at night, with light trails from the traffic"
+imagen: "/images/actividades/madrid/Bigbus/big-bus-madrid-puerta-alcala.webp"
+imagenAlt: "Big Bus Madrid passing the Puerta de Alcalá"
 galeria:
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+  alt: "Plaza de Callao and Gran Vía at night"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-piso-superior-cibeles.webp"
+  alt: "Passengers on the open top deck of the Big Bus facing Cibeles"
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
   alt: "Gran Vía lit up at night"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-subida-pasajeros.webp"
+  alt: "Passengers boarding Big Bus Madrid at a stop in the city centre"
 - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
   alt: "Cibeles Fountain lit up at night"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-lateral-cibeles.webp"
+  alt: "Side view of Big Bus Madrid with Plaza de Cibeles behind"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
   alt: "Royal Palace of Madrid lit up at night"
+- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-cibeles.webp"
+  alt: "Red double-decker Big Bus Madrid in front of Cibeles Palace"
 - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
   alt: "Tío Pepe neon sign at Puerta del Sol at dusk"
 ratingProveedor: 4.2
