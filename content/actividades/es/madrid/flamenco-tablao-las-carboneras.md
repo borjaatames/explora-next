@@ -115,21 +115,29 @@ keywords:
 - espectaculo flamenco madrid
 - tablao madrid centro
 - flamenco autentico madrid
-imagen: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp"
-imagenAlt: Plaza Mayor de Madrid con edificios históricos y turistas
+imagen: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaoras-rojo.webp"
+imagenAlt: "Bailaoras con trajes rojos durante el espectáculo del Tablao Las Carboneras"
 galeria:
-- src: /images/actividades/madrid/tablao-las-carboneras/descarga-4-hero.webp
-  alt: Cantaora y músicos de flamenco actuando en el tablao Las Carboneras, con el rótulo del local al fondo.
-- src: /images/actividades/madrid/tablao-las-carboneras/images-1-hero.webp
-  alt: Escenario del tablao Las Carboneras, con guitarra y sillas dispuestas antes del espectáculo.
-- src: /images/actividades/madrid/tablao-las-carboneras/descarga-2-hero.webp
-  alt: Tres bailaoras de flamenco con trajes rojos actuando en el tablao.
-- src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
-  alt: Bailaor de flamenco en traje blanco durante una actuación en Las Carboneras.
-- src: /images/actividades/madrid/tablao-las-carboneras/images-hero.webp
-  alt: Bailaora de flamenco con un manton rojo durante una actuacion en directo
-- src: /images/actividades/madrid/tablao-las-carboneras/descarga-1-hero.webp
-  alt: Cantaores y guitarristas durante una actuacion en el tablao Las Carboneras de Madrid
+- src: "/images/actividades/madrid/tablao-las-carboneras/casa-palacio-conde-miranda-puerta.webp"
+  alt: "Entrada del número 1 de la Plaza del Conde de Miranda, donde está el tablao"
+- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-cuadro-flamenco.webp"
+  alt: "Cuadro flamenco completo en el escenario de Las Carboneras"
+- src: "/images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-edificios.webp"
+  alt: "Plaza del Conde de Miranda, en el Madrid de los Austrias"
+- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaora-cuadro.webp"
+  alt: "Bailaora con vestido rojo y el cuadro de cante y guitarra"
+- src: "/images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-azulejo.webp"
+  alt: "Azulejo de la Plaza del Conde de Miranda"
+- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-sala-escenario.webp"
+  alt: "Sala y escenario del Tablao Las Carboneras"
+- src: "/images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp"
+  alt: "Portada del Convento de las Carboneras, que da nombre al tablao"
+- src: "/images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp"
+  alt: "Bailaor de flamenco en una actuación en Las Carboneras"
+- src: "/images/actividades/madrid/tablao-las-carboneras/convento-carboneras-torno.webp"
+  alt: "Torno del convento donde las monjas venden sus dulces"
+- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-comedor.webp"
+  alt: "Comedor del tablao antes del espectáculo"
 ratingProveedor: 4.7
 numeroOpiniones: 758
 publicada: true
