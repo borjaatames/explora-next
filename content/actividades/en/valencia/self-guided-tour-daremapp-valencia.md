@@ -57,23 +57,21 @@ keywords:
 - self-guided tour valencia
 - valencia audio tour
 - valencia self-guided app tour
-imagen: "https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg"
-imagenAlt: DareMapp self-guided tour of Valencia
+imagen: "/images/actividades/valencia/centro/mercado-central-interior.webp"
+imagenAlt: "Art Nouveau interior of the Central Market"
 galeria:
-- src: https://imgcdn.bokun.tools/ec32f71b-edb7-4cea-b2e2-894fb6c18451.jpg
-  alt: "DareMapp self-guided tour of Valencia, photo 1 of 4"
-- src: https://imgcdn.bokun.tools/8755799c-4ab6-48f6-931f-6231289110b8.jpg
-  alt: "DareMapp self-guided tour of Valencia, photo 2 of 4"
-- src: https://imgcdn.bokun.tools/3e9ca7cc-4ab5-40e1-b86a-83c44b69a5c2.jpg
-  alt: "DareMapp self-guided tour of Valencia, photo 3 of 4"
-- src: https://imgcdn.bokun.tools/f683b1a1-64eb-41af-8c12-a829efb810f8.jpg
-  alt: "DareMapp self-guided tour of Valencia, photo 4 of 4"
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
   alt: "Plaza de la Virgen in central Valencia"
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
   alt: "The Micalet tower of Valencia Cathedral"
 - src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
   alt: "Torres de Serranos, the old city gate"
+- src: /images/actividades/valencia/centro/lonja-naranjos.webp
+  alt: "Orange tree courtyard of the Silk Exchange"
+- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
+  alt: "Exterior of Valencia's Central Market"
+- src: https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg
+  alt: "DaremApp app with the self-guided route"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

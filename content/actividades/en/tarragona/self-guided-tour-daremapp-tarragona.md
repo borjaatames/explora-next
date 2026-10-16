@@ -57,23 +57,21 @@ keywords:
 - self-guided tour tarragona
 - tarragona audio tour
 - tarragona self-guided app tour
-imagen: "https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg"
-imagenAlt: DareMapp self-guided tour of Tarragona
+imagen: "/images/actividades/tarragona/romana/anfiteatro-gradas.webp"
+imagenAlt: "Amphitheatre stands during a historical re-enactment"
 galeria:
-- src: https://imgcdn.bokun.tools/60361b90-bd42-4a6c-92ec-3d266ee7f349.jpg
-  alt: "DareMapp self-guided tour of Tarragona, photo 1 of 4"
-- src: https://imgcdn.bokun.tools/c4f4a7a7-bcb8-482b-afc1-dd629fdb20b3.jpg
-  alt: "DareMapp self-guided tour of Tarragona, photo 2 of 4"
-- src: https://imgcdn.bokun.tools/cd26f449-3b38-4129-8f44-267e1e1e53e8.jpg
-  alt: "DareMapp self-guided tour of Tarragona, photo 3 of 4"
-- src: https://imgcdn.bokun.tools/cd8b9ee4-7dcd-4b05-a9cc-5afcfdb69370.jpg
-  alt: "DareMapp self-guided tour of Tarragona, photo 4 of 4"
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
   alt: "The cathedral cloister and garden"
 - src: /images/actividades/tarragona/romana/muralla-romana.webp
   alt: "Tarragona's Roman walls"
 - src: /images/actividades/tarragona/romana/plaza-del-rei.webp
   alt: "Plaça del Rei in upper Tarragona"
+- src: /images/actividades/tarragona/romana/circo-romano.webp
+  alt: "Remains of the Roman circus of Tarraco"
+- src: /images/actividades/tarragona/catedral/catedral.webp
+  alt: "Tarragona Cathedral"
+- src: https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg
+  alt: "DaremApp app with the self-guided route"
 atraccionesRelacionadas:
   - tarraco
 publicada: true

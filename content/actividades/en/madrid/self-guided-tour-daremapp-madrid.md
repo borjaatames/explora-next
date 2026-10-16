@@ -59,17 +59,9 @@ keywords:
 - self-guided tour madrid
 - madrid audio tour
 - madrid self-guided app tour
-imagen: "https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg"
-imagenAlt: DareMapp self-guided tour of Madrid
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+imagenAlt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
 galeria:
-- src: https://imgcdn.bokun.tools/2c8244c4-2afd-43dd-8a82-d3273d97a936.jpg
-  alt: "DareMapp self-guided tour of Madrid, photo 1 of 4"
-- src: https://imgcdn.bokun.tools/6207309c-7c1e-4b6a-927c-28327d984c72.jpg
-  alt: "DareMapp self-guided tour of Madrid, photo 2 of 4"
-- src: https://imgcdn.bokun.tools/fe465ef9-00a1-40bb-b436-f2c82554182b.jpg
-  alt: "DareMapp self-guided tour of Madrid, photo 3 of 4"
-- src: https://imgcdn.bokun.tools/0194940e-e2ca-42f3-aa68-7dc0d048b832.jpg
-  alt: "DareMapp self-guided tour of Madrid, photo 4 of 4"
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
   alt: "Plaza Mayor, in the heart of the old town"
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
@@ -78,6 +70,12 @@ galeria:
   alt: "Plaza de Callao at night, a short walk from Tablao Torres Bermejas"
 - src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
   alt: "Tío Pepe neon sign at Puerta del Sol at dusk"
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: "Royal Palace of Madrid lit up at night"
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: "Plaza de Oriente and the Royal Palace"
+- src: https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg
+  alt: "DaremApp app with the self-guided route"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

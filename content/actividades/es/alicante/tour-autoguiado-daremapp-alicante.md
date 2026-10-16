@@ -59,23 +59,21 @@ keywords:
 - tour autoguiado alicante
 - audioguía app alicante
 - visita autoguiada alicante
-imagen: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
-imagenAlt: Tour autoguiado por Alicante con la app DareMapp
+imagen: "/images/actividades/alicante/centro/explanada.webp"
+imagenAlt: "Mosaico de la Explanada de España"
 galeria:
-- src: https://imgcdn.bokun.tools/13ea71f8-86c5-4dbe-b680-a8d11277d0dc.jpg
-  alt: "La Plaza de Gabriel Miró durante el recorrido autoguiado por Alicante"
-- src: https://imgcdn.bokun.tools/10655a80-037d-4ebb-bcbe-af757b4b7503.jpg
-  alt: "La Catedral de San Nicolás de Bari durante el recorrido autoguiado por Alicante"
-- src: https://imgcdn.bokun.tools/b8ccb802-24ed-4990-96af-86af22172df1.jpg
-  alt: "El Castillo de Santa Bárbara durante el recorrido autoguiado por Alicante"
-- src: https://imgcdn.bokun.tools/8f755291-00ec-4261-8d96-2ce8510756ad.jpg
-  alt: "Recorrido autoguiado por Alicante con la app DareMapp"
 - src: /images/actividades/alicante/centro/vista-puerto.webp
   alt: "Alicante y su puerto desde el castillo"
 - src: /images/actividades/alicante/costa/postiguet.webp
   alt: "Playa del Postiguet bajo el castillo"
 - src: /images/actividades/alicante/centro/explanada-palmeras.webp
   alt: "Paseo de la Explanada, junto al puerto"
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: "Calle de San Antonio en el barrio de Santa Cruz"
+- src: /images/actividades/alicante/centro/santa-cruz-vista.webp
+  alt: "Barrio de Santa Cruz en la ladera del Benacantil"
+- src: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
+  alt: "Aplicación DaremApp con el recorrido autoguiado"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

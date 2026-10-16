@@ -61,23 +61,23 @@ keywords:
 - tour autoguiado granada
 - audioguía app granada
 - visita autoguiada granada
-imagen: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
-imagenAlt: Tour autoguiado por Granada con la app DareMapp
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp"
+imagenAlt: "Patio con agua y vegetación en el Generalife de la Alhambra"
 galeria:
-- src: https://imgcdn.bokun.tools/49778177-a26c-49bb-b360-3f7c08c339a2.jpg
-  alt: "El Albaicín durante el recorrido autoguiado por Granada"
-- src: https://imgcdn.bokun.tools/baf4a141-3965-44bc-80ea-0a09b8b2fd45.jpg
-  alt: "La Catedral de Granada durante el recorrido autoguiado por Granada"
-- src: https://imgcdn.bokun.tools/798e1d1d-581d-408d-97f9-96818c654ff1.jpg
-  alt: "La Plaza Santa Ana durante el recorrido autoguiado por Granada"
-- src: https://imgcdn.bokun.tools/6ef4cfab-ff40-4dbe-ba8f-02706a622861.jpg
-  alt: "La Alhambra durante el recorrido autoguiado por Granada"
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
   alt: "El Albaicín al caer la tarde"
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
   alt: "La Alhambra desde el mirador de San Nicolás"
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
   alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: "Columnata y capiteles del Patio de los Leones de la Alhambra"
+- src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
+  alt: "Vista panorámica de Granada con la Alhambra y Sierra Nevada al fondo"
+- src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
+  alt: "El Palacio de Carlos V dentro del recinto de la Alhambra"
+- src: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
+  alt: "Aplicación DaremApp con el recorrido autoguiado"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

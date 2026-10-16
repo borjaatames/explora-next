@@ -61,23 +61,23 @@ keywords:
 - self-guided granada tour
 - granada audio guide app
 - self-guided granada walking tour
-imagen: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
-imagenAlt: Self-guided Granada tour with the DareMapp app
+imagen: "/images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp"
+imagenAlt: "Courtyard with water and plants in the Generalife"
 galeria:
-- src: https://imgcdn.bokun.tools/49778177-a26c-49bb-b360-3f7c08c339a2.jpg
-  alt: "The Albaicín on the self-guided Granada route"
-- src: https://imgcdn.bokun.tools/baf4a141-3965-44bc-80ea-0a09b8b2fd45.jpg
-  alt: "Granada Cathedral on the self-guided Granada route"
-- src: https://imgcdn.bokun.tools/798e1d1d-581d-408d-97f9-96818c654ff1.jpg
-  alt: "Plaza Santa Ana on the self-guided Granada route"
-- src: https://imgcdn.bokun.tools/6ef4cfab-ff40-4dbe-ba8f-02706a622861.jpg
-  alt: "The Alhambra on the self-guided Granada route"
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
   alt: "The Albaicín at dusk"
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
   alt: "The Alhambra from the San Nicolás viewpoint"
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
   alt: "Facade of the Royal Chapel and Cathedral of Granada"
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: "Columns and carved capitals inside the Nasrid Palaces"
+- src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
+  alt: "Granada's historic streets with traditional white buildings and narrow passageways"
+- src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
+  alt: "Panoramic view of the Alhambra of Granada on the Sabika hill"
+- src: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
+  alt: "DaremApp app with the self-guided route"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

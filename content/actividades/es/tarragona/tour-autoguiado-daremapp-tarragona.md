@@ -57,23 +57,21 @@ keywords:
 - tour autoguiado tarragona
 - audioguía tarragona
 - visita autoguiada tarragona app
-imagen: "https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg"
-imagenAlt: Tour autoguiado DareMapp por Tarragona
+imagen: "/images/actividades/tarragona/romana/anfiteatro-gradas.webp"
+imagenAlt: "Gradas del anfiteatro durante una recreación histórica"
 galeria:
-- src: https://imgcdn.bokun.tools/60361b90-bd42-4a6c-92ec-3d266ee7f349.jpg
-  alt: "Tour autoguiado DareMapp por Tarragona, foto 1 de 4"
-- src: https://imgcdn.bokun.tools/c4f4a7a7-bcb8-482b-afc1-dd629fdb20b3.jpg
-  alt: "Tour autoguiado DareMapp por Tarragona, foto 2 de 4"
-- src: https://imgcdn.bokun.tools/cd26f449-3b38-4129-8f44-267e1e1e53e8.jpg
-  alt: "Tour autoguiado DareMapp por Tarragona, foto 3 de 4"
-- src: https://imgcdn.bokun.tools/cd8b9ee4-7dcd-4b05-a9cc-5afcfdb69370.jpg
-  alt: "Tour autoguiado DareMapp por Tarragona, foto 4 de 4"
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
   alt: "Claustro y jardín de la catedral"
 - src: /images/actividades/tarragona/romana/muralla-romana.webp
   alt: "Muralla romana de Tarragona"
 - src: /images/actividades/tarragona/romana/plaza-del-rei.webp
   alt: "Plaza del Rei, en la parte alta de Tarragona"
+- src: /images/actividades/tarragona/romana/circo-romano.webp
+  alt: "Restos del circo romano de Tarraco"
+- src: /images/actividades/tarragona/catedral/catedral.webp
+  alt: "Catedral de Tarragona"
+- src: https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg
+  alt: "Aplicación DaremApp con el recorrido autoguiado"
 atraccionesRelacionadas:
   - tarraco
 publicada: true

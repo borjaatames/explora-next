@@ -59,23 +59,21 @@ keywords:
 - tour autoguiado córdoba
 - audioguía app córdoba
 - visita autoguiada córdoba
-imagen: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
-imagenAlt: Tour autoguiado por Córdoba con la app DareMapp
+imagen: "/images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp"
+imagenAlt: "La Mezquita-Catedral junto al Guadalquivir"
 galeria:
-- src: https://imgcdn.bokun.tools/61a42a1d-00c2-41a5-bf31-48655ee118c8.jpg
-  alt: "La Mezquita-Catedral durante el recorrido autoguiado por Córdoba"
-- src: https://imgcdn.bokun.tools/8642abdc-b6fc-49bb-9bae-56a4f3a1c5f0.jpg
-  alt: "El Palacio de Viana durante el recorrido autoguiado por Córdoba"
-- src: https://imgcdn.bokun.tools/3cfafc16-2bd3-41b5-9a2d-b503290e5dab.jpg
-  alt: "La Plaza de las Tendillas durante el recorrido autoguiado por Córdoba"
-- src: https://imgcdn.bokun.tools/134753c5-3aab-4ba0-812c-901d18ec2b17.jpg
-  alt: "El Puente Romano durante el recorrido autoguiado por Córdoba"
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: "Torre de la Mezquita-Catedral, frente al tablao"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
   alt: "Judería de Córdoba, a pocos pasos del tablao"
 - src: /images/actividades/cordoba/patios/patio-viana.webp
   alt: "Patio con fuente en el Palacio de Viana"
+- src: /images/actividades/cordoba/mezquita/arcos-interior.webp
+  alt: "Interior de la Mezquita con arcos de herradura"
+- src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
+  alt: "Mosaicos dorados del mihrab"
+- src: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
+  alt: "Aplicación DaremApp con el recorrido autoguiado"
 atraccionesRelacionadas:
   - juderia
 publicada: true

@@ -61,23 +61,21 @@ keywords:
 - tour autoguiado bilbao
 - audioguía app bilbao
 - visita autoguiada bilbao
-imagen: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
-imagenAlt: Tour autoguiado por Bilbao con la app DareMapp
+imagen: "/images/actividades/bilbao/guggenheim/maman-puente.webp"
+imagenAlt: "El Guggenheim con el arco rojo del puente de La Salve"
 galeria:
-- src: https://imgcdn.bokun.tools/25dbdd4f-a9bb-499f-a6b7-47fbbbe6a63a.jpg
-  alt: "El Museo Guggenheim durante el recorrido autoguiado por Bilbao"
-- src: https://imgcdn.bokun.tools/8895c2a4-97ef-43c4-84ee-871908848302.jpg
-  alt: "El Teatro Arriaga durante el recorrido autoguiado por Bilbao"
-- src: https://imgcdn.bokun.tools/3a6cdda4-f4e9-4204-9b80-fa18369db750.jpg
-  alt: "El Palacio de Arana durante el recorrido autoguiado por Bilbao"
-- src: https://imgcdn.bokun.tools/70277cfd-85d1-4182-ac7a-14d3bc7e8108.jpg
-  alt: "La Catedral de Santiago durante el recorrido autoguiado por Bilbao"
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
   alt: "Bilbao desde el monte Artxanda"
 - src: /images/actividades/bilbao/guggenheim/maman.webp
   alt: "Mamá, la araña gigante de Louise Bourgeois"
 - src: /images/actividades/bilbao/ria/zubizuri.webp
   alt: "Puente Zubizuri sobre la ría"
+- src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
+  alt: "Detalle de las flores del Puppy de Jeff Koons"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
+  alt: "El Guggenheim iluminado de noche"
+- src: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
+  alt: "Aplicación DaremApp con el recorrido autoguiado"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

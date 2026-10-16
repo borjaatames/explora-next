@@ -59,17 +59,9 @@ keywords:
 - self-guided tour malaga
 - malaga audio tour
 - malaga self-guided app tour
-imagen: "https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg"
-imagenAlt: DareMapp self-guided tour of Malaga
+imagen: "/images/actividades/malaga/alcazaba/panoramica-malaga.webp"
+imagenAlt: "Panorama of Málaga from the Alcazaba"
 galeria:
-- src: https://imgcdn.bokun.tools/adbbdf61-4446-4454-94c7-8197ed4f0e55.jpg
-  alt: "DareMapp self-guided tour of Malaga, photo 1 of 4"
-- src: https://imgcdn.bokun.tools/cb19c081-a2d0-48be-8a82-b8437895992c.jpg
-  alt: "DareMapp self-guided tour of Malaga, photo 2 of 4"
-- src: https://imgcdn.bokun.tools/8c745d34-fd4a-40b4-b03c-a1a826f390c2.jpg
-  alt: "DareMapp self-guided tour of Malaga, photo 3 of 4"
-- src: https://imgcdn.bokun.tools/c413cfd2-3edd-43b1-b732-671a87b9d55e.jpg
-  alt: "DareMapp self-guided tour of Malaga, photo 4 of 4"
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
   alt: "Walls of the Alcazaba of Málaga"
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
@@ -78,6 +70,12 @@ galeria:
   alt: "Baroque façade of Málaga Cathedral"
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
   alt: "Paseo de la Farola and Málaga port from Muelle Uno"
+- src: /images/actividades/malaga/alcazaba/jardin-patio.webp
+  alt: "Garden courtyard inside the Alcazaba"
+- src: /images/actividades/malaga/catedral-malaga/coro.webp
+  alt: "Carved wooden choir of Málaga Cathedral"
+- src: https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg
+  alt: "DaremApp app with the self-guided route"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

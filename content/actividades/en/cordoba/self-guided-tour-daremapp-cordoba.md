@@ -59,23 +59,21 @@ keywords:
 - self-guided córdoba tour
 - córdoba audio guide app
 - self-guided córdoba walking tour
-imagen: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
-imagenAlt: Self-guided Córdoba tour with the DareMapp app
+imagen: "/images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp"
+imagenAlt: "The Mosque-Cathedral by the Guadalquivir"
 galeria:
-- src: https://imgcdn.bokun.tools/61a42a1d-00c2-41a5-bf31-48655ee118c8.jpg
-  alt: "The Mosque-Cathedral on the self-guided Córdoba route"
-- src: https://imgcdn.bokun.tools/8642abdc-b6fc-49bb-9bae-56a4f3a1c5f0.jpg
-  alt: "The Palacio de Viana on the self-guided Córdoba route"
-- src: https://imgcdn.bokun.tools/3cfafc16-2bd3-41b5-9a2d-b503290e5dab.jpg
-  alt: "Plaza de las Tendillas on the self-guided Córdoba route"
-- src: https://imgcdn.bokun.tools/134753c5-3aab-4ba0-812c-901d18ec2b17.jpg
-  alt: "The Roman Bridge on the self-guided Córdoba route"
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: "Mosque-Cathedral tower, opposite the tablao"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
   alt: "Córdoba Jewish Quarter, a few steps from the tablao"
 - src: /images/actividades/cordoba/patios/patio-viana.webp
   alt: "Courtyard with fountain at the Palacio de Viana"
+- src: /images/actividades/cordoba/mezquita/arcos-interior.webp
+  alt: "Mosque interior with horseshoe arches"
+- src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
+  alt: "Golden mosaics of the mihrab"
+- src: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
+  alt: "DaremApp app with the self-guided route"
 atraccionesRelacionadas:
   - juderia
 publicada: true

@@ -61,23 +61,21 @@ keywords:
 - self-guided bilbao tour
 - bilbao audio guide app
 - self-guided bilbao walking tour
-imagen: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
-imagenAlt: Self-guided Bilbao tour with the DareMapp app
+imagen: "/images/actividades/bilbao/guggenheim/maman-puente.webp"
+imagenAlt: "The Guggenheim with the red arch of La Salve bridge"
 galeria:
-- src: https://imgcdn.bokun.tools/25dbdd4f-a9bb-499f-a6b7-47fbbbe6a63a.jpg
-  alt: "The Guggenheim Museum on the self-guided Bilbao route"
-- src: https://imgcdn.bokun.tools/8895c2a4-97ef-43c4-84ee-871908848302.jpg
-  alt: "The Arriaga Theatre on the self-guided Bilbao route"
-- src: https://imgcdn.bokun.tools/3a6cdda4-f4e9-4204-9b80-fa18369db750.jpg
-  alt: "The Palacio de Arana on the self-guided Bilbao route"
-- src: https://imgcdn.bokun.tools/70277cfd-85d1-4182-ac7a-14d3bc7e8108.jpg
-  alt: "Santiago Cathedral on the self-guided Bilbao route"
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
   alt: "Bilbao from Mount Artxanda"
 - src: /images/actividades/bilbao/guggenheim/maman.webp
   alt: "Maman, Louise Bourgeois's spider by the museum"
 - src: /images/actividades/bilbao/ria/zubizuri.webp
   alt: "Zubizuri bridge over the estuary"
+- src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
+  alt: "Close-up of the flowers on Jeff Koons's Puppy"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
+  alt: "Guggenheim Bilbao lit up at night"
+- src: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
+  alt: "DaremApp app with the self-guided route"
 publicada: true
 destacada: false
 fecha: '2026-09-05'
