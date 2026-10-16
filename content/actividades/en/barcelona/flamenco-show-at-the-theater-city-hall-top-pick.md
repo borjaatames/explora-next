@@ -164,20 +164,27 @@ keywords:
 - cheap flamenco show barcelona
 - flamenco plaza catalunya show
 - flamenco theater barcelona
-imagen: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp"
-imagenAlt: Flamenco dancer in polka dot red and black dress with expressive arm movements performing passionately on stage
-  in Barcelona.
+imagen: "/images/actividades/barcelona/city-hall/city-hall-elenco-escenario.webp"
+imagenAlt: "Singers, dancers and guitarist on stage at the City Hall Theatre"
 galeria:
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp
-  alt: "Flamenco dancers with red fans on stage"
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-guitarrista-flam-hero.webp
-  alt: "Flamenco guitarist playing live"
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
-  alt: "Plaça de Catalunya, next to Teatre City Hall"
-- src: /images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp
-  alt: "Flamenco dancer in a blue dress"
-- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
-  alt: "Dancer with shawl and live guitarist"
+- src: /images/actividades/barcelona/city-hall/city-hall-bailaora-bata-de-cola.webp
+  alt: "Flamenco dancer with bata de cola and shawl mid-spin"
+- src: /images/actividades/barcelona/city-hall/city-hall-sala-teatro.webp
+  alt: "City Hall Theatre auditorium with velvet curtain and seats"
+- src: /images/actividades/barcelona/city-hall/city-hall-bailaora-luz-azul.webp
+  alt: "Dancer in a bata de cola under blue light, with singing and clapping"
+- src: /images/actividades/barcelona/city-hall/city-hall-saludo-final.webp
+  alt: "The whole cast taking a bow at the end of the show"
+- src: /images/actividades/barcelona/city-hall/city-hall-cuadro-flamenco.webp
+  alt: "Flamenco ensemble with guitar and polka-dot dresses"
+- src: /images/actividades/barcelona/city-hall/city-hall-bailaor.webp
+  alt: "Male dancer in a white suit performing footwork on stage"
+- src: /images/actividades/barcelona/city-hall/city-hall-artistas.webp
+  alt: "Show artists posing with the guitar"
+- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-vista-aerea.webp
+  alt: "Aerial view of Plaça de Catalunya, next to the theatre"
+- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
+  alt: "Plaça de Catalunya from above, a short walk from City Hall"
 ratingProveedor: 4.5
 numeroOpiniones: 11305
 publicada: true

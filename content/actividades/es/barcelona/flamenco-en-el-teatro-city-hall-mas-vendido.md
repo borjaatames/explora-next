@@ -167,19 +167,27 @@ keywords:
 - espectáculo flamenco barato barcelona
 - show flamenco plaza catalunya
 - flamenco teatro barcelona
-imagen: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp"
-imagenAlt: Bailaora de flamenco en traje rojo y negro con volantes, brazos en movimiento expresivo durante actuación en Barcelona
+imagen: "/images/actividades/barcelona/city-hall/city-hall-elenco-escenario.webp"
+imagenAlt: "Elenco de cante, baile y guitarra sobre el escenario del Teatro City Hall"
 galeria:
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp
-  alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-guitarrista-flam-hero.webp
-  alt: "Guitarrista flamenco tocando en directo"
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
-  alt: "Plaza de Cataluña, junto al Teatre City Hall"
-- src: /images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp
-  alt: "Bailaora de flamenco con vestido azul"
-- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
-  alt: "Bailaora con mantón y guitarrista en directo"
+- src: /images/actividades/barcelona/city-hall/city-hall-bailaora-bata-de-cola.webp
+  alt: "Bailaora con bata de cola y mantón en pleno giro"
+- src: /images/actividades/barcelona/city-hall/city-hall-sala-teatro.webp
+  alt: "Sala del Teatro City Hall con el telón de terciopelo y las butacas"
+- src: /images/actividades/barcelona/city-hall/city-hall-bailaora-luz-azul.webp
+  alt: "Bailaora con bata de cola bajo luz azul, con cante y palmas"
+- src: /images/actividades/barcelona/city-hall/city-hall-saludo-final.webp
+  alt: "Saludo final de todo el elenco al público"
+- src: /images/actividades/barcelona/city-hall/city-hall-cuadro-flamenco.webp
+  alt: "Cuadro flamenco con guitarra y bailaoras de lunares"
+- src: /images/actividades/barcelona/city-hall/city-hall-bailaor.webp
+  alt: "Bailaor de traje blanco zapateando en el escenario"
+- src: /images/actividades/barcelona/city-hall/city-hall-artistas.webp
+  alt: "Artistas del espectáculo posando con la guitarra"
+- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-vista-aerea.webp
+  alt: "Vista aérea de la Plaça de Catalunya, junto al teatro"
+- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
+  alt: "Plaça de Catalunya vista desde arriba, a pocos pasos del City Hall"
 ratingProveedor: 4.5
 numeroOpiniones: 11305
 publicada: true
