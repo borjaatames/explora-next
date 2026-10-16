@@ -89,10 +89,20 @@ categoria: "toursGastronomicos"
 keywords: ["tour tapas granada", "tapas vino granada", "tour gourmet granada", "autoguiado tapas granada", "ruta tapas granada"]
 
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-imagenAlt: "Tapa tradicional granadina con copa de vino en bar del centro"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-05.webp"
+imagenAlt: "Vino tinto con tapas de queso y patatas en Granada"
 
 galeria:
+  - src: "/images/actividades/granada/wikimedia/granada-bib-rambla-04.webp"
+    alt: "Plaza Bib-Rambla con la catedral de Granada al fondo"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas en el bar La Fontana de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, la calle de bares de tapas del centro de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+    alt: "Caña con tapa de pulpo seco motrileño, típica de la provincia de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-plaza-nueva-05.webp"
+    alt: "Fuente y terrazas de Plaza Nueva, Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 

@@ -88,12 +88,20 @@ keywords: ["tapas tour granada noche", "vinos premium granada", "food tour noctu
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp"
-imagenAlt: "Calle del Albayzín de Granada al anochecer con bares iluminados"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-02.webp"
+imagenAlt: "Cerveza y tapa en la barra de un bar granadino"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Calle del Albayzín de Granada al anochecer con bares iluminados"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-05.webp"
+    alt: "Acera del Darro de noche, Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas en el bar La Fontana de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"
+    alt: "Calle del centro de Granada de noche"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, la calle de bares de tapas del centro de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-02.webp"
+    alt: "Tetería Al Jaima iluminada por la noche en Granada"
 ratingProveedor: 5.0
 numeroOpiniones: 85
 

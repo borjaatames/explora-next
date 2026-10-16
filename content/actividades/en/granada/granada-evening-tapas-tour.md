@@ -88,12 +88,20 @@ keywords: ["granada evening tapas tour", "granada premium wines", "granada night
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp"
-imagenAlt: "Albayzín street in Granada at dusk with illuminated bars"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-02.webp"
+imagenAlt: "Beer and tapa at the counter of a Granada-province bar"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Albayzín street in Granada at dusk with illuminated bars"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-05.webp"
+    alt: "Acera del Darro at night, Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas at La Fontana bar in Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"
+    alt: "A central Granada street at night"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, the tapas-bar street in central Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-02.webp"
+    alt: "Al Jaima tea house lit up at night in Granada"
 ratingProveedor: 5.0
 numeroOpiniones: 85
 

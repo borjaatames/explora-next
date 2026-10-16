@@ -87,12 +87,22 @@ keywords: ["tapas tour granada", "albaicin tapas", "free tapas granada", "cheap 
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
-imagenAlt: "Bar counter at a traditional tapas bar in Granada's Albayzín"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+imagenAlt: "A small beer with a free tapa of dried Motril octopus, typical of Granada province"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Bar counter at a traditional tapas bar in Granada's Albayzín"
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-01.webp"
+    alt: "Mirador de San Nicolás in the Albaicín"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas at La Fontana bar in Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-albaicin-calle-01.webp"
+    alt: "Whitewashed street in the Albaicín"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, the tapas-bar street in central Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-albaicin-calle-05.webp"
+    alt: "Wall and alley in the Albaicín, Placeta Capellanes"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-02.webp"
+    alt: "Al Jaima tea house lit up at night in Granada"
 ratingProveedor: 4.9
 numeroOpiniones: 101
 

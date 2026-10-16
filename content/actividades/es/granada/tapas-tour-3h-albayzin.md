@@ -87,12 +87,22 @@ keywords: ["tapas tour granada", "tapas albaicin", "tapas gratis granada", "tour
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
-imagenAlt: "Barra de un bar de tapas tradicional en el Albayzín de Granada"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+imagenAlt: "Caña con tapa de pulpo seco motrileño, típica de la provincia de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Barra de un bar de tapas tradicional en el Albayzín de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-01.webp"
+    alt: "Mirador de San Nicolás en el Albaicín"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas en el bar La Fontana de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-albaicin-calle-01.webp"
+    alt: "Calle encalada del Albaicín"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, la calle de bares de tapas del centro de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-albaicin-calle-05.webp"
+    alt: "Muralla y callejón del Albaicín, Placeta Capellanes"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-02.webp"
+    alt: "Tetería Al Jaima iluminada por la noche en Granada"
 ratingProveedor: 4.9
 numeroOpiniones: 101
 

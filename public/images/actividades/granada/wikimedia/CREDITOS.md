@@ -23,3 +23,21 @@
 | granada-banuelo-02.webp | File:Aa el banuelo arab baths arcade albaicin granada (2).jpg | CC BY-SA 4.0 | Øyvind Holmstad |
 | granada-banuelo-05.webp | File:El Bañuelo - Granada (3).JPG | CC BY-SA 3.0 | José Luiz |
 | granada-banuelo-07.webp | File:Granada, El Bañuelo (3).jpg | CC BY-SA 4.0 | Palickap |
+
+## Añadidas 16 oct 2026 (tours de tapas)
+
+| granada-tapas-plato-01.webp | File:Cerveza y pulpo seco motrileño.jpg | CC BY-SA 2.0 | Arkangel from Granada, España |
+| granada-tapas-plato-02.webp | File:Cerveza y tapa - Guadix.jpg | CC BY-SA 2.0 | Lee Kyung-joon |
+| granada-tapas-plato-03.webp | File:Granada, La Fontana, tapas.jpg | CC BY-SA 4.0 | Palickap |
+| granada-tapas-plato-05.webp | File:Tapas al Sur de Granada 2.jpg | CC BY-SA 2.0 | https://www.flickr.com/photos/andynash/ |
+| granada-calle-navas-02.webp | File:Calle Navas - Grenade (ES61) - 2023-04-27 - 2.jpg | CC BY-SA 4.0 | Chabe01 |
+| granada-bib-rambla-04.webp | File:Fuente Plaza Bib-Rambla y catedral de Granada de fondo.jpg | CC BY-SA 4.0 | Nacho Corral Crespo |
+| granada-plaza-nueva-01.webp | File:Aa plaza nueva in granada.jpg | CC BY-SA 4.0 | Øyvind Holmstad |
+| granada-plaza-nueva-05.webp | File:Fuente de Plaza Nueva, Granada 001.jpg | CC BY-SA 4.0 | Américo Toledano |
+| granada-san-nicolas-01.webp | File:AA SPECTATORS AT PLAZA MIRADOR IN GRANADA 2016.jpg | CC BY-SA 4.0 | Øyvind Holmstad |
+| granada-san-nicolas-06.webp | File:Church Mirador San Nicolas Albayzin Granada Spain.jpg | CC0 | Jebulon |
+| granada-albaicin-calle-01.webp | File:Albaicín, Granada (5094478252).jpg | CC BY-SA 2.0 | Randi Hausken from Bærum, Norway |
+| granada-albaicin-calle-05.webp | File:Granada-Albaicín-Muralla (Placeta Capellanes)-20110920.jpg | CC BY-SA 3.0 | Daniel Villafruela. |
+| granada-noche-02.webp | File:Granada, Tetería Al Jaima.jpg | CC BY-SA 4.0 | Palickap |
+| granada-noche-04.webp | File:Granada (25477446173).jpg | CC BY-SA 2.0 | Brett Hodnett |
+| granada-noche-05.webp | File:Granada Acera del Darro (12172719755).jpg | CC BY 2.0 | Jorge Franganillo |

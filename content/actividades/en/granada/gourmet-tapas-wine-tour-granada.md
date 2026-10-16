@@ -89,10 +89,20 @@ categoria: "toursGastronomicos"
 keywords: ["granada tapas tour", "granada tapas wine", "granada gourmet tour", "granada self-guided tapas", "granada tapas route"]
 
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-imagenAlt: "Traditional Granada tapa with a glass of wine at a central bar"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-05.webp"
+imagenAlt: "Red wine with cheese and potato tapas in Granada"
 
 galeria:
+  - src: "/images/actividades/granada/wikimedia/granada-bib-rambla-04.webp"
+    alt: "Plaza Bib-Rambla with Granada Cathedral behind"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas at La Fontana bar in Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, the tapas-bar street in central Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+    alt: "A small beer with a free tapa of dried Motril octopus, typical of Granada province"
+  - src: "/images/actividades/granada/wikimedia/granada-plaza-nueva-05.webp"
+    alt: "Fountain and terraces on Plaza Nueva, Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 

@@ -86,12 +86,20 @@ keywords: ["food tour granada", "tapas tour granada", "small group food granada"
 
 atraccionesRelacionadas: []
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
-imagenAlt: "Tapas tradicionales y vino tinto en un bar de tapas de Granada"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+imagenAlt: "Tapas en el bar La Fontana de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Tapas tradicionales y vino tinto en un bar de tapas de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, la calle de bares de tapas del centro de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+    alt: "Caña con tapa de pulpo seco motrileño, típica de la provincia de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-bib-rambla-04.webp"
+    alt: "Plaza Bib-Rambla con la catedral de Granada al fondo"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-05.webp"
+    alt: "Vino tinto con tapas de queso y patatas en Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-plaza-nueva-05.webp"
+    alt: "Fuente y terrazas de Plaza Nueva, Granada"
 ratingProveedor: 4.9
 numeroOpiniones: 865
 

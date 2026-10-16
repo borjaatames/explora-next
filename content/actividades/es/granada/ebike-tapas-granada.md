@@ -90,12 +90,22 @@ keywords: ["ebike tapas granada", "bicicleta electrica tapas", "tour bici granad
 atraccionesRelacionadas:
   - "albaicin-sacromonte"
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-6827822494-hero.webp"
-imagenAlt: "Tour en bicicleta eléctrica por el Albaicín de Granada con parada de tapas"
+imagen: "/images/actividades/granada/wikimedia/granada-plaza-nueva-01.webp"
+imagenAlt: "Plaza Nueva de Granada con una bicicleta aparcada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Tour en bicicleta eléctrica por el Albaicín de Granada con parada de tapas"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+    alt: "Caña con tapa de pulpo seco motrileño, típica de la provincia de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-01.webp"
+    alt: "Mirador de San Nicolás en el Albaicín"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"
+    alt: "Tapas en el bar La Fontana de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-albaicin-calle-01.webp"
+    alt: "Calle encalada del Albaicín"
+  - src: "/images/actividades/granada/wikimedia/granada-calle-navas-02.webp"
+    alt: "Calle Navas, la calle de bares de tapas del centro de Granada"
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+    alt: "Vista del Albaicín y la iglesia de San Nicolás"
 ratingProveedor: 4.9
 numeroOpiniones: 116
 
