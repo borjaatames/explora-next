@@ -274,7 +274,7 @@ export default function Footer({ idioma }: Props) {
           <p className="text-center text-xs text-slate-400 mb-3">
             {t.pagoDirecto}
           </p>
-          <div className="w-full md:w-3/4 mx-auto mb-10 flex flex-wrap items-center justify-between gap-3">
+          <div className="mb-10 flex flex-wrap items-center justify-center gap-3">
             <TilePago src="/payment/visa.svg" alt="Visa" />
             <TilePago src="/payment/mastercard.svg" alt="Mastercard" />
             <TilePago src="/payment/amex.svg" alt="American Express" />
