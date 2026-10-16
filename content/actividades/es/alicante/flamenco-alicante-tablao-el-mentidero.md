@@ -68,19 +68,31 @@ keywords:
 - tablao flamenco alicante
 - espectaculo flamenco alicante
 - el mentidero alicante
-imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-imagenAlt: Pareja de bailaoras en un espectáculo flamenco
+imagen: "/images/actividades/alicante/el-mentidero/el-mentidero-bailaora-lunares-rojos.webp"
+imagenAlt: "Bailaora con vestido rojo de lunares en el Tablao El Mentidero"
 galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-  alt: "Bailaor en pleno zapateado"
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora flamenca"
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Baile flamenco sobre el escenario"
-- src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-  alt: "Cuadro flamenco en escena"
-- src: /images/actividades/alicante/flamenco/trajes-flamenca.webp
-  alt: "Trajes de flamenca"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-escenario-publico.webp
+  alt: "Cuadro flamenco en el escenario de El Mentidero con el público"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-sala-espectaculo.webp
+  alt: "Sala del tablao durante el espectáculo"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-escenario-sillas.webp
+  alt: "Escenario de El Mentidero con las sillas antes del espectáculo"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaor-cuadro.webp
+  alt: "Bailaor con guitarrista y palmeros en El Mentidero"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaora-guitarra.webp
+  alt: "Bailaora de lunares junto al guitarrista"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaora-vestido-rojo.webp
+  alt: "Bailaora de rojo con los palmeros al fondo"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaor-chaqueta-roja.webp
+  alt: "Bailaor con chaqueta roja en pleno giro"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaora-manton.webp
+  alt: "Bailaora con mantón flecado"
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: "Puerto de Alicante, donde está el tablao"
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: "Paseo de la Explanada, junto al puerto"
+- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
+  alt: "Castillo de Santa Bárbara sobre el puerto de Alicante"
 ratingProveedor: 4.8
 numeroOpiniones: 1744
 atraccionesRelacionadas:

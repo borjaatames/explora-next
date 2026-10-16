@@ -68,19 +68,31 @@ keywords:
 - alicante flamenco tablao
 - alicante flamenco show
 - el mentidero alicante
-imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-imagenAlt: Two flamenco dancers on stage
+imagen: "/images/actividades/alicante/el-mentidero/el-mentidero-bailaora-lunares-rojos.webp"
+imagenAlt: "Dancer in a red polka-dot dress at Tablao El Mentidero"
 galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-  alt: "A male dancer mid-footwork"
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "A flamenco singer"
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Flamenco dancing on stage"
-- src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-  alt: "A flamenco troupe on stage"
-- src: /images/actividades/alicante/flamenco/trajes-flamenca.webp
-  alt: "Flamenco dresses"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-escenario-publico.webp
+  alt: "Flamenco troupe on the El Mentidero stage with the audience"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-sala-espectaculo.webp
+  alt: "The tablao room during the show"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-escenario-sillas.webp
+  alt: "El Mentidero stage with chairs before the show"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaor-cuadro.webp
+  alt: "Male dancer with guitarist and clappers at El Mentidero"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaora-guitarra.webp
+  alt: "Polka-dot dancer next to the guitarist"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaora-vestido-rojo.webp
+  alt: "Dancer in red with the clappers behind"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaor-chaqueta-roja.webp
+  alt: "Male dancer in a red jacket mid-turn"
+- src: /images/actividades/alicante/el-mentidero/el-mentidero-bailaora-manton.webp
+  alt: "Dancer with a fringed shawl"
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: "Port of Alicante, where the tablao is"
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: "Explanada promenade, next to the port"
+- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
+  alt: "Santa Bárbara Castle above the port of Alicante"
 ratingProveedor: 4.8
 numeroOpiniones: 1744
 atraccionesRelacionadas:
