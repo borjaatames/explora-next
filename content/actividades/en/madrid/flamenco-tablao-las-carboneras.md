@@ -113,26 +113,26 @@ keywords:
 imagen: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaoras-rojo.webp"
 imagenAlt: "Dancers in red dresses during the show at Tablao Las Carboneras"
 galeria:
-- src: "/images/actividades/madrid/tablao-las-carboneras/casa-palacio-conde-miranda-puerta.webp"
-  alt: "Entrance at No. 1 Plaza del Conde de Miranda, where the tablao is"
-- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-cuadro-flamenco.webp"
+- src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-cuadro-flamenco.webp
   alt: "Full flamenco ensemble on stage at Las Carboneras"
-- src: "/images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-edificios.webp"
-  alt: "Plaza del Conde de Miranda, in Habsburg Madrid"
-- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaora-cuadro.webp"
+- src: /images/actividades/madrid/tablao-las-carboneras-oficial/tablao-las-carboneras-oficial-cuadro-completo.webp
+  alt: "The full troupe on the Las Carboneras stage"
+- src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaora-cuadro.webp
   alt: "Dancer in a red dress with singers and guitarists"
-- src: "/images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-azulejo.webp"
-  alt: "Tile street sign of Plaza del Conde de Miranda"
-- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-sala-escenario.webp"
-  alt: "Dining room and stage at Tablao Las Carboneras"
-- src: "/images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp"
-  alt: "Doorway of the Las Carboneras convent, which gives the tablao its name"
-- src: "/images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp"
+- src: /images/actividades/madrid/tablao-las-carboneras-oficial/tablao-las-carboneras-oficial-bailaora-naranja.webp
+  alt: "Dancer in orange with singers and guitarist at Las Carboneras"
+- src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
   alt: "Male flamenco dancer performing at Las Carboneras"
-- src: "/images/actividades/madrid/tablao-las-carboneras/convento-carboneras-torno.webp"
-  alt: "The convent turnstile where the nuns sell their sweets"
-- src: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-comedor.webp"
+- src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-sala-escenario.webp
+  alt: "Dining room and stage at Tablao Las Carboneras"
+- src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-comedor.webp
   alt: "The tablao dining room before the show"
+- src: /images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-edificios.webp
+  alt: "Plaza del Conde de Miranda, in Habsburg Madrid"
+- src: /images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-azulejo.webp
+  alt: "Tile street sign of Plaza del Conde de Miranda"
+- src: /images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp
+  alt: "Doorway of the Las Carboneras convent, which gives the tablao its name"
 ratingProveedor: 4.7
 numeroOpiniones: 758
 publicada: true

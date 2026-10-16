@@ -172,19 +172,27 @@ keywords:
 - historic tablao seville
 - flamenco dinner seville
 - tablao 50 years seville
-imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-bailaora-tablao-fl-hero.webp"
-imagenAlt: Flamenco dancer in traditional dress performing passionately on tablao stage in Seville
+imagen: "/images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-bailaor-escenario.webp"
+imagenAlt: "Male dancer on the Tablao El Arenal stage"
 galeria:
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-interior-tablao-at-hero.webp
-  alt: "Intimate flamenco tablao dining room in Seville with warm lighting, diners at tables enjoying the live performance"
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
-  alt: "Restored 17th-century building facade in Seville's El Arenal neighborhood near Plaza de Toros de la Maestranza"
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp
-  alt: "Spanish tapas and drinks on a dinner table at a Seville flamenco tablao restaurant"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-escenario-cuadro.webp
+  alt: "The Tablao El Arenal stage and troupe"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-bailaor-blanco-negro.webp
+  alt: "Male dancer at Tablao El Arenal, black and white"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-cuadro-historico.webp
+  alt: "Flamenco troupe at El Arenal, historic photo"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-sala-velas.webp
+  alt: "The tablao hall with tables and candles"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-mesas-copas.webp
+  alt: "Tables set with glasses for dinner"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-plato-cena.webp
+  alt: "A dish from the Tablao El Arenal dinner"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-verduras-cena.webp
+  alt: "Roasted vegetables from the tablao menu"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: "Exterior façade of Plaza de Toros de la Maestranza, historic bullring in Seville"
-- src: /images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp
-  alt: "Show at Tablao Flamenco El Arenal"
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: "The Torre del Oro and the Guadalquivir, a short walk from the tablao"
 ratingProveedor: 4.9
 numeroOpiniones: 22
 publicada: true

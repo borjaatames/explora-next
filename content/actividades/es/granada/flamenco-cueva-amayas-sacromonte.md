@@ -91,20 +91,30 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco sacromonte", "cueva flamenca granada", "zambra gitana granada", "espectaculo flamenco cueva"]
 
 
-imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-artistas-actuacion.avif"
-imagenAlt: "Fachada azul y blanca de una cueva-tablao flamenco del Sacromonte de Granada"
+imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaora-centro-cueva.webp"
+imagenAlt: "Bailaora en el centro de la Cueva Los Amayas, con el público a los lados"
 
 galeria:
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaora-lunares-cueva.webp
+  alt: "Bailaora de lunares bajo la bóveda encalada de la cueva"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-cante-baile-cueva.webp
+  alt: "Cante y baile en la Cueva Los Amayas"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaor-zambra.webp
+  alt: "Bailaor en plena zambra en la cueva"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaora-volantes.webp
+  alt: "Bailaora con volantes entre el público de la cueva"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-guitarra-bailaora.webp
+  alt: "Guitarrista y bailaora en la Cueva Los Amayas"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-interior-cueva.webp
+  alt: "Interior de la Cueva Los Amayas con sus cobres y sillas"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-entrada-cueva.webp
+  alt: "Entrada de la Cueva Los Amayas en el Sacromonte"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-vistas-alhambra.webp
+  alt: "La Alhambra vista desde el Sacromonte, junto a la cueva"
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: "Casas cueva en la ladera del Sacromonte, Granada"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Ladera del Sacromonte con sus casas cueva"
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: "Casas cueva encaladas del Sacromonte"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "El Albaicín al caer la tarde"
-- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
-  alt: "La Alhambra iluminada por el sol de la tarde"
 ratingProveedor: 4.7
 numeroOpiniones: 1107
 

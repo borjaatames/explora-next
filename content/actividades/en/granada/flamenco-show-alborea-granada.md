@@ -90,18 +90,26 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "la alborea granada", "central flamenco tablao granada", "flamenco granada with wine", "central granada flamenco"]
 
 
-imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-granada.jpg"
-imagenAlt: "Stage of Tablao Flamenco La Alboreá in central Granada"
+imagen: "/images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-escenario.webp"
+imagenAlt: "Dancer on the La Alboreá stage"
 
 galeria:
-  - src: "/images/actividades/granada/la-alborea/la-alborea-cuadro-flamenco.webp"
-    alt: "Full flamenco troupe on the La Alboreá stage"
-  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
-    alt: "Puerta del Perdón of the Cathedral, a few minutes from the tablao"
-  - src: "/images/actividades/granada/la-alborea/la-alborea-bailaora-bata-de-cola.webp"
-    alt: "Dancer with a train dress and shawl at La Alboreá"
-  - src: "/images/actividades/granada/la-alborea/la-alborea-cante-guitarra.webp"
-    alt: "Singer, handclaps and guitar at La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-cuadro-flamenco.webp
+  alt: "The La Alboreá flamenco troupe"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-sala-publico.webp
+  alt: "The La Alboreá hall with the audience"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-guitarra.webp
+  alt: "Dancer and guitarist at La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-pareja-baile.webp
+  alt: "Dancing couple at La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-pareja-escenario.webp
+  alt: "Female and male dancer on the La Alboreá stage"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-bata-cola.webp
+  alt: "Dancer in a flounced dress at La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-rojo.webp
+  alt: "Dancer in red at La Alboreá"
+- src: /images/actividades/granada/wikimedia/granada-catedral-06.webp
+  alt: "Puerta del Perdón of the Cathedral, a few minutes from the tablao"
 ratingProveedor: 4.7
 numeroOpiniones: 5481
 

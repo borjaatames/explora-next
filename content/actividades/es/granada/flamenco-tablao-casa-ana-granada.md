@@ -88,16 +88,26 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "tablao casa ana", "flamenco centro granada", "tablao flamenco granada", "espectaculo flamenco intimo granada"]
 
 
-imagen: "/images/actividades/granada/tablao-casa-ana/tablao-casa-ana-espectaculo.webp"
-imagenAlt: "Elenco de Casa Ana Centro Flamenco al final del espectáculo en el tablao de Granada"
+imagen: "/images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaora-manton.webp"
+imagenAlt: "Bailaora con mantón en el Tablao Casa Ana"
 
 galeria:
-  - src: "/images/actividades/granada/wikimedia/granada-catedral-02.webp"
-    alt: "Catedral de Granada en el centro histórico, cerca del tablao"
-  - src: "/images/actividades/granada/tablao-casa-ana/tablao-casa-ana-entrada.webp"
-    alt: "Entrada del tablao Casa Ana Centro Flamenco en Granada"
-  - src: "/images/actividades/granada/tablao-casa-ana/tablao-casa-ana-elenco.webp"
-    alt: "Bailaoras, cantaores y guitarrista de Casa Ana Centro Flamenco"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-cuadro-escenario.webp
+  alt: "Cuadro flamenco en el escenario de Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-baile-luces.webp
+  alt: "Baile con focos en el Tablao Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-elenco-guitarra.webp
+  alt: "Elenco de Casa Ana con el guitarrista"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-entrada.webp
+  alt: "Entrada del Tablao Casa Ana en el centro de Granada"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaora-brazos.webp
+  alt: "Bailaora con los brazos en alto en Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaora-rojo.webp
+  alt: "Bailaora con falda roja en Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaor-foco-azul.webp
+  alt: "Bailaor bajo el foco azul en Casa Ana"
+- src: /images/actividades/granada/wikimedia/granada-catedral-02.webp
+  alt: "Catedral de Granada en el centro histórico, cerca del tablao"
 ratingProveedor: 4.8
 numeroOpiniones: 435
 

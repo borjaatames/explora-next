@@ -91,20 +91,30 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "granada flamenco cave", "gypsy zambra granada", "cave flamenco show granada"]
 
 
-imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-artistas-actuacion.avif"
-imagenAlt: "Blue and white facade of a flamenco cave-tablao in Granada's Sacromonte"
+imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaora-centro-cueva.webp"
+imagenAlt: "Dancer in the middle of Cueva Los Amayas with the audience on both sides"
 
 galeria:
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaora-lunares-cueva.webp
+  alt: "Polka-dot dancer under the whitewashed cave vault"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-cante-baile-cueva.webp
+  alt: "Singing and dancing at Cueva Los Amayas"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaor-zambra.webp
+  alt: "Male dancer mid-zambra in the cave"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-bailaora-volantes.webp
+  alt: "Ruffled dancer among the cave audience"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-guitarra-bailaora.webp
+  alt: "Guitarist and dancer at Cueva Los Amayas"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-interior-cueva.webp
+  alt: "Inside Cueva Los Amayas with its copperware and chairs"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-entrada-cueva.webp
+  alt: "Entrance to Cueva Los Amayas in the Sacromonte"
+- src: /images/actividades/granada/cueva-los-amayas/cueva-los-amayas-vistas-alhambra.webp
+  alt: "The Alhambra seen from the Sacromonte, near the cave"
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: "Cave houses on the Sacromonte hillside, Granada"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Sacromonte hillside with its cave houses"
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: "Whitewashed cave houses of the Sacromonte"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "The Albaicín at dusk"
-- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
-  alt: "The Alhambra lit by the evening sun"
 ratingProveedor: 4.7
 numeroOpiniones: 1107
 

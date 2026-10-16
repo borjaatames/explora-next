@@ -90,20 +90,30 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "cueva zincale", "sacromonte flamenco", "gypsy zambra granada", "granada flamenco caves"]
 
 
-imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra-gitana.jpg"
-imagenAlt: "Facade of Cueva del Zincalé on the Camino del Sacromonte in Granada"
+imagen: "/images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-cueva.webp"
+imagenAlt: "Dancer in the Zincalé cave with the flamenco troupe"
 
 galeria:
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-cuadro-cueva.webp
+  alt: "The full flamenco troupe in the Zincalé cave"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-lunares-publico.webp
+  alt: "Polka-dot dancer next to the audience at Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaoras-guitarras.webp
+  alt: "Dancers and guitarists beneath the Zincalé sign"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-baile-guitarra.webp
+  alt: "Dancing and guitar in the Zincalé cave"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-guitarrista.webp
+  alt: "Zincalé guitarist"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-guitarrista.webp
+  alt: "Dancer and guitarist at Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-cantaor.webp
+  alt: "Singer beneath the Zincalé sign"
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: "Cave houses on the Sacromonte hillside, Granada"
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: "Whitewashed cave houses of the Sacromonte"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Sacromonte hillside with its cave houses"
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: "The Alhambra lit by the evening sun"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "The Albaicín at dusk"
 ratingProveedor: 4.6
 numeroOpiniones: 1286
 

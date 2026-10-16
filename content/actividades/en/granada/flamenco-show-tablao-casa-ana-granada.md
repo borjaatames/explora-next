@@ -88,16 +88,26 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "tablao casa ana", "central flamenco granada", "granada flamenco tablao", "intimate flamenco show granada"]
 
 
-imagen: "/images/actividades/granada/tablao-casa-ana/tablao-casa-ana-espectaculo.webp"
-imagenAlt: "Casa Ana Centro Flamenco cast at the end of the show in their Granada tablao"
+imagen: "/images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaora-manton.webp"
+imagenAlt: "Dancer with a shawl at Tablao Casa Ana"
 
 galeria:
-  - src: "/images/actividades/granada/wikimedia/granada-catedral-02.webp"
-    alt: "Granada Cathedral in the historic centre, near the tablao"
-  - src: "/images/actividades/granada/tablao-casa-ana/tablao-casa-ana-entrada.webp"
-    alt: "Entrance of the Casa Ana Centro Flamenco tablao in Granada"
-  - src: "/images/actividades/granada/tablao-casa-ana/tablao-casa-ana-elenco.webp"
-    alt: "Dancers, singers and guitarist of Casa Ana Centro Flamenco"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-cuadro-escenario.webp
+  alt: "Flamenco troupe on the Casa Ana stage"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-baile-luces.webp
+  alt: "Dancing under the spotlights at Tablao Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-elenco-guitarra.webp
+  alt: "The Casa Ana cast with the guitarist"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-entrada.webp
+  alt: "Entrance to Tablao Casa Ana in central Granada"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaora-brazos.webp
+  alt: "Dancer with raised arms at Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaora-rojo.webp
+  alt: "Dancer in a red skirt at Casa Ana"
+- src: /images/actividades/granada/tablao-casa-ana-oficial/tablao-casa-ana-oficial-bailaor-foco-azul.webp
+  alt: "Male dancer under the blue spotlight at Casa Ana"
+- src: /images/actividades/granada/wikimedia/granada-catedral-02.webp
+  alt: "Granada Cathedral in the historic centre, near the tablao"
 ratingProveedor: 4.8
 numeroOpiniones: 435
 

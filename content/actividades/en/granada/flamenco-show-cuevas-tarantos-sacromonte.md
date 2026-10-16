@@ -90,20 +90,30 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "cuevas los tarantos", "zambra granada", "sacromonte cave flamenco"]
 
 
-imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-zambra-gitana.jpg"
-imagenAlt: "Flamenco show in a cave in Granada's Sacromonte"
+imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-espectaculo-cueva.webp"
+imagenAlt: "Show in the Los Tarantos cave with the audience"
 
 galeria:
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-sala-cueva-mesas.webp
+  alt: "The cave hall with tables set for dinner"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaora-manton.webp
+  alt: "Dancer with a shawl at Los Tarantos"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaora-cueva-encalada.webp
+  alt: "Dancer in the whitewashed Los Tarantos cave"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaora-negro.webp
+  alt: "Dancer in black on the cave stage"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaoras-rojo.webp
+  alt: "Dancers in red under the cave vault"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaor-cueva.webp
+  alt: "Male dancer at Cuevas Los Tarantos"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-mesa-cena.webp
+  alt: "Table set for dinner in the cave"
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: "Cave houses on the Sacromonte hillside, Granada"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Sacromonte hillside with its cave houses"
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: "The Alhambra lit by the evening sun"
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: "Whitewashed cave houses of the Sacromonte"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "The Albaicín at dusk"
 ratingProveedor: 4.5
 numeroOpiniones: 2093
 

@@ -90,20 +90,30 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "cueva zincale", "flamenco sacromonte", "zambra gitana granada", "cuevas flamencas granada"]
 
 
-imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra-gitana.jpg"
-imagenAlt: "Fachada de la Cueva del Zincalé en el Camino del Sacromonte de Granada"
+imagen: "/images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-cueva.webp"
+imagenAlt: "Bailaora en la cueva del Zincalé con el cuadro flamenco"
 
 galeria:
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-cuadro-cueva.webp
+  alt: "Cuadro flamenco completo en la cueva del Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-lunares-publico.webp
+  alt: "Bailaora de lunares junto al público en el Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaoras-guitarras.webp
+  alt: "Bailaoras y guitarristas bajo el cartel del Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-baile-guitarra.webp
+  alt: "Baile y guitarra en la cueva del Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-guitarrista.webp
+  alt: "Guitarrista del Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-guitarrista.webp
+  alt: "Bailaora y guitarrista en el Zincalé"
+- src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-cantaor.webp
+  alt: "Cantaor bajo el cartel del Zincalé"
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: "Casas cueva en la ladera del Sacromonte, Granada"
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: "Casas cueva encaladas del Sacromonte"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Ladera del Sacromonte con sus casas cueva"
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: "La Alhambra iluminada por el sol de la tarde"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "El Albaicín al caer la tarde"
 ratingProveedor: 4.6
 numeroOpiniones: 1286
 

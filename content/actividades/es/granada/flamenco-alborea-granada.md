@@ -90,18 +90,26 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "la alborea granada", "tablao flamenco centro granada", "flamenco granada con vino", "flamenco centro granada"]
 
 
-imagen: "/images/actividades/granada/la-alborea/la-alborea-espectaculo-flamenco-granada.jpg"
-imagenAlt: "Escenario del Tablao Flamenco La Alboreá en el centro de Granada"
+imagen: "/images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-escenario.webp"
+imagenAlt: "Bailaora en el escenario de La Alboreá"
 
 galeria:
-  - src: "/images/actividades/granada/la-alborea/la-alborea-cuadro-flamenco.webp"
-    alt: "Cuadro flamenco al completo en el escenario de La Alboreá"
-  - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"
-    alt: "Puerta del Perdón de la Catedral, a pocos minutos del tablao"
-  - src: "/images/actividades/granada/la-alborea/la-alborea-bailaora-bata-de-cola.webp"
-    alt: "Bailaora con bata de cola y mantón en La Alboreá"
-  - src: "/images/actividades/granada/la-alborea/la-alborea-cante-guitarra.webp"
-    alt: "Cantaor, palmas y guitarra en La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-cuadro-flamenco.webp
+  alt: "Cuadro flamenco de La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-sala-publico.webp
+  alt: "Sala de La Alboreá con el público"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-guitarra.webp
+  alt: "Bailaora y guitarrista en La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-pareja-baile.webp
+  alt: "Pareja de baile en La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-pareja-escenario.webp
+  alt: "Bailaora y bailaor en el escenario de La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-bata-cola.webp
+  alt: "Bailaora con bata de cola en La Alboreá"
+- src: /images/actividades/granada/la-alborea-oficial/la-alborea-oficial-bailaora-rojo.webp
+  alt: "Bailaora de rojo en La Alboreá"
+- src: /images/actividades/granada/wikimedia/granada-catedral-06.webp
+  alt: "Puerta del Perdón de la Catedral, a pocos minutos del tablao"
 ratingProveedor: 4.7
 numeroOpiniones: 5481
 

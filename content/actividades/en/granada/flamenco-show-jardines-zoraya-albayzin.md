@@ -91,22 +91,26 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "albayzin flamenco", "jardines zoraya", "granada flamenco tablao", "flamenco with dinner granada"]
 
 
-imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-baile-lunares.webp"
-imagenAlt: "Dancer in a polka-dot dress on the Jardines de Zoraya stage"
+imagen: "/images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-bailaora-rojo.webp"
+imagenAlt: "Dancer in red on the Jardines de Zoraya stage"
 
 galeria:
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-artistas-luis-de-luis.jpg"
-    alt: "Flamenco tablao with dancers and guitarist at Jardines de Zoraya in the Albayzín"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-bailaora-cante.webp"
-    alt: "Dancer, singers and guitarist at Jardines de Zoraya"
-  - src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
-    alt: "View of the Albaicín, the neighbourhood of Jardines de Zoraya"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-cuadro-flamenco.webp"
-    alt: "Full flamenco troupe at Jardines de Zoraya"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-escenario.webp"
-    alt: "Stage and room at Jardines de Zoraya before the show"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-baile-pareja.webp"
-    alt: "Flamenco dance couple at Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-cuadro-palmas.webp
+  alt: "Flamenco troupe clapping at Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-bailaora-azul.webp
+  alt: "Dancer in blue with raised arms"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-cante-guitarra.webp
+  alt: "Singing and guitar at Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-bailaor-sombrero.webp
+  alt: "Male dancer in a hat at Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-cuadro-completo.webp
+  alt: "The full Jardines de Zoraya troupe"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-pareja-baile-rojo.webp
+  alt: "Dancing couple on the Jardines de Zoraya stage"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-jardin-fuente.webp
+  alt: "The garden and fountain of Jardines de Zoraya in the Albaicín"
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: "View of the Albaicín, the neighbourhood of Jardines de Zoraya"
 ratingProveedor: 4.7
 numeroOpiniones: 1431
 

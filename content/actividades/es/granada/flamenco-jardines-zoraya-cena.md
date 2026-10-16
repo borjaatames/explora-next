@@ -95,20 +95,26 @@ categoria: "espectaculos"
 keywords: ["flamenco con cena granada", "cena espectaculo flamenco albayzin", "jardines zoraya cena", "flamenco con cena albayzin", "menu flamenco granada"]
 
 
-imagen: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-sala-cena-publico.webp"
-imagenAlt: "Público en las mesas durante el espectáculo con cena en Jardines de Zoraya"
+imagen: "/images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-pareja-baile-rojo.webp"
+imagenAlt: "Pareja de baile en el escenario de Jardines de Zoraya"
 
 galeria:
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-cuadro-flamenco.webp"
-    alt: "Cuadro flamenco al completo en Jardines de Zoraya"
-  - src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
-    alt: "Vista del Albaicín, el barrio donde está Jardines de Zoraya"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-bailaora-publico.webp"
-    alt: "Bailaora con mantón ante el público de Jardines de Zoraya"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-escenario.webp"
-    alt: "Escenario y sala de Jardines de Zoraya antes del espectáculo"
-  - src: "/images/actividades/granada/jardines-zoraya/jardines-zoraya-baile-pareja.webp"
-    alt: "Pareja de baile flamenco en Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-cena-terraza.webp
+  alt: "Cena en la terraza de Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-jardin-fuente.webp
+  alt: "Jardín con fuente de Jardines de Zoraya, en el Albaicín"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-baile-jardin.webp
+  alt: "Baile flamenco en el jardín"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-bailaora-azul-cuadro.webp
+  alt: "Bailaora de azul con el cuadro flamenco"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-cante-guitarra.webp
+  alt: "Cante y guitarra en Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-cuadro-palmas.webp
+  alt: "Cuadro flamenco con palmas en Jardines de Zoraya"
+- src: /images/actividades/granada/jardines-zoraya-oficial/jardines-zoraya-oficial-bailaora-rojo.webp
+  alt: "Bailaora de rojo en el escenario de Jardines de Zoraya"
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: "Vista del Albaicín, el barrio donde está Jardines de Zoraya"
 ratingProveedor: 4.6
 numeroOpiniones: 288
 

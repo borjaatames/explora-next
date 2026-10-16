@@ -90,20 +90,30 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco sacromonte", "cuevas los tarantos", "zambra granada", "cueva flamenca sacromonte"]
 
 
-imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-zambra-gitana.jpg"
-imagenAlt: "Espectáculo de flamenco en una cueva del Sacromonte de Granada"
+imagen: "/images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-espectaculo-cueva.webp"
+imagenAlt: "Espectáculo en la cueva de Los Tarantos con el público"
 
 galeria:
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-sala-cueva-mesas.webp
+  alt: "Sala de la cueva con mesas para la cena"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaora-manton.webp
+  alt: "Bailaora con mantón en Los Tarantos"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaora-cueva-encalada.webp
+  alt: "Bailaora en la cueva encalada de Los Tarantos"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaora-negro.webp
+  alt: "Bailaora de negro en el escenario de la cueva"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaoras-rojo.webp
+  alt: "Bailaoras de rojo bajo la bóveda de la cueva"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-bailaor-cueva.webp
+  alt: "Bailaor en Cuevas Los Tarantos"
+- src: /images/actividades/granada/cuevas-los-tarantos/cuevas-los-tarantos-mesa-cena.webp
+  alt: "Mesa preparada para la cena en la cueva"
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: "Casas cueva en la ladera del Sacromonte, Granada"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Ladera del Sacromonte con sus casas cueva"
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: "La Alhambra iluminada por el sol de la tarde"
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: "Casas cueva encaladas del Sacromonte"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "El Albaicín al caer la tarde"
 ratingProveedor: 4.5
 numeroOpiniones: 2093
 

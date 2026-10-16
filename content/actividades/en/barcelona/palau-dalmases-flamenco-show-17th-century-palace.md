@@ -171,21 +171,27 @@ keywords:
 - flamenco el born barcelona
 - short flamenco show barcelona
 - carrer montcada flamenco
-imagen: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-05.webp"
-imagenAlt: "Baroque hall of Palau Dalmases, where the flamenco show takes place"
+imagen: "/images/actividades/barcelona/palau-dalmases/palau-dalmases-bailaora-azul-guitarra.webp"
+imagenAlt: "Dancer in blue with a guitarist at Palau Dalmases"
 galeria:
-- src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp
-  alt: "Wine glasses served before the show"
-- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-06.webp
-  alt: "Room inside Palau Dalmases"
-- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-01.webp
-  alt: "Palau Dalmases courtyard lit at night"
-- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
-  alt: "Carrer Montcada in the Born district"
-- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
-  alt: "Palace façades on Carrer Montcada"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-patio-espectaculo.webp
+  alt: "Show in the baroque courtyard of Palau Dalmases"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-dos-bailaoras.webp
+  alt: "Two dancers in the Palau Dalmases hall"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-bailaora-rojo.webp
+  alt: "Dancer in red with singer and guitarist"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-cuadro-luz-morada.webp
+  alt: "Flamenco troupe under purple light in the palace hall"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-patio-farolillos.webp
+  alt: "The palace courtyard with lanterns and the Gothic staircase"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-sala-butacas-rojas.webp
+  alt: "The red-seated hall of Palau Dalmases"
+- src: /images/actividades/barcelona/palau-dalmases/palau-dalmases-cuadro-completo.webp
+  alt: "The full flamenco troupe on stage"
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
   alt: "Narrow Gothic Quarter street with balconies"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
+  alt: "Palace façades on Carrer Montcada"
 ratingProveedor: 4.6
 numeroOpiniones: 919
 publicada: true

@@ -175,19 +175,27 @@ keywords:
 - tablao historico sevilla
 - flamenco cena sevilla
 - tablao 50 años sevilla
-imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-bailaora-tablao-fl-hero.webp"
-imagenAlt: Bailaora en traje flamenco realizando espectáculo apasionado en tablao sevillano
+imagen: "/images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-bailaor-escenario.webp"
+imagenAlt: "Bailaor en el escenario del Tablao El Arenal"
 galeria:
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-interior-tablao-at-hero.webp
-  alt: "Interior acogedor de tablao flamenco en Sevilla con mesas de restaurante, público sentado disfrutando del espectáculo bajo iluminación cálida"
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
-  alt: "Fachada restaurada de edificio del siglo XVII en el barrio El Arenal, Sevilla, cerca de la Plaza de Toros de la Maestranza"
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp
-  alt: "Selección de tapas tradicionales y bebidas servidas en mesa de tablao flamenco de Sevilla"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-escenario-cuadro.webp
+  alt: "Escenario y cuadro flamenco del Tablao El Arenal"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-bailaor-blanco-negro.webp
+  alt: "Bailaor en el Tablao El Arenal, en blanco y negro"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-cuadro-historico.webp
+  alt: "Cuadro flamenco en El Arenal, foto histórica del tablao"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-sala-velas.webp
+  alt: "Sala del tablao con mesas y velas"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-mesas-copas.webp
+  alt: "Mesas con copas preparadas para la cena"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-plato-cena.webp
+  alt: "Plato de la cena del Tablao El Arenal"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-verduras-cena.webp
+  alt: "Verduras asadas de la carta del tablao"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: "Fachada histórica de la Plaza de Toros de la Maestranza en Sevilla, edificio icónico junto al tablao flamenco"
-- src: /images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp
-  alt: "Espectáculo en el Tablao Flamenco El Arenal"
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: "La Torre del Oro y el Guadalquivir, a pocos pasos del tablao"
 ratingProveedor: 4.9
 numeroOpiniones: 22
 publicada: true
