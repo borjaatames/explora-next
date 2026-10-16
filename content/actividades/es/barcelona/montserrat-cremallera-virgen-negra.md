@@ -82,7 +82,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-cremallera-bodega-castlexperience"
-  - "montserrat-bodega-y-tapas-castlexperience"
   - "montserrat-medio-dia-grupo-pequeno"
   - "montserrat-dia-completo-con-audioguia"
 
@@ -141,4 +140,4 @@ Vuelta a Barcelona sobre la tarde — duración total entre 5 y 7 horas según o
 - Si esperas un grupo solo en español o solo en inglés. Aquí es bilingüe en el mismo grupo. Para garantía de un solo idioma, mira [el tour privado](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel).
 - Si tu prioridad es la naturaleza (caminata, funicular de Sant Joan, miradores). Considera [la versión con teleférico y caminata](/ciudades/barcelona/actividades/montserrat-teleferico-y-caminata-grupo-pequeno).
 - Si quieres una experiencia más íntima en grupo reducido. Los autocares suelen ir completos.
-- Si te interesa la enología — esta variante NO incluye bodega. Mira [Castlexperience con bodega](/ciudades/barcelona/actividades/montserrat-bodega-y-tapas-castlexperience).
+- Si te interesa la enología — esta variante NO incluye bodega. Mira [Castlexperience con bodega](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience).

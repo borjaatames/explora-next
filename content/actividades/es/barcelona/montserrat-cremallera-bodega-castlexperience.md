@@ -86,9 +86,6 @@ preguntasFrecuentes:
   respuesta: El tour se realiza con lluvia salvo condiciones extremas. El bus y los espacios interiores del monasterio están
     cubiertos; la subida en cremallera no se ve afectada. Si el operador cancela por meteo, te reembolsan al 100%.
 variantes:
-- montserrat-bodega-y-tapas-castlexperience
-- montserrat-bodega-tapas-y-cremallera
-- montserrat-virgen-negra-y-bodega-medieval
 - montserrat-cremallera-virgen-negra
 opinionEditorial: 'La variante de Castlexperience en GetYourGuide y la más completa de su catálogo. 47 € por la opción básica
   con cremallera incluida es competitivo, y si subes a la opción con bodega y tapas (~57 €) tienes prácticamente día completo
@@ -101,7 +98,7 @@ opinionEditorial: 'La variante de Castlexperience en GetYourGuide y la más comp
 
 
   Lo que conviene saber: los grupos son de 20 personas y el operador comparte transporte con otros grupos. Si quieres formato
-  íntimo, mira [In Out con recogida en hotel](/ciudades/barcelona/actividades/montserrat-grupo-pequeno-recogida-hotel).
+  íntimo, mira [el tour en grupo reducido con recogida en hotel](/ciudades/barcelona/actividades/barcelona-y-montserrat-grupo-reducido-recogida-hotel).
 
   '
 atraccionesRelacionadas:

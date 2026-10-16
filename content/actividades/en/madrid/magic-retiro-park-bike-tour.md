@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "Is it really «magic» as the name says?"
     respuesta: "The name is operator marketing. What is real: Retiro is one of the most beautiful urban parks in Europe, with monuments scattered around and lots of history. The «magic» part depends on the guide — some (Crystal, Alan, Alen, André) get mentions by name in reviews, indicating that the human experience makes the difference. Guide score is 4.9/5."
 
-variantes: ["retiro-park-literary-quarter-ebike-viator", "retiro-park-segway-tour-viator", "madrid-3-hour-sightseeing-e-bike-tour"]
+variantes: ["madrid-3-hour-sightseeing-e-bike-tour"]
 
 opinionEditorial: |
   This is the dedicated bike tour of Retiro Park: 4.8/5 across 73 reviews, top rated, with guide rated 4.9/5. Small group of 10 people. Complete route through the park (Crystal Palace, Rose Garden, Forest of Remembrance, Pond, Fallen Angel, etc.). Operator: Madrid Segway, although the activity is on traditional or electric bike. Competitive price from €31, with helmet and photos included.

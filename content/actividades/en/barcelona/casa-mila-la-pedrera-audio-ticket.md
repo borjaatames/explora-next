@@ -79,7 +79,7 @@ preguntasFrecuentes:
   - pregunta: "What about the 13-language audio guide?"
     respuesta: "Audio is professional (not auto-translated). Pick your language at the entrance when collecting the device. Quality is consistent across languages — the script is identical, only the voice narration changes. If your native language is uncommon (Korean, Russian, Basque, Galician), this is a meaningful feature — most competing audio tours offer 5-6 languages max."
 
-variantes: ["casa-mila-early-morning-access-guided-tour", "casa-mila-night-experience-cava", "casa-mila-audio-admission-viator", "casa-batllo-entry-with-audioguide"]
+variantes: ["casa-mila-early-morning-access-guided-tour", "casa-mila-night-experience-cava", "casa-batllo-entry-with-audioguide"]
 
 opinionEditorial: |
   The #1 selling Casa Milà / La Pedrera ticket on GetYourGuide — 18,195 reviews at 4.7/5, by far the most reviewed product for this attraction. The pitch is clean: skip-the-line entrance + audio guide in 13 languages, ~€25 (official) - €29 (GYG), free 24-hour cancellation. The rating breakdown is exceptional (75% 5-star, 19% 4-star, 4% 3-star, 1% 2-star, 1% 1-star); the recurring praise centres on the audio guide quality and the attic/Espai Gaudí exhibition. Reviewers consistently say «less impressive interior than Casa Batlló but the attic and rooftop are the highlights» — a fair assessment.

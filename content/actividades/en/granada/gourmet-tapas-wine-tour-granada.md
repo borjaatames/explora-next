@@ -74,7 +74,7 @@ preguntasFrecuentes:
   - pregunta: "What kinds of tapas are there?"
     respuesta: "Five different tapas — the operator alternates between 5 restaurants covering the best-known central areas: Carlos Cano, Reyes Católicos, Bib-Rambla, Elvira (the tapas street) and Santa Ana. Each bar has its speciality. It's a good introduction to Granada's tapeo culture (where the tapa USUALLY comes free with the drink)."
 
-variantes: ["granada-food-tour-small-group", "granada-tapas-noche", "ebike-tapas-granada"]
+variantes: []
 
 opinionEditorial: |
   The cheapest and most autonomous food tour option in Granada: €42 for 5 stops with a tapa and drink included. Self-guided format — no physical guide, no fixed timing, no group. You receive the QR codes by WhatsApp the day before and redeem them at each bar at your own pace. Ideal for couples or friends who prefer autonomy.

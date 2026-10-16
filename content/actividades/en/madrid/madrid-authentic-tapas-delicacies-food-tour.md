@@ -79,8 +79,6 @@ preguntasFrecuentes:
     respuesta: "Yes — Secret Food Tours specialises in introducing travellers to a city's food culture. The route covers central Madrid (Sol / Plaza Mayor area), which is where most first-time visitors are staying. The guide commentary is built for travellers without prior knowledge of Spanish food culture."
 
 variantes:
-  - "madrid-wine-and-tapas-tour"
-  - "madrid-secret-food-tour"
   - "madrid-ultimate-food-tour-markets-tapas"
 
 opinionEditorial: |

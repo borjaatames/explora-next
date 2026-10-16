@@ -85,7 +85,6 @@ preguntasFrecuentes:
 variantes:
   - "montserrat-cremallera-virgen-negra"
   - "montserrat-basilica-y-traslados"
-  - "montserrat-bodega-y-tapas-castlexperience"
   - "montserrat-masia-bages-almuerzo-vinos"
 
 opinionEditorial: |

@@ -97,7 +97,6 @@ preguntasFrecuentes:
     2028.
 variantes:
 - camp-nou-fc-barcelona-museum-immersive-tour
-- camp-nou-museum-open-date-viator
 opinionEditorial: 'FC Barcelona''s premium «Total Experience Pass» — 979 reviews at 4.2/5, official ticket sold directly by
   FC Barcelona. The product bundles the basic Barça Immersive Tour with three premium add-ons: Robokeeper challenge (3 shots
   vs a robotic goalkeeper), Barça Virtual Dream VR experience, and a digital memory photo. The format adds approximately €21

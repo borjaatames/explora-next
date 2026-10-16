@@ -80,7 +80,6 @@ preguntasFrecuentes:
     respuesta: "Sí — Secret Food Tours se especializa en introducir a viajeros en la cultura gastronómica local. La ruta recorre el centro de Madrid (zona Sol / Plaza Mayor), justo donde se aloja la mayoría de quienes visitan la ciudad por primera vez. La narración del guía está pensada para viajeros sin conocimiento previo de la cocina española."
 
 variantes:
-  - "tour-tapas-vinos-barrio-letras"
   - "tour-tapas-vino-azotea-madrid"
   - "aventura-vino-tapas-la-latina"
 

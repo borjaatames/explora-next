@@ -84,7 +84,6 @@ preguntasFrecuentes:
     respuesta: "Monastery and basilica access are included. The Throne Room where the Moreneta is is not explicitly included; the guide can help you access during the visit if you want to touch her (the internal queue can be long)."
 
 variantes:
-  - "montserrat-small-group-hotel-pickup"
   - "montserrat-funicular-scenic-hike"
   - "montserrat-cable-car-and-easy-hike-small-group"
   - "montserrat-bages-farmhouse-lunch-and-wine"

@@ -84,7 +84,7 @@ preguntasFrecuentes:
   - pregunta: "When is it best to book, lunchtime or evening?"
     respuesta: "There are midday (lunch) and evening (dinner) slots. Midday works if you want to use the afternoon for other visits. Evening fits as a day-closing plan. Both options get excellent reviews."
 
-variantes: ["spanish-cooking-class-viator", "private-paella-sangria-cooking-class-viator", "10-tapas-cooking-class-viator"]
+variantes: []
 
 opinionEditorial: |
   This is one of Madrid's best-rated gastronomic products: 4.9/5 across 1,448 reviews, top rated, with «91% of English-speaking travellers giving it the top score». Hands-on 3-hour workshop: you prepare sangria, cook traditional paella (chicken and seafood) with a local chef, and take home detailed recipes. The price (€61) includes instructor, ingredients, workshop, lunch or dinner and drink. Operator: Travel Vibes Agency.

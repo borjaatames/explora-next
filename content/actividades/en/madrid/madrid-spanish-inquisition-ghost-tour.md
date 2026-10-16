@@ -80,7 +80,7 @@ preguntasFrecuentes:
   - pregunta: "Is it worth the price?"
     respuesta: "Yes. At €19-21 for 110 minutes with narrating guide, it's at the low end of Madrid night tours. The «value for money» score is 4.7/5 — high. For groups of 3-4 people it's one of the most affordable night plans. Compared to flamenco (€45-60) or dinner show, it's very economical."
 
-variantes: ["spanish-inquisition-ghost-stories-tour-viator", "madrid-big-bus-panoramic-night-tour"]
+variantes: ["madrid-big-bus-panoramic-night-tour"]
 
 opinionEditorial: |
   This is the best night legends tour in Madrid on GetYourGuide: 4.7/5 across 1,482 reviews, top rated, with the guide rated 4.8/5. Operator Mysterium Tours. 110 minutes on foot with a narrating guide (some in period costume), walking the old town with a lantern in hand. Content: Spanish Inquisition, ghosts, superstitions and urban legends of 16th-18th century Madrid. Very competitive price: from €19-21.

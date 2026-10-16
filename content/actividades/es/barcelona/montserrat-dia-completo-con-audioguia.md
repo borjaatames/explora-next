@@ -82,7 +82,6 @@ variantes:
   - "montserrat-cremallera-virgen-negra"
   - "montserrat-cremallera-bodega-castlexperience"
   - "montserrat-basilica-y-traslados"
-  - "montserrat-bodega-y-tapas-castlexperience"
 
 opinionEditorial: |
   La alternativa a Julià Travel para el clásico cremallera + monasterio + Moreneta opcional. El operador (Catalunya Bus Turístic) es menos conocido pero acumula 2.400+ reseñas a 4,6 estrellas, así que está consolidado. La audioguía propia es un plus si te gusta profundizar después del tour guiado.
@@ -138,6 +137,6 @@ Si reservaste la opción con Moreneta, accedes al camarín para verla. Si reserv
 ## A quién NO se lo recomiendo
 
 - Si esperas grupo en un solo idioma. Aquí es bilingüe. Mira [el grupo reducido de Mont Escape](/ciudades/barcelona/actividades/montserrat-teleferico-y-caminata-grupo-pequeno) para guía único.
-- Si quieres bodega y enología en el plan — mira [Castlexperience con bodega](/ciudades/barcelona/actividades/montserrat-bodega-y-tapas-castlexperience).
+- Si quieres bodega y enología en el plan — mira [Castlexperience con bodega](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience).
 - Si vas a improvisar tu día — el formato clásico de 7 horas con tour guiado es estructurado, no flexible.
 - Si tu objetivo es la naturaleza por encima del monasterio — mira [variantes con teleférico y caminata](/ciudades/barcelona/actividades/montserrat-teleferico-y-caminata-grupo-pequeno).

@@ -80,7 +80,6 @@ preguntasFrecuentes:
 variantes:
 - sagrada-familia-skip-the-line-guided-tour
 - sagrada-familia-small-group-tour
-- sagrada-familia-fast-track-tower-tour
 - sagrada-familia-ticket-audio-guide
 opinionEditorial: 'This is the experience that takes you up one of the basilica''s towers, and that''s exactly its appeal:
   taking in Barcelona from high up Gaudí''s temple. The guided tour is really well handled — it includes the crypt and the

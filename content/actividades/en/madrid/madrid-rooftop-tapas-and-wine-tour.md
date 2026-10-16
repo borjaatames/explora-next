@@ -78,10 +78,7 @@ preguntasFrecuentes:
   - pregunta: "How does it compare to Gourmet Madrid?"
     respuesta: "Gourmet Madrid (€77) is shorter (3 hours), smaller group, focused purely on the Barrio de las Letras. This World Experience tour (€83) is longer (4 hours), covers 3 neighbourhoods, ends on a rooftop, and runs slightly bigger groups. If you want the rooftop and the neighbourhood breadth, book this. If you want depth on one area, book Gourmet Madrid."
 
-variantes:
-  - "madrid-wine-and-tapas-tour"
-  - "madrid-tapas-and-wine-tour-with-local-guide"
-  - "madrid-secret-food-tour"
+variantes: []
 
 opinionEditorial: |
   This is a strong mid-tier product in the Madrid tapas market. 4 hours, 4.8/5 across 619 reviews, bilingual coverage, and a route that covers three of the most-walked old Madrid neighbourhoods (Las Letras, La Latina, Los Austrias). What sets it apart is the rooftop closing stop — book the evening tour (6 pm) and you finish the route with a glass of cava overlooking central Madrid.

@@ -80,7 +80,7 @@ preguntasFrecuentes:
   - pregunta: "¿Vale la pena el precio?"
     respuesta: "Sí. A 19-21 euros por 110 minutos con guía narrador, está en el rango bajo de tours nocturnos de Madrid. La nota de «value for money» es 4,7/5 — alta. Para grupos de 3-4 personas es uno de los planes nocturnos más económicos. Comparado con flamenco (45-60 euros) o cena espectáculo, sale muy a cuenta."
 
-variantes: ["madrid-tour-inquisicion-fantasmas-viator", "madrid-big-bus-night-tour"]
+variantes: ["madrid-big-bus-night-tour"]
 
 opinionEditorial: |
   Es el mejor tour nocturno de leyendas de Madrid en GetYourGuide: 4,7/5 sobre 1.482 reseñas, top rated, con guía valorado 4,8/5. Operador Mysterium Tours. 110 minutos a pie con guía narrador (algunos con vestuario de época), recorriendo el casco antiguo con farol en mano. Contenido: Inquisición Española, fantasmas, supersticiones y leyendas urbanas del Madrid de los siglos XVI-XVIII. Precio muy competitivo: desde 19-21 euros.

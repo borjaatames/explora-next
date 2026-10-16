@@ -80,8 +80,7 @@ preguntasFrecuentes:
 - pregunta: How do I make sure of a good view of the stage?
   respuesta: 'Arrive early — ideally 20 minutes before. Tables are assigned on arrival order, not by prior booking. Avoid
     the back lateral row: several reviews mention obstructed views, especially when latecomers come in and stand momentarily.'
-variantes:
-- flamenco-las-carboneras-tapa-drink-viator
+variantes: []
 opinionEditorial: 'This is one of central Madrid''s reference tablaos, flagged «top rated» and «likely to sell out» on GetYourGuide
   at 4.7/5 across 758 reviews. It''s in the basement of the former Count of Miranda''s palace, in the Austrias district —
   unbeatable location, 5 minutes from Plaza Mayor. The format is intimate, capacity reduced, with a fixed cast of renowned

@@ -80,9 +80,7 @@ preguntasFrecuentes:
 - pregunta: Is it worth it with children?
   respuesta: Yes, especially if they enjoy the mountains. The walks are short, the 4×4 is exciting and the views are photogenic.
     That said, it's 6-7 hours in total — for very young children it can be long. From age 5-6 it works well.
-variantes:
-- sierra-nevada-raquetas-senderismo
-- ebike-sierra-nevada-aldeas
+variantes: []
 opinionEditorial: 'The best-rated nature day trip from Granada by a wide margin: 4.9 / 5 from 1,718 reviews. It combines what
   few excursions manage: high mountain access for everyone (no serious trekking), 4×4 on tracks you couldn''t take in a normal
   car, small group (max 8 people) and a panoramic refuge at 2,500 m with a drink included. The «Likely to sell out» distinction

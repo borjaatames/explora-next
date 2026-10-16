@@ -78,8 +78,6 @@ preguntasFrecuentes:
     respuesta: "Different products. The Viator Devour tour (39034P1) is the classic tapas crawl. This GetYourGuide product (288825) puts more weight on the markets dimension and includes chocolate + empanadas — closer to a culinary discovery tour than a pure tapas crawl. Book this one if you want breadth; book the Viator one if you want depth on tapas alone."
 
 variantes:
-  - "madrid-wine-and-tapas-tour"
-  - "madrid-secret-food-tour"
   - "madrid-premium-tapas-tour-small-group"
 
 opinionEditorial: |

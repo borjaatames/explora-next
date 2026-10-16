@@ -79,7 +79,7 @@ preguntasFrecuentes:
   - pregunta: "¿Cómo me aseguro un buen sitio?"
     respuesta: "Llega pronto (1 hora antes si reservas cena, 20 minutos si reservas solo show). Las mesas se asignan en el momento. Las reseñas se quejan recurrentemente de los asientos laterales — pide explícitamente mesa central o frontal al llegar; no siempre te la darán pero merece intentarlo."
 
-variantes: ["flamenco-tablao-las-carboneras", "flamenco-las-carboneras-viator", "essential-flamenco-viator"]
+variantes: ["flamenco-tablao-las-carboneras"]
 
 opinionEditorial: |
   Es el tablao con mayor volumen de validación de Madrid en GetYourGuide: 4,5/5 sobre 10.330 reseñas, certificado por GetYourGuide y «likely to sell out». Abierto en 1960 con decoración inspirada en las Torres Bermejas de la Alhambra (techos de madera tallada, azulejos árabes), está en plena zona Gran Vía. Precio base muy competitivo —en torno a 30 euros— y un catálogo de opciones de cena que va desde bebida suelta hasta menú de 3 platos.

@@ -89,7 +89,6 @@ preguntasFrecuentes:
     estadio, valóralo.
 variantes:
 - bernabeu-visita-guiada
-- madrid-city-tour-bernabeu-viator
 opinionEditorial: 'Es el ticket oficial del Tour Bernabéu que vende GetYourGuide como distribuidor: 4,5/5 con más de 23.000
   reseñas — el producto del estadio con mayor volumen de validación, y catalogado «likely to sell out» en alta demanda. El
   recorrido cubre el estadio remodelado: museo con la colección de trofeos (incluida la 15ª Champions), vestuarios, banquillos

@@ -159,4 +159,4 @@ Barcelona-Montserrat journey: about 1 hour. 1-hour guided tour upon arrival. The
 - If your priority is seeing and touching the Black Madonna. It's NOT included here. See [Julià Travel with Moreneta](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna) or any variant that includes it explicitly.
 - If you expect the iconic rack railway — not here. See [variants with rack railway](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna).
 - If you'll improvise without a plan. 3 free hours can feel too short or too long depending on your energy.
-- If you want an integral experience (cultural + gastronomic). See [the winery and tapas option](/en/cities/barcelona/activities/montserrat-winery-and-tapas-castlexperience).
+- If you want an integral experience (cultural + gastronomic). See [the winery and tapas option](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience).

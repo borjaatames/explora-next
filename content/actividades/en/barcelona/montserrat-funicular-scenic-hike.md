@@ -82,8 +82,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-cable-car-and-easy-hike-small-group"
-  - "montserrat-cable-car-and-easy-hike-viator"
-  - "montserrat-small-group-hotel-pickup"
   - "montserrat-private-tour-hotel-pickup"
 
 opinionEditorial: |
@@ -137,7 +135,7 @@ Return to Barcelona in 55 minutes. Total: 6 hours. Max 8-person group with singl
 
 ## Who I would NOT recommend it to
 
-- If your priority is winery and oenology — this variant doesn't include it. See [Castlexperience with winery](/en/cities/barcelona/activities/montserrat-winery-and-tapas-castlexperience).
+- If your priority is winery and oenology — this variant doesn't include it. See [Castlexperience with winery](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience).
 - If you expect the iconic rack railway — they use van and funicular. See [variants with rack railway](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna).
 - If your goal is just the monastery (no hiking, no funicular). The price (€68) reflects the complete package; if you only want the cultural side, [the cheapest option](/en/cities/barcelona/activities/montserrat-basilica-and-transfers) is €41.
 - If you have severe vertigo. The funicular can feel intense.

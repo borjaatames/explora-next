@@ -99,7 +99,6 @@ preguntasFrecuentes:
     completas a finales de 2027 o principios de 2028.
 variantes:
 - camp-nou-museo-fc-barcelona-tour-inmersivo
-- camp-nou-museo-fecha-flexible-viator
 opinionEditorial: 'El «Total Experience Pass» premium del FC Barcelona — 979 reseñas con 4,2/5, ticket oficial vendido directamente
   por FC Barcelona. El producto agrupa el Barça Immersive Tour básico con tres extras premium: Robokeeper (3 tiros contra
   un portero robótico), experiencia VR Barça Virtual Dream y una foto de memoria digital. El formato añade aproximadamente

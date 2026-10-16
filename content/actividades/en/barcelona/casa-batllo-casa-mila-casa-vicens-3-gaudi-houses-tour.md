@@ -89,7 +89,7 @@ preguntasFrecuentes:
   - pregunta: "When should I book this if I have only 1 day in Barcelona?"
     respuesta: "If you have ONE day and want Gaudí coverage: morning slot (start ~9:00-10:00). The tour ends at Casa Batlló around 13:00, leaving you the afternoon for Sagrada Familia (the one Gaudí monument NOT in this tour) and Park Güell. If you have 2+ days, any time works; this tour is a strong opener because it primes you on Gaudí's evolution before the bigger Sagrada Familia visit."
 
-variantes: ["casa-batllo-entry-with-audioguide", "casa-batllo-night-visit-live-music", "casa-batllo-expert-guide-tour-viator", "park-guell-best-rated-guided-tour-skip-line"]
+variantes: ["casa-batllo-entry-with-audioguide", "casa-batllo-night-visit-live-music", "park-guell-best-rated-guided-tour-skip-line"]
 
 opinionEditorial: |
   The Touring Pandas' flagship combo tour — Casa Vicens + Casa Milà (La Pedrera) + Casa Batlló in 3 hours, small group of 12. 331 reviews at 4.6/5 with guide quality at 4.7/5 is strong; the operator is a specialist (small-group cultural tours in Barcelona, Madrid, Lisbon) rather than a mass-market generalist. The pitch is sensible: instead of doing each Gaudí house separately (which means 4-5 hours total once you add walking, queues and self-guided exploration), this tour compresses the highlights into 3 hours with a live narrator explaining Gaudí's chronological evolution from Casa Vicens (his first major work, Oriental-influenced) to Casa Milà (mature Modernisme, controversial when built) to Casa Batlló (the dragon-themed fantasy that put Barcelona on the modernist map).

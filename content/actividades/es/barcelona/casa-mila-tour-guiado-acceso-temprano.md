@@ -85,7 +85,7 @@ preguntasFrecuentes:
   - pregunta: "¿Por qué solo en inglés y chino?"
     respuesta: "GetYourGuide Originals — su línea de producto propio — destina guías a mercados específicos. La versión en inglés es la líder en volumen; el chino (mandarín) cubre el turismo asiático que es un segmento importante de Casa Milà. Español NO se ofrece aquí. Si necesitas español, el ticket audio estándar (t913286) tiene audioguía en español; narración en directo en español requiere otro operador (el combo 3 Casas Gaudí de The Touring Pandas, pero ese es un combo de 3 horas, no solo Casa Milà)."
 
-variantes: ["casa-mila-la-pedrera-entrada-audioguia", "casa-mila-experiencia-nocturna-con-cava", "casa-mila-entrada-audioguia-viator", "casa-batllo-entrada-con-audioguia"]
+variantes: ["casa-mila-la-pedrera-entrada-audioguia", "casa-mila-experiencia-nocturna-con-cava", "casa-batllo-entrada-con-audioguia"]
 
 opinionEditorial: |
   Producto «Originals» de GetYourGuide para Casa Milà — tour guiado en grupo reducido con acceso pre-apertura. 220 reseñas con 4,8/5 (top rated) es una de las notas más altas del catálogo GYG de Casa Milà. La propuesta es enfocada y limpia: en vez de competir en precio (40 € vs 25 € audio estándar), este producto se dirige a la minoría comprometida que valora específicamente (a) sin multitudes en el edificio, (b) narración en directo con alguien al que preguntar, y (c) acceso a zonas restringidas. A ~40 € vs 25 € del ticket audio, la prima de ~15 € es razonable. GetYourGuide nota que el 90% de viajeros angloparlantes le dio puntuación perfecta — señal con sentido de que el producto cumple su promesa premium.

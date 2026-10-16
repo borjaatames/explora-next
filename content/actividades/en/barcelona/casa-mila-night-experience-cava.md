@@ -87,7 +87,7 @@ preguntasFrecuentes:
   - pregunta: "Why only 4.4/5 vs 4.7 for the daytime audio?"
     respuesta: "Expectation mismatch is the main driver of negative reviews. Some visitors expect a full live-guided tour and get short intros + multimedia. Others expect a longer show on the rooftop. The product is honestly described as «semi-guided with audiovisual shows» — those who book understanding that find it good value; those who expect more guide time find it lacking. The 4.4 is still «very good» on the GetYourGuide scale; it's the comparison with the same building's audio ticket at 4.7 that makes it look weaker."
 
-variantes: ["casa-mila-la-pedrera-audio-ticket", "casa-mila-early-morning-access-guided-tour", "casa-mila-audio-admission-viator", "casa-batllo-night-visit-live-music"]
+variantes: ["casa-mila-la-pedrera-audio-ticket", "casa-mila-early-morning-access-guided-tour", "casa-batllo-night-visit-live-music"]
 
 opinionEditorial: |
   Casa Milà's signature night experience — 4,913 reviews at 4.4/5, vendida directly by GetYourGuide (with the «Official ticket» badge because Casa Milà / Fundació Catalunya La Pedrera is the underlying operator). The pitch is clean: 1.5-hour semi-guided night visit + light/sound projections in the courtyards + audiovisual mapping show on the rooftop + cava at the end, at €39,50 (official) or ~€42 on GetYourGuide. The rating 4.4/5 is solid but visibly lower than the daytime audio ticket's 4.7 — the gap is driven by expectation mismatch (visitors expecting a fully live-guided tour get short intros + multimedia, which can disappoint if you didn't read the listing).

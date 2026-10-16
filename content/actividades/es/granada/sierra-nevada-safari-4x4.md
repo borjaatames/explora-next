@@ -83,9 +83,7 @@ preguntasFrecuentes:
 - pregunta: ¿Vale la pena con niños?
   respuesta: Sí, especialmente si les gusta la montaña. Los paseos son cortos, el 4x4 es atractivo y las vistas son fotogénicas.
     Eso sí, son 6-7 horas en total — para niños muy pequeños puede ser largo. A partir de 5-6 años funciona bien.
-variantes:
-- sierra-nevada-raquetas-senderismo
-- ebike-sierra-nevada-aldeas
+variantes: []
 opinionEditorial: 'La excursión natural mejor valorada de Granada con diferencia: 4,9 / 5 sobre 1.718 reseñas. Combina lo
   que pocas excursiones consiguen: alta montaña accesible para todos (sin trekking serio), 4x4 por pistas que no se hacen
   en coche normal, grupo reducido (máx 8 personas) y un refugio panorámico a 2.500 m con bebida incluida. La distinción «Likely

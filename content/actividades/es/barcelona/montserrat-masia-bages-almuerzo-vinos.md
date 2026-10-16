@@ -82,8 +82,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-medio-dia-grupo-pequeno"
-  - "montserrat-virgen-negra-y-bodega-medieval"
-  - "montserrat-bodega-tapas-y-cremallera"
   - "montserrat-tour-privado-recogida-hotel"
 
 opinionEditorial: |

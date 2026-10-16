@@ -84,8 +84,7 @@ preguntasFrecuentes:
   respuesta: 'Llega pronto — 20 minutos antes idealmente. Las mesas se asignan por orden de llegada, no por reserva previa.
     Evita la última fila lateral: varias reseñas mencionan obstrucciones de visión, sobre todo cuando entra gente con retraso
     y se queda de pie momentáneamente.'
-variantes:
-- flamenco-las-carboneras-viator
+variantes: []
 opinionEditorial: 'Es uno de los tablaos de referencia del centro de Madrid, etiquetado «top rated» y «likely to sell out»
   en GetYourGuide con 4,7/5 sobre 758 reseñas. Está en el sótano del antiguo palacio del Conde de Miranda, en el barrio de
   los Austrias — ubicación inmejorable, a 5 minutos de Plaza Mayor. El formato es íntimo, aforo reducido, con cuadro flamenco

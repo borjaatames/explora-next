@@ -84,7 +84,7 @@ preguntasFrecuentes:
   - pregunta: "What does «Hotel pickup and drop-off» actually include?"
     respuesta: "GetYourGuide lists it as included, but this applies specifically to the longer/premium option, NOT the 75-minute basic at ~€29. The basic option is meeting-point-only at Ctra. del Carmel 23. If you want hotel pickup, check the price for the upgraded option at booking — typically €15-25 more depending on hotel location."
 
-variantes: ["park-guell-gaudi-tour-fast-track-ticket", "park-guell-skip-line-guided-tour-classic", "park-guell-skip-line-tour-viator-golden", "park-guell-admission-ticket"]
+variantes: ["park-guell-gaudi-tour-fast-track-ticket", "park-guell-skip-line-guided-tour-classic", "park-guell-admission-ticket"]
 
 opinionEditorial: |
   GetYourGuide's #1 selling Park Güell guided tour by a wide margin — 19,407 reviews at 4.7/5, more than 10x the volume of the next guided option (t597287 with 1,851). The operator is Golden Tour Guide, certified by the Barcelona Tourism Authority, and the same team behind their Viator listing (which on Viator has only 511 reviews — most of their booking volume flows through GetYourGuide). The format that wins them this volume: official-guide narration, headsets included (huge difference in groups of 25+), skip-the-line entry, flexible duration options (75 min basic up to 3 hours premium).

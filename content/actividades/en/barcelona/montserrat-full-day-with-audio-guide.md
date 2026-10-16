@@ -82,7 +82,6 @@ variantes:
   - "montserrat-rack-railway-black-madonna"
   - "montserrat-rack-railway-winery-castlexperience"
   - "montserrat-basilica-and-transfers"
-  - "montserrat-winery-and-tapas-castlexperience"
 
 opinionEditorial: |
   The alternative to Julià Travel for the classic rack railway + monastery + Moreneta (optional). The operator (Catalunya Bus Turístic) is less famous but has 2,400+ reviews at 4.6 stars, so it's solid. The bundled audio guide is a plus if you like to deepen after the guided tour.
@@ -138,6 +137,6 @@ If you booked the Moreneta option, you access the chamber to see her. If you boo
 ## Who I would NOT recommend it to
 
 - If you expect a single-language group. Here it's bilingual. See [the Mont Escape small group](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group) for single-language guide.
-- If you want winery and oenology in the plan — see [Castlexperience with winery](/en/cities/barcelona/activities/montserrat-winery-and-tapas-castlexperience).
+- If you want winery and oenology in the plan — see [Castlexperience with winery](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience).
 - If you'll improvise your day — the classic 7-hour guided tour format is structured, not flexible.
 - If your priority is nature over the monastery — see [variants with cable car and hike](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group).

@@ -88,7 +88,7 @@ preguntasFrecuentes:
   - pregunta: "¿Puedo visitar una noche lluviosa?"
     respuesta: "Sí — la visita opera con lluvia o sol. La terraza es parcialmente al aire libre (la zona de las chimeneas-dragón), así que lluvia fuerte puede limitar el tiempo fuera, pero el grueso de la visita es interior. Casa Batlló no cancela visitas nocturnas por mal tiempo (a diferencia del concierto con Música en Vivo que sí puede cancelarse si el tiempo hace insegura la terraza)."
 
-variantes: ["casa-batllo-visita-nocturna-musica-en-vivo", "casa-batllo-entrada-con-audioguia", "casa-batllo-tour-guia-experto-viator", "casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi"]
+variantes: ["casa-batllo-visita-nocturna-musica-en-vivo", "casa-batllo-entrada-con-audioguia", "casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi"]
 
 opinionEditorial: |
   El ticket nocturno más vendido de Casa Batlló en GetYourGuide — 1.930 reseñas con 4,4/5, con mucho el mayor volumen entre los productos de visita nocturna. Oficial, vendido directamente por Casa Batllo SLU. La propuesta es limpia: visita nocturna por la casa iluminada + cava de bienvenida, a aproximadamente el mismo precio que el ticket Silver diurno estándar (~31 €). El sentimiento de las reseñas es positivo (66% 5 estrellas, 18% 4 estrellas) con la queja recurrente principal siendo «mucha gente» — incluso de noche Casa Batlló es una atracción popular de Barcelona y las franjas de 20:30 pueden llenarse.

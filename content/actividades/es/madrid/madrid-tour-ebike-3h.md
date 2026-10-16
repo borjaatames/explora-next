@@ -92,8 +92,6 @@ preguntasFrecuentes:
     la atención al tráfico es exigente. Para familias con niños más pequeños, mejor opción es el segway por Retiro (terreno
     cerrado, sin tráfico) o un tour a pie.
 variantes:
-- madrid-bici-ebike-retiro-letras-viator
-- madrid-ebike-sunset-tour
 - magic-retiro-park-bike-tour
 opinionEditorial: 'Es el tour clásico de e-bike por Madrid en GetYourGuide: 4,5/5 sobre 196 reseñas, operado por Wonder Tours
   Spain. La nota del guía es 4,8/5, la del transporte (bicicletas) 4,6/5 y la relación calidad-precio 4,5/5 — todas altas.

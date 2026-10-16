@@ -82,7 +82,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-rack-railway-winery-castlexperience"
-  - "montserrat-winery-and-tapas-castlexperience"
   - "montserrat-half-day-small-group"
   - "montserrat-full-day-with-audio-guide"
 
@@ -141,4 +140,4 @@ Return to Barcelona in the afternoon — total duration between 5 and 7 hours de
 - If you expect a single-language group (Spanish-only or English-only). Here it's bilingual in the same group. For a single-language guarantee, see [the private tour](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup).
 - If your priority is nature (hiking, Sant Joan funicular, viewpoints). Consider [the cable car and easy hike variant](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group).
 - If you want a more intimate small-group experience. Coaches tend to be full.
-- If wine is your interest — this variant does NOT include winery. See [Castlexperience with winery](/en/cities/barcelona/activities/montserrat-winery-and-tapas-castlexperience).
+- If wine is your interest — this variant does NOT include winery. See [Castlexperience with winery](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience).

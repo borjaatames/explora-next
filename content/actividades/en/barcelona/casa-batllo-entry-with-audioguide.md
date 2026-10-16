@@ -100,7 +100,6 @@ variantes:
 - casa-batllo-night-visit-live-music
 - casa-batllo-night-visit-welcome-drink
 - casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour
-- casa-batllo-expert-guide-tour-viator
 opinionEditorial: 'The flagship Casa Batlló ticket — official, sold directly by Casa Batllo SLU on GetYourGuide. 27,982 reviews
   at 4.7/5 is the largest review volume of any Casa Batlló product, beating the next best (the Night Visit with Live Music
   at 377 reviews) by two orders of magnitude. The rating breakdown is exceptional: 79% 5-star, 14% 4-star, 4% 3-star, 1% 2-star,

@@ -104,7 +104,6 @@ preguntasFrecuentes:
     is enough — the museum content is what justifies the visit, not the gamified extras.
 variantes:
 - camp-nou-fc-barcelona-museum-total-experience-pass
-- camp-nou-museum-open-date-viator
 opinionEditorial: 'Official FC Barcelona Museum ticket during the Camp Nou renovation period (2022-2028) — 12,092 reviews
   at 4.3/5, sold directly by FC Barcelona. The product is honestly named: it''s a museum visit with the «Barça Immersive Tour»
   format (interactive exhibits, 360° room, construction viewpoint), NOT a stadium tour. The recurring positive sentiment focuses

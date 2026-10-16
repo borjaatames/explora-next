@@ -77,9 +77,7 @@ preguntasFrecuentes:
   respuesta: No. Going up the towers is not part of this visit.
 variantes:
 - barcelona-in-one-day-sagrada-familia-park-guell
-- gaudi-and-sagrada-familia-private-tour
 - sagrada-familia-skip-the-line-guided-tour
-- sagrada-familia-express-guided-tour
 opinionEditorial: 'This is the clean combo: Gaudí''s two masterpieces — Park Güell and the Sagrada Familia — in a half-day
   guided tour, with skip-the-line tickets to both and transport between them. Compared with the full-day tours, this one has
   a clear advantage: the guide **does go in with you** to both monuments and explains inside, rather than just dropping you

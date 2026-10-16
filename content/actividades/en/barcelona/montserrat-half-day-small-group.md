@@ -85,7 +85,6 @@ preguntasFrecuentes:
 variantes:
   - "montserrat-rack-railway-black-madonna"
   - "montserrat-basilica-and-transfers"
-  - "montserrat-winery-and-tapas-castlexperience"
   - "montserrat-bages-farmhouse-lunch-and-wine"
 
 opinionEditorial: |

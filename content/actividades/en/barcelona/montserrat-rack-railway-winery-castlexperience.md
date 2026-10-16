@@ -83,9 +83,6 @@ preguntasFrecuentes:
   respuesta: The tour runs in rain except in extreme conditions. The coach and monastery interiors are covered; the rack railway
     isn't affected by light rain. If the operator cancels for weather, 100% refund.
 variantes:
-- montserrat-winery-and-tapas-castlexperience
-- montserrat-rack-railway-winery-and-tapas
-- montserrat-black-madonna-and-medieval-winery
 - montserrat-rack-railway-black-madonna
 opinionEditorial: 'The Castlexperience variant on GetYourGuide and the most complete of its catalog. €47 for the basic option
   with rack railway included is competitive, and if you upgrade to the option with winery and tapas (~€57) you essentially
@@ -97,8 +94,7 @@ opinionEditorial: 'The Castlexperience variant on GetYourGuide and the most comp
   in the platform.
 
 
-  Worth knowing: groups are 20 people and the operator shares transport with other groups. For an intimate format, see [In
-  Out with hotel pickup](/en/cities/barcelona/activities/montserrat-small-group-hotel-pickup).
+  Worth knowing: groups are 20 people and the operator shares transport with other groups. For an intimate format, see [the small-group tour with hotel pickup](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup).
 
   '
 atraccionesRelacionadas:

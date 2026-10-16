@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "¿Qué pasa si visito en día de partido?"
     respuesta: "Desde las 12:00 del día anterior a un partido y hasta la reapertura el día después, los vestuarios y banquillos están cerrados. Solo están disponibles el Museo Real Madrid y la vista panorámica del estadio. La parte más valorada del Tour (vestuarios y zona pitchside) se pierde. Consulta el calendario del Real Madrid antes de fijar fecha."
 
-variantes: ["bernabeu-ticket-acceso", "madrid-city-tour-bernabeu-viator"]
+variantes: ["bernabeu-ticket-acceso"]
 
 opinionEditorial: |
   Es la versión guiada del Tour Bernabéu en GetYourGuide, operada por Julia Travel Gray Line. 4,1/5 con 1.532 reseñas y catalogado «likely to sell out» en alta demanda. La nota del guía es 4,3/5 — buena, no excepcional. Las reseñas elogian repetidamente a los guías por su conocimiento del club, lo que justifica la diferencia respecto al ticket autoguiado si valoras el contexto histórico.

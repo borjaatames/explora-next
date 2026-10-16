@@ -87,8 +87,6 @@ preguntasFrecuentes:
   respuesta: Recommended minimum age around 14. Below that, the e-bike size doesn't adjust well and traffic attention is demanding.
     For families with smaller kids, a better option is the Retiro segway (enclosed area, no traffic) or a walking tour.
 variantes:
-- retiro-park-literary-quarter-ebike-viator
-- madrid-ebike-sunset-tour
 - magic-retiro-park-bike-tour
 opinionEditorial: 'This is the classic e-bike tour of Madrid on GetYourGuide: 4.5/5 across 196 reviews, operated by Wonder
   Tours Spain. Guide score is 4.8/5, transport (bikes) 4.6/5 and value for money 4.5/5 — all high. Reviews mention specific

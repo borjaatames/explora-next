@@ -80,7 +80,6 @@ preguntasFrecuentes:
     respuesta: "No. El tour incluye maridaje con 4 vinos españoles y la edad mínima es 18 años. Si viajas con niños, busca un tour de tapas sin enfoque en vino."
 
 variantes:
-  - "tour-tapas-vinos-barrio-letras"
   - "tour-tapas-vino-azotea-madrid"
   - "tour-tapas-delicias-madrid"
 

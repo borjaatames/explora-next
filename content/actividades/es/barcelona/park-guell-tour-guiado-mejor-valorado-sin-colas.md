@@ -84,7 +84,7 @@ preguntasFrecuentes:
   - pregunta: "¿Qué incluye exactamente la «Recogida y regreso en hotel»?"
     respuesta: "GetYourGuide lo lista como incluido, pero solo aplica a la opción larga/premium, NO al básico de 75 min a ~29 €. El básico solo incluye punto de encuentro en Ctra. del Carmel 23. Si quieres recogida en hotel, mira el precio de la opción mejorada al reservar — típicamente 15-25 € más según ubicación del hotel."
 
-variantes: ["park-guell-tour-fast-track-gaudi", "park-guell-tour-guiado-skip-line-clasico", "park-guell-tour-sin-colas-viator-golden", "park-guell-entrada-zona-monumental"]
+variantes: ["park-guell-tour-fast-track-gaudi", "park-guell-tour-guiado-skip-line-clasico", "park-guell-entrada-zona-monumental"]
 
 opinionEditorial: |
   El tour guiado del Park Güell más vendido de GetYourGuide por amplio margen — 19.407 reseñas con 4,7/5, más de 10× el volumen de la siguiente opción guiada (t597287 con 1.851). El operador es Golden Tour Guide, certificado por Turismo de Barcelona, y el mismo equipo detrás de su listado en Viator (que allí tiene solo 511 reseñas — la mayoría de su volumen de reservas pasa por GetYourGuide). El formato que les da este volumen: narración con guía oficial, auriculares incluidos (gran diferencia en grupos de 25+), entrada sin colas, opciones de duración flexible (75 min básico hasta 3 horas premium).

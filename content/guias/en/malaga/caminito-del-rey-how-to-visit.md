@@ -39,7 +39,6 @@ faq:
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Guided tour with transport and ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
-| [Guided day trip with transport](/en/cities/malaga/activities/caminito-del-rey-day-trip-from-malaga) | 4.8★ (726) | €66 |
 
 The golden rule: **no ticket, no entry**, and it sells out weeks or months ahead. If your Málaga trip revolves around the Caminito, book it before even your accommodation.
 

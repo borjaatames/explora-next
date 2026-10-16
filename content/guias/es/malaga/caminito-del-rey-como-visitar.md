@@ -39,7 +39,6 @@ faq:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour guiado con transporte y entrada](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
-| [Excursión guiada con transporte](/ciudades/malaga/actividades/caminito-del-rey-desde-malaga) | 4,8★ (726) | 66 € |
 
 La regla de oro: **sin entrada no se entra**, y se agota con semanas o meses de antelación. Si tu viaje a Málaga gira en torno al Caminito, reserva antes incluso que el alojamiento.
 

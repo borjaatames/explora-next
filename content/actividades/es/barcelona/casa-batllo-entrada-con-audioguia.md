@@ -101,7 +101,6 @@ variantes:
 - casa-batllo-visita-nocturna-musica-en-vivo
 - casa-batllo-visita-nocturna-copa-cava-bienvenida
 - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
-- casa-batllo-tour-guia-experto-viator
 opinionEditorial: 'El ticket estrella de Casa Batlló — oficial, vendido directamente por Casa Batllo SLU en GetYourGuide.
   27.982 reseñas con 4,7/5 es el mayor volumen de reseñas de cualquier producto de Casa Batlló, dejando atrás al siguiente
   mejor (la Visita Nocturna con Música en Vivo con 377 reseñas) por dos órdenes de magnitud. El desglose de la valoración

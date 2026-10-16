@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "What happens if I visit on a match day?"
     respuesta: "From 12:00 on the day before a match until reopening the day after, dressing rooms and benches are closed. Only the Real Madrid Museum and the panoramic view of the stadium are available. The most valued part of the Tour (dressing rooms and pitchside) is missed. Check the Real Madrid calendar before fixing a date."
 
-variantes: ["bernabeu-entry-ticket", "madrid-city-tour-bernabeu-viator"]
+variantes: ["bernabeu-entry-ticket"]
 
 opinionEditorial: |
   This is the guided version of the Bernabéu Tour on GetYourGuide, operated by Julia Travel Gray Line. 4.1/5 across 1,532 reviews and flagged as «likely to sell out» in high demand. The guide score is 4.3/5 — good, not exceptional. Reviews repeatedly praise the guides for their knowledge of the club, which justifies the gap over the self-guided ticket if you value historical context.

@@ -82,8 +82,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-teleferico-y-caminata-grupo-pequeno"
-  - "montserrat-teleferico-y-caminata-viator"
-  - "montserrat-grupo-pequeno-recogida-hotel"
   - "montserrat-tour-privado-recogida-hotel"
 
 opinionEditorial: |
@@ -137,7 +135,7 @@ Vuelta a Barcelona en 55 minutos. Duración total: 6 horas. El grupo es de máxi
 
 ## A quién NO se lo recomiendo
 
-- Si tu prioridad es la bodega y la enología — esta variante no la incluye. Mira [Castlexperience con bodega](/ciudades/barcelona/actividades/montserrat-bodega-y-tapas-castlexperience).
+- Si tu prioridad es la bodega y la enología — esta variante no la incluye. Mira [Castlexperience con bodega](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience).
 - Si esperas el tren cremallera icónico — aquí usan furgoneta y funicular. Mira [variantes con cremallera](/ciudades/barcelona/actividades/montserrat-cremallera-virgen-negra).
 - Si tu objetivo es solo el monasterio (sin caminata ni funicular). El precio (68 €) viene del paquete completo; si solo quieres lo cultural, [la opción más barata](/ciudades/barcelona/actividades/montserrat-basilica-y-traslados) son 41 €.
 - Si tienes vértigo severo. El funicular puede ser intenso.

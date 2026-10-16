@@ -81,7 +81,7 @@ preguntasFrecuentes:
   - pregunta: "Why so few reviews?"
     respuesta: "It's a relatively new or small-operator product (Descubre Tours, local freelance). 55 reviews is low volume compared to massive tours with hundreds, but the rating is exceptional (4.9/5 with the guide rated a perfect 5/5). It's a less-validated product by volume but with very high average quality. If you want more volume, there are old-town tours with thousands of reviews — those, however, run in larger groups."
 
-variantes: ["madrid-los-austrias-private-walking-tour-viator"]
+variantes: []
 
 opinionEditorial: |
   This is the «small group» version of the classic Habsburg Madrid walking tour: max 10 people (vs the usual 25-30 of free tours), 2 hours, canonical route from the Mariblanca of Puerta del Sol to the Royal Palace. Exceptional rating: 4.9/5 with the guide rated a perfect 5/5. Modest volume (55 reviews) — less-validated product by quantity but with very high average quality. The name Osmel appears in multiple reviews as a differentiating factor.

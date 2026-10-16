@@ -88,7 +88,7 @@ preguntasFrecuentes:
   - pregunta: "Can I visit on a rainy night?"
     respuesta: "Yes — the visit operates rain or shine. The rooftop terrace is partly open-air (the dragon chimney area), so heavy rain may limit time outside, but the bulk of the visit is interior. Casa Batlló doesn't cancel night visits for weather (unlike the Live Music concert which can be cancelled if weather makes the rooftop unsafe)."
 
-variantes: ["casa-batllo-night-visit-live-music", "casa-batllo-entry-with-audioguide", "casa-batllo-expert-guide-tour-viator", "casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour"]
+variantes: ["casa-batllo-night-visit-live-music", "casa-batllo-entry-with-audioguide", "casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour"]
 
 opinionEditorial: |
   Casa Batlló's #1 selling night ticket on GetYourGuide — 1,930 reviews at 4.4/5, by far the highest volume among the night-visit products. Official, sold directly by Casa Batllo SLU. The pitch is clean: night-time visit through the illuminated house + welcome cava, at approximately the same price as the standard daytime Silver ticket (~€31). The reviewer mood is positive (66% 5-star, 18% 4-star) with the main recurring complaint being «too crowded» — even at night, Casa Batlló is a popular Barcelona attraction and 8:30 PM slots can fill up.

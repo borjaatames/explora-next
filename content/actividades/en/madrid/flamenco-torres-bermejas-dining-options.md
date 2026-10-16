@@ -79,7 +79,7 @@ preguntasFrecuentes:
   - pregunta: "How do I make sure of a good seat?"
     respuesta: "Arrive early (1 hour ahead if you book dinner, 20 minutes if only show). Tables are assigned on the spot. Reviews recurrently complain about lateral seats — ask explicitly for a central or front table on arrival; they won't always give it to you but it's worth trying."
 
-variantes: ["flamenco-tablao-las-carboneras", "flamenco-las-carboneras-tapa-drink-viator", "essential-flamenco-admission-viator"]
+variantes: ["flamenco-tablao-las-carboneras"]
 
 opinionEditorial: |
   This is the most-validated tablao in Madrid on GetYourGuide: 4.5/5 across 10,330 reviews, certified by GetYourGuide and «likely to sell out». Opened in 1960 with decor inspired by the Torres Bermejas of the Alhambra (carved wooden ceilings, Arab tiles), it's right in the Gran Vía area. Very competitive base price — around €30 — and a catalogue of dinner options ranging from a loose drink to a 3-course menu.

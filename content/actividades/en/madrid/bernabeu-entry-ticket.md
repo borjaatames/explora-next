@@ -88,7 +88,6 @@ preguntasFrecuentes:
     it carefully.
 variantes:
 - bernabeu-guided-tour
-- madrid-city-tour-bernabeu-viator
 opinionEditorial: 'This is the official Bernabéu Tour ticket sold by GetYourGuide as a distributor: 4.5/5 across more than
   23,000 reviews — the stadium product with the highest volume of validation, and flagged as «likely to sell out» in peak
   demand. The route covers the renovated stadium: museum with the trophy collection (including the 15th Champions League),

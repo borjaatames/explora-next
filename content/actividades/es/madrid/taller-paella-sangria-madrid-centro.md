@@ -84,7 +84,7 @@ preguntasFrecuentes:
   - pregunta: "¿Cuándo es mejor reservarlo, mediodía o noche?"
     respuesta: "Hay horarios de mediodía (comida) y de noche (cena). El mediodía sirve si quieres aprovechar la tarde para otras visitas. La noche encaja como plan de cierre del día. Las dos opciones reciben reseñas excelentes."
 
-variantes: ["spanish-cooking-class-viator", "paella-sangria-classes-private-viator", "10-tapas-cooking-class-viator"]
+variantes: []
 
 opinionEditorial: |
   Es uno de los productos gastronómicos mejor valorados de Madrid: 4,9/5 sobre 1.448 reseñas, top rated, con «91% de viajeros angloparlantes dándole nota máxima». Taller práctico de 3 horas: preparas sangría, cocinas paella tradicional (pollo y marisco) con chef local, y te llevas las recetas detalladas para casa. El precio (61 euros) incluye instructor, ingredientes, taller, comida o cena y bebida. Operador: Travel Vibes Agency.

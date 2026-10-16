@@ -302,7 +302,21 @@ const nextConfig = {
     //    Viator. Ver funciones obtenerActividadesDespublicadas() /
     //    tieneActividadesPublicadas() / destinoParaCiudadSinActividad()
     //    arriba para el porqué.
+    //    Además de las despublicadas que siguen en content/, se mantienen
+    //    los redirects de las fichas de Viator ya BORRADAS del repo (oct 2026):
+    //    su lista fija vive en lib/actividades-retiradas-viator.json.
     const despublicadas = obtenerActividadesDespublicadas();
+    const retiradasViator = require("./lib/actividades-retiradas-viator.json");
+    for (const idioma of ["es", "en"]) {
+      const vistos = new Set(
+        despublicadas[idioma].map(({ ciudad, slug }) => `${ciudad}/${slug}`)
+      );
+      for (const { ciudad, slug } of retiradasViator[idioma]) {
+        if (vistos.has(`${ciudad}/${slug}`)) continue;
+        vistos.add(`${ciudad}/${slug}`);
+        despublicadas[idioma].push({ ciudad, slug });
+      }
+    }
     for (const { ciudad, slug } of despublicadas.es) {
       const destino = tieneActividadesPublicadas("es", ciudad)
         ? `/ciudades/${ciudad}/actividades`

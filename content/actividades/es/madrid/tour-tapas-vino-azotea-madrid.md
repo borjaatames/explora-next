@@ -80,7 +80,6 @@ preguntasFrecuentes:
     respuesta: "Gourmet Madrid (77€) es más corto (3 horas), grupo más pequeño, centrado únicamente en el Barrio de las Letras. Este tour de World Experience (83€) es más largo (4 horas), cubre 3 barrios, termina en una azotea y los grupos son un poco más amplios. Reserva este si quieres la azotea y la variedad de barrios. Reserva Gourmet Madrid si prefieres profundizar en una sola zona."
 
 variantes:
-  - "tour-tapas-vinos-barrio-letras"
   - "tour-tapas-delicias-madrid"
   - "aventura-vino-tapas-la-latina"
 

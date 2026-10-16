@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "¿Es realmente «mágico» como dice el nombre?"
     respuesta: "El nombre es marketing del operador. Lo que sí es real: el Retiro es uno de los parques urbanos más bonitos de Europa, con monumentos repartidos y mucha historia. La parte «mágica» depende del guía — algunos (Crystal, Alan, Alen, André) reciben mención por nombre en las reseñas, lo que indica que la experiencia humana marca la diferencia. La nota del guía es 4,9/5."
 
-variantes: ["madrid-bici-ebike-retiro-letras-viator", "segway-retiro-park-viator", "madrid-tour-ebike-3h"]
+variantes: ["madrid-tour-ebike-3h"]
 
 opinionEditorial: |
   Es el tour en bici dedicado al Parque del Retiro: 4,8/5 sobre 73 reseñas, top rated, con guía valorado en 4,9/5. Grupo reducido a 10 personas. Recorrido completo por el parque (Palacio de Cristal, La Rosaleda, Bosque del Recuerdo, Estanque, Ángel Caído, etc.). Operador: Madrid Segway, aunque la actividad es en bici tradicional o eléctrica. Precio competitivo desde 31 euros, con casco y fotos incluidas.

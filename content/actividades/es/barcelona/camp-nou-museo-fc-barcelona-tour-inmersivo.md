@@ -104,7 +104,6 @@ preguntasFrecuentes:
     — el contenido del museo es lo que justifica la visita, no los extras gamificados.
 variantes:
 - camp-nou-museo-fc-barcelona-pase-total-experience
-- camp-nou-museo-fecha-flexible-viator
 opinionEditorial: 'Ticket oficial del Museo FC Barcelona durante el periodo de renovación del Camp Nou (2022-2028) — 12.092
   reseñas con 4,3/5, vendido directamente por FC Barcelona. El producto está nombrado honestamente: es una visita museística
   con el formato «Barça Immersive Tour» (exposiciones interactivas, sala 360°, mirador de la construcción), NO un tour del

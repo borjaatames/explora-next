@@ -72,7 +72,7 @@ preguntasFrecuentes:
   - pregunta: "Is it wheelchair accessible?"
     respuesta: "The operator does not specify it, and Park Güell has slopes and uneven ground in its first section. If accessibility is essential, confirm it directly with the operator before booking."
 
-variantes: ["sagrada-familia-and-park-guell-guided-tour", "barcelona-in-one-day-sagrada-familia-park-guell", "gaudi-and-sagrada-familia-private-tour", "sagrada-familia-skip-the-line-guided-tour"]
+variantes: ["sagrada-familia-and-park-guell-guided-tour", "barcelona-in-one-day-sagrada-familia-park-guell", "sagrada-familia-skip-the-line-guided-tour"]
 
 opinionEditorial: |
   This is the clean combo on GetYourGuide: Gaudí's two masterpieces — Park Güell and the Sagrada Familia — in one guided tour, with skip-the-line tickets to both and private bus transport in between. The guide goes inside with you, and the score is excellent: 4.8 out of 5, with the guide and the transport rated even higher. For seeing both icons in half a day without organising anything, it works well.

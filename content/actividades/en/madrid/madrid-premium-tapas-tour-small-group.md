@@ -81,8 +81,6 @@ preguntasFrecuentes:
     respuesta: "Maximum 10. Recent reviews mention groups of 4-8 people more often than the full cap. The small-group format is the main reason this tour costs €135 instead of €70-80."
 
 variantes:
-  - "madrid-wine-and-tapas-tour"
-  - "madrid-tapas-and-wine-tour-with-local-guide"
   - "madrid-tapas-rooftop-tour"
 
 opinionEditorial: |

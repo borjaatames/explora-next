@@ -83,8 +83,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-funicular-caminata-panoramica"
-  - "montserrat-teleferico-y-caminata-viator"
-  - "montserrat-grupo-pequeno-recogida-hotel"
   - "montserrat-tour-privado-recogida-hotel"
 
 opinionEditorial: |

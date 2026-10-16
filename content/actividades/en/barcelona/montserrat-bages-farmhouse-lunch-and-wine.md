@@ -82,8 +82,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-half-day-small-group"
-  - "montserrat-black-madonna-and-medieval-winery"
-  - "montserrat-rack-railway-winery-and-tapas"
   - "montserrat-private-tour-hotel-pickup"
 
 opinionEditorial: |

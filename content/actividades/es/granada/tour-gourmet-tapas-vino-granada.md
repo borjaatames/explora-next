@@ -74,7 +74,7 @@ preguntasFrecuentes:
   - pregunta: "¿Qué tipo de tapas hay?"
     respuesta: "Cinco tapas distintas — el operador alterna entre los 5 restaurantes que cubren las zonas más conocidas del centro: Carlos Cano, Reyes Católicos, Bib-Rambla, Elvira (la calle de las tapas) y Santa Ana. Cada bar tiene su especialidad. Es una buena introducción a la cultura del tapeo granadino (donde la tapa SUELE venir gratis con la bebida)."
 
-variantes: ["granada-food-tour-small-group", "granada-tapas-noche", "ebike-tapas-granada"]
+variantes: []
 
 opinionEditorial: |
   La opción más barata y autónoma de tour gastro en Granada: 42 € por 5 paradas con tapa y bebida incluida. Formato autoguiado — sin guía físico, sin horario fijo, sin grupo. Recibes los QR por WhatsApp el día antes y vas canjeando en cada bar a tu ritmo. Ideal para parejas o amigos que prefieren autonomía.

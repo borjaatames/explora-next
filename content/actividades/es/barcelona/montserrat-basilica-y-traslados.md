@@ -161,4 +161,4 @@ Trayecto Barcelona-Montserrat: 1 hora aproximadamente. Tour guiado de 1 hora a t
 - Si tu prioridad es ver y tocar la Virgen Negra. Aquí NO se incluye. Mira [Julia Travel con Moreneta](/ciudades/barcelona/actividades/montserrat-cremallera-virgen-negra) o cualquier variante que la incluya explícitamente.
 - Si esperas el tren cremallera icónico — no está aquí. Mira [variantes con cremallera](/ciudades/barcelona/actividades/montserrat-cremallera-virgen-negra).
 - Si vas a improvisar sin plan. 3 horas libres pueden quedarse cortas o largas dependiendo de tu energía.
-- Si quieres una experiencia integral (cultural + gastronómica). Mira [la opción con bodega y tapas](/ciudades/barcelona/actividades/montserrat-bodega-y-tapas-castlexperience).
+- Si quieres una experiencia integral (cultural + gastronómica). Mira [la opción con bodega y tapas](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience).

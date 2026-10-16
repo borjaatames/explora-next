@@ -83,8 +83,6 @@ preguntasFrecuentes:
 
 variantes:
   - "montserrat-funicular-scenic-hike"
-  - "montserrat-cable-car-and-easy-hike-viator"
-  - "montserrat-small-group-hotel-pickup"
   - "montserrat-private-tour-hotel-pickup"
 
 opinionEditorial: |

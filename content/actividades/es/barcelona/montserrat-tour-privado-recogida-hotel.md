@@ -84,7 +84,6 @@ preguntasFrecuentes:
     respuesta: "El acceso al monasterio y la basílica están incluidos. La Sala del Trono donde está la Moreneta no se incluye explícitamente; el guía te puede ayudar a acceder durante la visita si quieres tocarla (la cola interna puede ser larga)."
 
 variantes:
-  - "montserrat-grupo-pequeno-recogida-hotel"
   - "montserrat-funicular-caminata-panoramica"
   - "montserrat-teleferico-y-caminata-grupo-pequeno"
   - "montserrat-masia-bages-almuerzo-vinos"

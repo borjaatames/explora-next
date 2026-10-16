@@ -87,7 +87,7 @@ preguntasFrecuentes:
   - pregunta: "Is the cava really included or is it just a small taste?"
     respuesta: "A standard glass of cava (typically 12cl pour) — included for adults. Casa Batlló serves Catalan cava (regional sparkling wine). If you want more, the on-site bar sells additional drinks at standard rates. Travellers occasionally report waiting times at the rooftop bar when the concert ends — manage expectations on a busy night."
 
-variantes: ["casa-batllo-night-visit-welcome-drink", "casa-batllo-entry-with-audioguide", "casa-batllo-expert-guide-tour-viator", "casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour"]
+variantes: ["casa-batllo-night-visit-welcome-drink", "casa-batllo-entry-with-audioguide", "casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour"]
 
 opinionEditorial: |
   Casa Batlló's premium night experience — official, sold directly by Casa Batllo SLU. 377 reviews at 4.5/5 is a strong rating for a niche premium product (€64 is more than 2x the basic ticket); the «top pick» status in GetYourGuide's night-tour rankings is well-earned. The 2-hour format: ~1 hour self-guided audio tour through Casa Batlló (illuminated differently at night — the «blue» courtyard becomes more dramatic, the Gaudí Cube hits harder in low light), then ~1 hour reserved-table rooftop concert with cava in hand. The concert programme rotates jazz, soul, and flamenco — the operator works with consistent local bands (reviewers cite specific entertainers by name).

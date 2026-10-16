@@ -72,7 +72,6 @@ preguntasFrecuentes:
   respuesta: 'For anyone with little time in Barcelona who wants to see the most in one day without organising anything: a central meeting point, private transport between points, entry to the Sagrada Familia and Park Güell already sorted, and a guide who threads the city together.'
 variantes:
 - sagrada-familia-and-park-guell-guided-tour
-- gaudi-and-sagrada-familia-private-tour
 - sagrada-familia-ticket-audio-guide
 - sagrada-familia-skip-the-line-guided-tour
 opinionEditorial: 'This is Barcelona''s «all in one day»: you meet in the centre first thing and, over around 7 hours, you see Montjuïc, the old town, the Gothic Quarter, Passeig de Gràcia, Park Güell and the Sagrada Familia, with a guide and private transport on some legs. For anyone landing with a single day and wanting to squeeze it without organising anything, it works — and the score backs it up like few others: 4.9 out of 5 with over 15,000 reviews, the highest.
