@@ -68,21 +68,17 @@ keywords:
 - tablao cardenal
 - cordoba flamenco show
 - flamenco tablao cordoba
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: Flamenco dancer with a train dress on stage
+imagen: "/images/actividades/cordoba/flamenco/guitarra-flamenca.webp"
+imagenAlt: "Flamenco guitarist playing live"
 galeria:
-- src: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-  alt: Flamenco troupe with dancers and musicians
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Flamenco guitarist on stage
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Hand-clapping at a flamenco show
+  alt: "Flamenco guitarist on stage"
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Live flamenco guitar
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Guitarist playing flamenco
-- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-  alt: Flamenco dancing in colourful dresses
+  alt: "Live flamenco guitar"
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: "Mosque-Cathedral tower, opposite the tablao"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Córdoba Jewish Quarter, a few steps from the tablao"
 ratingProveedor: 4.8
 numeroOpiniones: 1167
 atraccionesRelacionadas:

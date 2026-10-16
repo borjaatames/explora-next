@@ -101,8 +101,6 @@ imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp
 imagenAlt: "Gothic courtyard of Palau Finestres, Picasso Museum on Carrer Montcada"
 
 galeria:
-- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
   alt: "Entrance courtyard of one of the Picasso Museum palaces"
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
@@ -115,6 +113,8 @@ galeria:
   alt: "Narrow Gothic Quarter street with balconies"
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero.webp
   alt: "Shaded passageway in the Gothic Quarter"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
 
 ratingProveedor: 4.5
 numeroOpiniones: 3552

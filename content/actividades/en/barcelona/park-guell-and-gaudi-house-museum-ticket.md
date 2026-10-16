@@ -101,10 +101,6 @@ imagenAlt: "Park Güell with the Gaudí House Museum in the background"
 galeria:
 - src: /images/actividades/barcelona/park-guell/pixabay-63820-hero.webp
   alt: "Garden and entrance of the Gaudí House Museum"
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-hero.webp
-  alt: "Gaudí House Museum, the pink house where the architect lived"
-- src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: "Panoramic view of Park Güell with Barcelona behind"
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero.webp
   alt: "Trencadís bench by the palm trees in Park Güell"
 - src: /images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp

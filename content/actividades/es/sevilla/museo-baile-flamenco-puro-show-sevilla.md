@@ -168,20 +168,15 @@ keywords:
 - puro flamenco show sevilla
 - patio ecija flamenco
 - show flamenco patio andaluz sevilla
-imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
-imagenAlt: Bailaora en movimiento con traje flamenco tradicional, brazos levantados y expresión intensa durante actuación
-  en Sevilla
+imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-cuadro-completo-artis-hero.webp"
+imagenAlt: "Cuadro flamenco completo en el escenario del Museo del Baile Flamenco"
 galeria:
 - src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-patio-ecija-xviii-01-hero.webp
-  alt: Patio andaluz colonial con sillas para espectadores, arquitectura sevillana tradicional, naranjos e iluminación teatral
-    profesional
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-cuadro-completo-artis-hero.webp
-  alt: 'Grupo de artistas flamencos actuando en Sevilla: bailaores, guitarrista y cantaor en escena simultáneamente con energía
-    colectiva del espectáculo'
+  alt: "Patio andaluz colonial con sillas para espectadores, arquitectura sevillana tradicional, naranjos e iluminación teatral profesional"
 - src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-guitarra-cantaor-03-hero.webp
-  alt: Guitarrista y cantaor en escena con iluminación teatral, fusionando guitarra y voz en la esencia del flamenco sevillano
+  alt: "Guitarrista y cantaor en escena con iluminación teatral, fusionando guitarra y voz en la esencia del flamenco sevillano"
 - src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-detalle-traje-flamenc-hero.webp
-  alt: Traje flamenco tradicional con volantes y encajes, detalle de la artesanía y elegancia del atuendo de bailaora sevillana.
+  alt: "Traje flamenco tradicional con volantes y encajes, detalle de la artesanía y elegancia del atuendo de bailaora sevillana."
 ratingProveedor: 4.8
 numeroOpiniones: 6456
 publicada: true

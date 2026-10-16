@@ -163,13 +163,11 @@ imagen: "/images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teat
 imagenAlt: Flamenco dancer in traditional dress performing passionately on theater stage
 galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-interior-teatro-asien-hero.webp
-  alt: Theater interior with comfortable red seats, illuminated stage, and audience seating arrangement in Seville venue
+  alt: "Theater interior with comfortable red seats, illuminated stage, and audience seating arrangement in Seville venue"
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-guitarrista-cantaor-d-hero.webp
-  alt: Flamenco guitarist and singer performing live, expressing passion with traditional instruments in Seville
+  alt: "Flamenco guitarist and singer performing live, expressing passion with traditional instruments in Seville"
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-barrio-triana-calle-b-hero.webp
-  alt: Triana street with Guadalquivir River and Seville Cathedral in background, historic gypsy neighborhood atmosphere
-- src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-detalle-flamenco-zapa-hero.webp
-  alt: Flamenco dancer's feet performing rapid footwork, showcasing traditional Spanish dance technique and energy
+  alt: "Triana street with Guadalquivir River and Seville Cathedral in background, historic gypsy neighborhood atmosphere"
 ratingProveedor: 4.7
 numeroOpiniones: 4363
 publicada: true

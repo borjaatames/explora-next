@@ -78,15 +78,13 @@ imagen: /images/actividades/tarragona/quad/quad-pista.webp
 imagenAlt: A quad on a dirt track
 galeria:
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: The Prades mountains and Siurana
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: A quad on a country track
+  alt: "The Prades mountains and Siurana"
 - src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Mountain landscape inland from Tarragona
+  alt: "Mountain landscape inland from Tarragona"
 - src: /images/actividades/tarragona/quad/quad-barro.webp
-  alt: A quad crossing a puddle
+  alt: "A quad crossing a puddle"
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Sunset over the Prades mountains
+  alt: "Sunset over the Prades mountains"
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:

@@ -72,17 +72,15 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: Pareja de bailaoras en un espectáculo flamenco
 galeria:
 - src: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-  alt: Bailaor en pleno zapateado
+  alt: "Bailaor en pleno zapateado"
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Cantaora flamenca
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: Espectáculo en un tablao flamenco
+  alt: "Cantaora flamenca"
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Baile flamenco sobre el escenario
+  alt: "Baile flamenco sobre el escenario"
 - src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-  alt: Cuadro flamenco en escena
+  alt: "Cuadro flamenco en escena"
 - src: /images/actividades/alicante/flamenco/trajes-flamenca.webp
-  alt: Trajes de flamenca
+  alt: "Trajes de flamenca"
 ratingProveedor: 4.8
 numeroOpiniones: 1744
 atraccionesRelacionadas:

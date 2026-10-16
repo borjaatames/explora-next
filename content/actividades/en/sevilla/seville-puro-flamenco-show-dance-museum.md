@@ -166,20 +166,15 @@ keywords:
 - puro flamenco show seville
 - ecija patio flamenco
 - andalusian patio flamenco seville
-imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
-imagenAlt: Flamenco dancer in motion with raised arms, wearing traditional dress, expressing passion and intensity during
-  performance in Seville
+imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-cuadro-completo-artis-hero.webp"
+imagenAlt: "Full flamenco troupe on stage at the Flamenco Dance Museum"
 galeria:
 - src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-patio-ecija-xviii-01-hero.webp
-  alt: Colonial Andalusian patio with spectator seating, traditional Seville architecture, orange trees, and professional
-    theatrical lighting
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-cuadro-completo-artis-hero.webp
-  alt: 'Group of flamenco artists performing together on stage: dancers, guitarist and singer in dynamic motion during Seville
-    performance'
+  alt: "Colonial Andalusian patio with spectator seating, traditional Seville architecture, orange trees, and professional theatrical lighting"
 - src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-guitarra-cantaor-03-hero.webp
-  alt: Flamenco guitarist and singer performing on stage with theatrical lighting in Seville
+  alt: "Flamenco guitarist and singer performing on stage with theatrical lighting in Seville"
 - src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-detalle-traje-flamenc-hero.webp
-  alt: Traditional flamenco dress with ruffles, lace details, and intricate embellishments showcasing andalusian craftsmanship
+  alt: "Traditional flamenco dress with ruffles, lace details, and intricate embellishments showcasing andalusian craftsmanship"
 ratingProveedor: 4.8
 numeroOpiniones: 6456
 publicada: true

@@ -98,20 +98,14 @@ atraccionesRelacionadas:
 categoria: toursGastronomicos
 keywords: ["paella workshop madrid", "cooking class madrid paella", "paella sangria class madrid", "paella sangria workshop madrid", "learn cook paella madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
-imagenAlt: "Traditional Spanish cuisine, visual reference for the paella workshop in Madrid"
+imagen: "/images/actividades/madrid/paella/paella-pexels-31748679.webp"
+imagenAlt: "Paella cooking in the pan during the workshop"
 
 galeria:
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: "Fried squid sandwich with a beer next to the tapas bar counter"
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
-  alt: "Close-up of a fried squid sandwich with a beer in Madrid"
-- src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
-  alt: "Spanish tapas from Madrid's traditional cuisine (view 3)"
 - src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
   alt: "Freshly made seafood paella"
-- src: /images/actividades/madrid/paella/paella-pexels-31748679.webp
-  alt: "Paella cooking in the pan"
+- src: /images/actividades/madrid/tapas/tapas-madrid-spanish-sangria-hero.webp
+  alt: "Jug of sangria with fruit"
 - src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp
   alt: "Mixed paella cooked over firewood"
 - src: /images/actividades/madrid/paella/paella-pixabay-1168003.webp

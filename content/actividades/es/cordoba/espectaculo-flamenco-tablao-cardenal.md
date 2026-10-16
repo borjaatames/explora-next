@@ -68,21 +68,17 @@ keywords:
 - tablao cardenal
 - espectaculo flamenco cordoba
 - tablao flamenco cordoba
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: Bailaora con bata de cola en el escenario
+imagen: "/images/actividades/cordoba/flamenco/guitarra-flamenca.webp"
+imagenAlt: "Guitarrista flamenco tocando en directo"
 galeria:
-- src: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-  alt: Cuadro flamenco con bailaoras y músicos
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Guitarrista flamenco en el escenario
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Palmas en un espectáculo de flamenco
+  alt: "Guitarrista flamenco en el escenario"
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Guitarra flamenca en directo
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Guitarrista tocando flamenco
-- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-  alt: Baile flamenco con vestidos de colores
+  alt: "Guitarra flamenca en directo"
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: "Torre de la Mezquita-Catedral, frente al tablao"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Judería de Córdoba, a pocos pasos del tablao"
 ratingProveedor: 4.8
 numeroOpiniones: 1167
 atraccionesRelacionadas:

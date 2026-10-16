@@ -98,20 +98,14 @@ atraccionesRelacionadas:
 categoria: toursGastronomicos
 keywords: ["taller paella madrid", "cooking class madrid paella", "clase paella sangria madrid", "paella sangria workshop madrid", "aprender cocinar paella madrid"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-appetizing-fried-arancini-balls-hero.webp"
-imagenAlt: "Cocina española tradicional, referencia visual del taller de paella en Madrid"
+imagen: "/images/actividades/madrid/paella/paella-pexels-31748679.webp"
+imagenAlt: "Paella cocinándose en la paellera durante el taller"
 
 galeria:
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: "Bocadillo de calamares con una cana junto a la barra de tapas"
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
-  alt: "Primer plano de un bocadillo de calamares con una cerveza en Madrid"
-- src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
-  alt: "Tapas españolas típicas de la gastronomía madrileña (vista 3)"
 - src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
   alt: "Paella de marisco recién hecha"
-- src: /images/actividades/madrid/paella/paella-pexels-31748679.webp
-  alt: "Paella cocinándose en la paellera"
+- src: /images/actividades/madrid/tapas/tapas-madrid-spanish-sangria-hero.webp
+  alt: "Jarra de sangría con fruta"
 - src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp
   alt: "Paella mixta cocinada a la leña"
 - src: /images/actividades/madrid/paella/paella-pixabay-1168003.webp

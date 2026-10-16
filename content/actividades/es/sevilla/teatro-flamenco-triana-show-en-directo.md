@@ -165,13 +165,11 @@ imagenAlt: Bailaora en movimiento ejecutando flamenco con traje tradicional rojo
   en escena
 galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-interior-teatro-asien-hero.webp
-  alt: Interior de teatro sevillano con asientos acolchados y escenario iluminado profesionalmente
+  alt: "Interior de teatro sevillano con asientos acolchados y escenario iluminado profesionalmente"
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-guitarrista-cantaor-d-hero.webp
-  alt: Guitarrista y cantaor en concierto flamenco, expresión intensa del cantante con guitarra tradicional
+  alt: "Guitarrista y cantaor en concierto flamenco, expresión intensa del cantante con guitarra tradicional"
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-barrio-triana-calle-b-hero.webp
-  alt: Calle histórica de Triana con vista al Guadalquivir y la Catedral de Sevilla al fondo
-- src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-detalle-flamenco-zapa-hero.webp
-  alt: Pies de bailaor en zapatado intenso, demostrando técnica y energía del flamenco sevillano
+  alt: "Calle histórica de Triana con vista al Guadalquivir y la Catedral de Sevilla al fondo"
 ratingProveedor: 4.7
 numeroOpiniones: 4363
 publicada: true

@@ -101,8 +101,6 @@ imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp
 imagenAlt: "Patio gótico del Palau Finestres, sede del Museu Picasso en la calle Montcada"
 
 galeria:
-- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-  alt: "Catedral de Barcelona, en el corazón del Barrio Gótico"
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
   alt: "Patio de entrada de uno de los palacios del Museo Picasso"
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
@@ -115,6 +113,8 @@ galeria:
   alt: "Calle estrecha del Barrio Gótico con balcones"
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero.webp
   alt: "Pasaje en penumbra del Barrio Gótico"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: "Catedral de Barcelona, en el corazón del Barrio Gótico"
 
 ratingProveedor: 4.5
 numeroOpiniones: 3552

@@ -114,8 +114,6 @@ galeria:
   alt: "White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains"
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
   alt: "Puente Nuevo de Ronda arco de piedra con geometría estructural vista desde abajo"
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp
-  alt: "Tourists strolling through historic Granada streets and plazas, leisurely exploring the city center on foot."
 - src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
   alt: "Ronda's Puente Nuevo and the houses above the gorge"
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp

@@ -94,20 +94,22 @@ categoria: "serviciosAdicionales"
 keywords: ["hammam al andalus granada", "alhambra arabic baths", "hammam with massage granada", "premium spa granada", "arabic experience granada"]
 
 
-imagen: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-01.webp"
-imagenAlt: "Santa Ana church on Plaza Nueva, home of Hammam Al Andalus"
+imagen: "/images/actividades/granada/hammam/hammam-pexels-33279021.webp"
+imagenAlt: "Oils and scents ready for the hammam ritual"
 
 galeria:
-  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-06.webp"
-    alt: "Plaza Nueva and Santa Ana church, next to the hammam"
-  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp"
-    alt: "The Darro river in central Granada"
-  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-05.webp"
-    alt: "Santa Ana church at the start of Carrera del Darro"
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-07.webp"
-    alt: "Horseshoe arches of El Bañuelo, Granada"
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-02.webp"
-    alt: "Arcade in the warm room of El Bañuelo"
+- src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-06.webp
+  alt: "Plaza Nueva and Santa Ana church, next to the hammam"
+- src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
+  alt: "The Darro river in central Granada"
+- src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-05.webp
+  alt: "Santa Ana church at the start of Carrera del Darro"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
+  alt: "Horseshoe arches of El Bañuelo, Granada"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp
+  alt: "Arcade in the warm room of El Bañuelo"
+- src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
+  alt: "Taps and marble basins in Arab baths"
 ratingProveedor: 4.8
 numeroOpiniones: 1724
 

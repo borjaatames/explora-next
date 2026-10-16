@@ -72,17 +72,15 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: Two flamenco dancers on stage
 galeria:
 - src: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-  alt: A male dancer mid-footwork
+  alt: "A male dancer mid-footwork"
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: A flamenco singer
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: A show at a flamenco tablao
+  alt: "A flamenco singer"
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Flamenco dancing on stage
+  alt: "Flamenco dancing on stage"
 - src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-  alt: A flamenco troupe on stage
+  alt: "A flamenco troupe on stage"
 - src: /images/actividades/alicante/flamenco/trajes-flamenca.webp
-  alt: Flamenco dresses
+  alt: "Flamenco dresses"
 ratingProveedor: 4.8
 numeroOpiniones: 1744
 atraccionesRelacionadas:

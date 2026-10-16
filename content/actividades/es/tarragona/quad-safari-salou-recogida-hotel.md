@@ -78,15 +78,13 @@ imagen: /images/actividades/tarragona/quad/quad-pista.webp
 imagenAlt: Quad por una pista de tierra
 galeria:
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Montañas de Prades y Siurana
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: Quad en un camino rural
+  alt: "Montañas de Prades y Siurana"
 - src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Paisaje de montaña en el interior de Tarragona
+  alt: "Paisaje de montaña en el interior de Tarragona"
 - src: /images/actividades/tarragona/quad/quad-barro.webp
-  alt: Quad atravesando un charco
+  alt: "Quad atravesando un charco"
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Atardecer en las montañas de Prades
+  alt: "Atardecer en las montañas de Prades"
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:
