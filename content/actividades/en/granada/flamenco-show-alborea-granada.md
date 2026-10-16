@@ -75,7 +75,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction and the operator describes it as \"perfect for the whole family\". The format is tablao seating, 1 hour duration. With very young or noise-sensitive children, bear in mind that flamenco includes intense hand-clapping and foot-stomping."
 
-variantes: ["flamenco-tablao-casa-ana-granada", "flamenco-teatro-sensaciones-granada", "flamenco-jardines-zoraya-albayzin"]
+variantes: ["flamenco-show-tablao-casa-ana-granada", "flamenco-show-teatro-sensaciones-granada", "flamenco-show-jardines-zoraya-albayzin"]
 
 opinionEditorial: |
   The most-reviewed flamenco in Granada by a wide margin: 5,481 ratings prove the product is dialled in and delivers. Tablao in the historic centre, reserved seating (no need to arrive early to grab a spot) and the option to add a glass of wine + Iberian platter to the base package. At €18 it's one of the cheapest options in the centre, and the flexibility of the food package makes it adaptable to your budget.

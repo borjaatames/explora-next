@@ -73,7 +73,7 @@ preguntasFrecuentes:
   - pregunta: "Is there parking nearby?"
     respuesta: "The tablao is in the pedestrian historic centre. The closest options are the public car parks at Plaza San Agustín, Puerta Real or La Caleta — all 5-10 minutes' walk. Better to get around by taxi or on foot from your accommodation if you're staying in the centre."
 
-variantes: ["flamenco-alborea-granada", "flamenco-teatro-sensaciones-granada", "flamenco-cueva-amayas-sacromonte"]
+variantes: ["flamenco-show-alborea-granada", "flamenco-show-teatro-sensaciones-granada", "flamenco-show-cueva-los-amayas-sacromonte"]
 
 opinionEditorial: |
   Of the tablaos in Granada's historic centre, this is the most intimate. Smaller capacity than Teatro Flamenco Granada or La Alboreá, which means you're closer to the stage and feel the artists' power more directly. It's wheelchair accessible — one of the few in the catalogue — and the 4.8 rating with GetYourGuide's «Best rated» distinction backs up the show's quality.

@@ -76,7 +76,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction. Being a theatre with seats and a 1-hour duration, it's easier for young children than the caves. The singing can be intense but the environment is controlled."
 
-variantes: ["flamenco-tablao-casa-ana-granada", "flamenco-alborea-granada", "flamenco-jardines-zoraya-albayzin"]
+variantes: ["flamenco-show-tablao-casa-ana-granada", "flamenco-show-alborea-granada", "flamenco-show-jardines-zoraya-albayzin"]
 
 opinionEditorial: |
   If the Sacromonte cave shows are raw flamenco, Teatro Flamenco Granada is production flamenco. A conventional hall with seats, professional PA system, 5-language commentary and wheelchair accessibility. It's the most comfortable option in the catalogue and the only fully accessible one.

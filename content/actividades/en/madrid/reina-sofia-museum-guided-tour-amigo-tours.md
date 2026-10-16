@@ -82,8 +82,7 @@ preguntasFrecuentes:
   respuesta: The rating is lowered because there's 8% one-star reviews. Recurring complaints are about punctuality (some reviews
     mention tours starting late) and group organisation. The guide quality is well rated (4.5/5). If you value strict punctuality,
     arrive very early and request a start on time.
-variantes:
-- reina-sofia-grupo-reducido-amigo
+variantes: ["reina-sofia-museum-small-group-guides-you-need"]
 opinionEditorial: 'This is the most popular Reina Sofía guided tour on GetYourGuide: 676 reviews averaging 4.3. The product:
   75 minutes with bilingual official guide (Spanish and English at the same time), entry included, gratuities included, and
   Guernica as centrepiece. At €38 it''s at the price of the standard Royal Palace option — reasonable for a museum of this

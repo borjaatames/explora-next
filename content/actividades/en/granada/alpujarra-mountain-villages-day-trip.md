@@ -80,9 +80,7 @@ preguntasFrecuentes:
 - pregunta: Is there a private option?
   respuesta: Yes. Available at booking for small groups. The private tour allows a custom pace, extra stops and time flexibility.
     Ideal for families or closed groups who want autonomy.
-variantes:
-- alpujarra-originals-gyg
-- alpujarras-almuerzo-viator
+variantes: ["alpujarra-originals-curated-villages-day-trip"]
 opinionEditorial: 'The most-reviewed day trip to the Granada Alpujarra (320 ratings, 4.7 / 5). It picks you up at your hotel,
   takes you to the Poqueira Gorge (Pampaneira, Bubión, Capileira — the three most photogenic white villages in the Alpujarra)
   and returns at the end of the day. The transport rating (4.8) and the guide rating (4.9) are high; the value-for-money rating

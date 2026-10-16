@@ -77,7 +77,7 @@ preguntasFrecuentes:
   - pregunta: "¿Es apto para niños?"
     respuesta: "Sí, no hay restricción de edad. Eso sí, son 2-2,5 horas a pie con cuestas. Para niños menores de 6 años puede ser pesado — mejor llevar agua y algo de picar. El tour privado permite ajustar el ritmo si vais con peques."
 
-variantes: ["albaicin-sacromonte-diurno", "albaicin-sacromonte-viator-tesoro-oculto"]
+variantes: ["albaicin-sacromonte-diurno"]
 
 opinionEditorial: |
   El tour más reseñado del catálogo de visitas guiadas de Granada: 3.200 valoraciones con 4,9 / 5, distinción «Mejor valorados» de GetYourGuide. Es la opción canónica para conocer Albaicín y Sacromonte a pie, y la sincronización con el atardecer en el mirador de San Nicolás convierte el recorrido en una experiencia muy fotogénica.

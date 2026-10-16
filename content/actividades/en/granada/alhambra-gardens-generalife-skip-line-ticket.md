@@ -80,8 +80,7 @@ preguntasFrecuentes:
     seen the Palaces before (and just want to revisit the gardens), the Palaces are sold out for your date (something is better
     than nothing), or you only want to see the Generalife and the gardens (which are exceptional in spring and summer). The
     Generalife in bloom is worth it on its own.'
-variantes:
-- alhambra-tour-guiado-con-entradas
+variantes: ["alhambra-guided-tour-with-tickets"]
 opinionEditorial: 'The CHEAPEST Alhambra ticket in the catalogue (€18). The big catch: it does NOT include the Nasrid Palaces,
   which are the main reason most visitors come to the Alhambra. This ticket only gives you access to the Generalife, the Gardens,
   the Palace of Charles V (the 16th-century building that breaks up the Nasrid complex), the Mosque Baths and the Alcazaba

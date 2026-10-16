@@ -81,7 +81,7 @@ preguntasFrecuentes:
   - pregunta: "¿Por qué tan pocas reseñas?"
     respuesta: "Es un producto relativamente nuevo o de operador pequeño (Descubre Tours, freelance local). 55 reseñas es volumen bajo comparado con tours masivos de cientos, pero el rating es excepcional (4,9/5 con la nota del guía en 5/5 perfecto). Es producto menos validado por volumen pero con calidad media muy alta. Si quieres más volumen, hay tours del casco histórico con miles de reseñas — eso sí, en grupos mayores."
 
-variantes: ["walking-tour-austrias-viator"]
+variantes: []
 
 opinionEditorial: |
   Es la versión «grupo reducido» del clásico walking tour por el Madrid de los Austrias: máximo 10 personas (frente a los 25-30 habituales de free tours), 2 horas, ruta canónica desde la Mariblanca de Puerta del Sol hasta el Palacio Real. Rating excepcional: 4,9/5 con la nota del guía en 5/5 perfecto. Volumen modesto (55 reseñas) — producto menos validado en cantidad pero con calidad media muy alta. Aparece el nombre del guía Osmel en múltiples reseñas como factor diferencial.

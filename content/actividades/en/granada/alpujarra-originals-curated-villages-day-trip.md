@@ -73,9 +73,7 @@ preguntasFrecuentes:
 - pregunta: Is there hotel pickup?
   respuesta: Yes, available at booking (check the options on GYG). Some customers mention being dropped back at their hotel
     even when they weren't expecting it.
-variantes:
-- alpujarra-pueblos-montana
-- alpujarras-almuerzo-viator
+variantes: ["alpujarra-mountain-villages-day-trip"]
 opinionEditorial: 'The "premium" version of the Alpujarra day trip: the Originals by GetYourGuide distinction and the operator
   Discovering Spain make the difference. More expensive than the standard tour (€115 vs €71) but with a smaller group and
   more personal attention. The operator''s responses in reviews are frequent and personal — a good sign of customer care.

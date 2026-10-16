@@ -75,7 +75,6 @@ preguntasFrecuentes:
     al hotel incluso sin esperarlo.
 variantes:
 - alpujarra-pueblos-montana
-- alpujarras-almuerzo-viator
 opinionEditorial: 'La versión "premium" de la excursión a la Alpujarra: la distinción Originals by GetYourGuide y la operadora
   Discovering Spain marcan la diferencia. Más cara que el tour estándar (115 € vs 71 €) pero con grupo más reducido y mayor
   atención personal. Las respuestas del operador en reseñas son frecuentes y personales — buen indicio de cuidado con el cliente.

@@ -76,7 +76,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction. But bear in mind it lasts an hour in dim light, with clapping, foot-stomping and loud singing — very young or noise-sensitive children may find it tough."
 
-variantes: ["flamenco-cueva-faraona", "flamenco-jardines-zoraya", "flamenco-cuevas-tarantos"]
+variantes: ["flamenco-show-cueva-la-faraona-sacromonte", "flamenco-show-jardines-zoraya-albayzin", "flamenco-show-cuevas-tarantos-sacromonte"]
 
 opinionEditorial: |
   Of all Granada's flamenco shows, this is the one that stays closest to the original Sacromonte gypsy zambra format. The cave is dug into the hillside, with no stage and no amplification: you hear the guitar and singing as you would have at a gypsy family gathering seventy years ago. The 60-person capacity keeps the atmosphere intimate, and the seating layout means you're three metres from the dancers. It's a different experience from the central tablaos, where flamenco is seen through a PA system and from 20 metres back.

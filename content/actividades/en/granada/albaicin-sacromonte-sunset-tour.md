@@ -77,7 +77,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, there's no age restriction. That said, it's 2-2.5 hours on foot with hills. For children under 6 it can be heavy going — bring water and a snack. The private tour lets you adjust the pace if you're going with little ones."
 
-variantes: ["albaicin-sacromonte-diurno", "albaicin-sacromonte-viator-tesoro-oculto"]
+variantes: ["albaicin-sacromonte-day-tour"]
 
 opinionEditorial: |
   The most-reviewed tour in Granada's guided visits catalogue: 3,200 ratings at 4.9 / 5, with GetYourGuide's «Best rated» distinction. It's the canonical option for seeing the Albaicín and Sacromonte on foot, and timing the route to reach the Mirador de San Nicolás at sunset turns it into a very photogenic experience.

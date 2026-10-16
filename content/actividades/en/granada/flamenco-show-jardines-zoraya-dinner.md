@@ -80,7 +80,7 @@ preguntasFrecuentes:
   - pregunta: "Is it worth booking in advance?"
     respuesta: "Yes. Table location is assigned ON A FIRST-COME BASIS. If you book days ahead, you get a better table (closer to the stage, better view). If you book last-minute, you get whatever's left — some reviews mention being seated in back corners with limited views."
 
-variantes: ["flamenco-jardines-zoraya-albayzin", "flamenco-cueva-amayas-sacromonte", "flamenco-teatro-sensaciones-granada"]
+variantes: ["flamenco-show-jardines-zoraya-albayzin", "flamenco-show-cueva-los-amayas-sacromonte", "flamenco-show-teatro-sensaciones-granada"]
 
 opinionEditorial: |
   This is the "dinner + flamenco" version of the Jardines de Zoraya tablao. If you'd rather sort dinner and the show in the same Albayzín venue instead of hunting for a restaurant on cobbled streets at night, this package saves effort. Dinner is an Andalusian menu with options for special diets (vegetarian, allergies), served before the show, and the venue has air conditioning and attentive service.

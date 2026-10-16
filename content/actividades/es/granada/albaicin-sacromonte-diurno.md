@@ -81,7 +81,7 @@ preguntasFrecuentes:
   - pregunta: "¿Hay diferencia con la versión al atardecer del mismo recorrido?"
     respuesta: "El diurno y el de atardecer son productos DISTINTOS de operadores DISTINTOS aunque cubren el mismo terreno. El diurno (Special Plans, 18 €) empieza en Plaza Isabel la Católica; el de atardecer (Lolita's Tours, 15 €) empieza en Plaza Nueva. El de atardecer tiene mejor rating (4,9 vs 4,4) pero el diurno permite ver con luz de día y suele tener disponibilidad más amplia."
 
-variantes: ["albaicin-sacromonte-atardecer", "albaicin-sacromonte-viator-tesoro-oculto"]
+variantes: ["albaicin-sacromonte-atardecer"]
 
 opinionEditorial: |
   La versión de mañana o tarde del tour clásico por Albaicín y Sacromonte, ideal si vas a Granada en verano o prefieres ver los barrios con luz de día. Con 4,4 sobre 5 y 724 reseñas, es un producto sólido con guías informados y recorrido completo de 12 paradas. La diferencia con el tour al atardecer (4,9 con 3.200 reseñas) es real: el de atardecer tiene mejor rating, pero el diurno también funciona y suele tener disponibilidad más amplia.

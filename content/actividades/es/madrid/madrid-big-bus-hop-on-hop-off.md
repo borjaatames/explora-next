@@ -94,7 +94,6 @@ preguntasFrecuentes:
     días buenos. La política de cancelación gratuita hasta 24 horas antes ayuda a flexibilizar.
 variantes:
 - madrid-big-bus-night-tour
-- city-sightseeing-madrid-hop-on-hop-off-viator
 opinionEditorial: 'Es el clásico bus turístico hop-on hop-off de Big Bus en Madrid: 4,2/5 sobre 904 reseñas. Tres rutas (Histórica,
   Cultural, Moderna) con paradas ilimitadas durante 24 o 48 horas y audioguía en 10 idiomas. Accesible en silla de ruedas,
   lo que no abunda en tours de Madrid. La crítica más recurrente es de «value for money» (3,9/5) — el precio se percibe alto

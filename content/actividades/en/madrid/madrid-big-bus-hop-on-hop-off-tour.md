@@ -92,7 +92,6 @@ preguntasFrecuentes:
     days. The free 24-hour cancellation policy helps add flexibility.
 variantes:
 - madrid-big-bus-panoramic-night-tour
-- city-sightseeing-madrid-hop-on-hop-off-viator
 opinionEditorial: 'The classic Big Bus hop-on hop-off in Madrid: 4.2/5 across 904 reviews. Three routes (Historical, Cultural,
   Modern) with unlimited stops for 24 or 48 hours and audio guide in 10 languages. Wheelchair accessible, which is rare on
   Madrid tours. The most recurring complaint is «value for money» (3.9/5) — the price is perceived as high for what it is.

@@ -73,7 +73,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction. The cave format with a drink included is manageable for an hour. Some reviews mention the small chairs are a bit uncomfortable — if you're with young children, that may matter more. Worth knowing that flamenco involves clapping, foot-stomping and loud singing: for very noise-sensitive children, think it over."
 
-variantes: ["flamenco-cueva-amayas-sacromonte", "flamenco-cueva-faraona-sacromonte", "flamenco-cueva-zincale-sacromonte"]
+variantes: ["flamenco-show-cueva-los-amayas-sacromonte", "flamenco-show-cueva-la-faraona-sacromonte", "flamenco-show-cueva-zincale-sacromonte"]
 
 opinionEditorial: |
   The cave with the most pedigree in Sacromonte: it's been running since 1972, and that shows in how dialled-in the operation is. It's the second most-reviewed show in the catalogue (2,093 ratings, 4.5 / 5), behind only La Alboreá. If you've never seen flamenco in a Sacromonte cave and want a safe bet, this is the pick.

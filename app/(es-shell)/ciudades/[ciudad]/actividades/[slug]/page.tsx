@@ -16,7 +16,6 @@ import {
   urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
-import { obtenerHorariosViator } from "@/lib/viator-api";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
@@ -97,13 +96,7 @@ export default async function ActividadPage({ params }: Props) {
   const guiasRelacionadas = obtenerGuiasParaFicha("es", params.ciudad, actividad);
 
   const url = `${SITE_URL}${actividad.url}`;
-  // Incremento 1: precio "desde" en vivo de la API de Viator (fallback al del .md).
-  const codViator =
-    actividad.proveedor === "viator"
-      ? actividad.urlReserva.match(/\/d\d+-([A-Za-z0-9]+)/)?.[1] ?? null
-      : null;
-  const dispViator = codViator ? await obtenerHorariosViator(codViator, "es") : null;
-  const precioDesdeFinal = dispViator?.precioDesde ?? actividad.precioDesde;
+  const precioDesdeFinal = actividad.precioDesde;
   const precio = new Intl.NumberFormat("es-ES", {
     style: "currency",
     currency: actividad.moneda,
@@ -506,7 +499,6 @@ export default async function ActividadPage({ params }: Props) {
               <CalendarioReserva
                 idioma="es"
                 proveedor={actividad.proveedor}
-                viatorCode={codViator ?? undefined}
                 precio={precio}
                 valorEstimado={precioDesdeFinal}
                 monedaEstimada={actividad.moneda}

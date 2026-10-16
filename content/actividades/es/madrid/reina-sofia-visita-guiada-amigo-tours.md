@@ -82,8 +82,7 @@ preguntasFrecuentes:
   respuesta: El rating se baja porque hay un 8% de notas de 1 estrella. Las quejas recurrentes son sobre la puntualidad (algunas
     reseñas mencionan tours que empezaron tarde) y la organización del grupo. La calidad del guía sí está bien valorada (4.5/5).
     Si valoras la puntualidad estricta, conviene llegar muy temprano y exigir el inicio a la hora.
-variantes:
-- reina-sofia-grupo-reducido-amigo
+variantes: ["reina-sofia-grupo-reducido-guides-you-need"]
 opinionEditorial: 'Es la visita guiada más popular del Reina Sofía en GetYourGuide: 676 reseñas con un 4,3 de media. El producto:
   75 minutos con guía oficial bilingüe (español e inglés a la vez), entrada incluida, propinas incluidas, y el Guernica como
   pieza central. A 38 euros está al precio de la opción estándar del Palacio Real — razonable para un museo de este peso con

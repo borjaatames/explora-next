@@ -79,7 +79,7 @@ preguntasFrecuentes:
   - pregunta: "Do I need to arrive much earlier?"
     respuesta: "15-20 minutes is enough. After checking in, you're given a towel and non-slip socks, you change and the session begins at the agreed time. The important thing is not to arrive late — sessions run on strict schedules and any delay eats into your own experience."
 
-variantes: ["hammam-palacio-nazari"]
+variantes: ["hammam-nasrid-palace-arabic-baths"]
 
 opinionEditorial: |
   The high end of Granada's hammam catalogue: Hammam Al Ándalus combines an iconic location (at the foot of the Alhambra, in what was the Arab mosque), small capacity (max 6 people) and included massage to build the most complete experience. With 4.8 / 5 from 1,724 reviews it's the most-reviewed hammam in the city and one of the highest-rated products in the entire Granada catalogue.

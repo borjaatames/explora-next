@@ -81,7 +81,7 @@ preguntasFrecuentes:
   - pregunta: "What's the difference with the sunset version of the same route?"
     respuesta: "The daytime and sunset tours are DIFFERENT products from DIFFERENT operators, although they cover the same ground. The daytime one (Special Plans, €18) starts at Plaza Isabel la Católica; the sunset one (Lolita's Tours, €15) starts at Plaza Nueva. The sunset version has a better rating (4.9 vs 4.4), but the daytime version also works and usually has wider availability."
 
-variantes: ["albaicin-sacromonte-atardecer", "albaicin-sacromonte-viator-tesoro-oculto"]
+variantes: ["albaicin-sacromonte-sunset-tour"]
 
 opinionEditorial: |
   The morning or afternoon version of the classic walking tour through Albaicín and Sacromonte, ideal if you're going to Granada in summer or prefer to see the neighbourhoods in daylight. With 4.4 out of 5 and 724 reviews, it's a solid product with knowledgeable guides and a full 12-stop route. The gap with the sunset tour (4.9 with 3,200 reviews) is real: the sunset version is better rated, but the daytime one also delivers and tends to have wider availability.

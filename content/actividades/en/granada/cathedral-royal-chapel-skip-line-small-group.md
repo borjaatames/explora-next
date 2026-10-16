@@ -77,7 +77,7 @@ preguntasFrecuentes:
   - pregunta: "What exactly do you see in the Royal Chapel?"
     respuesta: "The tombs of the Catholic Monarchs (Isabella and Ferdinand), Philip the Handsome and Joanna the Mad — the most important funerary complex of the Spanish Renaissance. Also the original Flemish altarpiece, the choir and the small sacristy with collections of gold and silverware and Isabella's crown. The Royal Chapel is one of the monuments where the difference between visiting with and without a guide is most noticeable."
 
-variantes: ["catedral-capilla-real-visita-guiada"]
+variantes: ["cathedral-royal-chapel-guided-tour"]
 
 opinionEditorial: |
   The fast version of Granada's Christian tour: 2 hours, skip-the-line, in 4 languages. If you only have half a day in the city and want to see the Royal Chapel (the tombs of the Catholic Monarchs) and the Cathedral with professional commentary, this is the plan. The €36 price matches the 3-hour tour from the same operator — the real difference is the time you invest, not the money.

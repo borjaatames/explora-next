@@ -75,7 +75,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction. The cave format with a short duration (50 min) makes it manageable. That said, flamenco involves clapping, foot-stomping and loud singing — worth thinking about for very young or noise-sensitive children."
 
-variantes: ["flamenco-cueva-amayas-sacromonte", "flamenco-cueva-faraona-sacromonte", "flamenco-cuevas-tarantos-sacromonte"]
+variantes: ["flamenco-show-cueva-los-amayas-sacromonte", "flamenco-show-cueva-la-faraona-sacromonte", "flamenco-show-cuevas-tarantos-sacromonte"]
 
 opinionEditorial: |
   Cueva del Zincalé is one of the four Sacromonte caves in the comparison, alongside Los Amayas, La Faraona and Los Tarantos. Each has its own character: Zincalé is run directly by local artists, which shows in the welcome and in a personal artistic approach. The gypsy zambra format — the original flamenco style of Sacromonte — is well served in this cave.

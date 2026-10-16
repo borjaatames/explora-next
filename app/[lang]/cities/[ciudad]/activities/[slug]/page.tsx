@@ -20,7 +20,6 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
-import { obtenerHorariosViator } from "@/lib/viator-api";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
@@ -122,15 +121,7 @@ export default async function ActividadPage({ params }: Props) {
   // idiomas), pero acotamos el tipo aquí explícitamente para no ensanchar
   // la firma de esas funciones con idiomas que el proveedor no entiende.
   const idiomaProveedor: "es" | "en" = lang === "en" ? "en" : "es";
-  // Incremento 1: precio "desde" en vivo de la API de Viator (fallback al del .md).
-  const codViator =
-    actividad.proveedor === "viator"
-      ? actividad.urlReserva.match(/\/d\d+-([A-Za-z0-9]+)/)?.[1] ?? null
-      : null;
-  const dispViator = codViator
-    ? await obtenerHorariosViator(codViator, idiomaProveedor)
-    : null;
-  const precioDesdeFinal = dispViator?.precioDesde ?? actividad.precioDesde;
+  const precioDesdeFinal = actividad.precioDesde;
   const precio = new Intl.NumberFormat(IDIOMA_LOCALE[lang], {
     style: "currency",
     currency: actividad.moneda,
@@ -530,7 +521,6 @@ export default async function ActividadPage({ params }: Props) {
               <CalendarioReserva
                 idioma={lang}
                 proveedor={actividad.proveedor}
-                viatorCode={codViator ?? undefined}
                 precio={precio}
                 valorEstimado={precioDesdeFinal}
                 monedaEstimada={actividad.moneda}

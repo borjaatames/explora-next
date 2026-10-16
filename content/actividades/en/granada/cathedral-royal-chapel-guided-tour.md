@@ -74,7 +74,7 @@ preguntasFrecuentes:
   - pregunta: "Is it good if I'm coming from a cruise or only spending a day in Granada?"
     respuesta: "Yes, it's one of the most information-dense plans: 3 hours with two UNESCO monuments + two extra stops. For a morning or afternoon, it covers \"Christian Granada\" completely. Combined with the Alhambra (afternoon or next morning), you'd have the history of Granada well covered."
 
-variantes: ["catedral-capilla-real-sin-colas-grupo"]
+variantes: ["cathedral-royal-chapel-skip-line-small-group"]
 
 opinionEditorial: |
   This is the most complete tour in the catalogue for Christian Granada: 3 hours with an official guide, tickets to the Cathedral and Royal Chapel included, and two extra stops (the Alcaicería and La Madraza) that most competing tours leave out. With 4.8 / 5 from 413 reviews and the Top rated + Certified by GetYourGuide distinction, it's one of the most tested products in the Granada guided-tours catalogue.

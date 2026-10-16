@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for a couple?"
     respuesta: "Yes, sessions can be booked as a couple or group. The space is mixed. If you each want an individual massage, book them at purchase — the operator assigns different therapists."
 
-variantes: ["hammam-al-andalus"]
+variantes: ["hammam-al-andalus-arabic-baths"]
 
 opinionEditorial: |
   The most accessible option in the hammam catalogue: €45 for a 90-minute session at one of the most beautiful traditional Arabic baths in central Granada. Wheelchair accessible (one of the few in the city), with 860 reviews at 4.5 / 5 — a solid, well-tested product.

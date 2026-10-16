@@ -81,9 +81,7 @@ preguntasFrecuentes:
 - pregunta: ¿Hay opción privada?
   respuesta: Sí. Disponible al reservar para grupos pequeños. El tour privado permite ritmo personalizado, paradas adicionales
     y flexibilidad horaria. Ideal para familias o grupos cerrados que quieren autonomía.
-variantes:
-- alpujarra-originals-gyg
-- alpujarras-almuerzo-viator
+variantes: ["alpujarra-originals-pueblos-curados"]
 opinionEditorial: 'La excursión más reseñada a la Alpujarra granadina (320 valoraciones, 4,7 / 5). Recoge en hotel, lleva
   al Barranco de Poqueira (Pampaneira, Bubión, Capileira — los tres pueblos blancos más fotogénicos de la Alpujarra) y vuelve
   al final del día. El rating de transporte (4,8) y el de guía (4,9) son altos; el de calidad-precio (4,5) es ligeramente

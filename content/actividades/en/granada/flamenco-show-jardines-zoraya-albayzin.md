@@ -76,7 +76,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction. The format is tablao with tables, which makes it easier with children. The show lasts 1 hour — manageable. That said, flamenco involves clapping, foot-stomping and loud singing: very young or noise-sensitive children may find it tough."
 
-variantes: ["flamenco-jardines-zoraya-cena", "flamenco-cueva-amayas-sacromonte", "flamenco-teatro-sensaciones-granada"]
+variantes: ["flamenco-show-jardines-zoraya-dinner", "flamenco-show-cueva-los-amayas-sacromonte", "flamenco-show-teatro-sensaciones-granada"]
 
 opinionEditorial: |
   Of the Albayzín's flamenco shows, this is the most established: 1,431 reviews at 4.7 out of 5 make it one of the most tested in the Granada catalogue. The formula is the traditional tablao — stage, full line-up (2 female dancers, singer and guitarist) and assigned seats — but located in the heart of the Albayzín, 2 minutes from the Mirador de San Nicolás. The difference from a central tablao is the setting: walking up to the Albayzín is part of the experience.

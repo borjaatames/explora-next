@@ -76,7 +76,7 @@ preguntasFrecuentes:
   - pregunta: "¿Es apto para niños?"
     respuesta: "Sí, no hay restricción de edad. Pero ten en cuenta que dura una hora a oscuras, con palmas, taconeo y cante alto — niños muy pequeños o sensibles al ruido lo pueden pasar regular."
 
-variantes: ["flamenco-cueva-faraona", "flamenco-jardines-zoraya", "flamenco-cuevas-tarantos"]
+variantes: ["flamenco-cueva-faraona-sacromonte", "flamenco-jardines-zoraya-albayzin", "flamenco-cuevas-tarantos-sacromonte"]
 
 opinionEditorial: |
   De los espectáculos de flamenco de Granada, este es el que más fiel se mantiene al formato original de la zambra gitana del Sacromonte. La cueva está excavada en la ladera, sin escenario y sin amplificación: oyes la guitarra y el cante como se oirían en una reunión familiar gitana hace setenta años. El aforo de 60 personas mantiene el ambiente íntimo, y la posición de los asientos hace que estés a tres metros de los bailarines. Es una experiencia distinta a la de los tablaos del centro, donde el flamenco se ve con megafonía y a 20 metros del escenario.

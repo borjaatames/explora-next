@@ -74,7 +74,7 @@ preguntasFrecuentes:
   - pregunta: "Is it suitable for children?"
     respuesta: "Yes, no age restriction. The intimate format and short duration (one hour) make it manageable for younger children. That said, flamenco involves clapping, foot-stomping and loud singing — very noise-sensitive children may find it tough."
 
-variantes: ["flamenco-cueva-amayas-sacromonte", "flamenco-cuevas-tarantos-sacromonte", "flamenco-cueva-zincale-sacromonte"]
+variantes: ["flamenco-show-cueva-los-amayas-sacromonte", "flamenco-show-cuevas-tarantos-sacromonte", "flamenco-show-cueva-zincale-sacromonte"]
 
 opinionEditorial: |
   Of the Sacromonte caves, this is the smallest: just 25 seats. That makes the experience quite different. At Los Amayas (60 seats) or Los Tarantos (larger capacity), flamenco is still close-up, but there's a minimum distance between artists and audience. At La Faraona the dancers are a metre and a half away, you could practically touch them by stretching out your arm. For travellers who want the rawest, most family-style gypsy flamenco experience, this is the format.
