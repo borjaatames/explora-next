@@ -1,0 +1,22 @@
+# Créditos · barcelona/montserrat
+
+Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imágenes y del nombre de archivo.
+
+- `montserrat-monastery-cloister-abbey-corridor-hero.webp` — Tama66, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/monastery-cloister-abbey-corridor-3130879/)
+- `montserrat-breathtaking-view-mountains-unique-hero.webp` — Evans Joel, Pexels License, vía Pexels (https://www.pexels.com/photo/scenic-view-of-montserrat-mountains-in-catalonia-32422826/)
+- `montserrat-abbey-church-interiors-stained-hero-hero.webp` — 1899441, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/abbey-church-interiors-1160492/)
+- `montserrat-monastery-cloister-abbey-corridor-hero-hero.webp` — Tama66, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/monastery-cloister-abbey-corridor-3130879/)
+- `montserrat-monastery-mountain-stone-nature-hero-hero.webp` — JoaquinAranoa, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/monastery-montserrat-mountain-stone-838714/)
+- `montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp` — Ramon FVelasquez, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbbeyofOurLadyofMontserratjf1904_07.JPG)
+- `montserrat-breathtaking-view-mountains-unique-hero-hero.webp` — Evans Joel, Pexels License, vía Pexels (https://www.pexels.com/photo/scenic-view-of-montserrat-mountains-in-catalonia-32422826/)
+- `montserrat-monastery-spain-religion-church-hero-hero.webp` — falco, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/montserrat-monastery-spain-religion-4271953/)
+- `montserrat-stunning-gothic-facade-historic-hero-hero.webp` — Jo Kassis, Pexels License, vía Pexels (https://www.pexels.com/photo/facade-of-catalan-gothic-monastery-5567906/)
+- `montserrat-stunning-view-intricate-hero-hero.webp` — Samuel Sweet, Pexels License, vía Pexels (https://www.pexels.com/photo/the-abbey-of-montserrat-in-montserrat-barcelona-spain-8108784/)
+- `montserrat-scenic-aerial-view-cable-car-hero.webp` — Evans Joel, Pexels License, vía Pexels (https://www.pexels.com/photo/aerial-view-of-montserrat-cable-car-in-catalonia-32422819/)
+- `montserrat-captivating-landscape-rocky-peaks-hero.webp` — Santiago  Boada, Pexels License, vía Pexels (https://www.pexels.com/photo/a-rocky-mountain-surrounded-by-green-trees-7614521/)
+- `montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp` — Ramon FVelasquez, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbbeyofOurLadyofMontserratjf1904_12.JPG)
+- `montserrat-2015-10-12-0153-23185857575-hero-hero.webp` — Harvey Barrison from Massapequa, NY, USA, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Montserrat_2015_10_12_0153_(23185857575).jpg)
+- `montserrat-2015-10-12-3282-22791683967-hero.webp` — Harvey Barrison from Massapequa, NY, USA, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Montserrat_2015_10_12_3282_(22791683967).jpg)
+- `montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp` — Ramon FVelasquez, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbbeyofOurLadyofMontserratjf1904_08.JPG)
+- `montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp` — Ramon FVelasquez, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbbeyofOurLadyofMontserratjf1959_03.JPG)
+- `montserrat-spain-catalonia-hero.webp` — AntIg, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/spain-catalonia-montserrat-2763411/)

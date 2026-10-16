@@ -63,13 +63,21 @@ imagen: "https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg"
 imagenAlt: Tour autoguiado DareMapp por Málaga
 galeria:
 - src: https://imgcdn.bokun.tools/adbbdf61-4446-4454-94c7-8197ed4f0e55.jpg
-  alt: Tour autoguiado DareMapp por Málaga, foto 1 de 4
+  alt: "Tour autoguiado DareMapp por Málaga, foto 1 de 4"
 - src: https://imgcdn.bokun.tools/cb19c081-a2d0-48be-8a82-b8437895992c.jpg
-  alt: Tour autoguiado DareMapp por Málaga, foto 2 de 4
+  alt: "Tour autoguiado DareMapp por Málaga, foto 2 de 4"
 - src: https://imgcdn.bokun.tools/8c745d34-fd4a-40b4-b03c-a1a826f390c2.jpg
-  alt: Tour autoguiado DareMapp por Málaga, foto 3 de 4
+  alt: "Tour autoguiado DareMapp por Málaga, foto 3 de 4"
 - src: https://imgcdn.bokun.tools/c413cfd2-3edd-43b1-b732-671a87b9d55e.jpg
-  alt: Tour autoguiado DareMapp por Málaga, foto 4 de 4
+  alt: "Tour autoguiado DareMapp por Málaga, foto 4 de 4"
+- src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
+  alt: "Murallas de la Alcazaba de Málaga"
+- src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
+  alt: "Teatro Romano de Málaga con la Alcazaba al fondo"
+- src: /images/actividades/malaga/catedral-malaga/fachada.webp
+  alt: "Fachada barroca de la Catedral de Málaga"
+- src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
+  alt: "Paseo de la Farola y el puerto de Málaga desde el Muelle Uno"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -56,13 +56,19 @@ imagen: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
 imagenAlt: Mesa de picnic gourmet montada en un rincón discreto de Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/35d99623-943d-4e85-978a-6daa27b6ca1e.jpg
-  alt: Selección de jamón Reserva Serrano y quesos artesanales para el picnic
+  alt: "Selección de jamón Reserva Serrano y quesos artesanales para el picnic"
 - src: https://imgcdn.bokun.tools/c3cdf5fc-6479-473c-9726-df26b823e480.jpg
-  alt: Copas de espumoso sin alcohol servidas durante el picnic privado
+  alt: "Copas de espumoso sin alcohol servidas durante el picnic privado"
 - src: https://imgcdn.bokun.tools/0a4f794f-d84f-4aaa-a93a-a4f469371511.jpg
-  alt: Detalle de la mesa montada para el picnic chic en Madrid
+  alt: "Detalle de la mesa montada para el picnic chic en Madrid"
 - src: https://imgcdn.bokun.tools/1e2ae82b-1764-42f1-a941-c92b8823cbc2.jpg
-  alt: Ambiente relajado del picnic privado en un espacio verde de Madrid
+  alt: "Ambiente relajado del picnic privado en un espacio verde de Madrid"
+- src: /images/actividades/madrid/retiro/retiro-estanque-barcas.webp
+  alt: "Barcas en el estanque del Retiro"
+- src: /images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp
+  alt: "Monumento a Alfonso XII junto al estanque del Retiro"
+- src: /images/actividades/madrid/retiro/retiro-palacio-cristal.webp
+  alt: "Palacio de Cristal en el parque del Retiro"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

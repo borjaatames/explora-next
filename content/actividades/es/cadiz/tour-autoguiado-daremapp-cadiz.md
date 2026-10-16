@@ -63,13 +63,19 @@ imagen: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
 imagenAlt: Tour autoguiado por Cádiz con la app DareMapp
 galeria:
 - src: https://imgcdn.bokun.tools/11616e1c-19cc-4476-9c19-5854cde71b6c.jpg
-  alt: La Parroquia de la Santa Cruz durante el recorrido autoguiado por Cádiz
+  alt: "La Parroquia de la Santa Cruz durante el recorrido autoguiado por Cádiz"
 - src: https://imgcdn.bokun.tools/3f91f493-17cf-40cf-aabc-c06784e82871.jpg
-  alt: El Gran Teatro Falla durante el recorrido autoguiado por Cádiz
+  alt: "El Gran Teatro Falla durante el recorrido autoguiado por Cádiz"
 - src: https://imgcdn.bokun.tools/0f7e9a9a-46f4-4e7f-b942-1f8e36170bba.jpg
-  alt: El Museo de Cádiz durante el recorrido autoguiado por Cádiz
+  alt: "El Museo de Cádiz durante el recorrido autoguiado por Cádiz"
 - src: https://imgcdn.bokun.tools/69a87e34-afff-444c-9cc9-9c83169ac647.jpg
-  alt: La Catedral durante el recorrido autoguiado por Cádiz
+  alt: "La Catedral durante el recorrido autoguiado por Cádiz"
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: "Fachada de la catedral de Cádiz"
+- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
+  alt: "Puente de la Constitución de 1812 iluminado de noche"
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: "Arco de los Blanco en el barrio del Pópulo"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

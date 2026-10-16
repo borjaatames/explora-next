@@ -61,13 +61,19 @@ imagen: "https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg"
 imagenAlt: Tour autoguiado DareMapp por Santiago de Compostela
 galeria:
 - src: https://imgcdn.bokun.tools/d3b885d9-7070-4689-8743-dd1c14f208b7.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 1 de 4
+  alt: "Tour autoguiado DareMapp por Santiago de Compostela, foto 1 de 4"
 - src: https://imgcdn.bokun.tools/38bee4a3-d2ee-431f-8c9b-d8879a92cd2f.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 2 de 4
+  alt: "Tour autoguiado DareMapp por Santiago de Compostela, foto 2 de 4"
 - src: https://imgcdn.bokun.tools/2e631431-879f-4605-aeae-6ac0dbff4d60.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 3 de 4
+  alt: "Tour autoguiado DareMapp por Santiago de Compostela, foto 3 de 4"
 - src: https://imgcdn.bokun.tools/e0b22093-2d87-44d8-b7e6-7c4f07dcd23d.jpg
-  alt: Tour autoguiado DareMapp por Santiago de Compostela, foto 4 de 4
+  alt: "Tour autoguiado DareMapp por Santiago de Compostela, foto 4 de 4"
+- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
+  alt: "Praza do Obradoiro"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Praza das Praterías"
+- src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
+  alt: "Tribuna y arcos de la nave"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

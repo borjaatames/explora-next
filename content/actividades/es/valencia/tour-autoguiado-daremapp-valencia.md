@@ -61,13 +61,19 @@ imagen: "https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg"
 imagenAlt: Tour autoguiado DareMapp por Valencia
 galeria:
 - src: https://imgcdn.bokun.tools/ec32f71b-edb7-4cea-b2e2-894fb6c18451.jpg
-  alt: Tour autoguiado DareMapp por Valencia, foto 1 de 4
+  alt: "Tour autoguiado DareMapp por Valencia, foto 1 de 4"
 - src: https://imgcdn.bokun.tools/8755799c-4ab6-48f6-931f-6231289110b8.jpg
-  alt: Tour autoguiado DareMapp por Valencia, foto 2 de 4
+  alt: "Tour autoguiado DareMapp por Valencia, foto 2 de 4"
 - src: https://imgcdn.bokun.tools/3e9ca7cc-4ab5-40e1-b86a-83c44b69a5c2.jpg
-  alt: Tour autoguiado DareMapp por Valencia, foto 3 de 4
+  alt: "Tour autoguiado DareMapp por Valencia, foto 3 de 4"
 - src: https://imgcdn.bokun.tools/f683b1a1-64eb-41af-8c12-a829efb810f8.jpg
-  alt: Tour autoguiado DareMapp por Valencia, foto 4 de 4
+  alt: "Tour autoguiado DareMapp por Valencia, foto 4 de 4"
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: "Plaza de la Virgen, en el centro de Valencia"
+- src: /images/actividades/valencia/centro/micalet-plaza.webp
+  alt: "El Micalet de la catedral de Valencia"
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: "Torres de Serranos, antigua puerta de la muralla"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

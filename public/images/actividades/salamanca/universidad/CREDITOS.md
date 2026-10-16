@@ -8,3 +8,6 @@
 - `biblioteca.webp` — liakada-web, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Historica_Universidad_de_Salamanca%2C_Biblioteca_Antigua%2C_1526_-_54013005311.jpg) · recortada a 1600×1200
 - `biblioteca-estanterias.webp` — Carlos Reusser Monsalvez, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Biblioteca_de_la_Universidad_de_Salamanca_%2830041998444%29.jpg) · recortada a 1600×1200
 - `biblioteca-interior.webp` — Benjamín Núñez González, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Interior_of_the_Biblioteca_General_Hist%C3%B3rica_%28Universidad_de_Salamanca%29%2C_Espa%C3%B1a%2C_2016_01.jpg) · recortada a 1600×1200
+
+<!-- Añadido 16-10-2026 desde el registro del pipeline -->
+- `universidad-salamanca-explore-stunning-historic-hero-hero.webp` — SilBaBum _, Pexels License, vía Pexels (https://www.pexels.com/photo/historic-architecture-in-salamanca-cityscape-28435485/)

@@ -40,8 +40,8 @@ keywords:
 - montanejos bus day trip
 - montanejos thermal springs
 - montanejos pools from valencia
-imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
-imagenAlt: Turquoise thermal pools in Montanejos, Castellón
+imagen: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp"
+imagenAlt: "The Fuente de los Baños pool in Montanejos"
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
   alt: "Montanejos by bus day trip, photo 1 of 1"
@@ -49,6 +49,18 @@ galeria:
   alt: "Mijares river running through Montanejos, among the mountains of Castellón"
 - src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
   alt: "Village of Montanejos among the mountains"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
+  alt: "The Mijares river at Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
+  alt: "Rock walls by the Fuente de los Baños"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
+  alt: "The Fuente de los Baños with its tile panel"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
+  alt: "Bathers in the Mijares river at Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
+  alt: "Montanejos church tower and square"
+- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
+  alt: "Montanejos thermal town sign"
 atraccionesRelacionadas:
   - excursiones
 publicada: true

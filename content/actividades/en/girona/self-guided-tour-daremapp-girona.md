@@ -65,13 +65,19 @@ imagen: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
 imagenAlt: Self-guided Girona tour with the DareMapp app
 galeria:
 - src: https://imgcdn.bokun.tools/d4056f2e-618b-4d0c-bc59-d888233ca126.jpg
-  alt: The Puente de Piedra (Stone Bridge) on the self-guided Girona route
+  alt: "The Puente de Piedra (Stone Bridge) on the self-guided Girona route"
 - src: https://imgcdn.bokun.tools/e6b2e28e-6215-4ef1-88a7-d07d522f25b6.jpg
-  alt: Plaça Sant Feliu on the self-guided Girona route
+  alt: "Plaça Sant Feliu on the self-guided Girona route"
 - src: https://imgcdn.bokun.tools/28842062-1987-458e-a5e7-50ed7cde8ebf.jpg
-  alt: The Call (the old Jewish quarter) on the self-guided Girona route
+  alt: "The Call (the old Jewish quarter) on the self-guided Girona route"
 - src: https://imgcdn.bokun.tools/3c6f4814-7e8a-4bb3-acfe-8be328cc37de.jpg
-  alt: The Rambla de la Llibertat on the self-guided Girona route
+  alt: "The Rambla de la Llibertat on the self-guided Girona route"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
+  alt: "Colourful Onyar houses reflected in the river"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp
+  alt: "Steps of Girona Cathedral"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
+  alt: "Onyar façades in Girona"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

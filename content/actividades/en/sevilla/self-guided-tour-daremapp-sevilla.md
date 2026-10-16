@@ -63,13 +63,19 @@ imagen: "https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg"
 imagenAlt: DareMapp self-guided tour of Seville
 galeria:
 - src: https://imgcdn.bokun.tools/9e07992a-5c47-4ee9-b4ce-3702171c1317.jpg
-  alt: DareMapp self-guided tour of Seville, photo 1 of 4
+  alt: "DareMapp self-guided tour of Seville, photo 1 of 4"
 - src: https://imgcdn.bokun.tools/d2a6e8cd-b7f8-43cf-b560-55f13de3a846.jpg
-  alt: DareMapp self-guided tour of Seville, photo 2 of 4
+  alt: "DareMapp self-guided tour of Seville, photo 2 of 4"
 - src: https://imgcdn.bokun.tools/55876fc7-f894-455b-814f-eb5631daed73.jpg
-  alt: DareMapp self-guided tour of Seville, photo 3 of 4
+  alt: "DareMapp self-guided tour of Seville, photo 3 of 4"
 - src: https://imgcdn.bokun.tools/87f4b280-82cc-49d4-929c-6013200211a9.jpg
-  alt: DareMapp self-guided tour of Seville, photo 4 of 4
+  alt: "DareMapp self-guided tour of Seville, photo 4 of 4"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Seville Cathedral façade among palm trees"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
+  alt: "Plaza de España reflected in the canal"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
+  alt: "Las Setas at La Encarnación, a few minutes' walk away"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

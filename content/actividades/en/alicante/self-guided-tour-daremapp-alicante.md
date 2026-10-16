@@ -63,13 +63,19 @@ imagen: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
 imagenAlt: Self-guided Alicante tour with the DareMapp app
 galeria:
 - src: https://imgcdn.bokun.tools/13ea71f8-86c5-4dbe-b680-a8d11277d0dc.jpg
-  alt: Plaza de Gabriel Miró on the self-guided Alicante route
+  alt: "Plaza de Gabriel Miró on the self-guided Alicante route"
 - src: https://imgcdn.bokun.tools/10655a80-037d-4ebb-bcbe-af757b4b7503.jpg
-  alt: The Cathedral of San Nicolás de Bari on the self-guided Alicante route
+  alt: "The Cathedral of San Nicolás de Bari on the self-guided Alicante route"
 - src: https://imgcdn.bokun.tools/b8ccb802-24ed-4990-96af-86af22172df1.jpg
-  alt: Santa Bárbara Castle on the self-guided Alicante route
+  alt: "Santa Bárbara Castle on the self-guided Alicante route"
 - src: https://imgcdn.bokun.tools/8f755291-00ec-4261-8d96-2ce8510756ad.jpg
-  alt: Self-guided Alicante tour with the DareMapp app
+  alt: "Self-guided Alicante tour with the DareMapp app"
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: "Alicante and its port from the castle"
+- src: /images/actividades/alicante/costa/postiguet.webp
+  alt: "Postiguet beach below the castle"
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: "Explanada promenade, next to the port"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

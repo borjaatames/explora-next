@@ -101,6 +101,10 @@ galeria:
   alt: "Hall and stage of Teatro Flamenco Granada"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
   alt: "Dancers in red in the Sensaciones show"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "The Albaicín at dusk"
+- src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
+  alt: "Facade of the Royal Chapel and Cathedral of Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 

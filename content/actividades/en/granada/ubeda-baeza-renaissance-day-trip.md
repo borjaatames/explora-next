@@ -101,17 +101,9 @@ keywords:
 - ubeda baeza unesco
 - ubeda day trip granada
 - discovering spain ubeda
-imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp"
-imagenAlt: Renaissance square with Salvador Chapel and palatial architecture from Spain's Golden Age
+imagen: "/images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp"
+imagenAlt: "Plaza Vázquez de Molina in Úbeda, with the Sacra Capilla del Salvador"
 galeria:
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp
-  alt: "Renaissance cathedral interior with ornate stone arches and religious architectural details from Andalusian period"
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-palacio-renacentista-ubeda-03-hero.webp
-  alt: "Renaissance palace facade in Ubeda with ornamental stonework, monumental entrance, and classical columns"
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-vista-panoramica-ciudad-ubeda-04-hero.webp
-  alt: "Aerial panoramic view of Úbeda's Renaissance architecture and surrounding rural Andalusian landscape"
-- src: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
-  alt: "Plaza Vázquez de Molina in Úbeda"
 - src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
   alt: "Renaissance courtyard of the Hospital de Santiago in Úbeda"
 - src: /images/actividades/granada/ubeda/ubeda-pixabay-1747773.webp

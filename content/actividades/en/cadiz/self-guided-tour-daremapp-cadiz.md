@@ -63,13 +63,19 @@ imagen: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
 imagenAlt: Self-guided Cádiz tour with the DareMapp app
 galeria:
 - src: https://imgcdn.bokun.tools/11616e1c-19cc-4476-9c19-5854cde71b6c.jpg
-  alt: The Parroquia de la Santa Cruz on the self-guided Cádiz route
+  alt: "The Parroquia de la Santa Cruz on the self-guided Cádiz route"
 - src: https://imgcdn.bokun.tools/3f91f493-17cf-40cf-aabc-c06784e82871.jpg
-  alt: The Gran Teatro Falla on the self-guided Cádiz route
+  alt: "The Gran Teatro Falla on the self-guided Cádiz route"
 - src: https://imgcdn.bokun.tools/0f7e9a9a-46f4-4e7f-b942-1f8e36170bba.jpg
-  alt: The Museo de Cádiz on the self-guided Cádiz route
+  alt: "The Museo de Cádiz on the self-guided Cádiz route"
 - src: https://imgcdn.bokun.tools/69a87e34-afff-444c-9cc9-9c83169ac647.jpg
-  alt: The Cathedral on the self-guided Cádiz route
+  alt: "The Cathedral on the self-guided Cádiz route"
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: "Façade of Cádiz Cathedral"
+- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
+  alt: "The Constitution of 1812 Bridge lit up at night"
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: "Arco de los Blanco in the Pópulo quarter"
 atraccionesRelacionadas:
   - centro-historico
 publicada: true

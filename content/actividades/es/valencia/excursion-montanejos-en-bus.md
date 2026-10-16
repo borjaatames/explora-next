@@ -40,8 +40,8 @@ keywords:
 - excursion montanejos en bus
 - fuentes termales montanejos
 - pozas montanejos desde valencia
-imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
-imagenAlt: Pozas turquesa de aguas termales en Montanejos, Castellón
+imagen: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp"
+imagenAlt: "Poza de la Fuente de los Baños en Montanejos"
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
   alt: "Excursión a Montanejos en bus, foto 1 de 1"
@@ -49,6 +49,18 @@ galeria:
   alt: "Río Mijares a su paso por Montanejos, entre montañas de Castellón"
 - src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
   alt: "Pueblo de Montanejos entre montañas"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
+  alt: "El río Mijares a su paso por Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
+  alt: "Paredes de roca junto a la Fuente de los Baños"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
+  alt: "Fuente de los Baños, con su panel de azulejos"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
+  alt: "Bañistas en el río Mijares en Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
+  alt: "Torre y plaza de la Iglesia de Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
+  alt: "Cartel de Montanejos, villa termal"
 atraccionesRelacionadas:
   - excursiones
 publicada: true

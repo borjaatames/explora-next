@@ -65,13 +65,21 @@ imagen: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
 imagenAlt: Tour autoguiado por Barcelona con la app DareMapp
 galeria:
 - src: https://imgcdn.bokun.tools/207918b5-2342-4b45-8936-47f5a828b573.jpg
-  alt: La Sagrada Familia durante el recorrido autoguiado por Barcelona
+  alt: "La Sagrada Familia durante el recorrido autoguiado por Barcelona"
 - src: https://imgcdn.bokun.tools/dc4be5d3-0d80-40ad-902b-dee0c81ad582.jpg
-  alt: La Casa Batlló durante el recorrido autoguiado por Barcelona
+  alt: "La Casa Batlló durante el recorrido autoguiado por Barcelona"
 - src: https://imgcdn.bokun.tools/861e3f0d-8142-4999-9aec-177f4b96836c.jpg
-  alt: El Modernismo barcelonés durante el recorrido autoguiado por Barcelona
+  alt: "El Modernismo barcelonés durante el recorrido autoguiado por Barcelona"
 - src: https://imgcdn.bokun.tools/d9cbc790-1aa5-4beb-b04e-55879a769fff.jpg
-  alt: Recorrido autoguiado por Barcelona con la app DareMapp
+  alt: "Recorrido autoguiado por Barcelona con la app DareMapp"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+  alt: "Arcos del claustro de la Catedral de Barcelona y su jardín"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: "Calle estrecha del Barrio Gótico de Barcelona con arquitectura medieval y fachadas históricas"
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
+  alt: "Panorámica de Barcelona con arquitectura modernista y horizonte urbano"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
+  alt: "Casa Milà bajo un cielo azul con nubes"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

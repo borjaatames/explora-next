@@ -56,13 +56,19 @@ imagen: "https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg"
 imagenAlt: Quick 20-minute photo shoot in Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/40b8a734-bfbb-4d2c-b166-9517b9c4d354.jpg
-  alt: Candid moment captured during the quick session in Barcelona, photo 1 of 4
+  alt: "Candid moment captured during the quick session in Barcelona, photo 1 of 4"
 - src: https://imgcdn.bokun.tools/966da696-a772-45b9-a42a-5be0a0fd4110.jpg
-  alt: Natural photo taken near the Sagrada Familia, photo 2 of 4
+  alt: "Natural photo taken near the Sagrada Familia, photo 2 of 4"
 - src: https://imgcdn.bokun.tools/9caaaec9-b600-4e58-bc9b-dece7fb5c7b1.jpg
-  alt: Edited keepsake from the quick photo shoot in Barcelona, photo 3 of 4
+  alt: "Edited keepsake from the quick photo shoot in Barcelona, photo 3 of 4"
 - src: https://imgcdn.bokun.tools/f49d2e55-64f9-41d2-825b-432c99c7b860.jpg
-  alt: Detail shot from the 20-minute session in Barcelona, photo 4 of 4
+  alt: "Detail shot from the 20-minute session in Barcelona, photo 4 of 4"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+  alt: "Arches of the Barcelona Cathedral cloister and its garden"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
+  alt: "Barcelona cityscape with historic architecture and Mediterranean atmosphere"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

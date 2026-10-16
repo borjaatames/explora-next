@@ -61,13 +61,19 @@ imagen: "https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg"
 imagenAlt: Tour autoguiado DareMapp por Salamanca
 galeria:
 - src: https://imgcdn.bokun.tools/0603c3d6-6a68-4703-83f9-46c1aba473d2.jpg
-  alt: Tour autoguiado DareMapp por Salamanca, foto 1 de 4
+  alt: "Tour autoguiado DareMapp por Salamanca, foto 1 de 4"
 - src: https://imgcdn.bokun.tools/994feb55-c91d-4eab-b30e-9f6b78ab625a.jpg
-  alt: Tour autoguiado DareMapp por Salamanca, foto 2 de 4
+  alt: "Tour autoguiado DareMapp por Salamanca, foto 2 de 4"
 - src: https://imgcdn.bokun.tools/424a7197-a308-437a-80e6-afde90a88830.jpg
-  alt: Tour autoguiado DareMapp por Salamanca, foto 3 de 4
+  alt: "Tour autoguiado DareMapp por Salamanca, foto 3 de 4"
 - src: https://imgcdn.bokun.tools/b4ff9e63-deea-4a1b-b4c5-1e7b3d7ca5b6.jpg
-  alt: Tour autoguiado DareMapp por Salamanca, foto 4 de 4
+  alt: "Tour autoguiado DareMapp por Salamanca, foto 4 de 4"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
+  alt: "Fachada del Ayuntamiento en la Plaza Mayor"
+- src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
+  alt: "Universidad de Salamanca, fachada histórica con arquitectura gótica y renacentista"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
+  alt: "Interior de la Catedral Nueva"
 atraccionesRelacionadas:
   - casco-historico
 publicada: true

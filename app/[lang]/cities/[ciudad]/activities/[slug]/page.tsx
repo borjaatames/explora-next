@@ -21,6 +21,7 @@ import {
 import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
 import GaleriaActividad from "@/components/GaleriaActividad";
+import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import BokunWidget from "@/components/BokunWidget";
@@ -308,6 +309,10 @@ export default async function ActividadPage({ params }: Props) {
             }}
             galeria={actividad.galeria}
             destacada={actividad.destacada}
+          />
+          <CreditosFotos
+            idioma={lang}
+            srcs={[actividad.imagen, ...(actividad.galeria ?? []).map((g) => g.src)]}
           />
         </div>
       )}

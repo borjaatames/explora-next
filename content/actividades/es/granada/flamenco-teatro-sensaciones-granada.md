@@ -101,6 +101,10 @@ galeria:
   alt: "Sala y escenario del Teatro Flamenco Granada"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
   alt: "Bailaoras de rojo en el espectáculo Sensaciones"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "El Albaicín al caer la tarde"
+- src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
+  alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 

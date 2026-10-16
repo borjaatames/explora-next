@@ -65,35 +65,39 @@ keywords:
 - barcelona powerboat
 - high speed boat barcelona
 - speedboat barcelona
-imagen: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp"
-imagenAlt: "High-speed powerboat in Barcelona's Port Vell"
+imagen: "/images/actividades/barcelona/barcos/barcos-lancha-costa.webp"
+imagenAlt: "Speedboat off the Barcelona coast"
 galeria:
-  - src: "https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg"
-    alt: "Barcelona high-speed powerboat ride, photo 1 of 5"
-  - src: "https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg"
-    alt: "Barcelona high-speed powerboat ride, photo 2 of 5"
-  - src: "https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg"
-    alt: "Barcelona high-speed powerboat ride, photo 3 of 5"
-  - src: "https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg"
-    alt: "Barcelona high-speed powerboat ride, photo 4 of 5"
-  - src: "https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg"
-    alt: "Barcelona high-speed powerboat ride, photo 5 of 5"
-  - src: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp"
-    alt: "Group wearing life jackets aboard a speedboat off the coast of Barcelona"
-  - src: "/images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp"
-    alt: "Speedboat kicking up a big splash of water with passengers laughing on board"
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
-    alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp"
-    alt: "Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background"
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
-    alt: "Sunbathers and walkers on the sand of Barceloneta beach on a sunny day"
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
-    alt: "View of Barceloneta beach with the marina and palm trees in the background"
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp"
-    alt: "Sailboat and parasailing off Barceloneta beach"
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp"
-    alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
+- src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
+  alt: "Barcelona high-speed powerboat ride, photo 1 of 5"
+- src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
+  alt: "Barcelona high-speed powerboat ride, photo 2 of 5"
+- src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
+  alt: "Barcelona high-speed powerboat ride, photo 3 of 5"
+- src: https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg
+  alt: "Barcelona high-speed powerboat ride, photo 4 of 5"
+- src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
+  alt: "Barcelona high-speed powerboat ride, photo 5 of 5"
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
+  alt: "Group wearing life jackets aboard a speedboat off the coast of Barcelona"
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
+  alt: "Speedboat kicking up a big splash of water with passengers laughing on board"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
+  alt: "Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
+  alt: "Sunbathers and walkers on the sand of Barceloneta beach on a sunny day"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: "View of Barceloneta beach with the marina and palm trees in the background"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: "Sailboat and parasailing off Barceloneta beach"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
+  alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
+- src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
+  alt: "High-speed powerboat in Barcelona's Port Vell"
+- src: /images/actividades/barcelona/barcos/barcos-lancha-mar.webp
+  alt: "Speedboat on the Mediterranean off Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-06-18'

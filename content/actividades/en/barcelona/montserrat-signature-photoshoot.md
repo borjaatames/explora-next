@@ -57,13 +57,19 @@ imagen: "https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg"
 imagenAlt: Montserrat Signature private photoshoot, day trip from Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
-  alt: Montserrat mountain scenery during the photoshoot, photo 1 of 4
+  alt: "Montserrat mountain scenery during the photoshoot, photo 1 of 4"
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg
-  alt: Edited photo taken at the Montserrat Monastery, photo 2 of 4
+  alt: "Edited photo taken at the Montserrat Monastery, photo 2 of 4"
 - src: https://imgcdn.bokun.tools/3aff3e60-d3a2-499b-aff2-cd9288b975e4.jpg
-  alt: Moment captured in Montserrat with mountain views, photo 3 of 4
+  alt: "Moment captured in Montserrat with mountain views, photo 3 of 4"
 - src: https://imgcdn.bokun.tools/124e91c5-b87d-42e6-a90d-e12a3f7235c9.jpg
-  alt: Detail shot from the Signature photoshoot in Montserrat, photo 4 of 4
+  alt: "Detail shot from the Signature photoshoot in Montserrat, photo 4 of 4"
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
+  alt: "Montserrat monastery cloister with stone arches and abbey corridor"
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
+  alt: "Montserrat monastery perched on dramatic rocky mountain peaks near Barcelona"
+- src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
+  alt: "Montserrat's dramatic rock formations and mountain landscape near Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -63,13 +63,21 @@ imagen: "https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg"
 imagenAlt: Tour autoguiado DareMapp por Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/2c8244c4-2afd-43dd-8a82-d3273d97a936.jpg
-  alt: Tour autoguiado DareMapp por Madrid, foto 1 de 4
+  alt: "Tour autoguiado DareMapp por Madrid, foto 1 de 4"
 - src: https://imgcdn.bokun.tools/6207309c-7c1e-4b6a-927c-28327d984c72.jpg
-  alt: Tour autoguiado DareMapp por Madrid, foto 2 de 4
+  alt: "Tour autoguiado DareMapp por Madrid, foto 2 de 4"
 - src: https://imgcdn.bokun.tools/fe465ef9-00a1-40bb-b436-f2c82554182b.jpg
-  alt: Tour autoguiado DareMapp por Madrid, foto 3 de 4
+  alt: "Tour autoguiado DareMapp por Madrid, foto 3 de 4"
 - src: https://imgcdn.bokun.tools/0194940e-e2ca-42f3-aa68-7dc0d048b832.jpg
-  alt: Tour autoguiado DareMapp por Madrid, foto 4 de 4
+  alt: "Tour autoguiado DareMapp por Madrid, foto 4 de 4"
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: "Palacio Real de Madrid, parada de la ruta histórica"
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
+  alt: "Plaza de Callao de noche, a pocos pasos del Tablao Torres Bermejas"
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
+  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

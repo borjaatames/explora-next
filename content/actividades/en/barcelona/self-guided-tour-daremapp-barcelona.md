@@ -65,13 +65,21 @@ imagen: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
 imagenAlt: Self-guided Barcelona tour with the DareMapp app
 galeria:
 - src: https://imgcdn.bokun.tools/207918b5-2342-4b45-8936-47f5a828b573.jpg
-  alt: The Sagrada Familia on the self-guided Barcelona route
+  alt: "The Sagrada Familia on the self-guided Barcelona route"
 - src: https://imgcdn.bokun.tools/dc4be5d3-0d80-40ad-902b-dee0c81ad582.jpg
-  alt: Casa Batlló on the self-guided Barcelona route
+  alt: "Casa Batlló on the self-guided Barcelona route"
 - src: https://imgcdn.bokun.tools/861e3f0d-8142-4999-9aec-177f4b96836c.jpg
-  alt: Barcelona's Modernisme architecture on the self-guided Barcelona route
+  alt: "Barcelona's Modernisme architecture on the self-guided Barcelona route"
 - src: https://imgcdn.bokun.tools/d9cbc790-1aa5-4beb-b04e-55879a769fff.jpg
-  alt: Self-guided Barcelona tour with the DareMapp app
+  alt: "Self-guided Barcelona tour with the DareMapp app"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+  alt: "Arches of the Barcelona Cathedral cloister and its garden"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: "Gothic Quarter Barcelona: narrow medieval street with historic architecture and stone buildings"
+- src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
+  alt: "Barcelona cityscape with historic architecture and Mediterranean atmosphere"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
+  alt: "Casa Milà under a blue sky with clouds"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

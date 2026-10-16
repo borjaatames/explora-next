@@ -101,17 +101,9 @@ keywords:
 - ubeda baeza unesco
 - excursion ubeda granada
 - discovering spain ubeda
-imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-calles-empedradas-baeza-02-hero.webp"
-imagenAlt: Plaza Vázquez de Molina en Úbeda con Capilla del Salvador y palacios renacentistas, arquitectura del Siglo de Oro
+imagen: "/images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp"
+imagenAlt: "Plaza Vázquez de Molina en Úbeda, con la Sacra Capilla del Salvador"
 galeria:
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp
-  alt: "Interior de la Catedral de Baeza con columnas renacentistas y bóvedas de crucería características del Renacimiento andaluz"
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-palacio-renacentista-ubeda-03-hero.webp
-  alt: "Fachada renacentista con portada monumental, columnas ornamentadas y detalles arquitectónicos en piedra"
-- src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-vista-panoramica-ciudad-ubeda-04-hero.webp
-  alt: "Vista aérea de Úbeda con su conjunto renacentista y paisaje rural circundante"
-- src: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
-  alt: "Plaza Vázquez de Molina en Úbeda"
 - src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
   alt: "Patio renacentista del Hospital de Santiago en Úbeda"
 - src: /images/actividades/granada/ubeda/ubeda-pixabay-1747773.webp

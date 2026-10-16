@@ -72,13 +72,23 @@ imagen: https://imgcdn.bokun.tools/7249db2c-9ea4-4dba-a525-439b2f5501cd.jpg
 imagenAlt: Camarero sirviendo una tapa en un bar de Granada
 galeria:
 - src: https://imgcdn.bokun.tools/16e9a455-2914-4013-9b28-570eb9ae952d.jpg
-  alt: Grupo con su guía en una calle encalada de Granada
+  alt: "Grupo con su guía en una calle encalada de Granada"
 - src: https://imgcdn.bokun.tools/993c6dcd-be8f-4d3a-b387-b09bdf74610d.jpg
-  alt: Paseo por una calle del centro histórico
+  alt: "Paseo por una calle del centro histórico"
 - src: https://imgcdn.bokun.tools/ad6215b4-d87f-4d89-ad47-b98e2b6b5692.jpg
-  alt: Callejuela empedrada durante el tour
+  alt: "Callejuela empedrada durante el tour"
 - src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
-  alt: Vista panorámica de Granada desde la Alhambra
+  alt: "Vista panorámica de Granada desde la Alhambra"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "El Albaicín al caer la tarde"
+- src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
+  alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
+- src: /images/actividades/granada/tapas/tapas-la-fontana.webp
+  alt: "Tapas en un bar de Granada"
+- src: /images/actividades/granada/tapas/tapas-tapas-sur.webp
+  alt: "Tapas con vino en Granada"
+- src: /images/actividades/granada/tapas/tapas-vista-alhambra.webp
+  alt: "La Alhambra vista desde el Albaicín"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

@@ -7,3 +7,5 @@
 - `estacion-maritima.webp` — Fabian Hurst, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Eivissa_Estaci%C3%B3_Mar%C3%ADtima_de_Formentera.jpg) · recortada a 1600×1200
 - `migjorn.webp` — diluvi.com, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Migjorn_%28625343774%29.jpg) · recortada a 1600×1200
 - `mal-pas.webp` — Joan Gené, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Formentera._El_Pi_del_Catal%C3%A0._Platja_del_Mal_Pas.jpg) · recortada a 1600×1200
+- `formentera-pexels-33838897-hero.webp` — Pexels, foto 33838897, licencia Pexels (https://www.pexels.com/photo/33838897/)
+- `formentera-pexels-5096831-hero.webp` — Pexels, foto 5096831, licencia Pexels (https://www.pexels.com/photo/5096831/)

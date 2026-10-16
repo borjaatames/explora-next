@@ -65,13 +65,19 @@ imagen: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
 imagenAlt: Tour autoguiado por Girona con la app DareMapp
 galeria:
 - src: https://imgcdn.bokun.tools/d4056f2e-618b-4d0c-bc59-d888233ca126.jpg
-  alt: El Puente de Piedra durante el recorrido autoguiado por Girona
+  alt: "El Puente de Piedra durante el recorrido autoguiado por Girona"
 - src: https://imgcdn.bokun.tools/e6b2e28e-6215-4ef1-88a7-d07d522f25b6.jpg
-  alt: La Plaza Sant Feliu durante el recorrido autoguiado por Girona
+  alt: "La Plaza Sant Feliu durante el recorrido autoguiado por Girona"
 - src: https://imgcdn.bokun.tools/28842062-1987-458e-a5e7-50ed7cde8ebf.jpg
-  alt: El Call (barrio judío) durante el recorrido autoguiado por Girona
+  alt: "El Call (barrio judío) durante el recorrido autoguiado por Girona"
 - src: https://imgcdn.bokun.tools/3c6f4814-7e8a-4bb3-acfe-8be328cc37de.jpg
-  alt: La Rambla de la Llibertat durante el recorrido autoguiado por Girona
+  alt: "La Rambla de la Llibertat durante el recorrido autoguiado por Girona"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
+  alt: "Casas de colores del Onyar reflejadas en el río"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp
+  alt: "Escalinata de la Catedral de Girona"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
+  alt: "Fachadas del Onyar en Girona"
 publicada: true
 destacada: false
 fecha: '2026-09-05'
