@@ -159,26 +159,33 @@ keywords:
 - espectáculo flamenco barcelona cena
 - tablao flamenco histórico barcelona
 - show flamenco sin micrófonos
-imagen: "/images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp"
-imagenAlt: Bailaora con traje flamenco rojo realizando zapateado intenso en tablao de Barcelona, brazos en movimiento y expresión
-  apasionada.
+imagen: "/images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-cuadro-escenario.webp"
+imagenAlt: "Bailaora y cuadro flamenco en el escenario del Tablao Cordobés"
 galeria:
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-guitar-acoust-hero.webp
-  alt: "Guitarra flamenca tocada en directo"
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-rambla-barcel-hero.webp
-  alt: "Placa de La Rambla, donde está el tablao"
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
-  alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-cantaora-cartel.webp
+  alt: "Cantaora bajo el cartel del Tablao Flamenco Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-manton-blanco.webp
+  alt: "Bailaora con mantón blanco en el Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tres-bailaores.webp
+  alt: "Bailaora y dos bailaores en el escenario del Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-tablao.webp
+  alt: "Sala del tablao con decoración de inspiración andalusí"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-escalera-azulejos.webp
+  alt: "Escalera de azulejos de la entrada del Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-arcos.webp
+  alt: "Sala con arcos y sillas de enea del Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-comedor.webp
+  alt: "Comedor del restaurante del Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bufe.webp
+  alt: "Bufé de la cena del Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-paella.webp
+  alt: "Paella del bufé del Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tabla-tapas.webp
+  alt: "Tabla de tapas, quesos y embutidos del tablao"
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
   alt: "Balcón modernista en La Rambla"
-- src: /images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp
-  alt: "Farolas y plátanos de La Rambla"
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
   alt: "Paseo central de La Rambla de Barcelona"
-- src: /images/actividades/barcelona/rambla/rambla-pixabay-242042.webp
-  alt: "Placas de La Rambla y Rambla de Santa Mònica"
-- src: /images/actividades/barcelona/rambla/rambla-pixabay-325901.webp
-  alt: "Estatua viviente en La Rambla"
 - src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
   alt: "La Rambla con sus árboles"
 ratingProveedor: 4.6

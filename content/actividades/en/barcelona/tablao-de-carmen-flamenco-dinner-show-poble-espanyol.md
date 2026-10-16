@@ -164,25 +164,33 @@ keywords:
 - carmen amaya tablao
 - flamenco dinner montjuic barcelona
 - flamenco show with dinner barcelona
-imagen: "/images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-carmen-amaya-h-hero.webp"
-imagenAlt: Flamenco dancer in traditional dress performing with intensity on Barcelona tablao stage
+imagen: "/images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-espectaculo-farolillos.webp"
+imagenAlt: "Show beneath the paper lanterns of Tablao de Carmen"
 galeria:
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-cena-durante-e-hero.webp
-  alt: "Table with tapas and drinks for the tablao dinner"
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-tablao-interio-hero.webp
-  alt: "Intimate atmosphere with red lamps in the tablao"
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
-  alt: "Flamenco dancers with red fans on stage"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-escenario-publico.webp
+  alt: "Tablao de Carmen hall with stage and audience"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-cuadro.webp
+  alt: "Dancer and flamenco troupe at Tablao de Carmen"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-falda.webp
+  alt: "Dancer mid-performance in front of the audience"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-cante-sala.webp
+  alt: "Singer and guitar in the lantern-lit hall"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-roja.webp
+  alt: "Dancer in red with singer and guitarist"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-ambiente.webp
+  alt: "The hall during the show"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-zapateado.webp
+  alt: "Footwork right next to the audience tables"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-lunares.webp
+  alt: "Polka-dot dancer with the guitarist"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-tapas-cena.webp
+  alt: "Dinner tapas at Tablao de Carmen"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-entrada-poble-espanyol.webp
+  alt: "Tablao de Carmen entrance in the Poble Espanyol"
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
   alt: "Aerial view of the Poble Espanyol on Montjuïc"
-- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-barcelona-montju-c-poble-espanyol-de-bar-02.webp
-  alt: "Gardens and pines of the Poble Espanyol"
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d189-poble-espanyol-carrer-caballeros-jp-03.webp
   alt: "Carrer dels Cavallers in the Poble Espanyol"
-- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-a-street-in-poble-espanyol-in-barcelona-04.webp
-  alt: "Whitewashed lane in the Poble Espanyol"
-- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d201-poble-espanyol-pla-a-major-jpg-05.webp
-  alt: "Bandstand on the main square of the Poble Espanyol"
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
   alt: "Main square of the Poble Espanyol"
 ratingProveedor: 4.8

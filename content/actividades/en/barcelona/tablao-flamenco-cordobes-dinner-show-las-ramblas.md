@@ -156,26 +156,33 @@ keywords:
 - flamenco show barcelona dinner
 - historic flamenco tablao barcelona
 - no microphone flamenco show
-imagen: "/images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp"
-imagenAlt: Flamenco dancer in red and black dress performing intense footwork on Barcelona tablao stage with passionate expression
-  and flowing arms
+imagen: "/images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-cuadro-escenario.webp"
+imagenAlt: "Dancer and flamenco troupe on the Tablao Cordobés stage"
 galeria:
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-guitar-acoust-hero.webp
-  alt: "Flamenco guitar played live"
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-rambla-barcel-hero.webp
-  alt: "La Rambla street sign, where the tablao is located"
-- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
-  alt: "Flamenco dancers with red fans on stage"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-cantaora-cartel.webp
+  alt: "Singer beneath the Tablao Flamenco Cordobés sign"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-manton-blanco.webp
+  alt: "Dancer with a white shawl at Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tres-bailaores.webp
+  alt: "A female and two male dancers on the Cordobés stage"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-tablao.webp
+  alt: "The tablao hall with Andalusian-inspired decor"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-escalera-azulejos.webp
+  alt: "Tiled staircase at the Tablao Cordobés entrance"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-arcos.webp
+  alt: "Hall with arches and rush chairs at Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-comedor.webp
+  alt: "Tablao Cordobés restaurant dining room"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bufe.webp
+  alt: "Dinner buffet at Tablao Cordobés"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-paella.webp
+  alt: "Paella from the Tablao Cordobés buffet"
+- src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tabla-tapas.webp
+  alt: "Board of tapas, cheese and cured meats at the tablao"
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
   alt: "Modernist balcony on La Rambla"
-- src: /images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp
-  alt: "Street lamps and plane trees on La Rambla"
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
   alt: "Central promenade of La Rambla in Barcelona"
-- src: /images/actividades/barcelona/rambla/rambla-pixabay-242042.webp
-  alt: "Street signs for La Rambla and Rambla de Santa Mònica"
-- src: /images/actividades/barcelona/rambla/rambla-pixabay-325901.webp
-  alt: "Living statue on La Rambla"
 - src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
   alt: "La Rambla lined with trees"
 ratingProveedor: 4.6

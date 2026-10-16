@@ -154,11 +154,15 @@ keywords:
 - andalusian patio flamenco
 - authentic flamenco seville
 - flamenco 2 rows seville
-imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
-imagenAlt: Flamenco stage in traditional Andalusian courtyard with intimate seating arrangement close to performers in Seville
+imagen: "/images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-abanico-puerta.webp"
+imagenAlt: "Dancer with a fan at the door of Casa de la Memoria"
 galeria:
-- src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
-  alt: "Engaged audience members sitting close to stage in Seville, showing expressions of emotion and concentration during live performance"
+- src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
+  alt: "Inner courtyard of Casa de la Memoria in central Seville"
+- src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
+  alt: "Hall and stage at Casa de la Memoria"
+- src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-manton.webp
+  alt: "Dancer with a shawl from the Casa de la Memoria cast"
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
   alt: "Las Setas at La Encarnación, a few minutes' walk away"
 ratingProveedor: 4.8

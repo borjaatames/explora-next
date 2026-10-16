@@ -167,26 +167,33 @@ keywords:
 - carmen amaya tablao
 - cena flamenco montjuïc barcelona
 - show flamenco con cena barcelona
-imagen: "/images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-carmen-amaya-h-hero.webp"
-imagenAlt: Bailaora en movimiento con traje flamenco tradicional en tablao de Barcelona, expresando intensidad y pasión en
-  su danza
+imagen: "/images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-espectaculo-farolillos.webp"
+imagenAlt: "Espectáculo bajo los farolillos del Tablao de Carmen"
 galeria:
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-cena-durante-e-hero.webp
-  alt: "Mesa con tapas y copas para la cena del tablao"
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-tablao-interio-hero.webp
-  alt: "Ambiente íntimo con lámparas rojas en el tablao"
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
-  alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-escenario-publico.webp
+  alt: "Sala del Tablao de Carmen con el escenario y el público"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-cuadro.webp
+  alt: "Bailaora y cuadro flamenco en el Tablao de Carmen"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-falda.webp
+  alt: "Bailaora en pleno baile ante el público"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-cante-sala.webp
+  alt: "Cantaor y guitarra en la sala de farolillos"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-roja.webp
+  alt: "Bailaora de rojo con cante y guitarra"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-ambiente.webp
+  alt: "Ambiente de la sala durante el espectáculo"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-zapateado.webp
+  alt: "Zapateado junto a las mesas del público"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-lunares.webp
+  alt: "Bailaora de lunares con el guitarrista"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-tapas-cena.webp
+  alt: "Tapas de la cena del Tablao de Carmen"
+- src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-entrada-poble-espanyol.webp
+  alt: "Entrada del Tablao de Carmen en el Poble Espanyol"
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
   alt: "Vista aérea del Poble Espanyol en Montjuïc"
-- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-barcelona-montju-c-poble-espanyol-de-bar-02.webp
-  alt: "Jardines y pinos del Poble Espanyol"
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d189-poble-espanyol-carrer-caballeros-jp-03.webp
   alt: "Calle de los Caballeros en el Poble Espanyol"
-- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-a-street-in-poble-espanyol-in-barcelona-04.webp
-  alt: "Callejuela encalada del Poble Espanyol"
-- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d201-poble-espanyol-pla-a-major-jpg-05.webp
-  alt: "Templete en la plaza Mayor del Poble Espanyol"
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
   alt: "Plaza Mayor del Poble Espanyol"
 ratingProveedor: 4.8

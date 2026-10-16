@@ -91,10 +91,16 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "teatro flamenco granada", "flamenco campo del principe", "central flamenco granada", "accessible flamenco granada"]
 
 
-imagen: "/images/actividades/granada/teatro-flamenco-granada/teatro-flamenco-granada-sensaciones.png"
-imagenAlt: "Flamenco show with dancers and guitar at Teatro Flamenco Granada"
+imagen: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp"
+imagenAlt: "Dancer in a flounced dress at Teatro Flamenco Granada"
 
 galeria:
+- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
+  alt: "Dance troupe on the Teatro Flamenco Granada stage"
+- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
+  alt: "Hall and stage of Teatro Flamenco Granada"
+- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
+  alt: "Dancers in red in the Sensaciones show"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 

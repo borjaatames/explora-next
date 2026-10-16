@@ -160,14 +160,25 @@ keywords:
 - flamenco barrio gitano sevilla
 - calle betis flamenco
 - show flamenco al otro lado del rio
-imagen: "/images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-bailaora-flamenco-esc-hero.webp"
-imagenAlt: Bailaora en movimiento ejecutando flamenco con traje tradicional rojo y volantes, captura de intensidad y pasión
-  en escena
+imagen: "/images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-bailaora-cuadro-escenario.webp"
+imagenAlt: "Bailaora y cuadro flamenco en el escenario del Teatro Flamenco Triana"
 galeria:
-- src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-interior-teatro-asien-hero.webp
-  alt: "Interior de teatro sevillano con asientos acolchados y escenario iluminado profesionalmente"
-- src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-guitarrista-cantaor-d-hero.webp
-  alt: "Guitarrista y cantaor en concierto flamenco, expresión intensa del cantante con guitarra tradicional"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-sala-teatro-azul.webp
+  alt: "Sala azul y dorada del Teatro Flamenco Triana"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-patio-butacas-escenario.webp
+  alt: "Patio de butacas y escenario del Teatro Flamenco Triana"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-escenario-sillas.webp
+  alt: "Escenario del Teatro Flamenco Triana antes del espectáculo"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-butacas-azules.webp
+  alt: "Butacas azules del Teatro Flamenco Triana"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-patio-casa.webp
+  alt: "Patio de la casa sevillana que alberga el teatro"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-patio-publico.webp
+  alt: "Público en el patio del teatro antes de la función"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-terraza.webp
+  alt: "Terraza del Teatro Flamenco Triana"
+- src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-vistas-giralda.webp
+  alt: "Vistas a la Giralda desde la terraza del teatro"
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-barrio-triana-calle-b-hero.webp
   alt: "Calle histórica de Triana con vista al Guadalquivir y la Catedral de Sevilla al fondo"
 ratingProveedor: 4.7

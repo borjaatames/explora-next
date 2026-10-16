@@ -168,15 +168,23 @@ keywords:
 - puro flamenco show sevilla
 - patio ecija flamenco
 - show flamenco patio andaluz sevilla
-imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-cuadro-completo-artis-hero.webp"
-imagenAlt: "Cuadro flamenco completo en el escenario del Museo del Baile Flamenco"
+imagen: "/images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-espectaculo-bailaora-rojo.webp"
+imagenAlt: "Bailaora de rojo en el espectáculo del Museo del Baile Flamenco"
 galeria:
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-patio-ecija-xviii-01-hero.webp
-  alt: "Patio andaluz colonial con sillas para espectadores, arquitectura sevillana tradicional, naranjos e iluminación teatral profesional"
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-guitarra-cantaor-03-hero.webp
-  alt: "Guitarrista y cantaor en escena con iluminación teatral, fusionando guitarra y voz en la esencia del flamenco sevillano"
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-detalle-traje-flamenc-hero.webp
-  alt: "Traje flamenco tradicional con volantes y encajes, detalle de la artesanía y elegancia del atuendo de bailaora sevillana."
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-bailaora-publico.webp
+  alt: "Bailaora junto al público en la sala del museo"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-patio-escenario.webp
+  alt: "Patio del Museo del Baile Flamenco preparado para el espectáculo"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-cuadro-flamenco-arcos.webp
+  alt: "Cuadro flamenco bajo los arcos de ladrillo del museo"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-boveda-bailaora.webp
+  alt: "Bailaora en la sala de bóveda del museo"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-bailaor-luz-azul.webp
+  alt: "Bailaor con luz azul en el escenario del museo"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-sala-boveda-publico.webp
+  alt: "Espectáculo en la sala de bóveda con el público"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-sala-trajes.webp
+  alt: "Sala de trajes flamencos del museo"
 ratingProveedor: 4.8
 numeroOpiniones: 6456
 publicada: true

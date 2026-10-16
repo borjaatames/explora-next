@@ -155,12 +155,15 @@ keywords:
 - patio andaluz flamenco
 - flamenco autentico sevilla
 - show flamenco 2 filas sevilla
-imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
-imagenAlt: Escenario flamenco en patio andaluz de Sevilla con dos filas de asientos cercanos, artistas y público a 2-3 metros
-  de distancia
+imagen: "/images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-abanico-puerta.webp"
+imagenAlt: "Bailaora con abanico ante la puerta de la Casa de la Memoria"
 galeria:
-- src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
-  alt: "Público en primera fila del escenario en Sevilla, rostros concentrados disfrutando del directo de los artistas"
+- src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
+  alt: "Patio interior de la Casa de la Memoria, en el centro de Sevilla"
+- src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
+  alt: "Sala y escenario de la Casa de la Memoria"
+- src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-manton.webp
+  alt: "Bailaora con mantón del elenco de la Casa de la Memoria"
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
   alt: "Las Setas de la Encarnación, a pocos minutos a pie"
 ratingProveedor: 4.8

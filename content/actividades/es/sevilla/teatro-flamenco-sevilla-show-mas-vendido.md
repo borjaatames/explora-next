@@ -159,18 +159,17 @@ keywords:
 - flamenco show barato sevilla
 - flamenco barrio santa cruz
 - show flamenco asequible sevilla
-imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-bailaora-flamenco-esc-hero.webp"
-imagenAlt: Bailaora en escenario con falda volante, postura flamenca característica y luz profesional
+imagen: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaoras-especial-sevillanas.webp"
+imagenAlt: "Dos bailaoras en el escenario del Teatro Flamenco Sevilla"
 galeria:
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp
-  alt: Teatro con asientos escalonados, público observando espectáculo con iluminación profesional del escenario
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-musicos-flamencos-v-hero.webp
-  alt: Guitarrista flamenco tocando en escena con intensidad durante espectáculo en Sevilla
+- src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp
+  alt: "Bailaora a contraluz en el Teatro Flamenco Sevilla"
+- src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-cante-pandereta.webp
+  alt: "Cante y pandereta en el escenario del Teatro Flamenco Sevilla"
+- src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaor-palmas.webp
+  alt: "Bailaor con cante y guitarra en el Teatro Flamenco Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-barrio-santa-cruz-n-hero.webp
-  alt: Calle nocturna del barrio Santa Cruz de Sevilla con arquitectura tradicional andaluza, farolas históricas e inmuebles
-    coloniales cercanos al teatro.
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-detalle-vestuario-f-hero.webp
-  alt: Detalle de traje flamenco sevillano con falda de volantes, peineta, flores y bordados tradicionales
+  alt: "Calle nocturna del barrio Santa Cruz de Sevilla con arquitectura tradicional andaluza, farolas históricas e inmuebles coloniales cercanos al teatro."
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

@@ -166,15 +166,23 @@ keywords:
 - puro flamenco show seville
 - ecija patio flamenco
 - andalusian patio flamenco seville
-imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-cuadro-completo-artis-hero.webp"
-imagenAlt: "Full flamenco troupe on stage at the Flamenco Dance Museum"
+imagen: "/images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-espectaculo-bailaora-rojo.webp"
+imagenAlt: "Dancer in red at the Museo del Baile Flamenco show"
 galeria:
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-patio-ecija-xviii-01-hero.webp
-  alt: "Colonial Andalusian patio with spectator seating, traditional Seville architecture, orange trees, and professional theatrical lighting"
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-guitarra-cantaor-03-hero.webp
-  alt: "Flamenco guitarist and singer performing on stage with theatrical lighting in Seville"
-- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-detalle-traje-flamenc-hero.webp
-  alt: "Traditional flamenco dress with ruffles, lace details, and intricate embellishments showcasing andalusian craftsmanship"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-bailaora-publico.webp
+  alt: "Dancer close to the audience in the museum hall"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-patio-escenario.webp
+  alt: "Courtyard of the Museo del Baile Flamenco set up for the show"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-cuadro-flamenco-arcos.webp
+  alt: "Flamenco troupe under the museum’s brick arches"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-boveda-bailaora.webp
+  alt: "Dancer in the museum’s vaulted room"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-bailaor-luz-azul.webp
+  alt: "Male dancer under blue light on the museum stage"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-sala-boveda-publico.webp
+  alt: "Show in the vaulted room with the audience"
+- src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-sala-trajes.webp
+  alt: "Flamenco costume room in the museum"
 ratingProveedor: 4.8
 numeroOpiniones: 6456
 publicada: true

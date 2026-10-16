@@ -154,18 +154,17 @@ keywords:
 - cheap flamenco show seville
 - flamenco santa cruz neighborhood
 - affordable flamenco show seville
-imagen: "/images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-bailaora-flamenco-esc-hero.webp"
-imagenAlt: Flamenco dancer in motion on stage with flowing skirt and traditional posture, Seville
+imagen: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaoras-especial-sevillanas.webp"
+imagenAlt: "Two dancers on the Teatro Flamenco Sevilla stage"
 galeria:
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp
-  alt: Theater interior with tiered seating, audience watching performance, professional stage lighting
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-musicos-flamencos-v-hero.webp
-  alt: Flamenco musician performing passionately on stage in Seville, showcasing traditional Spanish guitar and vocal artistry
+- src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp
+  alt: "Backlit dancer at Teatro Flamenco Sevilla"
+- src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-cante-pandereta.webp
+  alt: "Singing and tambourine on the Teatro Flamenco Sevilla stage"
+- src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaor-palmas.webp
+  alt: "Male dancer with singer and guitarist at Teatro Flamenco Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-barrio-santa-cruz-n-hero.webp
-  alt: Narrow nighttime street in Seville's Santa Cruz quarter with traditional Andalusian architecture, historic lampposts,
-    and atmospheric lighting near the central theater district.
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-detalle-vestuario-f-hero.webp
-  alt: Traditional flamenco dress with ruffled skirt, ornate comb, flowers, and embroidered details
+  alt: "Narrow nighttime street in Seville's Santa Cruz quarter with traditional Andalusian architecture, historic lampposts, and atmospheric lighting near the central theater district."
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true
