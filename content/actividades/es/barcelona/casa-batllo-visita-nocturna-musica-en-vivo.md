@@ -105,10 +105,22 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-g
 imagenAlt: "Terraza de Casa Batlló de noche con música en vivo y vistas de Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 1)
+- src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
+  alt: "Fachada de la Casa Batlló iluminada en azul de noche"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero.webp
+  alt: "Tejado en forma de lomo de dragón y torre con cruz de la Casa Batlló"
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
+  alt: "Ventanales ondulados de la planta noble de la Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+  alt: "Casa Batlló entre los edificios del Paseo de Gracia"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-statues-roof-hero.webp
+  alt: "Fachada completa de la Casa Batlló con su mosaico de colores"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-3-hero.webp
+  alt: "Detalle de los balcones de la Casa Batlló bajo el sol"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-5-hero.webp
+  alt: "Mosaico azul y balcones de la Casa Batlló vistos desde abajo"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: "Techo en espiral y lámpara del salón principal de la Casa Batlló"
 ratingProveedor: 4.5
 numeroOpiniones: 377
 

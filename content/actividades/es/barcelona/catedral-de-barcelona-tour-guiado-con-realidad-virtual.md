@@ -108,11 +108,21 @@ imagenAlt: "Catedral de Barcelona con experiencia VR en la terraza"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp
-  alt: Sepulcro medieval con la efigie de un caballero, en el interior de la Catedral de Barcelona
+  alt: "Sepulcro de piedra en el claustro de la Catedral de Barcelona"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp
-  alt: Relieve de Sant Oleguer, obispo de Barcelona, en el interior de la catedral
+  alt: "Escultura de un obispo en una hornacina de la Catedral de Barcelona"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-saint-eulalia-hero.webp
-  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
+  alt: "Plaza de la Catedral de Barcelona con la fachada al fondo"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp
+  alt: "Nave central de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp
+  alt: "Bóvedas góticas y lámpara del interior de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp
+  alt: "Interior de la Catedral de Barcelona con el coro y el rosetón"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero.webp
+  alt: "Arquivoltas de la portada de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-01.webp
+  alt: "Fachada de la Catedral de Barcelona al atardecer"
 
 ratingProveedor: 4.5
 numeroOpiniones: 205

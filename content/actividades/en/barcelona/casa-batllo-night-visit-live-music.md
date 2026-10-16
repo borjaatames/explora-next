@@ -105,10 +105,22 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-g
 imagenAlt: "Casa Batlló rooftop at night with live music and Barcelona views"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 1)
+- src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
+  alt: "Casa Batlló façade lit in blue at night"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero.webp
+  alt: "Dragon-back roof and cross-topped tower of Casa Batlló"
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp
-  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 3)
+  alt: "Undulating windows on the main floor of Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+  alt: "Casa Batlló among the buildings of Passeig de Gràcia"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-statues-roof-hero.webp
+  alt: "Full Casa Batlló façade with its colourful mosaic"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-3-hero.webp
+  alt: "Detail of Casa Batlló balconies in the sun"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-5-hero.webp
+  alt: "Blue mosaic and balconies of Casa Batlló seen from below"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: "Spiral ceiling and lamp in the main hall of Casa Batlló"
 ratingProveedor: 4.5
 numeroOpiniones: 377
 

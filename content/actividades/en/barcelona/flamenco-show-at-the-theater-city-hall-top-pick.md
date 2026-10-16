@@ -168,12 +168,12 @@ imagen: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendi
 imagenAlt: Flamenco dancer in polka dot red and black dress with expressive arm movements performing passionately on stage
   in Barcelona.
 galeria:
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-teatro-interior--hero.webp
-  alt: Professional theater performance in Barcelona with audience seated and live performers on illuminated stage
+- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp
+  alt: "Flamenco dancers with red fans on stage"
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-guitarrista-flam-hero.webp
-  alt: Flamenco guitarist's hands on acoustic guitar demonstrating technical skill and traditional passion in Barcelona
+  alt: "Flamenco guitarist playing live"
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
-  alt: Plaça de Catalunya at sunset with City Hall Theatre illuminated, central Barcelona landmark
+  alt: "Plaça de Catalunya, next to Teatre City Hall"
 ratingProveedor: 4.5
 numeroOpiniones: 11305
 publicada: true

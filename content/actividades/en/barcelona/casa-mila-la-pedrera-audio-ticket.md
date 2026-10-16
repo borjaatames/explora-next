@@ -98,11 +98,21 @@ imagenAlt: "Casa Milà façade with warrior-chimney rooftop in Barcelona"
 
 galeria:
 - src: /images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp
-  alt: Casa Milà (La Pedrera) by Gaudí — rooftop (in the Eixample, Barcelona)
+  alt: "La Pedrera rooftop with its warrior chimneys"
 - src: /images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp
-  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 2)
+  alt: "La Pedrera chimneys against the blue sky"
 - src: /images/actividades/barcelona/casa-mila/casa-mila-general-view-hero.webp
-  alt: Casa Milà (La Pedrera) by Gaudí in the Eixample, Barcelona (view 3)
+  alt: "Casa Milà seen from Passeig de Gràcia"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-50335341691-hero.webp
+  alt: "Casa Milà rooftop with views over Barcelona"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-barcelona-catalonia-antoni-hero.webp
+  alt: "Wavy top of the Casa Milà façade"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-detailed-view-curving-stone-hero.webp
+  alt: "Wrought-iron balconies of Casa Milà"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
+  alt: "Casa Milà under a blue sky with clouds"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-view-landmark-barcelona-showcasing-hero.webp
+  alt: "Side view of Casa Milà from the pavement"
 
 ratingProveedor: 4.7
 numeroOpiniones: 18195

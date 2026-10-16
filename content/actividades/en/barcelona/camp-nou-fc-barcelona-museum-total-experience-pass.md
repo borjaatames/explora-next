@@ -133,13 +133,19 @@ imagen: "/images/actividades/barcelona/camp-nou/16979312785855-hero.webp"
 imagenAlt: Bird's eye view of Barcelona's southern district with urban layout and streets
 galeria:
 - src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
-  alt: Statue of Ladislao Kubala outside Camp Nou stadium in Barcelona
+  alt: "Kubala statue outside Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp
-  alt: Barcelona cityscape with buildings and urban architecture
+  alt: "Camp Nou pitch seen from above"
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
-  alt: Barcelona city skyline with Sagrada Familia and urban architecture
+  alt: "Red stands and roof of Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: Barcelona cityscape with historic architecture and modern buildings
+  alt: "Red stands of Camp Nou"
+- src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
+  alt: "Camp Nou stands spelling out FC Barcelona"
+- src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
+  alt: "Rendering of Spotify Camp Nou lit up at night"
+- src: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
+  alt: "Spotify Camp Nou seen from the air by day"
 ratingProveedor: 4.2
 numeroOpiniones: 979
 publicada: true

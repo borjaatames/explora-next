@@ -107,10 +107,22 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero
 imagenAlt: "Casa Batlló, Casa Milà y Casa Vicens — las tres casas de Gaudí en Barcelona"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 2)
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp
+  alt: "Fachada de la Casa Batlló con sus balcones en forma de máscara"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-overview-barcelona-spain-cut-hero.webp
+  alt: "Casa Batlló vista desde el Paseo de Gracia"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-4-hero.webp
+  alt: "Columnas en forma de hueso de la planta noble de la Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-stunning-showcase-gaudi-modernist-hero.webp
+  alt: "Casa Amatller y Casa Batlló, una junto a otra en la Manzana de la Discordia"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
+  alt: "Casa Milà bajo un cielo azul con nubes"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp
+  alt: "Azotea de La Pedrera con sus chimeneas guerreras"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-gaudi-architecture-hero.webp
+  alt: "Balcones de la Casa Milà vistos desde la calle"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-by-antoni-gaudi-barcelona-hero.webp
+  alt: "Fachada de piedra de la Casa Milà entre árboles"
 ratingProveedor: 4.6
 numeroOpiniones: 331
 

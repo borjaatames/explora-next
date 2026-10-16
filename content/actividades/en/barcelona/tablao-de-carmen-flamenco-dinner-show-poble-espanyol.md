@@ -168,12 +168,11 @@ imagen: "/images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espa
 imagenAlt: Flamenco dancer in traditional dress performing with intensity on Barcelona tablao stage
 galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-cena-durante-e-hero.webp
-  alt: Diners enjoying meal while watching live flamenco performance in Barcelona restaurant theater
+  alt: "Table with tapas and drinks for the tablao dinner"
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-tablao-interio-hero.webp
-  alt: Warm-lit flamenco tablao interior with intimate seating around stage, traditional Andalusian decor
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-poble-espanyol-hero.webp
-  alt: Exterior courtyard of Poble Espanyol Barcelona displaying traditional Andalusian architecture with whitewashed buildings
-    and ornate doorways
+  alt: "Intimate atmosphere with red lamps in the tablao"
+- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
+  alt: "Flamenco dancers with red fans on stage"
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true

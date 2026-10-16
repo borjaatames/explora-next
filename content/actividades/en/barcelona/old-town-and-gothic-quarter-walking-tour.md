@@ -108,9 +108,23 @@ imagenAlt: "Barcelona Gothic Quarter medieval streets and Cathedral exterior"
 
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: A narrow stone alley in Barcelona's Gothic Quarter with a scooter parked along it.
+  alt: "Alley in Barcelona's Gothic Quarter"
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: The neo-Gothic Pont del Bisbe, known as the Bridge of Sighs, in Barcelona's Gothic Quarter.
+  alt: "Neo-Gothic bridge on Carrer del Bisbe"
+- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
+  alt: "Gothic arch and street lamp in the Gothic Quarter"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
+  alt: "Narrow Gothic Quarter street with balconies"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero.webp
+  alt: "Shaded passageway in the Gothic Quarter"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero.webp
+  alt: "Bicycle against a stone wall in the Gothic Quarter"
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: "Street with balconies in Barcelona's old town"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero.webp
+  alt: "Archivolts of the Barcelona Cathedral doorway"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
+  alt: "Carrer Montcada in the Born district"
 ratingProveedor: 4.8
 numeroOpiniones: 1582
 

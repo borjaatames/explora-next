@@ -172,12 +172,11 @@ imagenAlt: Bailaora en movimiento con traje flamenco tradicional en tablao de Ba
   su danza
 galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-cena-durante-e-hero.webp
-  alt: Comensales disfrutando de cena mientras presencian espectáculo flamenco en vivo en Barcelona
+  alt: "Mesa con tapas y copas para la cena del tablao"
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-tablao-interio-hero.webp
-  alt: Tablao andaluz en Barcelona con mesas alrededor del escenario, iluminación cálida y decoración tradicional íntima.
-- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-poble-espanyol-hero.webp
-  alt: Fachada del Poble Espanyol en Barcelona con arquitectura andaluza típica, recreación de 1929 con edificios regionales
-    españoles
+  alt: "Ambiente íntimo con lámparas rojas en el tablao"
+- src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
+  alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true

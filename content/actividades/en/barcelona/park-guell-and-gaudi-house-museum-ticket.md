@@ -99,8 +99,24 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.we
 imagenAlt: "Park Güell with the Gaudí House Museum in the background"
 
 galeria:
+- src: /images/actividades/barcelona/park-guell/pixabay-63820-hero.webp
+  alt: "Garden and entrance of the Gaudí House Museum"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-hero.webp
+  alt: "Gaudí House Museum, the pink house where the architect lived"
 - src: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp
-  alt: View of Park Guell's gatehouse pavilions with Barcelona and the sea in the background
+  alt: "Panoramic view of Park Güell with Barcelona behind"
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero.webp
+  alt: "Trencadís bench by the palm trees in Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp
+  alt: "Mosaic medallion on the Hypostyle Hall ceiling"
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-spain-landmark-hero.webp
+  alt: "Stairway and Hypostyle Hall of Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
+  alt: "Entrance pavilion of Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-view-garden-palm-trees-background-hero.webp
+  alt: "Stone viaduct among palm trees in Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp
+  alt: "Views of Barcelona from the Park Güell gardens"
 ratingProveedor: 4.5
 numeroOpiniones: 7565
 

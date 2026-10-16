@@ -102,12 +102,20 @@ imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp
 imagenAlt: "Patio de Casa Finestres, parte del Museu Picasso de Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-    alt: "Salas del Museu Picasso Barcelona con grupo reducido de Tours For Today"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
-    alt: "Patio del Palau del Baró de Castellet, Museu Picasso"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
-    alt: "Fachada de Casa Mauri en la calle Montcada, Museu Picasso"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: "Catedral de Barcelona, en el corazón del Barrio Gótico"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
+  alt: "Patio de entrada de uno de los palacios del Museo Picasso"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
+  alt: "Fachada de los palacios de la calle Montcada"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp
+  alt: "Patio gótico del Museo Picasso de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
+  alt: "Calle Montcada en el barrio del Born"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
+  alt: "Calle estrecha del Barrio Gótico con balcones"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero.webp
+  alt: "Bicicleta junto a un muro de piedra del Barrio Gótico"
 
 ratingProveedor: 4.6
 numeroOpiniones: 158

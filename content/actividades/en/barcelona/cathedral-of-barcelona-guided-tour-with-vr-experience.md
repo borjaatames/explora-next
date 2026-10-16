@@ -108,11 +108,21 @@ imagenAlt: "Barcelona Cathedral with VR experience on the rooftop"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-royal-tombs-hero.webp
-  alt: Medieval tomb with a knight's effigy, inside Barcelona Cathedral
+  alt: "Stone tomb in the cloister of Barcelona Cathedral"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-interior-saint-olegarius-hero.webp
-  alt: Relief of Saint Olegarius, bishop of Barcelona, inside the cathedral
+  alt: "Statue of a bishop in a niche of Barcelona Cathedral"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-saint-eulalia-hero.webp
-  alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
+  alt: "Cathedral square with the façade in the background"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp
+  alt: "Central nave of Barcelona Cathedral"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp
+  alt: "Gothic vaults and chandelier inside Barcelona Cathedral"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp
+  alt: "Interior of Barcelona Cathedral with the choir and rose window"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero.webp
+  alt: "Archivolts of the Barcelona Cathedral doorway"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-01.webp
+  alt: "Barcelona Cathedral façade at sunset"
 
 ratingProveedor: 4.5
 numeroOpiniones: 205

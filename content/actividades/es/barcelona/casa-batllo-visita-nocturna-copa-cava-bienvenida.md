@@ -106,12 +106,22 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig
 imagenAlt: "Casa Batlló de noche iluminada en Passeig de Gràcia"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 1)
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp
-  alt: Casa Batlló de Gaudí — vista nocturna (en el Paseo de Gracia de Barcelona)
+  alt: "Casa Batlló iluminada de noche en el Paseo de Gracia"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero.webp
+  alt: "Vista del Paseo de Gracia desde la tribuna de la planta noble de la Casa Batlló"
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
-  alt: Casa Batlló de Gaudí en el Paseo de Gracia de Barcelona (vista 3)
+  alt: "Techo en espiral y lámpara del salón principal de la Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-night-view-flowers-hero.webp
+  alt: "Balcones de la Casa Batlló decorados con rosas rojas por Sant Jordi"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero.webp
+  alt: "Tribuna de piedra de la planta noble de la Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-stained-glass-barcelona-anthony-hero.webp
+  alt: "Ventanas y farola modernista ante la Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-hero.webp
+  alt: "Fachada de la Casa Batlló entre los árboles del Paseo de Gracia"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-2-hero.webp
+  alt: "Balcones y mosaico de trencadís de la fachada de la Casa Batlló"
 
 ratingProveedor: 4.4
 numeroOpiniones: 1930

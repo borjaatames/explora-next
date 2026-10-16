@@ -143,13 +143,19 @@ imagen: "/images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye
 imagenAlt: Barcelona street scene with historic architecture and pedestrians
 galeria:
 - src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
-  alt: Barcelona's iconic architecture and vibrant urban landscape with historic buildings and streets
+  alt: "Red stands and roof of Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: Barcelona cityscape with historic Gothic Quarter architecture and modern buildings
+  alt: "Red stands of Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
-  alt: Barcelona's Gothic Quarter with medieval stone buildings and narrow cobblestone streets
+  alt: "Camp Nou stands spelling out FC Barcelona"
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp
-  alt: Barcelona cityscape with historic architecture and Mediterranean views
+  alt: "Camp Nou pitch seen from above"
+- src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
+  alt: "Kubala statue outside Camp Nou"
+- src: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
+  alt: "Aerial night view of Spotify Camp Nou"
+- src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
+  alt: "Rendering of Spotify Camp Nou lit up at night"
 ratingProveedor: 4.3
 numeroOpiniones: 12092
 publicada: true

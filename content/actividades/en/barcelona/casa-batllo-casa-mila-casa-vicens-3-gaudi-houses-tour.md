@@ -107,10 +107,22 @@ imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-58-hero
 imagenAlt: "Casa Batlló, Casa Milà and Casa Vicens — Gaudí's three Barcelona houses"
 
 galeria:
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 2)
-- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero-hero.webp
-  alt: Casa Batlló by Gaudí on Passeig de Gràcia, Barcelona (view 3)
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp
+  alt: "Casa Batlló façade with its mask-shaped balconies"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-overview-barcelona-spain-cut-hero.webp
+  alt: "Casa Batlló seen from Passeig de Gràcia"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-4-hero.webp
+  alt: "Bone-shaped columns on the main floor of Casa Batlló"
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-stunning-showcase-gaudi-modernist-hero.webp
+  alt: "Casa Amatller and Casa Batlló side by side on the Block of Discord"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
+  alt: "Casa Milà under a blue sky with clouds"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp
+  alt: "La Pedrera rooftop with its warrior chimneys"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-gaudi-architecture-hero.webp
+  alt: "Casa Milà balconies seen from the street"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-by-antoni-gaudi-barcelona-hero.webp
+  alt: "Stone façade of Casa Milà among trees"
 ratingProveedor: 4.6
 numeroOpiniones: 331
 

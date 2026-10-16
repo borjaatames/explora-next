@@ -164,9 +164,11 @@ imagenAlt: Bailaora con traje flamenco rojo realizando zapateado intenso en tabl
   apasionada.
 galeria:
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-guitar-acoust-hero.webp
-  alt: Guitarrista en Barcelona tocando flamenco acústico con intensidad y concentración, dedos en movimiento sobre las cuerdas
+  alt: "Guitarra flamenca tocada en directo"
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-rambla-barcel-hero.webp
-  alt: Entrada del Tablao Cordobés en La Rambla 33-35 de Barcelona, con fachada de acceso al venue en la avenida histórica
+  alt: "Placa de La Rambla, donde está el tablao"
+- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
+  alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
 ratingProveedor: 4.6
 numeroOpiniones: 4617
 publicada: true

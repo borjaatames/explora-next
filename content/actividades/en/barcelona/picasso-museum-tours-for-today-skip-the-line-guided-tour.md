@@ -102,12 +102,20 @@ imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp
 imagenAlt: "Courtyard of Casa Finestres, part of the Picasso Museum in Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-    alt: "Picasso Museum Barcelona galleries with Tours For Today small group"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
-    alt: "Courtyard of Palau del Baró de Castellet, Picasso Museum"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
-    alt: "Casa Mauri façade on Carrer Montcada, Picasso Museum"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
+  alt: "Entrance courtyard of one of the Picasso Museum palaces"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
+  alt: "Palace façades on Carrer Montcada"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp
+  alt: "Gothic courtyard of the Picasso Museum in Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
+  alt: "Carrer Montcada in the Born district"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
+  alt: "Narrow Gothic Quarter street with balconies"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero.webp
+  alt: "Bicycle against a stone wall in the Gothic Quarter"
 
 ratingProveedor: 4.6
 numeroOpiniones: 158

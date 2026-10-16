@@ -170,13 +170,12 @@ keywords:
 imagen: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-bailaor-movimien-hero.webp"
 imagenAlt: Bailaora de flamenco en traje rojo y negro con volantes, brazos en movimiento expresivo durante actuación en Barcelona
 galeria:
-- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-teatro-interior--hero.webp
-  alt: Sala de teatro en Barcelona llena de público en asientos, artistas actuando en escenario iluminado profesionalmente
+- src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp
+  alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-guitarrista-flam-hero.webp
-  alt: Manos de guitarrista tocando flamenco en guitarra acústica con técnica experta, mostrando la energía del instrumento
-    tradicional
+  alt: "Guitarrista flamenco tocando en directo"
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
-  alt: Plaça de Catalunya al atardecer con edificios iluminados del centro de Barcelona
+  alt: "Plaza de Cataluña, junto al Teatre City Hall"
 ratingProveedor: 4.5
 numeroOpiniones: 11305
 publicada: true

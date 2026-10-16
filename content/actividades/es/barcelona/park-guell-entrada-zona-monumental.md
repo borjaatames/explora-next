@@ -100,7 +100,21 @@ imagenAlt: "Zona monumental del Park Güell con mosaicos de Gaudí y vistas de B
 
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
-  alt: Detalle de una columna decorada con mosaico de trencadis en Park Guell
+  alt: "Banco ondulado de trencadís de la plaza de la Naturaleza"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp
+  alt: "Dragón de trencadís en la escalinata del Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero.webp
+  alt: "Escalinata del dragón y sala Hipóstila del Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero.webp
+  alt: "Banco serpenteante de trencadís del Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp
+  alt: "Medallón de mosaico en el techo de la sala Hipóstila"
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-europe-spain-hero.webp
+  alt: "Pórtico de columnas inclinadas del Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp
+  alt: "Pabellón de cuento de hadas en la entrada del Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero.webp
+  alt: "Paseo bajo el viaducto de piedra del Park Güell"
 ratingProveedor: 4.4
 numeroOpiniones: 81572
 

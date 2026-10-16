@@ -108,9 +108,23 @@ imagenAlt: "Calles medievales del Barri Gòtic y exterior de la Catedral de Barc
 
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: Callejón estrecho de piedra en el Barrio Gótico de Barcelona con una moto aparcada.
+  alt: "Callejón del Barrio Gótico de Barcelona"
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: El puente neogótico de la calle del Bisbe, conocido como el Puente de los Suspiros, en el Barrio Gótico de Barcelona.
+  alt: "Puente neogótico de la calle del Bisbe"
+- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
+  alt: "Arco gótico y farola en el Barrio Gótico"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
+  alt: "Calle estrecha del Barrio Gótico con balcones"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero.webp
+  alt: "Pasaje en penumbra del Barrio Gótico"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero.webp
+  alt: "Bicicleta junto a un muro de piedra del Barrio Gótico"
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: "Calle con balcones en el casco antiguo de Barcelona"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero.webp
+  alt: "Arquivoltas de la portada de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
+  alt: "Calle Montcada en el barrio del Born"
 ratingProveedor: 4.8
 numeroOpiniones: 1582
 

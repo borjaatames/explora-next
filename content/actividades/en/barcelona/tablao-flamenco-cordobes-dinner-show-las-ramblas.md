@@ -161,10 +161,11 @@ imagenAlt: Flamenco dancer in red and black dress performing intense footwork on
   and flowing arms
 galeria:
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-guitar-acoust-hero.webp
-  alt: Flamenco guitarist in close-up playing acoustic guitar with intense focus and hand technique, intimate unplugged performance
-    in Barcelona
+  alt: "Flamenco guitar played live"
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-rambla-barcel-hero.webp
-  alt: Historic flamenco venue entrance on Barcelona's famous La Rambla boulevard at street level
+  alt: "La Rambla street sign, where the tablao is located"
+- src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
+  alt: "Flamenco dancers with red fans on stage"
 ratingProveedor: 4.6
 numeroOpiniones: 4617
 publicada: true

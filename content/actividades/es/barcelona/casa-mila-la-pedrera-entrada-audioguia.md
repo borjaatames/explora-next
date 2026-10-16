@@ -101,11 +101,21 @@ imagenAlt: "Fachada de Casa Milà con la terraza de chimeneas-guerrero en Barcel
 
 galeria:
 - src: /images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp
-  alt: Casa Milà (La Pedrera) de Gaudí — azotea (en el Eixample de Barcelona)
+  alt: "Azotea de La Pedrera con sus chimeneas guerreras"
 - src: /images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp
-  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 2)
+  alt: "Chimeneas de La Pedrera recortadas contra el cielo azul"
 - src: /images/actividades/barcelona/casa-mila/casa-mila-general-view-hero.webp
-  alt: Casa Milà (La Pedrera) de Gaudí en el Eixample de Barcelona (vista 3)
+  alt: "Casa Milà vista desde el Paseo de Gracia"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-50335341691-hero.webp
+  alt: "Azotea de la Casa Milà con vistas a Barcelona"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-pedrera-barcelona-catalonia-antoni-hero.webp
+  alt: "Coronación ondulada de la fachada de la Casa Milà"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-detailed-view-curving-stone-hero.webp
+  alt: "Balcones de hierro forjado de la Casa Milà"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
+  alt: "Casa Milà bajo un cielo azul con nubes"
+- src: /images/actividades/barcelona/casa-mila/casa-mila-view-landmark-barcelona-showcasing-hero.webp
+  alt: "Vista lateral de la Casa Milà desde la acera"
 
 ratingProveedor: 4.7
 numeroOpiniones: 18195

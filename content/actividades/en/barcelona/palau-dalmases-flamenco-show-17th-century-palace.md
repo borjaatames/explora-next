@@ -174,14 +174,18 @@ keywords:
 imagen: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-05.webp"
 imagenAlt: "Baroque hall of Palau Dalmases, where the flamenco show takes place"
 galeria:
-  - src: "/images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp"
-    alt: "Baroque 17th-century Palau Dalmases facade on Carrer Montcada with ornate stonework and medieval entrance door in Barcelona's Born quarter"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-06.webp"
-    alt: "Room next to the baroque hall of Palau Dalmases"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-01.webp"
-    alt: "Courtyard of Palau Dalmases on Carrer Montcada"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp"
-    alt: "Palau Dalmases seen from Carrer d'en Rosic"
+- src: /images/actividades/barcelona/palau-dalmases-flamenco-show-palacio-siglo-xvii/palau-dalmases-flamenco-show-palacio-siglo-xvii-copas-bebida-hero.webp
+  alt: "Wine glasses served before the show"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-06.webp
+  alt: "Room inside Palau Dalmases"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-01.webp
+  alt: "Palau Dalmases courtyard lit at night"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
+  alt: "Carrer Montcada in the Born district"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
+  alt: "Palace façades on Carrer Montcada"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
+  alt: "Narrow Gothic Quarter street with balconies"
 ratingProveedor: 4.6
 numeroOpiniones: 919
 publicada: true

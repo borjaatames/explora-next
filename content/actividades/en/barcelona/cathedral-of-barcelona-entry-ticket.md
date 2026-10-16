@@ -102,14 +102,22 @@ imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-central-nave-
 imagenAlt: "Gothic central nave of Barcelona Cathedral"
 
 galeria:
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
-    alt: "Main facade of Barcelona Cathedral (Cathedral of the Holy Cross and Saint Eulalia)"
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"
-    alt: "Facade of Barcelona Cathedral seen from the square, with tourists on the steps"
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp"
-    alt: "Cloister of Barcelona Cathedral"
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp"
-    alt: "Gothic vaults of the cathedral"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+  alt: "Arches of the Barcelona Cathedral cloister and its garden"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp
+  alt: "Gothic vaults and chandelier inside Barcelona Cathedral"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp
+  alt: "Interior of Barcelona Cathedral with the choir and rose window"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp
+  alt: "Main doorway of Barcelona Cathedral"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp
+  alt: "Sculptures on the doorway of Barcelona Cathedral"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-catalonia-2-hero.webp
+  alt: "Gothic gargoyle on Barcelona Cathedral"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-art-cathedral-hero.webp
+  alt: "Barcelona Cathedral lit up at dusk"
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

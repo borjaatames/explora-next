@@ -100,7 +100,21 @@ imagenAlt: "Park Güell monumental zone with Gaudí mosaics and Barcelona views"
 
 galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp
-  alt: Detail of a column decorated with trencadis mosaic at Park Guell
+  alt: "Wavy trencadís bench on the Nature Square"
+- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp
+  alt: "Trencadís dragon on the Park Güell stairway"
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero.webp
+  alt: "Dragon stairway and Hypostyle Hall of Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero.webp
+  alt: "Serpentine trencadís bench in Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp
+  alt: "Mosaic medallion on the Hypostyle Hall ceiling"
+- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-europe-spain-hero.webp
+  alt: "Portico of leaning columns in Park Güell"
+- src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp
+  alt: "Fairy-tale pavilion at the Park Güell entrance"
+- src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero.webp
+  alt: "Path beneath the stone viaduct in Park Güell"
 ratingProveedor: 4.4
 numeroOpiniones: 81572
 

@@ -101,14 +101,20 @@ imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp
 imagenAlt: "Patio gótico del Palau Finestres, sede del Museu Picasso en la calle Montcada"
 
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-    alt: "Fachada del Museu Picasso Barcelona en Carrer de Montcada en El Born"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
-    alt: "Patio del Palau del Baró de Castellet, Museu Picasso"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
-    alt: "Fachada de Casa Mauri en la calle Montcada, Museu Picasso"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
-    alt: "Patio de Casa Finestres, Museu Picasso"
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: "Catedral de Barcelona, en el corazón del Barrio Gótico"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
+  alt: "Patio de entrada de uno de los palacios del Museo Picasso"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
+  alt: "Fachada de los palacios de la calle Montcada"
+- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp
+  alt: "Patio del Museo Picasso en la calle Montcada"
+- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
+  alt: "Calle Montcada en el barrio del Born"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
+  alt: "Calle estrecha del Barrio Gótico con balcones"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero.webp
+  alt: "Pasaje en penumbra del Barrio Gótico"
 
 ratingProveedor: 4.5
 numeroOpiniones: 3552

@@ -105,11 +105,21 @@ imagenAlt: "Barcelona Cathedral rooftop terraces with views over Barri Gotic"
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp
-  alt: Barcelona Cathedral — interior (in the Gothic Quarter)
+  alt: "Central nave of Barcelona Cathedral"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
-  alt: Barcelona Cathedral — cathedral interior (in the Gothic Quarter)
+  alt: "Arches of the Barcelona Cathedral cloister and its garden"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp
-  alt: Barcelona Cathedral — facade (in the Gothic Quarter)
+  alt: "Main doorway of Barcelona Cathedral"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp
+  alt: "Gothic vaults and chandelier inside Barcelona Cathedral"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero.webp
+  alt: "Gargoyle on Barcelona Cathedral"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-catalonia-hero.webp
+  alt: "Animal-shaped gargoyle on Barcelona Cathedral"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-03.webp
+  alt: "Barcelona Cathedral seen from the square"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp
+  alt: "Sculptures on the doorway of Barcelona Cathedral"
 
 ratingProveedor: 4.5
 numeroOpiniones: 176

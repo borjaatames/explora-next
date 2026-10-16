@@ -102,14 +102,22 @@ imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-central-nave-
 imagenAlt: "Nave central gótica de la Catedral de Barcelona"
 
 galeria:
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
-    alt: "Fachada principal de la Catedral de Barcelona (Catedral de la Santa Creu i Santa Eulalia)"
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-hero.webp"
-    alt: "Fachada de la Catedral de Barcelona vista desde la plaza, con turistas en las escaleras"
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp"
-    alt: "Claustro de la Catedral de Barcelona"
-  - src: "/images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp"
-    alt: "Bóvedas góticas de la catedral"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp
+  alt: "Fachada gótica de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+  alt: "Arcos del claustro de la Catedral de Barcelona y su jardín"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp
+  alt: "Bóvedas góticas y lámpara del interior de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp
+  alt: "Interior de la Catedral de Barcelona con el coro y el rosetón"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp
+  alt: "Portada principal de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp
+  alt: "Esculturas de la portada de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-catalonia-2-hero.webp
+  alt: "Gárgola gótica de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-art-cathedral-hero.webp
+  alt: "Catedral de Barcelona iluminada al anochecer"
 ratingProveedor: 4.5
 numeroOpiniones: 1916
 

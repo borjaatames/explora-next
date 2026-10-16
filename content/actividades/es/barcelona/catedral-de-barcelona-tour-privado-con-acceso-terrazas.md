@@ -105,11 +105,21 @@ imagenAlt: "Terrazas de la Catedral de Barcelona con vistas sobre el Barri Gotic
 
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp
-  alt: Catedral de Barcelona — interior (en el Barrio Gótico)
+  alt: "Nave central de la Catedral de Barcelona"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
-  alt: Catedral de Barcelona — interior catedralicio (en el Barrio Gótico)
+  alt: "Arcos del claustro de la Catedral de Barcelona y su jardín"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp
-  alt: Catedral de Barcelona — fachada (en el Barrio Gótico)
+  alt: "Portada principal de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp
+  alt: "Bóvedas góticas y lámpara del interior de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero.webp
+  alt: "Gárgola de la Catedral de Barcelona"
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-catalonia-hero.webp
+  alt: "Gárgola con forma de animal en la Catedral de Barcelona"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-03.webp
+  alt: "Catedral de Barcelona vista desde la plaza"
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp
+  alt: "Esculturas de la portada de la Catedral de Barcelona"
 
 ratingProveedor: 4.5
 numeroOpiniones: 176
