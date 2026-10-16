@@ -68,13 +68,27 @@ keywords:
 - tablao cardenal
 - espectaculo flamenco cordoba
 - tablao flamenco cordoba
-imagen: "/images/actividades/cordoba/flamenco/guitarra-flamenca.webp"
-imagenAlt: "Guitarrista flamenco tocando en directo"
+imagen: "/images/actividades/cordoba/el-cardenal/el-cardenal-patio-tres-bailaoras.webp"
+imagenAlt: "Tres bailaoras de azul en el patio del Tablao El Cardenal, en Córdoba"
 galeria:
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: "Guitarrista flamenco en el escenario"
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: "Guitarra flamenca en directo"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-patio-arcos-escenario.webp
+  alt: "Patio de arcos del Tablao El Cardenal con el escenario y el público"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-manton-cante-guitarra.webp
+  alt: "Bailaora con mantón de flecos junto a la cantaora y el guitarrista en El Cardenal"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-abanico-rojo.webp
+  alt: "Bailaora con abanico rojo en el Tablao El Cardenal"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaor-cante-guitarra.webp
+  alt: "Bailaor ante el cartel de El Cardenal con cante y guitarra"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-manton-rosa.webp
+  alt: "Bailaora de bata de cola rosa con mantón en El Cardenal"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-rosa-patio-publico.webp
+  alt: "Bailaora de rosa en el escenario del patio, con el público delante"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-manton-giro-patio.webp
+  alt: "Giro con mantón bajo los arcos del patio de El Cardenal"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-bata-rosa.webp
+  alt: "Bailaora con bata de cola rosa en el escenario de El Cardenal"
+- src: /images/actividades/cordoba/el-cardenal/el-cardenal-zapatos-flamenca.webp
+  alt: "Zapatos rojos de flamenca marcando el compás"
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: "Torre de la Mezquita-Catedral, frente al tablao"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
