@@ -177,10 +177,22 @@ keywords:
 imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp"
 imagenAlt: "Callejuela estrecha de la Medina con puertas de madera pintada, tiendas de bazar y vendedores en mercado marroquí"
 galeria:
-  - src: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
-    alt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"
-  - src: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp"
-    alt: "Té de menta marroquí en vasos tradicionales de metal dentro de la Medina, con callejones del casco antiguo al fondo"
+- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
+  alt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"
+- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp
+  alt: "Té de menta marroquí en vasos tradicionales de metal dentro de la Medina, con callejones del casco antiguo al fondo"
+- src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115238324-jpg-02.webp
+  alt: "Callejón encalado de la medina de Tánger"
+- src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-3-jpg-03.webp
+  alt: "Calle comercial de la medina de Tánger"
+- src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-39929538915-jpg-04.webp
+  alt: "Casas blancas y azules de la medina de Tánger"
+- src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-39929539205-jpg-05.webp
+  alt: "Rincón de la medina de Tánger"
+- src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115237384-jpg-06.webp
+  alt: "Fuente de azulejos en la medina de Tánger"
+- src: /images/actividades/sevilla/tanger/tanger-pixabay-5035292.webp
+  alt: "Bahía de Tánger al atardecer"
 ratingProveedor: 4.4
 numeroOpiniones: 250
 publicada: true

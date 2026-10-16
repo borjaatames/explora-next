@@ -125,14 +125,22 @@ imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-c
 imagenAlt: "Puentes y canal de la Plaza de España"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
-    alt: "Vista de la Catedral y Giralda desde la ruta del bus turístico"
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro junto al Guadalquivir"
-  - src: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-    alt: "Pasarela de las Setas con la Giralda al fondo"
-  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
-    alt: "Plaza de toros de la Maestranza"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
+  alt: "Giralda iluminada de noche"
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: "Torre del Oro junto al Guadalquivir"
+- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
+  alt: "Setas de Sevilla (Metropol Parasol) en la plaza de la Encarnación"
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: "Plaza de toros de la Real Maestranza de Sevilla"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
+  alt: "Plaza de España reflejada en el canal"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
+  alt: "Catedral de Sevilla bajo un cielo azul"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro y barcos en el Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Orilla del Guadalquivir con la Torre del Oro al fondo"
 
 ratingProveedor: 4.0
 numeroOpiniones: 4954

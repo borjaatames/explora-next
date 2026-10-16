@@ -81,13 +81,19 @@ imagen: /images/actividades/malaga/hammam/sala-hammam.webp
 imagenAlt: Arab-inspired bath hall with warm lighting
 galeria:
 - src: /images/actividades/malaga/hammam/aceites.webp
-  alt: Oils and bowls laid out in a hammam
+  alt: "Oils and bowls laid out in a hammam"
 - src: /images/actividades/malaga/hammam/fuentes-marmol.webp
-  alt: Metal taps over marble basins in a hammam
+  alt: "Metal taps over marble basins in a hammam"
 - src: /images/actividades/malaga/hammam/masaje.webp
-  alt: Couple having a massage at a spa
+  alt: "Couple having a massage at a spa"
 - src: /images/actividades/malaga/hammam/te-descanso.webp
-  alt: Two people in robes drinking tea at a hammam
+  alt: "Two people in robes drinking tea at a hammam"
+- src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-01.webp
+  alt: "Warm-water room at Hammam Al Ándalus in Málaga"
+- src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-02.webp
+  alt: "Tiled bath with candles at Hammam Al Ándalus"
+- src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-03.webp
+  alt: "Columned hall at Hammam Al Ándalus in Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 2863
 publicada: true

@@ -110,6 +110,30 @@ imagen: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-e
 imagenAlt: "Baroque facade of the Plaza de Toros de la Real Maestranza in Seville — Prince's Gate"
 
 galeria:
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
+  alt: "Arena of the Maestranza bullring"
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
+  alt: "Aerial view of the Maestranza bullring"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro and boats on the Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Guadalquivir riverbank with the Torre del Oro in the distance"
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: "Triana Bridge over the Guadalquivir"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-01.webp
+  alt: "Façade of the Maestranza bullring"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-02.webp
+  alt: "Puerta del Príncipe of the Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
+  alt: "Exterior of the Maestranza on Paseo de Colón"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-06-jpg-06.webp
+  alt: "Stands and arcades of the Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-pexels-30646660.webp
+  alt: "Aerial view of Seville's bullring"
+- src: /images/actividades/sevilla/maestranza/maestranza-pexels-28988416.webp
+  alt: "Royal box and stands of the Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-pixabay-187844.webp
+  alt: "Sand arena of the Maestranza"
 ratingProveedor: 4.5
 numeroOpiniones: 1784
 

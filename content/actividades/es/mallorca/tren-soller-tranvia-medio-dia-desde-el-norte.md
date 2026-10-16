@@ -83,13 +83,27 @@ imagen: /images/actividades/mallorca/soller/tranvia-soller-tranvia.webp
 imagenAlt: Tranvía histórico de Sóller por las calles del pueblo
 galeria:
 - src: /images/actividades/mallorca/soller/tren-soller-anden.webp
-  alt: Andén de la estación del tren de Sóller
+  alt: "Andén de la estación del tren de Sóller"
 - src: /images/actividades/mallorca/soller/tren-soller-cocheras.webp
-  alt: Cocheras del tren de Sóller con un vagón de madera
+  alt: "Cocheras del tren de Sóller con un vagón de madera"
 - src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
-  alt: Tranvía de Sóller entre edificios del pueblo
+  alt: "Tranvía de Sóller entre edificios del pueblo"
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Bahía de Port de Sóller rodeada de montañas
+  alt: "Bahía de Port de Sóller rodeada de montañas"
+- src: /images/actividades/mallorca/soller-tren/soller-tren-pixabay-5019050.webp
+  alt: "Tren de madera de Sóller en la estación"
+- src: /images/actividades/mallorca/soller-tren/soller-tren-wikimedia-majorka-ferrocarril-palma-soller-ab-155-05.webp
+  alt: "Estación del Ferrocarril de Sóller con buganvillas"
+- src: /images/actividades/mallorca/soller-tranvia/soller-tranvia-wikimedia-s-ller-tranvia-de-s-ller-4338-jpg-01.webp
+  alt: "Tranvía de Sóller en la plaza del pueblo"
+- src: /images/actividades/mallorca/soller-tren/soller-tren-pixabay-101997.webp
+  alt: "Port de Sóller con sus barcos"
+- src: /images/actividades/mallorca/soller-tranvia/soller-tranvia-wikimedia-fs-tranvia-24-soller-09-10-2013-fws-01-j-03.webp
+  alt: "Tranvía naranja de Sóller"
+- src: /images/actividades/mallorca/soller-tren/soller-tren-pexels-38495607.webp
+  alt: "Bahía de Port de Sóller"
+- src: /images/actividades/mallorca/soller-tranvia/soller-tranvia-wikimedia-tranvia-de-soller-r01-jpg-05.webp
+  alt: "Tranvía de Sóller junto al paseo"
 ratingProveedor: 4.4
 numeroOpiniones: 381
 publicada: true

@@ -56,13 +56,19 @@ imagen: https://imgcdn.bokun.tools/c27274aa-c687-4481-96cb-b6cc39267102.jpg
 imagenAlt: Copas de vino tinto español
 galeria:
 - src: https://imgcdn.bokun.tools/e34cb91c-3d13-4b0f-b891-934e8e469b1d.jpg
-  alt: Tortilla de patata con pan
+  alt: "Tortilla de patata con pan"
 - src: https://imgcdn.bokun.tools/5acd831f-a4df-4680-a195-a3554d83b94b.jpg
-  alt: Mapa de las regiones vinícolas de España
+  alt: "Mapa de las regiones vinícolas de España"
 - src: https://imgcdn.bokun.tools/f0d68712-5484-4d32-a589-2a8a9bc06291.jpg
-  alt: Botellas de vino de Ribera del Duero y Rioja
+  alt: "Botellas de vino de Ribera del Duero y Rioja"
 - src: https://imgcdn.bokun.tools/14311e83-bce4-44aa-ade7-9cce3f411183.jpg
-  alt: Queso manchego y embutido con vino tinto
+  alt: "Queso manchego y embutido con vino tinto"
+- src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
+  alt: "Calle de la Cava Baja en La Latina"
+- src: /images/actividades/madrid/la-latina/la-latina-pexels-28700846.webp
+  alt: "Tostas y tapas para compartir"
+- src: /images/actividades/madrid/la-latina/la-latina-pixabay-6906620.webp
+  alt: "Salsa picante para acompañar las tapas"
 publicada: true
 destacada: false
 fecha: '2026-10-07'

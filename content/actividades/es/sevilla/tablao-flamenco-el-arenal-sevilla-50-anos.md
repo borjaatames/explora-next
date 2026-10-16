@@ -179,14 +179,15 @@ imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/t
 imagenAlt: Bailaora en traje flamenco realizando espectáculo apasionado en tablao sevillano
 galeria:
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-interior-tablao-at-hero.webp
-  alt: Interior acogedor de tablao flamenco en Sevilla con mesas de restaurante, público sentado disfrutando del espectáculo
-    bajo iluminación cálida
+  alt: "Interior acogedor de tablao flamenco en Sevilla con mesas de restaurante, público sentado disfrutando del espectáculo bajo iluminación cálida"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
-  alt: Fachada restaurada de edificio del siglo XVII en el barrio El Arenal, Sevilla, cerca de la Plaza de Toros de la Maestranza
+  alt: "Fachada restaurada de edificio del siglo XVII en el barrio El Arenal, Sevilla, cerca de la Plaza de Toros de la Maestranza"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp
-  alt: Selección de tapas tradicionales y bebidas servidas en mesa de tablao flamenco de Sevilla
+  alt: "Selección de tapas tradicionales y bebidas servidas en mesa de tablao flamenco de Sevilla"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
-  alt: Fachada histórica de la Plaza de Toros de la Maestranza en Sevilla, edificio icónico junto al tablao flamenco
+  alt: "Fachada histórica de la Plaza de Toros de la Maestranza en Sevilla, edificio icónico junto al tablao flamenco"
+- src: /images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp
+  alt: "Espectáculo en el Tablao Flamenco El Arenal"
 ratingProveedor: 4.9
 numeroOpiniones: 22
 publicada: true

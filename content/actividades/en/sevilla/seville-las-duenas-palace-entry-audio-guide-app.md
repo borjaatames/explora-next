@@ -111,14 +111,20 @@ imagen: "/images/actividades/sevilla/wikimedia/sevilla-duenas-04.webp"
 imagenAlt: "Main courtyard of the Palacio de las Dueñas"
 
 galeria:
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp"
-    alt: "Orange tree in a palace courtyard"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-06.webp"
-    alt: "Mudéjar arches of the courtyard"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-02.webp"
-    alt: "Garden of the Palacio de las Dueñas"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-07.webp"
-    alt: "Ironwork and tiles at Las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp
+  alt: "Orange trees in the Palacio de las Dueñas garden"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-06.webp
+  alt: "Mudéjar arches in the Palacio de las Dueñas courtyard"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-02.webp
+  alt: "Garden of the Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-07.webp
+  alt: "Ironwork and column in the Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-01.webp
+  alt: "Coffered ceiling in the main courtyard of the Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-05.webp
+  alt: "Plaque for Antonio Machado, born in the Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-08.webp
+  alt: "Classical sculpture in the Palacio de las Dueñas"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3823

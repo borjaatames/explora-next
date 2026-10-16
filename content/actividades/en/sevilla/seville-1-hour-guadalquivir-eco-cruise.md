@@ -116,14 +116,18 @@ imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalqui
 imagenAlt: "Torre del Oro on the Guadalquivir"
 
 galeria:
-  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-    alt: "Triana Bridge over the Guadalquivir at sunset"
-  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
-    alt: "La Maestranza bullring"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp"
-    alt: "Sightseeing boats by the Torre del Oro"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
-    alt: "Sightseeing boat on the Guadalquivir"
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: "Triana Bridge over the Guadalquivir"
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: "Real Maestranza bullring in Seville"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro and boats on the Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+  alt: "Tour boats on the Guadalquivir at sunset"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Guadalquivir riverbank with the Torre del Oro in the distance"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
+  alt: "Cruise ships moored on the Guadalquivir"
 
 ratingProveedor: 4.2
 numeroOpiniones: 11157

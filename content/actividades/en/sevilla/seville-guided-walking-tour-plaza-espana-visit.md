@@ -109,6 +109,22 @@ imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-
 imagenAlt: "Plaza de España of Seville with its two towers and navigable canal — final destination of the tour"
 
 galeria:
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
+  alt: "Plaza de España reflected in the canal"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+  alt: "Tower and bridge in Plaza de España"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
+  alt: "Plaza de España arcade with its tiled benches"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
+  alt: "Rowing boats on the Plaza de España canal"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp
+  alt: "Canal and north tower of Plaza de España"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: "Plaza de España lit up at night"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
+  alt: "Wide view of Seville's Plaza de España"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
+  alt: "Tiled bridge in Plaza de España"
 ratingProveedor: 4.8
 numeroOpiniones: 35
 

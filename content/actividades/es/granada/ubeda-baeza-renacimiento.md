@@ -105,12 +105,29 @@ imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renaci
 imagenAlt: Plaza Vázquez de Molina en Úbeda con Capilla del Salvador y palacios renacentistas, arquitectura del Siglo de Oro
 galeria:
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp
-  alt: Interior de la Catedral de Baeza con columnas renacentistas y bóvedas de crucería características del Renacimiento
-    andaluz
+  alt: "Interior de la Catedral de Baeza con columnas renacentistas y bóvedas de crucería características del Renacimiento andaluz"
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-palacio-renacentista-ubeda-03-hero.webp
-  alt: Fachada renacentista con portada monumental, columnas ornamentadas y detalles arquitectónicos en piedra
+  alt: "Fachada renacentista con portada monumental, columnas ornamentadas y detalles arquitectónicos en piedra"
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-vista-panoramica-ciudad-ubeda-04-hero.webp
-  alt: Vista aérea de Úbeda con su conjunto renacentista y paisaje rural circundante
+  alt: "Vista aérea de Úbeda con su conjunto renacentista y paisaje rural circundante"
+- src: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
+  alt: "Plaza Vázquez de Molina en Úbeda"
+- src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
+  alt: "Patio renacentista del Hospital de Santiago en Úbeda"
+- src: /images/actividades/granada/ubeda/ubeda-pixabay-1747773.webp
+  alt: "Relieves de la portada de la Sacra Capilla del Salvador"
+- src: /images/actividades/granada/ubeda/ubeda-wikimedia-palacio-de-v-zquez-de-molina-o-de-las-cadenas-sede.webp
+  alt: "Palacio Vázquez de Molina, hoy ayuntamiento de Úbeda"
+- src: /images/actividades/granada/ubeda/ubeda-pexels-36734373.webp
+  alt: "Plaza con fuente en el casco antiguo de Úbeda"
+- src: /images/actividades/granada/baeza/baeza-wikimedia-fachada-de-la-catedral-de-baeza-01-jpg.webp
+  alt: "Catedral de Baeza"
+- src: /images/actividades/granada/baeza/baeza-pexels-35390421.webp
+  alt: "Plaza e iglesia renacentista de Baeza"
+- src: /images/actividades/granada/baeza/baeza-pexels-36686834.webp
+  alt: "Puerta de Jaén en la muralla de Baeza"
+- src: /images/actividades/granada/baeza/baeza-wikimedia-inside-the-catedral-de-baeza-27651991145-jpg.webp
+  alt: "Cúpula pintada en el interior de un templo de Baeza"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 publicada: true

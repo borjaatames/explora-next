@@ -125,16 +125,28 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["tour 3 monumentos sevilla", "catedral alcazar giralda combo", "sevilla acceso prioritario 3 sitios", "tour top vendido sevilla", "sevilla mejor tour 1 dia"]
 
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-catedral-ca-hero.webp"
-imagenAlt: "Catedral de Sevilla con la Giralda — tour combo 3 monumentos UNESCO"
+imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+imagenAlt: "La Giralda vista desde los muros del Real Alcázar"
 
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Real Alcázar — segundo monumento del tour 3 UNESCO"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
-    alt: "Coro y nave de la Catedral de Sevilla"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
-    alt: "Estanque de Mercurio en los jardines del Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+  alt: "Patio del Real Alcázar de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
+  alt: "Coro de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp
+  alt: "Galería del Grutesco en los jardines del Real Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+  alt: "Patio de las Doncellas del Real Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
+  alt: "Arcos y yeserías del Salón de Embajadores"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
+  alt: "La Giralda vista desde abajo"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp
+  alt: "Estanque de Mercurio en el Real Alcázar"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
+  alt: "Sepulcro de piedra en una capilla de la Catedral de Sevilla"
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 

@@ -56,13 +56,19 @@ imagen: https://imgcdn.bokun.tools/c27274aa-c687-4481-96cb-b6cc39267102.jpg
 imagenAlt: Glasses of Spanish red wine
 galeria:
 - src: https://imgcdn.bokun.tools/e34cb91c-3d13-4b0f-b891-934e8e469b1d.jpg
-  alt: Spanish potato omelette with bread
+  alt: "Spanish potato omelette with bread"
 - src: https://imgcdn.bokun.tools/5acd831f-a4df-4680-a195-a3554d83b94b.jpg
-  alt: Map of Spain's wine regions
+  alt: "Map of Spain's wine regions"
 - src: https://imgcdn.bokun.tools/f0d68712-5484-4d32-a589-2a8a9bc06291.jpg
-  alt: Bottles of Ribera del Duero and Rioja wine
+  alt: "Bottles of Ribera del Duero and Rioja wine"
 - src: https://imgcdn.bokun.tools/14311e83-bce4-44aa-ade7-9cce3f411183.jpg
-  alt: Manchego cheese and cured meats with red wine
+  alt: "Manchego cheese and cured meats with red wine"
+- src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
+  alt: "Calle de la Cava Baja in La Latina"
+- src: /images/actividades/madrid/la-latina/la-latina-pexels-28700846.webp
+  alt: "Toasts and tapas to share"
+- src: /images/actividades/madrid/la-latina/la-latina-pixabay-6906620.webp
+  alt: "Spicy sauce to go with the tapas"
 publicada: true
 destacada: false
 fecha: '2026-10-07'

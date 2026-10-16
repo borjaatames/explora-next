@@ -110,6 +110,30 @@ imagen: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-e
 imagenAlt: "Fachada barroca de la Plaza de Toros de la Real Maestranza de Sevilla — Puerta del Príncipe"
 
 galeria:
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
+  alt: "Ruedo de la plaza de toros de la Maestranza"
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
+  alt: "Vista aérea de la plaza de toros de la Maestranza"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro y barcos en el Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Orilla del Guadalquivir con la Torre del Oro al fondo"
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: "Puente de Triana sobre el Guadalquivir"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-01.webp
+  alt: "Fachada de la plaza de toros de la Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-02.webp
+  alt: "Puerta del Príncipe de la Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
+  alt: "Exterior de la Maestranza en el paseo de Colón"
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-06-jpg-06.webp
+  alt: "Gradas y arquería de la Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-pexels-30646660.webp
+  alt: "Vista aérea de la plaza de toros de Sevilla"
+- src: /images/actividades/sevilla/maestranza/maestranza-pexels-28988416.webp
+  alt: "Palco del Príncipe y tendidos de la Maestranza"
+- src: /images/actividades/sevilla/maestranza/maestranza-pixabay-187844.webp
+  alt: "Ruedo de albero de la Maestranza"
 ratingProveedor: 4.5
 numeroOpiniones: 1784
 

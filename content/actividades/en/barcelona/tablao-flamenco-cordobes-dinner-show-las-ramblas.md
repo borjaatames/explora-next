@@ -166,6 +166,18 @@ galeria:
   alt: "La Rambla street sign, where the tablao is located"
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
   alt: "Flamenco dancers with red fans on stage"
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
+  alt: "Modernist balcony on La Rambla"
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp
+  alt: "Street lamps and plane trees on La Rambla"
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
+  alt: "Central promenade of La Rambla in Barcelona"
+- src: /images/actividades/barcelona/rambla/rambla-pixabay-242042.webp
+  alt: "Street signs for La Rambla and Rambla de Santa Mònica"
+- src: /images/actividades/barcelona/rambla/rambla-pixabay-325901.webp
+  alt: "Living statue on La Rambla"
+- src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
+  alt: "La Rambla lined with trees"
 ratingProveedor: 4.6
 numeroOpiniones: 4617
 publicada: true

@@ -95,8 +95,16 @@ imagen: "/images/actividades/granada/cueva-los-amayas/cueva-los-amayas-artistas-
 imagenAlt: "Blue and white facade of a flamenco cave-tablao in Granada's Sacromonte"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
-    alt: "Cave houses on the Sacromonte hillside, Granada"
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
+  alt: "Cave houses on the Sacromonte hillside, Granada"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: "Sacromonte hillside with its cave houses"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
+  alt: "Whitewashed cave houses of the Sacromonte"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "The Albaicín at dusk"
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: "The Alhambra lit by the evening sun"
 ratingProveedor: 4.7
 numeroOpiniones: 1107
 

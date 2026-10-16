@@ -160,7 +160,9 @@ imagenAlt: Escenario flamenco en patio andaluz de Sevilla con dos filas de asien
   de distancia
 galeria:
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
-  alt: Público en primera fila del escenario en Sevilla, rostros concentrados disfrutando del directo de los artistas
+  alt: "Público en primera fila del escenario en Sevilla, rostros concentrados disfrutando del directo de los artistas"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
+  alt: "Las Setas de la Encarnación, a pocos minutos a pie"
 ratingProveedor: 4.8
 numeroOpiniones: 13526
 publicada: true

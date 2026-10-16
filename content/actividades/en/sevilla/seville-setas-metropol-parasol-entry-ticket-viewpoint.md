@@ -111,6 +111,30 @@ imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasar
 imagenAlt: "Upper walkway of Setas de Sevilla (Metropol Parasol) with the Giralda in the background"
 
 galeria:
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
+  alt: "The Giralda seen from below"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Seville Cathedral façade among palm trees"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
+  alt: "Seville Cathedral under a blue sky"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Seville Cathedral and the Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
+  alt: "Detail of the Giralda and Seville Cathedral"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-sevilla-metropol-parasol-iglesia-de-la-a-01.webp
+  alt: "Las Setas and the Church of the Anunciación"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-plaza-de-la-encarnaci-n-02.webp
+  alt: "Wooden structure of Las Setas on Plaza de la Encarnación"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-1-jpg-03.webp
+  alt: "Las Setas seen from below"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-2019-3-jpg-05.webp
+  alt: "Walkways of the Las Setas viewpoint"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-setas-de-s-ville-jpg-06.webp
+  alt: "Square beneath Las Setas"
+- src: /images/actividades/sevilla/setas/setas-pexels-37125867.webp
+  alt: "Wooden lattice of the Metropol Parasol"
+- src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
+  alt: "Curves of Las Setas against the blue sky"
 ratingProveedor: 4.6
 numeroOpiniones: 12014
 

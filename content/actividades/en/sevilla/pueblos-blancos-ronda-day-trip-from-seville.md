@@ -154,13 +154,15 @@ imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-s
 imagenAlt: Puente Nuevo of Ronda spanning deep Tajo gorge with three stone arches and dramatic cliff landscape
 galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
-  alt: White hilltop village of Zahara de la Sierra with Nasrid castle ruins overlooking turquoise reservoir and surrounding
-    mountains.
+  alt: "White village crowned by its castle"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
-  alt: Historic Ronda old town with cobbled narrow streets, traditional Andalusian architecture, and colonial-style buildings
-    around plaza
+  alt: "Street in an Andalusian white village"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
-  alt: White villages nestled in mountainous Sierras landscape, aerial panoramic view of Cadiz region geography
+  alt: "White village on the mountainside"
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-pexels-36055027.webp
+  alt: "White village among olive groves in the sierra"
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
+  alt: "Puente Nuevo over the Ronda gorge"
 ratingProveedor: 4.5
 numeroOpiniones: 4027
 publicada: true

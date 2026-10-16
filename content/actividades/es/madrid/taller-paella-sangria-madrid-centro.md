@@ -103,11 +103,21 @@ imagenAlt: "Cocina española tradicional, referencia visual del taller de paella
 
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: Bocadillo de calamares con una cana junto a la barra de tapas
+  alt: "Bocadillo de calamares con una cana junto a la barra de tapas"
 - src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
-  alt: Primer plano de un bocadillo de calamares con una cerveza en Madrid
+  alt: "Primer plano de un bocadillo de calamares con una cerveza en Madrid"
 - src: /images/actividades/madrid/tapas/tapas-madrid-bustling-barcelona-market-scene-hero.webp
-  alt: Tapas españolas típicas de la gastronomía madrileña (vista 3)
+  alt: "Tapas españolas típicas de la gastronomía madrileña (vista 3)"
+- src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
+  alt: "Paella de marisco recién hecha"
+- src: /images/actividades/madrid/paella/paella-pexels-31748679.webp
+  alt: "Paella cocinándose en la paellera"
+- src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp
+  alt: "Paella mixta cocinada a la leña"
+- src: /images/actividades/madrid/paella/paella-pixabay-1168003.webp
+  alt: "Paella de marisco con langostinos al fuego"
+- src: /images/actividades/madrid/paella/paella-wikimedia-01-paella-valenciana-original-jpg-05.webp
+  alt: "Paella valenciana tradicional"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1448

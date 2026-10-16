@@ -176,6 +176,10 @@ galeria:
   alt: "Guitarrista flamenco tocando en directo"
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
   alt: "Plaza de Cataluña, junto al Teatre City Hall"
+- src: /images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp
+  alt: "Bailaora de flamenco con vestido azul"
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: "Bailaora con mantón y guitarrista en directo"
 ratingProveedor: 4.5
 numeroOpiniones: 11305
 publicada: true

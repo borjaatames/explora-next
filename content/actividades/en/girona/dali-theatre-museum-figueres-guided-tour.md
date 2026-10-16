@@ -82,13 +82,29 @@ imagen: /images/actividades/girona/dali-figueres/teatro-museo-dali-cupula.webp
 imagenAlt: Glass geodesic dome of the Dalí Theatre-Museum in Figueres
 galeria:
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-fachada.webp
-  alt: Façade of the Dalí Theatre-Museum with sculptures on the cornice
+  alt: "Façade of the Dalí Theatre-Museum with sculptures on the cornice"
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-huevos.webp
-  alt: Giant eggs on the roof of the Dalí Theatre-Museum
+  alt: "Giant eggs on the roof of the Dalí Theatre-Museum"
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cubierta.webp
-  alt: Sculptures and eggs on top of the Dalí Theatre-Museum
+  alt: "Sculptures and eggs on top of the Dalí Theatre-Museum"
 - src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp
-  alt: Dalí Theatre-Museum in Figueres
+  alt: "Dalí Theatre-Museum in Figueres"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-5168.webp
+  alt: "Giant eggs on top of the Dalí Theatre-Museum tower"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-5213.webp
+  alt: "Entrance to the Dalí Theatre-Museum in Figueres"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-5221.webp
+  alt: "Red façade with eggs of the Dalí Theatre-Museum"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-898317.webp
+  alt: "Red wall and cypresses of the Dalí museum"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-teatre-museu-dal-figueres-01-jpg-01.webp
+  alt: "Geodesic dome of the Dalí Theatre-Museum"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-cupola-of-the-teatre-museu-dal-in-figuer-02.webp
+  alt: "Dome of the Dalí Theatre-Museum seen from the street"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-figueres-teatre-museu-dal-0104-jpg-04.webp
+  alt: "Sculptures on the façade of the Dalí Theatre-Museum"
+- src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-figueres-teatre-museu-dal-0106-jpg-06.webp
+  alt: "Eggs and golden figures on top of the museum"
 ratingProveedor: 4.7
 numeroOpiniones: 105
 publicada: true

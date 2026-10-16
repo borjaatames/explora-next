@@ -50,12 +50,22 @@ imagen: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-687
 imagenAlt: "Boats on the underground river of the San José Caves"
 
 galeria:
-  - src: "https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg"
-    alt: "San José Caves boat ride from Valencia (Bokun)"
-  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
-    alt: "Illuminated underground river of the San José Caves with rock formations"
-  - src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp"
-    alt: "San José Caves in Vall d'Uixó, Castellón, with the navigable river"
+- src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
+  alt: "San José Caves boat ride from Valencia (Bokun)"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp
+  alt: "Illuminated underground river of the San José Caves with rock formations"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp
+  alt: "San José Caves in Vall d'Uixó, Castellón, with the navigable river"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
+  alt: "Gallery in the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
+  alt: "Navigable underground river in the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
+  alt: "Rock vault in the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
+  alt: "Stalactites in the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
+  alt: "Boat on the river in the San José Caves"
 ratingProveedor: 4.6
 numeroOpiniones: 785
 atraccionesRelacionadas:

@@ -86,13 +86,21 @@ imagen: /images/actividades/girona/medes/illes-medes-islotes.webp
 imagenAlt: Islotes de las islas Medes frente a la costa de L'Estartit
 galeria:
 - src: /images/actividades/girona/medes/medes-acantilado.webp
-  alt: Acantilado calizo de las islas Medes junto al mar
+  alt: "Acantilado calizo de las islas Medes junto al mar"
 - src: /images/actividades/girona/medes/medes-cueva.webp
-  alt: Paredes de roca con entradas de cuevas marinas en las Medes
+  alt: "Paredes de roca con entradas de cuevas marinas en las Medes"
 - src: /images/actividades/girona/medes/medes-rocas.webp
-  alt: Rocas y vegetación de la costa de las islas Medes
+  alt: "Rocas y vegetación de la costa de las islas Medes"
 - src: /images/actividades/girona/medes/illes-medes-mar.webp
-  alt: Las islas Medes en el horizonte vistas desde la costa
+  alt: "Las islas Medes en el horizonte vistas desde la costa"
+- src: /images/actividades/girona/medes/medes-wikimedia-spain-catalonia-illes-medes-medes-island-01.webp
+  alt: "Islas Medes frente a L'Estartit"
+- src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
+  alt: "Vista aérea de L'Estartit con las islas Medes"
+- src: /images/actividades/girona/medes/medes-wikimedia-illes-medes-p1110241-jpg-05.webp
+  alt: "Islotes de las Medes en el mar"
+- src: /images/actividades/girona/medes/medes-wikimedia-42-les-illes-medes-des-del-mirador-de-jo-06.webp
+  alt: "Las islas Medes desde el mirador de Josep Pla"
 ratingProveedor: 4.6
 numeroOpiniones: 634
 publicada: true

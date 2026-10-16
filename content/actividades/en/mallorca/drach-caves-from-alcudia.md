@@ -81,13 +81,23 @@ imagen: /images/actividades/mallorca/cuevas-drach/lago-martel-barca.webp
 imagenAlt: Boat on Lake Martel inside the Drach Caves
 galeria:
 - src: /images/actividades/mallorca/cuevas-drach/lago-martel-azul.webp
-  alt: Lake Martel with lit blue water inside the Drach Caves
+  alt: "Lake Martel with lit blue water inside the Drach Caves"
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-galeria.webp
-  alt: Gallery in the Drach Caves with lit stalactites
+  alt: "Gallery in the Drach Caves with lit stalactites"
 - src: /images/actividades/mallorca/cuevas-drach/lago-martel-reflejos.webp
-  alt: Stalactites reflected in Lake Martel
+  alt: "Stalactites reflected in Lake Martel"
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-sala.webp
-  alt: Chamber of the Drach Caves with turquoise water
+  alt: "Chamber of the Drach Caves with turquoise water"
+- src: /images/actividades/mallorca/drach/drach-pixabay-1998341.webp
+  alt: "Stalactites in the Caves of Drach"
+- src: /images/actividades/mallorca/drach/drach-wikimedia-interior-de-las-cuevas-del-drach-jpg-01.webp
+  alt: "Inside the Caves of Drach"
+- src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-08-jpg-02.webp
+  alt: "Formations in the Caves of Drach"
+- src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-21-jpg-03.webp
+  alt: "Underground lake in the Caves of Drach"
+- src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-01-jpg-05.webp
+  alt: "Gallery of stalactites in the Caves of Drach"
 ratingProveedor: 4.4
 numeroOpiniones: 616
 publicada: true

@@ -108,8 +108,28 @@ imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/t
 imagenAlt: "Puente de Triana sobre el río Guadalquivir — entrada al barrio del tapas tour"
 
 galeria:
-  - src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-    alt: "Puente de Triana de Sevilla — barrio histórico del tapeo auténtico"
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: "Puente de Triana sobre el Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+  alt: "Barcos turísticos en el Guadalquivir al atardecer"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro y barcos en el Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Orilla del Guadalquivir con la Torre del Oro al fondo"
+- src: /images/actividades/sevilla/museo-baile-flamenco-puro-show-sevilla/museo-baile-flamenco-puro-show-sevilla-patio-ecija-xviii-01-hero.webp
+  alt: "Fachada encalada con platos de cerámica sevillana"
+- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
+  alt: "Casas de colores de la calle Betis en Triana"
+- src: /images/actividades/sevilla/triana/triana-pexels-16778487.webp
+  alt: "Orilla de Triana sobre el Guadalquivir"
+- src: /images/actividades/sevilla/triana/triana-pixabay-1590890.webp
+  alt: "Puente de Triana iluminado de noche"
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-triana-2016002-jpg-01.webp
+  alt: "Puesto de fruta en el Mercado de Triana"
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
+  alt: "Puestos del Mercado de Triana"
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-02-jpg-05.webp
+  alt: "Entrada del Mercado de Triana"
 
 ratingProveedor: 4.8
 numeroOpiniones: 48

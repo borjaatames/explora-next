@@ -111,6 +111,30 @@ imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasar
 imagenAlt: "Pasarela superior de las Setas de Sevilla (Metropol Parasol) con vista a la Giralda al fondo"
 
 galeria:
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
+  alt: "La Giralda vista desde abajo"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
+  alt: "Catedral de Sevilla bajo un cielo azul"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Catedral de Sevilla y la Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
+  alt: "Detalle de la Giralda y la Catedral de Sevilla"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-sevilla-metropol-parasol-iglesia-de-la-a-01.webp
+  alt: "Las Setas y la iglesia de la Anunciación"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-plaza-de-la-encarnaci-n-02.webp
+  alt: "Estructura de madera de las Setas en la plaza de la Encarnación"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-1-jpg-03.webp
+  alt: "Las Setas de Sevilla vistas desde abajo"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-2019-3-jpg-05.webp
+  alt: "Pasarelas del mirador de las Setas"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-setas-de-s-ville-jpg-06.webp
+  alt: "Plaza bajo las Setas de Sevilla"
+- src: /images/actividades/sevilla/setas/setas-pexels-37125867.webp
+  alt: "Retícula de madera del Metropol Parasol"
+- src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
+  alt: "Curvas de las Setas contra el cielo azul"
 ratingProveedor: 4.6
 numeroOpiniones: 12014
 

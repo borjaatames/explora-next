@@ -100,11 +100,23 @@ imagenAlt: Pueblos blancos encalados en las laderas montañosas de La Alpujarra,
   de casas cúbicas agrupadas en la sierra
 galeria:
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: Barranco de Poqueira con los pueblos blancos de Pampaneira, Capileira y Órgiva en las laderas de montaña, Granada
+  alt: "Barranco de Poqueira con los pueblos blancos de Pampaneira, Capileira y Órgiva en las laderas de montaña, Granada"
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
-  alt: Grupo de turistas explorando las calles empedradas del centro histórico de Granada con guía local atento a sus necesidades
+  alt: "Grupo de turistas explorando las calles empedradas del centro histórico de Granada con guía local atento a sus necesidades"
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp
-  alt: Panorama de las montañas nevadas de la Sierra Nevada y sierras de la Alpujarra bajo luz natural, con vegetación alpina
+  alt: "Panorama de las montañas nevadas de la Sierra Nevada y sierras de la Alpujarra bajo luz natural, con vegetación alpina"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pexels-29136853.webp
+  alt: "Ermita encalada en la Alpujarra"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
+  alt: "Sierra Nevada nevada sobre los pueblos de la Alpujarra"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-vista-de-capileira-jpg.webp
+  alt: "Pueblo de la Alpujarra entre la niebla"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-granada-24524800018-jpg.webp
+  alt: "Pueblo de la Alpujarra iluminado al anochecer"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-shadowed-valley-seen-along-the-gr-240-in-pampaneir.webp
+  alt: "Barranco de la Alpujarra con nubes bajas"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
+  alt: "Balcón con geranios en la Alpujarra"
 ratingProveedor: 4.7
 numeroOpiniones: 224
 publicada: true

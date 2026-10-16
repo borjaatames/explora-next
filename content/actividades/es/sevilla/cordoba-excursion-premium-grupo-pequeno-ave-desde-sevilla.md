@@ -130,10 +130,24 @@ keywords:
 imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
 imagenAlt: "Arcos de herradura rojo-blancos y columnas en la nave central iluminada de la Mezquita-Catedral de Córdoba."
 galeria:
-  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp"
-    alt: "Tren AVE rojo y blanco de Renfe en movimiento, conectando Sevilla y Córdoba con tecnología de transporte de alta velocidad."
-  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
-    alt: "Callejuela empedrada blanca y estrecha de la Judería con fachadas tradicionales, macetas de flores y luz natural en"
+- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
+  alt: "Tren AVE en la estación"
+- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
+  alt: "Calle de la Judería de Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-perspectiva.webp
+  alt: "Perspectiva de arcos bicolores de la Mezquita"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
+  alt: "Mosaicos dorados del mihrab de la Mezquita"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-puente-romano-noche.webp
+  alt: "Puente romano y Mezquita de Córdoba al anochecer"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-torre-judaria.webp
+  alt: "Torre de la Mezquita desde la Judería"
+- src: /images/actividades/sevilla/cordoba-mezquita-catedral/cordoba-mezquita-catedral-pexels-37478032.webp
+  alt: "Capilla barroca dentro de la Mezquita-Catedral"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-37490977.webp
+  alt: "Callejuela blanca de la Judería de Córdoba"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-8677088.webp
+  alt: "Rincón con flores de la Judería de Córdoba"
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

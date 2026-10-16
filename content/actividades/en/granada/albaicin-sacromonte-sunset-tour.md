@@ -96,8 +96,20 @@ imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-h
 imagenAlt: "Mirador de San Nicolás in the Albaicín with views of the Alhambra at sunset"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Mirador de San Nicolás in the Albaicín with views of the Alhambra at sunset"
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp
+  alt: "Mirador de San Nicolás in the Albaicín with views of the Alhambra at sunset"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "The Albaicín at dusk"
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-3098633.webp
+  alt: "The Alhambra at sunset with Sierra Nevada"
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: "The Alhambra lit by the evening sun"
+- src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
+  alt: "The Alhambra from the San Nicolás viewpoint"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: "Sacromonte hillside with its cave houses"
+- src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
+  alt: "San Nicolás viewpoint in the Albaicín"
 ratingProveedor: 4.9
 numeroOpiniones: 3200
 

@@ -169,6 +169,18 @@ galeria:
   alt: "Placa de La Rambla, donde está el tablao"
 - src: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-flamenco-danc-hero.webp
   alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
+  alt: "Balcón modernista en La Rambla"
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp
+  alt: "Farolas y plátanos de La Rambla"
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
+  alt: "Paseo central de La Rambla de Barcelona"
+- src: /images/actividades/barcelona/rambla/rambla-pixabay-242042.webp
+  alt: "Placas de La Rambla y Rambla de Santa Mònica"
+- src: /images/actividades/barcelona/rambla/rambla-pixabay-325901.webp
+  alt: "Estatua viviente en La Rambla"
+- src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
+  alt: "La Rambla con sus árboles"
 ratingProveedor: 4.6
 numeroOpiniones: 4617
 publicada: true

@@ -94,8 +94,16 @@ imagen: "/images/actividades/granada/cueva-zincale/cueva-zincale-flamenco-zambra
 imagenAlt: "Facade of Cueva del Zincalé on the Camino del Sacromonte in Granada"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
-    alt: "Cave houses on the Sacromonte hillside, Granada"
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
+  alt: "Cave houses on the Sacromonte hillside, Granada"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
+  alt: "Whitewashed cave houses of the Sacromonte"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: "Sacromonte hillside with its cave houses"
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: "The Alhambra lit by the evening sun"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "The Albaicín at dusk"
 ratingProveedor: 4.6
 numeroOpiniones: 1286
 

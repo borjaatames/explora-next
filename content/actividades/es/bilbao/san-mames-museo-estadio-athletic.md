@@ -79,13 +79,23 @@ imagen: /images/actividades/bilbao/san-mames/estadio-fachada.webp
 imagenAlt: Fachada del estadio de San Mamés en Bilbao
 galeria:
 - src: /images/actividades/bilbao/san-mames/estadio-noche.webp
-  alt: Fachada roja de San Mamés con el escudo del Athletic
+  alt: "Fachada roja de San Mamés con el escudo del Athletic"
 - src: /images/actividades/bilbao/san-mames/estadio-vista.webp
-  alt: Vista de San Mamés y Bilbao
+  alt: "Vista de San Mamés y Bilbao"
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: Bilbao desde el monte Artxanda
+  alt: "Bilbao desde el monte Artxanda"
 - src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: La ría de Bilbao con sus puentes
+  alt: "La ría de Bilbao con sus puentes"
+- src: /images/actividades/bilbao/san-mames/san-mames-wikimedia-san-mames-stadium-at-night-jpg-01.webp
+  alt: "San Mamés iluminado de noche junto a la ría"
+- src: /images/actividades/bilbao/san-mames/san-mames-wikimedia-san-mames-barria-eta-bilboko-ikuspegia-j-02.webp
+  alt: "Vista aérea de San Mamés y Bilbao"
+- src: /images/actividades/bilbao/san-mames/san-mames-pexels-8813916.webp
+  alt: "Fachada del estadio de San Mamés"
+- src: /images/actividades/bilbao/san-mames/san-mames-pixabay-5863068.webp
+  alt: "Gradas rojas y césped de San Mamés"
+- src: /images/actividades/bilbao/san-mames/san-mames-wikimedia-bilbao-nuevo-estadio-san-mam-s-5-jpg-04.webp
+  alt: "Exterior del nuevo estadio de San Mamés"
 ratingProveedor: 4.8
 numeroOpiniones: 1710
 publicada: true

@@ -111,11 +111,27 @@ imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-cen
 imagenAlt: Puente Nuevo de Ronda atravesando el desfiladero del Tajo, acantilados de piedra caliza y profundo cañón
 galeria:
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
-  alt: Ronda asomada al acantilado con casas blancas colgantes y sierra andaluza al fondo
+  alt: "Ronda asomada al acantilado con casas blancas colgantes y sierra andaluza al fondo"
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
-  alt: Arco de piedra del Puente Nuevo de Granada visto desde abajo, mostrando su estructura geométrica y arquitectura histórica.
+  alt: "Arco de piedra del Puente Nuevo de Granada visto desde abajo, mostrando su estructura geométrica y arquitectura histórica."
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp
-  alt: Turistas paseando por las calles empedradas del centro histórico de Granada, explorando plazas y arquitectura tradicional.
+  alt: "Turistas paseando por las calles empedradas del centro histórico de Granada, explorando plazas y arquitectura tradicional."
+- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+  alt: "Puente Nuevo de Ronda y las casas sobre el Tajo"
+- src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
+  alt: "Puente Nuevo visto desde el mirador"
+- src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
+  alt: "El Tajo de Ronda desde el fondo del desfiladero"
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: "Puente Nuevo sobre el Tajo en primavera"
+- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+  alt: "Arcos del Puente Nuevo de Ronda"
+- src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp
+  alt: "Ronda colgada sobre el Tajo"
+- src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
+  alt: "Parador y Puente Nuevo sobre el acantilado"
+- src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-spain-puente-nuevo-de-ronda-01-jpg.webp
+  alt: "Cascada bajo el Puente Nuevo de Ronda"
 ratingProveedor: 4.5
 numeroOpiniones: 34
 publicada: true

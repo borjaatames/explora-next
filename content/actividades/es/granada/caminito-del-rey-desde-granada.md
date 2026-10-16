@@ -117,10 +117,28 @@ keywords:
 imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
 imagenAlt: "Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes rocosas verticales."
 galeria:
-  - src: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp"
-    alt: "Puentes colgantes y pasarelas suspendidas entre montañas con vistas del paisaje natural de Granada"
-  - src: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp"
-    alt: "Excursionista con mochila caminando por pasarela de seguridad en ruta de senderismo de Granada"
+- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
+  alt: "Puentes colgantes y pasarelas suspendidas entre montañas con vistas del paisaje natural de Granada"
+- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
+  alt: "Excursionista con mochila caminando por pasarela de seguridad en ruta de senderismo de Granada"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
+  alt: "Pasarela colgante del Caminito del Rey"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
+  alt: "Pasarelas del Caminito del Rey en la pared de roca"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-30826039.webp
+  alt: "Pasarela bajo un saliente de roca"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-37490628.webp
+  alt: "Senderistas en las pasarelas del Caminito del Rey"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240632.webp
+  alt: "Desfiladero de los Gaitanes y el embalse"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240633.webp
+  alt: "Puente de hierro a la salida del Caminito del Rey"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-unsplash-BCWBVlNgK90.webp
+  alt: "Puente colgante sobre el río Guadalhorce"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-27-jp.webp
+  alt: "Paredes verticales del Desfiladero de los Gaitanes"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-16-jp.webp
+  alt: "Valle del Hoyo entre los dos desfiladeros"
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

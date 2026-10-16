@@ -112,10 +112,22 @@ keywords:
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
 imagenAlt: "Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y montañas al fondo"
 galeria:
-  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp"
-    alt: "Calle sinuosa con casas encaladas, puertas y ventanas tradicionales, macetas floridas en pueblo blanco de la Alpujarra granadina."
-  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp"
-    alt: "Paisaje montañoso de la Alpujarra granadina con vegetación, barrancos y vistas rurales a altitud elevada"
+- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
+  alt: "Calle sinuosa con casas encaladas, puertas y ventanas tradicionales, macetas floridas en pueblo blanco de la Alpujarra granadina."
+- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp
+  alt: "Paisaje montañoso de la Alpujarra granadina con vegetación, barrancos y vistas rurales a altitud elevada"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
+  alt: "Jarapas alpujarreñas a la venta en Pampaneira"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
+  alt: "Pueblo blanco de la Alpujarra en la ladera"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-the-village-of-pampaneira-viewed-from-plaza-vieja.webp
+  alt: "Valle de la Alpujarra entre nubes"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
+  alt: "Tinao, pasaje cubierto típico de la Alpujarra"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-panor-mica-de-pampaneira-con-la-iglesia-de-santa-c.webp
+  alt: "Iglesia y tejados de un pueblo alpujarreño"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
+  alt: "Terrados con ropa tendida en la Alpujarra"
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

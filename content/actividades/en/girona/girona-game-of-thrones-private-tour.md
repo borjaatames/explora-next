@@ -76,13 +76,29 @@ imagen: /images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp
 imagenAlt: Columns and dome of Girona's Arab Baths
 galeria:
 - src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: Girona Cathedral steps
+  alt: "Girona Cathedral steps"
 - src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec-arco.webp
-  alt: Arch over the Pujada de Sant Domènec in Girona
+  alt: "Arch over the Pujada de Sant Domènec in Girona"
 - src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Steps and arches in a street of Girona's Call
+  alt: "Steps and arches in a street of Girona's Call"
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
-  alt: Bell towers of Girona's Barri Vell seen from the city walls
+  alt: "Bell towers of Girona's Barri Vell seen from the city walls"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
+  alt: "Colourful Onyar houses reflected in the river"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp
+  alt: "Steps of Girona Cathedral"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-pexels-28936788.webp
+  alt: "Steps and arches in Girona's old quarter"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-wikimedia-cloister-of-catedral-de-girona-02-jpg-04.webp
+  alt: "Cloister of Girona Cathedral"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
+  alt: "Onyar façades in Girona"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-pexels-13001985.webp
+  alt: "Sant Martí Sacosta steps in the old quarter"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-wikimedia-capital-of-the-cloister-of-catedral-de-g-01.webp
+  alt: "Capital in the Girona Cathedral cloister"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp
+  alt: "The Onyar river flowing through Girona"
 publicada: true
 destacada: false
 fecha: '2026-10-04'

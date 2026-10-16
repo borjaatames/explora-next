@@ -100,8 +100,24 @@ imagen: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-
 imagenAlt: "Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-    alt: "Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra"
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp
+  alt: "Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
+  alt: "Aerial view of the rooftops of the Albaicín"
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp
+  alt: "White houses of the Albaicín on the hillside"
+- src: /images/actividades/granada/albaicin/albaicin-wikimedia-san-gregorio-barrio-del-albaic-n-granada-jpg.webp
+  alt: "Street of tea houses in the Albaicín"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: "Sacromonte hillside with its cave houses"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
+  alt: "Whitewashed cave houses of the Sacromonte"
+- src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
+  alt: "San Nicolás viewpoint in the Albaicín"
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-1313240.webp
+  alt: "The Albaicín seen from the Alhambra"
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-471742.webp
+  alt: "Bell tower with bougainvillea in the Albaicín"
 ratingProveedor: 4.4
 numeroOpiniones: 724
 

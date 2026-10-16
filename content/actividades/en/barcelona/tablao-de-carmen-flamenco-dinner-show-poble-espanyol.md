@@ -173,6 +173,18 @@ galeria:
   alt: "Intimate atmosphere with red lamps in the tablao"
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
   alt: "Flamenco dancers with red fans on stage"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
+  alt: "Aerial view of the Poble Espanyol on Montjuïc"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-barcelona-montju-c-poble-espanyol-de-bar-02.webp
+  alt: "Gardens and pines of the Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d189-poble-espanyol-carrer-caballeros-jp-03.webp
+  alt: "Carrer dels Cavallers in the Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-a-street-in-poble-espanyol-in-barcelona-04.webp
+  alt: "Whitewashed lane in the Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d201-poble-espanyol-pla-a-major-jpg-05.webp
+  alt: "Bandstand on the main square of the Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
+  alt: "Main square of the Poble Espanyol"
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true

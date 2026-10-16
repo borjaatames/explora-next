@@ -117,10 +117,28 @@ keywords:
 imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
 imagenAlt: "Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls"
 galeria:
-  - src: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp"
-    alt: "Suspension bridges and mountain pathways in Granada's natural landscape during a 5km hiking route"
-  - src: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp"
-    alt: "Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible"
+- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
+  alt: "Suspension bridges and mountain pathways in Granada's natural landscape during a 5km hiking route"
+- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
+  alt: "Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
+  alt: "Hanging bridge on the Caminito del Rey"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
+  alt: "Caminito del Rey walkways on the rock face"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-30826039.webp
+  alt: "Walkway beneath a rock overhang"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-37490628.webp
+  alt: "Hikers on the Caminito del Rey walkways"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240632.webp
+  alt: "Gaitanes Gorge and the reservoir"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240633.webp
+  alt: "Iron bridge at the end of the Caminito del Rey"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-unsplash-BCWBVlNgK90.webp
+  alt: "Suspension bridge over the Guadalhorce river"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-27-jp.webp
+  alt: "Sheer walls of the Gaitanes Gorge"
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-16-jp.webp
+  alt: "Hoyo valley between the two gorges"
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

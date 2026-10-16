@@ -160,10 +160,25 @@ imagenAlt: Vast interior nave with red-and-white striped horseshoe arches and co
   Islamic-Christian architectural fusion.
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
-  alt: Exterior facade of the Cordoba Mosque-Cathedral displaying medieval Islamic architecture with doorways, windows, and
-    an overlaid Christian bell tower, prominent urban landmark.
+  alt: "Mosque and Roman bridge of Córdoba"
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
-  alt: Historic Córdoba Synagogue interior with Hebrew architectural details and medieval decorative elements
+  alt: "Arches inside the Mosque of Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp
+  alt: "Forest of columns in the Mosque of Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-lamparas.webp
+  alt: "Arches and lamps in the Mosque of Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-cupula.webp
+  alt: "Mihrab of the Mosque of Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-puente-romano.webp
+  alt: "Roman bridge and Mosque-Cathedral of Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-torre-campanario.webp
+  alt: "Bell tower of the Mosque-Cathedral"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-calle-juderia.webp
+  alt: "Street in Córdoba's Jewish Quarter with the tower behind"
+- src: /images/actividades/sevilla/cordoba-mezquita-catedral/cordoba-mezquita-catedral-pexels-31779458.webp
+  alt: "Red and white arches of the Mosque of Córdoba"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-alcazar-jardines.webp
+  alt: "Pool in the gardens of the Alcázar of the Christian Monarchs"
 ratingProveedor: 4.3
 numeroOpiniones: 280
 publicada: true

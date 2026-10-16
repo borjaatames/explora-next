@@ -129,10 +129,24 @@ keywords:
 imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
 imagenAlt: "Red and white horseshoe arches with columns in the central nave of Córdoba's Mosque-Cathedral, a UNESCO World Heritage site."
 galeria:
-  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp"
-    alt: "Modern Renfe AVE high-speed train in motion connecting Seville and Córdoba, showcasing premium rail transport and connectivity."
-  - src: "/images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp"
-    alt: "Narrow cobblestone streets with whitewashed walls in historic Jewish quarter, traditional facades, flowering planters, natural sunlight"
+- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
+  alt: "AVE high-speed train at the station"
+- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
+  alt: "Street in Córdoba's Jewish Quarter"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-perspectiva.webp
+  alt: "Perspective of two-tone arches in the Mosque"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
+  alt: "Golden mosaics of the Mosque's mihrab"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-puente-romano-noche.webp
+  alt: "Roman bridge and Mosque of Córdoba at dusk"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-torre-judaria.webp
+  alt: "The Mosque tower seen from the Jewish Quarter"
+- src: /images/actividades/sevilla/cordoba-mezquita-catedral/cordoba-mezquita-catedral-pexels-37478032.webp
+  alt: "Baroque chapel inside the Mosque-Cathedral"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-37490977.webp
+  alt: "Narrow whitewashed lane in Córdoba's Jewish Quarter"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-8677088.webp
+  alt: "Flower-filled corner of Córdoba's Jewish Quarter"
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

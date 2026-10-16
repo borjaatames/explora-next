@@ -177,6 +177,18 @@ galeria:
   alt: "Ambiente íntimo con lámparas rojas en el tablao"
 - src: /images/actividades/barcelona/tablao-de-carmen-flamenco-cena-poble-espanyol/tablao-de-carmen-flamenco-cena-poble-espanyol-flamenco-baila-hero.webp
   alt: "Bailaoras de flamenco con abanico rojo sobre el escenario"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
+  alt: "Vista aérea del Poble Espanyol en Montjuïc"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-barcelona-montju-c-poble-espanyol-de-bar-02.webp
+  alt: "Jardines y pinos del Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d189-poble-espanyol-carrer-caballeros-jp-03.webp
+  alt: "Calle de los Caballeros en el Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-a-street-in-poble-espanyol-in-barcelona-04.webp
+  alt: "Callejuela encalada del Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d201-poble-espanyol-pla-a-major-jpg-05.webp
+  alt: "Templete en la plaza Mayor del Poble Espanyol"
+- src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
+  alt: "Plaza Mayor del Poble Espanyol"
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true

@@ -109,6 +109,22 @@ imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-
 imagenAlt: "Plaza de España de Sevilla con sus dos torres y el canal navegable — destino final del tour"
 
 galeria:
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
+  alt: "Plaza de España reflejada en el canal"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+  alt: "Torre y puente de la Plaza de España"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
+  alt: "Galería de la Plaza de España con sus bancos de azulejos"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
+  alt: "Barcas de remo en el canal de la Plaza de España"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp
+  alt: "Canal y torre norte de la Plaza de España"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: "Plaza de España iluminada de noche"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
+  alt: "Vista amplia de la Plaza de España de Sevilla"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
+  alt: "Puente de azulejos en la Plaza de España"
 ratingProveedor: 4.8
 numeroOpiniones: 35
 

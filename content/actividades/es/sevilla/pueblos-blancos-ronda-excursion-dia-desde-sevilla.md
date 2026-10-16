@@ -156,12 +156,15 @@ imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-s
 imagenAlt: Puente Nuevo de Ronda con tres arcos de piedra sobre el profundo desfiladero del Tajo, monumento icónico de Andalucía.
 galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
-  alt: Zahara de la Sierra con casas blancas, castillo nazarí en la cumbre y embalse al fondo en la provincia de Sevilla
+  alt: "Pueblo blanco coronado por su castillo"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
-  alt: Callejuelas empedradas del casco histórico de Sevilla con arquitectura andaluza tradicional y edificios coloniales
-    en la plaza
+  alt: "Calle de un pueblo blanco andaluz"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
-  alt: Pueblos blancos dispersos en sierras de Cádiz, vista aérea panorámica del paisaje montañoso
+  alt: "Pueblo blanco en la ladera de la sierra"
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-pexels-36055027.webp
+  alt: "Pueblo blanco entre olivares de la sierra"
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
+  alt: "Puente Nuevo sobre el Tajo de Ronda"
 ratingProveedor: 4.5
 numeroOpiniones: 4027
 publicada: true

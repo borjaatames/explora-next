@@ -105,11 +105,29 @@ imagen: "/images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renaci
 imagenAlt: Renaissance square with Salvador Chapel and palatial architecture from Spain's Golden Age
 galeria:
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-baeza-catedral-renacentista-01-hero.webp
-  alt: Renaissance cathedral interior with ornate stone arches and religious architectural details from Andalusian period
+  alt: "Renaissance cathedral interior with ornate stone arches and religious architectural details from Andalusian period"
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-palacio-renacentista-ubeda-03-hero.webp
-  alt: Renaissance palace facade in Ubeda with ornamental stonework, monumental entrance, and classical columns
+  alt: "Renaissance palace facade in Ubeda with ornamental stonework, monumental entrance, and classical columns"
 - src: /images/actividades/granada/ubeda-baeza-renacimiento/ubeda-baeza-renacimiento-vista-panoramica-ciudad-ubeda-04-hero.webp
-  alt: Aerial panoramic view of Úbeda's Renaissance architecture and surrounding rural Andalusian landscape
+  alt: "Aerial panoramic view of Úbeda's Renaissance architecture and surrounding rural Andalusian landscape"
+- src: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
+  alt: "Plaza Vázquez de Molina in Úbeda"
+- src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
+  alt: "Renaissance courtyard of the Hospital de Santiago in Úbeda"
+- src: /images/actividades/granada/ubeda/ubeda-pixabay-1747773.webp
+  alt: "Carvings on the doorway of the Sacra Capilla del Salvador"
+- src: /images/actividades/granada/ubeda/ubeda-wikimedia-palacio-de-v-zquez-de-molina-o-de-las-cadenas-sede.webp
+  alt: "Vázquez de Molina Palace, now Úbeda town hall"
+- src: /images/actividades/granada/ubeda/ubeda-pexels-36734373.webp
+  alt: "Square with fountain in Úbeda's old town"
+- src: /images/actividades/granada/baeza/baeza-wikimedia-fachada-de-la-catedral-de-baeza-01-jpg.webp
+  alt: "Baeza Cathedral"
+- src: /images/actividades/granada/baeza/baeza-pexels-35390421.webp
+  alt: "Renaissance square and church in Baeza"
+- src: /images/actividades/granada/baeza/baeza-pexels-36686834.webp
+  alt: "Puerta de Jaén in Baeza's walls"
+- src: /images/actividades/granada/baeza/baeza-wikimedia-inside-the-catedral-de-baeza-27651991145-jpg.webp
+  alt: "Painted dome inside a Baeza church"
 ratingProveedor: 4.5
 numeroOpiniones: 0
 publicada: true

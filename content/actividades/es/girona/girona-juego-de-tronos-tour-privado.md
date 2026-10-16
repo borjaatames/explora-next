@@ -76,13 +76,29 @@ imagen: /images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp
 imagenAlt: Columnas y cúpula de los Baños Árabes de Girona
 galeria:
 - src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: Escalinata de la catedral de Girona
+  alt: "Escalinata de la catedral de Girona"
 - src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec-arco.webp
-  alt: Arco sobre la Pujada de Sant Domènec en Girona
+  alt: "Arco sobre la Pujada de Sant Domènec en Girona"
 - src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Escaleras y arcos en una calle del Call de Girona
+  alt: "Escaleras y arcos en una calle del Call de Girona"
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
-  alt: Campanarios del Barri Vell de Girona vistos desde la muralla
+  alt: "Campanarios del Barri Vell de Girona vistos desde la muralla"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
+  alt: "Casas de colores del Onyar reflejadas en el río"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp
+  alt: "Escalinata de la Catedral de Girona"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-pexels-28936788.webp
+  alt: "Escaleras y arcos del barrio antiguo de Girona"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-wikimedia-cloister-of-catedral-de-girona-02-jpg-04.webp
+  alt: "Claustro de la Catedral de Girona"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
+  alt: "Fachadas del Onyar en Girona"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-pexels-13001985.webp
+  alt: "Escaleras de Sant Martí Sacosta en el barrio antiguo"
+- src: /images/actividades/girona/girona-catedral/girona-catedral-wikimedia-capital-of-the-cloister-of-catedral-de-g-01.webp
+  alt: "Capitel del claustro de la Catedral de Girona"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp
+  alt: "El río Onyar a su paso por Girona"
 publicada: true
 destacada: false
 fecha: '2026-10-04'

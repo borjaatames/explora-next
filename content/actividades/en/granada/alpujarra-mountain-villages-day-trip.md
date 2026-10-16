@@ -111,10 +111,22 @@ keywords:
 imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
 imagenAlt: "Whitewashed Moorish villages cascading down mountainside in Alpujarra, Granada, with flat-roofed houses and sierra peaks."
 galeria:
-  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp"
-    alt: "Narrow winding street in white Andalusian village with whitewashed houses, traditional doors, flower pots, and authentic Alpujarra architecture"
-  - src: "/images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp"
-    alt: "Mountain landscape of Las Alpujarras with native vegetation, natural gorge, and rural valley views near Granada"
+- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
+  alt: "Narrow winding street in white Andalusian village with whitewashed houses, traditional doors, flower pots, and authentic Alpujarra architecture"
+- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp
+  alt: "Mountain landscape of Las Alpujarras with native vegetation, natural gorge, and rural valley views near Granada"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
+  alt: "Alpujarra rugs for sale in Pampaneira"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
+  alt: "Alpujarra white village on the hillside"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-the-village-of-pampaneira-viewed-from-plaza-vieja.webp
+  alt: "Alpujarra valley among the clouds"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
+  alt: "Tinao, a covered passage typical of the Alpujarra"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-panor-mica-de-pampaneira-con-la-iglesia-de-santa-c.webp
+  alt: "Church and rooftops of an Alpujarra village"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
+  alt: "Flat roofs with laundry drying in the Alpujarra"
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

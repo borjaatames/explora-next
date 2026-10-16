@@ -160,11 +160,25 @@ imagenAlt: Nave interior de la Mezquita-Catedral de Sevilla con columnas y arcos
   la arquitectura islámica y cristiana medieval.
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
-  alt: Fachada de la Mezquita-Catedral de Córdoba con arquitectura islámica medieval, puertas, ventanas y torre campanario
-    cristiano, visto como hito urbano
+  alt: "Mezquita y puente romano de Córdoba"
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
-  alt: Nave interior de la Sinagoga de Córdoba con arcos de herradura, decoraciones geométricas y elementos arquitectónicos
-    hebreos del período medieval.
+  alt: "Arcos del interior de la Mezquita de Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp
+  alt: "Bosque de columnas de la Mezquita de Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-lamparas.webp
+  alt: "Arcos y lámparas de la Mezquita de Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-cupula.webp
+  alt: "Mihrab de la Mezquita de Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-puente-romano.webp
+  alt: "Puente romano y Mezquita-Catedral de Córdoba"
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-torre-campanario.webp
+  alt: "Torre campanario de la Mezquita-Catedral"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-calle-juderia.webp
+  alt: "Calle de la Judería de Córdoba con la torre al fondo"
+- src: /images/actividades/sevilla/cordoba-mezquita-catedral/cordoba-mezquita-catedral-pexels-31779458.webp
+  alt: "Arcos rojos y blancos de la Mezquita de Córdoba"
+- src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-alcazar-jardines.webp
+  alt: "Estanque en los jardines del Alcázar de los Reyes Cristianos"
 ratingProveedor: 4.3
 numeroOpiniones: 280
 publicada: true

@@ -101,14 +101,18 @@ imagen: "/images/actividades/granada/wikimedia/granada-banuelo-05.webp"
 imagenAlt: "Star-shaped skylights in the vaults of El Bañuelo, Granada Arab bath"
 
 galeria:
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-07.webp"
-    alt: "Horseshoe arches of El Bañuelo, Granada"
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-02.webp"
-    alt: "Arcade in the warm room of El Bañuelo"
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-01.webp"
-    alt: "Entrance hall of El Bañuelo, an 11th-century Arab bath"
-  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp"
-    alt: "The Darro river in central Granada"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
+  alt: "Horseshoe arches of El Bañuelo, Granada"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp
+  alt: "Arcade in the warm room of El Bañuelo"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-01.webp
+  alt: "Entrance hall of El Bañuelo, an 11th-century Arab bath"
+- src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
+  alt: "The Darro river in central Granada"
+- src: /images/actividades/granada/hammam/hammam-pexels-33279021.webp
+  alt: "Oils and scents ready for the hammam massage"
+- src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
+  alt: "Taps and marble basins in Arab baths"
 ratingProveedor: 4.5
 numeroOpiniones: 860
 

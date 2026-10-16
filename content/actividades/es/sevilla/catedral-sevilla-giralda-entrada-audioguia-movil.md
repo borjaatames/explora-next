@@ -123,12 +123,26 @@ imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-e
 imagenAlt: "Fachada gótica de la Catedral de Sevilla y la Giralda"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Catedral de Sevilla con la Giralda — entrada con audioguía móvil"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
-    alt: "Bóvedas góticas de la Catedral de Sevilla"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp"
-    alt: "Bóveda del crucero de la catedral"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Catedral de Sevilla y la Giralda"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: "Bóvedas góticas de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp
+  alt: "Bóveda del crucero de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
+  alt: "La Giralda vista desde abajo"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-01.webp
+  alt: "Interior de la iglesia del Sagrario en la Catedral de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
+  alt: "Sepulcro de piedra en una capilla de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-05.webp
+  alt: "Esculturas funerarias en la Catedral de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
+  alt: "Coro de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
+  alt: "Catedral de Sevilla con la Giralda al atardecer"
 
 ratingProveedor: 4.5
 numeroOpiniones: 850

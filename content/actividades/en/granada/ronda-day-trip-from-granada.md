@@ -111,11 +111,27 @@ imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-cen
 imagenAlt: Puente Nuevo spanning dramatic Tajo gorge with limestone cliffs in Ronda
 galeria:
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
-  alt: White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains
+  alt: "White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains"
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
-  alt: Puente Nuevo de Ronda arco de piedra con geometría estructural vista desde abajo
+  alt: "Puente Nuevo de Ronda arco de piedra con geometría estructural vista desde abajo"
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp
-  alt: Tourists strolling through historic Granada streets and plazas, leisurely exploring the city center on foot.
+  alt: "Tourists strolling through historic Granada streets and plazas, leisurely exploring the city center on foot."
+- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+  alt: "Ronda's Puente Nuevo and the houses above the gorge"
+- src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
+  alt: "The Puente Nuevo seen from the viewpoint"
+- src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
+  alt: "The Ronda gorge seen from below"
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: "Puente Nuevo over the gorge in spring"
+- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+  alt: "Arches of Ronda's Puente Nuevo"
+- src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp
+  alt: "Ronda perched above the gorge"
+- src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
+  alt: "Parador and Puente Nuevo on the cliff"
+- src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-spain-puente-nuevo-de-ronda-01-jpg.webp
+  alt: "Waterfall beneath Ronda's Puente Nuevo"
 ratingProveedor: 4.5
 numeroOpiniones: 34
 publicada: true

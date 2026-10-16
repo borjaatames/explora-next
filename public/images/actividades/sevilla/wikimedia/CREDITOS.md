@@ -28,3 +28,14 @@
 | sevilla-alcazar-jardines-08.webp | File:Jardines de los Reales Alcázares de Sevilla 1.jpg | CC BY-SA 3.0 | Azukiki |
 | sevilla-guadalquivir-barco-01.webp | File:Barcos Sevilla.jpg | CC BY-SA 4.0 | CarlosVdeHabsburgo |
 | sevilla-guadalquivir-barco-03.webp | File:Guadalquivir (Sevilla) 01.jpg | CC BY-SA 4.0 | CarlosVdeHabsburgo |
+
+<!-- añadidas 16 oct 2026 -->
+| sevilla-catedral-interior-01.webp | File:4 Interior de la Iglesia del Sagrario. Catedral de Sevilla. Sevilla..JPG | CC BY-SA 3.0 es | Roberto Chamoso G |
+| sevilla-catedral-interior-03.webp | File:Catedral de Sevilla-2025 04.jpg | CC BY 4.0 | Alberto-g-rovi |
+| sevilla-catedral-interior-05.webp | File:Catedral de Sevilla-2025 08.jpg | CC BY 4.0 | Alberto-g-rovi |
+| sevilla-catedral-interior-06.webp | File:Catedral de Sevilla-2025 10.jpg | CC BY 4.0 | Alberto-g-rovi |
+| sevilla-guadalquivir-barco-02.webp | File:Cruceros.jpg | CC BY-SA 4.0 | CarlosVdeHabsburgo |
+| sevilla-guadalquivir-barco-04.webp | File:Guadalquivir (Sevilla) 02.jpg | CC BY-SA 4.0 | CarlosVdeHabsburgo |
+| sevilla-duenas-01.webp | File:Artesonado del Palacio de las Dueñas, patio principal, Sevilla, España, 2016.JPG | CC BY-SA 4.0 | Benjamín Núñez González |
+| sevilla-duenas-05.webp | File:Patio central del Palacio de las Dueñas de Sevilla, España, 2016 02.JPG | CC BY-SA 4.0 | Benjamín Núñez González |
+| sevilla-duenas-08.webp | File:Patio central del Palacio de las Dueñas de Sevilla, España, 2016 06.JPG | CC BY-SA 4.0 | Benjamín Núñez González |

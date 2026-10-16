@@ -125,14 +125,22 @@ imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-c
 imagenAlt: "Bridges and canal of Plaza de España"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
-    alt: "View of Cathedral and Giralda from the tourist bus route"
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro on the Guadalquivir"
-  - src: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-    alt: "Las Setas walkway with the Giralda behind"
-  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
-    alt: "La Maestranza bullring"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
+  alt: "The Giralda lit up at night"
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: "Torre del Oro by the Guadalquivir"
+- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
+  alt: "Las Setas (Metropol Parasol) on Plaza de la Encarnación"
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: "Real Maestranza bullring in Seville"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
+  alt: "Plaza de España reflected in the canal"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
+  alt: "Seville Cathedral under a blue sky"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro and boats on the Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Guadalquivir riverbank with the Torre del Oro in the distance"
 
 ratingProveedor: 4.0
 numeroOpiniones: 4954

@@ -111,8 +111,26 @@ imagen: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-h
 imagenAlt: "General Archive of the Indies"
 
 galeria:
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Archivo General de Indias in Seville — 16th-century Renaissance facade, archive of the Spanish Empire in the Americas"
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: "Torre del Oro by the Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro and boats on the Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Guadalquivir riverbank with the Torre del Oro in the distance"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Seville Cathedral façade among palm trees"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
+  alt: "Cruise ships moored on the Guadalquivir"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
+  alt: "Detail of the Giralda and Seville Cathedral"
+- src: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-sevilla-archivo-general-de-indias-k01-jp-02.webp
+  alt: "Façade of the Archivo General de Indias"
+- src: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-archivo-general-de-indias-9920042054-jpg-03.webp
+  alt: "Fountain in front of the Archivo de Indias"
+- src: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-cathedral-and-archivo-de-indias-seville-05.webp
+  alt: "Cathedral and Archivo de Indias from above"
+- src: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-archivo-de-indias-002-jpg-01.webp
+  alt: "Archivo de Indias seen from the Giralda"
 ratingProveedor: 5.0
 numeroOpiniones: 3
 

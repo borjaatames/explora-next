@@ -176,13 +176,15 @@ imagen: "/images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/t
 imagenAlt: Flamenco dancer in traditional dress performing passionately on tablao stage in Seville
 galeria:
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-interior-tablao-at-hero.webp
-  alt: Intimate flamenco tablao dining room in Seville with warm lighting, diners at tables enjoying the live performance
+  alt: "Intimate flamenco tablao dining room in Seville with warm lighting, diners at tables enjoying the live performance"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
-  alt: Restored 17th-century building facade in Seville's El Arenal neighborhood near Plaza de Toros de la Maestranza
+  alt: "Restored 17th-century building facade in Seville's El Arenal neighborhood near Plaza de Toros de la Maestranza"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp
-  alt: Spanish tapas and drinks on a dinner table at a Seville flamenco tablao restaurant
+  alt: "Spanish tapas and drinks on a dinner table at a Seville flamenco tablao restaurant"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
-  alt: Exterior façade of Plaza de Toros de la Maestranza, historic bullring in Seville
+  alt: "Exterior façade of Plaza de Toros de la Maestranza, historic bullring in Seville"
+- src: /images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp
+  alt: "Show at Tablao Flamenco El Arenal"
 ratingProveedor: 4.9
 numeroOpiniones: 22
 publicada: true

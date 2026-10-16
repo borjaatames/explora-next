@@ -44,9 +44,11 @@ imagen: "/images/actividades/valencia/montanejos/montanejos-01.webp"
 imagenAlt: Turquoise thermal pools in Montanejos, Castellón
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
-  alt: Montanejos by bus day trip, photo 1 of 1
+  alt: "Montanejos by bus day trip, photo 1 of 1"
 - src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
-  alt: Mijares river running through Montanejos, among the mountains of Castellón
+  alt: "Mijares river running through Montanejos, among the mountains of Castellón"
+- src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
+  alt: "Village of Montanejos among the mountains"
 atraccionesRelacionadas:
   - excursiones
 publicada: true

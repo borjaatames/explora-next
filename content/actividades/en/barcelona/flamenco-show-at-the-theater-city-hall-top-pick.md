@@ -174,6 +174,10 @@ galeria:
   alt: "Flamenco guitarist playing live"
 - src: /images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp
   alt: "Plaça de Catalunya, next to Teatre City Hall"
+- src: /images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp
+  alt: "Flamenco dancer in a blue dress"
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: "Dancer with shawl and live guitarist"
 ratingProveedor: 4.5
 numeroOpiniones: 11305
 publicada: true

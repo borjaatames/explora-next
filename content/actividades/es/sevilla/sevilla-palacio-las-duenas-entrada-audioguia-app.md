@@ -111,14 +111,20 @@ imagen: "/images/actividades/sevilla/wikimedia/sevilla-duenas-04.webp"
 imagenAlt: "Patio principal del Palacio de las Dueñas"
 
 galeria:
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp"
-    alt: "Naranjo en un patio del palacio"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-06.webp"
-    alt: "Arcos mudéjares del patio"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-02.webp"
-    alt: "Jardín del Palacio de las Dueñas"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-07.webp"
-    alt: "Reja y azulejos en Las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp
+  alt: "Naranjos en el jardín del Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-06.webp
+  alt: "Arcos mudéjares del patio del Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-02.webp
+  alt: "Jardín del Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-07.webp
+  alt: "Reja y columna en el Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-01.webp
+  alt: "Artesonado del patio principal del Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-05.webp
+  alt: "Placa de Antonio Machado, que nació en el Palacio de las Dueñas"
+- src: /images/actividades/sevilla/wikimedia/sevilla-duenas-08.webp
+  alt: "Escultura clásica en el Palacio de las Dueñas"
 
 ratingProveedor: 4.7
 numeroOpiniones: 3823

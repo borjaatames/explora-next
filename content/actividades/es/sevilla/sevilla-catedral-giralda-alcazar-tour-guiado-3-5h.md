@@ -132,14 +132,24 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-don
 imagenAlt: "Patio de las Doncellas del Real Alcázar"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Catedral de Sevilla y Giralda — primera parte del tour 3,5h"
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
-    alt: "La Giralda iluminada"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
-    alt: "Bóvedas góticas de la Catedral de Sevilla"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
-    alt: "Jardines del Real Alcázar"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Catedral de Sevilla y la Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
+  alt: "Giralda iluminada de noche"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: "Bóvedas góticas de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp
+  alt: "Jardines del Real Alcázar de Sevilla"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
+  alt: "Cúpula y yeserías del Real Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: "Baños de Doña María de Padilla en el Real Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp
+  alt: "Jardines del Real Alcázar vistos desde la galería"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
+  alt: "Catedral de Sevilla con la Giralda al atardecer"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
+  alt: "Catedral de Sevilla bajo un cielo azul"
 
 ratingProveedor: 4.5
 numeroOpiniones: 2085

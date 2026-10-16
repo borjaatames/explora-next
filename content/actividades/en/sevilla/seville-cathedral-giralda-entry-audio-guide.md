@@ -123,12 +123,26 @@ imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-e
 imagenAlt: "Gothic facade of Seville Cathedral and the Giralda"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Seville Cathedral with the Giralda — entry with mobile audio guide"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
-    alt: "Gothic vaults of Seville Cathedral"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp"
-    alt: "Crossing vault of the cathedral"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Seville Cathedral and the Giralda"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: "Gothic vaults of Seville Cathedral"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp
+  alt: "Crossing vault of Seville Cathedral"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Seville Cathedral façade among palm trees"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
+  alt: "The Giralda seen from below"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-01.webp
+  alt: "Interior of the Sagrario church at Seville Cathedral"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
+  alt: "Stone tomb in a chapel of Seville Cathedral"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-05.webp
+  alt: "Funerary sculptures in Seville Cathedral"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
+  alt: "Choir of Seville Cathedral"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
+  alt: "Seville Cathedral and the Giralda at dusk"
 
 ratingProveedor: 4.5
 numeroOpiniones: 850

@@ -93,14 +93,20 @@ imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cueva-pub
 imagenAlt: "Flamenco zambra inside Cueva La Faraona, with the audience around the artists"
 
 galeria:
-  - src: "/images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp"
-    alt: "Cave houses on the Sacromonte hillside, Granada"
-  - src: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-bailaoras.webp"
-    alt: "Cueva La Faraona dancers in red dresses"
-  - src: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cantaora-cueva.webp"
-    alt: "Singer wearing a shawl in Cueva La Faraona"
-  - src: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-escenario-bailaora.webp"
-    alt: "Dancer on stage during the La Faraona show"
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
+  alt: "Cave houses on the Sacromonte hillside, Granada"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-bailaoras.webp
+  alt: "Cueva La Faraona dancers in red dresses"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cantaora-cueva.webp
+  alt: "Singer wearing a shawl in Cueva La Faraona"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-escenario-bailaora.webp
+  alt: "Dancer on stage during the La Faraona show"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
+  alt: "Whitewashed cave houses of the Sacromonte"
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: "The Albaicín at dusk"
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: "Sacromonte hillside with its cave houses"
 ratingProveedor: 4.7
 numeroOpiniones: 503
 

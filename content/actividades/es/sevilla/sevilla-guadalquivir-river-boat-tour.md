@@ -117,14 +117,20 @@ imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-en
 imagenAlt: "Puente de Triana sobre el Guadalquivir al atardecer"
 
 galeria:
-  - src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
-    alt: "Torre del Oro y el Guadalquivir — vista durante el crucero"
-  - src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp"
-    alt: "Plaza de toros de la Maestranza"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
-    alt: "Barco turístico navegando por el Guadalquivir"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp"
-    alt: "Barcos turísticos junto a la Torre del Oro"
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: "Torre del Oro junto al Guadalquivir"
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: "Plaza de toros de la Real Maestranza de Sevilla"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+  alt: "Barcos turísticos en el Guadalquivir al atardecer"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: "Torre del Oro y barcos en el Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
+  alt: "Cruceros atracados en el Guadalquivir"
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: "Orilla del Guadalquivir con la Torre del Oro al fondo"
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
+  alt: "Vista aérea de la plaza de toros de la Maestranza"
 
 ratingProveedor: 4.7
 numeroOpiniones: 1746

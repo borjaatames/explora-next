@@ -98,12 +98,23 @@ imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujar
 imagenAlt: White villages cascading down Alpujarra mountain slopes with traditional cubic Andalusian architecture near Granada
 galeria:
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: Mountain gorge with white villages cascading down verdant slopes in Granada's Alpujarra region
+  alt: "Mountain gorge with white villages cascading down verdant slopes in Granada's Alpujarra region"
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
-  alt: Small group tourists exploring Granada's historic streets with attentive local guide, experiencing authentic cultural
-    heritage.
+  alt: "Small group tourists exploring Granada's historic streets with attentive local guide, experiencing authentic cultural heritage."
 - src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp
-  alt: Sierra Nevada mountain range with alpine vegetation and natural sunlight illuminating the Alpujarra peaks near Granada
+  alt: "Sierra Nevada mountain range with alpine vegetation and natural sunlight illuminating the Alpujarra peaks near Granada"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pexels-29136853.webp
+  alt: "Whitewashed chapel in the Alpujarra"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
+  alt: "Snowy Sierra Nevada above the Alpujarra villages"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-vista-de-capileira-jpg.webp
+  alt: "Alpujarra village in the mist"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-granada-24524800018-jpg.webp
+  alt: "Alpujarra village lit up at dusk"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-shadowed-valley-seen-along-the-gr-240-in-pampaneir.webp
+  alt: "Alpujarra gorge with low clouds"
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
+  alt: "Balcony with geraniums in the Alpujarra"
 ratingProveedor: 4.7
 numeroOpiniones: 224
 publicada: true

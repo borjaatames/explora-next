@@ -132,14 +132,24 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-don
 imagenAlt: "Courtyard of the Maidens, Royal Alcázar"
 
 galeria:
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Seville Cathedral and Giralda — first part of the 3.5h tour"
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
-    alt: "The Giralda lit up"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
-    alt: "Gothic vaults of Seville Cathedral"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
-    alt: "Gardens of the Royal Alcázar"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Seville Cathedral and the Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
+  alt: "The Giralda lit up at night"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: "Gothic vaults of Seville Cathedral"
+- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp
+  alt: "Gardens of the Royal Alcázar of Seville"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
+  alt: "Dome and plasterwork in the Royal Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: "Baths of Doña María de Padilla in the Royal Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp
+  alt: "Royal Alcázar gardens seen from the gallery"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
+  alt: "Seville Cathedral and the Giralda at dusk"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
+  alt: "Seville Cathedral under a blue sky"
 
 ratingProveedor: 4.5
 numeroOpiniones: 2085

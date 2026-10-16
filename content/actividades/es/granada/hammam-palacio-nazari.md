@@ -101,14 +101,18 @@ imagen: "/images/actividades/granada/wikimedia/granada-banuelo-05.webp"
 imagenAlt: "Bóvedas con lucernarios estrellados del Bañuelo, baño árabe de Granada"
 
 galeria:
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-07.webp"
-    alt: "Arcos de herradura del Bañuelo de Granada"
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-02.webp"
-    alt: "Arquería de la sala templada del Bañuelo"
-  - src: "/images/actividades/granada/wikimedia/granada-banuelo-01.webp"
-    alt: "Sala de entrada del Bañuelo, baño árabe del siglo XI"
-  - src: "/images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp"
-    alt: "Río Darro a su paso por el centro de Granada"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
+  alt: "Arcos de herradura del Bañuelo de Granada"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp
+  alt: "Arquería de la sala templada del Bañuelo"
+- src: /images/actividades/granada/wikimedia/granada-banuelo-01.webp
+  alt: "Sala de entrada del Bañuelo, baño árabe del siglo XI"
+- src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
+  alt: "Río Darro a su paso por el centro de Granada"
+- src: /images/actividades/granada/hammam/hammam-pexels-33279021.webp
+  alt: "Aceites y aromas preparados para el masaje en el hammam"
+- src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
+  alt: "Grifos y pilas de mármol de unos baños árabes"
 ratingProveedor: 4.5
 numeroOpiniones: 860
 

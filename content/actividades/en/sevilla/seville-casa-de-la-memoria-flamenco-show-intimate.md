@@ -158,8 +158,9 @@ imagen: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sev
 imagenAlt: Flamenco stage in traditional Andalusian courtyard with intimate seating arrangement close to performers in Seville
 galeria:
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
-  alt: Engaged audience members sitting close to stage in Seville, showing expressions of emotion and concentration during
-    live performance
+  alt: "Engaged audience members sitting close to stage in Seville, showing expressions of emotion and concentration during live performance"
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
+  alt: "Las Setas at La Encarnación, a few minutes' walk away"
 ratingProveedor: 4.8
 numeroOpiniones: 13526
 publicada: true

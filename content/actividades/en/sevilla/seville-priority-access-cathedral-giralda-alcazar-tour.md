@@ -125,16 +125,28 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["seville 3 monuments tour", "cathedral alcazar giralda combo", "seville priority access 3 sites", "seville top selling tour", "seville best 1 day tour"]
 
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-catedral-ca-hero.webp"
-imagenAlt: "Seville Cathedral with the Giralda — 3 UNESCO monuments combo tour"
+imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+imagenAlt: "The Giralda seen from the walls of the Royal Alcázar"
 
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Royal Alcázar — second monument of the 3 UNESCO tour"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
-    alt: "Choir and nave of Seville Cathedral"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
-    alt: "Mercury Pool in the Alcázar gardens"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+  alt: "Courtyard of the Royal Alcázar of Seville"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
+  alt: "Choir of Seville Cathedral"
+- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp
+  alt: "Grotesque Gallery in the Royal Alcázar gardens"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+  alt: "Courtyard of the Maidens in the Royal Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
+  alt: "Arches and plasterwork in the Hall of Ambassadors"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: "Seville Cathedral façade among palm trees"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
+  alt: "The Giralda seen from below"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp
+  alt: "Mercury Pool in the Royal Alcázar"
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
+  alt: "Stone tomb in a chapel of Seville Cathedral"
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 
