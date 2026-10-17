@@ -97,25 +97,13 @@ export default function BokunWidget({
   const contenedorRef = useRef<HTMLDivElement>(null);
   const [activo, setActivo] = useState(false);
 
-  useEffect(() => {
-    if (activo) return;
-    const nodo = contenedorRef.current;
-    if (!nodo || typeof IntersectionObserver === "undefined") {
-      setActivo(true);
-      return;
-    }
-    const observer = new IntersectionObserver(
-      ([entrada]) => {
-        if (entrada.isIntersecting) {
-          setActivo(true);
-          observer.disconnect();
-        }
-      },
-      { rootMargin: MARGEN_CARGA }
-    );
-    observer.observe(nodo);
-    return () => observer.disconnect();
-  }, [activo]);
+  // Activar Bokun solo cuando el usuario interactúa (hover o click en el
+  // placeholder). En desktop el widget está en el sidebar visible, por lo que
+  // IntersectionObserver lo activaría de inmediato y bloquearía el hilo
+  // principal con ~1200ms de JS de Bokun, hundiendo el TBT.
+  function activar() {
+    if (!activo) setActivo(true);
+  }
 
   useEffect(() => {
     if (!channelUuid || !activo) return;
@@ -217,13 +205,30 @@ export default function BokunWidget({
 
       {/* min-h reserva el hueco del calendario (iframe de ~800-900 px) para
           que su aparición no empuje el contenido. */}
-      <div className="p-4 min-h-[560px]" ref={contenedorRef}>
+      <div
+        className="p-4 min-h-[560px]"
+        ref={contenedorRef}
+        onMouseEnter={activar}
+      >
         {!activo && (
-          <p className="text-sm text-slate-500 text-center py-8">
-            {idioma === "es"
-              ? "Cargando calendario de disponibilidad…"
-              : "Loading availability calendar…"}
-          </p>
+          <div className="flex flex-col items-center justify-center gap-4 py-10">
+            <p className="text-sm text-slate-500 text-center">
+              {idioma === "es"
+                ? "Comprueba fechas y disponibilidad"
+                : "Check dates and availability"}
+            </p>
+            <button
+              onClick={activar}
+              className="inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-white font-semibold px-6 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+            >
+              {idioma === "es" ? "Ver fechas disponibles" : "Check availability"}
+            </button>
+            <p className="text-xs text-slate-400">
+              {idioma === "es"
+                ? "Confirmación inmediata · Cancelación gratuita"
+                : "Instant confirmation · Free cancellation"}
+            </p>
+          </div>
         )}
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y
             limpio en cada cambio, para que Bokun lo re-hidrate con el lang
