@@ -62,13 +62,17 @@ keywords:
 - aquarium barcelona ticket
 - barcelona aquarium skip the line
 - shark tunnel barcelona
-imagen: /images/actividades/barcelona/aquarium/tunel-tiburones.webp
-imagenAlt: Shark tunnel at L'Aquàrium de Barcelona in Port Vell
+imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
+imagenAlt: "Oceanarium tunnel at L'Aquàrium de Barcelona"
 galeria:
-- src: /images/actividades/barcelona/aquarium/tiburones-aquarium.webp
-  alt: "Sharks in the Oceanarium tank at L'Aquàrium de Barcelona"
-- src: /images/actividades/barcelona/aquarium/medusas.webp
-  alt: "Jellyfish exhibit at L'Aquàrium de Barcelona"
+- src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
+  alt: "Shark and diver in the Oceanarium at L'Aquàrium"
+- src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
+  alt: "L'Aquàrium building in Barcelona's Port Vell"
+- src: /images/actividades/barcelona/aquarium/pez-angel.webp
+  alt: "Queen angelfish in a tropical tank at L'Aquàrium"
+- src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
+  alt: "Visitors in front of the main Oceanarium tank"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas: []

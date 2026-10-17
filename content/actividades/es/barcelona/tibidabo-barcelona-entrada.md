@@ -72,13 +72,17 @@ keywords:
 - parque atracciones tibidabo
 - tibidabo entrada precio
 - avio tibidabo
-imagen: /images/actividades/barcelona/tibidabo/avio-tibidabo.webp
-imagenAlt: El Avió vintage de 1921 girando sobre Barcelona en el Tibidabo
+imagen: /images/actividades/barcelona/tibidabo/panoramica-parque.webp
+imagenAlt: "Parque de atracciones del Tibidabo con Barcelona al fondo"
 galeria:
-- src: /images/actividades/barcelona/tibidabo/vistas-barcelona.webp
-  alt: Vistas panorámicas de Barcelona desde el Tibidabo
-- src: /images/actividades/barcelona/tibidabo/templo-sagrado-corazon.webp
-  alt: Templo del Sagrado Corazón en la cima del Tibidabo
+- src: /images/actividades/barcelona/tibidabo/noria-mar.webp
+  alt: "Noria y atracciones del Tibidabo sobre el mar"
+- src: /images/actividades/barcelona/tibidabo/avio.webp
+  alt: "El Avió, la atracción histórica del Tibidabo"
+- src: /images/actividades/barcelona/tibidabo/templo-noche.webp
+  alt: "Templo del Sagrado Corazón y noria del Tibidabo de noche"
+- src: /images/actividades/barcelona/tibidabo/carrusel.webp
+  alt: "Carrusel iluminado al atardecer en el Tibidabo"
 ratingProveedor: 4.3
 numeroOpiniones: 458
 atraccionesRelacionadas: []

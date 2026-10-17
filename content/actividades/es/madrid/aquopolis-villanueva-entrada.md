@@ -71,13 +71,9 @@ keywords:
 - aquopolis villanueva de la canada
 - parque acuatico madrid
 - aquopolis madrid precio
-imagen: /images/actividades/madrid/aquopolis/toboganes-aquopolis.webp
-imagenAlt: Toboganes en Aquópolis Villanueva de la Cañada
-galeria:
-- src: /images/actividades/madrid/aquopolis/piscina-olas.webp
-  alt: Piscina de olas en Aquópolis Madrid
-- src: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
-  alt: Zona infantil en Aquópolis
+imagen: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
+imagenAlt: "Zona infantil de juegos de agua en Aquópolis Villanueva de la Cañada"
+galeria: []
 ratingProveedor: 4.6
 numeroOpiniones: 54
 atraccionesRelacionadas: []

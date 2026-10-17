@@ -70,15 +70,15 @@ keywords:
 - warner bros madrid entrada
 - warner madrid precio
 - atracciones parque warner
-imagen: /images/actividades/madrid/parque-warner/superman-ride.webp
-imagenAlt: Superman The Ride en Parque Warner Madrid
+imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
+imagenAlt: "Caída de la atracción de agua Rio Bravo en Parque Warner Madrid"
 galeria:
-- src: /images/actividades/madrid/parque-warner/batman-show.webp
-  alt: Espectáculo de Batman en Parque Warner
-- src: /images/actividades/madrid/parque-warner/dc-comics-zona.webp
-  alt: Zona DC Comics en Parque Warner Madrid
-- src: /images/actividades/madrid/parque-warner/looney-tunes.webp
-  alt: Zona Cartoon Village con Looney Tunes
+- src: /images/actividades/madrid/parque-warner/coaster-express.webp
+  alt: "Montaña rusa de madera Coaster Express en Parque Warner"
+- src: /images/actividades/madrid/parque-warner/torre-noche.webp
+  alt: "Torre de caída iluminada de noche en Parque Warner Madrid"
+- src: /images/actividades/madrid/parque-warner/espectaculo-nocturno.webp
+  alt: "Espectáculo nocturno con fuegos artificiales en Parque Warner"
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas: []

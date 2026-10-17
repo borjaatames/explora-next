@@ -72,9 +72,17 @@ keywords:
 - gran canaria zoo ticket
 - palmitos park maspalomas
 - dolphin show gran canaria
-imagen: /images/actividades/gran-canaria/palmitos-park/palmitos-park-mariposario.webp
-imagenAlt: Butterfly house at Palmitos Park, Gran Canaria
-galeria: []
+imagen: /images/actividades/gran-canaria/palmitos-park/delfines.webp
+imagenAlt: "Dolphins at the Palmitos Park dolphinarium, Gran Canaria"
+galeria:
+- src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
+  alt: "Bald eagle in the birds of prey show at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
+  alt: "Palmitos Park in its ravine in southern Gran Canaria"
+- src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
+  alt: "Palm grove and ravine slopes at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
+  alt: "Saddle-billed stork at Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas: []

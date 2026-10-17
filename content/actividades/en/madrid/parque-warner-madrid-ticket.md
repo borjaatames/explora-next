@@ -66,15 +66,15 @@ keywords:
 - parque warner madrid ticket
 - warner bros theme park madrid
 - madrid theme park
-imagen: /images/actividades/madrid/parque-warner/superman-ride.webp
-imagenAlt: Superman Ride roller coaster at Parque Warner Madrid
+imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
+imagenAlt: "Rio Bravo water ride drop at Parque Warner Madrid"
 galeria:
-- src: /images/actividades/madrid/parque-warner/batman-show.webp
-  alt: "Batman stunt show at Parque Warner Madrid"
-- src: /images/actividades/madrid/parque-warner/dc-comics-zona.webp
-  alt: "DC Super Heroes World area at Parque Warner"
-- src: /images/actividades/madrid/parque-warner/looney-tunes.webp
-  alt: "Cartoon Village (Looney Tunes) area at Parque Warner"
+- src: /images/actividades/madrid/parque-warner/coaster-express.webp
+  alt: "Coaster Express wooden roller coaster at Parque Warner"
+- src: /images/actividades/madrid/parque-warner/torre-noche.webp
+  alt: "Drop tower lit up at night at Parque Warner Madrid"
+- src: /images/actividades/madrid/parque-warner/espectaculo-nocturno.webp
+  alt: "Night show with fireworks at Parque Warner"
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas: []

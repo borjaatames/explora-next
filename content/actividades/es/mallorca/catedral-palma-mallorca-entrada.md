@@ -79,6 +79,14 @@ galeria:
   alt: La Seu reflejada en el estanque del Parc de la Mar, Palma
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
   alt: Paseo junto al estanque frente a la Catedral de Palma
+- src: /images/actividades/mallorca/catedral-palma/nave-interior.webp
+  alt: "Nave central de la Catedral de Palma con el rosetón al fondo"
+- src: /images/actividades/mallorca/catedral-palma/roseton.webp
+  alt: "Rosetón mayor de la Catedral de Palma desde el interior"
+- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
+  alt: "Baldaquino de Gaudí sobre el altar mayor de La Seu"
+- src: /images/actividades/mallorca/catedral-palma/capilla-barcelo.webp
+  alt: "Capilla del Santísimo con el mural de Miquel Barceló"
 ratingProveedor: 4.6
 numeroOpiniones: 17883
 atraccionesRelacionadas:

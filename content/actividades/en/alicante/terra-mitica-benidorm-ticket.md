@@ -71,9 +71,15 @@ keywords:
 - benidorm theme park
 - terra mitica roller coaster
 - alicante theme park
-imagen: /images/actividades/alicante/terra-mitica/terra-mitica-magnus.webp
-imagenAlt: Magnus wooden roller coaster at Terra Mítica, Benidorm
-galeria: []
+imagen: /images/actividades/alicante/terra-mitica/magnus-colossus.webp
+imagenAlt: "Magnus Colossus wooden roller coaster at Terra Mítica, Benidorm"
+galeria:
+- src: /images/actividades/alicante/terra-mitica/vista-parque.webp
+  alt: "General view of Terra Mítica with Magnus Colossus"
+- src: /images/actividades/alicante/terra-mitica/estructura-madera.webp
+  alt: "Wooden roller coaster structure at Terra Mítica"
+- src: /images/actividades/alicante/terra-mitica/entrada-colossus.webp
+  alt: "Themed entrance to Magnus Colossus"
 ratingProveedor: 4.5
 numeroOpiniones: 504
 atraccionesRelacionadas:

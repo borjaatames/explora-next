@@ -71,9 +71,17 @@ keywords:
 - palmitos park maspalomas ticket
 - zoo gran canaria
 - delfines gran canaria
-imagen: /images/actividades/gran-canaria/palmitos-park/palmitos-park-mariposario.webp
-imagenAlt: Mariposas tropicales en el mariposario de Palmitos Park Gran Canaria
-galeria: []
+imagen: /images/actividades/gran-canaria/palmitos-park/delfines.webp
+imagenAlt: "Delfines en el delfinario de Palmitos Park, Gran Canaria"
+galeria:
+- src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
+  alt: "Águila calva en la exhibición de aves rapaces de Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
+  alt: "Palmitos Park en su barranco del sur de Gran Canaria"
+- src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
+  alt: "Palmeral y laderas del barranco en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
+  alt: "Jabirú africano en Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas: []

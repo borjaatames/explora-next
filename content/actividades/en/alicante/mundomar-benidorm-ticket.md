@@ -70,9 +70,15 @@ keywords:
 - benidorm marine park
 - mundomar dolphin show
 - benidorm family park
-imagen: /images/actividades/alicante/mundomar/mundomar-delfines.webp
-imagenAlt: Dolphin show at Mundomar marine park, Benidorm
-galeria: []
+imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
+imagenAlt: "Dolphins leaping during the show at Mundomar, Benidorm"
+galeria:
+- src: /images/actividades/alicante/mundomar/delfin-entrenador.webp
+  alt: "Dolphin jumping beside its trainer at Mundomar"
+- src: /images/actividades/alicante/mundomar/delfines-piscina.webp
+  alt: "Bottlenose dolphins in the pool at Mundomar"
+- src: /images/actividades/alicante/mundomar/escenario-pirata.webp
+  alt: "Pirate-ship stage of the Mundomar dolphinarium"
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:

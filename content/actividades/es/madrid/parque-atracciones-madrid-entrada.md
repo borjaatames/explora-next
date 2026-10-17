@@ -69,13 +69,17 @@ keywords:
 - parque de atracciones madrid
 - parque atracciones madrid entrada
 - parque atracciones madrid precio
-imagen: /images/actividades/madrid/parque-atracciones/abismo-madrid.webp
-imagenAlt: Abismo en el Parque de Atracciones de Madrid
+imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
+imagenAlt: "Montaña rusa Tarántula en el Parque de Atracciones de Madrid"
 galeria:
-- src: /images/actividades/madrid/parque-atracciones/tornado-coaster.webp
-  alt: Montaña rusa Tornado en el Parque de Atracciones
+- src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
+  alt: "Atracción de agua Los Fiordos en el Parque de Atracciones"
+- src: /images/actividades/madrid/parque-atracciones/vista-parque.webp
+  alt: "Vista general del Parque de Atracciones de Madrid"
+- src: /images/actividades/madrid/parque-atracciones/zeppelin.webp
+  alt: "Atracción Zeppelin del Parque de Atracciones de Madrid"
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
-  alt: Zona infantil del Parque de Atracciones de Madrid
+  alt: "Atracción infantil Padrinos Voladores en Nickelodeon Land"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas: []

@@ -65,15 +65,19 @@ keywords:
 - zoo aquarium madrid
 - madrid zoo giant pandas
 - madrid zoo skip the line
-imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-imagenAlt: Giant pandas at Madrid Zoo Aquarium
+imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
+imagenAlt: "Dolphin show at Zoo Aquarium de Madrid"
 galeria:
-- src: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-  alt: "Dolphinarium at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-acuario.webp
-  alt: "Aquarium at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-rapaces.webp
-  alt: "Birds of prey show at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
+  alt: "Giant pandas at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
+  alt: "Flamingos and a pelican at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
+  alt: "Dromedary at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-hipopotamo.webp
+  alt: "Hippopotamus at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
+  alt: "Lake and bird area at Zoo Aquarium de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas: []

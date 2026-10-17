@@ -60,13 +60,17 @@ keywords:
 - parque atracciones madrid ticket
 - madrid theme park local
 - abismo madrid
-imagen: /images/actividades/madrid/parque-atracciones/abismo-madrid.webp
-imagenAlt: Abismo free-fall tower at Parque de Atracciones Madrid
+imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
+imagenAlt: "Tarántula roller coaster at Parque de Atracciones de Madrid"
 galeria:
-- src: /images/actividades/madrid/parque-atracciones/tornado-coaster.webp
-  alt: "Tornado roller coaster at Parque de Atracciones de Madrid"
+- src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
+  alt: "Los Fiordos water ride at Parque de Atracciones"
+- src: /images/actividades/madrid/parque-atracciones/vista-parque.webp
+  alt: "General view of Parque de Atracciones de Madrid"
+- src: /images/actividades/madrid/parque-atracciones/zeppelin.webp
+  alt: "Zeppelin ride at Parque de Atracciones de Madrid"
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
-  alt: "Nickelodeon Land children's area at Parque de Atracciones"
+  alt: "Padrinos Voladores children's ride in Nickelodeon Land"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas: []

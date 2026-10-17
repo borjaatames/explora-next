@@ -70,13 +70,17 @@ keywords:
 - acuario barcelona entrada
 - tunel tiburones barcelona
 - aquarium barcelona precio
-imagen: /images/actividades/barcelona/aquarium/tunel-tiburones.webp
-imagenAlt: Túnel submarino de 80 metros del Aquàrium de Barcelona
+imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
+imagenAlt: "Túnel del Oceanario de L'Aquàrium de Barcelona"
 galeria:
-- src: /images/actividades/barcelona/aquarium/tiburones-aquarium.webp
-  alt: Tiburones sand tiger en el Aquàrium de Barcelona
-- src: /images/actividades/barcelona/aquarium/medusas.webp
-  alt: Medusas en el Aquàrium de Barcelona
+- src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
+  alt: "Tiburón y buceador en el Oceanario de L'Aquàrium"
+- src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
+  alt: "Edificio de L'Aquàrium en el Port Vell de Barcelona"
+- src: /images/actividades/barcelona/aquarium/pez-angel.webp
+  alt: "Pez ángel reina en un acuario tropical de L'Aquàrium"
+- src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
+  alt: "Visitantes ante el gran tanque del Oceanario"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas: []

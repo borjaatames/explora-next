@@ -73,15 +73,19 @@ keywords:
 - zoo madrid entrada
 - zoo madrid precio
 - zoo madrid pandas
-imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-imagenAlt: Panda gigante en el Zoo Aquarium de Madrid
+imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
+imagenAlt: "Espectáculo de delfines en el Zoo Aquarium de Madrid"
 galeria:
-- src: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-  alt: Espectáculo en el Delfinario del Zoo de Madrid
-- src: /images/actividades/madrid/zoo-aquarium/zoo-acuario.webp
-  alt: Zona de acuario con tiburones
-- src: /images/actividades/madrid/zoo-aquarium/zoo-rapaces.webp
-  alt: Espectáculo de aves de presa en el Zoo
+- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
+  alt: "Osos panda en el Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
+  alt: "Flamencos y pelícano en el Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
+  alt: "Dromedario en el Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-hipopotamo.webp
+  alt: "Hipopótamo en el Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
+  alt: "Lago y zona de aves del Zoo Aquarium de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas: []

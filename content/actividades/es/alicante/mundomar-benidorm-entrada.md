@@ -70,9 +70,15 @@ keywords:
 - mundomar delfines benidorm
 - zoo marino benidorm
 - parque animales benidorm
-imagen: /images/actividades/alicante/mundomar/mundomar-delfines.webp
-imagenAlt: Show de delfines en Mundomar Benidorm
-galeria: []
+imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
+imagenAlt: "Salto de delfines en el espectáculo de Mundomar, Benidorm"
+galeria:
+- src: /images/actividades/alicante/mundomar/delfin-entrenador.webp
+  alt: "Delfín saltando junto a su entrenador en Mundomar"
+- src: /images/actividades/alicante/mundomar/delfines-piscina.webp
+  alt: "Delfines mulares en la piscina de Mundomar"
+- src: /images/actividades/alicante/mundomar/escenario-pirata.webp
+  alt: "Escenario pirata del delfinario de Mundomar"
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:

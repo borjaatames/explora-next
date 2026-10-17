@@ -62,13 +62,17 @@ keywords:
 - faunia madrid ticket
 - nature park madrid
 - faunia ecological theme park
-imagen: /images/actividades/madrid/faunia/pinguinos-faunia.webp
-imagenAlt: Penguins at Faunia ecological theme park in Madrid
+imagen: /images/actividades/madrid/faunia/leones-marinos.webp
+imagenAlt: "Sea lion show at Faunia, Madrid"
 galeria:
-- src: /images/actividades/madrid/faunia/selva-amazonica.webp
-  alt: "Amazon rainforest pavilion at Faunia"
-- src: /images/actividades/madrid/faunia/cocodrilos-pantanos.webp
-  alt: "Crocodiles in the wetlands area at Faunia"
+- src: /images/actividades/madrid/faunia/flamencos.webp
+  alt: "Flamingos at Faunia, Madrid"
+- src: /images/actividades/madrid/faunia/dinosaurio.webp
+  alt: "Dinosaur replica along the Faunia trail"
+- src: /images/actividades/madrid/faunia/entrada-faunia.webp
+  alt: "Entrance to Faunia nature park, Madrid"
+- src: /images/actividades/madrid/faunia/lago-faunia.webp
+  alt: "Lake with ducks at Faunia"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas: []

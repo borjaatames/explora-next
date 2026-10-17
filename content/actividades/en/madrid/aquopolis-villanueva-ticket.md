@@ -62,13 +62,9 @@ keywords:
 - aquopolis madrid ticket
 - waterpark madrid
 - aquopolis villanueva ticket
-imagen: /images/actividades/madrid/aquopolis/toboganes-aquopolis.webp
-imagenAlt: Water slides at Aquópolis Villanueva de la Cañada near Madrid
-galeria:
-- src: /images/actividades/madrid/aquopolis/piscina-olas.webp
-  alt: "Wave pool at Aquópolis Villanueva de la Cañada"
-- src: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
-  alt: "Children's area at Aquópolis"
+imagen: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
+imagenAlt: "Children's splash area at Aquópolis Villanueva de la Cañada"
+galeria: []
 ratingProveedor: 4.6
 numeroOpiniones: 54
 atraccionesRelacionadas: []

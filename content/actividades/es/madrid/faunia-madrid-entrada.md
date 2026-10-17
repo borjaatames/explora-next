@@ -70,13 +70,17 @@ keywords:
 - faunia madrid entrada precio
 - parque naturaleza madrid
 - zoo faunia madrid
-imagen: /images/actividades/madrid/faunia/pinguinos-faunia.webp
-imagenAlt: Pingüinos en el Mundo Polar de Faunia Madrid
+imagen: /images/actividades/madrid/faunia/leones-marinos.webp
+imagenAlt: "Exhibición de leones marinos en Faunia, Madrid"
 galeria:
-- src: /images/actividades/madrid/faunia/selva-amazonica.webp
-  alt: Selva Amazónica en Faunia Madrid
-- src: /images/actividades/madrid/faunia/cocodrilos-pantanos.webp
-  alt: Cocodrilos en Pantanos del Sur de Faunia
+- src: /images/actividades/madrid/faunia/flamencos.webp
+  alt: "Flamencos en Faunia, Madrid"
+- src: /images/actividades/madrid/faunia/dinosaurio.webp
+  alt: "Réplica de dinosaurio en el recorrido de Faunia"
+- src: /images/actividades/madrid/faunia/entrada-faunia.webp
+  alt: "Entrada de Faunia, el parque de naturaleza de Madrid"
+- src: /images/actividades/madrid/faunia/lago-faunia.webp
+  alt: "Lago con patos en Faunia"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas: []

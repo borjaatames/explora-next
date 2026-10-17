@@ -64,13 +64,17 @@ keywords:
 - tibidabo barcelona ticket
 - tibidabo amusement park barcelona
 - barcelona viewpoint tibidabo
-imagen: /images/actividades/barcelona/tibidabo/avio-tibidabo.webp
-imagenAlt: Historic Avio biplane ride at Tibidabo amusement park, Barcelona
+imagen: /images/actividades/barcelona/tibidabo/panoramica-parque.webp
+imagenAlt: "Tibidabo amusement park with Barcelona in the background"
 galeria:
-- src: /images/actividades/barcelona/tibidabo/vistas-barcelona.webp
-  alt: "Views over Barcelona from Tibidabo amusement park"
-- src: /images/actividades/barcelona/tibidabo/templo-sagrado-corazon.webp
-  alt: "Temple of the Sacred Heart on Tibidabo"
+- src: /images/actividades/barcelona/tibidabo/noria-mar.webp
+  alt: "Ferris wheel and rides at Tibidabo above the sea"
+- src: /images/actividades/barcelona/tibidabo/avio.webp
+  alt: "The Avió, Tibidabo's historic aeroplane ride"
+- src: /images/actividades/barcelona/tibidabo/templo-noche.webp
+  alt: "Temple of the Sacred Heart and Tibidabo ferris wheel at night"
+- src: /images/actividades/barcelona/tibidabo/carrusel.webp
+  alt: "Carousel lit up at dusk at Tibidabo"
 ratingProveedor: 4.3
 numeroOpiniones: 458
 atraccionesRelacionadas: []

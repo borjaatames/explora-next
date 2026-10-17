@@ -73,6 +73,14 @@ galeria:
   alt: "La Seu reflected in the Parc de la Mar pool, Palma"
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
   alt: "Promenade by the pool in front of Palma Cathedral"
+- src: /images/actividades/mallorca/catedral-palma/nave-interior.webp
+  alt: "Central nave of Palma Cathedral with the rose window"
+- src: /images/actividades/mallorca/catedral-palma/roseton.webp
+  alt: "Great rose window of Palma Cathedral from inside"
+- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
+  alt: "Gaudí's canopy over the main altar of La Seu"
+- src: /images/actividades/mallorca/catedral-palma/capilla-barcelo.webp
+  alt: "Chapel of the Blessed Sacrament with Miquel Barceló's mural"
 ratingProveedor: 4.6
 numeroOpiniones: 17883
 atraccionesRelacionadas: []
