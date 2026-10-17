@@ -4,11 +4,11 @@ descripcion: 'Guía de los escenarios de Juego de Tronos en Girona: la escalinat
 categoria: girona
 slug: girona-juego-de-tronos
 fecha: '2026-05-05'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
-tiempo_lectura: 3
+tiempo_lectura: 2
 keywords:
 - girona juego de tronos
 - escenarios juego de tronos girona
@@ -42,6 +42,14 @@ El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio r
 - **Pont de Pedra y casas del Onyar:** escenas de Braavos.
 - **Passeig Arqueològic:** la muralla, fondo de varias secuencias.
 
+## Qué debes saber antes de ir
+
+- **Los escenarios son calles abiertas:** no se paga nada por verlos, salvo si entras en la Catedral (entrada conjunta con Sant Feliu, unos 7,50 €) o en Sant Pere de Galligants, que es hoy el Museo de Arqueología de Cataluña (entrada de pocos euros).
+- **Toda la ruta a pie son 2 horas** con calma, en un radio de 500 metros. Las escaleras de la Pujada de Sant Domènec y la subida a la muralla son empinadas: con carrito o movilidad reducida, salta esas dos.
+- **La escalinata de la Catedral** (90 peldaños, el Gran Septo) se llena de grupos a partir de las 11:00. Para la foto sin gente, antes de las 9:30 o después de las 19:00.
+- **Girona no se rodó entera:** las escenas de Braavos mezclan Girona con Sibenik (Croacia). Si una localización no la encuentras, probablemente no está aquí.
+- **Si duermes en Barcelona,** el AVE te deja en 38 minutos y la estación está a 15 minutos andando del primer escenario. Se hace en una mañana y queda la tarde para la ciudad.
+
 ## Ruta a pie
 
 | Orden | Parada |
@@ -53,10 +61,13 @@ El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio r
 | 5 | Sant Pere de Galligants |
 | 6 | Passeig Arqueològic (muralla) |
 
-## Consejos
+## Errores a evitar
 
-1. **Ve a primera hora:** la escalinata se llena a mediodía.
-2. **Si vas por libre, lleva un mapa de localizaciones:** sin referencias cuesta ubicar las escenas.
-3. **El Call es un barrio habitado:** respeta el silencio.
+1. **Ir a mediodía:** la escalinata se llena y las fotos salen con cien personas.
+2. **Ir por libre sin un mapa de localizaciones:** sin las capturas de la serie al lado, cuesta ubicar las escenas. El tour en grupo reducido lleva un iPad con cada plano.
+3. **Buscar escenas que no se rodaron aquí:** Braavos es mitad Girona, mitad Croacia.
+4. **Gritar o posar en El Call:** es un barrio habitado, con callejones estrechos. Respeta el silencio.
+5. **Quedarse solo en los escenarios:** la catedral por dentro, El Call y la muralla valen tanto como la serie.
 
 La ruta coincide casi entera con [qué ver en Girona en un día](/guias/girona/que-ver-en-girona-en-un-dia).
+

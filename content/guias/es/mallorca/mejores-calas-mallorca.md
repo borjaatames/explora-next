@@ -4,13 +4,13 @@ descripcion: "Las mejores calas y playas de Mallorca: Es Trenc, Cala Mondragó, 
 categoria: "mallorca"
 slug: "mejores-calas-mallorca"
 fecha: "2026-03-29"
-fecha_actualizacion: "2026-03-29"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"
 imagen_alt: "Catedral de Palma de Mallorca al atardecer"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "mejores calas de mallorca"
   - "es trenc"
@@ -52,6 +52,16 @@ No todas valen para lo mismo: unas son largas y familiares, otras pequeñas y fo
 ## Cómo evitar las colas
 
 > **⭐ Tip:** las calas pequeñas (Caló des Moro, Cala Varques) tienen aparcamiento mínimo. Llega **antes de las 9:00** o **después de las 18:00**, o ve en barca/excursión. A mediodía en agosto no hay sitio ni para la toalla.
+
+## Lo práctico: aparcar, llegar y qué llevar
+
+- **Aparcamientos de pago:** en Es Trenc (Ses Covetes y Sa Ràpita) cuestan 7-9 € el día; en Cala Mondragó, 5-6 €; en Sa Calobra, 8-10 €. Casi todos se llenan antes de las 11:00 en julio y agosto, y aparcar en el arcén o en caminos privados son multas seguras de 100-200 €.
+- **Formentor:** de junio a septiembre la carretera del faro está cerrada a los coches particulares de 10:00 a 22:30. Se va en el autobús lanzadera desde Port de Pollença (cada 15-20 minutos) o en barco desde el mismo puerto.
+- **Sa Calobra sin curvas:** el barco desde Port de Sóller (unos 30 € ida y vuelta, 1 hora de travesía bajo los acantilados) evita los 12 km de la carretera más retorcida de la isla.
+- **Caló des Moro y Cala Varques:** el aparcamiento más cercano está a 15-20 minutos andando por camino de tierra, y en Caló des Moro la bajada final es por rocas. No son calas para carritos ni para movilidad reducida.
+- **Servicios y precios:** en las playas con servicios, dos hamacas y sombrilla cuestan 18-25 € al día; en las vírgenes no hay ni agua: lleva 2 litros por persona y una sombrilla.
+- **Agua y medusas:** el mar está a 24-27 °C de julio a septiembre y por debajo de 20 °C antes de junio. Las medusas llegan con el viento de levante; mira las banderas del socorrista y las apps de avisos antes de salir.
+- **Nudismo:** aceptado en Es Trenc (zona norte), Cala Varques y parte de Cala Mesquida.
 
 ## Con o sin servicios
 

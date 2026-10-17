@@ -4,13 +4,13 @@ descripcion: "Granada con niños sin sufrir: Alhambra adaptada, Parque de las Ci
 categoria: "granada"
 slug: "granada-con-ninos"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
 imagen_alt: "Calle empedrada del barrio del Albaicín en Granada"
-tiempo_lectura: 13
+tiempo_lectura: 10
 keywords:
   - "granada con niños"
   - "qué hacer en granada con niños"
@@ -133,6 +133,16 @@ El barrio musulmán de Granada es **precioso pero exigente con peques**: cuestas
 | Calle Calderería Nueva | Tiendas de té, especias y artesanía |
 
 **Tiempo realista con niños**: 1h 30min, no más. Ir a media mañana o atardecer, evitar las 14:00-17:00 en verano.
+
+## Precios y horarios con niños
+
+- **Alhambra:** 22,27 € adultos y menores de 12 gratis, pero **con ticket nominativo** sacado en la misma compra; en los Palacios Nazaríes no se puede entrar con carrito (hay consigna gratuita y mochilas portabebés en préstamo). Con niños, la franja de Nazaríes de 9:00 a 10:00 y la entrada de Jardines y Generalife (12,73 €) si los peques son muy pequeños: ven los jardines y los pavos reales sin la cola ni el silencio de los palacios.
+- **Parque de las Ciencias:** 7 € adultos, 6 € de 3 a 17 años; el planetario, 2,50 € más. De martes a sábado de 10:00 a 19:00, domingos hasta las 15:00; cierra los lunes. Tiene mariposario, torre de observación y una zona exterior con juegos de agua: 3-4 horas mínimo. Se llega en el metro ligero (parada Parque de las Ciencias) o andando desde el centro en 20 minutos.
+- **Microbuses al Albaicín (C31, C32):** 1,40 €, menores de 4 gratis; con carrito entran, pero el Albaicín es de cuestas y escaleras: mochila portabebés mejor que carrito.
+- **Flamenco en el Sacromonte:** las cuevas admiten niños, pero a partir de los 7-8 años; los pases de las 20:00 son los adecuados. Entradas de 18 a 30 €, y los menores suelen pagar la mitad.
+- **Teleférico o tren turístico:** Granada no tiene teleférico; el tren turístico (9 € adultos, 5 € niños) sube al Albaicín, el Sacromonte y la Alhambra en 50 minutos y es la forma menos cansada de ver las cuestas con peques.
+- **Helados:** Los Italianos (Gran Vía) y La Veneciana (Reyes Católicos), las dos a 3 € la tarrina pequeña; en verano, cola, pero rápida.
+- **Calor:** de junio a septiembre, los monumentos antes de las 12:00 y la piscina o el Parque de las Ciencias (climatizado) por la tarde. Granada pasa de 38 °C muchas tardes.
 
 ## Comer en Granada con niños
 

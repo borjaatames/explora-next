@@ -4,11 +4,11 @@ descripcion: "Qué ver en Valencia en 2 días: casco histórico, Ciudad de las A
 categoria: "valencia"
 slug: "valencia-en-2-dias"
 fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 8
 keywords:
   - "valencia en 2 días"
   - "qué ver en valencia"
@@ -93,6 +93,17 @@ Una vez allí, el centro se hace **a pie** y para lo demás Valencia es de las c
 **Comida.** Cómete una **paella valenciana** de verdad en El Palmar: la original lleva pollo, conejo, garrofó y judía verde —ni marisco ni chorizo— y es plato de mediodía. Si prefieres aprender a hacerla, hay una clase de cocina de paella con visita al mercado.
 
 **Tarde.** De vuelta, date un baño o un paseo por la **playa de la Malvarrosa**, de arena ancha y dorada, con restaurantes de arroces frente al mar. Cierra con una **horchata con fartons**. La última tarde, vuelta tranquila al centro: el Carmen tiene una luz dorada al atardecer y siempre queda algo —la Plaza Redonda o el modernista Mercado de Colón.
+
+## Precios y horarios de lo imprescindible
+
+- **Catedral:** 9 € con audioguía, torre del Miguelete incluida (207 escalones, sin ascensor); de lunes a sábado de 10:30 a 18:30, domingos por la tarde. El Santo Cáliz se ve en su capilla.
+- **Lonja de la Seda:** 2 € (gratis domingos y festivos), cierra las tardes de domingo; 30 minutos bastan y es Patrimonio de la Humanidad. **Mercado Central**, enfrente: de lunes a sábado de 7:30 a 15:00.
+- **Torres de Serranos y de Quart:** 2 € cada una, gratis los domingos; las de Serranos tienen la mejor vista del Turia.
+- **Ciudad de las Artes:** Oceanogràfic, unos 40 € (30 € niños); Museu de les Ciències y Hemisfèric, 9 € cada uno; combinada de los tres, unos 50 €. El paseo exterior, gratis. Detalle en [cómo visitar la Ciudad de las Artes](/guias/valencia/ciudad-artes-ciencias-como-visitar).
+- **Albufera:** autobuses 24 y 25 a El Palmar (1,50 €, 45 minutos); barca, 6-8 € por persona, 40 minutos, sin reserva salvo el atardecer, que se llena.
+- **Bioparc:** 27-28 € adultos, metro Nou d'Octubre; abre todos los días desde las 10:00.
+- **Transporte:** billete sencillo de metro, tranvía y autobús, 1,50 €; la tarjeta SUMA 10 viajes (zona A), 8 € más 1 € de la tarjeta, vale para todo. Metro desde el aeropuerto al centro en 20 minutos (4,80 €). Valenbisi para turistas: 13,30 € la semana, con los primeros 30 minutos de cada trayecto gratis.
+- **Fallas (15-19 de marzo):** hoteles al triple, calles cortadas, mascletà a las 14:00 en la Plaza del Ayuntamiento y la Cremà la noche del 19. Si no vienes a por ellas, evita esas fechas.
 
 ## Dónde dormir
 

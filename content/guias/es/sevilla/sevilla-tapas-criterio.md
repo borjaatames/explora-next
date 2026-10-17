@@ -4,13 +4,13 @@ descripcion: "Dónde tapear bien en Sevilla sin caer en trampas turísticas. 8 b
 categoria: "sevilla"
 slug: "sevilla-tapas-criterio"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
 imagen_alt: "Jamones ibéricos colgados en una charcutería sevillana"
-tiempo_lectura: 11
+tiempo_lectura: 14
 keywords:
   - "tapas sevilla"
   - "dónde tapear en sevilla"
@@ -39,6 +39,16 @@ Cuatro reglas que cambian completamente la experiencia y que casi nadie te expli
 **No pidas a la vez.** El tapeo sevillano funciona por rondas. Pides tres cosas, te las comes, pides otras tres. La carta entera de golpe en la primera tanda llega todo frío. Pídele al camarero su recomendación y arranca por ahí.
 
 **El servicio puede ser brusco. No es contigo.** En las tabernas con solera el camarero tiene a veces un trato seco que viene de oficio. No es maleducación, está sirviendo a 40 personas. Te tratará como a cualquier sevillano: sin alfombra roja. Eso, contra lo que parece, es buena señal.
+
+## Cuánto cuesta tapear en Sevilla
+
+- **Precios de referencia:** tapa en barra, 2,50-4 €; media ración, 6-9 €; ración, 10-16 €. Una caña, 1,50-2 €; una copa de manzanilla o fino, 2-2,50 €; el tinto de verano, 2-2,50 €. Una cena de tapeo con cinco o seis tapas y tres bebidas sale por 18-25 € por persona en el Centro y el Arenal, y un 20 % menos en Triana.
+- **Barra, mesa y terraza:** el mismo plato puede costar un euro más en mesa y dos más en terraza; algunos clásicos lo anuncian en la carta. Si vas a pedir solo tapas, la barra es el sitio.
+- **El pan y el aperitivo no son gratis:** 1-1,50 € por persona de pan, picos y a veces unas aceitunas. Es normal y se cobra siempre; no es una estafa.
+- **Cómo se paga:** al final, en barra, de palabra; en los sitios más antiguos aún apuntan con tiza en el mostrador. Casi todos aceptan tarjeta, pero los de la Alfalfa y Triana agradecen el efectivo para cuentas pequeñas.
+- **Propina:** no se espera. Dejar las monedas del cambio o 1-2 € en una mesa de tapas es más que suficiente.
+- **Reservas:** la mayoría de bares de tapas **no reservan**; se llega a las 13:30 o a las 20:30 y se espera de pie con la caña. Los restaurantes con mesa, en cambio, sí, y los viernes y sábados hace falta.
+- **Cuándo no ir:** la Feria de Abril (el centro se vacía y Triana se llena), la Semana Santa (todo lleno y precios de fiesta) y los partidos del Betis y el Sevilla en el Arenal y Triana.
 
 ## Centro y Alfalfa: dos clásicos que valen lo que cuestan
 

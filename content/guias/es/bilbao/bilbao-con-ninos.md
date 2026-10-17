@@ -4,13 +4,13 @@ descripcion: "Guía de Bilbao con niños: funicular de Artxanda, esculturas del 
 categoria: "bilbao"
 slug: "bilbao-con-ninos"
 fecha: "2026-04-15"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
 imagen_alt: "Bilbao, una ciudad cómoda para visitar en familia"
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "bilbao con niños"
   - "bilbao en familia"
@@ -56,6 +56,16 @@ La clave es alternar: una mañana de ría y esculturas, una tarde de parque o pl
 | Día 1 | Mañana: ría y esculturas del Guggenheim · Tarde: funicular de Artxanda |
 | Día 2 | Mañana: Itsasmuseum y Doña Casilda · Tarde: playa en metro (Plentzia/Gorliz) |
 | Día extra | Puente Bizkaia (barquilla) y Getxo, o pintxos en familia |
+
+## Lo práctico: transporte, precios y lluvia
+
+- **Billete Barik:** la tarjeta recargable (3 € en cualquier estación de metro) sirve para metro, tranvía, Bizkaibus, funicular y Puente Bizkaia, y baja el viaje de 1,90 € a menos de 1 €. Una tarjeta vale para varias personas; cómprala al llegar.
+- **Funicular de Artxanda:** 2,50 € el trayecto (menos con Barik), cada 15 minutos de 7:15 a 22:00 (hasta las 23:00 en verano), gratis para menores de 6. Sale de la Plaza del Funicular, a 5 minutos del Casco Viejo cruzando el puente de Zubizuri.
+- **Metro a la playa:** línea 1 hasta Plentzia (40 minutos desde Casco Viejo) y desde allí 15 minutos andando a la playa de Gorliz, llana y de poca profundidad. Con Barik, menos de 2 € por trayecto.
+- **Puente Bizkaia:** la barquilla cuesta 0,50 € por persona y cruza cada 8 minutos; la pasarela superior, con ascensor y vistas, 10 € (gratis menores de 5). Metro Areeta (Getxo) o Portugalete.
+- **Itsasmuseum:** 6 € adultos, gratis menores de 6, cierra los lunes. Los martes es gratis para todos.
+- **Días de lluvia:** el Azkuna Zentroa (gratis la entrada al edificio), el Museo de Bellas Artes (gratis para menores) y el propio Itsasmuseum. Y las galerías comerciales de Zubiarte, con cine, junto al Guggenheim.
+- **Carritos:** el Casco Viejo es peatonal y llano, pero las aceras del Ensanche son estrechas; el metro tiene ascensor en todas las estaciones.
 
 ## Alrededores con niños
 

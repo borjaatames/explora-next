@@ -4,13 +4,13 @@ descripcion: "Guía de la Serra de Tramuntana: Valldemossa, Deià, Sóller y su 
 categoria: "mallorca"
 slug: "serra-tramuntana-soller"
 fecha: "2026-03-18"
-fecha_actualizacion: "2026-03-18"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/serra-tramuntana-soller.jpg"
 imagen_alt: "Catedral de Palma de Mallorca, imagen icónica de la isla"
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "serra de tramuntana"
   - "tren de sóller"
@@ -58,6 +58,16 @@ El **tren de madera de 1912** une Palma con Sóller cruzando la Tramuntana entre
 - **Sa Foradada.** Desde Son Marroig, una caminata fácil lleva a la roca horadada; atardecer de postal (hay restaurante).
 - **Mirador de Ses Ànimes (Torre del Verger).** El balcón clásico sobre el Mediterráneo, espectacular al ponerse el sol.
 - **Banyalbufar.** Pueblo de bancales sobre el mar.
+
+## Lo práctico: carreteras, aparcar y precios
+
+- **La MA-10** es la carretera que recorre la sierra de Andratx a Pollença: 110 km que en coche llevan 3 horas sin paradas. Entre Valldemossa y Sóller tiene un solo carril por sentido y poco arcén; con un coche pequeño se va mucho mejor que con un SUV.
+- **Aparcar:** en Valldemossa, aparcamiento de pago a la entrada (unos 5 € el día); en Deià, apenas 40 plazas en la carretera y Cala Deià sin aparcamiento práctico en verano; en Sóller, el aparcamiento de la plaza de Mallorca; en Sa Calobra, 8-10 € y lleno a las 11:00 en temporada. Sa Foradada se aparca en Son Marroig (3 € la entrada al camino).
+- **Sin coche:** la línea de autobús TIB 203 une Palma con Valldemossa (30 minutos), Deià (50) y Sóller (1 h 15) por 2-5 €, cada hora. Es la forma más barata y evita conducir la MA-10. El tren de Sóller (30 € ida y vuelta) es la forma más bonita.
+- **Sa Calobra sin curvas:** barco desde Port de Sóller (unos 30 € ida y vuelta, 1 hora), con parada de dos horas para ver el Torrent de Pareis. Autobús TIB 354 desde Sóller y Port de Sóller en verano, muy limitado.
+- **Cartuja de Valldemossa:** 13 € (gratis menores de 10), con la celda de Chopin y concierto de piano incluido cada hora. Cierra los domingos por la tarde y en invierno antes.
+- **Gasolina y agua:** gasolineras solo en Sóller, Andratx y Pollença. Entre Deià y Sa Calobra, nada. En verano, 2 litros de agua por persona en el coche.
+- **El túnel de Sóller** (MA-11) es gratuito desde 2017 y acorta el viaje desde Palma a 30 minutos; el puerto de montaña, el Coll de Sóller, es la alternativa panorámica, con 50 curvas.
 
 ## Ruta de un día en coche
 

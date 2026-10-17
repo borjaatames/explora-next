@@ -4,13 +4,13 @@ descripcion: "Barcelona con niños sin agobios: CosmoCaixa, Tibidabo, Sagrada Fa
 categoria: "barcelona"
 slug: "barcelona-con-ninos"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
 imagen_alt: "Vista de Barcelona desde el Park Güell con el banco de mosaicos en primer plano"
-tiempo_lectura: 13
+tiempo_lectura: 10
 keywords:
   - "barcelona con niños"
   - "qué hacer en barcelona con niños"
@@ -125,6 +125,17 @@ Barcelona tiene **4 km de playas urbanas** accesibles con metro. La **Barcelonet
 | Barceloneta | Más bulliciosa, ambiente | Mañanas, evitar fin de semana en agosto |
 
 **Cuidado** con el tema sombrillas y hamacas: cuesta 18-25 € el conjunto en temporada alta. Si vais varios días, comprar una sombrilla básica en Decathlon sale más barato.
+
+## Precios y horarios con niños
+
+- **Sagrada Família:** 26 € adultos, gratis menores de 11; las torres no admiten menores de 6 y a los pequeños la subida se les hace larga. Entrad a las 9:00, cuando abre, y en 1 h 15 habéis terminado sin rabietas.
+- **CosmoCaixa:** 6 € adultos y gratis menores de 16; de 10:00 a 20:00, cierra los lunes salvo festivos. El planetario y el bosque inundado tienen pases con hora: coge los tickets de los pases nada más entrar.
+- **Tibidabo:** entrada al parque desde 35 € (más barata online y por tramos de altura: los menores de 90 cm gratis, 90-120 cm tarifa reducida); abre solo fines de semana y festivos fuera del verano, de 11:00 a 18:00-21:00. El funicular desde la plaza del Doctor Andreu (T2A) y el Tibibus desde Plaça de Catalunya (3 €) te suben.
+- **Acuario:** 25 € adultos, 18 € de 5 a 10 años, gratis menores de 5; de 10:00 a 20:00 (21:00 en verano). A las 11:00 se llena de colegios y grupos: id a las 10:00 o después de las 16:00.
+- **Park Güell con niños:** 18 € adultos, gratis menores de 7; la zona libre del parque (gratis) tiene columpios y espacio para correr, que es lo que ellos quieren.
+- **Zoo:** 21,40 € adultos, 12,95 € de 3 a 12 años; en el parque de la Ciutadella, donde además hay barcas de remo (6 € la media hora) y mucha sombra.
+- **Transporte:** menores de 4 gratis; con la T-casual de 10 viajes (12,15 €) van todos. El metro tiene ascensor en la mayoría de estaciones, pero no en todas las del centro histórico (Liceu, Jaume I): con carrito, mira el plano de accesibilidad.
+- **Playa:** la Barceloneta tiene socorristas, duchas y zonas infantiles; la de la Nova Icària, en el Port Olímpic, es más tranquila y con menos oleaje.
 
 ## Comer con niños en Barcelona
 

@@ -4,11 +4,11 @@ descripcion: 'Cómo subir al Teide: el teleférico hasta 3.555 m, el permiso gra
 categoria: tenerife
 slug: subir-al-teide
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
-tiempo_lectura: 9
+tiempo_lectura: 3
 keywords:
 - subir al teide
 - teleferico del teide
@@ -66,12 +66,15 @@ Aunque no subas, el parque merece el viaje: el **circuito de los Roques de Garc�
 
 Gracias a la altitud y a la **Ley del Cielo** que protege la isla de la contaminación lumínica, Tenerife es uno de los mejores lugares del mundo para observar las estrellas. Hay tours al atardecer con **telescopio** y guías Starlight, y visitas al **Observatorio del Teide**. Lleva ropa de invierno: de noche hace mucho frío.
 
-## Consejos prácticos
+## Lo práctico: precios, permisos y tiempos
 
-- **Aparcamiento:** escaso en el teleférico y los Roques. Llega antes de las 9:00 o ve en excursión.
-- **Mal de altura:** camina despacio y bebe agua. No apto para embarazadas ni personas con problemas cardíacos o respiratorios.
-- **Clima:** puede haber 15 grados menos que en la costa, y en invierno nieva.
-- **Sol:** a esa altitud quema mucho más; protector y gafas de sol.
+- **Teleférico:** unos 42 € ida y vuelta por adulto (21 € niños), con reserva online obligatoria por franja horaria; en taquilla casi nunca hay plazas. Funciona de 9:00 a 17:00, última subida a las 16:00, y las franjas de la mañana se agotan con una o dos semanas en temporada.
+- **Permiso para la cima:** gratuito, en la web de Reservas de Parques Nacionales, con solo 200 plazas al día. Se abre con tres meses de antelación y en verano y Semana Santa vuela el mismo día; si no lo consigues, La Rambleta y sus dos miradores ya están a 3.555 m.
+- **Distancias:** 1 hora desde Puerto de la Cruz por La Orotava (TF-21) y 1 h 45 desde Costa Adeje por Vilaflor (TF-51). Dentro del parque no hay gasolineras: reposta antes.
+- **Aparcamiento:** escaso en el teleférico y en los Roques de García. Llega antes de las 9:00 o después de las 16:00, o ve en excursión organizada.
+- **Dónde comer:** solo la cafetería de la base del teleférico y el Parador, junto a los Roques de García. Lleva comida y agua si vas a caminar.
+- **Altura:** a 3.500 m hay un 35 % menos de oxígeno. Dolor de cabeza y mareo son normales al bajar del teleférico; camina despacio y no corras. No se recomienda subir con niños menores de 3 años, embarazadas ni personas con problemas cardíacos o respiratorios.
+- **Qué llevar:** chaqueta de abrigo todo el año, calzado cerrado, gafas de sol, crema factor 50 y agua. En invierno, gorro y guantes.
 
 ## En una frase
 

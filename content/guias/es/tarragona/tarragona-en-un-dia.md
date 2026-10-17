@@ -4,13 +4,13 @@ descripcion: "Qué ver en Tarragona en un día: anfiteatro, circo, catedral, mur
 categoria: "tarragona"
 slug: "tarragona-en-un-dia"
 fecha: "2026-04-10"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
 imagen_alt: "Anfiteatro romano de Tarragona con el Mediterráneo al fondo"
-tiempo_lectura: 11
+tiempo_lectura: 7
 keywords:
   - "qué ver en tarragona"
   - "tarragona en un día"
@@ -80,6 +80,16 @@ La gracia de Tarragona es que el anfiteatro está a pie de playa, el circo bajo 
 **14:00 — Comida.** Hora del marisco (ver abajo).
 
 **16:30 — Acueducto o playa.** Si tienes coche, no te pierdas el **acueducto de les Ferreres (Pont del Diable)** a las afueras, en un parque. Si prefieres mar, baja a la **Platja del Miracle**, a pie del anfiteatro.
+
+## Precios y horarios de lo imprescindible
+
+- **Entrada conjunta a los monumentos romanos:** 15 € (anfiteatro, circo y Pretori, murallas, Casa Canals y otros recintos municipales), sin caducidad en el viaje; 5 € cada uno por separado. Gratis menores de 12 y el último martes de mes. De martes a sábado de 9:00 a 20:45 en verano (19:00 en invierno), domingos hasta las 14:30. **Los lunes cierran todos**: si vienes en lunes, quedan la catedral, el Balcó, las murallas por fuera y el acueducto.
+- **Catedral:** 13 € con audioguía, claustro y museo diocesano incluidos; cierra los domingos por la mañana. La subida al campanario, por turnos y 5 € más, es una de las mejores vistas de la ciudad.
+- **Acueducto de les Ferreres:** gratis, siempre abierto. Autobús 5 o 85 desde la Rambla (15 minutos) o coche con aparcamiento gratuito. Se cruza por encima, sin barandillas: cuidado con niños y viento.
+- **MNAT:** el museo arqueológico está en sede provisional (el Tinglado 4 del puerto) por obras; entrada 4-5 €, gratis el primer domingo de mes. Los mosaicos de la Medusa y los peces están allí.
+- **Llegar:** desde Barcelona, Regional en 1 h 15 (8-9 €) hasta la estación de Tarragona, a 10 minutos andando del anfiteatro; el AVE llega a Camp de Tarragona, a 10 km, con autobús al centro. Desde Salou o PortAventura, Cercanías o autobús en 15-20 minutos.
+- **El Serrallo:** el barrio de pescadores, para comer el romesco con pescado de lonja; los restaurantes abren de 13:00 a 16:00 y los domingos hay que reservar.
+- **Playas:** El Miracle, bajo el anfiteatro, a 5 minutos del centro; la Arrabassada y la Savinosa, a 2-3 km, mejores y con autobús 9.
 
 ## Con niños: PortAventura
 

@@ -4,13 +4,13 @@ descripcion: "Las mejores escapadas desde Alicante: Benidorm, Altea, Calpe y el 
 categoria: "alicante"
 slug: "escapadas-costa-blanca-desde-alicante"
 fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-costa-blanca-desde-alicante.jpg"
 imagen_alt: "Playas y costa de la Costa Blanca cerca de Alicante"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "escapadas desde alicante"
   - "costa blanca"
@@ -61,6 +61,15 @@ A una hora en coche, **Guadalest** es un pueblo de montaña con un castillo enca
 ## Elche y Jávea
 
 A 20 minutos, **Elche** guarda el **Palmeral** Patrimonio de la Humanidad y el Misteri. A una hora, **Jávea (Xàbia)** ofrece calas, el Cap de Sant Antoni y un casco marinero con encanto.
+
+## Lo práctico: TRAM, precios y tiempos
+
+- **El TRAM:** la línea 1 (Alicante-Benidorm) sale de la estación de Luceros cada 30 minutos y tarda 1 h 10 hasta Benidorm; para Altea y Calpe hay que cambiar en Benidorm a la línea 9 (un tren más lento y panorámico, cada hora). Billete sencillo Alicante-Benidorm, unos 4 €; hasta Calpe, 6-7 €. Los fines de semana de verano va lleno: ve con margen.
+- **Guadalest:** 1 hora en coche por la CV-70 desde Benidorm, con curvas. Aparcamientos de pago a la entrada del pueblo (3-5 €). El castillo y los museos abren de 10:00 a 18:00-20:00 según temporada; el pueblo en sí es pequeño, 2 horas sobran, así que combínalo con las **Fuentes del Algar** (a 15 minutos, 5-6 € la entrada, baño en pozas de agua fría).
+- **Peñón de Ifach:** subida de 1 h 30 por sendero con tramo final de roca; acceso con **reserva previa gratuita** en la web del parque natural, aforo limitado y cierre con lluvia. Lleva 1,5 litros de agua.
+- **Elche:** 20 minutos en Cercanías (línea C-1, cada 30 minutos). El Huerto del Cura cuesta 6 € y el Palmeral se pasea gratis; el Misteri se representa solo el 14 y 15 de agosto.
+- **Benidorm con niños:** Terra Mítica (desde 35 €), Aqualandia (desde 30 €) y Mundomar; comprados online con días de antelación, 10-20 % más baratos. Hay autobuses lanzadera desde el centro de Benidorm.
+- **Jávea:** sin transporte público práctico desde Alicante; coche, 1 hora por la AP-7. En agosto las calas (Granadella, Portitxol) cierran el acceso en coche cuando se llena el aparcamiento, a media mañana.
 
 ## Cómo moverte
 

@@ -4,13 +4,13 @@ descripcion: "Las mejores escapadas de un día desde Bilbao: Gaztelugatxe, San S
 categoria: "bilbao"
 slug: "escapadas-desde-bilbao"
 fecha: "2026-04-26"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
 imagen_alt: "Puente de la Salve y Torre Iberdrola junto al Guggenheim de Bilbao"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "escapadas desde bilbao"
   - "gaztelugatxe"
@@ -61,6 +61,15 @@ A 45 minutos, la **reserva de la biosfera de Urdaibai**: marismas, playas y pueb
 ## La Rioja Alavesa
 
 A una hora, los viñedos de la **Rioja Alavesa**: pueblos medievales amurallados como **Laguardia** y bodegas espectaculares (incluida la del hotel de Frank Gehry en Elciego). Enoturismo de primer nivel; reserva la visita.
+
+## Lo práctico: reservas, precios y tiempos
+
+- **Gaztelugatxe:** entrada gratuita pero con **reserva obligatoria** en la web de turismo de Bizkaia, por franja horaria, todo el año. En verano las plazas se agotan con una semana. Desde el aparcamiento de Eneperi hasta la ermita son 2,5 km y 40 minutos; los 241 escalones son solo el final. Cuenta 2 horas en total. Cierra con temporal.
+- **San Sebastián sin coche:** autobús de Bizkaibus/PESA desde Termibus cada 30 minutos, 1 h 15, 7-12 € según la hora. Dentro, todo se hace andando; el funicular de Igueldo cuesta 4,50 € y el Peine del Viento es gratis.
+- **Urdaibai:** el tren de Euskotren desde Atxuri llega a Gernika (45 minutos), Mundaka y Bermeo (1 hora), con frecuencia cada media hora y billetes de 3-4 €. Es la mejor escapada sin coche. La Casa de Juntas de Gernika es gratuita; el mercado es los lunes.
+- **Rioja Alavesa:** sin coche no hay forma práctica; 1 hora por la A-68. Las bodegas (Marqués de Riscal, Ysios, Baigorri) se visitan solo con reserva, en horarios fijos, por 20-40 € con cata. Si vais a beber, excursión organizada o conductor.
+- **Playas de Urdaibai:** Laida y Laga son las mejores; en verano el aparcamiento de Laga se llena a las 11:00. Mundaka no tiene playa como tal, es un pueblo de surf.
+- **Tiempo:** la costa tiene 3-5 grados menos que Bilbao y niebla matinal frecuente. Para Gaztelugatxe, mira la previsión de viento: con rachas fuertes cierran el acceso.
 
 ## Cómo moverte
 

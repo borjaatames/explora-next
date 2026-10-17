@@ -4,13 +4,13 @@ descripcion: "Guía de Mallorca: Catedral de Palma, Serra de Tramuntana, Valldem
 categoria: "mallorca"
 slug: "que-ver-en-mallorca"
 fecha: "2026-03-07"
-fecha_actualizacion: "2026-03-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
 imagen_alt: "Catedral de Santa María de Palma de Mallorca (La Seu) al atardecer"
-tiempo_lectura: 13
+tiempo_lectura: 6
 keywords:
   - "qué ver en mallorca"
   - "mallorca en una semana"
@@ -71,6 +71,16 @@ El este reúne las **cuevas** y las **calas** de postal. Las **Cuevas del Drach*
 ## El norte: Alcúdia y Formentor
 
 Al norte, la **ciudad amurallada de Alcúdia** (con la romana Pollentia al lado), las largas playas familiares de **Muro y Alcúdia**, el pueblo de **Pollença** con sus 365 escalones del Calvari, y el espectacular **Cap de Formentor**, el faro al final de la sierra (en verano el acceso en coche se restringe; hay bus lanzadera).
+
+## Precios y horarios de lo imprescindible
+
+- **Catedral de Palma (La Seu):** 10 € (gratis menores de 10), de lunes a sábado de 10:00 a 17:15 (18:15 en verano); cierra los domingos a los turistas. Las **terrazas** de la catedral se visitan con guía por 20 € más, solo con reserva. El 2 de febrero y el 11 de noviembre, el amanecer proyecta el rosetón sobre el muro de enfrente («el ocho»); abren a las 8:00 y se llena.
+- **Palacio de la Almudaina:** 7 € (gratis para la UE los miércoles y jueves por la tarde), cierra los lunes. **Castillo de Bellver:** 4 €, gratis los domingos, cierra los lunes; autobús 4 o 20 minutos de subida a pie entre pinos.
+- **Tren de Sóller:** 30 € ida y vuelta, salidas a las 10:10, 10:50, 12:15, 13:30 y 15:10; el tranvía al puerto se paga aparte (9 € el trayecto).
+- **Cuevas del Drach:** 18 € (11 € de 2 a 12 años), sesiones con concierto a las 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 y 17:00 de abril a octubre; cuatro pases en invierno. Reserva online, se agotan.
+- **Formentor:** en verano la carretera del faro se cierra a los coches de 10:00 a 22:30; autobús lanzadera desde Port de Pollença o barco.
+- **Autobuses TIB:** desde la estación intermodal de Palma a toda la isla, 2-10 € por trayecto; con tarjeta sin contacto se paga directamente. Los trenes de Palma a Inca, Manacor y Sa Pobla cuestan 3-5 €.
+- **Coche:** 30-60 € el día según temporada, reservado con semanas en verano y con silla infantil pedida de antemano. El túnel de Sóller es gratuito.
 
 ## Dónde dormir
 

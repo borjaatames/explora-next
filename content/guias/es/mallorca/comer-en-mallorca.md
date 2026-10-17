@@ -4,13 +4,13 @@ descripcion: "Guía para comer en Mallorca: ensaïmada, sobrasada, pa amb oli, t
 categoria: "mallorca"
 slug: "comer-en-mallorca"
 fecha: "2026-04-20"
-fecha_actualizacion: "2026-04-20"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"
 imagen_alt: "Paseo junto a la Catedral de Palma de Mallorca"
-tiempo_lectura: 10
+tiempo_lectura: 3
 keywords:
   - "comer en mallorca"
   - "ensaïmada"
@@ -55,6 +55,15 @@ Vinos de las DO **Binissalem** (con la uva Manto Negro) y **Pla i Llevant**, cad
 ## Dulces y temporada
 
 Además de la ensaïmada, el **gató** (bizcocho de almendra que se sirve con helado), y en Semana Santa los **robiols** y **crespells**. La almendra es protagonista (la isla se llena de flor en enero-febrero).
+
+## Lo práctico: horarios, precios y dónde comprar
+
+- **Horarios:** se come de 13:30 a 15:30 y se cena a partir de las 20:30; fuera de eso, en los pueblos solo encontrarás cocina en los bares. Los cellers cierran uno o dos días entre semana y en agosto algunos cierran por vacaciones: llama antes.
+- **Precios orientativos:** menú del día en un celler, 15-20 €; pa amb oli con jamón, 9-12 €; ración de frit, 10-14 €; ensaïmada individual, 2,50-3,50 €; la grande para llevar, 12-20 € según el relleno.
+- **Días de mercado:** Sineu los miércoles (el más auténtico, con animales), Inca los jueves, Santa Maria los domingos, Alcúdia martes y domingos, Pollença los domingos. Por la mañana; a las 14:00 recogen.
+- **Mercados de Palma:** el Mercat de l'Olivar abre de lunes a sábado de 7:00 a 14:30 y es donde compran los palmesanos; el de Santa Catalina es más pequeño y con más bares para tapear. Los domingos cierran los dos.
+- **Llevarte la ensaïmada:** la caja octogonal viaja como equipaje de mano sin problema. Cómprala el último día en un horno con solera (Ca'n Joan de s'Aigo o Fornet de la Soca, en Palma) y pide la lisa si vas a tardar más de dos días en comerla.
+- **Reservar:** en julio y agosto, siempre, incluso para comer. Los sitios buenos de la costa se llenan con días de antelación.
 
 ## Lo que NO recomendamos
 

@@ -4,11 +4,11 @@ descripcion: "Guía para visitar Formentera desde Ibiza: ferris y horarios, cóm
 categoria: "ibiza"
 slug: "formentera-desde-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "formentera desde ibiza"
   - "cómo ir a formentera"
@@ -57,6 +57,15 @@ Formentera mide unos 19 km y el transporte público es limitado, así que lo mej
 - **Far de la Mola.** El faro del extremo este, que inspiró a Julio Verne, con acantilados espectaculares.
 - **Far de Cap de Barbaria.** El faro del sur, al final de una carretera solitaria; uno de los mejores atardeceres de las Pitiusas.
 - **Sant Francesc.** La pequeña capital, con su iglesia-fortaleza y mercadillos.
+
+## Lo práctico: ferris, vehículos y dinero
+
+- **Precios del ferry:** entre 30 y 55 € ida y vuelta según naviera (Baleària, Trasmapi, Aquabus) y velocidad; los rápidos tardan 30 minutos, los lentos 1 hora y cuestan menos. En verano hay salidas cada 30 minutos desde las 7:00 y las últimas vueltas a Ibiza entre las 21:00 y las 23:00. Comprueba la última antes de alquilar nada.
+- **Alquiler en La Savina:** bici, 10-15 € el día; bici eléctrica, 25-30 €; moto, 35-50 €; coche, 50-80 €. En julio y agosto la isla limita el número de vehículos que entran: si vienes con coche propio desde Ibiza, necesitas autorización previa.
+- **Ses Illetes en verano:** acceso con tasa para vehículos (unos 6 € coche, 4 € moto) y aparcamiento que se llena a las 11:00. En bici o andando desde La Savina son 30-40 minutos, sin tasa.
+- **Comer:** los chiringuitos de Ses Illetes y Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) son míticos y caros: 60-100 € por persona con vino. Para un menú normal, Sant Francesc o Es Pujols.
+- **Efectivo y agua:** hay pocos cajeros fuera de La Savina y Sant Francesc, y en las playas del parque natural no hay agua potable. Lleva 2 litros por persona.
+- **Sol y viento:** Formentera es llana y sin sombra. Con viento de norte, Migjorn está en calma; con sur, mejor Illetes y Llevant.
 
 ## Plan de un día
 

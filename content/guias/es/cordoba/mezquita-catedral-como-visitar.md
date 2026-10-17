@@ -4,11 +4,11 @@ descripcion: "Guía para visitar la Mezquita-Catedral de Córdoba: entradas y ho
 categoria: "cordoba"
 slug: "mezquita-catedral-como-visitar"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 3
 keywords:
   - "mezquita de córdoba"
   - "mezquita catedral entradas"
@@ -43,14 +43,12 @@ La regla de oro: **ve a primera hora**. Es cuando hay menos gente, mejor luz ent
 
 ## Entradas y horario
 
-| Dato | Detalle |
-| --- | --- |
-| Entrada general | De pago; cómprala online para evitar cola |
-| Franja gratuita | Lunes a sábado, primera hora de la mañana (sin grupos) |
-| Torre campanario | Entrada aparte, por turnos |
-| Patio de los Naranjos | Acceso gratuito |
-
-> **⭐ Tip:** existe una **franja de acceso gratuito** de lunes a sábado a primera hora (suele ser sobre las 8:30-9:30; confirma el horario actual en la web oficial). No se permiten grupos y hay que entrar pronto, pero es la mejor forma de verla casi vacía.
+- **Entrada general:** 15 €; reducida 12 € (mayores de 65 y estudiantes hasta 26) y 8 € para niños de 10 a 14; **menores de 10, gratis**. Incluye la Mezquita-Catedral y el Patio de los Naranjos; la audioguía va aparte.
+- **Franja gratuita:** de lunes a sábado, de **8:30 a 9:30**, solo visitantes individuales, sin grupos ni guías. Se accede por orden de llegada y a las 9:20 empiezan a desalojar. Es la mejor hora del día, gratis o no: luz baja entre las columnas y silencio.
+- **Horario de pago:** de lunes a sábado de 10:00 a 19:00 (hasta las 18:00 de noviembre a febrero); los domingos y festivos religiosos, de 8:30 a 11:30 y de 15:00 a 19:00, porque entre medias hay culto.
+- **Torre campanario:** 3 €, con turnos de 30 minutos cada media hora y aforo de 20 personas. Son 54 metros de escalera; la vista del patio y de la Judería compensa.
+- **Visita nocturna «El alma de Córdoba»:** 20 €, con un espectáculo de luz y sonido en el interior. Distinta y sin multitudes, pero no sustituye a la visita de día.
+- **Vestimenta:** es un templo católico en uso. Hombros cubiertos y nada de pantalón muy corto; en verano, un pañuelo en la mochila.
 
 ## Cuándo ir
 

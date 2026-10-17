@@ -4,13 +4,13 @@ descripcion: "Guía de los últimos 100 km del Camino de Santiago: dónde empeza
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-ultimos-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
 imagen_alt: "Tejados de Santiago de Compostela con las torres de la catedral al fondo"
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "camino de santiago últimos 100 km"
   - "camino desde sarria"
@@ -61,6 +61,16 @@ Cinco etapas cómodas (puedes dividir la tercera). El **Monte do Gozo**, a 5 km 
 
 - **Credencial del peregrino:** el "pasaporte" donde se estampan los sellos. En los últimos 100 km necesitas **dos sellos al día** (bares, albergues, iglesias).
 - **La Compostela:** el certificado se recoge en la **Oficina del Peregrino** (Rúa das Carretas), en Santiago, presentando la credencial sellada.
+
+## Lo práctico: presupuesto, credencial y cómo llegar a Sarria
+
+- **Presupuesto diario:** albergue público, 10 € (sin reserva, se abren a las 13:00 y se llenan por orden de llegada); albergue privado, 15-22 €; pensión u hostal, 40-70 € la doble. Menú del peregrino, 12-15 €; desayuno, 3-5 €. Entre 35 y 45 € al día en albergue y 60-80 € con habitación propia.
+- **La credencial** cuesta 2-3 € y se compra en la Oficina del Peregrino de Santiago, en parroquias y albergues del Camino, o en las asociaciones de amigos del Camino antes de salir. En Sarria la venden en el monasterio de la Magdalena y en varios albergues. Sin ella no puedes dormir en los públicos.
+- **La Compostela es gratuita;** el certificado de distancia, con los kilómetros, cuesta 3 €. La Oficina del Peregrino (Rúa das Carretas, 33) abre de 8:00 a 20:00 en temporada y funciona con número por QR: pídelo al llegar y vuelve a tu hora.
+- **Llegar a Sarria:** en tren desde Madrid (5-6 horas, con enlace en Ourense o directo según el día) o desde Santiago y A Coruña con cambio en Monforte; en autobús desde Lugo (45 minutos). Muchos peregrinos vuelan a Santiago, dejan la maleta en consigna y van a Sarria en tren o taxi compartido (unos 90 € el taxi).
+- **Transporte de mochila:** 6-8 € por etapa; se deja en la recepción del albergue antes de las 8:00 y la recogen en el siguiente. Hace falta reservar el alojamiento de destino.
+- **Ritmo y horas:** se camina de 7:00 a 13:00 para evitar el calor y llegar antes de que se llenen los albergues. A 4 km/h, una etapa de 22 km son 5 h 30 con paradas.
+- **Botiquín mínimo:** vaselina para los pies antes de salir, calcetines sin costuras, compeed, ibuprofeno y protector solar. Hay farmacias en todos los finales de etapa.
 
 ## Cuándo ir
 

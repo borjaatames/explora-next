@@ -4,11 +4,11 @@ descripcion: "Guía para visitar la Ciudad de las Artes y las Ciencias de Valenc
 categoria: "valencia"
 slug: "ciudad-artes-ciencias-como-visitar"
 fecha: "2026-03-04"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "ciudad de las artes y las ciencias"
   - "oceanogràfic entradas"
@@ -65,9 +65,14 @@ La regla de oro: **no hace falta entrar a todo**. El conjunto arquitectónico, c
 
 > **⭐ Tip:** las **entradas combinadas** (2 o 3 atracciones) salen bastante más baratas que sueltas y se agotan en temporada alta. Cómpralas online, elige la **primera hora** para el Oceanogràfic y deja el museo o el Hemisfèric para después de comer.
 
-## Cómo llegar
+## Precios, horarios y cómo llegar
 
-Está a 25-30 minutos andando del centro por el **Jardín del Turia** (un paseo precioso) o en **bici** (lo más cómodo, por el carril del antiguo cauce). En autobús, varias líneas paran al lado. Si vas con niños, la bici con sillita es ideal. Olvida el coche: el parking es caro.
+- **Oceanogràfic:** unos 40 € por adulto online y 30 € para niños de 4 a 12 (gratis menores de 4); en taquilla, algo más. **Museu de les Ciències** y **Hemisfèric**, 9 € cada uno. La combinada de los tres ronda los 50 € y la de Oceanogràfic más Hemisfèric, 45 €: si vas a entrar a dos, la combinada siempre compensa.
+- **Horarios:** el Oceanogràfic abre a las 10:00 y cierra a las 18:00 en invierno y a las 20:00 en verano (hasta medianoche en julio y agosto algunos días); el Museu, de 10:00 a 19:00-21:00. Los lunes abren todos. Las exhibiciones de delfines son a horas fijas, tres o cuatro al día: mira el panel al entrar y organiza la visita alrededor.
+- **Cómo llegar:** autobuses 95 (desde la Plaza del Ayuntamiento), 35 y 15, por 1,50 €; la parada de metro más cercana, Alameda (L3 y L5), queda a 20 minutos andando. En Valenbisi, las bicis públicas, 15 minutos por el Turia desde el centro, con estación en la puerta. El aparcamiento subterráneo del Umbracle cuesta 7-8 € el día.
+- **Comer:** dentro del Oceanogràfic hay un restaurante submarino (caro) y autoservicio; se puede entrar con comida y hay zonas de pícnic. Fuera, los bares del Umbracle y, a 10 minutos, los de la calle Menorca.
+- **Con niños pequeños:** carritos sin problema en todo el recinto y préstamo gratuito en el Oceanogràfic. El Hemisfèric no deja entrar a menores de 3 años en la mayoría de sesiones.
+- **Calor:** entre los edificios no hay sombra y el blanco deslumbra. Gafas de sol y gorra, y el Museu o el Hemisfèric a las horas centrales de julio y agosto.
 
 ## Lo que NO recomendamos
 

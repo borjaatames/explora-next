@@ -4,11 +4,11 @@ descripcion: "Guía para comer en Valencia: qué es la paella valenciana autént
 categoria: "valencia"
 slug: "comer-en-valencia-paella"
 fecha: "2026-03-16"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "comer en valencia"
   - "paella valenciana auténtica"
@@ -57,6 +57,16 @@ La **paella valenciana** original lleva **pollo, conejo, garrofó (una alubia pl
 - **Agua de Valencia.** El aperitivo: cava, zumo de naranja, vodka y ginebra. Sube rápido; tómala con cabeza.
 - **All i pebre.** Guiso de anguila típico de la Albufera.
 - **Esgarraet, titaina, clóchinas** (los mejillones valencianos, en temporada).
+
+## Lo práctico: horarios, precios y cómo pedir
+
+- **La paella es de mediodía.** Las arrocerías serias la sirven de 13:30 a 16:00 y muchas no la hacen de noche; en El Palmar, la mayoría cierra a las 17:00. Si una terraza te ofrece paella a las 21:00, probablemente es recalentada.
+- **Se pide por encargo y mínimo para dos:** tarda 30-45 minutos desde que la pides, porque se hace al momento. En los sitios buenos te preguntan al reservar si vais a querer arroz; di que sí y ahorras la espera.
+- **Precios orientativos:** paella valenciana, 15-22 € por persona; arroz a banda o del senyoret, 16-20 €; en El Palmar, menús completos con entrantes, arroz y postre por 25-35 €. Si baja de 12 € por persona, desconfía.
+- **Cómo llegar a El Palmar:** autobús 24 o 25 de la EMT desde el centro (1,50 €, 45 minutos, cada 30-60 minutos), o 25 minutos en coche con aparcamiento gratuito en el pueblo. Después de comer, el paseo en barca por la Albufera (6-8 € por persona) y el atardecer desde el embarcadero.
+- **Mercado Central:** de lunes a sábado de 7:30 a 15:00, cierra los domingos. La horchatería de dentro y los puestos de clóchinas (de mayo a agosto) son la mejor parada rápida.
+- **Horchata de verdad:** en Alboraya, a 15 minutos en metro (línea 3, parada Alboraya-Palmaret), están las horchaterías históricas (Daniel, Vida), con la chufa a la vista. Un vaso con fartons, 4-5 €.
+- **Propina:** no se espera; redondear o dejar 1-2 € en una mesa de arroz es más que suficiente.
 
 ## Reglas para no fallar
 

@@ -19,6 +19,7 @@ slugs:
   es: flamenco-cueva-sacromonte-cual-elegir
   en: flamenco-cave-sacromonte-which-to-choose
   de: flamenco-hoehle-sacromonte-welche-waehlen
+tiempo_lectura: 4
 ---
 
 Si has buscado "flamenco Sacromonte Granada" habrás visto que hay cuatro cuevas distintas ofreciendo, en apariencia, lo mismo: zambra gitana, una hora de cante y baile, dentro de una cueva excavada en la ladera del Sacromonte. Los precios se parecen (entre 18€ y 28€), las fotos se parecen y las descripciones de los buscadores de viajes también. La diferencia real está en el detalle, y esta guía existe para ahorrarte tener que abrir las cuatro fichas y comparar tú mismo.
@@ -40,6 +41,17 @@ Si has buscado "flamenco Sacromonte Granada" habrás visto que hay cuatro cuevas
 - **¿Te da igual el precio y quieres sentir que ves algo gestionado por la propia familia de artistas?** El Zincalé encaja mejor con esa idea, y de paso está a 5 minutos andando de Los Amayas si quieres comparar el barrio.
 
 Ninguna de las cuatro es "mejor" en términos absolutos — la diferencia está en el tamaño de la sala, si quieres bebida incluida o no, y cuánto peso le das a la reputación (reseñas) frente a la exclusividad (aforo reducido).
+
+## Lo que debes saber antes de reservar
+
+- **La zambra no es un tablao:** es el flamenco gitano de las cuevas del Sacromonte, con menos escenario y más baile de grupo, palmas y jaleo. Dura **una hora** y el público está a uno o dos metros de los artistas, en bancos a lo largo de la cueva. Si buscas sillones, aire acondicionado y micrófonos, esto no es.
+- **Horarios:** cada cueva hace dos pases, el primero sobre las 20:00-21:00 y el segundo a partir de las 22:00. En verano el segundo es más fresco y con más ambiente.
+- **Llega 20 minutos antes:** los sitios son por orden de llegada y la cueva es estrecha; los últimos se quedan al fondo, con la columna delante.
+- **Qué llevar:** calzado cómodo (el Camino del Sacromonte es cuesta y adoquín), una chaqueta en invierno (en la cueva hace fresco) y efectivo para la bebida si no va incluida.
+- **Subir andando o en taxi:** desde Plaza Nueva son 20-25 minutos cuesta arriba por el Paseo de los Tristes, preciosos al atardecer; de vuelta, de noche, mejor taxi (8-10 €) o el microbús C34, que pasa cada 20 minutos hasta las 23:00.
+- **Con cena:** algunas cuevas ofrecen cena antes del show. Es sencilla; si quieres comer bien, tapea antes por el Albaicín bajo o el Paseo de los Tristes.
+- **Niños:** entran, pero la cueva es pequeña, oscura y ruidosa; a partir de los 8 años disfrutan, por debajo molestan y se asustan con el zapateado.
+- **Fotos:** sin flash y solo si la cueva lo permite; pregunta al entrar. En varias está prohibido grabar.
 
 ## Logística: cómo llegar y cuándo reservar
 

@@ -4,13 +4,13 @@ descripcion: "Guía de PortAventura World: los tres parques (PortAventura, Ferra
 categoria: "tarragona"
 slug: "portaventura-world-guia"
 fecha: "2026-05-01"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/portaventura-world-guia.jpg"
 imagen_alt: "Anfiteatro romano de Tarragona, patrimonio de la ciudad"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "portaventura world"
   - "portaventura entradas"
@@ -52,6 +52,16 @@ La regla de oro: **un día por parque**. Intentar verlo todo en una jornada es l
 > **⭐ Tip:** compra las entradas **online** (más baratas que en taquilla) y valora el **Express Pass** para saltarte colas en las atracciones más demandadas en días punta. Si te alojas en los **hoteles del resort**, sueles tener acceso anticipado al parque.
 
 Hay entradas de 1, 2 o 3 días y combinadas (PortAventura + Ferrari Land). Para dos parques, mejor dos días.
+
+## Lo práctico: precios, horarios y alturas
+
+- **Precios orientativos (online):** un día en PortAventura Park, 55-65 € por adulto según la fecha; un día con los dos parques (PortAventura y Ferrari Land), 70-80 €; niños de 4 a 10 años y mayores de 60, unos 10 € menos; menores de 4, gratis. En taquilla se paga 5-10 € más. El Caribe Aquatic Park va aparte.
+- **Horarios:** abre a las 10:00 y cierra entre las 19:00 y las 20:00 en temporada media; en julio y agosto hasta medianoche, con espectáculo nocturno. Las dos primeras horas son las de menos cola: entra a las 10:00 en punto y ve directo a las grandes (Shambhala, Dragon Khan, Furius Baco).
+- **Express Pass:** desde unos 30 € el básico (una pasada por atracción) hasta más de 70 € el ilimitado. En fin de semana de puente y en agosto compensa; entre semana en mayo o junio, no.
+- **Alturas mínimas:** 1,40 m para Shambhala, Dragon Khan, Furius Baco y Red Force; 1,20-1,30 m para las intermedias; SésamoAventura, sin mínimo o 0,90 m. Mídelos antes de prometer nada.
+- **Comida:** se puede entrar con comida y bebida (sin cristal). Dentro, un menú cuesta 15-20 € y hay colas de 13:30 a 15:00; come a las 12:30 o después de las 15:30.
+- **Taquillas y mochilas:** hay consignas de pago junto a la entrada (6-10 €). En las montañas rusas no dejan subir con bolsos ni móviles sueltos.
+- **Hoteles del resort:** incluyen la entrada al parque los días de estancia y acceso anticipado a Shambhala. Si vais a estar dos días, compara el precio con hotel fuera más entradas.
 
 ## Con niños
 

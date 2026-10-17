@@ -4,13 +4,13 @@ descripcion: 'Qué hacer en Sevilla con niños de varias edades sin caer en lo o
 categoria: sevilla
 slug: sevilla-con-ninos
 fecha: '2026-05-01'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
 imagen_portada: /images/guias/sevilla-con-ninos.jpg
 imagen_alt: Plaza tradicional del barrio de Triana en Sevilla
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
 - sevilla con niños
 - qué hacer en sevilla con niños
@@ -65,6 +65,22 @@ faq:
 
 Lo ideal es de **marzo a mayo** y de **mediados de septiembre a noviembre**. En julio y agosto el calor pasa de 40 °C: solo mañanas y tardes, y piscina a mediodía. En invierno Isla Mágica está cerrada.
 
+## Lo que puedes saltarte con niños
+
+- **La Catedral entera con menores de 10.** La Giralda sí; la nave, con sus capillas barrocas y la tumba de Colón en alto, no les dice nada. Repartíos: uno dentro 30 minutos y otro en el Patio de los Naranjos, que tiene sombra.
+- **El Archivo de Indias, los Venerables y la Casa de Pilatos.** Preciosos para adultos; para niños, cero.
+- **El coche de caballos:** 45-60 € por media hora, se aburren a los 10 minutos y en verano el bienestar de los animales es discutible. Mejor un paseo por María Luisa, gratis.
+- **Los tablaos turísticos a 40 €** por persona. Si quieres flamenco con niños de más de 10 años, Casa de la Memoria (calle Cuna, 6) es sobrio, corto y de calidad.
+
+## Dónde comer sin caer en trampas
+
+La regla: donde haya sevillanos al lado, no solo turistas. Si la carta tiene foto y la sangría va en jarra grande, sal; el sevillano bebe tinto de verano o cerveza.
+
+- **Tapas antes de las 14:00:** Bodeguita Romero (calle Harinas, Arenal) y Casa Morales (García de Vinuesa, de 1850), ambas con tapas a 3-5 €. En Triana, Las Golondrinas (Antillano Campos): pequeño, ruidoso, para niños que aguanten de pie.
+- **Con mesa y menú infantil:** Casa Cuesta (calle Castilla, junto al puente de Triana), con reserva.
+- **Helado:** La Fiorentina (calle Zaragoza, junto a Plaza Nueva). Evita las heladerías de bolas de colores de la Avenida de la Constitución.
+- **Ni un café** en la Avenida de la Constitución, frente a la Catedral: precios al doble y paella congelada. Cinco minutos hacia el Arenal y todo cambia.
+
 ## Un día con niños
 
 | Hora | Plan |
@@ -78,9 +94,13 @@ Lo ideal es de **marzo a mayo** y de **mediados de septiembre a noviembre**. En 
 
 ## Errores a evitar
 
-1. **Hacer cola en la Catedral o el Alcázar:** compra online.
-2. **Pasar la mañana entera en Santa Cruz con peques:** calles estrechas y sin sombra; alterna con parques.
-3. **Salir a mediodía en verano.**
-4. **Dormir en la Cartuja:** queda aislada. Mejor Arenal, Santa Cruz o Triana.
+1. **Catedral, Alcázar y Plaza de España el mismo día.** Son 4-5 horas de monumentos para un adulto; para un niño, la receta del desastre. Reparte en dos días o quita uno.
+2. **Hacer cola en la Catedral o el Alcázar:** compra online y reserva siempre la franja de 9:30 a 12:00. Después de comer hay más gente, más calor y los niños están rendidos.
+3. **Moverse en coche por el centro.** Es peatonal o casi, las zonas de acceso restringido tienen cámaras y la multa son 200 €. Aparca en Paseo de Colón o Avenida de Roma y anda.
+4. **Pasar la mañana entera en Santa Cruz con peques:** calles estrechas y sin sombra. Ve a las 9:00 o a las 20:00, y alterna con parques.
+5. **Subestimar el calor.** De junio a septiembre, 1,5 litros de agua por persona, gorra y crema, y sombra cada hora. A mediodía, piscina o Acuario.
+6. **No mirar el calendario de Isla Mágica:** cierra de noviembre a marzo. Mucha gente se entera al llegar.
+7. **Dormir en la Cartuja:** queda aislada. Mejor Arenal, Santa Cruz o Triana.
 
 Para más días, mira [Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias).
+

@@ -4,11 +4,11 @@ descripcion: "Qué ver en Málaga en dos días: Alcazaba, Catedral, Museo Picass
 categoria: "malaga"
 slug: "malaga-en-dos-dias"
 fecha: "2026-02-28"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 8
 keywords:
   - "málaga en dos días"
   - "qué ver en málaga"
@@ -95,6 +95,16 @@ Una vez allí, el centro se hace **a pie**: es llano y casi todo peatonal. Para 
 **Si prefieres costa**, escápate a **Nerja y Frigiliana** —el balcón de Europa y uno de los pueblos blancos más bonitos—, a la espectacular **Ronda** sobre su tajo, o a **Antequera** (los dólmenes Patrimonio de la Humanidad y el paisaje lunar de El Torcal).
 
 > **⭐ Tip:** las entradas del Caminito del Rey se ponen a la venta con meses de antelación y vuelan. Si tu viaje gira en torno a él, reserva antes que el alojamiento.
+
+## Precios y horarios de lo imprescindible
+
+- **Alcazaba y Gibralfaro:** 5,50 € la entrada conjunta (3,50 € cada una), gratis los domingos a partir de las 14:00; de 9:00 a 20:00 en verano y hasta las 18:00 en invierno. Al castillo sube el autobús 35 desde la Alameda.
+- **Museo Picasso:** 12 € con audioguía (gratis los dos últimos domingos de cada mes a partir de las 16:00 y para menores de 16), de 10:00 a 19:00 (20:00 en verano). **Casa Natal de Picasso:** 4 €. **Centre Pompidou:** 9 €, cierra los martes. **Museo Carmen Thyssen:** 10 €, cierra los lunes.
+- **Catedral:** 10 € con audioguía (gratis menores de 13), cierra los domingos por la mañana; la subida a las cubiertas, con guía y 10 € más, es la mejor vista del centro.
+- **Teatro Romano:** gratis, junto a la Alcazaba; cierra los lunes. **Mercado de Atarazanas:** de lunes a sábado de 8:00 a 15:00.
+- **Caminito del Rey:** 10 € por libre y 18 € con guía, solo online y con semanas de antelación; tren de Cercanías/Media Distancia a El Chorro (45 minutos) y lanzadera de 2,50 €. Lo contamos en [cómo visitar el Caminito](/guias/malaga/caminito-del-rey-como-visitar).
+- **Transporte:** autobús urbano 1,40 €; el Cercanías C-1 une el centro con el aeropuerto (12 minutos, 1,80 €), Torremolinos, Benalmádena y Fuengirola (45 minutos, 3,60 €) cada 20 minutos. El metro llega al centro (Atarazanas) desde 2023.
+- **Playa:** la Malagueta, a 10 minutos del centro, con duchas y socorrista de junio a septiembre; hamaca y sombrilla, 10-15 €.
 
 ## Dónde dormir
 

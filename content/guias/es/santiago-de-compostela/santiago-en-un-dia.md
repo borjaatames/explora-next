@@ -4,13 +4,13 @@ descripcion: "Qué ver en Santiago en un día: Catedral, Obradoiro, casco histó
 categoria: "santiago-de-compostela"
 slug: "santiago-en-un-dia"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
 imagen_alt: "Catedral de Santiago de Compostela al atardecer"
-tiempo_lectura: 11
+tiempo_lectura: 7
 keywords:
   - "qué ver en santiago de compostela"
   - "santiago en un día"
@@ -77,6 +77,16 @@ La clave de Santiago no es solo monumental, es atmosférica: la lluvia sobre la 
 **14:00 — Comida.** Hora del pulpo (ver abajo).
 
 **16:30 — San Martiño y la Alameda.** Asómate al monasterio de **San Martiño Pinario** y termina en el **parque de la Alameda**, con la **mejor vista** de las torres de la catedral al atardecer (la estampa clásica desde la Carballeira de Santa Susana).
+
+## Precios y horarios de lo imprescindible
+
+- **Catedral:** el templo y la tumba del Apóstol, gratis, de 9:00 a 19:00. **Pórtico de la Gloria**, desde 12 € con visita guiada de 45 minutos y reserva previa obligatoria (se agota en verano); **museo**, 7 €; **cubiertas**, unos 15 €, con guía y suspendidas con lluvia fuerte. Misa del Peregrino a las 12:00 y 19:30; el botafumeiro solo en una docena de festividades (calendario en la web de la catedral). Lo detallamos en [cómo visitar la catedral](/guias/santiago-de-compostela/catedral-de-santiago-como-visitar).
+- **San Martiño Pinario:** 4 € (iglesia y museo), con los dos retablos barrocos y la sillería del coro; de lunes a domingo, horario partido. **Monasterio de San Paio de Antealtares:** iglesia gratuita.
+- **Mercado de Abastos:** de lunes a sábado de 7:00 a 15:00; los sábados por la mañana es cuando más vida tiene. En la nave 5 hay bares que cocinan lo que compras por 4-6 €.
+- **Museo de las Peregrinaciones** (Praterías): gratis para la UE, 2,40 € el resto; cierra los lunes. **Museo do Pobo Galego:** 4 €, en el convento de Bonaval, con la escalera triple de caracol; cierra los lunes.
+- **Alameda:** gratis y la mejor foto de la catedral desde el paseo de la Ferradura, con el atardecer a tu espalda.
+- **Llegar:** desde el aeropuerto, autobús a la estación y al centro cada 30 minutos (1 €, 40 minutos) o taxi por 22 € fijos. La estación de tren está a 15 minutos andando del casco, cuesta arriba a la vuelta.
+- **Lluvia:** llueve 140 días al año. Paraguas en la mochila siempre y zapatos que no resbalen en el granito mojado.
 
 ## Dónde dormir
 

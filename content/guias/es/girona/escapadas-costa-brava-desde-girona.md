@@ -4,7 +4,7 @@ descripcion: 'Las mejores escapadas desde Girona: Figueres y el Teatro-Museo Dal
 categoria: girona
 slug: escapadas-costa-brava-desde-girona
 fecha: '2026-05-12'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
@@ -49,14 +49,26 @@ slugs:
 - **Pueblos medievales:** Besalú, Pals y Peratallada.
 - **Calas:** Calella de Palafrugell, Llafranc, Tamariu y las de Begur (Sa Riera, Aiguablava).
 
+## Lo que debes saber antes de salir
+
+- **El Teatro-Museo Dalí de Figueres** cuesta 17 € (gratis menores de 8), con entrada por franja horaria que **se agota en temporada**: resérvala en la web oficial la semana anterior. Son 2 horas; el cuadro de Lincoln y la Sala Mae West son lo que todos buscan. Está a 15 minutos a pie de la estación.
+- **La casa de Dalí en Portlligat** (Cadaqués) se visita solo con reserva previa, en grupos de 8 cada 10 minutos. Sin reserva no entras ni en temporada baja.
+- **Cadaqués en verano:** el único acceso es una carretera de curvas y el pueblo cierra el centro al tráfico. Llega antes de las 10:00 o deja el coche en el aparcamiento de la entrada y anda.
+- **Las calas de Begur y Palafrugell** tienen aparcamientos pequeños que se llenan a las 10:30 en julio y agosto. O llegas a las 9:00, o usas los autobuses lanzadera que Begur pone en verano, o vas a última hora de la tarde, que es cuando mejor luz hay.
+- **Empúries:** 6 € (gratis el primer domingo de mes y para menores de 16). Lleva bañador: la playa está pegada a las ruinas.
+- **Besalú:** el puente y el barrio son gratis; el micvé (baño judío medieval) solo se ve con la visita guiada de la oficina de turismo, que conviene reservar.
+
 ## Cómo moverte
 
 Figueres se hace en tren. Para Cadaqués, los pueblos y las calas hace falta coche o una excursión organizada: el transporte público llega mal.
 
 ## Errores a evitar
 
-1. **No reservar el Museo Dalí en temporada:** se agota.
-2. **Meter dos escapadas lejanas el mismo día:** Cadaqués o las calas ya llenan una jornada.
-3. **Ir a las calas a mediodía en agosto:** no hay aparcamiento; ve pronto.
+1. **No reservar el Museo Dalí ni la casa de Portlligat:** las dos se agotan en temporada y la segunda no admite visitas sin cita.
+2. **Meter dos escapadas lejanas el mismo día:** Cadaqués o las calas ya llenan una jornada; Figueres y Besalú sí se pueden combinar.
+3. **Ir a las calas a mediodía en agosto:** no hay aparcamiento; ve pronto o a última hora.
+4. **Fiarse del transporte público para la costa:** a Figueres llega el tren, pero a Cadaqués, Begur o Besalú se va en coche o con excursión organizada.
+5. **Conducir a Cadaqués con niños que se marean:** son 20 minutos de curvas desde Roses. El barco desde Roses evita la carretera y pasa por el Cap de Creus.
 
 Para la ciudad, mira [qué ver en Girona en un día](/guias/girona/que-ver-en-girona-en-un-dia).
+

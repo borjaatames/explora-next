@@ -4,11 +4,11 @@ descripcion: 'Guía de Gran Canaria: Dunas de Maspalomas, Roque Nublo, Vegueta, 
 categoria: gran-canaria
 slug: que-ver-en-gran-canaria
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
 - qué ver en gran canaria
 - gran canaria en 4 días
@@ -67,9 +67,14 @@ La capital merece al menos un día. **Vegueta**, el barrio fundacional (1478), r
 
 **Teror**, con la Basílica del Pino y sus balcones; **Arucas**, con su iglesia neogótica y las plataneras; **Firgas** y su paseo de azulejos; y **Agaete**, con el Puerto de las Nieves y el único valle de Europa donde se cultiva café. En el este, el **barranco de Guayadeque** esconde casas y hasta una ermita excavadas en la roca.
 
-## Cómo moverte
+## Lo práctico: coche, guaguas y distancias
 
-Las **guaguas** (Global) conectan muy bien Las Palmas, el aeropuerto y el sur. Para el interior y los pueblos del norte, lo práctico es **alquilar coche** o reservar una excursión: las carreteras de montaña son estrechas y con muchas curvas, y el aparcamiento en el Roque Nublo es limitado.
+- **Alquilar coche:** para el interior y el norte, sí. Reserva con semanas en invierno (temporada alta en Canarias) y elige coche pequeño: las carreteras de las cumbres (GC-60, GC-600, GC-210) son estrechas y con curvas cerradas. Llena el depósito antes de subir; arriba no hay gasolineras.
+- **Distancias reales:** de Maspalomas a Las Palmas, 45 minutos por autopista; a Puerto de Mogán, 25; a Tejeda y el Roque Nublo, 1 h 30 por la GC-60; a Teror, 1 h 15. De Las Palmas a Tejeda, 1 h 15 por la GC-15. La isla parece pequeña, pero el interior se mide en horas, no en kilómetros.
+- **Guaguas Global:** la línea 30 une Las Palmas con Maspalomas y Playa del Inglés en 50 minutos (cada 20 minutos, unos 7 €); la 1 va por la costa a Puerto de Mogán. Al interior llegan la 18 (Maspalomas-Tejeda-San Mateo) y la 305 (Las Palmas-Tejeda), con pocas frecuencias: consulta los horarios de vuelta antes de subir.
+- **Precios de lo esencial:** dunas, Roque Nublo, Vegueta y Las Canteras, gratis; Casa de Colón en Vegueta, 4 € (gratis domingos); Jardín Botánico Canario, gratis; camellos en las dunas, 18 €; barco de Puerto Rico a Puerto de Mogán, 10-12 € el trayecto. El Palmitos Park cuesta 36 € adulto y es el gran plan familiar.
+- **Mercados:** el de Teror los domingos por la mañana (chorizo de Teror para untar y queso) y el de Vegueta los sábados; el Mercado del Puerto de Las Palmas, de jueves a sábado por la noche, para tapear.
+- **Clima:** el sur tiene 300 días de sol; Las Palmas y el norte, la «panza de burro» de nubes bajas en verano. En las cumbres puede helar en invierno. Lleva siempre una capa más en el coche.
 
 ## Dónde alojarse
 

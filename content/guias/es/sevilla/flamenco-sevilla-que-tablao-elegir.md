@@ -19,6 +19,7 @@ slugs:
   es: flamenco-sevilla-que-tablao-elegir
   en: flamenco-seville-which-tablao-to-choose
   de: flamenco-sevilla-welches-tablao-waehlen
+tiempo_lectura: 3
 ---
 
 Sevilla no tiene un único "show de flamenco" — tiene cinco venues distintos, cada uno con su propio formato, precio y ambiente. A diferencia de otros clústers de este sitio (como los tours a un mismo monumento), aquí no hay duplicados: son cinco experiencias genuinamente diferentes. La pregunta no es "cuál es el más barato" sino "cuál encaja con lo que buscas".
@@ -40,6 +41,17 @@ Sevilla no tiene un único "show de flamenco" — tiene cinco venues distintos, 
 - **Quieres cenar durante la velada:** Tablao El Arenal, el único con opción de cena tradicional junto al show.
 - **Te interesa el contexto histórico del flamenco:** Museo del Baile Flamenco, con coreografías de Cristina Hoyos y patio del s. XVIII.
 - **Quieres vivirlo en su barrio de origen:** Teatro Flamenco Triana, cruzando el Guadalquivir hasta el barrio cuna del género.
+
+## Lo que debes saber antes de reservar
+
+- **Qué vas a ver:** un cuadro de 4 a 7 artistas durante **una hora**, sin argumento: palos encadenados y bulerías de remate. En Sevilla, además, estás en la cuna del género: aquí los artistas son locales y el público mezcla turistas y sevillanos.
+- **Horarios:** casi todos tienen dos o tres pases, el primero sobre las 18:00-19:00 y el último a partir de las 21:00-22:00. Casa de la Memoria y el Museo del Baile llenan antes el pase de las 19:30-20:00.
+- **Dónde están:** Casa de la Memoria y el Museo del Baile Flamenco, en el centro, a cinco minutos de la Plaza del Salvador; el Teatro Flamenco Sevilla, también en el centro; El Arenal, junto a la plaza de toros de la Maestranza; el Teatro Flamenco Triana, cruzando el puente de Isabel II. Todos a pie desde el casco histórico.
+- **Llega 20-30 minutos antes:** salvo en los teatros, los asientos se ocupan por orden de llegada, y en Casa de la Memoria la diferencia entre primera y segunda fila es grande.
+- **Con cena o sin cena:** solo El Arenal la ofrece, servida antes y durante el show. Es correcta; si quieres cenar bien, tapea antes por el Arenal o Triana y compra solo entrada con bebida.
+- **Fotos y vídeo:** prohibidos durante la actuación en todos; al final suelen permitir unos segundos.
+- **Niños:** entran en todos; a partir de los 7-8 años aguantan la hora. En Casa de la Memoria, con poco aforo y silencio total, mejor a partir de los 10.
+- **Calor:** los patios (Casa de la Memoria, Museo del Baile) no tienen aire acondicionado potente. En julio y agosto, elige el último pase o un teatro.
 
 ## Cosas a tener en cuenta al reservar
 

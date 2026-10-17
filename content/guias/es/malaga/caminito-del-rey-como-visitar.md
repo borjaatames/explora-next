@@ -4,11 +4,11 @@ descripcion: "Guía para visitar el Caminito del Rey desde Málaga: cómo conseg
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "caminito del rey"
   - "caminito del rey entradas"
@@ -56,6 +56,16 @@ El Caminito es un recorrido **lineal** de unos 7,7 km (3 km de pasarelas anclada
 | Días de cierre | Lunes (variable) y por viento o lluvia fuerte |
 
 > **⭐ Tip:** las entradas salen a la venta con meses de antelación en la web oficial y vuelan. Mira primero las fechas disponibles del Caminito y **monta el viaje alrededor de ese día**, no al revés.
+
+## Precios, horarios y edades
+
+- **Entrada general:** 10 € por libre y 18 € con visita guiada oficial, siempre en la web oficial y con hora fija de entrada. El **bus lanzadera** entre la entrada sur (El Chorro) y la norte (Ardales) cuesta 2,50 € y conviene comprarlo con la entrada.
+- **Horarios:** de martes a domingo, con entradas cada media hora desde las 9:00 hasta primera hora de la tarde (más tarde en verano). **Cierra los lunes** y los días de viento fuerte o lluvia intensa, con devolución del importe.
+- **Edad mínima: 8 años**, sin excepciones, y los menores de edad siempre acompañados. No hay límite de edad superior, pero son 7,7 km sin bancos ni sombra.
+- **Aforo:** unas 1.100 personas al día. Las entradas se ponen a la venta por semestres y las de primavera y otoño se agotan en días; las de pleno verano y entre semana en invierno, no tanto.
+- **Tiempo total:** entre 3 y 4 horas contando los accesos a pie (1,5-2,7 km desde cada aparcamiento, según la entrada) y la lanzadera. Si vienes en tren desde Málaga, calcula el día entero.
+- **Casco obligatorio** (lo dan allí) y prohibido entrar con paraguas, bastones con punta metálica, drones y mascotas.
+- **Baños:** solo en las entradas, no en el recorrido.
 
 ## Cómo llegar desde Málaga
 

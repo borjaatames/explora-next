@@ -4,13 +4,13 @@ descripcion: "Guía para visitar la Catedral de Santiago: qué es gratis y qué 
 categoria: "santiago-de-compostela"
 slug: "catedral-de-santiago-como-visitar"
 fecha: "2026-05-18"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/catedral-de-santiago-como-visitar.jpg"
 imagen_alt: "Fachada del Obradoiro de la Catedral de Santiago de Compostela"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "catedral de santiago"
   - "pórtico de la gloria"
@@ -52,13 +52,21 @@ La clave: separa lo gratuito (el templo, la tumba del Apóstol) de las visitas e
 
 > **⭐ Tip:** el **Pórtico de la Gloria** y las **cubiertas** se visitan con **entrada y horario**, y se agotan en temporada. Resérvalas online con antelación; son las dos experiencias que más recompensan más allá del templo.
 
+## Precios, horarios y el botafumeiro
+
+- **El templo** abre todos los días de 9:00 a 19:00 (acceso por la Puerta de Platerías), gratis. El abrazo al Apóstol y la cripta siguen el mismo horario, con cola de 15-40 minutos en temporada.
+- **Pórtico de la Gloria:** desde 12 € en visita guiada de 45 minutos, en grupos pequeños y con horario fijo. Las plazas se abren por semanas y en verano se agotan: resérvalo en la web de la catedral antes de llegar.
+- **Cubiertas:** en torno a 15 €, con guía, por el tejado de granito. Se suspenden con lluvia o viento fuerte, que en Santiago es frecuente; reserva un día con margen para repetir.
+- **Museo:** 7 € (claustro, tesoro, cripta y Pazo de Xelmírez). Hay entradas combinadas con el Pórtico que ahorran unos euros.
+- **Consigna para mochilas:** en la Oficina del Peregrino (Rúa das Carretas), 3-4 € el día.
+
 ## El botafumeiro
 
-El **botafumeiro** es el gigantesco incensario (más de 50 kg) que ocho *tiraboleiros* hacen volar por el crucero. **No vuela todos los días**: lo hace en ciertas **Misas del Peregrino** y en fechas señaladas (también puede solicitarse y pagarse por grupos). Si quieres verlo, **consulta el calendario oficial** antes de ir y llega pronto a la misa.
+El **botafumeiro** es el gigantesco incensario (más de 50 kg) que ocho *tiraboleiros* hacen volar por el crucero a 65 km/h. **No vuela todos los días.** Lo hace en una docena de festividades al año, en la misa de las 12:00: Epifanía, Pascua, Pentecostés, el 25 de julio (Santiago Apóstol), la Asunción, Todos los Santos, la Inmaculada y Navidad, entre otras; en Año Santo, todos los días. El resto del año solo vuela cuando un grupo o peregrino lo encarga (cuesta unos 450 €) y no se anuncia con antelación: por eso tanta gente se lleva la decepción. El calendario oficial está en la web de la catedral; si tu fecha coincide, llega una hora antes.
 
 ## La Misa del Peregrino
 
-Es la misa diaria (habitualmente a las **12:00**, con otra por la tarde) en la que culmina el Camino. Llena la catedral: si quieres sitio, llega con **bastante antelación**. Durante la misa no se puede hacer visita turística.
+Es la misa en la que culmina el Camino, todos los días a las **12:00** y a las **19:30**. Llena la catedral: para sentarte, llega 45 minutos antes; los peregrinos con la Compostela recién sellada tienen una zona reservada. Durante la misa no se puede hacer visita turística, y la de las 12:00 es la que lee en voz alta de dónde han salido los peregrinos llegados ese día.
 
 ## Consejos prácticos
 

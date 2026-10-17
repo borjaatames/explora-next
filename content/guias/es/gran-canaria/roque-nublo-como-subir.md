@@ -4,11 +4,11 @@ descripcion: 'Guía para subir al Roque Nublo: el sendero desde La Goleta, dific
 categoria: gran-canaria
 slug: roque-nublo-como-subir
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
-tiempo_lectura: 7
+tiempo_lectura: 3
 keywords:
 - roque nublo
 - subir al roque nublo
@@ -59,6 +59,17 @@ El sendero sube entre pinos canarios hasta una meseta rocosa. Allí aparecen el 
 ## Qué llevar
 
 Calzado cerrado con buena suela, **abrigo** (aunque en la costa haga calor), agua, gorra y protector solar. Arriba no hay servicios ni sombra.
+
+## Lo práctico: cómo llegar y qué tener en cuenta
+
+- **En coche:** 1 h 15 desde Las Palmas por la GC-15 y 1 h 30 desde Maspalomas por la GC-60, por carreteras de montaña estrechas y con curvas. Llena el depósito antes: en las cumbres no hay gasolineras. Hay un segundo aparcamiento 500 metros antes de La Goleta, en dirección Ayacata, que es el que queda libre cuando el primero se llena.
+- **Transporte público:** no es práctico; la guagua llega a Tejeda, a 8 km del inicio del sendero. Sin coche, excursión organizada.
+- **La «panza de burro»:** las nubes de los alisios cubren el norte muchas mañanas de verano, pero las cumbres suelen estar por encima. Si en la costa norte está nublado, arriba habrá sol; si en el sur hay calima, mejor otro día.
+- **Temperatura:** entre 10 y 15 grados menos que en la playa. En invierno baja de 5 °C, con heladas y, de vez en cuando, nieve. En verano el sol pega fuerte a 1.800 metros: crema y gorra.
+- **Con niños:** desde los 5-6 años lo hacen sin problema; el último tramo tiene escalones de piedra. Carritos, imposibles.
+- **No hay nada arriba:** ni baños, ni agua, ni sombra. Lo más cercano está en Ayacata (dos bares) y en Tejeda.
+- **Normas:** es Monumento Natural y Reserva de la Biosfera. Prohibido volar drones sin permiso, salirse del sendero y escalar el roque.
+- **Cuándo ir:** todo el año; de finales de enero a febrero las laderas de Tejeda se llenan de almendros en flor.
 
 ## Qué ver cerca
 

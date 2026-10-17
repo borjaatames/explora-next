@@ -4,11 +4,11 @@ descripcion: 'Guía para ver ballenas y delfines en Tenerife: qué especies hay,
 categoria: tenerife
 slug: avistamiento-ballenas-tenerife
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
-tiempo_lectura: 8
+tiempo_lectura: 3
 keywords:
 - avistamiento ballenas tenerife
 - delfines tenerife
@@ -58,6 +58,16 @@ Los puertos de **Los Cristianos**, **Puerto Colón** (Costa Adeje) y **Los Gigan
 - Desconfía de "nadar con delfines": está **prohibido**.
 
 > **⭐ Tip:** si te mareas, elige un barco de casco ancho o catamarán y la salida de primera hora, cuando el mar suele estar más tranquilo.
+
+## Lo que debes saber antes de reservar
+
+- **Duración y precio:** las salidas estándar duran **2-3 horas** y cuestan entre 25 y 45 € por adulto; las de 4-5 horas con comida y baño, entre 50 y 80 €. Los niños pagan la mitad y los menores de 3 suelen ir gratis.
+- **Casi siempre se ven:** los calderones viven ahí todo el año y las tasas de avistamiento superan el 90 %. Aun así, pregunta al reservar si, en caso de no verlos, te ofrecen repetir gratis; muchos operadores serios lo hacen.
+- **Distancias legales:** los barcos no pueden acercarse a menos de 60 metros ni quedarse más de 30 minutos con el mismo grupo. Si el tuyo lo incumple, está infringiendo la ley.
+- **Mareo:** la zona está resguardada, pero hay mar de fondo. Toma la pastilla una hora antes, desayuna ligero y siéntate en el centro del barco mirando al horizonte.
+- **Dónde aparcar:** en Los Cristianos y Puerto Colón hay aparcamientos de pago junto al puerto (10-12 € el día). En Los Gigantes, el aparcamiento del puerto es pequeño: llega 30 minutos antes.
+- **Embarazadas y bebés:** la mayoría de operadores no admiten embarazadas de más de 6 meses en lanchas rápidas; en catamarán no suele haber problema. Pregunta.
+- **Sin coche:** desde Playa de las Américas y Costa Adeje se llega andando a Puerto Colón; a Los Cristianos, con las líneas de guagua 110, 111 y 467.
 
 ## Cuándo ir
 

@@ -4,11 +4,11 @@ descripcion: "Guía de Valencia con niños: Oceanogràfic, Ciudad de las Artes, 
 categoria: "valencia"
 slug: "valencia-con-ninos"
 fecha: "2026-03-27"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "valencia con niños"
   - "oceanogràfic"
@@ -68,6 +68,15 @@ La clave con niños en Valencia es no intentar verlo todo. El casco histórico s
 **Jardín del Turia en bici.** El antiguo cauce del río es hoy un parque de nueve kilómetros, llano y sin coches. Alquilad bicis (hay con sillita y de varios tamaños) y no os perdáis el **Parque Gulliver**, un tobogán gigante con forma del personaje por el que los niños trepan. Gratis y adictivo.
 
 **Playa de la Malvarrosa.** Arena ancha, paseo y restaurantes. Ideal para cerrar el día.
+
+## Lo práctico: precios, transporte y carritos
+
+- **Entradas con niños:** Oceanogràfic, unos 40 € por adulto y 30 € para niños de 4 a 12 (menores de 4, gratis); Bioparc, 27-28 € adultos y 20-21 € niños de 4 a 12. Las dos se compran online con fecha; en taquilla hay cola y cuestan más.
+- **Transporte:** metro y tranvía desde 1,50 € y los menores de 10 viajan gratis con un adulto. Para la Ciudad de las Artes, autobuses 95, 35 o 15; para el Bioparc, metro Nou d'Octubre (líneas 3, 5 y 9) y 10 minutos andando; para la playa, tranvía 4 o 6 hasta Las Arenas o metro hasta Marítim. El taxi desde el centro a la Ciudad de las Artes son 8-10 €.
+- **Bicis con niños:** Valenbisi es solo para mayores de 14, pero las tiendas del Turia y el Cabanyal alquilan bicis con sillita, remolques y tándems por 10-20 € el día. El cauce es llano y sin coches de punta a punta; de la Ciudad de las Artes al Bioparc son 9 km.
+- **Parques del Turia:** el Parque Gulliver (una figura gigante con toboganes, gratis, de 10:00 a 20:00 con cierre al mediodía en verano) está junto al Palau de la Música, a medio camino entre el centro y la Ciudad de las Artes. Es la parada que salva cualquier tarde.
+- **Playa:** la Malvarrosa y Las Arenas tienen socorrista, duchas, zonas infantiles y aseos públicos; el agua está a 20 °C en mayo y a 26 °C en agosto. Hamaca y sombrilla, 15-20 € el día.
+- **Carritos:** toda la ciudad es llana y el metro tiene ascensores; el casco antiguo tiene adoquines en el Carmen, pero nada grave. Los museos y el Oceanogràfic prestan carritos.
 
 ## Ruta de fin de semana en familia
 

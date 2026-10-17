@@ -4,13 +4,13 @@ descripcion: "Guía de pintxos en Bilbao: dónde ir de txikiteo (Plaza Nueva, Ca
 categoria: "bilbao"
 slug: "pintxos-bilbao"
 fecha: "2026-04-04"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/pintxos-bilbao.jpg"
 imagen_alt: "Barra de pintxos típica del Casco Viejo de Bilbao"
-tiempo_lectura: 10
+tiempo_lectura: 3
 keywords:
   - "pintxos bilbao"
   - "txikiteo bilbao"
@@ -66,6 +66,15 @@ La regla número uno: **muévete**. La gracia es probar la especialidad de cada 
 4. **Hora punta**: el aperitivo de mediodía (13:00-15:00) y el de la tarde-noche (20:00-22:00).
 
 > **⚠️ Aviso:** quedarte toda la noche en un solo bar de la Plaza Nueva es de turista. Los locales encadenan tres o cuatro; haz lo mismo y comerás mucho mejor.
+
+## Lo práctico: precios, horarios y costumbres
+
+- **Precios:** un pintxo frío de barra, 2-3,50 €; uno caliente de cocina, 4-6 €; un zurito, 1,50 €; un txikito, 1,50-2,50 €; una copa de txakoli, 2,50-3,50 €. Una cena de txikiteo con 5-6 pintxos y bebidas sale por 25-35 € por persona.
+- **Horarios:** las barras se llenan de 12:30 a 15:00 y de 19:30 a 22:30. Entre medias, muchos bares del Casco Viejo cierran la cocina o el local entero (sobre todo de 16:00 a 19:00), y los lunes descansan bastantes. Los domingos por la tarde el Casco Viejo está apagado; el Ensanche, más vivo.
+- **Pintxo-pote:** los jueves por la noche, en los bares de Deusto, Indautxu y la calle Licenciado Poza, pintxo más bebida por 2-3 €. Es el plan de los universitarios y una buena forma de empezar.
+- **Cómo pedir:** di cuántos y cuáles, y la bebida; lo caliente se pide expresamente. Se paga al irte, de palabra: el camarero recuerda lo que has tomado. No se deja propina, o como mucho las monedas del cambio.
+- **De pie es lo normal:** las mesas, si las hay, son para comer con carta. Si quieres sentarte a comer pintxos, pide permiso y, en muchos sitios, te cobrarán algo más.
+- **Semana Grande** (la Aste Nagusia, a mediados de agosto) y los días de partido en San Mamés: todo a rebosar y algunos bares con precios de fiesta. Divertido, pero no es el día para el txikiteo tranquilo.
 
 ## Lo que NO recomendamos
 

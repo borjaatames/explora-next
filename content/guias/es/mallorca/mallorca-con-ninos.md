@@ -4,7 +4,7 @@ descripcion: 'Guía de Mallorca con niños: mejores playas familiares, Palma Aqu
 categoria: mallorca
 slug: mallorca-con-ninos
 fecha: '2026-04-09'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
@@ -60,6 +60,15 @@ faq:
 | Port de Sóller | Tramuntana | Bahía resguardada |
 | Es Trenc | Sur | Salvaje, pero sin servicios |
 
+## Lo práctico: coche, comida y horarios
+
+- **Coche de alquiler, imprescindible y con antelación.** En julio y agosto los precios se doblan y las sillas infantiles se acaban: reserva en cuanto tengas los vuelos. Pide la silla al reservar, no en el mostrador.
+- **Las Cuevas del Drach** cuestan 18 € (11 € de 2 a 12 años, gratis los menores de 2) y las sesiones con concierto son a horas fijas: de abril a octubre a las 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 y 17:00; en invierno solo cuatro pases. Se agotan: compra online con días de margen. La visita dura entre 1 hora y 1 h 30, y dentro hay 18-21 °C todo el año: lleva una chaqueta fina.
+- **El tren de Sóller** sale de Palma a las 10:10, 10:50, 12:15, 13:30 y 15:10. Son 30 € ida y vuelta (el tranvía al puerto se paga aparte) y el trayecto dura una hora. Siéntate en el lado derecho a la ida para las vistas de la Tramuntana.
+- **Palma Aquarium:** 2-3 horas, mejor abrir a las 10:00 o entrar a partir de las 15:00, cuando salen los grupos. El tiburón y la selva tropical son lo que más gusta.
+- **Comer:** los chiringuitos de las playas familiares y los cellers (restaurantes de pueblo, con menú del día a 15-18 €) funcionan muy bien con niños. Reserva en verano, sobre todo en el norte. Para merendar, una ensaïmada recién hecha nunca falla.
+- **Cuándo ir:** de mayo a mediados de junio y septiembre son los meses perfectos; agua a 23-25 °C, menos gente y hoteles un 30 % más baratos que en agosto.
+
 ## Una semana en familia (base norte)
 
 | Día | Plan |
@@ -73,9 +82,12 @@ faq:
 
 ## Errores a evitar
 
-1. **Alojarte en Magaluf o s'Arenal:** es zona de fiesta.
-2. **No reservar las Cuevas del Drach:** las entradas con concierto se agotan.
-3. **Conducir a Sa Calobra con niños que se marean:** curvas extremas.
-4. **Olvidar sombra y agua en playas sin servicios** como Es Trenc.
+1. **Alojarte en Magaluf o s'Arenal:** es zona de fiesta. Si buscas tranquilidad, el norte (Alcúdia, Pollença) o el este (Cala d'Or).
+2. **No reservar coche ni Cuevas del Drach con antelación:** el primero se encarece y las segundas se agotan.
+3. **Conducir a Sa Calobra con niños que se marean:** 12 km de curvas extremas. El barco desde Port de Sóller es la alternativa.
+4. **Ir a las calas pequeñas de moda con peques:** sin sombra, sin aparcamiento y a rebosar. Las playas grandes del norte son mejores con niños pequeños.
+5. **Olvidar sombra y agua en playas sin servicios** como Es Trenc.
+6. **Intentar ver toda la isla:** elige una base y haz radios cortos, de 45 minutos como mucho.
 
 Para el resto de la isla, mira [qué ver en Mallorca](/guias/mallorca/que-ver-en-mallorca).
+

@@ -4,13 +4,13 @@ descripcion: "Guía de Alicante en uno o dos días: Castillo de Santa Bárbara, 
 categoria: "alicante"
 slug: "que-ver-en-alicante"
 fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
 imagen_alt: "Vista del Castillo de Santa Bárbara sobre la bahía de Alicante"
-tiempo_lectura: 11
+tiempo_lectura: 7
 keywords:
   - "qué ver en alicante"
   - "alicante en un día"
@@ -88,6 +88,16 @@ La trampa de Alicante es tratarla solo como aeropuerto de la Costa Blanca, de pa
 **Dedica el día a la Isla de Tabarca.** Desde el puerto sale el barco a la **Isla de Tabarca**, la isla habitada más pequeña de España y **reserva marina**: aguas cristalinas para snorkel, un pueblo amurallado y arroces frente al mar. Medio día o jornada completa.
 
 **Si prefieres la costa norte**, el TRAM o el coche te llevan a **Altea** (pueblo blanco con cúpulas azules), **Calpe** (el Peñón de Ifach), **Jávea**, el espectacular **Benidorm** y sus parques (Terra Mítica, Aqualandia) o el pueblo de montaña de **Guadalest**, sobre su embalse turquesa. A 20 minutos, **Elche** y su palmeral Patrimonio de la Humanidad.
+
+## Precios y horarios de lo imprescindible
+
+- **Castillo de Santa Bárbara:** entrada gratuita; el ascensor desde la playa del Postiguet cuesta 2,70 € (solo subida; la bajada es gratis o andando). Abre todos los días de 10:00 a 20:00 (hasta las 22:00 en julio y agosto). Subir a pie por el parque de la Ereta son 25 minutos.
+- **MARQ:** 3 € (gratis los domingos y festivos), cierra los lunes; de martes a sábado de 10:00 a 19:00 y domingos solo mañana. Está a 15 minutos andando del centro o en tranvía hasta la parada MARQ-Castillo.
+- **MACA:** gratis, cierra los lunes.
+- **Concatedral de San Nicolás y Basílica de Santa María:** entrada libre fuera de los cultos; la basílica cobra 2-3 € en horario turístico.
+- **Mercado Central:** de lunes a sábado de 7:00 a 14:30; los bares de alrededor (la Plaza 25 de Mayo) se llenan de aperitivo a partir de las 12:30.
+- **TRAM a San Juan:** líneas 1, 3 y 4 desde Luceros o Mercado, 25 minutos, 1,45 € el trayecto. La playa de San Juan tiene 7 km, socorristas y chiringuitos; el Postiguet, a pie del centro, es más pequeña y más llena.
+- **Tabarca:** barco desde el puerto, 25-30 € ida y vuelta; mira la [guía de Tabarca](/guias/alicante/isla-de-tabarca-como-visitar) para horarios y estado del mar.
 
 ## Dónde dormir
 

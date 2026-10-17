@@ -19,6 +19,7 @@ slugs:
   es: flamenco-barcelona-que-tablao-elegir
   en: flamenco-barcelona-which-tablao-to-choose
   de: flamenco-barcelona-welches-tablao-waehlen
+tiempo_lectura: 3
 ---
 
 Barcelona no es tierra histórica del flamenco, pero tiene cuatro venues consolidados con oferta diaria, cada uno con un enfoque distinto: desde el teatro de gran aforo más reservado de la ciudad hasta un palacio barroco del siglo XVII en el Born.
@@ -38,6 +39,17 @@ Barcelona no es tierra histórica del flamenco, pero tiene cuatro venues consoli
 - **Buscas el venue más espectacular:** Palau Dalmases, un palacio barroco del s. XVII en el Born.
 - **Quieres cenar de verdad durante el espectáculo:** Tablao de Carmen, en el Poble Espanyol — entrada gratis al recinto desde las 16:00 incluida.
 - **Te importa el sonido en directo sin amplificar:** Tablao Cordobés, con 55 años de historia en La Rambla.
+
+## Lo que debes saber antes de reservar
+
+- **Qué vas a ver:** un cuadro de 5 a 8 artistas durante **una hora**, sin argumento: palos distintos encadenados y las bulerías de remate. En Barcelona el nivel es profesional y los artistas vienen en su mayoría de Andalucía; no esperes una peña de barrio, pero tampoco un show para turistas descafeinado.
+- **Horarios:** el Teatro City Hall tiene pases a las 17:00, 18:45, 20:30 y 22:00; los demás, dos o tres pases desde el atardecer. El primero es el que mejor va con niños y el último el de mejor ambiente.
+- **Dónde están:** City Hall, en la Rambla de Catalunya, junto a Plaça de Catalunya. Palau Dalmases, en la calle Montcada del Born, a 50 metros del Museo Picasso. Tablao Cordobés, en La Rambla. Tablao de Carmen, dentro del Poble Espanyol de Montjuïc (metro Espanya y 10 minutos a pie cuesta arriba, o autobús 150).
+- **Llega 20-30 minutos antes:** salvo en el teatro, los sitios se ocupan por orden de llegada.
+- **Con cena o sin cena:** en el Tablao de Carmen la cena se sirve durante el espectáculo, al estilo clásico, y es la razón de su precio. En el resto, la cena va antes y es correcta; para comer bien, cena en el Born o en Poble Sec y compra solo entrada con bebida.
+- **Fotos y vídeo:** prohibidos durante la actuación; al final suelen permitir unos segundos.
+- **Niños:** entran en los cuatro; a partir de los 7-8 años aguantan la hora. Con menores, el primer pase.
+- **Vestimenta:** no hay etiqueta.
 
 ## Cosas a tener en cuenta al reservar
 

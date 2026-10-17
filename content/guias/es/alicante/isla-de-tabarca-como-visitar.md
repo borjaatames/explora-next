@@ -4,13 +4,13 @@ descripcion: "Guía para visitar la Isla de Tabarca: cómo llegar en barco desde
 categoria: "alicante"
 slug: "isla-de-tabarca-como-visitar"
 fecha: "2026-04-06"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"
 imagen_alt: "Vista de la costa de Alicante desde el mar, camino de Tabarca"
-tiempo_lectura: 11
+tiempo_lectura: 3
 keywords:
   - "isla de tabarca"
   - "tabarca desde alicante"
@@ -60,6 +60,15 @@ De **mayo a octubre** para baño y snorkel. **Julio y agosto** se llena (ve en e
 - Agua, gorra y crema: hay poca sombra.
 - Calzado de agua para las calas rocosas.
 - Efectivo: no todo acepta tarjeta.
+
+## Lo práctico: barcos, horarios y dinero
+
+- **Precios del barco:** desde Alicante, 25-30 € ida y vuelta por adulto (niños, la mitad); desde Santa Pola, 15-20 €, con salidas cada 30-60 minutos en verano. Los billetes son de ida y vuelta con la misma naviera: fíjate en la hora del último barco, que en verano sale de la isla entre las 18:00 y las 19:30 y fuera de temporada mucho antes.
+- **Cuánto tiempo necesitas:** 4-5 horas en la isla dan para el pueblo, un baño largo con snorkel y comer. El día entero solo compensa si vas a quedarte en las calas de la parte salvaje.
+- **No hay cajero** y varios bares solo aceptan efectivo. Tampoco hay coches, ni farmacia, ni apenas sombra fuera del pueblo.
+- **Reserva marina:** prohibido pescar, coger conchas o arrancar posidonia, y fondear fuera de las boyas. Hay vigilancia y multas.
+- **Baño:** la playa principal tiene socorrista y duchas en verano; las calas de la zona este, no. Con viento de levante el agua se enturbia; con poniente está perfecta.
+- **Dormir en la isla:** hay un par de hoteles pequeños. Dormir allí significa tener Tabarca casi vacía a las 19:00, cuando se va el último barco, y es un plan muy distinto.
 
 ## Dónde comer
 

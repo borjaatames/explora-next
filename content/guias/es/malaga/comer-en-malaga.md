@@ -4,11 +4,11 @@ descripcion: "Guía para comer en Málaga: espeto de sardinas, fritura malagueñ
 categoria: "malaga"
 slug: "comer-en-malaga"
 fecha: "2026-03-21"
-fecha_actualizacion: "2026-03-21"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
-tiempo_lectura: 10
+tiempo_lectura: 3
 keywords:
   - "comer en málaga"
   - "espeto de sardinas"
@@ -49,6 +49,16 @@ El **vino dulce de Málaga** (moscatel o Pedro Ximénez) es la seña de identida
 | Centro (lejos de Larios) | Bodegas históricas de vino dulce |
 
 > **⚠️ Aviso:** desconfía de las terrazas con menú plastificado en varios idiomas y captadores justo frente a la Catedral o en calle Larios: precios turísticos y calidad media. Camina dos o tres calles hacia Carretería, el Soho o el mercado y cambia todo.
+
+## Lo práctico: horarios, precios y cómo llegar
+
+- **Horarios:** los chiringuitos de Pedregalejo y El Palo sirven espetos sobre todo al mediodía, de 13:00 a 16:30; de noche pocos encienden la barca. En el centro se tapea de 13:00 a 16:00 y de 20:30 a 23:30.
+- **Precios orientativos:** un espeto de seis sardinas, 4-6 €; ración de fritura malagueña, 12-15 €; boquerones fritos, 8-10 €; un vaso de vino dulce de barrica, 1,50-3 €. Comer bien en Málaga sale por 20-25 € por persona.
+- **Cómo llegar a Pedregalejo y El Palo:** autobús 11 desde la Alameda Principal (20 minutos) o 40 minutos andando por el paseo marítimo desde La Malagueta, que es un paseo precioso. En taxi, 8-10 €.
+- **Mercado de Atarazanas:** abre de lunes a sábado de 8:00 a 15:00 y cierra los domingos. Los bares de dentro llenan a partir de las 13:00; ve antes de las 12:30 si quieres barra.
+- **Bodegas de vino dulce:** la Antigua Casa de Guardia (Alameda Principal, desde 1840) es la original: de pie, en la barra, con la cuenta escrita a tiza. El Pimpi es más turístico pero merece la visita por el edificio.
+- **Temporada del espeto:** las sardinas están en su punto de mayo a septiembre. Fuera de temporada, mejor fritura, almejas o conchas finas.
+- **Reservar:** en los chiringuitos no se suele reservar; ve antes de las 13:30 en fin de semana. En las tabernas del centro, los viernes y sábados por la noche, sí.
 
 ## Reglas para no fallar
 

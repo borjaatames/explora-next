@@ -4,7 +4,7 @@ descripcion: 'Cómo visitar la Alhambra de Granada: qué visita elegir según tu
 categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
@@ -53,6 +53,21 @@ La Alhambra es el monumento más visitado de España, y sus entradas se agotan c
 - **Entiendes lo que ves.** Los poemas grabados en las paredes, la geometría de los azulejos y la historia de cada sala se pierden sin explicación.
 - **No te la juegas con falsos guías.** En Plaza Nueva ofrecen «tour Alhambra» sin acreditación.
 
+## Precios oficiales y cuándo reservar
+
+Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
+
+| Entrada | Precio | Qué incluye |
+| --- | --- | --- |
+| Alhambra General (diurna) | 22,27 € | Palacios Nazaríes, Alcazaba, Generalife y Palacio de Carlos V |
+| Jardines y Generalife | 12,73 € | Todo menos los Palacios Nazaríes |
+| Nocturna Palacios Nazaríes | 12,73 € | Solo los Nazaríes iluminados, de noche |
+| Dobla de Oro | 30,48 € | Alhambra completa más los monumentos andalusíes del Albaicín |
+
+La inmensa mayoría necesita la **Alhambra General**. Los menores de 12 años entran gratis pero **con ticket nominativo**, que se saca en la misma compra; sin él no entran. Hay descuento para mayores de 65 de la UE, Carnet Joven y discapacidad. **No existe un día gratuito recurrente**: lo de «los miércoles gratis» que circula por internet es falso.
+
+Las entradas se abren **90 días antes** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, en minutos. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. Si está todo agotado, las alternativas reales son una visita guiada con cupo propio (las de la tabla de arriba), la nocturna de los Nazaríes, o hacer cola en taquilla antes de las 8:00 por el cupo del día, que en temporada alta casi nunca alcanza.
+
 ## La regla de oro: la hora de los Nazaríes
 
 Los Palacios Nazaríes tienen una hora de entrada fija y solo hay **30 minutos de margen**. Pasado ese tiempo, no entras. Desde la entrada del recinto hasta los palacios se tardan **entre 30 y 45 minutos** andando, así que hay que llegar con tiempo. Si vas con una visita guiada, el guía organiza el recorrido para no perder la hora.
@@ -66,11 +81,14 @@ Los Palacios Nazaríes tienen una hora de entrada fija y solo hay **30 minutos d
 
 La visita completa lleva **unas 4 horas**.
 
-## Cómo llegar
+## Cómo llegar y horarios
 
-- **Microbús C30 o C32** desde Plaza Isabel la Católica, cada pocos minutos.
+- **Microbús C30 o C32** desde Plaza Isabel la Católica: 1,40 €, cada 8 minutos.
 - **Andando** desde Plaza Nueva por la Cuesta de Gomérez: 25-30 minutos de subida.
-- **Taxi** desde el centro.
+- **Taxi** desde el centro: 8-10 €.
+- **Horario de verano** (1 de abril a 14 de octubre): de 8:30 a 20:00, última entrada a los Nazaríes a las 19:00. **Invierno**: de 8:30 a 18:00, última entrada a las 17:00. Cierra el 25 de diciembre y el 1 de enero.
+- **Visita nocturna:** de martes a sábado en verano (22:00-23:30) y viernes y sábado el resto del año (20:00-21:30).
+- **Mejor hora:** la primera franja de la mañana, con luz lateral en los patios y menos gente; o la última de la tarde en verano, cuando baja el calor.
 
 ## Errores que hay que evitar
 

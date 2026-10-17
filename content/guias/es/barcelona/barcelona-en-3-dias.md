@@ -4,13 +4,13 @@ descripcion: "3 días en Barcelona sin perderse en multitudes: Sagrada Familia, 
 categoria: "barcelona"
 slug: "barcelona-en-3-dias"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-3-dias.jpg"
 imagen_alt: "Vista panorámica de Barcelona al anochecer"
-tiempo_lectura: 16
+tiempo_lectura: 14
 keywords:
   - "barcelona en 3 días"
   - "qué ver en barcelona 3 días"
@@ -145,6 +145,16 @@ El tercer día va por la **Barcelona vieja, marítima y Montjuïc**. Es el más 
 **20:00 — Atardecer desde Montjuïc.** La explanada delante del MNAC tiene una de las mejores vistas de Barcelona en horizontal. En verano (jueves a domingo casi siempre), las **fuentes mágicas** funcionan al anochecer (gratis): consulta la programación oficial porque hay temporadas de mantenimiento.
 
 **22:00 — Bajada a cenar a Sant Antoni o Eixample.** Barcelona a tus pies.
+
+## Precios y horarios de lo imprescindible
+
+- **Sagrada Família:** 26 € con audioguía (36 € con torre), gratis menores de 11; de 9:00 a 20:00 en verano y hasta las 18:00 en invierno. Solo online, por franja; las torres no admiten menores de 6. Exigen hombros cubiertos.
+- **Park Güell:** 18 € la zona monumental (gratis menores de 7), con franja de entrada de 30 minutos; el resto del parque es gratis. Metro Lesseps o Vallcarca y 20 minutos cuesta arriba, o autobús 24 hasta la puerta.
+- **Casa Batlló:** desde 29 € (gratis menores de 12); **La Pedrera**, 28 € (gratis menores de 6); las dos abren de 9:00 a 20:00 y las primeras franjas son las más tranquilas.
+- **Catedral:** 11 € con claustro, terrazas y coro en horario turístico; gratis para el culto a primera hora y última de la tarde. **Santa Maria del Mar:** gratis la nave, 5 € con torres.
+- **Picasso:** 14 € (gratis menores de 18 y los jueves por la tarde y el primer domingo de mes), cierra los lunes. **MNAC:** 12 €, gratis sábados desde las 15:00 y primer domingo de mes; cierra los lunes.
+- **Fuente Mágica de Montjuïc:** gratis, espectáculo de jueves a sábado por la noche (de viernes a domingo en verano); comprueba el calendario, cierra por sequía y mantenimiento varios meses al año.
+- **Transporte:** T-casual de 10 viajes, 12,15 € (vale para metro, bus, tranvía y Cercanías de la zona 1); el Aerobús del aeropuerto, 7,25 €. Menores de 4 gratis. El metro cierra a medianoche entre semana, a las 2:00 los viernes y no cierra los sábados.
 
 ## Lo que NO recomendamos
 

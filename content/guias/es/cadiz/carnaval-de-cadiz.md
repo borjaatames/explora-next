@@ -4,13 +4,13 @@ descripcion: "Guía del Carnaval de Cádiz: cuándo es, el concurso del Falla, c
 categoria: "cadiz"
 slug: "carnaval-de-cadiz"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-04-29"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
 imagen_alt: "Plaza de España de Cádiz, escenario de la vida en la calle"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "carnaval de cádiz"
   - "chirigotas cádiz"
@@ -54,6 +54,16 @@ Es el alma de la fiesta: grupos espontáneos ("ilegales") cantando coplas por el
 2. **Cállate y escucha las coplas.** El chiste y la letra son lo que importa; síguelos.
 3. **Ve al casco antiguo** (La Viña, Catedral, Pópulo): ahí está el carnaval de la calle.
 4. **Prepárate para el gentío** y para la noche larga.
+
+## Lo práctico: fechas, transporte y qué esperar
+
+- **Fechas:** el Carnaval cambia cada año porque depende de la Semana Santa; empieza siempre 10 días antes del Miércoles de Ceniza y termina el domingo siguiente. En 2027 arranca a mediados de febrero. Las fechas oficiales se publican con un año de antelación en la web del Ayuntamiento.
+- **Lo que hay que ver sí o sí:** el **Carrusel de Coros** del primer domingo por la mañana (las carrozas por la Plaza de las Flores y el mercado) y la **Cabalgata** de ese mismo domingo por la tarde. Las agrupaciones del Falla cantan después por las calles, gratis, los días de entre semana.
+- **Llegar:** en tren de Cercanías desde Jerez (45 minutos), El Puerto (35) y San Fernando (15), con servicios reforzados y nocturnos los fines de semana grandes. En coche, olvídalo: cierran los accesos al casco y se aparca extramuros, en los aparcamientos de Puerta de Tierra o la Zona Franca.
+- **Comer:** en La Viña, tortillitas de camarones y pescaíto en las freidurías, de pie y en cucurucho (8-12 € por persona). Los bares venden cerveza para la calle; no hace falta entrar.
+- **Baños:** escasos. El Ayuntamiento pone urinarios públicos los fines de semana, pero las colas son largas. Planifica.
+- **Seguridad:** es una fiesta familiar y tranquila de día; de noche, gentío y algún carterista. Lleva poco encima y el móvil guardado.
+- **Con niños:** por la mañana y la primera parte de la tarde, perfecto; disfrazados, mejor.
 
 ## Dónde alojarte
 

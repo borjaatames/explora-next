@@ -4,13 +4,13 @@ descripcion: "Cómo aprovechar al máximo un día en Barcelona desde Madrid en A
 categoria: "barcelona"
 slug: "barcelona-en-1-dia"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-1-dia.jpg"
 imagen_alt: "Plaza del Barrio Gótico de Barcelona"
-tiempo_lectura: 13
+tiempo_lectura: 11
 keywords:
   - "barcelona en 1 día"
   - "barcelona desde madrid"
@@ -144,6 +144,16 @@ Andas desde Park Güell unos **20 minutos cuesta arriba** o coges taxi (5-7 €)
 > **⭐ Tip:** llega 30-45 minutos antes del atardecer (consulta la hora exacta del día — varía mucho según estación). Lleva agua, una cerveza y un bocata: arriba no hay bar ni baños. Hace viento, sobre todo en otoño-invierno: una capa.
 
 > **⚠️ Aviso:** los vecinos de la zona han pedido que los visitantes no hagan botellón ni dejen basura. Sin escándalo. La zona es residencial. Y si vienes con problemas de movilidad, no es para ti: es subida fuerte.
+
+## Precios y horarios para un solo día
+
+- **Sagrada Família:** 26 € con audioguía, reserva online imprescindible con días de antelación; la primera franja de las 9:00 es la mejor. Metro Sagrada Família (L2 y L5) desde Sants en 15 minutos.
+- **Casa Batlló:** desde 29 €, de 9:00 a 20:00; la fachada se ve gratis desde el Passeig de Gràcia y, para un día, puede bastar. **La Pedrera:** 28 €.
+- **Park Güell:** 18 €, con franja; queda lejos y en cuesta: en un día exprés, solo si entra en la primera franja de la mañana o la última de la tarde. Taxi desde la Sagrada Família, 10-12 €.
+- **Catedral y Gòtic:** la catedral cuesta 11 € en horario turístico y es gratis a primera hora para el culto; el barrio y la plaza del Rei, gratis. **Santa Maria del Mar**, gratis.
+- **Transporte:** T-casual de 10 viajes (12,15 €), compartible; metro de Sants a Plaça de Catalunya en 7 minutos. El Hola BCN de 1 día (17,50 €) solo compensa si haces más de seis viajes.
+- **Trenes:** el AVE Madrid-Barcelona tarda 2 h 30; el primero sale de Atocha a las 6:00-6:30 y el último de vuelta de Sants sobre las 21:00-21:30. Con billete flexible puedes cambiar a uno anterior si acabas antes. Las consignas de Sants cuestan 6-8 € el día y hay en el propio vestíbulo.
+- **Comer sin perder tiempo:** los bares del Mercado de la Boqueria (antes de las 13:00) o la Barceloneta a las 14:00; evita las terrazas de la Rambla y la plaza Reial.
 
 ## Lo que se puede saltar en una visita exprés
 

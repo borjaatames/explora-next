@@ -4,11 +4,11 @@ descripcion: 'Guía de Tenerife: el Teide, La Laguna, La Orotava, Garachico, Mas
 categoria: tenerife
 slug: que-ver-en-tenerife
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 5
 keywords:
 - qué ver en tenerife
 - tenerife en 5 días
@@ -67,9 +67,14 @@ La carretera a **Masca** es una de las más espectaculares de Canarias. Desde el
 
 **Costa Adeje, Las Américas y Los Cristianos** concentran playas, hoteles y la mayoría de salidas en barco. Entre Tenerife y La Gomera viven **calderones y delfines** todo el año, así que el avistamiento es casi seguro. Lee nuestra [guía para ver ballenas en Tenerife](/guias/tenerife/avistamiento-ballenas-tenerife). Para familias, **Siam Park** es uno de los mejores parques acuáticos de Europa.
 
-## Cómo moverte
+## Lo práctico: coche, distancias y precios
 
-Las **guaguas de TITSA** conectan bien Santa Cruz, La Laguna, el norte y el sur, y hay dos aeropuertos (Tenerife Norte y Tenerife Sur). Para el Teide, Masca y Anaga, **alquila coche** o reserva excursión: las carreteras de montaña son lentas y el aparcamiento en el Teide escasea.
+- **Alquilar coche:** imprescindible para el Teide, Masca y Anaga. Reserva con semanas en verano y Navidad; hay compañías locales (Cicar, AutoReisen) sin franquicia ni sorpresas. Un coche pequeño basta y aparca mejor en Masca y La Laguna.
+- **Distancias reales:** de Costa Adeje al Teide, 1 h 45; a Masca, 50 minutos (de ellos, 20 de curvas estrechas); a La Laguna, 1 hora por la autopista del sur; a Garachico, 1 h 15. Del norte al Teide, 1 hora desde Puerto de la Cruz. Anaga desde La Laguna, 40 minutos hasta Cruz del Carmen.
+- **Guaguas TITSA:** desde Santa Cruz y La Laguna cubren bien el norte (líneas 101, 102 al Puerto de la Cruz); al sur, la 110 y 111 desde Santa Cruz a Costa Adeje y Los Cristianos (1 hora, 10 €). La línea 348 sube al Teide desde el Puerto de la Cruz una vez al día (sale a las 9:30 y vuelve a las 16:00). Con la tarjeta Ten+ (2 €), todos los viajes salen un 30-50 % más baratos.
+- **Precios de lo esencial:** teleférico del Teide, unos 42 € ida y vuelta; Loro Parque, 42 € adulto; Siam Park, 42 €; combinadas Loro más Siam, 70 €. Masca, Garachico, La Laguna y Anaga, gratis.
+- **Masca:** desde 2021 el barranco se baja solo con reserva previa gratuita y aforo limitado; el pueblo se visita libremente, pero el aparcamiento tiene 30 plazas y se llena a las 10:00. La vuelta en barco desde la playa hasta Los Gigantes cuesta 15-20 €.
+- **Clima en dos islas:** el sur es seco y soleado todo el año; el norte, verde y con nubes bajas muchas mañanas. Si vienes a sol y playa, duerme en el sur; si vienes a ver la isla, el norte queda más cerca de todo.
 
 ## Dónde alojarse
 

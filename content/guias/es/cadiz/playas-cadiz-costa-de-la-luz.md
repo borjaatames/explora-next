@@ -4,13 +4,13 @@ descripcion: "Las mejores playas de Cádiz y la Costa de la Luz: La Caleta, La V
 categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
 fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/playas-cadiz-costa-de-la-luz.jpg"
 imagen_alt: "Playa y faro en la Costa de la Luz, Cádiz"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "playas de cádiz"
   - "costa de la luz"
@@ -54,6 +54,16 @@ La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor 
 - **El Palmar.** La playa del **surf**, ancha y de atardeceres famosos.
 - **La Barrosa (Chiclana).** Larguísima y familiar, con servicios.
 - **Tarifa (Los Lances, Valdevaqueros).** El paraíso del **viento**: kite y windsurf, con África al fondo.
+
+## Lo práctico: cómo llegar, mareas y servicios
+
+- **Desde Cádiz capital:** La Caleta, La Victoria y Santa María del Mar se hacen andando o en los autobuses 1 y 7; Cortadura, en el 1. A las playas de la provincia no hay transporte público práctico: coche o excursión. Bolonia y Zahara están a 1 h 15; Los Caños y El Palmar, a 1 hora; La Barrosa, a 30 minutos; Tarifa, a 1 h 30.
+- **Aparcar en las playas vírgenes:** Bolonia tiene un aparcamiento pequeño que se llena a las 11:00 en agosto; después, solo se puede entrar cuando sale alguien. En Los Caños y El Palmar, aparcamientos privados a 5-8 € el día. Nunca en el arcén: multan a diario.
+- **Mareas:** el Atlántico tiene 2-3 metros de diferencia entre pleamar y bajamar. Con marea baja, La Caleta y Bolonia doblan de tamaño y aparecen las piscinas naturales; con marea alta, en Los Caños no queda arena en algunas calas. Mira la tabla de mareas del día antes de salir.
+- **Agua:** 18-20 °C en junio, 21-23 °C en agosto y septiembre. Octubre es el mes secreto: agua templada, playas vacías y poco levante.
+- **Baelo Claudia (Bolonia):** la ciudad romana está en la misma playa. Entrada gratuita para ciudadanos de la UE, 1,50 € para el resto; cierra los lunes y por las tardes en verano a partir de las 15:00.
+- **Chiringuitos:** en Zahara, Los Caños y El Palmar los hay (atún de almadraba en Zahara, de mayo a junio); en Bolonia, pocos y sencillos; en Cortadura y las playas de Tarifa, ninguno en tramos largos. Lleva agua y sombra.
+- **Banderas:** el Atlántico tiene corrientes de resaca. Bandera amarilla es frecuente y no es decorativa; con niños, playas con socorrista (La Victoria, La Barrosa, Zahara).
 
 ## El factor levante
 

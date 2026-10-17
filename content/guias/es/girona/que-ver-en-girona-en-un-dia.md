@@ -4,7 +4,7 @@ descripcion: 'Guía de Girona en un día: catedral, El Call, casas del Oñar y l
 categoria: girona
 slug: que-ver-en-girona-en-un-dia
 fecha: '2026-04-25'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
@@ -32,6 +32,14 @@ slugs:
 | Girona y Costa Brava | [Girona, Costa Brava y pueblos medievales](/ciudades/girona/actividades/girona-costa-brava-pueblos-medievales), 5,0★ (228) | 89 € |
 | Desde Barcelona con Dalí | [Girona, Figueres, Dalí y Cadaqués](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |
 
+## Cómo llegar y cuándo ir
+
+- **En tren desde Barcelona:** AVE o Avant desde Sants en 38 minutos, con frecuencias toda la mañana; el regional tarda 1 h 20 y cuesta la mitad. La estación está a 15 minutos andando del casco antiguo.
+- **En coche:** no entres al Barri Vell, es peatonal y de cuestas. Aparca en el parking de la Devesa o en el de la estación y cruza el río.
+- **Entradas que conviene saber:** la Catedral y Sant Feliu se visitan con una entrada conjunta (unos 7,50 €, con audioguía incluida); la muralla y los Baños Árabes son casi gratis, y El Call es un barrio abierto. El Museo de Historia de los Judíos cuesta 4 €.
+- **Mejor época:** de abril a junio y de septiembre a octubre. En **Temps de Flors** (mediados de mayo, nueve días) los patios y monumentos se cubren de flores: precioso, pero la ciudad se masifica y los hoteles se agotan con semanas. En invierno no hay colas y la catedral se ve con calma.
+- **Fiestas de Sant Narcís** (finales de octubre): barracas, conciertos y ambiente local, sin la saturación de mayo.
+
 ## La ruta de un día
 
 | Hora | Parada |
@@ -53,9 +61,12 @@ Busca cocina del Empordà en el Barri Vell, una calle hacia dentro de la Rambla 
 
 ## Errores a evitar
 
-1. **Verla en media hora:** Girona pide el día entero.
-2. **No entrar en la catedral:** la nave y el tapiz justifican la entrada.
-3. **Irse antes del atardecer:** la luz sobre el Onyar y la muralla es lo mejor del día.
-4. **Venir en Temps de Flors (mediados de mayo) sin reservar:** la ciudad se llena.
+1. **Tratarla como una parada de media hora** entre Barcelona y la Costa Brava: Girona pide el día entero.
+2. **No entrar en la catedral:** la nave gótica, la más ancha del mundo, y el Tapiz de la Creación justifican la entrada.
+3. **Comer en la primera terraza de la Rambla:** una calle hacia dentro mejora la comida y baja el precio.
+4. **Saltarse la muralla:** es el mejor mirador y casi nadie sube. Mejor con la luz del atardecer.
+5. **Venir solo a por las fotos de Juego de Tronos:** la ciudad es mucho más que un plató.
+6. **Venir en Temps de Flors sin reservar:** hotel y restaurantes se llenan.
 
 Si te sobra tiempo, mira las [escapadas a la Costa Brava desde Girona](/guias/girona/escapadas-costa-brava-desde-girona).
+

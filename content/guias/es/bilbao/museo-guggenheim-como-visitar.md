@@ -4,13 +4,13 @@ descripcion: "Guía para visitar el Guggenheim de Bilbao: entradas y horarios, q
 categoria: "bilbao"
 slug: "museo-guggenheim-como-visitar"
 fecha: "2026-03-24"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
 imagen_alt: "Museo Guggenheim de Bilbao junto a la ría del Nervión"
-tiempo_lectura: 11
+tiempo_lectura: 3
 keywords:
   - "museo guggenheim bilbao"
   - "guggenheim entradas"
@@ -57,14 +57,12 @@ Calcula **2-2,5 horas** dentro. La audioguía va incluida y merece la pena.
 
 ## Entradas y horarios
 
-| Dato | Detalle |
-| --- | --- |
-| Entrada | Adultos de pago; **menores de 18 años, gratis** |
-| Audioguía | Incluida en la entrada |
-| Reserva | Online recomendada para evitar colas |
-| Cierre | Lunes (salvo agosto y festivos, abierto a diario) |
-
-> **⚠️ Aviso:** en temporada alta y fines de semana hay colas en taquilla. Compra la entrada **online** con franja horaria y entra directo.
+- **Entrada general:** 18 € (incluye audioguía); reducida para estudiantes y mayores de 65; **menores de 18, gratis**. Se compra online con franja horaria y entras sin cola; la taquilla funciona, pero en temporada tiene espera.
+- **Horario:** de martes a domingo de 10:00 a 19:00, hasta las 20:00 en verano. **Cierra los lunes** salvo en julio, agosto y puentes; el 25 de diciembre y el 1 de enero siempre.
+- **Mejor momento:** a primera hora de la mañana entre semana, o a partir de las 17:00; los sábados a mediodía es cuando más gente hay.
+- **Consigna:** gratuita y obligatoria para mochilas y paraguas. Se puede entrar con carrito de bebé.
+- **La niebla y el fuego:** la escultura de niebla de Nakaya se activa a horas fijas (consúltalas en el mostrador, suelen ser cada hora) y la fuente de fuego de Klein se enciende al anochecer. Sal a verlas desde la pasarela de la ría.
+- **Cómo llegar:** metro Moyua (L1 y L2) y 7 minutos a pie, o tranvía con parada Guggenheim en la puerta. Desde el Casco Viejo, 20 minutos andando por la ría.
 
 ## Cómo combinarlo
 

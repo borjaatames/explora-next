@@ -4,11 +4,11 @@ descripcion: "Guía de los Patios de Córdoba: qué es la Fiesta de los Patios (
 categoria: "cordoba"
 slug: "patios-de-cordoba"
 fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "patios de córdoba"
   - "fiesta de los patios"
@@ -49,6 +49,16 @@ Durante unas **dos semanas de mayo**, decenas de casas de los barrios histórico
 ## Fuera de temporada: el Palacio de Viana
 
 Si no vienes en mayo, no te quedas sin patios. El **Palacio de Viana** reúne **doce patios** distintos (y un jardín) y abre **todo el año**: es la mejor forma de entender la arquitectura del patio cordobés con calma. Además, algunas casas de San Basilio mantienen patios abiertos fuera del festival (entrada simbólica).
+
+## Lo práctico: horarios, precios y cómo organizarte
+
+- **Horario del festival:** los patios abren de 11:00 a 14:00 y de 18:00 a 22:00, de lunes a domingo, durante las dos semanas. Entre las 14:00 y las 18:00 todo está cerrado: aprovecha para comer y descansar.
+- **Es gratis** pero hay una hucha a la entrada de cada patio; 1-2 € por casa es lo habitual y lo que mantiene las macetas el resto del año.
+- **Palacio de Viana:** 12 € la visita completa (casa y patios) y 7 € solo los patios. Abre de martes a sábado de 10:00 a 19:00 y domingos solo por la mañana; cierra los lunes. En julio y agosto, solo mañanas.
+- **Patios todo el año en San Basilio:** la asociación de vecinos abre cinco o seis patios de la calle San Basilio y alrededores por 5-6 €, de octubre a abril, y mantiene los horarios del festival en mayo.
+- **Mayo entero es fiesta en Córdoba:** las Cruces de Mayo la primera semana, los Patios las dos siguientes y la Feria la última. Los precios de hotel se triplican y los restaurantes del centro se llenan; reserva mesa.
+- **Calor:** en mayo se superan los 30 °C a mediodía; en junio, los 40. Agua, gorra y la visita a primera hora.
+- **Fotos:** permitidas sin flash y sin trípode; los vecinos están dentro y suelen explicar las plantas si preguntas.
 
 ## Cómo organizarte
 

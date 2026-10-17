@@ -4,13 +4,13 @@ descripcion: "Granada en 2 días con criterio: Alhambra, Albaicín, Sacromonte, 
 categoria: "granada"
 slug: "granada-en-2-dias"
 fecha: "2026-05-19"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"
 imagen_alt: "Edificio nazarí de la Alhambra de Granada con la sierra de fondo"
-tiempo_lectura: 14
+tiempo_lectura: 16
 keywords:
   - "granada en 2 días"
   - "qué ver en granada"
@@ -153,6 +153,16 @@ Bus 8 desde Gran Vía (15 minutos, 1,40 €) o 30 minutos andando cuesta arriba 
 **18:30 — 23:00 | Última tarde y cena**
 
 Paseo sin rumbo por **Plaza Nueva, calle Elvira y Pasaje de las Flores** — Granada por la tarde tiene una luz dorada que cambia los muros del Albaicín. Para la cena, recomendamos saltar el formato tapeo: **Restaurante Damasqueros** (Damasqueros, 3, Realejo) hace cocina granadina contemporánea con menú degustación de 45-55 €; **Carmen Mirador de Aixa** (Carril de San Agustín, 2) es un carmen tradicional con vistas a la Alhambra iluminada, caro (60-80 €) pero es una experiencia. Cierre dulce: un **pionono** en **Casa Ysla** (Acera del Casino, 5).
+
+## Precios y horarios de lo imprescindible
+
+- **Alhambra:** 22,27 € la entrada general, con hora fija para los Palacios Nazaríes y 30 minutos de margen; entradas con 90 días de antelación en `tickets.alhambra-patronato.es` y agotadas en temporada. Menores de 12 gratis pero con ticket; DNI obligatorio. De 8:30 a 20:00 en verano y hasta las 18:00 en invierno. Microbús C30 y C32 desde Plaza Isabel la Católica, 1,40 €. Todo el detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
+- **Capilla Real:** 7 € (incluye audioguía), con los sepulcros de los Reyes Católicos; de 10:00 a 18:30, domingos desde las 11:00. **Catedral:** 7 €, misma empresa; hay entrada combinada.
+- **Monasterio de la Cartuja:** 7 €, de 10:00 a 18:00 (20:00 en verano); la sacristía barroca justifica el autobús (línea U3 o N7, 15 minutos).
+- **Monasterio de San Jerónimo:** 6 €, el mejor retablo renacentista de la ciudad y casi sin turistas.
+- **Bañuelo, Casa Horno de Oro, Dar al-Horra y Palacio de los Córdova:** entrada conjunta 5 € o gratis los domingos; son los monumentos andalusíes del Albaicín que incluye la Dobla de Oro.
+- **Mirador de San Nicolás:** gratis; el atardecer se llena una hora antes. El mirador de San Miguel Alto, 10 minutos más arriba, tiene la misma vista y la mitad de gente.
+- **Transporte:** autobús urbano 1,40 €; la tarjeta Credibús (5 € de recarga mínima) baja el viaje a 0,87 €. Los microbuses C31 y C32 suben al Albaicín y al Sacromonte desde Plaza Nueva. El metro ligero une la estación de tren y de autobuses con el centro (Recogidas) en 15 minutos.
 
 ## Dónde dormir en Granada
 

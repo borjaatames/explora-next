@@ -4,11 +4,11 @@ descripcion: "Qué ver en Córdoba en un día: Mezquita-Catedral, Judería, Alc�
 categoria: "cordoba"
 slug: "cordoba-en-un-dia"
 fecha: "2026-03-20"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 7
 keywords:
   - "córdoba en un día"
   - "qué ver en córdoba"
@@ -85,6 +85,16 @@ Córdoba está en plena línea de **alta velocidad**, lo que la hace perfecta pa
 **14:00 — Comida.** Prueba el **salmorejo** (crema fría de tomate más espesa que el gazpacho), el **rabo de toro** y las **berenjenas con miel de caña** en una taberna del centro, lejos de la primera línea de la Mezquita. Un fino o un montilla-moriles bien fríos acompañan de maravilla.
 
 **16:30 — Patios o Medina Azahara.** Si es temporada (sobre todo mayo), visita los **patios** del Palacio de Viana, que reúne doce de los más bonitos. Si tienes medio día más o vienes en primavera, la excursión a [Medina Azahara](/ciudades/cordoba/actividades/medina-azahara-tour-guiado-3-horas) —la ciudad palatina del califa Abderramán III, Patrimonio de la Humanidad, a las afueras— es de lo más recomendable y la gran olvidada del turista de día.
+
+## Precios y horarios de lo imprescindible
+
+- **Mezquita-Catedral:** 15 € (8 € de 10 a 14 años, gratis menores de 10), de lunes a sábado de 10:00 a 19:00 y domingos de 8:30 a 11:30 y de 15:00 a 19:00. **Gratis de lunes a sábado de 8:30 a 9:30** para visitantes individuales, por orden de llegada. La torre, 3 € en turnos de media hora.
+- **Alcázar de los Reyes Cristianos:** 5 € (gratis menores de 14), de martes a domingo desde las 8:15; cierra los lunes y las tardes de domingo. En verano, los jardines se visitan de noche con espectáculo de luces (unos 10 €).
+- **Sinagoga:** gratis para ciudadanos de la UE, 0,30 € el resto; cierra los lunes. Es diminuta: 15 minutos.
+- **Torre de la Calahorra:** 4,50 €, con el museo de las tres culturas y la mejor vista de la Mezquita desde la azotea; abre todos los días de 10:00 a 18:00 (19:00 en verano).
+- **Palacio de Viana:** 12 € casa y patios, 7 € solo patios; de martes a sábado de 10:00 a 19:00, domingos por la mañana, cierra los lunes.
+- **Medina Azahara:** entrada gratuita para la UE (1,50 € el resto), cierra los lunes. Está a 8 km: el autobús turístico sale de la Glorieta Hospital Cruz Roja a las 10:15 y 11:00 (y 16:30 fuera del verano) por 9 € ida y vuelta, con 2 h 30 de visita. En coche se aparca en el museo y se sube en lanzadera (2,50 €).
+- **Baños Califales** (junto al Alcázar): 3 €, gratis para la UE los jueves por la tarde. Si no llegas a Medina Azahara, son el complemento perfecto en 30 minutos.
 
 ## Dónde dormir
 

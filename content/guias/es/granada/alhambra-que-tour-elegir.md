@@ -19,6 +19,7 @@ slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
+tiempo_lectura: 3
 ---
 
 Si has buscado "tour Alhambra" habrás visto media docena de resultados con nombres distintos —"sin colas", "con entradas incluidas", "en grupo reducido", "sin esperas"— y precios que van de 50€ a 96€. La mala noticia: la mayoría son literalmente el mismo tour. La buena noticia: en dos minutos sabes cuál te conviene.
@@ -49,3 +50,14 @@ Estas seis fichas describen el mismo recorrido — Alcazaba, Palacios Nazaríes 
 ## Lo que de verdad importa: reservar con antelación
 
 El cuello de botella real de la Alhambra no es qué tour eliges, es conseguir franja horaria para los Palacios Nazaríes: el acceso está limitado por ley a un número de visitantes por tramo horario, y en temporada alta (Semana Santa, verano, puentes) se agota con semanas de antelación. Reserva en cuanto tengas fecha de viaje decidida, no dejes esta compra para el último momento aunque el resto del itinerario sí sea flexible.
+
+## Lo que debes saber el día de la visita
+
+- **Lleva el DNI o el pasaporte de todos**, niños incluidos: las entradas son nominativas y las comprueban en los Palacios Nazaríes. Sin documento no entras aunque tengas el tour pagado.
+- **Punto de encuentro:** casi todos los tours quedan en la entrada principal del recinto (Pabellón de Acceso, junto al aparcamiento) o en el centro, en Plaza Nueva o Plaza Isabel la Católica, y suben juntos. Léelo en el correo de confirmación: son 25 minutos de cuesta entre un sitio y otro.
+- **Cuánto dura y cuánto se anda:** unas 3 horas y 3-4 km, con cuestas y escaleras. Calzado cómodo, agua y gorra; dentro solo hay una cafetería y una fuente.
+- **Mochilas y carritos:** no se permite entrar con mochilas de más de 40×40 cm ni con carritos de bebé en los Nazaríes; hay consigna gratuita en la entrada y mochilas portabebés en préstamo.
+- **Después del tour puedes quedarte:** la entrada general sirve para todo el día. Si el guía acaba en el Generalife, vuelve a la Alcazaba o a los jardines del Partal con calma.
+- **Nocturna:** si has elegido la visita nocturna, solo se ven los Nazaríes iluminados, no la Alcazaba ni el Generalife. Es la mejor opción si no hay entradas de día o en pleno agosto.
+- **Entrada gratuita o casi:** los menores de 12 no pagan pero necesitan ticket; con la Dobla de Oro (30,48 €) ves también el Bañuelo y las casas árabes del Albaicín durante tres días.
+

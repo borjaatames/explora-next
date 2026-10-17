@@ -4,13 +4,13 @@ descripcion: "Qué ver en Cádiz en un día: Catedral, Torre Tavira, barrio del 
 categoria: "cadiz"
 slug: "cadiz-en-un-dia"
 fecha: "2026-04-18"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
 imagen_alt: "Monumento a la Constitución de 1812 en la Plaza de España de Cádiz"
-tiempo_lectura: 11
+tiempo_lectura: 6
 keywords:
   - "qué ver en cádiz"
   - "cádiz en un día"
@@ -76,6 +76,17 @@ La clave de Cádiz no es un monumento, es la **luz** y el **mar por los cuatro c
 **14:00 — Comida.** Hora del pescaíto (ver abajo).
 
 **16:30 — La Caleta.** Termina en la **playa de La Caleta**, la cala entre los castillos de **San Sebastián** y **Santa Catalina** (la "Habana" de la película de James Bond *Muere otro día*). El atardecer aquí, con el balneario de la Palma y el sol cayendo en el Atlántico, es la mejor postal de Cádiz.
+
+## Precios y horarios de lo imprescindible
+
+- **Catedral:** 8 € con audioguía, torre del Reloj y museo incluidos (6 € reducida, gratis menores de 12). De lunes a sábado de 10:00 a 19:00 (hasta las 20:00 en verano) y domingos por la tarde. La subida a la torre es por rampa, sin escaleras.
+- **Torre Tavira:** 8 €, con sesiones de la cámara oscura cada 30 minutos de 10:00 a 18:00 (20:00 en verano); las explica un guía y duran 20 minutos. Son 173 escalones sin ascensor.
+- **Teatro Romano:** gratis, de martes a domingo por la mañana; cierra los lunes.
+- **Museo de Cádiz** (plaza de Mina): gratis para ciudadanos de la UE, 1,50 € el resto; cierra los lunes y las tardes de verano. Los sarcófagos fenicios están en la planta baja.
+- **Castillo de Santa Catalina:** gratis, abierto de 11:00 a 20:30 (hasta las 21:30 en verano). El de San Sebastián, al final del paseo de La Caleta, solo se visita por fuera.
+- **Mercado Central:** de lunes a sábado de 9:00 a 15:00; el Rincón Gastronómico sigue hasta las 23:00 de jueves a sábado. Tortillitas de camarones en los puestos del fondo.
+- **Oratorio de la Santa Cueva** (los Goya) y **Oratorio de San Felipe Neri** (la Constitución de 1812): 4-5 € cada uno, mañanas de martes a domingo.
+- **Llegar y moverse:** desde Sevilla, tren en 1 h 40 (Media Distancia, 16 €) hasta la estación, que está en el propio casco antiguo. Todo lo de esta ruta se hace andando; el casco mide 2 km de punta a punta.
 
 ## Dónde dormir
 

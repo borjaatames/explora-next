@@ -4,13 +4,13 @@ descripcion: "Qué ver en Bilbao en un día: Museo Guggenheim, Casco Viejo, Merc
 categoria: "bilbao"
 slug: "bilbao-en-un-dia"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
 imagen_alt: "Vista de Bilbao con el Museo Guggenheim junto a la ría"
-tiempo_lectura: 11
+tiempo_lectura: 6
 keywords:
   - "qué ver en bilbao"
   - "bilbao en un día"
@@ -75,6 +75,16 @@ La gracia de Bilbao es el contraste: el titanio futurista de Gehry a un lado de 
 **16:30 — Mercado y Ensanche.** Asómate al **Mercado de la Ribera**, de los mayores mercados cubiertos de Europa, y cruza al **Ensanche** (la Gran Vía, la Plaza Moyúa y el centro cultural **Azkuna Zentroa** de Philippe Starck).
 
 **18:00 — Artxanda.** Sube en el **funicular de Artxanda** para la mejor panorámica de Bilbao encajado entre montañas, ideal al atardecer.
+
+## Precios y horarios de lo imprescindible
+
+- **Guggenheim:** 18 € con audioguía, menores de 18 gratis; de martes a domingo de 10:00 a 19:00 (20:00 en verano), **cierra los lunes** salvo en julio y agosto. Compra online con franja; en temporada, la taquilla tiene cola. Las esculturas de fuera (Puppy, Maman, la niebla y el fuego al anochecer) son gratis.
+- **Funicular de Artxanda:** 2,50 € el trayecto, cada 15 minutos de 7:15 a 22:00 (23:00 en verano). Arriba hay mirador, parque y un par de restaurantes para cenar con vistas.
+- **Mercado de la Ribera:** de lunes a sábado por la mañana, de 8:00 a 14:30; los puestos de pintxos y la gastroteca de la planta baja siguen hasta las 23:00 de jueves a sábado y abren los domingos.
+- **Azkuna Zentroa:** la entrada al edificio y al atrio de las 43 columnas es gratuita; la piscina con suelo de cristal se ve desde abajo sin pagar.
+- **Catedral de Santiago:** 6 € con audioguía y claustro, gratis para rezar fuera del horario turístico.
+- **Museo de Bellas Artes:** gratis para menores de 25 y para todos a partir de las 18:00 (consúltalo, cambia con las obras de ampliación); cierra los martes.
+- **Barik:** la tarjeta de transporte (3 €) sirve para metro, tranvía, autobús y funicular, y baja cada viaje de 1,90 € a 0,90-1,30 €. Se comparte entre varias personas.
 
 ## Alrededores
 

@@ -4,11 +4,11 @@ descripcion: "Guía de Málaga con niños: playas, Alcazaba, Bioparc Fuengirola,
 categoria: "malaga"
 slug: "malaga-con-ninos"
 fecha: "2026-04-01"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "málaga con niños"
   - "málaga en familia"
@@ -54,6 +54,15 @@ La clave es alternar: una mañana de castillo o casco histórico en dosis cortas
 **Teleférico de Benalmádena.** A 20 minutos, sube al monte Calamorro con vistas espectaculares y exhibiciones de aves rapaces arriba. Muy fotogénico.
 
 **Museos para peques.** El **Museo Alborania** (mar y barcos), **Principia** (ciencia interactiva) y el **OXO Museo del Videojuego** funcionan muy bien a partir de 5-6 años.
+
+## Lo práctico: precios, transporte y horarios
+
+- **Alcazaba y Gibralfaro:** entrada conjunta 5,50 € (3,50 € cada uno por separado), gratis menores de 16 y **gratis para todos los domingos a partir de las 14:00**. Al castillo de Gibralfaro sube el **autobús 35** desde la Alameda (cada 45 minutos); bajar andando por el paseo de Don Juan Temboury son 20 minutos agradables con vistas.
+- **Bioparc Fuengirola:** 27-29 € adultos y 20-22 € niños de 3 a 9 años online (más caro en taquilla); menores de 3, gratis. Cercanías C-1 desde María Zambrano o Centro-Alameda hasta Fuengirola (45 minutos, 3,60 €) y 10 minutos andando. Abre a las 10:00; en verano cierra de noche, con horario especial.
+- **Teleférico de Benalmádena:** unos 18 € ida y vuelta por adulto y 13 € por niño; Cercanías hasta Arroyo de la Miel y 10 minutos andando. Las exhibiciones de rapaces son a horas fijas (consúltalas al comprar).
+- **Playas:** La Malagueta tiene socorrista, duchas, zona infantil y chiringuitos; el agua está a 18 °C en mayo y a 24 °C en agosto. Pedregalejo es más tranquila y con menos oleaje para los peques.
+- **Moverse:** el centro es peatonal y llano, bien para carritos. Los autobuses de la EMT cuestan 1,40 € y los niños menores de 4 no pagan. Hay un Cercanías al aeropuerto en 12 minutos.
+- **Farmacias y calor:** las de guardia están señaladas en cada farmacia; en verano, de 14:00 a 18:00 el centro es un horno para los niños pequeños. Playa o museo a esas horas.
 
 ## Ruta de fin de semana en familia
 

@@ -4,11 +4,11 @@ descripcion: "Guía de Ibiza: Dalt Vila, Es Vedrà, las mejores calas, Formenter
 categoria: "ibiza"
 slug: "que-ver-en-ibiza"
 fecha: "2026-04-03"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 7
 keywords:
   - "qué ver en ibiza"
   - "ibiza en dos días"
@@ -72,6 +72,16 @@ A media hora en ferry (desde el puerto de Ibiza o Playa d'en Bossa), la isla vec
 ## Y la fiesta, si vienes a ello
 
 Si la noche es tu plan, Ibiza tiene las discotecas más famosas del mundo —**Pacha, Amnesia, Ushuaïa, Hï, DC10**— y las fiestas en barco, en su salsa de junio a septiembre. Las entradas vuelan y los precios son altos: compra online y con antelación.
+
+## Precios y horarios de lo imprescindible
+
+- **Dalt Vila:** pasear por las murallas y las callejas es gratis y a cualquier hora. La **catedral** no cobra entrada fuera del culto; el **Museo Arqueológico** (junto a la catedral) cuesta 2,40 €, y el **Castillo-Almudaina**, en lo alto, abre por temporadas. El **Museo de Arte Contemporáneo** (MACE), en el Portal de ses Taules, es gratuito y tiene restos fenicios bajo el suelo de cristal.
+- **Necrópolis de Puig des Molins:** 2,40 €, cierra los lunes. La mayor necrópolis fenicio-púnica del Mediterráneo, a 10 minutos andando de Dalt Vila y casi siempre vacía.
+- **Aparcar en Eivissa:** el casco es peatonal y la zona azul del puerto cuesta 2 € la hora; los aparcamientos subterráneos de Vara de Rey y del puerto, 20-25 € el día. En temporada, deja el coche en el aparcamiento disuasorio de Es Gorg y entra en autobús.
+- **Autobuses:** la línea 3 une Eivissa con San Antonio cada 15-30 minutos (2,50 €); las líneas de playas (Cala Comte, Cala Bassa, Ses Salines) solo de mayo a octubre. El **Discobus** nocturno funciona de junio a septiembre entre la capital, Playa d'en Bossa y San Antonio por 4 €.
+- **Ferry a Formentera:** 30-55 € ida y vuelta, 30 minutos; mira la [guía de Formentera](/guias/ibiza/formentera-desde-ibiza).
+- **Mercadillos:** Las Dalias (San Carlos) los sábados de 10:00 a 20:00 todo el año y también las noches de verano; Punta Arabí (Es Canar) los miércoles de abril a octubre.
+- **Coche de alquiler:** 40-60 € el día en temporada, reservado con semanas. Sin coche, la isla se hace en autobús y barco, pero no las calas del norte ni Es Vedrà.
 
 ## Dónde dormir
 

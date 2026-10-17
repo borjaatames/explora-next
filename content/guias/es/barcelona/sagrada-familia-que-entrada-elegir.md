@@ -19,6 +19,7 @@ slugs:
   es: sagrada-familia-que-entrada-elegir
   en: sagrada-familia-which-ticket-to-choose
   de: sagrada-familia-welches-ticket-waehlen
+tiempo_lectura: 4
 ---
 
 La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres visitar la basílica, hay tres opciones que van de la entrada con audioguía a la subida a una torre. Si quieres combinarla con Park Güell u otros puntos de Barcelona, hay cuatro más — y no todas incluyen lo mismo, así que merece la pena mirar bien qué suma cada una antes de reservar.
@@ -48,6 +49,17 @@ La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres
 - **Quieres Park Güell también, sin gastar el día:** tour guiado combinado (104 €), 4 horas.
 - **Quieres ver Barcelona entera en un día:** la excursión de día completo (129 €).
 - **Quieres todo en privado:** hay dos opciones privadas según si te interesa o no Park Güell — no son intercambiables, revisa bien qué incluye cada una antes de reservar.
+
+## Lo que debes saber antes de ir
+
+- **Entradas oficiales:** la básica con audioguía cuesta 26 € en la web de la Sagrada Família; con torre, 36 €. Los tours de la tabla salen más caros porque añaden guía, grupo reducido o acceso prioritario; compara qué incluye cada uno antes de pagar la diferencia.
+- **Reserva con antelación:** las franjas de mañana se agotan con una o dos semanas en temporada alta, y las torres antes. En taquilla no se venden entradas.
+- **Entrada por franja:** 15 minutos de margen a partir de la hora reservada. Lleva el DNI o pasaporte: las entradas son nominativas y lo piden.
+- **Las dos torres:** la de la Pasión tiene mejores vistas de la ciudad y se baja por una escalera de caracol estrecha de 400 escalones; la del Nacimiento mira a la fachada original de Gaudí. No suben menores de 6 años ni personas con movilidad reducida, y cierran con lluvia o viento.
+- **Vestimenta:** es una basílica en uso. No dejan entrar con hombros descubiertos, tirantes finos, escotes, pantalones o faldas por encima de medio muslo, ni con gorra. En verano, lleva un pañuelo en la mochila.
+- **Mejor hora:** entre las 10:00 y las 12:00 la luz entra por las vidrieras del Nacimiento (verdes y azules); a última hora de la tarde, por las de la Pasión (rojas y naranjas). Si solo puedes una, la tarde.
+- **Cómo llegar:** metro Sagrada Família (L2 y L5), salida en la misma plaza. La entrada de visitantes es por la calle Marina, fachada del Nacimiento.
+- **Cuánto dura:** 1 h 30 el interior con audioguía; 2 h 30 con torre y museo.
 
 ## Cosas a tener en cuenta al reservar
 

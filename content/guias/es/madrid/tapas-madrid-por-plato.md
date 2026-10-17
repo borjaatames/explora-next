@@ -4,13 +4,13 @@ descripcion: "Dónde comer las mejores patatas bravas, bocadillo de calamares, t
 categoria: "madrid"
 slug: "tapas-madrid-por-plato"
 fecha: "2026-08-17"
-fecha_actualizacion: "2026-08-17"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/tapas-madrid-criterio.jpg"
 imagen_alt: "Cortador de jamón ibérico preparando lonchas finas en un bar de Madrid"
-tiempo_lectura: 12
+tiempo_lectura: 13
 keywords:
   - "mejores tapas madrid"
   - "dónde comer patatas bravas madrid"
@@ -39,6 +39,16 @@ No es una lista de "los 50 mejores bares de Madrid". Es lo contrario: para cada 
 | Callos a la madrileña | Malacatín | La Latina (C. de la Ruda, 5) | Callos + su cocido si vas a mediodía |
 | Jamón y embutido | Lhardy | Sol (Carrera de San Jerónimo, 8) | Jamón ibérico en el mostrador, de pie |
 | Croquetas | Casa Julio | Malasaña (C. de la Madera, 37) | Media ración mixta de sabores |
+
+## Cuánto cuesta tapear en Madrid
+
+- **Precios de referencia:** ración de bravas, 5-8 €; bocadillo de calamares, 4-6 € en la Plaza Mayor y 3,50-4,50 € dos calles más allá; pincho de tortilla, 3-4,50 €; ración de torreznos, 7-10 €; callos, 10-14 €; jamón ibérico de bellota, 18-28 € la ración de 100 gramos. Caña, 2-3 €; doble, 3,50-4,50 €; copa de vino de la casa, 3-4 €; vermut de grifo, 3-4 €.
+- **La tapa gratis con la bebida** sigue existiendo, pero cada vez menos en el centro: unas aceitunas, unas patatas fritas o, con suerte, un pincho. En Lavapiés, Chamberí o la zona de Argüelles es más habitual. Si quieres tapa gratis como la de Granada, ve a Granada.
+- **Barra y mesa:** en los clásicos (Casa Labra, Bodega de la Ardosa, Casa Revuelta) se come de pie y rápido; en mesa, cuando la hay, el precio sube un 10-20 % y se espera turno.
+- **Horarios reales:** los bares están llenos de 13:30 a 15:30 y de 21:00 a 23:00; entre las 16:00 y las 20:00 muchos cierran la cocina. Los domingos por la tarde, Madrid tapea de aperitivo en La Latina (Cava Baja) hasta las 17:00 y luego se apaga.
+- **Presupuesto:** una ruta de cuatro o cinco bares con una tapa y una bebida en cada uno, 25-35 € por persona. Con un tour guiado pagas el doble, pero resuelves la noche y te explican lo que comes.
+- **Propina:** no se espera; dejar el cambio o 1-2 € es lo normal. **Pago con tarjeta**, en todos salvo algún clásico que solo acepta efectivo (lo avisan en la puerta).
+- **Reservar:** los bares de tapas, no; los restaurantes con mesa, sí, sobre todo jueves a sábado. En la Cava Baja un viernes a las 21:30 sin reserva es una hora de espera.
 
 ## ¿Dónde comer las mejores patatas bravas de Madrid?
 

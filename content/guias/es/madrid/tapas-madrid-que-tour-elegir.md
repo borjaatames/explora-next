@@ -17,6 +17,7 @@ keywords:
   - "donde hacer ruta de tapas en madrid"
 slugs:
   es: tapas-madrid-que-tour-elegir
+tiempo_lectura: 2
 ---
 
 Madrid tiene tres tours de tapas guiados reservables por separado, todos con degustaciones en varios bares y un guía local — la diferencia está en la zona de la ciudad, la duración y si el tour suma algo más que tapeo.
@@ -35,6 +36,15 @@ Madrid tiene tres tours de tapas guiados reservables por separado, todos con deg
 - **Quieres un broche final con vistas:** tapas y vino con azotea (62 €), termina al atardecer en una azotea de Gran Vía.
 - **Quieres aprovechar para ver el Madrid histórico de paso:** enogastronómica al Viejo Madrid (80 €), la más cara pero suma los principales monumentos del centro al recorrido.
 
-## Cosas a tener en cuenta al reservar
+## Lo que debes saber antes de reservar
 
-Los tres son en grupo con guía local y degustaciones en 3-4 bares distintos. La cancelación gratuita hasta 24 horas antes está incluida en los tres. En fin de semana conviene reservar con unos días de antelación, sobre todo la ruta nocturna.
+- **Se cena, no se picotea:** entre 3 y 4 bares con 6-10 tapas y 3-4 bebidas, es una cena completa. No comas antes y no planees otra cena después.
+- **Horario español:** los tours arrancan entre las 19:00 y las 20:30, cuando los bares todavía están tranquilos, y acaban entre las 22:00 y las 23:00, que es cuando Madrid se sienta a cenar. Si quieres seguir la noche, ya estás en la zona.
+- **Alergias, vegetarianos y sin gluten:** avísalo al reservar, no al llegar. Los tres lo contemplan, pero los bares preparan las raciones con antelación.
+- **Idioma:** la mayoría de salidas son en inglés o bilingües; si quieres grupo en español, compruébalo en la ficha antes de reservar.
+- **Bebida:** incluye vino, caña o vermut en cada parada. Sin alcohol no baja el precio, pero puedes pedir refresco o agua en cada bar.
+- **Punto de encuentro:** siempre en el centro (Plaza Mayor, Sol o La Latina), con el lugar exacto en el correo de confirmación. Llega 10 minutos antes; el grupo no espera.
+- **Propina:** no es obligatoria ni se espera como en otros países; 5-10 € por persona al guía si te ha gustado es lo habitual.
+- **Niños:** admitidos en los tres, pero los menores de 12 suelen aburrirse a la tercera parada. Mejor una noche de adultos.
+- **Lo que no incluye:** el transporte de vuelta. El metro cierra a la 1:30; después, búhos (autobuses nocturnos) desde Cibeles o taxi.
+

@@ -4,11 +4,11 @@ descripcion: "Las mejores calas de Ibiza: Cala Comte, Cala Salada, Cala d'Hort y
 categoria: "ibiza"
 slug: "mejores-calas-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "mejores calas de ibiza"
   - "cala comte"
@@ -55,6 +55,15 @@ La isla es pequeña: el **suroeste** concentra las calas más fotogénicas y los
 **Benirràs (norte).** Famosa por los **tambores al atardecer** de los domingos. Ambiente hippy y puesta de sol con una roca singular ("el dedo de Dios").
 
 **Ses Salines (sur).** La playa de moda, junto al parque natural de las salinas, con beach clubs y aguas claras (gracias a la posidonia).
+
+## Lo práctico: aparcar, llegar y qué cuesta
+
+- **Aparcamientos:** en Cala Comte y Cala Bassa son de pago (5-8 € el día) y se llenan antes de las 11:00 en julio y agosto; en Cala Salada el acceso en coche se corta en verano y hay que dejarlo en San Antonio y subir en autobús lanzadera o andando (25 minutos). Cala d'Hort tiene sitio en el arcén de la carretera de bajada, que se llena a media tarde por el atardecer.
+- **Sin coche:** las líneas de autobús 42 (Cala Comte), 38 (Cala Bassa) y la lanzadera de Cala Salada salen de San Antonio en verano cada 30-60 minutos. Para Benirràs, Cala d'Hort o el norte, hace falta coche o barco.
+- **Beach clubs:** en Cala Jondal, Ses Salines y Cala Bassa las hamacas en primera fila cuestan 40-100 € con consumo mínimo. Las de segunda y tercera fila, 20-30 €, y en la arena pública, gratis.
+- **Chiringuitos de cala:** comer en Cala Mastella (El Bigotes, solo con reserva y solo bullit de peix), Cala Boix o Cala Xarraca sale por 25-40 €; en los de moda, el doble.
+- **Agua y medusas:** el mar está a 25-27 °C de julio a septiembre. Las medusas aparecen con viento de sur; con viento de norte, las calas del sur están planas y las del norte picadas, y al revés.
+- **Es Vedrà de cerca:** el mirador des Savinar (la Torre des Savinar) es un paseo de 20 minutos desde la carretera de Cala d'Hort, por camino de tierra, y tiene mucha menos gente que la cala. Lleva linterna si vas a quedarte al atardecer.
 
 ## Dónde ver el atardecer
 

@@ -19,6 +19,7 @@ slugs:
   es: montserrat-que-excursion-elegir
   en: montserrat-which-excursion-to-choose
   de: montserrat-welche-tour-waehlen
+tiempo_lectura: 3
 ---
 
 Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre sí — no es un caso de fichas casi idénticas compitiendo por lo mismo, sino de duraciones y presupuestos que van de una sesión de fotos de una hora a un día completo con almuerzo y maridaje de vinos.
@@ -40,6 +41,16 @@ Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre 
 - **Quieres una experiencia gastronómica de nivel:** masía del Bages con maridaje (109 €), incluye almuerzo de 3 platos curado por sommelier.
 - **Buscas fotos profesionales, no una visita guiada:** sesión Signature (180 €), incluye 30 fotos digitales editadas.
 - **Quieres ir sin compartir grupo con nadie:** tour privado con recogida en hotel (838 € por grupo), vehículo y guía en exclusiva.
+
+## Lo que debes saber antes de ir
+
+- **Por tu cuenta también se puede:** tren R5 de FGC desde Plaça Espanya hasta Monistrol de Montserrat (1 hora) y luego el cremallera, o hasta Aeri de Montserrat y el teleférico. El billete combinado Trans Montserrat (tren, cremallera o teleférico, metro y los funiculares) ronda los 40 €, y el Tot Montserrat, que añade comida y museo, unos 60 €. Los tours ganan en comodidad y explicación, no en precio.
+- **La Moreneta** se visita gratis, por un pasillo lateral de la basílica, de 8:00 a 10:30 y de 12:00 a 18:15. La cola es de 30-60 minutos en temporada; los tours de acceso temprano la evitan.
+- **La Escolanía** canta el Salve a las 13:00 de lunes a viernes y a las 12:00 los domingos; no canta los sábados ni en julio ni Navidad. Si es tu motivo, confírmalo en el calendario del monasterio y elige una excursión que esté allí a esa hora.
+- **Los funiculares:** el de Sant Joan sube a los senderos con vistas (10 minutos y después una caminata fácil de 1 hora hasta la ermita); el de Santa Cova baja a la cueva de la Virgen. Van aparte y cuestan 10-15 € ida y vuelta; cierran con viento fuerte.
+- **Clima:** en la montaña hay 5-8 grados menos que en Barcelona y niebla frecuente por la mañana. Lleva una capa más incluso en verano.
+- **Comida:** la cafetería de autoservicio es cara y floja. Compra el mató con miel y los quesos en el mercadillo de los payeses junto a la plaza, o come al volver.
+- **Tiempo necesario:** medio día si solo quieres la basílica y la Moreneta; el día entero si subes a Sant Joan.
 
 ## Cosas a tener en cuenta al reservar
 
