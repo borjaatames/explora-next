@@ -61,7 +61,7 @@ preguntasFrecuentes:
   respuesta: Porque dura el doble (4 horas vs 2) e incluye comida y bebida ilimitada a bordo, además del equipo de snorkel. El precio por hora de actividad es muy competitivo.
 opinionEditorial: 'El tour más completo y mejor valorado (4,8★) de los tres disponibles en Tenerife. Si buscas una experiencia de medio día sin preocuparte de llevar comida ni bebida, este es el que te lleva el carro.'
 guiasRelacionadas:
-- tenerife-guia-completa
+- avistamiento-ballenas-tenerife
 categoria: excursiones
 keywords:
 - catamaran ballenas tenerife buffet

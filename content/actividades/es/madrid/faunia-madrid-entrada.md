@@ -63,7 +63,7 @@ preguntasFrecuentes:
   respuesta: Sí, especialmente de 3 a 10 años. Los ecosistemas inmersivos (selva, polo) son especialmente impactantes para ellos.
 opinionEditorial: 'Faunia es la alternativa más original al Zoo clásico en Madrid. Sus ecosistemas recreados hacen la visita muy didáctica, y el Mundo Polar con los pingüinos es imprescindible. El precio es más asequible que el Zoo y hay menos aglomeraciones. Una buena opción para un segundo día con niños en Madrid.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-con-ninos
 categoria: entradas
 keywords:
 - faunia madrid

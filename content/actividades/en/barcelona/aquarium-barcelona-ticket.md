@@ -1,5 +1,5 @@
 ---
-titulo: 'Barcelona: L'Aquàrium de Barcelona ticket'
+titulo: "Barcelona: L'Aquàrium de Barcelona ticket"
 slug: aquarium-barcelona-ticket
 ciudad: barcelona
 descripcion: "Entry to L'Aquàrium de Barcelona, one of Europe's largest aquariums, with a spectacular 80-metre shark tunnel and 11,000 aquatic animals. 4.4/5 with 19,870 reviews."
@@ -56,7 +56,7 @@ preguntasFrecuentes:
   respuesta: Yes, the aquarium offers a "Shark Experience" dive for certified divers (extra cost, booked separately). One of the few places in Europe to dive with sharks in controlled conditions.
 opinionEditorial: "Barcelona's aquarium is strong on atmosphere — the 80-metre shark tunnel is genuinely impressive — though the overall collection is smaller than Valencia's Oceanogràfic. Worth it for the tunnel experience alone."
 guiasRelacionadas:
-- barcelona-guia-completa
+- barcelona-with-kids
 categoria: entradas
 keywords:
 - aquarium barcelona ticket
@@ -64,7 +64,11 @@ keywords:
 - shark tunnel barcelona
 imagen: /images/actividades/barcelona/aquarium/tunel-tiburones.webp
 imagenAlt: Shark tunnel at L'Aquàrium de Barcelona in Port Vell
-galeria: []
+galeria:
+- src: /images/actividades/barcelona/aquarium/tiburones-aquarium.webp
+  alt: "Sharks in the Oceanarium tank at L'Aquàrium de Barcelona"
+- src: /images/actividades/barcelona/aquarium/medusas.webp
+  alt: "Jellyfish exhibit at L'Aquàrium de Barcelona"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas: []

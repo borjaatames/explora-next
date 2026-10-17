@@ -23,6 +23,7 @@ actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas
   - buggy-barrancos-gran-canaria
+  - palmitos-park-gran-canaria-entrada
 faq:
 - pregunta: Can you walk freely in the Maspalomas Dunes?
   respuesta: 'Not entirely: it''s a Special Nature Reserve and you may only walk on the marked paths and along the shore. Leaving them, building sand walls or dropping litter is forbidden and fined.'

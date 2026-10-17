@@ -63,8 +63,8 @@ preguntasFrecuentes:
   respuesta: Terra Mítica no abre todos los días del año. Cierra parte del invierno y abre en fines de semana o festivos en temporada media. Consulta el calendario oficial o confirma con el operador antes de reservar.
 opinionEditorial: 'Terra Mítica es el parque temático más grande de la Comunitat Valenciana y una parada casi obligada en Benidorm si viajas con adolescentes o amantes de las montañas rusas. La temática mediterránea es original y Magnus Colossus merece la visita por sí solo.'
 guiasRelacionadas:
-- benidorm-guia-completa
-- alicante-guia
+- escapadas-costa-blanca-desde-alicante
+- que-ver-en-alicante
 categoria: entradas
 keywords:
 - terra mitica benidorm entrada

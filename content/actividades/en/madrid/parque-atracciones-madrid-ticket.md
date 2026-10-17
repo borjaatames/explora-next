@@ -2,7 +2,7 @@
 titulo: 'Madrid: Parque de Atracciones de Madrid ticket'
 slug: parque-atracciones-madrid-ticket
 ciudad: madrid
-descripcion: 'Entry ticket to Madrid's historic Parque de Atracciones, in the Casa de Campo park, with rides for all ages including Abismo. 4.5/5 with 414 reviews.'
+descripcion: "Entry ticket to Madrid's historic Parque de Atracciones, in the Casa de Campo park, with rides for all ages including Abismo. 4.5/5 with 414 reviews."
 slugs:
   es: parque-atracciones-madrid-entrada
   en: parque-atracciones-madrid-ticket
@@ -52,9 +52,9 @@ politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
 - pregunta: What is Abismo?
   respuesta: Abismo is Spain's tallest free-fall tower at 85 metres. You are lifted up and then dropped in a near-vertical fall. It's the park's most popular ride and has long queues in summer.
-opinionEditorial: 'Madrid's local theme park — less glamorous than Parque Warner, more accessible and great value for a half-day. Abismo alone is worth the visit.'
+opinionEditorial: "Madrid's local theme park — less glamorous than Parque Warner, more accessible and great value for a half-day. Abismo alone is worth the visit."
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-with-kids
 categoria: entradas
 keywords:
 - parque atracciones madrid ticket
@@ -62,7 +62,11 @@ keywords:
 - abismo madrid
 imagen: /images/actividades/madrid/parque-atracciones/abismo-madrid.webp
 imagenAlt: Abismo free-fall tower at Parque de Atracciones Madrid
-galeria: []
+galeria:
+- src: /images/actividades/madrid/parque-atracciones/tornado-coaster.webp
+  alt: "Tornado roller coaster at Parque de Atracciones de Madrid"
+- src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
+  alt: "Nickelodeon Land children's area at Parque de Atracciones"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas: []

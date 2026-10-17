@@ -63,10 +63,9 @@ preguntasFrecuentes:
   respuesta: No. En temporada baja (otoño, invierno y primavera) el Tibidabo abre solo fines de semana y festivos. En verano también abre entre semana. Consulta el calendario en la web oficial antes de comprar.
 - pregunta: ¿Qué es El Avió?
   respuesta: Un avión Fokker de 1921 montado sobre un brazo giratorio que da vueltas sobre la ciudad. Es la atracción más famosa y fotografiada del parque; una de las más antiguas del mundo en funcionamiento.
-opinionEditorial: 'El Tibidabo es único: no es el parque de atracciones más moderno ni el más grande, pero tiene algo que no tiene ningún otro parque del mundo. Su combinación de nostalgia (el Avió, el Museu d'Autòmates), arquitectura modernista y vistas absolutas sobre Barcelona lo hacen irrepetible. El precio es elevado; comprueba el calendario de apertura antes de ir.'
+opinionEditorial: "El Tibidabo es único: no es el parque de atracciones más moderno ni el más grande, pero tiene algo que no tiene ningún otro parque del mundo. Su combinación de nostalgia (el Avió, el Museu d'Autòmates), arquitectura modernista y vistas absolutas sobre Barcelona lo hacen irrepetible. El precio es elevado; comprueba el calendario de apertura antes de ir."
 guiasRelacionadas:
-- barcelona-guia-completa
-- barcelona-con-ninos-guia
+- barcelona-con-ninos
 categoria: entradas
 keywords:
 - tibidabo barcelona

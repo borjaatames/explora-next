@@ -62,8 +62,8 @@ preguntasFrecuentes:
   respuesta: Tiene zona acuática con atracciones de agua, pero no es un parque acuático puro. Para parque acuático, Aqualandia es la opción en Benidorm.
 opinionEditorial: 'Mundomar es la mejor opción para familias con niños pequeños en Benidorm: animales, shows de delfines y un ambiente relajado. La relación calidad-precio es excelente y la puntuación (4,7★) refleja que los visitantes se van contentos.'
 guiasRelacionadas:
-- benidorm-guia-completa
-- alicante-guia
+- escapadas-costa-blanca-desde-alicante
+- que-ver-en-alicante
 categoria: entradas
 keywords:
 - mundomar benidorm entrada

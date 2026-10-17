@@ -64,23 +64,23 @@ preguntasFrecuentes:
   respuesta: Al atardecer, desde la estación Castell, las vistas del sol cayendo sobre Barcelona y el mar son excepcionales. La mañana también ofrece luz limpia.
 opinionEditorial: 'El teleférico de Montjuïc es la forma más espectacular de subir a la colina y uno de los miradores clásicos de Barcelona. Las vistas desde las cabinas acristaladas son perfectas para fotografías: el puerto, la Barceloneta y el skyline de la ciudad. Sube en el teleférico y baja a pie (o al revés) para aprovechar mejor la excursión.'
 guiasRelacionadas:
-- barcelona-guia-completa
-- barcelona-montjuic-guia
+- barcelona-en-3-dias
+- barcelona-con-ninos
 categoria: actividades
 keywords:
 - teleferico montjuic barcelona
 - cable car montjuic barcelona
 - montjuic barcelona vistas
 - teleferico barcelona precio
-imagen: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-imagenAlt: Cabinas del teleférico de Montjuïc sobre Barcelona
+imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
+imagenAlt: "Vistas de Barcelona desde la montaña de Montjuïc"
 galeria:
-- src: /images/actividades/barcelona/montjuic/pexels-14513877.jpeg
-  alt: Vistas de Barcelona desde el teleférico de Montjuïc
-- src: /images/actividades/barcelona/montjuic/pexels-6437868.jpeg
-  alt: Puerto de Barcelona visto desde Montjuïc
-- src: /images/actividades/barcelona/montjuic/pexels-8247821.jpeg
-  alt: Castillo de Montjuïc desde el teleférico
+- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
+  alt: "Panorámica de Barcelona desde Montjuïc, con las fuentes y la plaza de España"
+- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+  alt: "Palau Nacional (MNAC) en la ladera de Montjuïc"
+- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
+  alt: "Torres venecianas y plaza de España a los pies de Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas: []

@@ -22,6 +22,7 @@ slugs:
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
 actividades:
+  - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
 ---
 

@@ -27,6 +27,7 @@ actividades:
   - walking-tour-habsburgos-grupo-reducido
   - palacio-real-tour-premium-skip-line
   - tour-privado-escorial-monasterio-real
+  - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
   - flamenco-tablao-las-carboneras

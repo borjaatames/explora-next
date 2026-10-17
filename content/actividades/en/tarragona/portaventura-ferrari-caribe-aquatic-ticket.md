@@ -70,8 +70,8 @@ preguntasFrecuentes:
   respuesta: Not comfortably. The combo gives you separate days for each park. PortAventura and Ferrari Land can be combined in one long day (they are adjacent), but Caribe Aquatic Park deserves its own day to enjoy properly.
 opinionEditorial: "PortAventura is Spain's flagship theme park and one of Europe's best. Ferrari Land is compact but extraordinary — Red Force is worth the trip on its own. The Caribe park completes a full resort experience. An hour from Barcelona, this is Spain's most complete theme park resort."
 guiasRelacionadas:
-- tarragona-guia
-- que-ver-tarragona
+- portaventura-world-guide
+- tarragona-in-one-day
 categoria: parques-tematicos
 keywords:
 - portaventura ferrari land ticket
@@ -82,11 +82,11 @@ imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan roller coaster at PortAventura World, Tarragona
 galeria:
 - src: /images/actividades/tarragona/portaventura/ferrari-land.webp
-  alt: Ferrari Land park with Red Force vertical launch coaster, PortAventura
+  alt: "Ferrari Land park with Red Force vertical launch coaster, PortAventura"
 - src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
-  alt: Shambhala hypercoaster at PortAventura World
+  alt: "Shambhala hypercoaster at PortAventura World"
 - src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
-  alt: Roller coasters at PortAventura World, Tarragona
+  alt: "Roller coasters at PortAventura World, Tarragona"
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:

@@ -63,7 +63,7 @@ preguntasFrecuentes:
   respuesta: Más de 45 atracciones repartidas en zonas de adrenalina, infantil, familiar y de agua. Hay para todos los perfiles.
 opinionEditorial: 'El Parque de Atracciones de Madrid no tiene la producción temática de Warner, pero su ubicación en la Casa de Campo y su mix de atracciones para todas las edades lo hacen ideal para un día en familia. El Abismo y el Tornado satisfacen a los amantes de la adrenalina, y la zona infantil es una de las mejores de Madrid.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-con-ninos
 categoria: entradas
 keywords:
 - parque de atracciones madrid

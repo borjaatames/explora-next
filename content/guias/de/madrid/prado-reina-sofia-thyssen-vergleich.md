@@ -25,6 +25,7 @@ actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada
   - museo-thyssen-entrada
+  - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
   - reina-sofia-grupo-reducido-guides-you-need
   - excursion-toledo-dia-completo

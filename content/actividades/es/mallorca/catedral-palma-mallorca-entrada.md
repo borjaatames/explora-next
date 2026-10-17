@@ -5,7 +5,7 @@ ciudad: mallorca
 descripcion: 'Entrada a La Seu, la catedral gótica de Palma de Mallorca, con la intervención de Antoni Gaudí en el interior, el rosetón más grande del mundo, el museo de arte sacro y las vistas al mar. 4,6/5 con 17.883 reseñas.'
 slugs:
   es: catedral-palma-mallorca-entrada
-  en: palma-cathedral-ticket
+  en: palma-cathedral-mallorca-ticket
 duracion: 1-2 horas
 duracionMinutos: 90
 precioDesde: 11
@@ -58,13 +58,12 @@ preguntasFrecuentes:
 - pregunta: ¿Qué hizo Gaudí en la catedral de Palma?
   respuesta: 'Gaudí restauró y reformó el interior entre 1904 y 1914: trasladó el coro al presbiterio, instaló el baldaquino de hierro forjado y cerámica sobre el altar, y abrió nuevas claraboyas para mejorar la iluminación. Una de sus obras menos conocidas pero muy significativa.'
 - pregunta: ¿Es el rosetón más grande del mundo?
-  respuesta: Es uno de los más grandes del mundo en gótico: mide 12,5 metros de diámetro y tiene 1.236 piezas de vidrio de colores. El fenómeno óptico del 2 de febrero (Candelaria) es famoso entre los fotografos.
+  respuesta: "Es uno de los más grandes del mundo en gótico: mide 12,5 metros de diámetro y tiene 1.236 piezas de vidrio de colores. El fenómeno óptico del 2 de febrero (Candelaria) es famoso entre los fotografos."
 - pregunta: ¿Cuándo es mejor visitarla?
   respuesta: A primera hora de la mañana (cuando abre) para evitar grupos turísticos. La luz entra mejor desde el este por las mañanas.
 opinionEditorial: 'La Catedral de Palma es uno de los mejores ejemplos del gótico mediterráneo y tiene la sorpresa añadida de la intervención de Gaudí. La combinación de rosetón, baldaquino y vista al mar es única en el mundo. El precio de la entrada es muy razonable para la experiencia. Visita imprescindible en Palma.'
 guiasRelacionadas:
-- mallorca-guia-completa
-- palma-de-mallorca-guia
+- que-ver-en-mallorca
 categoria: entradas
 keywords:
 - catedral palma mallorca
@@ -74,10 +73,12 @@ keywords:
 imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
 imagenAlt: Fachada de la Catedral de Palma (La Seu) sobre la bahía
 galeria:
-- src: /images/actividades/mallorca/catedral-palma/rosetón-catedral-palma.webp
-  alt: Rosetón de la Catedral de Palma con luz del amanecer
-- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
-  alt: Baldaquino de Gaudí en el altar mayor de La Seu
+- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
+  alt: Catedral de Palma al atardecer desde el Parc de la Mar
+- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
+  alt: La Seu reflejada en el estanque del Parc de la Mar, Palma
+- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
+  alt: Paseo junto al estanque frente a la Catedral de Palma
 ratingProveedor: 4.6
 numeroOpiniones: 17883
 atraccionesRelacionadas:

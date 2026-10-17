@@ -22,7 +22,9 @@ slugs:
   en: what-to-see-in-mallorca
   de: was-sehen-auf-mallorca
 actividades:
+  - catedral-palma-mallorca-entrada
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - barco-soller-sa-calobra
   - tren-soller-tranvia-medio-dia-desde-el-norte
   - cuevas-del-drach-concierto-barca-desde-palma
   - cuevas-del-drach-desde-alcudia

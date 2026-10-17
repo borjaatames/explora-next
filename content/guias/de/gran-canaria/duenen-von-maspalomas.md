@@ -23,6 +23,7 @@ actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas
   - buggy-barrancos-gran-canaria
+  - palmitos-park-gran-canaria-entrada
 faq:
 - pregunta: Darf man frei durch die Dünen von Maspalomas laufen?
   respuesta: 'Nicht ganz: Es ist ein besonderes Naturschutzgebiet, und man darf nur auf den markierten Wegen und am Ufer gehen. Die Wege zu verlassen, Sandmauern zu bauen oder Müll liegen zu lassen ist verboten und wird bestraft.'

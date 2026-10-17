@@ -20,6 +20,9 @@ slugs:
   en: whale-watching-tenerife
   de: walbeobachtung-teneriffa
 actividades:
+  - ballenas-los-gigantes-tenerife
+  - catamaran-avistamiento-ballenas-costa-adeje
+  - catamaran-ballenas-buffet-tenerife
   - avistamiento-ballenas-delfines-yate-ecologico
   - kayak-esnorquel-los-cristianos
   - barranco-masca-senderismo-barco

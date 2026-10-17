@@ -63,8 +63,8 @@ preguntasFrecuentes:
   respuesta: Yes. The park has a dedicated children's area with gentler rides. The ancient civilisation theme is engaging for families with children aged 5 and over.
 opinionEditorial: "The Costa Blanca's best theme park. Terra Mítica punches above its size with a distinctive theme, several impressive coasters, and good live entertainment. Book ahead in summer to avoid sold-out days."
 guiasRelacionadas:
-- benidorm-guia
-- que-ver-alicante
+- costa-blanca-day-trips-from-alicante
+- what-to-see-in-alicante
 categoria: parques-tematicos
 keywords:
 - terra mitica benidorm ticket

@@ -27,7 +27,7 @@ actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-mila-la-pedrera-entrada-audioguia
   - park-guell-entrada-zona-monumental
-  - park-guell-grupo-reducido-amigo-tours
+  - teleferico-montjuic-barcelona-ticket
   - catedral-de-barcelona-entrada
   - tour-casco-antiguo-barri-gotico-a-pie
   - museo-picasso-tour-guiado-sin-colas

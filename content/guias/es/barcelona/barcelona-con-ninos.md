@@ -25,6 +25,9 @@ actividades:
   - entrada-sagrada-familia-audioguia
   - park-guell-entrada-zona-monumental
   - camp-nou-museo-fc-barcelona-tour-inmersivo
+  - aquarium-barcelona-entrada
+  - tibidabo-barcelona-entrada
+  - teleferico-montjuic-barcelona-ticket
 ---
 
 Barcelona con niños es otra Barcelona. El plan «Sagrada Família por la mañana, Park Güell por la tarde y Ramblas de remate» es justo lo que no funciona con peques: distancias largas, calor en el Eixample, multitudes y carteristas. Pero hay una Barcelona familiar muy buena al lado de la turística, con dos hits que muchos turistas no conocen: CosmoCaixa y Tibidabo. Aquí va el plan por edades, sin frases motivacionales.

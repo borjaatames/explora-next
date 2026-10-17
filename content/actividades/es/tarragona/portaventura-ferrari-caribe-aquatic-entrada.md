@@ -62,13 +62,13 @@ preguntasFrecuentes:
 - pregunta: ¿Qué diferencia hay entre este combo y la entrada solo a PortAventura World?
   respuesta: Este combo añade Ferrari Land (parque temático exclusivo de Ferrari con Red Force a 180 km/h) y Caribe Aquatic Park (parque acuático). Es el ticket más completo del complejo y el más recomendable si tienes 2 o más días.
 - pregunta: ¿Cuántos días necesito para los tres parques?
-  respuesta: Mínimo 2 días completos: un día para PortAventura World y un día para Ferrari Land + Caribe Aquatic Park. Con 3 días lo disfrutarás sin prisas.
-- pregunta: ¿Dragon Khan o Shambhala: cuál es mejor?
+  respuesta: "Mínimo 2 días completos: un día para PortAventura World y un día para Ferrari Land + Caribe Aquatic Park. Con 3 días lo disfrutarás sin prisas."
+- pregunta: "¿Dragon Khan o Shambhala: cuál es mejor?"
   respuesta: Son experiencias distintas. Shambhala es la montaña rusa más alta de Europa (76 m) con velocidad de 134 km/h, muy suave para ser tan grande. Dragon Khan es más clásica con 8 loopings y más brusca. Los aficionados recomiendan hacer ambas.
 opinionEditorial: 'PortAventura es el parque de atracciones más grande de España y uno de los mejores de Europa. El combo con Ferrari Land y Caribe añade capas de experiencia que justifican completamente el precio. Si vienes desde lejos, no escatimes en días: este complejo merece tiempo.'
 guiasRelacionadas:
-- tarragona-guia-completa
-- barcelona-excursiones
+- portaventura-world-guia
+- tarragona-en-un-dia
 categoria: entradas
 keywords:
 - portaventura ferrari land caribe entrada

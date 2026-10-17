@@ -28,6 +28,8 @@ actividades:
   - kayak-esnorquel-los-cristianos
   - loro-parque-entradas
   - siam-park-entradas
+  - loro-parque-siam-park-combinado
+  - ballenas-los-gigantes-tenerife
 faq:
 - pregunta: Wie viele Tage braucht man für Teneriffa?
   respuesta: 'Fünf bis sechs Tage reichen, um Teide, den Norden (La Orotava, Puerto de la Cruz, Garachico), La Laguna und Anaga, den Westen (Masca und Los Gigantes) und etwas Zeit auf dem Meer im Süden zu verbinden. Mit drei Tagen: Teide, ein Tag im Norden und eine Bootstour.'

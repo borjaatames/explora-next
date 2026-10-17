@@ -63,8 +63,7 @@ preguntasFrecuentes:
   respuesta: The longer duration (5–6 hours vs 2–3 hours), included buffet lunch, and premium catamaran explain the higher price. It is consistently rated the best whale watching experience in Tenerife, and the included meal makes it comparable in cost to a shorter trip plus lunch separately.
 opinionEditorial: "If you are going to do whale watching in Tenerife, do it properly. The full day, the buffet, and the extra time on the water add up to the best version of this experience. Rated higher than any other whale watching tour on the island."
 guiasRelacionadas:
-- tenerife-guia-completa
-- que-ver-tenerife
+- whale-watching-tenerife
 categoria: excursiones
 keywords:
 - whale watching buffet tenerife
@@ -75,9 +74,11 @@ imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Pilot whale surfacing close to a catamaran off the coast of Tenerife
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Pilot whale calf swimming alongside its mother, Tenerife
+  alt: "Pilot whale calf swimming alongside its mother, Tenerife"
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: "Atlantic spotted dolphin off the coast of Tenerife"
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Pilot whale blowing at the surface, Tenerife
+  alt: "Pilot whale blowing at the surface, Tenerife"
 ratingProveedor: 4.8
 numeroOpiniones: 2242
 atraccionesRelacionadas: []

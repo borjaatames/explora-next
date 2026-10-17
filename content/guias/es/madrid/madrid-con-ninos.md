@@ -22,6 +22,11 @@ slugs:
   en: madrid-with-kids
   de: madrid-mit-kindern
 actividades:
+  - zoo-aquarium-madrid-entrada
+  - parque-warner-madrid-entrada
+  - parque-atracciones-madrid-entrada
+  - faunia-madrid-entrada
+  - aquopolis-villanueva-entrada
   - museo-prado-entrada
   - palacio-real-tour-premium-skip-line
   - magic-retiro-park-bike-tour

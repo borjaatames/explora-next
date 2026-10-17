@@ -23,6 +23,7 @@ actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas
   - buggy-barrancos-gran-canaria
+  - palmitos-park-gran-canaria-entrada
 faq:
 - pregunta: ¿Se puede caminar libremente por las Dunas de Maspalomas?
   respuesta: 'No del todo: es una Reserva Natural Especial y solo se puede caminar por los senderos señalizados y la orilla del mar. Salirse de ellos, construir muros de arena o dejar basura está prohibido y se multa.'

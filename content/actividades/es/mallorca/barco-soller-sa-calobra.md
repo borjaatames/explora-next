@@ -59,13 +59,14 @@ preguntasFrecuentes:
 - pregunta: ¿Cuánto tiempo de libre tengo en Sa Calobra?
   respuesta: Normalmente entre 1,5 y 2 horas en Sa Calobra, suficiente para entrar en el Torrent de Pareis, bañarse y comer algo. El barco tiene horario fijo de regreso.
 - pregunta: ¿Es difícil el camino por el Torrent de Pareis?
-  respuesta: El primer tramo (hasta la playa) es sencillo: unos 10-15 minutos por un camino de guijarros entre paredes de roca. Para adentrarse más en la garganta es necesario trepar por rocas.
+  respuesta: "El primer tramo (hasta la playa) es sencillo: unos 10-15 minutos por un camino de guijarros entre paredes de roca. Para adentrarse más en la garganta es necesario trepar por rocas."
 - pregunta: ¿Merece combinar con el tren de Sóller?
   respuesta: Absolutamente. El tren histórico de madera Palma-Sóller (1961) + tranvía al puerto + barco a Sa Calobra es la excursión clásica de Mallorca. No te la pierdas.
 opinionEditorial: 'El Torrent de Pareis es uno de los rincones más espectaculares de España y el barco desde Sóller es la forma más cómoda de llegar. Combinado con el tren histórico de madera Palma-Sóller, tienes la excursión perfecta de un día en Mallorca. Reserva con antelación en temporada alta: los barcos se llenan.'
 guiasRelacionadas:
-- mallorca-guia-completa
-- soller-mallorca-guia
+- serra-tramuntana-soller
+- mejores-calas-mallorca
+- que-ver-en-mallorca
 categoria: excursiones
 keywords:
 - barco soller sa calobra

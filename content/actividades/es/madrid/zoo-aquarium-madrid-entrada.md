@@ -66,7 +66,7 @@ preguntasFrecuentes:
   respuesta: Los menores de 3 años entran gratis. Precios reducidos para niños de 3 a 7 años. Comprueba la web oficial para descuentos por grupo o familia.
 opinionEditorial: 'El Zoo Aquarium de Madrid combina zoo clásico, acuario marino y espectáculos en un solo recinto dentro de la Casa de Campo. Los pandas gigantes y el Delfinario son los grandes reclamos, pero la colección de primates y la zona de rapaces también merece la visita. Compra con antelación: el ahorro es mínimo, pero te evitas colas en temporada alta.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-con-ninos
 categoria: entradas
 keywords:
 - zoo aquarium madrid

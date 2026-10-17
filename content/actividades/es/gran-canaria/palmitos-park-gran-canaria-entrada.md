@@ -63,8 +63,8 @@ preguntasFrecuentes:
   respuesta: Sí, Palmitos Park tiene delfinario con show incluido en la entrada. Es uno de los pocos lugares en Canarias donde verlos.
 opinionEditorial: 'Palmitos Park no compite en tamaño con Loro Parque, pero tiene algo que este no tiene: un entorno natural de barranco canario que hace que pasear por el parque sea una experiencia en sí misma. El mariposario tropical es imprescindible.'
 guiasRelacionadas:
-- gran-canaria-guia-completa
-- maspalomas-guia
+- que-ver-en-gran-canaria
+- dunas-de-maspalomas
 categoria: entradas
 keywords:
 - palmitos park gran canaria entrada

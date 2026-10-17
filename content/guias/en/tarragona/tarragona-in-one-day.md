@@ -30,6 +30,7 @@ actividades:
   - kayak-rio-ebro-miravet
   - flamencos-delta-del-ebro-atardecer
   - portaventura-ferrari-land-entrada
+  - portaventura-ferrari-caribe-aquatic-entrada
   - tour-autoguiado-daremapp-tarragona
 ---
 

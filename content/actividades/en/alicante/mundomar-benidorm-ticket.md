@@ -31,7 +31,7 @@ incluye:
 noIncluye:
 - Transport to the park
 - Food and drink
-- "Swim with dolphins" experience (bookable separately)
+- Swim-with-dolphins experience (bookable separately)
 puntoEncuentro:
   texto: "Mundomar, Partida de les Fonts, s/n, Benidorm, Alicante"
   descripcionGuia: Mundomar shares an access road with Terra Mítica, 5 km from Benidorm centre. The same buses from Benidorm that serve Terra Mítica stop here. By car, take the N-332 towards Finestrat. Parking is shared with Terra Mítica.
@@ -62,8 +62,8 @@ preguntasFrecuentes:
   respuesta: Excellent for children aged 3–12 and families with young children. The dolphin and sea lion shows appeal to all ages. The animal enclosures and bird garden are popular with adults too.
 opinionEditorial: "Mundomar is underrated. The dolphin show is genuinely excellent, the variety of animals is wider than you'd expect, and it's far less crowded than a large theme park. The 4.7 rating with 1,582 reviews says it all."
 guiasRelacionadas:
-- benidorm-guia
-- que-ver-alicante
+- costa-blanca-day-trips-from-alicante
+- what-to-see-in-alicante
 categoria: parques-tematicos
 keywords:
 - mundomar benidorm ticket

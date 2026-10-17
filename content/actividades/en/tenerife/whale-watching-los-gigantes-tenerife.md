@@ -60,8 +60,8 @@ preguntasFrecuentes:
   respuesta: The most common species is the short-finned pilot whale (resident year-round). Bottlenose dolphins and Atlantic spotted dolphins are also very frequently seen. Less common sightings include sperm whales and loggerhead turtles.
 opinionEditorial: "Los Gigantes combines two of Tenerife's greatest natural spectacles: the tallest sea cliffs in Spain and resident pilot whales just offshore. One of the best whale-watching sites in Europe."
 guiasRelacionadas:
-- tenerife-guia-completa
-- que-ver-tenerife
+- whale-watching-tenerife
+- what-to-see-in-tenerife
 categoria: excursiones
 keywords:
 - whale watching tenerife los gigantes
@@ -72,9 +72,13 @@ imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Los Gigantes cliffs rising from the sea, Tenerife
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Pilot whale surfacing close to the boat, Tenerife
+  alt: "Pilot whale surfacing close to the boat, Tenerife"
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Coastline near Los Gigantes, Tenerife
+  alt: "Coastline near Los Gigantes, Tenerife"
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: "Atlantic spotted dolphin off the coast of Tenerife"
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: "Open sea below the Los Gigantes cliffs"
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas: []

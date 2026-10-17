@@ -31,6 +31,7 @@ actividades:
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada
+  - barco-soller-sa-calobra
 faq:
 - pregunta: What's the best area to stay in Mallorca with kids?
   respuesta: The north, around Alcúdia, beats the party-oriented south-west. It has calm, shallow beaches like Playa de Muro and is a better family base than the small, fashionable coves, which have no shade or parking.

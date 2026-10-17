@@ -31,7 +31,7 @@ incluye:
 noIncluye:
 - Transport to the park
 - Food and drink
-- "Swim with dolphins" experience (bookable separately)
+- Swim-with-dolphins experience (bookable separately)
 puntoEncuentro:
   texto: "Palmitos Park, GC-503, km 4.6, Maspalomas, Gran Canaria"
   descripcionGuia: Palmitos Park is 15 km north of Maspalomas and Playa del Inglés, in the interior of Gran Canaria. By car, take the GC-1 to Maspalomas and then the GC-503 towards Palmitos. Regular buses run from the Maspalomas and Playa del Inglés resort area — check the timetable with the operator. The journey takes about 30 minutes from the south coast resorts.
@@ -64,8 +64,8 @@ preguntasFrecuentes:
   respuesta: Yes — it is consistently one of the top-rated features of the park. The greenhouse contains hundreds of tropical butterflies from several continents, flying freely around you. Worth visiting in the morning when they are most active.
 opinionEditorial: "Palmitos Park is Gran Canaria's hidden gem — far less visited than the beach resorts, dramatically beautiful in its ravine setting, and with genuinely excellent animal care. The dolphin show and butterfly house are the highlights, but the whole park rewards a full day."
 guiasRelacionadas:
-- gran-canaria-guia-completa
-- maspalomas-playa-del-ingles-guia
+- what-to-see-in-gran-canaria
+- maspalomas-dunes-guide
 categoria: parques-tematicos
 keywords:
 - palmitos park gran canaria

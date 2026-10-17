@@ -28,6 +28,8 @@ actividades:
   - kayak-esnorquel-los-cristianos
   - loro-parque-entradas
   - siam-park-entradas
+  - loro-parque-siam-park-combinado
+  - ballenas-los-gigantes-tenerife
 faq:
 - pregunta: ¿Cuántos días necesito para ver Tenerife?
   respuesta: Cinco o seis días permiten combinar el Teide, el norte (La Orotava, Puerto de la Cruz, Garachico), La Laguna y Anaga, el oeste (Masca y Los Gigantes) y algo de mar en el sur. Con tres días, prioriza el Teide, un día de norte y una salida en barco.

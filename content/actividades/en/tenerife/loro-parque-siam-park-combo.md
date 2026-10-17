@@ -64,8 +64,7 @@ preguntasFrecuentes:
   respuesta: Loro Parque maintains its own conservation foundation (Loro Parque Fundación) and funds conservation programmes for wild parrots worldwide. The orca programme has been controversial; visitors should form their own view. The overall quality of the animal facilities is among the highest in any European zoo.
 opinionEditorial: "Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip."
 guiasRelacionadas:
-- tenerife-guia-completa
-- que-ver-tenerife
+- what-to-see-in-tenerife
 categoria: parques-tematicos
 keywords:
 - loro parque siam park combo
@@ -76,13 +75,13 @@ imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean show at Loro Parque, Puerto de la Cruz, Tenerife
 galeria:
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
-  alt: Dolphin show at Loro Parque, Tenerife
-- src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Penguin colony at Loro Parque
+  alt: "Dolphin show at Loro Parque, Tenerife"
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-  alt: Aerial view of Siam Park water park, Tenerife
+  alt: "Aerial view of Siam Park water park, Tenerife"
+- src: /images/actividades/tenerife/loro-parque/pinguinos.webp
+  alt: "Penguin colony at Loro Parque"
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
-  alt: Thai temple entrance at Siam Park, Tenerife
+  alt: "Thai temple entrance at Siam Park, Tenerife"
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas: []

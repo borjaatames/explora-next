@@ -31,6 +31,7 @@ actividades:
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada
+  - barco-soller-sa-calobra
 ---
 
 **Mallorca ist ein erstklassiges Familienreiseziel.** Es hat flache Strände, perfekt für die Kleinen, einen hundert Jahre alten Holzzug, Aquarien, Höhlen mit See und Wasserparks, alles in kurzer Entfernung. Der Schlüssel liegt darin, die **Unterkunftszone** je nach Alter der Kinder gut zu wählen und nicht zu versuchen, die ganze Insel zu erkunden. Dieser Ratgeber versammelt die Pläne, die mit Familie wirklich funktionieren.

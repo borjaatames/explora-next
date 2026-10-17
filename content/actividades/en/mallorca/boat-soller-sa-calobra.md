@@ -60,8 +60,9 @@ preguntasFrecuentes:
   respuesta: Yes. Sa Calobra has a small pebbly beach at the mouth of the gorge. The water is crystal clear and the setting is outstanding. Bring a swimsuit.
 opinionEditorial: "Sa Calobra by boat from Sóller is one of Mallorca's greatest experiences: the coastal scenery alone is worth it, and the gorge walk at the end makes it unforgettable. Do not take the road instead — the boat approach is completely different."
 guiasRelacionadas:
-- mallorca-guia-completa
-- soller-mallorca-guia
+- serra-tramuntana-soller
+- best-coves-mallorca
+- what-to-see-in-mallorca
 categoria: excursiones
 keywords:
 - sa calobra boat trip mallorca
@@ -72,9 +73,11 @@ imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Sa Calobra cove and limestone cliffs, Mallorca
 galeria:
 - src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: Torrent de Pareis gorge walk at Sa Calobra, Mallorca
+  alt: "Torrent de Pareis gorge walk at Sa Calobra, Mallorca"
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Port de Sóller bay, departure point for the boat trip
+  alt: "Port de Sóller bay, departure point for the boat trip"
+- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
+  alt: "View over Port de Sóller and its bay"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas: []

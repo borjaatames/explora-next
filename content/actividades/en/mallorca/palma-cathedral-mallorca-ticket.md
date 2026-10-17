@@ -57,8 +57,7 @@ preguntasFrecuentes:
   respuesta: Early morning (9–10 AM) before the cruise ship groups arrive. The rose window is at its most spectacular in early afternoon when backlit by the sun.
 opinionEditorial: "Palma Cathedral is among the great Gothic monuments of Europe and the first thing Mallorca shows you from the ferry or aircraft. Skip the queue — the cathedral fills up fast in summer, and the experience inside is worth protecting."
 guiasRelacionadas:
-- mallorca-guia-completa
-- palma-de-mallorca-guia
+- what-to-see-in-mallorca
 categoria: entradas
 keywords:
 - palma cathedral ticket
@@ -67,7 +66,13 @@ keywords:
 - mallorca gothic cathedral
 imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
 imagenAlt: Palma Cathedral (La Seu) facade overlooking the bay of Palma, Mallorca
-galeria: []
+galeria:
+- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
+  alt: "Palma Cathedral at sunset from the Parc de la Mar"
+- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
+  alt: "La Seu reflected in the Parc de la Mar pool, Palma"
+- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
+  alt: "Promenade by the pool in front of Palma Cathedral"
 ratingProveedor: 4.6
 numeroOpiniones: 17883
 atraccionesRelacionadas: []

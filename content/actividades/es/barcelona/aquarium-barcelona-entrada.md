@@ -63,8 +63,7 @@ preguntasFrecuentes:
   respuesta: Sí, hay una actividad especial de buceo en el tanque de tiburones (con precio aparte y reserva previa). Requiere no saber bucear para hacerla con equipo de superficie.
 opinionEditorial: 'El Aquàrium de Barcelona tiene el mejor túnel de tiburones de España: 80 metros de cristal rodeado de arena tiger sharks y rayas manta, sin rival en la Península. La colección mediterránea es única en el mundo. Merece la pena aunque el precio sea elevado; compra online y te evitas las colas de taquilla.'
 guiasRelacionadas:
-- barcelona-guia-completa
-- barcelona-con-ninos-guia
+- barcelona-con-ninos
 categoria: entradas
 keywords:
 - aquarium barcelona

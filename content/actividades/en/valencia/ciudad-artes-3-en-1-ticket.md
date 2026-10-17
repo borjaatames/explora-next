@@ -59,15 +59,25 @@ preguntasFrecuentes:
   respuesta: The Hemisfèric is an IMAX dome cinema inside a building shaped like a giant eye. The dome screen covers your entire field of vision; documentary screenings are shown throughout the day.
 opinionEditorial: "The City of Arts and Sciences is Valencia's architectural crown jewel, and the 3-in-1 ticket is the best way to see it properly. The Oceanogràfic's beluga whale enclosure and shark tunnel are world-class."
 guiasRelacionadas:
-- valencia-guia-completa
+- city-of-arts-sciences-how-to-visit
+- valencia-with-kids
+- valencia-in-2-days
 categoria: entradas
 keywords:
 - city of arts sciences valencia ticket
 - oceanografic valencia ticket
 - valencia 3 in 1 ticket
-imagen: /images/actividades/valencia/oceanografic/oceanografic-tunel.webp
-imagenAlt: Shark tunnel at Oceanogràfic aquarium in Valencia
-galeria: []
+imagen: /images/actividades/valencia/oceanografic/ciudad-artes-noche.webp
+imagenAlt: "City of Arts and Sciences in Valencia lit up at night"
+galeria:
+- src: /images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp
+  alt: "Entrance building of the Oceanogràfic in Valencia"
+- src: /images/actividades/valencia/oceanografic/beluga.webp
+  alt: "Beluga in the Arctic aquarium at the Oceanogràfic"
+- src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
+  alt: "Hemisfèric at the City of Arts and Sciences"
+- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
+  alt: "Facade of the Museu de les Ciències, Valencia"
 ratingProveedor: 4.5
 numeroOpiniones: 3518
 atraccionesRelacionadas: []

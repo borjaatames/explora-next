@@ -58,16 +58,24 @@ preguntasFrecuentes:
   respuesta: The permanent collection is free Monday–Friday from 7 PM to 9 PM and on Sundays from 1:30 PM to 7 PM. This ticket gives you skip-the-line access during paid hours, which includes the full day.
 opinionEditorial: "The Reina Sofía is non-negotiable in Madrid. Guernica alone — Picasso's haunting masterpiece painted in 1937 — makes it one of the great artistic pilgrimages in the world. Budget 2–3 hours for the main collection."
 guiasRelacionadas:
-- madrid-museos-guia-completa
+- prado-vs-reina-sofia-vs-thyssen
+- madrid-in-3-days
+- madrid-on-a-budget
 categoria: entradas
 keywords:
 - reina sofia madrid ticket
 - reina sofia guernica
 - modern art madrid museum
 - picasso guernica madrid
-imagen: /images/actividades/madrid/reina-sofia/reina-sofia-fachada.webp
-imagenAlt: Museo Reina Sofía building exterior in Madrid
-galeria: []
+imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+imagenAlt: "Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid"
+galeria:
+- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
+  alt: "Visitors in front of an abstract work at the Reina Sofía Museum"
+- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
+  alt: "Inner garden of the Sabatini building, Reina Sofía"
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+  alt: "Glass lifts on the facade of the Reina Sofía Museum"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas: []

@@ -5,7 +5,7 @@ ciudad: madrid
 descripcion: 'Entrada sin colas al Museo Reina Sofía, hogar del Guernica de Picasso y la mayor colección de arte español del siglo XX. 4,5/5 con 10.347 reseñas.'
 slugs:
   es: reina-sofia-entrada
-  en: reina-sofia-ticket
+  en: reina-sofia-madrid-ticket
 duracion: 2-3 horas
 duracionMinutos: 150
 precioDesde: 12
@@ -63,21 +63,24 @@ preguntasFrecuentes:
   respuesta: Esta entrada te deja explorar a tu ritmo. Las visitas guiadas incluyen un experto que contextualiza el Guernica y la colección; ideales si quieres profundizar sin estudiar antes.
 opinionEditorial: 'El Reina Sofía es el museo más importante de España del siglo XX y el Guernica su obra cumbre. La entrada base te da acceso a toda la colección permanente a un precio razonable. Si no conoces bien el contexto histórico del Guernica, considera una visita guiada; si ya lo conoces, la entrada sola es suficiente para disfrutar a tu ritmo.'
 guiasRelacionadas:
-- madrid-museos-guia-completa
-- madrid-con-ninos-guia-honesta
+- prado-reina-sofia-thyssen-comparativa
+- madrid-en-3-dias
+- madrid-gratis
 categoria: entradas
 keywords:
 - reina sofia entrada
 - museo reina sofia madrid precio
 - guernica picasso madrid
 - reina sofia ticket
-imagen: /images/actividades/madrid/reina-sofia/reina-sofia-fachada.webp
-imagenAlt: Fachada del Museo Reina Sofía con la ascalerasa de cristal
+imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+imagenAlt: "Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid"
 galeria:
-- src: /images/actividades/madrid/reina-sofia/reina-sofia-interior.webp
-  alt: Interior del Museo Reina Sofía con visitantes
-- src: /images/actividades/madrid/reina-sofia/reina-sofia-ampliacion-nouvel.webp
-  alt: Ampliación de Jean Nouvel del Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
+  alt: "Visitantes ante una obra abstracta en el Museo Reina Sofía"
+- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
+  alt: "Jardín interior del edificio Sabatini del Reina Sofía"
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+  alt: "Ascensores de cristal de la fachada del Museo Reina Sofía"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

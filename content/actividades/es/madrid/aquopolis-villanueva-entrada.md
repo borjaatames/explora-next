@@ -64,7 +64,7 @@ preguntasFrecuentes:
   respuesta: Sí, hay una zona infantil con toboganes pequeños y piscinas poco profundas perfectas para menores de 6 años.
 opinionEditorial: 'Aquópolis Villanueva de la Cañada es el parque acuático de referencia en el oeste de Madrid. La piscina de olas y los toboganes de alta velocidad lo hacen imprescindible en verano. El truco es ir entre semana: los fines de semana en agosto son demasiado concurridos. Compra la entrada online y te ahorras la cola de taquilla.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-con-ninos
 categoria: entradas
 keywords:
 - aquopolis madrid

@@ -22,6 +22,7 @@ slugs:
   de: madrid-kostenlos
 actividades:
   - museo-prado-entrada
+  - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
   - tour-privado-escorial-monasterio-real

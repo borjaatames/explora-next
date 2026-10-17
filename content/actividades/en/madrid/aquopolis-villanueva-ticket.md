@@ -56,7 +56,7 @@ preguntasFrecuentes:
   respuesta: Aquópolis is a seasonal waterpark, open from mid-June to mid-September. It is closed outside these months. Always verify exact dates with the operator before booking.
 opinionEditorial: 'The best waterpark option for visitors staying in Madrid. The Villanueva park is the largest and best maintained of the Aquópolis chain in the Madrid region.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-with-kids
 categoria: entradas
 keywords:
 - aquopolis madrid ticket
@@ -64,7 +64,11 @@ keywords:
 - aquopolis villanueva ticket
 imagen: /images/actividades/madrid/aquopolis/toboganes-aquopolis.webp
 imagenAlt: Water slides at Aquópolis Villanueva de la Cañada near Madrid
-galeria: []
+galeria:
+- src: /images/actividades/madrid/aquopolis/piscina-olas.webp
+  alt: "Wave pool at Aquópolis Villanueva de la Cañada"
+- src: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
+  alt: "Children's area at Aquópolis"
 ratingProveedor: 4.6
 numeroOpiniones: 54
 atraccionesRelacionadas: []

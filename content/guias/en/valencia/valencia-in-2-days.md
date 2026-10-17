@@ -27,6 +27,7 @@ actividades:
   - paseo-catamaran-valencia-atardecer
   - cata-cerveza-artesanal-tapas-ruzafa
   - oceanografic-museo-ciencias-entrada-combinada
+  - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   - albufera-atardecer-paseo-en-barca
 ---
 

@@ -63,7 +63,7 @@ preguntasFrecuentes:
   respuesta: Sí, precio reducido para menores de 120 cm y para mayores de 60 años. Menores de 100 cm gratis.
 opinionEditorial: 'Parque Warner es el parque de atracciones con mejor producción temática cerca de Madrid. Sus cinco zonas tienen una identidad visual impecable y los shows de Batman son de los mejores en Europa. La pega habitual son las colas en verano; reserva online con antelación para no pagar más en taquilla.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-con-ninos
 categoria: entradas
 keywords:
 - parque warner madrid

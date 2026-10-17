@@ -28,6 +28,8 @@ actividades:
   - kayak-esnorquel-los-cristianos
   - loro-parque-entradas
   - siam-park-entradas
+  - loro-parque-siam-park-combinado
+  - ballenas-los-gigantes-tenerife
 faq:
 - pregunta: How many days do I need for Tenerife?
   respuesta: Five or six days let you combine Teide, the north (La Orotava, Puerto de la Cruz, Garachico), La Laguna and Anaga, the west (Masca and Los Gigantes) and some sea time in the south. With three days, prioritise Teide, a day in the north and a boat trip.

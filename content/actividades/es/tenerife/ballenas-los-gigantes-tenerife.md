@@ -62,8 +62,8 @@ preguntasFrecuentes:
   respuesta: Sí, pero ten en cuenta que estaréis en un barco durante 2-3 horas. Los niños que tienden a marearse deben tomar precauciones.
 opinionEditorial: 'La combinación de los acantilados de Los Gigantes —los más altos de Europa— con el avistamiento de calderones tropicales en su hábitat natural hace de esta excursión una de las más memorables de toda España. No es un espectáculo sino un encuentro con animales salvajes en libertad.'
 guiasRelacionadas:
-- tenerife-guia-completa
-- tenerife-naturaleza
+- avistamiento-ballenas-tenerife
+- que-ver-en-tenerife
 categoria: excursiones
 keywords:
 - avistamiento ballenas tenerife

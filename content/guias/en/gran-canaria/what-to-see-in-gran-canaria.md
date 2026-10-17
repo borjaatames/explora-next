@@ -28,6 +28,7 @@ actividades:
   - jeep-safari-sur-gran-canaria
   - tour-privado-gran-canaria-norte
   - plantacion-platanos-arucas-degustacion
+  - palmitos-park-gran-canaria-entrada
 faq:
 - pregunta: How many days do I need for Gran Canaria?
   respuesta: Four or five days let you combine beach time in the south, a day in the summits (Roque Nublo and Tejeda), another in Las Palmas and Vegueta, and a route through the northern or western towns. With three days you'll have to choose between the interior and the capital.

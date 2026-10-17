@@ -25,6 +25,8 @@ actividades:
   - excursion-guadalest-altea-algar-desde-alicante
   - barco-alicante-isla-tabarca-ida-vuelta
   - tour-vino-bodega-alicante-4-catas
+  - terra-mitica-benidorm-entrada
+  - mundomar-benidorm-entrada
 ---
 
 **Alicante is the gateway to the whole Costa Blanca.** Within an hour you have white villages above the sea, postcard headlands, a mountain village perched over a turquoise reservoir and the largest palm grove in Europe. This guide sorts the best day trips by how much time you have and how to get there, with the bonus that many can be done by **TRAM** (tram) without a car.

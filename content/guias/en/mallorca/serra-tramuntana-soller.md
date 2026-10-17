@@ -22,6 +22,7 @@ slugs:
   en: serra-tramuntana-soller
   de: serra-de-tramuntana-soller
 actividades:
+  - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - tren-soller-tranvia-medio-dia-desde-el-norte
 ---

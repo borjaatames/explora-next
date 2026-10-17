@@ -57,16 +57,22 @@ preguntasFrecuentes:
   respuesta: Yes. The upper station is just metres from the castle entrance. The castle ticket is not included — buy it separately at the entrance.
 opinionEditorial: "The Montjuïc cable car gives you Barcelona's best panoramic view — better than the Tibidabo for city-and-sea combinations. The 10-minute ride is short but memorable, especially at sunset."
 guiasRelacionadas:
-- barcelona-guia-completa
-- que-ver-barcelona
+- barcelona-in-3-days
+- barcelona-with-kids
 categoria: entradas
 keywords:
 - montjuic cable car barcelona
 - barcelona teleferic montjuic ticket
 - montjuic ticket barcelona
-imagen: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-imagenAlt: Montjuïc cable car gondola with Barcelona and the Mediterranean in the background
-galeria: []
+imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
+imagenAlt: "Views over Barcelona from Montjuïc hill"
+galeria:
+- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
+  alt: "Panorama of Barcelona from Montjuïc, with the fountains and Plaça d'Espanya"
+- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+  alt: "Palau Nacional (MNAC) on the slopes of Montjuïc"
+- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
+  alt: "Venetian towers and Plaça d'Espanya at the foot of Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas: []

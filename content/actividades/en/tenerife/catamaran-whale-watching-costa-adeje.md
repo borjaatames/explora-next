@@ -61,8 +61,7 @@ preguntasFrecuentes:
   respuesta: Most departures include a swimming stop in calm, clear Atlantic waters. This is weather and sea-condition dependent. Confirm with the operator on booking.
 opinionEditorial: "The south Tenerife option for whale watching. Convenient if you're staying in Los Cristianos or Las Américas, with the same excellent pilot whale sighting rates as the Los Gigantes route."
 guiasRelacionadas:
-- tenerife-guia-completa
-- que-ver-tenerife
+- whale-watching-tenerife
 categoria: excursiones
 keywords:
 - whale watching costa adeje tenerife
@@ -72,10 +71,12 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Pilot whales surfacing in the waters off Tenerife
 galeria:
-- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Spotted dolphin bow-riding near a catamaran, Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Pilot whale surfacing and breathing, Tenerife
+  alt: "Pilot whale surfacing and breathing, Tenerife"
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: "Pilot whale blowing at the surface, Tenerife"
+- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+  alt: "Pilot whale calf beside its mother, Tenerife"
 ratingProveedor: 4.7
 numeroOpiniones: 4248
 atraccionesRelacionadas: []

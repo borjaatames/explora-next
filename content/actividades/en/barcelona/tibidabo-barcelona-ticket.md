@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Tibidabo amusement park ticket'
 slug: tibidabo-barcelona-ticket
 ciudad: barcelona
-descripcion: 'Entry to Tibidabo, Barcelona's historic hilltop amusement park with panoramic views over the entire city. 4.3/5 with 458 reviews.'
+descripcion: "Entry to Tibidabo, Barcelona's historic hilltop amusement park with panoramic views over the entire city. 4.3/5 with 458 reviews."
 slugs:
   es: tibidabo-barcelona-entrada
   en: tibidabo-barcelona-ticket
@@ -28,7 +28,7 @@ noIncluye:
 - Transport to the park (funicular not included)
 - Food and drink
 puntoEncuentro:
-  texto: 'Parc d'Atraccions Tibidabo, Pl. del Tibidabo, 3-4, Barcelona'
+  texto: "Parc d'Atraccions Tibidabo, Pl. del Tibidabo, 3-4, Barcelona"
   descripcionGuia: Take the FGC train from Plaça de Catalunya to Av. Tibidabo, then the Tramvia Blau (blue tram) to the funicular, then the funicular to the top. The journey from the city centre takes about 45 minutes. Check opening hours before visiting — Tibidabo does not open every day.
   latitud: 41.4217
   longitud: 2.1190
@@ -55,10 +55,10 @@ preguntasFrecuentes:
 - pregunta: Is Tibidabo open every day?
   respuesta: No. Tibidabo typically opens Thursday to Sunday during the main season and weekends only in low season. Always check the official calendar before booking. Closure on certain days is a common source of disappointment.
 - pregunta: How do I get to Tibidabo?
-  respuesta: Take the FGC train from Plaça de Catalunya to Av. Tibidabo, then the Tramvia Blau (blue tram, scenic and historic) to the funicular base station, then the funicular to the park entrance. Total journey: about 45 minutes.
+  respuesta: "Take the FGC train from Plaça de Catalunya to Av. Tibidabo, then the Tramvia Blau (blue tram, scenic and historic) to the funicular base station, then the funicular to the park entrance. Total journey: about 45 minutes."
 opinionEditorial: "Tibidabo is unlike any other amusement park: historic, atmospheric, and perched at 512 metres with views that stretch to the horizon. The rides are secondary to the experience. Go on a clear day for the full effect."
 guiasRelacionadas:
-- barcelona-guia-completa
+- barcelona-with-kids
 categoria: entradas
 keywords:
 - tibidabo barcelona ticket
@@ -66,7 +66,11 @@ keywords:
 - barcelona viewpoint tibidabo
 imagen: /images/actividades/barcelona/tibidabo/avio-tibidabo.webp
 imagenAlt: Historic Avio biplane ride at Tibidabo amusement park, Barcelona
-galeria: []
+galeria:
+- src: /images/actividades/barcelona/tibidabo/vistas-barcelona.webp
+  alt: "Views over Barcelona from Tibidabo amusement park"
+- src: /images/actividades/barcelona/tibidabo/templo-sagrado-corazon.webp
+  alt: "Temple of the Sacred Heart on Tibidabo"
 ratingProveedor: 4.3
 numeroOpiniones: 458
 atraccionesRelacionadas: []

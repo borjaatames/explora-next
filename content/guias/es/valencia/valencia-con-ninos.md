@@ -23,6 +23,7 @@ actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada
   - oceanografic-museo-ciencias-entrada-combinada
+  - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   - tour-tuk-tuk-valencia-centro-playas
   - paseo-catamaran-valencia-atardecer
   - albufera-atardecer-paseo-en-barca

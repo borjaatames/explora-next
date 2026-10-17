@@ -64,8 +64,7 @@ preguntasFrecuentes:
   respuesta: Es un zoo de conservación premiado internacionalmente. Los shows de orcas y delfines son demostraciones de comportamiento natural en cautividad, no espectáculos de circo al uso. Loro Parque es socio de numerosos proyectos de conservación en libertad.
 opinionEditorial: 'El combo Loro Parque + Siam Park es la excursión estrella de Tenerife y no decepciona. Loro Parque tiene la colección de animales más impresionante de Europa y Siam Park el mejor diseño temático de todos los parques acuáticos españoles. Si tienes dos días libres en Tenerife, esta es la inversión perfecta.'
 guiasRelacionadas:
-- tenerife-guia-completa
-- tenerife-parques-ninos
+- que-ver-en-tenerife
 categoria: entradas
 keywords:
 - loro parque siam park combinado

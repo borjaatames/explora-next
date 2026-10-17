@@ -58,7 +58,7 @@ preguntasFrecuentes:
   respuesta: Yes. The dolphinarium shows are included in the standard ticket. Check the daily schedule at the entrance as times vary.
 opinionEditorial: 'Madrid Zoo is the best family day out in the Spanish capital. The giant pandas alone are worth the visit, but the sheer variety of species — over 6,000 animals — keeps adults as engaged as the children.'
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-with-kids
 categoria: entradas
 keywords:
 - madrid zoo ticket
@@ -67,7 +67,13 @@ keywords:
 - madrid zoo skip the line
 imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
 imagenAlt: Giant pandas at Madrid Zoo Aquarium
-galeria: []
+galeria:
+- src: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
+  alt: "Dolphinarium at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-acuario.webp
+  alt: "Aquarium at Zoo Aquarium de Madrid"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-rapaces.webp
+  alt: "Birds of prey show at Zoo Aquarium de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas: []

@@ -31,6 +31,7 @@ actividades:
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada
+  - barco-soller-sa-calobra
 faq:
 - pregunta: ¿Cuál es la mejor zona para alojarse en Mallorca con niños?
   respuesta: El norte, en torno a Alcúdia, gana al suroeste de ambiente fiestero. Tiene playas tranquilas y de aguas poco profundas como Playa de Muro, y es mejor base familiar que las calas pequeñas de moda, que no tienen sombra ni aparcamiento.

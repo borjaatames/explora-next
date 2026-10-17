@@ -5,7 +5,7 @@ ciudad: valencia
 descripcion: 'Entrada combinada a los tres grandes atractivos de la Ciudad de las Artes y las Ciencias de Valencia: Oceanogràfic, Hemisfèric y Museu de les Ciències Príncep Felip. 4,5/5 con 3.518 reseñas.'
 slugs:
   es: ciudad-artes-3-en-1-oceanografic-hemisferic-museu
-  en: city-of-arts-3-in-1-oceanografic-hemispheric-museum
+  en: ciudad-artes-3-en-1-ticket
 duracion: 1 día completo
 duracionMinutos: 600
 precioDesde: 46
@@ -65,23 +65,26 @@ preguntasFrecuentes:
   respuesta: Sí; el ahorro respecto a comprar las tres entradas por separado es significativo, especialmente para familias.
 opinionEditorial: 'La Ciudad de las Artes y las Ciencias es la visita más espectacular de Valencia. El combo 3 en 1 es la opción más inteligente: el Oceanogràfic solo ya vale la excursión, y el Hemisfèric y el Museu redondean el día. Necesitas el día completo y energías; no intentes hacerlo a medias.'
 guiasRelacionadas:
-- valencia-guia-completa
-- valencia-con-ninos-actividades
+- ciudad-artes-ciencias-como-visitar
+- valencia-con-ninos
+- valencia-en-2-dias
 categoria: entradas
 keywords:
 - oceanografic valencia entrada
 - ciudad artes ciencias valencia
 - oceanografic hemisferic valencia
 - ciudad artes valencia 3 en 1
-imagen: /images/actividades/valencia/oceanografic/oceanografic-tunel.webp
-imagenAlt: Túnel submarino del Oceanogràfic de Valencia
+imagen: /images/actividades/valencia/oceanografic/ciudad-artes-noche.webp
+imagenAlt: "Ciudad de las Artes y las Ciencias de Valencia iluminada de noche"
 galeria:
-- src: /images/actividades/valencia/oceanografic/oceanografic-beluga.webp
-  alt: Belugas en el Oceanogràfic de Valencia
-- src: /images/actividades/valencia/oceanografic/oceanografic-tiburones.webp
-  alt: Tiburones en el acuario del Oceanogràfic
-- src: /images/actividades/valencia/ciudad-artes/ciudad-artes-calatrava.webp
-  alt: Arquitectura de Calatrava en la Ciudad de las Artes y las Ciencias
+- src: /images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp
+  alt: "Edificio de acceso del Oceanogràfic de Valencia"
+- src: /images/actividades/valencia/oceanografic/beluga.webp
+  alt: "Beluga en el acuario del Ártico del Oceanogràfic"
+- src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
+  alt: "Hemisfèric de la Ciudad de las Artes y las Ciencias"
+- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
+  alt: "Fachada del Museu de les Ciències de Valencia"
 ratingProveedor: 4.5
 numeroOpiniones: 3518
 atraccionesRelacionadas:

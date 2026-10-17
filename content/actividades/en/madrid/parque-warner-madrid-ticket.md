@@ -58,9 +58,9 @@ preguntasFrecuentes:
   respuesta: About 50 km south, roughly 45 minutes by car or bus. There are direct shuttle buses from Madrid's Estación Sur de Autobuses.
 - pregunta: What's the best ride?
   respuesta: Superman Ride is the park's most popular coaster. Batman Gotham City is more intense. Both have long queues in peak season — arrive at opening.
-opinionEditorial: 'Parque Warner is one of Spain's best theme parks, on par with PortAventura for ride quality. The DC and Warner Bros theming is well executed, and the stunt shows are genuinely impressive. A full day well spent.'
+opinionEditorial: "Parque Warner is one of Spain's best theme parks, on par with PortAventura for ride quality. The DC and Warner Bros theming is well executed, and the stunt shows are genuinely impressive. A full day well spent."
 guiasRelacionadas:
-- madrid-con-ninos-guia-honesta
+- madrid-with-kids
 categoria: entradas
 keywords:
 - parque warner madrid ticket
@@ -68,7 +68,13 @@ keywords:
 - madrid theme park
 imagen: /images/actividades/madrid/parque-warner/superman-ride.webp
 imagenAlt: Superman Ride roller coaster at Parque Warner Madrid
-galeria: []
+galeria:
+- src: /images/actividades/madrid/parque-warner/batman-show.webp
+  alt: "Batman stunt show at Parque Warner Madrid"
+- src: /images/actividades/madrid/parque-warner/dc-comics-zona.webp
+  alt: "DC Super Heroes World area at Parque Warner"
+- src: /images/actividades/madrid/parque-warner/looney-tunes.webp
+  alt: "Cartoon Village (Looney Tunes) area at Parque Warner"
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas: []

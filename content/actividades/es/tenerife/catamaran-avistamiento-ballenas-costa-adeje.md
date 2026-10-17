@@ -61,7 +61,7 @@ preguntasFrecuentes:
   respuesta: Sí. La parada de baño se hace en aguas tranquilas y el operador indica zonas seguras. Las aguas del sur de Tenerife son cálidas y claras en verano (22-24 °C).
 opinionEditorial: 'La excursión en catamarán desde Puerto Colón es la opción más cómoda para las familias alojadas en el sur de Tenerife. El catamarán da estabilidad, y la parada de baño convierte el tour en una actividad completa de media jornada.'
 guiasRelacionadas:
-- tenerife-guia-completa
+- avistamiento-ballenas-tenerife
 categoria: excursiones
 keywords:
 - avistamiento ballenas costa adeje
