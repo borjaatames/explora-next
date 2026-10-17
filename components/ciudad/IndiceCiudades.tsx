@@ -44,7 +44,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
   es: {
     inicio: "Inicio",
     titulo: "Ciudades de España",
-    subtitulo: "Guías prácticas para entender cada ciudad antes de visitarla.",
+    subtitulo: "Guías propias, tours y actividades para cada ciudad.",
     destinos: "destinos",
     actividades: "actividades",
     guias: "guías propias",
@@ -56,7 +56,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
   en: {
     inicio: "Home",
     titulo: "Cities of Spain",
-    subtitulo: "Practical guides to understand each city before you visit.",
+    subtitulo: "Our own guides, tours and activities for every city.",
     destinos: "destinations",
     actividades: "activities",
     guias: "own guides",
@@ -68,7 +68,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
   de: {
     inicio: "Start",
     titulo: "Städte in Spanien",
-    subtitulo: "Praktische Reiseführer, um jede Stadt vor dem Besuch zu verstehen.",
+    subtitulo: "Eigene Reiseführer, Touren und Aktivitäten für jede Stadt.",
     destinos: "Reiseziele",
     actividades: "Aktivitäten",
     guias: "eigene Reiseführer",
@@ -80,7 +80,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
   fr: {
     inicio: "Accueil",
     titulo: "Villes d'Espagne",
-    subtitulo: "Des guides pratiques pour comprendre chaque ville avant de la visiter.",
+    subtitulo: "Nos guides, tours et activités pour chaque ville.",
     destinos: "destinations",
     actividades: "activités",
     guias: "guides maison",
@@ -92,7 +92,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
   it: {
     inicio: "Home",
     titulo: "Città della Spagna",
-    subtitulo: "Guide pratiche per capire ogni città prima di visitarla.",
+    subtitulo: "Guide proprie, tour e attività per ogni città.",
     destinos: "destinazioni",
     actividades: "attività",
     guias: "guide proprie",
@@ -104,7 +104,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
   pt: {
     inicio: "Início",
     titulo: "Cidades de Espanha",
-    subtitulo: "Guias práticos para entender cada cidade antes de a visitar.",
+    subtitulo: "Guias próprios, tours e atividades para cada cidade.",
     destinos: "destinos",
     actividades: "atividades",
     guias: "guias próprios",
