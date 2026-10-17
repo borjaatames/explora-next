@@ -20,7 +20,10 @@ import {
 import type { Idioma } from "@/lib/i18n/types";
 import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
-import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
+import {
+  obtenerActividadesParaGuia,
+  obtenerCarruselGuia,
+} from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
@@ -265,9 +268,18 @@ export default async function GuiaPage({ params }: Props) {
     ...slugsInline(trozos),
     ...reservasArriba.map((a) => a.slugs?.es ?? a.slug),
   ]);
-  const actividadesCarrusel = actividadesRecomendadas
-    .filter((a) => !yaOfrecidas.has(a.slugs?.es ?? a.slug))
-    .slice(0, 4);
+  const actividadesCarrusel = obtenerCarruselGuia(
+    idiomaFichas(lang),
+    guia.categoria,
+    {
+      slug: guia.slug,
+      titulo: guia.titulo,
+      keywords: guia.keywords,
+      actividades: guia.actividades,
+    },
+    yaOfrecidas,
+    4
+  );
   const actividadSticky =
     reservasArriba[0] ??
     fichasCiudad.get(slugsInline(trozos)[0] ?? "") ??
