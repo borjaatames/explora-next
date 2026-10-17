@@ -1,0 +1,18 @@
+Portadas de /ciudades elegidas por Borja el 17-10-2026. Origen en E:\imagenes-master; anteriores guardadas en E:\imagenes-master\_portadas-ciudades-anteriores-2026-10-17
+
+alicante: alicante/centro/vista-puerto.webp (1600x1200) -> 384 KB
+mallorca: mallorca/portada/unsplash-SaW5DBItJHI.jpg (2400x1600) -> 423 KB
+tenerife: tenerife/teide/canadas-panoramica.webp (1600x1200) -> 363 KB
+gran-canaria: gran-canaria/dunas/dunas-crestas.webp (1600x1200) -> 250 KB
+madrid: madrid/plaza-cibeles/unsplash-aKY08_VOuXQ.jpg (4058x2896) -> 316 KB
+barcelona: barcelona/park-guell/unsplash-qiH16d5SRxg.jpg (4608x3456) -> 358 KB
+sevilla: sevilla/torre-oro-sevilla/wikimedia-148525824.jpg (6720x4480) -> 294 KB
+granada: granada/alhambra/unsplash-zXxkdiBgHvA.jpg (2400x1600) -> 436 KB
+valencia: valencia/ciudades/valencia-hero.webp (1600x1200) -> 266 KB
+malaga: malaga/portada/pexels-35894600.jpeg (3996x2248) -> 267 KB
+cordoba: cordoba/portada/wikimedia-centro-histórico-16-9-2023-córdoba-españa.jpg (5984x3366) -> 366 KB
+cadiz: cadiz/mar/catedral-desde-mar.webp (1600x1200) -> 242 KB
+bilbao: bilbao/guggenheim/guggenheim-ria.webp (1600x1200) -> 215 KB
+santiago-de-compostela: santiago-de-compostela/catedral/catedral-ciudad.webp (1600x1200) -> 360 KB
+salamanca: salamanca/rio/tormes-catedral.webp (1600x1200) -> 285 KB
+girona: girona/casas-onar/pexels-6088130.jpeg (3634x2423) -> 411 KB
