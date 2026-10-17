@@ -38,6 +38,8 @@ Der Schlüssel: Trennen Sie das Kostenlose (das Gotteshaus, das Grab des Apostel
 - **Die Umarmung des Apostels** (wenn zugänglich), hinter dem Altar.
 - **Die Pilgermesse**, täglich (siehe unten).
 
+[actividad: catedral-santiago-museo-tour-guiado]
+
 ## Was kostenpflichtig ist (und sich lohnt)
 
 | Besichtigung | Was sie beinhaltet |
@@ -69,6 +71,8 @@ Es handelt sich um die tägliche Messe (üblicherweise um **12:00 Uhr**, mit ein
 2. **Pünktlich um 12:00 Uhr zur Messe kommen.** Sie wird voll sein; gehen Sie früher.
 3. **Das Pórtico de la Gloria auslassen, weil man nicht gebucht hat.** Es ist das Juwel der Kathedrale.
 4. **Mit einem riesigen Rucksack auftauchen.** Man lässt Sie nicht hinein; nutzen Sie die Gepäckaufbewahrung.
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Typische Fehler
 

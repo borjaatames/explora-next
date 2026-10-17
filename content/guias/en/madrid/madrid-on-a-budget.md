@@ -76,6 +76,8 @@ If you're on a zero budget and have no other option, arrive 30 minutes before th
 
 All these state museums share the **same pattern** of free hours: Saturday afternoons and Sunday mornings. Combining two on the same weekend, you can see a lot.
 
+[actividad: museo-prado-entrada]
+
 ## Free viewpoints and views in Madrid
 
 Madrid has more urban altitude than people think. The best free viewpoints:
@@ -178,6 +180,8 @@ Walking with judgment is the free activity par excellence. What changes is **whe
 **5. Confusing "free" with "cheap".** If you do all the free plans but end up eating at a tourist trap on Plaza Mayor, you've spent €30 on bad paella. The free plan includes eating well cheaply: a calamari sandwich at a neighborhood bar, a €10–12 prix fixe in a non-touristy area like Chamberí, a Retiro picnic from a supermarket.
 
 **6. Expecting free Madrid nightlife at clubs with lines.** "Free entry" clubs in Sol or Gran Vía are traps. They give you free entry, charge you €10 for the first drink, and the venue is mediocre. Better a normal neighborhood bar where a beer is €2.50.
+
+[actividad: reina-sofia-entrada]
 
 ## What IS worth paying for (even on a budget plan)
 

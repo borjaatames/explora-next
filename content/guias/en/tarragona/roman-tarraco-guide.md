@@ -38,6 +38,8 @@ actividades:
 
 The key: there are several separate monuments, but the **combined ticket** is far better value. And if you can, come in May, when the city turns Roman.
 
+[actividad: tour-tarraco-romana-a-pie]
+
 ## What to see
 
 | Monument | What it is |
@@ -73,6 +75,8 @@ In **spring and autumn**, with good weather and without the summer heat on the s
 2. **Visiting at midday in summer.** The amphitheatre, circus and walls have little shade; go early.
 3. **Forgetting the aqueduct.** It's on the outskirts and almost no one goes, but it's spectacular and free.
 4. **Skipping the MNAT.** It gives context to everything you see on the street.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Common mistakes
 

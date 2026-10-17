@@ -42,6 +42,8 @@ Die lokale Regel: bei **Poniente** (Westwind) perfekter Strand; bei starkem **Le
 
 **La Caleta** ist der fotogenste (das "Havanna" aus James Bond), perfekt bei Sonnenuntergang. **La Victoria** ist der große Stadtstrand für einen Sonnentag mit Einrichtungen.
 
+[actividad: catamaran-cadiz-atardecer]
+
 ## Die großen Strände der Provinz
 
 - **Bolonia (Tarifa).** Goldener Sand, eine **riesige Düne** und daneben die römischen Ruinen von **Baelo Claudia**. Einer der spektakulärsten.
@@ -65,6 +67,8 @@ Die lokale Regel: bei **Poniente** (Westwind) perfekter Strand; bei starkem **Le
 2. **Nach Bolonia fahren, ohne Baelo Claudia zu sehen.** Die römische Stadt liegt direkt daneben und ist spektakulär.
 3. **Warmes Wasser erwarten.** Es ist der Atlantik: kühler als das Mittelmeer.
 4. **Die Gezeiten vergessen.** Sie verändern den Strand je nach Uhrzeit stark.
+
+[actividad: avistamiento-delfines-trafalgar-barbate]
 
 ## Typische Fehler
 

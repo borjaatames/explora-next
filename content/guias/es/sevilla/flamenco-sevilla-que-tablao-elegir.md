@@ -20,6 +20,7 @@ slugs:
   en: flamenco-seville-which-tablao-to-choose
   de: flamenco-sevilla-welches-tablao-waehlen
 tiempo_lectura: 3
+reservasArriba: true
 actividades:
   - teatro-flamenco-sevilla-show-mas-vendido
   - casa-de-la-memoria-flamenco-show-intimo-sevilla

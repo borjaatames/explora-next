@@ -38,6 +38,8 @@ En Sevilla es difícil comer mal del todo, pero igual de difícil comer realment
 - **Pago y propina:** al final, de palabra, a veces con tiza en la barra; tarjeta casi en todos. Propina, las monedas del cambio.
 - **Reservas:** los bares de tapas no reservan; los restaurantes con mesa, sí, y viernes y sábados hace falta. Evita Feria, Semana Santa y los días de partido en Arenal y Triana.
 
+[actividad: sevilla-tapas-tour-triana-cruzando-rio]
+
 ## Centro y Alfalfa
 
 Regla rápida: aléjate de la Avenida de la Constitución y la Plaza Virgen de los Reyes. Cuanto más cerca de la Giralda, peor.

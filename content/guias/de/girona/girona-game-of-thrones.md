@@ -38,6 +38,8 @@ Das Beste daran: Alle Drehorte liegen in der Altstadt, nur fünf Minuten voneina
 - **Pont de Pedra und der Fluss Onyar.** Die Brücke und die bunten Häuser, zu sehen in Braavos-Szenen.
 - **Passeig Arqueològic (die Stadtmauer).** Mauern, die in mehreren Sequenzen als Kulisse dienten.
 
+[actividad: girona-juego-de-tronos-tour-grupo-reducido]
+
 ## Route zu Fuß
 
 | Reihenfolge | Station |
@@ -60,6 +62,8 @@ Die Drehort-Route überschneidet sich fast vollständig mit dem normalen Altstad
 1. **Nur wegen der Serienfotos kommen.** Girona ist viel mehr als eine Filmkulisse; genieße auch seine Geschichte.
 2. **Die Treppe im Sommer mittags hochsteigen.** Viele Menschen und Hitze; geh früh am Tag.
 3. **Die Anwohner stören.** El Call ist ein bewohntes Viertel; respektiere die Ruhe und die Hauseingänge.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## Typische Fehler
 

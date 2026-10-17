@@ -44,6 +44,8 @@ This isn't a "50 best bars in Madrid" list. It's the opposite: for each dish, on
 | Jamón and cured meats | Lhardy | Sol (Carrera de San Jerónimo, 8) | Iberian ham at the standing counter |
 | Croquetas | Casa Julio | Malasaña (C. de la Madera, 37) | A mixed half-ración of flavors |
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
 ## Where to eat Madrid's best patatas bravas?
 
 At **Las Bravas** (Pasaje Matheu, 5 and Callejón del Gato, 3, both right by Sol). This isn't opinion: this bar's brava sauce has been a registered trademark since **1959**, and a large part of what's called "salsa brava" elsewhere in Spain today descends, directly or indirectly, from the formula cooked up here. It's genuinely spicy, tomato-free, paprika-based, served over fried potato cut into irregular chunks rather than the uniform square cut that's become standard elsewhere.
@@ -167,6 +169,8 @@ Pricier than the rest of the areas on this list, but with a serious level if you
 3. **Confusing Las Bravas with any other Madrid bar that also serves bravas.** The name has been trademarked since 1959; imitators don't have the same sauce.
 4. **Not booking at Malacatín or Casa Lucio on a weekend.** They're small places with high demand; without a reservation, the wait can be long.
 5. **Ordering ham croquetas at Casa Labra.** Cod is the specialty there — for ham, go to Casa Julio instead.
+
+[actividad: aventura-vino-tapas-la-latina]
 
 ## Frequently asked questions
 

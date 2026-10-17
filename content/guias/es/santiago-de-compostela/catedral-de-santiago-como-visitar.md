@@ -39,6 +39,8 @@ actividades:
 
 La clave: separa lo gratuito (el templo, la tumba del Apóstol) de las visitas especiales (Pórtico de la Gloria, cubiertas, museo), que requieren entrada y, a veces, reserva previa.
 
+[actividad: catedral-santiago-museo-tour-guiado]
+
 ## Qué es gratis
 
 - **El templo.** Entrar a la catedral a rezar o a verla es **gratuito**.
@@ -85,6 +87,8 @@ Es la misa en la que culmina el Camino, todos los días a las **12:00** y a las 
 2. **Llegar a las 12:00 justas a la misa.** Estará llena; ve antes.
 3. **Saltarte el Pórtico de la Gloria por no reservar.** Es la joya de la catedral.
 4. **Presentarte con una mochila enorme.** No te dejarán entrar; usa consigna.
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Errores típicos
 

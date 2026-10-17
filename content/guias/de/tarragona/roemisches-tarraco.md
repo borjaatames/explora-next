@@ -42,6 +42,8 @@ Der Schlüssel: Es gibt mehrere einzelne Monumente, aber das **Kombiticket** loh
 | Stadtmauern (Passeig Arqueològic) | Der Spaziergang zwischen den römischen Stadtmauern |
 | Aquädukt von les Ferreres | Der "Pont del Diable", am Stadtrand |
 
+[actividad: tour-tarraco-romana-a-pie]
+
 ## Die Reihenfolge der Route
 
 Beginne beim **Amphitheater**, dem berühmtesten Bild, direkt am Strand. Weiter geht es zum **Römischen Zirkus**, und steige auf den **Prätoriumsturm** für einen Panoramablick. Erkunde das **Forum** und den **Passeig Arqueològic** zwischen den Stadtmauern (die älteste römische Konstruktion außerhalb Italiens). Wenn du ein Auto hast, schließe mit dem **Aquädukt von les Ferreres** am Stadtrand ab. Wir haben es in die Route [Tarragona in einem Tag](/de/guides/tarragona/tarragona-in-einem-tag) eingebaut.
@@ -66,6 +68,8 @@ Im **Frühling und Herbst**, bei gutem Wetter und ohne die Sommerhitze an den sc
 2. **Mittags im Sommer besuchen.** Amphitheater, Zirkus und Stadtmauern bieten wenig Schatten; geh früh.
 3. **Das Aquädukt vergessen.** Es liegt am Stadtrand, und kaum jemand geht hin, aber es ist spektakulär und kostenlos.
 4. **Das MNAT auslassen.** Es liefert den Kontext zu allem, was du auf der Straße siehst.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Typische Fehler
 

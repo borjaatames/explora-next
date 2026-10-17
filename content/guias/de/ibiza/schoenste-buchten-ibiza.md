@@ -41,6 +41,8 @@ Die Insel ist klein: Der **Südwesten** vereint die fotogensten Buchten und die 
 | Süden | Ses Salines, Es Cavallet | Angesagt, neben den Salinen |
 | Osten | Cala Llonga, Cala Mastella, Cala Boix | Familienfreundlich und klein |
 
+[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
+
 ## Die unverzichtbaren
 
 **Cala Comte (Südwesten).** Türkisfarbenes Wasser mit vorgelagerten Inselchen und **einer der schönsten Sonnenuntergänge** der Insel. Sehr beliebt: früh hingehen.
@@ -68,6 +70,8 @@ Die Insel ist klein: Der **Südwesten** vereint die fotogensten Buchten und die 
 2. **An den wilden Buchten Einrichtungen erwarten.** In manchen Buchten im Norden gibt es keine Strandbar; bring Wasser und Sonnenschutz mit.
 3. **Unachtsam auf die Posidonia treten.** Die Seegraswiesen (UNESCO-Welterbe) sorgen für das kristallklare Wasser.
 4. **Nur an den Stränden von Playa d'en Bossa bleiben.** Die schönsten Buchten liegen woanders.
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Typische Fehler
 

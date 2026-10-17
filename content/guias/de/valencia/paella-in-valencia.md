@@ -34,6 +34,8 @@ Die originale **valencianische Paella** enthält **Hähnchen, Kaninchen, Garrof�
 
 > **⚠️ Hinweis:** Wenn Sie "Paella" mit Garnelen, Muscheln, Chorizo und Zitronendekoration sehen, auf einer Terrasse mit laminierten Fotos gegenüber der Kathedrale, ist das keine valencianische Paella: Es ist ein Gericht für Touristen. Gehen Sie zwei Straßen weiter, und alles ändert sich.
 
+[actividad: cata-cerveza-artesanal-tapas-ruzafa]
+
 ## Die anderen Reisgerichte (genauso valencianisch)
 
 | Reisgericht | Was es ist |
@@ -61,6 +63,8 @@ Die originale **valencianische Paella** enthält **Hähnchen, Kaninchen, Garrof�
 2. **Valencianische Paella ≠ Meeresfrüchte-Paella.** Bestellen Sie sie dort, wo man den Unterschied kennt.
 3. **Die beste Paella gibt es in der Albufera/El Palmar.** Im Zentrum zahlen Sie mehr für weniger.
 4. **Reservieren und früh hingehen.** Ein guter Reis braucht 30-40 Minuten und ist schnell ausverkauft.
+
+[actividad: albufera-atardecer-paseo-en-barca]
 
 ## Was wir NICHT empfehlen
 

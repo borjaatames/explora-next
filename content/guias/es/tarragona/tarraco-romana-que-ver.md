@@ -38,6 +38,8 @@ actividades:
 
 La clave: hay varios monumentos sueltos, pero la **entrada conjunta** sale mucho más a cuenta. Y si puedes, ven en mayo, cuando la ciudad se vuelve romana.
 
+[actividad: tour-tarraco-romana-a-pie]
+
 ## Qué ver
 
 | Monumento | Qué es |
@@ -79,6 +81,8 @@ En **primavera y otoño**, con buen clima y sin el calor del verano en los monum
 2. **Visitar al mediodía en verano.** Anfiteatro, circo y murallas tienen poca sombra; ve pronto.
 3. **Olvidar el acueducto.** Está a las afueras y casi nadie va, pero es espectacular y gratis.
 4. **Saltarte el MNAT.** Da contexto a todo lo que ves en la calle.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Errores típicos
 

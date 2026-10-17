@@ -19,6 +19,7 @@ slugs:
   es: subir-al-teide
   en: climbing-mount-teide
   de: teide-besteigen
+reservasArriba: true
 actividades:
   - teide-teleferico-traslado
   - atardecer-estrellas-teide-telescopio

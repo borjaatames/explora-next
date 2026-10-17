@@ -77,6 +77,8 @@ Wenn du mit Nullbudget reist und keine andere Wahl hast, komm 30 Minuten vor der
 
 Alle diese staatlichen Museen folgen dem **gleichen Muster**: Samstagnachmittag und Sonntagvormittag. Wenn du zwei an einem Wochenende kombinierst, kannst du viel sehen.
 
+[actividad: museo-prado-entrada]
+
 ## Kostenlose Aussichtspunkte und Ausblicke in Madrid
 
 Madrid hat mehr städtische Höhe, als man denkt. Das sind die besten kostenlosen Aussichtspunkte:
@@ -179,6 +181,8 @@ Mit Anspruch spazieren zu gehen ist die kostenlose Aktivität schlechthin. Was s
 **5. "Kostenlos" mit "billig" verwechseln.** Wenn du alle kostenlosen Pläne machst, aber am Ende in einem Touristenladen an der Plaza Mayor isst, hast du 30 € für eine schlechte Paella ausgegeben. Der kostenlose Plan beinhaltet gutes, günstiges Essen: ein Tintenfischsandwich in einer Stadtteilkneipe, ein Tagesmenü (10–12 €) in einer nicht-touristischen Gegend wie Chamberí, ein Picknick im Retiro mit Einkäufen vom Supermarkt.
 
 **6. Erwarten, nachts kostenlos in Läden mit Schlange hineinzukommen.** Die kostenlosen Discos am Sol oder an der Gran Vía sind Fallen. Sie geben dir freien Eintritt, verlangen dann 10 € für das erste Getränk, und die Qualität des Ladens ist schlecht. Besser eine normale Stadtteilbar, in der das Bier 2,50 € kostet.
+
+[actividad: reina-sofia-entrada]
 
 ## Was sich WIRKLICH zu bezahlen lohnt (auch mit kostenlosem Plan)
 

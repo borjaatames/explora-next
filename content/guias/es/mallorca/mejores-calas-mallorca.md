@@ -40,6 +40,8 @@ No todas valen para lo mismo: unas son largas y familiares, otras pequeñas y fo
 | Norte | Formentor, Playa de Muro | Familiares y de aguas tranquilas |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Dramáticas, entre montañas |
 
+[actividad: barco-soller-sa-calobra]
+
 ## Las imprescindibles
 
 **Es Trenc (sur).** La playa virgen más famosa: arena blanca y agua caribeña, sin construcciones, junto a las salinas. Apenas tiene servicios; lleva sombra y agua.
@@ -78,6 +80,8 @@ No todas valen para lo mismo: unas son largas y familiares, otras pequeñas y fo
 2. **Esperar servicios en las vírgenes.** Es Trenc o Cala Varques no tienen chiringuito; lleva agua y sombra.
 3. **Pisar la posidonia sin cuidado.** Las praderas submarinas (Patrimonio de la Humanidad) son las que dan el agua cristalina.
 4. **Bajar a Caló des Moro con movilidad reducida.** Es una bajada por rocas y escaleras.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Errores típicos
 

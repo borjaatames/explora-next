@@ -21,6 +21,7 @@ slugs:
   es: portaventura-world-guia
   en: portaventura-world-guide
   de: portaventura-world-guide
+reservasArriba: true
 actividades:
   - portaventura-ferrari-caribe-aquatic-entrada
   - portaventura-ferrari-land-entrada

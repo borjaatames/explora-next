@@ -20,6 +20,7 @@ slugs:
   en: flamenco-cave-sacromonte-which-to-choose
   de: flamenco-hoehle-sacromonte-welche-waehlen
 tiempo_lectura: 4
+reservasArriba: true
 actividades:
   - flamenco-cueva-zincale-sacromonte
   - flamenco-cueva-amayas-sacromonte

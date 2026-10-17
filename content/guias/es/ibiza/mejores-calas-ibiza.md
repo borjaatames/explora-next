@@ -42,6 +42,8 @@ actividades:
 
 La isla es pequeña: el **suroeste** concentra las calas más fotogénicas y los atardeceres; el **norte** es más tranquilo y agreste; el **sur** tiene las playas de moda junto a las salinas.
 
+[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
+
 ## Por zonas
 
 | Zona | Calas destacadas | Carácter |
@@ -87,6 +89,8 @@ La isla es pequeña: el **suroeste** concentra las calas más fotogénicas y los
 2. **Esperar servicios en las calas agrestes.** En algunas del norte no hay chiringuito; lleva agua y sombra.
 3. **Pisar la posidonia sin cuidado.** Las praderas (Patrimonio de la Humanidad) dan el agua cristalina.
 4. **Quedarte solo en las playas de Playa d'en Bossa.** Las mejores calas están fuera.
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Errores típicos
 

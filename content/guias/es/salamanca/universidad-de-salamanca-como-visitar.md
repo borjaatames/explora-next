@@ -35,6 +35,8 @@ La Universidad de Salamanca es **la más antigua de España** (1218) y una de la
 | [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 19 € |
 | [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
 
+[actividad: universidad-salamanca-visita-guiada]
+
 ## Qué se visita y qué cuesta
 
 «La Universidad» no es un edificio sino varios espacios:
@@ -74,6 +76,8 @@ La Universidad es la institución viva que da pulso a Salamanca: 30.000 estudian
 ## Cuánto tiempo y cómo
 
 Solo el Edificio Histórico, 1 h 30 a 2 horas; con las Escuelas Menores y el Cielo, 2 h 30 (lo recomendable); con la Casa Unamuno, 3 horas. **Por libre** funciona si llegas con un mínimo de contexto; **con guía oficial** (contratado en taquilla u online, 1 h a 1 h 30) ganas anécdotas que no están en los paneles y es mejor con adolescentes. Los free tours nocturnos **no entran al edificio**: solo rodean la fachada.
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Errores típicos
 

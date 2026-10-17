@@ -19,6 +19,7 @@ slugs:
   es: flamenco-barcelona-que-tablao-elegir
   en: flamenco-barcelona-which-tablao-to-choose
   de: flamenco-barcelona-welches-tablao-waehlen
+reservasArriba: true
 actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
   - palau-dalmases-flamenco-show-palacio-siglo-xvii

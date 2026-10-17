@@ -36,6 +36,8 @@ The University of Salamanca is **the oldest university in Spain** (founded in 12
 
 This guide explains how to visit it well: prices, when it's free, which tickets give access to which spaces, what to see inside, and how to make the most of the visit hours without missing what matters. And of course, how to find the frog.
 
+[actividad: universidad-salamanca-visita-guiada]
+
 ## First — what you actually visit
 
 Many people arrive in Salamanca thinking "the University" is one building. **It isn't.** There are several spaces, some paid, some free:
@@ -161,6 +163,8 @@ The balanced recommendation is **2.5 h**: enough time to do the full experience 
 **Guided visit with an official guide:** very recommended if you don't know anything about the University's history, you're with older kids or teenagers (guides make the content accessible), or you want anecdotes and legends not in the panels. There are official guided tours bookable directly at the ticket office or online. Duration: 1h–1h 30min.
 
 > **⚠️ Warning:** don't confuse them with free tours. The nighttime free tours of Salamanca **don't enter the building**. They just walk around the façade. If you want to enter, pay the admission or take an official tour.
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Common visitor mistakes
 

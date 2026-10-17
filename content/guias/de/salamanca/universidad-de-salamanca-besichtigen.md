@@ -44,6 +44,8 @@ Viele kommen nach Salamanca und denken, "die Universität" sei ein einziges Geb�
 
 > **⭐ Tipp:** Die äußere Plateresk-Fassade (wo sich der Frosch befindet) ist **kostenlos und jederzeit zugänglich**. Sie müssen nichts bezahlen, um sie zu sehen. Bezahlt wird nur der Eintritt ins Gebäude.
 
+[actividad: universidad-salamanca-visita-guiada]
+
 ## Preise und Öffnungszeiten
 
 ### Regulärer Eintritt
@@ -155,6 +157,8 @@ Die ausgewogene Empfehlung sind **2,5 Stunden**: genug Zeit für das vollständi
 **Geführte Tour mit offiziellem Guide:** sehr empfehlenswert, wenn Sie nichts über die Geschichte der Universität wissen, mit älteren Kindern oder Jugendlichen unterwegs sind (Guides machen den Inhalt zugänglicher) oder Anekdoten und Legenden hören möchten, die nicht auf den Schildern stehen. Es gibt offizielle geführte Touren, die direkt an der Kasse oder online gebucht werden können. Dauer: 1–1,5 Stunden.
 
 > **⚠️ Hinweis:** Verwechseln Sie sie nicht mit Free Tours. Die nächtlichen Free Tours durch Salamanca **betreten das Gebäude nicht**. Sie gehen nur um die Fassade herum. Wenn Sie hinein möchten, zahlen Sie den Eintritt oder buchen Sie eine offizielle Tour.
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Typische Besucherfehler
 

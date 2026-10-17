@@ -19,6 +19,7 @@ slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
   de: park-guell-welches-ticket-waehlen
+reservasArriba: true
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

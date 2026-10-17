@@ -39,6 +39,8 @@ actividades:
 
 The key: separate the free part (the temple, the Apostle's tomb) from the special visits (Pórtico de la Gloria, rooftops, museum), which require a ticket and, sometimes, advance booking.
 
+[actividad: catedral-santiago-museo-tour-guiado]
+
 ## What's free
 
 - **The temple.** Entering the cathedral to pray or to see it is **free**.
@@ -77,6 +79,8 @@ It's the daily Mass (usually at **12:00**, with another in the evening) that cro
 2. **Arriving right at 12:00 for the Mass.** It'll be full; go earlier.
 3. **Skipping the Pórtico de la Gloria for not booking.** It's the cathedral's jewel.
 4. **Turning up with a huge backpack.** They won't let you in; use storage.
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Common mistakes
 

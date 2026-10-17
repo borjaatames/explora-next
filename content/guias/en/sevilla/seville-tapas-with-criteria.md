@@ -41,6 +41,8 @@ Four rules that completely change the experience and that almost nobody explains
 
 **The service can feel curt. It's not personal.** In tabernas with history, the waiter sometimes has a brusque manner that comes from the trade. It isn't rudeness, they're serving 40 people. They'll treat you like any Sevillian: no red carpet. Counter to appearances, that's a good sign.
 
+[actividad: sevilla-tapas-tour-triana-cruzando-rio]
+
 ## Centro and Alfalfa: two classics worth what they charge
 
 The quadrant between the Cathedral, Plaza Nueva and Alfalfa concentrates the oldest bars in the center and, equally, the most aggressive tourist traps. Quick rule: **stay away from Avenida de la Constitución and Plaza Virgen de los Reyes**. The closer to the Cathedral, the worse the price-quality ratio. The two places we'd recommend sit less than 200 meters from the Cathedral, but on side streets most visitors don't tread.

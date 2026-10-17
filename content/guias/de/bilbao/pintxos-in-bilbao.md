@@ -40,6 +40,8 @@ Regel Nummer eins: **in Bewegung bleiben**. Der Sinn liegt darin, die Spezialit�
 | García Rivero / Diputación (Ensanche) | Zu den angesehensten der Stadt zählend |
 | Calle Pozas (bei San Mamés) | Lebhaft, besonders an Spieltagen |
 
+[actividad: tour-pintxos-bilbao-vino]
+
 ## Die klassischen Pintxos
 
 - **Die Gilda.** Der originale Pintxo: Peperoni, Olive und Sardelle auf einem Spieß. Salzig und macht süchtig; nehmen Sie ihn zuerst.
@@ -62,6 +64,8 @@ Regel Nummer eins: **in Bewegung bleiben**. Der Sinn liegt darin, die Spezialit�
 4. **Stoßzeiten**: der Mittagsaperitif (13:00–15:00 Uhr) und der abendliche (20:00–22:00 Uhr).
 
 > **⚠️ Hinweis:** Den ganzen Abend in nur einer Bar an der Plaza Nueva zu verbringen, ist typisch touristisch. Einheimische ziehen durch drei oder vier Lokale; machen Sie es genauso, und Sie werden deutlich besser essen.
+
+[actividad: clase-cocina-pintxos-bilbao]
 
 ## Was wir NICHT empfehlen
 

@@ -42,6 +42,8 @@ Der Schlüssel zur Tramuntana ist, langsam zu fahren: Es sind nur wenige Kilomet
 
 > **⭐ Tipp:** die Straße nach **Sa Calobra** und die Aussichtspunkte füllen sich in der Saison bereits am späten Vormittag. Fahre früh los: Du kommst entspannter voran und machst die Fotos ohne Menschenmassen.
 
+[actividad: barco-soller-sa-calobra]
+
 ## Die unverzichtbaren Dörfer
 
 **Valldemossa.** Das berühmteste Dorf mit gepflasterten Gassen und Blumen, mit der **Kartause**, in der Chopin und George Sand den Winter 1838-39 verbrachten. Hübsch und stark besucht: geh früh hin.
@@ -83,6 +85,8 @@ Bergküche: **Frit, Tumbet, Arròs brut** und, aus Sóller, die **Orangen** und 
 2. **Sa Calobra befahren, wenn dir bei Bergstraßen übel wird.** Extreme Kurven; erwäge den Bus oder das Boot.
 3. **Mittags im Sommer zu den Aussichtspunkten fahren.** Überfüllt und ohne Parkplatz; geh früh hin.
 4. **Den Zug von Sóller auslassen**, wenn du langsames Reisen magst.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Typische Fehler
 

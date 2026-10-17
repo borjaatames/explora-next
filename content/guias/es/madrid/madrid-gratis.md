@@ -56,6 +56,8 @@ Madrid es de las pocas capitales europeas donde se pueden pasar varios días sin
 
 Los museos estatales comparten patrón, sábado tarde y domingo mañana: en un fin de semana se combinan dos. En el Prado la hora gratis ahorra 15 €, pero son colas y salas saturadas: si solo vas a verlo una vez en la vida, paga y entra a las 10:00 con el museo vacío ([lo comparamos aquí](/guias/madrid/prado-reina-sofia-thyssen-comparativa)). Si no queda otra, llega 30 minutos antes de la hora gratuita.
 
+[actividad: museo-prado-entrada]
+
 ## Miradores y aire libre
 
 - **Templo de Debod y Parque del Oeste** al atardecer: Palacio Real, sierra y sol naranja. Si Debod está lleno, 50 metros más arriba en el parque hay la misma vista.
@@ -85,6 +87,8 @@ Los museos estatales comparten patrón, sábado tarde y domingo mañana: en un f
 4. **Parques a las 14:00 en julio y agosto:** de 9:00 a 12:00 o desde las 19:00.
 5. **Gratis no es barato:** si acabas en una paella de 30 € en la Plaza Mayor, el plan se ha roto. Menú del día a 10-12 € en Chamberí, bocadillo de calamares en bar de barrio o pícnic en el Retiro.
 6. **Las discotecas «gratis» de Sol y Gran Vía:** 10 € la primera copa y mal sitio. Un bar de barrio con la caña a 2,50 €.
+
+[actividad: reina-sofia-entrada]
 
 ## Lo que sí merece pagar
 

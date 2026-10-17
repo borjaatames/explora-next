@@ -33,6 +33,8 @@ actividades:
 
 La clave: si vienes en mayo, vas a vivir la Córdoba más bonita del año (pero más llena); si vienes en otra época, no te quedas sin patios.
 
+[actividad: patios-cordobeses-tour-con-entradas]
+
 ## La Fiesta de los Patios (mayo)
 
 Durante unas **dos semanas de mayo**, decenas de casas de los barrios históricos abren sus patios y compiten en un concurso. La entrada es **gratuita**; se hace una ruta a pie de patio en patio. Coincide con las **Cruces de Mayo** (principios de mes) y precede a la **Feria** (finales): el mes grande de Córdoba.

@@ -20,6 +20,7 @@ slugs:
   en: flamenco-madrid-which-tablao-to-choose
   de: flamenco-madrid-welches-tablao-waehlen
 tiempo_lectura: 2
+reservasArriba: true
 actividades:
   - flamenco-tablao-las-carboneras
   - flamenco-torres-bermejas-cena

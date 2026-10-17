@@ -41,6 +41,8 @@ faq:
 
 Die Dünen entstanden aus Meeressand, den der Wind herträgt und anhäuft, und sie wandern jedes Jahr weiter. Daneben liegen ein **Palmenhain** und **La Charca de Maspalomas**, eine Brackwasserlagune, an der Zugvögel rasten. Im Westen steht der **Leuchtturm von Maspalomas** (Ende 19. Jahrhundert), eines der Wahrzeichen der Insel, umgeben von der Promenade von Meloneras.
 
+[actividad: paseo-camello-dunas-maspalomas]
+
 ## Anfahrt und Zugänge
 
 - **Aussichtspunkt der Dünen** (Playa del Inglés): das beste Panorama und das Informationszentrum. Ideal für ein erstes Foto.
@@ -62,6 +64,8 @@ Auf der Seite von Oasis gibt es eine Station mit **Kamelen**, die rund 30-minüt
 ## Wann man hingeht
 
 **Bei Sonnenaufgang** hast du die Dünen fast für dich, mit vom Wind gezeichneten Mustern im Sand; **bei Sonnenuntergang** das schönste Licht und Vögel an La Charca. Meide im Sommer die Mittagszeit. Bei starkem Wind sticht der Sand: dann lieber an einem anderen Tag.
+
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
 
 ## Gut zu kombinieren mit
 

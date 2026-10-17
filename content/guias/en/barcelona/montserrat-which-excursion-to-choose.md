@@ -19,6 +19,7 @@ slugs:
   es: montserrat-que-excursion-elegir
   en: montserrat-which-excursion-to-choose
   de: montserrat-welche-tour-waehlen
+reservasArriba: true
 actividades:
   - montserrat-medio-dia-grupo-pequeno
   - montserrat-cremallera-bodega-castlexperience

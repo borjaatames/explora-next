@@ -37,6 +37,8 @@ Der Schlüssel: Plane einen **ganzen Tag** ein, keinen halben. Und buche im Somm
 
 Du kommst im Hafen von **La Savina** an. Prüfe immer den Seegang: Bei starkem Wellengang verspäten sich die Fähren oder fallen aus.
 
+[actividad: excursion-barco-ibiza-formentera-todo-incluido]
+
 ## Fortbewegung
 
 Formentera ist etwa 19 km lang und der öffentliche Nahverkehr ist eingeschränkt, deshalb ist es am besten, in **La Savina einen Roller, ein Fahrrad oder ein Auto zu mieten** (im Sommer im Voraus buchen). Der Roller ist am praktischsten und macht am meisten Spaß; das Fahrrad eignet sich ideal für die flachen Wege in Hafennähe.
@@ -70,6 +72,8 @@ Formentera ist etwa 19 km lang und der öffentliche Nahverkehr ist eingeschränk
 2. **Im Sommer weder Fähre noch Fahrzeug im Voraus buchen.** Sie sind schnell ausgebucht und die Preise schießen in die Höhe.
 3. **Auf die Posidonia treten oder Müll hinterlassen.** Das kristallklare Wasser hängt von den geschützten Seegraswiesen ab.
 4. **Bargeld und Sonnenschutz vergessen.** An den unberührten Stränden gibt es nicht alles zu kaufen.
+
+[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Typische Fehler
 

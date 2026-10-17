@@ -34,6 +34,8 @@ actividades:
 
 Rule number one: **Valencian paella is not seafood paella**. The original is farm and field, and it's eaten at lunch. Understand that and you've already won half the game.
 
+[actividad: cata-cerveza-artesanal-tapas-ruzafa]
+
 ## What authentic Valencian paella is
 
 The original **Valencian paella** has **chicken, rabbit, garrofó (a flat butter bean), green beans (ferraúra) and, depending on the house, snails**. No seafood, no chorizo, no peas, no onion. It's made with bomba rice, sofrito, saffron and the touch of *socarrat* (the toasted layer at the bottom). It's a **lunchtime** dish, made to share.
@@ -67,6 +69,8 @@ The original **Valencian paella** has **chicken, rabbit, garrofó (a flat butter
 2. **Valencian paella ≠ seafood paella.** Order it where they know the difference.
 3. **The best paella is in La Albufera/El Palmar.** In the centre you pay more for less.
 4. **Book and go early.** Good rice takes 30-40 min and sells out.
+
+[actividad: albufera-atardecer-paseo-en-barca]
 
 ## What we don't recommend
 

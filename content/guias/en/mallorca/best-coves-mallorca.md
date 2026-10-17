@@ -40,6 +40,8 @@ Not all are for the same thing: some are long and family-friendly, others small 
 | North | Formentor, Playa de Muro | Family-friendly, calm water |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Dramatic, between mountains |
 
+[actividad: barco-soller-sa-calobra]
+
 ## The essentials
 
 **Es Trenc (south).** The most famous wild beach: white sand and Caribbean water, no buildings, beside the salt flats. Hardly any services; bring shade and water.
@@ -68,6 +70,8 @@ Not all are for the same thing: some are long and family-friendly, others small 
 2. **Expecting services at the wild ones.** Es Trenc or Cala Varques have no beach bar; bring water and shade.
 3. **Stepping carelessly on the posidonia.** The underwater meadows (a World Heritage Site) are what give the crystal-clear water.
 4. **Climbing down to Caló des Moro with reduced mobility.** It's a descent over rocks and steps.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Common mistakes
 

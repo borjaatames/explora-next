@@ -36,6 +36,8 @@ Barcelona has **a clear gastronomic identity** many people don't recognize becau
 
 Real Catalan cooking is **Mediterranean, market-driven**, with a base of pa amb tomàquet, butifarra, mar i muntanya (sea and mountain combos), escalivada, fideuà, calçots in season, and crema catalana. And it has **its own rituals**: midday vermouth on weekends, the granja for chocolate, pintxos at the bar.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Real schedules
 
 | Meal | Time | Notes |
@@ -148,6 +150,8 @@ This is a Barcelona ritual, non-negotiable.
 Places for authentic vermouth: **Bormuth** (Born), **Bar Calders** (Sant Antoni), **El Xampanyet** (Carrer Montcada 22, Born — old classic) and **Quimet & Quimet** (Poble Sec, combines vermouth with montaditos).
 
 > **⭐ Tip:** don't ask for "a vermouth" at a hipster chain. Ask for **"un vermut de grifo"** (a tap vermouth) at a neighborhood bar. The difference is brutal.
+
+[actividad: tour-tapas-y-vino-noche]
 
 ## Common visitor mistakes at the table
 

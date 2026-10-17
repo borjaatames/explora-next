@@ -43,6 +43,8 @@ Comer mal en Barcelona es muy fácil: tres décadas de turismo masivo han llenad
 
 Si quieres comer a las 17:00 o cenar a las 19:30, te toca bar de turistas.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas, barra y vermut
 
 - **Bar Cañete** (Unió, 17, Raval): barra de mármol y producto de lonja al máximo nivel. Caro, cierra domingos, **reserva imprescindible**.
@@ -83,6 +85,8 @@ Si quieres comer a las 17:00 o cenar a las 19:30, te toca bar de turistas.
 ## Los cuatro platos
 
 **Pa amb tomàquet** (el tomate se frota; si viene en rodajas encima, mal sitio), **bomba de la Barceloneta**, **butifarra amb mongetes** y **crema catalana**.
+
+[actividad: tour-tapas-y-vino-noche]
 
 ## Errores típicos
 

@@ -37,6 +37,8 @@ actividades:
 
 The small-group tour brings an iPad so you can compare each scene with the real place.
 
+[actividad: girona-juego-de-tronos-tour-grupo-reducido]
+
 ## The locations
 
 - **Cathedral steps:** the Great Sept of Baelor in King's Landing.
@@ -45,6 +47,8 @@ The small-group tour brings an iPad so you can compare each scene with the real 
 - **Sant Pere de Galligants:** the monastery that became the Citadel in Oldtown.
 - **Pont de Pedra and the Onyar houses:** Braavos scenes.
 - **Passeig Arqueològic:** the city walls, backdrop to several sequences.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## Walking route
 

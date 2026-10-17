@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: tapas-madrid-que-tour-elegir
 tiempo_lectura: 2
+reservasArriba: true
 actividades:
   - ruta-tapas-nocturna-madrid
   - tour-tapas-vino-atardecer-azotea

@@ -45,6 +45,8 @@ Das ist keine Liste der "50 besten Bars in Madrid". Es ist das Gegenteil: für j
 | Jamón und Wurstwaren | Lhardy | Sol (Carrera de San Jerónimo, 8) | Iberischer Schinken am Stehtresen |
 | Croquetas | Casa Julio | Malasaña (C. de la Madera, 37) | Eine gemischte halbe Ración |
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
 ## Wo isst man in Madrid die besten Patatas Bravas?
 
 Bei **Las Bravas** (Pasaje Matheu, 5 und Callejón del Gato, 3, beide direkt bei Sol). Das ist keine Meinung: Die Brava-Sauce dieser Bar ist seit **1959** als Marke eingetragen, und ein großer Teil dessen, was heute im übrigen Spanien "Salsa Brava" genannt wird, geht direkt oder indirekt auf das hier gekochte Rezept zurück. Sie ist wirklich scharf, ohne Tomate, auf Paprikapulver-Basis, und wird über in unregelmäßige Würfel geschnittene Bratkartoffeln gegeben, nicht über den gleichmäßigen quadratischen Schnitt, der andernorts zum Standard geworden ist.
@@ -168,6 +170,8 @@ Teurer als die anderen Viertel dieser Liste, aber mit ernsthaftem Niveau, wenn d
 3. **Las Bravas mit irgendeiner anderen Madrider Bar verwechseln, die ebenfalls Bravas serviert.** Der Name ist seit 1959 als Marke eingetragen; Nachahmer haben nicht dieselbe Sauce.
 4. **Bei Malacatín oder Casa Lucio am Wochenende nicht reservieren.** Es sind kleine Lokale mit hoher Nachfrage; ohne Reservierung kann die Wartezeit lang sein.
 5. **Bei Casa Labra Schinken-Croquetas bestellen.** Dort ist Kabeljau die Spezialität — für Schinken lieber zu Casa Julio.
+
+[actividad: aventura-vino-tapas-la-latina]
 
 ## Häufig gestellte Fragen
 

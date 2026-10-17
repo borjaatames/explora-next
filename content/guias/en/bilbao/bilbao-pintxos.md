@@ -37,6 +37,8 @@ actividades:
 
 Rule number one: **move**. The point is to try each bar's speciality, not to stay in one. And the best pintxos often aren't on display at the bar: they're ordered hot.
 
+[actividad: tour-pintxos-bilbao-vino]
+
 ## Where to go for pintxos
 
 | Area | Atmosphere |
@@ -69,6 +71,8 @@ Rule number one: **move**. The point is to try each bar's speciality, not to sta
 4. **Peak times**: the midday aperitif (1-3 PM) and the evening one (8-10 PM).
 
 > **⚠️ Warning:** staying all night in a single Plaza Nueva bar is a tourist move. Locals chain three or four; do the same and you'll eat much better.
+
+[actividad: clase-cocina-pintxos-bilbao]
 
 ## What we don't recommend
 

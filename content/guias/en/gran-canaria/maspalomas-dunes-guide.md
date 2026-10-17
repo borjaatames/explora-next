@@ -45,6 +45,8 @@ faq:
 | [Day tour from Las Palmas: Guayadeque, Maspalomas and Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4.6★ (716) | €48 |
 | [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
 
+[actividad: paseo-camello-dunas-maspalomas]
+
 ## What they are and why they're special
 
 The dunes formed from sea sand carried and piled up by the wind, and they move every year. Alongside are a **palm grove** and **La Charca de Maspalomas**, a brackish lagoon where migrating birds stop. To the west stands the **Maspalomas lighthouse** (late 19th century), one of the island's symbols, surrounded by the Meloneras promenade.
@@ -70,6 +72,8 @@ On the Oasis side there's a centre with **camels** that do roughly 30-minute rid
 ## When to go
 
 **At sunrise** you'll have the dunes almost to yourself with wind-drawn patterns in the sand; **at sunset**, the prettiest light and birds on La Charca. Avoid midday in summer. If it's very windy, the sand stings: try another day.
+
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
 
 ## Combine it with
 

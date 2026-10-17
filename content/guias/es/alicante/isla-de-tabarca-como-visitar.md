@@ -35,6 +35,8 @@ actividades:
 
 La clave: es un plan de **medio día o día completo**, y depende del barco. Elige bien el puerto de salida y mira siempre el estado del mar.
 
+[actividad: barco-alicante-isla-tabarca-ida-vuelta]
+
 ## Cómo llegar
 
 | Salida | Duración | Notas |

@@ -39,6 +39,8 @@ actividades:
 
 The local rule: with **poniente** (westerly), a perfect beach; with strong **levante** (easterly), better the old town or a sheltered cove. Check the forecast before choosing.
 
+[actividad: catamaran-cadiz-atardecer]
+
 ## Beaches in the city of Cádiz
 
 | Beach | Character |
@@ -73,6 +75,8 @@ The local rule: with **poniente** (westerly), a perfect beach; with strong **lev
 2. **Going to Bolonia without seeing Baelo Claudia.** The Roman city is right there and spectacular.
 3. **Expecting warm water.** It's the Atlantic: cooler than the Mediterranean.
 4. **Forgetting the tides.** They change the beach a lot depending on the hour.
+
+[actividad: avistamiento-delfines-trafalgar-barbate]
 
 ## Common mistakes
 

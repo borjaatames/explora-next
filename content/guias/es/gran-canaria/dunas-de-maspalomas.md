@@ -45,6 +45,8 @@ faq:
 | [Tour de 1 día desde Las Palmas: Guayadeque, Maspalomas y Mogán](/ciudades/gran-canaria/actividades/tour-gran-canaria-1-dia-desde-las-palmas) | 4,6★ (716) | 48 € |
 | [Buggy fuera de carretera por los barrancos del sur](/ciudades/gran-canaria/actividades/buggy-barrancos-gran-canaria) | 4,8★ (3.728) | 65 € |
 
+[actividad: paseo-camello-dunas-maspalomas]
+
 ## Qué son y por qué son especiales
 
 Las dunas se formaron con arena marina que el viento arrastra y acumula, y se desplazan cada año. Junto a ellas hay un **palmeral** y la **Charca de Maspalomas**, una laguna de agua salobre donde paran aves migratorias. Al oeste se levanta el **faro de Maspalomas** (finales del siglo XIX), uno de los símbolos de la isla, rodeado del paseo marítimo de Meloneras.
@@ -80,6 +82,8 @@ En el lado de Oasis hay un centro con **camellos** que hacen recorridos de unos 
 ## Cuándo ir
 
 **Al amanecer** tendrás las dunas casi para ti y la arena marcada por el viento; **al atardecer**, la luz más bonita y la Charca con aves. Evita el mediodía en verano. Si sopla mucho viento, la arena pica: mejor otro día.
+
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
 
 ## Combínalo con
 

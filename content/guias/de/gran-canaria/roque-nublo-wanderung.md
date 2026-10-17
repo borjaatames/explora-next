@@ -48,6 +48,8 @@ Der Weg steigt durch Kanarenkiefern zu einem felsigen Plateau an, wo der **Roque
 
 > **⚠️ Achtung:** Der Parkplatz La Goleta ist klein und schnell voll, besonders am Wochenende. Komm vor 9:00 Uhr oder in den letzten zwei Stunden vor Einbruch der Dunkelheit. Park nicht am Straßenrand.
 
+[actividad: atardecer-estrellas-gran-canaria-telescopios]
+
 ## Die beste Uhrzeit
 
 **Früh morgens** findest du einen Parkplatz, klare Luft und wenige Wanderer. **Bei Sonnenuntergang** ist das rötliche Licht auf dem Felsen mit dem Teide im Hintergrund die Postkarte der Insel, aber nimm eine Taschenlampe für den Abstieg mit. Im Winter kann es in den Gipfeln frieren.
@@ -62,6 +64,8 @@ Feste Schuhe mit gutem Profil, eine **Jacke** (auch wenn es an der Küste heiß 
 - **Tejeda**: eines der schönsten Dörfer Spaniens; probiere Bienmesabe und Mandelgebäck.
 - **Roque Bentayga** und **Cruz de Tejeda**: Aussichtspunkte über der großen Caldera.
 - **Artenara und Risco Caído**: Höhlen der Ureinwohner mit Welterbe-Status.
+
+[actividad: jeep-safari-sur-gran-canaria]
 
 ## Ohne Auto
 

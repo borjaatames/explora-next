@@ -33,6 +33,8 @@ Der Schlüssel: Wenn du im Mai kommst, erlebst du das schönste Córdoba des Jah
 
 > **⭐ Tipp:** Geh während des Festivals **früh morgens oder am späten Nachmittag** zu den Patios. Mittags gibt es Schlangen und Hitze. San Basilio ist das Viertel mit den meisten Patios auf engstem Raum: fang dort an.
 
+[actividad: patios-cordobeses-tour-con-entradas]
+
 ## Viertel, um sie zu sehen
 
 | Viertel | Warum |

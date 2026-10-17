@@ -20,6 +20,7 @@ slugs:
   en: sagrada-familia-which-ticket-to-choose
   de: sagrada-familia-welches-ticket-waehlen
 tiempo_lectura: 4
+reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre

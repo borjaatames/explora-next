@@ -39,6 +39,8 @@ actividades:
 
 La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor casco antiguo o una cala protegida. Mira el parte antes de elegir.
 
+[actividad: catamaran-cadiz-atardecer]
+
 ## Playas de la ciudad de Cádiz
 
 | Playa | Carácter |
@@ -83,6 +85,8 @@ De **mayo a octubre** para baño (el Atlántico está más fresco que el Mediter
 2. **Ir a Bolonia sin ver Baelo Claudia.** La ciudad romana está al lado y es espectacular.
 3. **Esperar agua caliente.** Es Atlántico: refresca más que el Mediterráneo.
 4. **Olvidar las mareas.** Cambian mucho la playa según la hora.
+
+[actividad: avistamiento-delfines-trafalgar-barbate]
 
 ## Errores típicos
 

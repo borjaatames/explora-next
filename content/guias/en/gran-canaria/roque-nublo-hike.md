@@ -44,6 +44,8 @@ faq:
 | [Jeep safari through southern valleys and villages](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) | 4.5★ (1,443) | €69 |
 | [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
 
+[actividad: atardecer-estrellas-gran-canaria-telescopios]
+
 ## The trail from La Goleta
 
 The usual route starts from **La Goleta car park** on the GC-600 between Ayacata and Pico de las Nieves.
@@ -70,6 +72,8 @@ Closed shoes with good grip, a **jacket** (even if it's hot on the coast), water
 - **Tejeda**: one of Spain's most beautiful villages; try bienmesabe and almond sweets.
 - **Roque Bentayga** and **Cruz de Tejeda**: viewpoints over the great caldera.
 - **Artenara and Risco Caído**: aboriginal caves with World Heritage status.
+
+[actividad: jeep-safari-sur-gran-canaria]
 
 ## Without a car
 

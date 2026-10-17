@@ -37,6 +37,8 @@ actividades:
 
 El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio real.
 
+[actividad: girona-juego-de-tronos-tour-grupo-reducido]
+
 ## Los escenarios
 
 - **Escalinata de la Catedral:** el Gran Septo de Baelor de Desembarco del Rey.
@@ -53,6 +55,8 @@ El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio r
 - **La escalinata de la Catedral** (90 peldaños, el Gran Septo) se llena de grupos a partir de las 11:00. Para la foto sin gente, antes de las 9:30 o después de las 19:00.
 - **Girona no se rodó entera:** las escenas de Braavos mezclan Girona con Sibenik (Croacia). Si una localización no la encuentras, probablemente no está aquí.
 - **Si duermes en Barcelona,** el AVE te deja en 38 minutos y la estación está a 15 minutos andando del primer escenario. Se hace en una mañana y queda la tarde para la ciudad.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## Ruta a pie
 

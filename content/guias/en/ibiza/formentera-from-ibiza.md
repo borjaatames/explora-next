@@ -35,6 +35,8 @@ actividades:
 
 The key: give it a **full day**, not half. And book the ferry (and the vehicle) ahead in summer: it sells out.
 
+[actividad: excursion-barco-ibiza-formentera-todo-incluido]
+
 ## Getting there
 
 | Departure | Duration | Notes |
@@ -77,6 +79,8 @@ Formentera is about 19 km long and public transport is limited, so it's best to 
 2. **Not booking the ferry or vehicle in summer.** They sell out and prices soar.
 3. **Stepping on the posidonia or leaving litter.** The crystal-clear water depends on the protected meadows.
 4. **Forgetting cash and shade.** The wild beaches don't have everything.
+
+[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Common mistakes
 

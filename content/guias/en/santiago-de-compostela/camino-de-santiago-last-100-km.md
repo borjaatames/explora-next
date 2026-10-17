@@ -39,6 +39,8 @@ actividades:
 
 The key: choose your starting point well for the route, carry the **credential** stamped and enjoy the Camino for what it is —an experience, not a race—.
 
+[actividad: tour-a-pie-casco-antiguo-santiago]
+
 ## Where to start for the Compostela
 
 | Route | Start | Distance |
@@ -90,6 +92,8 @@ Five comfortable stages (you can split the third). **Monte do Gozo**, 5 km from 
 2. **Debuting boots.** The error that causes the most blisters.
 3. **Doing Sarria in August without booking.** It's the busiest start of the year.
 4. **Forgetting the two daily stamps** in the last 100 km: without them they won't give the Compostela.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Common mistakes
 

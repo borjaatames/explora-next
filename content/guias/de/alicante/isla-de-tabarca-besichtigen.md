@@ -39,6 +39,8 @@ Der Schlüssel: Es ist ein Ausflug für einen **halben oder ganzen Tag**, je nac
 
 > **⚠️ Hinweis:** die Boote sind vom Wetter abhängig. Bei Seegang werden sie gestrichen; prüfe vor der Fahrt den Wetterbericht und die Website der Reederei, besonders außerhalb des Sommers.
 
+[actividad: barco-alicante-isla-tabarca-ida-vuelta]
+
 ## Was man sehen und tun kann
 
 - **Das ummauerte Dorf.** Die Stadtmauer aus dem 18. Jahrhundert (Karl III. besiedelte die Insel neu mit genuesischen Familien), die Kirche San Pedro y San Pablo, der Torre de San José und der Leuchtturm.

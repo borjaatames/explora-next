@@ -44,6 +44,8 @@ faq:
 | [Jeep safari por valles, presas y pueblos del sur](/ciudades/gran-canaria/actividades/jeep-safari-sur-gran-canaria) | 4,5★ (1.443) | 69 € |
 | [Buggy fuera de carretera por los barrancos del sur](/ciudades/gran-canaria/actividades/buggy-barrancos-gran-canaria) | 4,8★ (3.728) | 65 € |
 
+[actividad: atardecer-estrellas-gran-canaria-telescopios]
+
 ## La ruta desde La Goleta
 
 El acceso habitual sale del **aparcamiento de La Goleta**, en la carretera GC-600 entre Ayacata y el Pico de las Nieves.
@@ -81,6 +83,8 @@ Calzado cerrado con buena suela, **abrigo** (aunque en la costa haga calor), agu
 - **Tejeda**: uno de los pueblos más bonitos de España; prueba el bienmesabe y los dulces de almendra.
 - **Roque Bentayga** y la **Cruz de Tejeda**: miradores sobre la gran caldera.
 - **Artenara y Risco Caído**: cuevas aborígenes Patrimonio Mundial.
+
+[actividad: jeep-safari-sur-gran-canaria]
 
 ## Sin coche
 

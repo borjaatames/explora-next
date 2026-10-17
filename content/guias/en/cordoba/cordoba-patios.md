@@ -33,6 +33,8 @@ actividades:
 
 The key: come in May and you'll experience the most beautiful Córdoba of the year (but the busiest); come another time and you still won't miss out on patios.
 
+[actividad: patios-cordobeses-tour-con-entradas]
+
 ## The Patio Festival (May)
 
 For about **two weeks in May**, dozens of houses in the historic quarters open their patios and compete in a contest. Entry is **free**; you do a walking route from patio to patio. It coincides with the **May Crosses** (early in the month) and precedes the **Fair** (late May): Córdoba's big month.

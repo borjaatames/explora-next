@@ -42,6 +42,8 @@ Vier Regeln, die das Erlebnis vollständig verändern und die dir kaum jemand er
 
 **Der Service kann schroff sein. Es ist nicht persönlich gemeint.** In traditionsreichen Tavernen hat der Kellner manchmal einen trockenen Umgangston, der zum Handwerk gehört. Es ist keine Unhöflichkeit, er bedient 40 Personen. Er behandelt dich wie jeden Sevillaner: ohne roten Teppich. Das ist, entgegen dem ersten Eindruck, ein gutes Zeichen.
 
+[actividad: sevilla-tapas-tour-triana-cruzando-rio]
+
 ## Centro und Alfalfa: zwei Klassiker, die ihren Preis wert sind
 
 Der Quadrant zwischen Kathedrale, Plaza Nueva und Alfalfa vereint die ältesten Bars des Zentrums und ebenso die aggressivsten Touristenfallen. Die schnelle Regel: **von der Avenida de la Constitución und der Plaza Virgen de los Reyes fernhalten.** Je näher an der Kathedrale, desto schlechter das Preis-Leistungs-Verhältnis. Die zwei Orte, die wir empfehlen würden, liegen weniger als 200 Meter von der Kathedrale entfernt, aber in Seitenstraßen, die die meisten Besucher nicht betreten.

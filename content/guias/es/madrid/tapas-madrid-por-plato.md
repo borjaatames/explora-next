@@ -42,6 +42,8 @@ Si solo tienes tiempo para siete paradas en Madrid, esta es la lista corta: **La
 | Jamón y embutido | Lhardy | Sol (Carrera de San Jerónimo, 8) | Jamón ibérico en el mostrador, de pie |
 | Croquetas | Casa Julio | Malasaña (Madera, 37) | Media ración mixta |
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
 ## Cuánto cuesta y cómo funciona
 
 - **Precios:** ración de bravas, 5-8 €; bocadillo de calamares, 4-6 €; pincho de tortilla, 3-4,50 €; torreznos, 7-10 €; callos, 10-14 €; jamón de bellota, 18-28 € los 100 g. Caña, 2-3 €; vino de la casa o vermut de grifo, 3-4 €. Una ruta de cuatro o cinco bares, 25-35 € por persona.
@@ -86,6 +88,8 @@ Si solo tienes tiempo para siete paradas en Madrid, esta es la lista corta: **La
 3. Confundir Las Bravas con cualquier bar que sirva bravas.
 4. No reservar en Malacatín o Casa Lucio el fin de semana.
 5. Pedir croquetas de jamón en Casa Labra: allí, bacalao.
+
+[actividad: aventura-vino-tapas-la-latina]
 
 ## Preguntas frecuentes
 

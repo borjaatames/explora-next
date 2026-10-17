@@ -39,6 +39,8 @@ actividades:
 
 La clave: elige bien el punto de salida según la ruta, lleva la **credencial** sellada y disfruta del Camino como lo que es —una experiencia, no una carrera—.
 
+[actividad: tour-a-pie-casco-antiguo-santiago]
+
 ## Dónde empezar para la Compostela
 
 | Ruta | Salida | Distancia |
@@ -100,6 +102,8 @@ Cinco etapas cómodas (puedes dividir la tercera). El **Monte do Gozo**, a 5 km 
 2. **Estrenar botas.** El error que más ampollas causa.
 3. **Hacer Sarria en agosto sin reservar.** Es el inicio más concurrido del año.
 4. **Olvidar los dos sellos diarios** en los últimos 100 km: sin ellos no dan la Compostela.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Errores típicos
 

@@ -42,6 +42,8 @@ The key to the Tramuntana is going slowly: it's few kilometres but plenty of ben
 
 > **⭐ Tip:** the **Sa Calobra** road and the viewpoints fill up by mid-morning in season. Set out early: you'll drive more calmly and get the photos without crowds.
 
+[actividad: barco-soller-sa-calobra]
+
 ## The essential villages
 
 **Valldemossa.** The most famous village, of cobbled streets and flowers, with the **Charterhouse** where Chopin and George Sand spent the winter of 1838-39. Pretty and much-visited: go early.
@@ -83,6 +85,8 @@ Mountain cooking: **frit, tumbet, arròs brut** and, from Sóller, the **oranges
 2. **Driving Sa Calobra if mountain roads make you queasy.** Extreme bends; consider the bus or the boat.
 3. **Reaching the viewpoints at midday in summer.** Full and no parking; go early.
 4. **Skipping the Sóller train** if you enjoy slow travel.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Common mistakes
 

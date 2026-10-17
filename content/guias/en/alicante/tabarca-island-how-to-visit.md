@@ -35,6 +35,8 @@ actividades:
 
 The key: it's a **half-day or full-day** plan, and it depends on the boat. Choose the right departure port and always check the sea conditions.
 
+[actividad: barco-alicante-isla-tabarca-ida-vuelta]
+
 ## Getting there
 
 | Departure | Duration | Notes |

@@ -40,6 +40,8 @@ Nicht alle eignen sich für dasselbe: manche sind lang und familienfreundlich, a
 | Norden | Formentor, Playa de Muro | Familienfreundlich, ruhige Gewässer |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Dramatisch, zwischen Bergen |
 
+[actividad: barco-soller-sa-calobra]
+
 ## Die Unverzichtbaren
 
 **Es Trenc (Süden).** Der berühmteste unberührte Strand: weißer Sand und karibisches Wasser, ohne Bebauung, neben den Salinen. Kaum Einrichtungen; bring Schatten und Wasser mit.
@@ -68,6 +70,8 @@ Nicht alle eignen sich für dasselbe: manche sind lang und familienfreundlich, a
 2. **Einrichtungen bei den unberührten Buchten erwarten.** Es Trenc oder Cala Varques haben keine Strandbar; bring Wasser und Schatten mit.
 3. **Unachtsam auf die Posidonia treten.** Die Unterwasserwiesen (Weltkulturerbe) sind es, die für das kristallklare Wasser sorgen.
 4. **Mit eingeschränkter Mobilität nach Caló des Moro hinabsteigen.** Es ist ein Abstieg über Felsen und Treppen.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Typische Fehler
 

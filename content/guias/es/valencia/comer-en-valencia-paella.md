@@ -34,6 +34,8 @@ actividades:
 
 La regla número uno: **la paella valenciana no es la paella de marisco**. La original es de huerta y corral, y se come a mediodía. Quien entiende esto ya ha ganado media partida.
 
+[actividad: cata-cerveza-artesanal-tapas-ruzafa]
+
 ## Qué es la paella valenciana auténtica
 
 La **paella valenciana** original lleva **pollo, conejo, garrofó (una alubia plana), judía verde (ferraúra) y, según la casa, caracoles**. Ni marisco, ni chorizo, ni guisantes, ni cebolla. Se hace con arroz bomba, sofrito, azafrán y el toque del *socarrat* (la capa tostada del fondo). Es plato de **mediodía** y para compartir.
@@ -77,6 +79,8 @@ La **paella valenciana** original lleva **pollo, conejo, garrofó (una alubia pl
 2. **Paella valenciana ≠ paella de marisco.** Pídela donde sepan distinguirlas.
 3. **La mejor paella está en la Albufera/El Palmar.** En el centro pagas más por menos.
 4. **Reserva y ve pronto.** El buen arroz tarda 30-40 min y se agota.
+
+[actividad: albufera-atardecer-paseo-en-barca]
 
 ## Lo que NO recomendamos
 

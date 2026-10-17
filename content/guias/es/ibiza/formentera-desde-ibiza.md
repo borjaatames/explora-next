@@ -35,6 +35,8 @@ actividades:
 
 La clave: dedícale un **día completo**, no medio. Y reserva el ferry (y el vehículo) con antelación en verano: vuela.
 
+[actividad: excursion-barco-ibiza-formentera-todo-incluido]
+
 ## Cómo llegar
 
 | Salida | Duración | Notas |
@@ -86,6 +88,8 @@ Formentera mide unos 19 km y el transporte público es limitado, así que lo mej
 2. **No reservar ferry ni vehículo en verano.** Se agotan y se disparan de precio.
 3. **Pisar la posidonia o dejar residuos.** El agua cristalina depende de las praderas protegidas.
 4. **Olvidar efectivo y sombra.** En las playas vírgenes no hay de todo.
+
+[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Errores típicos
 

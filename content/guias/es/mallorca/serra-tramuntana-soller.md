@@ -42,6 +42,8 @@ La clave de la Tramuntana es ir despacio: son pocos kilómetros pero mucha curva
 
 > **⭐ Tip:** la carretera de **Sa Calobra** y los miradores se llenan a media mañana en temporada. Sal temprano: conducirás más tranquilo y harás las fotos sin gente.
 
+[actividad: barco-soller-sa-calobra]
+
 ## Los pueblos imprescindibles
 
 **Valldemossa.** El pueblo más famoso, de calles empedradas y flores, con la **Cartuja** donde Chopin y George Sand pasaron el invierno de 1838-39. Coqueto y muy visitado: ve pronto.
@@ -93,6 +95,8 @@ Cocina de montaña: **frit, tumbet, arròs brut** y, de Sóller, las **naranjas*
 2. **Conducir Sa Calobra si te marea la carretera.** Curvas extremas; valora el bus o la barca.
 3. **Llegar a los miradores a mediodía en verano.** Llenos y sin aparcamiento; ve pronto.
 4. **Saltarte el tren de Sóller** si te gusta el viaje lento.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Errores típicos
 

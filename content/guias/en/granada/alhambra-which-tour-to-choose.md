@@ -19,6 +19,7 @@ slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
+reservasArriba: true
 actividades:
   - entrada-y-tour-guiado-alhambra
   - alhambra-grupo-reducido

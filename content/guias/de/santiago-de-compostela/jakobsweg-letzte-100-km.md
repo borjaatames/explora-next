@@ -41,6 +41,8 @@ Der Schlüssel: Wählen Sie den Startpunkt passend zur Route, tragen Sie den **P
 
 > **⚠️ Hinweis:** Für die Compostela muss man **mindestens 100 km** zu Fuß zurücklegen (oder 200 km mit dem Rad). Deshalb ist **Sarria** der beliebteste Start des Camino Francés: Er übertrifft das Minimum knapp. Achtung: A Coruña reicht mit 75 km für den Camino Inglés nicht aus; man muss von Ferrol aus starten.
 
+[actividad: tour-a-pie-casco-antiguo-santiago]
+
 ## Die Etappen ab Sarria (Camino Francés)
 
 | Etappe | Strecke | Km ca. |
@@ -82,6 +84,8 @@ Fünf angenehme Etappen (die dritte lässt sich aufteilen). Der **Monte do Gozo*
 2. **Neue Stiefel einweihen.** Der Fehler, der die meisten Blasen verursacht.
 3. **Sarria im August ohne Reservierung anlaufen.** Es ist der meistbesuchte Start des Jahres.
 4. **Die zwei täglichen Stempel vergessen** auf den letzten 100 km: Ohne sie gibt es keine Compostela.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Typische Fehler
 

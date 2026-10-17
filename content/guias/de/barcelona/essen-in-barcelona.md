@@ -37,6 +37,8 @@ Barcelona hat **eine klare gastronomische Identität**, die viele Menschen nicht
 
 Die echte katalanische Küche ist **mediterran, marktorientiert**, basierend auf Pa amb tomàquet, Butifarra, Mar i Muntanya (Meer-und-Berg-Kombinationen), Escalivada, Fideuà, Calçots in der Saison und Crema catalana. Und sie hat **eigene Rituale**: der Mittags-Vermut am Wochenende, die Granja für heiße Schokolade, das Pintxo an der Theke.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Echte Öffnungszeiten
 
 | Mahlzeit | Uhrzeit | Anmerkungen |
@@ -149,6 +151,8 @@ Der **Vermut** (katalanische Version, süß, auf Basis von Weißwein mit Kräute
 Orte für authentischen Vermut: **Bormuth** (Born), **Bar Calders** (Sant Antoni), **El Xampanyet** (Carrer Montcada 22, Born — traditionsreicher Klassiker) und **Quimet & Quimet** (Poble Sec, kombiniert Vermut mit Montaditos).
 
 > **⭐ Tipp:** bestell keinen "Vermouth" in einer Hipster-Kette. Bestell **"un vermut de grifo"** (Vermut vom Fass) in einer Kiezbar. Der Unterschied ist gewaltig.
+
+[actividad: tour-tapas-y-vino-noche]
 
 ## Typische Fehler von Besuchern am Tisch
 

@@ -42,6 +42,8 @@ actividades:
 
 The island is small: the **south-west** holds the most photogenic coves and the sunsets; the **north** is calmer and wilder; the **south** has the trendy beaches by the salt flats.
 
+[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
+
 ## By area
 
 | Area | Standout coves | Character |
@@ -78,6 +80,8 @@ The island is small: the **south-west** holds the most photogenic coves and the 
 2. **Expecting services at the wild coves.** Some in the north have no beach bar; bring water and shade.
 3. **Stepping carelessly on the posidonia.** The meadows (a World Heritage Site) give the crystal-clear water.
 4. **Staying only on the Playa d'en Bossa beaches.** The best coves are elsewhere.
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Common mistakes
 

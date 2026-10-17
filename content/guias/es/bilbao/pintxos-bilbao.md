@@ -37,6 +37,8 @@ actividades:
 
 La regla número uno: **muévete**. La gracia es probar la especialidad de cada bar, no quedarte en uno. Y los mejores pintxos muchas veces no están en la barra a la vista: se piden en caliente.
 
+[actividad: tour-pintxos-bilbao-vino]
+
 ## Dónde ir de pintxos
 
 | Zona | Ambiente |
@@ -78,6 +80,8 @@ La regla número uno: **muévete**. La gracia es probar la especialidad de cada 
 - **Cómo pedir:** di cuántos y cuáles, y la bebida; lo caliente se pide expresamente. Se paga al irte, de palabra: el camarero recuerda lo que has tomado. No se deja propina, o como mucho las monedas del cambio.
 - **De pie es lo normal:** las mesas, si las hay, son para comer con carta. Si quieres sentarte a comer pintxos, pide permiso y, en muchos sitios, te cobrarán algo más.
 - **Semana Grande** (la Aste Nagusia, a mediados de agosto) y los días de partido en San Mamés: todo a rebosar y algunos bares con precios de fiesta. Divertido, pero no es el día para el txikiteo tranquilo.
+
+[actividad: clase-cocina-pintxos-bilbao]
 
 ## Lo que NO recomendamos
 
