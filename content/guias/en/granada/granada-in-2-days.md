@@ -20,6 +20,7 @@ slugs:
   es: granada-en-2-dias
   en: granada-in-2-days
   de: granada-in-2-tagen
+reservasArriba: true
 actividades:
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra

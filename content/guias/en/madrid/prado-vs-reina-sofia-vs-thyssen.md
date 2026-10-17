@@ -101,6 +101,8 @@ Minimum 2 hours for the essentials. A reasonable visit: 3–4 hours. Exhaustive 
 
 For **basically any traveler**. It's Madrid's default museum. If in doubt, go to the Prado.
 
+[actividad: museo-prado-entrada]
+
 ## Thyssen-Bornemisza: the most chronologically complete
 
 ### What it is
@@ -137,6 +139,8 @@ Minimum 1.5 hours for a quick pass. Reasonable: 2–3 hours.
 
 For someone who wants the panorama of European painting in one day. Especially recommended if you care about Impressionism (the Prado has little), if you want chronological variety, or if you've already done the Prado on a previous trip and you're back for more.
 
+[actividad: museo-thyssen-entrada]
+
 ## Museo Reina Sofía: only if you care about the 20th century
 
 ### What it is
@@ -171,6 +175,8 @@ Just Guernica, Dalí and Miró: 1.5 hours is enough. Full circuit: 3–4 hours (
 
 - General admission: €12
 - Free: Mon and Wed–Sat 7–9 PM, Sun 12:30–2:30 PM
+
+[actividad: reina-sofia-entrada]
 
 ## How to organize them if you want all three
 

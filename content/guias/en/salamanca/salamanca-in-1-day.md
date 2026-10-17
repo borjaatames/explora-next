@@ -20,6 +20,7 @@ slugs:
   es: salamanca-en-1-dia
   en: salamanca-in-1-day
   de: salamanca-in-einem-tag
+reservasArriba: true
 actividades:
   - tour-a-pie-salamanca-guia-local
   - universidad-salamanca-visita-guiada

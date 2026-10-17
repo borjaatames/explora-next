@@ -51,6 +51,8 @@ Die goldene Regel: **man muss nicht überall hineingehen**. Das architektonische
 
 **Hemisfèric (45-50 Min).** IMAX-Kino mit Kuppel und Planetarium. Schauen Sie ins Programm: Es gibt Vorstellungen für Kinder und Dokumentarfilme. Wenn Sie knapp an Zeit sind, ist dies das Verzichtbarste.
 
+[actividad: oceanografic-valencia-entrada]
+
 ## Tickets: wie man nicht zu viel bezahlt
 
 | Plan | Empfehlung |
@@ -61,6 +63,8 @@ Die goldene Regel: **man muss nicht überall hineingehen**. Das architektonische
 | Ein kompletter Familientag | Kombiticket aller drei + freier Nachmittag |
 
 > **⭐ Tipp:** Die **Kombitickets** (2 oder 3 Attraktionen) sind deutlich günstiger als einzelne Tickets und sind in der Hochsaison schnell ausverkauft. Kaufen Sie sie online, wählen Sie die **erste Stunde** für das Oceanogràfic und heben Sie sich das Museum oder das Hemisfèric für nach dem Mittagessen auf.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
 ## Wie man hinkommt
 

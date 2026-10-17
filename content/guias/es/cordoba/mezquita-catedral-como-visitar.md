@@ -54,6 +54,8 @@ La regla de oro: **ve a primera hora**. Es cuando hay menos gente, mejor luz ent
 - **Visita nocturna «El alma de Córdoba»:** 20 €, con un espectáculo de luz y sonido en el interior. Distinta y sin multitudes, pero no sustituye a la visita de día.
 - **Vestimenta:** es un templo católico en uso. Hombros cubiertos y nada de pantalón muy corto; en verano, un pañuelo en la mochila.
 
+[actividad: mezquita-catedral-tour-guiado-sin-colas]
+
 ## Cuándo ir
 
 A **primera hora** siempre (calor y grupos llegan a media mañana). En verano, evita el mediodía a toda costa. Los **domingos por la mañana** el culto católico limita la visita turística: tenlo en cuenta. Si puedes, valora la **visita nocturna** ("El Alma de Córdoba"), un espectáculo de luz y sonido.

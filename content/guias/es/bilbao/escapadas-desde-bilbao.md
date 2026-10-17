@@ -21,6 +21,7 @@ slugs:
   es: escapadas-desde-bilbao
   en: day-trips-from-bilbao
   de: ausfluege-ab-bilbao
+reservasArriba: true
 actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
   - san-sebastian-hondarribia-getaria-desde-bilbao

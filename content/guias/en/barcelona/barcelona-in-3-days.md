@@ -21,6 +21,7 @@ slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
   de: barcelona-in-3-tagen
+reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre

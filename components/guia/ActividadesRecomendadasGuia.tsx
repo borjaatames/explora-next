@@ -143,6 +143,8 @@ function TarjetaActividad({
   return (
     <Link
       href={actividad.url}
+      data-reserva="carrusel"
+      data-ficha={actividad.slugs?.es ?? actividad.slug}
       className="group flex h-full flex-col bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
     >
       <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">

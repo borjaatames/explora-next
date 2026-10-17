@@ -24,6 +24,19 @@ import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
+import ReservasGuia from "@/components/guia/ReservasGuia";
+import TarjetaReservaInline from "@/components/guia/TarjetaReservaInline";
+import CtaStickyGuia from "@/components/guia/CtaStickyGuia";
+import TrackingReservasGuia from "@/components/guia/TrackingReservasGuia";
+import {
+  enriquecerEnlacesFichas,
+  formatearPrecio,
+  formatearRating,
+  idiomaFichas,
+  indexarFichasCiudad,
+  partirHtmlPorShortcodes,
+  slugsInline,
+} from "@/lib/guiasReservas";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -139,8 +152,9 @@ export default async function GuiaPage({ params }: Props) {
     3
   );
 
+  // Las guías DE usan las fichas EN (no hay fichas DE); ver idiomaFichas.
   const actividadesRecomendadas = obtenerActividadesParaGuia(
-    lang,
+    idiomaFichas(lang),
     guia.categoria,
     {
       slug: guia.slug,
@@ -238,6 +252,31 @@ export default async function GuiaPage({ params }: Props) {
 
   const { html: htmlConAnclas, indice } = anadirAnclasH2(guia.contenidoHtml);
 
+  // Reservas dentro de la guía (ver lib/guiasReservas.ts).
+  const fichasCiudad = indexarFichasCiudad(lang, guia.categoria);
+  const trozos = partirHtmlPorShortcodes(
+    enriquecerEnlacesFichas(htmlConAnclas, fichasCiudad, lang),
+    fichasCiudad
+  );
+  const reservasArriba = guia.reservasArriba
+    ? actividadesRecomendadas.slice(0, 4)
+    : [];
+  const yaOfrecidas = new Set<string>([
+    ...slugsInline(trozos),
+    ...reservasArriba.map((a) => a.slugs?.es ?? a.slug),
+  ]);
+  const actividadesCarrusel = actividadesRecomendadas
+    .filter((a) => !yaOfrecidas.has(a.slugs?.es ?? a.slug))
+    .slice(0, 4);
+  const actividadSticky =
+    reservasArriba[0] ??
+    fichasCiudad.get(slugsInline(trozos)[0] ?? "") ??
+    actividadesRecomendadas[0];
+  const textosSticky =
+    lang === "de"
+      ? { desde: "ab", cta: "Buchen" }
+      : { desde: "from", cta: "Book" };
+
   return (
     <main className="min-h-screen bg-white">
       <script
@@ -274,6 +313,8 @@ export default async function GuiaPage({ params }: Props) {
         ]}
       />
 
+      <ReservasGuia actividades={reservasArriba} idioma={lang} />
+
       <div
         className={
           "max-w-6xl mx-auto px-4 py-12 md:py-16 " +
@@ -287,10 +328,21 @@ export default async function GuiaPage({ params }: Props) {
           />
         )}
         <article className={"max-w-3xl " + (indice.length > 2 ? "" : "mx-auto")}>
-          <div
-            className="prose-guia"
-            dangerouslySetInnerHTML={{ __html: htmlConAnclas }}
-          />
+          {trozos.map((trozo, i) =>
+            trozo.tipo === "html" ? (
+              <div
+                key={i}
+                className="prose-guia"
+                dangerouslySetInnerHTML={{ __html: trozo.html }}
+              />
+            ) : (
+              <TarjetaReservaInline
+                key={i}
+                actividad={fichasCiudad.get(trozo.slug)!}
+                idioma={lang}
+              />
+            )
+          )}
           {faq.length > 0 && (
             <div className="mt-12 pt-8 border-t border-slate-200">
               <FaqActividad idioma={lang} preguntas={faq} />
@@ -300,7 +352,7 @@ export default async function GuiaPage({ params }: Props) {
       </div>
 
       <ActividadesRecomendadasGuia
-        actividades={actividadesRecomendadas}
+        actividades={actividadesCarrusel}
         idioma={lang}
         nombreCiudad={nombreCiudad}
         urlTodas={urlActividadesDeCiudad(lang, guia.categoria)}
@@ -340,6 +392,23 @@ export default async function GuiaPage({ params }: Props) {
           ← {dict.guias.volverAGuias}
         </Link>
       </div>
+
+      {actividadSticky && (
+        <CtaStickyGuia
+          titulo={actividadSticky.titulo}
+          url={actividadSticky.url}
+          slugEs={actividadSticky.slugs?.es ?? actividadSticky.slug}
+          precio={formatearPrecio(actividadSticky, lang)}
+          rating={formatearRating(actividadSticky, lang)}
+          textoDesde={textosSticky.desde}
+          textoCta={textosSticky.cta}
+        />
+      )}
+      <TrackingReservasGuia
+        guiaSlug={guia.slug}
+        ciudad={guia.categoria}
+        idioma={lang}
+      />
     </main>
   );
 }

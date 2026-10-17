@@ -49,6 +49,8 @@ The golden rule: **you don't need to go into everything**. The architectural ens
 | Umbracle | Garden-walkway with sculptures | Free, a stroll |
 | Àgora / Pont de l'Assut | Structures and bridge | Outside only |
 
+[actividad: oceanografic-valencia-entrada]
+
 ## How to organise the visit
 
 **From outside (free).** Walk between the buildings and through the **Umbracle**, the raised garden with palms and sculptures. At sunset, the reflections in the water are the best photo. This alone justifies the visit even if you don't go in anywhere.
@@ -69,6 +71,8 @@ The golden rule: **you don't need to go into everything**. The architectural ens
 | A full family day | Combined of all three + free afternoon |
 
 > **⭐ Tip:** the **combined tickets** (2 or 3 attractions) are quite a bit cheaper than separate ones and sell out in high season. Buy them online, choose **first thing** for the Oceanogràfic and leave the museum or the Hemisfèric for after lunch.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
 ## Getting there
 

@@ -19,6 +19,7 @@ slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
   de: girona-in-einem-tag
+reservasArriba: true
 actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-juego-de-tronos-tour-grupo-reducido

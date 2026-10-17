@@ -21,6 +21,7 @@ slugs:
   es: sevilla-con-ninos
   en: seville-with-kids
   de: sevilla-mit-kindern
+reservasArriba: true
 actividades:
   - isla-magica-sevilla-entrada
   - acuario-sevilla-entrada

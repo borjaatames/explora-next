@@ -21,6 +21,7 @@ slugs:
   es: escapadas-costa-blanca-desde-alicante
   en: costa-blanca-day-trips-from-alicante
   de: costa-blanca-ausfluege-ab-alicante
+reservasArriba: true
 actividades:
   - excursion-guadalest-altea-algar-desde-alicante
   - barco-alicante-isla-tabarca-ida-vuelta

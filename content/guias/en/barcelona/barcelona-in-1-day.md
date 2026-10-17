@@ -20,6 +20,7 @@ slugs:
   es: barcelona-en-1-dia
   en: barcelona-in-1-day
   de: barcelona-in-einem-tag
+reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre

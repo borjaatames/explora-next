@@ -56,6 +56,8 @@ The golden rule: **go first thing**. That's when there are fewest people, the be
 
 > **⭐ Tip:** there's a **free entry slot** Monday to Saturday early in the morning (usually around 8:30-9:30; confirm the current time on the official site). No groups are allowed and you have to go in early, but it's the best way to see it nearly empty.
 
+[actividad: mezquita-catedral-tour-guiado-sin-colas]
+
 ## When to go
 
 **First thing** always (heat and groups arrive mid-morning). In summer, avoid midday at all costs. On **Sunday mornings**, Catholic worship limits the tourist visit: bear it in mind. If you can, consider the **night visit** ("The Soul of Córdoba"), a sound-and-light show.

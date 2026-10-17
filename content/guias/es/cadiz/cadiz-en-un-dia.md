@@ -21,6 +21,7 @@ slugs:
   es: cadiz-en-un-dia
   en: cadiz-in-one-day
   de: cadiz-in-einem-tag
+reservasArriba: true
 actividades:
   - tour-guiado-cadiz-centro
   - catamaran-cadiz-atardecer

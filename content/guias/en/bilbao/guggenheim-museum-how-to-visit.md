@@ -69,6 +69,8 @@ Allow **2-2.5 hours** inside. The audio guide is included and worth it.
 
 > **⚠️ Warning:** in high season and at weekends there are box-office queues. Buy the ticket **online** with a time slot and walk straight in.
 
+[actividad: guggenheim-bilbao-visita-guiada-entrada]
+
 ## How to combine it
 
 The Guggenheim is in the Ensanche, by the river, a stroll from the Old Town. Five minutes away is the **Fine Arts Museum**, excellent and far less visited: if you like art, it's the perfect pairing. We slot it in as the first stop in [Bilbao in one day](/en/guides/bilbao/bilbao-in-one-day).

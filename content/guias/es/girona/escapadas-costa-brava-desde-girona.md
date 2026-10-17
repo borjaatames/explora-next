@@ -19,6 +19,7 @@ slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
+reservasArriba: true
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus

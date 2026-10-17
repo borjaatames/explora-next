@@ -21,6 +21,7 @@ slugs:
   es: sevilla-en-1-dia
   en: seville-in-1-day
   de: sevilla-in-einem-tag
+reservasArriba: true
 actividades:
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar

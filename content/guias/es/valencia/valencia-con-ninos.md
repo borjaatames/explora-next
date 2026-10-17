@@ -19,6 +19,7 @@ slugs:
   es: valencia-con-ninos
   en: valencia-with-kids
   de: valencia-mit-kindern
+reservasArriba: true
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

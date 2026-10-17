@@ -61,6 +61,8 @@ La Alhambra es el monumento más visitado de España, y sus entradas se agotan c
 - **Entiendes lo que ves.** Los poemas grabados en las paredes, la geometría de los azulejos y la historia de cada sala se pierden sin explicación.
 - **No te la juegas con falsos guías.** En Plaza Nueva ofrecen «tour Alhambra» sin acreditación.
 
+[actividad: visita-guiada-alhambra-generalife]
+
 ## Precios oficiales y cuándo reservar
 
 Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
@@ -75,6 +77,8 @@ Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
 La inmensa mayoría necesita la **Alhambra General**. Los menores de 12 años entran gratis pero **con ticket nominativo**, que se saca en la misma compra; sin él no entran. Hay descuento para mayores de 65 de la UE, Carnet Joven y discapacidad. **No existe un día gratuito recurrente**: lo de «los miércoles gratis» que circula por internet es falso.
 
 Las entradas se abren **90 días antes** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, en minutos. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. Si está todo agotado, las alternativas reales son una visita guiada con cupo propio (las de la tabla de arriba), la nocturna de los Nazaríes, o hacer cola en taquilla antes de las 8:00 por el cupo del día, que en temporada alta casi nunca alcanza.
+
+[actividad: entrada-y-tour-guiado-alhambra]
 
 ## La regla de oro: la hora de los Nazaríes
 

@@ -20,6 +20,7 @@ slugs:
   es: barcelona-con-ninos
   en: barcelona-with-kids
   de: barcelona-mit-kindern
+reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
   - park-guell-entrada-zona-monumental

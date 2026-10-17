@@ -61,6 +61,8 @@ The Alhambra is Spain's most visited monument, and its tickets sell out weeks in
 - **You understand what you see.** The poems carved into the walls, the geometry of the tiles and the story of each hall are lost without an explanation.
 - **No risk of fake guides.** Unlicensed "Alhambra tours" are offered in Plaza Nueva.
 
+[actividad: visita-guiada-alhambra-generalife]
+
 ## The golden rule: your Nasrid Palaces time
 
 The Nasrid Palaces have a fixed entry time with only **30 minutes of leeway**. Miss it and you don't get in. It takes **30 to 45 minutes** on foot from the main entrance to the palaces, so arrive early. On a guided visit, the guide plans the route so you don't miss your slot.
@@ -79,6 +81,8 @@ A full visit takes **about 4 hours**.
 - **C30 or C32 minibus** from Plaza Isabel la Católica, every few minutes.
 - **On foot** from Plaza Nueva up the Cuesta de Gomérez: a 25-30 minute climb.
 - **Taxi** from the centre.
+
+[actividad: entrada-y-tour-guiado-alhambra]
 
 ## Mistakes to avoid
 

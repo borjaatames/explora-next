@@ -21,6 +21,7 @@ slugs:
   es: madrid-en-3-dias
   en: madrid-in-3-days
   de: madrid-in-3-tagen
+reservasArriba: true
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada

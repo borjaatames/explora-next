@@ -21,6 +21,7 @@ slugs:
   es: que-ver-en-mallorca
   en: what-to-see-in-mallorca
   de: was-sehen-auf-mallorca
+reservasArriba: true
 actividades:
   - catedral-palma-mallorca-entrada
   - mallorca-vuelta-isla-tren-soller-tranvia-barco

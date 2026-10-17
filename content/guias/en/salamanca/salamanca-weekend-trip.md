@@ -20,6 +20,7 @@ slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
   de: salamanca-wochenendtrip
+reservasArriba: true
 actividades:
   - tour-a-pie-salamanca-guia-local
   - salamanca-leyendas-al-anochecer

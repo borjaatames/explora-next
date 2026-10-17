@@ -21,6 +21,7 @@ slugs:
   es: madrid-con-ninos
   en: madrid-with-kids
   de: madrid-mit-kindern
+reservasArriba: true
 actividades:
   - zoo-aquarium-madrid-entrada
   - parque-warner-madrid-entrada

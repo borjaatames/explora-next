@@ -19,6 +19,7 @@ slugs:
   es: escapadas-desde-valencia
   en: day-trips-from-valencia
   de: ausfluege-ab-valencia
+reservasArriba: true
 actividades:
   - excursion-guadalest-altea-fuentes-algar
   - excursion-cala-granadella-javea

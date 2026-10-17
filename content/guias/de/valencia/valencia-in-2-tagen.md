@@ -19,6 +19,7 @@ slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
   de: valencia-in-2-tagen
+reservasArriba: true
 actividades:
   - tour-catedral-lonja-san-nicolas-valencia
   - tour-tuk-tuk-valencia-centro-playas

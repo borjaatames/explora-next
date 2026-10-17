@@ -56,9 +56,13 @@ Para una primera visita, la básica con audioguía basta. Jubilados 21 €, estu
 
 **Solo se vende online** en `sagradafamilia.org`; no hay taquilla. Con 4-6 semanas eliges franja; con una semana, en temporada, ya es difícil; el mismo día, casi imposible. En Semana Santa, puentes y verano, duplica los plazos (8-10 semanas en julio y agosto). Si está agotada, los tours guiados tienen cupos propios: [qué entrada o tour elegir](/guias/barcelona/sagrada-familia-que-entrada-elegir).
 
+[actividad: entrada-sagrada-familia-audioguia]
+
 ## ¿Subir a las torres?
 
 Son dos y la entrada da acceso a una: la del **Nacimiento** mira al mar y a la fachada original de Gaudí; la de la **Pasión**, al Eixample, más austera. Se sube en ascensor y se baja por una escalera de caracol estrecha: nada para vértigo, claustrofobia, sillas de ruedas ni menores de 6. Desde arriba no ves las torres enteras, y los Búnkers del Carmel o el Tibidabo dan vistas comparables gratis. Lo que justifica la Sagrada Família son las vidrieras desde dentro, y eso lo da la básica: si hay que elegir, los 10 € van mejor al Park Güell.
+
+[actividad: sagrada-familia-tour-con-torre]
 
 ## La Hora del Silencio
 

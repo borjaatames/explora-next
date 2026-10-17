@@ -21,6 +21,7 @@ slugs:
   es: bilbao-con-ninos
   en: bilbao-with-kids
   de: bilbao-mit-kindern
+reservasArriba: true
 actividades:
   - barco-ria-bilbao-portugalete
   - san-mames-museo-estadio-athletic

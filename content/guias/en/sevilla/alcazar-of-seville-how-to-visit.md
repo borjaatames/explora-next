@@ -46,6 +46,8 @@ The Royal Alcázar is **the oldest royal palace still in use in Europe** and one
 | Seville's essentials in one morning | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (9,797) | €53 |
 | With free time in the gardens | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
 
+[actividad: real-alcazar-sevilla-tour-guiado-skip-line]
+
 ## What to see inside
 
 - **Patio del Yeso:** 12th century, one of Spain's few surviving Almohad civic buildings. Most people walk straight past.

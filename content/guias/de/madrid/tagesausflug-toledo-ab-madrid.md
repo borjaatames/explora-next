@@ -21,6 +21,7 @@ slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
   de: tagesausflug-toledo-ab-madrid
+reservasArriba: true
 actividades:
   - excursion-toledo-dia-completo
   - excursion-toledo-ave-tren

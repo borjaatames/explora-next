@@ -19,6 +19,7 @@ slugs:
   es: malaga-con-ninos
   en: malaga-with-kids
   de: malaga-mit-kindern
+reservasArriba: true
 actividades:
   - catamaran-malaga-atardecer
   - cuevas-nerja-frigiliana-desde-malaga

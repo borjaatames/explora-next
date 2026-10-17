@@ -65,6 +65,8 @@ The basilica still has definitive works ahead until close to 2035 (including the
 
 > **⚠️ Warning:** **Barcelona residents can visit Sagrada Familia at 50% discount throughout 2026** by proving residency. The promotion is exceptional for the Gaudí Year. If you live in the city, write to `residents@ext.sagradafamilia.org` with a copy of your DNI or recent census certificate.
 
+[actividad: entrada-sagrada-familia-audioguia]
+
 ## Should you climb the towers? Nativity or Passion
 
 The most common question after "which ticket should I buy": is the tower upgrade worth it? Here's the honest answer. There are **two** towers and you can only climb one with your ticket (€10 extra over the basic):
@@ -77,6 +79,8 @@ The most common question after "which ticket should I buy": is the tower upgrade
 The arguments against: you go up by elevator but **come down via a narrow spiral staircase**. Not accessible for wheelchairs, not recommended for vertigo or claustrophobia, and children under 6 can't climb. You photograph the tower spires from inside the towers themselves, you don't see them entire. And from other places in Barcelona (Bunkers del Carmel, Tibidabo) you have comparable or better views **for free**.
 
 > **⭐ Tip:** if you have to choose between the tower upgrade and going to Park Güell or Casa Batlló, better distribute the budget. For Sagrada Familia, **what matters is the stained glass from inside** — and that you see with the basic ticket.
+
+[actividad: sagrada-familia-tour-con-torre]
 
 ## The Hour of Silence (new in 2026)
 

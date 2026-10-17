@@ -49,6 +49,8 @@ La regla de oro: **no hace falta entrar a todo**. El conjunto arquitectónico, c
 | Umbracle | Jardín-mirador con esculturas | Gratis, paseo |
 | Àgora / Pont de l'Assut | Estructuras y puente | Solo por fuera |
 
+[actividad: oceanografic-valencia-entrada]
+
 ## Cómo organizar la visita
 
 **Por fuera (gratis).** Pasea entre los edificios y por el **Umbracle**, el jardín elevado con palmeras y esculturas. Al atardecer, los reflejos en el agua son la mejor foto. Esto solo ya justifica la visita aunque no entres a nada.
@@ -69,6 +71,8 @@ La regla de oro: **no hace falta entrar a todo**. El conjunto arquitectónico, c
 | Un día completo familiar | Combinada de los tres + tarde libre |
 
 > **⭐ Tip:** las **entradas combinadas** (2 o 3 atracciones) salen bastante más baratas que sueltas y se agotan en temporada alta. Cómpralas online, elige la **primera hora** para el Oceanogràfic y deja el museo o el Hemisfèric para después de comer.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
 ## Precios, horarios y cómo llegar
 

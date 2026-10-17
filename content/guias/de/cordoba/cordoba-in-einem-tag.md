@@ -19,6 +19,7 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
+reservasArriba: true
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - mezquita-juderia-tour-a-pie

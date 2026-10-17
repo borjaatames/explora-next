@@ -48,6 +48,8 @@ Die goldene Regel: **geh so früh wie möglich**. Dann sind am wenigsten Mensche
 
 > **⭐ Tipp:** Es gibt einen **kostenlosen Eintrittszeitraum** von Montag bis Samstag früh morgens (meist gegen 8:30-9:30 Uhr; bestätige die aktuelle Uhrzeit auf der offiziellen Website). Gruppen sind nicht erlaubt, und man muss früh dort sein, aber es ist die beste Art, sie fast leer zu erleben.
 
+[actividad: mezquita-catedral-tour-guiado-sin-colas]
+
 ## Wann hingehen
 
 Immer **so früh wie möglich** (Hitze und Gruppen kommen im späteren Vormittag). Im Sommer meide den Mittag um jeden Preis. **Sonntagvormittags** schränkt der katholische Gottesdienst den touristischen Besuch ein: beachte das. Wenn du kannst, erwäge die **Nachtführung** ("Die Seele Córdobas"), eine Licht- und Tonshow.

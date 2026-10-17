@@ -20,6 +20,7 @@ slugs:
   es: sevilla-en-3-dias
   en: seville-in-3-days
   de: sevilla-in-3-tagen
+reservasArriba: true
 actividades:
   - cordoba-excursion-dia-completo-mezquita-desde-sevilla
   - cadiz-jerez-frontera-excursion-dia-desde-sevilla

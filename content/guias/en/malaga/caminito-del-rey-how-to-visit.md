@@ -59,6 +59,8 @@ The Caminito is a **linear** route of about 7.7 km (3 km of walkways anchored to
 
 > **⭐ Tip:** tickets go on sale months ahead on the official site and vanish. Check the available Caminito dates first and **build the trip around that day**, not the other way round.
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## Getting there from Málaga
 
 **By train.** Renfe Cercanías/Media Distancia to **El Chorro–Caminito del Rey** or **Álora** (40-50 min from Málaga). From the station, the **shuttle bus** connects to the north entrance (the start).

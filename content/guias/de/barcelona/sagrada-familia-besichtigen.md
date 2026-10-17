@@ -55,6 +55,8 @@ Der Basilika stehen bis etwa 2035 noch abschließende Arbeiten bevor (einschlie�
 
 > **⚠️ Hinweis:** **Einwohner von Barcelona können die Sagrada Familia während des gesamten Jahres 2026 mit 50 % Ermäßigung besuchen**, sofern sie ihren Wohnsitz nachweisen. Die Aktion ist eine Ausnahme aufgrund des Gaudí-Jahres. Wer in der Stadt lebt, schreibt an `residents@ext.sagradafamilia.org` mit einer Kopie des Personalausweises oder eines aktuellen Meldenachweises.
 
+[actividad: entrada-sagrada-familia-audioguia]
+
 ## Auf die Türme steigen? Nacimiento oder Pasión
 
 Die häufigste Frage nach "welches Ticket kaufe ich": lohnt sich der Aufpreis für den Turmaufstieg? Hier die ehrliche Antwort. Es gibt **zwei** Türme, und mit deinem Ticket kannst du nur einen besteigen (kostet 10 € Aufpreis auf das Basisticket):
@@ -67,6 +69,8 @@ Die häufigste Frage nach "welches Ticket kaufe ich": lohnt sich der Aufpreis f�
 Die Argumente dagegen: Der Aufstieg erfolgt mit dem Aufzug, aber **der Abstieg über eine enge Wendeltreppe**. Nicht rollstuhlgerecht, nicht empfehlenswert bei Schwindel oder Klaustrophobie, und Kinder unter 6 Jahren dürfen nicht hinauf. Die Fotos der Turmspitzen machst du von innerhalb der Türme, du siehst sie also nicht vollständig. Und von anderen Orten in Barcelona (Búnkers del Carmel, Tibidabo) hast du vergleichbare oder bessere Ausblicke **kostenlos**.
 
 > **⭐ Tipp:** wenn du zwischen dem Turm-Aufpreis und einem Besuch im Park Güell oder in der Casa Batlló wählen musst, verteile das Budget lieber anders. Bei der Sagrada Familia zählen vor allem **die Glasfenster von innen** — und die siehst du auch mit dem Basisticket.
+
+[actividad: sagrada-familia-tour-con-torre]
 
 ## Die Stunde der Stille (neu seit 2026)
 

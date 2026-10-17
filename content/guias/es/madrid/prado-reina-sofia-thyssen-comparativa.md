@@ -68,6 +68,8 @@ Uno de los cinco mejores museos del mundo: Velázquez, Goya, El Greco, Tiziano, 
 
 > **Tip:** paga los 15 € y entra a las 10:00. La hora gratuita está saturada y no se disfruta. Más en [Madrid gratis](/guias/madrid/madrid-gratis).
 
+[actividad: museo-prado-entrada]
+
 ## El Thyssen: el más completo cronológicamente
 
 La colección privada más importante del mundo, comprada por el Estado en 1993. Su gracia es la **variedad**: del gótico italiano al Pop Art americano sin saltos, en un solo recorrido. Donde el Prado es profundo, el Thyssen es panorámico.
@@ -80,6 +82,8 @@ La colección privada más importante del mundo, comprada por el Estado en 1993.
 
 **Precios y horarios:** 14 €. Gratis los lunes de 12:00 a 16:00 (solo colección permanente) y los sábados de 21:00 a 23:00. **Los lunes solo abre en ese horario gratuito.** Entre 1 h 30 y 2 h 30.
 
+[actividad: museo-thyssen-entrada]
+
 ## El Reina Sofía: solo si te interesa el siglo XX
 
 Arte español e internacional del XX y contemporáneo. La estrella es el **Guernica**, y están Dalí, Miró, Picasso y Tàpies. El veredicto honesto: con tiempo limitado e interés generalista, **sáltalo** y dedica ese tiempo a Prado + Thyssen. El edificio es enorme y, fuera de Guernica, Dalí, Miró y algunas series de Picasso, mucho es arte conceptual que no engancha al visitante medio.
@@ -87,6 +91,8 @@ Arte español e internacional del XX y contemporáneo. La estrella es el **Guern
 Cuándo sí: si te apasionan las vanguardias, si ya viste Prado y Thyssen en otro viaje, o si solo quieres ver el Guernica: ve, dale 20 minutos al cuadro (3,5 × 7,8 m, el bombardeo del 26 de abril de 1937) y la sala de Dalí (*El gran masturbador*, *El enigma de Hitler*), y vete.
 
 **Precios y horarios:** 12 €. Gratis lunes y de miércoles a sábado de 19:00 a 21:00, domingos de 12:30 a 14:30. Guernica, Dalí y Miró, 1 h 30; completo, 3-4 h.
+
+[actividad: reina-sofia-entrada]
 
 ## Cómo organizarlos
 

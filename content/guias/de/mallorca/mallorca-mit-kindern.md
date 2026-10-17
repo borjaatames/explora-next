@@ -21,6 +21,7 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+reservasArriba: true
 actividades:
   - palma-aquarium-entrada
   - tren-soller-tranvia-medio-dia-desde-el-norte

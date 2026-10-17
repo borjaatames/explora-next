@@ -67,6 +67,8 @@ Das sind die Preise des Patronato de la Alhambra gemäß der Verordnung vom 17. 
 
 **Verfügbare Ermäßigungen**, die den Preis senken: EU-Rentner über 65 Jahre, Jugendausweis und Behinderung ≥ 33 % (Nachweis an der Kasse Pflicht). Kinder unter 12 Jahren zahlen nichts, brauchen aber **ein personalisiertes Ticket** — dieses wird beim gleichen Kauf ausgestellt. Kommt ein Kind ohne Ticket an, kommt es nicht hinein, auch wenn der Eintritt kostenlos wäre.
 
+[actividad: visita-guiada-alhambra-generalife]
+
 ## Wann der Eintritt kostenlos ist
 
 Die Alhambra **hat keinen kostenlosen Eintrittstag** wie andere Monumente. Die einzigen echten kostenlosen Optionen:
@@ -106,6 +108,8 @@ Das passiert jede Woche. Hier sind die **3 echten Alternativen**, in Reihenfolge
 **3. Um 7:30 Uhr am Eingang anstehen.** Das Patronato gibt **ein begrenztes Tageskontingent** an der physischen Kasse frei (nicht online). Du musst vor 8 Uhr da sein und hoffen. Funktioniert in der Nebensaison, in der Hochsaison fast nie.
 
 > **⚠️ Hinweis:** Was du **NICHT** tun solltest, ist von nicht-offiziellen Seiten zu kaufen, die "Last-Minute-Tickets Alhambra 22,27 €" versprechen. Zeigt die offizielle Seite "ausgebucht" und eine andere bietet dasselbe Ticket zum selben Preis an, handelt es sich um einen Wiederverkäufer oder Betrug.
+
+[actividad: entrada-y-tour-guiado-alhambra]
 
 ## Anreise und Öffnungszeiten
 

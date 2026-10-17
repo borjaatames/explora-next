@@ -21,6 +21,7 @@ slugs:
   es: que-ver-en-alicante
   en: what-to-see-in-alicante
   de: was-sehen-in-alicante
+reservasArriba: true
 actividades:
   - tour-a-pie-alicante-imprescindibles
   - tour-tuk-tuk-alicante-castillos-playas

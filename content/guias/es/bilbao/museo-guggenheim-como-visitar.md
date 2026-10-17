@@ -67,6 +67,8 @@ Calcula **2-2,5 horas** dentro. La audioguía va incluida y merece la pena.
 - **La niebla y el fuego:** la escultura de niebla de Nakaya se activa a horas fijas (consúltalas en el mostrador, suelen ser cada hora) y la fuente de fuego de Klein se enciende al anochecer. Sal a verlas desde la pasarela de la ría.
 - **Cómo llegar:** metro Moyua (L1 y L2) y 7 minutos a pie, o tranvía con parada Guggenheim en la puerta. Desde el Casco Viejo, 20 minutos andando por la ría.
 
+[actividad: guggenheim-bilbao-visita-guiada-entrada]
+
 ## Cómo combinarlo
 
 El Guggenheim queda en el Ensanche, junto a la ría, a un paseo del Casco Viejo. A cinco minutos está el **Museo de Bellas Artes**, excelente y mucho menos visitado: si te gusta el arte, es la pareja perfecta. Lo encajamos como primera parada en [Bilbao en un día](/guias/bilbao/bilbao-en-un-dia).

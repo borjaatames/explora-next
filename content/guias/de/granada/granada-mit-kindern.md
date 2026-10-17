@@ -21,6 +21,7 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+reservasArriba: true
 actividades:
   - entrada-jardines-alhambra-generalife
   - visita-guiada-alhambra-generalife

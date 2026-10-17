@@ -19,6 +19,7 @@ slugs:
   es: que-ver-en-gran-canaria
   en: what-to-see-in-gran-canaria
   de: was-sehen-auf-gran-canaria
+reservasArriba: true
 actividades:
   - buggy-barrancos-gran-canaria
   - catamaran-delfines-esnorquel-gran-canaria

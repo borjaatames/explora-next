@@ -62,6 +62,8 @@ Rechnen Sie mit **2 bis 2,5 Stunden** im Inneren. Der Audioguide ist im Ticket e
 
 > **⚠️ Hinweis:** In der Hochsaison und an Wochenenden gibt es Warteschlangen an der Kasse. Kaufen Sie das Ticket **online** mit Zeitfenster und gehen Sie direkt hinein.
 
+[actividad: guggenheim-bilbao-visita-guiada-entrada]
+
 ## Wie man es kombiniert
 
 Das Guggenheim liegt im Ensanche, an der Ría, einen Spaziergang von der Altstadt entfernt. Fünf Minuten entfernt liegt das **Museo de Bellas Artes** (Museum der Schönen Künste), exzellent und deutlich weniger besucht: Wenn Sie Kunst mögen, ist es die perfekte Ergänzung. Wir setzen es als ersten Stopp in [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag) ein.

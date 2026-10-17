@@ -21,6 +21,7 @@ slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
   de: santiago-in-einem-tag
+reservasArriba: true
 actividades:
   - catedral-museo-casco-antiguo-santiago
   - tour-a-pie-casco-antiguo-santiago

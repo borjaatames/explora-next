@@ -19,6 +19,7 @@ slugs:
   es: que-ver-en-tenerife
   en: what-to-see-in-tenerife
   de: was-sehen-auf-teneriffa
+reservasArriba: true
 actividades:
   - teide-teleferico-traslado
   - tour-teide-masca-icod-garachico

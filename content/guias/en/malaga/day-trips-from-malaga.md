@@ -19,6 +19,7 @@ slugs:
   es: escapadas-desde-malaga
   en: day-trips-from-malaga
   de: ausfluege-ab-malaga
+reservasArriba: true
 actividades:
   - caminito-del-rey-guiado-desde-malaga
   - ronda-setenil-desde-malaga

@@ -85,6 +85,8 @@ Ehrliche Hinweise zum kostenlosen Zeitfenster:
 
 **Maximales Kontingent**: 750 Personen zur regulären Öffnungszeit. **Buche 1-2 Wochen im Voraus**, wenn du im Frühling oder Sommer reist.
 
+[actividad: real-alcazar-sevilla-tour-guiado-skip-line]
+
 ## Der Rundgang durch den Palast — was man sieht und warum es zählt
 
 Ich führe dich in der logischen Reihenfolge ab dem Eingang.
@@ -196,6 +198,8 @@ Der Alcázar diente als Drehort für **Game of Thrones** (die Wassergärten von 
 **3. Christoph Kolumbus hier**
 
 **Kolumbus wurde hier nach seiner zweiten Reise von den Katholischen Königen empfangen.** Von diesen Sälen aus wurde im 16. Jahrhundert ein großer Teil der Verwaltung der Indias organisiert. Wenn du im Salón de Embajadores stehst, denk daran, dass in diesem Raum die Route des Gold- und Silberhandels aus Amerika entschieden wurde.
+
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
 ## Typische Fehler des Besuchers
 

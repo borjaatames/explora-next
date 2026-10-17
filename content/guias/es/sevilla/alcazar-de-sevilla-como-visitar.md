@@ -46,6 +46,8 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 | Lo esencial de Sevilla en una mañana | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (9.797) | 53 € |
 | Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 
+[actividad: real-alcazar-sevilla-tour-guiado-skip-line]
+
 ## Precios y horarios
 
 - **Entrada general:** 14,50 €. Reducida 4,50 € (mayores de 65, estudiantes de 14 a 30 años y Carné Joven). Online se paga 1 € más por la gestión. Gratis para menores de 13 años, personas con discapacidad y nacidos o residentes en Sevilla.
@@ -65,6 +67,8 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 - **Jardines:** más de la mitad del recinto, con la Galería del Grutesco. Fueron los Jardines del Agua de Dorne en Juego de Tronos.
 
 La visita completa lleva **unas 2,5-3 horas**. Reserva al menos 45 minutos para los jardines.
+
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
 ## Errores que cometen casi todos
 
