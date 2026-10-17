@@ -115,6 +115,7 @@ export function middleware(req: NextRequest) {
       maxAge: 60 * 60 * 24 * 365,
       sameSite: "lax",
     });
+    res.headers.set("x-pathname", pathname);
     return res;
   }
 
@@ -124,7 +125,9 @@ export function middleware(req: NextRequest) {
   // se aplica en la home. Cualquier otra URL ES sin prefijo es intención
   // explícita y se sirve tal cual.
   if (pathname !== "/") {
-    return NextResponse.next();
+    const _res = NextResponse.next();
+    _res.headers.set("x-pathname", pathname);
+    return _res;
   }
 
   // En home: respetar cookie explícita, después detectar por navegador.
@@ -134,7 +137,9 @@ export function middleware(req: NextRequest) {
       return NextResponse.redirect(new URL(`/${cookiePreferido}`, req.url), 307);
     }
     // cookie es "es" → dejar pasar tal cual.
-    return NextResponse.next();
+    const _res = NextResponse.next();
+    _res.headers.set("x-pathname", pathname);
+    return _res;
   }
 
   // Sin cookie: detectar idioma del navegador.
@@ -154,5 +159,7 @@ export function middleware(req: NextRequest) {
   }
 
   // Navegador en español o no detectable → home ES tal cual.
-  return NextResponse.next();
+  const _resHome = NextResponse.next();
+  _resHome.headers.set("x-pathname", pathname);
+  return _resHome;
 }

@@ -1,21 +1,19 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import {
   IDIOMAS_ACTIVOS,
   IDIOMA_DEFECTO,
   IDIOMA_LABELS,
-  esIdiomaActivo,
   COOKIE_LOCALE,
 } from "@/lib/i18n/config";
 import type { Idioma } from "@/lib/i18n/types";
-import type { MapaParejas } from "@/lib/i18n/parejas";
+import type { ParejaUrls } from "@/lib/i18n/parejas";
 
 /**
- * URL home del idioma destino. Fallback usado cuando la URL actual no
- * está en el mapa (ruta no contemplada) o no tiene pareja en ese idioma.
+ * URL home del idioma destino. Fallback cuando la página actual no tiene
+ * pareja definida en ese idioma.
  */
 function urlHomeIdioma(destino: Idioma): string {
   return destino === IDIOMA_DEFECTO ? "/" : `/${destino}`;
@@ -23,7 +21,6 @@ function urlHomeIdioma(destino: Idioma): string {
 
 /**
  * Etiquetas accesibles del botón del selector, una por idioma.
- * Garantiza que un lector de pantalla en español NO escuche "Change language".
  */
 const ARIA_LABEL_CAMBIAR_IDIOMA: Record<Idioma, string> = {
   es: "Cambiar idioma",
@@ -37,18 +34,18 @@ const ARIA_LABEL_CAMBIAR_IDIOMA: Record<Idioma, string> = {
 /**
  * Selector de idioma autoreferencial (sin banderas).
  *
- * Resolución de la URL destino:
- *   1. `usePathname()` da la ruta actual (sin search/hash).
- *   2. Lookup en `mapaParejas` (generado en build, sólido y estático).
- *   3. Si la entrada existe y declara el idioma destino → esa URL.
- *   4. Si no, fallback a home del idioma destino.
+ * Recibe del servidor únicamente las parejas de la página actual (≤3 URLs)
+ * en lugar del mapa completo del sitio. Esto reduce el RSC payload de
+ * ~568 KB a ~100 bytes por página.
  */
 type Props = {
-  mapaParejas: MapaParejas;
+  /** Idioma activo en esta página — lo conoce el servidor, no hace falta usePathname. */
+  idioma: Idioma;
+  /** Parejas de la URL actual: {es: "/...", en: "/en/...", de: "/de/..."} o null. */
+  parejas: ParejaUrls | null;
 };
 
-export default function LanguageSwitcher({ mapaParejas }: Props) {
-  const pathname = usePathname() || "/";
+export default function LanguageSwitcher({ idioma, parejas }: Props) {
   const [abierto, setAbierto] = useState(false);
   const wrapperRef = useRef<HTMLDivElement>(null);
 
@@ -67,14 +64,7 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
 
   if (IDIOMAS_ACTIVOS.length <= 1) return null;
 
-  const primerSegmento = pathname.split("/").filter(Boolean)[0];
-  const idiomaActual: Idioma =
-    primerSegmento && esIdiomaActivo(primerSegmento)
-      ? primerSegmento
-      : IDIOMA_DEFECTO;
-
-  const etiquetaActual = IDIOMA_LABELS[idiomaActual];
-  const parejas = mapaParejas[pathname];
+  const etiquetaActual = IDIOMA_LABELS[idioma];
 
   return (
     <div ref={wrapperRef} className="relative">
@@ -84,7 +74,7 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
         className="flex items-center gap-1 text-slate-900 hover:text-sky-700 font-semibold transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
         aria-haspopup="listbox"
         aria-expanded={abierto}
-        aria-label={ARIA_LABEL_CAMBIAR_IDIOMA[idiomaActual]}
+        aria-label={ARIA_LABEL_CAMBIAR_IDIOMA[idioma]}
       >
         <span>{etiquetaActual.nombre}</span>
         <svg
@@ -107,7 +97,7 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
         >
           {IDIOMAS_ACTIVOS.map((lang) => {
             const etiqueta = IDIOMA_LABELS[lang];
-            const seleccionado = lang === idiomaActual;
+            const seleccionado = lang === idioma;
             const destino = parejas?.[lang] ?? urlHomeIdioma(lang);
             return (
               <li key={lang} role="option" aria-selected={seleccionado}>
@@ -115,20 +105,12 @@ export default function LanguageSwitcher({ mapaParejas }: Props) {
                   href={destino}
                   prefetch={false}
                   onClick={(e) => {
-                    // Persistir la elección de idioma. Sin esto, el middleware
-                    // de la home reescribe "/" según la cookie/navegador y la
-                    // selección manual se pierde (rebote a /en).
+                    // Persistir la elección de idioma en cookie.
                     document.cookie = `${COOKIE_LOCALE}=${lang}; path=/; max-age=31536000; samesite=lax`;
                     setAbierto(false);
 
-                    // Navegación DURA (recarga completa) en vez del soft-nav de
-                    // Next. Motivo del bug recurrente: el router prefetch-cachea
-                    // la home "/" resuelta con la cookie/Accept-Language ANTERIOR
-                    // (inglés); al volver a "/" para pasar a español usaba esa
-                    // versión cacheada y el middleware la rebotaba a /en, de modo
-                    // que "no se podía cambiar a ES" desde el inicio en inglés.
-                    // window.location obliga a una request real al servidor con
-                    // la cookie recién puesta, sin caché de prefetch de por medio.
+                    // Navegación DURA para evitar el bug de prefetch-cache
+                    // del router (ver comentario original en el historial).
                     e.preventDefault();
                     window.location.assign(destino);
                   }}
