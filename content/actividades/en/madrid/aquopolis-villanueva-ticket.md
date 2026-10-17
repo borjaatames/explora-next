@@ -67,7 +67,8 @@ imagenAlt: "Children's splash area at Aquópolis Villanueva de la Cañada"
 galeria: []
 ratingProveedor: 4.6
 numeroOpiniones: 54
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: false
 fecha: '2026-10-17'

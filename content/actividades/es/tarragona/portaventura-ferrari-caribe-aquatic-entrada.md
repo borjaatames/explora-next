@@ -87,7 +87,7 @@ galeria:
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:
-- portaventura-ferrari-land-entrada
+- portaventura
 publicada: true
 destacada: true
 fecha: '2026-10-17'

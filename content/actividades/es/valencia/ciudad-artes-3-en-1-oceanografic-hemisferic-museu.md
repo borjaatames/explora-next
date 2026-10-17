@@ -88,7 +88,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 3518
 atraccionesRelacionadas:
-- oceanografic-valencia-entrada
+- ciudad-artes-ciencias
 publicada: true
 destacada: true
 fecha: '2026-10-17'

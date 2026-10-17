@@ -64,7 +64,7 @@ opinionEditorial: "Mundomar is underrated. The dolphin show is genuinely excelle
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante
 - what-to-see-in-alicante
-categoria: parques-tematicos
+categoria: entradas
 keywords:
 - mundomar benidorm ticket
 - benidorm marine park
@@ -82,7 +82,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:
-- terra-mitica-benidorm-ticket
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-10-17'

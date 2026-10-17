@@ -72,7 +72,7 @@ opinionEditorial: "PortAventura is Spain's flagship theme park and one of Europe
 guiasRelacionadas:
 - portaventura-world-guide
 - tarragona-in-one-day
-categoria: parques-tematicos
+categoria: entradas
 keywords:
 - portaventura ferrari land ticket
 - portaventura caribe aquatic park
@@ -90,7 +90,7 @@ galeria:
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:
-- portaventura-ferrari-land-entrada
+- portaventura
 publicada: true
 destacada: true
 fecha: '2026-10-17'

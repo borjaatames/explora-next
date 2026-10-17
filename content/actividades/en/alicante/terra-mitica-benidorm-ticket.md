@@ -65,7 +65,7 @@ opinionEditorial: "The Costa Blanca's best theme park. Terra Mítica punches abo
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante
 - what-to-see-in-alicante
-categoria: parques-tematicos
+categoria: entradas
 keywords:
 - terra mitica benidorm ticket
 - benidorm theme park
@@ -83,7 +83,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 504
 atraccionesRelacionadas:
-- mundomar-benidorm-ticket
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-10-17'

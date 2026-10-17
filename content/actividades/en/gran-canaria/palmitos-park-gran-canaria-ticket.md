@@ -66,7 +66,7 @@ opinionEditorial: "Palmitos Park is Gran Canaria's hidden gem — far less visit
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - maspalomas-dunes-guide
-categoria: parques-tematicos
+categoria: entradas
 keywords:
 - palmitos park gran canaria
 - gran canaria zoo ticket
@@ -85,7 +85,8 @@ galeria:
   alt: "Saddle-billed stork at Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- isla
 publicada: true
 destacada: false
 fecha: '2026-10-17'

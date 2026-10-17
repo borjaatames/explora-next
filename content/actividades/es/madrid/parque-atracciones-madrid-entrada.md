@@ -82,7 +82,8 @@ galeria:
   alt: "Atracción infantil Padrinos Voladores en Nickelodeon Land"
 ratingProveedor: 4.5
 numeroOpiniones: 414
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: false
 fecha: '2026-10-17'

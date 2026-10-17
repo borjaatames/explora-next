@@ -82,6 +82,7 @@ chipsFiltros:
   - { label: "Excursión a Toledo", tag: "toledo" }
   - { label: "Otras excursiones", tag: "excursiones-desde-madrid" }
   - { label: "Tours a pie y en bici", tag: "tours-a-pie" }
+  - { label: "Parques y zoo", tag: "parques" }
   - { label: "Bus turístico y otros planes", tag: "otros-madrid" }
 ---
 

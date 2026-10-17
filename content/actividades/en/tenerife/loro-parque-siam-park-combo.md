@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: "Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip."
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: parques-tematicos
+categoria: entradas
 keywords:
 - loro parque siam park combo
 - tenerife parks combo ticket
@@ -84,7 +84,8 @@ galeria:
   alt: "Thai temple entrance at Siam Park, Tenerife"
 ratingProveedor: 4.7
 numeroOpiniones: 8501
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: true
 fecha: '2026-10-17'

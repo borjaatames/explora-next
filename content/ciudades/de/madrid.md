@@ -82,6 +82,7 @@ chipsFiltros:
   - { label: "Ausflug nach Toledo", tag: "toledo" }
   - { label: "Weitere Tagesausflüge", tag: "excursiones-desde-madrid" }
   - { label: "Stadt- und Radtouren", tag: "tours-a-pie" }
+  - { label: "Freizeitparks und Zoo", tag: "parques" }
   - { label: "Stadtrundfahrt und mehr", tag: "otros-madrid" }
 ---
 

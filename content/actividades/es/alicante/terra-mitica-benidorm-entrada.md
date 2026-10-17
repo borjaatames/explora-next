@@ -83,7 +83,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 504
 atraccionesRelacionadas:
-- mundomar-benidorm-entrada
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-10-17'

@@ -75,7 +75,8 @@ galeria:
   alt: "Venetian towers and Plaça d'Espanya at the foot of Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- otros-barcelona
 publicada: true
 destacada: true
 fecha: '2026-10-17'

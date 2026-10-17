@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: 'La excursión en catamarán desde Puerto Colón es la opción más cómoda para las familias alojadas en el sur de Tenerife. El catamarán da estabilidad, y la parada de baño convierte el tour en una actividad completa de media jornada.'
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - avistamiento ballenas costa adeje
 - catamaran ballenas tenerife
@@ -80,8 +80,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 4248
 atraccionesRelacionadas:
-- ballenas-los-gigantes-tenerife
-- catamaran-ballenas-buffet-tenerife
+- mar
 publicada: true
 destacada: false
 fecha: '2026-10-17'

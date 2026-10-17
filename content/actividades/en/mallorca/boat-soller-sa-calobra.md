@@ -63,7 +63,7 @@ guiasRelacionadas:
 - serra-tramuntana-soller
 - best-coves-mallorca
 - what-to-see-in-mallorca
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - sa calobra boat trip mallorca
 - soller sa calobra
@@ -80,7 +80,9 @@ galeria:
   alt: "View over Port de Sóller and its bay"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- tramuntana
+- calas-playas
 publicada: true
 destacada: false
 fecha: '2026-10-17'

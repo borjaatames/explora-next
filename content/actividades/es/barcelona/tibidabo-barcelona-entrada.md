@@ -85,7 +85,8 @@ galeria:
   alt: "Carrusel iluminado al atardecer en el Tibidabo"
 ratingProveedor: 4.3
 numeroOpiniones: 458
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- otros-barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-17'

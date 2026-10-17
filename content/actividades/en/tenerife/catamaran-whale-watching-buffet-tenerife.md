@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: "If you are going to do whale watching in Tenerife, do it properly. The full day, the buffet, and the extra time on the water add up to the best version of this experience. Rated higher than any other whale watching tour on the island."
 guiasRelacionadas:
 - whale-watching-tenerife
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - whale watching buffet tenerife
 - full day catamaran tenerife
@@ -81,7 +81,8 @@ galeria:
   alt: "Pilot whale blowing at the surface, Tenerife"
 ratingProveedor: 4.8
 numeroOpiniones: 2242
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- mar
 publicada: true
 destacada: false
 fecha: '2026-10-17'

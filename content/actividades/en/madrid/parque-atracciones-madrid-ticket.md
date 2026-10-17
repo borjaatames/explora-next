@@ -73,7 +73,8 @@ galeria:
   alt: "Padrinos Voladores children's ride in Nickelodeon Land"
 ratingProveedor: 4.5
 numeroOpiniones: 414
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: false
 fecha: '2026-10-17'

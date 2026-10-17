@@ -66,7 +66,7 @@ opinionEditorial: 'El teleférico de Montjuïc es la forma más espectacular de 
 guiasRelacionadas:
 - barcelona-en-3-dias
 - barcelona-con-ninos
-categoria: actividades
+categoria: entradas
 keywords:
 - teleferico montjuic barcelona
 - cable car montjuic barcelona
@@ -83,7 +83,8 @@ galeria:
   alt: "Torres venecianas y plaza de España a los pies de Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- otros-barcelona
 publicada: true
 destacada: true
 fecha: '2026-10-17'

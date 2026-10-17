@@ -83,7 +83,8 @@ galeria:
   alt: "Visitantes ante el gran tanque del Oceanario"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- otros-barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-17'

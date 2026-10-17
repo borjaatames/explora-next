@@ -67,7 +67,7 @@ guiasRelacionadas:
 - serra-tramuntana-soller
 - mejores-calas-mallorca
 - que-ver-en-mallorca
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - barco soller sa calobra
 - excursion sa calobra mallorca
@@ -85,7 +85,8 @@ galeria:
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:
-- mallorca-vuelta-isla-tren-soller-tranvia-barco
+- tramuntana
+- calas-playas
 publicada: true
 destacada: false
 fecha: '2026-10-17'

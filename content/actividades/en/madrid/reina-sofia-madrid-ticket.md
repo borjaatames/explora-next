@@ -78,7 +78,8 @@ galeria:
   alt: "Glass lifts on the facade of the Reina Sofía Museum"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- reina-sofia
 publicada: true
 destacada: true
 fecha: '2026-10-17'

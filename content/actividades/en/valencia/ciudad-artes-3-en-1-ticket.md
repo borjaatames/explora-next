@@ -80,7 +80,8 @@ galeria:
   alt: "Facade of the Museu de les Ciències, Valencia"
 ratingProveedor: 4.5
 numeroOpiniones: 3518
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- ciudad-artes-ciencias
 publicada: true
 destacada: true
 fecha: '2026-10-17'

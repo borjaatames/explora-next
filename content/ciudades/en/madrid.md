@@ -82,6 +82,7 @@ chipsFiltros:
   - { label: "Day trip to Toledo", tag: "toledo" }
   - { label: "Other day trips", tag: "excursiones-desde-madrid" }
   - { label: "Walking and bike tours", tag: "tours-a-pie" }
+  - { label: "Theme parks and zoo", tag: "parques" }
   - { label: "Sightseeing bus and more", tag: "otros-madrid" }
 ---
 

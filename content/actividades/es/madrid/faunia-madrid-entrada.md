@@ -83,7 +83,8 @@ galeria:
   alt: "Lago con patos en Faunia"
 ratingProveedor: 4.6
 numeroOpiniones: 111
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: false
 fecha: '2026-10-17'

@@ -84,8 +84,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:
-- museo-prado-entrada
-- museo-thyssen-entrada
+- reina-sofia
 publicada: true
 destacada: true
 fecha: '2026-10-17'

@@ -80,7 +80,8 @@ galeria:
   alt: "Lake and bird area at Zoo Aquarium de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: false
 fecha: '2026-10-17'

@@ -62,7 +62,7 @@ opinionEditorial: "Los Gigantes combines two of Tenerife's greatest natural spec
 guiasRelacionadas:
 - whale-watching-tenerife
 - what-to-see-in-tenerife
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - whale watching tenerife los gigantes
 - pilot whales tenerife
@@ -81,7 +81,9 @@ galeria:
   alt: "Open sea below the Los Gigantes cliffs"
 ratingProveedor: 4.7
 numeroOpiniones: 5888
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- mar
+- masca
 publicada: true
 destacada: true
 fecha: '2026-10-17'

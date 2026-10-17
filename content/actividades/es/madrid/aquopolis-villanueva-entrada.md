@@ -76,7 +76,8 @@ imagenAlt: "Zona infantil de juegos de agua en Aquópolis Villanueva de la Caña
 galeria: []
 ratingProveedor: 4.6
 numeroOpiniones: 54
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- parques
 publicada: true
 destacada: false
 fecha: '2026-10-17'

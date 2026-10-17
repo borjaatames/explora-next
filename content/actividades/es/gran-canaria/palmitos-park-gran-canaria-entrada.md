@@ -84,7 +84,8 @@ galeria:
   alt: "Jabirú africano en Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- isla
 publicada: true
 destacada: false
 fecha: '2026-10-17'

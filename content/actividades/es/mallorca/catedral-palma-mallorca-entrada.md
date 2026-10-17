@@ -89,8 +89,7 @@ galeria:
   alt: "Capilla del Santísimo con el mural de Miquel Barceló"
 ratingProveedor: 4.6
 numeroOpiniones: 17883
-atraccionesRelacionadas:
-- palma-aquarium-entrada
+atraccionesRelacionadas: []
 publicada: true
 destacada: true
 fecha: '2026-10-17'

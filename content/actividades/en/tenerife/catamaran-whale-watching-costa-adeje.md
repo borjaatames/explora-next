@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: "The south Tenerife option for whale watching. Convenient if you're staying in Los Cristianos or Las Américas, with the same excellent pilot whale sighting rates as the Los Gigantes route."
 guiasRelacionadas:
 - whale-watching-tenerife
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - whale watching costa adeje tenerife
 - catamaran tenerife south
@@ -79,7 +79,8 @@ galeria:
   alt: "Pilot whale calf beside its mother, Tenerife"
 ratingProveedor: 4.7
 numeroOpiniones: 4248
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- mar
 publicada: true
 destacada: false
 fecha: '2026-10-17'

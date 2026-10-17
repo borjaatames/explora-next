@@ -64,7 +64,7 @@ opinionEditorial: 'La combinación de los acantilados de Los Gigantes —los má
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
 - que-ver-en-tenerife
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - avistamiento ballenas tenerife
 - excursion ballenas los gigantes
@@ -83,7 +83,9 @@ galeria:
   alt: Vistas desde el mar hacia los acantilados de Los Gigantes
 ratingProveedor: 4.7
 numeroOpiniones: 5888
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- mar
+- masca
 publicada: true
 destacada: true
 fecha: '2026-10-17'

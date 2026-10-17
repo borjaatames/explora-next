@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: 'El tour más completo y mejor valorado (4,8★) de los tres disponibles en Tenerife. Si buscas una experiencia de medio día sin preocuparte de llevar comida ni bebida, este es el que te lleva el carro.'
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
-categoria: excursiones
+categoria: excursionesDia
 keywords:
 - catamaran ballenas tenerife buffet
 - excursion completa ballenas tenerife
@@ -79,8 +79,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 2242
 atraccionesRelacionadas:
-- catamaran-avistamiento-ballenas-costa-adeje
-- ballenas-los-gigantes-tenerife
+- mar
 publicada: true
 destacada: false
 fecha: '2026-10-17'

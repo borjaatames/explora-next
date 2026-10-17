@@ -85,8 +85,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:
-- loro-parque-entradas
-- siam-park-entradas
+- parques
 publicada: true
 destacada: true
 fecha: '2026-10-17'
