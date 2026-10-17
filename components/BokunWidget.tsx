@@ -29,9 +29,7 @@ import { textoUnidadBokun } from "@/lib/reservaBokun";
  * Rendimiento: el loader arrastra ~1,3 MB de JavaScript de Bokun y monta un
  * botón flotante que provocaba un CLS de 0,47 en móvil (PageSpeed 17-24).
  * Por eso NO se inyecta al cargar la página: se espera a que el bloque de
- * reserva esté a MARGEN_CARGA de entrar en pantalla (scroll o clic en
- * "Ver fechas disponibles", que baja hasta #reservar). En escritorio el
- * bloque está en el sidebar visible, así que se carga de inmediato.
+ * reserva esté a MARGEN_CARGA de entrar en pantalla (IntersectionObserver).
  */
 
 const LOADER_BASE =
@@ -97,13 +95,23 @@ export default function BokunWidget({
   const contenedorRef = useRef<HTMLDivElement>(null);
   const [activo, setActivo] = useState(false);
 
-  // Activar Bokun solo cuando el usuario interactúa (hover o click en el
-  // placeholder). En desktop el widget está en el sidebar visible, por lo que
-  // IntersectionObserver lo activaría de inmediato y bloquearía el hilo
-  // principal con ~1200ms de JS de Bokun, hundiendo el TBT.
-  function activar() {
-    if (!activo) setActivo(true);
-  }
+  useEffect(() => {
+    if (activo) return;
+    const nodo = contenedorRef.current;
+    if (!nodo) return;
+
+    const observer = new IntersectionObserver(
+      ([entrada]) => {
+        if (entrada.isIntersecting) {
+          setActivo(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: MARGEN_CARGA }
+    );
+    observer.observe(nodo);
+    return () => observer.disconnect();
+  }, [activo]);
 
   useEffect(() => {
     if (!channelUuid || !activo) return;
@@ -120,13 +128,8 @@ export default function BokunWidget({
         /* el loader hidratará en su próximo ciclo */
       }
     }
-    // `idioma` va en las dependencias: al cambiar de idioma el productId no
-    // cambia, pero el data-src sí (?lang=), y hay que re-inicializar para que
-    // Bokun vuelva a hidratar el widget en el nuevo idioma.
   }, [channelUuid, productId, idioma, activo]);
 
-  // Sin UUID configurado no se puede montar el widget. En vez de romper la
-  // ficha, mostramos un aviso discreto (solo se vería en una mala config).
   if (!channelUuid) {
     return (
       <div className="bg-white border border-slate-200 rounded-lg p-5 text-sm text-slate-500">
@@ -137,9 +140,6 @@ export default function BokunWidget({
     );
   }
 
-  // El widget de Bokun localiza su interfaz (Participantes, calendario, meses…)
-  // según el parámetro `lang` del data-src. Lo hacemos seguir el idioma de la
-  // página: español en fichas ES, inglés en fichas EN.
   const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
 
   const localeNota = idioma === "es" ? "es-ES" : "en-GB";
@@ -203,33 +203,10 @@ export default function BokunWidget({
         </div>
       )}
 
-      {/* min-h reserva el hueco del calendario (iframe de ~800-900 px) para
-          que su aparición no empuje el contenido. */}
       <div
         className="p-4 min-h-[560px]"
         ref={contenedorRef}
-        onMouseEnter={activar}
       >
-        {!activo && (
-          <div className="flex flex-col items-center justify-center gap-4 py-10">
-            <p className="text-sm text-slate-500 text-center">
-              {idioma === "es"
-                ? "Comprueba fechas y disponibilidad"
-                : "Check dates and availability"}
-            </p>
-            <button
-              onClick={activar}
-              className="inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-white font-semibold px-6 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
-            >
-              {idioma === "es" ? "Ver fechas disponibles" : "Check availability"}
-            </button>
-            <p className="text-xs text-slate-400">
-              {idioma === "es"
-                ? "Confirmación inmediata · Cancelación gratuita"
-                : "Instant confirmation · Free cancellation"}
-            </p>
-          </div>
-        )}
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y
             limpio en cada cambio, para que Bokun lo re-hidrate con el lang
             correcto (un div ya hidratado no vuelve a leer su data-src). */}
