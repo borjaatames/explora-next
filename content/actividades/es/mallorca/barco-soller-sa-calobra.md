@@ -18,7 +18,7 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t404400/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Sa Calobra y el Torrent de Pareis: la garganta más espectacular de Mallorca
+- "Sa Calobra y el Torrent de Pareis: la garganta más espectacular de Mallorca"
 - Paredes de 200 metros de altura sobre el agua
 - Playa de guijarros en el fondo del cañón
 - Navegación por la costa norte de la Serra de Tramuntana (Patrimonio UNESCO)

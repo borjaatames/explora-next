@@ -18,8 +18,8 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t407438/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Loro Parque: mejor zoo de Europa (TripAdvisor 2020-2022)
-- Siam Park: mejor parque acuático del mundo (TripAdvisor 7 años)
+- "Loro Parque: mejor zoo de Europa (TripAdvisor 2020-2022)"
+- "Siam Park: mejor parque acuático del mundo (TripAdvisor 7 años)"
 - Orca Ocean y Gorilla Island en Loro Parque
 - Tower of Power, Mae West y Dragon en Siam Park
 - Precio combinado con ahorro frente a las entradas individuales

@@ -49,7 +49,7 @@ informacionImportante:
   noAptoPara:
   - Personas con problemas de corazón o espalda en algunas atracciones
   aTenerEnCuenta:
-  - Magnus Colossus es la montaña rusa de madera más alta de España: imprescindible para los aficionados
+  - "Magnus Colossus es la montaña rusa de madera más alta de España: imprescindible para los aficionados"
   - En verano lleva mucha gente; llega a primera hora para las atracciones más populares
   - El parque cierra algunos días en temporada baja; confirma el calendario antes de comprar
 accesibilidad: El parque es accesible para sillas de ruedas aunque algunas atracciones tienen restricciones.

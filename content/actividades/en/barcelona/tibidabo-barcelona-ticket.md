@@ -48,7 +48,7 @@ informacionImportante:
   - Tibidabo is only open certain days (Thursday–Sunday in season, weekends out of season). Check the calendar before booking
   - The views are better on a clear day — check the weather forecast
   - The park is as much about atmosphere and heritage as it is about rides
-  - Getting there is part of the experience: tram + funicular journey is scenic
+  - "Getting there is part of the experience: tram + funicular journey is scenic"
 accesibilidad: Limited accessibility due to historic park infrastructure. Consult the operator.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:

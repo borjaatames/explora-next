@@ -18,9 +18,9 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t488113/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Oceanogràfic: el acuario más grande de Europa (45.000 animales)
-- Hemisfèric: cine IMAX con pantalla hemisférica de 900 m²
-- Museu de les Ciències: museo interactivo de ciencia diseñado por Calatrava
+- "Oceanogràfic: el acuario más grande de Europa (45.000 animales)"
+- "Hemisfèric: cine IMAX con pantalla hemisférica de 900 m²"
+- "Museu de les Ciències: museo interactivo de ciencia diseñado por Calatrava"
 - Arquitectura futurista de Santiago Calatrava en el complejo
 - Túnel submarino y beluga en el Oceanogràfic
 incluye:
@@ -47,7 +47,7 @@ informacionImportante:
   queTraer:
   - Entrada en el móvil
   - Calzado cómodo (el complejo es muy grande)
-  - Tiempo: necesitas el día completo para los tres recintos
+  - "Tiempo: necesitas el día completo para los tres recintos"
   noAptoPara: []
   aTenerEnCuenta:
   - El Oceanogràfic abre antes que el resto; empieza por allí (3-4 horas)

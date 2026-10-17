@@ -49,7 +49,7 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - El parque está en un barranco con cuestas; no es ideal para sillas de ruedas o personas con movilidad reducida
-  - El mariposario es una experiencia diferente a cualquier otro parque: vale la pena reservar tiempo
+  - "El mariposario es una experiencia diferente a cualquier otro parque: vale la pena reservar tiempo"
   - Los shows tienen horario fijo; consulta el programa al llegar
   - El parking es gratuito, lo que supone un ahorro respecto a otros parques
 accesibilidad: Acceso dificultoso para sillas de ruedas por el terreno en barranco. Consultar con el operador.

@@ -49,7 +49,7 @@ informacionImportante:
   - Agua y protector solar
   noAptoPara: []
   aTenerEnCuenta:
-  - Menores de 3 años: entrada gratuita
+  - "Menores de 3 años: entrada gratuita"
   - 'Horarios de espectáculos cambian según temporada: consulta al llegar'
   - El zoo ocupa 20 hectáreas; necesitas todo el día para verlo bien
   - En verano abre "Zoo Summer Night" con precios diferentes

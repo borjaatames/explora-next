@@ -19,9 +19,9 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Superman The Ride (montaña rusa de acero)
-- Batman: El Show del Caballero Oscuro
+- "Batman: El Show del Caballero Oscuro"
 - Coaster de DC Comics y Looney Tunes
-- 5 zonas temáticas: Hollywood, Cartoon Village, DC Comics, Old West, Supervillains
+- "5 zonas temáticas: Hollywood, Cartoon Village, DC Comics, Old West, Supervillains"
 - Espectáculos de acrobacia y efectos especiales
 incluye:
 - Entrada al parque Parque Warner

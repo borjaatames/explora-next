@@ -19,8 +19,8 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - PortAventura World con 6 zonas temáticas y Dragon Khan
-- Ferrari Land: el único parque temático de Ferrari en Europa
-- Caribe Aquatic Park: parque acuático de referencia en España
+- "Ferrari Land: el único parque temático de Ferrari en Europa"
+- "Caribe Aquatic Park: parque acuático de referencia en España"
 - Shambhala, la montaña rusa más alta de Europa
 incluye:
 - Entrada a PortAventura World

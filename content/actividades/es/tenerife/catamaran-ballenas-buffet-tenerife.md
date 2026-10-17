@@ -51,7 +51,7 @@ informacionImportante:
   aTenerEnCuenta:
   - El buffet distingue este tour del resto; es una buena opción si salís a primera hora de la mañana
   - Al ser 4 horas tenéis más tiempo en el agua y más tiempo de observación
-  - Valorado con 4,8/5: la mejor puntuación de los tours de ballenas en Tenerife disponibles en GYG
+  - "Valorado con 4,8/5: la mejor puntuación de los tours de ballenas en Tenerife disponibles en GYG"
 accesibilidad: Acceso limitado. Consultar con el operador.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
