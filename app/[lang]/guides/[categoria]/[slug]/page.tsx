@@ -20,10 +20,7 @@ import {
 import type { Idioma } from "@/lib/i18n/types";
 import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
-import {
-  obtenerActividadesParaGuia,
-  obtenerCarruselGuia,
-} from "@/lib/recomendaciones";
+import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
@@ -165,7 +162,7 @@ export default async function GuiaPage({ params }: Props) {
       keywords: guia.keywords,
       actividades: guia.actividades,
     },
-    6
+    10
   );
   const nombreCiudad =
     obtenerListaCiudades(lang).find((c) => c.slug === guia.categoria)?.nombre ??
@@ -264,22 +261,9 @@ export default async function GuiaPage({ params }: Props) {
   const reservasArriba = guia.reservasArriba
     ? actividadesRecomendadas.slice(0, 4)
     : [];
-  const yaOfrecidas = new Set<string>([
-    ...slugsInline(trozos),
-    ...reservasArriba.map((a) => a.slugs?.es ?? a.slug),
-  ]);
-  const actividadesCarrusel = obtenerCarruselGuia(
-    idiomaFichas(lang),
-    guia.categoria,
-    {
-      slug: guia.slug,
-      titulo: guia.titulo,
-      keywords: guia.keywords,
-      actividades: guia.actividades,
-    },
-    yaOfrecidas,
-    4
-  );
+  // Carrusel final: todas las fichas de la guía (`actividades:`), en su
+  // orden, aunque alguna ya salga arriba. Nunca fichas ajenas a la guía.
+  const actividadesCarrusel = actividadesRecomendadas;
   const actividadSticky =
     reservasArriba[0] ??
     fichasCiudad.get(slugsInline(trozos)[0] ?? "") ??
