@@ -76,7 +76,7 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
             return (
               <li
                 key={a.url}
-                className="flex items-center gap-3 sm:gap-4 bg-white border border-slate-200 rounded-lg px-3 py-3 sm:px-4"
+                className="flex flex-wrap items-center gap-x-3 gap-y-2 sm:gap-x-4 bg-white border border-slate-200 rounded-lg px-3 py-3 sm:px-4"
               >
                 <span
                   className="flex-none w-7 h-7 rounded-full bg-sky-500 text-white text-xs font-bold flex items-center justify-center"
@@ -84,7 +84,7 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
                 >
                   {i + 1}
                 </span>
-                <div className="flex-1 min-w-0">
+                <div className="flex-1 min-w-[12rem]">
                   <Link
                     href={a.url}
                     className="block font-semibold text-slate-900 hover:text-sky-700 transition-colors leading-snug"
@@ -111,6 +111,7 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
                     ) : null}
                   </p>
                 </div>
+                <div className="ml-auto flex items-center gap-3 sm:gap-4">
                 <span className="flex-none font-bold text-slate-900 text-sm sm:text-base">
                   {formatearPrecio(a, idioma)}
                 </span>
@@ -122,6 +123,7 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
                 >
                   {t.cta}
                 </Link>
+                </div>
               </li>
             );
           })}
