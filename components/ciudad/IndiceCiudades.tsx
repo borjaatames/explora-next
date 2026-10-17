@@ -154,6 +154,7 @@ function CardCiudad({
   return (
     <Link
       href={ciudad.href}
+      prefetch={false}
       className="group flex flex-col border border-slate-200 rounded-lg overflow-hidden bg-white hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
     >
       <div
@@ -304,7 +305,8 @@ export default function IndiceCiudades({
       <header className="bg-sky-500 text-white py-12 md:py-16">
         <div className="max-w-5xl mx-auto px-4">
           <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
-            <Link href={prefijoIdioma(idioma) || "/"} className="hover:text-white">
+            <Link href={prefijoIdioma(idioma) || "/"}
+      prefetch={false} className="hover:text-white">
               {t.inicio}
             </Link>
             {" › "}

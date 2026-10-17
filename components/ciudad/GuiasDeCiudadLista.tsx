@@ -42,6 +42,7 @@ export default function GuiasDeCiudadLista({
             <Link
               key={guia.url}
               href={guia.url}
+      prefetch={false}
               className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
             >
               <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
@@ -60,6 +61,7 @@ export default function GuiasDeCiudadLista({
           <div className="mt-8">
             <Link
               href={urlTodas}
+      prefetch={false}
               className="inline-flex items-center text-sky-600 hover:text-sky-700 font-semibold transition-colors"
             >
               {textoVerTodas} →

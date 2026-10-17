@@ -104,6 +104,7 @@ export default function NavbarMobileMenu({
               <Link
                 key={e.href}
                 href={e.href}
+                prefetch={false}
                 onClick={() => setAbierto(false)}
                 className="py-3 px-2 text-lg text-slate-800 font-medium border-b border-slate-100 last:border-b-0 hover:bg-slate-50 hover:text-sky-700 rounded transition-colors"
               >

@@ -444,6 +444,7 @@ function CardActividad({
   return (
     <Link
       href={actividad.url}
+      prefetch={false}
       className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
     >
       {actividad.imagen ? (

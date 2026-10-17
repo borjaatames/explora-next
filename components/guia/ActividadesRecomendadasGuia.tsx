@@ -109,6 +109,7 @@ export default function ActividadesRecomendadasGuia({
         <div className="mt-6">
           <Link
             href={urlTodas}
+            prefetch={false}
             className="inline-flex items-center text-sky-600 hover:text-sky-700 font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
           >
             {t.verTodas(nombreCiudad)}
@@ -143,6 +144,7 @@ function TarjetaActividad({
   return (
     <Link
       href={actividad.url}
+      prefetch={false}
       data-reserva="carrusel"
       data-ficha={actividad.slugs?.es ?? actividad.slug}
       className="group flex h-full flex-col bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"

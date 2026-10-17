@@ -206,6 +206,7 @@ export default function Footer({ idioma }: Props) {
                 <li key={c.slug}>
                   <Link
                     href={urlActividadesDeCiudad(idioma, c.slug)}
+                    prefetch={false}
                     className="text-slate-300 hover:text-white transition-colors"
                   >
                     {nombreCiudadTop(idioma, c)}
@@ -215,6 +216,7 @@ export default function Footer({ idioma }: Props) {
             </ul>
             <Link
               href={urlIndiceCiudades(idioma)}
+                    prefetch={false}
               className="inline-block mt-3 text-xs text-sky-400 hover:text-sky-300 transition-colors"
             >
               {t.verTodas}
@@ -230,6 +232,7 @@ export default function Footer({ idioma }: Props) {
               <li>
                 <Link
                   href={urlAbout(idioma)}
+                    prefetch={false}
                   className="hover:text-white transition-colors"
                 >
                   {t.sobreNosotros}
@@ -238,6 +241,7 @@ export default function Footer({ idioma }: Props) {
               <li>
                 <Link
                   href={urlIndiceGuias(idioma)}
+                    prefetch={false}
                   className="hover:text-white transition-colors"
                 >
                   {t.guias}
@@ -246,6 +250,7 @@ export default function Footer({ idioma }: Props) {
               <li>
                 <Link
                   href={urlIndiceCiudades(idioma)}
+                    prefetch={false}
                   className="hover:text-white transition-colors"
                 >
                   {t.ciudades}
@@ -254,6 +259,7 @@ export default function Footer({ idioma }: Props) {
               <li>
                 <Link
                   href={urlContacto(idioma)}
+                    prefetch={false}
                   className="hover:text-white transition-colors"
                 >
                   {t.contacto}
@@ -296,18 +302,21 @@ export default function Footer({ idioma }: Props) {
           <div className="flex gap-4 flex-wrap">
             <Link
               href={urlAvisoLegal(idioma)}
+                    prefetch={false}
               className="text-slate-400 hover:text-white transition-colors"
             >
               {t.avisoLegal}
             </Link>
             <Link
               href={urlPrivacidad(idioma)}
+                    prefetch={false}
               className="text-slate-400 hover:text-white transition-colors"
             >
               {t.privacidad}
             </Link>
             <Link
               href={urlCookies(idioma)}
+                    prefetch={false}
               className="text-slate-400 hover:text-white transition-colors"
             >
               {t.cookies}

@@ -85,6 +85,7 @@ export default function HeroHome({
         />
         <Link
           href={anclaDestinos}
+      prefetch={false}
           className="inline-flex items-center mt-5 text-sm font-semibold text-sky-100 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded"
         >
           {t.verDestinos} →

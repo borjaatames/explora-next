@@ -73,7 +73,8 @@ export default function HeroCiudad({
               <span key={m.label}>
                 {i > 0 ? " › " : null}
                 {m.href ? (
-                  <Link href={m.href} className="hover:text-white transition-colors">
+                  <Link href={m.href}
+      prefetch={false} className="hover:text-white transition-colors">
                     {m.label}
                   </Link>
                 ) : (
@@ -110,6 +111,7 @@ export default function HeroCiudad({
               <Link
                 key={p.href}
                 href={p.href}
+      prefetch={false}
                 className="py-4 text-sm md:text-base font-semibold text-slate-600 hover:text-sky-700 border-b-2 border-transparent hover:border-sky-400 transition-colors whitespace-nowrap focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
               >
                 {p.label}

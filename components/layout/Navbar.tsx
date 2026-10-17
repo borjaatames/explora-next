@@ -107,6 +107,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
             <Link
               key={e.href}
               href={e.href}
+              prefetch={false}
               className="text-base font-semibold text-slate-900 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
             >
               {e.label}
@@ -118,6 +119,7 @@ export default function Navbar({ idioma, mapaParejas }: Props) {
           <LanguageSwitcher mapaParejas={mapaParejas} />
           <Link
             href={urlContacto(idioma)}
+            prefetch={false}
             className="inline-flex items-center justify-center bg-white border border-slate-300 hover:border-sky-400 text-slate-900 text-sm font-semibold px-4 py-2.5 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
           >
             {t.contacto}

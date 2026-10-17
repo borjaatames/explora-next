@@ -3,8 +3,9 @@
 import { useState } from "react";
 import Image from "next/image";
 import dynamic from "next/dynamic";
-import "yet-another-react-lightbox/styles.css";
 import type { Idioma } from "@/lib/i18n/types";
+
+import "yet-another-react-lightbox/styles.css";
 
 // El lightbox pesa ~50 KiB gzipped y solo se necesita cuando el usuario
 // pulsa una imagen para ampliarla. Lo cargamos con `next/dynamic` para
@@ -129,6 +130,7 @@ export default function GaleriaActividad({
           <button
             type="button"
             onClick={() => abrirEn(0)}
+            style={{ aspectRatio: "4/3" }}
             className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
             aria-label={t.abrirGaleriaEn(principal.alt)}
           >

@@ -57,6 +57,7 @@ export default function CtaCiudadCard({
     return (
       <Link
         href={href}
+      prefetch={false}
         className={"group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + ringClass}
       >
         <Image
@@ -85,6 +86,7 @@ export default function CtaCiudadCard({
   return (
     <Link
       href={href}
+      prefetch={false}
       className={"group block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + solidBgClass + " " + ringClass}
     >
       <div className="flex flex-col justify-end h-full p-6 md:p-7 text-white">
