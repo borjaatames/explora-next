@@ -19,6 +19,15 @@ slugs:
   es: que-ver-en-tenerife
   en: what-to-see-in-tenerife
   de: was-sehen-auf-teneriffa
+actividades:
+  - teide-teleferico-traslado
+  - tour-teide-masca-icod-garachico
+  - avistamiento-ballenas-delfines-yate-ecologico
+  - atardecer-estrellas-teide-telescopio
+  - barranco-masca-senderismo-barco
+  - kayak-esnorquel-los-cristianos
+  - loro-parque-entradas
+  - siam-park-entradas
 faq:
 - pregunta: ¿Cuántos días necesito para ver Tenerife?
   respuesta: Cinco o seis días permiten combinar el Teide, el norte (La Orotava, Puerto de la Cruz, Garachico), La Laguna y Anaga, el oeste (Masca y Los Gigantes) y algo de mar en el sur. Con tres días, prioriza el Teide, un día de norte y una salida en barco.

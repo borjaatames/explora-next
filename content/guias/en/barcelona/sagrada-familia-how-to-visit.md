@@ -20,6 +20,11 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-guiado-clasico
+  - sagrada-familia-tour-con-torre
+  - park-guell-entrada-zona-monumental
 faq:
   - pregunta: "How much does a Sagrada Familia ticket cost in 2026?"
     respuesta: "The basic ticket costs €26 and includes basilica access plus a downloadable audio guide in 19 languages. Adding a tower climb brings it to €36, and a group guided visit costs €30 (€40 with towers). Barcelona residents get a 50% discount throughout 2026, the Gaudí Year, by emailing residents@ext.sagradafamilia.org with proof of residency."

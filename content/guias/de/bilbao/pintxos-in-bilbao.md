@@ -21,6 +21,9 @@ slugs:
   es: pintxos-bilbao
   en: bilbao-pintxos
   de: pintxos-in-bilbao
+actividades:
+  - tour-pintxos-bilbao-vino
+  - clase-cocina-pintxos-bilbao
 ---
 
 **Pintxos essen in Bilbao ist ein Ritual, keine reine Mahlzeit.** Es geht nicht darum, sich an einem Ort niederzulassen, sondern von Theke zu Theke zu ziehen – der **Txikiteo** oder **Poteo** –, in jedem Lokal einen Pintxo und einen Txikito (Wein) oder einen Zurito (kleines Bier) zu nehmen. Dieser Guide sagt Ihnen, wohin Sie gehen, was Sie bestellen und wie Sie es wie ein Einheimischer machen und nicht wie ein ahnungsloser Tourist.

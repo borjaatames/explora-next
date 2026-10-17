@@ -20,6 +20,14 @@ slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
+actividades:
+  - costa-brava-kayak-esnorquel-cuevas-sagaro
+  - roses-cadaques-barco-cap-de-creus
+  - islas-medes-barco-cuevas-estartit
+  - teatro-museo-dali-figueres-visita-guiada
+  - girona-costa-brava-pueblos-medievales
+  - girona-figueres-dali-cadaques-desde-barcelona
+  - girona-costa-brava-grupo-reducido-recogida-hotel
 ---
 
 **Girona ist die beste Basis, um den Nordosten Kataloniens zu entdecken.** In weniger als einer Stunde erreichst du die schönsten Buchten der Costa Brava, das Universum Dalís in Figueres und Cadaqués, mittelalterliche Dörfer wie aus dem Bilderbuch und griechisch-römische Ruinen. Dieser Guide ordnet die besten Ausflüge danach, wie viel Zeit du hast und wie du hinkommst, mit dem Zug oder dem Auto.

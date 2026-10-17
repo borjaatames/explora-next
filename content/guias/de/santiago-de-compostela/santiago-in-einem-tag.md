@@ -21,6 +21,16 @@ slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
   de: santiago-in-einem-tag
+actividades:
+  - catedral-museo-casco-antiguo-santiago
+  - tour-a-pie-casco-antiguo-santiago
+  - catedral-santiago-museo-tour-guiado
+  - tour-tapas-santiago-musica-directo
+  - excursion-finisterre-muxia-costa-da-morte
+  - excursion-rias-baixas-barco-bodega
+  - excursion-playa-catedrales-lugo-ribadeo
+  - cubiertas-catedral-santiago-tour
+  - tour-autoguiado-daremapp-santiago-de-compostela
 ---
 
 **Santiago lässt sich gut an einem Tag besichtigen**, auch wenn seine Atmosphäre zum Bleiben einlädt. Die Altstadt ist kompakt, ganz aus Stein und Arkaden, UNESCO-Weltkulturerbe, und alles dreht sich um die **Kathedrale**, das Ziel des Jakobswegs. Dieser Guide deckt das Wesentliche der galicischen Hauptstadt ab und macht deutlich, warum wer eine Nacht bleibt, weit mehr mitnimmt als der Durchreisende.

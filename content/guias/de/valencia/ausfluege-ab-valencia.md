@@ -19,6 +19,13 @@ slugs:
   es: escapadas-desde-valencia
   en: day-trips-from-valencia
   de: ausfluege-ab-valencia
+actividades:
+  - excursion-guadalest-altea-fuentes-algar
+  - excursion-cala-granadella-javea
+  - excursion-cuevas-de-san-jose
+  - excursion-montanejos-en-bus
+  - albufera-atardecer-paseo-en-barca
+  - excursion-peniscola-desde-valencia
 ---
 
 **Valencia ist eine hervorragende Basis für Tagesausflüge.** In weniger als einer Stunde erreichen Sie den Naturpark, in dem die Paella geboren wurde, spektakuläre Burgen, iberische und römische Städte sowie Dörfer der Costa del Azahar. Dieser Ratgeber ordnet die besten Ausflüge nach verfügbarer Zeit und Art der Anreise, mit oder ohne Auto.

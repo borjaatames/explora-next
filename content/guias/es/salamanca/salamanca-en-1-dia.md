@@ -21,6 +21,12 @@ slugs:
   es: salamanca-en-1-dia
   en: salamanca-in-1-day
   de: salamanca-in-einem-tag
+actividades:
+  - tour-a-pie-salamanca-guia-local
+  - universidad-salamanca-visita-guiada
+  - catedrales-salamanca-entrada-audioguia
+  - salamanca-leyendas-al-anochecer
+  - tour-autoguiado-daremapp-salamanca
 ---
 
 Salamanca es de las pocas ciudades históricas que **funciona en un día**: el casco antiguo cabe en un kilómetro cuadrado, los monumentos están a 5-10 minutos unos de otros y es llana y peatonal. Con 30.000 estudiantes en una ciudad de 145.000 habitantes, la piedra dorada viene con ambiente. Lo único que no hay que hacer es correrla como una lista: te pierdes lo que la hace especial.

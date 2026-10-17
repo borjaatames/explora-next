@@ -21,6 +21,14 @@ slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
   de: tagesausflug-toledo-ab-madrid
+actividades:
+  - excursion-toledo-dia-completo
+  - excursion-toledo-ave-tren
+  - excursion-toledo-molinos-quijote
+  - tour-privado-escorial-monasterio-real
+  - excursion-avila-segovia-con-entradas
+  - excursion-chinchon-aranjuez-toledo
+  - excursion-alcala-henares-bodega-privada
 ---
 
 A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, musulmanes y cristianos convivieron durante siglos y dejaron su huella en piedra. Frente a El Escorial (un monumento) o Segovia (un acueducto y un alcázar), Toledo es una ciudad entera convertida en museo, Patrimonio de la Humanidad en conjunto, y se ve en un día. Esta es la ruta que recomendaríamos a un amigo: lo que merece la pena, lo que se salta y los errores del que llega corriendo.

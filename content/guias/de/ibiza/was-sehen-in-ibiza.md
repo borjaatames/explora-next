@@ -19,6 +19,13 @@ slugs:
   es: que-ver-en-ibiza
   en: what-to-see-in-ibiza
   de: was-sehen-in-ibiza
+actividades:
+  - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
+  - crucero-calas-ibiza-paddle-surf-barra-libre
+  - crucero-es-vedra-sant-antoni
+  - barco-atardecer-ibiza-bebidas-bano
+  - excursion-barco-ibiza-formentera-todo-incluido
+  - ferry-ida-vuelta-ibiza-formentera
 ---
 
 **Ibiza ist berühmt für die Partys, aber die Insel bietet viel mehr.** Hinter den Diskotheken verbirgt sich eine Altstadt, die UNESCO-Welterbe ist, türkisfarbene Buchten, legendäre Sonnenuntergänge und das eine halbe Stunde mit dem Boot entfernte Formentera. Der typische Fehler der meisten Besucher ist, Playa d'en Bossa oder San Antonio nie zu verlassen und die Insel auf eine Tanzfläche zu reduzieren. Dieser Guide zeigt die andere Seite – die den größeren Teil ausmacht –, ohne auf die Nacht zu verzichten, falls du deswegen gekommen bist.

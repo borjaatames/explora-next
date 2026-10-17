@@ -19,6 +19,11 @@ slugs:
   es: flamenco-cueva-sacromonte-cual-elegir
   en: flamenco-cave-sacromonte-which-to-choose
   de: flamenco-hoehle-sacromonte-welche-waehlen
+actividades:
+  - flamenco-cueva-zincale-sacromonte
+  - flamenco-cueva-amayas-sacromonte
+  - flamenco-cueva-faraona-sacromonte
+  - flamenco-cuevas-tarantos-sacromonte
 ---
 
 If you've searched "flamenco Sacromonte Granada" you'll have found four different caves offering, on paper, the same thing: gypsy zambra, about an hour of singing and dancing, inside a cave carved into the Sacromonte hillside. The prices are similar (between €18 and €28), the photos look alike and so do the descriptions on most travel search sites. The real difference is in the details, and this guide exists so you don't have to open all four listings and compare them yourself.

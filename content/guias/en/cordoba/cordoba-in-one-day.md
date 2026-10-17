@@ -19,6 +19,14 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
+actividades:
+  - mezquita-catedral-tour-guiado-sin-colas
+  - mezquita-juderia-tour-a-pie
+  - patios-cordobeses-tour-con-entradas
+  - medina-azahara-tour-guiado-3-horas
+  - espectaculo-ecuestre-caballerizas-reales
+  - espectaculo-flamenco-tablao-cardenal
+  - mezquita-catedral-entrada-audioguia
 faq:
   - pregunta: "How much time do you need to see Córdoba?"
     respuesta: "A full day is enough: the old town is compact, and the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from each other. The recommended route runs from 9 AM to 6:30 PM."

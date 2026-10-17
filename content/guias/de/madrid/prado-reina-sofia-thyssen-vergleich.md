@@ -21,6 +21,13 @@ slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
+actividades:
+  - museo-prado-entrada
+  - museo-prado-visita-guiada
+  - museo-thyssen-entrada
+  - reina-sofia-visita-guiada-amigo-tours
+  - reina-sofia-grupo-reducido-guides-you-need
+  - excursion-toledo-dia-completo
 ---
 
 Wenn du nur Zeit für ein Museum in Madrid hast, **geh in den Prado**. Wenn du für zwei Zeit hast, nimm den Thyssen dazu. Der Reina Sofía kommt an letzter Stelle und lohnt sich nur, wenn dich Kunst des 20. Jahrhunderts wirklich interessiert.

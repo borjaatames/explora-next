@@ -10,16 +10,21 @@ import type { Idioma } from "./i18n/types";
 // (tráfico transaccional). Nunca enlaza a afiliados: el lector llega a la
 // ficha y reserva desde allí.
 //
-// Orden:
-//   1. Fichas que citan esta guía en `guiasRelacionadas` (curación manual).
-//   2. Afinidad temática entre la ficha y la guía (slug, título, keywords).
-//   3. Número de opiniones, de mayor a menor (mismo criterio que la ciudad).
+// Regla: la guía declara en su frontmatter `actividades` (slugs ES) las
+// fichas de las que habla, y el carrusel muestra exactamente esas, en ese
+// orden. Nunca se rellena con otras fichas de la ciudad: cada guía ofrece lo
+// que recomienda, no lo que haya.
+//
+// Compatibilidad: si una guía aún no declara `actividades`, se usa el
+// criterio antiguo (fichas que la citan en `guiasRelacionadas`, afinidad
+// temática y opiniones).
 // =============================================================================
 
 type GuiaReferencia = {
   slug: string;
   titulo: string;
   keywords?: string[];
+  actividades?: string[];
 };
 
 function puntosAfinidad(
@@ -49,6 +54,24 @@ export function obtenerActividadesParaGuia(
 ): ActividadListItem[] {
   const actividades = obtenerListaActividadesPorCiudad(idioma, ciudad);
   if (actividades.length === 0) return [];
+
+  if (guia.actividades && guia.actividades.length > 0) {
+    const porSlugEs = new Map<string, ActividadListItem>();
+    actividades.forEach((a) => {
+      porSlugEs.set(a.slugs?.es ?? a.slug, a);
+      porSlugEs.set(a.slug, a);
+    });
+    const vistas = new Set<string>();
+    const curadas: ActividadListItem[] = [];
+    guia.actividades.forEach((slugEs) => {
+      const a = porSlugEs.get(slugEs);
+      if (a && !vistas.has(a.url)) {
+        vistas.add(a.url);
+        curadas.push(a);
+      }
+    });
+    return curadas.slice(0, 10);
+  }
 
   const tokensGuia = tokensDe(
     [guia.slug, guia.titulo, ...(guia.keywords ?? [])].join(" ")

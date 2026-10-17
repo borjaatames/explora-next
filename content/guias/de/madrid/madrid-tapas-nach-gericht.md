@@ -23,6 +23,10 @@ slugs:
   es: tapas-madrid-por-plato
   en: madrid-tapas-dish-by-dish
   de: madrid-tapas-nach-gericht
+actividades:
+  - tour-privado-tabernas-centenarias-madrid
+  - aventura-vino-tapas-la-latina
+  - ruta-tapas-nocturna-madrid
 ---
 
 Wenn du in Madrid nur Zeit für sieben Stopps hast, hier die Kurzliste: **Las Bravas** (Bravas), **El Brillante** (Bocadillo de Calamares), **Casa Dani** (Tortilla de Patatas), **El Pedrusco de Aldealcorvo** (Torreznos), **Malacatín** (Callos a la Madrileña), **Lhardy** (Jamón und Wurstwaren) und **Casa Julio** (Croquetas). Es sind unterschiedliche Lokale in unterschiedlichen Vierteln, aber jedes davon beherrscht ein bestimmtes Gericht besser als fast alle anderen in der Stadt. Dieser Guide geht Gericht für Gericht vor, nicht Viertel für Viertel: Zu jedem der sieben Madrider Klassiker sagen wir dir, wo du ihn bestellst, was genau du bestellen solltest und was du vermeiden solltest.

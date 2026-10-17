@@ -21,6 +21,10 @@ slugs:
   es: camino-de-santiago-ultimos-100-km
   en: camino-de-santiago-last-100-km
   de: jakobsweg-letzte-100-km
+actividades:
+  - tour-a-pie-casco-antiguo-santiago
+  - catedral-santiago-museo-tour-guiado
+  - excursion-finisterre-muxia-costa-da-morte
 ---
 
 **Die letzten 100 km des Jakobswegs zu laufen ist die beliebteste Art, ihn zu erleben** und die Compostela zu erhalten, ohne Wochen Zeit zu haben. Es ist die minimale Gehstrecke, die die Kathedrale für die Ausstellung des Zertifikats verlangt, und sie lässt sich in etwa **5-7 Tagen** bewältigen – erreichbar für fast jeden mit einer grundlegenden Vorbereitung. Dieser Guide erklärt, wo man startet, wie die Etappen aussehen und was man braucht, damit der Plan rundläuft.

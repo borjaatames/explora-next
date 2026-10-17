@@ -21,6 +21,10 @@ slugs:
   es: barcelona-con-ninos
   en: barcelona-with-kids
   de: barcelona-mit-kindern
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - park-guell-entrada-zona-monumental
+  - camp-nou-museo-fc-barcelona-tour-inmersivo
 ---
 
 Barcelona mit Kindern ist **etwas anderes als Barcelona ohne Kinder**. Die Stadt hat Familien viel zu bieten — mehr, als viele Reiseführer erzählen —, aber der klassische Plan "vormittags Sagrada Familia, nachmittags Park Güell, zum Abschluss Las Ramblas" ist genau das, was mit Kleinen NICHT funktioniert. Die Entfernungen sind groß, die Hitze im Eixample im Sommer ist hart, die Menschenmassen an den zentralen Sehenswürdigkeiten erschöpfen Kinder, und obendrein sind **Taschendiebe in touristischen Gegenden ein reales Problem**.

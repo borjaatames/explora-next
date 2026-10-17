@@ -21,6 +21,14 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+actividades:
+  - visita-guiada-alhambra-generalife
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-palacios-nazaries-sin-colas
+  - alhambra-tour-guiado-con-entradas
+  - alhambra-visita-nocturna
+  - alhambra-tour-privado
+  - entrada-jardines-alhambra-generalife
 ---
 
 Die Alhambra ist **das meistbesuchte Monument Spaniens** — über 2,5 Millionen Menschen im Jahr — und mit ziemlicher Sicherheit **das am schlechtesten besichtigte**. Wer ohne Plan hinfährt, zahlt am Ende 60 € an ein Weiterverkaufsportal, kommt zu spät zu den Nasridenpaläste und verliert das Ticket, oder verlässt das Gelände nach drei Stunden, ohne verstanden zu haben, was er gesehen hat. Schade, denn die Alhambra belohnt jeden, der mit einem Minimum an Planung anreist, außerordentlich.

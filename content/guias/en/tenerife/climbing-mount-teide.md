@@ -19,6 +19,10 @@ slugs:
   es: subir-al-teide
   en: climbing-mount-teide
   de: teide-besteigen
+actividades:
+  - teide-teleferico-traslado
+  - atardecer-estrellas-teide-telescopio
+  - tour-teide-masca-icod-garachico
 faq:
 - pregunta: Do I need a permit to climb Teide?
   respuesta: Only for the last stretch, the Telesforo Bravo trail from the upper cable car station (3,555 m) to the summit (3,715 m). The permit is free and booked on the National Parks reservation website, but it sells out weeks or months ahead. The cable car and the other trails don't need one.

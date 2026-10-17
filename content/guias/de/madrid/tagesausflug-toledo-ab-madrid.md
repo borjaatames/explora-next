@@ -21,6 +21,14 @@ slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
   de: tagesausflug-toledo-ab-madrid
+actividades:
+  - excursion-toledo-dia-completo
+  - excursion-toledo-ave-tren
+  - excursion-toledo-molinos-quijote
+  - tour-privado-escorial-monasterio-real
+  - excursion-avila-segovia-con-entradas
+  - excursion-chinchon-aranjuez-toledo
+  - excursion-alcala-henares-bodega-privada
 ---
 
 70 km von Madrid entfernt liegt eine unversehrte mittelalterliche Stadt. Keine Nachbildung, kein Freizeitpark, keine Postkarte: Es ist **Toledo**, die einzige europäische Stadt, in der Juden, Muslime und Christen jahrhundertelang zusammenlebten und jeweils ihre Spuren im Stein hinterließen. Und man kann alles an einem Tag sehen.

@@ -21,6 +21,10 @@ slugs:
   es: catedral-de-santiago-como-visitar
   en: santiago-cathedral-how-to-visit
   de: kathedrale-santiago-besichtigen
+actividades:
+  - catedral-santiago-museo-tour-guiado
+  - catedral-museo-casco-antiguo-santiago
+  - cubiertas-catedral-santiago-tour
 ---
 
 **Die Kathedrale von Santiago ist das Ziel des Jakobswegs und das Herz der Stadt**, doch ihr Besuch verwirrt viele: Kostet der Eintritt? Was ist der Botafumeiro? Kann man aufs Dach steigen? Die kurze Antwort ist: **Das Betreten des Gotteshauses ist kostenlos**, aber es gibt kostenpflichtige Erlebnisse, die sich sehr lohnen. Dieser Guide erklärt, was man sehen, was man buchen und wie man sich organisieren sollte.

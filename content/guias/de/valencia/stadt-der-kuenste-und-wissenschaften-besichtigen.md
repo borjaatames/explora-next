@@ -19,6 +19,10 @@ slugs:
   es: ciudad-artes-ciencias-como-visitar
   en: city-of-arts-sciences-how-to-visit
   de: stadt-der-kuenste-und-wissenschaften-besichtigen
+actividades:
+  - oceanografic-valencia-entrada
+  - oceanografic-museo-ciencias-entrada-combinada
+  - tour-tuk-tuk-valencia-centro-playas
 ---
 
 **Die Stadt der Künste und Wissenschaften ist das moderne Wahrzeichen Valencias**, aber auch die naheliegendste Falle: das Kombiticket für alles zu kaufen und am Ende erschöpft zu sein, ohne wirklich etwas genossen zu haben. Dieser Komplex von Santiago Calatrava und Félix Candela, errichtet im alten Flussbett des Turia, lässt sich am besten mit Überlegung besichtigen: wissen, was ein Ticket wert ist, was man von außen genießen kann und wie man alles ohne Schlangen und Hetze kombiniert.

@@ -19,6 +19,11 @@ slugs:
   es: malaga-con-ninos
   en: malaga-with-kids
   de: malaga-mit-kindern
+actividades:
+  - catamaran-malaga-atardecer
+  - cuevas-nerja-frigiliana-desde-malaga
+  - alcazaba-teatro-romano-malaga-visita-guiada
+  - caminito-del-rey-guiado-desde-malaga
 ---
 
 **Málaga is a very comfortable destination for travelling with kids.** It has mild weather almost all year, an urban beach at the foot of the centre, castles for playing explorers and, a step away, some of the best family plans on the Costa del Sol. This guide gathers what really works with little ones, without overloading the day with museums.

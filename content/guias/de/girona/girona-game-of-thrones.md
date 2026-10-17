@@ -19,6 +19,10 @@ slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
   de: girona-game-of-thrones
+actividades:
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-juego-de-tronos-tour-privado
+  - girona-tour-a-pie-grupo-reducido
 ---
 
 **Girona wurde in der sechsten Staffel von Game of Thrones (2016) zur Filmkulisse**, und seine mittelalterliche Altstadt passt so gut, dass du die Drehorte sofort wiedererkennen wirst. Die Stadt spielte **Braavos** und **King's Landing**, und heute ist sie einer der beliebtesten Stopps für Fans der Serie. Dieser Guide versammelt die realen Drehorte, wie man sie zu Fuß verbindet und worauf man achten sollte.

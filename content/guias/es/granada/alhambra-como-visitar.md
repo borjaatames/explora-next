@@ -21,6 +21,14 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+actividades:
+  - visita-guiada-alhambra-generalife
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-palacios-nazaries-sin-colas
+  - alhambra-tour-guiado-con-entradas
+  - alhambra-visita-nocturna
+  - alhambra-tour-privado
+  - entrada-jardines-alhambra-generalife
 faq:
 - pregunta: ¿Qué pasa si llego tarde a los Palacios Nazaríes?
   respuesta: Hay 30 minutos de margen desde la hora marcada. Pasado ese tiempo no se puede entrar y no se devuelve el dinero. Desde la entrada del recinto hasta los palacios se tardan entre 30 y 45 minutos andando.

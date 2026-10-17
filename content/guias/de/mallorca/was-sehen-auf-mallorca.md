@@ -21,6 +21,11 @@ slugs:
   es: que-ver-en-mallorca
   en: what-to-see-in-mallorca
   de: was-sehen-auf-mallorca
+actividades:
+  - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - tren-soller-tranvia-medio-dia-desde-el-norte
+  - cuevas-del-drach-concierto-barca-desde-palma
+  - cuevas-del-drach-desde-alcudia
 ---
 
 **Mallorca ist weit mehr als Sonne und Strand.** Die Insel vereint eine Hauptstadt mit einer der beeindruckendsten gotischen Kathedralen Europas, eine zum Weltkulturerbe zählende Bergkette und einige der schönsten Buchten des Mittelmeers. Der Fehler des durchschnittlichen Besuchers ist, in einem Hotel an der Bucht von Palma oder in Magaluf zu bleiben und die echte Insel nie zu sehen. Dieser Ratgeber ordnet sie nach Zonen, damit du zwei oder drei Tage oder eine ganze Woche optimal nutzt.

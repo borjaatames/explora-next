@@ -20,6 +20,13 @@ slugs:
   es: sevilla-en-1-dia
   en: seville-in-1-day
   de: sevilla-in-einem-tag
+actividades:
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - catedral-sevilla-giralda-entrada-skip-line
+  - sevilla-plaza-espana-walking-tour-guiado
+  - setas-sevilla-metropol-parasol-entrada-mirador
+  - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
 ---
 
 A day in Seville from Madrid by AVE is **perfectly doable** and, planned well, gives you a complete experience. Round trip same day, 5–6 hours in the city, the four essentials covered. But the trick is **giving up on seeing everything and choosing well what you do see**.

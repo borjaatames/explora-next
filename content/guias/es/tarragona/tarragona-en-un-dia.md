@@ -21,6 +21,16 @@ slugs:
   es: tarragona-en-un-dia
   en: tarragona-in-one-day
   de: tarragona-in-einem-tag
+actividades:
+  - tour-tarraco-romana-a-pie
+  - catedral-tarragona-entrada-audioguia
+  - catamaran-cambrils-barra-libre-bano
+  - quad-safari-salou-recogida-hotel
+  - bodegas-yzaguirre-vermut-visita-cata
+  - kayak-rio-ebro-miravet
+  - flamencos-delta-del-ebro-atardecer
+  - portaventura-ferrari-land-entrada
+  - tour-autoguiado-daremapp-tarragona
 ---
 
 **Tarragona se ve bien en un día.** Guarda el mayor conjunto romano de Cataluña, Patrimonio de la Humanidad, en un casco antiguo compacto asomado al Mediterráneo: aquí estuvo **Tarraco**, capital de la Hispania romana, y la ciudad sigue construida sobre sus piedras. El anfiteatro está a pie de playa, el circo bajo las calles y la catedral sobre un templo romano. Es la excursión clásica desde Barcelona, pero quien se queda a comer marisco en el Serrallo y a ver el atardecer desde el Balcó se lleva una ciudad.

@@ -20,6 +20,10 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+actividades:
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
 faq:
 - pregunta: How long do you need to see the Royal Alcázar?
   respuesta: 'About 2.5-3 hours to see the palaces and gardens without rushing. The gardens cover more than half the site: allow at least 45 minutes for them.'

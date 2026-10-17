@@ -21,6 +21,16 @@ slugs:
   es: tarragona-en-un-dia
   en: tarragona-in-one-day
   de: tarragona-in-einem-tag
+actividades:
+  - tour-tarraco-romana-a-pie
+  - catedral-tarragona-entrada-audioguia
+  - catamaran-cambrils-barra-libre-bano
+  - quad-safari-salou-recogida-hotel
+  - bodegas-yzaguirre-vermut-visita-cata
+  - kayak-rio-ebro-miravet
+  - flamencos-delta-del-ebro-atardecer
+  - portaventura-ferrari-land-entrada
+  - tour-autoguiado-daremapp-tarragona
 ---
 
 **Tarragona lässt sich gut an einem Tag besichtigen.** Die Stadt bewahrt das größte römische Ensemble Kataloniens – und eines der bedeutendsten Spaniens, UNESCO-Welterbe –, alles in einer kompakten Altstadt mit Blick auf das Mittelmeer. Hier lag **Tarraco**, Hauptstadt des römischen Hispania, und die Stadt ist buchstäblich noch immer auf ihren Steinen errichtet. Dieser Leitfaden führt entspannt durch das römische Tarraco, trennt das Wesentliche vom Beiwerk und merkt sich PortAventura für alle, die mit der Familie reisen.

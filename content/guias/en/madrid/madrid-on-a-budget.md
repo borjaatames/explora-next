@@ -20,6 +20,13 @@ slugs:
   es: madrid-gratis
   en: madrid-on-a-budget
   de: madrid-kostenlos
+actividades:
+  - museo-prado-entrada
+  - reina-sofia-visita-guiada-amigo-tours
+  - museo-thyssen-entrada
+  - tour-privado-escorial-monasterio-real
+  - flamenco-tablao-las-carboneras
+  - flamenco-torres-bermejas-cena
 ---
 
 Madrid is one of the few European capitals where you can spend several days paying almost no entry fees and still take home a rich experience. The trick isn't searching "10 free things to do in Madrid" and ticking a list — it's understanding what's worth doing in each case, when, and how to avoid the typical mistakes people make hunting for free plans.

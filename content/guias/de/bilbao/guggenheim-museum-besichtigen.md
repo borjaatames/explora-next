@@ -21,6 +21,9 @@ slugs:
   es: museo-guggenheim-como-visitar
   en: guggenheim-museum-how-to-visit
   de: guggenheim-museum-besichtigen
+actividades:
+  - guggenheim-bilbao-visita-guiada-entrada
+  - guggenheim-bilbao-vip-grupo-reducido
 ---
 
 **Das Guggenheim ist nicht nur ein Museum: Es ist das Gebäude, das Bilbao veränderte.** Frank Gehrys Titanbau, 1997 eröffnet, verwandelte eine Industriestadt in eine weltweite Design-Ikone – den berühmten „Bilbao-Effekt“. Deshalb hat der Besuch zwei Teile, die man nicht verwechseln sollte: **das Gebäude und seine Skulpturen (kostenlos, von außen)** und **die Ausstellungssäle (kostenpflichtig, im Inneren)**. Dieser Guide hilft Ihnen, beides optimal zu nutzen.

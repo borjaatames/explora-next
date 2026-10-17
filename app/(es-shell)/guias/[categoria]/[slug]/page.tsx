@@ -108,7 +108,12 @@ export default async function GuiaPage({ params }: Props) {
   const actividadesRecomendadas = obtenerActividadesParaGuia(
     "es",
     guia.categoria,
-    { slug: guia.slug, titulo: guia.titulo, keywords: guia.keywords },
+    {
+      slug: guia.slug,
+      titulo: guia.titulo,
+      keywords: guia.keywords,
+      actividades: guia.actividades,
+    },
     6
   );
   const nombreCiudad =

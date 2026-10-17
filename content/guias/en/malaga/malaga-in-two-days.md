@@ -19,6 +19,15 @@ slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
   de: malaga-in-zwei-tagen
+actividades:
+  - alcazaba-teatro-romano-malaga-visita-guiada
+  - museo-picasso-malaga-entrada
+  - malaga-esencial-catedral-alcazaba-teatro
+  - catamaran-malaga-atardecer
+  - hammam-al-andalus-malaga
+  - caminito-del-rey-guiado-desde-malaga
+  - cuevas-nerja-frigiliana-desde-malaga
+  - ronda-setenil-desde-malaga
 ---
 
 **Two days in Málaga go a long way.** The old town is compact, flat and walkable, so a well-planned 48 hours cover the monuments, the museums, the beach and, if you organise it, the Caminito del Rey. This guide separates the essentials from the skippable and assumes you want to understand the city, not just sunbathe. In fifteen years Málaga has gone from being the transit gate to the Costa del Sol to a cultural capital with more than thirty museums, and it shows.

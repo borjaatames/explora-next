@@ -21,6 +21,10 @@ slugs:
   es: escapadas-costa-blanca-desde-alicante
   en: costa-blanca-day-trips-from-alicante
   de: costa-blanca-ausfluege-ab-alicante
+actividades:
+  - excursion-guadalest-altea-algar-desde-alicante
+  - barco-alicante-isla-tabarca-ida-vuelta
+  - tour-vino-bodega-alicante-4-catas
 ---
 
 **Alicante ist das Tor zur gesamten Costa Blanca.** In weniger als einer Stunde erreichst du weiße Dörfer über dem Meer, postkartenreife Felsvorsprünge, ein Bergdorf über einem türkisfarbenen Stausee und den größten Palmenhain Europas. Dieser Guide ordnet die besten Ausflüge danach, wie viel Zeit du hast und wie du hinkommst – mit dem Zusatz, dass sich viele davon mit der **TRAM** (Straßenbahn) ohne Auto machen lassen.

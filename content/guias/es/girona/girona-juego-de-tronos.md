@@ -19,6 +19,10 @@ slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
   de: girona-game-of-thrones
+actividades:
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-juego-de-tronos-tour-privado
+  - girona-tour-a-pie-grupo-reducido
 ---
 
 **Girona fue plató de la sexta temporada de Juego de Tronos.** Su casco antiguo hizo de Braavos y de Desembarco del Rey, y todos los escenarios están a cinco minutos unos de otros: la ruta se hace a pie en una mañana.

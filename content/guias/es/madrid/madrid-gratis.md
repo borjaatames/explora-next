@@ -21,6 +21,13 @@ slugs:
   es: madrid-gratis
   en: madrid-on-a-budget
   de: madrid-kostenlos
+actividades:
+  - museo-prado-entrada
+  - reina-sofia-visita-guiada-amigo-tours
+  - museo-thyssen-entrada
+  - tour-privado-escorial-monasterio-real
+  - flamenco-tablao-las-carboneras
+  - flamenco-torres-bermejas-cena
 ---
 
 Madrid es de las pocas capitales europeas donde se pueden pasar varios días sin pagar casi ninguna entrada y llevarse una experiencia completa. La clave no es tachar una lista de «cosas gratis», sino saber cuáles merecen la pena, a qué hora, y qué pocas cosas sí conviene pagar. Esto es lo que recomendaríamos a un amigo que viene con poco presupuesto.

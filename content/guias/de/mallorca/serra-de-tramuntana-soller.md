@@ -21,6 +21,9 @@ slugs:
   es: serra-tramuntana-soller
   en: serra-tramuntana-soller
   de: serra-de-tramuntana-soller
+actividades:
+  - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - tren-soller-tranvia-medio-dia-desde-el-norte
 ---
 
 **Die Serra de Tramuntana ist das Mallorca, das der Strandtourist nie sieht** – und für viele das beste. Eine Bergkette, **Weltkulturerbe** wegen ihrer Kulturlandschaft aus Terrassen, Trockensteinmauern und hundertjährigen Olivenhainen, gespickt mit Steindörfern, die über dem Meer thronen, und schwindelerregenden Straßen. Dieser Ratgeber ordnet sie so, dass du sie mit dem Auto oder im legendären Zug von Sóller genießt, ohne das Wesentliche zu verpassen.

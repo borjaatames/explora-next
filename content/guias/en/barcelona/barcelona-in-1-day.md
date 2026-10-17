@@ -20,6 +20,15 @@ slugs:
   es: barcelona-en-1-dia
   en: barcelona-in-1-day
   de: barcelona-in-einem-tag
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-con-torre
+  - casa-batllo-entrada-con-audioguia
+  - casa-mila-la-pedrera-entrada-audioguia
+  - catedral-de-barcelona-entrada
+  - tour-casco-antiguo-barri-gotico-a-pie
+  - park-guell-entrada-zona-monumental
+  - park-guell-grupo-reducido-amigo-tours
 ---
 
 Barcelona in a day from Madrid is **doable, but it requires discipline**. The city is more spread out than Seville, the major monuments are far apart from each other (Sagrada Familia, Park Güell and the Gothic Quarter aren't easily walkable between), and almost everything that matters needs **online tickets booked days ahead**. But if you plan well, in 9–10 hours you can hit the essentials and head back to Madrid feeling you used the day.

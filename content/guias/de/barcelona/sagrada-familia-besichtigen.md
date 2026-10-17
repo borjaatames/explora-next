@@ -21,6 +21,11 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-guiado-clasico
+  - sagrada-familia-tour-con-torre
+  - park-guell-entrada-zona-monumental
 ---
 
 Die Sagrada Familia ist **das meistbesuchte Monument Barcelonas** — rund 4,5 Millionen Menschen im Jahr —, und wie bei allen Sehenswürdigkeiten dieser Größenordnung verlassen die meisten Besucher sie mit dem Gefühl, etwas Wichtiges gesehen zu haben, ohne es wirklich verstanden zu haben. Das ist schade, denn nur wenige Gebäude der Welt belohnen eine gute Vorbereitung so sehr: die absichtlich ausgerichteten Glasfenster, die Symbole an jeder Säule, die Mathematik hinter der Geometrie, die Entscheidungen, die Gaudí vor seinem Tod schriftlich hinterließ, und jene, die seine Nachfolgerarchitekten gerade jetzt treffen.

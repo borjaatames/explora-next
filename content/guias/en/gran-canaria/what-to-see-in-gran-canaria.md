@@ -19,6 +19,15 @@ slugs:
   es: que-ver-en-gran-canaria
   en: what-to-see-in-gran-canaria
   de: was-sehen-auf-gran-canaria
+actividades:
+  - buggy-barrancos-gran-canaria
+  - catamaran-delfines-esnorquel-gran-canaria
+  - atardecer-estrellas-gran-canaria-telescopios
+  - tour-gran-canaria-1-dia-desde-las-palmas
+  - paseo-camello-dunas-maspalomas
+  - jeep-safari-sur-gran-canaria
+  - tour-privado-gran-canaria-norte
+  - plantacion-platanos-arucas-degustacion
 faq:
 - pregunta: How many days do I need for Gran Canaria?
   respuesta: Four or five days let you combine beach time in the south, a day in the summits (Roque Nublo and Tejeda), another in Las Palmas and Vegueta, and a route through the northern or western towns. With three days you'll have to choose between the interior and the capital.

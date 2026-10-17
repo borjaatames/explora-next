@@ -19,6 +19,9 @@ slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
+actividades:
+  - excursion-barco-ibiza-formentera-todo-incluido
+  - ferry-ida-vuelta-ibiza-formentera
 ---
 
 **Formentera es la excursión imprescindible desde Ibiza.** A media hora en ferry, la isla vecina tiene algunas de las playas de agua más cristalina del Mediterráneo —caribeñas de verdad— y un ambiente tranquilo, sin discotecas ni grandes hoteles. Esta guía te explica cómo llegar, cómo moverte y qué no perderte para aprovechar el día.

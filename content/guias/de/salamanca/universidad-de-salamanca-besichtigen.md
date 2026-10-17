@@ -21,6 +21,9 @@ slugs:
   es: universidad-de-salamanca-como-visitar
   en: university-of-salamanca-how-to-visit
   de: universidad-de-salamanca-besichtigen
+actividades:
+  - universidad-salamanca-visita-guiada
+  - tour-a-pie-salamanca-guia-local
 ---
 
 Die Universität von Salamanca ist **die älteste Universität Spaniens** (gegründet 1218) und eine der vier ältesten der Welt, zusammen mit Bologna, Oxford und Paris. Doch jenseits dieser Schlagzeile liegt ihre Besonderheit in etwas, das nur wenige Baudenkmäler bieten können: Wenn Sie die historischen Hörsäle betreten, **sitzen Sie buchstäblich dort, wo einst Fray Luis de León, Cervantes, Nebrija und Unamuno saßen**. Der Hörsaal von Fray Luis ist genau so erhalten, wie er war, mit den Holzbänken, die Studierende vor Jahrhunderten mit dem Messer eingeritzt haben.

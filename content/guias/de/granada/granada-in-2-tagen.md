@@ -21,6 +21,15 @@ slugs:
   es: granada-en-2-dias
   en: granada-in-2-days
   de: granada-in-2-tagen
+actividades:
+  - visita-guiada-alhambra-generalife
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-visita-nocturna
+  - albaicin-sacromonte-atardecer
+  - flamenco-cueva-la-rocio-sacromonte
+  - flamenco-cuevas-tarantos-sacromonte
+  - catedral-capilla-real-sin-colas-grupo
+  - alpujarra-pueblos-montana
 ---
 
 **Zwei Tage in Granada sind knapp bemessen**. Nicht zu wenig, um gar nicht erst hinzufahren, aber auch nicht die drei oder vier Tage, die die Stadt eigentlich verlangt. Hast du nur 48 Stunden und möchtest am Ende etwas von Granada verstanden haben — nicht nur fotografiert —, ist dieser Guide genau dafür gedacht.

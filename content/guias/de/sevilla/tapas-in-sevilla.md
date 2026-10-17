@@ -22,6 +22,8 @@ slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
   de: tapas-in-sevilla
+actividades:
+  - sevilla-tapas-tour-triana-cruzando-rio
 ---
 
 Sevilla hat ein Problem, von dem dir niemand erzählt: es gibt so viele Tapas-Bars, dass es fast unmöglich ist, komplett danebenzugreifen, aber genauso schwer, wirklich gut zu wählen. Der Durchschnitt ist hoch, ja, aber der Unterschied zwischen einer ehrlichen Pringá, gemacht von der vierten Generation einer Familie, und einer touristisch aufgehübschten Version mit laminiertem Foto an der Tür, ist enorm. Und Letzteres ist weiter verbreitet, als die Leute denken, besonders im Quadranten zwischen Kathedrale und Santa Cruz.

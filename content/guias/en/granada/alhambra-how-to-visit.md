@@ -20,6 +20,14 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+actividades:
+  - visita-guiada-alhambra-generalife
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-palacios-nazaries-sin-colas
+  - alhambra-tour-guiado-con-entradas
+  - alhambra-visita-nocturna
+  - alhambra-tour-privado
+  - entrada-jardines-alhambra-generalife
 faq:
 - pregunta: What happens if I'm late for the Nasrid Palaces?
   respuesta: You have 30 minutes of leeway from the printed time. After that you can't get in and there is no refund. It takes 30 to 45 minutes on foot from the main entrance to the palaces.

@@ -20,6 +20,12 @@ slugs:
   en: montserrat-which-excursion-to-choose
   de: montserrat-welche-tour-waehlen
 tiempo_lectura: 3
+actividades:
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-cremallera-bodega-castlexperience
+  - montserrat-masia-bages-almuerzo-vinos
+  - montserrat-sesion-fotos-signature
+  - montserrat-tour-privado-recogida-hotel
 ---
 
 Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre sí — no es un caso de fichas casi idénticas compitiendo por lo mismo, sino de duraciones y presupuestos que van de una sesión de fotos de una hora a un día completo con almuerzo y maridaje de vinos.

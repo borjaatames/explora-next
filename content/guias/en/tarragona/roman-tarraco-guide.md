@@ -21,6 +21,10 @@ slugs:
   es: tarraco-romana-que-ver
   en: roman-tarraco-guide
   de: roemisches-tarraco
+actividades:
+  - tour-tarraco-romana-a-pie
+  - catedral-tarragona-entrada-audioguia
+  - tour-autoguiado-daremapp-tarragona
 ---
 
 **Tarragona holds the largest Roman ensemble in Catalonia**, and one of the most important in Spain: the legacy of **Tarraco**, capital of Hispania Citerior and a UNESCO World Heritage Site. What's extraordinary is that it's spread across the whole old town —the amphitheatre by the beach, the circus beneath the streets, the cathedral over a temple— and walked on foot. This guide tells you what to see, in what order and how not to overpay with the combined ticket.

@@ -19,6 +19,10 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+actividades:
+  - atardecer-estrellas-gran-canaria-telescopios
+  - jeep-safari-sur-gran-canaria
+  - buggy-barrancos-gran-canaria
 faq:
 - pregunta: ¿Cuánto se tarda en subir al Roque Nublo?
   respuesta: 'Desde el aparcamiento de La Goleta, unos 40-45 minutos de subida y algo menos de bajada: en total, 1,5 horas con paradas. Son unos 3 km ida y vuelta con un desnivel moderado.'

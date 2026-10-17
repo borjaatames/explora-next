@@ -19,6 +19,15 @@ slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
   de: valencia-in-2-tagen
+actividades:
+  - tour-catedral-lonja-san-nicolas-valencia
+  - tour-tuk-tuk-valencia-centro-playas
+  - oceanografic-valencia-entrada
+  - bioparc-valencia-entrada
+  - paseo-catamaran-valencia-atardecer
+  - cata-cerveza-artesanal-tapas-ruzafa
+  - oceanografic-museo-ciencias-entrada-combinada
+  - albufera-atardecer-paseo-en-barca
 ---
 
 **Valencia en dos días cunde, y mucho.** Es llana, compacta y bien conectada, con el casco histórico a un lado y la Ciudad de las Artes al otro, unidos por un parque de nueve kilómetros donde antes había un río. La trampa es quedarse solo con Calatrava: el alma de la ciudad está en el Mercado Central, la Lonja, el Carmen y Ruzafa, y en la huerta de la Albufera donde nació la paella. Dos días dan para las dos caras.

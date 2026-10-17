@@ -19,6 +19,14 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
+actividades:
+  - mezquita-catedral-tour-guiado-sin-colas
+  - mezquita-juderia-tour-a-pie
+  - patios-cordobeses-tour-con-entradas
+  - medina-azahara-tour-guiado-3-horas
+  - espectaculo-ecuestre-caballerizas-reales
+  - espectaculo-flamenco-tablao-cardenal
+  - mezquita-catedral-entrada-audioguia
 ---
 
 **Córdoba lässt sich gut an einem Tag besichtigen**, und deshalb ist es der klassische Ausflug ab Sevilla, Madrid oder Granada. Die Altstadt ist kompakt und lässt sich zu Fuß erkunden: die Mezquita-Catedral, die Judería, der Alcázar und die Römische Brücke liegen nur fünf Minuten voneinander entfernt. Dieser Guide ordnet deinen Tag, damit du keine Schlangen und keine unnötige Hitze erlebst, und macht klar, was sich lohnt und was reine Touristenfüllung ist.

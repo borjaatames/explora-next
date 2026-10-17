@@ -19,6 +19,12 @@ slugs:
   es: escapadas-desde-malaga
   en: day-trips-from-malaga
   de: ausfluege-ab-malaga
+actividades:
+  - caminito-del-rey-guiado-desde-malaga
+  - ronda-setenil-desde-malaga
+  - cuevas-nerja-frigiliana-desde-malaga
+  - gibraltar-desde-malaga
+  - cordoba-mezquita-desde-malaga
 ---
 
 **Málaga ist die beste Basis an der Costa del Sol für Ausflüge.** In weniger als anderthalb Stunden erreichst du weiße Dörfer an Schluchten, Höhlen und Strände, mondähnliche Landschaften und sogar den Felsen von Gibraltar. Dieser Guide ordnet die besten Tagesausflüge danach, wie viel Zeit du hast und wie du hinkommst, mit oder ohne Auto.

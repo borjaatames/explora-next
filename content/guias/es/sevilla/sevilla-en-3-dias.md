@@ -21,6 +21,22 @@ slugs:
   es: sevilla-en-3-dias
   en: seville-in-3-days
   de: sevilla-in-3-tagen
+actividades:
+  - cordoba-excursion-dia-completo-mezquita-desde-sevilla
+  - cadiz-jerez-frontera-excursion-dia-desde-sevilla
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - catedral-sevilla-giralda-entrada-skip-line
+  - sevilla-plaza-espana-walking-tour-guiado
+  - sevilla-tapas-tour-triana-cruzando-rio
+  - sevilla-era-descubrimientos-archivo-indias-torre-oro
+  - setas-sevilla-metropol-parasol-entrada-mirador
+  - sevilla-1-hora-guadalquivir-eco-crucero
+  - sevilla-guadalquivir-river-boat-tour
+  - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
+  - italica-ruinas-romanas-monasterio-desde-sevilla
+  - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - teatro-flamenco-triana-show-en-directo
 ---
 
 Sevilla no es una ciudad para verla sino para **vivirla**: la luz sobre la Giralda, los azulejos de la Plaza de España, el río desde el puente de Triana, el azahar en el casco antiguo. Tres días bastan para empaparse si sabes qué priorizar: con dos te quedas con sabor a poco (Alcázar, Catedral y Triana corriendo), y con cuatro o cinco ya combinas con Córdoba, Cádiz o Jerez. Esta es la ruta que recomendaríamos a un amigo.

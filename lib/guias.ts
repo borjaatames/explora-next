@@ -40,6 +40,15 @@ export type GuiaFrontmatter = {
    * guias-citables-ia.md, punto 4 — relevante para citabilidad en IA).
    */
   faq?: PreguntaFrecuente[];
+
+  /**
+   * Fichas de actividad de las que HABLA esta guía, por slug ES (única
+   * fuente de verdad; en otros idiomas se resuelve la ficha gemela vía
+   * `slugs.es`). El carrusel "Actividades recomendadas" muestra exactamente
+   * esta lista, en este orden, sin rellenar con otras fichas de la ciudad.
+   * Si falta o está vacía, el carrusel no aparece.
+   */
+  actividades?: string[];
 };
 
 export type GuiaListItem = GuiaFrontmatter & {
@@ -100,6 +109,7 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
         destacada: fm.destacada || false,
         keywords: fm.keywords || [],
         slugs: fm.slugs,
+        actividades: fm.actividades || [],
         faq: fm.faq,
         idioma,
         tiempoLectura: calcularTiempoLectura(content),
@@ -149,6 +159,7 @@ export async function obtenerGuia(
     destacada: fm.destacada || false,
     keywords: fm.keywords || [],
     slugs: fm.slugs,
+    actividades: fm.actividades || [],
     faq: fm.faq,
     idioma,
     tiempoLectura: calcularTiempoLectura(content),
@@ -275,6 +286,7 @@ export function obtenerGuiasDeCiudad(
       destacada: fm.destacada || false,
       keywords: fm.keywords || [],
       slugs: fm.slugs,
+      actividades: fm.actividades || [],
       idioma,
       tiempoLectura: calcularTiempoLectura(content),
       url: urlGuia(idioma, ciudad, slug),

@@ -19,6 +19,10 @@ slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit
   de: mezquita-catedral-besichtigen
+actividades:
+  - mezquita-catedral-tour-guiado-sin-colas
+  - mezquita-catedral-entrada-audioguia
+  - mezquita-juderia-tour-a-pie
 ---
 
 **The Mosque-Cathedral is the monument that justifies the trip to Córdoba**, and one of the most astonishing buildings in Europe: a forest of 856 columns and red-and-white arches with a Renaissance cathedral raised in the centre. But it's also where organising well matters most: going in at the right time is the difference between enjoying it calmly and enduring queues and heat. This guide sorts it out.

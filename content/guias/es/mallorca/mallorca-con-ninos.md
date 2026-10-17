@@ -21,6 +21,16 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+actividades:
+  - palma-aquarium-entrada
+  - tren-soller-tranvia-medio-dia-desde-el-norte
+  - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - cuevas-del-drach-desde-alcudia
+  - cuevas-del-drach-concierto-barca-desde-palma
+  - barco-fondo-cristal-delfines-paguera
+  - forestal-park-mallorca-aventura
+  - western-water-park-magaluf-entrada
+  - marineland-mallorca-entrada
 faq:
 - pregunta: ¿Cuál es la mejor zona para alojarse en Mallorca con niños?
   respuesta: El norte, en torno a Alcúdia, gana al suroeste de ambiente fiestero. Tiene playas tranquilas y de aguas poco profundas como Playa de Muro, y es mejor base familiar que las calas pequeñas de moda, que no tienen sombra ni aparcamiento.

@@ -21,6 +21,14 @@ slugs:
   es: que-ver-en-alicante
   en: what-to-see-in-alicante
   de: was-sehen-in-alicante
+actividades:
+  - tour-a-pie-alicante-imprescindibles
+  - tour-tuk-tuk-alicante-castillos-playas
+  - catamaran-alicante-3-horas-esnorquel
+  - clase-cocina-paella-alicante-mercado
+  - flamenco-alicante-tablao-el-mentidero
+  - barco-alicante-isla-tabarca-ida-vuelta
+  - excursion-guadalest-altea-algar-desde-alicante
 ---
 
 **Alicante lässt sich gut in ein oder zwei Tagen besichtigen** und ist die beste Basis für die Costa Blanca. Die Stadt hat an mehr als 300 Tagen im Jahr Sonne, eine spektakuläre Burg über dem Meer, eine Altstadt mit weißen Gassen und einen Strand nur einen Schritt vom Zentrum entfernt. Dieser Guide deckt das Wesentliche der Stadt und die Ausflüge in der Umgebung ab und trennt, was sich wirklich lohnt, von reiner Pauschalreise-Postkartenware.

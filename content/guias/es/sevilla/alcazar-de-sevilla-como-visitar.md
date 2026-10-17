@@ -21,6 +21,10 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+actividades:
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
 faq:
 - pregunta: ¿Cuánto tiempo hace falta para ver el Real Alcázar?
   respuesta: 'Unas 2,5-3 horas para ver los palacios y los jardines sin prisas. Los jardines ocupan más de la mitad del recinto: resérvales al menos 45 minutos.'

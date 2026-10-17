@@ -21,6 +21,12 @@ slugs:
   es: madrid-con-ninos
   en: madrid-with-kids
   de: madrid-mit-kindern
+actividades:
+  - museo-prado-entrada
+  - palacio-real-tour-premium-skip-line
+  - magic-retiro-park-bike-tour
+  - excursion-toledo-dia-completo
+  - bernabeu-ticket-acceso
 ---
 
 Madrid ist eine der europäischen Hauptstädte, die sich am besten mit der Familie erleben lässt. Es gibt Parks im Freien in der ganzen Stadt, echte Tierwelt 20 Minuten vom Zentrum entfernt, Museen, die Kinder überraschen (manche mehr als der Prado ihre Eltern) und Sommerpläne, die man in kaum einer anderen Hauptstadt findet.

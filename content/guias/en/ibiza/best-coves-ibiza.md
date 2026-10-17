@@ -19,6 +19,13 @@ slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
   de: schoenste-buchten-ibiza
+actividades:
+  - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
+  - crucero-calas-ibiza-paddle-surf-barra-libre
+  - esnorquel-paddle-surf-cueva-marina-ibiza
+  - kayak-cuevas-cala-codolar-esnorquel
+  - crucero-es-vedra-sant-antoni
+  - barco-atardecer-ibiza-bebidas-bano
 ---
 
 **Ibiza has some of the most beautiful coves in the Mediterranean**, of turquoise water and legendary sunsets. But also the usual summer problem: minimal parking and fashionable coves overflowing. This guide sorts them by area, tells you which have services and where to watch the best sunset, with the trick of going early to enjoy them.

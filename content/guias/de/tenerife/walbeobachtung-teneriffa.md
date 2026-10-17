@@ -19,6 +19,10 @@ slugs:
   es: avistamiento-ballenas-tenerife
   en: whale-watching-tenerife
   de: walbeobachtung-teneriffa
+actividades:
+  - avistamiento-ballenas-delfines-yate-ecologico
+  - kayak-esnorquel-los-cristianos
+  - barranco-masca-senderismo-barco
 faq:
 - pregunta: Welche Wale sieht man auf Teneriffa?
   respuesta: Vor allem Kurzflossen-Grindwale und Große Tümmler, die das ganze Jahr zwischen Teneriffa und La Gomera leben. Mit Glück auch Atlantische Fleckendelfine, Gemeine Delfine, Brydewale und gelegentlich Pottwale.

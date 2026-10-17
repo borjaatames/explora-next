@@ -21,6 +21,16 @@ slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
   de: santiago-in-einem-tag
+actividades:
+  - catedral-museo-casco-antiguo-santiago
+  - tour-a-pie-casco-antiguo-santiago
+  - catedral-santiago-museo-tour-guiado
+  - tour-tapas-santiago-musica-directo
+  - excursion-finisterre-muxia-costa-da-morte
+  - excursion-rias-baixas-barco-bodega
+  - excursion-playa-catedrales-lugo-ribadeo
+  - cubiertas-catedral-santiago-tour
+  - tour-autoguiado-daremapp-santiago-de-compostela
 ---
 
 **Santiago se ve bien en un día**, aunque su ambiente invita a quedarse. El casco histórico es compacto, de piedra y soportales, Patrimonio de la Humanidad, y todo gira en torno a la **catedral**, meta del Camino. La clave no es solo monumental, es atmosférica: la lluvia sobre el granito, las gaitas en las plazas, los peregrinos llegando emocionados al Obradoiro. Quien hace noche se lleva mucho más que el turista de paso.

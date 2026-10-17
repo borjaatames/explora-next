@@ -19,6 +19,15 @@ slugs:
   es: que-ver-en-gran-canaria
   en: what-to-see-in-gran-canaria
   de: was-sehen-auf-gran-canaria
+actividades:
+  - buggy-barrancos-gran-canaria
+  - catamaran-delfines-esnorquel-gran-canaria
+  - atardecer-estrellas-gran-canaria-telescopios
+  - tour-gran-canaria-1-dia-desde-las-palmas
+  - paseo-camello-dunas-maspalomas
+  - jeep-safari-sur-gran-canaria
+  - tour-privado-gran-canaria-norte
+  - plantacion-platanos-arucas-degustacion
 faq:
 - pregunta: Wie viele Tage braucht man für Gran Canaria?
   respuesta: Vier bis fünf Tage reichen, um Strandtage im Süden, einen Tag in den Gipfeln (Roque Nublo und Tejeda), einen in Las Palmas und Vegueta sowie eine Tour durch die Orte im Norden oder Westen zu verbinden. Mit drei Tagen muss man zwischen Inselinnerem und Hauptstadt wählen.

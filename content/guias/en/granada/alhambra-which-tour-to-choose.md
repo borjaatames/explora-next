@@ -19,6 +19,16 @@ slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
+actividades:
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-grupo-reducido
+  - visita-guiada-alhambra-generalife
+  - alhambra-palacios-nazaries-sin-colas
+  - alhambra-tour-guiado-con-entradas
+  - alhambra-sin-esperas-palacios-nazaries
+  - alhambra-visita-nocturna
+  - alhambra-tour-privado
+  - entrada-jardines-alhambra-generalife
 ---
 
 If you've searched "Alhambra tour" you'll have seen half a dozen results with different names — "skip the line", "tickets included", "small group", "skip the wait" — priced anywhere from €50 to €96. The bad news: most of them are literally the same tour. The good news: it takes two minutes to know which one you actually need.

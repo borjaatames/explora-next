@@ -19,6 +19,10 @@ slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit
   de: mezquita-catedral-besichtigen
+actividades:
+  - mezquita-catedral-tour-guiado-sin-colas
+  - mezquita-catedral-entrada-audioguia
+  - mezquita-juderia-tour-a-pie
 ---
 
 **Die Mezquita-Catedral ist das Monument, das die Reise nach Córdoba rechtfertigt**, und eines der erstaunlichsten Gebäude Europas: ein Wald aus 856 Säulen und rot-weißen Bögen mit einer Renaissance-Kathedrale, die in der Mitte errichtet wurde. Aber es ist auch der Ort, an dem sich gute Organisation am meisten bemerkbar macht: zur richtigen Zeit einzutreten macht den Unterschied zwischen einem entspannten Besuch und Schlangen und Hitze. Dieser Guide löst das für dich.

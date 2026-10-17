@@ -21,6 +21,8 @@ slugs:
   es: portaventura-world-guia
   en: portaventura-world-guide
   de: portaventura-world-guide
+actividades:
+  - portaventura-ferrari-land-entrada
 ---
 
 **PortAventura World is one of the largest theme-park resorts in Europe**, and the great family plan of the Costa Daurada, a step from Tarragona. But it's so big that it pays to organise: knowing which park to choose, how many days to spend and how to dodge the queues is the difference between a perfect day and an exhausting one. This guide sorts it out.

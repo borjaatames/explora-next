@@ -22,6 +22,8 @@ slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
   de: tapas-in-sevilla
+actividades:
+  - sevilla-tapas-tour-triana-cruzando-rio
 ---
 
 En Sevilla es difícil comer mal del todo, pero igual de difícil comer realmente bien: la diferencia entre una pringá de cuarta generación y su versión con foto plastificada es enorme, y la segunda abunda en el cuadrante Catedral-Santa Cruz. Esta guía no es una lista de treinta bares: son tres barrios (Centro y Alfalfa, Triana, Arenal) y, en cada uno, dos o tres sitios con el plato que justifica entrar. Para encajarlo en el viaje, [Sevilla en 1 día](/guias/sevilla/sevilla-en-1-dia) o [en 3 días](/guias/sevilla/sevilla-en-3-dias).

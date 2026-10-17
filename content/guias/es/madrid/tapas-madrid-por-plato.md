@@ -22,6 +22,10 @@ keywords:
 slugs:
   es: tapas-madrid-por-plato
   en: madrid-tapas-dish-by-dish
+actividades:
+  - tour-privado-tabernas-centenarias-madrid
+  - aventura-vino-tapas-la-latina
+  - ruta-tapas-nocturna-madrid
 ---
 
 Si solo tienes tiempo para siete paradas en Madrid, esta es la lista corta: **Las Bravas** (bravas), **El Brillante** (bocadillo de calamares), **Casa Dani** (tortilla), **El Pedrusco de Aldealcorvo** (torreznos), **Malacatín** (callos), **Lhardy** (jamón) y **Casa Julio** (croquetas). Cada uno resuelve un plato mejor que casi nadie en la ciudad. La guía va plato a plato, no barrio a barrio; para encajarla en el viaje, [Madrid en 3 días](/guias/madrid/madrid-en-3-dias) o [Madrid gratis](/guias/madrid/madrid-gratis).

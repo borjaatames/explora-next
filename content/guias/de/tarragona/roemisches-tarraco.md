@@ -21,6 +21,10 @@ slugs:
   es: tarraco-romana-que-ver
   en: roman-tarraco-guide
   de: roemisches-tarraco
+actividades:
+  - tour-tarraco-romana-a-pie
+  - catedral-tarragona-entrada-audioguia
+  - tour-autoguiado-daremapp-tarragona
 ---
 
 **Tarragona bewahrt das größte römische Ensemble Kataloniens** und eines der bedeutendsten Spaniens: das Erbe von **Tarraco**, Hauptstadt der Hispania Citerior und UNESCO-Welterbe. Das Außergewöhnliche ist, dass es über die ganze Altstadt verteilt liegt – das Amphitheater direkt am Strand, der Zirkus unter den Straßen, die Kathedrale über einem Tempel – und zu Fuß erkundet werden kann. Dieser Leitfaden verrät dir, was du sehen solltest, in welcher Reihenfolge und wie du mit dem Kombiticket nicht zu viel bezahlst.

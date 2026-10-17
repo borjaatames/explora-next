@@ -19,6 +19,12 @@ slugs:
   es: flamenco-sevilla-que-tablao-elegir
   en: flamenco-seville-which-tablao-to-choose
   de: flamenco-sevilla-welches-tablao-waehlen
+actividades:
+  - teatro-flamenco-sevilla-show-mas-vendido
+  - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - museo-baile-flamenco-puro-show-sevilla
+  - tablao-flamenco-el-arenal-sevilla-50-anos
+  - teatro-flamenco-triana-show-en-directo
 ---
 
 Seville doesn't have a single "flamenco show" — it has five distinct venues, each with its own format, price and atmosphere. Unlike other clusters on this site (like tours to a single monument), these aren't duplicates: they're five genuinely different experiences. The question isn't "which is cheapest" but "which fits what you're looking for".

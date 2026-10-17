@@ -19,6 +19,10 @@ slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
   de: girona-game-of-thrones
+actividades:
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-juego-de-tronos-tour-privado
+  - girona-tour-a-pie-grupo-reducido
 ---
 
 **Girona was a filming location for season 6 of Game of Thrones.** Its old town played Braavos and King's Landing, and all the locations are within five minutes of each other: you can walk the route in a morning.

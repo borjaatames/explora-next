@@ -21,6 +21,14 @@ slugs:
   es: bilbao-en-un-dia
   en: bilbao-in-one-day
   de: bilbao-in-einem-tag
+actividades:
+  - tour-a-pie-casco-viejo-bilbao
+  - guggenheim-bilbao-visita-guiada-entrada
+  - tour-pintxos-bilbao-vino
+  - barco-ria-bilbao-portugalete
+  - san-mames-museo-estadio-athletic
+  - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
+  - san-sebastian-hondarribia-getaria-desde-bilbao
 ---
 
 **Bilbao lässt sich gut an einem Tag besichtigen**, mit dem **Guggenheim** als großem Anziehungspunkt und einer unschlagbaren Altstadt für Pintxos. Die Stadt vollzog eine der berühmtesten Stadtumwandlungen der Welt – den „Bilbao-Effekt“ – und wurde vom grauen Industriestandort zur Design-Ikone; heute erkundet man sie zu Fuß entlang der Ría. Dieser Guide deckt das Wesentliche ab und trennt, was sich lohnt, von reiner Füllware.

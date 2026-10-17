@@ -20,6 +20,11 @@ slugs:
   en: flamenco-barcelona-which-tablao-to-choose
   de: flamenco-barcelona-welches-tablao-waehlen
 tiempo_lectura: 3
+actividades:
+  - flamenco-en-el-teatro-city-hall-mas-vendido
+  - palau-dalmases-flamenco-show-palacio-siglo-xvii
+  - tablao-de-carmen-flamenco-cena-poble-espanyol
+  - tablao-flamenco-cordobes-cena-show-las-ramblas
 ---
 
 Barcelona no es tierra histórica del flamenco, pero tiene cuatro venues consolidados con oferta diaria, cada uno con un enfoque distinto: desde el teatro de gran aforo más reservado de la ciudad hasta un palacio barroco del siglo XVII en el Born.

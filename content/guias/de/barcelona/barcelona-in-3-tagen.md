@@ -22,6 +22,17 @@ slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
   de: barcelona-in-3-tagen
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-con-torre
+  - casa-batllo-entrada-con-audioguia
+  - casa-mila-la-pedrera-entrada-audioguia
+  - park-guell-entrada-zona-monumental
+  - park-guell-grupo-reducido-amigo-tours
+  - catedral-de-barcelona-entrada
+  - tour-casco-antiguo-barri-gotico-a-pie
+  - museo-picasso-tour-guiado-sin-colas
+  - montserrat-medio-dia-grupo-pequeno
 ---
 
 Barcelona ist die spanische Stadt mit dem meisten Tourismus im Jahresverlauf und der klarste Beweis dafür, dass Massentourismus genau das kaputt machen kann, weswegen die Leute überhaupt kommen. Das ist kein Fatalismus, sondern Kontext. Wer nach Barcelona fährt und das macht, was alle machen — Ramblas um elf Uhr, Sagrada Familia ohne Reservierung, Park Güell ohne zu wissen, dass der schöne Teil kostenpflichtig ist, Paella am Strand von Barceloneta — kommt mit dem Gefühl heraus, in einem Freizeitpark gewesen zu sein. Und die Schuld liegt nicht bei Barcelona, sondern beim Plan.

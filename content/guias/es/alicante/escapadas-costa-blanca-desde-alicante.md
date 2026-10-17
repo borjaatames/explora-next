@@ -21,6 +21,10 @@ slugs:
   es: escapadas-costa-blanca-desde-alicante
   en: costa-blanca-day-trips-from-alicante
   de: costa-blanca-ausfluege-ab-alicante
+actividades:
+  - excursion-guadalest-altea-algar-desde-alicante
+  - barco-alicante-isla-tabarca-ida-vuelta
+  - tour-vino-bodega-alicante-4-catas
 ---
 
 **Alicante es la puerta de toda la Costa Blanca.** En menos de una hora tienes pueblos blancos sobre el mar, peñones de postal, un pueblo de montaña colgado sobre un embalse turquesa y el mayor palmeral de Europa. Esta guía ordena las mejores escapadas según el tiempo que tengas y cómo llegar, con el añadido de que muchas se hacen en **TRAM** (tranvía) sin coche.

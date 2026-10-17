@@ -22,6 +22,17 @@ slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
   de: barcelona-in-3-tagen
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-con-torre
+  - casa-batllo-entrada-con-audioguia
+  - casa-mila-la-pedrera-entrada-audioguia
+  - park-guell-entrada-zona-monumental
+  - park-guell-grupo-reducido-amigo-tours
+  - catedral-de-barcelona-entrada
+  - tour-casco-antiguo-barri-gotico-a-pie
+  - museo-picasso-tour-guiado-sin-colas
+  - montserrat-medio-dia-grupo-pequeno
 ---
 
 Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagrada Família sin reserva, paella en la Barceloneta. Tres días es la cifra justa para la primera vez: Gaudí en serio, dos barrios con carácter, Montjuïc y el mar. Con dos hay que elegir entre Gaudí o los barrios; con cuatro, añade Montserrat. Si solo tienes uno, [Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia).

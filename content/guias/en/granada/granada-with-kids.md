@@ -20,6 +20,11 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+actividades:
+  - entrada-jardines-alhambra-generalife
+  - visita-guiada-alhambra-generalife
+  - albaicin-sacromonte-diurno
+  - flamenco-cuevas-tarantos-sacromonte
 faq:
   - pregunta: "At what age can you visit the Alhambra with kids?"
     respuesta: "It already works from age 4-7 if you adapt it (Generalife + Alcazaba + 2-3 rooms of the Nasrid Palaces), and in full from age 8-12. Kids under 12 get in free, but they still need their own named ticket even though they don't pay."

@@ -19,6 +19,8 @@ slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
+actividades:
+  - caminito-del-rey-guiado-desde-malaga
 faq:
   - pregunta: "¿Con cuánta antelación hay que comprar la entrada del Caminito del Rey?"
     respuesta: "Con semanas o meses de antelación: las entradas salen a la venta online y se agotan rápido, sobre todo en temporada alta. Lo mejor es mirar primero las fechas disponibles y montar el viaje alrededor de ese día, no al revés."

@@ -18,6 +18,10 @@ keywords:
 slugs:
   es: tapas-madrid-que-tour-elegir
 tiempo_lectura: 2
+actividades:
+  - ruta-tapas-nocturna-madrid
+  - tour-tapas-vino-atardecer-azotea
+  - tour-tapas-viejo-madrid
 ---
 
 Madrid tiene tres tours de tapas guiados reservables por separado, todos con degustaciones en varios bares y un guía local — la diferencia está en la zona de la ciudad, la duración y si el tour suma algo más que tapeo.

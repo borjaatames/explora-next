@@ -21,6 +21,14 @@ slugs:
   es: bilbao-en-un-dia
   en: bilbao-in-one-day
   de: bilbao-in-einem-tag
+actividades:
+  - tour-a-pie-casco-viejo-bilbao
+  - guggenheim-bilbao-visita-guiada-entrada
+  - tour-pintxos-bilbao-vino
+  - barco-ria-bilbao-portugalete
+  - san-mames-museo-estadio-athletic
+  - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
+  - san-sebastian-hondarribia-getaria-desde-bilbao
 ---
 
 **Bilbao se ve bien en un día**, con el **Guggenheim** como gran reclamo y un Casco Viejo de pintxos imbatible. La ciudad protagonizó una de las transformaciones urbanas más famosas del mundo, de gris industrial a icono del diseño, y se recorre a pie siguiendo la ría. La gracia es el contraste: el titanio de Gehry a un lado, las Siete Calles medievales al otro y una de las mejores barras de Europa de fondo. Quien lo ve con prisa se queda en la foto del museo; quien se queda a comer y sube a Artxanda se lleva la ciudad.

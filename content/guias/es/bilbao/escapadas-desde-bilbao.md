@@ -21,6 +21,10 @@ slugs:
   es: escapadas-desde-bilbao
   en: day-trips-from-bilbao
   de: ausfluege-ab-bilbao
+actividades:
+  - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
+  - san-sebastian-hondarribia-getaria-desde-bilbao
+  - biarritz-san-juan-de-luz-san-sebastian-desde-bilbao
 ---
 
 **Bilbao es una base perfecta para descubrir el País Vasco.** En menos de una hora tienes una de las costas más bravas de España, San Sebastián, una reserva de la biosfera, el corazón histórico vasco y los viñedos de la Rioja Alavesa. Esta guía ordena las mejores escapadas de un día según el tiempo que tengas y cómo llegar.

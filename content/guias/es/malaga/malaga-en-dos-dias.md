@@ -19,6 +19,15 @@ slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
   de: malaga-in-zwei-tagen
+actividades:
+  - alcazaba-teatro-romano-malaga-visita-guiada
+  - museo-picasso-malaga-entrada
+  - malaga-esencial-catedral-alcazaba-teatro
+  - catamaran-malaga-atardecer
+  - hammam-al-andalus-malaga
+  - caminito-del-rey-guiado-desde-malaga
+  - cuevas-nerja-frigiliana-desde-malaga
+  - ronda-setenil-desde-malaga
 ---
 
 **Málaga en dos días cunde mucho.** El casco histórico es compacto, llano y peatonal, así que en 48 horas entran la Alcazaba, el Picasso, la Catedral, la playa y, si te organizas, el Caminito del Rey. La trampa es tratarla solo como aeropuerto y playa: quien se va habiendo visto únicamente la Malagueta se ha perdido la otra mitad de una ciudad que en quince años ha pasado de puerta de paso a capital cultural con más de treinta museos.

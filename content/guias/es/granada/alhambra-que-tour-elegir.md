@@ -20,6 +20,16 @@ slugs:
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
 tiempo_lectura: 3
+actividades:
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-grupo-reducido
+  - visita-guiada-alhambra-generalife
+  - alhambra-palacios-nazaries-sin-colas
+  - alhambra-tour-guiado-con-entradas
+  - alhambra-sin-esperas-palacios-nazaries
+  - alhambra-visita-nocturna
+  - alhambra-tour-privado
+  - entrada-jardines-alhambra-generalife
 ---
 
 Si has buscado "tour Alhambra" habrás visto media docena de resultados con nombres distintos —"sin colas", "con entradas incluidas", "en grupo reducido", "sin esperas"— y precios que van de 50€ a 96€. La mala noticia: la mayoría son literalmente el mismo tour. La buena noticia: en dos minutos sabes cuál te conviene.

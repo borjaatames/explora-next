@@ -21,6 +21,10 @@ slugs:
   es: bilbao-con-ninos
   en: bilbao-with-kids
   de: bilbao-mit-kindern
+actividades:
+  - barco-ria-bilbao-portugalete
+  - san-mames-museo-estadio-athletic
+  - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
 ---
 
 **Bilbao ist eine sehr kinderfreundliche Stadt.** Sie ist kompakt, flach entlang der Ría, mit einer sehr einfachen Metro und Straßenbahn, Parks, einer Standseilbahn mit Aussicht und Stränden, die ohne Auto in 20 Minuten erreichbar sind. Dieser Guide versammelt die Pläne, die in der Familie wirklich funktionieren, und verbindet Stadt und Küste ohne Stress.

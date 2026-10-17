@@ -19,6 +19,8 @@ slugs:
   es: patios-de-cordoba
   en: cordoba-patios
   de: patios-von-cordoba
+actividades:
+  - patios-cordobeses-tour-con-entradas
 ---
 
 **Die Patios sind die Seele Córdobas**, und im Mai ihr größtes Spektakel. Privathäuser öffnen ihre weiß getünchten Patios, voller Blumentöpfe und Blüten, damit jeder kostenlos hineinschauen kann. Das **Patio-Fest** ist **immaterielles UNESCO-Welterbe**, aber man kann die Patios auch außerhalb der Saison sehen, wenn man weiß, wo. Dieser Guide sagt dir, wann, wo und wie — ohne Schlangen oder unnötige Hitze.

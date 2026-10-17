@@ -21,6 +21,12 @@ slugs:
   es: salamanca-en-1-dia
   en: salamanca-in-1-day
   de: salamanca-in-einem-tag
+actividades:
+  - tour-a-pie-salamanca-guia-local
+  - universidad-salamanca-visita-guiada
+  - catedrales-salamanca-entrada-audioguia
+  - salamanca-leyendas-al-anochecer
+  - tour-autoguiado-daremapp-salamanca
 ---
 
 Salamanca ist eine der wenigen historischen Städte Spaniens, die **an einem einzigen Tag funktioniert**. Die Altstadt ist kompakt, die großen Sehenswürdigkeiten liegen keine 10 Gehminuten voneinander entfernt, und der Besuchsrhythmus ist geradlinig: Plaza Mayor, Universität, beide Kathedralen, La Clerecía und zurück. Aber Vorsicht: Wer sie wie eine Checkliste abhakt, verpasst das, was sie besonders macht. Die Atmosphäre.

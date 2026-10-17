@@ -19,6 +19,12 @@ slugs:
   es: escapadas-desde-malaga
   en: day-trips-from-malaga
   de: ausfluege-ab-malaga
+actividades:
+  - caminito-del-rey-guiado-desde-malaga
+  - ronda-setenil-desde-malaga
+  - cuevas-nerja-frigiliana-desde-malaga
+  - gibraltar-desde-malaga
+  - cordoba-mezquita-desde-malaga
 ---
 
 **Málaga is the best base on the Costa del Sol for day trips.** Within an hour and a half you have white villages clinging to ravines, caves and beaches, lunar landscapes and even the Rock of Gibraltar. This guide sorts the best day outings by how much time you have and how to get there, with or without a car.

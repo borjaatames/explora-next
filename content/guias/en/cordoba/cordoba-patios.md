@@ -19,6 +19,8 @@ slugs:
   es: patios-de-cordoba
   en: cordoba-patios
   de: patios-von-cordoba
+actividades:
+  - patios-cordobeses-tour-con-entradas
 ---
 
 **The patios are the soul of Córdoba**, and in May, its greatest spectacle. Private houses open their whitewashed courtyards, packed with pots and flowers, for anyone to come in and see them for free. The **Patio Festival** is **UNESCO Intangible Heritage**, but they can also be seen out of season if you know where. This guide tells you when, where and how, without queues or too much heat.

@@ -19,6 +19,13 @@ slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
   de: schoenste-buchten-ibiza
+actividades:
+  - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
+  - crucero-calas-ibiza-paddle-surf-barra-libre
+  - esnorquel-paddle-surf-cueva-marina-ibiza
+  - kayak-cuevas-cala-codolar-esnorquel
+  - crucero-es-vedra-sant-antoni
+  - barco-atardecer-ibiza-bebidas-bano
 ---
 
 **Ibiza hat einige der schönsten Buchten des Mittelmeers**, mit türkisfarbenem Wasser und legendären Sonnenuntergängen. Aber auch das übliche Sommerproblem: minimale Parkplätze und überfüllte Trendbuchten. Dieser Guide ordnet sie nach Regionen, verrät dir, welche Einrichtungen haben und wo du den besten Sonnenuntergang siehst – mit dem Trick, früh aufzustehen, um sie in Ruhe zu genießen.

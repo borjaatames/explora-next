@@ -20,6 +20,14 @@ slugs:
   en: sagrada-familia-which-ticket-to-choose
   de: sagrada-familia-welches-ticket-waehlen
 tiempo_lectura: 4
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-con-torre
+  - sagrada-familia-visita-guiada-grupo-reducido
+  - sagrada-familia-park-guell-tour-guiado
+  - barcelona-un-dia-sagrada-familia-park-guell
+  - tour-privado-sagrada-familia-park-guell
+  - tour-privado-lo-mejor-de-barcelona-sagrada-familia
 ---
 
 La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres visitar la basílica, hay tres opciones que van de la entrada con audioguía a la subida a una torre. Si quieres combinarla con Park Güell u otros puntos de Barcelona, hay cuatro más — y no todas incluyen lo mismo, así que merece la pena mirar bien qué suma cada una antes de reservar.

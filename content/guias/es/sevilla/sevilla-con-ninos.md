@@ -22,6 +22,19 @@ slugs:
   es: sevilla-con-ninos
   en: seville-with-kids
   de: sevilla-mit-kindern
+actividades:
+  - isla-magica-sevilla-entrada
+  - acuario-sevilla-entrada
+  - tuk-tuk-privado-sevilla
+  - tuk-tuk-privado-sevilla-2-horas
+  - sevilla-guadalquivir-river-boat-tour
+  - kayak-guadalquivir-sevilla-alquiler
+  - tour-bici-sevilla-grupo
+  - setas-sevilla-metropol-parasol-entrada-mirador
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - museo-ilusiones-sevilla-entrada
+  - catedral-sevilla-giralda-entrada-skip-line
+  - casa-de-la-memoria-flamenco-show-intimo-sevilla
 faq:
 - pregunta: ¿Cuál es el plan gratis más rentable en Sevilla con niños?
   respuesta: 'Plaza de España + Parque de María Luisa: gratis, al aire libre, funciona de 3 a 14 años, con barcas en el canal (~6 €/35 min) y dos zonas de juegos infantiles en el parque.'

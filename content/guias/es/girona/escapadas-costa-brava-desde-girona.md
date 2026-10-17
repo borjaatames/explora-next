@@ -19,6 +19,14 @@ slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
+actividades:
+  - costa-brava-kayak-esnorquel-cuevas-sagaro
+  - roses-cadaques-barco-cap-de-creus
+  - islas-medes-barco-cuevas-estartit
+  - teatro-museo-dali-figueres-visita-guiada
+  - girona-costa-brava-pueblos-medievales
+  - girona-figueres-dali-cadaques-desde-barcelona
+  - girona-costa-brava-grupo-reducido-recogida-hotel
 ---
 
 **Girona es la mejor base para la Costa Brava.** En menos de una hora tienes el Dalí de Figueres y Cadaqués, pueblos medievales como Besalú y las calas más bonitas del litoral.

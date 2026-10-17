@@ -21,6 +21,9 @@ slugs:
   es: universidad-de-salamanca-como-visitar
   en: university-of-salamanca-how-to-visit
   de: universidad-de-salamanca-besichtigen
+actividades:
+  - universidad-salamanca-visita-guiada
+  - tour-a-pie-salamanca-guia-local
 ---
 
 La Universidad de Salamanca es **la más antigua de España** (1218) y una de las cuatro más antiguas del mundo, con Bolonia, Oxford y París. Pero lo que la hace especial es otra cosa: en las aulas históricas te sientas donde se sentaron Fray Luis de León, Nebrija, Cervantes y Unamuno, en bancos tallados a navaja por estudiantes de hace siglos. Aquí, qué se visita, precios, cuándo es gratis, qué ver dentro y cómo encontrar la rana.

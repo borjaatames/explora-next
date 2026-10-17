@@ -22,6 +22,9 @@ slugs:
   es: comer-en-barcelona-criterio
   en: eating-in-barcelona-with-criteria
   de: essen-in-barcelona
+actividades:
+  - tour-gastronomico-mediodia-boqueria-vinos
+  - tour-tapas-y-vino-noche
 ---
 
 Schlecht essen in Barcelona ist **sehr leicht**. Drei Jahrzehnte Massentourismus haben die Stadt mit Fallen gefüllt: Restaurants mit laminierter Speisekarte in sechs Sprachen, mittelmäßige Paellas für 25 € und "gemischte Tapas", die es in der lokalen Kultur gar nicht gibt. Die echte Stadt, die, in der die Barceloneser essen, **liegt direkt daneben** — aber man muss wissen, wo man hinschauen muss.

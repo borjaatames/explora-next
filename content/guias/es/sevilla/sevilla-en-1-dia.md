@@ -21,6 +21,13 @@ slugs:
   es: sevilla-en-1-dia
   en: seville-in-1-day
   de: sevilla-in-einem-tag
+actividades:
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - catedral-sevilla-giralda-entrada-skip-line
+  - sevilla-plaza-espana-walking-tour-guiado
+  - setas-sevilla-metropol-parasol-entrada-mirador
+  - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
 ---
 
 Un día en Sevilla desde Madrid en AVE es **perfectamente factible**: 2 h 30 de tren, un casco histórico donde todo está a pie y cuatro imprescindibles bien hechos. El éxito está en **renunciar a verlo todo y elegir bien**. Esto no es un resumen de [Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias): es otro plan, con otras prioridades, para quien tiene 10-11 horas reales en la ciudad.

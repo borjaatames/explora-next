@@ -21,6 +21,22 @@ slugs:
   es: sevilla-en-3-dias
   en: seville-in-3-days
   de: sevilla-in-3-tagen
+actividades:
+  - cordoba-excursion-dia-completo-mezquita-desde-sevilla
+  - cadiz-jerez-frontera-excursion-dia-desde-sevilla
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - catedral-sevilla-giralda-entrada-skip-line
+  - sevilla-plaza-espana-walking-tour-guiado
+  - sevilla-tapas-tour-triana-cruzando-rio
+  - sevilla-era-descubrimientos-archivo-indias-torre-oro
+  - setas-sevilla-metropol-parasol-entrada-mirador
+  - sevilla-1-hora-guadalquivir-eco-crucero
+  - sevilla-guadalquivir-river-boat-tour
+  - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
+  - italica-ruinas-romanas-monasterio-desde-sevilla
+  - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - teatro-flamenco-triana-show-en-directo
 ---
 
 Sevilla ist keine Stadt zum Ansehen: sie ist eine Stadt zum **Erleben**. Das Licht bei Sonnenuntergang auf der Giralda, die Kacheln der Plaza de España, der Fluss beim Überqueren der Puente de Triana, der Schatten der Orangenbäume in der Altstadt, die Kacheln an jeder Wand. Drei Tage reichen, um sich mit der Essenz vollzusaugen, **solange du weißt, was du priorisierst und was du auslässt**.

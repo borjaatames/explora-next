@@ -19,6 +19,9 @@ slugs:
   es: flamenco-madrid-que-tablao-elegir
   en: flamenco-madrid-which-tablao-to-choose
   de: flamenco-madrid-welches-tablao-waehlen
+actividades:
+  - flamenco-tablao-las-carboneras
+  - flamenco-torres-bermejas-cena
 ---
 
 Madrid has two flamenco tablaos with their own listing: Las Carboneras and Torres Bermejas. Both are one-hour shows with a full cast of performers, but the atmosphere and options differ quite a bit between them.

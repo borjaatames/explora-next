@@ -19,6 +19,10 @@ slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
   de: park-guell-welches-ticket-waehlen
+actividades:
+  - park-guell-entrada-zona-monumental
+  - park-guell-entrada-museo-casa-gaudi
+  - park-guell-grupo-reducido-amigo-tours
 ---
 
 Park Güell can be visited three different ways, each bookable separately: the basic ticket to the monumental zone, a combined ticket with the Gaudí House Museum, and the only small-group guided tour available. If you also want to pair it with the Sagrada Família, there are four more options built for that — compared in our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose).

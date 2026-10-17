@@ -19,6 +19,12 @@ slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
   de: girona-in-einem-tag
+actividades:
+  - girona-tour-a-pie-grupo-reducido
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-costa-brava-pueblos-medievales
+  - girona-figueres-dali-cadaques-desde-barcelona
+  - tour-autoguiado-daremapp-girona
 ---
 
 **Girona lässt sich gut an einem Tag besichtigen.** Die Altstadt ist kompakt und zu Fuß erkundbar, sodass an einem Tag die Kathedrale, El Call, die bunten Häuser am Onyar und ein Spaziergang oben auf der Stadtmauer Platz finden. Es ist der klassische Ausflug ab Barcelona — nur 38 Minuten mit dem Hochgeschwindigkeitszug —, doch wer zum Mittagessen bleibt und den Sonnenuntergang über dem Fluss erlebt, nimmt eine ganze Stadt mit, nicht nur eine Postkarte im Vorbeigehen.

@@ -21,6 +21,11 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+actividades:
+  - entrada-jardines-alhambra-generalife
+  - visita-guiada-alhambra-generalife
+  - albaicin-sacromonte-diurno
+  - flamenco-cuevas-tarantos-sacromonte
 ---
 
 Granada mit Kindern kann ein großartiges Erlebnis sein oder ein Desaster, und der Unterschied hängt fast ausschließlich vom Plan ab. Behandelst du die Stadt wie ein Granada-für-Erwachsene-mit-Kindern-im-Schlepptau (vier Stunden Alhambra, Sacromonte bis spät, Albaicín in praller Mittagssonne), brennen die Kinder aus, die Eltern brennen aus, und die Stadt wird vom Entdeckungserlebnis zum ständigen Streitthema. Verstehst du aber, dass **Granada drei oder vier echte Familienjuwelen hat** — von denen die meisten Eltern nicht einmal wissen, dass sie existieren —, verändert sich die Reise.

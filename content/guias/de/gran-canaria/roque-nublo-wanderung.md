@@ -19,6 +19,10 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+actividades:
+  - atardecer-estrellas-gran-canaria-telescopios
+  - jeep-safari-sur-gran-canaria
+  - buggy-barrancos-gran-canaria
 faq:
 - pregunta: Wie lange dauert die Wanderung zum Roque Nublo?
   respuesta: 'Vom Parkplatz La Goleta aus etwa 40-45 Minuten hinauf und etwas weniger hinunter: mit Pausen rund 1,5 Stunden. Es sind etwa 3 km hin und zurück mit mäßigem Anstieg.'

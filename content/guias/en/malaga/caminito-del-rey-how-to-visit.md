@@ -19,6 +19,8 @@ slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
+actividades:
+  - caminito-del-rey-guiado-desde-malaga
 faq:
   - pregunta: "How far in advance should you buy Caminito del Rey tickets?"
     respuesta: "Weeks or months ahead: tickets go on sale online and sell out fast, especially in high season. The best approach is to check available dates first and build the trip around that day, not the other way around."

@@ -21,6 +21,13 @@ slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
   de: salamanca-wochenendtrip
+actividades:
+  - tour-a-pie-salamanca-guia-local
+  - salamanca-leyendas-al-anochecer
+  - tour-bici-salamanca-panoramico
+  - jamon-iberico-clase-magistral-cata-salamanca
+  - catedrales-salamanca-entrada-audioguia
+  - universidad-salamanca-visita-guiada
 ---
 
 Si [Salamanca en un día](/guias/salamanca/salamanca-en-1-dia) es la lista, el fin de semana es **vivirla**: monumentos sin agobio, tapear bien dos veces, la piedra dorada al atardecer y la noche universitaria, que es la mitad del alma de la ciudad. Salamanca es demasiado pequeña para tres días y demasiado densa para uno: dos es la medida. Y a diferencia de Toledo o Cuenca, que cierran al caer el sol, aquí la noche pesa tanto como el día.

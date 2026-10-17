@@ -19,6 +19,10 @@ slugs:
   es: avistamiento-ballenas-tenerife
   en: whale-watching-tenerife
   de: walbeobachtung-teneriffa
+actividades:
+  - avistamiento-ballenas-delfines-yate-ecologico
+  - kayak-esnorquel-los-cristianos
+  - barranco-masca-senderismo-barco
 faq:
 - pregunta: ¿Qué ballenas se ven en Tenerife?
   respuesta: Sobre todo calderones tropicales y delfines mulares, que viven todo el año entre Tenerife y La Gomera. Con suerte también delfines moteados y comunes, rorcuales tropicales y, ocasionalmente, cachalotes.

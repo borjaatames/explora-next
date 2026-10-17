@@ -20,6 +20,9 @@ slugs:
   en: flamenco-madrid-which-tablao-to-choose
   de: flamenco-madrid-welches-tablao-waehlen
 tiempo_lectura: 2
+actividades:
+  - flamenco-tablao-las-carboneras
+  - flamenco-torres-bermejas-cena
 ---
 
 En Madrid hay dos tablaos de flamenco con ficha propia: Las Carboneras y Torres Bermejas. Ambos son shows de una hora con cuadro completo de artistas, pero el ambiente y las opciones cambian bastante entre uno y otro.

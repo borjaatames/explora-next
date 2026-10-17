@@ -20,6 +20,11 @@ slugs:
   en: flamenco-cave-sacromonte-which-to-choose
   de: flamenco-hoehle-sacromonte-welche-waehlen
 tiempo_lectura: 4
+actividades:
+  - flamenco-cueva-zincale-sacromonte
+  - flamenco-cueva-amayas-sacromonte
+  - flamenco-cueva-faraona-sacromonte
+  - flamenco-cuevas-tarantos-sacromonte
 ---
 
 Si has buscado "flamenco Sacromonte Granada" habrás visto que hay cuatro cuevas distintas ofreciendo, en apariencia, lo mismo: zambra gitana, una hora de cante y baile, dentro de una cueva excavada en la ladera del Sacromonte. Los precios se parecen (entre 18€ y 28€), las fotos se parecen y las descripciones de los buscadores de viajes también. La diferencia real está en el detalle, y esta guía existe para ahorrarte tener que abrir las cuatro fichas y comparar tú mismo.

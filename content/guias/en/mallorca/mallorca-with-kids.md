@@ -21,6 +21,16 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+actividades:
+  - palma-aquarium-entrada
+  - tren-soller-tranvia-medio-dia-desde-el-norte
+  - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - cuevas-del-drach-desde-alcudia
+  - cuevas-del-drach-concierto-barca-desde-palma
+  - barco-fondo-cristal-delfines-paguera
+  - forestal-park-mallorca-aventura
+  - western-water-park-magaluf-entrada
+  - marineland-mallorca-entrada
 faq:
 - pregunta: What's the best area to stay in Mallorca with kids?
   respuesta: The north, around Alcúdia, beats the party-oriented south-west. It has calm, shallow beaches like Playa de Muro and is a better family base than the small, fashionable coves, which have no shade or parking.

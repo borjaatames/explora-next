@@ -19,6 +19,10 @@ slugs:
   es: subir-al-teide
   en: climbing-mount-teide
   de: teide-besteigen
+actividades:
+  - teide-teleferico-traslado
+  - atardecer-estrellas-teide-telescopio
+  - tour-teide-masca-icod-garachico
 faq:
 - pregunta: Braucht man eine Genehmigung für den Teide?
   respuesta: Nur für das letzte Stück, den Weg Telesforo Bravo von der Bergstation der Seilbahn (3.555 m) zum Gipfel (3.715 m). Die Genehmigung ist kostenlos und wird auf der Reservierungsseite der Nationalparks beantragt, ist aber Wochen oder Monate im Voraus vergeben. Für die Seilbahn und die anderen Wege braucht man keine.

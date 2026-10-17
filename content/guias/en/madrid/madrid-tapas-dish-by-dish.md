@@ -22,6 +22,10 @@ keywords:
 slugs:
   es: tapas-madrid-por-plato
   en: madrid-tapas-dish-by-dish
+actividades:
+  - tour-privado-tabernas-centenarias-madrid
+  - aventura-vino-tapas-la-latina
+  - ruta-tapas-nocturna-madrid
 ---
 
 If you only have time for seven stops in Madrid, here's the short list: **Las Bravas** (bravas), **El Brillante** (bocadillo de calamares), **Casa Dani** (tortilla de patatas), **El Pedrusco de Aldealcorvo** (torreznos), **Malacatín** (callos a la madrileña), **Lhardy** (jamón and cured meats) and **Casa Julio** (croquetas). They're different places in different neighborhoods, but each one nails one specific dish better than almost anyone else in the city. This guide goes dish by dish, not neighborhood by neighborhood: for each of the seven Madrid classics, we tell you where to order it, exactly what to ask for, and what to skip.

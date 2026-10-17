@@ -21,6 +21,13 @@ slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
+actividades:
+  - museo-prado-entrada
+  - museo-prado-visita-guiada
+  - museo-thyssen-entrada
+  - reina-sofia-visita-guiada-amigo-tours
+  - reina-sofia-grupo-reducido-guides-you-need
+  - excursion-toledo-dia-completo
 faq:
   - pregunta: "¿Qué museo de Madrid visitar si solo tengo tiempo para uno?"
     respuesta: "El Prado. Es el más importante de los tres, con pintura europea clásica de primer nivel del siglo XII al XIX, y necesita entre 2 y 3 horas para lo esencial. Si tienes tiempo para un segundo museo, añade el Thyssen antes que el Reina Sofía."

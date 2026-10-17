@@ -21,6 +21,11 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+actividades:
+  - entrada-sagrada-familia-audioguia
+  - sagrada-familia-tour-guiado-clasico
+  - sagrada-familia-tour-con-torre
+  - park-guell-entrada-zona-monumental
 faq:
   - pregunta: "¿Cuánto cuesta la entrada a la Sagrada Familia en 2026?"
     respuesta: "La entrada básica cuesta 26 € e incluye el acceso a la basílica más una audioguía descargable en 19 idiomas. Subir a una torre sube el precio a 36 €, y la visita guiada en grupo cuesta 30 € (40 € con torres). Los residentes en Barcelona tienen un 50% de descuento durante todo 2026, el Año Gaudí, escribiendo a residents@ext.sagradafamilia.org con justificante de empadronamiento."

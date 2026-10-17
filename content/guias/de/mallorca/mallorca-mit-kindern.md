@@ -21,6 +21,16 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+actividades:
+  - palma-aquarium-entrada
+  - tren-soller-tranvia-medio-dia-desde-el-norte
+  - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - cuevas-del-drach-desde-alcudia
+  - cuevas-del-drach-concierto-barca-desde-palma
+  - barco-fondo-cristal-delfines-paguera
+  - forestal-park-mallorca-aventura
+  - western-water-park-magaluf-entrada
+  - marineland-mallorca-entrada
 ---
 
 **Mallorca ist ein erstklassiges Familienreiseziel.** Es hat flache Strände, perfekt für die Kleinen, einen hundert Jahre alten Holzzug, Aquarien, Höhlen mit See und Wasserparks, alles in kurzer Entfernung. Der Schlüssel liegt darin, die **Unterkunftszone** je nach Alter der Kinder gut zu wählen und nicht zu versuchen, die ganze Insel zu erkunden. Dieser Ratgeber versammelt die Pläne, die mit Familie wirklich funktionieren.

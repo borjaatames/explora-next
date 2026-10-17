@@ -21,6 +21,8 @@ slugs:
   es: isla-de-tabarca-como-visitar
   en: tabarca-island-how-to-visit
   de: isla-de-tabarca-besichtigen
+actividades:
+  - barco-alicante-isla-tabarca-ida-vuelta
 ---
 
 **Tabarca ist der Ausflug, der Alicante einzigartig macht.** Die kleinste bewohnte Insel Spaniens ist zugleich **Meeresschutzgebiet** (das erste des Landes), mit kristallklarem Wasser zum Schnorcheln, einem ummauerten Dorf aus dem 18. Jahrhundert und Reisgerichten direkt am Meer. Dieser Guide erklärt dir, wie du hinkommst, was du unternehmen kannst und wie du den Tag am besten planst.

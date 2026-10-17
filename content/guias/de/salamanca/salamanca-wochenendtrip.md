@@ -21,6 +21,13 @@ slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
   de: salamanca-wochenendtrip
+actividades:
+  - tour-a-pie-salamanca-guia-local
+  - salamanca-leyendas-al-anochecer
+  - tour-bici-salamanca-panoramico
+  - jamon-iberico-clase-magistral-cata-salamanca
+  - catedrales-salamanca-entrada-audioguia
+  - universidad-salamanca-visita-guiada
 ---
 
 Wenn **Salamanca an einem Tag wie eine schnelle Checkliste funktioniert**, ist Salamanca an einem Wochenende etwas ganz anderes: Es erlaubt Ihnen, die Stadt wirklich zu **erleben**. Die Sehenswürdigkeiten ohne Stress abzuklappern, mindestens zweimal richtig gut Tapas zu essen, den goldenen Stein bei Sonnenuntergang zu sehen und in das studentische Nachtleben einzutauchen, das die halbe Seele der Stadt ausmacht.

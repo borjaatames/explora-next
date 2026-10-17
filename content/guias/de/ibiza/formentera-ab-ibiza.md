@@ -19,6 +19,9 @@ slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
+actividades:
+  - excursion-barco-ibiza-formentera-todo-incluido
+  - ferry-ida-vuelta-ibiza-formentera
 ---
 
 **Formentera ist der unverzichtbare Ausflug ab Ibiza.** Eine halbe Stunde mit der Fähre entfernt hat die Nachbarinsel einige der kristallklarsten Strände des Mittelmeers – echtes karibisches Flair – und eine ruhige Atmosphäre ohne Diskotheken oder große Hotels. Dieser Guide erklärt dir, wie du hinkommst, wie du dich fortbewegst und was du dir nicht entgehen lassen solltest, um den Tag optimal zu nutzen.

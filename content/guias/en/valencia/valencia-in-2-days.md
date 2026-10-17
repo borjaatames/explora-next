@@ -19,6 +19,15 @@ slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
   de: valencia-in-2-tagen
+actividades:
+  - tour-catedral-lonja-san-nicolas-valencia
+  - tour-tuk-tuk-valencia-centro-playas
+  - oceanografic-valencia-entrada
+  - bioparc-valencia-entrada
+  - paseo-catamaran-valencia-atardecer
+  - cata-cerveza-artesanal-tapas-ruzafa
+  - oceanografic-museo-ciencias-entrada-combinada
+  - albufera-atardecer-paseo-en-barca
 ---
 
 **Two days in Valencia go a long way.** It's a flat, compact, well-connected city, with the old town on one side and the City of Arts on the other, joined by a nine-kilometre park where a river once ran. In a well-planned 48 hours you can cover the essentials without rushing: the old town, Calatrava's futuristic architecture, a real paella out in La Albufera and, if you have time, the beach. This guide is built so you leave feeling you've understood Valencia, not just photographed it.

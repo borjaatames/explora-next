@@ -21,6 +21,12 @@ slugs:
   es: madrid-con-ninos
   en: madrid-with-kids
   de: madrid-mit-kindern
+actividades:
+  - museo-prado-entrada
+  - palacio-real-tour-premium-skip-line
+  - magic-retiro-park-bike-tour
+  - excursion-toledo-dia-completo
+  - bernabeu-ticket-acceso
 ---
 
 Madrid se vive muy bien en familia: parques por toda la ciudad, fauna real a 20 minutos del centro, museos que enganchan a los niños y planes de verano que pocas capitales tienen. Esta guía es para padres con niños de **4 a 16 años**: para cada plan, la edad a la que funciona, lo que cuesta, cuánto tiempo pide y si merece la pena. Al final, un itinerario por edades.

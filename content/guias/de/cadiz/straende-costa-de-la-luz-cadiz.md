@@ -21,6 +21,10 @@ slugs:
   es: playas-cadiz-costa-de-la-luz
   en: cadiz-beaches-costa-de-la-luz
   de: straende-costa-de-la-luz-cadiz
+actividades:
+  - catamaran-cadiz-atardecer
+  - avistamiento-delfines-trafalgar-barbate
+  - catamaran-bahia-de-cadiz
 ---
 
 **Die Costa de la Luz hat einige der besten Strände Spaniens:** breite, goldene atlantische Sandstrände, sauberes Wasser und, in vielen Fällen, kilometerlange unbebaute Küste. Dieser Guide unterscheidet die Stadtstrände der Hauptstadt von den großen, unberührten Stränden der Provinz und hilft dir bei der Wahl je nach Tag und vor allem je nach dem **Levante-Wind**, dem Faktor, der an dieser Küste alles verändert.

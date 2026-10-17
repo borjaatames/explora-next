@@ -21,6 +21,13 @@ slugs:
   es: cadiz-en-un-dia
   en: cadiz-in-one-day
   de: cadiz-in-einem-tag
+actividades:
+  - tour-guiado-cadiz-centro
+  - catamaran-cadiz-atardecer
+  - catamaran-bahia-de-cadiz
+  - bodegas-fundador-jerez-cata
+  - yeguada-de-la-cartuja-jerez
+  - excursion-pueblos-blancos-desde-cadiz
 ---
 
 **Cádiz lässt sich gut an einem Tag besichtigen.** Die Stadt liegt fast vollständig vom Meer umgeben auf einer schmalen Halbinsel, sodass sich die Altstadt kompakt und zu Fuß von Platz zu Platz erkunden lässt, mit dem Atlantik, der am Ende der Gassen immer wieder aufblitzt. Dieser Guide deckt das Wesentliche der ältesten Stadt des Westens ab — vor mehr als dreitausend Jahren von den Phöniziern gegründet —, ohne Hetze, und macht klar, was sich lohnt und was verzichtbar ist.

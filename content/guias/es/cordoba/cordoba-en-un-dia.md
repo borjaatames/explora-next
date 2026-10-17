@@ -19,6 +19,14 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
+actividades:
+  - mezquita-catedral-tour-guiado-sin-colas
+  - mezquita-juderia-tour-a-pie
+  - patios-cordobeses-tour-con-entradas
+  - medina-azahara-tour-guiado-3-horas
+  - espectaculo-ecuestre-caballerizas-reales
+  - espectaculo-flamenco-tablao-cardenal
+  - mezquita-catedral-entrada-audioguia
 faq:
   - pregunta: "¿Cuánto tiempo hace falta para ver Córdoba?"
     respuesta: "Un día completo es suficiente: el casco histórico es compacto y la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. La ruta recomendada va de 9:00 a 18:30."

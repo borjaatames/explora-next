@@ -21,6 +21,10 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+actividades:
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+  - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
 ---
 
 Der Real Alcázar von Sevilla ist **der älteste noch genutzte Königspalast Europas**. Seine Ursprünge reichen bis ins 10. Jahrhundert zurück, und er ist bis heute offizielle Residenz der spanischen Königsfamilie, wenn sie die Stadt besucht. Doch abseits dieser Schlagzeile liegt das Besondere in etwas, das kaum ein anderes Monument bieten kann: **tausend Jahre historischer Schichten auf demselben Gelände**, von almohadischen Resten aus dem 12. Jahrhundert bis zu englischen Gärten aus dem 19. Jahrhundert, mit dem spektakulärsten erhaltenen Mudéjar-Palast Spaniens dazwischen.

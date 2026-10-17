@@ -21,6 +21,15 @@ slugs:
   es: granada-en-2-dias
   en: granada-in-2-days
   de: granada-in-2-tagen
+actividades:
+  - visita-guiada-alhambra-generalife
+  - entrada-y-tour-guiado-alhambra
+  - alhambra-visita-nocturna
+  - albaicin-sacromonte-atardecer
+  - flamenco-cueva-la-rocio-sacromonte
+  - flamenco-cuevas-tarantos-sacromonte
+  - catedral-capilla-real-sin-colas-grupo
+  - alpujarra-pueblos-montana
 ---
 
 **Granada en 2 días son justos**, pero bien organizados dan para lo esencial: Alhambra, Albaicín al atardecer, tapas gratis, Capilla Real, la Cartuja barroca y una zambra en el Sacromonte. Dejamos fuera a propósito el Parque de las Ciencias, el Hammam y la Huerta de San Vicente.
