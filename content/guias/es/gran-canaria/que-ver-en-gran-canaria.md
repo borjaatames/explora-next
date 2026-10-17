@@ -8,7 +8,7 @@ fecha_actualizacion: '2026-10-17'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - qué ver en gran canaria
 - gran canaria en 4 días
@@ -30,7 +30,7 @@ faq:
   respuesta: 'Cualquiera: la costa sur tiene entre 18 y 28 °C todo el año. Primavera y otoño son ideales para el senderismo; en invierno las cumbres pueden bajar de cero y alguna vez nieva en el Pico de las Nieves.'
 ---
 
-**Gran Canaria es mucho más que las playas del sur.** En una isla redonda de apenas 50 kilómetros caben un desierto de dunas, pinares a casi 2.000 metros, barrancos con casas cueva y una capital con uno de los cascos coloniales mejor conservados de Canarias. Por eso la llaman el **continente en miniatura**. El error más común es no salir de Maspalomas: el interior está a menos de una hora y es lo que hace única a la isla.
+**Gran Canaria es mucho más que las playas del sur.** En una isla redonda de apenas 50 kilómetros caben un desierto de dunas, pinares a casi 2.000 metros, barrancos con casas cueva y una capital con uno de los cascos coloniales mejor conservados de Canarias: el **continente en miniatura**. El error más común es no salir de Maspalomas; el interior está a menos de una hora y es lo que hace única a la isla.
 
 ## Reserva lo principal
 
@@ -43,53 +43,43 @@ faq:
 | [Paseo en camello por las Dunas de Maspalomas](/ciudades/gran-canaria/actividades/paseo-camello-dunas-maspalomas) | 4,5★ (5.263) | 18 € |
 | [Jeep safari por valles, presas y pueblos del sur](/ciudades/gran-canaria/actividades/jeep-safari-sur-gran-canaria) | 4,5★ (1.443) | 69 € |
 
-## Cuántos días necesitas
+## Cuántos días
 
-Con **cuatro o cinco días** ves sus dos caras: uno para **Las Palmas y Vegueta**, otro para las **cumbres** (Roque Nublo, Tejeda, Pico de las Nieves), otro para el **norte** (Teror, Arucas, Agaete) y el resto para playa, mar y Puerto de Mogán. Con tres días, elige entre interior y capital; con una semana, añade el oeste salvaje y algún barranco como Guayadeque.
+Con **cuatro o cinco** ves sus dos caras: Las Palmas y Vegueta, las cumbres (Roque Nublo, Tejeda), el norte (Teror, Arucas, Agaete) y el resto para playa, mar y Puerto de Mogán. Con tres, elige entre interior y capital; con una semana, añade el oeste salvaje y el barranco de Guayadeque.
 
-## El sur: dunas, playas y Puerto de Mogán
+## El sur: dunas y Puerto de Mogán
 
-Las **Dunas de Maspalomas** son el icono de la isla: una reserva natural de más de 400 hectáreas de arena junto al mar, con la Charca y el faro al fondo. Al lado están **Playa del Inglés** y **Meloneras**, el gran destino de sol y playa. Más al oeste, **Puerto de Mogán** es el pueblo marinero más bonito: canales, casas blancas con buganvillas y un puerto perfecto para el atardecer. Entre medias, **Puerto Rico** es el punto de salida de los barcos de avistamiento de delfines.
-
-> **⭐ Tip:** recorre las dunas al amanecer o a última hora de la tarde. A mediodía la arena quema y la luz es dura para las fotos. Te lo contamos todo en nuestra [guía de las Dunas de Maspalomas](/guias/gran-canaria/dunas-de-maspalomas).
+Las **Dunas de Maspalomas**, reserva natural de más de 400 hectáreas junto al mar con la Charca y el faro al fondo, son el icono de la isla: recórrelas al amanecer o a última hora, a mediodía la arena quema. Al lado, **Playa del Inglés** y **Meloneras**; al oeste, **Puerto de Mogán**, el pueblo marinero más bonito (canales, casas blancas con buganvillas, atardecer de postal), y **Puerto Rico**, de donde salen los barcos de delfines. Más en la [guía de las Dunas](/guias/gran-canaria/dunas-de-maspalomas).
 
 ## Las cumbres: Roque Nublo y Tejeda
 
-El centro de la isla es otro mundo. El **Roque Nublo**, monolito de unos 80 metros a más de 1.800 m de altitud, se alcanza con un sendero corto; a su lado está el **Pico de las Nieves** (1.949 m), techo de la isla, y en días claros se ve el Teide de Tenerife. El pueblo de **Tejeda** y la **Cruz de Tejeda** son la base perfecta para comer y ver el **Roque Bentayga**. Cerca, **Artenara** y el **Risco Caído** forman parte del Patrimonio Mundial por sus cuevas aborígenes. Lee nuestra [guía para subir al Roque Nublo](/guias/gran-canaria/roque-nublo-como-subir).
+Otro mundo. El **Roque Nublo**, monolito de 80 metros a más de 1.800 m, se alcanza por un sendero corto; a su lado, el **Pico de las Nieves** (1.949 m), desde donde en días claros se ve el Teide. **Tejeda** y la **Cruz de Tejeda** son la base para comer y ver el **Roque Bentayga**; cerca, **Artenara** y el **Risco Caído**, Patrimonio Mundial por sus cuevas aborígenes. Bajando al sur, el **barranco de Fataga** y la **presa de Chira**, escenario de buggies y jeeps. Lee [cómo subir al Roque Nublo](/guias/gran-canaria/roque-nublo-como-subir).
 
-Bajando hacia el sur, el **barranco de Fataga** (el valle de las mil palmeras) y la **presa de Chira** son el escenario de las excursiones en buggy y jeep.
+## Las Palmas, el norte y el este
 
-## Las Palmas: Vegueta y Las Canteras
+**Vegueta**, el barrio fundacional (1478), reúne la Catedral de Santa Ana, la Casa de Colón y calles empedradas con balcones de madera; al otro lado de la ciudad, **Las Canteras**, 3 km de arena protegidos por el arrecife de La Barra, para nadar y hacer esnórquel en pleno centro. En el norte, **Teror** (Basílica del Pino), **Arucas** (iglesia neogótica y plataneras), **Firgas** y **Agaete**, con el Puerto de las Nieves y el único valle de Europa donde se cultiva café. En el este, **Guayadeque** y sus casas y ermita excavadas en la roca.
 
-La capital merece al menos un día. **Vegueta**, el barrio fundacional (1478), reúne la **Catedral de Santa Ana**, la **Casa de Colón** y calles empedradas con balcones de madera. Al otro lado de la ciudad, la playa de **Las Canteras** tiene unos 3 km de arena protegidos por un arrecife natural, La Barra, ideal para nadar y hacer esnórquel en pleno centro.
+## Lo práctico
 
-## El norte y el este: pueblos y barrancos
+- **Coche:** sí para interior y norte. Reserva con semanas en invierno (temporada alta canaria), coche pequeño (las GC-60, GC-600 y GC-210 son estrechas y con curvas cerradas) y depósito lleno antes de subir: arriba no hay gasolineras.
+- **Distancias:** Maspalomas-Las Palmas 45 min por autopista; -Mogán 25; -Tejeda y Roque Nublo 1 h 30; -Teror 1 h 15. El interior se mide en horas, no en kilómetros.
+- **Guaguas:** la línea 30 une Las Palmas y Maspalomas en 50 minutos (cada 20 min, unos 7 €); la 1 va por la costa a Mogán; al interior, la 18 y la 305 con pocas frecuencias: mira la vuelta antes de subir.
+- **Precios:** dunas, Roque Nublo, Vegueta, Las Canteras y Jardín Botánico, gratis; Casa de Colón 4 € (gratis domingos); camellos 18 €; barco Puerto Rico-Mogán 10-12 €; Palmitos Park 36 €, el gran plan familiar.
+- **Mercados:** Teror los domingos por la mañana (chorizo de untar y queso), Vegueta los sábados, Mercado del Puerto de Las Palmas de jueves a sábado por la noche para tapear.
+- **Clima:** el sur, 300 días de sol; Las Palmas y el norte, «panza de burro» en verano; en las cumbres puede helar en invierno. Siempre una capa más en el coche.
 
-**Teror**, con la Basílica del Pino y sus balcones; **Arucas**, con su iglesia neogótica y las plataneras; **Firgas** y su paseo de azulejos; y **Agaete**, con el Puerto de las Nieves y el único valle de Europa donde se cultiva café. En el este, el **barranco de Guayadeque** esconde casas y hasta una ermita excavadas en la roca.
+## Dormir y comer
 
-## Lo práctico: coche, guaguas y distancias
+**Maspalomas, Playa del Inglés y Meloneras** para sol y playa; **Puerto de Mogán** para calma con encanto; **Las Palmas** para ciudad, gastronomía y el norte; casas rurales en Tejeda o Artenara para dormir bajo las estrellas.
 
-- **Alquilar coche:** para el interior y el norte, sí. Reserva con semanas en invierno (temporada alta en Canarias) y elige coche pequeño: las carreteras de las cumbres (GC-60, GC-600, GC-210) son estrechas y con curvas cerradas. Llena el depósito antes de subir; arriba no hay gasolineras.
-- **Distancias reales:** de Maspalomas a Las Palmas, 45 minutos por autopista; a Puerto de Mogán, 25; a Tejeda y el Roque Nublo, 1 h 30 por la GC-60; a Teror, 1 h 15. De Las Palmas a Tejeda, 1 h 15 por la GC-15. La isla parece pequeña, pero el interior se mide en horas, no en kilómetros.
-- **Guaguas Global:** la línea 30 une Las Palmas con Maspalomas y Playa del Inglés en 50 minutos (cada 20 minutos, unos 7 €); la 1 va por la costa a Puerto de Mogán. Al interior llegan la 18 (Maspalomas-Tejeda-San Mateo) y la 305 (Las Palmas-Tejeda), con pocas frecuencias: consulta los horarios de vuelta antes de subir.
-- **Precios de lo esencial:** dunas, Roque Nublo, Vegueta y Las Canteras, gratis; Casa de Colón en Vegueta, 4 € (gratis domingos); Jardín Botánico Canario, gratis; camellos en las dunas, 18 €; barco de Puerto Rico a Puerto de Mogán, 10-12 € el trayecto. El Palmitos Park cuesta 36 € adulto y es el gran plan familiar.
-- **Mercados:** el de Teror los domingos por la mañana (chorizo de Teror para untar y queso) y el de Vegueta los sábados; el Mercado del Puerto de Las Palmas, de jueves a sábado por la noche, para tapear.
-- **Clima:** el sur tiene 300 días de sol; Las Palmas y el norte, la «panza de burro» de nubes bajas en verano. En las cumbres puede helar en invierno. Lleva siempre una capa más en el coche.
+**Papas arrugadas con mojo**, **queso de flor de Guía**, **sancocho**, **gofio**, **bienmesabe** de Tejeda, **ron de Arucas** y vinos del Monte Lentiscal.
 
-## Dónde alojarse
+## Errores típicos
 
-**Maspalomas, Playa del Inglés y Meloneras** para sol y playa; **Puerto de Mogán** para algo más tranquilo y con encanto; **Las Palmas** para ciudad, gastronomía y moverte al norte. El interior tiene casas rurales en Tejeda o Artenara para dormir bajo las estrellas.
-
-## Comer en Gran Canaria
-
-Prueba las **papas arrugadas con mojo**, el **queso de flor de Guía**, el **sancocho canario** (pescado salado con papas y mojo), el **gofio** y, de postre, el **bienmesabe** de Tejeda. Para beber, el **ron de Arucas** y los vinos del Monte Lentiscal.
-
-## Lo que NO recomendamos
-
-1. **No salir del sur.** El interior es lo que hace distinta a la isla.
-2. **Subir a las cumbres sin abrigo.** Puede haber 25 °C en la playa y 8 °C en el Pico de las Nieves.
-3. **Salirte de los senderos en las dunas.** Es una reserva natural y está prohibido.
-4. **Ir al Roque Nublo a mediodía en fin de semana.** El aparcamiento se llena; ve temprano.
+1. **No salir del sur.**
+2. **Subir a las cumbres sin abrigo:** 25 °C en la playa y 8 °C en el Pico de las Nieves.
+3. **Salirse de los senderos en las dunas:** es reserva natural y está prohibido.
+4. **Roque Nublo a mediodía en fin de semana:** el aparcamiento se llena.
 
 ## En una frase
 

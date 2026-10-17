@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
 imagen_alt: "Jamones ibéricos colgados en una charcutería sevillana"
-tiempo_lectura: 14
+tiempo_lectura: 5
 keywords:
   - "tapas sevilla"
   - "dónde tapear en sevilla"
@@ -24,164 +24,68 @@ slugs:
   de: tapas-in-sevilla
 ---
 
-Sevilla tiene un problema que nadie te cuenta: hay tantos bares de tapas que es casi imposible elegir mal del todo, pero igual de difícil elegir realmente bien. La media es alta, sí, pero la diferencia entre comerte una pringá honesta hecha por la cuarta generación de la familia y una versión turistizada con foto plastificada en la puerta es brutal. Y lo segundo está más extendido de lo que la gente piensa, sobre todo en el cuadrante Catedral-Santa Cruz.
+En Sevilla es difícil comer mal del todo, pero igual de difícil comer realmente bien: la diferencia entre una pringá de cuarta generación y su versión con foto plastificada es enorme, y la segunda abunda en el cuadrante Catedral-Santa Cruz. Esta guía no es una lista de treinta bares: son tres barrios (Centro y Alfalfa, Triana, Arenal) y, en cada uno, dos o tres sitios con el plato que justifica entrar. Para encajarlo en el viaje, [Sevilla en 1 día](/guias/sevilla/sevilla-en-1-dia) o [en 3 días](/guias/sevilla/sevilla-en-3-dias).
 
-Esta guía no quiere ser una lista de "los 30 mejores bares de Sevilla". No los hay. Lo que hay son entornos distintos para tapear y, dentro de cada uno, dos o tres sitios donde pedir cosas concretas con la garantía de que están bien hechas. Vamos a centrarnos en tres barrios —Centro/Alfalfa, Triana y Arenal— y dentro de cada uno te damos el bar, el plato que justifica entrar y la nota que el visitante medio no tiene. Si vienes a la ciudad por primera vez, mejor consulta primero la guía de [Sevilla en 1 día](/guias/sevilla/sevilla-en-1-dia) o la de [Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias) para encajar el tapeo dentro del plan. Aquí asumimos que ya sabes cuándo y cómo, y solo te queda saber dónde.
+## Cómo se tapea (sin parecer turista)
 
-## Cómo se tapea en Sevilla (sin parecer turista)
+- **Horarios:** se come de 14:00 a 16:00 y se cena desde las 21:00. La franja útil es 13:30-15:30 y 20:30-23:00; fuera de eso, picoteo.
+- **Barra o mesa:** la tapa es de barra (más barata) y la ración, de mesa (más cara); el mismo plato sube un euro en mesa y dos en terraza. Pregunta qué se sirve dónde.
+- **Por rondas:** tres cosas, te las comes, otras tres. Todo de golpe llega frío.
+- **El trato puede ser seco.** No es contigo: está sirviendo a cuarenta personas y te trata como a un sevillano. Es buena señal.
+- **Precios:** tapa 2,50-4 €, media ración 6-9 €, ración 10-16 €; caña 1,50-2 €, manzanilla o tinto de verano 2-2,50 €. Una cena de cinco tapas y tres bebidas, 18-25 € por persona (un 20 % menos en Triana). El pan y los picos se cobran (1-1,50 €) y no es una estafa.
+- **Pago y propina:** al final, de palabra, a veces con tiza en la barra; tarjeta casi en todos. Propina, las monedas del cambio.
+- **Reservas:** los bares de tapas no reservan; los restaurantes con mesa, sí, y viernes y sábados hace falta. Evita Feria, Semana Santa y los días de partido en Arenal y Triana.
 
-Cuatro reglas que cambian completamente la experiencia y que casi nadie te explica:
+## Centro y Alfalfa
 
-**Los horarios son los que son.** Los sevillanos comen entre las 14:00 y las 16:00 y cenan a partir de las 21:00. La franja útil real es **13:30-15:30** para comer y **20:30-23:00** para cenar. Fuera de eso, terraceo y picoteo, no comida en serio.
+Regla rápida: aléjate de la Avenida de la Constitución y la Plaza Virgen de los Reyes. Cuanto más cerca de la Giralda, peor.
 
-**La barra no es la mesa.** En la mayoría de bares clásicos los precios cambian: tapa en barra (más barata), media ración o ración en mesa (más cara). Hay sitios que solo hacen raciones en mesa o solo tapas en barra. Pregunta al camarero qué se sirve dónde nada más sentarte.
+**Casa Morales** (García de Vinuesa, 11; lunes a sábado 12:00-16:00 y 20:00-24:00). Bodegón de 1850 con las tinajas de vino a granel todavía en la sala del fondo. **Carrillada ibérica** en guiso y, en invierno, **potaje de garbanzos**; los guisos del día van escritos a tiza en las tinajas. La barra de la entrada es para fríos; la cuchara se come dentro. A las 14:00 está lleno: entra a las 12:30.
 
-**No pidas a la vez.** El tapeo sevillano funciona por rondas. Pides tres cosas, te las comes, pides otras tres. La carta entera de golpe en la primera tanda llega todo frío. Pídele al camarero su recomendación y arranca por ahí.
+**Taberna Manolo Cateca** (Santa María de Gracia, 13; lunes a viernes 11:00-16:30 y 19:30-23:30, sábados solo mediodía). Un templo del vino de Jerez con 200-300 referencias, premio Solera 2023 a la mejor taberna de vinos de Sevilla. **Manzanilla bien fría** o **fino en rama** con montaditos, chacinas y **papas aliñás**. Es una barra y un pasillo, de pie; el dueño es directo y a algunos les choca. Si buscas sonrisa profesional, no es tu sitio.
 
-**El servicio puede ser brusco. No es contigo.** En las tabernas con solera el camarero tiene a veces un trato seco que viene de oficio. No es maleducación, está sirviendo a 40 personas. Te tratará como a cualquier sevillano: sin alfombra roja. Eso, contra lo que parece, es buena señal.
+## Triana
 
-## Cuánto cuesta tapear en Sevilla
+Al otro lado del río casi todo es honesto: los turistas pasean por Betis y Pureza, los sevillanos comen por San Jacinto y Pagés del Corro.
 
-- **Precios de referencia:** tapa en barra, 2,50-4 €; media ración, 6-9 €; ración, 10-16 €. Una caña, 1,50-2 €; una copa de manzanilla o fino, 2-2,50 €; el tinto de verano, 2-2,50 €. Una cena de tapeo con cinco o seis tapas y tres bebidas sale por 18-25 € por persona en el Centro y el Arenal, y un 20 % menos en Triana.
-- **Barra, mesa y terraza:** el mismo plato puede costar un euro más en mesa y dos más en terraza; algunos clásicos lo anuncian en la carta. Si vas a pedir solo tapas, la barra es el sitio.
-- **El pan y el aperitivo no son gratis:** 1-1,50 € por persona de pan, picos y a veces unas aceitunas. Es normal y se cobra siempre; no es una estafa.
-- **Cómo se paga:** al final, en barra, de palabra; en los sitios más antiguos aún apuntan con tiza en el mostrador. Casi todos aceptan tarjeta, pero los de la Alfalfa y Triana agradecen el efectivo para cuentas pequeñas.
-- **Propina:** no se espera. Dejar las monedas del cambio o 1-2 € en una mesa de tapas es más que suficiente.
-- **Reservas:** la mayoría de bares de tapas **no reservan**; se llega a las 13:30 o a las 20:30 y se espera de pie con la caña. Los restaurantes con mesa, en cambio, sí, y los viernes y sábados hace falta.
-- **Cuándo no ir:** la Feria de Abril (el centro se vacía y Triana se llena), la Semana Santa (todo lleno y precios de fiesta) y los partidos del Betis y el Sevilla en el Arenal y Triana.
+**Casa Diego** (Esperanza de Triana, 19). El templo del **caracol** desde 1962, reabierto en 2023. De abril a junio, caracoles o cabrillas (la tarrina, 12-15 €, también para llevar); el resto del año, croquetas, mejillones en escabeche y ensaladilla. Parada corta, no comida larga.
 
-## Centro y Alfalfa: dos clásicos que valen lo que cuestan
+**Trianilla** (Manuel Pareja Obregón, 2; cierra lunes y domingo noche). Cocina de mercado con nombres flamencos: la **Carcelera** (presa ibérica adobada) es lo que hay que pedir; después, el Niño de Barbate (atún mechado) o el Mantón de Manila (fideos de soja con verdura y gambas). Local pequeño y cuidado, unas calles hacia dentro, lo que filtra al turista de paso. Reserva.
 
-El cuadrante entre la Catedral, la Plaza Nueva y la Alfalfa concentra los bares más antiguos del centro y, también, las trampas más agresivas. La regla rápida: **alejarse de la Avenida de la Constitución y de la Plaza Virgen de los Reyes**. Cuanto más cerca de la Catedral, peor relación calidad-precio. Los dos sitios que recomendaríamos están a menos de 200 metros de la Catedral, pero en calles laterales que la mayoría de los visitantes no pisan.
+**Bar Blanca Paloma** (Pagés del Corro, 86). El clásico de barrio y el plan B que nunca falla, con dos locales contiguos: uno de tapas y otro de raciones (pregunta cuál es cuál). **Solomillo al jerez**, **huevos con bechamel** (receta antigua que casi nadie hace ya), bacalao dorado y siempre los platos del día fuera de carta.
 
-### Casa Morales
+## Arenal
 
-**García de Vinuesa, 11.** Lunes a sábado, 12:00-16:00 y 20:00-24:00. Cerrado domingos.
+El barrio con más tabernas honestas por metro cuadrado del centro, entre la Maestranza, el río y la Catedral. El truco es no cruzar a la Avenida de la Constitución.
 
-Bodegón fundado en 1850. Originalmente era una bodega que vendía vino a granel —de ahí las enormes tinajas de barro que siguen presidiendo la sala interior— y se reconvirtió en taberna sin perder el alma. Es de los pocos sitios del centro que conserva el ambiente real de hace ciento cincuenta años, no la versión turística de eso.
+**Bodeguita Casablanca** (Adolfo Rodríguez Jurado, 12; lunes a viernes 12:30-17:00 y 20:15-24:00, sábados mediodía). Tres generaciones y la receta original de la **tortilla al whisky** que luego copió media España. Además, **papas aliñás**, **carrillera al vino tinto** y dos o tres guisos de cuchara al día. Tapas a unos 2,50 € en barra, raciones de 12 a 20 € en mesa. Pequeño: entra cuando abre.
 
-**Qué pedir**: la **carrillada ibérica** justifica entrar. La hacen en guiso, tierna y con salsa para mojar. En invierno, el **potaje de garbanzos** es una de las cucharas más serias del centro. Los guisos del día están escritos a tiza en las propias tinajas: apuesta segura. En verano, salazones y un fino frío.
+**Bar Arenal Ventura** (Arfe, 2; lunes a sábado 13:00-23:30, domingos hasta las 17:00). Abierto en 1944, cofrade y taurino. **Bonito en escabeche** de receta familiar, tortilla de patatas de toda la vida, mejillones en escabeche y, en invierno, carne con tomate. Diminuto: una caña, dos tapas y siguiente. La Cruzcampo la sirven a la temperatura exacta.
 
-**Criterio**: la barra de la entrada es para tapeo rápido y fríos. Para los guisos de cuchara, métete a la sala del fondo con las tinajas. La diferencia de experiencia es notable.
+**Bodeguita Antonio Romero** (Antonia Díaz, 19). El **piripi**, montadito caliente de secreto ibérico con queso y salsa, y el **montadito de pringá** del cocido. Tiene cuatro locales en la zona: el original de Antonia Díaz 19 es el auténtico. Los fines de semana hay lista de espera; si en 30 minutos no te llaman, Casablanca y Ventura están a tres calles.
 
-> **⚠️ Aviso de hora:** a las 14:00 ya está lleno. O entras a las 12:30, o esperas en la puerta. No reservan.
+## Lo que no recomendaríamos
 
-### Taberna Manolo Cateca
+- **Bares con foto plastificada en la puerta.** Señal infalible.
+- **Las terrazas pegadas a la Catedral:** un 30-40 % más caras por calidad inferior.
+- **Los «menús turísticos a 12,90 €» junto al Alcázar.** Relleno congelado; una comida sevillana decente no baja de 18-25 €.
+- **El Rinconcillo a las 14:00.** Es de 1670 y sale en todas las listas, por eso a esa hora es un caos. Ve a las 12:30 o a las 19:30 por las espinacas con garbanzos y la pavía de bacalao.
+- **La «cena con espectáculo flamenco».** Lo bueno de cada cosa rara vez coexiste: cena por un lado y flamenco serio por otro.
 
-**Santa María de Gracia, 13** (zona La Campana). Lunes a viernes 11:00-16:30 y 19:30-23:30, sábados solo mediodía 11:00-16:30. Cerrado domingos.
+## Errores típicos
 
-Esto no es exactamente un sitio para "comer". Es un templo del vino de Jerez con tapas para acompañar. Fundada en 1920 como La Goleta, fue rescatada en 2013 por Manuel Rodríguez —"Manolo Cateca" porque fue catequista de joven— y en 2023 ganó el premio Solera a la mejor taberna de vinos de Sevilla. Tienen entre 200 y 300 referencias, principalmente del Marco de Jerez.
+1. **Pedir sangría.** Manzanilla, fino, tinto de verano o cerveza.
+2. **Buscar paella.** Es valenciana; aquí, arroces caldosos y sin foto.
+3. **Comer a las 13:00 y cenar a las 19:00.** Fuera de la franja en que se cocina con mimo.
+4. **Pedir todo de golpe.**
+5. **No probar el cazón en adobo.** Muy sevillano, ligero, en cualquier bar de Arenal o Triana.
+6. **«Una de jamón» sin más.** Hay seis tipos y los precios cambian mucho.
+7. **No reservar viernes y sábados** en Trianilla, Casablanca y Romero.
 
-**Qué pedir**: una **manzanilla bien fría** o un **fino en rama**, y para acompañar **montaditos** y la tabla de **chacinas y conservas**. Las **papas aliñás** pegan bordadas con la manzanilla.
+## Tres temporadas
 
-**Criterio**: el local es estrechísimo. Una barra, un pasillo, sitio para apoyarse y poco más. No hay mesas serias. Si quieres sentarte, este no es tu sitio. Si quieres dos manzanillas heladas con un montadito de pie en una de las tabernas con más alma del centro, no hay competencia.
-
-> **⚠️ Aviso honesto:** el dueño tiene fama de carácter fuerte. No es maleducado, es directo. A algunos turistas les choca. Si valoras la autenticidad por encima de la sonrisa profesional, este sitio es exactamente eso.
-
-## Triana: tres bares con personalidad propia
-
-Triana al otro lado del río juega en otra liga. Aquí casi cualquier bar es honesto —los turistas pasean por la Calle Betis y la calle Pureza, pero comen sevillanos por San Jacinto y Pagés del Corro—. Hemos elegido tres con criterio claro: el que es leyenda por una sola cosa, el que es de autor sin ser pretencioso, y el clásico de barrio que aguanta.
-
-### Casa Diego (Cervecería Casa Diego)
-
-**Calle Esperanza de Triana, 19.**
-
-El templo del **caracol** en Sevilla. Fundado en 1962, cerró en 2022 y reabrió a mediados de 2023 manteniendo el formato. Algunos puristas dicen que ya no es lo que era; otros dicen que la calidad se ha mantenido. Sigue siendo de lo más fiable de la ciudad para esta tapa concreta, aunque el aura de leyenda intocable se ha rebajado.
-
-**Qué pedir**: **caracoles** o **cabrillas** —su prima grande— en temporada (de **abril a junio**, depende del clima). Fuera de temporada: croquetas, mejillones en escabeche, ensaladilla, montaditos.
-
-**Criterio**: en mayo hay cola. Una **tarrina de caracoles** ronda los 12-15€ y se puede pedir para llevar, lo cual es lo que hacen los locales. No es el sitio para una comida elaborada, es el sitio para hacer una parada caracolera y seguir.
-
-### Trianilla
-
-**Calle Manuel Pareja Obregón, 2.** Cerrado lunes y domingos noche. El resto de la semana, mediodías y noches con horarios algo cambiantes (consultar antes).
-
-Aquí sí hay cocina elaborada. El chef y propietario, Fran, va a los mercados cada mañana y monta una carta de tapas con personalidad: nombres flamencos para platos serios. La **Carcelera** —que es como llaman a la presa ibérica adobada a la plancha— es lo que hay que pedir. La hacen muy bien y es plato tan tradicional como cocinado con mimo.
-
-**Qué pedir**: la **Carcelera** (presa ibérica). De ahí, el **Niño de Barbate** (atún mechado), el **Mantón de Manila** (fideos de soja con verdura, pollo y gambas) y los tacos mexicanos si te apetece salirte del guion. La fusión funciona porque la base está bien hecha.
-
-> **⭐ Criterio:** este es el sitio si quieres cenar bien en Triana sin caer en el bar de toda la vida. Es un local pequeño con ambiente cuidado, ni el típico tablao ni el típico bodegón. La nota: **no está pegado a la zona de paseo**. Está unas calles hacia el interior de Triana, lo cual filtra al turista de paso. Te lo agradecerá la cuenta.
-
-### Bar Blanca Paloma
-
-**Calle Pagés del Corro, 86 (zona Triana centro).**
-
-El clásico de barrio. Tapas y raciones de cocina sevillana sin pretensiones, calidad mantenida durante años, ambiente de gente del barrio. Tienen además un truco logístico: el sitio tiene **dos locales contiguos**, uno solo de tapas y otro solo de raciones. Pregunta cuál es cuál antes de sentarte porque la experiencia es distinta.
-
-**Qué pedir**: el **solomillo al jerez** es la apuesta segura. Los **huevos con bechamel** son mejor de lo que pinta el nombre —tipo huevo a la flamenca pero con bechamel cremosa, una receta antigua que casi nadie hace ya—. Para abrir, **bacalao dorado** o **mero empanado**. Y pregunta siempre por los **platos del día fuera de carta**: aquí los hacen en serio.
-
-**Criterio**: este es el "plan B Triana". Si Trianilla está cerrado o Casa Diego está hasta arriba, Blanca Paloma siempre rinde. No es un sitio de descubrimiento, es un sitio de fiabilidad. Que en Sevilla, donde un día puedes acabar comiendo regular en un sitio aclamado, vale lo suyo.
-
-## Arenal: la zona más densa de tapeo decente del centro
-
-Arenal —el cuadrante entre la Maestranza, el río y la Catedral— es probablemente el barrio con mayor densidad de tabernas honestas del centro de Sevilla. La calle Adolfo Rodríguez Jurado, calle Arfe y calle Antonia Díaz concentran tres bares que merecen parada. El truco aquí es no cruzar a la Avenida de la Constitución, que es donde los precios suben y la calidad baja.
-
-### Bodeguita Casablanca
-
-**Calle Adolfo Rodríguez Jurado, 12.** Lunes a viernes 12:30-17:00 y 20:15-24:00, sábados solo mediodía. Cerrado domingos.
-
-Tres generaciones de la familia Casablanca, en este local desde 2005. Es uno de esos sitios donde la cocina tradicional se trata con cabeza: guisos de cuchara dos o tres al día, papas aliñás de las que han copiado en otros bares, y una **tortilla al whisky** que se ha convertido en plato icónico replicado por toda España. Eso último no es marketing: la receta es de aquí.
-
-**Qué pedir**: **papas aliñás** y **carrillera al vino tinto** en frío y caliente. La **tortilla al whisky** es de pedir si nunca la has probado —es básicamente tortilla con una salsa de whisky que se cocina hasta que el alcohol evapora pero queda el aroma—. Y los **guisos del día**, lo que toque. En verano, la **ensaladilla de gambas**.
-
-**Criterio**: es pequeño, se llena, hay terraza pero la barra es estrecha. El consejo es entrar cuando abren (12:30) o esperar a la última hora de la noche.
-
-> **⚠️ Aviso útil:** hay una distinción importante entre tapas en barra y raciones en mesa, y el precio cambia. Pregunta antes para evitar sorpresas en la cuenta. Tapas a 2,50€ aproximadamente, raciones entre 12 y 20€.
-
-### Bar Arenal Ventura
-
-**Calle Arfe, 2 (esquina Antonia Díaz).** Lunes a sábado 13:00-23:30, domingo 13:00-17:00.
-
-Este es un templo. Abierto en 1944, ya en la tercera generación de la familia. Bar cofrade y taurino, paredes llenas de fotos del mundo del toro y de las cofradías, ambiente de barrio puro. La especialidad —y aquí no hay debate— es el **bonito en escabeche**, hecho según receta familiar que llevan ochenta años perfeccionando.
-
-**Qué pedir**: **bonito (atún) en escabeche**, parada obligada. **Tortilla de patatas**, que la hacen al estilo de toda la vida y está bordada. Y los **mejillones** en escabeche —la otra especialidad de la casa—. Si vas en invierno, pide la **carne con tomate**, otro guiso clásico que aquí está muy bien tratado.
-
-**Criterio**: es **diminuto**. Un par de mesas dentro, espacio en barra para apoyarse, y una pequeña terraza fuera. Si vas en grupo de más de cuatro, replantéate el sitio. Es bar para ir a darle dos toques: una caña, dos tapas, siguiente. Pretender una comida larga aquí no funciona. **Cruzcampo bien fría**: lo digo en serio, la sirven a la temperatura justa, que parece tontería pero en pleno verano sevillano marca la diferencia.
-
-### Bodeguita Antonio Romero
-
-**Calle Antonia Díaz, 19** (también locales en Antonia Díaz 5 y Arfe 32). Cerrado lunes en el local original; el resto de la semana mediodías y noches.
-
-Negocio familiar de segunda generación, abierto en 1994. Decoración cofrade-taurina por todas partes —cabezas de toro, cuadros de pasos, azulejos por todos lados—, ambiente puro de la "Sevilla rancia" entendida en el buen sentido: tradición sin postureo. La gente lo conoce sobre todo por una cosa: el **piripi**.
-
-**Qué pedir**: el **piripi** es el montadito estrella —es un montadito caliente con secreto ibérico, queso y salsa, mucho más serio de lo que el nombre sugiere—. Después, el **montadito de pringá** clásico, que aquí lo hacen como Dios manda con la pringá del cocido (carne de cocido, morcilla y chorizo desmenuzados). Una caña, dos montaditos, y has cenado.
-
-> **⭐ Criterio:** tiene cuatro locales en la zona y no son iguales. El **original (Antonia Díaz 19)** es el más auténtico. Los otros tres son ampliación, no son malos pero la decoración y el espíritu del primero no se replican. Si vas a uno, ve al de Antonia Díaz 19.
-
-> **⚠️ Aviso de cola:** en fines de semana hay espera. Te apuntan en una lista. Si en 30 minutos no te llaman, vete a otro sitio del barrio (Casablanca o Ventura están a tres calles): no merece la pena esperar una hora por un piripi cuando hay opciones de nivel similar al lado.
-
-## Lo que NO recomendaríamos
-
-❌ **Cualquier bar con foto plastificada del plato en la puerta.** Señal infalible. En Sevilla, los bares serios no las necesitan. Si la tienen, es porque su cliente objetivo es el visitante al que se quiere convencer por la imagen. La calidad cae en picado.
-
-❌ **El cuadrante Catedral-Avenida de la Constitución-Plaza Virgen de los Reyes.** Las terrazas pegadas a la Catedral cobran un 30-40% más por calidad inferior. Hay alguna excepción —Casablanca está en la zona pero en una calle lateral—, pero como regla, cuanto más cerca de la Giralda, más cuidado.
-
-❌ **Los "menús turísticos a 12,90€"** alrededor del Alcázar. Eso no es comer tapas, es relleno congelado. Una comida sevillana decente no baja de 18-25€ por persona en sitio bueno.
-
-❌ **Bar El Rinconcillo en horas punta.** Es uno de los bares más antiguos de España (1670), por eso aparece en todas las listas, pero a las dos de la tarde es un caos turístico. Si vas, ve a las **12:30 o a las 19:30**. Las espinacas con garbanzos y la pavía de bacalao están bien, pero ir en hora punta es someterse a una experiencia turística más que a una taberna.
-
-❌ **Sitios con "auténtica experiencia flamenca con cena incluida".** El flamenco bueno y la cena buena raramente coexisten. Mejor cenar en condiciones por un lado y ver flamenco serio por otro (en una **peña** de Triana, por ejemplo).
-
-## Errores típicos del visitante
-
-1. **Pedir sangría en bar de tapas serio.** Es bebida de turista. Manzanilla, fino, tinto de verano (en verano), o cerveza fría.
-2. **Asumir que todo bar tiene paella.** No. La paella es valenciana. En Sevilla hay arroces caldosos o "arroz con cosas". Si lo ofrecen con foto, mejor mira a otro sitio.
-3. **Llegar a las 13:00 a comer y a las 19:00 a cenar.** Es horario europeo, no sevillano. Comerás fuera de la franja en la que se cocina con más mimo.
-4. **Pedir todo de golpe.** Se pide en rondas. Si pides ocho cosas, te llegan todas frías.
-5. **No probar el cazón en adobo.** Plato muy sevillano, fácil, ligero, casi nadie lo pide en su primera visita. Pídelo en cualquier bar de Arenal o Triana.
-6. **Pedir "una de jamón" sin más.** Hay seis tipos y la diferencia de precio es sustancial. Pregunta qué tienen.
-7. **No reservar viernes y sábados noche.** Trianilla, Casablanca y Romero se llenan. Llama o reserva online.
-
-## Tres temporadas que conviene saber
-
-**Caracoles**: de abril a junio. Si vas en esos meses, **Casa Diego** es parada casi obligada. Fuera de esa franja, ofertan otros formatos pero no es lo mismo.
-
-**Salmorejo y ajoblanco**: del 1 de mayo al 30 de septiembre en bares serios. En febrero suele ser de bote o congelado, mejor pedir otra cosa.
-
-**Guisos de cuchara**: de octubre a marzo. Carrilladas, potaje, espinacas con garbanzos espesas. **Casa Morales** y **Casablanca** son donde mejor se notan.
+**Caracoles**, de abril a junio (Casa Diego). **Salmorejo y ajoblanco**, de mayo a septiembre; en febrero son de bote. **Guisos de cuchara**, de octubre a marzo: carrilladas, potaje y espinacas con garbanzos, en Casa Morales y Casablanca.
 
 ## Cierre
 
-El tapeo en Sevilla es una de las cosas que la ciudad hace mejor que casi cualquier otro sitio del mundo. Pero lo hace bien cuando se le respeta el ritmo: comer cuando se come, cenar cuando se cena, pedir poco y pedir bien, y desconfiar siempre del bar grande con foto plastificada y del menú a 12,90€ pegado a un monumento. Con esos siete u ocho sitios y un poco de cabeza, sales de Sevilla con la sensación correcta: la de haber comido como un local.
-
-Si quieres encajar esto dentro de una visita más larga, échale un ojo a [Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias) o, si vas justo de tiempo, a [Sevilla en 1 día](/guias/sevilla/sevilla-en-1-dia).
+El tapeo sevillano funciona cuando se le respeta el ritmo: comer cuando se come, cenar cuando se cena, pedir poco y bien, y desconfiar del bar grande con foto y del menú barato pegado a un monumento. Con estos ocho sitios sales de Sevilla habiendo comido como un local.

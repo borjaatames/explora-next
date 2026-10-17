@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
 imagen_alt: "Catedral de Santiago de Compostela al atardecer"
-tiempo_lectura: 7
+tiempo_lectura: 4
 keywords:
   - "qué ver en santiago de compostela"
   - "santiago en un día"
@@ -23,7 +23,7 @@ slugs:
   de: santiago-in-einem-tag
 ---
 
-**Santiago se ve bien en un día**, aunque su ambiente invita a quedarse. El casco histórico es compacto, de piedra y soportales, declarado Patrimonio de la Humanidad, y todo gira en torno a la **catedral**, meta del Camino. Esta guía cubre lo esencial de la capital gallega y deja claro por qué quien hace noche se lleva mucho más que el turista de paso.
+**Santiago se ve bien en un día**, aunque su ambiente invita a quedarse. El casco histórico es compacto, de piedra y soportales, Patrimonio de la Humanidad, y todo gira en torno a la **catedral**, meta del Camino. La clave no es solo monumental, es atmosférica: la lluvia sobre el granito, las gaitas en las plazas, los peregrinos llegando emocionados al Obradoiro. Quien hace noche se lleva mucho más que el turista de paso.
 
 ## Reserva lo principal
 
@@ -37,89 +37,57 @@ slugs:
 | [Rías Baixas con paseo en barco y bodega](/ciudades/santiago-de-compostela/actividades/excursion-rias-baixas-barco-bodega) | 4,7★ (486) | 47 € |
 | [Playa de las Catedrales, Lugo y Ribadeo](/ciudades/santiago-de-compostela/actividades/excursion-playa-catedrales-lugo-ribadeo) | 4,5★ (225) | 65 € |
 
-La clave de Santiago no es solo monumental, es atmosférica: la lluvia sobre la piedra, las gaitas en las plazas, los peregrinos llegando emocionados al Obradoiro y un casco viejo universitario con una vida que no se ve en una visita exprés. Esta ruta ordena el día para no perderte ni la catedral ni el alma de la ciudad.
+## Cuándo ir y cómo llegar
 
-## Cuándo visitar Santiago
+**Mayo, junio y septiembre** son ideales (más seco, días largos, ambiente del Camino); julio y agosto, buen tiempo pero masificado; el **24-25 de julio**, Festas do Apóstolo, con los fuegos sobre el Obradoiro la víspera; de octubre a abril, verde, auténtico y lluvioso. En **Año Santo** (cuando el 25 de julio cae en domingo) se abre la Porta Santa y la peregrinación se multiplica. **Llueve 140 días al año:** paraguas siempre y zapatos que no resbalen en el granito mojado. No renuncies a salir: la piedra mojada es media gracia de Santiago.
 
-| Época | Veredicto | Por qué |
-| --- | --- | --- |
-| Mayo, junio y septiembre | Ideal | Clima más seco, días largos, ambiente del Camino |
-| Julio y agosto | Lleno | Buen tiempo y fiestas, pero masificado de peregrinos |
-| 24-25 de julio | Festas do Apóstolo | El gran día de Santiago; espectacular pero a tope |
-| Octubre a abril | Lluvioso | Verde y auténtico; lleva paraguas y abrígate |
-| Año Santo Xacobeo | Único | Cuando el 25 de julio cae en domingo; gran peregrinación |
+**AVE** desde Madrid en unas 3 h (estación a 15 minutos a pie del casco, cuesta arriba a la vuelta); trenes desde A Coruña y Vigo. Del **aeropuerto de Lavacolla**, bus cada 30 minutos (1 €, 40 min) o taxi a 22 € fijos. El casco es peatonal.
 
-> **⭐ Tip:** en Santiago **llueve mucho** durante buena parte del año; no es un fallo del clima, es su esencia ("piedra mojada"). Lleva paraguas o chubasquero y no renuncies a salir: la ciudad bajo la lluvia es preciosa.
+## La ruta del día
 
-## Cómo llegar
-
-**En AVE** desde Madrid en unas 3h; también hay aeropuerto (Lavacolla, a 12 km) con vuelos nacionales y europeos, y trenes desde A Coruña y Vigo. La estación queda a 15 minutos andando del centro. Santiago es además el **final de todas las rutas del Camino** (Francés, Portugués, Norte, Primitivo…). El casco antiguo es peatonal: se recorre entero a pie.
-
-## La ruta de un día con criterio
-
-| Hora | Actividad |
+| Hora | Qué |
 | --- | --- |
-| 9:30 — 11:00 | Plaza del Obradoiro y Catedral |
-| 11:00 — 12:00 | Las cuatro plazas (Quintana, Praterías, Inmaculada) |
-| 12:00 — 13:00 | Casco histórico (Rúa do Franco, Rúa do Vilar) |
-| 13:00 — 14:00 | Mercado de Abastos |
-| 14:00 — 16:00 | Comida |
-| 16:30 — 18:00 | San Martiño Pinario y parque de la Alameda |
+| 9:30 | Plaza del Obradoiro y Catedral |
+| 11:00 | Las plazas: Quintana, Praterías, Inmaculada |
+| 12:00 | Rúa do Franco y Rúa do Vilar |
+| 13:00 | Mercado de Abastos |
+| 14:00 | Pulpo |
+| 16:30 | San Martiño Pinario y la Alameda al atardecer |
 
-**9:30 — Obradoiro y Catedral.** Empieza en la **Plaza del Obradoiro**, ante la fachada barroca de la **Catedral**, donde acaban los peregrinos. Entra a ver el **Pórtico de la Gloria** del Maestro Mateo (restaurado, una joya del románico) y, si tu visita coincide con la Misa del Peregrino y el día lo permite, el vuelo del **botafumeiro**, el gigantesco incensario. La plaza la cierran el Pazo de Raxoi y el **Hostal dos Reis Católicos** (antiguo hospital de peregrinos, hoy parador).
+- **Obradoiro y Catedral.** Ante la fachada barroca acaban los peregrinos; la plaza la cierran el Pazo de Raxoi y el **Hostal dos Reis Católicos**, antiguo hospital de peregrinos y hoy parador. Dentro, el **Pórtico de la Gloria** del Maestro Mateo, joya del románico restaurada, y la tumba del Apóstol. El **botafumeiro** solo vuela en una docena de festividades: consulta el calendario.
+- **Las plazas.** La **Quintana** (con la Porta Santa), **Praterías** (la fuente de los caballos) y la **Inmaculada**.
+- **El casco.** Las rúas do Franco y do Vilar, soportaladas y llenas de tabernas.
+- **Mercado de Abastos.** El segundo lugar más visitado tras la catedral: compras producto gallego y en la nave 5 te lo cocinan por 4-6 €.
+- **San Martiño Pinario y la Alameda.** Los retablos barrocos del monasterio y, al final, la **mejor vista** de las torres desde el paseo de la Ferradura, con el atardecer a la espalda.
 
-**11:00 — Las cuatro plazas.** Rodea la catedral por sus plazas: la **Quintana** (con la Porta Santa, que solo se abre en Año Santo), **Praterías** (la fuente de los caballos) y la **Inmaculada**.
+## Precios y horarios
 
-**12:00 — Casco histórico.** Piérdete por la **Rúa do Franco** y la **Rúa do Vilar**, soportaladas y llenas de tabernas, y por las callejas de piedra del centro.
+| Lugar | Precio | Horario |
+| --- | --- | --- |
+| Catedral (templo y tumba) | Gratis | 9:00-19:00; Misa del Peregrino 12:00 y 19:30 |
+| Pórtico de la Gloria | Desde 12 €, visita guiada de 45 min, **reserva obligatoria** (se agota en verano) | |
+| Museo · Cubiertas | 7 € · ~15 € con guía (se suspenden con lluvia fuerte) | |
+| San Martiño Pinario | 4 €, iglesia y museo | Horario partido, todos los días |
+| Mercado de Abastos | Gratis | L-S 7:00-15:00; sábados, el día con más vida |
+| Museo de las Peregrinaciones | Gratis UE, 2,40 € resto | Cierra lunes |
+| Museo do Pobo Galego | 4 € (escalera triple de caracol en Bonaval) | Cierra lunes |
 
-**13:00 — Mercado de Abastos.** Visita el **Mercado de Abastos**, el segundo lugar más visitado tras la catedral: compras producto gallego y en algunos puestos te lo cocinan al momento.
+Más en [cómo visitar la catedral](/guias/santiago-de-compostela/catedral-de-santiago-como-visitar).
 
-**14:00 — Comida.** Hora del pulpo (ver abajo).
+## Dormir y comer
 
-**16:30 — San Martiño y la Alameda.** Asómate al monasterio de **San Martiño Pinario** y termina en el **parque de la Alameda**, con la **mejor vista** de las torres de la catedral al atardecer (la estampa clásica desde la Carballeira de Santa Susana).
+Duerme **dentro de la zona monumental**: todo a pie y el ambiente nocturno de tunas y tabernas cuando la ciudad se vacía de excursionistas. El **Ensanche**, junto a la Alameda, es práctico y moderno.
 
-## Precios y horarios de lo imprescindible
+La cocina gallega es producto puro: **pulpo á feira**, marisco (percebes, navajas, vieiras), **empanada**, **pimientos de Padrón**, **lacón con grelos** y **tarta de Santiago**, con **Albariño** o **Ribeiro** y un orujo o queimada de digestivo. Huye de las tabernas con captadores de la Rúa do Franco: el mercado y las traseras del casco compensan más.
 
-- **Catedral:** el templo y la tumba del Apóstol, gratis, de 9:00 a 19:00. **Pórtico de la Gloria**, desde 12 € con visita guiada de 45 minutos y reserva previa obligatoria (se agota en verano); **museo**, 7 €; **cubiertas**, unos 15 €, con guía y suspendidas con lluvia fuerte. Misa del Peregrino a las 12:00 y 19:30; el botafumeiro solo en una docena de festividades (calendario en la web de la catedral). Lo detallamos en [cómo visitar la catedral](/guias/santiago-de-compostela/catedral-de-santiago-como-visitar).
-- **San Martiño Pinario:** 4 € (iglesia y museo), con los dos retablos barrocos y la sillería del coro; de lunes a domingo, horario partido. **Monasterio de San Paio de Antealtares:** iglesia gratuita.
-- **Mercado de Abastos:** de lunes a sábado de 7:00 a 15:00; los sábados por la mañana es cuando más vida tiene. En la nave 5 hay bares que cocinan lo que compras por 4-6 €.
-- **Museo de las Peregrinaciones** (Praterías): gratis para la UE, 2,40 € el resto; cierra los lunes. **Museo do Pobo Galego:** 4 €, en el convento de Bonaval, con la escalera triple de caracol; cierra los lunes.
-- **Alameda:** gratis y la mejor foto de la catedral desde el paseo de la Ferradura, con el atardecer a tu espalda.
-- **Llegar:** desde el aeropuerto, autobús a la estación y al centro cada 30 minutos (1 €, 40 minutos) o taxi por 22 € fijos. La estación de tren está a 15 minutos andando del casco, cuesta arriba a la vuelta.
-- **Lluvia:** llueve 140 días al año. Paraguas en la mochila siempre y zapatos que no resbalen en el granito mojado.
+## Errores típicos
 
-## Dónde dormir
-
-Lo mejor es el **casco histórico**, dentro de la zona monumental: todo a pie y con el ambiente nocturno de tunas y tabernas. La zona del **Ensanche** (junto a la Alameda) es práctica y con más oferta moderna. **Evita** alojarte lejos del centro: la gracia de Santiago es vivirla a pie, sobre todo de noche cuando se vacía de excursionistas.
-
-## Comer en Santiago
-
-La cocina gallega es producto puro. Imprescindibles: el **pulpo á feira** (con pimentón y aceite), el **marisco** (percebes, navajas, vieiras), la **empanada gallega**, los **pimientos de Padrón**, el **lacón con grelos** y, de postre, la **tarta de Santiago** (de almendra, con la cruz del apóstol). Para beber, **Albariño** de las Rías Baixas o **Ribeiro**, y un orujo o una queimada de digestivo.
-
-> **⚠️ Aviso:** evita las tabernas más turísticas de la Rúa do Franco con captadores en la puerta. El Mercado de Abastos y las traseras del casco compensan mucho más en calidad y precio.
-
-## Lo que NO recomendamos
-
-1. **Verla con prisa.** El ambiente de Santiago se disfruta paseando sin reloj.
-2. **Comer solo en la Rúa do Franco turística.** El mercado y las calles de detrás compensan más.
-3. **Quedarte en el centro sin subir a la Alameda.** Es la mejor vista de la ciudad.
-4. **Renunciar a salir si llueve.** La piedra mojada es media gracia de Santiago.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **No reservar la subida a las cubiertas de la catedral.** Es una visita distinta y muy recomendable.
-2. **Ir solo de paso entre Rías Baixas y A Coruña.** Santiago merece al menos un día completo.
-3. **No mirar el horario del botafumeiro.** Solo vuela en ciertas misas y fechas; consúltalo antes.
-4. **Olvidar el paraguas.** Llueve a menudo todo el año.
-
-## Eventos a cuadrar
-
-- **Festas do Apóstolo (24-25 de julio).** El gran día de Santiago: la víspera, el espectáculo pirotécnico de los **fuegos del Apóstol** sobre una fachada de cartón en el Obradoiro; el 25, la festividad mayor.
-- **Año Santo Xacobeo.** Cuando el 25 de julio cae en domingo: se abre la Porta Santa y la peregrinación se multiplica.
-- **Ascensión (mayo/junio).** Las otras grandes fiestas de la ciudad, más locales.
+1. **Verla con prisa** o solo de paso entre Rías Baixas y A Coruña.
+2. **No reservar el Pórtico de la Gloria ni las cubiertas.**
+3. **Esperar el botafumeiro sin mirar el calendario.**
+4. **No subir a la Alameda.**
+5. **Olvidar el paraguas** o quedarse en el hotel porque llueve.
 
 ## En una frase
 
-Santiago en un día es catedral, piedra mojada y el final del Camino; con una noche más, te llevas su ambiente único de tunas y tabernas y una escapada a las **Rías Baixas** o a Fisterra, el fin del mundo.
+Santiago en un día es catedral, piedra mojada y el final del Camino; con una noche más, te llevas su ambiente único y una escapada a las Rías Baixas o a Fisterra, el fin del mundo.

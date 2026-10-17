@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
 imagen_alt: "Catedral de Santa María de Palma de Mallorca (La Seu) al atardecer"
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - "qué ver en mallorca"
   - "mallorca en una semana"
@@ -23,97 +23,65 @@ slugs:
   de: was-sehen-auf-mallorca
 ---
 
-**Mallorca es mucho más que sol y playa.** Combina una capital con una de las catedrales góticas más impresionantes de Europa, una sierra Patrimonio de la Humanidad y algunas de las calas más bonitas del Mediterráneo. El error del visitante medio es quedarse en un hotel de la bahía de Palma o de Magaluf y no ver la isla de verdad. Esta guía la ordena por zonas para que aproveches dos o tres días, o una semana entera.
+**Mallorca es mucho más que sol y playa:** una capital con una de las catedrales góticas más impresionantes de Europa, una sierra Patrimonio de la Humanidad y algunas de las calas más bonitas del Mediterráneo. El error del visitante medio es quedarse en un hotel de la bahía de Palma o de Magaluf y no ver la isla de verdad. La isla es grande y variada, así que esta guía la ordena por zonas: **Palma**, la **Serra de Tramuntana**, el **este** de cuevas y calas y el **norte** de Alcúdia y Formentor.
 
-La isla es grande y muy variada: la **bahía de Palma** y el sur de las grandes playas, la **Serra de Tramuntana** al noroeste (montaña, pueblos de piedra y carreteras de vértigo), el **este** de las cuevas y las calas de postal, y el **norte** de Alcúdia y el cabo de Formentor. Con un coche y un buen reparto se ve casi todo sin agobios.
+## Cuántos días y cuándo
 
-## Cuántos días necesitas
+**Dos o tres días** dan para lo esencial: Palma, la Tramuntana (Valldemossa, Sóller y los miradores) y las cuevas y calas del este. **Una semana** añade el norte y playa sin prisa. Menos de dos días se queda corto.
 
-Dos o tres días dan para lo esencial: un día para **Palma**, otro para la **Tramuntana** (Valldemossa, Sóller y los miradores) y un tercero para las **cuevas y calas del este**. Una semana es el lujo: añades el norte (Alcúdia, Pollença, Formentor), más calas y tiempo de playa sin prisa. Menos de dos días se queda corto: la isla se disfruta despacio.
-
-## Cuándo visitar Mallorca
-
-| Época | Veredicto | Por qué |
-| --- | --- | --- |
-| Mayo y junio | Ideal | Buen tiempo, mar templando, calas aún tranquilas |
-| Septiembre y octubre | Ideal | Agua caliente, menos gente, precios más bajos |
-| Julio y agosto | Masificado | Calor, calas llenas y precios altos; reserva todo |
-| Enero y febrero | Almendros en flor | Paisaje precioso, pero muchos sitios de costa cerrados |
-| Marzo, abril, noviembre | Tranquilo | Bien para senderismo en la Tramuntana; mar frío |
-
-> **⭐ Tip:** las calas pequeñas más famosas (Caló des Moro, Cala Varques) tienen aparcamiento ínfimo y se colapsan en verano. Llega antes de las 9:00 o ve fuera de temporada alta.
+**Mayo-junio y septiembre-octubre** son ideales (mar templado, calas tranquilas, precios más bajos); **julio y agosto**, masificado y caro, reserva todo; **enero y febrero**, almendros en flor con mucha costa cerrada; marzo, abril y noviembre, senderismo en la Tramuntana con mar frío.
 
 ## Cómo llegar y moverte
 
-**En avión**, el aeropuerto de Palma es uno de los más activos de Europa y está a 8 km del centro (bus o taxi). **En ferri** desde Barcelona, Valencia o Dénia (de 3h 30min a 8h según barco), opción ideal si quieres llevar tu coche.
-
-Una vez en la isla, **alquila coche**: es casi imprescindible para la Tramuntana y las calas, a las que el transporte público llega mal. Palma tiene buen bus urbano, y desde la capital sale el **tren de madera centenario a Sóller** (1912), una experiencia en sí misma. Reserva el coche con antelación en verano: vuela y se encarece.
+El **aeropuerto de Palma** está a 8 km del centro (bus o taxi); el **ferri** desde Barcelona, Valencia o Dénia (3 h 30 a 8 h) es ideal para llevar coche. En la isla, **alquila coche** (30-60 € al día, reservado con semanas en verano, silla infantil pedida de antemano): el transporte público llega mal a la Tramuntana y a las calas. Los buses TIB salen de la estación intermodal de Palma a toda la isla (2-10 €) y los trenes a Inca, Manacor y Sa Pobla cuestan 3-5 €.
 
 ## Palma
 
-Empieza por la **Catedral de Mallorca (La Seu)**, gótica y asomada al mar, con la intervención de Gaudí y la capilla cerámica de Miquel Barceló. Al lado, el **Palacio de la Almudaina**. Piérdete por el **casco antiguo** de patios señoriales y callejuelas, el **Passeig del Born**, los **Baños Árabes** y sube al **Castell de Bellver**, castillo circular único con vistas a la bahía. Para comer y salir, el barrio de **Santa Catalina** y su mercado.
+La **Catedral (La Seu)**, gótica y asomada al mar, con la intervención de Gaudí y la capilla cerámica de Miquel Barceló; al lado, el **Palacio de la Almudaina**. El **casco antiguo** de patios señoriales, el Passeig del Born, los **Baños Árabes** y el **Castell de Bellver**, castillo circular con vistas a la bahía. Para comer y salir, el barrio de **Santa Catalina** y su mercado.
 
 ## La Serra de Tramuntana
 
-La cara montañosa de la isla, **Patrimonio de la Humanidad** por su paisaje cultural de bancales y olivos:
+Patrimonio de la Humanidad por su paisaje de bancales y olivos:
 
-- **Valldemossa**, con la **Cartuja** donde pasaron el invierno Chopin y George Sand.
-- **Deià**, pueblo de artistas colgado sobre el mar.
-- **Sóller** y su **Port de Sóller**, unidos por un tranvía clásico; llega en el tren de madera desde Palma.
+- **Valldemossa** y la **Cartuja** donde invernaron Chopin y George Sand.
+- **Deià**, pueblo de artistas colgado sobre el mar, y el mirador de **Sa Foradada**.
+- **Sóller** y su **puerto**, unidos por un tranvía clásico; llega desde Palma en el **tren de madera de 1912**.
 - **Fornalutx**, de los pueblos más bonitos de España.
-- La carretera de **Sa Calobra**, con el famoso "nudo de corbata", que baja al **Torrent de Pareis**.
-- Miradores como **Sa Foradada** y los bancales de **Banyalbufar**.
+- La carretera de **Sa Calobra**, con el «nudo de corbata», que baja al **Torrent de Pareis**. Espectacular y de curvas extremas: si te mareas, ve en excursión.
 
 ## Cuevas y calas del este
 
-El este reúne las **cuevas** y las **calas** de postal. Las **Cuevas del Drach** (Porto Cristo) tienen uno de los mayores lagos subterráneos de Europa, con concierto de música clásica en barca. Cerca, calas como **Cala Mondragó** (parque natural), el icónico **Caló des Moro**, **Cala Varques** o, en el sur, la larga y salvaje **playa de Es Trenc**.
+Las **Cuevas del Drach** (Porto Cristo), con uno de los mayores lagos subterráneos de Europa y concierto de clásica en barca. Calas de postal: **Mondragó** (parque natural), el icónico **Caló des Moro**, **Cala Varques** y, en el sur, la larga y salvaje **Es Trenc**. Las pequeñas tienen aparcamiento ínfimo: **antes de las 9:00** o fuera de temporada.
 
-## El norte: Alcúdia y Formentor
+## El norte
 
-Al norte, la **ciudad amurallada de Alcúdia** (con la romana Pollentia al lado), las largas playas familiares de **Muro y Alcúdia**, el pueblo de **Pollença** con sus 365 escalones del Calvari, y el espectacular **Cap de Formentor**, el faro al final de la sierra (en verano el acceso en coche se restringe; hay bus lanzadera).
+La ciudad amurallada de **Alcúdia** con la romana Pollentia, las playas familiares de **Muro y Alcúdia**, **Pollença** con sus 365 escalones del Calvari y el **Cap de Formentor**, el faro al final de la sierra.
 
-## Precios y horarios de lo imprescindible
+## Precios y horarios
 
-- **Catedral de Palma (La Seu):** 10 € (gratis menores de 10), de lunes a sábado de 10:00 a 17:15 (18:15 en verano); cierra los domingos a los turistas. Las **terrazas** de la catedral se visitan con guía por 20 € más, solo con reserva. El 2 de febrero y el 11 de noviembre, el amanecer proyecta el rosetón sobre el muro de enfrente («el ocho»); abren a las 8:00 y se llena.
-- **Palacio de la Almudaina:** 7 € (gratis para la UE los miércoles y jueves por la tarde), cierra los lunes. **Castillo de Bellver:** 4 €, gratis los domingos, cierra los lunes; autobús 4 o 20 minutos de subida a pie entre pinos.
-- **Tren de Sóller:** 30 € ida y vuelta, salidas a las 10:10, 10:50, 12:15, 13:30 y 15:10; el tranvía al puerto se paga aparte (9 € el trayecto).
-- **Cuevas del Drach:** 18 € (11 € de 2 a 12 años), sesiones con concierto a las 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 y 17:00 de abril a octubre; cuatro pases en invierno. Reserva online, se agotan.
-- **Formentor:** en verano la carretera del faro se cierra a los coches de 10:00 a 22:30; autobús lanzadera desde Port de Pollença o barco.
-- **Autobuses TIB:** desde la estación intermodal de Palma a toda la isla, 2-10 € por trayecto; con tarjeta sin contacto se paga directamente. Los trenes de Palma a Inca, Manacor y Sa Pobla cuestan 3-5 €.
-- **Coche:** 30-60 € el día según temporada, reservado con semanas en verano y con silla infantil pedida de antemano. El túnel de Sóller es gratuito.
+| Lugar | Precio | Horario |
+| --- | --- | --- |
+| Catedral de Palma | 10 €, gratis menores de 10; terrazas 20 € más con guía y reserva | L-S 10:00-17:15 (18:15 verano); domingos cerrada a turistas. El 2 de febrero y el 11 de noviembre, «el ocho» del rosetón al amanecer (abren a las 8:00) |
+| Almudaina | 7 €, gratis UE miércoles y jueves tarde | Cierra lunes |
+| Castell de Bellver | 4 €, gratis domingos; bus 4 o 20 min a pie | Cierra lunes |
+| Tren de Sóller | 30 € ida y vuelta; tranvía al puerto aparte, 9 € trayecto | Salidas 10:10, 10:50, 12:15, 13:30, 15:10 |
+| Cuevas del Drach | 18 € (11 € de 2 a 12 años); **reserva online, se agota** | Pases a las 10, 11, 12, 14, 15, 16 y 17 h de abril a octubre; cuatro en invierno |
+| Formentor | Carretera cerrada a coches en verano de 10:00 a 22:30 | Lanzadera desde Port de Pollença o barco |
 
-## Dónde dormir
+## Dormir y comer
 
-**Palma** es la base más versátil: ciudad, cultura y bien conectada. La **Tramuntana** (Sóller, Deià) es ideal si buscas montaña y pueblos con encanto. El **norte** (Alcúdia, Pollença) y el **este** (Porto Cristo, Cala d'Or) son perfectos para playa en familia. **Evita** Magaluf o s'Arenal salvo que vengas a sol y fiesta de paquete: te perderás la isla.
+**Palma** es la base más versátil; la **Tramuntana** (Sóller, Deià), para montaña y pueblos con encanto; el **norte** y el **este** (Porto Cristo, Cala d'Or), para playa en familia. Evita Magaluf o s'Arenal salvo que vengas a sol y fiesta de paquete.
 
-## Comer en Mallorca
+Cocina de payés y de mar: **ensaïmada**, **sobrasada**, **pa amb oli**, **tumbet**, **frit mallorquí**, **arròs brut**, vinos de **Binissalem** y hierbas de digestivo. Para comer mallorquín de verdad, *cellers* y restaurantes de pueblo tierra adentro (Sineu, Algaida), no la primera línea de la bahía.
 
-La cocina mallorquina es de payés y de mar. Imprescindibles: la **ensaïmada** (el dulce en espiral, también salada con sobrasada), la **sobrasada** (embutido de cerdo y pimentón), el **pa amb oli**, el **tumbet** (verduras al horno), el **frit mallorquí** y el **arròs brut**. Para beber, vinos de **Binissalem** y hierbas mallorquinas de digestivo.
+## Errores típicos
 
-> **⚠️ Aviso:** en la primera línea de las zonas turísticas de la bahía abundan los restaurantes de menú internacional. Busca *cellers* y restaurantes de pueblo tierra adentro (Sineu, Algaida) para comer mallorquín de verdad.
-
-## Lo que NO recomendamos
-
-1. **Quedarte solo en la bahía de Palma o Magaluf.** Te pierdes la mejor isla: Tramuntana, calas y pueblos.
-2. **Conducir Sa Calobra si te marea la carretera.** Es espectacular pero de curvas extremas; valora ir en excursión.
-3. **Ir a las calas pequeñas a mediodía en agosto.** Sin aparcamiento y a rebosar; ve a primera hora.
-4. **Hacer la isla sin coche.** El transporte público no llega bien a lo mejor.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **Reservar el coche tarde en verano.** Se agota y se dispara de precio.
-2. **Intentar verlo todo en dos días.** La isla es grande; elige zonas.
-3. **Saltarse la Tramuntana.** Es lo que diferencia a Mallorca de un destino de playa cualquiera.
-4. **No reservar las Cuevas del Drach.** Las entradas con concierto se agotan en temporada.
-
-## Eventos a cuadrar
-
-- **Almendros en flor (enero-febrero).** La isla se tiñe de blanco y rosa; paisaje precioso fuera de temporada.
-- **Sant Sebastià (enero).** Las fiestas de Palma, con hogueras y conciertos por la ciudad.
-- **Festivales de verano.** Música clásica en Pollença y Deià, y la temporada de conciertos en toda la isla.
+1. **Quedarse en la bahía de Palma o Magaluf.**
+2. **Reservar el coche tarde en verano.**
+3. **Intentar verlo todo en dos días.** Elige zonas.
+4. **Saltarse la Tramuntana**, lo que diferencia a Mallorca de cualquier destino de playa.
+5. **Calas pequeñas a mediodía en agosto** y **Drach sin reserva**.
 
 ## En una frase
 
-Mallorca es Palma, montaña Patrimonio de la Humanidad y calas de ensueño: en dos o tres días ves lo esencial repartido por zonas; en una semana, la isla entera sin prisas.
+Mallorca es Palma, montaña Patrimonio de la Humanidad y calas de ensueño: en dos o tres días ves lo esencial por zonas; en una semana, la isla entera sin prisas.

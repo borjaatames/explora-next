@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
 imagen_alt: "Anfiteatro romano de Tarragona con el Mediterráneo al fondo"
-tiempo_lectura: 7
+tiempo_lectura: 4
 keywords:
   - "qué ver en tarragona"
   - "tarragona en un día"
@@ -23,7 +23,7 @@ slugs:
   de: tarragona-in-einem-tag
 ---
 
-**Tarragona se ve bien en un día.** Guarda el mayor conjunto romano de Cataluña —y uno de los más importantes de España, Patrimonio de la Humanidad—, todo en un casco antiguo compacto y asomado al Mediterráneo. Aquí estuvo **Tarraco**, capital de la Hispania romana, y la ciudad sigue construida literalmente sobre sus piedras. Esta guía cubre la Tarraco romana sin prisas, separa lo imprescindible del relleno y deja apuntada PortAventura para quien viaje en familia.
+**Tarragona se ve bien en un día.** Guarda el mayor conjunto romano de Cataluña, Patrimonio de la Humanidad, en un casco antiguo compacto asomado al Mediterráneo: aquí estuvo **Tarraco**, capital de la Hispania romana, y la ciudad sigue construida sobre sus piedras. El anfiteatro está a pie de playa, el circo bajo las calles y la catedral sobre un templo romano. Es la excursión clásica desde Barcelona, pero quien se queda a comer marisco en el Serrallo y a ver el atardecer desde el Balcó se lleva una ciudad.
 
 ## Reserva lo principal
 
@@ -37,95 +37,60 @@ slugs:
 | [Tour guiado en kayak por el río Ebro hasta Miravet](/ciudades/tarragona/actividades/kayak-rio-ebro-miravet) | 4,7★ (97) | 35 € |
 | [Observación de flamencos y aves al atardecer](/ciudades/tarragona/actividades/flamencos-delta-del-ebro-atardecer) | 4,7★ (63) | 40 € |
 
-La gracia de Tarragona es que el anfiteatro está a pie de playa, el circo bajo las calles del casco antiguo y la catedral medieval encima de un templo romano. Es la excursión clásica desde Barcelona, pero quien se queda a comer marisco en el Serrallo y a ver el atardecer desde el Balcó del Mediterrani se lleva una ciudad, no una visita exprés.
+## Cuándo ir y cómo llegar
 
-## Cuándo visitar Tarragona
+**Abril-junio y septiembre-octubre** son ideales. En **mayo, Tarraco Viva** convierte la ciudad en el Imperio, con legionarios y gladiadores: la mejor forma de verla. **Santa Tecla** (septiembre) trae castells, correfocs y gigantes, y en octubre de los años impares el **Concurs de Castells**, el gran concurso de torres humanas. De noviembre a marzo, sin colas y temporada de calçots.
 
-| Época | Veredicto | Por qué |
-| --- | --- | --- |
-| Abril a junio | Ideal | Clima perfecto, mar templando, días largos |
-| Mediados de mayo | Tarraco Viva | La ciudad se vuelve romana; espectacular |
-| Septiembre y octubre | Ideal | Calor amable, menos gente, Santa Tecla |
-| Julio y agosto | Bien | Playa y monumentos; calor al mediodía |
-| Noviembre a marzo | Tranquilo | Sin colas; época de calçots en los alrededores |
+Desde Barcelona, **Regional en 1 h-1 h 15** (8-9 €) hasta la estación de Tarragona, a 10 minutos a pie del anfiteatro; el AVE para en Camp de Tarragona, a 10 km, con bus al centro. Desde Salou o PortAventura, 15-20 minutos. El casco se hace a pie; solo el acueducto necesita bus o coche.
 
-> **⭐ Tip:** si puedes, ven en **mayo durante Tarraco Viva**, el festival de recreación histórica romana: legionarios, gladiadores y la ciudad entera ambientada en el Imperio. Es la mejor forma de ver Tarraco viva, nunca mejor dicho.
+## La ruta del día
 
-## Cómo llegar
-
-**En tren** desde Barcelona en 1h-1h 15min (regional), con la estación junto al casco antiguo. El AVE para en la estación de Camp de Tarragona, a 10 km de la ciudad. Es una excursión cómoda desde Barcelona o una base estupenda de la **Costa Daurada**. El casco antiguo se recorre entero a pie; solo necesitas transporte para el acueducto, a las afueras.
-
-## La ruta de un día con criterio
-
-| Hora | Actividad |
+| Hora | Qué |
 | --- | --- |
-| 9:30 — 10:30 | Anfiteatro Romano |
-| 10:30 — 11:30 | Circo y Pretorio |
-| 11:30 — 13:00 | Catedral y Part Alta |
-| 13:00 — 13:30 | Murallas (Passeig Arqueològic) |
-| 13:30 — 14:00 | Balcó del Mediterrani y Rambla Nova |
-| 14:00 — 16:00 | Comida en el Serrallo |
-| 16:30 | Acueducto (Pont del Diable) o playa |
+| 9:30 | Anfiteatro Romano |
+| 10:30 | Circo y Torre del Pretori |
+| 11:30 | Catedral y Part Alta |
+| 13:00 | Murallas (Passeig Arqueològic) |
+| 13:30 | Balcó del Mediterrani y Rambla Nova |
+| 14:00 | Marisco en el Serrallo |
+| 16:30 | Acueducto o playa del Miracle |
 
-**9:30 — Anfiteatro Romano.** Empieza por el **anfiteatro**, junto al mar, la imagen más célebre de la ciudad: aquí lucharon gladiadores y, siglos después, se levantó una basílica visigoda cuyas ruinas se ven en la arena. 1 hora.
+- **Anfiteatro**, junto al mar: aquí lucharon gladiadores y en la arena se ven las ruinas de una basílica visigoda. Una hora.
+- **Circo y Pretori:** las bóvedas donde corrían las cuadrigas, bajo la ciudad, y la panorámica desde la torre.
+- **Catedral**, sobre el templo de Augusto, con claustro románico-gótico, y la **Part Alta** medieval de callejas estrechas.
+- **Passeig Arqueològic:** entre murallas romanas con tramos megalíticos y un jardín, de los rincones más bonitos.
+- **Balcó del Mediterrani:** el mirador sobre el puerto al final de la Rambla Nova. Toca el hierro de la barandilla («tocar ferro») para la suerte, y vuelve al atardecer.
+- **Acueducto de les Ferreres (Pont del Diable):** a las afueras y casi nadie va, pero es espectacular. O baja a la **playa del Miracle**, bajo el anfiteatro.
 
-**10:30 — Circo y Pretorio.** Sigue al **Circo Romano**, con sus bóvedas conservadas bajo la ciudad, donde se corrían las cuadrigas, y sube a la **Torre del Pretori** para una panorámica del conjunto.
+## Precios y horarios
 
-**11:30 — Catedral y Part Alta.** Sube a la **Catedral**, levantada sobre el templo de Augusto, con su claustro de transición románico-gótico, y piérdete por la **Part Alta**, el casco medieval de callejas estrechas.
+| Lugar | Precio | Horario |
+| --- | --- | --- |
+| Monumentos romanos (anfiteatro, circo, Pretori, murallas, Casa Canals…) | Conjunta 15 €, sin caducidad; 5 € cada uno; gratis menores de 12 y último martes de mes | Ma-S 9:00-20:45 verano (19:00 invierno), domingos hasta 14:30. **Lunes cerrados** |
+| Catedral | 13 € con audioguía, claustro y museo; campanario 5 € más, por turnos | Cierra domingos por la mañana |
+| Acueducto | Gratis, siempre abierto; bus 5 u 85 desde la Rambla, 15 min | Se cruza por encima sin barandillas: cuidado con niños y viento |
+| MNAT (museo arqueológico) | 4-5 €, gratis primer domingo de mes; sede provisional en el Tinglado 4 del puerto | Mosaicos de la Medusa y los peces |
+| Playas | El Miracle a 5 min del centro; Arrabassada y Savinosa, a 2-3 km, mejores (bus 9) | |
 
-**13:00 — Murallas.** Recorre el **Passeig Arqueològic**, entre las murallas romanas (con tramos de piedra megalítica) y un jardín, uno de los rincones más bonitos.
-
-**13:30 — Balcó del Mediterrani.** Asómate al **Balcó del Mediterrani**, el mirador sobre el puerto y el mar (toca el hierro de la barandilla, "tocar ferro", para la suerte), al final de la **Rambla Nova** y su Monumento als Castellers.
-
-**14:00 — Comida.** Hora del marisco (ver abajo).
-
-**16:30 — Acueducto o playa.** Si tienes coche, no te pierdas el **acueducto de les Ferreres (Pont del Diable)** a las afueras, en un parque. Si prefieres mar, baja a la **Platja del Miracle**, a pie del anfiteatro.
-
-## Precios y horarios de lo imprescindible
-
-- **Entrada conjunta a los monumentos romanos:** 15 € (anfiteatro, circo y Pretori, murallas, Casa Canals y otros recintos municipales), sin caducidad en el viaje; 5 € cada uno por separado. Gratis menores de 12 y el último martes de mes. De martes a sábado de 9:00 a 20:45 en verano (19:00 en invierno), domingos hasta las 14:30. **Los lunes cierran todos**: si vienes en lunes, quedan la catedral, el Balcó, las murallas por fuera y el acueducto.
-- **Catedral:** 13 € con audioguía, claustro y museo diocesano incluidos; cierra los domingos por la mañana. La subida al campanario, por turnos y 5 € más, es una de las mejores vistas de la ciudad.
-- **Acueducto de les Ferreres:** gratis, siempre abierto. Autobús 5 o 85 desde la Rambla (15 minutos) o coche con aparcamiento gratuito. Se cruza por encima, sin barandillas: cuidado con niños y viento.
-- **MNAT:** el museo arqueológico está en sede provisional (el Tinglado 4 del puerto) por obras; entrada 4-5 €, gratis el primer domingo de mes. Los mosaicos de la Medusa y los peces están allí.
-- **Llegar:** desde Barcelona, Regional en 1 h 15 (8-9 €) hasta la estación de Tarragona, a 10 minutos andando del anfiteatro; el AVE llega a Camp de Tarragona, a 10 km, con autobús al centro. Desde Salou o PortAventura, Cercanías o autobús en 15-20 minutos.
-- **El Serrallo:** el barrio de pescadores, para comer el romesco con pescado de lonja; los restaurantes abren de 13:00 a 16:00 y los domingos hay que reservar.
-- **Playas:** El Miracle, bajo el anfiteatro, a 5 minutos del centro; la Arrabassada y la Savinosa, a 2-3 km, mejores y con autobús 9.
+Si vienes en lunes, quedan la catedral, el Balcó, las murallas por fuera y el acueducto.
 
 ## Con niños: PortAventura
 
-A pocos kilómetros, en Salou, **PortAventura World** (con **Ferrari Land**) es uno de los mayores parques de atracciones de Europa: si viajas en familia, dale un día entero aparte. No intentes combinarlo con el casco romano en la misma jornada.
+En Salou, **PortAventura World** y **Ferrari Land**, de los mayores parques de Europa: un día entero aparte. No lo mezcles con el casco romano en la misma jornada.
 
-## Dónde dormir
+## Dormir y comer
 
-Lo más práctico es la **Part Alta** o el entorno de la Rambla Nova: todo a pie y con ambiente. El barrio del **Serrallo** es ideal si buscas mar y marisco. Si vienes por PortAventura, **Salou** y **Cambrils** tienen toda la oferta de costa. **Evita** alojarte lejos del casco si quieres vivir la ciudad de noche.
+Duerme en la **Part Alta** o junto a la Rambla Nova; en el **Serrallo** si buscas mar y marisco; en Salou o Cambrils si vienes por PortAventura.
 
-## Comer en Tarragona
+Cocina de mar y huerta: pescado de lonja en el **Serrallo** (restaurantes de 13:00 a 16:00; los domingos, reserva), **suquet de peix**, arroces, **romesco** y **xató**, calçots en invierno, y vinos del **Priorat** y el **Montsant**, de los mejores de España. Huye de las terrazas turísticas de la Rambla a hora punta.
 
-La cocina tarraconense es de mar y de huerta. Imprescindibles: el **pescado y marisco del Serrallo** (el barrio marinero, junto al puerto), el **suquet de peix**, los arroces y, como salsa estrella, el **romesco** y el **xató**. En invierno, los **calçots** con romesco son un ritual en los alrededores. Para beber, vinos del **Priorat** y el **Montsant**, de los mejores de España.
+## Errores típicos
 
-> **⚠️ Aviso:** evita las terrazas más turísticas de la Rambla Nova a la hora punta. Baja al Serrallo o métete en la Part Alta y comerás mejor por menos.
-
-## Lo que NO recomendamos
-
-1. **Verla solo de paso desde Barcelona.** El conjunto romano merece un día entero.
-2. **Mezclar PortAventura y el casco romano el mismo día.** No da tiempo a disfrutar de ninguno.
-3. **Saltarte el Serrallo.** Ahí está el mejor marisco, lejos de las terrazas turísticas.
-4. **Olvidar el acueducto.** Está a las afueras y casi nadie va, pero es espectacular.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **No comprar la entrada conjunta a los monumentos romanos.** Sale mucho más a cuenta que pagar uno a uno.
-2. **Confundir Tarragona con Salou.** Son experiencias distintas; dales su sitio.
-3. **Comer en la Rambla a mediodía.** Camina al Serrallo y mejora todo.
-4. **Irte sin ver el atardecer desde el Balcó.** Es la mejor vista de la ciudad.
-
-## Eventos a cuadrar
-
-- **Tarraco Viva (mayo).** El gran festival de recreación histórica romana: la ciudad entera ambientada en el Imperio, con legionarios, gladiadores y talleres.
-- **Concurs de Castells (años impares, octubre).** Tarragona es capital mundial de los **castells** (torres humanas, Patrimonio Inmaterial): el concurso bienal es impresionante.
-- **Santa Tecla (septiembre).** Las fiestas mayores, con castells, correfocs y gigantes por el casco antiguo.
+1. **Verla de paso** o confundirla con Salou.
+2. **Pagar los monumentos uno a uno** en vez de la conjunta.
+3. **Venir en lunes** sin saber que los recintos romanos cierran.
+4. **Mezclar PortAventura y Tarraco** el mismo día.
+5. **Saltarse el Serrallo**, el acueducto y el atardecer en el Balcó.
 
 ## En una frase
 

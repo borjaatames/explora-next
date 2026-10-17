@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
 imagen_alt: "Vista del Castillo de Santa Bárbara sobre la bahía de Alicante"
-tiempo_lectura: 7
+tiempo_lectura: 4
 keywords:
   - "qué ver en alicante"
   - "alicante en un día"
@@ -23,7 +23,7 @@ slugs:
   de: was-sehen-in-alicante
 ---
 
-**Alicante se ve bien en uno o dos días** y es la mejor base de la Costa Blanca. Tiene sol más de 300 días al año, un castillo espectacular asomado al mar, un casco antiguo de callejuelas blancas y playa a un paso del centro. Esta guía cubre lo esencial de la ciudad y las escapadas de alrededor, y separa lo que merece la pena de lo que es pura postal de paquete turístico.
+**Alicante se ve bien en uno o dos días** y es la mejor base de la Costa Blanca: sol más de 300 días al año, un castillo colgado sobre el mar, un casco antiguo de callejas blancas y playa a pie del centro. La trampa es tratarla solo como aeropuerto de paso hacia Benidorm. Un día da para la ciudad; dos, para sumarle Tabarca o un pueblo de la costa.
 
 ## Reserva lo principal
 
@@ -36,101 +36,61 @@ slugs:
 | [Espectáculo flamenco en El Mentidero con opción de tapas](/ciudades/alicante/actividades/flamenco-alicante-tablao-el-mentidero) | 4,8★ (1.744) | 15 € |
 | [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
 
-La trampa de Alicante es tratarla solo como aeropuerto de la Costa Blanca, de paso hacia Benidorm. La ciudad tiene mucho más: el Castillo de Santa Bárbara, el barrio de Santa Cruz, una Explanada que es de las más bonitas del Mediterráneo y un museo arqueológico premiado. Un día da para la ciudad; dos, para sumarle Tabarca o un pueblo de la costa.
+## Cuándo ir y cómo llegar
 
-## Cuándo visitar Alicante
+**Abril-junio y septiembre-octubre** son ideales; de **noviembre a marzo** tiene uno de los inviernos más cálidos de España; julio y agosto, playa estupenda pero mediodías duros. Las **Hogueras de San Juan (20-24 de junio)** son la gran fiesta: monumentos de cartón que se queman, mascletàs y pólvora, como las Fallas en verano; si no vienes a por ellas, el alojamiento se dispara.
 
-| Época | Veredicto | Por qué |
-| --- | --- | --- |
-| Abril a junio | Ideal | Clima perfecto, mar templando, días largos |
-| Septiembre y octubre | Ideal | Agua aún caliente, menos gente, terrazas llenas |
-| 20-24 de junio | Hogueras | Fiesta brutal, pero la ciudad se llena del todo |
-| Julio y agosto | Calor | Playa estupenda; duro al mediodía y muy concurrido |
-| Noviembre a marzo | Suave | De los inviernos más cálidos de España; sin colas |
-
-> **⭐ Tip:** si no vienes expresamente a las **Hogueras de San Juan** (20-24 de junio), ten en cuenta que esos días la ciudad arde —literalmente: se queman las hogueras— y el alojamiento se dispara.
-
-## Cómo llegar y moverte
-
-**En AVE** desde Madrid en 2h 20min; la estación está a 15 minutos andando del centro. Desde Valencia, en algo menos de 2h. **En avión**, el aeropuerto Alicante-Elche está a 20 minutos en bus. Una vez allí, el centro se hace **a pie** y el **TRAM** (tranvía) conecta con la playa de San Juan y sube por la Costa Blanca norte hasta Benidorm. No necesitas coche para la ciudad.
+**AVE** desde Madrid en 2 h 20 (estación a 15 minutos a pie del centro); desde Valencia, menos de 2 h. Del **aeropuerto**, bus al centro en 20 minutos. El centro se hace a pie y el **TRAM** une el centro con la playa de San Juan y sube por la costa hasta Benidorm: no necesitas coche.
 
 ## Día 1: la ciudad
 
-| Hora | Actividad |
+| Hora | Qué |
 | --- | --- |
-| 9:30 — 11:30 | Castillo de Santa Bárbara |
-| 11:30 — 13:00 | Barrio de Santa Cruz y casco antiguo |
-| 13:00 — 14:00 | Explanada de España y puerto |
-| 14:00 — 16:00 | Comida (arroces) |
-| 16:30 — 18:00 | MARQ o Mercado Central |
-| 18:00 | Playa del Postiguet |
+| 9:30 | Castillo de Santa Bárbara (ascensor desde el Postiguet) |
+| 11:30 | Barrio de Santa Cruz, San Nicolás y Santa María |
+| 13:00 | Explanada de España y puerto |
+| 14:00 | Arroz |
+| 16:30 | MARQ, MACA o Mercado Central |
+| 18:00 | Baño en el Postiguet o TRAM a San Juan |
 
-**9:30 — Castillo de Santa Bárbara.** Empieza arriba, antes del calor. El **castillo**, sobre el monte Benacantil, es una de las fortalezas medievales más grandes de España, con vistas de 360° sobre la bahía. Sube en el **ascensor** que arranca frente a la playa del Postiguet (rápido y barato) o andando si te apetece la cuesta.
-
-**11:30 — Barrio de Santa Cruz.** Baja al **barrio de Santa Cruz**, de casas blancas, macetas y callejas empinadas bajo el castillo, y pasa por la **Concatedral de San Nicolás** y la **Basílica de Santa María**, la iglesia más antigua de la ciudad.
-
-**13:00 — Explanada y puerto.** Pasea por la **Explanada de España**, el paseo de palmeras con su **mosaico ondulado** de seis millones y medio de teselas, hasta el puerto y la marina.
-
-**14:00 — Comida.** Hora del arroz (ver abajo).
-
-**16:30 — Museos o mercado.** El **MARQ** (Museo Arqueológico, premiado como mejor museo de Europa) es de los mejores de España; el **MACA** reúne arte del siglo XX (Picasso, Dalí, Miró). Si prefieres ambiente, el **Mercado Central** modernista.
-
-**18:00 — Playa.** Cierra con un baño en la **playa del Postiguet**, a pie del centro, o coge el TRAM a la más larga de **San Juan**.
+El **castillo**, sobre el monte Benacantil, es una de las fortalezas medievales más grandes de España, con vistas de 360° sobre la bahía: sube antes del calor. Baja al **barrio de Santa Cruz**, de casas blancas, macetas y cuestas, y pasa por la **Concatedral de San Nicolás** y la **Basílica de Santa María**, la iglesia más antigua de la ciudad. La **Explanada**, el paseo de palmeras con su mosaico ondulado de seis millones y medio de teselas, te lleva al puerto. Por la tarde, el **MARQ** (Museo Arqueológico, premiado como mejor museo de Europa) o el **MACA** (Picasso, Dalí, Miró, gratis), y un baño para cerrar.
 
 ## Día 2: Tabarca o la Costa Blanca
 
-| Hora | Actividad |
-| --- | --- |
-| 10:00 | Barco a la Isla de Tabarca |
-| 11:00 — 16:00 | Tabarca: baño, snorkel y comida |
-| 17:00 | Vuelta a Alicante |
+Desde el puerto sale el barco a la **isla de Tabarca**, la habitada más pequeña de España y reserva marina: aguas cristalinas para snorkel, un pueblo amurallado y arroces frente al mar. Barco a las 10:00, vuelta a las 17:00; **con marejada se cancela**, comprueba antes. Horarios y consejos en la [guía de Tabarca](/guias/alicante/isla-de-tabarca-como-visitar).
 
-**Dedica el día a la Isla de Tabarca.** Desde el puerto sale el barco a la **Isla de Tabarca**, la isla habitada más pequeña de España y **reserva marina**: aguas cristalinas para snorkel, un pueblo amurallado y arroces frente al mar. Medio día o jornada completa.
+**Si prefieres la costa:** Altea (pueblo blanco con cúpulas azules), Calpe y el Peñón de Ifach, Jávea, Benidorm y sus parques, Guadalest sobre su embalse turquesa, o Elche y su palmeral Patrimonio de la Humanidad a 20 minutos.
 
-**Si prefieres la costa norte**, el TRAM o el coche te llevan a **Altea** (pueblo blanco con cúpulas azules), **Calpe** (el Peñón de Ifach), **Jávea**, el espectacular **Benidorm** y sus parques (Terra Mítica, Aqualandia) o el pueblo de montaña de **Guadalest**, sobre su embalse turquesa. A 20 minutos, **Elche** y su palmeral Patrimonio de la Humanidad.
+## Precios y horarios
 
-## Precios y horarios de lo imprescindible
+| Lugar | Precio | Horario |
+| --- | --- | --- |
+| Castillo de Santa Bárbara | Gratis; ascensor 2,70 € solo subida (a pie por la Ereta, 25 min) | 10:00-20:00 (22:00 en julio y agosto) |
+| MARQ | 3 €, gratis domingos y festivos; TRAM parada MARQ-Castillo | Ma-S 10:00-19:00, domingos mañana; cierra lunes |
+| MACA | Gratis | Cierra lunes |
+| Basílica de Santa María | 2-3 € en horario turístico; San Nicolás libre fuera de culto | |
+| Mercado Central | Gratis; aperitivo en la plaza 25 de Mayo desde las 12:30 | L-S 7:00-14:30 |
+| TRAM a San Juan | 1,45 €, 25 min, líneas 1, 3 y 4 desde Luceros o Mercado | Playa de 7 km con socorristas; el Postiguet, más pequeña y llena |
+| Tabarca | 25-30 € ida y vuelta | |
 
-- **Castillo de Santa Bárbara:** entrada gratuita; el ascensor desde la playa del Postiguet cuesta 2,70 € (solo subida; la bajada es gratis o andando). Abre todos los días de 10:00 a 20:00 (hasta las 22:00 en julio y agosto). Subir a pie por el parque de la Ereta son 25 minutos.
-- **MARQ:** 3 € (gratis los domingos y festivos), cierra los lunes; de martes a sábado de 10:00 a 19:00 y domingos solo mañana. Está a 15 minutos andando del centro o en tranvía hasta la parada MARQ-Castillo.
-- **MACA:** gratis, cierra los lunes.
-- **Concatedral de San Nicolás y Basílica de Santa María:** entrada libre fuera de los cultos; la basílica cobra 2-3 € en horario turístico.
-- **Mercado Central:** de lunes a sábado de 7:00 a 14:30; los bares de alrededor (la Plaza 25 de Mayo) se llenan de aperitivo a partir de las 12:30.
-- **TRAM a San Juan:** líneas 1, 3 y 4 desde Luceros o Mercado, 25 minutos, 1,45 € el trayecto. La playa de San Juan tiene 7 km, socorristas y chiringuitos; el Postiguet, a pie del centro, es más pequeña y más llena.
-- **Tabarca:** barco desde el puerto, 25-30 € ida y vuelta; mira la [guía de Tabarca](/guias/alicante/isla-de-tabarca-como-visitar) para horarios y estado del mar.
+## Dormir y comer
 
-## Dónde dormir
+Duerme en el **centro** (Explanada, casco antiguo, puerto): todo a pie y con noche. La **playa de San Juan** es ideal para playa larga y tranquila, a 15-20 minutos en TRAM. Evita urbanizaciones lejos del TRAM salvo que vengas en coche.
 
-Lo más práctico es el **centro** (entorno de la Explanada, el casco antiguo y el puerto): todo a pie y con ambiente de noche. La zona de **playa de San Juan** es ideal si buscas playa larga y tranquila, pero queda a 15-20 minutos en TRAM del centro. **Evita** alojarte en urbanizaciones lejos del TRAM salvo que vengas en coche.
+Alicante es tierra de **arroces**, y no solo paella: **a banda** (con caldo de pescado), **del senyoret** (todo pelado), caldoso y con costra. Suma **salazones** (mojama, hueva), coca y **turrón de Jijona**. Huye de las arrocerías de primera línea del puerto con fotos en la carta: una o dos calles hacia el casco antiguo y comes un arroz de verdad.
 
-## Comer en Alicante
+## Errores típicos
 
-Alicante es tierra de **arroces**, y no solo paella: prueba el **arroz a banda** (con caldo de pescado), el **arroz del senyoret** (todo pelado), el **caldoso** y el seco con costra. Suma los **salazones** (mojama, hueva), la **coca** y, de la zona, el **turrón de Jijona**. Para beber, vinos de la tierra y horchata de Alboraya en verano.
+1. **Tratar Alicante como aeropuerto** o confundirla con Benidorm.
+2. **Subir al castillo a pie a mediodía en verano.** Hay ascensor.
+3. **Pedir paella de marisco** esperando lo mejor: aquí mandan el a banda y el senyoret.
+4. **Saltarse Tabarca**, o ir sin mirar el mar.
+5. **No usar el TRAM.**
 
-> **⚠️ Aviso:** evita las arrocerías de la primera línea del puerto con fotos en la carta. Métete una o dos calles hacia el casco antiguo o pregunta por las de toda la vida, y comerás un arroz de verdad.
+## Eventos
 
-## Lo que NO recomendamos
-
-1. **Tratar Alicante como simple aeropuerto.** La ciudad merece al menos un día propio.
-2. **Pedir paella de marisco esperando lo mejor.** Aquí el rey es el arroz a banda y el del senyoret; pídelos donde sepan.
-3. **Subir al castillo a mediodía en verano andando.** Hay ascensor; úsalo y ahorra el sofocón.
-4. **Comer en primera línea del puerto.** Pagas más por menos.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **Saltarse Tabarca.** Es lo que hace distinta a Alicante frente a otras ciudades de playa.
-2. **No usar el TRAM.** Conecta centro, playas y Costa Blanca sin coche.
-3. **Confundir Alicante con Benidorm.** Son experiencias muy distintas; dales su sitio.
-4. **Ir a Tabarca sin mirar el mar.** Con marejada el barco se cancela; comprueba antes.
-
-## Eventos a cuadrar
-
-- **Hogueras de San Juan (20-24 de junio).** La gran fiesta alicantina: monumentos de cartón que se queman (las "hogueras"), mascletàs y pólvora, al estilo de las Fallas pero en verano. Espectacular, pero la ciudad se llena del todo.
-- **Moros y Cristianos.** En pueblos de la provincia (Alcoy es el más famoso), entre abril y mayo: desfiles históricos espectaculares.
-- **Semana Santa.** Procesiones por el casco antiguo.
+Además de las Hogueras: **Moros y Cristianos** en los pueblos de la provincia (Alcoy, entre abril y mayo) y Semana Santa por el casco antiguo.
 
 ## En una frase
 
-Alicante es castillo, casco antiguo y playa urbana, y la puerta perfecta a toda la Costa Blanca. En dos días ves la ciudad y le sumas una escapada a **Tabarca** o a un pueblo como Altea o Guadalest.
+Alicante es castillo, casco antiguo y playa urbana, y la puerta perfecta a toda la Costa Blanca: en dos días ves la ciudad y le sumas Tabarca o un pueblo como Altea o Guadalest.

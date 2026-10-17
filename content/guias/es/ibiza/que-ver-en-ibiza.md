@@ -8,7 +8,7 @@ fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-tiempo_lectura: 7
+tiempo_lectura: 4
 keywords:
   - "qué ver en ibiza"
   - "ibiza en dos días"
@@ -21,7 +21,7 @@ slugs:
   de: was-sehen-in-ibiza
 ---
 
-**Ibiza es famosa por la fiesta, pero tiene mucho más.** Detrás de las discotecas hay un casco histórico Patrimonio de la Humanidad, calas de agua turquesa, atardeceres de leyenda y la vecina Formentera a media hora en barco. El error del visitante medio es no salir de Playa d'en Bossa o San Antonio y reducir la isla a una pista de baile. Esta guía cubre la otra cara —que es la mayoritaria— sin renunciar a la noche si vienes a ello.
+**Ibiza es famosa por la fiesta, pero tiene mucho más:** un casco histórico Patrimonio de la Humanidad, calas de agua turquesa, atardeceres de leyenda y Formentera a media hora en barco. El error del visitante medio es no salir de Playa d'en Bossa o San Antonio. Esta guía cubre la otra cara, que es la mayoritaria, sin renunciar a la noche si vienes a ello.
 
 ## Reserva lo principal
 
@@ -33,88 +33,49 @@ slugs:
 | [Paseo en barco al atardecer con bebidas y baño](/ciudades/ibiza/actividades/barco-atardecer-ibiza-bebidas-bano) | 4,8★ (110) | 49 € |
 | [Ibiza–Formentera 360°: excursión en barco todo incluido](/ciudades/ibiza/actividades/excursion-barco-ibiza-formentera-todo-incluido) | — | 89,10 € |
 
-La isla es pequeña y se recorre rápido: el **este y el norte** son más tranquilos y rurales; el **suroeste** concentra las calas más bonitas y los atardeceres; **Eivissa** (la capital) guarda Dalt Vila y el puerto; y **San Antonio** es el epicentro del ocio. Con un coche o una moto y un buen reparto se ve todo en dos o tres días.
+## Cómo es la isla y cuántos días
 
-## Cuántos días necesitas
+Pequeña y rápida de recorrer: el **este y el norte**, rurales y tranquilos; el **suroeste**, las calas más bonitas y los atardeceres; **Eivissa**, Dalt Vila y el puerto; **San Antonio**, el ocio. **Dos días** dan para Dalt Vila una mañana, calas y Es Vedrà una tarde y Formentera un día entero; **tres** es el equilibrio: más calas, el norte y, si quieres, una noche de fiesta.
 
-Dos días dan para lo esencial: una mañana para **Dalt Vila** y el puerto, una tarde de **calas y atardecer** (Es Vedrà), y un día entero para **Formentera**. Tres días son el equilibrio perfecto: añades más calas, el norte rural y, si quieres, una noche de fiesta. Con una semana, te da para conocer las dos islas con calma.
+## Cuándo ir y cómo moverte
 
-## Cuándo visitar Ibiza
+**Mayo-junio y septiembre** son ideales (mar caliente, calas tranquilas, precios más bajos); **julio y agosto**, todo abierto pero masificado y carísimo; **octubre**, closing parties y buen clima; de noviembre a abril, isla auténtica con mucha costa cerrada.
 
-| Época | Veredicto | Por qué |
+Se llega **en avión** (aeropuerto a 7 km de la capital) o **en ferri** desde Barcelona, Valencia o Denia (unas 2 h en el rápido), ideal para llevar coche. En la isla, **alquila coche o moto** (40-60 € al día en temporada, reservado con semanas): sin vehículo se hacen la capital, San Antonio y Formentera, pero no las calas del norte ni Es Vedrà.
+
+## Qué ver
+
+- **Dalt Vila.** La ciudad alta amurallada, Patrimonio de la Humanidad: entra por el Portal de ses Taules y sube entre murallas renacentistas y callejas blancas hasta la **catedral** y el castillo, con vistas al puerto. Abajo, **La Marina** y **Sa Penya**: ambiente, moda Adlib y restaurantes.
+- **Calas del suroeste.** **Cala Comte** (de los mejores atardeceres), **Salada** y **Saladeta**, **Cala Bassa** y **Cala d'Hort** frente a **Es Vedrà**, la roca de las leyendas. El atardecer desde Cala d'Hort o el **Mirador des Savinar** es la postal de Ibiza: en verano, llega una hora antes. En el norte, **Benirràs** y sus tambores los domingos al atardecer.
+- **Formentera.** A media hora en ferri (30-55 € ida y vuelta), playas caribeñas como **Ses Illetes**, **Migjorn** o **Cala Saona**; alquila moto o bici hasta el faro de **La Mola**. Dedícale el día entero y, en agosto, sal a primera hora. Más en la [guía de Formentera](/guias/ibiza/formentera-desde-ibiza).
+- **La fiesta**, si vienes a ello: Pacha, Amnesia, Ushuaïa, Hï, DC10 y las fiestas en barco, de junio a septiembre. Entradas online y con antelación; opening (mayo-junio) y closing parties (octubre) tienen los mejores carteles.
+
+## Precios y horarios
+
+| Qué | Precio | Notas |
 | --- | --- | --- |
-| Mayo y junio | Ideal | Buen tiempo, calas tranquilas, precios más bajos |
-| Septiembre | Ideal | Mar caliente, menos gente, fiesta aún activa |
-| Julio y agosto | Fiesta a tope | Todo abierto, pero masificado y carísimo |
-| Octubre | Tranquilo | Closing parties y buen clima; algo cierra |
-| Noviembre a abril | Muy tranquilo | Isla auténtica, pero mucho ocio y costa cerrados |
+| Dalt Vila y murallas | Gratis | Catedral sin entrada fuera del culto; MACE (Portal de ses Taules) gratis, con restos fenicios bajo cristal |
+| Museo Arqueológico · Puig des Molins | 2,40 € cada uno | La mayor necrópolis fenicio-púnica del Mediterráneo, casi siempre vacía; cierra lunes |
+| Aparcar en Eivissa | Zona azul 2 €/h; parkings Vara de Rey y puerto 20-25 €/día | En temporada, disuasorio de Es Gorg + bus |
+| Bus línea 3 Eivissa-San Antonio | 2,50 €, cada 15-30 min | Líneas de playas solo de mayo a octubre |
+| Discobus nocturno | 4 € | Junio-septiembre, capital, Bossa y San Antonio |
+| Mercadillos | Gratis | Las Dalias (Sant Carles) sábados 10:00-20:00 y noches de verano; Punta Arabí (Es Canar) miércoles de abril a octubre |
 
-> **⭐ Tip:** los atardeceres famosos (Cala Comte, Benirràs, el Sunset Strip de San Antonio) se llenan en verano. Llega con una hora de antelación para coger sitio, o ve fuera de temporada alta.
+## Dormir y comer
 
-## Cómo llegar y moverte
+**Eivissa capital** es la base más versátil; **Santa Eulària** y el **norte** (San Juan), para calma y calas; **San Antonio** y **Playa d'en Bossa**, solo si vienes a la fiesta.
 
-**En avión**, el aeropuerto de Ibiza está a 7 km de la capital (bus o taxi). **En ferri** desde Barcelona, Valencia o Denia (el rápido desde Denia tarda unas 2h), opción ideal si quieres llevar coche.
+Cocina marinera y payesa: **bullit de peix** (guiso de pescado con arroz a banda), **sofrit pagès**, **flaó** (tarta de queso y hierbabuena), **greixonera** y **hierbas ibicencas**. Busca restaurantes de pueblo y chiringuitos de cala con producto local. Los beach clubs de moda exigen reserva y consumo mínimo alto; si solo quieres bañarte, cala pública con agua y sombra propias.
 
-Una vez en la isla, **alquila coche o moto**: las calas y miradores se llegan mal en transporte público. Hay buses entre los pueblos grandes, pero los taxis escasean y se encarecen en verano. Reserva el vehículo con antelación: vuela en temporada alta.
+## Errores típicos
 
-## Dalt Vila y la capital
-
-Empieza por **Dalt Vila**, la ciudad alta amurallada, **Patrimonio de la Humanidad**: entra por el **Portal de ses Taules**, sube entre **murallas renacentistas** y callejas blancas hasta la **catedral** y el castillo, con vistas sobre el puerto. Por el camino, el **Museo Arqueológico** y la necrópolis púnica del **Puig des Molins**. Abajo, los barrios marineros de **La Marina** y **Sa Penya** concentran el ambiente, las tiendas de moda Adlib y los restaurantes.
-
-## Calas y Es Vedrà
-
-La costa **suroeste** reúne las calas más fotogénicas: **Cala Comte** (de los mejores atardeceres), **Cala Salada** y **Cala Saladeta**, **Cala Bassa** y **Cala d'Hort**, frente al islote de **Es Vedrà**, la roca envuelta en leyendas que preside las puestas de sol. El atardecer desde Cala d'Hort o desde el **Mirador des Savinar**, con Es Vedrà al fondo, es la postal de Ibiza. En el norte, **Benirràs** reúne tambores al atardecer los domingos.
-
-## Formentera
-
-A media hora en ferry (desde el puerto de Ibiza o Playa d'en Bossa), la isla vecina tiene playas de agua caribeña como **Ses Illetes**, **Migjorn** o **Cala Saona**. Alquila moto o bici y recórrela hasta el faro de **La Mola**. Es la excursión imprescindible: un día entero la disfruta mucho mejor que medio.
-
-## Y la fiesta, si vienes a ello
-
-Si la noche es tu plan, Ibiza tiene las discotecas más famosas del mundo —**Pacha, Amnesia, Ushuaïa, Hï, DC10**— y las fiestas en barco, en su salsa de junio a septiembre. Las entradas vuelan y los precios son altos: compra online y con antelación.
-
-## Precios y horarios de lo imprescindible
-
-- **Dalt Vila:** pasear por las murallas y las callejas es gratis y a cualquier hora. La **catedral** no cobra entrada fuera del culto; el **Museo Arqueológico** (junto a la catedral) cuesta 2,40 €, y el **Castillo-Almudaina**, en lo alto, abre por temporadas. El **Museo de Arte Contemporáneo** (MACE), en el Portal de ses Taules, es gratuito y tiene restos fenicios bajo el suelo de cristal.
-- **Necrópolis de Puig des Molins:** 2,40 €, cierra los lunes. La mayor necrópolis fenicio-púnica del Mediterráneo, a 10 minutos andando de Dalt Vila y casi siempre vacía.
-- **Aparcar en Eivissa:** el casco es peatonal y la zona azul del puerto cuesta 2 € la hora; los aparcamientos subterráneos de Vara de Rey y del puerto, 20-25 € el día. En temporada, deja el coche en el aparcamiento disuasorio de Es Gorg y entra en autobús.
-- **Autobuses:** la línea 3 une Eivissa con San Antonio cada 15-30 minutos (2,50 €); las líneas de playas (Cala Comte, Cala Bassa, Ses Salines) solo de mayo a octubre. El **Discobus** nocturno funciona de junio a septiembre entre la capital, Playa d'en Bossa y San Antonio por 4 €.
-- **Ferry a Formentera:** 30-55 € ida y vuelta, 30 minutos; mira la [guía de Formentera](/guias/ibiza/formentera-desde-ibiza).
-- **Mercadillos:** Las Dalias (San Carlos) los sábados de 10:00 a 20:00 todo el año y también las noches de verano; Punta Arabí (Es Canar) los miércoles de abril a octubre.
-- **Coche de alquiler:** 40-60 € el día en temporada, reservado con semanas. Sin coche, la isla se hace en autobús y barco, pero no las calas del norte ni Es Vedrà.
-
-## Dónde dormir
-
-**Eivissa capital** es la base más versátil: Dalt Vila, puerto y bien conectada. **Santa Eulària** y el **norte** (San Juan) son ideales para tranquilidad y calas. **San Antonio** y **Playa d'en Bossa** son el epicentro del ocio (ruidosos de noche). **Evita** Playa d'en Bossa si buscas calma; elígela solo si vienes a la fiesta.
-
-## Comer en Ibiza
-
-La cocina ibicenca es marinera y payesa. Prueba el **bullit de peix** (guiso de pescado servido con arroz a banda), el **guisat de peix**, el **sofrit pagès** y, de postre, el **flaó** (tarta de queso fresco y hierbabuena) o la **greixonera**. De digestivo, las **hierbas ibicencas**. Busca los restaurantes de pueblo y los chiringuitos de cala con producto local, lejos de las cartas internacionales del paseo.
-
-> **⚠️ Aviso:** muchos beach clubs de moda exigen reserva y consumo mínimo alto. Si solo quieres bañarte, busca calas públicas (Salada, Comte) y lleva agua y sombra: en verano no hay sitio.
-
-## Lo que NO recomendamos
-
-1. **Reducir Ibiza a la fiesta.** Te pierdes Dalt Vila, las calas y Formentera, que son lo mejor.
-2. **Ir a Formentera medio día en agosto.** El ferry y las playas se llenan; ve a primera hora y dedícale el día.
-3. **Conducir de noche tras la fiesta.** Hay muchos controles y accidentes; usa taxi o bus discoteca.
-4. **Hacer la isla sin vehículo.** Las mejores calas quedan lejos del bus.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **No reservar coche, ferry ni entradas en verano.** Todo se agota y se dispara de precio.
-2. **Quedarte solo en Playa d'en Bossa.** Es la cara más turística; la isla auténtica está fuera.
-3. **Saltarte Es Vedrà al atardecer.** Es la imagen que define Ibiza.
-4. **Bañarte sobre la posidonia sin cuidado.** Las praderas submarinas (Patrimonio de la Humanidad) son las que dan el agua cristalina; respétalas.
-
-## Eventos a cuadrar
-
-- **Opening y closing parties (mayo-junio y octubre).** El arranque y el cierre de temporada de las grandes discotecas, con los mejores carteles.
-- **Mercadillos hippies.** **Las Dalias** (Sant Carles) y **Punta Arabí** (Es Canar) mantienen vivo el espíritu de la isla.
-- **Fiesta de la Tierra (agosto).** Las fiestas patronales de Eivissa, con actos por Dalt Vila.
+1. **Reducir Ibiza a la fiesta** o quedarse en Playa d'en Bossa.
+2. **No reservar coche, ferri ni entradas en verano.** Todo se agota.
+3. **Formentera medio día en agosto.**
+4. **Conducir de noche tras la fiesta:** controles y accidentes; Discobus o taxi.
+5. **Saltarse Es Vedrà al atardecer.**
+6. **Pisar la posidonia:** las praderas (Patrimonio de la Humanidad) son las que dan el agua cristalina.
 
 ## En una frase
 
-Ibiza es Dalt Vila, calas turquesa, Formentera y atardeceres de postal; la fiesta es solo una parte. En dos o tres días ves ambas caras de la isla sin renunciar a ninguna.
+Ibiza es Dalt Vila, calas turquesa, Formentera y atardeceres de postal; la fiesta es solo una parte. En dos o tres días ves ambas caras sin renunciar a ninguna.

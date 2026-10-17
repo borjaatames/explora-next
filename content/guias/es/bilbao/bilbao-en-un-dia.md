@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
 imagen_alt: "Vista de Bilbao con el Museo Guggenheim junto a la ría"
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - "qué ver en bilbao"
   - "bilbao en un día"
@@ -23,7 +23,7 @@ slugs:
   de: bilbao-in-einem-tag
 ---
 
-**Bilbao se ve bien en un día**, con el **Guggenheim** como gran reclamo y un Casco Viejo de pintxos imbatible. La ciudad protagonizó una de las transformaciones urbanas más famosas del mundo —el "efecto Guggenheim"—, pasando de gris industrial a icono del diseño, y hoy se recorre a pie siguiendo la ría. Esta guía cubre lo esencial y separa lo que merece la pena de lo que es relleno.
+**Bilbao se ve bien en un día**, con el **Guggenheim** como gran reclamo y un Casco Viejo de pintxos imbatible. La ciudad protagonizó una de las transformaciones urbanas más famosas del mundo, de gris industrial a icono del diseño, y se recorre a pie siguiendo la ría. La gracia es el contraste: el titanio de Gehry a un lado, las Siete Calles medievales al otro y una de las mejores barras de Europa de fondo. Quien lo ve con prisa se queda en la foto del museo; quien se queda a comer y sube a Artxanda se lleva la ciudad.
 
 ## Reserva lo principal
 
@@ -36,92 +36,59 @@ slugs:
 | [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 17 € |
 | [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
 
-La gracia de Bilbao es el contraste: el titanio futurista de Gehry a un lado de la ría, las Siete Calles medievales al otro, y una de las mejores barras de pintxos de Europa de fondo. Quien lo ve con prisa se queda en la foto del museo; quien se queda a comer y a subir a Artxanda se lleva la ciudad entera.
+## Cuándo ir y cómo moverte
 
-## Cuándo visitar Bilbao
+**Mayo, junio y septiembre** son ideales; julio y agosto, buen tiempo y fiestas (la **Aste Nagusia** de agosto, con Marijaia, conciertos y fuegos, es un fiestón a tope; el **BBK Live** en julio); de octubre a abril, verde y con **sirimiri**, la llovizna fina que no estropea nada: el Guggenheim y la barra son a prueba de lluvia.
 
-| Época | Veredicto | Por qué |
-| --- | --- | --- |
-| Mayo, junio y septiembre | Ideal | Clima más seco y amable, días largos |
-| Julio y agosto | Bueno | Buen tiempo y fiestas; algo más de gente |
-| Aste Nagusia (agosto) | Fiestón | La Semana Grande; ambiente brutal pero a tope |
-| Octubre a abril | Lluvioso | Verde y auténtico; lleva paraguas para el sirimiri |
+El **aeropuerto de Loiu** está a 12 minutos en bus. En tren, cuenta con más tiempo que en otras ciudades: la alta velocidad vasca sigue en obras. Dentro, **metro** (los «fosteritos» de Norman Foster), tranvía y el funicular de Artxanda; el centro se hace a pie por la ría. La tarjeta **Barik** (3 €) sirve para todo y baja cada viaje de 1,90 € a 0,90-1,30 €; se comparte.
 
-> **⭐ Tip:** en Bilbao cae a menudo el *sirimiri*, esa llovizna fina típica del Cantábrico. No estropea el plan: el Guggenheim, los museos y la barra de pintxos son a prueba de lluvia. Lleva chubasquero y a por todas.
+## La ruta del día
 
-## Cómo llegar y moverte
-
-**En avión**, el aeropuerto de Loiu está a 12 minutos del centro (bus). **En tren y autobús** llega bien desde Madrid y el norte (la alta velocidad vasca aún está en obras, así que el tren es más lento que el AVE de otras ciudades). Una vez allí, Bilbao tiene un **metro** excelente (las entradas "fosteritos" de Norman Foster), **tranvía**, y el **funicular de Artxanda** para subir al mirador. El centro se hace a pie siguiendo la ría. Combina muy bien con **San Sebastián** y la costa vasca.
-
-## La ruta de un día con criterio
-
-| Hora | Actividad |
+| Hora | Qué |
 | --- | --- |
-| 9:30 — 12:00 | Museo Guggenheim |
-| 12:00 — 12:30 | Paseo por la ría y Zubizuri |
-| 12:30 — 14:00 | Casco Viejo y las Siete Calles |
-| 14:00 — 16:00 | Pintxos en la Plaza Nueva |
-| 16:30 — 17:30 | Mercado de la Ribera y Ensanche |
-| 18:00 | Funicular de Artxanda (panorámica) |
+| 9:30 | Guggenheim |
+| 12:00 | Ría y puente Zubizuri |
+| 12:30 | Casco Viejo y Siete Calles |
+| 14:00 | Pintxos en la Plaza Nueva |
+| 16:30 | Mercado de la Ribera y Ensanche |
+| 18:00 | Funicular de Artxanda al atardecer |
 
-**9:30 — Museo Guggenheim.** Empieza por el **Guggenheim** de Frank Gehry, el edificio de titanio que cambió la ciudad. Fuera, sin entrar, ya disfrutas del **'Puppy'** (el perro de flores de Jeff Koons), la araña **'Maman'** de Louise Bourgeois y la escultura de niebla. Dentro, no te pierdas 'La materia del tiempo' de Richard Serra. Calcula 2h-2h 30min.
+- **Guggenheim.** Fuera, gratis: el *Puppy* de Koons, la araña *Maman* de Bourgeois, la niebla y el fuego al anochecer. Dentro, *La materia del tiempo* de Richard Serra. Dos horas y media.
+- **La ría del Nervión** y el puente blanco **Zubizuri** de Calatrava.
+- **Casco Viejo:** las **Siete Calles**, origen medieval de la villa, la catedral de Santiago y el Teatro Arriaga.
+- **Mercado de la Ribera**, de los mayores cubiertos de Europa, y el **Ensanche**: Gran Vía, Moyúa y el **Azkuna Zentroa** de Starck, con su atrio de 43 columnas y la piscina de suelo de cristal vista desde abajo.
+- **Artxanda:** la mejor panorámica de Bilbao encajado entre montañas, y casi nadie sube.
 
-**12:00 — La ría.** Pasea junto a la **ría del Nervión**, cruza el puente blanco **Zubizuri** de Calatrava y disfruta del Bilbao reconvertido a orillas del agua.
+## Precios y horarios
 
-**12:30 — Casco Viejo.** Cruza al **Casco Viejo** y sus **Siete Calles** (Zazpi Kaleak), el origen medieval de la villa, con la catedral de Santiago y el Teatro Arriaga.
-
-**14:00 — Pintxos.** Hora de la barra (ver abajo): la **Plaza Nueva** porticada es el epicentro.
-
-**16:30 — Mercado y Ensanche.** Asómate al **Mercado de la Ribera**, de los mayores mercados cubiertos de Europa, y cruza al **Ensanche** (la Gran Vía, la Plaza Moyúa y el centro cultural **Azkuna Zentroa** de Philippe Starck).
-
-**18:00 — Artxanda.** Sube en el **funicular de Artxanda** para la mejor panorámica de Bilbao encajado entre montañas, ideal al atardecer.
-
-## Precios y horarios de lo imprescindible
-
-- **Guggenheim:** 18 € con audioguía, menores de 18 gratis; de martes a domingo de 10:00 a 19:00 (20:00 en verano), **cierra los lunes** salvo en julio y agosto. Compra online con franja; en temporada, la taquilla tiene cola. Las esculturas de fuera (Puppy, Maman, la niebla y el fuego al anochecer) son gratis.
-- **Funicular de Artxanda:** 2,50 € el trayecto, cada 15 minutos de 7:15 a 22:00 (23:00 en verano). Arriba hay mirador, parque y un par de restaurantes para cenar con vistas.
-- **Mercado de la Ribera:** de lunes a sábado por la mañana, de 8:00 a 14:30; los puestos de pintxos y la gastroteca de la planta baja siguen hasta las 23:00 de jueves a sábado y abren los domingos.
-- **Azkuna Zentroa:** la entrada al edificio y al atrio de las 43 columnas es gratuita; la piscina con suelo de cristal se ve desde abajo sin pagar.
-- **Catedral de Santiago:** 6 € con audioguía y claustro, gratis para rezar fuera del horario turístico.
-- **Museo de Bellas Artes:** gratis para menores de 25 y para todos a partir de las 18:00 (consúltalo, cambia con las obras de ampliación); cierra los martes.
-- **Barik:** la tarjeta de transporte (3 €) sirve para metro, tranvía, autobús y funicular, y baja cada viaje de 1,90 € a 0,90-1,30 €. Se comparte entre varias personas.
+| Lugar | Precio | Horario |
+| --- | --- | --- |
+| Guggenheim | 18 € con audioguía, gratis menores de 18; online con franja (cola en taquilla) | Ma-D 10:00-19:00 (20:00 verano); **cierra lunes** salvo julio y agosto |
+| Funicular de Artxanda | 2,50 € trayecto, cada 15 min | 7:15-22:00 (23:00 verano) |
+| Mercado de la Ribera | Gratis; gastroteca J-S hasta las 23:00 y domingos | L-S 8:00-14:30 |
+| Azkuna Zentroa | Gratis | |
+| Catedral de Santiago | 6 € con audioguía y claustro | |
+| Museo de Bellas Artes | Gratis menores de 25 y para todos desde las 18:00 (cambia con las obras) | Cierra martes |
 
 ## Alrededores
 
-A media hora, **San Juan de Gaztelugatxe** (el Rocadragón de *Juego de Tronos*), una ermita sobre un islote al que se sube por 241 escalones. En la ría, el **Puente Bizkaia** (Puente Colgante) de Portugalete, Patrimonio de la Humanidad. Cerca también, **Getxo**, la reserva de **Urdaibai**, **Gernika** y **San Sebastián** a una hora.
+A media hora, **San Juan de Gaztelugatxe** (el Rocadragón de *Juego de Tronos*), ermita sobre un islote con 241 escalones y **reserva gratuita obligatoria**. En la ría, el **Puente Bizkaia** de Portugalete, Patrimonio de la Humanidad. Cerca, Getxo, Urdaibai, Gernika y **San Sebastián** a una hora.
 
-## Dónde dormir
+## Dormir y comer
 
-Lo más práctico es el **Casco Viejo** (ambiente y pintxos a pie de calle) o el **Ensanche** (más moderno, junto al Guggenheim y bien comunicado). Ambos están conectados por metro y a un paseo por la ría. **Evita** alojarte lejos del centro: Bilbao se vive caminando entre las dos orillas.
+Duerme en el **Casco Viejo** (pintxos a pie de calle) o en el **Ensanche** (junto al Guggenheim): están a un paseo por la ría.
 
-## Comer en Bilbao
+Ve con hambre. El **pintxo** se toma de barra en barra (txikiteo) por la Plaza Nueva, el Casco Viejo y el Ensanche: **Gilda**, **bacalao al pil-pil** o a la vizcaína, **txuleta**, **marmitako**, **kokotxas**, con **txakoli** escanciado o un Rioja Alavesa. Los mejores pintxos no están en la barra: pregunta por la pizarra de calientes y muévete entre varios bares.
 
-Bilbao es una de las capitales gastronómicas de Europa: ve con hambre. La estrella es el **pintxo**, que aquí se toma de barra en barra (txikiteo) por la **Plaza Nueva**, el Casco Viejo y el Ensanche. No te pierdas la **Gilda** (el pintxo de guindilla, aceituna y anchoa), el **bacalao al pil-pil** o **a la vizcaína**, la **txuleta** (chuletón a la brasa), el **marmitako** y las **kokotxas**. Para beber, **txakoli** (escanciado desde alto) o un Rioja Alavesa de al lado.
+## Errores típicos
 
-> **⚠️ Aviso:** los mejores pintxos no siempre están a la vista en la barra; muchos se piden en caliente y al momento. Pregunta por la pizarra del día y muévete entre varios bares en vez de quedarte en uno solo.
-
-## Lo que NO recomendamos
-
-1. **Quedarte solo en la foto del Guggenheim.** El Casco Viejo y los pintxos son media ciudad.
-2. **Comer en un único bar.** La gracia es el txikiteo: un pintxo y un txikito por local.
-3. **Saltarte Artxanda.** Es la mejor vista y casi nadie sube.
-4. **Renunciar al plan si cae sirimiri.** Casi todo es bajo techo o a prueba de lluvia.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **No reservar la entrada del Guggenheim en temporada.** Las colas pueden ser largas.
-2. **Confundir Bilbao con un destino solo de museo.** La gastronomía está a su altura.
-3. **Ir a Gaztelugatxe sin entrada.** El acceso se regula con reserva gratuita; compruébalo antes.
-4. **Esperar tren de alta velocidad como en otras ciudades.** Aún está en obras; cuenta con más tiempo o vuela.
-
-## Eventos a cuadrar
-
-- **Aste Nagusia / Semana Grande (agosto).** La gran fiesta de Bilbao, con la figura de **Marijaia**, conciertos, fuegos y ambiente brutal en toda la ciudad.
-- **BBK Live (julio).** Uno de los grandes festivales de música del norte, en el monte Cobetas.
-- **Partidos del Athletic en San Mamés.** "La Catedral" del fútbol; un día de partido cambia el ambiente de la ciudad.
+1. **Quedarse en la foto del Guggenheim.**
+2. **No reservar la entrada** en temporada, o venir en lunes.
+3. **Comer en un único bar.**
+4. **Saltarse Artxanda.**
+5. **Gaztelugatxe sin reserva.**
+6. **Renunciar al plan por el sirimiri.**
 
 ## En una frase
 
-Bilbao en un día es Guggenheim, ría y pintxos: arquitectura de vanguardia y la mejor barra del norte. Con más tiempo, **Gaztelugatxe** y **San Sebastián** completan un viaje redondo por el País Vasco.
+Bilbao en un día es Guggenheim, ría y pintxos: vanguardia y la mejor barra del norte. Con más tiempo, Gaztelugatxe y San Sebastián redondean el País Vasco.

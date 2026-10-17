@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
 imagen_alt: "Monumento a la Constitución de 1812 en la Plaza de España de Cádiz"
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - "qué ver en cádiz"
   - "cádiz en un día"
@@ -23,7 +23,7 @@ slugs:
   de: cadiz-in-einem-tag
 ---
 
-**Cádiz se ve bien en un día.** Está casi rodeada de mar en una península estrecha, así que el casco antiguo es compacto y se recorre a pie de plaza en plaza, con el Atlántico siempre asomando al fondo de las calles. Esta guía cubre lo esencial de la ciudad más antigua de Occidente —fundada por los fenicios hace más de tres mil años— sin prisas, y deja claro qué merece la pena y qué es relleno.
+**Cádiz se ve bien en un día.** Está casi rodeada de mar en una península estrecha, así que el casco antiguo se recorre a pie de plaza en plaza, con el Atlántico asomando al fondo de cada calle. La clave no es un monumento, es la **luz** y el **mar por los cuatro costados** de la ciudad más antigua de Occidente. Quien la ve de paso desde Sevilla se lleva media ciudad; quien se queda al atardecer en La Caleta se lleva la mejor mitad.
 
 ## Reserva lo principal
 
@@ -36,90 +36,56 @@ slugs:
 | [Jerez: visita a la Yeguada de la Cartuja con exhibición](/ciudades/cadiz/actividades/yeguada-de-la-cartuja-jerez) | 4,8★ (1.073) | 20 € |
 | [Excursión a los pueblos blancos de la Sierra](/ciudades/cadiz/actividades/excursion-pueblos-blancos-desde-cadiz) | 4,6★ (58) | 68 € |
 
-La clave de Cádiz no es un monumento, es la **luz** y el **mar por los cuatro costados**. Es la "Tacita de Plata", una ciudad de salero, freidurías y atardeceres en La Caleta. Quien la ve solo de paso desde Sevilla se lleva media ciudad; quien se queda al atardecer se lleva la otra mitad, que es la mejor.
+## Cuándo ir y cómo llegar
 
-## Cuándo visitar Cádiz
+**Abril-junio y septiembre-octubre** son ideales; julio y agosto, playa estupenda con mucha gente; de noviembre a enero, suave y barato. El **Carnaval** (febrero/marzo) es de los más famosos del mundo (chirigotas, comparsas, el Teatro Falla), pero la ciudad se colapsa. Ojo al **levante**: un día de viento de tierra deja la playa imposible; mira el parte y ten plan B de casco antiguo.
 
-| Época | Veredicto | Por qué |
-| --- | --- | --- |
-| Abril a junio | Ideal | Clima perfecto, mar templando, días largos |
-| Septiembre y octubre | Ideal | Calor amable, agua aún caliente, menos gente |
-| Febrero (Carnaval) | Único | El mejor carnaval de España, pero la ciudad se colapsa |
-| Julio y agosto | Bien | Playa estupenda; mucha gente y levante a ratos |
-| Noviembre a enero | Tranquilo | Suave y barato; algún día de viento o lluvia |
+**Tren** desde Sevilla en 1 h 40 (Media Distancia, 16 €) y desde Jerez en 40 minutos, con la estación dentro del casco antiguo. Todo se hace a pie: el casco mide 2 km de punta a punta.
 
-> **⭐ Tip:** el **levante** (viento de tierra) puede deslucir un día de playa en cualquier estación. Si tu plan depende de La Caleta o La Victoria, mira el parte del viento antes de ir.
+## La ruta del día
 
-## Cómo llegar
-
-**En tren** desde Sevilla en 1h 40min y desde Jerez en 40 minutos, con la estación pegada al casco antiguo. Es una excursión cómoda desde Sevilla o una base estupenda para recorrer la provincia: **Jerez** (vino y caballos), **Tarifa** (viento y ferry a Tánger) y las playas de la **Costa de la Luz**. En la ciudad no necesitas coche: el casco antiguo se hace entero a pie.
-
-## La ruta de un día con criterio
-
-| Hora | Actividad |
+| Hora | Qué |
 | --- | --- |
-| 9:30 — 10:30 | Catedral y Torre del Reloj |
-| 10:30 — 11:30 | Barrio del Pópulo y Teatro Romano |
-| 11:30 — 12:30 | Torre Tavira y cámara oscura |
-| 12:30 — 14:00 | Plazas y Mercado Central |
-| 14:00 — 16:00 | Comida en La Viña |
-| 16:30 — 18:30 | La Caleta y los castillos al atardecer |
+| 9:30 | Catedral y Torre del Reloj |
+| 10:30 | Barrio del Pópulo y Teatro Romano |
+| 11:30 | Torre Tavira y cámara oscura |
+| 12:30 | Plazas y Mercado Central |
+| 14:00 | Pescaíto en La Viña |
+| 16:30 | La Caleta y los castillos al atardecer |
 
-**9:30 — Catedral.** Empieza en la **Catedral**, con su cúpula amarilla frente al Atlántico. Sube a la **Torre del Reloj** (Torre de Poniente) para ver la ciudad ceñida por el mar y baja a la cripta, donde reposa el compositor **Manuel de Falla**. 45 minutos.
+- **Catedral**, con su cúpula amarilla frente al Atlántico: sube a la **Torre del Reloj** (por rampa) para ver la ciudad ceñida por el mar y baja a la cripta donde reposa **Manuel de Falla**.
+- **El Pópulo**, el barrio medieval con sus tres puertas, y el **Teatro Romano de Gades**, de los mayores de Hispania.
+- **Torre Tavira**, la más alta de las atalayas que dejó el comercio con América: su **cámara oscura** proyecta la ciudad en directo y es la mejor forma de entender una isla erizada de torres miradoras.
+- **Las plazas** (San Antonio, Mina con el Museo de Cádiz y sus sarcófagos fenicios, Topete, las Flores) y el **Mercado Central**, el más antiguo de España.
+- **La Caleta**, la cala entre los castillos de San Sebastián y Santa Catalina (la «Habana» de *Muere otro día*). El atardecer con el balneario de la Palma y el sol cayendo en el Atlántico es la postal de Cádiz.
 
-**10:30 — Barrio del Pópulo.** Piérdete por el **Pópulo**, el barrio medieval más antiguo, con sus tres puertas conservadas, y asómate al **Teatro Romano de Gades**, uno de los mayores de Hispania (entrada gratuita).
+## Precios y horarios
 
-**11:30 — Torre Tavira.** Sube a la **Torre Tavira**, la atalaya más alta de las muchas que dejó el comercio con América. Su **cámara oscura** proyecta la ciudad en directo y es la mejor forma de entender el plano: una isla erizada de torres miradoras.
+| Lugar | Precio | Horario |
+| --- | --- | --- |
+| Catedral + Torre del Reloj + museo | 8 € con audioguía (6 € reducida, gratis menores de 12) | L-S 10:00-19:00 (20:00 verano), domingos tarde |
+| Torre Tavira | 8 €; sesiones de cámara oscura cada 30 min, 20 min con guía; 173 escalones | 10:00-18:00 (20:00 verano) |
+| Teatro Romano | Gratis | Ma-D mañanas; cierra lunes |
+| Museo de Cádiz | Gratis UE, 1,50 € resto | Cierra lunes y tardes de verano |
+| Castillo de Santa Catalina | Gratis (San Sebastián solo por fuera) | 11:00-20:30 (21:30 verano) |
+| Mercado Central | Gratis; Rincón Gastronómico J-S hasta las 23:00 | L-S 9:00-15:00 |
+| Oratorios de la Santa Cueva (Goya) y San Felipe Neri (Constitución de 1812) | 4-5 € cada uno | Mañanas, Ma-D |
 
-**12:30 — Plazas y mercado.** Pasea por las **plazas** —San Antonio, Mina (con el Museo de Cádiz y sus sarcófagos fenicios), Topete o de las Flores— y entra en el **Mercado Central de Abastos**, el más antiguo de España, con su Rincón Gastronómico para picar.
+## Dormir y comer
 
-**14:00 — Comida.** Hora del pescaíto (ver abajo).
+Si te quedas, duerme en el **casco antiguo** (Catedral, Pópulo, plaza de San Antonio): todo a pie y ambiente gaditano de noche. La **playa de la Victoria**, en la ciudad nueva, es práctica para playa urbana pero queda lejos del encanto.
 
-**16:30 — La Caleta.** Termina en la **playa de La Caleta**, la cala entre los castillos de **San Sebastián** y **Santa Catalina** (la "Habana" de la película de James Bond *Muere otro día*). El atardecer aquí, con el balneario de la Palma y el sol cayendo en el Atlántico, es la mejor postal de Cádiz.
+Cocina marinera y de fritura: **pescaíto frito**, **tortillitas de camarones**, **cazón en adobo** y, en temporada, **atún rojo de almadraba**, con una **manzanilla** de Sanlúcar o un **fino** fríos. Dónde: el barrio de **La Viña**, cuna del Carnaval, y las freidurías del **Mercado Central**, donde compras el pescado y te lo fríen. Huye de las terrazas frente a la Catedral.
 
-## Precios y horarios de lo imprescindible
+## Errores típicos
 
-- **Catedral:** 8 € con audioguía, torre del Reloj y museo incluidos (6 € reducida, gratis menores de 12). De lunes a sábado de 10:00 a 19:00 (hasta las 20:00 en verano) y domingos por la tarde. La subida a la torre es por rampa, sin escaleras.
-- **Torre Tavira:** 8 €, con sesiones de la cámara oscura cada 30 minutos de 10:00 a 18:00 (20:00 en verano); las explica un guía y duran 20 minutos. Son 173 escalones sin ascensor.
-- **Teatro Romano:** gratis, de martes a domingo por la mañana; cierra los lunes.
-- **Museo de Cádiz** (plaza de Mina): gratis para ciudadanos de la UE, 1,50 € el resto; cierra los lunes y las tardes de verano. Los sarcófagos fenicios están en la planta baja.
-- **Castillo de Santa Catalina:** gratis, abierto de 11:00 a 20:30 (hasta las 21:30 en verano). El de San Sebastián, al final del paseo de La Caleta, solo se visita por fuera.
-- **Mercado Central:** de lunes a sábado de 9:00 a 15:00; el Rincón Gastronómico sigue hasta las 23:00 de jueves a sábado. Tortillitas de camarones en los puestos del fondo.
-- **Oratorio de la Santa Cueva** (los Goya) y **Oratorio de San Felipe Neri** (la Constitución de 1812): 4-5 € cada uno, mañanas de martes a domingo.
-- **Llegar y moverse:** desde Sevilla, tren en 1 h 40 (Media Distancia, 16 €) hasta la estación, que está en el propio casco antiguo. Todo lo de esta ruta se hace andando; el casco mide 2 km de punta a punta.
-
-## Dónde dormir
-
-Si te quedas a dormir, lo mejor es el **casco antiguo** (entorno de la Catedral, el Pópulo o la plaza de San Antonio): todo a pie y con el ambiente gaditano de noche. La zona de la **playa de la Victoria**, en la ciudad nueva, es práctica si buscas playa urbana y hoteles más grandes, pero queda lejos del encanto del casco. **Evita** alojarte fuera de la península salvo que vengas en coche.
-
-## Comer en Cádiz
-
-La cocina gaditana es marinera y de fritura. Imprescindibles: el **pescaíto frito**, las **tortillitas de camarones**, el **cazón en adobo** y, en temporada, el **atún rojo de almadraba** de Barbate y Zahara. El mejor sitio para todo esto es el barrio de **La Viña** (cuna del Carnaval) y el **Mercado Central**, donde compras el pescado y te lo fríen al momento. Para beber, una **manzanilla** de Sanlúcar o un **fino** de Jerez bien fríos.
-
-> **⚠️ Aviso:** evita las terrazas turísticas justo frente a la Catedral. Camina hacia La Viña o métete en una freiduría del mercado y comerás el doble de bien por la mitad.
-
-## Lo que NO recomendamos
-
-1. **Verla solo de paso desde Sevilla.** El atardecer en La Caleta merece quedarse.
-2. **Saltarte las torres miradoras.** La Torre Tavira es la mejor forma de entender la ciudad.
-3. **Comer lejos del mercado y de La Viña.** Ahí está el pescaíto de verdad.
-4. **Confundir Cádiz capital con la provincia.** Jerez, Tarifa y los pueblos blancos son otro viaje (estupendo) aparte.
-
-## Errores típicos del visitante
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **Quedarse solo en la ciudad nueva y la playa de la Victoria.** El alma de Cádiz está en el casco antiguo.
-2. **No subir a ninguna torre.** La cámara oscura de Tavira cambia cómo ves la ciudad.
-3. **Comer en primera línea de la Catedral.** Pagas más por menos.
-4. **Ignorar el viento.** Un día de levante deja la playa imposible; ten un plan B de casco antiguo.
-
-## Eventos a cuadrar
-
-- **Carnaval de Cádiz (febrero/marzo).** Uno de los carnavales más famosos del mundo: chirigotas, comparsas y coplas ingeniosas por toda la ciudad, con el Gran Teatro Falla como epicentro. Espectacular, pero la ciudad se llena del todo y los precios se disparan.
-- **Semana Santa.** Procesiones por el casco antiguo, más íntimas que las sevillanas.
-- **Trofeo Carranza (verano).** Fútbol y ambiente local; menor que los anteriores.
+1. **Verla de paso** y perderse el atardecer en La Caleta.
+2. **Quedarse en la ciudad nueva** y la playa de la Victoria.
+3. **No subir a ninguna torre.**
+4. **Comer en primera línea de la Catedral.**
+5. **Ignorar el levante.**
+6. **Confundir Cádiz con la provincia:** Jerez, Tarifa y los pueblos blancos son otro viaje aparte, estupendo.
 
 ## En una frase
 
-Cádiz en un día es luz, mar por los cuatro costados y salero gaditano, rematado con un atardecer en La Caleta. Con más tiempo, **Jerez** (vino y caballos) y **Tarifa** (viento y África al fondo) están a un paso.
+Cádiz en un día es luz, mar por los cuatro costados y salero gaditano, rematado con un atardecer en La Caleta. Con más tiempo, Jerez (vino y caballos) y Tarifa (viento y África al fondo) están a un paso.
