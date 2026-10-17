@@ -21,6 +21,7 @@ slugs:
   de: was-sehen-auf-gran-canaria
 reservasArriba: true
 actividades:
+  - roque-nublo-pico-nieves-desde-las-palmas
   - buggy-barrancos-gran-canaria
   - catamaran-delfines-esnorquel-gran-canaria
   - atardecer-estrellas-gran-canaria-telescopios

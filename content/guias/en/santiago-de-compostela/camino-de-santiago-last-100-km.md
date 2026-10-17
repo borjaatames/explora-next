@@ -25,6 +25,7 @@ actividades:
   - tour-a-pie-casco-antiguo-santiago
   - catedral-santiago-museo-tour-guiado
   - excursion-finisterre-muxia-costa-da-morte
+  - santiago-portico-gloria-catedral-tour
 ---
 
 **Walking the last 100 km of the Camino is the most popular way to experience it** and to earn the Compostela without needing weeks. It's the minimum walking distance the Cathedral requires to issue the certificate, completed in about **5-7 days** within reach of almost anyone with basic preparation. This guide explains where to start, what the stages are like and what you need for the plan to go smoothly.

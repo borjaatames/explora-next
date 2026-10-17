@@ -23,6 +23,7 @@ slugs:
   de: granada-mit-kindern
 reservasArriba: true
 actividades:
+  - alhambra-entrada-general
   - entrada-jardines-alhambra-generalife
   - visita-guiada-alhambra-generalife
   - albaicin-sacromonte-diurno

@@ -22,6 +22,7 @@ slugs:
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
 actividades:
+  - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
@@ -85,7 +86,7 @@ Ehrliche Hinweise zum kostenlosen Zeitfenster:
 
 **Maximales Kontingent**: 750 Personen zur regulären Öffnungszeit. **Buche 1-2 Wochen im Voraus**, wenn du im Frühling oder Sommer reist.
 
-[actividad: real-alcazar-sevilla-tour-guiado-skip-line]
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Der Rundgang durch den Palast — was man sieht und warum es zählt
 

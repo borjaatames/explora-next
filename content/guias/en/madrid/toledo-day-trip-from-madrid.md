@@ -22,6 +22,7 @@ slugs:
   de: tagesausflug-toledo-ab-madrid
 reservasArriba: true
 actividades:
+  - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-dia-completo
   - excursion-toledo-ave-tren
   - excursion-toledo-molinos-quijote
@@ -29,6 +30,7 @@ actividades:
   - excursion-avila-segovia-con-entradas
   - excursion-chinchon-aranjuez-toledo
   - excursion-alcala-henares-bodega-privada
+  - escorial-valle-cuelgamuros-excursion-grupo
 ---
 
 70 km from Madrid sits an intact medieval city. It isn't a recreation, isn't a theme park, isn't a postcard: it's **Toledo**, the only European city where Jews, Muslims and Christians coexisted for centuries, each leaving their mark in stone. And you can see it in a day.

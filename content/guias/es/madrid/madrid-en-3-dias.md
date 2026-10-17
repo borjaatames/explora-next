@@ -28,11 +28,14 @@ actividades:
   - walking-tour-habsburgos-grupo-reducido
   - palacio-real-tour-premium-skip-line
   - tour-privado-escorial-monasterio-real
+  - escorial-valle-cuelgamuros-excursion-grupo
+  - el-escorial-monasterio-entrada
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
   - flamenco-tablao-las-carboneras
   - excursion-toledo-dia-completo
+  - art-walk-pass-prado-reina-sofia-thyssen
 ---
 
 Después de años recibiendo a amigos que vienen a Madrid por primera vez, esta es la ruta que funciona: ni cincuenta cosas, ni las mismas postales de todas las guías. Tres días para entender por qué Madrid importa, con lo que merece la pena, lo que no y por qué.

@@ -20,6 +20,7 @@ slugs:
   en: roque-nublo-hike
   de: roque-nublo-wanderung
 actividades:
+  - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios
   - jeep-safari-sur-gran-canaria
   - buggy-barrancos-gran-canaria
@@ -48,7 +49,7 @@ Der Weg steigt durch Kanarenkiefern zu einem felsigen Plateau an, wo der **Roque
 
 > **⚠️ Achtung:** Der Parkplatz La Goleta ist klein und schnell voll, besonders am Wochenende. Komm vor 9:00 Uhr oder in den letzten zwei Stunden vor Einbruch der Dunkelheit. Park nicht am Straßenrand.
 
-[actividad: atardecer-estrellas-gran-canaria-telescopios]
+[actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
 ## Die beste Uhrzeit
 

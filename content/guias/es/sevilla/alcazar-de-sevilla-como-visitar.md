@@ -22,6 +22,7 @@ slugs:
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
 actividades:
+  - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
@@ -46,7 +47,7 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 | Lo esencial de Sevilla en una mañana | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (9.797) | 53 € |
 | Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 
-[actividad: real-alcazar-sevilla-tour-guiado-skip-line]
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Precios y horarios
 

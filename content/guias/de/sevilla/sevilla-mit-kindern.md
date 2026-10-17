@@ -36,6 +36,7 @@ actividades:
   - museo-ilusiones-sevilla-entrada
   - catedral-sevilla-giralda-entrada-skip-line
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - real-alcazar-sevilla-entrada
 ---
 
 Sevilla mit Kindern funktioniert, aber nicht von allein. Wenn du mit der Monumentenliste des durchschnittlichen Erwachsenen ankommst (Kathedrale, Alcázar, Archivo de Indias, Hospital de los Venerables, Casa de Pilatos…), streiken die Kinder nach zwei Stunden, und die Reise wird zu einer Verhandlung über Eis. Die gute Nachricht: die Stadt hat eine seltene Dichte an Plänen, die Kinder von 4 bis 14 Jahren fast mühelos begeistern — **Plaza de España, Alcázar, Aquarium, Isla Mágica, Kajak, Triana** — und alle liegen innerhalb von 30 Gehminuten oder einer Taxifahrt für 8-10 € voneinander entfernt. Das Versprechen dieses Guides: mit einem priorisierten Plan losziehen, nicht mit einer Liste.

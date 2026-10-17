@@ -21,6 +21,7 @@ slugs:
   de: stadt-der-kuenste-und-wissenschaften-besichtigen
 actividades:
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
+  - hemisferic-museu-ciencies-entrada
   - oceanografic-valencia-entrada
   - oceanografic-museo-ciencias-entrada-combinada
   - tour-tuk-tuk-valencia-centro-playas

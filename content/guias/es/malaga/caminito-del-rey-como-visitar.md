@@ -20,6 +20,7 @@ slugs:
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
 actividades:
+  - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga
 faq:
   - pregunta: "¿Con cuánta antelación hay que comprar la entrada del Caminito del Rey?"
@@ -59,7 +60,7 @@ El Caminito es un recorrido **lineal** de unos 7,7 km (3 km de pasarelas anclada
 
 > **⭐ Tip:** las entradas salen a la venta con meses de antelación en la web oficial y vuelan. Mira primero las fechas disponibles del Caminito y **monta el viaje alrededor de ese día**, no al revés.
 
-[actividad: caminito-del-rey-guiado-desde-malaga]
+[actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Precios, horarios y edades
 

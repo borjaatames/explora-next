@@ -22,6 +22,7 @@ slugs:
   de: granada-in-2-tagen
 reservasArriba: true
 actividades:
+  - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
   - alhambra-visita-nocturna
@@ -30,6 +31,8 @@ actividades:
   - flamenco-cuevas-tarantos-sacromonte
   - catedral-capilla-real-sin-colas-grupo
   - alpujarra-pueblos-montana
+  - catedral-granada-entrada
+  - capilla-real-granada-entrada
 ---
 
 **Two days in Granada is tight**. Not so few that you skip the trip, but not the three or four the city is asking for. If you only have 48 hours and want to leave having understood something of Granada — not just photographed it — this guide is built for that.

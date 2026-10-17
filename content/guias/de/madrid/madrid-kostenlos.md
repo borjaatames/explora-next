@@ -29,6 +29,8 @@ actividades:
   - tour-privado-escorial-monasterio-real
   - flamenco-tablao-las-carboneras
   - flamenco-torres-bermejas-cena
+  - el-escorial-monasterio-entrada
+  - escorial-valle-cuelgamuros-excursion-grupo
 ---
 
 Madrid ist eine der wenigen europäischen Hauptstädte, in der man mehrere Tage verbringen kann, ohne fast irgendwo Eintritt zu zahlen, und trotzdem eine reiche Erfahrung mitnimmt. Der Schlüssel ist nicht, bei Google "10 kostenlose Dinge in Madrid" zu suchen und eine Liste abzuhaken — sondern zu verstehen, was sich in welchem Fall lohnt, wann, und wie man die typischen Fehler derjenigen vermeidet, die auf der Suche nach kostenlosen Plänen ankommen.

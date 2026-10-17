@@ -20,6 +20,7 @@ slugs:
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
 actividades:
+  - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga
 faq:
   - pregunta: "How far in advance should you buy Caminito del Rey tickets?"
@@ -59,7 +60,7 @@ The Caminito is a **linear** route of about 7.7 km (3 km of walkways anchored to
 
 > **⭐ Tip:** tickets go on sale months ahead on the official site and vanish. Check the available Caminito dates first and **build the trip around that day**, not the other way round.
 
-[actividad: caminito-del-rey-guiado-desde-malaga]
+[actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Getting there from Málaga
 

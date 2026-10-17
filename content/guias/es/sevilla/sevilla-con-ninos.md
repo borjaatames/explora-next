@@ -36,6 +36,7 @@ actividades:
   - museo-ilusiones-sevilla-entrada
   - catedral-sevilla-giralda-entrada-skip-line
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - real-alcazar-sevilla-entrada
 faq:
 - pregunta: ¿Cuál es el plan gratis más rentable en Sevilla con niños?
   respuesta: 'Plaza de España + Parque de María Luisa: gratis, al aire libre, funciona de 3 a 14 años, con barcas en el canal (~6 €/35 min) y dos zonas de juegos infantiles en el parque.'

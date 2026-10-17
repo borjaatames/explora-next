@@ -23,6 +23,7 @@ slugs:
   de: sevilla-in-einem-tag
 reservasArriba: true
 actividades:
+  - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - catedral-sevilla-giralda-entrada-skip-line

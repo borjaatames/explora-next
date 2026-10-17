@@ -22,6 +22,7 @@ slugs:
   en: santiago-cathedral-how-to-visit
   de: kathedrale-santiago-besichtigen
 actividades:
+  - santiago-portico-gloria-catedral-tour
   - catedral-santiago-museo-tour-guiado
   - catedral-museo-casco-antiguo-santiago
   - cubiertas-catedral-santiago-tour
@@ -38,7 +39,7 @@ Der Schlüssel: Trennen Sie das Kostenlose (das Gotteshaus, das Grab des Apostel
 - **Die Umarmung des Apostels** (wenn zugänglich), hinter dem Altar.
 - **Die Pilgermesse**, täglich (siehe unten).
 
-[actividad: catedral-santiago-museo-tour-guiado]
+[actividad: santiago-portico-gloria-catedral-tour]
 
 ## Was kostenpflichtig ist (und sich lohnt)
 

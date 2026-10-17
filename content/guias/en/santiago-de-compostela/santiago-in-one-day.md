@@ -23,6 +23,7 @@ slugs:
   de: santiago-in-einem-tag
 reservasArriba: true
 actividades:
+  - santiago-portico-gloria-catedral-tour
   - catedral-museo-casco-antiguo-santiago
   - tour-a-pie-casco-antiguo-santiago
   - catedral-santiago-museo-tour-guiado

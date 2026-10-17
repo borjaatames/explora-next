@@ -24,6 +24,7 @@ actividades:
   - teide-teleferico-traslado
   - atardecer-estrellas-teide-telescopio
   - tour-teide-masca-icod-garachico
+  - observatorio-teide-visita-guiada
 faq:
 - pregunta: ¿Hace falta permiso para subir al Teide?
   respuesta: Solo para el último tramo, el sendero Telesforo Bravo, que va de la estación superior del teleférico (3.555 m) a la cima (3.715 m). El permiso es gratuito y se pide en la web de reservas de Parques Nacionales, pero se agota con semanas o meses de antelación. Para el teleférico y los otros senderos no hace falta.

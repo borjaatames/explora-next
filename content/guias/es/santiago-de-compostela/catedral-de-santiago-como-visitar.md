@@ -22,6 +22,7 @@ slugs:
   en: santiago-cathedral-how-to-visit
   de: kathedrale-santiago-besichtigen
 actividades:
+  - santiago-portico-gloria-catedral-tour
   - catedral-santiago-museo-tour-guiado
   - catedral-museo-casco-antiguo-santiago
   - cubiertas-catedral-santiago-tour
@@ -39,7 +40,7 @@ actividades:
 
 La clave: separa lo gratuito (el templo, la tumba del Apóstol) de las visitas especiales (Pórtico de la Gloria, cubiertas, museo), que requieren entrada y, a veces, reserva previa.
 
-[actividad: catedral-santiago-museo-tour-guiado]
+[actividad: santiago-portico-gloria-catedral-tour]
 
 ## Qué es gratis
 

@@ -25,6 +25,7 @@ actividades:
   - tour-a-pie-casco-antiguo-santiago
   - catedral-santiago-museo-tour-guiado
   - excursion-finisterre-muxia-costa-da-morte
+  - santiago-portico-gloria-catedral-tour
 ---
 
 **Hacer los últimos 100 km del Camino es la forma más popular de vivirlo** y de conseguir la Compostela sin disponer de semanas. Es la distancia mínima a pie que la Catedral exige para entregar el certificado, y se completa en unos **5-7 días** al alcance de casi cualquiera con una preparación básica. Esta guía te explica dónde empezar, cómo son las etapas y qué necesitas para que el plan salga redondo.

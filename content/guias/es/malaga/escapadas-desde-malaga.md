@@ -21,11 +21,13 @@ slugs:
   de: ausfluege-ab-malaga
 reservasArriba: true
 actividades:
+  - cuevas-nerja-entrada
   - caminito-del-rey-guiado-desde-malaga
   - ronda-setenil-desde-malaga
   - cuevas-nerja-frigiliana-desde-malaga
   - gibraltar-desde-malaga
   - cordoba-mezquita-desde-malaga
+  - caminito-del-rey-entrada-guia-oficial
 ---
 
 **Málaga es la mejor base de la Costa del Sol para escapadas.** En menos de hora y media tienes pueblos blancos colgados de barrancos, cuevas y playas, paisajes lunares y hasta el Peñón de Gibraltar. Esta guía ordena las mejores salidas de un día según el tiempo que tengas y cómo llegar, con o sin coche.

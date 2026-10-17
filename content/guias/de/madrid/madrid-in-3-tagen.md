@@ -28,11 +28,14 @@ actividades:
   - walking-tour-habsburgos-grupo-reducido
   - palacio-real-tour-premium-skip-line
   - tour-privado-escorial-monasterio-real
+  - escorial-valle-cuelgamuros-excursion-grupo
+  - el-escorial-monasterio-entrada
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
   - flamenco-tablao-las-carboneras
   - excursion-toledo-dia-completo
+  - art-walk-pass-prado-reina-sofia-thyssen
 ---
 
 Seit Jahren empfange ich Freunde und Familie, die zum ersten Mal nach Madrid kommen. Mit jedem Besuch habe ich eine Route verfeinert, die funktioniert: Sie überfrachtet nicht mit Listen von fünfzig Sehenswürdigkeiten, schickt aber auch nicht zu den immergleichen Postkartenmotiven, die in jedem Reiseführer stehen. Das ist die Route, die ich heute wählen würde, wenn man mir sagte: "Ich habe 3 Tage in Madrid, zeig mir etwas, das mir hilft, Spanien zu verstehen."

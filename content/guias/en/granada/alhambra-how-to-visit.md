@@ -21,6 +21,7 @@ slugs:
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
 actividades:
+  - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
   - alhambra-palacios-nazaries-sin-colas
@@ -82,7 +83,7 @@ A full visit takes **about 4 hours**.
 - **On foot** from Plaza Nueva up the Cuesta de Gomérez: a 25-30 minute climb.
 - **Taxi** from the centre.
 
-[actividad: entrada-y-tour-guiado-alhambra]
+[actividad: alhambra-entrada-general]
 
 ## Mistakes to avoid
 

@@ -33,6 +33,7 @@ actividades:
   - tour-casco-antiguo-barri-gotico-a-pie
   - museo-picasso-tour-guiado-sin-colas
   - montserrat-medio-dia-grupo-pequeno
+  - mnac-museu-nacional-art-catalunya-entrada
 ---
 
 Barcelona is the Spanish city with the most tourism in the year and the clearest evidence that mass tourism can spoil what people came for. That isn't fatalism: it's context. If you go to Barcelona and do what everyone does — Las Ramblas at 11 AM, Sagrada Familia without a reservation, Park Güell without realizing the good zone is paid, eating paella in Barceloneta — you'll come out feeling like you've been at a theme park. And the fault isn't Barcelona's, it's the plan's.

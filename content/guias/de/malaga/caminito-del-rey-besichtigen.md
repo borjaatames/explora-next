@@ -20,6 +20,7 @@ slugs:
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
 actividades:
+  - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga
 ---
 
@@ -42,7 +43,7 @@ Der Caminito ist eine **lineare** Route von rund 7,7 km (3 km Stege, die an den 
 
 > **⭐ Tipp:** Die Tickets gehen Monate im Voraus auf der offiziellen Webseite in den Verkauf und sind schnell vergriffen. Schau dir zuerst die verfügbaren Caminito-Termine an und **plane die Reise um diesen Tag herum**, nicht umgekehrt.
 
-[actividad: caminito-del-rey-guiado-desde-malaga]
+[actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Anreise ab Málaga
 

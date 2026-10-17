@@ -35,6 +35,7 @@ actividades:
   - museo-ilusiones-sevilla-entrada
   - catedral-sevilla-giralda-entrada-skip-line
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - real-alcazar-sevilla-entrada
 faq:
 - pregunta: What's the best free plan to do with kids in Seville?
   respuesta: 'Plaza de España + Parque de María Luisa: free, outdoors, works from age 3 to 14, with boats on the canal (about €6/35 min) and two playgrounds in the park.'

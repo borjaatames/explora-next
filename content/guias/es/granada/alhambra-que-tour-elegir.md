@@ -31,6 +31,7 @@ actividades:
   - alhambra-visita-nocturna
   - alhambra-tour-privado
   - entrada-jardines-alhambra-generalife
+  - alhambra-entrada-general
 ---
 
 Si has buscado "tour Alhambra" habrás visto media docena de resultados con nombres distintos —"sin colas", "con entradas incluidas", "en grupo reducido", "sin esperas"— y precios que van de 50€ a 96€. La mala noticia: la mayoría son literalmente el mismo tour. La buena noticia: en dos minutos sabes cuál te conviene.

@@ -22,6 +22,7 @@ slugs:
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
 actividades:
+  - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
   - alhambra-palacios-nazaries-sin-colas
@@ -78,7 +79,7 @@ La inmensa mayoría necesita la **Alhambra General**. Los menores de 12 años en
 
 Las entradas se abren **90 días antes** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, en minutos. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. Si está todo agotado, las alternativas reales son una visita guiada con cupo propio (las de la tabla de arriba), la nocturna de los Nazaríes, o hacer cola en taquilla antes de las 8:00 por el cupo del día, que en temporada alta casi nunca alcanza.
 
-[actividad: entrada-y-tour-guiado-alhambra]
+[actividad: alhambra-entrada-general]
 
 ## La regla de oro: la hora de los Nazaríes
 

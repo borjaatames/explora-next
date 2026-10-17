@@ -22,7 +22,9 @@ slugs:
   en: tabarca-island-how-to-visit
   de: isla-de-tabarca-besichtigen
 actividades:
+  - ferry-santa-pola-tabarca
   - barco-alicante-isla-tabarca-ida-vuelta
+  - snorkel-tabarca-reserva-marina
 ---
 
 **Tabarca es la excursión que hace distinta a Alicante.** La isla habitada más pequeña de España es además **reserva marina** (la primera del país), con aguas cristalinas para snorkel, un pueblo amurallado del siglo XVIII y arroces frente al mar. Esta guía te explica cómo llegar, qué hacer y cómo organizar el día para aprovecharla.
@@ -35,7 +37,7 @@ actividades:
 
 La clave: es un plan de **medio día o día completo**, y depende del barco. Elige bien el puerto de salida y mira siempre el estado del mar.
 
-[actividad: barco-alicante-isla-tabarca-ida-vuelta]
+[actividad: ferry-santa-pola-tabarca]
 
 ## Cómo llegar
 
@@ -84,6 +86,8 @@ El plato típico es el **caldero** (arroz caldoso con pescado de roca y all i ol
 2. **Llegar a mediodía en agosto.** El pueblo y la playa se saturan; ve en el primer barco.
 3. **Olvidar el snorkel.** Es reserva marina: el agua es lo mejor de Tabarca.
 4. **Contar con sombra.** Hay poca; lleva la tuya.
+
+[actividad: snorkel-tabarca-reserva-marina]
 
 ## Errores típicos
 

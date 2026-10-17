@@ -20,6 +20,7 @@ slugs:
   en: roque-nublo-hike
   de: roque-nublo-wanderung
 actividades:
+  - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios
   - jeep-safari-sur-gran-canaria
   - buggy-barrancos-gran-canaria
@@ -44,7 +45,7 @@ faq:
 | [Jeep safari through southern valleys and villages](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) | 4.5★ (1,443) | €69 |
 | [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
 
-[actividad: atardecer-estrellas-gran-canaria-telescopios]
+[actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
 ## The trail from La Goleta
 

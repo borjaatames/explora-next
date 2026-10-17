@@ -29,6 +29,8 @@ actividades:
   - tour-privado-escorial-monasterio-real
   - flamenco-tablao-las-carboneras
   - flamenco-torres-bermejas-cena
+  - el-escorial-monasterio-entrada
+  - escorial-valle-cuelgamuros-excursion-grupo
 ---
 
 Madrid es de las pocas capitales europeas donde se pueden pasar varios días sin pagar casi ninguna entrada y llevarse una experiencia completa. La clave no es tachar una lista de «cosas gratis», sino saber cuáles merecen la pena, a qué hora, y qué pocas cosas sí conviene pagar. Esto es lo que recomendaríamos a un amigo que viene con poco presupuesto.

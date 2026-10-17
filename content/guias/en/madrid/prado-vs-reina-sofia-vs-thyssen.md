@@ -21,6 +21,7 @@ slugs:
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
 actividades:
+  - art-walk-pass-prado-reina-sofia-thyssen
   - museo-prado-entrada
   - museo-prado-visita-guiada
   - museo-thyssen-entrada

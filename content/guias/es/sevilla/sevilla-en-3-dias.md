@@ -23,6 +23,7 @@ slugs:
   de: sevilla-in-3-tagen
 reservasArriba: true
 actividades:
+  - real-alcazar-sevilla-entrada
   - cordoba-excursion-dia-completo-mezquita-desde-sevilla
   - cadiz-jerez-frontera-excursion-dia-desde-sevilla
   - real-alcazar-sevilla-tour-guiado-skip-line

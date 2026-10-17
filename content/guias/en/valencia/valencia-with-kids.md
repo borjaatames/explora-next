@@ -28,6 +28,7 @@ actividades:
   - tour-tuk-tuk-valencia-centro-playas
   - paseo-catamaran-valencia-atardecer
   - albufera-atardecer-paseo-en-barca
+  - hemisferic-museu-ciencies-entrada
 faq:
   - pregunta: "How much time should you set aside for the Oceanogràfic with kids?"
     respuesta: "Half a day, 3-4 hours. It's the largest aquarium in Europe (sharks, belugas, penguins, an underwater tunnel and a dolphinarium), so don't try to combine it with the Bioparc on the same day — it's too many hours for little ones."

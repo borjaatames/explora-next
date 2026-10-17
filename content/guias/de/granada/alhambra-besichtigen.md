@@ -22,6 +22,7 @@ slugs:
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
 actividades:
+  - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
   - alhambra-palacios-nazaries-sin-colas
@@ -109,7 +110,7 @@ Das passiert jede Woche. Hier sind die **3 echten Alternativen**, in Reihenfolge
 
 > **⚠️ Hinweis:** Was du **NICHT** tun solltest, ist von nicht-offiziellen Seiten zu kaufen, die "Last-Minute-Tickets Alhambra 22,27 €" versprechen. Zeigt die offizielle Seite "ausgebucht" und eine andere bietet dasselbe Ticket zum selben Preis an, handelt es sich um einen Wiederverkäufer oder Betrug.
 
-[actividad: entrada-y-tour-guiado-alhambra]
+[actividad: alhambra-entrada-general]
 
 ## Anreise und Öffnungszeiten
 

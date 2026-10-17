@@ -32,6 +32,7 @@ actividades:
   - excursion-guadalest-altea-algar-desde-alicante
   - terra-mitica-benidorm-entrada
   - mundomar-benidorm-entrada
+  - snorkel-tabarca-reserva-marina
 ---
 
 **Alicante se ve bien en uno o dos días** y es la mejor base de la Costa Blanca: sol más de 300 días al año, un castillo colgado sobre el mar, un casco antiguo de callejas blancas y playa a pie del centro. La trampa es tratarla solo como aeropuerto de paso hacia Benidorm. Un día da para la ciudad; dos, para sumarle Tabarca o un pueblo de la costa.

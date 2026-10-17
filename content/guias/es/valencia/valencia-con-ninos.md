@@ -28,6 +28,7 @@ actividades:
   - tour-tuk-tuk-valencia-centro-playas
   - paseo-catamaran-valencia-atardecer
   - albufera-atardecer-paseo-en-barca
+  - hemisferic-museu-ciencies-entrada
 faq:
   - pregunta: "¿Cuánto tiempo hay que dedicar al Oceanogràfic con niños?"
     respuesta: "Media jornada, 3-4 horas. Es el mayor acuario de Europa (tiburones, belugas, pingüinos, túnel submarino y delfinario), así que no intentes combinarlo con el Bioparc el mismo día: son demasiadas horas para los peques."

@@ -20,6 +20,7 @@ slugs:
   en: roque-nublo-hike
   de: roque-nublo-wanderung
 actividades:
+  - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios
   - jeep-safari-sur-gran-canaria
   - buggy-barrancos-gran-canaria
@@ -44,7 +45,7 @@ faq:
 | [Jeep safari por valles, presas y pueblos del sur](/ciudades/gran-canaria/actividades/jeep-safari-sur-gran-canaria) | 4,5★ (1.443) | 69 € |
 | [Buggy fuera de carretera por los barrancos del sur](/ciudades/gran-canaria/actividades/buggy-barrancos-gran-canaria) | 4,8★ (3.728) | 65 € |
 
-[actividad: atardecer-estrellas-gran-canaria-telescopios]
+[actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
 ## La ruta desde La Goleta
 
