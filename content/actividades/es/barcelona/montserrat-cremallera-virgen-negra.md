@@ -97,8 +97,12 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interi
 imagenAlt: "Tren cremallera ascendiendo por la ladera de la montaña de Montserrat"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Interior de la basílica de Montserrat con la Virgen Negra"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
+    alt: "Fachada de la basílica de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
+    alt: "Vista del monasterio de Montserrat junto a la montaña"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
+    alt: "Claustro del monasterio de Montserrat"
 
 ratingProveedor: 4.6
 numeroOpiniones: 7706

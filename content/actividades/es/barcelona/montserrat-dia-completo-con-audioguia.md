@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat dia completo", "montserrat audioguia", "montserrat cremallera dia completo", "tour montserrat escolania", "catalunya bus turistic"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero.webp"
 imagenAlt: "Tren cremallera de Montserrat con vistas a la montaña catalana"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Vista del macizo de Montserrat desde la cima de la montaña"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
+    alt: "Vistas de las montañas de Montserrat desde el monasterio"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero.webp"
+    alt: "Fachada gótica del monasterio de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
+    alt: "Panorámica del macizo de Montserrat"
 
 ratingProveedor: 4.6
 numeroOpiniones: 2449

@@ -97,8 +97,12 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interi
 imagenAlt: "Rack railway climbing the slopes of Montserrat mountain"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Interior of Montserrat basilica with the Black Madonna"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
+    alt: "Facade of the Montserrat basilica"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
+    alt: "View of Montserrat monastery against the mountain"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
+    alt: "Cloister of Montserrat monastery"
 
 ratingProveedor: 4.6
 numeroOpiniones: 7706

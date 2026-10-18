@@ -92,12 +92,16 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat funicular", "montserrat small group", "montserrat sant joan", "montserrat scenic tour", "unique tours barcelona"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp"
 imagenAlt: "Panoramic views from the top of the Sant Joan funicular, Montserrat"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Trail in Montserrat Natural Park with panoramic views"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero.webp"
+    alt: "Montserrat monastery among rocky peaks"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero.webp"
+    alt: "Detailed view of the Montserrat peaks"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp"
+    alt: "Mountain landscape in Montserrat, Catalonia"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1033

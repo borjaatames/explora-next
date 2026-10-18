@@ -43,6 +43,24 @@ keywords:
 imagen: "/images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp"
 imagenAlt: Vista aerea del pueblo de Montanejos encajado en el canon del rio Mijares, Castellon
 galeria:
+  - src: "/images/actividades/valencia/montanejos/montanejos-01.webp"
+    alt: "Vista general de Montanejos junto al río Mijares"
+  - src: "/images/actividades/valencia/montanejos/montanejos-torre-plaza.webp"
+    alt: "Torre y plaza de la iglesia en el pueblo de Montanejos"
+  - src: "/images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp"
+    alt: "Curso alto del río Mijares cerca de Montanejos"
+  - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp"
+    alt: "La Fuente de los Baños brotando entre las rocas"
+  - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp"
+    alt: "Poza de aguas termales en la Fuente de los Baños"
+  - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp"
+    alt: "Azulejos tradicionales junto a la Fuente de los Baños"
+  - src: "/images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp"
+    alt: "Bañistas disfrutando de las aguas termales del río Mijares"
+  - src: "/images/actividades/valencia/montanejos/montanejos-villa-termal.webp"
+    alt: "Villa Termal de Montanejos, balneario de aguas termales"
+  - src: "/images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp"
+    alt: "Vista panorámica del entorno natural de Montanejos"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

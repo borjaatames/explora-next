@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat caminata", "montserrat senderismo", "montserrat grupo reducido", "montserrat teleferico", "parque nacional montserrat"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp"
 imagenAlt: "Teleférico ascendiendo a la cima del macizo de Montserrat"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Caminata por los senderos del Parque Nacional de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
+    alt: "Vista aérea del entorno natural de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"
+    alt: "Monasterio de Montserrat visto desde la ladera"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
+    alt: "Edificios del monasterio de Montserrat"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1146

@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat hike", "montserrat hiking tour", "montserrat small group", "montserrat cable car", "montserrat national park"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp"
 imagenAlt: "Cable car ascending to the top of the Montserrat massif"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "Hiking the trails of Montserrat National Park"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
+    alt: "Aerial view of the natural surroundings of Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"
+    alt: "Montserrat monastery seen from the hillside"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
+    alt: "Buildings of Montserrat monastery"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1146

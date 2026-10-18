@@ -93,12 +93,16 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat full day", "montserrat audio guide", "montserrat rack railway full day", "montserrat escolania", "catalunya bus turistic"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero.webp"
 imagenAlt: "Montserrat rack railway with views over the Catalan mountain"
 
 galeria:
-  - src: "/images/guias/barcelona-en-1-dia.jpg"
-    alt: "View of the Montserrat massif from the mountain top"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
+    alt: "Views of the Montserrat mountains from the monastery"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero.webp"
+    alt: "Gothic facade of Montserrat monastery"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
+    alt: "Panoramic view of the Montserrat massif"
 
 ratingProveedor: 4.6
 numeroOpiniones: 2449

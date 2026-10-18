@@ -97,8 +97,22 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-g
 imagenAlt: "Park Güell in Barcelona, main staircase with mosaics"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 3)
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp"
+    alt: "El Drac, Park Güell's famous mosaic salamander"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero.webp"
+    alt: "Gaudí's modernist architecture in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp"
+    alt: "Sun mosaic on the benches of Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-view-garden-palm-trees-background-hero.webp"
+    alt: "Park Güell gardens with palm trees"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
+    alt: "View of Barcelona from the Park Güell viewpoint"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero.webp"
+    alt: "Mosaic sculpture in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero.webp"
+    alt: "Tree-lined path inside Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero.webp"
+    alt: "Panoramic view of Barcelona from Park Güell"
 ratingProveedor: 4.4
 numeroOpiniones: 1851
 
