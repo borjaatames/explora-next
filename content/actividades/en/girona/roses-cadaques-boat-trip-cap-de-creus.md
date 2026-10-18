@@ -85,6 +85,20 @@ keywords:
 imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
 imagenAlt: Cadaqués bay with moored boats and the white village behind
 galeria:
+- src: "/images/actividades/girona/cap-de-creus/costa-rocosa-cadaques-vista-aerea.webp"
+  alt: "Costa rocosa de Cadaqués vista desde el aire, Cap de Creus"
+- src: "/images/actividades/girona/cap-de-creus/cabo-creus-formacion-rocosa.webp"
+  alt: "Formación rocosa del Cabo de Creus, Costa Brava"
+- src: "/images/actividades/girona/cap-de-creus/cadaques-pueblo-desde-altura.webp"
+  alt: "Cadaqués visto desde las alturas, pueblo blanco frente al mar"
+- src: "/images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp"
+  alt: "Acantilados del Cap de Creus con el mar Mediterráneo"
+- src: "/images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp"
+  alt: "Pueblo blanco de la Costa Brava en una bahía tranquila"
+- src: "/images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp"
+  alt: "Islote entre rocas y aguas cristalinas del Cap de Creus"
+- src: "/images/actividades/girona/cap-de-creus/arco-roca-marina-mediterraneo.webp"
+  alt: "Arco de roca marina con vista al Mediterráneo, Costa Brava"
 - src: "/images/actividades/girona/cadaques/casa-dali-portlligat-piscina.webp"
   alt: "Casa Museo Salvador Dali en Portlligat, cerca de Cadaques"
 - src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
