@@ -78,12 +78,20 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan, la montaña rusa icónica de PortAventura World
 galeria:
-- src: /images/actividades/tarragona/portaventura/ferrari-land.webp
-  alt: Ferrari Land en PortAventura World
-- src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
-  alt: Shambhala, la montaña rusa más alta de Europa en PortAventura
-- src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
-  alt: Vista panorámica de las atracciones de PortAventura World
+  - src: "/images/actividades/tarragona/portaventura/ferrari-land.webp"
+    alt: "Ferrari Land en PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/shambhala-lago.webp"
+    alt: "Shambhala, la montaña rusa más alta de Europa en PortAventura"
+  - src: "/images/actividades/tarragona/portaventura/montanas-rusas.webp"
+    alt: "Vista panorámica de las atracciones de PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/red-force.webp"
+    alt: "Red Force, la montaña rusa de aceleración de Ferrari Land"
+  - src: "/images/actividades/tarragona/portaventura/polynesia.webp"
+    alt: "Zona temática Polynesia de PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/fuente.webp"
+    alt: "Fuente temática de PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
+    alt: "Shambhala y Dragon Khan, las dos grandes montañas rusas"
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:

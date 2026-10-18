@@ -71,12 +71,20 @@ keywords:
 imagen: /images/actividades/valencia/museo-ciencias/hemisferic.webp
 imagenAlt: El Hemisfèric de la Ciudad de las Artes y las Ciencias de Valencia
 galeria:
-- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
-  alt: Fachada del Museu de les Ciències
-- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp
-  alt: Museu de les Ciències de noche
-- src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
-  alt: El Hemisfèric, el ojo de Calatrava
+  - src: "/images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp"
+    alt: "Fachada del Museu de les Ciències"
+  - src: "/images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp"
+    alt: "Museu de les Ciències de noche"
+  - src: "/images/actividades/valencia/museo-ciencias/hemisferic-dia.webp"
+    alt: "El Hemisfèric, el ojo de Calatrava"
+  - src: "/images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp"
+    alt: "La Ciudad de las Artes y las Ciencias al atardecer"
+  - src: "/images/actividades/valencia/museo-ciencias/museo-ciencias-rotulo.webp"
+    alt: "Rótulo de entrada del Museu de les Ciències"
+  - src: "/images/actividades/valencia/centro/hemisferic-reflejo.webp"
+    alt: "El Hemisfèric reflejado en el agua"
+  - src: "/images/actividades/valencia/oceanografic/hemisferic-atardecer.webp"
+    alt: "El Hemisfèric al atardecer"
 ratingProveedor: 4.4
 numeroOpiniones: 130
 atraccionesRelacionadas:

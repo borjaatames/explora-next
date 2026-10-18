@@ -75,12 +75,20 @@ keywords:
 imagen: /images/actividades/tenerife/teide/teide-canadas.webp
 imagenAlt: Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio
 galeria:
-- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
-  alt: Las Cañadas del Teide
-- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
-  alt: Atardecer sobre el mar de nubes
-- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
-  alt: El Teide sobre el mar de nubes
+  - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"
+    alt: "Las Cañadas del Teide"
+  - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
+    alt: "Atardecer sobre el mar de nubes"
+  - src: "/images/actividades/tenerife/teide/teide-mar-nubes.webp"
+    alt: "El Teide sobre el mar de nubes"
+  - src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+    alt: "El Teide nevado"
+  - src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
+    alt: "Los Roques de García, junto al Observatorio"
+  - src: "/images/actividades/tenerife/estrellas/via-lactea-teide.webp"
+    alt: "La Vía Láctea sobre el Teide, cielo protegido desde 1988"
+  - src: "/images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp"
+    alt: "Cielo estrellado sobre los Roques de García"
 ratingProveedor: 4.6
 numeroOpiniones: 918
 atraccionesRelacionadas:

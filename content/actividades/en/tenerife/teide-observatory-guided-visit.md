@@ -75,12 +75,20 @@ keywords:
 imagen: /images/actividades/tenerife/teide/teide-canadas.webp
 imagenAlt: Volcanic landscape of Las Cañadas del Teide, home of the Observatory
 galeria:
-- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
-  alt: Las Cañadas del Teide
-- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
-  alt: Sunset over the sea of clouds
-- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
-  alt: Teide above the sea of clouds
+  - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"
+    alt: "Las Cañadas del Teide"
+  - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
+    alt: "Sunset over the sea of clouds"
+  - src: "/images/actividades/tenerife/teide/teide-mar-nubes.webp"
+    alt: "Mount Teide above the sea of clouds"
+  - src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+    alt: "Snow-capped Mount Teide"
+  - src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
+    alt: "Los Roques de García, next to the Observatory"
+  - src: "/images/actividades/tenerife/estrellas/via-lactea-teide.webp"
+    alt: "The Milky Way over Mount Teide, a protected sky since 1988"
+  - src: "/images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp"
+    alt: "Starry sky over Los Roques de García"
 ratingProveedor: 4.6
 numeroOpiniones: 918
 atraccionesRelacionadas:

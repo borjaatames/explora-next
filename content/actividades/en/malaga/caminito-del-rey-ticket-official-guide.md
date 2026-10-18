@@ -78,12 +78,14 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Caminito del Rey walkways above the Gaitanes Gorge
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
-  alt: Gaitanes Gorge seen from the walkways
-- src: /images/actividades/malaga/caminito-del-rey/garganta.webp
-  alt: The Guadalhorce river gorge
-- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
-  alt: Walkways anchored to the rock face
+  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp"
+    alt: "Gaitanes Gorge from the walkways"
+  - src: "/images/actividades/malaga/caminito-del-rey/garganta.webp"
+    alt: "The Guadalhorce river gorge"
+  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp"
+    alt: "Walkways anchored to the rock face"
+  - src: "/images/actividades/malaga/caminito-del-rey/pasarela.webp"
+    alt: "Wooden walkway over the gorge"
 ratingProveedor: 4.6
 numeroOpiniones: 16892
 atraccionesRelacionadas:

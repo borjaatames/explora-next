@@ -71,12 +71,20 @@ keywords:
 imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
 imagenAlt: Facade of the Palace of Pedro I in the Royal Alcázar of Seville
 galeria:
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
-  alt: Mudéjar arches of the Palace of Pedro I
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp
-  alt: Gardens of the Royal Alcázar of Seville
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp
-  alt: Courtyard of the Maidens
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+    alt: "Mudejar arches of the Palace of Pedro I"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
+    alt: "Detail of the Mudejar plasterwork of the Alcázar"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp"
+    alt: "Gardens of the Royal Alcázar of Seville"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+    alt: "A corner of the Alcázar gardens"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
+    alt: "Patio de las Doncellas"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+    alt: "Gardens of the Seville Alcázar"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
+    alt: "Walkway through the Alcázar gardens"
 ratingProveedor: 4.6
 numeroOpiniones: 36909
 atraccionesRelacionadas:

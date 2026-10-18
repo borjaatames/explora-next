@@ -81,12 +81,20 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan roller coaster at PortAventura World, Tarragona
 galeria:
-- src: /images/actividades/tarragona/portaventura/ferrari-land.webp
-  alt: "Ferrari Land park with Red Force vertical launch coaster, PortAventura"
-- src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
-  alt: "Shambhala hypercoaster at PortAventura World"
-- src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
-  alt: "Roller coasters at PortAventura World, Tarragona"
+  - src: "/images/actividades/tarragona/portaventura/ferrari-land.webp"
+    alt: "Ferrari Land at PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/shambhala-lago.webp"
+    alt: "Shambhala, Europe's tallest roller coaster at PortAventura"
+  - src: "/images/actividades/tarragona/portaventura/montanas-rusas.webp"
+    alt: "Panoramic view of the rides at PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/red-force.webp"
+    alt: "Red Force, Ferrari Land's acceleration coaster"
+  - src: "/images/actividades/tarragona/portaventura/polynesia.webp"
+    alt: "Polynesia themed area at PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/fuente.webp"
+    alt: "Themed fountain at PortAventura World"
+  - src: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
+    alt: "Shambhala and Dragon Khan, the two main coasters"
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:

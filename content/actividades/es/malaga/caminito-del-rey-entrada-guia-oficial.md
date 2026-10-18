@@ -78,12 +78,14 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
-  alt: Desfiladero de los Gaitanes desde las pasarelas
-- src: /images/actividades/malaga/caminito-del-rey/garganta.webp
-  alt: La garganta del río Guadalhorce
-- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
-  alt: Pasarelas ancladas a la roca
+  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp"
+    alt: "Desfiladero de los Gaitanes desde las pasarelas"
+  - src: "/images/actividades/malaga/caminito-del-rey/garganta.webp"
+    alt: "La garganta del río Guadalhorce"
+  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp"
+    alt: "Pasarelas ancladas a la roca"
+  - src: "/images/actividades/malaga/caminito-del-rey/pasarela.webp"
+    alt: "Pasarela de madera sobre el desfiladero"
 ratingProveedor: 4.6
 numeroOpiniones: 16892
 atraccionesRelacionadas:
