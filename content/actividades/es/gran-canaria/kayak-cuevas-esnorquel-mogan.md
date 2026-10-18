@@ -82,6 +82,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/mogan/taurito-costa.webp
 imagenAlt: Costa de acantilados en Taurito, junto a Mogán
 galeria:
+- src: "/images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp"
+  alt: "Costa rocosa de Mogan, Gran Canaria"
 - src: /images/actividades/gran-canaria/mogan/mogan-playa.webp
   alt: Playa de Mogán y el puerto deportivo
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp

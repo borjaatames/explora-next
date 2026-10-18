@@ -75,6 +75,8 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-aerea.webp
 imagenAlt: La isla de Tabarca vista desde el aire
 galeria:
+- src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
+  alt: "Faro de la isla de Tabarca, Alicante"
 - src: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
   alt: Casas blancas y murallas de Tabarca
 - src: /images/actividades/alicante/tabarca/puerta-trancada.webp

@@ -84,6 +84,10 @@ keywords:
 imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
 imagenAlt: Atardecer desde el Pico de las Nieves con el Roque Nublo y el Bentayga
 galeria:
+- src: "/images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp"
+  alt: "Silueta de montanas al atardecer en Gran Canaria"
+- src: "/images/actividades/gran-canaria/cumbres-estrellas/observatorio-astronomico-cima.webp"
+  alt: "Observatorio astronomico en lo alto de una montana"
 - src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
   alt: La Vía Láctea sobre un molino en Gran Canaria
 - src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp

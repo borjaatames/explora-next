@@ -82,6 +82,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
 imagenAlt: Barranco de Fataga, en el sur de Gran Canaria
 galeria:
+- src: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
+  alt: "Carretera sinuosa atravesando un barranco en el sur de Gran Canaria"
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
   alt: Valle de Ayagaures
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp

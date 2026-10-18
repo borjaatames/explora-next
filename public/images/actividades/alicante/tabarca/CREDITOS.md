@@ -11,3 +11,7 @@
 ## Fotos añadidas 18-10-2026
 - `tabarca-calle.webp` — Will Myers, Unsplash License (https://unsplash.com/photos/buildings-during-day-8ms05qClRb0)
 - `tabarca-fortificacion.webp` — Senne Gilis, Unsplash License (https://unsplash.com/photos/a-large-green-and-white-boat-in-the-water-By420uS9xEk)
+- `faro-tabarca-campo.webp` — Pexels, Manuel Torres Garcia (Licencia Pexels) — https://www.pexels.com/photo/tabarca-lighthouse-in-alicante-province-spain-12873843/
+- `torre-san-jose-tabarca.webp` — Pexels, Manuel Torres Garcia (Licencia Pexels) — https://www.pexels.com/photo/san-jose-tower-on-tabarca-island-in-spain-12873845/
+- `faro-tabarca-vista-amplia.webp` — Pixabay, AMDUMA (Licencia Pixabay) — https://pixabay.com/photos/lighthouse-building-island-tabarca-7375219/
+- `muralla-antigua-tabarca.webp` — Unsplash, Howard Walsh (Licencia Unsplash) — https://unsplash.com/photos/ancient-stone-wall-beside-a-modern-road-and-buildings-AV9wSaqsIO0

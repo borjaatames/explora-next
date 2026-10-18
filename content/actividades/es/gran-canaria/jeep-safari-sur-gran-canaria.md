@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/jeep/presa-chira.webp
 imagenAlt: Presa de Chira en el Parque Rural del Nublo
 galeria:
+- src: "/images/actividades/gran-canaria/jeep-safari/vista-jeep-carretera-costa.webp"
+  alt: "Vista desde un jeep por una carretera de montana junto a la costa"
 - src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
   alt: Vistas desde la Degollada de las Yeguas
 - src: /images/actividades/gran-canaria/jeep/chira-montanas.webp

@@ -76,6 +76,8 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-islote.webp
 imagenAlt: Islet and clear waters of Tabarca Island
 galeria:
+  - src: "/images/actividades/alicante/tabarca/faro-tabarca-vista-amplia.webp"
+    alt: "Vista amplia del faro de Tabarca junto a la reserva marina"
   - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
     alt: "Clear waters of the Tabarca marine reserve"
   - src: "/images/actividades/alicante/tabarca/puerta-trancada.webp"

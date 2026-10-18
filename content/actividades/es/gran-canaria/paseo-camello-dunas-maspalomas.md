@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
 imagenAlt: Crestas de arena en las Dunas de Maspalomas
 galeria:
+- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
+  alt: "Dunas de Maspalomas con montanas de Gran Canaria al fondo"
 - src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
   alt: "Charca entre palmeras en las Dunas de Maspalomas"
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp

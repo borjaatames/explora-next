@@ -82,6 +82,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/mogan/taurito-costa.webp
 imagenAlt: The cliff coast at Taurito, near Mogán
 galeria:
+- src: "/images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp"
+  alt: "Costa rocosa de Mogan, Gran Canaria"
 - src: /images/actividades/gran-canaria/mogan/mogan-playa.webp
   alt: Mogán beach and marina
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
