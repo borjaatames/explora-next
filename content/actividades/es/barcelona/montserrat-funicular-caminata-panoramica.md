@@ -102,6 +102,12 @@ galeria:
     alt: "Vista detallada de los picos de Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp"
     alt: "Paisaje de montaña en Montserrat, Cataluña"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-nature-spain-religion-hero.webp"
+    alt: "Formaciones rocosas de Montserrat junto al monasterio"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero.webp"
+    alt: "Picos rocosos de la montaña de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-13-hero.webp"
+    alt: "Detalle de las rocas de Montserrat junto a un mirador"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1033

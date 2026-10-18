@@ -103,6 +103,12 @@ galeria:
     alt: "Monasterio de Montserrat visto desde la ladera"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
     alt: "Edificios del monasterio de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-romanesque-cloister-monastery-hero.webp"
+    alt: "Claustro románico del monasterio de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-14-hero.webp"
+    alt: "Exterior del monasterio de Montserrat con visitantes paseando"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-15-hero.webp"
+    alt: "Edificio del monasterio de Montserrat entre jardines"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1146

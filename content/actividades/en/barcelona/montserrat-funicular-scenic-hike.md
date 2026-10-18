@@ -102,6 +102,12 @@ galeria:
     alt: "Detailed view of the Montserrat peaks"
   - src: "/images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp"
     alt: "Mountain landscape in Montserrat, Catalonia"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-nature-spain-religion-hero.webp"
+    alt: "Montserrat's rock formations next to the monastery"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero.webp"
+    alt: "Rocky peaks of the Montserrat mountain"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-13-hero.webp"
+    alt: "Close-up of Montserrat's rocks next to a viewpoint"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1033

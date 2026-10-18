@@ -103,6 +103,12 @@ galeria:
     alt: "Fachada gótica del monasterio de Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
     alt: "Panorámica del macizo de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-monastery-nature-mountain-hero.webp"
+    alt: "Vista aérea del monasterio de Montserrat entre la montaña"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-08-hero.webp"
+    alt: "Monasterio de Montserrat visto desde la montaña"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-low-angle-view-abbey-hero.webp"
+    alt: "Patio interior de la abadía de Montserrat"
 
 ratingProveedor: 4.6
 numeroOpiniones: 2449

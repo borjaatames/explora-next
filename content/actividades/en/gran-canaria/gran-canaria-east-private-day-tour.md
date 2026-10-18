@@ -51,9 +51,19 @@ categoria: experienciasPrivadas
 keywords:
 - gran canaria east private tour
 - private gran canaria guayadeque bandama
-imagen: "/images/actividades/gran-canaria/este/gran-canaria-este-hero.webp"
+imagen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
 imagenAlt: Landscape of eastern Gran Canaria
 galeria:
+  - src: "/images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp"
+    alt: "Guayadeque ravine, one of the stops on this east Gran Canaria tour"
+  - src: "/images/actividades/gran-canaria/guayadeque/casas-cueva.webp"
+    alt: "Traditional cave houses in the Guayadeque ravine"
+  - src: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
+    alt: "Cueva Bermeja, the San Bartolomé chapel in Guayadeque"
+  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp"
+    alt: "Hillsides of the Guayadeque ravine"
+  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp"
+    alt: "The Guayadeque ravine running down toward the sea"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

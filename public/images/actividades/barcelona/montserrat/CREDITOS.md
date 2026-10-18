@@ -20,3 +20,23 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp` — Ramon FVelasquez, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbbeyofOurLadyofMontserratjf1904_08.JPG)
 - `montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp` — Ramon FVelasquez, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AbbeyofOurLadyofMontserratjf1959_03.JPG)
 - `montserrat-spain-catalonia-hero.webp` — AntIg, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/spain-catalonia-montserrat-2763411/)
+
+## Fotos añadidas 18-10-2026 (sin ID de foto verificado)
+
+Estas imágenes ya estaban procesadas en el pipeline de producción pero sin entrada de crédito.
+Verificadas visualmente como fotos reales del monasterio/macizo de Montserrat (no son de otro
+lugar). Uso autorizado por el propietario del proyecto sin bloquear por falta de crédito exacto;
+pendiente completar ID/autor/licencia si se identifican más adelante.
+
+- `montserrat-church-architecture-religion-pomp-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-monastery-church-architecture-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-monastery-nature-spain-religion-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-monastery-spain-religion-church-2-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-monastery-vault-cloister-columns-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-romanesque-cloister-monastery-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-spain-08-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-spain-13-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-spain-14-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-spain-15-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-spain-monastery-nature-mountain-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
+- `montserrat-stunning-low-angle-view-abbey-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar

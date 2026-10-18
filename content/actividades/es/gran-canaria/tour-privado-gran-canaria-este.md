@@ -51,9 +51,19 @@ categoria: experienciasPrivadas
 keywords:
 - tour privado gran canaria este
 - excursion privada gran canaria guayadeque bandama
-imagen: "/images/actividades/gran-canaria/este/gran-canaria-este-hero.webp"
+imagen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
 imagenAlt: Paisaje del este de Gran Canaria
 galeria:
+  - src: "/images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp"
+    alt: "Barranco de Guayadeque, una de las paradas del tour por el este de Gran Canaria"
+  - src: "/images/actividades/gran-canaria/guayadeque/casas-cueva.webp"
+    alt: "Casas-cueva tradicionales del barranco de Guayadeque"
+  - src: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
+    alt: "Cueva Bermeja, ermita de San Bartolomé en Guayadeque"
+  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp"
+    alt: "Laderas del barranco de Guayadeque"
+  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp"
+    alt: "El barranco de Guayadeque en dirección al mar"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

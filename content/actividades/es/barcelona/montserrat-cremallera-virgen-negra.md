@@ -103,6 +103,12 @@ galeria:
     alt: "Vista del monasterio de Montserrat junto a la montaña"
   - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
     alt: "Claustro del monasterio de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero.webp"
+    alt: "Altar dorado de la basílica de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-church-architecture-hero.webp"
+    alt: "Pasillo gótico interior de la basílica de Montserrat"
+  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-vault-cloister-columns-hero.webp"
+    alt: "Bóveda del claustro del monasterio de Montserrat"
 
 ratingProveedor: 4.6
 numeroOpiniones: 7706
