@@ -86,6 +86,12 @@ galeria:
     alt: "Pasarelas ancladas a la roca"
   - src: "/images/actividades/malaga/caminito-del-rey/pasarela.webp"
     alt: "Pasarela de madera sobre el desfiladero"
+  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
+    alt: "Turistas recorriendo las pasarelas del Caminito"
+  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp"
+    alt: "Vista aérea del desfiladero y la vegetación"
+  - src: "/images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp"
+    alt: "Vista aérea del río serpenteando por la garganta"
 ratingProveedor: 4.6
 numeroOpiniones: 16892
 atraccionesRelacionadas:

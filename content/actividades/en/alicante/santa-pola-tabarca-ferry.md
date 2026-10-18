@@ -72,12 +72,16 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Walled village of Tabarca Island seen from the sea
 galeria:
-- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Tabarca beach
-- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Tabarca lighthouse
-- src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: Porta de Terra, gateway to the walled village
+  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
+    alt: "Tabarca beach"
+  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
+    alt: "Tabarca lighthouse"
+  - src: "/images/actividades/alicante/tabarca/porta-de-terra.webp"
+    alt: "Porta de Terra, entrance to the walled village"
+  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
+    alt: "A street in Tabarca's village"
+  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
+    alt: "Tabarca's fortification seen from the sea"
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

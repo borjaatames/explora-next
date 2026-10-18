@@ -9,3 +9,7 @@
 | granada-catedral-06.webp | Wikimedia Commons | Benjamin Smith · File:Granada - Catedral - Puerta del Perdón.jpg | CC BY-SA 4.0 |
 
 Origen local: `E:\imagenes-master\granada\catedral\` (originales en `E:\imagenes-master\_wikimedia-candidatos\granada-catedral\`).
+
+## Fotos añadidas 18-10-2026
+- `granada-catedral-07.webp` — umut erdem, Pexels License (https://www.pexels.com/photo/ornate-european-cathedral-ceiling-interior-view-33509153/)
+- `granada-catedral-08.webp` — Ramon Karolan, Pexels License (https://www.pexels.com/photo/granada-cathedral-facade-in-spain-38327069/)

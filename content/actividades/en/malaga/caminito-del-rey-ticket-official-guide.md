@@ -86,6 +86,12 @@ galeria:
     alt: "Walkways anchored to the rock face"
   - src: "/images/actividades/malaga/caminito-del-rey/pasarela.webp"
     alt: "Wooden walkway over the gorge"
+  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
+    alt: "Visitors walking along the Caminito's walkways"
+  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp"
+    alt: "Aerial view of the gorge and vegetation"
+  - src: "/images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp"
+    alt: "Aerial view of the river winding through the gorge"
 ratingProveedor: 4.6
 numeroOpiniones: 16892
 atraccionesRelacionadas:

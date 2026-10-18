@@ -72,12 +72,16 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Pueblo amurallado de la isla de Tabarca visto desde el mar
 galeria:
-- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Playa de Tabarca
-- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Faro de Tabarca
-- src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: Porta de Terra, entrada al pueblo amurallado
+  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
+    alt: "Playa de Tabarca"
+  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
+    alt: "Faro de Tabarca"
+  - src: "/images/actividades/alicante/tabarca/porta-de-terra.webp"
+    alt: "Porta de Terra, entrada al pueblo amurallado"
+  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
+    alt: "Calle del pueblo de Tabarca"
+  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
+    alt: "Fortificación de Tabarca vista desde el mar"
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

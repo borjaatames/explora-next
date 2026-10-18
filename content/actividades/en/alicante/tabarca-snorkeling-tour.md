@@ -76,12 +76,16 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-islote.webp
 imagenAlt: Islet and clear waters of Tabarca Island
 galeria:
-- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Clear waters of the Tabarca marine reserve
-- src: /images/actividades/alicante/tabarca/puerta-trancada.webp
-  alt: Trancada Gate, Tabarca
-- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Tabarca lighthouse
+  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
+    alt: "Clear waters of the Tabarca marine reserve"
+  - src: "/images/actividades/alicante/tabarca/puerta-trancada.webp"
+    alt: "La Trancada gate, Tabarca"
+  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
+    alt: "Tabarca lighthouse"
+  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
+    alt: "A street in Tabarca's village"
+  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
+    alt: "Tabarca's fortification seen from the sea"
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:

@@ -12,3 +12,9 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `tren-soller-anden.webp`: «Sóller train station 11.jpg», por Kritzolina, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:S%C3%B3ller_train_station_11.jpg
 - `tren-soller-cocheras.webp`: «Depot of Sóller train station 04.jpg», por Kritzolina, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Depot_of_S%C3%B3ller_train_station_04.jpg
 - `tren-soller-estacion.webp`: «Sóller train station 15.jpg», por Kritzolina, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:S%C3%B3ller_train_station_15.jpg
+
+## Fotos añadidas 18-10-2026
+- `sa-calobra-aerea.webp` — Andreas Geissler, Pexels License (https://www.pexels.com/photo/aerial-view-of-a-lake-14853249/)
+- `sa-calobra-sendero.webp` — Margo Evardson, Pexels License (https://www.pexels.com/photo/woman-exploring-torrent-de-pareis-canyon-in-mallorca-37549501/)
+- `sa-calobra-barco.webp` — Hans, Pixabay License (https://pixabay.com/photos/ship-bay-see-calobra-1090460/)
+- `port-de-soller-pueblo.webp` — Tho-Ge, Pixabay License (https://pixabay.com/photos/sea-port-village-boats-8254024/)

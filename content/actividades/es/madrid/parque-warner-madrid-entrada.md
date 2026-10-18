@@ -73,12 +73,20 @@ keywords:
 imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
 imagenAlt: "Caída de la atracción de agua Rio Bravo en Parque Warner Madrid"
 galeria:
-- src: /images/actividades/madrid/parque-warner/coaster-express.webp
-  alt: "Montaña rusa de madera Coaster Express en Parque Warner"
-- src: /images/actividades/madrid/parque-warner/torre-noche.webp
-  alt: "Torre de caída iluminada de noche en Parque Warner Madrid"
-- src: /images/actividades/madrid/parque-warner/espectaculo-nocturno.webp
-  alt: "Espectáculo nocturno con fuegos artificiales en Parque Warner"
+  - src: "/images/actividades/madrid/parque-warner/coaster-express.webp"
+    alt: "Montaña rusa de madera Coaster Express en Parque Warner"
+  - src: "/images/actividades/madrid/parque-warner/torre-noche.webp"
+    alt: "Torre de caída iluminada de noche en Parque Warner Madrid"
+  - src: "/images/actividades/madrid/parque-warner/espectaculo-nocturno.webp"
+    alt: "Espectáculo nocturno con fuegos artificiales en Parque Warner"
+  - src: "/images/actividades/madrid/parque-warner/torre-caida-noche.webp"
+    alt: "Torre de caída vista desde abajo, de noche"
+  - src: "/images/actividades/madrid/parque-warner/coaster-madera-estructura.webp"
+    alt: "Estructura de la montaña rusa de madera"
+  - src: "/images/actividades/madrid/parque-warner/rio-bravo-tobogan.webp"
+    alt: "Tobogán de agua de la atracción Río Bravo"
+  - src: "/images/actividades/madrid/parque-warner/rio-bravo-caida.webp"
+    alt: "Caída final de la atracción Río Bravo"
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas:

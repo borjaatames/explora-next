@@ -71,12 +71,20 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Pilot whales surfacing in the waters off Tenerife
 galeria:
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: "Pilot whale surfacing and breathing, Tenerife"
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: "Pilot whale blowing at the surface, Tenerife"
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: "Pilot whale calf beside its mother, Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-respirando.webp"
+    alt: "A pilot whale surfacing to breathe"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
+    alt: "A cetacean blowing at the surface off Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
+    alt: "A pilot whale calf next to its mother"
+  - src: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
+    alt: "A catamaran sailing off the coast of Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp"
+    alt: "A group of dolphins swimming at the surface"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp"
+    alt: "A pilot whale leaping through the surf"
+  - src: "/images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp"
+    alt: "Cliffs along the south coast of Tenerife"
 ratingProveedor: 4.7
 numeroOpiniones: 4248
 atraccionesRelacionadas:

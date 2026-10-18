@@ -73,12 +73,20 @@ keywords:
 imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
 imagenAlt: "Salto de delfines en el espectáculo de Mundomar, Benidorm"
 galeria:
-- src: /images/actividades/alicante/mundomar/delfin-entrenador.webp
-  alt: "Delfín saltando junto a su entrenador en Mundomar"
-- src: /images/actividades/alicante/mundomar/delfines-piscina.webp
-  alt: "Delfines mulares en la piscina de Mundomar"
-- src: /images/actividades/alicante/mundomar/escenario-pirata.webp
-  alt: "Escenario pirata del delfinario de Mundomar"
+  - src: "/images/actividades/alicante/mundomar/delfin-entrenador.webp"
+    alt: "Delfín saltando junto a su entrenador en Mundomar"
+  - src: "/images/actividades/alicante/mundomar/delfines-piscina.webp"
+    alt: "Delfines mulares en la piscina de Mundomar"
+  - src: "/images/actividades/alicante/mundomar/escenario-pirata.webp"
+    alt: "Escenario pirata del delfinario de Mundomar"
+  - src: "/images/actividades/alicante/mundomar/delfin-salto-entrenador.webp"
+    alt: "Delfín saltando sobre el agua en el show de Mundomar"
+  - src: "/images/actividades/alicante/mundomar/delfines-nadando-superficie.webp"
+    alt: "Delfines nadando en la superficie de la piscina"
+  - src: "/images/actividades/alicante/mundomar/delfin-salto-pirata.webp"
+    alt: "Delfín saltando junto al escenario pirata"
+  - src: "/images/actividades/alicante/mundomar/entrenadora-piscina.webp"
+    alt: "Entrenadora saludando al público tras el show"
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:

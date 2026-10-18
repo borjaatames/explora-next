@@ -7,3 +7,7 @@
 - `tabarca-playa.webp` — Enrique Íñiguez Rodríguez (Qoan), CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tabarca._Platja_Gran_2.JPG) · recortada a 1600×1200
 - `puerta-trancada.webp` — Enrique Íñiguez Rodríguez (Qoan), CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tabarca._Puerta_de_la_Trancada.jpg) · recortada a 1600×1200
 - `porta-de-terra.webp` — Enrique Íñiguez Rodríguez (Qoan), CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tabarca._Porta_de_Terra_1.JPG) · recortada a 1600×1200
+
+## Fotos añadidas 18-10-2026
+- `tabarca-calle.webp` — Will Myers, Unsplash License (https://unsplash.com/photos/buildings-during-day-8ms05qClRb0)
+- `tabarca-fortificacion.webp` — Senne Gilis, Unsplash License (https://unsplash.com/photos/a-large-green-and-white-boat-in-the-water-By420uS9xEk)

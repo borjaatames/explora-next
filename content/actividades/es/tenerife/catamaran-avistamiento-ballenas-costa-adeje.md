@@ -71,12 +71,20 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Calderones tropicales en las aguas de Tenerife
 galeria:
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Calderón tropical respirando en la superficie
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Soplo de un cetáceo en Tenerife
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Cría de calderón tropical junto a su madre
+  - src: "/images/actividades/tenerife/cetaceos/calderon-respirando.webp"
+    alt: "Calderón tropical respirando en la superficie"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
+    alt: "Soplo de un cetáceo en Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
+    alt: "Cría de calderón tropical junto a su madre"
+  - src: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
+    alt: "Catamarán navegando frente a la costa de Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp"
+    alt: "Grupo de delfines nadando en superficie"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp"
+    alt: "Calderón saltando entre la espuma del mar"
+  - src: "/images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp"
+    alt: "Acantilados de la costa sur de Tenerife"
 ratingProveedor: 4.7
 numeroOpiniones: 4248
 atraccionesRelacionadas:

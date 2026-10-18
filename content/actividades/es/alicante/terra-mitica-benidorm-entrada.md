@@ -74,12 +74,20 @@ keywords:
 imagen: /images/actividades/alicante/terra-mitica/magnus-colossus.webp
 imagenAlt: "Montaña rusa de madera Magnus Colossus en Terra Mítica, Benidorm"
 galeria:
-- src: /images/actividades/alicante/terra-mitica/vista-parque.webp
-  alt: "Vista general de Terra Mítica con el Magnus Colossus"
-- src: /images/actividades/alicante/terra-mitica/estructura-madera.webp
-  alt: "Estructura de la montaña rusa de madera de Terra Mítica"
-- src: /images/actividades/alicante/terra-mitica/entrada-colossus.webp
-  alt: "Entrada tematizada del Magnus Colossus"
+  - src: "/images/actividades/alicante/terra-mitica/vista-parque.webp"
+    alt: "Vista general de Terra Mítica con el Magnus Colossus"
+  - src: "/images/actividades/alicante/terra-mitica/estructura-madera.webp"
+    alt: "Estructura de la montaña rusa de madera de Terra Mítica"
+  - src: "/images/actividades/alicante/terra-mitica/entrada-colossus.webp"
+    alt: "Entrada tematizada del Magnus Colossus"
+  - src: "/images/actividades/alicante/terra-mitica/colossus-tematizacion.webp"
+    alt: "Detalle de la tematización del Magnus Colossus"
+  - src: "/images/actividades/alicante/terra-mitica/colossus-vista-general.webp"
+    alt: "Vista general del Magnus Colossus"
+  - src: "/images/actividades/alicante/terra-mitica/colossus-cartel.webp"
+    alt: "Cartel de entrada al Magnus Colossus"
+  - src: "/images/actividades/alicante/terra-mitica/colossus-vagones.webp"
+    alt: "Vagones de la montaña rusa Magnus Colossus"
 ratingProveedor: 4.5
 numeroOpiniones: 504
 atraccionesRelacionadas:

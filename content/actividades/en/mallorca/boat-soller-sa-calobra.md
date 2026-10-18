@@ -72,12 +72,20 @@ keywords:
 imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Sa Calobra cove and limestone cliffs, Mallorca
 galeria:
-- src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: "Torrent de Pareis gorge walk at Sa Calobra, Mallorca"
-- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: "Port de Sóller bay, departure point for the boat trip"
-- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
-  alt: "View over Port de Sóller and its bay"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-torrent.webp"
+    alt: "Inside the Torrent de Pareis, with its 200-metre walls"
+  - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
+    alt: "Port de Sóller bay, where the boat departs from"
+  - src: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
+    alt: "View of Port de Sóller with the Tramuntana mountains"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-aerea.webp"
+    alt: "Aerial view of the Torrent de Pareis river mouth"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
+    alt: "Path through the Sa Calobra gorge"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-barco.webp"
+    alt: "A boat arriving at Sa Calobra"
+  - src: "/images/actividades/mallorca/soller/port-de-soller-pueblo.webp"
+    alt: "The village of Port de Sóller from the sea"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

@@ -76,12 +76,20 @@ keywords:
 imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Acantilados de Sa Calobra vistos desde el barco
 galeria:
-- src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: Interior del Torrent de Pareis con sus paredes de 200 metros
-- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Bahía de Port de Sóller desde donde sale el barco
-- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
-  alt: Vista del Puerto de Sóller con las montañas de Tramuntana
+  - src: "/images/actividades/mallorca/soller/sa-calobra-torrent.webp"
+    alt: "Interior del Torrent de Pareis con sus paredes de 200 metros"
+  - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
+    alt: "Bahía de Port de Sóller desde donde sale el barco"
+  - src: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
+    alt: "Vista del Puerto de Sóller con las montañas de Tramuntana"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-aerea.webp"
+    alt: "Vista aérea de la desembocadura del Torrent de Pareis"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
+    alt: "Sendero por el interior de la garganta de Sa Calobra"
+  - src: "/images/actividades/mallorca/soller/sa-calobra-barco.webp"
+    alt: "Barco llegando a Sa Calobra"
+  - src: "/images/actividades/mallorca/soller/port-de-soller-pueblo.webp"
+    alt: "El pueblo de Port de Sóller desde el mar"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

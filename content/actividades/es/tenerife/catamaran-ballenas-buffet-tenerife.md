@@ -70,12 +70,20 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Calderón tropical de cerca en las aguas de Tenerife
 galeria:
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Cría de calderón tropical en Tenerife
-- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Delfín moteado del Atlántico
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Soplo de un calderón tropical
+  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
+    alt: "Cría de calderón tropical en Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/delfin-moteado.webp"
+    alt: "Delfín moteado del Atlántico"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
+    alt: "Soplo de un calderón tropical"
+  - src: "/images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp"
+    alt: "Pareja de delfines saltando juntos"
+  - src: "/images/actividades/tenerife/cetaceos/ballena-aleta-superficie.webp"
+    alt: "Aleta de una ballena en la superficie"
+  - src: "/images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp"
+    alt: "Delfín nadando cerca del catamarán"
+  - src: "/images/actividades/tenerife/cetaceos/cola-ballena.webp"
+    alt: "Cola de una ballena en aguas de Tenerife"
 ratingProveedor: 4.8
 numeroOpiniones: 2242
 atraccionesRelacionadas:

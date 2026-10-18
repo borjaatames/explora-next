@@ -69,12 +69,20 @@ keywords:
 imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
 imagenAlt: "Rio Bravo water ride drop at Parque Warner Madrid"
 galeria:
-- src: /images/actividades/madrid/parque-warner/coaster-express.webp
-  alt: "Coaster Express wooden roller coaster at Parque Warner"
-- src: /images/actividades/madrid/parque-warner/torre-noche.webp
-  alt: "Drop tower lit up at night at Parque Warner Madrid"
-- src: /images/actividades/madrid/parque-warner/espectaculo-nocturno.webp
-  alt: "Night show with fireworks at Parque Warner"
+  - src: "/images/actividades/madrid/parque-warner/coaster-express.webp"
+    alt: "Coaster Express wooden roller coaster at Parque Warner"
+  - src: "/images/actividades/madrid/parque-warner/torre-noche.webp"
+    alt: "Drop tower lit up at night at Parque Warner Madrid"
+  - src: "/images/actividades/madrid/parque-warner/espectaculo-nocturno.webp"
+    alt: "Night fireworks show at Parque Warner"
+  - src: "/images/actividades/madrid/parque-warner/torre-caida-noche.webp"
+    alt: "Drop tower seen from below at night"
+  - src: "/images/actividades/madrid/parque-warner/coaster-madera-estructura.webp"
+    alt: "Structure of the wooden roller coaster"
+  - src: "/images/actividades/madrid/parque-warner/rio-bravo-tobogan.webp"
+    alt: "Water slide of the Rio Bravo ride"
+  - src: "/images/actividades/madrid/parque-warner/rio-bravo-caida.webp"
+    alt: "Final drop of the Rio Bravo ride"
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas:

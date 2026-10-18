@@ -76,12 +76,16 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-islote.webp
 imagenAlt: Islote y aguas transparentes de la isla de Tabarca
 galeria:
-- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Aguas transparentes de la reserva marina de Tabarca
-- src: /images/actividades/alicante/tabarca/puerta-trancada.webp
-  alt: Puerta de la Trancada, Tabarca
-- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Faro de Tabarca
+  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
+    alt: "Aguas transparentes de la reserva marina de Tabarca"
+  - src: "/images/actividades/alicante/tabarca/puerta-trancada.webp"
+    alt: "Puerta de la Trancada, Tabarca"
+  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
+    alt: "Faro de Tabarca"
+  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
+    alt: "Calle del pueblo de Tabarca"
+  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
+    alt: "Fortificación de Tabarca vista desde el mar"
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:

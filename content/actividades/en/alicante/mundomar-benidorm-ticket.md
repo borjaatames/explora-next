@@ -73,12 +73,20 @@ keywords:
 imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
 imagenAlt: "Dolphins leaping during the show at Mundomar, Benidorm"
 galeria:
-- src: /images/actividades/alicante/mundomar/delfin-entrenador.webp
-  alt: "Dolphin jumping beside its trainer at Mundomar"
-- src: /images/actividades/alicante/mundomar/delfines-piscina.webp
-  alt: "Bottlenose dolphins in the pool at Mundomar"
-- src: /images/actividades/alicante/mundomar/escenario-pirata.webp
-  alt: "Pirate-ship stage of the Mundomar dolphinarium"
+  - src: "/images/actividades/alicante/mundomar/delfin-entrenador.webp"
+    alt: "A dolphin jumping next to its trainer at Mundomar"
+  - src: "/images/actividades/alicante/mundomar/delfines-piscina.webp"
+    alt: "Bottlenose dolphins in the Mundomar pool"
+  - src: "/images/actividades/alicante/mundomar/escenario-pirata.webp"
+    alt: "The pirate-themed stage of Mundomar's dolphinarium"
+  - src: "/images/actividades/alicante/mundomar/delfin-salto-entrenador.webp"
+    alt: "A dolphin leaping during the Mundomar show"
+  - src: "/images/actividades/alicante/mundomar/delfines-nadando-superficie.webp"
+    alt: "Dolphins swimming at the surface of the pool"
+  - src: "/images/actividades/alicante/mundomar/delfin-salto-pirata.webp"
+    alt: "A dolphin jumping next to the pirate-ship stage"
+  - src: "/images/actividades/alicante/mundomar/entrenadora-piscina.webp"
+    alt: "A trainer greeting the audience after the show"
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:

@@ -70,12 +70,18 @@ keywords:
 imagen: /images/actividades/granada/catedral/granada-catedral-04.webp
 imagenAlt: Facade of Granada Cathedral
 galeria:
-- src: /images/actividades/granada/catedral/granada-catedral-01.webp
-  alt: Chapel of Our Lady of Sorrows, Granada Cathedral
-- src: /images/actividades/granada/catedral/granada-catedral-02.webp
-  alt: Interior of Granada Cathedral
-- src: /images/actividades/granada/catedral/granada-catedral-06.webp
-  alt: Gate of Forgiveness
+  - src: "/images/actividades/granada/catedral/granada-catedral-01.webp"
+    alt: "Chapel of Our Lady of Sorrows, Granada Cathedral"
+  - src: "/images/actividades/granada/catedral/granada-catedral-02.webp"
+    alt: "Interior of Granada Cathedral"
+  - src: "/images/actividades/granada/catedral/granada-catedral-06.webp"
+    alt: "Puerta del Perdón"
+  - src: "/images/actividades/granada/catedral/granada-catedral-03.webp"
+    alt: "Nave of Granada Cathedral"
+  - src: "/images/actividades/granada/catedral/granada-catedral-07.webp"
+    alt: "Dome of the Capilla Mayor, Granada Cathedral"
+  - src: "/images/actividades/granada/catedral/granada-catedral-08.webp"
+    alt: "Alonso Cano's facade, Granada Cathedral"
 ratingProveedor: 4.5
 numeroOpiniones: 612
 atraccionesRelacionadas:

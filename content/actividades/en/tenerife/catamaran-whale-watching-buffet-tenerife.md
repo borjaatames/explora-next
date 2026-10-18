@@ -73,12 +73,20 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Pilot whale surfacing close to a catamaran off the coast of Tenerife
 galeria:
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: "Pilot whale calf swimming alongside its mother, Tenerife"
-- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: "Atlantic spotted dolphin off the coast of Tenerife"
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: "Pilot whale blowing at the surface, Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
+    alt: "A pilot whale calf in Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/delfin-moteado.webp"
+    alt: "An Atlantic spotted dolphin"
+  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
+    alt: "A pilot whale blowing at the surface"
+  - src: "/images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp"
+    alt: "A pair of dolphins leaping together"
+  - src: "/images/actividades/tenerife/cetaceos/ballena-aleta-superficie.webp"
+    alt: "A whale's fin at the surface"
+  - src: "/images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp"
+    alt: "A dolphin swimming close to the catamaran"
+  - src: "/images/actividades/tenerife/cetaceos/cola-ballena.webp"
+    alt: "A whale's tail in the waters off Tenerife"
 ratingProveedor: 4.8
 numeroOpiniones: 2242
 atraccionesRelacionadas:
