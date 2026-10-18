@@ -75,6 +75,10 @@ keywords:
 imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Delfines comunes saltando
 galeria:
+- src: "/images/actividades/cadiz/delfines/delfines-saltando.webp"
+  alt: "Delfines Saltando"
+- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
+  alt: "Cadiz"
 - src: /images/actividades/cadiz/delfines/delfin-comun.webp
   alt: Delfín común junto a la superficie
 - src: /images/actividades/cadiz/delfines/rorcual.webp

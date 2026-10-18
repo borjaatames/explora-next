@@ -57,6 +57,12 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/a6b2476e-ada9-4866-b2c7-d046415f6ed4.jpg"
 imagenAlt: Personal photoshoot at an iconic Barcelona location
 galeria:
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp"
+  alt: "Barceloneta View Barcelona Beach Iconic Hotel"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-wella-barcelona-nature-hotel-wella-hero.webp"
+  alt: "Barceloneta Wella Barcelona Nature Hotel Wella"
+- src: "/images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Barrio Gotico Barcelona Explore Narrow Historic Street"
 - src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
   alt: Photo taken outside the Sagrada Familia, photo 1 of 5
 - src: https://imgcdn.bokun.tools/3c940b4e-9a54-4f89-948e-c6b83a6315ab.jpg

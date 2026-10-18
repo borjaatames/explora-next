@@ -76,6 +76,10 @@ keywords:
 imagen: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
 imagenAlt: Castillo de Santa Catalina junto al mar
 galeria:
+- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
+  alt: "Cadiz"
+- src: "/images/actividades/cadiz/mar/bahia-atardecer.webp"
+  alt: "Bahia Atardecer"
 - src: /images/actividades/cadiz/mar/puente-1812-noche.webp
   alt: Puente de la Constitución de 1812 iluminado de noche
 - src: /images/actividades/cadiz/mar/catedral-campo-sur.webp

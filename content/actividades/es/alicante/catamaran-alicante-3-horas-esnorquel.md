@@ -84,6 +84,10 @@ keywords:
 imagen: /images/actividades/alicante/costa/cabo-huertas.webp
 imagenAlt: Faro del Cabo de las Huertas
 galeria:
+- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
+  alt: "Alicante"
+- src: "/images/actividades/alicante/centro/ayuntamiento.webp"
+  alt: "Ayuntamiento"
 - src: /images/actividades/alicante/costa/postiguet.webp
   alt: Playa del Postiguet bajo el castillo
 - src: /images/actividades/alicante/costa/cabo-huertas-faro.webp

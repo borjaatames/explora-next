@@ -75,6 +75,22 @@ keywords:
 imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Common dolphins leaping
 galeria:
+- src: "/images/actividades/cadiz/delfines/delfines-saltando.webp"
+  alt: "Delfines Saltando"
+- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
+  alt: "Cadiz"
+- src: "/images/actividades/cadiz/delfines/delfin-comun.webp"
+  alt: "A common dolphin at the surface"
+- src: "/images/actividades/cadiz/delfines/rorcual.webp"
+  alt: "A fin whale at the surface"
+- src: "/images/actividades/cadiz/delfines/rorcual-soplo.webp"
+  alt: "A fin whale swimming in the Atlantic"
+- src: "/images/actividades/cadiz/delfines/faro-trafalgar.webp"
+  alt: "Cape Trafalgar lighthouse"
+- src: "/images/actividades/cadiz/delfines/cabo-trafalgar.webp"
+  alt: "Cape Trafalgar and its lighthouse"
+- src: "/images/actividades/cadiz/delfines/puerto-barbate.webp"
+  alt: "Barbate marina"
 - src: /images/actividades/cadiz/delfines/delfin-comun.webp
   alt: A common dolphin at the surface
 - src: /images/actividades/cadiz/delfines/rorcual.webp

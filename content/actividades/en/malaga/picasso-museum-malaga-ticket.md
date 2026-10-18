@@ -80,6 +80,22 @@ keywords:
 imagen: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
 imagenAlt: Arcaded courtyard of the Buenavista Palace, home of the Picasso Museum Málaga
 galeria:
+- src: "/images/actividades/malaga/museo-picasso/patio-buenavista.webp"
+  alt: "Patio Buenavista"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+  alt: "Alcazaba Malaga Vista"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Málaga Cathedral, near the Picasso Museum"
+- src: "/images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp"
+  alt: "Picasso Museum Málaga"
+- src: "/images/actividades/malaga/museo-picasso/patio-flores.webp"
+  alt: "Flower-filled courtyard at the Picasso Museum Málaga"
+- src: "/images/actividades/malaga/museo-picasso/sala-obras.webp"
+  alt: "Visitors looking at Picasso paintings in a gallery"
+- src: "/images/actividades/malaga/museo-picasso/fachada-museo.webp"
+  alt: "Façade with the Picasso Museum Málaga sign"
+- src: "/images/actividades/malaga/catedral-malaga/fachada.webp"
+  alt: "Málaga Cathedral façade, a few steps from the museum"
 - src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
   alt: "Málaga Cathedral, near the Picasso Museum"
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp

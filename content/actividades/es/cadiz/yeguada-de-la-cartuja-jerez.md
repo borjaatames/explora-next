@@ -75,6 +75,10 @@ keywords:
 imagen: /images/actividades/cadiz/yeguada/cobra-yeguas.webp
 imagenAlt: Exhibición de una cobra de yeguas en la Yeguada de la Cartuja
 galeria:
+- src: "/images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp"
+  alt: "Torre Antigua Bodega Jerez"
+- src: "/images/actividades/cadiz/yeguada/cobra-yeguas.webp"
+  alt: "Cobra Yeguas"
 - src: /images/actividades/cadiz/yeguada/yeguas-potros.webp
   alt: Yeguas y potros cartujanos
 - src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp

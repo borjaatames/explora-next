@@ -85,9 +85,13 @@ galeria:
   - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
     alt: "Tabarca lighthouse"
   - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
-    alt: "A street in Tabarca's village"
+    alt: "A street in Tabarca"
   - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
-    alt: "Tabarca's fortification seen from the sea"
+    alt: "Tabarca"
+  - src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
+    alt: "Faro Tabarca Campo"
+  - src: "/images/actividades/alicante/tabarca/muralla-antigua-tabarca.webp"
+    alt: "Muralla Antigua Tabarca"
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:

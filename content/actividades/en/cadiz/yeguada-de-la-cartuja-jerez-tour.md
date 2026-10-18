@@ -75,6 +75,22 @@ keywords:
 imagen: /images/actividades/cadiz/yeguada/cobra-yeguas.webp
 imagenAlt: A team of mares on display at the Yeguada de la Cartuja
 galeria:
+- src: "/images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp"
+  alt: "Torre Antigua Bodega Jerez"
+- src: "/images/actividades/cadiz/yeguada/cobra-yeguas.webp"
+  alt: "Cobra Yeguas"
+- src: "/images/actividades/cadiz/yeguada/yeguas-potros.webp"
+  alt: "Carthusian mares and foals"
+- src: "/images/actividades/cadiz/yeguada/jinete-cartujano.webp"
+  alt: "Rider on a Carthusian horse"
+- src: "/images/actividades/cadiz/yeguada/yeguas-pista.webp"
+  alt: "Carthusian mares in the arena"
+- src: "/images/actividades/cadiz/yeguada/potros.webp"
+  alt: "Carthusian colts in the field"
+- src: "/images/actividades/cadiz/yeguada/enganche.webp"
+  alt: "Carthusian horses pulling a carriage"
+- src: "/images/actividades/cadiz/yeguada/manada.webp"
+  alt: "A herd of Carthusian horses"
 - src: /images/actividades/cadiz/yeguada/yeguas-potros.webp
   alt: Carthusian mares and foals
 - src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp

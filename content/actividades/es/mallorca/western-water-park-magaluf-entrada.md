@@ -79,6 +79,10 @@ keywords:
 imagen: /images/actividades/mallorca/parque-acuatico/parque-acuatico-1.webp
 imagenAlt: Piscina infantil con toboganes de colores en un parque acuático
 galeria:
+- src: "/images/actividades/mallorca/forestal-park/circuito-arboles.webp"
+  alt: "Circuito Arboles"
+- src: "/images/actividades/mallorca/forestal-park/circuito-cuerdas.webp"
+  alt: "Circuito Cuerdas"
 - src: /images/actividades/mallorca/parque-acuatico/toboganes-colores.webp
   alt: Toboganes de colores en un parque acuático
 - src: /images/actividades/mallorca/parque-acuatico/parque-acuatico-2.webp

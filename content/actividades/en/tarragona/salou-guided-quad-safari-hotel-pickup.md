@@ -77,6 +77,22 @@ keywords:
 imagen: /images/actividades/tarragona/quad/quad-pista.webp
 imagenAlt: A quad on a dirt track
 galeria:
+- src: "/images/actividades/tarragona/costa/cap-salou.webp"
+  alt: "Cap Salou"
+- src: "/images/actividades/tarragona/costa/faro-salou.webp"
+  alt: "Faro Salou"
+- src: "/images/actividades/tarragona/quad/quad-pista.webp"
+  alt: "Quad Pista"
+- src: "/images/actividades/tarragona/quad/quad-camino.webp"
+  alt: "Quad bike route along the trails of Salou"
+- src: "/images/actividades/tarragona/quad/prades-siurana.webp"
+  alt: "The Prades mountains and Siurana"
+- src: "/images/actividades/tarragona/quad/montsant.webp"
+  alt: "Mountain landscape inland from Tarragona"
+- src: "/images/actividades/tarragona/quad/quad-barro.webp"
+  alt: "A quad crossing a puddle"
+- src: "/images/actividades/tarragona/quad/prades-atardecer.webp"
+  alt: "Sunset over the Prades mountains"
 - src: "/images/actividades/tarragona/quad/quad-camino.webp"
   alt: "Quad bike route along the trails of Salou"
 - src: /images/actividades/tarragona/quad/prades-siurana.webp

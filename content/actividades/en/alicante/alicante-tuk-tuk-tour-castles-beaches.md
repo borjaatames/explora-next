@@ -77,6 +77,22 @@ keywords:
 imagen: /images/actividades/alicante/centro/castillo-santa-barbara.webp
 imagenAlt: Santa Bárbara Castle on Mount Benacantil
 galeria:
+- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
+  alt: "Alicante"
+- src: "/images/actividades/alicante/centro/calle-san-antonio.webp"
+  alt: "Calle San Antonio"
+- src: "/images/actividades/alicante/centro/explanada-palmeras.webp"
+  alt: "Palm trees on the Explanada de España"
+- src: "/images/actividades/alicante/centro/santa-maria.webp"
+  alt: "Basilica of Santa María"
+- src: "/images/actividades/alicante/costa/postiguet-castillo.webp"
+  alt: "Postiguet and Mount Benacantil"
+- src: "/images/actividades/alicante/centro/castillo-vistas.webp"
+  alt: "Sea views from the castle"
+- src: "/images/actividades/alicante/centro/ayuntamiento.webp"
+  alt: "Alicante City Hall"
+- src: "/images/actividades/alicante/costa/postiguet-paseo.webp"
+  alt: "Promenade by Postiguet beach"
 - src: /images/actividades/alicante/centro/explanada-palmeras.webp
   alt: Palm trees on the Explanada de España
 - src: /images/actividades/alicante/centro/santa-maria.webp

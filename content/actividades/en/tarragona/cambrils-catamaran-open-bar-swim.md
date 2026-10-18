@@ -77,6 +77,22 @@ keywords:
 imagen: /images/actividades/tarragona/costa/cap-salou.webp
 imagenAlt: The sea off Cap de Salou
 galeria:
+- src: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
+  alt: "Tarragona"
+- src: "/images/actividades/tarragona/catedral/capilla.webp"
+  alt: "Capilla"
+- src: "/images/actividades/tarragona/costa/puerto-cambrils.webp"
+  alt: "Cambrils harbour"
+- src: "/images/actividades/tarragona/costa/cambrils-velero.webp"
+  alt: "A sailing boat in Cambrils harbour"
+- src: "/images/actividades/tarragona/costa/faro-salou.webp"
+  alt: "Salou lighthouse"
+- src: "/images/actividades/tarragona/costa/punta-grossa.webp"
+  alt: "Punta Grossa viewpoint in Salou"
+- src: "/images/actividades/tarragona/costa/platja-llarga.webp"
+  alt: "Platja Llarga in Salou"
+- src: "/images/actividades/tarragona/costa/cambrils-barcas.webp"
+  alt: "Boats in Cambrils harbour"
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
   alt: Cambrils harbour
 - src: /images/actividades/tarragona/costa/cambrils-velero.webp

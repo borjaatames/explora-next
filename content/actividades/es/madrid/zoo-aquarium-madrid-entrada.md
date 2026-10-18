@@ -76,6 +76,12 @@ keywords:
 imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
 imagenAlt: "Espectáculo de delfines en el Zoo Aquarium de Madrid"
 galeria:
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp"
+  alt: "Zoo Delfinario"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero-hero.webp"
+  alt: "Catedral Almudena Cathedral Madrid Architecture"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero.webp"
+  alt: "Catedral Almudena Cathedral Madrid Architecture"
 - src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
   alt: "Osos panda en el Zoo Aquarium de Madrid"
 - src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp

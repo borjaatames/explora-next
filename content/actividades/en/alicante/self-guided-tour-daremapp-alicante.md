@@ -62,6 +62,20 @@ keywords:
 imagen: "/images/actividades/alicante/centro/explanada.webp"
 imagenAlt: "The mosaic of the Explanada de España"
 galeria:
+- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
+  alt: "Alicante"
+- src: "/images/actividades/alicante/centro/ayuntamiento.webp"
+  alt: "Ayuntamiento"
+- src: "/images/actividades/alicante/centro/vista-puerto.webp"
+  alt: "Alicante and its port from the castle"
+- src: "/images/actividades/alicante/costa/postiguet.webp"
+  alt: "Postiguet beach below the castle"
+- src: "/images/actividades/alicante/centro/explanada-palmeras.webp"
+  alt: "Explanada promenade, next to the port"
+- src: "/images/actividades/alicante/centro/calle-san-antonio.webp"
+  alt: "Calle San Antonio in the Santa Cruz quarter"
+- src: "/images/actividades/alicante/centro/santa-cruz-vista.webp"
+  alt: "Santa Cruz quarter on the slopes of Benacantil"
 - src: /images/actividades/alicante/centro/vista-puerto.webp
   alt: "Alicante and its port from the castle"
 - src: /images/actividades/alicante/costa/postiguet.webp

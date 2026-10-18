@@ -77,6 +77,10 @@ keywords:
 imagen: /images/actividades/tarragona/costa/cap-salou.webp
 imagenAlt: Mar frente al Cap de Salou
 galeria:
+- src: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
+  alt: "Tarragona"
+- src: "/images/actividades/tarragona/catedral/capilla.webp"
+  alt: "Capilla"
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
   alt: Puerto de Cambrils
 - src: /images/actividades/tarragona/costa/cambrils-velero.webp

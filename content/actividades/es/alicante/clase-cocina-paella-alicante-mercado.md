@@ -75,6 +75,10 @@ keywords:
 imagen: /images/actividades/alicante/paella/paella.webp
 imagenAlt: Paella recién hecha
 galeria:
+- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
+  alt: "Alicante"
+- src: "/images/actividades/alicante/paella/paella.webp"
+  alt: "Paella"
 - src: /images/actividades/alicante/paella/mercado-central.webp
   alt: Fachada del Mercado Central de Alicante
 - src: /images/actividades/alicante/paella/paella-valenciana.webp

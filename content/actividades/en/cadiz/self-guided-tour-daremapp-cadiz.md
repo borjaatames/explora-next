@@ -62,6 +62,20 @@ keywords:
 imagen: "/images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp"
 imagenAlt: "Plaza de San Juan de Dios and the City Hall"
 galeria:
+- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
+  alt: "Cadiz"
+- src: "/images/actividades/cadiz/bodega/bodega-mezquita.webp"
+  alt: "Bodega Mezquita"
+- src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
+  alt: "Façade of Cádiz Cathedral"
+- src: "/images/actividades/cadiz/mar/puente-1812-noche.webp"
+  alt: "The Constitution of 1812 Bridge lit up at night"
+- src: "/images/actividades/cadiz/centro/arco-blanco-populo.webp"
+  alt: "Arco de los Blanco in the Pópulo quarter"
+- src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
+  alt: "View of Cádiz from the Torre Tavira"
+- src: "/images/actividades/cadiz/centro/monumento-1812.webp"
+  alt: "Monument to the Constitution of 1812"
 - src: /images/actividades/cadiz/centro/catedral-fachada.webp
   alt: "Façade of Cádiz Cathedral"
 - src: /images/actividades/cadiz/mar/puente-1812-noche.webp

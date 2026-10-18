@@ -80,6 +80,10 @@ keywords:
 imagen: /images/actividades/alicante/vino/vinedos.webp
 imagenAlt: Viñedos en el campo
 galeria:
+- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
+  alt: "Alicante"
+- src: "/images/actividades/alicante/vino/vinedos.webp"
+  alt: "Vinedos"
 - src: /images/actividades/alicante/vino/barricas.webp
   alt: Barricas de vino en una bodega
 - src: /images/actividades/alicante/vino/cata-copas.webp
