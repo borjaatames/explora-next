@@ -52,9 +52,33 @@ keywords:
 - tour privado jerez gastronomia flamenco
 - visita privada jerez tabancos cata
 - jerez flamenco privado tour
-imagen: "/images/actividades/jerez-de-la-frontera/centro/jerez-hero.webp"
+imagen: "/images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp"
 imagenAlt: Casco histórico de Jerez de la Frontera
 galeria:
+  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp"
+    alt: "Barricas de vino en una bodega de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp"
+    alt: "Cata de vinos de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-fachada-hero.webp"
+    alt: "Fachada de una bodega tradicional de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp"
+    alt: "Campanario de la Catedral de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp"
+    alt: "Cúpula de la Catedral de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp"
+    alt: "Jardines del Alcázar de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+    alt: "Baños árabes del Alcázar de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp"
+    alt: "Techo estrellado de los baños árabes del Alcázar"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+    alt: "Entrada al Alcázar de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp"
+    alt: "Bailaora de flamenco en un tablao de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp"
+    alt: "Músicos en directo en un tablao flamenco de Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp"
+    alt: "Público disfrutando de un espectáculo flamenco en Jerez"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

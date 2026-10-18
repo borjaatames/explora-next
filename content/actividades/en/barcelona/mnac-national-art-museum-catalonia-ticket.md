@@ -69,10 +69,12 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
 imagenAlt: Palau Nacional on Montjuïc, home of the MNAC
 galeria:
-- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: Views of Barcelona from the MNAC terrace
-- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Plaça d'Espanya and the Venetian towers from Montjuïc
+  - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
+    alt: "Views of Barcelona from the MNAC terrace"
+  - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
+    alt: "Plaça d'Espanya and the Venetian towers from Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/images-hero.webp"
+    alt: "Aerial view of Montjuïc with the Palau Nacional (MNAC)"
 ratingProveedor: 4.5
 numeroOpiniones: 2161
 atraccionesRelacionadas:

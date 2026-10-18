@@ -52,9 +52,33 @@ categoria: experienciasPrivadas
 keywords:
 - gran canaria north private tour
 - private arucas firgas agaete tour
-imagen: "/images/actividades/gran-canaria/norte/gran-canaria-norte-hero.webp"
+imagen: "/images/actividades/gran-canaria/norte/arucas-iglesia-fachada-hero.webp"
 imagenAlt: North coast of Gran Canaria
 galeria:
+  - src: "/images/actividades/gran-canaria/norte/tufia-pueblo-vista-hero.webp"
+    alt: "Panoramic view of the fishing village of Tufia"
+  - src: "/images/actividades/gran-canaria/norte/tufia-casas-mar-hero.webp"
+    alt: "Houses of Tufia by the sea"
+  - src: "/images/actividades/gran-canaria/norte/tufia-ruinas-prehispanicas-hero.webp"
+    alt: "Pre-Hispanic settlement ruins at Tufia"
+  - src: "/images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp"
+    alt: "Tower of the Church of San Juan Bautista in Arucas"
+  - src: "/images/actividades/gran-canaria/norte/arucas-iglesia-detalle-piedra-hero.webp"
+    alt: "Stone detail of the Church of San Juan Bautista in Arucas"
+  - src: "/images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp"
+    alt: "Tiled cascade on the Paseo de Canarias in Firgas"
+  - src: "/images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp"
+    alt: "Traditional tiles on the Paseo de Canarias in Firgas"
+  - src: "/images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp"
+    alt: "Relief model of a Canary Island on the Paseo de Canarias in Firgas"
+  - src: "/images/actividades/gran-canaria/norte/agaete-puerto-nieves-hero.webp"
+    alt: "Puerto de las Nieves, in Agaete"
+  - src: "/images/actividades/gran-canaria/norte/agaete-valle-carretera-hero.webp"
+    alt: "Road into the Agaete valley"
+  - src: "/images/actividades/gran-canaria/norte/agaete-valle-aereo-hero.webp"
+    alt: "Aerial view of the Agaete valley"
+  - src: "/images/actividades/gran-canaria/norte/agaete-iglesia-hero.webp"
+    alt: "Chapel by the port of Agaete"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

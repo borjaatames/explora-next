@@ -41,9 +41,31 @@ keywords:
 - peniscola day trip from valencia
 - pope luna castle peniscola
 - peniscola walled town
-imagen: "/images/actividades/valencia/peniscola/excursion-peniscola-desde-valencia-hero.webp"
+imagen: "/images/actividades/valencia/peniscola/peniscola-castillo-playa-hero.webp"
 imagenAlt: Peñíscola's walled old town and castle above the sea
 galeria:
+  - src: "/images/actividades/valencia/peniscola/peniscola-pueblo-castillo-hero.webp"
+    alt: "The town and castle of Peñíscola over the sea"
+  - src: "/images/actividades/valencia/peniscola/peniscola-puerto-hero.webp"
+    alt: "Port of Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-castillo-roca-hero.webp"
+    alt: "Peñíscola Castle on the rocky promontory"
+  - src: "/images/actividades/valencia/peniscola/peniscola-castillo-patio-hero.webp"
+    alt: "Inner courtyard of Peñíscola Castle"
+  - src: "/images/actividades/valencia/peniscola/peniscola-detalle-piedra-hero.webp"
+    alt: "Stone detail of the Peñíscola walls"
+  - src: "/images/actividades/valencia/peniscola/peniscola-faro-hero.webp"
+    alt: "Lighthouse next to Peñíscola Castle"
+  - src: "/images/actividades/valencia/peniscola/peniscola-aereo-atardecer-hero.webp"
+    alt: "Aerial view of Peñíscola at sunset"
+  - src: "/images/actividades/valencia/peniscola/peniscola-aereo-turquesa-hero.webp"
+    alt: "Aerial view of Peñíscola with turquoise waters"
+  - src: "/images/actividades/valencia/peniscola/peniscola-playa-voley-hero.webp"
+    alt: "Peñíscola beach with a volleyball net"
+  - src: "/images/actividades/valencia/peniscola/peniscola-playa-amplia-hero.webp"
+    alt: "Wide sandy beach in Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-muralla-aerea-hero.webp"
+    alt: "Aerial view of Peñíscola's city walls"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

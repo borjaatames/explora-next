@@ -75,12 +75,14 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
 imagenAlt: "Vistas de Barcelona desde la montaña de Montjuïc"
 galeria:
-- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: "Panorámica de Barcelona desde Montjuïc, con las fuentes y la plaza de España"
-- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-  alt: "Palau Nacional (MNAC) en la ladera de Montjuïc"
-- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: "Torres venecianas y plaza de España a los pies de Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
+    alt: "Panorámica de Barcelona desde Montjuïc, con las fuentes y la plaza de España"
+  - src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+    alt: "Palau Nacional (MNAC) en la ladera de Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
+    alt: "Torres venecianas y plaza de España a los pies de Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pexels-6437868-hero.webp"
+    alt: "Vistas panorámicas de Barcelona desde Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas:

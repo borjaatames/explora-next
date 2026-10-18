@@ -71,12 +71,20 @@ keywords:
 imagen: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-cloister-02-hero.webp
 imagenAlt: Claustro del Monasterio de San Juan de los Reyes, Toledo
 galeria:
-- src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp
-  alt: Iglesia de Santo Tomé, donde está El entierro del conde de Orgaz
-- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp
-  alt: Mezquita del Cristo de la Luz
-- src: /images/actividades/madrid/toledo/callejon-vista-alcazar.webp
-  alt: Callejón de Toledo con el Alcázar al fondo
+  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp"
+    alt: "Iglesia de Santo Tomé, donde está El entierro del conde de Orgaz"
+  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"
+    alt: "Mezquita del Cristo de la Luz"
+  - src: "/images/actividades/madrid/toledo/callejon-vista-alcazar.webp"
+    alt: "Callejón de Toledo con el Alcázar al fondo"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-6079996465-hero.webp"
+    alt: "Gárgola del Monasterio de San Juan de los Reyes"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9751577-hero.webp"
+    alt: "Estatuas en la fachada del Monasterio de San Juan de los Reyes"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766821-hero.webp"
+    alt: "Entrada al claustro del Monasterio de San Juan de los Reyes"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp"
+    alt: "Fachada gótica del Monasterio de San Juan de los Reyes"
 ratingProveedor: 4.4
 numeroOpiniones: 728
 atraccionesRelacionadas:

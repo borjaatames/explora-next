@@ -95,12 +95,22 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-arc
 imagenAlt: "Park Güell in Barcelona, entrance with Gaudí's Modernista pavilions"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-architecture-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
-- src: /images/actividades/barcelona/park-guell/park-guell-blue-white-red-floral-textile-hero.webp
-  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-architecture-hero.webp"
+    alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 1)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-hero.webp"
+    alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 2)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-blue-white-red-floral-textile-hero.webp"
+    alt: "Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-spain-landmark-hero.webp"
+    alt: "Gaudí's modernist architecture in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp"
+    alt: "Architectural detail in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-2-hero-hero.webp"
+    alt: "Gaudí-designed pavilions in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-multicoloured-art-hero-hero.webp"
+    alt: "Colourful mosaic typical of Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp"
+    alt: "A corner of Park Güell with Gaudí's architecture"
 
 ratingProveedor: 4.6
 numeroOpiniones: 571

@@ -73,12 +73,26 @@ keywords:
 imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
 imagenAlt: Aerial view of the Alhambra in Granada with the Sierra Nevada behind
 galeria:
-- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: Court of the Lions in the Nasrid Palaces
-- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp
-  alt: Muqarnas vault of the Hall of the Abencerrajes
-- src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp
-  alt: The Alhambra at dusk from the Albaicín
+  - src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+    alt: "Court of the Lions in the Nasrid Palaces"
+  - src: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
+    alt: "Muqarnas vault of the Hall of the Abencerrajes"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
+    alt: "The Alhambra at dusk from the Albaicín"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"
+    alt: "Columns and arches of the Alhambra in Granada"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
+    alt: "Gallery of columns and arches inside the Alhambra"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-walls-towers-spain-hero.webp"
+    alt: "Walls and towers of the Alhambra fortress"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"
+    alt: "Muqarnas ceiling in the Court of the Lions"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"
+    alt: "Window with Nasrid inscriptions in the Cuarto Dorado"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"
+    alt: "Fountain of the Lions in the Nasrid Palaces"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
+    alt: "Coat of arms of the Nasrid kings at the Alhambra"
 ratingProveedor: 4.6
 numeroOpiniones: 18167
 atraccionesRelacionadas:

@@ -99,12 +99,22 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-g
 imagenAlt: "Vista panorámica del Park Güell con sus mosaicos característicos"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp
-  alt: Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp
-  alt: Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp"
+    alt: "Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp"
+    alt: "Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+    alt: "Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero.webp"
+    alt: "Monumento emblemático de Gaudí en Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+    alt: "Pabellón de entrada de Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp"
+    alt: "El dragón de mosaico de Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp"
+    alt: "Vistas de Barcelona desde Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp"
+    alt: "Visitantes frente a un edificio de Park Güell"
 
 ratingProveedor: 4.7
 numeroOpiniones: 5637

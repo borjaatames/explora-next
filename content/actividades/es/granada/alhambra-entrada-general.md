@@ -73,12 +73,26 @@ keywords:
 imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
 imagenAlt: Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo
 galeria:
-- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: Patio de los Leones en los Palacios Nazaríes
-- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp
-  alt: Bóveda de mocárabes de la Sala de los Abencerrajes
-- src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp
-  alt: La Alhambra al atardecer desde el Albaicín
+  - src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+    alt: "Patio de los Leones en los Palacios Nazaríes"
+  - src: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
+    alt: "Bóveda de mocárabes de la Sala de los Abencerrajes"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
+    alt: "La Alhambra al atardecer desde el Albaicín"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"
+    alt: "Columnas y arcos de la Alhambra de Granada"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
+    alt: "Galería de columnas y arcos dentro de la Alhambra"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-walls-towers-spain-hero.webp"
+    alt: "Murallas y torres de la fortaleza de la Alhambra"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"
+    alt: "Techo de mocárabes del Patio de los Leones"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"
+    alt: "Ventana con inscripciones nazaríes en el Cuarto Dorado"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"
+    alt: "Fuente de los Leones en los Palacios Nazaríes"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
+    alt: "Escudo de los reyes nazaríes en la Alhambra"
 ratingProveedor: 4.6
 numeroOpiniones: 18167
 atraccionesRelacionadas:

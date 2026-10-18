@@ -73,12 +73,24 @@ keywords:
 imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
 imagenAlt: Monastery of El Escorial and its gardens
 galeria:
-- src: /images/actividades/madrid/valle-caidos/valle-caidos-by-forcy-cruz-piedad-hero.webp
-  alt: The 150-metre cross of the Valley of Cuelgamuros
-- src: /images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp
-  alt: High chapel of the basilica carved into the rock
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
-  alt: El Escorial library
+  - src: "/images/actividades/madrid/valle-caidos/valle-caidos-by-forcy-cruz-piedad-hero.webp"
+    alt: "The 150-metre cross of the Valley of Cuelgamuros"
+  - src: "/images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp"
+    alt: "High chapel of the basilica carved into the rock"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp"
+    alt: "El Escorial library"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-alegoria-musica-real-biblioteca-hero.webp"
+    alt: "Ceiling fresco in the Royal Library of El Escorial (monastery stop)"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp"
+    alt: "Entrance to the Pantheon of the Kings at El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-escalier-hero.webp"
+    alt: "Staircase leading to the Pantheon of the Kings"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-sarcofago-reina-victoria-eugenia-hero.webp"
+    alt: "Royal sarcophagus in the El Escorial Pantheon"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stone-building-distant-mountains-hero.webp"
+    alt: "El Escorial with the Sierra de Guadarrama in the background"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-fale-spain-madrid-29-hero.webp"
+    alt: "Interior of the El Escorial Monastery basilica"
 ratingProveedor: 4.7
 numeroOpiniones: 1769
 atraccionesRelacionadas:

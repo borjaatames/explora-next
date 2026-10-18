@@ -100,10 +100,20 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mos
 imagenAlt: "Park Güell guided tour group on the serpentine bench terrace"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp
-  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
+  - src: "/images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp"
+    alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 1)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp"
+    alt: "Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-europe-spain-hero.webp"
+    alt: "Gaudí's architecture in Park Güell, Europe"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-europe-architecture-spain-hero-hero.webp"
+    alt: "Detail of Gaudí's architecture in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp"
+    alt: "Views of Barcelona from the top of Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/unsplash-aX5NLrKgRBc-hero.webp"
+    alt: "Aerial view of Barcelona's buildings from Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero-hero.webp"
+    alt: "Park Güell, Catalonia, Gaudí's work"
 ratingProveedor: 4.7
 numeroOpiniones: 19407
 

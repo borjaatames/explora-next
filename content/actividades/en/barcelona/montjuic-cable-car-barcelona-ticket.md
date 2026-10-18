@@ -67,12 +67,14 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
 imagenAlt: "Views over Barcelona from Montjuïc hill"
 galeria:
-- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: "Panorama of Barcelona from Montjuïc, with the fountains and Plaça d'Espanya"
-- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-  alt: "Palau Nacional (MNAC) on the slopes of Montjuïc"
-- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: "Venetian towers and Plaça d'Espanya at the foot of Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
+    alt: "Panorama of Barcelona from Montjuïc, with the fountains and Plaça d'Espanya"
+  - src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+    alt: "Palau Nacional (MNAC) on the slopes of Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
+    alt: "Venetian towers and Plaça d'Espanya at the foot of Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pexels-6437868-hero.webp"
+    alt: "Panoramic views of Barcelona from Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas:

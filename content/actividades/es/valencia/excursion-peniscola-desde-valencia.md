@@ -41,9 +41,31 @@ keywords:
 - excursion peniscola desde valencia
 - castillo papa luna peniscola
 - peniscola ciudad amurallada
-imagen: "/images/actividades/valencia/peniscola/excursion-peniscola-desde-valencia-hero.webp"
+imagen: "/images/actividades/valencia/peniscola/peniscola-castillo-playa-hero.webp"
 imagenAlt: El casco antiguo amurallado y el castillo de Peñíscola sobre el mar
 galeria:
+  - src: "/images/actividades/valencia/peniscola/peniscola-pueblo-castillo-hero.webp"
+    alt: "El pueblo y castillo de Peñíscola sobre el mar"
+  - src: "/images/actividades/valencia/peniscola/peniscola-puerto-hero.webp"
+    alt: "Puerto de Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-castillo-roca-hero.webp"
+    alt: "Castillo de Peñíscola sobre el peñón"
+  - src: "/images/actividades/valencia/peniscola/peniscola-castillo-patio-hero.webp"
+    alt: "Patio interior del Castillo de Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-detalle-piedra-hero.webp"
+    alt: "Detalle en piedra de las murallas de Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-faro-hero.webp"
+    alt: "Faro junto al Castillo de Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-aereo-atardecer-hero.webp"
+    alt: "Vista aérea de Peñíscola al atardecer"
+  - src: "/images/actividades/valencia/peniscola/peniscola-aereo-turquesa-hero.webp"
+    alt: "Vista aérea de Peñíscola con aguas turquesas"
+  - src: "/images/actividades/valencia/peniscola/peniscola-playa-voley-hero.webp"
+    alt: "Playa de Peñíscola con red de vóley playa"
+  - src: "/images/actividades/valencia/peniscola/peniscola-playa-amplia-hero.webp"
+    alt: "Amplia playa de arena de Peñíscola"
+  - src: "/images/actividades/valencia/peniscola/peniscola-muralla-aerea-hero.webp"
+    alt: "Vista aérea de la muralla de Peñíscola"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

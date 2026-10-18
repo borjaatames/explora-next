@@ -71,12 +71,28 @@ keywords:
 imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero.webp
 imagenAlt: Fachada principal del Monasterio de El Escorial
 galeria:
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
-  alt: Biblioteca del Monasterio de El Escorial
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
-  alt: Jardines de los Frailes y fachada sur
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
-  alt: Fachada de la basílica en el Patio de los Reyes
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp"
+    alt: "Biblioteca del Monasterio de El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp"
+    alt: "Jardines de los Frailes y fachada sur"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp"
+    alt: "Fachada de la basílica en el Patio de los Reyes"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp"
+    alt: "Altar mayor de la basílica de El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp"
+    alt: "Cripta real bajo la basílica de El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-alegoria-geometria-biblioteca-real-hero.webp"
+    alt: "Fresco de la Biblioteca Real de El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp"
+    alt: "Llamador de la puerta principal del monasterio"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp"
+    alt: "Vista aérea del Monasterio de El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-view-from-north-west-hero.webp"
+    alt: "El Escorial visto desde el noroeste"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp"
+    alt: "Estatua del rey David en la fachada de la basílica"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
+    alt: "Claustro del Monasterio de El Escorial"
 ratingProveedor: 4.5
 numeroOpiniones: 312
 atraccionesRelacionadas:

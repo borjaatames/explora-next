@@ -53,9 +53,33 @@ keywords:
 - jerez private tour gastronomy flamenco
 - jerez tabancos wine tasting private
 - jerez flamenco private tour
-imagen: "/images/actividades/jerez-de-la-frontera/centro/jerez-hero.webp"
+imagen: "/images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp"
 imagenAlt: Historic old town of Jerez de la Frontera
 galeria:
+  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp"
+    alt: "Wine barrels in a Jerez sherry bodega"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp"
+    alt: "Jerez sherry wine tasting"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-fachada-hero.webp"
+    alt: "Facade of a traditional Jerez bodega"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp"
+    alt: "Bell tower of Jerez Cathedral"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp"
+    alt: "Dome of Jerez Cathedral"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp"
+    alt: "Gardens of the Alcázar of Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+    alt: "Arab baths of the Alcázar of Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp"
+    alt: "Star-patterned ceiling of the Arab baths at the Alcázar"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+    alt: "Entrance to the Alcázar of Jerez"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp"
+    alt: "Flamenco dancer at a Jerez tablao"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp"
+    alt: "Live musicians at a Jerez flamenco tablao"
+  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp"
+    alt: "Audience enjoying a flamenco show in Jerez"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

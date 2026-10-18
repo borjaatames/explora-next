@@ -99,12 +99,22 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-g
 imagenAlt: "Panoramic view of Park Güell with its characteristic mosaics"
 
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 1)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp
-  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp"
+    alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 1)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp"
+    alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 2)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+    alt: "Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero.webp"
+    alt: "Gaudí's iconic landmark in Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+    alt: "Entrance pavilion of Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp"
+    alt: "Park Güell's famous mosaic dragon"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp"
+    alt: "Views of Barcelona from Park Güell"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp"
+    alt: "Visitors in front of a Park Güell building"
 
 ratingProveedor: 4.7
 numeroOpiniones: 5637
