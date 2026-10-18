@@ -64,6 +64,8 @@ keywords:
 imagen: "/images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp"
 imagenAlt: "El río Onyar a su paso por Girona"
 galeria:
+- src: "/images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp"
+  alt: "Puente rojo y casas de colores sobre el rio Onyar en Girona"
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
   alt: "Casas de colores del Onyar reflejadas en el río"
 - src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp

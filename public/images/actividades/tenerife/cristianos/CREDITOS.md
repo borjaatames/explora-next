@@ -7,3 +7,5 @@
 - `playa-los-cristianos.webp` — Ian Gratton, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Los_Christianos_beach.jpg) · recortada a 1600×1200
 - `costa-palm-mar.webp` — Mike Peel (www.mikepeel.net), CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Palm-Mar_2020_01.jpg) · recortada a 1600×1200
 - `montana-guaza.webp` — Diego Delso, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Monta%C3%B1a_de_Guaza%2C_Tenerife%2C_Espa%C3%B1a%2C_2022-01-07%2C_DD_01.jpg) · recortada a 1600×1200
+- `barco-turistas-delfines.webp` — Unsplash, Gustavo A. Perez (Licencia Unsplash) — https://unsplash.com/photos/a-group-of-people-riding-on-the-back-of-a-yellow-boat-0GdU11g1vZI
+- `velero-blanco-mar-abierto.webp` — Pexels, Andrea Imre (Licencia Pexels) — https://www.pexels.com/photo/white-sailboat-on-sea-10550309/

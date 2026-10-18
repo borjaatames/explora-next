@@ -92,6 +92,10 @@ keywords:
 imagen: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
 imagenAlt: Los Cristianos bay
 galeria:
+- src: "/images/actividades/tenerife/cristianos/barco-turistas-delfines.webp"
+  alt: "Barco turistico junto a un grupo de delfines"
+- src: "/images/actividades/tenerife/cristianos/velero-blanco-mar-abierto.webp"
+  alt: "Velero blanco navegando en mar abierto"
 - src: /images/actividades/tenerife/cristianos/playa-honda.webp
   alt: Playa Honda in Los Cristianos
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp

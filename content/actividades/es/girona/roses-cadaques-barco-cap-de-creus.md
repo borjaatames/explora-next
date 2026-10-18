@@ -85,6 +85,8 @@ keywords:
 imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
 imagenAlt: Bahía de Cadaqués con barcas fondeadas y el pueblo blanco al fondo
 galeria:
+- src: "/images/actividades/girona/cadaques/casa-dali-portlligat-piscina.webp"
+  alt: "Casa Museo Salvador Dali en Portlligat, cerca de Cadaques"
 - src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
   alt: Faro del Cap de Creus sobre las rocas
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp

@@ -84,6 +84,8 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Calderones frente a la costa de Tenerife
 galeria:
+- src: "/images/actividades/tenerife/cetaceos/ballena-nadando-superficie.webp"
+  alt: "Ballena nadando cerca de la superficie del mar"
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: Calderón tropical respirando en superficie
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos.webp

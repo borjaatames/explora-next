@@ -12,3 +12,5 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `pujada-sant-domenec.webp`: «Pujada de Sant Domenec, Girona, Catalonia», por Larry Lamb, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Pujada_de_Sant_Domenec%2C_Girona%2C_Catalonia_(44178748112).jpg
 - `pujada-sant-domenec-arco.webp`: «Temps de Flors 2022, pujada de Sant Domènec (Girona)», por Enric, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:051_Temps_de_Flors_2022%2C_pujada_de_Sant_Dom%C3%A8nec_(Girona)%2C_casa_Agullana_i_Sant_Mart%C3%AD.jpg
 - `sant-pere-galligants.webp`: «Girona, Eglesia de Sant Pere de Galligants (7)», por Richard Mortel, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Girona%2C_Eglesia_de_Sant_Pere_de_Galligants%2C_11th-12th_cents_(7)_(30495836284).jpg
+- `catedral-escalinata-multitud.webp` — Unsplash, Joshua Kettle (Licencia Unsplash) — https://unsplash.com/photos/a-group-of-people-walking-up-and-down-some-stairs-uy0-cfm4raw
+- `casas-onyar-catedral-fondo.webp` — Pixabay, christels (Licencia Pixabay) — https://pixabay.com/photos/girona-city-river-buildings-houses-6840326/

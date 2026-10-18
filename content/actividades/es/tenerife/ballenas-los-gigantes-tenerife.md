@@ -73,6 +73,10 @@ keywords:
 imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Acantilados de Los Gigantes desde el mar en Tenerife
 galeria:
+- src: "/images/actividades/tenerife/gigantes/costa-acantilado-velero.webp"
+  alt: "Costa y acantilado vistos desde un barco de avistamiento"
+- src: "/images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp"
+  alt: "Delfin nadando en la superficie del mar"
 - src: "/images/actividades/tenerife/gigantes/gigantes-pueblo.webp"
   alt: "Pueblo de Los Gigantes en Tenerife"
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp

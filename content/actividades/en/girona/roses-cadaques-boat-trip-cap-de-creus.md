@@ -85,6 +85,8 @@ keywords:
 imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
 imagenAlt: Cadaqués bay with moored boats and the white village behind
 galeria:
+- src: "/images/actividades/girona/cadaques/casa-dali-portlligat-piscina.webp"
+  alt: "Casa Museo Salvador Dali en Portlligat, cerca de Cadaques"
 - src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
   alt: Cap de Creus lighthouse on the rocks
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp

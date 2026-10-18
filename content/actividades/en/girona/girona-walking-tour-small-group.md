@@ -78,6 +78,10 @@ keywords:
 imagen: /images/actividades/girona/juego-de-tronos/casas-onyar.webp
 imagenAlt: Colourful houses above the Onyar river in Girona
 galeria:
+- src: "/images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp"
+  alt: "Escalinata de la Catedral de Girona llena de visitantes"
+- src: "/images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp"
+  alt: "Casas del Onyar con la catedral de Girona al fondo"
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Bell towers of Girona's Barri Vell seen from the city walls
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp

@@ -9,3 +9,4 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `cap-de-creus-costa.webp`: «From Cap de Creus, direction to Cadaqués.jpg», por Pimlico27, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:From_Cap_de_Creus%2C_direction_to_Cadaqu%C3%A9s.jpg
 - `cap-de-creus-faro.webp`: «Cap de Creus 3.jpg», por Gordito1869, CC BY 3.0. https://commons.wikimedia.org/wiki/File:Cap_de_Creus_3.jpg
 - `portlligat.webp`: «Port Lligat, Cadaqués (Gerona) - panoramio (2).jpg», por velomartinez, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Port_Lligat%2C_Cadaqu%C3%A9s_(Gerona)_-_panoramio_(2).jpg
+- `casa-dali-portlligat-piscina.webp` — Pexels, CK Seng (Licencia Pexels) — https://www.pexels.com/photo/scenic-view-of-coastal-resort-complex-by-lake-31168964/

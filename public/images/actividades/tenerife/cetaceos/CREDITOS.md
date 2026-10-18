@@ -16,3 +16,4 @@
 - `ballena-aleta-superficie.webp` — John Arellano Riera, Pexels License (https://www.pexels.com/photo/whale-in-ocean-22670211/)
 - `delfin-nadando-cerca.webp` — makabera, Pixabay License (https://pixabay.com/photos/dolphin-ocean-atlantic-buzzer-8949505/)
 - `cola-ballena.webp` — dassel, Pixabay License (https://pixabay.com/photos/whale-the-humpback-whale-4490326/) · es un rorcual/ballena jorobada, no calderón; usar con descripción genérica
+- `ballena-nadando-superficie.webp` — Pexels, John Arellano Riera (Licencia Pexels) — https://www.pexels.com/photo/whale-in-ocean-22670211/

@@ -14,3 +14,5 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 | dali-figueres-wikimedia-cupola-of-the-teatre-museu-dal-in-figuer-02.webp | Wikimedia Commons: File:Cupola of the Teatre-Museu Dalí in Figueres 01.jpg (https://commons.wikimedia.org/wiki/File:Cupola_of_the_Teatre-Museu_Dal%C3%AD_in_Figueres_01.jpg) | CC BY-SA 4.0 | Kritzolina |
 | dali-figueres-wikimedia-figueres-teatre-museu-dal-0104-jpg-04.webp | Wikimedia Commons: File:Figueres - Teatre-Museu Dalí 0104.JPG (https://commons.wikimedia.org/wiki/File:Figueres_-_Teatre-Museu_Dal%C3%AD_0104.JPG) | CC BY-SA 4.0 | Phyrexian |
 | dali-figueres-wikimedia-figueres-teatre-museu-dal-0106-jpg-06.webp | Wikimedia Commons: File:Figueres - Teatre-Museu Dalí 0106.JPG (https://commons.wikimedia.org/wiki/File:Figueres_-_Teatre-Museu_Dal%C3%AD_0106.JPG) | CC BY-SA 4.0 | Phyrexian |
+- `torres-huevos-museu-dali.webp` — Pixabay, LoggaWiggler (Licencia Pixabay) — https://pixabay.com/photos/egg-bullet-museum-dali-figueras-5168/
+- `entrada-museu-dali-estatua-dorada.webp` — Pixabay, LoggaWiggler (Licencia Pixabay) — https://pixabay.com/photos/museum-dali-figueras-spain-5213/
