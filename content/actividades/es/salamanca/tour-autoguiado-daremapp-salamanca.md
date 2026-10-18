@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/salamanca/universidad/fachada-universidad.webp"
 imagenAlt: "Fachada plateresca de la Universidad de Salamanca"
 galeria:
+- src: "/images/actividades/salamanca/plaza/plaza-mayor-soportales.webp"
+  alt: "Soportales de la Plaza Mayor de Salamanca"
 - src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
   alt: "Fachada del Ayuntamiento en la Plaza Mayor"
 - src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp

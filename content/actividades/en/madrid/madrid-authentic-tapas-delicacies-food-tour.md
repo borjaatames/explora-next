@@ -98,6 +98,8 @@ imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-h
 imagenAlt: "Plaza Mayor, Madrid"
 
 galeria:
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-cervantes-memorial-spain-statue-hero.webp"
+    alt: "Street in Madrid's historic center"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
     alt: "Spanish cured meats and drinks"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patagonia-churros-hot-chocolate-hero.webp"

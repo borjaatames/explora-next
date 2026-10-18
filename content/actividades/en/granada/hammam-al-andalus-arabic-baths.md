@@ -98,6 +98,8 @@ imagen: "/images/actividades/granada/hammam/hammam-pexels-33279021.webp"
 imagenAlt: "Oils and scents ready for the hammam ritual"
 
 galeria:
+- src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+  alt: "View of Granada from the San Nicolás viewpoint"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-06.webp
   alt: "Plaza Nueva and Santa Ana church, next to the hammam"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp

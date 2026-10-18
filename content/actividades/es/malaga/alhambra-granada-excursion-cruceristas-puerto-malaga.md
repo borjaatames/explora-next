@@ -74,6 +74,8 @@ keywords:
 imagen: /images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp
 imagenAlt: La Alhambra de Granada
 galeria:
+- src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp"
+  alt: "Jardines del Generalife en la Alhambra de Granada"
 - src: https://imgcdn.bokun.tools/898ed821-0bcf-47a8-bd40-2558d5719b40.jpg
   alt: La Alhambra con Sierra Nevada nevada al fondo
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp

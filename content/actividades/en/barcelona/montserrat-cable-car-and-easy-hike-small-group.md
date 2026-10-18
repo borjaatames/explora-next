@@ -97,6 +97,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-
 imagenAlt: "Cable car ascending to the top of the Montserrat massif"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+    alt: "Montserrat monastery among the mountains"
   - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
     alt: "Aerial view of the natural surroundings of Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"

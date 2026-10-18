@@ -50,6 +50,8 @@ imagen: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-
 imagenAlt: "Navigable underground river in the San José Caves"
 
 galeria:
+- src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
+  alt: "Boat ride through the Caves of San José in Valencia"
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
   alt: "San José Caves boat ride from Valencia (Bokun)"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp

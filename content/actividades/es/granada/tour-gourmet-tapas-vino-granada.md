@@ -93,6 +93,10 @@ imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-05.webp"
 imagenAlt: "Vino tinto con tapas de queso y patatas en Granada"
 
 galeria:
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+    alt: "Vista de Granada desde el mirador de San Nicolás"
+  - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"
+    alt: "Vista de Granada desde el mirador de San Nicolás"
   - src: "/images/actividades/granada/wikimedia/granada-bib-rambla-04.webp"
     alt: "Plaza Bib-Rambla con la catedral de Granada al fondo"
   - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-03.webp"

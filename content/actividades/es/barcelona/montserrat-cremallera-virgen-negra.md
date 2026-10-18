@@ -97,6 +97,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interi
 imagenAlt: "Tren cremallera ascendiendo por la ladera de la montaña de Montserrat"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+    alt: "Monasterio de Montserrat entre las montañas"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
     alt: "Fachada de la basílica de Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"

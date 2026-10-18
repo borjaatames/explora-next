@@ -72,6 +72,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
 imagenAlt: Banana plantations in the Arucas landscape
 galeria:
+- src: "/images/actividades/gran-canaria/platano/arucas-iglesia-exterior.webp"
+  alt: "Church of Arucas, Gran Canaria"
 - src: /images/actividades/gran-canaria/platano/plataneras.webp
   alt: Bunches in a Canarian banana plantation
 - src: /images/actividades/gran-canaria/platano/platanos-racimo.webp

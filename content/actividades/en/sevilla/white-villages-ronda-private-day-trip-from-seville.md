@@ -76,6 +76,8 @@ keywords:
 imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
 imagenAlt: Ronda's Puente Nuevo over the gorge
 galeria:
+- src: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp"
+  alt: "Group of visitors exploring Ronda"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: Zahara de la Sierra with its castle and reservoir
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp

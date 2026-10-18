@@ -104,6 +104,8 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero.webp"
+  alt: "Fachada de la Sagrada Familia de Barcelona"
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia, basílica modernista de Gaudí en Barcelona con torres góticas y fachada ornamentada
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp

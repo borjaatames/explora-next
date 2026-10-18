@@ -80,6 +80,8 @@ keywords:
 imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
 imagenAlt: "Two-tone arches inside the Mosque-Cathedral of Córdoba"
 galeria:
+- src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp"
+  alt: "Golden mihrab of the Mosque-Cathedral of Córdoba"
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
   alt: "Narrow street in Córdoba's Jewish Quarter"
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp

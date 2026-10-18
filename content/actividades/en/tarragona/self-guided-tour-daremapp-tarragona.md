@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/tarragona/romana/anfiteatro-gradas.webp"
 imagenAlt: "Amphitheatre stands during a historical re-enactment"
 galeria:
+- src: "/images/actividades/tarragona/romana/pretorio-interior.webp"
+  alt: "Interior of the Roman Praetorium of Tarragona"
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
   alt: "The cathedral cloister and garden"
 - src: /images/actividades/tarragona/romana/muralla-romana.webp

@@ -80,6 +80,8 @@ keywords:
 imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
 imagenAlt: "Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba"
 galeria:
+- src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp"
+  alt: "Mihrab dorado de la Mezquita-Catedral de Córdoba"
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
   alt: "Calleja de la Judería de Córdoba"
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp

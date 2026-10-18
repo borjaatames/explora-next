@@ -99,6 +99,8 @@ imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-ve
 imagenAlt: "Azoteas madrid aerial photography vehicles en Azoteas"
 
 galeria:
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-ornate-white-building-trees-cars-hero.webp"
+    alt: "Palacio de Cibeles en Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
     alt: "Tapas madrid patatas bravas 2011 en Tapas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"

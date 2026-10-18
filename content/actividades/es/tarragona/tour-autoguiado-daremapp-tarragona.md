@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/tarragona/romana/anfiteatro-gradas.webp"
 imagenAlt: "Gradas del anfiteatro durante una recreación histórica"
 galeria:
+- src: "/images/actividades/tarragona/romana/pretorio-interior.webp"
+  alt: "Interior del Pretorio romano de Tarragona"
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
   alt: "Claustro y jardín de la catedral"
 - src: /images/actividades/tarragona/romana/muralla-romana.webp

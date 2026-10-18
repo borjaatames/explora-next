@@ -93,6 +93,8 @@ imagen: "/images/actividades/granada/wikimedia/granada-catedral-04.webp"
 imagenAlt: "Fachada principal de la Catedral de Granada"
 
 galeria:
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+    alt: "Vista de Granada desde el mirador de San Nicolás"
   - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     alt: "Fachada de la Capilla Real y la Catedral de Granada"
   - src: "/images/actividades/granada/wikimedia/granada-catedral-06.webp"

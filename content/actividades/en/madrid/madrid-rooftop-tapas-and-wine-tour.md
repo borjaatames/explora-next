@@ -98,6 +98,8 @@ imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-ve
 imagenAlt: "Rooftop view over Madrid"
 
 galeria:
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-ornate-white-building-trees-cars-hero.webp"
+    alt: "Cibeles Palace in Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
     alt: "Patatas bravas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"

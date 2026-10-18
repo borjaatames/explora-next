@@ -88,6 +88,10 @@ keywords:
 imagen: /images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp
 imagenAlt: Montserrat mountain with the monastery set among its rock walls
 galeria:
+- src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+  alt: "Montserrat monastery among the mountains"
+- src: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp"
+  alt: "Montserrat monastery among the mountains"
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp
   alt: Cloister of Montserrat monastery
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp

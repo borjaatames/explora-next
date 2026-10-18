@@ -75,6 +75,14 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
 imagenAlt: "Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid"
 galeria:
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp"
+  alt: "Museo Reina Sofía de Madrid"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp"
+  alt: "Museo Reina Sofía de Madrid"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "Museo Reina Sofía de Madrid"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp"
+  alt: "Museo Reina Sofía de Madrid"
 - src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
   alt: "Visitantes ante una obra abstracta en el Museo Reina Sofía"
 - src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp

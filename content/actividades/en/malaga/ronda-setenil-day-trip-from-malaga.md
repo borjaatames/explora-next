@@ -81,6 +81,8 @@ keywords:
 imagen: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
 imagenAlt: "Street in Setenil de las Bodegas with houses under the rock"
 galeria:
+  - src: "/images/actividades/malaga/setenil/panoramica.webp"
+    alt: "Panoramic view of Setenil de las Bodegas"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp"
     alt: "Ronda's Puente Nuevo over the gorge"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp"

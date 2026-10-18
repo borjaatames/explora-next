@@ -97,6 +97,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-rel
 imagenAlt: "Tren cremallera de Montserrat con vistas a la montaña catalana"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+    alt: "Monasterio de Montserrat entre las montañas"
   - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
     alt: "Vistas de las montañas de Montserrat desde el monasterio"
   - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero.webp"

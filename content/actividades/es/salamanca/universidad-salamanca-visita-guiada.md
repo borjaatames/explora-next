@@ -69,6 +69,10 @@ keywords:
 imagen: /images/actividades/salamanca/universidad/fachada-detalle.webp
 imagenAlt: Detalle de la fachada de la Universidad
 galeria:
+- src: "/images/actividades/salamanca/universidad/universidad-salamanca-patio-claustro-pozo-hero.webp"
+  alt: "Universidad de Salamanca"
+- src: "/images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero.webp"
+  alt: "Universidad de Salamanca"
 - src: /images/actividades/salamanca/universidad/biblioteca.webp
   alt: Biblioteca histórica de la Universidad
 - src: /images/actividades/salamanca/universidad/medallon-reyes.webp

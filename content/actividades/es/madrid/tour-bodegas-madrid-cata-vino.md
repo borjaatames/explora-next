@@ -93,6 +93,8 @@ imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-eman
 imagenAlt: "Copa de vino tinto sirviéndose durante una cata en bodega"
 
 galeria:
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-white-bowl-filled-olives-tomatoes-hero.webp"
+    alt: "Tapas tradicionales madrileñas"
   - src: "/images/actividades/madrid/chinchon/pexels-36878676-hero.webp"
     alt: "Plaza Mayor de Chinchón con sus balcones de madera"
   - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"

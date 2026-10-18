@@ -101,6 +101,8 @@ imagen: "/images/actividades/granada/wikimedia/granada-banuelo-05.webp"
 imagenAlt: "Bóvedas con lucernarios estrellados del Bañuelo, baño árabe de Granada"
 
 galeria:
+- src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+  alt: "Vista de Granada desde el mirador de San Nicolás"
 - src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
   alt: "Arcos de herradura del Bañuelo de Granada"
 - src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp

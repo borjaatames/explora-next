@@ -143,6 +143,10 @@ keywords:
 imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp"
 imagenAlt: "Roman amphitheatre of Itálica"
 galeria:
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp"
+    alt: "Yacimiento arqueológico romano de Itálica"
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp"
+    alt: "Yacimiento arqueológico romano de Itálica"
   - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp"
     alt: "Well-preserved Roman mosaic with decorative tesserae and motifs from a Seville noble house, featuring intricate tile patterns and classical designs."
   - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp"

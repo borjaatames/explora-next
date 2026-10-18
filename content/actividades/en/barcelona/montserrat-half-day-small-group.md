@@ -103,6 +103,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmon
 imagenAlt: "Interior of the Benedictine monastery of Montserrat"
 
 galeria:
+- src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+  alt: "Montserrat monastery among the mountains"
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp

@@ -97,6 +97,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-
 imagenAlt: "Teleférico ascendiendo a la cima del macizo de Montserrat"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+    alt: "Monasterio de Montserrat entre las montañas"
   - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
     alt: "Vista aérea del entorno natural de Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"

@@ -135,6 +135,10 @@ keywords:
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
 imagenAlt: Casa Batlló modernist facade with colorful mosaic tiles and undulating walls in Barcelona
 galeria:
+- src: "/images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp"
+  alt: "Detail of the undulating facade of Casa Batlló, by Gaudí"
+- src: "/images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp"
+  alt: "Detail of the undulating facade of Casa Batlló, by Gaudí"
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
   alt: Casa Batlló's undulating facade with colorful mosaic tiles and ornamental balconies in Barcelona
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp

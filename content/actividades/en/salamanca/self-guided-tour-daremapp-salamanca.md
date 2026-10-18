@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/salamanca/universidad/fachada-universidad.webp"
 imagenAlt: "The Plateresque façade of the University of Salamanca"
 galeria:
+- src: "/images/actividades/salamanca/plaza/plaza-mayor-soportales.webp"
+  alt: "Arcades of the Plaza Mayor in Salamanca"
 - src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
   alt: "The City Hall façade on Plaza Mayor"
 - src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp

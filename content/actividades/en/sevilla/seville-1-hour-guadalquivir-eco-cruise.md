@@ -116,6 +116,8 @@ imagen: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalqui
 imagenAlt: "Torre del Oro on the Guadalquivir"
 
 galeria:
+- src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-06.webp"
+  alt: "Interior of Seville Cathedral"
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
   alt: "Triana Bridge over the Guadalquivir"
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp

@@ -101,6 +101,8 @@ imagen: "/images/actividades/granada/wikimedia/granada-banuelo-05.webp"
 imagenAlt: "Star-shaped skylights in the vaults of El Bañuelo, Granada Arab bath"
 
 galeria:
+- src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+  alt: "View of Granada from the San Nicolás viewpoint"
 - src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
   alt: "Horseshoe arches of El Bañuelo, Granada"
 - src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp

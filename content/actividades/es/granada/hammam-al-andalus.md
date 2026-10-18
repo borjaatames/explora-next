@@ -98,6 +98,8 @@ imagen: "/images/actividades/granada/hammam/hammam-pexels-33279021.webp"
 imagenAlt: "Aceites y aromas preparados para el ritual del hammam"
 
 galeria:
+- src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+  alt: "Vista de Granada desde el mirador de San Nicolás"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-06.webp
   alt: "Plaza Nueva e iglesia de Santa Ana, junto al hammam"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp

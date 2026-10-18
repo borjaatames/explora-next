@@ -99,6 +99,8 @@ imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-h
 imagenAlt: "Plaza mayor madrid sunlit view historic showcasing en Plaza mayor"
 
 galeria:
+  - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-cervantes-memorial-spain-statue-hero.webp"
+    alt: "Calle del centro histórico de Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
     alt: "Tapas madrid liquors meats photo en Tapas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patagonia-churros-hot-chocolate-hero.webp"

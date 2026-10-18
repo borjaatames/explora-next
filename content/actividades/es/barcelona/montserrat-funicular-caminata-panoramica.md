@@ -96,6 +96,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-captivating-landsca
 imagenAlt: "Vistas panorámicas desde la cima del funicular de Sant Joan, Montserrat"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
+    alt: "Monasterio de Montserrat entre las montañas"
   - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero.webp"
     alt: "Monasterio de Montserrat entre picos de roca"
   - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero.webp"

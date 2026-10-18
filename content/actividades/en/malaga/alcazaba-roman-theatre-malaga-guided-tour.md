@@ -79,6 +79,8 @@ keywords:
 imagen: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
 imagenAlt: Nasrid-style arches in a courtyard of the Alcazaba of Málaga
 galeria:
+- src: "/images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp"
+  alt: "Roman theatre of Málaga next to the Alcazaba"
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
   alt: Walls of the Alcazaba of Málaga
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp

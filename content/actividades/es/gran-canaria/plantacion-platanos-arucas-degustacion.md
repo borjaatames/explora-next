@@ -72,6 +72,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
 imagenAlt: Plataneras en el paisaje de Arucas
 galeria:
+- src: "/images/actividades/gran-canaria/platano/arucas-iglesia-exterior.webp"
+  alt: "Iglesia de Arucas, Gran Canaria"
 - src: /images/actividades/gran-canaria/platano/plataneras.webp
   alt: Racimos en una platanera canaria
 - src: /images/actividades/gran-canaria/platano/platanos-racimo.webp

@@ -96,6 +96,8 @@ imagen: "/images/actividades/granada/wikimedia/granada-capilla-real-08.webp"
 imagenAlt: "La Capilla Real de Granada vista desde la calle"
 
 galeria:
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+    alt: "Vista de Granada desde el mirador de San Nicolás"
   - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
     alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
   - src: "/images/actividades/granada/wikimedia/granada-capilla-real-02.webp"

@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/malaga/catamaran/catamaran-malaga-atardecer.webp
 imagenAlt: Catamaran sailing at sunset off Málaga
 galeria:
+- src: "/images/actividades/malaga/muelle-uno/muelle-uno-vista.webp"
+  alt: "Muelle Uno in the port of Málaga"
 - src: /images/actividades/malaga/catamaran/catamaran-vela.webp
   alt: Sailing catamaran on open sea
 - src: /images/actividades/malaga/catamaran/catamaran-pasajeros.webp

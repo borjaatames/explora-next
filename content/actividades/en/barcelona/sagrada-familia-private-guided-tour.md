@@ -104,6 +104,8 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero.webp"
+  alt: "Facade of the Sagrada Familia in Barcelona"
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica with Gothic spires and intricate stonework in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp

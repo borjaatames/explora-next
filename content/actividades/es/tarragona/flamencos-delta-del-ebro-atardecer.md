@@ -79,6 +79,10 @@ keywords:
 imagen: /images/actividades/tarragona/delta/flamencos-salinas.webp
 imagenAlt: Flamencos en las salinas del Delta
 galeria:
+- src: "/images/actividades/tarragona/delta/flamencos-vuelo.webp"
+  alt: "Flamencos en el Delta del Ebro"
+- src: "/images/actividades/tarragona/delta/flamencos-manada.webp"
+  alt: "Flamencos en el Delta del Ebro"
 - src: /images/actividades/tarragona/delta/flamencos-laguna.webp
   alt: Flamencos en una laguna del Delta
 - src: /images/actividades/tarragona/delta/arrozales-atardecer.webp

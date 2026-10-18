@@ -79,6 +79,10 @@ keywords:
 imagen: /images/actividades/tarragona/delta/flamencos-salinas.webp
 imagenAlt: Flamingos in the Delta salt pans
 galeria:
+- src: "/images/actividades/tarragona/delta/flamencos-vuelo.webp"
+  alt: "Flamingos in the Ebro Delta"
+- src: "/images/actividades/tarragona/delta/flamencos-manada.webp"
+  alt: "Flamingos in the Ebro Delta"
 - src: /images/actividades/tarragona/delta/flamencos-laguna.webp
   alt: Flamingos in a Delta lagoon
 - src: /images/actividades/tarragona/delta/arrozales-atardecer.webp

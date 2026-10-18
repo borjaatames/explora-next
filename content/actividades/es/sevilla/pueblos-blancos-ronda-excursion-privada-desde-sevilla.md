@@ -76,6 +76,8 @@ keywords:
 imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
 imagenAlt: Puente Nuevo de Ronda sobre el Tajo
 galeria:
+- src: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp"
+  alt: "Grupo de visitantes explorando Ronda"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: Zahara de la Sierra con su castillo y el embalse
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp

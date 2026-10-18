@@ -62,6 +62,8 @@ keywords:
 imagen: "/images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp"
 imagenAlt: "La Mezquita-Catedral junto al Guadalquivir"
 galeria:
+- src: "/images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg"
+  alt: "Calle de la judería de Córdoba"
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: "Torre de la Mezquita-Catedral, frente al tablao"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp

@@ -71,6 +71,8 @@ keywords:
 imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
 imagenAlt: Playa de Ses Illetes en Formentera
 galeria:
+- src: "/images/actividades/ibiza/formentera/ibiza-formentera-05.webp"
+  alt: "Costa de Formentera"
 - src: /images/actividades/ibiza/formentera/estacion-maritima.webp
   alt: Estación marítima de los barcos a Formentera en Ibiza
 - src: /images/actividades/ibiza/formentera/la-savina.webp

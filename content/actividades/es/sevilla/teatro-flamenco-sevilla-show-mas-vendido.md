@@ -162,6 +162,12 @@ keywords:
 imagen: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaoras-especial-sevillanas.webp"
 imagenAlt: "Dos bailaoras en el escenario del Teatro Flamenco Sevilla"
 galeria:
+- src: "/images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp"
+  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
+- src: "/images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-detalle-vestuario-f-hero.webp"
+  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
+- src: "/images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp"
+  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp
   alt: "Bailaora a contraluz en el Teatro Flamenco Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-cante-pandereta.webp

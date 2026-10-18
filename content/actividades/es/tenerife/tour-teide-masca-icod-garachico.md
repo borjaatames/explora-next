@@ -84,6 +84,8 @@ keywords:
 imagen: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
 imagenAlt: Roques de García y la carretera de Las Cañadas
 galeria:
+- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
+  alt: "Paisaje volcánico del Parque Nacional del Teide"
 - src: /images/actividades/tenerife/icod/drago-milenario.webp
   alt: El Drago Milenario de Icod de los Vinos
 - src: /images/actividades/tenerife/garachico/caleton-garachico.webp

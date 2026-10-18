@@ -62,6 +62,8 @@ keywords:
 imagen: "/images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp"
 imagenAlt: "The Mosque-Cathedral by the Guadalquivir"
 galeria:
+- src: "/images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg"
+  alt: "Street in Córdoba's Jewish quarter"
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: "Mosque-Cathedral tower, opposite the tablao"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp

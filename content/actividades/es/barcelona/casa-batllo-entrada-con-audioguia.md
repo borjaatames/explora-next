@@ -139,6 +139,10 @@ keywords:
 imagen: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
 imagenAlt: Casa Batlló, edificio modernista de Gaudí con fachada ondulante en Barcelona
 galeria:
+- src: "/images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp"
+  alt: "Detalle de la fachada ondulada de Casa Batlló, obra de Gaudí"
+- src: "/images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp"
+  alt: "Detalle de la fachada ondulada de Casa Batlló, obra de Gaudí"
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
   alt: Fachada modernista ondulante de la Casa Batlló en Barcelona con balcones de hueso y azulejos de colores
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
