@@ -73,6 +73,8 @@ keywords:
 imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Acantilados de Los Gigantes desde el mar en Tenerife
 galeria:
+- src: "/images/actividades/tenerife/gigantes/gigantes-pueblo.webp"
+  alt: "Pueblo de Los Gigantes en Tenerife"
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Calderón tropical emergiendo en Tenerife
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp

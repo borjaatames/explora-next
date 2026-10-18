@@ -71,6 +71,8 @@ keywords:
 imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Los Gigantes cliffs rising from the sea, Tenerife
 galeria:
+- src: "/images/actividades/tenerife/gigantes/gigantes-pueblo.webp"
+  alt: "Village of Los Gigantes in Tenerife"
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: "Pilot whale surfacing close to the boat, Tenerife"
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp

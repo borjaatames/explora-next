@@ -72,6 +72,10 @@ keywords:
 imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-cuevas-nerja-interior-01-hero.webp
 imagenAlt: Interior of the Nerja Caves with their formations
 galeria:
+- src: "/images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp"
+  alt: "White streets of the village of Frigiliana"
+- src: "/images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp"
+  alt: "Coastal beach of Nerja"
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
   alt: Stalactites in the Cataclysm Hall
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp

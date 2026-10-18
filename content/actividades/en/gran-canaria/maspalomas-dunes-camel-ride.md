@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
 imagenAlt: Sand ridges in the Maspalomas dunes
 galeria:
+- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
+  alt: "Pond among palm trees in the Maspalomas Dunes"
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
   alt: The Maspalomas dunes by the Atlantic
 - src: /images/actividades/gran-canaria/dunas/dunas-panoramica.webp

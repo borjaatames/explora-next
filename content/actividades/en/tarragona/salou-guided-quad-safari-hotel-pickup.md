@@ -77,6 +77,8 @@ keywords:
 imagen: /images/actividades/tarragona/quad/quad-pista.webp
 imagenAlt: A quad on a dirt track
 galeria:
+- src: "/images/actividades/tarragona/quad/quad-camino.webp"
+  alt: "Quad bike route along the trails of Salou"
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
   alt: "The Prades mountains and Siurana"
 - src: /images/actividades/tarragona/quad/montsant.webp

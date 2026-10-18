@@ -120,6 +120,8 @@ imagen: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
 imagenAlt: "Coro y nave de la Catedral de Sevilla"
 
 galeria:
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-06.webp"
+    alt: "Interior de la Catedral de Sevilla"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
     alt: "Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
