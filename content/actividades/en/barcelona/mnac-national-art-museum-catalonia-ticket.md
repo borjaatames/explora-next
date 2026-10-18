@@ -69,6 +69,14 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
 imagenAlt: Palau Nacional on Montjuïc, home of the MNAC
 galeria:
+  - src: "/images/actividades/barcelona/mnac/palau-nacional-fachada-fuente.webp"
+    alt: "Facade of the Palau Nacional, home of the MNAC, with the Magic Fountain"
+  - src: "/images/actividades/barcelona/mnac/mnac-aerea-montjuic.webp"
+    alt: "Aerial view of the MNAC on Montjuïc hill"
+  - src: "/images/actividades/barcelona/mnac/mnac-interior-cupula.webp"
+    alt: "Interior dome of the Palau Nacional"
+  - src: "/images/actividades/barcelona/mnac/mnac-entrada-rotulo.webp"
+    alt: "Entrance of the MNAC with the museum sign"
   - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
     alt: "Views of Barcelona from the MNAC terrace"
   - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"

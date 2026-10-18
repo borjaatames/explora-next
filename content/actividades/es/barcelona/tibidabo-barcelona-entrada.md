@@ -75,6 +75,12 @@ keywords:
 imagen: /images/actividades/barcelona/tibidabo/panoramica-parque.webp
 imagenAlt: "Parque de atracciones del Tibidabo con Barcelona al fondo"
 galeria:
+- src: "/images/actividades/barcelona/tibidabo/avion-rojo-vistas-barcelona.webp"
+  alt: "Atracción del avión rojo del Tibidabo con vistas a Barcelona"
+- src: "/images/actividades/barcelona/tibidabo/noria-templo-expiatorio.webp"
+  alt: "Noria del Tibidabo junto al Templo Expiatorio del Sagrat Cor"
+- src: "/images/actividades/barcelona/tibidabo/carrusel-aereo-vistas.webp"
+  alt: "Vista aérea del carrusel del parque Tibidabo"
 - src: /images/actividades/barcelona/tibidabo/noria-mar.webp
   alt: "Noria y atracciones del Tibidabo sobre el mar"
 - src: /images/actividades/barcelona/tibidabo/avio.webp

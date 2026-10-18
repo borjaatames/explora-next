@@ -67,6 +67,12 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
 imagenAlt: "Views over Barcelona from Montjuïc hill"
 galeria:
+  - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-puerto.webp"
+    alt: "Montjuïc cable car cabin with port views"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/dos-cabinas-ciudad.webp"
+    alt: "Two cable car cabins over the city of Barcelona"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-arboles.webp"
+    alt: "Montjuïc cable car cabin among trees"
   - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
     alt: "Panorama of Barcelona from Montjuïc, with the fountains and Plaça d'Espanya"
   - src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"

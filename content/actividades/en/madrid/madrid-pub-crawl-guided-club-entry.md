@@ -55,6 +55,12 @@ keywords:
 imagen: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg
 imagenAlt: VIP club entry pub crawl in Madrid
 galeria:
+- src: "/images/actividades/madrid/pub-crawl/gran-via-noche.webp"
+  alt: "Madrid's Gran Vía lit up at night"
+- src: "/images/actividades/madrid/pub-crawl/brindis-chupitos-grupo.webp"
+  alt: "Group toasting with shots during the bar crawl"
+- src: "/images/actividades/madrid/pub-crawl/camarero-preparando-copa.webp"
+  alt: "Bartender making a drink at a nightclub"
 - src: https://imgcdn.bokun.tools/fdd76de0-c8e6-4ea6-a239-d7c3057312bf.jpeg
   alt: Nightlife atmosphere inside one of the clubs on the Madrid pub crawl
 - src: https://imgcdn.bokun.tools/158ac800-421a-4f90-b451-28bffe3901b4.jpeg

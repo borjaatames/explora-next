@@ -65,6 +65,12 @@ keywords:
 imagen: /images/actividades/madrid/faunia/leones-marinos.webp
 imagenAlt: "Sea lion show at Faunia, Madrid"
 galeria:
+- src: "/images/actividades/madrid/faunia/rinoceronte-cria-sabana.webp"
+  alt: "Rhino with its calf in Faunia's savannah area"
+- src: "/images/actividades/madrid/faunia/jirafas-pareja.webp"
+  alt: "Pair of giraffes at Faunia"
+- src: "/images/actividades/madrid/faunia/oso-pardo-recinto.webp"
+  alt: "Brown bear in its naturalised enclosure"
 - src: /images/actividades/madrid/faunia/flamencos.webp
   alt: "Flamingos at Faunia, Madrid"
 - src: /images/actividades/madrid/faunia/dinosaurio.webp

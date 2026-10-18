@@ -74,6 +74,12 @@ keywords:
 imagen: /images/actividades/gran-canaria/palmitos-park/delfines.webp
 imagenAlt: "Delfines en el delfinario de Palmitos Park, Gran Canaria"
 galeria:
+- src: "/images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp"
+  alt: "Guacamayos amazónicos posados en una rama en Palmitos Park"
+- src: "/images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp"
+  alt: "Guacamayo azul y amarillo en Palmitos Park"
+- src: "/images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp"
+  alt: "Loro gris en el jardín de Palmitos Park"
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
   alt: "Águila calva en la exhibición de aves rapaces de Palmitos Park"
 - src: /images/actividades/gran-canaria/palmitos-park/barranco.webp

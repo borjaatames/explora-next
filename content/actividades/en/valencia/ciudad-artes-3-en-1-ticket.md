@@ -70,6 +70,12 @@ keywords:
 imagen: /images/actividades/valencia/oceanografic/ciudad-artes-noche.webp
 imagenAlt: "City of Arts and Sciences in Valencia lit up at night"
 galeria:
+- src: "/images/actividades/valencia/ciudad-artes-combo/senaletica-museo-ciencias-umbracle.webp"
+  alt: "Signage towards the Museu de les Ciències and l'Umbracle at the City of Arts and Sciences"
+- src: "/images/actividades/valencia/ciudad-artes-combo/puente-hemisferic-museo.webp"
+  alt: "Bridge next to the Hemisfèric and the Museu de les Ciències"
+- src: "/images/actividades/valencia/ciudad-artes-combo/hemisferic-reflejo-simetrico.webp"
+  alt: "Symmetrical reflection of the Hemisfèric in the water"
 - src: /images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp
   alt: "Entrance building of the Oceanogràfic in Valencia"
 - src: /images/actividades/valencia/oceanografic/beluga.webp

@@ -74,6 +74,12 @@ keywords:
 imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean show at Loro Parque, Puerto de la Cruz, Tenerife
 galeria:
+- src: "/images/actividades/tenerife/loro-siam/siam-park-estructura-colorida.webp"
+  alt: "Themed structure and slides at Siam Park"
+- src: "/images/actividades/tenerife/loro-siam/tobogan-acuatico-toboganistas.webp"
+  alt: "Visitors riding a water slide at Siam Park"
+- src: "/images/actividades/tenerife/loro-siam/leon-marino-nadando.webp"
+  alt: "Sea lion swimming at Loro Parque"
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
   alt: "Dolphin show at Loro Parque, Tenerife"
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp

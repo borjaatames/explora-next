@@ -73,6 +73,12 @@ keywords:
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
 imagenAlt: "Túnel del Oceanario de L'Aquàrium de Barcelona"
 galeria:
+- src: "/images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp"
+  alt: "Pasarela del túnel submarino del Aquàrium de Barcelona"
+- src: "/images/actividades/barcelona/aquarium/tiburon-nadando-cerca.webp"
+  alt: "Tiburón nadando cerca del cristal del acuario"
+- src: "/images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp"
+  alt: "Tiburón sobre el fondo marino del acuario"
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
   alt: "Tiburón y buceador en el Oceanario de L'Aquàrium"
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp

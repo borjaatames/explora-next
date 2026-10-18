@@ -79,6 +79,12 @@ keywords:
 imagen: /images/actividades/mallorca/marineland/marineland-mallorca-entrada.webp
 imagenAlt: Sea lion in one of the enclosures at Marineland Mallorca
 galeria:
+- src: "/images/actividades/mallorca/marineland/delfines-salto-entrenador.webp"
+  alt: "Dolphins jumping next to their trainer at Marineland"
+- src: "/images/actividades/mallorca/marineland/delfin-salto-publico.webp"
+  alt: "Dolphin jumping in front of the audience during the show"
+- src: "/images/actividades/mallorca/marineland/vista-aerea-parque.webp"
+  alt: "Aerial view of the Marineland Mallorca facilities"
 - src: /images/actividades/mallorca/marineland/marineland-delfin.webp
   alt: Trainer with a dolphin in a dolphinarium pool
 - src: /images/actividades/mallorca/marineland/delfin-salto.webp

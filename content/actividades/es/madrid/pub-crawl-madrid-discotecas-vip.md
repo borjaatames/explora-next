@@ -55,6 +55,12 @@ keywords:
 imagen: https://imgcdn.bokun.tools/12e215da-704d-46e3-89e5-20b4eff5c256.jpeg
 imagenAlt: Pub crawl con entrada VIP a discotecas de Madrid
 galeria:
+- src: "/images/actividades/madrid/pub-crawl/gran-via-noche.webp"
+  alt: "Gran Vía de Madrid iluminada de noche"
+- src: "/images/actividades/madrid/pub-crawl/brindis-chupitos-grupo.webp"
+  alt: "Grupo brindando con chupitos durante la ruta de bares"
+- src: "/images/actividades/madrid/pub-crawl/camarero-preparando-copa.webp"
+  alt: "Camarero preparando una copa en una discoteca"
 - src: https://imgcdn.bokun.tools/fdd76de0-c8e6-4ea6-a239-d7c3057312bf.jpeg
   alt: Ambiente nocturno en una de las discotecas del pub crawl de Madrid
 - src: https://imgcdn.bokun.tools/158ac800-421a-4f90-b451-28bffe3901b4.jpeg

@@ -73,6 +73,12 @@ keywords:
 imagen: /images/actividades/madrid/faunia/leones-marinos.webp
 imagenAlt: "Exhibición de leones marinos en Faunia, Madrid"
 galeria:
+- src: "/images/actividades/madrid/faunia/rinoceronte-cria-sabana.webp"
+  alt: "Rinoceronte con su cría en la zona de sabana de Faunia"
+- src: "/images/actividades/madrid/faunia/jirafas-pareja.webp"
+  alt: "Pareja de jirafas en Faunia"
+- src: "/images/actividades/madrid/faunia/oso-pardo-recinto.webp"
+  alt: "Oso pardo en su recinto naturalizado"
 - src: /images/actividades/madrid/faunia/flamencos.webp
   alt: "Flamencos en Faunia, Madrid"
 - src: /images/actividades/madrid/faunia/dinosaurio.webp
