@@ -99,6 +99,8 @@ imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-h
 imagenAlt: "Plaza mayor madrid sunlit view historic showcasing en Plaza mayor"
 
 galeria:
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+    alt: "Croquetas de jamón y tapas tradicionales madrileñas"
   - src: "/images/actividades/madrid/calles-centro/calles-madrid-centro-cervantes-memorial-spain-statue-hero.webp"
     alt: "Calle del centro histórico de Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"

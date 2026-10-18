@@ -98,6 +98,8 @@ imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-ve
 imagenAlt: "Rooftop view over Madrid"
 
 galeria:
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+    alt: "Cata de vinos en bodega de la Comunidad de Madrid"
   - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-ornate-white-building-trees-cars-hero.webp"
     alt: "Cibeles Palace in Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"

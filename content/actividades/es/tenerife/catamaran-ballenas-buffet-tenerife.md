@@ -70,6 +70,8 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Calderón tropical de cerca en las aguas de Tenerife
 galeria:
+  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
+    alt: "Calderones tropicales (ballenas piloto) en las aguas de Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
     alt: "Cría de calderón tropical en Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/delfin-moteado.webp"

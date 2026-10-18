@@ -72,6 +72,8 @@ keywords:
 imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Sa Calobra cove and limestone cliffs, Mallorca
 galeria:
+  - src: "/images/actividades/mallorca/soller/sa-calobra-costa.webp"
+    alt: "Costa rocosa de Sa Calobra, excursión en barco desde Sóller"
   - src: "/images/actividades/mallorca/soller/sa-calobra-torrent.webp"
     alt: "Inside the Torrent de Pareis, with its 200-metre walls"
   - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"

@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 galeria:
+  - src: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp"
+    alt: "Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes"
   - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp"
     alt: "Desfiladero de los Gaitanes desde las pasarelas"
   - src: "/images/actividades/malaga/caminito-del-rey/garganta.webp"

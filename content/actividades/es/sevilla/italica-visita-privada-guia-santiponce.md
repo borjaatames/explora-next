@@ -70,6 +70,8 @@ keywords:
 imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-08.webp"
 imagenAlt: "Arena del anfiteatro de Itálica"
 galeria:
+  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-anfiteatro-r-hero.webp"
+    alt: "Anfiteatro romano de Itálica, ruinas imperiales cerca de Sevilla"
   - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp"
     alt: "Yacimiento arqueológico romano de Itálica"
   - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp"

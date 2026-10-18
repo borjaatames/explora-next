@@ -71,6 +71,8 @@ keywords:
 imagen: /images/actividades/valencia/museo-ciencias/hemisferic.webp
 imagenAlt: El Hemisfèric de la Ciudad de las Artes y las Ciencias de Valencia
 galeria:
+  - src: "/images/actividades/valencia/ciudad-artes-combo/hemisferic-reflejo-simetrico.webp"
+    alt: "Hemisfèric de la Ciudad de las Artes y las Ciencias con reflejo en el lago"
   - src: "/images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp"
     alt: "Fachada del Museu de les Ciències"
   - src: "/images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp"

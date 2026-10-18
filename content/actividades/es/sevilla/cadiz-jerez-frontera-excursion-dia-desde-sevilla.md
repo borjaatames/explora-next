@@ -150,6 +150,8 @@ keywords:
 imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
 imagenAlt: "Castillo junto a la playa de La Caleta, en Cádiz"
 galeria:
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
+    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
   - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
     alt: "Barriles de vino sherry alineados en bodega tradicional de Jerez con copas de cata y atmósfera vinícola artesanal"
   - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"

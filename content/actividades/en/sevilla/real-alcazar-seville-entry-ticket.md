@@ -71,6 +71,8 @@ keywords:
 imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
 imagenAlt: Facade of the Palace of Pedro I in the Royal Alcázar of Seville
 galeria:
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
+    alt: "Arquerías mudéjares del Real Alcázar de Sevilla"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
     alt: "Mudejar arches of the Palace of Pedro I"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"

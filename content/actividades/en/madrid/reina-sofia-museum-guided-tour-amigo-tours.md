@@ -113,6 +113,8 @@ keywords:
 imagen: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
 imagenAlt: "Visitors in a gallery of the Museo Reina Sofía"
 galeria:
+  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-large-white-building-clock-tower-hero.webp"
+    alt: "Fachada del Museo Reina Sofía con la torre del reloj, Madrid"
   - src: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
     alt: "Museo Reina Sofía façade at night, with its glass lift towers"
   - src: "/images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp"

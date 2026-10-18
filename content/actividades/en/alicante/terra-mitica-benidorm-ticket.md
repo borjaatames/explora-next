@@ -74,6 +74,8 @@ keywords:
 imagen: /images/actividades/alicante/terra-mitica/magnus-colossus.webp
 imagenAlt: "Magnus Colossus wooden roller coaster at Terra Mítica, Benidorm"
 galeria:
+  - src: "/images/actividades/alicante/terra-mitica/magnus-colossus.webp"
+    alt: "Magnus Colossus, montaña rusa de madera de Terra Mítica Benidorm"
   - src: "/images/actividades/alicante/terra-mitica/vista-parque.webp"
     alt: "General view of Terra Mítica with the Magnus Colossus"
   - src: "/images/actividades/alicante/terra-mitica/estructura-madera.webp"

@@ -125,6 +125,8 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-
 imagenAlt: "Patio de las Doncellas del Real Alcázar de Sevilla con estanque alargado y arquería mudéjar"
 
 galeria:
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
+    alt: "Arquerías mudéjares del Real Alcázar de Sevilla"
   - src: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
     alt: "Patio interior del Real Alcazar de Sevilla"
   - src: "/images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp"

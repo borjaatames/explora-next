@@ -74,6 +74,8 @@ keywords:
 imagen: "/images/actividades/madrid/aquopolis/aquopolis-kilauea-aereo-hero.webp"
 imagenAlt: "Zona infantil de juegos de agua en Aquópolis Villanueva de la Cañada"
 galeria:
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-kilauea-aereo-hero.webp"
+    alt: "Tobogán Kilauea del parque acuático Aquopolis de Villanueva"
   - src: "/images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp"
     alt: "Zona infantil de Aquópolis Villanueva de la Cañada"
   - src: "/images/actividades/madrid/aquopolis/aquopolis-zig-zag-hero.webp"

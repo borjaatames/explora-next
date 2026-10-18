@@ -81,6 +81,8 @@ keywords:
 imagen: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
 imagenAlt: "Calle de Setenil de las Bodegas con casas bajo la roca"
 galeria:
+  - src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+    alt: "Vista de Ronda desde las alturas con el Tajo y el puente nuevo"
   - src: "/images/actividades/malaga/setenil/panoramica.webp"
     alt: "Vista panorámica de Setenil de las Bodegas"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp"

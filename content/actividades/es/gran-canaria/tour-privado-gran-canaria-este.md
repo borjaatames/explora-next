@@ -54,6 +54,8 @@ keywords:
 imagen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
 imagenAlt: Paisaje del este de Gran Canaria
 galeria:
+  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
+    alt: "Barranco de Guayadeque, espacio natural protegido de Gran Canaria"
   - src: "/images/actividades/gran-canaria/tufia/pueblo-pesquero-tufia-panoramica.webp"
     alt: "Vista panoramica del pueblo pesquero de Tufia, Gran Canaria"
   - src: "/images/actividades/gran-canaria/tufia/casas-blancas-bahia-tufia.webp"

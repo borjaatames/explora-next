@@ -98,6 +98,8 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-p
 imagenAlt: "Plaza de la Villa at night, in Habsburg Madrid"
 
 galeria:
+  - src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero-hero.webp"
+    alt: "Catedral de la Almudena de Madrid, arquitectura neogótica"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
     alt: "Plaza Mayor at dusk, once the stage for autos-da-fé"
   - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"

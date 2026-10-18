@@ -69,6 +69,8 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
 imagenAlt: Palau Nacional de Montjuïc, sede del MNAC
 galeria:
+  - src: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp"
+    alt: "Plaza de Catalunya de Barcelona, corazón de la ciudad"
   - src: "/images/actividades/barcelona/mnac/palau-nacional-fachada-fuente.webp"
     alt: "Fachada del Palau Nacional, sede del MNAC, con la fuente mágica"
   - src: "/images/actividades/barcelona/mnac/mnac-aerea-montjuic.webp"

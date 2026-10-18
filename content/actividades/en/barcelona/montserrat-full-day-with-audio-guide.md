@@ -97,6 +97,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-rel
 imagenAlt: "Montserrat rack railway with views over the Catalan mountain"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
+    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
   - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
     alt: "Montserrat monastery among the mountains"
   - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"

@@ -76,6 +76,8 @@ keywords:
 imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Acantilados de Sa Calobra vistos desde el barco
 galeria:
+  - src: "/images/actividades/mallorca/soller/sa-calobra-costa.webp"
+    alt: "Costa rocosa de Sa Calobra, excursión en barco desde Sóller"
   - src: "/images/actividades/mallorca/soller/sa-calobra-torrent.webp"
     alt: "Interior del Torrent de Pareis con sus paredes de 200 metros"
   - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"

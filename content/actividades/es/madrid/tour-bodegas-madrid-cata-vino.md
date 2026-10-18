@@ -93,6 +93,8 @@ imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-eman
 imagenAlt: "Copa de vino tinto sirviéndose durante una cata en bodega"
 
 galeria:
+  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
+    alt: "Cata de vinos en bodega de la Comunidad de Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-white-bowl-filled-olives-tomatoes-hero.webp"
     alt: "Tapas tradicionales madrileñas"
   - src: "/images/actividades/madrid/chinchon/pexels-36878676-hero.webp"

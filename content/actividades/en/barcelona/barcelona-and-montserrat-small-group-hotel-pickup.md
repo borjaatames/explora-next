@@ -76,6 +76,8 @@ keywords:
 imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
 imagenAlt: "Cloister of Montserrat monastery"
 galeria:
+  - src: "/images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp"
+    alt: "Playa de la Barceloneta con el hotel Arts al fondo, Barcelona"
   - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
     alt: "The Montserrat mountains with the monastery on the slope"
   - src: "https://imgcdn.bokun.tools/852af406-bbee-4ed9-9a2b-e6a95d2e1bec.jpg"

@@ -80,6 +80,8 @@ keywords:
 imagen: "/images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp"
 imagenAlt: "Tourist glass-bottom boat sailing near the coast"
 galeria:
+  - src: "/images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp"
+    alt: "Barco de fondo de cristal navegando por las aguas turquesas de Paguera"
   - src: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
     alt: "Rocky islet with pines off the Paguera coast"
   - src: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"

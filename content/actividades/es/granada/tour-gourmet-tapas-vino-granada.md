@@ -93,6 +93,8 @@ imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-05.webp"
 imagenAlt: "Vino tinto con tapas de queso y patatas en Granada"
 
 galeria:
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp"
+    alt: "Puerta del Vino de la Alhambra de Granada al atardecer"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
     alt: "Vista de Granada desde el mirador de San Nicolás"
   - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"

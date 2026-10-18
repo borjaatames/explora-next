@@ -100,6 +100,8 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mos
 imagenAlt: "Park Güell guided tour group on the serpentine bench terrace"
 
 galeria:
+  - src: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp"
+    alt: "Terraza del Pabellón de Portería del Park Güell de Gaudí"
   - src: "/images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp"
     alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 1)"
   - src: "/images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp"

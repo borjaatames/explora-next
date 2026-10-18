@@ -111,6 +111,8 @@ keywords:
 imagen: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp"
 imagenAlt: "4x4 climbing the mountain in Sierra Nevada"
 galeria:
+  - src: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp"
+    alt: "Ruta 4x4 por los caminos de montaña de Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
     alt: "View of Granada from the San Nicolás viewpoint"
   - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"

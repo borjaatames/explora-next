@@ -122,6 +122,8 @@ keywords:
 imagen: "/images/actividades/madrid/wanda-metropolitano/wikimedia-estadio-wanda-metropolitano-2018-hero.webp"
 imagenAlt: Estadio Wanda Metropolitano de Madrid, vista frontal de la fachada principal
 galeria:
+  - src: "/images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-estadio-exterior-fachada-e-hero.webp"
+    alt: "Fachada exterior del estadio Wanda Metropolitano, Atlético de Madrid"
   - src: "/images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-campo-cancha-vista-01-hero.webp"
     alt: "Vista del campo del estadio Wanda Metropolitano"
   - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-15-hero.webp"

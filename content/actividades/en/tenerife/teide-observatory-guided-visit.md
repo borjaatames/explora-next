@@ -75,6 +75,8 @@ keywords:
 imagen: /images/actividades/tenerife/teide/teide-canadas.webp
 imagenAlt: Volcanic landscape of Las Cañadas del Teide, home of the Observatory
 galeria:
+  - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
+    alt: "Paisaje volcánico de las Cañadas del Teide al atardecer"
   - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"
     alt: "Las Cañadas del Teide"
   - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"

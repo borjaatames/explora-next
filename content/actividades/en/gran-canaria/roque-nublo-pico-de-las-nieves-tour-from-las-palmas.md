@@ -74,6 +74,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
 imagenAlt: Roque Nublo, an 80-metre monolith on Gran Canaria's peaks
 galeria:
+  - src: "/images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp"
+    alt: "Atardecer desde Pico de Las Nieves, el punto más alto de Gran Canaria"
   - src: "/images/actividades/gran-canaria/roque-nublo/pico-nieves.webp"
     alt: "Pico de las Nieves, the highest point of Gran Canaria"
   - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp"

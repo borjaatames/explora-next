@@ -72,6 +72,8 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Pueblo amurallado de la isla de Tabarca visto desde el mar
 galeria:
+  - src: "/images/actividades/alicante/centro/castillo-santa-barbara.webp"
+    alt: "Castillo de Santa Bárbara sobre el Peñón de Ifach, Alicante"
   - src: "/images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp"
     alt: "Torre de San Jose en la isla de Tabarca"
   - src: "/images/actividades/alicante/tabarca/muralla-antigua-tabarca.webp"

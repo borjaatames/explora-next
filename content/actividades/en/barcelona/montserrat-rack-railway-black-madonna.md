@@ -97,6 +97,8 @@ imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interi
 imagenAlt: "Rack railway climbing the slopes of Montserrat mountain"
 
 galeria:
+  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
+    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
   - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
     alt: "Montserrat monastery among the mountains"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"

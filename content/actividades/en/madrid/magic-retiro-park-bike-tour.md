@@ -100,6 +100,8 @@ imagen: "/images/actividades/madrid/ebike/images-hero.webp"
 imagenAlt: "Cyclists with their guide by the Crystal Palace in Retiro Park"
 
 galeria:
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-park-madrid-kristallpalast-10-hero.webp"
+    alt: "Palacio de Cristal en el Parque del Retiro de Madrid"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
     alt: "The Crystal Palace and its pond with fountain"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-monument-alfonso-xii-hero.webp"

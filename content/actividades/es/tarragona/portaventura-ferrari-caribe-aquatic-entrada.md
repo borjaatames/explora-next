@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan, la montaña rusa icónica de PortAventura World
 galeria:
+  - src: "/images/actividades/tarragona/portaventura/dragon-khan.webp"
+    alt: "Dragon Khan, la montaña rusa de PortAventura con 8 loopings"
   - src: "/images/actividades/tarragona/portaventura/ferrari-land.webp"
     alt: "Ferrari Land en PortAventura World"
   - src: "/images/actividades/tarragona/portaventura/shambhala-lago.webp"

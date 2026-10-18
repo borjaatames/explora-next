@@ -111,6 +111,8 @@ imagen: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp"
 imagenAlt: "Main courtyard of the Casa de Pilatos"
 
 galeria:
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp"
+    alt: "Detalle del patio principal de la Casa de Pilatos, palacio renacentista de Sevilla"
   - src: "/images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp"
     alt: "Patio central de la Casa de Pilatos de Sevilla con fuente y jardín"
   - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
@@ -125,7 +127,6 @@ galeria:
     alt: "Classical sculpture at the Casa de Pilatos"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-08.webp"
     alt: "Roman bust in the upper gallery"
-
 ratingProveedor: 4.5
 numeroOpiniones: 200
 

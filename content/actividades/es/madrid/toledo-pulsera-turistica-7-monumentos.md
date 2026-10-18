@@ -71,6 +71,8 @@ keywords:
 imagen: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-cloister-02-hero.webp
 imagenAlt: Claustro del Monasterio de San Juan de los Reyes, Toledo
 galeria:
+  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-bridge-7-hero.webp"
+    alt: "Puente histórico sobre el río Tajo en Toledo, Patrimonio de la Humanidad"
   - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp"
     alt: "Iglesia de Santo Tomé, donde está El entierro del conde de Orgaz"
   - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"

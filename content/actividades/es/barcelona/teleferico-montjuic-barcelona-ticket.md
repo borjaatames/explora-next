@@ -75,6 +75,8 @@ keywords:
 imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
 imagenAlt: "Vistas de Barcelona desde la montaña de Montjuïc"
 galeria:
+  - src: "/images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp"
+    alt: "Playa de la Barceloneta con el hotel Arts al fondo, Barcelona"
   - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-puerto.webp"
     alt: "Cabina del teleférico de Montjuïc con vistas al puerto"
   - src: "/images/actividades/barcelona/teleferico-montjuic/dos-cabinas-ciudad.webp"

@@ -100,6 +100,8 @@ imagen: "/images/actividades/madrid/ebike/images-hero.webp"
 imagenAlt: "Grupo de ciclistas con el guía junto al Palacio de Cristal del Retiro"
 
 galeria:
+  - src: "/images/actividades/madrid/retiro/parque-del-retiro-park-madrid-kristallpalast-10-hero.webp"
+    alt: "Palacio de Cristal en el Parque del Retiro de Madrid"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
     alt: "Palacio de Cristal y su estanque con surtidor"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-monument-alfonso-xii-hero.webp"

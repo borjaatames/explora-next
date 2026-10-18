@@ -71,6 +71,8 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Calderones tropicales en las aguas de Tenerife
 galeria:
+  - src: "/images/actividades/tenerife/cristianos/costa-palm-mar.webp"
+    alt: "Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/calderon-respirando.webp"
     alt: "Calderón tropical respirando en la superficie"
   - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"

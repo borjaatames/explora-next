@@ -110,6 +110,8 @@ imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callej
 imagenAlt: "Callejón del Agua in the Santa Cruz quarter"
 
 galeria:
+  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
+    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
   - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
     alt: "Metropol Parasol (Las Setas) en Sevilla"
   - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
