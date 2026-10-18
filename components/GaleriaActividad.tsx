@@ -4,9 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
-
-// CSS del lightbox: inlineado en LightboxStyles.tsx (Server Component).
-// No importar aquí para evitar request HTTP render-blocking separado.
+import "yet-another-react-lightbox/styles.css";
 
 // El lightbox pesa ~50 KiB gzipped y solo se necesita cuando el usuario
 // pulsa una imagen para ampliarla. Lo cargamos con `next/dynamic` para

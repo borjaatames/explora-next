@@ -17,7 +17,6 @@ import {
 } from "@/lib/i18n/utils";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
 import GaleriaActividad from "@/components/GaleriaActividad";
-import LightboxStyles from "@/components/LightboxStyles";
 import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
@@ -280,7 +279,6 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.imagen && (
         <div className="max-w-6xl mx-auto px-4 pt-6 md:pt-8">
-          <LightboxStyles />
           <GaleriaActividad
             idioma="es"
             principal={{
