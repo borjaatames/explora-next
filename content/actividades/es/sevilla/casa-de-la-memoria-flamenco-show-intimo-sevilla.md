@@ -158,6 +158,12 @@ keywords:
 imagen: "/images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-abanico-puerta.webp"
 imagenAlt: "Bailaora con abanico ante la puerta de la Casa de la Memoria"
 galeria:
+- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
+  alt: "Arquitectura andaluza de la Casa de la Memoria en Sevilla"
+- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
+  alt: "Patio andaluz de la Casa de la Memoria"
+- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp"
+  alt: "Público asistiendo al espectáculo íntimo de flamenco"
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
   alt: "Patio interior de la Casa de la Memoria, en el centro de Sevilla"
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
