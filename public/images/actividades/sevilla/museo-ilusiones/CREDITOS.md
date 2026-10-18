@@ -8,3 +8,5 @@ Fotos de Wikimedia Commons y Pexels, recortadas a 1600×1200 y convertidas a Web
 - `sala-rayas.webp`: foto de Pexels 30528408, licencia Pexels (uso libre). https://www.pexels.com/photo/30528408/
 - `tunel-geometrico.webp`: foto de Pexels 12623751, licencia Pexels (uso libre). https://www.pexels.com/photo/12623751/
 - `tunel-neon.webp`: foto de Pexels 34997851, licencia Pexels (uso libre). https://www.pexels.com/photo/34997851/
+- `estatua-jardin-parque-sevilla.webp` — Pexels, Daka (Licencia Pexels) — https://www.pexels.com/photo/garden-statue-in-seville-andalusia-spain-37910942/
+- `torre-sevilla-arquitectura.webp` — Pixabay, bogitw (Licencia Pixabay) — https://pixabay.com/photos/sevilla-tower-building-architecture-786180/

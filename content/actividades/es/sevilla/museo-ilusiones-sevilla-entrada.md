@@ -73,6 +73,10 @@ keywords:
 imagen: /images/actividades/sevilla/museo-ilusiones/tunel-geometrico.webp
 imagenAlt: Túnel con un patrón geométrico verde y negro que crea una ilusión óptica
 galeria:
+- src: "/images/actividades/sevilla/museo-ilusiones/estatua-jardin-parque-sevilla.webp"
+  alt: "Estatua en jardín del Parque de María Luisa, Sevilla"
+- src: "/images/actividades/sevilla/museo-ilusiones/torre-sevilla-arquitectura.webp"
+  alt: "Torre Sevilla, rascacielos moderno de la capital andaluza"
 - src: /images/actividades/sevilla/museo-ilusiones/sala-rayas.webp
   alt: Persona con una pelota en una sala de rayas en espiral
 - src: /images/actividades/sevilla/museo-ilusiones/espejo-infinito.webp

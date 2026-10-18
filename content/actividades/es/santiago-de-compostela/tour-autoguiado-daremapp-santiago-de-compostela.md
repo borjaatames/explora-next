@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp"
 imagenAlt: "La catedral desde la Praza da Quintana"
 galeria:
+- src: "/images/actividades/santiago-de-compostela/catedral/portico-gloria.webp"
+  alt: "Pórtico de la Gloria de la Catedral de Santiago de Compostela"
 - src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
   alt: "Praza do Obradoiro"
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp

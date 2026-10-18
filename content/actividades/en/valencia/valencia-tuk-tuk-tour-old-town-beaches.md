@@ -78,6 +78,10 @@ keywords:
 imagen: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
 imagenAlt: Serranos Towers with palm trees
 galeria:
+- src: "/images/actividades/valencia/centro/lonja-fachada.webp"
+  alt: "Fachada de la Lonja de la Seda de Valencia, Patrimonio UNESCO"
+- src: "/images/actividades/valencia/centro/plaza-virgen.webp"
+  alt: "Plaza de la Virgen de Valencia con la Catedral al fondo"
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
   alt: The Micalet from Plaza de la Reina
 - src: /images/actividades/valencia/centro/mercado-colon.webp

@@ -9,3 +9,5 @@ Fotos de Wikimedia Commons y Pexels, recortadas a 1600×1200 y convertidas a Web
 - `torre-del-oro-canal.webp`: «Torre del Oro and Canal de Alfonso XIII in Seville.jpg», por Harlock20, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Torre_del_Oro_and_Canal_de_Alfonso_XIII_in_Seville.jpg
 - `torre-del-oro-noche.webp`: «Sevilla - Torre del Oro and river Guadalquivir at night.jpg», por Benjamin Smith, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sevilla_-_Torre_del_Oro_and_river_Guadalquivir_at_night.jpg
 - `torre-del-oro-rio.webp`: «Sevilla - Torre del Oro and river Guadalquivir - 2.jpg», por Benjamin Smith, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sevilla_-_Torre_del_Oro_and_river_Guadalquivir_-_2.jpg
+- `guadalquivir-sevilla-aerea.webp` — Pexels, Javier Balseiro (Licencia Pexels) — https://www.pexels.com/photo/aerial-view-of-guadalquivir-river-in-seville-on-sunny-day-40107950/
+- `torre-sevilla-orilla.webp` — Pixabay, bogitw (Licencia Pixabay) — https://pixabay.com/photos/sevilla-tower-building-architecture-786180/

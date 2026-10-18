@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/valencia/centro/mercado-central-interior.webp"
 imagenAlt: "Art Nouveau interior of the Central Market"
 galeria:
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Puerta de la Catedral de Valencia, centro histórico"
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
   alt: "Plaza de la Virgen in central Valencia"
 - src: /images/actividades/valencia/centro/micalet-plaza.webp

@@ -8,3 +8,5 @@ Fotos de Wikimedia Commons y Pexels, recortadas a 1600×1200 y convertidas a Web
 - `isla-magica-puerta.webp`: «Puerta en Isla Mágica.JPG», por CarlosVdeHabsburgo, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Puerta_en_Isla_M%C3%A1gica.JPG
 - `isla-magica-puerta-2.webp`: «Puerta en Isla Mágica 2.JPG», por CarlosVdeHabsburgo, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Puerta_en_Isla_M%C3%A1gica_2.JPG
 - `isla-magica-puerto.webp`: «Isla Mágica Port.jpg», por Freddo, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Isla_M%C3%A1gica_Port.jpg
+- `isla-magica-parque-tematico.webp` — Pexels, Andy Lee (Licencia Pexels) — https://www.pexels.com/photo/whimsical-fruit-themed-castle-under-blue-sky-39388991/
+- `guadalquivir-isla-magica-sevilla.webp` — Pexels, Javier Balseiro (Licencia Pexels) — https://www.pexels.com/photo/aerial-view-of-guadalquivir-river-in-seville-on-sunny-day-40107950/

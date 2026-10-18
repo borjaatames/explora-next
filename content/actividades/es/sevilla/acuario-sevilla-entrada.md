@@ -74,6 +74,10 @@ keywords:
 imagen: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-siluetas.webp
 imagenAlt: Familia mirando los peces en un gran tanque del Acuario de Sevilla
 galeria:
+- src: "/images/actividades/sevilla/acuario-sevilla/museo-artes-sevilla-muelle.webp"
+  alt: "Edificio histórico de Sevilla cerca del Muelle de las Delicias"
+- src: "/images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp"
+  alt: "Bóvedas mudéjares con arcos dorados y reflejo en el agua, Sevilla"
 - src: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-tunel.webp
   alt: Túnel de cristal bajo el agua en el Acuario de Sevilla
 - src: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-tanque.webp

@@ -84,6 +84,10 @@ keywords:
 imagen: /images/actividades/sevilla/kayak-guadalquivir/kayak-rio.webp
 imagenAlt: Kayak naranja navegando por un río tranquilo
 galeria:
+- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp"
+  alt: "Vista aérea del río Guadalquivir a su paso por Sevilla"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp"
+  alt: "Torre Sevilla en la orilla del Guadalquivir, ruta de kayak"
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
   alt: Torre del Oro junto al Guadalquivir en Sevilla
 - src: /images/actividades/sevilla/kayak-guadalquivir/kayaks-rio-ciudad.webp

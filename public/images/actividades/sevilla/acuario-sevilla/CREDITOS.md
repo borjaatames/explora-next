@@ -8,3 +8,5 @@ Fotos de Wikimedia Commons y Pexels, recortadas a 1600×1200 y convertidas a Web
 - `acuario-sevilla-siluetas.webp`: «Acuario de Sevilla, España, 2017 03.jpg», por Benjamín Núñez González, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Acuario_de_Sevilla%2C_Espa%C3%B1a%2C_2017_03.jpg
 - `acuario-sevilla-tanque.webp`: «Acuario de Sevilla, España, 2017 08.jpg», por Benjamín Núñez González, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Acuario_de_Sevilla%2C_Espa%C3%B1a%2C_2017_08.jpg
 - `acuario-sevilla-tunel.webp`: «Acuario de Sevilla, España, 2017 06.jpg», por Benjamín Núñez González, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Acuario_de_Sevilla%2C_Espa%C3%B1a%2C_2017_06.jpg
+- `museo-artes-sevilla-muelle.webp` — Pexels, Jocelyn Erskine-Kellie (Licencia Pexels) — https://www.pexels.com/photo/brown-concrete-building-near-the-pond-8560389/
+- `boveda-mudejar-arcos-sevilla.webp` — Pixabay, Pexels (Licencia Pixabay) — https://pixabay.com/photos/water-architecture-arches-arcade-1283963/

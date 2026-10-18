@@ -84,6 +84,10 @@ keywords:
 imagen: /images/actividades/sevilla/kayak-guadalquivir/kayak-rio.webp
 imagenAlt: Orange kayak on a calm river
 galeria:
+- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp"
+  alt: "Vista aérea del río Guadalquivir a su paso por Sevilla"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp"
+  alt: "Torre Sevilla en la orilla del Guadalquivir, ruta de kayak"
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
   alt: Torre del Oro by the Guadalquivir in Seville
 - src: /images/actividades/sevilla/kayak-guadalquivir/kayaks-rio-ciudad.webp

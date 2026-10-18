@@ -60,6 +60,8 @@ keywords:
 imagen: "/images/actividades/valencia/centro/mercado-central-interior.webp"
 imagenAlt: "Interior modernista del Mercado Central"
 galeria:
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Puerta de la Catedral de Valencia, centro histórico"
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
   alt: "Plaza de la Virgen, en el centro de Valencia"
 - src: /images/actividades/valencia/centro/micalet-plaza.webp

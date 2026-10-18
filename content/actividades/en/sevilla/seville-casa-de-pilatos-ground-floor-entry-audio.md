@@ -111,6 +111,8 @@ imagen: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp"
 imagenAlt: "Main courtyard of the Casa de Pilatos"
 
 galeria:
+  - src: "/images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp"
+    alt: "Patio central de la Casa de Pilatos de Sevilla con fuente y jardín"
   - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
     alt: "Barrio de Santa Cruz in Seville — location of Casa de Pilatos at the heart of the Jewish quarter"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp"

@@ -74,6 +74,10 @@ keywords:
 imagen: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
 imagenAlt: Museo de las Ciencias Príncipe Felipe al atardecer
 galeria:
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
+  alt: "Arquitectura del Oceanogràfic de Valencia en la Ciudad de las Artes"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp"
+  alt: "Exterior de la Ciudad de las Artes y Ciencias de Valencia"
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
   alt: El Hemisfèric reflejado en el agua
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
