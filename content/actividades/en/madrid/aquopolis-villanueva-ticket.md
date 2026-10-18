@@ -62,9 +62,23 @@ keywords:
 - aquopolis madrid ticket
 - waterpark madrid
 - aquopolis villanueva ticket
-imagen: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
+imagen: "/images/actividades/madrid/aquopolis/aquopolis-kilauea-aereo-hero.webp"
 imagenAlt: "Children's splash area at Aquópolis Villanueva de la Cañada"
-galeria: []
+galeria:
+  - src: "/images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp"
+    alt: "Children's area at Aquópolis Villanueva de la Cañada"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-zig-zag-hero.webp"
+    alt: "Zig-Zag slide at Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-amarillo-hero.webp"
+    alt: "Twin slide at Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-multicarril-entrada-hero.webp"
+    alt: "Entrance to the multi-lane slides at Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-piscina-hero.webp"
+    alt: "Landing pool of the slides at Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-kangaroa-hero.webp"
+    alt: "Kangaroa slide at Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-zona-infantil-palmera-hero.webp"
+    alt: "Children's area with palm tree at Aquópolis"
 ratingProveedor: 4.6
 numeroOpiniones: 54
 atraccionesRelacionadas:

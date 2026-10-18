@@ -71,9 +71,23 @@ keywords:
 - aquopolis villanueva de la canada
 - parque acuatico madrid
 - aquopolis madrid precio
-imagen: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
+imagen: "/images/actividades/madrid/aquopolis/aquopolis-kilauea-aereo-hero.webp"
 imagenAlt: "Zona infantil de juegos de agua en Aquópolis Villanueva de la Cañada"
-galeria: []
+galeria:
+  - src: "/images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp"
+    alt: "Zona infantil de Aquópolis Villanueva de la Cañada"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-zig-zag-hero.webp"
+    alt: "Tobogán Zig-Zag de Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-amarillo-hero.webp"
+    alt: "Tobogán doble de Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-multicarril-entrada-hero.webp"
+    alt: "Entrada a los toboganes multicarril de Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-piscina-hero.webp"
+    alt: "Piscina de recepción de los toboganes de Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-kangaroa-hero.webp"
+    alt: "Tobogán Kangaroa de Aquópolis"
+  - src: "/images/actividades/madrid/aquopolis/aquopolis-zona-infantil-palmera-hero.webp"
+    alt: "Zona infantil con palmera de Aquópolis"
 ratingProveedor: 4.6
 numeroOpiniones: 54
 atraccionesRelacionadas:
