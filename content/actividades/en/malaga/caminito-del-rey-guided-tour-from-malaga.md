@@ -86,6 +86,12 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/pasarela.webp
 imagenAlt: Caminito del Rey walkway clinging to the gorge
 galeria:
+- src: "/images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp"
+  alt: "Caminito del Rey suspension bridge over the river"
+- src: "/images/actividades/malaga/caminito-del-rey/pasarela-visitantes-desfiladero.webp"
+  alt: "Visitors walking the gorge walkway"
+- src: "/images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp"
+  alt: "Full view of the Caminito del Rey canyon"
 - src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
   alt: Caminito del Rey in the Gaitanes gorge
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp

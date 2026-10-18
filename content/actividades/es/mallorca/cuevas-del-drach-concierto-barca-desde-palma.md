@@ -85,6 +85,10 @@ keywords:
 imagen: /images/actividades/mallorca/cuevas-drach/lago-martel-azul.webp
 imagenAlt: Lago Martel con agua azul iluminada dentro de las Cuevas del Drach
 galeria:
+- src: "/images/actividades/mallorca/cuevas-drach/cuevas-drach-lago-iluminado.webp"
+  alt: "Lago subterráneo iluminado en las Cuevas del Drach"
+- src: "/images/actividades/mallorca/cuevas-drach/cuevas-drach-pasarela-visitantes.webp"
+  alt: "Visitantes recorriendo la pasarela de las Cuevas del Drach"
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-galeria.webp
   alt: Galería de las Cuevas del Drach con estalactitas iluminadas
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-estalactitas.webp

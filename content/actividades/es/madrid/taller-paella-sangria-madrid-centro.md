@@ -102,6 +102,10 @@ imagen: "/images/actividades/madrid/paella/paella-pexels-31748679.webp"
 imagenAlt: "Paella cocinándose en la paellera durante el taller"
 
 galeria:
+- src: "/images/actividades/madrid/paella/paella-clase-cocinero-fuego.webp"
+  alt: "Cocinero preparando paella al fuego durante la clase"
+- src: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
+  alt: "Manos removiendo los ingredientes de la paella en la sartén"
 - src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
   alt: "Paella de marisco recién hecha"
 - src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp

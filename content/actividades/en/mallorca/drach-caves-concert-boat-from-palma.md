@@ -85,6 +85,10 @@ keywords:
 imagen: /images/actividades/mallorca/cuevas-drach/lago-martel-azul.webp
 imagenAlt: Lake Martel with lit blue water inside the Drach Caves
 galeria:
+- src: "/images/actividades/mallorca/cuevas-drach/cuevas-drach-lago-iluminado.webp"
+  alt: "Illuminated underground lake in the Caves of Drach"
+- src: "/images/actividades/mallorca/cuevas-drach/cuevas-drach-pasarela-visitantes.webp"
+  alt: "Visitors walking the walkway through the Caves of Drach"
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-galeria.webp
   alt: Gallery in the Drach Caves with lit stalactites
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-estalactitas.webp

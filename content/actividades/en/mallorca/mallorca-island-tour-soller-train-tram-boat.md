@@ -88,6 +88,10 @@ keywords:
 imagen: /images/actividades/mallorca/soller/tren-soller-estacion.webp
 imagenAlt: Wooden Sóller train standing at the station
 galeria:
+- src: "/images/actividades/mallorca/soller/tranvia-soller-calle.webp"
+  alt: "Sóller tram running through a village street"
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Port de Sóller with moored boats"
 - src: /images/actividades/mallorca/soller/tranvia-soller-paseo.webp
   alt: Orange Sóller tram along the Port de Sóller seafront
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp

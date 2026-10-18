@@ -91,6 +91,12 @@ keywords:
 imagen: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
 imagenAlt: Red kayak paddling next to a small island in clear water
 galeria:
+- src: "/images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp"
+  alt: "Rocky cove with turquoise water on the Costa Brava"
+- src: "/images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp"
+  alt: "Costa Brava cliffs by the sea"
+- src: "/images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp"
+  alt: "Swimmers snorkelling among the rocks of a cove"
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
   alt: Coastal path at S'Agaró above the rocks
 - src: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp

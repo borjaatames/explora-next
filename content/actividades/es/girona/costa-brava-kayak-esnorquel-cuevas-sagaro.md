@@ -91,6 +91,12 @@ keywords:
 imagen: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
 imagenAlt: Kayak rojo navegando junto a un islote en aguas transparentes
 galeria:
+- src: "/images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp"
+  alt: "Cala rocosa de aguas turquesas en la Costa Brava"
+- src: "/images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp"
+  alt: "Acantilados de la Costa Brava junto al mar"
+- src: "/images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp"
+  alt: "Bañistas haciendo esnórquel entre las rocas de una cala"
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
   alt: Camino de ronda de S'Agaró sobre las rocas de la costa
 - src: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp

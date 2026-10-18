@@ -86,6 +86,12 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/pasarela.webp
 imagenAlt: Pasarela del Caminito del Rey colgada sobre el desfiladero
 galeria:
+- src: "/images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp"
+  alt: "Puente colgante del Caminito del Rey sobre el río"
+- src: "/images/actividades/malaga/caminito-del-rey/pasarela-visitantes-desfiladero.webp"
+  alt: "Visitantes recorriendo la pasarela del desfiladero"
+- src: "/images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp"
+  alt: "Vista completa del cañón del Caminito del Rey"
 - src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
   alt: Caminito del Rey en el desfiladero de los Gaitanes
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
