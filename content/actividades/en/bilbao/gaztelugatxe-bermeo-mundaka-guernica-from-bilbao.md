@@ -83,6 +83,8 @@ keywords:
 imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
 imagenAlt: San Juan de Gaztelugatxe islet with the hermitage and the stone bridge
 galeria:
+- src: "/images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp"
+  alt: "Camino de piedra de San Juan de Gaztelugatxe al atardecer"
 - src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
   alt: Steps and stone bridge up to the Gaztelugatxe hermitage
 - src: /images/actividades/bilbao/gaztelugatxe/ermita.webp

@@ -5,3 +5,6 @@
 - `panoramica-igueldo.webp` — Rodelar, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Donostia_desde_Igueldo.jpg) · recortada a 1600×1200
 - `plaza-constitucion.webp` — Calips, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:San_Sebastien_13.jpg) · recortada a 1600×1200
 - `barra-pintxos.webp` — Basotxerri, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Barra_de_pintxos_Donosti_02.JPG) · recortada a 1600×1200
+- `playa-concha-edificios.webp` — Pixabay, BarbeeAnne (Licencia Pixabay) — https://pixabay.com/photos/san-sebastian-spain-la-concha-beach-2700415/
+- `bahia-concha-isla-santa-clara.webp` — Pexels, luis Peralta (Licencia Pexels) — https://www.pexels.com/photo/scenic-beach-view-of-san-sebastian-spain-29283777/
+- `concha-desde-monte-igueldo.webp` — Wikimedia Commons, Ermell (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:San_Sebastian_Kontxa_beach_1190650.jpg

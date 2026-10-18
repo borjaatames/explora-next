@@ -80,6 +80,10 @@ keywords:
 imagen: /images/actividades/ibiza/calas/cala-conta-veleros.webp
 imagenAlt: Veleros frente a Cala Comte
 galeria:
+- src: "/images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp"
+  alt: "Cala de Ibiza rodeada de pinos con aguas turquesas"
+- src: "/images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp"
+  alt: "Chiringuito junto a una playa de Ibiza"
 - src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
   alt: Cala Bassa vista entre pinos
 - src: /images/actividades/ibiza/calas/cala-tarida-rocas.webp

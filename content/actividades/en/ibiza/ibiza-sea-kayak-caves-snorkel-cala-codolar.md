@@ -81,6 +81,10 @@ keywords:
 imagen: /images/actividades/ibiza/mar/kayak-turquesa.webp
 imagenAlt: Kayaking in turquoise water
 galeria:
+- src: "/images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp"
+  alt: "Islote de Es Vedra visto desde la costa de Ibiza"
+- src: "/images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp"
+  alt: "Cala de Ibiza con barcos fondeados en aguas azules"
 - src: /images/actividades/ibiza/mar/kayak-mar.webp
   alt: A sea kayak
 - src: /images/actividades/ibiza/mar/cueva-marina.webp

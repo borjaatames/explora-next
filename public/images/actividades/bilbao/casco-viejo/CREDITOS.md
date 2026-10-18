@@ -8,3 +8,5 @@
 - `catedral-santiago.webp` — Zarateman, dominio público, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bilbao_-_Catedral_de_Santiago_40.JPG) · recortada a 1600×1200
 - `claustro-catedral.webp` — Zarateman, dominio público, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bilbao_-_Catedral_de_Santiago_06.JPG) · recortada a 1600×1200
 - `bilbao-artxanda.webp` — Xabier, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Bilbao_desde_Artxanda_3.jpg) · recortada a 1600×1200
+- `plaza-escaleras-casco-viejo.webp` — Wikimedia Commons, Beaudroit (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Conjunto_Hist%C3%B3rico_Art%C3%ADstico_el_Casco_Viejo_-_RI-53-0000144.JPG
+- `puente-ria-arquitectura-historica.webp` — Pexels, Santiago Peña Bossano (Licencia Pexels) — https://www.pexels.com/photo/dramatic-cityscape-of-bilbao-s-historic-architecture-38149944/

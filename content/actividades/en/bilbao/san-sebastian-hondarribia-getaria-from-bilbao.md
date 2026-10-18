@@ -82,6 +82,8 @@ keywords:
 imagen: /images/actividades/bilbao/san-sebastian/concha-bahia.webp
 imagenAlt: La Concha bay in San Sebastián
 galeria:
+- src: "/images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp"
+  alt: "Playa de la Concha vista desde el monte, San Sebastian"
 - src: /images/actividades/bilbao/costa-vasca/hondarribia-marina.webp
   alt: Colourful houses with balconies in Hondarribia's Marina quarter
 - src: /images/actividades/bilbao/san-sebastian/plaza-constitucion.webp

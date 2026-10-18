@@ -64,6 +64,8 @@ keywords:
 imagen: "/images/actividades/bilbao/guggenheim/maman-puente.webp"
 imagenAlt: "El Guggenheim con el arco rojo del puente de La Salve"
 galeria:
+- src: "/images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp"
+  alt: "Puente sobre la ria y arquitectura historica de Bilbao"
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
   alt: "Bilbao desde el monte Artxanda"
 - src: /images/actividades/bilbao/guggenheim/maman.webp

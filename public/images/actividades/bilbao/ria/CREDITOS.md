@@ -6,3 +6,5 @@
 - `zubizuri-pasarela.webp` — kallerna, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Zubizuri_bridge_Bilbao.jpg) · recortada a 1600×1200
 - `puente-bizkaia.webp` — Mikemod, CC BY-SA 3.0 es, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Puente_de_Vizcaya-Guecho_y_Portugalete.jpg) · recortada a 1600×1200
 - `puente-bizkaia-barquilla.webp` — Zarateman, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Portugalete_-_Puente_de_Vizcaya_-_03.jpg) · recortada a 1600×1200
+- `puente-la-salve-guggenheim-aereo.webp` — Wikimedia Commons, Mikel Arrazola (CC BY 4.0) — https://commons.wikimedia.org/wiki/File:Salbe_zubia_2013.jpg
+- `trainera-remeros-ria.webp` — Pexels, Juan García (Licencia Pexels) — https://www.pexels.com/photo/rowers-on-a-yellow-boat-in-bilbao-spain-40184684/

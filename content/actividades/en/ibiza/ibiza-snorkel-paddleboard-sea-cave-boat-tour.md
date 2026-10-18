@@ -80,6 +80,10 @@ keywords:
 imagen: /images/actividades/ibiza/mar/esnorquel.webp
 imagenAlt: Snorkelling over a seagrass meadow
 galeria:
+- src: "/images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp"
+  alt: "Cala de Ibiza rodeada de pinos con aguas turquesas"
+- src: "/images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp"
+  alt: "Barca varada entre rocas en una cala de Ibiza"
 - src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
   alt: Stand-up paddleboarding in a cove
 - src: /images/actividades/ibiza/mar/posidonia.webp

@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/bilbao/gastronomia/gilda.webp
 imagenAlt: Gildas, el pintxo clásico de guindilla, anchoa y aceituna
 galeria:
+- src: "/images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp"
+  alt: "Pintxos variados con palillo sobre pan"
 - src: /images/actividades/bilbao/gastronomia/barra-bar.webp
   alt: Barra de bar con pintxos
 - src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp

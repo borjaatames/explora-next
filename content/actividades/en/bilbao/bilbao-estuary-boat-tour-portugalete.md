@@ -81,6 +81,10 @@ keywords:
 imagen: /images/actividades/bilbao/ria/barco-ria.webp
 imagenAlt: Sightseeing boat on Bilbao's estuary
 galeria:
+- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
+  alt: "Vista aerea de la ria de Bilbao con el puente de La Salve y el Guggenheim"
+- src: "/images/actividades/bilbao/ria/trainera-remeros-ria.webp"
+  alt: "Remeros en una trainera sobre la ria de Bilbao"
 - src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
   alt: Guggenheim Museum by Bilbao's estuary
 - src: /images/actividades/bilbao/ria/zubizuri.webp

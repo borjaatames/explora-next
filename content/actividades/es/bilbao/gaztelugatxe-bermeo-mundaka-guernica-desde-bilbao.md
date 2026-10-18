@@ -83,6 +83,8 @@ keywords:
 imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
 imagenAlt: Islote de San Juan de Gaztelugatxe con la ermita y el puente de piedra
 galeria:
+- src: "/images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp"
+  alt: "Camino de piedra de San Juan de Gaztelugatxe al atardecer"
 - src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
   alt: Escaleras y puente de piedra hacia la ermita de Gaztelugatxe
 - src: /images/actividades/bilbao/gaztelugatxe/ermita.webp

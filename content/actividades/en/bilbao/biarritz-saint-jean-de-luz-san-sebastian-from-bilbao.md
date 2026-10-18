@@ -80,6 +80,10 @@ keywords:
 imagen: /images/actividades/bilbao/costa-vasca/biarritz-grande-plage.webp
 imagenAlt: Biarritz's Grande Plage with the casino
 galeria:
+- src: "/images/actividades/bilbao/san-sebastian/playa-concha-edificios.webp"
+  alt: "Playa de la Concha de San Sebastian con los edificios del paseo"
+- src: "/images/actividades/bilbao/san-sebastian/bahia-concha-isla-santa-clara.webp"
+  alt: "Bahia de la Concha con la isla de Santa Clara, San Sebastian"
 - src: /images/actividades/bilbao/costa-vasca/san-juan-de-luz-puerto.webp
   alt: Saint-Jean-de-Luz harbour with fishing boats
 - src: /images/actividades/bilbao/san-sebastian/panoramica-igueldo.webp

@@ -12,3 +12,8 @@
 - `cala-conta-olas.webp` — M.carmens, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Conta%2C.jpg) · recortada a 1600×1200
 - `cala-conta-costa.webp` — stavros1, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Conta_Ibiza_17_May_2011_%283%29.JPG) · recortada a 1600×1200
 - `cala-conta-calita.webp` — stavros1, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Conta_Ibiza_17_May_2011_%281%29.JPG) · recortada a 1600×1200
+- `es-vedra-desde-la-costa.webp` — Pixabay, marucha (Licencia Pixabay) — https://pixabay.com/photos/coast-rock-sea-bay-ibiza-3949782/
+- `cala-ibiza-barcos-fondeados.webp` — Pexels, Dirk Pothen (Licencia Pexels) — https://www.pexels.com/photo/serene-ibiza-cove-with-azure-waters-and-boats-32270520/
+- `cala-pinos-aguas-turquesas.webp` — Pexels, Dirk Pothen (Licencia Pexels) — https://www.pexels.com/photo/scenic-ibiza-cove-with-turquoise-waters-30926111/
+- `barca-varada-rocas-ibiza.webp` — Pixabay, sabinevanerp (Licencia Pixabay) — https://pixabay.com/photos/little-boat-beach-ibiza-rocks-1446449/
+- `chiringuito-playa-ibiza.webp` — Pixabay, Mrs__schu (Licencia Pixabay) — https://pixabay.com/photos/sea-beach-ibiza-restaurant-chair-930257/

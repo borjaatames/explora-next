@@ -79,6 +79,10 @@ keywords:
 imagen: /images/actividades/ibiza/calas/cala-bassa.webp
 imagenAlt: Cala Bassa con barcos fondeados
 galeria:
+- src: "/images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp"
+  alt: "Islote de Es Vedra visto desde la costa de Ibiza"
+- src: "/images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp"
+  alt: "Cala de Ibiza con barcos fondeados en aguas azules"
 - src: /images/actividades/ibiza/calas/cala-conta.webp
   alt: Arena y agua cristalina en Cala Comte
 - src: /images/actividades/ibiza/calas/cala-tarida.webp

@@ -75,6 +75,8 @@ keywords:
 imagen: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
 imagenAlt: Guggenheim Museum Bilbao by the estuary
 galeria:
+- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
+  alt: "Vista aerea de la ria de Bilbao con el puente de La Salve y el Guggenheim"
 - src: /images/actividades/bilbao/guggenheim/puppy.webp
   alt: Puppy, Jeff Koons's flower sculpture outside the Guggenheim
 - src: /images/actividades/bilbao/guggenheim/maman.webp

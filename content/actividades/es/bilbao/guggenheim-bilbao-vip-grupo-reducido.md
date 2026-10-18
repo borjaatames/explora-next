@@ -83,6 +83,8 @@ keywords:
 imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
 imagenAlt: Museo Guggenheim Bilbao y la ría
 galeria:
+- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
+  alt: "Vista aerea de la ria de Bilbao con el puente de La Salve y el Guggenheim"
 - src: /images/actividades/bilbao/guggenheim/maman.webp
   alt: Mamá, la araña gigante de Louise Bourgeois
 - src: /images/actividades/bilbao/guggenheim/puppy-flores.webp

@@ -83,6 +83,8 @@ keywords:
 imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
 imagenAlt: Guggenheim Museum Bilbao and the estuary
 galeria:
+- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
+  alt: "Vista aerea de la ria de Bilbao con el puente de La Salve y el Guggenheim"
 - src: /images/actividades/bilbao/guggenheim/maman.webp
   alt: Maman, Louise Bourgeois's giant spider
 - src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
