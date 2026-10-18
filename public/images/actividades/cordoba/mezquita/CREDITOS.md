@@ -18,3 +18,5 @@
 - `mihrab-cupula.webp` — Ruggero Poggianella, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cordoba%2C_la_Mezquita_-_Mihrab.jpg) · recortada a 1600×1200
 - `torre-judaria.webp` — Emilio J. Rodríguez Posada, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Torre-campanario_%2826071160786%29.jpg) · recortada a 1600×1200
 - `puente-romano.webp` — Daniel Villafruela, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba-Puente_Romano-Arco_de_Felipe_II-Mezquita-20110917.jpg) · recortada a 1600×1200
+- `mihrab-mezquita.webp` — Pexels, Gu Bra (Licencia Pexels) — https://www.pexels.com/photo/the-niche-in-the-wall-of-mosque-cathedral-of-cordova-6418436/
+- `bosque-arcos-bicolores.webp` — Unsplash, Alexandra Tran (Licencia Unsplash) — https://unsplash.com/photos/the-inside-of-a-building-with-columns-and-arches-rvE_jTiejVc

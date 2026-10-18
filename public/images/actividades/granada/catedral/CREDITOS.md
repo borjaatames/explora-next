@@ -13,3 +13,4 @@ Origen local: `E:\imagenes-master\granada\catedral\` (originales en `E:\imagenes
 ## Fotos añadidas 18-10-2026
 - `granada-catedral-07.webp` — umut erdem, Pexels License (https://www.pexels.com/photo/ornate-european-cathedral-ceiling-interior-view-33509153/)
 - `granada-catedral-08.webp` — Ramon Karolan, Pexels License (https://www.pexels.com/photo/granada-cathedral-facade-in-spain-38327069/)
+- `fachada-principal-alonso-cano.webp` — Wikimedia Commons, Maria Haro Vidal (CC0) — https://commons.wikimedia.org/wiki/File:Santa_y_Apost%C3%B3lica_Iglesia_Catedral_Metropolitana_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n_de_Granada_2.jpg

@@ -80,6 +80,8 @@ keywords:
 imagen: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
 imagenAlt: Perspective of red-and-white arches
 galeria:
+- src: "/images/actividades/cordoba/mezquita/mihrab-mezquita.webp"
+  alt: "Mihrab de la Mezquita-Catedral de Cordoba"
 - src: /images/actividades/cordoba/mezquita/arcos-interior.webp
   alt: Mosque interior with horseshoe arches
 - src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp

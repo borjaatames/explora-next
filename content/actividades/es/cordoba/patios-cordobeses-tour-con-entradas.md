@@ -74,6 +74,8 @@ keywords:
 imagen: /images/actividades/cordoba/patios/patio-macetas.webp
 imagenAlt: Patio cordobés con paredes llenas de macetas
 galeria:
+- src: "/images/actividades/cordoba/patios/patio-macetas-azules-flores.webp"
+  alt: "Patio cordobes con macetas azules y flores en las paredes"
 - src: /images/actividades/cordoba/patios/patio-viana.webp
   alt: Patio con fuente en el Palacio de Viana
 - src: /images/actividades/cordoba/patios/patio-festival.webp

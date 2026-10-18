@@ -95,6 +95,8 @@ imagen: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flam
 imagenAlt: "Dancer in a flounced dress at Teatro Flamenco Granada"
 
 galeria:
+- src: "/images/actividades/granada/flamenco-teatro/bailaoras-abanicos-escenario.webp"
+  alt: "Bailaoras de flamenco con abanicos sobre el escenario"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
   alt: "Dance troupe on the Teatro Flamenco Granada stage"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp

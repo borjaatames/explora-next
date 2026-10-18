@@ -7,3 +7,4 @@
 - `patio-arcos.webp` — Marco Chiesa, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patio_cordob%C3%A9s_%283724194952%29.jpg) · recortada a 1600×1200
 - `patio-flores.webp` — xavier.estruch, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patio_cordob%C3%A9s_%287155654013%29.jpg) · recortada a 1600×1200
 - `patio-viana-arcos.webp` — Benjamin Smith, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_-_Palacio_de_Viana_-_05-PC.jpg) · recortada a 1600×1200
+- `patio-macetas-azules-flores.webp` — Pexels, Juan Luis Seco (Licencia Pexels) — https://www.pexels.com/photo/cardoba-patios-in-spain-22798478/

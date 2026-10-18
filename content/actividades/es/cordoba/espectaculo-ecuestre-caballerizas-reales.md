@@ -70,6 +70,10 @@ keywords:
 imagen: /images/actividades/cordoba/ecuestre/doma-reverencia.webp
 imagenAlt: Caballo haciendo una reverencia en un espectáculo
 galeria:
+- src: "/images/actividades/cordoba/caballerizas/caballo-negro-cuadra.webp"
+  alt: "Caballo negro en una cuadra"
+- src: "/images/actividades/cordoba/caballerizas/caballo-palomino-picadero.webp"
+  alt: "Caballo palomino en un picadero cubierto"
 - src: /images/actividades/cordoba/ecuestre/caballo-bailaora.webp
   alt: Caballo y bailaora en un espectáculo ecuestre
 - src: /images/actividades/cordoba/ecuestre/caballerizas-interior.webp

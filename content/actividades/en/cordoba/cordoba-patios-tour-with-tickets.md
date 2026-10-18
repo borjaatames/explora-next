@@ -74,6 +74,8 @@ keywords:
 imagen: /images/actividades/cordoba/patios/patio-macetas.webp
 imagenAlt: Córdoba courtyard with walls full of flowerpots
 galeria:
+- src: "/images/actividades/cordoba/patios/patio-macetas-azules-flores.webp"
+  alt: "Patio cordobes con macetas azules y flores en las paredes"
 - src: /images/actividades/cordoba/patios/patio-viana.webp
   alt: Courtyard with fountain at the Palacio de Viana
 - src: /images/actividades/cordoba/patios/patio-festival.webp

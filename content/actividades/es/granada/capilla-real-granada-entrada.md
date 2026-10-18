@@ -70,6 +70,16 @@ keywords:
 imagen: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
 imagenAlt: Exterior de la Capilla Real de Granada
 galeria:
+- src: "/images/actividades/granada/capilla-real/fachada-capilla-real-lonja.webp"
+  alt: "Fachada de la Capilla Real de Granada junto a la Lonja"
+- src: "/images/actividades/granada/capilla-real/decoracion-fachada-escudo.webp"
+  alt: "Escudo de los Reyes Catolicos en la fachada de la Capilla Real"
+- src: "/images/actividades/granada/capilla-real/galeria-lonja-balcones.webp"
+  alt: "Galeria de balcones de la Lonja de la Capilla Real de Granada"
+- src: "/images/actividades/granada/capilla-real/portada-gotica-pinaculos.webp"
+  alt: "Portada gotica con pinaculos de la Capilla Real de Granada"
+- src: "/images/actividades/granada/capilla-real/fachada-lateral-cresteria.webp"
+  alt: "Fachada lateral con cresteria gotica de la Capilla Real"
 - src: /images/actividades/granada/catedral/granada-catedral-04.webp
   alt: La Catedral, pegada a la Capilla Real
 - src: /images/actividades/granada/catedral/granada-catedral-06.webp

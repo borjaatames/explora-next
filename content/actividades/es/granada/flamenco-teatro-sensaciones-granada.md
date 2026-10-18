@@ -95,6 +95,8 @@ imagen: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flam
 imagenAlt: "Bailaora con bata de cola en el Teatro Flamenco Granada"
 
 galeria:
+- src: "/images/actividades/granada/flamenco-teatro/bailaoras-abanicos-escenario.webp"
+  alt: "Bailaoras de flamenco con abanicos sobre el escenario"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
   alt: "Cuadro de baile en el escenario del Teatro Flamenco Granada"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
