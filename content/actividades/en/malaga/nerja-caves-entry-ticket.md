@@ -72,6 +72,10 @@ keywords:
 imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-cuevas-nerja-interior-01-hero.webp
 imagenAlt: Interior of the Nerja Caves with their formations
 galeria:
+- src: "/images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp"
+  alt: "Estalactitas iluminadas en una sala de la Cueva de Nerja"
+- src: "/images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp"
+  alt: "Detalle de formaciones de estalactitas en la Cueva de Nerja"
 - src: "/images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp"
   alt: "White streets of the village of Frigiliana"
 - src: "/images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp"

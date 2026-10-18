@@ -6,3 +6,5 @@
 - `siam-park-entrada.webp` — G.Lanting, CC BY 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Siam_Park_P1320857.jpg) · recortada a 1600×1200
 - `siam-park-pueblo.webp` — stephen jones, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Siam_Park_%2803%29.jpg) · recortada a 1600×1200
 - `siam-park-jardines.webp` — stephen jones, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Siam_Park_%2821%29.jpg) · recortada a 1600×1200
+- `juegos-acuaticos-estilo-tailandes.webp` — Pexels, Denys Gromov (Licencia Pexels) — https://www.pexels.com/photo/slides-on-waterpark-4957462/
+- `toboganes-carrera-banistas.webp` — Pexels, Denniz Futalan (Licencia Pexels) — https://www.pexels.com/photo/white-slides-3453009/

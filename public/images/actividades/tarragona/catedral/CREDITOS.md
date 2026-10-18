@@ -7,3 +7,4 @@
 - `claustro.webp` — Joanbanjo, Dominio público, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Claustre_de_la_Catedral_de_Tarragona%2C_claustre.jpg) · recortada a 1600×1200
 - `claustro-jardin.webp` — Joanbanjo, Dominio público, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Claustre_de_la_Catedral_de_Tarragona.jpg) · recortada a 1600×1200
 - `capilla.webp` — Zarateman, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tarragona_-_Catedral%2C_Capella_de_Mare_de_Deu_del_Claustre_4.jpg) · recortada a 1600×1200
+- `fachada-catedral-tarragona-noche.webp` — Pixabay, neufal54 (Licencia Pixabay) — https://pixabay.com/photos/spain-tarragona-evening-atmosphere-998645/

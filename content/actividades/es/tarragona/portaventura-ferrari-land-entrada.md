@@ -78,6 +78,8 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp
 imagenAlt: Montañas rusas Shambhala y Dragon Khan
 galeria:
+- src: "/images/actividades/tarragona/portaventura/montana-rusa-cielo-azul.webp"
+  alt: "Montana rusa roja y amarilla bajo un cielo azul"
 - src: /images/actividades/tarragona/portaventura/polynesia.webp
   alt: Zona de Polynesia en PortAventura
 - src: /images/actividades/tarragona/portaventura/dragon-khan.webp

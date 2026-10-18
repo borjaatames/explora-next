@@ -73,6 +73,8 @@ keywords:
 imagen: /images/actividades/tarragona/catedral/catedral.webp
 imagenAlt: Tarragona Cathedral
 galeria:
+- src: "/images/actividades/tarragona/catedral/fachada-catedral-tarragona-noche.webp"
+  alt: "Fachada gotica de la Catedral de Tarragona iluminada de noche"
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
   alt: The cathedral cloister and garden
 - src: /images/actividades/tarragona/catedral/portada.webp

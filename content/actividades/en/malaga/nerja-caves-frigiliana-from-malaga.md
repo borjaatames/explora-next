@@ -80,6 +80,8 @@ keywords:
 imagen: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp
 imagenAlt: Balcón de Europa in Nerja overlooking the sea
 galeria:
+- src: "/images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp"
+  alt: "Calle encalada con macetas en Frigiliana"
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
   alt: Inside the Nerja Cave with stalactites
 - src: /images/actividades/malaga/frigiliana/frigiliana-calle.webp

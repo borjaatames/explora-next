@@ -74,6 +74,10 @@ keywords:
 imagen: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
 imagenAlt: Vista aérea de Siam Park
 galeria:
+- src: "/images/actividades/tenerife/siam-park/juegos-acuaticos-estilo-tailandes.webp"
+  alt: "Estructura de juegos acuaticos de estilo tailandes en un parque acuatico"
+- src: "/images/actividades/tenerife/siam-park/toboganes-carrera-banistas.webp"
+  alt: "Banistas bajando por toboganes de carreras"
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
   alt: Decoración tailandesa en Siam Park
 - src: /images/actividades/tenerife/siam-park/siam-park-entrada.webp

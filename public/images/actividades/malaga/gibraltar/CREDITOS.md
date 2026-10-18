@@ -6,3 +6,5 @@
 - `tuneles-asedio.webp` — Mike McBey, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Inside_the_Rock_of_Gibraltar_(41037363170).jpg) · recortada a 1600×1200
 - `macacos-familia.webp` — Berthold Werner, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Gibraltar_Barbary_Macaques_BW_2015-10-26_14-07-28.jpg) · recortada a 1600×1200
 - `macaco.webp` — Acediscovery, CC BY 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Barbary-macaque-in-Gibraltar-2011.jpg) · recortada a 1600×1200
+- `macacos-reserva-natural.webp` — Pexels, Liisbet Luup (Licencia Pexels) — https://www.pexels.com/photo/barbary-macaques-in-gibraltar-nature-reserve-32444034/
+- `dos-macacos-descansando.webp` — Pexels, Jędrzej Koralewski (Licencia Pexels) — https://www.pexels.com/photo/two-barbary-macaques-in-gibraltar-resting-35452002/

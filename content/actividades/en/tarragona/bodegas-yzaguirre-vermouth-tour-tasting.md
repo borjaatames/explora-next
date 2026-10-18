@@ -74,6 +74,10 @@ keywords:
 imagen: /images/actividades/tarragona/vermut/yzaguirre-historica.webp
 imagenAlt: Historic Casa Yzaguirre warehouses
 galeria:
+- src: "/images/actividades/tarragona/vermut/copa-vermut-hielo.webp"
+  alt: "Copa de vermut con hielo"
+- src: "/images/actividades/tarragona/vermut/cata-copa-en-mano.webp"
+  alt: "Copa en mano durante una cata"
 - src: /images/actividades/tarragona/vermut/barricas-vermut.webp
   alt: Barrels in a Reus vermouth cellar
 - src: /images/actividades/tarragona/vermut/vermut-grifo.webp

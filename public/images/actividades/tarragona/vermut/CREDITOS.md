@@ -6,3 +6,5 @@
 - `museu-vermut-fachada.webp` — Pitxiquin, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museu_del_vermut%2C_carrer_de_Vallroquetes%2C_reus.jpg) · recortada a 1600×1200
 - `barricas-vermut.webp` — Ibai1984, CC BY 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Vermuts_Rofes%2C_Reus%2C_Tarragona_%2819434%29.jpg) · recortada a 1600×1200
 - `vermut-grifo.webp` — kerinin, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Vermut_de_Grifo.jpg) · recortada a 1600×1200
+- `copa-vermut-hielo.webp` — Pexels, Lorena Martínez (Licencia Pexels) — https://www.pexels.com/photo/person-holding-clear-drinking-glass-with-iced-red-liquid-12698348/
+- `cata-copa-en-mano.webp` — Pixabay, JillWellington (Licencia Pixabay) — https://pixabay.com/photos/wine-glass-drink-tasting-hand-1952051/
