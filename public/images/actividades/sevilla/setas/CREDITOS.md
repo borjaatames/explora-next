@@ -10,3 +10,4 @@
 | setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp | Wikimedia Commons: File:Metropol Parasol 20180719-2.jpg (https://commons.wikimedia.org/wiki/File:Metropol_Parasol_20180719-2.jpg) | CC BY-SA 4.0 | Suicasmo |
 | setas-wikimedia-metropol-parasol-2019-3-jpg-05.webp | Wikimedia Commons: File:Metropol Parasol 2019 (3).jpg (https://commons.wikimedia.org/wiki/File:Metropol_Parasol_2019_(3).jpg) | CC BY-SA 4.0 | Gzzz |
 | setas-wikimedia-metropol-parasol-setas-de-s-ville-jpg-06.webp | Wikimedia Commons: File:Metropol Parasol Setas de Séville.jpg (https://commons.wikimedia.org/wiki/File:Metropol_Parasol_Setas_de_S%C3%A9ville.jpg) | CC BY-SA 4.0 | Infosevilla |
+- `metropol-parasol-vista-completa.webp` — Pixabay, martine87 (Licencia Pixabay) — https://pixabay.com/photos/metropol-parasol-spain-seville-453039/

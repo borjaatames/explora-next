@@ -155,6 +155,10 @@ keywords:
 imagen: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
 imagenAlt: Puente Nuevo de Ronda con tres arcos de piedra sobre el profundo desfiladero del Tajo, monumento icónico de Andalucía.
 galeria:
+- src: "/images/actividades/sevilla/ronda/puente-nuevo-ronda-casas.webp"
+  alt: "Puente Nuevo de Ronda sobre el Tajo"
+- src: "/images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp"
+  alt: "Vista del Tajo de Ronda desde el Puente Nuevo"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: "Pueblo blanco coronado por su castillo"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp

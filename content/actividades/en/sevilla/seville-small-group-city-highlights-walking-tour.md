@@ -110,6 +110,10 @@ imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callej
 imagenAlt: "Callejón del Agua in the Santa Cruz quarter"
 
 galeria:
+  - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+    alt: "Metropol Parasol (Las Setas) en Sevilla"
+  - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+    alt: "Casas de colores del barrio de Triana junto al rio Guadalquivir"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
     alt: "Premium walking tour Seville — Cathedral exterior and Giralda"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"

@@ -62,6 +62,8 @@ keywords:
 imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp"
 imagenAlt: "Barcas de remo en el canal de la Plaza de España"
 galeria:
+- src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp"
+  alt: "Fachada de la Real Maestranza de Sevilla"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
   alt: "Fachada de la Catedral de Sevilla entre palmeras"
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp

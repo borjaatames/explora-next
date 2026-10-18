@@ -8,3 +8,6 @@
 
 <!-- Añadido 16-10-2026 desde el registro del pipeline -->
 - `triana-sevilla-bridge-spain-river-engineering-hero.webp` — joseluis1960, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/bridge-triana-spain-river-1590857/)
+- `casas-colores-rio-guadalquivir.webp` — Pexels, Emilio Sanchez Hernandez (Licencia Pexels) — https://www.pexels.com/photo/white-and-brown-concrete-building-under-blue-sky-13377605/
+- `puente-triana-atardecer.webp` — Pixabay, joseluis1960 (Licencia Pixabay) — https://pixabay.com/photos/bridge-triana-spain-river-1590857/
+- `mercado-triana-puesto-frutas.webp` — Unsplash, Lothar Boris Piltz (Licencia Unsplash) — https://unsplash.com/photos/a-fruit-and-vegetable-stand-in-a-grocery-store-uvDkGI0Ld9E

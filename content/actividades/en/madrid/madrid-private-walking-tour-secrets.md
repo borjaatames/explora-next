@@ -57,6 +57,8 @@ keywords:
 imagen: https://imgcdn.bokun.tools/578aa48b-6b63-4aa0-b09b-f4b141ed3870.jpg
 imagenAlt: Plaza Mayor in Madrid with the equestrian statue of Philip III
 galeria:
+- src: "/images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp"
+  alt: "Calle de la Cava Baja en el barrio de La Latina, Madrid"
 - src: https://imgcdn.bokun.tools/b47a7ec9-e3f9-462a-878a-65c06c2d23b4.jpg
   alt: Plaza de la Villa in Habsburg Madrid
 - src: https://imgcdn.bokun.tools/9da2c1c2-a4a9-4bb4-b5a9-d103259a1995.jpg

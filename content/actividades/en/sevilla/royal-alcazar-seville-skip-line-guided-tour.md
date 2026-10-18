@@ -125,6 +125,10 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-
 imagenAlt: "Patio de las Doncellas of the Royal Alcázar of Seville with elongated pond and Mudéjar arcades"
 
 galeria:
+  - src: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
+    alt: "Patio interior del Real Alcazar de Sevilla"
+  - src: "/images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp"
+    alt: "Banos de Dona Maria de Padilla en el Real Alcazar de Sevilla"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
     alt: "Patio de las Doncellas — the Mudéjar jewel of the Royal Alcázar of Seville"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"

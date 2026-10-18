@@ -80,6 +80,10 @@ keywords:
 imagen: /images/actividades/sevilla/bici-sevilla/grupo-ciclistas.webp
 imagenAlt: Grupo de ciclistas pedaleando por un parque
 galeria:
+- src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
+  alt: "Puente de Triana iluminado al atardecer"
+- src: "/images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp"
+  alt: "Puesto de frutas y verduras en el Mercado de Triana"
 - src: /images/actividades/sevilla/bici-sevilla/ciclista-sevilla.webp
   alt: Ciclista frente al Palacio de San Telmo en Sevilla
 - src: /images/actividades/sevilla/bici-sevilla/carril-bici-palmera.webp

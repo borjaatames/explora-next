@@ -12,3 +12,4 @@
 
 <!-- Añadido 16-10-2026 desde el registro del pipeline -->
 - `plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp` — AXP Photography, Pexels License, vía Pexels (https://www.pexels.com/photo/plaza-de-toros-in-seville-16549989/)
+- `plaza-toros-maestranza-fachada.webp` — Wikimedia Commons, Diego Delso (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Plaza_de_toros_de_la_Maestranza,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_69.JPG
