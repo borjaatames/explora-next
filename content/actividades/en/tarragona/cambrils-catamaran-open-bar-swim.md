@@ -93,18 +93,6 @@ galeria:
   alt: "Platja Llarga in Salou"
 - src: "/images/actividades/tarragona/costa/cambrils-barcas.webp"
   alt: "Boats in Cambrils harbour"
-- src: /images/actividades/tarragona/costa/puerto-cambrils.webp
-  alt: Cambrils harbour
-- src: /images/actividades/tarragona/costa/cambrils-velero.webp
-  alt: A sailing boat in Cambrils harbour
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Salou lighthouse
-- src: /images/actividades/tarragona/costa/punta-grossa.webp
-  alt: Punta Grossa viewpoint in Salou
-- src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: Platja Llarga in Salou
-- src: /images/actividades/tarragona/costa/cambrils-barcas.webp
-  alt: Boats in Cambrils harbour
 ratingProveedor: 4.5
 numeroOpiniones: 2188
 atraccionesRelacionadas:

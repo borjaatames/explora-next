@@ -70,10 +70,10 @@ imagenAlt: "Dolphin show at Zoo Aquarium de Madrid"
 galeria:
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp"
   alt: "Zoo Delfinario"
-- src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero-hero.webp"
-  alt: "Catedral Almudena Cathedral Madrid Architecture"
-- src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero.webp"
-  alt: "Catedral Almudena Cathedral Madrid Architecture"
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-iguana.webp"
+  alt: "Rhinoceros iguana at Zoo Aquarium de Madrid"
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp"
+  alt: "Leopard tortoises in their enclosure at the zoo"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-pandas.webp"
   alt: "Giant pandas at Zoo Aquarium de Madrid"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp"
@@ -83,16 +83,6 @@ galeria:
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-hipopotamo.webp"
   alt: "Hippopotamus at Zoo Aquarium de Madrid"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-lago.webp"
-  alt: "Lake and bird area at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-  alt: "Giant pandas at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
-  alt: "Flamingos and a pelican at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
-  alt: "Dromedary at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-hipopotamo.webp
-  alt: "Hippopotamus at Zoo Aquarium de Madrid"
-- src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
   alt: "Lake and bird area at Zoo Aquarium de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153

@@ -97,8 +97,8 @@ imagenAlt: "Bailaora con bata de cola en el Teatro Flamenco Granada"
 galeria:
 - src: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp"
   alt: "Teatro Flamenco Granada Oficial Bailaora Bata Lunares"
-- src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-  alt: "Sacromonte Granada Cueva Flamenco Fachada Azul"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "Casas blancas del Albaicín, en Granada"
 - src: "/images/actividades/granada/flamenco-teatro/bailaoras-abanicos-escenario.webp"
   alt: "Bailaoras de flamenco con abanicos sobre el escenario"
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp

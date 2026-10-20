@@ -92,18 +92,6 @@ galeria:
   alt: "La Caleta beach"
 - src: "/images/actividades/cadiz/mar/san-sebastian-paseo.webp"
   alt: "San Sebastián Castle from the promenade"
-- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
-  alt: The Constitution of 1812 Bridge lit up at night
-- src: /images/actividades/cadiz/mar/catedral-campo-sur.webp
-  alt: Cádiz Cathedral above the Campo del Sur
-- src: /images/actividades/cadiz/mar/puerto-noche.webp
-  alt: The Port of Cádiz Bay at night
-- src: /images/actividades/cadiz/mar/caleta-barcas.webp
-  alt: Fishing boats at La Caleta
-- src: /images/actividades/cadiz/mar/caleta-playa.webp
-  alt: La Caleta beach
-- src: /images/actividades/cadiz/mar/san-sebastian-paseo.webp
-  alt: San Sebastián Castle from the promenade
 ratingProveedor: 4.5
 numeroOpiniones: 453
 atraccionesRelacionadas:

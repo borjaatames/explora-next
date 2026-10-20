@@ -91,18 +91,6 @@ galeria:
   alt: "Carthusian horses pulling a carriage"
 - src: "/images/actividades/cadiz/yeguada/manada.webp"
   alt: "A herd of Carthusian horses"
-- src: /images/actividades/cadiz/yeguada/yeguas-potros.webp
-  alt: Carthusian mares and foals
-- src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: Rider on a Carthusian horse
-- src: /images/actividades/cadiz/yeguada/yeguas-pista.webp
-  alt: Carthusian mares in the arena
-- src: /images/actividades/cadiz/yeguada/potros.webp
-  alt: Carthusian colts in the field
-- src: /images/actividades/cadiz/yeguada/enganche.webp
-  alt: Carthusian horses pulling a carriage
-- src: /images/actividades/cadiz/yeguada/manada.webp
-  alt: A herd of Carthusian horses
 ratingProveedor: 4.8
 numeroOpiniones: 1073
 atraccionesRelacionadas:

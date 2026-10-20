@@ -76,17 +76,7 @@ galeria:
   alt: "View of Cádiz from the Torre Tavira"
 - src: "/images/actividades/cadiz/centro/monumento-1812.webp"
   alt: "Monument to the Constitution of 1812"
-- src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: "Façade of Cádiz Cathedral"
-- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
-  alt: "The Constitution of 1812 Bridge lit up at night"
-- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: "Arco de los Blanco in the Pópulo quarter"
-- src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: "View of Cádiz from the Torre Tavira"
-- src: /images/actividades/cadiz/centro/monumento-1812.webp
-  alt: "Monument to the Constitution of 1812"
-- src: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
+- src: "https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg"
   alt: "DaremApp app with the self-guided route"
 atraccionesRelacionadas:
   - centro-historico

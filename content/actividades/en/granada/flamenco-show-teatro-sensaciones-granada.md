@@ -97,10 +97,10 @@ imagenAlt: "Dancer in a flounced dress at Teatro Flamenco Granada"
 galeria:
 - src: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp"
   alt: "Teatro Flamenco Granada Oficial Bailaora Bata Lunares"
-- src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
-  alt: "Sacromonte Granada Cueva Flamenco Fachada Azul"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "White houses of the Albaicín, Granada"
 - src: "/images/actividades/granada/flamenco-teatro/bailaoras-abanicos-escenario.webp"
-  alt: "Bailaoras de flamenco con abanicos sobre el escenario"
+  alt: "Flamenco dancers with fans on stage"
 - src: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp"
   alt: "Dance troupe on the Teatro Flamenco Granada stage"
 - src: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp"
@@ -110,18 +110,6 @@ galeria:
 - src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
   alt: "The Albaicín at dusk"
 - src: "/images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp"
-  alt: "Facade of the Royal Chapel and Cathedral of Granada"
-- src: "/images/actividades/granada/flamenco-teatro/bailaoras-abanicos-escenario.webp"
-  alt: "Bailaoras de flamenco con abanicos sobre el escenario"
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
-  alt: "Dance troupe on the Teatro Flamenco Granada stage"
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
-  alt: "Hall and stage of Teatro Flamenco Granada"
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
-  alt: "Dancers in red in the Sensaciones show"
-- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "The Albaicín at dusk"
-- src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
   alt: "Facade of the Royal Chapel and Cathedral of Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 788

@@ -76,17 +76,7 @@ galeria:
   alt: "Calle San Antonio in the Santa Cruz quarter"
 - src: "/images/actividades/alicante/centro/santa-cruz-vista.webp"
   alt: "Santa Cruz quarter on the slopes of Benacantil"
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Alicante and its port from the castle"
-- src: /images/actividades/alicante/costa/postiguet.webp
-  alt: "Postiguet beach below the castle"
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: "Explanada promenade, next to the port"
-- src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: "Calle San Antonio in the Santa Cruz quarter"
-- src: /images/actividades/alicante/centro/santa-cruz-vista.webp
-  alt: "Santa Cruz quarter on the slopes of Benacantil"
-- src: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
+- src: "https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg"
   alt: "DaremApp app with the self-guided route"
 atraccionesRelacionadas:
   - centro-historico

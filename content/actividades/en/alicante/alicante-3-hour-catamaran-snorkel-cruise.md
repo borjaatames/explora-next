@@ -100,18 +100,6 @@ galeria:
   alt: "Promenade by Postiguet beach"
 - src: "/images/actividades/alicante/centro/vista-puerto.webp"
   alt: "Alicante and its port from the castle"
-- src: /images/actividades/alicante/costa/postiguet.webp
-  alt: Postiguet beach below the castle
-- src: /images/actividades/alicante/costa/cabo-huertas-faro.webp
-  alt: Cabo de las Huertas coast and lighthouse
-- src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: Postiguet and Mount Benacantil
-- src: /images/actividades/alicante/costa/cabo-huertas-atardecer.webp
-  alt: Cabo de las Huertas at dusk
-- src: /images/actividades/alicante/costa/postiguet-paseo.webp
-  alt: Promenade by Postiguet beach
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante and its port from the castle
 ratingProveedor: 4.6
 numeroOpiniones: 1205
 atraccionesRelacionadas:

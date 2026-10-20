@@ -93,16 +93,6 @@ galeria:
   alt: "A quad crossing a puddle"
 - src: "/images/actividades/tarragona/quad/prades-atardecer.webp"
   alt: "Sunset over the Prades mountains"
-- src: "/images/actividades/tarragona/quad/quad-camino.webp"
-  alt: "Quad bike route along the trails of Salou"
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: "The Prades mountains and Siurana"
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: "Mountain landscape inland from Tarragona"
-- src: /images/actividades/tarragona/quad/quad-barro.webp
-  alt: "A quad crossing a puddle"
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: "Sunset over the Prades mountains"
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:

@@ -10,3 +10,5 @@
 | zoo-lago.webp | Wikimedia Commons | Daniel from Glasgow, United Kingdom · File:Zoo Aquarium de Madrid (1) (16790184666).jpg · https://commons.wikimedia.org/wiki/File:Zoo_Aquarium_de_Madrid_(1)_(16790184666).jpg | CC BY 2.0 |
 
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\madrid--zoo-aquarium\` (copias en `E:\imagenes-master\madrid\zoo-aquarium\`).
+| zoo-iguana.webp | Wikimedia Commons | Fernando Losada Rodríguez · File:Cyclura cornuta.004 - Zoo Aquarium de Madrid.JPG · https://commons.wikimedia.org/wiki/File:Cyclura_cornuta.004_-_Zoo_Aquarium_de_Madrid.JPG | CC BY-SA 4.0 |
+| zoo-tortugas.webp | Wikimedia Commons | Fernando Losada Rodríguez · File:Stigmochelys pardalis.002 - Zoo Aquarium de Madrid.jpg · https://commons.wikimedia.org/wiki/File:Stigmochelys_pardalis.002_-_Zoo_Aquarium_de_Madrid.jpg | CC BY-SA 4.0 |
