@@ -11,6 +11,7 @@ import {
   type ActividadListItem,
   type CategoriaActividad,
   urlCategoriaActividadesSiExiste,
+  MIN_FICHAS_CATEGORIA_INDEXABLE,
 } from "@/lib/actividades";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
@@ -94,12 +95,17 @@ export async function generateMetadata({
     params.categoria
   )}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+  // Categorías con pocas fichas = contenido fino: fuera del índice, pero
+  // Google sigue los enlaces a las fichas.
+  const suficientes =
+    obtenerActividadesDeCiudadPorCategoria("es", params.ciudad, categoria)
+      .length >= MIN_FICHAS_CATEGORIA_INDEXABLE;
 
   return {
     title: titulo,
     description: descripcion,
     robots: {
-      index: allowIndexing,
+      index: allowIndexing && suficientes,
       follow: allowIndexing,
     },
     alternates: {

@@ -11,6 +11,8 @@ import {
   type ActividadListItem,
   type CategoriaActividad,
   urlListadoActividadesSiExiste,
+  categoriaAUrl,
+  MIN_FICHAS_CATEGORIA_INDEXABLE,
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -18,6 +20,7 @@ import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import {
   hreflangAlternates,
   urlActividadesDeCiudad,
+  urlActividadesDeCiudadPorCategoria,
   urlGuiasDeCiudad,
   urlAtraccionesDeCiudad,
 } from "@/lib/i18n/utils";
@@ -25,6 +28,7 @@ import ActividadesFiltradas, {
   type ActividadCardData,
   type ActividadesFiltradasStrings,
   type CategoriaOpcion,
+  type EnlaceCategoria,
 } from "@/components/ciudad/ActividadesFiltradas";
 
 const SITE_URL =
@@ -179,6 +183,17 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
     actividades,
     dict.actividades.categorias
   );
+  const enlacesCategorias: EnlaceCategoria[] = categorias
+    .map((c) => ({
+      href: urlActividadesDeCiudadPorCategoria(
+        "es",
+        params.ciudad,
+        categoriaAUrl(c.key as CategoriaActividad)
+      ),
+      label: c.label,
+      total: actividades.filter((a) => a.categoria === c.key).length,
+    }))
+    .filter((c) => c.total >= MIN_FICHAS_CATEGORIA_INDEXABLE);
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
@@ -254,6 +269,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         categorias={categorias}
         strings={FILTROS_STRINGS_ES}
         locale="es-ES"
+        enlacesCategorias={enlacesCategorias}
       />
 
       {/* Texto introductorio de la ciudad, como contexto secundario al pie de

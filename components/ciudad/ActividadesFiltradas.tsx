@@ -67,12 +67,21 @@ export type ActividadesFiltradasStrings = {
   cancelacionGratuita: string;
 };
 
+/** Enlace rastreable a la landing de una categoría (`/…/actividades/c/…`). */
+export type EnlaceCategoria = {
+  href: string;
+  label: string;
+  total: number;
+};
+
 type Props = {
   actividades: ActividadCardData[];
   chips: ChipFiltro[];
   categorias: CategoriaOpcion[];
   strings: ActividadesFiltradasStrings;
   locale: string;
+  /** Landings de categoría a enlazar bajo el listado (solo las indexables). */
+  enlacesCategorias?: EnlaceCategoria[];
 };
 
 /** Actividades por página. Múltiplo de 3 para cuadrar con la rejilla. */
@@ -102,6 +111,7 @@ export default function ActividadesFiltradas({
   categorias,
   strings,
   locale,
+  enlacesCategorias = [],
 }: Props) {
   const [tagsActivos, setTagsActivos] = useState<string[]>([]);
   const [categoriasActivas, setCategoriasActivas] = useState<string[]>([]);
@@ -184,10 +194,8 @@ export default function ActividadesFiltradas({
 
   const totalPaginas = Math.max(1, Math.ceil(filtradas.length / POR_PAGINA));
   const paginaSegura = Math.min(pagina, totalPaginas);
-  const visibles = filtradas.slice(
-    (paginaSegura - 1) * POR_PAGINA,
-    paginaSegura * POR_PAGINA
-  );
+  const inicioPagina = (paginaSegura - 1) * POR_PAGINA;
+  const finPagina = paginaSegura * POR_PAGINA;
 
   const en = locale.startsWith("en");
   const txtPaginacion = {
@@ -196,6 +204,12 @@ export default function ActividadesFiltradas({
     siguiente: en ? "Next page" : "Página siguiente",
     pagina: (n: number) => (en ? `Page ${n}` : `Página ${n}`),
   };
+
+  const txtCategorias = locale.startsWith("de")
+    ? "Nach Kategorie entdecken"
+    : en
+      ? "Browse by category"
+      : "Explorar por categoría";
 
   const irAPagina = (p: number) => {
     const destino = Math.min(Math.max(1, p), totalPaginas);
@@ -274,7 +288,7 @@ export default function ActividadesFiltradas({
                           onClick={() => toggleTag(chip.tag)}
                           aria-pressed={activo}
                           className={
-                            "text-left text-sm font-medium px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 " +
+                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 " +
                             (activo
                               ? "bg-sky-500 border-sky-500 text-white hover:bg-sky-600"
                               : "bg-white border-slate-300 text-slate-900 hover:border-sky-400")
@@ -304,7 +318,7 @@ export default function ActividadesFiltradas({
                           onClick={() => toggleCategoria(cat.key)}
                           aria-pressed={activo}
                           className={
-                            "text-left text-sm font-medium px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 " +
+                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 " +
                             (activo
                               ? "bg-amber-500 border-amber-500 text-white hover:bg-amber-600"
                               : "bg-white border-slate-300 text-slate-900 hover:border-amber-400")
@@ -351,13 +365,22 @@ export default function ActividadesFiltradas({
             ) : (
               <>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-                  {visibles.map((a) => (
-                    <CardActividad
+                  {/* Todas las tarjetas van en el HTML (para que los buscadores
+                      lleguen a cada ficha); las de otras páginas se ocultan
+                      con CSS y sus imágenes lazy no se descargan. */}
+                  {filtradas.map((a, i) => (
+                    <div
                       key={a.slug}
-                      actividad={a}
-                      strings={strings}
-                      locale={locale}
-                    />
+                      className={
+                        i >= inicioPagina && i < finPagina ? "flex" : "hidden"
+                      }
+                    >
+                      <CardActividad
+                        actividad={a}
+                        strings={strings}
+                        locale={locale}
+                      />
+                    </div>
                   ))}
                 </div>
 
@@ -417,6 +440,30 @@ export default function ActividadesFiltradas({
                 ) : null}
               </>
             )}
+
+            {enlacesCategorias.length > 0 ? (
+              <nav
+                aria-label={txtCategorias}
+                className="mt-12 pt-8 border-t border-slate-200"
+              >
+                <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-4">
+                  {txtCategorias}
+                </h2>
+                <ul className="flex flex-wrap gap-x-4 gap-y-2">
+                  {enlacesCategorias.map((c) => (
+                    <li key={c.href}>
+                      <Link
+                        href={c.href}
+                        prefetch={false}
+                        className="inline-flex items-center text-sky-600 hover:text-sky-700 font-semibold transition-colors"
+                      >
+                        {c.label} ({c.total}) →
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+            ) : null}
           </div>
         </div>
       </div>
@@ -445,7 +492,7 @@ function CardActividad({
     <Link
       href={actividad.url}
       prefetch={false}
-      className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      className="group flex flex-col w-full overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
     >
       {actividad.imagen ? (
         <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">

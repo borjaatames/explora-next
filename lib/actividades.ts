@@ -780,3 +780,9 @@ export function urlCategoriaActividadesSiExiste(
     ? urlActividadesDeCiudadPorCategoria(idioma, ciudad, categoriaUrlSlug)
     : null;
 }
+
+/**
+ * Mínimo de fichas para que una landing de categoría sea indexable y se
+ * enlace desde el listado. Con menos, es contenido fino: `noindex, follow`.
+ */
+export const MIN_FICHAS_CATEGORIA_INDEXABLE = 4;

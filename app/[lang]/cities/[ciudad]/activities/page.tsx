@@ -11,6 +11,8 @@ import {
   type ActividadListItem,
   type CategoriaActividad,
   urlListadoActividadesSiExiste,
+  categoriaAUrl,
+  MIN_FICHAS_CATEGORIA_INDEXABLE,
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -19,6 +21,7 @@ import {
   hreflangAlternates,
   prefijoIdioma,
   urlActividadesDeCiudad,
+  urlActividadesDeCiudadPorCategoria,
   urlGuiasDeCiudad,
   urlAtraccionesDeCiudad,
   urlIndiceCiudades,
@@ -29,6 +32,7 @@ import ActividadesFiltradas, {
   type ActividadCardData,
   type ActividadesFiltradasStrings,
   type CategoriaOpcion,
+  type EnlaceCategoria,
 } from "@/components/ciudad/ActividadesFiltradas";
 
 const SITE_URL =
@@ -193,6 +197,17 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
     actividades,
     dict.actividades.categorias
   );
+  const enlacesCategorias: EnlaceCategoria[] = categorias
+    .map((c) => ({
+      href: urlActividadesDeCiudadPorCategoria(
+        lang,
+        params.ciudad,
+        categoriaAUrl(c.key as CategoriaActividad)
+      ),
+      label: c.label,
+      total: actividades.filter((a) => a.categoria === c.key).length,
+    }))
+    .filter((c) => c.total >= MIN_FICHAS_CATEGORIA_INDEXABLE);
 
   const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
   const indiceCiudadesUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
@@ -297,6 +312,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         categorias={categorias}
         strings={FILTROS_STRINGS_EN}
         locale={IDIOMA_LOCALE[lang]}
+        enlacesCategorias={enlacesCategorias}
       />
 
       {/* City intro text as secondary context at the foot of the page. */}
