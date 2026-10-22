@@ -8,8 +8,8 @@ fecha_actualizacion: '2026-10-17'
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-imagen_portada: "/images/guias/serra-tramuntana-soller.jpg"
-imagen_alt: "Catedral de Palma de Mallorca, imagen icónica de la isla"
+imagen_portada: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
+imagen_alt: "Port de Sóller y su bahía vistos desde la Serra de Tramuntana"
 tiempo_lectura: 4
 keywords:
   - "serra de tramuntana"

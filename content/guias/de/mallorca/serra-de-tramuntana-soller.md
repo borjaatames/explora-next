@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-03-18"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
-imagen_portada: "/images/guias/serra-tramuntana-soller.jpg"
-imagen_alt: "Kathedrale von Palma, ein Wahrzeichen der Insel"
+imagen_portada: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
+imagen_alt: "Port de Sóller und seine Bucht von der Serra de Tramuntana aus gesehen"
 tiempo_lectura: 12
 keywords:
   - "serra de tramuntana"

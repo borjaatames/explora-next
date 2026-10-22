@@ -20,6 +20,8 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+reservasArriba: true
+respuestaCorta: 'Official tickets (€22.27) go on sale **90 days ahead** and morning slots sell out weeks in advance. **If they''re gone**, a guided tour that includes the ticket guarantees you the Nasrid Palaces at a fixed time. Allow about 4 hours and arrive early: you only get a 30-minute window for the Nasrid Palaces.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife

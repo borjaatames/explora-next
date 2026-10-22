@@ -89,6 +89,17 @@ function extraerIdiomaDePath(pathname: string): Idioma | null {
   return null;
 }
 
+/**
+ * Construye la URL de destino de un redirect conservando la query
+ * (?gclid, ?utm_*, ?interno=1…). `new URL(path, req.url)` la pierde y
+ * eso rompía la atribución de Google Ads en las visitas a la home.
+ */
+function destinoConQuery(path: string, req: NextRequest): URL {
+  const destino = new URL(path, req.url);
+  destino.search = req.nextUrl.search;
+  return destino;
+}
+
 export function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;
   const idiomaEnPath = extraerIdiomaDePath(pathname);
@@ -99,13 +110,13 @@ export function middleware(req: NextRequest) {
     //     (canonicalización: /es/guias -> /guias).
     if (idiomaEnPath === IDIOMA_DEFECTO) {
       const restoPath = pathname.replace(/^\/es/, "") || "/";
-      return NextResponse.redirect(new URL(restoPath, req.url), 308);
+      return NextResponse.redirect(destinoConQuery(restoPath, req), 308);
     }
 
     // 1b. El idioma de la URL no está activo todavía: redirect a la home
     //     española. Útil mientras solo está activo "es".
     if (!esIdiomaActivo(idiomaEnPath)) {
-      return NextResponse.redirect(new URL("/", req.url), 307);
+      return NextResponse.redirect(destinoConQuery("/", req), 307);
     }
 
     // 1c. El idioma de la URL está activo: dejar pasar y guardar cookie.
@@ -134,7 +145,7 @@ export function middleware(req: NextRequest) {
   const cookiePreferido = req.cookies.get(COOKIE_LOCALE)?.value;
   if (cookiePreferido && esIdiomaActivo(cookiePreferido)) {
     if (cookiePreferido !== IDIOMA_DEFECTO) {
-      return NextResponse.redirect(new URL(`/${cookiePreferido}`, req.url), 307);
+      return NextResponse.redirect(destinoConQuery(`/${cookiePreferido}`, req), 307);
     }
     // cookie es "es" → dejar pasar tal cual.
     const _res = NextResponse.next();
@@ -149,7 +160,7 @@ export function middleware(req: NextRequest) {
     idiomaNavegador !== IDIOMA_DEFECTO &&
     (IDIOMAS_ACTIVOS as readonly string[]).includes(idiomaNavegador)
   ) {
-    const res = NextResponse.redirect(new URL(`/${idiomaNavegador}`, req.url), 307);
+    const res = NextResponse.redirect(destinoConQuery(`/${idiomaNavegador}`, req), 307);
     res.cookies.set(COOKIE_LOCALE, idiomaNavegador, {
       path: "/",
       maxAge: 60 * 60 * 24 * 365,

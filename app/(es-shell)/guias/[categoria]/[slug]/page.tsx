@@ -20,6 +20,7 @@ import { obtenerListaCiudades } from "@/lib/ciudades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
+import RespuestaCorta from "@/components/guia/RespuestaCorta";
 import TarjetaReservaInline from "@/components/guia/TarjetaReservaInline";
 import CtaStickyGuia from "@/components/guia/CtaStickyGuia";
 import TrackingReservasGuia from "@/components/guia/TrackingReservasGuia";
@@ -269,6 +270,7 @@ export default async function GuiaPage({ params }: Props) {
         ]}
       />
 
+      <RespuestaCorta texto={guia.respuestaCorta} idioma="es" />
       <ReservasGuia actividades={reservasArriba} idioma="es" />
 
       <div

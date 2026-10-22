@@ -99,3 +99,41 @@ export function obtenerActividadesParaGuia(
 
   return ordenadas.slice(0, total).map(({ a }) => a);
 }
+
+
+// =============================================================================
+// Actividades parecidas al pie de una ficha
+// -----------------------------------------------------------------------------
+// Para no perder al lector que no se convence con la ficha: otras fichas
+// propias de la misma ciudad, priorizando las que comparten atracción y luego
+// categoría; a igualdad, las que tienen más opiniones.
+// =============================================================================
+
+type FichaReferencia = {
+  slug: string;
+  categoria: string;
+  atraccionesRelacionadas?: string[];
+};
+
+export function obtenerActividadesParecidas(
+  idioma: Idioma,
+  ciudad: string,
+  actual: FichaReferencia,
+  limite = 4
+): ActividadListItem[] {
+  const atracciones = new Set(actual.atraccionesRelacionadas ?? []);
+  const puntos = (a: ActividadListItem): number => {
+    const compartidas = (a.atraccionesRelacionadas ?? []).filter((x) =>
+      atracciones.has(x)
+    ).length;
+    return compartidas * 2 + (a.categoria === actual.categoria ? 1 : 0);
+  };
+  return obtenerListaActividadesPorCiudad(idioma, ciudad)
+    .filter((a) => a.slug !== actual.slug)
+    .sort(
+      (a, b) =>
+        puntos(b) - puntos(a) ||
+        (b.numeroOpiniones ?? 0) - (a.numeroOpiniones ?? 0)
+    )
+    .slice(0, limite);
+}

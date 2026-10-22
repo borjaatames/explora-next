@@ -7,7 +7,28 @@ import {
 
 type Props = DatosPrecioBokun & {
   idioma: Idioma;
+  horasCancelacion?: number;
+  cancelacionGratuita?: boolean;
+  confirmacionInmediata?: boolean;
 };
+
+const CONFIANZA = {
+  es: {
+    cancelacion: (h?: number) => (h ? `Cancelación gratis hasta ${h} h antes` : "Cancelación gratis"),
+    confirmacion: "Confirmación inmediata",
+    pago: "Pago seguro",
+  },
+  en: {
+    cancelacion: (h?: number) => (h ? `Free cancellation up to ${h}h before` : "Free cancellation"),
+    confirmacion: "Instant confirmation",
+    pago: "Secure payment",
+  },
+  de: {
+    cancelacion: (h?: number) => (h ? `Kostenlose Stornierung bis ${h} Std. vorher` : "Kostenlose Stornierung"),
+    confirmacion: "Sofortige Bestätigung",
+    pago: "Sichere Zahlung",
+  },
+} as const;
 
 /**
  * Precio "desde" + botón que baja al calendario de reserva, en la cabecera
@@ -16,9 +37,21 @@ type Props = DatosPrecioBokun & {
  *
  * Server Component: el salto es un enlace de ancla nativo, sin JavaScript.
  */
-export default function CtaReservaBokun({ idioma, ...datos }: Props) {
+export default function CtaReservaBokun({
+  idioma,
+  horasCancelacion,
+  cancelacionGratuita,
+  confirmacionInmediata,
+  ...datos
+}: Props) {
   if (!(datos.precioDesde > 0)) return null;
   const t = textosPrecioBokun(datos, idioma);
+  const c = CONFIANZA[idioma === "en" || idioma === "de" ? idioma : "es"];
+  const garantias = [
+    ...(cancelacionGratuita ? [c.cancelacion(horasCancelacion)] : []),
+    ...(confirmacionInmediata ? [c.confirmacion] : []),
+    c.pago,
+  ];
 
   return (
     <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3">
@@ -33,6 +66,16 @@ export default function CtaReservaBokun({ idioma, ...datos }: Props) {
       >
         {t.verFechas} →
       </a>
+      <p className="w-full text-sm text-slate-600 flex flex-wrap gap-x-4 gap-y-1">
+        {garantias.map((g) => (
+          <span key={g} className="inline-flex items-center gap-1">
+            <span aria-hidden="true" className="text-sky-600">
+              ✓
+            </span>
+            {g}
+          </span>
+        ))}
+      </p>
     </div>
   );
 }

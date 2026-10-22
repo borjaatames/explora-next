@@ -19,10 +19,17 @@ import type { Idioma } from "./i18n/types";
 //      y envía `click_reserva` a GA4 con guía, ficha y posición.
 //
 // Las posiciones medidas: "inline" (tarjeta en el texto), "enlace" (píldora),
-// "top" (bloque bajo el hero), "carrusel" (pie), "sticky" (barra móvil).
+// "top" (bloque bajo el hero), "carrusel" (pie), "sticky" (barra móvil),
+// "tabla" (botón «Reservar» junto al enlace dentro de una tabla).
 // =============================================================================
 
-export type PosicionReserva = "inline" | "enlace" | "top" | "carrusel" | "sticky";
+export type PosicionReserva =
+  | "inline"
+  | "enlace"
+  | "top"
+  | "carrusel"
+  | "sticky"
+  | "tabla";
 
 export type TrozoGuia =
   | { tipo: "html"; html: string }
@@ -112,8 +119,10 @@ const RE_ENLACE_FICHA =
  * Añade a cada enlace a una ficha publicada:
  *   - `data-reserva="enlace"` + `data-ficha` para la medición;
  *   - una píldora "20 € · ★ 4,7" leída del frontmatter de la ficha.
- * Dentro de tablas solo se añaden los atributos (ya suelen tener columna de
- * precio y valoración). Los enlaces a fichas desconocidas se dejan intactos.
+ * Dentro de tablas no se añade la píldora (ya suelen tener columna de precio y
+ * valoración); en su lugar, al final de la celda va un botón «Reservar» que
+ * hace visible que el enlace lleva a una actividad reservable
+ * (`data-reserva="tabla"`). Los enlaces a fichas desconocidas se dejan intactos.
  */
 export function enriquecerEnlacesFichas(
   html: string,
@@ -131,7 +140,7 @@ export function enriquecerEnlacesFichas(
           const ficha = fichas.get(slugEs ?? slugOtro ?? "");
           if (!ficha) return original;
           const attrs = ` data-reserva="enlace" data-ficha="${ficha.slugs?.es ?? ficha.slug}"`;
-          if (enTabla) return `<a href="${href}"${attrs}>${texto}</a>`;
+          if (enTabla) return `<a href="${href}"${attrs.replace('"enlace"', '"tabla"')}>${texto}</a>`;
           const rating = formatearRating(ficha, idioma);
           const partes = [formatearPrecio(ficha, idioma)];
           if (rating) partes.push(`<span class="text-amber-500" aria-hidden="true">★</span> ${rating}`);
@@ -143,5 +152,29 @@ export function enriquecerEnlacesFichas(
         }
       );
     })
+    .map((seg, i) => (i % 2 === 1 ? anadirBotonesTabla(seg, idioma) : seg))
     .join("");
+}
+
+const TEXTO_BOTON_TABLA: Record<string, string> = {
+  es: "Reservar",
+  en: "Book",
+  de: "Buchen",
+};
+
+const CLASES_BOTON_TABLA =
+  "reserva-tabla inline-block mt-1 ml-1 bg-amber-500 hover:bg-amber-600 text-white text-xs font-semibold px-2.5 py-1 rounded no-underline whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2";
+
+/**
+ * En cada celda de tabla que contenga un enlace ya enriquecido a una ficha,
+ * añade al final un botón «Reservar» hacia la misma ficha. Un botón por celda.
+ */
+function anadirBotonesTabla(tabla: string, idioma: Idioma): string {
+  const texto = TEXTO_BOTON_TABLA[idioma] ?? TEXTO_BOTON_TABLA.es;
+  return tabla.replace(/(<td[^>]*>)([\s\S]*?)(<\/td>)/g, (celda: string, apertura: string, contenido: string, cierre: string) => {
+    const m = contenido.match(/<a href="([^"]+)" data-reserva="tabla" data-ficha="([^"]+)">/);
+    if (!m) return celda;
+    const boton = `<a href="${m[1]}" data-reserva="tabla" data-ficha="${m[2]}" class="${CLASES_BOTON_TABLA}">${texto}</a>`;
+    return `${apertura}${contenido} ${boton}${cierre}`;
+  });
 }

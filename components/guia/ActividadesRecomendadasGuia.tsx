@@ -8,6 +8,8 @@ type Props = {
   idioma: Idioma;
   nombreCiudad: string;
   urlTodas: string;
+  /** "ficha": textos para el pie de una ficha («otras actividades parecidas»). */
+  variante?: "guia" | "ficha";
 };
 
 type Textos = {
@@ -58,10 +60,29 @@ const TEXTOS: Record<"es" | "en" | "de", Textos> = {
   },
 };
 
-function textos(idioma: Idioma): Textos {
-  if (idioma === "en") return TEXTOS.en;
-  if (idioma === "de") return TEXTOS.de;
-  return TEXTOS.es;
+const TEXTOS_FICHA: Record<"es" | "en" | "de", Pick<Textos, "etiqueta" | "titulo" | "subtitulo">> = {
+  es: {
+    etiqueta: "Alternativas",
+    titulo: (c) => `Otras actividades parecidas en ${c}`,
+    subtitulo: "Opciones con buenas opiniones por si esta no encaja con tu plan.",
+  },
+  en: {
+    etiqueta: "Alternatives",
+    titulo: (c) => `Similar activities in ${c}`,
+    subtitulo: "Well-reviewed options in case this one doesn't fit your plans.",
+  },
+  de: {
+    etiqueta: "Alternativen",
+    titulo: (c) => `Ähnliche Aktivitäten in ${c}`,
+    subtitulo: "Gut bewertete Optionen, falls diese nicht zu deinen Plänen passt.",
+  },
+};
+
+function textos(idioma: Idioma, variante: "guia" | "ficha" = "guia"): Textos {
+  const clave = idioma === "en" || idioma === "de" ? idioma : "es";
+  return variante === "ficha"
+    ? { ...TEXTOS[clave], ...TEXTOS_FICHA[clave] }
+    : TEXTOS[clave];
 }
 
 /**
@@ -74,9 +95,10 @@ export default function ActividadesRecomendadasGuia({
   idioma,
   nombreCiudad,
   urlTodas,
+  variante = "guia",
 }: Props) {
   if (actividades.length === 0) return null;
-  const t = textos(idioma);
+  const t = textos(idioma, variante);
 
   return (
     <section

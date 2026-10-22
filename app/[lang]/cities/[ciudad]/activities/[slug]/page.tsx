@@ -34,6 +34,8 @@ import InformacionImportante from "@/components/InformacionImportante";
 import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
 import FaqActividad from "@/components/FaqActividad";
 import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
+import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
+import { obtenerActividadesParecidas } from "@/lib/recomendaciones";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -114,6 +116,8 @@ export default async function ActividadPage({ params }: Props) {
   const dict = getDictionary(lang);
 
   const guiasRelacionadas = obtenerGuiasParaFicha(lang, params.ciudad, actividad);
+
+  const actividadesParecidas = obtenerActividadesParecidas(lang, params.ciudad, actividad);
 
   const url = `${SITE_URL}${actividad.url}`;
   // Viator y GetYourGuide solo soportan es/en en su propio sitio (ver
@@ -289,6 +293,9 @@ export default async function ActividadPage({ params }: Props) {
 
           {actividad.proveedor === "bokun" && (
             <CtaReservaBokun
+              cancelacionGratuita={actividad.cancelacionGratuita}
+              horasCancelacion={actividad.horasCancelacion}
+              confirmacionInmediata={actividad.detallesPracticos?.confirmacionInmediata}
               idioma={lang}
               precioDesde={actividad.precioDesde}
               moneda={actividad.moneda}
@@ -556,6 +563,21 @@ export default async function ActividadPage({ params }: Props) {
           </aside>
         </div>
       </section>
+
+      <ActividadesRecomendadasGuia
+
+        actividades={actividadesParecidas}
+
+        idioma={lang}
+
+        nombreCiudad={ciudad.nombre}
+
+        urlTodas={urlActividadesDeCiudad(lang, params.ciudad)}
+
+        variante="ficha"
+
+      />
+
 
       <div className="max-w-6xl mx-auto px-4 py-12 text-center">
         <BotonVolverFicha

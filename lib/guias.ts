@@ -57,6 +57,14 @@ export type GuiaFrontmatter = {
    * su lugar el shortcode `[actividad: slug]` dentro del texto.
    */
   reservasArriba?: boolean;
+
+  /**
+   * Respuesta de 2-3 frases a la pregunta principal de la guía, en un
+   * recuadro bajo el hero. Pensado para lectores que llegan desde ChatGPT
+   * buscando un dato concreto: lo confirmamos arriba y, justo debajo, el
+   * bloque de reservas. Admite **negrita**.
+   */
+  respuestaCorta?: string;
 };
 
 export type GuiaListItem = GuiaFrontmatter & {
@@ -169,6 +177,10 @@ export async function obtenerGuia(
     slugs: fm.slugs,
     actividades: fm.actividades || [],
     reservasArriba: fm.reservasArriba === true,
+    respuestaCorta:
+      typeof fm.respuestaCorta === "string" && fm.respuestaCorta.trim()
+        ? fm.respuestaCorta.trim()
+        : undefined,
     faq: fm.faq,
     idioma,
     tiempoLectura: calcularTiempoLectura(content),

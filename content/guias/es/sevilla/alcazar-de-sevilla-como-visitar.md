@@ -21,6 +21,8 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+reservasArriba: true
+respuestaCorta: 'La entrada general cuesta **14,50 €** y la visita lleva unas 2,5-3 horas. En temporada alta la cola de taquilla **supera las 2 horas** y el aforo se agota: compra la entrada online con hora o ve con una visita que ya la incluya. Entra a las 9:30 o después de las 17:00 para evitar el calor en los jardines.'
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line

@@ -17,6 +17,8 @@ type Props = {
 /**
  * Hero editorial de guía: foto de portada a sangre con velo inferior y el
  * título encima. Sin portada, cae a un bloque slate-900 sobrio.
+ * En móvil es más bajo y compacto (descripción a 3 líneas) para que la
+ * respuesta corta y el bloque de reservas asomen en la primera pantalla.
  */
 export default function HeroGuia({
   etiqueta,
@@ -48,11 +50,11 @@ export default function HeroGuia({
       ) : null}
       <div
         className={
-          "max-w-6xl mx-auto px-4 flex flex-col justify-end pb-10 md:pb-12 " +
-          (imagen ? "min-h-[420px] md:min-h-[520px] pt-24" : "pt-14 md:pt-16")
+          "max-w-6xl mx-auto px-4 flex flex-col justify-end pb-6 md:pb-12 " +
+          (imagen ? "min-h-[300px] md:min-h-[520px] pt-16 md:pt-24" : "pt-10 md:pt-16")
         }
       >
-        <nav aria-label={migasLabel} className="text-sm text-sky-100 mb-4">
+        <nav aria-label={migasLabel} className="text-xs md:text-sm text-sky-100 mb-3 md:mb-4 line-clamp-1 md:line-clamp-none">
           {migas.map((m, i) => (
             <span key={`${m.label}-${i}`}>
               {i > 0 ? " › " : null}
@@ -66,16 +68,16 @@ export default function HeroGuia({
             </span>
           ))}
         </nav>
-        <span className="self-start inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-4">
+        <span className="self-start inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3 md:mb-4">
           {etiqueta}
         </span>
-        <h1 className="font-playfair text-3xl md:text-5xl font-bold leading-tight max-w-4xl mb-4">
+        <h1 className="font-playfair text-2xl md:text-5xl font-bold leading-tight max-w-4xl mb-3 md:mb-4">
           {titulo}
         </h1>
-        <p className="text-lg md:text-xl text-sky-50 max-w-3xl leading-relaxed mb-5">
+        <p className="text-base md:text-xl text-sky-50 max-w-3xl leading-relaxed mb-3 md:mb-5 line-clamp-3 md:line-clamp-none">
           {descripcion}
         </p>
-        <p className="text-sm text-sky-100 flex flex-wrap gap-x-2 gap-y-1">
+        <p className="text-xs md:text-sm text-sky-100 flex flex-wrap gap-x-2 gap-y-1">
           {meta.map((m, i) => (
             <span key={`${m}-${i}`}>
               {i > 0 ? "· " : null}
