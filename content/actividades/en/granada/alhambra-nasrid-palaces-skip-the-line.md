@@ -88,6 +88,7 @@ variantes:
 - alhambra-small-group-tour
 - alhambra-generalife-guided-tour
 - alhambra-private-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This visit sits on the middle rung of the catalogue: it costs more than the large-group option, but you
   join a small group with priority entry. The question isn''t whether it''s good — it is, with over 8,400 reviews and its
   best score precisely for the guide — but whether the smaller format is worth the price to you.

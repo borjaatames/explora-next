@@ -149,13 +149,48 @@ function comunes(a: Set<string>, b: Set<string>): number {
   return Array.from(a).filter((t) => b.has(t)).length;
 }
 
+// Palabras negadas en un título: «Jardines y Generalife (sin Palacios
+// Nazaríes)» → {palacios, nazaries}. Una ficha que niega lo que otra incluye
+// es otra actividad, aunque compartan casi todas las palabras.
+const RE_NEGACION = /\b(?:sin|without|excluding|ohne)\b([^),.;]*)/gi;
+
+function tokensNegados(texto: string, ciudad: string): Set<string> {
+  const negados = new Set<string>();
+  for (const m of texto.matchAll(RE_NEGACION)) {
+    tokensTema(m[1] ?? "", ciudad).forEach((t) => negados.add(t));
+  }
+  return negados;
+}
+
+export type TipoParecidas = "casiIguales" | "ciudad" | "mejorValoradas";
+
+export type ResultadoParecidas = {
+  tipo: TipoParecidas;
+  actividades: ActividadListItem[];
+};
+
 export function obtenerActividadesParecidas(
   idioma: Idioma,
   ciudad: string,
   actual: FichaReferencia,
   limite = 4
 ): ActividadListItem[] {
+  return obtenerParecidasConTipo(idioma, ciudad, actual, limite).actividades;
+}
+
+/**
+ * Igual que `obtenerActividadesParecidas`, pero dice de qué nivel salen:
+ * el bloque «Otras versiones de esta visita» solo se muestra con
+ * `casiIguales`.
+ */
+export function obtenerParecidasConTipo(
+  idioma: Idioma,
+  ciudad: string,
+  actual: FichaReferencia,
+  limite = 4
+): ResultadoParecidas {
   const tituloActual = tokensTema(textoTitulo(actual), ciudad);
+  const negadosActual = tokensNegados(actual.titulo, ciudad);
   const keywordsActual = tokensTema((actual.keywords ?? []).join(" "), ciudad);
   // "otros-<ciudad>" es un cajón de sastre: compartirlo no hace parecidas dos fichas.
   const atraccionReal = (x: string) => !x.startsWith("otros");
@@ -166,8 +201,14 @@ export function obtenerActividadesParecidas(
     .map((a) => {
       const titulo = tokensTema(textoTitulo(a), ciudad);
       const keywords = tokensTema((a.keywords ?? []).join(" "), ciudad);
+      const negadosOtra = tokensNegados(a.titulo, ciudad);
+      // Una niega lo que la otra incluye (con/sin Nazaríes): no son la misma.
+      const contradice =
+        comunes(negadosOtra, tituloActual) > comunes(negadosOtra, negadosActual) ||
+        comunes(negadosActual, titulo) > comunes(negadosActual, negadosOtra);
       return {
         a,
+        contradice,
         // El título manda: es lo que de verdad dice qué es la actividad.
         temaTitulo: comunes(titulo, tituloActual),
         temaKeywords: comunes(new Set([...titulo, ...keywords]), keywordsActual),
@@ -177,6 +218,7 @@ export function obtenerActividadesParecidas(
     });
 
   const ordenar = (x: (typeof puntuadas)[number], y: (typeof puntuadas)[number]) =>
+    Number(x.contradice) - Number(y.contradice) ||
     y.temaTitulo - x.temaTitulo ||
     y.temaKeywords - x.temaKeywords ||
     y.atraccion - x.atraccion ||
@@ -188,6 +230,7 @@ export function obtenerActividadesParecidas(
   //    atracción, dos palabras de título). Si las hay, solo se muestran esas.
   const casiIguales = puntuadas
     .filter((p) => {
+      if (p.contradice) return false;
       const mismoTipo = p.categoria > 0 || p.temaTitulo > 1;
       return atracciones.size > 0
         ? p.atraccion > 0 && p.temaTitulo > 0 && mismoTipo
@@ -198,18 +241,28 @@ export function obtenerActividadesParecidas(
   // 2) Si no hay ninguna casi igual, mejor actividades parecidas de la ciudad
   //    que un hueco: misma categoría (o misma atracción), ordenadas por
   //    afinidad y opiniones.
+  //    Aquí sí entran las que contradicen (p. ej. la Alhambra completa para
+  //    quien mira los Jardines sin Nazaríes): misma atracción va primero.
   const parecidasCiudad = puntuadas
     .filter((p) => p.categoria > 0 || p.atraccion > 0)
-    .sort(ordenar);
+    .sort(
+      (x, y) =>
+        y.atraccion - x.atraccion ||
+        y.temaTitulo - x.temaTitulo ||
+        y.temaKeywords - x.temaKeywords ||
+        y.categoria - x.categoria ||
+        (y.a.numeroOpiniones ?? 0) - (x.a.numeroOpiniones ?? 0)
+    );
 
   // 3) Último recurso: las mejor valoradas de la ciudad.
-  const elegidas =
-    casiIguales.length > 0
-      ? casiIguales
-      : parecidasCiudad.length > 0
-        ? parecidasCiudad
-        : [...puntuadas].sort(
-            (x, y) => (y.a.numeroOpiniones ?? 0) - (x.a.numeroOpiniones ?? 0)
-          );
-  return elegidas.slice(0, limite).map((p) => p.a);
+  if (casiIguales.length > 0) {
+    return { tipo: "casiIguales", actividades: casiIguales.slice(0, limite).map((p) => p.a) };
+  }
+  if (parecidasCiudad.length > 0) {
+    return { tipo: "ciudad", actividades: parecidasCiudad.slice(0, limite).map((p) => p.a) };
+  }
+  const mejorValoradas = [...puntuadas].sort(
+    (x, y) => (y.a.numeroOpiniones ?? 0) - (x.a.numeroOpiniones ?? 0)
+  );
+  return { tipo: "mejorValoradas", actividades: mejorValoradas.slice(0, limite).map((p) => p.a) };
 }

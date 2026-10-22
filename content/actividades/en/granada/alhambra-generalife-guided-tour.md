@@ -90,6 +90,7 @@ variantes:
 - alhambra-nasrid-palaces-skip-the-line
 - alhambra-private-tour
 - alhambra-night-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This is the default choice, and for solid reasons. With more than 21,000 reviews it is by far the most-booked
   guided tour of the Alhambra: it covers the three areas that genuinely matter (Nasrid Palaces, Alcazaba and Generalife),
   it has an official guide in five languages, and the price is reasonable for what you get. If it is your first time at the

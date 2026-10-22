@@ -12,6 +12,8 @@ type Props = DatosPrecioBokun & {
   idioma: Idioma;
   ratingProveedor?: number;
   numeroOpiniones?: number;
+  /** Aviso de disponibilidad cierto (frontmatter `avisoReserva`). */
+  aviso?: string;
 };
 
 /**
@@ -26,6 +28,7 @@ export default function StickyReservaBokun({
   idioma,
   ratingProveedor,
   numeroOpiniones,
+  aviso,
   ...datos
 }: Props) {
   const [reservaVisible, setReservaVisible] = useState(false);
@@ -62,6 +65,11 @@ export default function StickyReservaBokun({
       aria-label={idioma === "es" ? "Reservar actividad" : "Book activity"}
       aria-hidden={!visible}
     >
+      {aviso && (
+        <p className="bg-amber-50 border-b border-amber-200 text-amber-900 text-xs font-semibold text-center px-4 py-1.5">
+          {aviso}
+        </p>
+      )}
       <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
         <div className="flex flex-col min-w-0 flex-1">
           <span className="text-base font-bold text-slate-900 leading-tight">

@@ -86,6 +86,7 @@ variantes:
 - alhambra-nasrid-palaces-skip-the-line
 - alhambra-private-tour
 - alhambra-generalife-guided-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This visit sits in the middle of the catalogue, and it does it well. It''s a small group — with the closeness
   to the guide and the more comfortable pace that implies — at €65, below what other small-group options cost. If you want
   the small format without reaching private-tour prices, it''s one of the most balanced choices.

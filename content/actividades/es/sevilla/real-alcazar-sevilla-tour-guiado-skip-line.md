@@ -107,6 +107,7 @@ variantes:
     descripcion: "105 min con guía oficial en portugués. Slots limitados — reserva con antelación."
     precio: 39
 
+avisoReserva: 'En temporada alta, la cola de taquilla del Alcázar supera las 2 horas'
 opinionEditorial: |
   El **tour guiado del Real Alcázar de mayor volumen en GetYourGuide** — 510 reseñas con 4,4/5 lo convierten en el producto guiado más establecido para visitar el palacio real en uso más antiguo de Europa. El recorrido de 105 min cubre los espacios clave: Palacio Mudéjar de Pedro I (la joya arquitectónica del s. XIV), Palacio Gótico (la parte cristiana añadida tras la Reconquista), Patio de las Doncellas con su estanque alargado, Cuartos Reales y el Cuarto Real Alto (espacio reservado donde se hospedan los reyes de España).
 

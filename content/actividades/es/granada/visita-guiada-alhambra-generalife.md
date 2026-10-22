@@ -90,6 +90,7 @@ variantes:
 - alhambra-palacios-nazaries-sin-colas
 - alhambra-tour-privado
 - alhambra-visita-nocturna
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Es la opción por defecto, y lo es por motivos sólidos. Con más de 21.000 reseñas es, con diferencia, la
   visita guiada a la Alhambra más reservada: cubre las tres zonas que de verdad importan (Palacios Nazaríes, Alcazaba y Generalife),
   tiene guía oficial en cinco idiomas y un precio contenido para lo que ofrece. Si es tu primera vez en la Alhambra y quieres

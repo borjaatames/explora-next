@@ -85,6 +85,7 @@ variantes:
 - alhambra-grupo-reducido
 - alhambra-tour-privado
 - visita-guiada-alhambra-generalife
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Es la visita mejor valorada del comparador: 4,9 sobre 5, con un 95 % de viajeros hispanohablantes dándole
   la nota máxima. No es casualidad —funciona en grupo reducido o privado, con guía oficial y un itinerario que reparte bien
   las tres zonas de la Alhambra—, pero tampoco es gratis: a 99 € es de las opciones más caras de grupo del catálogo.

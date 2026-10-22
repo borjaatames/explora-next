@@ -88,6 +88,7 @@ variantes:
 - alhambra-grupo-reducido
 - visita-guiada-alhambra-generalife
 - alhambra-tour-privado
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Esta visita ocupa el escalón intermedio del catálogo: cuesta más que la opción de grupo grande, pero te
   metes en un grupo reducido con entrada prioritaria. La pregunta no es si está bien —lo está, con más de 8.400 reseñas y
   la mejor nota precisamente en la valoración del guía—, sino si el formato más pequeño te compensa el precio.

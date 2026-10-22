@@ -74,6 +74,7 @@ variantes:
 - sagrada-familia-park-guell-tour-guiado
 - entrada-sagrada-familia-audioguia
 - sagrada-familia-visita-guiada-sin-colas
+avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
 opinionEditorial: 'Es el «todo en un día» de Barcelona: quedas a primera hora en el centro y, en unas 7 horas, ves Montjuïc, el casco antiguo, el barrio gótico, el Passeig de Gràcia, el Park Güell y la Sagrada Familia, con guía y transporte privado en algunos tramos. Para quien aterriza con un día y quiere exprimirlo sin organizar nada, funciona —y la nota lo respalda como pocas: 4,9 sobre 5 con más de 15.000 reseñas, la más alta—.
 
 

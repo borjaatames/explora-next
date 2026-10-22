@@ -38,6 +38,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
 opinionEditorial: 'Gaudí''s two must-see works in half a day and skip-the-line, with a guide just for you and transfer between
   them: it''s the most comfortable way to see both, especially with family or if you''d rather not deal with transport or
   tickets.'

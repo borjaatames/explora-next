@@ -85,6 +85,7 @@ variantes:
 - alhambra-small-group-tour
 - alhambra-guided-tour-with-tickets
 - alhambra-generalife-guided-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This is the premium option in the comparison, and the key question is simple: is €280 per person worth
   it to have the Alhambra at your own pace? With a guide just for you, you stop where you like, ask without limits and tailor
   the visit to what genuinely interests you. The score backs it up — 4.9 out of 5, among the highest in the catalogue — but

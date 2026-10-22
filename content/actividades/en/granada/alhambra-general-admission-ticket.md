@@ -59,6 +59,7 @@ preguntasFrecuentes:
   respuesta: 'You will not be admitted to the palaces and there is no refund. Arrive at the site at least 30 minutes before your slot: it is a 10-15 minute walk from the main entrance to the palaces.'
 - pregunta: Why is it more expensive than the official website?
   respuesta: The official ticket costs about €22. This option includes the booking service and, above all, availability when the official website is sold out, which is the norm in high season.
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'If you are visiting independently and want the whole Alhambra, this is the ticket. Book as soon as you have dates: it is Spain''s most visited monument and morning slots go fast.'
 guiasRelacionadas:
 - alhambra-how-to-visit

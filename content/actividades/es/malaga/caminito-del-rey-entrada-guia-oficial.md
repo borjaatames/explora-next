@@ -64,6 +64,7 @@ preguntasFrecuentes:
   respuesta: La entrada oficial sin guía existe, pero se agota con meses de antelación. Esta opción con guía oficial tiene cupo propio y, además, el guía explica la historia de la central hidroeléctrica y la geología del desfiladero.
 - pregunta: ¿Da miedo?
   respuesta: Las pasarelas son anchas, con barandilla y a 100 metros sobre el río. Es seguro y apto para familias con niños desde 8 años, pero el puente colgante final impresiona a quien tiene vértigo.
+avisoReserva: 'Las plazas de primavera y otoño se agotan en pocos días'
 opinionEditorial: La forma más barata de hacer el Caminito con entrada asegurada. Si ya tienes coche o vas a usar el tren, no pagues el tour con transporte. Reserva el día que te cuadre y organiza el viaje a Málaga alrededor de esa fecha.
 guiasRelacionadas:
 - caminito-del-rey-como-visitar

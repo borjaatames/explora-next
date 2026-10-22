@@ -37,7 +37,8 @@ import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
 import FaqActividad from "@/components/FaqActividad";
 import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
-import { obtenerActividadesParecidas } from "@/lib/recomendaciones";
+import { obtenerParecidasConTipo } from "@/lib/recomendaciones";
+import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -119,7 +120,9 @@ export default async function ActividadPage({ params }: Props) {
 
   const guiasRelacionadas = obtenerGuiasParaFicha(lang, params.ciudad, actividad);
 
-  const actividadesParecidas = obtenerActividadesParecidas(lang, params.ciudad, actividad);
+  const parecidas = obtenerParecidasConTipo(lang, params.ciudad, actividad);
+  const actividadesParecidas = parecidas.actividades;
+  const otrasVersiones = parecidas.tipo === "casiIguales" ? parecidas.actividades : [];
 
   const url = `${SITE_URL}${actividad.url}`;
   // Viator y GetYourGuide solo soportan es/en en su propio sitio (ver
@@ -296,6 +299,18 @@ export default async function ActividadPage({ params }: Props) {
             </p>
           )}
 
+          {actividad.avisoReserva && (
+
+            <p className="hidden md:flex mt-3 items-center gap-2 text-sm font-semibold text-amber-900 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 w-fit">
+
+              <span aria-hidden="true" className="text-amber-500">!</span>
+
+              {actividad.avisoReserva}
+
+            </p>
+
+          )}
+
           <DatosClave
             idioma={lang}
             titulo={actividad.titulo}
@@ -381,6 +396,9 @@ export default async function ActividadPage({ params }: Props) {
                 </ul>
               </div>
             )}
+
+            {/* 3b. Otras versiones de la misma actividad */}
+            <OtrasVersiones idioma={lang} actual={actividad} versiones={otrasVersiones} />
 
             {/* 4. Editorial opinion */}
             {actividad.opinionEditorial && (
@@ -619,6 +637,7 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.proveedor === "bokun" && (
         <StickyReservaBokun
+          aviso={actividad.avisoReserva}
           ratingProveedor={actividad.ratingProveedor}
           numeroOpiniones={actividad.numeroOpiniones}
           idioma={lang}
@@ -631,6 +650,7 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.proveedor !== "bokun" && (
         <StickyReservaMovil
+          aviso={actividad.avisoReserva}
           idioma={lang}
           precio={`${dict.actividades.desde} ${precio}`}
           valorEstimado={precioDesdeFinal}

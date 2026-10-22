@@ -84,6 +84,7 @@ variantes:
 - visita-guiada-alhambra-generalife
 - alhambra-tour-privado
 - alhambra-grupo-reducido
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Esta es la única visita del comparador que cambia las reglas del juego: la Alhambra de noche. Los Palacios
   Nazaríes iluminados, sin las multitudes del día y con una atmósfera completamente distinta. Con 4,9 sobre 5 y la distinción
   «Originals by GetYourGuide», es de las experiencias mejor valoradas, y a 54 € el precio es razonable.

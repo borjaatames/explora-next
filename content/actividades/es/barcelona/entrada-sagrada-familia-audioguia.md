@@ -82,6 +82,7 @@ preguntasFrecuentes:
   respuesta: 'La basílica sí: es accesible y la entrada es gratuita para personas con movilidad reducida. Lo que no es accesible
     es la subida a las torres.'
 variantes: []
+avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
 opinionEditorial: 'Es la forma más sencilla y económica de entrar a la Sagrada Familia: el acceso a la basílica con audioguía,
   a tu ritmo, sin depender de un grupo ni del horario de un guía. Por 34 € entras a ver lo que de verdad impresiona —las columnas
   arborescentes y las vidrieras—, que se aprecia igual sin guía en persona. Más de 113.000 reseñas y un 4,6 respaldan que

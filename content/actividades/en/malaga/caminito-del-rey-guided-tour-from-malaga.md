@@ -71,6 +71,7 @@ preguntasFrecuentes:
   respuesta: No, entry is included.
 - pregunta: What if the weather is bad?
   respuesta: If the Caminito closes for wind or rain, you're rescheduled or refunded.
+avisoReserva: 'Spring and autumn slots sell out within days'
 opinionEditorial: Caminito del Rey tickets sell out and getting there without a car is awkward; this trip sorts everything from Málaga. With over 19,000 reviews and a 4.9 rating, it's the area's top-rated activity.
 guiasRelacionadas:
 - caminito-del-rey-how-to-visit

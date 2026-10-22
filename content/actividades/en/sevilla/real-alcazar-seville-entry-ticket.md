@@ -57,6 +57,7 @@ preguntasFrecuentes:
   respuesta: 'Between 1.5 and 2 hours: 45-60 minutes for the palaces and the rest for the gardens. In spring, when the gardens are in bloom, it is worth lingering.'
 - pregunta: Can I combine it with the Cathedral on the same day?
   respuesta: Yes, they are 100 metres apart. The easy plan is the Alcázar first thing and the Cathedral after lunch, or book the 3-monument priority pass.
+avisoReserva: 'In high season, the Alcázar ticket queue tops 2 hours'
 opinionEditorial: The Alcázar is Seville's number one visit and the box-office queue in season exceeds an hour. With a timed ticket you walk in at your time and skip the sun. Book days ahead in spring and at Easter.
 guiasRelacionadas:
 - alcazar-of-seville-how-to-visit

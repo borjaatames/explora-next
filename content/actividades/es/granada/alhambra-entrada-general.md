@@ -59,6 +59,7 @@ preguntasFrecuentes:
   respuesta: 'No entras a los palacios y no hay devolución. Llega al recinto al menos 30 minutos antes de tu franja: desde la entrada principal hasta los Palacios hay 10-15 minutos andando.'
 - pregunta: ¿Por qué cuesta más que en la web oficial?
   respuesta: La entrada oficial cuesta unos 22 €. Esta opción incluye la gestión y, sobre todo, disponibilidad cuando la web del Patronato ya está agotada, que en temporada es lo habitual.
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Si vas por libre y quieres la Alhambra entera, esta es la entrada. Reserva en cuanto tengas fechas: es el monumento más visitado de España y las franjas de mañana vuelan.'
 guiasRelacionadas:
 - alhambra-como-visitar

@@ -38,6 +38,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
 opinionEditorial: 'Las dos obras imprescindibles de Gaudí en medio día y sin colas, con un guía solo para vosotros y traslado
   entre ambas: es la forma más cómoda de verlas, sobre todo en familia o si no quieres pelearte con el transporte ni con las
   entradas.'

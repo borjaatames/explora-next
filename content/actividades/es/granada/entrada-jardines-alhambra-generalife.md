@@ -84,6 +84,7 @@ preguntasFrecuentes:
     en flor merece la pena por sí solo.'
 variantes:
 - alhambra-tour-guiado-con-entradas
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'La entrada MÁS BARATA del catálogo a la Alhambra (18 €). La pega importante: NO incluye los Palacios Nazaríes,
   que son la razón principal por la que la mayoría de visitantes vienen a la Alhambra. Esta entrada solo te da acceso al Generalife,
   los Jardines, el Palacio de Carlos V (el del siglo XVI que rompe el complejo nazarí), los Baños de la Mezquita y la Alcazaba

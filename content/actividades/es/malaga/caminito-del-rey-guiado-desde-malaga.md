@@ -71,6 +71,7 @@ preguntasFrecuentes:
   respuesta: No, la entrada va incluida.
 - pregunta: ¿Qué pasa si hace mal tiempo?
   respuesta: Si el Caminito cierra por viento o lluvia, se reprograma o se devuelve el dinero.
+avisoReserva: 'Las plazas de primavera y otoño se agotan en pocos días'
 opinionEditorial: La entrada al Caminito del Rey se agota y llegar sin coche es complicado; esta excursión lo resuelve todo desde Málaga. Con más de 19.000 reseñas y un 4,9, es la actividad mejor valorada de la zona.
 guiasRelacionadas:
 - caminito-del-rey-como-visitar

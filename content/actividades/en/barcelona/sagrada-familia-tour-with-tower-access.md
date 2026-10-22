@@ -81,6 +81,7 @@ variantes:
 - sagrada-familia-skip-the-line-guided-tour
 - sagrada-familia-small-group-tour
 - sagrada-familia-ticket-audio-guide
+avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
 opinionEditorial: 'This is the experience that takes you up one of the basilica''s towers, and that''s exactly its appeal:
   taking in Barcelona from high up Gaudí''s temple. The guided tour is really well handled — it includes the crypt and the
   Gaudí Museum, with headphones and live narration — and you do the tower climb afterwards, on your own, in about 30 minutes.

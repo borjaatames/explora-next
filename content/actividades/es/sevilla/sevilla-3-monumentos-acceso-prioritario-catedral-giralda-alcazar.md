@@ -111,6 +111,7 @@ variantes:
     descripcion: "Tour privado para tu grupo exclusivo, en cualquier idioma disponible. Mayor flexibilidad."
     precio: 175
 
+avisoReserva: 'En temporada alta, la cola de taquilla del Alcázar supera las 2 horas'
 opinionEditorial: |
   El **producto TOP VENDIDO de Sevilla en GetYourGuide** — 9.797 reseñas con 4,8/5 lo posicionan como el tour más reservado de la ciudad. La fórmula del éxito es clara: cubre los 3 monumentos UNESCO (Catedral + Giralda + Real Alcázar) en un solo paquete coordinado, ahorra 2-3 horas de cola en alta temporada gracias al acceso prioritario, y la cancelación 48h es más generosa que el 24h estándar. Para visitantes con tiempo limitado — cruceristas, escapadas de 2 días, viajes de fin de semana — es la opción que resuelve el problema "cómo ver lo esencial sin perder medio día en colas y reservas".
 

@@ -82,6 +82,7 @@ preguntasFrecuentes:
   respuesta: 'The basilica is: it is accessible and entry is free for visitors with reduced mobility. What is not accessible
     is going up the towers.'
 variantes: []
+avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
 opinionEditorial: 'This is the simplest, cheapest way into the Sagrada Familia: access to the basilica with an audio guide,
   at your own pace, without depending on a group or a guide''s schedule. For €34 you get in to see what genuinely impresses
   — the tree-like columns and the stained glass — which lands just as well without an in-person guide. Over 113,000 reviews

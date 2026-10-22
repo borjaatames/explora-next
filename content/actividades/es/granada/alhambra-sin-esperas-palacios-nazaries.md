@@ -84,6 +84,7 @@ variantes:
 - visita-guiada-alhambra-generalife
 - alhambra-tour-privado
 - alhambra-grupo-reducido
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Lo que distingue a esta visita es la flexibilidad. No es un único producto, son hasta siete modalidades
   distintas bajo el mismo paraguas: tour estándar, grupo reducido, privado, en cinco idiomas e incluso un taller sobre las
   fragancias de Al-Ándalus. Si tienes una necesidad concreta —un idioma poco común, un formato específico, una experiencia

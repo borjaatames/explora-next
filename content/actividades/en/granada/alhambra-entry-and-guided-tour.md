@@ -86,6 +86,7 @@ variantes:
 - alhambra-generalife-guided-tour
 - alhambra-small-group-tour
 - alhambra-guided-tour-with-tickets
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This is the most economical option in the comparison, and not because it cuts corners on what matters:
   it takes you to the three areas that genuinely count — Nasrid Palaces, Alcazaba and Generalife — with an official guide,
   for €50. What it lacks are the extras: no small group, no pickup, no added services. If your priority is to see the Alhambra

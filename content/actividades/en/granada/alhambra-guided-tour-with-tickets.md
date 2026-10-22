@@ -85,6 +85,7 @@ variantes:
 - alhambra-small-group-tour
 - alhambra-private-tour
 - alhambra-generalife-guided-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This is the highest-rated visit in the comparison: 4.9 out of 5, with 95% of Spanish-speaking travellers
   giving it top marks. That isn''t a fluke — it runs as a small group or private, with an official guide and an itinerary
   that splits the Alhambra''s three areas well — but it isn''t free either: at €99 it''s one of the most expensive group options

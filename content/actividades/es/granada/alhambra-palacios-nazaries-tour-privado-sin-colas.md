@@ -51,6 +51,7 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: 'Reserva no reembolsable: no se admiten cancelaciones ni cambios.'
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Su punto fuerte es que el precio es por grupo: si viajas solo o en pareja, es de los tours privados de la Alhambra más asequibles, y el guía puede hacerlo en cinco idiomas. Lo que hay que tener claro antes de reservar es que no se puede cancelar, así que conviene tener las fechas cerradas.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto cuesta?

@@ -162,6 +162,13 @@ export type ActividadFrontmatter = {
 
   // Editorial
   opinionEditorial?: string;
+  /**
+   * Aviso de disponibilidad, cierto y estático (p. ej. «Las entradas de la
+   * Alhambra se agotan con semanas de antelación»). Nunca contadores
+   * inventados. Se muestra sobre la barra de reserva en móvil y bajo el
+   * precio en escritorio.
+   */
+  avisoReserva?: string;
   guiasRelacionadas?: string[];
 
   // Categorización
@@ -578,6 +585,10 @@ function construirListItem(
     variantes: fm.variantes || [],
 
     opinionEditorial: fm.opinionEditorial,
+    avisoReserva:
+      typeof fm.avisoReserva === "string" && fm.avisoReserva.trim()
+        ? fm.avisoReserva.trim()
+        : undefined,
     guiasRelacionadas: fm.guiasRelacionadas || [],
 
     categoria: (fm.categoria || "visitasGuiadas") as CategoriaActividad,

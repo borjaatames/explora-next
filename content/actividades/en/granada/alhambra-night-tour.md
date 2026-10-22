@@ -83,6 +83,7 @@ variantes:
 - alhambra-generalife-guided-tour
 - alhambra-private-tour
 - alhambra-small-group-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'This is the only visit in the comparison that changes the rules of the game: the Alhambra at night. The
   Nasrid Palaces illuminated, away from the daytime crowds and with a completely different atmosphere. With 4.9 out of 5 and
   the «Originals by GetYourGuide» distinction, it''s one of the best-rated experiences, and at €54 the price is reasonable.

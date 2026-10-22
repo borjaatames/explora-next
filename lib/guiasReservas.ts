@@ -90,7 +90,10 @@ export function slugsInline(trozos: TrozoGuia[]): string[] {
 
 const LOCALE: Record<string, string> = { es: "es-ES", en: "en-US", de: "de-DE" };
 
-export function formatearPrecio(a: ActividadListItem, idioma: Idioma): string {
+export function formatearPrecio(
+  a: Pick<ActividadListItem, "precioDesde" | "moneda">,
+  idioma: Idioma
+): string {
   return new Intl.NumberFormat(LOCALE[idioma] ?? "es-ES", {
     style: "currency",
     currency: a.moneda,
@@ -98,7 +101,10 @@ export function formatearPrecio(a: ActividadListItem, idioma: Idioma): string {
   }).format(a.precioDesde);
 }
 
-export function formatearRating(a: ActividadListItem, idioma: Idioma): string | null {
+export function formatearRating(
+  a: Pick<ActividadListItem, "ratingProveedor">,
+  idioma: Idioma
+): string | null {
   if (a.ratingProveedor === undefined) return null;
   return a.ratingProveedor.toLocaleString(LOCALE[idioma] ?? "es-ES", {
     minimumFractionDigits: 1,
@@ -106,7 +112,10 @@ export function formatearRating(a: ActividadListItem, idioma: Idioma): string | 
   });
 }
 
-export function formatearOpiniones(a: ActividadListItem, idioma: Idioma): string | null {
+export function formatearOpiniones(
+  a: Pick<ActividadListItem, "numeroOpiniones">,
+  idioma: Idioma
+): string | null {
   if (!a.numeroOpiniones) return null;
   return a.numeroOpiniones.toLocaleString(LOCALE[idioma] ?? "es-ES");
 }

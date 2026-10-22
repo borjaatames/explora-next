@@ -111,6 +111,7 @@ variantes:
     descripcion: "Private tour for your exclusive group, in any available language. Maximum flexibility."
     precio: 175
 
+avisoReserva: 'In high season, the Alcázar ticket queue tops 2 hours'
 opinionEditorial: |
   Seville's **TOP-SELLING product on GetYourGuide** — 9,797 reviews at 4.8/5 position it as the most booked tour in the city. The success formula is clear: covers the 3 UNESCO monuments (Cathedral + Giralda + Royal Alcázar) in one coordinated package, saves 2-3 hours of queueing in high season thanks to priority access, and the 48h cancellation is more generous than the 24h standard. For visitors with limited time — cruisers, 2-day getaways, weekend trips — it's the option that solves the "how do I see the essentials without losing half a day in queues and reservations" problem.
 

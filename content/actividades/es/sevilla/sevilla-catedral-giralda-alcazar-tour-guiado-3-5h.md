@@ -112,6 +112,7 @@ variantes:
     descripcion: "Tour privado exclusivo en cualquier idioma. Ritmo y enfoque personalizados."
     precio: 165
 
+avisoReserva: 'En temporada alta, la cola de taquilla del Alcázar supera las 2 horas'
 opinionEditorial: |
   La **alternativa relajada y profunda al top vendido t800561** — 3,5 horas para los 3 monumentos UNESCO incluyendo parada de fotos al inicio y 1 hora de tiempo libre en los Jardines del Alcázar al final. 2.085 reseñas con 4,5/5 (Guía 4,7/5) lo respaldan como una opción sólida para quien prefiera ritmo pausado sobre máxima eficiencia.
 

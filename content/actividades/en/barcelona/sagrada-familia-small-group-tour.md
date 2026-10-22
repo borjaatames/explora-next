@@ -78,6 +78,7 @@ variantes:
 - sagrada-familia-guided-tour-with-free-time
 - sagrada-familia-private-guided-tour
 - sagrada-familia-guided-tour
+avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
 opinionEditorial: 'This is the middle ground between the standard guided tour and the private tour: you pay a little more
   in exchange for a small group, where you can hear the guide better and don''t have to jostle for position. The operator
   has a good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is the same as any guided tour:

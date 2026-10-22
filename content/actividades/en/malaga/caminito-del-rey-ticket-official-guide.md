@@ -64,6 +64,7 @@ preguntasFrecuentes:
   respuesta: The official unguided ticket exists but sells out months in advance. This option with an official guide has its own allocation and, on top of that, the guide explains the history of the hydroelectric plant and the geology of the gorge.
 - pregunta: Is it scary?
   respuesta: The walkways are wide, with railings, 100 metres above the river. It is safe and suitable for families with children from 8, but the final suspension bridge is impressive for anyone with vertigo.
+avisoReserva: 'Spring and autumn slots sell out within days'
 opinionEditorial: The cheapest way to do the Caminito with guaranteed entry. If you already have a car or plan to take the train, do not pay for the tour with transport. Book the day that suits you and plan your Málaga trip around that date.
 guiasRelacionadas:
 - caminito-del-rey-how-to-visit

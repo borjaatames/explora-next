@@ -79,6 +79,7 @@ preguntasFrecuentes:
 variantes:
 - barcelona-un-dia-sagrada-familia-park-guell
 - sagrada-familia-visita-guiada-sin-colas
+avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
 opinionEditorial: 'Es el combo limpio: las dos obras maestras de Gaudí —Park Güell y Sagrada Familia— en una visita guiada
   de medio día, con entradas sin colas a las dos y transporte entre ellas. Frente a los tours de día completo, este tiene
   una ventaja clara: el guía **sí entra contigo** a los dos monumentos y explica dentro, no solo te deja en la puerta. Buena

@@ -86,6 +86,7 @@ variantes:
 - alhambra-palacios-nazaries-sin-colas
 - alhambra-tour-privado
 - visita-guiada-alhambra-generalife
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo hace bien. Es un grupo reducido —con la cercanía
   con el guía y el ritmo más cómodo que eso implica— a 65 €, por debajo de lo que cuestan otras opciones de grupo pequeño.
   Si quieres el formato reducido sin llegar al precio de un privado, es de las propuestas más equilibradas.

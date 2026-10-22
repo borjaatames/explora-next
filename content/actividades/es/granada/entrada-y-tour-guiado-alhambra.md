@@ -87,6 +87,7 @@ variantes:
 - visita-guiada-alhambra-generalife
 - alhambra-grupo-reducido
 - alhambra-tour-guiado-con-entradas
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Es la opción más económica del comparador, y no porque recorte en lo importante: te lleva a las tres zonas
   que de verdad importan —Palacios Nazaríes, Alcazaba y Generalife— con guía oficial, por 50 €. Lo que no tiene son los extras:
   ni grupo reducido, ni recogida, ni servicios añadidos. Si tu prioridad es ver la Alhambra bien explicada al mejor precio,

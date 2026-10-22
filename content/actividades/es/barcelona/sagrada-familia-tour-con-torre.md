@@ -82,6 +82,7 @@ variantes:
 - sagrada-familia-visita-guiada-grupo-reducido
 - sagrada-familia-tour-guiado-tiempo-libre
 - entrada-sagrada-familia-audioguia
+avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
 opinionEditorial: 'Es la experiencia que te sube a una de las torres de la basílica, y ese es justo su atractivo: contemplar
   Barcelona desde lo alto del templo de Gaudí. El recorrido guiado está muy bien resuelto —incluye la cripta y el Museo Gaudí,
   con auriculares y narración en directo— y la subida a la torre la haces después, por tu cuenta, en unos 30 minutos.

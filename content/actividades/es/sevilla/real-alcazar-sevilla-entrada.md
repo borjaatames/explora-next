@@ -57,6 +57,7 @@ preguntasFrecuentes:
   respuesta: 'Entre hora y media y dos horas: 45-60 minutos para los palacios y el resto para los jardines. En primavera, cuando los jardines están en flor, merece la pena alargar.'
 - pregunta: ¿Se puede combinar con la Catedral el mismo día?
   respuesta: Sí, están a 100 metros. Lo cómodo es Alcázar a primera hora y Catedral después de comer, o reservar el pack de 3 monumentos con acceso prioritario.
+avisoReserva: 'En temporada alta, la cola de taquilla del Alcázar supera las 2 horas'
 opinionEditorial: El Alcázar es la visita número uno de Sevilla y la cola de taquilla en temporada pasa de la hora. Con entrada por franja entras a tu hora y te ahorras el sol. Reserva con días de antelación en primavera y Semana Santa.
 guiasRelacionadas:
 - alcazar-de-sevilla-como-visitar

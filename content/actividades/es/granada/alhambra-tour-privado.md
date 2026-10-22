@@ -87,6 +87,7 @@ variantes:
 - alhambra-grupo-reducido
 - alhambra-tour-guiado-con-entradas
 - visita-guiada-alhambra-generalife
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Es la opción premium del comparador, y la pregunta clave es sencilla: ¿te compensan 280 € por persona tener
   la Alhambra a tu ritmo? Con un guía en exclusiva te detienes donde quieras, preguntas sin límite y ajustas la visita a lo
   que de verdad te interesa. La nota lo respalda —4,9 sobre 5, de las más altas del catálogo—, pero el precio es el más alto

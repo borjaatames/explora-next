@@ -79,6 +79,7 @@ variantes:
 - sagrada-familia-tour-guiado-tiempo-libre
 - sagrada-familia-tour-privado
 - sagrada-familia-tour-guiado-clasico
+avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
 opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour privado: pagas un poco más a cambio de un grupo
   reducido, donde se oye mejor al guía y no vas peleando por el sitio. El operador tiene buena nota (4,7) y volumen suficiente
   —más de 3.700 reseñas— para fiarte, y el contenido es el mismo que en cualquier guiada: fachadas, interior y escuela.

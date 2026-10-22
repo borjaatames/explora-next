@@ -49,6 +49,7 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
 opinionEditorial: 'Es la opción más cómoda para ver la Alhambra completa: te recogen en el alojamiento, las entradas a los Palacios Nazaríes ya están resueltas y el guía va a vuestro ritmo. Por persona sale bastante más cara que un grupo, pero con 3 o más personas la diferencia se reduce mucho. Reserva con tiempo, porque las entradas nazaríes se agotan.'
 preguntasFrecuentes:
 - pregunta: ¿La visita es privada?

@@ -107,6 +107,7 @@ variantes:
     descripcion: "105 min with official Portuguese-speaking guide. Limited slots — book in advance."
     precio: 39
 
+avisoReserva: 'In high season, the Alcázar ticket queue tops 2 hours'
 opinionEditorial: |
   The **highest-volume guided Royal Alcázar tour on GetYourGuide** — 510 reviews at 4.4/5 make it the most established guided product to visit the oldest royal palace still in use in Europe. The 105 min tour covers the key spaces: Mudéjar Palace of Pedro I (the architectural jewel of the 14th century), Gothic Palace (the Christian part added after the Reconquest), Patio de las Doncellas with its elongated pond, Royal Chambers and Cuarto Real Alto (reserved space where the kings of Spain stay).
 

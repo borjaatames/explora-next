@@ -84,6 +84,7 @@ variantes:
 - alhambra-generalife-guided-tour
 - alhambra-private-tour
 - alhambra-small-group-tour
+avisoReserva: 'Alhambra tickets sell out weeks in advance'
 opinionEditorial: 'What sets this visit apart is its flexibility. It isn''t a single product but up to seven different formats
   under the same umbrella: standard tour, small group, private, in five languages and even a workshop on the fragrances of
   Al-Andalus. If you have a specific need — an uncommon language, a particular format, a slightly different experience — you''ll

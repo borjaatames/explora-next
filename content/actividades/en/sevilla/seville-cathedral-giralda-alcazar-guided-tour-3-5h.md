@@ -112,6 +112,7 @@ variantes:
     descripcion: "Exclusive private tour in any language. Personalized pace and focus."
     precio: 165
 
+avisoReserva: 'In high season, the Alcázar ticket queue tops 2 hours'
 opinionEditorial: |
   The **relaxed and deeper alternative to top-seller t800561** — 3.5 hours for the 3 UNESCO monuments including initial photo stop and 1 hour of free time in the Alcázar Gardens at the end. 2,085 reviews at 4.5/5 (Guide 4.7/5) back it up as a solid option for those preferring leisurely pace over maximum efficiency.
 
