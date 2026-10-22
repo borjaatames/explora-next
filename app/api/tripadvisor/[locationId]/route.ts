@@ -1,14 +1,17 @@
 import { NextResponse } from "next/server";
 import type { ResenaTripadvisor } from "@/lib/tripadvisor";
 
+export const dynamic = "force-dynamic";
+
 // Reseñas reales de Tripadvisor vía su API oficial Terra (no se copian ni se
 // guardan en el repo). La clave va solo en el servidor (TRIPADVISOR_API_KEY,
 // cabecera X-API-Key, nunca en la URL ni en el navegador). Plan «Discover»:
-// 1.000 entidades gratis y luego pago por entidad, máximo 3 reseñas por POI.
-// Por eso la respuesta se cachea 7 días.
+// 1.000 entidades gratis para toda la vida de la cuenta y luego pago por
+// entidad (0,015 $ → 0,009 $), máximo 3 reseñas por POI. Su política de caché
+// no permite guardar reseñas, así que no se cachea nada: cada carga pide a la
+// API (el bloque solo se pide cuando el usuario baja hasta él).
 
 const API = "https://terra.tripadvisor.com/api/locations";
-const UNA_SEMANA = 60 * 60 * 24 * 7;
 const MAX_RESENAS = 3;
 
 type Traduccion = { language?: string; primary?: boolean; value?: string };
@@ -36,8 +39,7 @@ async function pedir(locationId: string, idioma: string, clave: string): Promise
   const url = `${API}/${locationId}/reviews?language=${idioma}&size=${MAX_RESENAS}&version=1`;
   const res = await fetch(url, {
     headers: { accept: "application/json", "X-API-Key": clave },
-    // Next solo cachea respuestas 2xx: los errores no se quedan guardados.
-    next: { revalidate: UNA_SEMANA },
+    cache: "no-store",
   });
   if (!res.ok) {
     // Sin la clave en el log: solo estado y el principio del mensaje de error.
@@ -76,21 +78,14 @@ export async function GET(
     return NextResponse.json({ resenas: [] }, { status: 200 });
   }
 
-  // Si no hay reseñas en el idioma de la página, mejor en inglés que ninguna.
+  // El plan da como mucho 3 reseñas por sitio y el filtro de idioma puede
+  // dejar menos: se completa hasta 3 con las de inglés, sin repetir.
   let resenas = await pedir(locationId, idioma, clave);
-  if (resenas.length === 0 && idioma !== "en") resenas = await pedir(locationId, "en", clave);
+  if (resenas.length < MAX_RESENAS && idioma !== "en") {
+    const vistas = new Set(resenas.map((r) => r.id));
+    const extra = (await pedir(locationId, "en", clave)).filter((r) => !vistas.has(r.id));
+    resenas = [...resenas, ...extra].slice(0, MAX_RESENAS);
+  }
 
-  // Una respuesta vacía (error o sin reseñas) no se cachea: se reintenta en
-  // la siguiente visita en vez de quedarse una semana sin reseñas.
-  return NextResponse.json(
-    { resenas },
-    {
-      headers: {
-        "Cache-Control":
-          resenas.length > 0
-            ? `public, s-maxage=${UNA_SEMANA}, stale-while-revalidate=${UNA_SEMANA}`
-            : "no-store",
-      },
-    }
-  );
+  return NextResponse.json({ resenas }, { headers: { "Cache-Control": "no-store" } });
 }

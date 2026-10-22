@@ -25,6 +25,7 @@ reservasArriba: true
 actividades:
   - tour-a-pie-alicante-imprescindibles
   - tour-tuk-tuk-alicante-castillos-playas
+  - parasailing-alicante-paseo-barco
   - clase-cocina-paella-alicante-mercado
   - flamenco-alicante-tablao-el-mentidero
   - barco-alicante-isla-tabarca-ida-vuelta

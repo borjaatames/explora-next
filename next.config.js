@@ -52,7 +52,14 @@ function obtenerActividadesDespublicadas() {
         const { data } = matter(fs.readFileSync(ruta, "utf8"));
 
         if (data.publicada === false) {
-          resultado[idioma].push({ ciudad: data.ciudad, slug: data.slug });
+          // `reemplazadaPor`: slug de la ficha nueva (misma ciudad e idioma)
+          // que sustituye a una actividad retirada por el proveedor. Así la
+          // URL antigua lleva a la equivalente en vez de al índice.
+          resultado[idioma].push({
+            ciudad: data.ciudad,
+            slug: data.slug,
+            reemplazadaPor: data.reemplazadaPor,
+          });
         }
       }
     }
@@ -317,8 +324,10 @@ const nextConfig = {
         despublicadas[idioma].push({ ciudad, slug });
       }
     }
-    for (const { ciudad, slug } of despublicadas.es) {
-      const destino = tieneActividadesPublicadas("es", ciudad)
+    for (const { ciudad, slug, reemplazadaPor } of despublicadas.es) {
+      const destino = reemplazadaPor
+        ? `/ciudades/${ciudad}/actividades/${reemplazadaPor}`
+        : tieneActividadesPublicadas("es", ciudad)
         ? `/ciudades/${ciudad}/actividades`
         : destinoParaCiudadSinActividad("es", ciudad);
       redirects.push({
@@ -327,8 +336,10 @@ const nextConfig = {
         permanent: true,
       });
     }
-    for (const { ciudad, slug } of despublicadas.en) {
-      const destino = tieneActividadesPublicadas("en", ciudad)
+    for (const { ciudad, slug, reemplazadaPor } of despublicadas.en) {
+      const destino = reemplazadaPor
+        ? `/en/cities/${ciudad}/activities/${reemplazadaPor}`
+        : tieneActividadesPublicadas("en", ciudad)
         ? `/en/cities/${ciudad}/activities`
         : destinoParaCiudadSinActividad("en", ciudad);
       redirects.push({

@@ -13,17 +13,29 @@ type Props = {
 const TEXTOS = {
   es: {
     titulo: "Lo que dicen los viajeros",
-    subtitulo: (p: string) => `Reseñas de ${p} en Tripadvisor`,
+    subtitulo: "Reseñas de",
+    en: "en Tripadvisor",
     leer: "Leer en Tripadvisor",
+    mas: "Más en Tripadvisor",
     locale: "es-ES",
   },
   en: {
     titulo: "What travellers say",
-    subtitulo: (p: string) => `Reviews of ${p} on Tripadvisor`,
+    subtitulo: "Reviews of",
+    en: "on Tripadvisor",
     leer: "Read on Tripadvisor",
+    mas: "More on Tripadvisor",
     locale: "en-GB",
   },
 } as const;
+
+type Gtag = (comando: "event", nombre: string, parametros: Record<string, unknown>) => void;
+
+/** Página del proveedor a partir de la URL de una reseña (ShowUserReviews → Attraction_Review). */
+function urlProveedor(urlResena: string | undefined): string | null {
+  const m = urlResena?.match(/^(https:\/\/[^/]+)\/ShowUserReviews-(g\d+)-(d\d+)-r\d+-(.+)$/);
+  return m ? `${m[1]}/Attraction_Review-${m[2]}-${m[3]}-Reviews-${m[4]}` : null;
+}
 
 /**
  * Últimas reseñas reales del proveedor en Tripadvisor (Content API oficial),
@@ -35,6 +47,17 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
   const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
   const ref = useRef<HTMLElement>(null);
   const [resenas, setResenas] = useState<ResenaTripadvisor[]>([]);
+
+  // Mide la fuga hacia Tripadvisor para compararla con click_reserva.
+  const medirClic = (ubicacion: "resena" | "proveedor" | "mas") => {
+    const gtag = (window as unknown as { gtag?: Gtag }).gtag;
+    if (typeof gtag === "function") {
+      gtag("event", "click_tripadvisor", { location_id: locationId, idioma, ubicacion });
+    }
+  };
+  const paginaProveedor = urlProveedor(resenas[0]?.url);
+  const claseEnlace =
+    "font-semibold text-sky-600 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded";
 
   useEffect(() => {
     const el = ref.current;
@@ -77,7 +100,23 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
           <h2 id="resenas-titulo" className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-1">
             {t.titulo}
           </h2>
-          <p className="text-sm text-slate-500 mb-4">{t.subtitulo(nombreProveedor)}</p>
+          <p className="text-sm text-slate-500 mb-4">
+            {t.subtitulo}{" "}
+            {paginaProveedor ? (
+              <a
+                href={paginaProveedor}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                onClick={() => medirClic("proveedor")}
+                className={claseEnlace}
+              >
+                {nombreProveedor}
+              </a>
+            ) : (
+              nombreProveedor
+            )}{" "}
+            {t.en}
+          </p>
           <ul className="flex flex-col gap-3">
             {resenas.map((r) => (
               <li key={r.id} className="border border-slate-200 rounded-lg p-4">
@@ -103,7 +142,8 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
                     href={r.url}
                     target="_blank"
                     rel="noopener noreferrer nofollow"
-                    className="font-semibold text-sky-600 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
+                    onClick={() => medirClic("resena")}
+                    className={claseEnlace}
                   >
                     {t.leer} →
                   </a>
@@ -111,6 +151,19 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
               </li>
             ))}
           </ul>
+          {paginaProveedor && (
+            <p className="mt-3 text-sm text-right">
+              <a
+                href={paginaProveedor}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                onClick={() => medirClic("mas")}
+                className={claseEnlace}
+              >
+                {t.mas} →
+              </a>
+            </p>
+          )}
         </>
       )}
     </section>
