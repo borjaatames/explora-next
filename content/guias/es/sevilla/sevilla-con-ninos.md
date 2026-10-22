@@ -23,6 +23,7 @@ slugs:
   en: seville-with-kids
   de: sevilla-mit-kindern
 reservasArriba: true
+respuestaCorta: 'Sevilla es **plana y compacta** (del Alcázar a la Plaza de España hay 10 minutos a pie), así que funciona muy bien con niños si sigues una regla: **monumentos por la mañana**, agua o parque por la tarde y todo lo que tenga cola, comprado antes. Con calor, **Isla Mágica** (4-11 años, desde 27 €) o el **Acuario** (17 €).'
 actividades:
   - isla-magica-sevilla-entrada
   - acuario-sevilla-entrada

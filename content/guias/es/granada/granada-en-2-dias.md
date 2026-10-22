@@ -1,6 +1,6 @@
 ---
 titulo: "Granada en 2 días: ruta honesta sin perder lo importante"
-descripcion: "Granada en 2 días con criterio: Alhambra, Albaicín, Sacromonte, centro y Cartuja. Ruta honesta, dónde comer y qué evitar. Sin trampas turísticas."
+descripcion: 'Granada en 2 días: Alhambra (y qué hacer si no quedan entradas), Albaicín, Sacromonte, centro y Cartuja. Horarios, precios, dónde comer y qué evitar.'
 categoria: "granada"
 slug: "granada-en-2-dias"
 fecha: "2026-05-19"

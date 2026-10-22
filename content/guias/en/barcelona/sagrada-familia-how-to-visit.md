@@ -20,6 +20,7 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-guiado-clasico

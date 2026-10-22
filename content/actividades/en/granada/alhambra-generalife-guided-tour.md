@@ -3,6 +3,8 @@ titulo: Guided Tour of the Alhambra and Nasrid Palaces
 slug: alhambra-generalife-guided-tour
 ciudad: granada
 descripcion: A 3-hour guided tour of the Alhambra, the Nasrid Palaces, the Alcazaba and the Generalife with skip-the-line
+metaDescription: 'Tickets to the Nasrid Palaces, Alcazaba and Generalife with an official guide and a reserved time slot. 3 hours. The option when tickets are sold out.'
+metaTitle: 'Alhambra Guided Tour with Tickets Included'
   access and an official guide. Granada's most-booked option.
 slugs:
   en: alhambra-generalife-guided-tour

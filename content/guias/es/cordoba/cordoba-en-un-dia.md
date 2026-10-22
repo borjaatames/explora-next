@@ -20,6 +20,7 @@ slugs:
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
 reservasArriba: true
+respuestaCorta: 'Sí, **Córdoba se ve en un día**: la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos a pie unos de otros. Entra en la **Mezquita a primera hora**, antes del calor y los grupos (tour guiado sin colas desde 32 €). Mejor de abril a junio o en septiembre y octubre; en julio y agosto se rondan los 40 °C.'
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - mezquita-juderia-tour-a-pie

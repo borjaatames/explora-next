@@ -21,6 +21,7 @@ slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
   de: tapas-in-sevilla
+reservasArriba: true
 actividades:
   - sevilla-tapas-tour-triana-cruzando-rio
 ---

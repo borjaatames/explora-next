@@ -22,6 +22,7 @@ slugs:
   en: day-trips-from-bilbao
   de: ausfluege-ab-bilbao
 reservasArriba: true
+respuestaCorta: 'The star day trip is **San Juan de Gaztelugatxe** (45 min): entry is free but needs a **timed reservation**, all year round. Pair it with Bermeo, Mundaka and Gernika on a tour from €45. **San Sebastián** is an hour away and works well as a day trip, on your own or with a tour (from €45).'
 actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
   - san-sebastian-hondarribia-getaria-desde-bilbao

@@ -21,6 +21,7 @@ slugs:
   en: granada-with-kids
   de: granada-mit-kindern
 reservasArriba: true
+respuestaCorta: 'Granada works with kids if you cut back: **part of the Alhambra** (the Generalife, the Alcazaba and two or three rooms of the Nasrid Palaces), the **Science Park** and the Albaicín by day, never at midday in summer. Note that **strollers aren''t allowed in the Nasrid Palaces** (there''s a free cloakroom and baby carriers on loan).'
 actividades:
   - alhambra-entrada-general
   - entrada-jardines-alhambra-generalife

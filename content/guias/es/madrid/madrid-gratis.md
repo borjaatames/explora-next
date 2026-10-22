@@ -21,6 +21,7 @@ slugs:
   es: madrid-gratis
   en: madrid-on-a-budget
   de: madrid-kostenlos
+reservasArriba: true
 actividades:
   - museo-prado-entrada
   - reina-sofia-entrada

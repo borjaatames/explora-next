@@ -19,6 +19,8 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+reservasArriba: true
+respuestaCorta: 'The hike starts at the **La Goleta car park** (GC-600): about **3 km return, 1–1.5 hours** with stops, easy to moderate. The car park is small and fills up: arrive **before 9:00** or late in the afternoon. Without a car, the day tour from Las Palmas to Roque Nublo, Pico de las Nieves and Tejeda starts at €48.'
 actividades:
   - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios

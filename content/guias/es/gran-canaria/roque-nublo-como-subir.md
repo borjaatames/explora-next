@@ -19,6 +19,8 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+reservasArriba: true
+respuestaCorta: 'Se sube desde el **aparcamiento de La Goleta** (GC-600): unos **3 km ida y vuelta, 1-1,5 horas** con paradas, dificultad fácil-moderada. El aparcamiento es pequeño y se llena: llega **antes de las 9:00** o al final de la tarde. Sin coche, la excursión desde Las Palmas al Roque Nublo, el Pico de las Nieves y Tejeda sale desde 48 €.'
 actividades:
   - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios

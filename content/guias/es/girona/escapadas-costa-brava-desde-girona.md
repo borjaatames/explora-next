@@ -20,6 +20,7 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 reservasArriba: true
+respuestaCorta: 'Desde Girona tienes el **Teatro-Museo Dalí de Figueres** a 40 minutos en tren, **Besalú** a 45 en coche y **Cadaqués** a 1 h 15. Sin coche, lo más cómodo es una excursión organizada (Girona, Costa Brava y pueblos medievales, desde 89 €) o un plan en barco, como Roses–Cadaqués por el Cap de Creus (desde 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus

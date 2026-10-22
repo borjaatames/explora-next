@@ -21,6 +21,8 @@ slugs:
   es: serra-tramuntana-soller
   en: serra-tramuntana-soller
   de: serra-de-tramuntana-soller
+reservasArriba: true
+respuestaCorta: 'Ein Tag mit dem Auto reicht für das Wichtigste: **Valldemossa, Deià und Sóller**, dazu die Straße nach **Sa Calobra**, wenn du früh losfährst (ab dem Vormittag ist sie voll). Wenige Kilometer, viele Kurven. Ohne Auto kombinierst du den **Zug nach Sóller** mit dem Boot von Port de Sóller nach Sa Calobra (ab 35 €). Am schönsten von April bis Juni und im September–Oktober.'
 actividades:
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco

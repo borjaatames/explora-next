@@ -20,6 +20,7 @@ slugs:
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
 reservasArriba: true
+respuestaCorta: 'Yes, **Córdoba works in one day**: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are five minutes'' walk from each other. Go into the **Mosque first thing**, before the heat and the groups (skip-the-line guided tour from €32). Best from April to June or in September and October; July and August get close to 40 °C.'
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - mezquita-juderia-tour-a-pie

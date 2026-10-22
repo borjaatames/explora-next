@@ -21,6 +21,7 @@ slugs:
   de: flamenco-barcelona-welches-tablao-waehlen
 tiempo_lectura: 3
 reservasArriba: true
+respuestaCorta: 'Por precio y horarios, **Teatro City Hall** (desde 25 €, cuatro pases al día). Por escenario, **Palau Dalmases** (30 €, palacio del siglo XVII en el Born). Para cenar durante el show, **Tablao de Carmen** (88 € con cena), y para cante y guitarra sin micrófonos en La Rambla, **Tablao Cordobés** (desde 48 €).'
 actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
   - palau-dalmases-flamenco-show-palacio-siglo-xvii

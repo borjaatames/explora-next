@@ -19,6 +19,8 @@ slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
   de: girona-game-of-thrones
+reservasArriba: true
+respuestaCorta: 'Girona played **Braavos and King''s Landing** in season six. The locations (the Cathedral steps, El Call, Sant Pere de Galligants, the houses on the Onyar) are five minutes apart: you can see them on foot in a morning, for free. With a guide, the **small-group tour** (4.9★, from €35) compares each scene with the real spot on an iPad.'
 actividades:
   - girona-juego-de-tronos-tour-grupo-reducido
   - girona-juego-de-tronos-tour-privado

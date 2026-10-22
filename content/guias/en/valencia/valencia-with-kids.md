@@ -20,6 +20,7 @@ slugs:
   en: valencia-with-kids
   de: valencia-mit-kindern
 reservasArriba: true
+respuestaCorta: 'Valencia is **flat, safe and has a city beach**. The two must-dos are the **Oceanogràfic**, Europe''s largest aquarium (from €37), and **Bioparc** (€30); in between, cycle the **Turia Gardens**, nine car-free kilometres. Take the old town in short doses. Best from March to June.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada
