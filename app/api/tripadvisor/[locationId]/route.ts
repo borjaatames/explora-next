@@ -1,33 +1,42 @@
 import { NextResponse } from "next/server";
 import type { ResenaTripadvisor } from "@/lib/tripadvisor";
 
-// Reseñas reales de Tripadvisor vía su Content API oficial (no se copian ni se
+// Reseñas reales de Tripadvisor vía su API oficial Terra (no se copian ni se
 // guardan en el repo). La clave va solo en el servidor (TRIPADVISOR_API_KEY,
-// sin exponer en el navegador). Plan «Discover»: 1.000 entidades gratis y
-// luego 0,015 $/entidad, con un máximo de 3 reseñas por POI. Por eso la
-// respuesta se cachea 7 días: ~18 proveedores × 2 idiomas ≈ 150 llamadas/mes.
+// cabecera X-API-Key, nunca en la URL ni en el navegador). Plan «Discover»:
+// 1.000 entidades gratis y luego pago por entidad, máximo 3 reseñas por POI.
+// Por eso la respuesta se cachea 7 días.
 
-const API = "https://api.content.tripadvisor.com/api/v1/location";
+const API = "https://terra.tripadvisor.com/api/locations";
 const UNA_SEMANA = 60 * 60 * 24 * 7;
 const MAX_RESENAS = 3;
 
+type Traduccion = { language?: string; primary?: boolean; value?: string };
 
 type ResenaApi = {
   id?: number | string;
-  title?: string;
-  text?: string;
+  title?: Traduccion[];
+  text?: Traduccion[];
   rating?: number;
-  published_date?: string;
+  publish_ts?: string;
   url?: string;
-  user?: { username?: string; user_location?: { name?: string } | null };
+  user?: { username?: string; geo?: string | null };
 };
 
+function enIdioma(textos: Traduccion[] | undefined, idioma: string): string {
+  if (!textos?.length) return "";
+  const elegido =
+    textos.find((t) => t.language === idioma && t.value) ??
+    textos.find((t) => t.primary && t.value) ??
+    textos.find((t) => t.value);
+  return elegido?.value?.trim() ?? "";
+}
+
 async function pedir(locationId: string, idioma: string, clave: string): Promise<ResenaTripadvisor[]> {
-  const url = `${API}/${locationId}/reviews?language=${idioma}&key=${encodeURIComponent(clave)}`;
+  const url = `${API}/${locationId}/reviews?language=${idioma}&size=${MAX_RESENAS}&version=1`;
   const res = await fetch(url, {
-    headers: { accept: "application/json", referer: "https://www.exploraspain.com/" },
-    // Solo se cachean las respuestas buenas (ver más abajo); el fetch interno
-    // no guarda errores porque Next solo cachea respuestas 2xx.
+    headers: { accept: "application/json", "X-API-Key": clave },
+    // Next solo cachea respuestas 2xx: los errores no se quedan guardados.
     next: { revalidate: UNA_SEMANA },
   });
   if (!res.ok) {
@@ -39,16 +48,17 @@ async function pedir(locationId: string, idioma: string, clave: string): Promise
   const json = (await res.json()) as { data?: ResenaApi[] };
   if (!json.data?.length) console.warn(`[tripadvisor] ${locationId} (${idioma}) → 0 reseñas`);
   return (json.data ?? [])
-    .filter((r) => r.text && r.url && typeof r.rating === "number")
+    .map((r) => ({ r, texto: enIdioma(r.text, idioma) }))
+    .filter(({ r, texto }) => texto && r.url && typeof r.rating === "number")
     .slice(0, MAX_RESENAS)
-    .map((r) => ({
+    .map(({ r, texto }) => ({
       id: String(r.id ?? r.url),
-      titulo: r.title ?? "",
-      texto: r.text ?? "",
+      titulo: enIdioma(r.title, idioma),
+      texto,
       rating: r.rating ?? 0,
-      fecha: r.published_date ?? "",
+      fecha: r.publish_ts ?? "",
       autor: r.user?.username ?? "Tripadvisor",
-      lugarAutor: r.user?.user_location?.name ?? null,
+      lugarAutor: r.user?.geo ?? null,
       url: r.url ?? "",
     }));
 }
