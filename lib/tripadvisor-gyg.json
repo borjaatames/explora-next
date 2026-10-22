@@ -16,6 +16,10 @@
       "locationId": "1763908",
       "nombre": "Gourmet Madrid Tours"
     },
+    "23477": {
+      "locationId": "17624341",
+      "nombre": "Turisme de Barcelona"
+    },
     "24697": {
       "locationId": "2019554",
       "nombre": "Arenal Diving"
@@ -24,9 +28,17 @@
       "locationId": "3483664",
       "nombre": "Not Just a Tourist"
     },
+    "32264": {
+      "locationId": "190143",
+      "nombre": "Museo Nacional del Prado"
+    },
     "32477": {
       "locationId": "288435",
       "nombre": "Museo Picasso Malaga"
+    },
+    "33381": {
+      "locationId": "243686",
+      "nombre": "Hammam Al Andalus Granada"
     },
     "36431": {
       "locationId": "3304862",
@@ -64,13 +76,25 @@
       "locationId": "28100893",
       "nombre": "GRANADA ONLINE"
     },
+    "50027": {
+      "locationId": "190166",
+      "nombre": "Basilica de la Sagrada Familia"
+    },
     "51524": {
       "locationId": "6982541",
       "nombre": "Volcano Teide Experience"
     },
+    "53791": {
+      "locationId": "190624",
+      "nombre": "Park Güell"
+    },
     "54011": {
       "locationId": "21376006",
       "nombre": "SPECIAL PLANS"
+    },
+    "54571": {
+      "locationId": "17624341",
+      "nombre": "Turisme de Barcelona"
     },
     "56895": {
       "locationId": "6599688",
@@ -87,6 +111,10 @@
     "61664": {
       "locationId": "7365281",
       "nombre": "In Out Barcelona Tours"
+    },
+    "67263": {
+      "locationId": "1725621",
+      "nombre": "Tablao Flamenco Cordobes"
     },
     "67456": {
       "locationId": "4165814",
@@ -132,9 +160,17 @@
       "locationId": "21376006",
       "nombre": "SPECIAL PLANS"
     },
+    "75398": {
+      "locationId": "191078",
+      "nombre": "The Alhambra"
+    },
     "75838": {
       "locationId": "8286949",
       "nombre": "Tirolinas Go (Forestal Park Mallorca)"
+    },
+    "76003": {
+      "locationId": "3822487",
+      "nombre": "Theatre Flamenco Barcelona City Hall"
     },
     "80103": {
       "locationId": "7233188",
@@ -152,13 +188,29 @@
       "locationId": "4165814",
       "nombre": "Naturanda Turismo Ambiental"
     },
+    "92208": {
+      "locationId": "190152",
+      "nombre": "Museo Reina Sofía"
+    },
     "98307": {
       "locationId": "21376006",
       "nombre": "SPECIAL PLANS"
     },
+    "104426": {
+      "locationId": "244037",
+      "nombre": "Catedral de Mallorca"
+    },
     "108229": {
       "locationId": "17812086",
       "nombre": "Andalusia Tour Travel"
+    },
+    "115174": {
+      "locationId": "667082",
+      "nombre": "PortAventura Park"
+    },
+    "115369": {
+      "locationId": "667082",
+      "nombre": "PortAventura Park"
     },
     "117462": {
       "locationId": "13108244",
@@ -167,6 +219,14 @@
     "121704": {
       "locationId": "5828401",
       "nombre": "OWAY Tours"
+    },
+    "131232": {
+      "locationId": "191139",
+      "nombre": "Real Alcazar de Sevilla"
+    },
+    "131913": {
+      "locationId": "191137",
+      "nombre": "Catedral De Sevilla"
     },
     "135267": {
       "locationId": "5828401",
@@ -216,6 +276,10 @@
       "locationId": "1957956",
       "nombre": "Granada a Pie"
     },
+    "165677": {
+      "locationId": "2049358",
+      "nombre": "Creuers Costa Daurada"
+    },
     "168768": {
       "locationId": "191052",
       "nombre": "Casa Batlló"
@@ -223,6 +287,10 @@
     "171177": {
       "locationId": "14802360",
       "nombre": "Lolita's Tours"
+    },
+    "171748": {
+      "locationId": "243693",
+      "nombre": "Generalife"
     },
     "181145": {
       "locationId": "15647595",
@@ -236,9 +304,9 @@
       "locationId": "10713327",
       "nombre": "Tour Galicia"
     },
-    "200740": {
-      "locationId": "16648608",
-      "nombre": "World Experience Madrid"
+    "194657": {
+      "locationId": "796251",
+      "nombre": "Santiago Bernabeu Stadium"
     },
     "200788": {
       "locationId": "16648608",
@@ -256,9 +324,21 @@
       "locationId": "4891932",
       "nombre": "Camello Safari Duna Oasis"
     },
+    "217542": {
+      "locationId": "10199684",
+      "nombre": "Atlantico Excursions"
+    },
+    "221412": {
+      "locationId": "191078",
+      "nombre": "The Alhambra"
+    },
     "244327": {
       "locationId": "33335222",
       "nombre": "Athletic Club Museoa"
+    },
+    "249617": {
+      "locationId": "190152",
+      "nombre": "Museo Nacional Centro de Arte Reina Sofía"
     },
     "254852": {
       "locationId": "14184446",
@@ -284,6 +364,10 @@
       "locationId": "553892",
       "nombre": "Terra Mitica"
     },
+    "292115": {
+      "locationId": "17934852",
+      "nombre": "SEVILLA ÚNICA"
+    },
     "302548": {
       "locationId": "10076102",
       "nombre": "Palacio De Las Duenas"
@@ -296,6 +380,10 @@
       "locationId": "620677",
       "nombre": "Museo del Baile Flamenco"
     },
+    "323238": {
+      "locationId": "243997",
+      "nombre": "Alcazaba"
+    },
     "336556": {
       "locationId": "539294",
       "nombre": "Casa de la Memoria"
@@ -307,6 +395,10 @@
     "351351": {
       "locationId": "6982541",
       "nombre": "Volcano Teide Experience"
+    },
+    "356790": {
+      "locationId": "20007420",
+      "nombre": "The Touring Pandas"
     },
     "362290": {
       "locationId": "2026537",
@@ -340,9 +432,17 @@
       "locationId": "244229",
       "nombre": "Catedral Tarragona"
     },
+    "388624": {
+      "locationId": "10661915",
+      "nombre": "Float Your Boat"
+    },
     "391310": {
       "locationId": "12909720",
       "nombre": "Riyadh Air Metropolitano"
+    },
+    "393261": {
+      "locationId": "14181215",
+      "nombre": "Boramar Catamaranes & Events"
     },
     "394992": {
       "locationId": "21004766",
@@ -352,6 +452,14 @@
       "locationId": "7222515",
       "nombre": "Escola De Vela I Kayak Sant Pol"
     },
+    "396762": {
+      "locationId": "191139",
+      "nombre": "Real Alcázar de Sevilla"
+    },
+    "398185": {
+      "locationId": "539305",
+      "nombre": "Isla Magica"
+    },
     "398519": {
       "locationId": "191052",
       "nombre": "Casa Batlló"
@@ -360,9 +468,45 @@
       "locationId": "6413205",
       "nombre": "Aventura Tour Salou"
     },
+    "400697": {
+      "locationId": "286503",
+      "nombre": "Parque Warner Madrid"
+    },
+    "402103": {
+      "locationId": "244305",
+      "nombre": "Zoo Aquarium de Madrid"
+    },
+    "402104": {
+      "locationId": "244293",
+      "nombre": "Parque De Atracciones"
+    },
+    "402199": {
+      "locationId": "737302",
+      "nombre": "Faunia"
+    },
+    "405115": {
+      "locationId": "2717850",
+      "nombre": "Palau Dalmases"
+    },
+    "407432": {
+      "locationId": "190893",
+      "nombre": "Loro Parque"
+    },
+    "407436": {
+      "locationId": "668504",
+      "nombre": "Siam Park"
+    },
+    "407438": {
+      "locationId": "190893",
+      "nombre": "Loro Parque"
+    },
     "408853": {
       "locationId": "15631566",
       "nombre": "Fun And Tickets Madrid"
+    },
+    "408947": {
+      "locationId": "27686887",
+      "nombre": "Teatro Flamenco Sevilla"
     },
     "409545": {
       "locationId": "15631566",
@@ -384,6 +528,14 @@
       "locationId": "23458346",
       "nombre": "Cruise Cormoran"
     },
+    "413124": {
+      "locationId": "313458",
+      "nombre": "Real Sitio de San Lorenzo de El Escorial"
+    },
+    "413877": {
+      "locationId": "621223",
+      "nombre": "Oceanogràfic València"
+    },
     "414027": {
       "locationId": "14930939",
       "nombre": "Buendia Tours"
@@ -395,6 +547,10 @@
     "414549": {
       "locationId": "21004766",
       "nombre": "Optimus Tours Santiago de Compostela"
+    },
+    "415156": {
+      "locationId": "1086307",
+      "nombre": "Aquopolis Villanueva de la Canada"
     },
     "415198": {
       "locationId": "23441028",
@@ -408,13 +564,17 @@
       "locationId": "4355530",
       "nombre": "Guadaluxe"
     },
-    "419045": {
-      "locationId": "27117510",
-      "nombre": "Golden Tour Guide, Madrid"
+    "428189": {
+      "locationId": "191048",
+      "nombre": "Catedral de Barcelona"
     },
     "430098": {
       "locationId": "3807326",
       "nombre": "Lineas Blue Bird"
+    },
+    "433051": {
+      "locationId": "13148097",
+      "nombre": "Valencia & Go"
     },
     "434998": {
       "locationId": "17671000",
@@ -439,6 +599,14 @@
     "443060": {
       "locationId": "25191542",
       "nombre": "Gastronomía Bilbao"
+    },
+    "446333": {
+      "locationId": "546523",
+      "nombre": "Cueva de Nerja"
+    },
+    "447702": {
+      "locationId": "553841",
+      "nombre": "Cathedral De Santiago de Compostela"
     },
     "447714": {
       "locationId": "2069946",
@@ -480,6 +648,10 @@
       "locationId": "28716941",
       "nombre": "Nofrills Excursions"
     },
+    "488113": {
+      "locationId": "15224311",
+      "nombre": "Tixalia"
+    },
     "490527": {
       "locationId": "25245917",
       "nombre": "Malaga South Experiences"
@@ -491,6 +663,10 @@
     "497524": {
       "locationId": "2475829",
       "nombre": "Bodegas Fundador"
+    },
+    "517606": {
+      "locationId": "191078",
+      "nombre": "The Alhambra"
     },
     "518384": {
       "locationId": "10069639",
@@ -504,9 +680,17 @@
       "locationId": "6865164",
       "nombre": "Albarco Com Calidad Nautica"
     },
+    "569659": {
+      "locationId": "2204069",
+      "nombre": "El Caminito del Rey"
+    },
     "591591": {
       "locationId": "27117510",
       "nombre": "Golden Tour Guide, Madrid"
+    },
+    "603483": {
+      "locationId": "1049922",
+      "nombre": "Flipper Uno"
     },
     "608697": {
       "locationId": "28716941",
@@ -516,10 +700,6 @@
       "locationId": "18496715",
       "nombre": "Tours For Today Barcelona"
     },
-    "663776": {
-      "locationId": "28198106",
-      "nombre": "Crown Tours - Seville"
-    },
     "672163": {
       "locationId": "6865164",
       "nombre": "Albarco Com Calidad Nautica"
@@ -527,6 +707,10 @@
     "682388": {
       "locationId": "191052",
       "nombre": "Casa Batlló"
+    },
+    "696656": {
+      "locationId": "7379978",
+      "nombre": "Olhops Craft Beer House"
     },
     "700918": {
       "locationId": "271009",
@@ -552,6 +736,14 @@
       "locationId": "18496715",
       "nombre": "Tours For Today Barcelona"
     },
+    "826796": {
+      "locationId": "190624",
+      "nombre": "Park Güell"
+    },
+    "828748": {
+      "locationId": "1064281",
+      "nombre": "Bioparc Valencia"
+    },
     "840866": {
       "locationId": "33265046",
       "nombre": "Cueva La Faraona"
@@ -564,13 +756,49 @@
       "locationId": "32813188",
       "nombre": "Teatro Flamenco Granada"
     },
+    "933622": {
+      "locationId": "3519225",
+      "nombre": "Madrid Segway"
+    },
     "949030": {
       "locationId": "18496715",
       "nombre": "Tours For Today Barcelona"
     },
+    "953643": {
+      "locationId": "244183",
+      "nombre": "Universidad De Salamanca"
+    },
+    "956910": {
+      "locationId": "198867",
+      "nombre": "Museo Nacional Thyssen-Bornemisza"
+    },
+    "961733": {
+      "locationId": "16856571",
+      "nombre": "Granada Cathedral"
+    },
+    "962086": {
+      "locationId": "191129",
+      "nombre": "Royal Chapel of Granada"
+    },
+    "1014366": {
+      "locationId": "191137",
+      "nombre": "Catedral de Sevilla"
+    },
+    "1026094": {
+      "locationId": "15224311",
+      "nombre": "Tixalia"
+    },
+    "1026111": {
+      "locationId": "15224311",
+      "nombre": "Tixalia"
+    },
     "1047369": {
       "locationId": "33050458",
       "nombre": "Tablao Flamenco El Mentidero"
+    },
+    "1052498": {
+      "locationId": "254665",
+      "nombre": "Dali Theatre-Museum"
     },
     "1075188": {
       "locationId": "6717565",
@@ -592,9 +820,25 @@
       "locationId": "539276",
       "nombre": "Tablao Flamenco El Arenal"
     },
+    "1314627": {
+      "locationId": "190143",
+      "nombre": "Museo Nacional del Prado"
+    },
     "1320729": {
       "locationId": "3267125",
       "nombre": "Chilli Pepper Charters"
+    },
+    "1381568": {
+      "locationId": "190629",
+      "nombre": "Casa Milà - La Pedrera"
+    },
+    "1381569": {
+      "locationId": "190629",
+      "nombre": "Casa Milà - La Pedrera"
+    },
+    "1381571": {
+      "locationId": "190629",
+      "nombre": "Casa Milà - La Pedrera"
     }
   }
 }
