@@ -104,16 +104,50 @@ export function obtenerActividadesParaGuia(
 // =============================================================================
 // Actividades parecidas al pie de una ficha
 // -----------------------------------------------------------------------------
-// Para no perder al lector que no se convence con la ficha: otras fichas
-// propias de la misma ciudad, priorizando las que comparten atracción y luego
-// categoría; a igualdad, las que tienen más opiniones.
+// Para no perder al lector que no se convence con la ficha (mejor una comisión
+// pequeña que ninguna), pero solo con fichas MUY parecidas: tienen que
+// compartir tema: una palabra del slug/título o dos de las keywords (sin el
+// nombre de la ciudad ni genéricas como "tour" o "entrada"). Orden: palabras
+// del título en común, luego de keywords, después atracción compartida, misma categoría y, a
+// igualdad, más opiniones. Primero solo las casi iguales (misma atracción y
+// tema); si no hay ninguna, actividades parecidas de la ciudad (misma
+// categoría o atracción) para no dejar el hueco.
 // =============================================================================
 
 type FichaReferencia = {
   slug: string;
+  titulo: string;
   categoria: string;
+  keywords?: string[];
   atraccionesRelacionadas?: string[];
 };
+
+// Palabras que aparecen en casi todas las fichas y no dicen de qué va.
+const GENERICAS_FICHA = new Set([
+  "tour", "tours", "visita", "visitas", "guiada", "guiado", "guided", "visit",
+  "entrada", "entradas", "ticket", "tickets", "desde", "from", "with", "incluida",
+  "incluido", "incluidas", "included", "horas", "hours", "hour", "experiencia",
+  "experience", "excursion", "trip", "dia", "day", "completo", "full", "half",
+  "medio", "grupo", "group", "small", "reducido", "opcion", "option",
+  "centro", "historico", "historic", "noche", "night", "nocturna", "nocturno",
+  "ciudad", "city", "mejor", "best", "pase", "pass",
+]);
+
+function tokensTema(texto: string, ciudad: string): Set<string> {
+  const ciudadTokens = tokensDe(ciudad.replace(/-/g, " "));
+  const tokens = tokensDe(texto);
+  return new Set(
+    Array.from(tokens).filter((t) => !GENERICAS_FICHA.has(t) && !ciudadTokens.has(t))
+  );
+}
+
+function textoTitulo(a: FichaReferencia): string {
+  return [a.slug.replace(/-/g, " "), a.titulo].join(" ");
+}
+
+function comunes(a: Set<string>, b: Set<string>): number {
+  return Array.from(a).filter((t) => b.has(t)).length;
+}
 
 export function obtenerActividadesParecidas(
   idioma: Idioma,
@@ -121,19 +155,61 @@ export function obtenerActividadesParecidas(
   actual: FichaReferencia,
   limite = 4
 ): ActividadListItem[] {
-  const atracciones = new Set(actual.atraccionesRelacionadas ?? []);
-  const puntos = (a: ActividadListItem): number => {
-    const compartidas = (a.atraccionesRelacionadas ?? []).filter((x) =>
-      atracciones.has(x)
-    ).length;
-    return compartidas * 2 + (a.categoria === actual.categoria ? 1 : 0);
-  };
-  return obtenerListaActividadesPorCiudad(idioma, ciudad)
+  const tituloActual = tokensTema(textoTitulo(actual), ciudad);
+  const keywordsActual = tokensTema((actual.keywords ?? []).join(" "), ciudad);
+  // "otros-<ciudad>" es un cajón de sastre: compartirlo no hace parecidas dos fichas.
+  const atraccionReal = (x: string) => !x.startsWith("otros");
+  const atracciones = new Set((actual.atraccionesRelacionadas ?? []).filter(atraccionReal));
+
+  const puntuadas = obtenerListaActividadesPorCiudad(idioma, ciudad)
     .filter((a) => a.slug !== actual.slug)
-    .sort(
-      (a, b) =>
-        puntos(b) - puntos(a) ||
-        (b.numeroOpiniones ?? 0) - (a.numeroOpiniones ?? 0)
-    )
-    .slice(0, limite);
+    .map((a) => {
+      const titulo = tokensTema(textoTitulo(a), ciudad);
+      const keywords = tokensTema((a.keywords ?? []).join(" "), ciudad);
+      return {
+        a,
+        // El título manda: es lo que de verdad dice qué es la actividad.
+        temaTitulo: comunes(titulo, tituloActual),
+        temaKeywords: comunes(new Set([...titulo, ...keywords]), keywordsActual),
+        atraccion: (a.atraccionesRelacionadas ?? []).filter((x) => atracciones.has(x)).length,
+        categoria: a.categoria === actual.categoria ? 1 : 0,
+      };
+    });
+
+  const ordenar = (x: (typeof puntuadas)[number], y: (typeof puntuadas)[number]) =>
+    y.temaTitulo - x.temaTitulo ||
+    y.temaKeywords - x.temaKeywords ||
+    y.atraccion - x.atraccion ||
+    y.categoria - x.categoria ||
+    (y.a.numeroOpiniones ?? 0) - (x.a.numeroOpiniones ?? 0);
+
+  // 1) Casi iguales: misma atracción y tema en el título, y además misma
+  //    categoría o dos palabras de título en común (si la ficha no declara
+  //    atracción, dos palabras de título). Si las hay, solo se muestran esas.
+  const casiIguales = puntuadas
+    .filter((p) => {
+      const mismoTipo = p.categoria > 0 || p.temaTitulo > 1;
+      return atracciones.size > 0
+        ? p.atraccion > 0 && p.temaTitulo > 0 && mismoTipo
+        : p.temaTitulo > 1;
+    })
+    .sort(ordenar);
+
+  // 2) Si no hay ninguna casi igual, mejor actividades parecidas de la ciudad
+  //    que un hueco: misma categoría (o misma atracción), ordenadas por
+  //    afinidad y opiniones.
+  const parecidasCiudad = puntuadas
+    .filter((p) => p.categoria > 0 || p.atraccion > 0)
+    .sort(ordenar);
+
+  // 3) Último recurso: las mejor valoradas de la ciudad.
+  const elegidas =
+    casiIguales.length > 0
+      ? casiIguales
+      : parecidasCiudad.length > 0
+        ? parecidasCiudad
+        : [...puntuadas].sort(
+            (x, y) => (y.a.numeroOpiniones ?? 0) - (x.a.numeroOpiniones ?? 0)
+          );
+  return elegidas.slice(0, limite).map((p) => p.a);
 }
