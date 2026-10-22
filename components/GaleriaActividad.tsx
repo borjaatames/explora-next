@@ -133,7 +133,7 @@ export default function GaleriaActividad({
         <div
           onScroll={alDeslizar}
           className={
-            "flex overflow-x-auto snap-x snap-mandatory scrollbar-hide rounded-xl md:grid md:gap-2 md:overflow-hidden md:snap-none md:aspect-[5/2] " +
+            "flex overflow-x-auto snap-x snap-mandatory [scrollbar-width:none] [&::-webkit-scrollbar]:hidden rounded-xl md:grid md:gap-2 md:overflow-hidden md:snap-none md:aspect-[5/2] " +
             (haySecundarias ? "md:grid-cols-3" : "md:grid-cols-1")
           }
         >
