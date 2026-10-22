@@ -238,7 +238,7 @@ Im Sommer öffnen echte lokale Lokale zwischen 16:00 und 20:00 Uhr **schlicht ni
 - **Calle Pureza, Pagés del Corro (Triana)**: ehrliche Tavernen.
 - **Oberes Macarena**: Markt und authentische Bars, fernab vom Tourismus.
 
-Für eine durchdachte Tapas-Route Bar für Bar haben wir einen [eigenen Guide zu Tapas in Sevilla](/guias/sevilla/tapas-in-sevilla) mit konkreten Orten in Centro, Triana und Arenal — was man bestellt, wann man geht und was man meiden sollte.
+Für eine durchdachte Tapas-Route Bar für Bar haben wir einen [eigenen Guide zu Tapas in Sevilla](/de/guides/sevilla/tapas-in-sevilla) mit konkreten Orten in Centro, Triana und Arenal — was man bestellt, wann man geht und was man meiden sollte.
 
 ### Touristenfallen, die man vermeiden sollte
 

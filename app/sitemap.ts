@@ -4,6 +4,7 @@ import { obtenerListaCiudades } from "@/lib/ciudades";
 import {
   obtenerListaActividades,
   obtenerCiudadesConActividades,
+  urlListadoActividadesSiExiste,
 } from "@/lib/actividades";
 import { IDIOMAS_ACTIVOS, IDIOMA_DEFECTO } from "@/lib/i18n/config";
 import {
@@ -87,7 +88,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: ahora,
       changeFrequency: "weekly",
       priority: 1,
-      alternates: alternatesPara((l) => `${prefijoIdioma(l)}/`),
+      alternates: alternatesPara((l) => prefijoIdioma(l) || "/"),
     });
 
     // Índice de guías
@@ -211,7 +212,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: ahora,
         changeFrequency: "weekly",
         priority: 0.8,
-        alternates: alternatesPara((l) => urlActividadesDeCiudad(l, ciudad)),
+        alternates: alternatesPara((l) => urlListadoActividadesSiExiste(l, ciudad)),
       });
     }
   }

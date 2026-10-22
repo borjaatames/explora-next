@@ -6,7 +6,11 @@ import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 
 import { IDIOMAS_ACTIVOS } from "./i18n/config";
-import { urlActividad } from "./i18n/utils";
+import {
+  urlActividad,
+  urlActividadesDeCiudad,
+  urlActividadesDeCiudadPorCategoria,
+} from "./i18n/utils";
 import type { Idioma } from "./i18n/types";
 import {
   type ProveedorActividad,
@@ -746,4 +750,33 @@ export function existeActividad(
 ): boolean {
   const fullPath = path.join(directorioCiudad(idioma, ciudad), `${slug}.md`);
   return fs.existsSync(fullPath);
+}
+
+
+/**
+ * URL del listado de actividades de una ciudad, solo si ese idioma tiene
+ * actividades publicadas allí. Para hreflang y sitemap: evita declarar
+ * alternativas que darían 404 (p. ej. `/de/cities/granada/activities`).
+ */
+export function urlListadoActividadesSiExiste(
+  idioma: Idioma,
+  ciudad: string
+): string | null {
+  return obtenerListaActividadesPorCiudad(idioma, ciudad).length > 0
+    ? urlActividadesDeCiudad(idioma, ciudad)
+    : null;
+}
+
+/** Igual que `urlListadoActividadesSiExiste`, para una categoría (slug de URL). */
+export function urlCategoriaActividadesSiExiste(
+  idioma: Idioma,
+  ciudad: string,
+  categoriaUrlSlug: string
+): string | null {
+  const categoria = categoriaDesdeUrl(categoriaUrlSlug);
+  if (!categoria) return null;
+  return obtenerActividadesDeCiudadPorCategoria(idioma, ciudad, categoria)
+    .length > 0
+    ? urlActividadesDeCiudadPorCategoria(idioma, ciudad, categoriaUrlSlug)
+    : null;
 }

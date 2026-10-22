@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     "Actividades, tours y guías de viaje por España elegidos por expertos locales: Madrid, Barcelona, Sevilla, Granada y más. Cancelación gratuita y partners de confianza.",
   alternates: {
     canonical: `${SITE_URL}/`,
-    languages: hreflangAlternates((l) => `${prefijoIdioma(l)}/`),
+    languages: hreflangAlternates((l) => prefijoIdioma(l) || "/"),
   },
   openGraph: {
     type: "website",

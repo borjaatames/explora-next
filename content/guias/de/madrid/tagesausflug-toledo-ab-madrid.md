@@ -185,7 +185,7 @@ Empfohlene Viertel: die **Altstadt** (Paradores, Boutique-Hotels in mittelalterl
 
 Wenn dir Toledo gefallen hat und du wieder einen freien Tag hast, weitere Optionen in einer Stunde Entfernung:
 
-- **El Escorial und Valle de Cuelgamuros**: ausführlich behandelt in [Madrid in 3 Tagen](/guias/madrid/madrid-in-3-tagen). Philipp II. und das imperiale Spanien.
+- **El Escorial und Valle de Cuelgamuros**: ausführlich behandelt in [Madrid in 3 Tagen](/de/guides/madrid/madrid-in-3-tagen). Philipp II. und das imperiale Spanien.
 - **Segovia**: das römische Aquädukt, der märchenhafte Alcázar und ein legendäres Spanferkel. Perfekte Kombination aus Geschichte und Gastronomie.
 - **Aranjuez**: königlicher Palast der Bourbonen, Gärten im Stil von Versailles auf Spanisch. Besonders schön im Frühling.
 - **Ávila**: unversehrte mittelalterliche Stadtmauer, Santa Teresa, solide kastilische Küche. Kühler.

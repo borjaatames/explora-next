@@ -7,15 +7,16 @@ import {
   urlAvisoLegal,
   urlPrivacidad,
   urlCookies,
-  urlActividadesDeCiudad,
+  urlCiudad,
 } from "@/lib/i18n/utils";
+import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
  * Footer del sitio. Estructura:
  *  1. Fila de promesas (cancelación gratuita / confirmación inmediata / soporte 24 h).
  *  2. Tres columnas (Marca + email · Destinos top · Enlaces ExploraSpain).
- *  3. Bloque "Pago seguro" con sellos de Viator + GetYourGuide y logos de tarjetas.
+ *  3. Bloque "Pago seguro" con sello de GetYourGuide y logos de tarjetas.
  *     Los chips de pago son placeholders de texto estilizado — sustituir por
  *     SVGs oficiales (Visa/MC/AmEx/PayPal/Apple Pay/Google Pay) cuando estén
  *     en /public/payment/ para evitar problemas de marca.
@@ -48,7 +49,7 @@ const DICT = {
     reservaPartners: "Reservas con partners oficiales",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "En las experiencias de reserva directa, el pago se procesa de forma segura con Stripe y la atención al cliente la presta ExploraSpain. En el resto, actuamos como afiliado oficial de Viator (Tripadvisor) y GetYourGuide, donde se completa la reserva con cancelación gratuita.",
+      "En las experiencias de reserva directa, el pago se procesa de forma segura con Stripe y la atención al cliente la presta ExploraSpain. En el resto, actuamos como afiliado oficial de GetYourGuide, donde se completa la reserva con cancelación gratuita.",
   },
   en: {
     tagline:
@@ -74,7 +75,7 @@ const DICT = {
     reservaPartners: "Bookings with official partners",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "For direct-booking experiences, payment is securely processed by Stripe and customer support is provided by ExploraSpain. For the rest, we act as an official affiliate of Viator (Tripadvisor) and GetYourGuide, where the booking is completed with free cancellation.",
+      "For direct-booking experiences, payment is securely processed by Stripe and customer support is provided by ExploraSpain. For the rest, we act as an official affiliate of GetYourGuide, where the booking is completed with free cancellation.",
   },
   de: {
     tagline:
@@ -100,7 +101,7 @@ const DICT = {
     reservaPartners: "Buchungen mit offiziellen Partnern",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "Bei Erlebnissen mit Direktbuchung wird die Zahlung sicher über Stripe abgewickelt und der Kundenservice von ExploraSpain übernommen. Bei den übrigen Angeboten agieren wir als offizieller Partner von Viator (Tripadvisor) und GetYourGuide, wo die Buchung mit kostenloser Stornierung abgeschlossen wird.",
+      "Bei Erlebnissen mit Direktbuchung wird die Zahlung sicher über Stripe abgewickelt und der Kundenservice von ExploraSpain übernommen. Bei den übrigen Angeboten agieren wir als offizieller Partner von GetYourGuide, wo die Buchung mit kostenloser Stornierung abgeschlossen wird.",
   },
 } as const;
 
@@ -205,7 +206,10 @@ export default function Footer({ idioma }: Props) {
               {CIUDADES_TOP.map((c) => (
                 <li key={c.slug}>
                   <Link
-                    href={urlActividadesDeCiudad(idioma, c.slug)}
+                    href={
+                      urlListadoActividadesSiExiste(idioma, c.slug) ??
+                      urlCiudad(idioma, c.slug)
+                    }
                     prefetch={false}
                     className="text-slate-300 hover:text-white transition-colors"
                   >

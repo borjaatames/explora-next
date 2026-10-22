@@ -63,7 +63,17 @@ export function slugParejaActividad(
     `${slugActual}.md`
   );
   const slugs = leerSlugsDelFrontmatter(fullPath);
-  return slugs?.[idiomaDestino] ?? null;
+  const slugDestino = slugs?.[idiomaDestino];
+  if (!slugDestino) return null;
+  // El frontmatter puede declarar una pareja que aún no está escrita:
+  // sin archivo destino, no hay pareja (evita hreflang y enlaces 404).
+  const destino = path.join(
+    actividadesRoot,
+    idiomaDestino,
+    ciudad,
+    `${slugDestino}.md`
+  );
+  return fs.existsSync(destino) ? slugDestino : null;
 }
 
 /**
@@ -84,7 +94,15 @@ export function slugParejaGuia(
     `${slugActual}.md`
   );
   const slugs = leerSlugsDelFrontmatter(fullPath);
-  return slugs?.[idiomaDestino] ?? null;
+  const slugDestino = slugs?.[idiomaDestino];
+  if (!slugDestino) return null;
+  const destino = path.join(
+    guiasRoot,
+    idiomaDestino,
+    categoria,
+    `${slugDestino}.md`
+  );
+  return fs.existsSync(destino) ? slugDestino : null;
 }
 
 /**

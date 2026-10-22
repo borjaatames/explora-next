@@ -34,7 +34,7 @@ actividades:
 
 Ein Tag in Sevilla ab Madrid mit dem AVE ist **absolut machbar** und liefert, gut geplant, ein rundes Erlebnis. Hin und zurück am selben Tag, 5-6 Stunden in der Stadt, die vier Highlights abgedeckt. Der Trick liegt darin, **darauf zu verzichten, alles zu sehen, und stattdessen gut auszuwählen**.
 
-Dieser Guide ist für alle, die einen Tagesausflug optimal nutzen wollen. Er ist nicht die "verkürzte" Version des [Guides zu Sevilla in 3 Tagen](/guias/sevilla/sevilla-in-3-tagen) — es ist etwas anderes: ein Express-Plan mit eigenen Prioritäten, gemacht für alle, die 8-10 reale Stunden in Sevilla haben und mit dem Gefühl abreisen wollen, sie gut genutzt zu haben.
+Dieser Guide ist für alle, die einen Tagesausflug optimal nutzen wollen. Er ist nicht die "verkürzte" Version des [Guides zu Sevilla in 3 Tagen](/de/guides/sevilla/sevilla-in-3-tagen) — es ist etwas anderes: ein Express-Plan mit eigenen Prioritäten, gemacht für alle, die 8-10 reale Stunden in Sevilla haben und mit dem Gefühl abreisen wollen, sie gut genutzt zu haben.
 
 ## Warum Sevilla an einem Tag funktioniert
 
@@ -96,7 +96,7 @@ Das deckt **die vier Highlights ab, die du selbst wählen würdest** (Alcázar, 
 
 > **⭐ Tipp:** Wenn du es eilig hast, lass den Cuarto Real Alto weg. Das sind 25 zusätzliche Minuten und 5,50 € mehr für einen teilweisen geführten Besuch, der sich an einem eng getakteten Tag nicht lohnt.
 
-Wenn du dich vor dem Besuch tiefer einlesen willst, haben wir einen [vollständigen Guide zur Besichtigung des Alcázar von Sevilla](/guias/sevilla/alcazar-von-sevilla-besichtigen).
+Wenn du dich vor dem Besuch tiefer einlesen willst, haben wir einen [vollständigen Guide zur Besichtigung des Alcázar von Sevilla](/de/guides/sevilla/alcazar-von-sevilla-besichtigen).
 
 ### 2. Kathedrale von Sevilla und Giralda (12:30-14:00 Uhr)
 
@@ -214,4 +214,4 @@ Wenn du den letzten AVE (etwa 21:30-21:45 Uhr) verpasst, sind das deine Optionen
 
 Sevilla an einem Tag ab Madrid funktioniert, wenn du darauf verzichtest, alles zu sehen, und dich für die vier großen Highlights entscheidest (Alcázar + Kathedrale + Plaza de España + Triana). Mit dem ersten AVE losfahren, außerhalb der touristischen Zonen essen und mit Zeitpuffer zurückkehren — das sind die drei Regeln, die ein gutes Erlebnis von einem enttäuschenden trennen.
 
-Wenn dir Sevilla nach diesem Tag im Kopf bleibt und du zurückkehren willst — und das wirst du —, schau dir unseren Guide zu [Sevilla in 3 Tagen](/guias/sevilla/sevilla-in-3-tagen) für die vollständige Version an.
+Wenn dir Sevilla nach diesem Tag im Kopf bleibt und du zurückkehren willst — und das wirst du —, schau dir unseren Guide zu [Sevilla in 3 Tagen](/de/guides/sevilla/sevilla-in-3-tagen) für die vollständige Version an.

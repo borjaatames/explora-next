@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { obtenerCiudad } from "@/lib/ciudades";
@@ -208,14 +209,16 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
         </div>
       </section>
 
-      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link
-          href={urlActividadesDeCiudad(lang, params.ciudad)}
-          className="text-sky-600 hover:text-sky-700 font-semibold"
-        >
-          {strings.volver}
-        </Link>
-      </div>
+      {urlListadoActividadesSiExiste(lang, params.ciudad) ? (
+        <div className="max-w-3xl mx-auto px-4 py-12 text-center">
+          <Link
+            href={urlActividadesDeCiudad(lang, params.ciudad)}
+            className="text-sky-600 hover:text-sky-700 font-semibold"
+          >
+            {strings.volver}
+          </Link>
+        </div>
+      ) : null}
     </main>
   );
 }

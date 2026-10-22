@@ -328,6 +328,6 @@ Drei Viertel machen Sinn. Der Rest nicht.
 
 Sevilla mit Kindern funktioniert, wenn du darauf verzichtest, das Sevilla der Erwachsenen zu machen: **ein Vormittag Monument, ein Nachmittag Wasser oder Park, und dosiere es.** Wenn du mit der Lonely-Planet-Liste ankommst, wirst du die Kinder und dich selbst erschöpfen. Wenn du priorisierst, wie ich es beschrieben habe, kehrst du mit Kindern zurück, die darum bitten, wiederzukommen.
 
-Wenn du drei Tage oder mehr bleibst, ergänze diesen Guide mit dem [vollständigen Plan für Sevilla in 3 Tagen](/guias/sevilla/sevilla-in-3-tagen), um Bars, Aussichtspunkte und Viertel hinzuzufügen, die hier keinen Platz finden.
+Wenn du drei Tage oder mehr bleibst, ergänze diesen Guide mit dem [vollständigen Plan für Sevilla in 3 Tagen](/de/guides/sevilla/sevilla-in-3-tagen), um Bars, Aussichtspunkte und Viertel hinzuzufügen, die hier keinen Platz finden.
 
 Und wenn ihr als Familie in andere Städte reist, decken Ausflüge mit Kindern in Granada und Barcelona — die kindgerecht aufbereitete Alhambra, den Parque de las Ciencias, CosmoCaixa und den Tibidabo — dieselbe Philosophie ab: Pläne, die mit den Kleinen funktionieren, ohne das Programm der Erwachsenen zu erzwingen.

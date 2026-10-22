@@ -74,7 +74,7 @@ Der Prado ist eines der **fünf besten Museen der Welt**. Europäische Malerei v
 
 ***Der Garten der Lüste* von Hieronymus Bosch.** Drei Tafeln mit einem Universum mittelalterlicher Kreaturen, Paradies und Hölle. Hier allein kannst du 30 Minuten verbringen.
 
-**El Greco** (Toledo). Wenn du den [Tagesausflug nach Toledo](/guias/madrid/tagesausflug-toledo-ab-madrid) machst, schau vorher im El-Greco-Saal des Prado vorbei. So verstehst du besser, was dich dort erwartet.
+**El Greco** (Toledo). Wenn du den [Tagesausflug nach Toledo](/de/guides/madrid/tagesausflug-toledo-ab-madrid) machst, schau vorher im El-Greco-Saal des Prado vorbei. So verstehst du besser, was dich dort erwartet.
 
 ### Wie viel Zeit einplanen
 
@@ -86,7 +86,7 @@ Mindestens 2 Stunden für das Wichtigste. Angemessen sind 3–4 Stunden für ein
 - Ermäßigt (über 65, Jugendausweis, kinderreiche Familien): 7,50 €
 - Kostenlos: Montag–Samstag 18:00–20:00 Uhr, Sonn- und Feiertage 17:00–19:00 Uhr
 
-> **⭐ Tipp:** Zahl die 15 € und komm um 10:00 Uhr. Die kostenlose Stunde ist überfüllt, und man genießt es nicht. Wir erklären das ausführlich in [Madrid kostenlos](/guias/madrid/madrid-kostenlos).
+> **⭐ Tipp:** Zahl die 15 € und komm um 10:00 Uhr. Die kostenlose Stunde ist überfüllt, und man genießt es nicht. Wir erklären das ausführlich in [Madrid kostenlos](/de/guides/madrid/madrid-kostenlos).
 
 ### Für wen es ist
 

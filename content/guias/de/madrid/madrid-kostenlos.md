@@ -65,7 +65,7 @@ Hier liegt das Geheimnis, das viele Touristen nicht gut nutzen:
 | Reina Sofía | Montag und Mittwoch–Samstag 19:00–21:00 Uhr / Sonntags 12:30–14:30 Uhr |
 | Thyssen-Bornemisza | Montags 12:00–16:00 Uhr (Dauerausstellung, Sponsoring durch MasterCard) |
 
-> **⚠️ Hinweis:** Auch wenn du 15–20 € sparst, findest du überfüllte Museen, Warteschlangen am Eingang und übersättigte Säle vor. Wenn dein einziger verfügbarer Tag für den Prado unter der Woche liegt, lohnt es sich, 15 € zu zahlen und um 10:00 Uhr einzutreten, wenn das Museum fast leer ist. Die Ersparnis wiegt es nicht auf, *Las Meninas* hinter sechs Köpfen zu sehen. Wir gehen darauf im [Vergleich der drei Museen](/guias/madrid/prado-reina-sofia-thyssen-vergleich) genauer ein.
+> **⚠️ Hinweis:** Auch wenn du 15–20 € sparst, findest du überfüllte Museen, Warteschlangen am Eingang und übersättigte Säle vor. Wenn dein einziger verfügbarer Tag für den Prado unter der Woche liegt, lohnt es sich, 15 € zu zahlen und um 10:00 Uhr einzutreten, wenn das Museum fast leer ist. Die Ersparnis wiegt es nicht auf, *Las Meninas* hinter sechs Köpfen zu sehen. Wir gehen darauf im [Vergleich der drei Museen](/de/guides/madrid/prado-reina-sofia-thyssen-vergleich) genauer ein.
 
 Wenn du mit Nullbudget reist und keine andere Wahl hast, komm 30 Minuten vor der kostenlosen Stunde, um einen Platz in der Schlange zu bekommen.
 
@@ -111,7 +111,7 @@ Gut zum Laufen, Spazieren, Radfahren oder Sonnenbaden. Der beste Startpunkt ist 
 
 Die "Lunge" Madrids: 1.700 Hektar (fünfmal so groß wie der Central Park). Mediterraner Wald mitten in der Stadt. See, Wanderwege, echte Tierwelt (Füchse, Kaninchen, gelegentlich Wildschweine).
 
-Freier Eintritt, freies Erkunden. Was kostet: der Zoo, der Freizeitpark und die Seilbahn. **Die Seilbahn lohnt sich nicht**, das machen wir in [Madrid in 3 Tagen](/guias/madrid/madrid-in-3-tagen) deutlich. Bester Startpunkt: der See von Casa de Campo (Terrassen, Menschen beim Rudern, Blick auf den Königspalast). Metro: Lago.
+Freier Eintritt, freies Erkunden. Was kostet: der Zoo, der Freizeitpark und die Seilbahn. **Die Seilbahn lohnt sich nicht**, das machen wir in [Madrid in 3 Tagen](/de/guides/madrid/madrid-in-3-tagen) deutlich. Bester Startpunkt: der See von Casa de Campo (Terrassen, Menschen beim Rudern, Blick auf den Königspalast). Metro: Lago.
 
 ### El Capricho
 

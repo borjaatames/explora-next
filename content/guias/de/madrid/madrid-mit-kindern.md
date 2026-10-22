@@ -123,7 +123,7 @@ Hier folgt etwas Gegenintuitives. Es gibt Museen in Madrid, die Kinder mehr bege
 
 ### Museen, die für kleine Kinder NICHT empfohlen werden
 
-**Prado, Reina Sofía und Thyssen**: Mit Kindern unter 10 Jahren funktioniert das nicht. Zu lang, zu viel geforderte Aufmerksamkeit. Die Eltern genießen es nicht, und die Kinder langweilen sich. Das machen wir in unserem [Vergleich der Museen](/guias/madrid/prado-reina-sofia-thyssen-vergleich) deutlich.
+**Prado, Reina Sofía und Thyssen**: Mit Kindern unter 10 Jahren funktioniert das nicht. Zu lang, zu viel geforderte Aufmerksamkeit. Die Eltern genießen es nicht, und die Kinder langweilen sich. Das machen wir in unserem [Vergleich der Museen](/de/guides/madrid/prado-reina-sofia-thyssen-vergleich) deutlich.
 
 > **Hinweis:** Die Ausnahme sind Teenager von 14–16 Jahren mit kulturellem Interesse. Der Prado als kurzer Besuch von 1,5 Stunden lohnt sich: Fokus auf *Las Meninas*, die Schwarzen Bilder und Velázquez. Nicht mehr.
 
@@ -181,7 +181,7 @@ Der geheime Park Madrids. Öffnet nur an Wochenenden und Feiertagen, kostenlos. 
 | --- | --- |
 | Tag 1 | Parque de Atracciones Madrid (ganzer Tag) |
 | Tag 2 | Leichter Kulturvormittag (Naturkundemuseum) und Nachmittag im Retiro |
-| Tag 3 | Tag in [Toledo mit der Familie](/guias/madrid/tagesausflug-toledo-ab-madrid) |
+| Tag 3 | Tag in [Toledo mit der Familie](/de/guides/madrid/tagesausflug-toledo-ab-madrid) |
 
 ### 4–5 Tage mit Teenagern 13–16 Jahre
 

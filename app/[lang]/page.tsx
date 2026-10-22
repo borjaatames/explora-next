@@ -141,8 +141,8 @@ export async function generateMetadata({
   }
 
   const copy = getCopy(lang);
-  const canonicalUrl = `${SITE_URL}${prefijoIdioma(lang)}/`;
-  const languages = hreflangAlternates((l) => `${prefijoIdioma(l)}/`);
+  const canonicalUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
+  const languages = hreflangAlternates((l) => prefijoIdioma(l) || "/");
 
   return {
     title: copy.metaTitle,

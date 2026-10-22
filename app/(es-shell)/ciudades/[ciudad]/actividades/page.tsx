@@ -10,6 +10,7 @@ import {
   obtenerActividadesParaPaginaCiudad,
   type ActividadListItem,
   type CategoriaActividad,
+  urlListadoActividadesSiExiste,
 } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
@@ -69,7 +70,7 @@ export async function generateMetadata({
     alternates: {
       canonical: url,
       languages: hreflangAlternates((l) =>
-        urlActividadesDeCiudad(l, params.ciudad)
+        urlListadoActividadesSiExiste(l, params.ciudad)
       ),
     },
     openGraph: {

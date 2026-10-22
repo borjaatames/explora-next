@@ -10,6 +10,7 @@ import {
   categoriaDesdeUrl,
   type ActividadListItem,
   type CategoriaActividad,
+  urlCategoriaActividadesSiExiste,
 } from "@/lib/actividades";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
@@ -104,7 +105,7 @@ export async function generateMetadata({
     alternates: {
       canonical: url,
       languages: hreflangAlternates((l) =>
-        urlActividadesDeCiudadPorCategoria(l, params.ciudad, params.categoria)
+        urlCategoriaActividadesSiExiste(l, params.ciudad, params.categoria)
       ),
     },
     openGraph: {
