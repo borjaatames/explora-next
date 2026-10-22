@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, type UIEvent } from "react";
 import Image from "next/image";
 import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
@@ -68,7 +68,8 @@ function dictFor(idioma: Idioma): Strings {
  * Desktop: imagen grande a la izquierda (50%) + 2 fotos grandes apiladas a
  * la derecha (mismo formato en todas las actividades). Con 2 fotos, la
  * secundaria ocupa toda la columna; con una sola foto, ocupa todo el ancho.
- * Mobile: imagen grande arriba + fila horizontal scrollable debajo.
+ * Mobile: carrusel deslizable a todo el ancho con todas las fotos y
+ * contador "1/N" (como Civitatis y GetYourGuide).
  *
  * Usa next/image para optimización automática (AVIF/WebP, lazy loading,
  * tamaños responsive). La imagen principal lleva priority para mejorar LCP.
@@ -91,6 +92,7 @@ export default function GaleriaActividad({
   const t = dictFor(idioma);
   const [abierto, setAbierto] = useState(false);
   const [indiceInicial, setIndiceInicial] = useState(0);
+  const [fotoActual, setFotoActual] = useState(1);
 
   const todas: ImagenGaleria[] = [principal, ...galeria];
   const MAX_VISIBLES = 3;
@@ -107,102 +109,127 @@ export default function GaleriaActividad({
     setAbierto(true);
   }
 
-  const secundarias = enGrid.slice(1);
+  // Desktop: 2 secundarias junto a la principal. Móvil: carrusel deslizable
+  // con TODAS las fotos (como Civitatis/GetYourGuide) y contador "1/8".
+  const secundarias = todas.slice(1);
+  const visiblesDesktop = enGrid.length - 1;
   const haySecundarias = secundarias.length > 0;
 
   // Columna derecha (desktop): 2 fotos apiladas, o 1 a toda altura.
   const rejillaSecundarias =
-    secundarias.length === 2
+    visiblesDesktop === 2
       ? "md:grid-cols-1 md:grid-rows-2"
       : "md:grid-cols-1 md:grid-rows-1";
 
+  function alDeslizar(e: UIEvent<HTMLDivElement>) {
+    const el = e.currentTarget;
+    if (el.clientWidth === 0) return;
+    setFotoActual(Math.round(el.scrollLeft / el.clientWidth) + 1);
+  }
+
   return (
     <>
-      <div
-        className={
-          "grid grid-cols-1 gap-2 rounded-xl overflow-hidden md:aspect-[5/2] " +
-          (haySecundarias ? "md:grid-cols-3" : "")
-        }
-      >
-        {/* Imagen principal con badge editorial opcional */}
-        <div className={"relative md:h-full " + (haySecundarias ? "md:col-span-2" : "")}>
-          <button
-            type="button"
-            onClick={() => abrirEn(0)}
-            style={{ aspectRatio: "4/3" }}
-            className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
-            aria-label={t.abrirGaleriaEn(principal.alt)}
+      <div className="relative">
+        <div
+          onScroll={alDeslizar}
+          className={
+            "flex overflow-x-auto snap-x snap-mandatory scrollbar-hide rounded-xl md:grid md:gap-2 md:overflow-hidden md:snap-none md:aspect-[5/2] " +
+            (haySecundarias ? "md:grid-cols-3" : "md:grid-cols-1")
+          }
+        >
+          {/* Imagen principal con badge editorial opcional */}
+          <div
+            className={
+              "relative flex-none w-full snap-center md:w-auto md:h-full " +
+              (haySecundarias ? "md:col-span-2" : "")
+            }
           >
-            <Image
-              src={principal.src}
-              alt={principal.alt}
-              fill
-              priority
-              sizes={haySecundarias ? "(max-width: 768px) 100vw, 66vw" : "100vw"}
-              className="object-cover group-hover:scale-105 transition-transform duration-500"
-            />
-          </button>
-
-          {/* Sello editorial: solo si destacada */}
-          {destacada && (
-            <div
-              className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-slate-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-md pointer-events-none select-none"
-              aria-label={t.selloAriaLabel}
+            <button
+              type="button"
+              onClick={() => abrirEn(0)}
+              style={{ aspectRatio: "4/3" }}
+              className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+              aria-label={t.abrirGaleriaEn(principal.alt)}
             >
-              <span aria-hidden="true" className="text-amber-400 text-base leading-none">
-                ★
-              </span>
-              <span className="hidden sm:inline">{t.selloLargo}</span>
-              <span className="sm:hidden">{t.selloCorto}</span>
+              <Image
+                src={principal.src}
+                alt={principal.alt}
+                fill
+                priority
+                sizes={haySecundarias ? "(max-width: 768px) 100vw, 66vw" : "100vw"}
+                className="object-cover group-hover:scale-105 transition-transform duration-500"
+              />
+            </button>
+
+            {/* Sello editorial: solo si destacada */}
+            {destacada && (
+              <div
+                className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-slate-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-md pointer-events-none select-none"
+                aria-label={t.selloAriaLabel}
+              >
+                <span aria-hidden="true" className="text-amber-400 text-base leading-none">
+                  ★
+                </span>
+                <span className="hidden sm:inline">{t.selloLargo}</span>
+                <span className="sm:hidden">{t.selloCorto}</span>
+              </div>
+            )}
+          </div>
+
+          {/* Resto de imágenes. Móvil: siguen en el carrusel a todo el ancho
+              (`contents` las mete en la misma fila). Desktop: rejilla con 2. */}
+          {haySecundarias && (
+            <div className={"contents md:grid md:gap-2 md:h-full " + rejillaSecundarias}>
+              {secundarias.map((img, i) => {
+                const indiceReal = i + 1;
+                const soloMovil = i >= visiblesDesktop;
+                const esUltimaConRestantes =
+                  i === visiblesDesktop - 1 && restantes > 0;
+
+                return (
+                  <button
+                    key={img.src}
+                    type="button"
+                    onClick={() => abrirEn(indiceReal)}
+                    className={
+                      "relative flex-none w-full aspect-[4/3] snap-center md:w-auto md:aspect-auto md:h-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 " +
+                      (soloMovil ? "md:hidden" : "")
+                    }
+                    aria-label={
+                      esUltimaConRestantes
+                        ? t.verFotosRestantes(restantes + 1)
+                        : t.abrirGaleriaEn(img.alt)
+                    }
+                  >
+                    <Image
+                      src={img.src}
+                      alt={img.alt}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 33vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                    {esUltimaConRestantes && (
+                      <div className="absolute inset-0 bg-slate-900/60 hidden md:flex items-center justify-center z-10">
+                        <span className="text-white font-semibold text-base md:text-lg">
+                          {t.fotos(restantes + 1)}
+                        </span>
+                      </div>
+                    )}
+                  </button>
+                );
+              })}
             </div>
           )}
         </div>
 
-        {/* Resto de imágenes (móvil: scroll horizontal; desktop: rejilla de igual tamaño) */}
+        {/* Contador del carrusel (solo móvil) */}
         {haySecundarias && (
-          <div
-            className={
-              "flex gap-2 overflow-x-auto snap-x snap-mandatory md:grid md:gap-2 md:h-full md:overflow-visible md:snap-none " +
-              rejillaSecundarias
-            }
+          <span
+            aria-hidden="true"
+            className="md:hidden absolute bottom-3 right-3 bg-slate-900/80 text-white text-xs font-semibold px-2.5 py-1 rounded pointer-events-none"
           >
-            {secundarias.map((img, i) => {
-              const indiceReal = i + 1;
-              const esUltimaConRestantes =
-                i === secundarias.length - 1 && restantes > 0;
-
-              return (
-                <button
-                  key={img.src}
-                  type="button"
-                  onClick={() => abrirEn(indiceReal)}
-                  className={
-                    "relative aspect-[4/3] md:aspect-auto md:h-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 flex-shrink-0 w-5/6 md:w-auto snap-center"
-                  }
-                  aria-label={
-                    esUltimaConRestantes
-                      ? t.verFotosRestantes(restantes + 1)
-                      : t.abrirGaleriaEn(img.alt)
-                  }
-                >
-                  <Image
-                    src={img.src}
-                    alt={img.alt}
-                    fill
-                    sizes="(max-width: 768px) 85vw, 33vw"
-                    className="object-cover group-hover:scale-105 transition-transform duration-500"
-                  />
-                  {esUltimaConRestantes && (
-                    <div className="absolute inset-0 bg-slate-900/60 flex items-center justify-center z-10">
-                      <span className="text-white font-semibold text-base md:text-lg">
-                        {t.fotos(restantes + 1)}
-                      </span>
-                    </div>
-                  )}
-                </button>
-              );
-            })}
-          </div>
+            {fotoActual}/{todas.length}
+          </span>
         )}
       </div>
 

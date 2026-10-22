@@ -10,28 +10,25 @@ import {
 
 type Props = DatosPrecioBokun & {
   idioma: Idioma;
+  ratingProveedor?: number;
+  numeroOpiniones?: number;
 };
 
 /**
  * Barra fija inferior (solo móvil) para las fichas Bókun.
  *
  * En móvil el calendario de Bókun queda al final de la ficha; esta barra
- * mantiene precio y acción siempre a mano y baja hasta él. Aparece tras el
- * primer scroll y se oculta mientras el bloque de reserva está en pantalla,
- * para no tapar el propio calendario.
+ * mantiene precio y acción siempre a mano y baja hasta él. Visible desde la
+ * carga; solo se oculta mientras el bloque de reserva está en pantalla, para
+ * no tapar el propio calendario.
  */
-export default function StickyReservaBokun({ idioma, ...datos }: Props) {
-  const [haHechoScroll, setHaHechoScroll] = useState(false);
+export default function StickyReservaBokun({
+  idioma,
+  ratingProveedor,
+  numeroOpiniones,
+  ...datos
+}: Props) {
   const [reservaVisible, setReservaVisible] = useState(false);
-
-  useEffect(() => {
-    function onScroll() {
-      setHaHechoScroll(window.scrollY > 400);
-    }
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
 
   useEffect(() => {
     const bloque = document.getElementById(ANCLA_RESERVA);
@@ -46,7 +43,15 @@ export default function StickyReservaBokun({ idioma, ...datos }: Props) {
 
   if (!(datos.precioDesde > 0)) return null;
   const t = textosPrecioBokun(datos, idioma);
-  const visible = haHechoScroll && !reservaVisible;
+  const visible = !reservaVisible;
+  const locale = idioma === "es" ? "es-ES" : "en-GB";
+  const rating =
+    typeof ratingProveedor === "number" && (numeroOpiniones ?? 0) > 0
+      ? `${ratingProveedor.toLocaleString(locale, {
+          minimumFractionDigits: 1,
+          maximumFractionDigits: 1,
+        })} (${(numeroOpiniones ?? 0).toLocaleString(locale)})`
+      : null;
 
   return (
     <div
@@ -63,6 +68,15 @@ export default function StickyReservaBokun({ idioma, ...datos }: Props) {
             {t.desde} {t.precio}
           </span>
           <span className="text-xs text-slate-500 leading-tight truncate">
+            {rating && (
+              <>
+                <span aria-hidden="true" className="text-amber-500">
+                  ★
+                </span>{" "}
+                <span className="font-semibold text-slate-900">{rating}</span>
+                {" · "}
+              </>
+            )}
             {t.unidad}
           </span>
         </div>

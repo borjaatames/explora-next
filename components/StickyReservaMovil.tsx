@@ -71,7 +71,8 @@ function dictFor(idioma: Idioma): Strings {
 /**
  * Barra sticky inferior visible solo en móvil (lg:hidden).
  *
- * Aparece tras hacer scroll de unos 500px (después del hero).
+ * Visible desde que carga la página, como en Civitatis y GetYourGuide (antes
+ * aparecía tras 500 px de scroll).
  * Al pulsar el CTA, abre un modal a pantalla completa con el
  * componente CalendarioReserva dentro.
  */
@@ -99,17 +100,7 @@ export default function StickyReservaMovil({
   textoCancelacionGratuita,
 }: Props) {
   const t = dictFor(idioma);
-  const [visible, setVisible] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
-
-  useEffect(() => {
-    function onScroll() {
-      setVisible(window.scrollY > 500);
-    }
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
 
   useEffect(() => {
     if (modalOpen) {
@@ -151,12 +142,9 @@ export default function StickyReservaMovil({
   return (
     <>
       <div
-        className={`fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-slate-200 shadow-lg transition-transform duration-300 ${
-          visible ? "translate-y-0" : "translate-y-full"
-        }`}
+        className="fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-slate-200 shadow-lg pb-[env(safe-area-inset-bottom)]"
         role="region"
         aria-label={t.ariaBarra}
-        aria-hidden={!visible}
       >
         <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
           <div className="flex flex-col min-w-0 flex-1">

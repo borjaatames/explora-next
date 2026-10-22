@@ -26,6 +26,8 @@ import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import BokunWidget from "@/components/BokunWidget";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
+import DatosClave from "@/components/ficha/DatosClave";
+import PlegableMovil from "@/components/ficha/PlegableMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
 import SelloProveedor from "@/components/SelloProveedor";
@@ -229,7 +231,10 @@ export default async function ActividadPage({ params }: Props) {
         />
       )}
 
-      <header className="bg-white pt-6 md:pt-8">
+      {/* Móvil: foto primero (como Civitatis/GetYourGuide); desde md, cabecera
+          y después galería, como siempre (desde md). */}
+      <div className="flex flex-col">
+      <header className="bg-white pt-4 md:pt-8">
         <div className="max-w-6xl mx-auto px-4">
           <nav aria-label="Breadcrumb" className="text-sm text-slate-500 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-sky-700">
@@ -254,11 +259,11 @@ export default async function ActividadPage({ params }: Props) {
             <span className="bg-sky-100 text-sky-700 px-2 py-1 rounded">
               {dict.actividades.categorias[actividad.categoria]}
             </span>
-            <span className="bg-slate-100 text-slate-600 px-2 py-1 rounded">
+            <span className="hidden md:inline bg-slate-100 text-slate-600 px-2 py-1 rounded">
               {actividad.duracion}
             </span>
             {actividad.cancelacionGratuita && (
-              <span className="bg-slate-100 text-slate-600 px-2 py-1 rounded">
+              <span className="hidden md:inline bg-slate-100 text-slate-600 px-2 py-1 rounded">
                 {actividad.horasCancelacion
                   ? dict.actividades.cancelacionHorasAntes.replace(
                       "{horas}",
@@ -269,10 +274,10 @@ export default async function ActividadPage({ params }: Props) {
             )}
           </div>
 
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold text-slate-900 mb-3 leading-tight">
+          <h1 className="font-playfair text-2xl md:text-5xl font-bold text-slate-900 mb-3 leading-tight">
             {actividad.titulo}
           </h1>
-          <p className="text-lg text-slate-600 max-w-3xl leading-relaxed">
+          <p className="text-base md:text-lg text-slate-600 max-w-3xl leading-relaxed line-clamp-3 md:line-clamp-none">
             {actividad.descripcion}
           </p>
 
@@ -291,6 +296,18 @@ export default async function ActividadPage({ params }: Props) {
             </p>
           )}
 
+          <DatosClave
+            idioma={lang}
+            titulo={actividad.titulo}
+            categoria={actividad.categoria}
+            duracion={actividad.duracion}
+            idiomas={actividad.idiomas}
+            highlights={actividad.highlights}
+            cancelacionGratuita={actividad.cancelacionGratuita}
+            horasCancelacion={actividad.horasCancelacion}
+            detalles={actividad.detallesPracticos}
+          />
+
           {actividad.proveedor === "bokun" && (
             <CtaReservaBokun
               cancelacionGratuita={actividad.cancelacionGratuita}
@@ -307,7 +324,7 @@ export default async function ActividadPage({ params }: Props) {
       </header>
 
       {actividad.imagen && (
-        <div className="max-w-6xl mx-auto px-4 pt-6 md:pt-8">
+        <div className="order-first md:order-none w-full max-w-6xl mx-auto px-4 pt-3 md:pt-8">
           <GaleriaActividad
             idioma={lang}
             principal={{
@@ -324,20 +341,24 @@ export default async function ActividadPage({ params }: Props) {
         </div>
       )}
 
+      </div>
+
       <section className="max-w-6xl mx-auto px-4 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2 space-y-12">
             <SelloProveedor proveedor={actividad.proveedor} idioma={lang} />
 
             {/* 2. Detalles prácticos */}
-            <DetallesPracticos
-              idioma={lang}
-              duracion={actividad.duracion}
-              idiomas={actividad.idiomas}
-              detalles={actividad.detallesPracticos}
-              cancelacionGratuita={actividad.cancelacionGratuita}
-              horasCancelacion={actividad.horasCancelacion}
-            />
+            <div className="hidden md:block">
+              <DetallesPracticos
+                idioma={lang}
+                duracion={actividad.duracion}
+                idiomas={actividad.idiomas}
+                detalles={actividad.detallesPracticos}
+                cancelacionGratuita={actividad.cancelacionGratuita}
+                horasCancelacion={actividad.horasCancelacion}
+              />
+            </div>
 
             {/* 3. Highlights */}
             {actividad.highlights.length > 0 && (
@@ -427,14 +448,19 @@ export default async function ActividadPage({ params }: Props) {
             )}
 
             {/* 6. Important info — 3 columns */}
-            <InformacionImportante idioma={lang} info={actividad.informacionImportante} />
+            <PlegableMovil idioma={lang}>
+              <InformacionImportante idioma={lang} info={actividad.informacionImportante} />
+            </PlegableMovil>
 
             {/* 7. Meeting point with OSM map */}
             {actividad.puntoEncuentro.texto && (
-              <MapaPuntoEncuentro idioma={lang} punto={actividad.puntoEncuentro} />
+              <PlegableMovil idioma={lang}>
+                <MapaPuntoEncuentro idioma={lang} punto={actividad.puntoEncuentro} />
+              </PlegableMovil>
             )}
 
             {/* 8. The experience (Markdown) */}
+            <PlegableMovil idioma={lang}>
             <div>
               <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
                 {dict.actividades.laExperiencia}
@@ -444,6 +470,7 @@ export default async function ActividadPage({ params }: Props) {
                 dangerouslySetInnerHTML={{ __html: actividad.contenidoHtml }}
               />
             </div>
+            </PlegableMovil>
 
             {/* 9. Accessibility */}
             {actividad.accesibilidad && (
@@ -592,6 +619,8 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.proveedor === "bokun" && (
         <StickyReservaBokun
+          ratingProveedor={actividad.ratingProveedor}
+          numeroOpiniones={actividad.numeroOpiniones}
           idioma={lang}
           precioDesde={actividad.precioDesde}
           moneda={actividad.moneda}
