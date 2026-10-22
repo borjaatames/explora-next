@@ -26,10 +26,18 @@ async function pedir(locationId: string, idioma: string, clave: string): Promise
   const url = `${API}/${locationId}/reviews?language=${idioma}&key=${encodeURIComponent(clave)}`;
   const res = await fetch(url, {
     headers: { accept: "application/json", referer: "https://www.exploraspain.com/" },
+    // Solo se cachean las respuestas buenas (ver más abajo); el fetch interno
+    // no guarda errores porque Next solo cachea respuestas 2xx.
     next: { revalidate: UNA_SEMANA },
   });
-  if (!res.ok) return [];
+  if (!res.ok) {
+    // Sin la clave en el log: solo estado y el principio del mensaje de error.
+    const cuerpo = (await res.text()).slice(0, 300);
+    console.error(`[tripadvisor] ${locationId} (${idioma}) → HTTP ${res.status}: ${cuerpo}`);
+    return [];
+  }
   const json = (await res.json()) as { data?: ResenaApi[] };
+  if (!json.data?.length) console.warn(`[tripadvisor] ${locationId} (${idioma}) → 0 reseñas`);
   return (json.data ?? [])
     .filter((r) => r.text && r.url && typeof r.rating === "number")
     .slice(0, MAX_RESENAS)
@@ -53,6 +61,7 @@ export async function GET(
   const { locationId } = params;
   const idioma = new URL(request.url).searchParams.get("idioma") === "en" ? "en" : "es";
 
+  if (!clave) console.error("[tripadvisor] falta TRIPADVISOR_API_KEY");
   if (!clave || !/^\d{3,12}$/.test(locationId)) {
     return NextResponse.json({ resenas: [] }, { status: 200 });
   }
@@ -61,8 +70,17 @@ export async function GET(
   let resenas = await pedir(locationId, idioma, clave);
   if (resenas.length === 0 && idioma !== "en") resenas = await pedir(locationId, "en", clave);
 
+  // Una respuesta vacía (error o sin reseñas) no se cachea: se reintenta en
+  // la siguiente visita en vez de quedarse una semana sin reseñas.
   return NextResponse.json(
     { resenas },
-    { headers: { "Cache-Control": `public, s-maxage=${UNA_SEMANA}, stale-while-revalidate=${UNA_SEMANA}` } }
+    {
+      headers: {
+        "Cache-Control":
+          resenas.length > 0
+            ? `public, s-maxage=${UNA_SEMANA}, stale-while-revalidate=${UNA_SEMANA}`
+            : "no-store",
+      },
+    }
   );
 }
