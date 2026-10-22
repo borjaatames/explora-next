@@ -1,4 +1,5 @@
 import datos from "./tripadvisor-bokun.json";
+import datosGyg from "./tripadvisor-gyg.json";
 import type { Idioma } from "./i18n/types";
 
 // =============================================================================
@@ -93,4 +94,25 @@ export function textoRankingTripadvisor(
   const total = r.total.toLocaleString("en-GB");
   const cat = CATEGORIAS_EN[r.categoria] ?? r.categoria.toLowerCase();
   return `#${r.posicion} of ${total} ${cat} in ${r.lugar}`;
+}
+
+// =============================================================================
+// Tripadvisor de las actividades de GetYourGuide
+// -----------------------------------------------------------------------------
+// GYG no pasa datos de Tripadvisor. En lib/tripadvisor-gyg.json guardamos, por
+// id de tour de GYG (el «-t123456» de urlReserva), el locationId de la ficha de
+// Tripadvisor del proveedor que la organiza o, si la vende la propia GYG, del
+// monumento o parque. Solo se usa para pedir las reseñas reales a la API.
+// =============================================================================
+
+/** Lo mínimo para pedir y atribuir reseñas: de quién son y su locationId. */
+export type FuenteResenas = Pick<DatosTripadvisor, "locationId" | "nombre">;
+
+type ArchivoGyg = { tours: Record<string, FuenteResenas> };
+
+export function fuenteResenasGyg(urlReserva: string | undefined): FuenteResenas | null {
+  if (!urlReserva || !urlReserva.includes("getyourguide.")) return null;
+  const id = urlReserva.match(/-t(\d+)(?:\/|\?|$)/)?.[1];
+  if (!id) return null;
+  return (datosGyg as ArchivoGyg).tours[id] ?? null;
 }

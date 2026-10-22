@@ -29,7 +29,7 @@ import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import DatosClave from "@/components/ficha/DatosClave";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
-import { datosTripadvisorBokun } from "@/lib/tripadvisor";
+import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
 import PlegableMovil from "@/components/ficha/PlegableMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
@@ -128,6 +128,7 @@ export default async function ActividadPage({ params }: Props) {
   const otrasVersiones = parecidas.tipo === "casiIguales" ? parecidas.actividades : [];
   const tripadvisor =
     actividad.proveedor === "bokun" ? datosTripadvisorBokun(actividad.bokunProductId) : null;
+  const fuenteResenas = tripadvisor ?? fuenteResenasGyg(actividad.urlReserva);
 
   const url = `${SITE_URL}${actividad.url}`;
   // Viator y GetYourGuide solo soportan es/en en su propio sitio (ver
@@ -405,11 +406,11 @@ export default async function ActividadPage({ params }: Props) {
             )}
 
             {/* 3a. Reseñas reales del proveedor (Tripadvisor Content API) */}
-            {tripadvisor && (
+            {fuenteResenas && (
               <ResenasTripadvisor
                 idioma={lang}
-                locationId={tripadvisor.locationId}
-                nombreProveedor={tripadvisor.nombre}
+                locationId={fuenteResenas.locationId}
+                nombreProveedor={fuenteResenas.nombre}
               />
             )}
 
