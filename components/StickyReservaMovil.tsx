@@ -146,6 +146,9 @@ export default function StickyReservaMovil({
     <>
       <div
         className="fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-slate-200 shadow-lg pb-[env(safe-area-inset-bottom)]"
+        // Sube por encima del banner de cookies mientras esté visible (lo
+        // publica CookieBanner) para que el CTA de reserva no quede tapado.
+        style={{ bottom: "var(--alto-cookie-banner, 0px)" }}
         role="region"
         aria-label={t.ariaBarra}
       >

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import {
   leerConsentimiento,
@@ -63,6 +63,27 @@ export default function CookieBanner({ idioma }: Props) {
   const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
 
   const [visible, setVisible] = useState(false);
+  const bannerRef = useRef<HTMLDivElement>(null);
+
+  // Publica la altura del banner en `--alto-cookie-banner` para que la barra
+  // fija de reserva en móvil se coloque justo encima y no quede tapada.
+  useEffect(() => {
+    const raiz = document.documentElement;
+    const el = bannerRef.current;
+    if (!visible || !el) {
+      raiz.style.removeProperty("--alto-cookie-banner");
+      return;
+    }
+    const publicar = () =>
+      raiz.style.setProperty("--alto-cookie-banner", `${el.offsetHeight}px`);
+    publicar();
+    const observador = new ResizeObserver(publicar);
+    observador.observe(el);
+    return () => {
+      observador.disconnect();
+      raiz.style.removeProperty("--alto-cookie-banner");
+    };
+  }, [visible]);
 
   useEffect(() => {
     function evaluar() {
@@ -97,12 +118,13 @@ export default function CookieBanner({ idioma }: Props) {
 
   return (
     <div
+      ref={bannerRef}
       role="dialog"
       aria-labelledby="cookie-banner-titulo"
       aria-describedby="cookie-banner-texto"
       className="fixed bottom-0 left-0 right-0 z-50 border-t border-slate-200 bg-white shadow-lg animate-cookie-slide-up"
     >
-      <div className="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-4 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8 lg:py-3">
+      <div className="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-3 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8 lg:py-3">
         <div className="flex-1">
           <p
             id="cookie-banner-titulo"
