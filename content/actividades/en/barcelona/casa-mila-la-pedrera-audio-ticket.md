@@ -14,7 +14,7 @@ precioDesde: 25
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/barcelona-la-pedrera-casa-mila-ticket-audio-guide-option-t913286/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
+urlReserva: "https://www.getyourguide.com/barcelona-l45/barcelona-la-pedrera-casa-mila-ticket-audio-guide-option-t1381568/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
 cancelacionGratuita: true
 horasCancelacion: 24
 

@@ -25,7 +25,6 @@ reservasArriba: true
 actividades:
   - tour-a-pie-alicante-imprescindibles
   - tour-tuk-tuk-alicante-castillos-playas
-  - catamaran-alicante-3-horas-esnorquel
   - clase-cocina-paella-alicante-mercado
   - flamenco-alicante-tablao-el-mentidero
   - barco-alicante-isla-tabarca-ida-vuelta
@@ -43,7 +42,6 @@ actividades:
 | --- | --- | --- |
 | [Tour guiado a pie por lo imprescindible](/ciudades/alicante/actividades/tour-a-pie-alicante-imprescindibles) | 4,7★ (111) | 27 € |
 | [Tour premium en tuk tuk por el centro, los castillos y las playas](/ciudades/alicante/actividades/tour-tuk-tuk-alicante-castillos-playas) | 4,7★ (234) | 50 € |
-| [Paseo de 3 horas en catamarán con esnórquel](/ciudades/alicante/actividades/catamaran-alicante-3-horas-esnorquel) | 4,6★ (1.205) | 42 € |
 | [Clase de cocina de paella con visita al mercado, tapas y vino](/ciudades/alicante/actividades/clase-cocina-paella-alicante-mercado) | 4,9★ (514) | 49 € |
 | [Espectáculo flamenco en El Mentidero con opción de tapas](/ciudades/alicante/actividades/flamenco-alicante-tablao-el-mentidero) | 4,8★ (1.744) | 15 € |
 | [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |

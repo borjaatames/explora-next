@@ -14,7 +14,7 @@ precioDesde: 39.5
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/barcelona-l45/barcelona-casa-mila-early-morning-access-guided-tour-t913306/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
+urlReserva: "https://www.getyourguide.es/barcelona-l45/barcelona-casa-mila-early-morning-access-guided-tour-t1381569/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
 cancelacionGratuita: true
 horasCancelacion: 24
 

@@ -14,7 +14,7 @@ precioDesde: 39.50
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/barcelona-la-pedrera-night-experience-t913305/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
+urlReserva: "https://www.getyourguide.com/barcelona-l45/barcelona-la-pedrera-night-experience-t1381571/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
 cancelacionGratuita: true
 horasCancelacion: 24
 

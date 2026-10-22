@@ -25,7 +25,6 @@ reservasArriba: true
 actividades:
   - tour-a-pie-alicante-imprescindibles
   - tour-tuk-tuk-alicante-castillos-playas
-  - catamaran-alicante-3-horas-esnorquel
   - clase-cocina-paella-alicante-mercado
   - flamenco-alicante-tablao-el-mentidero
   - barco-alicante-isla-tabarca-ida-vuelta
