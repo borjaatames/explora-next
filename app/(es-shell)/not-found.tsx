@@ -16,7 +16,6 @@ import { urlIndiceGuias, urlIndiceCiudades, urlCiudad } from "@/lib/i18n/utils";
  */
 export const metadata: Metadata = {
   title: "Página no encontrada",
-  robots: { index: false, follow: false },
 };
 
 const CIUDADES_DESTACADAS = [

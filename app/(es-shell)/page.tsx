@@ -33,7 +33,8 @@ const ORDEN_DESTINOS_HOME = [
 ] as const;
 
 export const metadata: Metadata = {
-  title: "ExploraSpain · Actividades, tours y guías de España",
+  // `absolute` evita la plantilla "%s | ExploraSpain" (marca duplicada).
+  title: { absolute: "ExploraSpain · Actividades, tours y guías de España" },
   description:
     "Actividades, tours y guías de viaje por España elegidos por expertos locales: Madrid, Barcelona, Sevilla, Granada y más. Cancelación gratuita y partners de confianza.",
   alternates: {
@@ -91,9 +92,11 @@ export default function HomePage() {
   const organizationJsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "SKYWARD PARTNERS, S.L.",
+    "@id": `${SITE_URL}/#organization`,
+    name: "ExploraSpain",
     legalName: "SKYWARD PARTNERS, S.L.",
     url: SITE_URL,
+    logo: `${SITE_URL}/logo-square.png`,
     email: "contacto@exploraspain.com",
     address: {
       "@type": "PostalAddress",

@@ -145,7 +145,7 @@ export async function generateMetadata({
   const languages = hreflangAlternates((l) => prefijoIdioma(l) || "/");
 
   return {
-    title: copy.metaTitle,
+    title: { absolute: copy.metaTitle },
     description: copy.metaDescription,
     alternates: {
       canonical: canonicalUrl,

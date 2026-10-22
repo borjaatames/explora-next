@@ -715,39 +715,15 @@ function buildProductLd(
     url,
     offers: {
       "@type": "Offer",
-      url: urlReservaFinal,
+      url: urlReservaFinal || url,
       priceCurrency: actividad.moneda,
       price: actividad.precioDesde,
       availability: "https://schema.org/InStock",
     },
   };
-  ld.brand = {
-    "@type": "Organization",
-    name: nombreProveedor(actividad.proveedor),
-  };
-  if (actividad.ratingProveedor && actividad.numeroOpiniones) {
-    ld.aggregateRating = {
-      "@type": "AggregateRating",
-      ratingValue: actividad.ratingProveedor,
-      reviewCount: actividad.numeroOpiniones,
-    };
-  }
-
-  // Editorial review: if the activity has an ExploraSpain editorial
-  // opinion, declare it as a self-referential Review to enable rich
-  // results. The opinionEditorial field is a real opinion written by
-  // the editor, not aggregated user reviews (those are in aggregateRating).
-  if (actividad.opinionEditorial) {
-    ld.review = {
-      "@type": "Review",
-      author: {
-        "@type": "Organization",
-        name: "ExploraSpain",
-      },
-      reviewBody: actividad.opinionEditorial.trim(),
-      inLanguage: lang,
-    };
-  }
-
+  // Sin `brand` (el operador no es la marca del producto), sin
+  // `aggregateRating` (Google no admite notas recogidas en otras webs,
+  // como las de GetYourGuide) y sin `review` editorial (exige
+  // `reviewRating`, que no tenemos). La nota se sigue mostrando en pantalla.
   return ld;
 }
