@@ -126,7 +126,6 @@ export function middleware(req: NextRequest) {
       maxAge: 60 * 60 * 24 * 365,
       sameSite: "lax",
     });
-    res.headers.set("x-pathname", pathname);
     return res;
   }
 
@@ -136,9 +135,7 @@ export function middleware(req: NextRequest) {
   // se aplica en la home. Cualquier otra URL ES sin prefijo es intención
   // explícita y se sirve tal cual.
   if (pathname !== "/") {
-    const _res = NextResponse.next();
-    _res.headers.set("x-pathname", pathname);
-    return _res;
+    return NextResponse.next();
   }
 
   // En home: respetar cookie explícita, después detectar por navegador.
@@ -148,13 +145,15 @@ export function middleware(req: NextRequest) {
       return NextResponse.redirect(destinoConQuery(`/${cookiePreferido}`, req), 307);
     }
     // cookie es "es" → dejar pasar tal cual.
-    const _res = NextResponse.next();
-    _res.headers.set("x-pathname", pathname);
-    return _res;
+    return NextResponse.next();
   }
 
-  // Sin cookie: detectar idioma del navegador.
-  const idiomaNavegador = detectarIdiomaNavegador(req);
+  // Sin cookie: detectar idioma del navegador. Los bots (Googlebot, Bingbot,
+  // OAI-SearchBot, PerplexityBot…) reciben siempre la home ES que piden:
+  // redirigirlos por Accept-Language les esconde la URL `/`.
+  const ua = req.headers.get("user-agent") ?? "";
+  const esBot = /bot|crawler|spider|slurp|crawl|preview|facebookexternalhit|bingpreview/i.test(ua);
+  const idiomaNavegador = esBot ? IDIOMA_DEFECTO : detectarIdiomaNavegador(req);
 
   if (
     idiomaNavegador !== IDIOMA_DEFECTO &&
@@ -170,7 +169,5 @@ export function middleware(req: NextRequest) {
   }
 
   // Navegador en español o no detectable → home ES tal cual.
-  const _resHome = NextResponse.next();
-  _resHome.headers.set("x-pathname", pathname);
-  return _resHome;
+  return NextResponse.next();
 }
