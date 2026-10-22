@@ -4,7 +4,10 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
-import { obtenerActividadesHome } from "@/lib/actividades";
+import {
+  obtenerActividadesHome,
+  urlListadoActividadesSiExiste,
+} from "@/lib/actividades";
 import {
   IDIOMAS_ACTIVOS,
   IDIOMA_LOCALE,
@@ -17,7 +20,7 @@ import {
   prefijoIdioma,
   urlIndiceGuias,
   urlIndiceCiudades,
-  urlActividadesDeCiudad,
+  urlCiudad,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import SelloProveedor from "@/components/SelloProveedor";
@@ -239,7 +242,9 @@ export default function HomePage({ params }: Props) {
         idioma={lang}
         opciones={ciudades.map((c) => ({
           nombre: c.nombre,
-          url: urlActividadesDeCiudad(lang, c.slug),
+          url:
+            urlListadoActividadesSiExiste(lang, c.slug) ??
+            urlCiudad(lang, c.slug),
         }))}
         urlTodos={urlIndiceCiudades(lang)}
         anclaDestinos="#destinations"
@@ -263,7 +268,10 @@ export default function HomePage({ params }: Props) {
             {destinosHome.map((ciudad, index) => (
               <Link
                 key={ciudad.url}
-                href={urlActividadesDeCiudad(lang, ciudad.slug)}
+                href={
+                  urlListadoActividadesSiExiste(lang, ciudad.slug) ??
+                  urlCiudad(lang, ciudad.slug)
+                }
                 className="group relative block h-56 md:h-64 rounded-xl overflow-hidden shadow-sm"
               >
                 <Image

@@ -17,6 +17,7 @@ import Link from "next/link";
  */
 export const metadata: Metadata = {
   title: { absolute: "Página no encontrada | ExploraSpain" },
+  robots: { index: false, follow: false },
 };
 
 export default function RootNotFound() {

@@ -353,7 +353,7 @@ export default async function GuiaPage({ params }: Props) {
         actividades={actividadesCarrusel}
         idioma={lang}
         nombreCiudad={nombreCiudad}
-        urlTodas={urlActividadesDeCiudad(lang, guia.categoria)}
+        urlTodas={urlActividadesDeCiudad(idiomaFichas(lang), guia.categoria)}
       />
 
       {relacionadas.length > 0 && (
