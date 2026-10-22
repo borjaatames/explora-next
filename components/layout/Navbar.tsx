@@ -9,7 +9,6 @@ import {
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
-import type { ParejaUrls } from "@/lib/i18n/parejas";
 
 const DICT = {
   es: {
@@ -57,7 +56,6 @@ function urlSobreNosotros(idioma: Idioma): string {
 
 type Props = {
   idioma: Idioma;
-  parejas: ParejaUrls | null;
 };
 
 /**
@@ -67,7 +65,7 @@ type Props = {
  * `NavbarMobileMenu`, una isla Client mínima. El `LanguageSwitcher`
  * también es Client pero se monta como isla independiente.
  */
-export default function Navbar({ idioma, parejas }: Props) {
+export default function Navbar({ idioma }: Props) {
   const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
 
   const enlaces = [
@@ -116,7 +114,7 @@ export default function Navbar({ idioma, parejas }: Props) {
         </nav>
 
         <div className="hidden md:flex items-center gap-4">
-          <LanguageSwitcher idioma={idioma} parejas={parejas} />
+          <LanguageSwitcher idioma={idioma} />
           <Link
             href={urlContacto(idioma)}
             prefetch={false}
@@ -127,7 +125,7 @@ export default function Navbar({ idioma, parejas }: Props) {
         </div>
 
         <div className="md:hidden flex items-center gap-1">
-          <LanguageSwitcher idioma={idioma} parejas={parejas} />
+          <LanguageSwitcher idioma={idioma} />
           <NavbarMobileMenu
             enlaces={enlacesMovil}
             abrirLabel={t.abrirMenu}

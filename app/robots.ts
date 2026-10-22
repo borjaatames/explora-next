@@ -32,7 +32,6 @@ export default function robots(): MetadataRoute.Robots {
           "/api/",
           "/sem/",
           "/en/sem/",
-          "/_next/",
           "/admin/",
           "/*.backup$",
           "/*?*utm_",

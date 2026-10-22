@@ -1,7 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
+import { usePathname } from "next/navigation";
+import { useCallback, useEffect, useRef, useState } from "react";
 import {
   IDIOMAS_ACTIVOS,
   IDIOMA_DEFECTO,
@@ -9,7 +10,7 @@ import {
   COOKIE_LOCALE,
 } from "@/lib/i18n/config";
 import type { Idioma } from "@/lib/i18n/types";
-import type { ParejaUrls } from "@/lib/i18n/parejas";
+import type { MapaParejas, ParejaUrls } from "@/lib/i18n/parejas";
 
 /**
  * URL home del idioma destino. Fallback cuando la página actual no tiene
@@ -32,22 +33,48 @@ const ARIA_LABEL_CAMBIAR_IDIOMA: Record<Idioma, string> = {
 };
 
 /**
+ * Carga perezosa y compartida del mapa de parejas (`/parejas.json`, estático).
+ * Se pide al primer gesto sobre el selector, no en cada visita.
+ */
+let mapaPromesa: Promise<MapaParejas | null> | null = null;
+function cargarMapa(): Promise<MapaParejas | null> {
+  if (!mapaPromesa) {
+    mapaPromesa = fetch("/parejas.json")
+      .then((r) => (r.ok ? (r.json() as Promise<MapaParejas>) : null))
+      .catch(() => {
+        mapaPromesa = null;
+        return null;
+      });
+  }
+  return mapaPromesa;
+}
+
+/**
  * Selector de idioma autoreferencial (sin banderas).
  *
- * Recibe del servidor únicamente las parejas de la página actual (≤3 URLs)
- * en lugar del mapa completo del sitio. Esto reduce el RSC payload de
- * ~568 KB a ~100 bytes por página.
+ * No recibe las parejas del servidor: leerlas con `headers()` hacía
+ * dinámicas todas las páginas. Las resuelve en cliente con `usePathname`
+ * y el mapa estático; mientras no carga, los enlaces apuntan a la home de
+ * cada idioma (las alternativas reales ya están en los `hreflang` del head).
  */
 type Props = {
-  /** Idioma activo en esta página — lo conoce el servidor, no hace falta usePathname. */
+  /** Idioma activo en esta página — lo conoce el servidor. */
   idioma: Idioma;
-  /** Parejas de la URL actual: {es: "/...", en: "/en/...", de: "/de/..."} o null. */
-  parejas: ParejaUrls | null;
 };
 
-export default function LanguageSwitcher({ idioma, parejas }: Props) {
+export default function LanguageSwitcher({ idioma }: Props) {
   const [abierto, setAbierto] = useState(false);
+  const [parejas, setParejas] = useState<ParejaUrls | null>(null);
   const wrapperRef = useRef<HTMLDivElement>(null);
+  const pathname = usePathname() ?? "/";
+
+  const precargar = useCallback(() => {
+    void cargarMapa().then((mapa) => setParejas(mapa?.[pathname] ?? null));
+  }, [pathname]);
+
+  useEffect(() => {
+    setParejas(null);
+  }, [pathname]);
 
   useEffect(() => {
     function onClickFuera(e: MouseEvent) {
@@ -70,7 +97,12 @@ export default function LanguageSwitcher({ idioma, parejas }: Props) {
     <div ref={wrapperRef} className="relative">
       <button
         type="button"
-        onClick={() => setAbierto((v) => !v)}
+        onClick={() => {
+          precargar();
+          setAbierto((v) => !v);
+        }}
+        onPointerEnter={precargar}
+        onFocus={precargar}
         className="flex items-center gap-1 text-slate-900 hover:text-sky-700 font-semibold transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
         aria-haspopup="listbox"
         aria-expanded={abierto}
@@ -112,7 +144,11 @@ export default function LanguageSwitcher({ idioma, parejas }: Props) {
                     // Navegación DURA para evitar el bug de prefetch-cache
                     // del router (ver comentario original en el historial).
                     e.preventDefault();
-                    window.location.assign(destino);
+                    void cargarMapa().then((mapa) => {
+                      window.location.assign(
+                        mapa?.[pathname]?.[lang] ?? destino,
+                      );
+                    });
                   }}
                   className={`block px-3 py-2 text-sm transition-colors ${
                     seleccionado
