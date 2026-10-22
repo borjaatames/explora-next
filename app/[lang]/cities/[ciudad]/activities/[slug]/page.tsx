@@ -27,6 +27,9 @@ import CalendarioReserva from "@/components/CalendarioReserva";
 import BokunWidget from "@/components/BokunWidget";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import DatosClave from "@/components/ficha/DatosClave";
+import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
+import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
+import { datosTripadvisorBokun } from "@/lib/tripadvisor";
 import PlegableMovil from "@/components/ficha/PlegableMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
@@ -123,6 +126,8 @@ export default async function ActividadPage({ params }: Props) {
   const parecidas = obtenerParecidasConTipo(lang, params.ciudad, actividad);
   const actividadesParecidas = parecidas.actividades;
   const otrasVersiones = parecidas.tipo === "casiIguales" ? parecidas.actividades : [];
+  const tripadvisor =
+    actividad.proveedor === "bokun" ? datosTripadvisorBokun(actividad.bokunProductId) : null;
 
   const url = `${SITE_URL}${actividad.url}`;
   // Viator y GetYourGuide solo soportan es/en en su propio sitio (ver
@@ -299,16 +304,18 @@ export default async function ActividadPage({ params }: Props) {
             </p>
           )}
 
+          {actividad.proveedor === "bokun" && (
+            <NotaTripadvisor
+              idioma={lang}
+              datos={tripadvisor}
+            />
+          )}
+
           {actividad.avisoReserva && (
-
             <p className="hidden md:flex mt-3 items-center gap-2 text-sm font-semibold text-amber-900 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 w-fit">
-
               <span aria-hidden="true" className="text-amber-500">!</span>
-
               {actividad.avisoReserva}
-
             </p>
-
           )}
 
           <DatosClave
@@ -395,6 +402,15 @@ export default async function ActividadPage({ params }: Props) {
                   ))}
                 </ul>
               </div>
+            )}
+
+            {/* 3a. Reseñas reales del proveedor (Tripadvisor Content API) */}
+            {tripadvisor && (
+              <ResenasTripadvisor
+                idioma={lang}
+                locationId={tripadvisor.locationId}
+                nombreProveedor={tripadvisor.nombre}
+              />
             )}
 
             {/* 3b. Otras versiones de la misma actividad */}

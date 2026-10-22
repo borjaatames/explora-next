@@ -1,0 +1,51 @@
+import type { DatosTripadvisor } from "@/lib/tripadvisor";
+import { textoRankingTripadvisor } from "@/lib/tripadvisor";
+import type { Idioma } from "@/lib/i18n/types";
+
+type Props = {
+  idioma: Idioma;
+  datos: DatosTripadvisor | null;
+};
+
+/**
+ * Resumen de Tripadvisor del proveedor (dato que Bókun da al revendedor),
+ * siempre atribuido a Tripadvisor. Es la ficha de Tripadvisor que el
+ * proveedor tiene vinculada en Bókun (a veces del operador, a veces del tour).
+ */
+export default function NotaTripadvisor({ idioma, datos }: Props) {
+  if (!datos) return null;
+  const es = idioma === "es";
+  const locale = es ? "es-ES" : "en-GB";
+  const nota = datos.rating.toLocaleString(locale, {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  });
+  const opiniones = datos.opiniones.toLocaleString(locale);
+  const ranking = textoRankingTripadvisor(datos.ranking, idioma);
+
+  return (
+    <p className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
+      <span className="font-semibold text-slate-900">Tripadvisor</span>
+      <span className="inline-flex items-center gap-1">
+        <span aria-hidden="true" className="text-amber-500">
+          ★
+        </span>
+        <span className="font-semibold text-slate-900">{nota}</span>
+      </span>
+      <span aria-hidden="true" className="text-slate-400">
+        ·
+      </span>
+      <span>
+        {es ? `${opiniones} opiniones` : `${opiniones} reviews`}
+      </span>
+      {ranking && (
+        <>
+          <span aria-hidden="true" className="text-slate-400">
+            ·
+          </span>
+          <span>{ranking}</span>
+        </>
+      )}
+    </p>
+  );
+}

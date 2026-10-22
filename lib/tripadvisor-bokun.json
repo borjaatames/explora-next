@@ -1,0 +1,449 @@
+{
+ "_fuente": "Bókun (widgets activity.tripadvisorReview), 22 oct 2026. Regenerar con los datos de Bókun; no editar a mano.",
+ "productos": {
+  "65519": {
+   "locationId": "1603406",
+   "nombre": "Barcelona Day Tours",
+   "rating": 4.9,
+   "opiniones": 4849,
+   "ranking": {
+    "posicion": 9,
+    "total": 2098,
+    "categoria": "Tours",
+    "lugar": "Barcelona"
+   }
+  },
+  "77414": {
+   "locationId": "9835076",
+   "nombre": "Native Spanish Tapas",
+   "rating": 5.0,
+   "opiniones": 627,
+   "ranking": {
+    "posicion": 27,
+    "total": 375,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
+   }
+  },
+  "77415": {
+   "locationId": "9835076",
+   "nombre": "Native Spanish Tapas",
+   "rating": 5.0,
+   "opiniones": 627,
+   "ranking": {
+    "posicion": 26,
+    "total": 375,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
+   }
+  },
+  "87207": {
+   "locationId": "1857107",
+   "nombre": "Spain Day Tours",
+   "rating": 4.9,
+   "opiniones": 1253,
+   "ranking": {
+    "posicion": 14,
+    "total": 676,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "87208": {
+   "locationId": "1857107",
+   "nombre": "Spain Day Tours",
+   "rating": 4.9,
+   "opiniones": 1251,
+   "ranking": {
+    "posicion": 14,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "133149": {
+   "locationId": "11469085",
+   "nombre": "Granada Sacromonte Caves Flamenco Show",
+   "rating": 3.1,
+   "opiniones": 21
+  },
+  "252363": {
+   "locationId": "3672320",
+   "nombre": "Segovia Balloons by Aerodifusion",
+   "rating": 4.9,
+   "opiniones": 234,
+   "ranking": {
+    "posicion": 5,
+    "total": 23,
+    "categoria": "Outdoor Activities",
+    "lugar": "Segovia"
+   }
+  },
+  "355715": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17885,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "544197": {
+   "locationId": "17793094",
+   "nombre": "Pub Crawl Madrid",
+   "rating": 4.9,
+   "opiniones": 3024,
+   "ranking": {
+    "posicion": 1,
+    "total": 753,
+    "categoria": "Nightlife",
+    "lugar": "Madrid"
+   }
+  },
+  "578005": {
+   "locationId": "7913394",
+   "nombre": "Barcelona Watersports",
+   "rating": 4.9,
+   "opiniones": 299,
+   "ranking": {
+    "posicion": 17,
+    "total": 340,
+    "categoria": "Boat Tours & Water Sports",
+    "lugar": "Barcelona"
+   }
+  },
+  "578006": {
+   "locationId": "7913394",
+   "nombre": "Barcelona Watersports",
+   "rating": 4.9,
+   "opiniones": 299,
+   "ranking": {
+    "posicion": 17,
+    "total": 341,
+    "categoria": "Boat Tours & Water Sports",
+    "lugar": "Barcelona"
+   }
+  },
+  "662268": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17866,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "673604": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17866,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "674376": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17865,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "674377": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17861,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "674378": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17827,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "677684": {
+   "locationId": "11461438",
+   "nombre": "Barcelona Tapas and Wine Experience Small-Group Walking Tour",
+   "rating": 4.9,
+   "opiniones": 6794
+  },
+  "680545": {
+   "locationId": "7913394",
+   "nombre": "Barcelona Watersports",
+   "rating": 4.9,
+   "opiniones": 299,
+   "ranking": {
+    "posicion": 17,
+    "total": 340,
+    "categoria": "Boat Tours & Water Sports",
+    "lugar": "Barcelona"
+   }
+  },
+  "682890": {
+   "locationId": "12578406",
+   "nombre": "2-Hour Small Group Cruise from Barcelona",
+   "rating": 4.9,
+   "opiniones": 35
+  },
+  "699837": {
+   "locationId": "7913394",
+   "nombre": "Barcelona Watersports",
+   "rating": 4.9,
+   "opiniones": 299,
+   "ranking": {
+    "posicion": 17,
+    "total": 340,
+    "categoria": "Boat Tours & Water Sports",
+    "lugar": "Barcelona"
+   }
+  },
+  "793771": {
+   "locationId": "23464703",
+   "nombre": "Skip The line Alhambra and Nasrid Palaces Private Tour",
+   "rating": 5.0,
+   "opiniones": 730
+  },
+  "850193": {
+   "locationId": "27471529",
+   "nombre": "Montserrat Full Day Tour with Castle-Winery Lunch & Wine Tasting",
+   "rating": 5.0,
+   "opiniones": 1369
+  },
+  "866939": {
+   "locationId": "12566919",
+   "nombre": "Park Guell and Sagrada Familia Tour with Skip the Line Tickets",
+   "rating": 4.8,
+   "opiniones": 7225
+  },
+  "866982": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17829,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "866988": {
+   "locationId": "11461438",
+   "nombre": "Barcelona Tapas and Wine Experience Small-Group Walking Tour",
+   "rating": 4.9,
+   "opiniones": 6783
+  },
+  "933448": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "933453": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "933466": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "934220": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "936816": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 17783,
+   "ranking": {
+    "posicion": 14,
+    "total": 606,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "938182": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "1005358": {
+   "locationId": "32880677",
+   "nombre": "Wonderful Memories",
+   "rating": 5.0,
+   "opiniones": 111,
+   "ranking": {
+    "posicion": 38,
+    "total": 2097,
+    "categoria": "Tours",
+    "lugar": "Barcelona"
+   }
+  },
+  "1022798": {
+   "locationId": "27742928",
+   "nombre": "Maison Prive Experiences",
+   "rating": 5.0,
+   "opiniones": 16,
+   "ranking": {
+    "posicion": 244,
+    "total": 1209,
+    "categoria": "Tours",
+    "lugar": "Madrid"
+   }
+  },
+  "1028868": {
+   "locationId": "33593570",
+   "nombre": "TuK Tuk Zero Madrid",
+   "rating": 5.0,
+   "opiniones": 5,
+   "ranking": {
+    "posicion": 328,
+    "total": 1205,
+    "categoria": "Tours",
+    "lugar": "Madrid"
+   }
+  },
+  "1028906": {
+   "locationId": "33593570",
+   "nombre": "TuK Tuk Zero Madrid",
+   "rating": 5.0,
+   "opiniones": 5,
+   "ranking": {
+    "posicion": 328,
+    "total": 1209,
+    "categoria": "Tours",
+    "lugar": "Madrid"
+   }
+  },
+  "1028912": {
+   "locationId": "33593570",
+   "nombre": "TuK Tuk Zero Madrid",
+   "rating": 5.0,
+   "opiniones": 5,
+   "ranking": {
+    "posicion": 328,
+    "total": 1205,
+    "categoria": "Tours",
+    "lugar": "Madrid"
+   }
+  },
+  "1099315": {
+   "locationId": "33593570",
+   "nombre": "TuK Tuk Zero Madrid",
+   "rating": 5.0,
+   "opiniones": 5,
+   "ranking": {
+    "posicion": 328,
+    "total": 1207,
+    "categoria": "Tours",
+    "lugar": "Madrid"
+   }
+  },
+  "1102299": {
+   "locationId": "32961080",
+   "nombre": "Formentera Wonders",
+   "rating": 4.6,
+   "opiniones": 365,
+   "ranking": {
+    "posicion": 10,
+    "total": 77,
+    "categoria": "Boat Tours & Water Sports",
+    "lugar": "Eivissa (Ibiza)"
+   }
+  },
+  "1122488": {
+   "locationId": "33286672",
+   "nombre": "TOP Salamanca : Private guided tour with your mobile",
+   "rating": 4.1,
+   "opiniones": 11
+  },
+  "1154004": {
+   "locationId": "34119074",
+   "nombre": "City Tuk Tuk Sevilla Tours",
+   "rating": 5.0,
+   "opiniones": 38,
+   "ranking": {
+    "posicion": 34,
+    "total": 488,
+    "categoria": "Sights & Landmarks",
+    "lugar": "Seville"
+   }
+  },
+  "1154015": {
+   "locationId": "34119074",
+   "nombre": "City Tuk Tuk Sevilla Tours",
+   "rating": 5.0,
+   "opiniones": 38,
+   "ranking": {
+    "posicion": 34,
+    "total": 488,
+    "categoria": "Sights & Landmarks",
+    "lugar": "Seville"
+   }
+  }
+ }
+}
