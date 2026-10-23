@@ -41,6 +41,7 @@ import {
   esIdiomaActivo,
 } from "@/lib/i18n/config";
 import type { Idioma } from "@/lib/i18n/types";
+import { rutaIndexable } from "@/lib/i18n/indexacion";
 
 /**
  * Excluye assets, API y archivos estáticos del middleware.
@@ -126,6 +127,10 @@ export function middleware(req: NextRequest) {
       maxAge: 60 * 60 * 24 * 365,
       sameSite: "lax",
     });
+    // Páginas DE fuera del índice (ver lib/i18n/indexacion.ts).
+    if (!rutaIndexable(pathname)) {
+      res.headers.set("X-Robots-Tag", "noindex, follow");
+    }
     return res;
   }
 

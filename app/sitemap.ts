@@ -27,6 +27,7 @@ import {
   slugParejaCiudad,
 } from "@/lib/i18n/slugs";
 import type { Idioma } from "@/lib/i18n/types";
+import { rutaIndexable } from "@/lib/i18n/indexacion";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -47,7 +48,7 @@ function alternatesPara(
   const languages: Record<string, string> = {};
   for (const lang of IDIOMAS_ACTIVOS) {
     const ruta = constructor(lang);
-    if (ruta !== null) {
+    if (ruta !== null && rutaIndexable(ruta)) {
       languages[lang] = `${SITE_URL}${ruta}`;
     }
   }
@@ -255,5 +256,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  return entries;
+  // Fuera las URLs con noindex (alemán salvo islas): ver lib/i18n/indexacion.ts.
+  return entries.filter((e) =>
+    rutaIndexable(e.url.slice(SITE_URL.length) || "/")
+  );
 }

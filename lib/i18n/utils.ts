@@ -6,6 +6,7 @@ import {
   esIdiomaActivo,
 } from "./config";
 import type { Idioma } from "./types";
+import { rutaIndexable } from "./indexacion";
 
 export function prefijoIdioma(idioma: Idioma): string {
   return idioma === IDIOMA_DEFECTO ? "" : `/${idioma}`;
@@ -139,7 +140,9 @@ export function hreflangAlternates(
 
   for (const lang of IDIOMAS_ACTIVOS) {
     const ruta = constructorUrl(lang);
-    if (ruta !== null) {
+    // Solo alternativas indexables: un hreflang hacia una página noindex
+    // es una señal contradictoria.
+    if (ruta !== null && rutaIndexable(ruta)) {
       result[lang] = `${SITE_URL}${ruta}`;
     }
   }
