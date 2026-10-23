@@ -114,10 +114,10 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.w
 imagenAlt: "Gilded ceiling of a hall in the Real Alcázar of Seville"
 
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
-    alt: "Mudéjar arcade of the Royal Alcázar — premium small group format"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Patio de las Doncellas of the Royal Alcázar of Seville — premium small-group tour"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+    alt: "Baths of Doña María de Padilla in the Royal Alcázar"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+    alt: "Courtyard of the Maidens in the Royal Alcázar"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
     alt: "Mudéjar plasterwork arches in the Real Alcázar"
   - src: "/images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp"

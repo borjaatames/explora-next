@@ -11,3 +11,6 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `barrio-de-las-letras-madrid-foto-774234-hero.webp` — Wikimedia Commons, CC BY 2.5, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Madrid_20.JPG)
 - `barrio-letras-calle-huertas.webp` — Gerda Arendt, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Calle_de_las_Huertas,_Madrid.jpg)
 - `barrio-letras-huertas-versos.webp` — Gerda Arendt, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Calle_de_las_Huertas,_Madrid,_poem.jpg)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `barrio-letras-madrid-foto-774234-hero.webp` — Wikimedia Commons, CC BY 2.5, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Madrid_20.JPG)

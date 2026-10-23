@@ -9,7 +9,7 @@ slugs:
   en: camp-nou-fc-barcelona-museum-immersive-tour
 duracion: 1.5 - 2 hours (self-paced)
 duracionMinutos: 90
-precioDesde: 28
+precioDesde: 30.1
 moneda: EUR
 idiomas:
 - es
@@ -139,23 +139,15 @@ keywords:
 - fc barcelona museum
 - camp nou renovation visit
 - barca immersive exhibition
-imagen: "/images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp"
-imagenAlt: Barcelona street scene with historic architecture and pedestrians
+imagen: "/images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp"
+imagenAlt: "Red stands of Camp Nou"
 galeria:
-- src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
-  alt: "Red stands and roof of Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
   alt: "Red stands of Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
   alt: "Camp Nou stands spelling out FC Barcelona"
-- src: /images/actividades/barcelona/camp-nou/images-hero.webp
-  alt: "Camp Nou pitch seen from above"
 - src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
   alt: "Kubala statue outside Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
-  alt: "Aerial night view of Spotify Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
-  alt: "Rendering of Spotify Camp Nou lit up at night"
 ratingProveedor: 4.3
 numeroOpiniones: 12092
 publicada: true

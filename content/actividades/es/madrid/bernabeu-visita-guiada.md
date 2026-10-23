@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 horas"
 duracionMinutos: 120
-precioDesde: 62
+precioDesde: 58
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -96,8 +96,8 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["bernabeu visita guiada", "bernabeu tour guiado", "tour real madrid guia", "estadio bernabeu guiado", "santiago bernabeu visita guiada espanol"]
 
-imagen: "/images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp"
-imagenAlt: "Vestuario del Real Madrid en el Estadio Santiago Bernabéu"
+imagen: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"
+imagenAlt: "Gradas y terreno de juego del Bernabéu reformado"
 
 galeria:
   - src: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"

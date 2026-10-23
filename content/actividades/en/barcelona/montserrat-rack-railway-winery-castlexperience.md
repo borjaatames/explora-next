@@ -9,7 +9,7 @@ slugs:
   es: montserrat-cremallera-bodega-castlexperience
 duracion: 6-10 hours
 duracionMinutos: 480
-precioDesde: 47
+precioDesde: 39
 moneda: EUR
 idiomas:
 - es

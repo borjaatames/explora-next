@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagen_alt: "Colorful stained glass windows inside Barcelona's Sagrada Familia"
+imagen_alt: Sagrada Familia basilica front facade with towering spires, Barcelona
 keywords:
   - "sagrada familia how to visit"
   - "sagrada familia tickets"

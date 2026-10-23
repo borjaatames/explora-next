@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/prado-reina-sofia-thyssen-comparativa.jpg"
-imagen_alt: "Façade of the Museo del Prado in Madrid"
+imagen_alt: Facade of the Prado Museum on the Paseo del Arte, Madrid
 keywords:
   - "prado vs reina sofia"
   - "which museum madrid"

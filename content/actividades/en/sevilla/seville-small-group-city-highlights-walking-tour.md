@@ -2,7 +2,7 @@
 titulo: "Seville: Premium Small-Group Walking Tour — City Highlights (Max 10 People, 4.9/5)"
 slug: "seville-small-group-city-highlights-walking-tour"
 ciudad: "sevilla"
-descripcion: "PREMIUM small-group walking tour (max 10 people) through Seville's most iconic places: Cathedral, Giralda, Royal Alcázar (exteriors), Barrio Santa Cruz and Plaza de España. 1,475 reviews at 4.9/5 (Top rated). 2 hours, official licensed guide in English and Spanish. From €26."
+descripcion: "PREMIUM small-group walking tour (max 10 people) through Seville's most iconic places: Cathedral, Giralda, Royal Alcázar (exteriors), Barrio Santa Cruz and Plaza de España. 1,475 reviews at 4.9/5 (Top rated). 2 hours, official licensed guide in English and Spanish. From €25."
 
 slugs:
   es: "sevilla-small-group-city-highlights-walking-tour"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 hours"
 duracionMinutos: 120
-precioDesde: 26
+precioDesde: 25
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -24,7 +24,7 @@ highlights:
   - "Classic itinerary: Cathedral + Giralda + Royal Alcázar (exteriors) + Barrio Santa Cruz + Plaza de España"
   - "2 hours with official licensed guide"
   - "Live guide in English and Spanish"
-  - "From €26 — excellent value for premium small group format"
+  - "From €25 — excellent value for premium small group format"
   - "«Booked 5 times yesterday» — high demand, book in advance"
   - "FREE cancellation up to 24h before"
 
@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "Why is it Seville's best-rated walking tour?"
     respuesta: "**4.9/5 with 1,475 reviews** positions it as the general walking tour with the highest rating in Seville. The success formula has three pillars: (1) **Group size MAX 10** — vs. standard tours of 20-30 people, small group allows direct interaction with the guide, questions anytime, pace adapted to the group. (2) **Well-executed classic itinerary** — covers the essentials (Cathedral exterior + Giralda + Royal Alcázar exterior + Barrio Santa Cruz + Plaza España) without skipping highlights. (3) **Official licensed guides** with rigorous historical context. For €26 the value is excellent — an equivalent private tour costs €150+."
   - pregunta: "What's the difference vs. `seville-guided-walking-tour-plaza-espana-visit` (Plaza España specific)?"
-    respuesta: "**This (City Highlights, t491716):** Classic UNESCO monuments itinerary (Cathedral, Giralda, Alcázar exteriors) + Santa Cruz + Plaza España. Max 10 people, 4.9/5 with 1,475 reviews. From €26. RECOMMENDED if you want general overview of top monuments. **Plaza España (t1277605):** Specific itinerary Las Setas → Plaza España focused on 20th-century architecture and the 1929 Exposition. ES+EN, from €32. RECOMMENDED if your priority is Plaza España with context. Key difference: this is CLASSIC MONUMENTAL FOCUS; the other is MODERN + PLAZA ESPAÑA FOCUS. If you can only do one and you're a Seville first-timer, this (Highlights) covers more ground."
+    respuesta: "**This (City Highlights, t491716):** Classic UNESCO monuments itinerary (Cathedral, Giralda, Alcázar exteriors) + Santa Cruz + Plaza España. Max 10 people, 4.9/5 with 1,475 reviews. From €25. RECOMMENDED if you want general overview of top monuments. **Plaza España (t1277605):** Specific itinerary Las Setas → Plaza España focused on 20th-century architecture and the 1929 Exposition. ES+EN, from €32. RECOMMENDED if your priority is Plaza España with context. Key difference: this is CLASSIC MONUMENTAL FOCUS; the other is MODERN + PLAZA ESPAÑA FOCUS. If you can only do one and you're a Seville first-timer, this (Highlights) covers more ground."
   - pregunta: "Does the tour enter the Cathedral or Alcázar?"
     respuesta: "NO — this is an EXTERIOR walking tour. You'll see the Cathedral, Giralda and Royal Alcázar **from the outside**, but you don't enter any of them. For interiors, you need: (1) Cathedral+Giralda+Alcázar guided combo (`seville-priority-access-cathedral-giralda-alcazar-tour` — top selling 9,797 reviews, from €62), (2) Cathedral independently with ticket (`seville-cathedral-giralda-entry-ticket` from €15), (3) Alcázar guided (`royal-alcazar-seville-skip-line-guided-tour` from €39). Many visitors do this walking tour in the morning + interior tours in the afternoon — ideal combination to discover Seville in 1-2 days."
   - pregunta: "What languages is it available in?"
@@ -110,20 +110,20 @@ imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callej
 imagenAlt: "Callejón del Agua in the Santa Cruz quarter"
 
 galeria:
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
-    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
+  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
+    alt: The Roman theatre of Gades
   - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
     alt: "Metropol Parasol (Las Setas) en Sevilla"
   - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
     alt: "Casas de colores del barrio de Triana junto al rio Guadalquivir"
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Premium walking tour Seville — Cathedral exterior and Giralda"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+    alt: "The Giralda seen from the walls of the Royal Alcázar"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "The Giralda lit up"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Courtyard of the Maidens, Royal Alcázar"
-  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
-    alt: "Plaza de España in Seville"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+    alt: "Baths of Doña María de Padilla in the Royal Alcázar"
+  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp"
+    alt: "Plaza de España lit up at night"
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "General Archive of the Indies"
 

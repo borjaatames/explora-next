@@ -73,8 +73,6 @@ galeria:
   alt: Plaza Mayor de Madrid, con sus edificios porticados de fachada roja
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
   alt: Relieve esculpido en una esquina de la Calle Mayor de Madrid, con una inscripcion en latin
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-explore-quaint-urban-street-hero.webp
-  alt: Calle estrecha del Madrid de los Austrias, con una torreta al fondo
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-05-hero.webp
   alt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp

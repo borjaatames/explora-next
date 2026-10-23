@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/pintxos-bilbao.jpg"
-imagen_alt: "Barra de pintxos típica del Casco Viejo de Bilbao"
+imagen_alt: Gildas de guindilla, anchoa y aceituna
 tiempo_lectura: 3
 keywords:
   - "pintxos bilbao"

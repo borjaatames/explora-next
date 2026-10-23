@@ -8,7 +8,7 @@ slugs:
   en: palma-aquarium-entry-ticket
 duracion: Válida 1 día
 duracionMinutos: 180
-precioDesde: 31
+precioDesde: 30.5
 moneda: EUR
 idiomas:
 - es

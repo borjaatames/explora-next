@@ -43,8 +43,6 @@ keywords:
 imagen: "/images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp"
 imagenAlt: Vista aerea del pueblo de Montanejos encajado en el canon del rio Mijares, Castellon
 galeria:
-  - src: "/images/actividades/valencia/montanejos/montanejos-01.webp"
-    alt: "Vista general de Montanejos junto al río Mijares"
   - src: "/images/actividades/valencia/montanejos/montanejos-torre-plaza.webp"
     alt: "Torre y plaza de la iglesia en el pueblo de Montanejos"
   - src: "/images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp"

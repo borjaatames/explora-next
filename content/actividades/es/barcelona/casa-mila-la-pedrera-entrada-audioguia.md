@@ -10,7 +10,7 @@ slugs:
 
 duracion: "Visita libre (típicamente 1-1,5 horas)"
 duracionMinutos: 75
-precioDesde: 25
+precioDesde: 29
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

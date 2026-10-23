@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Panoramic view of Seville at sunset"
+imagen_alt: "Callejón del Agua in the Santa Cruz quarter"
 keywords:
   - "seville in 3 days"
   - "what to see in seville"

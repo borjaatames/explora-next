@@ -8,7 +8,7 @@ slugs:
   en: yeguada-de-la-cartuja-jerez-tour
 duracion: 2,5 horas
 duracionMinutos: 150
-precioDesde: 20
+precioDesde: 19.5
 moneda: EUR
 idiomas:
 - es

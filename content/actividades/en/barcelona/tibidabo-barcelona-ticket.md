@@ -67,12 +67,8 @@ keywords:
 imagen: /images/actividades/barcelona/tibidabo/panoramica-parque.webp
 imagenAlt: "Tibidabo amusement park with Barcelona in the background"
 galeria:
-- src: "/images/actividades/barcelona/tibidabo/avion-rojo-vistas-barcelona.webp"
-  alt: "Tibidabo's red airplane ride with views over Barcelona"
 - src: "/images/actividades/barcelona/tibidabo/noria-templo-expiatorio.webp"
   alt: "Tibidabo Ferris wheel next to the Sagrat Cor church"
-- src: "/images/actividades/barcelona/tibidabo/carrusel-aereo-vistas.webp"
-  alt: "Aerial view of the carousel at Tibidabo park"
 - src: /images/actividades/barcelona/tibidabo/noria-mar.webp
   alt: "Ferris wheel and rides at Tibidabo above the sea"
 - src: /images/actividades/barcelona/tibidabo/avio.webp

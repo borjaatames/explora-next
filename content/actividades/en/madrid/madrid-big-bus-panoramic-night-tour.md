@@ -9,7 +9,7 @@ slugs:
   en: madrid-big-bus-panoramic-night-tour
 duracion: 70 minutes
 duracionMinutos: 70
-precioDesde: 28
+precioDesde: 23.4
 moneda: EUR
 idiomas:
 - es

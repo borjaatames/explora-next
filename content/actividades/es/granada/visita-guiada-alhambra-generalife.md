@@ -11,7 +11,7 @@ slugs:
   en: alhambra-generalife-guided-tour
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 54
+precioDesde: 49
 moneda: EUR
 idiomas:
 - es

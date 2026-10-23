@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hora"
 duracionMinutos: 60
-precioDesde: 18
+precioDesde: 20
 moneda: "EUR"
 idiomas: ["es"]
 proveedor: "getyourguide"
@@ -89,20 +89,14 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "flamenco sacromonte", "cueva flamenca granada", "cueva la faraona", "espectaculo flamenco intimo granada"]
 
 
-imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cueva-publico.webp"
-imagenAlt: "Zambra flamenca dentro de la Cueva La Faraona, con el público alrededor"
+imagen: "/images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-bailaora-cuadro.webp"
+imagenAlt: "Bailaora y cuadro en la Cueva La Faraona, en blanco y negro"
 
 galeria:
-- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-escenario-bailaora.webp
-  alt: "Bailaora en escena en el espectáculo de La Faraona"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-bailaora-cuadro.webp
   alt: "Bailaora y cuadro en la Cueva La Faraona, en blanco y negro"
-- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-bailaoras.webp
-  alt: "Bailaoras de la Cueva La Faraona con trajes rojos"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-entrada-cueva.webp
   alt: "Entrada de la Cueva La Faraona en el Sacromonte"
-- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cantaora-cueva.webp
-  alt: "Cantaora con mantón en la Cueva La Faraona"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-cantaora.webp
   alt: "Cantaora de la Cueva La Faraona"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-guitarrista.webp

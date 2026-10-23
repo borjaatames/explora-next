@@ -131,8 +131,8 @@ imagenAlt: "Red and white horseshoe arches with columns in the central nave of C
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
   alt: "AVE high-speed train at the station"
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
-  alt: "Street in Córdoba's Jewish Quarter"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores with blue flowerpots
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-perspectiva.webp
   alt: "Perspective of two-tone arches in the Mosque"
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp

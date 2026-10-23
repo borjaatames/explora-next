@@ -48,12 +48,12 @@ atracciones:
     imagenAlt: "Valencia Cathedral and the Miguelete tower on Plaza de la Virgen"
   - nombre: "La Lonja de la Seda"
     descripcion: "The jewel of Valencian civic Gothic and a UNESCO World Heritage Site. Its Hall of Columns, with twisting stone palm trees, recalls the splendour of 15th-century mercantile Valencia."
-    imagen: "/images/actividades/valencia/lonja-seda/lonja-valencia-hero.webp"
-    imagenAlt: "La Lonja de la Seda in Valencia, a UNESCO civil Gothic landmark"
+    imagen: "/images/actividades/valencia/centro/lonja-fachada.webp"
+    imagenAlt: Gothic façade of the Silk Exchange
   - nombre: "Central Market"
     descripcion: "One of the largest fresh-produce markets in Europe, in a Modernista building of iron, glass and ceramic. A must to soak up Valencian produce and grab a mid-morning bite."
-    imagen: "/images/actividades/valencia/mercado-central/mercado-central-valencia-hero.webp"
-    imagenAlt: "Modernista interior of Valencia's Central Market"
+    imagen: "/images/actividades/valencia/centro/mercado-central-interior.webp"
+    imagenAlt: Art Nouveau interior of the Central Market
   - nombre: "La Albufera"
     descripcion: "The natural park on the outskirts: lagoon, rice paddies and traditional barracas. This is where Valencian paella was born. A sunset boat ride among the rice fields is one of the loveliest plans near the city."
     imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"

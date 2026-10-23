@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"
-imagen_alt: "Palma Cathedral in Mallorca at sunset"
+imagen_alt: "Turquoise water at Caló des Moro cove in Mallorca"
 tiempo_lectura: 11
 keywords:
   - "best coves in mallorca"

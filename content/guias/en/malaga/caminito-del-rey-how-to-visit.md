@@ -64,14 +64,16 @@ The Caminito is a **linear** route of about 7.7 km (3 km of walkways anchored to
 
 > **⭐ Tip:** tickets go on sale months ahead on the official site and vanish. Check the available Caminito dates first and **build the trip around that day**, not the other way round.
 
+If the official site is already sold out, [what to do when Caminito del Rey tickets are sold out](/en/guides/malaga/caminito-del-rey-tickets-sold-out) covers every option left.
+
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Prices, opening hours and ages
 
 - **General ticket:** €10 on your own and €18 with the official guided visit, always on the official website and with a fixed entry time. The **shuttle bus** between the south entrance (El Chorro) and the north one (Ardales) costs €2.50 and is best bought with the ticket.
-- **Opening hours:** Tuesday to Sunday, with entries every half hour from 9:00 until early afternoon (later in summer). **Closed on Mondays** and on days of strong wind or heavy rain, with a refund.
+- **Opening hours:** Tuesday to Sunday, with entries every half hour from 9:00 until early afternoon (later in summer). **Closed on Mondays** and on days of strong wind or heavy rain, when you can move your ticket to another date from your personal area, subject to availability.
 - **Minimum age: 8**, with no exceptions, and under-18s must be with an adult. There is no upper age limit, but it is 7.7 km with no benches or shade.
-- **Capacity:** about 1,100 people a day. Tickets are released by semester and spring and autumn dates sell out in days; high summer and winter weekdays much less so.
+- **Capacity:** up to 1,500 people a day. Tickets are released by semester and spring and autumn dates sell out in days; high summer and winter weekdays much less so.
 - **Total time:** 3 to 4 hours including the walks in (1.5-2.7 km from each car park, depending on the entrance) and the shuttle. If you come by train from Málaga, allow the whole day.
 - **Helmet compulsory** (provided on site); umbrellas, metal-tipped poles, drones and pets are not allowed.
 - **Toilets:** only at the entrances, not along the route.

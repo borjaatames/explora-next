@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-3-dias.jpg"
-imagen_alt: "Panoramablick auf Barcelona in der Abenddämmerung"
+imagen_alt: "Park Güell mit Gaudís Mosaiken und Blick auf Barcelona"
 tiempo_lectura: 16
 keywords:
   - "barcelona in 3 tagen"

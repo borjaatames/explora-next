@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/tapas-madrid-criterio.jpg"
-imagen_alt: "Cortador de jamón ibérico preparando lonchas finas en un bar de Madrid"
+imagen_alt: Interior de madera de una taberna tradicional de Madrid
 tiempo_lectura: 5
 keywords:
   - "mejores tapas madrid"

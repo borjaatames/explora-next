@@ -7,3 +7,6 @@
 - `belugas.webp` — Léodras, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:B%C3%A9lugas_Oceanografic.jpg) · recortada a 1600×1200
 - `hemisferic-atardecer.webp` — Diliff, CC BY 2.5, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hemispheric_-_Valencia%2C_Spain_-_Jan_2007.jpg) · recortada a 1600×1200
 - `ciudad-artes-noche.webp` — Chosovi, CC BY-SA 2.5, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ciudad_de_las_ciencias_noche.JPG) · recortada a 1600×1200
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `oceanografic-valencia-hero.webp` — Pixabay, ELG21 (Licencia Pixabay) — https://pixabay.com/photos/oceanarium-valencia-building-7553126/ (misma foto que /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp)

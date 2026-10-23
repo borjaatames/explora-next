@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
-imagen_alt: "Catedral de Santa María de Palma de Mallorca (La Seu) al atardecer"
+imagen_alt: Fachada de la Catedral de Palma (La Seu) sobre la bahía
 tiempo_lectura: 4
 keywords:
   - "qué ver en mallorca"

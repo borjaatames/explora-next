@@ -77,8 +77,8 @@ keywords:
 - cuevas de nerja desde malaga
 - nerja y frigiliana
 - frigiliana desde malaga
-imagen: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp
-imagenAlt: Balcón de Europa en Nerja con vistas al mar
+imagen: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
+imagenAlt: "Estalactitas iluminadas en una sala de la Cueva de Nerja"
 galeria:
 - src: "/images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp"
   alt: "Calle encalada con macetas en Frigiliana"
@@ -86,8 +86,6 @@ galeria:
   alt: Interior de la Cueva de Nerja con estalactitas
 - src: /images/actividades/malaga/frigiliana/frigiliana-calle.webp
   alt: Calle de casas blancas en Frigiliana
-- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp
-  alt: Entrada exterior de la Cueva de Nerja
 - src: /images/actividades/malaga/frigiliana/frigiliana-panoramica.webp
   alt: Vista panorámica de Frigiliana hacia el mar
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-playa-burriana-03-hero.webp

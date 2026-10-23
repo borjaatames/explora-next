@@ -10,7 +10,7 @@ slugs:
 
 duracion: "105 minutos"
 duracionMinutos: 105
-precioDesde: 39
+precioDesde: 36
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -122,18 +122,18 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["real alcazar sevilla tour guiado", "alcazar sevilla sin colas", "tour alcazar español", "palacio mudejar pedro i", "alcazar juego de tronos dorne"]
 
-imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
-imagenAlt: "Patio de las Doncellas del Real Alcázar de Sevilla con estanque alargado y arquería mudéjar"
+imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+imagenAlt: "Baños de Doña María de Padilla en el Real Alcázar"
 
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
-    alt: "Arquerías mudéjares del Real Alcázar de Sevilla"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+    alt: "Baños de Doña María de Padilla en el Real Alcázar"
   - src: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
     alt: "Patio interior del Real Alcazar de Sevilla"
   - src: "/images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp"
     alt: "Banos de Dona Maria de Padilla en el Real Alcazar de Sevilla"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Patio de las Doncellas — la joya mudéjar del Real Alcázar de Sevilla"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+    alt: "Patio de las Doncellas del Real Alcázar"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
     alt: "Estanque de Mercurio en los jardines del Alcázar"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"

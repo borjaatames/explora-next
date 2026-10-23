@@ -90,8 +90,8 @@ galeria:
   alt: Roman aqueduct of Segovia
 - src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp
   alt: North façade of the Alcázar of Toledo
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: Alcázar of Segovia (exterior)
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp
+  alt: Alcázar of Segovia fortress with towers and crenellations overlooking the landscape
 - src: /images/actividades/avila/catedral-avila/pixabay-573069-hero.webp
   alt: Cathedral of Ávila
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
@@ -100,8 +100,8 @@ galeria:
   alt: "Visitors in the square in front of Toledo Cathedral"
 - src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
   alt: Stone walls of Ávila
-- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
-  alt: San Martín bridge, Toledo
+- src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp
+  alt: "San Martín Bridge over the Tagus"
 - src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
   alt: Narrow historic alleyway in Toledo
 - src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp

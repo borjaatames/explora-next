@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"
-imagen_alt: "Blick auf die Römische Brücke über den Fluss Tormes in Salamanca"
+imagen_alt: "Beleuchtete Plaza Mayor von Salamanca bei Nacht"
 tiempo_lectura: 11
 keywords:
   - "salamanca wochenende"

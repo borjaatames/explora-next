@@ -114,13 +114,13 @@ keywords:
 - excursion gaitanes
 - pasarela malaga andalucia
 - caminito del rey con entrada
-imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
-imagenAlt: "Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes rocosas verticales."
+imagen: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
+imagenAlt: "Turistas recorriendo las pasarelas del Caminito"
 galeria:
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
-  alt: "Puentes colgantes y pasarelas suspendidas entre montañas con vistas del paisaje natural de Granada"
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
-  alt: "Excursionista con mochila caminando por pasarela de seguridad en ruta de senderismo de Granada"
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
+  alt: "Vista aérea del desfiladero y la vegetación"
+- src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
+  alt: "Puente colgante del Caminito del Rey sobre el río"
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
   alt: "Pasarela colgante del Caminito del Rey"
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp

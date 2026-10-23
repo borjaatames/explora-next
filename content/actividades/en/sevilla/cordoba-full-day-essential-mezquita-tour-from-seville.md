@@ -4,13 +4,13 @@ slug: cordoba-full-day-essential-mezquita-tour-from-seville
 ciudad: sevilla
 descripcion: 10-hour guided tour to Córdoba from Seville with visit to the Mezquita-Cathedral (UNESCO), Jewish Quarter, Synagogue
   and Alcázar of the Christian Kings. Transport + official guide in Spanish or English + entries + breakfast and lunch included.
-  Hotel/central pickup. From €115.
+  Hotel/central pickup. From €109.
 slugs:
   es: cordoba-excursion-dia-completo-mezquita-desde-sevilla
   en: cordoba-full-day-essential-mezquita-tour-from-seville
 duracion: 10 - 10.5 hours
 duracionMinutos: 615
-precioDesde: 115
+precioDesde: 109
 moneda: EUR
 idiomas:
 - es
@@ -86,7 +86,7 @@ politicaCancelacion: 'FREE cancellation up to 24 hours before the start time —
 preguntasFrecuentes:
 - pregunta: What's the difference vs. the premium AVE option (t979945)?
   respuesta: '**This tour (standard bus):** 10h, tourist bus transport, standard large group (15-30 people), includes breakfast
-    and lunch, from €115. RECOMMENDED if you want affordable price + large group. **Premium AVE (t979945):** ~8h, AVE Seville-Córdoba
+    and lunch, from €109. RECOMMENDED if you want affordable price + large group. **Premium AVE (t979945):** ~8h, AVE Seville-Córdoba
     (45 min vs. 1h45min by bus), small group MAX 8 people, more exclusive format, no included meal (you have lunch independently
     in Córdoba). RECOMMENDED if you value fast transport + small group. Key difference: AVE saves 2 hours of travel but you
     lose the included meal and the price goes up ~€50.'
@@ -161,8 +161,8 @@ imagenAlt: Vast interior nave with red-and-white striped horseshoe arches and co
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
   alt: "Mosque and Roman bridge of Córdoba"
-- src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
-  alt: "Arches inside the Mosque of Córdoba"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores with blue flowerpots
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp
   alt: "Forest of columns in the Mosque of Córdoba"
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-lamparas.webp

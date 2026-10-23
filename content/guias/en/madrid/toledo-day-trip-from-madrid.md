@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
-imagen_alt: "The Alcázar of Toledo, the fortress crowning the city"
+imagen_alt: The Alcázar of Toledo, Spain
 tiempo_lectura: 5
 keywords:
   - "toledo day trip"

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: "Die Cuatro Torres von Madrid mit Vollmond bei Sonnenuntergang"
+imagen_alt: "Skulpturensaal im Museo Reina Sofía"
 tiempo_lectura: 11
 keywords:
   - "madrid kostenlos"

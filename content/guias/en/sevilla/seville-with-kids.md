@@ -9,7 +9,7 @@ autor: ExploraSpain editorial team
 publicada: true
 destacada: false
 imagen_portada: /images/guias/sevilla-con-ninos.jpg
-imagen_alt: Traditional plaza in Seville's Triana neighborhood
+imagen_alt: Iguazú water ride at Isla Mágica, Seville
 keywords:
 - seville with kids
 - things to do in seville with kids

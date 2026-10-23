@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
-imagen_alt: "Römisches Amphitheater von Tarragona mit dem Mittelmeer im Hintergrund"
+imagen_alt: "Die Kathedrale von Tarragona"
 tiempo_lectura: 11
 keywords:
   - "was sehen in tarragona"

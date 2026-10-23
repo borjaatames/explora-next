@@ -8,7 +8,7 @@ slugs:
   en: terra-mitica-benidorm-ticket
 duracion: 'Full day'
 duracionMinutos: 480
-precioDesde: 28
+precioDesde: 29
 moneda: EUR
 idiomas:
 - es

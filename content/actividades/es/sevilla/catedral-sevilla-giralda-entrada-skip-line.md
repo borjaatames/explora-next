@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 día (visita estimada 75 min)"
 duracionMinutos: 75
-precioDesde: 15
+precioDesde: 17.5
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -136,8 +136,8 @@ galeria:
     alt: "La Giralda de Sevilla con detalle de su arquitectura mudéjar"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-06.webp"
     alt: "Interior de la Catedral de Sevilla"
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp"
+    alt: "Detalle de la Giralda y la Catedral de Sevilla"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "Vista panorámica de la Catedral de Sevilla con la Giralda iluminada al atardecer"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"

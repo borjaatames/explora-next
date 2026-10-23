@@ -8,7 +8,7 @@ slugs:
   en: palacio-de-viana-patios-ticket
 duracion: 1 hora aproximadamente
 duracionMinutos: 60
-precioDesde: 9
+precioDesde: 8.5
 moneda: EUR
 idiomas:
 - es

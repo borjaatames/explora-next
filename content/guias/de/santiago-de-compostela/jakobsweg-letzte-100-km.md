@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
-imagen_alt: "Dächer von Santiago de Compostela mit den Kathedraltürmen im Hintergrund"
+imagen_alt: "Rúa do Franco mit der Kathedrale von Santiago im Hintergrund"
 tiempo_lectura: 12
 keywords:
   - "jakobsweg letzte 100 km"

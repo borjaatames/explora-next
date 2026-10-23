@@ -94,15 +94,15 @@ keywords:
 - alpujarra small group
 - discovering spain alpujarra
 - curated white villages tour
-imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp"
-imagenAlt: White villages cascading down Alpujarra mountain slopes with traditional cubic Andalusian architecture near Granada
+imagen: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp"
+imagenAlt: "Tinao, a covered passage typical of the Alpujarra"
 galeria:
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: "Mountain gorge with white villages cascading down verdant slopes in Granada's Alpujarra region"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
-  alt: "Small group tourists exploring Granada's historic streets with attentive local guide, experiencing authentic cultural heritage."
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp
-  alt: "Sierra Nevada mountain range with alpine vegetation and natural sunlight illuminating the Alpujarra peaks near Granada"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
+  alt: "Flat roofs with laundry drying in the Alpujarra"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
+  alt: "Alpujarra white village on the hillside"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
+  alt: "Alpujarra rugs for sale in Pampaneira"
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pexels-29136853.webp
   alt: "Whitewashed chapel in the Alpujarra"
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp

@@ -123,8 +123,8 @@ galeria:
   alt: Iglesia marrón y blanca junto a árboles en Park Güell, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Basílica de la Sagrada Familia de Barcelona con sus torres góticas y fachadas decoradas
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia con torres en construcción, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
   alt: Estatua de hormigón verde y amarillo en el Parque Güell de Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp

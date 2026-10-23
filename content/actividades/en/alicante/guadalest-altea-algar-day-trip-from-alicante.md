@@ -8,7 +8,7 @@ slugs:
   en: guadalest-altea-algar-day-trip-from-alicante
 duracion: 11 hours
 duracionMinutos: 660
-precioDesde: 39
+precioDesde: 47
 moneda: EUR
 idiomas:
 - en

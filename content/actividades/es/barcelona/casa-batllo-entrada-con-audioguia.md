@@ -9,7 +9,7 @@ slugs:
   en: casa-batllo-entry-with-audioguide
 duracion: Visita libre (típicamente 1h 15min)
 duracionMinutos: 75
-precioDesde: 31
+precioDesde: 29
 moneda: EUR
 idiomas:
 - es

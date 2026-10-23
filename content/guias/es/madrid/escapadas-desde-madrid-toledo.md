@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
-imagen_alt: "Alcázar de Toledo, la fortaleza que corona la ciudad"
+imagen_alt: "El Alcázar de Toledo sobre el casco histórico"
 tiempo_lectura: 4
 keywords:
   - "escapadas desde madrid"

@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/salamanca-en-1-dia.jpg"
-imagen_alt: "Plaza Mayor of Salamanca, one of the most beautiful in Spain"
+imagen_alt: Salamanca's Plaza Mayor
 keywords:
   - "salamanca in 1 day"
   - "what to see in salamanca"

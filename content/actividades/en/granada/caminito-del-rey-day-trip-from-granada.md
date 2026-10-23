@@ -114,13 +114,13 @@ keywords:
 - gaitanes gorge tour
 - malaga walkway andalusia
 - caminito del rey with ticket
-imagen: "/images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp"
-imagenAlt: "Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls"
+imagen: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
+imagenAlt: "Visitors walking along the Caminito's walkways"
 galeria:
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
-  alt: "Suspension bridges and mountain pathways in Granada's natural landscape during a 5km hiking route"
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
-  alt: "Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible"
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
+  alt: "Aerial view of the gorge and vegetation"
+- src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
+  alt: "Caminito del Rey suspension bridge over the river"
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
   alt: "Hanging bridge on the Caminito del Rey"
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp

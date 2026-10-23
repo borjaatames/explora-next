@@ -27,3 +27,9 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `casa-batllo-high-first-gaudi-barcelona-bart-3-hero.webp` — pcsfish, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/high-first-gaud%C3%AD-barcelona-5049250/)
 - `casa-batllo-high-first-gaudi-barcelona-bart-5-hero.webp` — pcsfish, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/high-first-gaud%C3%AD-barcelona-5049248/)
 - `unsplash-t0oqiXZ2zBU-hero.webp` — Unsplash, foto t0oqiXZ2zBU, licencia Unsplash (https://unsplash.com/photos/t0oqiXZ2zBU)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `wikimedia-78111992-hero.webp` — Simon Burchell, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3,_Barcelona_58.jpg)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `wikimedia-5874108-hero.webp` — Frank K., CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Gaudi%27s_Casa_Batllo,_Barcelona,_Spain_(IMG_5380a).jpg)

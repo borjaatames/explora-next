@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"
-imagen_alt: "Pa amb tomàquet, the typical Catalan tomato bread"
+imagen_alt: Interior of a shop selling loose sweets and candy at La Boqueria market
 keywords:
   - "where to eat barcelona"
   - "barcelona food guide"

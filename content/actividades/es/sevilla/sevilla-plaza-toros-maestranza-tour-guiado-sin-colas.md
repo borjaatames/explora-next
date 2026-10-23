@@ -110,8 +110,8 @@ imagen: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-e
 imagenAlt: "Fachada barroca de la Plaza de Toros de la Real Maestranza de Sevilla — Puerta del Príncipe"
 
 galeria:
-- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
-  alt: "Ruedo de la plaza de toros de la Maestranza"
+- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-bailaor-blanco-negro.webp
+  alt: "Bailaor en el Tablao El Arenal, en blanco y negro"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: "Vista aérea de la plaza de toros de la Maestranza"
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp

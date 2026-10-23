@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
-imagen_alt: "Monumento a la Constitución de 1812 en la Plaza de España de Cádiz"
+imagen_alt: "Cádiz desde la Torre Tavira"
 tiempo_lectura: 4
 keywords:
   - "qué ver en cádiz"

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
-imagen_alt: "Gepflasterte Straße im Albaicín-Viertel von Granada"
+imagen_alt: "Gärten des Generalife in Granada"
 tiempo_lectura: 13
 keywords:
   - "granada mit kindern"

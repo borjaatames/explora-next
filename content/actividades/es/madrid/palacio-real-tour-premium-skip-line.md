@@ -9,7 +9,7 @@ slugs:
   en: royal-palace-premium-tour-skip-line
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 40.95
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es
@@ -56,7 +56,7 @@ informacionImportante:
   noAptoPara:
   - Mascotas (salvo perros de asistencia)
   aTenerEnCuenta:
-  - NO se permite fotografía dentro del palacio
+  - Se pueden hacer fotos dentro del palacio, sin flash ni trípode
   - Los horarios y días de apertura del palacio pueden variar por eventos oficiales
   - La Armería Real puede estar cerrada por obras de mejora (consultar antes de reservar)
   - El tour es en un solo idioma (no es bilingüe) — elige al reservar
@@ -154,7 +154,7 @@ fecha_actualizacion: '2026-05-17'
 El Palacio Real de Madrid es la residencia oficial más grande de Europa Occidental: 135.000 m² y más de 3.000 salas. Esta visita guiada «premium» de 2 horas la recorre con un guía local freelance (madzguía) con rating perfecto en GetYourGuide.
 
 - **Salón del Trono:** dosel, leones y la bóveda de Tiépolo. La sala más representativa del palacio.
-- **Cámara de Gasparini:** rococó italiano en su versión más exuberante, encargado por Carlos III. Una de las salas más fotogénicas (aunque dentro no se puede fotografiar).
+- **Cámara de Gasparini:** rococó italiano en su versión más exuberante, encargado por Carlos III. Una de las salas más fotogénicas (se puede fotografiar sin flash).
 - **Apartamentos de Carlos III:** las habitaciones del rey ilustrado, con la decoración original de Sabatini.
 - **Sala de Porcelana:** una habitación cubierta entera de porcelana. Rareza única en el palacio.
 - **25 salas principales:** mobiliario, tapices, joyería, relojes y la pintura de Giordano y Goya.
@@ -167,7 +167,7 @@ El Palacio Real de Madrid es la residencia oficial más grande de Europa Occiden
 
 El guía lleva un **paraguas azul claro** para identificarse. **Llega 10 minutos antes**.
 
-La visita dura **2 horas exactas**, en grupo con radioguías incluidas. El tour es **monolingüe** — elige español o inglés al reservar, no funciona en los dos idiomas a la vez. Dentro del palacio **no se permite fotografiar**.
+La visita dura **2 horas exactas**, en grupo con radioguías incluidas. El tour es **monolingüe** — elige español o inglés al reservar, no funciona en los dos idiomas a la vez. Desde 2024 se pueden hacer fotos dentro del palacio, **sin flash**.
 
 La Armería Real está incluida en el ticket pero el guía no la explica — puedes visitarla por libre al terminar el tour. **Aviso:** puede estar cerrada por obras (consulta antes de reservar).
 

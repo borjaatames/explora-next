@@ -88,7 +88,9 @@ The **Telesforo Bravo** trail (653 m, about 40 minutes, 168 m of climbing) leads
 - **Price:** since 19 January 2026, **€15** for visitors from outside the Canaries, €6 for other Canary Islands residents, free for Tenerife residents and under-14s.
 - **Slots:** 90-minute windows since October 2026. New days open every **Monday at 7:00**, a few weeks ahead; summer and Easter dates go fast.
 - **Match your cable car** to the slot, and check the last descent if you take a late window.
-- **Refunds** only if the trail closes for weather or the cable car isn't running. Walking up without a permit can be fined up to €600.
+- **Refunds** only if the trail closes for weather or the cable car isn't running. Walking up without a permit can lead to a fine.
+
+If the permit or the cable car is sold out, [what to do when Teide tickets are sold out](/en/guides/tenerife/teide-tickets-sold-out) covers every option left.
 
 ## The Altavista refuge
 

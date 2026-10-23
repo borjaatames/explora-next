@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hour"
 duracionMinutos: 60
-precioDesde: 18
+precioDesde: 20
 moneda: "EUR"
 idiomas: ["es"]
 proveedor: "getyourguide"
@@ -89,20 +89,14 @@ categoria: "espectaculos"
 keywords: ["flamenco granada", "sacromonte flamenco", "granada flamenco cave", "cueva la faraona", "intimate flamenco show granada"]
 
 
-imagen: "/images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cueva-publico.webp"
-imagenAlt: "Flamenco zambra inside Cueva La Faraona, with the audience around the artists"
+imagen: "/images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-bailaora-cuadro.webp"
+imagenAlt: "Dancer and troupe at Cueva La Faraona, black and white"
 
 galeria:
-- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-escenario-bailaora.webp
-  alt: "Dancer on stage during the La Faraona show"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-bailaora-cuadro.webp
   alt: "Dancer and troupe at Cueva La Faraona, black and white"
-- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-bailaoras.webp
-  alt: "Cueva La Faraona dancers in red dresses"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-entrada-cueva.webp
   alt: "Entrance to Cueva La Faraona in the Sacromonte"
-- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cantaora-cueva.webp
-  alt: "Singer wearing a shawl in Cueva La Faraona"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-cantaora.webp
   alt: "Singer at Cueva La Faraona"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-guitarrista.webp

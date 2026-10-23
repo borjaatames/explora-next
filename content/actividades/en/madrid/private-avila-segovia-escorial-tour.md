@@ -108,8 +108,8 @@ keywords:
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero.webp"
 imagenAlt: The Monastery of El Escorial, palace and royal pantheon of the Habsburgs
 galeria:
-- src: /images/actividades/avila/avila/avila-panoramica-hero.webp
-  alt: Panoramic view of Ávila cityscape with medieval walls and historic buildings
+- src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
+  alt: Stone walls of Ávila
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
   alt: The Roman aqueduct of Segovia with its double row of arches
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp
@@ -124,8 +124,8 @@ galeria:
   alt: Ávila's ancient stone walls and medieval architecture under cloudy sky
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp
   alt: Ancient Roman aqueduct of Segovia with multiple arches spanning across landscape
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: Alcázar of Segovia fortress exterior with towering walls and turrets against sky
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp
+  alt: Alcázar of Segovia fortress with towers and crenellations overlooking the landscape
 - src: /images/actividades/avila/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero-hero.webp
   alt: Sculpture at Avila Cathedral in the historic church square
 - src: /images/actividades/avila/catedral-avila/wikimedia-125754038-hero.webp

@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Vista panorámica de Sevilla al atardecer con la Giralda"
+imagen_alt: "Callejón del Agua en el barrio de Santa Cruz"
 tiempo_lectura: 4
 keywords:
   - "semana santa sevilla 2027"

@@ -121,16 +121,16 @@ atraccionesRelacionadas:
 categoria: "transporte"
 keywords: ["tourist bus seville", "hop on hop off seville", "city sightseeing seville", "seville bus 24h audio guide", "seville tourist bus 48h"]
 
-imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp"
-imagenAlt: "Bridges and canal of Plaza de España"
+imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp"
+imagenAlt: "Plaza de España lit up at night"
 
 galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
   alt: "The Giralda lit up at night"
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
   alt: "Torre del Oro by the Guadalquivir"
-- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
-  alt: "Las Setas (Metropol Parasol) on Plaza de la Encarnación"
+- src: /images/actividades/sevilla/setas/setas-pexels-37125867.webp
+  alt: "Wooden lattice of the Metropol Parasol"
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
   alt: "Real Maestranza bullring in Seville"
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp

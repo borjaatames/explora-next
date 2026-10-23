@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/playas-cadiz-costa-de-la-luz.jpg"
-imagen_alt: "Playa y faro en la Costa de la Luz, Cádiz"
+imagen_alt: Puesta de sol en Cádiz
 tiempo_lectura: 4
 keywords:
   - "playas de cádiz"

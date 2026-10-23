@@ -71,4 +71,4 @@ La señalización dentro del parque es escasa. Si quieres contexto, el [tour de 
 
 ## Cosas a tener en cuenta al reservar
 
-Las dos opciones dan acceso en una franja horaria concertada: llega a la puerta a tu hora; puedes entrar hasta 30 minutos después del inicio de la franja. En temporada alta (junio-septiembre) las franjas de primera y última hora se agotan con días o semanas de antelación, así que conviene reservar en cuanto tengas fecha.
+Las dos opciones dan acceso en una franja horaria concertada: llega a la puerta a tu hora; puedes entrar hasta 30 minutos después del inicio de la franja. En temporada alta (junio-septiembre) las franjas de primera y última hora se agotan con días o semanas de antelación, así que conviene reservar en cuanto tengas fecha. Si ya no quedan entradas para tu día, en [qué hacer si las entradas del Park Güell están agotadas](/guias/barcelona/park-guell-entradas-agotadas) repasamos todas las opciones que quedan.

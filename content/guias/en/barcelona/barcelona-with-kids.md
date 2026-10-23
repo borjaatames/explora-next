@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
-imagen_alt: "View of Barcelona from Park Güell with the mosaic bench in the foreground"
+imagen_alt: "Tibidabo amusement park with Barcelona in the background"
 keywords:
   - "barcelona with kids"
   - "things to do in barcelona with kids"

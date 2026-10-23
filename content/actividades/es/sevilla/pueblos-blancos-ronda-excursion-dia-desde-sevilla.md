@@ -161,8 +161,8 @@ galeria:
   alt: "Vista del Tajo de Ronda desde el Puente Nuevo"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: "Pueblo blanco coronado por su castillo"
-- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
-  alt: "Calle de un pueblo blanco andaluz"
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: "Puente Nuevo sobre el Tajo en primavera"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
   alt: "Pueblo blanco en la ladera de la sierra"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-pexels-36055027.webp

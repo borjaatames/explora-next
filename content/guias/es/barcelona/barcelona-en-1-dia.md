@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-1-dia.jpg"
-imagen_alt: "Plaza del Barrio Gótico de Barcelona"
+imagen_alt: Casa Batlló, edificio modernista de Gaudí con fachada ondulante en Barcelona
 tiempo_lectura: 4
 keywords:
   - "barcelona en 1 día"

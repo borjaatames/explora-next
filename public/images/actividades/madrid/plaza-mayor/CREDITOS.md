@@ -6,3 +6,7 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp` — Mikkel Kvist, Pexels License, vía Pexels (https://www.pexels.com/photo/plaza-mayor-in-madrid-15949260/)
 - `plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp` — Alonso Romero, Pexels License, vía Pexels (https://www.pexels.com/photo/tourists-on-the-plaza-mayor-in-madrid-21560257/)
 - `plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp` — Carlos Delgado, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Felipe_III_-_Casa_de_la_Panader%C3%ADa_-_Plaza_Mayor_de_Madrid_-_02.jpg)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `plaza-mayor-madrid-casa-panaderia-felipe-iii-hero.webp` — Carlos Delgado, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_-_01.jpg)
+- `plaza-mayor-madrid-foto-28533195-hero.webp` — Carlos Delgado, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_-_01.jpg)

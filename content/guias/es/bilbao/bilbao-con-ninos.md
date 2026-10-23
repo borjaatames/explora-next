@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
-imagen_alt: "Bilbao, una ciudad cómoda para visitar en familia"
+imagen_alt: Barco turístico navegando por la ría de Bilbao
 tiempo_lectura: 4
 keywords:
   - "bilbao con niños"

@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"
-imagen_alt: "Nasrid building of the Alhambra in Granada with the sierra in the background"
+imagen_alt: The Palace of Charles V within the grounds of the Alhambra
 keywords:
   - "granada in 2 days"
   - "what to see in granada"

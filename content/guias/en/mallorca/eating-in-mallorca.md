@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"
-imagen_alt: "Promenade beside Palma Cathedral in Mallorca"
+imagen_alt: "Ensaïmadas in a Mallorcan bakery display"
 tiempo_lectura: 10
 respuestaCorta: 'To eat real Mallorcan food, head inland to the **cellers of Inca, Sineu or Algaida**, where a set lunch costs about **15-20 €**. Order pa amb oli, tumbet, frit or arròs brut, try **sobrasada with honey**, and buy your ensaïmada from a well-known bakery in Palma. Skip the seafront menus of Magaluf and s''Arenal.'
 keywords:

@@ -2,7 +2,7 @@
 titulo: "Sevilla: Crucero Eco 1 Hora por el Guadalquivir (Top Pick — 11.157 Reseñas)"
 slug: "sevilla-1-hora-guadalquivir-eco-crucero"
 ciudad: "sevilla"
-descripcion: "Crucero panorámico de 1 hora por el Guadalquivir en barco eco-sostenible. 11.157 reseñas con 4,2/5 — el crucero MÁS RESERVADO de Sevilla por volumen. Guía en directo en español, inglés o francés. Accesible en silla de ruedas. Opción privada disponible. Desde 17 €."
+descripcion: "Crucero panorámico de 1 hora por el Guadalquivir en barco eco-sostenible. 11.157 reseñas con 4,2/5 — el crucero MÁS RESERVADO de Sevilla por volumen. Guía en directo en español, inglés o francés. Accesible en silla de ruedas. Opción privada disponible. Desde 16,5 €."
 
 slugs:
   es: "sevilla-1-hora-guadalquivir-eco-crucero"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 hora"
 duracionMinutos: 60
-precioDesde: 17
+precioDesde: 16.5
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -20,7 +20,7 @@ horasCancelacion: 24
 
 highlights:
   - "🏆 TOP PICK por VOLUMEN — 11.157 reseñas (el crucero MÁS RESERVADO del Guadalquivir, con diferencia)"
-  - "Desde 17 € — la opción MÁS ASEQUIBLE de los cruceros guiados"
+  - "Desde 16,5 € — la opción MÁS ASEQUIBLE de los cruceros guiados"
   - "Crucero panorámico de 1 hora en barco eco-sostenible"
   - "Guía en DIRECTO en español, inglés o francés (3 idiomas vs. 2 del Top Rated)"
   - "Accesible en silla de ruedas (a diferencia del River Boat Tour t521326)"
@@ -67,7 +67,7 @@ informacionImportante:
     - "Quien tenga vértigo extremo o miedo al agua"
   aTenerEnCuenta:
     - "**11.157 reseñas con 4,2/5** — el crucero MÁS RESERVADO de Sevilla por volumen. La puntuación 4,2 es ligeramente inferior al Top Rated (4,7 del River Boat Tour) — refleja que es un crucero turístico masivo"
-    - "Desde 17 € — la opción MÁS ASEQUIBLE de los cruceros guiados"
+    - "Desde 16,5 € — la opción MÁS ASEQUIBLE de los cruceros guiados"
     - "Idiomas: español, inglés, francés (vs. solo ES+EN del River Boat Tour)"
     - "ACCESIBLE en silla de ruedas (a diferencia del River Boat Tour)"
     - "Bebidas NO incluidas — se compran a bordo a precio razonable (~3-4 €)"
@@ -80,9 +80,9 @@ politicaCancelacion: "Cancelación GRATUITA hasta 24 h antes del inicio — reem
 
 preguntasFrecuentes:
   - pregunta: "¿Por qué es el crucero más reservado de Sevilla con tanta diferencia?"
-    respuesta: "**11.157 reseñas con 4,2/5** lo hacen el crucero por el Guadalquivir con MÁS volumen de Sevilla — 6× más reseñas que el segundo (River Boat Tour con 1.746). La fórmula: (1) **Precio bajo** — desde 17 € es la opción más asequible. (2) **3 idiomas** (ES/EN/FR) cubren más mercado que las opciones solo ES+EN. (3) **Aforo amplio** del barco eco-sostenible permite más reservas por pase. (4) **Marca City Sightseeing** (operador del bus hop-on hop-off) reconocida internacionalmente. La puntuación 4,2/5 es inferior al Top Rated (4,7) — refleja el efecto del crucero masivo: menos atención individual, menos bebidas incluidas. Si tu prioridad es precio y disponibilidad, este es el ganador; si quieres experiencia premium, el River Boat Tour t521326 es mejor."
+    respuesta: "**11.157 reseñas con 4,2/5** lo hacen el crucero por el Guadalquivir con MÁS volumen de Sevilla — 6× más reseñas que el segundo (River Boat Tour con 1.746). La fórmula: (1) **Precio bajo** — desde 16,5 € es la opción más asequible. (2) **3 idiomas** (ES/EN/FR) cubren más mercado que las opciones solo ES+EN. (3) **Aforo amplio** del barco eco-sostenible permite más reservas por pase. (4) **Marca City Sightseeing** (operador del bus hop-on hop-off) reconocida internacionalmente. La puntuación 4,2/5 es inferior al Top Rated (4,7) — refleja el efecto del crucero masivo: menos atención individual, menos bebidas incluidas. Si tu prioridad es precio y disponibilidad, este es el ganador; si quieres experiencia premium, el River Boat Tour t521326 es mejor."
   - pregunta: "¿Cuál es la diferencia con el `sevilla-guadalquivir-river-boat-tour` (t521326)?"
-    respuesta: "**Este (Eco Cruise, t418722):** 11.157 reseñas 4,2/5, desde 17 €, 3 idiomas (ES/EN/FR), accesible silla, SIN bebida incluida. RECOMENDADO si quieres el más barato + reservado + idiomas extra (francés) + accesible. **River Boat Tour (t521326):** 1.746 reseñas 4,7/5 (Top Rated), desde 26 €, 2 idiomas (ES/EN), 1 BEBIDA INCLUIDA, NO accesible silla. RECOMENDADO si valoras puntuación + bebida + experiencia más íntima. **Diferencia económica:** 9 € de plus del River Boat Tour compra 0,5 puntos de rating + 1 bebida + experiencia más íntima."
+    respuesta: "**Este (Eco Cruise, t418722):** 11.157 reseñas 4,2/5, desde 16,5 €, 3 idiomas (ES/EN/FR), accesible silla, SIN bebida incluida. RECOMENDADO si quieres el más barato + reservado + idiomas extra (francés) + accesible. **River Boat Tour (t521326):** 1.746 reseñas 4,7/5 (Top Rated), desde 26 €, 2 idiomas (ES/EN), 1 BEBIDA INCLUIDA, NO accesible silla. RECOMENDADO si valoras puntuación + bebida + experiencia más íntima. **Diferencia económica:** 9 € de plus del River Boat Tour compra 0,5 puntos de rating + 1 bebida + experiencia más íntima."
   - pregunta: "¿Es el mismo operador que el bus hop-on hop-off (t3673)?"
     respuesta: "Probablemente SÍ — el operador 'City Sightseeing' opera tanto el bus hop-on hop-off como cruceros panorámicos en muchas ciudades. Esto es ventaja si combinas: City Sightseeing tiene billete UNIFICADO en algunos casos que incluye bus + crucero + walking tours por un solo precio. Verifica al reservar si te interesa el combo. El bus hop-on (t3673) en Sevilla con 'Ultimate ticket' incluye el crucero del Guadalquivir."
   - pregunta: "¿Vale la pena la opción privada?"
@@ -99,13 +99,13 @@ variantes:
     precio: 95
 
 opinionEditorial: |
-  El **crucero por el Guadalquivir MÁS RESERVADO de Sevilla** — 11.157 reseñas, 6× más que el segundo. La fórmula es clara: precio bajo (desde 17 €) + 3 idiomas (ES/EN/FR) + accesibilidad en silla de ruedas + marca City Sightseeing internacional + aforo amplio. Es la opción que más viajeros eligen cuando quieren ver Sevilla desde el río sin gastar mucho.
+  El **crucero por el Guadalquivir MÁS RESERVADO de Sevilla** — 11.157 reseñas, 6× más que el segundo. La fórmula es clara: precio bajo (desde 16,5 €) + 3 idiomas (ES/EN/FR) + accesibilidad en silla de ruedas + marca City Sightseeing internacional + aforo amplio. Es la opción que más viajeros eligen cuando quieren ver Sevilla desde el río sin gastar mucho.
 
   **Punto crítico de honestidad:** la puntuación 4,2/5 es inferior al Top Rated (4,7/5 del River Boat Tour t521326). La diferencia refleja el efecto del crucero masivo — barco más grande, menos atención individual, sin bebida incluida en el precio. Si tu prioridad es precio + accesibilidad + francés, este es el ganador. Si valoras experiencia más íntima + bebida + mejor puntuación, paga los 9 € extras del River Boat Tour.
 
   **Ventaja específica vs. River Boat Tour:** este SÍ es accesible en silla de ruedas (el River Boat Tour no). Para usuarios de silla, este es la única opción real entre los dos top.
 
-  **Para quién es:** viajeros con **presupuesto ajustado** que quieran ver Sevilla desde el río (desde 17 €), visitantes que necesiten el francés como idioma de guía (el River Boat Tour solo ES+EN), **usuarios de silla de ruedas** (este es accesible, el otro no), familias con niños mayores de 6 (precio bajo + 1h manejable), turistas con poco tiempo que quieran añadir el crucero sin gastar mucho. **Para quién NO:** parejas que valoren experiencia premium con bebida (ver River Boat Tour), quien busque puntuación máxima (River Boat Tour 4,7 vs. 4,2), quien quiera barco íntimo (este es masivo), visitantes que esperen comida o bebidas premium incluidas (este es solo el crucero).
+  **Para quién es:** viajeros con **presupuesto ajustado** que quieran ver Sevilla desde el río (desde 16,5 €), visitantes que necesiten el francés como idioma de guía (el River Boat Tour solo ES+EN), **usuarios de silla de ruedas** (este es accesible, el otro no), familias con niños mayores de 6 (precio bajo + 1h manejable), turistas con poco tiempo que quieran añadir el crucero sin gastar mucho. **Para quién NO:** parejas que valoren experiencia premium con bebida (ver River Boat Tour), quien busque puntuación máxima (River Boat Tour 4,7 vs. 4,2), quien quiera barco íntimo (este es masivo), visitantes que esperen comida o bebidas premium incluidas (este es solo el crucero).
 
 atraccionesRelacionadas:
 - barco
@@ -167,7 +167,7 @@ Un **crucero panorámico de 1 hora** en barco eco-sostenible por el Guadalquivir
 
 ## A quién se lo recomiendo
 
-- Viajeros con **presupuesto ajustado** que quieran ver Sevilla desde el río (desde 17 €).
+- Viajeros con **presupuesto ajustado** que quieran ver Sevilla desde el río (desde 16,5 €).
 - Visitantes que necesiten el **francés** como idioma de guía.
 - **Usuarios de silla de ruedas** (este es accesible, el River Boat Tour no lo es).
 - **Familias con niños mayores de 6** (precio bajo + 1h manejable).

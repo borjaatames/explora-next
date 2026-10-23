@@ -89,8 +89,8 @@ galeria:
   alt: Tuk tuk eléctrico frente al Palacio de San Telmo
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
   alt: Puente de Triana sobre el Guadalquivir
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
-  alt: Pabellón central de la Plaza de España
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: "Plaza de España iluminada de noche"
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
   alt: Puerta principal de la Maestranza
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg

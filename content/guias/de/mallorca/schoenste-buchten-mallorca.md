@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"
-imagen_alt: "Kathedrale von Palma de Mallorca bei Sonnenuntergang"
+imagen_alt: "Türkisfarbenes Wasser in der Bucht Caló des Moro auf Mallorca"
 tiempo_lectura: 11
 keywords:
   - "schönste buchten mallorca"

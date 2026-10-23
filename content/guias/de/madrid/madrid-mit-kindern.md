@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Familie beim Bootfahren auf dem Teich im Retiro-Park in Madrid"
+imagen_alt: "Delfinshow im Zoo Aquarium de Madrid"
 tiempo_lectura: 11
 keywords:
   - "madrid mit kindern"

@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-en-3-dias.jpg"
-imagen_alt: "Historic Gran Vía building in central Madrid"
+imagen_alt: Façade of the Royal Palace of Madrid on a clear day
 keywords:
   - "madrid in 3 days"
   - "what to do in madrid in 3 days"

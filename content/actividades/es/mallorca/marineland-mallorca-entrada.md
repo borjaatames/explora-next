@@ -79,12 +79,6 @@ keywords:
 imagen: /images/actividades/mallorca/marineland/marineland-mallorca-entrada.webp
 imagenAlt: León marino en una de las instalaciones de Marineland Mallorca
 galeria:
-- src: "/images/actividades/mallorca/marineland/delfines-salto-entrenador.webp"
-  alt: "Delfines saltando junto a su entrenador en Marineland"
-- src: "/images/actividades/mallorca/marineland/delfin-salto-publico.webp"
-  alt: "Delfín saltando ante el público en el espectáculo"
-- src: "/images/actividades/mallorca/marineland/vista-aerea-parque.webp"
-  alt: "Vista aérea de las instalaciones de Marineland Mallorca"
 - src: /images/actividades/mallorca/marineland/marineland-delfin.webp
   alt: Cuidadora con un delfín en la piscina de un delfinario
 - src: /images/actividades/mallorca/marineland/delfin-salto.webp

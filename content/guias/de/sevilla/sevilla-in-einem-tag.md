@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-en-1-dia.jpg"
-imagen_alt: "Plaza de España in Sevilla mit ihren Brücken über den Kanal"
+imagen_alt: "Kanal und Nordturm der Plaza de España in Sevilla"
 tiempo_lectura: 12
 keywords:
   - "sevilla in einem tag"

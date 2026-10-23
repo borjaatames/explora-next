@@ -2,7 +2,7 @@
 titulo: "Seville: Guadalquivir River Boat Tour — Guided Cruise on the River (Top Rated 4.7/5)"
 slug: "seville-guadalquivir-river-boat-tour"
 ciudad: "sevilla"
-descripcion: "1-1.5 hour guided cruise on the Guadalquivir, Spain's only navigable river. 1,746 reviews at 4.7/5 — Top Rated. Drink included (soft drink, beer, wine or water). Live guide in English or Spanish. Private option available. From €26. Views of Triana, Torre del Oro, Maestranza, Isla de la Cartuja."
+descripcion: "1-1.5 hour guided cruise on the Guadalquivir, Spain's only navigable river. 1,746 reviews at 4.7/5 — Top Rated. Drink included (soft drink, beer, wine or water). Live guide in English or Spanish. Private option available. From €25. Views of Triana, Torre del Oro, Maestranza, Isla de la Cartuja."
 
 slugs:
   es: "sevilla-guadalquivir-river-boat-tour"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 - 1.5 hours"
 duracionMinutos: 75
-precioDesde: 26
+precioDesde: 25
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -85,7 +85,7 @@ preguntasFrecuentes:
   - pregunta: "What do you see during the cruise?"
     respuesta: "The usual 1-1.5 hour route covers: (1) **Torre del Oro** (13th c., Almohad): we leave next to this defensive tower. (2) **Plaza de Toros de la Maestranza**: view from the river of the white and gold facade of Spain's oldest bullring (1761). (3) **Triana** (Calle Betis): the historic flamenco neighborhood on the other side of the river — painted facades, tapas bars, ceramicist streets. (4) **Triana Bridge** and **San Telmo Bridge**: two of Seville's 5 historic bridges. (5) **Isla de la Cartuja**: modern area where Expo 92 was held (Pavilion of Navigation, La Cartuja Monastery). (6) **Alamillo Bridge** (Calatrava, 1992). The guide contextualizes each element."
   - pregunta: "What's the difference vs. `seville-1-hour-guadalquivir-eco-cruise` (t418722)?"
-    respuesta: "**This (River Boat Tour, t521326):** 1-1.5h, Top Rated 4.7/5 with 1,746 reviews, live guide, drink included, from €26. RECOMMENDED if you value guide quality + drink included. **1-Hour Eco Cruise (t418722):** 1h, TOP VOLUME with 11,157 reviews but 4.2/5, live guide (ES/EN/FR), from €17. RECOMMENDED if you want the cheapest + most booked. **Key rating difference:** half a point in rating (4.7 vs. 4.2) reflects that the Eco Cruise serves more people with less individual attention; this is more intimate with better per-person experience."
+    respuesta: "**This (River Boat Tour, t521326):** 1-1.5h, Top Rated 4.7/5 with 1,746 reviews, live guide, drink included, from €25. RECOMMENDED if you value guide quality + drink included. **1-Hour Eco Cruise (t418722):** 1h, TOP VOLUME with 11,157 reviews but 4.2/5, live guide (ES/EN/FR), from €17. RECOMMENDED if you want the cheapest + most booked. **Key rating difference:** half a point in rating (4.7 vs. 4.2) reflects that the Eco Cruise serves more people with less individual attention; this is more intimate with better per-person experience."
   - pregunta: "What drink can I choose?"
     respuesta: "One drink included between: soft drink (Coca-Cola, Sprite, Fanta), beer (Cruzcampo or similar), glass of wine (red, white, sangria) or water. Specify when boarding. Additional drinks can be purchased on board at reasonable price (~€3-4 per drink). NO food or snacks included."
   - pregunta: "When is the best time of day to do the cruise?"
@@ -102,7 +102,7 @@ variantes:
 opinionEditorial: |
   Seville's **best-rated Guadalquivir cruise** — 4.7/5 with 1,746 reviews (Guide 4.8/5). The Guadalquivir is Spain's only navigable river and the backbone of Seville's history — from Roman Hispalis to capital of the Indies in the 16th century, the river has been the city's spine. Seeing Seville from the water adds a perspective impossible to obtain walking.
 
-  **Comparison with TOP VOLUME (t418722 1-Hour Eco Cruise):** this product has LESS volume (1,746 vs. 11,157 reviews) but BETTER rating (4.7 vs. 4.2). Reason: smaller boat, more individual attention, consistent quality live guide, drink included. The Eco Cruise serves more people with less attention per person — for tight budget (from €17) it's the option; for better experience (from €26), this.
+  **Comparison with TOP VOLUME (t418722 1-Hour Eco Cruise):** this product has LESS volume (1,746 vs. 11,157 reviews) but BETTER rating (4.7 vs. 4.2). Reason: smaller boat, more individual attention, consistent quality live guide, drink included. The Eco Cruise serves more people with less attention per person — for tight budget (from €17) it's the option; for better experience (from €25), this.
 
   **Three operational notes:** **(1)** NO high-heeled shoes allowed on deck — flat shoes mandatory. **(2)** Boarding by mobile gangway — NOT fully accessible for wheelchairs; notify when booking if you have reduced mobility. **(3)** SUNSET sessions are the most photogenic — golden light on Torre del Oro and Triana. Morning sessions are quieter and better temperature in summer.
 

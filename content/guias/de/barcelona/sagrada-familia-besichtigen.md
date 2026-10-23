@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagen_alt: "Bunte Glasfenster im Inneren der Sagrada Familia in Barcelona"
+imagen_alt: "Türme und Fassade der Sagrada Família in Barcelona"
 tiempo_lectura: 14
 keywords:
   - "sagrada familia besichtigen"

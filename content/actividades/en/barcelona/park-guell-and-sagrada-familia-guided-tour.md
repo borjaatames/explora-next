@@ -82,8 +82,8 @@ opinionEditorial: |
 categoria: "visitasGuiadas"
 keywords: ["park guell and sagrada familia tour", "gaudi tour barcelona", "sagrada familia park guell tickets", "barcelona gaudi masterpieces", "skip the line gaudi tour"]
 
-imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp"
-imagenAlt: "Panoramic view of the intricate façade of the Sagrada Familia"
+imagen: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp"
+imagenAlt: Illuminated Gothic-style vault inside the Sagrada Familia
 
 galeria:
 ratingProveedor: 4.8

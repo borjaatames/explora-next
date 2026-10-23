@@ -8,7 +8,7 @@ slugs:
   en: bioparc-fuengirola-ticket
 duracion: Half a day
 duracionMinutos: 240
-precioDesde: 30
+precioDesde: 29.5
 moneda: EUR
 idiomas:
 - es

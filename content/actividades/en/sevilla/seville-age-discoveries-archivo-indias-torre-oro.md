@@ -2,7 +2,7 @@
 titulo: "Seville: Age of Discoveries — Guided Tour of Archivo de Indias, Torre del Oro, Torre de la Plata and Royal Shipyards (1.5h)"
 slug: "seville-age-discoveries-archivo-indias-torre-oro"
 ciudad: "sevilla"
-descripcion: "1.5-hour guided tour of 16th-century Seville during the Age of Discoveries. Access to the Archivo General de Indias (UNESCO), Torre del Oro (Naval Museum), Torre de la Plata and the Reales Atarazanas (royal shipyards). Official guide in English or Spanish. Skip-the-line included. Dive into the port-city that monopolised trade with the Americas for 200 years. From €32."
+descripcion: "1.5-hour guided tour of 16th-century Seville during the Age of Discoveries. Access to the Archivo General de Indias (UNESCO), Torre del Oro (Naval Museum), Torre de la Plata and the Reales Atarazanas (royal shipyards). Official guide in English or Spanish. Skip-the-line included. Dive into the port-city that monopolised trade with the Americas for 200 years. From €30."
 
 slugs:
   es: "sevilla-era-descubrimientos-archivo-indias-torre-oro"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1.5 hours"
 duracionMinutos: 90
-precioDesde: 32
+precioDesde: 30
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

@@ -60,7 +60,7 @@ Der Weg **Telesforo Bravo** (653 m lang, rund 40 Minuten, 168 m Anstieg) führt 
 - **Preis:** seit dem 19. Januar 2026 **15 €** für Besucher von außerhalb der Kanaren, 6 € für Einwohner der anderen Kanarischen Inseln, kostenlos für Einwohner Teneriffas und Kinder unter 14.
 - **Zeitfenster:** seit Oktober 2026 90 Minuten lang. Neue Tage werden jeden **Montag um 7:00 Uhr** freigeschaltet, einige Wochen im Voraus; Termine im Sommer und zu Ostern sind schnell weg.
 - **Stimm die Seilbahn** auf dein Zeitfenster ab und prüf die letzte Talfahrt, wenn du ein spätes Fenster nimmst.
-- **Erstattung** nur, wenn der Weg wegen des Wetters geschlossen ist oder die Seilbahn nicht fährt. Wer ohne Genehmigung hinaufgeht, riskiert ein Bußgeld von bis zu 600 €.
+- **Erstattung** nur, wenn der Weg wegen des Wetters geschlossen ist oder die Seilbahn nicht fährt. Wer ohne Genehmigung hinaufgeht, riskiert ein Bußgeld.
 
 ## Die Hütte Altavista
 

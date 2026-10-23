@@ -26,3 +26,7 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `tapas-madrid-chocolate-churros-lazo-hero.webp` — LWY from Pasadena, USA, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_de_lazo.jpg)
 - `tapas-madrid-variety-colorful-drinks-including-hero.webp` — Carina Profunser, Pexels License, vía Pexels (https://www.pexels.com/photo/drinks-in-glasses-on-a-banquet-table-18191641/)
 - `tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp` — Cantabrucu, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jamon_iberico_de_bellota_(cinco_jotas).jpg)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `tapas-madrid-bocadillo-calamares-22-hero.webp` — Xemenendura, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bocadillo_de_calamares_22.jpg)
+- `tapas-madrid-patagonia-churros-hot-chocolate-hero.webp` — Irwandy Mazwir, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patagonia_Churros_and_Hot_Chocolate_(25545054993).jpg)

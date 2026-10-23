@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/salamanca-en-1-dia.jpg"
-imagen_alt: "Plaza Mayor de Salamanca, una de las más bonitas de España"
+imagen_alt: Plaza Mayor de Salamanca
 tiempo_lectura: 4
 keywords:
   - "salamanca en 1 día"

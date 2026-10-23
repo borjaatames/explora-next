@@ -120,8 +120,8 @@ galeria:
   alt: Interior of the Sagrada Família, showing the tree-like columns and ceiling lit by colorful stained-glass medallions.
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with intricate Gothic architecture and soaring spires
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Sagrada Familia basilica facade with intricate stone details and spires in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
+  alt: Sagrada Familia's vibrant stained glass windows with intricate colored patterns and religious iconography
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
   alt: Sagrada Familia basilica with intricate Gothic architecture and spires in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp

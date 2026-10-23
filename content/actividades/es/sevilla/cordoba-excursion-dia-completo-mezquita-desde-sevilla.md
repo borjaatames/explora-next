@@ -4,13 +4,13 @@ slug: cordoba-excursion-dia-completo-mezquita-desde-sevilla
 ciudad: sevilla
 descripcion: Excursión guiada de 10 horas a Córdoba desde Sevilla con visita a la Mezquita-Catedral (UNESCO), la Judería,
   la Sinagoga y el Alcázar de los Reyes Cristianos. Transporte + guía oficial en español o inglés + entradas + desayuno y
-  comida incluidos. Recogida en hotel/punto céntrico. Desde 115 €.
+  comida incluidos. Recogida en hotel/punto céntrico. Desde 109 €.
 slugs:
   es: cordoba-excursion-dia-completo-mezquita-desde-sevilla
   en: cordoba-full-day-essential-mezquita-tour-from-seville
 duracion: 10 - 10,5 horas
 duracionMinutos: 615
-precioDesde: 115
+precioDesde: 109
 moneda: EUR
 idiomas:
 - es
@@ -87,7 +87,7 @@ politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reem
 preguntasFrecuentes:
 - pregunta: ¿Qué diferencia hay con la opción premium en AVE (t979945)?
   respuesta: '**Este tour (estándar autobús):** 10h, transporte en autobús turístico, grupo grande estándar (15-30 personas),
-    incluye desayuno y comida, desde 115 €. RECOMENDADO si quieres precio asequible + grupo grande. **Premium AVE (t979945):**
+    incluye desayuno y comida, desde 109 €. RECOMENDADO si quieres precio asequible + grupo grande. **Premium AVE (t979945):**
     ~8h, AVE Sevilla-Córdoba (45 min vs. 1h45min en autobús), grupo pequeño MAX 8 personas, formato más exclusivo, sin comida
     incluida (tomas el almuerzo por libre en Córdoba). RECOMENDADO si valoras transporte rápido + grupo reducido. Diferencia
     clave: el AVE ahorra 2 horas de viaje pero pierdes la comida incluida y subes ~50 € de precio.'
@@ -161,8 +161,8 @@ imagenAlt: Nave interior de la Mezquita-Catedral de Sevilla con columnas y arcos
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
   alt: "Mezquita y puente romano de Córdoba"
-- src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
-  alt: "Arcos del interior de la Mezquita de Córdoba"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores con macetas azules
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp
   alt: "Bosque de columnas de la Mezquita de Córdoba"
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-lamparas.webp

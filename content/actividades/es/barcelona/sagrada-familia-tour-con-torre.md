@@ -125,8 +125,8 @@ galeria:
   alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Fachada de la Basílica de la Sagrada Familia en Barcelona con torres góticas y ornamentación detallada
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Fachada de la Sagrada Familia con torres góticas y elementos arquitectónicos de Gaudí en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp

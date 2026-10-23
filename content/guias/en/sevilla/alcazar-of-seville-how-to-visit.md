@@ -9,7 +9,7 @@ autor: ExploraSpain editorial team
 publicada: true
 destacada: true
 imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
-imagen_alt: Mudéjar arch in the Royal Alcázar of Seville with carved stone decoration
+imagen_alt: "Patio interior del Real Alcazar de Sevilla"
 keywords:
 - royal alcazar seville
 - how to visit alcazar seville
@@ -64,6 +64,8 @@ The Royal Alcázar is **the oldest royal palace still in use in Europe** and one
 - **Hours:** 9:30–19:00 from April to September, 9:30–17:00 from October to March. The grounds start clearing at 19:45 in summer and 17:45 in winter, so don't arrive late in the day expecting a full visit. Closed 1 and 6 January, Good Friday and 25 December.
 - **Box office:** in the Patio de Banderas, from 9:00, card payment only.
 - **The official timed ticket is cheaper** than resellers (€20 and up), but it sells out first in spring and summer.
+
+If the official site is already sold out, [what to do when Alcázar of Seville tickets are sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out) covers every option left.
 
 ## Getting there
 

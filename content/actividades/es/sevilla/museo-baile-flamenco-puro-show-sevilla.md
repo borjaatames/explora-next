@@ -4,13 +4,13 @@ slug: museo-baile-flamenco-puro-show-sevilla
 ciudad: sevilla
 descripcion: Espectáculo de flamenco de 1 hora en el patio Ecija del s. XVIII del Museo del Baile Flamenco. Coreografías de
   la legendaria CRISTINA HOYOS (fundadora del museo). 6.456 reseñas con 4,8/5. 6 artistas (3 bailaores + 2 cantaores + 1 guitarrista).
-  Opción combinada con ticket al museo. Pases 17:00, 19:00 y 20:45. Desde 32 €.
+  Opción combinada con ticket al museo. Pases 17:00, 19:00 y 20:45. Desde 33 €.
 slugs:
   es: museo-baile-flamenco-puro-show-sevilla
   en: seville-puro-flamenco-show-dance-museum
 duracion: 1 hora
 duracionMinutos: 60
-precioDesde: 32
+precioDesde: 33
 moneda: EUR
 idiomas:
 - es
@@ -104,7 +104,7 @@ preguntasFrecuentes:
     Andalucía»**, único venue flamenco con esta distinción.'
 - pregunta: ¿Cuál es la diferencia con Casa de la Memoria y los otros 3 grandes?
   respuesta: '**Museo del Baile Flamenco (este):** Patio Ecija s.XVIII + sello Cristina Hoyos, calidad artística icónica,
-    6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO si valoras calidad artística + figura de Cristina Hoyos. **Casa de la Memoria:**
+    6.456 reseñas 4,8/5, desde 33 €. RECOMENDADO si valoras calidad artística + figura de Cristina Hoyos. **Casa de la Memoria:**
     Patio s.XV + solo 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras estar a 2-3 m de
     los artistas. **Teatro Flamenco Sevilla:** Teatro grande, máximo volumen (18.292 reseñas), asientos cómodos escalonados,
     desde 27 €. RECOMENDADO si quieres lo más reservado + confort. **Teatro Flamenco Triana:** Teatro en Triana (barrio gitano
@@ -139,7 +139,7 @@ opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseña
   coreografías elaboradas por ella o su equipo, lo que da calidad artística característica.
 
 
-  **Comparación de precios:** desde 32 € es **el segundo más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
+  **Comparación de precios:** desde 33 € es **el segundo más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
   Triana 25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Tablao El Arenal 48 €). El plus de 5-6 € sobre
   Casa de la Memoria compra: coreografía Hoyos + patio Ecija s.XVIII + opción combinada con museo (+7 €). La opción combinada
   con museo (+7 € = 39 € total) es la mejor relación si tienes 2-3 días en Sevilla y te interesa la cultura flamenca a fondo.

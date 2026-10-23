@@ -4,13 +4,13 @@ slug: seville-live-flamenco-dancing-show-theater-top-pick
 ciudad: sevilla
 descripcion: 1-hour flamenco show at Teatro Flamenco Sevilla (Calle Cuna 15, historic center) — Seville's MOST
   BOOKED flamenco product with 18,292 reviews (4.7/5). Theater format with comfortable tiered seating, large stage, professional
-  lighting. From €27. Free cancellation 24h.
+  lighting. From €25. Free cancellation 24h.
 slugs:
   es: teatro-flamenco-sevilla-show-mas-vendido
   en: seville-live-flamenco-dancing-show-theater-top-pick
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 27
+precioDesde: 25
 moneda: EUR
 idiomas:
 - es
@@ -25,7 +25,7 @@ highlights:
 - '1 hour show with full ensemble: dancers, singers, guitarists, percussion'
 - 'Central location: Calle Cuna 15, in the former Teatro Quintero (about 10 min walk from the Cathedral)'
 - Professional lighting + careful sound — more theatrical format than traditional tablao
-- Prices from €27 (standard) — among the most affordable of Seville's top flamenco venues
+- Prices from €25 (standard) — among the most affordable of Seville's top flamenco venues
 - FREE cancellation up to 24h before
 - Multiple daily sessions (verify when booking)
 incluye:
@@ -77,14 +77,14 @@ preguntasFrecuentes:
 - pregunta: Why is this the most booked flamenco show in Seville by such a wide margin?
   respuesta: '**18,292 reviews at 4.7/5** make it the most booked flamenco tourist product in Seville on GetYourGuide. The
     factors: (1) **Central location** on Calle Cuna, about 10 min from the Cathedral — short-trip tourists
-    find it easily. (2) **Affordable price** from €27 — one of the cheapest of Seville''s 5 major flamenco venues (vs. Teatro
+    find it easily. (2) **Affordable price** from €25 — one of the cheapest of Seville''s 5 major flamenco venues (vs. Teatro
     Flamenco Triana €25, Casa de la Memoria €26, Museo del Baile Flamenco €32, Tablao El Arenal from €48). (3) **Theater format with large capacity**
     — admits many more visitors per session than an intimate tablao of 30-50 seats, multiplying historical bookings. (4) **Multiple
     daily sessions** — high availability for last-minute bookings. The 4.7/5 rating (vs. 4.8 of Casa de la Memoria and Museo
     del Baile Flamenco) reflects that the theater format loses some intimacy but compensates with price and accessibility.'
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
   respuesta: '**Teatro Flamenco Sevilla (this):** Large theater, central location (Calle Cuna), maximum volume (18,292 reviews),
-    affordable price (from €27). RECOMMENDED if you want most booked + central + moderate price. **Casa de la Memoria:** Traditional
+    affordable price (from €25). RECOMMENDED if you want most booked + central + moderate price. **Casa de la Memoria:** Traditional
     Andalusian patio, only 2 rows of seats, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value intimacy
     over spectacular venue. **Museo del Baile Flamenco (Puro Flamenco):** 18th-c. Ecija patio, Cristina Hoyos choreographies,
     6,456 reviews 4.8/5, from €32. RECOMMENDED if you''re interested in artistic quality (Cristina Hoyos is a national icon).
@@ -123,7 +123,7 @@ opinionEditorial: 'The **most booked flamenco show in Seville** — 18,292 revie
   for flamenco in Seville.
 
 
-  **Price comparison:** from €27 it''s **among the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
+  **Price comparison:** from €25 it''s **among the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
   Triana €25, Casa de la Memoria €26, Museo del Baile Flamenco €32, Tablao El Arenal €48). The €1 premium over Casa de la Memoria
   buys: tiered seats (guaranteed view) + 24h cancellation option.
 
@@ -154,12 +154,6 @@ keywords:
 imagen: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaoras-especial-sevillanas.webp"
 imagenAlt: "Two dancers on the Teatro Flamenco Sevilla stage"
 galeria:
-- src: "/images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp"
-  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
-- src: "/images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-detalle-vestuario-f-hero.webp"
-  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
-- src: "/images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp"
-  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp
   alt: "Backlit dancer at Teatro Flamenco Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-cante-pandereta.webp
@@ -208,7 +202,7 @@ A **professional 1-hour flamenco show at Teatro Flamenco Sevilla** — Seville's
 - **Flamenco first-timers** wanting accessible experience without dinner commitment.
 - **Large groups** (families, hen/stag parties) who don't fit in intimate 30-seat tablaos.
 - Travellers prioritizing **central location** (Calle Cuna, in the heart of the historic center).
-- Visitors with **tight budget** (from €27 — among the cheapest of the 5 majors).
+- Visitors with **tight budget** (from €25 — among the cheapest of the 5 majors).
 
 ## Who I do NOT recommend it to
 

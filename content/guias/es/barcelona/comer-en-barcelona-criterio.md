@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"
-imagen_alt: "Pa amb tomàquet, el pan con tomate típico catalán"
+imagen_alt: Interior de una tienda de golosinas a granel en el Mercado de la Boqueria
 tiempo_lectura: 4
 keywords:
   - "comer en barcelona"

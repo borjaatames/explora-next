@@ -9,3 +9,6 @@
 | carrusel.webp | Wikimedia Commons | Jorge Franganillo · File:Parc d'Atraccions Tibidabo (49289051363).jpg · https://commons.wikimedia.org/wiki/File:Parc_d%27Atraccions_Tibidabo_(49289051363).jpg | CC BY 2.0 |
 
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\barcelona--tibidabo\` (copias en `E:\imagenes-master\barcelona\tibidabo\`).
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `noria-templo-expiatorio.webp` — Antonio Lorenzana Bermejo, licencia Pexels, vía Pexels (https://www.pexels.com/photo/14547952/)

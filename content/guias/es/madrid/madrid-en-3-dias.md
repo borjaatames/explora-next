@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-en-3-dias.jpg"
-imagen_alt: "Edificio histórico de la Gran Vía de Madrid"
+imagen_alt: Fachada del Palacio Real de Madrid en día despejado
 tiempo_lectura: 5
 keywords:
   - "madrid en 3 días"

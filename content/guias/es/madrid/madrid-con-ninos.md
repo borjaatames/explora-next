@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Familia paseando en barca por el estanque del Parque del Retiro de Madrid"
+imagen_alt: "Espectáculo de delfines en el Zoo Aquarium de Madrid"
 tiempo_lectura: 5
 keywords:
   - "madrid con niños"

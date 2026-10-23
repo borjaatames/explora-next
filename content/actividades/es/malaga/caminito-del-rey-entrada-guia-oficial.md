@@ -28,7 +28,7 @@ incluye:
 - Casco obligatorio
 noIncluye:
 - Transporte hasta el Caminito
-- Bus lanzadera entre las dos entradas (1,55 € en el sitio)
+- Bus lanzadera entre las dos entradas (2,50 € en el sitio)
 - Comida y bebida
 puntoEncuentro:
   texto: Caminito del Rey, acceso norte (Ardales), Málaga
@@ -115,7 +115,7 @@ No incluye el transporte: tú llegas al acceso norte (Ardales) por tu cuenta.
 
 ## Cómo llegar sin tour
 
-**En coche**: 1 hora desde Málaga. Aparca en El Kiosko (acceso norte) y, al terminar, vuelve con el bus lanzadera desde El Chorro (1,55 €, cada 30 minutos). O al revés: aparca en El Chorro, sube en lanzadera al norte y termina junto a tu coche.
+**En coche**: 1 hora desde Málaga. Aparca en El Kiosko (acceso norte) y, al terminar, vuelve con el bus lanzadera desde El Chorro (2,50 €, cada 30 minutos). O al revés: aparca en El Chorro, sube en lanzadera al norte y termina junto a tu coche.
 
 **En tren**: Cercanías C-2 Málaga → El Chorro-Caminito del Rey (40 minutos, unos 5 €). Desde la estación, lanzadera hasta el acceso norte.
 

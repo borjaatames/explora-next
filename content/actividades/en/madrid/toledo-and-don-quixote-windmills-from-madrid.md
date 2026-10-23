@@ -8,7 +8,7 @@ slugs:
   es: excursion-toledo-molinos-quijote
 duracion: 10 hours
 duracionMinutos: 600
-precioDesde: 113
+precioDesde: 125
 moneda: EUR
 idiomas:
 - en

@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/portaventura-world-guia.jpg"
-imagen_alt: "Tarragona's Roman amphitheatre, a landmark of the city"
+imagen_alt: "Shambhala and Dragon Khan roller coasters at PortAventura Park"
 tiempo_lectura: 11
 keywords:
   - "portaventura world"

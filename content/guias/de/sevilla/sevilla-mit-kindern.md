@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-con-ninos.jpg"
-imagen_alt: "Traditioneller Platz im Triana-Viertel von Sevilla"
+imagen_alt: "Wasserattraktion Iguazú im Freizeitpark Isla Mágica"
 tiempo_lectura: 14
 keywords:
   - "sevilla mit kindern"

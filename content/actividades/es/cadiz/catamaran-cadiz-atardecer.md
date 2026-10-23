@@ -8,7 +8,7 @@ slugs:
   en: cadiz-sunset-catamaran-cruise
 duracion: 1,5 horas
 duracionMinutos: 90
-precioDesde: 25
+precioDesde: 24.5
 moneda: EUR
 idiomas:
 - es

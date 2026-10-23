@@ -2,7 +2,7 @@
 titulo: "Sevilla: Guadalquivir River Boat Tour — Crucero Guiado por el Río (Top Rated 4,7/5)"
 slug: "sevilla-guadalquivir-river-boat-tour"
 ciudad: "sevilla"
-descripcion: "Crucero guiado de 1-1,5 horas por el Guadalquivir, único río navegable de España. 1.746 reseñas con 4,7/5 — Top Rated. Bebida incluida (refresco, cerveza, vino o agua). Guía en directo en español o inglés. Opción privada disponible. Desde 26 €. Vistas a Triana, Torre del Oro, Maestranza, Isla de la Cartuja."
+descripcion: "Crucero guiado de 1-1,5 horas por el Guadalquivir, único río navegable de España. 1.746 reseñas con 4,7/5 — Top Rated. Bebida incluida (refresco, cerveza, vino o agua). Guía en directo en español o inglés. Opción privada disponible. Desde 25 €. Vistas a Triana, Torre del Oro, Maestranza, Isla de la Cartuja."
 
 slugs:
   es: "sevilla-guadalquivir-river-boat-tour"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 - 1,5 horas"
 duracionMinutos: 75
-precioDesde: 26
+precioDesde: 25
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -85,7 +85,7 @@ preguntasFrecuentes:
   - pregunta: "¿Qué se ve durante el crucero?"
     respuesta: "El recorrido habitual de 1-1,5 horas cubre: (1) **Torre del Oro** (s. XIII, almohada): salimos junto a esta torre defensiva. (2) **Plaza de Toros de la Maestranza**: vista desde el río de la fachada blanca y dorada del coso más antiguo de España (1761). (3) **Triana** (Calle Betis): el barrio histórico flamenco al otro lado del río — fachadas pintadas, bares de tapas, calles de ceramistas. (4) **Puente de Triana** y **Puente de San Telmo**: dos de los 5 puentes históricos de Sevilla. (5) **Isla de la Cartuja**: zona moderna donde se celebró la Expo 92 (Pabellón de la Navegación, La Cartuja Monasterio). (6) **Puente del Alamillo** (Calatrava, 1992). El guía contextualiza cada elemento."
   - pregunta: "¿Cuál es la diferencia con el `sevilla-1-hour-guadalquivir-eco-cruise` (t418722)?"
-    respuesta: "**Este (River Boat Tour, t521326):** 1-1,5h, Top Rated 4,7/5 con 1.746 reseñas, guía en directo, bebida incluida, desde 26 €. RECOMENDADO si valoras calidad de guía + bebida incluida. **1-Hour Eco Cruise (t418722):** 1h, TOP VOLUMEN con 11.157 reseñas pero 4,2/5, guía en directo (ES/EN/FR), desde 17 €. RECOMENDADO si quieres el más barato + el más reservado. **Diferencia clave de puntuación:** medio punto en la valoración (4,7 vs. 4,2) refleja que el Eco Cruise sirve a más gente con menos atención individual; este es más íntimo con mejor experiencia por persona."
+    respuesta: "**Este (River Boat Tour, t521326):** 1-1,5h, Top Rated 4,7/5 con 1.746 reseñas, guía en directo, bebida incluida, desde 25 €. RECOMENDADO si valoras calidad de guía + bebida incluida. **1-Hour Eco Cruise (t418722):** 1h, TOP VOLUMEN con 11.157 reseñas pero 4,2/5, guía en directo (ES/EN/FR), desde 17 €. RECOMENDADO si quieres el más barato + el más reservado. **Diferencia clave de puntuación:** medio punto en la valoración (4,7 vs. 4,2) refleja que el Eco Cruise sirve a más gente con menos atención individual; este es más íntimo con mejor experiencia por persona."
   - pregunta: "¿Qué bebida puedo elegir?"
     respuesta: "Una bebida incluida entre: refresco (Coca-Cola, Sprite, Fanta), cerveza (Cruzcampo o similar), copa de vino (tinto, blanco, sangría) o agua. Se especifica al embarcar. Bebidas adicionales se pueden comprar a bordo a precio razonable (~3-4 € por bebida). NO hay comida ni snacks incluidos."
   - pregunta: "¿Cuándo es el mejor momento del día para hacer el crucero?"
@@ -102,7 +102,7 @@ variantes:
 opinionEditorial: |
   El **crucero por el Guadalquivir mejor valorado de Sevilla** — 4,7/5 con 1.746 reseñas (Guía 4,8/5). El Guadalquivir es el único río navegable de España y vertebra la historia de Sevilla — desde la Hispalis romana a la capital de las Indias en el s. XVI, el río ha sido la columna vertebral de la ciudad. Ver Sevilla desde el agua añade una perspectiva imposible de obtener andando.
 
-  **Comparación con el TOP VOLUMEN (t418722 1-Hour Eco Cruise):** este producto tiene MENOS volumen (1.746 vs. 11.157 reseñas) pero MEJOR puntuación (4,7 vs. 4,2). La razón: barco más pequeño, atención más individual, guía en directo de calidad consistente, bebida incluida. El Eco Cruise atiende a más gente con menos atención por persona — para presupuesto ajustado (desde 17 €) es la opción; para mejor experiencia (desde 26 €), este.
+  **Comparación con el TOP VOLUMEN (t418722 1-Hour Eco Cruise):** este producto tiene MENOS volumen (1.746 vs. 11.157 reseñas) pero MEJOR puntuación (4,7 vs. 4,2). La razón: barco más pequeño, atención más individual, guía en directo de calidad consistente, bebida incluida. El Eco Cruise atiende a más gente con menos atención por persona — para presupuesto ajustado (desde 17 €) es la opción; para mejor experiencia (desde 25 €), este.
 
   **Tres notas operativas:** **(1)** NO se permiten zapatos de tacón alto en cubierta — calzado plano obligatorio. **(2)** Embarque por pasarela móvil — NO totalmente accesible para sillas de ruedas; notifica al reservar si tienes movilidad reducida. **(3)** Pases de ATARDECER son los más fotogénicos — luz dorada sobre Torre del Oro y Triana. Pases de mañana son más tranquilos y mejor temperatura en verano.
 

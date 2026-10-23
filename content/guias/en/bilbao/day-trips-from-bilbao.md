@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
-imagen_alt: "La Salve Bridge and the Iberdrola Tower next to the Bilbao Guggenheim"
+imagen_alt: San Juan de Gaztelugatxe islet with the hermitage and the stone bridge
 tiempo_lectura: 11
 keywords:
   - "day trips from bilbao"

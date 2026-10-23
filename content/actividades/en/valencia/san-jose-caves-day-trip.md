@@ -54,8 +54,6 @@ galeria:
   alt: "Boat ride through the Caves of San José in Valencia"
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
   alt: "San José Caves boat ride from Valencia (Bokun)"
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp
-  alt: "San José Caves in Vall d'Uixó, Castellón, with the navigable river"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
   alt: "Gallery in the San José Caves"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp

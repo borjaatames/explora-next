@@ -37,8 +37,8 @@ atracciones:
     imagenAlt: "El Partal de la Alhambra con la Torre de las Damas reflejada en el estanque"
   - nombre: "Generalife"
     descripcion: "Los jardines de verano de los sultanes nazaríes, a un paseo de la Alhambra. Patios de agua, cipreses, rosales y vistas al Albaicín. Suele incluirse en la misma entrada que la Alhambra."
-    imagen: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
-    imagenAlt: "Interior del Generalife con artesonado nazarí"
+    imagen: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp"
+    imagenAlt: Jardines del Generalife
   - nombre: "Albaicín"
     descripcion: "El barrio musulmán medieval, Patrimonio de la Humanidad. Calles blancas en cuesta, cármenes con jardín y miradores. El reflejo más bonito de la Alhambra se ve desde el mirador de San Nicolás al atardecer."
     imagen: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"

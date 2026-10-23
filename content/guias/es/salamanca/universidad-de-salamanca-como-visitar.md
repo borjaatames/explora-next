@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/universidad-de-salamanca-como-visitar.jpg"
-imagen_alt: "Fachada plateresca del Edificio Histórico de la Universidad de Salamanca"
+imagen_alt: Detalle de la fachada de la Universidad
 tiempo_lectura: 4
 keywords:
   - "universidad de salamanca"

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
-imagen_alt: "Plaza de España in Cádiz, Mittelpunkt des Stadtlebens"
+imagen_alt: "Fassade der Kathedrale von Cádiz"
 tiempo_lectura: 11
 keywords:
   - "karneval von cadiz"

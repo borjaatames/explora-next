@@ -72,8 +72,8 @@ galeria:
   alt: Barcelona cityscape at sunset with architectural buildings and street view
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Winding tree-lined pathway at Park Güell, Barcelona with architectural terraces and vegetation
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-hero.webp
-  alt: Sagrada Familia basilica with ornate spires and Gothic architecture in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Illuminated Gothic-style vault inside the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp
   alt: Aerial daytime view of Park Güell's terraced structures with Barcelona city skyline in background
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-I1vI47ouAok-hero.webp

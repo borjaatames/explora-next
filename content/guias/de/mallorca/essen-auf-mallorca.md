@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"
-imagen_alt: "Promenade an der Kathedrale von Palma de Mallorca"
+imagen_alt: "Ensaimadas in der Auslage einer Bäckerei auf Mallorca"
 tiempo_lectura: 10
 keywords:
   - "essen auf mallorca"

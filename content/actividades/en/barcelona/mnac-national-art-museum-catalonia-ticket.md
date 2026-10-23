@@ -66,8 +66,8 @@ keywords:
 - national art museum catalonia tickets
 - mnac barcelona
 - museu nacional d'art de catalunya
-imagen: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-imagenAlt: Palau Nacional on Montjuïc, home of the MNAC
+imagen: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
+imagenAlt: Barcelona street with historic architecture and urban landscape
 galeria:
   - src: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp"
     alt: "Plaza de Catalunya de Barcelona, corazón de la ciudad"
@@ -83,8 +83,8 @@ galeria:
     alt: "Views of Barcelona from the MNAC terrace"
   - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
     alt: "Plaça d'Espanya and the Venetian towers from Montjuïc"
-  - src: "/images/actividades/barcelona/montjuic/images-hero.webp"
-    alt: "Aerial view of Montjuïc with the Palau Nacional (MNAC)"
+  - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
+    alt: Barcelona cityscape with Gothic Quarter architecture and modern buildings
 ratingProveedor: 4.5
 numeroOpiniones: 2161
 atraccionesRelacionadas:

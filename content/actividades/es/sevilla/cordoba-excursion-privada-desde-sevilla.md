@@ -69,8 +69,8 @@ imagenAlt: "Arcos bicolores y columnas de la Mezquita-Catedral de Córdoba"
 galeria:
   - src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
     alt: "El Puente Romano y la Mezquita sobre el Guadalquivir"
-  - src: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp"
-    alt: "Interior de la Sinagoga de Córdoba"
+  - src: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+    alt: Calleja de las Flores con macetas azules
   - src: "https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg"
     alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
   - src: "https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg"

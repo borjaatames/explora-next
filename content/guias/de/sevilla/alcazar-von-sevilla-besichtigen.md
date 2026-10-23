@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/alcazar-de-sevilla-como-visitar.jpg"
-imagen_alt: "Mudéjar-Bogen im Real Alcázar von Sevilla mit reich verzierten Steinschnitzereien"
+imagen_alt: "Innenhof des Real Alcázar von Sevilla"
 tiempo_lectura: 11
 keywords:
   - "real alcázar sevilla"

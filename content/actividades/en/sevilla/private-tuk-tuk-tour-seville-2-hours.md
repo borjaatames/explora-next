@@ -89,8 +89,8 @@ galeria:
   alt: Electric tuk tuk outside the San Telmo Palace
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
   alt: Triana bridge over the Guadalquivir
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
-  alt: Central pavilion of the Plaza de España
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: "Plaza de España lit up at night"
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
   alt: Main gate of the Maestranza bullring
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg

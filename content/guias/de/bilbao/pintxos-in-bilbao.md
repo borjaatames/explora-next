@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/pintxos-bilbao.jpg"
-imagen_alt: "Typische Pintxos-Bar in der Altstadt von Bilbao"
+imagen_alt: "Gildas mit Peperoni, Sardelle und Olive"
 tiempo_lectura: 10
 keywords:
   - "pintxos bilbao"

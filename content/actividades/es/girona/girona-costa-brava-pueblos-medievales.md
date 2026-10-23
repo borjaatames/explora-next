@@ -62,8 +62,8 @@ galeria:
   alt: Casas de colores del rio Onar, Girona
 - src: /images/actividades/girona/muralla/muralla-girona-hero.webp
   alt: Muralla medieval de Girona
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Banos Arabes
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: Callejón del Call judío de Girona
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
   alt: Catedral Girona
 - src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp

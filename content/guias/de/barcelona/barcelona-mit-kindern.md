@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
-imagen_alt: "Blick auf Barcelona vom Park Güell mit der Mosaikbank im Vordergrund"
+imagen_alt: "Freizeitpark Tibidabo mit Barcelona im Hintergrund"
 tiempo_lectura: 13
 keywords:
   - "barcelona mit kindern"

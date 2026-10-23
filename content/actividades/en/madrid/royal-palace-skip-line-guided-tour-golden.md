@@ -9,7 +9,7 @@ slugs:
   en: royal-palace-skip-line-guided-tour-golden
 duracion: 2 hours
 duracionMinutos: 120
-precioDesde: 38
+precioDesde: 36
 moneda: EUR
 idiomas:
 - es

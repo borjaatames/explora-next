@@ -90,8 +90,8 @@ galeria:
   alt: Acueducto romano de Segovia con sus arcos de piedra superpuestos al atardecer
 - src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero.webp
   alt: Alcazar toledo fachada norte espana en Alcazar toledo
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: Fachada exterior del Alcázar de Segovia con torres almenadas y arquitectura medieval
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp
+  alt: Alcázar de Segovia, fortaleza medieval en España con torres y murallas
 - src: /images/actividades/avila/catedral-avila/pixabay-573069-hero.webp
   alt: Muralla medieval de Ávila con torres de piedra y cielo azul
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
@@ -100,8 +100,8 @@ galeria:
   alt: Catedral Metropolitana de Toledo con fachada gótica y arquitectura medieval
 - src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
   alt: Muralla medieval de Ávila con torres de piedra tallada y arquitectura fortaleza en España
-- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
-  alt: FP Toledo 2025 - Puente de Alcántara
+- src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp
+  alt: "Puente de San Martín sobre el Tajo"
 - src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
   alt: Callejón estrecho y empedrado de Toledo con fachadas históricas de piedra
 - src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp

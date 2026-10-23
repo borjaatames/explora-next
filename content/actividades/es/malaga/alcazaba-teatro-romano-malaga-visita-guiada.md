@@ -79,7 +79,7 @@ keywords:
 imagen: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
 imagenAlt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
 galeria:
-- src: "/images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp"
+- src: "/images/actividades/malaga/teatro-romano/gradas-2.webp"
   alt: "Teatro romano de Málaga junto a la Alcazaba"
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
   alt: Murallas de la Alcazaba de Málaga

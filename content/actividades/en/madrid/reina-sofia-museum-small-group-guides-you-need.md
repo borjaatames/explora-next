@@ -9,7 +9,7 @@ slugs:
   en: reina-sofia-museum-small-group-guides-you-need
 duracion: 1.5 hours
 duracionMinutos: 90
-precioDesde: 50
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es

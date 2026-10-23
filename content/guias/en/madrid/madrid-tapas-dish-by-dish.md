@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/tapas-madrid-criterio.jpg"
-imagen_alt: "Iberian ham carver slicing thin slices at a Madrid bar"
+imagen_alt: Wood-panelled interior of a traditional Madrid tavern
 tiempo_lectura: 5
 keywords:
   - "best tapas madrid"

@@ -43,3 +43,17 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `park-guell-skyscraper-view-daytime-hero-hero.webp` — Vitor Monteiro, Unsplash License, vía Unsplash (https://unsplash.com/photos/skyscraper-view-at-daytime-jiAv24Lc3T0)
 - `unsplash-aX5NLrKgRBc-hero.webp` — Unsplash, foto aX5NLrKgRBc, licencia Unsplash (https://unsplash.com/photos/aX5NLrKgRBc)
 - `unsplash-qiH16d5SRxg-hero.webp` — Unsplash, foto qiH16d5SRxg, licencia Unsplash (https://unsplash.com/photos/qiH16d5SRxg)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `park-guell-barcelona-spain-catalonia-gaudi-hero.webp` — adibalea, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/guell-park-barcelona-spain-1906857/)
+- `park-guell-barcelona-spain-gaudi-hero.webp` — Schreib-Engel, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/barcelona-spain-park-g%C3%BCell-gaud%C3%AD-63820/)
+- `park-guell-view-barcelona-from-showcasing-hero-hero.webp` — AXP Photography, Pexels License, vía Pexels (https://www.pexels.com/photo/the-view-from-the-top-of-park-guell-in-barcelona-27278819/)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `pexels-27348494-hero.webp` — Pexels, foto 27348494, licencia Pexels (https://www.pexels.com/photo/27348494/)
+- `pixabay-1137859-hero.webp` — Pixabay, foto 1137859, licencia Pixabay (https://pixabay.com/photos/id-1137859/)
+- `unsplash-VWE6dSkZBmw-hero.webp` — Unsplash, foto VWE6dSkZBmw, licencia Unsplash (https://unsplash.com/photos/VWE6dSkZBmw)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `park-guell-barcelona-spain-city-mosaic-bench-hero.webp` — Emre Bilgiç, licencia Pexels, vía Pexels (https://www.pexels.com/photo/36289662/)
+- `park-guell-barcelona-gaudi-spain-architecture-2-hero.webp` — Pixabay, foto 2759870, licencia Pixabay (https://pixabay.com/photos/id-2759870/)

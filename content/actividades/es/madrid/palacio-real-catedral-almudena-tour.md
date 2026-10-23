@@ -9,7 +9,7 @@ slugs:
   en: royal-palace-almudena-cathedral-tour
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 58
+precioDesde: 54
 moneda: EUR
 idiomas:
 - es

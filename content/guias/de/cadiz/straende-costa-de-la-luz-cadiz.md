@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/playas-cadiz-costa-de-la-luz.jpg"
-imagen_alt: "Strand und Leuchtturm an der Costa de la Luz, Cádiz"
+imagen_alt: "Sonnenuntergang an der Küste von Cádiz"
 tiempo_lectura: 11
 keywords:
   - "strände von cadiz"

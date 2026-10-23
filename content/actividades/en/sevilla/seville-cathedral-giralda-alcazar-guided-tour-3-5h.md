@@ -129,12 +129,12 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["seville 3 5 hour tour", "cathedral alcazar long tour", "seville 3 monuments gardens", "seville free time alcazar tour", "seville photo stop tour"]
 
-imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-imagenAlt: "Courtyard of the Maidens, Royal Alcázar"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
+imagenAlt: "Gothic vaults of Seville Cathedral"
 
 galeria:
-- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: "Seville Cathedral and the Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp
+  alt: "The Giralda seen from the walls of the Royal Alcázar"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
   alt: "The Giralda lit up at night"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp

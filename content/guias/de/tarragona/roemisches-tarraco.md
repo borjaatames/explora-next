@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"
-imagen_alt: "Römisches Amphitheater von Tarragona am Meer"
+imagen_alt: "Das römische Amphitheater von Tarragona am Meer"
 tiempo_lectura: 12
 keywords:
   - "römisches tarraco"

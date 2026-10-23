@@ -5,11 +5,11 @@ descripcion: "La ciudad de Picasso, la Alcazaba y la mejor puerta de la Costa de
 resumenActividades: "La puerta de la Costa del Sol, hoy una de las capitales culturales del sur con más de treinta museos. En pocos metros: la Alcazaba, el Castillo de Gibralfaro, el Teatro Romano, la Catedral y el Museo Picasso, rematados por el puerto de Muelle Uno y la playa de la Malagueta. A una hora, el Caminito del Rey. Se ve bien en dos días."
 imagenGuias: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp"
 imagenGuiasAlt: "El Caminito del Rey en el desfiladero"
-imagenAtracciones: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
-imagenAtraccionesAlt: "La Alcazaba de Málaga sobre la ciudad"
+imagenAtracciones: "/images/actividades/malaga/alcazaba/arcos-nazaries.webp"
+imagenAtraccionesAlt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
 comunidad: "Andalucía"
-imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp"
-imagenResumenAlt: "Vista de Málaga: el puerto y la catedral"
+imagenResumen: "/images/actividades/malaga/muelle-uno/velero.webp"
+imagenResumenAlt: Velero amarrado en el puerto de Málaga
 imagen: "/images/ciudades/hero/malaga.webp"
 imagenAlt: "Puerto y ciudad de Málaga al atardecer desde lo alto"
 datosClave:
@@ -33,19 +33,19 @@ keywords:
 atracciones:
   - nombre: "Alcazaba y Castillo de Gibralfaro"
     descripcion: "La fortaleza palaciega musulmana mejor conservada de España, escalonada sobre la ciudad, y el castillo de Gibralfaro en lo alto, unidos por una muralla con vistas al puerto y a la plaza de toros."
-    imagen: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
-    imagenAlt: "La Alcazaba de Málaga sobre la ciudad"
+    imagen: "/images/actividades/malaga/alcazaba/arcos-nazaries.webp"
+    imagenAlt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
   - nombre: "Catedral de Málaga (La Manquita)"
     descripcion: "La gran catedral renacentista del centro, apodada 'La Manquita' por su torre sur inacabada. Sube a las cubiertas para una de las mejores panorámicas de la ciudad."
-    imagen: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
-    imagenAlt: "La Catedral de Málaga, La Manquita"
+    imagen: "/images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp"
+    imagenAlt: Fachada principal de la catedral de Málaga
   - nombre: "Museo Picasso"
     descripcion: "El museo dedicado al hijo más universal de Málaga, en el Palacio de Buenavista. Reúne más de 200 obras y completa la ruta picassiana junto a su casa natal en la Plaza de la Merced."
-    imagen: "/images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp"
-    imagenAlt: "Patio del Museo Picasso de Málaga, en el Palacio de Buenavista"
+    imagen: "/images/actividades/malaga/museo-picasso/patio-flores.webp"
+    imagenAlt: Patio con flores del Museo Picasso Málaga
   - nombre: "Teatro Romano"
     descripcion: "El teatro romano del siglo I a los pies de la Alcazaba, símbolo del pasado romano de la ciudad. Se ve gratis y resume tres culturas superpuestas en cien metros."
-    imagen: "/images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp"
+    imagen: "/images/actividades/malaga/teatro-romano/gradas-2.webp"
     imagenAlt: "El Teatro Romano de Málaga con la Alcazaba al fondo"
   - nombre: "Caminito del Rey"
     descripcion: "La pasarela colgada en el desfiladero de los Gaitanes, a una hora de Málaga. Una de las experiencias de naturaleza más vendidas de España; las entradas se agotan, reserva con antelación."
@@ -53,8 +53,8 @@ atracciones:
     imagenAlt: "El Caminito del Rey, pasarelas colgadas en el desfiladero"
   - nombre: "Muelle Uno y las playas"
     descripcion: "El puerto reformado con su paseo, el Centre Pompidou y la Malagueta a un paso. La cara mediterránea y de chiringuito de la ciudad."
-    imagen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp"
-    imagenAlt: "El puerto y Muelle Uno de Málaga con la catedral al fondo"
+    imagen: "/images/actividades/malaga/muelle-uno/velero.webp"
+    imagenAlt: Velero amarrado en el puerto de Málaga
 chipsFiltros:
   - { label: "Alcazaba y Gibralfaro", tag: "alcazaba-gibralfaro" }
   - { label: "Museo Picasso", tag: "picasso" }

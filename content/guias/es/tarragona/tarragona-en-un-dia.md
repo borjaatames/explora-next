@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
-imagen_alt: "Anfiteatro romano de Tarragona con el Mediterráneo al fondo"
+imagen_alt: "Catedral de Tarragona"
 tiempo_lectura: 4
 keywords:
   - "qué ver en tarragona"

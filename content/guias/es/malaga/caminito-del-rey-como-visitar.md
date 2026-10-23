@@ -64,14 +64,16 @@ El Caminito es un recorrido **lineal** de unos 7,7 km (3 km de pasarelas anclada
 
 > **⭐ Tip:** las entradas salen a la venta con meses de antelación en la web oficial y vuelan. Mira primero las fechas disponibles del Caminito y **monta el viaje alrededor de ese día**, no al revés.
 
+Si la web oficial ya sale agotada, en [qué hacer si las entradas del Caminito del Rey están agotadas](/guias/malaga/caminito-del-rey-entradas-agotadas) repasamos todas las opciones que quedan.
+
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Precios, horarios y edades
 
 - **Entrada general:** 10 € por libre y 18 € con visita guiada oficial, siempre en la web oficial y con hora fija de entrada. El **bus lanzadera** entre la entrada sur (El Chorro) y la norte (Ardales) cuesta 2,50 € y conviene comprarlo con la entrada.
-- **Horarios:** de martes a domingo, con entradas cada media hora desde las 9:00 hasta primera hora de la tarde (más tarde en verano). **Cierra los lunes** y los días de viento fuerte o lluvia intensa, con devolución del importe.
+- **Horarios:** de martes a domingo, con entradas cada media hora desde las 9:00 hasta primera hora de la tarde (más tarde en verano). **Cierra los lunes** y los días de viento fuerte o lluvia intensa, y entonces puedes cambiar la entrada a otra fecha desde tu área personal, según disponibilidad.
 - **Edad mínima: 8 años**, sin excepciones, y los menores de edad siempre acompañados. No hay límite de edad superior, pero son 7,7 km sin bancos ni sombra.
-- **Aforo:** unas 1.100 personas al día. Las entradas se ponen a la venta por semestres y las de primavera y otoño se agotan en días; las de pleno verano y entre semana en invierno, no tanto.
+- **Aforo:** hasta 1.500 personas al día. Las entradas se ponen a la venta por semestres y las de primavera y otoño se agotan en días; las de pleno verano y entre semana en invierno, no tanto.
 - **Tiempo total:** entre 3 y 4 horas contando los accesos a pie (1,5-2,7 km desde cada aparcamiento, según la entrada) y la lanzadera. Si vienes en tren desde Málaga, calcula el día entero.
 - **Casco obligatorio** (lo dan allí) y prohibido entrar con paraguas, bastones con punta metálica, drones y mascotas.
 - **Baños:** solo en las entradas, no en el recorrido.

@@ -45,8 +45,8 @@ atracciones:
     imagenAlt: "Las casas de colores sobre el río Oñar en Girona"
   - nombre: "Baños Árabes y Sant Pere de Galligants"
     descripcion: "Los baños románicos del siglo XII y el monasterio de Sant Pere, dos joyas medievales en el casco antiguo junto a la muralla."
-    imagen: "/images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp"
-    imagenAlt: "Interior de los Baños Árabes de Girona"
+    imagen: "/images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp"
+    imagenAlt: Columnas y cúpula de los Baños Árabes de Girona
   - nombre: "Passeig de la Muralla"
     descripcion: "El paseo por lo alto de la muralla carolingia que rodea el casco antiguo, con vistas a los tejados, la catedral y la campiña."
     imagen: "/images/actividades/girona/muralla/muralla-girona-hero.webp"

@@ -3,13 +3,13 @@ nombre: "Córdoba"
 slug: "cordoba"
 descripcion: "The Mosque-Cathedral, the Jewish Quarter and the patios. The city of three cultures and one of the most beautiful old towns in Europe."
 resumenActividades: "The former capital of the caliphate and city of three cultures, with one of Europe's most beautiful old towns. Its jewel is the Mosque-Cathedral; around it, the Jewish Quarter, the Alcázar de los Reyes Cristianos, the Roman Bridge and the famous flower-filled patios. Compact enough to see in one or two days, though it's worth staying overnight. Best in spring."
-imagenGuias: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
-imagenGuiasAlt: "Alley in Córdoba's Jewish Quarter"
-imagenAtracciones: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
-imagenAtraccionesAlt: "Interior of the Mosque-Cathedral of Córdoba"
+imagenGuias: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+imagenGuiasAlt: Calleja de las Flores with blue flowerpots
+imagenAtracciones: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+imagenAtraccionesAlt: Orange trees and the Mosque tower
 comunidad: "Andalusia"
-imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
-imagenResumenAlt: "Mezquita-Catedral de Córdoba"
+imagenResumen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+imagenResumenAlt: Orange trees and the Mosque tower
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "The Mosque-Cathedral of Córdoba and the Roman Bridge reflected in the Guadalquivir"
 datosClave:
@@ -36,12 +36,12 @@ slugs:
 atracciones:
   - nombre: "Mosque-Cathedral"
     descripcion: "Córdoba's most impressive monument and one of Spain's greatest: a forest of 856 columns and two-tone arches with a Renaissance cathedral built inside it. A UNESCO World Heritage Site and the symbol of the city of three cultures. Book your ticket in advance."
-    imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
-    imagenAlt: "Interior of the Mosque-Cathedral of Córdoba with its two-tone arches"
+    imagen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+    imagenAlt: Orange trees and the Mosque tower
   - nombre: "The Jewish Quarter and Synagogue"
     descripcion: "The maze of white alleys of the medieval Jewish quarter, with the 14th-century Synagogue —one of only three preserved in Spain— and the famous Calleja de las Flores. Explored on foot, it wraps around the Mosque."
-    imagen: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
-    imagenAlt: "Calleja de las Flores in Córdoba's Jewish Quarter"
+    imagen: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+    imagenAlt: Calleja de las Flores with blue flowerpots
   - nombre: "Alcázar of the Christian Monarchs"
     descripcion: "The fortress-palace where the Catholic Monarchs lived, with its towers, Arab baths and, above all, terraced gardens of pools and fountains that are among the most photographed sights in Córdoba."
     imagen: "/images/actividades/cordoba/alcazar/alcazar-cordoba-jardines-hero.webp"
@@ -52,8 +52,8 @@ atracciones:
     imagenAlt: "Roman Bridge of Córdoba over the Guadalquivir with the Mosque behind"
   - nombre: "The Patios of Córdoba"
     descripcion: "Whitewashed patios filled with pots and flowers, an Intangible Cultural Heritage. The Palacio de Viana gathers twelve of the finest; in May, the Patio Festival opens dozens of private homes."
-    imagen: "/images/actividades/cordoba/patios/patios-cordoba-hero.webp"
-    imagenAlt: "Whitewashed Córdoba courtyard full of flower pots"
+    imagen: "/images/actividades/cordoba/patios/patio-arcos.webp"
+    imagenAlt: Courtyard with arches and flowers
   - nombre: "Medina Azahara"
     descripcion: "The palatial city of Caliph Abd al-Rahman III, on the outskirts. The ruins of the capital of the Western Umayyad Caliphate, a UNESCO World Heritage Site. Visited as a half-day trip from Córdoba."
     imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/salamanca-en-1-dia.jpg"
-imagen_alt: "Plaza Mayor von Salamanca, einer der schönsten Plätze Spaniens"
+imagen_alt: "Plaza Mayor von Salamanca"
 tiempo_lectura: 10
 keywords:
   - "salamanca an einem tag"

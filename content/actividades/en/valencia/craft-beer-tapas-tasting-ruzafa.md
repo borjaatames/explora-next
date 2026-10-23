@@ -8,7 +8,7 @@ slugs:
   en: craft-beer-tapas-tasting-ruzafa
 duracion: 1.5 hours
 duracionMinutos: 90
-precioDesde: 29
+precioDesde: 28.5
 moneda: EUR
 idiomas:
 - en

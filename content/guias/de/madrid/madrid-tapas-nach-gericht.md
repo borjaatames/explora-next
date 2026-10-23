@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/tapas-madrid-criterio.jpg"
-imagen_alt: "Schinkenschneider bereitet dünne Scheiben iberischen Schinkens in einer Madrider Bar zu"
+imagen_alt: "Holzinterieur einer traditionellen Taverne in Madrid"
 tiempo_lectura: 12
 keywords:
   - "beste tapas madrid"

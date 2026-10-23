@@ -101,24 +101,24 @@ keywords: ["tour vinos tapas madrid", "vine travel madrid", "tour la latina vino
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/calles-centro/calles-madrid-centro-building-architecture-urban-city-hero.webp"
-imagenAlt: "building, madrid, architecture, urban, city"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
+imagenAlt: "Jamones ibéricos colgados sobre la barra de un bar"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-tapa-aceitunas-hero.webp"
-    alt: "Tapas madrid tapa aceitunas en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
+    alt: "Jamones ibéricos colgados sobre la barra de un bar"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
     alt: "Bartender skillfully measures and pours red wine in a bar setting."
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp"
     alt: "Calles historicas madrid brown white concrete building en Calles historicas"
   - src: "/images/actividades/madrid/barrio-letras/barrio-letras-madrid-foto-774234-hero.webp"
     alt: "Madrid 20"
-  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-2018-hero.webp"
-    alt: "Mercado de San Miguel Madrid 2018"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "Mercado de San Miguel"
   - src: "/images/actividades/madrid/gran-via/gran-via-madrid-madrid-city-road-sky-clouds-hero.webp"
     alt: "Gran via madrid madrid city road sky clouds en Gran via"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-open-toast-spanish-omelette-hero.webp"
-    alt: "Tapas madrid open toast spanish omelette en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
+    alt: "Botella de vino tinto y dos copas servidas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp"
     alt: "Tapas madrid person pouring red wine into glass en Tapas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"

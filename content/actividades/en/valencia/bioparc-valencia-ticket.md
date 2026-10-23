@@ -8,7 +8,7 @@ slugs:
   en: bioparc-valencia-ticket
 duracion: 1 day (3-4 hour visit)
 duracionMinutos: 240
-precioDesde: 30
+precioDesde: 29.5
 moneda: EUR
 idiomas:
 - en

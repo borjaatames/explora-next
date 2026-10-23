@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
-imagen_alt: "Cobbled street in Granada's Albaicín neighborhood"
+imagen_alt: "Generalife's Patio de la Acequia with its pool and fountains"
 keywords:
   - "granada with kids"
   - "things to do in granada with kids"

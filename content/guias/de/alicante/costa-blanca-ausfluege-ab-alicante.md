@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-costa-blanca-desde-alicante.jpg"
-imagen_alt: "Strände der Costa Blanca bei Alicante"
+imagen_alt: "Das Dorf Guadalest auf seinem Felsen"
 tiempo_lectura: 11
 keywords:
   - "ausflüge ab alicante"

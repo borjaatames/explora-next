@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: ¿Está incluido el teleférico?
   respuesta: No, el billete (unos 22 €) se paga aparte.
 - pregunta: ¿Hace falta permiso para la cumbre?
-  respuesta: Sí, el último tramo al pico exige permiso gratuito del Parque Nacional. Tras reservar, confirma con el proveedor quién lo tramita.
+  respuesta: Sí, el último tramo al pico exige un permiso que se reserva en Tenerife ON, la web del Cabildo (15 € para quien no reside en Canarias). Tras reservar, confirma con el proveedor si lo incluye o tienes que sacarlo tú.
 opinionEditorial: La forma más segura de pisar el techo de España. Es cara y exigente, pero el guía marca el ritmo con la altitud y la nota es casi perfecta.
 guiasRelacionadas:
 - subir-al-teide

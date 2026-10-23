@@ -108,8 +108,8 @@ galeria:
   alt: "Fachada de la Sagrada Familia de Barcelona"
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia, basílica modernista de Gaudí en Barcelona con torres góticas y fachada ornamentada
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia con torres góticas en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
   alt: Techo intrincado con columnas decorativas de la Sagrada Familia en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-21683585-hero.webp

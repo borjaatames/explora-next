@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
-imagen_alt: "Palma Cathedral (La Seu) in Mallorca at sunset"
+imagen_alt: Palma Cathedral (La Seu) facade overlooking the bay of Palma, Mallorca
 tiempo_lectura: 13
 keywords:
   - "what to see in mallorca"

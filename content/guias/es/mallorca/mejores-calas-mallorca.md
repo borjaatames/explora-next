@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"
-imagen_alt: "Catedral de Palma de Mallorca al atardecer"
+imagen_alt: "Agua turquesa en la cala Caló des Moro, Mallorca"
 tiempo_lectura: 4
 keywords:
   - "mejores calas de mallorca"

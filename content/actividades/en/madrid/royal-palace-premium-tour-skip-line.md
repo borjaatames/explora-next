@@ -9,7 +9,7 @@ slugs:
   en: royal-palace-premium-tour-skip-line
 duracion: 2 hours
 duracionMinutos: 120
-precioDesde: 44.59
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es
@@ -56,7 +56,7 @@ informacionImportante:
   noAptoPara:
   - Pets (service dogs only)
   aTenerEnCuenta:
-  - Photography is NOT allowed inside the palace
+  - Photos are allowed inside the palace, without flash or tripod
   - Palace opening hours and days may vary due to official events
   - The Royal Armoury may be closed for refurbishment (check before booking)
   - The tour is single-language (not bilingual) — choose at booking
@@ -152,7 +152,7 @@ fecha_actualizacion: '2026-05-17'
 Madrid's Royal Palace is Western Europe's largest official residence: 135,000 m² and more than 3,000 rooms. This «premium» 2-hour guided tour walks it with a local freelance guide (madzguía) holding a perfect rating on GetYourGuide.
 
 - **Throne Room:** canopy, lions and Tiépolo's ceiling. The most representative hall of the palace.
-- **Gasparini Chamber:** Italian Rococo in its most exuberant form, commissioned by Charles III. One of the most photogenic halls (although photography inside is not allowed).
+- **Gasparini Chamber:** Italian Rococo in its most exuberant form, commissioned by Charles III. One of the most photogenic halls (photos without flash are allowed).
 - **Charles III's apartments:** the enlightened king's rooms, with Sabatini's original decoration.
 - **Porcelain Room:** a room entirely covered in porcelain. A unique rarity in the palace.
 - **25 main halls:** furniture, tapestries, jewellery, clocks and paintings by Giordano and Goya.
@@ -165,7 +165,7 @@ Madrid's Royal Palace is Western Europe's largest official residence: 135,000 m�
 
 The guide carries a **light-blue umbrella** for identification. **Arrive 10 minutes early**.
 
-The visit lasts **exactly 2 hours**, in a group with included radio guides. The tour is **monolingual** — pick Spanish or English at booking, it doesn't work in both languages at once. Inside the palace **photography is not allowed**.
+The visit lasts **exactly 2 hours**, in a group with included radio guides. The tour is **monolingual** — pick Spanish or English at booking, it doesn't work in both languages at once. Since 2024 you can take photos inside the palace, **without flash**.
 
 The Royal Armoury is included in the ticket but the guide doesn't explain it — you can visit it on your own at the end of the tour. **Warning:** it may be closed for refurbishment (check before booking).
 

@@ -7,3 +7,6 @@
 - `albufera-puesta-sol-reflejos.webp` — Pixabay, Somo_Photography (Licencia Pixabay) — https://pixabay.com/photos/valencia-sunset-scenery-heaven-1327554/
 - `albufera-cielo-naranja-barca.webp` — Pixabay, Somo_Photography (Licencia Pixabay) — https://pixabay.com/photos/valencia-sunset-scenery-heaven-1275965/
 - `barca-embarcadero-lago-albufera.webp` — Pexels, Mateusz Walendzik (Licencia Pexels) — https://www.pexels.com/photo/boat-by-pier-on-sea-shore-17446516/
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `albufera-valencia-hero.webp` — Pixabay, Somo_Photography (Licencia Pixabay) — https://pixabay.com/photos/valencia-sunset-scenery-heaven-1275965/

@@ -62,8 +62,8 @@ galeria:
   alt: Colourful houses on the Onyar river, Girona
 - src: /images/actividades/girona/muralla/muralla-girona-hero.webp
   alt: Medieval city walls of Girona
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Banos Arabes
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: Alley in Girona's Jewish Call
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
   alt: Catedral Girona
 - src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp

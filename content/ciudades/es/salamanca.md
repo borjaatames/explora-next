@@ -42,8 +42,8 @@ atracciones:
     imagenAlt: "Pared con conchas de la Casa de las Conchas de Salamanca con la fachada barroca de la Clerecía al fondo"
   - nombre: "Convento de San Esteban"
     descripcion: "Convento dominico con la fachada plateresca más impresionante de la ciudad. Allí enseñó Fray Luis de León y allí debatió Colón sus viajes con los teólogos."
-    imagen: "/images/actividades/salamanca/san-esteban/convento-san-esteban-salamanca-spain-historical-building-hero.webp"
-    imagenAlt: "Fachada plateresca del Convento de San Esteban de Salamanca"
+    imagen: "/images/actividades/salamanca/centro/san-esteban.webp"
+    imagenAlt: Pórtico del convento de San Esteban
   - nombre: "Río Tormes y Puente Romano"
     descripcion: "El Puente Romano cruza el Tormes junto al verraco de piedra que hizo famoso el Lazarillo de Tormes. Las riberas son el mejor sitio para ver la silueta de las Catedrales, sobre todo al atardecer."
     imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"

@@ -10,7 +10,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
-imagen_alt: "View of Santa Bárbara Castle over Alicante bay"
+imagen_alt: Houses in the Santa Cruz quarter
 tiempo_lectura: 11
 keywords:
   - "what to see in alicante"

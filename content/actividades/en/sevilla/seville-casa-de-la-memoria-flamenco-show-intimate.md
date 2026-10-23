@@ -3,14 +3,14 @@ titulo: 'Seville: Casa de la Memoria — Intimate Flamenco Show (Top Rated 4.8 �
 slug: seville-casa-de-la-memoria-flamenco-show-intimate
 ciudad: sevilla
 descripcion: 1-hour flamenco show at Casa de la Memoria in Seville — traditional Andalusian patio with only 2 rows of seats
-  for maximum INTIMATE experience. 13,526 reviews at 4.8/5. «Likely to sell out». Sessions at 7:30 and 9 PM. From €26. Different
+  for maximum INTIMATE experience. 13,526 reviews at 4.8/5. «Likely to sell out». Sessions at 7:30 and 9 PM. From €24. Different
   internationally acclaimed artists each night.
 slugs:
   es: casa-de-la-memoria-flamenco-show-intimo-sevilla
   en: seville-casa-de-la-memoria-flamenco-show-intimate
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 26
+precioDesde: 24
 moneda: EUR
 idiomas:
 - es
@@ -91,7 +91,7 @@ preguntasFrecuentes:
     service distractions** — no drinks served during the show, pure format.'
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
   respuesta: '**Casa de la Memoria (this):** MAXIMUM INTIMACY (only 2 rows, ~30-50 seats), 15th-c. historic building, 4.8/5
-    with 13,526 reviews, from €26. RECOMMENDED if you value being 2-3 m from the artists. **Teatro Flamenco Sevilla:** Large
+    with 13,526 reviews, from €24. RECOMMENDED if you value being 2-3 m from the artists. **Teatro Flamenco Sevilla:** Large
     theater, maximum volume (18,292 reviews), central location, from €27. RECOMMENDED if you want most booked + comfortable
     tiered seats. **Museo del Baile Flamenco (Puro Flamenco):** 18th-c. Ecija patio, Cristina Hoyos choreographies, 6,456
     reviews 4.8/5, from €32. RECOMMENDED if you''re interested in iconic artistic quality. **Teatro Flamenco Triana:** Large
@@ -124,7 +124,7 @@ opinionEditorial: 'The **most intimate and highest-rated flamenco in Seville** �
   closest to "flamenco de cabales" (connoisseur audience) in an open tourist format.
 
 
-  **Price comparison:** from €26 it''s **one of the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro
+  **Price comparison:** from €24 it''s **one of the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro
   Flamenco Triana €25, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32, Tablao El Arenal €48). The low price + international
   artistic quality + maximum intimacy is the combination that justifies the 4.8/5 and 13,526 reviews.
 
@@ -157,12 +157,6 @@ keywords:
 imagen: "/images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-abanico-puerta.webp"
 imagenAlt: "Dancer with a fan at the door of Casa de la Memoria"
 galeria:
-- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
-  alt: "Andalusian architecture of the Casa de la Memoria in Seville"
-- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
-  alt: "Andalusian courtyard at the Casa de la Memoria"
-- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp"
-  alt: "Audience attending the intimate flamenco show"
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
   alt: "Inner courtyard of Casa de la Memoria in central Seville"
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
@@ -212,7 +206,7 @@ A **1-hour flamenco show in the 15th-century Andalusian patio of Casa de la Memo
 - Couples preferring intimate atmosphere (no massive tourist groups).
 - Those interested in **international artistic quality** (artists in residence rotate).
 - Visitors who can arrive **20-30 min early** to guarantee the front row.
-- Anyone seeking best value (from €26, one of the most affordable of the 5 majors).
+- Anyone seeking best value (from €24, one of the most affordable of the 5 majors).
 
 ## Who I do NOT recommend it to
 

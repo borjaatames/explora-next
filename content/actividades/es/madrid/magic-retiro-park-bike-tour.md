@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 horas"
 duracionMinutos: 120
-precioDesde: 31
+precioDesde: 29
 moneda: "EUR"
 idiomas: ["es", "en", "fr"]
 proveedor: "getyourguide"
@@ -96,20 +96,20 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["retiro bici tour", "tour bicicleta retiro madrid", "ebike retiro park", "magic retiro madrid", "tour bici parque retiro"]
 
-imagen: "/images/actividades/madrid/ebike/images-hero.webp"
-imagenAlt: "Grupo de ciclistas con el guía junto al Palacio de Cristal del Retiro"
+imagen: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
+imagenAlt: "Monumento a Alfonso XII junto al estanque del Retiro"
 
 galeria:
-  - src: "/images/actividades/madrid/retiro/parque-del-retiro-park-madrid-kristallpalast-10-hero.webp"
-    alt: "Palacio de Cristal en el Parque del Retiro de Madrid"
+  - src: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
+    alt: "Monumento a Alfonso XII junto al estanque del Retiro"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
     alt: "Palacio de Cristal y su estanque con surtidor"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-monument-alfonso-xii-hero.webp"
     alt: "Gran Estanque y monumento a Alfonso XII"
-  - src: "/images/actividades/madrid/retiro/parque-retiro-stunning-view-palacio-cristal-hero.webp"
-    alt: "Palacio de Cristal entre los árboles en otoño"
-  - src: "/images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp"
-    alt: "Columnata del monumento a Alfonso XII"
+  - src: "/images/actividades/madrid/retiro/retiro-estanque-barcas.webp"
+    alt: "Barcas en el estanque del Retiro"
+  - src: "/images/actividades/madrid/retiro/retiro-palacio-cristal.webp"
+    alt: "Palacio de Cristal en el parque del Retiro"
   - src: "/images/actividades/madrid/retiro/parque-retiro-palacio-cristal-madrid-03-hero.webp"
     alt: "Estanque del Palacio de Cristal"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"

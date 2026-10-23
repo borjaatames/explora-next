@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 hours"
 duracionMinutos: 120
-precioDesde: 31
+precioDesde: 29
 moneda: "EUR"
 idiomas: ["es", "en", "fr"]
 proveedor: "getyourguide"
@@ -85,7 +85,7 @@ preguntasFrecuentes:
 variantes: ["madrid-3-hour-sightseeing-e-bike-tour"]
 
 opinionEditorial: |
-  This is the dedicated bike tour of Retiro Park: 4.8/5 across 73 reviews, top rated, with guide rated 4.9/5. Small group of 10 people. Complete route through the park (Crystal Palace, Rose Garden, Forest of Remembrance, Pond, Fallen Angel, etc.). Operator: Madrid Segway, although the activity is on traditional or electric bike. Competitive price from €31, with helmet and photos included.
+  This is the dedicated bike tour of Retiro Park: 4.8/5 across 73 reviews, top rated, with guide rated 4.9/5. Small group of 10 people. Complete route through the park (Crystal Palace, Rose Garden, Forest of Remembrance, Pond, Fallen Angel, etc.). Operator: Madrid Segway, although the activity is on traditional or electric bike. Competitive price from €29, with helmet and photos included.
 
   What's worth knowing. Arrive the 15 minutes before the tour: the operator is strict on punctuality — more than 10 min late and they relocate you or you lose your spot. The recurring complaint in recent reviews is the condition of some bikes (uncomfortable saddles, soft tyres, mediocre e-bikes). Not generalised, but if the first bike you get isn't smooth, ask for a swap — several travellers have resolved it that way on the go. If you book in French, note availability is only Wednesday to Sunday.
 
@@ -96,20 +96,20 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["retiro bike tour", "retiro park bike tour madrid", "ebike retiro park", "magic retiro madrid", "park retiro cycling tour"]
 
-imagen: "/images/actividades/madrid/ebike/images-hero.webp"
-imagenAlt: "Cyclists with their guide by the Crystal Palace in Retiro Park"
+imagen: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
+imagenAlt: "Alfonso XII monument by the Retiro lake"
 
 galeria:
-  - src: "/images/actividades/madrid/retiro/parque-del-retiro-park-madrid-kristallpalast-10-hero.webp"
-    alt: "Palacio de Cristal en el Parque del Retiro de Madrid"
+  - src: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
+    alt: "Alfonso XII monument by the Retiro lake"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
     alt: "The Crystal Palace and its pond with fountain"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-stunning-monument-alfonso-xii-hero.webp"
     alt: "The Great Pond and the Alfonso XII monument"
-  - src: "/images/actividades/madrid/retiro/parque-retiro-stunning-view-palacio-cristal-hero.webp"
-    alt: "The Crystal Palace among autumn trees"
-  - src: "/images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp"
-    alt: "Colonnade of the Alfonso XII monument"
+  - src: "/images/actividades/madrid/retiro/retiro-estanque-barcas.webp"
+    alt: "Rowing boats on the Retiro lake"
+  - src: "/images/actividades/madrid/retiro/retiro-palacio-cristal.webp"
+    alt: "The Crystal Palace in Retiro Park"
   - src: "/images/actividades/madrid/retiro/parque-retiro-palacio-cristal-madrid-03-hero.webp"
     alt: "The Crystal Palace pond"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-capture-beautiful-palacio-cristal-hero.webp"

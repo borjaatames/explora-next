@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
-imagen_alt: "Tejados de Santiago de Compostela con las torres de la catedral al fondo"
+imagen_alt: Rúa do Franco con la catedral al fondo
 tiempo_lectura: 4
 keywords:
   - "camino de santiago últimos 100 km"

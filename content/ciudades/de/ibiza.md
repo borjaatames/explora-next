@@ -34,7 +34,7 @@ atracciones:
   - nombre: "Dalt Vila"
     descripcion: "Die ummauerte Oberstadt von Ibiza, UNESCO-Welterbe: Renaissance-Stadtmauern, die Kathedrale auf der Anhöhe und Gassen mit Blick auf den Hafen. Die am besten erhaltene Altstadt des Mittelmeers."
     imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
-    imagenAlt: "Dalt Vila, die ummauerte Oberstadt von Ibiza, mit der Kathedrale auf der Anhöhe"
+    imagenAlt: "Dalt Vila, die ummauerte Altstadt von Ibiza"
   - nombre: "Es Vedrà"
     descripcion: "Der Felsen, der vor der Südwestküste aus dem Meer ragt und von Legenden umrankt ist. Der Sonnenuntergang von der Cala d'Hort aus, mit Es Vedrà im Hintergrund, ist das Postkartenmotiv der Insel."
     imagen: "/images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp"
@@ -53,8 +53,8 @@ atracciones:
     imagenAlt: "Sonnenuntergang in San Antonio, Ibiza"
   - nombre: "Nachtleben"
     descripcion: "Die berühmtesten Diskotheken der Welt — Pacha, Ushuaïa, Amnesia, Hï — und die Bootspartys, die Ibiza zur Welthauptstadt der elektronischen Musik gemacht haben."
-    imagen: "/images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp"
-    imagenAlt: "Party im Ushuaïa, dem Nachtleben von Ibiza"
+    imagen: "/images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp"
+    imagenAlt: "Partyboot vor der Küste von Ibiza"
 chipsFiltros:
   - { label: "Buchten per Boot", tag: "calas-barco" }
   - { label: "Es Vedrà und Sonnenuntergang", tag: "vedra-atardecer" }

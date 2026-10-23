@@ -18,3 +18,6 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `sa-calobra-sendero.webp` — Margo Evardson, Pexels License (https://www.pexels.com/photo/woman-exploring-torrent-de-pareis-canyon-in-mallorca-37549501/)
 - `sa-calobra-barco.webp` — Hans, Pixabay License (https://pixabay.com/photos/ship-bay-see-calobra-1090460/)
 - `port-de-soller-pueblo.webp` — Tho-Ge, Pixabay License (https://pixabay.com/photos/sea-port-village-boats-8254024/)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `port-de-soller-puerto-barcas.webp` — Pixabay: 101997 (https://pixabay.com/photos/s%C3%B3ller-port-mallorca-sea-101997/) · Licencia Pixabay · perlenfinder (misma foto que /images/actividades/mallorca/soller-tren/soller-tren-pixabay-101997.webp)

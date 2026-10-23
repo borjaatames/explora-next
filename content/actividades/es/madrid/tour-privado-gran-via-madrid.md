@@ -77,8 +77,8 @@ galeria:
   alt: Edificios de arquitectura ornamentada en la Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
   alt: El edificio Metropolis, con su cupula dorada y la escultura del angel, en la Gran Via de Madrid
-- src: /images/actividades/madrid/gran-via/gran-via-madrid-brown-concrete-building-under-hero.webp
-  alt: Vista nocturna de la Gran Via de Madrid con el cartel luminoso de Schweppes al fondo
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp
+  alt: "La Gran Vía iluminada vista desde lo alto"
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-city-street-ornate-white-hero.webp
   alt: Plaza de Cibeles con el Palacio de Cibeles al fondo, junto al inicio de la Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-pedestrians-cars-hero.webp

@@ -9,7 +9,7 @@ slugs:
   en: avila-segovia-budget-day-trip
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 46
+precioDesde: 51
 moneda: EUR
 idiomas:
 - es

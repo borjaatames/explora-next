@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"
-imagen_alt: "Vista de la costa de Alicante desde el mar, camino de Tabarca"
+imagen_alt: Pueblo amurallado de la isla de Tabarca visto desde el mar
 tiempo_lectura: 3
 keywords:
   - "isla de tabarca"

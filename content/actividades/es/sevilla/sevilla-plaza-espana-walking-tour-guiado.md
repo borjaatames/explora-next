@@ -2,7 +2,7 @@
 titulo: "Sevilla: Walking Tour Guiado con Visita a Plaza de España (2h, Metropol Parasol → Plaza de España)"
 slug: "sevilla-plaza-espana-walking-tour-guiado"
 ciudad: "sevilla"
-descripcion: "Tour guiado a pie de 2 horas por Sevilla desde el Metropol Parasol (Las Setas) hasta la Plaza de España, pasando por el Hotel Alfonso XIII, la Universidad de Sevilla y el Parque de María Luisa. Guía oficial en español o inglés. Operador: Sevillian Stories. Accesible en silla de ruedas. Desde 32 €."
+descripcion: "Tour guiado a pie de 2 horas por Sevilla desde el Metropol Parasol (Las Setas) hasta la Plaza de España, pasando por el Hotel Alfonso XIII, la Universidad de Sevilla y el Parque de María Luisa. Guía oficial en español o inglés. Operador: Sevillian Stories. Accesible en silla de ruedas. Desde 30 €."
 
 slugs:
   es: "sevilla-plaza-espana-walking-tour-guiado"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 horas"
 duracionMinutos: 120
-precioDesde: 32
+precioDesde: 30
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -85,7 +85,7 @@ preguntasFrecuentes:
   - pregunta: "¿Qué es Plaza de España y por qué es importante?"
     respuesta: "La **Plaza de España** se construyó en 1928 para la Exposición Iberoamericana de 1929, diseñada por **Aníbal González**. Es un complejo semicircular con: (1) un edificio principal con dos torres simétricas (norte y sur), inspirado en el Renacimiento español; (2) un canal de agua que rodea la plaza, navegable en barcas de remo; (3) cuatro puentes que representan los antiguos reinos de España (Castilla, León, Aragón, Navarra); (4) bancos de azulejos con escenas de las 48 provincias españolas — uno de los mejores ejemplos de arte azulejero del s. XX. Aparece en películas como Star Wars Episodio II y Lawrence de Arabia. Es uno de los lugares más fotografiados de Sevilla."
   - pregunta: "¿Qué diferencia tiene con el `sevilla-small-group-city-highlights-walking-tour`?"
-    respuesta: "**Este tour (Plaza España, t1277605):** Itinerario específico Las Setas → Plaza España con foco en arquitectura moderna + 1928 Expo. 2h, ES+EN, desde 32 €. RECOMENDADO si tu prioridad es ver la Plaza de España con contexto. **City Highlights (t491716):** Itinerario clásico Catedral + Giralda + Real Alcázar (exteriores) + Barrio Santa Cruz + Plaza España. 2h, max 10 personas, 4,9/5. Desde 26 €. RECOMENDADO si quieres una visión general clásica de los monumentos UNESCO. La diferencia clave: este enfoca Plaza España como destino; el otro enfoca el casco antiguo monumental."
+    respuesta: "**Este tour (Plaza España, t1277605):** Itinerario específico Las Setas → Plaza España con foco en arquitectura moderna + 1928 Expo. 2h, ES+EN, desde 30 €. RECOMENDADO si tu prioridad es ver la Plaza de España con contexto. **City Highlights (t491716):** Itinerario clásico Catedral + Giralda + Real Alcázar (exteriores) + Barrio Santa Cruz + Plaza España. 2h, max 10 personas, 4,9/5. Desde 26 €. RECOMENDADO si quieres una visión general clásica de los monumentos UNESCO. La diferencia clave: este enfoca Plaza España como destino; el otro enfoca el casco antiguo monumental."
   - pregunta: "¿Por qué cuesta más visitar la Plaza de España aquí vs. ir por libre?"
     respuesta: "**La Plaza de España es GRATIS** — es un espacio público al aire libre. Puedes ir por libre con metro (parada Prado de San Sebastián, 5 min andando) o bus (líneas 1, 5, 6 paran cerca). El coste de 32 € de este tour cubre: (1) **guía oficial titulado** que explica la historia, la arquitectura y el contexto de cada parada (sin guía es solo «turismo de fotos»); (2) **itinerario eficiente** Las Setas → Plaza España con 5 paradas intermedias que descubres sin tener que planificar; (3) **contexto histórico** sobre la transición de Sevilla del siglo XIX al XX. Si tu único interés es ver Plaza España y hacer fotos, ve por libre y ahorra. Si te interesa la historia y la arquitectura, el tour vale el precio."
   - pregunta: "¿Hay tiempo para ver la Plaza por dentro al final del tour?"
@@ -105,8 +105,8 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["plaza españa sevilla tour", "walking tour plaza españa", "las setas plaza españa tour", "tour parque maria luisa sevilla", "walking tour sevilla 2 horas"]
 
-imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
-imagenAlt: "Plaza de España de Sevilla con sus dos torres y el canal navegable — destino final del tour"
+imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+imagenAlt: "Plaza de España reflejada en el canal"
 
 galeria:
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
@@ -123,8 +123,6 @@ galeria:
   alt: "Plaza de España iluminada de noche"
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
   alt: "Vista amplia de la Plaza de España de Sevilla"
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
-  alt: "Puente de azulejos en la Plaza de España"
 ratingProveedor: 4.8
 numeroOpiniones: 35
 

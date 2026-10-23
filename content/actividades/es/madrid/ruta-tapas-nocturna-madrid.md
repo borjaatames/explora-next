@@ -86,7 +86,7 @@ categoria: "toursGastronomicos"
 keywords: ["ruta de tapas nocturna madrid", "tour de tapas noche madrid", "tapas madrid en aleman", "tour tapas tradicionales madrid", "ruta tapas centro madrid"]
 
 imagen: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
-imagenAlt: "Jamones colgados en la barra de un bar de tapas de Madrid"
+imagenAlt: "Jamones ibéricos colgados sobre la barra de un bar"
 
 galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"

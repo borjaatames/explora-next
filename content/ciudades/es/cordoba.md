@@ -3,13 +3,13 @@ nombre: "Córdoba"
 slug: "cordoba"
 descripcion: "La Mezquita-Catedral, la Judería y los patios. La ciudad de las tres culturas y uno de los cascos históricos más bellos de Europa."
 resumenActividades: "Antigua capital del califato y ciudad de las tres culturas, con uno de los cascos históricos más bellos de Europa. Su joya es la Mezquita-Catedral; alrededor, la Judería, el Alcázar de los Reyes Cristianos, el Puente Romano y los célebres patios. Compacta, se ve en uno o dos días, aunque merece hacer noche. Mejor en primavera."
-imagenGuias: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
-imagenGuiasAlt: "Callejuela de la Judería de Córdoba"
-imagenAtracciones: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
-imagenAtraccionesAlt: "Interior de la Mezquita-Catedral de Córdoba"
+imagenGuias: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+imagenGuiasAlt: Calleja de las Flores con macetas azules
+imagenAtracciones: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+imagenAtraccionesAlt: Naranjos y torre de la Mezquita
 comunidad: "Andalucía"
-imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
-imagenResumenAlt: "Mezquita-Catedral de Córdoba"
+imagenResumen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+imagenResumenAlt: Naranjos y torre de la Mezquita
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "La Mezquita-Catedral de Córdoba y el Puente Romano reflejados en el Guadalquivir"
 datosClave:
@@ -33,12 +33,12 @@ keywords:
 atracciones:
   - nombre: "Mezquita-Catedral"
     descripcion: "El monumento más impresionante de Córdoba y uno de los grandes de España: un bosque de 856 columnas y arcos bicolor con una catedral renacentista incrustada en su interior. Patrimonio de la Humanidad y símbolo de la ciudad de las tres culturas. Reserva la entrada con antelación."
-    imagen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp"
-    imagenAlt: "Interior de la Mezquita-Catedral de Córdoba con sus arcos bicolor"
+    imagen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+    imagenAlt: Naranjos y torre de la Mezquita
   - nombre: "La Judería y la Sinagoga"
     descripcion: "El laberinto de callejuelas blancas del barrio judío medieval, con la Sinagoga del siglo XIV —una de las tres conservadas en España— y la famosa Calleja de las Flores. Se recorre a pie y rodea la Mezquita."
-    imagen: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
-    imagenAlt: "Calleja de las Flores en la Judería de Córdoba"
+    imagen: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+    imagenAlt: Calleja de las Flores con macetas azules
   - nombre: "Alcázar de los Reyes Cristianos"
     descripcion: "La fortaleza-palacio donde residieron los Reyes Católicos, con sus torres, baños árabes y, sobre todo, unos jardines escalonados de estanques y surtidores que son de lo más fotografiado de Córdoba."
     imagen: "/images/actividades/cordoba/alcazar/alcazar-cordoba-jardines-hero.webp"
@@ -49,8 +49,8 @@ atracciones:
     imagenAlt: "Puente Romano de Córdoba sobre el Guadalquivir con la Mezquita al fondo"
   - nombre: "Los Patios de Córdoba"
     descripcion: "Patios encalados repletos de macetas y flores, Patrimonio Inmaterial de la Humanidad. El Palacio de Viana reúne doce de los más bonitos; en mayo, la Fiesta de los Patios abre decenas de casas particulares."
-    imagen: "/images/actividades/cordoba/patios/patios-cordoba-hero.webp"
-    imagenAlt: "Patio cordobés encalado lleno de macetas y flores"
+    imagen: "/images/actividades/cordoba/patios/patio-arcos.webp"
+    imagenAlt: Patio con arcos y flores
   - nombre: "Medina Azahara"
     descripcion: "La ciudad palatina del califa Abderramán III, a las afueras. Las ruinas de la capital del califato omeya de Occidente, Patrimonio de la Humanidad. Se visita en media jornada desde Córdoba."
     imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"

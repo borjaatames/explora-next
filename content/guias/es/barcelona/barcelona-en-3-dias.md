@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-3-dias.jpg"
-imagen_alt: "Vista panorámica de Barcelona al anochecer"
+imagen_alt: "Zona monumental del Park Güell con mosaicos de Gaudí y vistas de Barcelona"
 tiempo_lectura: 5
 keywords:
   - "barcelona en 3 días"

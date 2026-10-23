@@ -109,8 +109,8 @@ keywords:
 imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero.webp"
 imagenAlt: El Monasterio de El Escorial, palacio y panteón real de los Austrias
 galeria:
-- src: /images/actividades/avila/avila/avila-panoramica-hero.webp
-  alt: Panorámica de Ávila con muralla medieval y edificios históricos al atardecer
+- src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
+  alt: Muralla medieval de Ávila con torres de piedra tallada y arquitectura fortaleza en España
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
   alt: El acueducto romano de Segovia con su doble hilera de arcos
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp
@@ -125,8 +125,8 @@ galeria:
   alt: 'Ávila: vista panorámica de la ciudad medieval con murallas fortificadas'
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp
   alt: Acueducto romano de Segovia con sus arcos de granito en perspectiva frontal
-- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: Fachada exterior del Alcázar de Segovia con torres medievales y muros de piedra
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp
+  alt: Alcázar de Segovia, fortaleza medieval en España con torres y murallas
 - src: /images/actividades/avila/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero-hero.webp
   alt: Catedral de Ávila con escultura religiosa en la plaza de la iglesia
 - src: /images/actividades/avila/catedral-avila/wikimedia-125754038-hero.webp

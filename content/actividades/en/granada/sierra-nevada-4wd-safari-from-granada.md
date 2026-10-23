@@ -108,17 +108,17 @@ keywords:
 - sierra nevada day trip from granada
 - sierra nevada small group
 - sierra nevada mountain refuge
-imagen: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp"
-imagenAlt: "4x4 climbing the mountain in Sierra Nevada"
+imagen: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
+imagenAlt: "Snow-capped peaks of Sierra Nevada seen from above"
 galeria:
-  - src: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp"
-    alt: "Ruta 4x4 por los caminos de montaña de Sierra Nevada"
+  - src: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
+    alt: "Snow-capped peaks of Sierra Nevada seen from above"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
     alt: "View of Granada from the San Nicolás viewpoint"
   - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"
     alt: "View of Granada from the San Nicolás viewpoint"
-  - src: "/images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp"
-    alt: "Small group of tourists with local guide on Granada mountain trail, warm interaction at mountain refuge"
+  - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-01.webp"
+    alt: "Visitors at the Mirador de San Nicolás in the Albaicín"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-04.webp"
     alt: "Around Veleta peak in Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-03.webp"

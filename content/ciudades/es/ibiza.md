@@ -34,7 +34,7 @@ atracciones:
   - nombre: "Dalt Vila"
     descripcion: "La ciudad alta amurallada de Ibiza, Patrimonio de la Humanidad: murallas renacentistas, la catedral en lo alto y callejuelas con vistas al puerto. El casco histórico mejor conservado del Mediterráneo."
     imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
-    imagenAlt: "Dalt Vila, la ciudad alta amurallada de Ibiza, con la catedral en lo alto"
+    imagenAlt: "Dalt Vila, la ciudad amurallada de Ibiza"
   - nombre: "Es Vedrà"
     descripcion: "El islote rocoso que emerge frente a la costa suroeste, envuelto en leyendas. El atardecer desde Cala d'Hort, con Es Vedrà al fondo, es la postal de la isla."
     imagen: "/images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp"
@@ -53,8 +53,8 @@ atracciones:
     imagenAlt: "Atardecer en San Antonio, Ibiza"
   - nombre: "Ocio nocturno"
     descripcion: "Las discotecas más famosas del mundo —Pacha, Ushuaïa, Amnesia, Hï— y las fiestas en barco, que han hecho de Ibiza la capital mundial de la música electrónica."
-    imagen: "/images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp"
-    imagenAlt: "Fiesta en Ushuaïa, el ocio nocturno de Ibiza"
+    imagen: "/images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp"
+    imagenAlt: Barco de fiesta navegando en Ibiza
 chipsFiltros:
   - { label: "Calas en barco", tag: "calas-barco" }
   - { label: "Es Vedrà y atardecer", tag: "vedra-atardecer" }

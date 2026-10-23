@@ -9,7 +9,7 @@ slugs:
   en: flamenco-tablao-las-carboneras
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 48
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es

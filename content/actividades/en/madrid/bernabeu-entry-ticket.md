@@ -9,7 +9,7 @@ slugs:
   en: bernabeu-entry-ticket
 duracion: 1.5 hours
 duracionMinutos: 90
-precioDesde: 42
+precioDesde: 37
 moneda: EUR
 idiomas:
 - es
@@ -119,8 +119,6 @@ keywords:
 imagen: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
 imagenAlt: "Aerial view of the new Santiago Bernabéu Stadium in Madrid at sunset"
 galeria:
-  - src: "/images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp"
-    alt: "Real Madrid dressing room at the Santiago Bernabéu Stadium"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp"
     alt: "Façade of the new Santiago Bernabéu Stadium after the renovation"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"

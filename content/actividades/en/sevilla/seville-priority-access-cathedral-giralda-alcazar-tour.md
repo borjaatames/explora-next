@@ -126,12 +126,12 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["seville 3 monuments tour", "cathedral alcazar giralda combo", "seville priority access 3 sites", "seville top selling tour", "seville best 1 day tour"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
-imagenAlt: "The Giralda seen from the walls of the Royal Alcázar"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+imagenAlt: "Grotesque Gallery in the Royal Alcázar gardens"
 
 galeria:
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
-  alt: "Courtyard of the Royal Alcázar of Seville"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: "Baths of Doña María de Padilla in the Royal Alcázar"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
   alt: "Choir of Seville Cathedral"
 - src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp

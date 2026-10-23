@@ -100,20 +100,20 @@ imagenAlt: "Rooftop view over Madrid"
 galeria:
   - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
     alt: "Cata de vinos en bodega de la Comunidad de Madrid"
-  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-ornate-white-building-trees-cars-hero.webp"
-    alt: "Cibeles Palace in Madrid"
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-street-scene-spanish-flags-hero.webp"
+    alt: Plaza de Cibeles and the Palacio de Comunicaciones
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
     alt: "Patatas bravas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"
-    alt: "Pinchos with red wine"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
+    alt: "A bottle of red wine and two filled glasses"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp"
     alt: "Sardine tapa with a glass of beer"
   - src: "/images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp"
     alt: "Gran Vía, Madrid"
-  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-water-fountain-statue-lion-top-it-hero.webp"
-    alt: "Cibeles Fountain, Madrid"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
-    alt: "Puerta del Sol, Madrid"
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+    alt: Cibeles fountain lit up at night
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Fountain and statue of Charles III at Puerta del Sol"
 ratingProveedor: 4.8
 numeroOpiniones: 619
 

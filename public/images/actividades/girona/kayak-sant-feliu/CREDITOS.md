@@ -7,3 +7,6 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `kayak-rojo-isla.webp`: «Kayaking around Kelor Island.jpg», por Phetoy6, CC0. https://commons.wikimedia.org/wiki/File:Kayaking_around_Kelor_Island.jpg
 - `sagaro-camino-ronda.webp`: «Camino de Ronda s'Agaró - panoramio (1).jpg», por Jose Francisco Villa… (Panoramio), CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Camino_de_Ronda_s'Agar%C3%B3_-_panoramio_(1).jpg
 - `sant-feliu-guixols-bahia.webp`: «View of Sant Feliu de Guíxols beach and marina.jpg», por Sgroey, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:View_of_Sant_Feliu_de_Gu%C3%ADxols_beach_and_marina.jpg
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `cala-rocosa-aguas-turquesas.webp` — Manuel Torres Garcia, licencia Pexels, vía Pexels (https://www.pexels.com/photo/12008670/)

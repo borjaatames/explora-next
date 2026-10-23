@@ -9,7 +9,7 @@ autor: ExploraSpain editorial team
 publicada: true
 destacada: true
 imagen_portada: /images/guias/alhambra-como-visitar.jpg
-imagen_alt: View of the Alhambra of Granada with the Sierra Nevada in the background at sunset
+imagen_alt: Aerial view of the Alhambra of Granada with its towers above the city
 keywords:
 - how to visit the alhambra
 - alhambra guided tour

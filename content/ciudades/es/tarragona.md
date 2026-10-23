@@ -3,8 +3,8 @@ nombre: "Tarragona"
 slug: "tarragona"
 descripcion: "La Tarraco romana frente al Mediterráneo: anfiteatro, circo y murallas Patrimonio de la Humanidad, más PortAventura a un paso."
 comunidad: "Cataluña"
-imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
-imagenAlt: "El anfiteatro romano de Tarragona junto al mar Mediterráneo"
+imagen: "/images/actividades/tarragona/romana/anfiteatro.webp"
+imagenAlt: Anfiteatro romano de Tarragona junto al mar
 datosClave:
   - etiqueta: "Habitantes"
     valor: "144.000"

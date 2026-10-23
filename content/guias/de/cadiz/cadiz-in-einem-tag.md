@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
-imagen_alt: "Denkmal der Verfassung von 1812 auf der Plaza de España in Cádiz"
+imagen_alt: "Die Dächer von Cádiz vom Torre Tavira aus"
 tiempo_lectura: 11
 keywords:
   - "was sieht man in cadiz"

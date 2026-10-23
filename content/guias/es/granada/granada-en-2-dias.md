@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"
-imagen_alt: "Edificio nazarí de la Alhambra de Granada con la sierra de fondo"
+imagen_alt: "El Palacio de Carlos V dentro del recinto de la Alhambra"
 tiempo_lectura: 5
 keywords:
   - "granada en 2 días"

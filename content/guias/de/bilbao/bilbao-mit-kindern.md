@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
-imagen_alt: "Bilbao, eine familienfreundliche Stadt"
+imagen_alt: "Ausflugsboot auf der Ría von Bilbao"
 tiempo_lectura: 10
 keywords:
   - "bilbao mit kindern"

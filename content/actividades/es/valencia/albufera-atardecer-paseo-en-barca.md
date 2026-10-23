@@ -60,16 +60,6 @@ galeria:
   alt: "Albufera de Valencia con cielo naranja al atardecer y barca"
 - src: "/images/actividades/valencia/albufera/barca-embarcadero-lago-albufera.webp"
   alt: "Barca atracada en el embarcadero de la Albufera de Valencia"
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Aguas turquesas y acantilados de la Cala Granadella, en la Costa Blanca
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Vista aerea de la Cala Granadella, con su playa y las montanas que la rodean
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Vista aerea de los acantilados y el mar de la Cala Granadella
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Aguas cristalinas y rocas en la orilla de la Cala Granadella
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Cala Granadella con un velero fondeado y la playa entre acantilados
 publicada: false
 destacada: false
 fecha: '2026-06-18'

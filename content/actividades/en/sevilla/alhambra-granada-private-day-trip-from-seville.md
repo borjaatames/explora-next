@@ -77,8 +77,8 @@ galeria:
   alt: "Patio de los Arrayanes at the Alhambra"
 - src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp"
   alt: "Wine Gate at the Alhambra of Granada"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-spain-fortress-castle-architecture-hero.webp"
-  alt: "Fortress of the Alhambra of Granada"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
+  alt: Ornate columns of Alhambra palace in Granada, Spain with Islamic geometric patterns
 - src: https://imgcdn.bokun.tools/aa9285f2-3bd3-4de9-97c1-c19aa04416c2.jpg
   alt: The Alhambra from the San Nicolás viewpoint
 - src: https://imgcdn.bokun.tools/654e039b-81ea-4c58-991a-959a2acc00a3.jpg

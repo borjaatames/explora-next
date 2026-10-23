@@ -72,13 +72,13 @@ keywords:
 - seville shore excursion from cadiz
 - cadiz cruise port seville tour
 - cadiz shore excursion seville
-imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-imagenAlt: Seville Cathedral and the Giralda
+imagen: "https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg"
+imagenAlt: Seville rooftops with the Cathedral at sunset
 galeria:
 - src: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
   alt: Seville rooftops with the Cathedral at sunset
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
-  alt: Courtyard of the Maidens in the Royal Alcázar
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: "Baths of Doña María de Padilla in the Royal Alcázar"
 - src: https://imgcdn.bokun.tools/7597a4b4-3633-4f0a-9e85-b729770b88aa.jpg
   alt: Seville's Plaza de España with its canal
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp

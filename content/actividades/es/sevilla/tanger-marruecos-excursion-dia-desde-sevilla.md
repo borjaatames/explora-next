@@ -4,13 +4,13 @@ slug: tanger-marruecos-excursion-dia-desde-sevilla
 ciudad: sevilla
 descripcion: Excursión de 15 horas a Tánger (Marruecos) desde Sevilla — la única excursión INTERNACIONAL desde Sevilla. Ferry
   rápido Tarifa-Tánger (cruce del Estrecho de Gibraltar), tour por la Medina, Cuevas de Hércules, Cabo Espartel, almuerzo
-  marroquí incluido. Guía en 4 idiomas (ES/EN/FR/IT). PASAPORTE OBLIGATORIO. Desde 230 €.
+  marroquí incluido. Guía en 4 idiomas (ES/EN/FR/IT). PASAPORTE OBLIGATORIO. Desde 219 €.
 slugs:
   es: tanger-marruecos-excursion-dia-desde-sevilla
   en: tangier-morocco-day-trip-from-seville
 duracion: 15 horas
 duracionMinutos: 900
-precioDesde: 230
+precioDesde: 219
 moneda: EUR
 idiomas:
 - es
@@ -174,8 +174,8 @@ keywords:
 - tanger dia ferry
 - africa desde sevilla 1 dia
 - tanger guiado español sevilla
-imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp"
-imagenAlt: "Callejuela estrecha de la Medina con puertas de madera pintada, tiendas de bazar y vendedores en mercado marroquí"
+imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
+imagenAlt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"
 galeria:
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
   alt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"

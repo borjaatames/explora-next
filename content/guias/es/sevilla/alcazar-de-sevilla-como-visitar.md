@@ -9,7 +9,7 @@ autor: Equipo ExploraSpain
 publicada: true
 destacada: true
 imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
-imagen_alt: Arco mudéjar del Real Alcázar de Sevilla con su decoración tallada en piedra
+imagen_alt: "Patio interior del Real Alcazar de Sevilla"
 tiempo_lectura: 3
 keywords:
 - real alcázar sevilla
@@ -58,6 +58,8 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 - **Gratis para todos:** los lunes, de 18:00 a 19:00 de abril a septiembre y de 16:00 a 17:00 de octubre a marzo. Solo online, con aforo limitado, y las plazas vuelan en minutos. No cuentes con ello salvo que lo tengas reservado.
 - **Horario:** de 9:30 a 19:00 de abril a septiembre; de 9:30 a 17:00 de octubre a marzo. Última entrada una hora antes del cierre. Cierra el 1 y el 6 de enero, Viernes Santo y 25 de diciembre.
 - **Cómo llegar:** se entra por la Puerta del León, en la Plaza del Triunfo, frente a la Catedral. Metro Puerta de Jerez (L1) o tranvía Archivo de Indias, ambos a 3 minutos a pie. No hay aparcamiento en el recinto; los más cercanos son los de la Avenida de Roma y Paseo de Colón.
+
+Si la web oficial ya sale agotada, en [qué hacer si las entradas del Alcázar de Sevilla están agotadas](/guias/sevilla/alcazar-de-sevilla-entradas-agotadas) repasamos todas las opciones que quedan.
 
 ## Qué ver dentro
 

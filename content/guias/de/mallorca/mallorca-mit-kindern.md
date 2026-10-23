@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mallorca-con-ninos.jpg"
-imagen_alt: "Gartenanlage an der Kathedrale von Palma de Mallorca"
+imagen_alt: "Wasserrutschen in einem Wasserpark auf Mallorca"
 tiempo_lectura: 11
 keywords:
   - "mallorca mit kindern"

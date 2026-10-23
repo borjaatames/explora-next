@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-en-3-dias.jpg"
-imagen_alt: "Historisches Gebäude an der Gran Vía in Madrid"
+imagen_alt: "Königspalast von Madrid, gesehen von der Plaza de Oriente"
 tiempo_lectura: 12
 keywords:
   - "madrid 3 tage"

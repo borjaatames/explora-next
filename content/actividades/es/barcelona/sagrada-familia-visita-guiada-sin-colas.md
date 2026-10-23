@@ -107,14 +107,14 @@ atraccionesRelacionadas:
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y detalles arquitectónicos ornamentales en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp
-  alt: Detalle de la bóveda central de la Sagrada Familia, a 63 metros de altura
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
+  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz natural reflejada en vidrios multicolores
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Fachada de la Sagrada Familia de Barcelona con torres y detalles arquitectónicos góticos
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36827551-hero.webp
   alt: Torres de la fachada de la Sagrada Familia con la inscripcion Sanctus
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero-hero.webp
-  alt: Fachada de la Sagrada Familia con torres góticas y diseño modernista en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Basílica de la Sagrada Familia con torres góticas y modernistas, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp

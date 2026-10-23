@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 hours"
 duracionMinutos: 120
-precioDesde: 32
+precioDesde: 29.95
 moneda: "EUR"
 idiomas: ["es", "en", "fr"]
 proveedor: "getyourguide"

@@ -9,3 +9,10 @@
 | zona-infantil.webp | Wikimedia Commons | Freddo · File:Padrinos Voladores - Parque de Atracciones de Madrid.jpg · https://commons.wikimedia.org/wiki/File:Padrinos_Voladores_-_Parque_de_Atracciones_de_Madrid.jpg | CC BY-SA 4.0 |
 
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\madrid--parque-atracciones\` (copias en `E:\imagenes-master\madrid\parque-atracciones\`).
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `montana-rusa-roja.webp` — Wikimedia Commons · Freddo · File:Tarántula - Parque de Atracciones de Madrid.jpg · https://commons.wikimedia.org/wiki/File:Tar%C3%A1ntula_-_Parque_de_Atracciones_de_Madrid.jpg · CC BY-SA 4.0
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `montana-rusa-pasajeros.webp` — Antonino Giangrasso, licencia Pexels, vía Pexels (https://www.pexels.com/photo/19546881/)
+- `noria-cielo-azul.webp` — Pixabay, foto 6552970, licencia Pixabay (https://pixabay.com/photos/id-6552970/)

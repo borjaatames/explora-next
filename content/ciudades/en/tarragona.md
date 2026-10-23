@@ -3,8 +3,8 @@ nombre: "Tarragona"
 slug: "tarragona"
 descripcion: "Roman Tarraco facing the Mediterranean: amphitheatre, circus and World Heritage walls, plus PortAventura a step away."
 comunidad: "Catalonia"
-imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
-imagenAlt: "The Roman amphitheatre of Tarragona by the Mediterranean sea"
+imagen: "/images/actividades/tarragona/romana/anfiteatro.webp"
+imagenAlt: Tarragona's Roman amphitheatre by the sea
 datosClave:
   - etiqueta: "Population"
     valor: "144,000"

@@ -8,7 +8,7 @@ slugs:
   en: tarragona-cathedral-ticket-audio-guide
 duracion: 1 day (1-hour visit)
 duracionMinutos: 60
-precioDesde: 13
+precioDesde: 12.5
 moneda: EUR
 idiomas:
 - en

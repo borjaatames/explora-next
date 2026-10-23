@@ -122,8 +122,8 @@ galeria:
   alt: Church with brown and white architecture surrounded by trees in Park Güell, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Illuminated Gothic-style vault inside the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
   alt: Colorful ceramic statue at Park Güell with green and yellow mosaic details in Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp

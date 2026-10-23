@@ -2,7 +2,7 @@
 titulo: "Sevilla: Entrada Setas de Sevilla (Metropol Parasol) con Mirador 360°, Aurora y Audioguía"
 slug: "setas-sevilla-metropol-parasol-entrada-mirador"
 ciudad: "sevilla"
-descripcion: "Entrada a las Setas de Sevilla (Metropol Parasol) con acceso al mirador 360° a 28 m de altura, experiencia inmersiva «Feeling Sevilla» (15 min), show de luces Aurora al anochecer y audioguía en 8 idiomas (ES, EN, IT, FR, DE, PT, KO, ZH). Ticket válido para 2 visitas en 48h. Estructura de madera más grande del mundo. Desde 18 €."
+descripcion: "Entrada a las Setas de Sevilla (Metropol Parasol) con acceso al mirador 360° a 28 m de altura, experiencia inmersiva «Feeling Sevilla» (15 min), show de luces Aurora al anochecer y audioguía en 8 idiomas (ES, EN, IT, FR, DE, PT, KO, ZH). Ticket válido para 2 visitas en 48h. Estructura de madera más grande del mundo. Desde 16 €."
 
 slugs:
   es: "setas-sevilla-metropol-parasol-entrada-mirador"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "40 minutos (visita válida 2 días desde 1ª activación)"
 duracionMinutos: 40
-precioDesde: 18
+precioDesde: 16
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -107,8 +107,8 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["setas sevilla entrada", "metropol parasol entrada", "setas sevilla mirador", "las setas sevilla precio", "aurora setas sevilla", "feeling sevilla entrada"]
 
-imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-imagenAlt: "Pasarela superior de las Setas de Sevilla (Metropol Parasol) con vista a la Giralda al fondo"
+imagen: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+imagenAlt: "Metropol Parasol (Las Setas) en Sevilla"
 
 galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
@@ -117,8 +117,8 @@ galeria:
   alt: "Fachada de la Catedral de Sevilla entre palmeras"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
   alt: "Catedral de Sevilla bajo un cielo azul"
-- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: "Catedral de Sevilla y la Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp
+  alt: "La Giralda vista desde los muros del Real Alcázar"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
   alt: "Detalle de la Giralda y la Catedral de Sevilla"
 - src: /images/actividades/sevilla/setas/setas-wikimedia-sevilla-metropol-parasol-iglesia-de-la-a-01.webp

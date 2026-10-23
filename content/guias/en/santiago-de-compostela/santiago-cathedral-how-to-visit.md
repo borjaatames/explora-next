@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/catedral-de-santiago-como-visitar.jpg"
-imagen_alt: "The Obradoiro façade of Santiago de Compostela Cathedral"
+imagen_alt: Portico of Glory by Master Mateo in Santiago Cathedral
 tiempo_lectura: 11
 keywords:
   - "santiago cathedral"

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
-imagen_alt: "Blick auf die Burg Santa Bárbara über der Bucht von Alicante"
+imagen_alt: "Weiße Häuser im Viertel Santa Cruz unterhalb der Burg"
 tiempo_lectura: 11
 keywords:
   - "was sehen in alicante"

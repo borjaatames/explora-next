@@ -4,13 +4,13 @@ slug: tablao-flamenco-el-arenal-sevilla-50-anos
 ciudad: sevilla
 descripcion: Espectáculo flamenco en el Tablao El Arenal — 50 AÑOS DE HISTORIA en Sevilla, edificio del s. XVII junto a la
   Plaza de Toros de la Maestranza. Fundado por una bailaora. Top Rated 4,9/5. 1 hora de show con cuadro de artistas premiados.
-  Opción cena disponible. Desde 48 €.
+  Opción cena disponible. Desde 45 €.
 slugs:
   es: tablao-flamenco-el-arenal-sevilla-50-anos
   en: seville-flamenco-show-tablao-el-arenal-historic
 duracion: 1 hora
 duracionMinutos: 60
-precioDesde: 48
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es
@@ -64,7 +64,7 @@ informacionImportante:
   - Vestimenta smart casual (el tablao tiene cierto formalismo)
   - 'Si reservaste cena: comunica alergias o restricciones dietéticas al reservar con 48h+ antelación'
   noAptoPara:
-  - Visitantes con presupuesto muy ajustado (es el más caro de los 5 grandes — desde 48 €)
+  - Visitantes con presupuesto muy ajustado (es el más caro de los 5 grandes — desde 45 €)
   - Quien quiera intimidad de 2 filas (Casa de la Memoria es mejor — el formato mesa de restaurante distribuye al público
     en superficie mayor)
   - Vegetarianos/veganos sin avisar (las opciones de menú son tradicionales — comunica al reservar para opción vegetariana
@@ -90,13 +90,13 @@ politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reem
   de fecha sujetos a disponibilidad. Comunica alergias dietéticas con 48h+ antelación.'
 preguntasFrecuentes:
 - pregunta: ¿Por qué Tablao El Arenal es el más caro de los 5 grandes?
-  respuesta: 'El precio (desde 48 € vs. 25-32 € de los otros 4 grandes) refleja TRES factores: (1) **50 años de historia**
+  respuesta: 'El precio (desde 45 € vs. 25-32 € de los otros 4 grandes) refleja TRES factores: (1) **50 años de historia**
     y prestigio acumulado — uno de los tablaos sevillanos más antiguos y reconocidos, con reputación consolidada en el circuito
     profesional. (2) **Edificio histórico del s. XVII** restaurado — patrimonio arquitectónico del Barrio El Arenal, ambiente
     cuidado. (3) **Opción cena disponible** — es el ÚNICO de los 5 grandes flamencos top de Sevilla con dinner option real
-    (tapas o menú a la carta), lo que justifica precios desde 48 € con drink hasta ~70-90 € con cena completa. **Equivalencia
+    (tapas o menú a la carta), lo que justifica precios desde 45 € con drink hasta ~70-90 € con cena completa. **Equivalencia
     con Barcelona:** Tablao El Arenal es el equivalente sevillano del **Tablao Cordobés** de Barcelona — 55 años, La Rambla,
-    decoración nazarí, opción cena, desde 48 €. Si valoras tradición + cena + edificio histórico, Tablao El Arenal vale el
+    decoración nazarí, opción cena, desde 45 €. Si valoras tradición + cena + edificio histórico, Tablao El Arenal vale el
     precio. Si solo quieres show, los otros 4 grandes son más asequibles.'
 - pregunta: ¿Cuál es la diferencia con los otros 4 grandes flamencos de Sevilla?
   respuesta: '**Tablao El Arenal (este):** 50 años de historia, edificio s.XVII junto Maestranza, opción cena, 4,9/5, desde
@@ -143,7 +143,7 @@ opinionEditorial: 'El **tablao flamenco con más historia y prestigio de Sevilla
   calidad artística reconocida, opción cena disponible.
 
 
-  **Comparación de precios:** desde 48 € es **el más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco Triana
+  **Comparación de precios:** desde 45 € es **el más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco Triana
   25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €). El plus de 16-23 € sobre
   las otras opciones compra: (1) 50 años de tradición + reputación profesional, (2) edificio histórico s. XVII restaurado,
   (3) **opción cena REAL** — el único de los 5 grandes con dinner option completa (tapas o menú a la carta).

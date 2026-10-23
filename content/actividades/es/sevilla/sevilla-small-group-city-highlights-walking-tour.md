@@ -2,7 +2,7 @@
 titulo: "Sevilla: Walking Tour Premium Grupo Reducido — City Highlights (Max 10 personas, 4,9/5)"
 slug: "sevilla-small-group-city-highlights-walking-tour"
 ciudad: "sevilla"
-descripcion: "Walking tour PREMIUM en grupo reducido (máximo 10 personas) por los lugares más icónicos de Sevilla: Catedral, Giralda, Real Alcázar (exteriores), Barrio Santa Cruz y Plaza de España. 1.475 reseñas con 4,9/5 (Top rated). 2 horas, guía oficial titulado en español e inglés. Desde 26 €."
+descripcion: "Walking tour PREMIUM en grupo reducido (máximo 10 personas) por los lugares más icónicos de Sevilla: Catedral, Giralda, Real Alcázar (exteriores), Barrio Santa Cruz y Plaza de España. 1.475 reseñas con 4,9/5 (Top rated). 2 horas, guía oficial titulado en español e inglés. Desde 25 €."
 
 slugs:
   es: "sevilla-small-group-city-highlights-walking-tour"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2 horas"
 duracionMinutos: 120
-precioDesde: 26
+precioDesde: 25
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -24,7 +24,7 @@ highlights:
   - "Itinerario clásico: Catedral + Giralda + Real Alcázar (exteriores) + Barrio Santa Cruz + Plaza de España"
   - "2 horas con guía oficial titulado"
   - "Guía en directo en español e inglés"
-  - "Desde 26 € — relación calidad-precio excelente para formato premium small group"
+  - "Desde 25 € — relación calidad-precio excelente para formato premium small group"
   - "«Booked 5 times yesterday» — alta demanda, reserva con antelación"
   - "Cancelación GRATUITA hasta 24h antes"
 
@@ -82,7 +82,7 @@ preguntasFrecuentes:
   - pregunta: "¿Por qué es el walking tour mejor valorado de Sevilla?"
     respuesta: "**4,9/5 con 1.475 reseñas** lo posiciona como el walking tour general con la puntuación más alta de Sevilla. La fórmula del éxito tiene tres pilares: (1) **Group size MAX 10** — vs. tours estándar de 20-30 personas, el grupo pequeño permite interacción directa con el guía, preguntas en cualquier momento, ritmo adaptado al grupo. (2) **Itinerario clásico bien ejecutado** — cubre lo esencial (Catedral exterior + Giralda + Real Alcázar exterior + Barrio Santa Cruz + Plaza España) sin saltarse highlights. (3) **Guías oficiales titulados** con contexto histórico riguroso. Por 26 € la relación calidad-precio es excelente — un private tour equivalente cuesta 150+ €."
   - pregunta: "¿Qué diferencia hay con `sevilla-plaza-espana-walking-tour-guiado` (Plaza España specific)?"
-    respuesta: "**Este (City Highlights, t491716):** Itinerario clásico monumentos UNESCO (Catedral, Giralda, Alcázar exteriores) + Santa Cruz + Plaza España. Max 10 personas, 4,9/5 con 1.475 reseñas. Desde 26 €. RECOMENDADO si quieres visión general de los monumentos top. **Plaza España (t1277605):** Itinerario específico Las Setas → Plaza España con foco en arquitectura del s. XX y la Exposición 1929. ES+EN, desde 32 €. RECOMENDADO si tu prioridad es Plaza España con contexto. La diferencia clave: este es ENFOQUE MONUMENTAL CLÁSICO; el otro es ENFOQUE MODERNO + PLAZA ESPAÑA. Si solo puedes hacer uno y eres primerizo en Sevilla, este (Highlights) cubre más territorio."
+    respuesta: "**Este (City Highlights, t491716):** Itinerario clásico monumentos UNESCO (Catedral, Giralda, Alcázar exteriores) + Santa Cruz + Plaza España. Max 10 personas, 4,9/5 con 1.475 reseñas. Desde 25 €. RECOMENDADO si quieres visión general de los monumentos top. **Plaza España (t1277605):** Itinerario específico Las Setas → Plaza España con foco en arquitectura del s. XX y la Exposición 1929. ES+EN, desde 32 €. RECOMENDADO si tu prioridad es Plaza España con contexto. La diferencia clave: este es ENFOQUE MONUMENTAL CLÁSICO; el otro es ENFOQUE MODERNO + PLAZA ESPAÑA. Si solo puedes hacer uno y eres primerizo en Sevilla, este (Highlights) cubre más territorio."
   - pregunta: "¿El tour entra en la Catedral o el Alcázar?"
     respuesta: "NO — este es un walking tour por EXTERIORES. Verás la Catedral, la Giralda y el Real Alcázar **por fuera**, pero NO entras a ninguno. Para los interiores, necesitas: (1) Combo Cathedral+Giralda+Alcázar guiado (`sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar` — top vendido 9.797 reseñas, desde 62 €), (2) Catedral por libre con entrada (`catedral-sevilla-giralda-entrada-skip-line` desde 15 €), (3) Alcázar guiado (`real-alcazar-sevilla-tour-guiado-skip-line` desde 39 €). Muchos visitantes hacen este walking tour de mañana + tours de interiores de tarde — combinación ideal para conocer Sevilla en 1-2 días."
   - pregunta: "¿En qué idiomas está disponible?"
@@ -110,20 +110,20 @@ imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callej
 imagenAlt: "Callejón del Agua en el barrio de Santa Cruz"
 
 galeria:
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
-    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
+  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
+    alt: Teatro romano de Gades
   - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
     alt: "Metropol Parasol (Las Setas) en Sevilla"
   - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
     alt: "Casas de colores del barrio de Triana junto al rio Guadalquivir"
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Tour walking premium Sevilla — Catedral exterior y Giralda"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+    alt: "La Giralda vista desde los muros del Real Alcázar"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "La Giralda iluminada"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-    alt: "Patio de las Doncellas del Real Alcázar"
-  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
-    alt: "Plaza de España de Sevilla"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+    alt: "Baños de Doña María de Padilla en el Real Alcázar"
+  - src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp"
+    alt: "Plaza de España iluminada de noche"
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "Archivo General de Indias"
 

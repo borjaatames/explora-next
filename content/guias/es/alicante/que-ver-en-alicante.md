@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
-imagen_alt: "Vista del Castillo de Santa Bárbara sobre la bahía de Alicante"
+imagen_alt: Casas del barrio de Santa Cruz
 tiempo_lectura: 4
 keywords:
   - "qué ver en alicante"

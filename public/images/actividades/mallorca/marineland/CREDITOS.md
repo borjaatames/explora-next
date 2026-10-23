@@ -8,3 +8,7 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `marineland-mallorca-entrada.webp`: «Marineland Majorca - panoramio.jpg», por DICKYBOW, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Marineland_Majorca_-_panoramio.jpg
 
 - `marineland-entrada-parque.webp`: «Marineland mallorca01.jpg», por Fullet, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Marineland_mallorca01.jpg
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `delfin-salto-publico.webp` — El Coleccionista de Instantes Fotografía & Video, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Delfinario_de_Palmitos_Park.Gran_Canaria_(4759332559).jpg)
+- `vista-aerea-parque.webp` — El Coleccionista de Instantes Fotografía & Video, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Delfinario_de_Palmitos_Park.Gran_Canaria_(4759969250).jpg)

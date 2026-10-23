@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
-imagen_alt: "Vista de Bilbao con el Museo Guggenheim junto a la ría"
+imagen_alt: Plaza Nueva, en el Casco Viejo de Bilbao
 tiempo_lectura: 4
 keywords:
   - "qué ver en bilbao"

@@ -38,3 +38,12 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `pexels-30359817-hero.webp` — Pexels, foto 30359817, licencia Pexels (https://www.pexels.com/photo/30359817/)
 - `unsplash-7fElVDKXLoQ-hero.webp` — Unsplash, foto 7fElVDKXLoQ, licencia Unsplash (https://unsplash.com/photos/7fElVDKXLoQ)
 - `unsplash-EczvSxn9Ges-hero.webp` — Unsplash, foto EczvSxn9Ges, licencia Unsplash (https://unsplash.com/photos/EczvSxn9Ges)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `alhambra-granada-evening-hero.webp` — Jebulon, Public domain, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg)
+- `alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp` — Krakauer1962, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/alhambra-granada-generalife-garden-517149/)
+- `alhambra-granada-patio-arrayanes-detail-spain-hero.webp` — Jebulon, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg)
+- `alhambra-granada-puerta-vino-spain-hero.webp` — Jebulon, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Puerta_del_Vino_Alhambra_Granada_Spain.jpg)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `alhambra-granada-partal-torre-damas-reflejo-hero.webp` — You Know What Blog, licencia Pexels, vía Pexels (https://www.pexels.com/photo/29880623/)

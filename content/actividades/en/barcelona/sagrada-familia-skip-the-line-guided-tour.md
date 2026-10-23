@@ -106,14 +106,14 @@ atraccionesRelacionadas:
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
   alt: Sagrada Familia basilica front facade with ornate stone towers in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp
-  alt: Detail of the central vault of the Sagrada Familia, 63 metres high
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
+  alt: Sagrada Familia's vibrant stained glass windows with intricate colored patterns and religious iconography
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with Gothic architecture and stone spires
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36827551-hero.webp
   alt: Towers of the Sagrada Familia facade with the Sanctus inscription
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-2052656629-hero-hero.webp
-  alt: Sagrada Familia basilica with intricate Gothic architecture and soaring spires in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Illuminated Gothic-style vault inside the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with Gothic towers and construction site
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp

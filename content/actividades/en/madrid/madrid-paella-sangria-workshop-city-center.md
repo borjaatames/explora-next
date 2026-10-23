@@ -10,7 +10,7 @@ slugs:
 
 duracion: "3 hours"
 duracionMinutos: 180
-precioDesde: 61
+precioDesde: 64
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -102,10 +102,6 @@ imagen: "/images/actividades/madrid/paella/paella-pexels-31748679.webp"
 imagenAlt: "Paella cooking in the pan during the workshop"
 
 galeria:
-- src: "/images/actividades/madrid/paella/paella-clase-cocinero-fuego.webp"
-  alt: "Chef cooking paella over fire during the class"
-- src: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
-  alt: "Hands stirring the paella ingredients in the pan"
 - src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
   alt: "Freshly made seafood paella"
 - src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp

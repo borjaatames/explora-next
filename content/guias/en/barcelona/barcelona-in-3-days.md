@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-3-dias.jpg"
-imagen_alt: "Panoramic view of Barcelona at dusk"
+imagen_alt: "Park Güell monumental zone with Gaudí mosaics and Barcelona views"
 keywords:
   - "barcelona in 3 days"
   - "what to see in barcelona 3 days"

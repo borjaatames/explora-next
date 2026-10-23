@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
-imagen_alt: "Vista de Barcelona desde el Park Güell con el banco de mosaicos en primer plano"
+imagen_alt: "Parque de atracciones del Tibidabo con Barcelona al fondo"
 tiempo_lectura: 4
 keywords:
   - "barcelona con niños"

@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Vista panorámica de Sevilla al atardecer"
+imagen_alt: "Callejón del Agua en el barrio de Santa Cruz"
 tiempo_lectura: 5
 keywords:
   - "sevilla en 3 días"

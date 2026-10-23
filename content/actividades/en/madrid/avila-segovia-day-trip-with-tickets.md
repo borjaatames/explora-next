@@ -9,7 +9,7 @@ slugs:
   es: excursion-avila-segovia-con-entradas
 duracion: 9 hours
 duracionMinutos: 540
-precioDesde: 71
+precioDesde: 79
 moneda: EUR
 idiomas:
 - es

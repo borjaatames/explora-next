@@ -69,8 +69,8 @@ imagenAlt: "Two-tone arches and columns of the Córdoba Mosque-Cathedral"
 galeria:
   - src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
     alt: "The Roman Bridge and the Mosque over the Guadalquivir"
-  - src: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp"
-    alt: "Inside the Córdoba Synagogue"
+  - src: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+    alt: Calleja de las Flores with blue flowerpots
   - src: "https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg"
     alt: "Calleja de las Flores with the Mosque tower behind"
   - src: "https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg"

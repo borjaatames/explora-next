@@ -7,3 +7,6 @@
 
 <!-- Añadido 16-10-2026 desde el registro del pipeline -->
 - `sacromonte-granada-aa-cave-house-hills-2016-hero.webp` — Øyvind Holmstad, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:AA_A_CAVE_HOUSE_ON_THE_HILLS_OF_SACROMONTE_IN_GRANADA_2016.jpg)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp` — Jocelyn Erskine-Kellie from London, UK, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Caves_of_Sacromonte_(46464490595).jpg)

@@ -54,8 +54,6 @@ galeria:
   alt: "Recorrido en barca por las Cuevas de San José en Valencia"
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
   alt: "Paseo en barca por las Cuevas de San José desde Valencia (Bokun)"
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-cuevas-san-jose-estan-situadas-municipio-vall-duix-hero.webp
-  alt: "Cuevas de San José en la Vall d'Uixó, Castellón, con el río navegable"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
   alt: "Galería de las Cuevas de San José"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp

@@ -60,3 +60,20 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `unsplash-iZCMf9MZRKI-hero.webp` — Unsplash, foto iZCMf9MZRKI, licencia Unsplash (https://unsplash.com/photos/iZCMf9MZRKI)
 - `unsplash-j4eJ3gXlVQ0-hero.webp` — Unsplash, foto j4eJ3gXlVQ0, licencia Unsplash (https://unsplash.com/photos/j4eJ3gXlVQ0)
 - `unsplash-zv5o_MIc3WA-hero.webp` — Unsplash, foto zv5o_MIc3WA, licencia Unsplash (https://unsplash.com/photos/zv5o_MIc3WA)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `sagrada-familia-barcelona-spain-basilica-expiatory-2-hero.webp` — Y Anderson, CC BY-SA 3.0 es, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Barcelona,_Spain_-_Basilica_and_Expiatory_Church_of_the_Holy_Family_-_Sagrada_Familia.jpg)
+- `sagrada-familia-facade-barcelona-hero.webp` — Image tube, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Facade_of_Sagrada_Familia_in_Barcelona.JPG)
+- `sagrada-familia-intricate-ceiling-gothic-hero.webp` — Tom D'Arby, Pexels License, vía Pexels (https://www.pexels.com/photo/ceiling-in-sagrada-familia-in-barcelona-spain-6509308/)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `pexels-27348438-hero.webp` — Pexels, foto 27348438, licencia Pexels (https://www.pexels.com/photo/27348438/)
+- `pexels-36827551-hero.webp` — Pexels, foto 36827551, licencia Pexels (https://www.pexels.com/photo/36827551/)
+- `pixabay-915071-hero.webp` — Pixabay, foto 915071, licencia Pixabay (https://pixabay.com/photos/id-915071/)
+- `unsplash-Sy4CXsj6BDE-hero.webp` — Unsplash, foto Sy4CXsj6BDE, licencia Unsplash (https://unsplash.com/photos/Sy4CXsj6BDE)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `wikimedia-54567122-hero.webp` — Mariano Asensio, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sagrada_Familia_techo_Nave_central_63_metros_de_alto_de_Gaudi_-_panoramio.jpg)
+- `wikimedia-9033308-hero.webp` — Bernard Gagnon, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sagrada_Familia_04.jpg)
+- `wikimedia-9029528-hero.webp` — Bernard Gagnon, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sagrada_Familia_03.jpg)
+- `sagrada-familia-intricate-ceiling-columns-hero-hero.webp` — AXP Photography, licencia Pexels, vía Pexels (https://www.pexels.com/photo/27348442/)

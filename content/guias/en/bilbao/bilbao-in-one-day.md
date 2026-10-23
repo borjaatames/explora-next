@@ -10,7 +10,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
-imagen_alt: "View of Bilbao with the Guggenheim Museum beside the estuary"
+imagen_alt: Plaza Nueva in Bilbao's Old Town
 tiempo_lectura: 11
 keywords:
   - "what to see in bilbao"

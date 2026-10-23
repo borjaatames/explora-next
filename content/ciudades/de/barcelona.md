@@ -61,7 +61,7 @@ atracciones:
     imagenAlt: "Eingang des Mercat de la Boqueria von den Ramblas aus"
   - nombre: "Catedral de Barcelona"
     descripcion: "Die gotische Kathedrale der Stadt, der Heiligen Eulalia geweiht. Kreuzgang mit 13 weißen Gänsen (eine für jedes Lebensjahr der Heiligen). Seiteneingang gegen geringe Gebühr."
-    imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-architecture-hero.webp"
+    imagen: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
     imagenAlt: "Gotische Fassade der Kathedrale von Barcelona"
   - nombre: "Palau de la Música Catalana"
     descripcion: "Jugendstil-Konzertsaal (Domènech i Montaner), UNESCO-Weltkulturerbe. Schon die Führung lohnt sich; ein Konzert dort noch mehr."

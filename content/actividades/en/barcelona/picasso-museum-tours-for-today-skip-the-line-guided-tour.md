@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1.5 hours"
 duracionMinutos: 90
-precioDesde: 40
+precioDesde: 39
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

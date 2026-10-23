@@ -68,7 +68,9 @@ El sendero **Telesforo Bravo** (653 m, unos 40 minutos y 168 m de desnivel) llev
 - **Precio:** desde el 19 de enero de 2026, **15 €** para visitantes de fuera de Canarias, 6 € para residentes en otras islas y gratis para residentes en Tenerife y menores de 14 años.
 - **Franjas:** de 90 minutos desde octubre de 2026. Los días nuevos se abren cada **lunes a las 7:00**, con unas semanas de antelación; en verano y Semana Santa vuelan.
 - **Cuadra el teleférico** con tu franja y mira la última bajada si eliges una franja tardía.
-- **Reembolsos** solo si el sendero se cierra por meteorología o el teleférico no funciona. Subir sin permiso puede costar una multa de hasta 600 €.
+- **Reembolsos** solo si el sendero se cierra por meteorología o el teleférico no funciona. Subir sin permiso puede acarrear una sanción.
+
+Si el permiso o el teleférico salen agotados, en [qué hacer si el teleférico o el permiso del Teide están agotados](/guias/tenerife/teide-entradas-agotadas) repasamos todas las opciones que quedan.
 
 ## El Refugio de Altavista
 

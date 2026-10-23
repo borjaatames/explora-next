@@ -7,3 +7,6 @@ Originales de 450-640 px ampliados a 1600 px (WebP q82, enfoque suave).
 
 - big-bus-madrid-cibeles.webp · big-bus-madrid-puerta-alcala.webp · big-bus-madrid-piso-superior-cibeles.webp
 - big-bus-madrid-subida-pasajeros.webp · big-bus-madrid-lateral-cibeles.webp · big-bus-madrid-embarque.webp
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `EMT-Bus-Madrid_touristics-bus-min-hero.webp` — material del operador aportado por Borja, origen por confirmar

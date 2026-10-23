@@ -107,13 +107,9 @@ keywords:
 - tajo ronda excursion
 - ronda dia completo
 - excursion ronda andalucia
-imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp"
-imagenAlt: Puente Nuevo de Ronda atravesando el desfiladero del Tajo, acantilados de piedra caliza y profundo cañón
+imagen: "/images/actividades/granada/ronda/ronda-pexels-11829157.webp"
+imagenAlt: "Puente Nuevo de Ronda y las casas sobre el Tajo"
 galeria:
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
-  alt: "Ronda asomada al acantilado con casas blancas colgantes y sierra andaluza al fondo"
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
-  alt: "Arco de piedra del Puente Nuevo de Granada visto desde abajo, mostrando su estructura geométrica y arquitectura histórica."
 - src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
   alt: "Puente Nuevo de Ronda y las casas sobre el Tajo"
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp

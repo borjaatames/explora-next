@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: "Madrid's Cuatro Torres with the full moon at sunset"
+imagen_alt: Sculpture room with warm lighting at the Reina Sofía
 tiempo_lectura: 5
 keywords:
   - "madrid free"

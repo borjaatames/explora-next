@@ -4,13 +4,13 @@ slug: seville-puro-flamenco-show-dance-museum
 ciudad: sevilla
 descripcion: 1-hour flamenco show in the 18th-century Ecija patio of the Flamenco Dance Museum. Choreographies by legendary
   CRISTINA HOYOS (museum founder). 6,456 reviews at 4.8/5. 6 artists (3 dancers + 2 singers + 1 guitarist). Combined option
-  with museum ticket. Sessions at 5, 7 and 8:45 PM. From €32.
+  with museum ticket. Sessions at 5, 7 and 8:45 PM. From €33.
 slugs:
   es: museo-baile-flamenco-puro-show-sevilla
   en: seville-puro-flamenco-show-dance-museum
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 32
+precioDesde: 33
 moneda: EUR
 idiomas:
 - es
@@ -103,7 +103,7 @@ preguntasFrecuentes:
     the only flamenco venue with this distinction.'
 - pregunta: What's the difference vs. Casa de la Memoria and the other 3 majors?
   respuesta: '**Museo del Baile Flamenco (this):** 18th-c. Ecija patio + Cristina Hoyos signature, iconic artistic quality,
-    6,456 reviews 4.8/5, from €32. RECOMMENDED if you value artistic quality + Cristina Hoyos figure. **Casa de la Memoria:**
+    6,456 reviews 4.8/5, from €33. RECOMMENDED if you value artistic quality + Cristina Hoyos figure. **Casa de la Memoria:**
     15th-c. patio + only 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value being 2-3 m from
     the artists. **Teatro Flamenco Sevilla:** Large theater, maximum volume (18,292 reviews), comfortable tiered seats, from
     €27. RECOMMENDED if you want most booked + comfort. **Teatro Flamenco Triana:** Theater in Triana (historic gypsy neighborhood),
@@ -137,7 +137,7 @@ opinionEditorial: '**Flamenco with the Cristina Hoyos signature** — 6,456 revi
   by her or her team, giving characteristic artistic quality.
 
 
-  **Price comparison:** from €32 it''s **the second most expensive** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
+  **Price comparison:** from €33 it''s **the second most expensive** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
   Triana €25, Casa de la Memoria €26, Teatro Flamenco Sevilla €27, Tablao El Arenal €48). The €5-6 premium over Casa
   de la Memoria buys: Hoyos choreography + 18th-c. Ecija patio + museum combined option (+€7). The combined option (+€7 =
   €39 total) is the best deal if you have 2-3 days in Seville and are interested in flamenco culture in depth.

@@ -100,8 +100,8 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["seville paella experience", "seville sangria tasting", "paella show cooking seville", "seville food experience english", "paella class seville"]
 
-imagen: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
-imagenAlt: "Cook adding olive oil to a paella over the fire"
+imagen: "/images/actividades/madrid/paella/paella-pixabay-1167973.webp"
+imagenAlt: "Mixed paella cooked over firewood"
 
 galeria:
   - src: "/images/actividades/madrid/paella/paella-pexels-36878063.webp"

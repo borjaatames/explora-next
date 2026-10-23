@@ -10,7 +10,7 @@ slugs:
   en: girona-costa-brava-small-group-hotel-pickup
 duracion: 10 hours
 duracionMinutos: 600
-precioDesde: 99
+precioDesde: 98.5
 moneda: EUR
 idiomas:
 - en

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-1-dia.jpg"
-imagen_alt: "Platz im Gotischen Viertel von Barcelona"
+imagen_alt: "Fassade der Casa Batlló von Gaudí in Barcelona"
 tiempo_lectura: 13
 keywords:
   - "barcelona in einem tag"

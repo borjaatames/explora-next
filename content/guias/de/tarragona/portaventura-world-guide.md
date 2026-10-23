@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/portaventura-world-guia.jpg"
-imagen_alt: "Römisches Amphitheater von Tarragona, ein Wahrzeichen der Stadt"
+imagen_alt: "Achterbahnen Shambhala und Dragon Khan in PortAventura Park"
 tiempo_lectura: 11
 keywords:
   - "portaventura world"

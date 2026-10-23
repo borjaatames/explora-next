@@ -10,7 +10,7 @@ slugs:
 
 duracion: "75 minutos - 1 día"
 duracionMinutos: 75
-precioDesde: 31
+precioDesde: 29
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

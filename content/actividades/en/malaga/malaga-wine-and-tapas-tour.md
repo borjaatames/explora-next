@@ -8,7 +8,7 @@ slugs:
   en: malaga-wine-and-tapas-tour
 duracion: 3.5 hours
 duracionMinutos: 210
-precioDesde: 69
+precioDesde: 73
 moneda: EUR
 idiomas:
 - en

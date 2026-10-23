@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/catedral-de-santiago-como-visitar.jpg"
-imagen_alt: "Fachada del Obradoiro de la Catedral de Santiago de Compostela"
+imagen_alt: "Pórtico de la Gloria de la Catedral de Santiago de Compostela"
 tiempo_lectura: 4
 keywords:
   - "catedral de santiago"

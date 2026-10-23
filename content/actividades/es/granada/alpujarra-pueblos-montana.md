@@ -109,11 +109,11 @@ keywords:
 - pampaneira bubion capileira
 - excursion alpujarra desde granada
 - alpujarra dia completo
-imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp"
-imagenAlt: "Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y montañas al fondo"
+imagen: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp"
+imagenAlt: "Balcón con geranios en la Alpujarra"
 galeria:
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
-  alt: "Calle sinuosa con casas encaladas, puertas y ventanas tradicionales, macetas floridas en pueblo blanco de la Alpujarra granadina."
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
+  alt: "Sierra Nevada nevada sobre los pueblos de la Alpujarra"
 - src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp
   alt: "Paisaje montañoso de la Alpujarra granadina con vegetación, barrancos y vistas rurales a altitud elevada"
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp

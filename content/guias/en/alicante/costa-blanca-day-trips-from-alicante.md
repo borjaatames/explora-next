@@ -10,7 +10,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-costa-blanca-desde-alicante.jpg"
-imagen_alt: "Beaches along the Costa Blanca near Alicante"
+imagen_alt: Guadalest and its castle among the mountains
 tiempo_lectura: 11
 keywords:
   - "day trips from alicante"

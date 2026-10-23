@@ -9,7 +9,7 @@ slugs:
   en: avila-segovia-day-trip-with-tickets
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 71
+precioDesde: 79
 moneda: EUR
 idiomas:
 - es

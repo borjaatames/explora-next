@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/alhambra-como-visitar.jpg"
-imagen_alt: "Blick auf die Alhambra von Granada mit der Sierra Nevada im Hintergrund bei Sonnenuntergang"
+imagen_alt: "Luftaufnahme der Alhambra in Granada mit der Sierra Nevada im Hintergrund"
 tiempo_lectura: 14
 keywords:
   - "alhambra besichtigen"

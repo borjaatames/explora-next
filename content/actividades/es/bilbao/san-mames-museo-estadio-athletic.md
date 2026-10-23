@@ -8,7 +8,7 @@ slugs:
   en: san-mames-stadium-museum-tour
 duracion: Válida 1 día
 duracionMinutos: 90
-precioDesde: 17
+precioDesde: 16.5
 moneda: EUR
 idiomas:
 - es

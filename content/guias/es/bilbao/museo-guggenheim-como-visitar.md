@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
-imagen_alt: "Museo Guggenheim de Bilbao junto a la ría del Nervión"
+imagen_alt: Museo Guggenheim Bilbao junto a la ría
 tiempo_lectura: 3
 keywords:
   - "museo guggenheim bilbao"

@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-costa-blanca-desde-alicante.jpg"
-imagen_alt: "Playas y costa de la Costa Blanca cerca de Alicante"
+imagen_alt: Guadalest y su castillo entre montañas
 tiempo_lectura: 4
 keywords:
   - "escapadas desde alicante"

@@ -9,7 +9,7 @@ slugs:
   es: entrada-jardines-alhambra-generalife
 duracion: 1 day
 duracionMinutos: 480
-precioDesde: 18
+precioDesde: 17.5
 moneda: EUR
 idiomas:
 - es
@@ -133,8 +133,8 @@ galeria:
   alt: Granada cityscape with historic architecture and mountains in background
 - src: /images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp
   alt: Granada's historic architecture and street view with traditional buildings
-- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero-hero.webp
-  alt: Generalife palace rooftop overlooking Hall of Abencerrages, Granada Spain
+- src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
+  alt: "Wine Gate at the Alhambra of Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

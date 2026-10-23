@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"
-imagen_alt: "View of the Alicante coastline from the sea, on the way to Tabarca"
+imagen_alt: White houses and walls of Tabarca
 tiempo_lectura: 11
 keywords:
   - "tabarca island"

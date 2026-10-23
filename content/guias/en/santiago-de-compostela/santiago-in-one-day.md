@@ -10,7 +10,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
-imagen_alt: "Santiago de Compostela Cathedral at sunset"
+imagen_alt: "Obradoiro square with Raxoi Palace and the Hostal dos Reis Católicos"
 tiempo_lectura: 11
 keywords:
   - "what to see in santiago de compostela"

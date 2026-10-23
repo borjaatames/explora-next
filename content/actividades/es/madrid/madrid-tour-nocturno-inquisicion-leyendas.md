@@ -10,7 +10,7 @@ slugs:
 
 duracion: "110 minutos"
 duracionMinutos: 110
-precioDesde: 19
+precioDesde: 18
 moneda: "EUR"
 idiomas: ["es", "en", "it"]
 proveedor: "getyourguide"

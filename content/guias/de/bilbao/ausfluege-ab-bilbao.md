@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
-imagen_alt: "La-Salve-Brücke und Iberdrola-Turm neben dem Guggenheim Bilbao"
+imagen_alt: "San Juan de Gaztelugatxe mit Kapelle und Steinbrücke"
 tiempo_lectura: 11
 keywords:
   - "ausflüge ab bilbao"

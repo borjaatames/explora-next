@@ -10,7 +10,7 @@ slugs:
 
 duracion: "110 minutes"
 duracionMinutos: 110
-precioDesde: 19
+precioDesde: 18
 moneda: "EUR"
 idiomas: ["es", "en", "it"]
 proveedor: "getyourguide"
@@ -83,7 +83,7 @@ preguntasFrecuentes:
 variantes: ["madrid-big-bus-panoramic-night-tour"]
 
 opinionEditorial: |
-  This is the best night legends tour in Madrid on GetYourGuide: 4.7/5 across 1,482 reviews, top rated, with the guide rated 4.8/5. Operator Mysterium Tours. 110 minutes on foot with a narrating guide (some in period costume), walking the old town with a lantern in hand. Content: Spanish Inquisition, ghosts, superstitions and urban legends of 16th-18th century Madrid. Very competitive price: from €19-21.
+  This is the best night legends tour in Madrid on GetYourGuide: 4.7/5 across 1,482 reviews, top rated, with the guide rated 4.8/5. Operator Mysterium Tours. 110 minutes on foot with a narrating guide (some in period costume), walking the old town with a lantern in hand. Content: Spanish Inquisition, ghosts, superstitions and urban legends of 16th-18th century Madrid. Very competitive price: from €18-21.
 
   What's worth knowing. The tone is theatrical, not jumpscare: there's real historical basis mixed with legends — academic critics may find it «not deep enough», but as entertaining night storytelling it works very well. Reviews repeatedly mention specific guides (Violeta, Daniel, Eneida) as the differentiating factor — the operator has a stable team with personality. Suitable from 8 years up; with younger kids weigh whether the themes of torture and ghosts are appropriate. The tour runs in rain too: bring an umbrella. And if there are religious events (Holy Week) or festivals closing plazas, the route adapts on the go.
 

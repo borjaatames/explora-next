@@ -37,7 +37,7 @@ atracciones:
   - nombre: "Dalt Vila"
     descripcion: "Ibiza's walled upper town, a UNESCO World Heritage Site: Renaissance walls, the cathedral at the top and lanes with views over the port. The best-preserved old town in the Mediterranean."
     imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
-    imagenAlt: "Dalt Vila, Ibiza's walled old town, with the cathedral on top"
+    imagenAlt: "Dalt Vila, Ibiza's walled old town"
   - nombre: "Es Vedrà"
     descripcion: "The rocky islet rising off the south-west coast, wrapped in legend. Sunset from Cala d'Hort, with Es Vedrà behind, is the island's signature postcard."
     imagen: "/images/actividades/ibiza/es-vedra/es-vedra-ibiza-hero.webp"
@@ -56,8 +56,8 @@ atracciones:
     imagenAlt: "Sunset in San Antonio, Ibiza"
   - nombre: "Nightlife"
     descripcion: "The most famous clubs in the world —Pacha, Ushuaïa, Amnesia, Hï— and the boat parties that have made Ibiza the world capital of electronic music."
-    imagen: "/images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp"
-    imagenAlt: "Party at Ushuaïa, Ibiza's nightlife"
+    imagen: "/images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp"
+    imagenAlt: Party boat sailing in Ibiza
 chipsFiltros:
   - { label: "Coves by boat", tag: "calas-barco" }
   - { label: "Es Vedrà and sunset", tag: "vedra-atardecer" }

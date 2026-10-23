@@ -4,13 +4,13 @@ slug: tangier-morocco-day-trip-from-seville
 ciudad: sevilla
 descripcion: 15-hour day trip to Tangier (Morocco) from Seville — the only INTERNATIONAL excursion from Seville. Fast ferry
   Tarifa-Tangier (crossing the Strait of Gibraltar), tour through the Medina, Caves of Hercules, Cape Spartel, Moroccan lunch
-  included. Guide in 4 languages (ES/EN/FR/IT). PASSPORT MANDATORY. From €230.
+  included. Guide in 4 languages (ES/EN/FR/IT). PASSPORT MANDATORY. From €219.
 slugs:
   es: tanger-marruecos-excursion-dia-desde-sevilla
   en: tangier-morocco-day-trip-from-seville
 duracion: 15 hours
 duracionMinutos: 900
-precioDesde: 230
+precioDesde: 219
 moneda: EUR
 idiomas:
 - es
@@ -170,8 +170,8 @@ keywords:
 - tangier day ferry
 - africa from seville 1 day
 - tangier guided english seville
-imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp"
-imagenAlt: "Narrow alleyways in Tangier's Medina with painted wooden doors, traditional bazaar shops, vendors and tourists in authentic"
+imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
+imagenAlt: "Traditional Moroccan tajine with mint tea, bread, and colorful plates in local restaurant"
 galeria:
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
   alt: "Traditional Moroccan tajine with mint tea, bread, and colorful plates in local restaurant"

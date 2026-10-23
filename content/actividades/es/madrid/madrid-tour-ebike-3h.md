@@ -9,7 +9,7 @@ slugs:
   en: madrid-3-hour-sightseeing-e-bike-tour
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 38
+precioDesde: 45
 moneda: EUR
 idiomas:
 - es
@@ -122,8 +122,8 @@ keywords:
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: "/images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp"
-imagenAlt: "Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid"
+imagen: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+imagenAlt: "Mercado de San Miguel"
 galeria:
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
     alt: "Plaza Mayor, primera parada del recorrido"
@@ -135,12 +135,8 @@ galeria:
     alt: "Plaza de Oriente y Palacio Real"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
     alt: "Palacio Real visto desde los jardines del Campo del Moro"
-  - src: "/images/actividades/madrid/ebike/touring-madrid-hero.webp"
-    alt: "Parada del grupo en bicicleta durante el recorrido"
   - src: "/images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp"
     alt: "Templo de Debod reflejado en su estanque"
-  - src: "/images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp"
-    alt: "Ciclistas del tour en el Templo de Debod"
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

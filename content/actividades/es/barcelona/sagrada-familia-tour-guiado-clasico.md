@@ -120,8 +120,8 @@ galeria:
   alt: Interior de la Sagrada Família, con las columnas en forma de árbol y el techo iluminado por los medallones de colores.
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas en Barcelona, España
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Fachada de la Sagrada Familia con sus torres góticas y modernistas en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
+  alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz natural reflejada en vidrios multicolores
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
   alt: Fachada principal de la Sagrada Familia con torres neogóticas iluminadas al atardecer en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp

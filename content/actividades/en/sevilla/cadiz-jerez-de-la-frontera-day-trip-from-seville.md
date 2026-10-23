@@ -147,15 +147,15 @@ keywords:
 - cadiz jerez day excursion
 - jerez winery sherry wine
 - equestrian show jerez andalusian horses
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
-imagenAlt: "Castle by La Caleta beach, Cádiz"
+imagen: "/images/actividades/cadiz/centro/mercado-central.webp"
+imagenAlt: Stalls at Cádiz Central Market
 galeria:
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
-    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
-    alt: "Traditional sherry winery interior with wooden barrels, tasting glasses, and authentic wine production atmosphere in Jerez"
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
-    alt: "Andalusian horses galloping in arena with rider in traditional costume during equestrian show at Royal School"
+  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
+    alt: The Roman theatre of Gades
+  - src: "/images/actividades/cadiz/centro/catedral-coro.webp"
+    alt: Choir of Cádiz Cathedral
+  - src: "/images/actividades/cadiz/centro/catedral-tejados.webp"
+    alt: The cathedral above Cádiz rooftops
   - src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
     alt: "Main façade of Cádiz Cathedral with its two towers"
   - src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"

@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-en-1-dia.jpg"
-imagen_alt: "Plaza de España de Sevilla con sus puentes sobre el canal"
+imagen_alt: "Canal y torre norte de la Plaza de España"
 tiempo_lectura: 4
 keywords:
   - "sevilla en 1 día"

@@ -123,8 +123,8 @@ galeria:
   alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with ornate spires and detailed Gothic architecture
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Sagrada Familia basilica facade with tourists and construction details visible
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Illuminated Gothic-style vault inside the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp

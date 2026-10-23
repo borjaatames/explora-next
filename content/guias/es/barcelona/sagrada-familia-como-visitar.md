@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
-imagen_alt: "Vidrieras de colores en el interior de la Sagrada Familia de Barcelona"
+imagen_alt: Basílica de la Sagrada Familia de Barcelona con impresionante vista frontal de sus torres y fachada
 tiempo_lectura: 4
 keywords:
   - "sagrada familia cómo visitar"

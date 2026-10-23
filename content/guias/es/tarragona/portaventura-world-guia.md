@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/portaventura-world-guia.jpg"
-imagen_alt: "Anfiteatro romano de Tarragona, patrimonio de la ciudad"
+imagen_alt: "Montañas rusas Shambhala y Dragon Khan en PortAventura Park"
 tiempo_lectura: 4
 keywords:
   - "portaventura world"

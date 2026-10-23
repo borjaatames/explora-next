@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 - 2 horas (visita libre)"
 duracionMinutos: 90
-precioDesde: 21
+precioDesde: 20
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

@@ -88,8 +88,8 @@ galeria:
   alt: "Baroque façade and grand staircase of Girona Cathedral"
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Street in Girona's Jewish Call
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Girona's Arab Baths
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: Alley in Girona's Jewish Call
 - src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
   alt: Sant Pere de Galligants monastery in Girona
 ratingProveedor: 4.8

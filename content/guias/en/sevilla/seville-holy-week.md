@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Panoramic view of Seville at sunset with the Giralda"
+imagen_alt: "Callejón del Agua in the Santa Cruz quarter"
 tiempo_lectura: 4
 keywords:
   - "seville holy week 2027"

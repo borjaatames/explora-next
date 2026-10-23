@@ -4,13 +4,13 @@ slug: italica-roman-ruins-medieval-monastery-from-seville
 ciudad: sevilla
 descripcion: Half-day (4h) tour to the Roman ruins of Italica + Medieval Monastery of San Isidoro del Campo from Seville.
   The amphitheater was a Game of Thrones location (Dragonpit, season 7). 4.5/5 verified reviews. Official guide in 4 languages
-  (ES/EN/FR/IT). Pickup available. From €44.
+  (ES/EN/FR/IT). Pickup available. From €42.
 slugs:
   es: italica-ruinas-romanas-monasterio-desde-sevilla
   en: italica-roman-ruins-medieval-monastery-from-seville
 duracion: 4 hours
 duracionMinutos: 240
-precioDesde: 44
+precioDesde: 42
 moneda: EUR
 idiomas:
 - es
@@ -125,7 +125,7 @@ opinionEditorial: 'The **shortest and most affordable excursion from Seville** �
 
   **Who it''s for:** **Game of Thrones fans** (Dragonpit scene), those interested in Roman history / Roman Hispania, visitors
   with limited time (half day only, not full day), families with children over 8 (amphitheater is very visual and impactful),
-  speakers of the 4 languages (ES/EN/FR/IT), tight-budget visitors (cheapest excursion from Seville, from €44). **Who it''s
+  speakers of the 4 languages (ES/EN/FR/IT), tight-budget visitors (cheapest excursion from Seville, from €42). **Who it''s
   NOT for:** strict wheelchair users (irregular floor), 1-day Seville visitors (better focus on city UNESCO monuments), those
   expecting included meal (this is just tour), those interested in Andalusian Islamic monuments (Italica is Roman — better
   Córdoba or Granada).
@@ -143,16 +143,6 @@ keywords:
 imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp"
 imagenAlt: "Roman amphitheatre of Itálica"
 galeria:
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-anfiteatro-r-hero.webp"
-    alt: "Anfiteatro romano de Itálica, ruinas imperiales cerca de Sevilla"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp"
-    alt: "Yacimiento arqueológico romano de Itálica"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp"
-    alt: "Yacimiento arqueológico romano de Itálica"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp"
-    alt: "Well-preserved Roman mosaic with decorative tesserae and motifs from a Seville noble house, featuring intricate tile patterns and classical designs."
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp"
-    alt: "Exterior facade of San Isidoro del Campo Monastery in Seville, displaying Mudéjar, Gothic and Baroque architectural elements from the 13th century with medieval portal"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-03.webp"
     alt: "Galleries beneath the amphitheatre stands"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp"
@@ -199,7 +189,7 @@ Half-day excursion (4 hours) to the **Roman ruins of Italica + Medieval Monaster
 - Visitors with **limited time** (half day only).
 - **Families with children over 8** (amphitheater very visual).
 - Speakers of **4 languages** (ES/EN/FR/IT).
-- **Tight-budget** visitors (from €44 — the cheapest excursion).
+- **Tight-budget** visitors (from €42 — the cheapest excursion).
 
 ## Who I do NOT recommend it to
 

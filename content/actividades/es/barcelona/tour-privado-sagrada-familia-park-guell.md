@@ -72,8 +72,8 @@ galeria:
   alt: Paisaje urbano de Barcelona con arquitectura moderna y calles transitadas
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Camino arbolado en el Parque Güell de Barcelona con árboles a ambos lados
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia en Barcelona con torres góticas decoradas.
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp
   alt: Vista diurna del Park Güell con edificios altos de fondo, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-I1vI47ouAok-hero.webp

@@ -72,18 +72,18 @@ keywords:
 imagen: /images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp
 imagenAlt: Fachada del Museo del Prado en el Paseo del Arte, Madrid
 galeria:
-- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-museum-architecture-art-hero.webp"
-  alt: "Edificio del Museo del Prado en Madrid"
-- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-monastery-09-hero.webp"
-  alt: "Edificio del Museo del Prado en Madrid"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-2-hero.webp"
+  alt: "Edificio Villanueva del Museo del Prado"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp"
+  alt: "Entrada del Museo del Prado con la estatua de Goya"
 - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
   alt: "Edificio del Museo del Prado en Madrid"
-- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp"
-  alt: "Edificio del Museo del Prado en Madrid"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
+  alt: "Edificio Villanueva del Museo del Prado"
 - src: /images/actividades/madrid/thyssen/thyssen-fachada-paseo-prado-hero.webp
   alt: Museo Thyssen-Bornemisza en el Paseo del Prado
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-large-white-building-clock-tower-hero.webp
-  alt: Edificio Sabatini del Museo Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp
+  alt: "Museo Reina Sofía de Madrid"
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-02-hero.webp
   alt: Puerta de Velázquez del Museo del Prado
 ratingProveedor: 4.4

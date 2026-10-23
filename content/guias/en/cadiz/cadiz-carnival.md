@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
-imagen_alt: "Cádiz's Plaza de España, a hub of city life"
+imagen_alt: "Main façade of Cádiz Cathedral with its two towers"
 tiempo_lectura: 11
 keywords:
   - "cadiz carnival"

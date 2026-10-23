@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2.5 - 4 hours"
 duracionMinutos: 150
-precioDesde: 20
+precioDesde: 18
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -23,7 +23,7 @@ highlights:
   - "Live guide in ENGLISH or SPANISH — one of the few bilingual Gothic Quarter tours"
   - "2.5 hours covering La Rambla, La Boqueria market, Plaça Reial, the Cathedral, Plaça Sant Jaume and the medieval streets"
   - "Small group (max 15) — bookable as private group too"
-  - "Excellent value: from €20 — among the most affordable top-rated tours in the area"
+  - "Excellent value: from €18 — among the most affordable top-rated tours in the area"
   - "«Likely to sell out» — book ahead in May-September"
 
 incluye:

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/universidad-de-salamanca-como-visitar.jpg"
-imagen_alt: "Plateresk-Fassade des Historischen Gebäudes der Universität von Salamanca"
+imagen_alt: "Detail der Fassade der Universität Salamanca"
 tiempo_lectura: 11
 keywords:
   - "universität von salamanca"

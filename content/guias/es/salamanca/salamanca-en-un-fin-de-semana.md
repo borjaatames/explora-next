@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"
-imagen_alt: "Vista del Puente Romano sobre el río Tormes en Salamanca"
+imagen_alt: Plaza Mayor iluminada de noche
 tiempo_lectura: 4
 keywords:
   - "salamanca fin de semana"

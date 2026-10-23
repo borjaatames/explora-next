@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-en-1-dia.jpg"
-imagen_alt: "Plaza de España in Seville with its bridges over the canal"
+imagen_alt: "Canal and north tower of Plaza de España"
 keywords:
   - "seville in 1 day"
   - "seville day trip from madrid"

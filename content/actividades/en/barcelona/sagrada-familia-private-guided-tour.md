@@ -108,8 +108,8 @@ galeria:
   alt: "Facade of the Sagrada Familia in Barcelona"
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica with Gothic spires and intricate stonework in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-basilica-barcelona-hero-hero.webp
-  alt: Sagrada Familia basilica exterior facade with soaring spires, Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
+  alt: Illuminated Gothic-style vault inside the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
   alt: Sagrada Familia's intricate ceiling and soaring columns in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-21683585-hero.webp

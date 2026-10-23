@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
-imagen_alt: "Puente de la Salve y Torre Iberdrola junto al Guggenheim de Bilbao"
+imagen_alt: Islote de San Juan de Gaztelugatxe con la ermita y el puente de piedra
 tiempo_lectura: 4
 keywords:
   - "escapadas desde bilbao"

@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"
-imagen_alt: "Pa amb tomàquet, das typische katalanische Tomatenbrot"
+imagen_alt: "Süßigkeitenstand im Mercat de la Boqueria"
 tiempo_lectura: 14
 keywords:
   - "essen in barcelona"

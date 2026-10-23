@@ -71,20 +71,20 @@ keywords:
 imagen: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-cloister-02-hero.webp
 imagenAlt: Claustro del Monasterio de San Juan de los Reyes, Toledo
 galeria:
-  - src: "/images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-bridge-7-hero.webp"
-    alt: "Puente histórico sobre el río Tajo en Toledo, Patrimonio de la Humanidad"
-  - src: "/images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp"
-    alt: "Iglesia de Santo Tomé, donde está El entierro del conde de Orgaz"
+  - src: "/images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp"
+    alt: Vistas panorámicas de Toledo con arquitectura medieval y río Tajo al atardecer
+  - src: "/images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp"
+    alt: Panorámica de Toledo con sus edificios históricos y la catedral al fondo
   - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"
     alt: "Mezquita del Cristo de la Luz"
-  - src: "/images/actividades/madrid/toledo/callejon-vista-alcazar.webp"
-    alt: "Callejón de Toledo con el Alcázar al fondo"
+  - src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+    alt: "Alcázar de Toledo"
   - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-6079996465-hero.webp"
     alt: "Gárgola del Monasterio de San Juan de los Reyes"
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9751577-hero.webp"
-    alt: "Estatuas en la fachada del Monasterio de San Juan de los Reyes"
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766821-hero.webp"
-    alt: "Entrada al claustro del Monasterio de San Juan de los Reyes"
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp"
+    alt: Monasterio de San Juan de los Reyes, Toledo 07
+  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-13835007-hero.webp"
+    alt: Monasterio de San Juan de los Reyes - Toledo 01
   - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp"
     alt: "Fachada gótica del Monasterio de San Juan de los Reyes"
 ratingProveedor: 4.4

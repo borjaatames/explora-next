@@ -76,16 +76,16 @@ keywords:
 imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
 imagenAlt: Ronda's Puente Nuevo over the gorge
 galeria:
-- src: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-grupo-explorando-ciudad-04-hero.webp"
-  alt: "Group of visitors exploring Ronda"
+- src: "/images/actividades/granada/ronda/ronda-pixabay-3372201.webp"
+  alt: "Puente Nuevo over the gorge in spring"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: Zahara de la Sierra with its castle and reservoir
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
   alt: Houses under the rock in Setenil de las Bodegas
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
   alt: White villages in the Cádiz mountains
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
-  alt: Ronda from a viewpoint
+- src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
+  alt: "The Ronda gorge seen from below"
 - src: https://imgcdn.bokun.tools/b62e81a0-0ab2-4b32-9bce-7c248cf36ac7.jpg
   alt: The White Villages of Cádiz
 - src: https://imgcdn.bokun.tools/01dc97d6-38e3-4a74-b35d-8908532caba9.jpg

@@ -8,7 +8,7 @@ slugs:
   en: ronda-setenil-day-trip-from-malaga
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 35
+precioDesde: 44
 moneda: EUR
 idiomas:
 - es
@@ -81,14 +81,14 @@ keywords:
 imagen: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
 imagenAlt: "Calle de Setenil de las Bodegas con casas bajo la roca"
 galeria:
-  - src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
-    alt: "Vista de Ronda desde las alturas con el Tajo y el puente nuevo"
+  - src: "/images/actividades/malaga/alcazaba/arcos-nazaries.webp"
+    alt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
   - src: "/images/actividades/malaga/setenil/panoramica.webp"
     alt: "Vista panorámica de Setenil de las Bodegas"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp"
     alt: "Puente Nuevo de Ronda sobre el Tajo"
-  - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp"
-    alt: "Casco histórico de Ronda"
+  - src: "/images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp"
+    alt: "Vista del Tajo de Ronda desde el Puente Nuevo"
   - src: "/images/actividades/malaga/setenil/vista-pueblo.webp"
     alt: "Vista de Setenil de las Bodegas"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp"

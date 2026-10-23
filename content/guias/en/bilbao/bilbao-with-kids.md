@@ -10,7 +10,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
-imagen_alt: "Bilbao, an easy city to visit with children"
+imagen_alt: Sightseeing boat on Bilbao's estuary
 tiempo_lectura: 10
 keywords:
   - "bilbao with kids"

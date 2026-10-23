@@ -57,10 +57,10 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/a6b2476e-ada9-4866-b2c7-d046415f6ed4.jpg"
 imagenAlt: Sesión de fotografía personal en un lugar emblemático de Barcelona
 galeria:
-- src: "/images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp"
-  alt: "Barceloneta View Barcelona Beach Iconic Hotel"
-- src: "/images/actividades/barcelona/barceloneta/barceloneta-wella-barcelona-nature-hotel-wella-hero.webp"
-  alt: "Barceloneta Wella Barcelona Nature Hotel Wella"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
+  alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp"
+  alt: "Velero y parasailing frente a la playa de la Barceloneta"
 - src: "/images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
   alt: "Barrio Gotico Barcelona Explore Narrow Historic Street"
 - src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg

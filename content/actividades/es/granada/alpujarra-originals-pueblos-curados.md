@@ -95,16 +95,15 @@ keywords:
 - alpujarra grupo pequeño
 - discovering spain alpujarra
 - pueblos blancos curados
-imagen: "/images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp"
-imagenAlt: Pueblos blancos encalados en las laderas montañosas de La Alpujarra, Granada, con arquitectura andaluza tradicional
-  de casas cúbicas agrupadas en la sierra
+imagen: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp"
+imagenAlt: "Tinao, pasaje cubierto típico de la Alpujarra"
 galeria:
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: "Barranco de Poqueira con los pueblos blancos de Pampaneira, Capileira y Órgiva en las laderas de montaña, Granada"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
-  alt: "Grupo de turistas explorando las calles empedradas del centro histórico de Granada con guía local atento a sus necesidades"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp
-  alt: "Panorama de las montañas nevadas de la Sierra Nevada y sierras de la Alpujarra bajo luz natural, con vegetación alpina"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
+  alt: "Terrados con ropa tendida en la Alpujarra"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
+  alt: "Pueblo blanco de la Alpujarra en la ladera"
+- src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
+  alt: "Jarapas alpujarreñas a la venta en Pampaneira"
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pexels-29136853.webp
   alt: "Ermita encalada en la Alpujarra"
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp

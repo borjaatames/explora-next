@@ -104,8 +104,8 @@ galeria:
     alt: "Terraza del Pabellón de Portería del Park Güell de Gaudí"
   - src: "/images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero-hero.webp"
     alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 1)"
-  - src: "/images/actividades/barcelona/park-guell/park-guell-close-up-colorful-tile-wall-hero.webp"
-    alt: "Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero-hero.webp"
+    alt: Park Güell terrace with Barcelona cityscape view and colorful mosaic decorations
   - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-europe-spain-hero.webp"
     alt: "Gaudí's architecture in Park Güell, Europe"
   - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-europe-architecture-spain-hero-hero.webp"

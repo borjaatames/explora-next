@@ -137,8 +137,8 @@ galeria:
   alt: "Fachada exterior de la Catedral de Sevilla en día soleado"
 - src: "/images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp"
   alt: "La Giralda de Sevilla con detalle de su arquitectura mudéjar"
-- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: "Seville Cathedral and the Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
+  alt: "Detail of the Giralda and Seville Cathedral"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
   alt: "Gothic vaults of Seville Cathedral"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp

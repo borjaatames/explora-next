@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/prado-reina-sofia-thyssen-comparativa.jpg"
-imagen_alt: "Fachada del Museo del Prado de Madrid"
+imagen_alt: Fachada del Museo del Prado en el Paseo del Arte, Madrid
 tiempo_lectura: 4
 keywords:
   - "prado o reina sofía"

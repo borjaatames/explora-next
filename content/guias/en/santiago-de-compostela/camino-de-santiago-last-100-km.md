@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
-imagen_alt: "Rooftops of Santiago de Compostela with the cathedral towers in the background"
+imagen_alt: Rúa do Franco with the cathedral behind
 tiempo_lectura: 12
 keywords:
   - "camino de santiago last 100 km"

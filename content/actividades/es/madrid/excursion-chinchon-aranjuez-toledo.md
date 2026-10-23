@@ -9,7 +9,7 @@ slugs:
   en: madrid-chinchon-aranjuez-toledo-day-trip
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 73
+precioDesde: 69
 moneda: EUR
 idiomas:
 - es

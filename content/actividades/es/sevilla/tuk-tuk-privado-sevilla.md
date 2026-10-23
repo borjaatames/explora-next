@@ -88,10 +88,10 @@ galeria:
   alt: Torre del Oro entre palmeras
 - src: https://imgcdn.bokun.tools/1c608d5a-4f0d-4dfb-9f7c-658afd5b50a3.jpeg
   alt: Tuk tuk eléctrico junto al Guadalquivir
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
-  alt: Pabellón central y torres de la Plaza de España de Sevilla
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
-  alt: Puentes y canal de la Plaza de España de Sevilla
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: "Plaza de España iluminada de noche"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
+  alt: "Vista amplia de la Plaza de España de Sevilla"
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
   alt: Torre del Oro junto al canal del Guadalquivir
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp

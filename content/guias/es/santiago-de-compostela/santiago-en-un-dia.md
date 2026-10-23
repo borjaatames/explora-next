@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
-imagen_alt: "Catedral de Santiago de Compostela al atardecer"
+imagen_alt: "Praza do Obradoiro"
 tiempo_lectura: 4
 keywords:
   - "qué ver en santiago de compostela"

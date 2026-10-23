@@ -10,7 +10,7 @@ slugs:
   en: tablao-flamenco-cordobes-dinner-show-las-ramblas
 duracion: 70 - 135 minutos
 duracionMinutos: 90
-precioDesde: 48
+precioDesde: 35
 moneda: EUR
 idiomas:
 - es

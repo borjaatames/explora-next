@@ -6,3 +6,9 @@
 - `decoracion-ataurique.webp` — EmDee, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Medina_Al-Zahra_-_Salon_Rico.JPG) · recortada a 1600×1200
 - `vista-ruinas.webp` — Rabe!, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Medina_Azahara_2009-08-07a.jpg) · recortada a 1600×1200
 - `ruinas-casas.webp` — fraboof, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cordoba_-_Medina_Azahara_%285723301633%29.jpg) · recortada a 1600×1200
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `medina-azahara-pixabay-7771933.jpg` — Pixabay, foto 7771933, licencia Pixabay (https://pixabay.com/photos/id-7771933/)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `medina-azahara-cordoba-hero.webp` — José Antonio Otegui Auzmendi, licencia Pexels, vía Pexels (https://www.pexels.com/photo/31439141/)

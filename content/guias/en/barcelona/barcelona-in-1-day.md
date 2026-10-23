@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-1-dia.jpg"
-imagen_alt: "Plaza in Barcelona's Gothic Quarter"
+imagen_alt: "Bone-like balconies and stained glass of Casa Batlló"
 keywords:
   - "barcelona in 1 day"
   - "barcelona day trip from madrid"

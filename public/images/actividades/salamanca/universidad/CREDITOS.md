@@ -11,3 +11,9 @@
 
 <!-- Añadido 16-10-2026 desde el registro del pipeline -->
 - `universidad-salamanca-explore-stunning-historic-hero-hero.webp` — SilBaBum _, Pexels License, vía Pexels (https://www.pexels.com/photo/historic-architecture-in-salamanca-cityscape-28435485/)
+
+Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
+- `universidad-salamanca-explore-stunning-historic-hero.webp` — SilBaBum _, Pexels License, vía Pexels (https://www.pexels.com/photo/historic-architecture-in-salamanca-cityscape-28435485/)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `universidad-salamanca-patio-claustro-pozo-hero.webp` — José Maldonado Díaz, licencia Pexels, vía Pexels (https://www.pexels.com/photo/34547590/)

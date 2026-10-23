@@ -76,8 +76,8 @@ imagenAlt: Aerial view of the Alhambra in Granada with the Sierra Nevada behind
 galeria:
   - src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
     alt: "Court of the Lions in the Nasrid Palaces"
-  - src: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
-    alt: "Muqarnas vault of the Hall of the Abencerrajes"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp"
+    alt: "Wine Gate at the Alhambra of Granada"
   - src: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
     alt: "The Alhambra at dusk from the Albaicín"
   - src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"

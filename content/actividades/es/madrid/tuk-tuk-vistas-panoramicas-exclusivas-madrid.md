@@ -79,8 +79,8 @@ galeria:
   alt: La Gran Vía con el edificio Metrópolis
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
   alt: Palacio Real de Madrid
-- src: /images/actividades/madrid/la-latina/01.webp
-  alt: Señal de metro de La Latina en el Madrid de los Austrias
+- src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
+  alt: "Calle de la Cava Baja en La Latina"
 - src: /images/actividades/madrid/puerta-alcala/puerta-alcala-madrid-monument-madrid-center-hero.webp
   alt: Puerta de Alcalá
 - src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp

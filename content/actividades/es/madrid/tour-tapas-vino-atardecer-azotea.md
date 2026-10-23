@@ -9,7 +9,7 @@ slugs:
 
 duracion: "3 horas 30 minutos"
 duracionMinutos: 210
-precioDesde: 62
+precioDesde: 69
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -94,8 +94,8 @@ imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-ve
 imagenAlt: "La Gran Vía al atardecer vista desde una azotea"
 
 galeria:
-  - src: "/images/actividades/madrid/la-latina/01.webp"
-    alt: "Barrio de La Latina, inicio de la ruta"
+  - src: "/images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp"
+    alt: "Calle de la Cava Baja en La Latina"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp"
     alt: "Vinos y vermut en una terraza"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"

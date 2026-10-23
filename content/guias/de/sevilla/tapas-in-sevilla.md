@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
-imagen_alt: "Aufgehängte iberische Schinken in einer sevillanischen Charcuterie"
+imagen_alt: "Tapas in Tonschalen auf einem Tisch in Sevilla"
 tiempo_lectura: 11
 keywords:
   - "tapas sevilla"

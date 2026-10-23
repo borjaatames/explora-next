@@ -132,8 +132,8 @@ imagenAlt: "Arcos de herradura rojo-blancos y columnas en la nave central ilumin
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
   alt: "Tren AVE en la estación"
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
-  alt: "Calle de la Judería de Córdoba"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores con macetas azules
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-perspectiva.webp
   alt: "Perspectiva de arcos bicolores de la Mezquita"
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp

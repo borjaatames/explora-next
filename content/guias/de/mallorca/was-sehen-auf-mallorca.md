@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
-imagen_alt: "Kathedrale La Seu in Palma de Mallorca bei Sonnenuntergang"
+imagen_alt: "Kathedrale von Palma (La Seu) über der Bucht"
 tiempo_lectura: 13
 keywords:
   - "was sehen auf mallorca"

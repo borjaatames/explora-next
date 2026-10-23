@@ -80,18 +80,18 @@ galeria:
     alt: "Fachada de la basílica en el Patio de los Reyes"
   - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp"
     alt: "Altar mayor de la basílica de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp"
-    alt: "Cripta real bajo la basílica de El Escorial"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp"
+    alt: Fachada del Monasterio de El Escorial bajo un cielo tormentoso
   - src: "/images/actividades/madrid/escorial/monasterio-escorial-alegoria-geometria-biblioteca-real-hero.webp"
     alt: "Fresco de la Biblioteca Real de El Escorial"
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp"
     alt: "Llamador de la puerta principal del monasterio"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp"
-    alt: "Vista aérea del Monasterio de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-view-from-north-west-hero.webp"
-    alt: "El Escorial visto desde el noroeste"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp"
-    alt: "Estatua del rey David en la fachada de la basílica"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp"
+    alt: Vista del conjunto del Monasterio de El Escorial bajo cielo despejado
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp"
+    alt: "Entrada al Panteón de los Reyes de El Escorial"
+  - src: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
+    alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
     alt: "Claustro del Monasterio de El Escorial"
 ratingProveedor: 4.5

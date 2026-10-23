@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
-imagen_alt: "Iberian hams hanging in a Sevillian charcuterie"
+imagen_alt: "Assorted tapas in clay dishes on a table in Seville"
 keywords:
   - "seville tapas"
   - "where to eat tapas seville"

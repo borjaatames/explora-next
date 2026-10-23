@@ -12,3 +12,6 @@
 | catedral-girona-08.webp | Wikimedia Commons | Kritzolina · File:Grave in the cloister of the Cathedral of Girona 02.jpg | CC BY-SA 4.0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\girona--catedral\` (23 oct 2026).
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `catedral-girona-hero.webp` — Jose Rodriguez Ortega, licencia Pexels, vía Pexels (https://www.pexels.com/photo/36639285/)

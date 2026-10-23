@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
-imagen_alt: "Guggenheim-Museum Bilbao am Ufer des Nervión"
+imagen_alt: "Das Guggenheim-Museum an der Flussmündung von Bilbao"
 tiempo_lectura: 11
 keywords:
   - "guggenheim museum bilbao"

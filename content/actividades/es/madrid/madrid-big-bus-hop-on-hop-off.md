@@ -9,7 +9,7 @@ slugs:
   en: madrid-big-bus-hop-on-hop-off-tour
 duracion: 24 horas
 duracionMinutos: 1440
-precioDesde: 35
+precioDesde: 29.7
 moneda: EUR
 idiomas:
 - es

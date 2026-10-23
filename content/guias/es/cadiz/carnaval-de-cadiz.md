@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
-imagen_alt: "Plaza de España de Cádiz, escenario de la vida en la calle"
+imagen_alt: "Catedral de Cádiz"
 tiempo_lectura: 4
 keywords:
   - "carnaval de cádiz"

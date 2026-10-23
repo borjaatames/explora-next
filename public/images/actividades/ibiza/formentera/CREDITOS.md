@@ -9,3 +9,10 @@
 - `mal-pas.webp` — Joan Gené, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Formentera._El_Pi_del_Catal%C3%A0._Platja_del_Mal_Pas.jpg) · recortada a 1600×1200
 - `formentera-pexels-33838897-hero.webp` — Pexels, foto 33838897, licencia Pexels (https://www.pexels.com/photo/33838897/)
 - `formentera-pexels-5096831-hero.webp` — Pexels, foto 5096831, licencia Pexels (https://www.pexels.com/photo/5096831/)
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `ibiza-formentera-01.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
+- `ibiza-formentera-02.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
+- `ibiza-formentera-03.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
+- `ibiza-formentera-04.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
+- `ibiza-formentera-05.webp` — Foto del proveedor de la actividad, del catálogo de Bókun

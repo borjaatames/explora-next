@@ -4,13 +4,13 @@ slug: casa-de-la-memoria-flamenco-show-intimo-sevilla
 ciudad: sevilla
 descripcion: Espectáculo flamenco de 1 hora en la Casa de la Memoria de Sevilla — patio andaluz tradicional con solo 2 filas
   de asientos para una experiencia INTIMA al máximo. 13.526 reseñas con 4,8/5. «Likely to sell out». Pases 19:30 y 21:00.
-  Desde 26 €. Artistas diferentes cada noche, calidad artística reconocida internacionalmente.
+  Desde 24 €. Artistas diferentes cada noche, calidad artística reconocida internacionalmente.
 slugs:
   es: casa-de-la-memoria-flamenco-show-intimo-sevilla
   en: seville-casa-de-la-memoria-flamenco-show-intimate
 duracion: 1 hora
 duracionMinutos: 60
-precioDesde: 26
+precioDesde: 24
 moneda: EUR
 idiomas:
 - es
@@ -91,7 +91,7 @@ preguntasFrecuentes:
     (4) **Sin distracciones de servicio** — no se sirven bebidas durante el show, formato puro.'
 - pregunta: ¿Cuál es la diferencia con los otros 4 grandes flamencos de Sevilla?
   respuesta: '**Casa de la Memoria (este):** INTIMIDAD MÁXIMA (solo 2 filas, ~30-50 plazas), edificio histórico s.XV, 4,8/5
-    con 13.526 reseñas, desde 26 €. RECOMENDADO si valoras estar a 2-3 m de los artistas. **Teatro Flamenco Sevilla:** Teatro
+    con 13.526 reseñas, desde 24 €. RECOMENDADO si valoras estar a 2-3 m de los artistas. **Teatro Flamenco Sevilla:** Teatro
     grande, máximo volumen (18.292 reseñas), ubicación céntrica, desde 27 €. RECOMENDADO si quieres lo más reservado + asientos
     cómodos escalonados. **Museo del Baile Flamenco (Puro Flamenco):** Patio Ecija s.XVIII, coreografías de Cristina Hoyos,
     6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO si te interesa la calidad artística icónica. **Teatro Flamenco Triana:**
@@ -125,7 +125,7 @@ opinionEditorial: 'El **flamenco más íntimo y mejor valorado de Sevilla** — 
   el formato más cercano a un flamenco "de cabales" (audiencia conocedora) en formato turístico abierto.
 
 
-  **Comparación de precios:** desde 26 € es **de los más asequibles** de los 5 grandes flamencos de Sevilla (vs. Teatro
+  **Comparación de precios:** desde 24 € es **de los más asequibles** de los 5 grandes flamencos de Sevilla (vs. Teatro
   Flamenco Triana 25 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). El precio bajo + calidad
   artística internacional + intimidad máxima es la combinación que justifica el 4,8/5 y el 13.526 reseñas.
 
@@ -158,12 +158,6 @@ keywords:
 imagen: "/images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-abanico-puerta.webp"
 imagenAlt: "Bailaora con abanico ante la puerta de la Casa de la Memoria"
 galeria:
-- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp"
-  alt: "Arquitectura andaluza de la Casa de la Memoria en Sevilla"
-- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp"
-  alt: "Patio andaluz de la Casa de la Memoria"
-- src: "/images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp"
-  alt: "Público asistiendo al espectáculo íntimo de flamenco"
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
   alt: "Patio interior de la Casa de la Memoria, en el centro de Sevilla"
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
@@ -213,7 +207,7 @@ Un **espectáculo flamenco de 1 hora en el patio andaluz del s. XV de la Casa de
 - Parejas que prefieran ambiente íntimo (no hay grupos turísticos masivos).
 - Interesados en la **calidad artística internacional** (artistas en residencia rotan).
 - Visitantes que puedan llegar **20-30 min antes** para garantizar primera fila.
-- Quien busque la mejor relación calidad-precio (desde 26 €, de los más asequibles de los 5 grandes).
+- Quien busque la mejor relación calidad-precio (desde 24 €, de los más asequibles de los 5 grandes).
 
 ## A quién NO se lo recomiendo
 

@@ -9,7 +9,7 @@ autor: ExploraSpain Team
 publicada: true
 destacada: false
 imagen_portada: /images/guias/mallorca-con-ninos.jpg
-imagen_alt: Gardens next to Palma Cathedral in Mallorca
+imagen_alt: "Water slides at a water park in Mallorca"
 tiempo_lectura: 3
 keywords:
 - mallorca with kids

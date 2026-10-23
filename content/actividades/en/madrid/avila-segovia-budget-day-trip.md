@@ -9,7 +9,7 @@ slugs:
   es: excursion-avila-segovia-economica
 duracion: 9 hours
 duracionMinutos: 540
-precioDesde: 46
+precioDesde: 51
 moneda: EUR
 idiomas:
 - es

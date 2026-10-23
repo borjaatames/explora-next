@@ -2,7 +2,7 @@
 titulo: "Sevilla: La Era de los Descubrimientos — Visita Guiada al Archivo de Indias, Torre del Oro, Torre de la Plata y Reales Atarazanas (1,5h)"
 slug: "sevilla-era-descubrimientos-archivo-indias-torre-oro"
 ciudad: "sevilla"
-descripcion: "Visita guiada de 1,5 horas por la Sevilla de la Era de los Descubrimientos (s. XVI). Acceso al Archivo General de Indias (UNESCO), la Torre del Oro (museo naval), la Torre de la Plata y los Reales Atarazanas. Guía oficial en español o inglés. Skip-the-line incluido. Sumérgete en la ciudad-puerto que monopolizó el comercio con América durante 200 años. Desde 32 €."
+descripcion: "Visita guiada de 1,5 horas por la Sevilla de la Era de los Descubrimientos (s. XVI). Acceso al Archivo General de Indias (UNESCO), la Torre del Oro (museo naval), la Torre de la Plata y los Reales Atarazanas. Guía oficial en español o inglés. Skip-the-line incluido. Sumérgete en la ciudad-puerto que monopolizó el comercio con América durante 200 años. Desde 30 €."
 
 slugs:
   es: "sevilla-era-descubrimientos-archivo-indias-torre-oro"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1,5 horas"
 duracionMinutos: 90
-precioDesde: 32
+precioDesde: 30
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

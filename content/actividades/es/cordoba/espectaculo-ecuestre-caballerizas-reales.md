@@ -8,7 +8,7 @@ slugs:
   en: equestrian-show-royal-stables
 duracion: 70 minutos
 duracionMinutos: 70
-precioDesde: 19
+precioDesde: 18.5
 moneda: EUR
 idiomas:
 - es

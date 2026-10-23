@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"
-imagen_alt: "Nasridisches Gebäude der Alhambra von Granada mit der Sierra im Hintergrund"
+imagen_alt: "Morgendämmerung am Palast Karls V. innerhalb der Alhambra"
 tiempo_lectura: 14
 keywords:
   - "granada in 2 tagen"

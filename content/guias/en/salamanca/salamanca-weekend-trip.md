@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"
-imagen_alt: "View of the Roman Bridge over the Tormes river in Salamanca"
+imagen_alt: Plaza Mayor lit up at night
 keywords:
   - "salamanca weekend"
   - "salamanca in 2 days"

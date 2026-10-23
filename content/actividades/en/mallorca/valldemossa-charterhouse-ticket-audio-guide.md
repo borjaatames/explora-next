@@ -8,7 +8,7 @@ slugs:
   en: valldemossa-charterhouse-ticket-audio-guide
 duracion: About 1 hour
 duracionMinutos: 60
-precioDesde: 13
+precioDesde: 12.5
 moneda: EUR
 idiomas:
 - es

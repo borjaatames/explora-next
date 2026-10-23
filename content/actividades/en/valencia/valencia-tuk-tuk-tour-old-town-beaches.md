@@ -8,7 +8,7 @@ slugs:
   en: valencia-tuk-tuk-tour-old-town-beaches
 duracion: 2 hours
 duracionMinutos: 120
-precioDesde: 32
+precioDesde: 40
 moneda: EUR
 idiomas:
 - en

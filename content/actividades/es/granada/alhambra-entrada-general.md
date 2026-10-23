@@ -76,8 +76,8 @@ imagenAlt: Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo
 galeria:
   - src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
     alt: "Patio de los Leones en los Palacios Nazaríes"
-  - src: "/images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp"
-    alt: "Bóveda de mocárabes de la Sala de los Abencerrajes"
+  - src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp"
+    alt: "Puerta del Vino en la Alhambra de Granada"
   - src: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
     alt: "La Alhambra al atardecer desde el Albaicín"
   - src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"

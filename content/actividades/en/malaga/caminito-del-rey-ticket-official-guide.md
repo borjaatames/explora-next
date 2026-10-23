@@ -28,7 +28,7 @@ incluye:
 - Mandatory helmet
 noIncluye:
 - Transport to the Caminito
-- Shuttle bus between the two entrances (€1.55 on site)
+- Shuttle bus between the two entrances (€2.50 on site)
 - Food and drink
 puntoEncuentro:
   texto: Caminito del Rey, north access (Ardales), Málaga
@@ -115,7 +115,7 @@ Transport is not included: you get to the north access (Ardales) on your own.
 
 ## Getting there without a tour
 
-**By car**: 1 hour from Málaga. Park at El Kiosko (north access) and, when you finish, return on the shuttle bus from El Chorro (€1.55, every 30 minutes). Or the reverse: park at El Chorro, take the shuttle north and finish next to your car.
+**By car**: 1 hour from Málaga. Park at El Kiosko (north access) and, when you finish, return on the shuttle bus from El Chorro (€2.50, every 30 minutes). Or the reverse: park at El Chorro, take the shuttle north and finish next to your car.
 
 **By train**: Cercanías C-2 Málaga → El Chorro-Caminito del Rey (40 minutes, about €5). From the station, shuttle to the north access.
 

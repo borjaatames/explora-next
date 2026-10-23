@@ -8,7 +8,7 @@ slugs:
   en: toledo-full-day-from-madrid
 duracion: 8 horas
 duracionMinutos: 480
-precioDesde: 63
+precioDesde: 79
 moneda: EUR
 idiomas:
 - es

@@ -10,7 +10,7 @@ slugs:
   en: montserrat-girona-tossa-de-mar-from-barcelona
 duracion: 11 h 30 min
 duracionMinutos: 690
-precioDesde: 113
+precioDesde: 102.99
 moneda: EUR
 idiomas:
 - en
@@ -96,8 +96,8 @@ galeria:
   alt: Cloister of Montserrat monastery
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
   alt: Colourful houses above the Onyar river in Girona
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Inside Girona's Arab Baths
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: Alley in Girona's Jewish Call
 - src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
   alt: Walls and towers of Tossa de Mar's Vila Vella
 - src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp

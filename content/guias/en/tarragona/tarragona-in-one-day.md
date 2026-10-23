@@ -10,7 +10,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
-imagen_alt: "Tarragona's Roman amphitheatre with the Mediterranean in the background"
+imagen_alt: "Lantern tower and belfry of Tarragona Cathedral"
 tiempo_lectura: 11
 keywords:
   - "what to see in tarragona"

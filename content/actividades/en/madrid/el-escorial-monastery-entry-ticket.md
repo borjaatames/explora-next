@@ -80,18 +80,18 @@ galeria:
     alt: "Basilica facade in the Courtyard of the Kings"
   - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp"
     alt: "Main altar of the El Escorial basilica"
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp"
-    alt: "Royal crypt beneath the El Escorial basilica"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp"
+    alt: Facade of El Escorial Monastery under a stormy sky
   - src: "/images/actividades/madrid/escorial/monasterio-escorial-alegoria-geometria-biblioteca-real-hero.webp"
     alt: "Ceiling fresco in the Royal Library of El Escorial"
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp"
     alt: "Door knocker at the monastery's main portal"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp"
-    alt: "Aerial view of the El Escorial Monastery"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-view-from-north-west-hero.webp"
-    alt: "El Escorial seen from the north-west"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp"
-    alt: "Statue of King David on the basilica facade"
+  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp"
+    alt: View of the Monastery of El Escorial complex under a clear sky
+  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp"
+    alt: "Entrance to the Pantheon of the Kings at El Escorial"
+  - src: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
+    alt: Facade of the Royal Monastery of San Lorenzo de El Escorial
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
     alt: "Cloister of the El Escorial Monastery"
 ratingProveedor: 4.5

@@ -95,12 +95,12 @@ keywords: ["madrid premium tapas tour", "madrid private tapas", "small group tap
 
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
 # ─── 12. IMÁGENES (generado por exploraspain-image-pipeline) ─────────
-imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
-imagenAlt: "Puerta sol madrid statue city en Puerta sol"
+imagen: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+imagenAlt: "Fountain and statue of Charles III at Puerta del Sol"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-green-olives-small-white-bowl-hero.webp"
-    alt: "Tapas madrid green olives small white bowl en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
+    alt: "A bottle of red wine and two filled glasses"
   - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
     alt: "Plaza santa ana madrid 26159833570 en Plaza santa ana"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
@@ -111,8 +111,8 @@ galeria:
     alt: "Tapas madrid person pouring red wine into glass en Tapas"
   - src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
     alt: "aerial photography of vehicles passing between high rise buildings"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-ham-delicacy-food-meat-swine-hero.webp"
-    alt: "Tapas madrid ham delicacy food meat swine en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
+    alt: "Iberian hams hanging above a bar counter"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
     alt: "Tapas madrid jamon iberico tapa en Tapas"
 ratingProveedor: 5.0

@@ -4,13 +4,13 @@ slug: italica-ruinas-romanas-monasterio-desde-sevilla
 ciudad: sevilla
 descripcion: Excursión de medio día (4h) a las ruinas romanas de Itálica + Monasterio Medieval San Isidoro del Campo desde
   Sevilla. El anfiteatro fue escenario de Game of Thrones (Dragonpit, temporada 7). 4,5/5 con reseñas verificadas. Guía oficial
-  en 4 idiomas (ES/EN/FR/IT). Recogida disponible. Desde 44 €.
+  en 4 idiomas (ES/EN/FR/IT). Recogida disponible. Desde 42 €.
 slugs:
   es: italica-ruinas-romanas-monasterio-desde-sevilla
   en: italica-roman-ruins-medieval-monastery-from-seville
 duracion: 4 horas
 duracionMinutos: 240
-precioDesde: 44
+precioDesde: 42
 moneda: EUR
 idiomas:
 - es
@@ -149,16 +149,6 @@ keywords:
 imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp"
 imagenAlt: "Anfiteatro romano de Itálica"
 galeria:
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-anfiteatro-r-hero.webp"
-    alt: "Anfiteatro romano de Itálica, ruinas imperiales cerca de Sevilla"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-ruinas-casas-hero.webp"
-    alt: "Yacimiento arqueológico romano de Itálica"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp"
-    alt: "Yacimiento arqueológico romano de Itálica"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp"
-    alt: "Mosaico romano de teselas de colores con motivos decorativos, conservado en casa señorial de Sevilla"
-  - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp"
-    alt: "Fachada medieval del Monasterio de San Isidoro del Campo en Sevilla con elementos arquitectónicos mudéjares, góticos"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-03.webp"
     alt: "Galerías bajo las gradas del anfiteatro"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp"

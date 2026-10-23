@@ -47,29 +47,19 @@ imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
 imagenAlt: Sunset over Valencia's Albufera lake from a boat
 galeria:
 - src: "/images/actividades/valencia/albufera/puerto-catarroja-barca-albufera.webp"
-  alt: "Puerto de Catarroja con barcas tradicionales en la Albufera de Valencia"
+  alt: "Catarroja harbour with traditional boats on Valencia's Albufera"
 - src: "/images/actividades/valencia/albufera/muelle-barcas-tradicionales-albufera.webp"
-  alt: "Muelle de madera con barcas tradicionales en la Albufera"
+  alt: "Wooden jetty with traditional boats on the Albufera"
 - src: "/images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp"
-  alt: "Canal de la Albufera de Valencia con barcas típicas y vegetación"
+  alt: "Albufera canal with typical boats and reeds"
 - src: "/images/actividades/valencia/albufera/atardecer-albufera-valencia.webp"
-  alt: "Atardecer sobre la Albufera de Valencia, lago natural"
+  alt: "Sunset over the Albufera, Valencia's natural lake"
 - src: "/images/actividades/valencia/albufera/albufera-puesta-sol-reflejos.webp"
-  alt: "Puesta de sol en la Albufera con reflejos en el agua"
+  alt: "Sunset on the Albufera with reflections on the water"
 - src: "/images/actividades/valencia/albufera/albufera-cielo-naranja-barca.webp"
-  alt: "Albufera de Valencia con cielo naranja al atardecer y barca"
+  alt: "The Albufera under an orange evening sky with a boat"
 - src: "/images/actividades/valencia/albufera/barca-embarcadero-lago-albufera.webp"
-  alt: "Barca atracada en el embarcadero de la Albufera de Valencia"
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-  alt: Turquoise waters and cliffs of Cala Granadella, on the Costa Blanca
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Aerial view of Cala Granadella, with its beach and the surrounding mountains
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Aerial view of the cliffs and the sea at Cala Granadella
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Crystal-clear waters and rocks on the shore of Cala Granadella
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Cala Granadella with a sailboat anchored and the beach nestled between cliffs
+  alt: "Boat moored at a jetty on Valencia's Albufera"
 publicada: false
 destacada: false
 fecha: '2026-06-18'

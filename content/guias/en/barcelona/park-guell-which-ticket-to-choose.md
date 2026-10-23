@@ -62,7 +62,7 @@ Choose the combined ticket if you're planning the Sagrada Família, Casa Batlló
 - **Both tickets are non-refundable.** No cancellation, no date change. If your plans might move, book once they're fixed.
 - **The official site is cheaper if your date is available.** Park Güell's own website sells general entry for €18 (as of 2026). The tickets above cost more; compare before paying.
 - **Restoration works in 2026:** the Nature Square and the Hypostyle Hall are partially closed. You still see them, but not every corner. Check your confirmation for the latest status.
-- **High season sells out.** From June to September, slots go days or weeks ahead. Mornings sell first.
+- **High season sells out.** From June to September, slots go days or weeks ahead. Mornings sell first. If your date is already gone, see [what to do when Park Güell tickets are sold out](/en/guides/barcelona/park-guell-tickets-sold-out).
 
 ## On the day
 

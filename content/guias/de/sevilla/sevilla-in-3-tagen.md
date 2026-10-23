@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Panoramablick auf Sevilla bei Sonnenuntergang"
+imagen_alt: "Callejón del Agua im Barrio de Santa Cruz in Sevilla"
 tiempo_lectura: 14
 keywords:
   - "sevilla 3 tage"

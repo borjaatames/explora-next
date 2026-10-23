@@ -95,12 +95,12 @@ imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-arc
 imagenAlt: "Park Güell de Barcelona, entrada con los pabellones modernistas de Gaudí"
 
 galeria:
-  - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-architecture-hero.webp"
-    alt: "Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 1)"
+  - src: "/images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero-hero.webp"
+    alt: Vista panorámica del parque Güell en Barcelona con la ciudad al fondo
   - src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-gaudi-hero.webp"
     alt: "Park Güell de Gaudí con vistas panorámicas de Barcelona (vista 2)"
-  - src: "/images/actividades/barcelona/park-guell/park-guell-blue-white-red-floral-textile-hero.webp"
-    alt: "Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)"
+  - src: "/images/actividades/barcelona/park-guell/unsplash-VWE6dSkZBmw-hero.webp"
+    alt: Vistas panorámicas de Barcelona con edificios modernistas y montañas al fondo
   - src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-spain-landmark-hero.webp"
     alt: "Arquitectura modernista de Gaudí en Park Güell"
   - src: "/images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp"

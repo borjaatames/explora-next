@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
-imagen_alt: "Der Alcázar von Toledo, die Festung, die die Stadt krönt"
+imagen_alt: "Alcázar von Toledo über der Altstadt"
 tiempo_lectura: 11
 keywords:
   - "tagesausflug toledo"

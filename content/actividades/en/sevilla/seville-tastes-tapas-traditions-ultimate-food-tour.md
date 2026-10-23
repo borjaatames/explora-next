@@ -105,8 +105,8 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-
 imagenAlt: "Plate of ham croquetas"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
-    alt: "Bowl of green olives with wine glasses"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
+    alt: "A bottle of red wine and two filled glasses"
   - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
     alt: "Tapa and a cold beer on a wooden bar"
   - src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"

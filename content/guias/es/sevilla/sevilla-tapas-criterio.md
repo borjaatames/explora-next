@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
-imagen_alt: "Jamones ibéricos colgados en una charcutería sevillana"
+imagen_alt: "Tapas variadas en cazuelas de barro sobre una mesa en Sevilla"
 tiempo_lectura: 5
 keywords:
   - "tapas sevilla"

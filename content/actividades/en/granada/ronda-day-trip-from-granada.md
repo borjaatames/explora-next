@@ -107,13 +107,9 @@ keywords:
 - ronda gorge day trip
 - ronda full day
 - ronda andalusia day trip
-imagen: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp"
-imagenAlt: Puente Nuevo spanning dramatic Tajo gorge with limestone cliffs in Ronda
+imagen: "/images/actividades/granada/ronda/ronda-pexels-11829157.webp"
+imagenAlt: "Ronda's Puente Nuevo and the houses above the gorge"
 galeria:
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
-  alt: "White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains"
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
-  alt: "Puente Nuevo de Ronda arco de piedra con geometría estructural vista desde abajo"
 - src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
   alt: "Ronda's Puente Nuevo and the houses above the gorge"
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp

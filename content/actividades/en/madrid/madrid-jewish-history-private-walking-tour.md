@@ -73,8 +73,6 @@ galeria:
   alt: Plaza Mayor in Madrid, with its arcaded buildings and red facades
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp
   alt: Sculpted relief on a corner of Madrid's Calle Mayor, with a Latin inscription
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-explore-quaint-urban-street-hero.webp
-  alt: Narrow street in the Madrid de los Austrias district, with a small tower in the background
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-05-hero.webp
   alt: Plaza Mayor in Madrid with the equestrian statue of Philip III
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-08-hero.webp

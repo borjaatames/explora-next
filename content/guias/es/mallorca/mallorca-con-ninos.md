@@ -9,7 +9,7 @@ autor: Equipo ExploraSpain
 publicada: true
 destacada: false
 imagen_portada: /images/guias/mallorca-con-ninos.jpg
-imagen_alt: Zona ajardinada junto a la Catedral de Palma de Mallorca
+imagen_alt: "Toboganes de un parque acuático en Mallorca"
 tiempo_lectura: 3
 keywords:
 - mallorca con niños

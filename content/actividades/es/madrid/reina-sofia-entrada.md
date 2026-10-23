@@ -72,15 +72,15 @@ keywords:
 - museo reina sofia madrid precio
 - guernica picasso madrid
 - reina sofia ticket
-imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-imagenAlt: "Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid"
+imagen: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
+imagenAlt: "Sala de escultura del Reina Sofía"
 galeria:
 - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp"
   alt: "Museo Reina Sofía de Madrid"
-- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp"
-  alt: "Museo Reina Sofía de Madrid"
-- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
-  alt: "Museo Reina Sofía de Madrid"
+- src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
+  alt: "Visitantes en una sala del Reina Sofía"
+- src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
+  alt: "Torres de ascensores del edificio Sabatini"
 - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp"
   alt: "Museo Reina Sofía de Madrid"
 - src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp

@@ -9,7 +9,7 @@ autor: Equipo ExploraSpain
 publicada: true
 destacada: false
 imagen_portada: /images/guias/sevilla-con-ninos.jpg
-imagen_alt: Plaza tradicional del barrio de Triana en Sevilla
+imagen_alt: Atracción acuática Iguazú en Isla Mágica, Sevilla
 tiempo_lectura: 4
 keywords:
 - sevilla con niños

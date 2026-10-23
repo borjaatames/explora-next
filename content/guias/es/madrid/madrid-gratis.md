@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: "Las Cuatro Torres de Madrid con la luna llena al atardecer"
+imagen_alt: "Sala de escultura del Reina Sofía"
 tiempo_lectura: 4
 keywords:
   - "madrid gratis"

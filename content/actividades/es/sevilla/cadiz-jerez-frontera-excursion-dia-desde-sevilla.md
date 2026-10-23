@@ -147,15 +147,15 @@ keywords:
 - cadiz jerez excursion dia
 - bodega jerez vino sherry
 - show ecuestre jerez caballos andaluces
-imagen: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp"
-imagenAlt: "Castillo junto a la playa de La Caleta, en Cádiz"
+imagen: "/images/actividades/cadiz/centro/mercado-central.webp"
+imagenAlt: Puestos del Mercado Central de Cádiz
 galeria:
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp"
-    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp"
-    alt: "Barriles de vino sherry alineados en bodega tradicional de Jerez con copas de cata y atmósfera vinícola artesanal"
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
-    alt: "Jinete en traje tradicional montando caballo andaluz en movimiento durante espectáculo ecuestre en arena de la Real"
+  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
+    alt: Teatro romano de Gades
+  - src: "/images/actividades/cadiz/centro/catedral-coro.webp"
+    alt: Coro de la catedral de Cádiz
+  - src: "/images/actividades/cadiz/centro/catedral-tejados.webp"
+    alt: La catedral sobre los tejados de Cádiz
   - src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
     alt: "Catedral de Cádiz"
   - src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"

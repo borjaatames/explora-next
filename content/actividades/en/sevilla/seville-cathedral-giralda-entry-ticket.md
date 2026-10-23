@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 day (estimated visit 75 min)"
 duracionMinutos: 75
-precioDesde: 15
+precioDesde: 17.5
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -105,7 +105,7 @@ variantes:
 opinionEditorial: |
   The **skip-the-line entry to Seville Cathedral and the Giralda** — the most used ticket for visiting the largest Gothic cathedral in the world without going through ticket office queues. The Cathedral of Santa María de la Sede, built between 1248 and 1507 on the site of the former Almohad mosque, houses the tomb of Christopher Columbus, works by Goya, Murillo and Zurbarán, and the largest altarpiece in the world. The Giralda — the 105-metre Islamic minaret converted to a Christian bell tower — is climbed via 35 wide ramps designed for horsemen to ride up, making it exceptionally accessible vs. other towers of the same period.
 
-  **Price comparison:** from ~€15-22 (depending on option and season) versus ~€14-19 on the official website. The difference (~€3-5) covers multilingual GYG support, consolidated skip-the-line and 48h advance confirmation. If your visit is on a Monday, prioritize the **FREE official entry** (Mondays 2:30-3:30 PM with advance booking) — save money and the experience is identical.
+  **Price comparison:** from ~€17.5-22 (depending on option and season) versus ~€14-19 on the official website. The difference (~€3-5) covers multilingual GYG support, consolidated skip-the-line and 48h advance confirmation. If your visit is on a Monday, prioritize the **FREE official entry** (Mondays 2:30-3:30 PM with advance booking) — save money and the experience is identical.
 
   **Three critical points to understand before booking:** **(1)** this ticket is **NON-REFUNDABLE** — verify date and time before confirming (main limitation vs. other products with 24h cancellation). **(2)** Giralda climb is NOT wheelchair accessible (35 ramps, ~95 m accumulated). The cathedral IS accessible. **(3)** respectful attire mandatory (shoulders and knees covered; no sleeveless shirts) — if you come in light summer clothes, bring a sarong or light jacket.
 
@@ -136,8 +136,8 @@ galeria:
     alt: "La Giralda de Sevilla con detalle de su arquitectura mudéjar"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-06.webp"
     alt: "Interior of Seville Cathedral"
-  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-    alt: "Gothic facade of Seville Cathedral with the Giralda tower in the background"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp"
+    alt: "Detail of the Giralda and Seville Cathedral"
   - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
     alt: "Panoramic view of Seville Cathedral with the Giralda illuminated at sunset"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"

@@ -101,20 +101,20 @@ imagenAlt: "Azoteas madrid aerial photography vehicles en Azoteas"
 galeria:
   - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
     alt: "Cata de vinos en bodega de la Comunidad de Madrid"
-  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-ornate-white-building-trees-cars-hero.webp"
-    alt: "Palacio de Cibeles en Madrid"
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-street-scene-spanish-flags-hero.webp"
+    alt: Plaza de Cibeles con el Palacio de Comunicaciones
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
     alt: "Tapas madrid patatas bravas 2011 en Tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-pinchos-vino-tinto-hero.webp"
-    alt: "Tapas madrid pinchos vino tinto en Tapas"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
+    alt: "Botella de vino tinto y dos copas servidas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp"
     alt: "Tapas madrid sardina cana 097 en Tapas"
   - src: "/images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp"
     alt: "city scale under blue sky"
-  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-water-fountain-statue-lion-top-it-hero.webp"
-    alt: "Plaza cibeles water fountain statue lion top it en Plaza cibeles"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-statue-city-hero.webp"
-    alt: "Puerta sol madrid statue city en Puerta sol"
+  - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+    alt: "Fuente de Cibeles iluminada de noche"
+  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
+    alt: "Fuente y estatua de Carlos III en la Puerta del Sol"
 ratingProveedor: 4.8
 numeroOpiniones: 619
 

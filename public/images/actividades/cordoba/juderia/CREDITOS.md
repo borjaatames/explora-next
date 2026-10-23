@@ -6,3 +6,6 @@
 - `alcazar-jardines.webp` — José Luis Filpo Cabana, CC BY 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jardines_del_Alc%C3%A1zar_de_los_Reyes_Cristianos_%28C%C3%B3rdoba%29.jpg) · recortada a 1600×1200
 - `alcazar-estanques.webp` — Fernando, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jardines_Alc%C3%A1zar_de_los_Reyes_Cristianos_y_almenas_%2825850548242%29.jpg) · recortada a 1600×1200
 - `alcazar-torre.webp` — Berthold Werner, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Spain_Andalusia_Cordoba_BW_2015-10-27_15-59-44.jpg) · recortada a 1600×1200
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `juderia-cordoba-unsplash-h009mqfRvTw.jpg` — Unsplash, foto h009mqfRvTw, licencia Unsplash (https://unsplash.com/photos/h009mqfRvTw)

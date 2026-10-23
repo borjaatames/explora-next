@@ -48,8 +48,8 @@ atracciones:
     imagenAlt: "The colourful houses over the Oñar river in Girona"
   - nombre: "Arab Baths and Sant Pere de Galligants"
     descripcion: "The 12th-century Romanesque baths and the monastery of Sant Pere, two medieval gems in the old town beside the walls."
-    imagen: "/images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp"
-    imagenAlt: "Interior of the Arab Baths of Girona"
+    imagen: "/images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp"
+    imagenAlt: Columns and dome of Girona's Arab Baths
   - nombre: "Passeig de la Muralla"
     descripcion: "The walk along the top of the Carolingian wall that rings the old town, with views over the rooftops, the cathedral and the countryside."
     imagen: "/images/actividades/girona/muralla/muralla-girona-hero.webp"

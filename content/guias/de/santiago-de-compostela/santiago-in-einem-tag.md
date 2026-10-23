@@ -9,7 +9,7 @@ autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
-imagen_alt: "Kathedrale von Santiago de Compostela bei Sonnenuntergang"
+imagen_alt: "Die Plaza del Obradoiro vor der Kathedrale"
 tiempo_lectura: 11
 keywords:
   - "was sieht man in santiago de compostela"

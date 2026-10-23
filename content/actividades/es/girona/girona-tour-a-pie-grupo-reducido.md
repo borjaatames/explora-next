@@ -88,8 +88,8 @@ galeria:
   alt: Catedral de Girona
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Calle del Call judío de Girona
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Baños Árabes de Girona
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: Callejón del Call judío de Girona
 - src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
   alt: Monasterio de Sant Pere de Galligants en Girona
 ratingProveedor: 4.8

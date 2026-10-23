@@ -9,7 +9,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
-imagen_alt: "Calle empedrada del barrio del Albaicín en Granada"
+imagen_alt: Jardines del Generalife
 tiempo_lectura: 5
 keywords:
   - "granada con niños"

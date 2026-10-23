@@ -2,7 +2,7 @@
 titulo: "Seville: Setas de Sevilla (Metropol Parasol) Entry Ticket with 360° Viewpoint, Aurora & Audio Guide"
 slug: "seville-setas-metropol-parasol-entry-ticket-viewpoint"
 ciudad: "sevilla"
-descripcion: "Entry ticket to Setas de Sevilla (Metropol Parasol) with access to the 360° viewpoint at 28 m, the «Feeling Sevilla» immersive experience (15 min), the Aurora light show at sunset and a multilingual audio guide (8 languages: ES, EN, IT, FR, DE, PT, KO, ZH). Ticket valid for 2 entries within 48 h. World's largest wooden structure. From €18."
+descripcion: "Entry ticket to Setas de Sevilla (Metropol Parasol) with access to the 360° viewpoint at 28 m, the «Feeling Sevilla» immersive experience (15 min), the Aurora light show at sunset and a multilingual audio guide (8 languages: ES, EN, IT, FR, DE, PT, KO, ZH). Ticket valid for 2 entries within 48 h. World's largest wooden structure. From €16."
 
 slugs:
   es: "setas-sevilla-metropol-parasol-entrada-mirador"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "40 minutes (valid for 2 entries within 48h of first activation)"
 duracionMinutos: 40
-precioDesde: 18
+precioDesde: 16
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -107,8 +107,8 @@ atraccionesRelacionadas:
 categoria: "entradas"
 keywords: ["setas seville ticket", "metropol parasol entry", "setas seville viewpoint", "las setas seville price", "aurora setas seville", "feeling sevilla ticket"]
 
-imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-imagenAlt: "Upper walkway of Setas de Sevilla (Metropol Parasol) with the Giralda in the background"
+imagen: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+imagenAlt: "Metropol Parasol over Plaza de la Encarnación"
 
 galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
@@ -117,8 +117,8 @@ galeria:
   alt: "Seville Cathedral façade among palm trees"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
   alt: "Seville Cathedral under a blue sky"
-- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: "Seville Cathedral and the Giralda"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp
+  alt: "The Giralda seen from the walls of the Royal Alcázar"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
   alt: "Detail of the Giralda and Seville Cathedral"
 - src: /images/actividades/sevilla/setas/setas-wikimedia-sevilla-metropol-parasol-iglesia-de-la-a-01.webp

@@ -10,7 +10,7 @@ autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"
-imagen_alt: "Paseo junto a la Catedral de Palma de Mallorca"
+imagen_alt: "Ensaimadas en el escaparate de un horno de Mallorca"
 tiempo_lectura: 3
 keywords:
   - "comer en mallorca"

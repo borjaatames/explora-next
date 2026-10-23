@@ -2,7 +2,7 @@
 titulo: "Seville: Casa de Pilatos Ground Floor Entry Ticket with Multilingual Audio Guide"
 slug: "seville-casa-de-pilatos-ground-floor-entry-audio"
 ciudad: "sevilla"
-descripcion: "Entry ticket to Casa de Pilatos in Seville with a downloadable audio guide in 7+ languages (ES, EN, FR, DE, IT, JA and more). Self-guided visit to the Medinaceli family palace — the best example of Renaissance civil architecture in Seville with Mudejar, Gothic and Plateresque elements. Includes ground floor with courtyards, gardens and halls; optional upper floor access. From €13."
+descripcion: "Entry ticket to Casa de Pilatos in Seville with a downloadable audio guide in 7+ languages (ES, EN, FR, DE, IT, JA and more). Self-guided visit to the Medinaceli family palace — the best example of Renaissance civil architecture in Seville with Mudejar, Gothic and Plateresque elements. Includes ground floor with courtyards, gardens and halls; optional upper floor access. From €12."
 
 slugs:
   es: "sevilla-casa-de-pilatos-entrada-planta-baja-audioguia"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "1 day (estimated visit 60-75 min)"
 duracionMinutos: 75
-precioDesde: 13
+precioDesde: 12
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -115,8 +115,8 @@ galeria:
     alt: "Detalle del patio principal de la Casa de Pilatos, palacio renacentista de Sevilla"
   - src: "/images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp"
     alt: "Patio central de la Casa de Pilatos de Sevilla con fuente y jardín"
-  - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
-    alt: "Barrio de Santa Cruz in Seville — location of Casa de Pilatos at the heart of the Jewish quarter"
+  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
+    alt: The Roman theatre of Gades
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp"
     alt: "Tiled gallery with statues at the Casa de Pilatos"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-03.webp"

@@ -16,3 +16,6 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 | dali-figueres-wikimedia-figueres-teatre-museu-dal-0106-jpg-06.webp | Wikimedia Commons: File:Figueres - Teatre-Museu Dalí 0106.JPG (https://commons.wikimedia.org/wiki/File:Figueres_-_Teatre-Museu_Dal%C3%AD_0106.JPG) | CC BY-SA 4.0 | Phyrexian |
 - `torres-huevos-museu-dali.webp` — Pixabay, LoggaWiggler (Licencia Pixabay) — https://pixabay.com/photos/egg-bullet-museum-dali-figueras-5168/
 - `entrada-museu-dali-estatua-dorada.webp` — Pixabay, LoggaWiggler (Licencia Pixabay) — https://pixabay.com/photos/museum-dali-figueras-spain-5213/
+
+Origen identificado el 23-10-2026 (comparando la imagen con el banco):
+- `dali-figueres-hero.webp` — flickch, licencia Unsplash, vía Unsplash (https://unsplash.com/photos/jdnth4PXTCI)

@@ -9,7 +9,7 @@ autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Family rowing a boat in the pond at Retiro Park, Madrid"
+imagen_alt: "Dolphin show at Zoo Aquarium de Madrid"
 keywords:
   - "madrid with kids"
   - "things to do in madrid with kids"

@@ -10,7 +10,7 @@ slugs:
 
 duracion: "Self-guided (typical visit 2-3 hours)"
 duracionMinutos: 150
-precioDesde: 30
+precioDesde: 28
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"

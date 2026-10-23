@@ -10,7 +10,7 @@ slugs:
 
 duracion: "2,5 - 4 horas"
 duracionMinutos: 150
-precioDesde: 20
+precioDesde: 18
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -23,7 +23,7 @@ highlights:
   - "Guía en directo en ESPAÑOL o INGLÉS — uno de los pocos tours del Barri Gòtic bilingüe"
   - "2,5 horas cubriendo La Rambla, mercado de la Boquería, Plaça Reial, exterior Catedral, Plaça Sant Jaume y las calles medievales"
   - "Grupo reducido (máx 15) — reservable también como grupo privado"
-  - "Excelente relación calidad-precio: desde 20 € — de los tours top-rated más asequibles del barrio"
+  - "Excelente relación calidad-precio: desde 18 € — de los tours top-rated más asequibles del barrio"
   - "«Probable que se agote» — reserva con antelación entre mayo y septiembre"
 
 incluye:

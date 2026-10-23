@@ -9,7 +9,7 @@ autor: "ExploraSpain Team"
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/pintxos-bilbao.jpg"
-imagen_alt: "A typical pintxos bar in Bilbao's old town"
+imagen_alt: Gildas, the classic pintxo of chilli pepper, anchovy and olive
 tiempo_lectura: 10
 reservasArriba: true
 respuestaCorta: 'Go bar to bar around **Plaza Nueva and the Old Town**, or Calle Ledesma and García Rivero in the Ensanche, with **one or two pintxos per bar**. Start with a Gilda and ask for the hot kitchen pintxos. Expect **2-3.50 € for a cold pintxo and 4-6 € for a hot one**; a txikiteo dinner runs to about 25-35 € per person.'

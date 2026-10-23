@@ -8,7 +8,7 @@ slugs:
   es: excursion-toledo-dia-completo
 duracion: 8 hours
 duracionMinutos: 480
-precioDesde: 63
+precioDesde: 79
 moneda: EUR
 idiomas:
 - en

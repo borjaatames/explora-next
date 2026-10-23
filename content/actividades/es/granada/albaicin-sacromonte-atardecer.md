@@ -92,8 +92,8 @@ categoria: "visitasGuiadas"
 keywords: ["albaicin sacromonte tour", "tour atardecer granada", "albaicin guiado", "san nicolas mirador", "tour albaicin sacromonte"]
 
 
-imagen: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"
-imagenAlt: "Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer"
+imagen: "/images/actividades/granada/albaicin/albaicin-wikimedia-san-gregorio-barrio-del-albaic-n-granada-jpg.webp"
+imagenAlt: "Calle de teterías en el Albaicín"
 
 galeria:
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp
