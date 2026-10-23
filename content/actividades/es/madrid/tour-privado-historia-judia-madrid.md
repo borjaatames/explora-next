@@ -9,7 +9,7 @@ slugs:
   en: madrid-jewish-history-private-walking-tour
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 199
+precioDesde: 249
 moneda: EUR
 idiomas:
 - es
@@ -47,7 +47,7 @@ opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado
   el guía adapta el relato a lo que os interese y responde sin prisas. La historia
   judía de Madrid es poco conocida y está muy ligada a la de España —siglos de convivencia,
   tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo
-  y contexto. A 199 € por grupo es, además, de las opciones privadas más asequibles
+  y contexto. Desde 249 € por grupo (300 € para 4 personas), es de las opciones privadas más asequibles
   del catálogo.'
 atraccionesRelacionadas:
 - tours-a-pie
@@ -97,7 +97,7 @@ Un paseo privado de dos horas por el **Madrid judío**, que saca a la luz una hi
 
 ## Cómo funciona
 
-Es un **tour privado solo para tu grupo**, con guía en exclusiva, que empieza junto a la Comunidad Judía de Madrid (el punto exacto se confirma al reservar). El precio es **por grupo, no por persona**, y a 199 € es una de las opciones privadas más asequibles del catálogo.
+Es un **tour privado solo para tu grupo**, con guía en exclusiva, que empieza junto a la Comunidad Judía de Madrid (el punto exacto se confirma al reservar). El precio es **por grupo, no por persona**, y va desde 249 € para una persona hasta unos 300 € para cuatro.
 
 ## A quién se lo recomiendo
 

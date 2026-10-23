@@ -22,7 +22,7 @@ slugs:
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
 reservasArriba: true
-respuestaCorta: 'La entrada general cuesta **14,50 €** y la visita lleva unas 2,5-3 horas. En temporada alta la cola de taquilla **supera las 2 horas** y el aforo se agota: compra la entrada online con hora o ve con una visita que ya la incluya. Entra a las 9:30 o después de las 17:00 para evitar el calor en los jardines.'
+respuestaCorta: 'La entrada general cuesta **15,50 €** y la visita lleva unas 2,5-3 horas. En temporada alta la cola de taquilla **supera las 2 horas** y el aforo se agota: compra la entrada online con hora o ve con una visita que ya la incluya. Entra a las 9:30, o en verano después de las 17:00, para evitar el calor en los jardines.'
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line
@@ -53,7 +53,7 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 
 ## Precios y horarios
 
-- **Entrada general:** 14,50 €. Reducida 4,50 € (mayores de 65, estudiantes de 14 a 30 años y Carné Joven). Online se paga 1 € más por la gestión. Gratis para menores de 13 años, personas con discapacidad y nacidos o residentes en Sevilla.
+- **Entrada general:** 15,50 € (2026). Reducida 8 € (mayores de 65, estudiantes de 14 a 30 años y Carné Joven). Gratis para menores de 13 años, personas con discapacidad y nacidos o residentes en Sevilla.
 - **Cuarto Real Alto:** 6 € más. Son las estancias que sigue usando la Familia Real; se visita en grupos pequeños con turno de 30 minutos y se agota antes que la entrada general.
 - **Gratis para todos:** los lunes, de 18:00 a 19:00 de abril a septiembre y de 16:00 a 17:00 de octubre a marzo. Solo online, con aforo limitado, y las plazas vuelan en minutos. No cuentes con ello salvo que lo tengas reservado.
 - **Horario:** de 9:30 a 19:00 de abril a septiembre; de 9:30 a 17:00 de octubre a marzo. Última entrada una hora antes del cierre. Cierra el 1 y el 6 de enero, Viernes Santo y 25 de diciembre.

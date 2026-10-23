@@ -60,7 +60,7 @@ Calcula **2-2,5 horas** dentro. La audioguía va incluida y merece la pena.
 
 ## Entradas y horarios
 
-- **Entrada general:** 18 € (incluye audioguía); reducida para estudiantes y mayores de 65; **menores de 18, gratis**. Se compra online con franja horaria y entras sin cola; la taquilla funciona, pero en temporada tiene espera.
+- **Entrada general:** entre 12 y 18 € según las exposiciones que haya (12 € en octubre de 2026; incluye audioguía); reducida para estudiantes y mayores de 65; **menores de 18, gratis**. Se compra online con franja horaria y entras sin cola; la taquilla funciona, pero en temporada tiene espera.
 - **Horario:** de martes a domingo de 10:00 a 19:00, hasta las 20:00 en verano. **Cierra los lunes** salvo en julio, agosto y puentes; el 25 de diciembre y el 1 de enero siempre.
 - **Mejor momento:** a primera hora de la mañana entre semana, o a partir de las 17:00; los sábados a mediodía es cuando más gente hay.
 - **Consigna:** gratuita y obligatoria para mochilas y paraguas. Se puede entrar con carrito de bebé.

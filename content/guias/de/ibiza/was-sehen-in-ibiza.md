@@ -25,7 +25,6 @@ actividades:
   - crucero-calas-ibiza-paddle-surf-barra-libre
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
-  - excursion-barco-ibiza-formentera-todo-incluido
   - ferry-ida-vuelta-ibiza-formentera
 ---
 

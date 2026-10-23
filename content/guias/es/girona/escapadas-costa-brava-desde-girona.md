@@ -20,13 +20,12 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 reservasArriba: true
-respuestaCorta: 'Desde Girona tienes el **Teatro-Museo Dalí de Figueres** a 40 minutos en tren, **Besalú** a 45 en coche y **Cadaqués** a 1 h 15. Sin coche, lo más cómodo es una excursión organizada (Girona, Costa Brava y pueblos medievales, desde 89 €) o un plan en barco, como Roses–Cadaqués por el Cap de Creus (desde 27 €).'
+respuestaCorta: 'Desde Girona tienes el **Teatro-Museo Dalí de Figueres** a 40 minutos en tren, **Besalú** a 45 en coche y **Cadaqués** a 1 h 15. Sin coche, lo más cómodo es ir en tren a Figueres y hacer la visita guiada al Teatro-Museo Dalí (desde 31 €), o un plan en barco, como Roses–Cadaqués por el Cap de Creus (desde 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
   - islas-medes-barco-cuevas-estartit
   - teatro-museo-dali-figueres-visita-guiada
-  - girona-costa-brava-pueblos-medievales
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
 ---
@@ -41,8 +40,10 @@ actividades:
 | Cadaqués por mar | [Barco de Roses a Cadaqués por el Cap de Creus](/ciudades/girona/actividades/roses-cadaques-barco-cap-de-creus), 4,5★ (414) | 27 € |
 | Islas Medes | [Barco a las islas Medes desde L'Estartit](/ciudades/girona/actividades/islas-medes-barco-cuevas-estartit), 4,6★ (634) | 24 € |
 | Museo Dalí con guía | [Visita guiada al Teatro-Museo Dalí](/ciudades/girona/actividades/teatro-museo-dali-figueres-visita-guiada), 4,7★ (105) | 31 € |
-| Pueblos medievales y costa | [Girona, Costa Brava y pueblos medievales](/ciudades/girona/actividades/girona-costa-brava-pueblos-medievales), 5,0★ (228) | 89 € |
 | Si duermes en Barcelona | [Girona, Figueres, Dalí y Cadaqués en un día](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |
+| Desde Barcelona, grupo reducido | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 99 € |
+
+Las dos últimas salen de Barcelona, no de Girona. Si duermes en Girona, las que te sirven son el kayak, los barcos y la visita al Dalí.
 
 ## Escapadas por libre
 

@@ -95,7 +95,8 @@ galeria:
   alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
   alt: "Private yacht sailing off Barcelona"
-publicada: true
+publicada: false
+reemplazadaPor: barcelona-sunset-sailing-experience
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

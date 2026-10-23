@@ -33,7 +33,7 @@ incluye:
 - Teide cable car ticket
 noIncluye:
 - Food and drink
-- Permit to climb to the summit (3,718 m)
+- Permit to climb to the summit (3,715 m), booked separately on Tenerife ON
 puntoEncuentro:
   texto: Pickup at hotels and points in the north and south of Tenerife.
   descripcionGuia: You choose your pickup point when booking.
@@ -65,7 +65,7 @@ accesibilidad: The cable car isn't suitable for people with physical or motor di
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Do we reach the summit?
-  respuesta: The cable car goes up to 3,555 m; the last stretch to 3,718 m needs a separate National Park permit.
+  respuesta: 'The cable car goes up to 3,555 m; the last stretch to the summit (3,715 m, often quoted as 3,718 m) needs a separate time-slot permit booked on the Cabildo''s Tenerife ON platform: €15 for visitors from outside the Canaries since January 2026.'
 - pregunta: What if it's windy?
   respuesta: If the cable car closes, the trip continues on an alternative route and the cable car fare is refunded.
 - pregunta: Is it cold at the top?
@@ -106,7 +106,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-23'
 ---
 
 ## What you will see
@@ -118,7 +118,7 @@ fecha_actualizacion: '2026-10-07'
 
 ## How it works
 
-You're picked up at your hotel and go up into the national park with the guide. At the base you take the cable car (8 minutes) and have free time at the top on the open trails before coming down and heading back.
+You're picked up at your hotel and go up into the national park with the guide. At the base you take the cable car (under 8 minutes) and have free time at the top on the open trails before coming down and heading back.
 
 ## Who I recommend it for
 

@@ -158,7 +158,7 @@ galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
   alt: "Catedral de Sevilla con la Giralda al atardecer"
 
-ratingProveedor: 4.5
+ratingProveedor: 3.9
 numeroOpiniones: 850
 
 publicada: true

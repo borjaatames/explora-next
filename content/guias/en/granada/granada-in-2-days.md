@@ -1,10 +1,10 @@
 ---
 titulo: "Granada in 2 days: an honest route without missing what matters"
-descripcion: "Granada in 2 days with judgment: Alhambra, Albaicín, Sacromonte, center and Cartuja. Honest route, where to eat, what to skip. No tourist traps."
+descripcion: "Granada in 2 days: Alhambra (and what to do if it's sold out), Albaicín, Sacromonte, centre and Cartuja. Times, prices, where to eat, what to skip."
 categoria: "granada"
 slug: "granada-in-2-days"
 fecha: "2026-05-19"
-fecha_actualizacion: "2026-05-03"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
@@ -21,6 +21,7 @@ slugs:
   en: granada-in-2-days
   de: granada-in-2-tagen
 reservasArriba: true
+respuestaCorta: 'Two days is enough if you **book the Alhambra 3–4 weeks ahead** (€22.27 on the official site) and split the city in two: day one is the Alhambra in the morning, the Albaicín at sunset and a **zambra in Sacromonte**; day two is the Royal Chapel, the Cathedral and the **Baroque Cartuja**. If daytime tickets are gone, the Nasrid Palaces night visit (€12.73) often still has space.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -35,201 +36,81 @@ actividades:
   - capilla-real-granada-entrada
 ---
 
-**Two days in Granada is tight**. Not so few that you skip the trip, but not the three or four the city is asking for. If you only have 48 hours and want to leave having understood something of Granada — not just photographed it — this guide is built for that.
+**Two days in Granada is tight**, but well organised it covers the essentials: the Alhambra, the Albaicín at sunset, free tapas, the Royal Chapel, the Baroque Cartuja and a zambra in Sacromonte. The Science Park, the Hammam and the Huerta de San Vicente don't fit.
 
-The Granada trap is believing it's only about the Alhambra. The Alhambra may be the masterpiece of Nasrid art, but the soul of the city is below: in the alleys of the Albaicín, in the taverns of Calle Navas, in light that changes color three times a day. Whoever leaves having seen only the Alhambra has seen a monument, not a city. This route assumes you're coming with a head: you know you have to book tickets weeks ahead and you don't want to spend your trip queuing.
+## First: the Alhambra ticket
 
-## Why two days are tight (and why they work)
+Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with zero tolerance if you're late. Sales open 90 days ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
 
-One day means choosing between the Alhambra and everything else. And "everything else" is much more than a complement: the Albaicín at sunset, the tapas on Calle Navas, the Royal Chapel with the Catholic Monarchs buried a meter from you, the Baroque Cartuja outside the city, a zambra night in Sacromonte. Giving up all that for the Alhambra is like going to Rome and seeing only the Colosseum.
+**If it's sold out:** the **Nasrid Palaces night visit** (€12.73), often available when daytime is gone, or a **guided tour** from an authorised operator with its own allocation (€45–65). Never buy from resellers: tickets are often fake or in another name. Details in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
-Three days would be ideal — a morning in Sierra Nevada or a Las Alpujarras side trip would fit — but two well-organized days cover the essentials. This guide deliberately drops the Science Park, the Hammam Al Ándalus and the Huerta de San Vicente: in 48 hours they don't fit without sacrificing something more important.
+[actividad: alhambra-night-tour]
 
-## When to visit Granada
+## When to go and how to get there
 
-| Season | Verdict | Why |
-| --- | --- | --- |
-| March to June | Ideal | Snowy Sierra Nevada in the background, Generalife gardens in shape |
-| September and October | Ideal | Pleasant temperatures, autumn in the Albaicín and Generalife |
-| November | Underrated | 10–18°C / 50–64°F, much smaller crowds, low rates |
-| December and January | Well-kept secret | Dry cold, crystal-clear mornings, white sierra opposite |
-| July and August | Avoid | 38–40°C / 100–104°F, midday Alhambra in full sun is suffering |
+| Season | Verdict |
+| --- | --- |
+| March to June, September and October | Ideal: mild, Generalife gardens at their best |
+| November to January | Underrated: 10–18°C in November, few crowds, cheap hotels |
+| July and August | Avoid: 38–40°C and the Alhambra in full sun |
 
-> **⭐ Tip:** if we had to pick a single month, it would be November. Autumn colors, much smaller crowds, warm light over the Albaicín.
+- **AVE from Madrid:** 3h 15min, from €26–30 booked 3–4 weeks ahead; the station is 25 minutes' walk from the centre or €7 by taxi. **Plane:** bus 245 to the centre, 45 minutes (€3.10); taxi €30–35. **Alsa bus:** from Málaga (1h 30min) and Seville (3h).
+- **Car:** the centre is a camera-enforced low-emission zone with automatic fines; garages cost €25–30 a day. Leave it at the hotel or San Agustín car park.
+- **Around town:** bus €1.40 (€0.87 with the Credibús card); minibuses C30, C31 and C32 run from Plaza Nueva to the Alhambra, Albaicín and Sacromonte.
 
-## How to get there
+## Day 1: Alhambra, Albaicín and Sacromonte
 
-**By AVE from Madrid.** Best option from central Spain: 3h 15min – 3h 30min, four daily trains. Booked 3–4 weeks ahead, base fare from **€26–30**; same-day at the gate can hit €80. The station is 25 minutes walking from the center or €7 by taxi. From Barcelona there's one direct AVE a day, but it's over 6 hours: flying is better.
-
-**By plane.** Federico García Lorca airport, 17 km / 10.5 mi from the center, with direct flights to Madrid, Barcelona, Palma and European connections. Alsa bus line 245 to the center: 45 minutes, €3.10. Taxi €30–35, 25 minutes.
-
-**By car.** Getting there is easy; parking in the center, a nightmare. Much of the center is LEZ with cameras and automatic fines, public garages at €25–30/day.
-
-> **⚠️ Warning:** leave it at the hotel parking or in peripheral lots like San Agustín or Puerta Real, and move around walking. Don't try to drive into the Albaicín. The LEZ isn't optional: the cameras read your plate and the fine arrives by mail.
-
-**By bus.** Alsa connects with practically all of Spain. The station is 20 min walking (line 33, €1.40). Useful especially from Málaga (1.5 h) and Seville (3 h).
-
-## The 2-day route with judgment
-
-The structure isn't negotiable: the Alhambra on day one, Albaicín at the end of day one, center and Cartuja on day two. Doing it in reverse worsens the fatigue, because the Alhambra is the longest, most demanding visit.
-
-> **⚠️ Warning:** before reading further, book the Alhambra ticket. Official site *tickets.alhambra-patronato.es*, general admission **€22.27** (Nasrid Palaces, Alcazaba and Generalife, web fee included). They sell out 3–4 weeks ahead, especially in spring and autumn. Your assigned Nasrid time slot is strict: if you arrive late, you don't enter.
-
-**What if they're sold out?** It happens every week. There are honest alternatives: a **Nasrid Palaces nighttime visit** (€12), sold separately and often available when daytime is sold out; or a **small-group guided visit** with an authorized operator, which reserves ticket allotments and sells them with an official guide (more expensive, €45–65, but you enter for sure and you understand what you see).
-
-> **⚠️ Warning:** what you should NOT do is buy on anonymous reseller sites. They tend to be fake or duplicated tickets — the Patronato asks for ID at entry and, if it doesn't match, you don't enter.
-
-### Day 1: Alhambra, Albaicín and Sacromonte
-
-| Time | Activity |
+| Time | Plan |
 | --- | --- |
 | 8:30 AM – 12:30 PM | Full Alhambra |
-| 12:30 – 2 PM | Down to the center |
-| 2 – 4 PM | Tapas lunch on Calle Navas |
-| 4 – 7 PM | Carrera del Darro and up to the Albaicín |
-| 7:30 – 9 PM | Mirador San Nicolás (sunset) |
-| 9:30 – 11:30 PM | Sacromonte and zambra |
+| 12:30 – 2 PM | Down via Cuesta de Gomérez (15 min) or bus C30 |
+| 2 – 4 PM | Tapas on Calle Navas or Elvira |
+| 4 – 7 PM | Carrera del Darro, Bañuelo, up to the Albaicín |
+| 7:30 – 9 PM | Sunset at San Nicolás or San Cristóbal |
+| 9:30 – 11:30 PM | Zambra in Sacromonte |
 
-**8:30 AM – 12:30 PM | The Alhambra**
+**Alhambra.** Take a Nasrid slot between 9 and 9:30 AM and move against the groups: **Alcazaba** and Torre de la Vela (45 minutes), the **Nasrid Palaces**, arriving 15–20 minutes before your slot (90 minutes), then the **Generalife** (60 minutes). Allow 3h 30min to 4 hours; bring water.
 
-Book the first slot with Nasrid access between 9 and 9:30 AM: less heat, less crowd, better light. We recommend going against the tourist flow to dodge groups. Start at the **Alcazaba**, the military fortress and oldest part, climb the Torre de la Vela for the best views over Granada and Sierra Nevada (45–60 minutes). Then the **Nasrid Palaces**, arriving 15–20 minutes before your slot — Court of the Myrtles, Hall of Comares, Court of the Lions. What look like drawings on the walls are Kufic inscriptions with poems by Ibn Zamrak, so look up (90 minutes). Close with the **Generalife**: Patio de la Acequia, Water Stairway, gardens (60–75 minutes). Realistic total: **3h 30min – 4 h**. Bring water and comfortable shoes. To go deeper before the visit, we have a [dedicated guide on how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit) with all the details on tickets, the Nasrid time slot and common mistakes.
+**Tapas.** In Granada **the tapa is free with your drink**: three beers at €1.80–2.50 and you've eaten. If a bar charges €3.50 a beer, it's touristy. Bar Los Diamantes (Navas, 28) for fried fish; Casa Julio (Calle Hermosa, 5) for fried anchovies; La Riviera (Elvira, 30) for more elaborate tapas. Arrive before 2 PM or after 3:30 PM to get a spot.
 
-**12:30 – 2 PM | Down to the center**
+**Carrera del Darro and Albaicín.** Granada's prettiest street; stop at the **Bañuelo** (11th-century Arab baths, Carrera del Darro, 31; €5, Tuesday to Sunday, 20 minutes). Up to the Albaicín via Cuesta del Chapiz (25 minutes uphill, so no smooth soles) or minibus C32 (€1.40).
 
-By Cuesta de Gomérez to Plaza Nueva, 15 minutes. If you don't want to walk, bus C30 goes straight to the center.
+**Sunset.** **Mirador de San Nicolás** is the postcard view, public and free (ignore anyone charging for it): arrive 30–45 minutes early. For half the crowd, walk 10 minutes to **San Cristóbal**.
 
-**2 – 4 PM | Lunch on Navas or Elvira**
+**Zambra.** Sacromonte's intimate cave flamenco: Cueva de la Rocío (€28–30 with a drink), Los Tarantos (€26) or María la Canastera (€22–26). Caves hold 60–100 people, so book; on Fridays and Saturdays there are no same-day seats. Skip hotel-pickup packages with set menus. Return by taxi (€5–7). Compare caves in [which Sacromonte flamenco cave to choose](/en/guides/granada/flamenco-cave-sacromonte-which-to-choose).
 
-Granada's moment of truth: **tapas are free with your drink**. You order a beer (€1.80–2.50) and they bring a generous tapa. With three or four beers you eat reasonably well.
+## Day 2: historic centre and Cartuja
 
-Calle Navas concentrates much of the best bar food. **Bar Los Diamantes** (Navas, 28) is a fried-fish classic, loud, lots of locals. **Casa Julio** (Calle Hermosa, 5) makes the best fried anchovies in town. On Elvira, **La Riviera** (Elvira, 30) does more elaborate tapas. To get a spot, arrive before 2 PM or after 3:30 PM.
-
-**4 – 7 PM | Carrera del Darro and Albaicín**
-
-Head back to Plaza Nueva and start the **Carrera del Darro** upriver. It's probably the most beautiful street in Granada: the Darro on the left, heraldic houses, small bridges, the Alhambra peeking out on the right slope. Most people cross it in 10 minutes when it's worth stopping. Halfway, the **Bañuelo** (Carrera del Darro, 31), 11th-century Arab baths: €5, Tuesday to Sunday, 20 minutes of visit and very well preserved. The street ends at the **Paseo de los Tristes**, with the Alhambra right above.
-
-To go up to the Albaicín you have two options: **walking** via Cuesta del Chapiz (20–25 minutes uphill, views getting better and better) or **bus C32** from Plaza Nueva (€1.40, drops you near the Mirador de San Nicolás in 10 minutes).
-
-**7:30 – 9 PM | Mirador de San Nicolás (or San Cristóbal)**
-
-The **Mirador de San Nicolás** is the standard postcard: full Alhambra with Sierra Nevada behind. The phrase attributed to Bill Clinton about "the most beautiful sunset in the world" is now a cliché, but the spot is worth it. Arrive 30–45 minutes before sunset.
-
-> **⚠️ Warning:** pushy street vendors, musicians fishing for tips, tourists with drones (annoying and prohibited over the Alhambra). If all that breaks the magic for you, walk 10 minutes more to **Mirador de San Cristóbal**: you see more of northern Granada and the Albaicín rooftops, with far fewer people.
-
-**9:30 – 11:30 PM | Sacromonte and zambra**
-
-Granada's flamenco is different from Seville's. Here it's called **zambra** and was born in the Sacromonte caves: more intimate, less choreographed, with elements of the old gypsy wedding. Three reference caves, small capacity:
-
-- **Cueva de la Rocío** (Camino del Sacromonte, 70). The Maya family, one of the neighborhood's first zambras. Evening shows from 8 PM. Show plus drink: €28–30.
-- **Cuevas Los Tarantos** (Camino del Sacromonte, 9). Founded in 1972. Show with drink around €26.
-- **Zambra María la Canastera** (Camino del Sacromonte, 89). The most iconic for those in the know. From €22–26 with drink.
-
-> **⭐ Tip:** book days ahead. On Friday or Saturday there are no same-day spots. And don't walk back alone in the early hours: the neighborhood is safe but the paths are badly lit; come back by taxi (€5–7) or in a group.
-
-### Day 2: Historic center and Cartuja
-
-| Time | Activity |
+| Time | Plan |
 | --- | --- |
 | 9:30 – 11:30 AM | Royal Chapel and Cathedral |
 | 11:30 AM – 1 PM | Alcaicería, Bib-Rambla, Madraza, Corral del Carbón |
 | 2 – 4 PM | Lunch in the Realejo |
 | 4:30 – 6 PM | Monastery of La Cartuja |
-| 6:30 – 11 PM | Last afternoon, walk and dinner |
+| 6:30 – 11 PM | Walk and dinner |
 
-**9:30 – 11:30 AM | Royal Chapel and Cathedral**
+**Royal Chapel.** Tombs of Isabella and Ferdinand, Joanna the Mad and Philip the Handsome, Isabella's crown, and panels by Memling and Botticelli. €7, free QR audio guide, 60 minutes. Next door, the Renaissance **Cathedral**: €7. Tuesdays are busier (locals enter free). Don't squeeze these into the Alhambra day.
 
-The **Royal Chapel** (Calle Oficios, s/n) is where Isabella and Ferdinand, the Catholic Monarchs, are buried, alongside their daughter Joanna the Mad and her son-in-law Philip the Handsome. You're a meter away from the monarchs who closed the Reconquista in 1492. Small but dense: Carrara marble tombs carved by Fancelli, grille by Bartolomé de Jaén, museum with Isabella's crown and scepter, and Flemish panels with pieces by Memling, van der Weyden and *The Agony in the Garden* by Botticelli. Striking artistic density. Admission **€7**, free QR audio guide. 60–75 minutes.
+**Centre.** The Alcaicería is now souvenirs; in Plaza Bib-Rambla, drink but don't eat. The **Madraza** (Nasrid prayer room) and **Corral del Carbón** (Spain's only surviving Nasrid warehouse) are free, 15 minutes each.
 
-Right next door, the **Cathedral**: Renaissance, white inside, spectacularly luminous. The unfinished tower spoils outer symmetry but the interior compensates. Admission **€6**, open Monday to Saturday roughly 10 AM – 6:30 PM.
+**Realejo.** The old Jewish quarter: cheaper and better than the centre, on Calle Molinos and Campo del Príncipe. Order **plato alpujarreño** (ham, sausages, egg and potatoes, for sharing), **remojón** (cod and orange salad) or **tortilla del Sacromonte**. Try Bodegas Castañeda (Almireceros, 1–3) or Taberna La Tana (Placeta del Agua, 3).
 
-> **Note:** on Tuesdays Granada locals enter the Cathedral free all day and the Royal Chapel between 2 and 6 PM. Those days will be more crowded.
+**Cartuja.** Skipped by most visitors because it's outside the centre, yet the sacristy (1742) is a peak of Spanish Baroque. Bus 8 or U3 from Gran Vía (15 minutes). €7, about 60 minutes; on Saturdays it opens 10 AM – 12:15 PM and 3 – 5:30 PM.
 
-**11:30 AM – 1 PM | Alcaicería, Bib-Rambla, Madraza and Corral del Carbón**
+**Dinner.** Damasqueros (Realejo, tasting menu €45–55) or Mirador de Aixa, a *carmen* facing the floodlit Alhambra (€60–80). For dessert, a *pionono* at Casa Ysla. With a spare hour, **San Jerónimo Monastery** (€6) has the best Renaissance altarpiece in town and no crowds.
 
-The **Alcaicería**, on the way out of the Cathedral, is what's left of the old Arab souk — but a heads-up: today it's pure tourism (magnets, imitation ceramics, scarves). Good for photos, walk through without spending. **Plaza Bib-Rambla**, classic flower plaza, historically held public executions and autos-da-fé. A beer at a terrace is reasonable; eating here, no, the prices are touristy.
+## Where to stay
 
-A few steps away, the **Palacio de la Madraza** (Oficios, 14): the old 14th-century Islamic university with a restored Nasrid prayer room, free (15 minutes). And the **Corral del Carbón** (Mariana Pineda), a Nasrid warehouse, the only one preserved in Spain: small, free, five minutes, but the doorway and patio justify the detour.
+**Centre (Plaza Nueva–Gran Vía):** 5 minutes from everything, €90–180 a night; the practical choice. **Realejo:** local and quiet. **Lower Albaicín:** Alhambra views, expensive and steep. **Avoid** Recogidas, Camino de Ronda, Zaidín and the station area.
 
-**2 – 4 PM | Lunch in the Realejo**
+## Mistakes to avoid
 
-Cross to the **Realejo**, the old Jewish quarter, 5 minutes walking from Reyes Católicos. Prices drop compared to the center and the cooking goes up. Calle Molinos and Campo del Príncipe are full of taverns with tapas.
+- **Eating early:** lunch is 2–4 PM, dinner 9–11 PM. If no free tapa arrives, leave; skip laminated menus on Plaza Nueva and opposite the Alhambra.
+- **The Alhambra at midday in summer.** Go first thing or at night.
+- **The tourist train:** pointless in a city this compact.
 
-Order with judgment: **plato alpujarreño** (ham, pork loin, blood sausage, longaniza, egg and "poor man's potatoes", hearty for sharing), **remojón granadino** (cod, orange and olive salad) or **tortilla del Sacromonte** (with brains and lamb's testicles, not for everyone but the most identity-laden plate). Honest spots: **Bodegas Castañeda** (Almireceros, 1-3) and **Taberna La Tana** (Placeta del Agua, 3) if you want to step up.
+## Dates to plan around
 
-**4:30 – 6 PM | Monastery of La Cartuja**
+**Holy Week** (full hotels), **January 2** (Toma de Granada; altered opening hours) and the **Music and Dance Festival** (June–July, concerts in the Alhambra).
 
-The most important recommendation in this guide and the one most visitors miss: the **Monastery of La Cartuja** is outside the center and that's why 80% of tourists skip it. It's a mistake. It's **one of the peaks of Spanish Baroque**: the sacristy, finished in 1742, is a hallucination of white and red marbles, stuccos and painted vaults. The tabernacle, with its mirrored chamber, is one of the most hypnotic things in Andalusia.
-
-Bus 8 from Gran Vía (15 minutes, €1.40) or 30 minutes walking on a moderate uphill. Admission **€7**. Hours: Sunday to Friday 10 AM – 6:30 PM, Saturdays 10 AM – 12:15 PM and 3 – 5:30 PM. Visit 60–75 minutes.
-
-**6:30 – 11 PM | Last afternoon and dinner**
-
-Aimless walking through **Plaza Nueva, Calle Elvira and Pasaje de las Flores** — Granada in the late afternoon has a golden light that changes the Albaicín walls. For dinner, we recommend skipping the tapas format: **Restaurante Damasqueros** (Damasqueros, 3, Realejo) does contemporary Granada cooking with a tasting menu of €45–55; **Carmen Mirador de Aixa** (Carril de San Agustín, 2) is a traditional carmen with views of the lit-up Alhambra, expensive (€60–80) but it's an experience. Sweet close: a **pionono** at **Casa Ysla** (Acera del Casino, 5).
-
-## Where to stay in Granada
-
-Granada is compact but the neighborhood choice changes the experience a lot.
-
-**Recommended.** **Center / Plaza Nueva–Gran Vía** is most practical: 5 minutes walking from everything, 3–4 star hotels at €90–180/night in season, what we recommend for two days. **Realejo** offers local atmosphere, better restaurants and quiet streets at night, 10 minutes walking to the center. **Lower Albaicín (Carrera del Darro area)** is for falling in love with Granada waking up to Alhambra views: boutique hotels, *cármenes*, expensive and sloped, but the experience is unmatched. **Upper Sacromonte** only if you want something different: cave houses with views, far from the center.
-
-**To avoid.** **Recogidas / Camino de Ronda** (modern, commercial Granada, no historic character), **Zaidín** (residential to the south, far from everything) and hotels **near the Conference Palace or the Station** (handy for arriving and leaving, hostile for the visitor).
-
-## Eating in Granada: three rules
-
-Three principles that save you trouble:
-
-1. **Tapas are free with your drink.** If somewhere they don't bring one, that place isn't for locals: leave.
-2. **Real schedules:** lunch 2–4 PM, dinner 9–11 PM. Before 1:30 PM the locals are empty.
-3. **The beer price marks the place.** Honest Granadan tavern: €1.80–2.50. If they charge €3.50, it's touristy.
-
-> **⚠️ Warning:** traps to avoid — restaurants with plasticized menus in five languages opposite the Alhambra or in Plaza Nueva, restaurants with hawkers at the door, places advertising "authentic tapas, all different" (the tapa is chosen by the house, that's the point).
-
-## What we DON'T recommend
-
-**1. The Alhambra at midday in summer.** Temperatures over 35°C / 95°F, queues in open sun, light that burns photos. If you can only go in summer, first thing (8:30–9 AM) or nighttime visit from 10 PM.
-
-**2. "Bus tour Sacromonte for tourists".** Packages that pick you up at the hotel, take you to a cave with a fixed-price menu and a watered-down show. Flamenco for foreigners with no soul. Go on your own to Cueva de la Rocío, Los Tarantos or María la Canastera.
-
-**3. Eating in restaurants on Plaza Nueva or facing the Alhambra.** Prices 40% above, quality 50% below. Walk five minutes and everything changes.
-
-**4. The "Tren turístico Granada City Tour".** Doesn't make sense in such a compact city. You pay to do in an uncomfortable train what you'd do better walking or by bus for a tenth of the price.
-
-**5. Going up to the Alhambra without a ticket "to see what you can".** The free part is fine for 20 minutes, but going all the way up for that is absurd. The Alhambra is the Nasrid Palaces; if you're not going to see them, don't go up.
-
-**6. Paying to enter the Mirador de San Nicolás.** It's public and free. Anyone charging for "an exclusive guided visit to the viewpoint" is a hawker.
-
-**7. Buying Alhambra tickets on anonymous reseller sites.** They tend to be fake, duplicated, or issued to another name. The Patronato asks for ID; if it doesn't match, you don't enter. Only two safe paths: the official site or a guided tour from an authorized operator with admission included.
-
-## Common visitor mistakes
-
-> **⚠️ Warning:** these are the mistakes we see every week. Avoid them and the trip changes.
-
-**1. Not booking the Alhambra ticket ahead.** The number-one mistake, repeated weekly. Without the Nasrid Palaces, Granada falls short.
-
-**2. Arriving late to your Nasrid Palaces slot.** Zero tolerance: if your slot is 10:30, by 10:35 you don't enter. Arrive 30 minutes early with the QR downloaded.
-
-**3. Going up the Albaicín in city shoes.** Cobbled slopes, irregular and long. Heels, thin sandals or flat soles are a bad idea.
-
-**4. Eating on European schedules.** At 1 PM many taverns haven't opened the kitchen; at 7 PM the same. Adapt or have warmed-up snacks.
-
-**5. Confusing flamenco with zambra.** Zambra is a different style, with roots in the gypsy wedding and the 16th-century Morisco-gypsy fusion. It's not "worse" or "better" flamenco: it's a different thing.
-
-**6. Trying to do the Alhambra and Cathedral on the same day.** It fits, but it's pure exhaustion. The Alhambra is 4 demanding hours; the Royal Chapel and Cathedral need a fresh head.
-
-**7. Parking in the center thinking the LEZ is optional.** Cameras read your plate and the fine arrives at home. If your hotel doesn't have parking, leave it outside the center.
-
-**8. Not booking the zambra.** Capacity of 60–100 people. Showing up without a reservation on Friday or Saturday means staying outside.
-
-## Events to time around
-
-Granada has three moments of the year with their own identity:
-
-- **Holy Week (March or April).** Processionally intense, with unique stages: brotherhoods climbing the Albaicín or Sacromonte. Hotels full, prices high. If it interests you, good option; if not, avoid it.
-- **Toma de Granada (January 2).** Commemorates the Catholic Monarchs' conquest in 1492. Institutional act and Mass at the Royal Chapel. Controversial for Granada locals. Some monuments change hours.
-- **International Festival of Music and Dance (June–July).** Since 1952. Classical concerts in venues like the Palace of Charles V, the Generalife or the Court of the Myrtles. If it coincides, try for tickets.
-
-## In one sentence
-
-Granada in two days is going with discipline and coming back feeling you've only seen part — and that's exactly what makes you come back. If you leave wanting more, what comes next is going up to Las Alpujarras: white villages clinging to the sierra, slate roofs and a silence the city no longer remembers.
-
-And if you're traveling with kids, [Granada with kids](/en/guides/granada/granada-with-kids) has the adapted plan: reduced Alhambra, Science Park and ice cream at Los Italianos.
+Next step if you have more time: the Alpujarra villages. Travelling as a family? See [Granada with kids](/en/guides/granada/granada-with-kids).

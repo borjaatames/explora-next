@@ -51,7 +51,7 @@ Sevilla no es una ciudad para verla sino para **vivirla**: la luz sobre la Giral
 
 ## Día 1: el corazón monumental
 
-**9:30 — Real Alcázar.** Entrada online con días de antelación (14,50 €; el Cuarto Real Alto, 6 € más y 25 minutos guiados) y la primera franja: a las 9:30 es otro monumento que a las 12:00, cuando hay 30-45 minutos de cola y el aforo de 750 se agota. Dedícale 2-3 horas: Patio de las Doncellas, Salón de Embajadores y los **jardines completos**, que la mitad de los visitantes se salta. Detalle en [cómo visitar el Alcázar](/guias/sevilla/alcazar-de-sevilla-como-visitar).
+**9:30 — Real Alcázar.** Entrada online con días de antelación (15,50 €; el Cuarto Real Alto, 5,50 € más y 25 minutos guiados) y la primera franja: a las 9:30 es otro monumento que a las 12:00, cuando hay 30-45 minutos de cola y el aforo de 750 se agota. Dedícale 2-3 horas: Patio de las Doncellas, Salón de Embajadores y los **jardines completos**, que la mitad de los visitantes se salta. Detalle en [cómo visitar el Alcázar](/guias/sevilla/alcazar-de-sevilla-como-visitar).
 
 **12:30 — Catedral y Giralda**, justo enfrente. La mayor catedral gótica del mundo, la tumba de Colón, el retablo mayor y la sacristía con Murillo y Zurbarán; la Giralda se sube por rampa, no por escaleras, y es la mejor vista del centro. Entrada conjunta con la iglesia del Salvador, 20 € online (gratis menores de 13). 1 h 30 a 2 horas.
 

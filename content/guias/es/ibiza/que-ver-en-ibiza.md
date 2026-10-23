@@ -25,7 +25,6 @@ actividades:
   - crucero-calas-ibiza-paddle-surf-barra-libre
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
-  - excursion-barco-ibiza-formentera-todo-incluido
   - ferry-ida-vuelta-ibiza-formentera
 ---
 
@@ -35,11 +34,11 @@ actividades:
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 54 € |
+| [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 60 € |
 | [Crucero por calas con paddle surf, comida y bebidas](/ciudades/ibiza/actividades/crucero-calas-ibiza-paddle-surf-barra-libre) | 4,6★ (3.570) | 52 € |
 | [Crucero a Es Vedrà con bebidas y aperitivos](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,6★ (375) | 25 € |
 | [Paseo en barco al atardecer con bebidas y baño](/ciudades/ibiza/actividades/barco-atardecer-ibiza-bebidas-bano) | 4,8★ (110) | 49 € |
-| [Ibiza–Formentera 360°: excursión en barco todo incluido](/ciudades/ibiza/actividades/excursion-barco-ibiza-formentera-todo-incluido) | — | 89,10 € |
+| [Billete de ferry de ida y vuelta a Formentera](/ciudades/ibiza/actividades/ferry-ida-vuelta-ibiza-formentera) | 4,7★ (322) | 55 € |
 
 ## Cómo es la isla y cuántos días
 

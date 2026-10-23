@@ -22,7 +22,7 @@ slugs:
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
 reservasArriba: true
-respuestaCorta: 'Der normale Eintritt kostet **14,50 €**, der Besuch dauert etwa 2,5-3 Stunden. In der Hochsaison dauert die Schlange an der Kasse **über 2 Stunden** und die Tageskapazität ist schnell weg: Kauf ein Zeitfenster-Ticket online oder geh mit einer Führung, die es enthält. Geh um 9:30 oder nach 17:00 hinein, um der Hitze in den Gärten zu entgehen.'
+respuestaCorta: 'Der normale Eintritt kostet **15,50 €**, der Besuch dauert etwa 2,5-3 Stunden. In der Hochsaison dauert die Schlange an der Kasse **über 2 Stunden** und die Tageskapazität ist schnell weg: Kauf ein Zeitfenster-Ticket online oder geh mit einer Führung, die es enthält. Geh um 9:30 oder im Sommer nach 17:00 hinein, um der Hitze in den Gärten zu entgehen.'
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line

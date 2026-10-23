@@ -72,7 +72,8 @@ ratingProveedor: 4.99
 numeroOpiniones: 228
 guiasRelacionadas:
   - "costa-brava-day-trips-from-girona"
-publicada: true
+publicada: false
+reemplazadaPor: girona-costa-brava-small-group-hotel-pickup
 destacada: false
 fecha: "2026-05-21"
 bokunProductId: 936816

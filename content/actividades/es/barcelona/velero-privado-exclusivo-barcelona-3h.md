@@ -95,7 +95,8 @@ galeria:
   alt: "Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo"
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
   alt: "Velero privado navegando frente a Barcelona"
-publicada: true
+publicada: false
+reemplazadaPor: navegacion-atardecer-barcelona-vela
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

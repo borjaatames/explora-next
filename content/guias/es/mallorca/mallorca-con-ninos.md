@@ -76,7 +76,7 @@ faq:
 ## Lo práctico: coche, comida y horarios
 
 - **Coche de alquiler, imprescindible y con antelación.** En julio y agosto los precios se doblan y las sillas infantiles se acaban: reserva en cuanto tengas los vuelos. Pide la silla al reservar, no en el mostrador.
-- **Las Cuevas del Drach** cuestan 18 € (11 € de 2 a 12 años, gratis los menores de 2) y las sesiones con concierto son a horas fijas: de abril a octubre a las 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 y 17:00; en invierno solo cuatro pases. Se agotan: compra online con días de margen. La visita dura entre 1 hora y 1 h 30, y dentro hay 18-21 °C todo el año: lleva una chaqueta fina.
+- **Las Cuevas del Drach** cuestan 18,50 € comprando online (11,50 € de 3 a 12 años) y las sesiones con concierto son a horas fijas: de abril a octubre a las 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 y 17:00; en invierno solo cuatro pases. Se agotan: compra online con días de margen. La visita dura entre 1 hora y 1 h 30, y dentro hay 18-21 °C todo el año: lleva una chaqueta fina.
 - **El tren de Sóller** sale de Palma a las 10:10, 10:50, 12:15, 13:30 y 15:10. Son 30 € ida y vuelta (el tranvía al puerto se paga aparte) y el trayecto dura una hora. Siéntate en el lado derecho a la ida para las vistas de la Tramuntana.
 - **Palma Aquarium:** 2-3 horas, mejor abrir a las 10:00 o entrar a partir de las 15:00, cuando salen los grupos. El tiburón y la selva tropical son lo que más gusta.
 - **Comer:** los chiringuitos de las playas familiares y los cellers (restaurantes de pueblo, con menú del día a 15-18 €) funcionan muy bien con niños. Reserva en verano, sobre todo en el norte. Para merendar, una ensaïmada recién hecha nunca falla.

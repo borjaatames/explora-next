@@ -34,7 +34,7 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €54 |
+| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
 | [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €52 |
 | [Snorkelling, paddleboarding and sea cave boat tour](/en/cities/ibiza/activities/ibiza-snorkel-paddleboard-sea-cave-boat-tour) | 4.7★ (1,435) | €60 |
 | [Sea kayak tour through caves with snorkelling from Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4.8★ (333) | €50 |

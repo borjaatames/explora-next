@@ -54,7 +54,7 @@ faq:
 | [Whales and dolphins on an eco-yacht from Los Cristianos](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) | 4.7★ (19,490) | €30 |
 | [Sunset and stargazing in Teide National Park](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 4.7★ (3,691) | €35 |
 | [Masca Gorge: hike and boat back](/en/cities/tenerife/activities/masca-gorge-hike-boat-trip) | 4.7★ (374) | €145 |
-| [Kayak and snorkel tour in Los Cristianos](/en/cities/tenerife/activities/los-cristianos-kayak-snorkel-tour) | 4.7★ (12,364) | €25 |
+| [Kayak and snorkel tour in Los Cristianos](/en/cities/tenerife/activities/los-cristianos-kayak-snorkel-tour) | 4.7★ (12,364) | €20.90 |
 
 ## How many days you need
 

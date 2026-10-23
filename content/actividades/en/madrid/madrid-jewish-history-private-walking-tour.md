@@ -9,7 +9,7 @@ slugs:
   en: madrid-jewish-history-private-walking-tour
 duracion: 2 hours
 duracionMinutos: 120
-precioDesde: 199
+precioDesde: 249
 moneda: EUR
 idiomas:
 - es
@@ -47,7 +47,7 @@ opinionEditorial: 'This is a niche tour, which is exactly why it works so well i
   private: the guide tailors the story to what interests you and answers at length.
   Madrid''s Jewish history is little known and closely tied to Spain''s —centuries
   of coexistence, tension, exile and a 20th-century return— so it deserves to be told
-  with time and context. At €199 per group it is also one of the most affordable private
+  with time and context. From €249 per group (about €300 for four) it is one of the more affordable private
   options in the catalogue.'
 atraccionesRelacionadas:
 - tours-a-pie
@@ -97,7 +97,7 @@ A two-hour **private walk through Jewish Madrid**, uncovering a history that goe
 
 ## How it works
 
-It's a **private tour for your group only**, with a guide just for you, starting around the Jewish Community of Madrid (the exact meeting point is confirmed when you book). The price is **per group, not per person**, and at €199 it's one of the most affordable private options in the catalogue.
+It's a **private tour for your group only**, with a guide just for you, starting around the Jewish Community of Madrid (the exact meeting point is confirmed when you book). The price is **per group, not per person**, and it goes from €249 for one person to about €300 for four.
 
 ## Who I'd recommend it to
 

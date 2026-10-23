@@ -125,7 +125,8 @@ galeria:
 ratingProveedor: 4.3
 numeroOpiniones: 318
 
-publicada: true
+publicada: false
+reemplazadaPor: park-guell-entrada-zona-monumental
 destacada: false
 fecha: "2026-05-17"
 fecha_actualizacion: '2026-06-18'

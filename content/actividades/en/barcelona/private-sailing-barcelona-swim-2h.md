@@ -94,7 +94,8 @@ galeria:
   alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
   alt: "Private sailboat off the Barcelona coast"
-publicada: true
+publicada: false
+reemplazadaPor: barcelona-small-group-sailing-cruise
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

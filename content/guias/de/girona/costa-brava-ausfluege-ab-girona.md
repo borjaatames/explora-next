@@ -21,13 +21,12 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 reservasArriba: true
-respuestaCorta: 'Von Girona aus erreichst du das **Dalí-Theatermuseum in Figueres** in 40 Minuten mit dem Zug, **Besalú** in 45 Minuten mit dem Auto und **Cadaqués** in 1 h 15. Ohne Auto ist ein organisierter Ausflug am bequemsten (Girona, Costa Brava und mittelalterliche Dörfer, ab 89 €) oder eine Bootstour wie Roses–Cadaqués um das Cap de Creus (ab 27 €).'
+respuestaCorta: 'Von Girona aus erreichst du das **Dalí-Theatermuseum in Figueres** in 40 Minuten mit dem Zug, **Besalú** in 45 Minuten mit dem Auto und **Cadaqués** in 1 h 15. Ohne Auto ist es am bequemsten, mit dem Zug nach Figueres zu fahren und die Führung durch das Dalí-Theatermuseum zu machen (ab 31 €), oder eine Bootstour wie Roses–Cadaqués um das Cap de Creus (ab 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
   - islas-medes-barco-cuevas-estartit
   - teatro-museo-dali-figueres-visita-guiada
-  - girona-costa-brava-pueblos-medievales
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
 ---

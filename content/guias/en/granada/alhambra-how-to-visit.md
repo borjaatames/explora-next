@@ -4,7 +4,7 @@ descripcion: 'How to visit the Alhambra in Granada: which visit to choose for yo
 categoria: granada
 slug: alhambra-how-to-visit
 fecha: '2026-05-02'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: "2026-10-23"
 autor: ExploraSpain editorial team
 publicada: true
 destacada: true
@@ -57,6 +57,13 @@ The Alhambra is Spain's most visited monument, and its tickets sell out weeks in
 | Just your group | [Private tour](/en/cities/granada/activities/alhambra-private-tour), 4.9★ (242) | €280 |
 | Short on time or budget | [Gardens and Generalife (no Nasrid Palaces)](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €18 |
 
+How to pick:
+
+- **First visit, normal budget:** the most popular tour (€54). 3 hours with an official guide and headsets, in five languages; 20% cheaper if you book more than 40 days ahead.
+- **Travelling with children:** the best-rated tour (€84) adapts the route and has games for kids.
+- **Already seen it by day:** the night visit is 1.5 hours in the illuminated Nasrid Palaces only. It doesn't replace the daytime visit.
+- **Watch the conditions:** none of these Alhambra options offers free cancellation, so book once your dates are fixed.
+
 ## Why go with a guide
 
 - **Your entry is guaranteed**, even when the official site says "sold out".
@@ -66,9 +73,30 @@ The Alhambra is Spain's most visited monument, and its tickets sell out weeks in
 
 [actividad: visita-guiada-alhambra-generalife]
 
+## Official prices and when to book
+
+Prices set by the Patronato (2026, booking fee included):
+
+| Ticket | Price | What it includes |
+| --- | --- | --- |
+| Alhambra General (daytime) | €22.27 | Nasrid Palaces, Alcazaba, Generalife and Palace of Charles V |
+| Gardens and Generalife | €12.73 | Everything except the Nasrid Palaces |
+| Nasrid Palaces at night | €12.73 | Only the Nasrid Palaces, lit up at night |
+| Dobla de Oro | €30.48 | The full Alhambra plus the Moorish monuments of the Albaicín |
+
+Almost everyone needs the **Alhambra General**. Children under 12 go free but **still need a named ticket**, issued in the same purchase; without it they can't get in. There are discounts for EU citizens over 65, Carnet Joven holders and visitors with disabilities. **There is no recurring free day**: the "free on Wednesdays" claim that circulates online is false.
+
+Tickets go on sale **90 days ahead**, with about 8,000 a day. Morning slots sell out weeks in advance, and at Easter, on Spanish long weekends, in July-August and at Christmas, within minutes. The only official site is `tickets.alhambra-patronato.es`. It's slow, but any other site charges a fee or resells. If everything is sold out, your real options are:
+
+1. **A guided visit with its own ticket allocation** (the ones in the table above).
+2. **The night visit** to the Nasrid Palaces, which usually has more availability.
+3. **Queuing at the ticket office before 8:00** for the day's small allocation, which in high season rarely stretches far enough.
+
+[actividad: alhambra-entrada-general]
+
 ## The golden rule: your Nasrid Palaces time
 
-The Nasrid Palaces have a fixed entry time with only **30 minutes of leeway**. Miss it and you don't get in. It takes **30 to 45 minutes** on foot from the main entrance to the palaces, so arrive early. On a guided visit, the guide plans the route so you don't miss your slot.
+The Nasrid Palaces have a fixed entry time with only **30 minutes of leeway**. Miss it and you don't get in, with no refund. It takes **30 to 45 minutes** on foot from the main entrance to the palaces, so arrive early. On a guided visit, the guide plans the route so you don't miss your slot.
 
 ## What to see inside
 
@@ -79,13 +107,14 @@ The Nasrid Palaces have a fixed entry time with only **30 minutes of leeway**. M
 
 A full visit takes **about 4 hours**.
 
-## Getting there
+## Getting there and opening hours
 
-- **C30 or C32 minibus** from Plaza Isabel la Católica, every few minutes.
+- **C30 or C32 minibus** from Plaza Isabel la Católica: €1.40, every 8 minutes.
 - **On foot** from Plaza Nueva up the Cuesta de Gomérez: a 25-30 minute climb.
-- **Taxi** from the centre.
-
-[actividad: alhambra-entrada-general]
+- **Taxi** from the centre: €8-10.
+- **Summer hours** (1 April to 14 October): 8:30 to 20:00, last entry to the Nasrid Palaces at 19:00. **Winter**: 8:30 to 18:00, last entry at 17:00. Closed on 25 December and 1 January.
+- **Night visit:** Tuesday to Saturday in summer (22:00-23:30), Friday and Saturday the rest of the year (20:00-21:30).
+- **Best time:** the first morning slot, with fewer people, or the last afternoon slot in summer, when the heat eases.
 
 ## Mistakes to avoid
 

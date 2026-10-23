@@ -10,7 +10,7 @@ slugs:
 
 duracion: "5 h 30 min"
 duracionMinutos: 330
-precioDesde: 49
+precioDesde: 59
 moneda: "EUR"
 idiomas:
 - es

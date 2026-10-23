@@ -8,7 +8,7 @@ slugs:
   en: madrid-wine-tapas-lunch-tour
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 95
+precioDesde: 80.55
 moneda: EUR
 idiomas:
 - en

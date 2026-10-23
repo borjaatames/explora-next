@@ -95,7 +95,8 @@ galeria:
     alt: "Es Vedra islet, Ibiza"
 atraccionesRelacionadas:
   - formentera
-publicada: true
+publicada: false
+reemplazadaPor: ibiza-formentera-return-ferry-ticket
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

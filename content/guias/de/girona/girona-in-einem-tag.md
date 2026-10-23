@@ -24,7 +24,7 @@ respuestaCorta: 'Ja, **Girona lässt sich an einem Tag sehen**: Mit dem AVE sind
 actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-juego-de-tronos-tour-grupo-reducido
-  - girona-costa-brava-pueblos-medievales
+  - girona-costa-brava-grupo-reducido-recogida-hotel
   - girona-figueres-dali-cadaques-desde-barcelona
   - tour-autoguiado-daremapp-girona
 ---

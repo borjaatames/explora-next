@@ -35,7 +35,7 @@ Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre 
 
 | Opción | Precio desde | Duración | Formato | Ideal para |
 |---|---|---|---|---|
-| [Medio día en grupo pequeño personalizado](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno) | 49 € | 5h 30min | Grupo pequeño, 4 variantes a elegir | Quien tiene medio día y quiere llegar antes que las multitudes |
+| [Medio día en grupo pequeño personalizado](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno) | 59 € | 5h 30min | Grupo pequeño, 4 variantes a elegir | Quien tiene medio día y quiere llegar antes que las multitudes |
 | [Cremallera, Virgen Negra y bodega (CastlExperience)](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience) | 47 € | 6-10 h | Flexible, en grupo | Quien quiere el día completo más económico |
 | [Masía del Bages con almuerzo y maridaje](/ciudades/barcelona/actividades/montserrat-masia-bages-almuerzo-vinos) | 109 € | 9 h | Premium, en grupo | Quien quiere sumarle una experiencia gastronómica de nivel |
 | [Sesión de fotos Montserrat Signature](/ciudades/barcelona/actividades/montserrat-sesion-fotos-signature) | 180 € | 1 h | Privado, fotográfico | Quien busca fotos profesionales, no una visita guiada |
@@ -43,8 +43,8 @@ Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre 
 
 ## Cómo elegir en 30 segundos
 
-- **Medio día y presupuesto ajustado:** grupo pequeño personalizado (49 €), con acceso temprano al monasterio antes de las multitudes.
-- **Día completo sin pagar de más:** el dato curioso es que la opción de día completo (47 €, 6-10 horas) cuesta prácticamente lo mismo que la de medio día — compensa si tienes tiempo de sobra.
+- **Solo tienes medio día:** grupo pequeño personalizado (59 €), con acceso temprano al monasterio antes de las multitudes.
+- **Presupuesto ajustado:** el dato curioso es que la opción de día completo (47 €, 6-10 horas) sale más barata que la de medio día — compensa si tienes tiempo de sobra.
 - **Quieres una experiencia gastronómica de nivel:** masía del Bages con maridaje (109 €), incluye almuerzo de 3 platos curado por sommelier.
 - **Buscas fotos profesionales, no una visita guiada:** sesión Signature (180 €), incluye 30 fotos digitales editadas.
 - **Quieres ir sin compartir grupo con nadie:** tour privado con recogida en hotel (838 € por grupo), vehículo y guía en exclusiva.

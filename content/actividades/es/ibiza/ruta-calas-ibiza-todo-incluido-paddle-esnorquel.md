@@ -8,7 +8,7 @@ slugs:
   en: ibiza-all-inclusive-beach-hopper-paddle-snorkel
 duracion: 5 horas
 duracionMinutos: 300
-precioDesde: 54
+precioDesde: 60
 moneda: EUR
 idiomas:
 - es

@@ -33,7 +33,7 @@ incluye:
 - Billete del teleférico del Teide
 noIncluye:
 - Comida y bebida
-- Permiso para subir al pico (3.718 m)
+- Permiso para subir al pico (3.715 m), que se reserva aparte en Tenerife ON
 puntoEncuentro:
   texto: Recogida en hoteles y puntos del norte y el sur de Tenerife.
   descripcionGuia: Eliges el punto de recogida al reservar.
@@ -65,7 +65,7 @@ accesibilidad: El teleférico no es apto para personas con discapacidad física 
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Se llega a la cima del Teide?
-  respuesta: El teleférico sube a 3.555 m; para el último tramo hasta 3.718 m hace falta un permiso del Parque Nacional que se pide aparte.
+  respuesta: 'El teleférico sube a 3.555 m; para el último tramo hasta la cima (3.715 m, aunque a menudo se citan 3.718 m) hace falta un permiso con franja horaria que se reserva aparte en la plataforma Tenerife ON del Cabildo: 15 € para visitantes de fuera de Canarias desde enero de 2026.'
 - pregunta: ¿Y si hace viento?
   respuesta: Si cierra el teleférico, la excursión sigue con una ruta alternativa y te devuelven el importe del teleférico.
 - pregunta: ¿Hace frío arriba?
@@ -106,7 +106,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-23'
 ---
 
 ## Qué vas a ver
@@ -118,7 +118,7 @@ fecha_actualizacion: '2026-10-07'
 
 ## Cómo funciona
 
-Te recogen en tu hotel y, con el guía, subís al parque nacional. En la base tomas el teleférico (8 minutos) y tienes tiempo libre arriba para recorrer los senderos de libre acceso antes de bajar y volver.
+Te recogen en tu hotel y, con el guía, subís al parque nacional. En la base tomas el teleférico (menos de 8 minutos) y tienes tiempo libre arriba para recorrer los senderos de libre acceso antes de bajar y volver.
 
 ## A quién se lo recomiendo
 

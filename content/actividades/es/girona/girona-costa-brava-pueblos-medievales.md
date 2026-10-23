@@ -72,7 +72,8 @@ ratingProveedor: 4.99
 numeroOpiniones: 228
 guiasRelacionadas:
   - "escapadas-costa-brava-desde-girona"
-publicada: true
+publicada: false
+reemplazadaPor: girona-costa-brava-grupo-reducido-recogida-hotel
 destacada: false
 fecha: "2026-05-21"
 bokunProductId: 936816

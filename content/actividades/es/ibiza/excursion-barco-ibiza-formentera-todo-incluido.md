@@ -95,7 +95,8 @@ galeria:
     alt: "Islote de Es Vedra, Ibiza"
 atraccionesRelacionadas:
   - formentera
-publicada: true
+publicada: false
+reemplazadaPor: ferry-ida-vuelta-ibiza-formentera
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

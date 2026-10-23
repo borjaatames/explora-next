@@ -39,11 +39,11 @@ Sevilla no tiene un único "show de flamenco" — tiene cinco venues distintos, 
 | [Casa de la Memoria](/ciudades/sevilla/actividades/casa-de-la-memoria-flamenco-show-intimo-sevilla) | 26 € | Patio andaluz, solo 2 filas | Máxima intimidad, artistas a un metro | Quien prioriza cercanía sobre comodidad de butaca |
 | [Museo del Baile Flamenco](/ciudades/sevilla/actividades/museo-baile-flamenco-puro-show-sevilla) | 32 € | Patio del s. XVIII | Coreografías de Cristina Hoyos, combinable con la visita al museo | Quien quiere contexto cultural además del show |
 | [Tablao El Arenal](/ciudades/sevilla/actividades/tablao-flamenco-el-arenal-sevilla-50-anos) | 48 € | Tablao tipo restaurante, mesas | 50 años de historia, ambiente relajado | Quien quiere cenar mientras ve el show |
-| [Teatro Flamenco Triana](/ciudades/sevilla/actividades/teatro-flamenco-triana-show-en-directo) | 35 € | Teatro, al otro lado del río | En el barrio históricamente gitano donde nació gran parte del flamenco | Quien quiere vivirlo en su barrio de origen |
+| [Teatro Flamenco Triana](/ciudades/sevilla/actividades/teatro-flamenco-triana-show-en-directo) | 25 € | Teatro, al otro lado del río | En el barrio históricamente gitano donde nació gran parte del flamenco | Quien quiere vivirlo en su barrio de origen |
 
 ## Cómo elegir en 30 segundos
 
-- **Presupuesto ajustado:** Casa de la Memoria (26 €) o Teatro Flamenco Sevilla (27 €) — los dos más baratos, y de los mejor valorados.
+- **Presupuesto ajustado:** Teatro Flamenco Triana (25 €), Casa de la Memoria (26 €) o Teatro Flamenco Sevilla (27 €) — los tres más baratos, y bien valorados.
 - **Máxima intimidad:** Casa de la Memoria, con solo dos filas de asientos alrededor del escenario.
 - **Quieres cenar durante la velada:** Tablao El Arenal, el único con opción de cena tradicional junto al show.
 - **Te interesa el contexto histórico del flamenco:** Museo del Baile Flamenco, con coreografías de Cristina Hoyos y patio del s. XVIII.

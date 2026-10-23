@@ -55,7 +55,7 @@ accesibilidad: Limited accessibility. The boat boarding requires stepping over a
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
 - pregunta: Are whale sightings guaranteed?
-  respuesta: No operator can guarantee wildlife sightings, but pilot whales are resident in the waters off Tenerife's west coast year-round (not migratory), making sighting rates very high — typically over 90% on individual trips. Dolphins are also seen on most trips.
+  respuesta: No operator can guarantee wildlife sightings, but pilot whales are resident in the waters off Tenerife's west coast year-round (not migratory), so sightings are very frequent. Dolphins are also seen on most trips.
 - pregunta: Which whales will I see?
   respuesta: The most common species is the short-finned pilot whale (resident year-round). Bottlenose dolphins and Atlantic spotted dolphins are also very frequently seen. Less common sightings include sperm whales and loggerhead turtles.
 opinionEditorial: "Los Gigantes combines two of Tenerife's greatest natural spectacles: the tallest sea cliffs in Spain and resident pilot whales just offshore. One of the best whale-watching sites in Europe."
@@ -93,7 +93,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: true
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-23'
 ---
 
 ## Tenerife's best whale watching

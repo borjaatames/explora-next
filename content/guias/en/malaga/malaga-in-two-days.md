@@ -41,7 +41,7 @@ actividades:
 | --- | --- | --- |
 | [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €18 |
 | [Picasso Museum ticket with audio guide](/en/cities/malaga/activities/picasso-museum-malaga-ticket) | 4.5★ (13,842) | €13 |
-| [Cathedral, Alcazaba and Theatre with tickets](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4.6★ (1,134) | €42 |
+| [Cathedral, Alcazaba and Theatre with tickets](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4.6★ (1,134) | €32.76 |
 | [Sunset catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |
 | [Hammam Al Ándalus Arab baths](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4.7★ (2,863) | €60 |
 | [Caminito del Rey guided tour from Málaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |

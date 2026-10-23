@@ -4,7 +4,7 @@ descripcion: 'Guide zur Wal- und Delfinbeobachtung auf Teneriffa: welche Arten h
 categoria: tenerife
 slug: walbeobachtung-teneriffa
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: "2026-10-23"
 autor: ExploraSpain Redaktion
 publicada: true
 destacada: false
@@ -35,10 +35,10 @@ faq:
 - pregunta: Sind Sichtungen garantiert?
   respuesta: Es gibt keine Garantie, aber Grindwale werden sehr häufig gesichtet, weil sie hier ansässig sind. Manche Anbieter bieten eine kostenlose Wiederholung an, wenn man Pech hat.
 - pregunta: Darf man mit Delfinen schwimmen?
-  respuesta: 'Nein: Das Schwimmen mit Walen und Delfinen ist gesetzlich verboten. Badestopps finden in Abstand zu den Tieren statt.'
+  respuesta: 'Nein: Die kanarische Verordnung (Dekret 178/2000) verbietet das Baden im Umkreis von 500 Metern um Wale und Delfine. Badestopps finden in Abstand zu den Tieren statt.'
 ---
 
-**Teneriffa ist einer der besten Orte Europas, um Wale und Delfine zu sehen**, und zwar das ganze Jahr. Zwischen der Südwestküste und La Gomera lebt eine feste Population von **Kurzflossen-Grindwalen** und **Großen Tümmlern**, in einem geschützten Meeresgebiet, das als *Whale Heritage Site* anerkannt ist. Entscheidend ist die Wahl des richtigen Bootes.
+**Teneriffa ist einer der besten Orte Europas, um Wale und Delfine zu sehen**, und zwar das ganze Jahr. Zwischen der Südwestküste und La Gomera lebt eine feste Population von **Kurzflossen-Grindwalen** und **Großen Tümmlern**, in einem geschützten Meeresgebiet, das als *Whale Heritage Site* anerkannt ist: Die World Cetacean Alliance hat das Gebiet Teneriffa-La Gomera im Januar 2021 ausgezeichnet, als erstes in Europa. Entscheidend ist die Wahl des richtigen Bootes.
 
 ## Welche Arten du siehst
 
@@ -52,8 +52,8 @@ Die Häfen von **Los Cristianos**, **Puerto Colón** (Costa Adeje) und **Los Gig
 
 ## So wählst du ein verantwortungsvolles Boot
 
-- Achte auf Anbieter mit der **Lizenz zur Walbeobachtung** der kanarischen Regierung (Abzeichen *Barco Azul*).
-- Meide Boote, die die Tiere **verfolgen** oder zu nah heranfahren: Das Gesetz schreibt Abstände vor.
+- Achte auf Anbieter mit der **Lizenz zur Walbeobachtung** der kanarischen Regierung: Zugelassene Boote müssen die **gelbe Flagge *Barco Azul*** führen, die das Dekret 178/2000 vorschreibt.
+- Meide Boote, die die Tiere **verfolgen** oder zu nah heranfahren. Das Gesetz schreibt vor: nicht näher als 60 Meter, höchstens 30 Minuten im Umkreis von 100 Metern, höchstens zwei Boote gleichzeitig im Umkreis von 100 Metern, im Umkreis von 500 Metern maximal 4 Knoten und kein Baden.
 - Bevorzuge **kleine oder umweltfreundliche Boote**, leiser und stabiler.
 - Misstraue Angeboten zum "Schwimmen mit Delfinen": Das ist **verboten**.
 

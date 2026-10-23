@@ -94,7 +94,8 @@ galeria:
   alt: "Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo"
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
   alt: "Velero privado en la costa de Barcelona"
-publicada: true
+publicada: false
+reemplazadaPor: crucero-grupo-reducido-barcelona-vela
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

@@ -20,7 +20,6 @@ slugs:
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
 actividades:
-  - excursion-barco-ibiza-formentera-todo-incluido
   - ferry-ida-vuelta-ibiza-formentera
 ---
 
@@ -30,12 +29,11 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Ibiza–Formentera 360°: all-inclusive boat trip](/en/cities/ibiza/activities/ibiza-formentera-all-inclusive-boat-trip) | — | €89.10 |
 | [Return ferry ticket to Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4.7★ (322) | €55 |
 
 The key: give it a **full day**, not half. And book the ferry (and the vehicle) ahead in summer: it sells out.
 
-[actividad: excursion-barco-ibiza-formentera-todo-incluido]
+[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Getting there
 
@@ -79,8 +77,6 @@ Formentera is about 19 km long and public transport is limited, so it's best to 
 2. **Not booking the ferry or vehicle in summer.** They sell out and prices soar.
 3. **Stepping on the posidonia or leaving litter.** The crystal-clear water depends on the protected meadows.
 4. **Forgetting cash and shade.** The wild beaches don't have everything.
-
-[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Common mistakes
 

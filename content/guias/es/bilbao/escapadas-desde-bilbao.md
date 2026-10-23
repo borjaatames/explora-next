@@ -22,7 +22,7 @@ slugs:
   en: day-trips-from-bilbao
   de: ausfluege-ab-bilbao
 reservasArriba: true
-respuestaCorta: 'La escapada estrella es **San Juan de Gaztelugatxe** (45 min): la entrada es gratis pero exige **reserva por franja horaria**, todo el año. Combínala con Bermeo, Mundaka y Gernika en una excursión desde 45 €. **San Sebastián** está a una hora y se hace bien en el día, por libre o con tour (desde 45 €).'
+respuestaCorta: 'La escapada estrella es **San Juan de Gaztelugatxe** (45 min): la entrada es gratis pero en temporada alta exige **reserva por franja horaria** (a diario del 15 de junio al 20 de septiembre, Semana Santa, puentes y muchos fines de semana). Combínala con Bermeo, Mundaka y Gernika en una excursión desde 45 €. **San Sebastián** está a una hora y se hace bien en el día, por libre o con tour (desde 45 €).'
 actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
   - san-sebastian-hondarribia-getaria-desde-bilbao
@@ -70,9 +70,9 @@ A una hora, los viñedos de la **Rioja Alavesa**: pueblos medievales amurallados
 
 ## Lo práctico: reservas, precios y tiempos
 
-- **Gaztelugatxe:** entrada gratuita pero con **reserva obligatoria** en la web de turismo de Bizkaia, por franja horaria, todo el año. En verano las plazas se agotan con una semana. Desde el aparcamiento de Eneperi hasta la ermita son 2,5 km y 40 minutos; los 241 escalones son solo el final. Cuenta 2 horas en total. Cierra con temporal.
+- **Gaztelugatxe:** entrada gratuita pero con **reserva obligatoria** por franja horaria en temporada alta: a diario del 15 de junio al 20 de septiembre, en Semana Santa, puentes y muchos fines de semana de primavera y otoño (calendario en tiketa.eus). El resto del año el acceso es libre. En verano las plazas se agotan con una semana. Desde el aparcamiento de Eneperi hasta la ermita son 2,5 km y 40 minutos; los 241 escalones son solo el final. Cuenta 2 horas en total. Cierra con temporal.
 - **San Sebastián sin coche:** autobús de Bizkaibus/PESA desde Termibus cada 30 minutos, 1 h 15, 7-12 € según la hora. Dentro, todo se hace andando; el funicular de Igueldo cuesta 4,50 € y el Peine del Viento es gratis.
-- **Urdaibai:** el tren de Euskotren desde Atxuri llega a Gernika (45 minutos), Mundaka y Bermeo (1 hora), con frecuencia cada media hora y billetes de 3-4 €. Es la mejor escapada sin coche. La Casa de Juntas de Gernika es gratuita; el mercado es los lunes.
+- **Urdaibai:** la línea E4 de Euskotren (sale del centro por la línea 3 de metro, desde Matiko) llega a Gernika (45 minutos), Mundaka y Bermeo (1 hora), con frecuencia cada media hora y billetes de 3-4 €. Es la mejor escapada sin coche. La Casa de Juntas de Gernika es gratuita; el mercado es los lunes.
 - **Rioja Alavesa:** sin coche no hay forma práctica; 1 hora por la A-68. Las bodegas (Marqués de Riscal, Ysios, Baigorri) se visitan solo con reserva, en horarios fijos, por 20-40 € con cata. Si vais a beber, excursión organizada o conductor.
 - **Playas de Urdaibai:** Laida y Laga son las mejores; en verano el aparcamiento de Laga se llena a las 11:00. Mundaka no tiene playa como tal, es un pueblo de surf.
 - **Tiempo:** la costa tiene 3-5 grados menos que Bilbao y niebla matinal frecuente. Para Gaztelugatxe, mira la previsión de viento: con rachas fuertes cierran el acceso.

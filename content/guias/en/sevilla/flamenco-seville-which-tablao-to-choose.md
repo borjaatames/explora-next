@@ -38,11 +38,11 @@ Seville doesn't have a single "flamenco show" — it has five distinct venues, e
 | [Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) | €26 | Andalusian courtyard, only 2 rows | Maximum intimacy, performers a meter away | Anyone who values closeness over seat comfort |
 | [Museo del Baile Flamenco](/en/cities/sevilla/activities/seville-puro-flamenco-show-dance-museum) | €32 | 18th-century courtyard | Choreography by Cristina Hoyos, combinable with the museum visit | Anyone who wants cultural context alongside the show |
 | [Tablao El Arenal](/en/cities/sevilla/activities/seville-flamenco-show-tablao-el-arenal-historic) | €48 | Restaurant-style tablao, tables | 50 years of history, relaxed atmosphere | Anyone who wants dinner while watching the show |
-| [Teatro Flamenco Triana](/en/cities/sevilla/activities/seville-flamenco-show-teatro-flamenco-triana) | €35 | Theater, across the river | In the historically Roma neighborhood where much of flamenco was born | Anyone who wants to experience it in its neighborhood of origin |
+| [Teatro Flamenco Triana](/en/cities/sevilla/activities/seville-flamenco-show-teatro-flamenco-triana) | €25 | Theater, across the river | In the historically Roma neighborhood where much of flamenco was born | Anyone who wants to experience it in its neighborhood of origin |
 
 ## How to choose in 30 seconds
 
-- **Tight budget:** Casa de la Memoria (€26) or Teatro Flamenco Sevilla (€27) — the two cheapest, and both highly rated.
+- **Tight budget:** Teatro Flamenco Triana (€25), Casa de la Memoria (€26) or Teatro Flamenco Sevilla (€27) — the three cheapest, and all well rated.
 - **Maximum intimacy:** Casa de la Memoria, with only two rows of seats around the stage.
 - **Want dinner with the show:** Tablao El Arenal, the only one with a traditional dinner option alongside the performance.
 - **Interested in flamenco's cultural background:** Museo del Baile Flamenco, with choreography by Cristina Hoyos and an 18th-century courtyard.

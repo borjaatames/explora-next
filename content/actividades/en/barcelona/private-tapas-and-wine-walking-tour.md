@@ -8,7 +8,7 @@ slugs:
   en: private-tapas-and-wine-walking-tour
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 350
+precioDesde: 298
 moneda: EUR
 idiomas:
 - es

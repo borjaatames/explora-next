@@ -9,7 +9,7 @@ slugs:
   en: madrid-gran-via-private-walking-tour
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 1080
+precioDesde: 159
 moneda: EUR
 idiomas:
 - es

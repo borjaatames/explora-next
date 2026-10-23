@@ -8,7 +8,7 @@ slugs:
   en: los-cristianos-kayak-snorkel-tour
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 25
+precioDesde: 20.9
 moneda: EUR
 idiomas:
 - en

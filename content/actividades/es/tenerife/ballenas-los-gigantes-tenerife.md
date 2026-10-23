@@ -55,7 +55,7 @@ accesibilidad: No accesible para sillas de ruedas. Se requiere subir y bajar del
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Qué probabilidad hay de ver ballenas?
-  respuesta: Muy alta. La zona de Los Gigantes es hábitat permanente del calderón tropical (cachalote pigmeo) y ruta de paso de otras especies como el rorcual tropical y la ballena piloto de aleta corta. Los operadores locales indican probabilidades superiores al 90%.
+  respuesta: Muy alta, aunque ningún operador puede garantizarla. Entre Tenerife y La Gomera viven todo el año calderones tropicales y delfines mulares, y con suerte se ven también rorcuales tropicales y, más raramente, cachalotes.
 - pregunta: ¿Se ven también delfines?
   respuesta: Sí. Los delfines moteados del Atlántico y el delfín común se avistan con frecuencia, especialmente en verano. Algunos tours también ven tortugas marinas.
 - pregunta: ¿La excursión es apta para niños pequeños?
@@ -95,7 +95,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: true
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-23'
 ---
 
 ## Qué vas a ver

@@ -4,7 +4,7 @@ descripcion: 'How to visit the Royal Alcázar of Seville: 2026 prices, opening h
 categoria: sevilla
 slug: alcazar-of-seville-how-to-visit
 fecha: '2026-04-29'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-23'
 autor: ExploraSpain editorial team
 publicada: true
 destacada: true
@@ -21,7 +21,7 @@ slugs:
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
 reservasArriba: true
-respuestaCorta: 'General admission is **€14.50** and the visit takes about 2.5-3 hours. In high season the ticket-office queue **tops 2 hours** and daily capacity sells out: buy a timed ticket online or go with a tour that includes it. Go in at 9:30 or after 17:00 to avoid the heat in the gardens.'
+respuestaCorta: 'General admission is **€15.50** and the visit takes about 2.5-3 hours. In high season the ticket-office queue **tops 2 hours** and daily capacity sells out: buy a timed ticket online or go with a tour that includes it. Go in at 9:30 or, in summer, after 17:00 to avoid the heat in the gardens.'
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-tour-guiado-skip-line
@@ -39,17 +39,35 @@ faq:
 tiempo_lectura: 3
 ---
 
-The Royal Alcázar is **the oldest royal palace still in use in Europe** and one of Spain's most visited monuments. In high season the ticket queue exceeds 2 hours: the easiest way to see it is with entry already included.
+The Royal Alcázar is **the oldest royal palace still in use in Europe** and one of Spain's most visited monuments. In high season the ticket queue exceeds 2 hours and daily capacity sells out: the easiest way to see it is with a timed ticket or a tour that includes entry.
 
 ## Which visit to choose
 
 | If you want… | We recommend | From |
 | --- | --- | --- |
+| Just a timed ticket, no queue | [Royal Alcázar timed entry](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4.6★ (36,909) | €20 |
 | The Alcázar with a guide, no queues | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €39 |
+| A guide in a group of 10 or fewer (English only) | [Alcázar premium small-group tour](/en/cities/sevilla/activities/seville-alcazar-small-group-guided-tour-premium), 4.9★ | €49.50 |
 | Seville's essentials in one morning | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (9,797) | €53 |
 | With free time in the gardens | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
 
 [actividad: real-alcazar-sevilla-entrada]
+
+**Check the cancellation terms before you book:** the 105-minute skip-the-line tour refunds 60% if you cancel 24 hours ahead, and the 3.5-hour tour and the small-group tour refund 50%. The Cathedral, Giralda and Alcázar priority tour gives a full refund up to 2 days before.
+
+## Prices and opening hours (as of 2026)
+
+- **General admission:** €15.50. Reduced €8 for over-65s, students aged 14–30 and European Youth Card holders; bring proof, it's checked at the door.
+- **Free, but you still need a ticket:** children up to 13 with an adult, people born or registered in Seville, and visitors with a disability over 33% plus one companion.
+- **Cuarto Real Alto (Upper Royal Rooms):** €5.50 extra. These are the rooms the Spanish royal family still uses. Visits are in small groups with timed slots, and they sell out before general tickets. The 105-minute guided tour includes them.
+- **Free Mondays:** from 18:00 to 19:00 (April–September) or 16:00 to 17:00 (October–March), online only and with limited places that go within minutes. Don't plan around it unless you've already got one.
+- **Hours:** 9:30–19:00 from April to September, 9:30–17:00 from October to March. The grounds start clearing at 19:45 in summer and 17:45 in winter, so don't arrive late in the day expecting a full visit. Closed 1 and 6 January, Good Friday and 25 December.
+- **Box office:** in the Patio de Banderas, from 9:00, card payment only.
+- **The official timed ticket is cheaper** than resellers (€20 and up), but it sells out first in spring and summer.
+
+## Getting there
+
+You enter through the **Puerta del León, on Plaza del Triunfo**, opposite the Cathedral. The nearest stops are Puerta de Jerez metro (L1) and the Archivo de Indias tram, both about 3 minutes' walk. There's no parking on site; the closest car parks are on Avenida de Roma and Paseo de Colón. Most guided tours meet on Plaza del Triunfo.
 
 ## What to see inside
 
@@ -59,15 +77,23 @@ The Royal Alcázar is **the oldest royal palace still in use in Europe** and one
 - **Hall of the Ambassadors:** the golden dome where Charles V married.
 - **Patio de las Muñecas:** look for the little faces hidden in the capitals.
 - **Baths of Doña María de Padilla:** Gothic cisterns reflected in the water.
-- **Gardens:** more than half the site, with the Grotto Gallery. They were the Water Gardens of Dorne in Game of Thrones.
+- **Gardens:** more than half the site, with the Grotto Gallery and the Mercury Pond. They were the Water Gardens of Dorne in Game of Thrones.
 
-A full visit takes **about 2.5-3 hours**. Allow at least 45 minutes for the gardens.
+A full visit takes **about 2.5–3 hours**. Allow at least 45 minutes for the gardens.
 
-## Tips
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
-1. **Book your ticket or tour in advance** in spring and summer.
-2. **Go first thing:** fewer people and less heat in the gardens.
-3. **The Alcázar isn't "Arab":** it's mostly Mudéjar, Christian art with Islamic style.
-4. **Don't skip the gardens:** they're half the visit.
+## Mistakes almost everyone makes
 
-Travelling with kids? See [Seville with kids](/en/guides/sevilla/seville-with-kids).
+1. **Turning up without a ticket in high season:** the queue tops 2 hours and capacity runs out. Buy online or book a tour.
+2. **Forgetting ID:** the ticket is in the buyer's name and staff check it. A ticket on your phone is fine, no need to print.
+3. **Going at midday in summer:** the gardens have little shade and July passes 40 °C. Go in at 9:30 or late afternoon.
+4. **Bringing a big backpack:** there's no left-luggage and bags over 30 litres aren't allowed in. Leave them at the hotel.
+5. **Thinking it's "Arab":** it's mostly Mudéjar, Christian art in Islamic style. Pedro I ordered his palace in 1364, over a century after the Christian conquest of Seville.
+6. **Skipping the gardens:** they're half the visit and what people remember most.
+
+## Guided tour or on your own?
+
+On your own works if you have a timed ticket and the official audio guide, which runs on your phone (link and QR code on the official website). A guide adds two things: no queue, and context. The Alcázar is a palace of layers, Almohad, Mudéjar, Gothic and Renaissance on top of each other, and without explanation they blur together. If you're doing only one guided visit in Seville, make it this one or the combined tour with the Cathedral, which faces it across Plaza del Triunfo.
+
+Travelling with kids? See [Seville with kids](/en/guides/sevilla/seville-with-kids). Short on time? See [Seville in 1 day](/en/guides/sevilla/seville-in-1-day).

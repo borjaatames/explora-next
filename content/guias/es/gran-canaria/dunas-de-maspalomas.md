@@ -4,7 +4,7 @@ descripcion: 'Guía de las Dunas de Maspalomas: cómo llegar, rutas permitidas, 
 categoria: gran-canaria
 slug: dunas-de-maspalomas
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
@@ -67,13 +67,13 @@ Solo puedes caminar por los **senderos señalizados** y por la orilla. Está pro
 
 ## Lo práctico: acceso, tiempos y normas
 
-- **Entrada gratuita y abierta todo el día.** No hay taquillas ni horario, solo la red de senderos marcados con postes. Cruzar de Playa del Inglés al faro por la orilla lleva 45-60 minutos; por el interior de las dunas, más.
-- **Cómo llegar sin coche:** la guagua 30 desde Las Palmas (estación de San Telmo) tarda 50 minutos y para en Playa del Inglés y el Faro; la 66 recorre toda la zona sur. En coche, aparca en los centros comerciales de Playa del Inglés (Yumbo, Kasbah, de pago) o en la zona del faro.
+- **Entrada gratuita y abierta todo el día.** No hay taquillas ni horario, solo la red de senderos marcados con postes. Cruzar de Playa del Inglés al faro por la orilla lleva al menos una hora por arena blanda; por el interior de las dunas, más. Mucha gente va andando en un sentido y vuelve en guagua o taxi.
+- **Cómo llegar sin coche:** la línea 30 de Global sale de Las Palmas (estación de Santa Catalina; algunas salidas, desde San Telmo) y para en Playa del Inglés y el Faro de Maspalomas, aproximadamente cada 20 minutos los días laborables de día y cada 30 minutos los fines de semana (2026). En coche, aparca en los centros comerciales de Playa del Inglés (Yumbo, Kasbah, de pago) o en la zona del faro.
 - **Camellos:** 18 € por persona, unos 30 minutos, con salidas continuas de 9:00 a 16:00. Reserva en temporada alta; en agosto hay cola.
-- **La arena quema:** a mediodía en verano supera los 50 °C en superficie. Cruza las dunas con calzado y descálzate solo en la orilla.
+- **La arena quema:** a mediodía en verano se calienta tanto que quema los pies descalzos. Cruza las dunas con calzado y descálzate solo en la orilla.
 - **Zonas de la playa:** el tramo central (los kioscos 6 y 7) es tradicionalmente nudista y de ambiente gay; cerca del faro y de Playa del Inglés, familiar. Todas con socorrista y bandera.
 - **La Charca** es espacio protegido: prohibido bañarse, pescar y pasear por la orilla interior. Se observa desde las pasarelas, mejor al amanecer, cuando hay garzas y limícolas.
-- **El faro de Maspalomas** (1890) tiene un pequeño centro de interpretación gratuito. Abre de martes a domingo por la mañana.
+- **El faro de Maspalomas** se encendió en 1890 y mide más de 50 metros; marca el inicio del paseo de Meloneras.
 
 ## El paseo en camello
 

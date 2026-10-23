@@ -60,7 +60,7 @@ informacionImportante:
   - Ver cetáceos es muy probable, pero no se puede garantizar
 accesibilidad: No accesible en silla de ruedas. Para embarcar hace falta algo de agilidad.
 politicaCancelacion: 'Con 72 horas o más de antelación se devuelve el 90 % (se retiene un 10 % de gastos de gestión). Con menos de 72 horas o si no te presentas, no hay reembolso. Si el operador cancela por mal tiempo o seguridad, se devuelve el 100 %.'
-opinionEditorial: 'Es la alternativa a los catamaranes de Los Cristianos y Costa Adeje, que salen con decenas de personas. Aquí el barco es solo para vosotros, se puede parar el tiempo que haga falta con los calderones y la salida es desde Las Galletas, un puerto mucho más tranquilo. Para dos personas sale caro; con 4 a 6 el precio por cabeza se acerca al de una excursión compartida de calidad. La opción de 3 horas merece la pena en verano, por el baño.'
+opinionEditorial: 'Es la alternativa a los catamaranes de Los Cristianos y Costa Adeje, que salen con decenas de personas. Aquí el barco es solo para vosotros, el ritmo lo marcáis vosotros (siempre dentro del límite legal de 30 minutos a menos de 100 metros de los calderones) y la salida es desde Las Galletas, un puerto mucho más tranquilo. Para dos personas sale caro; con 4 a 6 el precio por cabeza se acerca al de una excursión compartida de calidad. La opción de 3 horas merece la pena en verano, por el baño.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto cuesta?
   respuesta: 450 € por barco la salida de 2 horas y 550 € la de 3 horas. Es el precio total para el grupo, de 1 a 6 personas. Con 6 personas sale a 75 € por cabeza (2 h) o a unos 92 € (3 h).
@@ -107,7 +107,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-20'
-fecha_actualizacion: '2026-10-20'
+fecha_actualizacion: '2026-10-23'
 ---
 
 ## Qué vas a vivir

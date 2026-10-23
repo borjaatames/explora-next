@@ -8,7 +8,7 @@ slugs:
   en: malaga-essentials-cathedral-alcazaba-theatre
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 42
+precioDesde: 32.76
 moneda: EUR
 idiomas:
 - es

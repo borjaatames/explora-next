@@ -54,7 +54,7 @@ faq:
 | [Ballenas y delfines en yate ecológico desde Los Cristianos](/ciudades/tenerife/actividades/avistamiento-ballenas-delfines-yate-ecologico) | 4,7★ (19.490) | 30 € |
 | [Atardecer y estrellas en el Parque Nacional del Teide](/ciudades/tenerife/actividades/atardecer-estrellas-teide-telescopio) | 4,7★ (3.691) | 35 € |
 | [Barranco de Masca: senderismo y vuelta en barco](/ciudades/tenerife/actividades/barranco-masca-senderismo-barco) | 4,7★ (374) | 145 € |
-| [Kayak y esnórquel en Los Cristianos](/ciudades/tenerife/actividades/kayak-esnorquel-los-cristianos) | 4,7★ (12.364) | 25 € |
+| [Kayak y esnórquel en Los Cristianos](/ciudades/tenerife/actividades/kayak-esnorquel-los-cristianos) | 4,7★ (12.364) | 20,90 € |
 
 ## Cuántos días necesitas
 

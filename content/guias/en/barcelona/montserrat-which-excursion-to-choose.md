@@ -34,7 +34,7 @@ Montserrat can be visited from Barcelona five very different ways — this isn't
 
 | Option | Price from | Duration | Format | Best for |
 |---|---|---|---|---|
-| [Half-day small-group personalized tour](/en/cities/barcelona/activities/montserrat-half-day-small-group) | €49 | 5h 30min | Small group, 4 variants to choose from | Travelers with half a day who want to beat the crowds |
+| [Half-day small-group personalized tour](/en/cities/barcelona/activities/montserrat-half-day-small-group) | €59 | 5h 30min | Small group, 4 variants to choose from | Travelers with half a day who want to beat the crowds |
 | [Rack railway, Black Madonna and winery (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | €47 | 6-10 h | Flexible, group | Travelers who want the cheapest full-day option |
 | [Bages farmhouse with lunch and wine pairing](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | €109 | 9 h | Premium, group | Travelers who want a top-tier food experience added on |
 | [Montserrat Signature photoshoot](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | €180 | 1 h | Private, photography | Travelers after professional photos, not a guided visit |
@@ -42,8 +42,8 @@ Montserrat can be visited from Barcelona five very different ways — this isn't
 
 ## How to choose in 30 seconds
 
-- **Half a day, tight budget:** small-group personalized tour (€49), with early access before the crowds.
-- **Full day without paying more for it:** the interesting fact here is that the full-day option (€47, 6-10 hours) costs practically the same as the half-day one — worth it if you have time to spare.
+- **Only have half a day:** small-group personalized tour (€59), with early access before the crowds.
+- **Tight budget:** the interesting fact here is that the full-day option (€47, 6-10 hours) is actually cheaper than the half-day one — worth it if you have time to spare.
 - **Want a top-tier food experience:** Bages farmhouse with wine pairing (€109), includes a sommelier-curated 3-course lunch.
 - **After professional photos, not a guided visit:** Signature photoshoot (€180), includes 30 edited digital photos.
 - **Want to go without sharing a group with anyone:** private tour with hotel pickup (€838 per group), exclusive vehicle and guide.

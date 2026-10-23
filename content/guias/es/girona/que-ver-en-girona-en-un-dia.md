@@ -24,7 +24,7 @@ respuestaCorta: 'Sí, **Girona se ve en un día**: está a **38 minutos de Barce
 actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-juego-de-tronos-tour-grupo-reducido
-  - girona-costa-brava-pueblos-medievales
+  - girona-costa-brava-grupo-reducido-recogida-hotel
   - girona-figueres-dali-cadaques-desde-barcelona
   - tour-autoguiado-daremapp-girona
 ---
@@ -37,7 +37,7 @@ actividades:
 | --- | --- | --- |
 | Lo esencial con guía | [Tour a pie por el Barri Vell en grupo reducido](/ciudades/girona/actividades/girona-tour-a-pie-grupo-reducido), 4,8★ (826) | 35 € |
 | Para fans de la serie | [Tour de Juego de Tronos](/ciudades/girona/actividades/girona-juego-de-tronos-tour-grupo-reducido), 4,9★ (951) | 35 € |
-| Girona y Costa Brava | [Girona, Costa Brava y pueblos medievales](/ciudades/girona/actividades/girona-costa-brava-pueblos-medievales), 5,0★ (228) | 89 € |
+| Desde Barcelona con Costa Brava | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 99 € |
 | Desde Barcelona con Dalí | [Girona, Figueres, Dalí y Cadaqués](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |
 
 ## Cómo llegar y cuándo ir

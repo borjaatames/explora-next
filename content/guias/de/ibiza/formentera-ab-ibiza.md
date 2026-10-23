@@ -20,7 +20,6 @@ slugs:
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
 actividades:
-  - excursion-barco-ibiza-formentera-todo-incluido
   - ferry-ida-vuelta-ibiza-formentera
 ---
 
@@ -37,7 +36,7 @@ Der Schlüssel: Plane einen **ganzen Tag** ein, keinen halben. Und buche im Somm
 
 Du kommst im Hafen von **La Savina** an. Prüfe immer den Seegang: Bei starkem Wellengang verspäten sich die Fähren oder fallen aus.
 
-[actividad: excursion-barco-ibiza-formentera-todo-incluido]
+[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Fortbewegung
 
@@ -72,8 +71,6 @@ Formentera ist etwa 19 km lang und der öffentliche Nahverkehr ist eingeschränk
 2. **Im Sommer weder Fähre noch Fahrzeug im Voraus buchen.** Sie sind schnell ausgebucht und die Preise schießen in die Höhe.
 3. **Auf die Posidonia treten oder Müll hinterlassen.** Das kristallklare Wasser hängt von den geschützten Seegraswiesen ab.
 4. **Bargeld und Sonnenschutz vergessen.** An den unberührten Stränden gibt es nicht alles zu kaufen.
-
-[actividad: ferry-ida-vuelta-ibiza-formentera]
 
 ## Typische Fehler
 

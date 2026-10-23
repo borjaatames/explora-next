@@ -33,7 +33,7 @@ actividades:
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Entrada a PortAventura y Ferrari Land de 1, 2 o 3 días](/ciudades/tarragona/actividades/portaventura-ferrari-land-entrada) | 4,3★ (2.697) | 50 € |
+| [Entrada a PortAventura y Ferrari Land de 1, 2 o 3 días](/ciudades/tarragona/actividades/portaventura-ferrari-land-entrada) | 4,3★ (2.697) | 55 € |
 
 La regla de oro: **un día por parque**. Intentar verlo todo en una jornada es la receta para acabar reventado y sin montar en lo mejor.
 
