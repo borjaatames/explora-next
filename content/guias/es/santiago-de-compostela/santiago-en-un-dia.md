@@ -1,10 +1,11 @@
 ---
 titulo: "Santiago de Compostela en un día: catedral, casco viejo y Camino"
 descripcion: "Qué ver en Santiago en un día: Catedral, Obradoiro, casco histórico y Mercado de Abastos. Ruta a pie hora a hora por el fin del Camino, dónde comer y qué evitar."
+respuestaCorta: 'Sí, **Santiago se ve bien en un día**: empieza a las 9:30 en el Obradoiro y la Catedral (entrada gratis; el **Pórtico de la Gloria exige reserva**), sigue por las plazas y la Rúa do Franco, come en el **Mercado de Abastos**, donde te cocinan lo que compras por 4-6 €, y acaba al atardecer en la **Alameda**. El tour a pie con guía oficial sale desde 10 €.'
 categoria: "santiago-de-compostela"
 slug: "santiago-en-un-dia"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -66,7 +67,7 @@ actividades:
 | 14:00 | Pulpo |
 | 16:30 | San Martiño Pinario y la Alameda al atardecer |
 
-- **Obradoiro y Catedral.** Ante la fachada barroca acaban los peregrinos; la plaza la cierran el Pazo de Raxoi y el **Hostal dos Reis Católicos**, antiguo hospital de peregrinos y hoy parador. Dentro, el **Pórtico de la Gloria** del Maestro Mateo, joya del románico restaurada, y la tumba del Apóstol. El **botafumeiro** solo vuela en una docena de festividades: consulta el calendario.
+- **Obradoiro y Catedral.** Ante la fachada barroca acaban los peregrinos; la plaza la cierran el Pazo de Raxoi y el **Hostal dos Reis Católicos**, antiguo hospital de peregrinos y hoy parador. Dentro, el **Pórtico de la Gloria** del Maestro Mateo, joya del románico restaurada, y la tumba del Apóstol. El **botafumeiro** solo vuela en las grandes solemnidades o cuando lo encarga un grupo: consulta el calendario.
 - **Las plazas.** La **Quintana** (con la Porta Santa), **Praterías** (la fuente de los caballos) y la **Inmaculada**.
 - **El casco.** Las rúas do Franco y do Vilar, soportaladas y llenas de tabernas.
 - **Mercado de Abastos.** El segundo lugar más visitado tras la catedral: compras producto gallego y en la nave 5 te lo cocinan por 4-6 €.
@@ -76,9 +77,9 @@ actividades:
 
 | Lugar | Precio | Horario |
 | --- | --- | --- |
-| Catedral (templo y tumba) | Gratis | 9:00-19:00; Misa del Peregrino 12:00 y 19:30 |
-| Pórtico de la Gloria | Desde 12 €, visita guiada de 45 min, **reserva obligatoria** (se agota en verano) | |
-| Museo · Cubiertas | 7 € · ~15 € con guía (se suspenden con lluvia fuerte) | |
+| Catedral (templo y tumba) | Gratis | 7:00-21:00; Misa del Peregrino 12:00 y 19:30 (desde el 16 de octubre de 2026 y hasta nuevo aviso, en la iglesia de San Agustín, por obras) |
+| Pórtico de la Gloria | De pago, en grupos pequeños con hora fija, **reserva obligatoria** (se agota en verano) | |
+| Museo · Cubiertas | De pago; cubiertas con guía (se suspenden con lluvia fuerte) | Museo, 10:00-20:00 |
 | San Martiño Pinario | 4 €, iglesia y museo | Horario partido, todos los días |
 | Mercado de Abastos | Gratis | L-S 7:00-15:00; sábados, el día con más vida |
 | Museo de las Peregrinaciones | Gratis UE, 2,40 € resto | Cierra lunes |

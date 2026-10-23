@@ -1,10 +1,11 @@
 ---
 titulo: "Tarragona en un día: la Tarraco romana frente al mar"
 descripcion: "Qué ver en Tarragona en un día: anfiteatro, circo, catedral, murallas y el acueducto. Ruta hora a hora por la Tarraco romana, dónde comer y PortAventura al lado."
+respuestaCorta: 'Tarragona se ve a pie en un día: empieza a las 9:30 en el **anfiteatro**, sigue por el circo y la Torre del Pretori, la catedral y la Part Alta, las murallas y el Balcó del Mediterrani, y come marisco en el **Serrallo**. La **entrada conjunta de 15 €** cubre los recintos romanos, que **cierran los lunes**; desde Barcelona, el tren Regional tarda 1 h-1 h 15.'
 categoria: "tarragona"
 slug: "tarragona-en-un-dia"
 fecha: "2026-04-10"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -78,7 +79,7 @@ Desde Barcelona, **Regional en 1 h-1 h 15** (8-9 €) hasta la estación de Tarr
 
 | Lugar | Precio | Horario |
 | --- | --- | --- |
-| Monumentos romanos (anfiteatro, circo, Pretori, murallas, Casa Canals…) | Conjunta 15 €, sin caducidad; 5 € cada uno; gratis menores de 12 y último martes de mes | Ma-S 9:00-20:45 verano (19:00 invierno), domingos hasta 14:30. **Lunes cerrados** |
+| Monumentos romanos (anfiteatro, circo, Pretori, murallas, Casa Canals…) | Conjunta 15 €, sin caducidad; 5 € cada uno; gratis menores de 12 | Ma-S 9:00-20:45 verano (19:00 invierno), domingos hasta 14:30. **Lunes cerrados** |
 | Catedral | 13 € con audioguía, claustro y museo; campanario 5 € más, por turnos | Cierra domingos por la mañana |
 | Acueducto | Gratis, siempre abierto; bus 5 u 85 desde la Rambla, 15 min | Se cruza por encima sin barandillas: cuidado con niños y viento |
 | MNAT (museo arqueológico) | 4-5 €, gratis primer domingo de mes; sede provisional en el Tinglado 4 del puerto | Mosaicos de la Medusa y los peces |

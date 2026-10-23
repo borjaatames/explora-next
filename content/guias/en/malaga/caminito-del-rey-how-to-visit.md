@@ -1,10 +1,11 @@
 ---
 titulo: "Caminito del Rey: how to visit it (tickets, access and tips)"
 descripcion: "How to visit the Caminito del Rey from Málaga: how to get tickets, how to arrive by train or car, duration, difficulty and what to bring. Everything you need."
+respuestaCorta: '**Book the ticket weeks or months ahead**: it isn''t sold at the gate in season. The route is linear, about **7.7 km and 3-4 hours** including the shuttle bus between the two entrances; it''s physically easy but **under-8s aren''t allowed**. From Málaga, the train to El Chorro–Caminito del Rey takes 40-50 minutes; a guided tour with transport costs from €72.'
 categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -19,6 +20,7 @@ slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
+reservasArriba: true
 actividades:
   - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga

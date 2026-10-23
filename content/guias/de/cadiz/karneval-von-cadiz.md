@@ -4,7 +4,7 @@ descripcion: "Guide zum Karneval von Cádiz: wann er stattfindet, der Falla-Wett
 categoria: "cadiz"
 slug: "karneval-von-cadiz"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-04-29"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -29,7 +29,7 @@ Der Schlüssel: Es gibt **zwei Karnevale**, die man kennen sollte. Den **offizie
 
 ## Wann er stattfindet
 
-Der Karneval findet im **Februar oder Anfang März** statt (rund um Aschermittwoch) und dauert etwa zwei Wochen, mit **zwei großen Wochenenden**. Das erste ist meist das überfüllteste. Davor, im Januar/Februar, läuft der Wettbewerb im Theater.
+Der Karneval findet im **Februar oder Anfang März** statt und dauert etwa zwei Wochen, mit **zwei großen Wochenenden**. **2027 läuft er von Donnerstag, 4. Februar, bis Sonntag, 14. Februar**: Finale des Falla-Wettbewerbs am Freitag, 5. Februar; Pregón am Samstag, 6.; **Gran Cabalgata am Sonntag, 7.**; Lunes de Coros am Montag, 8. (lokaler Feiertag); Verbrennung der Bruja Piti und offizieller Abschluss am Sonntag, 14.; Carnaval Chiquito am Sonntag, 21. Februar (laut Tourismus-Website der Stadt, Stand Oktober 2026). Das erste ist meist das überfüllteste. Davor, im Januar/Februar, läuft der Wettbewerb im Theater.
 
 > **⚠️ Hinweis:** Unterkünfte sind **Monate im Voraus** ausgebucht und die Preise vervielfachen sich. Wenn du den Karneval erleben willst, buche, sobald du die Termine kennst; viele pendeln von Jerez oder El Puerto aus, weil es an Betten fehlt.
 

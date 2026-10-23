@@ -4,11 +4,11 @@ descripcion: 'Guía de los escenarios de Juego de Tronos en Girona: la escalinat
 categoria: girona
 slug: girona-juego-de-tronos
 fecha: '2026-05-05'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-23'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
-tiempo_lectura: 2
+tiempo_lectura: 4
 keywords:
 - girona juego de tronos
 - escenarios juego de tronos girona
@@ -27,7 +27,7 @@ actividades:
   - girona-tour-a-pie-grupo-reducido
 ---
 
-**Girona fue plató de la sexta temporada de Juego de Tronos.** Su casco antiguo hizo de Braavos y de Desembarco del Rey, y todos los escenarios están a cinco minutos unos de otros: la ruta se hace a pie en una mañana.
+**Girona fue plató de la sexta temporada de Juego de Tronos, rodada en 2015.** Su casco antiguo hizo de Braavos, de Desembarco del Rey y de Antigua, y todos los escenarios están a cinco minutos unos de otros: la ruta se hace a pie en una mañana y sin pagar nada.
 
 ## Tours de Juego de Tronos
 
@@ -41,21 +41,29 @@ El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio r
 
 [actividad: girona-juego-de-tronos-tour-grupo-reducido]
 
+## Qué tour elegir
+
+- **Eres fan y vais una o dos personas:** el tour en grupo reducido. Dos horas, máximo 10 personas, y el guía te enseña cada escena en el iPad sobre el terreno. Importa, porque muchos rincones se retocaron digitalmente para la serie y cuesta reconocerlos solo.
+- **Sois familia o grupo de cuatro o más:** el tour privado. Los 260 € son por grupo (hasta 8 personas), así que por cabeza sale parecido al de grupo reducido. Misma empresa y misma ruta, 2 h 30, a vuestro ritmo. Es nuevo y aún no tiene opiniones propias.
+- **Te interesa más Girona que la serie:** el tour a pie por el Barri Vell. Son 2 h 30 de historia (la muralla, la catedral, El Call, el puente de Eiffel) y pasa por varios escenarios de camino.
+
+Los tres salen de la Plaça de Sant Feliu, a 15 minutos andando de la estación, y van por fuera: las entradas a monumentos no están incluidas. Ninguno está adaptado para silla de ruedas.
+
 ## Los escenarios
 
-- **Escalinata de la Catedral:** el Gran Septo de Baelor de Desembarco del Rey.
+- **Escalinata de la Catedral:** el exterior del Gran Septo de Baelor de Desembarco del Rey. Por ella sube a caballo Jaime Lannister con el ejército Tyrell.
 - **El Call (barrio judío):** las callejas de Braavos por donde huye Arya.
-- **Pujada de Sant Domènec:** escaleras de las persecuciones de Arya.
-- **Sant Pere de Galligants:** el monasterio que hizo de Ciudadela de Antigua.
+- **Pujada de Sant Domènec:** las escaleras donde Arya, perseguida por la Niña Abandonada, cae sobre una caja de naranjas.
+- **Sant Pere de Galligants:** el monasterio que hizo de Ciudadela de Antigua, donde llegan Sam y Elí.
 - **Pont de Pedra y casas del Onyar:** escenas de Braavos.
 - **Passeig Arqueològic:** la muralla, fondo de varias secuencias.
 
 ## Qué debes saber antes de ir
 
-- **Los escenarios son calles abiertas:** no se paga nada por verlos, salvo si entras en la Catedral (entrada conjunta con Sant Feliu, unos 7,50 €) o en Sant Pere de Galligants, que es hoy el Museo de Arqueología de Cataluña (entrada de pocos euros).
+- **Los escenarios son calles abiertas:** no se paga nada por verlos, salvo si entras en la Catedral (entrada conjunta con Sant Feliu, 7,50 € en 2026, con audioguía), en los Baños Árabes (pocos euros) o en Sant Pere de Galligants, hoy Museo de Arqueología de Cataluña (también pocos euros).
 - **Toda la ruta a pie son 2 horas** con calma, en un radio de 500 metros. Las escaleras de la Pujada de Sant Domènec y la subida a la muralla son empinadas: con carrito o movilidad reducida, salta esas dos.
 - **La escalinata de la Catedral** (90 peldaños, el Gran Septo) se llena de grupos a partir de las 11:00. Para la foto sin gente, antes de las 9:30 o después de las 19:00.
-- **Girona no se rodó entera:** las escenas de Braavos mezclan Girona con Sibenik (Croacia). Si una localización no la encuentras, probablemente no está aquí.
+- **Girona no se rodó entera:** las escenas de Braavos mezclan Girona con Šibenik (Croacia). Si una localización no la encuentras, probablemente no está aquí.
 - **Si duermes en Barcelona,** el AVE te deja en 38 minutos y la estación está a 15 minutos andando del primer escenario. Se hace en una mañana y queda la tarde para la ciudad.
 
 [actividad: girona-juego-de-tronos-tour-privado]
@@ -65,11 +73,13 @@ El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio r
 | Orden | Parada |
 | --- | --- |
 | 1 | Pont de Pedra y casas del Onyar |
-| 2 | El Call |
+| 2 | El Call y Plaça dels Jurats |
 | 3 | Escalinata y Catedral |
 | 4 | Pujada de Sant Domènec |
-| 5 | Sant Pere de Galligants |
+| 5 | Baños Árabes y Sant Pere de Galligants |
 | 6 | Passeig Arqueològic (muralla) |
+
+Si empiezas a las 9:00, llegas a la escalinata antes que los grupos y terminas en la muralla a media mañana.
 
 ## Errores a evitar
 
@@ -80,4 +90,3 @@ El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio r
 5. **Quedarse solo en los escenarios:** la catedral por dentro, El Call y la muralla valen tanto como la serie.
 
 La ruta coincide casi entera con [qué ver en Girona en un día](/guias/girona/que-ver-en-girona-en-un-dia).
-

@@ -1,6 +1,7 @@
 ---
 titulo: 'Dunas de Maspalomas: cómo visitarlas, qué ver y qué no hacer'
 descripcion: 'Guía de las Dunas de Maspalomas: cómo llegar, rutas permitidas, la Charca y el faro, el paseo en camello, la mejor hora y las normas de la reserva natural.'
+respuestaCorta: 'Las dunas son **gratis y abiertas todo el día**, pero son Reserva Natural Especial: solo se camina por los **senderos señalizados** y por la orilla. Ve **al amanecer o en las dos últimas horas de la tarde**, lleva agua y entra por el mirador de Playa del Inglés o por el faro. El paseo en camello de 30 minutos cuesta desde 18 €.'
 categoria: gran-canaria
 slug: dunas-de-maspalomas
 fecha: '2026-10-07'
@@ -19,6 +20,7 @@ slugs:
   es: dunas-de-maspalomas
   en: maspalomas-dunes-guide
   de: duenen-von-maspalomas
+reservasArriba: true
 actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas

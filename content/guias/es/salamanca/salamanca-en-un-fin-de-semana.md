@@ -1,10 +1,11 @@
 ---
 titulo: "Salamanca en un fin de semana: guía honesta para vivirla"
 descripcion: "Plan de fin de semana en Salamanca con criterio: monumentos, las dos catedrales, Universidad, Casa Lis, dónde tapear y los mejores cocktail bars. Honesto."
+respuestaCorta: 'Dos días es la medida justa para Salamanca. Haz **los grandes monumentos el sábado** (Plaza Mayor, Clerecía, Universidad y las dos catedrales), Casa Lis por la tarde, el Puente Romano al atardecer y la **noche del sábado**; deja el domingo para la Casa Museo Unamuno, las Dueñas o **un solo pueblo**. El tour a pie con guía local sale desde 17 €.'
 categoria: "salamanca"
 slug: "salamanca-en-un-fin-de-semana"
 fecha: "2026-04-29"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -70,7 +71,6 @@ Si [Salamanca en un día](/guias/salamanca/salamanca-en-1-dia) es la lista, el f
 ## Lo que no recomendamos
 
 - **Comer en la Plaza Mayor:** café y caña sí; a comer, a Prior, Sánchez Barbero o Van Dyck.
-- **Los tours de «leyendas» por plazas vacías:** la ciudad iluminada en silencio es mejor.
 - **El hornazo de kiosco:** en panadería (Hornazo Charra o el Mercado Central).
 - **Los «menús degustación de tapas castellanas con sangría»:** aquí la sangría no la toma nadie.
 

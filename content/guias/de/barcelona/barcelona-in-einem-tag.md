@@ -4,7 +4,7 @@ descripcion: "So holst du das Meiste aus einem Tag in Barcelona ab Madrid mit de
 categoria: "barcelona"
 slug: "barcelona-in-einem-tag"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -42,7 +42,7 @@ Der AVE Madrid-Barcelona braucht **2 Std. 30 Min.** Wenn du um 6:30 Uhr abfährs
 
 Aber drei ehrliche Hinweise vorab. **Barcelona ist NICHT Sevilla**: Die Altstadt beherbergt nicht die großen Sehenswürdigkeiten. Die Sagrada Familia liegt im Eixample, der Park Güell in Gràcia/Carmel, Casa Batlló am Passeig de Gràcia, das Gotische Viertel in Ciutat Vella. **Du brauchst Metro oder Taxi zwischen den Punkten.** **Online-Reservierungen sind unerlässlich**: Sagrada Familia, Park Güell, Casa Batlló (falls du hineingehst). Ohne Reservierung bleibst du draußen oder verlierst 2 Stunden in der Schlange. Und **Verzicht ist die Regel**: An einem Tag passen Sagrada Familia, Casa Batlló, Casa Milà, Park Güell, Gotisches Viertel, Boquería, Born und Barceloneta nicht zusammen. **Vier gute Stopps sind mehr wert als acht mittelmäßige.**
 
-> **⚠️ Hinweis:** **2026 ist das Gaudí-Jahr**, das Zentenarium seines Todes. Der Turm Jesu (172,5 m, wird das höchste religiöse Gebäude Europas) befindet sich in der Schlussphase des Baus und soll dieses Jahr fertiggestellt werden. Es herrscht mehr Andrang als sonst. Reserviere mit sehr viel Vorlauf.
+> **⚠️ Hinweis:** **2026 ist das Gaudí-Jahr**, das Zentenarium seines Todes. Der Turm Jesu (172,5 m) wurde am 10. Juni 2026 eingeweiht und macht die Sagrada Familia zur höchsten Kirche der Welt. Es herrscht mehr Andrang als sonst. Reserviere mit sehr viel Vorlauf.
 
 ## Wie man den Tag mit dem AVE organisiert
 
@@ -54,7 +54,7 @@ Aber drei ehrliche Hinweise vorab. **Barcelona ist NICHT Sevilla**: Die Altstadt
 | Preis mit Vorlauf | 70-100 € Hin- und Rückfahrt bei 2-3 Wochen Vorlauf |
 | Preis kurzfristig | leicht 150-200 € |
 
-> **⚠️ Hinweis:** Der Bahnhof Sants liegt 3 km vom Zentrum und der Altstadt entfernt. Nimm die Metro (L3 grün oder L5 blau, Einzelticket 2,65 €) oder ein Taxi (10-12 €). Geh nicht mit großem Gepäck auf Sightseeing-Tour: Am Bahnhof selbst gibt es Gepäckaufbewahrung.
+> **⚠️ Hinweis:** Der Bahnhof Sants liegt 3 km vom Zentrum und der Altstadt entfernt. Nimm die Metro (L3 grün oder L5 blau, Einzelticket 2,90 €) oder ein Taxi (10-12 €). Geh nicht mit großem Gepäck auf Sightseeing-Tour: Am Bahnhof selbst gibt es Gepäckaufbewahrung.
 
 ### Der Tagesplan
 
@@ -100,9 +100,9 @@ Ohne Wenn und Aber. Und zuerst am Morgen.
 
 Du gehst von der Sagrada Familia hinunter zum Passeig de Gràcia (15 Minuten zu Fuß oder 1 Metrostation).
 
-Die Fassade von **Casa Batlló** ist spektakulär. Innen ebenfalls, aber der Eintritt kostet zwischen **29 €** (Silver) und **35 €** (Gold mit Skip-the-Line) und braucht weitere 1 Std. 30 Min. An einem Tag reicht der Blick von außen, dann weiter. Wenn du dir ein andermal Zeit lässt, geh hinein.
+Die Fassade von **Casa Batlló** ist spektakulär. Innen ebenfalls, aber der Eintritt kostet **ab 31 €** und braucht weitere 1 Std. 30 Min. An einem Tag reicht der Blick von außen, dann weiter. Wenn du dir ein andermal Zeit lässt, geh hinein.
 
-**Casa Milà (La Pedrera)**: in derselben Straße, 200 Meter weiter oben. Gleiches Prinzip: von außen wunderbar, drinnen **29 €**. Für den Kurztrip reicht die Außenansicht.
+**Casa Milà (La Pedrera)**: in derselben Straße, 200 Meter weiter oben. Gleiches Prinzip: von außen wunderbar, drinnen **ab 25 €**. Für den Kurztrip reicht die Außenansicht.
 
 Der **Passeig de Gràcia** ist die schönste Straße Barcelonas. Luxusgeschäfte, Modernisme in jedem Block. Schlendere hindurch, ohne einzukaufen.
 
@@ -110,7 +110,7 @@ Der **Passeig de Gràcia** ist die schönste Straße Barcelonas. Luxusgeschäfte
 
 Geh vom Passeig de Gràcia hinunter (15 Minuten) oder nimm die Metro bis Liceu oder Jaume I.
 
-Sehenswert: die **Kathedrale von Barcelona** (gotisch, nicht mit der Sagrada Familia zu verwechseln), allgemeine touristische Eintrittskarte **19 €**, die Chor, Dachterrasse, Kreuzgang und Audioguide umfasst. Ihr Kreuzgang beherbergt **13 Gänse**, die der Legende nach die Heilige Eulalia bewachen. Die **Plaça del Rei**, wahrscheinlich der schönste Platz des Gotischen Viertels — hier sollen der Legende nach die Katholischen Könige Christoph Kolumbus nach seiner ersten Reise empfangen haben. Und die **Plaça Sant Felip Neri**, ein Geheimtipp: ein kleiner Platz mit einer Kirche, die Granatsplitter aus dem Bürgerkrieg trägt. Fast niemand findet ihn. Wenn du ihn findest, ist es einer der bewegendsten Winkel des Gotischen Viertels.
+Sehenswert: die **Kathedrale von Barcelona** (gotisch, nicht mit der Sagrada Familia zu verwechseln), die kostenpflichtige touristische Eintrittskarte umfasst Chor, Dachterrasse, Kreuzgang und Audioguide (den aktuellen Preis prüfst du auf der offiziellen Website). Ihr Kreuzgang beherbergt **13 Gänse**, die der Legende nach die Heilige Eulalia bewachen. Die **Plaça del Rei**, wahrscheinlich der schönste Platz des Gotischen Viertels — hier sollen der Legende nach die Katholischen Könige Christoph Kolumbus nach seiner ersten Reise empfangen haben. Und die **Plaça Sant Felip Neri**, ein Geheimtipp: ein kleiner Platz mit einer Kirche, die Granatsplitter aus dem Bürgerkrieg trägt. Fast niemand findet ihn. Wenn du ihn findest, ist es einer der bewegendsten Winkel des Gotischen Viertels.
 
 Schlendere ziellos durch **Carrer del Bisbe, Carrer del Call** (das alte jüdische Viertel) und **Carrer de la Llibreteria**. Das Gotische Viertel entdeckt man im Gehen, nicht in geraden Linien.
 
@@ -118,7 +118,7 @@ Schlendere ziellos durch **Carrer del Bisbe, Carrer del Call** (das alte jüdisc
 
 Hier hebt sich dieser Guide vom Rest ab.
 
-> **⚠️ Hinweis:** Iss NICHT in der Boquería. Geh durch, fotografiere sie, schau dir die Produkte an — aber iss dort nicht. Es ist sehr teuer und touristisch inszeniert. Die Einheimischen essen dort nicht. Wenige Ausnahmen: El Quim de la Boquería und Bar Pinotxo, beide an der Theke im Markt, aber man muss sehr früh dort sein.
+> **⚠️ Hinweis:** Iss NICHT in der Boquería. Geh durch, fotografiere sie, schau dir die Produkte an — aber iss dort nicht. Es ist sehr teuer und touristisch inszeniert. Die Einheimischen essen dort nicht. Einzige Ausnahme: El Quim de la Boquería, an der Theke im Markt, aber man muss sehr früh dort sein. Die Bar Pinotxo ist 2023 in den Mercat de Sant Antoni umgezogen.
 
 Lauf nach **El Born** (15 Minuten zu Fuß vom Gotischen Viertel). Es ist ein Viertel direkt neben dem Gotischen Viertel, aber weniger touristisch. Drei Optionen je nach Vorliebe:
 
@@ -132,7 +132,7 @@ Lauf nach **El Born** (15 Minuten zu Fuß vom Gotischen Viertel). Es ist ein Vie
 
 ### 5. Park Güell (16:30 Uhr, 1 Std. 30 Min.)
 
-Metro von El Born oder dem Gotischen Viertel bis **Vallcarca (L3 grün)** und 15 Minuten bergauf zu Fuß (Rolltreppen in der Baixada de la Glòria). Oder Bus **24 ab Plaça Catalunya**, der fast am Eingang hält.
+Metro von El Born oder dem Gotischen Viertel bis **Lesseps (L3 grün)** und 15-20 Minuten bergauf zu Fuß. Oder die Busse **H6** bzw. **D40**, die die offizielle Website nennt, oder ein Taxi bis Carretera del Carmel 23.
 
 **Online-Ticket unerlässlich**: **18 €** allgemein. Ohne Reservierung kommst du nicht in die Zona Monumental.
 
@@ -156,7 +156,7 @@ Du läufst vom Park Güell etwa **20 Minuten bergauf** oder nimmst ein Taxi (5-7
 
 ## Was man beim Kurzbesuch auslassen kann
 
-**Casa Batlló von innen** (29-35 € + 1 Std. 30 Min.) und **Casa Milà von innen** (29 € + 1 Std.): von außen sind sie hervorragend, an einem Tag passen sie nicht rein. Heb sie dir für einen zweiten Besuch auf.
+**Casa Batlló von innen** (ab 31 € + 1 Std. 30 Min.) und **Casa Milà von innen** (ab 25 € + 1 Std.): von außen sind sie hervorragend, an einem Tag passen sie nicht rein. Heb sie dir für einen zweiten Besuch auf.
 
 **Die Boquería zum Essen**: verzichtbar. Als Kurzbesuch (10 Min.) durchaus, um Fotos zu machen und den Markt in Aktion zu sehen.
 
@@ -178,7 +178,7 @@ Die acht Fehler, die wir jede Woche beobachten. Vermeide sie, und die Reise ver�
 
 **3. In der Boquería oder auf Las Ramblas essen.** Touristenfalle. Lauf 10 Minuten nach El Born oder Poble Sec und iss 5-mal besser.
 
-**4. Annehmen, dass Barcelona wie Sevilla zu Fuß erkundbar ist.** Von der Sagrada Familia bis zum Gotischen Viertel sind es 30 Minuten zu Fuß. Nutze die Metro (T-casual mit 10 Fahrten für 12,55 €, reicht für den ganzen Tag und wird kaum aufgebraucht).
+**4. Annehmen, dass Barcelona wie Sevilla zu Fuß erkundbar ist.** Von der Sagrada Familia bis zum Gotischen Viertel sind es 30 Minuten zu Fuß. Nutze die Metro (T-casual mit 10 Fahrten für 13 € im Jahr 2026, reicht für den ganzen Tag und wird kaum aufgebraucht).
 
 **5. Die Búnkers del Carmel nicht besteigen.** Du nimmst nur die touristische Version Barcelonas mit. Es ist der Abschluss, der Wissende von Durchreisenden unterscheidet.
 

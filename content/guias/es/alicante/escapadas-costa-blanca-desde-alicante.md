@@ -1,10 +1,11 @@
 ---
 titulo: "Escapadas por la Costa Blanca desde Alicante: Benidorm, Altea, Guadalest"
 descripcion: "Las mejores escapadas desde Alicante: Benidorm, Altea, Calpe y el Peñón de Ifach, Guadalest, Jávea y Elche. Cómo llegar en TRAM o coche y qué ver en cada una."
+respuestaCorta: 'Las mejores escapadas desde Alicante son **Altea y Calpe** en TRAM (con transbordo en Benidorm), **Guadalest con las Fuentes del Algar** (una hora en coche, o excursión organizada desde 39 €), **el Palmeral de Elche** (20 minutos en Cercanías) y Benidorm. Haz una por día: Guadalest o Jávea ya ocupan la jornada completa.'
 categoria: "alicante"
 slug: "escapadas-costa-blanca-desde-alicante"
 fecha: "2026-04-17"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -48,15 +49,15 @@ Además de la **Isla de Tabarca** (que tiene su propia guía: [cómo visitarla](
 | Destino | Distancia | Ideal para |
 | --- | --- | --- |
 | Elche | 20 min | Palmeral Patrimonio de la Humanidad |
-| Altea | 50 min (TRAM) | Pueblo blanco con cúpulas azules |
-| Calpe | 1h (TRAM) | El Peñón de Ifach y playas |
+| Altea | 50 min (coche); TRAM con transbordo en Benidorm | Pueblo blanco con cúpulas azules |
+| Calpe | 1 h (coche); TRAM con transbordo en Benidorm | El Peñón de Ifach y playas |
 | Guadalest | 1h (coche) | Pueblo de montaña y embalse turquesa |
-| Benidorm | 45 min (TRAM) | Skyline, playas y parques temáticos |
+| Benidorm | 45 min (coche), 1 h 10 (TRAM) | Skyline, playas y parques temáticos |
 | Jávea (Xàbia) | 1h (coche) | Calas y casco marinero |
 
 ## Benidorm
 
-A 45 minutos en TRAM, el **skyline** más famoso del Mediterráneo, con playas enormes (Levante, Poniente) y parques temáticos: **Terra Mítica**, **Aqualandia**, **Mundomar**. Plan ideal con niños o para una jornada de playa con vida.
+A 1 h 10 en TRAM (45 minutos en coche), el **skyline** más famoso del Mediterráneo, con playas enormes (Levante, Poniente) y parques temáticos: **Terra Mítica**, **Aqualandia**, **Mundomar**. Plan ideal con niños o para una jornada de playa con vida.
 
 ## Altea y Calpe
 
@@ -76,12 +77,12 @@ A 20 minutos, **Elche** guarda el **Palmeral** Patrimonio de la Humanidad y el M
 - **Guadalest:** 1 hora en coche por la CV-70 desde Benidorm, con curvas. Aparcamientos de pago a la entrada del pueblo (3-5 €). El castillo y los museos abren de 10:00 a 18:00-20:00 según temporada; el pueblo en sí es pequeño, 2 horas sobran, así que combínalo con las **Fuentes del Algar** (a 15 minutos, 5-6 € la entrada, baño en pozas de agua fría).
 - **Peñón de Ifach:** subida de 1 h 30 por sendero con tramo final de roca; acceso con **reserva previa gratuita** en la web del parque natural, aforo limitado y cierre con lluvia. Lleva 1,5 litros de agua.
 - **Elche:** 20 minutos en Cercanías (línea C-1, cada 30 minutos). El Huerto del Cura cuesta 6 € y el Palmeral se pasea gratis; el Misteri se representa solo el 14 y 15 de agosto.
-- **Benidorm con niños:** Terra Mítica (desde 35 €), Aqualandia (desde 30 €) y Mundomar; comprados online con días de antelación, 10-20 % más baratos. Hay autobuses lanzadera desde el centro de Benidorm.
+- **Benidorm con niños:** Terra Mítica (desde 28 €), Aqualandia (desde 30 €) y Mundomar; comprados online con días de antelación, 10-20 % más baratos. Hay autobuses lanzadera desde el centro de Benidorm.
 - **Jávea:** sin transporte público práctico desde Alicante; coche, 1 hora por la AP-7. En agosto las calas (Granadella, Portitxol) cierran el acceso en coche cuando se llena el aparcamiento, a media mañana.
 
 ## Cómo moverte
 
-El **TRAM línea 1** une Alicante con la costa norte (El Campello, Villajoyosa, Benidorm, Altea, Calpe): cómodo y panorámico. Para **Guadalest** y los pueblos de interior, el **coche** da más libertad. **Elche** está a un paso en cercanías.
+El **TRAM línea 1** une Alicante con la costa norte (El Campello, Villajoyosa, Benidorm): cómodo y panorámico. Para Altea y Calpe se cambia en Benidorm a la línea 9. Para **Guadalest** y los pueblos de interior, el **coche** da más libertad. **Elche** está a un paso en cercanías.
 
 ## Lo que NO recomendamos
 

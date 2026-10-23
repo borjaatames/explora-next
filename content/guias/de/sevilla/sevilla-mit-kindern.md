@@ -4,7 +4,7 @@ descripcion: "Was man in Sevilla mit Kindern verschiedener Altersgruppen unterni
 categoria: "sevilla"
 slug: "sevilla-mit-kindern"
 fecha: "2026-05-01"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -96,7 +96,7 @@ Was es für alle Altersgruppen attraktiv macht:
 ⭐ Das Monument, das mit Kindern in Sevilla mit Abstand am besten funktioniert. Nicht die Kathedrale. Nicht Las Setas. Der Alcázar.
 
 - **Adresse**: Patio de Banderas, s/n. Stadtteil Santa Cruz.
-- **Preis**: rund **20 €** regulär (Preis 2026, auf alcazarsevilla.org prüfen) / ermäßigt 12 € für Rentner und Studierende 14-30 Jahre / **kostenlos für unter 16-Jährige in Begleitung eines Erwachsenen**.
+- **Preis**: **15,50 €** regulär (Preis 2026, alcazarsevilla.org) / ermäßigt 8 € ab 65 und für Studierende von 14 bis 30 Jahren / **kostenlos für unter 13-Jährige in Begleitung eines Erwachsenen** (mit Ticket).
 - **Öffnungszeiten**: April-September 9:30-19:00 Uhr / Oktober-März 9:30-17:00 Uhr. Geschlossen 1. und 6. Januar, Karfreitag und 25. Dezember.
 - **Kostenloser Eintritt**: montags von 18:00 bis 19:00 Uhr (April-September) und von 16:00 bis 17:00 Uhr (Oktober-März). Mit Kindern empfehle ich das nicht: lange Schlange, begrenzte Plätze, und man kommt gerade rein, wenn schon geschlossen wird.
 

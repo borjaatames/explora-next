@@ -1,10 +1,11 @@
 ---
 titulo: "Málaga en dos días: ruta con criterio entre museos y mar"
 descripcion: "Qué ver en Málaga en dos días: Alcazaba, Catedral, Museo Picasso, Caminito del Rey y playas. Ruta hora a hora, dónde comer, dónde dormir y qué evitar."
+respuestaCorta: 'Dedica el **primer día al casco histórico**: Alcazaba y Gibralfaro (5,50 € la entrada conjunta), las cubiertas de la Catedral, el Museo Picasso y un espeto al atardecer en la Malagueta. El **segundo, al Caminito del Rey**, que **se agota con semanas de antelación**, o a Nerja, Ronda o Antequera. El tour guiado al Caminito desde Málaga sale desde 72 €.'
 categoria: "malaga"
 slug: "malaga-en-dos-dias"
 fecha: "2026-02-28"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

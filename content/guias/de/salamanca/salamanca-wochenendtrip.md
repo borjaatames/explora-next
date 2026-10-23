@@ -4,7 +4,7 @@ descripcion: "Wochenendplan für Salamanca mit Plan: Sehenswürdigkeiten, beide 
 categoria: "salamanca"
 slug: "salamanca-wochenendtrip"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -152,8 +152,6 @@ Tag 2 ist dazu da, das zu entdecken, was der Tagesbesucher verpasst. Zwei Option
 ## Was wir NICHT empfehlen
 
 **Auf der Plaza Mayor essen.** Wir sagen es in jedem Salamanca-Guide, aber es ist wichtig: Der Platz ist für Kaffee und ein Bier gedacht, nicht für ein richtiges Essen. Gehen Sie 5 Minuten zur Calle del Prior, Calle Sánchez Barbero oder Calle Van Dyck und Sie essen 5-mal besser.
-
-**Nächtliche "Legenden von Salamanca"-Touren.** Touren durch leere Plätze mit Geschichten über die Teufelshöhle, den Lazarillo de Tormes und ähnliche Folklore. Die meisten sind schwach. Wenn Sie sich für die Geschichten interessieren, kaufen Sie besser ein Buch oder spazieren Sie auf eigene Faust — die beleuchtete, leere Stadt ist **in der Stille viel beeindruckender** als mit einem Guide, der Ihnen Geschichten verkauft.
 
 **Hornazo an Touristenkiosken kaufen.** Teuer und mittelmäßig. Kaufen Sie in Bäckereien im Viertel (Hornazo Charra ist der Klassiker, auch im Mercado Central erhältlich) oder in den Eroski-/Carrefour-Supermärkten im Zentrum.
 

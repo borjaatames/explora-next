@@ -47,7 +47,8 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - Cierra los lunes
-  - Los miércoles y jueves por la tarde (últimas 3 horas) la entrada es gratuita para ciudadanos de la UE, con cola
+  - 'Entrada gratuita los miércoles y domingos de 15:00 a 18:00 (octubre-marzo) o de 15:00 a 19:00 (abril-septiembre) para ciudadanos de la UE, residentes con permiso de trabajo e iberoamericanos, con acreditación; esas entradas solo se sacan en taquilla'
+  - 'La taquilla y el acceso cierran 1 h 15 min antes: a las 16:45 en invierno y a las 17:45 en verano'
   - El recorrido oficial es de un solo sentido y dura unas 2 horas
 accesibilidad: Accesible en su mayor parte; el Panteón de Reyes tiene escaleras.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.

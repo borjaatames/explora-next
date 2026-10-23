@@ -1,10 +1,11 @@
 ---
 titulo: "Carnaval de Cádiz: guía para vivirlo (cuándo, dónde y cómo)"
 descripcion: "Guía del Carnaval de Cádiz: cuándo es, el concurso del Falla, chirigotas y comparsas, el carnaval de la calle, dónde alojarte y consejos para disfrutarlo."
+respuestaCorta: 'El Carnaval de Cádiz 2027 es del **jueves 4 al domingo 14 de febrero**, con la **final del concurso del Falla el viernes 5**. El carnaval de la calle, con agrupaciones cantando coplas por La Viña y el Pópulo, es **gratis**. Lo que se agota es el alojamiento: **reserva con meses de antelación** o duerme en Jerez, El Puerto o San Fernando y llega en tren.'
 categoria: "cadiz"
 slug: "carnaval-de-cadiz"
 fecha: "2026-04-29"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -29,7 +30,7 @@ La clave: hay **dos carnavales** que conviene entender. El **oficial** (el concu
 
 ## Cuándo es
 
-El Carnaval se celebra en **febrero o principios de marzo** (en torno al Miércoles de Ceniza) y dura unas dos semanas, con **dos fines de semana** grandes. El primero suele ser el más multitudinario. Antes, en enero-febrero, transcurre el concurso en el teatro.
+El Carnaval se celebra en **febrero o principios de marzo** y dura unas dos semanas; en **2027 es del jueves 4 al domingo 14 de febrero**, con la **final del concurso del Falla el viernes 5**. Tiene **dos fines de semana** grandes. El primero suele ser el más multitudinario. Antes, en enero-febrero, transcurre el concurso en el teatro.
 
 > **⚠️ Aviso:** el alojamiento se agota con **meses de antelación** y los precios se multiplican. Si quieres vivir el Carnaval, reserva en cuanto sepas las fechas; muchos van y vienen desde Jerez o El Puerto por la falta de camas.
 
@@ -57,7 +58,7 @@ Es el alma de la fiesta: grupos espontáneos ("ilegales") cantando coplas por el
 
 ## Lo práctico: fechas, transporte y qué esperar
 
-- **Fechas:** el Carnaval cambia cada año porque depende de la Semana Santa; empieza siempre 10 días antes del Miércoles de Ceniza y termina el domingo siguiente. En 2027 arranca a mediados de febrero. Las fechas oficiales se publican con un año de antelación en la web del Ayuntamiento.
+- **Fechas 2027:** el Carnaval cambia cada año porque depende de la Semana Santa. Según la web de turismo del Ayuntamiento (octubre de 2026): empieza el **jueves 4 de febrero**; **final del COAC en el Falla, viernes 5**; pregón, sábado 6, en la plaza de San Antonio; **Gran Cabalgata, domingo 7**; Lunes de Coros, lunes 8 (festivo local); quema de la Bruja Piti y cierre oficial, domingo 14; y el Carnaval Chiquito (o «de los Jartibles»), domingo 21. El programa detallado sale más cerca de la fecha.
 - **Lo que hay que ver sí o sí:** el **Carrusel de Coros** del primer domingo por la mañana (las carrozas por la Plaza de las Flores y el mercado) y la **Cabalgata** de ese mismo domingo por la tarde. Las agrupaciones del Falla cantan después por las calles, gratis, los días de entre semana.
 - **Llegar:** en tren de Cercanías desde Jerez (45 minutos), El Puerto (35) y San Fernando (15), con servicios reforzados y nocturnos los fines de semana grandes. En coche, olvídalo: cierran los accesos al casco y se aparca extramuros, en los aparcamientos de Puerta de Tierra o la Zona Franca.
 - **Comer:** en La Viña, tortillitas de camarones y pescaíto en las freidurías, de pie y en cucurucho (8-12 € por persona). Los bares venden cerveza para la calle; no hace falta entrar.

@@ -4,7 +4,7 @@ descripcion: "Bilbao mit Kindern: die Standseilbahn Artxanda, Guggenheim-Skulptu
 categoria: "bilbao"
 slug: "bilbao-mit-kindern"
 fecha: "2026-04-15"
-fecha_actualizacion: "2026-04-15"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -28,7 +28,7 @@ actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
 ---
 
-**Bilbao ist eine sehr kinderfreundliche Stadt.** Sie ist kompakt, flach entlang der Ría, mit einer sehr einfachen Metro und Straßenbahn, Parks, einer Standseilbahn mit Aussicht und Stränden, die ohne Auto in 20 Minuten erreichbar sind. Dieser Guide versammelt die Pläne, die in der Familie wirklich funktionieren, und verbindet Stadt und Küste ohne Stress.
+**Bilbao ist eine sehr kinderfreundliche Stadt.** Sie ist kompakt, flach entlang der Ría, mit einer sehr einfachen Metro und Straßenbahn, Parks, einer Standseilbahn mit Aussicht und Stränden, die ohne Auto in etwa 40 Minuten mit der Metro erreichbar sind. Dieser Guide versammelt die Pläne, die in der Familie wirklich funktionieren, und verbindet Stadt und Küste ohne Stress.
 
 Der Schlüssel liegt im Wechsel: ein Vormittag an der Ría mit Skulpturen, ein Nachmittag im Park oder am Strand. Und die Tatsache nutzen, dass die öffentlichen Verkehrsmittel alles in Reichweite bringen.
 

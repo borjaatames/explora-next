@@ -4,7 +4,7 @@ descripcion: "Qué ver en Córdoba en un día: Mezquita-Catedral, Judería, Alc�
 categoria: "cordoba"
 slug: "cordoba-en-un-dia"
 fecha: "2026-03-20"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -82,11 +82,11 @@ En **AVE**: desde Madrid 1 h 45, desde Sevilla 45 minutos, desde Málaga 1 hora;
 
 | Lugar | Precio | Horario |
 | --- | --- | --- |
-| Mezquita-Catedral | 15 € (8 € de 10 a 14 años, gratis menores de 10); torre 3 €. **Gratis L-S 8:30-9:30**, individuales por orden de llegada | L-S 10:00-19:00; domingos 8:30-11:30 y 15:00-19:00 |
+| Mezquita-Catedral | 15 € (8 € de 10 a 14 años, gratis menores de 10); torre 4 €. **Gratis L-S 8:30-9:30**, individuales por orden de llegada | L-S 10:00-19:00; domingos 8:30-11:30 y 15:00-19:00 |
 | Alcázar | 5 €, gratis menores de 14; noches de verano con luces ~10 € | Ma-D desde 8:15; cierra lunes y tardes de domingo |
 | Sinagoga | Gratis UE, 0,30 € resto | Cierra lunes |
 | Torre de la Calahorra | 4,50 €, mejor vista de la Mezquita desde la azotea | 10:00-18:00 (19:00 verano) |
-| Palacio de Viana | 12 € casa y patios, 7 € solo patios | Ma-S 10:00-19:00, domingos mañana |
+| Palacio de Viana | 8,50 € solo patios, 14 € combinada (patios e interior) | Cierra lunes; sep-dic Ma-S 10:00-19:00 y D 10:00-15:00; jul-ago 9:00-15:00 |
 | Medina Azahara | Gratis UE (1,50 € resto); bus turístico 9 € i/v desde Glorieta Cruz Roja a las 10:15 y 11:00; lanzadera 2,50 € en coche | Cierra lunes; 2 h 30 de visita |
 | Baños Califales | 3 €, gratis UE jueves tarde; 30 minutos junto al Alcázar | |
 

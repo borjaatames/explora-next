@@ -59,7 +59,7 @@ preguntasFrecuentes:
   respuesta: Rent a car, scooter or bike in La Savina, or take the bus.
 - pregunta: Which beach first?
   respuesta: Ses Illetes, about 10 minutes from La Savina.
-opinionEditorial: 'If you''d rather see Formentera at your own pace, this is all you need: the fast ferry with flexible times and an open return. Same price as the ticket office, without the high-season queue.'
+opinionEditorial: 'If you''d rather see Formentera at your own pace, this is all you need: the fast ferry with flexible times and an open return. You redeem the voucher at the terminal ticket office before boarding.'
 guiasRelacionadas:
 - formentera-from-ibiza
 categoria: transporte

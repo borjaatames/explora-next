@@ -1,10 +1,11 @@
 ---
 titulo: "Bilbao in one day: Guggenheim, Old Town and pintxos"
 descripcion: "What to see in Bilbao in one day: Guggenheim Museum, Old Town, La Ribera Market and Artxanda. An hour-by-hour walking route, where to eat pintxos and Gaztelugatxe nearby."
+respuestaCorta: 'Start at 9:30 at the **Guggenheim** (allow 2h-2h 30min), walk along the Nervión and over the Zubizuri bridge, then cross to the **Old Town and its Seven Streets**. Eat pintxos around the **Plaza Nueva** from 2 PM, look in at La Ribera Market and end with the **Artxanda funicular** at sunset. A guided Guggenheim visit with ticket (in Spanish) costs from €49.'
 categoria: "bilbao"
 slug: "bilbao-in-one-day"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

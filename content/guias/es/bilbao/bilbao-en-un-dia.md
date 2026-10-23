@@ -1,10 +1,11 @@
 ---
 titulo: "Bilbao en un día: Guggenheim, Casco Viejo y pintxos"
 descripcion: "Qué ver en Bilbao en un día: Museo Guggenheim, Casco Viejo, Mercado de la Ribera y Artxanda. Ruta a pie hora a hora, dónde comer pintxos y Gaztelugatxe al lado."
+respuestaCorta: 'Bilbao se ve en un día a pie siguiendo la ría: el **Guggenheim** a primera hora (entrada online con franja; cierra los lunes salvo en julio y agosto), el Casco Viejo y las **Siete Calles**, **pintxos en la Plaza Nueva** a la hora de comer, el Mercado de la Ribera y el **funicular de Artxanda** al atardecer. Si tienes más tiempo, Gaztelugatxe está a media hora.'
 categoria: "bilbao"
 slug: "bilbao-en-un-dia"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -73,7 +74,7 @@ El **aeropuerto de Loiu** está a 12 minutos en bus. En tren, cuenta con más ti
 | Lugar | Precio | Horario |
 | --- | --- | --- |
 | Guggenheim | 18 € con audioguía, gratis menores de 18; online con franja (cola en taquilla) | Ma-D 10:00-19:00 (20:00 verano); **cierra lunes** salvo julio y agosto |
-| Funicular de Artxanda | 2,50 € trayecto, cada 15 min | 7:15-22:00 (23:00 verano) |
+| Funicular de Artxanda | Más barato con Barik; cada 15 min | 7:15-22:00 (23:00 verano) |
 | Mercado de la Ribera | Gratis; gastroteca J-S hasta las 23:00 y domingos | L-S 8:00-14:30 |
 | Azkuna Zentroa | Gratis | |
 | Catedral de Santiago | 6 € con audioguía y claustro | |

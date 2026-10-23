@@ -1,10 +1,11 @@
 ---
 titulo: "Sagrada Familia: cómo visitarla bien (entradas y errores)"
 descripcion: "Cómo visitar la Sagrada Familia: precios oficiales 2026, qué torre subir, Hora del Silencio, Año Gaudí, código de vestimenta y errores típicos."
+respuestaCorta: 'Compra solo en **sagradafamilia.org** y con **4-6 semanas de antelación** (8-10 en julio y agosto): no hay taquilla. La **entrada básica con audioguía cuesta 26 €** y basta para una primera visita; con torre, 36 €. Reserva la **franja de las 9:00**, la Hora del Silencio, y calcula entre 1 h 30 y 2 horas dentro.'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -42,7 +43,7 @@ faq:
 
 La Sagrada Família recibe 4,5 millones de visitantes al año y la mayoría sale con la sensación de haber visto algo importante sin entenderlo. Pocos edificios recompensan tanto ir preparado: las vidrieras orientadas a propósito, las columnas copiadas de los árboles y las decisiones que Gaudí dejó escritas. Aquí, qué entrada comprar, si subir a las torres, cómo funciona la Hora del Silencio y los errores de cada semana.
 
-**2026 es Año Gaudí:** el 10 de junio se cumplen cien años de su muerte y la basílica culmina la **Torre de Jesús**, de 172,5 metros, el edificio religioso más alto de Europa; la cruz se colocó en febrero y la inauguración está prevista para junio. Hay más afluencia que nunca: reserva con más antelación y espera colas densas en verano. Los remates definitivos (la fachada de la Gloria) seguirán hasta 2035.
+**2026 es Año Gaudí:** el 10 de junio se cumplen cien años de su muerte y ese mismo día se inauguró la **Torre de Jesús**, de 172,5 metros, que convierte la Sagrada Família en la iglesia más alta del mundo; la cruz se colocó en febrero. Hay más afluencia que nunca: reserva con más antelación y espera colas densas en verano. Los remates definitivos (la fachada de la Gloria) seguirán hasta 2035.
 
 ## Entradas y precios oficiales
 
@@ -61,7 +62,7 @@ Para una primera visita, la básica con audioguía basta. Jubilados 21 €, estu
 
 ## ¿Subir a las torres?
 
-Son dos y la entrada da acceso a una: la del **Nacimiento** mira al mar y a la fachada original de Gaudí; la de la **Pasión**, al Eixample, más austera. Se sube en ascensor y se baja por una escalera de caracol estrecha: nada para vértigo, claustrofobia, sillas de ruedas ni menores de 6. Desde arriba no ves las torres enteras, y los Búnkers del Carmel o el Tibidabo dan vistas comparables gratis. Lo que justifica la Sagrada Família son las vidrieras desde dentro, y eso lo da la básica: si hay que elegir, los 10 € van mejor al Park Güell.
+La entrada da acceso a una sola torre y no la eliges tú: el monumento la asigna según el día y las obras. La del **Nacimiento** mira al mar y a la fachada original de Gaudí; la de la **Pasión**, al Eixample, más austera. Se sube en ascensor y se baja por una escalera de caracol estrecha: nada para vértigo, claustrofobia, sillas de ruedas ni menores de 6. Desde arriba no ves las torres enteras, y los Búnkers del Carmel o el Tibidabo dan vistas comparables gratis. Lo que justifica la Sagrada Família son las vidrieras desde dentro, y eso lo da la básica: si hay que elegir, los 10 € van mejor al Park Güell.
 
 [actividad: sagrada-familia-tour-con-torre]
 

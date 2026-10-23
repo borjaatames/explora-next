@@ -1,10 +1,11 @@
 ---
 titulo: "Sevilla en 1 día desde Madrid: la escapada exprés con criterio"
 descripcion: "Cómo aprovechar al máximo un día en Sevilla desde Madrid en AVE: Alcázar, Catedral, Plaza de España, Triana al atardecer. Lo que sí, lo que se puede saltar y errores típicos."
+respuestaCorta: 'Un día en Sevilla desde Madrid funciona si coges el **primer AVE (hacia las 7:00)** y haces los cuatro imprescindibles: el **Alcázar a las 10:00** con entrada online, la Catedral y la Giralda, la Plaza de España por la tarde y **Triana al atardecer**, con vuelta en el AVE de las 21:30. Tren de ida y vuelta desde 55-60 €; Alcázar con acceso prioritario desde 20 €.'
 categoria: "sevilla"
 slug: "sevilla-en-1-dia"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -56,7 +57,7 @@ Un día en Sevilla desde Madrid en AVE es **perfectamente factible**: 2 h 30 de 
 
 ## Los cuatro imprescindibles
 
-**1. Real Alcázar (10:00-12:00).** El palacio en uso más antiguo de Europa y el monumento estrella. **Entrada online imprescindible** (unos 20 €, alcazarsevilla.org); sin ella, 30-45 minutos de cola o quedarte fuera, porque en temporada alta se agota. Patio de las Doncellas, Salón de Embajadores y **los jardines**, que la mitad de la gente se salta. Sáltate el Cuarto Real Alto: 25 minutos y 6 € más que no compensan hoy. Más en [cómo visitar el Alcázar](/guias/sevilla/alcazar-de-sevilla-como-visitar).
+**1. Real Alcázar (10:00-12:00).** El palacio en uso más antiguo de Europa y el monumento estrella. **Entrada online imprescindible** (15,50 € la general en alcazarsevilla.org); sin ella, 30-45 minutos de cola o quedarte fuera, porque en temporada alta se agota. Patio de las Doncellas, Salón de Embajadores y **los jardines**, que la mitad de la gente se salta. Sáltate el Cuarto Real Alto: 25 minutos y 6 € más que no compensan hoy. Más en [cómo visitar el Alcázar](/guias/sevilla/alcazar-de-sevilla-como-visitar).
 
 **2. Catedral y Giralda (12:30-14:00).** La catedral gótica más grande del mundo, la tumba de Colón, el Patio de los Naranjos de la antigua mezquita y la subida a la Giralda **por rampa** (era para subir a caballo). Entrada conjunta con la iglesia del Salvador, 20 € online o 21 € en taquilla; gratis para menores de 13. Compra online: la cola de mediodía llega a media hora.
 

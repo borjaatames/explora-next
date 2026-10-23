@@ -4,7 +4,7 @@ descripcion: "Ratgeber zum Essen in Valencia: was die authentische valencianisch
 categoria: "valencia"
 slug: "paella-in-valencia"
 fecha: "2026-03-16"
-fecha_actualizacion: "2026-03-16"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -63,8 +63,6 @@ Die originale **valencianische Paella** enthält **Hähnchen, Kaninchen, Garrof�
 2. **Valencianische Paella ≠ Meeresfrüchte-Paella.** Bestellen Sie sie dort, wo man den Unterschied kennt.
 3. **Die beste Paella gibt es in der Albufera/El Palmar.** Im Zentrum zahlen Sie mehr für weniger.
 4. **Reservieren und früh hingehen.** Ein guter Reis braucht 30-40 Minuten und ist schnell ausverkauft.
-
-[actividad: albufera-atardecer-paseo-en-barca]
 
 ## Was wir NICHT empfehlen
 

@@ -4,7 +4,7 @@ descripcion: 'Cómo visitar el Real Alcázar de Sevilla: precios 2026, horarios,
 categoria: sevilla
 slug: alcazar-de-sevilla-como-visitar
 fecha: '2026-04-29'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true
@@ -54,7 +54,7 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 ## Precios y horarios
 
 - **Entrada general:** 15,50 € (2026). Reducida 8 € (mayores de 65, estudiantes de 14 a 30 años y Carné Joven). Gratis para menores de 13 años, personas con discapacidad y nacidos o residentes en Sevilla.
-- **Cuarto Real Alto:** 6 € más. Son las estancias que sigue usando la Familia Real; se visita en grupos pequeños con turno de 30 minutos y se agota antes que la entrada general.
+- **Cuarto Real Alto:** 5,50 € más. Son las estancias que sigue usando la Familia Real; se visita en grupos pequeños con turno de 30 minutos y se agota antes que la entrada general.
 - **Gratis para todos:** los lunes, de 18:00 a 19:00 de abril a septiembre y de 16:00 a 17:00 de octubre a marzo. Solo online, con aforo limitado, y las plazas vuelan en minutos. No cuentes con ello salvo que lo tengas reservado.
 - **Horario:** de 9:30 a 19:00 de abril a septiembre; de 9:30 a 17:00 de octubre a marzo. Última entrada una hora antes del cierre. Cierra el 1 y el 6 de enero, Viernes Santo y 25 de diciembre.
 - **Cómo llegar:** se entra por la Puerta del León, en la Plaza del Triunfo, frente a la Catedral. Metro Puerta de Jerez (L1) o tranvía Archivo de Indias, ambos a 3 minutos a pie. No hay aparcamiento en el recinto; los más cercanos son los de la Avenida de Roma y Paseo de Colón.

@@ -88,7 +88,7 @@ politicaCancelacion: 'FREE cancellation up to 24 hours before the start time —
   availability. Communicate dietary allergies with 48h+ notice.'
 preguntasFrecuentes:
 - pregunta: Why is Tablao El Arenal the most expensive of the 5 majors?
-  respuesta: 'The price (from €48 vs. €26-35 of the other 4 majors) reflects THREE factors: (1) **50 years of history** and
+  respuesta: 'The price (from €48 vs. €25-32 of the other 4 majors) reflects THREE factors: (1) **50 years of history** and
     accumulated prestige — one of Seville''s oldest and most recognized tablaos, with consolidated reputation in the professional
     circuit. (2) **17th-century historic building** restored — architectural heritage of Barrio El Arenal, careful atmosphere.
     (3) **Dinner option available** — it''s the ONLY one of Seville''s 5 major flamenco venues with real dinner option (tapas
@@ -103,7 +103,7 @@ preguntasFrecuentes:
     de la Memoria:** 15th-c. patio + 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum
     intimacy. **Museo del Baile Flamenco:** 18th-c. Ecija patio + Cristina Hoyos, 6,456 reviews 4.8/5, from €32. RECOMMENDED
     if you value iconic artistic quality. **Teatro Flamenco Triana:** Theater in gypsy cradle neighborhood, 4,363 reviews
-    4.7/5, from €35. RECOMMENDED if you want gypsy neighborhood atmosphere.'
+    4.7/5, from €25. RECOMMENDED if you want gypsy neighborhood atmosphere.'
 - pregunta: Is the dinner option worth it?
   respuesta: 'Depends on your appetite and evening plan. **Typical options** (verify when booking): show + drink only (€48)
     · tapas + show (~€60-65) · à la carte menu + show (~€80-90). **ADVANTAGES of dining at El Arenal:** (1) Convenience —
@@ -140,8 +140,8 @@ opinionEditorial: 'The **flamenco tablao with most history and prestige in Sevil
   quality, dinner option available.
 
 
-  **Price comparison:** from €48 it''s **the most expensive** of Seville''s 5 major flamenco venues (vs. Casa de la Memoria
-  €26, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32, Teatro Flamenco Triana €35). The €13-22 premium over other
+  **Price comparison:** from €48 it''s **the most expensive** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco Triana
+  €25, Casa de la Memoria €26, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32). The €16-23 premium over other
   options buys: (1) 50 years of tradition + professional reputation, (2) 17th-c. restored historic building, (3) **REAL dinner
   option** — the only one of the 5 majors with full dinner option (tapas or à la carte menu).
 

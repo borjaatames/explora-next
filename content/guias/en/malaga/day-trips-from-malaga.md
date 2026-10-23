@@ -4,7 +4,8 @@ descripcion: "The best day trips from Málaga: Ronda, Nerja and Frigiliana, Ante
 categoria: "malaga"
 slug: "day-trips-from-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: "2026-10-23"
+respuestaCorta: 'The best day trips from Málaga are **Nerja and Frigiliana** (an hour by bus, caves from €16), **Antequera and El Torcal** (45 minutes), **Ronda** (about 2 hours by bus) and **Gibraltar** (bring a passport or EU ID). Do one per day: Ronda and Gibraltar each need a full day, and organised trips start at €35.'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -59,6 +60,10 @@ Besides the **Caminito del Rey** (which deserves its own guide: [how to visit it
 
 An hour along the coast, **Nerja** has the **Balcón de Europa** (a viewpoint over the Mediterranean) and the spectacular **Nerja Caves**, with giant formations. Ten minutes away, **Frigiliana**, one of the prettiest white villages in Spain, of steep streets and flowers. A perfect day combining cave, beach and village.
 
+Book the caves for the first slot (10:00), have lunch in Frigiliana and finish at the Balcón de Europa. Going by car or bus, buy the timed cave ticket on its own; the organised trip bundles everything.
+
+[actividad: nerja-caves-entry-ticket]
+
 ## Antequera and El Torcal
 
 Forty-five minutes away, **Antequera** holds the prehistoric **dolmens** (a UNESCO site) and, above, **El Torcal de Antequera**, a karst landscape of impossibly shaped rocks, ideal for an easy walk. Add the Peña de los Enamorados in the background.
@@ -75,9 +80,18 @@ Forty minutes away, **Mijas** is a white village with viewpoints over the sea; *
 
 An hour and a quarter away, the **Rock of Gibraltar** (British territory) offers the climb up the Rock, the famous **monkeys** (macaques), caves and views of Africa. Bring your passport/ID: you cross a border.
 
+## Practical: transport, tickets and paperwork
+
+- **Buses from Málaga bus station (next to María Zambrano):** to Nerja, 1 hour and €5–6, every 30–60 minutes; to Marbella, 45 minutes and €8–9; to Antequera, 1 hour and €6; to Ronda, 2 hours and €12–14 (as of 2026). For Mijas Pueblo, take Cercanías C-1 to Fuengirola and then bus M-122. Frigiliana has an hourly local bus from Nerja.
+- **Ronda by train:** there's no direct train, and in 2026 Renfe has been running replacement buses on the Antequera–Ronda section while the line is repaired. Check Renfe for your date; the direct bus is usually simpler.
+- **Nerja Caves:** from €16 per adult with audio guide, free for under-6s, with timed slots that sell out at Easter and in August. The visit takes 45 minutes and it's 19 °C inside: bring a light jacket.
+- **Antequera Dolmens:** free entry, closed on Mondays. **El Torcal:** free, but on weekend and holiday mornings car access to the top is restricted once the upper car park fills, and you ride a shuttle bus from the lower car park (€2 return). The green trail takes 45 minutes; the yellow, about 2 hours.
+- **Gibraltar:** EU citizens can cross with a national ID card; everyone else needs a passport. Leave the car in La Línea (car parks €10–20 a day) and walk across: queues by car at the border can take an hour. Gibraltar uses pounds; euros are accepted at a poor rate, so pay by card. The cable car and the Upper Rock nature reserve are paid separately, about £20 each.
+- **Mijas:** skip the donkey taxis; they're a tourist gimmick with no animal-welfare guarantees. The village takes about an hour on foot.
+
 ## Getting around
 
-For **Nerja, Marbella or Antequera** there are comfortable direct buses; for **Ronda**, a scenic train or a car; for the inland **white villages** and El Torcal, a **car** gives much more freedom. Book the Nerja Caves ahead in season.
+For **Nerja, Marbella, Antequera or Ronda** there are comfortable direct buses; for the inland **white villages** and El Torcal, a **car** gives much more freedom.
 
 ## What we don't recommend
 
@@ -90,7 +104,7 @@ For **Nerja, Marbella or Antequera** there are comfortable direct buses; for **R
 
 > **⚠️ Warning:** the slip-ups we see most.
 
-1. **Underestimating the road to Ronda.** An hour and three quarters each way; leave early.
+1. **Underestimating the road to Ronda.** An hour and three quarters each way by car, about two by bus; leave early.
 2. **Doing Gibraltar in a rush.** Between the border, the Rock and the monkeys, count the day.
 3. **Seeing Nerja without Frigiliana.** They're 10 minutes apart and better together.
 

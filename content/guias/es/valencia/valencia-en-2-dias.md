@@ -1,10 +1,11 @@
 ---
 titulo: "Valencia en dos días: ruta con criterio sin perder lo importante"
 descripcion: "Qué ver en Valencia en 2 días: casco histórico, Ciudad de las Artes, Albufera y paella. Ruta hora a hora, dónde comer, dónde dormir y qué evitar."
+respuestaCorta: 'Dedica **el día 1 al casco histórico** (Mercado Central, Lonja de la Seda, Catedral y Miguelete, el Carmen) y la tarde a la **Ciudad de las Artes y las Ciencias**; **el día 2, a la Albufera**, con paseo en barca y paella de verdad en El Palmar a mediodía, y después la Malvarrosa. El Oceanogràfic, desde 37 €: resérvalo online en temporada alta.'
 categoria: "valencia"
 slug: "valencia-en-2-dias"
 fecha: "2026-02-22"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -76,7 +77,7 @@ Por la tarde, baja por el **Jardín del Turia** hasta la **Ciudad de las Artes y
 | 16:30 | Playa de la Malvarrosa, horchata con fartons |
 | 19:00 | Última tarde por el centro (plaza Redonda, Mercado de Colón) |
 
-A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natural de la Albufera**: un gran lago entre arrozales y barracas. El **paseo en barca** (6-8 €, 40 minutos, sin reserva salvo al atardecer) es de los planes más bonitos cerca de la ciudad. Come en **El Palmar** una paella valenciana de verdad: pollo, conejo, garrofó y judía verde, ni marisco ni chorizo, y siempre a mediodía. Vuelve a la **Malvarrosa**, arena ancha y restaurantes de arroces frente al mar.
+A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natural de la Albufera**: un gran lago entre arrozales y barracas. El **paseo en barca** (unos 40 minutos, sin reserva salvo al atardecer) es de los planes más bonitos cerca de la ciudad. Come en **El Palmar** una paella valenciana de verdad: pollo, conejo, garrofó y judía verde, ni marisco ni chorizo, y siempre a mediodía. Vuelve a la **Malvarrosa**, arena ancha y restaurantes de arroces frente al mar.
 
 ## Precios y horarios
 
@@ -88,7 +89,7 @@ A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natu
 | Torres de Serranos y de Quart | 2 € cada una, gratis domingos | Serranos tiene la mejor vista del Turia |
 | Oceanogràfic | ~40 € (30 € niños); Museu y Hemisfèric 9 € cada uno; los tres ~50 € | Reserva online en temporada alta |
 | Bioparc | 27-28 €; metro Nou d'Octubre | Desde las 10:00 |
-| Albufera | Bus 1,50 €; barca 6-8 € | |
+| Albufera | Bus 1,50 €; barca, precio en el embarcadero | |
 | Transporte | Billete 1,50 €; SUMA 10 viajes 8 € + 1 € de tarjeta; Valenbisi semanal 13,30 € | |
 
 Detalle en [cómo visitar la Ciudad de las Artes](/guias/valencia/ciudad-artes-ciencias-como-visitar).

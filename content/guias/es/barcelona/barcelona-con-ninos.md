@@ -1,10 +1,11 @@
 ---
 titulo: "Barcelona con niños: planes, monumentos y trampas a evitar"
 descripcion: "Barcelona con niños sin agobios: CosmoCaixa, Tibidabo, Sagrada Familia adaptada, qué edades funcionan, dónde dormir y comida con peques."
+respuestaCorta: 'Con niños, planea **como mucho dos cosas grandes al día** y monta el viaje alrededor de **CosmoCaixa** (8 €, gratis menores de 16) y **Tibidabo** (35 € para mayores de 120 cm; 14 € de 90 a 120 cm), más el Acuario y la playa. Deja la Sagrada Família para mayores de 7, muévete en metro y aléjate de las Ramblas.'
 categoria: "barcelona"
 slug: "barcelona-con-ninos"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -72,7 +73,7 @@ Eixample (comunicado y seguro), Born (peatonal y junto a la Ciutadella, con habi
 
 ## Transporte
 
-Menores de 4 gratis; la T-casual de 10 viajes (12,15 €) vale para todos desde el primer día. De la Sagrada Família al Park Güell son 45 minutos de cuesta: metro o taxi. El metro tiene ascensor en casi todas las estaciones, pero no en Liceu ni Jaume I: con carrito, mira el plano de accesibilidad.
+Menores de 4 gratis; la T-casual de 10 viajes (13 € en 2026) vale para todos desde el primer día. De la Sagrada Família al Park Güell son 45 minutos de cuesta: metro o taxi. El metro tiene ascensor en casi todas las estaciones, pero no en Liceu ni Jaume I: con carrito, mira el plano de accesibilidad.
 
 ## Errores típicos de los padres
 

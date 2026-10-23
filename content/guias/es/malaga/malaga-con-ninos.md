@@ -1,10 +1,11 @@
 ---
 titulo: "Málaga con niños: playa, castillos y planes en familia"
 descripcion: "Guía de Málaga con niños: playas, Alcazaba, Bioparc Fuengirola, teleférico de Benalmádena y museos interactivos. Planes por edades, dónde comer y qué evitar."
+respuestaCorta: 'Con niños, Málaga funciona alternando dosis cortas de historia con playa y animales: la **playa de la Malagueta**, a pie del centro, la **Alcazaba** (gratis para menores de 16), el **Bioparc Fuengirola** (45 minutos en Cercanías; 23 € de 3 a 9 años) y el **teleférico de Benalmádena**. Lo ideal es primavera u otoño; en verano, evita el centro de 14:00 a 18:00.'
 categoria: "malaga"
 slug: "malaga-con-ninos"
 fecha: "2026-04-01"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -64,8 +65,8 @@ La clave es alternar: una mañana de castillo o casco histórico en dosis cortas
 ## Lo práctico: precios, transporte y horarios
 
 - **Alcazaba y Gibralfaro:** entrada conjunta 5,50 € (3,50 € cada uno por separado), gratis menores de 16 y **gratis para todos los domingos a partir de las 14:00**. Al castillo de Gibralfaro sube el **autobús 35** desde la Alameda (cada 45 minutos); bajar andando por el paseo de Don Juan Temboury son 20 minutos agradables con vistas.
-- **Bioparc Fuengirola:** 27-29 € adultos y 20-22 € niños de 3 a 9 años online (más caro en taquilla); menores de 3, gratis. Cercanías C-1 desde María Zambrano o Centro-Alameda hasta Fuengirola (45 minutos, 3,60 €) y 10 minutos andando. Abre a las 10:00; en verano cierra de noche, con horario especial.
-- **Teleférico de Benalmádena:** unos 18 € ida y vuelta por adulto y 13 € por niño; Cercanías hasta Arroyo de la Miel y 10 minutos andando. Las exhibiciones de rapaces son a horas fijas (consúltalas al comprar).
+- **Bioparc Fuengirola:** 29,50 € adultos y 23 € niños de 3 a 9 años (2026); menores de 3, gratis. Cercanías C-1 desde María Zambrano o Centro-Alameda hasta Fuengirola (45 minutos, 3,60 €) y 10 minutos andando. Abre a las 10:00 todo el año; en julio y agosto cierra a las 23:00, así que la visita de tarde-noche evita el calor.
+- **Teleférico de Benalmádena:** ida y vuelta desde 12,90 € adultos y 9,90 € niños online, 4-5 € más en taquilla; Cercanías hasta Arroyo de la Miel y 10 minutos andando. Las exhibiciones de rapaces son a horas fijas (consúltalas al comprar).
 - **Playas:** La Malagueta tiene socorrista, duchas, zona infantil y chiringuitos; el agua está a 18 °C en mayo y a 24 °C en agosto. Pedregalejo es más tranquila y con menos oleaje para los peques.
 - **Moverse:** el centro es peatonal y llano, bien para carritos. Los autobuses de la EMT cuestan 1,40 € y los niños menores de 4 no pagan. Hay un Cercanías al aeropuerto en 12 minutos.
 - **Farmacias y calor:** las de guardia están señaladas en cada farmacia; en verano, de 14:00 a 18:00 el centro es un horno para los niños pequeños. Playa o museo a esas horas.

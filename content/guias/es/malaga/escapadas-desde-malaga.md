@@ -1,10 +1,11 @@
 ---
 titulo: "Escapadas desde Málaga: Ronda, Nerja, Antequera y pueblos blancos"
 descripcion: "Las mejores escapadas de un día desde Málaga: Ronda, Nerja y Frigiliana, Antequera y El Torcal, Mijas y Gibraltar. Cómo llegar, qué ver y cuánto tiempo dedicar."
+respuestaCorta: 'Las mejores escapadas de un día desde Málaga son **Nerja y Frigiliana** (una hora; cuevas, unos 16 €), **Antequera y El Torcal** (45 minutos), **Ronda** (1 h 45 en coche, 2 horas en autobús) y **Gibraltar** (con DNI o pasaporte). Haz una por día: Ronda y Gibraltar ya son jornada completa, y las excursiones organizadas salen desde 35 €.'
 categoria: "malaga"
 slug: "escapadas-desde-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -78,9 +79,9 @@ A hora y cuarto, el **Peñón de Gibraltar** (territorio británico) ofrece la s
 ## Lo práctico: transporte, entradas y papeles
 
 - **Autobuses desde la estación de Málaga (junto a María Zambrano):** a Nerja, 1 hora y 5-6 €, cada 30-60 minutos; a Marbella, 45 minutos y 8-9 €; a Antequera, 1 hora y 6 €; a Ronda, 2 horas y 12-14 €; a Mijas Pueblo, con cambio en Fuengirola (Cercanías C-1 y autobús M-122). A Frigiliana, autobús local desde Nerja cada hora.
-- **Ronda en tren:** hay regionales directos desde María Zambrano (1 h 50, unos 15 €) con un tramo final espectacular por la serranía. Es mejor opción que el autobús si cuadran los horarios.
+- **Ronda en tren:** no hay tren directo, y en 2026 Renfe sustituye por autobuses el tramo Antequera-Ronda mientras repara la vía. Consulta Renfe para tu fecha; el autobús directo suele ser más sencillo.
 - **Cuevas de Nerja:** unos 16 € por adulto con audioguía (gratis menores de 6), entrada por franja horaria que se agota en Semana Santa y agosto. La visita dura 45 minutos y dentro hace 19 °C: chaqueta fina.
-- **Dólmenes de Antequera:** entrada gratuita, cierra los lunes. **El Torcal:** acceso gratuito, pero cuando el aparcamiento de arriba se llena (a media mañana en fin de semana) cierran la carretera y hay que subir en autobús lanzadera desde el aparcamiento inferior (1,50 €). La ruta verde son 45 minutos; la amarilla, 2 horas.
+- **Dólmenes de Antequera:** entrada gratuita, cierra los lunes. **El Torcal:** acceso gratuito, pero cuando el aparcamiento de arriba se llena (a media mañana en fin de semana) cierran la carretera y hay que subir en autobús lanzadera desde el aparcamiento inferior (2 € ida y vuelta). La ruta verde son 45 minutos; la amarilla, 2 horas.
 - **Gibraltar:** DNI basta para españoles y europeos; el resto, pasaporte. Deja el coche en La Línea (aparcamientos de 10-20 € el día) y cruza andando: la frontera en coche son colas de una hora. Se paga en libras, pero aceptan euros a cambio malo; usa tarjeta. El teleférico a la Roca cuesta unas 20 £ ida y vuelta y la reserva natural, otras 20 £.
 - **Mijas:** evita los «burro-taxis»; son un reclamo turístico sin garantías de bienestar animal. El pueblo se ve andando en una hora.
 

@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada a Faunia'
 slug: faunia-madrid-entrada
 ciudad: madrid
-descripcion: 'Entrada a Faunia, el parque de naturaleza y ciencia de Madrid con 700 especies, mundo polar, selva amazónica y espectáculos de aves. 4,6/5 con 111 reseñas.'
+descripcion: 'Entrada a Faunia, el parque de naturaleza y ciencia de Madrid con 152 especies, pabellón polar con pingüinos, jungla tropical y exhibiciones de aves. 4,6/5 con 111 reseñas.'
 slugs:
   es: faunia-madrid-entrada
   en: faunia-madrid-ticket
@@ -18,11 +18,11 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t402199/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Mundo Polar con pingüinos del Polo Sur
-- Selva Amazónica (simulación de lluvia tropical)
-- Pantanos del Sur (cocodrilos y caimanes)
-- Espectáculo de aves exóticas
-- Más de 700 especies de todo el mundo
+- Los Polos: réplica de la Antártida con seis especies de pingüino
+- La Jungla: selva tropical cubierta
+- Manglar de cocodrilos
+- Exhibiciones de aves en vuelo
+- 152 especies de todo el mundo
 incluye:
 - Entrada a Faunia Madrid
 - Acceso a todos los ecosistemas y espectáculos incluidos
@@ -32,9 +32,9 @@ noIncluye:
 - Traslados y aparcamiento
 puntoEncuentro:
   texto: Faunia Madrid, Av. de las Comunidades, 28, 28032 Madrid.
-  descripcionGuia: Metro línea 7 hasta Las Musas y 10 min a pie, o bus 7. Con la entrada en el móvil, accede directamente.
-  latitud: 40.4195
-  longitud: -3.6131
+  descripcionGuia: Metro línea 9 hasta Valdebernardo, Cercanías C2 hasta Vicálvaro o autobús EMT 71 desde la plaza de Manuel Becerra (para en la puerta del parque). Con la entrada en el móvil, accede directamente.
+  latitud: 40.3919
+  longitud: -3.6125
   zoom: 15
 detallesPracticos:
   ticketMovil: true
@@ -49,19 +49,20 @@ informacionImportante:
   - Calzado cerrado recomendado
   noAptoPara: []
   aTenerEnCuenta:
-  - El Mundo Polar es una zona climatizada muy fría; lleva una capa extra
+  - Los Polos es un pabellón climatizado entre -2 °C y 5 °C; lleva una capa extra
+  - Los días y horarios de apertura cambian según la temporada y algunos días el parque cierra; consulta el calendario en faunia.es
   - En verano abre "Noche en Faunia" con precio diferente
   - El parque está en el extremo este de Madrid, zona menos turística
 accesibilidad: Accesible en silla de ruedas. Recorridos adaptados en todos los ecosistemas.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Qué diferencia a Faunia del Zoo Aquarium?
-  respuesta: Faunia se centra en los ecosistemas naturales recreados (selva, polo, pantanos) y tiene un enfoque más divulgativo. El Zoo tiene más variedad de grandes mamíferos y pandas gigantes.
+  respuesta: Faunia se centra en los ecosistemas naturales recreados (jungla, polos, manglar) y tiene un enfoque más divulgativo. El Zoo tiene más variedad de grandes mamíferos y pandas gigantes.
 - pregunta: ¿Cómo llego a Faunia?
-  respuesta: Metro L7 hasta Las Musas (unas 30 min desde Sol) y 10 min a pie. En coche por la M-40 salida 6.
+  respuesta: Metro L9 hasta Valdebernardo, Cercanías C2 hasta Vicálvaro o autobús EMT 71 desde Manuel Becerra, que te deja en la puerta. En coche, A-3 salida 6 (Valdebernardo) o M-40 salidas 12/13.
 - pregunta: ¿Merece la pena con niños pequeños?
-  respuesta: Sí, especialmente de 3 a 10 años. Los ecosistemas inmersivos (selva, polo) son especialmente impactantes para ellos.
-opinionEditorial: 'Faunia es la alternativa más original al Zoo clásico en Madrid. Sus ecosistemas recreados hacen la visita muy didáctica, y el Mundo Polar con los pingüinos es imprescindible. El precio es más asequible que el Zoo y hay menos aglomeraciones. Una buena opción para un segundo día con niños en Madrid.'
+  respuesta: Sí, especialmente de 3 a 10 años. Los ecosistemas inmersivos (jungla, polos) son especialmente impactantes para ellos.
+opinionEditorial: 'Faunia es la alternativa más original al Zoo clásico en Madrid. Sus ecosistemas recreados hacen la visita muy didáctica, y Los Polos, con seis especies de pingüino, es imprescindible. El precio es más asequible que el Zoo y hay menos aglomeraciones. Una buena opción para un segundo día con niños en Madrid.'
 guiasRelacionadas:
 - madrid-con-ninos
 categoria: entradas
@@ -99,14 +100,14 @@ fecha_actualizacion: '2026-10-17'
 
 ## Qué vas a ver
 
-Faunia recrea **ocho ecosistemas del planeta** en sus instalaciones al este de Madrid. En lugar de ver animales en jaulas, paseas por una **selva amazónica** con lluvia simulada, un **mundo polar** a -10 °C con pingüinos reales o un **bosque gallego** con lobos ibéricos.
+Faunia recrea **ecosistemas y áreas temáticas** del planeta en sus instalaciones de Valdebernardo, al este de Madrid (152 especies, según el parque). En lugar de ver animales en jaulas, paseas por una **jungla** tropical o por **Los Polos**, una réplica de la Antártida con pingüinos reales.
 
 ## Los ecosistemas estrella
 
-- **Mundo Polar:** zona climatizada a temperatura polar con pingüinos, focas y aves antárticas.
-- **Selva Amazónica:** recinto de 2.200 m² con 40 especies de aves, reptiles y primates.
-- **Pantanos del Sur:** cocodrilos del Nilo, caimanes y tortugas gigantes en ambiente subtropical.
-- **Bosque Gallego:** lobos ibéricos, jabalíes y fauna autóctona.
+- **Los Polos:** pabellón entre -2 °C y 5 °C con seis especies de pingüino (papúa, adelia, rey, barbijo, Humboldt y saltarrocas).
+- **La Jungla:** selva tropical cubierta con aves, reptiles y vegetación tropical.
+- **Manglar de cocodrilos** y **Tortugas gigantes**.
+- Otras áreas: Bosque africano, Bosque templado, Dragones de Komodo, Territorio Suricata, La Granja y el Cañón de los dinosaurios, entre otras.
 
 ## A quién se lo recomiendo
 

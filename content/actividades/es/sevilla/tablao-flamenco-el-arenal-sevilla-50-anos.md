@@ -90,7 +90,7 @@ politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reem
   de fecha sujetos a disponibilidad. Comunica alergias dietéticas con 48h+ antelación.'
 preguntasFrecuentes:
 - pregunta: ¿Por qué Tablao El Arenal es el más caro de los 5 grandes?
-  respuesta: 'El precio (desde 48 € vs. 26-35 € de los otros 4 grandes) refleja TRES factores: (1) **50 años de historia**
+  respuesta: 'El precio (desde 48 € vs. 25-32 € de los otros 4 grandes) refleja TRES factores: (1) **50 años de historia**
     y prestigio acumulado — uno de los tablaos sevillanos más antiguos y reconocidos, con reputación consolidada en el circuito
     profesional. (2) **Edificio histórico del s. XVII** restaurado — patrimonio arquitectónico del Barrio El Arenal, ambiente
     cuidado. (3) **Opción cena disponible** — es el ÚNICO de los 5 grandes flamencos top de Sevilla con dinner option real
@@ -105,7 +105,7 @@ preguntasFrecuentes:
     la Memoria:** Patio s.XV + 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras intimidad
     máxima. **Museo del Baile Flamenco:** Patio Ecija s.XVIII + Cristina Hoyos, 6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO
     si valoras calidad artística icónica. **Teatro Flamenco Triana:** Teatro en barrio cuna gitano, 4.363 reseñas 4,7/5, desde
-    35 €. RECOMENDADO si quieres ambiente barrio gitano.'
+    25 €. RECOMENDADO si quieres ambiente barrio gitano.'
 - pregunta: ¿Vale la pena la opción cena?
   respuesta: 'Depende de tu apetito y plan de noche. **Opciones típicas** (verifica al reservar): solo show + drink (48 €)
     · tapas + show (~60-65 €) · menú a la carta + show (~80-90 €). **VENTAJAS de cenar en El Arenal:** (1) Comodidad — todo
@@ -143,8 +143,8 @@ opinionEditorial: 'El **tablao flamenco con más historia y prestigio de Sevilla
   calidad artística reconocida, opción cena disponible.
 
 
-  **Comparación de precios:** desde 48 € es **el más caro** de los 5 grandes flamencos de Sevilla (vs. Casa de la Memoria
-  26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Teatro Flamenco Triana 35 €). El plus de 13-22 € sobre
+  **Comparación de precios:** desde 48 € es **el más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco Triana
+  25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €). El plus de 16-23 € sobre
   las otras opciones compra: (1) 50 años de tradición + reputación profesional, (2) edificio histórico s. XVII restaurado,
   (3) **opción cena REAL** — el único de los 5 grandes con dinner option completa (tapas o menú a la carta).
 

@@ -1,10 +1,11 @@
 ---
 titulo: "Tapas en Sevilla con criterio: ruta por Centro, Triana y Arenal"
 descripcion: "Dónde tapear bien en Sevilla sin caer en trampas turísticas. 8 bares con criterio en Centro, Triana y Arenal: qué pedir, cuándo ir, qué evitar."
+respuestaCorta: 'Sáltate los bares junto a la Catedral y tapea en tres zonas: **Arenal** (Bodeguita Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) y el Centro (Casa Morales, Manolo Cateca). La tapa cuesta **2,50-4 €** y una cena de cinco tapas y tres bebidas, 18-25 € por persona. Ve de **13:30 a 15:30 o de 20:30 a 23:00** y pide por rondas.'
 categoria: "sevilla"
 slug: "sevilla-tapas-criterio"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

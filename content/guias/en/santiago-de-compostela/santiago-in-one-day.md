@@ -1,10 +1,11 @@
 ---
 titulo: "Santiago de Compostela in one day: cathedral, old town and the Camino"
 descripcion: "What to see in Santiago in one day: Cathedral, Obradoiro, old town and the Mercado de Abastos. An hour-by-hour walking route at the end of the Camino, where to eat and what to skip."
+respuestaCorta: 'Start at 9:30 in the **Plaza del Obradoiro** and the **Cathedral**, with Master Mateo''s Pórtico de la Gloria, then walk its four squares and the arcaded Rúa do Franco and Rúa do Vilar. Stop at the **Mercado de Abastos** before lunch and end at **Alameda park** for the best view of the towers at sunset. An old-town walking tour with an official guide costs from €10.'
 categoria: "santiago-de-compostela"
 slug: "santiago-in-one-day"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

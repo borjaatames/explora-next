@@ -4,7 +4,7 @@ descripcion: "Was man in Valencia in 2 Tagen sieht: historische Altstadt, Stadt 
 categoria: "valencia"
 slug: "valencia-in-2-tagen"
 fecha: "2026-02-22"
-fecha_actualizacion: "2026-02-22"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -89,7 +89,7 @@ Ist man erst einmal dort, lässt sich das Zentrum **zu Fuß** erkunden, und für
 | 16:30 | Playa de la Malvarrosa |
 | 19:00 | Letzter Nachmittag im Zentrum |
 
-**Vormittag.** 20 Minuten vom Zentrum entfernt (Bus 25 ab Plaza de la Reina) liegt der **Naturpark der Albufera**, wo die Paella geboren wurde: ein großer See, umgeben von Reisfeldern und Barracas. Machen Sie eine **Bootsfahrt** zwischen den Reisfeldern – einer der schönsten Pläne in der Nähe der Stadt – und besuchen Sie **El Palmar**, die Hauptstadt der Reisgerichte.
+**Vormittag.** Etwa 45 Minuten mit dem Bus 24 oder 25 ab Plaza de la Reina liegt der **Naturpark der Albufera**, wo die Paella geboren wurde: ein großer See, umgeben von Reisfeldern und Barracas. Machen Sie eine **Bootsfahrt** zwischen den Reisfeldern – einer der schönsten Pläne in der Nähe der Stadt – und besuchen Sie **El Palmar**, die Hauptstadt der Reisgerichte.
 
 **Mittagessen.** Essen Sie eine echte **valencianische Paella** in El Palmar: Die originale enthält Hähnchen, Kaninchen, Garrofó und grüne Bohnen – weder Meeresfrüchte noch Chorizo – und ist ein Mittagsgericht. Wenn Sie lieber lernen möchten, wie man sie zubereitet, gibt es einen Paella-Kochkurs mit Marktbesuch.
 

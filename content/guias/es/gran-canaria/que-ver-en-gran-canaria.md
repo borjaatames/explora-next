@@ -1,10 +1,11 @@
 ---
 titulo: 'Qué ver en Gran Canaria: dunas, cumbres, Vegueta y Puerto de Mogán'
 descripcion: 'Guía de Gran Canaria: Dunas de Maspalomas, Roque Nublo, Vegueta, Las Canteras, Puerto de Mogán y los pueblos del norte. Cuántos días, dónde alojarse y cómo moverte.'
+respuestaCorta: 'Para ver Gran Canaria necesitas **cuatro o cinco días**: el sur con las **Dunas de Maspalomas** y Puerto de Mogán, un día de cumbres (Roque Nublo y Tejeda), Las Palmas con Vegueta y Las Canteras, y los pueblos del norte (Teror, Arucas, Agaete). Para el interior hace falta **coche o excursión**: la del Roque Nublo desde Las Palmas sale desde 48 €.'
 categoria: gran-canaria
 slug: que-ver-en-gran-canaria
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true

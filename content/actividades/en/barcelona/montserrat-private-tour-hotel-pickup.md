@@ -64,7 +64,7 @@ informacionImportante:
     - "Child seats available"
     - "Stroller accessible"
     - "Other languages on request (not just Spanish/English)"
-    - "Price shown is PER PERSON"
+    - "Price is PER GROUP, not per person: from €838 (1 person) to about €876–895 for 4–6 people"
     - "Book at least 3 days in advance"
 
 accesibilidad: "Stroller accessible. Child seats available. Not accessible for standard wheelchairs; consult operator if needed."
@@ -73,9 +73,9 @@ politicaCancelacion: "Free cancellation up to 24 hours before with full refund."
 
 preguntasFrecuentes:
   - pregunta: "Is it really private just for my group?"
-    respuesta: "Yes. Exclusive vehicle and guide for your group (family, couple, friends). You don't share with other travelers. That's why the price (from €838 for the whole group) is higher than shared options (€94-109 per person)."
+    respuesta: "Yes. Exclusive vehicle and guide for your group (family, couple, friends). You don't share with other travelers. That's why the price (from €838 for the whole group) is higher than shared options (€41–149 per person in our catalogue)."
   - pregunta: "Why so expensive?"
-    respuesta: "It's PRIVATE and priced per group: from €838 for a small group, rising to about €895 for 6 people. For a couple that's much more than the shared group of 8 (€188 for two), but for 5-6 people it works out at around €150 each."
+    respuesta: "It's PRIVATE and priced per group: from €838 for 1 person, rising to about €876–895 for 4–6 people. For a couple that's much more than the shared group of 8 (from €68 per person, €136 for two), but for 6 people it works out at around €150 each."
   - pregunta: "What's the difference vs the group of 8 (EXB-26)?"
     respuesta: "EXB-26 is a small group SHARED with up to 8 travelers (different families or couples). This is PRIVATE only for your group. EXB-27 gives maximum flexibility: stop where you want, set the pace, guide adapts to you."
   - pregunta: "What does the flexible itinerary include?"
@@ -91,7 +91,7 @@ variantes:
 opinionEditorial: |
   The premium option of the comparator and the only truly private. 5.0 stars with 658 reviews aren't built without delivering a lot — and the difference shows when you go: vehicle just for you, exclusive guide, your-pace rhythm, stops wherever you want.
 
-  The price calculation: it's charged per group, from €838 (about €876 for 4 people and €895 for 6). Compared with the shared 8-person group (€94/person = €376 for 4 people), 4 people pay about €500 more. For that difference you buy: total exclusivity, stop flexibility and adaptable itinerary.
+  The price calculation: it's charged per group, from €838 (about €876 for 4 people and €895 for 6). Compared with the shared 8-person group (from €68/person = €272 for 4 people), 4 people pay about €600 more. For that difference you buy: total exclusivity, stop flexibility and adaptable itinerary.
 
   Who for? Anniversary getaways, honeymoon trips, families with young children where flexible pace matters, or travelers who value exclusivity. If you just go to "see Montserrat", shared options are perfectly valid and much cheaper.
 

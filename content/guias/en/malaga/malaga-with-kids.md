@@ -4,7 +4,8 @@ descripcion: "Málaga with kids: beaches, the Alcazaba, Bioparc Fuengirola, the 
 categoria: "malaga"
 slug: "malaga-with-kids"
 fecha: "2026-04-01"
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: "2026-10-23"
+respuestaCorta: 'With kids, Málaga works best mixing short doses of history with beach and animals: **La Malagueta beach** at the foot of the centre, the **Alcazaba** (free for under-16s), **Bioparc Fuengirola** (45 minutes by train, from €23 for children) and the **Benalmádena cable car**. Spring and autumn are ideal; in summer, avoid the centre between 14:00 and 18:00.'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -25,6 +26,7 @@ actividades:
   - cuevas-nerja-frigiliana-desde-malaga
   - alcazaba-teatro-romano-malaga-visita-guiada
   - caminito-del-rey-guiado-desde-malaga
+  - cuevas-nerja-entrada
 ---
 
 **Málaga is a very comfortable destination for travelling with kids.** It has mild weather almost all year, an urban beach at the foot of the centre, castles for playing explorers and, a step away, some of the best family plans on the Costa del Sol. This guide gathers what really works with little ones, without overloading the day with museums.
@@ -51,7 +53,9 @@ The key is to alternate: a morning of castle or old town in short doses and an a
 
 ## The plans that work
 
-**Beaches.** La **Malagueta** is at the foot of the centre; **Pedregalejo** and **El Palo** are calmer, with espeto beach bars. Sand, a promenade and a swim: the star plan.
+**Beaches.** La **Malagueta** is at the foot of the centre; **Pedregalejo** and **El Palo** are calmer, with espeto beach bars. Sand, a promenade and a swim: the star plan. To see the same coast from the water, the bay catamaran leaves from the port for 1–2 hours and is the cheapest way to see Málaga from the sea.
+
+[actividad: malaga-catamaran-sunset-cruise]
 
 **Alcazaba and Gibralfaro.** Kids love exploring the **fortress** and climbing to the **castle** along the rampart. Frame it as an explorers' adventure; there's a lift to the Alcazaba if the heat bites.
 
@@ -60,6 +64,16 @@ The key is to alternate: a morning of castle or old town in short doses and an a
 **Benalmádena cable car.** Twenty minutes away, ride up Mount Calamorro for spectacular views and birds-of-prey displays at the top. Very photogenic.
 
 **Museums for little ones.** The **Alborania Museum** (sea and boats), **Principia** (interactive science) and the **OXO Videogame Museum** work very well from age 5-6.
+
+## Practical: prices, transport and timings
+
+- **Alcazaba and Gibralfaro:** combined ticket €5.50 (€3.50 each separately), free for under-16s and **free for everyone on Sundays from 14:00** (as of 2026). **Bus 35** goes up to Gibralfaro from the Alameda (about every 45 minutes); walking down the Paseo de Don Juan Temboury takes 20 pleasant minutes with views.
+- **Bioparc Fuengirola:** €29.50 adults and €23 children aged 3–9 in 2026; under-3s free. Cercanías C-1 from María Zambrano or Centro-Alameda to Fuengirola (about 45 minutes), then a 10-minute walk. Opens at 10:00 all year; in July and August it stays open until 23:00, so an evening visit beats the heat.
+- **Benalmádena cable car:** return from €12.90 adults and €9.90 children online, €4–5 more at the box office. Cercanías to Arroyo de la Miel, then a 10-minute walk. The birds-of-prey displays at the top run at set times: check when you buy.
+- **Nerja Caves:** from €16 per adult, free for under-6s; 45 minutes inside at 19 °C, so pack a light layer.
+- **Beaches:** La Malagueta has lifeguards, showers, a children's area and beach bars; the sea is around 18 °C in May and 24 °C in August. Pedregalejo is calmer, with smaller waves for little ones.
+- **Getting around:** the centre is pedestrianised and flat, good for prams. EMT buses cost €1.40 and under-4s ride free. The Cercanías reaches the airport in 12 minutes.
+- **Heat:** in summer, from 14:00 to 18:00 the centre is an oven for small children. Beach or museum at those hours.
 
 ## A weekend route with family
 

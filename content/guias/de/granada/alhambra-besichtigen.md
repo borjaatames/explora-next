@@ -4,7 +4,7 @@ descripcion: "Die Alhambra in Granada mit Plan besichtigen: Tickettypen, offizie
 categoria: "granada"
 slug: "alhambra-besichtigen"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -194,7 +194,7 @@ Die neun Fehler, die wir jede Woche beobachten. Vermeidest du sie, verändert si
 
 **4. Keinen Ausweis mitbringen.** Die Tickets sind personalisiert, am Einlass wird nach Personalausweis oder Reisepass gefragt. Ohne Dokument kommst du nicht hinein.
 
-**5. Einen großen Rucksack mitnehmen.** Rucksäcke größer als 40 x 40 cm müssen in die Gepäckaufbewahrung. Du verlierst 15 Minuten am Anfang und weitere 15 am Ende.
+**5. Einen großen Rucksack mitnehmen.** Große Rucksäcke müssen in die Gepäckaufbewahrung. Du verlierst Zeit am Anfang und am Ende.
 
 **6. Einen Kinderwagen mitbringen.** Weder in den Nasridenpalästen noch im Generalife erlaubt. Es gibt eine eigene Kinderwagen-Aufbewahrung.
 

@@ -4,7 +4,7 @@ descripcion: "Guide zu den Patios von Córdoba: was das Patio-Fest ist (Mai), di
 categoria: "cordoba"
 slug: "patios-von-cordoba"
 fecha: "2026-04-12"
-fecha_actualizacion: "2026-04-12"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ Der Schlüssel: Wenn du im Mai kommst, erlebst du das schönste Córdoba des Jah
 
 ## Das Patio-Fest (Mai)
 
-Über etwa **zwei Wochen im Mai** öffnen Dutzende Häuser in den historischen Vierteln ihre Patios und treten in einem Wettbewerb gegeneinander an. Der Eintritt ist **kostenlos**; man macht eine Route zu Fuß von Patio zu Patio. Es fällt mit den **Maikreuzen** (Anfang des Monats) zusammen und geht der **Feria** (Ende Mai) voraus: der große Monat Córdobas.
+Über etwa **zwei Wochen im Mai** öffnen Dutzende Häuser in den historischen Vierteln ihre Patios und treten in einem Wettbewerb gegeneinander an. 2026 lief es vom **4. bis 17. Mai**, mit **53 Patios** im Wettbewerb auf fünf Routen. Der Eintritt ist **kostenlos**; man macht eine Route zu Fuß von Patio zu Patio. Es fällt mit den **Maikreuzen** (Anfang des Monats) zusammen und geht der **Feria** (Ende Mai) voraus: der große Monat Córdobas.
 
 > **⭐ Tipp:** Geh während des Festivals **früh morgens oder am späten Nachmittag** zu den Patios. Mittags gibt es Schlangen und Hitze. San Basilio ist das Viertel mit den meisten Patios auf engstem Raum: fang dort an.
 
@@ -47,6 +47,9 @@ Der Schlüssel: Wenn du im Mai kommst, erlebst du das schönste Córdoba des Jah
 ## Außerhalb der Saison: der Palacio de Viana
 
 Wenn du nicht im Mai kommst, verpasst du die Patios trotzdem nicht. Der **Palacio de Viana** vereint **zwölf verschiedene Patios** (und einen Garten) und ist **das ganze Jahr über** geöffnet: es ist die beste Art, die Architektur des Córdoba-Patios in Ruhe zu verstehen. Außerdem halten einige Häuser in San Basilio ihre Patios auch außerhalb des Festivals geöffnet (symbolischer Eintritt).
+
+- **Preise Palacio de Viana (2026):** 8,50 € nur die Patios, 14 € kombiniert mit der Führung durch das Palastinnere; unter 10 Jahren kostenlos.
+- **Öffnungszeiten:** montags geschlossen. Von September bis Dezember Dienstag bis Samstag 10:00–19:00 Uhr und sonntags 10:00–15:00 Uhr; im Juli und August Dienstag bis Sonntag 9:00–15:00 Uhr. Für Januar bis Juni die Website prüfen.
 
 ## Wie du dich organisierst
 

@@ -1,10 +1,11 @@
 ---
 titulo: "Madrid gratis: aprovechar la capital sin gastar un euro"
 descripcion: "Madrid gratis con criterio: museos sin pagar, miradores libres, eventos recurrentes y barrios para pasear. Y qué SÍ merece la pena pagar."
+respuestaCorta: 'El **Prado es gratis de lunes a sábado de 18:00 a 20:00** (domingos, de 17:00 a 19:00), el **Reina Sofía de 19:00 a 21:00** casi todas las tardes y el Thyssen los lunes de 12:00 a 16:00. Debod, el Faro de Moncloa, el Retiro, Madrid Río y El Capricho no cuestan nada. Si pagas una sola cosa, que sea el **Prado a las 10:00 (15 €)**, casi vacío.'
 categoria: "madrid"
 slug: "madrid-gratis"
 fecha: "2026-03-08"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

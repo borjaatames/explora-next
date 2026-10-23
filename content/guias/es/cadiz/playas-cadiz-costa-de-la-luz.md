@@ -1,10 +1,11 @@
 ---
 titulo: "Playas de Cádiz y la Costa de la Luz: las mejores y cómo elegir"
 descripcion: "Las mejores playas de Cádiz y la Costa de la Luz: La Caleta, La Victoria, Bolonia, Zahara, Caños de Meca y Tarifa. Cuáles elegir, el viento de levante y consejos."
+respuestaCorta: 'Las mejores playas de Cádiz son **La Caleta** y La Victoria en la ciudad y, en la Costa de la Luz, **Bolonia** (duna y ruinas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar y Tarifa. Elige según el viento: con **poniente** vale cualquier playa abierta; con **levante** fuerte, una cala protegida. El catamarán al atardecer desde Cádiz sale desde 25 €.'
 categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
 fecha: "2026-05-07"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -21,6 +22,7 @@ slugs:
   es: playas-cadiz-costa-de-la-luz
   en: cadiz-beaches-costa-de-la-luz
   de: straende-costa-de-la-luz-cadiz
+reservasArriba: true
 actividades:
   - catamaran-cadiz-atardecer
   - avistamiento-delfines-trafalgar-barbate
@@ -64,10 +66,10 @@ La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor 
 ## Lo práctico: cómo llegar, mareas y servicios
 
 - **Desde Cádiz capital:** La Caleta, La Victoria y Santa María del Mar se hacen andando o en los autobuses 1 y 7; Cortadura, en el 1. A las playas de la provincia no hay transporte público práctico: coche o excursión. Bolonia y Zahara están a 1 h 15; Los Caños y El Palmar, a 1 hora; La Barrosa, a 30 minutos; Tarifa, a 1 h 30.
-- **Aparcar en las playas vírgenes:** Bolonia tiene un aparcamiento pequeño que se llena a las 11:00 en agosto; después, solo se puede entrar cuando sale alguien. En Los Caños y El Palmar, aparcamientos privados a 5-8 € el día. Nunca en el arcén: multan a diario.
+- **Aparcar en las playas vírgenes:** en Bolonia, Los Caños y El Palmar las plazas cerca de la arena son pocas y en agosto se llenan a media mañana. Nunca en el arcén: multan.
 - **Mareas:** el Atlántico tiene 2-3 metros de diferencia entre pleamar y bajamar. Con marea baja, La Caleta y Bolonia doblan de tamaño y aparecen las piscinas naturales; con marea alta, en Los Caños no queda arena en algunas calas. Mira la tabla de mareas del día antes de salir.
 - **Agua:** 18-20 °C en junio, 21-23 °C en agosto y septiembre. Octubre es el mes secreto: agua templada, playas vacías y poco levante.
-- **Baelo Claudia (Bolonia):** la ciudad romana está en la misma playa. Entrada gratuita para ciudadanos de la UE, 1,50 € para el resto; cierra los lunes y por las tardes en verano a partir de las 15:00.
+- **Baelo Claudia (Bolonia):** la ciudad romana está en la misma playa. Entrada gratuita para ciudadanos de la UE; en verano las visitas van por franjas horarias, así que consulta los horarios en su página de museosdeandalucia.es (o en el 956 106 797) antes de organizar la mañana.
 - **Chiringuitos:** en Zahara, Los Caños y El Palmar los hay (atún de almadraba en Zahara, de mayo a junio); en Bolonia, pocos y sencillos; en Cortadura y las playas de Tarifa, ninguno en tramos largos. Lleva agua y sombra.
 - **Banderas:** el Atlántico tiene corrientes de resaca. Bandera amarilla es frecuente y no es decorativa; con niños, playas con socorrista (La Victoria, La Barrosa, Zahara).
 

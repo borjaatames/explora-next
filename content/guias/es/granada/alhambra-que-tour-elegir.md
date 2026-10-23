@@ -1,9 +1,11 @@
 ---
 titulo: "Alhambra: qué tour elegir (y por qué la mayoría son el mismo tour a distinto precio)"
 descripcion: "Hay más de media docena de tours guiados a la Alhambra listados por separado. Comparamos cuáles son en realidad el mismo recorrido y cuáles sí son distintos: nocturna, privado y entrada solo a jardines."
+respuestaCorta: 'Seis de los tours son **el mismo recorrido de 3 horas** (Alcazaba, Palacios Nazaríes y Generalife) a precios de 50 a 96 €, así que reserva el más barato con plaza en tu fecha, normalmente **Entrada y tour guiado desde 50 €**. Solo la **visita nocturna**, el **tour privado** y la entrada a los jardines son de verdad distintos. Reserva con semanas: las franjas de los Nazaríes se agotan.'
 categoria: "granada"
 slug: "alhambra-que-tour-elegir"
 fecha: "2026-09-06"
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -68,7 +70,7 @@ El cuello de botella real de la Alhambra no es qué tour eliges, es conseguir fr
 - **Lleva el DNI o el pasaporte de todos**, niños incluidos: las entradas son nominativas y las comprueban en los Palacios Nazaríes. Sin documento no entras aunque tengas el tour pagado.
 - **Punto de encuentro:** casi todos los tours quedan en la entrada principal del recinto (Pabellón de Acceso, junto al aparcamiento) o en el centro, en Plaza Nueva o Plaza Isabel la Católica, y suben juntos. Léelo en el correo de confirmación: son 25 minutos de cuesta entre un sitio y otro.
 - **Cuánto dura y cuánto se anda:** unas 3 horas y 3-4 km, con cuestas y escaleras. Calzado cómodo, agua y gorra; dentro solo hay una cafetería y una fuente.
-- **Mochilas y carritos:** no se permite entrar con mochilas de más de 40×40 cm ni con carritos de bebé en los Nazaríes; hay consigna gratuita en la entrada y mochilas portabebés en préstamo.
+- **Mochilas y carritos:** no se puede entrar con carritos de bebé en los Nazaríes; hay consigna gratuita en la entrada y mochilas portabebés en préstamo. Viaja ligero: las mochilas grandes pueden tener que ir a consigna.
 - **Después del tour puedes quedarte:** la entrada general sirve para todo el día. Si el guía acaba en el Generalife, vuelve a la Alcazaba o a los jardines del Partal con calma.
 - **Nocturna:** si has elegido la visita nocturna, solo se ven los Nazaríes iluminados, no la Alcazaba ni el Generalife. Es la mejor opción si no hay entradas de día o en pleno agosto.
 - **Entrada gratuita o casi:** los menores de 12 no pagan pero necesitan ticket; con la Dobla de Oro (30,48 €) ves también el Bañuelo y las casas árabes del Albaicín durante tres días.

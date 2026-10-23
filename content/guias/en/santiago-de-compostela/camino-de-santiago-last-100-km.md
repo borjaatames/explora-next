@@ -1,10 +1,10 @@
 ---
 titulo: "The Camino de Santiago: the last 100 km (how to do it and the Compostela)"
-descripcion: "A guide to the last 100 km of the Camino de Santiago: where to start (Sarria, Tui, Ferrol), stages, the credential and the Compostela, when to go and what to bring."
+descripcion: "The last 100 km of the Camino de Santiago: where to start (Sarria, Tui, Ferrol), stages, budget, the credential and the free Compostela, and what to bring."
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-last-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true
@@ -21,6 +21,8 @@ slugs:
   es: camino-de-santiago-ultimos-100-km
   en: camino-de-santiago-last-100-km
   de: jakobsweg-letzte-100-km
+reservasArriba: true
+respuestaCorta: 'To earn the Compostela you must walk **at least the last 100 km** to Santiago (200 km by bike) and collect **two stamps a day** on your credential. Most people start in **Sarria**, 114 km and five stages away, which takes 5–7 days. The Compostela itself is **free** at the Pilgrim''s Office; the optional distance certificate costs €3.'
 actividades:
   - tour-a-pie-casco-antiguo-santiago
   - catedral-santiago-museo-tour-guiado
@@ -50,7 +52,7 @@ The key: choose your starting point well for the route, carry the **credential**
 | Camino Portugués | Tui | ~118 km |
 | Camino Inglés | Ferrol | ~118 km |
 
-> **⚠️ Warning:** for the Compostela you must walk **at least 100 km** (or 200 km by bike). That's why **Sarria** is the most popular start on the Camino Francés: just over the minimum. Note: A Coruña falls short (75 km) for the Inglés; you must start from Ferrol.
+> **Warning:** for the Compostela you must walk **at least 100 km** (or 200 km by bike). That's why **Sarria** is the most popular start on the Camino Francés: just over the minimum. Note: A Coruña falls short (75 km) for the Inglés; you must start from Ferrol.
 
 ## The stages from Sarria (Camino Francés)
 
@@ -64,10 +66,19 @@ The key: choose your starting point well for the route, carry the **credential**
 
 Five comfortable stages (you can split the third). **Monte do Gozo**, 5 km from Santiago, gives the first view of the cathedral towers.
 
-## The credential and the Compostela
+## Budget, credential and getting to Sarria
 
-- **Pilgrim credential:** the "passport" where stamps are collected. In the last 100 km you need **two stamps a day** (bars, hostels, churches).
-- **The Compostela:** the certificate is collected at the **Pilgrim's Office** (Rúa das Carretas), in Santiago, by presenting the stamped credential.
+- **Daily budget:** public hostel (*albergue*) €10, first come, first served, usually opening at 13:00; private hostel €15–22; guesthouse €40–70 for a double. The pilgrim's menu costs €12–15 and breakfast €3–5. Count on **€35–45 a day** sleeping in hostels and **€60–80** with your own room.
+- **The credential** is the pilgrim's "passport": in the last 100 km you need **two stamps a day** (bars, hostels, churches). It costs €2–3. Buy it before you leave from a Camino association, or in Sarria at the Magdalena monastery and several hostels. Without it you can't sleep in public hostels.
+- **Getting to Sarria:** by train from Madrid (5–6 hours, direct or changing in Ourense depending on the day), or from Santiago and A Coruña changing in Monforte; by bus from Lugo (45 minutes). Many pilgrims fly into Santiago, leave a suitcase in storage and go to Sarria by train or shared taxi (about €90 for the taxi).
+- **Backpack transport:** €6–8 per stage. You leave the bag at reception before 8:00 and it's waiting at your next booked accommodation, so you need that booking first.
+- **Pace:** most people walk from 7:00 to 13:00, to avoid the heat and arrive before hostels fill. At 4 km/h, a 22 km stage is about 5 hours 30 with stops.
+
+## Collecting the Compostela
+
+The Pilgrim's Office is at **Rúa das Carretas 33**, a few minutes downhill from Praza do Obradoiro. It opens **10:00 to 18:00 every day** except 25 December and 1 January (on those days the Compostela is issued in the cathedral). The **Compostela is free**; the **distance certificate**, on parchment with your start point, kilometres, dates and route, costs **€3**. Bring your stamped credential.
+
+Then visit the cathedral: entry is free from 7:00 to 21:00. Note that since 16 October 2026, until further notice, the **Pilgrim's Masses (12:00 and 19:30) are held in the nearby church of San Agustín** because of works in the cathedral's main chapel. Our [Santiago Cathedral guide](/en/guides/santiago-de-compostela/santiago-cathedral-how-to-visit) explains what's free, what to book and when the botafumeiro swings.
 
 ## When to go
 
@@ -83,9 +94,9 @@ Five comfortable stages (you can split the third). **Monte do Gozo**, 5 km from 
 - **Broken-in footwear** (don't debut boots on the Camino).
 - **Raincoat or poncho**: Galicia rains often.
 - Layered clothing and a light backpack.
-- Foot care: petroleum jelly, tape, technical socks.
+- Foot care: petroleum jelly before each stage, seamless socks, blister plasters, ibuprofen and sunscreen (every stage end has a pharmacy).
 
-> **⭐ Tip:** there are **backpack transport services** between stages, and it's worth booking accommodation (private hostels) in high season. Sarria, as the mass start, fills up: book the first night.
+> **Tip:** Sarria is the mass start of the Camino, so book your first night there, and book ahead for every stage in high season.
 
 ## What we don't recommend
 
@@ -93,16 +104,9 @@ Five comfortable stages (you can split the third). **Monte do Gozo**, 5 km from 
 2. **Debuting boots.** The error that causes the most blisters.
 3. **Doing Sarria in August without booking.** It's the busiest start of the year.
 4. **Forgetting the two daily stamps** in the last 100 km: without them they won't give the Compostela.
+5. **Overloading the backpack.** Every gram tells after a few days; aim for a light pack or use the transport service.
 
 [actividad: catedral-santiago-museo-tour-guiado]
-
-## Common mistakes
-
-> **⚠️ Warning:** the slip-ups we see most.
-
-1. **Overloading the backpack.** Every gram tells after a few days.
-2. **Not booking in season.** You'll be left without a bed in the small stages.
-3. **Ignoring foot care.** Blisters ruin the Camino.
 
 ## In one sentence
 

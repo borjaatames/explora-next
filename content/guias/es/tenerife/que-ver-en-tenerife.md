@@ -1,10 +1,11 @@
 ---
 titulo: 'Qué ver en Tenerife: el Teide, La Laguna, Masca, Garachico y Anaga'
 descripcion: 'Guía de Tenerife: el Teide, La Laguna, La Orotava, Garachico, Masca, Los Gigantes, Anaga y las ballenas del sur. Cuántos días, dónde alojarse y cómo moverte.'
+respuestaCorta: 'Con **cinco o seis días** ves lo esencial de Tenerife: un día para el **Teide** (teleférico hasta los 3.555 m), otro para el norte (La Orotava, Puerto de la Cruz y Garachico), otro para La Laguna y Anaga, otro para Masca y Los Gigantes, y mar en el sur. **Alquila coche** y no te pierdas las ballenas: el yate ecológico desde Los Cristianos cuesta **desde 30 €**.'
 categoria: tenerife
 slug: que-ver-en-tenerife
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: Equipo ExploraSpain
 publicada: true
 destacada: true

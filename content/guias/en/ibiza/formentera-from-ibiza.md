@@ -4,7 +4,7 @@ descripcion: "How to visit Formentera from Ibiza: ferries and schedules, how to 
 categoria: "ibiza"
 slug: "formentera-from-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -19,6 +19,8 @@ slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
+respuestaCorta: 'To visit Formentera from Ibiza, take a **fast ferry from Ibiza port to La Savina** (about 30 minutes; return tickets **from €55** with an open return), then rent a scooter or bike. Give it a **full day**: Ses Illetes in the morning, lunch in Es Pujols or Migjorn and sunset at a lighthouse before the last ferry.'
+reservasArriba: true
 actividades:
   - ferry-ida-vuelta-ibiza-formentera
 ---
@@ -39,18 +41,28 @@ The key: give it a **full day**, not half. And book the ferry (and the vehicle) 
 
 | Departure | Duration | Notes |
 | --- | --- | --- |
-| From Eivissa port | ~30 min (fast) | Several ferry companies and frequencies |
-| From Playa d'en Bossa | Seasonal | Handy if you're staying in the south |
+| From Eivissa port | ~30 min (fast) | Baleària, Trasmapi and Formentera Lines; departures roughly every 45 minutes in summer |
+| From Playa d'en Bossa / Figueretes | ~45–60 min | Seasonal, slower boats (Aquabus) |
+| From Sant Antoni | ~1 h 45 – 2 h | Limited day-trip services |
 
 You arrive at **La Savina** port. Always check the sea: with swell, ferries are delayed or cancelled.
 
+## Ferry tickets and timetables
+
+- **Price:** advance one-way fares start at around €30; Baleària quotes an average of about €35 return for a foot passenger, more in peak season and at the last minute. Our ticket is a Trasmapi fast-ferry return **from €55**, with hourly departures from 8:30 to 21:00 and a return valid for 6 months.
+- **Frequency:** in summer Baleària alone runs almost 30 departures a day from each port. In winter there are fewer boats, the first leaves later and the last return is earlier.
+- **The last ferry:** there is no single last-ferry time; it changes by date and operator. Check it before renting anything. Miss it and your options are a night on Formentera or an expensive private boat.
+
 ## Getting around
 
-Formentera is about 19 km long and public transport is limited, so it's best to **rent a scooter, bike or car** at La Savina (book ahead in summer). The scooter is the most practical and fun; the bike, ideal for the flat tracks near the port.
+Formentera is about 19 km long and public transport is limited, so it's best to **rent a scooter, bike or car** at La Savina (book ahead in summer). The scooter is the most practical; the bike, ideal for the flat tracks near the port.
+
+- **Rental prices (as of 2026):** bike €10–15 a day; e-bike €25–30; scooter €35–50; car €50–80.
+- **Bringing a car from Ibiza:** Formentera caps the number of vehicles entering in summer, and a visitor's car needs prior authorisation (see formentera.eco). Renting on arrival is simpler.
 
 ## The best beaches
 
-- **Ses Illetes.** The jewel: white sand and turquoise water inside the Ses Salines natural park. In summer there's an access fee for vehicles.
+- **Ses Illetes.** The jewel: white sand and turquoise water inside the Ses Salines natural park. From mid-May to 30 September, cars and motorbikes pay to enter the park (in recent seasons from €4 per car and €2 per motorbike, rising to €6 and €4 from mid-July to August). On foot, by bike or in an electric vehicle it's free; the ride from La Savina takes 30–40 minutes by bike.
 - **Platja de Migjorn.** Long and open, with legendary beach bars for the sunset.
 - **Cala Saona.** Smaller and sheltered, with reddish cliffs.
 - **Llevant and Es Pujols.** For a swim and for the liveliest town.
@@ -58,8 +70,14 @@ Formentera is about 19 km long and public transport is limited, so it's best to 
 ## Beyond the beach
 
 - **Far de la Mola.** The lighthouse at the eastern tip, which inspired Jules Verne, with spectacular cliffs.
-- **Far de Cap de Barbaria.** The southern lighthouse, at the end of a lonely road; one of the best sunsets in the Pityusic Islands.
+- **Far de Cap de Barbaria.** The southern lighthouse, at the end of a lonely road; one of the best sunsets in the Pityusic Islands. From mid-May to mid-October a barrier closes the last stretch to motor vehicles: park before it (about 60 car spaces) and walk or cycle the rest, so allow extra time.
 - **Sant Francesc.** The small capital, with its fortress-church and markets.
+
+## Eating, cash and water
+
+- **Beach bars:** the famous ones at Ses Illetes and Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) cost €60–100 per person with wine. For an ordinary set menu, eat in Sant Francesc or Es Pujols.
+- **Cash and water:** there are few cash machines outside La Savina and Sant Francesc, and no drinking water on the natural-park beaches. Bring 2 litres per person.
+- **Sun and wind:** Formentera is flat and shadeless. With a northerly wind Migjorn is calm; with a southerly, choose Illetes and Llevant.
 
 ## A one-day plan
 
@@ -69,7 +87,7 @@ Formentera is about 19 km long and public transport is limited, so it's best to 
 | 10:30 | Ses Illetes: swim and snorkel |
 | 14:00 | Lunch in Es Pujols or Migjorn |
 | 16:30 | Cala Saona or Migjorn |
-| 19:00 | Sunset at Cap de Barbaria and ferry back |
+| 19:00 | Sunset at Cap de Barbaria (with the walk from the barrier) and ferry back |
 
 ## What we don't recommend
 
@@ -80,11 +98,9 @@ Formentera is about 19 km long and public transport is limited, so it's best to 
 
 ## Common mistakes
 
-> **⚠️ Warning:** the slip-ups we see most.
-
 1. **Not checking the sea.** With swell the ferry runs late.
 2. **Arriving late at Ses Illetes.** It fills up and parking is limited (with a fee in summer).
-3. **Staying only on the beaches.** The lighthouses and the interior are worth it too.
+3. **Driving to Cap de Barbaria at sunset without allowing for the walk.** The road is barred to cars for the last stretch in season.
 
 ## In one sentence
 

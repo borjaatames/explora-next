@@ -4,7 +4,7 @@ descripcion: "Guide zum Besuch der Mezquita-Catedral von Córdoba: Tickets und k
 categoria: "cordoba"
 slug: "mezquita-catedral-besichtigen"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-04-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -41,12 +41,13 @@ Die goldene Regel: **geh so früh wie möglich**. Dann sind am wenigsten Mensche
 
 | Angabe | Detail |
 | --- | --- |
-| Regulärer Eintritt | Kostenpflichtig; online kaufen, um die Schlange zu vermeiden |
-| Kostenloser Zeitraum | Montag bis Samstag, früh morgens (ohne Gruppen) |
-| Glockenturm | Separates Ticket, in Zeitfenstern |
+| Regulärer Eintritt | 15 € (12 € ermäßigt, 8 € für Kinder von 10 bis 14, unter 10 kostenlos); online kaufen, um die Schlange zu vermeiden |
+| Kostenloser Zeitraum | Montag bis Samstag, 8:30–9:30 Uhr (nur Einzelbesucher, ohne Gruppen und Guides) |
+| Glockenturm | 4 €, Zeitfenster alle 30 Minuten |
+| Nachtführung „El alma de Córdoba“ | 25 € (18 € ermäßigt), um 21:00 und 22:30 Uhr |
 | Patio de los Naranjos | Freier Zugang |
 
-> **⭐ Tipp:** Es gibt einen **kostenlosen Eintrittszeitraum** von Montag bis Samstag früh morgens (meist gegen 8:30-9:30 Uhr; bestätige die aktuelle Uhrzeit auf der offiziellen Website). Gruppen sind nicht erlaubt, und man muss früh dort sein, aber es ist die beste Art, sie fast leer zu erleben.
+> **⭐ Tipp:** Es gibt einen **kostenlosen Eintrittszeitraum** von Montag bis Samstag früh morgens (8:30–9:30 Uhr; ab 9:20 Uhr wird geräumt, an besonderen Festtagen entfällt er). Gruppen sind nicht erlaubt, und man muss früh dort sein, aber es ist die beste Art, sie fast leer zu erleben.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
 

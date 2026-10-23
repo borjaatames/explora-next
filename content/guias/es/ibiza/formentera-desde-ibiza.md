@@ -1,10 +1,11 @@
 ---
 titulo: "Formentera desde Ibiza: cómo ir y qué ver en un día"
 descripcion: "Guía para visitar Formentera desde Ibiza: ferris y horarios, cómo moverte (moto, bici, coche), las mejores playas como Ses Illetes, faros y consejos."
+respuestaCorta: 'Para ir a Formentera desde Ibiza, coge un **ferry rápido del puerto de Eivissa a La Savina** (unos 30 minutos; entre 30 y 55 € ida y vuelta) y alquila allí moto o bici. Dedícale un **día completo**: Ses Illetes por la mañana, comida en Es Pujols o Migjorn y **atardecer en Cap de Barbaria** antes del ferry de vuelta.'
 categoria: "ibiza"
 slug: "formentera-desde-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -19,6 +20,7 @@ slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
+reservasArriba: true
 actividades:
   - ferry-ida-vuelta-ibiza-formentera
 ---
@@ -63,9 +65,10 @@ Formentera mide unos 19 km y el transporte público es limitado, así que lo mej
 
 ## Lo práctico: ferris, vehículos y dinero
 
-- **Precios del ferry:** entre 30 y 55 € ida y vuelta según naviera (Baleària, Trasmapi, Aquabus) y velocidad; los rápidos tardan 30 minutos, los lentos 1 hora y cuestan menos. En verano hay salidas cada 30 minutos desde las 7:00 y las últimas vueltas a Ibiza entre las 21:00 y las 23:00. Comprueba la última antes de alquilar nada.
+- **Precios del ferry:** entre 30 y 55 € ida y vuelta según naviera (Baleària, Trasmapi, Aquabus) y velocidad; los rápidos tardan 30 minutos, los lentos 1 hora y cuestan menos. En verano hay salidas muy frecuentes (solo Baleària programa casi 30 al día desde cada puerto); en invierno hay menos barcos y la última vuelta es más temprana. No hay una hora única de último ferry: cambia según fecha y naviera, así que compruébala antes de alquilar nada.
 - **Alquiler en La Savina:** bici, 10-15 € el día; bici eléctrica, 25-30 €; moto, 35-50 €; coche, 50-80 €. En julio y agosto la isla limita el número de vehículos que entran: si vienes con coche propio desde Ibiza, necesitas autorización previa.
-- **Ses Illetes en verano:** acceso con tasa para vehículos (unos 6 € coche, 4 € moto) y aparcamiento que se llena a las 11:00. En bici o andando desde La Savina son 30-40 minutos, sin tasa.
+- **Ses Illetes en temporada:** de mediados de mayo al 30 de septiembre, coches y motos pagan por entrar al parque natural (en las últimas temporadas, desde 4 € el coche y 2 € la moto, y 6 € y 4 € de mediados de julio a agosto), y el aparcamiento se llena a media mañana. Andando, en bici o en vehículo eléctrico es gratis; desde La Savina son 30-40 minutos en bici.
+- **Cap de Barbaria:** de mediados de mayo a mediados de octubre una barrera corta el último tramo de la carretera a los vehículos a motor. Se aparca antes (unas 60 plazas) y se sigue andando o en bici, así que calcula tiempo extra para el atardecer.
 - **Comer:** los chiringuitos de Ses Illetes y Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) son míticos y caros: 60-100 € por persona con vino. Para un menú normal, Sant Francesc o Es Pujols.
 - **Efectivo y agua:** hay pocos cajeros fuera de La Savina y Sant Francesc, y en las playas del parque natural no hay agua potable. Lleva 2 litros por persona.
 - **Sol y viento:** Formentera es llana y sin sombra. Con viento de norte, Migjorn está en calma; con sur, mejor Illetes y Llevant.
@@ -78,7 +81,7 @@ Formentera mide unos 19 km y el transporte público es limitado, así que lo mej
 | 10:30 | Ses Illetes: baño y snorkel |
 | 14:00 | Comida en Es Pujols o Migjorn |
 | 16:30 | Cala Saona o Migjorn |
-| 19:00 | Atardecer en Cap de Barbaria y ferry de vuelta |
+| 19:00 | Atardecer en Cap de Barbaria (último tramo a pie desde la barrera) y ferry de vuelta |
 
 ## Lo que NO recomendamos
 

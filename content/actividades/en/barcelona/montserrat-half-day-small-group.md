@@ -72,7 +72,7 @@ politicaCancelacion: "Free cancellation up to 24 hours before with full refund. 
 
 preguntasFrecuentes:
   - pregunta: "What are the 4 options?"
-    respuesta: "(1) Tour + basilica entry (cheapest, ~€54). (2) Tour + basilica + Moreneta (extra ~€5, 8:30 or 13:30 departure). (3) Tour + basilica + Boys' Choir (Mon-Fri, 9:30 departure). (4) Tour + winery + lunch (Mon-Sat, full day, 8:30 departure, ~+€30). Choose at booking."
+    respuesta: "(1) Tour + basilica entry (cheapest, from €59). (2) Tour + basilica + Moreneta (extra ~€5, 8:30 or 13:30 departure). (3) Tour + basilica + Boys' Choir (Mon-Fri, 9:30 departure). (4) Tour + winery + lunch (Mon-Sat, full day, 8:30 departure, ~+€30). Choose at booking."
   - pregunta: "What is early access?"
     respuesta: "The operator enters the monastery before the massive tourist groups arrive (around 10:00-10:30). This lets you take classic photos without crowds and enter the basilica calmly. It's one of the operator's differentials."
   - pregunta: "And the choir option (Escolanía)?"
@@ -80,7 +80,7 @@ preguntasFrecuentes:
   - pregunta: "Is the rack railway included?"
     respuesta: "No. This tour uses direct bus to the monastery (no rack railway). If you want rack railway, see [Julià Travel](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna) or any Castlexperience variant."
   - pregunta: "Differences vs EXB-25 (same operator)?"
-    respuesta: "This variant is half day (5h 15min, ~€54). EXB-25 is full day with Bages farmhouse and winery (9h, ~€109). Same operator (Barcelona Local Experiences) but different format."
+    respuesta: "This variant is half day (5 h 30 min, from €59). EXB-25 is full day with Bages farmhouse and winery (9h, ~€109). Same operator (Barcelona Local Experiences) but different format."
 
 variantes:
   - "montserrat-rack-railway-black-madonna"

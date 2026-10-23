@@ -1,10 +1,11 @@
 ---
 titulo: "La Tarraco romana: qué ver y cómo visitarla (entrada conjunta)"
 descripcion: "Guía de la Tarraco romana en Tarragona: anfiteatro, circo, foro, murallas y acueducto. Qué ver, la entrada conjunta, el orden de la ruta y el festival Tarraco Viva."
+respuestaCorta: 'La Tarraco romana se recorre a pie en **medio día largo**: el anfiteatro junto al mar, el circo y la Torre del Pretori, el foro y las murallas. La **entrada conjunta de 15 €** incluye los principales recintos municipales (cada uno suelto cuesta 5 €) y los menores de 12 entran gratis. **Los lunes cierran todos los recintos municipales**, y el acueducto de les Ferreres, a 4 km, es gratuito.'
 categoria: "tarragona"
 slug: "tarraco-romana-que-ver"
 fecha: "2026-04-21"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -21,6 +22,7 @@ slugs:
   es: tarraco-romana-que-ver
   en: roman-tarraco-guide
   de: roemisches-tarraco
+reservasArriba: true
 actividades:
   - tour-tarraco-romana-a-pie
   - catedral-tarragona-entrada-audioguia
@@ -58,7 +60,7 @@ Empieza por el **Anfiteatro**, la imagen más célebre, a pie de playa. Sigue al
 ## Lo práctico: entradas, horarios y tiempos
 
 - **Entrada conjunta:** 15 €, válida para el Anfiteatro, el Circo y la Torre del Pretori, las Murallas y la Casa Canals, entre otros recintos municipales. Sin caducidad en el mismo viaje, así que puedes repartirla en dos días. Cada monumento suelto cuesta 5 €: a partir del tercero, la conjunta sale a cuenta.
-- **Gratis:** menores de 12 años y el último martes de cada mes, jornada de puertas abiertas.
+- **Gratis:** menores de 12 años; hay también tarifas reducidas (consulta la web municipal de precios).
 - **Horarios:** de martes a sábado de 9:00 a 20:45 en verano (hasta las 19:00 en invierno) y domingos solo hasta las 14:30. **Los lunes cierran todos los recintos municipales**, así que si solo tienes el lunes, quedan las murallas por fuera, el acueducto y la catedral.
 - **Cuánto tiempo:** medio día largo para el circuito urbano (anfiteatro, circo, Pretori, foro y murallas) y 2 horas más si vas al acueducto.
 - **El acueducto:** a 4 km, en el parque ecohistórico del Pont del Diable. Autobús 5 o 85 desde el centro, o 10 minutos en coche con aparcamiento gratuito. Se puede cruzar por encima.

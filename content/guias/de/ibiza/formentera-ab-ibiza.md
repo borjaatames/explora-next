@@ -4,7 +4,7 @@ descripcion: "Reiseführer für einen Besuch auf Formentera ab Ibiza: Fähren un
 categoria: "ibiza"
 slug: "formentera-ab-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: "2026-04-24"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -44,7 +44,7 @@ Formentera ist etwa 19 km lang und der öffentliche Nahverkehr ist eingeschränk
 
 ## Die schönsten Strände
 
-- **Ses Illetes.** Das Juwel: weißer Sand und türkisfarbenes Wasser im Naturpark Ses Salines. Im Sommer wird für Fahrzeuge eine Zufahrtsgebühr erhoben.
+- **Ses Illetes.** Das Juwel: weißer Sand und türkisfarbenes Wasser im Naturpark Ses Salines. Von Mitte Mai bis 30. September zahlen Autos und Motorräder eine Zufahrtsgebühr; zu Fuß, mit dem Fahrrad oder im Elektrofahrzeug ist es kostenlos.
 - **Platja de Migjorn.** Lang und weitläufig, mit legendären Strandbars für den Sonnenuntergang.
 - **Cala Saona.** Kleiner und geschützter, mit rötlichen Klippen.
 - **Llevant und Es Pujols.** Zum Baden und für das lebhafteste Dorf.
@@ -52,7 +52,7 @@ Formentera ist etwa 19 km lang und der öffentliche Nahverkehr ist eingeschränk
 ## Mehr als nur Strand
 
 - **Far de la Mola.** Der Leuchtturm am östlichen Ende, der Jules Verne inspirierte, mit spektakulären Klippen.
-- **Far de Cap de Barbaria.** Der Leuchtturm im Süden, am Ende einer einsamen Straße; einer der schönsten Sonnenuntergänge der Pityusen.
+- **Far de Cap de Barbaria.** Der Leuchtturm im Süden, am Ende einer einsamen Straße; einer der schönsten Sonnenuntergänge der Pityusen. Von Mitte Mai bis Mitte Oktober sperrt eine Schranke den letzten Abschnitt für Kraftfahrzeuge: Du parkst davor und gehst zu Fuß oder fährst mit dem Rad weiter.
 - **Sant Francesc.** Die kleine Hauptstadt mit ihrer Festungskirche und ihren Märkten.
 
 ## Tagesplan
@@ -63,7 +63,7 @@ Formentera ist etwa 19 km lang und der öffentliche Nahverkehr ist eingeschränk
 | 10:30 | Ses Illetes: Baden und Schnorcheln |
 | 14:00 | Mittagessen in Es Pujols oder Migjorn |
 | 16:30 | Cala Saona oder Migjorn |
-| 19:00 | Sonnenuntergang am Cap de Barbaria und Rückfähre |
+| 19:00 | Sonnenuntergang am Cap de Barbaria (letztes Stück zu Fuß ab der Schranke) und Rückfähre |
 
 ## Was wir NICHT empfehlen
 

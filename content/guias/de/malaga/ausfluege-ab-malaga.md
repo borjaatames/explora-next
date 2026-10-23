@@ -4,7 +4,7 @@ descripcion: "Die besten Tagesausflüge ab Málaga: Ronda, Nerja und Frigiliana,
 categoria: "malaga"
 slug: "ausfluege-ab-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-04-13"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -55,7 +55,7 @@ Eine Stunde entlang der Küste hat **Nerja** den **Balcón de Europa** (Aussicht
 
 ## Ronda
 
-Eineinviertel Stunden entfernt ist **Ronda** das Juwel des Berglands: eine Stadt, geteilt durch **El Tajo**, eine 100 Meter tiefe Schlucht, überspannt von der **Puente Nuevo**, mit einer der ältesten Stierkampfarenen Spaniens. Eines der berühmtesten Bilder des Landes.
+Eindreiviertel Stunden entfernt ist **Ronda** das Juwel des Berglands: eine Stadt, geteilt durch **El Tajo**, eine 100 Meter tiefe Schlucht, überspannt von der **Puente Nuevo**, mit einer der ältesten Stierkampfarenen Spaniens. Eines der berühmtesten Bilder des Landes.
 
 ## Mijas, Marbella und die Küste
 
@@ -67,7 +67,7 @@ Eineinviertel Stunden entfernt bietet der **Felsen von Gibraltar** (britisches T
 
 ## Wie man sich fortbewegt
 
-Für **Nerja, Marbella oder Antequera** gibt es bequeme Direktbusse; für **Ronda** einen Panoramazug oder das Auto; für die **weißen Dörfer** im Landesinneren und El Torcal gibt das **Auto** deutlich mehr Freiheit. Buche die Höhlen von Nerja in der Saison im Voraus.
+Für **Nerja, Marbella oder Antequera** gibt es bequeme Direktbusse; für **Ronda** den Direktbus (etwa 2 Stunden) oder das Auto – einen direkten Zug gibt es nicht, und 2026 fährt Renfe auf dem Abschnitt Antequera–Ronda Ersatzbusse; für die **weißen Dörfer** im Landesinneren und El Torcal gibt das **Auto** deutlich mehr Freiheit. Buche die Höhlen von Nerja in der Saison im Voraus.
 
 ## Was wir NICHT empfehlen
 
@@ -80,7 +80,7 @@ Für **Nerja, Marbella oder Antequera** gibt es bequeme Direktbusse; für **Rond
 
 > **⚠️ Hinweis:** Die Fehler, die wir am häufigsten sehen.
 
-1. **Die Strecke nach Ronda unterschätzen.** Eineinviertel Stunden pro Fahrt; fahr früh los.
+1. **Die Strecke nach Ronda unterschätzen.** Mit dem Auto eindreiviertel Stunden pro Fahrt, mit dem Bus etwa zwei; fahr früh los.
 2. **Gibraltar in Eile besuchen.** Zwischen Grenze, Rock und Affen solltest du den ganzen Tag einplanen.
 3. **Nerja ohne Frigiliana besuchen.** Sie liegen 10 Minuten auseinander und sind zusammen der bessere Plan.
 

@@ -1,9 +1,11 @@
 ---
 titulo: "Flamenco en Sevilla: qué tablao elegir (comparativa de los 5 shows)"
 descripcion: "Sevilla tiene 5 shows de flamenco reservables por separado, cada uno en un venue distinto. Comparamos precio, formato y ambiente para que elijas el que de verdad encaja contigo."
+respuestaCorta: 'Los cinco shows de flamenco reservables en Sevilla duran alrededor de una hora y cuestan **entre 25 y 48 €**. Elige **Casa de la Memoria** (26 €, solo dos filas) si buscas intimidad, **Teatro Flamenco Sevilla** (27 €) como opción más segura y con visión garantizada, y **Tablao El Arenal** (48 €) si quieres cenar durante el show. Todos tienen cancelación gratuita hasta 24 horas antes.'
 categoria: "sevilla"
 slug: "flamenco-sevilla-que-tablao-elegir"
 fecha: "2026-09-06"
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -56,7 +58,7 @@ Sevilla no tiene un único "show de flamenco" — tiene cinco venues distintos, 
 - **Dónde están:** Casa de la Memoria y el Museo del Baile Flamenco, en el centro, a cinco minutos de la Plaza del Salvador; el Teatro Flamenco Sevilla, también en el centro; El Arenal, junto a la plaza de toros de la Maestranza; el Teatro Flamenco Triana, cruzando el puente de Isabel II. Todos a pie desde el casco histórico.
 - **Llega 20-30 minutos antes:** salvo en los teatros, los asientos se ocupan por orden de llegada, y en Casa de la Memoria la diferencia entre primera y segunda fila es grande.
 - **Con cena o sin cena:** solo El Arenal la ofrece, servida antes y durante el show. Es correcta; si quieres cenar bien, tapea antes por el Arenal o Triana y compra solo entrada con bebida.
-- **Fotos y vídeo:** prohibidos durante la actuación en todos; al final suelen permitir unos segundos.
+- **Fotos y vídeo:** nunca con flash. El Museo del Baile Flamenco y el Teatro Flamenco Triana no los permiten durante la actuación; en el Teatro Flamenco Sevilla, la Casa de la Memoria y El Arenal suelen dejar hacer alguna foto sin flash. Pregunta al entrar.
 - **Niños:** entran en todos; a partir de los 7-8 años aguantan la hora. En Casa de la Memoria, con poco aforo y silencio total, mejor a partir de los 10.
 - **Calor:** los patios (Casa de la Memoria, Museo del Baile) no tienen aire acondicionado potente. En julio y agosto, elige el último pase o un teatro.
 

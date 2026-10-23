@@ -38,10 +38,10 @@ noIncluye:
 - Propinas
 - Transporte
 puntoEncuentro:
-  texto: La Casa de la Memoria está en **Calle Cuna 6** (08001 Sevilla, centro histórico). Edificio histórico del s. XV —
+  texto: La Casa de la Memoria está en **Calle Cuna 6** (41004 Sevilla, centro histórico). Edificio histórico del s. XV —
     entrada por la fachada principal con cartel «Casa de la Memoria». Llega 15-20 min antes del pase para garantizar asiento
     (los asientos NO son numerados).
-  descripcionGuia: 'Metro: Puerta de Jerez (línea 1, 12 min andando) o Estación Plaza Nueva (8 min). Tranvía MetroCentro:
+  descripcionGuia: 'Metro: Puerta de Jerez (línea 1, 12 min andando). Tranvía MetroCentro:
     Plaza Nueva (6 min andando). Autobús: paradas en Avenida de la Constitución. Calle Cuna está en el corazón del centro
     histórico, entre el Mercado de la Encarnación (Setas) y la Catedral. Llega 15-20 min antes del pase para asegurar buen
     asiento — los asientos NO son numerados, primero en llegar elige (la primera fila ofrece la experiencia más íntima).'
@@ -95,7 +95,7 @@ preguntasFrecuentes:
     grande, máximo volumen (18.292 reseñas), ubicación céntrica, desde 27 €. RECOMENDADO si quieres lo más reservado + asientos
     cómodos escalonados. **Museo del Baile Flamenco (Puro Flamenco):** Patio Ecija s.XVIII, coreografías de Cristina Hoyos,
     6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO si te interesa la calidad artística icónica. **Teatro Flamenco Triana:**
-    Teatro grande en Triana (cuna gitana del flamenco), 4.363 reseñas 4,7/5, desde 35 €. RECOMENDADO si quieres ambiente del
+    Teatro grande en Triana (cuna gitana del flamenco), 4.363 reseñas 4,7/5, desde 25 €. RECOMENDADO si quieres ambiente del
     barrio histórico flamenco. **Tablao El Arenal:** 50 años de historia, edificio s.XVII junto Maestranza, opción cena, desde
     48 €. RECOMENDADO si quieres tradición + cena.'
 - pregunta: ¿Vale la pena reservar la primera fila o cualquier fila vale?
@@ -125,8 +125,8 @@ opinionEditorial: 'El **flamenco más íntimo y mejor valorado de Sevilla** — 
   el formato más cercano a un flamenco "de cabales" (audiencia conocedora) en formato turístico abierto.
 
 
-  **Comparación de precios:** desde 26 € es **el más asequible** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
-  Sevilla 27 €, Museo del Baile Flamenco 32 €, Teatro Flamenco Triana 35 €, Tablao El Arenal 48 €). El precio bajo + calidad
+  **Comparación de precios:** desde 26 € es **de los más asequibles** de los 5 grandes flamencos de Sevilla (vs. Teatro
+  Flamenco Triana 25 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). El precio bajo + calidad
   artística internacional + intimidad máxima es la combinación que justifica el 4,8/5 y el 13.526 reseñas.
 
 
@@ -213,7 +213,7 @@ Un **espectáculo flamenco de 1 hora en el patio andaluz del s. XV de la Casa de
 - Parejas que prefieran ambiente íntimo (no hay grupos turísticos masivos).
 - Interesados en la **calidad artística internacional** (artistas en residencia rotan).
 - Visitantes que puedan llegar **20-30 min antes** para garantizar primera fila.
-- Quien busque la mejor relación calidad-precio (desde 26 €, el más asequible de los 5 grandes).
+- Quien busque la mejor relación calidad-precio (desde 26 €, de los más asequibles de los 5 grandes).
 
 ## A quién NO se lo recomiendo
 

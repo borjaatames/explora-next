@@ -59,7 +59,7 @@ preguntasFrecuentes:
   respuesta: Alquilando coche, moto o bici en La Savina, o en autobús.
 - pregunta: ¿Qué playa visito primero?
   respuesta: Ses Illetes, a unos 10 minutos de La Savina.
-opinionEditorial: 'Si prefieres ver Formentera a tu aire, esto es lo único que necesitas: el ferry rápido con horario libre y vuelta abierta. Por el mismo precio que en taquilla te ahorras la cola en temporada alta.'
+opinionEditorial: 'Si prefieres ver Formentera a tu aire, esto es lo único que necesitas: el ferry rápido con horario libre y vuelta abierta. Canjeas el bono en la taquilla de la terminal antes de embarcar.'
 guiasRelacionadas:
 - formentera-desde-ibiza
 categoria: transporte

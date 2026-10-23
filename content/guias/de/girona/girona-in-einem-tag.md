@@ -4,7 +4,7 @@ descripcion: "Girona in einem Tag: Kathedrale, El Call, die Häuser am Onyar und
 categoria: "girona"
 slug: "girona-in-einem-tag"
 fecha: "2026-04-25"
-fecha_actualizacion: "2026-04-25"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -62,7 +62,7 @@ Der Charme Girons liegt darin, dass es drei Städte in einer vereint: die mittel
 
 **9:30 — Häuser am Onyar.** Beginne mit der Überquerung der **Pont de les Peixateries Velles** — der roten eisernen Brücke, die von der Firma Eiffel errichtet wurde — für das klassische Foto der **bunten Häuser** über dem Fluss. Es ist das Bild, das Girona ausmacht.
 
-**10:00 — Kathedrale.** Steig zur **Kathedrale Santa María** über ihre **barocke Treppe** mit 90 Stufen hinauf (der Große Septon von Baelor in *Game of Thrones*). Im Inneren befindet sich das **breiteste gotische Kirchenschiff der Welt** (fast 23 Meter) sowie der berühmte **Schöpfungsteppich**, ein Juwel der Romanik. Direkt daneben die Basilika **Sant Feliu** mit ihrem unvollendeten Glockenturm.
+**10:00 — Kathedrale.** Steig zur **Kathedrale Santa María** über ihre **barocke Treppe** mit 90 Stufen hinauf (die Große Septe von Baelor in *Game of Thrones*). **Sonn- und feiertags öffnet sie erst um 12:00 Uhr**: Tausch sie an diesem Tag mit El Call. Im Inneren befindet sich das **breiteste gotische Kirchenschiff der Welt** (fast 23 Meter) sowie der berühmte **Schöpfungsteppich**, ein Juwel der Romanik. Direkt daneben die Basilika **Sant Feliu** mit ihrem unvollendeten Glockenturm.
 
 **11:30 — El Call.** Verlier dich in **El Call**, einem der **am besten erhaltenen mittelalterlichen jüdischen Viertel Europas**: enge Gassen, steinerne Treppen und versteckte Innenhöfe. Das **Museum für jüdische Geschichte** erzählt vom Leben der sephardischen Gemeinde vor 1492.
 

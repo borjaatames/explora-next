@@ -3,7 +3,7 @@ titulo: 'Sevilla: Espectáculo de Flamenco en el Teatro Flamenco Triana (Cuna Gi
 slug: teatro-flamenco-triana-show-en-directo
 ciudad: sevilla
 descripcion: Espectáculo flamenco de 1 hora en el Teatro Flamenco Triana — en el barrio histórico cuna gitana del flamenco
-  español. 4.363 reseñas con 4,7/5. Teatro hermoso con asientos cómodos, gran escenario para dance elaborado. Desde 35 €.
+  español. 4.363 reseñas con 4,7/5. Teatro hermoso con asientos cómodos, gran escenario para dance elaborado. Desde 25 €.
   La opción para vivir el flamenco en su contexto barrial auténtico (otro lado del Guadalquivir).
 slugs:
   es: teatro-flamenco-triana-show-en-directo
@@ -25,13 +25,12 @@ highlights:
 - Teatro hermoso con asientos cómodos y gran escenario — formato más teatral que tablao
 - 'Show de 1 hora con cuadro completo: bailaores, cantaores, guitarristas'
 - Al otro lado del río Guadalquivir — combina con paseo por Calle Betis (vistas a la Catedral)
-- Desde 35 € — precio medio entre los 5 grandes flamencos de Sevilla
+- Desde 25 € — el precio de partida más bajo entre los 5 grandes flamencos de Sevilla
 - Cancelación GRATUITA hasta 24 h antes
 - Pases múltiples diarios
 incluye:
 - Espectáculo flamenco en directo de 1 hora
-- Asiento cómodo en el teatro (zona según opción reservada)
-- Bebida incluida en opciones premium
+- Asiento numerado en el teatro (asignado por orden de compra)
 noIncluye:
 - Comida o cena (este producto NO incluye opción de cena)
 - Transporte hasta Triana
@@ -39,20 +38,20 @@ noIncluye:
 puntoEncuentro:
   texto: El Teatro Flamenco Triana está en el **barrio de Triana**, al otro lado del río Guadalquivir respecto al centro histórico.
     Cruzando el Puente de Triana o el Puente de San Telmo se llega andando en 10-15 min desde la Catedral. Verifica la dirección
-    exacta en el voucher (varía según la opción reservada).
+    exacta en el voucher.
   descripcionGuia: 'Desde el centro: cruza el **Puente de Triana** (el más famoso, hierro forjado de 1852) o el **Puente de
     San Telmo** (más al sur, mejor para llegar al teatro). Andando desde la Catedral: 15-20 min vía Plaza de Cuba. Metro:
     estación Plaza de Cuba (línea 1, 5 min andando hasta el teatro). Autobús: líneas 5, 6, 40, 43 paran en Triana. Llega 20-30
-    min antes — el teatro tiene asientos cómodos pero las mejores zonas se llenan pronto. **Combina la visita con un paseo
+    min antes para recoger tu número de asiento en taquilla. **Combina la visita con un paseo
     previo por Calle Betis** (vistas espectaculares al casco antiguo + Torre del Oro) o por el Mercado de Triana.'
-  latitud: 37.3812
-  longitud: -6.0019
+  latitud: 37.3833
+  longitud: -6.0006
   zoom: 16
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
-  edadMinima: 0
+  edadMinima: 6
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
@@ -67,12 +66,13 @@ informacionImportante:
   aTenerEnCuenta:
   - Triana es el **barrio histórico cuna gitana del flamenco** — Calle Castilla, Cava de los Gitanos, Plaza de Santa Ana son
     referencias del flamenco español
-  - Foto y vídeo habitualmente permitidos sin flash — verifica las reglas del show específico
+  - No se permiten fotos ni vídeos durante el espectáculo
+  - No se admiten menores de 6 años
   - Pases múltiples diarios — verifica disponibilidad al reservar
   - 'Combina con paseo previo: Calle Betis (riberas con vistas al casco antiguo), Mercado de Triana (gastronomía), Capilla
     del Carmen'
   - 'Después del show: Triana tiene decenas de bares de tapas auténticos en Plaza del Altozano y Calle Betis'
-  - Llega 20-30 min antes para asegurar buen asiento (depende de la opción)
+  - Los asientos son numerados y se asignan por orden de compra; recoge tu número en taquilla
 accesibilidad: El Teatro Flamenco Triana suele estar marcado como accesible — verifica al reservar. Las calles peatonales
   de Triana tienen suelo regular en su mayoría (no tantos adoquines como el Barrio Santa Cruz). El puente de Triana es accesible
   a pie y en silla de ruedas. Si necesitas accesibilidad confirmada, contacta al operador al reservar.
@@ -91,7 +91,7 @@ preguntasFrecuentes:
     — el flamenco en su lugar de origen vs. el flamenco como espectáculo turístico en el casco antiguo.'
 - pregunta: ¿Cuál es la diferencia con los otros 4 grandes flamencos de Sevilla?
   respuesta: '**Teatro Flamenco Triana (este):** Teatro en el barrio cuna gitana del flamenco, 4.363 reseñas 4,7/5, desde
-    35 €. RECOMENDADO si quieres el ambiente del barrio histórico flamenco (paseo por Calle Betis incluido). **Teatro Flamenco
+    25 €. RECOMENDADO si quieres el ambiente del barrio histórico flamenco (paseo por Calle Betis incluido). **Teatro Flamenco
     Sevilla:** Teatro grande en Barrio Santa Cruz, máximo volumen (18.292 reseñas), desde 27 €. RECOMENDADO si quieres lo
     más reservado + céntrico + asequible. **Casa de la Memoria:** Patio s.XV en centro histórico, INTIMIDAD MÁXIMA (2 filas),
     13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras intimidad máxima. **Museo del Baile Flamenco:** Patio Ecija s.XVIII
@@ -119,12 +119,9 @@ preguntasFrecuentes:
     profundo en el flamenco y suficiente conocimiento de español, las peñas son una experiencia única; para visitantes turísticos
     estándar, este Teatro Flamenco Triana es la opción que combina ambiente Triana + calidad profesional garantizada.
 variantes:
-- nombre: Standard
-  descripcion: Entrada al show en zona del teatro. Sin bebida incluida.
-  precio: 35
-- nombre: Premium
-  descripcion: Zona mejor del teatro + 1 bebida incluida.
-  precio: 45
+- nombre: Entrada general
+  descripcion: Entrada al espectáculo con asiento numerado asignado por orden de compra.
+  precio: 25
 opinionEditorial: 'El **flamenco en el barrio cuna del flamenco español** — Triana, al otro lado del río Guadalquivir, fue
   históricamente habitada por gitanos andaluces desde el s. XV. Los gitanos sevillanos fueron los que dieron forma al flamenco
   moderno entre los s. XVIII y XIX. Calles como Castilla, Cava de los Gitanos y Plaza de Santa Ana siguen siendo referencias
@@ -136,9 +133,9 @@ opinionEditorial: 'El **flamenco en el barrio cuna del flamenco español** — T
   del casco antiguo y muchos turistas eligen lo céntrico por comodidad, no por calidad.
 
 
-  **Comparación de precios:** desde 35 € es **el cuarto más caro** de los 5 grandes flamencos de Sevilla (vs. Casa de la Memoria
-  26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). El plus de 8 € sobre el Teatro
-  Flamenco Sevilla compra: experiencia en Triana + asientos cómodos en teatro hermoso + combinación con paseo por Calle Betis.
+  **Comparación de precios:** desde 25 € tiene **el precio de partida más bajo** de los 5 grandes flamencos de Sevilla (vs.
+  Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). Además suma
+  la experiencia en Triana, asientos cómodos en un teatro bonito y la combinación con un paseo por Calle Betis.
 
 
   **Para quién es:** visitantes con **interés cultural** en el barrio cuna del flamenco, viajeros que quieran **combinar con
@@ -147,7 +144,7 @@ opinionEditorial: 'El **flamenco en el barrio cuna del flamenco español** — T
   (Casa Cuesta, Las Golondrinas, Plaza del Altozano), viajeros con 2-3 días en Sevilla que ya hayan visto un flamenco céntrico
   y quieran añadir contexto. **Para quién NO:** visitantes con 1 día que prioricen ubicación céntrica (Teatro Flamenco Sevilla
   o Casa de la Memoria), quien busque intimidad de 2 filas (Casa de la Memoria), quien quiera cena incluida (Tablao El Arenal),
-  quien priorice precio bajo (Casa de la Memoria o Teatro Flamenco Sevilla son más baratos), quien quiera la calidad artística
+  quien quiera la calidad artística
   icónica de Cristina Hoyos (Museo del Baile Flamenco).
 
   '
@@ -203,15 +200,15 @@ Un **espectáculo flamenco de 1 hora en el Teatro Flamenco Triana** — en el ba
 
 ## Cómo funciona
 
-**Reserva tu fecha, pase y opción** (Standard 35 € o Premium 45 €). Verifica la dirección exacta del teatro en el voucher.
+**Reserva tu fecha y pase** (desde 25 €). Verifica la dirección exacta del teatro en el voucher.
 
 **Llega al teatro 20-30 min antes** del pase. Desde el centro: cruza el Puente de Triana o de San Telmo (15-20 min andando). Metro Plaza de Cuba (5 min). Autobús líneas 5, 6, 40, 43.
 
 **Combina con un paseo previo por Triana**: Calle Betis (riberas con vistas espectaculares al casco antiguo + Torre del Oro), Mercado de Triana (gastronomía), Capilla del Carmen (capilla marinera en el extremo del Puente de Triana).
 
-**Presenta tu voucher móvil en la entrada.** El personal te indica tu zona.
+**Presenta tu voucher móvil en taquilla** para recoger tu número de asiento (asignado por orden de compra).
 
-**Disfruta del show de 1 hora.** Foto sin flash habitualmente permitida — verifica reglas al inicio. Aplaude entre piezas como signo de respeto.
+**Disfruta del show de 1 hora.** No se permiten fotos ni vídeos durante el espectáculo. Aplaude entre piezas como signo de respeto.
 
 **Después del show**, Triana tiene decenas de bares auténticos en Plaza del Altozano y Calle Betis para tomar la última copa o cenar tarde: Casa Cuesta, Las Golondrinas, La Antigua Abacería, El Sardinero.
 
@@ -228,5 +225,4 @@ Un **espectáculo flamenco de 1 hora en el Teatro Flamenco Triana** — en el ba
 - Visitantes con **1 día** que prioricen ubicación céntrica (Teatro Flamenco Sevilla o Casa de la Memoria).
 - Quien busque **intimidad de 2 filas** (Casa de la Memoria es mejor).
 - Quien quiera **cena incluida** con show (Tablao El Arenal).
-- Quien priorice **precio bajo** (Casa de la Memoria o Teatro Flamenco Sevilla son más baratos).
 - Quien quiera la **calidad artística icónica de Cristina Hoyos** (Museo del Baile Flamenco).

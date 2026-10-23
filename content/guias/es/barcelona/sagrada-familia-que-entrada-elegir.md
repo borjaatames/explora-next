@@ -1,9 +1,11 @@
 ---
 titulo: "Sagrada Família: qué entrada o tour elegir (comparativa)"
 descripcion: "La Sagrada Família tiene 7 opciones reservables por separado: 3 centradas solo en la basílica y 4 que la combinan con Park Güell u otros monumentos de Barcelona. Comparamos precio y qué incluye cada una."
+respuestaCorta: 'Para la basílica sola, la **entrada con audioguía desde 34 €** es la opción reservable más barata, y el **tour guiado con torre (desde 75 €)** es el único que sube a una torre. Para sumar el Park Güell sin perder el día, el **combinado guiado de 4 horas (desde 104 €)** cubre ambos. Reserva con semanas: la entrada va por franja y **no se vende en taquilla**.'
 categoria: "barcelona"
 slug: "sagrada-familia-que-entrada-elegir"
 fecha: "2026-09-20"
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -62,9 +64,9 @@ La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres
 ## Lo que debes saber antes de ir
 
 - **Entradas oficiales:** la básica con audioguía cuesta 26 € en la web de la Sagrada Família; con torre, 36 €. Los tours de la tabla salen más caros porque añaden guía, grupo reducido o acceso prioritario; compara qué incluye cada uno antes de pagar la diferencia.
-- **Reserva con antelación:** las franjas de mañana se agotan con una o dos semanas en temporada alta, y las torres antes. En taquilla no se venden entradas.
+- **Reserva con antelación:** en 2026 las franjas de mañana se agotan con semanas de antelación, y las torres antes. En taquilla no se venden entradas.
 - **Entrada por franja:** 15 minutos de margen a partir de la hora reservada. Lleva el DNI o pasaporte: las entradas son nominativas y lo piden.
-- **Las dos torres:** la de la Pasión tiene mejores vistas de la ciudad y se baja por una escalera de caracol estrecha de 400 escalones; la del Nacimiento mira a la fachada original de Gaudí. No suben menores de 6 años ni personas con movilidad reducida, y cierran con lluvia o viento.
+- **La torre:** solo se sube a una y no la eliges: el monumento la asigna según el día y las obras. Se sube en ascensor y se baja por una escalera de caracol estrecha. No suben menores de 6 años ni personas con movilidad reducida, y cierra con lluvia o viento.
 - **Vestimenta:** es una basílica en uso. No dejan entrar con hombros descubiertos, tirantes finos, escotes, pantalones o faldas por encima de medio muslo, ni con gorra. En verano, lleva un pañuelo en la mochila.
 - **Mejor hora:** entre las 10:00 y las 12:00 la luz entra por las vidrieras del Nacimiento (verdes y azules); a última hora de la tarde, por las de la Pasión (rojas y naranjas). Si solo puedes una, la tarde.
 - **Cómo llegar:** metro Sagrada Família (L2 y L5), salida en la misma plaza. La entrada de visitantes es por la calle Marina, fachada del Nacimiento.

@@ -4,7 +4,7 @@ descripcion: "Wie man einen Tag in Sevilla ab Madrid mit dem AVE optimal nutzt: 
 categoria: "sevilla"
 slug: "sevilla-in-einem-tag"
 fecha: "2026-03-15"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -84,7 +84,7 @@ Das deckt **die vier Highlights ab, die du selbst wählen würdest** (Alcázar, 
 
 **Das erste Ziel des Tages**, keine Frage. Gründe:
 
-- ⚠️ **Online-Ticket unverzichtbar**: rund **20 €** (Preis 2026, auf alcazarsevilla.org prüfen). Ohne Reservierung riskierst du 30-45 Minuten Schlange und verlierst einen halben Vormittag.
+- ⚠️ **Online-Ticket unverzichtbar**: **15,50 €** regulär (Preis 2026, offiziell auf alcazarsevilla.org). Ohne Reservierung riskierst du 30-45 Minuten Schlange und verlierst einen halben Vormittag.
 - **Slot um 10:00 Uhr**: der Alcázar bei Öffnung ist deutlich weniger überlaufen als mittags.
 - **Es ist Sevillas Aushängeschild.** Der älteste noch genutzte Königspalast Europas.
 

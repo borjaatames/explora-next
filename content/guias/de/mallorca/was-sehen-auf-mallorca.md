@@ -4,7 +4,7 @@ descripcion: "Mallorca-Ratgeber: Kathedrale von Palma, Serra de Tramuntana, Vall
 categoria: "mallorca"
 slug: "was-sehen-auf-mallorca"
 fecha: "2026-03-07"
-fecha_actualizacion: "2026-03-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -79,7 +79,7 @@ Der Osten vereint die **Höhlen** und die postkartenreifen **Buchten**. Die **Dr
 
 ## Der Norden: Alcúdia und Formentor
 
-Im Norden die **ummauerte Stadt Alcúdia** (mit dem römischen Pollentia daneben), die langen familienfreundlichen Strände von **Muro und Alcúdia**, das Dorf **Pollença** mit seinen 365 Stufen des Calvari, und das spektakuläre **Cap de Formentor**, der Leuchtturm am Ende der Bergkette (im Sommer ist die Anfahrt mit dem Auto eingeschränkt; es gibt einen Shuttlebus).
+Im Norden die **ummauerte Stadt Alcúdia** (mit dem römischen Pollentia daneben), die langen familienfreundlichen Strände von **Muro und Alcúdia**, das Dorf **Pollença** mit seinen 365 Stufen des Calvari, und das spektakuläre **Cap de Formentor**, der Leuchtturm am Ende der Bergkette (vom 15. Mai bis 18. Oktober, 10:00–22:00 Uhr, dürfen Autos nur bis zum Strandparkplatz von Formentor fahren, solange Plätze frei sind; der Abschnitt zum Leuchtturm ist gesperrt. Alternative: TIB-Bus 334 ab Alcúdia und Port de Pollença).
 
 ## Wo man übernachtet
 

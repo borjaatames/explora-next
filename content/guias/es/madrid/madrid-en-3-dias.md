@@ -1,10 +1,11 @@
 ---
 titulo: "Madrid en 3 días: ruta con criterio para una visita europea"
 descripcion: "Madrid en 3 días con criterio: Prado, El Escorial, Valle de Cuelgamuros, Chamberí y qué evitar. Ruta honesta para entender la ciudad sin postales."
+respuestaCorta: 'Dedica el **día 1 al Prado** (15 €, a las 10:00), el Barrio de las Letras y el atardecer en Debod; el **día 2 a El Escorial y el Valle de Cuelgamuros** (Cercanías C-3; cierran los lunes), y el **día 3 al Retiro y Chamberí**, con el Reina Sofía si te quedan fuerzas. Compra el Prado online para saltarte la cola.'
 categoria: "madrid"
 slug: "madrid-en-3-dias"
 fecha: "2026-02-15"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -52,7 +53,7 @@ Después de años recibiendo a amigos que vienen a Madrid por primera vez, esta 
 
 **13:00 — Barrio de las Letras**, a cinco minutos: frases de Cervantes, Quevedo y Lope en el suelo, las plazas de Santa Ana y del Ángel y los espejos de Valle-Inclán en el Callejón del Gato. Come en las transversales de Huertas, no en Huertas.
 
-**16:30 — Plaza Mayor** (15 minutos y una foto), el Mercado de San Miguel (caro y turístico, media hora para el ambiente) y el **Palacio Real** (12 €; el mayor de Europa occidental, y si no entraste al Prado lleno, aquí sí merece pagar). Los Jardines de Sabatini, al lado, gratis.
+**16:30 — Plaza Mayor** (15 minutos y una foto), el Mercado de San Miguel (caro y turístico, media hora para el ambiente) y el **Palacio Real** (el mayor de Europa occidental; unos 45 minutos por libre, y gratis para ciudadanos de la UE e iberoamericanos de lunes a jueves en las dos últimas horas: 16:00-18:00 de octubre a marzo y 17:00-19:00 de abril a septiembre). Los Jardines de Sabatini, al lado, gratis.
 
 **Atardecer — Templo de Debod:** templo egipcio del siglo II a.C. con el Palacio Real y la sierra al fondo, gratis. Llega 45 minutos antes del ocaso.
 
@@ -62,7 +63,7 @@ Después de años recibiendo a amigos que vienen a Madrid por primera vez, esta 
 
 El día que hace distinta la ruta: a menos de una hora, dos monumentos que explican España mejor que cualquier libro.
 
-**El Escorial.** Palacio, monasterio, basílica, biblioteca y panteón de Felipe II en un solo edificio, Patrimonio de la Humanidad. Entrada 14 € (7 € reducida), de 10:00 a 18:00 en invierno y hasta las 19:00 de abril a septiembre; **cierra los lunes**. Cercanías C-3 desde Atocha o Chamartín (1 hora; 8,50 € ida y vuelta) y 15-20 minutos a pie desde la estación. 2-3 horas.
+**El Escorial.** Palacio, monasterio, basílica, biblioteca y panteón de Felipe II en un solo edificio, Patrimonio de la Humanidad. Entrada 14 € (7 € reducida), de 10:00 a 18:00 en invierno y hasta las 19:00 de abril a septiembre; **cierra los lunes**; gratis para ciudadanos de la UE e iberoamericanos los miércoles y domingos desde las 15:00, con cola. Cercanías C-3 desde Atocha o Chamartín (1 hora; 8,50 € ida y vuelta) y 15-20 minutos a pie cuesta arriba desde la estación, o autobús 661/664 desde Moncloa (50 minutos), que para junto al monasterio. 2-3 horas, y lleva una capa: dentro hace frío incluso en verano.
 
 **Valle de Cuelgamuros**, a 9 km. Hasta 2022, Valle de los Caídos: construido entre 1940 y 1958 por orden de Franco con trabajo forzado de presos republicanos, hoy lugar de memoria democrática con los restos de más de 33.000 personas de ambos bandos; Franco fue exhumado en 2019. La basílica excavada en la roca mide 262 metros y la cruz, 150. Impresionante como obra e incómoda como historia, y por eso necesaria. Entrada 9 € (4 € reducida), cierra los lunes, gratis para la UE los miércoles y domingos por la tarde. En coche, 15 minutos desde el monasterio; sin coche, autobús local desde San Lorenzo o una excursión que combina los dos. Quien prefiera saltárselo vuelve a Madrid con la tarde libre.
 
@@ -84,7 +85,7 @@ El día que hace distinta la ruta: a menos de una hora, dos monumentos que expli
 
 ## Práctico
 
-- **Transporte:** Abono Turístico de zona A, 8,40 € un día y 35 € siete días, con metro, autobús y Cercanías ilimitados; rentable el día de El Escorial.
+- **Transporte:** Abono Turístico de zona A, 10,30 € un día y 43,20 € siete días (2026), con metro, autobús y Cercanías ilimitados dentro de la ciudad. No llega a El Escorial (hace falta la zona T, 15,40 € al día), así que para el día 2 suele salir más barato el Cercanías de ida y vuelta.
 - **Horarios gratis:** Prado de lunes a sábado 18:00-20:00 y domingos 17:00-19:00; Reina Sofía lunes y de miércoles a sábado 19:00-21:00 y domingos 12:30-14:30; Thyssen los lunes de 12:00 a 16:00. Más en [Madrid gratis](/guias/madrid/madrid-gratis).
 - **Cierres:** El Escorial y Cuelgamuros, los lunes; el Prado, el 1 de enero, 1 de mayo y 25 de diciembre.
 - **Cenas:** los restaurantes serios abren a las 20:00-20:30; adáptate al horario, no al revés.

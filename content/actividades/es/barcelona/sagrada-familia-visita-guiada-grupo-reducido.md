@@ -72,7 +72,7 @@ preguntasFrecuentes:
   respuesta: El guía oficial trabaja en varios idiomas, entre ellos español e inglés. Eliges el idioma al reservar; comprueba
     la disponibilidad en tu fecha.
 - pregunta: ¿Cuánto dura y qué se ve?
-  respuesta: Una hora y media. El recorrido cubre la fachada del Nacimiento, el interior de la basílica, la fachada de la
+  respuesta: Alrededor de 1 hora y 45 minutos. El recorrido cubre la fachada del Nacimiento, el interior de la basílica, la fachada de la
     Pasión y la escuela de la Sagrada Familia.
 variantes:
 - sagrada-familia-visita-guiada-sin-colas

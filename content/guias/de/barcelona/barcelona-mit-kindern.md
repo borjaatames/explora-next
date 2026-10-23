@@ -4,7 +4,7 @@ descripcion: "Barcelona mit Kindern ohne Stress: CosmoCaixa, Tibidabo, die Sagra
 categoria: "barcelona"
 slug: "barcelona-mit-kindern"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -172,7 +172,7 @@ Drei Viertel, die für Familien funktionieren:
 
 **7. Um 19:00 Uhr zu Abend essen wollen.** Die meisten katalanischen Küchen öffnen erst um 20:30 Uhr. Um 19:00 Uhr landest du auf einer touristischen Terrasse.
 
-**8. Die Metro nicht nutzen.** Die T-Casual (10 Fahrten, 12,55 €) rentiert sich schon ab dem ersten Tag. Alles zu Fuß zu gehen ist erschöpfend.
+**8. Die Metro nicht nutzen.** Die T-Casual (10 Fahrten, 13 € im Jahr 2026) rentiert sich schon ab dem ersten Tag. Alles zu Fuß zu gehen ist erschöpfend.
 
 ## In einem Satz
 

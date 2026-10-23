@@ -59,7 +59,7 @@ Three days is the right number for a first visit to Barcelona: Gaudí properly, 
 | Mobile World Congress (late February or March) | Avoid: hotels triple their prices |
 
 - **Airport:** R2 Nord train to Sants or Passeig de Gràcia (€5, 25 minutes), Aerobús (€7.25) or taxi (€30–35). **AVE:** 2h 30min from Madrid to Sants (€50–90 booked ahead). **Car:** don't; parking is €25–35 a night and the centre is a low-emission zone.
-- **Getting around:** the T-casual card gives 10 journeys for €12.15 (as of 2026) and covers the Montjuïc funicular. The metro closes at midnight on weekdays, at 2 AM on Fridays and runs all night on Saturdays.
+- **Getting around:** the T-casual card gives 10 journeys for €13 (as of 2026; a single ticket is €2.90) and covers the Montjuïc funicular. The metro closes at midnight on weekdays, at 2 AM on Fridays and runs all night on Saturdays.
 - **Where to stay:** Eixample, El Born, Sant Antoni or Gràcia. **Avoid** Las Ramblas and Plaça de Catalunya (expensive, noisy, pickpockets), Barceloneta and the northern Raval at night.
 
 ## Day 1: Sagrada Familia, Eixample and Casa Batlló

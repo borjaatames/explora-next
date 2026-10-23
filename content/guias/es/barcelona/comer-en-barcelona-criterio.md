@@ -1,10 +1,11 @@
 ---
 titulo: "Comer en Barcelona: tapas, vermut y cocina catalana"
 descripcion: "Dónde comer bien en Barcelona: tapas auténticas, cenas catalanas, brunch y vermut. Sitios concretos por barrio y trampas turísticas a evitar."
+respuestaCorta: 'Come donde comen los barceloneses: **Sant Antoni, Born, Gràcia y Poble Sec**, nunca en las Ramblas. Haz el **vermut de grifo** a mediodía el fin de semana, pide bomba, pa amb tomàquet y fideuà en vez de paella o sangría, y reserva en Bar Cañete, Cal Pep y Bar del Pla. Se cena **desde las 20:30**.'
 categoria: "barcelona"
 slug: "comer-en-barcelona-criterio"
 fecha: "2026-04-29"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -22,6 +23,7 @@ slugs:
   es: comer-en-barcelona-criterio
   en: eating-in-barcelona-with-criteria
   de: essen-in-barcelona
+reservasArriba: true
 actividades:
   - tour-gastronomico-mediodia-boqueria-vinos
   - tour-tapas-y-vino-noche
@@ -69,7 +71,7 @@ Si quieres comer a las 17:00 o cenar a las 19:30, te toca bar de turistas.
 
 ## Rápido y bien
 
-**Conesa Entrepans** (Llibreteria, 1, Gòtic): bikinis desde 1951 por menos de 8 €. Y las dos únicas excepciones a «no comas en la Boqueria»: **El Quim** (huevos con chipirones) y **Bar Pinotxo** (garbanzos con morcilla), en barra, entre semana y antes de las 9:00.
+**Conesa Entrepans** (Llibreteria, 1, Gòtic): bikinis desde 1951 por menos de 8 €. La única excepción a «no comas en la Boqueria» es **El Quim** (huevos con chipirones), en barra, entre semana y antes de las 9:00. El **Bar Pinotxo** (garbanzos con morcilla) ya no está en la Boqueria: desde 2023 sirve en el **Mercat de Sant Antoni** (Ronda de Sant Antoni, 18).
 
 ## Las cuatro zonas
 

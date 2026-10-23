@@ -1,6 +1,6 @@
 ---
 titulo: "Park Güell: which ticket to choose"
-descripcion: "Park Güell has 2 separately bookable tickets: the basic monumental zone ticket and the combined ticket with the Gaudí House Museum. We compare price, what each includes, and who each one is best for."
+descripcion: "Park Güell basic ticket (€23) or ticket with the Gaudí House Museum (€30)? What each includes, timed-entry rules, hours and how to get there."
 categoria: "barcelona"
 slug: "park-guell-which-ticket-to-choose"
 fecha: "2026-09-20"
@@ -19,7 +19,9 @@ slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
   de: park-guell-welches-ticket-waehlen
+fecha_actualizacion: "2026-10-23"
 reservasArriba: true
+respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €23** is enough. For €7 more, the **ticket with the Gaudí House Museum** (€30) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
@@ -40,6 +42,42 @@ Park Güell has two tickets you can book separately: the basic ticket to the mon
 - **Want to see where Gaudí actually lived:** ticket + Gaudí House Museum (€30).
 - **Want to pair it with the Sagrada Família:** there are 4 options that combine both — see our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose).
 
-## Things to know before booking
+## What each ticket actually gets you
 
-Both options use a fixed entry time slot — arrive 10-15 minutes before your slot, not earlier or later. Neither includes a guide: the skip-the-line monumental zone ticket is rated 4.4/5 from over 81,000 reviews and you explore at your own pace with the on-site panels. In high season (June-September) tickets sell out days or weeks ahead, so it's worth booking as soon as you have travel dates.
+**The basic ticket (€23)** covers the gated monumental zone: the mosaic dragon on the main staircase, the Hypostyle Hall with its 86 columns, the Nature Square with the long serpentine bench, and the porticoes. It also includes the Casa del Guarda, the gatekeeper's pavilion at the entrance, subject to capacity. It's the best-selling option, rated 4.4/5 from over 81,000 reviews, and most people spend 1.5-2 hours inside.
+
+[actividad: park-guell-admission-ticket]
+
+**The combined ticket (€30)** adds the Gaudí House Museum, the house where Gaudí lived from 1906 to 1925, with furniture he designed for himself and personal objects. Know what you're paying for:
+
+- **It's small.** Two floors, about 45 minutes. Don't expect a big museum.
+- **It's a different building from the Casa del Guarda.** The museum sits higher up the park, a 10-15 minute walk uphill from the lower entrance. The combined ticket does not include the Casa del Guarda.
+- **It closes earlier than the park**, roughly an hour before, so don't leave it for the end of the day.
+- **It's rated slightly higher** (4.5/5, about 7,500 reviews), mostly by people who came for Gaudí's story.
+
+Choose the combined ticket if you're planning the Sagrada Família, Casa Batlló or La Pedrera and want the background first. Skip it if you're short on time, travelling with young children, or not interested in Gaudí's life.
+
+## Before you book
+
+- **Both tickets are non-refundable.** No cancellation, no date change. If your plans might move, book once they're fixed.
+- **The official site is cheaper if your date is available.** Park Güell's own website sells general entry for €18 (as of 2026). The tickets above cost more; compare before paying.
+- **Restoration works in 2026:** the Nature Square and the Hypostyle Hall are partially closed. You still see them, but not every corner. Check your confirmation for the latest status.
+- **High season sells out.** From June to September, slots go days or weeks ahead. Mornings sell first.
+
+## On the day
+
+- **Timed entry:** you can enter up to 30 minutes after the start of your slot; after that you lose your entry. Once inside there's no time limit, but you can't leave and come back.
+- **Opening times:** ticketed slots run from 9:30 to 19:30 for most of the year (from 9:00 in July and August), with earlier last entry from late October to March — around 17:30 in winter. Check the hours for your date.
+- **Best time:** the first and last slots of the day are cooler, with softer light and fewer people. At midday the bench terrace is packed.
+- **Getting there:** the park sits on a hill above Gràcia. From metro Lesseps or Vallcarca (L3) it's about a 20-minute walk, mostly uphill. Buses H6 and D40 stop at Travessera de Dalt, about 10 minutes away. There's a taxi stand on Carretera del Carmel, and the Bus Turístic stops on Av. de la Mare de Déu de Montserrat, 10 minutes' walk.
+- **Pick your entrance.** The park has several, and your ticket works at all of them. Carretera del Carmel is the most practical (escalator from Av. Pompeu Fabra); Carrer Larrard is the classic one but a longer climb from Lesseps.
+- **Accessibility:** the monumental zone has ramps, but the whole park is on a slope with stairs, and the upper viewpoints mean real climbing. With a wheelchair or pushchair, use the Carretera del Carmel side. The Gaudí House Museum has stairs inside.
+- **What to bring:** a charged phone (mobile voucher), comfortable shoes, water — there's no fountain inside the monumental zone — and a cap in summer, as the terrace has almost no shade.
+
+## The free part of the park
+
+Your ticket only covers the monumental zone. The rest of the park — the woodland paths and the viewpoint at the Turó de les Tres Creus — is free and doesn't need a booking. If you have an extra hour, walk up to the viewpoint after your slot for the best view over Barcelona; allow about 3 hours in total.
+
+## Which one we'd book
+
+For most first visits, the basic €23 ticket is enough: it covers everything people picture when they think of Park Güell. Add the museum (€30) if Gaudí himself is part of why you're in Barcelona. If you'd rather have a guide explain what you're seeing, or want to do Park Güell and the Sagrada Família in one go, the combined guided tours in our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose) include both entries.

@@ -4,7 +4,7 @@ descripcion: "The best beaches of Cádiz and the Costa de la Luz: La Caleta, La 
 categoria: "cadiz"
 slug: "cadiz-beaches-costa-de-la-luz"
 fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -21,6 +21,8 @@ slugs:
   es: playas-cadiz-costa-de-la-luz
   en: cadiz-beaches-costa-de-la-luz
   de: straende-costa-de-la-luz-cadiz
+respuestaCorta: 'The best beaches of Cádiz are **La Caleta** and La Victoria in the city, and on the Costa de la Luz **Bolonia** (dune and Roman ruins), **Zahara de los Atunes**, Los Caños de Meca, El Palmar and Tarifa. Choose by the wind: with **poniente** any open beach works; with strong **levante**, pick a sheltered cove. Sunset catamaran trips from Cádiz start **from €25**.'
+reservasArriba: true
 actividades:
   - catamaran-cadiz-atardecer
   - avistamiento-delfines-trafalgar-barbate
@@ -61,13 +63,37 @@ The local rule: with **poniente** (westerly), a perfect beach; with strong **lev
 - **La Barrosa (Chiclana).** Very long and family-friendly, with services.
 - **Tarifa (Los Lances, Valdevaqueros).** The **wind** paradise: kite and windsurf, with Africa on the horizon.
 
+## Getting there and parking
+
+| From Cádiz city to | By car |
+| --- | --- |
+| La Barrosa (Chiclana) | 30 min |
+| Los Caños de Meca, El Palmar | 1 h |
+| Bolonia, Zahara de los Atunes | 1 h 15 |
+| Tarifa | 1 h 30 |
+
+- **City beaches:** La Caleta, La Victoria and Santa María del Mar are walkable or reached on city buses 1 and 7; Cortadura on the 1.
+- **Province beaches:** there's no practical public transport for a beach day; you need a car or an organised trip.
+- **Parking:** spaces close to the sand at Bolonia, Los Caños and El Palmar are limited and fill by late morning in August. Never leave the car on the verge.
+
+## Tides, water and safety
+
+- **Tides:** the Atlantic rises and falls 2–3 metres. At low tide La Caleta and Bolonia double in size and natural pools appear; at high tide some coves at Los Caños have no sand left. Check the day's tide table before setting off.
+- **Water:** 18–20 °C in June, 21–23 °C in August and September. **October** is the secret month: mild water, empty beaches and less levante.
+- **Currents:** yellow flags are common and not decorative. With children, choose beaches with lifeguards (La Victoria, La Barrosa, Zahara).
+- **Services:** Zahara, Los Caños and El Palmar have beach bars (almadraba tuna in Zahara, May to June); Bolonia has a few simple ones; Cortadura and long stretches of the Tarifa beaches have none. Bring water and shade.
+
+## Baelo Claudia, next to Bolonia
+
+The Roman town sits on Bolonia beach itself. Entry is free for EU citizens. In summer visits run in set time slots, so check the times on the site's page at museosdeandalucia.es (or call 956 106 797) before planning a morning there.
+
 ## The levante factor
 
-> **⚠️ Warning:** the **levante** (easterly land wind) can make an open beach like Bolonia or Los Lances impossible in any season. If it blows hard, head for a sheltered cove or switch the plan to the old town. In Tarifa, by contrast, the wind is the attraction (for sports).
+> **Warning:** the **levante** (easterly land wind) can make an open beach like Bolonia or Los Lances impossible in any season. If it blows hard, head for a sheltered cove or switch the plan to the old town. In Tarifa, by contrast, the wind is the attraction (for sports).
 
 ## When to go
 
-**May to October** for swimming (the Atlantic is cooler than the Mediterranean). **July and August** fill the urban beaches and the towns; the wild ones cope better. Mind the **tides**: at low tide, beaches like La Caleta or Bolonia gain a lot of sand.
+**May to October** for swimming (the Atlantic is cooler than the Mediterranean). **July and August** fill the urban beaches and the towns; the wild ones cope better.
 
 ## What we don't recommend
 
@@ -79,8 +105,6 @@ The local rule: with **poniente** (westerly), a perfect beach; with strong **lev
 [actividad: avistamiento-delfines-trafalgar-barbate]
 
 ## Common mistakes
-
-> **⚠️ Warning:** the slip-ups we see most.
 
 1. **Confusing the urban beaches with the wild ones.** They're very different experiences.
 2. **Not booking in Zahara or Los Caños** in August: small towns that fill up.

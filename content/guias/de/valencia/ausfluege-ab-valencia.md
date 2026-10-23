@@ -4,7 +4,7 @@ descripcion: "Die besten Tagesausflüge ab Valencia: die Albufera, Sagunto, Xàt
 categoria: "valencia"
 slug: "ausfluege-ab-valencia"
 fecha: "2026-04-08"
-fecha_actualizacion: "2026-04-08"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -46,7 +46,7 @@ Der nächstgelegene und unverzichtbare ist die **Albufera**, nur 20 Minuten entf
 
 ## Die Albufera und El Palmar
 
-Nur 20 Minuten vom Zentrum entfernt (Bus 25 ab Plaza de la Reina oder mit dem Auto) liegt der **Naturpark der Albufera**, ein großer See, umgeben von Reisfeldern und Barracas, wo die Paella geboren wurde. Machen Sie bei Sonnenuntergang eine **Bootsfahrt** zwischen den Reisfeldern – einer der schönsten Pläne in der Nähe der Stadt – und essen Sie eine **echte valencianische Paella** in **El Palmar**, der Hauptstadt des Reises. Ein perfekter halber Tag. Wir verbinden diesen Ausflug mit dem zweiten Tag von [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen).
+Mit dem Auto 20–25 Minuten vom Zentrum entfernt, mit den EMT-Bussen 24 und 25 ab Plaza de la Reina etwa 45 Minuten (seit Juni 2026 ungefähr alle 25–35 Minuten), liegt der **Naturpark der Albufera**, ein großer See, umgeben von Reisfeldern und Barracas, wo die Paella geboren wurde. Machen Sie bei Sonnenuntergang eine **Bootsfahrt** zwischen den Reisfeldern – einer der schönsten Pläne in der Nähe der Stadt – und essen Sie eine **echte valencianische Paella** in **El Palmar**, der Hauptstadt des Reises. Ein perfekter halber Tag. Wir verbinden diesen Ausflug mit dem zweiten Tag von [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen).
 
 ## Sagunto
 
@@ -78,7 +78,7 @@ Viele Ausflüge lassen sich **mit dem Nahverkehrszug** erledigen (Sagunto, Xàti
 
 > **⚠️ Hinweis:** Die Fehler, die wir am häufigsten sehen.
 
-1. **Das Boot in der Albufera oder die Paella in El Palmar am Wochenende nicht reservieren.**
+1. **Am Wochenende keinen Tisch in El Palmar reservieren** oder zu spät zum Boot bei Sonnenuntergang kommen (die Boote fahren ohne Reservierung, nach Reihenfolge der Ankunft).
 2. **Vergessen, dass viele Burgen mittags oder montags geschlossen sind.** Prüfen Sie die Öffnungszeiten.
 3. **Die Sommerhitze an den Burgen ohne Schatten unterschätzen** (Sagunto, Xàtiva); gehen Sie früh morgens.
 

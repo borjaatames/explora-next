@@ -1,10 +1,11 @@
 ---
 titulo: "Isla de Tabarca: cómo visitarla desde Alicante (barco y consejos)"
 descripcion: "Guía para visitar la Isla de Tabarca: cómo llegar en barco desde Alicante o Santa Pola, qué ver y hacer, snorkel en la reserva marina, dónde comer y qué llevar."
+respuestaCorta: 'Para ir a Tabarca, coge el barco desde el puerto de Alicante (alrededor de 1 hora; ida y vuelta **desde 25 €**) o el ferry desde Santa Pola (unos 30 minutos; **desde 9 €**). Calcula **4-5 horas en la isla** para el pueblo amurallado, un baño con snorkel en la reserva marina y un caldero, y mira antes la hora del último barco de vuelta.'
 categoria: "alicante"
 slug: "isla-de-tabarca-como-visitar"
 fecha: "2026-04-06"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -21,6 +22,7 @@ slugs:
   es: isla-de-tabarca-como-visitar
   en: tabarca-island-how-to-visit
   de: isla-de-tabarca-besichtigen
+reservasArriba: true
 actividades:
   - ferry-santa-pola-tabarca
   - barco-alicante-isla-tabarca-ida-vuelta
@@ -69,7 +71,7 @@ De **mayo a octubre** para baño y snorkel. **Julio y agosto** se llena (ve en e
 
 ## Lo práctico: barcos, horarios y dinero
 
-- **Precios del barco:** desde Alicante, 25-30 € ida y vuelta por adulto (niños, la mitad); desde Santa Pola, 15-20 €, con salidas cada 30-60 minutos en verano. Los billetes son de ida y vuelta con la misma naviera: fíjate en la hora del último barco, que en verano sale de la isla entre las 18:00 y las 19:30 y fuera de temporada mucho antes.
+- **Precios y horarios del barco:** desde Alicante (Kontiki), salidas diarias a las 10:45 y 12:15 y vueltas desde Tabarca normalmente a las 16:00 y 17:30 (los lunes, 16:00 y 17:00); Kontiki publica 24 € ida y vuelta por adulto, gratis menores de 5, y la reserva de arriba sale desde 25 € con vuelta abierta. Desde Santa Pola, desde 9 € ida y vuelta, 30 minutos de travesía y salidas cada hora en temporada (menos fuera de ella). Los billetes son de ida y vuelta con la misma naviera: fíjate en la hora de su último barco, que desde Alicante puede ser a las 17:00 y fuera de temporada antes. Confirma los horarios en la taquilla al recoger los billetes.
 - **Cuánto tiempo necesitas:** 4-5 horas en la isla dan para el pueblo, un baño largo con snorkel y comer. El día entero solo compensa si vas a quedarte en las calas de la parte salvaje.
 - **No hay cajero** y varios bares solo aceptan efectivo. Tampoco hay coches, ni farmacia, ni apenas sombra fuera del pueblo.
 - **Reserva marina:** prohibido pescar, coger conchas o arrancar posidonia, y fondear fuera de las boyas. Hay vigilancia y multas.

@@ -71,7 +71,7 @@ preguntasFrecuentes:
   respuesta: The official guide works in several languages, including Spanish and English. You choose the language at booking;
     check availability for your date.
 - pregunta: How long is it and what do you see?
-  respuesta: An hour and a half. The route covers the Nativity façade, the basilica interior, the Passion façade and the Sagrada
+  respuesta: About 1 hour 45 minutes. The route covers the Nativity façade, the basilica interior, the Passion façade and the Sagrada
     Familia school.
 variantes:
 - sagrada-familia-skip-the-line-guided-tour

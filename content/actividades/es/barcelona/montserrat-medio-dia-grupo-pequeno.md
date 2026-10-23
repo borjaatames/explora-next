@@ -72,7 +72,7 @@ politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso c
 
 preguntasFrecuentes:
   - pregunta: "¿Cuáles son las 4 opciones?"
-    respuesta: "(1) Tour + entrada a basílica (la más económica, ~54 €). (2) Tour + basílica + Moreneta (extra ~5 €, sale a las 8:30 o 13:30). (3) Tour + basílica + Coro de Niños (lunes-viernes, sale 9:30). (4) Tour + bodega + almuerzo (lunes-sábado, día completo, sale 8:30, ~+30 €). Elige al reservar."
+    respuesta: "(1) Tour + entrada a basílica (la más económica, desde 59 €). (2) Tour + basílica + Moreneta (extra ~5 €, sale a las 8:30 o 13:30). (3) Tour + basílica + Coro de Niños (lunes-viernes, sale 9:30). (4) Tour + bodega + almuerzo (lunes-sábado, día completo, sale 8:30, ~+30 €). Elige al reservar."
   - pregunta: "¿Qué es el acceso anticipado?"
     respuesta: "El operador entra al monasterio antes de que lleguen los grupos turísticos masivos (sobre las 10:00-10:30). Esto te permite hacer las fotos clásicas sin gente alrededor y entrar a la basílica con calma. Es uno de los diferenciales del operador."
   - pregunta: "¿Y la opción con coro de niños (Escolanía)?"
@@ -80,7 +80,7 @@ preguntasFrecuentes:
   - pregunta: "¿Está incluido el cremallera?"
     respuesta: "No. Este tour usa autobús directo al monasterio (no incluye tren cremallera). Si quieres cremallera, mira [Julia Travel](/ciudades/barcelona/actividades/montserrat-cremallera-virgen-negra) o cualquier variante de Castlexperience."
   - pregunta: "¿Diferencias con EXB-25 (mismo operador)?"
-    respuesta: "Esta variante es medio día (5 h 15 min, ~54 €). EXB-25 es día completo con masía del Bages y bodega (9 h, ~109 €). Mismo operador (Barcelona Local Experiences) pero distinto formato."
+    respuesta: "Esta variante es medio día (5 h 30 min, desde 59 €). EXB-25 es día completo con masía del Bages y bodega (9 h, ~109 €). Mismo operador (Barcelona Local Experiences) pero distinto formato."
 
 variantes:
   - "montserrat-cremallera-virgen-negra"

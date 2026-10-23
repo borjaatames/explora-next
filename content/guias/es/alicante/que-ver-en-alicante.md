@@ -1,10 +1,11 @@
 ---
 titulo: "Qué ver en Alicante: castillo, casco antiguo y playas"
 descripcion: "Guía de Alicante en uno o dos días: Castillo de Santa Bárbara, barrio de Santa Cruz, Explanada, playas e Isla de Tabarca. Ruta, dónde comer y la Costa Blanca alrededor."
+respuestaCorta: 'Alicante se ve en **uno o dos días**. El primero, el **Castillo de Santa Bárbara** (gratis; ascensor de 2,70 € desde el Postiguet), el barrio de Santa Cruz, la Explanada y un arroz a banda; el segundo, la **isla de Tabarca** (barco desde 25 € ida y vuelta) o un pueblo de la costa como Altea o Guadalest. Todo se hace a pie y en TRAM, sin coche.'
 categoria: "alicante"
 slug: "que-ver-en-alicante"
 fecha: "2026-03-26"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -83,7 +84,7 @@ Desde el puerto sale el barco a la **isla de Tabarca**, la habitada más pequeñ
 | Basílica de Santa María | 2-3 € en horario turístico; San Nicolás libre fuera de culto | |
 | Mercado Central | Gratis; aperitivo en la plaza 25 de Mayo desde las 12:30 | L-S 7:00-14:30 |
 | TRAM a San Juan | 1,45 €, 25 min, líneas 1, 3 y 4 desde Luceros o Mercado | Playa de 7 km con socorristas; el Postiguet, más pequeña y llena |
-| Tabarca | 25-30 € ida y vuelta | |
+| Tabarca | Desde 25 € ida y vuelta desde Alicante; desde 9 € desde Santa Pola | Último barco de vuelta a Alicante, 17:30 (lunes, 17:00) |
 
 ## Dormir y comer
 

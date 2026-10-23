@@ -1,10 +1,11 @@
 ---
 titulo: "Toledo desde Madrid en 1 día: escapada de tres culturas"
 descripcion: "Toledo en un día desde Madrid: qué visitar con criterio, cómo llegar (coche, AVE, autobús), qué evitar y por qué es la mejor escapada cerca de Madrid."
+respuestaCorta: 'Coge el **Avant desde Atocha (33 minutos, 22-26 € ida y vuelta)** o conduce una hora por la A-42, y llega a las 10:00. Dedica la mañana a la **Catedral (12 €)**, Santo Tomé y Santa María la Blanca, la tarde a la Judería y cierra en el **Mirador del Valle**. La **pulsera turística de 14 €** cubre siete monumentos pequeños.'
 categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false

@@ -1,10 +1,11 @@
 ---
 titulo: "Bilbao con niños: funicular, ría y playas a un metro de distancia"
 descripcion: "Guía de Bilbao con niños: funicular de Artxanda, esculturas del Guggenheim, museo marítimo, parques y playas en metro. Planes en familia, dónde comer y qué evitar."
+respuestaCorta: 'Bilbao es muy cómoda con niños: llana junto a la ría, con el **funicular de Artxanda** (3 minutos de subida, cada 15 minutos), las esculturas del Guggenheim gratis por fuera y playas familiares en **Plentzia y Gorliz** a unos 40 minutos en la línea 1 de metro. Compra la **tarjeta Barik** (3 €) al llegar: una sola sirve para toda la familia en metro, tranvía y funicular.'
 categoria: "bilbao"
 slug: "bilbao-con-ninos"
 fecha: "2026-04-15"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -28,7 +29,7 @@ actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
 ---
 
-**Bilbao es una ciudad muy cómoda con niños.** Es compacta, llana junto a la ría, con un metro y un tranvía facilísimos, parques, un funicular con vistas y playas a 20 minutos sin coche. Esta guía reúne los planes que de verdad funcionan en familia, combinando ciudad y costa sin agobios.
+**Bilbao es una ciudad muy cómoda con niños.** Es compacta, llana junto a la ría, con un metro y un tranvía facilísimos, parques, un funicular con vistas y playas a unos 40 minutos en metro, sin coche. Esta guía reúne los planes que de verdad funcionan en familia, combinando ciudad y costa sin agobios.
 
 ## Planes con niños que puedes reservar
 
@@ -46,7 +47,7 @@ La clave es alternar: una mañana de ría y esculturas, una tarde de parque o pl
 
 **Esculturas del Guggenheim (por fuera).** Sin entrar al museo, los niños alucinan con **'Puppy'** (el perro gigante de flores), la araña **'Maman'** y la escultura de niebla. Pasear por la ría es gratis y vistoso.
 
-**Itsasmuseum (Museo Marítimo).** Junto a la ría, con grúas, barcos y diques que encantan a los peques; mucho al aire libre.
+**Itsasmuseum (Museo Marítimo).** Junto a la ría, con grúas, barcos y diques que encantan a los peques; mucho al aire libre. Abre de martes a domingo, de 11:00 a 19:00; cierra los lunes.
 
 **Parque de Doña Casilda.** El gran parque de la ciudad: patos, estanque, zona de juegos y los surtidores. Ideal para que corran.
 
@@ -64,11 +65,10 @@ La clave es alternar: una mañana de ría y esculturas, una tarde de parque o pl
 
 ## Lo práctico: transporte, precios y lluvia
 
-- **Billete Barik:** la tarjeta recargable (3 € en cualquier estación de metro) sirve para metro, tranvía, Bizkaibus, funicular y Puente Bizkaia, y baja el viaje de 1,90 € a menos de 1 €. Una tarjeta vale para varias personas; cómprala al llegar.
-- **Funicular de Artxanda:** 2,50 € el trayecto (menos con Barik), cada 15 minutos de 7:15 a 22:00 (hasta las 23:00 en verano), gratis para menores de 6. Sale de la Plaza del Funicular, a 5 minutos del Casco Viejo cruzando el puente de Zubizuri.
+- **Billete Barik:** la tarjeta recargable (3 € en cualquier estación de metro) sirve para metro, tranvía, Bizkaibus, funicular y Puente Bizkaia, y abarata mucho el viaje frente al billete sencillo. Una tarjeta vale para varias personas; cómprala al llegar.
+- **Funicular de Artxanda:** unos 3 minutos de subida, cada 15 minutos de 7:15 a 22:00 (hasta las 23:00 en verano); más barato con Barik. Sale de la Plaza del Funicular, a 5 minutos del Casco Viejo cruzando el puente de Zubizuri.
 - **Metro a la playa:** línea 1 hasta Plentzia (40 minutos desde Casco Viejo) y desde allí 15 minutos andando a la playa de Gorliz, llana y de poca profundidad. Con Barik, menos de 2 € por trayecto.
-- **Puente Bizkaia:** la barquilla cuesta 0,50 € por persona y cruza cada 8 minutos; la pasarela superior, con ascensor y vistas, 10 € (gratis menores de 5). Metro Areeta (Getxo) o Portugalete.
-- **Itsasmuseum:** 6 € adultos, gratis menores de 6, cierra los lunes. Los martes es gratis para todos.
+- **Puente Bizkaia:** la barquilla cuesta menos de 1 € por persona y cruza cada 8 minutos; la pasarela superior, con ascensor y vistas, ronda los 10 € (2026). Metro Areeta (Getxo) o Portugalete.
 - **Días de lluvia:** el Azkuna Zentroa (gratis la entrada al edificio), el Museo de Bellas Artes (gratis para menores) y el propio Itsasmuseum. Y las galerías comerciales de Zubiarte, con cine, junto al Guggenheim.
 - **Carritos:** el Casco Viejo es peatonal y llano, pero las aceras del Ensanche son estrechas; el metro tiene ascensor en todas las estaciones.
 

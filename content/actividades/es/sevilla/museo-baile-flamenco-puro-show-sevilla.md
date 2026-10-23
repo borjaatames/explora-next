@@ -108,7 +108,7 @@ preguntasFrecuentes:
     Patio s.XV + solo 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras estar a 2-3 m de
     los artistas. **Teatro Flamenco Sevilla:** Teatro grande, máximo volumen (18.292 reseñas), asientos cómodos escalonados,
     desde 27 €. RECOMENDADO si quieres lo más reservado + confort. **Teatro Flamenco Triana:** Teatro en Triana (barrio gitano
-    histórico), 4.363 reseñas 4,7/5, desde 35 €. RECOMENDADO si quieres el ambiente de Triana. **Tablao El Arenal:** Edificio
+    histórico), 4.363 reseñas 4,7/5, desde 25 €. RECOMENDADO si quieres el ambiente de Triana. **Tablao El Arenal:** Edificio
     s.XVII junto Maestranza, 50 años de historia, opción cena, desde 48 €. RECOMENDADO si quieres tradición + cena.'
 - pregunta: ¿Qué son los palos del flamenco y cuáles veré?
   respuesta: 'Los **palos** son los distintos «géneros» o estilos del flamenco — cada uno con su compás, melodía y carácter
@@ -139,8 +139,8 @@ opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseña
   coreografías elaboradas por ella o su equipo, lo que da calidad artística característica.
 
 
-  **Comparación de precios:** desde 32 € es **el tercero más caro** de los 5 grandes flamencos de Sevilla (vs. Casa de la
-  Memoria 26 €, Teatro Flamenco Sevilla 27 €, Teatro Flamenco Triana 35 €, Tablao El Arenal 48 €). El plus de 5-6 € sobre
+  **Comparación de precios:** desde 32 € es **el segundo más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
+  Triana 25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Tablao El Arenal 48 €). El plus de 5-6 € sobre
   Casa de la Memoria compra: coreografía Hoyos + patio Ecija s.XVIII + opción combinada con museo (+7 €). La opción combinada
   con museo (+7 € = 39 € total) es la mejor relación si tienes 2-3 días en Sevilla y te interesa la cultura flamenca a fondo.
 

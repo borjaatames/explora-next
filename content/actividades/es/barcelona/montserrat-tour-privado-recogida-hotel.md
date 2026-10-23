@@ -64,7 +64,7 @@ informacionImportante:
     - "Asientos infantiles disponibles"
     - "Accesible para carritos de bebé"
     - "Otros idiomas bajo pedido (no solo español/inglés)"
-    - "El precio mostrado es POR PERSONA"
+    - "Precio por grupo, no por persona: desde 838 € (1 persona) hasta unos 876–895 € para 4–6 personas"
     - "Reserva con al menos 3 días de antelación"
 
 accesibilidad: "Accesible para carritos de bebé. Asientos infantiles disponibles. No accesible para sillas de ruedas estándar; consulta con el operador si lo necesitas."
@@ -73,9 +73,9 @@ politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso c
 
 preguntasFrecuentes:
   - pregunta: "¿Es realmente privado solo para mi grupo?"
-    respuesta: "Sí. Vehículo y guía exclusivos para tu grupo (familia, pareja, amigos). No compartes con otros viajeros. Por eso el precio (desde 838 € por todo el grupo) es más alto que las opciones compartidas (94-109 € por persona)."
+    respuesta: "Sí. Vehículo y guía exclusivos para tu grupo (familia, pareja, amigos). No compartes con otros viajeros. Por eso el precio (desde 838 € por todo el grupo) es más alto que las opciones compartidas (41–149 € por persona en nuestro catálogo)."
   - pregunta: "¿Por qué tan caro?"
-    respuesta: "Es PRIVADO y el precio es por grupo: desde 838 € para un grupo pequeño y unos 895 € para 6 personas. En pareja sale bastante más caro que el grupo de 8 compartido (188 € los dos), pero con 5 o 6 personas queda en torno a 150 € por cabeza."
+    respuesta: "Es PRIVADO y el precio es por grupo: desde 838 € para 1 persona y unos 876–895 € para 4–6 personas. En pareja sale bastante más caro que el grupo de 8 compartido (desde 68 € por persona, 136 € los dos), pero con 6 personas queda en torno a 150 € por cabeza."
   - pregunta: "¿En qué se diferencia del grupo de 8 (EXB-26)?"
     respuesta: "EXB-26 es grupo pequeño COMPARTIDO con hasta 8 viajeros (familias o parejas distintas). Este es PRIVADO solo para tu grupo. EXB-27 da máxima flexibilidad: paras donde quieras, eliges el ritmo, el guía se adapta a ti."
   - pregunta: "¿Qué incluye el itinerario flexible?"
@@ -91,7 +91,7 @@ variantes:
 opinionEditorial: |
   Es la opción premium del comparador y la única realmente privada. 5,0 estrellas con 658 reseñas no se construyen sin entregar mucho — y la diferencia se nota cuando vas: vehículo solo para ti, guía exclusivo, ritmo a tu medida, paradas donde quieras.
 
-  El cálculo de precio: se paga por grupo, desde 838 € (unos 876 € para 4 personas y 895 € para 6). Frente al grupo de 8 compartido (94 €/persona = 376 € para 4 personas), 4 personas pagan unos 500 € más. Para esa diferencia compras: exclusividad total, flexibilidad de paradas y itinerario adaptable.
+  El cálculo de precio: se paga por grupo, desde 838 € (unos 876 € para 4 personas y 895 € para 6). Frente al grupo de 8 compartido (desde 68 €/persona = 272 € para 4 personas), 4 personas pagan unos 600 € más. Para esa diferencia compras: exclusividad total, flexibilidad de paradas y itinerario adaptable.
 
   ¿Para quién? Para escapadas de aniversario, viajes de novios, familias con niños pequeños donde el ritmo flexible es importante, o viajeros que valoran la exclusividad. Si vas solo a "ver Montserrat", las opciones compartidas son perfectamente válidas y mucho más baratas.
 

@@ -47,7 +47,8 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - Closed on Mondays
-  - Wednesday and Thursday afternoons (last 3 hours) are free for EU citizens, with queues
+  - 'Free entry on Wednesdays and Sundays from 3 to 6 PM (October-March) or 3 to 7 PM (April-September) for EU citizens, residents with a work permit and Ibero-American nationals, with proof; these tickets are only issued at the ticket office'
+  - 'The ticket office and entrance close 1 h 15 min before closing: at 4:45 PM in winter and 5:45 PM in summer'
   - The official route is one-way and takes about 2 hours
 accesibilidad: Mostly accessible; the Pantheon of Kings has stairs.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.

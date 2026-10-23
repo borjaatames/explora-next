@@ -55,8 +55,9 @@ informacionImportante:
   - NO INCLUYE los Palacios Nazaríes — el monumento más importante de la Alhambra
   - 'Las entradas son nominativas: nombres, apellidos, fecha de nacimiento y DNI de TODOS los participantes obligatorios al
     reservar'
-  - Niños de 3 a 11 años necesitan entrada propia (gestionar al reservar)
-  - 'Niños menores de 3 años: entrada gratis en taquilla del monumento (no hace falta reserva previa)'
+  - 'Menores de 12 años: la entrada es gratuita según las normas oficiales de la Alhambra, pero cada niño necesita su propio
+    ticket. Con este operador, las entradas de niños de 3 a 11 años se reservan en el momento de la compra; las de menores
+    de 3 años se entregan en las taquillas del monumento'
   - Portabebés en préstamo en guardarropa de la Puerta del Vino (cochecitos NO permitidos)
   - Servicio de guardarropa disponible
 accesibilidad: Acceso limitado para personas con problemas de movilidad. El complejo de la Alhambra tiene rampas en algunas
@@ -68,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: ¿Por qué NO incluye los Palacios Nazaríes?
   respuesta: 'Los Palacios Nazaríes son la joya de la Alhambra y tienen acceso limitado por franjas horarias. Esta entrada
     es la VERSIÓN BÁSICA sin Palacios — solo Jardines, Generalife, Carlos V, Baños y Alcazaba. Si quieres incluir Palacios
-    Nazaríes, mira la entrada general (sin colas, con Palacios) a partir de 25-30 €. Esta solo conviene si: ya has visto los
+    Nazaríes, mira la entrada general con Palacios (desde 28 € en nuestro catálogo). Esta solo conviene si: ya has visto los
     Palacios antes, vienes solo a los Jardines / Generalife, o si los Palacios están agotados para tu fecha y al menos quieres
     ver el resto.'
 - pregunta: ¿Es realmente sin colas?

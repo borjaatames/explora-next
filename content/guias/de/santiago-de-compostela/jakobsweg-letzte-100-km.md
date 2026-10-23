@@ -4,7 +4,7 @@ descripcion: "Guide zu den letzten 100 km des Jakobswegs: wo man startet (Sarria
 categoria: "santiago-de-compostela"
 slug: "jakobsweg-letzte-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: "2026-05-11"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -59,7 +59,8 @@ Fünf angenehme Etappen (die dritte lässt sich aufteilen). Der **Monte do Gozo*
 ## Der Pilgerausweis und die Compostela
 
 - **Pilgerausweis (Credencial):** der "Pass", in dem die Stempel gesammelt werden. Auf den letzten 100 km braucht man **zwei Stempel pro Tag** (Bars, Herbergen, Kirchen).
-- **Die Compostela:** Das Zertifikat wird im **Pilgerbüro** (Rúa das Carretas) in Santiago gegen Vorlage des gestempelten Pilgerausweises ausgestellt.
+- **Die Compostela:** Das Zertifikat wird im **Pilgerbüro** (Rúa das Carretas 33) in Santiago gegen Vorlage des gestempelten Pilgerausweises ausgestellt. Das Büro ist täglich von 10:00 bis 18:00 Uhr geöffnet, außer am 25. Dezember und 1. Januar (dann gibt es die Compostela in der Kathedrale). Die Compostela ist kostenlos, die Distanzurkunde kostet 3 €.
+- **Pilgermesse:** Seit dem 16. Oktober 2026 finden die Pilgermessen (12:00 und 19:30 Uhr) bis auf Weiteres in der nahen Kirche San Agustín statt, weil in der Hauptkapelle der Kathedrale gebaut wird.
 
 ## Wann man reisen sollte
 

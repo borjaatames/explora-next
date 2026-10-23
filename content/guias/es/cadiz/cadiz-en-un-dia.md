@@ -1,10 +1,11 @@
 ---
 titulo: "Cádiz en un día: la ciudad más antigua de Occidente"
 descripcion: "Qué ver en Cádiz en un día: Catedral, Torre Tavira, barrio del Pópulo, La Viña y La Caleta. Ruta a pie hora a hora por la Tacita de Plata, dónde comer y qué evitar."
+respuestaCorta: 'Cádiz se ve a pie en un día: **Catedral y Torre del Reloj** a primera hora (8 € con audioguía), el barrio del Pópulo y el Teatro Romano, la **cámara oscura de la Torre Tavira** (8 €), pescaíto en La Viña y **atardecer en La Caleta**. Llega en tren desde Sevilla (1 h 40) o Jerez (40 minutos) y mira el parte: con levante, mejor casco antiguo que playa.'
 categoria: "cadiz"
 slug: "cadiz-en-un-dia"
 fecha: "2026-04-18"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true

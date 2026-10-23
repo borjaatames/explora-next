@@ -2,7 +2,7 @@
 titulo: 'Madrid: Faunia nature theme park ticket'
 slug: faunia-madrid-ticket
 ciudad: madrid
-descripcion: "Entry to Faunia, Madrid's ecological theme park with recreated ecosystems: Amazon rainforest, Arctic, African savanna and more. 4.6/5 with 111 reviews."
+descripcion: "Entry to Faunia, Madrid's ecological theme park with recreated ecosystems: tropical jungle, a polar pavilion with penguins, African forest and more. 4.6/5 with 111 reviews."
 slugs:
   es: faunia-madrid-entrada
   en: faunia-madrid-ticket
@@ -18,9 +18,9 @@ urlReserva: https://www.getyourguide.com/en-us/activity-t402199/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Eight recreated ecosystems under one roof
-- Penguins, polar bears, crocodiles and tropical birds
-- Immersive indoor Amazon and Arctic environments
+- Recreated ecosystems and themed areas with 152 species
+- Penguins, crocodiles, Komodo dragons and tropical birds
+- Immersive indoor jungle and polar pavilions
 - Less crowded than the main Madrid Zoo
 incluye:
 - Full-day entry to Faunia
@@ -29,9 +29,9 @@ noIncluye:
 - Transport
 puntoEncuentro:
   texto: 'Faunia, Av. de las Comunidades, 28, Madrid'
-  descripcionGuia: Take metro line 5 to Las Rosas station (20 min walk), or bus 71 from Canillejas. By car, take the M-40 to exit 17B.
-  latitud: 40.4352
-  longitud: -3.5993
+  descripcionGuia: Metro line 9 to Valdebernardo, Cercanías C2 to Vicálvaro, or EMT bus 71 from Plaza de Manuel Becerra (stops at the park gate). By car, A-3 exit 6 (Valdebernardo) or M-40 exits 12/13.
+  latitud: 40.3919
+  longitud: -3.6125
   zoom: 14
 detallesPracticos:
   ticketMovil: true
@@ -41,20 +41,20 @@ detallesPracticos:
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-  - Jacket (some indoor ecosystems are very cold — Arctic zone)
+  - Jacket (the polar pavilion stays between -2 °C and 5 °C)
   noAptoPara: []
   aTenerEnCuenta:
-  - The Arctic and Amazon zones are fully climate-controlled indoor spaces; dress in layers
+  - The polar and jungle pavilions are climate-controlled indoor spaces; dress in layers
   - Faunia is less crowded than the Zoo Aquarium, making it a better choice for a relaxed visit
-  - It opens all year round, unlike some seasonal parks
+  - Opening days and hours change by season, and the park closes on some days; check the calendar on faunia.es
 accesibilidad: Fully wheelchair accessible.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
 - pregunta: How is Faunia different from Madrid Zoo?
-  respuesta: Faunia focuses on recreating full ecosystems rather than housing large collections of animals. It's smaller, less crowded and more educational. The climate-controlled indoor environments (Amazon, Arctic) are unique.
-- pregunta: Is Faunia open all year?
-  respuesta: Yes, Faunia is open 365 days a year, which makes it a reliable choice even in winter or bad weather.
-opinionEditorial: "Faunia is Madrid's underrated nature park — more educational, less crowded, and open all year. The climate-controlled ecosystems are genuinely immersive, and the Arctic zone with penguins and polar bears is unforgettable."
+  respuesta: Faunia focuses on recreating full ecosystems rather than housing large collections of animals. It's smaller, less crowded and more educational. The climate-controlled indoor environments (jungle, polar pavilion) are unique.
+- pregunta: Is Faunia open every day?
+  respuesta: No. Opening days and hours change by season and the park closes on some days, so check the calendar on faunia.es before you go. Ticket offices close one hour before closing time.
+opinionEditorial: "Faunia is Madrid's underrated nature park — more educational and less crowded. The climate-controlled ecosystems are genuinely immersive, and the polar pavilion with six species of penguin is unforgettable."
 guiasRelacionadas:
 - madrid-with-kids
 categoria: entradas
@@ -91,16 +91,16 @@ fecha_actualizacion: '2026-10-17'
 
 ## What you'll see
 
-**Faunia** is Madrid's ecological theme park — not a zoo in the traditional sense, but a collection of **eight fully recreated ecosystems** that you walk through.
+**Faunia** is Madrid's nature park — not a zoo in the traditional sense, but a route through **recreated ecosystems and themed areas** (152 species, according to the park).
 
-### The Amazon rainforest
-A large indoor tropical greenhouse with free-flying birds, reptiles and tropical fish. Temperature and humidity are maintained at rainforest levels.
+### La Jungla
+An indoor tropical rainforest with birds, reptiles and tropical vegetation, kept at rainforest temperature and humidity.
 
-### The Arctic
-A climate-controlled indoor Arctic environment with **penguins, Arctic foxes** and a polar bear enclosure. Bring a light jacket — it's genuinely cold.
+### Los Polos
+An indoor replica of Antarctica with **six species of penguin** (gentoo, Adélie, king, chinstrap, Humboldt and rockhopper). The pavilion stays between -2 °C and 5 °C, so bring a layer.
 
-### African savanna and other ecosystems
-Prairie, mangrove, jungle and desert habitats complete the park's range. Each ecosystem houses animals appropriate to that environment.
+### Other areas
+African forest, temperate forest, a crocodile mangrove, giant tortoises, a meerkat area, Komodo dragons, a farm and a dinosaur canyon, among others.
 
 ## Who it's for
 

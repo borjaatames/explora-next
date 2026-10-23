@@ -4,7 +4,7 @@ descripcion: "Was man in Santiago an einem Tag sieht: Kathedrale, Obradoiro, Alt
 categoria: "santiago-de-compostela"
 slug: "santiago-in-einem-tag"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -66,7 +66,7 @@ Der Reiz von Santiago liegt nicht nur in seinen Monumenten, sondern in seiner At
 | 14:00 — 16:00 | Mittagessen |
 | 16:30 — 18:00 | San Martiño Pinario und Parque de la Alameda |
 
-**9:30 — Obradoiro und Kathedrale.** Beginnen Sie auf der **Plaza del Obradoiro**, vor der barocken Fassade der **Kathedrale**, wo die Pilger ankommen. Gehen Sie hinein, um das **Pórtico de la Gloria** von Meister Mateo zu sehen (restauriert, ein romanisches Juwel), und, wenn Ihr Besuch mit der Pilgermesse zusammenfällt und der Tag es erlaubt, den Flug des **Botafumeiro**, des riesigen Weihrauchfasses. Der Platz wird vom Pazo de Raxoi und dem **Hostal dos Reis Católicos** eingerahmt (einst Pilgerhospital, heute Parador).
+**9:30 — Obradoiro und Kathedrale.** Beginnen Sie auf der **Plaza del Obradoiro**, vor der barocken Fassade der **Kathedrale**, wo die Pilger ankommen. Gehen Sie hinein, um das **Pórtico de la Gloria** von Meister Mateo zu sehen (restauriert, ein romanisches Juwel), und, wenn Ihr Besuch mit der Pilgermesse zusammenfällt und der Tag es erlaubt, den Flug des **Botafumeiro**, des riesigen Weihrauchfasses. Die Kathedrale ist täglich von 7:00 bis 21:00 Uhr kostenlos geöffnet; die Pilgermessen finden seit dem 16. Oktober 2026 bis auf Weiteres wegen Bauarbeiten in der nahen Kirche San Agustín statt. Der Platz wird vom Pazo de Raxoi und dem **Hostal dos Reis Católicos** eingerahmt (einst Pilgerhospital, heute Parador).
 
 **11:00 — Die vier Plätze.** Umrunden Sie die Kathedrale über ihre Plätze: die **Quintana** (mit der Porta Santa, die nur im Heiligen Jahr öffnet), **Praterías** (der Brunnen der Pferde) und die **Inmaculada**.
 

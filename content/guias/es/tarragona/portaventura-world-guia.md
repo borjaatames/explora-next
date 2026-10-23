@@ -1,10 +1,11 @@
 ---
 titulo: "PortAventura World: guía para visitarlo (entradas, parques y trucos)"
 descripcion: "Guía de PortAventura World: los tres parques (PortAventura, Ferrari Land, Caribe), entradas y días, cómo evitar colas, con niños y cómo llegar desde Tarragona o Barcelona."
+respuestaCorta: 'PortAventura World tiene tres parques: PortAventura Park, Ferrari Land y el Caribe Aquatic Park, solo en verano. Calcula **un día por parque**; la entrada a PortAventura con una entrada a Ferrari Land cuesta **desde 55 €**. La temporada 2026 termina con la Navidad, **del 20 de noviembre de 2026 al 6 de enero de 2027**, y el resort tiene **estación de tren propia** a 10 minutos de Tarragona.'
 categoria: "tarragona"
 slug: "portaventura-world-guia"
 fecha: "2026-05-01"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -53,15 +54,15 @@ La regla de oro: **un día por parque**. Intentar verlo todo en una jornada es l
 
 ## Entradas y días
 
-> **⭐ Tip:** compra las entradas **online** (más baratas que en taquilla) y valora el **Express Pass** para saltarte colas en las atracciones más demandadas en días punta. Si te alojas en los **hoteles del resort**, sueles tener acceso anticipado al parque.
+> **⭐ Tip:** compra las entradas **online** (te ahorras la cola de taquilla) y valora el **Express Pass** para saltarte colas en las atracciones más demandadas en días punta. Si te alojas en los **hoteles del resort**, sueles tener acceso anticipado al parque.
 
 Hay entradas de 1, 2 o 3 días y combinadas (PortAventura + Ferrari Land). Para dos parques, mejor dos días.
 
 ## Lo práctico: precios, horarios y alturas
 
-- **Precios orientativos (online):** un día en PortAventura Park, 55-65 € por adulto según la fecha; un día con los dos parques (PortAventura y Ferrari Land), 70-80 €; niños de 4 a 10 años y mayores de 60, unos 10 € menos; menores de 4, gratis. En taquilla se paga 5-10 € más. El Caribe Aquatic Park va aparte.
+- **Precios (online):** la entrada de 1, 2 o 3 días a PortAventura Park con una entrada a Ferrari Land, desde 55 €; con Caribe Aquatic Park, desde 76 € (solo compensa en verano, cuando abre el parque acuático). Menores de 3, gratis. Ninguna incluye Express, comida ni parking; cancelación gratis hasta 3 días antes.
 - **Horarios:** abre a las 10:00 y cierra entre las 19:00 y las 20:00 en temporada media; en julio y agosto hasta medianoche, con espectáculo nocturno. Las dos primeras horas son las de menos cola: entra a las 10:00 en punto y ve directo a las grandes (Shambhala, Dragon Khan, Furius Baco).
-- **Express Pass:** desde unos 30 € el básico (una pasada por atracción) hasta más de 70 € el ilimitado. En fin de semana de puente y en agosto compensa; entre semana en mayo o junio, no.
+- **Express Pass:** se compra aparte y hay modalidades de una pasada por atracción o ilimitada; el precio cambia según el día. En fin de semana de puente y en agosto compensa; entre semana en mayo o junio, no.
 - **Alturas mínimas:** 1,40 m para Shambhala, Dragon Khan, Furius Baco y Red Force; 1,20-1,30 m para las intermedias; SésamoAventura, sin mínimo o 0,90 m. Mídelos antes de prometer nada.
 - **Comida:** se puede entrar con comida y bebida (sin cristal). Dentro, un menú cuesta 15-20 € y hay colas de 13:30 a 15:00; come a las 12:30 o después de las 15:30.
 - **Taquillas y mochilas:** hay consignas de pago junto a la entrada (6-10 €). En las montañas rusas no dejan subir con bolsos ni móviles sueltos.
@@ -77,7 +78,7 @@ El área **SésamoAventura** está pensada para los más pequeños, con atraccio
 
 ## Cuándo ir
 
-La temporada va de **mediados de marzo a principios de enero**, con eventos especiales en **Halloween** y **Navidad** (de los mejores momentos). Evita los **fines de semana y puentes** si puedes: las colas se disparan. Ve a la apertura.
+En 2026, **Halloween** va del 19 de septiembre al 15 de noviembre y **Navidad**, del 20 de noviembre de 2026 al 6 de enero de 2027, último tramo de la temporada (de los mejores momentos); la apertura de 2027 aún no está anunciada. Los días y horarios cambian, y Ferrari Land y Caribe tienen calendario propio: consulta el calendario oficial en portaventuraworld.com antes de comprar. Evita los **fines de semana y puentes** si puedes: las colas se disparan. Ve a la apertura.
 
 ## Lo que NO recomendamos
 
@@ -90,7 +91,7 @@ La temporada va de **mediados de marzo a principios de enero**, con eventos espe
 
 > **⚠️ Aviso:** los fallos que más vemos.
 
-1. **Comprar en taquilla.** Online sale más barato y evitas cola de entrada.
+1. **Comprar en taquilla.** Online evitas la cola de entrada y aseguras la fecha.
 2. **Llegar tarde.** La primera hora es la de menos cola.
 3. **Olvidar que Ferrari Land y el Caribe son aparte** (entrada/temporada distinta).
 

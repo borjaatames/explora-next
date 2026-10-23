@@ -1,10 +1,11 @@
 ---
 titulo: "Comer en Mallorca con criterio: ensaïmada, sobrasada y cellers"
 descripcion: "Guía para comer en Mallorca: ensaïmada, sobrasada, pa amb oli, tumbet y arròs brut. Dónde comer mallorquín de verdad, mercados, vinos y qué evitar."
+respuestaCorta: 'Para comer mallorquín de verdad, ve tierra adentro a los **cellers de Inca, Sineu o Algaida**, donde el menú del día cuesta unos **15-20 €**. Pide pa amb oli, tumbet, frit o arròs brut, prueba la **sobrasada con miel** y compra la ensaïmada en un horno con solera de Palma. Evita la primera línea de Magaluf y s''Arenal.'
 categoria: "mallorca"
 slug: "comer-en-mallorca"
 fecha: "2026-04-20"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -61,7 +62,7 @@ Además de la ensaïmada, el **gató** (bizcocho de almendra que se sirve con he
 - **Horarios:** se come de 13:30 a 15:30 y se cena a partir de las 20:30; fuera de eso, en los pueblos solo encontrarás cocina en los bares. Los cellers cierran uno o dos días entre semana y en agosto algunos cierran por vacaciones: llama antes.
 - **Precios orientativos:** menú del día en un celler, 15-20 €; pa amb oli con jamón, 9-12 €; ración de frit, 10-14 €; ensaïmada individual, 2,50-3,50 €; la grande para llevar, 12-20 € según el relleno.
 - **Días de mercado:** Sineu los miércoles (el más auténtico, con animales), Inca los jueves, Santa Maria los domingos, Alcúdia martes y domingos, Pollença los domingos. Por la mañana; a las 14:00 recogen.
-- **Mercados de Palma:** el Mercat de l'Olivar abre de lunes a sábado de 7:00 a 14:30 y es donde compran los palmesanos; el de Santa Catalina es más pequeño y con más bares para tapear. Los domingos cierran los dos.
+- **Mercados de Palma:** el Mercat de l'Olivar abre de lunes a sábado desde las 7:00 y cierra a las 14:30 entre semana (el viernes reabre en parte por la tarde, hasta las 20:00) y a las 15:00 los sábados; es donde compran los palmesanos; el de Santa Catalina es más pequeño y con más bares para tapear. Los domingos cierran los dos.
 - **Llevarte la ensaïmada:** la caja octogonal viaja como equipaje de mano sin problema. Cómprala el último día en un horno con solera (Ca'n Joan de s'Aigo o Fornet de la Soca, en Palma) y pide la lisa si vas a tardar más de dos días en comerla.
 - **Reservar:** en julio y agosto, siempre, incluso para comer. Los sitios buenos de la costa se llenan con días de antelación.
 

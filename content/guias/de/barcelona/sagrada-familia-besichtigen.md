@@ -4,7 +4,7 @@ descripcion: "Wie man die Sagrada Familia richtig besichtigt: offizielle Preise 
 categoria: "barcelona"
 slug: "sagrada-familia-besichtigen"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -31,15 +31,15 @@ actividades:
 
 Die Sagrada Familia ist **das meistbesuchte Monument Barcelonas** — rund 4,5 Millionen Menschen im Jahr —, und wie bei allen Sehenswürdigkeiten dieser Größenordnung verlassen die meisten Besucher sie mit dem Gefühl, etwas Wichtiges gesehen zu haben, ohne es wirklich verstanden zu haben. Das ist schade, denn nur wenige Gebäude der Welt belohnen eine gute Vorbereitung so sehr: die absichtlich ausgerichteten Glasfenster, die Symbole an jeder Säule, die Mathematik hinter der Geometrie, die Entscheidungen, die Gaudí vor seinem Tod schriftlich hinterließ, und jene, die seine Nachfolgerarchitekten gerade jetzt treffen.
 
-Dieser Guide hilft dir, sie mit Anspruch zu besichtigen. Ticketarten und welche zu dir passt, **2026 als Gaudí-Jahr** (Zentenarium seines Todes und geplante Einweihung des Turms Jesu), welchen Turm man besteigen sollte, falls man sich dafür entscheidet, wie die neue Stunde der Stille funktioniert, Kleiderordnung und die Fehler, die wir jede Woche beobachten. Daten, abgeglichen mit der offiziellen Website.
+Dieser Guide hilft dir, sie mit Anspruch zu besichtigen. Ticketarten und welche zu dir passt, **2026 als Gaudí-Jahr** (Zentenarium seines Todes und Einweihung des Turms Jesu am 10. Juni), welchen Turm man besteigen sollte, falls man sich dafür entscheidet, wie die neue Stunde der Stille funktioniert, Kleiderordnung und die Fehler, die wir jede Woche beobachten. Daten, abgeglichen mit der offiziellen Website.
 
 ## Warum 2026 ein besonderes Jahr ist
 
-Gaudí starb am 10. Juni 1926, überfahren von einer Straßenbahn in der Nähe der Sagrada Familia auf dem Weg zur Messe. **2026 ist das Zentenarium**, und die Basilika feiert es mit der Vollendung des ehrgeizigsten Projekts seit seinem Tod: **dem Turm Jesu**, **172,5 Meter hoch**, der nach Fertigstellung **das höchste religiöse Gebäude Europas** sein wird. Das sechsarmige Kreuz, das ihn krönt, wurde im **Februar 2026** angebracht, und die offizielle Einweihung ist für Juni desselben Jahres geplant, zeitgleich mit dem Zentenarium.
+Gaudí starb am 10. Juni 1926, überfahren von einer Straßenbahn in der Nähe der Sagrada Familia auf dem Weg zur Messe. **2026 ist das Zentenarium**, und die Basilika feiert es mit dem ehrgeizigsten Projekt seit seinem Tod: **dem Turm Jesu**, **172,5 Meter hoch**, der die Sagrada Familia zur **höchsten Kirche der Welt** macht. Das sechsarmige Kreuz, das ihn krönt, wurde im **Februar 2026** angebracht, und am **10. Juni 2026**, genau zum Zentenarium, wurde der Turm eingeweiht.
 
 > **⚠️ Hinweis:** die Sagrada Familia hat dieses Jahr **deutlich mehr Andrang** wegen des Jubiläums und der Einweihung. Reserviere mit mehr Vorlauf als sonst und stell dich besonders in den Monaten Juni, Juli und August auf dichtere Schlangen ein.
 
-Der Basilika stehen bis etwa 2035 noch abschließende Arbeiten bevor (einschließlich der Fassade der Herrlichkeit), aber die charakteristische Silhouette der 18 Türme ist bereits praktisch vollständig: Anfang 2024 waren 17 Türme fertiggestellt, und der 18. (der des Jesus) wird gerade vollendet.
+Der Basilika stehen bis etwa 2035 noch abschließende Arbeiten bevor (einschließlich der Fassade der Herrlichkeit), aber die charakteristische Silhouette ist mit dem 2026 eingeweihten Turm Jesu praktisch vollständig.
 
 ## Ticketarten und offizielle Preise 2026
 
@@ -60,7 +60,7 @@ Der Basilika stehen bis etwa 2035 noch abschließende Arbeiten bevor (einschlie�
 
 ## Auf die Türme steigen? Nacimiento oder Pasión
 
-Die häufigste Frage nach "welches Ticket kaufe ich": lohnt sich der Aufpreis für den Turmaufstieg? Hier die ehrliche Antwort. Es gibt **zwei** Türme, und mit deinem Ticket kannst du nur einen besteigen (kostet 10 € Aufpreis auf das Basisticket):
+Die häufigste Frage nach "welches Ticket kaufe ich": lohnt sich der Aufpreis für den Turmaufstieg? Hier die ehrliche Antwort. Es gibt **zwei** Turmaufstiege, aber mit deinem Ticket besteigst du nur einen, und aussuchen kannst du ihn nicht: Das Monument teilt ihn je nach Tag und Bauarbeiten zu (kostet 10 € Aufpreis auf das Basisticket):
 
 | Turm | Ausblick | Atmosphäre |
 | --- | --- | --- |

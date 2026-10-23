@@ -4,7 +4,7 @@ descripcion: "3 Tage in Barcelona, ohne sich in den Menschenmassen zu verlieren:
 categoria: "barcelona"
 slug: "barcelona-in-3-tagen"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -47,7 +47,7 @@ Zwei Tage in Barcelona sind machbar, aber die Entscheidung ist brutal: Entweder 
 
 Drei Tage sind das erste Format, in dem alles Wichtige Platz hat, mit Spielraum, um zum Essen anzuhalten, eine halbe Stunde die Orientierung zu verlieren und wieder loszulaufen. Und vor allem: mit Platz für das, was fast niemand einplant — **einen Sonnenuntergang auf dem Montjuïc** oder am Bunker del Carmel, einer der Momente, die die Reise rechtfertigen. Wer nur einen einzigen Tag hat, sollte den eigenen Guide für [Barcelona in einem Tag](/de/guides/barcelona/barcelona-in-einem-tag) lesen.
 
-> **⚠️ Hinweis:** **2026 ist das Gaudí-Jahr**, das Zentenarium seines Todes. Der Turm Jesu der Sagrada Familia (172,5 m, wird das höchste religiöse Gebäude Europas) wird dieses Jahr fertiggestellt. Es herrscht mehr Andrang als sonst, und die Tickets sind früher ausverkauft als in den Vorjahren.
+> **⚠️ Hinweis:** **2026 ist das Gaudí-Jahr**, das Zentenarium seines Todes. Der Turm Jesu der Sagrada Familia (172,5 m) wurde am 10. Juni 2026 eingeweiht und macht sie zur höchsten Kirche der Welt. Es herrscht mehr Andrang als sonst, und die Tickets sind früher ausverkauft als in den Vorjahren.
 
 ## Wann man reisen sollte
 
@@ -100,7 +100,7 @@ Zu den Türmen: Man muss zwischen **Nacimiento (Geburt Christi)** oder **Pasión
 
 **12:00 Uhr — Leichtes Mittagessen im Eixample.** Ein Tagesmenü in einer Seitenstraße zur Diagonal/Provença kostet für ein anständiges Menü meist 15-18 €. Meide Restaurants mit sechssprachig übersetzter Speisekarte und Paellafoto an der Tür.
 
-**14:00 Uhr — Manzana de la Discordia** (Passeig de Gràcia zwischen Aragó und Consell de Cent). Hier stehen **Casa Batlló** und **Casa Amatller** (von Puig i Cadafalch), und zwei Straßen weiter oben **La Pedrera (Casa Milà)**. Wer nur eines besichtigt, sollte auf **Casa Batlló** setzen: Fassade und Innenerlebnis sind gut gemacht, es fühlt sich nicht nach Freizeitpark an. Eintritt Silver **29 €**, Gold mit Skip-the-Line **35 €**. La Pedrera ist nüchterner, architektonisch vielleicht interessanter für alle, die auf die Linienführung Wert legen: **29 €** Standardeintritt.
+**14:00 Uhr — Manzana de la Discordia** (Passeig de Gràcia zwischen Aragó und Consell de Cent). Hier stehen **Casa Batlló** und **Casa Amatller** (von Puig i Cadafalch), und zwei Straßen weiter oben **La Pedrera (Casa Milà)**. Wer nur eines besichtigt, sollte auf **Casa Batlló** setzen: Fassade und Innenerlebnis sind gut gemacht, es fühlt sich nicht nach Freizeitpark an. Eintritt **ab 31 €**. La Pedrera ist nüchterner, architektonisch vielleicht interessanter für alle, die auf die Linienführung Wert legen: Eintritt **ab 25 €**.
 
 **17:00 Uhr — Freier Spaziergang über den Passeig de Gràcia hinunter zur Plaça de Catalunya.** Das Straßenraster des Eixample (Cerdàs Plan mit den abgeschrägten Häuserecken) ist eine der großen städtebaulichen Leistungen des 19. Jahrhunderts und lässt sich im Gehen bestens würdigen.
 
@@ -110,9 +110,9 @@ Zu den Türmen: Man muss zwischen **Nacimiento (Geburt Christi)** oder **Pasión
 
 Der zweite Tag steht im Zeichen des **"nördlichen" Gaudí** und eines Viertels mit eigener Persönlichkeit. Es wird mehr gelaufen als am ersten Tag.
 
-**10:00 Uhr — Park Güell.** Online-Reservierung unerlässlich. Die **Zona Monumental** ist der Bereich mit den Mosaiken, dem Drachen und den geschwungenen Bänken. Kostet **18 € Erwachsene / 7 € Kinder von 7-12 Jahren / kostenlos für Kinder unter 6 Jahren**. Der umliegende Waldbereich ist kostenlos und täglich von 7:00 bis 22:00 Uhr geöffnet.
+**10:00 Uhr — Park Güell.** Online-Reservierung unerlässlich. Die **Zona Monumental** ist der Bereich mit den Mosaiken, dem Drachen und den geschwungenen Bänken. Kostet auf der offiziellen Website **18 € Erwachsene / 13,50 € Kinder von 7-12 Jahren und ab 65 / kostenlos bis 6 Jahre**. Du kannst bis zu 30 Minuten nach Beginn deines Zeitfensters hinein. Der umliegende Waldbereich ist kostenlos und täglich von 7:00 bis 22:00 Uhr geöffnet.
 
-Angemessene Zeit: 1 Std. 30 Min. - 2 Std. in der Zona Monumental, plus 30 Minuten im Waldbereich oder an den Aussichtspunkten. **Anreise**: Metro L3 bis Lesseps oder Vallcarca, danach 15-20 Minuten bergauf mit Rolltreppen. Bequemes Schuhwerk.
+Angemessene Zeit: 1 Std. 30 Min. - 2 Std. in der Zona Monumental, plus 30 Minuten im Waldbereich oder an den Aussichtspunkten. **Anreise**: Metro L3 bis Lesseps, danach 15-20 Minuten bergauf, oder Bus H6 bzw. D40. Bequemes Schuhwerk.
 
 > **⭐ Tipp:** kostenloser alternativer Aussichtspunkt: der **Turó de les Tres Creus** oben im Park liegt außerhalb der kostenpflichtigen Zone und bietet ein 360°-Panorama mit Sagrada Familia, Tibidabo und Meer. Wer knapp bei Kasse ist, findet hier die beste Option.
 
@@ -136,7 +136,7 @@ Eine ehrliche Anmerkung: Park Güell ist den Eintritt für Erstbesucher wert. Ab
 
 Der dritte Tag steht im Zeichen des **alten, maritimen Barcelonas und des Montjuïc**. Er ist der abwechslungsreichste.
 
-**9:30 Uhr — Gòtic-Viertel.** Du kommst früh an, bevor die Menschenmassen eintreffen. Schneller, gezielter Plan: die **Kathedrale von Barcelona** (nicht die Sagrada Familia: die andere, an der Plaça Nova). Allgemeine touristische Eintrittskarte **19 €**, die Chor, Kreuzgang, Dachterrasse, Audioguide und das Diözesanmuseum umfasst. Die **Plaça del Rei**, einer der wenigen authentischen mittelalterlichen Plätze, fünfzehn Minuten. Und die **Plaça Sant Felip Neri**, klein, mit Granatsplittern aus dem Bürgerkrieg in den Wänden. Der Umweg lohnt sich.
+**9:30 Uhr — Gòtic-Viertel.** Du kommst früh an, bevor die Menschenmassen eintreffen. Schneller, gezielter Plan: die **Kathedrale von Barcelona** (nicht die Sagrada Familia: die andere, an der Plaça Nova). Die kostenpflichtige touristische Eintrittskarte umfasst Chor, Kreuzgang, Dachterrasse, Audioguide und das Diözesanmuseum; den aktuellen Preis prüfst du auf der offiziellen Website. Die **Plaça del Rei**, einer der wenigen authentischen mittelalterlichen Plätze, fünfzehn Minuten. Und die **Plaça Sant Felip Neri**, klein, mit Granatsplittern aus dem Bürgerkrieg in den Wänden. Der Umweg lohnt sich.
 
 > **⚠️ Hinweis:** Was man auslassen kann, ist die berühmte **neugotische Brücke in der Calle del Bisbe**. Sie stammt von 1928, ist nicht mittelalterlich, und für die Fotoschlange lohnt sich wenig.
 

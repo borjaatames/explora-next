@@ -53,8 +53,9 @@ informacionImportante:
   aTenerEnCuenta:
   - Does NOT INCLUDE the Nasrid Palaces — the Alhambra's most important monument
   - 'Tickets are nominative: names, surnames, date of birth and ID number of ALL participants required at booking'
-  - Children aged 3-11 need their own ticket (arrange at booking)
-  - 'Under-3s: free entry at the on-site ticket office (no advance booking needed)'
+  - 'Children under 12: entry is free under the official Alhambra rules, but every child needs their own ticket. With this
+    operator, book tickets for children aged 3-11 at the time of purchase; tickets for under-3s are handed out at the monument
+    ticket offices'
   - Baby carriers available on loan at the Puerta del Vino cloakroom (pushchairs NOT allowed)
   - Cloakroom service available
 accesibilidad: Limited access for people with mobility problems. The Alhambra complex has ramps in some areas but the ground
@@ -66,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: Why does it NOT include the Nasrid Palaces?
   respuesta: 'The Nasrid Palaces are the jewel of the Alhambra and have time-slot-limited access. This ticket is the BASIC
     version without the Palaces — only Gardens, Generalife, Charles V, Baths and Alcazaba. If you want to include the Nasrid
-    Palaces, look at the general skip-the-line ticket with Palaces from €25-30. This one only makes sense if: you''ve already
+    Palaces, look at the general admission ticket with Palaces (from €28 in our catalogue). This one only makes sense if: you''ve already
     seen the Palaces before, you''re only coming for the Gardens / Generalife, or the Palaces are sold out for your date and
     you at least want to see the rest.'
 - pregunta: Is it really skip-the-line?

@@ -4,7 +4,7 @@ descripcion: "Madrid mit Kindern und Teenagern: Zoo, Freizeitpark, Museen, die b
 categoria: "madrid"
 slug: "madrid-mit-kindern"
 fecha: "2026-04-27"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -49,7 +49,7 @@ Die Kleinen (4–7) sind fasziniert von Delfinen, Seelöwen, Tigern und dem Pand
 
 **Preise und Öffnungszeiten (2026):**
 
-- Online (empfohlen): ab 19,90 € Erwachsene / 16,90 € Kinder 3–7 Jahre
+- Online (empfohlen): ab 20 €
 - Unter 3 Jahre: kostenlos
 - Öffnung um 11:00 Uhr. Schließung zwischen 16:00 und 20:00 Uhr je nach Saison
 
@@ -67,7 +67,7 @@ Direkt neben dem Zoo, ebenfalls in Casa de Campo. Fahrgeschäfte für alle Alter
 
 Ab 8 Jahren können Kinder anfangen, die mittleren Attraktionen zu fahren. **Ihre schönsten Erinnerungen an die Reise werden diese sein**, nicht die Museen. Für Teenager (13–16) ist es der beste mögliche Plan in Madrid, besser angenommen als jedes Museum oder jede Kulturroute. Für 4- bis 7-Jährige gibt es einen eigenen Kinderbereich (Nickelodeon Land) mit sanften Fahrgeschäften; lohnt sich, aber nur für einen halben Tag.
 
-**Preise und Öffnungszeiten:** Online-Eintritt ab 29–32 € Erwachsene, ähnlich für Kinder über 1 m Körpergröße. An der Kasse zahlst du 5–10 € mehr, deshalb ist online der Schlüssel. Die Öffnungszeiten variieren je nach Saison, und ein Teil des Winters ist geschlossen.
+**Preise und Öffnungszeiten:** Online-Eintritt ab 24 €. Online zu buchen ist der Schlüssel. Die Öffnungszeiten variieren je nach Saison, und ein Teil des Winters ist geschlossen.
 
 > **⚠️ Hinweis:** Zoo und Freizeitpark am selben Tag zu kombinieren ergibt keinen Sinn. Sie liegen nebeneinander, aber die Erschöpfung ist brutal, und ihr verliert bei beidem an Qualität. Besser an getrennten Tagen.
 
@@ -79,7 +79,7 @@ Faunia ist ein naturkundlicher Themenpark im Viertel Vicálvaro, anders als der 
 
 Die Kleinen (4–8) fasziniert der **Nachtdschungel** (Faultiere, Fledermäuse) und die **Pinguine**. Die Mittleren (8–12) begeistert der Bereich mit tropischen Vögeln und das Erlebnis, durch verschiedene Biome zu gehen. Es ist **weniger klassischer Zoo und mehr Erlebnis** — eine gute Option für Eltern, die einen anderen Plan als den Zoo suchen.
 
-**Preise und Öffnungszeiten:** online ab 24–27 € Erwachsene, 20–23 € Kinder 3–7 Jahre. Es gibt einen kombinierten Zoo + Faunia-Tarif mit Rabatt, wenn ihr beide an unterschiedlichen Tagen besucht. Faunia ist kleiner als der Zoo, 4–5 Stunden reichen also aus.
+**Preise und Öffnungszeiten:** online ab 17 €. Es gibt einen kombinierten Zoo + Faunia-Tarif mit Rabatt, wenn ihr beide an unterschiedlichen Tagen besucht. Faunia ist kleiner als der Zoo, 4–5 Stunden reichen also aus.
 
 > **⭐ Tipp:** Frühling und Herbst sind am besten. Im Sommer ist die Hitze in Madrid brutal, und die Tiere verstecken sich, sodass der Besuch viel von seinem Reiz verliert.
 
@@ -91,7 +91,7 @@ Etwa 25 km südlich von Madrid (San Martín de la Vega). Erreichbar mit dem Auto
 
 Für 8- bis 16-Jährige ist er wahrscheinlich der eindrucksvollste Plan der Reise. Er hat ernsthafte Achterbahnen (Superman, ARRJ, Stunt Fall), die Teenager begeistern, und einen großen Kinderbereich für die Kleinen. Es ist ein ganzer Tag mit frühem Aufbruch aus Madrid und Rückkehr bei Sonnenuntergang.
 
-> **⚠️ Hinweis:** Der Parque Warner ist unabhängig vom Parque de Atracciones Madrid. Verwechselt sie nicht. Und er ist teurer: 35–45 € pro Person online. Ein Teil des Winters ist geschlossen (November–März, eingeschränkte Wochenenden).
+> **⚠️ Hinweis:** Der Parque Warner ist unabhängig vom Parque de Atracciones Madrid. Verwechselt sie nicht. Und er ist teurer: online ab 33 € pro Person. Ein Teil des Winters ist geschlossen (November–März, eingeschränkte Wochenenden).
 
 Ehrliche Empfehlung: Wenn ihr 4–5 Tage in Madrid seid, passt Warner gut hinein. Wenn ihr 2–3 Tage bleibt, gebt dem Parque de Atracciones Madrid den Vorzug (zentraler, gleiche Begeisterung, kein verlorener Logistiktag).
 
@@ -101,7 +101,7 @@ Wenn ihr Madrid zwischen **Juni und September** besucht, ist der Wasserpark Aqu�
 
 Für Teenager (13–16) sind die Top-Rutschen ein Erlebnis. Für die Mittleren (8–12) das Wellenbecken und die mittleren Rutschen. Für die Kleinen (4–7) ein Kinderbereich mit sanften Rutschen und flachen Becken.
 
-**Preise und Öffnungszeiten:** online ab 25–30 € Erwachsene, 18–22 € Kinder. Nur im Sommer geöffnet, ungefähr vom 1. Juni bis 15. September. Mit dem Auto liegt er 45 Minuten vom Zentrum entfernt, an Wochenenden fährt ein Bus ab Moncloa.
+**Preise und Öffnungszeiten:** online ab 20 €. Nur im Sommer geöffnet, ungefähr vom 1. Juni bis 15. September. Mit dem Auto liegt er 45 Minuten vom Zentrum entfernt, an Wochenenden fährt ein Bus ab Moncloa.
 
 > **⭐ Tipp:** Kombiniere einen Vormittag in Aquópolis mit einem ruhigen Nachmittag in Madrid. Für mehr wird die Energie nicht reichen.
 

@@ -1,10 +1,11 @@
 ---
 titulo: "Los Patios de Córdoba: cuándo verlos y cómo (festival y todo el año)"
 descripcion: "Guía de los Patios de Córdoba: qué es la Fiesta de los Patios (mayo), barrios para verlos (San Basilio, Santa Marina), el Palacio de Viana y cómo verlos sin colas."
+respuestaCorta: 'La **Fiesta de los Patios** dura dos semanas a principios de mayo (del 4 al 17 en 2026): las casas abren sus patios **gratis**, de 11:00 a 14:00 y de 18:00 a 22:00. Ve a primera hora o al caer la tarde. El resto del año, el **Palacio de Viana** tiene doce patios (8,50 €) y un **tour guiado por cinco patios de San Basilio** cuesta desde 19 €.'
 categoria: "cordoba"
 slug: "patios-de-cordoba"
 fecha: "2026-04-12"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -19,6 +20,7 @@ slugs:
   es: patios-de-cordoba
   en: cordoba-patios
   de: patios-von-cordoba
+reservasArriba: true
 actividades:
   - patios-cordobeses-tour-con-entradas
 ---
@@ -37,7 +39,7 @@ La clave: si vienes en mayo, vas a vivir la Córdoba más bonita del año (pero 
 
 ## La Fiesta de los Patios (mayo)
 
-Durante unas **dos semanas de mayo**, decenas de casas de los barrios históricos abren sus patios y compiten en un concurso. La entrada es **gratuita**; se hace una ruta a pie de patio en patio. Coincide con las **Cruces de Mayo** (principios de mes) y precede a la **Feria** (finales): el mes grande de Córdoba.
+Durante unas **dos semanas de mayo**, decenas de casas de los barrios históricos abren sus patios y compiten en un concurso. En 2026 fue del **4 al 17 de mayo**, con **53 patios** a concurso repartidos en cinco rutas. La entrada es **gratuita**; se hace una ruta a pie de patio en patio. Coincide con las **Cruces de Mayo** (principios de mes) y precede a la **Feria** (finales): el mes grande de Córdoba.
 
 > **⭐ Tip:** durante el festival, ve a los patios **a primera hora de la mañana o al caer la tarde**. Al mediodía hay colas y calor. San Basilio es el barrio con más patios juntos: empieza por ahí.
 
@@ -58,7 +60,7 @@ Si no vienes en mayo, no te quedas sin patios. El **Palacio de Viana** reúne **
 
 - **Horario del festival:** los patios abren de 11:00 a 14:00 y de 18:00 a 22:00, de lunes a domingo, durante las dos semanas. Entre las 14:00 y las 18:00 todo está cerrado: aprovecha para comer y descansar.
 - **Es gratis** pero hay una hucha a la entrada de cada patio; 1-2 € por casa es lo habitual y lo que mantiene las macetas el resto del año.
-- **Palacio de Viana:** 12 € la visita completa (casa y patios) y 7 € solo los patios. Abre de martes a sábado de 10:00 a 19:00 y domingos solo por la mañana; cierra los lunes. En julio y agosto, solo mañanas.
+- **Palacio de Viana:** 8,50 € solo los patios y 14 € la visita combinada (patios y visita guiada al interior); menores de 10, gratis. Cierra los lunes. De septiembre a diciembre abre de martes a sábado de 10:00 a 19:00 y los domingos de 10:00 a 15:00; en julio y agosto, de martes a domingo de 9:00 a 15:00. De enero a junio, consulta su web.
 - **Patios todo el año en San Basilio:** la asociación de vecinos abre cinco o seis patios de la calle San Basilio y alrededores por 5-6 €, de octubre a abril, y mantiene los horarios del festival en mayo.
 - **Mayo entero es fiesta en Córdoba:** las Cruces de Mayo la primera semana, los Patios las dos siguientes y la Feria la última. Los precios de hotel se triplican y los restaurantes del centro se llenan; reserva mesa.
 - **Calor:** en mayo se superan los 30 °C a mediodía; en junio, los 40. Agua, gorra y la visita a primera hora.

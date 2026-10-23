@@ -4,7 +4,8 @@ descripcion: "The best day trips from Alicante: Benidorm, Altea, Calpe and the P
 categoria: "alicante"
 slug: "costa-blanca-day-trips-from-alicante"
 fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
+respuestaCorta: 'The best day trips from Alicante are **Altea and Calpe** by TRAM (changing in Benidorm), **Guadalest with the Algar Falls** (an hour by car, or an organised trip from €39), **Elche''s UNESCO palm grove** (20 minutes by train) and Benidorm. Plan one per day: Guadalest and Jávea each fill a full day.'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -48,15 +49,15 @@ Besides **Tabarca Island** (which has its own guide: [how to visit it](/en/guide
 | Destination | Distance | Ideal for |
 | --- | --- | --- |
 | Elche | 20 min | UNESCO palm grove |
-| Altea | 50 min (TRAM) | White village with blue domes |
-| Calpe | 1h (TRAM) | The Peñón de Ifach and beaches |
+| Altea | 50 min (car), TRAM with a change | White village with blue domes |
+| Calpe | 1h (car), TRAM with a change | The Peñón de Ifach and beaches |
 | Guadalest | 1h (car) | Mountain village and turquoise reservoir |
-| Benidorm | 45 min (TRAM) | Skyline, beaches and theme parks |
+| Benidorm | 45 min (car), 1h 10 (TRAM) | Skyline, beaches and theme parks |
 | Jávea (Xàbia) | 1h (car) | Coves and a seafaring old town |
 
 ## Benidorm
 
-Forty-five minutes by TRAM, the most famous **skyline** on the Mediterranean, with huge beaches (Levante, Poniente) and theme parks: **Terra Mítica**, **Aqualandia**, **Mundomar**. An ideal plan with kids or for a lively beach day.
+Forty-five minutes by car or 1 h 10 by TRAM, the most famous **skyline** on the Mediterranean, with huge beaches (Levante, Poniente) and theme parks: **Terra Mítica**, **Aqualandia**, **Mundomar**. An ideal plan with kids or for a lively beach day.
 
 ## Altea and Calpe
 
@@ -66,13 +67,26 @@ Forty-five minutes by TRAM, the most famous **skyline** on the Mediterranean, wi
 
 An hour away by car, **Guadalest** is a mountain village with a castle perched on the rock and views over a postcard **turquoise reservoir**. One of the most-visited inland villages in Spain.
 
+The village itself takes about two hours, so pair it with the **Fuentes del Algar** waterfalls, 15 minutes away. Without a car, the organised day trip covers Algar (entry included), Guadalest with a guide and Altea's old town in one go.
+
+[actividad: guadalest-altea-algar-day-trip-from-alicante]
+
 ## Elche and Jávea
 
 Twenty minutes away, **Elche** holds the UNESCO **palm grove** and the Misteri. An hour away, **Jávea (Xàbia)** offers coves, the Cap de Sant Antoni and a charming seafaring old town.
 
+## Practical: TRAM, prices and timings
+
+- **TRAM to Benidorm:** line 1 leaves Luceros station about every 30 minutes and takes around 1 h 10 to Benidorm. For Altea and Calpe, change in Benidorm to **line 9**, a slower, scenic train that runs roughly once an hour. A single to Benidorm costs about €4; to Calpe, €6–7 (as of 2026). On summer weekends it's packed, so leave with time to spare.
+- **Guadalest:** about an hour by car, the last stretch on the winding CV-70 from Benidorm. Paid car parks at the village entrance (€3–5). The castle and museums open from 10:00 until 18:00–20:00 depending on the season. Fuentes del Algar entry is €5–6, with swimming in cold-water pools.
+- **Peñón de Ifach:** about 1 h 30 up a path with a final rocky section. Access needs a **free advance booking** on the natural park's website; daily numbers are capped and the path closes in rain. Take 1.5 litres of water.
+- **Elche:** 20 minutes by Cercanías (line C-1, every 30 minutes). The Huerto del Cura garden costs €6 and the palm grove is free to walk; the Misteri is performed only on 14 and 15 August.
+- **Benidorm parks:** Terra Mítica from €28 and Mundomar from €21 booked online. The two share an access road and car park, so families often do Mundomar in the morning and Terra Mítica in the afternoon. Terra Mítica opens daily from mid-May to late September, with fewer days in spring and autumn.
+- **Jávea:** no practical public transport from Alicante; by car, an hour on the AP-7. In August, access by car to coves such as Granadella and Portitxol closes once the car parks fill, often by mid-morning.
+
 ## Getting around
 
-**TRAM line 1** links Alicante with the northern coast (El Campello, Villajoyosa, Benidorm, Altea, Calpe): comfortable and scenic. For **Guadalest** and the inland villages, a **car** gives more freedom. **Elche** is a short hop by local train.
+**TRAM line 1** links Alicante with Benidorm along the northern coast (El Campello, Villajoyosa), and line 9 carries on to Altea and Calpe: comfortable and scenic. For **Guadalest** and the inland villages, a **car** gives more freedom. **Elche** is a short hop by local train.
 
 ## What we don't recommend
 

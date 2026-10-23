@@ -1,10 +1,11 @@
 ---
 titulo: "Pintxos en Bilbao: guía del txikiteo (zonas, clásicos y reglas)"
 descripcion: "Guía de pintxos en Bilbao: dónde ir de txikiteo (Plaza Nueva, Casco Viejo, Ensanche), los pintxos clásicos, la Gilda, qué beber y cómo no quedar de turista."
+respuestaCorta: 'Ve de barra en barra por la **Plaza Nueva y el Casco Viejo**, o por Ledesma y García Rivero en el Ensanche, con **uno o dos pintxos por bar**. Empieza con una Gilda y pregunta por los calientes de cocina. Cuenta **2-3,50 € el pintxo frío y 4-6 € el caliente**; una cena de txikiteo sale por 25-35 € por persona.'
 categoria: "bilbao"
 slug: "pintxos-bilbao"
 fecha: "2026-04-04"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: false
@@ -21,6 +22,7 @@ slugs:
   es: pintxos-bilbao
   en: bilbao-pintxos
   de: pintxos-in-bilbao
+reservasArriba: true
 actividades:
   - tour-pintxos-bilbao-vino
   - clase-cocina-pintxos-bilbao

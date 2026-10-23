@@ -4,7 +4,7 @@ descripcion: "Guía de Mallorca: Catedral de Palma, Serra de Tramuntana, Valldem
 categoria: "mallorca"
 slug: "que-ver-en-mallorca"
 fecha: "2026-03-07"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -75,7 +75,7 @@ La ciudad amurallada de **Alcúdia** con la romana Pollentia, las playas familia
 | Castell de Bellver | 4 €, gratis domingos; bus 4 o 20 min a pie | Cierra lunes |
 | Tren de Sóller | 30 € ida y vuelta; tranvía al puerto aparte, 9 € trayecto | Salidas 10:10, 10:50, 12:15, 13:30, 15:10 |
 | Cuevas del Drach | 18,50 € online (11,50 € de 3 a 12 años); **reserva online, se agota** | Pases a las 10, 11, 12, 14, 15, 16 y 17 h de abril a octubre; cuatro en invierno |
-| Formentor | Carretera cerrada a coches en verano de 10:00 a 22:30 | Lanzadera desde Port de Pollença o barco |
+| Formentor | Del 15 de mayo al 18 de octubre (10:00-22:00), coches solo hasta llenar el aparcamiento de la playa; faro, solo vehículos autorizados | Bus TIB 334 desde Alcúdia y Port de Pollença, o barco |
 
 ## Dormir y comer
 

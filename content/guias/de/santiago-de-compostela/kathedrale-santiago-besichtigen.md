@@ -4,7 +4,7 @@ descripcion: "Guide zur Kathedrale von Santiago: was kostenlos ist und was koste
 categoria: "santiago-de-compostela"
 slug: "kathedrale-santiago-besichtigen"
 fecha: "2026-05-18"
-fecha_actualizacion: "2026-05-18"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -34,7 +34,7 @@ Der Schlüssel: Trennen Sie das Kostenlose (das Gotteshaus, das Grab des Apostel
 
 ## Was kostenlos ist
 
-- **Das Gotteshaus.** Die Kathedrale zu betreten, um zu beten oder sie zu besichtigen, ist **kostenlos**.
+- **Das Gotteshaus.** Die Kathedrale zu betreten, um zu beten oder sie zu besichtigen, ist **kostenlos**: täglich **7:00-21:00 Uhr**, Eingang über die Puerta de Platerías (im Sommer samstags bis 20:30 Uhr wegen der Pilgervigil).
 - **Das Grab des Apostels.** Die Krypta mit den Reliquien des Heiligen Jakobus unter dem Hochaltar.
 - **Die Umarmung des Apostels** (wenn zugänglich), hinter dem Altar.
 - **Die Pilgermesse**, täglich (siehe unten).
@@ -59,6 +59,8 @@ Der **Botafumeiro** ist das riesige Weihrauchfass (über 50 kg), das acht *Tirab
 
 Es handelt sich um die tägliche Messe (üblicherweise um **12:00 Uhr**, mit einer weiteren am Nachmittag), in der der Camino seinen Höhepunkt findet. Sie füllt die Kathedrale: Wer einen Platz möchte, sollte **deutlich früher** kommen. Während der Messe ist keine touristische Besichtigung möglich.
 
+> **Hinweis:** Seit **Freitag, dem 16. Oktober 2026**, finden die Pilgermessen (9:30, 12:00 und 19:30 Uhr) bis auf Weiteres in der nahen **Kirche San Agustín** statt, weil in der Hauptkapelle der Kathedrale gebaut wird. Nur die Messe um 7:30 Uhr bleibt in der Kathedrale. Die Besichtigungen sind nicht betroffen. Ob der Botafumeiro während der Arbeiten schwingt, geht aus der Mitteilung nicht hervor: Prüfen Sie das vorher auf der Website der Kathedrale.
+
 ## Praktische Tipps
 
 - **Angemessen kleiden:** Es ist ein aktiv genutztes Gotteshaus.
@@ -69,7 +71,7 @@ Es handelt sich um die tägliche Messe (üblicherweise um **12:00 Uhr**, mit ein
 ## Was wir NICHT empfehlen
 
 1. **Davon ausgehen, den Botafumeiro zu sehen.** Er fliegt nur bei bestimmten Messen und Terminen; prüfen Sie das vorher.
-2. **Pünktlich um 12:00 Uhr zur Messe kommen.** Sie wird voll sein; gehen Sie früher.
+2. **Pünktlich um 12:00 Uhr zur Messe kommen.** Sie wird voll sein; gehen Sie früher und prüfen Sie, wo sie stattfindet.
 3. **Das Pórtico de la Gloria auslassen, weil man nicht gebucht hat.** Es ist das Juwel der Kathedrale.
 4. **Mit einem riesigen Rucksack auftauchen.** Man lässt Sie nicht hinein; nutzen Sie die Gepäckaufbewahrung.
 

@@ -4,7 +4,7 @@ descripcion: "Madrid in 3 Tagen mit Anspruch: Prado, El Escorial, Valle de Cuelg
 categoria: "madrid"
 slug: "madrid-in-3-tagen"
 fecha: "2026-02-15"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -82,7 +82,7 @@ Geh über die **Plaza de Santa Ana**, die angrenzende **Plaza del Ángel**, die 
 
 Die **Plaza Mayor** ist ikonisch, aber schnell erledigt: 15-20 Minuten, ein Foto, weiter geht's. Der **Mercado de San Miguel** liegt gleich daneben, teuer und touristisch, aber 30 Minuten wert für die Atmosphäre.
 
-Der **Königspalast** ist der flächenmäßig größte Königspalast Westeuropas. Der Eintritt kostet 12 €, und wenn du im Prado nicht schon überfüllt warst, lohnt sich hier die Investition. Die angrenzenden **Sabatini-Gärten** sind kostenlos und täglich geöffnet.
+Der **Königspalast** ist der flächenmäßig größte Königspalast Westeuropas. Auf eigene Faust brauchst du etwa 45 Minuten. Für Bürger:innen der EU und Iberoamerikas ist der Eintritt von Montag bis Donnerstag in den letzten zwei Stunden frei (Okt-März 16:00-18:00 Uhr, Apr-Sep 17:00-19:00 Uhr). Die angrenzenden **Sabatini-Gärten** sind kostenlos und täglich geöffnet.
 
 Der **Templo de Debod**, im oberen Teil des Parque del Oeste, ist ein ägyptischer Tempel aus dem 2. Jahrhundert v. Chr., ein Geschenk Ägyptens an Spanien. Bei Sonnenuntergang, mit dem Königspalast im Hintergrund und der Sierra am Horizont, ist er eines der unterschätztesten Postkartenmotive Madrids. Kostenlos.
 
@@ -112,8 +112,9 @@ Es ist UNESCO-Weltkulturerbe, und um das spanische 16. Jahrhundert zu verstehen,
 - Ermäßigt (5-16 Jahre, über 65, Studierende bis 25): 7 €
 - Montags geschlossen
 - Winter (Okt-März): 10:00-18:00 Uhr — Sommer (Apr-Sep): 10:00-19:00 Uhr
+- Kostenlos für Bürger:innen der EU und Iberoamerikas mittwochs und sonntags ab 15:00 Uhr (mit Schlange)
 
-**Anreise:** Nahverkehrszug C-3 ab Atocha oder Chamartín bis "El Escorial". Etwa 1 Stunde Fahrzeit. Vom Bahnhof aus 15-20 Minuten zu Fuß bis zum Kloster, oder mit dem Lokalbus. Plane 2-3 Stunden für den Besuch ein.
+**Anreise:** Nahverkehrszug C-3 ab Atocha oder Chamartín bis "El Escorial". Etwa 1 Stunde Fahrzeit. Vom Bahnhof aus 15-20 Minuten bergauf zu Fuß bis zum Kloster. Alternativ Bus 661/664 ab Moncloa (50 Minuten), der direkt am Kloster hält. Plane 2-3 Stunden für den Besuch ein und nimm eine Jacke mit: Drinnen ist es auch im Sommer kühl.
 
 ### Valle de Cuelgamuros: Geschichte und Kontroverse
 
@@ -185,9 +186,9 @@ Die Tablaos im Zentrum sind auf Express-Touristen ausgerichtet: überhöhte Prei
 
 ## Praktische Tipps
 
-**Transport.** Das **Touristenticket (Zone A)** kostet 8,40 € für 1 Tag und 35 € für 7 Tage. Unbegrenzt Metro, Bus und Nahverkehrszüge. Lohnt sich, wenn du El Escorial an Tag 2 besuchst (allein die Zugfahrt hin und zurück kostet schon 8,50 €).
+**Transport.** Das **Touristenticket (Zone A)** kostet 10,30 € für 1 Tag und 43,20 € für 7 Tage (2026). Unbegrenzt Metro, Bus und Nahverkehrszüge innerhalb der Stadt. El Escorial deckt es nicht ab (dafür brauchst du Zone T, 15,40 € pro Tag); für Tag 2 ist die Nahverkehrszug-Rückfahrkarte (8,50 €) meist günstiger.
 
-**Kostenlose Museen.** Der Prado ist täglich in der letzten Stunde kostenlos (Montag-Samstag 18:00-20:00 Uhr, Sonn- und Feiertage 17:00-19:00 Uhr). Das Reina Sofía ist montags und mittwochs-samstags 19:00-21:00 Uhr sowie sonntags 12:30-14:30 Uhr kostenlos. Das Thyssen ist montags 12:00-16:00 Uhr kostenlos. Wenn eure Reisezeit flexibel ist, lohnt sich das — aber der Prado ist um 18:00 Uhr auch überfüllt.
+**Kostenlose Museen.** Der Prado ist täglich in den letzten zwei Stunden kostenlos (Montag-Samstag 18:00-20:00 Uhr, Sonn- und Feiertage 17:00-19:00 Uhr). Das Reina Sofía ist montags und mittwochs-samstags 19:00-21:00 Uhr sowie sonntags 12:30-14:30 Uhr kostenlos. Das Thyssen ist montags 12:00-16:00 Uhr kostenlos. Wenn eure Reisezeit flexibel ist, lohnt sich das — aber der Prado ist um 18:00 Uhr auch überfüllt.
 
 **Spätes Abendessen.** In Madrid wird ab 21:00 Uhr oder später gegessen. Bessere Restaurants öffnen erst um 20:00-20:30 Uhr. Passt euch dem spanischen Rhythmus an, nicht umgekehrt.
 

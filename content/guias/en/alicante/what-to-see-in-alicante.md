@@ -1,10 +1,11 @@
 ---
 titulo: "What to see in Alicante: castle, old town and beaches"
 descripcion: "Alicante guide for one or two days: Santa Bárbara Castle, Santa Cruz quarter, the Explanada, beaches and Tabarca Island. The route, where to eat and the Costa Blanca around."
+respuestaCorta: 'One day covers the city: start at **Santa Bárbara Castle** at 9:30 (take the lift opposite Postiguet beach), walk down through the **Santa Cruz quarter** and the old town, stroll the Explanada and finish with a swim at Postiguet. With a second day, add **Tabarca Island**, a marine reserve reached by boat from the port, with return tickets **from €25**.'
 categoria: "alicante"
 slug: "what-to-see-in-alicante"
 fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

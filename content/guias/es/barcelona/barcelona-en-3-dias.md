@@ -1,10 +1,11 @@
 ---
 titulo: "Barcelona en 3 días: ruta con criterio para verla bien"
 descripcion: "3 días en Barcelona sin perderse en multitudes: Sagrada Familia, Gràcia, Montjuïc, Park Güell. Lo que sí, lo que se salta y dónde dormir."
+respuestaCorta: 'Tres días es la cifra justa para la primera vez: **día 1, Sagrada Família y Casa Batlló**; día 2, Park Güell, Gràcia y atardecer en los **Búnkers del Carmel**; día 3, Gòtic, Born y Montjuïc. Reserva la Sagrada Família (26 € en la web oficial) y el Park Güell (18 €) **con semanas de antelación**: en temporada se agotan 60 días antes.'
 categoria: "barcelona"
 slug: "barcelona-en-3-dias"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -39,7 +40,7 @@ actividades:
 
 Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagrada Família sin reserva, paella en la Barceloneta. Tres días es la cifra justa para la primera vez: Gaudí en serio, dos barrios con carácter, Montjuïc y el mar. Con dos hay que elegir entre Gaudí o los barrios; con cuatro, añade Montserrat. Si solo tienes uno, [Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia).
 
-**2026 es Año Gaudí** (centenario de su muerte) y la Torre de Jesús de la Sagrada Família se culmina este año: las entradas se agotan antes que nunca.
+**2026 es Año Gaudí** (centenario de su muerte) y el 10 de junio se inauguró la Torre de Jesús, que convierte la Sagrada Família en la iglesia más alta del mundo: las entradas se agotan antes que nunca.
 
 ## Cuándo ir, cómo llegar y dónde dormir
 
@@ -52,7 +53,7 @@ Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagr
 | Mobile World Congress (finales de febrero o marzo) | Evitar: los hoteles triplican precio |
 
 - **Aeropuerto:** Cercanías R2 Nord a Sants o Passeig de Gràcia (5 €, 25 minutos), Aerobús (7,25 €) o taxi (30-35 €). **AVE:** a Sants, desde Madrid en 2 h 30 (50-90 € con antelación). **Coche:** no vengas; parking a 25-35 € la noche y zona de bajas emisiones.
-- **Transporte:** T-casual de 10 viajes, 12,15 €, compartible; menores de 4 gratis. El metro cierra a las 24:00 entre semana, a las 2:00 los viernes y no cierra los sábados.
+- **Transporte:** T-casual de 10 viajes, 13 € en 2026 (sencillo, 2,90 €), compartible; menores de 4 gratis. El metro cierra a las 24:00 entre semana, a las 2:00 los viernes y no cierra los sábados.
 - **Dormir:** Eixample (comunicado, cerca de todo), Born (histórico y peatonal), Sant Antoni (mercado y precios razonables) o Gràcia (vida de barrio). **Evita** Ramblas y Plaça de Catalunya (caro, ruido, carteristas), la Barceloneta (tensión vecinal) y el Raval norte de noche.
 
 ## Día 1: Sagrada Família, Eixample y Casa Batlló
@@ -61,13 +62,13 @@ Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagr
 
 **12:00 — Comer en el Eixample:** menú del día a 15-18 € en cualquier paralela a Provença, lejos de las cartas en seis idiomas.
 
-**14:00 — Manzana de la Discordia** (Passeig de Gràcia con Aragó): Casa Batlló, Casa Amatller y, dos calles arriba, La Pedrera. Si entras a una, **Casa Batlló** (29 €; 35 € sin cola): la experiencia está bien hecha. La Pedrera (28 €) es más austera y, para quien valore la arquitectura, más interesante.
+**14:00 — Manzana de la Discordia** (Passeig de Gràcia con Aragó): Casa Batlló, Casa Amatller y, dos calles arriba, La Pedrera. Si entras a una, **Casa Batlló** (desde 31 €): la experiencia está bien hecha. La Pedrera (desde 25 €) es más austera y, para quien valore la arquitectura, más interesante.
 
 **20:30 — Cena** por Aribau y Enric Granados, donde cenan los locales; no en el tramo turístico del Passeig de Gràcia.
 
 ## Día 2: Park Güell, Gràcia y atardecer en el Carmel
 
-**10:00 — Park Güell.** Reserva online: la zona monumental cuesta 18 € (7 € de 7 a 12 años), con franja de 30 minutos; el resto del parque es gratis. Metro L3 Lesseps o Vallcarca y 15-20 minutos de cuesta, o autobús 24 a la puerta. 1 h 30 dentro y media hora más para el **Turó de les Tres Creus**, mirador gratuito en lo alto. Si vas justo, es lo primero que recortaría.
+**10:00 — Park Güell.** Reserva online: la zona monumental cuesta 18 € en la web oficial (13,50 € de 7 a 12 años y mayores de 65; gratis hasta 6 años), y puedes entrar hasta 30 minutos después del inicio de tu franja; el resto del parque es gratis. Metro L3 Lesseps y 15-20 minutos de cuesta, o autobús H6 o D40. 1 h 30 dentro y media hora más para el **Turó de les Tres Creus**, mirador gratuito en lo alto. Si vas justo, es lo primero que recortaría.
 
 **13:00 — Comer en Gràcia**, 20 minutos cuesta abajo. Es donde cena la gente que vive en Barcelona: plazas del Sol, de la Vila y del Diamant, y las calles Verdi y Torrijos, en locales de cuatro mesas, no en terrazas grandes.
 
@@ -75,7 +76,7 @@ Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagr
 
 ## Día 3: Gòtic, Born, mar y Montjuïc
 
-**9:30 — Gòtic**, antes de la marea. La **Catedral** (11 € con claustro, coro y terrazas; gratis para el culto a primera hora), la **Plaça del Rei**, medieval de verdad, y la **Plaça Sant Felip Neri**, con la metralla de la Guerra Civil en la fachada. El puente neogótico de la calle del Bisbe es de 1928: no hagas cola para la foto.
+**9:30 — Gòtic**, antes de la marea. La **Catedral** (visita turística de pago con claustro, coro y terrazas, precio en su web; gratis para el culto a primera hora), la **Plaça del Rei**, medieval de verdad, y la **Plaça Sant Felip Neri**, con la metralla de la Guerra Civil en la fachada. El puente neogótico de la calle del Bisbe es de 1928: no hagas cola para la foto.
 
 **11:30 — Born.** El Mercat del Born (ruinas de 1714, gratis), **Santa Maria del Mar** (el gótico catalán más puro; gratis en horario de culto, 5 € con torres) y, a dos calles, el Picasso (14 €, gratis jueves tarde, cierra lunes).
 

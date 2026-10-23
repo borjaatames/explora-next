@@ -4,7 +4,7 @@ descripcion: "Wie man den Real Alcázar von Sevilla besichtigt: Preise 2026, Öf
 categoria: "sevilla"
 slug: "alcazar-von-sevilla-besichtigen"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: true
@@ -52,10 +52,10 @@ Der Alcázar **ist kein Palast**, sondern **ein Komplex aus Palästen**, der üb
 
 ### Regulärer Eintritt (Stand 2026)
 
-- **Regulärer Besuch**: rund **20 €** — aktuellen Preis auf alcazarsevilla.org prüfen
-- **Ermäßigt** (Studierende unter 25, Rentner): **12 €**
+- **Regulärer Besuch**: **15,50 €** (2026, offiziell auf alcazarsevilla.org)
+- **Ermäßigt** (ab 65, Studierende von 14 bis 30, Carné Joven): **8 €**
 - **Cuarto Real Alto** (Zusatzticket): **5,50 €** zusätzlich
-- **Kostenlos**: geboren in oder wohnhaft in Sevilla-Stadt, **unter 16-Jährige in Begleitung eines Erwachsenen**, Menschen mit Behinderung ab 33 %, Arbeitslose aus der Provinz
+- **Kostenlos**: geboren in oder wohnhaft in Sevilla-Stadt, **unter 13-Jährige in Begleitung eines Erwachsenen** (brauchen trotzdem ein Ticket), Menschen mit Behinderung ab 33 %, Arbeitslose aus der Provinz
 
 > **Hinweis zum Preis:** die zuständige Stiftung hat den Tarif 2026 aktualisiert. Wenn du ankommst und einen anderen Preis siehst, prüfe immer zuerst die offizielle Website **alcazarsevilla.org**, bevor du einem Zwischenhändler vertraust.
 

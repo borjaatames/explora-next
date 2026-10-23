@@ -37,8 +37,8 @@ noIncluye:
   - "Casa del Guarda (different building — included only in the simple admission ticket)"
 
 puntoEncuentro:
-  texto: "Park Güell main entrance. Recommended access: Carretera del Carmel 23 (escalator from Av. Pompeu Fabra) or Carrer Larrard. The Gaudí House Museum is INSIDE the park, towards the upper side."
-  descripcionGuia: "The Gaudí House Museum sits inside the park's monumental zone, between the serpentine bench terrace and the upper viewpoints. The most practical entry is Ctra. del Carmel 23 (escalator access from Av. Pompeu Fabra) — from there it's a 5-min walk uphill to reach the museum. Carrer Larrard is the alternative, but it's a longer uphill walk from Lesseps metro. Bus 24, 92 or H6 leave nearby. The Bus Turístic stops at Av. de la Mare de Déu de Montserrat (10 min walk). Vallcarca escalators currently OUT OF SERVICE."
+  texto: "Park Güell main entrance. Recommended access (official site): Av. del Santuari de Sant Josep de la Muntanya (with escalators) or Carrer Larrard. The Gaudí House Museum is INSIDE the park, towards the upper side."
+  descripcionGuia: "The Gaudí House Museum sits inside the park's monumental zone, between the serpentine bench terrace and the upper viewpoints. The official site recommends the Av. del Santuari de Sant Josep de la Muntanya entrance (with escalators); Carrer Larrard is the alternative. Bus H6 or D40 to Travessera de Dalt (about a 10 min walk); metro Vallcarca or Lesseps (line 3) + about 20 min walking. The Bus Turístic stops at Av. de la Mare de Déu de Montserrat (10 min walk)."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 16
@@ -67,7 +67,7 @@ informacionImportante:
     - "Visitors with documented disabilities don't need to pay (some travellers reported finding out only after booking)"
     - "Ticket is non-refundable — once booked, no cancellation"
 
-accesibilidad: "Park Güell's irregular paths and steep ramps may make it difficult for visitors with reduced mobility. The Gaudí House Museum has multiple floors and stairs — wheelchair access to the museum is limited. The escalator at Av. Pompeu Fabra/Ctra. del Carmel helps with the initial ascent into the park. Visitors with documented disabilities have free entry — check on-site documentation."
+accesibilidad: "Park Güell's irregular paths and steep ramps may make it difficult for visitors with reduced mobility. The Gaudí House Museum has multiple floors and stairs — wheelchair access to the museum is limited. Visitors with documented disabilities have free entry — check on-site documentation."
 
 politicaCancelacion: "Non-refundable. Once booked, the ticket cannot be cancelled, refunded or rescheduled. If your time slot isn't available, the system will reassign you within an hour of your original choice — but you cannot pick a new day."
 
@@ -143,7 +143,7 @@ Self-guided combined visit: Park Güell's monumental zone + the Gaudí House Mus
 
 **Plan 2-3 hours for the full visit:** 1.5-2 hours for Park Güell + 45 min for the museum.
 
-**Park closing hours vary by season** (9:30 PM in summer, 6:15 PM in winter). Museum closes about an hour before the park.
+**Park tourist hours:** time slots from 9:30 AM to 7:30 PM; from 8:00 to 10:00 PM the park is reserved for residents. Check the museum's hours when booking.
 
 ## Who I'd recommend it to
 

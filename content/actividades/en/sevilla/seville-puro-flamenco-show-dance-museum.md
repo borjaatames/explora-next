@@ -107,7 +107,7 @@ preguntasFrecuentes:
     15th-c. patio + only 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value being 2-3 m from
     the artists. **Teatro Flamenco Sevilla:** Large theater, maximum volume (18,292 reviews), comfortable tiered seats, from
     €27. RECOMMENDED if you want most booked + comfort. **Teatro Flamenco Triana:** Theater in Triana (historic gypsy neighborhood),
-    4,363 reviews 4.7/5, from €35. RECOMMENDED if you want the Triana atmosphere. **Tablao El Arenal:** 17th-c. building next
+    4,363 reviews 4.7/5, from €25. RECOMMENDED if you want the Triana atmosphere. **Tablao El Arenal:** 17th-c. building next
     to Maestranza, 50 years of history, dinner option, from €48. RECOMMENDED if you want tradition + dinner.'
 - pregunta: What are flamenco palos and which will I see?
   respuesta: '**Palos** are the different «genres» or styles of flamenco — each with its compass, melody and emotional character.
@@ -137,8 +137,8 @@ opinionEditorial: '**Flamenco with the Cristina Hoyos signature** — 6,456 revi
   by her or her team, giving characteristic artistic quality.
 
 
-  **Price comparison:** from €32 it''s **the third most expensive** of Seville''s 5 major flamenco venues (vs. Casa de la
-  Memoria €26, Teatro Flamenco Sevilla €27, Teatro Flamenco Triana €35, Tablao El Arenal €48). The €5-6 premium over Casa
+  **Price comparison:** from €32 it''s **the second most expensive** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
+  Triana €25, Casa de la Memoria €26, Teatro Flamenco Sevilla €27, Tablao El Arenal €48). The €5-6 premium over Casa
   de la Memoria buys: Hoyos choreography + 18th-c. Ecija patio + museum combined option (+€7). The combined option (+€7 =
   €39 total) is the best deal if you have 2-3 days in Seville and are interested in flamenco culture in depth.
 

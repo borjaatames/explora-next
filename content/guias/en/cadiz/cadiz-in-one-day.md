@@ -1,10 +1,11 @@
 ---
 titulo: "Cádiz in one day: the oldest city in the West"
 descripcion: "What to see in Cádiz in one day: Cathedral, Torre Tavira, El Pópulo quarter, La Viña and La Caleta. An hour-by-hour walking route, where to eat and what to skip."
+respuestaCorta: 'Cádiz''s old town is walked in a day: the **Cathedral and Clock Tower** at 9:30, El Pópulo and the free Roman Theatre, the **Torre Tavira camera obscura** and the Central Market. Have fried fish for lunch in **La Viña**, then end at **La Caleta beach** for sunset. The train from Seville takes 1h 40min, and a guided old-town walking tour costs from €20.'
 categoria: "cadiz"
 slug: "cadiz-in-one-day"
 fecha: "2026-04-18"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Team"
 publicada: true
 destacada: true

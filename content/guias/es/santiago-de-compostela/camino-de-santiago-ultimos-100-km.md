@@ -1,10 +1,11 @@
 ---
 titulo: "El Camino de Santiago: los últimos 100 km (cómo hacerlos y la Compostela)"
 descripcion: "Guía de los últimos 100 km del Camino de Santiago: dónde empezar (Sarria, Tui, Ferrol), etapas, la credencial y la Compostela, cuándo ir y qué llevar."
+respuestaCorta: 'Para conseguir la Compostela hay que caminar **al menos los últimos 100 km** hasta Santiago (200 km en bici) y sellar la credencial **dos veces al día**. Lo más habitual es salir de **Sarria**, a unos 114 km y cinco etapas, que se hacen en 5-7 días. La Compostela es **gratuita** en la Oficina del Peregrino; el certificado de distancia cuesta 3 €.'
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-ultimos-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
@@ -21,6 +22,7 @@ slugs:
   es: camino-de-santiago-ultimos-100-km
   en: camino-de-santiago-last-100-km
   de: jakobsweg-letzte-100-km
+reservasArriba: true
 actividades:
   - tour-a-pie-casco-antiguo-santiago
   - catedral-santiago-museo-tour-guiado
@@ -73,7 +75,8 @@ Cinco etapas cómodas (puedes dividir la tercera). El **Monte do Gozo**, a 5 km 
 
 - **Presupuesto diario:** albergue público, 10 € (sin reserva, se abren a las 13:00 y se llenan por orden de llegada); albergue privado, 15-22 €; pensión u hostal, 40-70 € la doble. Menú del peregrino, 12-15 €; desayuno, 3-5 €. Entre 35 y 45 € al día en albergue y 60-80 € con habitación propia.
 - **La credencial** cuesta 2-3 € y se compra en la Oficina del Peregrino de Santiago, en parroquias y albergues del Camino, o en las asociaciones de amigos del Camino antes de salir. En Sarria la venden en el monasterio de la Magdalena y en varios albergues. Sin ella no puedes dormir en los públicos.
-- **La Compostela es gratuita;** el certificado de distancia, con los kilómetros, cuesta 3 €. La Oficina del Peregrino (Rúa das Carretas, 33) abre de 8:00 a 20:00 en temporada y funciona con número por QR: pídelo al llegar y vuelve a tu hora.
+- **La Compostela es gratuita;** el certificado de distancia, con los kilómetros, cuesta 3 €. La Oficina del Peregrino (Rúa das Carretas, 33) abre todos los días de 10:00 a 18:00, salvo el 25 de diciembre y el 1 de enero (esos días la Compostela se entrega en la catedral), y funciona con número por QR: pídelo al llegar y vuelve a tu hora.
+- **Misa del Peregrino:** desde el 16 de octubre de 2026, y hasta nuevo aviso, las de las 12:00 y las 19:30 se celebran en la cercana iglesia de San Agustín, por obras en la capilla mayor de la catedral. La catedral sigue abierta gratis de 7:00 a 21:00; más en [cómo visitar la Catedral de Santiago](/guias/santiago-de-compostela/catedral-de-santiago-como-visitar).
 - **Llegar a Sarria:** en tren desde Madrid (5-6 horas, con enlace en Ourense o directo según el día) o desde Santiago y A Coruña con cambio en Monforte; en autobús desde Lugo (45 minutos). Muchos peregrinos vuelan a Santiago, dejan la maleta en consigna y van a Sarria en tren o taxi compartido (unos 90 € el taxi).
 - **Transporte de mochila:** 6-8 € por etapa; se deja en la recepción del albergue antes de las 8:00 y la recogen en el siguiente. Hace falta reservar el alojamiento de destino.
 - **Ritmo y horas:** se camina de 7:00 a 13:00 para evitar el calor y llegar antes de que se llenen los albergues. A 4 km/h, una etapa de 22 km son 5 h 30 con paradas.

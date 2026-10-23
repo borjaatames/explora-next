@@ -64,7 +64,7 @@ politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso �
 
 preguntasFrecuentes:
   - pregunta: "¿En qué se diferencia de la Cueva Los Amayas o las Cuevas Los Tarantos?"
-    respuesta: "Las tres son cuevas del Sacromonte con formato similar (sin escenario, flamenco en cercanía), pero el aforo cambia: La Faraona tiene 25 plazas, Los Amayas 60 y Los Tarantos es bastante mayor. La Faraona es la más íntima de las tres. Si valoras estar a metro y medio de los artistas, esta es la opción; si prefieres más volumen y más reseñas, Los Tarantos (2.091) o La Alboreá (5.480) son más probadas."
+    respuesta: "Las tres son cuevas del Sacromonte con formato similar (sin escenario, flamenco en cercanía), pero el aforo cambia: La Faraona tiene 25 plazas, Los Amayas 60 y Los Tarantos es bastante mayor. La Faraona es la más íntima de las tres. Si valoras estar a metro y medio de los artistas, esta es la opción; si prefieres más volumen y más reseñas, Los Tarantos (2.093) o La Alboreá (5.481) son más probadas."
   - pregunta: "¿Cómo llego al Sacromonte?"
     respuesta: "A pie desde Plaza Nueva por la Cuesta del Chapiz tardarás 30-35 minutos en cuesta. En el autobús C2 subes directamente en 15 minutos. En taxi son 5-7 € desde el centro. De noche, mejor volver al centro en taxi o caminando con luz: las calles son empinadas y poco iluminadas."
   - pregunta: "¿Es seguro el Sacromonte de noche?"
@@ -79,7 +79,7 @@ variantes: ["flamenco-cueva-amayas-sacromonte", "flamenco-cuevas-tarantos-sacrom
 opinionEditorial: |
   De las cuevas del Sacromonte, esta es la más pequeña: solo 25 plazas. Eso convierte la experiencia en algo bastante distinto. En Los Amayas (60 plazas) o en Los Tarantos (aforo mayor) el flamenco sigue siendo cercano, pero hay una distancia mínima entre artistas y público. En La Faraona los bailarines están a metro y medio, prácticamente puedes tocarles si extiendes el brazo. Para quien quiera la experiencia más cruda y familiar del flamenco gitano, este es el formato.
 
-  Lo que pierdes: bebida (los Amayas la incluye), volumen de reseñas (503 frente a 1.111 de Los Amayas o 2.091 de Los Tarantos) y opción en inglés. El espectáculo se hace solo en español, lo cual no es problema para el baile y el cante pero sí limita las posibles explicaciones entre tablas. Si viajas con público no hispanohablante, mejor un tablao en el centro con explicaciones en inglés.
+  Lo que pierdes: bebida (los Amayas la incluye), volumen de reseñas (503 frente a 1.107 de Los Amayas o 2.093 de Los Tarantos) y opción en inglés. El espectáculo se hace solo en español, lo cual no es problema para el baile y el cante pero sí limita las posibles explicaciones entre tablas. Si viajas con público no hispanohablante, mejor un tablao en el centro con explicaciones en inglés.
 
   A 18 € es la opción más barata de cueva. El rating 4,7 con la distinción «Mejor valorados» de GetYourGuide y la trayectoria del operador (la propia cueva, sin intermediarios) hacen que sea una apuesta segura para quien valore el formato íntimo por encima del confort de butaca. Conviene ir con calzado cómodo: el camino desde el centro hasta el número 53 del Camino del Sacromonte es cuesta arriba.
 

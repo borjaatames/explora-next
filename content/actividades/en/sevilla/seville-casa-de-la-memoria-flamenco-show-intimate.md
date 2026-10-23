@@ -38,10 +38,10 @@ noIncluye:
 - Gratuities
 - Transport
 puntoEncuentro:
-  texto: Casa de la Memoria is at **Calle Cuna 6** (08001 Seville, historic center). 15th-century historic building — entry
+  texto: Casa de la Memoria is at **Calle Cuna 6** (41004 Seville, historic center). 15th-century historic building — entry
     through the main facade with «Casa de la Memoria» sign. Arrive 15-20 min before the session to ensure a seat (seats are
     NOT numbered).
-  descripcionGuia: 'Metro: Puerta de Jerez (line 1, 12 min walk) or Plaza Nueva station (8 min). MetroCentro tram: Plaza Nueva
+  descripcionGuia: 'Metro: Puerta de Jerez (line 1, 12 min walk). MetroCentro tram: Plaza Nueva
     (6 min walk). Bus: stops along Avenida de la Constitución. Calle Cuna is in the heart of the historic center, between
     the Encarnación Market (Setas) and the Cathedral. Arrive 15-20 min before the session to secure a good seat — seats are
     NOT numbered, first come first chooses (the front row offers the most intimate experience).'
@@ -95,7 +95,7 @@ preguntasFrecuentes:
     theater, maximum volume (18,292 reviews), central location, from €27. RECOMMENDED if you want most booked + comfortable
     tiered seats. **Museo del Baile Flamenco (Puro Flamenco):** 18th-c. Ecija patio, Cristina Hoyos choreographies, 6,456
     reviews 4.8/5, from €32. RECOMMENDED if you''re interested in iconic artistic quality. **Teatro Flamenco Triana:** Large
-    theater in Triana (gypsy cradle of flamenco), 4,363 reviews 4.7/5, from €35. RECOMMENDED if you want the historic flamenco
+    theater in Triana (gypsy cradle of flamenco), 4,363 reviews 4.7/5, from €25. RECOMMENDED if you want the historic flamenco
     neighborhood vibe. **Tablao El Arenal:** 50 years of history, 17th-c. building next to Maestranza, dinner option, from
     €48. RECOMMENDED if you want tradition + dinner.'
 - pregunta: Is it worth booking the front row or does any row work?
@@ -124,8 +124,8 @@ opinionEditorial: 'The **most intimate and highest-rated flamenco in Seville** �
   closest to "flamenco de cabales" (connoisseur audience) in an open tourist format.
 
 
-  **Price comparison:** from €26 it''s **the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
-  Sevilla €27, Museo del Baile Flamenco €32, Teatro Flamenco Triana €35, Tablao El Arenal €48). The low price + international
+  **Price comparison:** from €26 it''s **one of the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro
+  Flamenco Triana €25, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32, Tablao El Arenal €48). The low price + international
   artistic quality + maximum intimacy is the combination that justifies the 4.8/5 and 13,526 reviews.
 
 
@@ -212,7 +212,7 @@ A **1-hour flamenco show in the 15th-century Andalusian patio of Casa de la Memo
 - Couples preferring intimate atmosphere (no massive tourist groups).
 - Those interested in **international artistic quality** (artists in residence rotate).
 - Visitors who can arrive **20-30 min early** to guarantee the front row.
-- Anyone seeking best value (from €26, the most affordable of the 5 majors).
+- Anyone seeking best value (from €26, one of the most affordable of the 5 majors).
 
 ## Who I do NOT recommend it to
 

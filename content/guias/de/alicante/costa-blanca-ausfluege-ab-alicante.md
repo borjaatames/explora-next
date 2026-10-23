@@ -4,7 +4,7 @@ descripcion: "Die besten Ausflüge ab Alicante: Benidorm, Altea, Calpe und der P
 categoria: "alicante"
 slug: "costa-blanca-ausfluege-ab-alicante"
 fecha: "2026-04-17"
-fecha_actualizacion: "2026-04-17"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -40,15 +40,15 @@ Neben der **Insel Tabarca** (die einen eigenen Guide hat: [wie man sie besucht](
 | Ziel | Entfernung | Ideal für |
 | --- | --- | --- |
 | Elche | 20 Min. | Palmenhain, UNESCO-Weltkulturerbe |
-| Altea | 50 Min. (TRAM) | Weißes Dorf mit blauen Kuppeln |
-| Calpe | 1 Std. (TRAM) | Der Peñón de Ifach und Strände |
+| Altea | 50 Min. (Auto); TRAM mit Umstieg in Benidorm | Weißes Dorf mit blauen Kuppeln |
+| Calpe | 1 Std. (Auto); TRAM mit Umstieg in Benidorm | Der Peñón de Ifach und Strände |
 | Guadalest | 1 Std. (Auto) | Bergdorf und türkisfarbener Stausee |
-| Benidorm | 45 Min. (TRAM) | Skyline, Strände und Freizeitparks |
+| Benidorm | 45 Min. (Auto), 1 Std. 10 Min. (TRAM) | Skyline, Strände und Freizeitparks |
 | Jávea (Xàbia) | 1 Std. (Auto) | Buchten und maritimes Altstadtflair |
 
 ## Benidorm
 
-45 Minuten mit der TRAM entfernt liegt die berühmteste **Skyline** am Mittelmeer, mit riesigen Stränden (Levante, Poniente) und Freizeitparks: **Terra Mítica**, **Aqualandia**, **Mundomar**. Ein ideales Ziel mit Kindern oder für einen lebendigen Strandtag.
+1 Std. 10 Min. mit der TRAM (45 Minuten mit dem Auto) entfernt liegt die berühmteste **Skyline** am Mittelmeer, mit riesigen Stränden (Levante, Poniente) und Freizeitparks: **Terra Mítica**, **Aqualandia**, **Mundomar**. Ein ideales Ziel mit Kindern oder für einen lebendigen Strandtag.
 
 ## Altea und Calpe
 
@@ -64,7 +64,7 @@ Eine Autostunde entfernt liegt **Guadalest**, ein Bergdorf mit einer auf dem Fel
 
 ## Wie du dich fortbewegst
 
-Die **TRAM-Linie 1** verbindet Alicante mit der Nordküste (El Campello, Villajoyosa, Benidorm, Altea, Calpe): bequem und aussichtsreich. Für **Guadalest** und die Dörfer im Landesinneren gibt dir das **Auto** mehr Freiheit. **Elche** erreichst du bequem mit der Nahverkehrsbahn.
+Die **TRAM-Linie 1** verbindet Alicante mit der Nordküste (El Campello, Villajoyosa, Benidorm): bequem und aussichtsreich. Für Altea und Calpe steigst du in Benidorm in die Linie 9 um. Für **Guadalest** und die Dörfer im Landesinneren gibt dir das **Auto** mehr Freiheit. **Elche** erreichst du bequem mit der Nahverkehrsbahn.
 
 ## Was wir NICHT empfehlen
 

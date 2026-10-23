@@ -64,7 +64,7 @@ politicaCancelacion: "Free cancellation up to 24 hours in advance for a full ref
 
 preguntasFrecuentes:
   - pregunta: "How does it differ from Cueva Los Amayas or Cuevas Los Tarantos?"
-    respuesta: "All three are Sacromonte caves with a similar format (no stage, close-up flamenco), but the capacity differs: La Faraona has 25 seats, Los Amayas 60 and Los Tarantos is considerably larger. La Faraona is the most intimate of the three. If you value being a metre and a half from the artists, this is the one; if you prefer more volume and more reviews, Los Tarantos (2,091) or La Alboreá (5,480) are more tested."
+    respuesta: "All three are Sacromonte caves with a similar format (no stage, close-up flamenco), but the capacity differs: La Faraona has 25 seats, Los Amayas 60 and Los Tarantos is considerably larger. La Faraona is the most intimate of the three. If you value being a metre and a half from the artists, this is the one; if you prefer more volume and more reviews, Los Tarantos (2,093) or La Alboreá (5,481) are more tested."
   - pregunta: "How do I get to Sacromonte?"
     respuesta: "On foot from Plaza Nueva up the Cuesta del Chapiz takes 30-35 minutes uphill. On the C2 bus you get there directly in 15 minutes. By taxi it's €5-7 from the centre. At night, the most comfortable way back is taxi or walking with company while there's light: the streets are steep and poorly lit."
   - pregunta: "Is Sacromonte safe at night?"
@@ -79,7 +79,7 @@ variantes: ["flamenco-show-cueva-los-amayas-sacromonte", "flamenco-show-cuevas-t
 opinionEditorial: |
   Of the Sacromonte caves, this is the smallest: just 25 seats. That makes the experience quite different. At Los Amayas (60 seats) or Los Tarantos (larger capacity), flamenco is still close-up, but there's a minimum distance between artists and audience. At La Faraona the dancers are a metre and a half away, you could practically touch them by stretching out your arm. For travellers who want the rawest, most family-style gypsy flamenco experience, this is the format.
 
-  What you lose: a drink (Los Amayas includes one), review volume (503 versus 1,111 at Los Amayas or 2,091 at Los Tarantos) and an English option. The show is run only in Spanish, which isn't a problem for the dancing and singing but does limit the possible explanations between numbers. If you're travelling with non-Spanish-speaking guests, a central tablao with English commentary is better.
+  What you lose: a drink (Los Amayas includes one), review volume (503 versus 1,107 at Los Amayas or 2,093 at Los Tarantos) and an English option. The show is run only in Spanish, which isn't a problem for the dancing and singing but does limit the possible explanations between numbers. If you're travelling with non-Spanish-speaking guests, a central tablao with English commentary is better.
 
   At €18 it's the cheapest cave option. The 4.7 rating with GetYourGuide's «Best rated» distinction and the operator's track record (the cave itself, no middlemen) make it a safe bet for travellers who value the intimate format over seating comfort. Wear comfortable shoes: the walk from the centre up to number 53 of the Camino del Sacromonte is uphill.
 

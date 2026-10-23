@@ -4,7 +4,7 @@ descripcion: "Wo man in Barcelona gut isst: authentische Tapas, katalanische Abe
 categoria: "barcelona"
 slug: "essen-in-barcelona"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -101,7 +101,7 @@ Vier Orte, um **schnell, gut und günstig** zu essen (Pa amb tomàquet, Sandwich
 
 **El Quim de la Boquería** (La Boquería). **Die Ausnahme** von "iss nicht in der Boquería". Eier mit Tintenfischen, Poularde im eigenen Saft. Theke im Markt, man muss warten, aber es lohnt sich. Unter der Woche oder sehr früh hingehen.
 
-**Bar Pinotxo** (La Boquería). Die andere Ausnahme. Kichererbsen mit Blutwurst, Kutteln. Gleiches Prinzip: Theke im Markt, warten. Zwischen 8:00 und 9:00 Uhr hingehen, solange noch keine Touristen da sind.
+**Bar Pinotxo** (Mercat de Sant Antoni, Ronda de Sant Antoni 18). Nicht mehr in der Boquería: 2023 ist die Bar in den Markt von Sant Antoni umgezogen. Kichererbsen mit Blutwurst, Kutteln. Gleiches Prinzip: Theke im Markt, früh hingehen.
 
 **Forn Baluard** (Carrer Baluard 38, Barceloneta). Das **beste Brot Barcelonas** (ohne Diskussion). Coca de recapte, Croissants, Sauerteig. Zum Mitnehmen und am Strand oder unterwegs essen. Unverzichtbar, wer Brot liebt.
 

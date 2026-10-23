@@ -4,7 +4,7 @@ descripcion: "Leitfaden für PortAventura World: die drei Parks (PortAventura, F
 categoria: "tarragona"
 slug: "portaventura-world-guide"
 fecha: "2026-05-01"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain Redaktion"
 publicada: true
 destacada: false
@@ -47,9 +47,9 @@ Die goldene Regel: **ein Tag pro Park**. Zu versuchen, alles an einem Tag zu seh
 
 ## Tickets und Tage
 
-> **⭐ Tipp:** Kaufe die Tickets **online** (günstiger als an der Kasse) und überlege dir den **Express Pass**, um an Stoßtagen Warteschlangen bei den gefragtesten Attraktionen zu überspringen. Wenn du in einem der **Resort-Hotels** wohnst, hast du meist einen frühen Zugang zum Park.
+> **⭐ Tipp:** Kaufe die Tickets **online** (so sparst du dir die Kassenschlange) und überlege dir den **Express Pass**, um an Stoßtagen Warteschlangen bei den gefragtesten Attraktionen zu überspringen. Wenn du in einem der **Resort-Hotels** wohnst, hast du meist einen frühen Zugang zum Park.
 
-Es gibt Tickets für 1, 2 oder 3 Tage sowie Kombitickets (PortAventura + Ferrari Land). Für zwei Parks empfehlen sich eher zwei Tage.
+Es gibt Tickets für 1, 2 oder 3 Tage sowie Kombitickets (PortAventura + Ferrari Land). Für zwei Parks empfehlen sich eher zwei Tage. Das Ticket für PortAventura Park mit einem Eintritt in Ferrari Land gibt es **ab 55 €**, mit Caribe Aquatic Park **ab 76 €** (lohnt sich nur im Sommer). Kinder unter 3 Jahren sind frei; Express, Essen und Parken sind nicht inbegriffen.
 
 ## Mit Kindern
 
@@ -61,7 +61,7 @@ Der Bereich **SésamoAventura** ist für die Kleinsten gedacht, mit sanften Attr
 
 ## Wann hingehen
 
-Die Saison läuft von **Mitte März bis Anfang Januar**, mit Sonderveranstaltungen zu **Halloween** und **Weihnachten** (zu den besten Zeiten überhaupt). Vermeide nach Möglichkeit **Wochenenden und Brückentage**: Die Warteschlangen schießen dann in die Höhe. Geh zur Öffnungszeit.
+2026 läuft **Halloween** vom 19. September bis 15. November und **Weihnachten** vom 20. November 2026 bis 6. Januar 2027, der letzte Abschnitt der Saison (zu den besten Zeiten überhaupt); der Saisonstart 2027 ist noch nicht bekannt. Öffnungstage und -zeiten ändern sich, und Ferrari Land und Caribe haben eigene Kalender: Prüfe vor dem Kauf den offiziellen Kalender auf portaventuraworld.com. Vermeide nach Möglichkeit **Wochenenden und Brückentage**: Die Warteschlangen schießen dann in die Höhe. Geh zur Öffnungszeit.
 
 ## Was wir NICHT empfehlen
 
@@ -74,7 +74,7 @@ Die Saison läuft von **Mitte März bis Anfang Januar**, mit Sonderveranstaltung
 
 > **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
 
-1. **An der Kasse kaufen.** Online ist günstiger, und du sparst dir die Eingangsschlange.
+1. **An der Kasse kaufen.** Online sparst du dir die Eingangsschlange und sicherst dein Datum.
 2. **Spät ankommen.** In der ersten Stunde sind die Warteschlangen am kürzesten.
 3. **Vergessen, dass Ferrari Land und Caribe separat sind** (unterschiedliches Ticket/Saison).
 

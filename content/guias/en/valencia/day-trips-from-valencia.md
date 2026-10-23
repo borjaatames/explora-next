@@ -4,7 +4,8 @@ descripcion: "The best day trips from Valencia: La Albufera, Sagunto, Xàtiva, P
 categoria: "valencia"
 slug: "day-trips-from-valencia"
 fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-23"
+respuestaCorta: 'The best day trip from Valencia is **La Albufera**, 20 minutes away: a boat ride among the rice fields and paella in El Palmar. For history, **Sagunto** (30 minutes by train) and **Xàtiva** (45 minutes) have hilltop castles; for a beach with a castle, **Peñíscola**, an hour and a half north.'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -73,9 +74,24 @@ An hour and a half away, on the **Costa del Azahar**, **Peñíscola** is a walle
 
 An hour away, **Requena** is wine and cava country, with a medieval old quarter (La Villa) and century-old wineries to visit. Ideal for wine lovers.
 
+## With kids or on a hot day: the San José Caves
+
+In La Vall d'Uixó, north of Sagunto, the **San José Caves** hold the longest navigable underground river in Europe, visited by small boat. Kids usually love it, and it's cool when the castles are baking. The cave has steps and low ceilings. Without a car, the organised half day includes transport from central Valencia.
+
+[actividad: san-jose-caves-day-trip]
+
+## Practical: trains, prices and timings
+
+- **Cercanías from Estació del Nord:** Sagunto, 30 minutes (line C-6, every 20–30 minutes, about €4); Xàtiva, 45 minutes (C-2, every 30 minutes, €5–6); Gandía, 1 hour (C-1). The 10-trip pass works out cheaper than singles, and under-6s travel free.
+- **La Albufera:** EMT buses 24 and 25 to El Palmar (45 minutes, €1.50). Boats leave from the village jetty without booking, for about 40 minutes. The sunset trip is the one everyone wants: arrive 30 minutes early.
+- **Sagunto Castle:** free; open 10:00–20:00 in summer (18:00 in winter), closed on Mondays. It's a 30-minute walk up from the station. The Roman theatre next to it is also free.
+- **Xàtiva Castle:** €6, a 30-minute climb from the old town or a tourist train (€4). Closed on Mondays. The climb at midday in summer is tough: go at 10:00.
+- **Peñíscola:** 1 h 30 by car on the AP-7; Pope Luna's castle costs €5, and in August the walled town is jammed from 11:00. Without a car, take the train to Benicarló-Peñíscola (1 h 30), then a bus or taxi for the last 7 km.
+- **Requena:** 1 hour by car. Wineries (Murviedro, Pago de Tharsys, Hispano Suizas) open by appointment only, €10–25 with a tasting. The cellars under Requena's old town cost €4. There's a regional train from Valencia (1 h 10), but the wineries are outside town.
+
 ## Getting around
 
-Many trips can be done **by local train** (Sagunto, Xàtiva, Gandía) with no need for a car. La Albufera, by bus or car. For Peñíscola, Requena or inland villages, a **car** gives more freedom. Book winery visits and boat rides ahead in season.
+Sagunto, Xàtiva and Gandía work well **by local train**, and La Albufera by bus. For Peñíscola, Requena or inland villages, a **car** gives more freedom.
 
 ## What we don't recommend
 
@@ -87,7 +103,7 @@ Many trips can be done **by local train** (Sagunto, Xàtiva, Gandía) with no ne
 
 > **⚠️ Warning:** the slip-ups we see most.
 
-1. **Not booking the boat in La Albufera or the paella in El Palmar** at weekends.
+1. **Not booking a table in El Palmar** at weekends, or arriving late for the sunset boat.
 2. **Forgetting that many castles close at midday or on Mondays.** Check the hours.
 3. **Underestimating the summer heat** at shadeless castles (Sagunto, Xàtiva); go first thing.
 
