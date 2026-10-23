@@ -101,10 +101,22 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["seville tapas crawl", "seville tapas tour top rated", "seville food tour english", "best tapas tour seville", "tapas crawl small group seville"]
 
-imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
-imagenAlt: "Historic centre of Seville — neighbourhood where the tapas crawl takes place"
+imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+imagenAlt: "Tapa and a cold beer on a wooden bar"
 
 galeria:
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
+    alt: "Bowl of green olives with wine glasses"
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+    alt: "Plate of ham croquetas"
+  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+    alt: "Callejón del Agua in the Santa Cruz quarter"
+  - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+    alt: "Metropol Parasol over Plaza de la Encarnación"
+  - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+    alt: "Colourful houses on Calle Betis along the Guadalquivir"
+  - src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
+    alt: "Triana Bridge lit up at dusk"
 ratingProveedor: 4.9
 numeroOpiniones: 1848
 

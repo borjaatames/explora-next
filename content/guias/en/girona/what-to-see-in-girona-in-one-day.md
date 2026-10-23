@@ -15,6 +15,17 @@ keywords:
 - girona game of thrones
 - girona el call
 - girona itinerary
+faq:
+  - pregunta: "Can you see Girona in one day?"
+    respuesta: "Yes. The old town is compact and walkable: the Onyar houses, the Cathedral, El Call, the Arab Baths, Sant Pere de Galligants and the city walls fit into a route from 9:30 to mid-afternoon, with a lunch break. Just don't treat it as a half-hour stop between Barcelona and the Costa Brava: it deserves the whole day."
+  - pregunta: "How do I get from Barcelona to Girona?"
+    respuesta: "The AVE or Avant from Sants takes 38 minutes, with departures all morning; the regional train takes 1 h 20 and costs about half. The station is a 15-minute walk from the old town. If you drive, don't go into the Barri Vell, which is pedestrianised: park at La Devesa or the station car park."
+  - pregunta: "How much does it cost to visit Girona Cathedral?"
+    respuesta: "The Cathedral and Sant Feliu share one ticket, €7.50 as of 2026, audio guide included. On Sundays and holidays the Cathedral opens at 12:00. The city walls are free, the Arab Baths cost a few euros and the Museum of Jewish History is €4."
+  - pregunta: "When is the best time to visit Girona?"
+    respuesta: "April to June and September to October. During Temps de Flors (mid-May, nine days) the city fills with flowers, but it gets packed and hotels sell out weeks ahead; in winter there are no queues. Late October brings the Sant Narcís festival, with a local atmosphere and without the May crowds."
+  - pregunta: "Is a guided tour of Girona worth it?"
+    respuesta: "If you only book one thing, make it the small-group walking tour of the Barri Vell (4.8★, from €35): 2 h 30 through the walls, the cathedral, El Call and the Eiffel bridge, ending with tips on what to visit inside and where to eat. Monument tickets are extra. If you'd rather go at your own pace, the DareMapp self-guided audio tour costs €5."
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
@@ -27,6 +38,8 @@ actividades:
   - girona-costa-brava-grupo-reducido-recogida-hotel
   - girona-figueres-dali-cadaques-desde-barcelona
   - tour-autoguiado-daremapp-girona
+  - girona-catedral-museu-art-sant-feliu-entrada
+  - girona-judia-tour-guiado-call
 ---
 **Girona is easy to see in a day.** Its old town is compact and walkable: the cathedral, the Call, the colourful Onyar houses and the city walls. It's 38 minutes from Barcelona by high-speed train.
 

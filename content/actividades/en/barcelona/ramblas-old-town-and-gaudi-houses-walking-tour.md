@@ -103,12 +103,30 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["barcelona ramblas walking tour", "old town gaudi walking tour barcelona", "barcelona top rated walking tour", "passeig de gracia walking tour", "barcelona gothic quarter english tour"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp"
-imagenAlt: "La Rambla and Gothic Quarter combined with Passeig de Gracia"
+imagen: "/images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp"
+imagenAlt: "Walkers on the wave-patterned pavement of La Rambla"
 
 galeria:
   - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Barcelona Old Town Gothic Quarter route and Passeig de Gracia Gaudi houses"
+  - src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+    alt: "Tree-lined La Rambla with café terraces"
+  - src: "/images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp"
+    alt: "Modernista balcony with a La Rambla sign"
+  - src: "/images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp"
+    alt: "Ornate street lamps under the plane trees of La Rambla"
+  - src: "/images/actividades/barcelona/rambla/rambla-pixabay-325901.webp"
+    alt: "Living statue performer on La Rambla"
+  - src: "/images/actividades/barcelona/rambla/rambla-pixabay-242042.webp"
+    alt: "La Rambla street sign on a stone wall"
+  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
+    alt: "Bone-like balconies and stained glass of Casa Batlló"
+  - src: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
+    alt: "Undulating stone façade of Casa Milà, La Pedrera"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp"
+    alt: "Pont del Bisbe, the Gothic bridge over Carrer del Bisbe"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-03.webp"
+    alt: "Main façade of Barcelona Cathedral"
 
 ratingProveedor: 4.8
 numeroOpiniones: 271

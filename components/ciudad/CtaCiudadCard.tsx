@@ -35,22 +35,29 @@ export default function CtaCiudadCard({
   let gradientClass: string;
   let descripcionClass: string;
   let solidBgClass: string;
+  // Texto oscuro sobre ámbar: el blanco sobre amber-500 no pasa WCAG AA.
+  let solidTextClass = "text-white";
+  let solidDescripcionClass: string;
 
   if (acento === "amber") {
     ringClass = "focus-visible:ring-amber-500";
     gradientClass = "bg-gradient-to-t from-amber-900/90 via-amber-700/55 to-transparent";
     descripcionClass = "text-amber-50";
     solidBgClass = "bg-amber-500 hover:bg-amber-600";
+    solidTextClass = "text-slate-900";
+    solidDescripcionClass = "text-slate-800";
   } else if (acento === "slate") {
     ringClass = "focus-visible:ring-slate-500";
     gradientClass = "bg-gradient-to-t from-slate-900/90 via-slate-700/55 to-transparent";
     descripcionClass = "text-slate-200";
     solidBgClass = "bg-slate-800 hover:bg-slate-900";
+    solidDescripcionClass = descripcionClass;
   } else {
     ringClass = "focus-visible:ring-sky-500";
     gradientClass = "bg-gradient-to-t from-sky-900/90 via-sky-700/55 to-transparent";
     descripcionClass = "text-sky-100";
     solidBgClass = "bg-sky-500 hover:bg-sky-600";
+    solidDescripcionClass = descripcionClass;
   }
 
   if (imagen) {
@@ -89,11 +96,11 @@ export default function CtaCiudadCard({
       prefetch={false}
       className={"group block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + solidBgClass + " " + ringClass}
     >
-      <div className="flex flex-col justify-end h-full p-6 md:p-7 text-white">
+      <div className={"flex flex-col justify-end h-full p-6 md:p-7 " + solidTextClass}>
         <h2 className="font-playfair text-xl md:text-2xl font-bold mb-2 leading-tight">
           {titulo}
         </h2>
-        <p className={descripcionClass + " text-sm md:text-base mb-3 max-w-md"}>
+        <p className={solidDescripcionClass + " text-sm md:text-base mb-3 max-w-md"}>
           {descripcion}
         </p>
         <span className="inline-flex items-center font-semibold text-base">

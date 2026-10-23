@@ -5,6 +5,15 @@ descripcion: "The golden city of Castile: a Baroque Plaza Mayor, Spain's oldest 
 comunidad: "Castile and León"
 imagen: "/images/ciudades/hero/salamanca.webp"
 imagenAlt: "Salamanca cathedrals reflected in the Tormes river"
+datosClave:
+  - etiqueta: "Population"
+    valor: "146,000"
+  - etiqueta: "Altitude"
+    valor: "802 m"
+  - etiqueta: "University since"
+    valor: "1218"
+  - etiqueta: "UNESCO since"
+    valor: "1988"
 publicada: true
 destacada: true
 orden: 11

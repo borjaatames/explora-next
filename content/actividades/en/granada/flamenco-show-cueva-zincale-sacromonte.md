@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-baile-guitarra.webp
   alt: "Dancing and guitar in the Zincalé cave"
 - src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-guitarrista.webp
-  alt: "Zincalé guitarist"
+  alt: "Flamenco guitarist playing during the show at Cueva Zincalé"
 - src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-bailaora-guitarrista.webp
   alt: "Dancer and guitarist at Zincalé"
 - src: /images/actividades/granada/cueva-zincale-oficial/cueva-zincale-oficial-cantaor.webp

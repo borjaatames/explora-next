@@ -5,6 +5,15 @@ descripcion: "The Guggenheim, the Old Town and the best pintxos cuisine. The Bis
 comunidad: "Basque Country"
 imagen: "/images/ciudades/hero/bilbao.webp"
 imagenAlt: "Guggenheim Museum Bilbao on the estuary at sunset"
+datosClave:
+  - etiqueta: "Population"
+    valor: "351,000"
+  - etiqueta: "Founded"
+    valor: "1300"
+  - etiqueta: "Guggenheim Museum"
+    valor: "1997"
+  - etiqueta: "Vizcaya Bridge, UNESCO"
+    valor: "2006"
 publicada: true
 destacada: false
 orden: 7

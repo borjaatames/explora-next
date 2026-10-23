@@ -88,7 +88,7 @@ galeria:
 - src: /images/actividades/tarragona/delta/arrozales-atardecer.webp
   alt: Delta rice fields at sunset
 - src: /images/actividades/tarragona/delta/trabucador.webp
-  alt: Trabucador beach
+  alt: "Trabucador beach, golden sand and waves in the Ebro Delta"
 - src: /images/actividades/tarragona/delta/arrozales.webp
   alt: Ebro Delta rice fields
 - src: /images/actividades/tarragona/delta/trabucador-olas.webp

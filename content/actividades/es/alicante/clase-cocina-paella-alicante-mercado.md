@@ -76,17 +76,17 @@ imagen: /images/actividades/alicante/paella/paella.webp
 imagenAlt: Paella recién hecha
 galeria:
 - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "Alicante"
+  alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
 - src: "/images/actividades/alicante/paella/paella.webp"
-  alt: "Paella"
+  alt: "Paella con judías verdes, pollo y tiras de pimiento rojo"
 - src: /images/actividades/alicante/paella/mercado-central.webp
   alt: Fachada del Mercado Central de Alicante
 - src: /images/actividades/alicante/paella/paella-valenciana.webp
-  alt: Paella valenciana
+  alt: "Paella valenciana con judías verdes y pollo en su paellera"
 - src: /images/actividades/alicante/paella/mercado-aereo.webp
   alt: Mercado Central de Alicante visto desde arriba
 - src: /images/actividades/alicante/paella/paella-mixta.webp
-  alt: Paella mixta
+  alt: "Paella mixta con gambas, mejillones, pollo y guisantes"
 - src: /images/actividades/alicante/paella/tapas-tortilla.webp
   alt: Tapas de tortilla española
 - src: /images/actividades/alicante/paella/mercado-palmeras.webp

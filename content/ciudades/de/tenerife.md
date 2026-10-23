@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/tenerife/ciudad/auditorio-tenerife.webp"
 imagenResumenAlt: "Das Auditorio de Tenerife in Santa Cruz"
 imagen: "/images/ciudades/hero/tenerife.webp"
 imagenAlt: "Roques de García mit dem Teide im Hintergrund"
+datosClave:
+  - etiqueta: "Einwohner (Insel)"
+    valor: "962.000"
+  - etiqueta: "Teide"
+    valor: "3.718 m"
+  - etiqueta: "UNESCO-Welterbestätten"
+    valor: "2"
+  - etiqueta: "Fläche"
+    valor: "2.034 km²"
 publicada: true
 destacada: false
 orden: 18
@@ -59,6 +68,7 @@ chipsFiltros:
   - { label: "Auf dem Meer", tag: "mar" }
   - { label: "Freizeitparks", tag: "parques" }
   - { label: "Masca und Los Gigantes", tag: "masca" }
+  - { label: "Anaga", tag: "anaga" }
 ---
 
 Teneriffa ist die größte und bevölkerungsreichste der Kanarischen Inseln, mit rund **950.000 Einwohnern**, und Sitz der gemeinsamen Hauptstadt des Archipels, **Santa Cruz de Tenerife**. Alles dreht sich um den **Teide** (3.715 m), Spaniens höchsten Berg, der den **Teide-Nationalpark** beherrscht, ein UNESCO-Welterbe.

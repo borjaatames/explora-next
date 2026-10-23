@@ -29,6 +29,8 @@ actividades:
   - espectaculo-ecuestre-caballerizas-reales
   - espectaculo-flamenco-tablao-cardenal
   - mezquita-catedral-entrada-audioguia
+  - alcazar-reyes-cristianos-visita-guiada
+  - palacio-viana-patios-entrada
 faq:
   - pregunta: "How much time do you need to see Córdoba?"
     respuesta: "A full day is enough: the old town is compact, and the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from each other. The recommended route runs from 9 AM to 6:30 PM."

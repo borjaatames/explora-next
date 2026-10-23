@@ -173,7 +173,7 @@ const TEXTO_BOTON_TABLA: Record<string, string> = {
 
 // `!` porque `.prose-guia a` (globals.css) tiene más especificidad que las utilidades.
 const CLASES_BOTON_TABLA =
-  "reserva-tabla inline-block mt-1 ml-1 bg-amber-500 hover:bg-amber-600 !text-white text-xs font-semibold px-2.5 py-1 rounded !no-underline whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2";
+  "reserva-tabla inline-block mt-1 ml-1 bg-amber-500 hover:bg-amber-600 !text-slate-900 text-xs font-semibold px-2.5 py-1 rounded !no-underline whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2";
 
 /**
  * En cada celda de tabla que contenga un enlace ya enriquecido a una ficha,

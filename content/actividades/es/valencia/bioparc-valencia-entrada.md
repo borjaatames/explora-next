@@ -96,7 +96,7 @@ galeria:
 - src: /images/actividades/valencia/bioparc/gorila.webp
   alt: Gorila en el bosque ecuatorial de Bioparc
 - src: /images/actividades/valencia/bioparc/elefantes.webp
-  alt: Elefantes africanos
+  alt: "Dos elefantes africanos junto a las rocas de su recinto"
 - src: /images/actividades/valencia/bioparc/suricata.webp
   alt: Suricata vigilando en Bioparc
 - src: /images/actividades/valencia/bioparc/hiena.webp

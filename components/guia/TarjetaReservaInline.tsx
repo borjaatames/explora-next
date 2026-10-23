@@ -106,7 +106,7 @@ export default function TarjetaReservaInline({ actividad, idioma }: Props) {
           href={actividad.url}
           data-reserva="inline"
           data-ficha={slugEs}
-          className="inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-white font-semibold text-sm px-5 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+          className="inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-5 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
         >
           {t.cta}
         </Link>

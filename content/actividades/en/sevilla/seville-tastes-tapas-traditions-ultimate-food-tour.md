@@ -101,10 +101,24 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["seville food tour", "devour seville", "tastes tapas traditions", "mercado encarnacion tour", "seville culinary tour", "ultimate food tour seville"]
 
-imagen: "/images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp"
-imagenAlt: "Setas de Sevilla (Metropol Parasol) — meeting point of the Ultimate Food Tour at the Mercado de la Encarnación"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
+imagenAlt: "Plate of ham croquetas"
 
 galeria:
+  - src: "/images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp"
+    alt: "Bowl of green olives with wine glasses"
+  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
+    alt: "Tapa and a cold beer on a wooden bar"
+  - src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+    alt: "Wooden waves of the Setas de Sevilla against the sky"
+  - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+    alt: "Metropol Parasol over Plaza de la Encarnación"
+  - src: "/images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp"
+    alt: "Ham and deli stalls inside the Mercado de Triana"
+  - src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+    alt: "Callejón del Agua in the Santa Cruz quarter"
+  - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+    alt: "Colourful houses on Calle Betis along the Guadalquivir"
 ratingProveedor: 4.7
 numeroOpiniones: 50
 

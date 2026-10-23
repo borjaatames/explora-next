@@ -99,7 +99,7 @@ galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp"
     alt: "Vinos y vermut en una terraza"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "Plaza Mayor"
+    alt: "Plaza Mayor de Madrid con la estatua de Felipe III y visitantes"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
     alt: "Jamón ibérico de bellota"
   - src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"

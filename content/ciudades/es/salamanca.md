@@ -5,6 +5,15 @@ descripcion: "La ciudad dorada de Castilla: Plaza Mayor barroca, la universidad 
 comunidad: "Castilla y León"
 imagen: "/images/ciudades/hero/salamanca.webp"
 imagenAlt: "Catedrales de Salamanca reflejadas en el río Tormes"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "146.000"
+  - etiqueta: "Altitud"
+    valor: "802 m"
+  - etiqueta: "Universidad desde"
+    valor: "1218"
+  - etiqueta: "UNESCO desde"
+    valor: "1988"
 publicada: true
 destacada: true
 orden: 11

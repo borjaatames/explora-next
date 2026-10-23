@@ -32,6 +32,7 @@ actividades:
   - excursion-chinchon-aranjuez-toledo
   - excursion-alcala-henares-bodega-privada
   - escorial-valle-cuelgamuros-excursion-grupo
+  - toledo-catedral-visita-guiada
 ---
 
 70 km von Madrid entfernt liegt eine unversehrte mittelalterliche Stadt. Keine Nachbildung, kein Freizeitpark, keine Postkarte: Es ist **Toledo**, die einzige europäische Stadt, in der Juden, Muslime und Christen jahrhundertelang zusammenlebten und jeweils ihre Spuren im Stein hinterließen. Und man kann alles an einem Tag sehen.

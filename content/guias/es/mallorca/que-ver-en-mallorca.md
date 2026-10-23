@@ -30,6 +30,7 @@ actividades:
   - tren-soller-tranvia-medio-dia-desde-el-norte
   - cuevas-del-drach-concierto-barca-desde-palma
   - cuevas-del-drach-desde-alcudia
+  - cartuja-valldemossa-entrada-audioguia
 ---
 
 **Mallorca es mucho más que sol y playa:** una capital con una de las catedrales góticas más impresionantes de Europa, una sierra Patrimonio de la Humanidad y algunas de las calas más bonitas del Mediterráneo. El error del visitante medio es quedarse en un hotel de la bahía de Palma o de Magaluf y no ver la isla de verdad. La isla es grande y variada, así que esta guía la ordena por zonas: **Palma**, la **Serra de Tramuntana**, el **este** de cuevas y calas y el **norte** de Alcúdia y Formentor.

@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pa
 imagenResumenAlt: "Plaza de España in Sevilla"
 imagen: "/ciudades/sevilla.jpg"
 imagenAlt: "Blick auf Sevilla mit der Giralda und der Kathedrale"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "689.000"
+  - etiqueta: "AVE nach Madrid"
+    valor: "2:30 Std."
+  - etiqueta: "Kathedrale & Alcázar, UNESCO"
+    valor: "1987"
+  - etiqueta: "Flamenco, UNESCO"
+    valor: "2010"
 publicada: true
 destacada: true
 orden: 4

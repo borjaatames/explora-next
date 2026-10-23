@@ -100,10 +100,24 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["seville paella experience", "seville sangria tasting", "paella show cooking seville", "seville food experience english", "paella class seville"]
 
-imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-imagenAlt: "Triana bridge in Seville — backdrop of the city's food culture experiences"
+imagen: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
+imagenAlt: "Cook adding olive oil to a paella over the fire"
 
 galeria:
+  - src: "/images/actividades/madrid/paella/paella-pexels-36878063.webp"
+    alt: "Seafood paella with prawns and a wooden spoon"
+  - src: "/images/actividades/madrid/paella/paella-pixabay-1168003.webp"
+    alt: "Prawn and clam paella cooking over embers"
+  - src: "/images/actividades/madrid/paella/paella-pexels-31748679.webp"
+    alt: "Pans of seafood paella"
+  - src: "/images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp"
+    alt: "Ham and deli stalls inside the Mercado de Triana"
+  - src: "/images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-triana-2016002-jpg-01.webp"
+    alt: "Fruit and vegetable stall piled high at the Triana market"
+  - src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
+    alt: "Triana Bridge lit up at dusk"
+  - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+    alt: "Colourful houses on Calle Betis along the Guadalquivir"
 ratingProveedor: 4.9
 numeroOpiniones: 58
 

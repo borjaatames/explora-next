@@ -76,9 +76,9 @@ imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Delfines comunes saltando
 galeria:
 - src: "/images/actividades/cadiz/delfines/delfines-saltando.webp"
-  alt: "Delfines Saltando"
+  alt: "Dos delfines comunes saltando sobre el mar"
 - src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Cadiz"
+  alt: "Monumento a la Constitución de 1812 en la plaza de España de Cádiz"
 - src: /images/actividades/cadiz/delfines/delfin-comun.webp
   alt: Delfín común junto a la superficie
 - src: /images/actividades/cadiz/delfines/rorcual.webp

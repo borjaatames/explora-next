@@ -5,6 +5,15 @@ descripcion: "Das römische Tarraco am Mittelmeer: Amphitheater, Zirkus und Stad
 comunidad: "Katalonien"
 imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
 imagenAlt: "Das römische Amphitheater von Tarragona am Mittelmeer"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "144.000"
+  - etiqueta: "Gegründet"
+    valor: "218 v. Chr."
+  - etiqueta: "Tarraco, UNESCO"
+    valor: "2000"
+  - etiqueta: "Menschentürme, UNESCO"
+    valor: "2010"
 publicada: true
 destacada: false
 orden: 12

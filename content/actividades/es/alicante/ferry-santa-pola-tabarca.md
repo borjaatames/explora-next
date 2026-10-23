@@ -76,8 +76,6 @@ galeria:
     alt: "Castillo de Santa Bárbara sobre el Peñón de Ifach, Alicante"
   - src: "/images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp"
     alt: "Torre de San Jose en la isla de Tabarca"
-  - src: "/images/actividades/alicante/tabarca/muralla-antigua-tabarca.webp"
-    alt: "Muralla antigua de la isla de Tabarca"
   - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
     alt: "Playa de Tabarca"
   - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"

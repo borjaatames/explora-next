@@ -27,6 +27,7 @@ actividades:
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - tren-soller-tranvia-medio-dia-desde-el-norte
+  - cartuja-valldemossa-entrada-audioguia
 ---
 
 **The Serra de Tramuntana is the Mallorca the beach tourist never sees**, and for many, the best. A mountain range that is a **World Heritage Site** for its cultural landscape of terraces, dry-stone walls and century-old olive groves, dotted with stone villages perched above the sea and vertiginous roads. This guide arranges it so you enjoy it by car or on the legendary Sóller train, without missing the essentials.

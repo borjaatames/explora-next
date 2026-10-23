@@ -86,7 +86,8 @@ galeria:
   alt: Sagrada Família basilica illuminated at dusk in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
   alt: Barcelona's urban skyline with Gothic architecture and Mediterranean views
-publicada: true
+publicada: false
+reemplazadaPor: best-of-barcelona-private-tour-sagrada-familia
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-22'

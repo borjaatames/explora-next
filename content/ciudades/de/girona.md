@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/girona/costa-brava/costa-brava-girona-pixaba
 imagenResumenAlt: "Die bunten Häuser am Onyar und die Kathedrale von Girona"
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Die bunten Häuser von Girona über dem Fluss Onyar"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "109.000"
+  - etiqueta: "AVE nach Barcelona"
+    valor: "37 Min."
+  - etiqueta: "Kathedralschiff (Breite)"
+    valor: "23 m"
+  - etiqueta: "Höhe"
+    valor: "76 m"
 publicada: true
 destacada: false
 orden: 14

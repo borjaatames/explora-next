@@ -28,7 +28,7 @@ actividades:
   - avistamiento-ballenas-delfines-yate-ecologico
   - kayak-esnorquel-los-cristianos
   - barranco-masca-senderismo-barco
-  - private-whale-watching-boat-las-galletas-tenerife
+  - avistamiento-cetaceos-barco-privado-las-galletas
 faq:
 - pregunta: Which whales can you see in Tenerife?
   respuesta: Mostly short-finned pilot whales and bottlenose dolphins, which live year-round between Tenerife and La Gomera. With luck, also Atlantic spotted and common dolphins, Bryde's whales and, occasionally, sperm whales.

@@ -84,7 +84,7 @@ galeria:
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
   alt: Tabarca's main beach
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Tabarca lighthouse
+  alt: "Tabarca lighthouse, a white building with a stone tower"
 - src: /images/actividades/alicante/tabarca/tabarca-islote.webp
   alt: An islet off Tabarca beach
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp

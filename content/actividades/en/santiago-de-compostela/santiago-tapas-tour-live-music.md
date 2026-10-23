@@ -78,7 +78,7 @@ imagen: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
 imagenAlt: A plate of pulpo á feira
 galeria:
 - src: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
-  alt: Padrón peppers
+  alt: "Plate of fried Padrón peppers at a tapas bar"
 - src: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
   alt: Spanish potato omelette
 - src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp

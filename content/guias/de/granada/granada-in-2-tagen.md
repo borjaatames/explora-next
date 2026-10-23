@@ -34,6 +34,8 @@ actividades:
   - alpujarra-pueblos-montana
   - catedral-granada-entrada
   - capilla-real-granada-entrada
+  - monasterio-cartuja-granada-entrada
+  - monasterio-san-jeronimo-granada-entrada
 ---
 
 **Zwei Tage in Granada sind knapp bemessen**. Nicht zu wenig, um gar nicht erst hinzufahren, aber auch nicht die drei oder vier Tage, die die Stadt eigentlich verlangt. Hast du nur 48 Stunden und möchtest am Ende etwas von Granada verstanden haben — nicht nur fotografiert —, ist dieser Guide genau dafür gedacht.

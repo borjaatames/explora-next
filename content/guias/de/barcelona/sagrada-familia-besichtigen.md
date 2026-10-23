@@ -24,7 +24,6 @@ slugs:
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-guiado-clasico
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
 ---

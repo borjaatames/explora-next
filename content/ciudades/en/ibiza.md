@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenResumenAlt: "Calas turquesa de Ibiza"
 imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
 imagenAlt: "Ibiza coastline with turquoise waters and boats"
+datosClave:
+  - etiqueta: "Population (island)"
+    valor: "164,000"
+  - etiqueta: "Coastline"
+    valor: "210 km"
+  - etiqueta: "Sa Talaia (summit)"
+    valor: "475 m"
+  - etiqueta: "UNESCO since"
+    valor: "1999"
 publicada: true
 destacada: false
 orden: 16

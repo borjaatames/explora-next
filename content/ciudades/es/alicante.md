@@ -5,6 +5,15 @@ descripcion: "Castillo sobre el mar, paseo de la Explanada y playas urbanas. La 
 comunidad: "Comunidad Valenciana"
 imagen: "/images/ciudades/hero/alicante.webp"
 imagenAlt: "Castillo de Santa Bárbara sobre Alicante al atardecer"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "366.000"
+  - etiqueta: "AVE a Madrid"
+    valor: "2 h 15 min"
+  - etiqueta: "Monte Benacantil (castillo)"
+    valor: "166 m"
+  - etiqueta: "Distancia a Tabarca"
+    valor: "15 km"
 publicada: true
 destacada: false
 orden: 8

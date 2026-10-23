@@ -5,6 +5,15 @@ descripcion: "A castle above the sea, the Explanada promenade and urban beaches.
 comunidad: "Valencian Community"
 imagen: "/images/ciudades/hero/alicante.webp"
 imagenAlt: "Santa Bárbara Castle above Alicante at sunset"
+datosClave:
+  - etiqueta: "Population"
+    valor: "366,000"
+  - etiqueta: "High-speed train to Madrid"
+    valor: "2 h 15 min"
+  - etiqueta: "Mount Benacantil (castle)"
+    valor: "166 m"
+  - etiqueta: "Distance to Tabarca"
+    valor: "15 km"
 publicada: true
 destacada: false
 orden: 8

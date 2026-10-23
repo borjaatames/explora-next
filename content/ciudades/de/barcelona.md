@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-
 imagenResumenAlt: "Gaudís Park Güell in Barcelona"
 imagen: "/images/ciudades/hero/barcelona.webp"
 imagenAlt: "Sagrada Família bei Sonnenuntergang mit dem Tibidabo im Hintergrund"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "1,7 Mio."
+  - etiqueta: "UNESCO-Bauwerke"
+    valor: "8"
+  - etiqueta: "AVE nach Madrid"
+    valor: "2:30 Std."
+  - etiqueta: "Tibidabo"
+    valor: "512 m"
 publicada: true
 destacada: true
 orden: 2

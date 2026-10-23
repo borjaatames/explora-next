@@ -81,9 +81,9 @@ imagen: /images/actividades/alicante/vino/vinedos.webp
 imagenAlt: Viñedos en el campo
 galeria:
 - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "Alicante"
+  alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
 - src: "/images/actividades/alicante/vino/vinedos.webp"
-  alt: "Vinedos"
+  alt: "Viñedos en hileras sobre tierra arcillosa en invierno"
 - src: /images/actividades/alicante/vino/barricas.webp
   alt: Barricas de vino en una bodega
 - src: /images/actividades/alicante/vino/cata-copas.webp

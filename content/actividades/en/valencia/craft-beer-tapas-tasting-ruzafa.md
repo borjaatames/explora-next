@@ -74,7 +74,7 @@ imagen: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
 imagenAlt: Craft brewery bar with tanks
 galeria:
 - src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: Homemade croquettes
+  alt: "Two homemade croquettes on a terracotta dish"
 - src: /images/actividades/valencia/ruzafa/gildas.webp
   alt: Gildas with anchovy, olive and chilli
 - src: /images/actividades/valencia/ruzafa/mercado-ruzafa.webp

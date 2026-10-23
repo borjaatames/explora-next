@@ -77,10 +77,6 @@ keywords:
 imagen: /images/actividades/tarragona/costa/cap-salou.webp
 imagenAlt: Mar frente al Cap de Salou
 galeria:
-- src: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
-  alt: "Tarragona"
-- src: "/images/actividades/tarragona/catedral/capilla.webp"
-  alt: "Capilla"
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
   alt: Puerto de Cambrils
 - src: /images/actividades/tarragona/costa/cambrils-velero.webp
@@ -93,6 +89,14 @@ galeria:
   alt: Platja Llarga en Salou
 - src: /images/actividades/tarragona/costa/cambrils-barcas.webp
   alt: Barcas en el puerto de Cambrils
+- src: "/images/actividades/tarragona/costa/cambrils-puerto-01.webp"
+  alt: "Barcas de pesca amarradas en el puerto de Cambrils"
+- src: "/images/actividades/tarragona/costa/cambrils-puerto-02.webp"
+  alt: "Puerto deportivo de Cambrils con barcos de recreo"
+- src: "/images/actividades/tarragona/costa/cambrils-puerto-03.webp"
+  alt: "Paseo marítimo de Cambrils frente al puerto"
+- src: "/images/actividades/tarragona/costa/cambrils-puerto-04.webp"
+  alt: "Puerto de Cambrils con el pueblo al fondo"
 ratingProveedor: 4.5
 numeroOpiniones: 2188
 atraccionesRelacionadas:

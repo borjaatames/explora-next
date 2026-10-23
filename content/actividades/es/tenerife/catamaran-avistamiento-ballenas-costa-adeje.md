@@ -68,8 +68,8 @@ keywords:
 - catamaran ballenas tenerife
 - excursion ballenas tenerife sur
 - tour cetaceos tenerife
-imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-imagenAlt: Calderones tropicales en las aguas de Tenerife
+imagen: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
+imagenAlt: "Catamarán navegando frente a la costa de Tenerife"
 galeria:
   - src: "/images/actividades/tenerife/cristianos/costa-palm-mar.webp"
     alt: "Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife"
@@ -79,8 +79,8 @@ galeria:
     alt: "Soplo de un cetáceo en Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
     alt: "Cría de calderón tropical junto a su madre"
-  - src: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
-    alt: "Catamarán navegando frente a la costa de Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
+    alt: "Calderones tropicales en las aguas de Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp"
     alt: "Grupo de delfines nadando en superficie"
   - src: "/images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp"

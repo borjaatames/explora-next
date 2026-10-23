@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-river-running-through-it-hero.webp
   alt: Vista panoramica toledo view city river running through it en Vista panoramica toledo
 - src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-6358359-hero.webp
-  alt: Santo Tomé
+  alt: "Torre mudéjar de la iglesia de Santo Tomé en Toledo"
 - src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157703803-hero.webp
   alt: Sinagoga Santa María la Blanca, Toledo
 - src: /images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-interior3-hero.webp

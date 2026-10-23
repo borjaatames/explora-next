@@ -5,6 +5,15 @@ descripcion: "El Guggenheim, el Casco Viejo y la mejor cocina de pintxos. La cap
 comunidad: "País Vasco"
 imagen: "/images/ciudades/hero/bilbao.webp"
 imagenAlt: "Museo Guggenheim Bilbao junto a la ría al atardecer"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "351.000"
+  - etiqueta: "Fundada en"
+    valor: "1300"
+  - etiqueta: "Museo Guggenheim"
+    valor: "1997"
+  - etiqueta: "Puente Bizkaia, UNESCO"
+    valor: "2006"
 publicada: true
 destacada: false
 orden: 7

@@ -76,9 +76,9 @@ imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Common dolphins leaping
 galeria:
 - src: "/images/actividades/cadiz/delfines/delfines-saltando.webp"
-  alt: "Delfines Saltando"
+  alt: "Two common dolphins leaping out of the sea"
 - src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Cadiz"
+  alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
 - src: "/images/actividades/cadiz/delfines/delfin-comun.webp"
   alt: "A common dolphin at the surface"
 - src: "/images/actividades/cadiz/delfines/rorcual.webp"
@@ -90,7 +90,7 @@ galeria:
 - src: "/images/actividades/cadiz/delfines/cabo-trafalgar.webp"
   alt: "Cape Trafalgar and its lighthouse"
 - src: "/images/actividades/cadiz/delfines/puerto-barbate.webp"
-  alt: "Barbate marina"
+  alt: "Pleasure boats moored in Barbate harbour"
 ratingProveedor: 4.1
 numeroOpiniones: 792
 atraccionesRelacionadas:

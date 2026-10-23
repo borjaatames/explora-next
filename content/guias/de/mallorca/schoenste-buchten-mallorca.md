@@ -24,6 +24,7 @@ slugs:
 actividades:
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - calo-des-moro-barco-esnorquel
 ---
 
 **Mallorca hat einige der schönsten Buchten des Mittelmeers**, aber im Sommer auch das größte Parkplatzproblem Spaniens. Dieser Ratgeber ordnet sie nach Zonen, sagt dir, welche Einrichtungen haben und welche unberührt sind, und wie man dorthin kommt, ohne um einen Platz zu kämpfen. Der Schlüssel: früh aufstehen oder außerhalb der Saison fahren.

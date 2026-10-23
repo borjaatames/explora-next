@@ -30,7 +30,7 @@ actividades:
   - catedral-de-barcelona-entrada
   - tour-casco-antiguo-barri-gotico-a-pie
   - park-guell-entrada-zona-monumental
-  - barcelona-in-one-day-sagrada-familia-park-guell
+  - barcelona-un-dia-sagrada-familia-park-guell
 ---
 
 Barcelona in a day from Madrid is **doable with discipline**: the AVE takes 2.5 hours, so leaving at 6:30 AM gives you about 12 hours in the city. The big sights are spread out, you need the metro between them, and almost everything needs an **online ticket booked days ahead**. Four good stops beat eight mediocre ones. **2026 is Gaudí Year** (the centenary of his death), so book even further ahead.

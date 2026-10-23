@@ -72,9 +72,21 @@ keywords:
 - observatorio teide entradas
 - visita observatorio izaña
 - telescopios teide
-imagen: /images/actividades/tenerife/teide/teide-canadas.webp
-imagenAlt: Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio
+imagen: "/images/actividades/tenerife/observatorio/observatorio-teide-01.webp"
+imagenAlt: "Observatorio del Teide en Izaña, con sus telescopios sobre la montaña"
 galeria:
+  - src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+    alt: "Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-02.webp"
+    alt: "Cúpulas blancas de los telescopios del Observatorio del Teide"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-03.webp"
+    alt: "Telescopios solares del Observatorio del Teide"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-04.webp"
+    alt: "Torre de un telescopio con el Teide al fondo"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-06.webp"
+    alt: "Entrada del Observatorio del Teide con las banderas"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-07.webp"
+    alt: "Telescopios del observatorio con el Teide detrás"
   - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
     alt: "Paisaje volcánico de las Cañadas del Teide al atardecer"
   - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"

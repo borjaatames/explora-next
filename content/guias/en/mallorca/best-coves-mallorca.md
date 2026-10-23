@@ -26,6 +26,7 @@ reservasArriba: true
 actividades:
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - calo-des-moro-barco-esnorquel
 ---
 
 **Mallorca has some of the most beautiful coves in the Mediterranean**, but also the worst parking problem in Spain in summer. This guide sorts them by area, tells you which have services and which are wild, and how to get there without fighting for a spot. The key: go early or out of season.

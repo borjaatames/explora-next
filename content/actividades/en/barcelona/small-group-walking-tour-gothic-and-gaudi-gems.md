@@ -104,11 +104,25 @@ categoria: visitasGuiadas
 keywords: ["barcelona hidden gems walking tour", "el born gothic quarter small group", "barcelona top rated walking tour 4.9", "barcelona hidden corners tour", "barri gotic el born walking tour"]
 
 imagen: "/images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp"
-imagenAlt: "Hidden corners of Gothic Quarter and El Born neighborhoods Barcelona"
+imagenAlt: "Pont del Bisbe, the Gothic bridge over Carrer del Bisbe"
 
 galeria:
   - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
     alt: "Hidden alleys and medieval squares in Gothic Quarter and El Born Barcelona"
+  - src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp"
+    alt: "Barcelona Cathedral spires against a blue sky"
+  - src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+    alt: "Carved stone vault and lantern in the Gothic Quarter"
+  - src: "/images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+    alt: "Narrow residential street with balconies in old Barcelona"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp"
+    alt: "Narrow stone lane in Barcelona's Gothic Quarter"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-01.webp"
+    alt: "Barcelona Cathedral's Gothic spires in evening light"
+  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
+    alt: "Bone-like balconies and stained glass of Casa Batlló"
+  - src: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
+    alt: "Undulating stone façade of Casa Milà, La Pedrera"
 
 ratingProveedor: 4.9
 numeroOpiniones: 117

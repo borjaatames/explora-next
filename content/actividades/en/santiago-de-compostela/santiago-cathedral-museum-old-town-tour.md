@@ -84,7 +84,7 @@ galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
   alt: Sculptures on the Pórtico de la Gloria
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: Cloister vaults
+  alt: "Gothic ribbed vault in the cloister of Santiago Cathedral"
 - src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
   alt: The cathedral from Praza da Quintana
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-torres.webp

@@ -26,6 +26,7 @@ actividades:
   - atardecer-estrellas-teide-telescopio
   - tour-teide-masca-icod-garachico
   - observatorio-teide-visita-guiada
+  - teide-subida-cumbre-ruta-guiada
 faq:
 - pregunta: Braucht man eine Genehmigung für den Teide?
   respuesta: Nur für das letzte Stück, den Weg Telesforo Bravo von der Bergstation der Seilbahn (3.555 m) zum Gipfel (3.715 m). Seit August 2025 wird sie über die Plattform Tenerife ON des Cabildo gebucht, und seit Januar 2026 kostet sie 15 € für Besucher von außerhalb der Kanaren (kostenlos für Einwohner Teneriffas und Kinder unter 14). Für die Seilbahn und die beiden Wege zu den Aussichtspunkten oben braucht man keine.

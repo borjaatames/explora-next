@@ -113,7 +113,7 @@ galeria:
 - src: /images/actividades/granada/ubeda/ubeda-pexels-36734373.webp
   alt: "Square with fountain in Úbeda's old town"
 - src: /images/actividades/granada/baeza/baeza-wikimedia-fachada-de-la-catedral-de-baeza-01-jpg.webp
-  alt: "Baeza Cathedral"
+  alt: "Side façade and bell tower of Baeza Cathedral"
 - src: /images/actividades/granada/baeza/baeza-pexels-35390421.webp
   alt: "Renaissance square and church in Baeza"
 - src: /images/actividades/granada/baeza/baeza-pexels-36686834.webp

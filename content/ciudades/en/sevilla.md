@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pa
 imagenResumenAlt: "Plaza de España de Sevilla"
 imagen: "/ciudades/sevilla.jpg"
 imagenAlt: "View of Seville with the Giralda and the Cathedral"
+datosClave:
+  - etiqueta: "Population"
+    valor: "689,000"
+  - etiqueta: "High-speed train to Madrid"
+    valor: "2 h 30 min"
+  - etiqueta: "Cathedral & Alcázar, UNESCO"
+    valor: "1987"
+  - etiqueta: "Flamenco, UNESCO"
+    valor: "2010"
 publicada: true
 destacada: true
 orden: 4

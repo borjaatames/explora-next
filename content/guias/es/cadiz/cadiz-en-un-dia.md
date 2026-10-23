@@ -30,6 +30,8 @@ actividades:
   - bodegas-fundador-jerez-cata
   - yeguada-de-la-cartuja-jerez
   - excursion-pueblos-blancos-desde-cadiz
+  - torre-tavira-catedral-cadiz-visita-guiada
+  - tarifa-baelo-claudia-zahara-excursion
 ---
 
 **Cádiz se ve bien en un día.** Está casi rodeada de mar en una península estrecha, así que el casco antiguo se recorre a pie de plaza en plaza, con el Atlántico asomando al fondo de cada calle. La clave no es un monumento, es la **luz** y el **mar por los cuatro costados** de la ciudad más antigua de Occidente. Quien la ve de paso desde Sevilla se lleva media ciudad; quien se queda al atardecer en La Caleta se lleva la mejor mitad.

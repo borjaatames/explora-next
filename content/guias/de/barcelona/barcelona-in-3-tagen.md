@@ -35,6 +35,9 @@ actividades:
   - museo-picasso-tour-guiado-sin-colas
   - montserrat-medio-dia-grupo-pequeno
   - mnac-museu-nacional-art-catalunya-entrada
+  - casa-amatller-entrada-videoguia
+  - fundacio-joan-miro-entrada
+  - articket-barcelona-6-museos
 ---
 
 Barcelona ist die spanische Stadt mit dem meisten Tourismus im Jahresverlauf und der klarste Beweis dafür, dass Massentourismus genau das kaputt machen kann, weswegen die Leute überhaupt kommen. Das ist kein Fatalismus, sondern Kontext. Wer nach Barcelona fährt und das macht, was alle machen — Ramblas um elf Uhr, Sagrada Familia ohne Reservierung, Park Güell ohne zu wissen, dass der schöne Teil kostenpflichtig ist, Paella am Strand von Barceloneta — kommt mit dem Gefühl heraus, in einem Freizeitpark gewesen zu sein. Und die Schuld liegt nicht bei Barcelona, sondern beim Plan.

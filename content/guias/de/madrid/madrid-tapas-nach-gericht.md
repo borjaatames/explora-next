@@ -25,7 +25,6 @@ slugs:
   de: madrid-tapas-nach-gericht
 actividades:
   - tour-privado-tabernas-centenarias-madrid
-  - aventura-vino-tapas-la-latina
   - ruta-tapas-nocturna-madrid
 ---
 

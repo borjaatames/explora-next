@@ -63,9 +63,9 @@ imagen: "/images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp"
 imagenAlt: "Plaza de San Juan de Dios y el Ayuntamiento"
 galeria:
 - src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Cadiz"
-- src: "/images/actividades/cadiz/bodega/bodega-mezquita.webp"
-  alt: "Bodega Mezquita"
+  alt: "Monumento a la Constitución de 1812 en la plaza de España de Cádiz"
+- src: "/images/actividades/cadiz/centro/plaza-flores.webp"
+  alt: "Plaza de las Flores con sus puestos de flores, en el centro de Cádiz"
 - src: /images/actividades/cadiz/centro/catedral-fachada.webp
   alt: "Fachada de la catedral de Cádiz"
 - src: /images/actividades/cadiz/mar/puente-1812-noche.webp

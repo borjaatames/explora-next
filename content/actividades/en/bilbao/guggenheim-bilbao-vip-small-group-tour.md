@@ -84,9 +84,9 @@ imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
 imagenAlt: Guggenheim Museum Bilbao and the estuary
 galeria:
 - src: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
-  alt: "Bilbao"
+  alt: "Aerial view of the Guggenheim Museum and La Salve bridge"
 - src: "/images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp"
-  alt: "Bilbao Artxanda"
+  alt: "Panorama of Bilbao and its estuary from Mount Artxanda"
 - src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
   alt: "Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim"
 - src: "/images/actividades/bilbao/guggenheim/maman.webp"

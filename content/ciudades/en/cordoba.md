@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-i
 imagenResumenAlt: "Mezquita-Catedral de Córdoba"
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "The Mosque-Cathedral of Córdoba and the Roman Bridge reflected in the Guadalquivir"
+datosClave:
+  - etiqueta: "Population"
+    valor: "323,000"
+  - etiqueta: "UNESCO sites"
+    valor: "2"
+  - etiqueta: "Mosque begun in"
+    valor: "785"
+  - etiqueta: "Patios festival, UNESCO"
+    valor: "2012"
 publicada: true
 destacada: false
 orden: 9

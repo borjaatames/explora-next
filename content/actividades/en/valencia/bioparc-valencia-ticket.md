@@ -96,7 +96,7 @@ galeria:
 - src: /images/actividades/valencia/bioparc/gorila.webp
   alt: Gorilla in Bioparc's equatorial forest
 - src: /images/actividades/valencia/bioparc/elefantes.webp
-  alt: African elephants
+  alt: "Two African elephants beside the rocks of their enclosure"
 - src: /images/actividades/valencia/bioparc/suricata.webp
   alt: Meerkat on lookout at Bioparc
 - src: /images/actividades/valencia/bioparc/hiena.webp

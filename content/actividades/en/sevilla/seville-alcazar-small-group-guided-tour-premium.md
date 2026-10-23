@@ -110,12 +110,28 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["seville alcazar small group tour", "alcazar english only premium", "alcazar wheelchair accessible tour", "alcazar private group max 10", "seville unique experiences alcazar"]
 
-imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
-imagenAlt: "Patio de las Doncellas of the Royal Alcázar of Seville — premium small-group tour"
+imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+imagenAlt: "Gilded ceiling of a hall in the Real Alcázar of Seville"
 
 galeria:
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
     alt: "Mudéjar arcade of the Royal Alcázar — premium small group format"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+    alt: "Patio de las Doncellas of the Royal Alcázar of Seville — premium small-group tour"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
+    alt: "Mudéjar plasterwork arches in the Real Alcázar"
+  - src: "/images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp"
+    alt: "Vaulted Baths of María de Padilla lit in orange"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp"
+    alt: "Pond and fountain in the Real Alcázar gardens"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
+    alt: "Mercury pond and Grotto Gallery in the Alcázar gardens"
+  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
+    alt: "Formal gardens beside the Alcázar's Grotto Gallery"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
+    alt: "Palm trees and hedges in the Real Alcázar gardens"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-04.webp"
+    alt: "Palm trees rising over the Alcázar gardens"
 ratingProveedor: 4.9
 numeroOpiniones: 180
 

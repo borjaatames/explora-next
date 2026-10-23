@@ -27,6 +27,7 @@ actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
   - san-sebastian-hondarribia-getaria-desde-bilbao
   - biarritz-san-juan-de-luz-san-sebastian-desde-bilbao
+  - rioja-alavesa-bodegas-excursion-desde-bilbao
 ---
 
 **Bilbao ist eine perfekte Basis, um das Baskenland zu entdecken.** In weniger als einer Stunde erreichen Sie eine der wildesten Küsten Spaniens, San Sebastián, ein Biosphärenreservat, das historische Herz des Baskenlands und die Weinberge der Rioja Alavesa. Dieser Guide ordnet die besten Tagesausflüge danach, wie viel Zeit Sie haben und wie Sie hinkommen.

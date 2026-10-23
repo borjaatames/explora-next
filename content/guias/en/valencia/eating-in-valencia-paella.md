@@ -23,7 +23,6 @@ slugs:
   de: paella-in-valencia
 actividades:
   - cata-cerveza-artesanal-tapas-ruzafa
-  - albufera-atardecer-paseo-en-barca
 ---
 
 **You eat very well in Valencia, but it's also easy to eat badly.** The city invented paella and is ringed by farmland and sea, so the bar is sky-high; the problem is the tourist traps opposite the monuments. This guide gives you the rules to eat a real rice dish and avoid the reheated paella on Plaza de la Reina.

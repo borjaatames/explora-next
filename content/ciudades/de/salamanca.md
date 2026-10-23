@@ -5,6 +5,15 @@ descripcion: "Die goldene Stadt Kastiliens: barocke Plaza Mayor, Spaniens ältes
 comunidad: "Kastilien und León"
 imagen: "/images/ciudades/hero/salamanca.webp"
 imagenAlt: "Die Kathedralen von Salamanca spiegeln sich im Fluss Tormes"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "146.000"
+  - etiqueta: "Höhe"
+    valor: "802 m"
+  - etiqueta: "Universität seit"
+    valor: "1218"
+  - etiqueta: "UNESCO-Welterbe seit"
+    valor: "1988"
 publicada: true
 destacada: true
 orden: 11

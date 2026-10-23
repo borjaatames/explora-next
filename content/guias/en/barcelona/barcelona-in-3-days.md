@@ -35,6 +35,9 @@ actividades:
   - museo-picasso-tour-guiado-sin-colas
   - montserrat-medio-dia-grupo-pequeno
   - mnac-museu-nacional-art-catalunya-entrada
+  - casa-amatller-entrada-videoguia
+  - fundacio-joan-miro-entrada
+  - articket-barcelona-6-museos
 ---
 
 Three days is the right number for a first visit to Barcelona: Gaudí properly, two neighbourhoods with character, Montjuïc and the sea. With two you must choose between Gaudí and the neighbourhoods; with four, add Montserrat. Only one day? See [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day).

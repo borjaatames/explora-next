@@ -29,6 +29,8 @@ actividades:
   - gibraltar-desde-malaga
   - cordoba-mezquita-desde-malaga
   - caminito-del-rey-entrada-guia-oficial
+  - antequera-dolmenes-torcal-excursion-desde-malaga
+  - mijas-marbella-puerto-banus-excursion-desde-malaga
 ---
 
 **Málaga es la mejor base de la Costa del Sol para escapadas.** En menos de hora y media tienes pueblos blancos colgados de barrancos, cuevas y playas, paisajes lunares y hasta el Peñón de Gibraltar. Esta guía ordena las mejores salidas de un día según el tiempo que tengas y cómo llegar, con o sin coche.

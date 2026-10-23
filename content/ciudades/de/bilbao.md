@@ -5,6 +5,15 @@ descripcion: "Das Guggenheim, die Altstadt und die beste Pintxos-Küche. Die Hau
 comunidad: "Baskenland"
 imagen: "/images/ciudades/hero/bilbao.webp"
 imagenAlt: "Guggenheim-Museum Bilbao an der Flussmündung bei Sonnenuntergang"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "351.000"
+  - etiqueta: "Gegründet"
+    valor: "1300"
+  - etiqueta: "Guggenheim-Museum"
+    valor: "1997"
+  - etiqueta: "Biskaya-Brücke, UNESCO"
+    valor: "2006"
 publicada: true
 destacada: false
 orden: 7

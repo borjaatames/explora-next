@@ -26,6 +26,8 @@ actividades:
   - cuevas-nerja-frigiliana-desde-malaga
   - alcazaba-teatro-romano-malaga-visita-guiada
   - caminito-del-rey-guiado-desde-malaga
+  - bioparc-fuengirola-entrada
+  - teleferico-benalmadena-billete
 ---
 
 **Málaga es un destino muy cómodo para viajar con niños.** Tiene clima suave casi todo el año, playa urbana a pie del centro, castillos para jugar a exploradores y, a un paso, algunos de los mejores planes familiares de la Costa del Sol. Esta guía reúne lo que de verdad funciona con peques, sin saturar el día de museos.

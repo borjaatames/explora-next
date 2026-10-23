@@ -78,11 +78,11 @@ imagen: /images/actividades/tarragona/quad/quad-pista.webp
 imagenAlt: Quad por una pista de tierra
 galeria:
 - src: "/images/actividades/tarragona/costa/cap-salou.webp"
-  alt: "Cap Salou"
+  alt: "Rocas del cabo de Salou frente al Mediterráneo"
 - src: "/images/actividades/tarragona/costa/faro-salou.webp"
-  alt: "Faro Salou"
+  alt: "Faro de Salou y su edificio blanco bajo el cielo azul"
 - src: "/images/actividades/tarragona/quad/quad-pista.webp"
-  alt: "Quad Pista"
+  alt: "Piloto con casco conduciendo un quad rojo por un sendero de bosque"
 - src: "/images/actividades/tarragona/quad/quad-camino.webp"
   alt: "Ruta en quad por los caminos de Salou"
 - src: /images/actividades/tarragona/quad/prades-siurana.webp

@@ -21,12 +21,12 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'Fallas 2027 runs from **1 to 19 March**, and the big days are **Monday 15 to Friday 19**. The **mascletà** is every day at 14:00 in Plaza del Ayuntamiento, and it''s free. On the 15th and 16th the monuments go up, on the 17th and 18th comes the Flower Offering, and on the night of the 19th every falla burns in the **cremà**. Almost everything is free: what''s expensive is the hotel, so book it now.'
 actividades:
-  - ciudad-artes-3-en-1-ticket
-  - valencia-cathedral-silk-exchange-san-nicolas-tour
-  - valencia-tuk-tuk-tour-old-town-beaches
-  - oceanografic-valencia-ticket
-  - craft-beer-tapas-tasting-ruzafa
-  - valencia-catamaran-sunset-cruise
+  - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
+  - tour-catedral-lonja-san-nicolas-valencia
+  - tour-tuk-tuk-valencia-centro-playas
+  - oceanografic-valencia-entrada
+  - cata-cerveza-artesanal-tapas-ruzafa
+  - paseo-catamaran-valencia-atardecer
 ---
 
 ## The 2027 calendar

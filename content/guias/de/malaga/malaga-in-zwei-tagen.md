@@ -31,6 +31,8 @@ actividades:
   - ronda-setenil-desde-malaga
   - caminito-del-rey-entrada-guia-oficial
   - cuevas-nerja-entrada
+  - catedral-malaga-tour-guiado-sin-colas
+  - centre-pompidou-malaga-entrada
 ---
 
 **Zwei Tage in Málaga bringen sehr viel.** Die Altstadt ist kompakt, flach und zu Fuß gut zu erkunden, sodass in gut verteilten 48 Stunden die Sehenswürdigkeiten, die Museen, der Strand und, wenn man es organisiert, auch der Caminito del Rey Platz finden. Dieser Guide trennt das Unverzichtbare vom Verzichtbaren und geht davon aus, dass du die Stadt verstehen willst, nicht nur die Sonne genießen. Málaga hat sich in fünfzehn Jahren vom reinen Durchgangstor zur Costa del Sol zu einer Kulturhauptstadt mit mehr als dreißig Museen entwickelt, und das merkt man.

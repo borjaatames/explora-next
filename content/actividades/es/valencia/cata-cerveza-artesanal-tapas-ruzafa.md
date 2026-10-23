@@ -74,7 +74,7 @@ imagen: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
 imagenAlt: Barra de una cervecería artesana con tanques
 galeria:
 - src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: Croquetas caseras
+  alt: "Dos croquetas caseras en un plato de barro"
 - src: /images/actividades/valencia/ruzafa/gildas.webp
   alt: Gildas de anchoa, aceituna y guindilla
 - src: /images/actividades/valencia/ruzafa/mercado-ruzafa.webp

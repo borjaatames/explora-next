@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.web
 imagenResumenAlt: "Blick auf Málaga: der Hafen und die Kathedrale"
 imagen: "/images/ciudades/hero/malaga.webp"
 imagenAlt: "Hafen und Stadt Málaga bei Sonnenuntergang von oben"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "599.000"
+  - etiqueta: "Gegründet um"
+    valor: "770 v. Chr."
+  - etiqueta: "Alcazaba"
+    valor: "11. Jh."
+  - etiqueta: "Picasso geboren"
+    valor: "1881"
 publicada: true
 destacada: false
 orden: 5

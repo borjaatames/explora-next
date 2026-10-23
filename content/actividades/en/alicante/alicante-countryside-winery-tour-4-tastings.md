@@ -81,9 +81,9 @@ imagen: /images/actividades/alicante/vino/vinedos.webp
 imagenAlt: Vineyards in the countryside
 galeria:
 - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "Alicante"
+  alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
 - src: "/images/actividades/alicante/vino/vinedos.webp"
-  alt: "Vinedos"
+  alt: "Rows of vines on clay soil in winter"
 - src: "/images/actividades/alicante/vino/barricas.webp"
   alt: "Wine barrels in a cellar"
 - src: "/images/actividades/alicante/vino/cata-copas.webp"

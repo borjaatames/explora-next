@@ -15,6 +15,17 @@ keywords:
 - girona juego de tronos
 - el call girona
 - ruta girona
+faq:
+  - pregunta: "¿Se puede ver Girona en un día?"
+    respuesta: "Sí. El casco antiguo es compacto y se recorre a pie: las casas del Onyar, la Catedral, El Call, los Baños Árabes, Sant Pere de Galligants y la muralla caben en una ruta de 9:30 a media tarde, con parada para comer. Eso sí, no la trates como una parada de media hora entre Barcelona y la Costa Brava: pide el día entero."
+  - pregunta: "¿Cómo ir de Barcelona a Girona?"
+    respuesta: "En AVE o Avant desde Sants tardas 38 minutos, con salidas toda la mañana; el regional tarda 1 h 20 y cuesta la mitad. La estación está a 15 minutos andando del casco antiguo. Si vas en coche, no entres al Barri Vell, que es peatonal: aparca en el parking de la Devesa o en el de la estación."
+  - pregunta: "¿Cuánto cuesta entrar en la Catedral de Girona?"
+    respuesta: "La Catedral y Sant Feliu se visitan con una entrada conjunta de 7,50 € en 2026, con audioguía incluida. Los domingos y festivos la Catedral abre a las 12:00. La muralla es gratis, los Baños Árabes cuestan pocos euros y el Museo de Historia de los Judíos, 4 €."
+  - pregunta: "¿Cuál es la mejor época para visitar Girona?"
+    respuesta: "De abril a junio y de septiembre a octubre. En Temps de Flors (mediados de mayo, nueve días) la ciudad se llena de flores, pero se masifica y los hoteles se agotan con semanas; en invierno no hay colas. A finales de octubre son las fiestas de Sant Narcís, con ambiente local y sin la saturación de mayo."
+  - pregunta: "¿Merece la pena hacer un tour guiado por Girona?"
+    respuesta: "Si solo reservas una cosa, que sea el tour a pie en grupo reducido por el Barri Vell (4,8★, desde 35 €): 2 h 30 por la muralla, la catedral, El Call y el puente de Eiffel, y al final el guía te recomienda qué ver por dentro y dónde comer. Las entradas a monumentos se pagan aparte. Si prefieres ir a tu ritmo, la audioguía de la app DareMapp cuesta 5 €."
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
@@ -27,6 +38,8 @@ actividades:
   - girona-costa-brava-grupo-reducido-recogida-hotel
   - girona-figueres-dali-cadaques-desde-barcelona
   - tour-autoguiado-daremapp-girona
+  - girona-catedral-museu-art-sant-feliu-entrada
+  - girona-judia-tour-guiado-call
 ---
 
 **Girona se ve bien en un día.** Su casco antiguo es compacto y se recorre a pie: la catedral, El Call, las casas de colores del Onyar y la muralla. Está a 38 minutos de Barcelona en AVE.

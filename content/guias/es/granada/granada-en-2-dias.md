@@ -35,6 +35,8 @@ actividades:
   - alpujarra-pueblos-montana
   - catedral-granada-entrada
   - capilla-real-granada-entrada
+  - monasterio-cartuja-granada-entrada
+  - monasterio-san-jeronimo-granada-entrada
 ---
 
 **Granada en 2 días son justos**, pero bien organizados dan para lo esencial: Alhambra, Albaicín al atardecer, tapas gratis, Capilla Real, la Cartuja barroca y una zambra en el Sacromonte. Dejamos fuera a propósito el Parque de las Ciencias, el Hammam y la Huerta de San Vicente.

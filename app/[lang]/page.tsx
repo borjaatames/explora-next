@@ -338,7 +338,7 @@ export default function HomePage({ params }: Props) {
                       />
                     ) : null}
                     {a.cancelacionGratuita ? (
-                      <span className="absolute top-3 left-3 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded">
+                      <span className="absolute top-3 left-3 bg-amber-500 text-slate-900 text-xs font-semibold px-2 py-1 rounded">
                         {copy.freeCancellation}
                       </span>
                     ) : null}

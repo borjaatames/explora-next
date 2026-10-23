@@ -23,12 +23,12 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'The lights go on in **late November** and stay up until Epiphany (6 January), at more than 250 spots across the city. The must-dos: the **Plaza Mayor Christmas market**, **Cortylandia** on Calle Preciados, seeing the lights on the **Naviluz** bus or by tuk-tuk, and the **Three Kings Parade** on 5 January. Go on a weekday: on December Saturdays the centre grinds to a halt.'
 actividades:
-  - madrid-christmas-lights-tuk-tuk-tour
-  - madrid-big-bus-panoramic-night-tour
-  - flamenco-torres-bermejas-dining-options
-  - madrid-spanish-inquisition-ghost-tour
-  - royal-palace-skip-line-guided-tour-golden
-  - toledo-and-segovia-with-alcazar-from-madrid
+  - tuk-tuk-luces-navidad-madrid
+  - madrid-big-bus-night-tour
+  - flamenco-torres-bermejas-cena
+  - madrid-tour-nocturno-inquisicion-leyendas
+  - palacio-real-visita-guiada-golden-tour
+  - excursion-toledo-segovia-alcazar
 ---
 ## The season at a glance
 

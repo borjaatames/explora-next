@@ -85,7 +85,7 @@ galeria:
 - src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
   alt: The Romanesque Praterías doorway
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: Alameda park
+  alt: "Steps and gardens of Alameda Park in Santiago"
 ratingProveedor: 4.8
 numeroOpiniones: 356
 atraccionesRelacionadas:

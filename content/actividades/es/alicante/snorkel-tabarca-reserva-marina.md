@@ -89,9 +89,7 @@ galeria:
   - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
     alt: "Fortificación de Tabarca vista desde el mar"
   - src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
-    alt: "Faro Tabarca Campo"
-  - src: "/images/actividades/alicante/tabarca/muralla-antigua-tabarca.webp"
-    alt: "Muralla Antigua Tabarca"
+    alt: "Faro de Tabarca entre un campo de flores silvestres"
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:

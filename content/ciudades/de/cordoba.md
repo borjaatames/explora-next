@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-i
 imagenResumenAlt: "Mezquita-Catedral von Córdoba"
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "Die Mezquita-Catedral von Córdoba und die Römische Brücke, gespiegelt im Guadalquivir"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "323.000"
+  - etiqueta: "UNESCO-Welterbestätten"
+    valor: "2"
+  - etiqueta: "Moschee begonnen"
+    valor: "785"
+  - etiqueta: "Patio-Fest, UNESCO"
+    valor: "2012"
 publicada: true
 destacada: false
 orden: 9

@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/girona/costa-brava/costa-brava-girona-pixaba
 imagenResumenAlt: "Las casas de colores del Oñar y la Catedral de Girona"
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "Las casas de colores de Girona sobre el río Oñar"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "109.000"
+  - etiqueta: "AVE a Barcelona"
+    valor: "37 min"
+  - etiqueta: "Nave de la catedral"
+    valor: "23 m"
+  - etiqueta: "Altitud"
+    valor: "76 m"
 publicada: true
 destacada: false
 orden: 14

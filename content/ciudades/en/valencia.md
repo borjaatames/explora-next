@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-
 imagenResumenAlt: "Ciudad de las Artes y las Ciencias de Valencia"
 imagen: "/images/ciudades/hero/valencia.webp"
 imagenAlt: "Hemisfèric and Science Museum reflected in the water"
+datosClave:
+  - etiqueta: "Population"
+    valor: "841,000"
+  - etiqueta: "Founded"
+    valor: "138 BC"
+  - etiqueta: "Silk Exchange, UNESCO"
+    valor: "1996"
+  - etiqueta: "Fallas, UNESCO"
+    valor: "2016"
 publicada: true
 destacada: false
 orden: 3

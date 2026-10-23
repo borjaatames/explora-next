@@ -5,6 +5,15 @@ descripcion: "The end of the Camino: the cathedral, the Obradoiro and a World He
 comunidad: "Galicia"
 imagen: "/images/ciudades/hero/santiago-de-compostela.webp"
 imagenAlt: "View of Santiago de Compostela with the cathedral towers"
+datosClave:
+  - etiqueta: "Altitude"
+    valor: "260 m"
+  - etiqueta: "Cathedral consecrated"
+    valor: "1211"
+  - etiqueta: "Old Town, UNESCO"
+    valor: "1985"
+  - etiqueta: "Camino Francés, UNESCO"
+    valor: "1993"
 publicada: true
 destacada: false
 orden: 15

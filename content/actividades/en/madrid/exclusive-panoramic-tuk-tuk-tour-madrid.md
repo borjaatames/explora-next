@@ -84,7 +84,7 @@ galeria:
 - src: /images/actividades/madrid/puerta-alcala/puerta-alcala-madrid-monument-madrid-center-hero.webp
   alt: Puerta de Alcalá
 - src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp
-  alt: Almudena Cathedral
+  alt: "Top of the Almudena Cathedral façade between its twin towers"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -5,6 +5,15 @@ descripcion: "Das Ende des Jakobswegs: die Kathedrale, der Obradoiro-Platz und e
 comunidad: "Galicien"
 imagen: "/images/ciudades/hero/santiago-de-compostela.webp"
 imagenAlt: "Blick auf Santiago de Compostela mit den Türmen der Kathedrale"
+datosClave:
+  - etiqueta: "Höhe"
+    valor: "260 m"
+  - etiqueta: "Kathedrale geweiht"
+    valor: "1211"
+  - etiqueta: "Altstadt, UNESCO"
+    valor: "1985"
+  - etiqueta: "Camino Francés, UNESCO"
+    valor: "1993"
 publicada: true
 destacada: false
 orden: 15

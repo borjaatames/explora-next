@@ -24,7 +24,6 @@ respuestaCorta: 'Book only at **sagradafamilia.org**, **4â€“6 weeks ahead** (8â€
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-guiado-clasico
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
 faq:

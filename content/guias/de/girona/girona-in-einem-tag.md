@@ -15,6 +15,17 @@ keywords:
   - "girona game of thrones"
   - "el call girona"
   - "girona route"
+faq:
+  - pregunta: "Kann man Girona an einem Tag sehen?"
+    respuesta: "Ja. Die Altstadt ist kompakt und zu Fuß erkundbar: Die Häuser am Onyar, die Kathedrale, El Call, die Arabischen Bäder, Sant Pere de Galligants und die Stadtmauer passen in eine Route von 9:30 Uhr bis zum späten Nachmittag, mit Mittagspause. Behandle Girona aber nicht als halbstündigen Zwischenstopp zwischen Barcelona und der Costa Brava: Die Stadt füllt einen ganzen Tag."
+  - pregunta: "Wie komme ich von Barcelona nach Girona?"
+    respuesta: "Mit dem AVE oder Avant ab Sants brauchst du 38 Minuten, mit Abfahrten den ganzen Vormittag; der Regionalzug braucht 1 Std. 20 Min. und kostet etwa die Hälfte. Der Bahnhof liegt 15 Gehminuten von der Altstadt entfernt. Mit dem Auto fährst du nicht in den Barri Vell, der Fußgängerzone ist: Park im Parkhaus an der Devesa oder am Bahnhof."
+  - pregunta: "Was kostet der Eintritt in die Kathedrale von Girona?"
+    respuesta: "Kathedrale und Sant Feliu besuchst du mit einem gemeinsamen Ticket für 7,50 € (Stand 2026), Audioguide inklusive. Sonn- und feiertags öffnet die Kathedrale erst um 12:00 Uhr. Die Stadtmauer ist kostenlos, die Arabischen Bäder kosten ein paar Euro und das Museum für jüdische Geschichte 4 €."
+  - pregunta: "Wann ist die beste Reisezeit für Girona?"
+    respuesta: "Von April bis Juni und von September bis Oktober. Zu Temps de Flors (Mitte Mai, neun Tage) ist die Stadt voller Blumen, aber völlig überlaufen, und die Hotels sind Wochen im Voraus ausgebucht; im Winter gibt es keine Schlangen. Ende Oktober finden die Fiestas de Sant Narcís statt, mit lokaler Atmosphäre und ohne den Andrang vom Mai."
+  - pregunta: "Lohnt sich eine Führung durch Girona?"
+    respuesta: "Wenn du nur eine Sache buchst, dann den Rundgang in Kleingruppe durch den Barri Vell (4,8★, ab 35 €): 2 Std. 30 Min. über die Stadtmauer, zur Kathedrale, durch El Call und über die Eiffel-Brücke, und am Ende gibt dir der Guide Tipps, was du von innen sehen und wo du essen solltest. Eintritte zahlst du extra. Wenn du lieber in deinem eigenen Tempo gehst, kostet der Audioguide der App DareMapp 5 €."
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
@@ -27,6 +38,8 @@ actividades:
   - girona-costa-brava-grupo-reducido-recogida-hotel
   - girona-figueres-dali-cadaques-desde-barcelona
   - tour-autoguiado-daremapp-girona
+  - girona-catedral-museu-art-sant-feliu-entrada
+  - girona-judia-tour-guiado-call
 ---
 
 **Girona lässt sich gut an einem Tag besichtigen.** Die Altstadt ist kompakt und zu Fuß erkundbar, sodass an einem Tag die Kathedrale, El Call, die bunten Häuser am Onyar und ein Spaziergang oben auf der Stadtmauer Platz finden. Es ist der klassische Ausflug ab Barcelona — nur 38 Minuten mit dem Hochgeschwindigkeitszug —, doch wer zum Mittagessen bleibt und den Sonnenuntergang über dem Fluss erlebt, nimmt eine ganze Stadt mit, nicht nur eine Postkarte im Vorbeigehen.

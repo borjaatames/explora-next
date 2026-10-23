@@ -12,6 +12,15 @@ imagenActividades: "/images/actividades/granada/alhambra/alhambra-granada-evenin
 imagenActividadesAlt: "Die Alhambra bei Abenddämmerung, beleuchtet vom Albaicín aus gesehen"
 imagenAtracciones: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
 imagenAtraccionesAlt: "Die Alcazaba der Alhambra in Granada"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "234.000"
+  - etiqueta: "Höhe"
+    valor: "738 m"
+  - etiqueta: "Alhambra, UNESCO"
+    valor: "1984"
+  - etiqueta: "Mulhacén"
+    valor: "3.479 m"
 publicada: true
 destacada: true
 orden: 10

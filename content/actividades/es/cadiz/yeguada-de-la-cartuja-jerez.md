@@ -75,10 +75,6 @@ keywords:
 imagen: /images/actividades/cadiz/yeguada/cobra-yeguas.webp
 imagenAlt: Exhibición de una cobra de yeguas en la Yeguada de la Cartuja
 galeria:
-- src: "/images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp"
-  alt: "Torre Antigua Bodega Jerez"
-- src: "/images/actividades/cadiz/yeguada/cobra-yeguas.webp"
-  alt: "Cobra Yeguas"
 - src: /images/actividades/cadiz/yeguada/yeguas-potros.webp
   alt: Yeguas y potros cartujanos
 - src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
@@ -91,6 +87,16 @@ galeria:
   alt: Enganche de caballos cartujanos
 - src: /images/actividades/cadiz/yeguada/manada.webp
   alt: Manada de caballos cartujanos
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-01.webp"
+  alt: "Jinete con un caballo cartujano en la pista de la Yeguada"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-02.webp"
+  alt: "Caballos cartujanos alineados en la pista de exhibición"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-03.webp"
+  alt: "Enganche de caballos blancos durante la exhibición"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-04.webp"
+  alt: "Potros cartujanos corriendo en la pista"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp"
+  alt: "Picadero cubierto de la Yeguada de la Cartuja"
 ratingProveedor: 4.8
 numeroOpiniones: 1073
 atraccionesRelacionadas:

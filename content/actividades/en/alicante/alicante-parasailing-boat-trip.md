@@ -107,7 +107,7 @@ galeria:
   - src: "/images/actividades/alicante/costa/postiguet.webp"
     alt: "El Postiguet beach below the castle"
   - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-    alt: "Alicante"
+    alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
   - src: "/images/actividades/alicante/costa/cabo-huertas-atardecer.webp"
     alt: "Cabo de las Huertas at sunset"
 ratingProveedor: 4.5

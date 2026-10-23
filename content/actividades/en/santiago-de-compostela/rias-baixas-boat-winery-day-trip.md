@@ -78,7 +78,7 @@ imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
 imagenAlt: Combarro's hórreos by the estuary
 galeria:
 - src: /images/actividades/santiago-de-compostela/rias/bateas.webp
-  alt: Mussel rafts
+  alt: "Mussel-farming rafts floating in the estuary"
 - src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
   alt: The shell-covered chapel on A Toxa
 - src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp

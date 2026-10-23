@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.web
 imagenResumenAlt: "Vista de Málaga: el puerto y la catedral"
 imagen: "/images/ciudades/hero/malaga.webp"
 imagenAlt: "Puerto y ciudad de Málaga al atardecer desde lo alto"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "599.000"
+  - etiqueta: "Fundada hacia"
+    valor: "770 a. C."
+  - etiqueta: "Alcazaba"
+    valor: "s. XI"
+  - etiqueta: "Nacimiento de Picasso"
+    valor: "1881"
 publicada: true
 destacada: false
 orden: 5

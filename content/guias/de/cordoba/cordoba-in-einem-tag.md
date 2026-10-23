@@ -29,6 +29,8 @@ actividades:
   - espectaculo-ecuestre-caballerizas-reales
   - espectaculo-flamenco-tablao-cardenal
   - mezquita-catedral-entrada-audioguia
+  - alcazar-reyes-cristianos-visita-guiada
+  - palacio-viana-patios-entrada
 ---
 
 **Córdoba lässt sich gut an einem Tag besichtigen**, und deshalb ist es der klassische Ausflug ab Sevilla, Madrid oder Granada. Die Altstadt ist kompakt und lässt sich zu Fuß erkunden: die Mezquita-Catedral, die Judería, der Alcázar und die Römische Brücke liegen nur fünf Minuten voneinander entfernt. Dieser Guide ordnet deinen Tag, damit du keine Schlangen und keine unnötige Hitze erlebst, und macht klar, was sich lohnt und was reine Touristenfüllung ist.

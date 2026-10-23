@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-
 imagenResumenAlt: "Park Güell de Gaudí en Barcelona"
 imagen: "/images/ciudades/hero/barcelona.webp"
 imagenAlt: "Sagrada Familia al atardecer con el Tibidabo al fondo"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "1,7 M"
+  - etiqueta: "Edificios UNESCO"
+    valor: "8"
+  - etiqueta: "AVE a Madrid"
+    valor: "2 h 30 min"
+  - etiqueta: "Tibidabo"
+    valor: "512 m"
 publicada: true
 destacada: true
 orden: 2

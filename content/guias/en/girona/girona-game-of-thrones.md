@@ -15,6 +15,17 @@ keywords:
 - braavos girona
 - girona cathedral game of thrones
 - got filming girona
+faq:
+  - pregunta: "Which Game of Thrones locations are in Girona?"
+    respuesta: "Girona was a filming location for season six, shot in 2015. The main spots are the Cathedral steps (the Great Sept of Baelor in King's Landing), El Call as Braavos, the Pujada de Sant Domènec steps where Arya falls, Sant Pere de Galligants, the Pont de Pedra with the Onyar houses and the city walls on the Passeig Arqueològic."
+  - pregunta: "Do you have to pay to see the Game of Thrones locations in Girona?"
+    respuesta: "No: they're open streets and seeing them is free. You only pay to go inside the monuments: the Cathedral has a joint ticket with Sant Feliu (€7.50 as of 2026, audio guide included), and the Arab Baths and Sant Pere de Galligants cost a few euros."
+  - pregunta: "How long does the Game of Thrones walking route take?"
+    respuesta: "About 2 hours at a relaxed pace: all the locations sit within a 500-metre radius, five minutes apart. Start at 9:00 and you'll reach the Cathedral steps before the groups and finish on the walls by late morning. The Pujada de Sant Domènec steps and the climb onto the walls are steep: with a pushchair or reduced mobility, skip them."
+  - pregunta: "Is a guided Game of Thrones tour in Girona worth it?"
+    respuesta: "If you're a fan, yes: many corners were digitally altered and are hard to recognise on your own. The small-group tour (4.9★, from €35) lasts 2 hours with up to 10 people, and the guide shows you each scene on an iPad. For families or groups of four or more, the private tour costs €260 per group (up to 8 people) and lasts 2 h 30; neither includes monument tickets."
+  - pregunta: "What time should I go to the Cathedral steps for photos without crowds?"
+    respuesta: "Before 9:30 or after 19:00. The 90 steps that played the Great Sept of Baelor fill with groups from 11:00, and at midday your photos come out with a hundred people."
 slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
@@ -25,6 +36,8 @@ actividades:
   - girona-juego-de-tronos-tour-grupo-reducido
   - girona-juego-de-tronos-tour-privado
   - girona-tour-a-pie-grupo-reducido
+  - girona-catedral-museu-art-sant-feliu-entrada
+  - girona-judia-tour-guiado-call
 ---
 **Girona was a filming location for season 6 of Game of Thrones, shot in 2015.** Its old town played Braavos, King's Landing and Oldtown, and all the locations are within five minutes of each other: you can walk the route in a morning, for free.
 

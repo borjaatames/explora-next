@@ -320,7 +320,7 @@ export default function ActividadesFiltradas({
                           className={
                             "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 " +
                             (activo
-                              ? "bg-amber-500 border-amber-500 text-white hover:bg-amber-600"
+                              ? "bg-amber-500 border-amber-500 text-slate-900 hover:bg-amber-600"
                               : "bg-white border-slate-300 text-slate-900 hover:border-amber-400")
                           }
                         >
@@ -504,7 +504,7 @@ function CardActividad({
             className="object-cover transition duration-300 group-hover:scale-105"
           />
           {actividad.cancelacionGratuita ? (
-            <span className="absolute top-3 left-3 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded">
+            <span className="absolute top-3 left-3 bg-amber-500 text-slate-900 text-xs font-semibold px-2 py-1 rounded">
               {strings.cancelacionGratuita}
             </span>
           ) : null}

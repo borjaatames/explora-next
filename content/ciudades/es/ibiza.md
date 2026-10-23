@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenResumenAlt: "Calas turquesa de Ibiza"
 imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
 imagenAlt: "Costa de Ibiza con aguas turquesa y barcos"
+datosClave:
+  - etiqueta: "Habitantes (isla)"
+    valor: "164.000"
+  - etiqueta: "Costa"
+    valor: "210 km"
+  - etiqueta: "Sa Talaia (cima)"
+    valor: "475 m"
+  - etiqueta: "UNESCO desde"
+    valor: "1999"
 publicada: true
 destacada: false
 orden: 16

@@ -26,6 +26,7 @@ actividades:
   - atardecer-estrellas-teide-telescopio
   - tour-teide-masca-icod-garachico
   - observatorio-teide-visita-guiada
+  - teide-subida-cumbre-ruta-guiada
 faq:
 - pregunta: ¿Hace falta permiso para subir al Teide?
   respuesta: Solo para el último tramo, el sendero Telesforo Bravo, que va de la estación superior del teleférico (3.555 m) a la cima (3.715 m). Desde agosto de 2025 se reserva en la plataforma Tenerife ON del Cabildo y, desde enero de 2026, cuesta 15 € para visitantes de fuera de Canarias (gratis para residentes en Tenerife y menores de 14 años). Para el teleférico y los dos senderos a miradores de arriba no hace falta.

@@ -119,7 +119,7 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
                   href={a.url}
                   data-reserva="top"
                   data-ficha={slugEs}
-                  className="flex-none inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-white font-semibold text-sm px-4 py-2.5 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+                  className="flex-none inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-4 py-2.5 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
                 >
                   {t.cta}
                 </Link>

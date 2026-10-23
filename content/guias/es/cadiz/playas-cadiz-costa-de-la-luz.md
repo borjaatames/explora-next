@@ -27,6 +27,7 @@ actividades:
   - catamaran-cadiz-atardecer
   - avistamiento-delfines-trafalgar-barbate
   - catamaran-bahia-de-cadiz
+  - tarifa-baelo-claudia-zahara-excursion
 ---
 
 **La Costa de la Luz tiene algunas de las mejores playas de España:** arenales atlánticos anchos y dorados, agua limpia y, en muchos casos, kilómetros sin construir. Esta guía separa las playas urbanas de la capital de las grandes playas vírgenes de la provincia, y te ayuda a elegir según el día y, sobre todo, según el **viento de levante**, el factor que lo cambia todo en esta costa.

@@ -97,7 +97,7 @@ galeria:
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
   alt: Fortified walls of Ávila
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
-  alt: Toledo Cathedral
+  alt: "Visitors in the square in front of Toledo Cathedral"
 - src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
   alt: Stone walls of Ávila
 - src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp

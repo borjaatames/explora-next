@@ -85,7 +85,7 @@ galeria:
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Bell towers of Girona's Barri Vell seen from the city walls
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
-  alt: Girona Cathedral
+  alt: "Baroque façade and grand staircase of Girona Cathedral"
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Street in Girona's Jewish Call
 - src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp

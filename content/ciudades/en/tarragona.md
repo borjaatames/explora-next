@@ -5,6 +5,15 @@ descripcion: "Roman Tarraco facing the Mediterranean: amphitheatre, circus and W
 comunidad: "Catalonia"
 imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
 imagenAlt: "The Roman amphitheatre of Tarragona by the Mediterranean sea"
+datosClave:
+  - etiqueta: "Population"
+    valor: "144,000"
+  - etiqueta: "Founded"
+    valor: "218 BC"
+  - etiqueta: "Tarraco, UNESCO"
+    valor: "2000"
+  - etiqueta: "Human towers, UNESCO"
+    valor: "2010"
 publicada: true
 destacada: false
 orden: 12

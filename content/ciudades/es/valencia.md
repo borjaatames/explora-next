@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-
 imagenResumenAlt: "Ciudad de las Artes y las Ciencias de Valencia"
 imagen: "/images/ciudades/hero/valencia.webp"
 imagenAlt: "Hemisfèric y Museo de las Ciencias reflejados en el agua"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "841.000"
+  - etiqueta: "Fundada en"
+    valor: "138 a. C."
+  - etiqueta: "Lonja de la Seda, UNESCO"
+    valor: "1996"
+  - etiqueta: "Fallas, UNESCO"
+    valor: "2016"
 publicada: true
 destacada: false
 orden: 3

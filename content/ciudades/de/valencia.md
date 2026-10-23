@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/valencia/ciudad-artes/ciudad-artes-valencia-
 imagenResumenAlt: "Die Stadt der Künste und Wissenschaften von Valencia"
 imagen: "/images/ciudades/hero/valencia.webp"
 imagenAlt: "Hemisfèric und Wissenschaftsmuseum spiegeln sich im Wasser"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "841.000"
+  - etiqueta: "Gegründet"
+    valor: "138 v. Chr."
+  - etiqueta: "Seidenbörse, UNESCO"
+    valor: "1996"
+  - etiqueta: "Fallas, UNESCO"
+    valor: "2016"
 publicada: true
 destacada: false
 orden: 3

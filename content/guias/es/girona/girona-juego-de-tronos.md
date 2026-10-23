@@ -15,6 +15,17 @@ keywords:
 - braavos girona
 - catedral girona juego de tronos
 - game of thrones girona
+faq:
+  - pregunta: "¿Qué escenarios de Juego de Tronos hay en Girona?"
+    respuesta: "Girona fue plató de la sexta temporada, rodada en 2015. Los principales son la escalinata de la Catedral (el Gran Septo de Baelor de Desembarco del Rey), El Call como Braavos, la Pujada de Sant Domènec donde cae Arya, Sant Pere de Galligants, el Pont de Pedra con las casas del Onyar y la muralla del Passeig Arqueològic."
+  - pregunta: "¿Hay que pagar para ver los escenarios de Juego de Tronos en Girona?"
+    respuesta: "No: son calles abiertas y verlos es gratis. Solo pagas si entras en los monumentos: la Catedral tiene entrada conjunta con Sant Feliu (7,50 € en 2026, con audioguía), y los Baños Árabes y Sant Pere de Galligants cuestan pocos euros."
+  - pregunta: "¿Cuánto se tarda en hacer la ruta de Juego de Tronos a pie?"
+    respuesta: "Unas 2 horas con calma: todos los escenarios están en un radio de 500 metros, a cinco minutos unos de otros. Si empiezas a las 9:00 llegas a la escalinata antes que los grupos y terminas en la muralla a media mañana. Las escaleras de la Pujada de Sant Domènec y la subida a la muralla son empinadas: con carrito o movilidad reducida, sáltatelas."
+  - pregunta: "¿Merece la pena hacer un tour guiado de Juego de Tronos en Girona?"
+    respuesta: "Si eres fan, sí: muchos rincones se retocaron digitalmente y cuesta reconocerlos solo. El tour en grupo reducido (4,9★, desde 35 €) dura 2 horas, con un máximo de 10 personas, y el guía te enseña cada escena en un iPad. Para familias o grupos de cuatro o más, el tour privado cuesta 260 € por grupo (hasta 8 personas) y dura 2 h 30; ninguno incluye entradas a monumentos."
+  - pregunta: "¿A qué hora conviene ir a la escalinata de la Catedral para hacer fotos sin gente?"
+    respuesta: "Antes de las 9:30 o después de las 19:00. La escalinata, de 90 peldaños y que hizo de Gran Septo de Baelor, se llena de grupos a partir de las 11:00 y a mediodía las fotos salen con cien personas."
 slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
@@ -25,6 +36,8 @@ actividades:
   - girona-juego-de-tronos-tour-grupo-reducido
   - girona-juego-de-tronos-tour-privado
   - girona-tour-a-pie-grupo-reducido
+  - girona-catedral-museu-art-sant-feliu-entrada
+  - girona-judia-tour-guiado-call
 ---
 
 **Girona fue plató de la sexta temporada de Juego de Tronos, rodada en 2015.** Su casco antiguo hizo de Braavos, de Desembarco del Rey y de Antigua, y todos los escenarios están a cinco minutos unos de otros: la ruta se hace a pie en una mañana y sin pagar nada.

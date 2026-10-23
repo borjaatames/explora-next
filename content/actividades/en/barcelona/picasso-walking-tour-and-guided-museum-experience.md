@@ -100,10 +100,24 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords: ["picasso walking tour barcelona", "picasso museum and walking tour", "el born picasso walking tour", "picasso museum top rated barcelona", "picasso footsteps barcelona"]
 
-imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-imagenAlt: "El Born neighborhood and Picasso Museum walking tour route"
+imagen: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+imagenAlt: "Gothic windows above an arched entrance at the Museu Picasso"
 
 galeria:
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+    alt: "Courtyard of the Museu Picasso's medieval palace on Carrer de Montcada"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-04.webp"
+    alt: "Museu Picasso courtyard with an exhibition banner"
+  - src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp"
+    alt: "Stone façades and balconies of the Museu Picasso palaces"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp"
+    alt: "Pont del Bisbe, the Gothic bridge over Carrer del Bisbe"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp"
+    alt: "Narrow stone lane in Barcelona's Gothic Quarter"
+  - src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+    alt: "Carved stone vault and lantern in the Gothic Quarter"
+  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+    alt: "Gothic façade of Barcelona Cathedral"
 ratingProveedor: 4.8
 numeroOpiniones: 47
 

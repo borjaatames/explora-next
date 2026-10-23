@@ -23,6 +23,7 @@ respuestaCorta: 'The **Patio Festival** runs for two weeks in early May (4–17 
 reservasArriba: true
 actividades:
   - patios-cordobeses-tour-con-entradas
+  - palacio-viana-patios-entrada
 ---
 
 **The patios are the soul of Córdoba**, and in May, its greatest spectacle. Private houses open their whitewashed courtyards, packed with pots and flowers, for anyone to come in and see them for free. The **Patio Festival** is **UNESCO Intangible Heritage**, but you can also see patios out of season if you know where. This guide tells you when, where and how, without the queues or too much heat.

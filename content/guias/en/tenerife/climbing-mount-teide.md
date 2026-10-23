@@ -26,6 +26,7 @@ actividades:
   - atardecer-estrellas-teide-telescopio
   - tour-teide-masca-icod-garachico
   - observatorio-teide-visita-guiada
+  - teide-subida-cumbre-ruta-guiada
 faq:
 - pregunta: Do I need a permit to climb Teide?
   respuesta: 'Only for the last stretch, the Telesforo Bravo trail from the upper cable car station (3,555 m) to the summit (3,715 m). Since August 2025 it''s booked on the Cabildo''s Tenerife ON platform, and since January 2026 it costs €15 for visitors from outside the Canaries (free for Tenerife residents and under-14s). The cable car and the two viewpoint trails at the top don''t need one.'

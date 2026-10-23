@@ -71,7 +71,7 @@ galeria:
 - src: /images/actividades/tarragona/romana/circo-romano.webp
   alt: "Remains of the Roman circus of Tarraco"
 - src: /images/actividades/tarragona/catedral/catedral.webp
-  alt: "Tarragona Cathedral"
+  alt: "Lantern tower and belfry of Tarragona Cathedral"
 - src: https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg
   alt: "DaremApp app with the self-guided route"
 atraccionesRelacionadas:

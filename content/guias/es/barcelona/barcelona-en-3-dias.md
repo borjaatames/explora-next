@@ -36,6 +36,9 @@ actividades:
   - museo-picasso-tour-guiado-sin-colas
   - montserrat-medio-dia-grupo-pequeno
   - mnac-museu-nacional-art-catalunya-entrada
+  - casa-amatller-entrada-videoguia
+  - fundacio-joan-miro-entrada
+  - articket-barcelona-6-museos
 ---
 
 Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagrada Família sin reserva, paella en la Barceloneta. Tres días es la cifra justa para la primera vez: Gaudí en serio, dos barrios con carácter, Montjuïc y el mar. Con dos hay que elegir entre Gaudí o los barrios; con cuatro, añade Montserrat. Si solo tienes uno, [Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia).

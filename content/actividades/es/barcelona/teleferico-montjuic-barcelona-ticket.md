@@ -72,8 +72,8 @@ keywords:
 - cable car montjuic barcelona
 - montjuic barcelona vistas
 - teleferico barcelona precio
-imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
-imagenAlt: "Vistas de Barcelona desde la montaña de Montjuïc"
+imagen: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-01.webp"
+imagenAlt: "Cabinas del Telefèric de Montjuïc entre flores"
 galeria:
   - src: "/images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp"
     alt: "Playa de la Barceloneta con el hotel Arts al fondo, Barcelona"
@@ -91,6 +91,14 @@ galeria:
     alt: "Torres venecianas y plaza de España a los pies de Montjuïc"
   - src: "/images/actividades/barcelona/montjuic/pexels-6437868-hero.webp"
     alt: "Vistas panorámicas de Barcelona desde Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
+    alt: "Vistas de Barcelona desde la montaña de Montjuïc"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-02.webp"
+    alt: "Cabinas del teleférico sobre la ciudad de Barcelona"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-03.webp"
+    alt: "Teleférico de Montjuïc con vistas a Barcelona"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp"
+    alt: "Cabinas subiendo hacia el castillo de Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas:

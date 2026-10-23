@@ -5,6 +5,15 @@ descripcion: "The oldest inhabited city in the West, surrounded by sea on three 
 comunidad: "Andalusia"
 imagen: "/images/ciudades/hero/cadiz.webp"
 imagenAlt: "Cádiz seafront with the cathedral at sunset"
+datosClave:
+  - etiqueta: "Population"
+    valor: "110,000"
+  - etiqueta: "Founded c."
+    valor: "1100 BC"
+  - etiqueta: "Constitution of Cádiz"
+    valor: "1812"
+  - etiqueta: "La Victoria beach"
+    valor: "3 km"
 publicada: true
 destacada: false
 orden: 13

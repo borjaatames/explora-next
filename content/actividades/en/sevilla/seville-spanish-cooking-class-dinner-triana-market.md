@@ -104,10 +104,24 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["seville cooking class hands on", "spanish cooking class seville", "triana market cooking class", "paella cooking class seville", "andalusian cooking class"]
 
-imagen: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
-imagenAlt: "Triana bridge — location of the Triana Market where the cooking class takes place"
+imagen: "/images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-triana-2016002-jpg-01.webp"
+imagenAlt: "Fruit and vegetable stall piled high at the Triana market"
 
 galeria:
+  - src: "/images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-02-jpg-05.webp"
+    alt: "Tiled entrance sign of the Mercado de Triana"
+  - src: "/images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp"
+    alt: "Ham and deli stalls inside the Mercado de Triana"
+  - src: "/images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp"
+    alt: "Greengrocer's stall inside the Triana market"
+  - src: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
+    alt: "Cook adding olive oil to a paella over the fire"
+  - src: "/images/actividades/madrid/paella/paella-pexels-36878063.webp"
+    alt: "Seafood paella with prawns and a wooden spoon"
+  - src: "/images/actividades/sevilla/triana/triana-pexels-16778487.webp"
+    alt: "Triana riverfront across the Guadalquivir"
+  - src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
+    alt: "Triana Bridge lit up at dusk"
 ratingProveedor: 4.9
 numeroOpiniones: 975
 

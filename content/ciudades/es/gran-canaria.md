@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
 imagenResumenAlt: "El barranco de Guayadeque, entre Agüimes e Ingenio"
 imagen: "/images/ciudades/hero/gran-canaria.webp"
 imagenAlt: "Roque Nublo sobre un mar de nubes con luz dorada"
+datosClave:
+  - etiqueta: "Habitantes (isla)"
+    valor: "871.000"
+  - etiqueta: "Pico de las Nieves"
+    valor: "1.949 m"
+  - etiqueta: "Costa"
+    valor: "236 km"
+  - etiqueta: "Risco Caído, UNESCO"
+    valor: "2019"
 publicada: true
 destacada: false
 orden: 17

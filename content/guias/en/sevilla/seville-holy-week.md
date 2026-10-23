@@ -22,13 +22,13 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'It runs from **21 to 28 March 2027**, and the big night, the **Madrugá**, is from Thursday 25 into Friday 26. About 70 brotherhoods process, and all of them pass along the **Carrera Oficial** (Campana, Sierpes, Plaza de San Francisco, Avenida and the Cathedral). Chairs are sold by season pass, so the practical way to see it is on the street, in the neighbourhoods, or from a rented balcony. Book your hotel now: it''s the most expensive week of the year.'
 actividades:
-  - real-alcazar-seville-entry-ticket
-  - seville-small-group-city-highlights-walking-tour
-  - seville-guadalquivir-river-boat-tour
-  - seville-casa-de-la-memoria-flamenco-show-intimate
-  - seville-tapas-tour-across-river-triana
-  - seville-cathedral-giralda-entry-ticket
-  - cordoba-full-day-essential-mezquita-tour-from-seville
+  - real-alcazar-sevilla-entrada
+  - sevilla-small-group-city-highlights-walking-tour
+  - sevilla-guadalquivir-river-boat-tour
+  - casa-de-la-memoria-flamenco-show-intimo-sevilla
+  - sevilla-tapas-tour-triana-cruzando-rio
+  - catedral-sevilla-giralda-entrada-skip-line
+  - cordoba-excursion-dia-completo-mezquita-desde-sevilla
 ---
 
 ## The 2027 calendar

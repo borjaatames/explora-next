@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-i
 imagenResumenAlt: "Mezquita-Catedral de Córdoba"
 imagen: "/images/actividades/cordoba/ciudades/cordoba-hero.webp"
 imagenAlt: "La Mezquita-Catedral de Córdoba y el Puente Romano reflejados en el Guadalquivir"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "323.000"
+  - etiqueta: "Bienes UNESCO"
+    valor: "2"
+  - etiqueta: "Mezquita, iniciada en"
+    valor: "785"
+  - etiqueta: "Patios, UNESCO"
+    valor: "2012"
 publicada: true
 destacada: false
 orden: 9

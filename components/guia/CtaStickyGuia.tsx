@@ -81,7 +81,7 @@ export default function CtaStickyGuia({
           data-reserva="sticky"
           data-ficha={slugEs}
           tabIndex={visible ? 0 : -1}
-          className="flex-none inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-white font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+          className="flex-none inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
         >
           {textoCta}
         </Link>

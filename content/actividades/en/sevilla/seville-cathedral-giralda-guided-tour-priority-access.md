@@ -115,10 +115,26 @@ atraccionesRelacionadas:
 categoria: "visitasGuiadas"
 keywords: ["seville cathedral guided tour", "giralda priority access tour", "seville cathedral skip line english", "cathedral seville french guide", "cathedral seville german guide"]
 
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
-imagenAlt: "Gothic facade of Seville Cathedral with the Giralda bell tower"
+imagen: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp"
+imagenAlt: "Gilded Gothic vaults of Seville Cathedral's nave"
 
 galeria:
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+    alt: "Palm trees beside the Gothic walls of Seville Cathedral"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp"
+    alt: "The Giralda bell tower framed by orange trees"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp"
+    alt: "Seville Cathedral and the Giralda at sunset light"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp"
+    alt: "Seville Cathedral and the Giralda seen from the square"
+  - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp"
+    alt: "Gothic facade of Seville Cathedral with the Giralda bell tower"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp"
+    alt: "Carved wooden choir stalls in Seville Cathedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp"
+    alt: "Alabaster tomb inside Seville Cathedral"
+  - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-01.webp"
+    alt: "Carved stone relief inside Seville Cathedral"
 ratingProveedor: 4.5
 numeroOpiniones: 2362
 

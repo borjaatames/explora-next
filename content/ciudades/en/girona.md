@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/girona/costa-brava/costa-brava-girona-pixaba
 imagenResumenAlt: "The colourful Oñar houses and Girona Cathedral"
 imagen: "/images/actividades/girona/ciudades/girona-hero.webp"
 imagenAlt: "The colourful houses of Girona over the Oñar river"
+datosClave:
+  - etiqueta: "Population"
+    valor: "109,000"
+  - etiqueta: "High-speed train to Barcelona"
+    valor: "37 min"
+  - etiqueta: "Cathedral nave width"
+    valor: "23 m"
+  - etiqueta: "Altitude"
+    valor: "76 m"
 publicada: true
 destacada: false
 orden: 14

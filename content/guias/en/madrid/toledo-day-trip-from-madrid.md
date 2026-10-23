@@ -33,6 +33,7 @@ actividades:
   - excursion-chinchon-aranjuez-toledo
   - excursion-alcala-henares-bodega-privada
   - escorial-valle-cuelgamuros-excursion-grupo
+  - toledo-catedral-visita-guiada
 ---
 
 Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where Jews, Muslims and Christians lived side by side for centuries and left their mark in stone. El Escorial is one monument and Segovia an aqueduct plus an alcázar; Toledo is a whole city listed by UNESCO, and you can see it well in one day. Here's the route, what to skip and the usual mistakes.

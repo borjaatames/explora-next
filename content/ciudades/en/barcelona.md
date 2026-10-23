@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-
 imagenResumenAlt: "Park Güell de Gaudí en Barcelona"
 imagen: "/images/ciudades/hero/barcelona.webp"
 imagenAlt: "Sagrada Familia at sunset with Tibidabo behind"
+datosClave:
+  - etiqueta: "Population"
+    valor: "1.7 M"
+  - etiqueta: "UNESCO-listed buildings"
+    valor: "8"
+  - etiqueta: "High-speed train to Madrid"
+    valor: "2 h 30 min"
+  - etiqueta: "Tibidabo"
+    valor: "512 m"
 publicada: true
 destacada: true
 orden: 2

@@ -75,7 +75,7 @@ galeria:
   - src: "/images/actividades/santiago-de-compostela/catedral/portico-gloria.webp"
     alt: "Pórtico de la Gloria de la Catedral de Santiago de Compostela"
   - src: "/images/actividades/santiago-de-compostela/catedral/obradoiro.webp"
-    alt: "Obradoiro facade"
+    alt: "Obradoiro square with Raxoi Palace and the Hostal dos Reis Católicos"
   - src: "/images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp"
     alt: "The Pantocrator of the Portico of Glory"
   - src: "/images/actividades/santiago-de-compostela/catedral/nave-interior.webp"
@@ -83,11 +83,11 @@ galeria:
   - src: "/images/actividades/santiago-de-compostela/catedral/cupula.webp"
     alt: "Dome of Santiago Cathedral"
   - src: "/images/actividades/santiago-de-compostela/catedral/claustro.webp"
-    alt: "Cathedral cloister"
+    alt: "Black-and-white view of the arches of Santiago Cathedral cloister"
   - src: "/images/actividades/santiago-de-compostela/catedral/botafumeiro.webp"
     alt: "The Botafumeiro"
   - src: "/images/actividades/santiago-de-compostela/catedral/quintana.webp"
-    alt: "Quintana square"
+    alt: "Steps of Praza da Quintana lined with stone buildings"
 ratingProveedor: 4.8
 numeroOpiniones: 206
 atraccionesRelacionadas:

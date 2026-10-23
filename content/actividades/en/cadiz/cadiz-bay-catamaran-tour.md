@@ -77,9 +77,9 @@ imagen: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
 imagenAlt: Santa Catalina Castle by the sea
 galeria:
 - src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Cadiz"
+  alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
 - src: "/images/actividades/cadiz/mar/bahia-atardecer.webp"
-  alt: "Bahia Atardecer"
+  alt: "Sunset over the Bay of Cádiz with moored boats"
 - src: "/images/actividades/cadiz/mar/puente-1812-noche.webp"
   alt: "The Constitution of 1812 Bridge lit up at night"
 - src: "/images/actividades/cadiz/mar/catedral-campo-sur.webp"

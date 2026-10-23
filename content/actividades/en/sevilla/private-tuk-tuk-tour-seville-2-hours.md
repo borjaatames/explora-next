@@ -96,7 +96,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg
   alt: Torre del Oro among palm trees
 - src: /images/actividades/sevilla/macarena/basilica-macarena-sevilla-exterior-20180719-hero.webp
-  alt: Macarena Basilica
+  alt: "White and yellow façade of the Macarena Basilica"
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
   alt: Tree-lined avenue in María Luisa Park
 publicada: true

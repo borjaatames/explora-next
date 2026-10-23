@@ -75,10 +75,6 @@ keywords:
 imagen: /images/actividades/cadiz/yeguada/cobra-yeguas.webp
 imagenAlt: A team of mares on display at the Yeguada de la Cartuja
 galeria:
-- src: "/images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp"
-  alt: "Torre Antigua Bodega Jerez"
-- src: "/images/actividades/cadiz/yeguada/cobra-yeguas.webp"
-  alt: "Cobra Yeguas"
 - src: "/images/actividades/cadiz/yeguada/yeguas-potros.webp"
   alt: "Carthusian mares and foals"
 - src: "/images/actividades/cadiz/yeguada/jinete-cartujano.webp"
@@ -91,6 +87,16 @@ galeria:
   alt: "Carthusian horses pulling a carriage"
 - src: "/images/actividades/cadiz/yeguada/manada.webp"
   alt: "A herd of Carthusian horses"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-01.webp"
+  alt: "Rider on a Carthusian horse in the Yeguada arena"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-02.webp"
+  alt: "Carthusian horses lined up in the show ring"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-03.webp"
+  alt: "Carriage pulled by white horses during the show"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-04.webp"
+  alt: "Carthusian foals running in the arena"
+- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp"
+  alt: "Covered riding arena at the Yeguada de la Cartuja"
 ratingProveedor: 4.8
 numeroOpiniones: 1073
 atraccionesRelacionadas:

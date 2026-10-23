@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.web
 imagenResumenAlt: "Vista de Málaga: el puerto y la catedral"
 imagen: "/images/ciudades/hero/malaga.webp"
 imagenAlt: "Málaga port and city at sunset from above"
+datosClave:
+  - etiqueta: "Population"
+    valor: "599,000"
+  - etiqueta: "Founded c."
+    valor: "770 BC"
+  - etiqueta: "Alcazaba"
+    valor: "11th c."
+  - etiqueta: "Picasso born"
+    valor: "1881"
 publicada: true
 destacada: false
 orden: 5

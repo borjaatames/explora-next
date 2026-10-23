@@ -16,6 +16,17 @@ keywords:
   - "dalí theatermuseum figueres"
   - "besalú"
   - "tagesausflüge girona"
+faq:
+  - pregunta: "Wie komme ich ohne Auto von Girona nach Figueres und zum Dalí-Theatermuseum?"
+    respuesta: "Mit dem Zug: Figueres liegt etwa 40 Minuten von Girona entfernt und ist der einzige Ausflug, der mit öffentlichen Verkehrsmitteln gut klappt. Die Führung durch das Dalí-Theatermuseum kostet ab 31 €, dauert 1 Stunde und enthält den Eintritt ohne Anstehen an der Kasse; für das ganze Museum solltest du 2 Stunden einplanen. In der Saison sind die Zeitfenster-Tickets schnell weg, also reservier ein paar Tage vorher."
+  - pregunta: "Komme ich ohne Auto von Girona nach Cadaqués?"
+    respuesta: "Cadaqués liegt 1 Std. 15 Min. mit dem Auto entfernt, und der öffentliche Verkehr kommt nur schlecht hin. Am bequemsten ist das Boot ab Roses um das Cap de Creus, ab 27 €: insgesamt etwa 3 Std. 30 Min., davon 1 Std. 30 Min. Freizeit in Cadaqués. So sparst du dir auch die 20 Minuten Kurven auf der Straße ab Roses."
+  - pregunta: "Muss ich Dalís Haus in Portlligat reservieren?"
+    respuesta: "Ja. Das Haus-Museum in Portlligat bei Cadaqués kannst du nur mit Reservierung besuchen, in kleinen Gruppen, die alle 10 Minuten eingelassen werden; ohne Termin kommst du nicht einmal in der Nebensaison hinein. Es ist weder im Boot Roses–Cadaqués noch in der Führung durch das Theatermuseum in Figueres enthalten: Reservier es separat."
+  - pregunta: "Welche Ausflüge ab Girona lassen sich an einem Tag kombinieren?"
+    respuesta: "Figueres und Besalú passen gut zusammen: Figueres ist 40 Minuten mit dem Zug entfernt, Besalú 45 Minuten mit dem Auto. Cadaqués oder die Buchten der Costa Brava füllen dagegen jeweils einen ganzen Tag, kombinier sie also nicht mit einem zweiten weiten Ausflug."
+  - pregunta: "Wann fährst du im Sommer am besten zu den Buchten von Begur und Calella de Palafrugell?"
+    respuesta: "Sie liegen etwa 50 Minuten mit dem Auto von Girona entfernt, aber die Parkplätze sind klein und im Juli und August gegen 10:30 Uhr voll. Komm vor 9:00 Uhr, nimm die Shuttlebusse, die Begur im Sommer einsetzt, oder fahr am späten Nachmittag hin, wenn auch das Licht am schönsten ist."
 slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
@@ -29,6 +40,7 @@ actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
+  - tossa-de-mar-costa-brava-excursion-desde-barcelona
 ---
 
 **Girona ist die beste Basis, um den Nordosten Kataloniens zu entdecken.** In weniger als einer Stunde erreichst du die schönsten Buchten der Costa Brava, das Universum Dalís in Figueres und Cadaqués, mittelalterliche Dörfer wie aus dem Bilderbuch und griechisch-römische Ruinen. Dieser Guide ordnet die besten Ausflüge danach, wie viel Zeit du hast und wie du hinkommst, mit dem Zug oder dem Auto.

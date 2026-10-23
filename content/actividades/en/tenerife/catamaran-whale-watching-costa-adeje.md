@@ -68,8 +68,8 @@ keywords:
 - catamaran tenerife south
 - dolphin watching tenerife
 - tenerife whale tour
-imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-imagenAlt: Pilot whales surfacing in the waters off Tenerife
+imagen: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
+imagenAlt: "A catamaran sailing off the coast of Tenerife"
 galeria:
   - src: "/images/actividades/tenerife/cristianos/costa-palm-mar.webp"
     alt: "Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife"
@@ -79,8 +79,8 @@ galeria:
     alt: "A cetacean blowing at the surface off Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
     alt: "A pilot whale calf next to its mother"
-  - src: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
-    alt: "A catamaran sailing off the coast of Tenerife"
+  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
+    alt: "Pilot whales surfacing in the waters off Tenerife"
   - src: "/images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp"
     alt: "A group of dolphins swimming at the surface"
   - src: "/images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp"

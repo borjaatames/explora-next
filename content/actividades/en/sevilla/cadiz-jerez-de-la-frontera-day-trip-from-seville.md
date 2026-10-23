@@ -157,7 +157,7 @@ galeria:
   - src: "/images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp"
     alt: "Andalusian horses galloping in arena with rider in traditional costume during equestrian show at Royal School"
   - src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
-    alt: "Cádiz Cathedral"
+    alt: "Main façade of Cádiz Cathedral with its two towers"
   - src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
     alt: "Cádiz from the Tavira Tower"
   - src: "/images/actividades/cadiz/bodega/botas-fundador.webp"

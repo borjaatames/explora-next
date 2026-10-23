@@ -28,7 +28,6 @@ actividades:
   - tour-gran-canaria-1-dia-desde-las-palmas
   - paseo-camello-dunas-maspalomas
   - jeep-safari-sur-gran-canaria
-  - tour-privado-gran-canaria-norte
   - plantacion-platanos-arucas-degustacion
   - palmitos-park-gran-canaria-entrada
 faq:

@@ -5,6 +5,15 @@ descripcion: "La Tarraco romana frente al Mediterráneo: anfiteatro, circo y mur
 comunidad: "Cataluña"
 imagen: "/images/actividades/tarragona/ciudades/tarragona-hero.webp"
 imagenAlt: "El anfiteatro romano de Tarragona junto al mar Mediterráneo"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "144.000"
+  - etiqueta: "Fundada en"
+    valor: "218 a. C."
+  - etiqueta: "Tarraco, UNESCO"
+    valor: "2000"
+  - etiqueta: "Castells, UNESCO"
+    valor: "2010"
 publicada: true
 destacada: false
 orden: 12

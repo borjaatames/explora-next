@@ -82,7 +82,7 @@ imagen: /images/actividades/valencia/centro/lonja-fachada.webp
 imagenAlt: Gothic façade of the Silk Exchange
 galeria:
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Serranos Towers
+  alt: "Serranos Towers, the old city-wall gate of Valencia"
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
   alt: Orange tree courtyard of the Silk Exchange
 - src: /images/actividades/valencia/centro/mercado-central-exterior.webp

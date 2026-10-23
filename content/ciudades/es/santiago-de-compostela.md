@@ -5,6 +5,15 @@ descripcion: "El fin del Camino: la catedral, el Obradoiro y un casco histórico
 comunidad: "Galicia"
 imagen: "/images/ciudades/hero/santiago-de-compostela.webp"
 imagenAlt: "Vista de Santiago de Compostela con las torres de la catedral"
+datosClave:
+  - etiqueta: "Altitud"
+    valor: "260 m"
+  - etiqueta: "Catedral consagrada"
+    valor: "1211"
+  - etiqueta: "Casco antiguo, UNESCO"
+    valor: "1985"
+  - etiqueta: "Camino Francés, UNESCO"
+    valor: "1993"
 publicada: true
 destacada: false
 orden: 15

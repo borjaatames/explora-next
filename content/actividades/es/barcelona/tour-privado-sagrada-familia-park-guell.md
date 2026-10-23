@@ -86,7 +86,8 @@ galeria:
   alt: Vista panorámica de Barcelona con la Sagrada Familia al fondo y arquitectura modernista
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
   alt: Vista aérea de Barcelona con edificios modernistas y la Sagrada Familia al fondo
-publicada: true
+publicada: false
+reemplazadaPor: tour-privado-lo-mejor-de-barcelona-sagrada-familia
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-22'

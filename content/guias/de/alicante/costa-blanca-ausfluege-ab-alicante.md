@@ -29,6 +29,8 @@ actividades:
   - terra-mitica-benidorm-entrada
   - mundomar-benidorm-entrada
   - ferry-santa-pola-tabarca
+  - huerto-del-cura-elche-entrada
+  - granadella-kayak-esnorquel-javea
 ---
 
 **Alicante ist das Tor zur gesamten Costa Blanca.** In weniger als einer Stunde erreichst du weiße Dörfer über dem Meer, postkartenreife Felsvorsprünge, ein Bergdorf über einem türkisfarbenen Stausee und den größten Palmenhain Europas. Dieser Guide ordnet die besten Ausflüge danach, wie viel Zeit du hast und wie du hinkommst – mit dem Zusatz, dass sich viele davon mit der **TRAM** (Straßenbahn) ohne Auto machen lassen.

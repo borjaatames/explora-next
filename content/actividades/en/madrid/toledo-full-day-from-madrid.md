@@ -84,7 +84,7 @@ imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortres
 imagenAlt: The Alcázar of Toledo, Spain
 galeria:
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp
-  alt: Toledo Cathedral
+  alt: "Main façade of Toledo Cathedral with its three portals"
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp
   alt: Interior of the Gothic Toledo Cathedral
 - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-ext-01-hero.webp

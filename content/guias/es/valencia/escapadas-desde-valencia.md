@@ -26,8 +26,6 @@ actividades:
   - excursion-cala-granadella-javea
   - excursion-cuevas-de-san-jose
   - excursion-montanejos-en-bus
-  - albufera-atardecer-paseo-en-barca
-  - excursion-peniscola-desde-valencia
 ---
 
 **Valencia es una base estupenda para escapadas de un día.** En menos de una hora tienes el parque natural donde nació la paella, castillos espectaculares, ciudades íberas y romanas y pueblos de la Costa del Azahar. Esta guía ordena las mejores salidas según el tiempo que tengas y cómo llegar, con o sin coche.

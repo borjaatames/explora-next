@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/tenerife/ciudad/auditorio-tenerife.webp"
 imagenResumenAlt: "The Auditorio de Tenerife in Santa Cruz"
 imagen: "/images/ciudades/hero/tenerife.webp"
 imagenAlt: "Roques de García with Mount Teide behind"
+datosClave:
+  - etiqueta: "Population (island)"
+    valor: "962,000"
+  - etiqueta: "Mount Teide"
+    valor: "3,718 m"
+  - etiqueta: "UNESCO sites"
+    valor: "2"
+  - etiqueta: "Area"
+    valor: "2,034 km²"
 publicada: true
 destacada: false
 orden: 18
@@ -59,6 +68,7 @@ chipsFiltros:
   - { label: "At sea", tag: "mar" }
   - { label: "Theme parks", tag: "parques" }
   - { label: "Masca and Los Gigantes", tag: "masca" }
+  - { label: "Anaga", tag: "anaga" }
 ---
 
 Tenerife is the largest and most populated of the Canary Islands, with about **950,000 inhabitants**, and home to the archipelago's joint capital, **Santa Cruz de Tenerife**. Everything revolves around **Teide** (3,715 m), Spain's highest peak, which dominates **Teide National Park**, a World Heritage Site.

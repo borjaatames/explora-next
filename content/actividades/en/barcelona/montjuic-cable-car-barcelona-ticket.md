@@ -64,8 +64,8 @@ keywords:
 - montjuic cable car barcelona
 - barcelona teleferic montjuic ticket
 - montjuic ticket barcelona
-imagen: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
-imagenAlt: "Views over Barcelona from Montjuïc hill"
+imagen: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-01.webp"
+imagenAlt: "Montjuïc cable car cabins among flowers"
 galeria:
   - src: "/images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp"
     alt: "Playa de la Barceloneta con el hotel Arts al fondo, Barcelona"
@@ -83,6 +83,14 @@ galeria:
     alt: "Venetian towers and Plaça d'Espanya at the foot of Montjuïc"
   - src: "/images/actividades/barcelona/montjuic/pexels-6437868-hero.webp"
     alt: "Panoramic views of Barcelona from Montjuïc"
+  - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
+    alt: "Views over Barcelona from Montjuïc hill"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-02.webp"
+    alt: "Cable car cabins above Barcelona"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-03.webp"
+    alt: "Montjuïc cable car with views of Barcelona"
+  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp"
+    alt: "Cabins climbing towards Montjuïc Castle"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas:

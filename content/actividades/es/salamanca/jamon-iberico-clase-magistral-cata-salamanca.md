@@ -79,7 +79,7 @@ galeria:
 - src: /images/actividades/salamanca/jamon/jamon-embutidos.webp
   alt: Jamón y embutidos ibéricos
 - src: /images/actividades/salamanca/jamon/jamones-colgados.webp
-  alt: Jamones colgados
+  alt: "Jamones colgados con sus etiquetas en una tienda"
 - src: /images/actividades/salamanca/jamon/cerdos-ibericos.webp
   alt: Cerdos ibéricos en una finca de Salamanca
 - src: /images/actividades/salamanca/jamon/lomo.webp

@@ -128,7 +128,7 @@ galeria:
   - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-inside-hero.webp"
     alt: "Inside the Metropolitano stadium"
   - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-07-hero.webp"
-    alt: "Metropolitano stands"
+    alt: "Exterior of the Metropolitano stadium beneath its red roof"
   - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-madrid-estadio-wanda-metropolitano-21-hero.webp"
     alt: "Roof of the Metropolitano stadium"
   - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-hero.webp"

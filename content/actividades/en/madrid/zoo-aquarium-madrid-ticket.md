@@ -69,7 +69,7 @@ imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
 imagenAlt: "Dolphin show at Zoo Aquarium de Madrid"
 galeria:
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp"
-  alt: "Zoo Delfinario"
+  alt: "Dolphins leaping during the Zoo Aquarium dolphin show"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-iguana.webp"
   alt: "Rhinoceros iguana at Zoo Aquarium de Madrid"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp"

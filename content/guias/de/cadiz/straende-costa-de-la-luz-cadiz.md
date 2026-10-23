@@ -25,6 +25,7 @@ actividades:
   - catamaran-cadiz-atardecer
   - avistamiento-delfines-trafalgar-barbate
   - catamaran-bahia-de-cadiz
+  - tarifa-baelo-claudia-zahara-excursion
 ---
 
 **Die Costa de la Luz hat einige der besten Strände Spaniens:** breite, goldene atlantische Sandstrände, sauberes Wasser und, in vielen Fällen, kilometerlange unbebaute Küste. Dieser Guide unterscheidet die Stadtstrände der Hauptstadt von den großen, unberührten Stränden der Provinz und hilft dir bei der Wahl je nach Tag und vor allem je nach dem **Levante-Wind**, dem Faktor, der an dieser Küste alles verändert.

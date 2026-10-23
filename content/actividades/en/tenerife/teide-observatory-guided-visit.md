@@ -72,9 +72,21 @@ keywords:
 - teide observatory tickets
 - izana observatory tour
 - teide telescopes
-imagen: /images/actividades/tenerife/teide/teide-canadas.webp
-imagenAlt: Volcanic landscape of Las Cañadas del Teide, home of the Observatory
+imagen: "/images/actividades/tenerife/observatorio/observatorio-teide-01.webp"
+imagenAlt: "Teide Observatory at Izaña, with its telescopes on the ridge"
 galeria:
+  - src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+    alt: "Volcanic landscape of Las Cañadas del Teide, home of the Observatory"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-02.webp"
+    alt: "White telescope domes at the Teide Observatory"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-03.webp"
+    alt: "Solar telescopes at the Teide Observatory"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-04.webp"
+    alt: "Telescope tower with Mount Teide behind"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-06.webp"
+    alt: "Entrance to the Teide Observatory with flags"
+  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-07.webp"
+    alt: "Observatory telescopes with Mount Teide behind"
   - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
     alt: "Paisaje volcánico de las Cañadas del Teide al atardecer"
   - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"

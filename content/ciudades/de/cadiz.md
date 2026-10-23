@@ -5,6 +5,15 @@ descripcion: "Die älteste durchgehend bewohnte Stadt des Westens, von drei Seit
 comunidad: "Andalusien"
 imagen: "/images/ciudades/hero/cadiz.webp"
 imagenAlt: "Uferpromenade von Cádiz mit der Kathedrale bei Sonnenuntergang"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "110.000"
+  - etiqueta: "Gegründet um"
+    valor: "1100 v. Chr."
+  - etiqueta: "Verfassung von Cádiz"
+    valor: "1812"
+  - etiqueta: "Strand La Victoria"
+    valor: "3 km"
 publicada: true
 destacada: false
 orden: 13

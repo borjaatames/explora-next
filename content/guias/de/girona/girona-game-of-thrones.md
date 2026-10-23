@@ -15,6 +15,17 @@ keywords:
   - "braavos girona"
   - "kathedrale girona game of thrones"
   - "game of thrones drehort spanien"
+faq:
+  - pregunta: "Welche Game-of-Thrones-Drehorte gibt es in Girona?"
+    respuesta: "Girona war Drehort der sechsten Staffel, gedreht 2015. Die wichtigsten sind die Kathedralentreppe (die Große Septe von Baelor in Königsmund), El Call als Braavos, die Pujada de Sant Domènec, wo Arya stürzt, Sant Pere de Galligants, die Pont de Pedra mit den Häusern am Onyar und die Stadtmauer am Passeig Arqueològic."
+  - pregunta: "Muss ich Eintritt zahlen, um die Game-of-Thrones-Drehorte in Girona zu sehen?"
+    respuesta: "Nein: Es sind öffentliche Straßen, und die Drehorte anzuschauen ist kostenlos. Zahlen musst du nur, wenn du in die Baudenkmäler hineingehst: Die Kathedrale hat ein gemeinsames Ticket mit Sant Feliu (7,50 € im Jahr 2026, mit Audioguide), die Arabischen Bäder und Sant Pere de Galligants kosten ein paar Euro."
+  - pregunta: "Wie lange dauert die Game-of-Thrones-Route zu Fuß?"
+    respuesta: "Etwa 2 Stunden in Ruhe: Alle Drehorte liegen in einem Radius von 500 Metern, fünf Minuten voneinander entfernt. Wenn du um 9:00 Uhr startest, bist du vor den Gruppen an der Kathedralentreppe und am späten Vormittag auf der Stadtmauer. Die Treppen der Pujada de Sant Domènec und der Aufstieg zur Mauer sind steil: Mit Kinderwagen oder eingeschränkter Mobilität lässt du sie besser aus."
+  - pregunta: "Lohnt sich eine geführte Game-of-Thrones-Tour in Girona?"
+    respuesta: "Wenn du Fan bist, ja: Viele Ecken wurden digital bearbeitet und sind allein schwer wiederzuerkennen. Die Kleingruppentour (4,9★, ab 35 €) dauert 2 Stunden mit höchstens 10 Personen, und der Guide zeigt dir jede Szene auf einem iPad. Für Familien oder Gruppen ab vier Personen kostet die Privattour 260 € pro Gruppe (bis 8 Personen) und dauert 2 Std. 30 Min.; Eintritte in Baudenkmäler sind bei keiner inklusive."
+  - pregunta: "Zu welcher Uhrzeit bekomme ich Fotos an der Kathedralentreppe ohne Menschenmassen?"
+    respuesta: "Vor 9:30 Uhr oder nach 19:00 Uhr. Die 90 Stufen, die die Große Septe von Baelor spielten, füllen sich ab 11:00 Uhr mit Gruppen, und mittags hast du hundert Leute mit im Bild."
 slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
@@ -25,6 +36,8 @@ actividades:
   - girona-juego-de-tronos-tour-grupo-reducido
   - girona-juego-de-tronos-tour-privado
   - girona-tour-a-pie-grupo-reducido
+  - girona-catedral-museu-art-sant-feliu-entrada
+  - girona-judia-tour-guiado-call
 ---
 
 **Girona wurde in der sechsten Staffel von Game of Thrones zur Filmkulisse, gedreht 2015 (ausgestrahlt 2016)**, und seine mittelalterliche Altstadt passt so gut, dass du die Drehorte sofort wiedererkennen wirst. Die Stadt spielte **Braavos** und **King's Landing**, und heute ist sie einer der beliebtesten Stopps für Fans der Serie. Dieser Guide versammelt die realen Drehorte, wie man sie zu Fuß verbindet und worauf man achten sollte.

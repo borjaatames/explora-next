@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
 imagenResumenAlt: "The Guayadeque ravine, between Agüimes and Ingenio"
 imagen: "/images/ciudades/hero/gran-canaria.webp"
 imagenAlt: "Roque Nublo above a sea of clouds in golden light"
+datosClave:
+  - etiqueta: "Population (island)"
+    valor: "871,000"
+  - etiqueta: "Pico de las Nieves"
+    valor: "1,949 m"
+  - etiqueta: "Coastline"
+    valor: "236 km"
+  - etiqueta: "Risco Caído, UNESCO"
+    valor: "2019"
 publicada: true
 destacada: false
 orden: 17

@@ -5,6 +5,15 @@ descripcion: "La ciudad habitada más antigua de Occidente, rodeada de mar por t
 comunidad: "Andalucía"
 imagen: "/images/ciudades/hero/cadiz.webp"
 imagenAlt: "Paseo marítimo de Cádiz con la catedral al atardecer"
+datosClave:
+  - etiqueta: "Habitantes"
+    valor: "110.000"
+  - etiqueta: "Fundada hacia"
+    valor: "1100 a. C."
+  - etiqueta: "Constitución de Cádiz"
+    valor: "1812"
+  - etiqueta: "Playa de la Victoria"
+    valor: "3 km"
 publicada: true
 destacada: false
 orden: 13

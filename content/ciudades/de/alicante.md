@@ -5,6 +5,15 @@ descripcion: "Ein Schloss über dem Meer, die Strandpromenade Explanada und Stad
 comunidad: "Valencianische Gemeinschaft"
 imagen: "/images/ciudades/hero/alicante.webp"
 imagenAlt: "Burg Santa Bárbara über Alicante bei Sonnenuntergang"
+datosClave:
+  - etiqueta: "Einwohner"
+    valor: "366.000"
+  - etiqueta: "AVE nach Madrid"
+    valor: "2:15 Std."
+  - etiqueta: "Berg Benacantil (Burg)"
+    valor: "166 m"
+  - etiqueta: "Entfernung Tabarca"
+    valor: "15 km"
 publicada: true
 destacada: false
 orden: 8

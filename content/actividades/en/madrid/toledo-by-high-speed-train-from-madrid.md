@@ -82,7 +82,7 @@ imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-
 imagenAlt: North façade of the Alcázar of Toledo
 galeria:
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-4-hero.webp
-  alt: Toledo Cathedral
+  alt: "Gothic portal of Toledo Cathedral with its sculptures"
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-santa-maria-int-03-hero.webp
   alt: Interior of Toledo Cathedral (Santa María)
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-from-hill-2-hero.webp

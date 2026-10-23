@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenResumenAlt: "Türkisfarbene Buchten von Ibiza"
 imagen: "/images/actividades/ibiza/ciudades/ibiza-hero.webp"
 imagenAlt: "Küste von Ibiza mit türkisfarbenem Wasser und Booten"
+datosClave:
+  - etiqueta: "Einwohner (Insel)"
+    valor: "164.000"
+  - etiqueta: "Küstenlänge"
+    valor: "210 km"
+  - etiqueta: "Sa Talaia (Gipfel)"
+    valor: "475 m"
+  - etiqueta: "UNESCO-Welterbe seit"
+    valor: "1999"
 publicada: true
 destacada: false
 orden: 16

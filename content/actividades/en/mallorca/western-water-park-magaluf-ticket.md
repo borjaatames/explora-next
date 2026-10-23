@@ -79,10 +79,6 @@ keywords:
 imagen: /images/actividades/mallorca/parque-acuatico/parque-acuatico-1.webp
 imagenAlt: Children's pool with colourful slides at a water park
 galeria:
-- src: "/images/actividades/mallorca/forestal-park/circuito-arboles.webp"
-  alt: "Circuito Arboles"
-- src: "/images/actividades/mallorca/forestal-park/circuito-cuerdas.webp"
-  alt: "Circuito Cuerdas"
 - src: "/images/actividades/mallorca/parque-acuatico/toboganes-colores.webp"
   alt: "Colourful slides at a water park"
 - src: "/images/actividades/mallorca/parque-acuatico/parque-acuatico-2.webp"

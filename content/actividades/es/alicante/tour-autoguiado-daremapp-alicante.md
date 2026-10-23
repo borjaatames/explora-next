@@ -63,9 +63,9 @@ imagen: "/images/actividades/alicante/centro/explanada.webp"
 imagenAlt: "Mosaico de la Explanada de España"
 galeria:
 - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "Alicante"
+  alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
 - src: "/images/actividades/alicante/centro/ayuntamiento.webp"
-  alt: "Ayuntamiento"
+  alt: "Fachada barroca del Ayuntamiento de Alicante con sus dos torres"
 - src: /images/actividades/alicante/centro/vista-puerto.webp
   alt: "Alicante y su puerto desde el castillo"
 - src: /images/actividades/alicante/costa/postiguet.webp

@@ -5,6 +5,15 @@ descripcion: "La catedral de Palma, las cuevas del Drach y la Serra de Tramuntan
 comunidad: "Islas Baleares"
 imagen: "/images/ciudades/hero/mallorca.webp"
 imagenAlt: "Catedral de Palma reflejada en el lago del Parc de la Mar"
+datosClave:
+  - etiqueta: "Habitantes (isla)"
+    valor: "960.000"
+  - etiqueta: "Superficie"
+    valor: "3.640 km²"
+  - etiqueta: "Puig Major"
+    valor: "1.445 m"
+  - etiqueta: "Tramuntana, UNESCO"
+    valor: "2011"
 publicada: true
 destacada: false
 orden: 6

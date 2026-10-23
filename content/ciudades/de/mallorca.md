@@ -5,6 +5,15 @@ descripcion: "Die Kathedrale von Palma, die Drachenhöhlen und die Serra de Tram
 comunidad: "Balearen"
 imagen: "/images/ciudades/hero/mallorca.webp"
 imagenAlt: "Die Kathedrale von Palma spiegelt sich im See des Parc de la Mar"
+datosClave:
+  - etiqueta: "Einwohner (Insel)"
+    valor: "960.000"
+  - etiqueta: "Fläche"
+    valor: "3.640 km²"
+  - etiqueta: "Puig Major"
+    valor: "1.445 m"
+  - etiqueta: "Tramuntana, UNESCO"
+    valor: "2011"
 publicada: true
 destacada: false
 orden: 6

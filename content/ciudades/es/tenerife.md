@@ -12,6 +12,15 @@ imagenResumen: "/images/actividades/tenerife/ciudad/auditorio-tenerife.webp"
 imagenResumenAlt: "Auditorio de Tenerife, en Santa Cruz"
 imagen: "/images/ciudades/hero/tenerife.webp"
 imagenAlt: "Roques de García con el Teide al fondo"
+datosClave:
+  - etiqueta: "Habitantes (isla)"
+    valor: "962.000"
+  - etiqueta: "Teide"
+    valor: "3.718 m"
+  - etiqueta: "Bienes UNESCO"
+    valor: "2"
+  - etiqueta: "Superficie"
+    valor: "2.034 km²"
 publicada: true
 destacada: false
 orden: 18
@@ -59,6 +68,7 @@ chipsFiltros:
   - { label: "En el mar", tag: "mar" }
   - { label: "Parques temáticos", tag: "parques" }
   - { label: "Masca y Los Gigantes", tag: "masca" }
+  - { label: "Anaga", tag: "anaga" }
 ---
 
 Tenerife es la isla más grande y poblada de Canarias, con unos **950.000 habitantes**, y la capital compartida del archipiélago, **Santa Cruz de Tenerife**. Todo gira en torno al **Teide** (3.715 m), el pico más alto de España, que domina el **Parque Nacional del Teide**, Patrimonio de la Humanidad.

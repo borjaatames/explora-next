@@ -32,6 +32,8 @@ actividades:
   - ronda-setenil-desde-malaga
   - caminito-del-rey-entrada-guia-oficial
   - cuevas-nerja-entrada
+  - catedral-malaga-tour-guiado-sin-colas
+  - centre-pompidou-malaga-entrada
 ---
 
 **Two days in Málaga go a long way.** The old town is compact, flat and pedestrian, so 48 hours cover the Alcazaba, the Picasso Museum, the Cathedral, the beach and, if you book ahead, the Caminito del Rey. In fifteen years it has gone from transit gate to the Costa del Sol to a city with more than thirty museums.

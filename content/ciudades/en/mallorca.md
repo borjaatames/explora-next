@@ -5,6 +5,15 @@ descripcion: "Palma Cathedral, the Drach Caves and the Serra de Tramuntana. The 
 comunidad: "Balearic Islands"
 imagen: "/images/ciudades/hero/mallorca.webp"
 imagenAlt: "Palma Cathedral reflected in the Parc de la Mar lake"
+datosClave:
+  - etiqueta: "Population (island)"
+    valor: "960,000"
+  - etiqueta: "Area"
+    valor: "3,640 km²"
+  - etiqueta: "Puig Major"
+    valor: "1,445 m"
+  - etiqueta: "Tramuntana, UNESCO"
+    valor: "2011"
 publicada: true
 destacada: false
 orden: 6

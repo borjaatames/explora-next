@@ -15,6 +15,17 @@ keywords:
 - cadaques
 - dali theatre museum figueres
 - besalu
+faq:
+  - pregunta: "How do I get from Girona to Figueres and the Dalí Theatre-Museum without a car?"
+    respuesta: "By train: Figueres is about 40 minutes from Girona and it's the only day trip that works well on public transport. The guided tour of the Dalí Theatre-Museum costs from €31, lasts 1 hour and includes skip-the-line entry; allow 2 hours to see the whole museum. Timed tickets sell out in high season, so book a few days ahead."
+  - pregunta: "Can I get to Cadaqués from Girona without a car?"
+    respuesta: "Cadaqués is 1 h 15 by car and public transport there is poor. The easiest alternative is the boat from Roses along Cap de Creus, from €27: about 3 h 30 in total, with 1 h 30 free in Cadaqués. It also spares you the 20 minutes of hairpin bends on the road from Roses."
+  - pregunta: "Do I need to book Dalí's house in Portlligat?"
+    respuesta: "Yes. The Portlligat House-Museum in Cadaqués can only be visited with an advance booking, in small groups entering every 10 minutes, and without one you won't get in even in low season. It isn't included in the Roses–Cadaqués boat or the Figueres Theatre-Museum tour: book it separately."
+  - pregunta: "Which day trips from Girona can be combined in one day?"
+    respuesta: "Figueres and Besalú combine well: Figueres is 40 minutes by train and Besalú 45 minutes by car. Cadaqués or the Costa Brava coves, on the other hand, fill a whole day, so don't pair them with another long trip."
+  - pregunta: "When should I go to the coves of Begur and Calella de Palafrugell in summer?"
+    respuesta: "They're about 50 minutes from Girona by car, but the car parks are small and fill up by around 10:30 in July and August. Arrive before 9:00, use the shuttle buses Begur runs in summer or go late in the afternoon, when the light is also at its best."
 slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
@@ -28,6 +39,7 @@ actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
+  - tossa-de-mar-costa-brava-excursion-desde-barcelona
 ---
 **Girona is the best base for the Costa Brava.** In under an hour you can reach Dalí's Figueres and Cadaqués, medieval villages like Besalú and the prettiest coves on the coast. Only Figueres is easy by train.
 

@@ -71,8 +71,6 @@ keywords:
 imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
 imagenAlt: Ses Illetes beach in Formentera
 galeria:
-- src: "/images/actividades/ibiza/formentera/ibiza-formentera-05.webp"
-  alt: "Formentera coastline"
 - src: /images/actividades/ibiza/formentera/estacion-maritima.webp
   alt: The Formentera ferry terminal in Ibiza
 - src: /images/actividades/ibiza/formentera/la-savina.webp
@@ -82,7 +80,7 @@ galeria:
 - src: /images/actividades/ibiza/formentera/bici-illetes.webp
   alt: A bicycle on Ses Illetes beach
 - src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: Migjorn beach
+  alt: "Migjorn beach with white sand, rocks and boat slipways"
 - src: /images/actividades/ibiza/formentera/mal-pas.webp
   alt: Mal Pas beach in Formentera
 ratingProveedor: 4.7

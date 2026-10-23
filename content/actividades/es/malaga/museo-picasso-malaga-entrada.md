@@ -81,7 +81,7 @@ imagen: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
 imagenAlt: Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga
 galeria:
 - src: "/images/actividades/malaga/museo-picasso/patio-buenavista.webp"
-  alt: "Patio Buenavista"
+  alt: "Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga"
 - src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
   alt: "Alcazaba Malaga Vista"
 - src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"

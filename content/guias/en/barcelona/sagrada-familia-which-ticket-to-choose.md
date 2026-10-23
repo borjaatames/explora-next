@@ -1,6 +1,6 @@
 ---
 titulo: "Sagrada Família: which ticket or tour to choose"
-descripcion: "7 ways to book the Sagrada Família, from €34: audio guide, tower climb, small group or combined with Park Güell. What each includes."
+descripcion: "6 ways to book the Sagrada Família, from €34: audio guide, tower climb, small group or combined with Park Güell. What each includes."
 categoria: "barcelona"
 slug: "sagrada-familia-which-ticket-to-choose"
 fecha: "2026-09-20"
@@ -28,7 +28,6 @@ actividades:
   - sagrada-familia-visita-guiada-grupo-reducido
   - sagrada-familia-park-guell-tour-guiado
   - barcelona-un-dia-sagrada-familia-park-guell
-  - tour-privado-sagrada-familia-park-guell
   - tour-privado-lo-mejor-de-barcelona-sagrada-familia
 ---
 
@@ -48,7 +47,6 @@ The Sagrada Família can be booked seven ways: three options for the basilica al
 |---|---|---|---|---|
 | [Guided tour: Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | €104 | 4 h | Just these two monuments, guided | Travelers who want both, guided, without spending the whole day |
 | [Barcelona in one day: Sagrada Família and Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | €129 | 7 h | Montjuïc, old town, Passeig de Gràcia + both monuments | Travelers who want to see Barcelona's highlights in a single day |
-| [Private tour: Sagrada Família + Park Güell](/en/cities/barcelona/activities/private-sagrada-familia-and-park-guell-tour) | €450/group | 4 h | Just these two monuments, private guide | Travelers who want both monuments without sharing a group |
 | [Best of Barcelona private tour, with Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | from €658/group (1-2 people) | 7 h | Montjuïc, Gothic Quarter, Passeig de Gràcia + Sagrada Família — **does not include Park Güell** | Travelers who want a full-day private tour focused on the rest of the city, not Park Güell |
 
 ## How to choose in 30 seconds
@@ -58,7 +56,7 @@ The Sagrada Família can be booked seven ways: three options for the basilica al
 - **Want a small group without the tower:** small-group guided visit (€99).
 - **Want Park Güell too, without spending the whole day:** the combined guided tour (€104), 4 hours.
 - **Want to see all of Barcelona in one day:** the full-day excursion (€129).
-- **Want it all private:** there are two private options depending on whether you want Park Güell — they're not interchangeable, check what each includes before booking.
+- **Want it all private:** the full-day private tour (from €658) includes the Sagrada Família, but not Park Güell.
 
 ## What the combined tours really include
 
@@ -66,7 +64,7 @@ The four combos look similar but work differently inside the basilica:
 
 - **Guided tour Sagrada Família + Park Güell (€104):** the guide goes inside both with you. It starts at 10:00 at Park Güell (Carrer d'Olot, 24), with transport to the basilica. Up to 16 people; not adapted for wheelchairs.
 - **Barcelona in one day (€129):** both entries are included, but the guide covers the Sagrada Família from outside only — you visit the interior on your own with the audio-guide app. Meets at 9:00 at La Rambla 97, no hotel pickup. Rated 4.9/5 from over 15,000 reviews.
-- **The two private tours** both include hotel pickup, private transport and a private guide; only the €450 one includes Park Güell.
+- **The private tour** includes hotel pickup, private transport and a private guide, but not Park Güell.
 
 [actividad: sagrada-familia-and-park-guell-guided-tour]
 
@@ -96,4 +94,4 @@ The official website sells the basic ticket with the audio-guide app for €26 a
 
 ## Things to know before booking
 
-All options include skip-the-line entry to the Sagrada Família. The full-day private tour (from €658) does not include Park Güell: for both monuments in private, choose the €450 tour. Cancellation is free up to 24 hours before on the tours; the audio-guide ticket needs 48 hours' notice.
+All options include skip-the-line entry to the Sagrada Família. The full-day private tour (from €658) does not include Park Güell. Cancellation is free up to 24 hours before on the tours; the audio-guide ticket needs 48 hours' notice.

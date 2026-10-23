@@ -22,12 +22,12 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'In 2027 it should run, pending official confirmation, from **Monday 12** (the pescaíto dinner and the lights going on at midnight) to **Sunday 18 April** (fireworks). Almost all casetas are private, but the **district casetas** and the **municipal one** are open to everyone. Go in the daytime, between 14:00 and 19:00, to see the horse parade, and take the metro: by car it''s impossible.'
 actividades:
-  - seville-bullring-maestranza-guided-tour-skip-line
-  - seville-flamenco-show-tablao-el-arenal-historic
-  - seville-tapas-tour-across-river-triana
-  - private-tuk-tuk-tour-seville
-  - real-alcazar-seville-entry-ticket
-  - seville-setas-metropol-parasol-entry-ticket-viewpoint
+  - sevilla-plaza-toros-maestranza-tour-guiado-sin-colas
+  - tablao-flamenco-el-arenal-sevilla-50-anos
+  - sevilla-tapas-tour-triana-cruzando-rio
+  - tuk-tuk-privado-sevilla
+  - real-alcazar-sevilla-entrada
+  - setas-sevilla-metropol-parasol-entrada-mirador
 ---
 
 ## The 2027 calendar
