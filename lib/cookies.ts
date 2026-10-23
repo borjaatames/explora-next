@@ -85,7 +85,7 @@ export function leerConsentimiento(): EstadoConsentimiento {
  *   pero Google modela conversiones agregadas en lugar de identificar al usuario.
  *
  * Si gtag aún no está disponible (carrera en primer render), no pasa nada:
- * el default "denied" del script inline en app/layout.tsx ya está activo.
+ * el default "denied" del script inline de components/layout/RootDocument.tsx ya está activo.
  */
 export function emitirConsentGtag(estado: "granted" | "denied"): void {
   if (typeof window === "undefined") return;

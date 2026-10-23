@@ -109,14 +109,14 @@ galeria:
   alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
   alt: Estatua del Abat Oliba junto a la fachada del monasterio de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-05.webp
+  alt: "Bóveda y nave de la basílica de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-01.webp
+  alt: "Pasajeros en el tren cremallera con vistas a la montaña"
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
   alt: Detalle de los frescos religiosos pintados en las bovedas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Frescos con motivos religiosos y cruces de hierro forjado en el interior de la basilica de Montserrat
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-03.webp
+  alt: "Acantilados de Montserrat sobre el valle del Llobregat"
 ratingProveedor: 4.9
 numeroOpiniones: 6372
 

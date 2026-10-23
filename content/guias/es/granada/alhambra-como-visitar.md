@@ -22,7 +22,7 @@ slugs:
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
 reservasArriba: true
-respuestaCorta: 'Las entradas oficiales (22,27 €) salen **90 días antes** y las mañanas se agotan con semanas de antelación. **Si ya no quedan**, una visita guiada que incluya la entrada te asegura los Palacios Nazaríes con hora reservada. Cuenta con unas 4 horas y llega con tiempo: a los Nazaríes solo hay 30 minutos de margen.'
+respuestaCorta: 'Las entradas oficiales (22,27 €) salen **hasta tres meses antes** y las mañanas se agotan con semanas de antelación. **Si ya no quedan**, una visita guiada que incluya la entrada te asegura los Palacios Nazaríes con hora reservada. Cuenta con unas 4 horas y llega con tiempo: a los Nazaríes solo hay 30 minutos de margen.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -79,9 +79,11 @@ Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
 
 La inmensa mayoría necesita la **Alhambra General**. Los menores de 12 años entran gratis pero **con ticket nominativo**, que se saca en la misma compra; sin él no entran. Hay descuento para mayores de 65 de la UE, Carnet Joven y discapacidad. **No existe un día gratuito recurrente**: lo de «los miércoles gratis» que circula por internet es falso.
 
-Las entradas se abren **90 días antes** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, en minutos. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. Si está todo agotado, las alternativas reales son una visita guiada con cupo propio (las de la tabla de arriba), la nocturna de los Nazaríes, o hacer cola en taquilla antes de las 8:00 por el cupo del día, que en temporada alta casi nunca alcanza.
+Las entradas se pueden comprar **con hasta tres meses de antelación** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, en minutos. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. Si está todo agotado, las alternativas reales son una visita guiada con cupo propio (las de la tabla de arriba), la nocturna de los Nazaríes, o hacer cola en taquilla antes de las 8:00 por el cupo del día, que en temporada alta casi nunca alcanza.
 
 [actividad: alhambra-entrada-general]
+
+Si la web oficial ya sale agotada, en [qué hacer si las entradas de la Alhambra están agotadas](/guias/granada/alhambra-entradas-agotadas) repasamos todas las opciones que quedan.
 
 ## La regla de oro: la hora de los Nazaríes
 

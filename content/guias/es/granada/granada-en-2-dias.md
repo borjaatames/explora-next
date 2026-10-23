@@ -26,11 +26,11 @@ reservasArriba: true
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
+  - albaicin-sacromonte-atardecer
+  - flamenco-cuevas-tarantos-sacromonte
   - entrada-y-tour-guiado-alhambra
   - alhambra-visita-nocturna
-  - albaicin-sacromonte-atardecer
   - flamenco-cueva-la-rocio-sacromonte
-  - flamenco-cuevas-tarantos-sacromonte
   - catedral-capilla-real-sin-colas-grupo
   - alpujarra-pueblos-montana
   - catedral-granada-entrada
@@ -43,7 +43,7 @@ actividades:
 
 ## Antes de nada: la entrada de la Alhambra
 
-Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y tolerancia cero si llegas tarde. Se abre 90 días antes y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con cupo propio (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
+Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y tolerancia cero si llegas tarde. Se vende con hasta tres meses de antelación y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con cupo propio (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
 
 ## Cuándo ir y cómo llegar
 

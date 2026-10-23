@@ -24,11 +24,11 @@ slugs:
 reservasArriba: true
 actividades:
   - santiago-portico-gloria-catedral-tour
-  - catedral-museo-casco-antiguo-santiago
   - tour-a-pie-casco-antiguo-santiago
-  - catedral-santiago-museo-tour-guiado
   - tour-tapas-santiago-musica-directo
   - excursion-finisterre-muxia-costa-da-morte
+  - catedral-museo-casco-antiguo-santiago
+  - catedral-santiago-museo-tour-guiado
   - excursion-rias-baixas-barco-bodega
   - excursion-playa-catedrales-lugo-ribadeo
   - cubiertas-catedral-santiago-tour

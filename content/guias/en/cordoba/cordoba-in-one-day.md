@@ -23,14 +23,14 @@ reservasArriba: true
 respuestaCorta: 'Yes, **Córdoba works in one day**: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are five minutes'' walk from each other. Go into the **Mosque first thing**, before the heat and the groups (skip-the-line guided tour from €32). Best from April to June or in September and October; July and August get close to 40 °C.'
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
-  - mezquita-juderia-tour-a-pie
   - patios-cordobeses-tour-con-entradas
   - medina-azahara-tour-guiado-3-horas
+  - palacio-viana-patios-entrada
+  - mezquita-juderia-tour-a-pie
   - espectaculo-ecuestre-caballerizas-reales
   - espectaculo-flamenco-tablao-cardenal
   - mezquita-catedral-entrada-audioguia
   - alcazar-reyes-cristianos-visita-guiada
-  - palacio-viana-patios-entrada
 faq:
   - pregunta: "How much time do you need to see Córdoba?"
     respuesta: "A full day is enough: the old town is compact, and the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from each other. The recommended route runs from 9 AM to 6:30 PM."
@@ -42,6 +42,8 @@ faq:
     respuesta: "April to June, with May as the magical month because the Cruces festival, the Patios Festival and the Feria all overlap — though the city fills up and you need to book accommodation weeks ahead. In July and August, avoid midday: temperatures regularly hit 40°C/104°F."
   - pregunta: "Is Medina Azahara worth visiting from Córdoba?"
     respuesta: "Yes, it's the day-tripper's biggest miss. It's a UNESCO World Heritage Site just outside the city; if you have an extra half-day or you're visiting in spring, it rounds out the Mosque visit very well."
+imagen_portada: "/images/guias/cordoba-en-un-dia.jpg"
+imagen_alt: "Córdoba's Mosque-Cathedral and Roman Bridge over the Guadalquivir"
 ---
 
 **Córdoba is easily seen in a day**, which is why it's the classic day trip from Seville, Madrid or Granada. The old town is compact and walkable: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from one another. This guide orders your day so you skip the queues and the worst of the heat, and it makes clear what's worth your time and what's tourist filler.

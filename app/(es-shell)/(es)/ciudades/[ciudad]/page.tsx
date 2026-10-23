@@ -1,0 +1,229 @@
+import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import {
+  obtenerCiudad,
+  obtenerTodosLosCaminosCiudades,
+} from "@/lib/ciudades";
+import { obtenerGuiasDeCiudad } from "@/lib/guias";
+import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
+import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
+import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
+import { slugParejaCiudad } from "@/lib/i18n/slugs";
+import {
+  hreflangAlternates,
+  rutasPorIdioma,
+  urlActividadesDeCiudad,
+  urlAtraccionesDeCiudad,
+  urlCiudad,
+  urlGuiasDeCiudad,
+} from "@/lib/i18n/utils";
+import HeroCiudad, { DatosClaveCiudad } from "@/components/ciudad/HeroCiudad";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
+
+type Props = {
+  params: { ciudad: string };
+};
+
+export async function generateStaticParams() {
+  return obtenerTodosLosCaminosCiudades()
+    .filter((c) => c.idioma === "es")
+    .map(({ ciudad }) => ({ ciudad }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const ciudad = await obtenerCiudad("es", params.ciudad);
+  if (!ciudad) return { title: "Ciudad no encontrada" };
+
+  const url = `${SITE_URL}${ciudad.url}`;
+  const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+
+  return {
+    title: `${ciudad.nombre} | Guía de viaje`,
+    description: ciudad.descripcion,
+    keywords: ciudad.keywords,
+    robots: {
+      index: allowIndexing,
+      follow: allowIndexing,
+    },
+    alternates: {
+      canonical: url,
+      languages: hreflangAlternates((l) => {
+        const slugPareja = slugParejaCiudad("es", params.ciudad, l);
+        return slugPareja ? urlCiudad(l, slugPareja) : null;
+      }),
+    },
+    openGraph: {
+      type: "website",
+      url,
+      title: `${ciudad.nombre} | ExploraSpain`,
+      description: ciudad.descripcion,
+      siteName: "ExploraSpain",
+      locale: "es_ES",
+      ...(ciudad.imagen
+        ? {
+            images: [
+              {
+                url: `${SITE_URL}${ciudad.imagen}`,
+                alt: ciudad.imagenAlt ?? ciudad.nombre,
+              },
+            ],
+          }
+        : {}),
+    },
+  };
+}
+
+export default async function CiudadPage({ params }: Props) {
+  const ciudad = await obtenerCiudad("es", params.ciudad);
+  if (!ciudad) notFound();
+
+  const guiasDeCiudad = obtenerGuiasDeCiudad("es", params.ciudad);
+  const hayGuias = guiasDeCiudad.length > 0;
+  // La ficha de actividades solo existe (generateStaticParams) para
+  // ciudades con al menos una actividad publicada — si no hay ninguna,
+  // esa ruta hace notFound(). Por eso ocultamos el botón aquí en vez de
+  // enlazar a una página que no existe (mismo criterio que hayGuias /
+  // hayAtracciones más abajo).
+  const hayActividades =
+    obtenerListaActividadesPorCiudad("es", params.ciudad).length > 0;
+  const urlGuias = urlGuiasDeCiudad("es", params.ciudad);
+  const urlActividades = urlActividadesDeCiudad("es", params.ciudad);
+  const urlAtracciones = urlAtraccionesDeCiudad("es", params.ciudad);
+  const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
+  const numCards =
+    (hayGuias ? 1 : 0) + (hayActividades ? 1 : 0) + (hayAtracciones ? 1 : 0);
+  const gridClass =
+    numCards === 3
+      ? "grid grid-cols-1 md:grid-cols-3 gap-6"
+      : numCards === 2
+      ? "grid grid-cols-1 md:grid-cols-2 gap-6"
+      : "grid grid-cols-1 gap-6";
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "TouristDestination",
+    name: ciudad.nombre,
+    description: ciudad.descripcion,
+    addressCountry: "ES",
+    url: `https://www.exploraspain.com${ciudad.url}`,
+    ...(ciudad.imagen
+      ? { image: `https://www.exploraspain.com${ciudad.imagen}` }
+      : {}),
+  };
+
+  const breadcrumbsLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.exploraspain.com" },
+      { "@type": "ListItem", position: 2, name: "Ciudades", item: "https://www.exploraspain.com/ciudades" },
+      { "@type": "ListItem", position: 3, name: ciudad.nombre, item: `https://www.exploraspain.com${ciudad.url}` },
+    ],
+  };
+
+  return (
+    <main className="min-h-screen bg-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
+      />
+
+      <HeroCiudad
+        idioma={"es"}
+        nombre={ciudad.nombre}
+        descripcion={ciudad.descripcion}
+        comunidad={ciudad.comunidad}
+        imagen={ciudad.imagen}
+        imagenAlt={ciudad.imagenAlt}
+        migas={[
+          { label: "Inicio", href: "/" },
+          { label: "Ciudades", href: "/ciudades" },
+          { label: ciudad.nombre },
+        ]}
+        urlActividades={hayActividades ? urlActividades : undefined}
+        urlGuias={hayGuias ? urlGuias : undefined}
+        urlAtracciones={hayAtracciones ? urlAtracciones : undefined}
+      />
+      <DatosClaveCiudad idioma={"es"} datos={ciudad.datosClave ?? []} />
+
+      <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
+        <div
+          className="prose-guia text-justify hyphens-auto"
+          dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+        />
+      </article>
+
+      <GuiasDeCiudadLista
+        guias={guiasDeCiudad}
+        titulo={"Guías de " + ciudad.nombre}
+        urlTodas={urlGuias}
+        textoVerTodas={"Ver todas las guías de " + ciudad.nombre}
+        textoMinLectura="min lectura"
+      />
+
+      <section className="bg-slate-50 border-t border-slate-200">
+        <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">
+          <div className={gridClass}>
+            {hayGuias ? (
+              <CtaCiudadCard
+                href={urlGuias}
+                imagen={ciudad.imagenGuias}
+                imagenAlt={ciudad.imagenGuiasAlt}
+                titulo={"Guías de " + ciudad.nombre}
+                descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
+                cta="Ver guías"
+                acento="sky"
+              />
+            ) : null}
+            {hayActividades ? (
+              <CtaCiudadCard
+                href={urlActividades}
+                imagen={ciudad.imagenActividades}
+                imagenAlt={ciudad.imagenActividadesAlt}
+                titulo={"Actividades y tours en " + ciudad.nombre}
+                descripcion="Tours seleccionados con criterio editorial. Reserva con cancelación gratis."
+                cta="Ver actividades"
+                acento="amber"
+              />
+            ) : null}
+            {hayAtracciones ? (
+              <CtaCiudadCard
+                href={urlAtracciones}
+                imagen={ciudad.imagenAtracciones}
+                imagenAlt={ciudad.imagenAtraccionesAlt}
+                titulo={"Atracciones de " + ciudad.nombre}
+                descripcion="Lo imprescindible que ver en la ciudad, con foto y contexto."
+                cta="Ver atracciones"
+                acento="slate"
+              />
+            ) : null}
+          </div>
+        </div>
+      </section>
+
+      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
+        <Link
+          href="/ciudades"
+          className="text-sky-600 hover:text-sky-700 font-semibold"
+        >
+          ← Ver todas las ciudades
+        </Link>
+      </div>
+      <OtrosIdiomas
+        idioma={"es"}
+        rutas={rutasPorIdioma((l) => {
+          const slugPareja = slugParejaCiudad("es", params.ciudad, l);
+          return slugPareja ? urlCiudad(l, slugPareja) : null;
+        })}
+      />
+    </main>
+  );
+}

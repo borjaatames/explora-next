@@ -24,16 +24,16 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'Take the **Avant train from Atocha (33 minutes, €22–26 return)** or drive an hour on the A-42, and arrive by 10 AM. Spend the morning on the **Cathedral (€12)**, Santo Tomé and Santa María la Blanca, the afternoon in the Jewish Quarter, and finish at the **Mirador del Valle**. The **€14 bracelet** covers seven smaller monuments.'
 actividades:
-  - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-dia-completo
+  - toledo-pulsera-turistica-7-monumentos
+  - toledo-catedral-visita-guiada
+  - excursion-avila-segovia-con-entradas
   - excursion-toledo-ave-tren
   - excursion-toledo-molinos-quijote
-  - tour-privado-escorial-monasterio-real
-  - excursion-avila-segovia-con-entradas
   - excursion-chinchon-aranjuez-toledo
   - excursion-alcala-henares-bodega-privada
   - escorial-valle-cuelgamuros-excursion-grupo
-  - toledo-catedral-visita-guiada
+  - tour-privado-escorial-monasterio-real
 ---
 
 Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where Jews, Muslims and Christians lived side by side for centuries and left their mark in stone. El Escorial is one monument and Segovia an aqueduct plus an alcázar; Toledo is a whole city listed by UNESCO, and you can see it well in one day. Here's the route, what to skip and the usual mistakes.

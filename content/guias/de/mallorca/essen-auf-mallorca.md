@@ -21,6 +21,9 @@ slugs:
   es: comer-en-mallorca
   en: eating-in-mallorca
   de: essen-auf-mallorca
+actividades:
+  - palma-tour-gastronomico-casco-antiguo
+  - palma-ruta-gourmet-vino-tapas-autoguiada
 ---
 
 **Die mallorquinische Küche ist bäuerlich und maritim geprägt, deftig und sehr gut**, doch in den touristischen Zonen an der Bucht dominieren internationale Speisekarten mit Tiefkühlpaella und Pizza. Um echte mallorquinische Küche zu essen, muss man ins Landesinnere fahren, zu den **Cellers** und Dorfrestaurants. Dieser Ratgeber liefert die Schlüssel und die Gerichte, die man sich nicht entgehen lassen sollte.

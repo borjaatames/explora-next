@@ -20,6 +20,11 @@ slugs:
   es: comer-en-malaga
   en: eating-in-malaga
   de: essen-in-malaga
+actividades:
+  - malaga-tour-vino-tapas
+  - malaga-taller-tapas-mercado-atarazanas
+imagen_portada: "/images/guias/comer-en-malaga.jpg"
+imagen_alt: "Sardine skewers roasting over the embers"
 ---
 
 **You eat wonderfully and cheaply in Málaga if you know where.** It's seafaring, simple cooking, of beach bars and taverns, with exceptional seafood. The only trap is the tourist terraces opposite the Cathedral and on Calle Larios; two streets away, everything improves. This guide gives you the keys to eat like a local.

@@ -37,6 +37,8 @@ faq:
   respuesta: Es gibt keine Garantie, aber Grindwale werden sehr häufig gesichtet, weil sie hier ansässig sind. Manche Anbieter bieten eine kostenlose Wiederholung an, wenn man Pech hat.
 - pregunta: Darf man mit Delfinen schwimmen?
   respuesta: 'Nein: Die kanarische Verordnung (Dekret 178/2000) verbietet das Baden im Umkreis von 500 Metern um Wale und Delfine. Badestopps finden in Abstand zu den Tieren statt.'
+imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
+imagen_alt: "Grindwal taucht vor Teneriffa auf"
 ---
 
 **Teneriffa ist einer der besten Orte Europas, um Wale und Delfine zu sehen**, und zwar das ganze Jahr. Zwischen der Südwestküste und La Gomera lebt eine feste Population von **Kurzflossen-Grindwalen** und **Großen Tümmlern**, in einem geschützten Meeresgebiet, das als *Whale Heritage Site* anerkannt ist: Die World Cetacean Alliance hat das Gebiet Teneriffa-La Gomera im Januar 2021 ausgezeichnet, als erstes in Europa. Entscheidend ist die Wahl des richtigen Bootes.

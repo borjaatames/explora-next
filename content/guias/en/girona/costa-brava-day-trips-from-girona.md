@@ -40,6 +40,8 @@ actividades:
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
   - tossa-de-mar-costa-brava-excursion-desde-barcelona
+imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
+imagen_alt: "Tossa de Mar's Vila Vella above the beach"
 ---
 **Girona is the best base for the Costa Brava.** In under an hour you can reach Dalí's Figueres and Cadaqués, medieval villages like Besalú and the prettiest coves on the coast. Only Figueres is easy by train.
 
@@ -53,6 +55,7 @@ actividades:
 | Dalí Museum with a guide | [Guided tour of the Dalí Theatre-Museum](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
 | If you're staying in Barcelona | [Girona, Figueres, Dalí and Cadaqués in one day](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €69 |
 | Barcelona, small group | [Girona, Pals and Calella de Palafrugell by minivan](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4.8★ (2,096) | €99 |
+| Tossa de Mar from Barcelona | [Tossa de Mar and the Costa Brava day trip](/en/cities/girona/activities/tossa-de-mar-costa-brava-day-trip-from-barcelona), 4.9★ (596) | €39 |
 
 The last two leave from Barcelona, not Girona. If you're sleeping in Girona, the kayak, the boats and the Dalí tour are the ones you can actually join.
 

@@ -27,6 +27,8 @@ actividades:
   - caminito-del-rey-guiado-desde-malaga
   - bioparc-fuengirola-entrada
   - teleferico-benalmadena-billete
+imagen_portada: "/images/guias/malaga-con-ninos.jpg"
+imagen_alt: "Lemuren im Bioparc Fuengirola"
 ---
 
 **Málaga ist ein sehr komfortables Reiseziel mit Kindern.** Die Stadt hat fast das ganze Jahr über ein mildes Klima, einen Stadtstrand direkt am Zentrum, Burgen zum Entdeckerspielen und, einen Katzensprung entfernt, einige der besten Familienpläne der Costa del Sol. Dieser Guide bündelt das, was mit Kleinen wirklich funktioniert, ohne den Tag mit Museen zu überladen.

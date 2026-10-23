@@ -25,6 +25,8 @@ actividades:
   - oceanografic-valencia-entrada
   - oceanografic-museo-ciencias-entrada-combinada
   - tour-tuk-tuk-valencia-centro-playas
+imagen_portada: "/images/guias/ciudad-artes-ciencias-como-visitar.jpg"
+imagen_alt: "Hemisfèric und Palau de les Arts in der Stadt der Künste und Wissenschaften"
 ---
 
 **Die Stadt der Künste und Wissenschaften ist das moderne Wahrzeichen Valencias**, aber auch die naheliegendste Falle: das Kombiticket für alles zu kaufen und am Ende erschöpft zu sein, ohne wirklich etwas genossen zu haben. Dieser Komplex von Santiago Calatrava und Félix Candela, errichtet im alten Flussbett des Turia, lässt sich am besten mit Überlegung besichtigen: wissen, was ein Ticket wert ist, was man von außen genießen kann und wie man alles ohne Schlangen und Hetze kombiniert.

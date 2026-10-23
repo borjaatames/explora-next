@@ -110,18 +110,18 @@ galeria:
   alt: "Group in front of Montserrat's rock spires and monastery"
 - src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
   alt: "Arches with statues at Montserrat monastery"
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Statue of Abbot Oliba next to the facade of the Montserrat monastery
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Detail of the religious frescoes painted on the vaults of Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Mural depicting the founding history of the Montserrat monastery and the Black Madonna
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-07.webp
+  alt: "Panorama of Montserrat mountain with the monastery"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-03.webp
+  alt: "Sculptures on the Montserrat basilica facade"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-01.webp
+  alt: "Nave of the Montserrat basilica"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-07.webp
+  alt: "Montserrat monastery and the rack railway bridge"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-02.webp
+  alt: "Montserrat rock formations"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-08.webp
+  alt: "View of Montserrat monastery and its surroundings"
 ratingProveedor: 4.9
 numeroOpiniones: 1130
 

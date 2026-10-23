@@ -37,6 +37,8 @@ faq:
   respuesta: 'En La Goleta no: ese aparcamiento está cerrado desde 2025. Aparca en Cruz de Los Llanos (unos 10 minutos en guagua lanzadera, o una hora andando) o en Tejeda (unos 30 minutos en guagua).'
 - pregunta: ¿Se puede ver el Teide desde el Roque Nublo?
   respuesta: Sí, en días despejados se ve el Teide de Tenerife sobre el mar de nubes, sobre todo al atardecer y en invierno.
+imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
+imagen_alt: "El Roque Nublo en la cumbre de Gran Canaria"
 ---
 
 **El Roque Nublo es el símbolo de Gran Canaria**: un monolito de basalto de unos 80 metros que corona las cumbres a más de 1.800 metros de altitud. Subir hasta su base es una de las caminatas más bonitas y sencillas de Canarias, y en días claros regala el Teide de Tenerife flotando sobre el mar de nubes. Desde 2025 la visita funciona de otra manera: **de día hace falta reserva y ya no se puede aparcar al pie del sendero.**

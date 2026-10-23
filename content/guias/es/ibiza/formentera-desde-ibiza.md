@@ -23,6 +23,8 @@ slugs:
 reservasArriba: true
 actividades:
   - ferry-ida-vuelta-ibiza-formentera
+imagen_portada: "/images/guias/formentera-desde-ibiza.jpg"
+imagen_alt: "Agua turquesa en una playa de Formentera"
 ---
 
 **Formentera es la excursión imprescindible desde Ibiza.** A media hora en ferry, la isla vecina tiene algunas de las playas de agua más cristalina del Mediterráneo —caribeñas de verdad— y un ambiente tranquilo, sin discotecas ni grandes hoteles. Esta guía te explica cómo llegar, cómo moverte y qué no perderte para aprovechar el día.

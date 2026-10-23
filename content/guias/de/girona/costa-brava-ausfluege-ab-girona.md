@@ -41,6 +41,8 @@ actividades:
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
   - tossa-de-mar-costa-brava-excursion-desde-barcelona
+imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
+imagen_alt: "Die Vila Vella von Tossa de Mar über dem Strand"
 ---
 
 **Girona ist die beste Basis, um den Nordosten Kataloniens zu entdecken.** In weniger als einer Stunde erreichst du die schönsten Buchten der Costa Brava, das Universum Dalís in Figueres und Cadaqués, mittelalterliche Dörfer wie aus dem Bilderbuch und griechisch-römische Ruinen. Dieser Guide ordnet die besten Ausflüge danach, wie viel Zeit du hast und wie du hinkommst, mit dem Zug oder dem Auto.

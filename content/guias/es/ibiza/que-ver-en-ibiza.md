@@ -23,11 +23,13 @@ slugs:
 reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
-  - crucero-calas-ibiza-paddle-surf-barra-libre
   - crucero-es-vedra-sant-antoni
-  - barco-atardecer-ibiza-bebidas-bano
   - ferry-ida-vuelta-ibiza-formentera
   - ibiza-fiesta-en-barco-barra-libre
+  - crucero-calas-ibiza-paddle-surf-barra-libre
+  - barco-atardecer-ibiza-bebidas-bano
+imagen_portada: "/images/guias/que-ver-en-ibiza.jpg"
+imagen_alt: "Dalt Vila, la ciudad alta de Ibiza"
 ---
 
 **Ibiza es famosa por la fiesta, pero tiene mucho más:** un casco histórico Patrimonio de la Humanidad, calas de agua turquesa, atardeceres de leyenda y Formentera a media hora en barco. El error del visitante medio es no salir de Playa d'en Bossa o San Antonio. Esta guía cubre la otra cara, que es la mayoritaria, sin renunciar a la noche si vienes a ello.

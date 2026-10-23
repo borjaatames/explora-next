@@ -40,6 +40,8 @@ faq:
   respuesta: 'For the interior, yes, or an organised tour: buses reach the villages but run infrequently and take long mountain roads. Between Las Palmas and the south, buses work very well.'
 - pregunta: When is the best time to visit Gran Canaria?
   respuesta: 'Any time: the south coast is 18-28 °C all year. Spring and autumn are ideal for hiking; in winter the summits can drop below zero and it occasionally snows on Pico de las Nieves.'
+imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
+imagen_alt: "Plaza de Santa Ana in Vegueta, Las Palmas de Gran Canaria"
 ---
 
 **Gran Canaria is much more than its southern beaches.** A round island barely 50 kilometres across packs in a desert of dunes, pine forests at almost 2,000 metres, ravines with cave houses and a capital with one of the best-preserved colonial old towns in the Canaries. That's why it's called a **miniature continent**. The most common mistake is never leaving Maspalomas: the interior is less than an hour away and it's what makes the island unique.

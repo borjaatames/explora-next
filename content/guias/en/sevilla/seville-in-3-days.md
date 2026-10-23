@@ -24,11 +24,12 @@ reservasArriba: true
 respuestaCorta: 'Three days lets you see Seville at a calm pace: **day one the Real Alcázar** (€15.50 online, book days ahead), the Cathedral and Giralda, and sunset at Plaza de España; **day two Triana** and the river at sunset; day three a slow day in town or the **Roman ruins of Itálica**, 9 km away. The best months are March to May and October to November.'
 actividades:
   - real-alcazar-sevilla-entrada
+  - catedral-sevilla-giralda-entrada-skip-line
   - cordoba-excursion-dia-completo-mezquita-desde-sevilla
+  - casa-de-la-memoria-flamenco-show-intimo-sevilla
   - cadiz-jerez-frontera-excursion-dia-desde-sevilla
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-  - catedral-sevilla-giralda-entrada-skip-line
   - sevilla-plaza-espana-walking-tour-guiado
   - sevilla-tapas-tour-triana-cruzando-rio
   - sevilla-era-descubrimientos-archivo-indias-torre-oro
@@ -37,7 +38,6 @@ actividades:
   - sevilla-guadalquivir-river-boat-tour
   - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
   - italica-ruinas-romanas-monasterio-desde-sevilla
-  - casa-de-la-memoria-flamenco-show-intimo-sevilla
   - teatro-flamenco-triana-show-en-directo
 ---
 

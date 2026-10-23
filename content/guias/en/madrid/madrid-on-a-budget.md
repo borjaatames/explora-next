@@ -26,13 +26,13 @@ respuestaCorta: 'The **Prado is free Mon–Sat 6–8 PM** (Sun 5–7 PM), the **
 actividades:
   - museo-prado-entrada
   - reina-sofia-entrada
-  - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
-  - tour-privado-escorial-monasterio-real
   - flamenco-tablao-las-carboneras
+  - reina-sofia-visita-guiada-amigo-tours
   - flamenco-torres-bermejas-cena
   - el-escorial-monasterio-entrada
   - escorial-valle-cuelgamuros-excursion-grupo
+  - tour-privado-escorial-monasterio-real
 ---
 
 Madrid is one of the few European capitals where you can spend several days paying almost no entry fees and still see the best of it. The trick isn't ticking off a list of free things: it's knowing which ones are worth it, at what time, and the few things worth paying for.

@@ -38,6 +38,8 @@ actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-catedral-museu-art-sant-feliu-entrada
   - girona-judia-tour-guiado-call
+imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
+imagen_alt: "Die Treppe der Kathedrale von Girona"
 ---
 
 **Girona wurde in der sechsten Staffel von Game of Thrones zur Filmkulisse, gedreht 2015 (ausgestrahlt 2016)**, und seine mittelalterliche Altstadt passt so gut, dass du die Drehorte sofort wiedererkennen wirst. Die Stadt spielte **Braavos** und **King's Landing**, und heute ist sie einer der beliebtesten Stopps für Fans der Serie. Dieser Guide versammelt die realen Drehorte, wie man sie zu Fuß verbindet und worauf man achten sollte.

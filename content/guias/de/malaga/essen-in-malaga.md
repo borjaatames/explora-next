@@ -19,6 +19,11 @@ slugs:
   es: comer-en-malaga
   en: eating-in-malaga
   de: essen-in-malaga
+actividades:
+  - malaga-tour-vino-tapas
+  - malaga-taller-tapas-mercado-atarazanas
+imagen_portada: "/images/guias/comer-en-malaga.jpg"
+imagen_alt: "Sardinenspieße über der Glut"
 ---
 
 **In Málaga isst man hervorragend und günstig, wenn man weiß, wo.** Es ist einfache Küche vom Meer, aus Strandbar und Taverne, mit außergewöhnlichem Fisch und Meeresfrüchten. Die einzige Falle sind die touristischen Terrassen gegenüber der Kathedrale und in der Calle Larios; zwei Straßen weiter wird alles besser. Dieser Guide gibt dir die wichtigsten Tipps, um wie ein Malagueño zu essen.

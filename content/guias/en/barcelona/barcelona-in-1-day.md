@@ -24,12 +24,12 @@ reservasArriba: true
 respuestaCorta: 'Yes, with discipline: the **AVE takes 2.5 hours**, so a 6:30 AM train gives you about 12 hours in the city. Book the **Sagrada Familia** (from €26) and **Park Güell** (€18) online days ahead, see the Gothic Quarter, eat in El Born and end at the **Bunkers del Carmel** at sunset.'
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-con-torre
   - casa-batllo-entrada-con-audioguia
-  - casa-mila-la-pedrera-entrada-audioguia
-  - catedral-de-barcelona-entrada
   - tour-casco-antiguo-barri-gotico-a-pie
   - park-guell-entrada-zona-monumental
+  - sagrada-familia-tour-con-torre
+  - casa-mila-la-pedrera-entrada-audioguia
+  - catedral-de-barcelona-entrada
   - barcelona-un-dia-sagrada-familia-park-guell
 ---
 

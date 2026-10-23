@@ -22,6 +22,8 @@ slugs:
 actividades:
   - patios-cordobeses-tour-con-entradas
   - palacio-viana-patios-entrada
+imagen_portada: "/images/guias/patios-de-cordoba.jpg"
+imagen_alt: "Gasse mit blauen Blumentöpfen im jüdischen Viertel von Córdoba"
 ---
 
 **Die Patios sind die Seele Córdobas**, und im Mai ihr größtes Spektakel. Privathäuser öffnen ihre weiß getünchten Patios, voller Blumentöpfe und Blüten, damit jeder kostenlos hineinschauen kann. Das **Patio-Fest** ist **immaterielles UNESCO-Welterbe**, aber man kann die Patios auch außerhalb der Saison sehen, wenn man weiß, wo. Dieser Guide sagt dir, wann, wo und wie — ohne Schlangen oder unnötige Hitze.

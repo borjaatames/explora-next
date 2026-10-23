@@ -24,12 +24,12 @@ slugs:
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-con-torre
   - casa-batllo-entrada-con-audioguia
-  - casa-mila-la-pedrera-entrada-audioguia
-  - catedral-de-barcelona-entrada
   - tour-casco-antiguo-barri-gotico-a-pie
   - park-guell-entrada-zona-monumental
+  - sagrada-familia-tour-con-torre
+  - casa-mila-la-pedrera-entrada-audioguia
+  - catedral-de-barcelona-entrada
 ---
 
 Barcelona an einem Tag ab Madrid ist **machbar, erfordert aber Disziplin**. Die Stadt ist weitläufiger als Sevilla, die großen Sehenswürdigkeiten liegen weit auseinander (Sagrada Familia, Park Güell und das Gotische Viertel sind nicht einfach zu Fuß miteinander verbunden), und für fast alles Wichtige braucht man **online reservierte Tickets, mehrere Tage im Voraus**. Aber wer gut plant, schafft in 9-10 Stunden das Wesentliche und kehrt mit dem Gefühl nach Madrid zurück, den Tag genutzt zu haben.

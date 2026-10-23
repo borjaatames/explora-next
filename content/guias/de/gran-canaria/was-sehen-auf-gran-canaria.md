@@ -39,6 +39,8 @@ faq:
   respuesta: 'Für das Inselinnere ja, oder einen organisierten Ausflug: Die Busse fahren zwar in die Dörfer, aber selten und über lange Bergstraßen. Zwischen Las Palmas und dem Süden funktioniert der Bus sehr gut.'
 - pregunta: Wann ist die beste Reisezeit für Gran Canaria?
   respuesta: 'Das ganze Jahr: An der Südküste sind es 18-28 °C. Frühling und Herbst sind ideal zum Wandern; im Winter kann es in den Gipfeln unter null gehen, und gelegentlich schneit es auf dem Pico de las Nieves.'
+imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
+imagen_alt: "Plaza de Santa Ana in Vegueta, Las Palmas de Gran Canaria"
 ---
 
 **Gran Canaria ist viel mehr als die Strände im Süden.** Auf einer runden Insel von kaum 50 Kilometern Durchmesser finden sich eine Dünenwüste, Kiefernwälder auf fast 2.000 Metern, Schluchten mit Höhlenhäusern und eine Hauptstadt mit einer der besterhaltenen Kolonialaltstädte der Kanaren. Deshalb nennt man sie einen **Kontinent im Kleinformat**. Der häufigste Fehler: Maspalomas nie zu verlassen. Das Inselinnere ist weniger als eine Stunde entfernt und macht die Insel einzigartig.

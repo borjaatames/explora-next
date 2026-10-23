@@ -4,7 +4,7 @@ descripcion: 'Las mejores escapadas desde Girona: Figueres y el Teatro-Museo Dal
 categoria: girona
 slug: escapadas-costa-brava-desde-girona
 fecha: '2026-05-12'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-23'
 autor: Equipo ExploraSpain
 publicada: true
 destacada: false
@@ -40,6 +40,8 @@ actividades:
   - girona-figueres-dali-cadaques-desde-barcelona
   - girona-costa-brava-grupo-reducido-recogida-hotel
   - tossa-de-mar-costa-brava-excursion-desde-barcelona
+imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
+imagen_alt: "La Vila Vella de Tossa de Mar sobre la playa"
 ---
 
 **Girona es la mejor base para la Costa Brava.** En menos de una hora tienes el Dalí de Figueres y Cadaqués, pueblos medievales como Besalú y las calas más bonitas del litoral.
@@ -54,6 +56,7 @@ actividades:
 | Museo Dalí con guía | [Visita guiada al Teatro-Museo Dalí](/ciudades/girona/actividades/teatro-museo-dali-figueres-visita-guiada), 4,7★ (105) | 31 € |
 | Si duermes en Barcelona | [Girona, Figueres, Dalí y Cadaqués en un día](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |
 | Desde Barcelona, grupo reducido | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 99 € |
+| Tossa de Mar desde Barcelona | [Tossa de Mar y la Costa Brava en el día](/ciudades/girona/actividades/tossa-de-mar-costa-brava-excursion-desde-barcelona), 4,9★ (596) | 39 € |
 
 Las dos últimas salen de Barcelona, no de Girona. Si duermes en Girona, las que te sirven son el kayak, los barcos y la visita al Dalí.
 
@@ -74,7 +77,7 @@ Las dos últimas salen de Barcelona, no de Girona. Si duermes en Girona, las que
 
 ## Lo que debes saber antes de salir
 
-- **El Teatro-Museo Dalí de Figueres** cuesta 17 € (gratis menores de 8), con entrada por franja horaria que **se agota en temporada**: resérvala en la web oficial la semana anterior. Son 2 horas; el cuadro de Lincoln y la Sala Mae West son lo que todos buscan. Está a 15 minutos a pie de la estación.
+- **El Teatro-Museo Dalí de Figueres** cuesta desde 18,50 € (2026; gratis hasta los 8 años), con entrada por franja horaria que **se agota en temporada**: resérvala en la web oficial la semana anterior. Son 2 horas; el cuadro de Lincoln y la Sala Mae West son lo que todos buscan. Está a 15 minutos a pie de la estación.
 - **La casa de Dalí en Portlligat** (Cadaqués) se visita solo con reserva previa, en grupos de 8 cada 10 minutos. Sin reserva no entras ni en temporada baja.
 - **Cadaqués en verano:** el único acceso es una carretera de curvas y el pueblo cierra el centro al tráfico. Llega antes de las 10:00 o deja el coche en el aparcamiento de la entrada y anda.
 - **Las calas de Begur y Palafrugell** tienen aparcamientos pequeños que se llenan a las 10:30 en julio y agosto. O llegas a las 9:00, o usas los autobuses lanzadera que Begur pone en verano, o vas a última hora de la tarde, que es cuando mejor luz hay.

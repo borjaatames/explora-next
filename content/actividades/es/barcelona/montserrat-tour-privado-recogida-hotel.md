@@ -112,20 +112,20 @@ galeria:
   alt: "Arcos de piedra del monasterio de Montserrat"
 - src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
   alt: "La Moreneta en el camarín de la basílica de Montserrat"
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Estatua del Abat Oliba junto a la fachada del monasterio de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Detalle de los frescos religiosos pintados en las bovedas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Frescos con motivos religiosos y cruces de hierro forjado en el interior de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Mural con la historia de la fundacion del monasterio de Montserrat y la Moreneta
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
+  alt: "Agujas de roca de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-05.webp
+  alt: "Mirador de Sant Jeroni, la cumbre de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-09.webp
+  alt: "La nave de la basílica de Montserrat vista desde lo alto"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-04.webp
+  alt: "Atrio de la basílica de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp
+  alt: "Altar mayor de la basílica de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-04.webp
+  alt: "El monasterio de Montserrat entre las montañas"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-09.webp
+  alt: "El Aeri subiendo por la ladera de Montserrat"
 ratingProveedor: 5.0
 numeroOpiniones: 658
 

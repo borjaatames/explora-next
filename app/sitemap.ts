@@ -65,6 +65,23 @@ function alternatesPara(
   return { languages };
 }
 
+type IdiomaActivo = (typeof IDIOMAS_ACTIVOS)[number];
+
+/** Fecha más reciente entre `fecha_actualizacion` y `fecha` (ISO). */
+function fechaDe(item: { fecha?: string; fecha_actualizacion?: string }): Date | undefined {
+  const iso = item.fecha_actualizacion || item.fecha;
+  if (!iso) return undefined;
+  const d = new Date(iso);
+  return Number.isNaN(d.getTime()) ? undefined : d;
+}
+
+/** La más reciente de una lista de fechas (o undefined si no hay ninguna). */
+function masReciente(fechas: Array<Date | undefined>): Date | undefined {
+  let max: Date | undefined;
+  for (const f of fechas) if (f && (!max || f > max)) max = f;
+  return max;
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   // Guard de indexación: si la flag no está activa (preview, staging,
   // desarrollo), devolvemos sitemap vacío. Mantiene coherencia con
@@ -76,8 +93,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
     return [];
   }
 
-  const ahora = new Date();
+  // lastmod real: cada URL lleva la fecha editorial más reciente de su
+  // contenido (fecha_actualizacion o fecha del .md). Los índices y listados
+  // toman la más reciente de lo que enlazan. Las páginas legales no llevan
+  // lastmod: no hay fecha fiable y una fecha inventada resta credibilidad.
   const entries: MetadataRoute.Sitemap = [];
+  const guiasPorIdioma = new Map(
+    IDIOMAS_ACTIVOS.map((l) => [l, obtenerListaGuias(l)] as const)
+  );
+  const actividadesPorIdioma = new Map(
+    IDIOMAS_ACTIVOS.map((l) => [l, obtenerListaActividades(l)] as const)
+  );
+  const fechaGuias = (lang: IdiomaActivo, ciudad?: string) =>
+    masReciente(
+      (guiasPorIdioma.get(lang) ?? [])
+        .filter((g) => !ciudad || g.categoria === ciudad)
+        .map(fechaDe)
+    );
+  const fechaActividades = (lang: IdiomaActivo, ciudad?: string) =>
+    masReciente(
+      (actividadesPorIdioma.get(lang) ?? [])
+        .filter((a) => !ciudad || a.ciudad === ciudad)
+        .map(fechaDe)
+    );
 
   // ─── Rutas fijas (home, índices) ─────────────────────────────────
   for (const lang of IDIOMAS_ACTIVOS) {
@@ -86,7 +124,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Home
     entries.push({
       url: `${SITE_URL}${prefijo || "/"}`,
-      lastModified: ahora,
+      lastModified: masReciente([fechaGuias(lang), fechaActividades(lang)]),
       changeFrequency: "weekly",
       priority: 1,
       alternates: alternatesPara((l) => prefijoIdioma(l) || "/"),
@@ -95,7 +133,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Índice de guías
     entries.push({
       url: `${SITE_URL}${urlIndiceGuias(lang)}`,
-      lastModified: ahora,
+      lastModified: fechaGuias(lang),
       changeFrequency: "weekly",
       priority: 0.9,
       alternates: alternatesPara((l) => urlIndiceGuias(l)),
@@ -104,7 +142,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Índice de ciudades
     entries.push({
       url: `${SITE_URL}${urlIndiceCiudades(lang)}`,
-      lastModified: ahora,
+      lastModified: masReciente([fechaGuias(lang), fechaActividades(lang)]),
       changeFrequency: "weekly",
       priority: 0.9,
       alternates: alternatesPara((l) => urlIndiceCiudades(l)),
@@ -115,21 +153,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const lang of IDIOMAS_ACTIVOS) {
     entries.push({
       url: `${SITE_URL}${urlAvisoLegal(lang)}`,
-      lastModified: ahora,
       changeFrequency: "yearly",
       priority: 0.3,
       alternates: alternatesPara((l) => urlAvisoLegal(l)),
     });
     entries.push({
       url: `${SITE_URL}${urlPrivacidad(lang)}`,
-      lastModified: ahora,
       changeFrequency: "yearly",
       priority: 0.3,
       alternates: alternatesPara((l) => urlPrivacidad(l)),
     });
     entries.push({
       url: `${SITE_URL}${urlCookies(lang)}`,
-      lastModified: ahora,
       changeFrequency: "yearly",
       priority: 0.3,
       alternates: alternatesPara((l) => urlCookies(l)),
@@ -140,7 +175,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const lang of IDIOMAS_ACTIVOS) {
     entries.push({
       url: `${SITE_URL}${urlContacto(lang)}`,
-      lastModified: ahora,
       changeFrequency: "yearly",
       priority: 0.5,
       alternates: alternatesPara((l) => urlContacto(l)),
@@ -157,7 +191,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const [path, priority, changeFrequency] of paginasFijasEs) {
     entries.push({
       url: `${SITE_URL}${path}`,
-      lastModified: ahora,
       changeFrequency,
       priority,
     });
@@ -169,7 +202,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const guia of guias) {
       entries.push({
         url: `${SITE_URL}${guia.url}`,
-        lastModified: guia.fecha ? new Date(guia.fecha) : ahora,
+        lastModified: fechaDe(guia),
         changeFrequency: "monthly",
         priority: 0.8,
         alternates: alternatesPara((l) => {
@@ -193,7 +226,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const ciudad of ciudades) {
       entries.push({
         url: `${SITE_URL}${ciudad.url}`,
-        lastModified: ahora,
+        lastModified: masReciente([
+          fechaGuias(lang, ciudad.slug),
+          fechaActividades(lang, ciudad.slug),
+        ]),
         changeFrequency: "monthly",
         priority: 0.85,
         alternates: alternatesPara((l) => {
@@ -210,7 +246,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const ciudad of ciudadesConActividades) {
       entries.push({
         url: `${SITE_URL}${urlActividadesDeCiudad(lang, ciudad)}`,
-        lastModified: ahora,
+        lastModified: fechaActividades(lang, ciudad),
         changeFrequency: "weekly",
         priority: 0.8,
         alternates: alternatesPara((l) => urlListadoActividadesSiExiste(l, ciudad)),
@@ -224,7 +260,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const { ciudad } of ciudadesConGuias) {
       entries.push({
         url: `${SITE_URL}${urlGuiasDeCiudad(lang, ciudad)}`,
-        lastModified: ahora,
+        lastModified: fechaGuias(lang, ciudad),
         changeFrequency: "weekly",
         priority: 0.8,
         alternates: alternatesPara((l) => urlGuiasDeCiudad(l, ciudad)),
@@ -238,7 +274,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const actividad of actividades) {
       entries.push({
         url: `${SITE_URL}${actividad.url}`,
-        lastModified: actividad.fecha ? new Date(actividad.fecha) : ahora,
+        lastModified: fechaDe(actividad),
         changeFrequency: "monthly",
         priority: 0.75,
         alternates: alternatesPara((l) => {

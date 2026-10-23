@@ -24,11 +24,10 @@ reservasArriba: true
 respuestaCorta: 'Spend **day 1 on the Prado** (€15, go at 10:00), the Barrio de las Letras and sunset at Debod; **day 2 at El Escorial and the Valley of Cuelgamuros** (Cercanías C-3, closed Mondays); **day 3 in Retiro and Chamberí**, with the Reina Sofía if you still have energy. Book the Prado online to skip the queue.'
 actividades:
   - museo-prado-entrada
-  - museo-prado-visita-guiada
-  - walking-tour-habsburgos-grupo-reducido
   - palacio-real-tour-premium-skip-line
-  - tour-privado-escorial-monasterio-real
+  - walking-tour-habsburgos-grupo-reducido
   - escorial-valle-cuelgamuros-excursion-grupo
+  - museo-prado-visita-guiada
   - el-escorial-monasterio-entrada
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
@@ -36,6 +35,7 @@ actividades:
   - flamenco-tablao-las-carboneras
   - excursion-toledo-dia-completo
   - art-walk-pass-prado-reina-sofia-thyssen
+  - tour-privado-escorial-monasterio-real
 ---
 
 This is the route that works for a first visit: not fifty sights, but three days to understand why Madrid matters, with what's worth your time and what to skip.

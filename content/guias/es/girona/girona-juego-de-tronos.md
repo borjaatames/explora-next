@@ -38,6 +38,8 @@ actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-catedral-museu-art-sant-feliu-entrada
   - girona-judia-tour-guiado-call
+imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
+imagen_alt: "Escalinata de la catedral de Girona"
 ---
 
 **Girona fue plató de la sexta temporada de Juego de Tronos, rodada en 2015.** Su casco antiguo hizo de Braavos, de Desembarco del Rey y de Antigua, y todos los escenarios están a cinco minutos unos de otros: la ruta se hace a pie en una mañana y sin pagar nada.
@@ -49,6 +51,7 @@ actividades:
 | El más valorado | [Tour de Juego de Tronos en grupo reducido](/ciudades/girona/actividades/girona-juego-de-tronos-tour-grupo-reducido), 4,9★ (951) | 35 € |
 | Solo para tu grupo | [Tour privado de Juego de Tronos](/ciudades/girona/actividades/girona-juego-de-tronos-tour-privado), precio por grupo | 260 € |
 | Historia de Girona y escenarios | [Tour a pie por el Barri Vell](/ciudades/girona/actividades/girona-tour-a-pie-grupo-reducido), 4,8★ (826) | 35 € |
+| La catedral por dentro | [Catedral, Museu d'Art y Sant Feliu](/ciudades/girona/actividades/girona-catedral-museu-art-sant-feliu-entrada), 4,5★ (195) | 12 € |
 
 El tour de grupo reducido lleva un iPad para comparar cada escena con el sitio real.
 

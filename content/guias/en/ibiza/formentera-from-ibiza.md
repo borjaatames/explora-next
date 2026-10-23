@@ -23,6 +23,8 @@ respuestaCorta: 'To visit Formentera from Ibiza, take a **fast ferry from Ibiza 
 reservasArriba: true
 actividades:
   - ferry-ida-vuelta-ibiza-formentera
+imagen_portada: "/images/guias/formentera-desde-ibiza.jpg"
+imagen_alt: "Turquoise water on a Formentera beach"
 ---
 
 **Formentera is the essential excursion from Ibiza.** Half an hour by ferry, the neighbouring island has some of the most crystal-clear beaches in the Mediterranean —genuinely Caribbean— and a calm atmosphere, with no clubs or big hotels. This guide explains how to get there, how to get around and what not to miss to make the most of the day.

@@ -26,13 +26,13 @@ reservasArriba: true
 actividades:
   - museo-prado-entrada
   - reina-sofia-entrada
-  - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
-  - tour-privado-escorial-monasterio-real
   - flamenco-tablao-las-carboneras
+  - reina-sofia-visita-guiada-amigo-tours
   - flamenco-torres-bermejas-cena
   - el-escorial-monasterio-entrada
   - escorial-valle-cuelgamuros-excursion-grupo
+  - tour-privado-escorial-monasterio-real
 ---
 
 Madrid es de las pocas capitales europeas donde se pueden pasar varios días sin pagar casi ninguna entrada y llevarse una experiencia completa. La clave no es tachar una lista de «cosas gratis», sino saber cuáles merecen la pena, a qué hora, y qué pocas cosas sí conviene pagar. Esto es lo que recomendaríamos a un amigo que viene con poco presupuesto.

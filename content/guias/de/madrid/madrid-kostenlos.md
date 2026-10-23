@@ -25,13 +25,13 @@ reservasArriba: true
 actividades:
   - museo-prado-entrada
   - reina-sofia-entrada
-  - reina-sofia-visita-guiada-amigo-tours
   - museo-thyssen-entrada
-  - tour-privado-escorial-monasterio-real
   - flamenco-tablao-las-carboneras
+  - reina-sofia-visita-guiada-amigo-tours
   - flamenco-torres-bermejas-cena
   - el-escorial-monasterio-entrada
   - escorial-valle-cuelgamuros-excursion-grupo
+  - tour-privado-escorial-monasterio-real
 ---
 
 Madrid ist eine der wenigen europäischen Hauptstädte, in der man mehrere Tage verbringen kann, ohne fast irgendwo Eintritt zu zahlen, und trotzdem eine reiche Erfahrung mitnimmt. Der Schlüssel ist nicht, bei Google "10 kostenlose Dinge in Madrid" zu suchen und eine Liste abzuhaken — sondern zu verstehen, was sich in welchem Fall lohnt, wann, und wie man die typischen Fehler derjenigen vermeidet, die auf der Suche nach kostenlosen Plänen ankommen.

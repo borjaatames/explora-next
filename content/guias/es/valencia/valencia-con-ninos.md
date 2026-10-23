@@ -40,6 +40,8 @@ faq:
     respuesta: "Marzo a junio y septiembre-octubre son ideales: buen clima, playa templando (o agua aún caliente en otoño) y menos colas que en pleno verano. Julio y agosto funcionan para playa y agua, pero el centro cansa a los peques al mediodía."
   - pregunta: "¿Hay que reservar para comer paella con niños en Valencia?"
     respuesta: "Sí, conviene reservar e ir pronto (14:00), porque el arroz tarda 30-40 minutos en hacerse. Con niños con hambre, lo mejor es pedir unas tapas para entretener la espera."
+imagen_portada: "/images/guias/valencia-con-ninos.jpg"
+imagen_alt: "Elefantes en el Bioparc de Valencia"
 ---
 
 **Valencia es de las mejores ciudades de España para viajar con niños.** Es llana, segura, con playa urbana, un parque de nueve kilómetros para ir en bici y dos de los grandes atractivos familiares del país: el **Oceanogràfic** (el mayor acuario de Europa) y el **Bioparc**. Esta guía ordena los planes que de verdad funcionan con peques, sin forzar el itinerario adulto ni acabar el día a rastras.

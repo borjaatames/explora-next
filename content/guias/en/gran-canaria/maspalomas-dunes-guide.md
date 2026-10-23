@@ -35,6 +35,8 @@ faq:
   respuesta: From about €18 per person for 30 minutes, on a two-seat saddle with guides. Under-3s ride free with their parents.
 - pregunta: How do I get to the Maspalomas Dunes?
   respuesta: The easiest access points are the viewpoint by the Playa del Inglés interpretation centre, Maspalomas beach by the lighthouse and Playa del Inglés itself. Global bus line 30 runs from Las Palmas to Playa del Inglés and the Faro de Maspalomas.
+imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
+imagen_alt: "The Maspalomas dunes in the late afternoon"
 ---
 
 **The Maspalomas Dunes are the image of Gran Canaria**: more than 400 hectares of wind-shifted sand between Playa del Inglés and the Maspalomas lighthouse. They're a **Special Nature Reserve** and, although they look like an open desert, they have clear rules. This guide explains how to enjoy them without fines or heatstroke.

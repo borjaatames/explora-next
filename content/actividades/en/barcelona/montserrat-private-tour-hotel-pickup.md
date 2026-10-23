@@ -112,20 +112,20 @@ galeria:
   alt: "Stone arches at Montserrat monastery"
 - src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
   alt: "The Black Madonna (La Moreneta) in Montserrat basilica"
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Statue of Abbot Oliba, founder of the Montserrat monastery, among the greenery
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Statue of Abbot Oliba next to the facade of the Montserrat monastery
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Detail of the religious frescoes painted on the vaults of Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Religious frescoes and wrought-iron crosses inside the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Mural depicting the founding history of the Montserrat monastery and the Black Madonna
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
+  alt: "Montserrat's rock spires"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-05.webp
+  alt: "Sant Jeroni viewpoint, the summit of Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-09.webp
+  alt: "The Montserrat basilica nave seen from above"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-04.webp
+  alt: "Atrium of the Montserrat basilica"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp
+  alt: "High altar of the Montserrat basilica"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-04.webp
+  alt: "Montserrat monastery among the mountains"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-09.webp
+  alt: "The Aeri cable car climbing the Montserrat slope"
 ratingProveedor: 5.0
 numeroOpiniones: 658
 

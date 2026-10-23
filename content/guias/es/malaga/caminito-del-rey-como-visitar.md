@@ -35,6 +35,8 @@ faq:
     respuesta: "En tren (Cercanías/Media Distancia hasta El Chorro-Caminito del Rey o Álora, 40-50 minutos) o en coche (unos 50 minutos hasta Ardales/El Chorro). En ambos casos hace falta el bus lanzadera para volver al punto de partida."
   - pregunta: "¿Qué puede hacer que se cierre el Caminito del Rey?"
     respuesta: "El viento fuerte o la lluvia intensa. Por eso conviene mirar el parte meteorológico antes de ir y tener un plan B, además de reservar la entrada con mucha antelación."
+imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
+imagen_alt: "Pasarela del Caminito del Rey colgada en el desfiladero"
 ---
 
 **El Caminito del Rey es la excursión de naturaleza más vendida de Andalucía**, y con razón: una pasarela colgada en las paredes verticales del desfiladero de los Gaitanes, a más de 100 metros sobre el río, en un paisaje espectacular. Pero es también la visita que más gente se queda sin hacer por un motivo evitable: **no reservar la entrada a tiempo**. Esta guía te explica cómo organizarlo todo para no fallar.

@@ -24,11 +24,11 @@ slugs:
 reservasArriba: true
 actividades:
   - real-alcazar-sevilla-entrada
-  - real-alcazar-sevilla-tour-guiado-skip-line
-  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - catedral-sevilla-giralda-entrada-skip-line
   - sevilla-plaza-espana-walking-tour-guiado
   - setas-sevilla-metropol-parasol-entrada-mirador
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
 ---
 

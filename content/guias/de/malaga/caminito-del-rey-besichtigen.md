@@ -22,6 +22,8 @@ slugs:
 actividades:
   - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga
+imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
+imagen_alt: "Der Steg des Caminito del Rey an der Schluchtwand"
 ---
 
 **Der Caminito del Rey ist der meistverkaufte Naturausflug Andalusiens**, und das aus gutem Grund: ein Steg, der an die senkrechten Wände der Schlucht El Chorro (Desfiladero de los Gaitanes) geklammert ist, mehr als 100 Meter über dem Fluss, in einer spektakulären Landschaft. Doch es ist auch der Ausflug, den die meisten Besucher aus einem vermeidbaren Grund verpassen: **das Ticket nicht rechtzeitig gebucht zu haben**. Dieser Guide erklärt dir, wie du alles organisierst, damit dir das nicht passiert.

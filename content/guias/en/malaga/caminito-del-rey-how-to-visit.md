@@ -35,6 +35,8 @@ faq:
     respuesta: "By train (Cercanías/regional rail to El Chorro-Caminito del Rey or Álora, 40-50 minutes) or by car (about 50 minutes to Ardales/El Chorro). Either way, you'll need the shuttle bus to get back to your starting point."
   - pregunta: "What can cause the Caminito del Rey to close?"
     respuesta: "Strong wind or heavy rain. It's worth checking the weather forecast before you go and having a backup plan, on top of booking tickets well in advance."
+imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
+imagen_alt: "The Caminito del Rey walkway clinging to the gorge"
 ---
 
 **The Caminito del Rey is the best-selling nature excursion in Andalusia**, and for good reason: a walkway pinned to the vertical walls of the Gaitanes gorge, more than 100 metres above the river, in a spectacular landscape. But it's also the visit most people miss for an avoidable reason: **not booking the ticket in time**. This guide explains how to organise everything so you don't miss out.
@@ -63,6 +65,16 @@ The Caminito is a **linear** route of about 7.7 km (3 km of walkways anchored to
 > **⭐ Tip:** tickets go on sale months ahead on the official site and vanish. Check the available Caminito dates first and **build the trip around that day**, not the other way round.
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
+
+## Prices, opening hours and ages
+
+- **General ticket:** €10 on your own and €18 with the official guided visit, always on the official website and with a fixed entry time. The **shuttle bus** between the south entrance (El Chorro) and the north one (Ardales) costs €2.50 and is best bought with the ticket.
+- **Opening hours:** Tuesday to Sunday, with entries every half hour from 9:00 until early afternoon (later in summer). **Closed on Mondays** and on days of strong wind or heavy rain, with a refund.
+- **Minimum age: 8**, with no exceptions, and under-18s must be with an adult. There is no upper age limit, but it is 7.7 km with no benches or shade.
+- **Capacity:** about 1,100 people a day. Tickets are released by semester and spring and autumn dates sell out in days; high summer and winter weekdays much less so.
+- **Total time:** 3 to 4 hours including the walks in (1.5-2.7 km from each car park, depending on the entrance) and the shuttle. If you come by train from Málaga, allow the whole day.
+- **Helmet compulsory** (provided on site); umbrellas, metal-tipped poles, drones and pets are not allowed.
+- **Toilets:** only at the entrances, not along the route.
 
 ## Getting there from Málaga
 

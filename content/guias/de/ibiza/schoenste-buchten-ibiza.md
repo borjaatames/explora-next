@@ -26,6 +26,8 @@ actividades:
   - kayak-cuevas-cala-codolar-esnorquel
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
+imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
+imagen_alt: "Cala Conta mit ihrer Insel auf Ibiza"
 ---
 
 **Ibiza hat einige der schönsten Buchten des Mittelmeers**, mit türkisfarbenem Wasser und legendären Sonnenuntergängen. Aber auch das übliche Sommerproblem: minimale Parkplätze und überfüllte Trendbuchten. Dieser Guide ordnet sie nach Regionen, verrät dir, welche Einrichtungen haben und wo du den besten Sonnenuntergang siehst – mit dem Trick, früh aufzustehen, um sie in Ruhe zu genießen.

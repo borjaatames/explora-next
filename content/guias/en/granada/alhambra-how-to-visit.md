@@ -21,7 +21,7 @@ slugs:
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
 reservasArriba: true
-respuestaCorta: 'Official tickets (€22.27) go on sale **90 days ahead** and morning slots sell out weeks in advance. **If they''re gone**, a guided tour that includes the ticket guarantees you the Nasrid Palaces at a fixed time. Allow about 4 hours and arrive early: you only get a 30-minute window for the Nasrid Palaces.'
+respuestaCorta: 'Official tickets (€22.27) go on sale **up to three months ahead** and morning slots sell out weeks in advance. **If they''re gone**, a guided tour that includes the ticket guarantees you the Nasrid Palaces at a fixed time. Allow about 4 hours and arrive early: you only get a 30-minute window for the Nasrid Palaces.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -86,13 +86,15 @@ Prices set by the Patronato (2026, booking fee included):
 
 Almost everyone needs the **Alhambra General**. Children under 12 go free but **still need a named ticket**, issued in the same purchase; without it they can't get in. There are discounts for EU citizens over 65, Carnet Joven holders and visitors with disabilities. **There is no recurring free day**: the "free on Wednesdays" claim that circulates online is false.
 
-Tickets go on sale **90 days ahead**, with about 8,000 a day. Morning slots sell out weeks in advance, and at Easter, on Spanish long weekends, in July-August and at Christmas, within minutes. The only official site is `tickets.alhambra-patronato.es`. It's slow, but any other site charges a fee or resells. If everything is sold out, your real options are:
+Tickets go on sale **up to three months ahead**, with about 8,000 a day. Morning slots sell out weeks in advance, and at Easter, on Spanish long weekends, in July-August and at Christmas, within minutes. The only official site is `tickets.alhambra-patronato.es`. It's slow, but any other site charges a fee or resells. If everything is sold out, your real options are:
 
 1. **A guided visit with its own ticket allocation** (the ones in the table above).
 2. **The night visit** to the Nasrid Palaces, which usually has more availability.
 3. **Queuing at the ticket office before 8:00** for the day's small allocation, which in high season rarely stretches far enough.
 
 [actividad: alhambra-entrada-general]
+
+If the official site is already sold out, [what to do when Alhambra tickets are sold out](/en/guides/granada/alhambra-tickets-sold-out) covers every option left.
 
 ## The golden rule: your Nasrid Palaces time
 

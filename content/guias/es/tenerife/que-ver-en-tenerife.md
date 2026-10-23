@@ -43,6 +43,8 @@ faq:
   respuesta: 'Es muy recomendable: las guaguas (TITSA) conectan bien las ciudades, pero el Teide, Masca o Anaga se aprovechan mucho mejor en coche o con excursión. Ten en cuenta que en el Teide el aparcamiento es limitado.'
 - pregunta: ¿Cuándo es mejor ir a Tenerife?
   respuesta: 'Cualquier época: la costa tiene clima suave todo el año. Primavera y otoño son ideales para senderismo; en invierno el Teide puede nevar y en febrero se celebra el Carnaval de Santa Cruz.'
+imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
+imagen_alt: "Los Roques de García en el Parque Nacional del Teide"
 ---
 
 **Tenerife es la isla más completa de Canarias.** Tiene el pico más alto de España, una ciudad colonial Patrimonio de la Humanidad, bosques de laurisilva, acantilados de cientos de metros y ballenas que viven frente a su costa todo el año. El error típico es quedarse en Costa Adeje y subir al Teide de paso: la isla da para mucho más.

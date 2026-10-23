@@ -86,7 +86,7 @@ function obtenerActividadesDespublicadas() {
  *
  * El frontmatter de guías usa `categoria` (no `ciudad`) para el slug de
  * ciudad en la URL — es el mismo campo que ya usa
- * app/(es-shell)/guias/[categoria]/[slug]/page.tsx para generar rutas.
+ * app/(es-shell)/(es)/guias/[categoria]/[slug]/page.tsx para generar rutas.
  */
 function obtenerGuiasDespublicadas() {
   const raiz = path.join(process.cwd(), "content", "guias");

@@ -25,6 +25,22 @@ type Strings = {
  * tocar el resto del componente.
  */
 const STRINGS: Partial<Record<Idioma, Strings>> = {
+  es: {
+    errorLabel: "Error 404",
+    titulo: "Esta página no existe (o ya no)",
+    descripcion:
+      "El enlace puede estar desactualizado o la actividad que buscabas ya no está disponible. Seguimos teniendo guías y actividades por toda España — empieza por aquí.",
+    volver: "Volver al inicio",
+    verGuias: "Ver todas las guías →",
+    verCiudades: "Ver todas las ciudades →",
+    destinos: "Destinos con más contenido",
+    ciudades: [
+      { slug: "madrid", nombre: "Madrid" },
+      { slug: "barcelona", nombre: "Barcelona" },
+      { slug: "sevilla", nombre: "Sevilla" },
+      { slug: "granada", nombre: "Granada" },
+    ],
+  },
   en: {
     errorLabel: "Error 404",
     titulo: "This page doesn't exist (anymore)",
@@ -59,15 +75,15 @@ const STRINGS: Partial<Record<Idioma, Strings>> = {
   },
 };
 
-const IDIOMA_FALLBACK: Idioma = "en";
+const IDIOMA_FALLBACK: Idioma = IDIOMA_DEFECTO;
 
 /**
  * Detecta el idioma real leyendo la URL con usePathname() (mismo patrón
  * que components/layout/LanguageSwitcher.tsx), porque not-found.tsx no
  * recibe los params del segmento dinámico padre. Si el primer segmento
- * no es un idioma activo distinto de "es" (no debería pasar dentro de
- * app/[lang]/, pero por si acaso), cae a inglés en vez de a español,
- * que es el idioma por defecto correcto para este shell.
+ * no es un idioma activo distinto de "es" (URL que no existe, como
+ * /esto-no-existe, que cae en app/[lang]/(l)/[...resto]), muestra el
+ * texto en español, igual que el marco que pinta app/[lang]/layout.tsx.
  */
 export default function NotFoundLangContent() {
   const pathname = usePathname() || "/";
@@ -80,7 +96,7 @@ export default function NotFoundLangContent() {
       : IDIOMA_FALLBACK;
 
   const t = STRINGS[idioma] ?? STRINGS[IDIOMA_FALLBACK]!;
-  const homeHref = `/${idioma}`;
+  const homeHref = idioma === IDIOMA_DEFECTO ? "/" : `/${idioma}`;
 
   return (
     <main className="min-h-screen bg-white flex items-center">

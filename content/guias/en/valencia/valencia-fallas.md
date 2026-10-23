@@ -27,6 +27,8 @@ actividades:
   - oceanografic-valencia-entrada
   - cata-cerveza-artesanal-tapas-ruzafa
   - paseo-catamaran-valencia-atardecer
+imagen_portada: "/images/guias/fallas-valencia.jpg"
+imagen_alt: "A Fallas monument lit up at night in Valencia"
 ---
 
 ## The 2027 calendar

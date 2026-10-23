@@ -164,3 +164,19 @@ export function hreflangAlternates(
 
   return result;
 }
+
+/**
+ * Rutas relativas de la misma página en cada idioma activo, solo las
+ * indexables (mismo criterio que `hreflangAlternates`). Sirve para pintar
+ * enlaces visibles a las otras versiones, no solo el hreflang del <head>.
+ */
+export function rutasPorIdioma(
+  constructorUrl: (idioma: Idioma) => string | null
+): Partial<Record<Idioma, string>> {
+  const result: Partial<Record<Idioma, string>> = {};
+  for (const lang of IDIOMAS_ACTIVOS) {
+    const ruta = constructorUrl(lang);
+    if (ruta !== null && rutaIndexable(ruta)) result[lang] = ruta;
+  }
+  return result;
+}

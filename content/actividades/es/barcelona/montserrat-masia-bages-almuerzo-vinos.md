@@ -110,18 +110,18 @@ galeria:
   alt: "Grupo ante las agujas de Montserrat y el monasterio"
 - src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
   alt: "Arcos con estatuas en el monasterio de Montserrat"
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
-  alt: Estatua del Abat Oliba junto a la fachada del monasterio de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
-  alt: Detalle de los frescos religiosos pintados en las bovedas de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-  alt: Mural con la historia de la fundacion del monasterio de Montserrat y la Moreneta
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-07.webp
+  alt: "Panorámica de la montaña de Montserrat con el monasterio"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-03.webp
+  alt: "Esculturas de la fachada de la basílica de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-01.webp
+  alt: "Nave de la basílica de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-07.webp
+  alt: "El monasterio de Montserrat y el puente del cremallera"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-02.webp
+  alt: "Formaciones rocosas de Montserrat"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-08.webp
+  alt: "Vista del monasterio de Montserrat y su entorno"
 ratingProveedor: 4.9
 numeroOpiniones: 1130
 

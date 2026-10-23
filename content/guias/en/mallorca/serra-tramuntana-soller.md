@@ -68,6 +68,16 @@ The **1912 wooden train** links Palma with Sóller, crossing the Tramuntana thro
 - **Mirador de Ses Ànimes (Torre del Verger).** The classic balcony over the Mediterranean, spectacular at sunset.
 - **Banyalbufar.** A village of terraces above the sea.
 
+## The practical bit: roads, parking and prices
+
+- **The MA-10** is the road that runs the length of the range from Andratx to Pollença: 110 km and 3 hours of driving without stops. Between Valldemossa and Sóller it has one lane each way and little hard shoulder; a small car is far easier than an SUV.
+- **Parking:** in Valldemossa, a paid car park at the village entrance (about €5 a day); in Deià, barely 40 roadside spaces, and no practical parking at Cala Deià in summer; in Sóller, the Plaça de Mallorca car park; at Sa Calobra, €8-10 and full by 11:00 in high season. For Sa Foradada, park at Son Marroig (€3 for the path).
+- **Without a car:** TIB bus 203 links Palma with Valldemossa (30 minutes), Deià (50) and Sóller (1 h 15) for €2-5, every hour. It is the cheapest option and spares you the MA-10. The Sóller train (€30 return) is the prettiest.
+- **Sa Calobra without the hairpins:** boat from Port de Sóller (from €35 return, 1 hour), with a two-hour stop to see the Torrent de Pareis. TIB bus 354 runs from Sóller and Port de Sóller in summer, with very few departures.
+- **Valldemossa Charterhouse:** €13 (free under 10), with Chopin's cell and a short piano recital every hour. It closes on Sunday afternoons and earlier in winter.
+- **Fuel and water:** petrol stations only in Sóller, Andratx and Pollença; nothing between Deià and Sa Calobra. In summer, carry 2 litres of water per person in the car.
+- **The Sóller tunnel** (MA-11) has been toll-free since 2017 and cuts the drive from Palma to 30 minutes; the mountain pass, the Coll de Sóller, is the scenic alternative, with 50 bends.
+
 ## A one-day route by car
 
 | Time | Stop |

@@ -42,6 +42,8 @@ faq:
   respuesta: 'Sehr empfehlenswert: Die TITSA-Busse verbinden die Orte gut, aber Teide, Masca und Anaga erlebt man mit dem Auto oder einem Ausflug deutlich besser. Am Teide gibt es nur wenige Parkplätze.'
 - pregunta: Wann ist die beste Reisezeit für Teneriffa?
   respuesta: 'Das ganze Jahr: An der Küste ist es immer mild. Frühling und Herbst sind ideal zum Wandern; im Winter kann es auf dem Teide schneien, und im Februar findet der Karneval von Santa Cruz statt.'
+imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
+imagen_alt: "Die Roques de García im Teide-Nationalpark"
 ---
 
 **Teneriffa ist die vielseitigste Kanareninsel.** Sie hat den höchsten Berg Spaniens, eine koloniale Stadt mit Welterbe-Status, Lorbeerwälder, Hunderte Meter hohe Klippen und Wale, die das ganze Jahr vor ihrer Küste leben. Der typische Fehler: in Costa Adeje bleiben und den Teide nur im Vorbeifahren mitnehmen. Die Insel bietet viel mehr.

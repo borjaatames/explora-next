@@ -24,11 +24,11 @@ reservasArriba: true
 respuestaCorta: 'Yes: take the **first AVE from Madrid (around 7 AM, in Seville by 9:30)** and walk the four essentials: the **Royal Alcázar at 10 AM** with an online ticket, the Cathedral and Giralda, Plaza de España in the afternoon and **Triana at sunset**, then the 9:30 PM train back. Return trains cost from €55–60 booked ahead; Alcázar timed tickets from €20.'
 actividades:
   - real-alcazar-sevilla-entrada
-  - real-alcazar-sevilla-tour-guiado-skip-line
-  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - catedral-sevilla-giralda-entrada-skip-line
   - sevilla-plaza-espana-walking-tour-guiado
   - setas-sevilla-metropol-parasol-entrada-mirador
+  - real-alcazar-sevilla-tour-guiado-skip-line
+  - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
 ---
 

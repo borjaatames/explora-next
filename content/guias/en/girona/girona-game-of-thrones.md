@@ -38,6 +38,8 @@ actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-catedral-museu-art-sant-feliu-entrada
   - girona-judia-tour-guiado-call
+imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
+imagen_alt: "The steps of Girona Cathedral"
 ---
 **Girona was a filming location for season 6 of Game of Thrones, shot in 2015.** Its old town played Braavos, King's Landing and Oldtown, and all the locations are within five minutes of each other: you can walk the route in a morning, for free.
 
@@ -48,6 +50,7 @@ actividades:
 | Top rated | [Game of Thrones small-group tour](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4.9★ (951) | €35 |
 | Just your group | [Private Game of Thrones tour](/en/cities/girona/activities/girona-game-of-thrones-private-tour), price per group | €260 |
 | Girona history plus locations | [Barri Vell walking tour](/en/cities/girona/activities/girona-walking-tour-small-group), 4.8★ (826) | €35 |
+| The cathedral inside | [Cathedral, Art Museum and Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4.5★ (195) | €12 |
 
 The small-group tour brings an iPad so you can compare each scene with the real place.
 

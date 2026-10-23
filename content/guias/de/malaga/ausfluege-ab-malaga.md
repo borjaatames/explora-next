@@ -21,15 +21,17 @@ slugs:
   de: ausfluege-ab-malaga
 reservasArriba: true
 actividades:
-  - cuevas-nerja-entrada
   - caminito-del-rey-guiado-desde-malaga
   - ronda-setenil-desde-malaga
   - cuevas-nerja-frigiliana-desde-malaga
   - gibraltar-desde-malaga
+  - cuevas-nerja-entrada
   - cordoba-mezquita-desde-malaga
   - caminito-del-rey-entrada-guia-oficial
   - antequera-dolmenes-torcal-excursion-desde-malaga
   - mijas-marbella-puerto-banus-excursion-desde-malaga
+imagen_portada: "/images/guias/escapadas-desde-malaga.jpg"
+imagen_alt: "Frigiliana, ein weißes Dorf in der Axarquía"
 ---
 
 **Málaga ist die beste Basis an der Costa del Sol für Ausflüge.** In weniger als anderthalb Stunden erreichst du weiße Dörfer an Schluchten, Höhlen und Strände, mondähnliche Landschaften und sogar den Felsen von Gibraltar. Dieser Guide ordnet die besten Tagesausflüge danach, wie viel Zeit du hast und wie du hinkommst, mit oder ohne Auto.

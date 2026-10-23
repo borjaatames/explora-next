@@ -38,6 +38,8 @@ faq:
   respuesta: There's no guarantee, but pilot whale sightings are very frequent because they're resident. Some operators offer a free repeat trip if you're unlucky; ask before booking.
 - pregunta: Can you swim with the dolphins?
   respuesta: 'No: Canary Islands law forbids swimming or diving within 500 metres of cetaceans. Swim stops are made away from the animals.'
+imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
+imagen_alt: "Pilot whale surfacing off Tenerife"
 ---
 
 **Tenerife is one of the best places in Europe to see whales and dolphins**, and all year round. Between its south-west coast and La Gomera lives a stable population of **short-finned pilot whales** and **bottlenose dolphins**. In 2021 this stretch of sea became the **first Whale Heritage Site in Europe**, a label awarded by the World Cetacean Alliance to places with responsible whale watching. The key is choosing the right boat.

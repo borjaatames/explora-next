@@ -20,7 +20,7 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
-respuestaCorta: 'Book only at **sagradafamilia.org**, **4–6 weeks ahead** (8–10 in July and August): there is no ticket sale at the gate. The **basic ticket with audio guide costs €26** and is enough for a first visit; towers add €10. Take the **9 AM slot** and plan 1.5–2 hours.'
+respuestaCorta: 'Book only at **sagradafamilia.org**, **4–6 weeks ahead** (in July and August, as soon as they go on sale, about two months before): there is no ticket office. The **basic ticket with audio guide costs €26** and is enough for a first visit; towers add €10. Take the **9 AM slot** and plan 1.5–2 hours.'
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
@@ -30,7 +30,7 @@ faq:
   - pregunta: "How much does a Sagrada Familia ticket cost in 2026?"
     respuesta: "The basic ticket costs €26 and includes basilica access plus a downloadable audio guide in 19 languages. Adding a tower climb brings it to €36, and a group guided visit costs €30 (€40 with towers). Barcelona residents get a 50% discount throughout 2026, the Gaudí Year, by emailing residents@ext.sagradafamilia.org with proof of residency."
   - pregunta: "How far ahead should I book Sagrada Familia tickets?"
-    respuesta: "Book 4 to 6 weeks ahead for a good time slot, and 8 to 10 weeks ahead if visiting in July, August, or during 2026's Gaudí Year, Holy Week or Spanish bank holidays, when demand roughly doubles. Tickets are sold only online at sagradafamilia.org — there is no walk-up sale at the gate."
+    respuesta: "Book 4 to 6 weeks ahead for a good time slot, and as soon as tickets go on sale, about two months ahead, if visiting in July, August, Holy Week or Spanish bank holidays, when demand roughly doubles. Tickets are sold only online at sagradafamilia.org or through the purchase QR codes around the basilica, if there is capacity; there is no ticket office."
   - pregunta: "Is it worth paying extra to climb the Sagrada Familia towers?"
     respuesta: "For most first-time visitors, no. You go up by elevator but come down a narrow spiral staircase, it is not wheelchair-accessible or recommended for vertigo, and you photograph the spires from inside them rather than seeing them whole. What matters most, the stained glass, is already included in the basic €26 ticket. The €10 tower upgrade is worth it mainly if you still have budget left after Park Güell or Casa Batlló."
   - pregunta: "What is the dress code at Sagrada Familia?"
@@ -66,7 +66,9 @@ Tickets are sold **only online** at `sagradafamilia.org`. There is no sale at th
 | Day before | Lottery. Unlikely in high season |
 | Same day | Almost impossible. Cancellations only |
 
-> **Warning:** in **July and August, Holy Week and Spanish bank holidays**, double those windows: book **8–10 weeks ahead**. 2026 is the centenary of Gaudí's death, and the Tower of Jesus (172.5 m, the tallest church in the world) was inaugurated on 10 June, so demand is higher than usual.
+> **Warning:** in **July and August, Holy Week and Spanish bank holidays**, book **as soon as tickets go on sale, about two months ahead**. 2026 is the centenary of Gaudí's death, and the Tower of Jesus (172.5 m, the tallest church in the world) was inaugurated on 10 June, so demand is higher than usual.
+
+If everything is gone, see [what to do when Sagrada Familia tickets are sold out](/en/guides/barcelona/sagrada-familia-tickets-sold-out).
 
 Other resellers add €5–15 in commission and some sell fake tickets. If the official site is sold out, guided tours hold their own allocations.
 

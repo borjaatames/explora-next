@@ -27,6 +27,8 @@ actividades:
   - oceanografic-valencia-entrada
   - oceanografic-museo-ciencias-entrada-combinada
   - tour-tuk-tuk-valencia-centro-playas
+imagen_portada: "/images/guias/ciudad-artes-ciencias-como-visitar.jpg"
+imagen_alt: "El Hemisfèric y el Palau de les Arts en la Ciudad de las Artes y las Ciencias"
 ---
 
 **La Ciudad de las Artes y las Ciencias es el icono moderno de Valencia**, pero también la trampa más fácil: comprar la entrada conjunta a todo y acabar agotado sin disfrutar de nada. Este complejo de Santiago Calatrava y Félix Candela, levantado en el antiguo cauce del Turia, se visita mejor con criterio: saber qué merece entrada, qué se disfruta por fuera y cómo combinarlo sin colas ni prisas.

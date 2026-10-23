@@ -33,6 +33,8 @@ faq:
   respuesta: Ab etwa 18 € pro Person für 30 Minuten, im Zweisitzer-Sattel mit Begleitern. Kinder unter 3 Jahren reiten mit den Eltern kostenlos.
 - pregunta: Wie kommt man zu den Dünen von Maspalomas?
   respuesta: Am bequemsten über den Aussichtspunkt beim Informationszentrum in Playa del Inglés, den Strand von Maspalomas am Leuchtturm oder direkt über Playa del Inglés. Busse fahren aus Las Palmas und dem ganzen Süden.
+imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
+imagen_alt: "Die Dünen von Maspalomas am Nachmittag"
 ---
 
 **Die Dünen von Maspalomas sind das Bild von Gran Canaria**: über 400 Hektar vom Wind bewegter Sand zwischen Playa del Inglés und dem Leuchtturm von Maspalomas. Sie sind ein **besonderes Naturschutzgebiet** und haben, auch wenn sie wie eine freie Wüste wirken, klare Regeln. Dieser Guide erklärt, wie du sie ohne Bußgeld und Hitzschlag genießt.

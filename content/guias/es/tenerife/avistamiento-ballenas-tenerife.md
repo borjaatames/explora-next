@@ -38,6 +38,8 @@ faq:
   respuesta: No hay garantía, pero los avistamientos de calderones son muy frecuentes porque son residentes. Algunos operadores ofrecen repetir gratis si no hay suerte.
 - pregunta: ¿Se puede nadar con los delfines?
   respuesta: 'No: la normativa canaria (Decreto 178/2000) prohíbe bañarse a menos de 500 metros de los cetáceos. Las paradas de baño se hacen lejos de los animales.'
+imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
+imagen_alt: "Calderón saliendo del agua frente a Tenerife"
 ---
 
 **Tenerife es uno de los mejores lugares de Europa para ver ballenas y delfines**, y además todo el año. Entre su costa suroeste y La Gomera vive una población estable de **calderones tropicales** y **delfines mulares**, en una franja marina protegida reconocida como *Whale Heritage Site*: la World Cetacean Alliance distinguió la zona Tenerife-La Gomera en enero de 2021, la primera de Europa. La clave es elegir bien el barco.

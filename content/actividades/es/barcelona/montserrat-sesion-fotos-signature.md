@@ -64,12 +64,12 @@ galeria:
   alt: "Sesión de fotos bajo los arcos de Montserrat"
 - src: https://imgcdn.bokun.tools/124e91c5-b87d-42e6-a90d-e12a3f7235c9.jpg
   alt: "Pareja en un mirador de Montserrat"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
-  alt: "Claustro del Monasterio de Montserrat con arcos de piedra y galería cubierta"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
-  alt: "Monasterio de Montserrat en la montaña de piedra con vistas naturales"
-- src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
-  alt: "Vista panorámica de las montañas de Montserrat desde Barcelona con formaciones rocosas icónicas"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-02.webp
+  alt: "Fachada de la basílica de Montserrat desde el atrio"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-06.webp
+  alt: "La basílica de Montserrat vista desde los arcos del atrio"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-09.webp
+  alt: "Agujas de roca de Montserrat sobre el valle"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

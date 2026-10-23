@@ -27,11 +27,11 @@ actividades:
   - tour-tarraco-romana-a-pie
   - catedral-tarragona-entrada-audioguia
   - catamaran-cambrils-barra-libre-bano
+  - portaventura-ferrari-land-entrada
   - quad-safari-salou-recogida-hotel
   - bodegas-yzaguirre-vermut-visita-cata
   - kayak-rio-ebro-miravet
   - flamencos-delta-del-ebro-atardecer
-  - portaventura-ferrari-land-entrada
   - portaventura-ferrari-caribe-aquatic-entrada
   - tour-autoguiado-daremapp-tarragona
 ---

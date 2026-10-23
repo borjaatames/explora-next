@@ -24,6 +24,8 @@ reservasArriba: true
 actividades:
   - patios-cordobeses-tour-con-entradas
   - palacio-viana-patios-entrada
+imagen_portada: "/images/guias/patios-de-cordoba.jpg"
+imagen_alt: "Alley with blue flowerpots in Córdoba's Jewish quarter"
 ---
 
 **The patios are the soul of Córdoba**, and in May, its greatest spectacle. Private houses open their whitewashed courtyards, packed with pots and flowers, for anyone to come in and see them for free. The **Patio Festival** is **UNESCO Intangible Heritage**, but you can also see patios out of season if you know where. This guide tells you when, where and how, without the queues or too much heat.

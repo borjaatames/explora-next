@@ -24,16 +24,19 @@ respuestaCorta: 'Spend **day one in the old town**: the Alcazaba and Gibralfaro 
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada
-  - malaga-esencial-catedral-alcazaba-teatro
+  - catedral-malaga-tour-guiado-sin-colas
   - catamaran-malaga-atardecer
+  - malaga-esencial-catedral-alcazaba-teatro
   - hammam-al-andalus-malaga
   - caminito-del-rey-guiado-desde-malaga
   - cuevas-nerja-frigiliana-desde-malaga
   - ronda-setenil-desde-malaga
   - caminito-del-rey-entrada-guia-oficial
   - cuevas-nerja-entrada
-  - catedral-malaga-tour-guiado-sin-colas
   - centre-pompidou-malaga-entrada
+  - malaga-tour-vino-tapas
+imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
+imagen_alt: "View of Málaga from the Alcazaba"
 ---
 
 **Two days in Málaga go a long way.** The old town is compact, flat and pedestrian, so 48 hours cover the Alcazaba, the Picasso Museum, the Cathedral, the beach and, if you book ahead, the Caminito del Rey. In fifteen years it has gone from transit gate to the Costa del Sol to a city with more than thirty museums.

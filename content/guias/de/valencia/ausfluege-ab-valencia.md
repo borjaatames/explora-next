@@ -25,6 +25,8 @@ actividades:
   - excursion-cala-granadella-javea
   - excursion-cuevas-de-san-jose
   - excursion-montanejos-en-bus
+imagen_portada: "/images/guias/escapadas-desde-valencia.jpg"
+imagen_alt: "Guadalest und sein Stausee"
 ---
 
 **Valencia ist eine hervorragende Basis für Tagesausflüge.** In weniger als einer Stunde erreichen Sie den Naturpark, in dem die Paella geboren wurde, spektakuläre Burgen, iberische und römische Städte sowie Dörfer der Costa del Azahar. Dieser Ratgeber ordnet die besten Ausflüge nach verfügbarer Zeit und Art der Anreise, mit oder ohne Auto.

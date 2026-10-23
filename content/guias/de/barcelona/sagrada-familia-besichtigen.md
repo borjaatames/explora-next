@@ -97,7 +97,7 @@ Die Sagrada Familia empfängt 4,5 Millionen Besucher im Jahr und arbeitet mit **
 | Vortag | Glückssache. Unwahrscheinlich in der Hochsaison |
 | Selber Tag | Fast unmöglich. Nur Stornierungen |
 
-> **⚠️ Hinweis:** während **2026 (Gaudí-Jahr), der Karwoche, Brückentagen und der sommerlichen Hochsaison** verdoppelst du die Vorlaufzeiten am besten. Reserviere 8-10 Wochen im Voraus, wenn du im Juli oder August besuchst.
+> **⚠️ Hinweis:** während **2026 (Gaudí-Jahr), der Karwoche, Brückentagen und der sommerlichen Hochsaison** reservierst du am besten, sobald die Tickets in den Verkauf gehen, etwa zwei Monate im Voraus.
 
 **Nur auf der offiziellen Website kaufen**: `sagradafamilia.org`. Jede andere Website berechnet eine Provision und verkauft im schlimmsten Fall gefälschte Tickets. Ist die offizielle Website ausverkauft, haben geführte Touren (Civitatis, GetYourGuide, lokale Agenturen) reservierte Kontingente.
 

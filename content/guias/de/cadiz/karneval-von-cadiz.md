@@ -21,6 +21,11 @@ slugs:
   es: carnaval-de-cadiz
   en: cadiz-carnival
   de: karneval-von-cadiz
+actividades:
+  - tour-guiado-cadiz-centro
+  - torre-tavira-catedral-cadiz-visita-guiada
+  - catamaran-cadiz-atardecer
+  - bodegas-fundador-jerez-cata
 ---
 
 **Der Karneval von Cádiz ist einer der berühmtesten der Welt** und ein einzigartiges Erlebnis: eine ganze Stadt in Verkleidung, die durch ihre Straßen zieht und geistreiche, bissige und urkomische Spottlieder singt. Es ist kein Karneval der Umzugswagen und Federn, sondern des **Witzes und der Verse**: die Menschen aus Cádiz lachen über alles, vor allem über sich selbst. Dieser Guide erklärt, wann er stattfindet, wie er funktioniert und wie man ihn erlebt, ohne dabei unterzugehen.

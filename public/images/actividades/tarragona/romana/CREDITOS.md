@@ -10,3 +10,5 @@
 - `pretorio.webp` — Deosringas, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pretori%2C_Tarragona-1.JPG) · recortada a 1600×1200
 - `pretorio-interior.webp` — Angela Llop, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pretori_%28Tarragona%29_-_4.jpg) · recortada a 1600×1200
 - `plaza-del-rei.webp` — Mariarosafg, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Torre_del_Pretori%2C_Pla%C3%A7a_del_Rei%2C_Tarragona.jpg) · recortada a 1600×1200
+
+- `circo-romano.webp` (sustituida el 23 oct 2026) — Deosringas, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Circ_Rom%C3%A0,_Voltes_del_Circ,_Tarragona-5.JPG)

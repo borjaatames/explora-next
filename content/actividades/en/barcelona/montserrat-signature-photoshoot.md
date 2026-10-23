@@ -64,12 +64,12 @@ galeria:
   alt: "Photo shoot under the Montserrat arches"
 - src: https://imgcdn.bokun.tools/124e91c5-b87d-42e6-a90d-e12a3f7235c9.jpg
   alt: "Couple at a Montserrat viewpoint"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
-  alt: "Montserrat monastery cloister with stone arches and abbey corridor"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
-  alt: "Montserrat monastery perched on dramatic rocky mountain peaks near Barcelona"
-- src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
-  alt: "Montserrat's dramatic rock formations and mountain landscape near Barcelona"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-02.webp
+  alt: "The Montserrat basilica facade from the atrium"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-06.webp
+  alt: "The Montserrat basilica seen through the atrium arches"
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-09.webp
+  alt: "Montserrat rock needles above the valley"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -37,6 +37,8 @@ faq:
   respuesta: 'Nicht in La Goleta: Dieser Parkplatz ist seit 2025 geschlossen. Park in Cruz de Los Llanos (etwa 10 Minuten mit dem Shuttlebus oder rund eine Stunde zu Fuß) oder in Tejeda (etwa 30 Minuten mit dem Bus).'
 - pregunta: Sieht man vom Roque Nublo den Teide?
   respuesta: Ja, an klaren Tagen sieht man den Teide auf Teneriffa über dem Wolkenmeer, besonders bei Sonnenuntergang und im Winter.
+imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
+imagen_alt: "Der Roque Nublo auf dem Gipfel von Gran Canaria"
 ---
 
 **Der Roque Nublo ist das Wahrzeichen von Gran Canaria**: ein rund 80 Meter hoher Basaltmonolith, der die Gipfel auf über 1.800 Metern krönt. Der Aufstieg zu seinem Fuß ist eine der schönsten und einfachsten Wanderungen der Kanaren und belohnt an klaren Tagen mit dem Teide auf Teneriffa, der über dem Wolkenmeer schwebt. Seit 2025 läuft der Besuch anders: **Tagsüber brauchst du eine Reservierung, und am Startpunkt kannst du nicht mehr parken.**

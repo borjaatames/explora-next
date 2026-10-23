@@ -34,12 +34,14 @@ reservasArriba: true
 respuestaCorta: 'Ja, **Girona lässt sich an einem Tag sehen**: Mit dem AVE sind es **38 Minuten ab Barcelona**, und die Altstadt erkundest du zu Fuß (Kathedrale, El Call, die bunten Häuser am Onyar und die Stadtmauer). Kathedrale und Sant Feliu haben ein gemeinsames Ticket (etwa 7,50 €, mit Audioguide); Stadtmauer und Arabische Bäder kosten fast nichts.'
 actividades:
   - girona-tour-a-pie-grupo-reducido
-  - girona-juego-de-tronos-tour-grupo-reducido
-  - girona-costa-brava-grupo-reducido-recogida-hotel
-  - girona-figueres-dali-cadaques-desde-barcelona
-  - tour-autoguiado-daremapp-girona
   - girona-catedral-museu-art-sant-feliu-entrada
   - girona-judia-tour-guiado-call
+  - girona-costa-brava-grupo-reducido-recogida-hotel
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-figueres-dali-cadaques-desde-barcelona
+  - tour-autoguiado-daremapp-girona
+imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
+imagen_alt: "Der Fluss Onyar und seine bunten Häuser in Girona"
 ---
 
 **Girona lässt sich gut an einem Tag besichtigen.** Die Altstadt ist kompakt und zu Fuß erkundbar, sodass an einem Tag die Kathedrale, El Call, die bunten Häuser am Onyar und ein Spaziergang oben auf der Stadtmauer Platz finden. Es ist der klassische Ausflug ab Barcelona — nur 38 Minuten mit dem Hochgeschwindigkeitszug —, doch wer zum Mittagessen bleibt und den Sonnenuntergang über dem Fluss erlebt, nimmt eine ganze Stadt mit, nicht nur eine Postkarte im Vorbeigehen.

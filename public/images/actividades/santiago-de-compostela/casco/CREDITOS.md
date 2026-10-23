@@ -8,3 +8,5 @@
 - `rua-vilar.webp` — Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Santiago_R%C3%BAa_do_Vilar_020116cGDFL.JPG) · recortada a 1600×1200
 - `peregrinos.webp` — P.Lameiro, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Peregrinos_en_Santiago_01-34_%28R%C3%BAa_do_Vilar%29.JPG) · recortada a 1600×1200
 - `alameda.webp` — Diego Delso, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Parque_Alameda%2C_Santiago_de_Compostela%2C_Espa%C3%B1a%2C_2015-09-23%2C_DD_59.jpg) · recortada a 1600×1200
+
+- `mercado-abastos.webp` (sustituida el 23 oct 2026) — Xosema, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Santiago_de_Compostela_-_Mercado_de_Abastos_-_01.jpg)

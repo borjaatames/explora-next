@@ -23,11 +23,13 @@ slugs:
 reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
-  - crucero-calas-ibiza-paddle-surf-barra-libre
   - crucero-es-vedra-sant-antoni
-  - barco-atardecer-ibiza-bebidas-bano
   - ferry-ida-vuelta-ibiza-formentera
   - ibiza-fiesta-en-barco-barra-libre
+  - crucero-calas-ibiza-paddle-surf-barra-libre
+  - barco-atardecer-ibiza-bebidas-bano
+imagen_portada: "/images/guias/que-ver-en-ibiza.jpg"
+imagen_alt: "Dalt Vila, Ibiza's old upper town"
 ---
 
 **Ibiza is famous for the party, but it's much more.** Behind the clubs lies a UNESCO World Heritage old town, turquoise coves, legendary sunsets and neighbouring Formentera half an hour away by boat. The average visitor's mistake is never leaving Playa d'en Bossa or San Antonio and reducing the island to a dance floor. This guide covers the other side —which is most of it— without giving up the night if that's why you've come.

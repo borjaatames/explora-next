@@ -22,15 +22,17 @@ slugs:
   de: ausfluege-ab-malaga
 reservasArriba: true
 actividades:
-  - cuevas-nerja-entrada
   - caminito-del-rey-guiado-desde-malaga
   - ronda-setenil-desde-malaga
   - cuevas-nerja-frigiliana-desde-malaga
   - gibraltar-desde-malaga
+  - cuevas-nerja-entrada
   - cordoba-mezquita-desde-malaga
   - caminito-del-rey-entrada-guia-oficial
   - antequera-dolmenes-torcal-excursion-desde-malaga
   - mijas-marbella-puerto-banus-excursion-desde-malaga
+imagen_portada: "/images/guias/escapadas-desde-malaga.jpg"
+imagen_alt: "Frigiliana, a white village in the Axarquía"
 ---
 
 **Málaga is the best base on the Costa del Sol for day trips.** Within an hour and a half you have white villages clinging to ravines, caves and beaches, lunar landscapes and even the Rock of Gibraltar. This guide sorts the best day outings by how much time you have and how to get there, with or without a car.

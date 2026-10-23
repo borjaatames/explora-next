@@ -27,6 +27,8 @@ actividades:
   - oceanografic-valencia-entrada
   - oceanografic-museo-ciencias-entrada-combinada
   - tour-tuk-tuk-valencia-centro-playas
+imagen_portada: "/images/guias/ciudad-artes-ciencias-como-visitar.jpg"
+imagen_alt: "The Hemisfèric and Palau de les Arts at the City of Arts and Sciences"
 ---
 
 **The City of Arts and Sciences is Valencia's modern icon**, but also the easiest trap: buying the combined ticket to everything and ending up exhausted without enjoying any of it. This complex by Santiago Calatrava and Félix Candela, raised in the old Turia riverbed, is best visited with criteria: knowing what's worth a ticket, what you enjoy from outside and how to combine it without queues or rushing.
@@ -77,9 +79,14 @@ The golden rule: **you don't need to go into everything**. The architectural ens
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
-## Getting there
+## Prices, opening hours and getting there
 
-It's 25-30 minutes on foot from the centre through the **Turia Gardens** (a lovely walk) or by **bike** (the handiest, along the old riverbed lane). By bus, several lines stop alongside. With kids, a bike with a child seat is ideal. Forget the car: parking is expensive.
+- **Oceanogràfic:** about €40 per adult online and €30 for children aged 4 to 12 (free under 4); a little more at the ticket office. **Museu de les Ciències** and **Hemisfèric**, €9 each. The three-venue combo is around €50 and Oceanogràfic plus Hemisfèric about €45: if you are visiting two, the combo always pays off.
+- **Opening hours:** the Oceanogràfic opens at 10:00 and closes at 18:00 in winter and 20:00 in summer (until midnight on some July and August days); the Museu, 10:00 to 19:00-21:00. All open on Mondays. The dolphin shows run at set times, three or four a day: check the board when you arrive and plan around them.
+- **Getting there:** 25-30 minutes on foot from the centre through the **Turia Gardens**, or 15 minutes by Valenbisi public bike along the old riverbed, with a docking station at the entrance. Buses 95 (from Plaza del Ayuntamiento), 35 and 15 cost €1.50; the nearest metro stop, Alameda (L3 and L5), is a 20-minute walk. The Umbracle underground car park costs €7-8 a day.
+- **Eating:** inside the Oceanogràfic there is an underwater restaurant (pricey) and a self-service; you can bring your own food and there are picnic areas. Outside, the Umbracle bars and, 10 minutes away, those on Calle Menorca.
+- **With small children:** buggies are fine everywhere, with free loans at the Oceanogràfic. The Hemisfèric does not admit under-3s to most sessions.
+- **Heat:** there is no shade between the buildings and the white glare is strong. Bring sunglasses and a hat, and save the Museu or the Hemisfèric for the middle of the day in July and August.
 
 ## What we don't recommend
 

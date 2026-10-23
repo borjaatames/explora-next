@@ -49,10 +49,12 @@ atracciones:
     imagen: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
     imagenAlt: "Die Bucht von Peguera an der Südwestküste Mallorcas"
 chipsFiltros:
+  - { label: "Palma und Kathedrale", tag: "palma" }
   - { label: "Drachenhöhlen", tag: "cuevas-drach" }
   - { label: "Tramuntana und Sóller", tag: "tramuntana" }
   - { label: "Buchten und Bootsfahrten", tag: "calas-playas" }
   - { label: "Parks und Familienausflüge", tag: "parques" }
+  - { label: "Essen und Wein", tag: "gastronomia" }
 ---
 
 Mallorca ist die größte der Balearen-Inseln und eines der großen Reiseziele am Mittelmeer, mit dem lebendigen Palma als Hauptstadt – etwas mehr als 400.000 Einwohner. Die Insel ist weit mehr als Sonne und Strand: Sie vereint traumhafte Buchten mit einer zum Weltkulturerbe erklärten Bergkette.

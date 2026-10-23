@@ -25,15 +25,15 @@ slugs:
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-con-torre
   - casa-batllo-entrada-con-audioguia
-  - casa-mila-la-pedrera-entrada-audioguia
   - park-guell-entrada-zona-monumental
-  - teleferico-montjuic-barcelona-ticket
-  - catedral-de-barcelona-entrada
+  - montserrat-medio-dia-grupo-pequeno
   - tour-casco-antiguo-barri-gotico-a-pie
   - museo-picasso-tour-guiado-sin-colas
-  - montserrat-medio-dia-grupo-pequeno
+  - sagrada-familia-tour-con-torre
+  - casa-mila-la-pedrera-entrada-audioguia
+  - teleferico-montjuic-barcelona-ticket
+  - catedral-de-barcelona-entrada
   - mnac-museu-nacional-art-catalunya-entrada
   - casa-amatller-entrada-videoguia
   - fundacio-joan-miro-entrada

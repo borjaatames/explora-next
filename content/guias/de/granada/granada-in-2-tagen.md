@@ -25,11 +25,11 @@ reservasArriba: true
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
+  - albaicin-sacromonte-atardecer
+  - flamenco-cuevas-tarantos-sacromonte
   - entrada-y-tour-guiado-alhambra
   - alhambra-visita-nocturna
-  - albaicin-sacromonte-atardecer
   - flamenco-cueva-la-rocio-sacromonte
-  - flamenco-cuevas-tarantos-sacromonte
   - catedral-capilla-real-sin-colas-grupo
   - alpujarra-pueblos-montana
   - catedral-granada-entrada

@@ -40,6 +40,8 @@ faq:
   respuesta: 'Para el interior, sí o con excursión organizada: las guaguas llegan a los pueblos, pero con pocas frecuencias y trayectos largos por carreteras de montaña. Entre Las Palmas y el sur el bus funciona muy bien.'
 - pregunta: ¿Cuál es la mejor época para ir a Gran Canaria?
   respuesta: 'Cualquiera: la costa sur tiene entre 18 y 28 °C todo el año. Primavera y otoño son ideales para el senderismo; en invierno las cumbres pueden bajar de cero y alguna vez nieva en el Pico de las Nieves.'
+imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
+imagen_alt: "Plaza de Santa Ana en Vegueta, Las Palmas de Gran Canaria"
 ---
 
 **Gran Canaria es mucho más que las playas del sur.** En una isla redonda de apenas 50 kilómetros caben un desierto de dunas, pinares a casi 2.000 metros, barrancos con casas cueva y una capital con uno de los cascos coloniales mejor conservados de Canarias: el **continente en miniatura**. El error más común es no salir de Maspalomas; el interior está a menos de una hora y es lo que hace única a la isla.

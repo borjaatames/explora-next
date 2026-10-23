@@ -22,6 +22,11 @@ slugs:
   es: carnaval-de-cadiz
   en: cadiz-carnival
   de: karneval-von-cadiz
+actividades:
+  - tour-guiado-cadiz-centro
+  - torre-tavira-catedral-cadiz-visita-guiada
+  - catamaran-cadiz-atardecer
+  - bodegas-fundador-jerez-cata
 ---
 
 **El Carnaval de Cádiz es uno de los más famosos del mundo**, y una experiencia única: una ciudad entera disfrazada cantando coplas ingeniosas, críticas y desternillantes por sus calles. No es un carnaval de carrozas y plumas, sino de **ingenio y letra**: el gaditano se ríe de todo, sobre todo de sí mismo. Esta guía te explica cuándo es, cómo funciona y cómo vivirlo sin morir en el intento.

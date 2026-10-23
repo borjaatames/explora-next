@@ -23,14 +23,14 @@ reservasArriba: true
 respuestaCorta: 'Sí, **Córdoba se ve en un día**: la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos a pie unos de otros. Entra en la **Mezquita a primera hora**, antes del calor y los grupos (tour guiado sin colas desde 32 €). Mejor de abril a junio o en septiembre y octubre; en julio y agosto se rondan los 40 °C.'
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
-  - mezquita-juderia-tour-a-pie
   - patios-cordobeses-tour-con-entradas
   - medina-azahara-tour-guiado-3-horas
+  - palacio-viana-patios-entrada
+  - mezquita-juderia-tour-a-pie
   - espectaculo-ecuestre-caballerizas-reales
   - espectaculo-flamenco-tablao-cardenal
   - mezquita-catedral-entrada-audioguia
   - alcazar-reyes-cristianos-visita-guiada
-  - palacio-viana-patios-entrada
 faq:
   - pregunta: "¿Cuánto tiempo hace falta para ver Córdoba?"
     respuesta: "Un día completo es suficiente: el casco histórico es compacto y la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. La ruta recomendada va de 9:00 a 18:30."
@@ -42,6 +42,8 @@ faq:
     respuesta: "Abril a junio, con mayo como mes mágico porque coinciden las Cruces, el Festival de los Patios y la Feria — aunque la ciudad se llena y hay que reservar alojamiento con semanas de antelación. En julio y agosto hay que evitar el mediodía: rondan los 40 °C."
   - pregunta: "¿Merece la pena ir a Medina Azahara desde Córdoba?"
     respuesta: "Sí, es la gran olvidada del turista de día. Es Patrimonio de la Humanidad y está a las afueras de la ciudad; si tienes medio día más o vienes en primavera, completa muy bien la visita a la Mezquita."
+imagen_portada: "/images/guias/cordoba-en-un-dia.jpg"
+imagen_alt: "La Mezquita-Catedral y el Puente Romano de Córdoba sobre el Guadalquivir"
 ---
 
 **Córdoba se ve bien en un día**, y por eso es la excursión clásica desde Sevilla, Madrid o Granada: la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. La clave es una: **entra en la Mezquita a primera hora**, antes del calor y los grupos. Y si haces noche, ganas lo que el turista de día se pierde: el casco antiguo iluminado y vacío.

@@ -43,6 +43,8 @@ faq:
   respuesta: 'It''s highly recommended: TITSA buses link the towns well, but Teide, Masca and Anaga are much better by car or on a tour. Bear in mind that parking on Teide is limited.'
 - pregunta: When is the best time to visit Tenerife?
   respuesta: 'Any time: the coast is mild all year. Spring and autumn are ideal for hiking; in winter Teide can get snow, and in February there''s the Santa Cruz Carnival.'
+imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
+imagen_alt: "Roques de García in Teide National Park"
 ---
 
 **Tenerife is the most complete of the Canary Islands.** It has Spain's highest peak, a World Heritage colonial city, laurel forests, cliffs hundreds of metres high and whales living off its coast all year. The typical mistake is staying in Costa Adeje and treating Teide as a quick stop: the island offers far more.

@@ -26,6 +26,8 @@ respuestaCorta: 'The 2027 Cádiz Carnival runs from **Thursday 4 to Sunday 14 Fe
 actividades:
   - tour-guiado-cadiz-centro
   - bodegas-fundador-jerez-cata
+  - torre-tavira-catedral-cadiz-visita-guiada
+  - catamaran-cadiz-atardecer
 ---
 
 **The Cádiz Carnival is one of the most famous in Spain**: an entire city in costume singing witty, biting songs through its streets. It's not a carnival of floats and feathers, but of **wit and lyrics**: the people of Cádiz laugh at everything, above all at themselves.

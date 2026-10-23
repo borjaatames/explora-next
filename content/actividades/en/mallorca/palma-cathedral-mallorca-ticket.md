@@ -83,7 +83,8 @@ galeria:
   alt: "Chapel of the Blessed Sacrament with Miquel Barceló's mural"
 ratingProveedor: 4.6
 numeroOpiniones: 17883
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- palma
 publicada: true
 destacada: true
 fecha: '2026-10-17'

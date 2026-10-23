@@ -36,6 +36,8 @@ faq:
   respuesta: The cable car closes in strong wind or ice, sometimes without notice. On a tour, you're offered an alternative route and the cable car fare is refunded.
 - pregunta: Is altitude sickness a risk on Teide?
   respuesta: 'At 3,555 m there''s less oxygen: tiredness or a headache is normal. It''s not recommended for pregnant women, children under 3 or people with heart or breathing problems. Walk slowly and drink water.'
+imagen_portada: "/images/guias/subir-al-teide.jpg"
+imagen_alt: "Snow-capped Teide above Las Cañadas"
 ---
 
 **Teide is Spain's highest peak (3,715 m**, the figure measured by Spain's National Geographic Institute; you'll often see 3,718 m) and the heart of a World Heritage National Park. You can visit it by car, by cable car almost to the top, on foot with a booking or at night under the stars. Access rules below are as of October 2026.

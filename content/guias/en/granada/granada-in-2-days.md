@@ -25,11 +25,11 @@ respuestaCorta: 'Two days is enough if you **book the Alhambra 3–4 weeks ahead
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
+  - albaicin-sacromonte-atardecer
+  - flamenco-cuevas-tarantos-sacromonte
   - entrada-y-tour-guiado-alhambra
   - alhambra-visita-nocturna
-  - albaicin-sacromonte-atardecer
   - flamenco-cueva-la-rocio-sacromonte
-  - flamenco-cuevas-tarantos-sacromonte
   - catedral-capilla-real-sin-colas-grupo
   - alpujarra-pueblos-montana
   - catedral-granada-entrada
@@ -42,7 +42,7 @@ actividades:
 
 ## First: the Alhambra ticket
 
-Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with zero tolerance if you're late. Sales open 90 days ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
+Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with zero tolerance if you're late. Tickets can be bought up to three months ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
 
 **If it's sold out:** the **Nasrid Palaces night visit** (€12.73), often available when daytime is gone, or a **guided tour** from an authorised operator with its own allocation (€45–65). Never buy from resellers: tickets are often fake or in another name. Details in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 

@@ -28,6 +28,8 @@ actividades:
   - kayak-cuevas-cala-codolar-esnorquel
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
+imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
+imagen_alt: "Cala Conta and its islet in Ibiza"
 ---
 
 **Ibiza has some of the most beautiful coves in the Mediterranean**, with turquoise water and famous sunsets. It also has the usual summer problem: tiny car parks and the fashionable coves packed by late morning. This guide sorts them by area, tells you which have services, how to get there without a car and where to watch the sunset.

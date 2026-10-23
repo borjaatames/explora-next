@@ -31,6 +31,8 @@ actividades:
   - oceanografic-museo-ciencias-entrada-combinada
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   - hemisferic-museu-ciencies-entrada
+imagen_portada: "/images/guias/valencia-en-2-dias.jpg"
+imagen_alt: "La Lonja de la Seda de Valencia"
 ---
 
 **Valencia en dos días cunde, y mucho.** Es llana, compacta y bien conectada, con el casco histórico a un lado y la Ciudad de las Artes al otro, unidos por un parque de nueve kilómetros donde antes había un río. La trampa es quedarse solo con Calatrava: el alma de la ciudad está en el Mercado Central, la Lonja, el Carmen y Ruzafa, y en la huerta de la Albufera donde nació la paella. Dos días dan para las dos caras.

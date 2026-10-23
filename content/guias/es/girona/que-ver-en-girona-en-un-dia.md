@@ -34,12 +34,14 @@ reservasArriba: true
 respuestaCorta: 'Sí, **Girona se ve en un día**: está a **38 minutos de Barcelona en AVE** y su casco antiguo se recorre a pie (la Catedral, El Call, las casas de colores del Onyar y la muralla). La Catedral y Sant Feliu tienen entrada conjunta (unos 7,50 €, con audioguía); la muralla y los Baños Árabes son casi gratis.'
 actividades:
   - girona-tour-a-pie-grupo-reducido
-  - girona-juego-de-tronos-tour-grupo-reducido
-  - girona-costa-brava-grupo-reducido-recogida-hotel
-  - girona-figueres-dali-cadaques-desde-barcelona
-  - tour-autoguiado-daremapp-girona
   - girona-catedral-museu-art-sant-feliu-entrada
   - girona-judia-tour-guiado-call
+  - girona-costa-brava-grupo-reducido-recogida-hotel
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-figueres-dali-cadaques-desde-barcelona
+  - tour-autoguiado-daremapp-girona
+imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
+imagen_alt: "El río Onyar y sus casas de colores en Girona"
 ---
 
 **Girona se ve bien en un día.** Su casco antiguo es compacto y se recorre a pie: la catedral, El Call, las casas de colores del Onyar y la muralla. Está a 38 minutos de Barcelona en AVE.
@@ -50,6 +52,8 @@ actividades:
 | --- | --- | --- |
 | Lo esencial con guía | [Tour a pie por el Barri Vell en grupo reducido](/ciudades/girona/actividades/girona-tour-a-pie-grupo-reducido), 4,8★ (826) | 35 € |
 | Para fans de la serie | [Tour de Juego de Tronos](/ciudades/girona/actividades/girona-juego-de-tronos-tour-grupo-reducido), 4,9★ (951) | 35 € |
+| Catedral y museos | [Catedral, Museu d'Art y Sant Feliu](/ciudades/girona/actividades/girona-catedral-museu-art-sant-feliu-entrada), 4,5★ (195) | 12 € |
+| Barrio judío con guía | [Tour por la Girona judía y el Call](/ciudades/girona/actividades/girona-judia-tour-guiado-call), 4,9★ (140) | 45 € |
 | A tu ritmo | [Audioguía autoguiada con la app DareMapp](/ciudades/girona/actividades/tour-autoguiado-daremapp-girona) | 5 € |
 | Desde Barcelona con Costa Brava | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 99 € |
 | Desde Barcelona con Dalí | [Girona, Figueres, Dalí y Cadaqués](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |

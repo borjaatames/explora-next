@@ -35,6 +35,8 @@ faq:
   respuesta: Desde unos 18 € por persona para 30 minutos, en montura de dos plazas y con guías. Los menores de 3 años montan gratis con sus padres.
 - pregunta: ¿Cómo llegar a las Dunas de Maspalomas?
   respuesta: Los accesos más cómodos son el mirador junto al centro de interpretación de Playa del Inglés, la playa de Maspalomas junto al faro y la propia Playa del Inglés. Hay guaguas desde Las Palmas y desde todo el sur.
+imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
+imagen_alt: "Dunas de Maspalomas al atardecer"
 ---
 
 **Las Dunas de Maspalomas son la imagen de Gran Canaria**: más de 400 hectáreas de arena que se mueven con el viento entre Playa del Inglés y el faro de Maspalomas. Son una **Reserva Natural Especial** y, aunque parezcan un desierto libre, tienen normas claras. Esta guía te explica cómo disfrutarlas sin multas ni golpes de calor.

@@ -40,6 +40,8 @@ faq:
     respuesta: "March to June and September-October are ideal: good weather, a warming (or still-warm) beach, and shorter queues than in peak summer. July and August work for the beach and water parks, but the city centre wears kids out at midday."
   - pregunta: "Do you need to book ahead to eat paella with kids in Valencia?"
     respuesta: "Yes — book and go early (2 PM), because rice dishes take 30-40 minutes to cook. With hungry kids, order some tapas to bridge the wait."
+imagen_portada: "/images/guias/valencia-con-ninos.jpg"
+imagen_alt: "Elephants at Bioparc Valencia"
 ---
 
 **Valencia is one of the best cities in Spain to travel with kids.** It's flat, safe, with an urban beach, a nine-kilometre park for cycling and two of the country's great family attractions: the **Oceanogràfic** (the largest aquarium in Europe) and the **Bioparc**. This guide lays out the plans that actually work with little ones, without forcing the adult itinerary or ending the day dragging everyone home.

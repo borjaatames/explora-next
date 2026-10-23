@@ -26,11 +26,11 @@ respuestaCorta: '**Two or three days** cover the essentials: **Palma** and its c
 actividades:
   - catedral-palma-mallorca-entrada
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
+  - cuevas-del-drach-concierto-barca-desde-palma
+  - cartuja-valldemossa-entrada-audioguia
   - barco-soller-sa-calobra
   - tren-soller-tranvia-medio-dia-desde-el-norte
-  - cuevas-del-drach-concierto-barca-desde-palma
   - cuevas-del-drach-desde-alcudia
-  - cartuja-valldemossa-entrada-audioguia
 ---
 
 **Mallorca is far more than sun and sand.** It blends a capital with one of the most impressive Gothic cathedrals in Europe, a World Heritage mountain range and some of the most beautiful coves in the Mediterranean. The average visitor's mistake is staying in a hotel on Palma bay or in Magaluf and never seeing the real island. This guide arranges it by area so you make the most of two or three days, or a whole week.

@@ -31,6 +31,8 @@ actividades:
   - oceanografic-museo-ciencias-entrada-combinada
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   - hemisferic-museu-ciencies-entrada
+imagen_portada: "/images/guias/valencia-en-2-dias.jpg"
+imagen_alt: "Valencia's Silk Exchange (La Lonja)"
 ---
 
 **Two days in Valencia go a long way.** The city is flat and compact, with the old town and the City of Arts joined by a nine-kilometre park where the river once ran. The trap is stopping at Calatrava's buildings: the soul of the city is in the Central Market, the Silk Exchange, El Carmen and Ruzafa, and in the rice fields of La Albufera where paella was born. Two days cover both.

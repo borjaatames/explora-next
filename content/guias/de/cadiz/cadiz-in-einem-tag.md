@@ -24,12 +24,12 @@ slugs:
 reservasArriba: true
 actividades:
   - tour-guiado-cadiz-centro
+  - torre-tavira-catedral-cadiz-visita-guiada
   - catamaran-cadiz-atardecer
-  - catamaran-bahia-de-cadiz
   - bodegas-fundador-jerez-cata
+  - catamaran-bahia-de-cadiz
   - yeguada-de-la-cartuja-jerez
   - excursion-pueblos-blancos-desde-cadiz
-  - torre-tavira-catedral-cadiz-visita-guiada
   - tarifa-baelo-claudia-zahara-excursion
 ---
 

@@ -29,6 +29,8 @@ actividades:
   - tour-tuk-tuk-valencia-centro-playas
   - paseo-catamaran-valencia-atardecer
   - hemisferic-museu-ciencies-entrada
+imagen_portada: "/images/guias/valencia-con-ninos.jpg"
+imagen_alt: "Elefanten im Bioparc Valencia"
 ---
 
 **Valencia gehört zu den besten Städten Spaniens, um mit Kindern zu reisen.** Es ist flach, sicher, hat einen Stadtstrand, einen neun Kilometer langen Park zum Radfahren und zwei der großen familienfreundlichen Attraktionen des Landes: das **Oceanogràfic** (das größte Aquarium Europas) und den **Bioparc**. Dieser Ratgeber ordnet die Pläne, die mit Kleinen wirklich funktionieren, ohne das Erwachsenenprogramm zu erzwingen oder den Tag mit müden Beinen zu beenden.

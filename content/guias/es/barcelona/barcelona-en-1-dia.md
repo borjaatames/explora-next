@@ -25,12 +25,12 @@ slugs:
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-con-torre
   - casa-batllo-entrada-con-audioguia
-  - casa-mila-la-pedrera-entrada-audioguia
-  - catedral-de-barcelona-entrada
   - tour-casco-antiguo-barri-gotico-a-pie
   - park-guell-entrada-zona-monumental
+  - sagrada-familia-tour-con-torre
+  - casa-mila-la-pedrera-entrada-audioguia
+  - catedral-de-barcelona-entrada
 ---
 
 Barcelona en un día desde Madrid es **factible con disciplina**: el AVE tarda 2 h 30, así que saliendo a las 6:30 tienes 12 horas en la ciudad. Pero no es Sevilla: los monumentos están repartidos (Sagrada Família en el Eixample, Park Güell en el Carmel, el Gótico en Ciutat Vella), hace falta metro entre ellos y casi todo exige **entrada online reservada con días de antelación**. La regla es renunciar: cuatro paradas buenas valen más que ocho mediocres. En **2026, Año Gaudí**, con la Torre de Jesús recién inaugurada (10 de junio), reserva con más antelación todavía.

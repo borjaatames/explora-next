@@ -22,7 +22,7 @@ slugs:
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
 reservasArriba: true
-respuestaCorta: 'Die offiziellen Tickets (22,27 €) gibt es **90 Tage im Voraus**, und die Vormittage sind Wochen vorher ausverkauft. **Wenn keine mehr da sind**, sichert dir eine Führung mit Ticket die Nasridenpaläste zu fester Uhrzeit. Plane etwa 4 Stunden ein und komm rechtzeitig: Für die Nasridenpaläste hast du nur 30 Minuten Spielraum.'
+respuestaCorta: 'Die offiziellen Tickets (22,27 €) gibt es **bis zu drei Monate im Voraus**, und die Vormittage sind Wochen vorher ausverkauft. **Wenn keine mehr da sind**, sichert dir eine Führung mit Ticket die Nasridenpaläste zu fester Uhrzeit. Plane etwa 4 Stunden ein und komm rechtzeitig: Für die Nasridenpaläste hast du nur 30 Minuten Spielraum.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -89,7 +89,7 @@ Das ist der wichtigste Teil dieses gesamten Guides, und hier scheitern die meist
 
 | Vorlaufzeit | Wahrscheinlichkeit |
 | --- | --- |
-| 90 Tage (3 Monate, maximal erlaubt) | Garantiert für jedes Zeitfenster |
+| Rund 3 Monate (maximal möglich) | Garantiert für jedes Zeitfenster |
 | 60–90 Tage | Hoch, du wählst dein bevorzugtes Zeitfenster |
 | 30–60 Tage | Mittel, eventuell bleiben nur schlechte Zeitfenster |
 | 7–30 Tage | Niedrig in der Mittel- bis Hochsaison. Unwahrscheinlich in der Hochsaison |
@@ -216,6 +216,6 @@ Die häufigste Frage: **Lohnt sich der Aufpreis für eine Führung?** Kommt dara
 
 ## In einem Satz
 
-Die Alhambra belohnt, wer vorbereitet ankommt, und bestraft, wer improvisiert: 60–90 Tage im Voraus buchen, eine Stunde vor dem Nasriden-Zeitfenster am Gelände sein, bequeme Schuhe, Wasser, Ausweis, und mindestens ein Reiseführer-Kapitel vorher gelesen, um zu verstehen, was man sieht. Machst du das, verlässt du die Alhambra mit dem Verständnis, warum Granada den Lauf der europäischen Geschichte veränderte. Machst du es nicht, verlässt du sie mit dem Gefühl, nur einen hübschen Palast gesehen zu haben.
+Die Alhambra belohnt, wer vorbereitet ankommt, und bestraft, wer improvisiert: zwei bis drei Monate im Voraus buchen, eine Stunde vor dem Nasriden-Zeitfenster am Gelände sein, bequeme Schuhe, Wasser, Ausweis, und mindestens ein Reiseführer-Kapitel vorher gelesen, um zu verstehen, was man sieht. Machst du das, verlässt du die Alhambra mit dem Verständnis, warum Granada den Lauf der europäischen Geschichte veränderte. Machst du es nicht, verlässt du sie mit dem Gefühl, nur einen hübschen Palast gesehen zu haben.
 
 Verbringst du zwei Tage in Granada und möchtest die Alhambra in einen größeren Plan einbauen, findest du im [Guide Granada in 2 Tagen](/de/guides/granada/granada-in-2-tagen) die komplette Route.

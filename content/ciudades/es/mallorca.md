@@ -49,10 +49,12 @@ atracciones:
     imagen: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
     imagenAlt: "Bahía de Peguera en la costa suroeste de Mallorca"
 chipsFiltros:
+  - { label: "Palma y catedral", tag: "palma" }
   - { label: "Cuevas del Drach", tag: "cuevas-drach" }
   - { label: "Tramuntana y Sóller", tag: "tramuntana" }
   - { label: "Calas y barco", tag: "calas-playas" }
   - { label: "Parques y familias", tag: "parques" }
+  - { label: "Gastronomía", tag: "gastronomia" }
 ---
 
 Mallorca es la mayor de las Islas Baleares y uno de los grandes destinos del Mediterráneo, con la vibrante **Palma** como capital —algo más de 400.000 habitantes—. Es mucho más que sol y playa: combina calas de ensueño con una montaña declarada Patrimonio de la Humanidad.

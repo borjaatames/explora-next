@@ -36,6 +36,8 @@ faq:
   respuesta: Bei starkem Wind oder Eis schließt die Seilbahn, manchmal ohne Vorwarnung. Bei einem Ausflug gibt es eine Alternativroute, und der Seilbahnpreis wird erstattet.
 - pregunta: Ist Höhenkrankheit am Teide ein Risiko?
   respuesta: 'Auf 3.555 m gibt es weniger Sauerstoff: Müdigkeit oder Kopfschmerzen sind normal. Nicht empfohlen für Schwangere, Kinder unter 3 Jahren und Menschen mit Herz- oder Atemproblemen. Geh langsam und trink Wasser.'
+imagen_portada: "/images/guias/subir-al-teide.jpg"
+imagen_alt: "Der verschneite Teide über Las Cañadas"
 ---
 
 **Der Teide ist mit 3.715 m der höchste Berg Spaniens** (so misst ihn das spanische Instituto Geográfico Nacional; oft liest du 3.718 m) und das Herz eines Nationalparks mit Welterbe-Status. Man kann ihn auf viele Arten erleben: mit dem Auto durch Las Cañadas, mit der Seilbahn fast bis zum Gipfel, zu Fuß mit Genehmigung oder nachts unter den Sternen. Dieser Guide hilft dir bei der Wahl, mit den Zugangsregeln, die im Oktober 2026 gelten.

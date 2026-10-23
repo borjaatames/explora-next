@@ -1,0 +1,323 @@
+import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import {
+  obtenerCiudad,
+  obtenerTodosLosCaminosCiudades,
+} from "@/lib/ciudades";
+import { obtenerGuiasDeCiudad } from "@/lib/guias";
+import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
+import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
+import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
+import { slugParejaCiudad } from "@/lib/i18n/slugs";
+import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
+import { getDictionary } from "@/lib/i18n/getDictionary";
+import {
+  hreflangAlternates,
+  rutasPorIdioma,
+  urlActividadesDeCiudad,
+  urlAtraccionesDeCiudad,
+  urlCiudad,
+  urlGuiasDeCiudad,
+  urlIndiceCiudades,
+  prefijoIdioma,
+} from "@/lib/i18n/utils";
+import type { Idioma } from "@/lib/i18n/types";
+import HeroCiudad, { DatosClaveCiudad } from "@/components/ciudad/HeroCiudad";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
+
+type Props = {
+  params: { lang: string; ciudad: string };
+};
+
+export async function generateStaticParams() {
+  return obtenerTodosLosCaminosCiudades()
+    .filter((c) => c.idioma !== "es")
+    .map(({ idioma, ciudad }) => ({ lang: idioma, ciudad }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    return { title: "Not found" };
+  }
+  const lang: Idioma = params.lang;
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
+  if (!ciudad) return { title: "Not found" };
+
+  const url = `${SITE_URL}${ciudad.url}`;
+  const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
+  const titleSuffix =
+    lang === "en"
+      ? " | Travel guide"
+      : lang === "de"
+      ? " | Reiseführer"
+      : ` | ${getDictionary(lang).ciudades.tituloIndice}`;
+
+  return {
+    title: `${ciudad.nombre}${titleSuffix}`,
+    description: ciudad.descripcion,
+    keywords: ciudad.keywords,
+    robots: {
+      index: allowIndexing,
+      follow: allowIndexing,
+      googleBot: { index: allowIndexing, follow: allowIndexing },
+    },
+    alternates: {
+      canonical: url,
+      languages: hreflangAlternates((l) => {
+        const slugPareja = slugParejaCiudad(lang, params.ciudad, l);
+        return slugPareja ? urlCiudad(l, slugPareja) : null;
+      }),
+    },
+    openGraph: {
+      type: "website",
+      url,
+      title: `${ciudad.nombre} | ExploraSpain`,
+      description: ciudad.descripcion,
+      siteName: "ExploraSpain",
+      locale: IDIOMA_LOCALE[lang],
+      ...(ciudad.imagen
+        ? {
+            images: [
+              {
+                url: `${SITE_URL}${ciudad.imagen}`,
+                alt: ciudad.imagenAlt ?? ciudad.nombre,
+              },
+            ],
+          }
+        : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: ciudad.nombre,
+      description: ciudad.descripcion,
+    },
+  };
+}
+
+type Strings = {
+  guiasTitulo: string;
+  guiasDescripcion: string;
+  guiasCta: string;
+  guiasListaTitulo: string;
+  guiasVerTodas: string;
+  minLectura: string;
+  actividadesTitulo: string;
+  actividadesDescripcion: string;
+  actividadesCta: string;
+  atraccionesTitulo: string;
+  atraccionesDescripcion: string;
+  atraccionesCta: string;
+};
+
+function getStrings(lang: Idioma, nombreCiudad: string): Strings {
+  if (lang === "en") {
+    return {
+      guiasTitulo: `Guides for ${nombreCiudad}`,
+      guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
+      guiasCta: "View guides",
+      guiasListaTitulo: `${nombreCiudad} travel guides`,
+      guiasVerTodas: `All guides for ${nombreCiudad}`,
+      minLectura: "min read",
+      actividadesTitulo: `Things to do in ${nombreCiudad}`,
+      actividadesDescripcion: "Hand-picked tours and experiences. Free cancellation included.",
+      actividadesCta: "View activities",
+      atraccionesTitulo: `Attractions in ${nombreCiudad}`,
+      atraccionesDescripcion: "The must-see sights of the city, with photos and context.",
+      atraccionesCta: "View attractions",
+    };
+  }
+  if (lang === "de") {
+    return {
+      guiasTitulo: `Reiseführer für ${nombreCiudad}`,
+      guiasDescripcion: "Ehrliche Routen und praktische Tipps, um deine Reise gezielt zu planen.",
+      guiasCta: "Reiseführer ansehen",
+      guiasListaTitulo: `Reiseführer für ${nombreCiudad}`,
+      guiasVerTodas: `Alle Reiseführer für ${nombreCiudad}`,
+      minLectura: "Min. Lesezeit",
+      actividadesTitulo: `Aktivitäten in ${nombreCiudad}`,
+      actividadesDescripcion: "Handverlesene Touren und Erlebnisse. Kostenlose Stornierung inklusive.",
+      actividadesCta: "Aktivitäten ansehen",
+      atraccionesTitulo: `Sehenswürdigkeiten in ${nombreCiudad}`,
+      atraccionesDescripcion: "Die wichtigsten Sehenswürdigkeiten der Stadt, mit Fotos und Hintergrundinfos.",
+      atraccionesCta: "Sehenswürdigkeiten ansehen",
+    };
+  }
+  return {
+    guiasTitulo: `Guías de ${nombreCiudad}`,
+    guiasDescripcion: "Rutas con criterio y consejos honestos para planificar tu viaje.",
+    guiasCta: "Ver guías",
+    guiasListaTitulo: `Guías de ${nombreCiudad}`,
+    guiasVerTodas: `Ver todas las guías de ${nombreCiudad}`,
+    minLectura: "min lectura",
+    actividadesTitulo: `Actividades y tours en ${nombreCiudad}`,
+    actividadesDescripcion: "Tours seleccionados con criterio editorial. Reserva con cancelación gratis.",
+    actividadesCta: "Ver actividades",
+    atraccionesTitulo: `Atracciones de ${nombreCiudad}`,
+    atraccionesDescripcion: "Lo imprescindible que ver en la ciudad, con foto y contexto.",
+    atraccionesCta: "Ver atracciones",
+  };
+}
+
+export default async function CiudadPage({ params }: Props) {
+  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+    notFound();
+  }
+
+  const lang: Idioma = params.lang;
+  const dict = getDictionary(lang);
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
+  if (!ciudad) notFound();
+
+  const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
+  const indiceUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
+  const ciudadUrl = `${SITE_URL}${ciudad.url}`;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "TouristDestination",
+    name: ciudad.nombre,
+    description: ciudad.descripcion,
+    addressCountry: "ES",
+    url: ciudadUrl,
+    ...(ciudad.imagen ? { image: `${SITE_URL}${ciudad.imagen}` } : {}),
+  };
+
+  const breadcrumbsLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: dict.navegacion.inicio, item: homeUrl },
+      { "@type": "ListItem", position: 2, name: dict.navegacion.ciudades, item: indiceUrl },
+      { "@type": "ListItem", position: 3, name: ciudad.nombre, item: ciudadUrl },
+    ],
+  };
+
+  const strings = getStrings(lang, ciudad.nombre);
+  const guiasDeCiudad = obtenerGuiasDeCiudad(lang, params.ciudad);
+  const hayGuias = guiasDeCiudad.length > 0;
+  // La ficha de actividades solo existe (generateStaticParams) para
+  // ciudades con al menos una actividad publicada — si no hay ninguna,
+  // esa ruta hace notFound(). Por eso ocultamos el botón aquí en vez de
+  // enlazar a una página que no existe (mismo criterio que hayGuias /
+  // hayAtracciones más abajo).
+  const hayActividades =
+    obtenerListaActividadesPorCiudad(lang, params.ciudad).length > 0;
+  const urlGuias = urlGuiasDeCiudad(lang, params.ciudad);
+  const urlActividades = urlActividadesDeCiudad(lang, params.ciudad);
+  const urlAtracciones = urlAtraccionesDeCiudad(lang, params.ciudad);
+  const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
+  const numCards =
+    (hayGuias ? 1 : 0) + (hayActividades ? 1 : 0) + (hayAtracciones ? 1 : 0);
+  const gridClass =
+    numCards === 3
+      ? "grid grid-cols-1 md:grid-cols-3 gap-6"
+      : numCards === 2
+      ? "grid grid-cols-1 md:grid-cols-2 gap-6"
+      : "grid grid-cols-1 gap-6";
+
+  return (
+    <main className="min-h-screen bg-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
+      />
+
+      <HeroCiudad
+        idioma={lang}
+        nombre={ciudad.nombre}
+        descripcion={ciudad.descripcion}
+        comunidad={ciudad.comunidad}
+        imagen={ciudad.imagen}
+        imagenAlt={ciudad.imagenAlt}
+        migas={[
+          { label: dict.navegacion.inicio, href: prefijoIdioma(lang) || "/" },
+          { label: dict.navegacion.ciudades, href: urlIndiceCiudades(lang) },
+          { label: ciudad.nombre },
+        ]}
+        urlActividades={hayActividades ? urlActividades : undefined}
+        urlGuias={hayGuias ? urlGuias : undefined}
+        urlAtracciones={hayAtracciones ? urlAtracciones : undefined}
+      />
+      <DatosClaveCiudad idioma={lang} datos={ciudad.datosClave ?? []} />
+
+      <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
+        <div
+          className="prose-guia text-justify hyphens-auto"
+          dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+        />
+      </article>
+
+      <GuiasDeCiudadLista
+        guias={guiasDeCiudad}
+        titulo={strings.guiasListaTitulo}
+        urlTodas={urlGuias}
+        textoVerTodas={strings.guiasVerTodas}
+        textoMinLectura={strings.minLectura}
+      />
+
+      <section className="bg-slate-50 border-t border-slate-200">
+        <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">
+          <div className={gridClass}>
+            {hayGuias ? (
+              <CtaCiudadCard
+                href={urlGuias}
+                imagen={ciudad.imagenGuias}
+                imagenAlt={ciudad.imagenGuiasAlt}
+                titulo={strings.guiasTitulo}
+                descripcion={strings.guiasDescripcion}
+                cta={strings.guiasCta}
+                acento="sky"
+              />
+            ) : null}
+            {hayActividades ? (
+              <CtaCiudadCard
+                href={urlActividades}
+                imagen={ciudad.imagenActividades}
+                imagenAlt={ciudad.imagenActividadesAlt}
+                titulo={strings.actividadesTitulo}
+                descripcion={strings.actividadesDescripcion}
+                cta={strings.actividadesCta}
+                acento="amber"
+              />
+            ) : null}
+            {hayAtracciones ? (
+              <CtaCiudadCard
+                href={urlAtracciones}
+                imagen={ciudad.imagenAtracciones}
+                imagenAlt={ciudad.imagenAtraccionesAlt}
+                titulo={strings.atraccionesTitulo}
+                descripcion={strings.atraccionesDescripcion}
+                cta={strings.atraccionesCta}
+                acento="slate"
+              />
+            ) : null}
+          </div>
+        </div>
+      </section>
+
+      <div className="max-w-3xl mx-auto px-4 py-12 text-center">
+        <Link
+          href={urlIndiceCiudades(lang)}
+          className="text-sky-600 hover:text-sky-700 font-semibold"
+        >
+          ← {dict.ciudades.volverACiudades}
+        </Link>
+      </div>
+      <OtrosIdiomas
+        idioma={lang}
+        rutas={rutasPorIdioma((l) => {
+          const slugPareja = slugParejaCiudad(lang, params.ciudad, l);
+          return slugPareja ? urlCiudad(l, slugPareja) : null;
+        })}
+      />
+    </main>
+  );
+}

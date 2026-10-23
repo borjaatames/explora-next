@@ -25,15 +25,15 @@ reservasArriba: true
 respuestaCorta: 'Three days is the right length for a first visit: **day one Sagrada Familia and Casa Batlló**, day two Park Güell, Gràcia and sunset at the **Bunkers del Carmel**, day three the Gothic Quarter, El Born and Montjuïc. Book Sagrada Familia (from €26) and Park Güell (€18) **weeks ahead**: in high season both sell out up to 60 days before.'
 actividades:
   - entrada-sagrada-familia-audioguia
-  - sagrada-familia-tour-con-torre
   - casa-batllo-entrada-con-audioguia
-  - casa-mila-la-pedrera-entrada-audioguia
   - park-guell-entrada-zona-monumental
-  - teleferico-montjuic-barcelona-ticket
-  - catedral-de-barcelona-entrada
+  - montserrat-medio-dia-grupo-pequeno
   - tour-casco-antiguo-barri-gotico-a-pie
   - museo-picasso-tour-guiado-sin-colas
-  - montserrat-medio-dia-grupo-pequeno
+  - sagrada-familia-tour-con-torre
+  - casa-mila-la-pedrera-entrada-audioguia
+  - teleferico-montjuic-barcelona-ticket
+  - catedral-de-barcelona-entrada
   - mnac-museu-nacional-art-catalunya-entrada
   - casa-amatller-entrada-videoguia
   - fundacio-joan-miro-entrada

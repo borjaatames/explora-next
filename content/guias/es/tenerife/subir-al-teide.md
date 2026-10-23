@@ -36,6 +36,8 @@ faq:
   respuesta: El teleférico cierra con viento fuerte o hielo, a veces sin aviso. Si vas con excursión, te ofrecen ruta alternativa y te devuelven el importe del teleférico.
 - pregunta: ¿Es peligroso el mal de altura en el Teide?
   respuesta: 'A 3.555 m hay menos oxígeno: es normal notar fatiga o dolor de cabeza. No se recomienda a embarazadas, menores de 3 años ni personas con problemas cardíacos o respiratorios. Camina despacio y bebe agua.'
+imagen_portada: "/images/guias/subir-al-teide.jpg"
+imagen_alt: "El Teide nevado sobre Las Cañadas"
 ---
 
 **El Teide es el pico más alto de España (3.715 m**, la cifra medida por el Instituto Geográfico Nacional; a menudo verás 3.718 m) y el corazón de un Parque Nacional Patrimonio de la Humanidad. Se puede visitar de muchas formas: en coche por Las Cañadas, en teleférico casi hasta la cima, a pie con permiso o de noche bajo las estrellas. Esta guía te ayuda a elegir, con las normas de acceso vigentes en octubre de 2026.

@@ -23,7 +23,7 @@ type Props = {
  * hay gaId). El control de cookies se hace vía gtag('consent', 'update', ...).
  *
  * Flujo:
- *   1. app/layout.tsx pre-inicializa consent en "denied" antes que nada (script inline).
+ *   1. components/layout/RootDocument.tsx pre-inicializa consent en "denied" antes que nada (script inline).
  *   2. Aquí montamos GoogleAnalytics → gtag.js carga.
  *   3. Si el usuario ya había decidido en una visita anterior, sincronizamos
  *      el consent con su decisión guardada (granted/denied).

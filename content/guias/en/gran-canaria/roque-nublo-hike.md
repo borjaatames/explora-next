@@ -37,6 +37,8 @@ faq:
   respuesta: 'Not at La Goleta: that car park has been closed since 2025. Park at Cruz de Los Llanos (about 10 minutes by shuttle bus, or an hour on foot) or in Tejeda (about 30 minutes by bus).'
 - pregunta: Can you see Teide from Roque Nublo?
   respuesta: Yes, on clear days you can see Tenerife's Teide above the sea of clouds, especially at sunset and in winter.
+imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
+imagen_alt: "Roque Nublo on the summit of Gran Canaria"
 ---
 
 **Roque Nublo is the symbol of Gran Canaria**: a basalt monolith of around 80 metres whose top stands at 1,813 metres. Walking up to its base is one of the prettiest and easiest hikes in the Canaries, and on clear days it rewards you with Tenerife's Teide floating above the sea of clouds. Since 2025 the visit works differently: **you need a booking during the day and you can no longer park at the trailhead.**

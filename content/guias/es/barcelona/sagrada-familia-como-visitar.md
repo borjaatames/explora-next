@@ -1,7 +1,7 @@
 ---
 titulo: "Sagrada Familia: cómo visitarla bien (entradas y errores)"
 descripcion: "Cómo visitar la Sagrada Familia: precios oficiales 2026, qué torre subir, Hora del Silencio, Año Gaudí, código de vestimenta y errores típicos."
-respuestaCorta: 'Compra solo en **sagradafamilia.org** y con **4-6 semanas de antelación** (8-10 en julio y agosto): no hay taquilla. La **entrada básica con audioguía cuesta 26 €** y basta para una primera visita; con torre, 36 €. Reserva la **franja de las 9:00**, la Hora del Silencio, y calcula entre 1 h 30 y 2 horas dentro.'
+respuestaCorta: 'Compra solo en **sagradafamilia.org** y con **4-6 semanas de antelación** (en julio y agosto, en cuanto salgan, unos dos meses antes): no hay taquilla. La **entrada básica con audioguía cuesta 26 €** y basta para una primera visita; con torre, 36 €. Reserva la **franja de las 9:00**, la Hora del Silencio, y calcula entre 1 h 30 y 2 horas dentro.'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
 fecha: "2026-05-02"
@@ -31,7 +31,7 @@ faq:
   - pregunta: "¿Cuánto cuesta la entrada a la Sagrada Familia en 2026?"
     respuesta: "La entrada básica cuesta 26 € e incluye el acceso a la basílica más una audioguía descargable en 19 idiomas. Subir a una torre sube el precio a 36 €, y la visita guiada en grupo cuesta 30 € (40 € con torres). Los residentes en Barcelona tienen un 50% de descuento durante todo 2026, el Año Gaudí, escribiendo a residents@ext.sagradafamilia.org con justificante de empadronamiento."
   - pregunta: "¿Con cuánta antelación hay que reservar la Sagrada Familia?"
-    respuesta: "Reserva entre 4 y 6 semanas antes para conseguir buen horario, y entre 8 y 10 semanas si visitas en julio o agosto o durante el Año Gaudí 2026, Semana Santa o puentes españoles, cuando la demanda prácticamente se duplica. Las entradas solo se venden online en sagradafamilia.org: no hay venta en taquilla el mismo día."
+    respuesta: "Reserva entre 4 y 6 semanas antes para conseguir buen horario, y en cuanto salgan a la venta, unos dos meses antes, si visitas en julio o agosto, Semana Santa o puentes españoles, cuando la demanda prácticamente se duplica. Las entradas solo se venden online en sagradafamilia.org o con los códigos QR de compra que hay alrededor del templo, si queda aforo; no hay taquilla."
   - pregunta: "¿Merece la pena pagar más por subir a las torres de la Sagrada Familia?"
     respuesta: "Para la mayoría de primeras visitas, no. Se sube en ascensor pero se baja por una escalera de caracol estrecha, no es accesible en silla de ruedas ni recomendable con vértigo, y fotografías las agujas desde dentro en vez de verlas enteras. Lo que más importa, las vidrieras, ya está incluido en la entrada básica de 26 €. La subida (10 € extra) compensa sobre todo si te sobra presupuesto después de Park Güell o la Casa Batlló."
   - pregunta: "¿Cuál es el código de vestimenta en la Sagrada Familia?"
@@ -55,7 +55,7 @@ La Sagrada Família recibe 4,5 millones de visitantes al año y la mayoría sale
 
 Para una primera visita, la básica con audioguía basta. Jubilados 21 €, estudiantes y menores de 30 con Carnet Joven 24 €; **menores de 11 gratis** (dos por adulto) pero con ticket nominativo. En 2026 los residentes en Barcelona tienen un 50 % de descuento acreditando el padrón.
 
-**Solo se vende online** en `sagradafamilia.org`; no hay taquilla. Con 4-6 semanas eliges franja; con una semana, en temporada, ya es difícil; el mismo día, casi imposible. En Semana Santa, puentes y verano, duplica los plazos (8-10 semanas en julio y agosto). Si está agotada, los tours guiados tienen cupos propios: [qué entrada o tour elegir](/guias/barcelona/sagrada-familia-que-entrada-elegir).
+**Solo se vende online** en `sagradafamilia.org`; no hay taquilla. Con 4-6 semanas eliges franja; con una semana, en temporada, ya es difícil; el mismo día, casi imposible. En Semana Santa, puentes y verano, compra en cuanto salgan las entradas, unos dos meses antes. Si está agotada, los tours guiados tienen cupos propios: [qué entrada o tour elegir](/guias/barcelona/sagrada-familia-que-entrada-elegir). Y todas las opciones cuando no queda nada, en [qué hacer si las entradas están agotadas](/guias/barcelona/sagrada-familia-entradas-agotadas).
 
 [actividad: entrada-sagrada-familia-audioguia]
 

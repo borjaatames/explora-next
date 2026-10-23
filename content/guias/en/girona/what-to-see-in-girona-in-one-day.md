@@ -34,12 +34,14 @@ reservasArriba: true
 respuestaCorta: 'Yes, **Girona works in one day**: it''s **38 minutes from Barcelona by high-speed train** and the old town is walkable (the Cathedral, El Call, the colourful houses on the Onyar and the city walls). The Cathedral and Sant Feliu share one ticket (about €7.50, audio guide included); the walls and the Arab Baths are almost free.'
 actividades:
   - girona-tour-a-pie-grupo-reducido
-  - girona-juego-de-tronos-tour-grupo-reducido
-  - girona-costa-brava-grupo-reducido-recogida-hotel
-  - girona-figueres-dali-cadaques-desde-barcelona
-  - tour-autoguiado-daremapp-girona
   - girona-catedral-museu-art-sant-feliu-entrada
   - girona-judia-tour-guiado-call
+  - girona-costa-brava-grupo-reducido-recogida-hotel
+  - girona-juego-de-tronos-tour-grupo-reducido
+  - girona-figueres-dali-cadaques-desde-barcelona
+  - tour-autoguiado-daremapp-girona
+imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
+imagen_alt: "The Onyar river and its colourful houses in Girona"
 ---
 **Girona is easy to see in a day.** Its old town is compact and walkable: the cathedral, the Call, the colourful Onyar houses and the city walls. It's 38 minutes from Barcelona by high-speed train.
 
@@ -49,6 +51,8 @@ actividades:
 | --- | --- | --- |
 | The essentials with a guide | [Barri Vell small-group walking tour](/en/cities/girona/activities/girona-walking-tour-small-group), 4.8★ (826) | €35 |
 | For fans of the show | [Game of Thrones tour](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4.9★ (951) | €35 |
+| Cathedral and museums | [Cathedral, Art Museum and Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4.5★ (195) | €12 |
+| Jewish quarter with a guide | [Jewish Girona and the Call tour](/en/cities/girona/activities/jewish-girona-guided-tour), 4.9★ (140) | €45 |
 | At your own pace | [Self-guided audio tour with the DareMapp app](/en/cities/girona/activities/self-guided-tour-daremapp-girona) | €5 |
 | From Barcelona with the Costa Brava | [Girona, Pals and Calella de Palafrugell small-group tour](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4.8★ (2,096) | €99 |
 | From Barcelona with Dalí | [Girona, Figueres, Dalí and Cadaqués](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €69 |
