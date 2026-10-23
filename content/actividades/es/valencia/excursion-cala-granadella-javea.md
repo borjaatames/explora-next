@@ -45,15 +45,15 @@ imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
 - src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia, foto 1 de 5
+  alt: "Aguas turquesa de la cala Granadella"
 - src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia, foto 2 de 5
+  alt: "Agua cristalina entre rocas en la Granadella"
 - src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia, foto 3 de 5
+  alt: "La cala Granadella entre acantilados"
 - src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia, foto 4 de 5
+  alt: "Playa de la Granadella con bañistas"
 - src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
-  alt: Excursión a la Cala Granadella desde Valencia, foto 5 de 5
+  alt: "Vista aérea de la cala Granadella"
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
   alt: Vista aerea de la Cala Granadella, con su playa y las montanas que la rodean
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp

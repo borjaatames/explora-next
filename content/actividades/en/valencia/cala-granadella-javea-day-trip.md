@@ -45,15 +45,15 @@ imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
 imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
 galeria:
 - src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
-  alt: Cala Granadella day trip from Valencia, photo 1 of 5
+  alt: "Turquoise water at Granadella cove"
 - src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
-  alt: Cala Granadella day trip from Valencia, photo 2 of 5
+  alt: "Crystal-clear water among rocks at Granadella"
 - src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
-  alt: Cala Granadella day trip from Valencia, photo 3 of 5
+  alt: "Granadella cove between cliffs"
 - src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
-  alt: Cala Granadella day trip from Valencia, photo 4 of 5
+  alt: "Granadella beach with swimmers"
 - src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
-  alt: Cala Granadella day trip from Valencia, photo 5 of 5
+  alt: "Aerial view of Granadella cove"
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
   alt: Aerial view of Cala Granadella, with its beach and the surrounding mountains
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp

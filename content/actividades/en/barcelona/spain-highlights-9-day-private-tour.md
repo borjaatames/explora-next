@@ -68,15 +68,15 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
 imagenAlt: Barcelona's Sagrada Familia, one of the stops on the Spain tour
 galeria:
 - src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
-  alt: Spain 9-day private tour, photo 1 of 5
+  alt: "Facade of Seville Cathedral"
 - src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
-  alt: Spain 9-day private tour, photo 2 of 5
+  alt: "Tower of Plaza de España in Seville"
 - src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
-  alt: Spain 9-day private tour, photo 3 of 5
+  alt: "View of Granada's Albaicín"
 - src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
-  alt: Spain 9-day private tour, photo 4 of 5
+  alt: "The Alhambra's Alcazaba with Granada behind"
 - src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
-  alt: Spain 9-day private tour, photo 5 of 5
+  alt: "Gateway into the Alhambra"
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Towers of the Sagrada Familia with a construction crane, at dusk
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp

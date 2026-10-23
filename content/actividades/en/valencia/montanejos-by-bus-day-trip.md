@@ -44,7 +44,7 @@ imagen: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.we
 imagenAlt: "The Fuente de los Baños pool in Montanejos"
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
-  alt: "Montanejos by bus day trip, photo 1 of 1"
+  alt: "Waterfall at Montanejos"
 - src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
   alt: "Mijares river running through Montanejos, among the mountains of Castellón"
 - src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp

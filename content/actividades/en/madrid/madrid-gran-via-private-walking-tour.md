@@ -62,15 +62,15 @@ imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.we
 imagenAlt: "Madrid's Gran Vía with its historic buildings and avenue traffic"
 galeria:
 - src: https://imgcdn.bokun.tools/ec298125-bc0c-4877-b1ec-1dcd41fc08f2.jpg
-  alt: Gran Vía private walking tour, Madrid, photo 1 of 5
+  alt: "Telefónica Building on Gran Vía"
 - src: https://imgcdn.bokun.tools/f967b27b-ce18-4427-bf30-c1412a783e94.jpg
-  alt: Gran Vía private walking tour, Madrid, photo 2 of 5
+  alt: "Dome of the Metrópolis building"
 - src: https://imgcdn.bokun.tools/7e10b32d-ee1f-4629-8e51-7a7dfe3e8238.jpg
-  alt: Gran Vía private walking tour, Madrid, photo 3 of 5
+  alt: "Historic building on Gran Vía"
 - src: https://imgcdn.bokun.tools/66713f56-a58f-4f2c-b887-8c8b3356edd2.jpg
-  alt: Gran Vía private walking tour, Madrid, photo 4 of 5
+  alt: "Carrión Building and Plaza del Callao"
 - src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
-  alt: Gran Vía private walking tour, Madrid, photo 5 of 5
+  alt: "Facade of a Gran Vía building"
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
   alt: Aerial view of Madrid's Gran Via at dusk, with the Metropolis building
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp

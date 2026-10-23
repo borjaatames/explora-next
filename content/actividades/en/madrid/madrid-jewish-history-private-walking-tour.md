@@ -60,13 +60,13 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2
 imagenAlt: "Historic streets of central Madrid"
 galeria:
 - src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
-  alt: Jewish history private walking tour, Madrid, photo 1 of 4
+  alt: "Historic brick building in central Madrid"
 - src: https://imgcdn.bokun.tools/4bbb1531-f10a-4c51-9d03-8ed595ff00bf.jpg
-  alt: Jewish history private walking tour, Madrid, photo 2 of 4
+  alt: "Brick church in central Madrid"
 - src: https://imgcdn.bokun.tools/fb9bc168-1926-4ae4-9a48-6ac589e5d6cf.jpg
-  alt: Jewish history private walking tour, Madrid, photo 3 of 4
+  alt: "Santa Cruz Palace in central Madrid"
 - src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
-  alt: Jewish history private walking tour, Madrid, photo 4 of 4
+  alt: "Central Madrid street with brick facades"
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
   alt: Plaza de la Villa in Madrid, with the statue of Alvaro de Bazan and the Torreon de los Lujanes tower
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp

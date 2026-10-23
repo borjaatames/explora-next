@@ -101,15 +101,15 @@ imagenAlt: "Masía catalana del siglo XII con viñedos en la comarca del Bages"
 
 galeria:
 - src: https://imgcdn.bokun.tools/385b1052-e05a-4e23-87d0-00135808437c.jpg
-  alt: Montserrat con masía del Bages y maridaje de vinos, foto 1 de 5
+  alt: "Paseo entre los viñedos de la masía del Bages"
 - src: https://imgcdn.bokun.tools/00de596f-5a97-4b80-94ff-826f4a96bd6f.jpg
-  alt: Montserrat con masía del Bages y maridaje de vinos, foto 2 de 5
+  alt: "Guía explicando las montañas de Montserrat al grupo"
 - src: https://imgcdn.bokun.tools/1c423c1a-f9e5-4787-8830-aec47db4d693.jpg
-  alt: Montserrat con masía del Bages y maridaje de vinos, foto 3 de 5
+  alt: "Cata de vinos en la masía"
 - src: https://imgcdn.bokun.tools/4c7590a1-fdf7-4844-930e-970e24819bb7.jpg
-  alt: Montserrat con masía del Bages y maridaje de vinos, foto 4 de 5
+  alt: "Grupo ante las agujas de Montserrat y el monasterio"
 - src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
-  alt: Montserrat con masía del Bages y maridaje de vinos, foto 5 de 5
+  alt: "Arcos con estatuas en el monasterio de Montserrat"
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp

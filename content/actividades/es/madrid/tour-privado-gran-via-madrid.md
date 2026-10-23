@@ -62,15 +62,15 @@ imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.we
 imagenAlt: "La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida"
 galeria:
 - src: https://imgcdn.bokun.tools/ec298125-bc0c-4877-b1ec-1dcd41fc08f2.jpg
-  alt: Tour privado por la Gran Vía de Madrid, foto 1 de 5
+  alt: "Edificio Telefónica en la Gran Vía"
 - src: https://imgcdn.bokun.tools/f967b27b-ce18-4427-bf30-c1412a783e94.jpg
-  alt: Tour privado por la Gran Vía de Madrid, foto 2 de 5
+  alt: "Cúpula del edificio Metrópolis"
 - src: https://imgcdn.bokun.tools/7e10b32d-ee1f-4629-8e51-7a7dfe3e8238.jpg
-  alt: Tour privado por la Gran Vía de Madrid, foto 3 de 5
+  alt: "Edificio histórico de la Gran Vía"
 - src: https://imgcdn.bokun.tools/66713f56-a58f-4f2c-b887-8c8b3356edd2.jpg
-  alt: Tour privado por la Gran Vía de Madrid, foto 4 de 5
+  alt: "Edificio Carrión y la plaza del Callao"
 - src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
-  alt: Tour privado por la Gran Vía de Madrid, foto 5 de 5
+  alt: "Fachada de un edificio de la Gran Vía"
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
   alt: Vista aerea de la Gran Via de Madrid al atardecer, con el edificio Metropolis
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp

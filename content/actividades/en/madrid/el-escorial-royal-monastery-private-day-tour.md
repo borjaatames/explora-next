@@ -65,15 +65,15 @@ imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
 imagenAlt: Facade of the Royal Monastery of San Lorenzo de El Escorial
 galeria:
 - src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
-  alt: El Escorial private day tour from Madrid, photo 1 of 5
+  alt: "Library of the El Escorial monastery"
 - src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
-  alt: El Escorial private day tour from Madrid, photo 2 of 5
+  alt: "Painting gallery at El Escorial"
 - src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg
-  alt: El Escorial private day tour from Madrid, photo 3 of 5
+  alt: "Royal Palace of Madrid from Plaza de la Armería"
 - src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
-  alt: El Escorial private day tour from Madrid, photo 4 of 5
+  alt: "Marble sculpture group seen on the tour"
 - src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg
-  alt: El Escorial private day tour from Madrid, photo 5 of 5
+  alt: "Painted ceilings inside El Escorial"
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
   alt: Statues of the Kings of Judah on the basilica facade of El Escorial Monastery
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp

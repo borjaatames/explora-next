@@ -57,13 +57,13 @@ imagen: "https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg"
 imagenAlt: Sesión de fotos privada Montserrat Signature, excursión desde Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
-  alt: "Paisaje de montaña de Montserrat durante la sesión de fotos, foto 1 de 4"
+  alt: "Pareja abrazada en el atrio de Montserrat"
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg
-  alt: "Fotografía editada en el Monasterio de Montserrat, foto 2 de 4"
+  alt: "Pareja de novios fotografiada en Montserrat"
 - src: https://imgcdn.bokun.tools/3aff3e60-d3a2-499b-aff2-cd9288b975e4.jpg
-  alt: "Momento capturado en Montserrat con vistas a la montaña, foto 3 de 4"
+  alt: "Sesión de fotos bajo los arcos de Montserrat"
 - src: https://imgcdn.bokun.tools/124e91c5-b87d-42e6-a90d-e12a3f7235c9.jpg
-  alt: "Detalle de la sesión de fotos Signature en Montserrat, foto 4 de 4"
+  alt: "Pareja en un mirador de Montserrat"
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
   alt: "Claustro del Monasterio de Montserrat con arcos de piedra y galería cubierta"
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp

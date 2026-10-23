@@ -68,15 +68,15 @@ imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
 imagenAlt: La Sagrada Familia de Barcelona, una de las paradas del tour por España
 galeria:
 - src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
-  alt: Tour privado de 9 días por España, foto 1 de 5
+  alt: "Fachada de la catedral de Sevilla"
 - src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
-  alt: Tour privado de 9 días por España, foto 2 de 5
+  alt: "Torre de la plaza de España de Sevilla"
 - src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
-  alt: Tour privado de 9 días por España, foto 3 de 5
+  alt: "Vista del Albaicín de Granada"
 - src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
-  alt: Tour privado de 9 días por España, foto 4 de 5
+  alt: "Alcazaba de la Alhambra con Granada al fondo"
 - src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
-  alt: Tour privado de 9 días por España, foto 5 de 5
+  alt: "Puerta de acceso a la Alhambra"
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp

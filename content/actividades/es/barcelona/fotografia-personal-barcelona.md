@@ -64,15 +64,15 @@ galeria:
 - src: "/images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
   alt: "Barrio Gotico Barcelona Explore Narrow Historic Street"
 - src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-  alt: Fotografía tomada junto a la Sagrada Familia, foto 1 de 5
+  alt: "Grupo de amigas bajo el Arco de Triunfo de Barcelona"
 - src: https://imgcdn.bokun.tools/3c940b4e-9a54-4f89-948e-c6b83a6315ab.jpg
-  alt: Sesión de fotos en el Barrio Gótico de Barcelona, foto 2 de 5
+  alt: "Retrato junto a la Sagrada Familia"
 - src: https://imgcdn.bokun.tools/071a5473-f0cd-455c-824d-195c26691b88.jpg
-  alt: Fotografía editada en Park Güell, Barcelona, foto 3 de 5
+  alt: "Amigas posando con la Sagrada Familia al fondo"
 - src: https://imgcdn.bokun.tools/72057d2a-12e3-4cfd-9fb5-ba5cc287c966.jpg
-  alt: Momento capturado durante la sesión personal en Barcelona, foto 4 de 5
+  alt: "Pareja entre pompas de jabón en la Sagrada Familia"
 - src: https://imgcdn.bokun.tools/ea896ba5-b1a6-4bf2-a6e9-6d45f2a05d5c.jpg
-  alt: Detalle de la sesión de fotografía personal en Barcelona, foto 5 de 5
+  alt: "Retrato con pompas de jabón en un parque de Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

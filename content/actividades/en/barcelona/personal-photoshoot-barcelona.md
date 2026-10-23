@@ -64,15 +64,15 @@ galeria:
 - src: "/images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
   alt: "Barrio Gotico Barcelona Explore Narrow Historic Street"
 - src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-  alt: Photo taken outside the Sagrada Familia, photo 1 of 5
+  alt: "Group of friends under Barcelona's Arc de Triomf"
 - src: https://imgcdn.bokun.tools/3c940b4e-9a54-4f89-948e-c6b83a6315ab.jpg
-  alt: Photo session in Barcelona's Gothic Quarter, photo 2 of 5
+  alt: "Portrait beside the Sagrada Familia"
 - src: https://imgcdn.bokun.tools/071a5473-f0cd-455c-824d-195c26691b88.jpg
-  alt: Edited photo taken at Park Güell, Barcelona, photo 3 of 5
+  alt: "Friends posing with the Sagrada Familia behind"
 - src: https://imgcdn.bokun.tools/72057d2a-12e3-4cfd-9fb5-ba5cc287c966.jpg
-  alt: Moment captured during the personal session in Barcelona, photo 4 of 5
+  alt: "Couple among soap bubbles at the Sagrada Familia"
 - src: https://imgcdn.bokun.tools/ea896ba5-b1a6-4bf2-a6e9-6d45f2a05d5c.jpg
-  alt: Detail shot from the personal photoshoot in Barcelona, photo 5 of 5
+  alt: "Portrait with soap bubbles in a Barcelona park"
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -70,15 +70,15 @@ imagen: "/images/actividades/barcelona/barcos/barcos-velero-atardecer.webp"
 imagenAlt: "Sailboat at sunset off the Barcelona coast"
 galeria:
 - src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
-  alt: "Barcelona sunset sailing experience, photo 1 of 5"
+  alt: "Guests watching the sunset from the sailboat"
 - src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
-  alt: "Barcelona sunset sailing experience, photo 2 of 5"
+  alt: "Sailboat silhouetted against the sunset"
 - src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
-  alt: "Barcelona sunset sailing experience, photo 3 of 5"
+  alt: "Sunset from the sailboat deck"
 - src: https://imgcdn.bokun.tools/740143a2-08a4-4ea5-a6cd-d9c69fb1db12.jpg
-  alt: "Barcelona sunset sailing experience, photo 4 of 5"
+  alt: "Sailboats moored in Barcelona harbour at sunset"
 - src: https://imgcdn.bokun.tools/d96e5712-3550-494f-af18-2999c7d413dc.jpg
-  alt: "Barcelona sunset sailing experience, photo 5 of 5"
+  alt: "Snacks served on the sailboat deck"
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
   alt: "Sailboat cruising off the Barcelona coast at sunset, with the sun reflecting on the sea"
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp

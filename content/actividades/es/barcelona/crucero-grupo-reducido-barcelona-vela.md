@@ -68,15 +68,15 @@ imagen: "/images/actividades/barcelona/barcos/barcos-velero-mar.webp"
 imagenAlt: "Velero navegando frente a Barcelona"
 galeria:
 - src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
-  alt: "Crucero en velero en grupo reducido, Barcelona, foto 1 de 5"
+  alt: "Velero navegando frente a la costa de Barcelona"
 - src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
-  alt: "Crucero en velero en grupo reducido, Barcelona, foto 2 de 5"
+  alt: "Pasajera en la proa del velero con Barcelona al fondo"
 - src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
-  alt: "Crucero en velero en grupo reducido, Barcelona, foto 3 de 5"
+  alt: "Pasajeros saltando al mar desde el velero"
 - src: https://imgcdn.bokun.tools/1bdd1e38-0107-49c1-a661-bed096539b60.jpg
-  alt: "Crucero en velero en grupo reducido, Barcelona, foto 4 de 5"
+  alt: "Patrón al timón del velero"
 - src: https://imgcdn.bokun.tools/b50e028c-5639-4ae4-a958-0bf9f6f195e7.jpg
-  alt: "Crucero en velero en grupo reducido, Barcelona, foto 5 de 5"
+  alt: "Velero con las velas desplegadas frente a Barcelona"
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
   alt: "Pasajera sonriendo a bordo de un velero con el skyline del puerto de Barcelona al fondo"
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp

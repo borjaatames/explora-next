@@ -68,15 +68,15 @@ imagen: "/images/actividades/barcelona/barcos/barcos-velero-mar.webp"
 imagenAlt: "Sailboat sailing off Barcelona"
 galeria:
 - src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
-  alt: "Barcelona small-group sailing cruise, photo 1 of 5"
+  alt: "Sailboat cruising off the Barcelona coast"
 - src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
-  alt: "Barcelona small-group sailing cruise, photo 2 of 5"
+  alt: "Passenger on the bow with Barcelona behind"
 - src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
-  alt: "Barcelona small-group sailing cruise, photo 3 of 5"
+  alt: "Passengers jumping into the sea from the sailboat"
 - src: https://imgcdn.bokun.tools/1bdd1e38-0107-49c1-a661-bed096539b60.jpg
-  alt: "Barcelona small-group sailing cruise, photo 4 of 5"
+  alt: "Skipper at the helm of the sailboat"
 - src: https://imgcdn.bokun.tools/b50e028c-5639-4ae4-a958-0bf9f6f195e7.jpg
-  alt: "Barcelona small-group sailing cruise, photo 5 of 5"
+  alt: "Sailboat under full sail off Barcelona"
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
   alt: "Passenger smiling aboard a sailboat with the Barcelona port skyline in the background"
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp

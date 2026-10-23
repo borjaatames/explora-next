@@ -105,13 +105,13 @@ imagenAlt: "Vehículo privado con guía en el complejo del monasterio de Montser
 
 galeria:
 - src: https://imgcdn.bokun.tools/80bfa4ed-213d-478e-94ff-0010a7d96d0a.jpg
-  alt: Tour privado a Montserrat con recogida en hotel, foto 1 de 4
+  alt: "Monasterio de Montserrat bajo las montañas"
 - src: https://imgcdn.bokun.tools/ca02199c-32ac-4dc9-9765-34b7904a543b.jpg
-  alt: Tour privado a Montserrat con recogida en hotel, foto 2 de 4
+  alt: "Atrio de la basílica de Montserrat"
 - src: https://imgcdn.bokun.tools/0fa5951b-6760-4696-a43b-359ebabc050a.jpg
-  alt: Tour privado a Montserrat con recogida en hotel, foto 3 de 4
+  alt: "Arcos de piedra del monasterio de Montserrat"
 - src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
-  alt: Tour privado a Montserrat con recogida en hotel, foto 4 de 4
+  alt: "La Moreneta en el camarín de la basílica de Montserrat"
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
   alt: Estatua del Abat Oliba, fundador del monasterio de Montserrat, entre la vegetacion
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp

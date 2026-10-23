@@ -57,39 +57,19 @@ keywords:
 - barcelona tapas tour
 - evening tapas crawl
 - tapas and wine barcelona
-imagen: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
-imagenAlt: Narrow street in Barcelona's Gothic Quarter at dusk
+imagen: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
+imagenAlt: Toasting with wine in a tapas bar on the Barcelona evening tour
 galeria:
 - src: https://imgcdn.bokun.tools/5c1402e6-e8df-4350-9b80-3a2426849395.jpeg
-  alt: Evening tapas & wine tour, Barcelona, photo 1 of 5
+  alt: "Tour group outside a tapas bar"
 - src: https://imgcdn.bokun.tools/318d9bd7-7208-4d0c-a090-144ec506c897.jpeg
-  alt: Evening tapas & wine tour, Barcelona, photo 2 of 5
+  alt: "Drinking wine from a porrón in a bodega"
 - src: https://imgcdn.bokun.tools/0ec26797-2071-4a52-94d9-7e4c24752979.jpeg
-  alt: Evening tapas & wine tour, Barcelona, photo 3 of 5
+  alt: "Plate of freshly carved Iberian ham"
 - src: https://imgcdn.bokun.tools/02d48709-4a2c-4925-8bb8-3c1d734ec81e.jpeg
-  alt: Evening tapas & wine tour, Barcelona, photo 4 of 5
-- src: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
-  alt: Evening tapas & wine tour, Barcelona, photo 5 of 5
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: Iberian ham and charcuterie stall at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
-  alt: Interior of a shop selling loose sweets and candy at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp
-  alt: Spice stall with garlic and dried chili peppers hanging at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
-  alt: Fresh bonito fish for sale at a fish stall in La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-st-josep-barcelona-hero.webp
-  alt: The stained-glass entrance sign of Mercat de Sant Josep - La Boqueria in Barcelona
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
-  alt: Display of colorful candy at a sweets stall in La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: Stained-glass crest with the crown and the name of Mercat de Sant Josep - La Boqueria, at the entrance
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
-  alt: Fruit and vegetable stall with hanging chili peppers at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-sant-josep-17-hero.webp
-  alt: Fresh seafood stall with shellfish and lobster at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
-  alt: Variety of loose olives at a stall in La Boqueria market
+  alt: "Guide holding a plate of ham in a tapas bar"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: Narrow street in Barcelona's Gothic Quarter at dusk
 publicada: true
 destacada: false
 fecha: '2026-06-18'

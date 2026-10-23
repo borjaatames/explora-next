@@ -60,13 +60,13 @@ imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2
 imagenAlt: "Calles históricas del centro de Madrid"
 galeria:
 - src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
-  alt: Tour privado de historia judía en Madrid, foto 1 de 4
+  alt: "Edificio histórico de ladrillo en el centro de Madrid"
 - src: https://imgcdn.bokun.tools/4bbb1531-f10a-4c51-9d03-8ed595ff00bf.jpg
-  alt: Tour privado de historia judía en Madrid, foto 2 de 4
+  alt: "Iglesia de ladrillo en el centro de Madrid"
 - src: https://imgcdn.bokun.tools/fb9bc168-1926-4ae4-9a48-6ac589e5d6cf.jpg
-  alt: Tour privado de historia judía en Madrid, foto 3 de 4
+  alt: "Palacio de Santa Cruz, en el centro de Madrid"
 - src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
-  alt: Tour privado de historia judía en Madrid, foto 4 de 4
+  alt: "Calle del centro de Madrid con fachadas de ladrillo"
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
   alt: Plaza de la Villa de Madrid, con la estatua de Alvaro de Bazan y el Torreon de los Lujanes
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp

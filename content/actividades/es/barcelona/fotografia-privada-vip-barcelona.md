@@ -57,13 +57,13 @@ imagen: "https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg"
 imagenAlt: Sesión de fotos privada VIP en Barcelona junto a la Sagrada Familia
 galeria:
 - src: https://imgcdn.bokun.tools/86766be2-5ed0-486e-a5c4-39025a205491.jpg
-  alt: "Fotógrafo profesional durante la sesión privada en Barcelona, foto 1 de 4"
+  alt: "Amigas posando con la Sagrada Familia al fondo"
 - src: https://imgcdn.bokun.tools/8ee67383-b1c7-4b11-8e9f-b83c9894c7a0.jpg
-  alt: "Fotografía editada de la sesión privada VIP en Barcelona, foto 2 de 4"
+  alt: "Retrato junto a la Sagrada Familia"
 - src: https://imgcdn.bokun.tools/28df9fcf-8e1e-4822-8fc8-7b8509e7dccf.jpg
-  alt: "Escenario icónico de Barcelona durante la sesión de fotos, foto 3 de 4"
+  alt: "Pareja en la cascada del parque de la Ciutadella"
 - src: https://imgcdn.bokun.tools/1a8bd2cf-3c54-477e-858a-b4be659f64b4.jpg
-  alt: "Detalle de la sesión de fotos privada VIP en Barcelona, foto 4 de 4"
+  alt: "Retrato ante una portada gótica del Barrio Gótico"
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: "Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo"
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp

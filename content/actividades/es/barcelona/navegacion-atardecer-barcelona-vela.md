@@ -70,15 +70,15 @@ imagen: "/images/actividades/barcelona/barcos/barcos-velero-atardecer.webp"
 imagenAlt: "Velero al atardecer frente a la costa de Barcelona"
 galeria:
 - src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
-  alt: "Navegación al atardecer en Barcelona, foto 1 de 5"
+  alt: "Pasajeros viendo la puesta de sol desde el velero"
 - src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
-  alt: "Navegación al atardecer en Barcelona, foto 2 de 5"
+  alt: "Velero recortado contra la puesta de sol"
 - src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
-  alt: "Navegación al atardecer en Barcelona, foto 3 de 5"
+  alt: "Atardecer desde la cubierta del velero"
 - src: https://imgcdn.bokun.tools/740143a2-08a4-4ea5-a6cd-d9c69fb1db12.jpg
-  alt: "Navegación al atardecer en Barcelona, foto 4 de 5"
+  alt: "Veleros amarrados en el puerto de Barcelona al atardecer"
 - src: https://imgcdn.bokun.tools/d96e5712-3550-494f-af18-2999c7d413dc.jpg
-  alt: "Navegación al atardecer en Barcelona, foto 5 de 5"
+  alt: "Aperitivo servido en la cubierta del velero"
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
   alt: "Velero navegando frente a la costa de Barcelona al atardecer, con el sol reflejado en el mar"
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp

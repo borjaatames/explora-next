@@ -56,13 +56,13 @@ imagen: "https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg"
 imagenAlt: Sesión de fotos rápida de 20 minutos en Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/40b8a734-bfbb-4d2c-b166-9517b9c4d354.jpg
-  alt: "Momento espontáneo captado durante la sesión rápida en Barcelona, foto 1 de 4"
+  alt: "Pompas de jabón en una sesión de fotos frente a la Sagrada Familia"
 - src: https://imgcdn.bokun.tools/966da696-a772-45b9-a42a-5be0a0fd4110.jpg
-  alt: "Fotografía natural tomada cerca de la Sagrada Familia, foto 2 de 4"
+  alt: "Pareja entre pompas de jabón en la Sagrada Familia"
 - src: https://imgcdn.bokun.tools/9caaaec9-b600-4e58-bc9b-dece7fb5c7b1.jpg
-  alt: "Recuerdo editado de la sesión de fotos rápida en Barcelona, foto 3 de 4"
+  alt: "Grupo de amigas bajo el Arco de Triunfo de Barcelona"
 - src: https://imgcdn.bokun.tools/f49d2e55-64f9-41d2-825b-432c99c7b860.jpg
-  alt: "Detalle de la sesión de 20 minutos en Barcelona, foto 4 de 4"
+  alt: "Familia posando en una escalinata de azulejos"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
   alt: "Arcos del claustro de la Catedral de Barcelona y su jardín"
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp

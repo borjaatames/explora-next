@@ -69,15 +69,15 @@ imagen: "/images/actividades/barcelona/barcos/barcos-lancha-costa.webp"
 imagenAlt: "Speedboat off the Barcelona coast"
 galeria:
 - src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
-  alt: "Barcelona high-speed powerboat ride, photo 1 of 5"
+  alt: "Speedboat with passengers in life jackets racing across the sea"
 - src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
-  alt: "Barcelona high-speed powerboat ride, photo 2 of 5"
+  alt: "RIB speedboat cutting across the sea off Barcelona"
 - src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
-  alt: "Barcelona high-speed powerboat ride, photo 3 of 5"
+  alt: "Smiling passengers aboard the speedboat"
 - src: https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg
-  alt: "Barcelona high-speed powerboat ride, photo 4 of 5"
+  alt: "The Barcelona coastline seen from the speedboat"
 - src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
-  alt: "Barcelona high-speed powerboat ride, photo 5 of 5"
+  alt: "Skipper explaining the route off Barcelona"
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
   alt: "Group wearing life jackets aboard a speedboat off the coast of Barcelona"
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp

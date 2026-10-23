@@ -57,8 +57,6 @@ imagenAlt: Copas de vino tinto español
 galeria:
 - src: https://imgcdn.bokun.tools/e34cb91c-3d13-4b0f-b891-934e8e469b1d.jpg
   alt: "Tortilla de patata con pan"
-- src: https://imgcdn.bokun.tools/5acd831f-a4df-4680-a195-a3554d83b94b.jpg
-  alt: "Mapa de las regiones vinícolas de España"
 - src: https://imgcdn.bokun.tools/f0d68712-5484-4d32-a589-2a8a9bc06291.jpg
   alt: "Botellas de vino de Ribera del Duero y Rioja"
 - src: https://imgcdn.bokun.tools/14311e83-bce4-44aa-ade7-9cce3f411183.jpg

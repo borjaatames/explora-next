@@ -61,15 +61,15 @@ imagen: "/images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.w
 imagenAlt: Barcelona's Boquería Market full of fresh produce stalls
 galeria:
 - src: https://imgcdn.bokun.tools/5d4c20ab-4401-4362-96fe-377b78cac9f2.jpeg
-  alt: Midday food & wine tour with the Boquería Market, photo 1 of 5
+  alt: "Tour group outside a tapas bar"
 - src: https://imgcdn.bokun.tools/57741ce2-c812-4933-b7f6-0d121cc20550.jpeg
-  alt: Midday food & wine tour with the Boquería Market, photo 2 of 5
+  alt: "Drinking wine from a porrón in a bodega"
 - src: https://imgcdn.bokun.tools/4238c556-4b96-4d5a-a7b6-851b459fc661.jpeg
-  alt: Midday food & wine tour with the Boquería Market, photo 3 of 5
+  alt: "Plate of freshly carved Iberian ham"
 - src: https://imgcdn.bokun.tools/33d1acca-8d37-4951-9f18-12a4164f18ee.jpeg
-  alt: Midday food & wine tour with the Boquería Market, photo 4 of 5
+  alt: "Guide holding a plate of ham in a tapas bar"
 - src: https://imgcdn.bokun.tools/7157a993-70b2-4ff7-80a2-c7b9030cd867.jpeg
-  alt: Midday food & wine tour with the Boquería Market, photo 5 of 5
+  alt: "Toasting with wine in a tapas bar"
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Iberian ham and charcuterie stall at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp

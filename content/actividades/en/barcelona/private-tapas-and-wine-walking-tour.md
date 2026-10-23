@@ -56,15 +56,15 @@ imagen: "/images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians
 imagenAlt: Barcelona's La Rambla with pedestrians at dusk
 galeria:
 - src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
-  alt: Private tapas & wine walking tour, Barcelona, photo 1 of 5
+  alt: "Group tasting tapas in a bar"
 - src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
-  alt: Private tapas & wine walking tour, Barcelona, photo 2 of 5
+  alt: "Guide with the group outside Barcelona Cathedral"
 - src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
-  alt: Private tapas & wine walking tour, Barcelona, photo 3 of 5
+  alt: "Vermouth and tapas at a bar counter"
 - src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
-  alt: Private tapas & wine walking tour, Barcelona, photo 4 of 5
+  alt: "Group in a bodega lined with wine bottles"
 - src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
-  alt: Private tapas & wine walking tour, Barcelona, photo 5 of 5
+  alt: "Entrance to a traditional bodega in the Gothic Quarter"
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Iberian ham and charcuterie stall at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
