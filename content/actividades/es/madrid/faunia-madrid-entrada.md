@@ -18,8 +18,8 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t402199/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Los Polos: réplica de la Antártida con seis especies de pingüino
-- La Jungla: selva tropical cubierta
+- "Los Polos: réplica de la Antártida con seis especies de pingüino"
+- "La Jungla: selva tropical cubierta"
 - Manglar de cocodrilos
 - Exhibiciones de aves en vuelo
 - 152 especies de todo el mundo
