@@ -38,6 +38,12 @@ type Props = {
   textoCancelacionGratuita: string;
   /** Aviso de disponibilidad cierto (frontmatter `avisoReserva`). */
   aviso?: string;
+  /**
+   * Id del widget de disponibilidad GYG de la ficha. Si está en la página
+   * (prueba del widget con cookies aceptadas), el CTA baja hasta él en vez
+   * de abrir el modal.
+   */
+  anclaWidget?: string;
 };
 
 type Strings = {
@@ -101,6 +107,7 @@ export default function StickyReservaMovil({
   textoCancelacionHorasAntes,
   textoCancelacionGratuita,
   aviso,
+  anclaWidget,
 }: Props) {
   const t = dictFor(idioma);
   const [modalOpen, setModalOpen] = useState(false);
@@ -186,7 +193,16 @@ export default function StickyReservaMovil({
 
           <button
             type="button"
-            onClick={() => setModalOpen(true)}
+            onClick={() => {
+              const widget = anclaWidget
+                ? document.getElementById(anclaWidget)
+                : null;
+              if (widget) {
+                widget.scrollIntoView({ behavior: "smooth", block: "start" });
+                return;
+              }
+              setModalOpen(true);
+            }}
             className="inline-flex items-center justify-center rounded-lg bg-amber-400 hover:bg-amber-500 px-5 py-3 text-sm font-semibold text-slate-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-amber-500 whitespace-nowrap"
           >
             {textoReservar} →

@@ -22,6 +22,8 @@ import GaleriaActividad from "@/components/GaleriaActividad";
 import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
+import WidgetDisponibilidadGyg from "@/components/WidgetDisponibilidadGyg";
+import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import DatosClave from "@/components/ficha/DatosClave";
@@ -203,6 +205,36 @@ export default async function ActividadPage({ params }: Props) {
     }
   );
 
+
+  const tourWidget = tourWidgetGyg(actividad.proveedor, actividad.urlReserva);
+  const bloqueCalendario = (
+    <CalendarioReserva
+      idioma="es"
+      proveedor={actividad.proveedor}
+      precio={precio}
+      valorEstimado={precioDesdeFinal}
+      monedaEstimada={actividad.moneda}
+      precioPorPersona={dict.actividades.porPersona}
+      duracion={actividad.duracion}
+      idiomas={actividad.idiomas}
+      cancelacionGratuita={actividad.cancelacionGratuita}
+      horasCancelacion={actividad.horasCancelacion}
+      ratingProveedor={actividad.ratingProveedor}
+      numeroOpiniones={actividad.numeroOpiniones}
+      urlReservaBase={urlReservaBase}
+      nombreProveedor={nombreComercialProveedor}
+      textoReservar={dict.actividades.reservar}
+      textoDesde={dict.actividades.desde}
+      textoPorPersona={dict.actividades.porPersona}
+      textoDuracion={dict.actividades.duracion}
+      textoIdiomas={dict.actividades.idiomas}
+      textoCancelacionHorasAntes={
+        dict.actividades.cancelacionHorasAntes
+      }
+      textoCancelacionGratuita={dict.actividades.cancelacionGratuita}
+    />
+  );
+
   return (
     <main className="min-h-screen bg-white pb-24 lg:pb-0">
       <script
@@ -350,6 +382,17 @@ export default async function ActividadPage({ params }: Props) {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2 space-y-12">
             <SelloProveedor proveedor={actividad.proveedor} idioma="es" />
+
+            {tourWidget && (
+              <div className="lg:hidden">
+                <WidgetDisponibilidadGyg
+                  tourId={tourWidget}
+                  idioma="es"
+                  urlReserva={urlReservaBase}
+                  soloEn="movil"
+                />
+              </div>
+            )}
 
             {/* 2. Detalles prácticos — justo después de la galería */}
             <div className="hidden md:block">
@@ -571,32 +614,16 @@ export default async function ActividadPage({ params }: Props) {
                   numeroOpiniones={actividad.numeroOpiniones}
                   minimoPersonas={actividad.minimoPersonas}
                 />
+              ) : tourWidget ? (
+                <WidgetDisponibilidadGyg
+                  tourId={tourWidget}
+                  idioma="es"
+                  urlReserva={urlReservaBase}
+                  soloEn="escritorio"
+                  fallback={bloqueCalendario}
+                />
               ) : (
-              <CalendarioReserva
-                idioma="es"
-                proveedor={actividad.proveedor}
-                precio={precio}
-                valorEstimado={precioDesdeFinal}
-                monedaEstimada={actividad.moneda}
-                precioPorPersona={dict.actividades.porPersona}
-                duracion={actividad.duracion}
-                idiomas={actividad.idiomas}
-                cancelacionGratuita={actividad.cancelacionGratuita}
-                horasCancelacion={actividad.horasCancelacion}
-                ratingProveedor={actividad.ratingProveedor}
-                numeroOpiniones={actividad.numeroOpiniones}
-                urlReservaBase={urlReservaBase}
-                nombreProveedor={nombreComercialProveedor}
-                textoReservar={dict.actividades.reservar}
-                textoDesde={dict.actividades.desde}
-                textoPorPersona={dict.actividades.porPersona}
-                textoDuracion={dict.actividades.duracion}
-                textoIdiomas={dict.actividades.idiomas}
-                textoCancelacionHorasAntes={
-                  dict.actividades.cancelacionHorasAntes
-                }
-                textoCancelacionGratuita={dict.actividades.cancelacionGratuita}
-              />
+                bloqueCalendario
               )}
               <div className="mt-3 flex justify-center">
                 <SelloProveedor proveedor={actividad.proveedor} idioma="es" conLogo />
@@ -647,6 +674,7 @@ export default async function ActividadPage({ params }: Props) {
 
       {actividad.proveedor !== "bokun" && (
         <StickyReservaMovil
+          anclaWidget={tourWidget ? ANCLA_WIDGET_GYG : undefined}
           aviso={actividad.avisoReserva}
           idioma="es"
           precio={`${dict.actividades.desde} ${precio}`}
