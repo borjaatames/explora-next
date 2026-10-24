@@ -37,7 +37,7 @@ faq:
   respuesta: 'Im Park nur bei den kostenlosen Führungen der Ranger (Tremesana und Küstenroute), mit sehr wenigen Plätzen und Reservierung über die Buchungszentrale der Nationalparks. Drumherum, im Parque Natural de los Volcanes, gibt es frei zugängliche Wege und private geführte Wanderungen.'
 - pregunta: Fährt ein Linienbus nach Timanfaya?
   respuesta: 'Nein. Ohne Auto bleibt ein organisierter Ausflug mit Ticket, als Halbtagestour oder kombiniert mit den Jameos del Agua und der Cueva de los Verdes.'
-imagen_portada: "PENDIENTE:Timanfaya Montañas del Fuego"
+imagen_portada: "/images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp"
 imagen_alt: "Rötliche Vulkankegel der Feuerberge im Nationalpark Timanfaya"
 opciones:
   - ficha: timanfaya-tour-medio-dia

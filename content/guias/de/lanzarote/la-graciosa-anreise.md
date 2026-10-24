@@ -36,7 +36,7 @@ faq:
   respuesta: 'Zum Baden Playa Francesa und La Cocina im Süden, mit ruhigem Wasser. Las Conchas im Norden ist der spektakulärste, hat aber starke Strömungen, und an den Stränden von La Graciosa gibt es keine Rettungsschwimmer.'
 - pregunta: Muss man die Fähre vorher buchen?
   respuesta: 'Im Juli, August, zu Ostern und am Wochenende lohnt sich der Kauf vorab, vor allem für die Rückfahrt. Sei früh am Hafen: Der Parkplatz in Órzola ist schnell voll.'
-imagen_portada: "PENDIENTE:La Graciosa"
+imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp"
 imagen_alt: "La Graciosa vom Famara-Kliff aus gesehen, mit Caleta de Sebo am Meer"
 ---
 

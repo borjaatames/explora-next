@@ -37,7 +37,7 @@ faq:
   respuesta: 'En la naviera Ferry Lobos, 17 € ida y vuelta para adultos y 11 € para niños de 4 a 11 años (gratis hasta 3 años), con tasas incluidas. El billete del ferri y el permiso son cosas distintas.'
 - pregunta: ¿Cuánto se tarda en recorrer Lobos?
   respuesta: 'La Concha está a cinco minutos del muelle. La ruta circular por El Puertito, el faro de Martiño y La Caldera lleva unas tres horas a ritmo tranquilo, así que encaja en una franja de cuatro horas.'
-imagen_portada: "PENDIENTE:Isla de Lobos"
+imagen_portada: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
 imagen_alt: "La Isla de Lobos y la montaña de La Caldera vistas desde el mar"
 ---
 

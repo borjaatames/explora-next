@@ -37,7 +37,7 @@ faq:
   respuesta: 'It''s not advisable. It has big surf, dangerous currents, no facilities and no lifeguards. For swimming, choose the sheltered leeward beaches of Jandía.'
 - pregunta: Can you visit Villa Winter?
   respuesta: 'It''s private property. The caretaker shows it in exchange for a donation; visitors in 2025 and 2026 mention about €5 including the basement. Respect the signs and any opening times posted at the gate.'
-imagen_portada: "PENDIENTE:Cofete"
+imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "Cofete beach seen from the viewpoint, with the Jandía massif"
 ---
 

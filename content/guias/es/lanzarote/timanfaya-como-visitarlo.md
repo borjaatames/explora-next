@@ -37,7 +37,7 @@ faq:
   respuesta: 'Dentro del parque solo con las rutas guiadas gratuitas de los guardas (Tremesana y Ruta del Litoral), con plazas muy limitadas y reserva previa en la central de Parques Nacionales. Alrededor, en el Parque Natural de los Volcanes, hay senderos libres y rutas guiadas privadas.'
 - pregunta: ¿Hay guagua pública a Timanfaya?
   respuesta: 'No. Sin coche, la opción es una excursión organizada con la entrada incluida, de medio día o combinada con los Jameos del Agua y la Cueva de los Verdes.'
-imagen_portada: "PENDIENTE:Timanfaya Montañas del Fuego"
+imagen_portada: "/images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp"
 imagen_alt: "Conos volcánicos rojizos de las Montañas del Fuego, en el Parque Nacional de Timanfaya"
 opciones:
   - ficha: timanfaya-tour-medio-dia

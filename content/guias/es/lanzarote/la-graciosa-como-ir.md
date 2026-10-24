@@ -36,7 +36,7 @@ faq:
   respuesta: 'Para bañarse, Playa Francesa y La Cocina, en el sur, con agua tranquila. Las Conchas, en el norte, es la más espectacular, pero tiene corrientes fuertes, y en La Graciosa las playas no tienen socorrista.'
 - pregunta: ¿Hay que reservar el ferri con antelación?
   respuesta: 'En julio, agosto, Semana Santa y fines de semana conviene comprarlo antes, sobre todo la vuelta. Llega al puerto con margen: el aparcamiento de Órzola se llena pronto.'
-imagen_portada: "PENDIENTE:La Graciosa"
+imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp"
 imagen_alt: "La isla de La Graciosa vista desde el Risco de Famara, con Caleta de Sebo frente al mar"
 ---
 

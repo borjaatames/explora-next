@@ -42,7 +42,7 @@ faq:
   respuesta: 'Any time: average highs at the airport range from about 21 °C in January to 28 °C in August, and it hardly rains. Summer is the windiest season; spring and autumn are the most pleasant months for walking and swimming.'
 - pregunta: Can I visit Lobos Island without a permit?
   respuesta: 'Not to go ashore: you need a free authorisation from the island council at lobospass.com, with limited places per time slot (morning or afternoon). The ferry from Corralejo takes about 15-20 minutes.'
-imagen_portada: "PENDIENTE:Dunas de Corralejo"
+imagen_portada: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
 imagen_alt: "The Corralejo Dunes with Lobos Island in the background"
 ---
 

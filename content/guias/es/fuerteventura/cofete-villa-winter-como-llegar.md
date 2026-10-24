@@ -37,7 +37,7 @@ faq:
   respuesta: 'No es recomendable. Tiene oleaje fuerte, corrientes peligrosas, ningún servicio y ningún socorrista. Para bañarte, mejor las playas de sotavento de Jandía.'
 - pregunta: ¿Se puede visitar la Villa Winter?
   respuesta: 'Es propiedad privada. Quien la cuida la enseña a cambio de un donativo; visitantes de 2025 y 2026 hablan de unos 5 € incluyendo el sótano. Respeta los carteles y los horarios que haya en la puerta.'
-imagen_portada: "PENDIENTE:Cofete"
+imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "La playa de Cofete vista desde el mirador, con el macizo de Jandía"
 ---
 

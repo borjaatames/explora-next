@@ -43,7 +43,7 @@ faq:
   respuesta: 'Any time: at the airport, average highs range from 21 °C in January to 29 °C in August, with about 111 mm of rain a year, according to Spain''s weather agency AEMET. Spring and autumn are ideal for walking; in summer the trade wind blows hard and Timanfaya is very hot at midday.'
 - pregunta: Where should I stay in Lanzarote?
   respuesta: 'Puerto del Carmen for nightlife, a town beach and a central base; Playa Blanca for calm and Papagayo; Costa Teguise for wind sports; and the rural north (Haría, Teguise) for characterful houses. Arrecife is practical but less appealing as a base.'
-imagen_portada: "PENDIENTE:El Golfo Charco de los Clicos"
+imagen_portada: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
 imagen_alt: "Charco de los Clicos, El Golfo's green lagoon, beside the black-sand beach"
 ---
 

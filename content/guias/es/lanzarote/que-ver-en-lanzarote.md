@@ -43,7 +43,7 @@ faq:
   respuesta: 'Cualquiera: en el aeropuerto las máximas medias van de 21 °C en enero a 29 °C en agosto y llueven unos 111 mm al año, según AEMET. Primavera y otoño son ideales para caminar; en verano el alisio sopla fuerte y en Timanfaya, a mediodía, el calor aprieta.'
 - pregunta: ¿Dónde alojarse en Lanzarote?
   respuesta: 'Puerto del Carmen si quieres ambiente, playa urbana y estar a mitad de camino de todo; Playa Blanca para calma y Papagayo; Costa Teguise para deportes de viento; y el norte rural (Haría, Teguise) para casas con encanto. Arrecife es práctica, pero tiene menos atractivo para dormir.'
-imagen_portada: "PENDIENTE:El Golfo Charco de los Clicos"
+imagen_portada: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
 imagen_alt: "El Charco de los Clicos, la laguna verde de El Golfo, junto a la playa de arena negra"
 ---
 

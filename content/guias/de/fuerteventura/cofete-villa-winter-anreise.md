@@ -37,7 +37,7 @@ faq:
   respuesta: 'Besser nicht. Starke Brandung, gefährliche Strömungen, keine Einrichtungen und keine Rettungsschwimmer. Zum Baden sind die geschützten Strände auf der Leeseite von Jandía besser.'
 - pregunta: Kann man die Villa Winter besichtigen?
   respuesta: 'Sie ist Privatbesitz. Der Verwalter zeigt sie gegen eine Spende; Besucher aus 2025 und 2026 nennen rund 5 € inklusive Keller. Beachte die Schilder und eventuell ausgehängte Öffnungszeiten.'
-imagen_portada: "PENDIENTE:Cofete"
+imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "Der Strand von Cofete vom Aussichtspunkt mit dem Jandía-Massiv"
 ---
 

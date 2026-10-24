@@ -42,7 +42,7 @@ faq:
   respuesta: 'Das ganze Jahr: Am Flughafen liegt der durchschnittliche Tageshöchstwert zwischen rund 21 °C im Januar und 28 °C im August, und es regnet kaum. Im Sommer weht am meisten Wind; Frühling und Herbst sind die angenehmsten Monate zum Wandern und Baden.'
 - pregunta: Kann man ohne Genehmigung auf die Isla de Lobos?
   respuesta: 'Zum Anlanden nicht: Du brauchst eine kostenlose Genehmigung des Cabildo auf lobospass.com, mit begrenzten Plätzen pro Zeitfenster (Vormittag oder Nachmittag). Die Fähre ab Corralejo braucht etwa 15-20 Minuten.'
-imagen_portada: "PENDIENTE:Dunas de Corralejo"
+imagen_portada: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
 imagen_alt: "Die Dünen von Corralejo mit der Isla de Lobos im Hintergrund"
 ---
 

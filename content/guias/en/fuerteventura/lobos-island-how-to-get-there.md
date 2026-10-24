@@ -37,7 +37,7 @@ faq:
   respuesta: 'With Ferry Lobos, €17 return for adults and €11 for children aged 4 to 11 (free under 3), fees included. The ferry ticket and the permit are separate things.'
 - pregunta: How long does it take to walk around Lobos?
   respuesta: 'La Concha is five minutes from the jetty. The loop via El Puertito, the Martiño lighthouse and La Caldera takes about three hours at an easy pace, so it fits into a four-hour slot.'
-imagen_portada: "PENDIENTE:Isla de Lobos"
+imagen_portada: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
 imagen_alt: "Lobos Island and La Caldera mountain seen from the sea"
 ---
 

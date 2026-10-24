@@ -37,7 +37,7 @@ faq:
   respuesta: 'Inside the park, only on the free ranger-led walks (Tremesana and the Coastal Route), with very few places and advance booking through the National Parks reservation centre. Around it, in the Parque Natural de los Volcanes, there are open trails and private guided hikes.'
 - pregunta: Is there a public bus to Timanfaya?
   respuesta: 'No. Without a car, the option is an organised tour with entry included, either a half day or combined with Jameos del Agua and Cueva de los Verdes.'
-imagen_portada: "PENDIENTE:Timanfaya Montañas del Fuego"
+imagen_portada: "/images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp"
 imagen_alt: "Reddish volcanic cones of the Fire Mountains in Timanfaya National Park"
 opciones:
   - ficha: timanfaya-tour-medio-dia

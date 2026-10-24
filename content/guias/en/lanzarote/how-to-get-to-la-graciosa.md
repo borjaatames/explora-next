@@ -36,7 +36,7 @@ faq:
   respuesta: 'For swimming, Playa Francesa and La Cocina in the south, with calm water. Las Conchas in the north is the most spectacular, but it has strong currents, and La Graciosa''s beaches have no lifeguards.'
 - pregunta: Do I need to book the ferry in advance?
   respuesta: 'In July, August, Easter and at weekends it''s worth buying ahead, especially the return. Get to the port early: the Órzola car park fills up quickly.'
-imagen_portada: "PENDIENTE:La Graciosa"
+imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp"
 imagen_alt: "La Graciosa seen from the Famara cliffs, with Caleta de Sebo by the sea"
 ---
 

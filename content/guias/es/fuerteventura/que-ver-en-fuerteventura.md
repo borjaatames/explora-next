@@ -42,7 +42,7 @@ faq:
   respuesta: 'Cualquiera: en el aeropuerto la máxima media va de unos 21 °C en enero a 28 °C en agosto y apenas llueve. El verano es la época de más viento; primavera y otoño son los meses más agradables para caminar y bañarse.'
 - pregunta: ¿Se puede ir a la Isla de Lobos sin permiso?
   respuesta: 'No para desembarcar: hace falta una autorización gratuita del Cabildo en lobospass.com, con plazas limitadas por franja (mañana o tarde). El ferri desde Corralejo tarda unos 15-20 minutos.'
-imagen_portada: "PENDIENTE:Dunas de Corralejo"
+imagen_portada: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
 imagen_alt: "Las Dunas de Corralejo con la Isla de Lobos al fondo"
 ---
 

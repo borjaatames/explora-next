@@ -43,7 +43,7 @@ faq:
   respuesta: 'Das ganze Jahr: Am Flughafen liegen die durchschnittlichen Höchstwerte laut der spanischen Wetterbehörde AEMET zwischen 21 °C im Januar und 29 °C im August, bei rund 111 mm Regen im Jahr. Frühling und Herbst sind ideal zum Wandern; im Sommer weht der Passat kräftig, und in Timanfaya ist es mittags sehr heiß.'
 - pregunta: Wo wohnt man am besten auf Lanzarote?
   respuesta: 'Puerto del Carmen für Trubel, Stadtstrand und eine zentrale Lage; Playa Blanca für Ruhe und Papagayo; Costa Teguise für Windsport; und der ländliche Norden (Haría, Teguise) für Häuser mit Charme. Arrecife ist praktisch, als Standort aber weniger reizvoll.'
-imagen_portada: "PENDIENTE:El Golfo Charco de los Clicos"
+imagen_portada: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
 imagen_alt: "Der Charco de los Clicos, die grüne Lagune von El Golfo, neben dem schwarzen Sandstrand"
 ---
 

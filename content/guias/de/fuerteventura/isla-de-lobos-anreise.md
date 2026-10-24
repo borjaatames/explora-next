@@ -37,7 +37,7 @@ faq:
   respuesta: 'Bei Ferry Lobos 17 € hin und zurück für Erwachsene und 11 € für Kinder von 4 bis 11 Jahren (unter 3 gratis), inklusive Gebühren. Fährticket und Genehmigung sind zwei verschiedene Dinge.'
 - pregunta: Wie lange braucht man, um Lobos zu erkunden?
   respuesta: 'La Concha liegt fünf Minuten vom Anleger. Der Rundweg über El Puertito, den Leuchtturm Martiño und La Caldera dauert gemütlich etwa drei Stunden und passt damit in ein Zeitfenster von vier Stunden.'
-imagen_portada: "PENDIENTE:Isla de Lobos"
+imagen_portada: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
 imagen_alt: "Die Isla de Lobos und der Berg La Caldera vom Meer aus"
 ---
 
