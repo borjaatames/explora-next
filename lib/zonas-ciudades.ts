@@ -34,6 +34,8 @@ export const ZONA_DE_CIUDAD: Readonly<Record<string, ZonaCiudades>> = {
   ibiza: "islas",
   tenerife: "islas",
   "gran-canaria": "islas",
+  lanzarote: "islas",
+  fuerteventura: "islas",
   bilbao: "norte",
   "santiago-de-compostela": "norte",
   salamanca: "norte",

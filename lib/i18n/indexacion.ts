@@ -13,6 +13,8 @@ export const CIUDADES_DE_INDEXABLES: ReadonlySet<string> = new Set([
   "mallorca",
   "tenerife",
   "gran-canaria",
+  "lanzarote",
+  "fuerteventura",
 ]);
 
 /** `ruta` es un path absoluto del sitio, sin dominio (p. ej. `/de/guides/mallorca/x`). */
