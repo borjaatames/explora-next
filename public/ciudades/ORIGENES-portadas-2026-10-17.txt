@@ -16,3 +16,5 @@ bilbao: bilbao/guggenheim/guggenheim-ria.webp (1600x1200) -> 215 KB
 santiago-de-compostela: santiago-de-compostela/catedral/catedral-ciudad.webp (1600x1200) -> 360 KB
 salamanca: salamanca/rio/tormes-catedral.webp (1600x1200) -> 285 KB
 girona: girona/casas-onar/pexels-6088130.jpeg (3634x2423) -> 411 KB
+lanzarote: ciudades/hero/lanzarote.webp (Pexels, Uri Espinosa) -> 286 KB
+fuerteventura: ciudades/hero/fuerteventura.webp (Wikimedia, Pablosievert, CC BY-SA 4.0) -> 232 KB
