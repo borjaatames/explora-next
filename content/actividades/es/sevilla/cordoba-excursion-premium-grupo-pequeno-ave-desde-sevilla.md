@@ -148,8 +148,6 @@ galeria:
   alt: "Callejuela blanca de la Judería de Córdoba"
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-8677088.webp
   alt: "Rincón con flores de la Judería de Córdoba"
-- src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-ju-hero.webp
-  alt: "Calle de la Judería de Córdoba"
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

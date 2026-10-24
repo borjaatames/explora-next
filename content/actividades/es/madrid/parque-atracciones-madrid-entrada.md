@@ -72,12 +72,8 @@ keywords:
 imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
 imagenAlt: "Montaña rusa Tarántula en el Parque de Atracciones de Madrid"
 galeria:
-- src: "/images/actividades/madrid/parque-atracciones/noria-cielo-azul.webp"
-  alt: "Noria del Parque de Atracciones de Madrid"
 - src: "/images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp"
   alt: "Montaña rusa roja en pleno recorrido"
-- src: "/images/actividades/madrid/parque-atracciones/montana-rusa-pasajeros.webp"
-  alt: "Pasajeros disfrutando de una montaña rusa"
 - src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
   alt: "Atracción de agua Los Fiordos en el Parque de Atracciones"
 - src: /images/actividades/madrid/parque-atracciones/vista-parque.webp

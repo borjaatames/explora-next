@@ -84,10 +84,6 @@ galeria:
   alt: Vermut con aceitunas
 - src: /images/actividades/tarragona/vermut/botellas-vermut.webp
   alt: Botellas de vermut
-- src: /images/actividades/tarragona/vermut/museu-vermut.webp
-  alt: Museo del Vermut de Reus
-- src: /images/actividades/tarragona/vermut/museu-vermut-fachada.webp
-  alt: Fachada del Museo del Vermut de Reus
 ratingProveedor: 4.8
 numeroOpiniones: 6
 atraccionesRelacionadas:

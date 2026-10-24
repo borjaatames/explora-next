@@ -65,8 +65,6 @@ galeria:
   alt: "Calle de la Cava Baja en La Latina"
 - src: /images/actividades/madrid/la-latina/la-latina-pexels-28700846.webp
   alt: "Tostas y tapas para compartir"
-- src: /images/actividades/madrid/la-latina/la-latina-pixabay-6906620.webp
-  alt: "Salsa picante para acompañar las tapas"
 publicada: true
 destacada: false
 fecha: '2026-10-07'

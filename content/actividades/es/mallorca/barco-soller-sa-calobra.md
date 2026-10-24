@@ -88,8 +88,6 @@ galeria:
     alt: "Sendero por el interior de la garganta de Sa Calobra"
   - src: "/images/actividades/mallorca/soller/sa-calobra-barco.webp"
     alt: "Barco llegando a Sa Calobra"
-  - src: "/images/actividades/mallorca/soller/port-de-soller-pueblo.webp"
-    alt: "El pueblo de Port de Sóller desde el mar"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

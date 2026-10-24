@@ -81,12 +81,6 @@ galeria:
   alt: "Pez ángel reina en un acuario tropical de L'Aquàrium"
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
   alt: "Visitantes ante el gran tanque del Oceanario"
-- src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
-  alt: "Pasarela del túnel submarino del Aquàrium de Barcelona"
-- src: /images/actividades/barcelona/aquarium/tiburon-nadando-cerca.webp
-  alt: "Tiburón nadando cerca del cristal del acuario"
-- src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
-  alt: "Tiburón sobre el fondo marino del acuario"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

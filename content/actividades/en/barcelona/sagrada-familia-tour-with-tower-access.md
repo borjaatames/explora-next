@@ -139,8 +139,6 @@ galeria:
   alt: Sagrada Familia's ornate ceiling with golden and blue illuminated architectural details in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate stone carvings and towering spires in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
-  alt: Barcelona skyline with Sagrada Familia basilica at sunset
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
   alt: Barcelona street view with colorful buildings and bustling urban atmosphere
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp

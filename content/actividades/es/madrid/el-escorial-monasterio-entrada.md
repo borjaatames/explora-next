@@ -92,8 +92,6 @@ galeria:
     alt: "Entrada al Panteón de los Reyes de El Escorial"
   - src: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
     alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
-    alt: "Claustro del Monasterio de El Escorial"
   - src: /images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp
     alt: "Cripta real bajo la basílica de El Escorial"
   - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp

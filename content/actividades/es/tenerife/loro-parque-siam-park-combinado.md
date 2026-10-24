@@ -74,10 +74,6 @@ keywords:
 imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean en Loro Parque Tenerife
 galeria:
-- src: "/images/actividades/tenerife/loro-siam/siam-park-estructura-colorida.webp"
-  alt: "Estructura temática y toboganes de Siam Park"
-- src: "/images/actividades/tenerife/loro-siam/tobogan-acuatico-toboganistas.webp"
-  alt: "Visitantes bajando por un tobogán acuático de Siam Park"
 - src: "/images/actividades/tenerife/loro-siam/leon-marino-nadando.webp"
   alt: "León marino nadando en Loro Parque"
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp

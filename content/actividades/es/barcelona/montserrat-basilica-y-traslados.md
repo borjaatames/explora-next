@@ -108,16 +108,10 @@ keywords:
 imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
 imagenAlt: Vistas panorámicas de Montserrat con formaciones rocosas escarpadas al atardecer
 galeria:
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Paisaje cautivador de Montserrat con picos rocosos escarpados bajo cielo despejado
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
-  alt: Claustro del Monasterio de Montserrat con arcos de piedra y galería cubierta
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
   alt: Monasterio de Montserrat en la montaña de piedra con vistas naturales
-- src: /images/actividades/barcelona/montserrat/montserrat-romanesque-cloister-monastery-hero-hero.webp
-  alt: Claustro románico de la abadía benedictina de Montserrat, Barcelona
 - src: /images/actividades/barcelona/montserrat/montserrat-spain-13-hero-hero.webp
   alt: Vistas panorámicas de Montserrat con formaciones rocosas y monasterio benedictino en Cataluña, España
 - src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero-hero.webp

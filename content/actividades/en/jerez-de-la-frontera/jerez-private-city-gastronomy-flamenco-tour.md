@@ -66,8 +66,6 @@ galeria:
     alt: "Bell tower of Jerez Cathedral"
   - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp"
     alt: "Dome of Jerez Cathedral"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp"
-    alt: "Gardens of the Alcázar of Jerez"
   - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
     alt: "Arab baths of the Alcázar of Jerez"
   - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp"

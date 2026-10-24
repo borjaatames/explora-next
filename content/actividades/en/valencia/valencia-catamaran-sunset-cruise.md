@@ -73,11 +73,9 @@ keywords:
 - valencia sunset catamaran
 - valencia harbour cruise
 - catamaran valencia
-imagen: /images/actividades/valencia/mar/catamaran-mar.webp
-imagenAlt: Catamaran sailing on the Mediterranean
+imagen: "/images/actividades/valencia/mar/catamaran-boramar.webp"
+imagenAlt: Catamaran moored in Valencia harbour
 galeria:
-- src: /images/actividades/valencia/mar/catamaran-boramar.webp
-  alt: Catamaran moored in Valencia harbour
 - src: /images/actividades/valencia/mar/bocana-puerto.webp
   alt: North entrance of Valencia harbour
 - src: /images/actividades/valencia/mar/luna-atardecer.webp

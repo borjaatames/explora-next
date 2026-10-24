@@ -68,8 +68,6 @@ galeria:
   alt: "Biblioteca del Monasterio de El Escorial"
 - src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
   alt: "Sala de pinturas en El Escorial"
-- src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg
-  alt: "Palacio Real de Madrid desde la plaza de la Armería"
 - src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
   alt: "Grupo escultórico de mármol en una de las visitas"
 - src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg

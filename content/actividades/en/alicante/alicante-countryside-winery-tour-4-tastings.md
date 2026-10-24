@@ -88,8 +88,6 @@ galeria:
   alt: "Glasses set up for a wine tasting"
 - src: "/images/actividades/alicante/vino/vinedos-paisaje.webp"
   alt: "A vineyard landscape"
-- src: "/images/actividades/alicante/vino/barricas-nave.webp"
-  alt: "A barrel hall in a winery"
 - src: "/images/actividades/alicante/vino/cata-tinto.webp"
   alt: "A red wine tasting"
 - src: "/images/actividades/alicante/vino/barricas-filas.webp"

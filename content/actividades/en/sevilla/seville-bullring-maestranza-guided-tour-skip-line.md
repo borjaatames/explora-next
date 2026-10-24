@@ -110,8 +110,6 @@ imagen: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-e
 imagenAlt: "Baroque facade of the Plaza de Toros de la Real Maestranza in Seville — Prince's Gate"
 
 galeria:
-- src: /images/actividades/sevilla/tablao-el-arenal/tablao-el-arenal-bailaor-blanco-negro.webp
-  alt: "Male dancer at Tablao El Arenal, black and white"
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: "Aerial view of the Maestranza bullring"
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp

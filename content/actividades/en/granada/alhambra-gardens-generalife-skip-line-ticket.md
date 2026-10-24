@@ -119,24 +119,10 @@ galeria:
   alt: Historic Alhambra fortress in Granada with lush gardens and architectural details
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Courtyard with fountain and water channels at Alhambra palace, Granada
-- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada
-- src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
-  alt: Granada's historic architecture with traditional white buildings and winding streets
-- src: /images/actividades/granada/alhambra-granada/alhambra-granada-andalusia-spain-hero-hero.webp
-  alt: Alhambra palace fortress with Nasrid architecture overlooking Granada, Spain
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
   alt: Ornate Islamic arches and intricate tilework at the Alhambra palace in Granada, Spain
-- src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
-  alt: Islamic geometric patterns and arches at the Alhambra Palace, Granada's UNESCO World Heritage site
-- src: /images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp
-  alt: Granada cityscape with historic architecture and mountains in background
-- src: /images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp
-  alt: Granada's historic architecture and street view with traditional buildings
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
   alt: "Wine Gate at the Alhambra of Granada"
-- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero-hero.webp
-  alt: "Generalife palace rooftop overlooking Hall of Abencerrages, Granada Spain"
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

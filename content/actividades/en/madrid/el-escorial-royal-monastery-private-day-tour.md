@@ -68,8 +68,6 @@ galeria:
   alt: "Library of the El Escorial monastery"
 - src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
   alt: "Painting gallery at El Escorial"
-- src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg
-  alt: "Royal Palace of Madrid from Plaza de la Armería"
 - src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
   alt: "Marble sculpture group seen on the tour"
 - src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg

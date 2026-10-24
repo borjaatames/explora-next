@@ -106,10 +106,6 @@ galeria:
   alt: "Río Darro a su paso por el centro de Granada"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-05.webp
   alt: "Iglesia de Santa Ana al inicio de la Carrera del Darro"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
-  alt: "Arcos de herradura del Bañuelo de Granada"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp
-  alt: "Arquería de la sala templada del Bañuelo"
 - src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
   alt: "Grifos y pilas de mármol de unos baños árabes"
 ratingProveedor: 4.8

@@ -135,8 +135,6 @@ galeria:
   alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
   alt: Venetian mosaic finials atop the towers of the Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
-  alt: Barcelona's Gothic Quarter street with medieval architecture and narrow alleyways
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
   alt: Barcelona cityscape with historic architecture and vibrant streets
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Sy4CXsj6BDE-hero.webp

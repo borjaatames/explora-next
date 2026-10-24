@@ -109,21 +109,15 @@ keywords:
 - tour montserrat castlexperience
 - montserrat virgen negra bodega
 - excursion montserrat completa
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp"
-imagenAlt: "Vistas de Montserrat en Cataluña, España con sus formaciones rocosas icónicas"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp"
+imagenAlt: "Monasterio de Montserrat entre montañas rocosas en Barcelona"
 galeria:
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
-  alt: "Claustro del Monasterio de Montserrat con arcos de piedra y columnas históricas"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
-  alt: "Monasterio de Montserrat entre montañas rocosas en Barcelona"
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
   alt: "Frescos del Via Crucis en el techo de la basilica de Montserrat"
 - src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
   alt: "Vista panorámica de las montañas de Montserrat desde Barcelona con formaciones rocosas icónicas"
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
   alt: "Monasterio de Montserrat con sus características formaciones rocosas y basílica religiosa en Cataluña."
-- src: /images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero-hero.webp
-  alt: "Fachada gótica de Montserrat con detalles arquitectónicos ornamentados en Barcelona"
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
   alt: "Vista aérea de Montserrat con formaciones rocosas irregulares y vegetación"
 - src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp

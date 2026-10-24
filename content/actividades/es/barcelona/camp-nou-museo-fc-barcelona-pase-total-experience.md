@@ -139,10 +139,6 @@ galeria:
   alt: "Estatua de Kubala en el exterior del Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp
   alt: "Terreno de juego del Camp Nou visto desde lo alto"
-- src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
-  alt: "Gradas rojas y cubierta del Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: "Gradas rojas del Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
   alt: "Gradas del Camp Nou con las letras del FC Barcelona"
 - src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp

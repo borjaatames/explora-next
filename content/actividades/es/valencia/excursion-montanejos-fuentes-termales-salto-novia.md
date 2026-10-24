@@ -40,11 +40,9 @@ keywords:
 - montanejos salto de la novia
 - fuentes termales montanejos
 - excursion montanejos desde valencia
-imagen: "/images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp"
-imagenAlt: Vista aerea del pueblo de Montanejos encajado en el canon del rio Mijares, Castellon
+imagen: "/images/actividades/valencia/montanejos/montanejos-torre-plaza.webp"
+imagenAlt: "Torre y plaza de la iglesia en el pueblo de Montanejos"
 galeria:
-  - src: "/images/actividades/valencia/montanejos/montanejos-torre-plaza.webp"
-    alt: "Torre y plaza de la iglesia en el pueblo de Montanejos"
   - src: "/images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp"
     alt: "Curso alto del río Mijares cerca de Montanejos"
   - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp"

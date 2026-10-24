@@ -77,11 +77,9 @@ keywords:
 - excursion en barco paguera
 - barco con niños mallorca
 - avistamiento de delfines mallorca
-imagen: "/images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp"
-imagenAlt: "Barco turístico con fondo de cristal navegando junto a la costa"
+imagen: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
+imagenAlt: "Islote rocoso con pinos frente a la costa de Paguera"
 galeria:
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
-    alt: "Islote rocoso con pinos frente a la costa de Paguera"
   - src: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
     alt: "Bahía de Paguera vista desde lo alto"
   - src: "/images/actividades/mallorca/barco-paguera/delfines-1.webp"

@@ -101,14 +101,10 @@ atraccionesRelacionadas:
 categoria: "toursGastronomicos"
 keywords: ["seville food tour", "devour seville", "tastes tapas traditions", "mercado encarnacion tour", "seville culinary tour", "ultimate food tour seville"]
 
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-imagenAlt: "Plate of ham croquetas"
+imagen: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
+imagenAlt: "A bottle of red wine and two filled glasses"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
-    alt: "A bottle of red wine and two filled glasses"
-  - src: "/images/actividades/granada/wikimedia/granada-tapas-plato-01.webp"
-    alt: "Tapa and a cold beer on a wooden bar"
   - src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
     alt: "Wooden waves of the Setas de Sevilla against the sky"
   - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"

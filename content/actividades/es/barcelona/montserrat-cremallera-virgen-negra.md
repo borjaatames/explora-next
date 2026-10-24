@@ -93,26 +93,18 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat cremallera", "tour montserrat virgen negra", "moreneta montserrat", "montserrat medio dia", "visitar montserrat desde barcelona"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp"
-imagenAlt: "Tren cremallera ascendiendo por la ladera de la montaña de Montserrat"
+imagen: "montserrat-church-architecture-religion-pomp-hero-hero.webp"
+imagenAlt: "Monasterio de Montserrat entre las montañas"
 
 galeria:
   - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
     alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Monasterio de Montserrat entre las montañas"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
     alt: "Fachada de la basílica de Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
     alt: "Vista del monasterio de Montserrat junto a la montaña"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
-    alt: "Claustro del monasterio de Montserrat"
   - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero.webp"
     alt: "Altar dorado de la basílica de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-church-architecture-hero.webp"
-    alt: "Pasillo gótico interior de la basílica de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-vault-cloister-columns-hero.webp"
-    alt: "Bóveda del claustro del monasterio de Montserrat"
 
 ratingProveedor: 4.6
 numeroOpiniones: 7706

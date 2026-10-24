@@ -50,8 +50,6 @@ imagen: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-
 imagenAlt: "Río subterráneo navegable de las Cuevas de San José"
 
 galeria:
-- src: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-hero.webp"
-  alt: "Recorrido en barca por las Cuevas de San José en Valencia"
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
   alt: "Paseo en barca por las Cuevas de San José desde Valencia (Bokun)"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp

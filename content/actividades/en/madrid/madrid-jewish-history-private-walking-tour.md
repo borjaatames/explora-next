@@ -81,8 +81,6 @@ galeria:
   alt: Ceramic tile with the coat of arms of Madrid and the name of Plaza de la Villa
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
   alt: Plaza de la Villa in Madrid lit up at night
-- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp
-  alt: Barrio de las Letras, Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'

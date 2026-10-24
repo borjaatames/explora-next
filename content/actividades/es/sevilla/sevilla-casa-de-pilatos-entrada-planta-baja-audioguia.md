@@ -113,8 +113,6 @@ imagenAlt: "Patio principal de la Casa de Pilatos"
 galeria:
   - src: "/images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp"
     alt: "Patio central de la Casa de Pilatos de Sevilla con fuente y jardín"
-  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
-    alt: Teatro romano de Gades
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp"
     alt: "Galería con azulejos y estatuas de la Casa de Pilatos"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-03.webp"
@@ -125,8 +123,6 @@ galeria:
     alt: "Escultura clásica en la Casa de Pilatos"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-08.webp"
     alt: "Busto romano en la galería superior"
-  - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-    alt: "Barrio de Santa Cruz de Sevilla — ubicación de la Casa de Pilatos en el corazón del barrio judío"
 
 ratingProveedor: 4.5
 numeroOpiniones: 200

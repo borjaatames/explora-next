@@ -92,8 +92,6 @@ galeria:
   alt: "Montserrat monastery among the mountains"
 - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp"
   alt: "Montserrat monastery among the mountains"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp
-  alt: Cloister of Montserrat monastery
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
   alt: Colourful houses above the Onyar river in Girona
 - src: /images/actividades/girona/call-jueu/call-jueu-01.webp

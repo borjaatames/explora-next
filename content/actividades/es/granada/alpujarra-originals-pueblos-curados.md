@@ -116,14 +116,6 @@ galeria:
   alt: "Barranco de la Alpujarra con nubes bajas"
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
   alt: "Balcón con geranios en la Alpujarra"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp
-  alt: "Pueblos blancos encalados en las laderas montañosas de La Alpujarra, Granada, con arquitectura andaluza tradicional de casas cúbicas agrupadas en la sierra"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: "Barranco de Poqueira con los pueblos blancos de Pampaneira, Capileira y Órgiva en las laderas de montaña, Granada"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
-  alt: "Grupo de turistas explorando las calles empedradas del centro histórico de Granada con guía local atento a sus necesidades"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp
-  alt: "Panorama de las montañas nevadas de la Sierra Nevada y sierras de la Alpujarra bajo luz natural, con vegetación alpina"
 ratingProveedor: 4.7
 numeroOpiniones: 224
 publicada: true

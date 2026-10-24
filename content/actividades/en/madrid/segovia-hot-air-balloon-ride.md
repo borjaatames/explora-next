@@ -84,10 +84,6 @@ galeria:
   alt: The Cathedral and old town of Segovia from above
 - src: /images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp
   alt: Segovia old town with the Alcázar on the horizon
-- src: /images/actividades/segovia/globo/pexels-globo-amarillo.webp
-  alt: Yellow hot air balloon against a blue sky
-- src: /images/actividades/segovia/globo/pexels-globo-cielo-azul.webp
-  alt: Hot air balloon in flight
 - src: https://imgcdn.bokun.tools/57d9a415-99dd-488b-9fe7-9cc43bfaa7a9.jpg
   alt: Segovia's Alcázar with hot air balloons in the background
 - src: https://imgcdn.bokun.tools/5af089eb-bf81-4c6d-95fa-bdf8d367d71a.jpg

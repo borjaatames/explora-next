@@ -74,21 +74,17 @@ keywords:
 - excursion quad costa dorada
 - buggy salou
 - actividades salou
-imagen: /images/actividades/tarragona/quad/quad-pista.webp
-imagenAlt: Quad por una pista de tierra
+imagen: "quad-barro.webp"
+imagenAlt: "Quad atravesando un charco"
 galeria:
-- src: "/images/actividades/tarragona/costa/cap-salou.webp"
-  alt: "Rocas del cabo de Salou frente al Mediterráneo"
 - src: "/images/actividades/tarragona/costa/faro-salou.webp"
   alt: "Faro de Salou y su edificio blanco bajo el cielo azul"
-- src: "/images/actividades/tarragona/quad/quad-camino.webp"
-  alt: "Ruta en quad por los caminos de Salou"
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
   alt: "Montañas de Prades y Siurana"
 - src: /images/actividades/tarragona/quad/montsant.webp
   alt: "Paisaje de montaña en el interior de Tarragona"
-- src: /images/actividades/tarragona/quad/quad-barro.webp
-  alt: "Quad atravesando un charco"
+- src: "/images/actividades/tarragona/costa/cap-salou.webp"
+  alt: "Rocas del cabo de Salou frente al Mediterráneo"
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
   alt: "Atardecer en las montañas de Prades"
 ratingProveedor: 4.8

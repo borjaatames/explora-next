@@ -78,8 +78,6 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp
 imagenAlt: The Shambhala and Dragon Khan roller coasters
 galeria:
-- src: "/images/actividades/tarragona/portaventura/montana-rusa-cielo-azul.webp"
-  alt: "Montana rusa roja y amarilla bajo un cielo azul"
 - src: /images/actividades/tarragona/portaventura/polynesia.webp
   alt: The Polynesia area at PortAventura
 - src: /images/actividades/tarragona/portaventura/dragon-khan.webp

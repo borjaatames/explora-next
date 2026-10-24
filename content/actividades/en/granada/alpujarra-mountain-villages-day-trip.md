@@ -127,10 +127,6 @@ galeria:
   alt: "Church and rooftops of an Alpujarra village"
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
   alt: "Flat roofs with laundry drying in the Alpujarra"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: "Whitewashed Moorish villages cascading down mountainside in Alpujarra, Granada, with flat-roofed houses and sierra peaks."
-- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
-  alt: "Narrow winding street in white Andalusian village with whitewashed houses, traditional doors, flower pots, and authentic Alpujarra architecture"
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

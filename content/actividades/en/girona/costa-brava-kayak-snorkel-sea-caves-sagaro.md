@@ -93,10 +93,6 @@ imagenAlt: Red kayak paddling next to a small island in clear water
 galeria:
 - src: "/images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp"
   alt: "Rocky cove with turquoise water on the Costa Brava"
-- src: "/images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg"
-  alt: Costa Brava coastline, Girona
-- src: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg"
-  alt: "Stone medieval village of the Empordà near Girona"
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
   alt: Coastal path at S'Agaró above the rocks
 - src: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp

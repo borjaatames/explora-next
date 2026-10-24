@@ -76,17 +76,19 @@ keywords:
 - delfines mallorca niños
 - que hacer en mallorca con niños
 - marineland costa d'en blanes
-imagen: /images/actividades/mallorca/marineland/marineland-mallorca-entrada.webp
-imagenAlt: León marino en una de las instalaciones de Marineland Mallorca
+imagen: "/images/actividades/mallorca/marineland/marineland-mallorca-entrada-parque.webp"
+imagenAlt: "Entrada de Marineland Mallorca en Costa d'en Blanes"
 galeria:
-- src: /images/actividades/mallorca/marineland/marineland-delfin.webp
-  alt: Cuidadora con un delfín en la piscina de un delfinario
-- src: /images/actividades/mallorca/marineland/delfin-salto.webp
-  alt: Delfín mular saltando fuera del agua
-- src: /images/actividades/mallorca/marineland/delfin-mar.webp
-  alt: Delfín mular nadando en mar abierto
-- src: /images/actividades/mallorca/marineland/marineland-entrada-parque.webp
-  alt: Entrada al parque Marineland Mallorca
+- src: "/images/actividades/mallorca/marineland/marineland-mallorca-espectaculo-delfines.webp"
+  alt: "Entrenadora y delfín durante el espectáculo de Marineland Mallorca"
+- src: "/images/actividades/mallorca/marineland/marineland-mallorca-delfin-entrenadora.webp"
+  alt: "Delfín junto a su entrenadora en la piscina de Marineland"
+- src: "/images/actividades/mallorca/marineland/marineland-mallorca-leon-marino.webp"
+  alt: "León marino descansando en Marineland Mallorca"
+- src: "/images/actividades/mallorca/marineland/marineland-mallorca-grada-show.webp"
+  alt: "Público en la grada del espectáculo de delfines"
+- src: "/images/actividades/mallorca/marineland/marineland-mallorca-loros.webp"
+  alt: "Recinto de loros de Marineland Mallorca"
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

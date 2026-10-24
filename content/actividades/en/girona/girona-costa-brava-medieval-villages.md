@@ -66,8 +66,6 @@ galeria:
   alt: Alley in Girona's Jewish Call
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
   alt: Catedral Girona
-- src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp
-  alt: Dali Figueres
 ratingProveedor: 4.99
 numeroOpiniones: 228
 guiasRelacionadas:

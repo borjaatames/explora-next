@@ -129,8 +129,6 @@ galeria:
     alt: "Entrada del Museo Reina Sofía"
   - src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
     alt: "Torres de ascensores del edificio Sabatini"
-  - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-large-white-building-clock-tower-hero.webp
-    alt: "Fachada del Museo Reina Sofía con la torre del reloj, Madrid"
 ratingProveedor: 4.3
 numeroOpiniones: 676
 publicada: true

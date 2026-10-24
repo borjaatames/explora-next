@@ -93,14 +93,8 @@ galeria:
   alt: "Cadaqués visto desde las alturas, pueblo blanco frente al mar"
 - src: "/images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp"
   alt: "Acantilados del Cap de Creus con el mar Mediterráneo"
-- src: "/images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp"
-  alt: "Pueblo blanco de la Costa Brava en una bahía tranquila"
 - src: "/images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp"
   alt: "Islote entre rocas y aguas cristalinas del Cap de Creus"
-- src: "/images/actividades/girona/cap-de-creus/arco-roca-marina-mediterraneo.webp"
-  alt: "Arco de roca marina con vista al Mediterráneo, Costa Brava"
-- src: "/images/actividades/girona/cadaques/casa-dali-portlligat-piscina.webp"
-  alt: "Casa Museo Salvador Dali en Portlligat, cerca de Cadaques"
 - src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
   alt: Faro del Cap de Creus sobre las rocas
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp

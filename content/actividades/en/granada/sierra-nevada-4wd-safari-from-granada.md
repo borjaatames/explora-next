@@ -123,18 +123,12 @@ galeria:
     alt: "Sierra Nevada summits"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
     alt: "View of Granada from the San Nicolás viewpoint"
-  - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"
-    alt: "View of Granada from the San Nicolás viewpoint"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-01.webp"
     alt: "Visitors at the Mirador de San Nicolás in the Albaicín"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-07.webp"
     alt: "Mojón del Trigo observatory in Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-06.webp"
     alt: "Iberian ibex, typical Sierra Nevada wildlife"
-  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp
-    alt: "4x4 climbing the mountain in Sierra Nevada"
-  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp
-    alt: "Small group of tourists with local guide on Granada mountain trail, warm interaction at mountain refuge"
 ratingProveedor: 4.9
 numeroOpiniones: 1718
 publicada: true

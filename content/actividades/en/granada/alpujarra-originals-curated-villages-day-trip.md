@@ -115,14 +115,6 @@ galeria:
   alt: "Alpujarra gorge with low clouds"
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
   alt: "Balcony with geraniums in the Alpujarra"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-arquitectura-pueblos-det-hero.webp
-  alt: "White villages cascading down Alpujarra mountain slopes with traditional cubic Andalusian architecture near Granada"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
-  alt: "Mountain gorge with white villages cascading down verdant slopes in Granada's Alpujarra region"
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-grupo-pequeno-experienci-hero.webp
-  alt: "Small group tourists exploring Granada's historic streets with attentive local guide, experiencing authentic cultural heritage."
-- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-montanas-sierra-nevada-0-hero.webp
-  alt: "Sierra Nevada mountain range with alpine vegetation and natural sunlight illuminating the Alpujarra peaks near Granada"
 ratingProveedor: 4.7
 numeroOpiniones: 224
 publicada: true

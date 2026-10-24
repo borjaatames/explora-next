@@ -77,11 +77,9 @@ keywords:
 - bike seville
 - seville by bike with kids
 - cycling tour seville
-imagen: /images/actividades/sevilla/bici-sevilla/grupo-ciclistas.webp
-imagenAlt: Group of cyclists riding through a park
+imagen: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
+imagenAlt: "Puente de Triana iluminado al atardecer"
 galeria:
-- src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
-  alt: "Puente de Triana iluminado al atardecer"
 - src: "/images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp"
   alt: "Puesto de frutas y verduras en el Mercado de Triana"
 - src: /images/actividades/sevilla/bici-sevilla/ciclista-sevilla.webp
@@ -92,8 +90,6 @@ galeria:
   alt: Sevici public bikes on a Seville street
 - src: /images/actividades/sevilla/bici-sevilla/ciclistas-avenida.webp
   alt: Cyclists on a tree-lined avenue
-- src: /images/actividades/sevilla/bici-sevilla/grupo-bicis-calle.webp
-  alt: Group of friends cycling down a charming street
 ratingProveedor: 4.9
 numeroOpiniones: 1585
 publicada: true

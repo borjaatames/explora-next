@@ -88,8 +88,6 @@ galeria:
   alt: Copas preparadas para una cata de vino
 - src: /images/actividades/alicante/vino/vinedos-paisaje.webp
   alt: Paisaje de viñedos
-- src: /images/actividades/alicante/vino/barricas-nave.webp
-  alt: Nave de barricas en una bodega
 - src: /images/actividades/alicante/vino/cata-tinto.webp
   alt: Cata de vino tinto
 - src: /images/actividades/alicante/vino/barricas-filas.webp

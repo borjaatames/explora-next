@@ -73,13 +73,11 @@ keywords:
 - barcelona y montserrat en un dia
 - excursion montserrat recogida hotel
 - excursion montserrat desde puerto cruceros barcelona
-imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
-imagenAlt: "Claustro del monasterio de Montserrat"
+imagen: "montserrat-sant-jeroni-06.webp"
+imagenAlt: "Rocas de Montserrat bajo el cielo azul"
 galeria:
   - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
     alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
-  - src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-06.webp"
-    alt: "Rocas de Montserrat bajo el cielo azul"
   - src: "https://imgcdn.bokun.tools/852af406-bbee-4ed9-9a2b-e6a95d2e1bec.jpg"
     alt: "Fachada de la basílica de Montserrat vista desde el patio"
   - src: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"

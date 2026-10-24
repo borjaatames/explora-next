@@ -142,10 +142,6 @@ keywords:
 imagen: "/images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp"
 imagenAlt: Vistas panorámicas de Barcelona con arquitectura modernista y montaña de Montjuïc al fondo
 galeria:
-- src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
-  alt: "Gradas rojas y cubierta del Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: "Gradas rojas del Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
   alt: "Gradas del Camp Nou con las letras del FC Barcelona"
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp

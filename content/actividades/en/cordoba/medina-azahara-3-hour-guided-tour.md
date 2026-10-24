@@ -74,8 +74,6 @@ keywords:
 imagen: /images/actividades/cordoba/medina-azahara/vista-ruinas.webp
 imagenAlt: View over the ruins of Medina Azahara
 galeria:
-- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-pixabay-7771933.jpg"
-  alt: "Ruins of the caliphal palace of Medina Azahara"
 - src: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
   alt: "Ruins of the caliphal palace of Medina Azahara"
 - src: /images/actividades/cordoba/medina-azahara/salon-rico.webp

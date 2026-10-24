@@ -81,8 +81,6 @@ keywords:
 imagen: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
 imagenAlt: "Street in Setenil de las Bodegas with houses under the rock"
 galeria:
-  - src: "/images/actividades/malaga/alcazaba/arcos-nazaries.webp"
-    alt: Nasrid-style arches in a courtyard of the Alcazaba of Málaga
   - src: "/images/actividades/malaga/setenil/panoramica.webp"
     alt: "Panoramic view of Setenil de las Bodegas"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp"
@@ -97,8 +95,6 @@ galeria:
     alt: "Houses tucked under the rock in Setenil"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
     alt: "White houses of Ronda on the gorge edge"
-  - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
-    alt: "Vista de Ronda desde las alturas con el Tajo y el puente nuevo"
   - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
     alt: "Ronda old town"
 ratingProveedor: 4.7

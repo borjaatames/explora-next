@@ -82,8 +82,6 @@ galeria:
   alt: Paisaje de Arucas, en el norte de Gran Canaria
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
   alt: Plataneras en Arucas
-- src: /images/actividades/gran-canaria/norte/arucas-iglesia-fachada-hero.webp
-  alt: Fachada de la iglesia de Arucas
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

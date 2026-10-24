@@ -93,10 +93,6 @@ imagenAlt: Kayak rojo navegando junto a un islote en aguas transparentes
 galeria:
 - src: "/images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp"
   alt: "Cala rocosa de aguas turquesas en la Costa Brava"
-- src: "/images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg"
-  alt: Costa Brava, Girona
-- src: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg"
-  alt: "Pueblo medieval de piedra del Empordà cerca de Girona"
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
   alt: Camino de ronda de S'Agaró sobre las rocas de la costa
 - src: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp

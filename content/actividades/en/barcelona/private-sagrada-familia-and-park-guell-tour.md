@@ -76,14 +76,10 @@ galeria:
   alt: Illuminated Gothic-style vault inside the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp
   alt: Aerial daytime view of Park Güell's terraced structures with Barcelona city skyline in background
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-I1vI47ouAok-hero.webp
-  alt: Barcelona street view with historic architecture and urban landscape
 - src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
   alt: Barcelona cityscape with modern buildings and Mediterranean architecture
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16131880-hero.webp
   alt: Barcelona city skyline with Mediterranean architecture and urban landscape
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
-  alt: Sagrada Família basilica illuminated at dusk in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
   alt: Barcelona's urban skyline with Gothic architecture and Mediterranean views
 publicada: false

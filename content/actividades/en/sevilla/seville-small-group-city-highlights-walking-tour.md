@@ -110,8 +110,6 @@ imagen: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callej
 imagenAlt: "Callejón del Agua in the Santa Cruz quarter"
 
 galeria:
-  - src: "/images/actividades/cadiz/centro/teatro-romano.webp"
-    alt: The Roman theatre of Gades
   - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
     alt: "Metropol Parasol (Las Setas) en Sevilla"
   - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
@@ -126,8 +124,6 @@ galeria:
     alt: "Plaza de España lit up at night"
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "General Archive of the Indies"
-  - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp
-    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
   - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
     alt: "Premium walking tour Seville — Cathedral exterior and Giralda"
   - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp

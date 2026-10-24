@@ -76,8 +76,6 @@ imagenAlt: Patio cordobés con paredes llenas de macetas
 galeria:
 - src: "/images/actividades/cordoba/patios/patio-macetas-azules-flores.webp"
   alt: "Patio cordobes con macetas azules y flores en las paredes"
-- src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: Patio con fuente en el Palacio de Viana
 - src: /images/actividades/cordoba/patios/patio-festival.webp
   alt: Patio en flor durante el Festival de los Patios
 - src: /images/actividades/cordoba/patios/patio-escalera.webp
@@ -86,8 +84,6 @@ galeria:
   alt: Patio con arcos y flores
 - src: /images/actividades/cordoba/patios/patio-flores.webp
   alt: Macetas de geranios en un patio
-- src: /images/actividades/cordoba/patios/patio-viana-arcos.webp
-  alt: Patio porticado del Palacio de Viana
 ratingProveedor: 4.3
 numeroOpiniones: 1106
 atraccionesRelacionadas:

@@ -97,18 +97,10 @@ categoria: "serviciosAdicionales"
 keywords: ["hammam granada", "arabic baths granada", "nasrid palace hammam", "granada spa", "granada massage"]
 
 
-imagen: "/images/actividades/granada/wikimedia/granada-banuelo-05.webp"
-imagenAlt: "Star-shaped skylights in the vaults of El Bañuelo, Granada Arab bath"
+imagen: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
+imagenAlt: "View of Granada from the San Nicolás viewpoint"
 
 galeria:
-- src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
-  alt: "View of Granada from the San Nicolás viewpoint"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
-  alt: "Horseshoe arches of El Bañuelo, Granada"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp
-  alt: "Arcade in the warm room of El Bañuelo"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-01.webp
-  alt: "Entrance hall of El Bañuelo, an 11th-century Arab bath"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
   alt: "The Darro river in central Granada"
 - src: /images/actividades/granada/hammam/hammam-pexels-33279021.webp

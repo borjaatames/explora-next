@@ -80,8 +80,6 @@ keywords:
 imagen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
 imagenAlt: Orange trees and the Mosque tower
 galeria:
-- src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp"
-  alt: "Golden mihrab of the Mosque-Cathedral of Córdoba"
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
   alt: Calleja de las Flores with blue flowerpots
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp

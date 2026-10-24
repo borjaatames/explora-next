@@ -106,10 +106,6 @@ galeria:
   alt: "The Darro river in central Granada"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-05.webp
   alt: "Santa Ana church at the start of Carrera del Darro"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-07.webp
-  alt: "Horseshoe arches of El Bañuelo, Granada"
-- src: /images/actividades/granada/wikimedia/granada-banuelo-02.webp
-  alt: "Arcade in the warm room of El Bañuelo"
 - src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
   alt: "Taps and marble basins in Arab baths"
 ratingProveedor: 4.8

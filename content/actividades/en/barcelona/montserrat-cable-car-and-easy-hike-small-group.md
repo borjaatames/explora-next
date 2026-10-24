@@ -107,8 +107,6 @@ galeria:
     alt: "Montserrat monastery seen from the hillside"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
     alt: "Buildings of Montserrat monastery"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-romanesque-cloister-monastery-hero.webp"
-    alt: "Romanesque cloister of Montserrat monastery"
   - src: "/images/actividades/barcelona/montserrat/montserrat-spain-14-hero.webp"
     alt: "Exterior of Montserrat monastery with visitors strolling"
   - src: "/images/actividades/barcelona/montserrat/montserrat-spain-15-hero.webp"

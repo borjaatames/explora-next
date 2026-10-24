@@ -84,10 +84,6 @@ galeria:
   alt: Vermouth with olives
 - src: /images/actividades/tarragona/vermut/botellas-vermut.webp
   alt: Bottles of vermouth
-- src: /images/actividades/tarragona/vermut/museu-vermut.webp
-  alt: The Vermouth Museum in Reus
-- src: /images/actividades/tarragona/vermut/museu-vermut-fachada.webp
-  alt: Façade of the Vermouth Museum in Reus
 ratingProveedor: 4.8
 numeroOpiniones: 6
 atraccionesRelacionadas:

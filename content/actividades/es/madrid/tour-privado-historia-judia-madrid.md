@@ -81,8 +81,6 @@ galeria:
   alt: Azulejo con el escudo de Madrid y el nombre de la Plaza de la Villa
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
   alt: Plaza de la Villa de Madrid iluminada de noche
-- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-arena-facade-architecture-bull-hero.webp
-  alt: Barrio de las Letras, Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'

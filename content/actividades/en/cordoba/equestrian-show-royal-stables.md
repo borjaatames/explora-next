@@ -67,15 +67,11 @@ keywords:
 - royal stables cordoba
 - andalusian horse show cordoba
 - cordoba horse show
-imagen: /images/actividades/cordoba/ecuestre/doma-reverencia.webp
-imagenAlt: Horse bowing during a show
+imagen: "/images/actividades/cordoba/caballerizas/caballo-negro-cuadra.webp"
+imagenAlt: "Caballo negro en una cuadra"
 galeria:
-- src: "/images/actividades/cordoba/caballerizas/caballo-negro-cuadra.webp"
-  alt: "Caballo negro en una cuadra"
 - src: "/images/actividades/cordoba/caballerizas/caballo-palomino-picadero.webp"
   alt: "Caballo palomino en un picadero cubierto"
-- src: /images/actividades/cordoba/ecuestre/caballo-bailaora.webp
-  alt: Horse and flamenco dancer in an equestrian show
 - src: /images/actividades/cordoba/ecuestre/caballerizas-interior.webp
   alt: Inside the Royal Stables of Córdoba
 - src: /images/actividades/cordoba/ecuestre/caballerizas-fachada.webp

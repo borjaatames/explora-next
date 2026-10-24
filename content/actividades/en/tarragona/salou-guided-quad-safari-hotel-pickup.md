@@ -74,21 +74,17 @@ keywords:
 - costa daurada quad tour
 - salou buggy
 - things to do in salou
-imagen: /images/actividades/tarragona/quad/quad-pista.webp
-imagenAlt: A quad on a dirt track
+imagen: "quad-barro.webp"
+imagenAlt: "A quad crossing a puddle"
 galeria:
-- src: "/images/actividades/tarragona/costa/cap-salou.webp"
-  alt: "Rocky shore at Cap de Salou facing the Mediterranean"
 - src: "/images/actividades/tarragona/costa/faro-salou.webp"
   alt: "Salou lighthouse and its white keeper's house under blue sky"
-- src: "/images/actividades/tarragona/quad/quad-camino.webp"
-  alt: "Quad bike route along the trails of Salou"
 - src: "/images/actividades/tarragona/quad/prades-siurana.webp"
   alt: "The Prades mountains and Siurana"
 - src: "/images/actividades/tarragona/quad/montsant.webp"
   alt: "Mountain landscape inland from Tarragona"
-- src: "/images/actividades/tarragona/quad/quad-barro.webp"
-  alt: "A quad crossing a puddle"
+- src: "/images/actividades/tarragona/costa/cap-salou.webp"
+  alt: "Rocky shore at Cap de Salou facing the Mediterranean"
 - src: "/images/actividades/tarragona/quad/prades-atardecer.webp"
   alt: "Sunset over the Prades mountains"
 ratingProveedor: 4.8

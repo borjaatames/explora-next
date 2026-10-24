@@ -136,10 +136,6 @@ galeria:
   alt: "Kubala statue outside Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp
   alt: "Camp Nou pitch seen from above"
-- src: /images/actividades/barcelona/camp-nou/descarga-hero.webp
-  alt: "Red stands and roof of Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: "Red stands of Camp Nou"
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
   alt: "Camp Nou stands spelling out FC Barcelona"
 - src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp

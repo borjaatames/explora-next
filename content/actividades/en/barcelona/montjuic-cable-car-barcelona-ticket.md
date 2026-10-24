@@ -69,8 +69,6 @@ imagenAlt: "Montjuïc cable car cabins among flowers"
 galeria:
   - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
     alt: "View of Barceloneta beach with the marina and palm trees in the background"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-puerto.webp"
-    alt: "Montjuïc cable car cabin with port views"
   - src: "/images/actividades/barcelona/teleferico-montjuic/dos-cabinas-ciudad.webp"
     alt: "Two cable car cabins over the city of Barcelona"
   - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-arboles.webp"

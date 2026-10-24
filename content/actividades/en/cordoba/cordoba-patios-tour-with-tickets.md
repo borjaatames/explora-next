@@ -76,8 +76,6 @@ imagenAlt: Córdoba courtyard with walls full of flowerpots
 galeria:
 - src: "/images/actividades/cordoba/patios/patio-macetas-azules-flores.webp"
   alt: "Patio cordobes con macetas azules y flores en las paredes"
-- src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: Courtyard with fountain at the Palacio de Viana
 - src: /images/actividades/cordoba/patios/patio-festival.webp
   alt: Courtyard in bloom during the Patios Festival
 - src: /images/actividades/cordoba/patios/patio-escalera.webp
@@ -86,8 +84,6 @@ galeria:
   alt: Courtyard with arches and flowers
 - src: /images/actividades/cordoba/patios/patio-flores.webp
   alt: Geranium pots in a courtyard
-- src: /images/actividades/cordoba/patios/patio-viana-arcos.webp
-  alt: Arcaded courtyard of the Palacio de Viana
 ratingProveedor: 4.3
 numeroOpiniones: 1106
 atraccionesRelacionadas:

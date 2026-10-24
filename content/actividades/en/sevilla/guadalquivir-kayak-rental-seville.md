@@ -81,8 +81,8 @@ keywords:
 - guadalquivir kayak
 - seville canoe
 - things to do in seville with teenagers
-imagen: /images/actividades/sevilla/kayak-guadalquivir/kayak-rio.webp
-imagenAlt: Orange kayak on a calm river
+imagen: "/images/actividades/sevilla/kayak-guadalquivir/kayaks-guadalquivir-sevilla.webp"
+imagenAlt: "Kayaks on the Guadalquivir river in Seville"
 galeria:
 - src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp"
   alt: "Vista aérea del río Guadalquivir a su paso por Sevilla"
@@ -90,12 +90,8 @@ galeria:
   alt: "Torre Sevilla en la orilla del Guadalquivir, ruta de kayak"
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
   alt: Torre del Oro by the Guadalquivir in Seville
-- src: /images/actividades/sevilla/kayak-guadalquivir/kayaks-rio-ciudad.webp
-  alt: Kayakers on a river beside the city
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp
   alt: Torre del Oro and the Guadalquivir at night
-- src: /images/actividades/sevilla/kayak-guadalquivir/kayakistas-rio.webp
-  alt: Three kayakers paddling on calm water
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
   alt: Bank of the Guadalquivir in Seville
 ratingProveedor: 4.5

@@ -141,8 +141,6 @@ galeria:
   alt: Techo bellamente iluminado de la Sagrada Familia en Barcelona con detalles arquitectónicos ornamentales
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
   alt: Basílica de la Sagrada Familia con torres modernistas iluminadas al atardecer en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
-  alt: Playa urbana de Barcelona con edificios modernos y bañistas disfrutando del mar
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp

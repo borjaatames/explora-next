@@ -106,16 +106,10 @@ keywords:
 imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
 imagenAlt: Montserrat mountain landscape with dramatic rock formations near Barcelona
 galeria:
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Rocky peaks of Montserrat mountain near Barcelona with dramatic landscape formations
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
-  alt: Montserrat monastery cloister with stone arches and abbey corridor
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
   alt: Montserrat monastery perched on dramatic rocky mountain peaks near Barcelona
-- src: /images/actividades/barcelona/montserrat/montserrat-romanesque-cloister-monastery-hero-hero.webp
-  alt: Montserrat monastery romanesque cloister with stone arches and courtyard
 - src: /images/actividades/barcelona/montserrat/montserrat-spain-13-hero-hero.webp
   alt: Montserrat mountain range near Barcelona, Spain with dramatic rock formations
 - src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero-hero.webp

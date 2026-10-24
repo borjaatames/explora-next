@@ -76,8 +76,6 @@ galeria:
   alt: Cádiz roof terraces and watchtowers from the Tavira
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-05.webp
   alt: The cathedral dome from Torre Tavira
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-06.webp
-  alt: Torre Tavira on a Cádiz street
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-07.webp
   alt: Cádiz white rooftops towards the sea
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-08.webp

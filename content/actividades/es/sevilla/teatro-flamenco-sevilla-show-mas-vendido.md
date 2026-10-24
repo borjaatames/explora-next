@@ -158,10 +158,6 @@ galeria:
   alt: "Bailaor con cante y guitarra en el Teatro Flamenco Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-barrio-santa-cruz-n-hero.webp
   alt: "Calle nocturna del barrio Santa Cruz de Sevilla con arquitectura tradicional andaluza, farolas históricas"
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-teatro-interior-asi-hero.webp
-  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
-- src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-detalle-vestuario-f-hero.webp
-  alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: "Espectáculo de flamenco en el Teatro Flamenco de Sevilla"
 ratingProveedor: 4.7

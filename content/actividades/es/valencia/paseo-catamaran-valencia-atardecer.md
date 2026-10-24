@@ -73,11 +73,9 @@ keywords:
 - catamaran valencia atardecer
 - barco valencia puerto
 - paseo catamaran valencia
-imagen: /images/actividades/valencia/mar/catamaran-mar.webp
-imagenAlt: Catamarán navegando en el Mediterráneo
+imagen: "/images/actividades/valencia/mar/catamaran-boramar.webp"
+imagenAlt: Catamarán amarrado en el puerto de Valencia
 galeria:
-- src: /images/actividades/valencia/mar/catamaran-boramar.webp
-  alt: Catamarán amarrado en el puerto de Valencia
 - src: /images/actividades/valencia/mar/bocana-puerto.webp
   alt: Bocana norte del puerto de Valencia
 - src: /images/actividades/valencia/mar/luna-atardecer.webp

@@ -122,17 +122,11 @@ keywords:
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: "/images/actividades/madrid/ebike/tour-ebike-pareja-bicicletas-electricas.webp"
-imagenAlt: "Dos ciclistas con casco pedaleando en bicicleta eléctrica"
+imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
+imagenAlt: "Plaza Mayor, primera parada del recorrido"
 galeria:
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "Plaza Mayor, primera parada del recorrido"
-  - src: "/images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp"
-    alt: "Ciclista en bicicleta eléctrica de paseo"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
     alt: "Plaza de Oriente y Palacio Real"
-  - src: "/images/actividades/madrid/ebike/bicicletas-electricas-aparcadas.webp"
-    alt: "Dos bicicletas eléctricas de paseo aparcadas"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
     alt: "Palacio Real visto desde los jardines del Campo del Moro"
   - src: "/images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp"

@@ -92,8 +92,6 @@ galeria:
     alt: "Entrance to the Pantheon of the Kings at El Escorial"
   - src: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
     alt: Facade of the Royal Monastery of San Lorenzo de El Escorial
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
-    alt: "Cloister of the El Escorial Monastery"
   - src: /images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp
     alt: "Royal crypt beneath the El Escorial basilica"
   - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp

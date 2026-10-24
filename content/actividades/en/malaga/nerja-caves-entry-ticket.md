@@ -76,8 +76,6 @@ galeria:
   alt: "Estalactitas iluminadas en una sala de la Cueva de Nerja"
 - src: "/images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp"
   alt: "Detalle de formaciones de estalactitas en la Cueva de Nerja"
-- src: "/images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp"
-  alt: "Calle encalada con macetas en Frigiliana"
 - src: "/images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp"
   alt: "Coastal beach of Nerja"
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
@@ -88,8 +86,6 @@ galeria:
   alt: Balcón de Europa in Nerja
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
   alt: "White streets of the village of Frigiliana"
-- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp
-  alt: "Entrance to the Nerja Caves"
 ratingProveedor: 4.6
 numeroOpiniones: 2107
 atraccionesRelacionadas:

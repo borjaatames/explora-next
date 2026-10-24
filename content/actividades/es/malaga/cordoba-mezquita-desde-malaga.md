@@ -80,8 +80,6 @@ keywords:
 imagen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
 imagenAlt: Naranjos y torre de la Mezquita
 galeria:
-- src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-mihrab-dorado-01-hero.webp"
-  alt: "Mihrab dorado de la Mezquita-Catedral de Córdoba"
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
   alt: Calleja de las Flores con macetas azules
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp

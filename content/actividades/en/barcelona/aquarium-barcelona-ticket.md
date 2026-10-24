@@ -73,12 +73,6 @@ galeria:
   alt: "Queen angelfish in a tropical tank at L'Aquàrium"
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
   alt: "Visitors in front of the main Oceanarium tank"
-- src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
-  alt: "Walkway through the underwater tunnel at the Barcelona Aquarium"
-- src: /images/actividades/barcelona/aquarium/tiburon-nadando-cerca.webp
-  alt: "Shark swimming close to the aquarium glass"
-- src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
-  alt: "Shark over the aquarium's seabed"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

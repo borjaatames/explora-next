@@ -141,10 +141,6 @@ galeria:
   alt: "Valle del Hoyo entre los dos desfiladeros"
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp
   alt: "Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes rocosas verticales."
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
-  alt: "Puentes colgantes y pasarelas suspendidas entre montañas con vistas del paisaje natural de Granada"
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
-  alt: "Excursionista con mochila caminando por pasarela de seguridad en ruta de senderismo de Granada"
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

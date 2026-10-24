@@ -92,10 +92,6 @@ galeria:
   alt: Playa de Burriana en Nerja
 - src: /images/actividades/malaga/frigiliana/frigiliana-buganvillas.webp
   alt: Buganvillas sobre los tejados de Frigiliana
-- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp
-  alt: "Balcón de Europa en Nerja con vistas al mar"
-- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp
-  alt: "Entrada exterior de la Cueva de Nerja"
 ratingProveedor: 4.6
 numeroOpiniones: 3192
 publicada: true

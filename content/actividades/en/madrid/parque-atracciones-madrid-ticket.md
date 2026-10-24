@@ -63,12 +63,8 @@ keywords:
 imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
 imagenAlt: "Tarántula roller coaster at Parque de Atracciones de Madrid"
 galeria:
-- src: "/images/actividades/madrid/parque-atracciones/noria-cielo-azul.webp"
-  alt: "Ferris wheel at Madrid's Parque de Atracciones"
 - src: "/images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp"
   alt: "Red roller coaster mid-ride"
-- src: "/images/actividades/madrid/parque-atracciones/montana-rusa-pasajeros.webp"
-  alt: "Riders enjoying a roller coaster"
 - src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
   alt: "Los Fiordos water ride at Parque de Atracciones"
 - src: /images/actividades/madrid/parque-atracciones/vista-parque.webp

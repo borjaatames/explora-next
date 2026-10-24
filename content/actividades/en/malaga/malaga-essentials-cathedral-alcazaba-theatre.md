@@ -78,8 +78,6 @@ keywords:
 imagen: /images/actividades/malaga/catedral-malaga/nave.webp
 imagenAlt: Main nave of Málaga Cathedral
 galeria:
-- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-pixabay-8681568.jpg"
-  alt: "Alcazaba of Málaga"
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
   alt: Baroque façade of Málaga Cathedral
 - src: /images/actividades/malaga/catedral-malaga/coro.webp

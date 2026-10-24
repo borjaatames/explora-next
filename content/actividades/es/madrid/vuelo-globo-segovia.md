@@ -84,10 +84,6 @@ galeria:
   alt: La Catedral y el casco antiguo de Segovia desde arriba
 - src: /images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp
   alt: Casco antiguo de Segovia con el Alcázar en el horizonte
-- src: /images/actividades/segovia/globo/pexels-globo-amarillo.webp
-  alt: Globo aerostático amarillo en un cielo azul
-- src: /images/actividades/segovia/globo/pexels-globo-cielo-azul.webp
-  alt: Globo aerostático en pleno vuelo
 - src: https://imgcdn.bokun.tools/57d9a415-99dd-488b-9fe7-9cc43bfaa7a9.jpg
   alt: Alcázar de Segovia con globos aerostáticos al fondo
 - src: https://imgcdn.bokun.tools/5af089eb-bf81-4c6d-95fa-bdf8d367d71a.jpg

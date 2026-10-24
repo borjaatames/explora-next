@@ -77,8 +77,6 @@ keywords:
 imagen: /images/actividades/santiago-de-compostela/finisterre/faro-fisterra.webp
 imagenAlt: Cape Fisterra lighthouse
 galeria:
-- src: "/images/actividades/santiago/finisterre/faro-finisterre-vista-lateral.webp"
-  alt: "Faro de Finisterre visto desde el lateral, Cabo de Finisterre"
 - src: "/images/actividades/santiago/finisterre/faro-finisterre-fachada.webp"
   alt: "Fachada principal del Faro de Finisterre, Galicia"
 - src: "/images/actividades/santiago/finisterre/faro-finisterre-peregrinos.webp"

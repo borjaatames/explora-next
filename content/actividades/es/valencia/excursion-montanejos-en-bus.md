@@ -45,8 +45,6 @@ imagenAlt: "Poza de la Fuente de los Baños en Montanejos"
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
   alt: "Salto de agua en Montanejos"
-- src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
-  alt: "Río Mijares a su paso por Montanejos, entre montañas de Castellón"
 - src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
   alt: "Pueblo de Montanejos entre montañas"
 - src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp

@@ -11,3 +11,6 @@ Fotos de Wikimedia Commons y Pexels, recortadas a 1600×1200 y convertidas a Web
 - `torre-del-oro-rio.webp`: «Sevilla - Torre del Oro and river Guadalquivir - 2.jpg», por Benjamin Smith, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sevilla_-_Torre_del_Oro_and_river_Guadalquivir_-_2.jpg
 - `guadalquivir-sevilla-aerea.webp` — Pexels, Javier Balseiro (Licencia Pexels) — https://www.pexels.com/photo/aerial-view-of-guadalquivir-river-in-seville-on-sunny-day-40107950/
 - `torre-sevilla-orilla.webp` — Pixabay, bogitw (Licencia Pixabay) — https://pixabay.com/photos/sevilla-tower-building-architecture-786180/
+
+Añadidas el 24-10-2026 (revisión de fotos ajenas; descargadas en `E:\imagenes-master\_descargas-2026-10-24\`):
+- `kayaks-guadalquivir-sevilla.webp` — «Kayaks on the Guadalquivir, Sevilla, Spain - DSC07671.JPG», Daderot, CC0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kayaks_on_the_Guadalquivir,_Sevilla,_Spain_-_DSC07671.JPG)

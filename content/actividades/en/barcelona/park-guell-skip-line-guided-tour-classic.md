@@ -109,45 +109,23 @@ keywords:
 - park guell languages
 - park guell barcelona 5 languages
 - park guell deep tour
-imagen: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-spain-architecture-2-hero.webp"
-imagenAlt: Park Güell aerial view overlooking Barcelona cityscape and surrounding buildings
+imagen: "/images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp"
+imagenAlt: Park Güell terraced gardens with colorful mosaic tiles and Barcelona cityscape in background
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-9029528-hero.webp
-  alt: Barcelona cityscape with Sagrada Familia basilica and urban architecture
-- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
-  alt: Park Güell terraced gardens with colorful mosaic tiles and Barcelona cityscape in background
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Group of people standing in front of Park Güell's colorful mosaic structures in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
 - src: /images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero-hero.webp
   alt: Park Güell terrace with Barcelona cityscape view and colorful mosaic decorations
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-gXr8KVp1ick-hero.webp
-  alt: Sagrada Familia basilica lit up at dusk in Barcelona, Spain
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Park Güell winding path lined with trees in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona cityscape with architecture and urban landscape
 - src: /images/actividades/barcelona/park-guell/pexels-27348494-hero.webp
   alt: Close-up of the trencadís mosaic tilework on Park Güell's curving bench.
-- src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
-  alt: Detail of a sculpture on the Nativity facade of the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/pixabay-63820-hero.webp
   alt: Barcelona cityscape with Gothic architecture and historic buildings
-- src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
-  alt: Interior view of the tree-like columns and ceiling of the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/pixabay-1137859-hero.webp
-  alt: Sagrada Familia basilica with intricate Gothic architecture in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
-  alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
   alt: Barcelona street scene with historic architecture and urban atmosphere
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-  alt: Ornate ceiling of Barcelona's Sagrada Familia basilica with intricate architectural details and divine light
 - src: /images/actividades/barcelona/park-guell/unsplash-VWE6dSkZBmw-hero.webp
   alt: Barcelona street view with modernist architecture and pedestrians
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Barcelona's Gothic Quarter with medieval architecture and narrow cobblestone streets
 ratingProveedor: 4.0
 numeroOpiniones: 885
 publicada: false

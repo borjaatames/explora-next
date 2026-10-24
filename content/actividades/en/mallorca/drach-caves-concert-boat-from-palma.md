@@ -101,8 +101,6 @@ galeria:
   alt: Chamber of the Drach Caves with turquoise water
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-lago-iluminado.webp
   alt: "Illuminated underground lake in the Caves of Drach"
-- src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-pasarela-visitantes.webp
-  alt: "Visitors walking the walkway through the Caves of Drach"
 ratingProveedor: 4.4
 numeroOpiniones: 1489
 publicada: true

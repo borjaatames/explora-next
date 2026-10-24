@@ -103,8 +103,6 @@ galeria:
     alt: "Montserrat monastery among the mountains"
   - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
     alt: "Views of the Montserrat mountains from the monastery"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero.webp"
-    alt: "Gothic facade of Montserrat monastery"
   - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
     alt: "Panoramic view of the Montserrat massif"
   - src: "/images/actividades/barcelona/montserrat/montserrat-spain-monastery-nature-mountain-hero.webp"

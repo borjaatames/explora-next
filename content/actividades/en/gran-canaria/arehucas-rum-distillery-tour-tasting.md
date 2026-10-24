@@ -82,8 +82,6 @@ galeria:
   alt: Landscape around Arucas in northern Gran Canaria
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
   alt: Banana plantations in Arucas
-- src: /images/actividades/gran-canaria/norte/arucas-iglesia-fachada-hero.webp
-  alt: Façade of the Arucas church
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

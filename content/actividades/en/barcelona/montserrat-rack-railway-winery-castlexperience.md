@@ -105,21 +105,15 @@ keywords:
 - castlexperience montserrat tour
 - montserrat black madonna winery
 - complete montserrat excursion
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp"
-imagenAlt: "Montserrat mountains with distinctive rock formations near Barcelona, Catalonia, Spain"
+imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp"
+imagenAlt: "Montserrat monastery nestled among dramatic stone mountains near Barcelona, Spain"
 galeria:
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero-hero.webp
-  alt: "Montserrat monastery cloister corridor with stone arches and columns"
-- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
-  alt: "Montserrat monastery nestled among dramatic stone mountains near Barcelona, Spain"
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
   alt: "Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica"
 - src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
   alt: "Montserrat's dramatic rock formations and mountain landscape near Barcelona"
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
   alt: "Montserrat Monastery nestled in dramatic rocky mountains near Barcelona, Spain"
-- src: /images/actividades/barcelona/montserrat/montserrat-stunning-gothic-facade-historic-hero-hero.webp
-  alt: "Stunning Gothic facade of Montserrat monastery with historic stone architecture and mountain backdrop"
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
   alt: "Montserrat mountain range with dramatic rocky peaks and monastery nestled among cliffs near Barcelona"
 - src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp

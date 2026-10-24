@@ -84,8 +84,6 @@ galeria:
     alt: "Path through the Sa Calobra gorge"
   - src: "/images/actividades/mallorca/soller/sa-calobra-barco.webp"
     alt: "A boat arriving at Sa Calobra"
-  - src: "/images/actividades/mallorca/soller/port-de-soller-pueblo.webp"
-    alt: "The village of Port de Sóller from the sea"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

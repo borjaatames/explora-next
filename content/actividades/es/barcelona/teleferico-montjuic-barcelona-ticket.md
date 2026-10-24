@@ -77,8 +77,6 @@ imagenAlt: "Cabinas del Telefèric de Montjuïc entre flores"
 galeria:
   - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
     alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-puerto.webp"
-    alt: "Cabina del teleférico de Montjuïc con vistas al puerto"
   - src: "/images/actividades/barcelona/teleferico-montjuic/dos-cabinas-ciudad.webp"
     alt: "Dos cabinas del teleférico sobre la ciudad de Barcelona"
   - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-arboles.webp"

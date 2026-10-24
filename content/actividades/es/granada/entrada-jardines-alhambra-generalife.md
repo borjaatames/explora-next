@@ -122,24 +122,10 @@ galeria:
   alt: Fortaleza histórica de la Alhambra en Granada rodeada de exuberante vegetación verde
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio de los Arrayanes de la Alhambra con fuente y arcos en Granada, Andalucía
-- src: /images/actividades/granada/alhambra/pexels-30359817-hero.webp
-  alt: Detalle de los mocarabes y la caligrafia arabe en la Alhambra de Granada
-- src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
-  alt: Paisaje urbano de Granada con arquitectura histórica y montañas de fondo al atardecer
-- src: /images/actividades/granada/alhambra-granada/alhambra-granada-andalusia-spain-hero-hero.webp
-  alt: Patio de los Leones en la Alhambra de Granada, Andalucía, España
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
   alt: Arcos y columnas decorativas de la Alhambra de Granada con azulejos ornamentales
-- src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
-  alt: Palacio de la Alhambra en Granada con arquitectura islámica, patios y torres medievales
-- src: /images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp
-  alt: Catedral de Granada con fachada renacentista y torres gemelas bajo cielo azul
-- src: /images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
   alt: "Puerta del Vino en la Alhambra de Granada"
-- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero-hero.webp
-  alt: "Techo decorativo con azulejos y caligrafía árabe de la Sala de los Abencerrajes en el Generalife de Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

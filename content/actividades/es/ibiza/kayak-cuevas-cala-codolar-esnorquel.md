@@ -78,21 +78,23 @@ keywords:
 - tour kayak cuevas ibiza
 - cala codolar kayak
 - kayak y snorkel ibiza
-imagen: /images/actividades/ibiza/mar/kayak-turquesa.webp
-imagenAlt: Remando en kayak por aguas turquesas
+imagen: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-01.webp"
+imagenAlt: "Cala Codolar, en la costa oeste de Ibiza"
 galeria:
 - src: "/images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp"
   alt: "Islote de Es Vedra visto desde la costa de Ibiza"
+- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-02.webp"
+  alt: "Playa de Cala Codolar con sus aguas turquesas"
+- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-03.webp"
+  alt: "Cala Codolar entre rocas y pinos"
+- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-04.webp"
+  alt: "Rocas y agua cristalina en Cala Codolar"
+- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-costa.webp"
+  alt: "Costa rocosa junto a Cala Codolar"
+- src: "/images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp"
+  alt: "Acantilados de la costa oeste de Ibiza cerca de Cala Codolar"
 - src: "/images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp"
   alt: "Cala de Ibiza con barcos fondeados en aguas azules"
-- src: /images/actividades/ibiza/mar/kayak-mar.webp
-  alt: Kayak de mar
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Interior de una cueva marina
-- src: /images/actividades/ibiza/mar/kayak-cala.webp
-  alt: Kayak en una cala mediterránea
-- src: /images/actividades/ibiza/mar/peces-posidonia.webp
-  alt: Banco de salemas sobre la posidonia
 - src: /images/actividades/ibiza/calas/cala-conta-islote.webp
   alt: Cala Comte y su islote
 ratingProveedor: 4.8

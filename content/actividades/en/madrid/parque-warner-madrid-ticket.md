@@ -69,8 +69,6 @@ keywords:
 imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
 imagenAlt: "Rio Bravo water ride drop at Parque Warner Madrid"
 galeria:
-  - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
-    alt: "Parque de Warner Bros Madrid, parque temático de cine y entretenimiento"
   - src: "/images/actividades/madrid/parque-warner/coaster-express.webp"
     alt: "Coaster Express wooden roller coaster at Parque Warner"
   - src: "/images/actividades/madrid/parque-warner/torre-noche.webp"

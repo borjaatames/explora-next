@@ -77,11 +77,9 @@ keywords:
 - paguera boat trip
 - boat trip with kids mallorca
 - mallorca dolphins
-imagen: "/images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp"
-imagenAlt: "Tourist glass-bottom boat sailing near the coast"
+imagen: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
+imagenAlt: "Rocky islet with pines off the Paguera coast"
 galeria:
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
-    alt: "Rocky islet with pines off the Paguera coast"
   - src: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
     alt: "Paguera bay seen from above"
   - src: "/images/actividades/mallorca/barco-paguera/delfines-1.webp"

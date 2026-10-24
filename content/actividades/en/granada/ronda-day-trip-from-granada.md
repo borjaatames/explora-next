@@ -124,8 +124,6 @@ galeria:
   alt: "Parador and Puente Nuevo on the cliff"
 - src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-spain-puente-nuevo-de-ronda-01-jpg.webp
   alt: "Waterfall beneath Ronda's Puente Nuevo"
-- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp
-  alt: "Puente Nuevo spanning dramatic Tajo gorge with limestone cliffs in Ronda"
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
   alt: "White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains"
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp

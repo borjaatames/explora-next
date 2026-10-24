@@ -134,8 +134,6 @@ galeria:
   alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
   alt: Remates de mosaico veneciano en lo alto de las torres de la Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-iZCMf9MZRKI-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y montañas al fondo bajo cielo azul
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
   alt: Vistas panorámicas de Barcelona con la sagrada familia y arquitectura modernista
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Sy4CXsj6BDE-hero.webp

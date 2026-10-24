@@ -166,8 +166,6 @@ galeria:
   alt: "Bailaora con mantón del elenco de la Casa de la Memoria"
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
   alt: "Las Setas de la Encarnación, a pocos minutos a pie"
-- src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-arquitectura-hero.webp
-  alt: "Arquitectura andaluza de la Casa de la Memoria en Sevilla"
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp
   alt: "Patio andaluz de la Casa de la Memoria"
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp

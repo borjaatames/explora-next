@@ -86,8 +86,6 @@ imagenAlt: Casas blancas de Calella de Palafrugell frente al mar
 galeria:
 - src: "/images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp"
   alt: "Pueblo blanco de la Costa Brava en una bahía tranquila"
-- src: "/images/actividades/girona/cap-de-creus/cadaques-pueblo-desde-altura.webp"
-  alt: "Cadaqués visto desde las alturas, Costa Brava"
 - src: /images/actividades/girona/ciudades/girona-hero.webp
   alt: Girona con la catedral y las casas del Onyar
 - src: /images/actividades/girona/call/call-girona-hero.webp

@@ -126,18 +126,12 @@ galeria:
     alt: "Cumbres de Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
     alt: "Vista de Granada desde el mirador de San Nicolás"
-  - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"
-    alt: "Vista de Granada desde el mirador de San Nicolás"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-01.webp"
     alt: "Visitantes en el Mirador de San Nicolás, en el Albaicín"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-07.webp"
     alt: "Observatorio del Mojón del Trigo en Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-06.webp"
     alt: "Cabra montés, fauna típica de Sierra Nevada"
-  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp
-    alt: "Todoterreno subiendo por la montaña en Sierra Nevada"
-  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp
-    alt: "Grupo de turistas con guía local en refugio de montaña de Granada, compartiendo experiencia de senderismo en ambiente"
 ratingProveedor: 4.9
 numeroOpiniones: 1718
 publicada: true

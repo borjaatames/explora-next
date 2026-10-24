@@ -76,8 +76,6 @@ galeria:
   alt: Azoteas y torres miradores de Cádiz desde la Tavira
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-05.webp
   alt: Cúpula de la catedral desde la Torre Tavira
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-06.webp
-  alt: Torre Tavira en una calle de Cádiz
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-07.webp
   alt: Tejados blancos de Cádiz hacia el mar
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-08.webp

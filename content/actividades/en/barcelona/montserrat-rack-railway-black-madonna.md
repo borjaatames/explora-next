@@ -93,26 +93,18 @@ opinionEditorial: |
 categoria: "excursionesDia"
 keywords: ["montserrat rack railway", "montserrat black madonna tour", "moreneta montserrat", "montserrat half day", "visit montserrat from barcelona"]
 
-imagen: "/images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero.webp"
-imagenAlt: "Rack railway climbing the slopes of Montserrat mountain"
+imagen: "montserrat-church-architecture-religion-pomp-hero-hero.webp"
+imagenAlt: "Montserrat monastery among the mountains"
 
 galeria:
   - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
     alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Montserrat monastery among the mountains"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
     alt: "Facade of the Montserrat basilica"
   - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
     alt: "View of Montserrat monastery against the mountain"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-cloister-abbey-corridor-hero.webp"
-    alt: "Cloister of Montserrat monastery"
   - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero.webp"
     alt: "Golden altar of the Montserrat basilica"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-church-architecture-hero.webp"
-    alt: "Interior gothic corridor of the Montserrat basilica"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-vault-cloister-columns-hero.webp"
-    alt: "Vaulted ceiling of the Montserrat monastery cloister"
 
 ratingProveedor: 4.6
 numeroOpiniones: 7706

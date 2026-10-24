@@ -141,10 +141,6 @@ galeria:
   alt: "Hoyo valley between the two gorges"
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp
   alt: "Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls"
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-puentes-colgantes-montana-01-hero.webp
-  alt: "Suspension bridges and mountain pathways in Granada's natural landscape during a 5km hiking route"
-- src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-senderista-en-pasarela-03-hero.webp
-  alt: "Hiker with backpack walking on wooden boardwalk in Granada mountain trail, modern safety railings visible"
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true

@@ -88,12 +88,8 @@ galeria:
   alt: Puerta de Velázquez del Museo del Prado
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-museum-architecture-art-hero.webp
   alt: "Edificio del Museo del Prado en Madrid"
-- src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-monastery-09-hero.webp
-  alt: "Edificio del Museo del Prado en Madrid"
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp
   alt: "Edificio del Museo del Prado en Madrid"
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-large-white-building-clock-tower-hero.webp
-  alt: "Edificio Sabatini del Museo Reina Sofía"
 ratingProveedor: 4.4
 numeroOpiniones: 489
 atraccionesRelacionadas:

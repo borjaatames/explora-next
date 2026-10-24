@@ -65,8 +65,6 @@ galeria:
     alt: "Campanario de la Catedral de Jerez"
   - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp"
     alt: "Cúpula de la Catedral de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp"
-    alt: "Jardines del Alcázar de Jerez"
   - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
     alt: "Baños árabes del Alcázar de Jerez"
   - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp"
