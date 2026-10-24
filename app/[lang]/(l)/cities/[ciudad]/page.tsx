@@ -263,7 +263,7 @@ export default async function CiudadPage({ params }: Props) {
         textoMinLectura={strings.minLectura}
       />
 
-      <section className="bg-slate-50 border-t border-slate-200">
+      <section className="bg-piedra-50 border-t border-piedra-200">
         <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">
           <div className={gridClass}>
             {hayGuias ? (
@@ -306,7 +306,7 @@ export default async function CiudadPage({ params }: Props) {
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href={urlIndiceCiudades(lang)}
-          className="text-sky-600 hover:text-sky-700 font-semibold"
+          className="text-anil-600 hover:text-anil-700 font-semibold"
         >
           ← {dict.ciudades.volverACiudades}
         </Link>

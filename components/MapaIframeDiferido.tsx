@@ -44,7 +44,7 @@ export default function MapaIframeDiferido({ src, title, textoCargar }: Props) {
   }, [montado]);
 
   return (
-    <div ref={contenedorRef} className="relative w-full aspect-[2/1] bg-slate-100">
+    <div ref={contenedorRef} className="relative w-full aspect-[2/1] bg-piedra-100">
       {montado ? (
         <iframe
           src={src}
@@ -58,7 +58,7 @@ export default function MapaIframeDiferido({ src, title, textoCargar }: Props) {
           <button
             type="button"
             onClick={() => setMontado(true)}
-            className="inline-flex items-center justify-center bg-white border border-slate-300 hover:border-sky-400 text-slate-900 font-semibold px-6 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+            className="inline-flex items-center justify-center bg-white border border-piedra-300 hover:border-anil-400 text-piedra-900 font-semibold px-6 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
           >
             {textoCargar}
           </button>

@@ -56,11 +56,11 @@ export default function TarjetaReservaInline({ actividad, idioma }: Props) {
 
   return (
     <aside
-      className="my-8 border border-slate-200 rounded-xl p-4 sm:p-5 bg-white flex flex-col sm:flex-row gap-4 sm:items-center"
+      className="my-8 border border-piedra-200 rounded-xl p-4 sm:p-5 bg-white flex flex-col sm:flex-row gap-4 sm:items-center"
       aria-label={t.etiqueta}
     >
       {actividad.imagen ? (
-        <div className="relative w-full sm:w-32 aspect-[4/3] sm:aspect-auto sm:h-24 rounded-lg overflow-hidden bg-slate-100 flex-none">
+        <div className="relative w-full sm:w-32 aspect-[4/3] sm:aspect-auto sm:h-24 rounded-lg overflow-hidden bg-piedra-100 flex-none">
           <Image
             src={actividad.imagen}
             alt={actividad.imagenAlt}
@@ -71,19 +71,19 @@ export default function TarjetaReservaInline({ actividad, idioma }: Props) {
         </div>
       ) : null}
       <div className="flex-1 min-w-0">
-        <p className="text-[11px] font-semibold uppercase tracking-wider text-sky-700 mb-1">
+        <p className="text-[11px] font-semibold uppercase tracking-wider text-anil-700 mb-1">
           {t.etiqueta}
         </p>
-        <p className="font-semibold text-slate-900 leading-snug mb-1">
+        <p className="font-semibold text-piedra-900 leading-snug mb-1">
           {actividad.titulo}
         </p>
-        <p className="text-sm text-slate-500">
+        <p className="text-sm text-piedra-500">
           {rating ? (
             <>
-              <span className="text-amber-500" aria-hidden>
+              <span className="text-azafran-600" aria-hidden>
                 ★
               </span>{" "}
-              <span className="font-semibold text-slate-900">{rating}</span>
+              <span className="font-semibold text-piedra-900">{rating}</span>
               {opiniones ? ` · ${opiniones} ${t.opiniones}` : null}
             </>
           ) : null}
@@ -96,9 +96,9 @@ export default function TarjetaReservaInline({ actividad, idioma }: Props) {
         </p>
       </div>
       <div className="flex sm:flex-col items-center sm:items-end justify-between gap-3 flex-none">
-        <p className="text-sm text-slate-500">
+        <p className="text-sm text-piedra-500">
           {t.desde}{" "}
-          <span className="text-lg font-bold text-slate-900">
+          <span className="text-lg font-bold text-piedra-900">
             {formatearPrecio(actividad, idioma)}
           </span>
         </p>
@@ -106,7 +106,7 @@ export default function TarjetaReservaInline({ actividad, idioma }: Props) {
           href={actividad.url}
           data-reserva="inline"
           data-ficha={slugEs}
-          className="inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-5 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+          className="inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-5 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
         >
           {t.cta}
         </Link>

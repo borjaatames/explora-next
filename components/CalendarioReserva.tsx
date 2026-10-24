@@ -268,8 +268,8 @@ export default function CalendarioReserva({
       : `${(numeroOpiniones ?? 0).toLocaleString(t.locale)} ${t.opinionPlural}`;
 
   return (
-    <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
-      <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
+    <div className="bg-white border border-piedra-200 rounded-lg shadow-sm overflow-hidden">
+      <div className="bg-anil-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
           {t.headerReservar}
         </span>
@@ -279,47 +279,47 @@ export default function CalendarioReserva({
       </div>
 
       <div className="p-5">
-        <p className="text-xs text-slate-500">{textoDesde}</p>
-        <p className="text-4xl font-bold text-slate-900 mt-0.5">{precio}</p>
-        <p className="text-xs text-slate-500">{textoPorPersona}</p>
+        <p className="text-xs text-piedra-500">{textoDesde}</p>
+        <p className="text-4xl font-bold text-piedra-900 mt-0.5">{precio}</p>
+        <p className="text-xs text-piedra-500">{textoPorPersona}</p>
 
         {tieneRating && (
-          <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-amber-50 px-2.5 py-1.5 text-sm">
-            <span className="inline-flex items-center gap-1 font-semibold text-slate-900">
-              <span aria-hidden="true" className="text-amber-500 text-base leading-none">
+          <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-azafran-50 px-2.5 py-1.5 text-sm">
+            <span className="inline-flex items-center gap-1 font-semibold text-piedra-900">
+              <span aria-hidden="true" className="text-azafran-500 text-base leading-none">
                 ★
               </span>
               <span>{ratingTextoValor}</span>
             </span>
-            <span aria-hidden="true" className="text-slate-300">
+            <span aria-hidden="true" className="text-piedra-300">
               ·
             </span>
-            <span className="text-slate-700">{ratingTextoOpiniones}</span>
+            <span className="text-piedra-700">{ratingTextoOpiniones}</span>
           </div>
         )}
 
         <div className="mt-5">
-          <p className="text-xs font-semibold text-slate-700 mb-2">
+          <p className="text-xs font-semibold text-piedra-700 mb-2">
             {t.compruebaDisponibilidad}
           </p>
-          <div className="border border-slate-200 rounded-lg p-3">
+          <div className="border border-piedra-200 rounded-lg p-3">
             <div className="flex items-center justify-between mb-2">
               <button
                 type="button"
                 onClick={() => navegar(-1)}
                 disabled={!puedeIrAtras}
-                className="px-2 py-1 text-slate-400 hover:text-sky-600 disabled:opacity-30 disabled:cursor-not-allowed transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 rounded"
+                className="px-2 py-1 text-piedra-400 hover:text-anil-600 disabled:opacity-30 disabled:cursor-not-allowed transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 rounded"
                 aria-label={t.mesAnterior}
               >
                 ‹
               </button>
-              <span className="text-sm font-semibold text-slate-900">
+              <span className="text-sm font-semibold text-piedra-900">
                 {t.meses[mesVisible.month]} {mesVisible.year}
               </span>
               <button
                 type="button"
                 onClick={() => navegar(1)}
-                className="px-2 py-1 text-sky-600 hover:text-sky-700 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 rounded"
+                className="px-2 py-1 text-anil-600 hover:text-anil-700 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 rounded"
                 aria-label={t.mesSiguiente}
               >
                 ›
@@ -330,7 +330,7 @@ export default function CalendarioReserva({
               {t.diasSemana.map((d, idx) => (
                 <div
                   key={idx}
-                  className="text-[10px] text-slate-400 font-semibold py-1"
+                  className="text-[10px] text-piedra-400 font-semibold py-1"
                 >
                   {d}
                 </div>
@@ -355,7 +355,7 @@ export default function CalendarioReserva({
           onClick={handleReservarClick}
           target="_blank"
           rel="noopener noreferrer sponsored"
-          className="mt-5 inline-flex w-full items-center justify-center rounded-lg bg-amber-400 hover:bg-amber-500 px-5 py-3 text-base font-semibold text-slate-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-amber-500"
+          className="mt-5 inline-flex w-full items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-base font-semibold text-piedra-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-azafran-500"
         >
           {textoReservar} →
         </a>
@@ -366,7 +366,7 @@ export default function CalendarioReserva({
           </div>
         )}
 
-        <p className="mt-3 text-center text-[11px] text-slate-500 leading-relaxed">
+        <p className="mt-3 text-center text-[11px] text-piedra-500 leading-relaxed">
           {t.enProveedorConfirma(nombreProveedor)}
           {cancelacionGratuita ? (
             <>
@@ -381,14 +381,14 @@ export default function CalendarioReserva({
           ) : null}
         </p>
 
-        <dl className="mt-4 pt-4 border-t border-slate-100 space-y-2 text-xs">
+        <dl className="mt-4 pt-4 border-t border-piedra-100 space-y-2 text-xs">
           <div className="flex justify-between">
-            <dt className="text-slate-500">{textoDuracion}</dt>
-            <dd className="font-semibold text-slate-900">{duracion}</dd>
+            <dt className="text-piedra-500">{textoDuracion}</dt>
+            <dd className="font-semibold text-piedra-900">{duracion}</dd>
           </div>
           <div className="flex justify-between">
-            <dt className="text-slate-500">{textoIdiomas}</dt>
-            <dd className="font-semibold text-slate-900">
+            <dt className="text-piedra-500">{textoIdiomas}</dt>
+            <dd className="font-semibold text-piedra-900">
               {idiomas.map((i) => i.toUpperCase()).join(", ")}
             </dd>
           </div>
@@ -426,10 +426,10 @@ function BotonDia({
     fechaSeleccionada !== null && esMismaFecha(dia, fechaSeleccionada);
 
   const baseClass =
-    "py-2 text-xs rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500";
-  const enabledClass = "text-slate-900 hover:bg-sky-50 cursor-pointer";
-  const disabledClass = "text-slate-300 cursor-not-allowed";
-  const selectedClass = "bg-amber-400 text-slate-900 font-semibold";
+    "py-2 text-xs rounded-md transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500";
+  const enabledClass = "text-piedra-900 hover:bg-anil-50 cursor-pointer";
+  const disabledClass = "text-piedra-300 cursor-not-allowed";
+  const selectedClass = "bg-azafran-400 text-piedra-900 font-semibold";
 
   return (
     <button

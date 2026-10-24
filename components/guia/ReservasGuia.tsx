@@ -59,14 +59,14 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
   return (
     <section
       aria-label={t.aria}
-      className="bg-slate-50 border-b border-slate-200"
+      className="bg-piedra-50 border-b border-piedra-200"
     >
       <div className="max-w-3xl mx-auto px-4 py-8 md:py-10">
         <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 mb-4">
-          <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900">
+          <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900">
             {t.titulo}
           </h2>
-          <p className="text-sm text-slate-500">{t.subtitulo(actividades.length)}</p>
+          <p className="text-sm text-piedra-500">{t.subtitulo(actividades.length)}</p>
         </div>
         <ol className="flex flex-col gap-2">
           {actividades.map((a, i) => {
@@ -76,10 +76,10 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
             return (
               <li
                 key={a.url}
-                className="flex flex-wrap items-center gap-x-3 gap-y-2 sm:gap-x-4 bg-white border border-slate-200 rounded-lg px-3 py-3 sm:px-4"
+                className="flex flex-wrap items-center gap-x-3 gap-y-2 sm:gap-x-4 bg-white border border-piedra-200 rounded-lg px-3 py-3 sm:px-4"
               >
                 <span
-                  className="flex-none w-7 h-7 rounded-full bg-sky-500 text-white text-xs font-bold flex items-center justify-center"
+                  className="flex-none w-7 h-7 rounded-full bg-anil-500 text-white text-xs font-bold flex items-center justify-center"
                   aria-hidden
                 >
                   {i + 1}
@@ -87,16 +87,16 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
                 <div className="flex-1 min-w-[12rem]">
                   <Link
                     href={a.url}
-                    className="block font-semibold text-slate-900 hover:text-sky-700 transition-colors leading-snug"
+                    className="block font-semibold text-piedra-900 hover:text-anil-700 transition-colors leading-snug"
                     data-reserva="top"
                     data-ficha={slugEs}
                   >
                     {a.titulo}
                   </Link>
-                  <p className="text-xs text-slate-500 mt-0.5">
+                  <p className="text-xs text-piedra-500 mt-0.5">
                     {rating ? (
                       <>
-                        <span className="text-amber-500" aria-hidden>
+                        <span className="text-azafran-600" aria-hidden>
                           ★
                         </span>{" "}
                         {rating}
@@ -112,14 +112,14 @@ export default function ReservasGuia({ actividades, idioma }: Props) {
                   </p>
                 </div>
                 <div className="ml-auto flex items-center gap-3 sm:gap-4">
-                <span className="flex-none font-bold text-slate-900 text-sm sm:text-base">
+                <span className="flex-none font-bold text-piedra-900 text-sm sm:text-base">
                   {formatearPrecio(a, idioma)}
                 </span>
                 <Link
                   href={a.url}
                   data-reserva="top"
                   data-ficha={slugEs}
-                  className="flex-none inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-4 py-2.5 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+                  className="flex-none inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-4 py-2.5 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
                 >
                   {t.cta}
                 </Link>

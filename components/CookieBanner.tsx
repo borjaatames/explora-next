@@ -122,31 +122,31 @@ export default function CookieBanner({ idioma }: Props) {
       role="dialog"
       aria-labelledby="cookie-banner-titulo"
       aria-describedby="cookie-banner-texto"
-      className="fixed bottom-0 left-0 right-0 z-50 border-t border-slate-200 bg-white shadow-lg animate-cookie-slide-up"
+      className="fixed bottom-0 left-0 right-0 z-50 border-t border-piedra-200 bg-white shadow-lg animate-cookie-slide-up"
     >
       <div className="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-3 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8 lg:py-3">
         <div className="flex-1">
           <p
             id="cookie-banner-titulo"
-            className="text-sm font-semibold text-slate-900"
+            className="text-sm font-semibold text-piedra-900"
           >
             {t.titulo}
           </p>
           <p
             id="cookie-banner-texto"
-            className="mt-1 text-sm text-slate-600"
+            className="mt-1 text-sm text-piedra-600"
           >
             {t.texto}{" "}
             <Link
               href={urlCookies(idioma)}
-              className="underline hover:text-slate-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded-sm"
+              className="underline hover:text-piedra-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded-sm"
             >
               {t.politicaCookies}
             </Link>{" "}
             {t.y}{" "}
             <Link
               href={urlPrivacidad(idioma)}
-              className="underline hover:text-slate-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded-sm"
+              className="underline hover:text-piedra-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded-sm"
             >
               {t.politicaPrivacidad}
             </Link>
@@ -158,14 +158,14 @@ export default function CookieBanner({ idioma }: Props) {
           <button
             type="button"
             onClick={rechazar}
-            className="flex-1 lg:flex-none rounded-md border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition-colors hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+            className="flex-1 lg:flex-none rounded-md border border-piedra-300 bg-white px-4 py-2 text-sm font-semibold text-piedra-700 transition-colors hover:bg-piedra-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
           >
             {t.rechazar}
           </button>
           <button
             type="button"
             onClick={aceptar}
-            className="flex-1 lg:flex-none rounded-md bg-slate-900 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-slate-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+            className="flex-1 lg:flex-none rounded-md bg-piedra-900 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-piedra-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
           >
             {t.aceptar}
           </button>

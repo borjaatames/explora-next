@@ -57,7 +57,7 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
   };
   const paginaProveedor = urlProveedor(resenas[0]?.url);
   const claseEnlace =
-    "font-semibold text-sky-600 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded";
+    "font-semibold text-anil-600 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded";
 
   useEffect(() => {
     const el = ref.current;
@@ -97,10 +97,10 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
     <section ref={ref} aria-labelledby={resenas.length ? "resenas-titulo" : undefined}>
       {resenas.length > 0 && (
         <>
-          <h2 id="resenas-titulo" className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-1">
+          <h2 id="resenas-titulo" className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-1">
             {t.titulo}
           </h2>
-          <p className="text-sm text-slate-500 mb-4">
+          <p className="text-sm text-piedra-500 mb-4">
             {t.subtitulo}{" "}
             {paginaProveedor ? (
               <a
@@ -119,21 +119,21 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
           </p>
           <ul className="flex flex-col gap-3">
             {resenas.map((r) => (
-              <li key={r.id} className="border border-slate-200 rounded-lg p-4">
+              <li key={r.id} className="border border-piedra-200 rounded-lg p-4">
                 <div className="flex items-center justify-between gap-3 mb-2">
-                  <span className="text-amber-500 text-sm" aria-label={`${r.rating}/5`}>
+                  <span className="text-azafran-500 text-sm" aria-label={`${r.rating}/5`}>
                     {"★".repeat(Math.round(r.rating))}
-                    <span className="text-slate-300">{"★".repeat(5 - Math.round(r.rating))}</span>
+                    <span className="text-piedra-300">{"★".repeat(5 - Math.round(r.rating))}</span>
                   </span>
                   {r.fecha && (
-                    <time dateTime={r.fecha} className="text-xs text-slate-500">
+                    <time dateTime={r.fecha} className="text-xs text-piedra-500">
                       {new Date(r.fecha).toLocaleDateString(t.locale, { month: "long", year: "numeric" })}
                     </time>
                   )}
                 </div>
-                {r.titulo && <p className="font-semibold text-slate-900 mb-1">{r.titulo}</p>}
-                <p className="text-sm text-slate-600 leading-relaxed line-clamp-4">{r.texto}</p>
-                <div className="mt-3 flex flex-wrap items-center justify-between gap-2 text-xs text-slate-500">
+                {r.titulo && <p className="font-semibold text-piedra-900 mb-1">{r.titulo}</p>}
+                <p className="text-sm text-piedra-600 leading-relaxed line-clamp-4">{r.texto}</p>
+                <div className="mt-3 flex flex-wrap items-center justify-between gap-2 text-xs text-piedra-500">
                   <span>
                     {r.autor}
                     {r.lugarAutor ? ` · ${r.lugarAutor}` : ""}

@@ -50,7 +50,7 @@ export default function FranjaConfianza({ idioma }: { idioma: Idioma }) {
 
   return (
     <section aria-label={t.titulo}>
-      <div className="border-b border-slate-200">
+      <div className="border-b border-piedra-200">
         <ul className="max-w-6xl mx-auto px-4 py-6 md:py-7 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-4">
           {t.items.map((item, i) => (
             <li key={item.t} className="flex items-start gap-3">
@@ -63,14 +63,14 @@ export default function FranjaConfianza({ idioma }: { idioma: Idioma }) {
                 strokeWidth="2"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                className="text-sky-700 flex-shrink-0 mt-0.5"
+                className="text-anil-700 flex-shrink-0 mt-0.5"
                 aria-hidden="true"
               >
                 {ICONOS[i]}
               </svg>
               <div>
-                <p className="font-semibold text-slate-900">{item.t}</p>
-                <p className="text-sm text-slate-500">{item.d}</p>
+                <p className="font-semibold text-piedra-900">{item.t}</p>
+                <p className="text-sm text-piedra-500">{item.d}</p>
               </div>
             </li>
           ))}
@@ -85,15 +85,15 @@ export function FranjaPartners({ idioma }: { idioma: Idioma }) {
   const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
 
   return (
-    <section aria-label={t.partners} className="bg-slate-50 border-t border-slate-200">
+    <section aria-label={t.partners} className="bg-piedra-50 border-t border-piedra-200">
       <div className="max-w-6xl mx-auto px-4 py-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-        <p className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+        <p className="text-xs font-semibold uppercase tracking-widest text-piedra-500">
           {t.partners}
         </p>
         <div className="flex items-center gap-10 opacity-70 grayscale">
           <Image src="/logos/getyourguide.svg" alt="GetYourGuide" width={47} height={40} className="h-10 w-auto" />
           <Image src="/logos/viator.svg" alt="Viator" width={100} height={32} className="h-6 w-auto" />
-          <span className="text-lg font-semibold text-slate-500">Stripe</span>
+          <span className="text-lg font-semibold text-piedra-500">Stripe</span>
         </div>
       </div>
     </section>

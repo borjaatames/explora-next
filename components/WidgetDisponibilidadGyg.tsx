@@ -65,6 +65,8 @@ type Props = {
   soloEn: "movil" | "escritorio";
   /** Lo que se pinta fuera de su tamaño de pantalla (y antes de hidratar). */
   fallback?: ReactNode;
+  /** Bloque sobre el widget (precio «desde» y nota): el widget no los enseña. */
+  cabecera?: ReactNode;
 };
 
 type GtagWindow = Window & {
@@ -90,6 +92,7 @@ export default function WidgetDisponibilidadGyg({
   urlReserva,
   soloEn,
   fallback = null,
+  cabecera = null,
 }: Props) {
   const [activo, setActivo] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
@@ -129,7 +132,8 @@ export default function WidgetDisponibilidadGyg({
 
   return (
     <div id={ANCLA_WIDGET_GYG} className="scroll-mt-24">
-      <p className="text-sm font-semibold text-slate-900 mb-2">{t.titulo}</p>
+      {cabecera}
+      <p className="text-sm font-semibold text-piedra-900 mb-2">{t.titulo}</p>
       <div ref={contenedorRef} className="min-h-[575px]">
         <div
           data-gyg-href="https://widget.getyourguide.com/default/availability.frame"
@@ -141,26 +145,26 @@ export default function WidgetDisponibilidadGyg({
           data-gyg-partner-id={GYG_PARTNER_ID}
           data-gyg-cmp={CAMPANA_WIDGET_GYG}
         >
-          <span className="text-xs text-slate-500">
+          <span className="text-xs text-piedra-500">
             Powered by{" "}
             <a
               target="_blank"
               rel="sponsored noopener"
               href="https://www.getyourguide.com/"
-              className="text-sky-600 hover:text-sky-700"
+              className="text-anil-600 hover:text-anil-700"
             >
               GetYourGuide
             </a>
           </span>
         </div>
       </div>
-      <p className="mt-3 text-center text-xs text-slate-500">
+      <p className="mt-3 text-center text-xs text-piedra-500">
         {t.noCarga}{" "}
         <a
           href={urlReserva}
           target="_blank"
           rel="noopener noreferrer sponsored"
-          className="font-semibold text-sky-600 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
+          className="font-semibold text-anil-600 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
         >
           {t.verEnGyg}
         </a>

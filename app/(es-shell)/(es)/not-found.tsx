@@ -30,13 +30,13 @@ export default function NotFoundEs() {
   return (
     <main className="min-h-screen bg-white flex items-center">
       <div className="max-w-3xl mx-auto px-4 py-16 md:py-24 text-center">
-        <p className="font-playfair text-sky-600 text-lg font-semibold mb-2">
+        <p className="font-fraunces text-anil-600 text-lg font-semibold mb-2">
           Error 404
         </p>
-        <h1 className="font-playfair text-4xl md:text-5xl font-bold text-slate-900 mb-4 leading-tight">
+        <h1 className="font-fraunces text-4xl md:text-5xl font-bold text-piedra-900 mb-4 leading-tight">
           Esta página no existe (o ya no)
         </h1>
-        <p className="text-lg text-slate-600 mb-10 max-w-xl mx-auto">
+        <p className="text-lg text-piedra-600 mb-10 max-w-xl mx-auto">
           El enlace puede estar desactualizado o la actividad que buscabas ya
           no está disponible. Seguimos teniendo guías y actividades por toda
           España — empieza por aquí.
@@ -45,26 +45,26 @@ export default function NotFoundEs() {
         <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
           <Link
             href="/"
-            className="inline-flex items-center justify-center bg-white border border-slate-300 hover:border-sky-400 text-slate-900 font-semibold px-6 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+            className="inline-flex items-center justify-center bg-white border border-piedra-300 hover:border-anil-400 text-piedra-900 font-semibold px-6 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
           >
             Volver al inicio
           </Link>
           <Link
             href={urlIndiceGuias("es")}
-            className="inline-flex items-center text-sky-600 hover:text-sky-700 font-medium transition-colors"
+            className="inline-flex items-center text-anil-600 hover:text-anil-700 font-medium transition-colors"
           >
             Ver todas las guías →
           </Link>
           <Link
             href={urlIndiceCiudades("es")}
-            className="inline-flex items-center text-sky-600 hover:text-sky-700 font-medium transition-colors"
+            className="inline-flex items-center text-anil-600 hover:text-anil-700 font-medium transition-colors"
           >
             Ver todas las ciudades →
           </Link>
         </div>
 
-        <div className="pt-10 border-t border-slate-200">
-          <p className="text-sm font-semibold uppercase tracking-wider text-slate-500 mb-4">
+        <div className="pt-10 border-t border-piedra-200">
+          <p className="text-sm font-semibold uppercase tracking-wider text-piedra-500 mb-4">
             Destinos con más contenido
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
@@ -72,7 +72,7 @@ export default function NotFoundEs() {
               <Link
                 key={c.slug}
                 href={urlCiudad("es", c.slug)}
-                className="inline-block bg-sky-100 text-sky-700 text-sm font-semibold px-3 py-1.5 rounded hover:bg-sky-200 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+                className="inline-block bg-anil-100 text-anil-700 text-sm font-semibold px-3 py-1.5 rounded hover:bg-anil-200 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
               >
                 {c.nombre}
               </Link>

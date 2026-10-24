@@ -132,7 +132,7 @@ export default function BokunWidget({
 
   if (!channelUuid) {
     return (
-      <div className="bg-white border border-slate-200 rounded-lg p-5 text-sm text-slate-500">
+      <div className="bg-white border border-piedra-200 rounded-lg p-5 text-sm text-piedra-500">
         {idioma === "es"
           ? "Reserva temporalmente no disponible."
           : "Booking temporarily unavailable."}
@@ -161,8 +161,8 @@ export default function BokunWidget({
         }`;
 
   return (
-    <div className="bg-white border border-slate-200 rounded-lg shadow-sm overflow-hidden">
-      <div className="bg-sky-500 text-white px-4 py-2 flex items-center justify-between">
+    <div className="bg-white border border-piedra-200 rounded-lg shadow-sm overflow-hidden">
+      <div className="bg-anil-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
           {idioma === "es" ? "Reservar tu visita" : "Book your visit"}
         </span>
@@ -173,31 +173,31 @@ export default function BokunWidget({
 
       {typeof precioDesde === "number" && precioDesde > 0 && (
         <div className="px-4 pt-3">
-          <p className="text-xs text-slate-500">
+          <p className="text-xs text-piedra-500">
             {idioma === "es" ? "Desde" : "From"}
           </p>
-          <p className="text-4xl font-bold text-slate-900 mt-0.5">
+          <p className="text-4xl font-bold text-piedra-900 mt-0.5">
             {new Intl.NumberFormat(idioma === "es" ? "es-ES" : "en-GB", {
               style: "currency",
               currency: moneda || "EUR",
               maximumFractionDigits: 0,
             }).format(precioDesde)}
           </p>
-          <p className="text-xs text-slate-500">
+          <p className="text-xs text-piedra-500">
             {textoUnidadBokun({ porGrupo: Boolean(porGrupo), minimoPersonas }, idioma)}
           </p>
           {tieneRating && (
-            <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-amber-50 px-2.5 py-1.5 text-sm">
-              <span className="inline-flex items-center gap-1 font-semibold text-slate-900">
-                <span aria-hidden="true" className="text-amber-500 text-base leading-none">
+            <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-azafran-50 px-2.5 py-1.5 text-sm">
+              <span className="inline-flex items-center gap-1 font-semibold text-piedra-900">
+                <span aria-hidden="true" className="text-azafran-500 text-base leading-none">
                   ★
                 </span>
                 <span>{ratingValor}</span>
               </span>
-              <span aria-hidden="true" className="text-slate-300">
+              <span aria-hidden="true" className="text-piedra-300">
                 ·
               </span>
-              <span className="text-slate-700">{ratingOpiniones}</span>
+              <span className="text-piedra-700">{ratingOpiniones}</span>
             </div>
           )}
         </div>
@@ -218,8 +218,8 @@ export default function BokunWidget({
         </noscript>
       </div>
 
-      <div className="border-t border-slate-100 px-4 py-2.5">
-        <p className="flex items-center justify-center gap-1.5 text-[11px] text-slate-500 text-center leading-snug">
+      <div className="border-t border-piedra-100 px-4 py-2.5">
+        <p className="flex items-center justify-center gap-1.5 text-[11px] text-piedra-500 text-center leading-snug">
           <svg
             width="12"
             height="12"
@@ -230,7 +230,7 @@ export default function BokunWidget({
             strokeLinecap="round"
             strokeLinejoin="round"
             aria-hidden="true"
-            className="text-sky-600 flex-shrink-0"
+            className="text-anil-600 flex-shrink-0"
           >
             <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
             <path d="M7 11V7a5 5 0 0 1 10 0v4" />

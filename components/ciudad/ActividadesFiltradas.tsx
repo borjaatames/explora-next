@@ -234,19 +234,19 @@ export default function ActividadesFiltradas({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
         <div className="grid grid-cols-1 lg:grid-cols-[220px_1fr] gap-8">
           {chips.length > 0 || categorias.length > 0 ? (
-            <aside className="lg:border-r lg:border-slate-200 lg:pr-6">
+            <aside className="lg:border-r lg:border-piedra-200 lg:pr-6">
               {/* Móvil: botón para plegar/desplegar los filtros (en pantalla
                   pequeña los chips ocupan mucho aunque no estén seleccionados). */}
               <button
                 type="button"
                 onClick={() => setFiltrosAbiertos((v) => !v)}
                 aria-expanded={filtrosAbiertos}
-                className="lg:hidden w-full flex items-center justify-between gap-2 mb-4 px-3 py-2 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-900 hover:border-sky-400 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                className="lg:hidden w-full flex items-center justify-between gap-2 mb-4 px-3 py-2 rounded-lg border border-piedra-300 bg-white text-sm font-semibold text-piedra-900 hover:border-anil-400 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
               >
                 <span className="flex items-center gap-2">
                   {strings.filtrarPor}
                   {totalFiltros > 0 ? (
-                    <span className="inline-flex items-center justify-center min-w-[20px] h-5 px-1.5 rounded-full bg-sky-500 text-white text-xs">
+                    <span className="inline-flex items-center justify-center min-w-[20px] h-5 px-1.5 rounded-full bg-anil-500 text-white text-xs">
                       {totalFiltros}
                     </span>
                   ) : null}
@@ -269,13 +269,13 @@ export default function ActividadesFiltradas({
 
               {/* Contenido de filtros: plegable en móvil, fijo en escritorio. */}
               <div className={(filtrosAbiertos ? "block" : "hidden") + " lg:block"}>
-                <div className="hidden lg:block text-xs font-semibold text-slate-900 uppercase tracking-wider mb-3">
+                <div className="hidden lg:block text-xs font-semibold text-piedra-900 uppercase tracking-wider mb-3">
                   {strings.filtrarPor}
                 </div>
 
               {chips.length > 0 ? (
                 <>
-                  <div className="text-xs text-slate-500 uppercase tracking-wider mb-2">
+                  <div className="text-xs text-piedra-500 uppercase tracking-wider mb-2">
                     {strings.atracciones}
                   </div>
                   <div className="flex flex-wrap lg:flex-col gap-2 mb-5">
@@ -288,10 +288,10 @@ export default function ActividadesFiltradas({
                           onClick={() => toggleTag(chip.tag)}
                           aria-pressed={activo}
                           className={
-                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 " +
+                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 " +
                             (activo
-                              ? "bg-sky-500 border-sky-500 text-white hover:bg-sky-600"
-                              : "bg-white border-slate-300 text-slate-900 hover:border-sky-400")
+                              ? "bg-anil-500 border-anil-500 text-white hover:bg-anil-600"
+                              : "bg-white border-piedra-300 text-piedra-900 hover:border-anil-400")
                           }
                         >
                           {activo ? "✓ " : ""}
@@ -305,7 +305,7 @@ export default function ActividadesFiltradas({
 
               {categorias.length > 0 ? (
                 <>
-                  <div className="text-xs text-slate-500 uppercase tracking-wider mb-2">
+                  <div className="text-xs text-piedra-500 uppercase tracking-wider mb-2">
                     {strings.categorias}
                   </div>
                   <div className="flex flex-wrap lg:flex-col gap-2 mb-4">
@@ -318,10 +318,10 @@ export default function ActividadesFiltradas({
                           onClick={() => toggleCategoria(cat.key)}
                           aria-pressed={activo}
                           className={
-                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 " +
+                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2 " +
                             (activo
-                              ? "bg-amber-500 border-amber-500 text-slate-900 hover:bg-amber-600"
-                              : "bg-white border-slate-300 text-slate-900 hover:border-amber-400")
+                              ? "bg-azafran-500 border-azafran-500 text-piedra-900 hover:bg-azafran-600"
+                              : "bg-white border-piedra-300 text-piedra-900 hover:border-azafran-400")
                           }
                         >
                           {activo ? "✓ " : ""}
@@ -337,7 +337,7 @@ export default function ActividadesFiltradas({
                 <button
                   type="button"
                   onClick={limpiarTodo}
-                  className="text-sm text-sky-600 hover:text-sky-700 font-semibold"
+                  className="text-sm text-anil-600 hover:text-anil-700 font-semibold"
                 >
                   {strings.limpiarFiltros}
                 </button>
@@ -348,18 +348,18 @@ export default function ActividadesFiltradas({
 
           <div ref={listaRef} className="scroll-mt-24">
             <div className="flex flex-wrap items-baseline justify-between gap-2 mb-6">
-              <div className="text-base font-semibold text-slate-900">
+              <div className="text-base font-semibold text-piedra-900">
                 {contador}
               </div>
               {totalFiltros > 0 ? (
-                <div className="text-sm text-slate-500">
+                <div className="text-sm text-piedra-500">
                   {filtrosActivosLabel}
                 </div>
               ) : null}
             </div>
 
             {filtradas.length === 0 ? (
-              <div className="text-center py-12 text-slate-500 text-base">
+              <div className="text-center py-12 text-piedra-500 text-base">
                 {strings.sinResultados}
               </div>
             ) : (
@@ -394,7 +394,7 @@ export default function ActividadesFiltradas({
                       onClick={() => irAPagina(paginaSegura - 1)}
                       disabled={paginaSegura === 1}
                       aria-label={txtPaginacion.anterior}
-                      className="inline-flex items-center justify-center w-9 h-9 rounded-lg border border-slate-300 text-slate-700 hover:border-sky-400 hover:text-sky-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                      className="inline-flex items-center justify-center w-9 h-9 rounded-lg border border-piedra-300 text-piedra-700 hover:border-anil-400 hover:text-anil-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
                     >
                       ‹
                     </button>
@@ -403,7 +403,7 @@ export default function ActividadesFiltradas({
                       p === "…" ? (
                         <span
                           key={`gap-${i}`}
-                          className="px-1.5 text-slate-400 select-none"
+                          className="px-1.5 text-piedra-400 select-none"
                           aria-hidden="true"
                         >
                           …
@@ -416,10 +416,10 @@ export default function ActividadesFiltradas({
                           aria-label={txtPaginacion.pagina(p)}
                           aria-current={p === paginaSegura ? "page" : undefined}
                           className={
-                            "inline-flex items-center justify-center min-w-9 h-9 px-3 rounded-lg border text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 " +
+                            "inline-flex items-center justify-center min-w-9 h-9 px-3 rounded-lg border text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 " +
                             (p === paginaSegura
-                              ? "bg-sky-500 border-sky-500 text-white"
-                              : "bg-white border-slate-300 text-slate-700 hover:border-sky-400 hover:text-sky-700")
+                              ? "bg-anil-500 border-anil-500 text-white"
+                              : "bg-white border-piedra-300 text-piedra-700 hover:border-anil-400 hover:text-anil-700")
                           }
                         >
                           {p}
@@ -432,7 +432,7 @@ export default function ActividadesFiltradas({
                       onClick={() => irAPagina(paginaSegura + 1)}
                       disabled={paginaSegura === totalPaginas}
                       aria-label={txtPaginacion.siguiente}
-                      className="inline-flex items-center justify-center w-9 h-9 rounded-lg border border-slate-300 text-slate-700 hover:border-sky-400 hover:text-sky-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                      className="inline-flex items-center justify-center w-9 h-9 rounded-lg border border-piedra-300 text-piedra-700 hover:border-anil-400 hover:text-anil-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
                     >
                       ›
                     </button>
@@ -444,9 +444,9 @@ export default function ActividadesFiltradas({
             {enlacesCategorias.length > 0 ? (
               <nav
                 aria-label={txtCategorias}
-                className="mt-12 pt-8 border-t border-slate-200"
+                className="mt-12 pt-8 border-t border-piedra-200"
               >
-                <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-4">
+                <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-4">
                   {txtCategorias}
                 </h2>
                 <ul className="flex flex-wrap gap-x-4 gap-y-2">
@@ -455,7 +455,7 @@ export default function ActividadesFiltradas({
                       <Link
                         href={c.href}
                         prefetch={false}
-                        className="inline-flex items-center text-sky-600 hover:text-sky-700 font-semibold transition-colors"
+                        className="inline-flex items-center text-anil-600 hover:text-anil-700 font-semibold transition-colors"
                       >
                         {c.label} ({c.total}) →
                       </Link>
@@ -492,10 +492,10 @@ function CardActividad({
     <Link
       href={actividad.url}
       prefetch={false}
-      className="group flex flex-col w-full overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      className="group flex flex-col w-full overflow-hidden rounded-xl border border-piedra-200 bg-white shadow-sm transition hover:border-anil-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
     >
       {actividad.imagen ? (
-        <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+        <div className="relative aspect-[4/3] w-full overflow-hidden bg-piedra-100">
           <Image
             src={actividad.imagen}
             alt={actividad.imagenAlt}
@@ -504,27 +504,27 @@ function CardActividad({
             className="object-cover transition duration-300 group-hover:scale-105"
           />
           {actividad.cancelacionGratuita ? (
-            <span className="absolute top-3 left-3 bg-amber-500 text-slate-900 text-xs font-semibold px-2 py-1 rounded">
+            <span className="absolute top-3 left-3 bg-azafran-500 text-piedra-900 text-xs font-semibold px-2 py-1 rounded">
               {strings.cancelacionGratuita}
             </span>
           ) : null}
         </div>
       ) : (
-        <div className="aspect-[4/3] w-full bg-slate-100" aria-hidden="true" />
+        <div className="aspect-[4/3] w-full bg-piedra-100" aria-hidden="true" />
       )}
 
       <div className="flex flex-1 flex-col p-5">
-        <h3 className="font-playfair text-lg md:text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
+        <h3 className="font-fraunces text-lg md:text-xl font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
           {actividad.titulo}
         </h3>
-        <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-slate-500 mb-4">
+        <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-piedra-500 mb-4">
           {actividad.duracion ? (
             <span className="min-w-0 truncate">{actividad.duracion}</span>
           ) : null}
           {typeof actividad.ratingProveedor === "number" &&
           typeof actividad.numeroOpiniones === "number" ? (
             <span className="shrink-0">
-              <span className="text-amber-500" aria-hidden="true">
+              <span className="text-azafran-600" aria-hidden="true">
                 ★
               </span>{" "}
               {actividad.ratingProveedor.toFixed(1)} (
@@ -532,7 +532,7 @@ function CardActividad({
             </span>
           ) : null}
         </div>
-        <div className="mt-auto pt-4 border-t border-slate-100">
+        <div className="mt-auto pt-4 border-t border-piedra-100">
           <SelloProveedor
             proveedor={actividad.proveedor}
             idioma={idioma}
@@ -540,16 +540,16 @@ function CardActividad({
           />
           <div className="flex items-end justify-between">
             <div>
-              <p className="text-xs uppercase tracking-wider text-slate-400">
+              <p className="text-xs uppercase tracking-wider text-piedra-400">
                 {strings.desde}
               </p>
-              <p className="text-xl font-bold text-slate-900">
+              <p className="text-xl font-bold text-piedra-900">
                 {formato.format(actividad.precioDesde)}
               </p>
             </div>
             <span
               aria-hidden="true"
-              className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+              className="text-sm font-semibold text-anil-600 group-hover:text-anil-700"
             >
               {strings.verActividad} →
             </span>

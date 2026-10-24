@@ -258,10 +258,10 @@ export default function HomePage({ params }: Props) {
           className="max-w-6xl mx-auto px-4 py-16 md:py-20 scroll-mt-24"
         >
           <div className="mb-10">
-            <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
+            <h2 className="font-fraunces text-3xl md:text-4xl font-bold text-piedra-900 mb-3">
               {copy.topDestinosHeading}
             </h2>
-            <p className="text-slate-600 text-lg">{copy.topDestinosSubheading}</p>
+            <p className="text-piedra-600 text-lg">{copy.topDestinosSubheading}</p>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -284,10 +284,10 @@ export default function HomePage({ params }: Props) {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 p-5">
-                  <span className="inline-block bg-white/90 text-slate-800 text-[11px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded mb-2">
+                  <span className="inline-block bg-white/90 text-piedra-800 text-[11px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded mb-2">
                     {ciudad.comunidad}
                   </span>
-                  <h3 className="font-playfair text-2xl md:text-3xl font-bold text-white leading-tight drop-shadow">
+                  <h3 className="font-fraunces text-2xl md:text-3xl font-bold text-white leading-tight drop-shadow">
                     {ciudad.nombre}
                   </h3>
                 </div>
@@ -298,7 +298,7 @@ export default function HomePage({ params }: Props) {
           <div className="mt-10 text-center">
             <Link
               href={urlIndiceCiudades(lang)}
-              className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
+              className="inline-block text-anil-600 hover:text-anil-700 font-semibold"
             >
               {copy.seeAllCities}
             </Link>
@@ -310,14 +310,14 @@ export default function HomePage({ params }: Props) {
       {actividadesHome.length > 0 && (
         <section
           id="activities"
-          className="bg-slate-50 border-y border-slate-200 scroll-mt-24"
+          className="bg-piedra-50 border-y border-piedra-200 scroll-mt-24"
         >
           <div className="max-w-6xl mx-auto px-4 py-16 md:py-20">
             <div className="mb-10">
-              <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
+              <h2 className="font-fraunces text-3xl md:text-4xl font-bold text-piedra-900 mb-3">
                 {copy.featuredActHeading}
               </h2>
-              <p className="text-slate-600 text-lg">{copy.featuredActSubheading}</p>
+              <p className="text-piedra-600 text-lg">{copy.featuredActSubheading}</p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -325,9 +325,9 @@ export default function HomePage({ params }: Props) {
                 <Link
                   key={a.url}
                   href={a.url}
-                  className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md"
+                  className="group flex flex-col overflow-hidden rounded-xl border border-piedra-200 bg-white shadow-sm transition hover:border-anil-400 hover:shadow-md"
                 >
-                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-piedra-100">
                     {a.imagen ? (
                       <Image
                         src={a.imagen}
@@ -338,34 +338,34 @@ export default function HomePage({ params }: Props) {
                       />
                     ) : null}
                     {a.cancelacionGratuita ? (
-                      <span className="absolute top-3 left-3 bg-amber-500 text-slate-900 text-xs font-semibold px-2 py-1 rounded">
+                      <span className="absolute top-3 left-3 bg-azafran-500 text-piedra-900 text-xs font-semibold px-2 py-1 rounded">
                         {copy.freeCancellation}
                       </span>
                     ) : null}
                   </div>
                   <div className="flex flex-1 flex-col p-5">
                     {/* Siempre se pinta (vacío si no hay ciudad) para que todas las tarjetas midan igual. */}
-                    <span className="h-4 text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
+                    <span className="h-4 text-xs font-semibold uppercase tracking-wider text-anil-700 mb-2">
                       {nombrePorCiudad.get(a.ciudad) ?? ""}
                     </span>
-                    <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
+                    <h3 className="font-fraunces text-lg font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
                       {a.titulo}
                     </h3>
-                    <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-slate-500 mb-4">
+                    <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-piedra-500 mb-4">
                       {a.duracion ? (
                         <span className="min-w-0 truncate">{a.duracion}</span>
                       ) : null}
                       {typeof a.ratingProveedor === "number" &&
                       typeof a.numeroOpiniones === "number" ? (
                         <span className="shrink-0">
-                          <span className="text-amber-500" aria-hidden="true">
+                          <span className="text-azafran-600" aria-hidden="true">
                             ★
                           </span>{" "}
                           {a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})
                         </span>
                       ) : null}
                     </div>
-                    <div className="mt-auto pt-4 border-t border-slate-100">
+                    <div className="mt-auto pt-4 border-t border-piedra-100">
                       <SelloProveedor
                         proveedor={a.proveedor}
                         idioma={lang}
@@ -373,16 +373,16 @@ export default function HomePage({ params }: Props) {
                       />
                       <div className="flex items-end justify-between">
                         <div>
-                          <p className="text-xs uppercase tracking-wider text-slate-400">
+                          <p className="text-xs uppercase tracking-wider text-piedra-400">
                             {copy.fromLabel}
                           </p>
-                          <p className="text-xl font-bold text-slate-900">
+                          <p className="text-xl font-bold text-piedra-900">
                             {formatearPrecio(a.precioDesde, a.moneda, locale)}
                           </p>
                         </div>
                         <span
                           aria-hidden="true"
-                          className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+                          className="text-sm font-semibold text-anil-600 group-hover:text-anil-700"
                         >
                           {copy.viewActivity}
                         </span>
@@ -401,14 +401,14 @@ export default function HomePage({ params }: Props) {
         <section className="max-w-6xl mx-auto px-4 py-14 md:py-16">
           <div className="flex flex-wrap items-end justify-between gap-3 mb-8">
             <div>
-              <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
+              <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-2">
                 {copy.guidesHeading}
               </h2>
-              <p className="text-slate-600">{copy.guidesSubheading}</p>
+              <p className="text-piedra-600">{copy.guidesSubheading}</p>
             </div>
             <Link
               href={urlIndiceGuias(lang)}
-              className="text-sky-600 hover:text-sky-700 font-semibold whitespace-nowrap"
+              className="text-anil-600 hover:text-anil-700 font-semibold whitespace-nowrap"
             >
               {copy.seeAllGuides}
             </Link>
@@ -419,18 +419,18 @@ export default function HomePage({ params }: Props) {
               <Link
                 key={guia.url}
                 href={guia.url}
-                className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all"
+                className="group block border border-piedra-200 rounded-lg p-6 hover:border-anil-400 hover:shadow-md transition-all"
               >
-                <span className="inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+                <span className="inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
                   {guia.categoria}
                 </span>
-                <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
+                <h3 className="font-fraunces text-lg font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors">
                   {guia.titulo}
                 </h3>
-                <p className="text-slate-600 text-sm leading-relaxed mb-4 line-clamp-3">
+                <p className="text-piedra-600 text-sm leading-relaxed mb-4 line-clamp-3">
                   {guia.descripcion}
                 </p>
-                <div className="flex items-center justify-between text-xs text-slate-500">
+                <div className="flex items-center justify-between text-xs text-piedra-500">
                   <span>{formatearFecha(guia.fecha, lang)}</span>
                   <span>
                     {guia.tiempoLectura} {dict.guias.minutosLectura}

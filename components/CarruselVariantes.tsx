@@ -68,11 +68,11 @@ export default function CarruselVariantes({
     <section aria-labelledby="variantes-titulo">
       <h2
         id="variantes-titulo"
-        className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2"
+        className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-2"
       >
         {titulo}
       </h2>
-      <p className="text-sm text-slate-500 mb-5 md:hidden">{t.deslizar}</p>
+      <p className="text-sm text-piedra-500 mb-5 md:hidden">{t.deslizar}</p>
 
       <div
         className="
@@ -113,11 +113,11 @@ function VarianteCard({ actividad, idioma }: CardProps) {
       className="
         group flex-none w-72 md:w-auto
         snap-start
-        bg-white border border-slate-200 rounded-lg overflow-hidden
-        hover:border-sky-400 hover:shadow-md transition-all
+        bg-white border border-piedra-200 rounded-lg overflow-hidden
+        hover:border-anil-400 hover:shadow-md transition-all
       "
     >
-      <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
+      <div className="relative w-full aspect-[4/3] bg-piedra-100 overflow-hidden">
         {actividad.imagen ? (
           <Image
             src={actividad.imagen}
@@ -129,15 +129,15 @@ function VarianteCard({ actividad, idioma }: CardProps) {
         ) : null}
       </div>
       <div className="p-4">
-        <h3 className="font-playfair text-base font-bold text-slate-900 mb-1 line-clamp-2 min-h-[3em] group-hover:text-sky-700 transition-colors">
+        <h3 className="font-fraunces text-base font-bold text-piedra-900 mb-1 line-clamp-2 min-h-[3em] group-hover:text-anil-700 transition-colors">
           {actividad.titulo}
         </h3>
-        <p className="text-xs text-slate-500 mb-2 line-clamp-2 min-h-[3.25em] leading-relaxed">
+        <p className="text-xs text-piedra-500 mb-2 line-clamp-2 min-h-[3.25em] leading-relaxed">
           {actividad.descripcion}
         </p>
-        <p className="text-xs text-slate-500 truncate">
+        <p className="text-xs text-piedra-500 truncate">
           {actividad.duracion} · {t.desde}{" "}
-          <span className="font-semibold text-slate-900">{precio}</span>
+          <span className="font-semibold text-piedra-900">{precio}</span>
         </p>
       </div>
     </Link>

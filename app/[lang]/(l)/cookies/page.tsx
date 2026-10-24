@@ -114,17 +114,17 @@ export default function CookiesPage({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
 
-        <section className="bg-sky-500 text-white py-12 md:py-16">
+        <section className="bg-anil-500 text-white py-12 md:py-16">
           <div className="max-w-3xl mx-auto px-4">
-            <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+            <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
               Cookie-Richtlinie
             </h1>
-            <p className="text-sky-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
+            <p className="text-anil-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
           </div>
         </section>
 
         <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-          <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+          <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
             <h2>1. Was Cookies sind</h2>
             <p>
               Ein Cookie ist eine kleine Textdatei, die eine Website beim
@@ -183,25 +183,25 @@ export default function CookiesPage({
             </p>
 
             <div className="not-prose my-8 overflow-x-auto">
-              <table className="w-full text-sm border border-slate-200 rounded-lg overflow-hidden">
-                <thead className="bg-slate-50">
+              <table className="w-full text-sm border border-piedra-200 rounded-lg overflow-hidden">
+                <thead className="bg-piedra-50">
                   <tr>
-                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                    <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                       Cookie
                     </th>
-                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                    <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                       Typ
                     </th>
-                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                    <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                       Zweck
                     </th>
-                    <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                    <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                       Dauer
                     </th>
                   </tr>
                 </thead>
                 <tbody>
-                  <tr className="border-b border-slate-100">
+                  <tr className="border-b border-piedra-100">
                     <td className="p-3 font-mono text-xs">__vercel_live_token</td>
                     <td className="p-3">Technisch</td>
                     <td className="p-3">
@@ -225,7 +225,7 @@ export default function CookiesPage({
               </table>
             </div>
 
-            <p className="text-sm text-slate-600 italic">
+            <p className="text-sm text-piedra-600 italic">
               Diese Tabelle wird aktualisiert, sobald weitere Analyse- oder
               Messtools hinzugefügt werden. Sobald Google Analytics 4
               aktiviert wird, werden die entsprechenden Cookies (_ga,
@@ -340,10 +340,10 @@ export default function CookiesPage({
           </div>
 
           <aside
-            className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+            className="mt-12 p-6 bg-piedra-50 border border-piedra-200 rounded-lg text-sm text-piedra-700"
             aria-label="Hinweis zur Sprachversion"
           >
-            <p className="font-semibold text-slate-900 mb-2">
+            <p className="font-semibold text-piedra-900 mb-2">
               Hinweis zur Sprachversion
             </p>
             <p>
@@ -355,7 +355,7 @@ export default function CookiesPage({
               verfügbar unter{" "}
               <Link
                 href="/cookies"
-                className="text-sky-600 hover:text-sky-700 underline"
+                className="text-anil-600 hover:text-anil-700 underline"
               >
                 /cookies
               </Link>
@@ -366,7 +366,7 @@ export default function CookiesPage({
           <div className="mt-12 text-center">
             <Link
               href={`/${lang}`}
-              className="text-sky-600 hover:text-sky-700 font-semibold"
+              className="text-anil-600 hover:text-anil-700 font-semibold"
             >
               ← Zurück zur Startseite
             </Link>
@@ -383,17 +383,17 @@ export default function CookiesPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
             Cookie Policy
           </h1>
-          <p className="text-sky-50">Last updated: {LAST_UPDATED_EN}</p>
+          <p className="text-anil-50">Last updated: {LAST_UPDATED_EN}</p>
         </div>
       </section>
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
           <h2>1. What cookies are</h2>
           <p>
             A cookie is a small text file that a website stores in your
@@ -446,25 +446,25 @@ export default function CookiesPage({
           </p>
 
           <div className="not-prose my-8 overflow-x-auto">
-            <table className="w-full text-sm border border-slate-200 rounded-lg overflow-hidden">
-              <thead className="bg-slate-50">
+            <table className="w-full text-sm border border-piedra-200 rounded-lg overflow-hidden">
+              <thead className="bg-piedra-50">
                 <tr>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Cookie
                   </th>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Type
                   </th>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Purpose
                   </th>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Duration
                   </th>
                 </tr>
               </thead>
               <tbody>
-                <tr className="border-b border-slate-100">
+                <tr className="border-b border-piedra-100">
                   <td className="p-3 font-mono text-xs">__vercel_live_token</td>
                   <td className="p-3">Technical</td>
                   <td className="p-3">
@@ -486,7 +486,7 @@ export default function CookiesPage({
             </table>
           </div>
 
-          <p className="text-sm text-slate-600 italic">
+          <p className="text-sm text-piedra-600 italic">
             This table will be updated when additional analytics or
             measurement tools are added. When Google Analytics 4 is
             activated, the corresponding cookies (_ga, _ga_*) will be added
@@ -594,10 +594,10 @@ export default function CookiesPage({
 
         {/* Cláusula prevails — caja gris fuera del prose */}
         <aside
-          className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+          className="mt-12 p-6 bg-piedra-50 border border-piedra-200 rounded-lg text-sm text-piedra-700"
           aria-label="Language version disclaimer"
         >
-          <p className="font-semibold text-slate-900 mb-2">
+          <p className="font-semibold text-piedra-900 mb-2">
             Language version disclaimer
           </p>
           <p>
@@ -608,7 +608,7 @@ export default function CookiesPage({
             prevail. The original Spanish version is available at{" "}
             <Link
               href="/cookies"
-              className="text-sky-600 hover:text-sky-700 underline"
+              className="text-anil-600 hover:text-anil-700 underline"
             >
               /cookies
             </Link>
@@ -619,7 +619,7 @@ export default function CookiesPage({
         <div className="mt-12 text-center">
           <Link
             href={`/${lang}`}
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Back to home
           </Link>

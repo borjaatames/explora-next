@@ -51,9 +51,9 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
       rel="noopener noreferrer"
       aria-label={t.aria}
       title={t.tooltip}
-      className="group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-slate-900 hover:bg-slate-800 text-white shadow-md transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-sky-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3"
+      className="group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-piedra-900 hover:bg-piedra-800 text-white shadow-md transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-anil-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3"
     >
-      <span className="hidden lg:block w-2 h-2 rounded-full bg-sky-400" aria-hidden="true" />
+      <span className="hidden lg:block w-2 h-2 rounded-full bg-anil-400" aria-hidden="true" />
       <svg
         width="22"
         height="22"

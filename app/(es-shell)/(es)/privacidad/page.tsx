@@ -17,20 +17,20 @@ export const metadata: Metadata = {
 export default function PrivacidadPage() {
   return (
     <main className="min-h-screen bg-white">
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
             Política de Privacidad
           </h1>
-          <p className="text-sky-50">
+          <p className="text-anil-50">
             Última actualización: 24 de abril de 2026
           </p>
         </div>
       </section>
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
-          <p className="text-xl leading-relaxed text-slate-700">
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
+          <p className="text-xl leading-relaxed text-piedra-700">
             En ExploraSpain nos tomamos en serio tu privacidad. Esta política
             explica qué datos tratamos, con qué finalidad, y qué derechos
             tienes, conforme al Reglamento (UE) 2016/679 (RGPD) y la Ley
@@ -227,7 +227,7 @@ export default function PrivacidadPage() {
         <div className="mt-12 text-center">
           <Link
             href="/"
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Volver a la portada
           </Link>

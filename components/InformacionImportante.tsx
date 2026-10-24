@@ -78,26 +78,26 @@ export default function InformacionImportante({ idioma, info }: Props) {
   return (
     <section
       aria-labelledby="info-importante-titulo"
-      className="bg-white border border-slate-200 rounded-lg p-6 md:p-7"
+      className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7"
     >
       <h2
         id="info-importante-titulo"
-        className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-5"
+        className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-5"
       >
         {t.titulo}
       </h2>
       <div className={`grid grid-cols-1 ${gridCols} gap-6 md:gap-8`}>
         {columnas.map((col) => (
           <div key={col.titulo}>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-3">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-piedra-500 mb-3">
               {col.titulo}
             </h3>
-            <ul className="space-y-2 text-sm text-slate-700">
+            <ul className="space-y-2 text-sm text-piedra-700">
               {col.items.map((item) => (
                 <li key={item} className="flex items-start gap-2">
                   <span
                     aria-hidden="true"
-                    className="text-slate-400 mt-1.5 leading-none"
+                    className="text-piedra-400 mt-1.5 leading-none"
                   >
                     •
                   </span>

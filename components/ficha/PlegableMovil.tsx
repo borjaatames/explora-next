@@ -42,7 +42,7 @@ export default function PlegableMovil({ idioma, children }: Props) {
         type="button"
         onClick={() => setAbierto((v) => !v)}
         aria-expanded={abierto}
-        className="md:hidden mt-2 inline-flex items-center gap-1 text-sm font-semibold text-sky-600 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
+        className="md:hidden mt-2 inline-flex items-center gap-1 text-sm font-semibold text-anil-600 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
       >
         {abierto ? t.menos : t.mas}
         <span aria-hidden="true">{abierto ? "↑" : "↓"}</span>

@@ -1,7 +1,7 @@
 import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import Analytics from "@/components/Analytics";
-import { inter, playfair } from "@/lib/fonts";
+import { inter, fraunces } from "@/lib/fonts";
 import { allowIndexing } from "@/lib/rootMetadata";
 import type { Idioma } from "@/lib/i18n/types";
 import "@/app/globals.css";
@@ -27,7 +27,7 @@ type Props = {
  */
 export default function RootDocument({ lang, children }: Props) {
   return (
-    <html lang={lang} className={`${inter.variable} ${playfair.variable}`}>
+    <html lang={lang} className={`${inter.variable} ${fraunces.variable}`}>
       <head>
         <Script id="consent-default" strategy="beforeInteractive">
           {`
@@ -69,7 +69,7 @@ export default function RootDocument({ lang, children }: Props) {
          */}
         <link rel="dns-prefetch" href="https://widgets.bokun.io" />
       </head>
-      <body className="font-inter bg-white text-slate-900 antialiased">
+      <body className="font-inter bg-white text-piedra-900 antialiased">
         {children}
         <Analytics gaId={gaId} />
         {/*

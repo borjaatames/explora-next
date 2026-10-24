@@ -23,6 +23,7 @@ import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import WidgetDisponibilidadGyg from "@/components/WidgetDisponibilidadGyg";
+import PrecioDestacado from "@/components/PrecioDestacado";
 import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
@@ -207,6 +208,15 @@ export default async function ActividadPage({ params }: Props) {
 
 
   const tourWidget = tourWidgetGyg(actividad.proveedor, actividad.urlReserva);
+  const precioWidget = (
+    <PrecioDestacado
+      textoDesde={dict.actividades.desde}
+      precio={precio}
+      textoPorPersona={dict.actividades.porPersona}
+      rating={tieneRating ? ratingTextoValor : undefined}
+      opiniones={tieneRating ? ratingTextoOpiniones : undefined}
+    />
+  );
   const bloqueCalendario = (
     <CalendarioReserva
       idioma="es"
@@ -257,34 +267,34 @@ export default async function ActividadPage({ params }: Props) {
       <div className="flex flex-col">
       <header className="bg-white pt-4 md:pt-8">
         <div className="max-w-6xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-slate-500 mb-4">
-            <Link href="/" className="hover:text-sky-700">
+          <nav aria-label="Migas de pan" className="text-sm text-piedra-500 mb-4">
+            <Link href="/" className="hover:text-anil-700">
               Inicio
             </Link>
             {" › "}
-            <Link href={ciudad.url} className="hover:text-sky-700">
+            <Link href={ciudad.url} className="hover:text-anil-700">
               {ciudad.nombre}
             </Link>
             {" › "}
             <Link
               href={urlActividadesDeCiudad("es", params.ciudad)}
-              className="hover:text-sky-700"
+              className="hover:text-anil-700"
             >
               Actividades
             </Link>
             {" › "}
-            <span className="text-slate-900">{actividad.titulo}</span>
+            <span className="text-piedra-900">{actividad.titulo}</span>
           </nav>
 
-          <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-wider text-slate-600 mb-3">
-            <span className="bg-sky-100 text-sky-700 px-2 py-1 rounded">
+          <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-wider text-piedra-600 mb-3">
+            <span className="bg-anil-100 text-anil-700 px-2 py-1 rounded">
               {dict.actividades.categorias[actividad.categoria]}
             </span>
-            <span className="hidden md:inline bg-slate-100 text-slate-600 px-2 py-1 rounded">
+            <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
               {actividad.duracion}
             </span>
             {actividad.cancelacionGratuita && (
-              <span className="hidden md:inline bg-slate-100 text-slate-600 px-2 py-1 rounded">
+              <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
                 {actividad.horasCancelacion
                   ? dict.actividades.cancelacionHorasAntes.replace(
                       "{horas}",
@@ -295,22 +305,22 @@ export default async function ActividadPage({ params }: Props) {
             )}
           </div>
 
-          <h1 className="font-playfair text-2xl md:text-5xl font-bold text-slate-900 mb-3 leading-tight">
+          <h1 className="font-fraunces text-2xl md:text-5xl font-bold text-piedra-900 mb-3 leading-tight">
             {actividad.titulo}
           </h1>
-          <p className="text-base md:text-lg text-slate-600 max-w-3xl leading-relaxed line-clamp-3 md:line-clamp-none">
+          <p className="text-base md:text-lg text-piedra-600 max-w-3xl leading-relaxed line-clamp-3 md:line-clamp-none">
             {actividad.descripcion}
           </p>
 
           {tieneRating && (
-            <p className="mt-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
-              <span className="inline-flex items-center gap-1.5 font-semibold text-slate-900">
-                <span aria-hidden="true" className="text-amber-500 text-base">
+            <p className="mt-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-piedra-600">
+              <span className="inline-flex items-center gap-1.5 font-semibold text-piedra-900">
+                <span aria-hidden="true" className="text-azafran-500 text-base">
                   ★
                 </span>
                 <span>{ratingTextoValor}</span>
               </span>
-              <span aria-hidden="true" className="text-slate-400">
+              <span aria-hidden="true" className="text-piedra-400">
                 ·
               </span>
               <span>{ratingTextoOpiniones}</span>
@@ -325,8 +335,8 @@ export default async function ActividadPage({ params }: Props) {
           )}
 
           {actividad.avisoReserva && (
-            <p className="hidden md:flex mt-3 items-center gap-2 text-sm font-semibold text-amber-900 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 w-fit">
-              <span aria-hidden="true" className="text-amber-500">!</span>
+            <p className="hidden md:flex mt-3 items-center gap-2 text-sm font-semibold text-azafran-900 bg-azafran-50 border border-azafran-200 rounded-lg px-3 py-2 w-fit">
+              <span aria-hidden="true" className="text-azafran-500">!</span>
               {actividad.avisoReserva}
             </p>
           )}
@@ -389,6 +399,7 @@ export default async function ActividadPage({ params }: Props) {
                   tourId={tourWidget}
                   idioma="es"
                   urlReserva={urlReservaBase}
+                  cabecera={precioWidget}
                   soloEn="movil"
                 />
               </div>
@@ -409,16 +420,16 @@ export default async function ActividadPage({ params }: Props) {
             {/* 3. Lo más destacado */}
             {actividad.highlights.length > 0 && (
               <div>
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
+                <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
                   Lo más destacado
                 </h2>
                 <ul className="space-y-2">
                   {actividad.highlights.map((h) => (
                     <li
                       key={h}
-                      className="flex items-start gap-3 text-base text-slate-800"
+                      className="flex items-start gap-3 text-base text-piedra-800"
                     >
-                      <span aria-hidden="true" className="text-sky-600 mt-1">
+                      <span aria-hidden="true" className="text-anil-600 mt-1">
                         ✓
                       </span>
                       <span>{h}</span>
@@ -442,11 +453,11 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 4. Nuestra opinión editorial */}
             {actividad.opinionEditorial && (
-              <div className="bg-amber-50 border-l-4 border-amber-400 p-6 rounded-r-lg">
-                <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
+              <div className="bg-azafran-50 border-l-4 border-azafran-400 p-6 rounded-r-lg">
+                <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
                   {dict.actividades.nuestraOpinion}
                 </h2>
-                <p className="text-slate-800 leading-relaxed whitespace-pre-line">
+                <p className="text-piedra-800 leading-relaxed whitespace-pre-line">
                   {actividad.opinionEditorial}
                 </p>
               </div>
@@ -458,18 +469,18 @@ export default async function ActividadPage({ params }: Props) {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {actividad.incluye.length > 0 && (
                   <div>
-                    <h2 className="font-playfair text-xl font-bold text-slate-900 mb-3">
+                    <h2 className="font-fraunces text-xl font-bold text-piedra-900 mb-3">
                       {dict.actividades.queIncluye}
                     </h2>
                     <ul className="space-y-2">
                       {actividad.incluye.map((item) => (
                         <li
                           key={item}
-                          className="flex items-start gap-3 text-slate-800"
+                          className="flex items-start gap-3 text-piedra-800"
                         >
                           <span
                             aria-hidden="true"
-                            className="text-emerald-600 font-bold mt-0.5"
+                            className="text-cobre-600 font-bold mt-0.5"
                           >
                             ✓
                           </span>
@@ -481,18 +492,18 @@ export default async function ActividadPage({ params }: Props) {
                 )}
                 {actividad.noIncluye.length > 0 && (
                   <div>
-                    <h2 className="font-playfair text-xl font-bold text-slate-900 mb-3">
+                    <h2 className="font-fraunces text-xl font-bold text-piedra-900 mb-3">
                       {dict.actividades.queNoIncluye}
                     </h2>
                     <ul className="space-y-2">
                       {actividad.noIncluye.map((item) => (
                         <li
                           key={item}
-                          className="flex items-start gap-3 text-slate-800"
+                          className="flex items-start gap-3 text-piedra-800"
                         >
                           <span
                             aria-hidden="true"
-                            className="text-rose-500 font-bold mt-0.5"
+                            className="text-teja-500 font-bold mt-0.5"
                           >
                             ✗
                           </span>
@@ -520,7 +531,7 @@ export default async function ActividadPage({ params }: Props) {
             {/* 8. Sobre la actividad (Markdown editorial) */}
             <PlegableMovil idioma="es">
             <div>
-              <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
+              <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
                 {dict.actividades.laExperiencia}
               </h2>
               <div
@@ -532,11 +543,11 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 9. Accesibilidad — frase global simple */}
             {actividad.accesibilidad && (
-              <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
-                <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
+              <div className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7">
+                <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
                   Accesibilidad
                 </h2>
-                <p className="text-slate-700 leading-relaxed">
+                <p className="text-piedra-700 leading-relaxed">
                   {actividad.accesibilidad}
                 </p>
               </div>
@@ -544,11 +555,11 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 11. Política de cancelación — párrafo claro */}
             {actividad.politicaCancelacion && (
-              <div className="bg-white border border-slate-200 rounded-lg p-6 md:p-7">
-                <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-3">
+              <div className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7">
+                <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
                   Política de cancelación
                 </h2>
-                <p className="text-slate-700 leading-relaxed">
+                <p className="text-piedra-700 leading-relaxed">
                   {actividad.politicaCancelacion}
                 </p>
               </div>
@@ -559,8 +570,8 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 13. Guías relacionadas */}
             {guiasRelacionadas.length > 0 && (
-              <div className="bg-slate-50 border border-slate-200 rounded-lg p-6">
-                <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-4">
+              <div className="bg-piedra-50 border border-piedra-200 rounded-lg p-6">
+                <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-4">
                   {dict.actividades.guiasRelacionadas}
                 </h2>
                 <div className="space-y-3">
@@ -570,10 +581,10 @@ export default async function ActividadPage({ params }: Props) {
                       href={guia.url}
                       className="block group"
                     >
-                      <h3 className="font-semibold text-slate-900 group-hover:text-sky-700 transition-colors">
+                      <h3 className="font-semibold text-piedra-900 group-hover:text-anil-700 transition-colors">
                         → {guia.titulo}
                       </h3>
-                      <p className="text-sm text-slate-600 mt-1">
+                      <p className="text-sm text-piedra-600 mt-1">
                         {guia.descripcion}
                       </p>
                     </Link>
@@ -583,7 +594,7 @@ export default async function ActividadPage({ params }: Props) {
             )}
 
             {/* 14. Disclosure de afiliación */}
-            <p className="text-xs text-slate-500 border-t border-slate-200 pt-6">
+            <p className="text-xs text-piedra-500 border-t border-piedra-200 pt-6">
               {dict.actividades.avisoAfiliacion}
             </p>
 
@@ -619,6 +630,7 @@ export default async function ActividadPage({ params }: Props) {
                   tourId={tourWidget}
                   idioma="es"
                   urlReserva={urlReservaBase}
+                  cabecera={precioWidget}
                   soloEn="escritorio"
                   fallback={bloqueCalendario}
                 />

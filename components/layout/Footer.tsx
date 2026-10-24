@@ -144,9 +144,9 @@ export default function Footer({ idioma }: Props) {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="bg-slate-900 text-slate-300 mt-20">
+    <footer className="bg-piedra-900 text-piedra-300 mt-20">
       {/* Fila de promesas */}
-      <div className="bg-slate-800 border-b border-slate-700">
+      <div className="bg-piedra-800 border-b border-piedra-950">
         <div className="max-w-6xl mx-auto px-4 py-5">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 md:gap-6">
             <Promesa
@@ -181,16 +181,16 @@ export default function Footer({ idioma }: Props) {
                 height={36}
                 className="w-9 h-9"
               />
-              <h3 className="font-playfair text-2xl font-bold text-white">
+              <h3 className="font-fraunces text-2xl font-bold text-white">
                 ExploraSpain
               </h3>
             </div>
-            <p className="text-sm text-slate-400 leading-relaxed mb-4">
+            <p className="text-sm text-piedra-400 leading-relaxed mb-4">
               {t.tagline}
             </p>
             <a
               href="mailto:contacto@exploraspain.com"
-              className="inline-flex items-center gap-2 text-sm text-sky-400 hover:text-sky-300 transition-colors"
+              className="inline-flex items-center gap-2 text-sm text-anil-400 hover:text-anil-300 transition-colors"
             >
               <IconMail />
               contacto@exploraspain.com
@@ -211,7 +211,7 @@ export default function Footer({ idioma }: Props) {
                       urlCiudad(idioma, c.slug)
                     }
                     prefetch={false}
-                    className="text-slate-300 hover:text-white transition-colors"
+                    className="text-piedra-300 hover:text-white transition-colors"
                   >
                     {nombreCiudadTop(idioma, c)}
                   </Link>
@@ -221,7 +221,7 @@ export default function Footer({ idioma }: Props) {
             <Link
               href={urlIndiceCiudades(idioma)}
                     prefetch={false}
-              className="inline-block mt-3 text-xs text-sky-400 hover:text-sky-300 transition-colors"
+              className="inline-block mt-3 text-xs text-anil-400 hover:text-anil-300 transition-colors"
             >
               {t.verTodas}
             </Link>
@@ -274,14 +274,14 @@ export default function Footer({ idioma }: Props) {
         </div>
 
         {/* Bloque pago seguro */}
-        <div className="border-t border-slate-800 pt-12 pb-4 mb-8">
+        <div className="border-t border-piedra-800 pt-12 pb-4 mb-8">
           <p className="text-center text-sm text-white font-semibold mb-6 flex items-center justify-center gap-2">
             <IconLock />
             {t.pagoSeguro}
           </p>
 
           {/* Pago directo (reservas Bokun) — procesado por Stripe */}
-          <p className="text-center text-xs text-slate-400 mb-3">
+          <p className="text-center text-xs text-piedra-400 mb-3">
             {t.pagoDirecto}
           </p>
           <div className="mb-10 flex flex-wrap items-center justify-center gap-3">
@@ -302,26 +302,26 @@ export default function Footer({ idioma }: Props) {
         </div>
 
         {/* Línea legal */}
-        <div className="border-t border-slate-800 pt-6 flex flex-col md:flex-row md:justify-between gap-3 text-xs text-slate-500">
+        <div className="border-t border-piedra-800 pt-6 flex flex-col md:flex-row md:justify-between gap-3 text-xs text-piedra-500">
           <div className="flex gap-4 flex-wrap">
             <Link
               href={urlAvisoLegal(idioma)}
                     prefetch={false}
-              className="text-slate-400 hover:text-white transition-colors"
+              className="text-piedra-400 hover:text-white transition-colors"
             >
               {t.avisoLegal}
             </Link>
             <Link
               href={urlPrivacidad(idioma)}
                     prefetch={false}
-              className="text-slate-400 hover:text-white transition-colors"
+              className="text-piedra-400 hover:text-white transition-colors"
             >
               {t.privacidad}
             </Link>
             <Link
               href={urlCookies(idioma)}
                     prefetch={false}
-              className="text-slate-400 hover:text-white transition-colors"
+              className="text-piedra-400 hover:text-white transition-colors"
             >
               {t.cookies}
             </Link>
@@ -333,8 +333,8 @@ export default function Footer({ idioma }: Props) {
       </div>
 
       {/* Disclaimer afiliados */}
-      <div className="bg-slate-950 border-t border-slate-800 py-3">
-        <p className="max-w-6xl mx-auto px-4 text-center text-[11px] text-slate-500 leading-relaxed">
+      <div className="bg-piedra-950 border-t border-piedra-800 py-3">
+        <p className="max-w-6xl mx-auto px-4 text-center text-[11px] text-piedra-500 leading-relaxed">
           {t.disclaimerAfiliados}
         </p>
       </div>
@@ -355,12 +355,12 @@ function Promesa({
 }) {
   return (
     <div className="flex items-center gap-3">
-      <div className="text-amber-400 flex-shrink-0">{icon}</div>
+      <div className="text-azafran-400 flex-shrink-0">{icon}</div>
       <div>
         <p className="text-white font-semibold text-sm leading-tight">
           {titulo}
         </p>
-        <p className="text-slate-400 text-xs">{subtitulo}</p>
+        <p className="text-piedra-400 text-xs">{subtitulo}</p>
       </div>
     </div>
   );
@@ -474,7 +474,7 @@ function IconLock() {
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
-      className="text-amber-400"
+      className="text-azafran-400"
     >
       <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
       <path d="M7 11V7a5 5 0 0 1 10 0v4" />

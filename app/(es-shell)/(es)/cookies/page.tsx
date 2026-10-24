@@ -17,19 +17,19 @@ export const metadata: Metadata = {
 export default function CookiesPage() {
   return (
     <main className="min-h-screen bg-white">
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
             Política de Cookies
           </h1>
-          <p className="text-sky-50">
+          <p className="text-anil-50">
             Última actualización: 24 de abril de 2026
           </p>
         </div>
       </section>
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
           <h2>1. Qué son las cookies</h2>
           <p>
             Una cookie es un pequeño fichero de texto que un sitio web guarda
@@ -85,25 +85,25 @@ export default function CookiesPage() {
           </p>
 
           <div className="not-prose my-8 overflow-x-auto">
-            <table className="w-full text-sm border border-slate-200 rounded-lg overflow-hidden">
-              <thead className="bg-slate-50">
+            <table className="w-full text-sm border border-piedra-200 rounded-lg overflow-hidden">
+              <thead className="bg-piedra-50">
                 <tr>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Cookie
                   </th>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Tipo
                   </th>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Finalidad
                   </th>
-                  <th className="text-left p-3 font-semibold text-slate-900 border-b border-slate-200">
+                  <th className="text-left p-3 font-semibold text-piedra-900 border-b border-piedra-200">
                     Duración
                   </th>
                 </tr>
               </thead>
               <tbody>
-                <tr className="border-b border-slate-100">
+                <tr className="border-b border-piedra-100">
                   <td className="p-3 font-mono text-xs">__vercel_live_token</td>
                   <td className="p-3">Técnica</td>
                   <td className="p-3">
@@ -125,7 +125,7 @@ export default function CookiesPage() {
             </table>
           </div>
 
-          <p className="text-sm text-slate-600 italic">
+          <p className="text-sm text-piedra-600 italic">
             Esta tabla se actualizará cuando se incorporen herramientas
             adicionales de analítica o medición. Cuando se active Google
             Analytics 4, se añadirán las cookies correspondientes (_ga, _ga_*)
@@ -236,7 +236,7 @@ export default function CookiesPage() {
         <div className="mt-12 text-center">
           <Link
             href="/"
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Volver a la portada
           </Link>

@@ -16,7 +16,7 @@ type Props = {
 
 /**
  * Hero editorial de guía: foto de portada a sangre con velo inferior y el
- * título encima. Sin portada, cae a un bloque slate-900 sobrio.
+ * título encima. Sin portada, cae a un bloque piedra-900 sobrio.
  * En móvil es más bajo y compacto (descripción a 3 líneas) para que la
  * respuesta corta y el bloque de reservas asomen en la primera pantalla.
  */
@@ -31,7 +31,7 @@ export default function HeroGuia({
   migasLabel,
 }: Props) {
   return (
-    <header className="relative isolate bg-slate-900 text-white overflow-hidden">
+    <header className="relative isolate bg-piedra-900 text-white overflow-hidden">
       {imagen ? (
         <>
           <Image
@@ -43,7 +43,7 @@ export default function HeroGuia({
             className="object-cover -z-10"
           />
           <div
-            className="absolute inset-0 -z-10 bg-gradient-to-t from-slate-900/90 via-slate-900/45 to-slate-900/15"
+            className="absolute inset-0 -z-10 bg-gradient-to-t from-piedra-900/90 via-piedra-900/45 to-piedra-900/15"
             aria-hidden="true"
           />
         </>
@@ -54,7 +54,7 @@ export default function HeroGuia({
           (imagen ? "min-h-[300px] md:min-h-[520px] pt-16 md:pt-24" : "pt-10 md:pt-16")
         }
       >
-        <nav aria-label={migasLabel} className="text-xs md:text-sm text-sky-100 mb-3 md:mb-4 line-clamp-1 md:line-clamp-none">
+        <nav aria-label={migasLabel} className="text-xs md:text-sm text-anil-100 mb-3 md:mb-4 line-clamp-1 md:line-clamp-none">
           {migas.map((m, i) => (
             <span key={`${m.label}-${i}`}>
               {i > 0 ? " › " : null}
@@ -68,16 +68,16 @@ export default function HeroGuia({
             </span>
           ))}
         </nav>
-        <span className="self-start inline-block bg-amber-400 text-slate-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3 md:mb-4">
+        <span className="self-start inline-block bg-azafran-400 text-piedra-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3 md:mb-4">
           {etiqueta}
         </span>
-        <h1 className="font-playfair text-2xl md:text-5xl font-bold leading-tight max-w-4xl mb-3 md:mb-4">
+        <h1 className="font-fraunces text-2xl md:text-5xl font-bold leading-tight max-w-4xl mb-3 md:mb-4">
           {titulo}
         </h1>
-        <p className="text-base md:text-xl text-sky-50 max-w-3xl leading-relaxed mb-3 md:mb-5 line-clamp-3 md:line-clamp-none">
+        <p className="text-base md:text-xl text-anil-50 max-w-3xl leading-relaxed mb-3 md:mb-5 line-clamp-3 md:line-clamp-none">
           {descripcion}
         </p>
-        <p className="text-xs md:text-sm text-sky-100 flex flex-wrap gap-x-2 gap-y-1">
+        <p className="text-xs md:text-sm text-anil-100 flex flex-wrap gap-x-2 gap-y-1">
           {meta.map((m, i) => (
             <span key={`${m}-${i}`}>
               {i > 0 ? "· " : null}
@@ -99,8 +99,8 @@ export function IndiceGuia({
 }) {
   return (
     <nav aria-label={titulo} className="hidden lg:block">
-      <div className="sticky top-28 border-t-2 border-slate-900 pt-4">
-        <p className="text-xs font-bold uppercase tracking-widest text-slate-500 mb-3">
+      <div className="sticky top-28 border-t-2 border-piedra-900 pt-4">
+        <p className="text-xs font-bold uppercase tracking-widest text-piedra-500 mb-3">
           {titulo}
         </p>
         <ol className="space-y-2 text-sm">
@@ -108,7 +108,7 @@ export function IndiceGuia({
             <li key={e.id}>
               <a
                 href={`#${e.id}`}
-                className="text-slate-600 hover:text-sky-700 transition-colors leading-snug block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 rounded"
+                className="text-piedra-600 hover:text-anil-700 transition-colors leading-snug block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 rounded"
               >
                 {e.texto}
               </a>

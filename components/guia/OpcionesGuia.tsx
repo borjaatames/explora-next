@@ -59,13 +59,13 @@ export default function OpcionesGuia({ opciones, idioma }: Props) {
   const t = textos(idioma);
 
   return (
-    <section aria-label={t.aria} className="bg-slate-50 border-b border-slate-200">
+    <section aria-label={t.aria} className="bg-piedra-50 border-b border-piedra-200">
       <div className="max-w-5xl mx-auto px-4 py-8 md:py-10">
         <div className="mb-5">
-          <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900">
+          <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900">
             {t.titulo(opciones.length)}
           </h2>
-          <p className="text-sm text-slate-500 mt-1">{t.subtitulo}</p>
+          <p className="text-sm text-piedra-500 mt-1">{t.subtitulo}</p>
         </div>
         <ol className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {opciones.map(({ etiqueta, actividad: a }) => {
@@ -75,23 +75,23 @@ export default function OpcionesGuia({ opciones, idioma }: Props) {
             return (
               <li
                 key={a.url}
-                className="flex flex-col bg-white border border-slate-200 rounded-lg p-4 hover:border-sky-400 hover:shadow-md transition-all"
+                className="flex flex-col bg-white border border-piedra-200 rounded-lg p-4 hover:border-anil-400 hover:shadow-md transition-all"
               >
-                <span className="self-start inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+                <span className="self-start inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
                   {etiqueta}
                 </span>
                 <Link
                   href={a.url}
                   data-reserva="opciones"
                   data-ficha={slugEs}
-                  className="font-semibold text-slate-900 hover:text-sky-700 transition-colors leading-snug"
+                  className="font-semibold text-piedra-900 hover:text-anil-700 transition-colors leading-snug"
                 >
                   {a.titulo}
                 </Link>
-                <p className="text-xs text-slate-500 mt-1">
+                <p className="text-xs text-piedra-500 mt-1">
                   {rating ? (
                     <>
-                      <span className="text-amber-500" aria-hidden>
+                      <span className="text-azafran-600" aria-hidden>
                         ★
                       </span>{" "}
                       {rating}
@@ -106,14 +106,14 @@ export default function OpcionesGuia({ opciones, idioma }: Props) {
                   ) : null}
                 </p>
                 <div className="mt-auto pt-4 flex items-center justify-between gap-3">
-                  <span className="font-bold text-slate-900">
+                  <span className="font-bold text-piedra-900">
                     {formatearPrecio(a, idioma)}
                   </span>
                   <Link
                     href={a.url}
                     data-reserva="opciones"
                     data-ficha={slugEs}
-                    className="inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-4 py-2.5 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+                    className="inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-4 py-2.5 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
                   >
                     {t.cta}
                   </Link>

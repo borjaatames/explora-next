@@ -80,19 +80,19 @@ export default function MapaPuntoEncuentro({ idioma, punto }: Props) {
   return (
     <section
       aria-labelledby="punto-encuentro-titulo"
-      className="bg-white border border-slate-200 rounded-lg overflow-hidden"
+      className="bg-white border border-piedra-200 rounded-lg overflow-hidden"
     >
-      <div className="p-6 md:p-7 border-b border-slate-200">
+      <div className="p-6 md:p-7 border-b border-piedra-200">
         <h2
           id="punto-encuentro-titulo"
-          className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2"
+          className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-2"
         >
           {t.titulo}
         </h2>
-        <p className="text-slate-800 leading-relaxed">{punto.texto}</p>
+        <p className="text-piedra-800 leading-relaxed">{punto.texto}</p>
         {punto.descripcionGuia && (
-          <p className="mt-3 text-sm text-slate-600 bg-slate-50 border border-slate-200 rounded-md px-3 py-2">
-            <span aria-hidden="true" className="text-amber-500 mr-1">
+          <p className="mt-3 text-sm text-piedra-600 bg-piedra-50 border border-piedra-200 rounded-md px-3 py-2">
+            <span aria-hidden="true" className="text-azafran-500 mr-1">
               ★
             </span>
             {punto.descripcionGuia}
@@ -108,12 +108,12 @@ export default function MapaPuntoEncuentro({ idioma, punto }: Props) {
         />
       )}
 
-      <div className="p-4 border-t border-slate-200">
+      <div className="p-4 border-t border-piedra-200">
         <a
           href={urlGoogleMaps}
           target="_blank"
           rel="noopener noreferrer"
-          className="block w-full text-center text-sm font-semibold text-slate-900 bg-white border border-slate-300 rounded-md px-4 py-2.5 hover:bg-slate-50 hover:border-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 transition-colors"
+          className="block w-full text-center text-sm font-semibold text-piedra-900 bg-white border border-piedra-300 rounded-md px-4 py-2.5 hover:bg-piedra-50 hover:border-piedra-400 focus:outline-none focus:ring-2 focus:ring-anil-500 focus:ring-offset-2 transition-colors"
         >
           {t.abrirGoogleMaps}
         </a>

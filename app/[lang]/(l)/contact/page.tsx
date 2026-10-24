@@ -226,12 +226,12 @@ export default function ContactPage({
       />
 
       {/* Hero */}
-      <section className="bg-sky-500 text-white py-16 md:py-24">
+      <section className="bg-anil-500 text-white py-16 md:py-24">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
+          <h1 className="font-fraunces text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
             {copy.heroTitle}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">{copy.heroSubtitle}</p>
+          <p className="text-lg md:text-xl text-anil-50">{copy.heroSubtitle}</p>
         </div>
       </section>
 
@@ -240,10 +240,10 @@ export default function ContactPage({
         {/* Quick access via WhatsApp */}
         <div className="bg-[#25D366]/10 border border-[#25D366]/40 rounded-lg p-6 mb-8 flex flex-col sm:flex-row sm:items-center gap-4">
           <div className="flex-1">
-            <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-1">
+            <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-1">
               {copy.whatsappHeading}
             </h2>
-            <p className="text-slate-700 text-sm">{copy.whatsappBody}</p>
+            <p className="text-piedra-700 text-sm">{copy.whatsappBody}</p>
           </div>
           <a
             href={`https://wa.me/34917647730?text=${encodeURIComponent(
@@ -261,64 +261,64 @@ export default function ContactPage({
         </div>
 
         {/* Main email block */}
-        <div className="bg-amber-50 border-l-4 border-amber-500 rounded-r-lg p-8 mb-12">
-          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-3">
+        <div className="bg-azafran-50 border-l-4 border-azafran-500 rounded-r-lg p-8 mb-12">
+          <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-3">
             {copy.writeHeading}
           </h2>
-          <p className="text-slate-700 mb-6">{copy.writeBody}</p>
+          <p className="text-piedra-700 mb-6">{copy.writeBody}</p>
           <ContactForm idioma={lang} />
         </div>
 
         {/* Categories of messages */}
         <div className="grid md:grid-cols-2 gap-6 mb-12">
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               {copy.errorHeading}
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               {copy.errorBody}
             </p>
           </div>
 
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               {copy.suggestionHeading}
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               {copy.suggestionBody}
             </p>
           </div>
 
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               {copy.partnershipsHeading}
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               {copy.partnershipsBody}
             </p>
           </div>
 
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               {copy.bookingsHeading}
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               {copy.bookingsBody}
             </p>
           </div>
         </div>
 
         {/* Company info */}
-        <div className="p-6 bg-slate-50 rounded-lg text-sm text-slate-600 leading-relaxed">
+        <div className="p-6 bg-piedra-50 rounded-lg text-sm text-piedra-600 leading-relaxed">
           <p className="mb-2">
-            <strong className="text-slate-900">{copy.companyInfoLabel}</strong>
+            <strong className="text-piedra-900">{copy.companyInfoLabel}</strong>
           </p>
           <p>{copy.companyLegalLine}</p>
           <p className="mt-3">
             {copy.moreInfoPrefix}{" "}
             <Link
               href={urlAvisoLegal(lang)}
-              className="text-sky-600 hover:underline"
+              className="text-anil-600 hover:underline"
             >
               {copy.legalNoticeLink}
             </Link>
@@ -330,7 +330,7 @@ export default function ContactPage({
         <div className="mt-12 text-center">
           <Link
             href={`/${lang}`}
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             {copy.backToHome}
           </Link>

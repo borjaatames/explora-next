@@ -152,9 +152,9 @@ export function enriquecerEnlacesFichas(
           if (enTabla) return `<a href="${href}"${attrs.replace('"enlace"', '"tabla"')}>${texto}</a>`;
           const rating = formatearRating(ficha, idioma);
           const partes = [formatearPrecio(ficha, idioma)];
-          if (rating) partes.push(`<span class="text-amber-500" aria-hidden="true">★</span> ${rating}`);
+          if (rating) partes.push(`<span class="text-azafran-500" aria-hidden="true">★</span> ${rating}`);
           const pildora =
-            `<span class="inline-flex items-center gap-1 align-[1px] ml-1.5 bg-sky-100 text-sky-700 text-xs font-semibold px-2 py-0.5 rounded whitespace-nowrap no-underline">` +
+            `<span class="inline-flex items-center gap-1 align-[1px] ml-1.5 bg-anil-100 text-anil-700 text-xs font-semibold px-2 py-0.5 rounded whitespace-nowrap no-underline">` +
             partes.join(" · ") +
             `</span>`;
           return `<a href="${href}"${attrs} class="reserva-enlace">${texto}${pildora}</a>`;
@@ -173,7 +173,7 @@ const TEXTO_BOTON_TABLA: Record<string, string> = {
 
 // `!` porque `.prose-guia a` (globals.css) tiene más especificidad que las utilidades.
 const CLASES_BOTON_TABLA =
-  "reserva-tabla inline-block mt-1 ml-1 bg-amber-500 hover:bg-amber-600 !text-slate-900 text-xs font-semibold px-2.5 py-1 rounded !no-underline whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2";
+  "reserva-tabla inline-block mt-1 ml-1 bg-azafran-500 hover:bg-azafran-600 !text-piedra-900 text-xs font-semibold px-2.5 py-1 rounded !no-underline whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2";
 
 /**
  * En cada celda de tabla que contenga un enlace ya enriquecido a una ficha,

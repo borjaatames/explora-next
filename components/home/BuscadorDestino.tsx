@@ -64,7 +64,7 @@ export default function BuscadorDestino({
         htmlFor={idInput}
         className="flex-1 flex flex-col justify-center px-3 py-1.5 text-left"
       >
-        <span className="text-xs font-semibold text-slate-500">{etiqueta}</span>
+        <span className="text-xs font-semibold text-piedra-500">{etiqueta}</span>
         <input
           id={idInput}
           list={idLista}
@@ -73,7 +73,7 @@ export default function BuscadorDestino({
           onChange={(e) => setValor(e.target.value)}
           placeholder={placeholder}
           autoComplete="off"
-          className="w-full border-0 p-0 py-0.5 text-base text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-0 bg-transparent"
+          className="w-full border-0 p-0 py-0.5 text-base text-piedra-900 placeholder:text-piedra-400 focus:outline-none focus:ring-0 bg-transparent"
         />
         <datalist id={idLista}>
           {opciones.map((o) => (
@@ -83,7 +83,7 @@ export default function BuscadorDestino({
       </label>
       <button
         type="submit"
-        className="inline-flex items-center justify-center gap-2 bg-amber-500 hover:bg-amber-600 text-slate-900 font-bold px-7 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+        className="inline-flex items-center justify-center gap-2 bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-bold px-7 py-3 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
       >
         <svg
           width="18"

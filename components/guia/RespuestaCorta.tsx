@@ -16,7 +16,7 @@ const ETIQUETA: Record<string, string> = {
 function conNegritas(texto: string): ReactNode[] {
   return texto.split(/(\*\*[^*]+\*\*)/g).map((trozo, i) =>
     trozo.startsWith("**") && trozo.endsWith("**") ? (
-      <strong key={i} className="font-semibold text-slate-900">
+      <strong key={i} className="font-semibold text-piedra-900">
         {trozo.slice(2, -2)}
       </strong>
     ) : (
@@ -34,11 +34,11 @@ export default function RespuestaCorta({ texto, idioma }: Props) {
   return (
     <section aria-label={ETIQUETA[idioma] ?? ETIQUETA.es} className="bg-white">
       <div className="max-w-3xl mx-auto px-4 pt-8 md:pt-10">
-        <div className="border border-slate-200 rounded-lg p-5">
-          <p className="text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
+        <div className="border border-piedra-200 rounded-lg p-5">
+          <p className="text-xs font-semibold uppercase tracking-wider text-anil-700 mb-2">
             {ETIQUETA[idioma] ?? ETIQUETA.es}
           </p>
-          <p className="text-slate-600 leading-relaxed">{conNegritas(texto)}</p>
+          <p className="text-piedra-600 leading-relaxed">{conNegritas(texto)}</p>
         </div>
       </div>
     </section>

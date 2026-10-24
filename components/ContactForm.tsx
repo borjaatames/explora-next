@@ -60,7 +60,7 @@ export default function ContactForm({ idioma }: { idioma: Idioma }) {
 
   if (estado === "ok") {
     return (
-      <div className="bg-sky-50 border border-sky-200 rounded-lg p-6 text-slate-800">
+      <div className="bg-anil-50 border border-anil-200 rounded-lg p-6 text-piedra-800">
         {t.ok}
       </div>
     );
@@ -106,7 +106,7 @@ export default function ContactForm({ idioma }: { idioma: Idioma }) {
   }
 
   const inputCls =
-    "w-full rounded-lg border border-slate-300 px-4 py-2.5 text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 transition";
+    "w-full rounded-lg border border-piedra-300 px-4 py-2.5 text-piedra-900 placeholder-piedra-400 focus:outline-none focus:ring-2 focus:ring-anil-500 focus:border-anil-500 transition";
 
   return (
     <form onSubmit={onSubmit} className="space-y-4">
@@ -142,13 +142,13 @@ export default function ContactForm({ idioma }: { idioma: Idioma }) {
       <button
         type="submit"
         disabled={estado === "sending"}
-        className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 disabled:opacity-60 text-slate-900 font-semibold px-6 py-3 rounded-lg transition-colors"
+        className="inline-flex items-center gap-2 bg-azafran-400 hover:bg-azafran-500 disabled:opacity-60 text-piedra-900 font-semibold px-6 py-3 rounded-lg transition-colors"
       >
         {estado === "sending" ? t.enviando : t.enviar}
       </button>
 
       {estado === "error" && (
-        <p className="text-sm text-rose-600">{t.error}</p>
+        <p className="text-sm text-teja-600">{t.error}</p>
       )}
     </form>
   );

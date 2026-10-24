@@ -155,10 +155,10 @@ function CardCiudad({
     <Link
       href={ciudad.href}
       prefetch={false}
-      className="group flex flex-col border border-slate-200 rounded-lg overflow-hidden bg-white hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      className="group flex flex-col border border-piedra-200 rounded-lg overflow-hidden bg-white hover:border-anil-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
     >
       <div
-        className={`relative w-full bg-slate-100 overflow-hidden ${
+        className={`relative w-full bg-piedra-100 overflow-hidden ${
           grande ? "aspect-[16/10]" : "aspect-[4/3]"
         }`}
       >
@@ -176,22 +176,22 @@ function CardCiudad({
         />
       </div>
       <div className="flex flex-col flex-1 p-6">
-        <span className="self-start inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+        <span className="self-start inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
           {ciudad.comunidad}
         </span>
         <h3
-          className={`font-playfair font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors ${
+          className={`font-fraunces font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors ${
             grande ? "text-2xl md:text-3xl" : "text-xl md:text-2xl"
           }`}
         >
           {ciudad.nombre}
         </h3>
-        <p className="text-slate-600 leading-relaxed line-clamp-3">
+        <p className="text-piedra-600 leading-relaxed line-clamp-3">
           {ciudad.descripcion}
         </p>
         <div className="mt-auto pt-5 flex items-center justify-between gap-3 text-sm">
-          <span className="text-slate-500">{cifras}</span>
-          <span className="font-semibold text-sky-600 group-hover:text-sky-700 whitespace-nowrap">
+          <span className="text-piedra-500">{cifras}</span>
+          <span className="font-semibold text-anil-600 group-hover:text-anil-700 whitespace-nowrap">
             {t.ver} →
           </span>
         </div>
@@ -302,9 +302,9 @@ export default function IndiceCiudades({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
+      <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-5xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
+          <nav aria-label="Migas de pan" className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(idioma) || "/"}
       prefetch={false} className="hover:text-white">
               {t.inicio}
@@ -312,11 +312,11 @@ export default function IndiceCiudades({
             {" › "}
             <span className="text-white">{t.titulo}</span>
           </nav>
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-3 leading-tight">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-3 leading-tight">
             {t.titulo}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50 mb-6">{t.subtitulo}</p>
-          <dl className="flex flex-wrap gap-x-8 gap-y-2 text-sky-100">
+          <p className="text-lg md:text-xl text-anil-50 mb-6">{t.subtitulo}</p>
+          <dl className="flex flex-wrap gap-x-8 gap-y-2 text-anil-100">
             <div className="flex items-baseline gap-2">
               <dd className="text-2xl font-bold text-white">{todas.length}</dd>
               <dt className="text-sm">{t.destinos}</dt>
@@ -339,16 +339,16 @@ export default function IndiceCiudades({
 
       {todas.length === 0 ? (
         <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-          <p className="text-center py-12 text-slate-500 text-lg">{t.vacio}</p>
+          <p className="text-center py-12 text-piedra-500 text-lg">{t.vacio}</p>
         </section>
       ) : (
         <>
           {principales.length > 0 && (
             <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-              <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
+              <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-2">
                 {t.principales}
               </h2>
-              <p className="text-slate-500 mb-8">{t.principalesSub}</p>
+              <p className="text-piedra-500 mb-8">{t.principalesSub}</p>
               <GridCiudades ciudades={principales} t={t} priorityPrimeras grande />
             </section>
           )}
@@ -358,22 +358,22 @@ export default function IndiceCiudades({
               key={z.zona}
               className={
                 i % 2 === 0
-                  ? "bg-slate-50 border-t border-slate-200"
-                  : "bg-white border-t border-slate-200"
+                  ? "bg-piedra-50 border-t border-piedra-200"
+                  : "bg-white border-t border-piedra-200"
               }
             >
               <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
+                <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-2">
                   {z.textos.titulo}
                 </h2>
-                <p className="text-slate-500 mb-8">{z.textos.subtitulo}</p>
+                <p className="text-piedra-500 mb-8">{z.textos.subtitulo}</p>
                 <GridCiudades ciudades={z.ciudades} t={t} priorityPrimeras={false} />
               </div>
             </section>
           ))}
 
           {sinZona.length > 0 && (
-            <section className="border-t border-slate-200">
+            <section className="border-t border-piedra-200">
               <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
                 <GridCiudades ciudades={sinZona} t={t} priorityPrimeras={false} />
               </div>

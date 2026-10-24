@@ -103,19 +103,19 @@ export default function ActividadesRecomendadasGuia({
   return (
     <section
       aria-labelledby="actividades-recomendadas-titulo"
-      className="border-t border-slate-200"
+      className="border-t border-piedra-200"
     >
       <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-        <span className="inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+        <span className="inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
           {t.etiqueta}
         </span>
         <h2
           id="actividades-recomendadas-titulo"
-          className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2"
+          className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-2"
         >
           {t.titulo(nombreCiudad)}
         </h2>
-        <p className="text-slate-600 mb-6">{t.subtitulo}</p>
+        <p className="text-piedra-600 mb-6">{t.subtitulo}</p>
 
         <ul className="flex gap-4 overflow-x-auto snap-x snap-mandatory -mx-4 px-4 pb-4 scrollbar-hide">
           {actividades.map((actividad) => (
@@ -125,14 +125,14 @@ export default function ActividadesRecomendadasGuia({
           ))}
         </ul>
         {actividades.length > 3 && (
-          <p className="text-sm text-slate-500 mt-1">{t.deslizar}</p>
+          <p className="text-sm text-piedra-500 mt-1">{t.deslizar}</p>
         )}
 
         <div className="mt-6">
           <Link
             href={urlTodas}
             prefetch={false}
-            className="inline-flex items-center text-sky-600 hover:text-sky-700 font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
+            className="inline-flex items-center text-anil-600 hover:text-anil-700 font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
           >
             {t.verTodas(nombreCiudad)}
           </Link>
@@ -169,9 +169,9 @@ function TarjetaActividad({
       prefetch={false}
       data-reserva="carrusel"
       data-ficha={actividad.slugs?.es ?? actividad.slug}
-      className="group flex h-full flex-col bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      className="group flex h-full flex-col bg-white border border-piedra-200 rounded-lg overflow-hidden hover:border-anil-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
     >
-      <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
+      <div className="relative w-full aspect-[4/3] bg-piedra-100 overflow-hidden">
         {actividad.imagen ? (
           <Image
             src={actividad.imagen}
@@ -183,18 +183,18 @@ function TarjetaActividad({
         ) : null}
       </div>
       <div className="flex flex-1 flex-col p-4">
-        <h3 className="font-playfair text-base font-bold text-slate-900 mb-2 line-clamp-2 min-h-[3em] group-hover:text-sky-700 transition-colors">
+        <h3 className="font-fraunces text-base font-bold text-piedra-900 mb-2 line-clamp-2 min-h-[3em] group-hover:text-anil-700 transition-colors">
           {actividad.titulo}
         </h3>
-        <p className="text-xs text-slate-500 mb-3 truncate">
+        <p className="text-xs text-piedra-500 mb-3 truncate">
           {actividad.duracion}
           {rating && (
             <>
               {" · "}
-              <span className="text-amber-500" aria-hidden>
+              <span className="text-azafran-600" aria-hidden>
                 ★
               </span>{" "}
-              <span className="font-semibold text-slate-900">{rating}</span>
+              <span className="font-semibold text-piedra-900">{rating}</span>
               {actividad.numeroOpiniones ? (
                 <>
                   {" "}
@@ -205,9 +205,9 @@ function TarjetaActividad({
             </>
           )}
         </p>
-        <p className="mt-auto text-sm text-slate-600">
+        <p className="mt-auto text-sm text-piedra-600">
           {t.desde}{" "}
-          <span className="font-bold text-slate-900">{precio}</span>
+          <span className="font-bold text-piedra-900">{precio}</span>
         </p>
       </div>
     </Link>

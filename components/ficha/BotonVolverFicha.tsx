@@ -21,7 +21,7 @@ export default function BotonVolverFicha({
     <Link
       href={urlActividadesCiudad}
       prefetch={false}
-      className="text-sky-600 hover:text-sky-700 font-semibold focus-visible:outline-none focus-visible:underline"
+      className="text-anil-600 hover:text-anil-700 font-semibold focus-visible:outline-none focus-visible:underline"
     >
       {textoActividadesCiudad}
     </Link>

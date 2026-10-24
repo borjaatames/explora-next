@@ -204,39 +204,39 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }}
       />
 
-      <header className="border-b border-slate-200 bg-slate-50">
+      <header className="border-b border-piedra-200 bg-piedra-50">
         <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
           <nav
             aria-label="Migas de pan"
-            className="mb-6 text-sm text-slate-500"
+            className="mb-6 text-sm text-piedra-500"
           >
             <ol className="flex flex-wrap items-center gap-x-2">
               <li>
-                <Link href="/" className="hover:text-slate-700">
+                <Link href="/" className="hover:text-piedra-700">
                   {dict.navegacion.inicio}
                 </Link>
               </li>
               <li aria-hidden="true">/</li>
               <li>
-                <Link href={ciudad.url} className="hover:text-slate-700">
+                <Link href={ciudad.url} className="hover:text-piedra-700">
                   {ciudad.nombre}
                 </Link>
               </li>
               <li aria-hidden="true">/</li>
               <li>
-                <Link href={urlIndice} className="hover:text-slate-700">
+                <Link href={urlIndice} className="hover:text-piedra-700">
                   Actividades
                 </Link>
               </li>
               <li aria-hidden="true">/</li>
-              <li className="text-slate-700">{labelCategoria}</li>
+              <li className="text-piedra-700">{labelCategoria}</li>
             </ol>
           </nav>
 
-          <h1 className="text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl">
+          <h1 className="text-4xl font-semibold tracking-tight text-piedra-900 sm:text-5xl">
             {tituloPagina}
           </h1>
-          <p className="mt-4 max-w-2xl text-lg text-slate-600">
+          <p className="mt-4 max-w-2xl text-lg text-piedra-600">
             {descripcionPagina}
           </p>
         </div>
@@ -273,10 +273,10 @@ function TarjetaActividad({
   return (
     <Link
       href={actividad.url}
-      className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-slate-300 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      className="group flex flex-col overflow-hidden rounded-xl border border-piedra-200 bg-white shadow-sm transition hover:border-piedra-300 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
     >
       {actividad.imagen ? (
-        <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+        <div className="relative aspect-[4/3] w-full overflow-hidden bg-piedra-100">
           <Image
             src={actividad.imagen}
             alt={actividad.imagenAlt}
@@ -286,15 +286,15 @@ function TarjetaActividad({
           />
         </div>
       ) : (
-        <div className="aspect-[4/3] w-full bg-slate-100" aria-hidden="true" />
+        <div className="aspect-[4/3] w-full bg-piedra-100" aria-hidden="true" />
       )}
 
       <div className="flex flex-1 flex-col p-6">
-        <h2 className="text-lg font-semibold text-slate-900">
+        <h2 className="text-lg font-semibold text-piedra-900">
           {actividad.titulo}
         </h2>
 
-        <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-slate-500">
+        <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-piedra-500">
           {actividad.duracion ? <span>{actividad.duracion}</span> : null}
           {typeof actividad.ratingProveedor === "number" &&
           typeof actividad.numeroOpiniones === "number" ? (
@@ -313,16 +313,16 @@ function TarjetaActividad({
           />
           <div className="flex items-end justify-between">
             <div>
-              <p className="text-xs uppercase tracking-wide text-slate-400">
+              <p className="text-xs uppercase tracking-wide text-piedra-400">
                 {dict.actividades.desde}
               </p>
-              <p className="text-xl font-semibold text-slate-900">
+              <p className="text-xl font-semibold text-piedra-900">
                 {formatoPrecio.format(actividad.precioDesde)}
               </p>
             </div>
             <span
               aria-hidden="true"
-              className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+              className="text-sm font-semibold text-anil-600 group-hover:text-anil-700"
             >
               {dict.actividades.verActividad} →
             </span>

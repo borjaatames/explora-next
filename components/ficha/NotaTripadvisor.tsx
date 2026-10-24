@@ -24,15 +24,15 @@ export default function NotaTripadvisor({ idioma, datos }: Props) {
   const ranking = textoRankingTripadvisor(datos.ranking, idioma);
 
   return (
-    <p className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
-      <span className="font-semibold text-slate-900">Tripadvisor</span>
+    <p className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-piedra-600">
+      <span className="font-semibold text-piedra-900">Tripadvisor</span>
       <span className="inline-flex items-center gap-1">
-        <span aria-hidden="true" className="text-amber-500">
+        <span aria-hidden="true" className="text-azafran-500">
           ★
         </span>
-        <span className="font-semibold text-slate-900">{nota}</span>
+        <span className="font-semibold text-piedra-900">{nota}</span>
       </span>
-      <span aria-hidden="true" className="text-slate-400">
+      <span aria-hidden="true" className="text-piedra-400">
         ·
       </span>
       <span>
@@ -40,7 +40,7 @@ export default function NotaTripadvisor({ idioma, datos }: Props) {
       </span>
       {ranking && (
         <>
-          <span aria-hidden="true" className="text-slate-400">
+          <span aria-hidden="true" className="text-piedra-400">
             ·
           </span>
           <span>{ranking}</span>

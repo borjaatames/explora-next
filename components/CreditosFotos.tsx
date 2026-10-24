@@ -21,8 +21,8 @@ export default function CreditosFotos({ idioma, srcs }: Props) {
   if (creditos.length === 0) return null;
 
   return (
-    <details className="mt-2 text-xs text-slate-500">
-      <summary className="cursor-pointer w-fit hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded">
+    <details className="mt-2 text-xs text-piedra-500">
+      <summary className="cursor-pointer w-fit hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded">
         {t.titulo}
       </summary>
       <ol className="mt-2 space-y-1 list-decimal list-inside">
@@ -36,7 +36,7 @@ export default function CreditosFotos({ idioma, srcs }: Props) {
                   href={c.url}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
-                  className="text-sky-600 hover:text-sky-700 underline"
+                  className="text-anil-600 hover:text-anil-700 underline"
                 >
                   {t.fuente}
                 </a>

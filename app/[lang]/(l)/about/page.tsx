@@ -566,19 +566,19 @@ export default function AboutPage({ params }: { params: { lang: string } }) {
       />
 
       {/* Hero */}
-      <section className="bg-sky-500 text-white py-16 md:py-24">
+      <section className="bg-anil-500 text-white py-16 md:py-24">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-4">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-4">
             {copy.heroTitle}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">{copy.heroSubtitle}</p>
+          <p className="text-lg md:text-xl text-anil-50">{copy.heroSubtitle}</p>
         </div>
       </section>
 
       {/* Contenido principal */}
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600 prose-a:no-underline hover:prose-a:underline">
-          <p className="text-xl leading-relaxed text-slate-700">{copy.intro}</p>
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600 prose-a:no-underline hover:prose-a:underline">
+          <p className="text-xl leading-relaxed text-piedra-700">{copy.intro}</p>
 
           <h2 className="text-2xl md:text-3xl font-bold mt-12 mb-4">
             {copy.whatWeDo.heading}
@@ -623,14 +623,14 @@ export default function AboutPage({ params }: { params: { lang: string } }) {
         </div>
 
         {/* CTA final */}
-        <div className="mt-16 p-8 bg-amber-50 border-l-4 border-amber-500 rounded-r-lg">
-          <h3 className="font-playfair text-2xl font-bold text-slate-900 mb-2">
+        <div className="mt-16 p-8 bg-azafran-50 border-l-4 border-azafran-500 rounded-r-lg">
+          <h3 className="font-fraunces text-2xl font-bold text-piedra-900 mb-2">
             {copy.cta.heading}
           </h3>
-          <p className="text-slate-700 mb-4">{copy.cta.body}</p>
+          <p className="text-piedra-700 mb-4">{copy.cta.body}</p>
           <Link
             href={copy.cta.href}
-            className="inline-block bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold px-6 py-3 rounded-lg transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-600 focus-visible:ring-offset-2"
+            className="inline-block bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold px-6 py-3 rounded-lg transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-azafran-600 focus-visible:ring-offset-2"
           >
             {copy.cta.button}
           </Link>

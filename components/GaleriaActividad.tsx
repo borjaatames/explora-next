@@ -148,7 +148,7 @@ export default function GaleriaActividad({
               type="button"
               onClick={() => abrirEn(0)}
               style={{ aspectRatio: "4/3" }}
-              className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+              className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-piedra-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
               aria-label={t.abrirGaleriaEn(principal.alt)}
             >
               <Image
@@ -164,10 +164,10 @@ export default function GaleriaActividad({
             {/* Sello editorial: solo si destacada */}
             {destacada && (
               <div
-                className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-slate-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-md pointer-events-none select-none"
+                className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-piedra-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-md pointer-events-none select-none"
                 aria-label={t.selloAriaLabel}
               >
-                <span aria-hidden="true" className="text-amber-400 text-base leading-none">
+                <span aria-hidden="true" className="text-azafran-400 text-base leading-none">
                   ★
                 </span>
                 <span className="hidden sm:inline">{t.selloLargo}</span>
@@ -192,7 +192,7 @@ export default function GaleriaActividad({
                     type="button"
                     onClick={() => abrirEn(indiceReal)}
                     className={
-                      "relative flex-none w-full aspect-[4/3] snap-center md:w-auto md:aspect-auto md:h-full bg-slate-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 " +
+                      "relative flex-none w-full aspect-[4/3] snap-center md:w-auto md:aspect-auto md:h-full bg-piedra-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 " +
                       (soloMovil ? "md:hidden" : "")
                     }
                     aria-label={
@@ -213,7 +213,7 @@ export default function GaleriaActividad({
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     {esUltimaConRestantes && (
-                      <div className="absolute inset-0 bg-slate-900/60 hidden md:flex items-center justify-center z-10">
+                      <div className="absolute inset-0 bg-piedra-900/60 hidden md:flex items-center justify-center z-10">
                         <span className="text-white font-semibold text-base md:text-lg">
                           {t.fotos(restantes + 1)}
                         </span>
@@ -230,7 +230,7 @@ export default function GaleriaActividad({
         {haySecundarias && (
           <span
             aria-hidden="true"
-            className="md:hidden absolute bottom-3 right-3 bg-slate-900/80 text-white text-xs font-semibold px-2.5 py-1 rounded pointer-events-none"
+            className="md:hidden absolute bottom-3 right-3 bg-piedra-900/80 text-white text-xs font-semibold px-2.5 py-1 rounded pointer-events-none"
           >
             {fotoActual}/{todas.length}
           </span>

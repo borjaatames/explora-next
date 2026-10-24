@@ -139,10 +139,10 @@ export default function HomePage() {
           className="max-w-6xl mx-auto px-4 py-16 md:py-20 scroll-mt-24"
         >
           <div className="mb-10">
-            <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
+            <h2 className="font-fraunces text-3xl md:text-4xl font-bold text-piedra-900 mb-3">
               Principales destinos
             </h2>
-            <p className="text-slate-600 text-lg">
+            <p className="text-piedra-600 text-lg">
               Elige tu ciudad y descubre las mejores actividades en cada una.
             </p>
           </div>
@@ -165,10 +165,10 @@ export default function HomePage() {
                 {/* Degradado inferior para legibilidad del nombre */}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 p-5">
-                  <span className="inline-block bg-white/90 text-slate-800 text-[11px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded mb-2">
+                  <span className="inline-block bg-white/90 text-piedra-800 text-[11px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded mb-2">
                     {ciudad.comunidad}
                   </span>
-                  <h3 className="font-playfair text-2xl md:text-3xl font-bold text-white leading-tight drop-shadow">
+                  <h3 className="font-fraunces text-2xl md:text-3xl font-bold text-white leading-tight drop-shadow">
                     {ciudad.nombre}
                   </h3>
                 </div>
@@ -179,7 +179,7 @@ export default function HomePage() {
           <div className="mt-10 text-center">
             <Link
               href="/ciudades"
-              className="inline-block text-sky-600 hover:text-sky-700 font-semibold"
+              className="inline-block text-anil-600 hover:text-anil-700 font-semibold"
             >
               Ver todas las ciudades →
             </Link>
@@ -191,14 +191,14 @@ export default function HomePage() {
       {actividadesHome.length > 0 && (
         <section
           id="actividades"
-          className="bg-slate-50 border-y border-slate-200 scroll-mt-24"
+          className="bg-piedra-50 border-y border-piedra-200 scroll-mt-24"
         >
           <div className="max-w-6xl mx-auto px-4 py-16 md:py-20">
             <div className="mb-10">
-              <h2 className="font-playfair text-3xl md:text-4xl font-bold text-slate-900 mb-3">
+              <h2 className="font-fraunces text-3xl md:text-4xl font-bold text-piedra-900 mb-3">
                 Actividades destacadas
               </h2>
-              <p className="text-slate-600 text-lg">
+              <p className="text-piedra-600 text-lg">
                 Lo mejor de cada ciudad: cancelación gratuita y confirmación
                 inmediata.
               </p>
@@ -209,9 +209,9 @@ export default function HomePage() {
                 <Link
                   key={a.url}
                   href={a.url}
-                  className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md"
+                  className="group flex flex-col overflow-hidden rounded-xl border border-piedra-200 bg-white shadow-sm transition hover:border-anil-400 hover:shadow-md"
                 >
-                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-piedra-100">
                     {a.imagen ? (
                       <Image
                         src={a.imagen}
@@ -222,34 +222,34 @@ export default function HomePage() {
                       />
                     ) : null}
                     {a.cancelacionGratuita ? (
-                      <span className="absolute top-3 left-3 bg-amber-500 text-slate-900 text-xs font-semibold px-2 py-1 rounded">
+                      <span className="absolute top-3 left-3 bg-azafran-500 text-piedra-900 text-xs font-semibold px-2 py-1 rounded">
                         Cancelación gratuita
                       </span>
                     ) : null}
                   </div>
                   <div className="flex flex-1 flex-col p-5">
                     {/* Siempre se pinta (vacío si no hay ciudad) para que todas las tarjetas midan igual. */}
-                    <span className="h-4 text-xs font-semibold uppercase tracking-wider text-sky-700 mb-2">
+                    <span className="h-4 text-xs font-semibold uppercase tracking-wider text-anil-700 mb-2">
                       {nombrePorCiudad.get(a.ciudad) ?? ""}
                     </span>
-                    <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
+                    <h3 className="font-fraunces text-lg font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
                       {a.titulo}
                     </h3>
-                    <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-slate-500 mb-4">
+                    <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-piedra-500 mb-4">
                       {a.duracion ? (
                         <span className="min-w-0 truncate">{a.duracion}</span>
                       ) : null}
                       {typeof a.ratingProveedor === "number" &&
                       typeof a.numeroOpiniones === "number" ? (
                         <span className="shrink-0">
-                          <span className="text-amber-500" aria-hidden="true">
+                          <span className="text-azafran-600" aria-hidden="true">
                             ★
                           </span>{" "}
                           {a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})
                         </span>
                       ) : null}
                     </div>
-                    <div className="mt-auto pt-4 border-t border-slate-100">
+                    <div className="mt-auto pt-4 border-t border-piedra-100">
                       <SelloProveedor
                         proveedor={a.proveedor}
                         idioma="es"
@@ -257,16 +257,16 @@ export default function HomePage() {
                       />
                       <div className="flex items-end justify-between">
                         <div>
-                          <p className="text-xs uppercase tracking-wider text-slate-400">
+                          <p className="text-xs uppercase tracking-wider text-piedra-400">
                             Desde
                           </p>
-                          <p className="text-xl font-bold text-slate-900">
+                          <p className="text-xl font-bold text-piedra-900">
                             {formatearPrecio(a.precioDesde, a.moneda)}
                           </p>
                         </div>
                         <span
                           aria-hidden="true"
-                          className="text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+                          className="text-sm font-semibold text-anil-600 group-hover:text-anil-700"
                         >
                           Ver actividad →
                         </span>
@@ -285,16 +285,16 @@ export default function HomePage() {
         <section className="max-w-6xl mx-auto px-4 py-14 md:py-16">
           <div className="flex flex-wrap items-end justify-between gap-3 mb-8">
             <div>
-              <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-2">
+              <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-2">
                 Guías para viajar mejor
               </h2>
-              <p className="text-slate-600">
+              <p className="text-piedra-600">
                 Consejos prácticos y rutas con criterio antes de reservar.
               </p>
             </div>
             <Link
               href="/guias"
-              className="text-sky-600 hover:text-sky-700 font-semibold whitespace-nowrap"
+              className="text-anil-600 hover:text-anil-700 font-semibold whitespace-nowrap"
             >
               Ver todas las guías →
             </Link>
@@ -305,18 +305,18 @@ export default function HomePage() {
               <Link
                 key={guia.url}
                 href={guia.url}
-                className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all"
+                className="group block border border-piedra-200 rounded-lg p-6 hover:border-anil-400 hover:shadow-md transition-all"
               >
-                <span className="inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+                <span className="inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
                   {guia.categoria}
                 </span>
-                <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
+                <h3 className="font-fraunces text-lg font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors">
                   {guia.titulo}
                 </h3>
-                <p className="text-slate-600 text-sm leading-relaxed mb-4 line-clamp-3">
+                <p className="text-piedra-600 text-sm leading-relaxed mb-4 line-clamp-3">
                   {guia.descripcion}
                 </p>
-                <div className="flex items-center justify-between text-xs text-slate-500">
+                <div className="flex items-center justify-between text-xs text-piedra-500">
                   <span>{formatearFecha(guia.fecha, "es")}</span>
                   <span>{guia.tiempoLectura} min lectura</span>
                 </div>

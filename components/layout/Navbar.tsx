@@ -80,11 +80,11 @@ export default function Navbar({ idioma }: Props) {
   ];
 
   return (
-    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-slate-200">
+    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-piedra-200">
       <div className="max-w-6xl mx-auto px-4 h-16 md:h-[76px] flex items-center justify-between">
         <Link
           href={urlHome(idioma)}
-          className="flex items-center gap-2.5 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+          className="flex items-center gap-2.5 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
           aria-label={t.inicio}
         >
           <Image
@@ -95,8 +95,8 @@ export default function Navbar({ idioma }: Props) {
             priority
             className="w-7 h-7 md:w-8 md:h-8"
           />
-          <span className="font-playfair text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-            ExploraSpain
+          <span className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 tracking-tight">
+            Explora<span className="text-anil-600">Spain</span>
           </span>
         </Link>
 
@@ -106,7 +106,7 @@ export default function Navbar({ idioma }: Props) {
               key={e.href}
               href={e.href}
               prefetch={false}
-              className="text-base font-semibold text-slate-900 hover:text-sky-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
+              className="text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
             >
               {e.label}
             </Link>
@@ -118,7 +118,7 @@ export default function Navbar({ idioma }: Props) {
           <Link
             href={urlContacto(idioma)}
             prefetch={false}
-            className="inline-flex items-center justify-center bg-white border border-slate-300 hover:border-sky-400 text-slate-900 text-sm font-semibold px-4 py-2.5 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+            className="inline-flex items-center justify-center bg-white border border-piedra-300 hover:border-anil-400 text-piedra-900 text-sm font-semibold px-4 py-2.5 rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
           >
             {t.contacto}
           </Link>

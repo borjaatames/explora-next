@@ -17,19 +17,19 @@ export const metadata: Metadata = {
 export default function AvisoLegalPage() {
   return (
     <main className="min-h-screen bg-white">
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
             Aviso Legal
           </h1>
-          <p className="text-sky-50">
+          <p className="text-anil-50">
             Última actualización: 24 de abril de 2026
           </p>
         </div>
       </section>
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
           <h2>1. Datos identificativos del titular</h2>
           <p>
             En cumplimiento de lo establecido en la Ley 34/2002, de 11 de
@@ -196,7 +196,7 @@ export default function AvisoLegalPage() {
         <div className="mt-12 text-center">
           <Link
             href="/"
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Volver a la portada
           </Link>

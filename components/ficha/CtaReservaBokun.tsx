@@ -55,21 +55,21 @@ export default function CtaReservaBokun({
 
   return (
     <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3">
-      <p className="text-slate-900">
-        <span className="text-sm text-slate-500">{t.desde} </span>
+      <p className="text-piedra-900">
+        <span className="text-sm text-piedra-500">{t.desde} </span>
         <span className="text-2xl font-bold">{t.precio}</span>
-        <span className="text-sm text-slate-500"> {t.unidad}</span>
+        <span className="text-sm text-piedra-500"> {t.unidad}</span>
       </p>
       <a
         href={`#${ANCLA_RESERVA}`}
-        className="inline-flex items-center justify-center rounded-lg bg-amber-400 hover:bg-amber-500 px-5 py-3 text-sm font-semibold text-slate-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+        className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-sm font-semibold text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
       >
         {t.verFechas} →
       </a>
-      <p className="w-full text-sm text-slate-600 flex flex-wrap gap-x-4 gap-y-1">
+      <p className="w-full text-sm text-piedra-600 flex flex-wrap gap-x-4 gap-y-1">
         {garantias.map((g) => (
           <span key={g} className="inline-flex items-center gap-1">
-            <span aria-hidden="true" className="text-sky-600">
+            <span aria-hidden="true" className="text-anil-600">
               ✓
             </span>
             {g}

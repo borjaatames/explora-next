@@ -213,7 +213,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="relative isolate overflow-hidden bg-sky-500 text-white py-12 md:py-16">
+      <header className="relative isolate overflow-hidden bg-anil-500 text-white py-12 md:py-16">
         {ciudad.imagenActividades || ciudad.imagen ? (
           <>
             <Image
@@ -224,11 +224,11 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
               sizes="100vw"
               className="object-cover"
             />
-            <div className="absolute inset-0 bg-slate-900/60" aria-hidden="true" />
+            <div className="absolute inset-0 bg-piedra-900/60" aria-hidden="true" />
           </>
         ) : null}
         <div className="relative max-w-5xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-slate-200 mb-4">
+          <nav aria-label="Migas de pan" className="text-sm text-piedra-200 mb-4">
             <Link href="/" className="hover:text-white">Inicio</Link>
             {" › "}
             <Link href="/ciudades" className="hover:text-white">Ciudades</Link>
@@ -238,10 +238,10 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
             <span className="text-white">Actividades</span>
           </nav>
 
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-3 leading-tight">
+          <h1 className="font-fraunces text-3xl md:text-5xl font-bold mb-3 leading-tight">
             Actividades en {ciudad.nombre}
           </h1>
-          <p className="text-lg md:text-xl text-slate-100 max-w-3xl mb-6">
+          <p className="text-lg md:text-xl text-piedra-100 max-w-3xl mb-6">
             Tours, visitas guiadas y excursiones seleccionadas con criterio editorial.
           </p>
 
@@ -276,7 +276,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
           la página de actividades (la ficha de actividades es ahora la entrada
           principal a cada ciudad). */}
       {ciudad.resumenActividades || ciudad.contenidoHtml ? (
-        <section className="bg-slate-50 border-t border-slate-200">
+        <section className="bg-piedra-50 border-t border-piedra-200">
           <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
             {ciudad.resumenActividades ? (
               <div
@@ -287,7 +287,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
                 }
               >
                 {imagenSobre ? (
-                  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl bg-slate-100 shadow-sm">
+                  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl bg-piedra-100 shadow-sm">
                     <Image
                       src={imagenSobre}
                       alt={ciudad.imagenResumenAlt || "Vista de " + ciudad.nombre}
@@ -298,17 +298,17 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
                   </div>
                 ) : null}
                 <div>
-                  <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-4">
+                  <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
                     Sobre {ciudad.nombre}
                   </h2>
-                  <p className="text-slate-600 text-base md:text-lg leading-relaxed">
+                  <p className="text-piedra-600 text-base md:text-lg leading-relaxed">
                     {ciudad.resumenActividades}
                   </p>
                 </div>
               </div>
             ) : (
               <article className="max-w-3xl">
-                <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+                <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
                   Sobre {ciudad.nombre}
                 </h2>
                 <div
@@ -325,7 +325,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
           que la página de actividades funcione como hub completo. */}
       {hayExtras ? (
         <section className="max-w-6xl mx-auto px-4 pb-12 md:pb-16">
-          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+          <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
             Sigue explorando {ciudad.nombre}
           </h2>
           <div className={gridExtras}>
@@ -368,14 +368,14 @@ function Metrica({
   sufijo?: string;
 }) {
   return (
-    <div className="border-l-2 border-amber-400 pl-3">
+    <div className="border-l-2 border-azafran-400 pl-3">
       <div className="text-2xl md:text-3xl font-bold text-white leading-none">
         {valor}
         {sufijo ? (
-          <span className="text-sm font-normal text-slate-200">{sufijo}</span>
+          <span className="text-sm font-normal text-piedra-200">{sufijo}</span>
         ) : null}
       </div>
-      <div className="text-xs text-slate-200 mt-1">{etiqueta}</div>
+      <div className="text-xs text-piedra-200 mt-1">{etiqueta}</div>
     </div>
   );
 }

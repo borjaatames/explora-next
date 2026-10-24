@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: #0ea5e9;
-  --color-accent: #eab308;
+  --color-primary: #1f3a6e; /* añil */
+  --color-accent: #e3a21a; /* azafrán */
 }
 
 html {
@@ -40,25 +40,25 @@ html {
 
 /* Estilos para artículos de guías (prose-guia) */
 .prose-guia {
-  @apply text-slate-800 leading-relaxed;
+  @apply text-piedra-800 leading-relaxed;
 }
 .prose-guia h1 {
-  @apply font-playfair text-4xl md:text-5xl font-bold text-slate-900 mb-6 mt-0;
+  @apply font-fraunces text-4xl md:text-5xl font-bold text-piedra-900 mb-6 mt-0;
 }
 .prose-guia h2 {
-  @apply font-playfair text-2xl md:text-3xl font-bold text-slate-900 mt-12 mb-4;
+  @apply font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mt-12 mb-4;
 }
 .prose-guia h3 {
-  @apply font-playfair text-xl md:text-2xl font-bold text-slate-900 mt-8 mb-3;
+  @apply font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mt-8 mb-3;
 }
 .prose-guia p {
   @apply mb-4 text-base md:text-lg leading-relaxed;
 }
 .prose-guia a {
-  @apply text-sky-600 underline decoration-sky-300 underline-offset-2 hover:decoration-sky-500;
+  @apply text-anil-600 underline decoration-anil-300 underline-offset-2 hover:decoration-anil-500;
 }
 .prose-guia strong {
-  @apply font-semibold text-slate-900;
+  @apply font-semibold text-piedra-900;
 }
 .prose-guia ul,
 .prose-guia ol {
@@ -74,19 +74,19 @@ html {
   @apply text-base md:text-lg leading-relaxed pl-1;
 }
 .prose-guia blockquote {
-  @apply border-l-4 border-amber-400 bg-amber-50 pl-6 pr-4 py-3 my-6 italic text-slate-700;
+  @apply border-l-4 border-azafran-400 bg-azafran-50 pl-6 pr-4 py-3 my-6 italic text-piedra-700;
 }
 .prose-guia table {
   @apply w-full my-6 border-collapse;
 }
 .prose-guia th {
-  @apply text-left bg-slate-100 px-3 py-2 font-semibold border border-slate-200;
+  @apply text-left bg-piedra-100 px-3 py-2 font-semibold border border-piedra-200;
 }
 .prose-guia td {
-  @apply px-3 py-2 border border-slate-200;
+  @apply px-3 py-2 border border-piedra-200;
 }
 .prose-guia hr {
-  @apply my-10 border-slate-200;
+  @apply my-10 border-piedra-200;
 }
 .prose-guia img {
   @apply rounded-lg my-6;

@@ -38,12 +38,12 @@ export default function ContactoPage() {
   return (
     <main className="min-h-screen bg-white">
       {/* Hero */}
-      <section className="bg-sky-500 text-white py-16 md:py-24">
+      <section className="bg-anil-500 text-white py-16 md:py-24">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
+          <h1 className="font-fraunces text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
             Contacto
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">
+          <p className="text-lg md:text-xl text-anil-50">
             Dudas, sugerencias, correcciones, colaboraciones. Leemos todo.
           </p>
         </div>
@@ -54,10 +54,10 @@ export default function ContactoPage() {
         {/* Acceso rápido por WhatsApp */}
         <div className="bg-[#25D366]/10 border border-[#25D366]/40 rounded-lg p-6 mb-8 flex flex-col sm:flex-row sm:items-center gap-4">
           <div className="flex-1">
-            <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-1">
+            <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-1">
               ¿Dudas rápidas? Escríbenos por WhatsApp
             </h2>
-            <p className="text-slate-700 text-sm">
+            <p className="text-piedra-700 text-sm">
               Atención directa para consultas sobre actividades y reservas. Te
               respondemos lo antes posible.
             </p>
@@ -76,11 +76,11 @@ export default function ContactoPage() {
         </div>
 
         {/* Bloque email principal */}
-        <div className="bg-amber-50 border-l-4 border-amber-500 rounded-r-lg p-8 mb-12">
-          <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-3">
+        <div className="bg-azafran-50 border-l-4 border-azafran-500 rounded-r-lg p-8 mb-12">
+          <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-3">
             Escríbenos directamente
           </h2>
-          <p className="text-slate-700 mb-6">
+          <p className="text-piedra-700 mb-6">
             Rellena el formulario y te responderemos lo antes posible.
           </p>
           <ContactForm idioma="es" />
@@ -88,42 +88,42 @@ export default function ContactoPage() {
 
         {/* Para qué tipo de mensajes */}
         <div className="grid md:grid-cols-2 gap-6 mb-12">
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               ¿Has visto un error?
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               Precios desactualizados, horarios que han cambiado, un dato
               incorrecto. Avísanos y lo corregimos. Indica la URL de la guía y
               qué falla.
             </p>
           </div>
 
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               ¿Sugerencia de guía?
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               Si echas en falta un destino, ruta o recomendación concreta,
               cuéntanoslo. Las mejores ideas vienen de quien está viajando.
             </p>
           </div>
 
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               ¿Colaboraciones?
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               Prensa, medios, partners turísticos, propuestas editoriales.
               Explica brevemente quién eres y qué propones.
             </p>
           </div>
 
-          <div className="p-6 border border-slate-200 rounded-lg">
-            <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2">
+          <div className="p-6 border border-piedra-200 rounded-lg">
+            <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2">
               ¿Reservas y tours?
             </h3>
-            <p className="text-slate-700 text-sm leading-relaxed">
+            <p className="text-piedra-700 text-sm leading-relaxed">
               Para consultas sobre actividades, cambios o incidencias con una
               reserva, indica en el mensaje el número de reserva y la fecha de
               la actividad.
@@ -132,9 +132,9 @@ export default function ContactoPage() {
         </div>
 
         {/* Datos empresa */}
-        <div className="p-6 bg-slate-50 rounded-lg text-sm text-slate-600 leading-relaxed">
+        <div className="p-6 bg-piedra-50 rounded-lg text-sm text-piedra-600 leading-relaxed">
           <p className="mb-2">
-            <strong className="text-slate-900">Datos de la empresa:</strong>
+            <strong className="text-piedra-900">Datos de la empresa:</strong>
           </p>
           <p>
             SKYWARD PARTNERS, S.L. · NIF B26629576 · Calle Castelló 117, 28006
@@ -142,7 +142,7 @@ export default function ContactoPage() {
           </p>
           <p className="mt-3">
             Más información en el{" "}
-            <Link href="/aviso-legal" className="text-sky-600 hover:underline">
+            <Link href="/aviso-legal" className="text-anil-600 hover:underline">
               aviso legal
             </Link>
             .
@@ -153,7 +153,7 @@ export default function ContactoPage() {
         <div className="mt-12 text-center">
           <Link
             href="/"
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Volver a la portada
           </Link>

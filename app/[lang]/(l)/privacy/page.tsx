@@ -115,18 +115,18 @@ export default function PrivacyPage({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
 
-        <section className="bg-sky-500 text-white py-12 md:py-16">
+        <section className="bg-anil-500 text-white py-12 md:py-16">
           <div className="max-w-3xl mx-auto px-4">
-            <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+            <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
               Datenschutzerklärung
             </h1>
-            <p className="text-sky-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
+            <p className="text-anil-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
           </div>
         </section>
 
         <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-          <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
-            <p className="text-xl leading-relaxed text-slate-700">
+          <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
+            <p className="text-xl leading-relaxed text-piedra-700">
               Bei ExploraSpain nehmen wir deinen Datenschutz ernst. Diese
               Erklärung beschreibt, welche Daten wir verarbeiten, zu welchem
               Zweck und welche Rechte du hast, gemäß der DSGVO (EU-Verordnung
@@ -331,10 +331,10 @@ export default function PrivacyPage({
           </div>
 
           <aside
-            className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+            className="mt-12 p-6 bg-piedra-50 border border-piedra-200 rounded-lg text-sm text-piedra-700"
             aria-label="Hinweis zur Sprachversion"
           >
-            <p className="font-semibold text-slate-900 mb-2">
+            <p className="font-semibold text-piedra-900 mb-2">
               Hinweis zur Sprachversion
             </p>
             <p>
@@ -346,7 +346,7 @@ export default function PrivacyPage({
               verfügbar unter{" "}
               <Link
                 href="/privacidad"
-                className="text-sky-600 hover:text-sky-700 underline"
+                className="text-anil-600 hover:text-anil-700 underline"
               >
                 /privacidad
               </Link>
@@ -357,7 +357,7 @@ export default function PrivacyPage({
           <div className="mt-12 text-center">
             <Link
               href={`/${lang}`}
-              className="text-sky-600 hover:text-sky-700 font-semibold"
+              className="text-anil-600 hover:text-anil-700 font-semibold"
             >
               ← Zurück zur Startseite
             </Link>
@@ -374,18 +374,18 @@ export default function PrivacyPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
             Privacy Policy
           </h1>
-          <p className="text-sky-50">Last updated: {LAST_UPDATED_EN}</p>
+          <p className="text-anil-50">Last updated: {LAST_UPDATED_EN}</p>
         </div>
       </section>
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
-          <p className="text-xl leading-relaxed text-slate-700">
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
+          <p className="text-xl leading-relaxed text-piedra-700">
             At ExploraSpain we take your privacy seriously. This policy
             explains what data we process, for what purpose, and what rights
             you have, in compliance with the GDPR (EU Regulation 2016/679)
@@ -580,10 +580,10 @@ export default function PrivacyPage({
 
         {/* Cláusula prevails — caja gris fuera del prose */}
         <aside
-          className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+          className="mt-12 p-6 bg-piedra-50 border border-piedra-200 rounded-lg text-sm text-piedra-700"
           aria-label="Language version disclaimer"
         >
-          <p className="font-semibold text-slate-900 mb-2">
+          <p className="font-semibold text-piedra-900 mb-2">
             Language version disclaimer
           </p>
           <p>
@@ -594,7 +594,7 @@ export default function PrivacyPage({
             prevail. The original Spanish version is available at{" "}
             <Link
               href="/privacidad"
-              className="text-sky-600 hover:text-sky-700 underline"
+              className="text-anil-600 hover:text-anil-700 underline"
             >
               /privacidad
             </Link>
@@ -605,7 +605,7 @@ export default function PrivacyPage({
         <div className="mt-12 text-center">
           <Link
             href={`/${lang}`}
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Back to home
           </Link>

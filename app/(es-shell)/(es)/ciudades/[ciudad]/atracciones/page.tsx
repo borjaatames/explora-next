@@ -89,9 +89,9 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
+      <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-sky-100 mb-4">
+          <nav aria-label="Migas de pan" className="text-sm text-anil-100 mb-4">
             <Link href="/" className="hover:text-white">Inicio</Link>
             {" › "}
             <Link href="/ciudades" className="hover:text-white">Ciudades</Link>
@@ -100,10 +100,10 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
             {" › "}
             <span className="text-white">Atracciones</span>
           </nav>
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-4 leading-tight">
+          <h1 className="font-fraunces text-3xl md:text-5xl font-bold mb-4 leading-tight">
             {"Las mejores atracciones de " + ciudad.nombre}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">
+          <p className="text-lg md:text-xl text-anil-50">
             Lo imprescindible que ver en {ciudad.nombre}, con foto y contexto.
           </p>
         </div>
@@ -119,7 +119,7 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
       </section>
 
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
-        <Link href={urlActividadesDeCiudad("es", params.ciudad)} className="text-sky-600 hover:text-sky-700 font-semibold">
+        <Link href={urlActividadesDeCiudad("es", params.ciudad)} className="text-anil-600 hover:text-anil-700 font-semibold">
           Ver actividades en {ciudad.nombre} →
         </Link>
       </div>
@@ -130,8 +130,8 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
 function AtraccionCard({ atraccion }: { atraccion: Atraccion }) {
   if (atraccion.imagen) {
     return (
-      <article className="group bg-white border border-slate-200 rounded-lg overflow-hidden hover:border-sky-400 hover:shadow-md transition-all">
-        <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden">
+      <article className="group bg-white border border-piedra-200 rounded-lg overflow-hidden hover:border-anil-400 hover:shadow-md transition-all">
+        <div className="relative w-full aspect-[4/3] bg-piedra-100 overflow-hidden">
           <Image
             src={atraccion.imagen}
             alt={atraccion.imagenAlt ?? atraccion.nombre}
@@ -141,10 +141,10 @@ function AtraccionCard({ atraccion }: { atraccion: Atraccion }) {
           />
         </div>
         <div className="p-5">
-          <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2">
+          <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-2">
             {atraccion.nombre}
           </h2>
-          <p className="text-slate-600 leading-relaxed text-sm md:text-base">
+          <p className="text-piedra-600 leading-relaxed text-sm md:text-base">
             {atraccion.descripcion}
           </p>
         </div>
@@ -152,11 +152,11 @@ function AtraccionCard({ atraccion }: { atraccion: Atraccion }) {
     );
   }
   return (
-    <article className="bg-sky-50 border border-sky-100 rounded-lg p-6 hover:border-sky-300 transition-colors">
-      <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2">
+    <article className="bg-anil-50 border border-anil-100 rounded-lg p-6 hover:border-anil-300 transition-colors">
+      <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-2">
         {atraccion.nombre}
       </h2>
-      <p className="text-slate-600 leading-relaxed text-sm md:text-base">
+      <p className="text-piedra-600 leading-relaxed text-sm md:text-base">
         {atraccion.descripcion}
       </p>
     </article>

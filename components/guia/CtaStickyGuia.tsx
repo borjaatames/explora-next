@@ -56,24 +56,24 @@ export default function CtaStickyGuia({
   return (
     <div
       className={
-        "md:hidden fixed inset-x-0 bottom-0 z-40 bg-white border-t border-slate-200 shadow-md transition-transform duration-200 " +
+        "md:hidden fixed inset-x-0 bottom-0 z-40 bg-white border-t border-piedra-200 shadow-md transition-transform duration-200 " +
         (visible ? "translate-y-0" : "translate-y-full")
       }
       aria-hidden={!visible}
     >
       <div className="flex items-center gap-3 px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
         <div className="flex-1 min-w-0">
-          <p className="text-sm font-semibold text-slate-900 truncate">{titulo}</p>
-          <p className="text-xs text-slate-500">
+          <p className="text-sm font-semibold text-piedra-900 truncate">{titulo}</p>
+          <p className="text-xs text-piedra-500">
             {rating ? (
               <>
-                <span className="text-amber-500" aria-hidden>
+                <span className="text-azafran-600" aria-hidden>
                   ★
                 </span>{" "}
                 {rating} ·{" "}
               </>
             ) : null}
-            {textoDesde} <span className="font-bold text-slate-900">{precio}</span>
+            {textoDesde} <span className="font-bold text-piedra-900">{precio}</span>
           </p>
         </div>
         <Link
@@ -81,7 +81,7 @@ export default function CtaStickyGuia({
           data-reserva="sticky"
           data-ficha={slugEs}
           tabIndex={visible ? 0 : -1}
-          className="flex-none inline-flex items-center justify-center bg-amber-500 hover:bg-amber-600 text-slate-900 font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+          className="flex-none inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
         >
           {textoCta}
         </Link>

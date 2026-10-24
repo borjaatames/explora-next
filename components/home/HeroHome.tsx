@@ -63,17 +63,17 @@ export default function HeroHome({
       />
       {/* Velo oscuro hacia la izquierda: el texto siempre pasa contraste AA */}
       <div
-        className="absolute inset-0 -z-10 bg-gradient-to-r from-slate-900/85 via-slate-900/60 to-slate-900/20"
+        className="absolute inset-0 -z-10 bg-gradient-to-r from-piedra-900/85 via-piedra-900/60 to-piedra-900/20"
         aria-hidden="true"
       />
       <div className="max-w-6xl mx-auto px-4 py-20 md:py-28">
-        <p className="text-xs md:text-sm font-semibold uppercase tracking-widest text-sky-200 mb-4">
+        <p className="text-xs md:text-sm font-semibold uppercase tracking-widest text-anil-200 mb-4">
           {t.antetitulo}
         </p>
-        <h1 className="font-playfair text-4xl md:text-6xl font-bold leading-tight max-w-3xl mb-5">
+        <h1 className="font-fraunces text-4xl md:text-6xl font-bold leading-tight max-w-3xl mb-5">
           {t.titulo}
         </h1>
-        <p className="text-lg md:text-xl text-sky-50 leading-relaxed max-w-xl mb-9">
+        <p className="text-lg md:text-xl text-anil-50 leading-relaxed max-w-xl mb-9">
           {t.subtitulo}
         </p>
         <BuscadorDestino
@@ -86,7 +86,7 @@ export default function HeroHome({
         <Link
           href={anclaDestinos}
       prefetch={false}
-          className="inline-flex items-center mt-5 text-sm font-semibold text-sky-100 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded"
+          className="inline-flex items-center mt-5 text-sm font-semibold text-anil-100 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900 rounded"
         >
           {t.verDestinos} →
         </Link>

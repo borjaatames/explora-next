@@ -28,7 +28,7 @@ export default function OtrosIdiomas({ idioma, rutas }: Props) {
   return (
     <nav
       aria-label={ETIQUETA[idioma]}
-      className="max-w-3xl mx-auto px-4 pb-12 text-center text-sm text-slate-500"
+      className="max-w-3xl mx-auto px-4 pb-12 text-center text-sm text-piedra-500"
     >
       <span>{ETIQUETA[idioma]}: </span>
       {otros.map((l, i) => (
@@ -38,7 +38,7 @@ export default function OtrosIdiomas({ idioma, rutas }: Props) {
             href={rutas[l] as string}
             hrefLang={l}
             lang={l}
-            className="text-sky-600 hover:text-sky-700 font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded"
+            className="text-anil-600 hover:text-anil-700 font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
           >
             {IDIOMA_LABELS[l].nombre}
           </Link>

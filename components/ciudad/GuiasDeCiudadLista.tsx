@@ -29,11 +29,11 @@ export default function GuiasDeCiudadLista({
   const visibles = guias.slice(0, limite);
 
   return (
-    <section className="border-t border-slate-200" aria-labelledby="guias-ciudad">
+    <section className="border-t border-piedra-200" aria-labelledby="guias-ciudad">
       <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <h2
           id="guias-ciudad"
-          className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6"
+          className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6"
         >
           {titulo}
         </h2>
@@ -43,15 +43,15 @@ export default function GuiasDeCiudadLista({
               key={guia.url}
               href={guia.url}
       prefetch={false}
-              className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+              className="group block border border-piedra-200 rounded-lg p-6 hover:border-anil-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
             >
-              <h3 className="font-playfair text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
+              <h3 className="font-fraunces text-xl font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors">
                 {guia.titulo}
               </h3>
-              <p className="text-slate-600 leading-relaxed mb-4 line-clamp-3">
+              <p className="text-piedra-600 leading-relaxed mb-4 line-clamp-3">
                 {guia.descripcion}
               </p>
-              <span className="text-xs text-slate-500">
+              <span className="text-xs text-piedra-500">
                 {guia.tiempoLectura} {textoMinLectura}
               </span>
             </Link>
@@ -62,7 +62,7 @@ export default function GuiasDeCiudadLista({
             <Link
               href={urlTodas}
       prefetch={false}
-              className="inline-flex items-center text-sky-600 hover:text-sky-700 font-semibold transition-colors"
+              className="inline-flex items-center text-anil-600 hover:text-anil-700 font-semibold transition-colors"
             >
               {textoVerTodas} →
             </Link>

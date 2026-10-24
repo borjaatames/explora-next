@@ -58,7 +58,7 @@ export default function StickyReservaBokun({
 
   return (
     <div
-      className={`fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-slate-200 shadow-lg transition-transform duration-300 pb-[env(safe-area-inset-bottom)] ${
+      className={`fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-piedra-200 shadow-lg transition-transform duration-300 pb-[env(safe-area-inset-bottom)] ${
         visible ? "translate-y-0" : "translate-y-full"
       }`}
       role="region"
@@ -66,22 +66,22 @@ export default function StickyReservaBokun({
       aria-hidden={!visible}
     >
       {aviso && (
-        <p className="bg-amber-50 border-b border-amber-200 text-amber-900 text-xs font-semibold text-center px-4 py-1.5">
+        <p className="bg-azafran-50 border-b border-azafran-200 text-azafran-900 text-xs font-semibold text-center px-4 py-1.5">
           {aviso}
         </p>
       )}
       <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
         <div className="flex flex-col min-w-0 flex-1">
-          <span className="text-base font-bold text-slate-900 leading-tight">
+          <span className="text-base font-bold text-piedra-900 leading-tight">
             {t.desde} {t.precio}
           </span>
-          <span className="text-xs text-slate-500 leading-tight truncate">
+          <span className="text-xs text-piedra-500 leading-tight truncate">
             {rating && (
               <>
-                <span aria-hidden="true" className="text-amber-500">
+                <span aria-hidden="true" className="text-azafran-500">
                   ★
                 </span>{" "}
-                <span className="font-semibold text-slate-900">{rating}</span>
+                <span className="font-semibold text-piedra-900">{rating}</span>
                 {" · "}
               </>
             )}
@@ -91,7 +91,7 @@ export default function StickyReservaBokun({
         <a
           href={`#${ANCLA_RESERVA}`}
           tabIndex={visible ? 0 : -1}
-          className="inline-flex items-center justify-center rounded-lg bg-amber-400 hover:bg-amber-500 px-5 py-3 text-sm font-semibold text-slate-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2 whitespace-nowrap"
+          className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-sm font-semibold text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2 whitespace-nowrap"
         >
           {t.verFechas} →
         </a>

@@ -133,9 +133,9 @@ export default async function GuiasHubPage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-white">
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-sky-100 mb-4">
+          <nav aria-label="Breadcrumb" className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>
@@ -143,16 +143,16 @@ export default async function GuiasHubPage({ params }: Props) {
             <span className="text-white">{dict.navegacion.guias}</span>
           </nav>
 
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-3">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-3">
             {dict.guias.tituloIndice}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">{strings.hubSubtitulo}</p>
+          <p className="text-lg md:text-xl text-anil-50">{strings.hubSubtitulo}</p>
         </div>
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         {ciudades.length === 0 ? (
-          <div className="text-center py-12 text-slate-500 text-lg">
+          <div className="text-center py-12 text-piedra-500 text-lg">
             {strings.vacio}
           </div>
         ) : (
@@ -191,10 +191,10 @@ function TarjetaCiudadGuias({
   return (
     <Link
       href={href}
-      className="group flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:border-sky-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      className="group flex flex-col overflow-hidden rounded-xl border border-piedra-200 bg-white shadow-sm transition hover:border-anil-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
     >
       {ciudad.imagen ? (
-        <div className="relative aspect-[4/3] w-full overflow-hidden bg-slate-100">
+        <div className="relative aspect-[4/3] w-full overflow-hidden bg-piedra-100">
           <Image
             src={ciudad.imagen}
             alt={ciudad.imagenAlt ?? ciudad.nombre}
@@ -204,17 +204,17 @@ function TarjetaCiudadGuias({
           />
         </div>
       ) : (
-        <div className="aspect-[4/3] w-full bg-slate-100" aria-hidden="true" />
+        <div className="aspect-[4/3] w-full bg-piedra-100" aria-hidden="true" />
       )}
 
       <div className="flex flex-1 flex-col p-6">
-        <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 group-hover:text-sky-700 transition-colors">
+        <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 group-hover:text-anil-700 transition-colors">
           {ciudad.nombre}
         </h2>
-        <p className="mt-2 text-sm text-slate-500">{contador}</p>
+        <p className="mt-2 text-sm text-piedra-500">{contador}</p>
         <span
           aria-hidden="true"
-          className="mt-auto pt-6 text-sm font-semibold text-sky-600 group-hover:text-sky-700"
+          className="mt-auto pt-6 text-sm font-semibold text-anil-600 group-hover:text-anil-700"
         >
           {cta} →
         </span>

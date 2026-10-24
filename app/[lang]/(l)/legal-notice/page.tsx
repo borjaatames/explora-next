@@ -113,17 +113,17 @@ export default function LegalNoticePage({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
 
-        <section className="bg-sky-500 text-white py-12 md:py-16">
+        <section className="bg-anil-500 text-white py-12 md:py-16">
           <div className="max-w-3xl mx-auto px-4">
-            <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+            <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
               Impressum
             </h1>
-            <p className="text-sky-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
+            <p className="text-anil-50">Zuletzt aktualisiert: {LAST_UPDATED_DE}</p>
           </div>
         </section>
 
         <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-          <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+          <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
             <h2>1. Angaben zum Betreiber</h2>
             <p>
               Gemäß dem spanischen Gesetz 34/2002 vom 11. Juli über
@@ -296,10 +296,10 @@ export default function LegalNoticePage({
           </div>
 
           <aside
-            className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+            className="mt-12 p-6 bg-piedra-50 border border-piedra-200 rounded-lg text-sm text-piedra-700"
             aria-label="Hinweis zur Sprachversion"
           >
-            <p className="font-semibold text-slate-900 mb-2">
+            <p className="font-semibold text-piedra-900 mb-2">
               Hinweis zur Sprachversion
             </p>
             <p>
@@ -311,7 +311,7 @@ export default function LegalNoticePage({
               verfügbar unter{" "}
               <Link
                 href="/aviso-legal"
-                className="text-sky-600 hover:text-sky-700 underline"
+                className="text-anil-600 hover:text-anil-700 underline"
               >
                 /aviso-legal
               </Link>
@@ -322,7 +322,7 @@ export default function LegalNoticePage({
           <div className="mt-12 text-center">
             <Link
               href={`/${lang}`}
-              className="text-sky-600 hover:text-sky-700 font-semibold"
+              className="text-anil-600 hover:text-anil-700 font-semibold"
             >
               ← Zurück zur Startseite
             </Link>
@@ -339,17 +339,17 @@ export default function LegalNoticePage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
-      <section className="bg-sky-500 text-white py-12 md:py-16">
+      <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <h1 className="font-playfair text-4xl md:text-5xl font-bold mb-2">
+          <h1 className="font-fraunces text-4xl md:text-5xl font-bold mb-2">
             Legal Notice
           </h1>
-          <p className="text-sky-50">Last updated: {LAST_UPDATED_EN}</p>
+          <p className="text-anil-50">Last updated: {LAST_UPDATED_EN}</p>
         </div>
       </section>
 
       <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div className="prose prose-lg max-w-none prose-headings:font-playfair prose-headings:text-slate-900 prose-a:text-sky-600">
+        <div className="prose prose-lg max-w-none prose-headings:font-fraunces prose-headings:text-piedra-900 prose-a:text-anil-600">
           <h2>1. Owner identification</h2>
           <p>
             In compliance with Spanish Law 34/2002, of July 11, on Information
@@ -510,10 +510,10 @@ export default function LegalNoticePage({
 
         {/* Cláusula prevails — caja gris fuera del prose */}
         <aside
-          className="mt-12 p-6 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-700"
+          className="mt-12 p-6 bg-piedra-50 border border-piedra-200 rounded-lg text-sm text-piedra-700"
           aria-label="Language version disclaimer"
         >
-          <p className="font-semibold text-slate-900 mb-2">
+          <p className="font-semibold text-piedra-900 mb-2">
             Language version disclaimer
           </p>
           <p>
@@ -524,7 +524,7 @@ export default function LegalNoticePage({
             prevail. The original Spanish version is available at{" "}
             <Link
               href="/aviso-legal"
-              className="text-sky-600 hover:text-sky-700 underline"
+              className="text-anil-600 hover:text-anil-700 underline"
             >
               /aviso-legal
             </Link>
@@ -535,7 +535,7 @@ export default function LegalNoticePage({
         <div className="mt-12 text-center">
           <Link
             href={`/${lang}`}
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             ← Back to home
           </Link>

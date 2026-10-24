@@ -152,7 +152,7 @@ export default function StickyReservaMovil({
   return (
     <>
       <div
-        className="fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-slate-200 shadow-lg pb-[env(safe-area-inset-bottom)]"
+        className="fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-piedra-200 shadow-lg pb-[env(safe-area-inset-bottom)]"
         // Sube por encima del banner de cookies mientras esté visible (lo
         // publica CookieBanner) para que el CTA de reserva no quede tapado.
         style={{ bottom: "var(--alto-cookie-banner, 0px)" }}
@@ -160,22 +160,22 @@ export default function StickyReservaMovil({
         aria-label={t.ariaBarra}
       >
         {aviso && (
-          <p className="bg-amber-50 border-b border-amber-200 text-amber-900 text-xs font-semibold text-center px-4 py-1.5">
+          <p className="bg-azafran-50 border-b border-azafran-200 text-azafran-900 text-xs font-semibold text-center px-4 py-1.5">
             {aviso}
           </p>
         )}
         <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
           <div className="flex flex-col min-w-0 flex-1">
-            <span className="text-base font-bold text-slate-900 leading-tight">
+            <span className="text-base font-bold text-piedra-900 leading-tight">
               {precio}
             </span>
-            <span className="text-xs text-slate-500 leading-tight truncate">
+            <span className="text-xs text-piedra-500 leading-tight truncate">
               {tieneRating ? (
                 <>
-                  <span aria-hidden="true" className="text-amber-500">
+                  <span aria-hidden="true" className="text-azafran-500">
                     ★
                   </span>{" "}
-                  <span className="font-semibold text-slate-900">
+                  <span className="font-semibold text-piedra-900">
                     {ratingTextoValor}
                   </span>
                   {" ("}
@@ -203,7 +203,7 @@ export default function StickyReservaMovil({
               }
               setModalOpen(true);
             }}
-            className="inline-flex items-center justify-center rounded-lg bg-amber-400 hover:bg-amber-500 px-5 py-3 text-sm font-semibold text-slate-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-amber-500 whitespace-nowrap"
+            className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-sm font-semibold text-piedra-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-azafran-500 whitespace-nowrap"
           >
             {textoReservar} →
           </button>
@@ -219,17 +219,17 @@ export default function StickyReservaMovil({
           aria-label={t.ariaModal}
         >
           <div
-            className="absolute inset-x-0 bottom-0 top-12 bg-slate-50 rounded-t-2xl overflow-y-auto animate-slide-up"
+            className="absolute inset-x-0 bottom-0 top-12 bg-piedra-50 rounded-t-2xl overflow-y-auto animate-slide-up"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="sticky top-0 bg-white border-b border-slate-200 px-4 py-3 flex items-center justify-between z-10">
-              <span className="text-sm font-semibold text-slate-900">
+            <div className="sticky top-0 bg-white border-b border-piedra-200 px-4 py-3 flex items-center justify-between z-10">
+              <span className="text-sm font-semibold text-piedra-900">
                 {t.headerModal}
               </span>
               <button
                 type="button"
                 onClick={() => setModalOpen(false)}
-                className="w-8 h-8 rounded-full hover:bg-slate-100 flex items-center justify-center text-slate-600 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                className="w-8 h-8 rounded-full hover:bg-piedra-100 flex items-center justify-center text-piedra-600 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
                 aria-label={t.ariaCerrar}
               >
                 ✕

@@ -124,7 +124,7 @@ function formatearIdiomas(
   return idiomas.map((id) => nombres[id] || id).join(" · ");
 }
 
-const ICONO_BASE = "w-5 h-5 text-sky-600 flex-none mt-0.5";
+const ICONO_BASE = "w-5 h-5 text-anil-600 flex-none mt-0.5";
 
 const ICONOS = {
   reloj: (
@@ -341,11 +341,11 @@ export default function DetallesPracticos({
   return (
     <section
       aria-labelledby="detalles-practicos-titulo"
-      className="bg-slate-50 border border-slate-200 rounded-lg p-6 md:p-7"
+      className="bg-piedra-50 border border-piedra-200 rounded-lg p-6 md:p-7"
     >
       <h2
         id="detalles-practicos-titulo"
-        className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-5"
+        className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-5"
       >
         {t.titulo}
       </h2>
@@ -354,13 +354,13 @@ export default function DetallesPracticos({
           // Cada grupo es un <div> con solo <dt> + <dd> dentro (HTML válido
           // para <dl>); el icono va dentro del <dt> y se posiciona en absoluto.
           <div key={fila.titulo} className="relative pl-8 text-sm">
-            <dt className="font-semibold text-slate-900">
+            <dt className="font-semibold text-piedra-900">
               <span aria-hidden="true" className="absolute left-0 top-0">
                 {fila.icono}
               </span>
               {fila.titulo}
             </dt>
-            <dd className="text-slate-600 mt-0.5">{fila.valor}</dd>
+            <dd className="text-piedra-600 mt-0.5">{fila.valor}</dd>
           </div>
         ))}
       </dl>

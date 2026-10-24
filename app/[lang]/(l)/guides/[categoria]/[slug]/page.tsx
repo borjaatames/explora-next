@@ -352,7 +352,7 @@ export default async function GuiaPage({ params }: Props) {
             )
           )}
           {faq.length > 0 && (
-            <div className="mt-12 pt-8 border-t border-slate-200">
+            <div className="mt-12 pt-8 border-t border-piedra-200">
               <FaqActividad idioma={lang} preguntas={faq} />
             </div>
           )}
@@ -367,9 +367,9 @@ export default async function GuiaPage({ params }: Props) {
       />
 
       {relacionadas.length > 0 && (
-        <section className="bg-slate-50 border-t border-slate-200">
+        <section className="bg-piedra-50 border-t border-piedra-200">
           <div className="max-w-5xl mx-auto px-4 py-12 md:py-16">
-            <h2 className="font-playfair text-2xl md:text-3xl font-bold text-slate-900 mb-6">
+            <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
               {dict.guias.relacionadas}
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -377,12 +377,12 @@ export default async function GuiaPage({ params }: Props) {
                 <Link
                   key={rel.url}
                   href={rel.url}
-                  className="group block bg-white border border-slate-200 rounded-lg p-5 hover:border-sky-400 hover:shadow-md transition-all"
+                  className="group block bg-white border border-piedra-200 rounded-lg p-5 hover:border-anil-400 hover:shadow-md transition-all"
                 >
-                  <h3 className="font-playfair text-lg font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
+                  <h3 className="font-fraunces text-lg font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors">
                     {rel.titulo}
                   </h3>
-                  <p className="text-sm text-slate-600 leading-relaxed line-clamp-3">
+                  <p className="text-sm text-piedra-600 leading-relaxed line-clamp-3">
                     {rel.descripcion}
                   </p>
                 </Link>
@@ -395,7 +395,7 @@ export default async function GuiaPage({ params }: Props) {
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <Link
           href={urlIndiceGuias(lang)}
-          className="text-sky-600 hover:text-sky-700 font-semibold"
+          className="text-anil-600 hover:text-anil-700 font-semibold"
         >
           ← {dict.guias.volverAGuias}
         </Link>

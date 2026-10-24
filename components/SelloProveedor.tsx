@@ -44,7 +44,7 @@ function SelloPagoSeguro({
     idioma === "es" ? "Pago seguro" : idioma === "de" ? "Sichere Zahlung" : "Secure payment";
   return (
     <div
-      className={`inline-flex items-center gap-1.5 text-xs font-medium text-slate-600 ${
+      className={`inline-flex items-center gap-1.5 text-xs font-medium text-piedra-600 ${
         className ?? ""
       }`}
     >
@@ -58,7 +58,7 @@ function SelloPagoSeguro({
         strokeLinecap="round"
         strokeLinejoin="round"
         aria-hidden="true"
-        className="text-sky-600"
+        className="text-anil-600"
       >
         <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
         <path d="M7 11V7a5 5 0 0 1 10 0v4" />
@@ -87,7 +87,7 @@ export default function SelloProveedor({
 
   return (
     <div className={`inline-flex items-center gap-2 ${className ?? ""}`}>
-      <span className="text-xs text-slate-500">{texto}</span>
+      <span className="text-xs text-piedra-500">{texto}</span>
       <Image
         src={logo.src}
         alt={nombre}

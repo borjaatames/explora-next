@@ -41,30 +41,30 @@ export default function FaqActividad({ idioma, preguntas }: Props) {
     <section aria-labelledby="faq-titulo">
       <h2
         id="faq-titulo"
-        className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-4"
+        className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-4"
       >
         {t.titulo}
       </h2>
-      <div className="border-t border-slate-200">
+      <div className="border-t border-piedra-200">
         {preguntas.map((p) => (
           <details
             key={p.pregunta}
-            className="group border-b border-slate-200 py-4"
+            className="group border-b border-piedra-200 py-4"
           >
             <summary
               className="
                 flex items-start justify-between gap-4 cursor-pointer
                 list-none [&::-webkit-details-marker]:hidden
-                font-semibold text-slate-900
-                hover:text-sky-700 transition-colors
-                focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2 rounded
+                font-semibold text-piedra-900
+                hover:text-anil-700 transition-colors
+                focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded
               "
             >
               <span className="leading-snug">{p.pregunta}</span>
               <span
                 aria-hidden="true"
                 className="
-                  flex-none mt-1 text-slate-400
+                  flex-none mt-1 text-piedra-400
                   transition-transform duration-200
                   group-open:rotate-45
                 "
@@ -84,7 +84,7 @@ export default function FaqActividad({ idioma, preguntas }: Props) {
                 </svg>
               </span>
             </summary>
-            <div className="mt-3 text-sm text-slate-700 leading-relaxed">
+            <div className="mt-3 text-sm text-piedra-700 leading-relaxed">
               {p.respuesta}
             </div>
           </details>

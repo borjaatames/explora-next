@@ -103,7 +103,7 @@ export default function LanguageSwitcher({ idioma }: Props) {
         }}
         onPointerEnter={precargar}
         onFocus={precargar}
-        className="flex items-center gap-1 text-slate-900 hover:text-sky-700 font-semibold transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+        className="flex items-center gap-1 text-piedra-900 hover:text-anil-700 font-semibold transition-colors px-2 py-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
         aria-haspopup="listbox"
         aria-expanded={abierto}
         aria-label={ARIA_LABEL_CAMBIAR_IDIOMA[idioma]}
@@ -125,7 +125,7 @@ export default function LanguageSwitcher({ idioma }: Props) {
       {abierto && (
         <ul
           role="listbox"
-          className="absolute right-0 mt-2 w-36 bg-white border border-slate-200 rounded-lg shadow-md py-1 z-50"
+          className="absolute right-0 mt-2 w-36 bg-white border border-piedra-200 rounded-lg shadow-md py-1 z-50"
         >
           {IDIOMAS_ACTIVOS.map((lang) => {
             const etiqueta = IDIOMA_LABELS[lang];
@@ -152,8 +152,8 @@ export default function LanguageSwitcher({ idioma }: Props) {
                   }}
                   className={`block px-3 py-2 text-sm transition-colors ${
                     seleccionado
-                      ? "bg-amber-50 text-slate-900 font-semibold"
-                      : "text-slate-700 hover:bg-slate-50"
+                      ? "bg-azafran-50 text-piedra-900 font-semibold"
+                      : "text-piedra-700 hover:bg-piedra-50"
                   }`}
                 >
                   {etiqueta.nombre}

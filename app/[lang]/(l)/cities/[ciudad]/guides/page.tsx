@@ -156,9 +156,9 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="bg-sky-500 text-white py-12 md:py-16">
+      <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-sky-100 mb-4">
+          <nav aria-label="Breadcrumb" className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>
@@ -174,10 +174,10 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
             <span className="text-white">{strings.guias}</span>
           </nav>
 
-          <h1 className="font-playfair text-3xl md:text-5xl font-bold mb-3 leading-tight">
+          <h1 className="font-fraunces text-3xl md:text-5xl font-bold mb-3 leading-tight">
             {strings.titulo}
           </h1>
-          <p className="text-lg md:text-xl text-sky-50">{strings.descripcion}</p>
+          <p className="text-lg md:text-xl text-anil-50">{strings.descripcion}</p>
         </div>
       </header>
 
@@ -187,18 +187,18 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
             <Link
               key={guia.url}
               href={guia.url}
-              className="group block border border-slate-200 rounded-lg p-6 hover:border-sky-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+              className="group block border border-piedra-200 rounded-lg p-6 hover:border-anil-400 hover:shadow-md transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
             >
-              <span className="inline-block bg-sky-100 text-sky-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
+              <span className="inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
                 {ciudad.nombre}
               </span>
-              <h2 className="font-playfair text-xl md:text-2xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">
+              <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors">
                 {guia.titulo}
               </h2>
-              <p className="text-slate-600 leading-relaxed mb-4">
+              <p className="text-piedra-600 leading-relaxed mb-4">
                 {guia.descripcion}
               </p>
-              <div className="flex items-center justify-between text-xs text-slate-500">
+              <div className="flex items-center justify-between text-xs text-piedra-500">
                 <span>{formatearFecha(guia.fecha, lang)}</span>
                 <span>
                   {guia.tiempoLectura} {dict.guias.minutosLectura}
@@ -213,7 +213,7 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
         <div className="max-w-3xl mx-auto px-4 py-12 text-center">
           <Link
             href={urlActividadesDeCiudad(lang, params.ciudad)}
-            className="text-sky-600 hover:text-sky-700 font-semibold"
+            className="text-anil-600 hover:text-anil-700 font-semibold"
           >
             {strings.volver}
           </Link>

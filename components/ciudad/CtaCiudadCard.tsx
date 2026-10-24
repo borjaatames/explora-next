@@ -35,28 +35,28 @@ export default function CtaCiudadCard({
   let gradientClass: string;
   let descripcionClass: string;
   let solidBgClass: string;
-  // Texto oscuro sobre ámbar: el blanco sobre amber-500 no pasa WCAG AA.
+  // Texto oscuro sobre ámbar: el blanco sobre azafran-500 no pasa WCAG AA.
   let solidTextClass = "text-white";
   let solidDescripcionClass: string;
 
   if (acento === "amber") {
-    ringClass = "focus-visible:ring-amber-500";
-    gradientClass = "bg-gradient-to-t from-amber-900/90 via-amber-700/55 to-transparent";
-    descripcionClass = "text-amber-50";
-    solidBgClass = "bg-amber-500 hover:bg-amber-600";
-    solidTextClass = "text-slate-900";
-    solidDescripcionClass = "text-slate-800";
+    ringClass = "focus-visible:ring-azafran-500";
+    gradientClass = "bg-gradient-to-t from-azafran-900/90 via-azafran-700/55 to-transparent";
+    descripcionClass = "text-azafran-50";
+    solidBgClass = "bg-azafran-500 hover:bg-azafran-600";
+    solidTextClass = "text-piedra-900";
+    solidDescripcionClass = "text-piedra-800";
   } else if (acento === "slate") {
-    ringClass = "focus-visible:ring-slate-500";
-    gradientClass = "bg-gradient-to-t from-slate-900/90 via-slate-700/55 to-transparent";
-    descripcionClass = "text-slate-200";
-    solidBgClass = "bg-slate-800 hover:bg-slate-900";
+    ringClass = "focus-visible:ring-piedra-500";
+    gradientClass = "bg-gradient-to-t from-piedra-900/90 via-piedra-700/55 to-transparent";
+    descripcionClass = "text-piedra-200";
+    solidBgClass = "bg-piedra-800 hover:bg-piedra-900";
     solidDescripcionClass = descripcionClass;
   } else {
-    ringClass = "focus-visible:ring-sky-500";
-    gradientClass = "bg-gradient-to-t from-sky-900/90 via-sky-700/55 to-transparent";
-    descripcionClass = "text-sky-100";
-    solidBgClass = "bg-sky-500 hover:bg-sky-600";
+    ringClass = "focus-visible:ring-anil-500";
+    gradientClass = "bg-gradient-to-t from-anil-900/90 via-anil-700/55 to-transparent";
+    descripcionClass = "text-anil-100";
+    solidBgClass = "bg-anil-500 hover:bg-anil-600";
     solidDescripcionClass = descripcionClass;
   }
 
@@ -65,7 +65,7 @@ export default function CtaCiudadCard({
       <Link
         href={href}
       prefetch={false}
-        className={"group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + ringClass}
+        className={"group relative block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl border border-piedra-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + ringClass}
       >
         <Image
           src={imagen}
@@ -76,7 +76,7 @@ export default function CtaCiudadCard({
         />
         <div className={"absolute inset-0 " + gradientClass} aria-hidden="true" />
         <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-7 text-white">
-          <h2 className="font-playfair text-xl md:text-2xl font-bold mb-2 leading-tight">
+          <h2 className="font-fraunces text-xl md:text-2xl font-bold mb-2 leading-tight">
             {titulo}
           </h2>
           <p className={descripcionClass + " text-sm md:text-base mb-3 max-w-md"}>
@@ -97,7 +97,7 @@ export default function CtaCiudadCard({
       className={"group block aspect-[4/3] md:aspect-[5/3] overflow-hidden rounded-xl transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 " + solidBgClass + " " + ringClass}
     >
       <div className={"flex flex-col justify-end h-full p-6 md:p-7 " + solidTextClass}>
-        <h2 className="font-playfair text-xl md:text-2xl font-bold mb-2 leading-tight">
+        <h2 className="font-fraunces text-xl md:text-2xl font-bold mb-2 leading-tight">
           {titulo}
         </h2>
         <p className={solidDescripcionClass + " text-sm md:text-base mb-3 max-w-md"}>

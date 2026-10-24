@@ -71,7 +71,7 @@ function IconoDato({ tipo }: { tipo: Icono }) {
       strokeWidth={1.8}
       strokeLinecap="round"
       strokeLinejoin="round"
-      className="w-5 h-5 flex-none text-sky-600"
+      className="w-5 h-5 flex-none text-anil-600"
     >
       <path d={TRAZOS[tipo]} />
     </svg>
@@ -136,7 +136,7 @@ export default function DatosClave({
   return (
     <ul
       aria-label={t.aria}
-      className="md:hidden mt-4 grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm text-slate-700"
+      className="md:hidden mt-4 grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm text-piedra-700"
     >
       {datos.map((d) => (
         <li key={d.texto} className="flex items-start gap-2.5">
