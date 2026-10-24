@@ -244,6 +244,21 @@ export default function CookiesPage({
               ihren eigenen Domains und übernimmt hierfür keine
               Verantwortung.
             </p>
+            <h3>Eingebettete Buchungskalender</h3>
+            <p>
+              Auf einigen Aktivitätsseiten wird der Buchungskalender des
+              Anbieters (Bókun oder GetYourGuide) direkt auf unserer Seite
+              angezeigt. Dieser Kalender wird vom Anbieter über seine eigene
+              Domain bereitgestellt, kann eigene Cookies verwenden, um die
+              Verfügbarkeit anzuzeigen, die Buchung abzuschließen und sie
+              ExploraSpain zuzuordnen, und wird geladen, weil er für die
+              Buchung der gewählten Aktivität nötig ist. Die Richtlinien
+              findest du auf{" "}
+              <a href="https://www.bokun.io/privacy-policy" target="_blank" rel="noopener noreferrer">bokun.io</a>{" "}
+              und{" "}
+              <a href="https://www.getyourguide.com/c/privacy-policy/" target="_blank" rel="noopener noreferrer">getyourguide.com</a>
+              ; du kannst diese Cookies in deinem Browser blockieren.
+            </p>
 
             <h2>5. Wie du Cookies verwaltest</h2>
             <p>
@@ -486,6 +501,19 @@ export default function CookiesPage({
             apply their own privacy and cookie policies. The owner of this
             site does not control or take responsibility for how these
             platforms use cookies on their own domains.
+          </p>
+          <h3>Embedded booking calendars</h3>
+          <p>
+            Some activity pages show the provider&apos;s booking calendar
+            (Bókun or GetYourGuide) inside our page. That calendar is served
+            by the provider from its own domain, may use its own cookies to
+            show availability, complete the booking and attribute it to
+            ExploraSpain, and is loaded because it is needed to book the
+            activity you chose. See their policies at{" "}
+            <a href="https://www.bokun.io/privacy-policy" target="_blank" rel="noopener noreferrer">bokun.io</a>{" "}
+            and{" "}
+            <a href="https://www.getyourguide.com/c/privacy-policy/" target="_blank" rel="noopener noreferrer">getyourguide.com</a>
+            ; you can block these cookies in your browser settings.
           </p>
 
           <h2>5. How to manage cookies</h2>

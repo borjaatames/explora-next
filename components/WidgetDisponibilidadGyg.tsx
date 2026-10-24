@@ -2,7 +2,6 @@
 
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import type { Idioma } from "@/lib/i18n/types";
-import { COOKIE_CONSENT_EVENT, leerConsentimiento } from "@/lib/cookies";
 import {
   ANCLA_WIDGET_GYG,
   CAMPANA_WIDGET_GYG,
@@ -14,11 +13,12 @@ import {
  * `lib/gyg-widget.ts`). El usuario elige fecha, personas y horario aquí y
  * solo sale a GYG para pagar.
  *
- * - Solo con cookies aceptadas: el script de GYG deja cookies de afiliado.
- *   Sin consentimiento se pinta `fallback` (el bloque de reserva de siempre).
+ * - Se carga siempre, sin esperar al banner de cookies: por decisión de
+ *   producto (24 oct 2026) se trata como el widget de Bókun, una cookie
+ *   funcional necesaria para reservar.
  * - Se monta una sola instancia por ficha: la de escritorio vive en el
  *   aside y la de móvil en la columna principal; cada una se activa solo
- *   en su tamaño de pantalla (`soloEn`).
+ *   en su tamaño de pantalla (`soloEn`); en el otro se pinta `fallback`.
  * - El script (~60 KB) se inyecta cuando el bloque está a MARGEN_CARGA de
  *   entrar en pantalla, como el widget de Bókun. Si ya estaba cargado
  *   (navegación cliente entre fichas) se vuelve a insertar para que
@@ -63,7 +63,7 @@ type Props = {
   /** URL de reserva normalizada (enlace de respaldo bajo el widget). */
   urlReserva: string;
   soloEn: "movil" | "escritorio";
-  /** Lo que se pinta sin consentimiento o fuera de su tamaño de pantalla. */
+  /** Lo que se pinta fuera de su tamaño de pantalla (y antes de hidratar). */
   fallback?: ReactNode;
 };
 
@@ -99,15 +99,11 @@ export default function WidgetDisponibilidadGyg({
     const mq = window.matchMedia(MQ_ESCRITORIO);
     const evaluar = () => {
       const tamanoOk = soloEn === "escritorio" ? mq.matches : !mq.matches;
-      setActivo(tamanoOk && leerConsentimiento() === "granted");
+      setActivo(tamanoOk);
     };
     evaluar();
     mq.addEventListener("change", evaluar);
-    window.addEventListener(COOKIE_CONSENT_EVENT, evaluar);
-    return () => {
-      mq.removeEventListener("change", evaluar);
-      window.removeEventListener(COOKIE_CONSENT_EVENT, evaluar);
-    };
+    return () => mq.removeEventListener("change", evaluar);
   }, [soloEn]);
 
   useEffect(() => {

@@ -141,6 +141,20 @@ export default function CookiesPage() {
             de este sitio no controla ni se hace responsable del uso que dichas
             plataformas hagan de las cookies en sus propios dominios.
           </p>
+          <h3>Calendarios de reserva integrados</h3>
+          <p>
+            En algunas fichas de actividad se muestra el calendario de reserva
+            del proveedor (Bókun o GetYourGuide) dentro de nuestra página. Ese
+            calendario lo sirve el proveedor desde su dominio, puede usar sus
+            propias cookies para mostrar la disponibilidad, completar la
+            reserva y atribuirla a ExploraSpain, y se carga porque es
+            necesario para reservar la actividad que has elegido. Puedes
+            consultar sus políticas en{" "}
+            <a href="https://www.bokun.io/privacy-policy" target="_blank" rel="noopener noreferrer">bokun.io</a>{" "}
+            y{" "}
+            <a href="https://www.getyourguide.com/c/privacy-policy/" target="_blank" rel="noopener noreferrer">getyourguide.com</a>
+            , y bloquear sus cookies desde la configuración de tu navegador.
+          </p>
 
           <h2>5. Cómo gestionar las cookies</h2>
           <p>

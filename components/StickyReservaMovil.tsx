@@ -40,7 +40,7 @@ type Props = {
   aviso?: string;
   /**
    * Id del widget de disponibilidad GYG de la ficha. Si está en la página
-   * (prueba del widget con cookies aceptadas), el CTA baja hasta él en vez
+   * (prueba del widget), el CTA baja hasta él en vez
    * de abrir el modal.
    */
   anclaWidget?: string;
