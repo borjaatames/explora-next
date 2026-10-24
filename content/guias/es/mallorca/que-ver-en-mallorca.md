@@ -24,6 +24,7 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'Con **dos o tres días** ves lo esencial: **Palma** y su catedral (entrada desde 11 €), la **Serra de Tramuntana** (Valldemossa, Sóller y los miradores) y las cuevas y calas del este; una semana añade el norte. **Alquila coche** (30-60 € al día) y ve en mayo-junio o septiembre-octubre.'
 actividades:
+  - formentor-barco-alcudia-faro-playa
   - catedral-palma-mallorca-entrada
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-concierto-barca-desde-palma

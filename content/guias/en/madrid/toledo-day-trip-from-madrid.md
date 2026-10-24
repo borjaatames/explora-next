@@ -101,4 +101,4 @@ Toledo empties once the day-trippers leave. Stay in the **old town** (parador an
 
 ## Other day trips within an hour
 
-**El Escorial and the Valley of Cuelgamuros** (see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days)), **Segovia** (aqueduct, alcázar, roast suckling pig), **Aranjuez** (royal palace and gardens, best in spring), **Ávila** (intact walls, colder) and **Alcalá de Henares** (Cervantes' birthplace, fewer visitors). With only one day, choose Toledo.
+**El Escorial and the Valley of Cuelgamuros** (see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days)), **Segovia** (aqueduct, alcázar, roast suckling pig), **Aranjuez** (royal palace and gardens, best in spring), **Ávila** (intact walls, colder) and **Alcalá de Henares** (Cervantes' birthplace, fewer visitors). With only one day, choose Toledo. Still torn between Toledo and Segovia? [Toledo or Segovia?](/en/guides/madrid/toledo-or-segovia-from-madrid) compares the two trips side by side.

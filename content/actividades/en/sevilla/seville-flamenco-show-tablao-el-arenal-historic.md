@@ -99,8 +99,8 @@ preguntasFrecuentes:
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
   respuesta: '**Tablao El Arenal (this):** 50 years of history, 17th-c. building next to Maestranza, dinner option, 4.9/5,
     from €45. RECOMMENDED if you value tradition + dinner + historic architecture. **Teatro Flamenco Sevilla:** Large central
-    theater, maximum volume (18,292 reviews), from €27. RECOMMENDED if you want most booked + affordable + central. **Casa
-    de la Memoria:** 15th-c. patio + 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum
+    theater, maximum volume (18,292 reviews), from €25. RECOMMENDED if you want most booked + affordable + central. **Casa
+    de la Memoria:** 16th-c. patio + 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum
     intimacy. **Museo del Baile Flamenco:** 18th-c. Ecija patio + Cristina Hoyos, 6,456 reviews 4.8/5, from €32. RECOMMENDED
     if you value iconic artistic quality. **Teatro Flamenco Triana:** Theater in gypsy cradle neighborhood, 4,363 reviews
     4.7/5, from €25. RECOMMENDED if you want gypsy neighborhood atmosphere.'
@@ -141,7 +141,7 @@ opinionEditorial: 'The **flamenco tablao with most history and prestige in Sevil
 
 
   **Price comparison:** from €45 it''s **the most expensive** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco Triana
-  €25, Casa de la Memoria €26, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32). The €16-23 premium over other
+  €25, Casa de la Memoria €26, Teatro Flamenco Sevilla €25, Museo del Baile Flamenco €32). The €16-23 premium over other
   options buys: (1) 50 years of tradition + professional reputation, (2) 17th-c. restored historic building, (3) **REAL dinner
   option** — the only one of the 5 majors with full dinner option (tapas or à la carte menu).
 
@@ -150,7 +150,7 @@ opinionEditorial: 'The **flamenco tablao with most history and prestige in Sevil
   tablao itself has decades with thousands of reviews on TripAdvisor. The 4.9/5 rating over the 22 verified + historical reputation
   back the consistent quality. **(2)** The layout is **RESTAURANT-style with tables** — more intimate and relaxed than tiered
   theater, but less intimate than Casa de la Memoria (2 rows in patio). **(3)** If you ONLY value the show without dinner,
-  the other 4 majors are more affordable (Casa de la Memoria €26, Teatro Flamenco Sevilla €27). If you want tradition + dinner
+  the other 4 majors are more affordable (Casa de la Memoria €26, Teatro Flamenco Sevilla €25). If you want tradition + dinner
   + historic architecture + iconic location (next to Maestranza), Tablao El Arenal is worth the price.
 
 

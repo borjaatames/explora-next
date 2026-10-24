@@ -24,7 +24,6 @@ reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   - crucero-calas-ibiza-paddle-surf-barra-libre
-  - esnorquel-paddle-surf-cueva-marina-ibiza
   - kayak-cuevas-cala-codolar-esnorquel
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
@@ -40,7 +39,6 @@ imagen_alt: "Cala Conta con su islote en Ibiza"
 | --- | --- | --- |
 | [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 60 € |
 | [Crucero por calas con paddle surf, comida y bebidas](/ciudades/ibiza/actividades/crucero-calas-ibiza-paddle-surf-barra-libre) | 4,6★ (3.570) | 52 € |
-| [Esnórquel, paddle surf y cueva marina en barco](/ciudades/ibiza/actividades/esnorquel-paddle-surf-cueva-marina-ibiza) | 4,7★ (1.435) | 60 € |
 | [Tour en kayak por cuevas marinas con esnórquel desde Cala Codolar](/ciudades/ibiza/actividades/kayak-cuevas-cala-codolar-esnorquel) | 4,8★ (333) | 50 € |
 | [Crucero a Es Vedrà con bebidas y aperitivos](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,6★ (375) | 25 € |
 

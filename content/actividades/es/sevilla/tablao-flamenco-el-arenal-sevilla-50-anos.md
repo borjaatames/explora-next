@@ -101,8 +101,8 @@ preguntasFrecuentes:
 - pregunta: ¿Cuál es la diferencia con los otros 4 grandes flamencos de Sevilla?
   respuesta: '**Tablao El Arenal (este):** 50 años de historia, edificio s.XVII junto Maestranza, opción cena, 4,9/5, desde
     48 €. RECOMENDADO si valoras tradición + cena + arquitectura histórica. **Teatro Flamenco Sevilla:** Teatro grande céntrico,
-    máximo volumen (18.292 reseñas), desde 27 €. RECOMENDADO si quieres lo más reservado + asequible + céntrico. **Casa de
-    la Memoria:** Patio s.XV + 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras intimidad
+    máximo volumen (18.292 reseñas), desde 25 €. RECOMENDADO si quieres lo más reservado + asequible + céntrico. **Casa de
+    la Memoria:** Patio s. XVI + 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras intimidad
     máxima. **Museo del Baile Flamenco:** Patio Ecija s.XVIII + Cristina Hoyos, 6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO
     si valoras calidad artística icónica. **Teatro Flamenco Triana:** Teatro en barrio cuna gitano, 4.363 reseñas 4,7/5, desde
     25 €. RECOMENDADO si quieres ambiente barrio gitano.'
@@ -144,7 +144,7 @@ opinionEditorial: 'El **tablao flamenco con más historia y prestigio de Sevilla
 
 
   **Comparación de precios:** desde 45 € es **el más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco Triana
-  25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €). El plus de 16-23 € sobre
+  25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 25 €, Museo del Baile Flamenco 32 €). El plus de 16-23 € sobre
   las otras opciones compra: (1) 50 años de tradición + reputación profesional, (2) edificio histórico s. XVII restaurado,
   (3) **opción cena REAL** — el único de los 5 grandes con dinner option completa (tapas o menú a la carta).
 
@@ -153,7 +153,7 @@ opinionEditorial: 'El **tablao flamenco con más historia y prestigio de Sevilla
   — el tablao en sí lleva décadas con miles de reseñas en TripAdvisor. La puntuación 4,9/5 sobre las 22 verificadas + la reputación
   histórica respaldan la calidad consistente. **(2)** El layout es de **RESTAURANTE con mesas** — más íntimo y relajado que
   un teatro escalonado, pero menos íntimo que Casa de la Memoria (que son 2 filas en patio). **(3)** Si valoras ÚNICAMENTE
-  el show sin cena, los otros 4 grandes son más asequibles (Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €). Si quieres
+  el show sin cena, los otros 4 grandes son más asequibles (Casa de la Memoria 26 €, Teatro Flamenco Sevilla 25 €). Si quieres
   tradición + cena + arquitectura histórica + ubicación icónica (junto Maestranza), Tablao El Arenal vale el precio.
 
 

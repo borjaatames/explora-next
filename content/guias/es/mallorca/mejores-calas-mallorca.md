@@ -24,6 +24,7 @@ slugs:
   de: schoenste-buchten-mallorca
 reservasArriba: true
 actividades:
+  - formentor-barco-alcudia-faro-playa
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - calo-des-moro-barco-esnorquel
@@ -64,7 +65,7 @@ No todas valen para lo mismo: unas son largas y familiares, otras pequeñas y fo
 ## Lo práctico: aparcar, llegar y qué llevar
 
 - **Aparcamientos:** en Es Trenc (Ses Covetes y Sa Ràpita), Cala Mondragó y Sa Calobra hay aparcamientos de pago que en julio y agosto se llenan a media mañana. Aparcar en el arcén o en caminos privados se multa.
-- **Formentor (normas 2026):** del 15 de mayo al 18 de octubre, de 10:00 a 22:00, los coches particulares solo pueden llegar al aparcamiento de la playa de Formentor mientras haya plazas; cuando se llena, una barrera corta la carretera. El tramo hasta el faro queda reservado a vehículos autorizados, con multa para el resto. La alternativa es la línea 334 del TIB desde Alcúdia y Port de Pollença, o el barco desde Port de Pollença.
+- **Formentor (normas 2026):** del 15 de mayo al 18 de octubre, de 10:00 a 22:00, los coches particulares solo pueden llegar al aparcamiento de la playa de Formentor mientras haya plazas; cuando se llena, una barrera corta la carretera. El tramo hasta el faro queda reservado a vehículos autorizados, con multa para el resto. La alternativa es la línea 334 del TIB desde Alcúdia y Port de Pollença, o el barco desde Port de Pollença. Otra opción es la [excursión en lancha desde Alcúdia](/ciudades/mallorca/actividades/formentor-barco-alcudia-faro-playa), que llega a la playa y pasa bajo el faro.
 - **Sa Calobra sin curvas:** el barco desde Port de Sóller (desde 35 € ida y vuelta, 1 hora de travesía bajo los acantilados) evita los 12 km de la carretera más retorcida de la isla.
 - **Caló des Moro y Cala Varques:** las calles que llevan a Caló des Moro están reservadas a vehículos de residentes; se aparca a la entrada de Cala Llombards y se camina 1,5 km (20-25 minutos). A Cala Varques se llega por un camino de tierra de 15-20 minutos. En Caló des Moro la bajada final es por rocas. No son calas para carritos ni para movilidad reducida.
 - **Servicios y precios:** en las playas con servicios, dos hamacas y sombrilla cuestan 18-25 € al día; en las vírgenes no hay ni agua: lleva 2 litros por persona y una sombrilla.

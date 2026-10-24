@@ -27,15 +27,24 @@ actividades:
   - ferry-santa-pola-tabarca
   - barco-alicante-isla-tabarca-ida-vuelta
   - snorkel-tabarca-reserva-marina
+opciones:
+  - ficha: ferry-santa-pola-tabarca
+    etiqueta: La más barata
+  - ficha: barco-alicante-isla-tabarca-ida-vuelta
+    etiqueta: Desde Alicante
+  - ficha: snorkel-tabarca-reserva-marina
+    etiqueta: Con snorkel
 ---
 
 **Tabarca es la excursión que hace distinta a Alicante.** La isla habitada más pequeña de España es además **reserva marina** (la primera del país), con aguas cristalinas para snorkel, un pueblo amurallado del siglo XVIII y arroces frente al mar. Esta guía te explica cómo llegar, qué hacer y cómo organizar el día para aprovecharla.
 
-## Cómo ir a Tabarca
+## ¿Qué barco elegir?
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
+| [Ferry de ida y vuelta desde Santa Pola](/ciudades/alicante/actividades/ferry-santa-pola-tabarca) | 4,6★ (1.822) | 9 € |
+| [Snorkel guiado en la reserva marina](/ciudades/alicante/actividades/snorkel-tabarca-reserva-marina) | 4,6★ (97) | 50 € |
 
 La clave: es un plan de **medio día o día completo**, y depende del barco. Elige bien el puerto de salida y mira siempre el estado del mar.
 

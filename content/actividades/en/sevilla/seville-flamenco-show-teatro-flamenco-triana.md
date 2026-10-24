@@ -90,8 +90,8 @@ preguntasFrecuentes:
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
   respuesta: '**Teatro Flamenco Triana (this):** Theater in the gypsy cradle neighborhood of flamenco, 4,363 reviews 4.7/5,
     from €25. RECOMMENDED if you want the historic flamenco neighborhood atmosphere (Calle Betis walk included). **Teatro
-    Flamenco Sevilla:** Large theater in Barrio Santa Cruz, maximum volume (18,292 reviews), from €27. RECOMMENDED if you
-    want most booked + central + affordable. **Casa de la Memoria:** 15th-c. patio in historic center, MAXIMUM INTIMACY (2
+    Flamenco Sevilla:** Large theater on Calle Cuna (historic centre), maximum volume (18,292 reviews), from €25. RECOMMENDED if you
+    want most booked + central + affordable. **Casa de la Memoria:** 16th-c. patio in historic center, MAXIMUM INTIMACY (2
     rows), 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum intimacy. **Museo del Baile Flamenco:** 18th-c.
     Ecija patio + Cristina Hoyos, 6,456 reviews 4.8/5, from €32. RECOMMENDED if you''re interested in iconic artistic quality.
     **Tablao El Arenal:** 17th-c. building next to Maestranza, 50 years, dinner option, from €48. RECOMMENDED if you want
@@ -133,7 +133,7 @@ opinionEditorial: '**Flamenco in the cradle neighborhood of Spanish flamenco** �
 
 
   **Price comparison:** from €25 it has **the lowest starting price** of Seville''s 5 major flamenco venues (vs. Casa de la
-  Memoria €26, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32, Tablao El Arenal €48). On top of that you get the
+  Memoria €26, Teatro Flamenco Sevilla €25, Museo del Baile Flamenco €32, Tablao El Arenal €48). On top of that you get the
   Triana experience, comfortable seats in a beautiful theater and an easy combination with a Calle Betis walk.
 
 

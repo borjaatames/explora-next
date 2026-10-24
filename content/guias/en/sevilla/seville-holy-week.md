@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
-imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Callejón del Agua in the Santa Cruz quarter"
+imagen_portada: "/images/guias/semana-santa-sevilla.jpg"
+imagen_alt: "The canopied float of the Virgen de la Victoria (Cigarreras) in a Seville street during Holy Week"
 tiempo_lectura: 4
 keywords:
   - "seville holy week 2027"

@@ -37,11 +37,18 @@ faq:
   respuesta: 'La misa internacional de los domingos y festivos a las 9:00 y la de los sábados a las 20:00 son de entrada libre con aforo limitado, por la fachada del Nacimiento. Es una celebración religiosa, no una visita: no se puede recorrer el templo ni hacer fotos durante la misa.'
 - pregunta: ¿Qué pasa si llego tarde a mi hora?
   respuesta: 'La entrada solo vale para la hora elegida y, si llegas tarde, no te dejan pasar. Llega con margen: antes hay un control de seguridad.'
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: La más barata
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: Con torre
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Grupo reducido
 ---
 
 La Sagrada Familia vende sus entradas **solo online y con hora**, aproximadamente **con dos meses de antelación**, y en verano, Semana Santa y puentes las franjas buenas se van en cuanto salen. Si la web oficial dice «agotado», todavía hay opciones, y conviene probarlas en este orden.
 
-## Lo que puedes reservar ahora
+## ¿Qué entrada elegir?
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |

@@ -28,11 +28,18 @@ actividades:
   - catedral-santiago-museo-tour-guiado
   - catedral-museo-casco-antiguo-santiago
   - cubiertas-catedral-santiago-tour
+opciones:
+  - ficha: catedral-santiago-museo-tour-guiado
+    etiqueta: La más barata
+  - ficha: cubiertas-catedral-santiago-tour
+    etiqueta: Por las cubiertas
+  - ficha: santiago-portico-gloria-catedral-tour
+    etiqueta: Con casco histórico
 ---
 
 **La Catedral de Santiago es la meta del Camino y el corazón de la ciudad**, pero su visita confunde a mucha gente: ¿se paga?, ¿qué es el botafumeiro?, ¿se puede subir al tejado? La respuesta corta es que **entrar al templo es gratis**, pero hay experiencias de pago que merecen mucho la pena. Esta guía te aclara qué ver, qué reservar y cómo organizarte.
 
-## Visitas guiadas a la catedral
+## ¿Qué entrada elegir?
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |

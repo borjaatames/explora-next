@@ -1,6 +1,6 @@
 ---
 titulo: "Park Güell: qué entrada elegir (comparativa)"
-descripcion: "Park Güell: entrada básica (23 €) o con la Casa Museo Gaudí (30 €). Qué incluye cada una, horarios, cómo llegar y qué saber antes de reservar."
+descripcion: "Park Güell: entrada básica (21,50 €) o con la Casa Museo Gaudí (28 €). Qué incluye cada una, horarios, cómo llegar y qué saber antes de reservar."
 categoria: "barcelona"
 slug: "park-guell-que-entrada-elegir"
 fecha: "2026-09-20"
@@ -22,33 +22,40 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
-respuestaCorta: 'Si solo quieres ver la zona monumental (el dragón, la Sala Hipóstila y el banco ondulado), basta la **entrada básica desde 23 €**. Por 7 € más, la **entrada con la Casa Museo Gaudí** (30 €) suma la casa donde vivió el arquitecto. Ninguna incluye guía y **ninguna se puede cancelar**: reserva solo cuando tengas la hora clara.'
+respuestaCorta: 'Si solo quieres ver la zona monumental (el dragón, la Sala Hipóstila y el banco ondulado), basta la **entrada básica desde 21,50 €**. Por 6,50 € más, la **entrada con la Casa Museo Gaudí** (28 €) suma la casa donde vivió el arquitecto. Ninguna incluye guía y **ninguna se puede cancelar**: reserva solo cuando tengas la hora clara.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
   - sagrada-familia-park-guell-tour-guiado
+opciones:
+  - ficha: park-guell-entrada-zona-monumental
+    etiqueta: La más barata
+  - ficha: park-guell-entrada-museo-casa-gaudi
+    etiqueta: Con Casa Gaudí
+  - ficha: sagrada-familia-park-guell-tour-guiado
+    etiqueta: Con guía
 ---
 
 Park Güell tiene dos entradas reservables por separado: la entrada básica a la zona monumental y la entrada combinada con la Casa Museo Gaudí. Las dos son sin guía y con hora concertada. Si además quieres combinarlo con la Sagrada Família, hay más opciones pensadas para eso en nuestra [guía comparativa de la Sagrada Família](/guias/barcelona/sagrada-familia-que-entrada-elegir).
 
-## Las 2 opciones de Park Güell
+## ¿Qué entrada elegir?
 
 | Opción | Precio desde | Duración | Formato | Ideal para |
 |---|---|---|---|---|
-| [Entrada sin colas a la zona monumental](/ciudades/barcelona/actividades/park-guell-entrada-zona-monumental) | 23 € | 1,5-2 h | Visita libre, sin guía | Quien solo quiere la entrada más barata, a su ritmo |
-| [Entrada + Museo Casa Gaudí](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi) | 30 € | 2-3 h | Visita libre + museo | Quien quiere ver también la casa donde vivió Gaudí |
+| [Entrada sin colas a la zona monumental](/ciudades/barcelona/actividades/park-guell-entrada-zona-monumental) | 21,5 € | 1,5-2 h | Visita libre, sin guía | Quien solo quiere la entrada más barata, a su ritmo |
+| [Entrada + Museo Casa Gaudí](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi) | 28 € | 2-3 h | Visita libre + museo | Quien quiere ver también la casa donde vivió Gaudí |
 
 ## Cómo elegir en 30 segundos
 
-- **Presupuesto ajustado, sin necesidad de guía:** entrada sin colas a la zona monumental (23 €).
-- **Quieres ver también dónde vivió Gaudí:** entrada + Museo Casa Gaudí (30 €). Comprarla de inicio sale más barato que añadir el museo en el parque.
+- **Presupuesto ajustado, sin necesidad de guía:** entrada sin colas a la zona monumental (21,50 €).
+- **Quieres ver también dónde vivió Gaudí:** entrada + Museo Casa Gaudí (28 €). Comprarla de inicio sale más barato que añadir el museo en el parque.
 - **Vas con niños menores de 8 años:** la básica. El museo es pequeño y de contenido adulto, y se les hace largo.
 - **Quieres que te lo expliquen:** ninguna de las dos lleva guía. La opción guiada que tenemos es el tour de medio día que junta Park Güell y Sagrada Família (más abajo).
 
 ## Qué incluye cada entrada
 
-- **Entrada básica (23 €):** acceso a la zona monumental en tu franja y, si hay aforo, a la **Casa del Guarda**, el pabellón de la entrada. No incluye audioguía. Tiene un 4,4/5 con más de 81.000 opiniones.
-- **Entrada + Casa Museo Gaudí (30 €):** la misma zona monumental más la casa donde Gaudí vivió de 1906 a 1925, con muebles que diseñó para sí mismo, objetos personales y maquetas. Son dos plantas y unos **45 minutos** de visita; está en la parte alta del parque, a 10-15 minutos andando desde la entrada baja. El museo cierra una hora antes que el parque. **No incluye la Casa del Guarda**, que es otro edificio (el pabellón junto a la puerta principal). Tiene un 4,5/5 con 7.565 opiniones.
+- **Entrada básica (21,50 €):** acceso a la zona monumental en tu franja y, si hay aforo, a la **Casa del Guarda**, el pabellón de la entrada. No incluye audioguía. Tiene un 4,4/5 con más de 81.000 opiniones.
+- **Entrada + Casa Museo Gaudí (28 €):** la misma zona monumental más la casa donde Gaudí vivió de 1906 a 1925, con muebles que diseñó para sí mismo, objetos personales y maquetas. Son dos plantas y unos **45 minutos** de visita; está en la parte alta del parque, a 10-15 minutos andando desde la entrada baja. El museo cierra una hora antes que el parque. **No incluye la Casa del Guarda**, que es otro edificio (el pabellón junto a la puerta principal). Tiene un 4,5/5 con 7.565 opiniones.
 
 ## Lo que debes saber antes de ir
 

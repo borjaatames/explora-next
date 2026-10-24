@@ -20,7 +20,7 @@ slugs:
   es: flamenco-cueva-sacromonte-cual-elegir
   en: flamenco-cave-sacromonte-which-to-choose
   de: flamenco-hoehle-sacromonte-welche-waehlen
-respuestaCorta: 'All four Sacromonte caves offer about an hour of gypsy zambra for **€18–28**. Pick **Los Tarantos** (€28, since 1972, drink included) for a safe first time, **La Faraona** (€18, 25 seats) for the most intimate room, and **Los Amayas** (€23, no stage or microphones, drink included) for the most traditional format. All four have **free cancellation up to 24 hours** before.'
+respuestaCorta: 'All four Sacromonte caves offer about an hour of gypsy zambra for **€20–28**. Pick **Los Tarantos** (€28, since 1972, drink included) for a safe first time, **La Faraona** (€20, 25 seats) for the most intimate room, and **Los Amayas** (€25, no stage or microphones, drink included) for the most traditional format. All four have **free cancellation up to 24 hours** before.'
 reservasArriba: true
 actividades:
   - flamenco-cueva-zincale-sacromonte
@@ -29,15 +29,15 @@ actividades:
   - flamenco-cuevas-tarantos-sacromonte
 ---
 
-If you've searched "flamenco Sacromonte Granada" you'll have found four different caves offering, on paper, the same thing: gypsy zambra, about an hour of singing and dancing, inside a cave carved into the Sacromonte hillside. The prices are similar (between €18 and €28), the photos look alike and so do the descriptions on most travel search sites. The real difference is in the details, and this guide exists so you don't have to open all four listings and compare them yourself.
+If you've searched "flamenco Sacromonte Granada" you'll have found four different caves offering, on paper, the same thing: gypsy zambra, about an hour of singing and dancing, inside a cave carved into the Sacromonte hillside. The prices are similar (between €20 and €28), the photos look alike and so do the descriptions on most travel search sites. The real difference is in the details, and this guide exists so you don't have to open all four listings and compare them yourself.
 
 ## The 4 caves, compared
 
 | Cave | Price from | Duration | Atmosphere | Best for |
 |---|---|---|---|---|
 | [Cueva del Zincalé](/en/cities/granada/activities/flamenco-show-cueva-zincale-sacromonte) | €20 | 50 min | Run directly by the performing artists, artisanal feel | Wanting the closest thing to "watching the family who runs it perform" |
-| [Cueva Los Amayas](/en/cities/granada/activities/flamenco-show-cueva-los-amayas-sacromonte) | €23 | 1h | No stage, no PA system, 3 metres from the dancers, drink included | The purist who wants the most traditional format, no staging |
-| [Cueva La Faraona](/en/cities/granada/activities/flamenco-show-cueva-la-faraona-sacromonte) | €18 | 1h | The smallest (25 seats), a metre and a half from the artists | The lowest price in the group without giving up closeness |
+| [Cueva Los Amayas](/en/cities/granada/activities/flamenco-show-cueva-los-amayas-sacromonte) | €25 | 1h | No stage, no PA system, 3 metres from the dancers, drink included | The purist who wants the most traditional format, no staging |
+| [Cueva La Faraona](/en/cities/granada/activities/flamenco-show-cueva-la-faraona-sacromonte) | €20 | 1h | The smallest (25 seats), a metre and a half from the artists | The lowest price in the group without giving up closeness |
 | [Cuevas Los Tarantos](/en/cities/granada/activities/flamenco-show-cuevas-tarantos-sacromonte) | €28 | 1h | Running since 1972, drink included, larger cast, 2,093 reviews | First time seeing flamenco in a cave: the safest bet |
 
 All four offer **free cancellation up to 24 hours before** and none includes transport.

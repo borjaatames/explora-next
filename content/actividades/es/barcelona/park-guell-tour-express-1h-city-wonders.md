@@ -38,7 +38,7 @@ noIncluye:
 
 puntoEncuentro:
   texto: "Punto de encuentro en la entrada del Park Güell que confirma City Wonders en el email de reserva."
-  descripcionGuia: "Metro Vallcarca o Lesseps (línea 3) + 10-15 min andando, o bus 24/116. Llega 15 min antes. El operador es profesional y suele ser puntual — algo a valorar después de leer reseñas de otros tours con retrasos."
+  descripcionGuia: "Metro Vallcarca o Lesseps (línea 3) + 10-15 min andando, o bus 24 o V19. Llega 15 min antes. El operador es profesional y suele ser puntual — algo a valorar después de leer reseñas de otros tours con retrasos."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 17

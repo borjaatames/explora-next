@@ -22,6 +22,7 @@ slugs:
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
 actividades:
+  - formentor-barco-alcudia-faro-playa
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - calo-des-moro-barco-esnorquel

@@ -28,6 +28,13 @@ actividades:
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
+opciones:
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: Am günstigsten
+  - ficha: real-alcazar-sevilla-tour-guiado-skip-line
+    etiqueta: Mit Führung
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Mit Kathedrale
 ---
 
 Der Real Alcázar von Sevilla ist **der älteste noch genutzte Königspalast Europas**. Seine Ursprünge reichen bis ins 10. Jahrhundert zurück, und er ist bis heute offizielle Residenz der spanischen Königsfamilie, wenn sie die Stadt besucht. Doch abseits dieser Schlagzeile liegt das Besondere in etwas, das kaum ein anderes Monument bieten kann: **tausend Jahre historischer Schichten auf demselben Gelände**, von almohadischen Resten aus dem 12. Jahrhundert bis zu englischen Gärten aus dem 19. Jahrhundert, mit dem spektakulärsten erhaltenen Mudéjar-Palast Spaniens dazwischen.
@@ -89,6 +96,15 @@ Ehrliche Hinweise zum kostenlosen Zeitfenster:
 **Maximales Kontingent**: 750 Personen zur regulären Öffnungszeit. **Buche 1-2 Wochen im Voraus**, wenn du im Frühling oder Sommer reist.
 
 [actividad: real-alcazar-sevilla-entrada]
+
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Regulärer Eintritt (alcazarsevilla.org) | 15,50 € | Regulärer Besuch ohne Führung; Cuarto Real Alto 5,50 € extra | Wer auf eigene Faust geht und rechtzeitig online bucht |
+| [Eintritt mit Zeitfenster](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket) | 20 € | Eintritt in den Real Alcázar mit Zeitfenster, ohne Guide | Wer auf eigene Faust geht |
+| [Führung ohne Anstehen](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour) | 36 € | Offizieller Guide (105 Min.), Eintritt, Cuarto Real Alto und Gärten | Wer den historischen Kontext erklärt haben will |
+| [Kathedrale, Giralda und Alcázar](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour) | 53 € | Führung (2,5–3 Std.) mit bevorzugtem Einlass in Kathedrale und Alcázar; Giralda je nach Option | Wer die drei Monumente an einem Vormittag sehen will |
 
 ## Der Rundgang durch den Palast — was man sieht und warum es zählt
 
@@ -226,7 +242,7 @@ Der Alcázar diente als Drehort für **Game of Thrones** (die Wassergärten von 
 
 **Auf eigene Faust**: was die meisten tun. Funktioniert, wenn man vorher etwas liest und sich Zeit nimmt (mindestens 2,5 Stunden). Der Alcázar hat Informationstafeln, wenn auch nicht erschöpfend.
 
-**Geführte Tour mit offiziellem Guide**: sehr empfehlenswert, weil der historische Kontext den Besuch komplett verändert. Es gibt Touren ab 39 € (in manchen Fällen inklusive Eintritt + Kathedrale + Giralda).
+**Geführte Tour mit offiziellem Guide**: sehr empfehlenswert, weil der historische Kontext den Besuch komplett verändert. Es gibt Touren ab 36 € (in manchen Fällen inklusive Eintritt + Kathedrale + Giralda).
 
 > **⚠️ Hinweis:** Verwechsle sie nicht mit Free Tours. Free Tours betreten das Monument nicht, sie drehen nur Runden auf der Plaza del Triunfo davor.
 

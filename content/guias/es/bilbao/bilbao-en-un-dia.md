@@ -43,7 +43,7 @@ actividades:
 | [Guggenheim con guía y entrada (en español)](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-guiada-entrada) | 4,9★ (182) | 49 € |
 | [Tour de pintxos con vino](/ciudades/bilbao/actividades/tour-pintxos-bilbao-vino) | 4,9★ (1.041) | 95 € |
 | [Barco por la ría (1 h o 2 h)](/ciudades/bilbao/actividades/barco-ria-bilbao-portugalete) | 4,2★ (3.389) | 15 € |
-| [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 17 € |
+| [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 16,5 € |
 | [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
 
 ## Cuándo ir y cómo moverte

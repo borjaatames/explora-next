@@ -73,12 +73,12 @@ preguntasFrecuentes:
   - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
     respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la experiencia, con reembolso completo del precio de reserva. Pasado ese plazo no hay devolución."
 
-variantes: ["tour-tapas-viejo-madrid", "tour-tapas-vino-atardecer-azotea", "tour-bodegas-madrid-cata-vino"]
+variantes: ["tour-tapas-vino-atardecer-azotea", "tour-bodegas-madrid-cata-vino"]
 
 opinionEditorial: |
   Es la opción acertada si quieres una ruta de tapas nocturna sencilla y sin pretensiones, y especialmente si tu idioma es el alemán: es de las pocas de Madrid con guía en ese idioma, y su público en las reseñas es mayoritariamente germanoparlante. Tres bares tradicionales, 2,5 horas, anécdotas de la cultura del tapeo y una nota de 4,9. Como plan de noche para empezar a conocer Madrid, cumple.
 
-  Lo que conviene saber antes de reservar, y es lo más importante: el precio de 35 € engaña. Solo cubre el tour guiado. Al empezar, el guía recauda 30 € más de cada persona como fondo común para pagar la comida y la bebida, así que el coste real ronda los 65 € por cabeza. No es un sobrecoste oculto —el operador lo explica—, pero conviene saberlo y llevar el efectivo. Si te molesta ese sistema de bote o esperabas que todo estuviera incluido en el precio de reserva, te encajará mejor un tour con todo cerrado de antemano, como el [del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid). Y no es accesible en silla de ruedas.
+  Lo que conviene saber antes de reservar, y es lo más importante: el precio de 35 € engaña. Solo cubre el tour guiado. Al empezar, el guía recauda 30 € más de cada persona como fondo común para pagar la comida y la bebida, así que el coste real ronda los 65 € por cabeza. No es un sobrecoste oculto —el operador lo explica—, pero conviene saberlo y llevar el efectivo. Si te molesta ese sistema de bote o esperabas que todo estuviera incluido en el precio de reserva, te encajará mejor un tour con la comida y la bebida incluidas en el precio de reserva. Y no es accesible en silla de ruedas.
 
 atraccionesRelacionadas:
 - tapas-madrid
@@ -144,7 +144,7 @@ En la práctica, esto significa que el **coste real por persona ronda los 65 €
 
 ## A quién NO se lo recomiendo
 
-- Si esperabas que la comida y la bebida estuvieran incluidas en el precio de reserva. Aquí se pagan aparte con el fondo de 30 €; si quieres todo cerrado, mira el [tour del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid).
+- Si esperabas que la comida y la bebida estuvieran incluidas en el precio de reserva. Aquí se pagan aparte con el fondo de 30 €; si quieres todo cerrado, busca un tour con las consumiciones incluidas.
 - Si te incomoda el sistema de bote común gestionado por el guía.
 - Si necesitas accesibilidad en silla de ruedas. Es un recorrido nocturno a pie entre bares.
 - Si buscas una experiencia gastronómica más completa o con un final con vistas, como el [tour de tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea).

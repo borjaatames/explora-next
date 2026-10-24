@@ -27,6 +27,7 @@ import { obtenerListaCiudades } from "@/lib/ciudades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
+import OpcionesGuia, { type OpcionGuia } from "@/components/guia/OpcionesGuia";
 import RespuestaCorta from "@/components/guia/RespuestaCorta";
 import TarjetaReservaInline from "@/components/guia/TarjetaReservaInline";
 import CtaStickyGuia from "@/components/guia/CtaStickyGuia";
@@ -261,13 +262,19 @@ export default async function GuiaPage({ params }: Props) {
     enriquecerEnlacesFichas(htmlConAnclas, fichasCiudad, lang),
     fichasCiudad
   );
-  const reservasArriba = guia.reservasArriba
+  const opcionesGuia: OpcionGuia[] = (guia.opciones ?? []).flatMap((o) => {
+    const actividad = fichasCiudad.get(o.ficha);
+    return actividad ? [{ etiqueta: o.etiqueta, actividad }] : [];
+  });
+  // Con «Nuestras 3 opciones» no se repite el bloque de reservas genérico.
+  const reservasArriba = guia.reservasArriba && opcionesGuia.length === 0
     ? actividadesRecomendadas.slice(0, 4)
     : [];
   // Carrusel final: todas las fichas de la guía (`actividades:`), en su
   // orden, aunque alguna ya salga arriba. Nunca fichas ajenas a la guía.
   const actividadesCarrusel = actividadesRecomendadas;
   const actividadSticky =
+    opcionesGuia[0]?.actividad ??
     reservasArriba[0] ??
     fichasCiudad.get(slugsInline(trozos)[0] ?? "") ??
     actividadesRecomendadas[0];
@@ -313,6 +320,7 @@ export default async function GuiaPage({ params }: Props) {
       />
 
       <RespuestaCorta texto={guia.respuestaCorta} idioma={lang} />
+      <OpcionesGuia opciones={opcionesGuia} idioma={lang} />
       <ReservasGuia actividades={reservasArriba} idioma={lang} />
 
       <div

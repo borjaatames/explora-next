@@ -38,11 +38,18 @@ faq:
   respuesta: 'At 3,555 m there''s less oxygen: tiredness or a headache is normal. It''s not recommended for pregnant women, children under 3 or people with heart or breathing problems. Walk slowly and drink water.'
 imagen_portada: "/images/guias/subir-al-teide.jpg"
 imagen_alt: "Snow-capped Teide above Las Cañadas"
+opciones:
+  - ficha: teide-teleferico-traslado
+    etiqueta: With cable car
+  - ficha: atardecer-estrellas-teide-telescopio
+    etiqueta: At night
+  - ficha: teide-subida-cumbre-ruta-guiada
+    etiqueta: Summit hike
 ---
 
 **Teide is Spain's highest peak (3,715 m**, the figure measured by Spain's National Geographic Institute; you'll often see 3,718 m) and the heart of a World Heritage National Park. You can visit it by car, by cable car almost to the top, on foot with a booking or at night under the stars. Access rules below are as of October 2026.
 
-## Book the essentials
+## Which ticket should you choose?
 
 | Activity | Rating | From |
 | --- | --- | --- |

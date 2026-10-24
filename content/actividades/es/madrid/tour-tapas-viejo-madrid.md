@@ -117,7 +117,8 @@ galeria:
 ratingProveedor: 4.9
 numeroOpiniones: 113
 
-publicada: true
+publicada: false
+reemplazadaPor: ruta-tapas-nocturna-madrid
 destacada: false
 fecha: "2026-05-14"
 guiasRelacionadas:

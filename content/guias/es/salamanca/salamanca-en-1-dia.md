@@ -38,7 +38,7 @@ Salamanca es de las pocas ciudades históricas que **funciona en un día**: el c
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
-| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 19 € |
+| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 12 € |
 | [Entrada a las catedrales con audioguía](/ciudades/salamanca/actividades/catedrales-salamanca-entrada-audioguia) | 4,6★ (202) | 10 € |
 | [Tour de leyendas al anochecer](/ciudades/salamanca/actividades/salamanca-leyendas-al-anochecer) | 4,7★ (90) | 17 € |
 

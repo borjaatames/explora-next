@@ -8,7 +8,7 @@ slugs:
   en: toledo-and-segovia-with-alcazar-from-madrid
 duracion: 12 horas
 duracionMinutos: 720
-precioDesde: 39
+precioDesde: 41
 moneda: EUR
 idiomas:
 - es

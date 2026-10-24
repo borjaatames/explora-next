@@ -20,7 +20,7 @@ slugs:
   en: valencia-with-kids
   de: valencia-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Valencia is **flat, safe and has a city beach**. The two must-dos are the **Oceanogràfic**, Europe''s largest aquarium (from €37), and **Bioparc** (€30); in between, cycle the **Turia Gardens**, nine car-free kilometres. Take the old town in short doses. Best from March to June.'
+respuestaCorta: 'Valencia is **flat, safe and has a city beach**. The two must-dos are the **Oceanogràfic**, Europe''s largest aquarium (from €37), and **Bioparc** (€29.50); in between, cycle the **Turia Gardens**, nine car-free kilometres. Take the old town in short doses. Best from March to June.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada
@@ -50,10 +50,10 @@ imagen_alt: "Elephants at Bioparc Valencia"
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €30 |
+| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €29.5 |
 | [Oceanogràfic entry ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4.7★ (11,540) | €37 |
 | [Oceanogràfic and Science Museum combo ticket](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket) | 4.7★ (2,797) | €39 |
-| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €32 |
+| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €40 |
 | [Day or sunset catamaran cruise with a drink](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4.0★ (3,360) | €15 |
 
 The key with kids in Valencia is not trying to see everything. The old town is best in short doses; the rest of the time, water, animals and the park. With that, the city carries itself.

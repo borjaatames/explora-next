@@ -98,7 +98,8 @@ ratingProveedor: 4.7
 numeroOpiniones: 1435
 atraccionesRelacionadas:
 - calas-barco
-publicada: true
+publicada: false
+reemplazadaPor: ibiza-sea-kayak-caves-snorkel-cala-codolar
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

@@ -37,15 +37,22 @@ faq:
   respuesta: El Patio de las Doncellas, el Salón de Embajadores, el Patio del Yeso, los Baños de Doña María de Padilla y los jardines.
 - pregunta: ¿Se puede combinar con la Catedral y la Giralda?
   respuesta: Sí. Están una frente a otra y hay visitas que incluyen los tres monumentos con acceso prioritario en una sola mañana.
+opciones:
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: La más barata
+  - ficha: real-alcazar-sevilla-tour-guiado-skip-line
+    etiqueta: Con guía
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Con la Catedral
 ---
 
 El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los monumentos más visitados de España. En temporada alta la cola en taquilla supera las 2 horas: la forma más cómoda de verlo es con la entrada ya incluida.
 
-## Qué visita elegir
+## ¿Qué entrada elegir?
 
 | Si buscas… | Te recomendamos | Desde |
 | --- | --- | --- |
-| Alcázar con guía y sin colas | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 39 € |
+| Alcázar con guía y sin colas | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
 | Lo esencial de Sevilla en una mañana | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (9.797) | 53 € |
 | Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 
@@ -59,7 +66,7 @@ El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los mo
 - **Horario:** de 9:30 a 19:00 de abril a septiembre; de 9:30 a 17:00 de octubre a marzo. Última entrada una hora antes del cierre. Cierra el 1 y el 6 de enero, Viernes Santo y 25 de diciembre.
 - **Cómo llegar:** se entra por la Puerta del León, en la Plaza del Triunfo, frente a la Catedral. Metro Puerta de Jerez (L1) o tranvía Archivo de Indias, ambos a 3 minutos a pie. No hay aparcamiento en el recinto; los más cercanos son los de la Avenida de Roma y Paseo de Colón.
 
-Si la web oficial ya sale agotada, en [qué hacer si las entradas del Alcázar de Sevilla están agotadas](/guias/sevilla/alcazar-de-sevilla-entradas-agotadas) repasamos todas las opciones que quedan.
+Si la web oficial ya sale agotada, en [qué hacer si las entradas del Alcázar de Sevilla están agotadas](/guias/sevilla/alcazar-de-sevilla-entradas-agotadas) repasamos todas las opciones que quedan. Si tu viaje también pasa por Granada y no sabes a cuál ir, lee [¿Alhambra o Alcázar de Sevilla?](/guias/granada/alhambra-o-alcazar-de-sevilla).
 
 ## Qué ver dentro
 

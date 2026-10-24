@@ -37,11 +37,18 @@ faq:
   respuesta: 'No. They are separate bookings: the cable car ticket is bought from Volcano Teide and the permit on Tenerife ON. The permit is only valid for its day and time slot, even if the cable car isn''t running that day.'
 - pregunta: What happens if the cable car closes because of wind?
   respuesta: 'Volcano Teide refunds your ticket or offers a new date. The permit is only refunded if the trail closes or the cable car isn''t running, with the email from Volcano Teide confirming it.'
+opciones:
+  - ficha: teide-teleferico-traslado
+    etiqueta: With cable car
+  - ficha: atardecer-estrellas-teide-telescopio
+    etiqueta: At night
+  - ficha: teide-subida-cumbre-ruta-guiada
+    etiqueta: Summit hike
 ---
 
 Going up Teide takes **two separate bookings**: the cable car ticket, sold by the company that runs it, and the permit for the last stretch to the summit, issued by the island government (the Cabildo). Both sell out in summer, at Easter and on Spanish bank holidays, and one being sold out doesn't mean the other is. Here is what you can do in each case.
 
-## What you can book now
+## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |

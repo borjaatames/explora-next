@@ -36,7 +36,7 @@ imagen_alt: "Guadalest and its reservoir"
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Guadalest, Altea and Algar Falls](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4.7★ (553) | €39 |
+| [Guadalest, Altea and Algar Falls](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4.7★ (553) | €55 |
 | [Cala Granadella Day Trip from Valencia](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | €85 |
 | [San José Caves Day Trip from Valencia](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4.6★ (785) | €55 |
 | [Montanejos by Bus Day Trip](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | €42 |
@@ -56,7 +56,7 @@ The closest and most essential is **La Albufera**, 20 minutes away: for many, th
 
 ## La Albufera and El Palmar
 
-Twenty minutes from the centre (bus 25 from Plaza de la Reina, or by car), the **Albufera natural park** is a large lagoon ringed by rice paddies and traditional barracas, where paella was born. Take a **boat ride** among the rice fields at sunset —one of the loveliest plans near the city— and eat a **real Valencian paella** in **El Palmar**, the rice capital. A perfect half day. We link it to day 2 of [Valencia in 2 days](/en/guides/valencia/valencia-in-2-days).
+Twenty minutes from the centre by car (or about 45 minutes on EMT bus 24 or 25 from Plaza de la Reina), the **Albufera natural park** is a large lagoon ringed by rice paddies and traditional barracas, where paella was born. Take a **boat ride** among the rice fields at sunset —one of the loveliest plans near the city— and eat a **real Valencian paella** in **El Palmar**, the rice capital. A perfect half day. We link it to day 2 of [Valencia in 2 days](/en/guides/valencia/valencia-in-2-days).
 
 ## Sagunto
 
@@ -83,7 +83,7 @@ In La Vall d'Uixó, north of Sagunto, the **San José Caves** hold the longest n
 ## Practical: trains, prices and timings
 
 - **Cercanías from Estació del Nord:** Sagunto, 30 minutes (line C-6, every 20–30 minutes, about €4); Xàtiva, 45 minutes (C-2, every 30 minutes, €5–6); Gandía, 1 hour (C-1). The 10-trip pass works out cheaper than singles, and under-6s travel free.
-- **La Albufera:** EMT buses 24 and 25 to El Palmar (45 minutes, €1.50). Boats leave from the village jetty without booking, for about 40 minutes. The sunset trip is the one everyone wants: arrive 30 minutes early.
+- **La Albufera:** EMT buses 24 and 25 to El Palmar (45 minutes, €1.50). Boats leave from the village jetties: the standard ride lasts 40–45 minutes, costs about €5 per adult and needs no booking. The sunset trip (about an hour, around €7) is the one everyone wants, so book it or arrive early.
 - **Sagunto Castle:** free; open 10:00–20:00 in summer (18:00 in winter), closed on Mondays. It's a 30-minute walk up from the station. The Roman theatre next to it is also free.
 - **Xàtiva Castle:** €6, a 30-minute climb from the old town or a tourist train (€4). Closed on Mondays. The climb at midday in summer is tough: go at 10:00.
 - **Peñíscola:** 1 h 30 by car on the AP-7; Pope Luna's castle costs €5, and in August the walled town is jammed from 11:00. Without a car, take the train to Benicarló-Peñíscola (1 h 30), then a bus or taxi for the last 7 km.
@@ -103,7 +103,7 @@ Sagunto, Xàtiva and Gandía work well **by local train**, and La Albufera by bu
 
 > **⚠️ Warning:** the slip-ups we see most.
 
-1. **Not booking a table in El Palmar** at weekends, or arriving late for the sunset boat.
+1. **Not booking a table in El Palmar** at weekends, or turning up for the sunset boat without a booking (it's the first to fill up).
 2. **Forgetting that many castles close at midday or on Mondays.** Check the hours.
 3. **Underestimating the summer heat** at shadeless castles (Sagunto, Xàtiva); go first thing.
 

@@ -24,7 +24,6 @@ reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   - crucero-calas-ibiza-paddle-surf-barra-libre
-  - esnorquel-paddle-surf-cueva-marina-ibiza
   - kayak-cuevas-cala-codolar-esnorquel
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
@@ -40,10 +39,9 @@ imagen_alt: "Cala Conta and its islet in Ibiza"
 | --- | --- | --- |
 | [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
 | [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €52 |
-| [Snorkelling, paddleboarding and sea cave boat tour](/en/cities/ibiza/activities/ibiza-snorkel-paddleboard-sea-cave-boat-tour) | 4.7★ (1,435) | €60 |
 | [Sea kayak tour through caves with snorkelling from Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4.8★ (333) | €50 |
 | [Es Vedrà cruise with drinks and snacks](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.6★ (375) | €25 |
-| [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €49 |
+| [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €56 |
 
 A boat solves the parking problem and reaches coves you can't walk to. The island is small: the **south-west** holds the most photogenic coves and the sunsets; the **north** is calmer and wilder; the **south** has the trendy beaches by the salt flats.
 

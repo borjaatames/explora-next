@@ -33,7 +33,7 @@ keywords:
 atracciones:
   - nombre: "Dalt Vila"
     descripcion: "La ciudad alta amurallada de Ibiza, Patrimonio de la Humanidad: murallas renacentistas, la catedral en lo alto y callejuelas con vistas al puerto. El casco histórico mejor conservado del Mediterráneo."
-    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
+    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp"
     imagenAlt: "Dalt Vila, la ciudad amurallada de Ibiza"
   - nombre: "Es Vedrà"
     descripcion: "El islote rocoso que emerge frente a la costa suroeste, envuelto en leyendas. El atardecer desde Cala d'Hort, con Es Vedrà al fondo, es la postal de la isla."

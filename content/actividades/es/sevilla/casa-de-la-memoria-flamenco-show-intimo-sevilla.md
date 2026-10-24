@@ -22,7 +22,7 @@ horasCancelacion: 24
 highlights:
 - TOP RATED — 4,8/5 con 13.526 reseñas (la PUNTUACIÓN MÁS ALTA + segundo mayor volumen de los flamencos top de Sevilla)
 - INTIMIDAD MÁXIMA — solo 2 filas de asientos alrededor del escenario
-- Patio andaluz tradicional del s. XV (edificio histórico)
+- Patio andaluz tradicional del s. XVI (edificio histórico)
 - Artistas internacionalmente aclamados — el cuadro cambia cada noche (3 bailaores + 2 cantaores + guitarrista)
 - Pases diarios a las 19:30 y 21:00 (1 hora cada uno)
 - Calle Cuna 6 — pleno centro histórico de Sevilla
@@ -31,14 +31,14 @@ highlights:
 incluye:
 - Espectáculo flamenco en directo de 1 hora
 - Asiento en el patio (2 filas alrededor del escenario)
-- Acceso al edificio histórico del s. XV
+- Acceso al edificio histórico del s. XVI
 noIncluye:
 - Bebidas (no se sirven durante el show — el formato es show puro, sin distracciones)
 - Comida o cena (combina con restaurantes del centro)
 - Propinas
 - Transporte
 puntoEncuentro:
-  texto: La Casa de la Memoria está en **Calle Cuna 6** (41004 Sevilla, centro histórico). Edificio histórico del s. XV —
+  texto: La Casa de la Memoria está en **Calle Cuna 6** (41004 Sevilla, centro histórico), en las antiguas caballerizas del Palacio de Lebrija (s. XVI) —
     entrada por la fachada principal con cartel «Casa de la Memoria». Llega 15-20 min antes del pase para garantizar asiento
     (los asientos NO son numerados).
   descripcionGuia: 'Metro: Puerta de Jerez (línea 1, 12 min andando). Tranvía MetroCentro:
@@ -70,10 +70,10 @@ informacionImportante:
   - 'Pases diarios: 19:30 y 21:00 (1 hora cada uno) — verifica disponibilidad al reservar'
   - '**«Likely to sell out»** — reserva con antelación, especialmente julio-agosto y fines de semana'
   - Foto y vídeo permitidos en muchos casos (sin flash) — verifica reglas al inicio del show
-  - Edificio histórico s. XV — el patio andaluz es parte de la experiencia
+  - Edificio histórico s. XVI — el patio andaluz es parte de la experiencia
   - 'Artistas cambian cada noche — el cuadro habitual: 3 bailaores + 2 cantaores + 1 guitarrista'
   - Sin bebidas durante el show — formato show puro, sin distracciones de servicio
-accesibilidad: El edificio es del s. XV y NO está marcado como accesible en silla de ruedas. La entrada y el patio tienen
+accesibilidad: El edificio es del s. XVI y NO está marcado como accesible en silla de ruedas. La entrada y el patio tienen
   probablemente desniveles o escalones puntuales típicos de edificios históricos sevillanos. Si tienes movilidad reducida,
   contacta a la Casa de la Memoria al reservar para confirmar viabilidad. Para flamenco accesible en silla de ruedas, considera
   el Teatro Flamenco Sevilla (`teatro-flamenco-sevilla-show-mas-vendido`) que SÍ está marcado accesible.
@@ -87,17 +87,17 @@ preguntasFrecuentes:
     de: (1) **INTIMIDAD MÁXIMA** — solo 2 filas de asientos, estás literalmente a 2-3 metros de los artistas. Ves el sudor,
     los micro-gestos, la conexión emocional entre cantaor y bailaor. (2) **Calidad artística internacional** — los artistas
     que actúan en la Casa de la Memoria suelen ser bailaores, cantaores y guitarristas con trayectoria internacional (Bienal
-    de Flamenco, festivales europeos). (3) **Edificio histórico** del s. XV — el patio andaluz original es parte de la experiencia.
+    de Flamenco, festivales europeos). (3) **Edificio histórico** del s. XVI — el patio andaluz original es parte de la experiencia.
     (4) **Sin distracciones de servicio** — no se sirven bebidas durante el show, formato puro.'
 - pregunta: ¿Cuál es la diferencia con los otros 4 grandes flamencos de Sevilla?
-  respuesta: '**Casa de la Memoria (este):** INTIMIDAD MÁXIMA (solo 2 filas, ~30-50 plazas), edificio histórico s.XV, 4,8/5
+  respuesta: '**Casa de la Memoria (este):** INTIMIDAD MÁXIMA (solo 2 filas, ~30-50 plazas), edificio histórico s. XVI, 4,8/5
     con 13.526 reseñas, desde 24 €. RECOMENDADO si valoras estar a 2-3 m de los artistas. **Teatro Flamenco Sevilla:** Teatro
-    grande, máximo volumen (18.292 reseñas), ubicación céntrica, desde 27 €. RECOMENDADO si quieres lo más reservado + asientos
+    grande, máximo volumen (18.292 reseñas), ubicación céntrica, desde 25 €. RECOMENDADO si quieres lo más reservado + asientos
     cómodos escalonados. **Museo del Baile Flamenco (Puro Flamenco):** Patio Ecija s.XVIII, coreografías de Cristina Hoyos,
-    6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO si te interesa la calidad artística icónica. **Teatro Flamenco Triana:**
+    6.456 reseñas 4,8/5, desde 33 €. RECOMENDADO si te interesa la calidad artística icónica. **Teatro Flamenco Triana:**
     Teatro grande en Triana (cuna gitana del flamenco), 4.363 reseñas 4,7/5, desde 25 €. RECOMENDADO si quieres ambiente del
     barrio histórico flamenco. **Tablao El Arenal:** 50 años de historia, edificio s.XVII junto Maestranza, opción cena, desde
-    48 €. RECOMENDADO si quieres tradición + cena.'
+    45 €. RECOMENDADO si quieres tradición + cena.'
 - pregunta: ¿Vale la pena reservar la primera fila o cualquier fila vale?
   respuesta: '**La primera fila es la diferencia.** Como solo hay 2 filas alrededor del escenario, la primera te coloca literalmente
     a 1-2 metros de los artistas — ves cada micro-gesto, sientes el zapateado en el suelo bajo tus pies, el polvo levantado
@@ -121,19 +121,19 @@ preguntasFrecuentes:
 variantes: []
 opinionEditorial: 'El **flamenco más íntimo y mejor valorado de Sevilla** — 13.526 reseñas con 4,8/5 lo posicionan como una
   de las experiencias flamencas premium de la ciudad. El factor diferencial es contundente: **solo 2 filas de asientos alrededor
-  del escenario** (~30-50 plazas totales) en un patio andaluz del s. XV. Estás literalmente a 2-3 metros de los artistas —
+  del escenario** (~30-50 plazas totales) en un patio andaluz del s. XVI. Estás literalmente a 2-3 metros de los artistas —
   el formato más cercano a un flamenco "de cabales" (audiencia conocedora) en formato turístico abierto.
 
 
   **Comparación de precios:** desde 24 € es **de los más asequibles** de los 5 grandes flamencos de Sevilla (vs. Teatro
-  Flamenco Triana 25 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). El precio bajo + calidad
+  Flamenco Triana 25 €, Teatro Flamenco Sevilla 25 €, Museo del Baile Flamenco 33 €, Tablao El Arenal 45 €). El precio bajo + calidad
   artística internacional + intimidad máxima es la combinación que justifica el 4,8/5 y el 13.526 reseñas.
 
 
   **Tres notas operativas críticas:** **(1)** Los asientos NO son numerados — llega 20-30 min antes para asegurar **primera
   fila**, que es donde la experiencia íntima es realmente diferencial. (2) **Sin bebidas durante el show** — formato show
   puro sin distracciones de servicio. Si quieres bebida + flamenco, considera Tablao El Arenal o Teatro Flamenco Sevilla en
-  opción Premium. **(3)** El edificio es del s. XV y NO está marcado accesible — usuarios estrictos de silla de ruedas mejor
+  opción Premium. **(3)** El edificio es del s. XVI y NO está marcado accesible — usuarios estrictos de silla de ruedas mejor
   optar por Teatro Flamenco Sevilla.
 
 
@@ -142,7 +142,7 @@ opinionEditorial: 'El **flamenco más íntimo y mejor valorado de Sevilla** — 
   en la **calidad artística** internacional (los artistas en residencia rotan), visitantes con tiempo de llegar 20-30 min
   antes para garantizar primera fila. **Para quién NO:** quien quiera asientos cómodos teatrales con visión escalonada (Teatro
   Flamenco Sevilla es mejor), grupos grandes que quieran sentarse juntos en zona específica (aforo muy limitado, no garantizado),
-  quien busque cena incluida con show (Tablao El Arenal), usuarios estrictos de silla de ruedas (edificio histórico s.XV no
+  quien busque cena incluida con show (Tablao El Arenal), usuarios estrictos de silla de ruedas (edificio histórico s. XVI no
   marcado accesible), quien necesite reserva de última hora (likely to sell out, especialmente julio-agosto).
 
   '
@@ -178,9 +178,9 @@ guiasRelacionadas:
 
 ## Qué vas a ver
 
-Un **espectáculo flamenco de 1 hora en el patio andaluz del s. XV de la Casa de la Memoria** — el formato más íntimo de los grandes flamencos de Sevilla. Solo 2 filas de asientos alrededor del escenario para una experiencia a 2-3 metros de los artistas. 13.526 reseñas con 4,8/5.
+Un **espectáculo flamenco de 1 hora en el patio andaluz del s. XVI de la Casa de la Memoria** — el formato más íntimo de los grandes flamencos de Sevilla. Solo 2 filas de asientos alrededor del escenario para una experiencia a 2-3 metros de los artistas. 13.526 reseñas con 4,8/5.
 
-- **Patio andaluz histórico del s. XV** — el edificio es parte de la experiencia. Suelo de cantos, arquerías, ambiente íntimo. El patio funciona como cámara de resonancia natural para la voz flamenca y la guitarra.
+- **Patio andaluz histórico del s. XVI** — el espacio ocupa las antiguas caballerizas del Palacio de Lebrija y forma parte de la experiencia. Suelo de cantos, arquerías, ambiente íntimo. El patio funciona como cámara de resonancia natural para la voz flamenca y la guitarra.
 - **Cuadro flamenco profesional internacional** — típicamente 3 bailaores + 2 cantaores + 1 guitarrista. Los artistas cambian cada noche; suelen ser figuras del circuito profesional español e internacional.
 - **Show de 1 hora estructurado** — alegrías, soleá, bulerías, seguiriyas, tangos, fandangos. El programa varía según los artistas de la noche.
 - **Solo 2 filas de asientos** alrededor del escenario — INTIMIDAD MÁXIMA. La primera fila te coloca literalmente a 1-2 metros de los artistas; la segunda a 2-3 metros.
@@ -214,6 +214,6 @@ Un **espectáculo flamenco de 1 hora en el patio andaluz del s. XV de la Casa de
 - Quien quiera **asientos cómodos teatrales** con visión escalonada (Teatro Flamenco Sevilla es mejor).
 - **Grupos grandes** que quieran sentarse juntos en zona específica (aforo muy limitado).
 - Quien busque **cena incluida** con show (Tablao El Arenal es mejor).
-- **Usuarios estrictos de silla de ruedas** (edificio histórico s.XV no marcado accesible).
+- **Usuarios estrictos de silla de ruedas** (edificio histórico s. XVI no marcado accesible).
 - Quien necesite **reserva de última hora** (likely to sell out, especialmente julio-agosto).
 - Visitantes que quieran **bebidas durante el show** (formato puro sin servicio).

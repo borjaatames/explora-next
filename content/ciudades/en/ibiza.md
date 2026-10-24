@@ -36,7 +36,7 @@ slugs:
 atracciones:
   - nombre: "Dalt Vila"
     descripcion: "Ibiza's walled upper town, a UNESCO World Heritage Site: Renaissance walls, the cathedral at the top and lanes with views over the port. The best-preserved old town in the Mediterranean."
-    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
+    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp"
     imagenAlt: "Dalt Vila, Ibiza's walled old town"
   - nombre: "Es Vedrà"
     descripcion: "The rocky islet rising off the south-west coast, wrapped in legend. Sunset from Cala d'Hort, with Es Vedrà behind, is the island's signature postcard."

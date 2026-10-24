@@ -21,7 +21,7 @@ slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out
 reservasArriba: true
-respuestaCorta: 'Las entradas oficiales (18 €) salen **hasta tres meses antes** y el aforo es de **700 personas cada media hora**. Si están agotadas, mira otras franjas y otros días en la web oficial, prueba las **entradas de reventa** (desde 23 €) o un **tour con la entrada incluida**. Y aunque no consigas nada, **la mayor parte del parque es de acceso libre**: solo se paga la zona monumental.'
+respuestaCorta: 'Las entradas oficiales (18 €) salen **hasta tres meses antes** y el aforo es de **700 personas cada media hora**. Si están agotadas, mira otras franjas y otros días en la web oficial, prueba las **entradas de reventa** (desde 21,50 €) o un **tour con la entrada incluida**. Y aunque no consigas nada, **la mayor parte del parque es de acceso libre**: solo se paga la zona monumental.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
@@ -36,16 +36,23 @@ faq:
   respuesta: 'No si eres turista. De 7:00 a 9:30 y de 20:00 a 22:00 el parque se reserva a los vecinos con tarjeta y a los empadronados en Barcelona con Passi Verd. Las franjas de visita turística van de 9:30 a 19:30.'
 - pregunta: ¿Qué se ve del Park Güell sin entrada?
   respuesta: 'La entrada solo cubre la zona monumental: la escalinata del dragón, la Sala Hipóstila, la plaza con el banco ondulado y los pórticos. El resto del parque, con los caminos del bosque y el mirador del Turó de les Tres Creus, es de acceso libre.'
+opciones:
+  - ficha: park-guell-entrada-zona-monumental
+    etiqueta: La más barata
+  - ficha: park-guell-entrada-museo-casa-gaudi
+    etiqueta: Con Casa Gaudí
+  - ficha: sagrada-familia-park-guell-tour-guiado
+    etiqueta: Con guía
 ---
 
 El Park Güell vende sus entradas con hora y con un aforo fijo de **700 personas cada media hora**, y en verano, Semana Santa y puentes las franjas buenas se agotan con días o semanas de antelación. Que la web oficial diga «agotado» no te deja sin Gaudí: hay varias opciones, unas oficiales y otras de pago, y conviene probarlas en este orden.
 
-## Lo que puedes reservar ahora
+## ¿Qué entrada elegir?
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| Solo la entrada | [Entrada sin colas a la zona monumental](/ciudades/barcelona/actividades/park-guell-entrada-zona-monumental), 4,4★ (81.572) | 23 € |
-| Entrada y casa de Gaudí | [Park Güell + Casa Museo Gaudí](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi), 4,5★ (7.565) | 30 € |
+| Solo la entrada | [Entrada sin colas a la zona monumental](/ciudades/barcelona/actividades/park-guell-entrada-zona-monumental), 4,4★ (81.572) | 21,5 € |
+| Entrada y casa de Gaudí | [Park Güell + Casa Museo Gaudí](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi), 4,5★ (7.565) | 28 € |
 | Con guía dentro | [Tour de la Sagrada Familia y el Park Güell](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado), 4,8★ (6.776) | 104 € |
 | Barcelona en un día | [Sagrada Familia, Park Güell y centro](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell), 4,9★ (15.762) | 129 € |
 
@@ -62,7 +69,7 @@ Recuerda que la entrada oficial no se puede cancelar: si la consigues, ya no hay
 
 ## 2. Una entrada de reventa
 
-Los revendedores autorizados compran cupos con antelación, así que pueden tener plazas cuando la web oficial ya no. Son más caros que la oficial: la entrada a la zona monumental sale desde **23 €** y la combinada con la **Casa Museo Gaudí**, desde **30 €**. Tampoco se pueden cancelar, así que compra solo cuando tengas el día cerrado.
+Los revendedores autorizados compran cupos con antelación, así que pueden tener plazas cuando la web oficial ya no. Son más caros que la oficial: la entrada a la zona monumental sale desde **21,50 €** y la combinada con la **Casa Museo Gaudí**, desde **28 €**. Tampoco se pueden cancelar, así que compra solo cuando tengas el día cerrado.
 
 [actividad: park-guell-entrada-zona-monumental]
 

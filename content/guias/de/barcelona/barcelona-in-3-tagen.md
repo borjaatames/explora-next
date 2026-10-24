@@ -103,7 +103,7 @@ Zu den Türmen: Man muss zwischen **Nacimiento (Geburt Christi)** oder **Pasión
 
 **12:00 Uhr — Leichtes Mittagessen im Eixample.** Ein Tagesmenü in einer Seitenstraße zur Diagonal/Provença kostet für ein anständiges Menü meist 15-18 €. Meide Restaurants mit sechssprachig übersetzter Speisekarte und Paellafoto an der Tür.
 
-**14:00 Uhr — Manzana de la Discordia** (Passeig de Gràcia zwischen Aragó und Consell de Cent). Hier stehen **Casa Batlló** und **Casa Amatller** (von Puig i Cadafalch), und zwei Straßen weiter oben **La Pedrera (Casa Milà)**. Wer nur eines besichtigt, sollte auf **Casa Batlló** setzen: Fassade und Innenerlebnis sind gut gemacht, es fühlt sich nicht nach Freizeitpark an. Eintritt **ab 31 €**. La Pedrera ist nüchterner, architektonisch vielleicht interessanter für alle, die auf die Linienführung Wert legen: Eintritt **ab 25 €**.
+**14:00 Uhr — Manzana de la Discordia** (Passeig de Gràcia zwischen Aragó und Consell de Cent). Hier stehen **Casa Batlló** und **Casa Amatller** (von Puig i Cadafalch), und zwei Straßen weiter oben **La Pedrera (Casa Milà)**. Wer nur eines besichtigt, sollte auf **Casa Batlló** setzen: Fassade und Innenerlebnis sind gut gemacht, es fühlt sich nicht nach Freizeitpark an. Eintritt **ab 29 €**. La Pedrera ist nüchterner, architektonisch vielleicht interessanter für alle, die auf die Linienführung Wert legen: Eintritt **ab 29 €**.
 
 **17:00 Uhr — Freier Spaziergang über den Passeig de Gràcia hinunter zur Plaça de Catalunya.** Das Straßenraster des Eixample (Cerdàs Plan mit den abgeschrägten Häuserecken) ist eine der großen städtebaulichen Leistungen des 19. Jahrhunderts und lässt sich im Gehen bestens würdigen.
 

@@ -2,7 +2,7 @@
 titulo: "Sevilla: Tapas Tour por Triana Cruzando el Río Guadalquivir (3,5h, Grupo Reducido máx. 8)"
 slug: "sevilla-tapas-tour-triana-cruzando-rio"
 ciudad: "sevilla"
-descripcion: "Tapas tour de 3,5 horas en el barrio de Triana, al otro lado del río Guadalquivir. Grupo reducido (máx. 8 personas), guía oficial en español, inglés o francés. Visita a 3-4 bares locales + mercado de Triana. Incluye recogida en hotel (zona centro), tapas, vino y degustaciones. Operador: Not Just a Tourist. Desde 60 €."
+descripcion: "Tapas tour de 3,5 horas en el barrio de Triana, al otro lado del río Guadalquivir. Grupo reducido (máx. 8 personas), guía oficial en español, inglés o francés. Visita a 3-4 bares locales + mercado de Triana. Incluye recogida en hotel (zona centro), tapas, vino y degustaciones. Operador: Not Just a Tourist. Desde 129 €."
 
 slugs:
   es: "sevilla-tapas-tour-triana-cruzando-rio"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "3,5 horas"
 duracionMinutos: 210
-precioDesde: 60
+precioDesde: 129
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -85,15 +85,15 @@ preguntasFrecuentes:
     respuesta: "**Triana es el barrio MÁS auténtico de Sevilla** — al otro lado del río Guadalquivir, históricamente fuera del recinto amurallado, mantiene un carácter de barrio popular (alfareros, marineros, gitanos) en vez de centro turístico. Los bares de tapas en Triana siguen siendo frecuentados por sevillanos locales (no solo turistas), las tapas son más auténticas (menos «adaptadas al gusto internacional»), y el precio en el menú es ~30% más barato que en el centro. El recorrido también incluye el **Mercado de Triana** — el mercado más antiguo de Sevilla, construido sobre el antiguo castillo de San Jorge (s. XIII), donde estuvo la sede de la Inquisición. Combinas comida + historia + barrio vivo."
   - pregunta: "¿Qué tapas voy a probar?"
     respuesta: "El menú típico incluye 8-10 piezas distintas en 3-4 bares: **jamón ibérico de bellota** (con explicación de denominaciones), **salmorejo** (la sopa fría de tomate sevillana, similar al gazpacho pero más espesa), **espinacas con garbanzos** (plato tradicional de tradición árabe-judía), **tortilla de patata**, **croquetas** (de jamón, bacalao o setas según bar), **queso curado** (manchego o payoyo), **olivas aliñadas**, **pringá** (sandwich con guiso de cerdo y morcilla), y postre tradicional (típicamente tocino de cielo o pestiños). Bebidas: vino tinto, vino blanco, cerveza, naranja o tinto de verano. Veganos/vegetarianos AVISAR AL RESERVAR — el operador adapta el menú."
-  - pregunta: "¿Vale la pena 60 € por tapas que podría comer por libre?"
-    respuesta: "**Coste por libre:** comer 8-10 tapas + 3 bebidas en Triana = ~35-45 € (los bares son baratos comparado con el centro). **Tour: 60 €.** Diferencia 15-25 €. **¿Vale la pena?** SÍ si: (1) NO hablas español y necesitas guía para ordenar y entender qué pides; (2) NO sabes a qué bares ir (las guías oficiales conocen 50+ bares y eligen los mejores 3-4); (3) quieres ENTENDER cada tapa con contexto histórico/cultural; (4) prefieres un grupo pequeño (máx. 8) con guía dedicado. NO si: (1) hablas español fluido, conoces Sevilla y solo quieres comer; (2) presupuesto muy ajustado. **El valor añadido principal es el CONTEXTO** — un sevillano no necesita el tour, un turista internacional sí."
+  - pregunta: "¿Vale la pena 129 € por tapas que podría comer por libre?"
+    respuesta: "**Coste por libre:** comer 8-10 tapas + 3 bebidas en Triana = ~35-45 € (los bares son baratos comparado con el centro). **Tour: 129 €.** Diferencia de unos 85-95 €. **¿Vale la pena?** SÍ si: (1) NO hablas español y necesitas guía para ordenar y entender qué pides; (2) NO sabes a qué bares ir (las guías oficiales conocen 50+ bares y eligen los mejores 3-4); (3) quieres ENTENDER cada tapa con contexto histórico/cultural; (4) prefieres un grupo pequeño (máx. 8) con guía dedicado. NO si: (1) hablas español fluido, conoces Sevilla y solo quieres comer; (2) presupuesto muy ajustado. **El valor añadido principal es el CONTEXTO** — un sevillano no necesita el tour, un turista internacional sí."
   - pregunta: "¿Cómo combinar el tour con otras actividades?"
     respuesta: "**Día perfecto Sevilla = monumentos por la mañana + tapas tour por la tarde + flamenco por la noche.** Ejemplo: 10:00 **Catedral + Giralda** (`catedral-sevilla-giralda-entrada-skip-line`, 1,5 h) → 11:30 **Real Alcázar** (`real-alcazar-sevilla-tour-guiado-skip-line`, 2 h) → 14:00 comida ligera en El Arenal → 16:00 siesta o paseo → 19:00 **este tapas tour** (3,5 h) → 22:30 **flamenco en Triana** (`teatro-flamenco-triana-show-en-directo`) a 3 min andando del final del tapas tour. Día completo Sevilla por ~150 € persona, incluyendo todos los monumentos, comidas y entretenimiento nocturno. El tapas tour es la TRANSICIÓN ideal entre tarde y noche."
 
 variantes: []
 
 opinionEditorial: |
-  El **único tapas tour de Sevilla con guía oficial en ESPAÑOL en GYG** (los demás top tapas tours son EN-only) — operado por Not Just a Tourist, equipo local sevillano especializado en Triana. Por **60 €** accedes a 3,5 horas con grupo reducido (máx. 8), recogida en hotel, visita a 3-4 bares tradicionales, mercado de Triana, 8-10 tapas y 3-4 bebidas. La ventaja diferencial vs. comer por libre: el guía elige los MEJORES bares (frecuentados por locales, no tourist traps), explica cada tapa con contexto histórico, y te enseña a ordenar como un sevillano.
+  El **único tapas tour de Sevilla con guía oficial en ESPAÑOL en GYG** (los demás top tapas tours son EN-only) — operado por Not Just a Tourist, equipo local sevillano especializado en Triana. Por **129 €** accedes a 3,5 horas con grupo reducido (máx. 8), recogida en hotel, visita a 3-4 bares tradicionales, mercado de Triana, 8-10 tapas y 3-4 bebidas. La ventaja diferencial vs. comer por libre: el guía elige los MEJORES bares (frecuentados por locales, no tourist traps), explica cada tapa con contexto histórico, y te enseña a ordenar como un sevillano.
 
   **Triana es el barrio MÁS auténtico de Sevilla** — separado del centro turístico por el río Guadalquivir, mantiene tradición alfarera, gitana y marinera. Los bares son más baratos que en el centro, las tapas más auténticas, y la atmósfera es de barrio vivo, no escenario turístico. El Mercado de Triana añade contexto histórico (construido sobre el antiguo castillo de San Jorge, sede de la Inquisición en s. XVI-XVIII).
 

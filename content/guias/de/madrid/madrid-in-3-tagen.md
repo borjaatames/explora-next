@@ -190,7 +190,7 @@ Die Tablaos im Zentrum sind auf Express-Touristen ausgerichtet: überhöhte Prei
 
 **Kostenlose Museen.** Der Prado ist täglich in den letzten zwei Stunden kostenlos (Montag-Samstag 18:00-20:00 Uhr, Sonn- und Feiertage 17:00-19:00 Uhr). Das Reina Sofía ist montags und mittwochs-samstags 19:00-21:00 Uhr sowie sonntags 12:30-14:30 Uhr kostenlos. Das Thyssen ist montags 12:00-16:00 Uhr kostenlos. Wenn eure Reisezeit flexibel ist, lohnt sich das — aber der Prado ist um 18:00 Uhr auch überfüllt.
 
-**Spätes Abendessen.** In Madrid wird ab 21:00 Uhr oder später gegessen. Bessere Restaurants öffnen erst um 20:00-20:30 Uhr. Passt euch dem spanischen Rhythmus an, nicht umgekehrt.
+**Spätes Abendessen.** In Madrid wird ab 21:00 Uhr oder später gegessen. Bessere Restaurants öffnen erst um 20:00-20:30 Uhr. Pass dich dem spanischen Rhythmus an, nicht umgekehrt.
 
 **Schließtage.** Der Prado schließt am 1. Januar, 1. Mai und 25. Dezember. El Escorial und Cuelgamuros sind montags geschlossen. Bei der Planung beachten.
 
@@ -208,4 +208,4 @@ Die Tablaos im Zentrum sind auf Express-Touristen ausgerichtet: überhöhte Prei
 
 Müsste ich diese Route auf einen Satz reduzieren: **Prado plus El Escorial plus Chamberí**. Damit hast du das Madrid Philipps II., das imperiale Spanien und das gelebte Madrid. Der Rest ist gut ausgewählte Ergänzung.
 
-Und zum Schluss der Rat, den ich meinen europäischen Freunden immer gebe: Versucht nicht, alles zu sehen. Madrid ist nicht in 3 Tagen fertig, auch nicht in 10. Behaltet fünf oder sechs Dinge im Kopf, die euch wirklich berühren, und lasst den Rest für den nächsten Besuch. **Ihr kommt wieder.**
+Und zum Schluss der Rat, den ich meinen europäischen Freunden immer gebe: Versuch nicht, alles zu sehen. Madrid ist nicht in 3 Tagen fertig, auch nicht in 10. Behalte fünf oder sechs Dinge im Kopf, die dich wirklich berühren, und lass den Rest für den nächsten Besuch. **Du kommst wieder.**

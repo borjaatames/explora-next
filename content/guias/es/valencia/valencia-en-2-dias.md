@@ -42,11 +42,11 @@ imagen_alt: "La Lonja de la Seda de Valencia"
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour por la catedral, San Nicolás y la Lonja de la Seda](/ciudades/valencia/actividades/tour-catedral-lonja-san-nicolas-valencia) | 4,8★ (1.243) | 49 € |
-| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 32 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
 | [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
-| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 30 € |
+| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 29,5 € |
 | [Paseo en catamarán de día o al atardecer con bebida](/ciudades/valencia/actividades/paseo-catamaran-valencia-atardecer) | 4,0★ (3.360) | 15 € |
-| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 29 € |
+| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 28,5 € |
 
 ## Cuándo ir y cómo llegar
 
@@ -78,7 +78,7 @@ Por la tarde, baja por el **Jardín del Turia** hasta la **Ciudad de las Artes y
 | 16:30 | Playa de la Malvarrosa, horchata con fartons |
 | 19:00 | Última tarde por el centro (plaza Redonda, Mercado de Colón) |
 
-A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natural de la Albufera**: un gran lago entre arrozales y barracas. El **paseo en barca** (unos 40 minutos, sin reserva salvo al atardecer) es de los planes más bonitos cerca de la ciudad. Come en **El Palmar** una paella valenciana de verdad: pollo, conejo, garrofó y judía verde, ni marisco ni chorizo, y siempre a mediodía. Vuelve a la **Malvarrosa**, arena ancha y restaurantes de arroces frente al mar.
+A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natural de la Albufera**: un gran lago entre arrozales y barracas. El **paseo en barca** (40-45 minutos, sin reserva salvo al atardecer) es de los planes más bonitos cerca de la ciudad. Come en **El Palmar** una paella valenciana de verdad: pollo, conejo, garrofó y judía verde, ni marisco ni chorizo, y siempre a mediodía. Vuelve a la **Malvarrosa**, arena ancha y restaurantes de arroces frente al mar.
 
 ## Precios y horarios
 
@@ -90,7 +90,7 @@ A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natu
 | Torres de Serranos y de Quart | 2 € cada una, gratis domingos | Serranos tiene la mejor vista del Turia |
 | Oceanogràfic | ~40 € (30 € niños); Museu y Hemisfèric 9 € cada uno; los tres ~50 € | Reserva online en temporada alta |
 | Bioparc | 27-28 €; metro Nou d'Octubre | Desde las 10:00 |
-| Albufera | Bus 1,50 €; barca, precio en el embarcadero | |
+| Albufera | Bus 1,50 €; barca, unos 5 € por adulto (unos 7 € al atardecer), se paga en el embarcadero | |
 | Transporte | Billete 1,50 €; SUMA 10 viajes 8 € + 1 € de tarjeta; Valenbisi semanal 13,30 € | |
 
 Detalle en [cómo visitar la Ciudad de las Artes](/guias/valencia/ciudad-artes-ciencias-como-visitar).

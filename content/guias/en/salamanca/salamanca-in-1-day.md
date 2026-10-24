@@ -37,7 +37,7 @@ Salamanca **works in a single day**. Everything touristy fits in under 1 km² (0
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
-| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €19 |
+| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €12 |
 | [Cathedrals ticket with audio guide](/en/cities/salamanca/activities/salamanca-cathedrals-ticket-audio-guide) | 4.6★ (202) | €10 |
 | [Legends walking tour at dusk](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4.7★ (90) | €17 |
 

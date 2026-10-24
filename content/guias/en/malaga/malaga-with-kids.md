@@ -74,7 +74,7 @@ The key is to alternate: a morning of castle or old town in short doses and an a
 - **Alcazaba and Gibralfaro:** combined ticket €5.50 (€3.50 each separately), free for under-16s and **free for everyone on Sundays from 14:00** (as of 2026). **Bus 35** goes up to Gibralfaro from the Alameda (about every 45 minutes); walking down the Paseo de Don Juan Temboury takes 20 pleasant minutes with views.
 - **Bioparc Fuengirola:** €29.50 adults and €23 children aged 3–9 in 2026; under-3s free. Cercanías C-1 from María Zambrano or Centro-Alameda to Fuengirola (about 45 minutes), then a 10-minute walk. Opens at 10:00 all year; in July and August it stays open until 23:00, so an evening visit beats the heat.
 - **Benalmádena cable car:** return from €12.90 adults and €9.90 children online, €4–5 more at the box office. Cercanías to Arroyo de la Miel, then a 10-minute walk. The birds-of-prey displays at the top run at set times: check when you buy.
-- **Nerja Caves:** from €16 per adult, free for under-6s; 45 minutes inside at 19 °C, so pack a light layer.
+- **Nerja Caves:** from €15.50 per adult, free for under-6s; 45 minutes inside at 19 °C, so pack a light layer.
 - **Beaches:** La Malagueta has lifeguards, showers, a children's area and beach bars; the sea is around 18 °C in May and 24 °C in August. Pedregalejo is calmer, with smaller waves for little ones.
 - **Getting around:** the centre is pedestrianised and flat, good for prams. EMT buses cost €1.40 and under-4s ride free. The Cercanías reaches the airport in 12 minutes.
 - **Heat:** in summer, from 14:00 to 18:00 the centre is an oven for small children. Beach or museum at those hours.

@@ -26,6 +26,13 @@ actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: Am günstigsten
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: Mit Turm
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Kleine Gruppe
 ---
 
 Die Sagrada Familia ist **das meistbesuchte Monument Barcelonas** — rund 4,5 Millionen Menschen im Jahr —, und wie bei allen Sehenswürdigkeiten dieser Größenordnung verlassen die meisten Besucher sie mit dem Gefühl, etwas Wichtiges gesehen zu haben, ohne es wirklich verstanden zu haben. Das ist schade, denn nur wenige Gebäude der Welt belohnen eine gute Vorbereitung so sehr: die absichtlich ausgerichteten Glasfenster, die Symbole an jeder Säule, die Mathematik hinter der Geometrie, die Entscheidungen, die Gaudí vor seinem Tod schriftlich hinterließ, und jene, die seine Nachfolgerarchitekten gerade jetzt treffen.
@@ -40,7 +47,7 @@ Gaudí starb am 10. Juni 1926, überfahren von einer Straßenbahn in der Nähe d
 
 Der Basilika stehen bis etwa 2035 noch abschließende Arbeiten bevor (einschließlich der Fassade der Herrlichkeit), aber die charakteristische Silhouette ist mit dem 2026 eingeweihten Turm Jesu praktisch vollständig.
 
-## Ticketarten und offizielle Preise 2026
+## Welches Ticket solltest du wählen?
 
 | Ticket | Preis | Was enthalten ist |
 | --- | --- | --- |

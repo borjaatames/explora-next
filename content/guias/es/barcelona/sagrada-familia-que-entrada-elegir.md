@@ -30,11 +30,18 @@ actividades:
   - sagrada-familia-park-guell-tour-guiado
   - barcelona-un-dia-sagrada-familia-park-guell
   - tour-privado-lo-mejor-de-barcelona-sagrada-familia
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: La más barata
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: Con torre
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Grupo reducido
 ---
 
 La Sagrada Família se puede reservar de siete formas distintas. Si solo quieres visitar la basílica, hay tres opciones que van de la entrada con audioguía a la subida a una torre. Si quieres combinarla con Park Güell u otros puntos de Barcelona, hay cuatro más — y no todas incluyen lo mismo, así que merece la pena mirar bien qué suma cada una antes de reservar.
 
-## Solo Sagrada Família
+## ¿Qué entrada elegir?
 
 | Opción | Precio desde | Duración | Formato | Ideal para |
 |---|---|---|---|---|

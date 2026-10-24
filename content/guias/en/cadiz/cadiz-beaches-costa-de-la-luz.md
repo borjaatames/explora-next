@@ -21,7 +21,7 @@ slugs:
   es: playas-cadiz-costa-de-la-luz
   en: cadiz-beaches-costa-de-la-luz
   de: straende-costa-de-la-luz-cadiz
-respuestaCorta: 'The best beaches of Cádiz are **La Caleta** and La Victoria in the city, and on the Costa de la Luz **Bolonia** (dune and Roman ruins), **Zahara de los Atunes**, Los Caños de Meca, El Palmar and Tarifa. Choose by the wind: with **poniente** any open beach works; with strong **levante**, pick a sheltered cove. Sunset catamaran trips from Cádiz start **from €25**.'
+respuestaCorta: 'The best beaches of Cádiz are **La Caleta** and La Victoria in the city, and on the Costa de la Luz **Bolonia** (dune and Roman ruins), **Zahara de los Atunes**, Los Caños de Meca, El Palmar and Tarifa. Choose by the wind: with **poniente** any open beach works; with strong **levante**, pick a sheltered cove. Sunset catamaran trips from Cádiz start **from €24.50**.'
 reservasArriba: true
 actividades:
   - catamaran-cadiz-atardecer
@@ -36,7 +36,7 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Sunset catamaran cruise with cava](/en/cities/cadiz/activities/cadiz-sunset-catamaran-cruise) | 4.6★ (856) | €25 |
+| [Sunset catamaran cruise with cava](/en/cities/cadiz/activities/cadiz-sunset-catamaran-cruise) | 4.6★ (856) | €24.5 |
 | [Barbate: dolphin and whale watching off Cape Trafalgar](/en/cities/cadiz/activities/dolphin-whale-watching-trafalgar-barbate) | 4.1★ (792) | €50 |
 | [Bay of Cádiz catamaran tour](/en/cities/cadiz/activities/cadiz-bay-catamaran-tour) | 4.5★ (453) | €19 |
 

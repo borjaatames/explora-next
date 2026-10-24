@@ -8,7 +8,7 @@ slugs:
   es: excursion-toledo-segovia-alcazar
 duracion: 12 hours
 duracionMinutos: 720
-precioDesde: 39
+precioDesde: 41
 moneda: EUR
 idiomas:
 - en

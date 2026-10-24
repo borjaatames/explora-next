@@ -206,6 +206,10 @@ export default function GaleriaActividad({
                       alt={img.alt}
                       fill
                       sizes="(max-width: 768px) 100vw, 33vw"
+                      // En el carrusel móvil las fotos siguientes están "en
+                      // pantalla" en horizontal y Chrome las descarga a la vez
+                      // que la principal: baja su prioridad para no frenar el LCP.
+                      fetchPriority="low"
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     {esUltimaConRestantes && (

@@ -139,15 +139,23 @@ keywords:
 - fc barcelona museum
 - camp nou renovation visit
 - barca immersive exhibition
-imagen: "/images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp"
-imagenAlt: "Red stands of Camp Nou"
+imagen: "/images/actividades/barcelona/camp-nou/camp-nou-cesped-y-gradas-vacias.webp"
+imagenAlt: "The empty pitch and stands of Camp Nou"
 galeria:
-- src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: "Red stands of Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
-  alt: "Camp Nou stands spelling out FC Barcelona"
-- src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
-  alt: "Kubala statue outside Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-cesped-y-gradas-vacias.webp"
+    alt: "The empty pitch and stands of Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp"
+    alt: "Red stands of Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-vista-aerea.webp"
+    alt: "Aerial view of the Camp Nou stadium"
+  - src: "/images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp"
+    alt: "Camp Nou stands spelling out FC Barcelona"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-gradas-mes-que-un-club.webp"
+    alt: "Camp Nou stands spelling out «Més que un club»"
+  - src: "/images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp"
+    alt: "Kubala statue outside Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-acceso-fc-barcelona.webp"
+    alt: "Entrance to the FC Barcelona grounds next to Camp Nou"
 ratingProveedor: 4.3
 numeroOpiniones: 12092
 publicada: true

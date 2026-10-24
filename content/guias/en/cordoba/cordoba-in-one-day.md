@@ -56,7 +56,7 @@ imagen_alt: "Córdoba's Mosque-Cathedral and Roman Bridge over the Guadalquivir"
 | [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
 | [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
 | [3-hour guided tour of Medina Azahara](/en/cities/cordoba/activities/medina-azahara-3-hour-guided-tour) | 4.6★ (1,034) | €18 |
-| [Equestrian show at the Royal Stables](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4.5★ (2,910) | €19 |
+| [Equestrian show at the Royal Stables](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4.5★ (2,910) | €18.5 |
 | [Flamenco show at Tablao Cardenal with a drink](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4.8★ (1,167) | €25 |
 
 The key to Córdoba is one thing: **step into the Mosque-Cathedral first thing in the morning**. It's the monument that justifies the trip and the one that copes worst with the midday heat and crowds. Leave it for later and you risk long queues and a rushed visit. And if you stay overnight you gain something the day-tripper misses: the old town lit up and empty at dusk.

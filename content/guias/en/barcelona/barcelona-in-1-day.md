@@ -75,7 +75,7 @@ More in [how to visit the Sagrada Familia](/en/guides/barcelona/sagrada-familia-
 
 ### Casa Batlló and Passeig de Gràcia (noon, 30 min)
 
-A 15-minute walk. Going inside Casa Batlló costs from €31 online and takes another 1.5 hours; today, see the façade and move on. Same with Casa Milà (La Pedrera), 200 metres up the street (inside from €25).
+A 15-minute walk. Going inside Casa Batlló costs from €29 online and takes another 1.5 hours; today, see the façade and move on. Same with Casa Milà (La Pedrera), 200 metres up the street (inside from €29).
 
 ### Gothic Quarter (12:30 PM, 1.5 h)
 

@@ -29,11 +29,18 @@ actividades:
   - sagrada-familia-park-guell-tour-guiado
   - barcelona-un-dia-sagrada-familia-park-guell
   - tour-privado-lo-mejor-de-barcelona-sagrada-familia
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: Cheapest
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: With a tower
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Small group
 ---
 
 The Sagrada Família can be booked seven ways: three options for the basilica alone, from an audio-guide ticket to a tower climb, and four that combine it with Park Güell or other sights — which don't all include the same things.
 
-## Sagrada Família only
+## Which ticket should you choose?
 
 | Option | Price from | Duration | Format | Best for |
 |---|---|---|---|---|

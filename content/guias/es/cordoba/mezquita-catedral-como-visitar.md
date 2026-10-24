@@ -27,11 +27,18 @@ actividades:
   - mezquita-juderia-tour-a-pie
 imagen_portada: "/images/guias/mezquita-catedral-como-visitar.jpg"
 imagen_alt: "Bosque de arcos bicolores en la Mezquita-Catedral de Córdoba"
+opciones:
+  - ficha: mezquita-catedral-entrada-audioguia
+    etiqueta: La más barata
+  - ficha: mezquita-catedral-tour-guiado-sin-colas
+    etiqueta: Con guía
+  - ficha: mezquita-juderia-tour-a-pie
+    etiqueta: Con la Judería
 ---
 
 **La Mezquita-Catedral es el monumento que justifica el viaje a Córdoba**, y uno de los edificios más asombrosos de Europa: un bosque de 856 columnas y arcos rojiblancos con una catedral renacentista levantada en el centro. Pero es también el lugar donde más se nota organizarse bien: entrar a la hora correcta marca la diferencia entre disfrutarlo en calma o sufrir colas y calor. Esta guía te lo resuelve.
 
-## Entradas y tours de la Mezquita
+## ¿Qué entrada elegir?
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |

@@ -21,7 +21,7 @@ slugs:
   de: flamenco-madrid-welches-tablao-waehlen
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
-respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €30), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €48), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'
+respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €31), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €45), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'
 actividades:
   - flamenco-tablao-las-carboneras
   - flamenco-torres-bermejas-cena
@@ -33,12 +33,12 @@ Madrid has two flamenco tablaos with their own listing: Las Carboneras and Torre
 
 | Tablao | Price from | Atmosphere | Options | Best for |
 |---|---|---|---|---|
-| [Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | €48 | Basement of a 17th-century historic palace, intimate cabaret-style setting | Show + drink; show + dinner as a separate ticket | Anyone wanting a boutique tablao with a fixed cast of well-known performers |
-| [Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | €30 | Alhambra-inspired decor, larger format | Drink, tapas, or a full 3-course dinner depending on the ticket | Anyone wanting more price flexibility and an optional full dinner |
+| [Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | €45 | Basement of a 17th-century historic palace, intimate cabaret-style setting | Show + drink; show + dinner as a separate ticket | Anyone wanting a boutique tablao with a fixed cast of well-known performers |
+| [Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | €31 | Alhambra-inspired decor, larger format | Drink, tapas, or a full 3-course dinner depending on the ticket | Anyone wanting more price flexibility and an optional full dinner |
 
 ## How to choose in 30 seconds
 
-- **Tight budget or want a real dinner:** Torres Bermejas, with a full Spanish menu option and the lower entry price (€30).
+- **Tight budget or want a real dinner:** Torres Bermejas, with a full Spanish menu option and the lower entry price (€31).
 - **Looking for something intimate with more historical character:** Las Carboneras, in the basement of the old Palace of the Count of Miranda, in the heart of Madrid de los Austrias.
 - **Using a wheelchair:** Las Carboneras. Its access is marked as wheelchair accessible; Torres Bermejas doesn't state it and has stairs to some areas, so contact the tablao first if you're set on it.
 - **Travelling with children:** Las Carboneras works from about 7-8 years old; for Torres Bermejas, reviewers suggest 12 and up.

@@ -37,16 +37,23 @@ faq:
 - pregunta: Can I combine it with the Cathedral and Giralda?
   respuesta: Yes. They face each other, and some tours include all three monuments with priority access in a single morning.
 tiempo_lectura: 3
+opciones:
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: Cheapest
+  - ficha: real-alcazar-sevilla-tour-guiado-skip-line
+    etiqueta: With a guide
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Plus the Cathedral
 ---
 
 The Royal Alcázar is **the oldest royal palace still in use in Europe** and one of Spain's most visited monuments. In high season the ticket queue exceeds 2 hours and daily capacity sells out: the easiest way to see it is with a timed ticket or a tour that includes entry.
 
-## Which visit to choose
+## Which ticket should you choose?
 
 | If you want… | We recommend | From |
 | --- | --- | --- |
 | Just a timed ticket, no queue | [Royal Alcázar timed entry](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4.6★ (36,909) | €20 |
-| The Alcázar with a guide, no queues | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €39 |
+| The Alcázar with a guide, no queues | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
 | A guide in a group of 10 or fewer (English only) | [Alcázar premium small-group tour](/en/cities/sevilla/activities/seville-alcazar-small-group-guided-tour-premium), 4.9★ | €49.50 |
 | Seville's essentials in one morning | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (9,797) | €53 |
 | With free time in the gardens | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
@@ -65,7 +72,7 @@ The Royal Alcázar is **the oldest royal palace still in use in Europe** and one
 - **Box office:** in the Patio de Banderas, from 9:00, card payment only.
 - **The official timed ticket is cheaper** than resellers (€20 and up), but it sells out first in spring and summer.
 
-If the official site is already sold out, [what to do when Alcázar of Seville tickets are sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out) covers every option left.
+If the official site is already sold out, [what to do when Alcázar of Seville tickets are sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out) covers every option left. If your trip also takes in Granada and you can't decide between the two, read [Alhambra or Alcázar of Seville?](/en/guides/granada/alhambra-or-alcazar-of-seville).
 
 ## Getting there
 

@@ -77,7 +77,7 @@ Im **Frühling und Herbst**, bei gutem Wetter und ohne die Sommerhitze an den sc
 
 1. **Das Kombiticket nicht kaufen.** Viele Menschen zahlen zu viel, ohne es zu merken.
 2. **Zu wenig Zeit einplanen.** Das Ensemble ist einen halben Tag oder mehr wert.
-3. **Am Montag hingehen**, ohne die Öffnungszeiten zu prüfen (einige Monumente sind geschlossen).
+3. **Am Montag hingehen**, ohne die Öffnungszeiten zu prüfen (die städtischen Römerstätten sind montags geschlossen).
 
 ## In einem Satz
 

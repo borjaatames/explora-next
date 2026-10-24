@@ -39,7 +39,7 @@ noIncluye:
 
 puntoEncuentro:
   texto: "Punto de encuentro junto a la entrada del Park Güell que indica el operador en la confirmación. Llega 15 min antes — si llegas tarde, el grupo entra sin ti y no hay reembolso."
-  descripcionGuia: "El parque está en la colina del Carmel, lejos del centro. Lo más cómodo es metro Vallcarca (línea 3) o Lesseps (línea 3) + 10-15 min andando cuesta arriba; también para el bus 24 o el 116. Es la zona alta de Barcelona — calcula 35-40 min desde el centro. Confirma el punto exacto en el email del operador, porque varía según la opción reservada (estándar, grupo reducido, privado)."
+  descripcionGuia: "El parque está en la colina del Carmel, lejos del centro. Lo más cómodo es metro Vallcarca (línea 3) o Lesseps (línea 3) + 10-15 min andando cuesta arriba; también llegan los buses 24 y V19 (Ctra. del Carmel). Es la zona alta de Barcelona — calcula 35-40 min desde el centro. Confirma el punto exacto en el email del operador, porque varía según la opción reservada (estándar, grupo reducido, privado)."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 17
@@ -142,7 +142,7 @@ Tour guiado a la zona monumental del Park Güell con acceso fast-track. Producto
 
 **Punto de encuentro:** junto a la entrada del Park Güell que el operador indica en la confirmación de reserva. Cambia según la opción (estándar, grupo reducido o privado), así que confirma el email antes de salir.
 
-**Cómo llegar:** metro Vallcarca o Lesseps (línea 3), después 10-15 min andando cuesta arriba. También bus 24 o 116. Calcula 35-40 min desde el centro.
+**Cómo llegar:** metro Vallcarca o Lesseps (línea 3), después 10-15 min andando cuesta arriba. También buses 24 o V19 (Ctra. del Carmel). Calcula 35-40 min desde el centro.
 
 **Llega 15 minutos antes.** El operador es estricto: si llegas tarde, el grupo entra sin ti y no hay reembolso.
 

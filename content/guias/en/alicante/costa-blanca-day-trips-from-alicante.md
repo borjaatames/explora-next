@@ -5,7 +5,7 @@ categoria: "alicante"
 slug: "costa-blanca-day-trips-from-alicante"
 fecha: "2026-04-17"
 fecha_actualizacion: "2026-10-23"
-respuestaCorta: 'The best day trips from Alicante are **Altea and Calpe** by TRAM (changing in Benidorm), **Guadalest with the Algar Falls** (an hour by car, or an organised trip from €39), **Elche''s UNESCO palm grove** (20 minutes by train) and Benidorm. Plan one per day: Guadalest and Jávea each fill a full day.'
+respuestaCorta: 'The best day trips from Alicante are **Altea and Calpe** by TRAM (changing in Benidorm), **Guadalest with the Algar Falls** (an hour by car, or an organised trip from €47), **Elche''s UNESCO palm grove** (20 minutes by train) and Benidorm. Plan one per day: Guadalest and Jávea each fill a full day.'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -40,7 +40,7 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Guadalest, Altea and Algar Falls](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4.8★ (3,714) | €39 |
+| [Guadalest, Altea and Algar Falls](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4.8★ (3,714) | €47 |
 | [Return boat to Tabarca island](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
 | [Small-group countryside winery tour with 4 tastings](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4.9★ (445) | €65 |
 
@@ -83,7 +83,7 @@ Twenty minutes away, **Elche** holds the UNESCO **palm grove** and the Misteri. 
 - **Guadalest:** about an hour by car, the last stretch on the winding CV-70 from Benidorm. Paid car parks at the village entrance (€3–5). The castle and museums open from 10:00 until 18:00–20:00 depending on the season. Fuentes del Algar entry is €5–6, with swimming in cold-water pools.
 - **Peñón de Ifach:** about 1 h 30 up a path with a final rocky section. Access needs a **free advance booking** on the natural park's website; daily numbers are capped and the path closes in rain. Take 1.5 litres of water.
 - **Elche:** 20 minutes by Cercanías (line C-1, every 30 minutes). The Huerto del Cura garden costs €6 and the palm grove is free to walk; the Misteri is performed only on 14 and 15 August.
-- **Benidorm parks:** Terra Mítica from €28 and Mundomar from €21 booked online. The two share an access road and car park, so families often do Mundomar in the morning and Terra Mítica in the afternoon. Terra Mítica opens daily from mid-May to late September, with fewer days in spring and autumn.
+- **Benidorm parks:** Terra Mítica from €29 and Mundomar from €21 booked online. The two share an access road and car park, so families often do Mundomar in the morning and Terra Mítica in the afternoon. Terra Mítica opens daily from mid-May to late September, with fewer days in spring and autumn.
 - **Jávea:** no practical public transport from Alicante; by car, an hour on the AP-7. In August, access by car to coves such as Granadella and Portitxol closes once the car parks fill, often by mid-morning.
 
 ## Getting around

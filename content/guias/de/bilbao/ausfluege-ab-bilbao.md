@@ -30,9 +30,9 @@ actividades:
   - rioja-alavesa-bodegas-excursion-desde-bilbao
 ---
 
-**Bilbao ist eine perfekte Basis, um das Baskenland zu entdecken.** In weniger als einer Stunde erreichen Sie eine der wildesten Küsten Spaniens, San Sebastián, ein Biosphärenreservat, das historische Herz des Baskenlands und die Weinberge der Rioja Alavesa. Dieser Guide ordnet die besten Tagesausflüge danach, wie viel Zeit Sie haben und wie Sie hinkommen.
+**Bilbao ist eine perfekte Basis, um das Baskenland zu entdecken.** In weniger als einer Stunde erreichst du eine der wildesten Küsten Spaniens, San Sebastián, ein Biosphärenreservat, das historische Herz des Baskenlands und die Weinberge der Rioja Alavesa. Dieser Guide ordnet die besten Tagesausflüge danach, wie viel Zeit du hast und wie du hinkommst.
 
-Der bekannteste ist **Gaztelugatxe**, doch die Küste von Urdaibai und San Sebastián stehen ihm in nichts nach. Wählen Sie je nach Tag: Meer, Gastronomie, Natur oder Wein.
+Der bekannteste ist **Gaztelugatxe**, doch die Küste von Urdaibai und San Sebastián stehen ihm in nichts nach. Wähl je nach Tag: Meer, Gastronomie, Natur oder Wein.
 
 ## Die besten Ausflüge
 
@@ -47,7 +47,7 @@ Der bekannteste ist **Gaztelugatxe**, doch die Küste von Urdaibai und San Sebas
 
 ## San Juan de Gaztelugatxe
 
-45 Minuten entfernt liegt eine **Einsiedelei auf einem Felsen**, verbunden mit dem Festland durch eine Brücke und eine Treppe mit **241 Stufen**, weltberühmt geworden als Drachenstein in *Game of Thrones*. Der Zugang wird über eine **kostenlose Reservierung** geregelt; prüfen Sie das vor der Fahrt. Spektakuläre Ausblicke auf die Küste.
+45 Minuten entfernt liegt eine **Einsiedelei auf einem Felsen**, verbunden mit dem Festland durch eine Brücke und eine Treppe mit **241 Stufen**, weltberühmt geworden als Drachenstein in *Game of Thrones*. Der Zugang wird über eine **kostenlose Reservierung** geregelt; prüf das vor der Fahrt. Spektakuläre Ausblicke auf die Küste.
 
 ## San Sebastián
 
@@ -59,18 +59,18 @@ Eine Stunde entfernt steht **Donostia** für Eleganz und Gastronomie: die Bucht 
 
 ## Die Rioja Alavesa
 
-Eine Stunde entfernt liegen die Weinberge der **Rioja Alavesa**: ummauerte mittelalterliche Dörfer wie **Laguardia** und spektakuläre Weingüter (darunter das Hotel von Frank Gehry in Elciego). Weintourismus auf höchstem Niveau; buchen Sie den Besuch im Voraus.
+Eine Stunde entfernt liegen die Weinberge der **Rioja Alavesa**: ummauerte mittelalterliche Dörfer wie **Laguardia** und spektakuläre Weingüter (darunter das Hotel von Frank Gehry in Elciego). Weintourismus auf höchstem Niveau; buch den Besuch im Voraus.
 
 ## Wie man sich fortbewegt
 
-**Getxo und die Biskaya-Brücke** erreicht man mit der **Metro** (Linie 1). Für Gaztelugatxe, Urdaibai oder die Rioja Alavesa gibt ein **Auto** mehr Freiheit. **San Sebastián** und **Vitoria** haben komfortable Busse und Züge. Reservieren Sie Gaztelugatxe und die Weingüter im Voraus.
+**Getxo und die Biskaya-Brücke** erreicht man mit der **Metro** (Linie 1). Für Gaztelugatxe, Urdaibai oder die Rioja Alavesa gibt ein **Auto** mehr Freiheit. **San Sebastián** und **Vitoria** haben komfortable Busse und Züge. Reserviere Gaztelugatxe und die Weingüter im Voraus.
 
 ## Was wir NICHT empfehlen
 
-1. **Ohne Reservierung nach Gaztelugatxe fahren.** Der Zugang wird kontrolliert; ohne Reservierung kann Ihnen der Einlass verwehrt werden.
+1. **Ohne Reservierung nach Gaztelugatxe fahren.** Der Zugang wird kontrolliert; ohne Reservierung kann dir der Einlass verwehrt werden.
 2. **Zwei weit entfernte Ausflüge am selben Tag machen.** San Sebastián oder die Rioja füllen jeweils schon einen ganzen Tag.
-3. **Die 241 Stufen in Eile oder mit ungeeignetem Schuhwerk hinaufsteigen.** Nehmen Sie sich Zeit.
-4. **Das atlantische Wetter vergessen.** Nehmen Sie eine Regenjacke mit; der Sirimiri taucht ohne Vorwarnung auf.
+3. **Die 241 Stufen in Eile oder mit ungeeignetem Schuhwerk hinaufsteigen.** Nimm dir Zeit.
+4. **Das atlantische Wetter vergessen.** Nimm eine Regenjacke mit; der Sirimiri taucht ohne Vorwarnung auf.
 
 ## Typische Fehler
 
@@ -78,8 +78,8 @@ Eine Stunde entfernt liegen die Weinberge der **Rioja Alavesa**: ummauerte mitte
 
 1. **Den Besuch der Weingüter** in der Rioja Alavesa nicht reservieren.
 2. **Mundaka ohne Bermeo oder Gernika besuchen.** Sie liegen nah beieinander und lassen sich gut kombinieren.
-3. **Das Parken in Gaztelugatxe unterschätzen** in der Hochsaison; fahren Sie früh los.
+3. **Das Parken in Gaztelugatxe unterschätzen** in der Hochsaison; fahr früh los.
 
 ## In einem Satz
 
-Von Bilbao aus erreichen Sie in weniger als einer Stunde Gaztelugatxe, San Sebastián, die wilde Küste von Urdaibai und die Weinberge der Rioja Alavesa: das ganze Baskenland in Reichweite eines Tagesausflugs. Für die Stadt selbst siehe [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag).
+Von Bilbao aus erreichst du in weniger als einer Stunde Gaztelugatxe, San Sebastián, die wilde Küste von Urdaibai und die Weinberge der Rioja Alavesa: das ganze Baskenland in Reichweite eines Tagesausflugs. Für die Stadt selbst siehe [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag).

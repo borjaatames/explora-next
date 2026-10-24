@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
-imagen_portada: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
-imagen_alt: "Plaza del Callao and Gran Vía in Madrid lit up at night"
+imagen_portada: "/images/guias/navidad-madrid.jpg"
+imagen_alt: "The Plaza Mayor Christmas market in Madrid lit up at night, with the Christmas tree"
 tiempo_lectura: 3
 keywords:
   - "christmas in madrid"

@@ -1,7 +1,7 @@
 ---
 titulo: "Escapadas desde Valencia: Albufera, Sagunto, Xàtiva y más"
 descripcion: "Las mejores escapadas de un día desde Valencia: la Albufera, Sagunto, Xàtiva, Peñíscola y la Costa del Azahar. Cómo llegar, qué ver y cuánto tiempo dedicar."
-respuestaCorta: 'La escapada imprescindible desde Valencia es la **Albufera**, a 20 minutos: paseo en barca entre arrozales y paella en El Palmar. Para historia, **Sagunto** (30 minutos en Cercanías) y **Xàtiva** (45 minutos) tienen castillos espectaculares; para playa con castillo, **Peñíscola**, a hora y media. En excursión organizada, Guadalest, Altea y Fuentes del Algar desde 39 €.'
+respuestaCorta: 'La escapada imprescindible desde Valencia es la **Albufera**, a 20 minutos: paseo en barca entre arrozales y paella en El Palmar. Para historia, **Sagunto** (30 minutos en Cercanías) y **Xàtiva** (45 minutos) tienen castillos espectaculares; para playa con castillo, **Peñíscola**, a hora y media. En excursión organizada, Guadalest, Altea y Fuentes del Algar desde 55 €.'
 categoria: "valencia"
 slug: "escapadas-desde-valencia"
 fecha: "2026-04-08"
@@ -36,7 +36,7 @@ imagen_alt: "Guadalest y su embalse"
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Guadalest, Altea y Fuentes del Algar](/ciudades/valencia/actividades/excursion-guadalest-altea-fuentes-algar) | 4,7★ (553) | 39 € |
+| [Guadalest, Altea y Fuentes del Algar](/ciudades/valencia/actividades/excursion-guadalest-altea-fuentes-algar) | 4,7★ (553) | 55 € |
 | [Excursión a la Cala Granadella en Jávea](/ciudades/valencia/actividades/excursion-cala-granadella-javea) | — | 85 € |
 | [Excursión a las Cuevas de San José desde Valencia](/ciudades/valencia/actividades/excursion-cuevas-de-san-jose) | 4,6★ (785) | 55 € |
 | [Excursión a Montanejos en bus](/ciudades/valencia/actividades/excursion-montanejos-en-bus) | — | 42 € |
@@ -77,7 +77,7 @@ A una hora, **Requena** es tierra de vino y cava, con un casco medieval (la Vill
 ## Lo práctico: trenes, precios y tiempos
 
 - **Cercanías desde la Estación del Norte:** Sagunto, 30 minutos (línea C-6, cada 20-30 minutos, 4 €); Xàtiva, 45 minutos (C-2, cada 30 minutos, 5-6 €); Gandia, 1 hora (C-1). Con el bono de 10 viajes sale más barato que el billete sencillo, y los menores de 6 no pagan.
-- **La Albufera:** autobuses 24 y 25 de la EMT hasta El Palmar (45 minutos, 1,50 €; cada 25-35 minutos aproximadamente desde junio de 2026). Los paseos en barca salen del embarcadero del pueblo sin reserva, unos 40 minutos; el del atardecer es el que todos quieren, llega 30 minutos antes.
+- **La Albufera:** autobuses 24 y 25 de la EMT hasta El Palmar (45 minutos, 1,50 €; cada 25-35 minutos aproximadamente desde junio de 2026). Los paseos en barca salen de los embarcaderos del pueblo: el normal dura 40-45 minutos, cuesta unos 5 € por adulto y no necesita reserva; el del atardecer (alrededor de 1 hora, unos 7 €) es el que todos quieren, así que resérvalo o llega con tiempo.
 - **Castillo de Sagunto:** gratuito, abre de 10:00 a 20:00 en verano (18:00 en invierno) y cierra los lunes. Son 30 minutos de subida desde la estación. El teatro romano, al lado, también gratis.
 - **Castillo de Xàtiva:** 6 € (gratis los martes), 30 minutos de subida desde el casco o tren turístico por 4 €. Cierra los lunes. La subida a mediodía en verano es dura: ve a las 10:00.
 - **Peñíscola:** 1 h 30 en coche por la AP-7; el castillo del Papa Luna cuesta 5 € y en agosto la ciudadela se colapsa a partir de las 11:00. Sin coche, tren a Benicarló-Peñíscola (1 h 30) y autobús o taxi los 7 km finales.
@@ -93,7 +93,7 @@ A una hora, **Requena** es tierra de vino y cava, con un casco medieval (la Vill
 
 > **⚠️ Aviso:** los fallos que más vemos.
 
-1. **No reservar mesa en El Palmar** los fines de semana, o llegar tarde a la barca del atardecer (salen sin reserva, por orden de llegada).
+1. **No reservar mesa en El Palmar** los fines de semana, o ir a la barca del atardecer sin reservar (es la que primero se llena).
 2. **Olvidar que muchos castillos cierran a mediodía o lunes.** Comprueba horarios.
 3. **Subestimar el calor en verano** en los castillos sin sombra (Sagunto, Xàtiva); ve a primera hora.
 

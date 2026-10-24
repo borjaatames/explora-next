@@ -36,7 +36,7 @@ noIncluye:
 puntoEncuentro:
   texto: Punto de encuentro en la entrada principal del Park Güell, confirmado por el operador en el email de reserva. Llega
     15 min antes.
-  descripcionGuia: Metro Vallcarca o Lesseps (línea 3) + 10-15 min andando, o bus 24/116. Confirma punto exacto en email —
+  descripcionGuia: Metro Vallcarca o Lesseps (línea 3) + 10-15 min andando, o bus 24 o V19. Confirma punto exacto en email —
     varía según opción. Llega 15 min antes; el grupo entra sin ti si te retrasas.
   latitud: 41.4145
   longitud: 2.1527

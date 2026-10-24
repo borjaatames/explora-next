@@ -40,7 +40,7 @@ noIncluye:
 
 puntoEncuentro:
   texto: "Punto de encuentro en la entrada del Park Güell que el operador confirma en email. El guía espera con cartel de Amigo Tours."
-  descripcionGuia: "Como en el resto de tours, metro Vallcarca o Lesseps (línea 3) + 10-15 min andando cuesta arriba, o bus 24/116. Llega 15 min antes — algunas reseñas mencionan retrasos del operador en el inicio, así que asegúrate de estar puntual."
+  descripcionGuia: "Como en el resto de tours, metro Vallcarca o Lesseps (línea 3) + 10-15 min andando cuesta arriba, o bus 24 o V19. Llega 15 min antes — algunas reseñas mencionan retrasos del operador en el inicio, así que asegúrate de estar puntual."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 17

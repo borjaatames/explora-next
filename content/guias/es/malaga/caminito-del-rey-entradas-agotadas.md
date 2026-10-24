@@ -47,7 +47,7 @@ El Caminito del Rey tiene **aforo diario limitado** y entre 2016 y 2025 vendió 
 | Entrada con guía, si vas por tu cuenta | [Caminito del Rey: entrada con guía oficial](/ciudades/malaga/actividades/caminito-del-rey-entrada-guia-oficial), 4,6★ (16.892) | 30 € |
 | Con transporte desde Málaga | [Tour guiado con transporte y entrada](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga), 4,9★ (19.083) | 72 € |
 | Plan B de naturaleza | [Dólmenes de Antequera y El Torcal](/ciudades/malaga/actividades/antequera-dolmenes-torcal-excursion-desde-malaga), 4,7★ (102) | 65 € |
-| Plan B de pueblos | [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga), 4,7★ (8.742) | 35 € |
+| Plan B de pueblos | [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga), 4,7★ (8.742) | 44 € |
 
 ## 1. Vuelve a mirar la web oficial
 

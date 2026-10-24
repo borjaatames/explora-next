@@ -37,7 +37,7 @@ actividades:
 
 **Santiago lässt sich gut an einem Tag besichtigen**, auch wenn seine Atmosphäre zum Bleiben einlädt. Die Altstadt ist kompakt, ganz aus Stein und Arkaden, UNESCO-Weltkulturerbe, und alles dreht sich um die **Kathedrale**, das Ziel des Jakobswegs. Dieser Guide deckt das Wesentliche der galicischen Hauptstadt ab und macht deutlich, warum wer eine Nacht bleibt, weit mehr mitnimmt als der Durchreisende.
 
-Der Reiz von Santiago liegt nicht nur in seinen Monumenten, sondern in seiner Atmosphäre: Regen auf dem Stein, Dudelsäcke auf den Plätzen, gerührt ankommende Pilger auf dem Obradoiro und eine studentische Altstadt mit einem Leben, das man bei einem Express-Besuch nicht sieht. Diese Route ordnet den Tag so, dass Sie weder die Kathedrale noch die Seele der Stadt verpassen.
+Der Reiz von Santiago liegt nicht nur in seinen Monumenten, sondern in seiner Atmosphäre: Regen auf dem Stein, Dudelsäcke auf den Plätzen, gerührt ankommende Pilger auf dem Obradoiro und eine studentische Altstadt mit einem Leben, das man bei einem Express-Besuch nicht sieht. Diese Route ordnet den Tag so, dass du weder die Kathedrale noch die Seele der Stadt verpassen.
 
 ## Wann man Santiago besuchen sollte
 
@@ -49,7 +49,7 @@ Der Reiz von Santiago liegt nicht nur in seinen Monumenten, sondern in seiner At
 | Oktober bis April | Regnerisch | Grün und authentisch; Regenschirm mitbringen und warm anziehen |
 | Heiliges Jahr (Xacobeo) | Einzigartig | Wenn der 25. Juli auf einen Sonntag fällt; große Pilgerfahrt |
 
-> **⭐ Tipp:** In Santiago **regnet es viel** einen großen Teil des Jahres; das ist kein Makel des Klimas, sondern seine Essenz ("nasser Stein"). Nehmen Sie Regenschirm oder Regenjacke mit und verzichten Sie nicht darauf, hinauszugehen: Die Stadt im Regen ist wunderschön.
+> **⭐ Tipp:** In Santiago **regnet es viel** einen großen Teil des Jahres; das ist kein Makel des Klimas, sondern seine Essenz ("nasser Stein"). Nimm Regenschirm oder Regenjacke mit und verzichte nicht darauf, hinauszugehen: Die Stadt im Regen ist wunderschön.
 
 ## Anreise
 
@@ -66,27 +66,27 @@ Der Reiz von Santiago liegt nicht nur in seinen Monumenten, sondern in seiner At
 | 14:00 — 16:00 | Mittagessen |
 | 16:30 — 18:00 | San Martiño Pinario und Parque de la Alameda |
 
-**9:30 — Obradoiro und Kathedrale.** Beginnen Sie auf der **Plaza del Obradoiro**, vor der barocken Fassade der **Kathedrale**, wo die Pilger ankommen. Gehen Sie hinein, um das **Pórtico de la Gloria** von Meister Mateo zu sehen (restauriert, ein romanisches Juwel), und, wenn Ihr Besuch mit der Pilgermesse zusammenfällt und der Tag es erlaubt, den Flug des **Botafumeiro**, des riesigen Weihrauchfasses. Die Kathedrale ist täglich von 7:00 bis 21:00 Uhr kostenlos geöffnet; die Pilgermessen finden seit dem 16. Oktober 2026 bis auf Weiteres wegen Bauarbeiten in der nahen Kirche San Agustín statt. Der Platz wird vom Pazo de Raxoi und dem **Hostal dos Reis Católicos** eingerahmt (einst Pilgerhospital, heute Parador).
+**9:30 — Obradoiro und Kathedrale.** Beginne auf der **Plaza del Obradoiro**, vor der barocken Fassade der **Kathedrale**, wo die Pilger ankommen. Geh hinein, um das **Pórtico de la Gloria** von Meister Mateo zu sehen (restauriert, ein romanisches Juwel), und, wenn dein Besuch mit der Pilgermesse zusammenfällt und der Tag es erlaubt, den Flug des **Botafumeiro**, des riesigen Weihrauchfasses. Die Kathedrale ist täglich von 7:00 bis 21:00 Uhr kostenlos geöffnet; die Pilgermessen finden seit dem 16. Oktober 2026 bis auf Weiteres wegen Bauarbeiten in der nahen Kirche San Agustín statt. Der Platz wird vom Pazo de Raxoi und dem **Hostal dos Reis Católicos** eingerahmt (einst Pilgerhospital, heute Parador).
 
-**11:00 — Die vier Plätze.** Umrunden Sie die Kathedrale über ihre Plätze: die **Quintana** (mit der Porta Santa, die nur im Heiligen Jahr öffnet), **Praterías** (der Brunnen der Pferde) und die **Inmaculada**.
+**11:00 — Die vier Plätze.** Umrunde die Kathedrale über ihre Plätze: die **Quintana** (mit der Porta Santa, die nur im Heiligen Jahr öffnet), **Praterías** (der Brunnen der Pferde) und die **Inmaculada**.
 
-**12:00 — Altstadt.** Verlieren Sie sich in der **Rúa do Franco** und der **Rúa do Vilar**, mit Arkaden und voller Tabernas, sowie in den steinernen Gassen des Zentrums.
+**12:00 — Altstadt.** Verlier dich in der **Rúa do Franco** und der **Rúa do Vilar**, mit Arkaden und voller Tabernas, sowie in den steinernen Gassen des Zentrums.
 
-**13:00 — Mercado de Abastos.** Besuchen Sie den **Mercado de Abastos**, den nach der Kathedrale meistbesuchten Ort: Sie kaufen galicische Produkte, und an manchen Ständen werden sie direkt für Sie zubereitet.
+**13:00 — Mercado de Abastos.** Besuch den **Mercado de Abastos**, den nach der Kathedrale meistbesuchten Ort: Du kaufst galicische Produkte, und an manchen Ständen werden sie direkt für dich zubereitet.
 
 **14:00 — Mittagessen.** Zeit für Oktopus (siehe unten).
 
-**16:30 — San Martiño und die Alameda.** Werfen Sie einen Blick in das Kloster **San Martiño Pinario** und beenden Sie den Tag im **Parque de la Alameda**, mit dem **besten Blick** auf die Türme der Kathedrale bei Sonnenuntergang (das klassische Bild von der Carballeira de Santa Susana aus).
+**16:30 — San Martiño und die Alameda.** Wirf einen Blick in das Kloster **San Martiño Pinario** und beende den Tag im **Parque de la Alameda**, mit dem **besten Blick** auf die Türme der Kathedrale bei Sonnenuntergang (das klassische Bild von der Carballeira de Santa Susana aus).
 
 ## Wo man übernachtet
 
-Am besten ist die **Altstadt**, innerhalb der monumentalen Zone: alles zu Fuß erreichbar und mit dem nächtlichen Treiben der Tunas und Tabernas. Das Viertel **Ensanche** (bei der Alameda) ist praktisch und bietet mehr moderne Angebote. **Vermeiden** Sie es, weit vom Zentrum entfernt zu übernachten: Der Reiz von Santiago liegt darin, es zu Fuß zu erleben, besonders nachts, wenn sich die Tagesausflügler verzogen haben.
+Am besten ist die **Altstadt**, innerhalb der monumentalen Zone: alles zu Fuß erreichbar und mit dem nächtlichen Treiben der Tunas und Tabernas. Das Viertel **Ensanche** (bei der Alameda) ist praktisch und bietet mehr moderne Angebote. **Vermeide** es, weit vom Zentrum entfernt zu übernachten: Der Reiz von Santiago liegt darin, es zu Fuß zu erleben, besonders nachts, wenn sich die Tagesausflügler verzogen haben.
 
 ## Essen in Santiago
 
 Die galicische Küche ist pures Produkt. Unverzichtbar: **Pulpo á feira** (Oktopus mit Paprikapulver und Öl), **Meeresfrüchte** (Entenmuscheln, Schwertmuscheln, Jakobsmuscheln), die **galicische Empanada**, **Pimientos de Padrón**, **Lacón con grelos** (Schweinefleisch mit Rübengrün) und zum Nachtisch die **Tarta de Santiago** (Mandelkuchen mit dem Kreuz des Apostels). Zum Trinken **Albariño** aus den Rías Baixas oder **Ribeiro**, und als Digestif ein Orujo oder eine Queimada.
 
-> **⚠️ Hinweis:** Meiden Sie die touristischeren Tabernas der Rúa do Franco mit Anwerbern an der Tür. Der Mercado de Abastos und die Gassen hinter der Altstadt bieten deutlich mehr Qualität und ein besseres Preis-Leistungs-Verhältnis.
+> **⚠️ Hinweis:** Meide die touristischeren Tabernas der Rúa do Franco mit Anwerbern an der Tür. Der Mercado de Abastos und die Gassen hinter der Altstadt bieten deutlich mehr Qualität und ein besseres Preis-Leistungs-Verhältnis.
 
 ## Was wir NICHT empfehlen
 
@@ -112,4 +112,4 @@ Die galicische Küche ist pures Produkt. Unverzichtbar: **Pulpo á feira** (Okto
 
 ## In einem Satz
 
-Santiago an einem Tag bedeutet Kathedrale, nasser Stein und das Ende des Jakobswegs; mit einer weiteren Nacht nehmen Sie die einzigartige Atmosphäre der Tunas und Tabernas mit sowie einen Abstecher zu den **Rías Baixas** oder nach Fisterra, dem Ende der Welt.
+Santiago an einem Tag bedeutet Kathedrale, nasser Stein und das Ende des Jakobswegs; mit einer weiteren Nacht nimmst du die einzigartige Atmosphäre der Tunas und Tabernas mit sowie einen Abstecher zu den **Rías Baixas** oder nach Fisterra, dem Ende der Welt.

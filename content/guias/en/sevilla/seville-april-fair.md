@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: "ExploraSpain editorial team"
 publicada: true
 destacada: true
-imagen_portada: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp"
-imagen_alt: "Façade of the Real Maestranza bullring in Seville"
+imagen_portada: "/images/guias/feria-de-abril-sevilla.jpg"
+imagen_alt: "The entrance gateway of the 2019 Seville April Fair"
 tiempo_lectura: 4
 keywords:
   - "seville april fair 2027"

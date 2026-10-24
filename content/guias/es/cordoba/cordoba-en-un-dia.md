@@ -56,7 +56,7 @@ imagen_alt: "La Mezquita-Catedral y el Puente Romano de Córdoba sobre el Guadal
 | [Tour por la Mezquita y la Judería con entradas](/ciudades/cordoba/actividades/mezquita-juderia-tour-a-pie) | 4,5★ (2.200) | 34 € |
 | [Los auténticos patios cordobeses, tour de 2 horas con entradas](/ciudades/cordoba/actividades/patios-cordobeses-tour-con-entradas) | 4,3★ (1.106) | 19 € |
 | [Tour guiado de 3 horas a Medina Azahara](/ciudades/cordoba/actividades/medina-azahara-tour-guiado-3-horas) | 4,6★ (1.034) | 18 € |
-| [Espectáculo ecuestre en las Caballerizas Reales](/ciudades/cordoba/actividades/espectaculo-ecuestre-caballerizas-reales) | 4,5★ (2.910) | 19 € |
+| [Espectáculo ecuestre en las Caballerizas Reales](/ciudades/cordoba/actividades/espectaculo-ecuestre-caballerizas-reales) | 4,5★ (2.910) | 18,5 € |
 | [Espectáculo de flamenco en el Tablao Cardenal con bebida](/ciudades/cordoba/actividades/espectaculo-flamenco-tablao-cardenal) | 4,8★ (1.167) | 25 € |
 
 ## Cuándo ir y cómo llegar

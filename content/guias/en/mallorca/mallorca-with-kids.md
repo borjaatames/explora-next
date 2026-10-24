@@ -22,7 +22,7 @@ slugs:
   en: mallorca-with-kids
   de: mallorca-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Stay in the **north (Alcúdia)**, with shallow-water beaches, and don''t try to see the whole island. The must-dos: the **Sóller train** (half day from the north, from €56), the **Caves of Drach** with a boat concert (€54) and **Palma Aquarium** for a cloudy day (€31).'
+respuestaCorta: 'Stay in the **north (Alcúdia)**, with shallow-water beaches, and don''t try to see the whole island. The must-dos: the **Sóller train** (half day from the north, from €56), the **Caves of Drach** with a boat concert (€54) and **Palma Aquarium** for a cloudy day (€30.50).'
 actividades:
   - palma-aquarium-entrada
   - tren-soller-tranvia-medio-dia-desde-el-norte
@@ -53,7 +53,7 @@ faq:
 
 | Plan | Activity | From |
 | --- | --- | --- |
-| Cloudy day | [Palma Aquarium](/en/cities/mallorca/activities/palma-aquarium-entry-ticket), 4.5★ (3,744) | €31 |
+| Cloudy day | [Palma Aquarium](/en/cities/mallorca/activities/palma-aquarium-entry-ticket), 4.5★ (3,744) | €30.5 |
 | Sóller train from the north | [Sóller train and tram, half day](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north), 4.4★ (381) | €56 |
 | Train, tram and boat | [Island tour with the Sóller train](/en/cities/mallorca/activities/mallorca-island-tour-soller-train-tram-boat), 4.4★ (4,540) | €103 |
 | Caves with a boat concert | [Drach Caves from Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4.4★ (616) | €54 |

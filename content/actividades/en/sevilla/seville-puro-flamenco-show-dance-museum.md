@@ -39,7 +39,7 @@ noIncluye:
 - Food or dinner
 - Gratuities
 - Transport
-- Museum access in the show-only option (optional +€7)
+- Museum access in the show-only option (optional +€6)
 puntoEncuentro:
   texto: '**Calle Manuel Rojas Marcos 3** (41004 Seville, Barrio Santa Cruz). Access via the main entrance of the Flamenco
     Dance Museum. If you booked the combined option, the museum is open 11 AM-6 PM — last entry 6 PM. Arrive 15-20 min before
@@ -74,7 +74,7 @@ informacionImportante:
   - The 18th-c. Ecija patio has **«floating» chairs and orange trees** on the ceiling — unique visual effect
   - Daily sessions at **5, 7 and 8:45 PM** — verify availability when booking
   - '**Photos and video NOT allowed during the show** — keep your phone in your pocket, immersive format'
-  - Combined option with museum (+€7) — the Flamenco Dance Museum has 5 floors with permanent exhibitions on flamenco history
+  - Combined option with museum (+€6) — the Flamenco Dance Museum has 5 floors with permanent exhibitions on flamenco history
   - Arrive 15-20 min early to secure a good seat (not numbered)
   - 'Patio capacity is limited: ~60-80 seats — book in advance in July-August and weekends'
 accesibilidad: 'The historic Flamenco Dance Museum building has 5 floors with traditional stairs. The show patio is on the
@@ -93,22 +93,22 @@ preguntasFrecuentes:
     to preserving and showing the history and techniques of flamenco. The choreographies of the «Puro Flamenco» show bear
     her signature — they are pieces elaborated by her or her team, with characteristic artistic quality. For flamenco connoisseurs,
     seeing a show with Hoyos choreography is a recognized plus.'
-- pregunta: Is the combined option with the museum worth it (+€7)?
+- pregunta: Is the combined option with the museum worth it (+€6)?
   respuesta: 'Depends on your interest in flamenco history. **The Flamenco Dance Museum** has 5 floors: ground floor with
     entrance and shop; first with the «Bailar es soñar» (To dance is to dream) exhibition (personal items of iconic dancers);
     second with interactive room about flamenco palos (alegrías, soleá, bulerías, etc.); third with room dedicated to Cristina
     Hoyos and Antonio Gades; fourth with projection room and temporary exhibitions; fifth with terrace overlooking the neighborhood.
-    If you''re 1 day in Seville and only interested in the show, the show-only option (€32) is enough. If you have 2-3 days
-    and are interested in flamenco culture, the combined (+€7) is worth it — the museum is **«Tourist Interest Site of Andalusia»**,
+    If you''re 1 day in Seville and only interested in the show, the show-only option (€33) is enough. If you have 2-3 days
+    and are interested in flamenco culture, the combined (+€6) is worth it — the museum is **«Tourist Interest Site of Andalusia»**,
     the only flamenco venue with this distinction.'
 - pregunta: What's the difference vs. Casa de la Memoria and the other 3 majors?
   respuesta: '**Museo del Baile Flamenco (this):** 18th-c. Ecija patio + Cristina Hoyos signature, iconic artistic quality,
     6,456 reviews 4.8/5, from €33. RECOMMENDED if you value artistic quality + Cristina Hoyos figure. **Casa de la Memoria:**
-    15th-c. patio + only 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value being 2-3 m from
+    16th-c. patio + only 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €24. RECOMMENDED if you value being 2-3 m from
     the artists. **Teatro Flamenco Sevilla:** Large theater, maximum volume (18,292 reviews), comfortable tiered seats, from
     €27. RECOMMENDED if you want most booked + comfort. **Teatro Flamenco Triana:** Theater in Triana (historic gypsy neighborhood),
     4,363 reviews 4.7/5, from €25. RECOMMENDED if you want the Triana atmosphere. **Tablao El Arenal:** 17th-c. building next
-    to Maestranza, 50 years of history, dinner option, from €48. RECOMMENDED if you want tradition + dinner.'
+    to Maestranza, 50 years of history, dinner option, from €45. RECOMMENDED if you want tradition + dinner.'
 - pregunta: What are flamenco palos and which will I see?
   respuesta: '**Palos** are the different «genres» or styles of flamenco — each with its compass, melody and emotional character.
     The most common in tourist shows: **Alegrías** (festive, joyful, 12/8 rhythm); **Soleá** (solemn, deep, slow 12/8); **Bulerías**
@@ -125,7 +125,7 @@ preguntasFrecuentes:
 variantes:
 - nombre: Show Only
   descripcion: Puro Flamenco Show of 1 hour. No museum access.
-  precio: 32
+  precio: 33
 - nombre: Show + Museum
   descripcion: Puro Flamenco Show + access to the Flamenco Dance Museum (5 floors with exhibitions, accessible 11 AM-6 PM
     same day).
@@ -138,8 +138,8 @@ opinionEditorial: '**Flamenco with the Cristina Hoyos signature** — 6,456 revi
 
 
   **Price comparison:** from €33 it''s **the second most expensive** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
-  Triana €25, Casa de la Memoria €26, Teatro Flamenco Sevilla €27, Tablao El Arenal €48). The €5-6 premium over Casa
-  de la Memoria buys: Hoyos choreography + 18th-c. Ecija patio + museum combined option (+€7). The combined option (+€7 =
+  Triana €25, Casa de la Memoria €24, Teatro Flamenco Sevilla €25, Tablao El Arenal €45). The €9 premium over Casa
+  de la Memoria buys: Hoyos choreography + 18th-c. Ecija patio + museum combined option (+€6). The combined option (+€6 =
   €39 total) is the best deal if you have 2-3 days in Seville and are interested in flamenco culture in depth.
 
 
@@ -153,7 +153,7 @@ opinionEditorial: '**Flamenco with the Cristina Hoyos signature** — 6,456 revi
   elaborate choreography, travellers with 2-3 days in Seville who want to combine show + museum, couples preferring careful
   atmosphere in historic patio, visitors who value immersive format without smartphone distractions. **Who it''s NOT for:**
   those wanting maximum intimacy at 2-3 m from the artist (Casa de la Memoria is better — only 2 rows), those wanting most
-  booked + affordable (Teatro Flamenco Sevilla with 18,292 reviews at €27), those wanting historic gypsy neighborhood vibe
+  booked + affordable (Teatro Flamenco Sevilla with 18,292 reviews at €25), those wanting historic gypsy neighborhood vibe
   (Teatro Flamenco Triana), those who value being able to take photos (not allowed here), strict wheelchair users.
 
   '
@@ -202,11 +202,11 @@ A **1-hour flamenco show with Cristina Hoyos choreographies** in the 18th-c. Eci
 - **Cristina Hoyos choreographies** — the museum founder is one of the most important Spanish flamenco dancers of the 20th century (Carlos Saura's «Blood Wedding», «Carmen», «El amor brujo» films).
 - **3 daily sessions:** 5, 7 and 8:45 PM.
 - **Professional theatrical lighting + careful sound** — more theatrical format than traditional tablao but more intimate than a large theater.
-- **Combined option with museum** (+€7 = €39 total) — 5 floors with exhibitions on flamenco history, declared «Tourist Interest Site of Andalusia».
+- **Combined option with museum** (+€6 = €39 total) — 5 floors with exhibitions on flamenco history, declared «Tourist Interest Site of Andalusia».
 
 ## How it works
 
-**Book your date, session and option** (Show Only €32 or Show + Museum €39).
+**Book your date, session and option** (Show Only €33 or Show + Museum €39).
 
 **If you booked the combined option**, you can visit the museum between 11 AM and 6 PM on the same day of your reservation. The museum has 5 floors — allow 1-1.5 hours for a leisurely visit.
 
@@ -231,7 +231,7 @@ A **1-hour flamenco show with Cristina Hoyos choreographies** in the 18th-c. Eci
 ## Who I do NOT recommend it to
 
 - Those wanting **maximum intimacy** at 2-3 m from the artist (Casa de la Memoria — only 2 rows).
-- Those wanting **most booked + affordable** (Teatro Flamenco Sevilla with 18,292 reviews at €27).
+- Those wanting **most booked + affordable** (Teatro Flamenco Sevilla with 18,292 reviews at €25).
 - Those wanting **historic gypsy neighborhood vibe** (Teatro Flamenco Triana).
 - Those who value being able to **take photos** during the show (not allowed here).
 - **Strict wheelchair users** (18th-c. historic building with stairs).

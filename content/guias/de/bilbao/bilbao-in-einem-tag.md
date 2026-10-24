@@ -62,17 +62,17 @@ Der Reiz Bilbaos liegt im Kontrast: Gehrys futuristisches Titan auf der einen Se
 | 16:30 — 17:30 | Mercado de la Ribera und Ensanche |
 | 18:00 | Standseilbahn Artxanda (Panoramablick) |
 
-**9:30 — Guggenheim-Museum.** Beginnen Sie mit dem **Guggenheim** von Frank Gehry, dem Titangebäude, das die Stadt veränderte. Schon von außen, ohne hineinzugehen, genießen Sie **„Puppy“** (den Blumenhund von Jeff Koons), die Spinne **„Maman“** von Louise Bourgeois und die Nebelskulptur. Im Inneren sollten Sie „The Matter of Time“ von Richard Serra nicht verpassen. Rechnen Sie mit 2 bis 2,5 Stunden.
+**9:30 — Guggenheim-Museum.** Beginne mit dem **Guggenheim** von Frank Gehry, dem Titangebäude, das die Stadt veränderte. Schon von außen, ohne hineinzugehen, genießt du **„Puppy“** (den Blumenhund von Jeff Koons), die Spinne **„Maman“** von Louise Bourgeois und die Nebelskulptur. Im Inneren solltest du „The Matter of Time“ von Richard Serra nicht verpassen. Rechne mit 2 bis 2,5 Stunden.
 
-**12:00 — Die Ría.** Spazieren Sie entlang der **Ría del Nervión**, überqueren Sie die weiße **Zubizuri**-Brücke von Calatrava und genießen Sie das neu erfundene Bilbao am Wasser.
+**12:00 — Die Ría.** Spaziere entlang der **Ría del Nervión**, überquere die weiße **Zubizuri**-Brücke von Calatrava und genieße das neu erfundene Bilbao am Wasser.
 
-**12:30 — Altstadt.** Überqueren Sie zur **Altstadt** und ihren **Sieben Straßen** (Zazpi Kaleak), dem mittelalterlichen Ursprung der Stadt, mit der Kathedrale Santiago und dem Teatro Arriaga.
+**12:30 — Altstadt.** Wechsle hinüber in die **Altstadt** und ihre **Sieben Straßen** (Zazpi Kaleak), den mittelalterlichen Ursprung der Stadt, mit der Kathedrale Santiago und dem Teatro Arriaga.
 
 **14:00 — Pintxos.** Zeit für die Theke (siehe unten): die arkadengesäumte **Plaza Nueva** ist das Epizentrum.
 
-**16:30 — Markt und Ensanche.** Schauen Sie im **Mercado de la Ribera** vorbei, einer der größten überdachten Markthallen Europas, und wechseln Sie in den **Ensanche** (die Gran Vía, die Plaza Moyúa und das Kulturzentrum **Azkuna Zentroa** von Philippe Starck).
+**16:30 — Markt und Ensanche.** Schau im **Mercado de la Ribera** vorbei, einer der größten überdachten Markthallen Europas, und wechsle in den **Ensanche** (die Gran Vía, die Plaza Moyúa und das Kulturzentrum **Azkuna Zentroa** von Philippe Starck).
 
-**18:00 — Artxanda.** Fahren Sie mit der **Standseilbahn Artxanda** zum besten Panoramablick auf das zwischen Bergen eingebettete Bilbao, ideal bei Sonnenuntergang.
+**18:00 — Artxanda.** Fahr mit der **Standseilbahn Artxanda** zum besten Panoramablick auf das zwischen Bergen eingebettete Bilbao, ideal bei Sonnenuntergang.
 
 ## Umgebung
 
@@ -80,13 +80,13 @@ Eine halbe Stunde entfernt liegt **San Juan de Gaztelugatxe** (Drachenstein aus 
 
 ## Wo man übernachtet
 
-Am praktischsten ist die **Altstadt** (Atmosphäre und Pintxos direkt vor der Tür) oder der **Ensanche** (moderner, in der Nähe des Guggenheim und gut angebunden). Beide sind mit der Metro und einem Spaziergang an der Ría verbunden. **Vermeiden Sie es**, weit vom Zentrum entfernt zu übernachten: Bilbao lebt man zu Fuß zwischen den beiden Ufern.
+Am praktischsten ist die **Altstadt** (Atmosphäre und Pintxos direkt vor der Tür) oder der **Ensanche** (moderner, in der Nähe des Guggenheim und gut angebunden). Beide sind mit der Metro und einem Spaziergang an der Ría verbunden. **Vermeide es**, weit vom Zentrum entfernt zu übernachten: Bilbao lebt man zu Fuß zwischen den beiden Ufern.
 
 ## Essen in Bilbao
 
-Bilbao zählt zu den gastronomischen Hauptstädten Europas: kommen Sie hungrig. Der Star ist der **Pintxo**, den man hier von Theke zu Theke (Txikiteo) rund um die **Plaza Nueva**, die Altstadt und den Ensanche isst. Verpassen Sie nicht die **Gilda** (den Pintxo aus Peperoni, Olive und Sardelle), den **Bacalao al pil-pil** oder **a la vizcaína** (Kabeljau), die **Txuleta** (gegrilltes Rib-Steak), den **Marmitako** (Thunfischeintopf) und die **Kokotxas**. Zum Trinken **Txakoli** (aus großer Höhe eingeschenkt) oder ein Rioja Alavesa von nebenan.
+Bilbao zählt zu den gastronomischen Hauptstädten Europas: komm hungrig. Der Star ist der **Pintxo**, den man hier von Theke zu Theke (Txikiteo) rund um die **Plaza Nueva**, die Altstadt und den Ensanche isst. Verpass nicht die **Gilda** (den Pintxo aus Peperoni, Olive und Sardelle), den **Bacalao al pil-pil** oder **a la vizcaína** (Kabeljau), die **Txuleta** (gegrilltes Rib-Steak), den **Marmitako** (Thunfischeintopf) und die **Kokotxas**. Zum Trinken **Txakoli** (aus großer Höhe eingeschenkt) oder ein Rioja Alavesa von nebenan.
 
-> **⚠️ Hinweis:** Die besten Pintxos liegen nicht immer sichtbar auf der Theke; viele werden warm und auf Bestellung zubereitet. Fragen Sie nach der Tafel des Tages und wechseln Sie zwischen mehreren Bars, statt in einer zu bleiben.
+> **⚠️ Hinweis:** Die besten Pintxos liegen nicht immer sichtbar auf der Theke; viele werden warm und auf Bestellung zubereitet. Frag nach der Tafel des Tages und wechsle zwischen mehreren Bars, statt in einer zu bleiben.
 
 ## Was wir NICHT empfehlen
 

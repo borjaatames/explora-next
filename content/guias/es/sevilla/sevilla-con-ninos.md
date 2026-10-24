@@ -61,11 +61,11 @@ faq:
 | Plan a cubierto con calor | [Acuario de Sevilla](/ciudades/sevilla/actividades/acuario-sevilla-entrada), 4,6★ (2.295) | 17 € |
 | Ver Sevilla sin andar | [Tour privado en tuk tuk eléctrico](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla), 1 h, hasta 4 personas | 71 € por grupo |
 | Ver toda Sevilla, con Cartuja y Macarena | [Gran tour privado en tuk tuk de 2 horas](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla-2-horas), hasta 4 personas | 124 € por grupo |
-| Paseo en barco por el río | [Crucero guiado por el Guadalquivir](/ciudades/sevilla/actividades/sevilla-guadalquivir-river-boat-tour), 4,7★ (1.746) | 26 € |
+| Paseo en barco por el río | [Crucero guiado por el Guadalquivir](/ciudades/sevilla/actividades/sevilla-guadalquivir-river-boat-tour), 4,7★ (1.746) | 25 € |
 | Adolescentes (desde 8 años) | [Kayak por el Guadalquivir](/ciudades/sevilla/actividades/kayak-guadalquivir-sevilla-alquiler), 4,5★ (777) | 17 € |
 | En bici (niños que pedalean bien) | [Tour en bici por Sevilla (en inglés)](/ciudades/sevilla/actividades/tour-bici-sevilla-grupo), 4,9★ (1.585) | 35 € |
-| Mirador al atardecer | [Setas de Sevilla con mirador 360°](/ciudades/sevilla/actividades/setas-sevilla-metropol-parasol-entrada-mirador), 4,6★ (12.014) | 18 € |
-| Alcázar sin colas | [Real Alcázar con guía y acceso sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 39 € |
+| Mirador al atardecer | [Setas de Sevilla con mirador 360°](/ciudades/sevilla/actividades/setas-sevilla-metropol-parasol-entrada-mirador), 4,6★ (12.014) | 16 € |
+| Alcázar sin colas | [Real Alcázar con guía y acceso sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
 | Fotos imposibles a cubierto | [Museo de las Ilusiones](/ciudades/sevilla/actividades/museo-ilusiones-sevilla-entrada), 4,2★ (1.352) | 15 € |
 
 ## Qué funciona según la edad

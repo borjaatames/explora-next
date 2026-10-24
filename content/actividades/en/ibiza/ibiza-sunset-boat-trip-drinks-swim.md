@@ -8,7 +8,7 @@ slugs:
   en: ibiza-sunset-boat-trip-drinks-swim
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 49
+precioDesde: 56
 moneda: EUR
 idiomas:
 - en

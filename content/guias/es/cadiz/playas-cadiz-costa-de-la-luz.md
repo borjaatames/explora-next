@@ -1,7 +1,7 @@
 ---
 titulo: "Playas de Cádiz y la Costa de la Luz: las mejores y cómo elegir"
 descripcion: "Las mejores playas de Cádiz y la Costa de la Luz: La Caleta, La Victoria, Bolonia, Zahara, Caños de Meca y Tarifa. Cuáles elegir, el viento de levante y consejos."
-respuestaCorta: 'Las mejores playas de Cádiz son **La Caleta** y La Victoria en la ciudad y, en la Costa de la Luz, **Bolonia** (duna y ruinas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar y Tarifa. Elige según el viento: con **poniente** vale cualquier playa abierta; con **levante** fuerte, una cala protegida. El catamarán al atardecer desde Cádiz sale desde 25 €.'
+respuestaCorta: 'Las mejores playas de Cádiz son **La Caleta** y La Victoria en la ciudad y, en la Costa de la Luz, **Bolonia** (duna y ruinas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar y Tarifa. Elige según el viento: con **poniente** vale cualquier playa abierta; con **levante** fuerte, una cala protegida. El catamarán al atardecer desde Cádiz sale desde 24,50 €.'
 categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
 fecha: "2026-05-07"
@@ -36,7 +36,7 @@ actividades:
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 25 € |
+| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 24,5 € |
 | [Barbate: avistamiento de delfines y ballenas en el cabo Trafalgar](/ciudades/cadiz/actividades/avistamiento-delfines-trafalgar-barbate) | 4,1★ (792) | 50 € |
 | [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
 

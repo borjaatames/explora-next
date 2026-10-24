@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-imagen_portada: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp"
-imagen_alt: "Fachada de la Real Maestranza de Caballería de Sevilla"
+imagen_portada: "/images/guias/feria-de-abril-sevilla.jpg"
+imagen_alt: "Portada de la Feria de Abril de Sevilla de 2019"
 tiempo_lectura: 4
 keywords:
   - "feria de abril 2027"

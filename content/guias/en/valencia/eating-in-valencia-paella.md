@@ -33,7 +33,7 @@ imagen_alt: "Valencian paella in its pan"
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €29 |
+| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €28.5 |
 
 The tasting lasts 1.5 hours at the Olhöps craft beer bar in Ruzafa: 4 Valencian and Spanish craft beers, each paired with a tapa made from Ruzafa Market produce. It's a good evening plan, when paella is off the table. Adults only (18+), with free cancellation up to 24 hours before.
 

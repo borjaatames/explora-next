@@ -5,7 +5,7 @@ categoria: "malaga"
 slug: "day-trips-from-malaga"
 fecha: "2026-04-13"
 fecha_actualizacion: "2026-10-23"
-respuestaCorta: 'The best day trips from Málaga are **Nerja and Frigiliana** (an hour by bus, caves from €16), **Antequera and El Torcal** (45 minutes), **Ronda** (about 2 hours by bus) and **Gibraltar** (bring a passport or EU ID). Do one per day: Ronda and Gibraltar each need a full day, and organised trips start at €35.'
+respuestaCorta: 'The best day trips from Málaga are **Nerja and Frigiliana** (an hour by bus, caves from €15.50), **Antequera and El Torcal** (45 minutes), **Ronda** (about 2 hours by bus) and **Gibraltar** (bring a passport or EU ID). Do one per day: Ronda and Gibraltar each need a full day, and organised trips start at €35.'
 autor: "ExploraSpain Team"
 publicada: true
 destacada: false
@@ -42,7 +42,7 @@ imagen_alt: "Frigiliana, a white village in the Axarquía"
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Caminito del Rey guided tour](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
-| [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 4.7★ (8,742) | €35 |
+| [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 4.7★ (8,742) | €44 |
 | [Nerja Caves, Nerja and Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4.6★ (3,192) | €69 |
 | [Gibraltar](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga) | 4.6★ (5,510) | €35 |
 | [Córdoba with Mosque ticket](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | 4.5★ (753) | €35 |
@@ -88,7 +88,7 @@ An hour and a quarter away, the **Rock of Gibraltar** (British territory) offers
 
 - **Buses from Málaga bus station (next to María Zambrano):** to Nerja, 1 hour and €5–6, every 30–60 minutes; to Marbella, 45 minutes and €8–9; to Antequera, 1 hour and €6; to Ronda, 2 hours and €12–14 (as of 2026). For Mijas Pueblo, take Cercanías C-1 to Fuengirola and then bus M-122. Frigiliana has an hourly local bus from Nerja.
 - **Ronda by train:** there's no direct train, and in 2026 Renfe has been running replacement buses on the Antequera–Ronda section while the line is repaired. Check Renfe for your date; the direct bus is usually simpler.
-- **Nerja Caves:** from €16 per adult with audio guide, free for under-6s, with timed slots that sell out at Easter and in August. The visit takes 45 minutes and it's 19 °C inside: bring a light jacket.
+- **Nerja Caves:** from €15.50 per adult with audio guide, free for under-6s, with timed slots that sell out at Easter and in August. The visit takes 45 minutes and it's 19 °C inside: bring a light jacket.
 - **Antequera Dolmens:** free entry, closed on Mondays. **El Torcal:** free, but on weekend and holiday mornings car access to the top is restricted once the upper car park fills, and you ride a shuttle bus from the lower car park (€2 return). The green trail takes 45 minutes; the yellow, about 2 hours.
 - **Gibraltar:** EU citizens can cross with a national ID card; everyone else needs a passport. Leave the car in La Línea (car parks €10–20 a day) and walk across: queues by car at the border can take an hour. Gibraltar uses pounds; euros are accepted at a poor rate, so pay by card. The cable car and the Upper Rock nature reserve are paid separately, about £20 each.
 - **Mijas:** skip the donkey taxis; they're a tourist gimmick with no animal-welfare guarantees. The village takes about an hour on foot.

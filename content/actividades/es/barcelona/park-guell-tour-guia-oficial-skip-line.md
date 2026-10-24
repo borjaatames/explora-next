@@ -38,7 +38,7 @@ noIncluye:
 
 puntoEncuentro:
   texto: "Ctra. del Carmel, 23, 08024 Barcelona — junto a la entrada del parque. Importante: NO PODRÁS cruzar el parque hasta que encuentres al guía. Si no llegas a tiempo, no podrás entrar por tu cuenta ni unirte al grupo después — no reembolsable."
-  descripcionGuia: "Metro Vallcarca o Lesseps (línea 3) + 10-15 min andando cuesta arriba. Bus 24 o 116. La advertencia operativa importa: si llegas tarde, NO puedes entrar al parque por tu cuenta (el grupo ha pasado el control y tú quedas fuera). Llega 15 min antes."
+  descripcionGuia: "Metro Vallcarca o Lesseps (línea 3) + 10-15 min andando cuesta arriba. Bus 24 o V19 (Ctra. del Carmel). La advertencia operativa importa: si llegas tarde, NO puedes entrar al parque por tu cuenta (el grupo ha pasado el control y tú quedas fuera). Llega 15 min antes."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 17

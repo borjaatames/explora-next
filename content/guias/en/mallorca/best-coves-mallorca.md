@@ -24,6 +24,7 @@ slugs:
 respuestaCorta: 'The best coves in Mallorca are **Es Trenc** (wild, Caribbean-style), **Cala Mondragó** (natural park, ideal for families), **Caló des Moro** (tiny and photogenic) and **Sa Calobra** in the Tramuntana. In July and August arrive **before 9:00 or after 18:00**, or go by boat: the Sóller–Sa Calobra trip starts **from €35**.'
 reservasArriba: true
 actividades:
+  - formentor-barco-alcudia-faro-playa
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - calo-des-moro-barco-esnorquel
@@ -70,7 +71,7 @@ Not all are for the same thing: some are long and family-friendly, others small 
 
 ## Getting there: parking and access rules
 
-- **Formentor (2026 rules):** from 15 May to 18 October, 10:00 to 22:00, private cars may drive to the Formentor beach car park only until it is full; then a barrier closes the road. The stretch to the lighthouse is for authorised vehicles only, with fines for anyone else. The alternative is TIB bus line 334 from Alcúdia and Port de Pollença, with free parking on the Ma-2200 service road in Port de Pollença. Stopping on the road outside marked bays is also fined.
+- **Formentor (2026 rules):** from 15 May to 18 October, 10:00 to 22:00, private cars may drive to the Formentor beach car park only until it is full; then a barrier closes the road. The stretch to the lighthouse is for authorised vehicles only, with fines for anyone else. The alternative is TIB bus line 334 from Alcúdia and Port de Pollença, with free parking on the Ma-2200 service road in Port de Pollença. Stopping on the road outside marked bays is also fined. Another option is the [speedboat trip from Alcúdia](/en/cities/mallorca/activities/formentor-boat-trip-alcudia-lighthouse-beach), which stops at the beach and passes below the lighthouse.
 - **Caló des Moro:** the streets leading to the cove are reserved for residents' vehicles. Park at the entrance to Cala Llombards and walk about 1.5 km (20–25 minutes); the final descent is over rocks. Not for pushchairs or reduced mobility.
 - **Sa Calobra without the bends:** the boat from Port de Sóller (1 hour under the cliffs, trips of 4–5 hours with time ashore) saves you the 12 km of the island's most twisting road.
 - **Es Trenc and Mondragó:** the car parks closest to the sand fill before 11:00 in July and August. Never leave the car on the verge or a private track.

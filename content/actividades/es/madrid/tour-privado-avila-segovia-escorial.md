@@ -9,7 +9,7 @@ slugs:
   en: private-avila-segovia-escorial-tour
 duracion: 11 horas
 duracionMinutos: 660
-precioDesde: 460
+precioDesde: 1731
 moneda: EUR
 idiomas:
 - es

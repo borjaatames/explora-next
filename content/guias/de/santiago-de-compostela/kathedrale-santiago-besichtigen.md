@@ -26,11 +26,18 @@ actividades:
   - catedral-santiago-museo-tour-guiado
   - catedral-museo-casco-antiguo-santiago
   - cubiertas-catedral-santiago-tour
+opciones:
+  - ficha: catedral-santiago-museo-tour-guiado
+    etiqueta: Am günstigsten
+  - ficha: cubiertas-catedral-santiago-tour
+    etiqueta: Über die Dächer
+  - ficha: santiago-portico-gloria-catedral-tour
+    etiqueta: Mit Altstadt
 ---
 
 **Die Kathedrale von Santiago ist das Ziel des Jakobswegs und das Herz der Stadt**, doch ihr Besuch verwirrt viele: Kostet der Eintritt? Was ist der Botafumeiro? Kann man aufs Dach steigen? Die kurze Antwort ist: **Das Betreten des Gotteshauses ist kostenlos**, aber es gibt kostenpflichtige Erlebnisse, die sich sehr lohnen. Dieser Guide erklärt, was man sehen, was man buchen und wie man sich organisieren sollte.
 
-Der Schlüssel: Trennen Sie das Kostenlose (das Gotteshaus, das Grab des Apostels) von den Sonderbesichtigungen (Pórtico de la Gloria, Dächer, Museum), für die ein Ticket und manchmal eine vorherige Reservierung nötig sind.
+Der Schlüssel: Trenn das Kostenlose (das Gotteshaus, das Grab des Apostels) von den Sonderbesichtigungen (Pórtico de la Gloria, Dächer, Museum), für die ein Ticket und manchmal eine vorherige Reservierung nötig sind.
 
 ## Was kostenlos ist
 
@@ -49,7 +56,15 @@ Der Schlüssel: Trennen Sie das Kostenlose (das Gotteshaus, das Grab des Apostel
 | Dächer | Geführte Tour über das Granitdach, mit Ausblick |
 | Kathedralmuseum | Kreuzgang, Schatzkammer, Krypta und Pazo de Xelmírez |
 
-> **⭐ Tipp:** Das **Pórtico de la Gloria** und die **Dächer** besichtigt man mit **Ticket und Zeitfenster**, und sie sind in der Hochsaison schnell ausverkauft. Buchen Sie sie online im Voraus; es sind die beiden lohnendsten Erlebnisse über das Gotteshaus hinaus.
+> **⭐ Tipp:** Das **Pórtico de la Gloria** und die **Dächer** besichtigt man mit **Ticket und Zeitfenster**, und sie sind in der Hochsaison schnell ausverkauft. Buch sie online im Voraus; es sind die beiden lohnendsten Erlebnisse über das Gotteshaus hinaus.
+
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| [Kathedrale und Museum ohne Anstehen](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 25 € | Guide, Tickets für Kathedrale und Museum; Pórtico de la Gloria je nach gewählter Option | Wer Kathedrale und Museum mit Erklärungen sehen will |
+| [Dächer und Carraca-Turm](/en/cities/santiago-de-compostela/activities/santiago-cathedral-rooftops-tour) | 37 € | Zugang zu den Dächern und zum Carraca-Turm, Kathedralmuseum, Guide auf Spanisch | Wer den Blick vom Dach über die Altstadt will |
+| [Pórtico de la Gloria, Kathedrale und Altstadt](/en/cities/santiago-de-compostela/activities/santiago-portico-of-glory-cathedral-city-tour) | 40 € | Eintritt zum Pórtico de la Gloria, offizieller Guide, Kathedrale und Altstadt | Wer das Pórtico und einen Altstadtrundgang verbinden will |
 
 ## Der Botafumeiro
 
@@ -59,21 +74,21 @@ Der **Botafumeiro** ist das riesige Weihrauchfass (über 50 kg), das acht *Tirab
 
 Es handelt sich um die tägliche Messe (üblicherweise um **12:00 Uhr**, mit einer weiteren am Nachmittag), in der der Camino seinen Höhepunkt findet. Sie füllt die Kathedrale: Wer einen Platz möchte, sollte **deutlich früher** kommen. Während der Messe ist keine touristische Besichtigung möglich.
 
-> **Hinweis:** Seit **Freitag, dem 16. Oktober 2026**, finden die Pilgermessen (9:30, 12:00 und 19:30 Uhr) bis auf Weiteres in der nahen **Kirche San Agustín** statt, weil in der Hauptkapelle der Kathedrale gebaut wird. Nur die Messe um 7:30 Uhr bleibt in der Kathedrale. Die Besichtigungen sind nicht betroffen. Ob der Botafumeiro während der Arbeiten schwingt, geht aus der Mitteilung nicht hervor: Prüfen Sie das vorher auf der Website der Kathedrale.
+> **Hinweis:** Seit **Freitag, dem 16. Oktober 2026**, finden die Pilgermessen (9:30, 12:00 und 19:30 Uhr) bis auf Weiteres in der nahen **Kirche San Agustín** statt, weil in der Hauptkapelle der Kathedrale gebaut wird. Nur die Messe um 7:30 Uhr bleibt in der Kathedrale. Die Besichtigungen sind nicht betroffen. Ob der Botafumeiro während der Arbeiten schwingt, geht aus der Mitteilung nicht hervor: Prüf das vorher auf der Website der Kathedrale.
 
 ## Praktische Tipps
 
 - **Angemessen kleiden:** Es ist ein aktiv genutztes Gotteshaus.
 - **Große Rucksäcke sind im Inneren nicht erlaubt**; in der Nähe gibt es eine Gepäckaufbewahrung für Pilger.
-- Kombinieren Sie die Kathedrale mit dem Rest der Altstadt in [Santiago an einem Tag](/de/guides/santiago-de-compostela/santiago-in-einem-tag).
+- Kombiniere die Kathedrale mit dem Rest der Altstadt in [Santiago an einem Tag](/de/guides/santiago-de-compostela/santiago-in-einem-tag).
 - Die **Porta Santa** (Quintana) öffnet nur im **Heiligen Jahr**.
 
 ## Was wir NICHT empfehlen
 
-1. **Davon ausgehen, den Botafumeiro zu sehen.** Er fliegt nur bei bestimmten Messen und Terminen; prüfen Sie das vorher.
-2. **Pünktlich um 12:00 Uhr zur Messe kommen.** Sie wird voll sein; gehen Sie früher und prüfen Sie, wo sie stattfindet.
+1. **Davon ausgehen, den Botafumeiro zu sehen.** Er fliegt nur bei bestimmten Messen und Terminen; prüf das vorher.
+2. **Pünktlich um 12:00 Uhr zur Messe kommen.** Sie wird voll sein; geh früher und prüf, wo sie stattfindet.
 3. **Das Pórtico de la Gloria auslassen, weil man nicht gebucht hat.** Es ist das Juwel der Kathedrale.
-4. **Mit einem riesigen Rucksack auftauchen.** Man lässt Sie nicht hinein; nutzen Sie die Gepäckaufbewahrung.
+4. **Mit einem riesigen Rucksack auftauchen.** Man lässt dich nicht hinein; nutz die Gepäckaufbewahrung.
 
 [actividad: catedral-museo-casco-antiguo-santiago]
 

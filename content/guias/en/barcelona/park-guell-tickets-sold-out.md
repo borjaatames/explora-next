@@ -21,7 +21,7 @@ slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out
 reservasArriba: true
-respuestaCorta: 'Official tickets (€18) go on sale **up to three months ahead**, and capacity is **700 people every half hour**. If they are sold out, check other slots and days on the official website, try a **resale ticket** (from €23) or a **tour with entry included**. Even with no ticket, **most of the park is free to enter**: you only pay for the monumental zone.'
+respuestaCorta: 'Official tickets (€18) go on sale **up to three months ahead**, and capacity is **700 people every half hour**. If they are sold out, check other slots and days on the official website, try a **resale ticket** (from €21.50) or a **tour with entry included**. Even with no ticket, **most of the park is free to enter**: you only pay for the monumental zone.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
@@ -36,16 +36,23 @@ faq:
   respuesta: 'Not as a tourist. From 7:00 to 9:30 and from 20:00 to 22:00 the park is reserved for local residents with a card and for people registered in Barcelona with the Passi Verd. Tourist slots run from 9:30 to 19:30.'
 - pregunta: What can I see at Park Güell without a ticket?
   respuesta: 'The ticket only covers the monumental zone: the dragon stairway, the Hypostyle Hall, the square with the serpentine bench and the porticoes. The rest of the park, with its woodland paths and the Turó de les Tres Creus viewpoint, is free.'
+opciones:
+  - ficha: park-guell-entrada-zona-monumental
+    etiqueta: Cheapest
+  - ficha: park-guell-entrada-museo-casa-gaudi
+    etiqueta: With Gaudí House
+  - ficha: sagrada-familia-park-guell-tour-guiado
+    etiqueta: With a guide
 ---
 
 Park Güell sells timed tickets with a fixed capacity of **700 people every half hour**, and in summer, at Easter and on Spanish bank holidays the best slots go days or weeks ahead. "Sold out" on the official website doesn't mean you miss Gaudí's park: there are still a few routes in, some official and some paid, and it pays to try them in this order.
 
-## What you can book now
+## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| Just the ticket | [Skip-the-line ticket to the monumental zone](/en/cities/barcelona/activities/park-guell-admission-ticket), 4.4★ (81,572) | €23 |
-| Ticket and Gaudí's house | [Park Güell + Gaudí House Museum](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket), 4.5★ (7,565) | €30 |
+| Just the ticket | [Skip-the-line ticket to the monumental zone](/en/cities/barcelona/activities/park-guell-admission-ticket), 4.4★ (81,572) | €21.5 |
+| Ticket and Gaudí's house | [Park Güell + Gaudí House Museum](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket), 4.5★ (7,565) | €28 |
 | A guide inside | [Sagrada Familia and Park Güell tour](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4.8★ (6,776) | €104 |
 | Barcelona in a day | [Sagrada Familia, Park Güell and the centre](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell), 4.9★ (15,762) | €129 |
 
@@ -62,7 +69,7 @@ Remember that official tickets can't be cancelled: once you have one, there is n
 
 ## 2. A resale ticket
 
-Authorised resellers buy allocations in advance, so they may have places when the official site doesn't. They cost more than the official ticket: entry to the monumental zone starts at **€23**, and the combined ticket with the **Gaudí House Museum** at **€30**. They can't be cancelled either, so only buy once your day is fixed.
+Authorised resellers buy allocations in advance, so they may have places when the official site doesn't. They cost more than the official ticket: entry to the monumental zone starts at **€21.50**, and the combined ticket with the **Gaudí House Museum** at **€28**. They can't be cancelled either, so only buy once your day is fixed.
 
 [actividad: park-guell-entrada-zona-monumental]
 

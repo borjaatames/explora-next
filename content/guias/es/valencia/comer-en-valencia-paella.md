@@ -33,7 +33,7 @@ imagen_alt: "Paella valenciana en su paellera"
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 29 € |
+| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 28,5 € |
 
 La regla número uno: **la paella valenciana no es la paella de marisco**. La original es de huerta y corral, y se come a mediodía. Quien entiende esto ya ha ganado media partida.
 

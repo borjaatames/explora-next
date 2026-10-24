@@ -29,17 +29,24 @@ actividades:
   - tour-tuk-tuk-valencia-centro-playas
 imagen_portada: "/images/guias/ciudad-artes-ciencias-como-visitar.jpg"
 imagen_alt: "El Hemisfèric y el Palau de les Arts en la Ciudad de las Artes y las Ciencias"
+opciones:
+  - ficha: oceanografic-valencia-entrada
+    etiqueta: Solo Oceanogràfic
+  - ficha: ciudad-artes-3-en-1-oceanografic-hemisferic-museu
+    etiqueta: Las tres entradas
+  - ficha: hemisferic-museu-ciencies-entrada
+    etiqueta: La más barata
 ---
 
 **La Ciudad de las Artes y las Ciencias es el icono moderno de Valencia**, pero también la trampa más fácil: comprar la entrada conjunta a todo y acabar agotado sin disfrutar de nada. Este complejo de Santiago Calatrava y Félix Candela, levantado en el antiguo cauce del Turia, se visita mejor con criterio: saber qué merece entrada, qué se disfruta por fuera y cómo combinarlo sin colas ni prisas.
 
-## Entradas que puedes reservar
+## ¿Qué entrada elegir?
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
 | [Entrada combinada Oceanogràfic y Museo de las Ciencias](/ciudades/valencia/actividades/oceanografic-museo-ciencias-entrada-combinada) | 4,7★ (2.797) | 39 € |
-| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 32 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
 
 La regla de oro: **no hace falta entrar a todo**. El conjunto arquitectónico, con sus láminas de agua reflejando los edificios blancos, es gratis y de lo más fotogénico de España. Dentro, prioriza según con quién viajes.
 

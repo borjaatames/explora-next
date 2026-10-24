@@ -27,6 +27,13 @@ actividades:
   - tour-tuk-tuk-valencia-centro-playas
 imagen_portada: "/images/guias/ciudad-artes-ciencias-como-visitar.jpg"
 imagen_alt: "Hemisfèric und Palau de les Arts in der Stadt der Künste und Wissenschaften"
+opciones:
+  - ficha: oceanografic-valencia-entrada
+    etiqueta: Nur Oceanogràfic
+  - ficha: ciudad-artes-3-en-1-oceanografic-hemisferic-museu
+    etiqueta: Alle drei
+  - ficha: hemisferic-museu-ciencies-entrada
+    etiqueta: Am günstigsten
 ---
 
 **Die Stadt der Künste und Wissenschaften ist das moderne Wahrzeichen Valencias**, aber auch die naheliegendste Falle: das Kombiticket für alles zu kaufen und am Ende erschöpft zu sein, ohne wirklich etwas genossen zu haben. Dieser Komplex von Santiago Calatrava und Félix Candela, errichtet im alten Flussbett des Turia, lässt sich am besten mit Überlegung besichtigen: wissen, was ein Ticket wert ist, was man von außen genießen kann und wie man alles ohne Schlangen und Hetze kombiniert.
@@ -46,13 +53,13 @@ Die goldene Regel: **man muss nicht überall hineingehen**. Das architektonische
 
 ## Wie man den Besuch organisiert
 
-**Von außen (kostenlos).** Spazieren Sie zwischen den Gebäuden und durch den **Umbracle**, den erhöhten Garten mit Palmen und Skulpturen. Bei Sonnenuntergang sind die Spiegelungen im Wasser das beste Foto. Das allein rechtfertigt schon den Besuch, auch wenn Sie nirgendwo hineingehen.
+**Von außen (kostenlos).** Spazier zwischen den Gebäuden und durch den **Umbracle**, den erhöhten Garten mit Palmen und Skulpturen. Bei Sonnenuntergang sind die Spiegelungen im Wasser das beste Foto. Das allein rechtfertigt schon den Besuch, auch wenn du nirgendwo hineingehst.
 
-**Oceanogràfic (halber Tag).** Das große Muss: Haie, Belugas, Pinguine, der Unterwassertunnel, das Delfinarium und das Restaurant unter Wasser. Rechnen Sie mit 3-4 Stunden. Gehen Sie gleich zur Öffnung.
+**Oceanogràfic (halber Tag).** Das große Muss: Haie, Belugas, Pinguine, der Unterwassertunnel, das Delfinarium und das Restaurant unter Wasser. Rechne mit 3-4 Stunden. Geh gleich zur Öffnung.
 
 **Museu de les Ciències (2-3 Stunden).** Interaktives Museum auf drei Etagen, in dem alles angefasst werden darf. Funktioniert sehr gut mit Kindern ab 5-6 Jahren und mit neugierigen Erwachsenen.
 
-**Hemisfèric (45-50 Min).** IMAX-Kino mit Kuppel und Planetarium. Schauen Sie ins Programm: Es gibt Vorstellungen für Kinder und Dokumentarfilme. Wenn Sie knapp an Zeit sind, ist dies das Verzichtbarste.
+**Hemisfèric (45-50 Min).** IMAX-Kino mit Kuppel und Planetarium. Schau ins Programm: Es gibt Vorstellungen für Kinder und Dokumentarfilme. Wenn du knapp an Zeit bist, ist dies das Verzichtbarste.
 
 [actividad: oceanografic-valencia-entrada]
 
@@ -65,18 +72,26 @@ Die goldene Regel: **man muss nicht überall hineingehen**. Das architektonische
 | Erwachsene ohne Eile | Nur Oceanogràfic + Museu, wenn Wissenschaft gefällt |
 | Ein kompletter Familientag | Kombiticket aller drei + freier Nachmittag |
 
-> **⭐ Tipp:** Die **Kombitickets** (2 oder 3 Attraktionen) sind deutlich günstiger als einzelne Tickets und sind in der Hochsaison schnell ausverkauft. Kaufen Sie sie online, wählen Sie die **erste Stunde** für das Oceanogràfic und heben Sie sich das Museum oder das Hemisfèric für nach dem Mittagessen auf.
+> **⭐ Tipp:** Die **Kombitickets** (2 oder 3 Attraktionen) sind deutlich günstiger als einzelne Tickets und sind in der Hochsaison schnell ausverkauft. Kauf sie online, wähl die **erste Stunde** für das Oceanogràfic und heb dir das Museum oder das Hemisfèric für nach dem Mittagessen auf.
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| [Hemisfèric + Museu de les Ciències](/en/cities/valencia/activities/hemisferic-science-museum-combo-ticket) | 14 € | Museu de les Ciències und eine Vorstellung im Hemisfèric; ohne Oceanogràfic | Wer Wissenschaft und Kino will, aber kein Aquarium |
+| [Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 37 € | Regulärer Eintritt ins Oceanogràfic, alle Bereiche | Erwachsene, die nur das Aquarium sehen wollen |
+| [3-in-1-Ticket](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket) | 46 € | Oceanogràfic, Hemisfèric (eine Vorstellung) und Museu de les Ciències | Familien, die den ganzen Tag bleiben |
+
 ## Wie man hinkommt
 
-Es sind 25-30 Minuten zu Fuß vom Zentrum durch den **Turia-Garten** (ein wunderschöner Spaziergang) oder mit dem **Fahrrad** (am bequemsten, entlang des Radwegs im alten Flussbett). Mit dem Bus halten mehrere Linien direkt daneben. Wenn Sie mit Kindern reisen, ist das Fahrrad mit Kindersitz ideal. Vergessen Sie das Auto: Das Parken ist teuer.
+Es sind 25-30 Minuten zu Fuß vom Zentrum durch den **Turia-Garten** (ein wunderschöner Spaziergang) oder mit dem **Fahrrad** (am bequemsten, entlang des Radwegs im alten Flussbett). Mit dem Bus halten mehrere Linien direkt daneben. Wenn du mit Kindern reist, ist das Fahrrad mit Kindersitz ideal. Vergiss das Auto: Das Parken ist teuer.
 
 ## Was wir NICHT empfehlen
 
-1. **Das Ticket für absolut alles kaufen.** Sie werden übersättigt sein; setzen Sie Prioritäten.
-2. **Im Sommer mittags besuchen.** Zwischen den Gebäuden gibt es keinen Schatten; gehen Sie früh morgens oder bei Sonnenuntergang.
+1. **Das Ticket für absolut alles kaufen.** Du wirst übersättigt sein; setz Prioritäten.
+2. **Im Sommer mittags besuchen.** Zwischen den Gebäuden gibt es keinen Schatten; geh früh morgens oder bei Sonnenuntergang.
 3. **Das Oceanogràfic aus Spargründen auslassen.** Es ist das, was den Besuch wirklich rechtfertigt.
 4. **In Eile gehen.** Allein das Oceanogràfic ist schon ein halber Tag.
 
@@ -90,4 +105,4 @@ Es sind 25-30 Minuten zu Fuß vom Zentrum durch den **Turia-Garten** (ein wunder
 
 ## In einem Satz
 
-Die Stadt der Künste genießt man von außen kostenlos und im Inneren mit Überlegung: das Oceanogràfic als das große Muss, das Museu de les Ciències, wenn Sie mit Kindern reisen, und der Rest eine architektonische Postkarte, für die man kein Ticket braucht. Sie passt perfekt in den Nachmittag des [ersten Tages in Valencia](/de/guides/valencia/valencia-in-2-tagen).
+Die Stadt der Künste genießt man von außen kostenlos und im Inneren mit Überlegung: das Oceanogràfic als das große Muss, das Museu de les Ciències, wenn du mit Kindern reist, und der Rest eine architektonische Postkarte, für die man kein Ticket braucht. Sie passt perfekt in den Nachmittag des [ersten Tages in Valencia](/de/guides/valencia/valencia-in-2-tagen).

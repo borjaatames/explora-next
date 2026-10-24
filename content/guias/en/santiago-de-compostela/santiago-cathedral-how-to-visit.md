@@ -28,11 +28,18 @@ actividades:
   - catedral-santiago-museo-tour-guiado
   - catedral-museo-casco-antiguo-santiago
   - cubiertas-catedral-santiago-tour
+opciones:
+  - ficha: catedral-santiago-museo-tour-guiado
+    etiqueta: Cheapest
+  - ficha: cubiertas-catedral-santiago-tour
+    etiqueta: Rooftops
+  - ficha: santiago-portico-gloria-catedral-tour
+    etiqueta: With the old town
 ---
 
 **Santiago Cathedral is the goal of the Camino and the heart of the city**, but its visit confuses many people: is there a fee? what's the botafumeiro? can you go up on the roof? The short answer is that **entering the temple is free**, but the best parts (the Pórtico de la Gloria, the rooftops, the museum) are paid, timed visits. This guide tells you what to see, what to book and how to organise yourself.
 
-## Guided cathedral visits
+## Which ticket should you choose?
 
 | Activity | Rating | From |
 | --- | --- | --- |

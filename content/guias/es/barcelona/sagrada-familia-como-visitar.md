@@ -38,13 +38,20 @@ faq:
     respuesta: "Es una iglesia católica en activo con código de vestimenta exigido: hombros cubiertos, faldas y pantalones que lleguen al menos a medio muslo, nada transparente, sin bañador ni chanclas de playa, y sin gorras ni sombreros dentro de la nave. El personal de seguridad deniega la entrada por incumplirlo, así que viste como lo harías para cualquier iglesia europea."
   - pregunta: "¿Qué es la Hora del Silencio en la Sagrada Familia?"
     respuesta: "Desde el 2 de febrero de 2026, la basílica reserva todos los días de 9:00 a 10:00 como Hora del Silencio: son obligatorios los auriculares para audioguías, no se permite audio por altavoz y se pide silencio a los visitantes. Es además el mejor momento para visitarla, porque hay menos gente y la luz de la mañana ilumina las vidrieras del lado este."
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: La más barata
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: Con torre
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Grupo reducido
 ---
 
 La Sagrada Família recibe 4,5 millones de visitantes al año y la mayoría sale con la sensación de haber visto algo importante sin entenderlo. Pocos edificios recompensan tanto ir preparado: las vidrieras orientadas a propósito, las columnas copiadas de los árboles y las decisiones que Gaudí dejó escritas. Aquí, qué entrada comprar, si subir a las torres, cómo funciona la Hora del Silencio y los errores de cada semana.
 
 **2026 es Año Gaudí:** el 10 de junio se cumplen cien años de su muerte y ese mismo día se inauguró la **Torre de Jesús**, de 172,5 metros, que convierte la Sagrada Família en la iglesia más alta del mundo; la cruz se colocó en febrero. Hay más afluencia que nunca: reserva con más antelación y espera colas densas en verano. Los remates definitivos (la fachada de la Gloria) seguirán hasta 2035.
 
-## Entradas y precios oficiales
+## ¿Qué entrada elegir?
 
 | Entrada | Precio | Qué incluye |
 | --- | --- | --- |

@@ -18,31 +18,31 @@ keywords:
 slugs:
   es: tapas-madrid-que-tour-elegir
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-24"
 reservasArriba: true
-respuestaCorta: 'Para un final con vistas, el **tour de tapas y vino con azotea** (62 €, 3 h 30, admite dietas y menores). Para tapeo clásico por el casco histórico con todo incluido, el **Viejo Madrid** (80 €, solo adultos y sin dietas especiales). La **ruta nocturna** parece la más barata (35 €), pero la comida se paga aparte con un bote de 30 € en efectivo.'
+respuestaCorta: 'Para cenar tapeando y acabar con vistas, el **tour de tapas y vino con azotea** (69 €, 3 h 30, admite dietas y menores). Para ir solo vosotros por las tabernas centenarias del centro, el **tour privado** (127 € por persona, mínimo 2), más de historia que de comida. La **ruta nocturna** parece la más barata (35 €), pero la comida se paga aparte con un bote de 30 € en efectivo.'
 actividades:
   - ruta-tapas-nocturna-madrid
   - tour-tapas-vino-atardecer-azotea
-  - tour-tapas-viejo-madrid
+  - tour-privado-tabernas-centenarias-madrid
   - tapas-historia-cena-paella-madrid
   - vinos-tapas-comida-la-latina-madrid
 ---
 
-Madrid tiene tres tours de tapas guiados reservables por separado, todos con varios bares y un guía local. La diferencia está en la zona, la duración, lo que de verdad incluye el precio y a quién admiten: uno no acepta menores ni dietas especiales, y otro cobra la comida aparte.
+Comparamos tres tours guiados por los bares y tabernas del centro de Madrid, todos con un guía local. La diferencia está en la duración, lo que de verdad incluye el precio y el formato: uno cobra la comida aparte y otro es privado y va más de historia que de cenar.
 
 ## Los 3 tours de tapas en Madrid
 
 | Opción | Precio desde | Duración | Zona | Ideal para |
 |---|---|---|---|---|
 | [Ruta de tapas nocturna](/ciudades/madrid/actividades/ruta-tapas-nocturna-madrid) | 35 € + 30 € de bote | 2h 30min | 3 bares tradicionales del centro | Quien quiere un plan sencillo de noche, o guía en alemán |
-| [Tour de tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) | 62 € | 3h 30min | De La Latina a Plaza Mayor | Quien quiere rematar con vistas al atardecer desde una azotea de Gran Vía |
-| [Visita enogastronómica al Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid) | 80 € | 2,5-3 h | Casco histórico, de Sol a Plaza Mayor | Adultos que quieren tapeo clásico y los monumentos del centro |
+| [Tour de tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) | 69 € | 3h 30min | De La Latina a Plaza Mayor | Quien quiere rematar con vistas al atardecer desde una azotea de Gran Vía |
+| [Tour privado por las tabernas centenarias](/ciudades/madrid/actividades/tour-privado-tabernas-centenarias-madrid) | 127 € por persona (mín. 2) | 2h 10min | Tabernas de más de 100 años del centro | Quien quiere un guía solo para su grupo y más historia que comida |
 
 ## Cómo elegir en 30 segundos
 
-- **Quieres el precio cerrado más bajo con comida incluida:** tapas y vino con azotea (62 €), que además termina al atardecer en una azotea de Gran Vía.
-- **Quieres tapas clásicas y la historia del centro de paso:** Viejo Madrid (80 €), con 4,9/5. Solo si eres mayor de 18 y no tienes alergias ni dieta especial.
+- **Quieres el precio cerrado más bajo con comida incluida:** tapas y vino con azotea (69 €), que además termina al atardecer en una azotea de Gran Vía.
+- **Quieres un guía solo para vosotros y la historia de las tabernas:** tour privado por las tabernas centenarias (127 € por persona, mínimo 2), con recogida en el hotel. Se come poco, dos tapas y dos bebidas por persona: no cuentes con él como cena.
 - **Eres vegetariano, celíaco o vas con menores:** tapas y vino con azotea, el único de los tres que contempla las dos cosas.
 - **Hablas alemán o quieres el plan más corto:** ruta nocturna, 2 h 30 por tres bares. Cuenta con unos 65 € reales por persona.
 
@@ -51,8 +51,8 @@ Madrid tiene tres tours de tapas guiados reservables por separado, todos con var
 ## Qué incluye cada uno
 
 - **Ruta nocturna (35 €):** el precio cubre solo el guía. Al empezar, el guía recoge **30 € en efectivo** por persona como bote común para las tapas y bebidas de los tres bares; si el grupo quiere jamón ibérico u otras especialidades, se amplía. Es en español, inglés o alemán, y el punto de encuentro, en el centro, llega en el correo de confirmación. 4,9/5 con 65 opiniones.
-- **Tapas y vino con azotea (62 €):** tapas en cada parada, vino en cada bar (o refresco en los tres primeros) y una copa en la azotea; el resto de consumiciones allí se paga aparte. Incluye reportaje de fotos y receta de sangría. Sale de la Plaza de Tirso de Molina y **termina en Callao**, otro punto. Menores admitidos con un adulto, sin alcohol. 4,7/5 con 342 opiniones.
-- **Viejo Madrid (80 €):** 3 o 4 bares según la opción, con una bebida por parada y tapas como gambas al ajillo, croquetas, bravas y chorizo; algunas opciones acaban con chocolate con churros. Guía bilingüe español-inglés. Quedada en la Apple Store de la Puerta del Sol; el guía lleva un paraguas rojo. **Si llegas tarde, pierdes el tour** sin reembolso. 4,9/5 con 113 opiniones.
+- **Tapas y vino con azotea (69 €):** tapas en cada parada, vino en cada bar (o refresco en los tres primeros) y una copa en la azotea; el resto de consumiciones allí se paga aparte. Incluye reportaje de fotos y receta de sangría. Sale de la Plaza de Tirso de Molina y **termina en Callao**, otro punto. Menores admitidos con un adulto, sin alcohol. 4,7/5 con 342 opiniones.
+- **Tour privado por las tabernas centenarias (127 € por persona, mínimo 2):** 2 h 10 con guía privado por tabernas y restaurantes de más de 100 y 200 años, incluido el restaurante más antiguo del mundo según el Guinness. Incluye una consumición y una tapa en la primera y en la última taberna; la ruta puede variar y no siempre se entra en todos los locales. El guía te recoge en el hotel o te cita en el centro. En español, inglés o italiano, y a partir de 12 años.
 
 Los tres tienen cancelación gratuita hasta 24 horas antes y ninguno está adaptado para silla de ruedas.
 
@@ -65,11 +65,11 @@ Hay dos tours más del mismo operador local, los dos **en inglés**, con salida 
 
 ## Lo que debes saber antes de reservar
 
-- **Se cena, no se picotea:** entre 3 y 4 bares con varias tapas y una bebida por parada es una cena completa. No comas antes y no planees otra cena después.
+- **Se cena, no se picotea:** tres bares o más con varias tapas y bebida en cada parada es una cena completa. No comas antes y no planees otra cena después. La excepción es el tour privado, con solo dos tapas.
 - **Horario español:** los tours de noche arrancan a última hora de la tarde, cuando los bares todavía están tranquilos, y acaban cuando Madrid se sienta a cenar. Si quieres seguir la noche, ya estás en la zona.
-- **Alergias y dietas:** avísalo al reservar, no al llegar, porque los bares preparan las raciones con antelación. El Viejo Madrid no las admite.
+- **Alergias y dietas:** avísalo al reservar, no al llegar, porque los bares preparan las raciones con antelación. El de la azotea tiene opción vegetariana y sin gluten.
 - **Idioma:** la mayoría de salidas son en inglés o bilingües; si quieres grupo en español, compruébalo en la ficha antes de reservar.
-- **Punto de encuentro:** siempre en el centro (Sol, Tirso de Molina u Ópera), con el lugar exacto en el correo de confirmación. Llega 10-15 minutos antes; el grupo no espera.
+- **Punto de encuentro:** en el centro (Tirso de Molina, Ópera o el punto que te indique el guía), o en tu hotel si eliges el tour privado, con el lugar exacto en el correo de confirmación. Llega 10-15 minutos antes; el grupo no espera.
 - **Propina:** no es obligatoria; 5-10 € por persona al guía si te ha gustado es lo habitual.
 - **Lo que no incluye:** el transporte de vuelta. El metro cierra a la 1:30; después, búhos (autobuses nocturnos) desde Cibeles o taxi.
 

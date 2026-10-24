@@ -31,6 +31,13 @@ actividades:
   - reina-sofia-visita-guiada-amigo-tours
   - reina-sofia-grupo-reducido-guides-you-need
   - excursion-toledo-dia-completo
+opciones:
+  - ficha: museo-prado-entrada
+    etiqueta: Nur Prado
+  - ficha: museo-prado-visita-guiada
+    etiqueta: Mit Führung
+  - ficha: art-walk-pass-prado-reina-sofia-thyssen
+    etiqueta: Alle 3 Museen
 ---
 
 Wenn du nur Zeit für ein Museum in Madrid hast, **geh in den Prado**. Wenn du für zwei Zeit hast, nimm den Thyssen dazu. Der Reina Sofía kommt an letzter Stelle und lohnt sich nur, wenn dich Kunst des 20. Jahrhunderts wirklich interessiert.
@@ -56,6 +63,16 @@ Das heißt nicht, dass der Reina Sofía schlecht ist — es heißt, dass er **ne
 | Prado | Klassische europäische Malerei (12.–19. Jh.) | 2–3 Std. | 15 € | Jeden generalistischen Reisenden |
 | Thyssen | Überblick über die westliche Kunst (13.–20. Jh.) | 1,5–2 Std. | 14 € | Wer chronologische Bandbreite will |
 | Reina Sofía | Spanische Kunst des 20. Jahrhunderts | 1,5–3 Std. | 12 € | Fans moderner und zeitgenössischer Kunst |
+
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Regulärer Eintritt Prado (offizieller Preis) | 15 € | Nur der Prado (7,50 € ermäßigt) | Wer auf eigene Faust geht und auf der Museumswebsite kauft |
+| [Prado: offizielles Ticket](/en/cities/madrid/activities/prado-museum-entry-ticket) | 18 € | Eintritt in den Prado und Buchungsgebühr; ohne Guide oder Audioguide | Wer auf eigene Faust geht und alles an einer Stelle buchen will |
+| [Prado: Führung mit Eintritt](/en/cities/madrid/activities/prado-museum-guided-tour) | 49 € | Offizieller Guide, Eintritt und Einlass ohne Anstehen (1,5–2 Std.) | Erstbesucher, die direkt zum Wesentlichen wollen |
+| Abono Paseo del Arte | 32,80 € | Prado, Thyssen und Reina Sofía | Wer wirklich alle drei besucht |
+| [Art Walk Pass](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen) | 38 € | Je ein Eintritt pro Museum (Thyssen: Dauerausstellung); ein Jahr gültig | Wer alle drei besucht und hier buchen will |
 
 ## Museo del Prado: die Antwort auf "ich gehe nur in eines"
 

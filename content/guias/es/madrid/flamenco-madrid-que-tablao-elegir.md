@@ -22,7 +22,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
-respuestaCorta: 'Para un tablao íntimo en el Madrid de los Austrias, **Las Carboneras** (desde 48 €, con bebida, 4,7/5). Para pagar menos, tener más pases y la opción de cenar en el mismo sitio, **Torres Bermejas** (desde 30 €, junto a Gran Vía). Los dos son shows de **una hora** con cancelación gratuita hasta 24 horas antes; solo Las Carboneras es accesible en silla de ruedas.'
+respuestaCorta: 'Para un tablao íntimo en el Madrid de los Austrias, **Las Carboneras** (desde 45 €, con bebida, 4,7/5). Para pagar menos, tener más pases y la opción de cenar en el mismo sitio, **Torres Bermejas** (desde 31 €, junto a Gran Vía). Los dos son shows de **una hora** con cancelación gratuita hasta 24 horas antes; solo Las Carboneras es accesible en silla de ruedas.'
 actividades:
   - flamenco-tablao-las-carboneras
   - flamenco-torres-bermejas-cena
@@ -34,12 +34,12 @@ En Madrid hay dos tablaos de flamenco con ficha propia: Las Carboneras y Torres 
 
 | Tablao | Precio desde | Ambiente | Opciones | Ideal para |
 |---|---|---|---|---|
-| [Las Carboneras](/ciudades/madrid/actividades/flamenco-tablao-las-carboneras) | 48 € | Sótano de un palacio histórico del s. XVII, formato íntimo y cabaret | Show + bebida; show + cena aparte | Quien busca un tablao boutique, con cuadro fijo de artistas reconocidos |
-| [Torres Bermejas](/ciudades/madrid/actividades/flamenco-torres-bermejas-cena) | 30 € | Decoración inspirada en la Alhambra, formato más grande | Solo show, bebida, tapas o cena completa de 3 platos, según el ticket | Quien quiere más flexibilidad de precio y horario, y una cena completa opcional |
+| [Las Carboneras](/ciudades/madrid/actividades/flamenco-tablao-las-carboneras) | 45 € | Sótano de un palacio histórico del s. XVII, formato íntimo y cabaret | Show + bebida; show + cena aparte | Quien busca un tablao boutique, con cuadro fijo de artistas reconocidos |
+| [Torres Bermejas](/ciudades/madrid/actividades/flamenco-torres-bermejas-cena) | 31 € | Decoración inspirada en la Alhambra, formato más grande | Solo show, bebida, tapas o cena completa de 3 platos, según el ticket | Quien quiere más flexibilidad de precio y horario, y una cena completa opcional |
 
 ## Cómo elegir en 30 segundos
 
-- **Presupuesto ajustado o quieres cenar en el mismo sitio:** Torres Bermejas, con entrada desde 30 € y opción de menú español de tres platos.
+- **Presupuesto ajustado o quieres cenar en el mismo sitio:** Torres Bermejas, con entrada desde 31 € y opción de menú español de tres platos.
 - **Buscas algo íntimo y con más carácter histórico:** Las Carboneras, en el sótano del antiguo palacio del Conde de Miranda, en pleno Madrid de los Austrias.
 - **Vas en silla de ruedas:** Las Carboneras. Es de los pocos tablaos del centro con acceso adaptado; Torres Bermejas no indica accesibilidad y tiene escaleras hacia algunas zonas.
 - **Quieres ir pronto o a media tarde:** Torres Bermejas, con pases desde las 17:00 (y a las 15:00 de viernes a domingo). Las Carboneras no empieza hasta las 20:00.
@@ -49,8 +49,8 @@ En Madrid hay dos tablaos de flamenco con ficha propia: Las Carboneras y Torres 
 
 ## Qué incluye cada entrada
 
-- **Las Carboneras (desde 48 €):** show de una hora con una bebida de cortesía (vino, cerveza o refresco). La opción con cena añade un menú de cocina española tradicional que se sirve antes del espectáculo. El cuadro es fijo, con artistas como José Maldonado y Candy Román, y el baile es improvisado: cada noche cambia. Lo fundaron las bailaoras Manuela Vega, Tacha y Ana Romero. Tiene un 4,7/5 con 758 opiniones.
-- **Torres Bermejas (desde 30 €):** la entrada básica es solo show, sin bebida. Por encima hay opciones con bebida, con tapas o con menú de tres platos y bebida. Abrió en 1960 y su sala imita las Torres Bermejas de la Alhambra, con techos de madera tallada y azulejos. Tiene un 4,5/5 con más de 10.000 opiniones. Si quieres comer o beber, resérvalo con la entrada: varias opiniones dicen que pedir allí no siempre funciona bien.
+- **Las Carboneras (desde 45 €):** show de una hora con una bebida de cortesía (vino, cerveza o refresco). La opción con cena añade un menú de cocina española tradicional que se sirve antes del espectáculo. El cuadro es fijo, con artistas como José Maldonado y Candy Román, y el baile es improvisado: cada noche cambia. Lo fundaron las bailaoras Manuela Vega, Tacha y Ana Romero. Tiene un 4,7/5 con 758 opiniones.
+- **Torres Bermejas (desde 31 €):** la entrada básica es solo show, sin bebida. Por encima hay opciones con bebida, con tapas o con menú de tres platos y bebida. Abrió en 1960 y su sala imita las Torres Bermejas de la Alhambra, con techos de madera tallada y azulejos. Tiene un 4,5/5 con más de 10.000 opiniones. Si quieres comer o beber, resérvalo con la entrada: varias opiniones dicen que pedir allí no siempre funciona bien.
 
 Los dos tienen cancelación gratuita hasta 24 horas antes.
 

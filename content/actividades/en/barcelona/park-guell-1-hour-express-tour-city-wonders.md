@@ -38,7 +38,7 @@ noIncluye:
 
 puntoEncuentro:
   texto: "Meeting point at the Park Güell entrance confirmed by City Wonders in the booking email."
-  descripcionGuia: "Metro Vallcarca or Lesseps (line 3) + 10-15 min walking, or bus 24/116. Arrive 15 min early. The operator is professional and usually punctual — something to value after reading reviews of other tours with delays."
+  descripcionGuia: "Metro Vallcarca or Lesseps (line 3) + 10-15 min walking, or bus 24 or V19. Arrive 15 min early. The operator is professional and usually punctual — something to value after reading reviews of other tours with delays."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 17

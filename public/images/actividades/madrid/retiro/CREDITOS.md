@@ -12,3 +12,7 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `parque-retiro-palacio-cristal-madrid-03-hero.webp` — Javier Pérez Montes, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Palacio_de_Cristal_-_Madrid_03.jpg)
+
+Añadidas el 24-10-2026 (`E:\imagenes-master\_descargas-2026-10-23d\`):
+- `retiro-paseo-junto-al-estanque.webp` — Lajos Kristóf Kántor, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/sunny-day-at-retiro-park-madrid-spain-37187327/)
+- `bicicleta-electrica-manillar-camino-parque.webp` — Himiway Bikes, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/black-bicycle-on-brown-and-green-grass-field-during-daytime-up5uMnHlL6Q)

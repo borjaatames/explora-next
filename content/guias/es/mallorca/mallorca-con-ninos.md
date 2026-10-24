@@ -22,7 +22,7 @@ slugs:
   en: mallorca-with-kids
   de: mallorca-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Alójate en el **norte (Alcúdia)**, con playas de agua poco profunda, y no intentes ver la isla entera. Los imprescindibles: el **tren de Sóller** (medio día desde el norte, desde 56 €), las **Cuevas del Drach** con concierto en barca (54 €) y el **Palma Aquarium** para un día de nubes (31 €).'
+respuestaCorta: 'Alójate en el **norte (Alcúdia)**, con playas de agua poco profunda, y no intentes ver la isla entera. Los imprescindibles: el **tren de Sóller** (medio día desde el norte, desde 56 €), las **Cuevas del Drach** con concierto en barca (54 €) y el **Palma Aquarium** para un día de nubes (30,50 €).'
 actividades:
   - palma-aquarium-entrada
   - tren-soller-tranvia-medio-dia-desde-el-norte
@@ -53,7 +53,7 @@ faq:
 
 | Plan | Actividad | Desde |
 | --- | --- | --- |
-| Día de nubes | [Palma Aquarium](/ciudades/mallorca/actividades/palma-aquarium-entrada), 4,5★ (3.744) | 31 € |
+| Día de nubes | [Palma Aquarium](/ciudades/mallorca/actividades/palma-aquarium-entrada), 4,5★ (3.744) | 30,5 € |
 | Tren de Sóller desde el norte | [Tren y tranvía de Sóller, medio día](/ciudades/mallorca/actividades/tren-soller-tranvia-medio-dia-desde-el-norte), 4,4★ (381) | 56 € |
 | Tren, tranvía y barco | [Vuelta a la isla con el tren de Sóller](/ciudades/mallorca/actividades/mallorca-vuelta-isla-tren-soller-tranvia-barco), 4,4★ (4.540) | 103 € |
 | Cuevas con concierto en barca | [Cuevas del Drach desde Alcúdia](/ciudades/mallorca/actividades/cuevas-del-drach-desde-alcudia), 4,4★ (616) | 54 € |

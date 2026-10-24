@@ -98,7 +98,8 @@ ratingProveedor: 4.7
 numeroOpiniones: 1435
 atraccionesRelacionadas:
 - calas-barco
-publicada: true
+publicada: false
+reemplazadaPor: kayak-cuevas-cala-codolar-esnorquel
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

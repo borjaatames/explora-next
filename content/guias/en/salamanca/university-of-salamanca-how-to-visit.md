@@ -21,7 +21,7 @@ slugs:
   en: university-of-salamanca-how-to-visit
   de: universidad-de-salamanca-besichtigen
 reservasArriba: true
-respuestaCorta: 'Entry to the **Edificio Histórico costs €10** (€5 reduced) and is **free on Monday afternoons**, though the queue is long and entry isn''t guaranteed. The Plateresque façade with the frog and the **Cielo de Salamanca** are free. Allow **2.5 hours**; the Historic Library is seen only through glass. A guided tour with ticket starts at €19.'
+respuestaCorta: 'Entry to the **Edificio Histórico costs €10** (€5 reduced) and is **free on Monday afternoons**, though the queue is long and entry isn''t guaranteed. The Plateresque façade with the frog and the **Cielo de Salamanca** are free. Allow **2.5 hours**; the Historic Library is seen only through glass. A guided tour with ticket starts at €12.'
 actividades:
   - universidad-salamanca-visita-guiada
   - tour-a-pie-salamanca-guia-local
@@ -33,7 +33,7 @@ The University of Salamanca is **the oldest university in Spain** (founded 1218)
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €19 |
+| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €12 |
 | [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
 
 [actividad: universidad-salamanca-visita-guiada]

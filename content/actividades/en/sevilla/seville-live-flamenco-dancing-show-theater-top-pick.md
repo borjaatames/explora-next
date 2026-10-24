@@ -21,19 +21,18 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - 🏆 SEVILLE TOP PICK on GetYourGuide — 18,292 reviews at 4.7/5 (the MOST BOOKED flamenco show in Seville)
-- THEATER format with tiered seating — guaranteed view from any zone
+- THEATER format with tiered seating — good view from almost any seat
 - '1 hour show with full ensemble: dancers, singers, guitarists, percussion'
 - 'Central location: Calle Cuna 15, in the former Teatro Quintero (about 10 min walk from the Cathedral)'
 - Professional lighting + careful sound — more theatrical format than traditional tablao
-- Prices from €25 (standard) — among the most affordable of Seville's top flamenco venues
+- Single ticket from €25 — among the most affordable of Seville's top flamenco venues
 - FREE cancellation up to 24h before
-- Multiple daily sessions (verify when booking)
+- Shows every day (the official website lists 17:00, 19:00 and 20:45; verify when booking)
 incluye:
 - 1-hour live flamenco show
-- Seat in the booked zone (Standard, Premium or VIP per option)
-- Drink included in some premium options
+- General admission, unnumbered seat (first come, first served)
 noIncluye:
-- Drinks in the cheapest option
+- Drinks (there's a bar outside the auditorium; no drinking during the show)
 - Food or dinner (this product does NOT include dinner option)
 - Gratuities
 - Transport
@@ -42,7 +41,8 @@ puntoEncuentro:
     About 10 min walking from the Cathedral. Show your voucher at the theater entrance.
   descripcionGuia: 'Metro: Puerta de Jerez (line 1, about 12-15 min walk). MetroCentro tram: Plaza Nueva (about 6 min).
     Calle Cuna runs between Plaza del Salvador and the Encarnación Market (Setas), in the pedestrian center — don''t arrive by car. Arrive 20-30 min
-    early — capacity is large and seats are NOT numbered in most zones (occupied in arrival order).'
+    early — seats are NOT numbered and are allocated in order of arrival (the official website asks you to be in the
+    auditorium 20 min before).'
   latitud: 37.3912
   longitud: -5.9926
   zoom: 17
@@ -55,7 +55,6 @@ detallesPracticos:
 informacionImportante:
   queTraer:
   - Charged smartphone (mobile voucher)
-  - ID document (if you booked reduced fare)
   - Smart casual attire (no strict code)
   noAptoPara:
   - Visitors seeking intimate traditional tablao format (this is a THEATER with large capacity — for intimate, better Casa
@@ -64,13 +63,13 @@ informacionImportante:
     historic center)
   aTenerEnCuenta:
   - '**18,292 reviews at 4.7/5** — the highest-volume flamenco tourist product in Seville'
-  - THEATER format with tiered seats (better view from any zone) — large venue, less intimate than tablao
+  - THEATER format with tiered seats (good view from almost any seat) — large venue, less intimate than tablao
   - Multiple daily sessions — verify availability when booking
   - Photos and video allowed in some cases but NO FLASH (verify rules of the specific show)
-  - Arrive 20-30 min early to ensure good seat within your zone
+  - 'Arrive 20-30 min early: seats are allocated in order of arrival'
   - Central location allows combining with dinner in the historic center before/after
-accesibilidad: Teatro Flamenco Sevilla is marked as accessible. Calle Cuna is pedestrian with level access. The theater has tiered seats — verify with the operator if you need a specific wheelchair-accessible
-  zone. If you need guaranteed confirmed accessibility, contact the operator when booking.
+accesibilidad: Teatro Flamenco Sevilla is marked as accessible. Calle Cuna is pedestrian with level access. The theater has tiered seats — verify with the operator if you need a wheelchair-accessible
+  space. If you need guaranteed confirmed accessibility, contact the operator when booking.
 politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. The
   show starts on time; past 10 min from start, entry may not be allowed (at staff discretion). Date changes subject to availability.'
 preguntasFrecuentes:
@@ -107,16 +106,7 @@ preguntasFrecuentes:
     There's no guided narration. The theater staff speaks Spanish and English to assist you (reception, seat assignment).
     The show itself is understandable to any audience without translation — emotion, footwork and guitar are universal. The
     page is available in ES and EN because editorial content varies by visitor language.
-variantes:
-- nombre: Standard
-  descripcion: Show entry in back zone of the theater. No drink included. Most affordable option.
-  precio: 27
-- nombre: Premium
-  descripcion: Central zone of the theater, 1 drink included (wine, beer, sangria, cava or soft drink).
-  precio: 37
-- nombre: VIP
-  descripcion: Front zone of the theater, 2 drinks or 1 shared bottle. Better view and service.
-  precio: 47
+variantes: []
 opinionEditorial: 'The **most booked flamenco show in Seville** — 18,292 reviews at 4.7/5 position it as Seville''s TOP PICK
   on GetYourGuide. The figure is 35% higher than the second most booked (Casa de la Memoria with 13,526), confirming that the
   theater format + central location + affordable price is the combination most international travellers choose when looking
@@ -124,8 +114,8 @@ opinionEditorial: 'The **most booked flamenco show in Seville** — 18,292 revie
 
 
   **Price comparison:** from €25 it''s **among the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro Flamenco
-  Triana €25, Casa de la Memoria €26, Museo del Baile Flamenco €32, Tablao El Arenal €48). The €1 premium over Casa de la Memoria
-  buys: tiered seats (guaranteed view) + 24h cancellation option.
+  Triana €25, Casa de la Memoria €26, Museo del Baile Flamenco €32, Tablao El Arenal €48). Compared with Casa de la Memoria
+  you trade intimacy for tiered seats with a good view and more daily shows.
 
 
   **Three honest considerations about the theater format:** **(1)** The venue is large (probably 150-250 seats) — loses intimacy
@@ -177,20 +167,20 @@ guiasRelacionadas:
 A **professional 1-hour flamenco show at Teatro Flamenco Sevilla** — Seville's MOST BOOKED flamenco product with 18,292 reviews at 4.7/5. GetYourGuide Top Pick. Central location on Calle Cuna, about 10 min walk from the Cathedral.
 
 - **Professional flamenco ensemble:** dancers, singers, guitarists and percussion live. The cast varies day by day — always certified artists with experience.
-- **Theater format with tiered seats:** large capacity (estimated 150-250 seats), guaranteed view from any zone. Professional lighting and amplified sound.
+- **Theater format with tiered seats:** large capacity (estimated 150-250 seats), good view from almost any seat. Professional lighting and amplified sound.
 - **Structured 1-hour show:** alegrías, soleá, bulerías, tangos, fandangos — the classic flamenco palos, interspersed with brief breaks between pieces.
-- **3 seating zones** per option: Standard (back zone, no drink, €27), Premium (central zone, 1 drink, €37), VIP (front zone, 2 drinks or bottle, €47).
+- **Single ticket** (from €25): no seating categories; seats are unnumbered and taken in order of arrival.
 - **Central location:** Calle Cuna 15, in the former Teatro Quintero — between Plaza del Salvador and the Setas, about 10 min walk from the Cathedral.
 
 ## How it works
 
-**Book your date, session and zone** (Standard €27 / Premium €37 / VIP €47).
+**Book your date and session** (single ticket from €25).
 
 **Arrive 20-30 min early** at Teatro Flamenco Sevilla (Calle Cuna 15). Metro Puerta de Jerez (about 12-15 min) or MetroCentro tram Plaza Nueva (about 6 min).
 
-**Show your mobile voucher at the entrance.** Staff indicates your zone. Within each zone, seats are NOT numbered — first come, first choice.
+**Show your mobile voucher at the entrance.** Seats are NOT numbered — they're allocated in order of arrival.
 
-**If you chose drinks**, they'll be served before or during the show per venue policy.
+**If you want a drink**, there's a bar outside the auditorium; drinking isn't allowed during the show.
 
 **Enjoy the 1-hour show.** Photos without flash allowed in many cases (verify rules of the specific show). Applaud between pieces as a sign of respect.
 

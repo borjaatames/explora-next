@@ -38,19 +38,26 @@ faq:
   respuesta: Yes, as long as the operator includes entry to the Nasrid Palaces with a set time. Be wary of tours that only cover the free area or the gardens without saying so clearly.
 - pregunta: What can I see of the Alhambra without a ticket?
   respuesta: The Alhambra woods, the Gate of Justice, the Wine Gate and the Palace of Charles V are free to enter.
+opciones:
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: With a guide
+  - ficha: alhambra-visita-nocturna
+    etiqueta: At night
+  - ficha: entrada-jardines-alhambra-generalife
+    etiqueta: No Nasrid Palaces
 ---
 
 Alhambra tickets can be bought **up to three months ahead**, and in spring, on Spanish bank holidays and in summer the morning slots go early. "Sold out" on the official website doesn't mean you miss the Alhambra: there are several routes left, some official and some paid, and it pays to try them in this order.
 
-## What you can book now
+## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |
 | Guaranteed entry with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
-| The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100) | €54 |
+| The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100) | €49 |
 | Small group | [Alhambra and Nasrid Palaces small-group tour](/en/cities/granada/activities/alhambra-small-group-tour), 4.8★ (890) | €65 |
 | If only evenings are left | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
-| Without the Nasrid Palaces, cheaper | [Gardens, Generalife and Alcazaba](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €18 |
+| Without the Nasrid Palaces, cheaper | [Gardens, Generalife and Alcazaba](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €17.5 |
 
 ## 1. Check the official website again (and when)
 

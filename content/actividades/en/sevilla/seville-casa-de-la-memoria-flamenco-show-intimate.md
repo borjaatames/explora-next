@@ -22,7 +22,7 @@ horasCancelacion: 24
 highlights:
 - TOP RATED — 4.8/5 with 13,526 reviews (HIGHEST RATING + second highest volume of Seville's top flamenco shows)
 - MAXIMUM INTIMACY — only 2 rows of seats around the stage
-- Traditional 15th-century Andalusian patio (historic building)
+- Traditional 16th-century Andalusian patio (historic building)
 - Internationally acclaimed artists — the ensemble changes every night (3 dancers + 2 singers + guitarist)
 - Daily sessions at 7:30 and 9 PM (1 hour each)
 - Calle Cuna 6 — heart of Seville's historic center
@@ -31,14 +31,14 @@ highlights:
 incluye:
 - 1-hour live flamenco show
 - Seat in the patio (2 rows around the stage)
-- Access to the 15th-century historic building
+- Access to the 16th-century historic building
 noIncluye:
 - Drinks (not served during the show — the format is pure show, no distractions)
 - Food or dinner (combine with central restaurants)
 - Gratuities
 - Transport
 puntoEncuentro:
-  texto: Casa de la Memoria is at **Calle Cuna 6** (41004 Seville, historic center). 15th-century historic building — entry
+  texto: Casa de la Memoria is at **Calle Cuna 6** (41004 Seville, historic center), in the former stables of the 16th-century Lebrija Palace — entry
     through the main facade with «Casa de la Memoria» sign. Arrive 15-20 min before the session to ensure a seat (seats are
     NOT numbered).
   descripcionGuia: 'Metro: Puerta de Jerez (line 1, 12 min walk). MetroCentro tram: Plaza Nueva
@@ -70,7 +70,7 @@ informacionImportante:
   - 'Daily sessions: 7:30 and 9 PM (1 hour each) — verify availability when booking'
   - '**«Likely to sell out»** — book in advance, especially July-August and weekends'
   - Photos and video allowed in many cases (no flash) — verify rules at the start of the show
-  - 15th-century historic building — the Andalusian patio is part of the experience
+  - 16th-century historic building — the Andalusian patio is part of the experience
   - 'Artists change every night — typical ensemble: 3 dancers + 2 singers + 1 guitarist'
   - No drinks during the show — pure show format, no service distractions
 accesibilidad: The building is from the 15th century and is NOT marked as wheelchair accessible. The entrance and patio probably
@@ -87,17 +87,17 @@ preguntasFrecuentes:
     INTIMACY** — only 2 rows of seats, you''re literally 2-3 metres from the artists. You see the sweat, the micro-gestures,
     the emotional connection between singer and dancer. (2) **International artistic quality** — the artists performing at
     Casa de la Memoria are usually dancers, singers and guitarists with international careers (Flamenco Biennial, European
-    festivals). (3) **Historic 15th-century building** — the original Andalusian patio is part of the experience. (4) **No
+    festivals). (3) **Historic 16th-century building** — the original Andalusian patio is part of the experience. (4) **No
     service distractions** — no drinks served during the show, pure format.'
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
-  respuesta: '**Casa de la Memoria (this):** MAXIMUM INTIMACY (only 2 rows, ~30-50 seats), 15th-c. historic building, 4.8/5
+  respuesta: '**Casa de la Memoria (this):** MAXIMUM INTIMACY (only 2 rows, ~30-50 seats), 16th-c. historic building, 4.8/5
     with 13,526 reviews, from €24. RECOMMENDED if you value being 2-3 m from the artists. **Teatro Flamenco Sevilla:** Large
-    theater, maximum volume (18,292 reviews), central location, from €27. RECOMMENDED if you want most booked + comfortable
+    theater, maximum volume (18,292 reviews), central location, from €25. RECOMMENDED if you want most booked + comfortable
     tiered seats. **Museo del Baile Flamenco (Puro Flamenco):** 18th-c. Ecija patio, Cristina Hoyos choreographies, 6,456
-    reviews 4.8/5, from €32. RECOMMENDED if you''re interested in iconic artistic quality. **Teatro Flamenco Triana:** Large
+    reviews 4.8/5, from €33. RECOMMENDED if you''re interested in iconic artistic quality. **Teatro Flamenco Triana:** Large
     theater in Triana (gypsy cradle of flamenco), 4,363 reviews 4.7/5, from €25. RECOMMENDED if you want the historic flamenco
     neighborhood vibe. **Tablao El Arenal:** 50 years of history, 17th-c. building next to Maestranza, dinner option, from
-    €48. RECOMMENDED if you want tradition + dinner.'
+    €45. RECOMMENDED if you want tradition + dinner.'
 - pregunta: Is it worth booking the front row or does any row work?
   respuesta: '**The front row makes the difference.** Since there are only 2 rows around the stage, the front places you literally
     1-2 metres from the artists — you see every micro-gesture, feel the footwork on the floor under your feet, the dust raised
@@ -120,12 +120,12 @@ preguntasFrecuentes:
 variantes: []
 opinionEditorial: 'The **most intimate and highest-rated flamenco in Seville** — 13,526 reviews at 4.8/5 position it as one
   of the premium flamenco experiences in the city. The differential factor is decisive: **only 2 rows of seats around the
-  stage** (~30-50 total seats) in a 15th-century Andalusian patio. You''re literally 2-3 metres from the artists — the format
+  stage** (~30-50 total seats) in a 16th-century Andalusian patio. You''re literally 2-3 metres from the artists — the format
   closest to "flamenco de cabales" (connoisseur audience) in an open tourist format.
 
 
   **Price comparison:** from €24 it''s **one of the most affordable** of Seville''s 5 major flamenco venues (vs. Teatro
-  Flamenco Triana €25, Teatro Flamenco Sevilla €27, Museo del Baile Flamenco €32, Tablao El Arenal €48). The low price + international
+  Flamenco Triana €25, Teatro Flamenco Sevilla €25, Museo del Baile Flamenco €33, Tablao El Arenal €45). The low price + international
   artistic quality + maximum intimacy is the combination that justifies the 4.8/5 and 13,526 reviews.
 
 
@@ -141,7 +141,7 @@ opinionEditorial: 'The **most intimate and highest-rated flamenco in Seville** �
   artistic quality** (artists in residence rotate), visitors who can arrive 20-30 min early to guarantee the front row. **Who
   it''s NOT for:** those wanting comfortable theatrical seats with tiered viewing (Teatro Flamenco Sevilla is better), large
   groups wanting to sit together in a specific zone (very limited capacity, not guaranteed), those seeking dinner included
-  with show (Tablao El Arenal), strict wheelchair users (15th-c. historic building not marked accessible), those needing last-minute
+  with show (Tablao El Arenal), strict wheelchair users (16th-c. historic building not marked accessible), those needing last-minute
   booking (likely to sell out, especially July-August).
 
   '
@@ -177,9 +177,9 @@ guiasRelacionadas:
 
 ## What you'll see
 
-A **1-hour flamenco show in the 15th-century Andalusian patio of Casa de la Memoria** — the most intimate format among Seville's major flamenco venues. Only 2 rows of seats around the stage for an experience 2-3 metres from the artists. 13,526 reviews at 4.8/5.
+A **1-hour flamenco show in the 16th-century Andalusian patio of Casa de la Memoria** — the most intimate format among Seville's major flamenco venues. Only 2 rows of seats around the stage for an experience 2-3 metres from the artists. 13,526 reviews at 4.8/5.
 
-- **15th-century historic Andalusian patio** — the building is part of the experience. Stone floor, arcades, intimate atmosphere. The patio works as a natural resonance chamber for the flamenco voice and guitar.
+- **16th-century historic Andalusian patio** — the venue occupies the former stables of the Lebrija Palace and is part of the experience. Stone floor, arcades, intimate atmosphere. The patio works as a natural resonance chamber for the flamenco voice and guitar.
 - **International professional flamenco ensemble** — typically 3 dancers + 2 singers + 1 guitarist. Artists change every night; usually figures from the Spanish and international professional circuit.
 - **Structured 1-hour show** — alegrías, soleá, bulerías, seguiriyas, tangos, fandangos. Program varies by the artists of the night.
 - **Only 2 rows of seats** around the stage — MAXIMUM INTIMACY. The front row places you literally 1-2 metres from the artists; the second row 2-3 metres.
@@ -213,6 +213,6 @@ A **1-hour flamenco show in the 15th-century Andalusian patio of Casa de la Memo
 - Those wanting **comfortable theatrical seats** with tiered viewing (Teatro Flamenco Sevilla is better).
 - **Large groups** wanting to sit together in a specific zone (very limited capacity).
 - Those seeking **dinner included** with show (Tablao El Arenal is better).
-- **Strict wheelchair users** (15th-c. historic building not marked accessible).
+- **Strict wheelchair users** (16th-c. historic building not marked accessible).
 - Those needing **last-minute booking** (likely to sell out, especially July-August).
 - Visitors who want **drinks during the show** (pure format without service).

@@ -103,7 +103,7 @@ Sunscreen, a cap, swimwear and a towel (many trips include a swim stop; the eco-
 
 ## Other ways to see the sea
 
-The [kayak and snorkel tour from Los Cristianos](/en/cities/tenerife/activities/los-cristianos-kayak-snorkel-tour) (3 hours, from €20.90, 4.7★ from 12,364 reviews) follows the volcanic coast and sometimes meets dolphins or turtles. And the [Masca Gorge hike](/en/cities/tenerife/activities/masca-gorge-hike-boat-trip) (6 hours, from €145) ends with a boat ride beneath the Los Gigantes Cliffs. More ideas in [what to see in Tenerife](/en/guides/tenerife/what-to-see-in-tenerife).
+The [kayak and snorkel tour from Los Cristianos](/en/cities/tenerife/activities/los-cristianos-kayak-snorkel-tour) (3 hours, from €23, 4.7★ from 12,364 reviews) follows the volcanic coast and sometimes meets dolphins or turtles. And the [Masca Gorge hike](/en/cities/tenerife/activities/masca-gorge-hike-boat-trip) (6 hours, from €145) ends with a boat ride beneath the Los Gigantes Cliffs. More ideas in [what to see in Tenerife](/en/guides/tenerife/what-to-see-in-tenerife).
 
 ## In one sentence
 

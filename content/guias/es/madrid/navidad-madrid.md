@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-imagen_portada: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
-imagen_alt: "Plaza del Callao y Gran Vía de Madrid iluminadas de noche"
+imagen_portada: "/images/guias/navidad-madrid.jpg"
+imagen_alt: "Mercadillo navideño de la Plaza Mayor de Madrid iluminado de noche, con el árbol de Navidad"
 tiempo_lectura: 3
 keywords:
   - "navidad en madrid"

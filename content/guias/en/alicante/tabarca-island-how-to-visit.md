@@ -27,11 +27,18 @@ actividades:
   - ferry-santa-pola-tabarca
   - barco-alicante-isla-tabarca-ida-vuelta
   - snorkel-tabarca-reserva-marina
+opciones:
+  - ficha: ferry-santa-pola-tabarca
+    etiqueta: Cheapest
+  - ficha: barco-alicante-isla-tabarca-ida-vuelta
+    etiqueta: From Alicante
+  - ficha: snorkel-tabarca-reserva-marina
+    etiqueta: With snorkelling
 ---
 
 **Tabarca is the excursion that sets Alicante apart.** The smallest inhabited island in Spain is also a **marine reserve** (the country's first), with crystal-clear water for snorkelling, an 18th-century walled town and rice dishes by the sea. This guide explains how to get there, what to do and how to organise the day to make the most of it.
 
-## How to get to Tabarca
+## Which boat should you choose?
 
 | Activity | Rating | From |
 | --- | --- | --- |

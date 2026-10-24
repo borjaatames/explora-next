@@ -132,15 +132,23 @@ keywords:
 - barca robokeeper
 - camp nou virtual dream
 - fc barcelona pase premium
-imagen: "/images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp"
-imagenAlt: "Estatua de Kubala en el exterior del Camp Nou"
+imagen: "/images/actividades/barcelona/camp-nou/camp-nou-gradas-mes-que-un-club.webp"
+imagenAlt: "Gradas del Camp Nou con el lema «Més que un club»"
 galeria:
-- src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
-  alt: "Estatua de Kubala en el exterior del Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: "Gradas rojas del Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
-  alt: "Gradas del Camp Nou con las letras del FC Barcelona"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-gradas-mes-que-un-club.webp"
+    alt: "Gradas del Camp Nou con el lema «Més que un club»"
+  - src: "/images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp"
+    alt: "Estatua de Kubala en el exterior del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-cesped-y-gradas-vacias.webp"
+    alt: "Césped y gradas vacías del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp"
+    alt: "Gradas rojas del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-vista-aerea.webp"
+    alt: "Vista aérea del estadio Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp"
+    alt: "Gradas del Camp Nou con las letras del FC Barcelona"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-acceso-fc-barcelona.webp"
+    alt: "Acceso al recinto del FC Barcelona junto al Camp Nou"
 ratingProveedor: 4.2
 numeroOpiniones: 979
 publicada: true

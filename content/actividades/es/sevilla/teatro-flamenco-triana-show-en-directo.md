@@ -92,8 +92,8 @@ preguntasFrecuentes:
 - pregunta: ¿Cuál es la diferencia con los otros 4 grandes flamencos de Sevilla?
   respuesta: '**Teatro Flamenco Triana (este):** Teatro en el barrio cuna gitana del flamenco, 4.363 reseñas 4,7/5, desde
     25 €. RECOMENDADO si quieres el ambiente del barrio histórico flamenco (paseo por Calle Betis incluido). **Teatro Flamenco
-    Sevilla:** Teatro grande en Barrio Santa Cruz, máximo volumen (18.292 reseñas), desde 27 €. RECOMENDADO si quieres lo
-    más reservado + céntrico + asequible. **Casa de la Memoria:** Patio s.XV en centro histórico, INTIMIDAD MÁXIMA (2 filas),
+    Sevilla:** Teatro grande en la calle Cuna (centro histórico), máximo volumen (18.292 reseñas), desde 25 €. RECOMENDADO si quieres lo
+    más reservado + céntrico + asequible. **Casa de la Memoria:** Patio s. XVI en centro histórico, INTIMIDAD MÁXIMA (2 filas),
     13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras intimidad máxima. **Museo del Baile Flamenco:** Patio Ecija s.XVIII
     + Cristina Hoyos, 6.456 reseñas 4,8/5, desde 32 €. RECOMENDADO si te interesa la calidad artística icónica. **Tablao El
     Arenal:** Edificio s.XVII junto Maestranza, 50 años, opción cena, desde 48 €. RECOMENDADO si quieres tradición + cena.'
@@ -134,7 +134,7 @@ opinionEditorial: 'El **flamenco en el barrio cuna del flamenco español** — T
 
 
   **Comparación de precios:** desde 25 € tiene **el precio de partida más bajo** de los 5 grandes flamencos de Sevilla (vs.
-  Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). Además suma
+  Casa de la Memoria 26 €, Teatro Flamenco Sevilla 25 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). Además suma
   la experiencia en Triana, asientos cómodos en un teatro bonito y la combinación con un paseo por Calle Betis.
 
 

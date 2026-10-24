@@ -39,7 +39,7 @@ noIncluye:
 - Comida o cena
 - Propinas
 - Transporte
-- Acceso al museo en la opción solo-show (es opcional por +7 €)
+- Acceso al museo en la opción solo-show (es opcional por +6 €)
 puntoEncuentro:
   texto: '**Calle Manuel Rojas Marcos 3** (41004 Sevilla, Barrio Santa Cruz). Acceso por la entrada principal del Museo del
     Baile Flamenco. Si reservaste la opción combinada, el museo abre 11:00-18:00 — última entrada 18:00. Llega 15-20 min antes
@@ -74,7 +74,7 @@ informacionImportante:
   - El patio Ecija s. XVIII tiene **sillas y naranjos «flotantes»** en el techo — efecto visual único
   - Pases diarios a las **17:00, 19:00 y 20:45** — verifica disponibilidad al reservar
   - '**Foto y vídeo NO permitidos durante el show** — mantén el móvil en el bolsillo, formato inmersivo'
-  - Opción combinada con museo (+7 €) — el Museo del Baile Flamenco tiene 5 plantas con exposiciones permanentes sobre la
+  - Opción combinada con museo (+6 €) — el Museo del Baile Flamenco tiene 5 plantas con exposiciones permanentes sobre la
     historia del flamenco
   - Llega 15-20 min antes para asegurar buen asiento (no son numerados)
   - 'Aforo limitado del patio: ~60-80 plazas — reserva con antelación en julio-agosto y fines de semana'
@@ -94,22 +94,22 @@ preguntasFrecuentes:
     a preservar y mostrar la historia y técnicas del flamenco. Las coreografías del show «Puro Flamenco» llevan su sello —
     son piezas elaboradas por ella o su equipo, con calidad artística característica. Para entendidos del flamenco, ver un
     show con coreografía Hoyos es un plus reconocido.'
-- pregunta: ¿Vale la pena la opción combinada con el museo (+7 €)?
+- pregunta: ¿Vale la pena la opción combinada con el museo (+6 €)?
   respuesta: 'Depende de tu interés en la historia del flamenco. **El Museo del Baile Flamenco** tiene 5 plantas: planta baja
     con la entrada y la tienda; primera con la exposición «Bailar es soñar» (artículos personales de bailaoras icónicas);
     segunda con sala interactiva sobre los palos del flamenco (alegrías, soleá, bulerías, etc.); tercera con sala dedicada
     a Cristina Hoyos y Antonio Gades; cuarta con sala de proyecciones y exposiciones temporales; quinta con terraza con vistas
-    al barrio. Si estás 1 día en Sevilla y solo te interesa el show, la opción solo-show (32 €) es suficiente. Si tienes 2-3
-    días y te interesa la cultura flamenca, la combinada (+7 €) vale la pena — el museo es **«Lugar de Interés Turístico de
+    al barrio. Si estás 1 día en Sevilla y solo te interesa el show, la opción solo-show (33 €) es suficiente. Si tienes 2-3
+    días y te interesa la cultura flamenca, la combinada (+6 €) vale la pena — el museo es **«Lugar de Interés Turístico de
     Andalucía»**, único venue flamenco con esta distinción.'
 - pregunta: ¿Cuál es la diferencia con Casa de la Memoria y los otros 3 grandes?
   respuesta: '**Museo del Baile Flamenco (este):** Patio Ecija s.XVIII + sello Cristina Hoyos, calidad artística icónica,
     6.456 reseñas 4,8/5, desde 33 €. RECOMENDADO si valoras calidad artística + figura de Cristina Hoyos. **Casa de la Memoria:**
-    Patio s.XV + solo 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 26 €. RECOMENDADO si valoras estar a 2-3 m de
+    Patio s. XVI + solo 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 24 €. RECOMENDADO si valoras estar a 2-3 m de
     los artistas. **Teatro Flamenco Sevilla:** Teatro grande, máximo volumen (18.292 reseñas), asientos cómodos escalonados,
-    desde 27 €. RECOMENDADO si quieres lo más reservado + confort. **Teatro Flamenco Triana:** Teatro en Triana (barrio gitano
+    desde 25 €. RECOMENDADO si quieres lo más reservado + confort. **Teatro Flamenco Triana:** Teatro en Triana (barrio gitano
     histórico), 4.363 reseñas 4,7/5, desde 25 €. RECOMENDADO si quieres el ambiente de Triana. **Tablao El Arenal:** Edificio
-    s.XVII junto Maestranza, 50 años de historia, opción cena, desde 48 €. RECOMENDADO si quieres tradición + cena.'
+    s.XVII junto Maestranza, 50 años de historia, opción cena, desde 45 €. RECOMENDADO si quieres tradición + cena.'
 - pregunta: ¿Qué son los palos del flamenco y cuáles veré?
   respuesta: 'Los **palos** son los distintos «géneros» o estilos del flamenco — cada uno con su compás, melodía y carácter
     emocional. Los más habituales en shows turísticos: **Alegrías** (festero, alegre, ritmo 12/8); **Soleá** (solemne, profundo,
@@ -127,7 +127,7 @@ preguntasFrecuentes:
 variantes:
 - nombre: Solo Show
   descripcion: Espectáculo Puro Flamenco de 1 hora. Sin acceso al museo.
-  precio: 32
+  precio: 33
 - nombre: Show + Museo
   descripcion: Espectáculo Puro Flamenco + acceso al Museo del Baile Flamenco (5 plantas con exposiciones, accesible 11:00-18:00
     mismo día).
@@ -140,9 +140,9 @@ opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseña
 
 
   **Comparación de precios:** desde 33 € es **el segundo más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
-  Triana 25 €, Casa de la Memoria 26 €, Teatro Flamenco Sevilla 27 €, Tablao El Arenal 48 €). El plus de 5-6 € sobre
-  Casa de la Memoria compra: coreografía Hoyos + patio Ecija s.XVIII + opción combinada con museo (+7 €). La opción combinada
-  con museo (+7 € = 39 € total) es la mejor relación si tienes 2-3 días en Sevilla y te interesa la cultura flamenca a fondo.
+  Triana 25 €, Casa de la Memoria 24 €, Teatro Flamenco Sevilla 25 €, Tablao El Arenal 45 €). El plus de 9 € sobre
+  Casa de la Memoria compra: coreografía Hoyos + patio Ecija s.XVIII + opción combinada con museo (+6 €). La opción combinada
+  con museo (+6 € = 39 € total) es la mejor relación si tienes 2-3 días en Sevilla y te interesa la cultura flamenca a fondo.
 
 
   **Tres puntos clave a entender:** **(1)** Está declarado «Lugar de Interés Turístico de Andalucía» por la Junta — **único
@@ -155,7 +155,7 @@ opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseña
   coreografía elaborada, viajeros con 2-3 días en Sevilla que quieran combinar show + museo, parejas que prefieran ambiente
   cuidado en patio histórico, visitantes que valoren formato inmersivo sin distracciones de smartphones. **Para quién NO:**
   quien quiera intimidad máxima a 2-3 m del artista (Casa de la Memoria es mejor — solo 2 filas), quien busque lo más reservado
-  + asequible (Teatro Flamenco Sevilla con 18.292 reseñas a 27 €), quien quiera ambiente de barrio gitano histórico (Teatro
+  + asequible (Teatro Flamenco Sevilla con 18.292 reseñas a 25 €), quien quiera ambiente de barrio gitano histórico (Teatro
   Flamenco Triana), quien valore poder hacer fotos (no permitidas aquí), usuarios estrictos de silla de ruedas.
 
   '
@@ -204,11 +204,11 @@ Un **espectáculo flamenco de 1 hora con coreografías de Cristina Hoyos** en el
 - **Coreografías de Cristina Hoyos** — la fundadora del museo es una de las bailaoras más importantes del flamenco español del s. XX (películas «Bodas de Sangre», «Carmen», «El amor brujo» de Carlos Saura).
 - **3 pases diarios:** 17:00, 19:00 y 20:45.
 - **Iluminación teatral profesional + sonido cuidado** — formato más teatral que tablao tradicional pero más íntimo que un teatro grande.
-- **Opción combinada con museo** (+7 € = 39 € total) — 5 plantas con exposiciones sobre la historia del flamenco, declarado «Lugar de Interés Turístico de Andalucía».
+- **Opción combinada con museo** (+6 € = 39 € total) — 5 plantas con exposiciones sobre la historia del flamenco, declarado «Lugar de Interés Turístico de Andalucía».
 
 ## Cómo funciona
 
-**Reserva tu fecha, pase y opción** (Solo Show 32 € o Show + Museo 39 €).
+**Reserva tu fecha, pase y opción** (Solo Show 33 € o Show + Museo 39 €).
 
 **Si reservaste la opción combinada**, puedes visitar el museo entre 11:00 y 18:00 el mismo día de tu reserva. El museo tiene 5 plantas — calcula 1-1,5 horas para una visita pausada.
 
@@ -233,7 +233,7 @@ Un **espectáculo flamenco de 1 hora con coreografías de Cristina Hoyos** en el
 ## A quién NO se lo recomiendo
 
 - Quien quiera **intimidad máxima** a 2-3 m del artista (Casa de la Memoria — solo 2 filas).
-- Quien busque lo **más reservado + asequible** (Teatro Flamenco Sevilla con 18.292 reseñas a 27 €).
+- Quien busque lo **más reservado + asequible** (Teatro Flamenco Sevilla con 18.292 reseñas a 25 €).
 - Quien quiera **ambiente de barrio gitano histórico** (Teatro Flamenco Triana).
 - Quien valore poder **hacer fotos** durante el show (no permitidas aquí).
 - **Usuarios estrictos de silla de ruedas** (edificio histórico s.XVIII con escaleras).

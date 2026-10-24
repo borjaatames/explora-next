@@ -55,7 +55,7 @@ imagen_alt: "El río Onyar y sus casas de colores en Girona"
 | Catedral y museos | [Catedral, Museu d'Art y Sant Feliu](/ciudades/girona/actividades/girona-catedral-museu-art-sant-feliu-entrada), 4,5★ (195) | 12 € |
 | Barrio judío con guía | [Tour por la Girona judía y el Call](/ciudades/girona/actividades/girona-judia-tour-guiado-call), 4,9★ (140) | 45 € |
 | A tu ritmo | [Audioguía autoguiada con la app DareMapp](/ciudades/girona/actividades/tour-autoguiado-daremapp-girona) | 5 € |
-| Desde Barcelona con Costa Brava | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 99 € |
+| Desde Barcelona con Costa Brava | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 98,5 € |
 | Desde Barcelona con Dalí | [Girona, Figueres, Dalí y Cadaqués](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |
 
 Si solo reservas una cosa, que sea el tour a pie la primera mañana: 2 h 30 por la muralla, la catedral, El Call y el puente de Eiffel, y al final el guía te dice qué visitar por dentro y dónde comer. Va por fuera, así que las entradas a monumentos se pagan aparte.

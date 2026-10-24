@@ -29,7 +29,7 @@ imagen_portada: "/images/guias/escapadas-desde-valencia.jpg"
 imagen_alt: "Guadalest und sein Stausee"
 ---
 
-**Valencia ist eine hervorragende Basis für Tagesausflüge.** In weniger als einer Stunde erreichen Sie den Naturpark, in dem die Paella geboren wurde, spektakuläre Burgen, iberische und römische Städte sowie Dörfer der Costa del Azahar. Dieser Ratgeber ordnet die besten Ausflüge nach verfügbarer Zeit und Art der Anreise, mit oder ohne Auto.
+**Valencia ist eine hervorragende Basis für Tagesausflüge.** In weniger als einer Stunde erreichst du den Naturpark, in dem die Paella geboren wurde, spektakuläre Burgen, iberische und römische Städte sowie Dörfer der Costa del Azahar. Dieser Ratgeber ordnet die besten Ausflüge nach verfügbarer Zeit und Art der Anreise, mit oder ohne Auto.
 
 Der nächstgelegene und unverzichtbare ist die **Albufera**, nur 20 Minuten entfernt: für viele das beste Erlebnis der Region. Der Rest wird nach Geschmack gewählt: Geschichte (Sagunto, Xàtiva), Strand mit Burg (Peñíscola) oder Wein (Requena).
 
@@ -46,7 +46,7 @@ Der nächstgelegene und unverzichtbare ist die **Albufera**, nur 20 Minuten entf
 
 ## Die Albufera und El Palmar
 
-Mit dem Auto 20–25 Minuten vom Zentrum entfernt, mit den EMT-Bussen 24 und 25 ab Plaza de la Reina etwa 45 Minuten (seit Juni 2026 ungefähr alle 25–35 Minuten), liegt der **Naturpark der Albufera**, ein großer See, umgeben von Reisfeldern und Barracas, wo die Paella geboren wurde. Machen Sie bei Sonnenuntergang eine **Bootsfahrt** zwischen den Reisfeldern – einer der schönsten Pläne in der Nähe der Stadt – und essen Sie eine **echte valencianische Paella** in **El Palmar**, der Hauptstadt des Reises. Ein perfekter halber Tag. Wir verbinden diesen Ausflug mit dem zweiten Tag von [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen).
+Mit dem Auto 20–25 Minuten vom Zentrum entfernt, mit den EMT-Bussen 24 und 25 ab Plaza de la Reina etwa 45 Minuten (seit Juni 2026 ungefähr alle 25–35 Minuten), liegt der **Naturpark der Albufera**, ein großer See, umgeben von Reisfeldern und Barracas, wo die Paella geboren wurde. Mach bei Sonnenuntergang eine **Bootsfahrt** zwischen den Reisfeldern – einer der schönsten Pläne in der Nähe der Stadt – und iss eine **echte valencianische Paella** in **El Palmar**, der Hauptstadt des Reises. Ein perfekter halber Tag. Wir verbinden diesen Ausflug mit dem zweiten Tag von [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen).
 
 ## Sagunto
 
@@ -66,22 +66,22 @@ Eine Stunde entfernt ist **Requena** Wein- und Cava-Land mit einer mittelalterli
 
 ## Wie man sich fortbewegt
 
-Viele Ausflüge lassen sich **mit dem Nahverkehrszug** erledigen (Sagunto, Xàtiva, Gandia), ganz ohne Auto. Zur Albufera per Bus oder Auto. Für Peñíscola, Requena oder Dörfer im Landesinneren gibt das **Auto** mehr Freiheit. Reservieren Sie Weingutbesuche und Bootsfahrten in der Saison im Voraus.
+Viele Ausflüge lassen sich **mit dem Nahverkehrszug** erledigen (Sagunto, Xàtiva, Gandia), ganz ohne Auto. Zur Albufera per Bus oder Auto. Für Peñíscola, Requena oder Dörfer im Landesinneren gibt das **Auto** mehr Freiheit. Reserviere Weingutbesuche und Bootsfahrten in der Saison im Voraus.
 
 ## Was wir NICHT empfehlen
 
 1. **Die Albufera auslassen.** Es ist der nächstgelegene Ausflug und der, der Valencia besonders macht.
-2. **Zwei weit entfernte Ausflüge am selben Tag versuchen.** Wählen Sie einen und genießen Sie ihn in Ruhe.
-3. **Ohne die Fahrzeit einzuplanen nach Peñíscola fahren.** Anderthalb Stunden pro Strecke; fahren Sie früh los.
+2. **Zwei weit entfernte Ausflüge am selben Tag versuchen.** Wähl einen und genieß ihn in Ruhe.
+3. **Ohne die Fahrzeit einzuplanen nach Peñíscola fahren.** Anderthalb Stunden pro Strecke; fahr früh los.
 
 ## Typische Fehler
 
 > **⚠️ Hinweis:** Die Fehler, die wir am häufigsten sehen.
 
-1. **Am Wochenende keinen Tisch in El Palmar reservieren** oder zu spät zum Boot bei Sonnenuntergang kommen (die Boote fahren ohne Reservierung, nach Reihenfolge der Ankunft).
-2. **Vergessen, dass viele Burgen mittags oder montags geschlossen sind.** Prüfen Sie die Öffnungszeiten.
-3. **Die Sommerhitze an den Burgen ohne Schatten unterschätzen** (Sagunto, Xàtiva); gehen Sie früh morgens.
+1. **Am Wochenende keinen Tisch in El Palmar reservieren** oder die Bootsfahrt bei Sonnenuntergang nicht reservieren (sie ist als Erste ausgebucht; die normale Fahrt von 40–45 Minuten für etwa 5 € geht auch ohne Reservierung).
+2. **Vergessen, dass viele Burgen mittags oder montags geschlossen sind.** Prüf die Öffnungszeiten.
+3. **Die Sommerhitze an den Burgen ohne Schatten unterschätzen** (Sagunto, Xàtiva); geh früh morgens.
 
 ## In einem Satz
 
-Von Valencia aus erreichen Sie in weniger als einer Stunde die Albufera mit ihrer Paella, römische und arabische Burgen in Sagunto und Xàtiva sowie Strand mit Geschichte in Peñíscola: Ausflüge für jeden Geschmack, ohne weit zu fahren.
+Von Valencia aus erreichst du in weniger als einer Stunde die Albufera mit ihrer Paella, römische und arabische Burgen in Sagunto und Xàtiva sowie Strand mit Geschichte in Peñíscola: Ausflüge für jeden Geschmack, ohne weit zu fahren.

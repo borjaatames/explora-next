@@ -1,6 +1,6 @@
 ---
 titulo: "Park Güell: which ticket to choose"
-descripcion: "Park Güell basic ticket (€23) or ticket with the Gaudí House Museum (€30)? What each includes, timed-entry rules, hours and how to get there."
+descripcion: "Park Güell basic ticket (€21.50) or ticket with the Gaudí House Museum (€28)? What each includes, timed-entry rules, hours and how to get there."
 categoria: "barcelona"
 slug: "park-guell-which-ticket-to-choose"
 fecha: "2026-09-20"
@@ -21,34 +21,41 @@ slugs:
   de: park-guell-welches-ticket-waehlen
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
-respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €23** is enough. For €7 more, the **ticket with the Gaudí House Museum** (€30) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
+respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €21.50** is enough. For €6.50 more, the **ticket with the Gaudí House Museum** (€28) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
+opciones:
+  - ficha: park-guell-entrada-zona-monumental
+    etiqueta: Cheapest
+  - ficha: park-guell-entrada-museo-casa-gaudi
+    etiqueta: With Gaudí House
+  - ficha: sagrada-familia-park-guell-tour-guiado
+    etiqueta: With a guide
 ---
 
 Park Güell has two tickets you can book separately: the basic ticket to the monumental zone and a combined ticket with the Gaudí House Museum. If you also want to pair it with the Sagrada Família, there are four more options built for that — compared in our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose).
 
-## The 2 Park Güell options
+## Which ticket should you choose?
 
 | Option | Price from | Duration | Format | Best for |
 |---|---|---|---|---|
-| [Skip-the-line ticket to the monumental zone](/en/cities/barcelona/activities/park-guell-admission-ticket) | €23 | 1.5-2 h | Self-guided, no guide | Travelers who just want the cheapest ticket, at their own pace |
-| [Ticket + Gaudí House Museum](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | €30 | 2-3 h | Self-guided + museum | Travelers who also want to see where Gaudí lived |
+| [Skip-the-line ticket to the monumental zone](/en/cities/barcelona/activities/park-guell-admission-ticket) | €21.5 | 1.5-2 h | Self-guided, no guide | Travelers who just want the cheapest ticket, at their own pace |
+| [Ticket + Gaudí House Museum](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | €28 | 2-3 h | Self-guided + museum | Travelers who also want to see where Gaudí lived |
 
 ## How to choose in 30 seconds
 
-- **Tight budget, don't need a guide:** skip-the-line ticket to the monumental zone (€23).
-- **Want to see where Gaudí actually lived:** ticket + Gaudí House Museum (€30).
+- **Tight budget, don't need a guide:** skip-the-line ticket to the monumental zone (€21.50).
+- **Want to see where Gaudí actually lived:** ticket + Gaudí House Museum (€28).
 - **Want to pair it with the Sagrada Família:** there are 4 options that combine both — see our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose).
 
 ## What each ticket actually gets you
 
-**The basic ticket (€23)** covers the gated monumental zone: the mosaic dragon on the main staircase, the Hypostyle Hall with its 86 columns, the Nature Square with the long serpentine bench, and the porticoes. It also includes the Casa del Guarda, the gatekeeper's pavilion at the entrance, subject to capacity. It's the best-selling option, rated 4.4/5 from over 81,000 reviews, and most people spend 1.5-2 hours inside.
+**The basic ticket (€21.50)** covers the gated monumental zone: the mosaic dragon on the main staircase, the Hypostyle Hall with its 86 columns, the Nature Square with the long serpentine bench, and the porticoes. It also includes the Casa del Guarda, the gatekeeper's pavilion at the entrance, subject to capacity. It's the best-selling option, rated 4.4/5 from over 81,000 reviews, and most people spend 1.5-2 hours inside.
 
 [actividad: park-guell-admission-ticket]
 
-**The combined ticket (€30)** adds the Gaudí House Museum, the house where Gaudí lived from 1906 to 1925, with furniture he designed for himself and personal objects. Know what you're paying for:
+**The combined ticket (€28)** adds the Gaudí House Museum, the house where Gaudí lived from 1906 to 1925, with furniture he designed for himself and personal objects. Know what you're paying for:
 
 - **It's small.** Two floors, about 45 minutes. Don't expect a big museum.
 - **It's a different building from the Casa del Guarda.** The museum sits higher up the park, a 10-15 minute walk uphill from the lower entrance. The combined ticket does not include the Casa del Guarda.
@@ -80,4 +87,4 @@ Your ticket only covers the monumental zone. The rest of the park — the woodla
 
 ## Which one we'd book
 
-For most first visits, the basic €23 ticket is enough: it covers everything people picture when they think of Park Güell. Add the museum (€30) if Gaudí himself is part of why you're in Barcelona. If you'd rather have a guide explain what you're seeing, or want to do Park Güell and the Sagrada Família in one go, the combined guided tours in our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose) include both entries.
+For most first visits, the basic €21.50 ticket is enough: it covers everything people picture when they think of Park Güell. Add the museum (€28) if Gaudí himself is part of why you're in Barcelona. If you'd rather have a guide explain what you're seeing, or want to do Park Güell and the Sagrada Família in one go, the combined guided tours in our [Sagrada Família guide](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose) include both entries.

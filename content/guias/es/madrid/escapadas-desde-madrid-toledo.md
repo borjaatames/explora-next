@@ -98,7 +98,7 @@ Toledo de noche, sin los excursionistas, es otra ciudad. Casco histórico (parad
 
 ## Otras escapadas a una hora
 
-**El Escorial y el Valle de Cuelgamuros** (en [Madrid en 3 días](/guias/madrid/madrid-en-3-dias)), **Segovia** (acueducto, alcázar y cochinillo), **Aranjuez** (palacio y jardines, en primavera), **Ávila** (la muralla, más fría) y **Alcalá de Henares** (Cervantes, menos visitada). Pero con un solo día, Toledo.
+**El Escorial y el Valle de Cuelgamuros** (en [Madrid en 3 días](/guias/madrid/madrid-en-3-dias)), **Segovia** (acueducto, alcázar y cochinillo), **Aranjuez** (palacio y jardines, en primavera), **Ávila** (la muralla, más fría) y **Alcalá de Henares** (Cervantes, menos visitada). Pero con un solo día, Toledo. Si dudas con Segovia, en [¿Toledo o Segovia?](/guias/madrid/toledo-o-segovia-desde-madrid) comparamos las dos excursiones punto por punto.
 
 ## En una frase
 

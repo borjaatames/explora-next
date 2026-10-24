@@ -30,7 +30,7 @@ actividades:
 
 **Die letzten 100 km des Jakobswegs zu laufen ist die beliebteste Art, ihn zu erleben** und die Compostela zu erhalten, ohne Wochen Zeit zu haben. Es ist die minimale Gehstrecke, die die Kathedrale für die Ausstellung des Zertifikats verlangt, und sie lässt sich in etwa **5-7 Tagen** bewältigen – erreichbar für fast jeden mit einer grundlegenden Vorbereitung. Dieser Guide erklärt, wo man startet, wie die Etappen aussehen und was man braucht, damit der Plan rundläuft.
 
-Der Schlüssel: Wählen Sie den Startpunkt passend zur Route, tragen Sie den **Pilgerausweis** gestempelt bei sich und genießen Sie den Camino als das, was er ist – eine Erfahrung, kein Wettlauf.
+Der Schlüssel: Wähl den Startpunkt passend zur Route, trag den **Pilgerausweis** gestempelt bei dir und genieß den Camino als das, was er ist – eine Erfahrung, kein Wettlauf.
 
 ## Wo man für die Compostela startet
 
@@ -78,7 +78,7 @@ Fünf angenehme Etappen (die dritte lässt sich aufteilen). Der **Monte do Gozo*
 - Kleidung im Zwiebelschichten-Prinzip und wenig Gewicht im Rucksack.
 - Fußpflege: Vaseline, Pflaster, technische Socken.
 
-> **⭐ Tipp:** Es gibt **Gepäcktransport-Dienste** zwischen den Etappen, und es lohnt sich, die Unterkunft (private Herbergen) in der Hauptsaison im Voraus zu buchen. Sarria, als Massenstart, füllt sich schnell: Buchen Sie die erste Nacht.
+> **⭐ Tipp:** Es gibt **Gepäcktransport-Dienste** zwischen den Etappen, und es lohnt sich, die Unterkunft (private Herbergen) in der Hauptsaison im Voraus zu buchen. Sarria, als Massenstart, füllt sich schnell: Buch die erste Nacht.
 
 ## Was wir NICHT empfehlen
 

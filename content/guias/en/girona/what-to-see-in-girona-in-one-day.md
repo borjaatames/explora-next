@@ -54,7 +54,7 @@ imagen_alt: "The Onyar river and its colourful houses in Girona"
 | Cathedral and museums | [Cathedral, Art Museum and Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4.5★ (195) | €12 |
 | Jewish quarter with a guide | [Jewish Girona and the Call tour](/en/cities/girona/activities/jewish-girona-guided-tour), 4.9★ (140) | €45 |
 | At your own pace | [Self-guided audio tour with the DareMapp app](/en/cities/girona/activities/self-guided-tour-daremapp-girona) | €5 |
-| From Barcelona with the Costa Brava | [Girona, Pals and Calella de Palafrugell small-group tour](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4.8★ (2,096) | €99 |
+| From Barcelona with the Costa Brava | [Girona, Pals and Calella de Palafrugell small-group tour](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4.8★ (2,096) | €98.5 |
 | From Barcelona with Dalí | [Girona, Figueres, Dalí and Cadaqués](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €69 |
 
 If you only book one thing, make it the walking tour on your first morning: 2 h 30 min through the walls, the cathedral, the Call and the Eiffel bridge, ending with tips on what to visit inside and where to eat. It stays outdoors, so monument tickets are extra.

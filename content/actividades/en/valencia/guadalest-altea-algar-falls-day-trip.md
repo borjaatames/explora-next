@@ -8,7 +8,7 @@ slugs:
   en: guadalest-altea-algar-falls-day-trip
 duracion: 11 hours
 duracionMinutos: 660
-precioDesde: 39
+precioDesde: 55
 moneda: EUR
 idiomas:
 - en

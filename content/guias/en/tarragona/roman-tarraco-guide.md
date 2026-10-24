@@ -36,7 +36,7 @@ actividades:
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Guided walking tour of Roman Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4.7★ (334) | €15 |
-| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €13 |
+| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €12.5 |
 | [Self-guided audio tour (DareMapp app)](/en/cities/tarragona/activities/self-guided-tour-daremapp-tarragona) | — | €5 |
 
 How to choose:
@@ -72,7 +72,8 @@ Start at the **Amphitheatre**, the most famous image, by the beach. Continue to 
 
 - **Who goes free:** children under 12. Ages 12–17, students and retirees pay half. A large family pays a single ticket for everyone.
 - **When it pays off:** from the third site the combined ticket is cheaper than paying one by one. Tickets are sold at the sites and online at entrades.museu.tarragona.cat.
-- **Closed on Mondays.** All the municipal sites close on Mondays, and on Sundays they open in the morning only. If Monday is your only day, you're left with the walls from outside, the aqueduct and the cathedral.
+- **Opening hours.** From April to late October, Tuesday to Saturday 9:00–20:45 and Sundays and holidays 9:00–14:30. In winter, Tuesday to Friday 9:00–18:30 (the Circus-Praetorium and Casa Canals until 20:00), Saturdays from 9:30 and Sundays 9:30–14:30. Last entry 30 minutes before closing.
+- **Closed on Mondays.** All the municipal sites close on Mondays. If Monday is your only day, you're left with the walls from outside, the aqueduct and the cathedral.
 - **How long:** a long half day for the urban circuit (amphitheatre, circus, Praetorium, forum and walls), plus 2 hours if you add the aqueduct.
 
 > **Tip:** in summer, start at opening time. The amphitheatre, circus and walls have almost no shade, and by midday the heat is hard going.

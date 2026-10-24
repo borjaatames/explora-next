@@ -21,7 +21,7 @@ slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out
 reservasArriba: true
-respuestaCorta: 'General admission costs **€18** on `tickets.patrimonionacional.es`. If your slot is sold out, try another time, the **official guided visit (€26)** or the **ticket office**, which sells until an hour before closing. EU and Latin American citizens get in **free Monday to Thursday in the last two hours**, at the ticket office only. A **tour with entry included** secures your visit from €38.'
+respuestaCorta: 'General admission costs **€18** on `tickets.patrimonionacional.es`. If your slot is sold out, try another time, the **official guided visit (€26)** or the **ticket office**, which sells until an hour before closing. EU and Latin American citizens get in **free Monday to Thursday in the last two hours**, at the ticket office only. A **tour with entry included** secures your visit from €36.'
 actividades:
   - palacio-real-visita-guiada-golden-tour
   - palacio-real-tour-premium-skip-line
@@ -36,17 +36,24 @@ faq:
   respuesta: Yes, as long as the listing says palace entry is included. Guided tours hold their own bookings and you skip the ticket office queue.
 - pregunta: What can I see of the Royal Palace without a ticket?
   respuesta: 'The Changing of the Guard on Wednesdays and Saturdays, the solemn ceremony on the first Wednesday of the month, the Sabatini Gardens, the Campo del Moro and the Plaza de Oriente are all free.'
+opciones:
+  - ficha: palacio-real-visita-guiada-golden-tour
+    etiqueta: With the Royal Armoury
+  - ficha: palacio-real-tour-premium-skip-line
+    etiqueta: Top rated
+  - ficha: palacio-real-visita-privada-guia-oficial
+    etiqueta: Private
 ---
 
 The Royal Palace of Madrid sells timed tickets on Patrimonio Nacional's official website, and at Easter, on Spanish bank holidays and at weekends some slots show "low availability" or sell out. Unlike some monuments, there is almost always another way in on the day. Try these options in this order.
 
-## What you can book now
+## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| The most popular | [Skip-the-line guided tour with the Royal Armoury](/en/cities/madrid/activities/royal-palace-skip-line-guided-tour-golden), 4.8★ (4,060) | €38 |
-| A specialist guide | [Premium tour with skip-the-line entry](/en/cities/madrid/activities/royal-palace-premium-tour-skip-line), 5★ (59) | €40.95 |
-| Palace and old town | [Royal Palace and Almudena Cathedral](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4.5★ (9) | €58 |
+| The most popular | [Skip-the-line guided tour with the Royal Armoury](/en/cities/madrid/activities/royal-palace-skip-line-guided-tour-golden), 4.8★ (4,060) | €36 |
+| A specialist guide | [Premium tour with skip-the-line entry](/en/cities/madrid/activities/royal-palace-premium-tour-skip-line), 5★ (59) | €45 |
+| Palace and old town | [Royal Palace and Almudena Cathedral](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4.5★ (9) | €54 |
 | Just your group | [Private tour with an official guide](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | €141 |
 
 ## 1. Check the official website again
@@ -74,7 +81,7 @@ If you are an **EU or Latin American citizen or resident**, entry is **free Mond
 
 ## 4. A tour with entry included
 
-This is the easy option if you'd rather not gamble on the ticket office: operators book tickets in advance and sell the tour with your time already set. It costs more than the ticket alone (from €38), but you get a guide and skip the queue.
+This is the easy option if you'd rather not gamble on the ticket office: operators book tickets in advance and sell the tour with your time already set. It costs more than the ticket alone (from €36), but you get a guide and skip the queue.
 
 Before paying, check the listing says **"Royal Palace entry included"**. Some old-town walks only stop outside the facade.
 

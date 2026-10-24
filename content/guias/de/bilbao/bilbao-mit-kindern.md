@@ -60,7 +60,7 @@ Eine halbe Stunde entfernt überquert die **Biskaya-Brücke** (Hängebrücke) in
 
 ## Wo man mit Kindern isst
 
-Die **Pintxos** der Altstadt eignen sich gut für einen Happen ohne Wartezeit; viele Bars haben Tortilla, Croquetas und einfache Optionen, die bei Kindern gut ankommen. Der **Mercado de la Ribera** hat einen Verkostungsbereich. Reservieren Sie, wenn Sie in Ruhe an einem Tisch sitzen möchten.
+Die **Pintxos** der Altstadt eignen sich gut für einen Happen ohne Wartezeit; viele Bars haben Tortilla, Croquetas und einfache Optionen, die bei Kindern gut ankommen. Der **Mercado de la Ribera** hat einen Verkostungsbereich. Reserviere, wenn du in Ruhe an einem Tisch sitzen möchtest.
 
 ## Was wir mit Kindern NICHT empfehlen
 

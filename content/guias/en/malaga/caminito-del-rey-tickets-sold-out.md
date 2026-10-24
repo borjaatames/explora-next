@@ -47,7 +47,7 @@ The Caminito del Rey has a **limited daily capacity**, and between 2016 and 2025
 | Entry with a guide, getting there yourself | [Caminito del Rey ticket with official guide](/en/cities/malaga/activities/caminito-del-rey-ticket-official-guide), 4.6★ (16,892) | €30 |
 | Transport from Málaga | [Guided tour with transport and ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4.9★ (19,083) | €72 |
 | A nature backup plan | [Antequera dolmens and El Torcal](/en/cities/malaga/activities/antequera-dolmens-el-torcal-day-trip-from-malaga), 4.7★ (102) | €65 |
-| A white-village backup plan | [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4.7★ (8,742) | €35 |
+| A white-village backup plan | [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4.7★ (8,742) | €44 |
 
 ## 1. Check the official website again
 

@@ -37,11 +37,18 @@ faq:
     respuesta: "It is an active Catholic church with an enforced dress code: shoulders covered, skirts and trousers reaching at least mid-thigh, no see-through clothing, no swimwear or beach flip-flops, and no hats or caps inside the nave. Staff deny entry at the security check for violations, so dress as you would for any European church."
   - pregunta: "What is the Hour of Silence at Sagrada Familia?"
     respuesta: "Starting February 2, 2026, the basilica designates 9 to 10 AM every day as the Hour of Silence: headphones are mandatory for audio guides, no speaker audio is allowed, and visitors are asked to stay quiet. It is also the best time to visit, since it is less crowded and the morning light hits the east-side stained glass."
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: Cheapest
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: With a tower
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Small group
 ---
 
 Sagrada Familia gets about 4.5 million visitors a year, sells tickets only online in timed slots, and sells out weeks ahead. Here is which ticket to buy, when to book, whether to climb a tower, and the mistakes that get people turned away at the door.
 
-## Ticket types and 2026 official prices
+## Which ticket should you choose?
 
 | Ticket | Price | What's included |
 | --- | --- | --- |

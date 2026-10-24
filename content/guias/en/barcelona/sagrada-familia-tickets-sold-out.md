@@ -37,11 +37,18 @@ faq:
   respuesta: 'The international mass on Sundays and holy days at 9:00 and the Saturday mass at 20:00 are free with limited capacity, through the Nativity facade. It is a religious service, not a visit: you can''t tour the basilica or take photos during mass.'
 - pregunta: What if I arrive late for my slot?
   respuesta: 'Tickets are only valid for the time you chose, and if you arrive late you won''t be let in. Arrive with time to spare: there is a security check first.'
+opciones:
+  - ficha: entrada-sagrada-familia-audioguia
+    etiqueta: Cheapest
+  - ficha: sagrada-familia-tour-con-torre
+    etiqueta: With a tower
+  - ficha: sagrada-familia-visita-guiada-grupo-reducido
+    etiqueta: Small group
 ---
 
 The Sagrada Familia sells tickets **only online, with a set time**, about **two months ahead**, and in summer, Holy Week and on Spanish bank holidays the good slots go as soon as they are released. If the official site says "sold out", there are still options, and it pays to try them in this order.
 
-## What you can book now
+## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |

@@ -77,7 +77,7 @@ preguntasFrecuentes:
   - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
     respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución."
 
-variantes: ["tour-tapas-vino-atardecer-azotea", "tour-tapas-viejo-madrid", "ruta-tapas-nocturna-madrid"]
+variantes: ["tour-tapas-vino-atardecer-azotea", "ruta-tapas-nocturna-madrid"]
 
 opinionEditorial: |
   Es la opción acertada si te interesa el vino de verdad y no te importa salir de Madrid para conocerlo. A diferencia de los tours de tapas por el centro, este es enoturismo: medio día por la región vinícola de Madrid, con tres bodegas familiares, sus cuevas, al menos 9 vinos y los pueblos de Chinchón y Colmenar de Oreja de fondo. La nota de 4,9 y el hecho de que se agote con facilidad dicen mucho de la experiencia.
@@ -144,7 +144,7 @@ El almuerzo no está incluido: los aperitivos de las tres bodegas equivalen a un
 
 ## A quién NO se lo recomiendo
 
-- Si lo que buscabas era picar tapas paseando por el centro de Madrid. Para eso están los tours de tapas a pie, como el [del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid) o el de [tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea).
+- Si lo que buscabas era picar tapas paseando por el centro de Madrid. Para eso están los tours de tapas a pie, como el de [tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) o la [ruta de tapas nocturna](/ciudades/madrid/actividades/ruta-tapas-nocturna-madrid).
 - Si vas con niños menores de 12 años: no pueden participar.
 - Si necesitas accesibilidad en silla de ruedas. El recorrido por bodegas, cuevas y pueblos tiene terreno irregular y escaleras.
 - Si quieres un plan corto y barato. Son 6 horas, 145 euros y hay que salir de la ciudad.

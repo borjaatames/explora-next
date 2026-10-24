@@ -38,16 +38,23 @@ faq:
   respuesta: Yes, as long as the listing clearly says entry to the Alcázar is included. Operators book their places in advance. Be wary of walks that only go round the outside without saying so.
 - pregunta: What can I see of the Alcázar without a ticket?
   respuesta: 'The Patio de Banderas, which is a public square; the Lion Gate from Plaza del Triunfo; and the Alcázar wall along the Callejón del Agua and the Murillo Gardens, in the Santa Cruz quarter.'
+opciones:
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: Cheapest
+  - ficha: real-alcazar-sevilla-tour-guiado-skip-line
+    etiqueta: With a guide
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Plus the Cathedral
 ---
 
 The Royal Alcázar sells tickets in **30-minute slots with limited capacity**, and from March to October, at Easter and on Spanish bank holidays, the busiest dates go early. "Sold out" on the official website doesn't mean you miss the Alcázar, but the usual tricks don't work here: there's no waiting list and no last-minute release. These are the routes left, in the order worth trying them.
 
-## What you can book now
+## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |
 | A timed ticket, no guide | [Royal Alcázar timed entry](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4.6★ (36,909) | €20 |
-| A guide plus the Upper Royal Rooms | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €39 |
+| A guide plus the Upper Royal Rooms | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
 | The most popular | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (9,797) | €53 |
 | Free time in the gardens | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
 
@@ -71,7 +78,7 @@ On Mondays there's a free hour: **18:00 to 19:00** from April to September and *
 When the official site has nothing left, licensed resellers usually still have places because they buy their allocations ahead. You pay more than on the official site:
 
 - **Timed ticket, no guide (from €20):** the cheapest way in if you just want to visit.
-- **Guided tour of the Alcázar only (from €39):** 105 minutes with a guide, and the one we link also includes the Upper Royal Rooms.
+- **Guided tour of the Alcázar only (from €36):** 105 minutes with a guide, and the one we link also includes the Upper Royal Rooms.
 - **Cathedral, Giralda and Alcázar (from €53):** if you haven't sorted the Cathedral yet, you do both in one morning.
 
 Before paying, check that the listing says **"Royal Alcázar entry included"**. Some Santa Cruz walks only pass by outside.

@@ -43,7 +43,7 @@ actividades:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour guiado a pie por la Tarraco romana](/ciudades/tarragona/actividades/tour-tarraco-romana-a-pie) | 4,7★ (334) | 15 € |
-| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 13 € |
+| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 12,5 € |
 | [Paseo en catamarán con barra libre, comida y baño](/ciudades/tarragona/actividades/catamaran-cambrils-barra-libre-bano) | 4,5★ (2.188) | 35 € |
 | [Safari guiado en quad con recogida en el hotel](/ciudades/tarragona/actividades/quad-safari-salou-recogida-hotel) | 4,8★ (1.225) | 90 € |
 | [Visita a Bodegas Yzaguirre con cata de 5 vermuts](/ciudades/tarragona/actividades/bodegas-yzaguirre-vermut-visita-cata) | 4,8★ (6) | 25 € |
@@ -79,7 +79,7 @@ Desde Barcelona, **Regional en 1 h-1 h 15** (8-9 €) hasta la estación de Tarr
 
 | Lugar | Precio | Horario |
 | --- | --- | --- |
-| Monumentos romanos (anfiteatro, circo, Pretori, murallas, Casa Canals…) | Conjunta 15 €, sin caducidad; 5 € cada uno; gratis menores de 12 | Ma-S 9:00-20:45 verano (19:00 invierno), domingos hasta 14:30. **Lunes cerrados** |
+| Monumentos romanos (anfiteatro, circo, Pretori, murallas, Casa Canals…) | Conjunta 15 €, sin caducidad; 5 € cada uno; gratis menores de 12 | Abril-octubre: ma-s 9:00-20:45, domingos 9:00-14:30. Invierno: ma-v 9:00-18:30 (circo-Pretori y Casa Canals hasta 20:00), sábados desde 9:30, domingos 9:30-14:30. **Lunes cerrados** |
 | Catedral | 13 € con audioguía, claustro y museo; campanario 5 € más, por turnos | Cierra domingos por la mañana |
 | Acueducto | Gratis, siempre abierto; bus 5 u 85 desde la Rambla, 15 min | Se cruza por encima sin barandillas: cuidado con niños y viento |
 | MNAT (museo arqueológico) | 4-5 €, gratis primer domingo de mes; sede provisional en el Tinglado 4 del puerto | Mosaicos de la Medusa y los peces |

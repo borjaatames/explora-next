@@ -22,7 +22,7 @@ slugs:
   en: mallorca-with-kids
   de: mallorca-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Wohnt im **Norden (Alcúdia)** mit seinen flachen Stränden und versucht nicht, die ganze Insel zu sehen. Das Muss: der **Zug nach Sóller** (halber Tag ab dem Norden, ab 56 €), die **Drachenhöhlen** mit Konzert im Boot (54 €) und das **Palma Aquarium** für einen bewölkten Tag (31 €).'
+respuestaCorta: 'Wohnt im **Norden (Alcúdia)** mit seinen flachen Stränden und versucht nicht, die ganze Insel zu sehen. Das Muss: der **Zug nach Sóller** (halber Tag ab dem Norden, ab 56 €), die **Drachenhöhlen** mit Konzert im Boot (54 €) und das **Palma Aquarium** für einen bewölkten Tag (30,50 €).'
 actividades:
   - palma-aquarium-entrada
   - tren-soller-tranvia-medio-dia-desde-el-norte

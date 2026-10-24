@@ -36,7 +36,7 @@ actividades:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour guiado a pie por la Tarraco romana](/ciudades/tarragona/actividades/tour-tarraco-romana-a-pie) | 4,7★ (334) | 15 € |
-| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 13 € |
+| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 12,5 € |
 
 La clave: hay varios monumentos sueltos, pero la **entrada conjunta** sale mucho más a cuenta. Y si puedes, ven en mayo, cuando la ciudad se vuelve romana.
 
@@ -61,7 +61,7 @@ Empieza por el **Anfiteatro**, la imagen más célebre, a pie de playa. Sigue al
 
 - **Entrada conjunta:** 15 €, válida para el Anfiteatro, el Circo y la Torre del Pretori, las Murallas y la Casa Canals, entre otros recintos municipales. Sin caducidad en el mismo viaje, así que puedes repartirla en dos días. Cada monumento suelto cuesta 5 €: a partir del tercero, la conjunta sale a cuenta.
 - **Gratis:** menores de 12 años; hay también tarifas reducidas (consulta la web municipal de precios).
-- **Horarios:** de martes a sábado de 9:00 a 20:45 en verano (hasta las 19:00 en invierno) y domingos solo hasta las 14:30. **Los lunes cierran todos los recintos municipales**, así que si solo tienes el lunes, quedan las murallas por fuera, el acueducto y la catedral.
+- **Horarios:** de abril a finales de octubre, de martes a sábado de 9:00 a 20:45, y domingos y festivos de 9:00 a 14:30. En invierno, de martes a viernes de 9:00 a 18:30 (el circo-Pretori y la Casa Canals, hasta las 20:00), los sábados desde las 9:30 y los domingos de 9:30 a 14:30. Se entra hasta 30 minutos antes del cierre. **Los lunes cierran todos los recintos municipales**, así que si solo tienes el lunes, quedan las murallas por fuera, el acueducto y la catedral.
 - **Cuánto tiempo:** medio día largo para el circuito urbano (anfiteatro, circo, Pretori, foro y murallas) y 2 horas más si vas al acueducto.
 - **El acueducto:** a 4 km, en el parque ecohistórico del Pont del Diable. Autobús 5 o 85 desde el centro, o 10 minutos en coche con aparcamiento gratuito. Se puede cruzar por encima.
 - **La catedral** va aparte (13 € con audioguía, claustro incluido) y cierra los domingos por la mañana para el culto.
@@ -92,7 +92,7 @@ En **primavera y otoño**, con buen clima y sin el calor del verano en los monum
 
 1. **No comprar la entrada conjunta.** Mucha gente paga de más sin saberlo.
 2. **Calcular poco tiempo.** El conjunto da para medio día o más.
-3. **Ir en lunes** sin comprobar horarios (algunos monumentos cierran).
+3. **Ir en lunes** sin comprobar horarios (los recintos romanos municipales cierran los lunes).
 
 ## En una frase
 

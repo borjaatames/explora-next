@@ -22,7 +22,6 @@ slugs:
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   - crucero-calas-ibiza-paddle-surf-barra-libre
-  - esnorquel-paddle-surf-cueva-marina-ibiza
   - kayak-cuevas-cala-codolar-esnorquel
   - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano

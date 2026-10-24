@@ -41,10 +41,10 @@ actividades:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour guiado por el casco antiguo](/ciudades/cadiz/actividades/tour-guiado-cadiz-centro) | 4,7★ (225) | 20 € |
-| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 25 € |
+| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 24,5 € |
 | [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
 | [Jerez: tour por Bodegas Fundador con cata de jerez y brandy](/ciudades/cadiz/actividades/bodegas-fundador-jerez-cata) | 4,8★ (959) | 18 € |
-| [Jerez: visita a la Yeguada de la Cartuja con exhibición](/ciudades/cadiz/actividades/yeguada-de-la-cartuja-jerez) | 4,8★ (1.073) | 20 € |
+| [Jerez: visita a la Yeguada de la Cartuja con exhibición](/ciudades/cadiz/actividades/yeguada-de-la-cartuja-jerez) | 4,8★ (1.073) | 19,5 € |
 | [Excursión a los pueblos blancos de la Sierra](/ciudades/cadiz/actividades/excursion-pueblos-blancos-desde-cadiz) | 4,6★ (58) | 68 € |
 
 ## Cuándo ir y cómo llegar

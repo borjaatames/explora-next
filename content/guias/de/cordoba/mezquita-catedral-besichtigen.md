@@ -25,6 +25,13 @@ actividades:
   - mezquita-juderia-tour-a-pie
 imagen_portada: "/images/guias/mezquita-catedral-como-visitar.jpg"
 imagen_alt: "Wald aus rot-weißen Bögen in der Mezquita-Kathedrale von Córdoba"
+opciones:
+  - ficha: mezquita-catedral-entrada-audioguia
+    etiqueta: Am günstigsten
+  - ficha: mezquita-catedral-tour-guiado-sin-colas
+    etiqueta: Mit Führung
+  - ficha: mezquita-juderia-tour-a-pie
+    etiqueta: Mit Judería
 ---
 
 **Die Mezquita-Catedral ist das Monument, das die Reise nach Córdoba rechtfertigt**, und eines der erstaunlichsten Gebäude Europas: ein Wald aus 856 Säulen und rot-weißen Bögen mit einer Renaissance-Kathedrale, die in der Mitte errichtet wurde. Aber es ist auch der Ort, an dem sich gute Organisation am meisten bemerkbar macht: zur richtigen Zeit einzutreten macht den Unterschied zwischen einem entspannten Besuch und Schlangen und Hitze. Dieser Guide löst das für dich.
@@ -52,6 +59,15 @@ Die goldene Regel: **geh so früh wie möglich**. Dann sind am wenigsten Mensche
 > **⭐ Tipp:** Es gibt einen **kostenlosen Eintrittszeitraum** von Montag bis Samstag früh morgens (8:30–9:30 Uhr; ab 9:20 Uhr wird geräumt, an besonderen Festtagen entfällt er). Gruppen sind nicht erlaubt, und man muss früh dort sein, aber es ist die beste Art, sie fast leer zu erleben.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
+
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Regulärer Eintritt (offizieller Preis) | 15 € | Mezquita-Catedral ohne Führung (12 € ermäßigt) | Wer auf eigene Faust geht und online kauft |
+| [Ticket mit Audioguide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide) | 22 € | Eintritt und Audioguide auf dem Handy, offline nutzbar | Wer allein, aber mit Erklärungen gehen will |
+| [Führung ohne Anstehen](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 32 € | Offizieller Guide, Eintritt ohne Anstehen, Fernandinische Kirchen und Glockenturm | Wer die Geschichte des Baus erklärt haben will |
+| [Mezquita und Judería mit Tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 34 € | Guide, Eintritt in die Mezquita und Rundgang durch die Judería (2,5 Std.) | Wer beides an einem Vormittag sehen will |
 
 ## Wann hingehen
 

@@ -21,19 +21,18 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - 🏆 TOP PICK de SEVILLA en GetYourGuide — 18.292 reseñas con 4,7/5 (el show de flamenco MÁS RESERVADO de Sevilla)
-- Formato TEATRO con asientos escalonados — visión garantizada desde cualquier zona
+- Formato TEATRO con asientos escalonados — buena visión desde casi cualquier butaca
 - '1 hora de espectáculo con cuadro completo: bailaores, cantaores, guitarristas, percusión'
 - 'Ubicación céntrica: Calle Cuna 15, en el antiguo Teatro Quintero (unos 10 min andando de la Catedral)'
 - Iluminación profesional + sonido cuidado — formato más teatral que tablao tradicional
-- Precios desde 25 € (estándar) — de los más asequibles de los top flamencos de Sevilla
+- Entrada única desde 25 € — de los más asequibles de los top flamencos de Sevilla
 - Cancelación GRATUITA hasta 24h antes
-- Pases múltiples diarios (verificar al reservar)
+- Pases todos los días (la web oficial anuncia 17:00, 19:00 y 20:45; verifica al reservar)
 incluye:
 - Espectáculo flamenco en directo de 1 hora
-- Asiento en la zona reservada (Standard, Premium o VIP según opción)
-- Bebida incluida en algunas opciones premium
+- Entrada general con butaca no numerada (por orden de llegada)
 noIncluye:
-- Bebidas en la opción más económica
+- Bebidas (hay bar fuera de la sala; no se permite beber durante el show)
 - Comida o cena (este producto NO incluye opción de cena)
 - Propinas
 - Transporte
@@ -42,8 +41,8 @@ puntoEncuentro:
     A unos 10 min andando de la Catedral. Presenta tu voucher en la entrada del teatro.
   descripcionGuia: 'Metro: Puerta de Jerez (línea 1, unos 12-15 min andando). Tranvía MetroCentro: Plaza Nueva (unos 6 min).
     La calle Cuna está entre la Plaza del Salvador y el Mercado de la Encarnación (Setas), en pleno centro peatonal — no llegues en coche.
-    Llega 20-30 min antes — el aforo es amplio y los asientos NO son numerados en la mayoría de zonas (se ocupan en orden
-    de llegada).'
+    Llega 20-30 min antes — las butacas NO son numeradas: se asignan por orden de llegada (la web oficial pide estar
+    en la sala 20 min antes).'
   latitud: 37.3912
   longitud: -5.9926
   zoom: 17
@@ -56,7 +55,6 @@ detallesPracticos:
 informacionImportante:
   queTraer:
   - Smartphone cargado (voucher móvil)
-  - Documento de identidad (si reservaste tarifa reducida)
   - Vestimenta smart casual (no hay código estricto)
   noAptoPara:
   - Visitantes que busquen formato íntimo de tablao tradicional (este es TEATRO con aforo amplio — para íntimo, mejor Casa
@@ -65,14 +63,14 @@ informacionImportante:
     histórico)
   aTenerEnCuenta:
   - '**18.292 reseñas con 4,7/5** — el producto turístico de flamenco con MAYOR volumen en Sevilla'
-  - Formato TEATRO con asientos escalonados (mejor visión desde cualquier zona) — venue amplio, menos íntimo que tablao
+  - Formato TEATRO con asientos escalonados (buena visión desde casi cualquier butaca) — venue amplio, menos íntimo que tablao
   - Pases múltiples diarios — verifica disponibilidad al reservar
   - Foto y vídeo permitidos en algunos casos pero SIN FLASH (verifica las reglas del show específico)
-  - Llega 20-30 min antes para garantizar buen asiento dentro de tu zona
+  - 'Llega 20-30 min antes: las butacas se asignan por orden de llegada'
   - Ubicación céntrica permite combinar con cena en el centro histórico antes/después
 accesibilidad: El Teatro Flamenco Sevilla está marcado como accesible. La calle Cuna es peatonal con acceso
   a nivel. El teatro tiene asientos escalonados — verifica con el operador
-  si necesitas zona específica accesible en silla de ruedas. Si necesitas accesibilidad garantizada confirmada, contacta al
+  si necesitas un espacio accesible en silla de ruedas. Si necesitas accesibilidad garantizada confirmada, contacta al
   operador al reservar.
 politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos.
   El show comienza puntual; pasados 10 min del inicio puede no permitirse entrada (a discreción del personal). Cambios de
@@ -114,16 +112,7 @@ preguntasFrecuentes:
     El espectáculo en sí es comprensible para cualquier público sin necesidad de traducción — la emoción, el zapateado y la
     guitarra son universales. La ficha está disponible en ES y EN porque el contenido editorial varía según el idioma del
     visitante.
-variantes:
-- nombre: Standard
-  descripcion: Entrada al show en zona trasera del teatro. Sin bebida incluida. Opción más asequible.
-  precio: 27
-- nombre: Premium
-  descripcion: Zona central del teatro, 1 bebida incluida (vino, cerveza, sangría, cava o refresco).
-  precio: 37
-- nombre: VIP
-  descripcion: Zona delantera del teatro, 2 bebidas o 1 botella compartida. Mejor visión y servicio.
-  precio: 47
+variantes: []
 opinionEditorial: 'El **espectáculo de flamenco más reservado de Sevilla** — 18.292 reseñas con 4,7/5 lo posicionan como TOP
   PICK de GetYourGuide para Sevilla. La cifra supera en un 35 % a la del segundo más reservado (Casa de la Memoria con 13.526),
   lo que confirma que el formato teatro + ubicación céntrica + precio asequible es la combinación que más viajeros internacionales
@@ -131,8 +120,8 @@ opinionEditorial: 'El **espectáculo de flamenco más reservado de Sevilla** —
 
 
   **Comparación de precios:** desde 25 € es **de los más asequibles** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
-  Triana 25 €, Casa de la Memoria 26 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). El plus de 1 € sobre Casa
-  de la Memoria compra: asientos escalonados (visión garantizada) + opción de cancelación 24h.
+  Triana 25 €, Casa de la Memoria 26 €, Museo del Baile Flamenco 32 €, Tablao El Arenal 48 €). Frente a Casa
+  de la Memoria, cambias intimidad por butacas escalonadas con buena visión y más pases diarios.
 
 
   **Tres honestidades sobre el formato teatro:** **(1)** El venue es amplio (probablemente 150-250 plazas) — pierde intimidad
@@ -184,20 +173,20 @@ guiasRelacionadas:
 Un **espectáculo de flamenco profesional de 1 hora en el Teatro Flamenco Sevilla** — el producto de flamenco MÁS RESERVADO de Sevilla con 18.292 reseñas y 4,7/5. Top Pick de GetYourGuide. Ubicación céntrica en la calle Cuna, a unos 10 min andando de la Catedral.
 
 - **Cuadro flamenco profesional:** bailaores, cantaores, guitarristas y percusión en directo. El cuadro varía día a día — siempre artistas titulados con experiencia.
-- **Formato teatro con asientos escalonados:** aforo amplio (estimado 150-250 plazas), visión garantizada desde cualquier zona. Iluminación profesional y sonido amplificado.
+- **Formato teatro con asientos escalonados:** aforo amplio (estimado 150-250 plazas), buena visión desde casi cualquier butaca. Iluminación profesional y sonido amplificado.
 - **Show de 1 hora estructurado:** alegrías, soleá, bulerías, tangos, fandangos — los palos clásicos del flamenco, intercalados con descansos breves entre piezas.
-- **3 zonas de asiento** según opción: Standard (zona trasera, sin bebida, 27 €), Premium (zona central, 1 bebida, 37 €), VIP (zona delantera, 2 bebidas o botella, 47 €).
+- **Entrada única** (desde 25 €): sin categorías de zona; las butacas no son numeradas y se ocupan por orden de llegada.
 - **Ubicación céntrica:** Calle Cuna 15, en el antiguo Teatro Quintero — entre la Plaza del Salvador y las Setas, a unos 10 min andando de la Catedral.
 
 ## Cómo funciona
 
-**Reserva tu fecha, pase y zona** (Standard 27 € / Premium 37 € / VIP 47 €).
+**Reserva tu fecha y pase** (entrada única desde 25 €).
 
 **Llega 20-30 min antes** al Teatro Flamenco Sevilla (Calle Cuna 15). Metro Puerta de Jerez (unos 12-15 min) o tranvía MetroCentro Plaza Nueva (unos 6 min).
 
-**Presenta tu voucher móvil en la entrada.** El personal te indica tu zona. Dentro de cada zona, los asientos NO son numerados — primer-llegado, primer-elegido.
+**Presenta tu voucher móvil en la entrada.** Las butacas NO son numeradas: se asignan por orden de llegada.
 
-**Si has elegido bebida**, te servirán antes o durante el show según política del venue.
+**Si quieres tomar algo**, hay bar fuera de la sala; dentro no se permite beber durante el show.
 
 **Disfruta del show de 1 hora.** Foto sin flash permitida en muchos casos (verifica reglas del show específico). Aplaude entre piezas como signo de respeto.
 

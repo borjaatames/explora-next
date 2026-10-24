@@ -21,7 +21,7 @@ slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out
 reservasArriba: true
-respuestaCorta: 'La entrada general cuesta **18 €** en `tickets.patrimonionacional.es`. Si tu franja sale agotada, prueba otra hora, la **visita guiada oficial (26 €)** o la **taquilla**, que vende hasta una hora antes del cierre. Si eres ciudadano de la UE o iberoamericano, la entrada es **gratis de lunes a jueves en las dos últimas horas**, solo en taquilla. Y un **tour con la entrada incluida** te asegura la visita desde 38 €.'
+respuestaCorta: 'La entrada general cuesta **18 €** en `tickets.patrimonionacional.es`. Si tu franja sale agotada, prueba otra hora, la **visita guiada oficial (26 €)** o la **taquilla**, que vende hasta una hora antes del cierre. Si eres ciudadano de la UE o iberoamericano, la entrada es **gratis de lunes a jueves en las dos últimas horas**, solo en taquilla. Y un **tour con la entrada incluida** te asegura la visita desde 36 €.'
 actividades:
   - palacio-real-visita-guiada-golden-tour
   - palacio-real-tour-premium-skip-line
@@ -36,17 +36,24 @@ faq:
   respuesta: Sí, siempre que la ficha diga que la entrada al palacio va incluida. Los tours guiados llevan su propia reserva y te ahorran la cola de taquilla.
 - pregunta: ¿Qué se puede ver del Palacio Real sin entrada?
   respuesta: 'El cambio de guardia de los miércoles y sábados, el relevo solemne del primer miércoles de mes, los jardines de Sabatini, el Campo del Moro y la plaza de Oriente son gratis.'
+opciones:
+  - ficha: palacio-real-visita-guiada-golden-tour
+    etiqueta: Con Armería Real
+  - ficha: palacio-real-tour-premium-skip-line
+    etiqueta: Mejor valorada
+  - ficha: palacio-real-visita-privada-guia-oficial
+    etiqueta: Privada
 ---
 
 El Palacio Real de Madrid vende entradas con hora en la web oficial de Patrimonio Nacional, y en Semana Santa, puentes y fines de semana algunas franjas aparecen con «baja disponibilidad» o agotadas. A diferencia de otros monumentos, aquí casi siempre queda alguna vía para entrar el mismo día. Conviene probarlas en este orden.
 
-## Lo que puedes reservar ahora
+## ¿Qué entrada elegir?
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| La más elegida | [Visita guiada sin colas con Armería Real](/ciudades/madrid/actividades/palacio-real-visita-guiada-golden-tour), 4,8★ (4.060) | 38 € |
-| Grupo con guía experto | [Tour premium con entradas sin colas](/ciudades/madrid/actividades/palacio-real-tour-premium-skip-line), 5★ (59) | 40,95 € |
-| Palacio y centro histórico | [Palacio Real y Catedral de la Almudena](/ciudades/madrid/actividades/palacio-real-catedral-almudena-tour), 4,5★ (9) | 58 € |
+| La más elegida | [Visita guiada sin colas con Armería Real](/ciudades/madrid/actividades/palacio-real-visita-guiada-golden-tour), 4,8★ (4.060) | 36 € |
+| Grupo con guía experto | [Tour premium con entradas sin colas](/ciudades/madrid/actividades/palacio-real-tour-premium-skip-line), 5★ (59) | 45 € |
+| Palacio y centro histórico | [Palacio Real y Catedral de la Almudena](/ciudades/madrid/actividades/palacio-real-catedral-almudena-tour), 4,5★ (9) | 54 € |
 | Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/palacio-real-visita-privada-guia-oficial) | 141 € |
 
 ## 1. Vuelve a mirar la web oficial
@@ -74,7 +81,7 @@ Si eres **ciudadano o residente de la UE o de Iberoamérica**, la entrada es **g
 
 ## 4. Un tour con la entrada incluida
 
-Es la opción más cómoda cuando no quieres arriesgarte con la taquilla: los operadores reservan las entradas con antelación y te venden la visita con la hora ya asignada. Cuesta más que la entrada suelta (desde 38 €), pero incluye guía y te ahorras la cola.
+Es la opción más cómoda cuando no quieres arriesgarte con la taquilla: los operadores reservan las entradas con antelación y te venden la visita con la hora ya asignada. Cuesta más que la entrada suelta (desde 36 €), pero incluye guía y te ahorras la cola.
 
 Antes de pagar, comprueba en la ficha que diga **«entrada al Palacio Real incluida»**. Hay paseos por los Austrias que solo pasan por delante de la fachada.
 

@@ -2,7 +2,7 @@
 titulo: "Seville: Tapas Tour Across the River in Triana (3.5h, Small Group max. 8)"
 slug: "seville-tapas-tour-across-river-triana"
 ciudad: "sevilla"
-descripcion: "3.5-hour tapas tour in the Triana neighbourhood, across the Guadalquivir river. Small group (max. 8 people), official guide in Spanish, English or French. Visit to 3-4 local bars + Triana market. Includes hotel pickup (city centre), tapas, wine and tastings. Operator: Not Just a Tourist. From €60."
+descripcion: "3.5-hour tapas tour in the Triana neighbourhood, across the Guadalquivir river. Small group (max. 8 people), official guide in Spanish, English or French. Visit to 3-4 local bars + Triana market. Includes hotel pickup (city centre), tapas, wine and tastings. Operator: Not Just a Tourist. From €129."
 
 slugs:
   es: "sevilla-tapas-tour-triana-cruzando-rio"
@@ -10,7 +10,7 @@ slugs:
 
 duracion: "3.5 hours"
 duracionMinutos: 210
-precioDesde: 60
+precioDesde: 129
 moneda: "EUR"
 idiomas: ["es", "en"]
 proveedor: "getyourguide"
@@ -85,15 +85,15 @@ preguntasFrecuentes:
     respuesta: "**Triana is Seville's MOST authentic neighbourhood** — across the Guadalquivir river, historically outside the city walls, it preserves the character of a working-class neighbourhood (potters, sailors, gypsies) rather than a tourist centre. Triana tapas bars are still frequented by locals (not just tourists), the tapas are more authentic (less «adapted to international taste»), and menu prices are ~30% cheaper than in the centre. The route also includes the **Triana Market** — Seville's oldest market, built on the former Castle of San Jorge (13th c.), site of the Inquisition headquarters. You get food + history + a living neighbourhood."
   - pregunta: "What tapas will I try?"
     respuesta: "The typical menu includes 8-10 different pieces across 3-4 bars: **acorn-fed Iberian ham** (with explanation of designations), **salmorejo** (Sevillian cold tomato soup, similar to gazpacho but thicker), **spinach with chickpeas** (traditional Arab-Jewish dish), **Spanish omelette**, **croquettes** (ham, cod or mushroom depending on bar), **aged cheese** (manchego or payoyo), **marinated olives**, **pringá** (sandwich with pork stew and blood sausage), and traditional dessert (typically tocino de cielo or pestiños). Drinks: red wine, white wine, beer, soft drinks or tinto de verano. Vegans/vegetarians MUST INFORM WHEN BOOKING — the operator adapts the menu."
-  - pregunta: "Is €60 worth it for tapas I could eat on my own?"
-    respuesta: "**Cost on your own:** eating 8-10 tapas + 3 drinks in Triana = ~€35-45 (bars are cheap compared to centre). **Tour: €60.** Difference €15-25. **Worth it?** YES if: (1) you DON'T speak Spanish and need a guide to order and understand what you're eating; (2) you DON'T know which bars to choose (professional guides know 50+ bars and pick the best 3-4); (3) you want to UNDERSTAND each tapa with historical/cultural context; (4) you prefer a small group (max 8) with dedicated guide. NO if: (1) you speak fluent Spanish, know Seville and just want to eat; (2) very tight budget. **The main added value is CONTEXT** — a Sevillian doesn't need the tour, an international tourist does."
+  - pregunta: "Is €129 worth it for tapas I could eat on my own?"
+    respuesta: "**Cost on your own:** eating 8-10 tapas + 3 drinks in Triana = ~€35-45 (bars are cheap compared to centre). **Tour: €129.** Difference of roughly €85-95. **Worth it?** YES if: (1) you DON'T speak Spanish and need a guide to order and understand what you're eating; (2) you DON'T know which bars to choose (professional guides know 50+ bars and pick the best 3-4); (3) you want to UNDERSTAND each tapa with historical/cultural context; (4) you prefer a small group (max 8) with dedicated guide. NO if: (1) you speak fluent Spanish, know Seville and just want to eat; (2) very tight budget. **The main added value is CONTEXT** — a Sevillian doesn't need the tour, an international tourist does."
   - pregunta: "How do I combine the tour with other activities?"
     respuesta: "**Perfect Seville day = monuments in the morning + tapas tour in the afternoon + flamenco at night.** Example: 10:00 **Cathedral + Giralda** (`seville-cathedral-giralda-entry-ticket`, 1.5 h) → 11:30 **Royal Alcázar** (`real-alcazar-sevilla-tour-guiado-skip-line`, 2 h) → 14:00 light lunch in El Arenal → 16:00 siesta or stroll → 19:00 **this tapas tour** (3.5 h) → 22:30 **flamenco in Triana** (`teatro-flamenco-triana-show-en-directo`) 3 min walk from the end of the tapas tour. Full Seville day for ~€150 per person, including all monuments, meals and evening entertainment. The tapas tour is the ideal transition between afternoon and night."
 
 variantes: []
 
 opinionEditorial: |
-  The **only tapas tour in Seville with an official SPANISH-speaking guide on GYG** (the other top tapas tours are EN-only) — operated by Not Just a Tourist, a local Sevillian team specialising in Triana. For **€60** you get 3.5 hours with a small group (max. 8), hotel pickup, visits to 3-4 traditional bars, the Triana market, 8-10 tapas and 3-4 drinks. The key differentiator vs. eating on your own: the guide picks the BEST bars (frequented by locals, not tourist traps), explains each tapa with historical context, and teaches you to order like a Sevillian.
+  The **only tapas tour in Seville with an official SPANISH-speaking guide on GYG** (the other top tapas tours are EN-only) — operated by Not Just a Tourist, a local Sevillian team specialising in Triana. For **€129** you get 3.5 hours with a small group (max. 8), hotel pickup, visits to 3-4 traditional bars, the Triana market, 8-10 tapas and 3-4 drinks. The key differentiator vs. eating on your own: the guide picks the BEST bars (frequented by locals, not tourist traps), explains each tapa with historical context, and teaches you to order like a Sevillian.
 
   **Triana is Seville's MOST authentic neighbourhood** — separated from the tourist centre by the Guadalquivir river, preserving pottery, gypsy and sailor traditions. Bars are cheaper than in the centre, tapas more authentic, and the atmosphere feels like a living neighbourhood, not a tourist stage. The Triana Market adds historical context (built on the former Castle of San Jorge, site of the Inquisition headquarters in the 16th-18th centuries).
 

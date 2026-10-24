@@ -29,11 +29,18 @@ actividades:
   - montserrat-sesion-fotos-signature
   - montserrat-tour-privado-recogida-hotel
   - barcelona-y-montserrat-grupo-reducido-recogida-hotel
+opciones:
+  - ficha: montserrat-cremallera-bodega-castlexperience
+    etiqueta: Cheapest
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Small group
+  - ficha: montserrat-masia-bages-almuerzo-vinos
+    etiqueta: With lunch and wine
 ---
 
 Montserrat can be visited from Barcelona five very different ways — this isn't a case of near-identical listings competing for the same thing, but of durations and budgets ranging from a one-hour photoshoot to a full day with lunch and wine pairing.
 
-## The 5 Montserrat excursions
+## Which excursion should you choose?
 
 | Option | Price from | Duration | Format | Best for |
 |---|---|---|---|---|

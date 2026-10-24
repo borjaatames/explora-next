@@ -27,11 +27,18 @@ actividades:
   - mezquita-juderia-tour-a-pie
 imagen_portada: "/images/guias/mezquita-catedral-como-visitar.jpg"
 imagen_alt: "Forest of red-and-white arches in Córdoba's Mosque-Cathedral"
+opciones:
+  - ficha: mezquita-catedral-entrada-audioguia
+    etiqueta: Cheapest
+  - ficha: mezquita-catedral-tour-guiado-sin-colas
+    etiqueta: With a guide
+  - ficha: mezquita-juderia-tour-a-pie
+    etiqueta: Plus Jewish Quarter
 ---
 
 **The Mosque-Cathedral is the monument that justifies the trip to Córdoba**, and one of the most astonishing buildings in Europe: a forest of 856 columns and red-and-white arches with a Renaissance cathedral raised in the centre. It's also where planning matters most: going in at the right time is the difference between enjoying it calmly and putting up with queues and heat.
 
-## Mosque tickets and tours
+## Which ticket should you choose?
 
 | Activity | Rating | From |
 | --- | --- | --- |

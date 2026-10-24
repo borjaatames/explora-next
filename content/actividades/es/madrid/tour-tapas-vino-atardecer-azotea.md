@@ -78,12 +78,12 @@ preguntasFrecuentes:
   - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
     respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la experiencia, con reembolso completo. Pasado ese plazo no hay devolución."
 
-variantes: ["tour-tapas-viejo-madrid", "ruta-tapas-nocturna-madrid", "tour-bodegas-madrid-cata-vino"]
+variantes: ["ruta-tapas-nocturna-madrid", "tour-bodegas-madrid-cata-vino"]
 
 opinionEditorial: |
   Es la opción acertada si quieres un tour de tapas con un final con gancho. El recorrido va de La Latina a la Plaza Mayor probando tapas y vino como un madrileño más, y se cierra en una azotea de la Gran Vía con vistas al atardecer. Esa última parada es lo que lo diferencia de un tour de tapas estándar, y se nota en las reseñas: 4,7 de nota y plazas que se agotan con facilidad.
 
-  Lo que conviene saber antes de reservar: en la azotea está incluida una copa de vino, pero el resto de consumiciones se pagan aparte; no es barra libre. Y el tour empieza en Tirso de Molina y acaba en Callao, así que organiza lo que hagas después contando con que terminas en otro punto. Es un plan sociable y de ambiente —se conoce gente—; si buscabas una experiencia gastronómica más íntima o centrada en la calidad del producto, te encajará mejor un tour más pequeño o el [del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid). Y no es accesible en silla de ruedas.
+  Lo que conviene saber antes de reservar: en la azotea está incluida una copa de vino, pero el resto de consumiciones se pagan aparte; no es barra libre. Y el tour empieza en Tirso de Molina y acaba en Callao, así que organiza lo que hagas después contando con que terminas en otro punto. Es un plan sociable y de ambiente —se conoce gente—; si buscabas una experiencia gastronómica más íntima o centrada en la calidad del producto, te encajará mejor un tour más pequeño. Y no es accesible en silla de ruedas.
 
 atraccionesRelacionadas:
 - tapas-madrid
@@ -148,6 +148,6 @@ La última parada es la **azotea**, en la zona de la Gran Vía, donde está incl
 ## A quién NO se lo recomiendo
 
 - Si esperabas barra libre en la azotea. Solo está incluida una copa de vino; el resto se paga aparte.
-- Si buscas una experiencia gastronómica íntima y centrada en el producto. Te encajará mejor un tour más pequeño como el [del Viejo Madrid](/ciudades/madrid/actividades/tour-tapas-viejo-madrid).
+- Si buscas una experiencia gastronómica íntima y centrada en el producto. Te encajará mejor un tour más pequeño.
 - Si necesitas accesibilidad en silla de ruedas. Es un recorrido a pie por el centro con acceso a una azotea.
 - Si prefieres el enoturismo a las tapas urbanas. Para eso está el [tour por bodegas de Madrid](/ciudades/madrid/actividades/tour-bodegas-madrid-cata-vino).

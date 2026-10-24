@@ -33,7 +33,7 @@ keywords:
 atracciones:
   - nombre: "Dalt Vila"
     descripcion: "Die ummauerte Oberstadt von Ibiza, UNESCO-Welterbe: Renaissance-Stadtmauern, die Kathedrale auf der Anhöhe und Gassen mit Blick auf den Hafen. Die am besten erhaltene Altstadt des Mittelmeers."
-    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp"
+    imagen: "/images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp"
     imagenAlt: "Dalt Vila, die ummauerte Altstadt von Ibiza"
   - nombre: "Es Vedrà"
     descripcion: "Der Felsen, der vor der Südwestküste aus dem Meer ragt und von Legenden umrankt ist. Der Sonnenuntergang von der Cala d'Hort aus, mit Es Vedrà im Hintergrund, ist das Postkartenmotiv der Insel."

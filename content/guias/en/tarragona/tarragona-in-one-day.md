@@ -43,7 +43,7 @@ actividades:
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Guided walking tour of Roman Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4.7★ (334) | €15 |
-| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €13 |
+| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €12.5 |
 | [Catamaran trip with open bar, lunch and swim](/en/cities/tarragona/activities/cambrils-catamaran-open-bar-swim) | 4.5★ (2,188) | €35 |
 | [Guided quad safari with hotel pickup](/en/cities/tarragona/activities/salou-guided-quad-safari-hotel-pickup) | 4.8★ (1,225) | €90 |
 | [Bodegas Yzaguirre visit with 5-vermouth tasting](/en/cities/tarragona/activities/bodegas-yzaguirre-vermouth-tour-tasting) | 4.8★ (6) | €25 |

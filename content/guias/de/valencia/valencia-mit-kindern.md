@@ -20,7 +20,7 @@ slugs:
   en: valencia-with-kids
   de: valencia-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Valencia ist **flach, sicher und hat einen Stadtstrand**. Die zwei Highlights sind das **Oceanogràfic**, Europas größtes Aquarium (ab 37 €), und der **Bioparc** (30 €); dazwischen mit dem Rad durch den **Turia-Park**, neun Kilometer ohne Autos. Die Altstadt in kleinen Dosen. Am besten von März bis Juni.'
+respuestaCorta: 'Valencia ist **flach, sicher und hat einen Stadtstrand**. Die zwei Highlights sind das **Oceanogràfic**, Europas größtes Aquarium (ab 37 €), und der **Bioparc** (29,50 €); dazwischen mit dem Rad durch den **Turia-Park**, neun Kilometer ohne Autos. Die Altstadt in kleinen Dosen. Am besten von März bis Juni.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada
@@ -46,17 +46,17 @@ Der Schlüssel mit Kindern in Valencia ist, nicht alles sehen zu wollen. Die his
 | Juli und August | Hitze | Strand und Wasser ja; das Zentrum mittags ermüdet die Kleinen |
 | Mitte März | Las Fallas | Spektakulär für ältere Kinder; anstrengend mit Babys und Kinderwagen |
 
-> **⭐ Tipp:** Die Kombitickets (Oceanogràfic + Hemisfèric + Museu) sind günstiger und in der Hochsaison schnell ausverkauft. Kaufen Sie online und reservieren Sie das Oceanogràfic für die erste Stunde, wenn die Tiere am aktivsten sind.
+> **⭐ Tipp:** Die Kombitickets (Oceanogràfic + Hemisfèric + Museu) sind günstiger und in der Hochsaison schnell ausverkauft. Kauf online und reserviere das Oceanogràfic für die erste Stunde, wenn die Tiere am aktivsten sind.
 
 ## Die Pläne, die funktionieren
 
-**Oceanogràfic.** Das große Muss: Haie, Belugas, Pinguine, der Unterwassertunnel und das Delfinarium. Rechnen Sie mit einem halben Tag (3-4 Stunden). Mit kleinen Kindern gehen Sie zur Öffnung und bringen den Kinderwagen mit (er kommt gut durch).
+**Oceanogràfic.** Das große Muss: Haie, Belugas, Pinguine, der Unterwassertunnel und das Delfinarium. Rechne mit einem halben Tag (3-4 Stunden). Mit kleinen Kindern gehst du zur Öffnung und bringst den Kinderwagen mit (er kommt gut durch).
 
 **Bioparc.** Ein "Immersions-Zoo" ohne sichtbare Gitter, im afrikanischen Stil gestaltet (Savanne, Madagaskar). Die Kleinen lieben ihn, und er ist sehr fotogen. Noch ein halber Tag.
 
-**Die Stadt der Künste von außen.** Auch wenn Sie nicht überall hineingehen, ist der Spaziergang zwischen Calatravas Gebäuden mit ihren Wasserflächen ein toller Plan: Man kann die **Wasserkugeln** auf dem Teich mieten. Das **Hemisfèric** (IMAX-Kino) und das **Museu de les Ciències** (interaktiv, "Anfassen erlaubt") funktionieren sehr gut ab 5-6 Jahren.
+**Die Stadt der Künste von außen.** Auch wenn du nicht überall hineingehst, ist der Spaziergang zwischen Calatravas Gebäuden mit ihren Wasserflächen ein toller Plan: Man kann die **Wasserkugeln** auf dem Teich mieten. Das **Hemisfèric** (IMAX-Kino) und das **Museu de les Ciències** (interaktiv, "Anfassen erlaubt") funktionieren sehr gut ab 5-6 Jahren.
 
-**Der Turia-Garten mit dem Fahrrad.** Das alte Flussbett ist heute ein neun Kilometer langer, flacher und autofreier Park. Mieten Sie Fahrräder (es gibt Kindersitze und verschiedene Größen) und verpassen Sie nicht den **Parque Gulliver**, eine riesige Rutsche in Form der Figur, auf der Kinder herumklettern. Kostenlos und ein Hit.
+**Der Turia-Garten mit dem Fahrrad.** Das alte Flussbett ist heute ein neun Kilometer langer, flacher und autofreier Park. Miete Fahrräder (es gibt Kindersitze und verschiedene Größen) und verpass nicht den **Parque Gulliver**, eine riesige Rutsche in Form der Figur, auf der Kinder herumklettern. Kostenlos und ein Hit.
 
 **Playa de la Malvarrosa.** Breiter Sandstrand, Promenade und Restaurants. Ideal, um den Tag ausklingen zu lassen.
 
@@ -70,9 +70,9 @@ Der Schlüssel mit Kindern in Valencia ist, nicht alles sehen zu wollen. Die his
 
 ## Wo man mit Kindern isst
 
-Valencia ist sehr familienfreundlich: fast alle Reisgerichte und Tapas passen gut zu Kindern. Um Reis ohne endloses Warten zu essen, **reservieren** Sie und gehen Sie früh (14:00 Uhr). Am Strand haben die Reisrestaurants der Malvarrosa genug Platz. Als Nachmittagssnack passt **Horchata mit Fartons** immer.
+Valencia ist sehr familienfreundlich: fast alle Reisgerichte und Tapas passen gut zu Kindern. Um Reis ohne endloses Warten zu essen, **reserviere** und geh früh (14:00 Uhr). Am Strand haben die Reisrestaurants der Malvarrosa genug Platz. Als Nachmittagssnack passt **Horchata mit Fartons** immer.
 
-> **⚠️ Hinweis:** Reis ist ein Mittagsgericht und braucht Zeit (30-40 Minuten). Bestellen Sie mit hungrigen Kindern ein paar Tapas zum Start, während die Paella zubereitet wird, oder reservieren Sie im Voraus.
+> **⚠️ Hinweis:** Reis ist ein Mittagsgericht und braucht Zeit (30-40 Minuten). Bestell mit hungrigen Kindern ein paar Tapas zum Start, während die Paella zubereitet wird, oder reserviere im Voraus.
 
 ## Was wir mit Kindern NICHT empfehlen
 
@@ -91,4 +91,4 @@ Valencia ist sehr familienfreundlich: fast alle Reisgerichte und Tapas passen gu
 
 ## In einem Satz
 
-Valencia mit Kindern bedeutet Oceanogràfic, Bioparc, Fahrradfahren am Turia und Strand: eine flache, sichere Stadt, in der die Kleinen vom Spaß müder werden als vom Laufen. Wenn Sie auch andere Städte besuchen: [Madrid mit Kindern](/de/guides/madrid/madrid-mit-kindern) und [Granada mit Kindern](/de/guides/granada/granada-mit-kindern) folgen derselben Philosophie.
+Valencia mit Kindern bedeutet Oceanogràfic, Bioparc, Fahrradfahren am Turia und Strand: eine flache, sichere Stadt, in der die Kleinen vom Spaß müder werden als vom Laufen. Wenn du auch andere Städte besuchst: [Madrid mit Kindern](/de/guides/madrid/madrid-mit-kindern) und [Granada mit Kindern](/de/guides/granada/granada-mit-kindern) folgen derselben Philosophie.

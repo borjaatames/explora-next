@@ -1,7 +1,7 @@
 ---
 titulo: "Escapadas por la Costa Blanca desde Alicante: Benidorm, Altea, Guadalest"
 descripcion: "Las mejores escapadas desde Alicante: Benidorm, Altea, Calpe y el Peñón de Ifach, Guadalest, Jávea y Elche. Cómo llegar en TRAM o coche y qué ver en cada una."
-respuestaCorta: 'Las mejores escapadas desde Alicante son **Altea y Calpe** en TRAM (con transbordo en Benidorm), **Guadalest con las Fuentes del Algar** (una hora en coche, o excursión organizada desde 39 €), **el Palmeral de Elche** (20 minutos en Cercanías) y Benidorm. Haz una por día: Guadalest o Jávea ya ocupan la jornada completa.'
+respuestaCorta: 'Las mejores escapadas desde Alicante son **Altea y Calpe** en TRAM (con transbordo en Benidorm), **Guadalest con las Fuentes del Algar** (una hora en coche, o excursión organizada desde 47 €), **el Palmeral de Elche** (20 minutos en Cercanías) y Benidorm. Haz una por día: Guadalest o Jávea ya ocupan la jornada completa.'
 categoria: "alicante"
 slug: "escapadas-costa-blanca-desde-alicante"
 fecha: "2026-04-17"
@@ -40,7 +40,7 @@ actividades:
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Guadalest, Altea y Fuentes del Algar](/ciudades/alicante/actividades/excursion-guadalest-altea-algar-desde-alicante) | 4,8★ (3.714) | 39 € |
+| [Guadalest, Altea y Fuentes del Algar](/ciudades/alicante/actividades/excursion-guadalest-altea-algar-desde-alicante) | 4,8★ (3.714) | 47 € |
 | [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
 | [Tour de vino por el campo con 4 catas en grupo reducido](/ciudades/alicante/actividades/tour-vino-bodega-alicante-4-catas) | 4,9★ (445) | 65 € |
 
@@ -79,7 +79,7 @@ A 20 minutos, **Elche** guarda el **Palmeral** Patrimonio de la Humanidad y el M
 - **Guadalest:** 1 hora en coche por la CV-70 desde Benidorm, con curvas. Aparcamientos de pago a la entrada del pueblo (3-5 €). El castillo y los museos abren de 10:00 a 18:00-20:00 según temporada; el pueblo en sí es pequeño, 2 horas sobran, así que combínalo con las **Fuentes del Algar** (a 15 minutos, 5-6 € la entrada, baño en pozas de agua fría).
 - **Peñón de Ifach:** subida de 1 h 30 por sendero con tramo final de roca; acceso con **reserva previa gratuita** en la web del parque natural, aforo limitado y cierre con lluvia. Lleva 1,5 litros de agua.
 - **Elche:** 20 minutos en Cercanías (línea C-1, cada 30 minutos). El Huerto del Cura cuesta 6 € y el Palmeral se pasea gratis; el Misteri se representa solo el 14 y 15 de agosto.
-- **Benidorm con niños:** Terra Mítica (desde 28 €), Aqualandia (desde 30 €) y Mundomar; comprados online con días de antelación, 10-20 % más baratos. Hay autobuses lanzadera desde el centro de Benidorm.
+- **Benidorm con niños:** Terra Mítica (desde 29 €), Aqualandia (desde 30 €) y Mundomar; comprados online con días de antelación, 10-20 % más baratos. Hay autobuses lanzadera desde el centro de Benidorm.
 - **Jávea:** sin transporte público práctico desde Alicante; coche, 1 hora por la AP-7. En agosto las calas (Granadella, Portitxol) cierran el acceso en coche cuando se llena el aparcamiento, a media mañana.
 
 ## Cómo moverte

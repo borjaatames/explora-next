@@ -42,6 +42,13 @@ faq:
     respuesta: "Only if you genuinely care about 20th-century art. It holds Picasso's Guernica along with important Dalí and Miró works, but compared to the Prado it loses on variety for generalist visitors. 1.5 hours is enough to see Guernica, Dalí and Miró; a full circuit takes 3 to 4 hours."
   - pregunta: "Is the Thyssen closed on Mondays?"
     respuesta: "Partially. The Thyssen has reduced, free-only hours on Mondays (noon to 4 PM for the permanent collection), unlike the Prado, which is open every day at full hours. Always check each museum's specific schedule before planning a multi-museum day, since people frequently mix up the closure days."
+opciones:
+  - ficha: museo-prado-entrada
+    etiqueta: Prado only
+  - ficha: museo-prado-visita-guiada
+    etiqueta: With a guide
+  - ficha: art-walk-pass-prado-reina-sofia-thyssen
+    etiqueta: All 3 museums
 ---
 
 If you only have time for one museum in Madrid, **go to the Prado**. With time for two, add the Thyssen. The Reina Sofía comes last and only deserves your time if you genuinely care about 20th-century art.
@@ -55,6 +62,16 @@ If you only have time for one museum in Madrid, **go to the Prado**. With time f
 | Reina Sofía | 20th-century art | 1.5–3 h | €12 | Modern and contemporary art fans |
 
 The three form the **Paseo del Arte** (Art Walk), less than 1 km apart next to Retiro Park.
+
+## Which ticket should you choose?
+
+| Option | Price | What's included | Who it's for |
+| --- | --- | --- | --- |
+| Prado general ticket (official price) | €15 | The Prado only (€7.50 reduced) | Independent visitors buying on the museum's website |
+| [Prado Museum: official entry ticket](/en/cities/madrid/activities/prado-museum-entry-ticket) | €18 | Prado entry and booking fee; no guide or audio guide | Independent visitors who want everything booked in one place |
+| [Prado Museum: guided tour with entry](/en/cities/madrid/activities/prado-museum-guided-tour) | €49 | Official guide, entry and skip-the-line access (1.5–2 h) | First-timers who want to go straight to the essentials |
+| Paseo del Arte pass | €32.80 | Prado, Thyssen and Reina Sofía | Anyone genuinely visiting all three |
+| [Art Walk Pass](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen) | €38 | One entry to each museum (Thyssen permanent collection); valid one year | Visiting all three and booking it here |
 
 ## Museo del Prado: the answer to "I'm only going to one"
 

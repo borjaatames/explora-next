@@ -26,7 +26,7 @@ actividades:
   - clase-cocina-pintxos-bilbao
 ---
 
-**Pintxos essen in Bilbao ist ein Ritual, keine reine Mahlzeit.** Es geht nicht darum, sich an einem Ort niederzulassen, sondern von Theke zu Theke zu ziehen – der **Txikiteo** oder **Poteo** –, in jedem Lokal einen Pintxo und einen Txikito (Wein) oder einen Zurito (kleines Bier) zu nehmen. Dieser Guide sagt Ihnen, wohin Sie gehen, was Sie bestellen und wie Sie es wie ein Einheimischer machen und nicht wie ein ahnungsloser Tourist.
+**Pintxos essen in Bilbao ist ein Ritual, keine reine Mahlzeit.** Es geht nicht darum, sich an einem Ort niederzulassen, sondern von Theke zu Theke zu ziehen – der **Txikiteo** oder **Poteo** –, in jedem Lokal einen Pintxo und einen Txikito (Wein) oder einen Zurito (kleines Bier) zu nehmen. Dieser Guide sagt dir, wohin du gehst, was du bestellst und wie du es wie ein Einheimischer machst und nicht wie ein ahnungsloser Tourist.
 
 Regel Nummer eins: **in Bewegung bleiben**. Der Sinn liegt darin, die Spezialität jeder Bar zu probieren, nicht in einer zu verweilen. Und die besten Pintxos liegen oft nicht sichtbar auf der Theke: Sie werden warm bestellt.
 
@@ -44,7 +44,7 @@ Regel Nummer eins: **in Bewegung bleiben**. Der Sinn liegt darin, die Spezialit�
 
 ## Die klassischen Pintxos
 
-- **Die Gilda.** Der originale Pintxo: Peperoni, Olive und Sardelle auf einem Spieß. Salzig und macht süchtig; nehmen Sie ihn zuerst.
+- **Die Gilda.** Der originale Pintxo: Peperoni, Olive und Sardelle auf einem Spieß. Salzig und macht süchtig; nimm ihn zuerst.
 - **Kabeljau** (paniert, al pil-pil oder a la vizcaína).
 - **Saftige Kartoffel-Tortilla**: In Bilbao nimmt man sie sehr ernst.
 - **Txampis** (gegrillte Champignons mit Knoblauch).
@@ -58,12 +58,12 @@ Regel Nummer eins: **in Bewegung bleiben**. Der Sinn liegt darin, die Spezialit�
 
 ## Wie man es richtig macht
 
-1. **Bestellen Sie an der Theke**, was Sie sehen, oder fragen Sie nach der Tafel mit den **warmen Pintxos** des Tages.
-2. **Nehmen Sie ein oder zwei pro Bar** und wechseln Sie das Lokal: Das ist der Txikiteo.
-3. **Zahlen Sie rundenweise**; in vielen Lokalen wird angeschrieben und am Ende abgerechnet.
+1. **Bestell an der Theke**, was du siehst, oder frag nach der Tafel mit den **warmen Pintxos** des Tages.
+2. **Nimm ein oder zwei pro Bar** und wechsle das Lokal: Das ist der Txikiteo.
+3. **Zahl rundenweise**; in vielen Lokalen wird angeschrieben und am Ende abgerechnet.
 4. **Stoßzeiten**: der Mittagsaperitif (13:00–15:00 Uhr) und der abendliche (20:00–22:00 Uhr).
 
-> **⚠️ Hinweis:** Den ganzen Abend in nur einer Bar an der Plaza Nueva zu verbringen, ist typisch touristisch. Einheimische ziehen durch drei oder vier Lokale; machen Sie es genauso, und Sie werden deutlich besser essen.
+> **⚠️ Hinweis:** Den ganzen Abend in nur einer Bar an der Plaza Nueva zu verbringen, ist typisch touristisch. Einheimische ziehen durch drei oder vier Lokale; mach es genauso, und du wirst deutlich besser essen.
 
 [actividad: clase-cocina-pintxos-bilbao]
 
@@ -72,7 +72,7 @@ Regel Nummer eins: **in Bewegung bleiben**. Der Sinn liegt darin, die Spezialit�
 1. **Sie „Tapas“ nennen.** Hier sind es Pintxos, und viele werden warm bestellt.
 2. **Nur bei der kalten Theke bleiben.** Das Beste ist meist die warme Küche des Tages.
 3. **Txikitos trinken, ohne zu essen.** Der Poteo geht immer mit einem Pintxo einher.
-4. **An einem Spieltag nach Pozas gehen, wenn Sie Ruhe suchen.** Dort wird es überfüllt sein.
+4. **An einem Spieltag nach Pozas gehen, wenn du Ruhe suchst.** Dort wird es überfüllt sein.
 
 ## In einem Satz
 

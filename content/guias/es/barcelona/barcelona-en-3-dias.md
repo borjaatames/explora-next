@@ -65,7 +65,7 @@ Un mal plan convierte Barcelona en un parque temático: Ramblas a las once, Sagr
 
 **12:00 — Comer en el Eixample:** menú del día a 15-18 € en cualquier paralela a Provença, lejos de las cartas en seis idiomas.
 
-**14:00 — Manzana de la Discordia** (Passeig de Gràcia con Aragó): Casa Batlló, Casa Amatller y, dos calles arriba, La Pedrera. Si entras a una, **Casa Batlló** (desde 31 €): la experiencia está bien hecha. La Pedrera (desde 25 €) es más austera y, para quien valore la arquitectura, más interesante.
+**14:00 — Manzana de la Discordia** (Passeig de Gràcia con Aragó): Casa Batlló, Casa Amatller y, dos calles arriba, La Pedrera. Si entras a una, **Casa Batlló** (desde 29 €): la experiencia está bien hecha. La Pedrera (desde 29 €) es más austera y, para quien valore la arquitectura, más interesante.
 
 **20:30 — Cena** por Aribau y Enric Granados, donde cenan los locales; no en el tramo turístico del Passeig de Gràcia.
 

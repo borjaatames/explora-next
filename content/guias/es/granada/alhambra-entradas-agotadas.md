@@ -38,19 +38,26 @@ faq:
   respuesta: Sí, si el operador incluye la entrada a los Palacios Nazaríes con hora asignada. Desconfía de los tours que solo recorren la zona gratuita o los jardines y no lo dicen claro.
 - pregunta: ¿Qué se puede ver de la Alhambra sin entrada?
   respuesta: El bosque de la Alhambra, la Puerta de la Justicia, la Puerta del Vino y el Palacio de Carlos V son de acceso libre.
+opciones:
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: Con guía
+  - ficha: alhambra-visita-nocturna
+    etiqueta: De noche
+  - ficha: entrada-jardines-alhambra-generalife
+    etiqueta: Sin Nazaríes
 ---
 
 Las entradas de la Alhambra se pueden comprar **con hasta tres meses de antelación**, y en primavera, puentes y verano las franjas de mañana se agotan pronto. Que la web oficial diga «agotado» no significa que te quedes sin Alhambra: quedan varias vías, unas oficiales y otras de pago, y conviene probarlas en este orden.
 
-## Lo que puedes reservar ahora
+## ¿Qué entrada elegir?
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
 | Entrar seguro con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
-| La más elegida | [Visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100) | 54 € |
+| La más elegida | [Visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100) | 49 € |
 | Grupo pequeño | [Alhambra y Palacios Nazaríes en grupo reducido](/ciudades/granada/actividades/alhambra-grupo-reducido), 4,8★ (890) | 65 € |
 | Si solo quedan noches | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
-| Sin Nazaríes, más barato | [Jardines, Generalife y Alcazaba](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 18 € |
+| Sin Nazaríes, más barato | [Jardines, Generalife y Alcazaba](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |
 
 ## 1. Vuelve a mirar la web oficial (y a qué hora)
 

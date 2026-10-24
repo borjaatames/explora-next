@@ -20,7 +20,7 @@ slugs:
   en: valencia-with-kids
   de: valencia-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Valencia es **llana, segura y con playa urbana**. Los dos imprescindibles son el **Oceanogràfic**, el mayor acuario de Europa (desde 37 €), y el **Bioparc** (30 €); entre medias, bici por el **Jardín del Turia**, nueve kilómetros sin coches. El casco histórico, en dosis cortas. Mejor de marzo a junio.'
+respuestaCorta: 'Valencia es **llana, segura y con playa urbana**. Los dos imprescindibles son el **Oceanogràfic**, el mayor acuario de Europa (desde 37 €), y el **Bioparc** (29,50 €); entre medias, bici por el **Jardín del Turia**, nueve kilómetros sin coches. El casco histórico, en dosis cortas. Mejor de marzo a junio.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada
@@ -50,10 +50,10 @@ imagen_alt: "Elefantes en el Bioparc de Valencia"
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 30 € |
+| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 29,5 € |
 | [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
 | [Entrada combinada Oceanogràfic y Museo de las Ciencias](/ciudades/valencia/actividades/oceanografic-museo-ciencias-entrada-combinada) | 4,7★ (2.797) | 39 € |
-| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 32 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
 | [Paseo en catamarán de día o al atardecer con bebida](/ciudades/valencia/actividades/paseo-catamaran-valencia-atardecer) | 4,0★ (3.360) | 15 € |
 
 La clave con niños en Valencia es no intentar verlo todo. El casco histórico se disfruta en dosis cortas; el resto del tiempo, agua, animales y parque. Con eso, la ciudad cunde sola.

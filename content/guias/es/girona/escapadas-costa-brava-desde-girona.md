@@ -55,7 +55,7 @@ imagen_alt: "La Vila Vella de Tossa de Mar sobre la playa"
 | Islas Medes | [Barco a las islas Medes desde L'Estartit](/ciudades/girona/actividades/islas-medes-barco-cuevas-estartit), 4,6★ (634) | 24 € |
 | Museo Dalí con guía | [Visita guiada al Teatro-Museo Dalí](/ciudades/girona/actividades/teatro-museo-dali-figueres-visita-guiada), 4,7★ (105) | 31 € |
 | Si duermes en Barcelona | [Girona, Figueres, Dalí y Cadaqués en un día](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 69 € |
-| Desde Barcelona, grupo reducido | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 99 € |
+| Desde Barcelona, grupo reducido | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 98,5 € |
 | Tossa de Mar desde Barcelona | [Tossa de Mar y la Costa Brava en el día](/ciudades/girona/actividades/tossa-de-mar-costa-brava-excursion-desde-barcelona), 4,9★ (596) | 39 € |
 
 Las dos últimas salen de Barcelona, no de Girona. Si duermes en Girona, las que te sirven son el kayak, los barcos y la visita al Dalí.

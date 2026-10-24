@@ -122,21 +122,27 @@ keywords:
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
-imagenAlt: "Mercado de San Miguel"
+imagen: "/images/actividades/madrid/ebike/tour-ebike-pareja-bicicletas-electricas.webp"
+imagenAlt: "Dos ciclistas con casco pedaleando en bicicleta eléctrica"
 galeria:
+  - src: "/images/actividades/madrid/ebike/tour-ebike-pareja-bicicletas-electricas.webp"
+    alt: "Dos ciclistas con casco pedaleando en bicicleta eléctrica"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
     alt: "Plaza Mayor, primera parada del recorrido"
-  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
-    alt: "Mercado de San Miguel"
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Plaza de la Villa con la Casa y Torre de los Lujanes"
+  - src: "/images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp"
+    alt: "Ciclista en bicicleta eléctrica de paseo"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
     alt: "Plaza de Oriente y Palacio Real"
+  - src: "/images/actividades/madrid/ebike/bicicletas-electricas-aparcadas.webp"
+    alt: "Dos bicicletas eléctricas de paseo aparcadas"
   - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
     alt: "Palacio Real visto desde los jardines del Campo del Moro"
   - src: "/images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp"
     alt: "Templo de Debod reflejado en su estanque"
+  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+    alt: "Plaza de la Villa con la Casa y Torre de los Lujanes"
+  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
+    alt: "Mercado de San Miguel"
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

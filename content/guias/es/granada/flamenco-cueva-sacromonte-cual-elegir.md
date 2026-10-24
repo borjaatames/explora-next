@@ -1,7 +1,7 @@
 ---
 titulo: "Flamenco en cueva del Sacromonte: qué cueva elegir (Zincalé, Los Amayas, La Faraona o Los Tarantos)"
 descripcion: "Las 4 cuevas de flamenco del Sacromonte de Granada, comparadas: precio, duración, ambiente y para quién es cada una. Cuál elegir según lo que busques."
-respuestaCorta: 'Las cuatro cuevas del Sacromonte ofrecen alrededor de una hora de zambra gitana por 18-28 €. Elige **Los Tarantos** (28 €, desde 1972, bebida incluida) para una primera vez segura, **La Faraona** (18 €, 25 plazas) para la sala más íntima y **Los Amayas** (23 €, sin escenario ni megafonía, bebida incluida) para el formato más tradicional. Las cuatro tienen **cancelación gratuita hasta 24 horas** antes.'
+respuestaCorta: 'Las cuatro cuevas del Sacromonte ofrecen alrededor de una hora de zambra gitana por 20-28 €. Elige **Los Tarantos** (28 €, desde 1972, bebida incluida) para una primera vez segura, **La Faraona** (20 €, 25 plazas) para la sala más íntima y **Los Amayas** (25 €, sin escenario ni megafonía, bebida incluida) para el formato más tradicional. Las cuatro tienen **cancelación gratuita hasta 24 horas** antes.'
 categoria: "granada"
 slug: "flamenco-cueva-sacromonte-cual-elegir"
 fecha: "2026-09-06"
@@ -30,15 +30,15 @@ actividades:
   - flamenco-cuevas-tarantos-sacromonte
 ---
 
-Si has buscado "flamenco Sacromonte Granada" habrás visto que hay cuatro cuevas distintas ofreciendo, en apariencia, lo mismo: zambra gitana, una hora de cante y baile, dentro de una cueva excavada en la ladera del Sacromonte. Los precios se parecen (entre 18€ y 28€), las fotos se parecen y las descripciones de los buscadores de viajes también. La diferencia real está en el detalle, y esta guía existe para ahorrarte tener que abrir las cuatro fichas y comparar tú mismo.
+Si has buscado "flamenco Sacromonte Granada" habrás visto que hay cuatro cuevas distintas ofreciendo, en apariencia, lo mismo: zambra gitana, una hora de cante y baile, dentro de una cueva excavada en la ladera del Sacromonte. Los precios se parecen (entre 20€ y 28€), las fotos se parecen y las descripciones de los buscadores de viajes también. La diferencia real está en el detalle, y esta guía existe para ahorrarte tener que abrir las cuatro fichas y comparar tú mismo.
 
 ## Las 4 cuevas, comparadas
 
 | Cueva | Precio desde | Duración | Ambiente | Ideal para |
 |---|---|---|---|---|
 | [Cueva del Zincalé](/ciudades/granada/actividades/flamenco-cueva-zincale-sacromonte) | 20€ | 50 min | Gestionada directamente por los artistas, formato artesanal | Quien quiere lo más cercano a "ver actuar a la familia que lo gestiona" |
-| [Cueva Los Amayas](/ciudades/granada/actividades/flamenco-cueva-amayas-sacromonte) | 23€ | 1h | Sin escenario ni megafonía, a 3 metros de los bailaores, bebida incluida | El purista: quiere el formato más tradicional, sin artificio |
-| [Cueva La Faraona](/ciudades/granada/actividades/flamenco-cueva-faraona-sacromonte) | 18€ | 1h | La más pequeña (25 plazas), a metro y medio de los artistas | El precio más bajo del grupo, sin renunciar a la cercanía |
+| [Cueva Los Amayas](/ciudades/granada/actividades/flamenco-cueva-amayas-sacromonte) | 25€ | 1h | Sin escenario ni megafonía, a 3 metros de los bailaores, bebida incluida | El purista: quiere el formato más tradicional, sin artificio |
+| [Cueva La Faraona](/ciudades/granada/actividades/flamenco-cueva-faraona-sacromonte) | 20€ | 1h | La más pequeña (25 plazas), a metro y medio de los artistas | El precio más bajo del grupo, sin renunciar a la cercanía |
 | [Cuevas Los Tarantos](/ciudades/granada/actividades/flamenco-cuevas-tarantos-sacromonte) | 28€ | 1h | Abierta desde 1972, bebida incluida, elenco amplio, 2.093 reseñas | Primera vez viendo flamenco en cueva: la opción con más margen de error |
 
 ## Cómo elegir en 30 segundos

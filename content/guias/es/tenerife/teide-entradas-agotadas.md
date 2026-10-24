@@ -37,11 +37,18 @@ faq:
   respuesta: 'No. Son dos reservas separadas: el billete del teleférico se compra a Volcano Teide y el permiso, en Tenerife ON. El permiso solo vale para su día y su franja, aunque ese día el teleférico no funcione.'
 - pregunta: ¿Qué pasa si el teleférico cierra por viento?
   respuesta: 'Volcano Teide devuelve el billete o te ofrece cambiar de fecha. El permiso solo se reembolsa si el sendero se cierra o el teleférico no funciona, con el correo de Volcano Teide que lo acredite.'
+opciones:
+  - ficha: teide-teleferico-traslado
+    etiqueta: Con teleférico
+  - ficha: atardecer-estrellas-teide-telescopio
+    etiqueta: De noche
+  - ficha: teide-subida-cumbre-ruta-guiada
+    etiqueta: A la cima a pie
 ---
 
 Subir al Teide exige **dos reservas distintas**: el billete del teleférico, que vende la empresa que lo gestiona, y el permiso para el último tramo hasta la cima, que da el Cabildo. Las dos se agotan en verano, Semana Santa y puentes, y que una salga agotada no significa que la otra también. Esto es lo que puedes hacer en cada caso.
 
-## Lo que puedes reservar ahora
+## ¿Qué entrada elegir?
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |

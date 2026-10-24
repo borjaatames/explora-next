@@ -42,11 +42,11 @@ imagen_alt: "Valencia's Silk Exchange (La Lonja)"
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Cathedral, San Nicolás and Silk Exchange tour](/en/cities/valencia/activities/valencia-cathedral-silk-exchange-san-nicolas-tour) | 4.8★ (1,243) | €49 |
-| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €32 |
+| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €40 |
 | [Oceanogràfic entry ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4.7★ (11,540) | €37 |
-| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €30 |
+| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €29.5 |
 | [Day or sunset catamaran cruise with a drink](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4.0★ (3,360) | €15 |
-| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €29 |
+| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €28.5 |
 
 ## When to visit
 
@@ -76,7 +76,7 @@ imagen_alt: "Valencia's Silk Exchange (La Lonja)"
 
 ## Day 2: La Albufera, paella and the beach
 
-**9:30 — La Albufera.** About 45 minutes on bus 24 or 25 from Plaza de la Reina is the **natural park**: a freshwater lagoon ringed by rice paddies and traditional barracas. The **boat ride** (about 40 minutes, no booking needed except at sunset) is the highlight.
+**9:30 — La Albufera.** About 45 minutes on bus 24 or 25 from Plaza de la Reina is the **natural park**: a freshwater lagoon ringed by rice paddies and traditional barracas. The **boat ride** (40–45 minutes, about €5, no booking needed except at sunset) is the highlight.
 
 **13:30 — Real paella in El Palmar.** The original **paella valenciana** has chicken, rabbit, garrofó beans, green beans and, in some houses, snails: no seafood, no chorizo. It's a lunchtime dish, and El Palmar is where they nail it.
 

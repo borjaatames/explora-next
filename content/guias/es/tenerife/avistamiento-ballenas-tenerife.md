@@ -49,7 +49,7 @@ imagen_alt: "Calderón saliendo del agua frente a Tenerife"
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Ballenas y delfines en yate ecológico desde Los Cristianos](/ciudades/tenerife/actividades/avistamiento-ballenas-delfines-yate-ecologico) | 4,7★ (19.490) | 30 € |
-| [Kayak y esnórquel en Los Cristianos](/ciudades/tenerife/actividades/kayak-esnorquel-los-cristianos) | 4,7★ (12.364) | 20,90 € |
+| [Kayak y esnórquel en Los Cristianos](/ciudades/tenerife/actividades/kayak-esnorquel-los-cristianos) | 4,7★ (12.364) | 23 € |
 | [Barranco de Masca: senderismo y vuelta en barco](/ciudades/tenerife/actividades/barranco-masca-senderismo-barco) | 4,7★ (374) | 145 € |
 | [Barco privado para ver cetáceos desde Las Galletas](/ciudades/tenerife/actividades/avistamiento-cetaceos-barco-privado-las-galletas) | — | 450 € por barco |
 

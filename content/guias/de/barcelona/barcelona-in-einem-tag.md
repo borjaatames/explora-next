@@ -100,9 +100,9 @@ Ohne Wenn und Aber. Und zuerst am Morgen.
 
 Du gehst von der Sagrada Familia hinunter zum Passeig de Gràcia (15 Minuten zu Fuß oder 1 Metrostation).
 
-Die Fassade von **Casa Batlló** ist spektakulär. Innen ebenfalls, aber der Eintritt kostet **ab 31 €** und braucht weitere 1 Std. 30 Min. An einem Tag reicht der Blick von außen, dann weiter. Wenn du dir ein andermal Zeit lässt, geh hinein.
+Die Fassade von **Casa Batlló** ist spektakulär. Innen ebenfalls, aber der Eintritt kostet **ab 29 €** und braucht weitere 1 Std. 30 Min. An einem Tag reicht der Blick von außen, dann weiter. Wenn du dir ein andermal Zeit lässt, geh hinein.
 
-**Casa Milà (La Pedrera)**: in derselben Straße, 200 Meter weiter oben. Gleiches Prinzip: von außen wunderbar, drinnen **ab 25 €**. Für den Kurztrip reicht die Außenansicht.
+**Casa Milà (La Pedrera)**: in derselben Straße, 200 Meter weiter oben. Gleiches Prinzip: von außen wunderbar, drinnen **ab 29 €**. Für den Kurztrip reicht die Außenansicht.
 
 Der **Passeig de Gràcia** ist die schönste Straße Barcelonas. Luxusgeschäfte, Modernisme in jedem Block. Schlendere hindurch, ohne einzukaufen.
 
@@ -156,7 +156,7 @@ Du läufst vom Park Güell etwa **20 Minuten bergauf** oder nimmst ein Taxi (5-7
 
 ## Was man beim Kurzbesuch auslassen kann
 
-**Casa Batlló von innen** (ab 31 € + 1 Std. 30 Min.) und **Casa Milà von innen** (ab 25 € + 1 Std.): von außen sind sie hervorragend, an einem Tag passen sie nicht rein. Heb sie dir für einen zweiten Besuch auf.
+**Casa Batlló von innen** (ab 29 € + 1 Std. 30 Min.) und **Casa Milà von innen** (ab 29 € + 1 Std.): von außen sind sie hervorragend, an einem Tag passen sie nicht rein. Heb sie dir für einen zweiten Besuch auf.
 
 **Die Boquería zum Essen**: verzichtbar. Als Kurzbesuch (10 Min.) durchaus, um Fotos zu machen und den Markt in Aktion zu sehen.
 

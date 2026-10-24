@@ -41,25 +41,32 @@ faq:
 - pregunta: How long do I need to see the Alhambra?
   respuesta: About 4 hours to see the Nasrid Palaces, Alcazaba, Generalife and Palace of Charles V without rushing.
 tiempo_lectura: 4
+opciones:
+  - ficha: alhambra-entrada-general
+    etiqueta: Cheapest
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: With a guide
+  - ficha: alhambra-palacios-nazaries-sin-colas
+    etiqueta: Small group
 ---
 
 The Alhambra is Spain's most visited monument, and its tickets sell out weeks in advance. The safest way in is a visit that already includes your ticket. You don't depend on spaces being left, and someone explains what you're looking at.
 
-## Which visit to choose
+## Which ticket should you choose?
 
 | If you want… | We recommend | From |
 | --- | --- | --- |
-| The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100 reviews) | €54 |
+| The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100 reviews) | €49 |
 | The cheapest with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
 | Small group, no queues | [Alhambra and Nasrid Palaces skip-the-line small group](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line), 4.7★ (8,443) | €75 |
 | The best rated | [Guided tour with tickets](/en/cities/granada/activities/alhambra-guided-tour-with-tickets), 4.9★ (1,018) | €84 |
 | Something different | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
 | Just your group | [Private tour](/en/cities/granada/activities/alhambra-private-tour), 4.9★ (242) | €280 |
-| Short on time or budget | [Gardens and Generalife (no Nasrid Palaces)](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €18 |
+| Short on time or budget | [Gardens and Generalife (no Nasrid Palaces)](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €17.5 |
 
 How to pick:
 
-- **First visit, normal budget:** the most popular tour (€54). 3 hours with an official guide and headsets, in five languages; 20% cheaper if you book more than 40 days ahead.
+- **First visit, normal budget:** the most popular tour (€49). 3 hours with an official guide and headsets, in five languages; 20% cheaper if you book more than 40 days ahead.
 - **Travelling with children:** the best-rated tour (€84) adapts the route and has games for kids.
 - **Already seen it by day:** the night visit is 1.5 hours in the illuminated Nasrid Palaces only. It doesn't replace the daytime visit.
 - **Watch the conditions:** none of these Alhambra options offers free cancellation, so book once your dates are fixed.
@@ -94,7 +101,7 @@ Tickets go on sale **up to three months ahead**, with about 8,000 a day. Morning
 
 [actividad: alhambra-entrada-general]
 
-If the official site is already sold out, [what to do when Alhambra tickets are sold out](/en/guides/granada/alhambra-tickets-sold-out) covers every option left.
+If the official site is already sold out, [what to do when Alhambra tickets are sold out](/en/guides/granada/alhambra-tickets-sold-out) covers every option left. And if you're torn between this and Seville's palace, [Alhambra or Alcázar of Seville?](/en/guides/granada/alhambra-or-alcazar-of-seville) helps you choose.
 
 ## The golden rule: your Nasrid Palaces time
 

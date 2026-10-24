@@ -32,6 +32,13 @@ actividades:
   - alhambra-visita-nocturna
   - alhambra-tour-privado
   - entrada-jardines-alhambra-generalife
+opciones:
+  - ficha: alhambra-entrada-general
+    etiqueta: Am günstigsten
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: Mit Führung
+  - ficha: alhambra-palacios-nazaries-sin-colas
+    etiqueta: Kleine Gruppe
 ---
 
 Die Alhambra ist **das meistbesuchte Monument Spaniens** — über 2,5 Millionen Menschen im Jahr — und mit ziemlicher Sicherheit **das am schlechtesten besichtigte**. Wer ohne Plan hinfährt, zahlt am Ende 60 € an ein Weiterverkaufsportal, kommt zu spät zu den Nasridenpaläste und verliert das Ticket, oder verlässt das Gelände nach drei Stunden, ohne verstanden zu haben, was er gesehen hat. Schade, denn die Alhambra belohnt jeden, der mit einem Minimum an Planung anreist, außerordentlich.
@@ -53,7 +60,7 @@ Die meisten stellen sich einen Palast vor. Tatsächlich handelt es sich **um ein
 
 Zum besseren Verständnis: **die Nasridenpaläste sind der Schmuck**, die Alcazaba ist **die Festung**, der Generalife ist **die Erholung**, und der Palast Karls V. ist die christliche Antwort des 16. Jahrhunderts auf all das Vorherige. Die vier Teile entstanden zu unterschiedlichen Zeiten, deshalb schließt das Generalticket alle vier ein.
 
-## Tickettypen und offizielle Preise 2026
+## Welches Ticket solltest du wählen?
 
 Das sind die Preise des Patronato de la Alhambra gemäß der Verordnung vom 17. Juli 2025, die das ganze Jahr 2026 gilt. Sie beinhalten die Online-Servicegebühr (1,27 € auf den Grundpreis von 21 €). Es gibt sechs unterschiedliche Tickettypen — mehr, als die meisten denken —, und das ist Teil des Problems: Kaufst du das falsche, kommst du an der Alhambra an und kannst nicht in die Nasridenpaläste.
 

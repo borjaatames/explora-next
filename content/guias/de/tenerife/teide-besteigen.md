@@ -38,6 +38,13 @@ faq:
   respuesta: 'Auf 3.555 m gibt es weniger Sauerstoff: Müdigkeit oder Kopfschmerzen sind normal. Nicht empfohlen für Schwangere, Kinder unter 3 Jahren und Menschen mit Herz- oder Atemproblemen. Geh langsam und trink Wasser.'
 imagen_portada: "/images/guias/subir-al-teide.jpg"
 imagen_alt: "Der verschneite Teide über Las Cañadas"
+opciones:
+  - ficha: teide-teleferico-traslado
+    etiqueta: Mit Seilbahn
+  - ficha: atardecer-estrellas-teide-telescopio
+    etiqueta: Bei Nacht
+  - ficha: teide-subida-cumbre-ruta-guiada
+    etiqueta: Gipfel zu Fuß
 ---
 
 **Der Teide ist mit 3.715 m der höchste Berg Spaniens** (so misst ihn das spanische Instituto Geográfico Nacional; oft liest du 3.718 m) und das Herz eines Nationalparks mit Welterbe-Status. Man kann ihn auf viele Arten erleben: mit dem Auto durch Las Cañadas, mit der Seilbahn fast bis zum Gipfel, zu Fuß mit Genehmigung oder nachts unter den Sternen. Dieser Guide hilft dir bei der Wahl, mit den Zugangsregeln, die im Oktober 2026 gelten.
@@ -61,6 +68,15 @@ Der Weg **Telesforo Bravo** (653 m lang, rund 40 Minuten, 168 m Anstieg) führt 
 - **Zeitfenster:** seit Oktober 2026 90 Minuten lang. Neue Tage werden jeden **Montag um 7:00 Uhr** freigeschaltet, einige Wochen im Voraus; Termine im Sommer und zu Ostern sind schnell weg.
 - **Stimm die Seilbahn** auf dein Zeitfenster ab und prüf die letzte Talfahrt, wenn du ein spätes Fenster nimmst.
 - **Erstattung** nur, wenn der Weg wegen des Wetters geschlossen ist oder die Seilbahn nicht fährt. Wer ohne Genehmigung hinaufgeht, riskiert ein Bußgeld.
+
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Gipfelgenehmigung (Tenerife ON) | 15 € | Nur der Weg Telesforo Bravo zum Krater; Seilbahn extra | Wer auf eigene Faust zum Gipfel will |
+| [Ausflug mit Seilbahn und Transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) | 92 € | Transfer aus Nord und Süd, Guide und Seilbahnticket; ohne Gipfelgenehmigung | Wer ohne eigenes Auto hinauf will |
+| [Sonnenuntergang und Sterne](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 35 € | Sternbeobachtung in kleiner Gruppe mit Starlight-Guides, ein Glas Cava; ohne Seilbahn | Wer den Teide bei Nacht erleben will |
+| [Geführter Aufstieg zum Gipfel](/en/cities/tenerife/activities/mount-teide-summit-guided-hike) | 189 € | Bergführer; ohne Seilbahnticket und Anfahrt | Wer zu Fuß mit Bergführer zum Gipfel will |
 
 ## Die Hütte Altavista
 

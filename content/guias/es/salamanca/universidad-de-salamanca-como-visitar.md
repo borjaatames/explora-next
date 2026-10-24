@@ -1,7 +1,7 @@
 ---
 titulo: "Universidad de Salamanca: cómo visitarla y qué no perderse"
 descripcion: "Cómo visitar la Universidad de Salamanca: precios, horarios, qué ver dentro, la rana de la fachada, el aula de Fray Luis y errores típicos del visitante."
-respuestaCorta: 'La entrada al **Edificio Histórico cuesta 10 €** (5 € reducida) y es **gratis los lunes por la tarde**, aunque con cola y sin garantía de entrar. La fachada plateresca con la rana y el **Cielo de Salamanca** son gratis. Calcula **2 h 30** (la Biblioteca Histórica solo se ve a través de un cristal); la visita guiada con entrada sale desde 19 €.'
+respuestaCorta: 'La entrada al **Edificio Histórico cuesta 10 €** (5 € reducida) y es **gratis los lunes por la tarde**, aunque con cola y sin garantía de entrar. La fachada plateresca con la rana y el **Cielo de Salamanca** son gratis. Calcula **2 h 30** (la Biblioteca Histórica solo se ve a través de un cristal); la visita guiada con entrada sale desde 12 €.'
 categoria: "salamanca"
 slug: "universidad-de-salamanca-como-visitar"
 fecha: "2026-04-29"
@@ -34,7 +34,7 @@ La Universidad de Salamanca es **la más antigua de España** (1218) y una de la
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 19 € |
+| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 12 € |
 | [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
 
 [actividad: universidad-salamanca-visita-guiada]

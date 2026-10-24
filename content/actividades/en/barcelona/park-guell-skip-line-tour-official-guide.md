@@ -38,7 +38,7 @@ noIncluye:
 
 puntoEncuentro:
   texto: "Ctra. del Carmel, 23, 08024 Barcelona — next to the park entrance. Important: YOU WILL NOT BE ABLE to cross the park until you meet the guide. If you don't arrive on time, you can't enter on your own or join the group later — non-refundable."
-  descripcionGuia: "Metro Vallcarca or Lesseps (line 3) + 10-15 min walking uphill. Bus 24 or 116. The operational warning matters: if you arrive late, you CANNOT enter the park on your own (the group has passed the check and you're left out). Arrive 15 min early."
+  descripcionGuia: "Metro Vallcarca or Lesseps (line 3) + 10-15 min walking uphill. Bus 24 or V19 (Ctra. del Carmel). The operational warning matters: if you arrive late, you CANNOT enter the park on your own (the group has passed the check and you're left out). Arrive 15 min early."
   latitud: 41.4145
   longitud: 2.1527
   zoom: 17

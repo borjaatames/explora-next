@@ -29,11 +29,18 @@ actividades:
   - montserrat-masia-bages-almuerzo-vinos
   - montserrat-sesion-fotos-signature
   - montserrat-tour-privado-recogida-hotel
+opciones:
+  - ficha: montserrat-cremallera-bodega-castlexperience
+    etiqueta: La más barata
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Grupo pequeño
+  - ficha: montserrat-masia-bages-almuerzo-vinos
+    etiqueta: Con almuerzo y vino
 ---
 
 Montserrat se puede visitar desde Barcelona de cinco formas muy distintas entre sí — no es un caso de fichas casi idénticas compitiendo por lo mismo, sino de duraciones y presupuestos que van de una sesión de fotos de una hora a un día completo con almuerzo y maridaje de vinos.
 
-## Las 5 excursiones a Montserrat
+## ¿Qué excursión elegir?
 
 | Opción | Precio desde | Duración | Formato | Ideal para |
 |---|---|---|---|---|

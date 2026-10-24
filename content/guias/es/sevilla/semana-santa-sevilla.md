@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: "Equipo ExploraSpain"
 publicada: true
 destacada: true
-imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"
-imagen_alt: "Callejón del Agua en el barrio de Santa Cruz"
+imagen_portada: "/images/guias/semana-santa-sevilla.jpg"
+imagen_alt: "Paso de palio de la Virgen de la Victoria (Cigarreras) en una calle de Sevilla durante la Semana Santa"
 tiempo_lectura: 4
 keywords:
   - "semana santa sevilla 2027"

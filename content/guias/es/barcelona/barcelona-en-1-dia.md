@@ -59,7 +59,7 @@ Barcelona en un día desde Madrid es **factible con disciplina**: el AVE tarda 2
 
 **Sagrada Família (10:00, 1 h 30).** Sí o sí y a primera hora, cuando la luz entra por las vidrieras del Nacimiento. Solo en `sagradafamilia.org`: básica con audioguía 26 €, con torres 36 €, guiada 30 €. La Hora del Silencio (9:00-10:00) evita masas. Sin tirantes ni pantalón corto. Las torres añaden 30 minutos; en un día, prescindibles. Detalle en [cómo visitar la Sagrada Família](/guias/barcelona/sagrada-familia-como-visitar).
 
-**Casa Batlló y Passeig de Gràcia (12:00, 30 min).** A 15 minutos andando. Por dentro cuesta desde 31 € y 1 h 30 más; hoy, por fuera. Lo mismo con La Pedrera (desde 25 €), 200 metros más arriba. El paseo es la calle más bonita de la ciudad.
+**Casa Batlló y Passeig de Gràcia (12:00, 30 min).** A 15 minutos andando. Por dentro cuesta desde 29 € y 1 h 30 más; hoy, por fuera. Lo mismo con La Pedrera (desde 29 €), 200 metros más arriba. El paseo es la calle más bonita de la ciudad.
 
 **Barrio Gótico (12:30, 1 h 30).** La **Catedral** (de pago para la visita turística con claustro y terrazas; comprueba el precio del día en su web. En el claustro, las 13 ocas de Santa Eulàlia), la **Plaça del Rei** (donde la leyenda sitúa a los Reyes Católicos recibiendo a Colón) y la **Plaça Sant Felip Neri**, con la metralla de la Guerra Civil en la fachada. Piérdete por Bisbe, Call y Llibreteria.
 

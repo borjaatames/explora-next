@@ -41,21 +41,28 @@ faq:
   respuesta: 'Si es tu primera vez, con guía: te asegura la entrada, organiza la hora de los Nazaríes y te explica el simbolismo de cada sala, que sin explicación se pierde.'
 - pregunta: ¿Cuánto tiempo necesito para ver la Alhambra?
   respuesta: Unas 4 horas para ver los Palacios Nazaríes, la Alcazaba, el Generalife y el Palacio de Carlos V sin prisas.
+opciones:
+  - ficha: alhambra-entrada-general
+    etiqueta: La más barata
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: Con guía
+  - ficha: alhambra-palacios-nazaries-sin-colas
+    etiqueta: Grupo reducido
 ---
 
 La Alhambra es el monumento más visitado de España, y sus entradas se agotan con semanas de antelación. La forma más segura de entrar es una visita que ya incluya la entrada. Así no dependes de que queden plazas, y alguien te explica lo que estás viendo.
 
-## Qué visita elegir
+## ¿Qué entrada elegir?
 
 | Si buscas… | Te recomendamos | Desde |
 | --- | --- | --- |
-| La más elegida | [Visita guiada a la Alhambra y los Palacios Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100 opiniones) | 54 € |
+| La más elegida | [Visita guiada a la Alhambra y los Palacios Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100 opiniones) | 49 € |
 | La más económica con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
 | Grupo pequeño y sin colas | [Alhambra y Nazaríes sin colas en grupo reducido](/ciudades/granada/actividades/alhambra-palacios-nazaries-sin-colas), 4,7★ (8.443) | 75 € |
 | La mejor valorada | [Tour guiado con entradas](/ciudades/granada/actividades/alhambra-tour-guiado-con-entradas), 4,9★ (1.018) | 84 € |
 | Algo distinto | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
 | Ir solo vosotros | [Tour privado](/ciudades/granada/actividades/alhambra-tour-privado), 4,9★ (242) | 280 € |
-| Poco tiempo o presupuesto | [Jardines y Generalife (sin Nazaríes)](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 18 € |
+| Poco tiempo o presupuesto | [Jardines y Generalife (sin Nazaríes)](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |
 
 ## Por qué ir con guía
 
@@ -83,7 +90,7 @@ Las entradas se pueden comprar **con hasta tres meses de antelación** y hay una
 
 [actividad: alhambra-entrada-general]
 
-Si la web oficial ya sale agotada, en [qué hacer si las entradas de la Alhambra están agotadas](/guias/granada/alhambra-entradas-agotadas) repasamos todas las opciones que quedan.
+Si la web oficial ya sale agotada, en [qué hacer si las entradas de la Alhambra están agotadas](/guias/granada/alhambra-entradas-agotadas) repasamos todas las opciones que quedan. Y si dudas entre este monumento y el de Sevilla, en [¿Alhambra o Alcázar de Sevilla?](/guias/granada/alhambra-o-alcazar-de-sevilla) te ayudamos a elegir.
 
 ## La regla de oro: la hora de los Nazaríes
 

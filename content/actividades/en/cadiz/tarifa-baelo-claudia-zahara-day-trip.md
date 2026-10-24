@@ -70,20 +70,22 @@ keywords:
 imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
 imagenAlt: Roman ruins of Baelo Claudia by the sea
 galeria:
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
-  alt: Fish-salting factory at Baelo Claudia
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-03.webp
-  alt: Columns of the Baelo Claudia basilica
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-04.webp
-  alt: Forum of Baelo Claudia
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-05.webp
-  alt: Temples of Baelo Claudia
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-06.webp
-  alt: Roman street in Baelo Claudia
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-07.webp
-  alt: Roman theatre of Baelo Claudia
-- src: /images/actividades/cadiz/mar/puesta-sol-atlantico.webp
-  alt: Sunset over the Atlantic on the Costa de la Luz
+  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp"
+    alt: "Fish-salting factory at Baelo Claudia"
+  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-03.webp"
+    alt: "Columns of the Baelo Claudia basilica"
+  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-04.webp"
+    alt: "Forum of Baelo Claudia"
+  - src: "/images/actividades/cadiz/tarifa/tarifa-playa-los-lances-kitesurf.webp"
+    alt: "Playa de los Lances in Tarifa with kitesurfing kites"
+  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-05.webp"
+    alt: "Temples of Baelo Claudia"
+  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-06.webp"
+    alt: "Roman street in Baelo Claudia"
+  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-07.webp"
+    alt: "Roman theatre of Baelo Claudia"
+  - src: "/images/actividades/cadiz/mar/puesta-sol-atlantico.webp"
+    alt: "Sunset over the Atlantic on the Costa de la Luz"
 ratingProveedor: 4.7
 numeroOpiniones: 31
 atraccionesRelacionadas:

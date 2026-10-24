@@ -65,7 +65,30 @@ export type GuiaFrontmatter = {
    * bloque de reservas. Admite **negrita**.
    */
   respuestaCorta?: string;
+
+  /**
+   * Guías de un solo monumento: bloque «Nuestras 3 opciones» bajo la
+   * respuesta corta. `ficha` es el slug ES de la ficha (de la misma ciudad
+   * que la guía) y `etiqueta` dice para quién es, en el idioma de la guía.
+   */
+  opciones?: OpcionFrontmatter[];
 };
+
+export type OpcionFrontmatter = { ficha: string; etiqueta: string };
+
+function leerOpciones(valor: unknown): OpcionFrontmatter[] | undefined {
+  if (!Array.isArray(valor)) return undefined;
+  const opciones = valor
+    .filter(
+      (o): o is OpcionFrontmatter =>
+        typeof o === "object" &&
+        o !== null &&
+        typeof (o as Record<string, unknown>).ficha === "string" &&
+        typeof (o as Record<string, unknown>).etiqueta === "string"
+    )
+    .slice(0, 3);
+  return opciones.length > 0 ? opciones : undefined;
+}
 
 export type GuiaListItem = GuiaFrontmatter & {
   idioma: Idioma;
@@ -181,6 +204,7 @@ export async function obtenerGuia(
       typeof fm.respuestaCorta === "string" && fm.respuestaCorta.trim()
         ? fm.respuestaCorta.trim()
         : undefined,
+    opciones: leerOpciones(fm.opciones),
     faq: fm.faq,
     idioma,
     tiempoLectura: calcularTiempoLectura(content),

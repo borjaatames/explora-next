@@ -43,6 +43,13 @@ faq:
     respuesta: "Solo si te interesa de verdad el arte del siglo XX. Alberga el Guernica de Picasso junto a obras importantes de Dalí y Miró, pero frente al Prado pierde en variedad para un visitante generalista. 1,5 horas bastan para ver el Guernica, Dalí y Miró; el recorrido completo lleva de 3 a 4 horas."
   - pregunta: "¿Cierra el Thyssen los lunes?"
     respuesta: "En parte. El Thyssen tiene horario reducido y solo gratuito los lunes (de 12:00 a 16:00 para la colección permanente), a diferencia del Prado, que abre todos los días en horario completo. Conviene comprobar siempre el horario concreto de cada museo antes de planificar un día con varios, porque es habitual confundir los días de cierre."
+opciones:
+  - ficha: museo-prado-entrada
+    etiqueta: Solo el Prado
+  - ficha: museo-prado-visita-guiada
+    etiqueta: Con guía
+  - ficha: art-walk-pass-prado-reina-sofia-thyssen
+    etiqueta: Los 3 museos
 ---
 
 Si solo tienes tiempo para un museo en Madrid, **ve al Prado**. Si tienes para dos, añade el Thyssen. El Reina Sofía va el último y solo merece el tiempo si te interesa de verdad el arte del siglo XX. El resto de la guía es el por qué, qué ver en cada uno, precios, horas gratis y cómo organizarlos.
@@ -56,6 +63,16 @@ Los tres forman el **Paseo del Arte**: están a menos de 1 km entre sí, junto a
 | Prado | Pintura clásica europea (XII-XIX) | 2-3 h | 15 € | Cualquier viajero |
 | Thyssen | Panorámica del arte occidental (XIII-XX) | 1 h 30-2 h | 14 € | Quien quiere variedad e impresionismo |
 | Reina Sofía | Arte del siglo XX | 1 h 30-3 h | 12 € | Aficionados al arte moderno |
+
+## ¿Qué entrada elegir?
+
+| Opción | Precio | Qué incluye | Para quién |
+| --- | --- | --- | --- |
+| Entrada general del Prado (precio oficial) | 15 € | Solo el Prado (7,50 € reducida) | Quien va por libre y compra en la web del museo |
+| [Museo del Prado: entrada oficial](/ciudades/madrid/actividades/museo-prado-entrada) | 18 € | Entrada al Prado y gastos de gestión; sin guía ni audioguía | Quien va por libre y quiere reservarlo todo en un sitio |
+| [Museo del Prado: visita guiada con entrada](/ciudades/madrid/actividades/museo-prado-visita-guiada) | 49 € | Guía oficial, entrada y acceso sin colas (1,5-2 h) | Primera visita, para ir directo a lo imprescindible |
+| Abono Paseo del Arte | 32,80 € | Prado, Thyssen y Reina Sofía | Quien de verdad va a ir a los tres |
+| [Art Walk Pass](/ciudades/madrid/actividades/art-walk-pass-prado-reina-sofia-thyssen) | 38 € | Una entrada a cada museo (Thyssen, colección permanente); válido un año | Quien va a los tres y prefiere reservarlo aquí |
 
 ## El Prado: la respuesta a «solo voy a uno»
 

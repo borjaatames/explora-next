@@ -139,15 +139,23 @@ keywords:
 - museo fc barcelona
 - camp nou visita renovacion
 - barca immersive exposicion
-imagen: "/images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp"
-imagenAlt: "Gradas rojas del Camp Nou"
+imagen: "/images/actividades/barcelona/camp-nou/camp-nou-cesped-y-gradas-vacias.webp"
+imagenAlt: "Césped y gradas vacías del Camp Nou"
 galeria:
-- src: /images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp
-  alt: "Gradas rojas del Camp Nou"
-- src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
-  alt: "Gradas del Camp Nou con las letras del FC Barcelona"
-- src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
-  alt: "Estatua de Kubala en el exterior del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-cesped-y-gradas-vacias.webp"
+    alt: "Césped y gradas vacías del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/pixabay-5196877-hero.webp"
+    alt: "Gradas rojas del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-vista-aerea.webp"
+    alt: "Vista aérea del estadio Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp"
+    alt: "Gradas del Camp Nou con las letras del FC Barcelona"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-gradas-mes-que-un-club.webp"
+    alt: "Gradas del Camp Nou con el lema «Més que un club»"
+  - src: "/images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp"
+    alt: "Estatua de Kubala en el exterior del Camp Nou"
+  - src: "/images/actividades/barcelona/camp-nou/camp-nou-acceso-fc-barcelona.webp"
+    alt: "Acceso al recinto del FC Barcelona junto al Camp Nou"
 ratingProveedor: 4.3
 numeroOpiniones: 12092
 publicada: true

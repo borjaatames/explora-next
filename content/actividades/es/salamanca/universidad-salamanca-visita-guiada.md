@@ -8,7 +8,7 @@ slugs:
   en: university-of-salamanca-guided-tour
 duracion: 75 minutos
 duracionMinutos: 75
-precioDesde: 19
+precioDesde: 12
 moneda: EUR
 idiomas:
 - es

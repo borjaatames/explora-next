@@ -9,7 +9,7 @@ slugs:
   en: montserrat-rack-railway-winery-castlexperience
 duracion: 6-10 horas
 duracionMinutos: 480
-precioDesde: 39
+precioDesde: 47
 moneda: EUR
 idiomas:
 - es
