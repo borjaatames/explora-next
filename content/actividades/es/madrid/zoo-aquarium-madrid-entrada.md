@@ -76,8 +76,6 @@ keywords:
 imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
 imagenAlt: "Espectáculo de delfines en el Zoo Aquarium de Madrid"
 galeria:
-- src: "/images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp"
-  alt: "Delfines saltando en la exhibición del delfinario del Zoo Aquarium"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-iguana.webp"
   alt: "Iguana rinoceronte en el Zoo Aquarium de Madrid"
 - src: "/images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp"

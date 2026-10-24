@@ -110,6 +110,8 @@ galeria:
   alt: "Ladera del Sacromonte con sus casas cueva"
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
   alt: "Mirador de San Nicolás en el Albaicín"
+- src: /images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp
+  alt: "Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer"
 ratingProveedor: 4.9
 numeroOpiniones: 3200
 

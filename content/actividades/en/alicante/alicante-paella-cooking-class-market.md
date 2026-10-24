@@ -77,8 +77,6 @@ imagenAlt: A freshly made paella
 galeria:
 - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
   alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
-- src: "/images/actividades/alicante/paella/paella.webp"
-  alt: "Paella with green beans, chicken and red pepper strips"
 - src: "/images/actividades/alicante/paella/mercado-central.webp"
   alt: "Façade of Alicante Central Market"
 - src: "/images/actividades/alicante/paella/paella-valenciana.webp"

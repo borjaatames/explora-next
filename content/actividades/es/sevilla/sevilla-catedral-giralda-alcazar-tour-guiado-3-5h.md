@@ -137,8 +137,6 @@ galeria:
   alt: "La Giralda vista desde los muros del Real Alcázar"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
   alt: "Giralda iluminada de noche"
-- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
-  alt: "Bóvedas góticas de la Catedral de Sevilla"
 - src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp
   alt: "Jardines del Real Alcázar de Sevilla"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
@@ -151,6 +149,10 @@ galeria:
   alt: "Catedral de Sevilla con la Giralda al atardecer"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
   alt: "Catedral de Sevilla bajo un cielo azul"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+  alt: "Patio de las Doncellas del Real Alcázar"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Catedral de Sevilla y la Giralda"
 
 ratingProveedor: 4.5
 numeroOpiniones: 2085

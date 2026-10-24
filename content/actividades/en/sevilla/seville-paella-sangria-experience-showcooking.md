@@ -118,6 +118,8 @@ galeria:
     alt: "Triana Bridge lit up at dusk"
   - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
     alt: "Colourful houses on Calle Betis along the Guadalquivir"
+  - src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
+    alt: "Cook adding olive oil to a paella over the fire"
 ratingProveedor: 4.9
 numeroOpiniones: 58
 

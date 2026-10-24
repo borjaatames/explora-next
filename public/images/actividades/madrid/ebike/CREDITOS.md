@@ -7,3 +7,7 @@
 | bicicletas-electricas-aparcadas.webp | Unsplash | KBO Bike · W6Wu2O6MtYU | Licencia Unsplash | https://unsplash.com/photos/a-couple-of-bikes-parked-next-to-each-other-W6Wu2O6MtYU |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23d\madrid--ebike\` (24 oct 2026). Fotos genéricas de bicicleta eléctrica (no tomadas en Madrid).
+- `b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `images-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `thumb_8797513_cover_header-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `touring-madrid-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

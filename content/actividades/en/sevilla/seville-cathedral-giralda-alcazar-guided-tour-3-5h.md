@@ -137,8 +137,6 @@ galeria:
   alt: "The Giralda seen from the walls of the Royal Alcázar"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
   alt: "The Giralda lit up at night"
-- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
-  alt: "Gothic vaults of Seville Cathedral"
 - src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp
   alt: "Gardens of the Royal Alcázar of Seville"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
@@ -151,6 +149,10 @@ galeria:
   alt: "Seville Cathedral and the Giralda at dusk"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-2064185.webp
   alt: "Seville Cathedral under a blue sky"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+  alt: "Courtyard of the Maidens, Royal Alcázar"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Seville Cathedral and the Giralda"
 
 ratingProveedor: 4.5
 numeroOpiniones: 2085

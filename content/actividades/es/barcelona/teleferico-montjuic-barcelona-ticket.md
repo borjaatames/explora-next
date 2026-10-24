@@ -99,6 +99,10 @@ galeria:
     alt: "Teleférico de Montjuïc con vistas a Barcelona"
   - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp"
     alt: "Cabinas subiendo hacia el castillo de Montjuïc"
+  - src: /images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp
+    alt: "Playa de la Barceloneta con el hotel Arts al fondo, Barcelona"
+  - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+    alt: "Palau Nacional (MNAC) en la ladera de Montjuïc"
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas:

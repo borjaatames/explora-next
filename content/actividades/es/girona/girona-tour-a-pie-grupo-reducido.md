@@ -92,6 +92,8 @@ galeria:
   alt: Callejón del Call judío de Girona
 - src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
   alt: Monasterio de Sant Pere de Galligants en Girona
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: "Baños Árabes de Girona"
 ratingProveedor: 4.8
 numeroOpiniones: 826
 publicada: true

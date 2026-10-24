@@ -145,6 +145,8 @@ galeria:
   alt: Playa urbana de Barcelona con edificios modernos y bañistas disfrutando del mar
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
+  alt: "Fachada de la Sagrada Familia con torres góticas y elementos arquitectónicos de Gaudí en Barcelona"
 guiasRelacionadas:
   - "sagrada-familia-que-entrada-elegir"
 ---

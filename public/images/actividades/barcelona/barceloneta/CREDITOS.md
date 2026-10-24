@@ -8,3 +8,4 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `barceloneta-platja-02-hero.webp` — CPG83, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Platja_de_la_Barceloneta_02.jpg)
 - `barceloneta-platja-2018-06-hero.webp` — Nicholas Gemini, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Platja_de_la_Barceloneta_2018_06.jpg)
 - `barceloneta-platja-2018-10-hero.webp` — Nicholas Gemini, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Platja_de_la_Barceloneta_2018_10.jpg)
+- `barceloneta-view-barcelona-beach-iconic-hotel-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

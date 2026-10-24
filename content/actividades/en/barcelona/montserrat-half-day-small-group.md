@@ -117,6 +117,12 @@ galeria:
   alt: Detail of the religious frescoes painted on the vaults of Montserrat
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-03.webp
   alt: "Montserrat cliffs above the Llobregat valley"
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: "Gothic vaults and stained-glass windows of the Montserrat basilica"
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: "Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica"
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: "Religious frescoes and wrought-iron crosses inside the Montserrat basilica"
 ratingProveedor: 4.9
 numeroOpiniones: 6372
 

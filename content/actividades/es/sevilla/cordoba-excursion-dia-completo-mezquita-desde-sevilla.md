@@ -179,6 +179,8 @@ galeria:
   alt: "Arcos rojos y blancos de la Mezquita de Córdoba"
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-alcazar-jardines.webp
   alt: "Estanque en los jardines del Alcázar de los Reyes Cristianos"
+- src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
+  alt: "Arcos del interior de la Mezquita de Córdoba"
 ratingProveedor: 4.3
 numeroOpiniones: 280
 publicada: true

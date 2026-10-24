@@ -135,6 +135,10 @@ galeria:
   alt: "Wooden lattice of the Metropol Parasol"
 - src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
   alt: "Curves of Las Setas against the blue sky"
+- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
+  alt: "Upper walkway of Setas de Sevilla (Metropol Parasol) with the Giralda in the background"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Seville Cathedral and the Giralda"
 ratingProveedor: 4.6
 numeroOpiniones: 12014
 

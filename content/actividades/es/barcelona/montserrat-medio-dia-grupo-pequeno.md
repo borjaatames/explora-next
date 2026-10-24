@@ -117,6 +117,12 @@ galeria:
   alt: Detalle de los frescos religiosos pintados en las bovedas de Montserrat
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-03.webp
   alt: "Acantilados de Montserrat sobre el valle del Llobregat"
+- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
+  alt: "Bovedas goticas y vidrieras de la basilica de Montserrat"
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
+  alt: "Frescos del Via Crucis en el techo de la basilica de Montserrat"
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: "Frescos con motivos religiosos y cruces de hierro forjado en el interior de la basilica de Montserrat"
 ratingProveedor: 4.9
 numeroOpiniones: 6372
 

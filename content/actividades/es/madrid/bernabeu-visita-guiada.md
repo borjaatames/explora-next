@@ -104,8 +104,6 @@ galeria:
     alt: "Vista aérea del nuevo Estadio Santiago Bernabéu de Madrid al atardecer"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp"
     alt: "Fachada del nuevo Estadio Santiago Bernabéu tras la reforma"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"
-    alt: "Gradas y terreno de juego del Bernabéu reformado"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-cubierta-retractil-hero.webp"
     alt: "Cubierta retráctil del Bernabéu vista desde dentro"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cesped-hero.webp"
@@ -116,6 +114,8 @@ galeria:
     alt: "Boca de metro de la estación Santiago Bernabéu"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp"
     alt: "Fachada metálica del Bernabéu desde el Paseo de la Castellana"
+  - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
+    alt: "Vestuario del Real Madrid en el Estadio Santiago Bernabéu"
 
 ratingProveedor: 4.1
 numeroOpiniones: 1532

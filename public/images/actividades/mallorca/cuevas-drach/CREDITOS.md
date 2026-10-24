@@ -8,3 +8,5 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 - `lago-martel-azul.webp`: «Martel Lake Coves del Drac Porto Cristo Mallorca.jpg», por Steffen Mokosch, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Martel_Lake_Coves_del_Drac_Porto_Cristo_Mallorca.jpg
 - `lago-martel-barca.webp`: «Boat on Martel Lake Coves del Drac Mallorca.jpg», por Steffen Mokosch, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Boat_on_Martel_Lake_Coves_del_Drac_Mallorca.jpg
 - `lago-martel-reflejos.webp`: «62 Coves del Drac, llac Martel.jpg», por Enric, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:62_Coves_del_Drac%2C_llac_Martel.jpg
+- `cuevas-drach-lago-iluminado.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `cuevas-drach-pasarela-visitantes.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

@@ -135,6 +135,8 @@ galeria:
     alt: "Alabaster tomb inside Seville Cathedral"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-01.webp"
     alt: "Carved stone relief inside Seville Cathedral"
+  - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+    alt: "Gothic facade of Seville Cathedral with the Giralda bell tower"
 ratingProveedor: 4.5
 numeroOpiniones: 2362
 

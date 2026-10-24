@@ -131,6 +131,10 @@ galeria:
     alt: "Atlético de Madrid's Metropolitano stadium"
   - src: "/images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp"
     alt: "Metropolitano stadium on match day"
+  - src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-estadio-exterior-fachada-e-hero.webp
+    alt: "Fachada exterior del estadio Wanda Metropolitano, Atlético de Madrid"
+  - src: /images/actividades/madrid/wanda-metropolitano-atletico-tour/wanda-metropolitano-atletico-tour-campo-cancha-vista-01-hero.webp
+    alt: "View of the pitch at the Wanda Metropolitano stadium"
 ratingProveedor: 4.7
 numeroOpiniones: 2188
 publicada: true

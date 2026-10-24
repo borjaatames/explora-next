@@ -134,8 +134,6 @@ galeria:
   alt: "Baños de Doña María de Padilla en el Real Alcázar"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
   alt: "Coro de la Catedral de Sevilla"
-- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp
-  alt: "Galería del Grutesco en los jardines del Real Alcázar"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
   alt: "Patio de las Doncellas del Real Alcázar"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
@@ -148,6 +146,10 @@ galeria:
   alt: "Estanque de Mercurio en el Real Alcázar"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
   alt: "Sepulcro de piedra en una capilla de la Catedral de Sevilla"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp
+  alt: "La Giralda vista desde los muros del Real Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+  alt: "Patio del Real Alcázar de Sevilla"
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 

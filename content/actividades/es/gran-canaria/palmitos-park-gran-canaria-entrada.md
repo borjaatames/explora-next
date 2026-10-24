@@ -82,6 +82,12 @@ galeria:
   alt: "Palmeral y laderas del barranco en Palmitos Park"
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
   alt: "Jabirú africano en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
+  alt: "Guacamayos amazónicos posados en una rama en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
+  alt: "Guacamayo azul y amarillo en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
+  alt: "Loro gris en el jardín de Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

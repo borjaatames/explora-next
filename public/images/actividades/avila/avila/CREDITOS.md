@@ -9,3 +9,4 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `avila-catedral-adarve-hero.webp` — Marisa Cornelsen, licencia Unsplash, vía Unsplash (https://unsplash.com/photos/VkGamHkgDec)
+- `avila-panoramica-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

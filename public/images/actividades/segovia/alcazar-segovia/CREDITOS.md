@@ -14,3 +14,4 @@ Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `alcazar-segovia-alcazar-22-2017-10-24-hero-hero.webp` — Rafa Esteve, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg)
+- `alcazar-segovia-alcazar-ext-02-hero-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

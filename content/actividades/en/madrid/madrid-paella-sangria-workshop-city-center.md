@@ -112,6 +112,10 @@ galeria:
   alt: "Traditional Valencian paella"
 - src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
   alt: "Pitcher of sangria with fruit"
+- src: /images/actividades/madrid/paella/paella-clase-cocinero-fuego.webp
+  alt: "Chef cooking paella over fire during the class"
+- src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
+  alt: "Hands stirring the paella ingredients in the pan"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1448

@@ -126,6 +126,14 @@ galeria:
     alt: "Plaza de España lit up at night"
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "General Archive of the Indies"
+  - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp
+    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
+  - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+    alt: "Premium walking tour Seville — Cathedral exterior and Giralda"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+    alt: "Courtyard of the Maidens, Royal Alcázar"
+  - src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
+    alt: "Plaza de España in Seville"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1475

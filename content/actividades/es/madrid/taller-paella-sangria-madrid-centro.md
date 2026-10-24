@@ -112,6 +112,10 @@ galeria:
   alt: "Paella valenciana tradicional"
 - src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
   alt: "Jarra de sangría con fruta"
+- src: /images/actividades/madrid/paella/paella-clase-cocinero-fuego.webp
+  alt: "Cocinero preparando paella al fuego durante la clase"
+- src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
+  alt: "Manos removiendo los ingredientes de la paella en la sartén"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1448

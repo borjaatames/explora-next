@@ -21,6 +21,7 @@ slugs:
   de: was-sehen-auf-gran-canaria
 reservasArriba: true
 actividades:
+  - destileria-ron-arehucas-tour-cata
   - roque-nublo-pico-nieves-desde-las-palmas
   - buggy-barrancos-gran-canaria
   - catamaran-delfines-esnorquel-gran-canaria
@@ -79,7 +80,7 @@ Die **Busse** (Global) verbinden Las Palmas, den Flughafen und den Süden sehr g
 
 ## Essen auf Gran Canaria
 
-Probiere **Papas arrugadas mit Mojo**, den **Queso de flor de Guía**, **Sancocho canario** (gesalzener Fisch mit Kartoffeln und Mojo), **Gofio** und als Dessert das **Bienmesabe** aus Tejeda. Dazu **Rum aus Arucas** und Weine vom Monte Lentiscal.
+Probiere **Papas arrugadas mit Mojo**, den **Queso de flor de Guía**, **Sancocho canario** (gesalzener Fisch mit Kartoffeln und Mojo), **Gofio** und als Dessert das **Bienmesabe** aus Tejeda. Dazu **Rum aus Arucas** (die [Destillerie Arehucas kannst du besichtigen](/en/cities/gran-canaria/activities/arehucas-rum-distillery-tour-tasting)) und Weine vom Monte Lentiscal.
 
 ## Was wir NICHT empfehlen
 

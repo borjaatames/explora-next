@@ -105,6 +105,10 @@ galeria:
   alt: Turquoise cove with boats on the Costa Brava
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
   alt: Bay and harbour of Sant Feliu de Guíxols
+- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
+  alt: "Costa Brava cliffs by the sea"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
+  alt: "Swimmers snorkelling among the rocks of a cove"
 ratingProveedor: 4.7
 numeroOpiniones: 1393
 publicada: true

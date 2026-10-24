@@ -89,6 +89,16 @@ galeria:
     alt: "Main altar of the El Escorial basilica"
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp"
     alt: Detail of the bronze door knocker on the main portal of El Escorial Monastery
+  - src: /images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp
+    alt: "High chapel of the basilica carved into the rock"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-alegoria-musica-real-biblioteca-hero.webp
+    alt: "Ceiling fresco in the Royal Library of El Escorial (monastery stop)"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-escalier-hero.webp
+    alt: "Staircase leading to the Pantheon of the Kings"
+  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stone-building-distant-mountains-hero.webp
+    alt: "El Escorial with the Sierra de Guadarrama in the background"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-fale-spain-madrid-29-hero.webp
+    alt: "Interior of the El Escorial Monastery basilica"
 ratingProveedor: 4.7
 numeroOpiniones: 1769
 atraccionesRelacionadas:

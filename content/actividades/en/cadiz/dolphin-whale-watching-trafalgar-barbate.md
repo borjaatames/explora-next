@@ -75,8 +75,6 @@ keywords:
 imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Common dolphins leaping
 galeria:
-- src: "/images/actividades/cadiz/delfines/delfines-saltando.webp"
-  alt: "Two common dolphins leaping out of the sea"
 - src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
   alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
 - src: "/images/actividades/cadiz/delfines/delfin-comun.webp"

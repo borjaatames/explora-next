@@ -69,9 +69,15 @@ keywords:
 - arehucas rum tour
 - arehucas distillery
 - arucas rum tasting
-imagen: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-imagenAlt: San Juan Bautista church in Arucas, near the distillery
+imagen: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
+imagenAlt: Arehucas distillery with its chimney in Arucas, seen from the Montaña de Arucas
 galeria:
+- src: /images/actividades/gran-canaria/arehucas/arehucas-fabrica-ron-arucas.webp
+  alt: Arehucas rum factory among the houses of Arucas
+- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
+  alt: Oak barrels stacked in an ageing cellar (illustrative image)
+- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
+  alt: San Juan Bautista church in Arucas, near the distillery
 - src: /images/actividades/gran-canaria/platano/arucas-paisaje.webp
   alt: Landscape around Arucas in northern Gran Canaria
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
@@ -82,7 +88,7 @@ ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'

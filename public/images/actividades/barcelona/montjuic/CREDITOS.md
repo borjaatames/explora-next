@@ -6,3 +6,5 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `pexels-6437868-hero.webp` — Pexels, foto 6437868, licencia Pexels (https://www.pexels.com/photo/6437868/)
 - `pexels-7796698-hero.webp` — Pexels, foto 7796698, licencia Pexels (https://www.pexels.com/photo/7796698/)
 - `pixabay-4841320-hero.webp` — Pixabay, foto 4841320, licencia Pixabay (https://pixabay.com/photos/id-4841320/)
+- `descarga-11-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `images-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

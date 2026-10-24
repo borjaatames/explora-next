@@ -93,6 +93,8 @@ galeria:
   alt: Gradas del Teatro Romano de Málaga
 - src: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
   alt: Panorámica de Málaga desde la Alcazaba
+- src: /images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp
+  alt: "Teatro romano de Málaga junto a la Alcazaba"
 ratingProveedor: 4.7
 numeroOpiniones: 7412
 publicada: true

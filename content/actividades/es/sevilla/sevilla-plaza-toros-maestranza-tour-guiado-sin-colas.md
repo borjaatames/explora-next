@@ -134,6 +134,8 @@ galeria:
   alt: "Palco del Príncipe y tendidos de la Maestranza"
 - src: /images/actividades/sevilla/maestranza/maestranza-pixabay-187844.webp
   alt: "Ruedo de albero de la Maestranza"
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
+  alt: "Ruedo de la plaza de toros de la Maestranza"
 ratingProveedor: 4.5
 numeroOpiniones: 1784
 

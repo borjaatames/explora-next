@@ -86,6 +86,10 @@ galeria:
   alt: Vista panorámica de Frigiliana hacia el mar
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
   alt: Balcón de Europa, en Nerja
+- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
+  alt: "Calles blancas del pueblo de Frigiliana"
+- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp
+  alt: "Entrada a la Cueva de Nerja"
 ratingProveedor: 4.6
 numeroOpiniones: 2107
 atraccionesRelacionadas:

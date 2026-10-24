@@ -84,6 +84,12 @@ galeria:
   alt: "Inner garden of the Sabatini building, Reina Sofía"
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
   alt: "Glass lifts on the facade of the Reina Sofía Museum"
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+  alt: "Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid"
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
+  alt: "Museo Reina Sofía de Madrid"
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
+  alt: "Museo Reina Sofía de Madrid"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

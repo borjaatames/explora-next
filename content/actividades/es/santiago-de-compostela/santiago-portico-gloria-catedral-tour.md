@@ -72,8 +72,6 @@ keywords:
 imagen: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
 imagenAlt: Pórtico de la Gloria del Maestro Mateo en la catedral de Santiago
 galeria:
-  - src: "/images/actividades/santiago-de-compostela/catedral/portico-gloria.webp"
-    alt: "Pórtico de la Gloria de la Catedral de Santiago de Compostela"
   - src: "/images/actividades/santiago-de-compostela/catedral/obradoiro.webp"
     alt: "Fachada del Obradoiro"
   - src: "/images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp"

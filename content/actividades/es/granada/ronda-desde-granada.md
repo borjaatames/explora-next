@@ -110,8 +110,6 @@ keywords:
 imagen: "/images/actividades/granada/ronda/ronda-pexels-11829157.webp"
 imagenAlt: "Puente Nuevo de Ronda y las casas sobre el Tajo"
 galeria:
-- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-  alt: "Puente Nuevo de Ronda y las casas sobre el Tajo"
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
   alt: "Puente Nuevo visto desde el mirador"
 - src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
@@ -126,6 +124,12 @@ galeria:
   alt: "Parador y Puente Nuevo sobre el acantilado"
 - src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-spain-puente-nuevo-de-ronda-01-jpg.webp
   alt: "Cascada bajo el Puente Nuevo de Ronda"
+- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-centro-historico-casco-02-hero.webp
+  alt: "Puente Nuevo de Ronda atravesando el desfiladero del Tajo, acantilados de piedra caliza y profundo cañón"
+- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
+  alt: "Ronda asomada al acantilado con casas blancas colgantes y sierra andaluza al fondo"
+- src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
+  alt: "Arco de piedra del Puente Nuevo de Granada visto desde abajo, mostrando su estructura geométrica y arquitectura histórica."
 ratingProveedor: 4.5
 numeroOpiniones: 34
 publicada: true

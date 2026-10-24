@@ -139,6 +139,8 @@ galeria:
   alt: Park Güell de Barcelona con terrazas de mosaico y vistas panorámicas de la ciudad
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
   alt: Paisaje urbano de Barcelona con arquitectura modernista y vistas de la ciudad
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
+  alt: "Fachada de la Basílica de la Sagrada Familia con torres en construcción, Barcelona"
 bokunProductId: 866939
 fecha_actualizacion: '2026-06-18'
 guiasRelacionadas:

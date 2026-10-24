@@ -131,6 +131,10 @@ galeria:
   alt: Catedral de Ávila con escultura religiosa en la plaza de la iglesia
 - src: /images/actividades/avila/catedral-avila/wikimedia-125754038-hero.webp
   alt: Muralla medieval de Ávila con torres y almenas bajo cielo azul
+- src: /images/actividades/avila/avila/avila-panoramica-hero.webp
+  alt: "Panorámica de Ávila con muralla medieval y edificios históricos al atardecer"
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
+  alt: "Fachada exterior del Alcázar de Segovia con torres medievales y muros de piedra"
 ratingProveedor: 4.6
 numeroOpiniones: 106
 publicada: true

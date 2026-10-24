@@ -73,8 +73,6 @@ keywords:
 imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
 imagenAlt: "Dolphins leaping during the show at Mundomar, Benidorm"
 galeria:
-  - src: "/images/actividades/alicante/mundomar/delfines-salto.webp"
-    alt: "Delfines en espectáculo acuático de Mundomar, Benidorm"
   - src: "/images/actividades/alicante/mundomar/delfin-entrenador.webp"
     alt: "A dolphin jumping next to its trainer at Mundomar"
   - src: "/images/actividades/alicante/mundomar/delfines-piscina.webp"

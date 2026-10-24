@@ -141,6 +141,10 @@ galeria:
   alt: "Torre del Oro y barcos en el Guadalquivir"
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
   alt: "Orilla del Guadalquivir con la Torre del Oro al fondo"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
+  alt: "Puentes y canal de la Plaza de España"
+- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
+  alt: "Setas de Sevilla (Metropol Parasol) en la plaza de la Encarnación"
 
 ratingProveedor: 4.0
 numeroOpiniones: 4954

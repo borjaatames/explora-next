@@ -97,6 +97,10 @@ galeria:
     alt: "Houses tucked under the rock in Setenil"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
     alt: "White houses of Ronda on the gorge edge"
+  - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
+    alt: "Vista de Ronda desde las alturas con el Tajo y el puente nuevo"
+  - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
+    alt: "Ronda old town"
 ratingProveedor: 4.7
 numeroOpiniones: 8742
 publicada: true

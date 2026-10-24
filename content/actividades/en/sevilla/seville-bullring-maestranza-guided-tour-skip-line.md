@@ -134,6 +134,8 @@ galeria:
   alt: "Royal box and stands of the Maestranza"
 - src: /images/actividades/sevilla/maestranza/maestranza-pixabay-187844.webp
   alt: "Sand arena of the Maestranza"
+- src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp
+  alt: "Arena of the Maestranza bullring"
 ratingProveedor: 4.5
 numeroOpiniones: 1784
 

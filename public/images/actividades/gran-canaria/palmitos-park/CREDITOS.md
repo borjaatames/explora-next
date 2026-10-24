@@ -9,3 +9,6 @@
 | jabiru.webp | Wikimedia Commons | H. Zell · File:Ephippiorhynchus senegalensis - Palmitos Park.jpg · https://commons.wikimedia.org/wiki/File:Ephippiorhynchus_senegalensis_-_Palmitos_Park.jpg | CC BY-SA 3.0 |
 
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\gran-canaria--palmitos-park\` (copias en `E:\imagenes-master\gran-canaria\palmitos-park\`).
+- `guacamayo-azul-amarillo.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `guacamayos-amazonicos-rama.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `loro-gris-jardin.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

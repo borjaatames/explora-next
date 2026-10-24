@@ -30,3 +30,5 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `tapas-madrid-bocadillo-calamares-22-hero.webp` — Xemenendura, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bocadillo_de_calamares_22.jpg)
 - `tapas-madrid-patagonia-churros-hot-chocolate-hero.webp` — Irwandy Mazwir, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patagonia_Churros_and_Hot_Chocolate_(25545054993).jpg)
+- `tapas-madrid-aceitunas-manzanilla-espana-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `tapas-madrid-white-bowl-filled-olives-tomatoes-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

@@ -128,6 +128,10 @@ galeria:
   alt: "Iglesia y tejados de un pueblo alpujarreño"
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
   alt: "Terrados con ropa tendida en la Alpujarra"
+- src: /images/actividades/granada/alpujarra-originals-pueblos-curados/alpujarra-originals-pueblos-curados-barranco-poqueira-scenic-hero.webp
+  alt: "Pueblos blancos de la Alpujarra en Granada con casas de arquitectura árabe-bereber cascadeando por la ladera y montañas al fondo"
+- src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-calle-pueblo-alpujarreno-01-hero.webp
+  alt: "Calle sinuosa con casas encaladas, puertas y ventanas tradicionales, macetas floridas en pueblo blanco de la Alpujarra granadina."
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

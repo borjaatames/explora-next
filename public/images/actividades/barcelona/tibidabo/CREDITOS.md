@@ -12,3 +12,5 @@ Origen local: `E:\imagenes-master\_descargas-2026-10-17\barcelona--tibidabo\` (c
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `noria-templo-expiatorio.webp` — Antonio Lorenzana Bermejo, licencia Pexels, vía Pexels (https://www.pexels.com/photo/14547952/)
+- `avion-rojo-vistas-barcelona.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `carrusel-aereo-vistas.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

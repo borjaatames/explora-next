@@ -9,3 +9,4 @@
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `juderia-cordoba-unsplash-h009mqfRvTw.jpg` — Unsplash, foto h009mqfRvTw, licencia Unsplash (https://unsplash.com/photos/h009mqfRvTw)
+- `juderia-cordoba-calleja-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

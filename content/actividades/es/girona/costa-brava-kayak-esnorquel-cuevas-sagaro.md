@@ -105,6 +105,10 @@ galeria:
   alt: Cala de aguas turquesa con barcas en la Costa Brava
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
   alt: Bahía y puerto de Sant Feliu de Guíxols
+- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
+  alt: "Acantilados de la Costa Brava junto al mar"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
+  alt: "Bañistas haciendo esnórquel entre las rocas de una cala"
 ratingProveedor: 4.7
 numeroOpiniones: 1393
 publicada: true

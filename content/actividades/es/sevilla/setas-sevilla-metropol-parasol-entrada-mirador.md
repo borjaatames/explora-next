@@ -135,6 +135,10 @@ galeria:
   alt: "Retícula de madera del Metropol Parasol"
 - src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
   alt: "Curvas de las Setas contra el cielo azul"
+- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
+  alt: "Pasarela superior de las Setas de Sevilla (Metropol Parasol) con vista a la Giralda al fondo"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Catedral de Sevilla y la Giralda"
 ratingProveedor: 4.6
 numeroOpiniones: 12014
 

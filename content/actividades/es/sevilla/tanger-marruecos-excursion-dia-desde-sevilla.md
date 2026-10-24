@@ -177,8 +177,6 @@ keywords:
 imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
 imagenAlt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"
 galeria:
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
-  alt: "Tajín, té de menta y pan en mesa de restaurante marroquí tradicional de Sevilla con platos coloridos"
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp
   alt: "Té de menta marroquí en vasos tradicionales de metal dentro de la Medina, con callejones del casco antiguo al fondo"
 - src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115238324-jpg-02.webp
@@ -193,6 +191,8 @@ galeria:
   alt: "Fuente de azulejos en la medina de Tánger"
 - src: /images/actividades/sevilla/tanger/tanger-pixabay-5035292.webp
   alt: "Bahía de Tánger al atardecer"
+- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp
+  alt: "Callejuela estrecha de la Medina con puertas de madera pintada, tiendas de bazar y vendedores en mercado marroquí"
 ratingProveedor: 4.4
 numeroOpiniones: 250
 publicada: true

@@ -146,6 +146,8 @@ galeria:
     alt: "Crossing vault of the cathedral"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-04.webp"
     alt: "Chapel in Seville Cathedral"
+  - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+    alt: "Gothic facade of Seville Cathedral with the Giralda tower in the background"
 ratingProveedor: 4.6
 numeroOpiniones: 3500
 

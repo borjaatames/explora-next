@@ -94,6 +94,8 @@ galeria:
     alt: "Fountain of the Lions in the Nasrid Palaces"
   - src: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
     alt: "Coat of arms of the Nasrid kings at the Alhambra"
+  - src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp
+    alt: "Muqarnas vault of the Hall of the Abencerrajes"
 ratingProveedor: 4.6
 numeroOpiniones: 18167
 atraccionesRelacionadas:

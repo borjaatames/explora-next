@@ -110,6 +110,8 @@ galeria:
   alt: "Sacromonte hillside with its cave houses"
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
   alt: "San Nicolás viewpoint in the Albaicín"
+- src: /images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp
+  alt: "Mirador de San Nicolás in the Albaicín with views of the Alhambra at sunset"
 ratingProveedor: 4.9
 numeroOpiniones: 3200
 

@@ -8,3 +8,4 @@
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `alcazaba-malaga-pixabay-8681568.jpg` — Pixabay, foto 8681568, licencia Pixabay (https://pixabay.com/photos/id-8681568/)
+- `alcazaba-malaga-vista-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

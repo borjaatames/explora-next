@@ -94,6 +94,8 @@ galeria:
     alt: "Fuente de los Leones en los Palacios Nazaríes"
   - src: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
     alt: "Escudo de los reyes nazaríes en la Alhambra"
+  - src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp
+    alt: "Bóveda de mocárabes de la Sala de los Abencerrajes"
 ratingProveedor: 4.6
 numeroOpiniones: 18167
 atraccionesRelacionadas:

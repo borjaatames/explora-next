@@ -5,3 +5,4 @@ Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `tablao-flamenco-el-arenal-sevilla-50-anos-cena-tapas-tabla-0-hero.webp` — Bas Linders, licencia Pexels, vía Pexels (https://www.pexels.com/photo/14009279/)
+- `tablao-flamenco-el-arenal-sevilla-50-anos-fachada-edificio-h-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

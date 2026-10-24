@@ -110,6 +110,10 @@ galeria:
   alt: Alcázar of Segovia
 - src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
   alt: Mosque of Cristo de la Luz, Toledo
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
+  alt: "Alcázar of Segovia (exterior)"
+- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
+  alt: "San Martín bridge, Toledo"
 ratingProveedor: 4.7
 numeroOpiniones: 1330
 publicada: true

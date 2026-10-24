@@ -81,8 +81,6 @@ galeria:
   alt: "Rocky shore at Cap de Salou facing the Mediterranean"
 - src: "/images/actividades/tarragona/costa/faro-salou.webp"
   alt: "Salou lighthouse and its white keeper's house under blue sky"
-- src: "/images/actividades/tarragona/quad/quad-pista.webp"
-  alt: "Helmeted rider driving a red quad bike along a forest trail"
 - src: "/images/actividades/tarragona/quad/quad-camino.webp"
   alt: "Quad bike route along the trails of Salou"
 - src: "/images/actividades/tarragona/quad/prades-siurana.webp"

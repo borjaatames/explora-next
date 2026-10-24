@@ -22,6 +22,7 @@ slugs:
   de: was-sehen-auf-gran-canaria
 reservasArriba: true
 actividades:
+  - destileria-ron-arehucas-tour-cata
   - roque-nublo-pico-nieves-desde-las-palmas
   - buggy-barrancos-gran-canaria
   - catamaran-delfines-esnorquel-gran-canaria
@@ -91,7 +92,7 @@ The capital deserves at least a day. **Vegueta**, the founding district (1478), 
 
 ## Eating in Gran Canaria
 
-Try **papas arrugadas with mojo**, **queso de flor de Guía**, **sancocho canario** (salted fish with potatoes and mojo), **gofio** and, for dessert, Tejeda's **bienmesabe**. To drink, **Arucas rum** and Monte Lentiscal wines.
+Try **papas arrugadas with mojo**, **queso de flor de Guía**, **sancocho canario** (salted fish with potatoes and mojo), **gofio** and, for dessert, Tejeda's **bienmesabe**. To drink, **Arucas rum** (you can [tour the Arehucas distillery](/en/cities/gran-canaria/activities/arehucas-rum-distillery-tour-tasting)) and Monte Lentiscal wines.
 
 ## What we DON'T recommend
 

@@ -11,3 +11,4 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp` — William Fernandes, licencia Unsplash, vía Unsplash (https://unsplash.com/photos/feuBi1-6o7g)
 - `pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp` — David Vives, licencia Unsplash, vía Unsplash (https://unsplash.com/photos/2tveJiBP070)
 - `pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp` — Pablo Gómez, licencia Pexels, vía Pexels (https://www.pexels.com/photo/28338092/)
+- `pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

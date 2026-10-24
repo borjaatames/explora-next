@@ -130,6 +130,10 @@ galeria:
   alt: Sculpture at Avila Cathedral in the historic church square
 - src: /images/actividades/avila/catedral-avila/wikimedia-125754038-hero.webp
   alt: Medieval walled city of Avila with stone fortifications and church spires
+- src: /images/actividades/avila/avila/avila-panoramica-hero.webp
+  alt: "Panoramic view of Ávila cityscape with medieval walls and historic buildings"
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
+  alt: "Alcázar of Segovia fortress exterior with towering walls and turrets against sky"
 ratingProveedor: 4.6
 numeroOpiniones: 106
 publicada: true

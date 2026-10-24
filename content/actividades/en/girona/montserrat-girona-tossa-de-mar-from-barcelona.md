@@ -102,6 +102,8 @@ galeria:
   alt: Walls and towers of Tossa de Mar's Vila Vella
 - src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
   alt: Tossa de Mar seen from above with its rooftops and the sea
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: "Inside Girona's Arab Baths"
 ratingProveedor: 4.8
 numeroOpiniones: 1971
 publicada: true

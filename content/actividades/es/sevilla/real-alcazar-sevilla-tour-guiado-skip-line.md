@@ -126,8 +126,6 @@ imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.w
 imagenAlt: "Baños de Doña María de Padilla en el Real Alcázar"
 
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
-    alt: "Baños de Doña María de Padilla en el Real Alcázar"
   - src: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
     alt: "Patio interior del Real Alcazar de Sevilla"
   - src: "/images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp"
@@ -142,6 +140,10 @@ galeria:
     alt: "Palmeras en los jardines del Alcázar"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-08.webp"
     alt: "Fuente en los jardines del Real Alcázar"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
+    alt: "Patio de las Doncellas del Real Alcázar de Sevilla con estanque alargado y arquería mudéjar"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+    alt: "Patio de las Doncellas — la joya mudéjar del Real Alcázar de Sevilla"
 ratingProveedor: 4.4
 numeroOpiniones: 510
 

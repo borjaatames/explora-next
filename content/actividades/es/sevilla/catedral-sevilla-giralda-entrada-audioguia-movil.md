@@ -157,6 +157,8 @@ galeria:
   alt: "Coro de la Catedral de Sevilla"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
   alt: "Catedral de Sevilla con la Giralda al atardecer"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: "Catedral de Sevilla y la Giralda"
 
 ratingProveedor: 3.9
 numeroOpiniones: 850

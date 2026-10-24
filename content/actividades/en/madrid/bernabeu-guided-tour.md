@@ -104,8 +104,6 @@ galeria:
     alt: "Aerial view of the new Santiago Bernabéu Stadium in Madrid at sunset"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp"
     alt: "Façade of the new Santiago Bernabéu Stadium after the renovation"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"
-    alt: "Stands and pitch of the renovated Bernabéu"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-cubierta-retractil-hero.webp"
     alt: "The Bernabéu's retractable roof seen from inside"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cesped-hero.webp"
@@ -116,6 +114,8 @@ galeria:
     alt: "Entrance to Santiago Bernabéu metro station"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp"
     alt: "The Bernabéu's metal façade from Paseo de la Castellana"
+  - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
+    alt: "Real Madrid dressing room at the Santiago Bernabéu Stadium"
 
 ratingProveedor: 4.1
 numeroOpiniones: 1532

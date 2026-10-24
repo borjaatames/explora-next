@@ -173,8 +173,6 @@ keywords:
 imagen: "/images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp"
 imagenAlt: "Traditional Moroccan tajine with mint tea, bread, and colorful plates in local restaurant"
 galeria:
-- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
-  alt: "Traditional Moroccan tajine with mint tea, bread, and colorful plates in local restaurant"
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp
   alt: "Moroccan mint tea in traditional metal glasses at medina market stall, Seville's old town atmosphere"
 - src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115238324-jpg-02.webp
@@ -189,6 +187,8 @@ galeria:
   alt: "Tiled fountain in the Tangier medina"
 - src: /images/actividades/sevilla/tanger/tanger-pixabay-5035292.webp
   alt: "Bay of Tangier at sunset"
+- src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp
+  alt: "Narrow alleyways in Tangier's Medina with painted wooden doors, traditional bazaar shops, vendors and tourists in authentic"
 ratingProveedor: 4.4
 numeroOpiniones: 250
 publicada: true

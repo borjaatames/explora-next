@@ -92,6 +92,8 @@ galeria:
   alt: Alley in Girona's Jewish Call
 - src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
   alt: Sant Pere de Galligants monastery in Girona
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: "Girona's Arab Baths"
 ratingProveedor: 4.8
 numeroOpiniones: 826
 publicada: true

@@ -92,6 +92,10 @@ galeria:
   alt: Burriana beach in Nerja
 - src: /images/actividades/malaga/frigiliana/frigiliana-buganvillas.webp
   alt: Bougainvillea over the rooftops of Frigiliana
+- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-balcon-europa-mirador-02-hero.webp
+  alt: "Balcón de Europa in Nerja overlooking the sea"
+- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp
+  alt: "Outside entrance to the Nerja Cave"
 ratingProveedor: 4.6
 numeroOpiniones: 3192
 publicada: true

@@ -81,8 +81,6 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan roller coaster at PortAventura World, Tarragona
 galeria:
-  - src: "/images/actividades/tarragona/portaventura/dragon-khan.webp"
-    alt: "Dragon Khan, la montaña rusa de PortAventura con 8 loopings"
   - src: "/images/actividades/tarragona/portaventura/ferrari-land.webp"
     alt: "Ferrari Land at PortAventura World"
   - src: "/images/actividades/tarragona/portaventura/shambhala-lago.webp"

@@ -134,8 +134,6 @@ galeria:
   alt: "Baths of Doña María de Padilla in the Royal Alcázar"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
   alt: "Choir of Seville Cathedral"
-- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp
-  alt: "Grotesque Gallery in the Royal Alcázar gardens"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
   alt: "Courtyard of the Maidens in the Royal Alcázar"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
@@ -148,6 +146,10 @@ galeria:
   alt: "Mercury Pool in the Royal Alcázar"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
   alt: "Stone tomb in a chapel of Seville Cathedral"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp
+  alt: "The Giralda seen from the walls of the Royal Alcázar"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+  alt: "Courtyard of the Royal Alcázar of Seville"
 ratingProveedor: 4.8
 numeroOpiniones: 9797
 

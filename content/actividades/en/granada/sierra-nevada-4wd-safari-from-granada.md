@@ -111,8 +111,6 @@ keywords:
 imagen: "/images/actividades/granada/sierra-nevada-4x4/sierra-nevada-pista-transnevada-mar-alboran.webp"
 imagenAlt: "High-mountain dirt track in Sierra Nevada with the Alboran Sea in the distance"
 galeria:
-  - src: "/images/actividades/granada/sierra-nevada-4x4/sierra-nevada-pista-transnevada-mar-alboran.webp"
-    alt: "High-mountain dirt track in Sierra Nevada with the Alboran Sea in the distance"
   - src: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
     alt: "Snow-capped peaks of Sierra Nevada seen from above"
   - src: "/images/actividades/granada/sierra-nevada-4x4/sierra-nevada-panoramica-cumbres-nevadas.webp"
@@ -133,6 +131,10 @@ galeria:
     alt: "Mojón del Trigo observatory in Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-06.webp"
     alt: "Iberian ibex, typical Sierra Nevada wildlife"
+  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp
+    alt: "4x4 climbing the mountain in Sierra Nevada"
+  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp
+    alt: "Small group of tourists with local guide on Granada mountain trail, warm interaction at mountain refuge"
 ratingProveedor: 4.9
 numeroOpiniones: 1718
 publicada: true

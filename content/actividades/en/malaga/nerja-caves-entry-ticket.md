@@ -86,6 +86,10 @@ galeria:
   alt: Panoramic view of Frigiliana towards the sea
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
   alt: Balcón de Europa in Nerja
+- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
+  alt: "White streets of the village of Frigiliana"
+- src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-entrada-exterior-0-hero.webp
+  alt: "Entrance to the Nerja Caves"
 ratingProveedor: 4.6
 numeroOpiniones: 2107
 atraccionesRelacionadas:

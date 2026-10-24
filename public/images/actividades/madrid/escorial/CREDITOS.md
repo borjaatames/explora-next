@@ -26,3 +26,11 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `escorial-tour-01.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
+- `monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-del-escorial-stone-building-distant-mountains-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-del-escorial-view-from-north-west-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-escorial-alegoria-musica-real-biblioteca-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-escorial-altar-cripta-real-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-escorial-escurial-pantheon-rois-escalier-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-escorial-fale-spain-madrid-29-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

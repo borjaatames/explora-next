@@ -17,3 +17,4 @@
 | catedral-malaga-08.webp | Wikimedia Commons | Diego Delso · File:Catedral de la Encarnación, Málaga, España, 2023-05-20, DD 13.jpg | CC BY-SA 4.0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--catedral\` (23 oct 2026).
+- `catedral-malaga-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

@@ -73,9 +73,17 @@ keywords:
 - excursion barco formentor alcudia
 - faro de formentor en barco
 - playa de formentor barco
-imagen: /images/actividades/mallorca/formentor/formentor-01.webp
-imagenAlt: Acantilados del Cap de Formentor sobre el mar, en el norte de Mallorca
+imagen: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
+imagenAlt: Barcos fondeados frente a la playa de Formentor, vista desde la atalaya
 galeria:
+- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
+  alt: Vista aérea de la bahía de Formentor con barcos y la estela de una lancha
+- src: /images/actividades/mallorca/formentor/formentor-01.webp
+  alt: Acantilados del Cap de Formentor sobre el mar
+- src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
+  alt: Agua turquesa en la playa de Formentor, entre pinos
+- src: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
+  alt: Acantilados de la península de Formentor junto al islote de Es Colomer
 - src: /images/actividades/mallorca/formentor/formentor-02.webp
   alt: Faro del Cap de Formentor en lo alto del acantilado
 - src: /images/actividades/mallorca/formentor/formentor-04.webp

@@ -77,6 +77,10 @@ galeria:
   alt: "Temple of the Sacred Heart and Tibidabo ferris wheel at night"
 - src: /images/actividades/barcelona/tibidabo/carrusel.webp
   alt: "Carousel lit up at dusk at Tibidabo"
+- src: /images/actividades/barcelona/tibidabo/avion-rojo-vistas-barcelona.webp
+  alt: "Tibidabo's red airplane ride with views over Barcelona"
+- src: /images/actividades/barcelona/tibidabo/carrusel-aereo-vistas.webp
+  alt: "Aerial view of the carousel at Tibidabo park"
 ratingProveedor: 4.3
 numeroOpiniones: 458
 atraccionesRelacionadas:

@@ -9,3 +9,6 @@
 | visitantes-oceanario.webp | Wikimedia Commons | IonutDragu · File:Barcelona - panoramio (358).jpg · https://commons.wikimedia.org/wiki/File:Barcelona_-_panoramio_(358).jpg | CC BY-SA 3.0 |
 
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\barcelona--aquarium\` (copias en `E:\imagenes-master\barcelona\aquarium\`).
+- `tiburon-fondo-marino.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `tiburon-nadando-cerca.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `tunel-submarino-pasarela.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

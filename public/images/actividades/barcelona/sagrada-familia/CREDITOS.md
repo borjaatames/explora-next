@@ -77,3 +77,4 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `wikimedia-9033308-hero.webp` — Bernard Gagnon, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sagrada_Familia_04.jpg)
 - `wikimedia-9029528-hero.webp` — Bernard Gagnon, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sagrada_Familia_03.jpg)
 - `sagrada-familia-intricate-ceiling-columns-hero-hero.webp` — AXP Photography, licencia Pexels, vía Pexels (https://www.pexels.com/photo/27348442/)
+- `sagrada-familia-como-visitar-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

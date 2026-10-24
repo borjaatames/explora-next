@@ -119,6 +119,8 @@ galeria:
     alt: "Callejón del Agua in the Santa Cruz quarter"
   - src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
     alt: "Colourful houses on Calle Betis along the Guadalquivir"
+  - src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
+    alt: "Bowl of green olives with wine glasses"
 ratingProveedor: 4.7
 numeroOpiniones: 50
 

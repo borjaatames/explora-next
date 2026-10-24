@@ -72,8 +72,6 @@ keywords:
 imagen: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
 imagenAlt: "Patio interior del Real Alcazar de Sevilla"
 galeria:
-  - src: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
-    alt: "Patio interior del Real Alcazar de Sevilla"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
     alt: "Mudejar arches of the Palace of Pedro I"
   - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
@@ -88,6 +86,10 @@ galeria:
     alt: "Gardens of the Seville Alcázar"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
     alt: "Walkway through the Alcázar gardens"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+    alt: "Facade of the Palace of Pedro I in the Royal Alcázar of Seville"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
+    alt: "Arquerías mudéjares del Real Alcázar de Sevilla"
 ratingProveedor: 4.6
 numeroOpiniones: 36909
 atraccionesRelacionadas:

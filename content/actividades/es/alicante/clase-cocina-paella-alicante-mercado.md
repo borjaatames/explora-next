@@ -77,8 +77,6 @@ imagenAlt: Paella recién hecha
 galeria:
 - src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
   alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
-- src: "/images/actividades/alicante/paella/paella.webp"
-  alt: "Paella con judías verdes, pollo y tiras de pimiento rojo"
 - src: /images/actividades/alicante/paella/mercado-central.webp
   alt: Fachada del Mercado Central de Alicante
 - src: /images/actividades/alicante/paella/paella-valenciana.webp

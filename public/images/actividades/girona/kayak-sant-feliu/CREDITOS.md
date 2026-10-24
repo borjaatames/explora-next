@@ -10,3 +10,5 @@ Fotos de Wikimedia Commons, recortadas a 1600×1200 y convertidas a WebP.
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `cala-rocosa-aguas-turquesas.webp` — Manuel Torres Garcia, licencia Pexels, vía Pexels (https://www.pexels.com/photo/12008670/)
+- `cala-rocas-banistas.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `costa-brava-acantilado-mar.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

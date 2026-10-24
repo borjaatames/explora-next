@@ -105,8 +105,6 @@ imagen: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-s
 imagenAlt: "Jamones ibéricos colgados sobre la barra de un bar"
 
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
-    alt: "Jamones ibéricos colgados sobre la barra de un bar"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp"
     alt: "Bartender skillfully measures and pours red wine in a bar setting."
   - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp"

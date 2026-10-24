@@ -85,6 +85,10 @@ galeria:
     alt: "Plaça d'Espanya and the Venetian towers from Montjuïc"
   - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
     alt: Barcelona cityscape with Gothic Quarter architecture and modern buildings
+  - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+    alt: "Palau Nacional on Montjuïc, home of the MNAC"
+  - src: /images/actividades/barcelona/montjuic/images-hero.webp
+    alt: "Aerial view of Montjuïc with the Palau Nacional (MNAC)"
 ratingProveedor: 4.5
 numeroOpiniones: 2161
 atraccionesRelacionadas:

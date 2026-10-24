@@ -100,8 +100,6 @@ imagen: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
 imagenAlt: "Alfonso XII monument by the Retiro lake"
 
 galeria:
-  - src: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
-    alt: "Alfonso XII monument by the Retiro lake"
   - src: "/images/actividades/madrid/retiro/bicicleta-electrica-manillar-camino-parque.webp"
     alt: "Handlebar view of an electric bike on a tree-lined path"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
@@ -120,6 +118,14 @@ galeria:
     alt: "Iron and glass structure of the Crystal Palace"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
     alt: "The Crystal Palace on a misty evening"
+  - src: /images/actividades/madrid/ebike/images-hero.webp
+    alt: "Cyclists with their guide by the Crystal Palace in Retiro Park"
+  - src: /images/actividades/madrid/retiro/parque-del-retiro-park-madrid-kristallpalast-10-hero.webp
+    alt: "Palacio de Cristal en el Parque del Retiro de Madrid"
+  - src: /images/actividades/madrid/retiro/parque-retiro-stunning-view-palacio-cristal-hero.webp
+    alt: "The Crystal Palace among autumn trees"
+  - src: /images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp
+    alt: "Colonnade of the Alfonso XII monument"
 ratingProveedor: 4.8
 numeroOpiniones: 73
 

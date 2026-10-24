@@ -146,6 +146,8 @@ galeria:
     alt: "Bóveda del crucero de la catedral"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-04.webp"
     alt: "Capilla de la Catedral de Sevilla"
+  - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+    alt: "Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo"
 ratingProveedor: 4.6
 numeroOpiniones: 3500
 

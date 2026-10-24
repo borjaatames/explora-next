@@ -75,8 +75,6 @@ keywords:
 imagen: "https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg"
 imagenAlt: Tejados de Sevilla con la Catedral al atardecer
 galeria:
-- src: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
-  alt: Tejados de Sevilla con la Catedral al atardecer
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
   alt: "Baños de Doña María de Padilla en el Real Alcázar"
 - src: https://imgcdn.bokun.tools/7597a4b4-3633-4f0a-9e85-b729770b88aa.jpg

@@ -94,6 +94,12 @@ galeria:
   alt: "Judería de Córdoba, a pocos pasos del tablao"
 - src: /images/actividades/cordoba/patios/patio-viana.webp
   alt: "Patio con fuente en el Palacio de Viana"
+- src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
+  alt: "Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba"
+- src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
+  alt: "Calleja de la Judería de Córdoba"
+- src: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
+  alt: "Patio cordobés con macetas"
 ratingProveedor: 4.5
 numeroOpiniones: 753
 publicada: true

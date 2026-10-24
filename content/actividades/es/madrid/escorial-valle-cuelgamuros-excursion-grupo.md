@@ -89,6 +89,16 @@ galeria:
     alt: "Altar mayor de la basílica de El Escorial"
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp"
     alt: Detalle de la aldaba de bronce en la puerta principal del Monasterio de El Escorial
+  - src: /images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp
+    alt: "Capilla mayor de la basílica excavada en la roca"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-alegoria-musica-real-biblioteca-hero.webp
+    alt: "Fresco de la Biblioteca Real de El Escorial (parada en el monasterio)"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-escalier-hero.webp
+    alt: "Escalera de acceso al Panteón de los Reyes"
+  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stone-building-distant-mountains-hero.webp
+    alt: "El Escorial con la sierra de Guadarrama al fondo"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-fale-spain-madrid-29-hero.webp
+    alt: "Interior de la basílica del Monasterio de El Escorial"
 ratingProveedor: 4.7
 numeroOpiniones: 1769
 atraccionesRelacionadas:

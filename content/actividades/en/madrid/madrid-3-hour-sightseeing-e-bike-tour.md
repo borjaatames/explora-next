@@ -118,8 +118,6 @@ keywords:
 imagen: "/images/actividades/madrid/ebike/tour-ebike-pareja-bicicletas-electricas.webp"
 imagenAlt: "Two riders in helmets on electric bikes"
 galeria:
-  - src: "/images/actividades/madrid/ebike/tour-ebike-pareja-bicicletas-electricas.webp"
-    alt: "Two riders in helmets on electric bikes"
   - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
     alt: "Plaza Mayor, the first stop on the route"
   - src: "/images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp"
@@ -136,6 +134,12 @@ galeria:
     alt: "Plaza de la Villa with the Lujanes House and Tower"
   - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
     alt: "San Miguel Market"
+  - src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
+    alt: "E-bike tour group in front of the Royal Palace of Madrid"
+  - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
+    alt: "The bike group stopping along the route"
+  - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
+    alt: "Tour cyclists at the Temple of Debod"
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

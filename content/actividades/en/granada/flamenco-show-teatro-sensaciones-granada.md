@@ -95,8 +95,6 @@ imagen: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flam
 imagenAlt: "Dancer in a flounced dress at Teatro Flamenco Granada"
 
 galeria:
-- src: "/images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp"
-  alt: "Dancer in a polka-dot flamenco dress on the theatre stage"
 - src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
   alt: "White houses of the Albaicín, Granada"
 - src: "/images/actividades/granada/flamenco-teatro/bailaoras-abanicos-escenario.webp"

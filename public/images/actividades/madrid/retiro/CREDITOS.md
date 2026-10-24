@@ -16,3 +16,6 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 Añadidas el 24-10-2026 (`E:\imagenes-master\_descargas-2026-10-23d\`):
 - `retiro-paseo-junto-al-estanque.webp` — Lajos Kristóf Kántor, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/sunny-day-at-retiro-park-madrid-spain-37187327/)
 - `bicicleta-electrica-manillar-camino-parque.webp` — Himiway Bikes, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/black-bicycle-on-brown-and-green-grass-field-during-daytime-up5uMnHlL6Q)
+- `parque-del-retiro-park-madrid-kristallpalast-10-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `parque-retiro-spain-architecture-city-buildings-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `parque-retiro-stunning-view-palacio-cristal-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

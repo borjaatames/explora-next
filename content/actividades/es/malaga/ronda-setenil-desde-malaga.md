@@ -97,6 +97,10 @@ galeria:
     alt: "Casas encajadas bajo la roca en Setenil"
   - src: "/images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp"
     alt: "Casas blancas de Ronda al borde del tajo"
+  - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
+    alt: "Vista de Ronda desde las alturas con el Tajo y el puente nuevo"
+  - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
+    alt: "Casco histórico de Ronda"
 ratingProveedor: 4.7
 numeroOpiniones: 8742
 publicada: true

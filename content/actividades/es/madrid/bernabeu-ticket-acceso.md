@@ -133,6 +133,8 @@ galeria:
     alt: "Boca de metro de la estación Santiago Bernabéu"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp"
     alt: "Fachada metálica del Bernabéu desde el Paseo de la Castellana"
+  - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
+    alt: "Vestuario del Real Madrid en el Estadio Santiago Bernabéu"
 
 ratingProveedor: 4.5
 numeroOpiniones: 23468

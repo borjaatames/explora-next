@@ -85,6 +85,10 @@ galeria:
   alt: "Templo del Sagrado Corazón y noria del Tibidabo de noche"
 - src: /images/actividades/barcelona/tibidabo/carrusel.webp
   alt: "Carrusel iluminado al atardecer en el Tibidabo"
+- src: /images/actividades/barcelona/tibidabo/avion-rojo-vistas-barcelona.webp
+  alt: "Atracción del avión rojo del Tibidabo con vistas a Barcelona"
+- src: /images/actividades/barcelona/tibidabo/carrusel-aereo-vistas.webp
+  alt: "Vista aérea del carrusel del parque Tibidabo"
 ratingProveedor: 4.3
 numeroOpiniones: 458
 atraccionesRelacionadas:

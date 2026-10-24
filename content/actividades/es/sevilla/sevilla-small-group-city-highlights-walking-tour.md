@@ -126,6 +126,14 @@ galeria:
     alt: "Plaza de España iluminada de noche"
   - src: "/images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp"
     alt: "Archivo General de Indias"
+  - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-casco-hero.webp
+    alt: "Casco histórico de Cádiz visto desde la bahía, en ruta desde Sevilla"
+  - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+    alt: "Tour walking premium Sevilla — Catedral exterior y Giralda"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+    alt: "Patio de las Doncellas del Real Alcázar"
+  - src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
+    alt: "Plaza de España de Sevilla"
 
 ratingProveedor: 4.9
 numeroOpiniones: 1475

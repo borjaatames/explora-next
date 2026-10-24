@@ -135,6 +135,8 @@ galeria:
   alt: Granada's historic architecture and street view with traditional buildings
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
   alt: "Wine Gate at the Alhambra of Granada"
+- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero-hero.webp
+  alt: "Generalife palace rooftop overlooking Hall of Abencerrages, Granada Spain"
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

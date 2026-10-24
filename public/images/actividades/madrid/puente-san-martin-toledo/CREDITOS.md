@@ -3,3 +3,4 @@
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `puente-san-martin-toledo-august-2012-hero.webp` — Nikthestoned, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Puente_de_Alc%C3%A1ntara,_Toledo,_August_2012.JPG)
 - `puente-san-martin-toledo-bridge-over-river-buildings-hill-hero.webp` — Anastasia Lin, licencia Unsplash, vía Unsplash (https://unsplash.com/photos/CHKaj8--tIk)
+- `puente-san-martin-toledo-fp-2025-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

@@ -93,6 +93,8 @@ galeria:
   alt: Tiers of Málaga's Roman Theatre
 - src: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
   alt: Panorama of Málaga from the Alcazaba
+- src: /images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp
+  alt: "Roman theatre of Málaga next to the Alcazaba"
 ratingProveedor: 4.7
 numeroOpiniones: 7412
 publicada: true

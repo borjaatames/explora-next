@@ -169,6 +169,8 @@ galeria:
   alt: "Pueblo blanco entre olivares de la sierra"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
   alt: "Puente Nuevo sobre el Tajo de Ronda"
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
+  alt: "Calle de un pueblo blanco andaluz"
 ratingProveedor: 4.5
 numeroOpiniones: 4027
 publicada: true

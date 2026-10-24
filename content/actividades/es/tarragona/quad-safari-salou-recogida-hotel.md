@@ -81,8 +81,6 @@ galeria:
   alt: "Rocas del cabo de Salou frente al Mediterráneo"
 - src: "/images/actividades/tarragona/costa/faro-salou.webp"
   alt: "Faro de Salou y su edificio blanco bajo el cielo azul"
-- src: "/images/actividades/tarragona/quad/quad-pista.webp"
-  alt: "Piloto con casco conduciendo un quad rojo por un sendero de bosque"
 - src: "/images/actividades/tarragona/quad/quad-camino.webp"
   alt: "Ruta en quad por los caminos de Salou"
 - src: /images/actividades/tarragona/quad/prades-siurana.webp

@@ -93,8 +93,6 @@ imagen: "/images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-o
 imagenAlt: "Bailaora y cuadro en la Cueva La Faraona, en blanco y negro"
 
 galeria:
-- src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-bailaora-cuadro.webp
-  alt: "Bailaora y cuadro en la Cueva La Faraona, en blanco y negro"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-entrada-cueva.webp
   alt: "Entrada de la Cueva La Faraona en el Sacromonte"
 - src: /images/actividades/granada/cueva-la-faraona-oficial/cueva-la-faraona-oficial-cantaora.webp
@@ -105,6 +103,14 @@ galeria:
   alt: "Casas cueva en la ladera del Sacromonte, Granada"
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: "Ladera del Sacromonte con sus casas cueva"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cueva-publico.webp
+  alt: "Zambra flamenca dentro de la Cueva La Faraona, con el público alrededor"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-escenario-bailaora.webp
+  alt: "Bailaora en escena en el espectáculo de La Faraona"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-bailaoras.webp
+  alt: "Bailaoras de la Cueva La Faraona con trajes rojos"
+- src: /images/actividades/granada/cueva-la-faraona/cueva-la-faraona-cantaora-cueva.webp
+  alt: "Cantaora con mantón en la Cueva La Faraona"
 ratingProveedor: 4.7
 numeroOpiniones: 503
 

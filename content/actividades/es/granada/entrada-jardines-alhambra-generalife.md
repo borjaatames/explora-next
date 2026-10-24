@@ -138,6 +138,8 @@ galeria:
   alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
   alt: "Puerta del Vino en la Alhambra de Granada"
+- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero-hero.webp
+  alt: "Techo decorativo con azulejos y caligrafía árabe de la Sala de los Abencerrajes en el Generalife de Granada"
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

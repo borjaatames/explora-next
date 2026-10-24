@@ -133,6 +133,8 @@ galeria:
     alt: "Entrance to Santiago Bernabéu metro station"
   - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp"
     alt: "The Bernabéu's metal façade from Paseo de la Castellana"
+  - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
+    alt: "Real Madrid dressing room at the Santiago Bernabéu Stadium"
 
 ratingProveedor: 4.5
 numeroOpiniones: 23468

@@ -83,6 +83,12 @@ galeria:
   alt: "Palm grove and ravine slopes at Palmitos Park"
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
   alt: "Saddle-billed stork at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
+  alt: "Amazon macaws perched on a branch at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
+  alt: "Blue and yellow macaw at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
+  alt: "Grey parrot in the gardens of Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

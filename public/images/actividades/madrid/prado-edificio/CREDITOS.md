@@ -11,3 +11,6 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `museo-prado-edificio-2016-25185969599-hero.webp` — Emilio J. Rodríguez Posada, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museo_del_Prado_2016_(25185969599).jpg)
 - `museo-prado-edificio-madrid-02-hero.webp` — Javier Pérez Montes, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Madrid_02.jpg)
+- `museo-prado-edificio-madrid-museum-architecture-art-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `museo-prado-edificio-madrid-spain-capital-city-museum-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `museo-prado-edificio-monastery-09-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

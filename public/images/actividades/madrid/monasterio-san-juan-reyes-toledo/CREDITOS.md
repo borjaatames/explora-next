@@ -12,3 +12,5 @@ Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `monasterio-san-juan-reyes-toledo-6079996465-hero.webp` — amaianos from Galicia, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Monasterio_de_San_Juan_de_los_Reyes_(Toledo)._(6079996465).jpg)
 - `monasterio-san-juan-reyes-toledo-cloister-02-hero.webp` — Palickap, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Toledo,_Monasterio_de_San_Juan_de_los_Reyes,_cloister_02.jpg)
+- `monasterio-san-juan-reyes-toledo-foto-9751577-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `monasterio-san-juan-reyes-toledo-foto-9766821-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

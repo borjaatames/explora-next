@@ -15,3 +15,7 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp` — LARS77722 from Barcelona, España, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museo_Reina_Sofia_-_Madrid_(4485081030).jpg)
 - `wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp` — Adam Jones, Ph.D., CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Children_and_Teachers_by_Abstract_Painting_-_Museo_Reina_Sofia_-_Madrid_-_Spain.jpg)
 - `wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp` — Adam Jones, Ph.D., CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Visitors_in_Gallery_of_Museo_Reina_Sofia_-_Madrid_-_Spain.jpg)
+- `museo-reina-sofia-large-white-building-clock-tower-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `museo-reina-sofia-madrid-6394654203-hero-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

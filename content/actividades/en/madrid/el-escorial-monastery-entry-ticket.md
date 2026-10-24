@@ -94,6 +94,14 @@ galeria:
     alt: Facade of the Royal Monastery of San Lorenzo de El Escorial
   - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-romanesque-cloister-monastery-hero.webp"
     alt: "Cloister of the El Escorial Monastery"
+  - src: /images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp
+    alt: "Royal crypt beneath the El Escorial basilica"
+  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp
+    alt: "Aerial view of the El Escorial Monastery"
+  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-view-from-north-west-hero.webp
+    alt: "El Escorial seen from the north-west"
+  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp
+    alt: "Statue of King David on the basilica facade"
 ratingProveedor: 4.5
 numeroOpiniones: 312
 atraccionesRelacionadas:

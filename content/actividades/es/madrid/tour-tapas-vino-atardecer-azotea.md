@@ -110,6 +110,8 @@ galeria:
     alt: "La Gran Vía iluminada vista desde lo alto"
   - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-foto-774234-hero.webp"
     alt: "Terrazas en una calle del centro de Madrid"
+  - src: /images/actividades/madrid/la-latina/01.webp
+    alt: "Barrio de La Latina, inicio de la ruta"
 
 ratingProveedor: 4.7
 numeroOpiniones: 342

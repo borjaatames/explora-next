@@ -22,6 +22,7 @@ slugs:
   de: was-sehen-auf-gran-canaria
 reservasArriba: true
 actividades:
+  - destileria-ron-arehucas-tour-cata
   - roque-nublo-pico-nieves-desde-las-palmas
   - buggy-barrancos-gran-canaria
   - catamaran-delfines-esnorquel-gran-canaria
@@ -86,7 +87,7 @@ Otro mundo. El **Roque Nublo**, monolito de 80 metros a más de 1.800 m, se alca
 
 **Maspalomas, Playa del Inglés y Meloneras** para sol y playa; **Puerto de Mogán** para calma con encanto; **Las Palmas** para ciudad, gastronomía y el norte; casas rurales en Tejeda o Artenara para dormir bajo las estrellas.
 
-**Papas arrugadas con mojo**, **queso de flor de Guía**, **sancocho**, **gofio**, **bienmesabe** de Tejeda, **ron de Arucas** y vinos del Monte Lentiscal.
+**Papas arrugadas con mojo**, **queso de flor de Guía**, **sancocho**, **gofio**, **bienmesabe** de Tejeda, **ron de Arucas** (se puede [visitar la destilería Arehucas](/ciudades/gran-canaria/actividades/destileria-ron-arehucas-tour-cata)) y vinos del Monte Lentiscal.
 
 ## Errores típicos
 

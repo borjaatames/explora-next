@@ -99,6 +99,10 @@ galeria:
   alt: Reflejos de las estalactitas sobre el lago Martel
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-sala.webp
   alt: Sala de las Cuevas del Drach con agua turquesa
+- src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-lago-iluminado.webp
+  alt: "Lago subterráneo iluminado en las Cuevas del Drach"
+- src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-pasarela-visitantes.webp
+  alt: "Visitantes recorriendo la pasarela de las Cuevas del Drach"
 ratingProveedor: 4.4
 numeroOpiniones: 1489
 publicada: true

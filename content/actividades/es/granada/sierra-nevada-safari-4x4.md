@@ -114,8 +114,6 @@ keywords:
 imagen: "/images/actividades/granada/sierra-nevada-4x4/sierra-nevada-pista-transnevada-mar-alboran.webp"
 imagenAlt: "Pista de alta montaña de Sierra Nevada con el mar de Alborán al fondo"
 galeria:
-  - src: "/images/actividades/granada/sierra-nevada-4x4/sierra-nevada-pista-transnevada-mar-alboran.webp"
-    alt: "Pista de alta montaña de Sierra Nevada con el mar de Alborán al fondo"
   - src: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
     alt: "Picos nevados de Sierra Nevada vistos desde lo alto"
   - src: "/images/actividades/granada/sierra-nevada-4x4/sierra-nevada-panoramica-cumbres-nevadas.webp"
@@ -136,6 +134,10 @@ galeria:
     alt: "Observatorio del Mojón del Trigo en Sierra Nevada"
   - src: "/images/actividades/granada/wikimedia/granada-sierra-nevada-06.webp"
     alt: "Cabra montés, fauna típica de Sierra Nevada"
+  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-4x4-monta-a-sierra-nevada-4x4-monta-hero.webp
+    alt: "Todoterreno subiendo por la montaña en Sierra Nevada"
+  - src: /images/actividades/granada/sierra-nevada-safari-4x4/sierra-nevada-safari-4x4-grupo-pequeno-monta-a-03-hero.webp
+    alt: "Grupo de turistas con guía local en refugio de montaña de Granada, compartiendo experiencia de senderismo en ambiente"
 ratingProveedor: 4.9
 numeroOpiniones: 1718
 publicada: true

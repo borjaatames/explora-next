@@ -179,6 +179,8 @@ galeria:
   alt: "Red and white arches of the Mosque of Córdoba"
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-alcazar-jardines.webp
   alt: "Pool in the gardens of the Alcázar of the Christian Monarchs"
+- src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-sinago-hero.webp
+  alt: "Arches inside the Mosque of Córdoba"
 ratingProveedor: 4.3
 numeroOpiniones: 280
 publicada: true

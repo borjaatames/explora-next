@@ -18,3 +18,4 @@
 - `giralda-torre-cielo-azul.webp` — Pexels, Ana Rubio (Licencia Pexels) — https://www.pexels.com/photo/giralda-tower-in-seville-spain-under-blue-sky-34900836/
 - `catedral-sevilla-exterior-dia.webp` — Pexels, Javier Balseiro (Licencia Pexels) — https://www.pexels.com/photo/seville-cathedral-with-blue-sky-in-daylight-40107945/
 - `giralda-detalle-arquitectura.webp` — Pexels, Kathy B (Licencia Pexels) — https://www.pexels.com/photo/giralda-27548551/
+- `catedral-giralda-sevilla-fachada-gotica-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

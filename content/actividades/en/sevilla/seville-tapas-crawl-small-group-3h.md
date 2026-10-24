@@ -117,6 +117,8 @@ galeria:
     alt: "Colourful houses on Calle Betis along the Guadalquivir"
   - src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
     alt: "Triana Bridge lit up at dusk"
+  - src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
+    alt: "Bowl of green olives with wine glasses"
 ratingProveedor: 4.9
 numeroOpiniones: 1848
 

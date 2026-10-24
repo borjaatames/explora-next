@@ -110,6 +110,10 @@ galeria:
   alt: Alcázar de Segovia con torres y almenas, vista frontal desde el valle
 - src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
   alt: Panorámica de Toledo con sus monumentos históricos y arquitectura medieval
+- src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
+  alt: "Fachada exterior del Alcázar de Segovia con torres almenadas y arquitectura medieval"
+- src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
+  alt: "FP Toledo 2025 - Puente de Alcántara"
 ratingProveedor: 4.7
 numeroOpiniones: 1330
 publicada: true

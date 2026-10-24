@@ -155,6 +155,10 @@ galeria:
     alt: "Gradas del anfiteatro de Itálica"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp"
     alt: "Pasadizo romano del anfiteatro"
+  - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp
+    alt: "Mosaico romano de teselas de colores con motivos decorativos, conservado en casa señorial de Sevilla"
+  - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp
+    alt: "Fachada medieval del Monasterio de San Isidoro del Campo en Sevilla con elementos arquitectónicos mudéjares, góticos"
 ratingProveedor: 4.5
 numeroOpiniones: 320
 publicada: true

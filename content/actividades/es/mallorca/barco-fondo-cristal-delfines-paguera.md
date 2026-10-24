@@ -80,8 +80,6 @@ keywords:
 imagen: "/images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp"
 imagenAlt: "Barco turístico con fondo de cristal navegando junto a la costa"
 galeria:
-  - src: "/images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp"
-    alt: "Barco de fondo de cristal navegando por las aguas turquesas de Paguera"
   - src: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
     alt: "Islote rocoso con pinos frente a la costa de Paguera"
   - src: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"

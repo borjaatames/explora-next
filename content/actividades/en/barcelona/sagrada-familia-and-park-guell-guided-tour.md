@@ -138,6 +138,8 @@ galeria:
   alt: Park Güell's colorful mosaic terrace with Barcelona cityscape in background
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
   alt: Barcelona cityscape with Gothic architecture and bustling streets
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
+  alt: "Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details"
 bokunProductId: 866939
 fecha_actualizacion: '2026-06-18'
 guiasRelacionadas:

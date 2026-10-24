@@ -73,9 +73,17 @@ keywords:
 - boat to formentor from alcudia
 - formentor lighthouse by boat
 - formentor beach boat
-imagen: /images/actividades/mallorca/formentor/formentor-01.webp
-imagenAlt: Cliffs of Cap de Formentor above the sea in northern Mallorca
+imagen: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
+imagenAlt: Boats anchored off Formentor beach, seen from the watchtower
 galeria:
+- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
+  alt: Aerial view of Formentor bay with boats and a speedboat wake
+- src: /images/actividades/mallorca/formentor/formentor-01.webp
+  alt: Cliffs of Cap de Formentor above the sea
+- src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
+  alt: Turquoise water at Formentor beach, among pine trees
+- src: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
+  alt: Cliffs of the Formentor peninsula by the islet of Es Colomer
 - src: /images/actividades/mallorca/formentor/formentor-02.webp
   alt: Cap de Formentor lighthouse on top of the cliff
 - src: /images/actividades/mallorca/formentor/formentor-04.webp

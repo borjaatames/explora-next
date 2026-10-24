@@ -9,3 +9,5 @@
 | plaza-espana-pexels-37437571.webp | Pexels ID 37437571 | Licencia Pexels | — |
 | plaza-espana-pixabay-3573909.webp | Pixabay ID 3573909 | Licencia Pixabay | — |
 | plaza-espana-pixabay-4879907.webp | Pixabay ID 4879907 | Licencia Pixabay | — |
+- `plaza-espana-sevilla-pabellon-central-torres-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `plaza-espana-sevilla-puentes-canales-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

@@ -132,6 +132,10 @@ galeria:
     alt: "Palm trees and hedges in the Real Alcázar gardens"
   - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-04.webp"
     alt: "Palm trees rising over the Alcázar gardens"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
+    alt: "Mudéjar arcade of the Royal Alcázar — premium small group format"
+  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
+    alt: "Patio de las Doncellas of the Royal Alcázar of Seville — premium small-group tour"
 ratingProveedor: 4.9
 numeroOpiniones: 180
 

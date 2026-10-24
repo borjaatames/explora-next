@@ -85,6 +85,10 @@ galeria:
     alt: "Plaza de España y las torres venecianas desde Montjuïc"
   - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
     alt: Vista panorámica de Barcelona con la Sagrada Familia destacada entre los edificios
+  - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+    alt: "Palau Nacional de Montjuïc, sede del MNAC"
+  - src: /images/actividades/barcelona/montjuic/images-hero.webp
+    alt: "Vista aérea de Montjuïc con el Palau Nacional (MNAC)"
 ratingProveedor: 4.5
 numeroOpiniones: 2161
 atraccionesRelacionadas:

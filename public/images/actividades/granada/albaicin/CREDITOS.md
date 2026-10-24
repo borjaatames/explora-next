@@ -13,3 +13,4 @@
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `albaicin-granada-vista-panoramica-desde-alhambra-hero.webp` — Pixabay, foto 2715466, licencia Pixabay (https://pixabay.com/photos/id-2715466/)
+- `albaicin-granada-calle-empedrada-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)

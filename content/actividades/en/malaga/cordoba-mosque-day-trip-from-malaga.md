@@ -94,6 +94,12 @@ galeria:
   alt: "Córdoba Jewish Quarter, a few steps from the tablao"
 - src: /images/actividades/cordoba/patios/patio-viana.webp
   alt: "Courtyard with fountain at the Palacio de Viana"
+- src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
+  alt: "Two-tone arches inside the Mosque-Cathedral of Córdoba"
+- src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
+  alt: "Narrow street in Córdoba's Jewish Quarter"
+- src: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
+  alt: "Córdoba patio with flower pots"
 ratingProveedor: 4.5
 numeroOpiniones: 753
 publicada: true

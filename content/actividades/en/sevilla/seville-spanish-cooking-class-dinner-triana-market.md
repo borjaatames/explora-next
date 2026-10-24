@@ -122,6 +122,8 @@ galeria:
     alt: "Triana riverfront across the Guadalquivir"
   - src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
     alt: "Triana Bridge lit up at dusk"
+  - src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
+    alt: "Cook adding olive oil to a paella over the fire"
 ratingProveedor: 4.9
 numeroOpiniones: 975
 

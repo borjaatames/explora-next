@@ -141,6 +141,10 @@ galeria:
   alt: "Torre del Oro and boats on the Guadalquivir"
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
   alt: "Guadalquivir riverbank with the Torre del Oro in the distance"
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
+  alt: "Bridges and canal of Plaza de España"
+- src: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
+  alt: "Las Setas (Metropol Parasol) on Plaza de la Encarnación"
 
 ratingProveedor: 4.0
 numeroOpiniones: 4954

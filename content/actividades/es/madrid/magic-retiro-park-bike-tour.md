@@ -100,8 +100,6 @@ imagen: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
 imagenAlt: "Monumento a Alfonso XII junto al estanque del Retiro"
 
 galeria:
-  - src: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
-    alt: "Monumento a Alfonso XII junto al estanque del Retiro"
   - src: "/images/actividades/madrid/retiro/bicicleta-electrica-manillar-camino-parque.webp"
     alt: "Manillar de una bicicleta eléctrica por un camino arbolado"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-palacio-cristal-madrid-espana-2017-hero.webp"
@@ -120,6 +118,14 @@ galeria:
     alt: "Estructura de hierro y cristal del Palacio de Cristal"
   - src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
     alt: "Palacio de Cristal en una tarde de niebla"
+  - src: /images/actividades/madrid/ebike/images-hero.webp
+    alt: "Grupo de ciclistas con el guía junto al Palacio de Cristal del Retiro"
+  - src: /images/actividades/madrid/retiro/parque-del-retiro-park-madrid-kristallpalast-10-hero.webp
+    alt: "Palacio de Cristal en el Parque del Retiro de Madrid"
+  - src: /images/actividades/madrid/retiro/parque-retiro-stunning-view-palacio-cristal-hero.webp
+    alt: "Palacio de Cristal entre los árboles en otoño"
+  - src: /images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp
+    alt: "Columnata del monumento a Alfonso XII"
 ratingProveedor: 4.8
 numeroOpiniones: 73
 

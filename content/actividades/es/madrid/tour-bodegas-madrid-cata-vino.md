@@ -93,8 +93,6 @@ imagen: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-eman
 imagenAlt: "Copa de vino tinto sirviéndose durante una cata en bodega"
 
 galeria:
-  - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
-    alt: "Cata de vinos en bodega de la Comunidad de Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
     alt: "Jamones ibéricos colgados sobre la barra de un bar"
   - src: "/images/actividades/madrid/chinchon/pexels-36878676-hero.webp"
@@ -109,6 +107,8 @@ galeria:
     alt: "Botella de vino tinto y dos copas servidas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
     alt: "Aperitivo de jamón acompañando la cata"
+  - src: /images/actividades/madrid/tapas/tapas-madrid-white-bowl-filled-olives-tomatoes-hero.webp
+    alt: "Tapas tradicionales madrileñas"
 
 ratingProveedor: 4.9
 numeroOpiniones: 249

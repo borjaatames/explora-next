@@ -167,6 +167,8 @@ galeria:
   alt: "White village among olive groves in the sierra"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
   alt: "Puente Nuevo over the Ronda gorge"
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
+  alt: "Street in an Andalusian white village"
 ratingProveedor: 4.5
 numeroOpiniones: 4027
 publicada: true
