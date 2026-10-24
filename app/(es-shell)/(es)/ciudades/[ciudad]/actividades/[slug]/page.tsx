@@ -439,16 +439,7 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
-            {/* 3a. Reseñas reales del proveedor (Tripadvisor Content API) */}
-            {fuenteResenas && (
-              <ResenasTripadvisor
-                idioma="es"
-                locationId={fuenteResenas.locationId}
-                nombreProveedor={fuenteResenas.nombre}
-              />
-            )}
-
-            {/* 3b. Otras versiones de la misma actividad */}
+            {/* 3a. Otras versiones de la misma actividad */}
             <OtrasVersiones idioma="es" actual={actividad} versiones={otrasVersiones} />
 
             {/* 4. Nuestra opinión editorial */}
@@ -591,6 +582,16 @@ export default async function ActividadPage({ params }: Props) {
                   ))}
                 </div>
               </div>
+            )}
+
+            {/* 13b. Reseñas reales del proveedor (Tripadvisor Content API),
+                al final del contenido por decisión de Borja (24-10-2026) */}
+            {fuenteResenas && (
+              <ResenasTripadvisor
+                idioma="es"
+                locationId={fuenteResenas.locationId}
+                nombreProveedor={fuenteResenas.nombre}
+              />
             )}
 
             {/* 14. Disclosure de afiliación */}
