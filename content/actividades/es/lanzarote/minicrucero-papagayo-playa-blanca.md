@@ -81,18 +81,16 @@ keywords:
 imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: Catamarán fondeado en una cala de Papagayo
 galeria:
-- src: "PENDIENTE:Playas de Papagayo"
-  alt: Cala de Papagayo con agua turquesa entre acantilados
-- src: "PENDIENTE:esnórquel Papagayo"
-  alt: Persona haciendo esnórquel en el agua clara de Papagayo
-- src: "PENDIENTE:Marina Rubicón"
-  alt: Barcos en la Marina Rubicón de Playa Blanca
-- src: "PENDIENTE:catamarán cubierta redes"
-  alt: Redes para tumbarse en la cubierta de un catamarán
-- src: "PENDIENTE:Playa Blanca"
-  alt: Paseo marítimo de Playa Blanca, en el sur de Lanzarote
-- src: "PENDIENTE:Los Ajaches"
-  alt: Acantilados de Los Ajaches sobre las calas de Papagayo
+- src: "/images/actividades/lanzarote/zonas/papagayo-banistas.webp"
+  alt: "Bañistas en una cala de Papagayo"
+- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
+  alt: "Costa sur de Lanzarote junto a las playas de Papagayo"
+- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
+  alt: "Barcos amarrados en la Marina Rubicón, en Playa Blanca"
+- src: "/images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp"
+  alt: "Veleros en la Marina Rubicón con los volcanes al fondo"
+- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
+  alt: "Cala de Papagayo con aguas turquesa y rocas volcánicas"
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

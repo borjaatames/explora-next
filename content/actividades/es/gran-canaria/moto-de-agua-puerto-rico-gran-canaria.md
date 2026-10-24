@@ -83,19 +83,19 @@ keywords:
 - moto de agua gran canaria
 - jet ski puerto rico
 - que hacer en puerto rico gran canaria
-imagen: "PENDIENTE:moto de agua en Puerto Rico de Gran Canaria"
-imagenAlt: Moto de agua navegando frente a la costa de Puerto Rico de Gran Canaria
+imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
+imagenAlt: "Moto de agua sobre las olas"
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: Puerto deportivo de Puerto Rico de Gran Canaria, punto de salida del tour
-- src: "PENDIENTE:grupo de motos de agua con barco de seguridad en Gran Canaria"
-  alt: Grupo de motos de agua siguiendo al barco de seguridad
+- src: "/images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp"
+  alt: "Barcos en el puerto deportivo de Puerto Rico"
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Atardecer en el puerto de Puerto Rico de Gran Canaria
-- src: "PENDIENTE:moto de agua biplaza en el mar de Puerto Rico"
-  alt: Dos personas compartiendo una moto de agua en Puerto Rico
-- src: "PENDIENTE:costa suroeste de Gran Canaria vista desde el mar en Puerto Rico"
-  alt: La costa suroeste de Gran Canaria vista desde el mar
+- src: "/images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp"
+  alt: "Puerto de Puerto Rico de Gran Canaria visto desde lo alto"
+- src: "/images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp"
+  alt: "Bahía y puerto deportivo de Puerto Rico de Gran Canaria"
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

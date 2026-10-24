@@ -80,18 +80,18 @@ keywords:
 imagen: /images/actividades/lanzarote/tour-dia-completo.webp
 imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
 galeria:
-- src: "PENDIENTE:El Golfo Charco de los Clicos"
-  alt: La laguna verde del Charco de los Clicos junto a la playa de El Golfo
-- src: "PENDIENTE:Cueva de los Verdes"
-  alt: Galería iluminada de la Cueva de los Verdes
-- src: "PENDIENTE:La Geria viñedos"
-  alt: Vides plantadas en hoyos de ceniza volcánica en La Geria
-- src: "PENDIENTE:Jameos del Agua"
-  alt: El lago interior de los Jameos del Agua, dentro de un tubo volcánico
-- src: "PENDIENTE:Haría"
-  alt: El valle de Haría, con sus palmeras y casas blancas
-- src: "PENDIENTE:Islote de Hilario géiser"
-  alt: Demostración geotérmica con un chorro de vapor en el Islote de Hilario
+- src: "/images/actividades/lanzarote/zonas/la-geria-bodega.webp"
+  alt: "Viñedos de La Geria al pie de los volcanes"
+- src: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
+  alt: "El cráter de El Golfo abierto al mar, con la laguna verde"
+- src: "/images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp"
+  alt: "Piscina de los Jameos del Agua entre palmeras"
+- src: "/images/actividades/lanzarote/zonas/teguise-plaza.webp"
+  alt: "Plaza e iglesia de Nuestra Señora de Guadalupe, en Teguise"
+- src: "/images/actividades/lanzarote/zonas/los-hervideros-cueva.webp"
+  alt: "Mar turquesa entrando en una cueva de lava en Los Hervideros"
+- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp"
+  alt: "La Graciosa vista desde el norte de Lanzarote"
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

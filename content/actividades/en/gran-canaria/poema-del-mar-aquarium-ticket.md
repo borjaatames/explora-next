@@ -68,19 +68,17 @@ keywords:
 - las palmas aquarium
 - poema del mar gran canaria
 - gran canaria aquarium
-imagen: "PENDIENTE:ventana curva del acuario Poema del Mar"
-imagenAlt: The huge curved window at the Poema del Mar aquarium
+imagen: "/images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp"
+imagenAlt: "The large curved window at Poema del Mar aquarium"
 galeria:
-- src: "PENDIENTE:exterior del acuario Poema del Mar en el Muelle Sanapú"
-  alt: The Poema del Mar aquarium building in the port of Las Palmas
-- src: "PENDIENTE:cilindro Arrecife del Poema del Mar"
-  alt: The Arrecife water cylinder at Poema del Mar
-- src: "PENDIENTE:zona La Jungla del Poema del Mar"
-  alt: The Jungle zone at the Poema del Mar aquarium
-- src: "PENDIENTE:exposición El Veril del Poema del Mar"
-  alt: Canary Islands species in the El Veril exhibit
-- src: "PENDIENTE:exposición de mar profundo del Poema del Mar"
-  alt: Deep-sea exhibit at Poema del Mar
+- src: "/images/actividades/gran-canaria/poema-del-mar/arrecife.webp"
+  alt: "Tropical fish on the reef at Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/tunel.webp"
+  alt: "Underwater tunnel among fish at Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp"
+  alt: "Sharks and rays above the Poema del Mar tunnel"
+- src: "/images/actividades/gran-canaria/poema-del-mar/la-jungla.webp"
+  alt: "Fish beneath the roots in the Jungle zone of Poema del Mar"
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

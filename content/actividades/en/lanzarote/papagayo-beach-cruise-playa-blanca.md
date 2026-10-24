@@ -81,18 +81,16 @@ keywords:
 imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: A catamaran anchored in a Papagayo cove
 galeria:
-- src: "PENDIENTE:Playas de Papagayo"
-  alt: A Papagayo cove with turquoise water between cliffs
-- src: "PENDIENTE:esnórquel Papagayo"
-  alt: A snorkeller in the clear water at Papagayo
-- src: "PENDIENTE:Marina Rubicón"
-  alt: Boats at Marina Rubicón in Playa Blanca
-- src: "PENDIENTE:catamarán cubierta redes"
-  alt: Nets for lying out on a catamaran deck
-- src: "PENDIENTE:Playa Blanca"
-  alt: The seafront at Playa Blanca in southern Lanzarote
-- src: "PENDIENTE:Los Ajaches"
-  alt: The Los Ajaches cliffs above the Papagayo coves
+- src: "/images/actividades/lanzarote/zonas/papagayo-banistas.webp"
+  alt: "Swimmers in a Papagayo cove"
+- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
+  alt: "Lanzarote's south coast by the Papagayo beaches"
+- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
+  alt: "Boats moored at Marina Rubicón, Playa Blanca"
+- src: "/images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp"
+  alt: "Sailing boats at Marina Rubicón with the volcanoes behind"
+- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
+  alt: "A Papagayo cove with turquoise water and volcanic rocks"
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

@@ -74,20 +74,18 @@ keywords:
 imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: "Recinto de animales en Oasis Wildlife Fuerteventura"
 galeria:
-- src: "PENDIENTE:jirafas Oasis Park"
-  alt: "Jirafas en Oasis Wildlife Fuerteventura"
-- src: "PENDIENTE:Sotavento"
-  alt: "Las playas de Sotavento, al sur de La Lajita"
-- src: "PENDIENTE:camellos Oasis Park"
-  alt: "Camellos en Oasis Wildlife Fuerteventura"
-- src: "PENDIENTE:Costa Calma"
-  alt: "Costa Calma, en el sur de Fuerteventura"
-- src: "PENDIENTE:jardín botánico Oasis Park"
-  alt: "Cactus en el jardín botánico de Oasis Wildlife"
-- src: "PENDIENTE:Cuevas de Ajuy"
-  alt: "Las Cuevas de Ajuy, en la costa oeste"
-- src: "PENDIENTE:leones marinos Oasis Park"
-  alt: "Exhibición de leones marinos en Oasis Wildlife"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-camellos.webp"
+  alt: "Camellos en el Oasis Park de La Lajita"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-cactus.webp"
+  alt: "Jardín de cactus del Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp"
+  alt: "Flamenco en el Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp"
+  alt: "Suricatas en el Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-entrada.webp"
+  alt: "Visitantes en los jardines del Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/sotavento-aerea.webp"
+  alt: "Vista aérea de la playa y la laguna de Sotavento"
 ratingProveedor: 4.6
 numeroOpiniones: 3857
 atraccionesRelacionadas:

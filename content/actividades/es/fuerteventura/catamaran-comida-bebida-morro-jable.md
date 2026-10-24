@@ -80,18 +80,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
 imagenAlt: "Catamarán navegando frente a la costa de Jandía"
 galeria:
-- src: "PENDIENTE:costa de Jandía"
-  alt: "La costa sur de la península de Jandía vista desde el mar"
-- src: "PENDIENTE:delfines Fuerteventura"
-  alt: "Delfines en aguas de Fuerteventura"
-- src: "PENDIENTE:Puerto de Morro Jable"
-  alt: "El puerto de Morro Jable"
-- src: "PENDIENTE:baño desde barco Jandía"
-  alt: "Baño en aguas turquesa desde un barco en Jandía"
-- src: "PENDIENTE:Playa del Matorral"
-  alt: "La playa del Matorral, en Morro Jable"
-- src: "PENDIENTE:faro de Morro Jable"
-  alt: "El faro de Morro Jable junto a la playa"
+- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
+  alt: "La costa de Jandía con el faro al fondo"
+- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
+  alt: "Morro Jable y la playa del Matorral desde la montaña"
+- src: "/images/actividades/fuerteventura/zonas/macizo-jandia.webp"
+  alt: "El macizo de Jandía con nubes en las cumbres"
+- src: "/images/actividades/fuerteventura/zonas/costa-jandia.webp"
+  alt: "La costa de barlovento de Jandía"
+- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
+  alt: "Faro de Morro Jable entre la vegetación del saladar"
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

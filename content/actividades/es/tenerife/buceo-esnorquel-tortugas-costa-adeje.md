@@ -85,19 +85,13 @@ keywords:
   - "esnorquel costa adeje"
   - "buceo puerto colon"
   - "submarinismo principiantes tenerife"
-imagen: "PENDIENTE:buceador con tortuga marina en Tenerife"
-imagenAlt: "Buceador junto a una tortuga marina en aguas de Tenerife"
+imagen: "/images/actividades/tenerife/costa-adeje/costa-rocosa.webp"
+imagenAlt: "Costa rocosa volcánica en Costa Adeje"
 galeria:
-  - src: "PENDIENTE:tortuga marina nadando en Costa Adeje"
-    alt: "Tortuga marina nadando cerca de la superficie"
-  - src: "PENDIENTE:Puerto Colón Costa Adeje"
-    alt: "Puerto Colón, en Costa Adeje"
-  - src: "PENDIENTE:bautismo de buceo con monitor"
-    alt: "Monitor de buceo con un principiante bajo el agua"
-  - src: "PENDIENTE:fondo volcánico con peces en Tenerife"
-    alt: "Fondo marino volcánico con peces en Tenerife"
-  - src: "PENDIENTE:esnórquel en el sur de Tenerife"
-    alt: "Personas haciendo esnórquel en el sur de Tenerife"
+  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
+    alt: "Playa de Costa Adeje con las montañas al fondo"
+  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
+    alt: "Vista de la costa de Costa Adeje"
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

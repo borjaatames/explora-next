@@ -78,19 +78,9 @@ keywords:
 - rutas a caballo maspalomas
 - el salobre caballos
 - excursion a caballo gran canaria
-imagen: "PENDIENTE:paseo a caballo en El Salobre"
-imagenAlt: Jinetes a caballo por una pista volcánica en El Salobre
+imagen: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
+imagenAlt: "Barranco y montañas del sur de Gran Canaria"
 galeria:
-- src: "PENDIENTE:paisaje volcánico de El Salobre"
-  alt: Paisaje volcánico en los alrededores de El Salobre
-- src: "PENDIENTE:grupo a caballo por sendero de montaña en el sur de Gran Canaria"
-  alt: Grupo a caballo por un sendero de montaña en el sur de Gran Canaria
-- src: "PENDIENTE:barranco de El Salobre"
-  alt: El barranco de El Salobre, en el sur de Gran Canaria
-- src: "PENDIENTE:caballos en el rancho El Salobre Horse Riding"
-  alt: Caballos en el rancho de El Salobre
-- src: "PENDIENTE:vistas del sur de Gran Canaria desde las pistas de El Salobre"
-  alt: Vistas de la costa sur desde las pistas de El Salobre
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

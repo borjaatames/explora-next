@@ -85,19 +85,13 @@ keywords:
   - "snorkelling costa adeje"
   - "diving puerto colon"
   - "beginner scuba tenerife"
-imagen: "PENDIENTE:buceador con tortuga marina en Tenerife"
-imagenAlt: "Diver beside a sea turtle in Tenerife's waters"
+imagen: "/images/actividades/tenerife/costa-adeje/costa-rocosa.webp"
+imagenAlt: "Rocky volcanic shoreline in Costa Adeje"
 galeria:
-  - src: "PENDIENTE:tortuga marina nadando en Costa Adeje"
-    alt: "Sea turtle swimming near the surface"
-  - src: "PENDIENTE:Puerto Colón Costa Adeje"
-    alt: "Puerto Colón in Costa Adeje"
-  - src: "PENDIENTE:bautismo de buceo con monitor"
-    alt: "Dive instructor with a beginner underwater"
-  - src: "PENDIENTE:fondo volcánico con peces en Tenerife"
-    alt: "Volcanic seabed with fish in Tenerife"
-  - src: "PENDIENTE:esnórquel en el sur de Tenerife"
-    alt: "People snorkelling in southern Tenerife"
+  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
+    alt: "Costa Adeje beach with the mountains behind"
+  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
+    alt: "View of the Costa Adeje coastline"
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

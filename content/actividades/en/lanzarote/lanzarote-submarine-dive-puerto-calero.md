@@ -87,18 +87,14 @@ keywords:
 imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: The Puerto Calero submarine on the surface before diving
 galeria:
-- src: "PENDIENTE:Puerto Calero"
-  alt: Puerto Calero marina with its moored boats
-- src: "PENDIENTE:submarino ventanas peces"
-  alt: Fish seen through a submarine window
-- src: "PENDIENTE:Puerto Calero paseo"
-  alt: The promenade beside Puerto Calero marina
-- src: "PENDIENTE:pecio fondo marino Lanzarote"
-  alt: The remains of a shipwreck on the Lanzarote seabed
-- src: "PENDIENTE:Puerto del Carmen"
-  alt: The seafront and beach at Puerto del Carmen
-- src: "PENDIENTE:submarino interior"
-  alt: Passengers looking out of the windows inside the submarine
+- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
+  alt: "Boats moored at Marina Rubicón, Playa Blanca"
+- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
+  alt: "Fishing boats in Arrecife, Lanzarote's capital"
+- src: "/images/actividades/lanzarote/zonas/arrecife-casas.webp"
+  alt: "White houses by the water in Arrecife"
+- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
+  alt: "Lanzarote's south coast by the Papagayo beaches"
 ratingProveedor: 4.6
 numeroOpiniones: 1562
 atraccionesRelacionadas:

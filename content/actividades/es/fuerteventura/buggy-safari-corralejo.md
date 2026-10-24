@@ -85,18 +85,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
 imagenAlt: "Buggy por una pista de tierra en el norte de Fuerteventura"
 galeria:
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "Las Dunas de Corralejo"
-- src: "PENDIENTE:buggy pistas Fuerteventura"
-  alt: "Buggies en fila por una pista volcánica"
-- src: "PENDIENTE:Isla de Lobos"
-  alt: "La Isla de Lobos vista desde el norte de Fuerteventura"
-- src: "PENDIENTE:Calderón Hondo"
-  alt: "El volcán Calderón Hondo, en el norte de la isla"
-- src: "PENDIENTE:Lajares"
-  alt: "Paisaje volcánico cerca de Lajares"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "El puerto de Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp"
+  alt: "Dunas y matorral en el Parque Natural de Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
+  alt: "Paseo por las dunas blancas de Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
+  alt: "La Isla de Lobos desde la costa de Fuerteventura"
+- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
+  alt: "Conos volcánicos en el norte de Fuerteventura"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
+  alt: "Barcos en el puerto de Corralejo"
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

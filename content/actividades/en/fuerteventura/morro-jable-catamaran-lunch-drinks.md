@@ -80,18 +80,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
 imagenAlt: "Catamaran sailing off the Jandía coast"
 galeria:
-- src: "PENDIENTE:costa de Jandía"
-  alt: "The southern coast of the Jandía peninsula from the sea"
-- src: "PENDIENTE:delfines Fuerteventura"
-  alt: "Dolphins in the waters off Fuerteventura"
-- src: "PENDIENTE:Puerto de Morro Jable"
-  alt: "Morro Jable harbour"
-- src: "PENDIENTE:baño desde barco Jandía"
-  alt: "Swimming in turquoise water from a boat off Jandía"
-- src: "PENDIENTE:Playa del Matorral"
-  alt: "Playa del Matorral in Morro Jable"
-- src: "PENDIENTE:faro de Morro Jable"
-  alt: "Morro Jable lighthouse by the beach"
+- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
+  alt: "The Jandía coast with the lighthouse in the distance"
+- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
+  alt: "Morro Jable and Matorral beach seen from the hills"
+- src: "/images/actividades/fuerteventura/zonas/macizo-jandia.webp"
+  alt: "The Jandía massif with clouds over the peaks"
+- src: "/images/actividades/fuerteventura/zonas/costa-jandia.webp"
+  alt: "Jandía's windward coast"
+- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
+  alt: "Morro Jable lighthouse among the salt-marsh scrub"
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

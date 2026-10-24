@@ -80,18 +80,16 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: Guagua de la Ruta de los Volcanes entre cráteres en Timanfaya
 galeria:
-- src: "PENDIENTE:Islote de Hilario géiser"
-  alt: Demostración geotérmica con un chorro de vapor en el Islote de Hilario
-- src: "PENDIENTE:Timanfaya Montañas del Fuego"
-  alt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
-- src: "PENDIENTE:camellos Timanfaya"
-  alt: Caravana de camellos en las laderas de Timanfaya
-- src: "PENDIENTE:Timanfaya campo de lava"
-  alt: Campo de lava solidificada en el Parque Nacional de Timanfaya
-- src: "PENDIENTE:restaurante El Diablo parrilla"
-  alt: Parrilla sobre el calor volcánico en el restaurante El Diablo
-- src: "PENDIENTE:Yaiza"
-  alt: Casas blancas del pueblo de Yaiza
+- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp"
+  alt: "Caravana de camellos en las laderas de Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp"
+  alt: "Camellos cruzando la ceniza volcánica de Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/timanfaya-lava.webp"
+  alt: "Campo de lava y volcanes en Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/volcan-rojo.webp"
+  alt: "Volcán de tierra roja en Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/camellos-echadero.webp"
+  alt: "Camellos esperando a los visitantes en el Echadero de Timanfaya"
 ratingProveedor: 4.4
 numeroOpiniones: 2855
 atraccionesRelacionadas:

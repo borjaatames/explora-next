@@ -81,20 +81,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/ferry-lobos.webp
 imagenAlt: "Passenger ferry between Corralejo and Lobos Island"
 galeria:
-- src: "PENDIENTE:Isla de Lobos"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp"
+  alt: "Aerial view of Lobos Island"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp"
+  alt: "Lobos Island's rocky coast from the air"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
   alt: "Lobos Island seen from the sea"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "Corralejo harbour, where the boats to Lobos leave from"
-- src: "PENDIENTE:playa de La Concha Lobos"
-  alt: "La Concha beach on Lobos Island"
-- src: "PENDIENTE:faro de Martiño"
-  alt: "Martiño lighthouse at the northern tip of Lobos"
-- src: "PENDIENTE:montaña de La Caldera Lobos"
-  alt: "La Caldera mountain, the highest point on Lobos"
-- src: "PENDIENTE:El Puertito de Lobos"
-  alt: "The fishermen's huts at El Puertito on Lobos"
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "The Corralejo Dunes, opposite Lobos Island"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
+  alt: "Excursion boats in Corralejo harbour"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
+  alt: "Corralejo dunes with Lobos and Lanzarote on the horizon"
 ratingProveedor: 4.7
 numeroOpiniones: 1425
 atraccionesRelacionadas:

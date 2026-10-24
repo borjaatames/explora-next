@@ -79,19 +79,13 @@ keywords:
   - "jet ski no licence tenerife"
   - "jet ski safari costa del silencio"
   - "marina san miguel jet ski"
-imagen: "PENDIENTE:moto de agua costa sur de Tenerife"
-imagenAlt: "Jet skis riding along the volcanic coast of southern Tenerife"
+imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
+imagenAlt: "A jet ski riding the waves"
 galeria:
-  - src: "PENDIENTE:grupo de motos de agua con monitor"
-    alt: "Group of jet skis following the instructor"
-  - src: "PENDIENTE:Montaña Roja de El Médano desde el mar"
-    alt: "Montaña Roja seen from the sea"
-  - src: "PENDIENTE:moto de agua con dos personas"
-    alt: "Jet ski with a driver and passenger"
-  - src: "PENDIENTE:Montaña Amarilla en Costa del Silencio"
-    alt: "Montaña Amarilla by the sea in Costa del Silencio"
-  - src: "PENDIENTE:Marina San Miguel"
-    alt: "Marina San Miguel"
+  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
+    alt: "Costa Adeje beach with the mountains behind"
+  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
+    alt: "View of the Costa Adeje coastline"
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

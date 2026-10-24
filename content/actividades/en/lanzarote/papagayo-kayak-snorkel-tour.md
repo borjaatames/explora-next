@@ -82,18 +82,16 @@ keywords:
 imagen: /images/actividades/lanzarote/kayak-papagayo.webp
 imagenAlt: Kayaks on the turquoise water of Papagayo bay
 galeria:
-- src: "PENDIENTE:Playas de Papagayo"
-  alt: A Papagayo cove with turquoise water between cliffs
-- src: "PENDIENTE:esnórquel Papagayo"
-  alt: A snorkeller in the clear water at Papagayo
-- src: "PENDIENTE:Los Ajaches"
-  alt: The Los Ajaches cliffs above the Papagayo coves
-- src: "PENDIENTE:kayak cuevas marinas Papagayo"
-  alt: A kayak beside a sea cave on the Papagayo coast
-- src: "PENDIENTE:Playa Blanca"
-  alt: The seafront at Playa Blanca in southern Lanzarote
-- src: "PENDIENTE:kayak grupo Papagayo"
-  alt: A group of kayaks paddling along Lanzarote's south coast
+- src: "/images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp"
+  alt: "Golden sand and calm water on a Papagayo beach"
+- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
+  alt: "A Papagayo cove with turquoise water and volcanic rocks"
+- src: "/images/actividades/lanzarote/zonas/papagayo-acantilado.webp"
+  alt: "Cliff and beach at Papagayo, in Los Ajaches"
+- src: "/images/actividades/lanzarote/zonas/papagayo-orilla.webp"
+  alt: "Shoreline of a Papagayo beach with cliffs behind"
+- src: "/images/actividades/lanzarote/zonas/playa-blanca.webp"
+  alt: "The beach at Playa Blanca, in southern Lanzarote"
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

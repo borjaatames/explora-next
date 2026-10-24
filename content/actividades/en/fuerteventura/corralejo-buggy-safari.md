@@ -85,18 +85,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
 imagenAlt: "Buggy on a dirt track in northern Fuerteventura"
 galeria:
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "The Corralejo Dunes"
-- src: "PENDIENTE:buggy pistas Fuerteventura"
-  alt: "Buggies in a line on a volcanic track"
-- src: "PENDIENTE:Isla de Lobos"
-  alt: "Lobos Island seen from northern Fuerteventura"
-- src: "PENDIENTE:Calderón Hondo"
-  alt: "The Calderón Hondo volcano in the north of the island"
-- src: "PENDIENTE:Lajares"
-  alt: "Volcanic landscape near Lajares"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "Corralejo harbour"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp"
+  alt: "Dunes and scrub in Corralejo Natural Park"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
+  alt: "Walking across the white dunes of Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
+  alt: "Lobos Island from the Fuerteventura coast"
+- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
+  alt: "Volcanic cones in northern Fuerteventura"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
+  alt: "Boats in Corralejo harbour"
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

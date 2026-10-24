@@ -76,19 +76,9 @@ keywords:
 - aqualand maspalomas entradas
 - parque acuatico gran canaria
 - toboganes maspalomas
-imagen: "PENDIENTE:toboganes de Aqualand Maspalomas"
-imagenAlt: Toboganes del parque acuático Aqualand Maspalomas
+imagen: "/images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp"
+imagenAlt: "Toboganes y piscina de Aqualand Maspalomas"
 galeria:
-- src: "PENDIENTE:tobogán Anaconda de Aqualand Maspalomas"
-  alt: El tobogán Anaconda en Aqualand Maspalomas
-- src: "PENDIENTE:piscina y jardines de Aqualand Maspalomas"
-  alt: Piscina y jardines de Aqualand Maspalomas
-- src: "PENDIENTE:Paraíso Infantil de Aqualand Maspalomas"
-  alt: Zona infantil de Aqualand Maspalomas
-- src: "PENDIENTE:zona Polinesia y jardines de Aqualand Maspalomas"
-  alt: Zona de la Polinesia en Aqualand Maspalomas
-- src: "PENDIENTE:vista general de Aqualand Maspalomas"
-  alt: Vista general del parque acuático Aqualand Maspalomas
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

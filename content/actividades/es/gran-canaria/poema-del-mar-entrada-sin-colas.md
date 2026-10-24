@@ -68,19 +68,17 @@ keywords:
 - acuario las palmas
 - poema del mar gran canaria
 - acuario gran canaria
-imagen: "PENDIENTE:ventana curva del acuario Poema del Mar"
-imagenAlt: La gran ventana curva del acuario Poema del Mar
+imagen: "/images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp"
+imagenAlt: "La gran ventana curva del acuario Poema del Mar"
 galeria:
-- src: "PENDIENTE:exterior del acuario Poema del Mar en el Muelle Sanapú"
-  alt: Edificio del acuario Poema del Mar en el puerto de Las Palmas
-- src: "PENDIENTE:cilindro Arrecife del Poema del Mar"
-  alt: El cilindro de agua de Arrecife en Poema del Mar
-- src: "PENDIENTE:zona La Jungla del Poema del Mar"
-  alt: La zona de La Jungla en el acuario Poema del Mar
-- src: "PENDIENTE:exposición El Veril del Poema del Mar"
-  alt: Especies canarias en la exposición El Veril
-- src: "PENDIENTE:exposición de mar profundo del Poema del Mar"
-  alt: Exposición de mar profundo en Poema del Mar
+- src: "/images/actividades/gran-canaria/poema-del-mar/arrecife.webp"
+  alt: "Peces tropicales en el arrecife del Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/tunel.webp"
+  alt: "Túnel submarino entre peces en el Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp"
+  alt: "Tiburones y rayas sobre el túnel del Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/la-jungla.webp"
+  alt: "Peces bajo las raíces de la zona La Jungla del Poema del Mar"
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

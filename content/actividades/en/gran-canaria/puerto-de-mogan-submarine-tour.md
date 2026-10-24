@@ -76,8 +76,8 @@ keywords:
 - puerto de mogan submarine
 - submarine adventure gran canaria
 - things to do in puerto de mogan
-imagen: "PENDIENTE:submarino amarillo Puerto de Mogán"
-imagenAlt: The yellow submarine leaving Puerto de Mogán
+imagen: "/images/actividades/gran-canaria/submarino-mogan/submarino-saliendo.webp"
+imagenAlt: "The yellow submarine sailing off Puerto de Mogán"
 galeria:
 - src: /images/actividades/gran-canaria/mogan/mogan-aerea.webp
   alt: Aerial view of Puerto de Mogán and the south breakwater where the submarine departs
@@ -93,6 +93,10 @@ galeria:
   alt: Bougainvillea on the houses of Puerto de Mogán
 - src: /images/actividades/gran-canaria/mogan/mogan-paseo.webp
   alt: Promenade by the harbour in Mogán
+- src: "/images/actividades/gran-canaria/submarino-mogan/submarino-puerto.webp"
+  alt: "The yellow submarine in Puerto de Mogán harbour"
+- src: "/images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp"
+  alt: "Close-up of the Mogán yellow submarine"
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:

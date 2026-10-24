@@ -85,18 +85,18 @@ keywords:
 imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
 imagenAlt: Catamarán fondeado frente a la costa de La Graciosa
 galeria:
-- src: "PENDIENTE:Caleta de Sebo"
-  alt: Casas blancas y calles de arena en Caleta de Sebo
-- src: "PENDIENTE:kayak La Graciosa"
-  alt: Kayaks en el agua turquesa de La Graciosa
-- src: "PENDIENTE:Playa Francesa"
-  alt: Playa Francesa, en el sur de La Graciosa
-- src: "PENDIENTE:esnórquel La Graciosa"
-  alt: Bañistas haciendo esnórquel junto a un barco en La Graciosa
-- src: "PENDIENTE:La Graciosa"
-  alt: La isla de La Graciosa vista desde el Risco de Famara
-- src: "PENDIENTE:Órzola puerto"
-  alt: El puerto de Órzola, de donde salen los ferris a La Graciosa
+- src: "/images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp"
+  alt: "La Graciosa y su montaña rodeadas de mar azul"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp"
+  alt: "Puerto de Caleta de Sebo bajo el Risco de Famara"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp"
+  alt: "Casas blancas y calles de arena en Caleta de Sebo"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp"
+  alt: "Paseo junto al mar en Caleta de Sebo, La Graciosa"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp"
+  alt: "Barcos en el puerto de La Graciosa"
+- src: "/images/actividades/lanzarote/zonas/la-graciosa-aerea.webp"
+  alt: "La Graciosa y Caleta de Sebo vistas desde lo alto"
 ratingProveedor: 4.6
 numeroOpiniones: 2132
 atraccionesRelacionadas:

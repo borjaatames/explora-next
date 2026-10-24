@@ -82,18 +82,16 @@ keywords:
 imagen: /images/actividades/lanzarote/kayak-papagayo.webp
 imagenAlt: Kayaks en el agua turquesa de la bahía de Papagayo
 galeria:
-- src: "PENDIENTE:Playas de Papagayo"
-  alt: Cala de Papagayo con agua turquesa entre acantilados
-- src: "PENDIENTE:esnórquel Papagayo"
-  alt: Persona haciendo esnórquel en el agua clara de Papagayo
-- src: "PENDIENTE:Los Ajaches"
-  alt: Acantilados de Los Ajaches sobre las calas de Papagayo
-- src: "PENDIENTE:kayak cuevas marinas Papagayo"
-  alt: Kayak junto a una cueva marina en la costa de Papagayo
-- src: "PENDIENTE:Playa Blanca"
-  alt: Paseo marítimo de Playa Blanca, en el sur de Lanzarote
-- src: "PENDIENTE:kayak grupo Papagayo"
-  alt: Grupo de kayaks remando por la costa sur de Lanzarote
+- src: "/images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp"
+  alt: "Playa de arena dorada y agua tranquila en Papagayo"
+- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
+  alt: "Cala de Papagayo con aguas turquesa y rocas volcánicas"
+- src: "/images/actividades/lanzarote/zonas/papagayo-acantilado.webp"
+  alt: "Acantilado y playa de Papagayo, en Los Ajaches"
+- src: "/images/actividades/lanzarote/zonas/papagayo-orilla.webp"
+  alt: "Orilla de una playa de Papagayo con acantilados al fondo"
+- src: "/images/actividades/lanzarote/zonas/playa-blanca.webp"
+  alt: "La playa de Playa Blanca, en el sur de Lanzarote"
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

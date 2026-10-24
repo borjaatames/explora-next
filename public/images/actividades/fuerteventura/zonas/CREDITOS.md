@@ -1,0 +1,50 @@
+# Créditos de fotos — Fuerteventura (zonas)
+
+Recortadas a 1600×1200 y convertidas a WebP.
+
+- `bahia-corralejo.webp` — Wikimedia Commons, Andy Mitchell from Glasgow, UK (CC BY-SA 2.0) — https://commons.wikimedia.org/wiki/File:Corralejo_Harbour_%282855423035%29.jpg
+- `betancuria-calle.webp` — Pixabay, esthervangeffen (Pixabay Content License) — https://pixabay.com/photos/fuerteventura-409027/
+- `betancuria-iglesia.webp` — Wikimedia Commons, Holger Uwe Schmitt (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:%2B_Betancuria_war_fr%C3%BCher_die_Hauptstadt_der_Insel_Fuerteventura._11.jpg
+- `calderon-hondo-borde.webp` — Wikimedia Commons, Alexey Komarov (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Calder%C3%B3n_Hondo%2C_Fuerteventura_2023-09-09-8.jpg
+- `calderon-hondo-crater.webp` — Wikimedia Commons, Alexey Komarov (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Calder%C3%B3n_Hondo%2C_Fuerteventura_2023-09-09-2.jpg
+- `cofete-cresta.webp` — Pexels, SlimMars 13 (Pexels License) — https://www.pexels.com/photo/15502399/
+- `cofete-mirador.webp` — Pexels, SlimMars 13 (Pexels License) — https://www.pexels.com/photo/15502395/
+- `cofete-montanas.webp` — Wikimedia Commons, dronepicr (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:The_North_Atlantic_Ocean_at_Playa_de_Cofete_on_Fuerteventura%2C_Canary_Islands.jpg
+- `cofete-pico.webp` — Wikimedia Commons, dronepicr (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Clouds_over_Playa_de_Cofete_on_Fuerteventura%2C_Canary_Islands.jpg
+- `cofete-playa.webp` — Wikimedia Commons, dronepicr (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Aerial_view_of_Playa_de_Cofete_at_the_foot_of_Monta%C3%B1a_Aguda_on_Fuerteventura%2C_Canary_Islands.jpg
+- `costa-jandia.webp` — Pexels, Magic K (Pexels License) — https://www.pexels.com/photo/6725972/
+- `cuevas-de-ajuy.webp` — Wikimedia Commons, Bengt Nyman (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Cuevas_de_Ajuy_2016_03.jpg
+- `dunas-corralejo.webp` — Wikimedia Commons, Pablosievert (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Dunas_de_Corralejo.jpg
+- `dunas-corralejo-arena.webp` — Wikimedia Commons, Benjamín Núñez González (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Arena%2C_Dunas_de_Corralejo%2C_Fuerteventura%2C_Espa%C3%B1a%2C_2015.JPG
+- `dunas-corralejo-mar.webp` — Pixabay, majorero11 (Pixabay Content License) — https://pixabay.com/photos/dunes-2171299/
+- `dunas-corralejo-matas.webp` — Wikimedia Commons, Benjamín Núñez González (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Matas%2C_Dunas_de_Corralejo%2C_Fuerteventura%2C_Espa%C3%B1a%2C_2015.JPG
+- `dunas-corralejo-paseo.webp` — Pexels, Miriam Espacio (Pexels License) — https://www.pexels.com/photo/21821539/
+- `dunas-corralejo-vegetacion.webp` — Wikimedia Commons, Benjamín Núñez González (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Atardecer%2C_Dunas_de_Corralejo%2C_Fuerteventura%2C_Espa%C3%B1a%2C_2015.JPG
+- `el-cotillo.webp` — Wikimedia Commons, Photograph by Mike Peel (www.mikepeel.net). (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:At_El_Cotillo_2022_011.jpg
+- `el-cotillo-puerto.webp` — Wikimedia Commons, Photograph by Mike Peel (www.mikepeel.net). (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:At_El_Cotillo_2022_029.jpg
+- `faro-martino.webp` — Wikimedia Commons, Priscilla Jordão (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Faro_de_Isla_de_Lobos.jpg
+- `faro-matorral.webp` — Pixabay, Mylene2401 (Pixabay Content License) — https://pixabay.com/photos/fuerteventura-9237197/
+- `faro-morro-jable.webp` — Wikimedia Commons, Dietmar Rabich (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Leuchtturm_--_2025_--_2431.jpg
+- `isla-de-lobos.webp` — Pexels, Lukas Baranauskas (Pexels License) — https://www.pexels.com/photo/25742696/
+- `isla-de-lobos-aerea.webp` — Wikimedia Commons, Jimmy Baikovicius from Montevideo, Uruguay (CC BY-SA 2.0) — https://commons.wikimedia.org/wiki/File:Isla_de_Lobos_a%C3%A9rea.jpg
+- `isla-de-lobos-atardecer.webp` — Pexels, Carlos Mazorra (Pexels License) — https://www.pexels.com/photo/19039383/
+- `isla-de-lobos-costa.webp` — Wikimedia Commons, Jimmy Baikovicius from Montevideo, Uruguay (CC BY-SA 2.0) — https://commons.wikimedia.org/wiki/File:Isla_de_Lobos_a%C3%A9rea_-_detalle.jpg
+- `isla-de-lobos-kitesurf.webp` — Pixabay, Ben_Kerckx (Pixabay Content License) — https://pixabay.com/photos/sand-castle-421483/
+- `isla-de-lobos-mar.webp` — Pexels, Lukas Baranauskas (Pexels License) — https://www.pexels.com/photo/25742727/
+- `jandia-costa.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Morro_Jable_-_view_from_Talahijas.jpg
+- `macizo-jandia.webp` — Pixabay, GerhardZinn (Pixabay Content License) — https://pixabay.com/photos/spain-7254308/
+- `montana-caldera-lobos.webp` — Wikimedia Commons, Bengt Nyman (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Isla_de_Lobos_Spain_2016_05.jpg
+- `morro-jable-playa.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Morro_Jable_-_Panorama_from_Talahijas.jpg
+- `oasis-park-cactus.webp` — Wikimedia Commons, Llez (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Echinocactus_grusonii_-_Oasis_Park_-_001.jpg
+- `oasis-park-camellos.webp` — Wikimedia Commons, Norbert Nagel, Mörfelden-Walldorf, Germany (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Camelus_dromedarius_-_dromedary_-_Dromedar_-_dromadaire_-_Oasis_Park_-_Fuerteventura_-_01.jpg
+- `oasis-park-entrada.webp` — Wikimedia Commons, Frank Vincentz (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:P%C3%A1jara_La_Lajita_-_Oasis_Park_16_ies.jpg
+- `oasis-park-flamenco.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Phoeniconaias_minor_-_Oasis_Park_-_01.jpg
+- `oasis-park-suricatas.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Suricata_suricatta_-_Oasis_Park_-_Fuerteventura.jpg
+- `puerto-corralejo.webp` — Wikimedia Commons, Jensibua (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Corralejo_hafen.jpg
+- `puerto-corralejo-barcos.webp` — Wikimedia Commons, Nick Hubbard (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Corralejo_Harbour_%283080640345%29.jpg
+- `sotavento-aerea.webp` — Wikimedia Commons, dirkvorderstrasse (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Luftbild_Playa_de_Sotavento%2C_Lagune_-_51511166127.jpg
+- `sotavento-laguna.webp` — Wikimedia Commons, dirkvorderstrasse (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Luftbild_Playa_de_Sotavento%2C_Lagune_-_51512665394.jpg
+- `villa-winter.webp` — Wikimedia Commons, Norbert Nagel (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Casa_de_los_Winter_-_El_Cofete_-_Jandia_-_Fuerteventura_-_21.jpg
+- `villa-winter-fachada.webp` — Wikimedia Commons, Norbert Nagel (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Casa_de_los_Winter_-_El_Cofete_-_Jandia_-_Fuerteventura_-_24.jpg
+- `villa-winter-ladera.webp` — Wikimedia Commons, Norbert Nagel (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Casa_de_los_Winter_-_El_Cofete_-_Jandia_-_Fuerteventura_-_01.jpg
+- `volcanes-norte.webp` — Wikimedia Commons, Matzetatz (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Calderon_Hondo.jpg

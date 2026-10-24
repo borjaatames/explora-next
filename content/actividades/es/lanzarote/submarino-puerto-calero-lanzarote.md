@@ -87,18 +87,14 @@ keywords:
 imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: El submarino de Puerto Calero en la superficie antes de sumergirse
 galeria:
-- src: "PENDIENTE:Puerto Calero"
-  alt: La marina de Puerto Calero con sus barcos amarrados
-- src: "PENDIENTE:submarino ventanas peces"
-  alt: Peces vistos a través de una ventana del submarino
-- src: "PENDIENTE:Puerto Calero paseo"
-  alt: Paseo junto al puerto deportivo de Puerto Calero
-- src: "PENDIENTE:pecio fondo marino Lanzarote"
-  alt: Restos de un barco hundido en el fondo marino de Lanzarote
-- src: "PENDIENTE:Puerto del Carmen"
-  alt: Paseo marítimo y playa de Puerto del Carmen
-- src: "PENDIENTE:submarino interior"
-  alt: Pasajeros mirando por las ventanas dentro del submarino
+- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
+  alt: "Barcos amarrados en la Marina Rubicón, en Playa Blanca"
+- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
+  alt: "Barcas de pesca en Arrecife, la capital de Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/arrecife-casas.webp"
+  alt: "Casas blancas junto al agua en Arrecife"
+- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
+  alt: "Costa sur de Lanzarote junto a las playas de Papagayo"
 ratingProveedor: 4.6
 numeroOpiniones: 1562
 atraccionesRelacionadas:

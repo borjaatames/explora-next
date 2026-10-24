@@ -81,18 +81,14 @@ keywords:
 imagen: /images/actividades/lanzarote/barco-delfines.webp
 imagenAlt: Delfines nadando junto a un catamarán
 galeria:
-- src: "PENDIENTE:atardecer catamarán Lanzarote"
-  alt: Catamarán navegando al atardecer frente a la costa de Lanzarote
-- src: "PENDIENTE:Puerto del Carmen"
-  alt: Paseo marítimo y playa de Puerto del Carmen
-- src: "PENDIENTE:delfines Lanzarote"
-  alt: Delfín saltando en aguas de Lanzarote
-- src: "PENDIENTE:Puerto del Carmen puerto"
-  alt: Barcos amarrados en el puerto de Puerto del Carmen
-- src: "PENDIENTE:baño desde catamarán"
-  alt: Bañistas en el agua junto a un catamarán
-- src: "PENDIENTE:costa sur Lanzarote atardecer"
-  alt: La costa sur de Lanzarote al atardecer
+- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
+  alt: "Costa sur de Lanzarote junto a las playas de Papagayo"
+- src: "/images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp"
+  alt: "Barcas en el Charco de San Ginés, en Arrecife"
+- src: "/images/actividades/lanzarote/zonas/casas-blancas-mar.webp"
+  alt: "Casas blancas de puertas azules frente al mar en Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/los-hervideros.webp"
+  alt: "Acantilados de lava en Los Hervideros, con volcanes al fondo"
 ratingProveedor: 4.2
 numeroOpiniones: 3237
 atraccionesRelacionadas:

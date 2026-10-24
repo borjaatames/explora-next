@@ -86,18 +86,16 @@ keywords:
 imagen: /images/actividades/lanzarote/buggy-volcanes.webp
 imagenAlt: Buggy por una pista de tierra entre volcanes en Lanzarote
 galeria:
-- src: "PENDIENTE:buggy pista de tierra Lanzarote"
-  alt: Buggies avanzando por una pista de tierra en el norte de Lanzarote
-- src: "PENDIENTE:Peñas del Chache"
-  alt: Vistas desde las Peñas del Chache, el punto más alto de Lanzarote
-- src: "PENDIENTE:buggy grupo Lanzarote"
-  alt: Grupo de buggies parado en un mirador de Lanzarote
-- src: "PENDIENTE:Guatiza tuneras"
-  alt: Campos de tuneras en Guatiza
-- src: "PENDIENTE:buggy conductor gafas"
-  alt: Conductor de buggy con gafas protectoras contra el polvo
-- src: "PENDIENTE:Risco de Famara"
-  alt: El Risco de Famara, en el norte de Lanzarote
+- src: "/images/actividades/lanzarote/zonas/guatiza-cactus.webp"
+  alt: "Cactus entre rocas volcánicas en Guatiza, al norte de Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/molino-jardin-cactus.webp"
+  alt: "Molino blanco sobre el Jardín de Cactus de Guatiza"
+- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp"
+  alt: "La Graciosa y el estrecho de El Río desde el Mirador del Río"
+- src: "/images/actividades/lanzarote/zonas/casa-tradicional-verde.webp"
+  alt: "Casa tradicional encalada con balcón de madera verde"
+- src: "/images/actividades/lanzarote/zonas/cultivos-lava.webp"
+  alt: "Cultivos sobre ceniza volcánica con montañas al fondo"
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

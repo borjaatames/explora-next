@@ -81,20 +81,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/ferry-lobos.webp
 imagenAlt: "Ferri de pasajeros entre Corralejo y la Isla de Lobos"
 galeria:
-- src: "PENDIENTE:Isla de Lobos"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp"
+  alt: "Vista aérea de la Isla de Lobos"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp"
+  alt: "Costa rocosa de la Isla de Lobos desde el aire"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
   alt: "La Isla de Lobos vista desde el mar"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "El puerto de Corralejo, de donde salen los barcos a Lobos"
-- src: "PENDIENTE:playa de La Concha Lobos"
-  alt: "Playa de La Concha, en la Isla de Lobos"
-- src: "PENDIENTE:faro de Martiño"
-  alt: "El faro de Martiño, en el extremo norte de Lobos"
-- src: "PENDIENTE:montaña de La Caldera Lobos"
-  alt: "La montaña de La Caldera, el punto más alto de Lobos"
-- src: "PENDIENTE:El Puertito de Lobos"
-  alt: "Las casas de pescadores de El Puertito, en Lobos"
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "Las Dunas de Corralejo, frente a la Isla de Lobos"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
+  alt: "Barcos de excursión en el puerto de Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
+  alt: "Dunas de Corralejo con Lobos y Lanzarote en el horizonte"
 ratingProveedor: 4.7
 numeroOpiniones: 1425
 atraccionesRelacionadas:

@@ -80,18 +80,18 @@ keywords:
 imagen: /images/actividades/lanzarote/tour-dia-completo.webp
 imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
 galeria:
-- src: "PENDIENTE:El Golfo Charco de los Clicos"
-  alt: The green Charco de los Clicos lagoon beside El Golfo beach
-- src: "PENDIENTE:Cueva de los Verdes"
-  alt: A lit gallery inside Cueva de los Verdes
-- src: "PENDIENTE:La Geria viñedos"
-  alt: Vines planted in pits of volcanic ash at La Geria
-- src: "PENDIENTE:Jameos del Agua"
-  alt: The inner lake of Jameos del Agua inside a lava tube
-- src: "PENDIENTE:Haría"
-  alt: The Haría valley with its palm trees and white houses
-- src: "PENDIENTE:Islote de Hilario géiser"
-  alt: A geothermal demonstration with a jet of steam at Islote de Hilario
+- src: "/images/actividades/lanzarote/zonas/la-geria-bodega.webp"
+  alt: "La Geria vineyards at the foot of the volcanoes"
+- src: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
+  alt: "The El Golfo crater open to the sea, with its green lagoon"
+- src: "/images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp"
+  alt: "The Jameos del Agua pool among palm trees"
+- src: "/images/actividades/lanzarote/zonas/teguise-plaza.webp"
+  alt: "Square and church of Nuestra Señora de Guadalupe in Teguise"
+- src: "/images/actividades/lanzarote/zonas/los-hervideros-cueva.webp"
+  alt: "Turquoise sea entering a lava cave at Los Hervideros"
+- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp"
+  alt: "La Graciosa seen from northern Lanzarote"
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

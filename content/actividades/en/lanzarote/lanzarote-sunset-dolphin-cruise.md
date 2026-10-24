@@ -81,18 +81,14 @@ keywords:
 imagen: /images/actividades/lanzarote/barco-delfines.webp
 imagenAlt: Dolphins swimming beside a catamaran
 galeria:
-- src: "PENDIENTE:atardecer catamarán Lanzarote"
-  alt: A catamaran sailing at sunset off the coast of Lanzarote
-- src: "PENDIENTE:Puerto del Carmen"
-  alt: The seafront and beach at Puerto del Carmen
-- src: "PENDIENTE:delfines Lanzarote"
-  alt: A dolphin leaping in Lanzarote waters
-- src: "PENDIENTE:Puerto del Carmen puerto"
-  alt: Boats moored in Puerto del Carmen harbour
-- src: "PENDIENTE:baño desde catamarán"
-  alt: Swimmers in the water beside a catamaran
-- src: "PENDIENTE:costa sur Lanzarote atardecer"
-  alt: Lanzarote's south coast at sunset
+- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
+  alt: "Lanzarote's south coast by the Papagayo beaches"
+- src: "/images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp"
+  alt: "Boats in the Charco de San Ginés, Arrecife"
+- src: "/images/actividades/lanzarote/zonas/casas-blancas-mar.webp"
+  alt: "White houses with blue doors facing the sea in Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/los-hervideros.webp"
+  alt: "Lava cliffs at Los Hervideros with volcanoes behind"
 ratingProveedor: 4.2
 numeroOpiniones: 3237
 atraccionesRelacionadas:

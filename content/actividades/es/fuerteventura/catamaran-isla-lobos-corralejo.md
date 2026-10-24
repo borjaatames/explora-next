@@ -78,20 +78,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/catamaran-lobos.webp
 imagenAlt: "Catamarán fondeado frente a la Isla de Lobos"
 galeria:
-- src: "PENDIENTE:playa de La Concha Lobos"
-  alt: "Playa de La Concha, en la Isla de Lobos"
-- src: "PENDIENTE:esnórquel Lobos"
-  alt: "Esnórquel en aguas turquesa de Lobos"
-- src: "PENDIENTE:Isla de Lobos"
-  alt: "La Isla de Lobos vista desde el mar"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "El puerto de Corralejo"
-- src: "PENDIENTE:montaña de La Caldera Lobos"
-  alt: "La montaña de La Caldera, en Lobos"
-- src: "PENDIENTE:kayak Lobos"
-  alt: "Kayak junto a la costa de Lobos"
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "Las Dunas de Corralejo vistas desde el mar"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-kitesurf.webp"
+  alt: "La Isla de Lobos frente a la playa, con kitesurfistas"
+- src: "/images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp"
+  alt: "La montaña de La Caldera en la Isla de Lobos"
+- src: "/images/actividades/fuerteventura/zonas/faro-martino.webp"
+  alt: "El faro de Martiño en la Isla de Lobos"
+- src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
+  alt: "Bahía de Corralejo con Lobos al fondo"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp"
+  alt: "La Isla de Lobos al atardecer"
 ratingProveedor: 4.8
 numeroOpiniones: 1183
 atraccionesRelacionadas:

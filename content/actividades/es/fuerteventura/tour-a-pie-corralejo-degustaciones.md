@@ -76,18 +76,14 @@ keywords:
 imagen: /images/actividades/fuerteventura/corralejo-walking.webp
 imagenAlt: "Calle del casco antiguo de Corralejo junto al mar"
 galeria:
-- src: "PENDIENTE:papas arrugadas con mojo"
-  alt: "Papas arrugadas con mojo rojo y verde"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "El puerto de Corralejo"
-- src: "PENDIENTE:queso majorero"
-  alt: "Queso majorero de cabra"
-- src: "PENDIENTE:playa urbana Corralejo"
-  alt: "Playa urbana en el casco antiguo de Corralejo"
-- src: "PENDIENTE:El Campanario Corralejo"
-  alt: "La torre del Centro Comercial El Campanario, en Corralejo"
-- src: "PENDIENTE:Isla de Lobos"
-  alt: "La Isla de Lobos vista desde Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
+  alt: "Barcos en el puerto de Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
+  alt: "Barcos de excursión en el puerto de Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
+  alt: "La Isla de Lobos desde la costa de Fuerteventura"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
+  alt: "Paseo por las dunas blancas de Corralejo"
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

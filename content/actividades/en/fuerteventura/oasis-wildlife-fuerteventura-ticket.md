@@ -74,20 +74,18 @@ keywords:
 imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: "Animal enclosure at Oasis Wildlife Fuerteventura"
 galeria:
-- src: "PENDIENTE:jirafas Oasis Park"
-  alt: "Giraffes at Oasis Wildlife Fuerteventura"
-- src: "PENDIENTE:Sotavento"
-  alt: "The Sotavento beaches, south of La Lajita"
-- src: "PENDIENTE:camellos Oasis Park"
-  alt: "Camels at Oasis Wildlife Fuerteventura"
-- src: "PENDIENTE:Costa Calma"
-  alt: "Costa Calma in southern Fuerteventura"
-- src: "PENDIENTE:jardín botánico Oasis Park"
-  alt: "Cacti in the Oasis Wildlife botanical garden"
-- src: "PENDIENTE:Cuevas de Ajuy"
-  alt: "The Ajuy caves on the west coast"
-- src: "PENDIENTE:leones marinos Oasis Park"
-  alt: "Sea lion show at Oasis Wildlife"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-camellos.webp"
+  alt: "Camels at Oasis Park, La Lajita"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-cactus.webp"
+  alt: "The cactus garden at Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp"
+  alt: "A flamingo at Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp"
+  alt: "Meerkats at Oasis Park"
+- src: "/images/actividades/fuerteventura/zonas/oasis-park-entrada.webp"
+  alt: "Visitors in the Oasis Park gardens"
+- src: "/images/actividades/fuerteventura/zonas/sotavento-aerea.webp"
+  alt: "Aerial view of Sotavento beach and lagoon"
 ratingProveedor: 4.6
 numeroOpiniones: 3857
 atraccionesRelacionadas:

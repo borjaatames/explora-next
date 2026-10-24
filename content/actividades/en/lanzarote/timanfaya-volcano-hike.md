@@ -82,18 +82,18 @@ keywords:
 imagen: /images/actividades/lanzarote/senderismo-volcanes.webp
 imagenAlt: Hikers walking among volcanic cones in Lanzarote
 galeria:
-- src: "PENDIENTE:Parque Natural de los Volcanes"
-  alt: Volcanic cones and lava fields in the Parque Natural de los Volcanes
-- src: "PENDIENTE:sendero sobre lava Lanzarote"
-  alt: A trail crossing a lava flow in Lanzarote
-- src: "PENDIENTE:Caldera Blanca"
-  alt: The Caldera Blanca crater near Mancha Blanca
-- src: "PENDIENTE:vino malvasía volcánica"
-  alt: A glass of Lanzarote volcanic Malvasía white wine
-- src: "PENDIENTE:Timanfaya campo de lava"
-  alt: A field of solidified lava in Timanfaya National Park
-- src: "PENDIENTE:senderismo grupo volcanes"
-  alt: A small group of hikers with a guide on volcanic ground
+- src: "/images/actividades/lanzarote/zonas/sendero-volcan.webp"
+  alt: "Hiking trail along a volcano ridge in Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/volcan-vegetacion.webp"
+  alt: "Volcano and scrub on Lanzarote's lava field"
+- src: "/images/actividades/lanzarote/zonas/caldera-interior.webp"
+  alt: "Inside a volcanic caldera in Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/volcan-malpais.webp"
+  alt: "A volcano above the Timanfaya lava field"
+- src: "/images/actividades/lanzarote/zonas/ladera-volcanica.webp"
+  alt: "Volcanic slope covered in lichen at Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/carretera-volcanes.webp"
+  alt: "Straight road between lava and volcanoes in Lanzarote"
 ratingProveedor: 4.8
 numeroOpiniones: 990
 atraccionesRelacionadas:

@@ -79,21 +79,17 @@ keywords:
 - stargazing fuerteventura
 - fuerteventura volcano tour
 - lajares volcano
-imagen: /images/actividades/fuerteventura/calderonhondo.webp
+imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
 imagenAlt: "The crater of the Calderón Hondo volcano"
 galeria:
-- src: "PENDIENTE:cielo estrellado Fuerteventura"
-  alt: "The Milky Way over a volcanic landscape in Fuerteventura"
-- src: "PENDIENTE:Lajares"
-  alt: "The village of Lajares at the foot of Calderón Hondo"
-- src: "PENDIENTE:cráter Calderón Hondo"
-  alt: "Inside the Calderón Hondo crater"
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "The Corralejo Dunes seen from the north"
-- src: "PENDIENTE:sendero Calderón Hondo"
-  alt: "The trail through the lava up Calderón Hondo"
-- src: "PENDIENTE:El Cotillo"
-  alt: "The El Cotillo coast at sunset"
+- src: "/images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp"
+  alt: "The rim of the Calderón Hondo crater"
+- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
+  alt: "Volcanic cones in northern Fuerteventura"
+- src: "/images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp"
+  alt: "The old harbour at El Cotillo"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp"
+  alt: "Sand and scrub in the Corralejo dunes"
 ratingProveedor: 4.8
 numeroOpiniones: 1060
 atraccionesRelacionadas:

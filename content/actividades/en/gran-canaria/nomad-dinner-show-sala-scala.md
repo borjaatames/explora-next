@@ -87,7 +87,7 @@ ratingProveedor: 4.7
 numeroOpiniones: 879
 atraccionesRelacionadas:
 - isla
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'

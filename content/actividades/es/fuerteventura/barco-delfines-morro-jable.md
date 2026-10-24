@@ -82,18 +82,14 @@ keywords:
 imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: "Delfines nadando junto a un barco frente a Morro Jable"
 galeria:
-- src: "PENDIENTE:barco delfines Morro Jable"
-  alt: "Barco de avistamiento de cetáceos en Morro Jable"
-- src: "PENDIENTE:Puerto de Morro Jable"
-  alt: "El puerto de Morro Jable"
-- src: "PENDIENTE:delfines Fuerteventura"
-  alt: "Delfines en aguas de Fuerteventura"
-- src: "PENDIENTE:Playa del Matorral"
-  alt: "La playa del Matorral, en Morro Jable"
-- src: "PENDIENTE:costa de Jandía"
-  alt: "La costa sur de la península de Jandía vista desde el mar"
-- src: "PENDIENTE:faro de Morro Jable"
-  alt: "El faro de Morro Jable junto a la playa"
+- src: "/images/actividades/fuerteventura/zonas/faro-morro-jable.webp"
+  alt: "El faro de Morro Jable"
+- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
+  alt: "Morro Jable y la playa del Matorral desde la montaña"
+- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
+  alt: "La costa de Jandía con el faro al fondo"
+- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
+  alt: "Faro de Morro Jable entre la vegetación del saladar"
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

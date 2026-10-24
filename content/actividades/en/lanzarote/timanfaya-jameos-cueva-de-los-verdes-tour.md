@@ -84,18 +84,18 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
 galeria:
-- src: "PENDIENTE:Jameos del Agua"
-  alt: The inner lake of Jameos del Agua inside a lava tube
-- src: "PENDIENTE:Islote de Hilario géiser"
-  alt: A geothermal demonstration with a jet of steam at Islote de Hilario
-- src: "PENDIENTE:Cueva de los Verdes"
-  alt: A lit gallery inside Cueva de los Verdes
-- src: "PENDIENTE:Timanfaya campo de lava"
-  alt: A field of solidified lava in Timanfaya National Park
-- src: "PENDIENTE:Jameos del Agua piscina"
-  alt: The white pool of Jameos del Agua among palm trees
-- src: "PENDIENTE:Ruta de los Volcanes guagua"
-  alt: The Volcano Route coach among craters in Timanfaya
+- src: "/images/actividades/lanzarote/zonas/jameos-piscina.webp"
+  alt: "The white pool at Jameos del Agua"
+- src: "/images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp"
+  alt: "Illuminated lava gallery in Cueva de los Verdes"
+- src: "/images/actividades/lanzarote/zonas/timanfaya-carretera.webp"
+  alt: "Road leading to the Fire Mountains of Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/jameos-jardin.webp"
+  alt: "Garden and pool at Jameos del Agua, designed by César Manrique"
+- src: "/images/actividades/lanzarote/zonas/valle-volcanico.webp"
+  alt: "Volcanic valley with colourful cones in Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/jameos-reflejo.webp"
+  alt: "The sky reflected in the Jameos del Agua lake"
 ratingProveedor: 4.5
 numeroOpiniones: 2910
 atraccionesRelacionadas:

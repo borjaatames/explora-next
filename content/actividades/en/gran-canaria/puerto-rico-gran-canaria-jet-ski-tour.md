@@ -83,19 +83,19 @@ keywords:
 - gran canaria jet ski
 - puerto rico jet ski tour
 - things to do in puerto rico gran canaria
-imagen: "PENDIENTE:moto de agua en Puerto Rico de Gran Canaria"
-imagenAlt: A jet ski off the coast of Puerto Rico de Gran Canaria
+imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
+imagenAlt: "A jet ski riding the waves"
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: Puerto Rico de Gran Canaria marina, the tour's starting point
-- src: "PENDIENTE:grupo de motos de agua con barco de seguridad en Gran Canaria"
-  alt: A group of jet skis following the safety boat
+- src: "/images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp"
+  alt: "Boats in the Puerto Rico marina"
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Sunset over the harbour at Puerto Rico de Gran Canaria
-- src: "PENDIENTE:moto de agua biplaza en el mar de Puerto Rico"
-  alt: Two people sharing a jet ski off Puerto Rico
-- src: "PENDIENTE:costa suroeste de Gran Canaria vista desde el mar en Puerto Rico"
-  alt: The south-west coast of Gran Canaria seen from the sea
+- src: "/images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp"
+  alt: "Puerto Rico harbour in Gran Canaria seen from above"
+- src: "/images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp"
+  alt: "Puerto Rico bay and marina, Gran Canaria"
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

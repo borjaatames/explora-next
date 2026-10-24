@@ -76,18 +76,14 @@ keywords:
 imagen: /images/actividades/fuerteventura/corralejo-walking.webp
 imagenAlt: "A street in Corralejo's old town by the sea"
 galeria:
-- src: "PENDIENTE:papas arrugadas con mojo"
-  alt: "Wrinkled potatoes with red and green mojo"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "Corralejo harbour"
-- src: "PENDIENTE:queso majorero"
-  alt: "Majorero goat's cheese"
-- src: "PENDIENTE:playa urbana Corralejo"
-  alt: "Town beach in Corralejo's old town"
-- src: "PENDIENTE:El Campanario Corralejo"
-  alt: "The tower of the El Campanario shopping centre in Corralejo"
-- src: "PENDIENTE:Isla de Lobos"
-  alt: "Lobos Island seen from Corralejo"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
+  alt: "Boats in Corralejo harbour"
+- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
+  alt: "Excursion boats in Corralejo harbour"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
+  alt: "Lobos Island from the Fuerteventura coast"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
+  alt: "Walking across the white dunes of Corralejo"
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

@@ -85,18 +85,18 @@ keywords:
 imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
 imagenAlt: A catamaran anchored off the coast of La Graciosa
 galeria:
-- src: "PENDIENTE:Caleta de Sebo"
-  alt: White houses and sand streets in Caleta de Sebo
-- src: "PENDIENTE:kayak La Graciosa"
-  alt: Kayaks on the turquoise water of La Graciosa
-- src: "PENDIENTE:Playa Francesa"
-  alt: Playa Francesa in the south of La Graciosa
-- src: "PENDIENTE:esnórquel La Graciosa"
-  alt: Swimmers snorkelling beside a boat off La Graciosa
-- src: "PENDIENTE:La Graciosa"
-  alt: La Graciosa seen from the Famara cliffs
-- src: "PENDIENTE:Órzola puerto"
-  alt: Órzola harbour, where ferries leave for La Graciosa
+- src: "/images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp"
+  alt: "La Graciosa and its volcanic hill surrounded by blue sea"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp"
+  alt: "Caleta de Sebo harbour beneath the Famara cliffs"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp"
+  alt: "White houses and sandy streets in Caleta de Sebo"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp"
+  alt: "Seafront path in Caleta de Sebo, La Graciosa"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp"
+  alt: "Boats in La Graciosa's harbour"
+- src: "/images/actividades/lanzarote/zonas/la-graciosa-aerea.webp"
+  alt: "La Graciosa and Caleta de Sebo seen from above"
 ratingProveedor: 4.6
 numeroOpiniones: 2132
 atraccionesRelacionadas:

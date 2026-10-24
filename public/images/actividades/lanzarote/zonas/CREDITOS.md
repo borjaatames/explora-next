@@ -1,0 +1,62 @@
+# Créditos de fotos — Lanzarote (zonas)
+
+Recortadas a 1600×1200 y convertidas a WebP.
+
+- `arrecife-barcas.webp` — Wikimedia Commons, Photograph by Mike Peel (www.mikepeel.net). (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:At_Lanzarote_2022_043.jpg
+- `arrecife-casas.webp` — Wikimedia Commons, Marc Ryckaert (CC BY 3.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_Arrecife_R05.jpg
+- `arrecife-charco-san-gines.webp` — Wikimedia Commons, Jorge Franganillo (CC BY 2.0) — https://commons.wikimedia.org/wiki/File:Arrecife_Charco_de_San_Gin%C3%A9s_%2853559340788%29.jpg
+- `caldera-interior.webp` — Wikimedia Commons, Dguendel (CC BY 4.0) — https://commons.wikimedia.org/wiki/File:Parque_Nacional_de_Timanfaya%2C_a_caldera_of_Monta%C3%B1as_del_Fuego-2.JPG
+- `caleta-de-sebo-casas.webp` — Wikimedia Commons, Gerd Eichmann (CC BY 4.0) — https://commons.wikimedia.org/wiki/File:La_Graciosa-Caleta_del_Sebo-Hafen-14-2015-gje.jpg
+- `caleta-de-sebo-marina.webp` — Wikimedia Commons, Gerd Eichmann (CC BY 4.0) — https://commons.wikimedia.org/wiki/File:La_Graciosa-Caleta_del_Sebo-Hafen-18-2015-gje.jpg
+- `caleta-de-sebo-paseo.webp` — Wikimedia Commons, Gerd Eichmann (CC BY 4.0) — https://commons.wikimedia.org/wiki/File:La_Graciosa-Caleta_del_Sebo-Hafen-12-2015-gje.jpg
+- `caleta-de-sebo-puerto.webp` — Pexels, alex La Tierra (Pexels License) — https://www.pexels.com/photo/35651522/
+- `camellos-echadero.webp` — Wikimedia Commons, Frank Vincentz (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Yaiza_-_PNT_-_LZ-67_-_Echadero_%28Camel%29_02_ies.jpg
+- `camellos-timanfaya-caravana.webp` — Wikimedia Commons, Frank Vincentz (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Yaiza_-_PNT_-_LZ-67_-_Echadero_%28Camel%29_04_ies.jpg
+- `camellos-timanfaya-dunas.webp` — Wikimedia Commons, Frank Vincentz (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Yaiza_-_PNT_-_LZ-67_-_Echadero_%28Camel%29_08_ies.jpg
+- `carretera-volcanes.webp` — Pexels, Joan Costa (Pexels License) — https://www.pexels.com/photo/9430798/
+- `casa-tradicional-verde.webp` — Pexels, Miguel Rivera (Pexels License) — https://www.pexels.com/photo/32756605/
+- `casas-blancas-mar.webp` — Pexels, Miguel Rivera (Pexels License) — https://www.pexels.com/photo/32756584/
+- `costa-sur-papagayo.webp` — Wikimedia Commons, Marc Ryckaert (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_Playas_de_Papagayo_R24.jpg
+- `cueva-de-los-verdes.webp` — Wikimedia Commons, Aneta p (CC BY 4.0) — https://commons.wikimedia.org/wiki/File:Cueva_de_los_Verdes%2C_Lanzarote-2.jpg
+- `cueva-de-los-verdes-galeria.webp` — Wikimedia Commons, Lviatour (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_5_Luc_Viatour.jpg
+- `cultivos-lava.webp` — Pixabay, leszekhus (Pixabay Content License) — https://pixabay.com/photos/timanfaya-4582515/
+- `el-golfo-charco-clicos.webp` — Wikimedia Commons, Luis Miguel Bugallo Sánchez (Lmbuga) (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:2011_-_El_Golfo_-_Charco_de_los_Clicos_-Lanzarote_-_G06.jpg
+- `el-golfo-crater.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Caldera_El_Golfo_02.jpg
+- `guatiza-cactus.webp` — Wikimedia Commons, Luis Miguel Bugallo Sánchez (Lmbuga) (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Guatiza_-_Jard%C3%ADn_de_Cactus_-_Lanzarote_-_J30.jpg
+- `jameos-jardin.webp` — Pixabay, sallina13 (Pixabay Content License) — https://pixabay.com/photos/lanzarote-141928/
+- `jameos-lago-interior.webp` — Wikimedia Commons, Frank Vincentz (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Har%C3%ADa_-_MNLC_-_LZ-1_-_Jameos_del_Agua_12_ies.jpg
+- `jameos-piscina.webp` — Wikimedia Commons, Photograph by Mike Peel (www.mikepeel.net). (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:At_Jameos_del_Agua_2022_081.jpg
+- `jameos-piscina-palmeras.webp` — Pixabay, lapping (Pixabay Content License) — https://pixabay.com/photos/jameos-del-agua-2432923/
+- `jameos-reflejo.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Jameos_del_Agua_-_Lanzarote_-02.jpg
+- `la-geria-bodega.webp` — Wikimedia Commons, Luis Miguel Bugallo Sánchez (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Bodega_Su%C3%A1rez_-_Diama_-_La_Geria_-_Lanzarote_-_BS05.jpg
+- `la-geria-hoyos.webp` — Wikimedia Commons, Andreas Tusche (Public domain) — https://commons.wikimedia.org/wiki/File:Lanzarote_LaGeria.jpg
+- `la-geria-vinedos.webp` — Wikimedia Commons, Yummifruitbat (no machine-readable author; assumed by Commons from copyright claims) (CC BY-SA 2.5) — https://commons.wikimedia.org/wiki/File:La_Geria_vines.jpg
+- `la-graciosa-aerea.webp` — Pexels, Miguel Rivera (Pexels License) — https://www.pexels.com/photo/32767237/
+- `la-graciosa-desde-famara.webp` — Pexels, Marian Florinel Condruz (Pexels License) — https://www.pexels.com/photo/18500817/
+- `la-graciosa-montana-amarilla.webp` — Pexels, Miguel Rivera (Pexels License) — https://www.pexels.com/photo/32756570/
+- `ladera-volcanica.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Timanfaya_-_Lanzarote_16.jpg
+- `los-hervideros.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Los_Hervideros_-_Lanzarote_01.jpg
+- `los-hervideros-cueva.webp` — Wikimedia Commons, Luis Miguel Bugallo Sánchez (Lmbuga) (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Los_Hervideros_-_Lanzarote_-_LH02.jpg
+- `marina-rubicon.webp` — Wikimedia Commons, Luis Miguel Bugallo Sánchez (Lmbuga) (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Marina_Rubic%C3%B3n_-_Playa_Blanca_-_Lanzarote_-_MR07.jpg
+- `marina-rubicon-veleros.webp` — Wikimedia Commons, IDS.photos from Tiverton, UK (CC BY-SA 2.0) — https://commons.wikimedia.org/wiki/File:Rubicon_Marina%2C_Playa_Blanca%2C_Lanzarote%2C_Canary_Islands_%282666900431%29.jpg
+- `mirador-del-rio-la-graciosa.webp` — Wikimedia Commons, Edmundo Sáez (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:La_Graciosa_from_Mirador_del_Rio.jpg
+- `mirador-del-rio-vista.webp` — Wikimedia Commons, Bobmarley97 (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Mirador_del_rio_%28lanzarote%29.jpg
+- `molino-jardin-cactus.webp` — Wikimedia Commons, Luis Miguel Bugallo Sánchez (Lmbuga) (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_Cactus_-_Guatiza_-_Lanzarote_-_J19.jpg
+- `papagayo-acantilado.webp` — Pixabay, lapping (Pixabay Content License) — https://pixabay.com/photos/playa-del-papagayo-2439301/
+- `papagayo-banistas.webp` — Wikimedia Commons, Axel Cotón Gutiérrez (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Playa_Papagayo_2014_01.jpg
+- `papagayo-cala.webp` — Wikimedia Commons, Lviatour (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_1_Luc_Viatour.jpg
+- `papagayo-cala-rocas.webp` — Pixabay, lapping (Pixabay Content License) — https://pixabay.com/photos/playa-del-papagayo-2439299/
+- `papagayo-orilla.webp` — Wikimedia Commons, Marc Ryckaert (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_Playas_de_Papagayo_R14.jpg
+- `papagayo-playa-dorada.webp` — Pixabay, lapping (Pixabay Content License) — https://pixabay.com/photos/playa-del-papagayo-2437600/
+- `playa-blanca.webp` — Wikimedia Commons, Cayambe (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_-_Playa_Blanca_Beach_towards_Marina.jpg
+- `sendero-volcan.webp` — Pexels, Daria Gaidukova (Pexels License) — https://www.pexels.com/photo/14281162/
+- `teguise-calle.webp` — Wikimedia Commons, Marc Ryckaert (MJJR) (CC BY 3.0) — https://commons.wikimedia.org/wiki/File:Lanzarote_Teguise_R05.jpg
+- `teguise-plaza.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Teguise_-_Plaza_-_Iglesia.jpg
+- `timanfaya-carretera.webp` — Pixabay, daveoxberry (Pixabay Content License) — https://pixabay.com/photos/lanzarote-5278946/
+- `timanfaya-conos-rojizos.webp` — Pexels, Uri Espinosa (Pexels License) — https://www.pexels.com/photo/375378/
+- `timanfaya-lava.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Timanfaya_-_Lanzarote_13.jpg
+- `timanfaya-montanas-del-fuego.webp` — Pixabay, ELG21 (Pixabay Content License) — https://pixabay.com/photos/landscape-4887909/
+- `valle-volcanico.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Monta%C3%B1a_del_Selado_-_Caldera_del_Corazoncillo_-_Lanzarote.jpg
+- `volcan-malpais.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Timanfaya_-_Lanzarote_14.jpg
+- `volcan-rojo.webp` — Wikimedia Commons, H. Zell (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Timanfaya_-_Lanzarote_08.jpg
+- `volcan-vegetacion.webp` — Pexels, Diego HG (Pexels License) — https://www.pexels.com/photo/35432896/

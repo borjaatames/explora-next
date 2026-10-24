@@ -76,19 +76,9 @@ keywords:
 - aqualand maspalomas tickets
 - gran canaria water park
 - maspalomas water slides
-imagen: "PENDIENTE:toboganes de Aqualand Maspalomas"
-imagenAlt: Slides at the Aqualand Maspalomas water park
+imagen: "/images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp"
+imagenAlt: "Slides and pool at Aqualand Maspalomas"
 galeria:
-- src: "PENDIENTE:tobogán Anaconda de Aqualand Maspalomas"
-  alt: The Anaconda slide at Aqualand Maspalomas
-- src: "PENDIENTE:piscina y jardines de Aqualand Maspalomas"
-  alt: Pool and gardens at Aqualand Maspalomas
-- src: "PENDIENTE:Paraíso Infantil de Aqualand Maspalomas"
-  alt: The children's area at Aqualand Maspalomas
-- src: "PENDIENTE:zona Polinesia y jardines de Aqualand Maspalomas"
-  alt: The Polynesia area at Aqualand Maspalomas
-- src: "PENDIENTE:vista general de Aqualand Maspalomas"
-  alt: Overview of the Aqualand Maspalomas water park
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

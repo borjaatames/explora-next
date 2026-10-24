@@ -79,18 +79,18 @@ keywords:
 imagen: /images/actividades/fuerteventura/cofete.webp
 imagenAlt: "Cofete beach below the Jandía massif"
 galeria:
-- src: "PENDIENTE:Villa Winter"
+- src: "/images/actividades/fuerteventura/zonas/villa-winter.webp"
+  alt: "Villa Winter at the foot of the Jandía mountains"
+- src: "/images/actividades/fuerteventura/zonas/villa-winter-fachada.webp"
+  alt: "The façade and tower of Villa Winter in Cofete"
+- src: "/images/actividades/fuerteventura/zonas/villa-winter-ladera.webp"
   alt: "Villa Winter on the hillside above Cofete"
-- src: "PENDIENTE:mirador de Cofete"
-  alt: "View of Cofete beach from the viewpoint"
-- src: "PENDIENTE:pista de Cofete"
-  alt: "The dirt track across Jandía to Cofete"
-- src: "PENDIENTE:cementerio de Cofete"
-  alt: "The small cemetery by Cofete beach"
-- src: "PENDIENTE:Puerto de Morro Jable"
-  alt: "Morro Jable harbour, the starting point for Cofete"
-- src: "PENDIENTE:macizo de Jandía"
-  alt: "The mountains of the Jandía massif"
+- src: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
+  alt: "Cofete beach from the viewpoint on the track"
+- src: "/images/actividades/fuerteventura/zonas/cofete-cresta.webp"
+  alt: "Jandía ridge above Cofete beach"
+- src: "/images/actividades/fuerteventura/zonas/cofete-pico.webp"
+  alt: "Cofete beach and El Islote peak"
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

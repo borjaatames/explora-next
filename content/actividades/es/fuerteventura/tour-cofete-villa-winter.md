@@ -79,18 +79,18 @@ keywords:
 imagen: /images/actividades/fuerteventura/cofete.webp
 imagenAlt: "La playa de Cofete bajo el macizo de Jandía"
 galeria:
-- src: "PENDIENTE:Villa Winter"
-  alt: "La Villa Winter en la ladera de Cofete"
-- src: "PENDIENTE:mirador de Cofete"
-  alt: "Vista de la playa de Cofete desde el mirador"
-- src: "PENDIENTE:pista de Cofete"
-  alt: "La pista de tierra que cruza Jandía hacia Cofete"
-- src: "PENDIENTE:cementerio de Cofete"
-  alt: "El pequeño cementerio junto a la playa de Cofete"
-- src: "PENDIENTE:Puerto de Morro Jable"
-  alt: "El puerto de Morro Jable, punto de partida hacia Cofete"
-- src: "PENDIENTE:macizo de Jandía"
-  alt: "Las montañas del macizo de Jandía"
+- src: "/images/actividades/fuerteventura/zonas/villa-winter.webp"
+  alt: "Villa Winter al pie de las montañas de Jandía"
+- src: "/images/actividades/fuerteventura/zonas/villa-winter-fachada.webp"
+  alt: "La fachada y la torre de Villa Winter, en Cofete"
+- src: "/images/actividades/fuerteventura/zonas/villa-winter-ladera.webp"
+  alt: "Villa Winter sobre la ladera de Cofete"
+- src: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
+  alt: "La playa de Cofete desde el mirador de la pista"
+- src: "/images/actividades/fuerteventura/zonas/cofete-cresta.webp"
+  alt: "Cresta del macizo de Jandía sobre la playa de Cofete"
+- src: "/images/actividades/fuerteventura/zonas/cofete-pico.webp"
+  alt: "La playa de Cofete y el pico del Islote"
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

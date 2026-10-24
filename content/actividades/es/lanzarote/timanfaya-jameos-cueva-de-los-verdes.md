@@ -84,18 +84,18 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
 galeria:
-- src: "PENDIENTE:Jameos del Agua"
-  alt: El lago interior de los Jameos del Agua, dentro de un tubo volcánico
-- src: "PENDIENTE:Islote de Hilario géiser"
-  alt: Demostración geotérmica con un chorro de vapor en el Islote de Hilario
-- src: "PENDIENTE:Cueva de los Verdes"
-  alt: Galería iluminada de la Cueva de los Verdes
-- src: "PENDIENTE:Timanfaya campo de lava"
-  alt: Campo de lava solidificada en el Parque Nacional de Timanfaya
-- src: "PENDIENTE:Jameos del Agua piscina"
-  alt: La piscina blanca de los Jameos del Agua entre palmeras
-- src: "PENDIENTE:Ruta de los Volcanes guagua"
-  alt: Guagua de la Ruta de los Volcanes entre cráteres en Timanfaya
+- src: "/images/actividades/lanzarote/zonas/jameos-piscina.webp"
+  alt: "La piscina blanca de los Jameos del Agua"
+- src: "/images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp"
+  alt: "Galería de lava iluminada en la Cueva de los Verdes"
+- src: "/images/actividades/lanzarote/zonas/timanfaya-carretera.webp"
+  alt: "Carretera hacia las Montañas del Fuego de Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/jameos-jardin.webp"
+  alt: "Jardín y piscina de los Jameos del Agua, obra de César Manrique"
+- src: "/images/actividades/lanzarote/zonas/valle-volcanico.webp"
+  alt: "Valle volcánico con conos de colores en Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/jameos-reflejo.webp"
+  alt: "El cielo reflejado en el lago de los Jameos del Agua"
 ratingProveedor: 4.5
 numeroOpiniones: 2910
 atraccionesRelacionadas:

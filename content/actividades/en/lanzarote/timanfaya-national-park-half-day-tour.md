@@ -80,18 +80,16 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: The Volcano Route coach among craters in Timanfaya
 galeria:
-- src: "PENDIENTE:Islote de Hilario géiser"
-  alt: A geothermal demonstration with a jet of steam at Islote de Hilario
-- src: "PENDIENTE:Timanfaya Montañas del Fuego"
-  alt: Reddish volcanic cones of the Fire Mountains in Timanfaya
-- src: "PENDIENTE:camellos Timanfaya"
-  alt: A camel train on the slopes of Timanfaya
-- src: "PENDIENTE:Timanfaya campo de lava"
-  alt: A field of solidified lava in Timanfaya National Park
-- src: "PENDIENTE:restaurante El Diablo parrilla"
-  alt: A grill over volcanic heat at El Diablo restaurant
-- src: "PENDIENTE:Yaiza"
-  alt: White houses in the village of Yaiza
+- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp"
+  alt: "Camel caravan on the slopes of Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp"
+  alt: "Camels crossing the volcanic ash of Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/timanfaya-lava.webp"
+  alt: "Lava field and volcanoes in Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/volcan-rojo.webp"
+  alt: "A red-earth volcano in Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/camellos-echadero.webp"
+  alt: "Camels waiting for visitors at the Timanfaya camel station"
 ratingProveedor: 4.4
 numeroOpiniones: 2855
 atraccionesRelacionadas:

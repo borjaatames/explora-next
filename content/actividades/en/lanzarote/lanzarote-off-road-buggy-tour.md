@@ -86,18 +86,16 @@ keywords:
 imagen: /images/actividades/lanzarote/buggy-volcanes.webp
 imagenAlt: A buggy on a dirt track among volcanoes in Lanzarote
 galeria:
-- src: "PENDIENTE:buggy pista de tierra Lanzarote"
-  alt: Buggies driving along a dirt track in northern Lanzarote
-- src: "PENDIENTE:Peñas del Chache"
-  alt: View from Peñas del Chache, Lanzarote's highest point
-- src: "PENDIENTE:buggy grupo Lanzarote"
-  alt: A group of buggies stopped at a Lanzarote viewpoint
-- src: "PENDIENTE:Guatiza tuneras"
-  alt: Prickly-pear fields in Guatiza
-- src: "PENDIENTE:buggy conductor gafas"
-  alt: A buggy driver wearing goggles against the dust
-- src: "PENDIENTE:Risco de Famara"
-  alt: The Famara cliffs in northern Lanzarote
+- src: "/images/actividades/lanzarote/zonas/guatiza-cactus.webp"
+  alt: "Cacti among volcanic rocks in Guatiza, northern Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/molino-jardin-cactus.webp"
+  alt: "White windmill above the Jardín de Cactus in Guatiza"
+- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp"
+  alt: "La Graciosa and the El Río strait from the Mirador del Río"
+- src: "/images/actividades/lanzarote/zonas/casa-tradicional-verde.webp"
+  alt: "Traditional whitewashed house with a green wooden balcony"
+- src: "/images/actividades/lanzarote/zonas/cultivos-lava.webp"
+  alt: "Crops growing on volcanic ash with mountains behind"
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

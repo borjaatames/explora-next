@@ -11,3 +11,5 @@
 - tenerife.webp — foto de Joshua Humpfer, https://unsplash.com/photos/dW_7u2sT5SI
 - valencia.webp — foto de Luca Albrecht, https://unsplash.com/photos/OerQvrNvozU
 - alicante.webp — foto de Dean Milenkovic, https://unsplash.com/photos/qqAcQNJ9gQ0
+- `lanzarote.webp` — Pexels, Uri Espinosa (Pexels License) — https://www.pexels.com/photo/375378/
+- `fuerteventura.webp` — Wikimedia Commons, Pablosievert (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Dunas_de_Corralejo.jpg

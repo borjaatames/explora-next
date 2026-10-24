@@ -78,20 +78,16 @@ keywords:
 imagen: /images/actividades/fuerteventura/catamaran-lobos.webp
 imagenAlt: "Catamaran anchored off Lobos Island"
 galeria:
-- src: "PENDIENTE:playa de La Concha Lobos"
-  alt: "La Concha beach on Lobos Island"
-- src: "PENDIENTE:esnórquel Lobos"
-  alt: "Snorkelling in the turquoise water off Lobos"
-- src: "PENDIENTE:Isla de Lobos"
-  alt: "Lobos Island seen from the sea"
-- src: "PENDIENTE:Puerto de Corralejo"
-  alt: "Corralejo harbour"
-- src: "PENDIENTE:montaña de La Caldera Lobos"
-  alt: "La Caldera mountain on Lobos"
-- src: "PENDIENTE:kayak Lobos"
-  alt: "Kayaking along the Lobos coast"
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "The Corralejo Dunes seen from the sea"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-kitesurf.webp"
+  alt: "Lobos Island off the beach, with kitesurfers"
+- src: "/images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp"
+  alt: "La Caldera hill on Lobos Island"
+- src: "/images/actividades/fuerteventura/zonas/faro-martino.webp"
+  alt: "Martiño lighthouse on Lobos Island"
+- src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
+  alt: "Corralejo bay with Lobos in the background"
+- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp"
+  alt: "Lobos Island at dusk"
 ratingProveedor: 4.8
 numeroOpiniones: 1183
 atraccionesRelacionadas:

@@ -79,21 +79,17 @@ keywords:
 - observacion de estrellas fuerteventura
 - volcan fuerteventura excursion
 - lajares volcan
-imagen: /images/actividades/fuerteventura/calderonhondo.webp
+imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
 imagenAlt: "El cráter del volcán Calderón Hondo"
 galeria:
-- src: "PENDIENTE:cielo estrellado Fuerteventura"
-  alt: "Vía Láctea sobre un paisaje volcánico de Fuerteventura"
-- src: "PENDIENTE:Lajares"
-  alt: "El pueblo de Lajares, al pie del Calderón Hondo"
-- src: "PENDIENTE:cráter Calderón Hondo"
-  alt: "Interior del cráter del Calderón Hondo"
-- src: "PENDIENTE:Dunas de Corralejo"
-  alt: "Las Dunas de Corralejo vistas desde el norte"
-- src: "PENDIENTE:sendero Calderón Hondo"
-  alt: "Sendero de subida entre lava al Calderón Hondo"
-- src: "PENDIENTE:El Cotillo"
-  alt: "La costa de El Cotillo al atardecer"
+- src: "/images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp"
+  alt: "El borde del cráter de Calderón Hondo"
+- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
+  alt: "Conos volcánicos en el norte de Fuerteventura"
+- src: "/images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp"
+  alt: "El puerto viejo de El Cotillo"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp"
+  alt: "Arena y matorral en las Dunas de Corralejo"
 ratingProveedor: 4.8
 numeroOpiniones: 1060
 atraccionesRelacionadas:

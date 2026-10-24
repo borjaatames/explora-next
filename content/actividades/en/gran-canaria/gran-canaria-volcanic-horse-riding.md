@@ -78,19 +78,9 @@ keywords:
 - horse riding maspalomas
 - el salobre horse riding
 - gran canaria horseback tour
-imagen: "PENDIENTE:paseo a caballo en El Salobre"
-imagenAlt: Riders on a volcanic track at El Salobre
+imagen: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
+imagenAlt: "Ravine and mountains in southern Gran Canaria"
 galeria:
-- src: "PENDIENTE:paisaje volcánico de El Salobre"
-  alt: Volcanic landscape around El Salobre
-- src: "PENDIENTE:grupo a caballo por sendero de montaña en el sur de Gran Canaria"
-  alt: A group on horseback on a mountain trail in southern Gran Canaria
-- src: "PENDIENTE:barranco de El Salobre"
-  alt: The El Salobre ravine in southern Gran Canaria
-- src: "PENDIENTE:caballos en el rancho El Salobre Horse Riding"
-  alt: Horses at the El Salobre ranch
-- src: "PENDIENTE:vistas del sur de Gran Canaria desde las pistas de El Salobre"
-  alt: Views of the south coast from the El Salobre tracks
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

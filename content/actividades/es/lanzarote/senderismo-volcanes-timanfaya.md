@@ -82,18 +82,18 @@ keywords:
 imagen: /images/actividades/lanzarote/senderismo-volcanes.webp
 imagenAlt: Senderistas caminando entre conos volcánicos en Lanzarote
 galeria:
-- src: "PENDIENTE:Parque Natural de los Volcanes"
-  alt: Conos volcánicos y malpaís en el Parque Natural de los Volcanes
-- src: "PENDIENTE:sendero sobre lava Lanzarote"
-  alt: Sendero que cruza una colada de lava en Lanzarote
-- src: "PENDIENTE:Caldera Blanca"
-  alt: El cráter de Caldera Blanca, junto a Mancha Blanca
-- src: "PENDIENTE:vino malvasía volcánica"
-  alt: Copa de vino blanco malvasía volcánica de Lanzarote
-- src: "PENDIENTE:Timanfaya campo de lava"
-  alt: Campo de lava solidificada en el Parque Nacional de Timanfaya
-- src: "PENDIENTE:senderismo grupo volcanes"
-  alt: Pequeño grupo de senderistas con guía sobre terreno volcánico
+- src: "/images/actividades/lanzarote/zonas/sendero-volcan.webp"
+  alt: "Sendero por la cresta de un volcán en Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/volcan-vegetacion.webp"
+  alt: "Volcán y vegetación sobre el malpaís de Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/caldera-interior.webp"
+  alt: "Interior de una caldera volcánica en Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/volcan-malpais.webp"
+  alt: "Volcán sobre el malpaís de Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/ladera-volcanica.webp"
+  alt: "Ladera volcánica con líquenes en Timanfaya"
+- src: "/images/actividades/lanzarote/zonas/carretera-volcanes.webp"
+  alt: "Carretera recta entre lava y volcanes en Lanzarote"
 ratingProveedor: 4.8
 numeroOpiniones: 990
 atraccionesRelacionadas:

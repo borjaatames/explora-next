@@ -79,19 +79,13 @@ keywords:
   - "moto de agua sin carnet tenerife"
   - "safari moto de agua costa del silencio"
   - "marina san miguel moto de agua"
-imagen: "PENDIENTE:moto de agua costa sur de Tenerife"
-imagenAlt: "Motos de agua navegando junto a la costa volcánica del sur de Tenerife"
+imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
+imagenAlt: "Moto de agua sobre las olas"
 galeria:
-  - src: "PENDIENTE:grupo de motos de agua con monitor"
-    alt: "Grupo de motos de agua siguiendo al monitor"
-  - src: "PENDIENTE:Montaña Roja de El Médano desde el mar"
-    alt: "Montaña Roja vista desde el mar"
-  - src: "PENDIENTE:moto de agua con dos personas"
-    alt: "Moto de agua con conductor y pasajero"
-  - src: "PENDIENTE:Montaña Amarilla en Costa del Silencio"
-    alt: "Montaña Amarilla junto al mar en Costa del Silencio"
-  - src: "PENDIENTE:Marina San Miguel"
-    alt: "Puerto deportivo Marina San Miguel"
+  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
+    alt: "Playa de Costa Adeje con las montañas al fondo"
+  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
+    alt: "Vista de la costa de Costa Adeje"
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:
