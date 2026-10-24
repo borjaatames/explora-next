@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: catamarán Magic Select con comida y bebida'
 slug: catamaran-comida-bebida-morro-jable
 ciudad: fuerteventura
@@ -77,7 +77,7 @@ keywords:
 - catamaran morro jable
 - excursion barco jandia comida
 - catamaran delfines fuerteventura
-imagen: "PENDIENTE:catamarán Morro Jable"
+imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
 imagenAlt: "Catamarán navegando frente a la costa de Jandía"
 galeria:
 - src: "PENDIENTE:costa de Jandía"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: buggy safari through northern tracks and volcanoes'
 slug: corralejo-buggy-safari
 ciudad: fuerteventura
@@ -82,7 +82,7 @@ keywords:
 - buggy tour fuerteventura
 - north fuerteventura buggy safari
 - corralejo off road
-imagen: "PENDIENTE:buggy Corralejo"
+imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
 imagenAlt: "Buggy on a dirt track in northern Fuerteventura"
 galeria:
 - src: "PENDIENTE:Dunas de Corralejo"

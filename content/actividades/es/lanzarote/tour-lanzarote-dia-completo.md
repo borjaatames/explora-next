@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: tour de día completo por lo más destacado'
 slug: tour-lanzarote-dia-completo
 ciudad: lanzarote
@@ -77,7 +77,7 @@ keywords:
 - excursion timanfaya jameos
 - que ver en lanzarote
 - tour lanzarote con recogida
-imagen: "PENDIENTE:Timanfaya Montañas del Fuego"
+imagen: /images/actividades/lanzarote/tour-dia-completo.webp
 imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
 galeria:
 - src: "PENDIENTE:El Golfo Charco de los Clicos"

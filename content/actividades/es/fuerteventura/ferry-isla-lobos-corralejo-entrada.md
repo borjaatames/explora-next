@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: ferri de ida y vuelta a la Isla de Lobos'
 slug: ferry-isla-lobos-corralejo-entrada
 ciudad: fuerteventura
@@ -78,7 +78,7 @@ keywords:
 - barco corralejo lobos
 - como ir a isla de lobos
 - isla de lobos fuerteventura
-imagen: "PENDIENTE:ferri a Lobos"
+imagen: /images/actividades/fuerteventura/ferry-lobos.webp
 imagenAlt: "Ferri de pasajeros entre Corralejo y la Isla de Lobos"
 galeria:
 - src: "PENDIENTE:Isla de Lobos"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: sunset boat trip with dolphin spotting'
 slug: lanzarote-sunset-dolphin-cruise
 ciudad: lanzarote
@@ -78,7 +78,7 @@ keywords:
 - puerto del carmen catamaran
 - lanzarote sunset boat trip
 - lanzarote boat trip
-imagen: "PENDIENTE:delfines catamarán"
+imagen: /images/actividades/lanzarote/barco-delfines.webp
 imagenAlt: Dolphins swimming beside a catamaran
 galeria:
 - src: "PENDIENTE:atardecer catamarán Lanzarote"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: Cofete beach and Villa Winter tour'
 slug: cofete-villa-winter-tour
 ciudad: fuerteventura
@@ -76,7 +76,7 @@ keywords:
 - villa winter tour
 - how to get to cofete beach
 - cofete jandia excursion
-imagen: "PENDIENTE:Cofete"
+imagen: /images/actividades/fuerteventura/cofete.webp
 imagenAlt: "Cofete beach below the Jandía massif"
 galeria:
 - src: "PENDIENTE:Villa Winter"

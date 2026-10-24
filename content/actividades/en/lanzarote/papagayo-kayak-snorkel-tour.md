@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: kayak and snorkel tour at Papagayo beach'
 slug: papagayo-kayak-snorkel-tour
 ciudad: lanzarote
@@ -79,7 +79,7 @@ keywords:
 - papagayo snorkelling
 - lanzarote snorkel
 - papagayo beach
-imagen: "PENDIENTE:kayak Papagayo"
+imagen: /images/actividades/lanzarote/kayak-papagayo.webp
 imagenAlt: Kayaks on the turquoise water of Papagayo bay
 galeria:
 - src: "PENDIENTE:Playas de Papagayo"

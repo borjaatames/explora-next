@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: Timanfaya National Park half-day tour'
 slug: timanfaya-national-park-half-day-tour
 ciudad: lanzarote
@@ -77,7 +77,7 @@ keywords:
 - fire mountains lanzarote
 - timanfaya excursion
 - timanfaya with pickup
-imagen: "PENDIENTE:Ruta de los Volcanes guagua"
+imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: The Volcano Route coach among craters in Timanfaya
 galeria:
 - src: "PENDIENTE:Islote de Hilario géiser"

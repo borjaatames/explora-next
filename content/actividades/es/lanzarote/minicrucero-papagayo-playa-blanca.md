@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Playa Blanca: minicrucero a Papagayo con baño'
 slug: minicrucero-papagayo-playa-blanca
 ciudad: lanzarote
@@ -78,7 +78,7 @@ keywords:
 - playas de papagayo en barco
 - excursion barco lanzarote
 - minicrucero papagayo
-imagen: "PENDIENTE:catamarán Papagayo"
+imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: Catamarán fondeado en una cala de Papagayo
 galeria:
 - src: "PENDIENTE:Playas de Papagayo"

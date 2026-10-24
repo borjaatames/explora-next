@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: Calderón Hondo volcano by night and stargazing'
 slug: calderon-hondo-volcano-stargazing-tour
 ciudad: fuerteventura
@@ -79,7 +79,7 @@ keywords:
 - stargazing fuerteventura
 - fuerteventura volcano tour
 - lajares volcano
-imagen: "PENDIENTE:Calderón Hondo"
+imagen: /images/actividades/fuerteventura/calderonhondo.webp
 imagenAlt: "The crater of the Calderón Hondo volcano"
 galeria:
 - src: "PENDIENTE:cielo estrellado Fuerteventura"

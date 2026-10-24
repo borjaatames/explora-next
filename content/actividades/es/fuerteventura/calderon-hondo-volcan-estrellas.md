@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: volcán Calderón Hondo de noche y estrellas'
 slug: calderon-hondo-volcan-estrellas
 ciudad: fuerteventura
@@ -79,7 +79,7 @@ keywords:
 - observacion de estrellas fuerteventura
 - volcan fuerteventura excursion
 - lajares volcan
-imagen: "PENDIENTE:Calderón Hondo"
+imagen: /images/actividades/fuerteventura/calderonhondo.webp
 imagenAlt: "El cráter del volcán Calderón Hondo"
 galeria:
 - src: "PENDIENTE:cielo estrellado Fuerteventura"

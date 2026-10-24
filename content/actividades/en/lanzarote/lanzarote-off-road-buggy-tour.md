@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: off-road buggy tour through the volcanic north'
 slug: lanzarote-off-road-buggy-tour
 ciudad: lanzarote
@@ -83,7 +83,7 @@ keywords:
 - off road lanzarote
 - penas del chache
 - things to do in lanzarote
-imagen: "PENDIENTE:buggy volcanes"
+imagen: /images/actividades/lanzarote/buggy-volcanes.webp
 imagenAlt: A buggy on a dirt track among volcanoes in Lanzarote
 galeria:
 - src: "PENDIENTE:buggy pista de tierra Lanzarote"

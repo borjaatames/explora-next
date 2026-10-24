@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'La Graciosa: catamaran cruise with lunch, swimming and kayaks'
 slug: la-graciosa-catamaran-cruise-lunch
 ciudad: lanzarote
@@ -82,7 +82,7 @@ keywords:
 - la graciosa catamaran
 - la graciosa from lanzarote
 - playa francesa
-imagen: "PENDIENTE:catamarán La Graciosa"
+imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
 imagenAlt: A catamaran anchored off the coast of La Graciosa
 galeria:
 - src: "PENDIENTE:Caleta de Sebo"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: tour a la playa de Cofete y la Villa Winter'
 slug: tour-cofete-villa-winter
 ciudad: fuerteventura
@@ -76,7 +76,7 @@ keywords:
 - tour villa winter
 - playa de cofete como llegar
 - cofete jandia excursion
-imagen: "PENDIENTE:Cofete"
+imagen: /images/actividades/fuerteventura/cofete.webp
 imagenAlt: "La playa de Cofete bajo el macizo de Jandía"
 galeria:
 - src: "PENDIENTE:Villa Winter"

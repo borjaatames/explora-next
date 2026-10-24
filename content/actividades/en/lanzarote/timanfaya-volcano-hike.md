@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: guided hike among the Timanfaya volcanoes'
 slug: timanfaya-volcano-hike
 ciudad: lanzarote
@@ -79,7 +79,7 @@ keywords:
 - walking in timanfaya
 - lanzarote trekking
 - parque natural de los volcanes
-imagen: "PENDIENTE:senderismo volcanes Lanzarote"
+imagen: /images/actividades/lanzarote/senderismo-volcanes.webp
 imagenAlt: Hikers walking among volcanic cones in Lanzarote
 galeria:
 - src: "PENDIENTE:Parque Natural de los Volcanes"

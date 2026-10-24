@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: senderismo guiado por los volcanes de Timanfaya'
 slug: senderismo-volcanes-timanfaya
 ciudad: lanzarote
@@ -79,7 +79,7 @@ keywords:
 - caminar por timanfaya
 - trekking lanzarote
 - parque natural de los volcanes
-imagen: "PENDIENTE:senderismo volcanes Lanzarote"
+imagen: /images/actividades/lanzarote/senderismo-volcanes.webp
 imagenAlt: Senderistas caminando entre conos volcánicos en Lanzarote
 galeria:
 - src: "PENDIENTE:Parque Natural de los Volcanes"

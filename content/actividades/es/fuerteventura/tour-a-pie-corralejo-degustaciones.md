@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: tour a pie con degustaciones de productos locales'
 slug: tour-a-pie-corralejo-degustaciones
 ciudad: fuerteventura
@@ -73,7 +73,7 @@ keywords:
 - tour gastronomico corralejo
 - tour a pie corralejo
 - comida tipica fuerteventura
-imagen: "PENDIENTE:casco antiguo Corralejo"
+imagen: /images/actividades/fuerteventura/corralejo-walking.webp
 imagenAlt: "Calle del casco antiguo de Corralejo junto al mar"
 galeria:
 - src: "PENDIENTE:papas arrugadas con mojo"

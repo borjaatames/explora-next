@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: buggy todoterreno por el norte volcánico'
 slug: buggy-volcanes-norte-lanzarote
 ciudad: lanzarote
@@ -83,7 +83,7 @@ keywords:
 - off road lanzarote
 - penas del chache
 - actividades lanzarote
-imagen: "PENDIENTE:buggy volcanes"
+imagen: /images/actividades/lanzarote/buggy-volcanes.webp
 imagenAlt: Buggy por una pista de tierra entre volcanes en Lanzarote
 galeria:
 - src: "PENDIENTE:buggy pista de tierra Lanzarote"

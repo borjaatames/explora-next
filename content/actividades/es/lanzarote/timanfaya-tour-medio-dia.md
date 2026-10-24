@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: Parque Nacional de Timanfaya en medio día'
 slug: timanfaya-tour-medio-dia
 ciudad: lanzarote
@@ -77,7 +77,7 @@ keywords:
 - montanas del fuego
 - parque nacional de timanfaya
 - timanfaya con recogida
-imagen: "PENDIENTE:Ruta de los Volcanes guagua"
+imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: Guagua de la Ruta de los Volcanes entre cráteres en Timanfaya
 galeria:
 - src: "PENDIENTE:Islote de Hilario géiser"

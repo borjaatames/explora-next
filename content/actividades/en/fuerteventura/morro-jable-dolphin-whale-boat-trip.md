@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Morro Jable: dolphin-watching boat trip with drinks and swim'
 slug: morro-jable-dolphin-whale-boat-trip
 ciudad: fuerteventura
@@ -79,7 +79,7 @@ keywords:
 - morro jable boat trip
 - whale watching fuerteventura
 - jandia boat trip
-imagen: "PENDIENTE:delfines Morro Jable"
+imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: "Dolphins swimming beside a boat off Morro Jable"
 galeria:
 - src: "PENDIENTE:barco delfines Morro Jable"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Morro Jable: barco para ver delfines con bebidas y baño'
 slug: barco-delfines-morro-jable
 ciudad: fuerteventura
@@ -79,7 +79,7 @@ keywords:
 - barco morro jable
 - avistamiento cetaceos fuerteventura
 - excursion barco jandia
-imagen: "PENDIENTE:delfines Morro Jable"
+imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: "Delfines nadando junto a un barco frente a Morro Jable"
 galeria:
 - src: "PENDIENTE:barco delfines Morro Jable"

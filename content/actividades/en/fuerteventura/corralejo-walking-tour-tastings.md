@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: walking tour with local food tastings'
 slug: corralejo-walking-tour-tastings
 ciudad: fuerteventura
@@ -73,7 +73,7 @@ keywords:
 - corralejo food tour
 - corralejo walking tour
 - fuerteventura local food
-imagen: "PENDIENTE:casco antiguo Corralejo"
+imagen: /images/actividades/fuerteventura/corralejo-walking.webp
 imagenAlt: "A street in Corralejo's old town by the sea"
 galeria:
 - src: "PENDIENTE:papas arrugadas con mojo"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: submarine dive from Puerto Calero'
 slug: lanzarote-submarine-dive-puerto-calero
 ciudad: lanzarote
@@ -84,7 +84,7 @@ keywords:
 - submarine safaris lanzarote
 - lanzarote with kids
 - things to do in lanzarote
-imagen: "PENDIENTE:submarino Lanzarote"
+imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: The Puerto Calero submarine on the surface before diving
 galeria:
 - src: "PENDIENTE:Puerto Calero"

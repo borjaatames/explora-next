@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: kayak y esnórquel en la playa de Papagayo'
 slug: kayak-esnorquel-papagayo
 ciudad: lanzarote
@@ -79,7 +79,7 @@ keywords:
 - snorkel papagayo
 - esnorquel lanzarote
 - playa de papagayo
-imagen: "PENDIENTE:kayak Papagayo"
+imagen: /images/actividades/lanzarote/kayak-papagayo.webp
 imagenAlt: Kayaks en el agua turquesa de la bahía de Papagayo
 galeria:
 - src: "PENDIENTE:Playas de Papagayo"

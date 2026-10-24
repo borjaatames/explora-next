@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: Timanfaya, Jameos del Agua and Cueva de los Verdes'
 slug: timanfaya-jameos-cueva-de-los-verdes-tour
 ciudad: lanzarote
@@ -81,7 +81,7 @@ keywords:
 - timanfaya jameos cueva
 - lanzarote tour with tickets
 - cesar manrique centres
-imagen: "PENDIENTE:Timanfaya Montañas del Fuego"
+imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
 galeria:
 - src: "PENDIENTE:Jameos del Agua"

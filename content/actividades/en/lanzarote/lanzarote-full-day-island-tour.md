@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: full-day tour of the island highlights'
 slug: lanzarote-full-day-island-tour
 ciudad: lanzarote
@@ -77,7 +77,7 @@ keywords:
 - timanfaya jameos tour
 - what to see in lanzarote
 - lanzarote tour with pickup
-imagen: "PENDIENTE:Timanfaya Montañas del Fuego"
+imagen: /images/actividades/lanzarote/tour-dia-completo.webp
 imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
 galeria:
 - src: "PENDIENTE:El Golfo Charco de los Clicos"

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: Lobos Island return ferry'
 slug: lobos-island-ferry-corralejo-park-entry
 ciudad: fuerteventura
@@ -78,7 +78,7 @@ keywords:
 - corralejo to lobos boat
 - how to get to lobos island
 - lobos island fuerteventura
-imagen: "PENDIENTE:ferri a Lobos"
+imagen: /images/actividades/fuerteventura/ferry-lobos.webp
 imagenAlt: "Passenger ferry between Corralejo and Lobos Island"
 galeria:
 - src: "PENDIENTE:Isla de Lobos"

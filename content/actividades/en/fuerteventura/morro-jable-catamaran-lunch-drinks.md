@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: Magic Select catamaran with food and drinks'
 slug: morro-jable-catamaran-lunch-drinks
 ciudad: fuerteventura
@@ -77,7 +77,7 @@ keywords:
 - morro jable catamaran
 - jandia boat trip with lunch
 - fuerteventura dolphin catamaran
-imagen: "PENDIENTE:catamarán Morro Jable"
+imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
 imagenAlt: "Catamaran sailing off the Jandía coast"
 galeria:
 - src: "PENDIENTE:costa de Jandía"

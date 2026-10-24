@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Playa Blanca: Papagayo mini-cruise with a swim stop'
 slug: papagayo-beach-cruise-playa-blanca
 ciudad: lanzarote
@@ -78,7 +78,7 @@ keywords:
 - papagayo beaches by boat
 - lanzarote boat trip
 - papagayo cruise
-imagen: "PENDIENTE:catamarán Papagayo"
+imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: A catamaran anchored in a Papagayo cove
 galeria:
 - src: "PENDIENTE:Playas de Papagayo"

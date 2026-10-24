@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: Oasis Wildlife ticket'
 slug: oasis-wildlife-fuerteventura-ticket
 ciudad: fuerteventura
@@ -71,7 +71,7 @@ keywords:
 - oasis wildlife fuerteventura tickets
 - fuerteventura zoo
 - la lajita fuerteventura
-imagen: "PENDIENTE:Oasis Park"
+imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: "Animal enclosure at Oasis Wildlife Fuerteventura"
 galeria:
 - src: "PENDIENTE:jirafas Oasis Park"

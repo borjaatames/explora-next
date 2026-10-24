@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: catamarán a la Isla de Lobos con comida y esnórquel'
 slug: catamaran-isla-lobos-corralejo
 ciudad: fuerteventura
@@ -75,7 +75,7 @@ keywords:
 - excursion lobos corralejo
 - catamaran corralejo
 - snorkel isla de lobos
-imagen: "PENDIENTE:catamarán Lobos"
+imagen: /images/actividades/fuerteventura/catamaran-lobos.webp
 imagenAlt: "Catamarán fondeado frente a la Isla de Lobos"
 galeria:
 - src: "PENDIENTE:playa de La Concha Lobos"

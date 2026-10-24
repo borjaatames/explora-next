@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'La Graciosa: catamarán con almuerzo, baño y kayak'
 slug: la-graciosa-catamaran-almuerzo
 ciudad: lanzarote
@@ -82,7 +82,7 @@ keywords:
 - catamaran la graciosa
 - la graciosa desde lanzarote
 - playa francesa
-imagen: "PENDIENTE:catamarán La Graciosa"
+imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
 imagenAlt: Catamarán fondeado frente a la costa de La Graciosa
 galeria:
 - src: "PENDIENTE:Caleta de Sebo"

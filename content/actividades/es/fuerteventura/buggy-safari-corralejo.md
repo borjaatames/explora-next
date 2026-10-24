@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: safari en buggy por pistas y volcanes del norte'
 slug: buggy-safari-corralejo
 ciudad: fuerteventura
@@ -82,7 +82,7 @@ keywords:
 - buggy fuerteventura
 - excursion buggy norte fuerteventura
 - safari buggy corralejo
-imagen: "PENDIENTE:buggy Corralejo"
+imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
 imagenAlt: "Buggy por una pista de tierra en el norte de Fuerteventura"
 galeria:
 - src: "PENDIENTE:Dunas de Corralejo"

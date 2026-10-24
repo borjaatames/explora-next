@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Fuerteventura: entrada a Oasis Wildlife'
 slug: oasis-wildlife-fuerteventura-entrada
 ciudad: fuerteventura
@@ -71,7 +71,7 @@ keywords:
 - oasis wildlife fuerteventura entradas
 - zoo fuerteventura
 - la lajita fuerteventura
-imagen: "PENDIENTE:Oasis Park"
+imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: "Recinto de animales en Oasis Wildlife Fuerteventura"
 galeria:
 - src: "PENDIENTE:jirafas Oasis Park"

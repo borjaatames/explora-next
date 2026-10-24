@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Corralejo: Lobos Island catamaran with lunch and snorkelling'
 slug: corralejo-lobos-island-catamaran
 ciudad: fuerteventura
@@ -75,7 +75,7 @@ keywords:
 - corralejo lobos boat trip
 - corralejo catamaran
 - lobos island snorkelling
-imagen: "PENDIENTE:catamarán Lobos"
+imagen: /images/actividades/fuerteventura/catamaran-lobos.webp
 imagenAlt: "Catamaran anchored off Lobos Island"
 galeria:
 - src: "PENDIENTE:playa de La Concha Lobos"

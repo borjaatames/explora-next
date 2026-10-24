@@ -1,4 +1,4 @@
----
+﻿---
 titulo: 'Lanzarote: barco al atardecer para ver delfines'
 slug: barco-atardecer-delfines-puerto-del-carmen
 ciudad: lanzarote
@@ -78,7 +78,7 @@ keywords:
 - catamaran puerto del carmen
 - puesta de sol lanzarote
 - excursion barco lanzarote
-imagen: "PENDIENTE:delfines catamarán"
+imagen: /images/actividades/lanzarote/barco-delfines.webp
 imagenAlt: Delfines nadando junto a un catamarán
 galeria:
 - src: "PENDIENTE:atardecer catamarán Lanzarote"
