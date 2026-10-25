@@ -85,8 +85,6 @@ imagenAlt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-de-los-caidos-by-forcy-cruz-basilica-hero.webp
   alt: "La cruz de Cuelgamuros sobre la roca y la explanada de la basílica"
-- src: https://imgcdn.bokun.tools/d5bc0977-2854-4f32-9020-4969cc440ecd.jpg
-  alt: "El Monasterio de El Escorial junto al estanque de la Huerta"
 - src: /images/actividades/madrid/escorial/escorial-tour-01.webp
   alt: "Real Biblioteca de El Escorial, con su bóveda pintada al fresco"
 - src: /images/actividades/madrid/valle-caidos/valle-de-los-caidos-large-white-building-cross-top-it-hero.webp

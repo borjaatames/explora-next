@@ -84,8 +84,6 @@ imagenAlt: Façade of the Royal Monastery of San Lorenzo de El Escorial
 galeria:
 - src: /images/actividades/madrid/valle-caidos/valle-de-los-caidos-by-forcy-cruz-basilica-hero.webp
   alt: "The Cuelgamuros cross on the rock above the basilica esplanade"
-- src: https://imgcdn.bokun.tools/d5bc0977-2854-4f32-9020-4969cc440ecd.jpg
-  alt: "The Monastery of El Escorial beside the Huerta pond"
 - src: /images/actividades/madrid/escorial/escorial-tour-01.webp
   alt: "Royal Library of El Escorial with its frescoed vault"
 - src: /images/actividades/madrid/valle-caidos/valle-de-los-caidos-large-white-building-cross-top-it-hero.webp
