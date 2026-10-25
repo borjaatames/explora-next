@@ -1,129 +1,134 @@
 ---
-titulo: "Santiago Bernabéu Stadium: Guided Tour with Expert Guide"
-slug: "bernabeu-guided-tour"
-ciudad: "madrid"
-descripcion: "Guided tour of Santiago Bernabéu Stadium and Real Madrid Museum, 105 minutes to 2 hours with a football-specialist guide. Operator Julia Travel Gray Line. 4.1/5 across 1,532 reviews."
-
+titulo: 'Santiago Bernabéu Stadium: Guided Tour with Expert Guide'
+slug: bernabeu-guided-tour
+ciudad: madrid
+descripcion: Guided tour of Santiago Bernabéu Stadium and Real Madrid Museum, 105 minutes to 2 hours with a football-specialist guide. Operator Julia Travel Gray Line. 4.1/5 across 1,532 reviews.
 slugs:
-  es: "bernabeu-visita-guiada"
-  en: "bernabeu-guided-tour"
-
-duracion: "2 hours"
+  es: bernabeu-visita-guiada
+  en: bernabeu-guided-tour
+duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 58
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/madrid-l46/madrid-visita-guiada-al-estadio-bernabeu-t362290/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/madrid-l46/madrid-visita-guiada-al-estadio-bernabeu-t362290/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Football-specialist guide on Real Madrid's history (radio guide included)"
-  - "Real Madrid Museum, benches, dressing rooms and panoramic view"
-  - "Optional photo with the Champions trophy and photo montage with players"
-  - "«Likely to sell out» product in high demand"
-  - "Available in Spanish and English, with private or small-group options"
-
+- Football-specialist guide on Real Madrid's history (radio guide included)
+- Real Madrid Museum, benches, dressing rooms and panoramic view
+- Optional photo with the Champions trophy and photo montage with players
+- «Likely to sell out» product in high demand
+- Available in Spanish and English, with private or small-group options
 incluye:
-  - "Football-specialist guide"
-  - "Entry to Real Madrid CF Stadium"
-  - "Radio guide system with headphones"
-
+- Football-specialist guide
+- Entry to Real Madrid CF Stadium
+- Radio guide system with headphones
 noIncluye:
-  - "Food and drinks"
-  - "Souvenir photo with the trophy (optional purchase)"
-  - "Transport to the stadium"
-  - "Hotel pickup"
-
+- Food and drinks
+- Souvenir photo with the trophy (optional purchase)
+- Transport to the stadium
+- Hotel pickup
 puntoEncuentro:
-  texto: "Santiago Bernabéu Stadium, entry through the Bernabéu Tour area (Tour entrance, not the spectator one). The exact meeting point can vary depending on the option booked — all of them are around the 40.4517, -3.6899 coordinate."
-  descripcionGuia: "The meeting point varies slightly depending on the option: late afternoon tour, English tour, Spanish tour or private tour. Confirm the exact entrance in your booking email. Santiago Bernabéu metro (line 10) is 100 metres away. Arrive 15 minutes early — security can take time, especially on busy days."
+  texto: Santiago Bernabéu Stadium, entry through the Bernabéu Tour area (Tour entrance, not the spectator one). The exact meeting point can vary depending on the option booked — all of them are around the 40.4517, -3.6899 coordinate.
+  descripcionGuia: 'The meeting point varies slightly depending on the option: late afternoon tour, English tour, Spanish tour or private tour. Confirm the exact entrance in your booking email. Santiago Bernabéu metro (line 10) is 100 metres away. Arrive 15 minutes early — security can take time, especially on busy days.'
   latitud: 40.4517
   longitud: -3.6899
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Comfortable shoes (long route with stairs)"
-    - "ID document (may be requested at security)"
-    - "Water bottle (not included)"
+  - Comfortable shoes (long route with stairs)
+  - ID document (may be requested at security)
+  - Water bottle (not included)
   noAptoPara:
-    - "People with reduced mobility"
-    - "Wheelchair users (the full tour cannot be completed)"
-    - "Pets (service dogs only)"
+  - People with reduced mobility
+  - Wheelchair users (the full tour cannot be completed)
+  - Pets (service dogs only)
   aTenerEnCuenta:
-    - "From 12:00 on the day before a match until reopening the day after, only the Museum and the panoramic view are available — dressing rooms and benches are closed"
-    - "Operator: Julia Travel Gray Line Spain (not GetYourGuide directly)"
-    - "Overall score is 4.1/5 — some travellers criticise the lack of clear info on match-day closures"
-    - "Choose your language at booking — the tour is not bilingual simultaneously"
-    - "Private or small-group options available at a higher price"
-
-accesibilidad: "The operator explicitly states this is NOT suitable for people with reduced mobility or wheelchair users — the full route cannot be completed. If you need accessibility, see the self-guided Bernabéu entry, where the museum and panoramic view are accessible."
-
-politicaCancelacion: "Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available."
-
+  - From 12:00 on the day before a match until reopening the day after, only the Museum and the panoramic view are available — dressing rooms and benches are closed
+  - 'Operator: Julia Travel Gray Line Spain (not GetYourGuide directly)'
+  - Overall score is 4.1/5 — some travellers criticise the lack of clear info on match-day closures
+  - Choose your language at booking — the tour is not bilingual simultaneously
+  - Private or small-group options available at a higher price
+accesibilidad: The operator explicitly states this is NOT suitable for people with reduced mobility or wheelchair users — the full route cannot be completed. If you need accessibility, see the self-guided Bernabéu entry, where the museum and panoramic view are accessible.
+politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
-  - pregunta: "How does this guided tour differ from the self-guided ticket?"
-    respuesta: "The self-guided ticket (Bernabéu Tour Entry) is cheaper but doesn't include a guide: you walk the stadium reading panels and watching audiovisuals. This guided option adds a football-specialist guide on Real Madrid's history, with individual radio guide, lasting 105 minutes to 2 hours. Reviews repeatedly mention guides like Daniel, Cristina or Sylvia for their knowledge of the club."
-  - pregunta: "Why is the rating 4.1/5 and not higher?"
-    respuesta: "The guide score is 4.3/5, but «value for money» drops to 3.6/5 — for many travellers €62 for the guided version is expensive, especially when it coincides with days when dressing rooms and benches are closed due to proximity to a match. The recurring criticism is the lack of clear warning about these closures before booking."
-  - pregunta: "Is it wheelchair accessible?"
-    respuesta: "No. The operator states this explicitly: not suitable for people with reduced mobility or wheelchair users because the full route cannot be completed. If you need accessibility, consider the self-guided ticket — at least the museum and panoramic view are accessible there."
-  - pregunta: "Can I choose the language of the tour?"
-    respuesta: "Yes. There are specific options for guided tour in Spanish and in English. Choose the language at booking. There's also a private tour option in English. It doesn't work as a simultaneous bilingual format."
-  - pregunta: "What happens if I visit on a match day?"
-    respuesta: "From 12:00 on the day before a match until reopening the day after, dressing rooms and benches are closed. Only the Real Madrid Museum and the panoramic view of the stadium are available. The most valued part of the Tour (dressing rooms and pitchside) is missed. Check the Real Madrid calendar before fixing a date."
+- pregunta: How does this guided tour differ from the self-guided ticket?
+  respuesta: 'The self-guided ticket (Bernabéu Tour Entry) is cheaper but doesn''t include a guide: you walk the stadium reading panels and watching audiovisuals. This guided option adds a football-specialist guide on Real Madrid''s history, with individual radio guide, lasting 105 minutes to 2 hours. Reviews repeatedly mention guides like Daniel, Cristina or Sylvia for their knowledge of the club.'
+- pregunta: Why is the rating 4.1/5 and not higher?
+  respuesta: The guide score is 4.3/5, but «value for money» drops to 3.6/5 — for many travellers €62 for the guided version is expensive, especially when it coincides with days when dressing rooms and benches are closed due to proximity to a match. The recurring criticism is the lack of clear warning about these closures before booking.
+- pregunta: Is it wheelchair accessible?
+  respuesta: 'No. The operator states this explicitly: not suitable for people with reduced mobility or wheelchair users because the full route cannot be completed. If you need accessibility, consider the self-guided ticket — at least the museum and panoramic view are accessible there.'
+- pregunta: Can I choose the language of the tour?
+  respuesta: Yes. There are specific options for guided tour in Spanish and in English. Choose the language at booking. There's also a private tour option in English. It doesn't work as a simultaneous bilingual format.
+- pregunta: What happens if I visit on a match day?
+  respuesta: From 12:00 on the day before a match until reopening the day after, dressing rooms and benches are closed. Only the Real Madrid Museum and the panoramic view of the stadium are available. The most valued part of the Tour (dressing rooms and pitchside) is missed. Check the Real Madrid calendar before fixing a date.
+variantes:
+- bernabeu-entry-ticket
+opinionEditorial: 'This is the guided version of the Bernabéu Tour on GetYourGuide, operated by Julia Travel Gray Line. 4.1/5 across 1,532 reviews and flagged as «likely to sell out» in high demand. The guide score is 4.3/5 — good, not exceptional. Reviews repeatedly praise the guides for their knowledge of the club, which justifies the gap over the self-guided ticket if you value historical context.
 
-variantes: ["bernabeu-entry-ticket"]
 
-opinionEditorial: |
-  This is the guided version of the Bernabéu Tour on GetYourGuide, operated by Julia Travel Gray Line. 4.1/5 across 1,532 reviews and flagged as «likely to sell out» in high demand. The guide score is 4.3/5 — good, not exceptional. Reviews repeatedly praise the guides for their knowledge of the club, which justifies the gap over the self-guided ticket if you value historical context.
+  The systemic issue is «value for money», which drops to 3.6/5: €62 for the guided version feels expensive to a substantial share of travellers, especially when it coincides with days where dressing rooms and benches are closed due to match proximity. The most recurring complaint is NOT the quality of the tour but the lack of explicit warning about these closures before booking. Check the Real Madrid calendar before picking a date — if your visit lands on the eve of or the day of a match, you''ll miss the most spectacular part of the route.
 
-  The systemic issue is «value for money», which drops to 3.6/5: €62 for the guided version feels expensive to a substantial share of travellers, especially when it coincides with days where dressing rooms and benches are closed due to match proximity. The most recurring complaint is NOT the quality of the tour but the lack of explicit warning about these closures before booking. Check the Real Madrid calendar before picking a date — if your visit lands on the eve of or the day of a match, you'll miss the most spectacular part of the route.
 
-  Who it's for: Real Madrid fans who value the historical narrative with a human guide and radio guide, travellers who prefer explained context over wandering with panels. Who it's NOT for: travellers with reduced mobility (the operator explicitly marks it as not suitable), anyone needing to save (the self-guided ticket costs about €20 less) and anyone visiting on the eve of or the day of a match (you'll miss dressing rooms and benches without refund for that reason).
+  Who it''s for: Real Madrid fans who value the historical narrative with a human guide and radio guide, travellers who prefer explained context over wandering with panels. Who it''s NOT for: travellers with reduced mobility (the operator explicitly marks it as not suitable), anyone needing to save (the self-guided ticket costs about €20 less) and anyone visiting on the eve of or the day of a match (you''ll miss dressing rooms and benches without refund for that reason).
 
+  '
 atraccionesRelacionadas:
 - futbol
 categoria: visitasGuiadas
-keywords: ["bernabeu guided tour", "real madrid stadium guided", "bernabeu tour english guide", "santiago bernabeu guided english", "bernabeu stadium expert guide"]
-
-imagen: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp"
-imagenAlt: "Stands and pitch of the renovated Bernabéu"
-
+keywords:
+- bernabeu guided tour
+- real madrid stadium guided
+- bernabeu tour english guide
+- santiago bernabeu guided english
+- bernabeu stadium expert guide
+imagen: /images/actividades/madrid/bernabeu-nuevo/bernabeu-tour-gradas-real-madrid.webp
+imagenAlt: Stands of the renovated Bernabéu with the 'Tour Bernabéu' sign and the Real Madrid lettering
 galeria:
-  - src: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
-    alt: "Aerial view of the new Santiago Bernabéu Stadium in Madrid at sunset"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp"
-    alt: "Façade of the new Santiago Bernabéu Stadium after the renovation"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-cubierta-retractil-hero.webp"
-    alt: "The Bernabéu's retractable roof seen from inside"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cesped-hero.webp"
-    alt: "Overview of the Bernabéu interior from the upper tier"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-panoramica-hero.webp"
-    alt: "Panoramic view of the Bernabéu stands under the new roof"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-metro-entrada-hero.webp"
-    alt: "Entrance to Santiago Bernabéu metro station"
-  - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-02-hero.webp"
-    alt: "The Bernabéu's metal façade from Paseo de la Castellana"
-  - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
-    alt: "Real Madrid dressing room at the Santiago Bernabéu Stadium"
-
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cubierta-madrid.webp
+  alt: Inside the new Bernabéu with its roof and 360° video board
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
+  alt: Stands and pitch of the renovated Bernabéu
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-aerea-atardecer.webp
+  alt: Aerial view of the new Bernabéu at sunset with the roof closed
+- src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
+  alt: Real Madrid dressing room at the Santiago Bernabéu Stadium
+- src: /images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp
+  alt: Aerial view of the new Santiago Bernabéu Stadium in Madrid at sunset
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-exterior-atardecer-ciudad.webp
+  alt: The Bernabéu's metal-slat façade among the buildings of Chamartín at sunset
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
+  alt: Façade of the new Santiago Bernabéu Stadium after the renovation
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-detalle.webp
+  alt: Detail of the new Bernabéu's curved metal-slat façade
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-cubierta-retractil-hero.webp
+  alt: The Bernabéu's retractable roof seen from inside
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-exterior-castellana-2024.webp
+  alt: The new Bernabéu seen from a tree-lined street in Chamartín
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cesped-hero.webp
+  alt: Overview of the Bernabéu interior from the upper tier
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-exterior-fachada-2024.webp
+  alt: Façade of the renovated Bernabéu under Madrid's blue sky
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-panoramica-hero.webp
+  alt: Panoramic view of the Bernabéu stands under the new roof
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-partido-lleno.webp
+  alt: A packed Bernabéu during a Champions League match with the roof closed
 ratingProveedor: 4.1
 numeroOpiniones: 1532
-
 publicada: true
 destacada: false
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see
