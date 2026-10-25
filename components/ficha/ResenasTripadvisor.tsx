@@ -56,8 +56,10 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
     }
   };
   const paginaProveedor = urlProveedor(resenas[0]?.url);
+  // Enlaces obligatorios por la política de Tripadvisor, pero discretos: gris
+  // y subrayado fino, sin flecha ni negrita, para no competir con la reserva.
   const claseEnlace =
-    "font-semibold text-anil-600 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded";
+    "text-piedra-500 underline decoration-piedra-300 underline-offset-2 hover:text-piedra-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded";
 
   useEffect(() => {
     const el = ref.current;
@@ -145,14 +147,14 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
                     onClick={() => medirClic("resena")}
                     className={claseEnlace}
                   >
-                    {t.leer} →
+                    {t.leer}
                   </a>
                 </div>
               </li>
             ))}
           </ul>
           {paginaProveedor && (
-            <p className="mt-3 text-sm text-right">
+            <p className="mt-3 text-xs text-right">
               <a
                 href={paginaProveedor}
                 target="_blank"
@@ -160,7 +162,7 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
                 onClick={() => medirClic("mas")}
                 className={claseEnlace}
               >
-                {t.mas} →
+                {t.mas}
               </a>
             </p>
           )}
