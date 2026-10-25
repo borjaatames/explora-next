@@ -1,38 +1,42 @@
 ---
-titulo: El Escorial and Royal Monastery Private Day Tour from Madrid
+titulo: 'El Escorial and Valley of Cuelgamuros: Private Tour from Madrid with Hotel Pickup'
 slug: el-escorial-royal-monastery-private-day-tour
 ciudad: madrid
-descripcion: Private full-day trip from Madrid to El Escorial, with private transport, admission and a guide just for your group.
+descripcion: Private 5.5-hour tour from Madrid to the Monastery of El Escorial and the Valley of Cuelgamuros, with hotel pickup, an official guide just for your group and entry tickets included. From €820 for 1 or 2 people.
 slugs:
   es: tour-privado-escorial-monasterio-real
   en: el-escorial-royal-monastery-private-day-tour
-duracion: 10 hours
-duracionMinutos: 600
-precioDesde: 1499
+duracion: 5 hours 30 minutes
+duracionMinutos: 330
+precioDesde: 820
 moneda: EUR
 idiomas:
-- es
 - en
+- es
 proveedor: bokun
-bokunProductId: 1176595
+bokunProductId: 1263516
 urlReserva: ''
 cancelacionGratuita: true
+horasCancelacion: 24
 highlights:
-- Private full-day trip for your group only
-- Private transport, admission and a dedicated guide included
-- The Royal Monastery of San Lorenzo de El Escorial and the Habsburg legacy
-- A route through Madrid's royal landmarks before heading to the sierra
+- Private tour just for your group, with pickup and drop-off at your hotel in Madrid
+- Official guide for 4 hours, in English or Spanish
+- Entry to the Monastery of El Escorial and the Valley of Cuelgamuros included
+- El Escorial's basilica, library, royal apartments and Royal Pantheon
+- The 150-metre cross and the basilica carved into the rock at Cuelgamuros
 incluye:
-- Private transport
-- Admission fees
-- Live tour guide
+- Pickup and drop-off at your hotel or accommodation in Madrid
+- Private transport with driver
+- Private official guide for 4 hours
+- Entry to the Royal Monastery of San Lorenzo de El Escorial
+- Entry to the Valley of Cuelgamuros
+- Support from one of the operator's travel agents
 noIncluye:
-- Food & drinks
-- Lunch
+- Food and drinks
 - Tips
 puntoEncuentro:
-  texto: Pick-up at your accommodation in Madrid
-  descripcionGuia: The guide picks you up at your accommodation showing an ID. The exact point and time are confirmed on booking.
+  texto: Pickup at your hotel or accommodation in Madrid
+  descripcionGuia: The driver and guide pick you up at your hotel. When you book, tell them where you are staying; departures are at 9:00 or 10:00.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 13
@@ -42,62 +46,93 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-accesibilidad: Not wheelchair accessible. Includes walking with steps; a medium fitness level is required. Not recommended for people with heart conditions.
-politicaCancelacion: Free cancellation up to the start of the activity, with a full refund.
-opinionEditorial: 'El Escorial is poorly connected by public transport, so a private tour with hotel pick-up, transport, admission and a guide solves the whole day with no hassle. The difference from a group excursion is control: you go at your own pace, with a guide just for you and time for the monastery, which is huge. It''s the premium option —€1,499 per group— for those who want total comfort and a tailored visit; lunch is not included, so plan for that.'
+informacionImportante:
+  queTraer:
+  - Comfortable shoes
+  - A warm layer in winter, it is colder in the sierra than in Madrid
+  noAptoPara:
+  - Wheelchair users
+  aTenerEnCuenta:
+  - 'Total price per group: €820 for 1 or 2 people, €1,170 for 3, €1,480 for 4, €1,750 for 5 and €1,920 for 6'
+  - The duration includes the round-trip transfers from Madrid
+  - The Monastery of El Escorial is closed on Mondays
+accesibilidad: Not wheelchair accessible.
+politicaCancelacion: Free cancellation up to 24 hours before, with a full refund. No refund for cancellations within 24 hours or no-shows.
+preguntasFrecuentes:
+- pregunta: Is the price per person or per group?
+  respuesta: Per group. For 1 or 2 people it is €820 in total (€410 each for two); for 4 people, €1,480.
+- pregunta: Are entry tickets included?
+  respuesta: Yes, for the Monastery of El Escorial and the Valley of Cuelgamuros.
+- pregunta: How long does it take?
+  respuesta: About 5.5 hours in total, including transfers from and to your hotel. The guide is with you for about 4 hours.
+- pregunta: What language is it in?
+  respuesta: English or Spanish, with an official guide just for your group.
+opinionEditorial: 'El Escorial and Cuelgamuros are less than an hour from Madrid, but public transport makes it hard to combine them in one day. This private tour solves it all: hotel pickup, a guide just for you and tickets included. You are back in half a day.
+
+
+  It is expensive for a couple (€820), but the price is per group and drops a lot for families or friends: with 4 people it works out at €370 each. If you are travelling alone or on a budget, the group tour to El Escorial and Cuelgamuros costs much less.'
 atraccionesRelacionadas:
 - escorial
 - excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
-- el escorial private tour from madrid
-- private day trip el escorial monastery
-- el escorial full day private
-imagen: /images/actividades/madrid/escorial/escorial-tour-01.webp
-imagenAlt: Facade of the Royal Monastery of San Lorenzo de El Escorial
+- private el escorial tour from madrid
+- el escorial and valley of the fallen private tour
+- private guide el escorial
+imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp
+imagenAlt: Façade of the Royal Monastery of San Lorenzo de El Escorial
 galeria:
-- src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
-  alt: Library of the El Escorial monastery
-- src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
-  alt: Painting gallery at El Escorial
-- src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
-  alt: Marble sculpture group seen on the tour
-- src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg
-  alt: Painted ceilings inside El Escorial
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
-  alt: Statues of the Kings of Judah on the basilica facade of El Escorial Monastery
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
-  alt: Detail of the bronze door knocker on the main portal of El Escorial Monastery
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
-  alt: View of El Escorial Monastery and its gardens under a cloudy sky
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
-  alt: Library of El Escorial Monastery, with its frescoed vaulted ceiling
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp
-  alt: Facade of El Escorial Monastery under a stormy sky
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero-hero.webp
-  alt: Facade of the Basilica of San Lorenzo de El Escorial
-- src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-2-hero.webp
-  alt: View of the basilica of El Escorial Monastery through one of its archways
+- src: /images/actividades/madrid/valle-caidos/valle-de-los-caidos-by-forcy-cruz-basilica-hero.webp
+  alt: "The Cuelgamuros cross on the rock above the basilica esplanade"
+- src: https://imgcdn.bokun.tools/d5bc0977-2854-4f32-9020-4969cc440ecd.jpg
+  alt: "The Monastery of El Escorial beside the Huerta pond"
+- src: /images/actividades/madrid/escorial/escorial-tour-01.webp
+  alt: "Royal Library of El Escorial with its frescoed vault"
+- src: /images/actividades/madrid/valle-caidos/valle-de-los-caidos-large-white-building-cross-top-it-hero.webp
+  alt: "Overview of Cuelgamuros: basilica, esplanade and the cross in the sierra"
+- src: https://imgcdn.bokun.tools/113735f1-9ebb-4a88-8700-daa1d4a1a55c.jpg
+  alt: "San Lorenzo de El Escorial and the monastery seen from the sierra"
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp
+  alt: "High altar of the basilica carved into the rock at Cuelgamuros"
+- src: https://imgcdn.bokun.tools/b1d9ebcc-ff07-467c-a552-29f6a94c0301.jpg
+  alt: "Main façade of the Monastery of El Escorial"
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-by-forcy-cruz-piedad-hero.webp
+  alt: "The Pietà sculpture at the foot of the Cuelgamuros cross"
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp
+  alt: "Entrance to the Royal Pantheon of the Monastery of El Escorial"
+- src: https://imgcdn.bokun.tools/0ca6ef03-22ae-4c40-a012-c6c796fd8e22.jpg
+  alt: "Gardens of the Monastery of El Escorial with the sierra behind"
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-3-hero.webp
-  alt: El Escorial Monastery reflected in the garden's pond
+  alt: "The Monastery of El Escorial reflected in the garden pond"
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
+  alt: "Bronze door knocker on the main portal of the Monastery of El Escorial"
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-23'
+fecha_actualizacion: '2026-10-25'
 privada: true
 precioPorGrupo: true
 ---
 
-## What you'll see
+## What you will see
 
-A private full day from Madrid to **El Escorial** and the city's royal landmarks. Before heading to the sierra you take in Madrid's royal heart — the Pantheon of Spain, the Royal Basilica of San Miguel, the Almudena Cathedral, the Royal Palace and the Zarzuela Palace gardens — and then the **Royal Monastery of San Lorenzo de El Escorial**, the vast Habsburg complex with its basilica, library and royal pantheon.
+- **Royal Monastery of San Lorenzo de El Escorial:** the vast complex built by Philip II in the 16th century, a UNESCO World Heritage Site. Your guide takes you through the basilica, cloisters, royal apartments, library and the **Royal Pantheon**.
+- **Valley of Cuelgamuros** (formerly the Valley of the Fallen): in the Guadarrama mountains, with a stone cross over 150 metres high and a basilica carved into the mountain. Your guide explains how it was built and its place in Spain's recent history.
 
 ## How it works
 
-It's a **private tour for your group only**, with **hotel pickup**, private transport, admission and a dedicated guide. You go at your own pace, with proper time for the monastery. **Book at least 1 day ahead.** Lunch isn't included, so plan for that, and note there's walking and steps (a medium fitness level helps).
+It is a **private tour just for your group**. The driver and an **official guide** pick you up at your Madrid hotel at 9:00 or 10:00, depending on the time you choose, and you travel by private vehicle to El Escorial. After the visit you continue to Cuelgamuros, and at the end they drop you back at your hotel or wherever you prefer in the centre.
 
-## Who I'd recommend it to
+It takes about **5.5 hours** in total, transfers included. Tickets for both monuments are included; food is not.
 
-- Anyone who wants El Escorial without the hassle — it's poorly connected by public transport.
-- Families or groups who value a private guide, comfort and a tailored pace.
-- Not for solo travellers on a budget: it's the premium option (€1,499 per group).
+## Who I recommend it for
+
+- Families and groups of 3 to 6: the price is per group, so it works out much cheaper per person.
+- Anyone who wants to see El Escorial and Cuelgamuros on the same day without relying on trains and buses.
+- Travellers who want a guide just for their group and time for all their questions.
+
+## Who I don't recommend it for
+
+- Solo travellers or couples on a budget: the group tour costs much less.
+- Wheelchair users: it is not accessible.
+- Mondays: the Monastery of El Escorial is closed.
