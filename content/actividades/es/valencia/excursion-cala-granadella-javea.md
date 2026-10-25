@@ -1,8 +1,8 @@
 ---
-titulo: "Excursión a la Cala Granadella en Jávea"
+titulo: Excursión a la Cala Granadella en Jávea
 slug: excursion-cala-granadella-javea
 ciudad: valencia
-descripcion: "Excursión de un día a la Cala Granadella, en Jávea, una de las calas más bonitas de la Costa Blanca, con aguas turquesa ideales para el baño y el snorkel."
+descripcion: Excursión de un día a la Cala Granadella, en Jávea, una de las calas más bonitas de la Costa Blanca, con aguas turquesa ideales para el baño y el snorkel.
 slugs:
   es: excursion-cala-granadella-javea
   en: cala-granadella-javea-day-trip
@@ -14,7 +14,7 @@ idiomas:
 - es
 proveedor: bokun
 bokunProductId: 1034927
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -34,26 +34,26 @@ puntoEncuentro:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
-opinionEditorial: "La Granadella es de esas calas que salen en todas las listas de las mejores de España, y con razón: agua turquesa, pinos hasta la orilla y buen snorkel. Ir con transporte desde Valencia te quita el problema del aparcamiento, que en verano es una odisea."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+opinionEditorial: 'La Granadella es de esas calas que salen en todas las listas de las mejores de España, y con razón: agua turquesa, pinos hasta la orilla y buen snorkel. Ir con transporte desde Valencia te quita el problema del aparcamiento, que en verano es una odisea.'
 categoria: excursionesDia
 keywords:
 - excursion cala granadella
 - playa javea desde valencia
 - mejores calas costa blanca
-imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
+imagen: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
 imagenAlt: Aguas turquesa de la Cala Granadella en Jávea, Costa Blanca
 galeria:
 - src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
-  alt: "Aguas turquesa de la cala Granadella"
+  alt: Aguas turquesa de la cala Granadella
 - src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
-  alt: "Agua cristalina entre rocas en la Granadella"
+  alt: Agua cristalina entre rocas en la Granadella
 - src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
-  alt: "La cala Granadella entre acantilados"
+  alt: La cala Granadella entre acantilados
 - src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
-  alt: "Playa de la Granadella con bañistas"
+  alt: Playa de la Granadella con bañistas
 - src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
-  alt: "Vista aérea de la cala Granadella"
+  alt: Vista aérea de la cala Granadella
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
   alt: Vista aerea de la Cala Granadella, con su playa y las montanas que la rodean
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
@@ -67,7 +67,7 @@ galeria:
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
   alt: Cala mediterránea de aguas turquesa en la Costa Blanca
 atraccionesRelacionadas:
-  - excursiones
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

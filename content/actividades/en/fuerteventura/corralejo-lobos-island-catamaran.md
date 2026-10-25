@@ -69,7 +69,7 @@ opinionEditorial: 'It''s the most comfortable way to see Lobos and one of the be
 guiasRelacionadas:
 - lobos-island-how-to-get-there
 - what-to-see-in-fuerteventura
-categoria: excursionesDia
+categoria: agua
 keywords:
 - lobos island catamaran
 - corralejo lobos boat trip
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 1183
 atraccionesRelacionadas:
+- isla-lobos
 - lobos
 publicada: true
 destacada: false

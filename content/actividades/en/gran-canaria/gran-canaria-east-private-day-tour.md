@@ -2,8 +2,7 @@
 titulo: Gran Canaria East of the Island Private Day Tour
 slug: gran-canaria-east-private-day-tour
 ciudad: gran-canaria
-descripcion: Private full-day tour of eastern Gran Canaria, with private transport
-  and guide, through Agüimes, the Guayadeque ravine, Tufia and the Bandama crater.
+descripcion: Private full-day tour of eastern Gran Canaria, with private transport and guide, through Agüimes, the Guayadeque ravine, Tufia and the Bandama crater.
 slugs:
   es: tour-privado-gran-canaria-este
   en: gran-canaria-east-private-day-tour
@@ -16,7 +15,7 @@ idiomas:
 - fr
 proveedor: bokun
 bokunProductId: 1125599
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Private full-day tour for your group only
@@ -30,8 +29,7 @@ noIncluye:
 - Meals
 puntoEncuentro:
   texto: Pick-up at your accommodation in Gran Canaria
-  descripcionGuia: The guide picks you up in your accommodation lobby. Point and time
-    confirmed on booking.
+  descripcionGuia: The guide picks you up in your accommodation lobby. Point and time confirmed on booking.
   latitud: 28.0997
   longitud: -15.4134
   zoom: 11
@@ -41,36 +39,34 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-politicaCancelacion: Free cancellation up to the start of the activity, with a full
-  refund.
-opinionEditorial: 'A very comfortable way to see the most authentic side of Gran Canaria,
-  away from the crowded beaches: Agüimes, the spectacular Guayadeque ravine with its
-  cave houses, Tufia and the Bandama crater, all private and at your own pace. Note:
-  the tour runs in English and French (not Spanish).'
-categoria: experienciasPrivadas
+politicaCancelacion: Free cancellation up to the start of the activity, with a full refund.
+opinionEditorial: 'A very comfortable way to see the most authentic side of Gran Canaria, away from the crowded beaches: Agüimes, the spectacular Guayadeque ravine with its cave houses, Tufia and the Bandama crater, all private and at your own pace. Note: the tour runs in English and French (not Spanish).'
+categoria: toursCiudad
 keywords:
 - gran canaria east private tour
 - private gran canaria guayadeque bandama
-imagen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
+imagen: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
 imagenAlt: Landscape of eastern Gran Canaria
 galeria:
-  - src: "/images/actividades/gran-canaria/tufia/pueblo-pesquero-tufia-panoramica.webp"
-    alt: "Vista panoramica del pueblo pesquero de Tufia, Gran Canaria"
-  - src: "/images/actividades/gran-canaria/tufia/casas-blancas-bahia-tufia.webp"
-    alt: "Casas blancas junto a la bahia de Tufia, Gran Canaria"
-  - src: "/images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp"
-    alt: "Guayadeque ravine, one of the stops on this east Gran Canaria tour"
-  - src: "/images/actividades/gran-canaria/guayadeque/casas-cueva.webp"
-    alt: "Traditional cave houses in the Guayadeque ravine"
-  - src: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
-    alt: "Cueva Bermeja, the San Bartolomé chapel in Guayadeque"
-  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp"
-    alt: "Hillsides of the Guayadeque ravine"
-  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp"
-    alt: "The Guayadeque ravine running down toward the sea"
+- src: /images/actividades/gran-canaria/tufia/pueblo-pesquero-tufia-panoramica.webp
+  alt: Vista panoramica del pueblo pesquero de Tufia, Gran Canaria
+- src: /images/actividades/gran-canaria/tufia/casas-blancas-bahia-tufia.webp
+  alt: Casas blancas junto a la bahia de Tufia, Gran Canaria
+- src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp
+  alt: Guayadeque ravine, one of the stops on this east Gran Canaria tour
+- src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
+  alt: Traditional cave houses in the Guayadeque ravine
+- src: /images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp
+  alt: Cueva Bermeja, the San Bartolomé chapel in Guayadeque
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
+  alt: Hillsides of the Guayadeque ravine
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
+  alt: The Guayadeque ravine running down toward the sea
 publicada: false
 destacada: false
 fecha: '2026-06-18'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

@@ -53,7 +53,7 @@ politicaCancelacion: 'Según el proveedor, la reserva no es reembolsable: revisa
 opinionEditorial: Ver las luces de Navidad en tuk-tuk evita las aglomeraciones a pie de Sol y Gran Vía y permite cubrir varias zonas en una noche. Solo funciona en temporada navideña y la reserva no es reembolsable; abrigaos, porque el tuk-tuk va abierto.
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - luces navidad madrid
 - tuk tuk navidad madrid
@@ -85,6 +85,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

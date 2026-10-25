@@ -66,6 +66,7 @@ opinionEditorial: 'Ver la Alhambra en un día desde Málaga es posible, pero ent
 
   El precio para 2 es alto, desde 397 € por persona, y baja a 215 € por cabeza para 4. Si consigues entradas por tu cuenta y no te importa el autobús, sale más barato; si tienes un solo día y quieres asegurarte los Palacios Nazaríes con guía, encaja.'
 atraccionesRelacionadas:
+- granada-alhambra
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -96,6 +97,7 @@ galeria:
   alt: Casas blancas del Albaicín en la colina
 bokunProductId: 936453
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

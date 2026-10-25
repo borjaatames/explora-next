@@ -59,11 +59,7 @@ atracciones:
     descripcion: "Kilometerlanger Sand und eine Gezeitenlagune zwischen Costa Calma und Risco del Paso. Das Wind- und Kitesurf-Mekka der Kanaren und bei Ebbe eines der schönsten Motive der Insel."
     imagen: "/images/actividades/fuerteventura/zonas/sotavento-laguna.webp"
     imagenAlt: "Die Gezeitenlagune von Sotavento auf der Halbinsel Jandía"
-chipsFiltros:
-  - { label: "Auf dem Meer", tag: "mar" }
-  - { label: "Isla de Lobos", tag: "lobos" }
-  - { label: "Corralejo und der Norden", tag: "norte" }
-  - { label: "Süden und Jandía", tag: "sur" }
+chipsFiltros: []
 ---
 
 Fuerteventura ist die zweitgrößte der Kanarischen Inseln und die, die Afrika am nächsten liegt: keine 100 km vor der marokkanischen Küste. Hier leben rund **129.000 Menschen**, mehr als ein Drittel davon in der Hauptstadt **Puerto del Rosario**, und seit 2009 sind die ganze Insel und ihr Meeresgebiet **UNESCO-Biosphärenreservat**. Es ist die Insel der Strände: mehr als 70 km Sand, mit türkisem Wasser an der Ostküste und Atlantikbrandung im Westen.

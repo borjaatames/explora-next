@@ -67,7 +67,6 @@ opinionEditorial: 'El espeto es lo más malagueño que puedes comer en la playa,
 
 
   El precio se nota con poca gente: desde 205 € por persona si vais 2. Con 3 o 4 personas la cuenta baja bastante (340 € en total para 4). Si buscas solo comer espetos, un chiringuito te sale más barato; esto es para quien quiere la historia y la clase.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - espetos de sardinas malaga
@@ -95,6 +94,7 @@ galeria:
   alt: Grupo sentado en una jábega junto al mar escuchando al guía
 bokunProductId: 933464
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la experiencia

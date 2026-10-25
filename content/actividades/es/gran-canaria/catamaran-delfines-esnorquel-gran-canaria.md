@@ -70,7 +70,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es la excursión en barco más reservada de Gran Canaria y su punto fuerte es el equilibrio: avistamiento de cetáceos de verdad, con los paneles de cristal como extra, y un rato de baño. Si buscas fiesta o comida a bordo, mejor el catamarán con almuerzo.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - avistamiento delfines gran canaria
 - catamaran gran canaria
@@ -79,8 +79,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/mar/calderones-grupo.webp
 imagenAlt: Grupo de calderones en el Atlántico canario
 galeria:
-- src: "/images/actividades/gran-canaria/delfines-catamaran/delfines-nadando-superficie.webp"
-  alt: "Delfines nadando en la superficie del mar"
+- src: /images/actividades/gran-canaria/delfines-catamaran/delfines-nadando-superficie.webp
+  alt: Delfines nadando en la superficie del mar
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: Puerto deportivo de Puerto Rico de Gran Canaria
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp

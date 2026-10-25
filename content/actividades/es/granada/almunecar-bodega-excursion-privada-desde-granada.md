@@ -94,6 +94,7 @@ galeria:
   alt: Viñedos con las montañas al fondo
 bokunProductId: 938189
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

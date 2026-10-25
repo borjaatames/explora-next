@@ -63,7 +63,7 @@ opinionEditorial: 'Por 10 € tienes a un guía oficial contándote la ciudad du
 guiasRelacionadas:
 - santiago-en-un-dia
 - camino-de-santiago-ultimos-100-km
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour casco antiguo santiago
 - free tour santiago de compostela

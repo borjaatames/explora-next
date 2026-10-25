@@ -62,7 +62,7 @@ opinionEditorial: 'En Granada la tapa va con la bebida, así que lo que aporta u
   El precio es por grupo, todo incluido: 300 € para una pareja y 400 € para cuatro. Para parejas sale razonable comparado con un tour privado por persona; con cuatro, más todavía.'
 atraccionesRelacionadas:
 - otros-granada
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - tour tapas granada privado
 - tour gastronomico granada
@@ -89,6 +89,8 @@ galeria:
   alt: Calle Navas, la calle de bares de tapas del centro de Granada
 bokunProductId: 933245
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el tour

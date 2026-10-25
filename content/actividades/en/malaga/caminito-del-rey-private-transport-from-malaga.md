@@ -69,9 +69,10 @@ opinionEditorial: 'The Caminito del Rey is one of the best things you can do fro
 
   Be clear on the format: transport is private, but on the Caminito you walk with a guide in a group. At €610 for 1 or 2 people it isn''t cheap; for 4 (€960 in total) it adds up better. If you don''t mind a coach, group trips are much cheaper.'
 atraccionesRelacionadas:
+- caminito
 - caminito-del-rey
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - caminito del rey from malaga
 - caminito del rey private transport
@@ -98,6 +99,8 @@ galeria:
   alt: Caminito del Rey suspension bridge over the river
 bokunProductId: 860687
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the day is like

@@ -63,7 +63,7 @@ opinionEditorial: 'The Alcázar and the Cathedral are Seville''s two essential v
 atraccionesRelacionadas:
 - real-alcazar
 - catedral-giralda
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - private alcazar and cathedral tour seville
 - alcazar cathedral guided tour with tickets
@@ -91,6 +91,8 @@ galeria:
   alt: View over Seville from the top of the Giralda
 bokunProductId: 793770
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

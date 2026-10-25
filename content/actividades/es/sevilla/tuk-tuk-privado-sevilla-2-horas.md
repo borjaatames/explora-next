@@ -73,8 +73,10 @@ opinionEditorial: Si tienes poco tiempo en Sevilla, en dos horas ves prácticame
 guiasRelacionadas:
 - sevilla-con-ninos
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk sevilla 2 horas
 - tour tuk tuk sevilla
@@ -90,7 +92,7 @@ galeria:
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
   alt: Puente de Triana sobre el Guadalquivir
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: "Plaza de España iluminada de noche"
+  alt: Plaza de España iluminada de noche
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
   alt: Puerta principal de la Maestranza
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg
@@ -103,6 +105,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-05'
 fecha_actualizacion: '2026-10-05'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a hacer

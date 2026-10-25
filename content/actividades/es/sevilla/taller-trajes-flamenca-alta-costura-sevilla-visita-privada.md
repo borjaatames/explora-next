@@ -57,7 +57,7 @@ opinionEditorial: 'El traje de flamenca es el símbolo más reconocible de Andal
   Para dos sale a 214 € por persona y con cuatro a 116 €. Encaja sobre todo con quien le interesa la moda o viene a Sevilla con la Feria en mente. Si lo que buscas es flamenco en directo, mejor un tablao.'
 atraccionesRelacionadas:
 - flamenco
-categoria: visitasGuiadas
+categoria: talleres
 keywords:
 - taller trajes de flamenca sevilla
 - traje de flamenca alta costura
@@ -83,6 +83,7 @@ galeria:
   alt: Traje de flamenca de lunares
 bokunProductId: 949558
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la visita

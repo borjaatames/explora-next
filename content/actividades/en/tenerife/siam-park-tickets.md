@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: Siam Park is probably Europe's best water park, and the Thai theming really shows. Go first thing or in low season to avoid queues for the Tower of Power and the giant wave.
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: entradas
+categoria: parques
 keywords:
 - siam park tickets
 - siam park tenerife
@@ -95,6 +95,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 18955
 atraccionesRelacionadas:
+- siam-loro
 - parques
 publicada: true
 destacada: false

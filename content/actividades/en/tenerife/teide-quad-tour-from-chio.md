@@ -77,7 +77,7 @@ opinionEditorial: It's the cheapest quad route up to Teide and the one that star
 guiasRelacionadas:
 - climbing-mount-teide
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - teide quad
 - quad tour tenerife

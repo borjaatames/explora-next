@@ -69,7 +69,7 @@ opinionEditorial: 'La opción tranquila para conocer el interior: en vez de cond
 guiasRelacionadas:
 - roque-nublo-como-subir
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - jeep safari gran canaria
 - excursion 4x4 gran canaria
@@ -93,6 +93,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 1443
 atraccionesRelacionadas:
+- roque-nublo
 - interior
 publicada: true
 destacada: false

@@ -51,7 +51,7 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: 'Non-refundable booking: cancellations and changes are not accepted.'
-avisoReserva: 'Alhambra tickets sell out weeks in advance'
+avisoReserva: Alhambra tickets sell out weeks in advance
 opinionEditorial: 'Its strong point is that the price is per group: if you''re travelling solo or as a couple, it''s one of the more affordable private Alhambra tours, and the guide can do it in five languages. What you need to know before booking is that it can''t be cancelled, so make sure your dates are fixed.'
 preguntasFrecuentes:
 - pregunta: How much does it cost?
@@ -68,7 +68,7 @@ preguntasFrecuentes:
   respuesta: No. It's a non-refundable booking and cancellations are not accepted.
 atraccionesRelacionadas:
 - alhambra
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - private alhambra tour skip the line
 - alhambra private guide
@@ -94,6 +94,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

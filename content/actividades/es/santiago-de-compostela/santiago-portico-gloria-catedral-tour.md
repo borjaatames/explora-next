@@ -72,20 +72,20 @@ keywords:
 imagen: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
 imagenAlt: Pórtico de la Gloria del Maestro Mateo en la catedral de Santiago
 galeria:
-  - src: "/images/actividades/santiago-de-compostela/catedral/obradoiro.webp"
-    alt: "Fachada del Obradoiro"
-  - src: "/images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp"
-    alt: "El Pantocrátor del Pórtico de la Gloria"
-  - src: "/images/actividades/santiago-de-compostela/catedral/nave-interior.webp"
-    alt: "Nave de la catedral"
-  - src: "/images/actividades/santiago-de-compostela/catedral/cupula.webp"
-    alt: "Cúpula de la catedral de Santiago"
-  - src: "/images/actividades/santiago-de-compostela/catedral/claustro.webp"
-    alt: "Claustro de la catedral"
-  - src: "/images/actividades/santiago-de-compostela/catedral/botafumeiro.webp"
-    alt: "El Botafumeiro"
-  - src: "/images/actividades/santiago-de-compostela/catedral/quintana.webp"
-    alt: "Plaza de la Quintana"
+- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
+  alt: Fachada del Obradoiro
+- src: /images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp
+  alt: El Pantocrátor del Pórtico de la Gloria
+- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
+  alt: Nave de la catedral
+- src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
+  alt: Cúpula de la catedral de Santiago
+- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
+  alt: Claustro de la catedral
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
+  alt: El Botafumeiro
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: Plaza de la Quintana
 ratingProveedor: 4.8
 numeroOpiniones: 206
 atraccionesRelacionadas:

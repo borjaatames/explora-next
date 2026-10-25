@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: The easiest way to see Mallorca's most photographed cove. Excellent reviews and a fair price for two and a half hours at sea.
 guiasRelacionadas:
 - best-coves-mallorca
-categoria: excursionesDia
+categoria: agua
 keywords:
 - calo des moro boat trip
 - calo des moro snorkeling

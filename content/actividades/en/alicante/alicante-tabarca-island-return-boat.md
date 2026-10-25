@@ -66,7 +66,7 @@ opinionEditorial: It's the simplest, cheapest way to get to Tabarca from central
 guiasRelacionadas:
 - tabarca-island-how-to-visit
 - what-to-see-in-alicante
-categoria: excursionesDia
+categoria: agua
 keywords:
 - alicante tabarca boat
 - tabarca day trip from alicante
@@ -75,8 +75,8 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-aerea.webp
 imagenAlt: Tabarca island from the air
 galeria:
-- src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
-  alt: "Faro de la isla de Tabarca, Alicante"
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: Faro de la isla de Tabarca, Alicante
 - src: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
   alt: White houses and walls of Tabarca
 - src: /images/actividades/alicante/tabarca/puerta-trancada.webp
@@ -84,7 +84,7 @@ galeria:
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
   alt: Tabarca's main beach
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: "Tabarca lighthouse, a white building with a stone tower"
+  alt: Tabarca lighthouse, a white building with a stone tower
 - src: /images/actividades/alicante/tabarca/tabarca-islote.webp
   alt: An islet off Tabarca beach
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp
@@ -92,6 +92,7 @@ galeria:
 ratingProveedor: 4.3
 numeroOpiniones: 5628
 atraccionesRelacionadas:
+- tabarca
 - mar
 publicada: true
 destacada: false

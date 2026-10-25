@@ -67,7 +67,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s the cheaper daytime version of the catamaran trip: seventy-five minutes to see Cádiz''s skyline from the water. If you can choose, sunset has more charm, but this one is perfect with kids.'
 guiasRelacionadas:
 - cadiz-in-one-day
-categoria: excursionesDia
+categoria: agua
 keywords:
 - cadiz boat trip
 - bay of cadiz catamaran

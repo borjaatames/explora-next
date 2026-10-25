@@ -53,11 +53,8 @@ atracciones:
     imagenAlt: "San Juan de Gaztelugatxe and its stairway over the sea"
 chipsFiltros:
   - { label: "Guggenheim", tag: "guggenheim" }
-  - { label: "Basque coast", tag: "gaztelugatxe" }
-  - { label: "Pintxos and cooking", tag: "gastronomia" }
-  - { label: "Estuary boat trip", tag: "ria-miradores" }
-  - { label: "San Mamés", tag: "futbol" }
   - { label: "Old Town", tag: "casco-viejo" }
+  - { label: "San Sebastián", tag: "san-sebastian" }
 ---
 
 Bilbao is the capital of Biscay and the largest city in the Basque Country —around 345,000 people in the city, close to a million in its metropolitan area. Its recent history is that of the 'Guggenheim effect': it went from a declining industrial city to a **global icon of design and culture**.

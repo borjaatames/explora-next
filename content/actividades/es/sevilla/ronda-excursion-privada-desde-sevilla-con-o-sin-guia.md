@@ -66,8 +66,9 @@ opinionEditorial: 'Ronda es de las excursiones más espectaculares desde Sevilla
 
   Como el precio es por grupo, para una pareja (500 € sin guía) sale mucho más caro que una excursión en grupo; para 4 personas, 720 € en total, se acerca más. Ojo: la visita guiada es en inglés. Si quieres además los pueblos blancos, tenemos otra excursión privada que los incluye.'
 atraccionesRelacionadas:
+- ronda-pueblos-blancos
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - ronda desde sevilla privado
 - excursion privada ronda desde sevilla
@@ -95,6 +96,8 @@ galeria:
   alt: Casas blancas de Ronda al borde del tajo
 bokunProductId: 878655
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

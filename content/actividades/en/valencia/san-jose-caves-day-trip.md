@@ -1,72 +1,71 @@
 ---
-titulo: "San José Caves Day Trip from Valencia"
-slug: "san-jose-caves-day-trip"
-ciudad: "valencia"
-descripcion: "Half-day trip to the San José Caves, the longest navigable underground river in Europe, with a boat ride and transport from Valencia."
+titulo: San José Caves Day Trip from Valencia
+slug: san-jose-caves-day-trip
+ciudad: valencia
+descripcion: Half-day trip to the San José Caves, the longest navigable underground river in Europe, with a boat ride and transport from Valencia.
 slugs:
   es: excursion-cuevas-de-san-jose
   en: san-jose-caves-day-trip
-duracion: "3 h 30 min"
+duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 55
 moneda: EUR
 idiomas:
-  - es
-  - en
+- es
+- en
 proveedor: bokun
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
-  - "Sail the longest navigable underground river in Europe"
-  - "Boat ride through galleries and lakes inside the cave"
-  - "Round-trip transport from Valencia included"
-  - "Half-day escape, ideal to combine with the city"
+- Sail the longest navigable underground river in Europe
+- Boat ride through galleries and lakes inside the cave
+- Round-trip transport from Valencia included
+- Half-day escape, ideal to combine with the city
 incluye:
-  - "Round-trip transport from Valencia"
-  - "Entry to the San José Caves and boat ride"
-  - "Accompanying guide"
+- Round-trip transport from Valencia
+- Entry to the San José Caves and boat ride
+- Accompanying guide
 noIncluye:
-  - "Food and drink"
-  - "Gratuities"
-puntoEncuentro: "Pickup point in central Valencia; the exact location is confirmed on booking."
+- Food and drink
+- Gratuities
+puntoEncuentro: Pickup point in central Valencia; the exact location is confirmed on booking.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 0
-politicaCancelacion: "Free cancellation up to 24 hours in advance for a full refund."
+politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund.
 preguntasFrecuentes:
-  - pregunta: "Where are the San José Caves?"
-    respuesta: "In La Vall d'Uixó, in the province of Castellón, just under an hour from Valencia. The tour includes transport, so you don't need a car."
-  - pregunta: "Is it suitable for children or people with reduced mobility?"
-    respuesta: "For children, yes —they usually love the boat ride. The cave has sections with steps and low ceilings, so for reduced mobility it's best to check with the operator before booking."
-opinionEditorial: "It's the best half-day trip from Valencia: a navigable underground river, the longest in Europe, less than an hour from the city and with transport included for 69 €. It's not a must-see like the City of Arts, but if you're back in Valencia or travelling with kids, the boat ride through the cave is a different and rewarding plan. With 4.6 out of 5 and hundreds of reviews, it delivers."
+- pregunta: Where are the San José Caves?
+  respuesta: In La Vall d'Uixó, in the province of Castellón, just under an hour from Valencia. The tour includes transport, so you don't need a car.
+- pregunta: Is it suitable for children or people with reduced mobility?
+  respuesta: For children, yes —they usually love the boat ride. The cave has sections with steps and low ceilings, so for reduced mobility it's best to check with the operator before booking.
+opinionEditorial: 'It''s the best half-day trip from Valencia: a navigable underground river, the longest in Europe, less than an hour from the city and with transport included for 69 €. It''s not a must-see like the City of Arts, but if you''re back in Valencia or travelling with kids, the boat ride through the cave is a different and rewarding plan. With 4.6 out of 5 and hundreds of reviews, it delivers.'
 categoria: excursionesDia
 keywords:
-  - "san jose caves valencia"
-  - "day trip from valencia"
-  - "cuevas de san jose la vall duixo"
-  - "what to do near valencia"
-imagen: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp"
-imagenAlt: "Navigable underground river in the San José Caves"
-
+- san jose caves valencia
+- day trip from valencia
+- cuevas de san jose la vall duixo
+- what to do near valencia
+imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
+imagenAlt: Navigable underground river in the San José Caves
 galeria:
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
-  alt: "San José Caves boat ride from Valencia (Bokun)"
+  alt: San José Caves boat ride from Valencia (Bokun)
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
-  alt: "Gallery in the San José Caves"
+  alt: Gallery in the San José Caves
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
-  alt: "Rock vault in the San José Caves"
+  alt: Rock vault in the San José Caves
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
-  alt: "Stalactites in the San José Caves"
+  alt: Stalactites in the San José Caves
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
-  alt: "Boat on the river in the San José Caves"
+  alt: Boat on the river in the San José Caves
 ratingProveedor: 4.6
 numeroOpiniones: 785
 atraccionesRelacionadas:
-  - excursiones
+- excursiones
 publicada: true
 destacada: false
-fecha: "2026-05-21"
+fecha: '2026-05-21'
 bokunProductId: 953416
 fecha_actualizacion: '2026-06-18'
 ---

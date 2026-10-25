@@ -2,9 +2,7 @@
 titulo: 'Sevilla: Excursión PREMIUM a Córdoba en AVE — Grupo Reducido Max 8 Personas'
 slug: cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla
 ciudad: sevilla
-descripcion: Excursión PREMIUM a Córdoba desde Sevilla en AVE (45 min vs. 1h45min en autobús). Grupo MUY REDUCIDO máximo 8
-  personas + guía oficial titulado. Visita Mezquita-Catedral, Judería, Patios de Córdoba. ES o EN. Tren AVE ida y vuelta incluido.
-  Sin comida (almuerzo por libre).
+descripcion: Excursión PREMIUM a Córdoba desde Sevilla en AVE (45 min vs. 1h45min en autobús). Grupo MUY REDUCIDO máximo 8 personas + guía oficial titulado. Visita Mezquita-Catedral, Judería, Patios de Córdoba. ES o EN. Tren AVE ida y vuelta incluido. Sin comida (almuerzo por libre).
 slugs:
   es: cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla
   en: cordoba-premium-small-group-tour-high-speed-train-from-seville
@@ -41,12 +39,8 @@ noIncluye:
 - Propinas (opcionales)
 - Transporte a/desde Sevilla-Santa Justa (metro Puerta de Jerez 8 min andando)
 puntoEncuentro:
-  texto: 'Múltiples opciones: el grupo viaja independientemente en AVE de Sevilla-Santa Justa a Córdoba y se encuentra con
-    el guía a la llegada. Verifica en el voucher la opción exacta reservada (4 variantes: EN guided + free time, EN guided,
-    ES guided + free time, ES guided).'
-  descripcionGuia: 'Llegada a Sevilla-Santa Justa: metro línea 1 directo (Puerta de Jerez → Santa Justa, 10 min) o taxi desde
-    el centro (~€8). AVE Sevilla-Santa Justa → Córdoba Central: 45 min, varios pases diarios. El operador organiza la coordinación
-    de horarios — verifica los pases exactos al reservar. El guía te espera en la estación Córdoba Central.'
+  texto: 'Múltiples opciones: el grupo viaja independientemente en AVE de Sevilla-Santa Justa a Córdoba y se encuentra con el guía a la llegada. Verifica en el voucher la opción exacta reservada (4 variantes: EN guided + free time, EN guided, ES guided + free time, ES guided).'
+  descripcionGuia: 'Llegada a Sevilla-Santa Justa: metro línea 1 directo (Puerta de Jerez → Santa Justa, 10 min) o taxi desde el centro (~€8). AVE Sevilla-Santa Justa → Córdoba Central: 45 min, varios pases diarios. El operador organiza la coordinación de horarios — verifica los pases exactos al reservar. El guía te espera en la estación Córdoba Central.'
   latitud: 37.3919
   longitud: -5.9759
   zoom: 14
@@ -70,28 +64,16 @@ informacionImportante:
   aTenerEnCuenta:
   - '**Grupo MAX 8 personas** — diferencia clave vs. el tour estándar en autobús (15-30 personas)'
   - AVE ahorra 2 HORAS de viaje vs. autobús — más tiempo libre en Córdoba
-  - 'Sin comida incluida — almorzar por libre te da más libertad gastronómica (bodegas tradicionales: Casa Pepe, El Caballo
-    Rojo, Bodegas Mezquita)'
+  - 'Sin comida incluida — almorzar por libre te da más libertad gastronómica (bodegas tradicionales: Casa Pepe, El Caballo Rojo, Bodegas Mezquita)'
   - Reserva con antelación — el cupo de 8 se llena rápido en alta temporada
   - 'Combina con el tour t89625 (estándar autobús + comida) según prioridad: comodidad/exclusividad vs. precio/comida incluida'
-accesibilidad: Marcado como NO apto para silla de ruedas. La estación AVE Sevilla-Santa Justa SÍ es accesible, pero la Mezquita-Catedral
-  y la Judería tienen suelos empedrados y desniveles puntuales. Personas con movilidad reducida que puedan caminar suelen
-  poder manejarlo. Para accesibilidad confirmada, consultar al operador o ir por libre.
-politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes — reembolso completo. Dentro de 24h: sin reembolsos. Si pierdes
-  el AVE, no hay reembolso ni alternativa garantizada. Llega a Santa Justa 30 min antes del tren.'
+accesibilidad: Marcado como NO apto para silla de ruedas. La estación AVE Sevilla-Santa Justa SÍ es accesible, pero la Mezquita-Catedral y la Judería tienen suelos empedrados y desniveles puntuales. Personas con movilidad reducida que puedan caminar suelen poder manejarlo. Para accesibilidad confirmada, consultar al operador o ir por libre.
+politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes — reembolso completo. Dentro de 24h: sin reembolsos. Si pierdes el AVE, no hay reembolso ni alternativa garantizada. Llega a Santa Justa 30 min antes del tren.'
 preguntasFrecuentes:
 - pregunta: ¿Vale la pena pagar más por el AVE vs. el autobús (t89625)?
-  respuesta: 'Depende de tu prioridad. **AVE ahorra 2 HORAS de viaje** — más tiempo en Córdoba, llegada más temprana, vuelta
-    más temprana. **Grupo de 8** vs. 15-30 del estándar = experiencia más exclusiva. **PERO no incluye comida** (almuerzo
-    por libre, ~€20-40 extras). Precio: ~€165 (AVE premium) vs. ~€115 (autobús estándar con comida). Diferencia ~€50. **Recomendación:**
-    si tienes solo 1 día en Sevilla y vas a Córdoba, el AVE da más tiempo útil. Si tienes 2-3 días y la comida tradicional
-    importa, el autobús es mejor.'
+  respuesta: 'Depende de tu prioridad. **AVE ahorra 2 HORAS de viaje** — más tiempo en Córdoba, llegada más temprana, vuelta más temprana. **Grupo de 8** vs. 15-30 del estándar = experiencia más exclusiva. **PERO no incluye comida** (almuerzo por libre, ~€20-40 extras). Precio: ~€165 (AVE premium) vs. ~€115 (autobús estándar con comida). Diferencia ~€50. **Recomendación:** si tienes solo 1 día en Sevilla y vas a Córdoba, el AVE da más tiempo útil. Si tienes 2-3 días y la comida tradicional importa, el autobús es mejor.'
 - pregunta: ¿Qué hago con el tiempo libre en Córdoba?
-  respuesta: 'El operador suele dar 1-2 horas de tiempo libre tras el tour guiado. Recomendaciones: (1) **Almuerzo:** Casa
-    Pepe (clásico cordobés), Bodegas Mezquita (vinos locales + tapas), El Caballo Rojo (cocina cordobesa tradicional), Patio
-    Romano (terraza). (2) **Patios escondidos:** la Asociación de Amigos de los Patios mantiene patios particulares abiertos
-    al público — ruta de los patios. (3) **Subida a la Torre del Alminar:** +€3 con tu entrada — vistas espectaculares (45
-    min total). (4) **Souvenirs:** zapatería cordobesa, joyería de plata, alfombras.'
+  respuesta: 'El operador suele dar 1-2 horas de tiempo libre tras el tour guiado. Recomendaciones: (1) **Almuerzo:** Casa Pepe (clásico cordobés), Bodegas Mezquita (vinos locales + tapas), El Caballo Rojo (cocina cordobesa tradicional), Patio Romano (terraza). (2) **Patios escondidos:** la Asociación de Amigos de los Patios mantiene patios particulares abiertos al público — ruta de los patios. (3) **Subida a la Torre del Alminar:** +€3 con tu entrada — vistas espectaculares (45 min total). (4) **Souvenirs:** zapatería cordobesa, joyería de plata, alfombras.'
 variantes:
 - nombre: Tour ES Guiado + Tiempo Libre
   descripcion: Tour guiado en español de la Mezquita + Judería + tiempo libre para almuerzo y exploración.
@@ -105,20 +87,14 @@ variantes:
 - nombre: Tour EN Guiado (sin tiempo libre)
   descripcion: Guided tour in English focused on the visit; immediate return to Seville.
   precio: 155
-opinionEditorial: 'La **alternativa PREMIUM en AVE al tour estándar de Córdoba** — formato grupo pequeño (max 8 personas)
-  + tren AVE (45 min vs. 1h45min en autobús). El plus de ~€50 sobre el tour estándar (t89625) compra: 2 horas más de tiempo
-  útil en Córdoba, grupo más exclusivo, mayor flexibilidad de horarios. La trade-off: pierdes la comida tradicional incluida
-  (almuerzo por libre).
+opinionEditorial: 'La **alternativa PREMIUM en AVE al tour estándar de Córdoba** — formato grupo pequeño (max 8 personas) + tren AVE (45 min vs. 1h45min en autobús). El plus de ~€50 sobre el tour estándar (t89625) compra: 2 horas más de tiempo útil en Córdoba, grupo más exclusivo, mayor flexibilidad de horarios. La trade-off: pierdes la comida tradicional incluida (almuerzo por libre).
 
 
-  **Para quién es:** visitantes con 1 día en Sevilla que quieran exprimir Córdoba al máximo, parejas que valoren grupo pequeño
-  max 8 personas, viajeros con presupuesto medio-alto que prefieran AVE sobre autobús turístico, foodies que prefieran elegir
-  restaurante por libre vs. menú fijo. **Para quién NO:** visitantes con presupuesto ajustado (el estándar t89625 es más barato),
-  grupos grandes (6+ ya llenan casi todo el cupo de 8), quien valore comida tradicional incluida sin organizar (mejor t89625),
-  usuarios estrictos de silla de ruedas (no apto según operador).
+  **Para quién es:** visitantes con 1 día en Sevilla que quieran exprimir Córdoba al máximo, parejas que valoren grupo pequeño max 8 personas, viajeros con presupuesto medio-alto que prefieran AVE sobre autobús turístico, foodies que prefieran elegir restaurante por libre vs. menú fijo. **Para quién NO:** visitantes con presupuesto ajustado (el estándar t89625 es más barato), grupos grandes (6+ ya llenan casi todo el cupo de 8), quien valore comida tradicional incluida sin organizar (mejor t89625), usuarios estrictos de silla de ruedas (no apto según operador).
 
   '
 atraccionesRelacionadas:
+- cordoba
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -127,27 +103,27 @@ keywords:
 - excursion premium cordoba sevilla
 - cordoba tren alta velocidad
 - cordoba mezquita ave premium
-imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
-imagenAlt: "Arcos de herradura rojo-blancos y columnas en la nave central iluminada de la Mezquita-Catedral de Córdoba."
+imagen: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
+imagenAlt: Arcos de herradura rojo-blancos y columnas en la nave central iluminada de la Mezquita-Catedral de Córdoba.
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
-  alt: "Tren AVE en la estación"
+  alt: Tren AVE en la estación
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
   alt: Calleja de las Flores con macetas azules
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-perspectiva.webp
-  alt: "Perspectiva de arcos bicolores de la Mezquita"
+  alt: Perspectiva de arcos bicolores de la Mezquita
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
-  alt: "Mosaicos dorados del mihrab de la Mezquita"
+  alt: Mosaicos dorados del mihrab de la Mezquita
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-puente-romano-noche.webp
-  alt: "Puente romano y Mezquita de Córdoba al anochecer"
+  alt: Puente romano y Mezquita de Córdoba al anochecer
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-torre-judaria.webp
-  alt: "Torre de la Mezquita desde la Judería"
+  alt: Torre de la Mezquita desde la Judería
 - src: /images/actividades/sevilla/cordoba-mezquita-catedral/cordoba-mezquita-catedral-pexels-37478032.webp
-  alt: "Capilla barroca dentro de la Mezquita-Catedral"
+  alt: Capilla barroca dentro de la Mezquita-Catedral
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-37490977.webp
-  alt: "Callejuela blanca de la Judería de Córdoba"
+  alt: Callejuela blanca de la Judería de Córdoba
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-8677088.webp
-  alt: "Rincón con flores de la Judería de Córdoba"
+  alt: Rincón con flores de la Judería de Córdoba
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

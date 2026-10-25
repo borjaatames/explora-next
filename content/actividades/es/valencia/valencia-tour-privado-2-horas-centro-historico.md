@@ -65,7 +65,7 @@ opinionEditorial: 'Dos horas para situarte en Valencia nada más llegar: las gra
   Es de los tours privados más baratos: desde unos 48 € por persona en pareja y unos 27 € en grupo de 4, con niños gratis. Es nuevo y aún no tiene opiniones. Si quieres entrar en la Lonja y tomar horchata, el mismo operador tiene una versión de 4 horas.'
 atraccionesRelacionadas:
 - centro-historico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour privado valencia 2 horas
 - valencia primer dia tour
@@ -92,6 +92,7 @@ galeria:
   alt: El Micalet desde la plaza de la Reina
 bokunProductId: 1062810
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

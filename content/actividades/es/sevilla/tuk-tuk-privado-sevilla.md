@@ -70,8 +70,10 @@ opinionEditorial: Con niños pequeños o en días de calor, es la forma más có
 guiasRelacionadas:
 - sevilla-con-ninos
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk sevilla
 - tour tuk tuk sevilla
@@ -89,9 +91,9 @@ galeria:
 - src: https://imgcdn.bokun.tools/1c608d5a-4f0d-4dfb-9f7c-658afd5b50a3.jpeg
   alt: Tuk tuk eléctrico junto al Guadalquivir
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: "Plaza de España iluminada de noche"
+  alt: Plaza de España iluminada de noche
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: "Vista amplia de la Plaza de España de Sevilla"
+  alt: Vista amplia de la Plaza de España de Sevilla
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
   alt: Torre del Oro junto al canal del Guadalquivir
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
@@ -104,6 +106,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-05'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a hacer

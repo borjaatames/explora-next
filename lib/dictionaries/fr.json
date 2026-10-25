@@ -63,13 +63,18 @@
     "valoracion": "Valoración",
     "opiniones": "opiniones",
     "categorias": {
-      "visitasGuiadas": "Visitas guiadas",
-      "entradas": "Entradas",
-      "excursionesDia": "Excursiones de un día",
-      "espectaculos": "Espectáculos",
-      "toursGastronomicos": "Gastronomie",
-      "serviciosAdicionales": "Bien-être",
-      "transporte": "Transporte"
+      "visitasGuiadas": "Visites guidées",
+      "entradas": "Billets",
+      "toursCiudad": "Visites de la ville",
+      "excursionesDia": "Excursions d’une journée",
+      "toursGastronomicos": "Gastronomie et vin",
+      "espectaculos": "Flamenco et spectacles",
+      "agua": "Bateaux et activités nautiques",
+      "aventura": "Nature et aventure",
+      "parques": "Parcs à thème et famille",
+      "nocturno": "Vie nocturne",
+      "talleres": "Ateliers et expériences",
+      "privados": "Privé"
     },
     "faqEnCiudad": "Preguntas frecuentes sobre actividades en {ciudad}"
   },

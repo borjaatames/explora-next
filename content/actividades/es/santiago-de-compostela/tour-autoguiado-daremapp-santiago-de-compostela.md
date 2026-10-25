@@ -1,8 +1,8 @@
 ---
-titulo: "Santiago de Compostela a tu ritmo: tour autoguiado DareMapp"
+titulo: 'Santiago de Compostela a tu ritmo: tour autoguiado DareMapp'
 slug: tour-autoguiado-daremapp-santiago-de-compostela
 ciudad: santiago-de-compostela
-descripcion: "Descubre Santiago de Compostela a tu ritmo con la audioguía autoguiada DareMapp: Obradoiro y Catedral. Sin guía físico, disponible 24/7 todo el año."
+descripcion: 'Descubre Santiago de Compostela a tu ritmo con la audioguía autoguiada DareMapp: Obradoiro y Catedral. Sin guía físico, disponible 24/7 todo el año.'
 slugs:
   es: tour-autoguiado-daremapp-santiago-de-compostela
   en: self-guided-tour-daremapp-santiago-de-compostela
@@ -19,14 +19,14 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1148439
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorre Santiago de Compostela a tu propio ritmo, sin horarios fijos ni grupos
 - Elige las paradas que quieras y sáltate las que no te interesen
-- "Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento"
-- "Disponible las 24 horas del día, los 365 días del año: el acceso no caduca"
+- 'Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento'
+- 'Disponible las 24 horas del día, los 365 días del año: el acceso no caduca'
 - Descubre la Plaza del Obradoiro, el Parque de la Alameda, el Mercado de Abastos y la Catedral de Santiago, además de más de 12 puntos de interés en total
 incluye:
 - Ir a tu propio ritmo, sin horarios ni grupos
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - Guía físico (es una experiencia 100% autónoma, sin acompañante)
 puntoEncuentro:
-  texto: "Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Santiago de Compostela"
+  texto: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Santiago de Compostela'
 informacionImportante:
   aTenerEnCuenta:
-  - "Apto para toda la familia: edad mínima 1 año"
+  - 'Apto para toda la familia: edad mínima 1 año'
   - App disponible en español, inglés, portugués, francés, italiano y alemán
   - Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio
   - Buen acceso a transporte público en la zona de la ruta
@@ -50,32 +50,32 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Es la opción ideal si quieres moverte por Santiago de Compostela a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
-categoria: visitasGuiadas
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación.
+opinionEditorial: 'Es la opción ideal si quieres moverte por Santiago de Compostela a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
+categoria: toursCiudad
 keywords:
 - tour autoguiado santiago de compostela
 - audioguía santiago de compostela
 - visita autoguiada santiago de compostela app
-imagen: "/images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp"
-imagenAlt: "La catedral desde la Praza da Quintana"
+imagen: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
+imagenAlt: La catedral desde la Praza da Quintana
 galeria:
-- src: "/images/actividades/santiago-de-compostela/catedral/portico-gloria.webp"
-  alt: "Pórtico de la Gloria de la Catedral de Santiago de Compostela"
+- src: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
+  alt: Pórtico de la Gloria de la Catedral de Santiago de Compostela
 - src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: "Praza do Obradoiro"
+  alt: Praza do Obradoiro
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Praza das Praterías"
+  alt: Praza das Praterías
 - src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
-  alt: "Tribuna y arcos de la nave"
+  alt: Tribuna y arcos de la nave
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
-  alt: "La catedral de Santiago sobre el casco antiguo"
+  alt: La catedral de Santiago sobre el casco antiguo
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-torres.webp
-  alt: "Torres de la catedral de Santiago"
+  alt: Torres de la catedral de Santiago
 - src: https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 atraccionesRelacionadas:
-  - centro-historico
+- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

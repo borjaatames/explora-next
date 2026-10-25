@@ -83,7 +83,7 @@ opinionEditorial: 'At under €30 it''s one of Tenerife''s best-value activities
 guiasRelacionadas:
 - whale-watching-tenerife
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - tenerife kayak
 - los cristianos kayak

@@ -69,7 +69,7 @@ opinionEditorial: Es corto y turístico, pero barato y muy bien llevado, y es la
 guiasRelacionadas:
 - dunas-de-maspalomas
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - paseo en camello maspalomas
 - camellos dunas maspalomas
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 5263
 atraccionesRelacionadas:
+- maspalomas
 - dunas
 publicada: true
 destacada: false

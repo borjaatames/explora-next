@@ -70,6 +70,7 @@ opinionEditorial: 'Es la visita cultural imprescindible de Málaga: Picasso en s
 guiasRelacionadas:
 - malaga-en-dos-dias
 atraccionesRelacionadas:
+- museo-picasso
 - picasso
 categoria: entradas
 keywords:
@@ -80,9 +81,9 @@ keywords:
 imagen: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
 imagenAlt: Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga
 galeria:
-- src: "/images/actividades/malaga/alcazaba/arcos-nazaries.webp"
+- src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
   alt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
-- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp"
+- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
   alt: Fachada principal de la catedral de Málaga
 - src: /images/actividades/malaga/museo-picasso/patio-flores.webp
   alt: Patio con flores del Museo Picasso Málaga
@@ -93,11 +94,11 @@ galeria:
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
   alt: Fachada de la Catedral de Málaga, a pocos pasos del museo
 - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
-  alt: "Alcazaba Malaga Vista"
+  alt: Alcazaba Malaga Vista
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp
-  alt: "Catedral de Málaga, cerca del Museo Picasso"
+  alt: Catedral de Málaga, cerca del Museo Picasso
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
-  alt: "Museo Picasso Málaga"
+  alt: Museo Picasso Málaga
 ratingProveedor: 4.5
 numeroOpiniones: 13842
 publicada: true

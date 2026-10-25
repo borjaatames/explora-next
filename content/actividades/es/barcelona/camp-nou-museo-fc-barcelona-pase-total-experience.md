@@ -91,6 +91,7 @@ opinionEditorial: 'El «Total Experience Pass» premium del FC Barcelona — 979
 
   '
 atraccionesRelacionadas:
+- camp-nou
 - futbol
 categoria: entradas
 keywords:

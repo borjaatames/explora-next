@@ -91,6 +91,7 @@ galeria:
   alt: La Catedral y la Giralda sobre los tejados de Sevilla
 bokunProductId: 990352
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

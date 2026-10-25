@@ -68,9 +68,10 @@ opinionEditorial: 'Es el paseo que necesitas el primer día en Málaga: calle La
 
   El precio es por grupo y sale bien para parejas y familias: 200 € para 1 o 2 personas en la versión de 2 horas y 240 € en la de 3. Si vais 4, 280 € en total. Si viajas solo, un free tour es más barato, pero no es privado.'
 atraccionesRelacionadas:
+- alcazaba
 - alcazaba-gibralfaro
 - centro-historico
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado malaga
 - malaga esencial
@@ -97,6 +98,8 @@ galeria:
   alt: Catedral de Málaga con su única torre
 bokunProductId: 853250
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

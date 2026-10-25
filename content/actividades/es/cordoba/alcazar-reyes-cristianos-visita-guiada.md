@@ -85,8 +85,6 @@ galeria:
   alt: Fuentes y setos del Alcázar de Córdoba
 ratingProveedor: 4.1
 numeroOpiniones: 131
-atraccionesRelacionadas:
-- juderia
 publicada: true
 destacada: false
 fecha: '2026-10-23'

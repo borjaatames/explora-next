@@ -77,27 +77,27 @@ keywords:
 - mezquita cordoba desde malaga
 - cordoba desde malaga
 - tour cordoba
-imagen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+imagen: /images/actividades/cordoba/mezquita/naranjos-torre.webp
 imagenAlt: Naranjos y torre de la Mezquita
 galeria:
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
   alt: Calleja de las Flores con macetas azules
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
-  alt: "Puente Romano y río Guadalquivir en Córdoba"
+  alt: Puente Romano y río Guadalquivir en Córdoba
 - src: /images/actividades/cordoba/patios/patio-arcos.webp
   alt: Patio con arcos y flores
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Torre de la Mezquita-Catedral, frente al tablao"
+  alt: Torre de la Mezquita-Catedral, frente al tablao
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Judería de Córdoba, a pocos pasos del tablao"
+  alt: Judería de Córdoba, a pocos pasos del tablao
 - src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: "Patio con fuente en el Palacio de Viana"
+  alt: Patio con fuente en el Palacio de Viana
 - src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-  alt: "Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba"
+  alt: Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: "Calleja de la Judería de Córdoba"
+  alt: Calleja de la Judería de Córdoba
 - src: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
-  alt: "Patio cordobés con macetas"
+  alt: Patio cordobés con macetas
 ratingProveedor: 4.5
 numeroOpiniones: 753
 publicada: true

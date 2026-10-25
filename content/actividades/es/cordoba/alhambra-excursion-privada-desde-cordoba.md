@@ -65,7 +65,6 @@ opinionEditorial: 'Si te alojas en Córdoba y no quieres dormir en Granada, esta
 
 
   Es un día largo, unas 8 horas. En pareja sale por unos 376 € por persona; en grupo de 4, unos 205 €. La comida va aparte. Aún no tiene opiniones publicadas en esta excursión.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - alhambra desde cordoba
@@ -95,6 +94,7 @@ galeria:
   alt: La Alhambra al atardecer desde el Albaicín
 bokunProductId: 937821
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

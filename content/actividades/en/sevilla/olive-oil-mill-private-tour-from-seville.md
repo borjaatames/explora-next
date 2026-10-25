@@ -63,7 +63,7 @@ opinionEditorial: 'Andalusia is the world''s biggest olive oil producer, and see
   With private transport and per-group pricing, it works out at €220 each for a couple and €150 each for four. It suits food lovers with a free morning. Bear in mind it''s non-refundable.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - olive oil mill from seville
 - olive oil tour seville
@@ -91,6 +91,8 @@ galeria:
   alt: Group among the olive trees with the guide
 bokunProductId: 860682
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the visit is like

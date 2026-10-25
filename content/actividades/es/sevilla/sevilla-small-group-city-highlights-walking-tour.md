@@ -94,8 +94,10 @@ opinionEditorial: 'El **walking tour general mejor valorado de Sevilla** — 4,9
 
   '
 atraccionesRelacionadas:
+- santa-cruz
+- plaza-espana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - walking tour sevilla mejor valorado
 - tour sevilla grupo reducido

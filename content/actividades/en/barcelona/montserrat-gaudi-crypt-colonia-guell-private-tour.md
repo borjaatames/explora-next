@@ -101,6 +101,7 @@ galeria:
   alt: Group of travellers at Montserrat
 bokunProductId: 983290
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

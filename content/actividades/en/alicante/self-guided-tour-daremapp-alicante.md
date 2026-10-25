@@ -54,32 +54,32 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
 opinionEditorial: It's a cheap, flexible way to see central Alicante without committing to a fixed schedule. With +10 stops it's a shorter route than other cities in the catalogue, so I'd recommend it as a complement to your own wandering rather than the day's only activity. You'll miss the stories a live guide brings, but you gain total freedom.
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided alicante tour
 - alicante audio guide app
 - self-guided alicante walking tour
-imagen: "/images/actividades/alicante/centro/explanada.webp"
-imagenAlt: "The mosaic of the Explanada de España"
+imagen: /images/actividades/alicante/centro/explanada.webp
+imagenAlt: The mosaic of the Explanada de España
 galeria:
-- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
-- src: "/images/actividades/alicante/centro/ayuntamiento.webp"
-  alt: "Baroque façade of Alicante City Hall with its two towers"
-- src: "/images/actividades/alicante/centro/vista-puerto.webp"
-  alt: "Alicante and its port from the castle"
-- src: "/images/actividades/alicante/costa/postiguet.webp"
-  alt: "Postiguet beach below the castle"
-- src: "/images/actividades/alicante/centro/explanada-palmeras.webp"
-  alt: "Explanada promenade, next to the port"
-- src: "/images/actividades/alicante/centro/calle-san-antonio.webp"
-  alt: "Calle San Antonio in the Santa Cruz quarter"
-- src: "/images/actividades/alicante/centro/santa-cruz-vista.webp"
-  alt: "Santa Cruz quarter on the slopes of Benacantil"
-- src: "https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg"
-  alt: "DaremApp app with the self-guided route"
+- src: /images/actividades/alicante/ciudades/alicante-hero.webp
+  alt: View of the harbour and Postiguet beach from Santa Bárbara Castle
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: Baroque façade of Alicante City Hall with its two towers
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: Alicante and its port from the castle
+- src: /images/actividades/alicante/costa/postiguet.webp
+  alt: Postiguet beach below the castle
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: Explanada promenade, next to the port
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: Calle San Antonio in the Santa Cruz quarter
+- src: /images/actividades/alicante/centro/santa-cruz-vista.webp
+  alt: Santa Cruz quarter on the slopes of Benacantil
+- src: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
+  alt: DaremApp app with the self-guided route
 atraccionesRelacionadas:
-  - centro-historico
+- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

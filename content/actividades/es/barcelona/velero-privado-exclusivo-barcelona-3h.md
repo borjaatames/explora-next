@@ -1,12 +1,12 @@
 ---
-titulo: "Velero privado exclusivo en Barcelona (3 h)"
+titulo: Velero privado exclusivo en Barcelona (3 h)
 slug: velero-privado-exclusivo-barcelona-3h
 ciudad: barcelona
-descripcion: "Alquiler privado de velero de 3 horas frente a Barcelona para tu grupo (hasta 11 personas), con tapas y bebidas. Precio por grupo."
+descripcion: Alquiler privado de velero de 3 horas frente a Barcelona para tu grupo (hasta 11 personas), con tapas y bebidas. Precio por grupo.
 slugs:
   es: velero-privado-exclusivo-barcelona-3h
   en: exclusive-private-sailing-barcelona-3h
-duracion: "3 horas"
+duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 575
 moneda: EUR
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 578006
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -32,14 +32,14 @@ noIncluye:
 - Propinas
 - Toalla y bañador
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 informacionImportante:
   queTraer:
   - Toalla y bañador si quieres bañarte
@@ -56,50 +56,52 @@ preguntasFrecuentes:
   respuesta: Tapas y aperitivos más una selección abierta de bebidas a bordo — agua, refrescos, cava, vino, sangría y cerveza.
 - pregunta: ¿Nos podemos bañar?
   respuesta: Sí, hay tiempo para un chapuzón. Lleva toalla y bañador, no se facilitan.
-opinionEditorial: "El formato privado le da otro aire: el barco es solo para vosotros, marcáis el ritmo y tenéis tres horas para navegar, bañaros y brindar con la ciudad de fondo. Para celebraciones o grupos, una experiencia a medida."
+opinionEditorial: 'El formato privado le da otro aire: el barco es solo para vosotros, marcáis el ritmo y tenéis tres horas para navegar, bañaros y brindar con la ciudad de fondo. Para celebraciones o grupos, una experiencia a medida.'
 atraccionesRelacionadas:
 - barco
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - velero privado barcelona
 - alquiler yate barcelona
 - navegacion privada barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-velero-port-vell.webp"
-imagenAlt: "Velero en el Port Vell de Barcelona"
+imagen: /images/actividades/barcelona/barcos/barcos-velero-port-vell.webp
+imagenAlt: Velero en el Port Vell de Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg
-  alt: "Velero privado exclusivo en Barcelona, foto 1 de 5"
+  alt: Velero privado exclusivo en Barcelona, foto 1 de 5
 - src: https://imgcdn.bokun.tools/34922688-bc8f-4fff-aa2d-2800d15081e2.jpg
-  alt: "Velero privado exclusivo en Barcelona, foto 2 de 5"
+  alt: Velero privado exclusivo en Barcelona, foto 2 de 5
 - src: https://imgcdn.bokun.tools/44b6a8a1-9e6a-4ef6-8ebc-a8e051cb7f99.jpg
-  alt: "Velero privado exclusivo en Barcelona, foto 3 de 5"
+  alt: Velero privado exclusivo en Barcelona, foto 3 de 5
 - src: https://imgcdn.bokun.tools/81824e3f-c790-40ed-97ad-fa46a5697f06.jpg
-  alt: "Velero privado exclusivo en Barcelona, foto 4 de 5"
+  alt: Velero privado exclusivo en Barcelona, foto 4 de 5
 - src: https://imgcdn.bokun.tools/db9cad39-dffb-4d0f-9d30-b192ba6f1e36.jpg
-  alt: "Velero privado exclusivo en Barcelona, foto 5 de 5"
+  alt: Velero privado exclusivo en Barcelona, foto 5 de 5
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
-  alt: "Grupo banandose en el mar durante una excursion en velero por Barcelona"
+  alt: Grupo banandose en el mar durante una excursion en velero por Barcelona
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp
-  alt: "Grupo compartiendo comida y bebida a bordo de un velero en Barcelona"
+  alt: Grupo compartiendo comida y bebida a bordo de un velero en Barcelona
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla"
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo"
+  alt: Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado"
+  alt: Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Velero y parasailing frente a la playa de la Barceloneta"
+  alt: Velero y parasailing frente a la playa de la Barceloneta
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo"
+  alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
-  alt: "Velero privado navegando frente a Barcelona"
+  alt: Velero privado navegando frente a Barcelona
 publicada: false
 reemplazadaPor: navegacion-atardecer-barcelona-vela
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a hacer

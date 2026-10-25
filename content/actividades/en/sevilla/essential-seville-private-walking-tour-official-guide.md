@@ -66,8 +66,10 @@ opinionEditorial: 'It''s the best way to get your bearings on day one: in two ho
 
   As the price is per group, a couple pays €82 each, more than a free tour but with a guide to yourselves at a time you choose. For 4 it''s €220 in total. Note that you don''t go inside any monument.'
 atraccionesRelacionadas:
+- plaza-espana
+- santa-cruz
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private tour seville
 - private guide seville
@@ -95,6 +97,8 @@ galeria:
   alt: Narrow lane in the Santa Cruz quarter
 bokunProductId: 793764
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

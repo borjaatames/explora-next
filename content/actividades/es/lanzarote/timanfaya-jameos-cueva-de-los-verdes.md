@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Lanzarote: Timanfaya, Jameos del Agua y Cueva de los Verdes'
 slug: timanfaya-jameos-cueva-de-los-verdes
 ciudad: lanzarote
@@ -35,8 +35,8 @@ incluye:
 noIncluye:
 - Almuerzo (bufé opcional con coste adicional)
 puntoEncuentro:
-  texto: 'Recogida en hoteles y puntos seleccionados de toda Lanzarote.'
-  descripcionGuia: 'El operador te envía por WhatsApp la víspera la hora y el punto de recogida. Los cambios de punto solo valen con más de 24 horas de antelación.'
+  texto: Recogida en hoteles y puntos seleccionados de toda Lanzarote.
+  descripcionGuia: El operador te envía por WhatsApp la víspera la hora y el punto de recogida. Los cambios de punto solo valen con más de 24 horas de antelación.
   latitud: 28.97
   longitud: -13.65
   zoom: 10
@@ -65,11 +65,11 @@ preguntasFrecuentes:
 - pregunta: ¿Están incluidas las tres entradas?
   respuesta: 'Sí: Montañas del Fuego (Timanfaya), Cueva de los Verdes y Jameos del Agua. Compradas por tu cuenta en 2026 suman 64 € como mínimo (30 + 17 + 17).'
 - pregunta: ¿Está incluida la comida?
-  respuesta: 'No. Hay una parada de una hora para comer y un bufé opcional en un restaurante local que se paga aparte.'
+  respuesta: No. Hay una parada de una hora para comer y un bufé opcional en un restaurante local que se paga aparte.
 - pregunta: ¿Cuánto tiempo se pasa en cada sitio?
-  respuesta: 'Según el operador, unos 100 minutos en Timanfaya, 55 en la Cueva de los Verdes y 55 en los Jameos del Agua, más una hora para comer.'
+  respuesta: Según el operador, unos 100 minutos en Timanfaya, 55 en la Cueva de los Verdes y 55 en los Jameos del Agua, más una hora para comer.
 - pregunta: ¿Es apto para personas mayores?
-  respuesta: 'Para quien camina sin problemas, sí. La Cueva de los Verdes tiene escaleras y techos bajos, y el operador la desaconseja a personas con movilidad reducida.'
+  respuesta: Para quien camina sin problemas, sí. La Cueva de los Verdes tiene escaleras y techos bajos, y el operador la desaconseja a personas con movilidad reducida.
 opinionEditorial: 'Es la opción más completa si no tienes coche: los tres centros que más se visitan, con las entradas resueltas y las franjas de Timanfaya y la Cueva de los Verdes gestionadas por el operador. Las entradas por libre ya suman 64 €, así que pagas unos 25 € por el transporte y el guía. A cambio, es un día largo y con poco margen; con coche, puedes hacer lo mismo a tu ritmo.'
 guiasRelacionadas:
 - timanfaya-como-visitarlo
@@ -84,21 +84,23 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
 galeria:
-- src: "/images/actividades/lanzarote/zonas/jameos-piscina.webp"
-  alt: "La piscina blanca de los Jameos del Agua"
-- src: "/images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp"
-  alt: "Galería de lava iluminada en la Cueva de los Verdes"
-- src: "/images/actividades/lanzarote/zonas/timanfaya-carretera.webp"
-  alt: "Carretera hacia las Montañas del Fuego de Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/jameos-jardin.webp"
-  alt: "Jardín y piscina de los Jameos del Agua, obra de César Manrique"
-- src: "/images/actividades/lanzarote/zonas/valle-volcanico.webp"
-  alt: "Valle volcánico con conos de colores en Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/jameos-reflejo.webp"
-  alt: "El cielo reflejado en el lago de los Jameos del Agua"
+- src: /images/actividades/lanzarote/zonas/jameos-piscina.webp
+  alt: La piscina blanca de los Jameos del Agua
+- src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
+  alt: Galería de lava iluminada en la Cueva de los Verdes
+- src: /images/actividades/lanzarote/zonas/timanfaya-carretera.webp
+  alt: Carretera hacia las Montañas del Fuego de Timanfaya
+- src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
+  alt: Jardín y piscina de los Jameos del Agua, obra de César Manrique
+- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
+  alt: Valle volcánico con conos de colores en Lanzarote
+- src: /images/actividades/lanzarote/zonas/jameos-reflejo.webp
+  alt: El cielo reflejado en el lago de los Jameos del Agua
 ratingProveedor: 4.5
 numeroOpiniones: 2910
 atraccionesRelacionadas:
+- timanfaya
+- jameos-cueva
 - volcanes
 publicada: true
 destacada: true

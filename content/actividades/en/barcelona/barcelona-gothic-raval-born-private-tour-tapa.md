@@ -65,9 +65,10 @@ opinionEditorial: 'A good introduction to the old town: three hours through the 
 
   As it''s private, it''s better value in a group: from about €75 per person for two, about €48 each for four. If you want a full meal, this isn''t it: the tapa is just a tasting.'
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
 - tapas-barcelona
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - private tour barcelona old town
 - private gothic quarter tour
@@ -108,6 +109,7 @@ galeria:
   alt: Stone alleyway in Barcelona's old town
 bokunProductId: 217556
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## The route

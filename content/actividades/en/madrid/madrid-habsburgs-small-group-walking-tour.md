@@ -1,132 +1,125 @@
 ---
-titulo: "Habsburg Madrid: Small-Group Walking Tour"
-slug: "madrid-habsburgs-small-group-walking-tour"
-ciudad: "madrid"
-descripcion: "2-hour walking tour of Habsburg Madrid in a small group (maximum 10 people). From Puerta del Sol to the Royal Palace with an accredited local guide. 4.9/5 across 55 reviews. Top rated."
-
+titulo: 'Habsburg Madrid: Small-Group Walking Tour'
+slug: madrid-habsburgs-small-group-walking-tour
+ciudad: madrid
+descripcion: 2-hour walking tour of Habsburg Madrid in a small group (maximum 10 people). From Puerta del Sol to the Royal Palace with an accredited local guide. 4.9/5 across 55 reviews. Top rated.
 slugs:
-  es: "walking-tour-habsburgos-grupo-reducido"
-  en: "madrid-habsburgs-small-group-walking-tour"
-
-duracion: "2 hours"
+  es: walking-tour-habsburgos-grupo-reducido
+  en: madrid-habsburgs-small-group-walking-tour
+duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 29.95
-moneda: "EUR"
-idiomas: ["es", "en", "fr"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/madrid-l46/madrid-tour-a-pie-historico-en-grupo-reducido-t892275/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+- fr
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/madrid-l46/madrid-tour-a-pie-historico-en-grupo-reducido-t892275/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Group limited to 10 people — small format with accredited local guide"
-  - "Full itinerary: Puerta del Sol, Plaza Mayor, San Miguel Market, Plaza de la Villa, Almudena, Royal Palace"
-  - "Top rated on GetYourGuide: 4.9/5 with guide rated 5/5"
-  - "Available in Spanish, English and French"
-  - "Wheelchair accessible"
-
+- Group limited to 10 people — small format with accredited local guide
+- 'Full itinerary: Puerta del Sol, Plaza Mayor, San Miguel Market, Plaza de la Villa, Almudena, Royal Palace'
+- 'Top rated on GetYourGuide: 4.9/5 with guide rated 5/5'
+- Available in Spanish, English and French
+- Wheelchair accessible
 incluye:
-  - "Small-group walking tour (max 10 people)"
-  - "Accredited guide"
-
+- Small-group walking tour (max 10 people)
+- Accredited guide
 noIncluye:
-  - "Entry to landmarks or museums"
-  - "Food and drinks"
-  - "Hotel pickup"
-  - "Gratuities"
-
+- Entry to landmarks or museums
+- Food and drinks
+- Hotel pickup
+- Gratuities
 puntoEncuentro:
-  texto: "Mariblanca statue in Puerta del Sol. The guide is recognisable by a distinctive bag and visible accreditation."
-  descripcionGuia: "The Mariblanca is on the north side of Puerta del Sol, near the fountain. Metro Sol (lines 1, 2, 3) opens directly to the square. Arrive 10 minutes early to spot the guide — bear in mind there's always a crowd in Sol. The tour ends at the Royal Palace (doesn't return to Sol), so organise your next plan from that area."
+  texto: Mariblanca statue in Puerta del Sol. The guide is recognisable by a distinctive bag and visible accreditation.
+  descripcionGuia: The Mariblanca is on the north side of Puerta del Sol, near the fountain. Metro Sol (lines 1, 2, 3) opens directly to the square. Arrive 10 minutes early to spot the guide — bear in mind there's always a crowd in Sol. The tour ends at the Royal Palace (doesn't return to Sol), so organise your next plan from that area.
   latitud: 40.4169
   longitud: -3.7046
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Comfortable shoes (2 hours walking on cobblestones)"
-    - "Water (not included)"
-    - "Sun protection in summer (much of the route is in the sun)"
-    - "Warm clothing in winter"
+  - Comfortable shoes (2 hours walking on cobblestones)
+  - Water (not included)
+  - Sun protection in summer (much of the route is in the sun)
+  - Warm clothing in winter
   noAptoPara:
-    - "Pets (service dogs only)"
+  - Pets (service dogs only)
   aTenerEnCuenta:
-    - "The operator is Descubre Tours, local freelance"
-    - "Guide Osmel is mentioned by name in multiple reviews (positive)"
-    - "You don't enter the landmarks — it's an exterior tour with architectural and historical explanation"
-    - "Ends at the Royal Palace (doesn't return to Sol)"
-    - "There's an occasional sunset option with panoramic view from a lookout"
-    - "Few reviews (55) but all excellent — less-validated product by volume but with exceptional rating"
-
-accesibilidad: "Wheelchair accessible per the operator. The route is through the old town — mostly pedestrian streets, with some cobblestone sections that can be uncomfortable in a manual wheelchair."
-
-politicaCancelacion: "Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available."
-
+  - The operator is Descubre Tours, local freelance
+  - Guide Osmel is mentioned by name in multiple reviews (positive)
+  - You don't enter the landmarks — it's an exterior tour with architectural and historical explanation
+  - Ends at the Royal Palace (doesn't return to Sol)
+  - There's an occasional sunset option with panoramic view from a lookout
+  - Few reviews (55) but all excellent — less-validated product by volume but with exceptional rating
+accesibilidad: Wheelchair accessible per the operator. The route is through the old town — mostly pedestrian streets, with some cobblestone sections that can be uncomfortable in a manual wheelchair.
+politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
-  - pregunta: "What do you see exactly on the tour?"
-    respuesta: "The full itinerary: start at the Mariblanca in Puerta del Sol, pass through Plaza Mayor with Sobrino de Botín (the world's oldest restaurant per the Guinness), San Miguel Market (photo stop), Plaza de la Villa (old city hall), Almudena Cathedral and ending at the Royal Palace. The guide explains architecture, history and daily life at each stop — you don't enter the landmarks."
-  - pregunta: "What languages is it offered in?"
-    respuesta: "Spanish, English and French. Pick the language at booking. French reviews are especially positive — the operator seems to have traction in the francophone market."
-  - pregunta: "Is it really a small group?"
-    respuesta: "Yes, maximum 10 participants. It's one of the main differentiating factors vs free tours which usually fill 25-30 people. Reviews repeatedly mention the personalised pace and individual attention from guide Osmel."
-  - pregunta: "Do I need tickets to any landmarks?"
-    respuesta: "Not for this tour. It's an exterior visit: the guide explains the Royal Palace, Almudena and Plaza Mayor's historic buildings from outside. If you want to enter the Royal Palace or Cathedral, book separately the corresponding ticket — remember the tour ends at the palace, so it's natural to chain with an interior guided visit."
-  - pregunta: "Why so few reviews?"
-    respuesta: "It's a relatively new or small-operator product (Descubre Tours, local freelance). 55 reviews is low volume compared to massive tours with hundreds, but the rating is exceptional (4.9/5 with the guide rated a perfect 5/5). It's a less-validated product by volume but with very high average quality. If you want more volume, there are old-town tours with thousands of reviews — those, however, run in larger groups."
-
+- pregunta: What do you see exactly on the tour?
+  respuesta: 'The full itinerary: start at the Mariblanca in Puerta del Sol, pass through Plaza Mayor with Sobrino de Botín (the world''s oldest restaurant per the Guinness), San Miguel Market (photo stop), Plaza de la Villa (old city hall), Almudena Cathedral and ending at the Royal Palace. The guide explains architecture, history and daily life at each stop — you don''t enter the landmarks.'
+- pregunta: What languages is it offered in?
+  respuesta: Spanish, English and French. Pick the language at booking. French reviews are especially positive — the operator seems to have traction in the francophone market.
+- pregunta: Is it really a small group?
+  respuesta: Yes, maximum 10 participants. It's one of the main differentiating factors vs free tours which usually fill 25-30 people. Reviews repeatedly mention the personalised pace and individual attention from guide Osmel.
+- pregunta: Do I need tickets to any landmarks?
+  respuesta: 'Not for this tour. It''s an exterior visit: the guide explains the Royal Palace, Almudena and Plaza Mayor''s historic buildings from outside. If you want to enter the Royal Palace or Cathedral, book separately the corresponding ticket — remember the tour ends at the palace, so it''s natural to chain with an interior guided visit.'
+- pregunta: Why so few reviews?
+  respuesta: It's a relatively new or small-operator product (Descubre Tours, local freelance). 55 reviews is low volume compared to massive tours with hundreds, but the rating is exceptional (4.9/5 with the guide rated a perfect 5/5). It's a less-validated product by volume but with very high average quality. If you want more volume, there are old-town tours with thousands of reviews — those, however, run in larger groups.
 variantes: []
+opinionEditorial: 'This is the «small group» version of the classic Habsburg Madrid walking tour: max 10 people (vs the usual 25-30 of free tours), 2 hours, canonical route from the Mariblanca of Puerta del Sol to the Royal Palace. Exceptional rating: 4.9/5 with the guide rated a perfect 5/5. Modest volume (55 reviews) — less-validated product by quantity but with very high average quality. The name Osmel appears in multiple reviews as a differentiating factor.
 
-opinionEditorial: |
-  This is the «small group» version of the classic Habsburg Madrid walking tour: max 10 people (vs the usual 25-30 of free tours), 2 hours, canonical route from the Mariblanca of Puerta del Sol to the Royal Palace. Exceptional rating: 4.9/5 with the guide rated a perfect 5/5. Modest volume (55 reviews) — less-validated product by quantity but with very high average quality. The name Osmel appears in multiple reviews as a differentiating factor.
 
-  Details to know. It doesn't include entry to landmarks — it's an exterior tour with architectural and historical explanation. If you want to enter the Royal Palace or Almudena, you must book separately (the tour ends right at the palace door, so it's natural to chain). Check the weather before booking: 2 hours on foot with much of the route in the sun — in August, complicated between 12 and 18.
+  Details to know. It doesn''t include entry to landmarks — it''s an exterior tour with architectural and historical explanation. If you want to enter the Royal Palace or Almudena, you must book separately (the tour ends right at the palace door, so it''s natural to chain). Check the weather before booking: 2 hours on foot with much of the route in the sun — in August, complicated between 12 and 18.
 
-  Who it's for: travellers who prefer a small group with individual attention over massive free tours; French speakers (the French-language tour is especially well rated); travellers with reduced mobility (the operator marks accessibility). And as a first activity of the Madrid trip — several French reviews insist it's «worth doing on the first day to organise the rest of the trip better». Who it's NOT for: anyone after the massive validation of a tour with thousands of reviews (here it's 55), and anyone wanting to enter the landmarks on the same activity.
 
+  Who it''s for: travellers who prefer a small group with individual attention over massive free tours; French speakers (the French-language tour is especially well rated); travellers with reduced mobility (the operator marks accessibility). And as a first activity of the Madrid trip — several French reviews insist it''s «worth doing on the first day to organise the rest of the trip better». Who it''s NOT for: anyone after the massive validation of a tour with thousands of reviews (here it''s 55), and anyone wanting to enter the landmarks on the same activity.
+
+  '
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: visitasGuiadas
-keywords: ["madrid austrias tour", "madrid small group walking tour", "central madrid small group tour", "habsburg madrid local guide", "madrid free tour small group"]
-
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-imagenAlt: "Madrid's Plaza Mayor with the equestrian statue of Philip III"
-
+categoria: toursCiudad
+keywords:
+- madrid austrias tour
+- madrid small group walking tour
+- central madrid small group tour
+- habsburg madrid local guide
+- madrid free tour small group
+imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+imagenAlt: Madrid's Plaza Mayor with the equestrian statue of Philip III
 galeria:
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
-    alt: "Bear and Strawberry Tree statue at Puerta del Sol, where the tour starts"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
-    alt: "Fountain and statue of Charles III at Puerta del Sol"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-    alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
-  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
-    alt: "San Miguel Market, with its iron and glass structure"
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Plaza de la Villa, the heart of Habsburg Madrid"
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
-    alt: "Plaza de la Villa lit up at night"
-  - src: "/images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp"
-    alt: "Almudena Cathedral next to the Royal Palace"
-  - src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero.webp"
-    alt: "Decorated vault of the Almudena Cathedral"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
-    alt: "Plaza de Oriente with the statue of Philip IV and the Royal Palace behind"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero.webp"
-    alt: "Royal Palace of Madrid, the end of the tour"
-
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
+  alt: Bear and Strawberry Tree statue at Puerta del Sol, where the tour starts
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp
+  alt: Fountain and statue of Charles III at Puerta del Sol
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp
+  alt: Statue of Philip III and the Casa de la Panadería in Plaza Mayor
+- src: /images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp
+  alt: San Miguel Market, with its iron and glass structure
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
+  alt: Plaza de la Villa, the heart of Habsburg Madrid
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
+  alt: Plaza de la Villa lit up at night
+- src: /images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp
+  alt: Almudena Cathedral next to the Royal Palace
+- src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero.webp
+  alt: Decorated vault of the Almudena Cathedral
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: Plaza de Oriente with the statue of Philip IV and the Royal Palace behind
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero.webp
+  alt: Royal Palace of Madrid, the end of the tour
 ratingProveedor: 4.9
 numeroOpiniones: 55
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 ---
 
 ## What you'll see

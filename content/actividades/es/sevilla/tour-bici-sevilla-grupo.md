@@ -70,18 +70,20 @@ opinionEditorial: 'Sevilla es de las mejores ciudades de España para ver en bic
 guiasRelacionadas:
 - sevilla-con-ninos
 atraccionesRelacionadas:
+- triana
+- plaza-espana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour bici sevilla
 - bicicleta sevilla
 - sevilla en bici con niños
 - bike tour sevilla
-imagen: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
-imagenAlt: "Puente de Triana iluminado al atardecer"
+imagen: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+imagenAlt: Puente de Triana iluminado al atardecer
 galeria:
-- src: "/images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp"
-  alt: "Puesto de frutas y verduras en el Mercado de Triana"
+- src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
+  alt: Puesto de frutas y verduras en el Mercado de Triana
 - src: /images/actividades/sevilla/bici-sevilla/ciclista-sevilla.webp
   alt: Ciclista frente al Palacio de San Telmo en Sevilla
 - src: /images/actividades/sevilla/bici-sevilla/carril-bici-palmera.webp

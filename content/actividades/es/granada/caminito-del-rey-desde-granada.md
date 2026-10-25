@@ -2,8 +2,7 @@
 titulo: Caminito del Rey desde Granada — Excursión de un día
 slug: caminito-del-rey-desde-granada
 ciudad: granada
-descripcion: Excursión de día completo al Caminito del Rey desde Granada. Pasarela vertiginosa a 100 metros sobre el desfiladero
-  de los Gaitanes. Incluye transporte privado, entrada, guía y almuerzo.
+descripcion: Excursión de día completo al Caminito del Rey desde Granada. Pasarela vertiginosa a 100 metros sobre el desfiladero de los Gaitanes. Incluye transporte privado, entrada, guía y almuerzo.
 slugs:
   en: caminito-del-rey-day-trip-from-granada
   es: caminito-del-rey-desde-granada
@@ -35,9 +34,7 @@ noIncluye:
 - Seguro de viaje
 puntoEncuentro:
   texto: Oficina Discovering Spain, Plaza de las Descalzas 3, Granada
-  descripcionGuia: 'La salida es desde el centro de Granada en transporte privado. Aprox. 1h 45min hasta el Caminito (Málaga).
-    Reservar con SEMANAS de antelación: las entradas del Caminito se agotan rápido y este tour las garantiza. El operador
-    (Discovering Spain) requiere mínimo de participantes para confirmar el tour.'
+  descripcionGuia: 'La salida es desde el centro de Granada en transporte privado. Aprox. 1h 45min hasta el Caminito (Málaga). Reservar con SEMANAS de antelación: las entradas del Caminito se agotan rápido y este tour las garantiza. El operador (Discovering Spain) requiere mínimo de participantes para confirmar el tour.'
   latitud: 36.9258
   longitud: -4.7964
   zoom: 13
@@ -58,95 +55,74 @@ informacionImportante:
   - Personas con miedo a las alturas
   - Personas con vértigo
   aTenerEnCuenta:
-  - 'NO se permite: sandalias, tacones, mascotas, dron, selfie sticks, bici, paraguas, palos de andar, bebés en cochecito
-    ni descalzos'
+  - 'NO se permite: sandalias, tacones, mascotas, dron, selfie sticks, bici, paraguas, palos de andar, bebés en cochecito ni descalzos'
   - Confirmación requiere mínimo de participantes — reserva con días de antelación
   - Las entradas del Caminito del Rey se agotan semanas antes en temporada — este tour las garantiza
   - Edad mínima 8 años por seguridad
-accesibilidad: NO apto para personas con problemas de movilidad, vértigo o miedo a las alturas. La pasarela está a 100 metros
-  sobre el desfiladero. No se permiten cochecitos de bebé, sillas de ruedas eléctricas ni andadores.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. El operador puede cancelar si no se
-  alcanza el mínimo de participantes.
+accesibilidad: NO apto para personas con problemas de movilidad, vértigo o miedo a las alturas. La pasarela está a 100 metros sobre el desfiladero. No se permiten cochecitos de bebé, sillas de ruedas eléctricas ni andadores.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. El operador puede cancelar si no se alcanza el mínimo de participantes.
 preguntasFrecuentes:
 - pregunta: ¿Es seguro el Caminito del Rey?
-  respuesta: Sí, plenamente. La pasarela actual (inaugurada en 2015) es totalmente nueva, con barandillas, tablones reforzados
-    y suelo antideslizante. Las víctimas que dieron fama de peligroso al Caminito eran de la pasarela original, abandonada
-    hace décadas. La nueva tiene un récord de seguridad excelente. Eso sí, los 100 m de altura son reales — si tienes miedo
-    a las alturas, mejor abstenerse.
+  respuesta: Sí, plenamente. La pasarela actual (inaugurada en 2015) es totalmente nueva, con barandillas, tablones reforzados y suelo antideslizante. Las víctimas que dieron fama de peligroso al Caminito eran de la pasarela original, abandonada hace décadas. La nueva tiene un récord de seguridad excelente. Eso sí, los 100 m de altura son reales — si tienes miedo a las alturas, mejor abstenerse.
 - pregunta: ¿Por qué reservar este tour en lugar de ir por mi cuenta?
-  respuesta: 'Las entradas al Caminito se agotan semanas antes. Si vas a Granada y decides el día anterior, no tendrás entrada.
-    Este tour las garantiza (las compra el operador con antelación). Además, no hay transporte público directo desde Granada
-    — habría que ir en coche, tren+taxi o autobús con cambios. Y la ruta es lineal (no circular): hay que volver al inicio,
-    lo cual el tour resuelve con transporte privado.'
+  respuesta: 'Las entradas al Caminito se agotan semanas antes. Si vas a Granada y decides el día anterior, no tendrás entrada. Este tour las garantiza (las compra el operador con antelación). Además, no hay transporte público directo desde Granada — habría que ir en coche, tren+taxi o autobús con cambios. Y la ruta es lineal (no circular): hay que volver al inicio, lo cual el tour resuelve con transporte privado.'
 - pregunta: ¿Cuánto se camina?
-  respuesta: 5 kilómetros aproximadamente, mayormente en bajada por pasarelas y senderos. La duración del recorrido es de
-    unas 3-4 horas a paso pausado, con paradas para fotos. Es asequible para cualquier persona en forma física razonable (caminar
-    3 horas con desnivel moderado), pero no es "un paseo" — conviene calzado cerrado y agua.
+  respuesta: 5 kilómetros aproximadamente, mayormente en bajada por pasarelas y senderos. La duración del recorrido es de unas 3-4 horas a paso pausado, con paradas para fotos. Es asequible para cualquier persona en forma física razonable (caminar 3 horas con desnivel moderado), pero no es "un paseo" — conviene calzado cerrado y agua.
 - pregunta: ¿Vale la pena con el precio (135 €)?
-  respuesta: 'Para el experimento del Caminito (puente colgante a 100 m, vistas espectaculares de los Gaitanes), 135 € es
-    precio justo si incluyes transporte privado desde Granada (~150 km), entrada garantizada (que sueltas saldrían 22 €),
-    guía y almuerzo. Comparado con ir por tu cuenta: ahorras tiempo y la incertidumbre de la entrada. Es una de las experiencias
-    más memorables del sur de España.'
+  respuesta: 'Para el experimento del Caminito (puente colgante a 100 m, vistas espectaculares de los Gaitanes), 135 € es precio justo si incluyes transporte privado desde Granada (~150 km), entrada garantizada (que sueltas saldrían 22 €), guía y almuerzo. Comparado con ir por tu cuenta: ahorras tiempo y la incertidumbre de la entrada. Es una de las experiencias más memorables del sur de España.'
 variantes: []
-opinionEditorial: 'El Caminito del Rey es una de las experiencias outdoor más espectaculares de España: una pasarela construida
-  en 1905 a 100 metros sobre el desfiladero de los Gaitanes, reformada y reabierta en 2015 con todas las medidas de seguridad.
-  Los 5 km de recorrido entre montañas y puentes colgantes ofrecen vistas únicas — uno de esos sitios que se ve en Instagram
-  pero que en persona resulta aún más impresionante.
+opinionEditorial: 'El Caminito del Rey es una de las experiencias outdoor más espectaculares de España: una pasarela construida en 1905 a 100 metros sobre el desfiladero de los Gaitanes, reformada y reabierta en 2015 con todas las medidas de seguridad. Los 5 km de recorrido entre montañas y puentes colgantes ofrecen vistas únicas — uno de esos sitios que se ve en Instagram pero que en persona resulta aún más impresionante.
 
 
-  Para visitantes desde Granada, el tour organizado es claramente la mejor opción: el Caminito está a 150 km en Málaga, no
-  hay transporte público cómodo y las entradas se agotan semanas antes. Por 135 € obtienes transporte privado ida y vuelta
-  (4 horas de coche en total), entrada garantizada (22 € por separado), guía oficial y almuerzo incluido — ratio razonable.
+  Para visitantes desde Granada, el tour organizado es claramente la mejor opción: el Caminito está a 150 km en Málaga, no hay transporte público cómodo y las entradas se agotan semanas antes. Por 135 € obtienes transporte privado ida y vuelta (4 horas de coche en total), entrada garantizada (22 € por separado), guía oficial y almuerzo incluido — ratio razonable.
 
 
-  Lo que NO debes hacer si: tienes miedo a las alturas, vértigo, vas con niños menores de 8 años o problemas de movilidad.
-  La pasarela está bien construida, pero los 100 m son reales y se notan. Para todos los demás, es una de las excursiones
-  más memorables que se pueden hacer desde Granada — fuera del eje cultural árabe-cristiano de la ciudad y dentro del eje
-  natural del sur de España.
+  Lo que NO debes hacer si: tienes miedo a las alturas, vértigo, vas con niños menores de 8 años o problemas de movilidad. La pasarela está bien construida, pero los 100 m son reales y se notan. Para todos los demás, es una de las excursiones más memorables que se pueden hacer desde Granada — fuera del eje cultural árabe-cristiano de la ciudad y dentro del eje natural del sur de España.
 
   '
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - caminito del rey
 - caminito del rey desde granada
 - excursion gaitanes
 - pasarela malaga andalucia
 - caminito del rey con entrada
-imagen: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
-imagenAlt: "Turistas recorriendo las pasarelas del Caminito"
+imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+imagenAlt: Turistas recorriendo las pasarelas del Caminito
 galeria:
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
-  alt: "Vista aérea del desfiladero y la vegetación"
+  alt: Vista aérea del desfiladero y la vegetación
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
-  alt: "Puente colgante del Caminito del Rey sobre el río"
+  alt: Puente colgante del Caminito del Rey sobre el río
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
-  alt: "Pasarela colgante del Caminito del Rey"
+  alt: Pasarela colgante del Caminito del Rey
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
-  alt: "Pasarelas del Caminito del Rey en la pared de roca"
+  alt: Pasarelas del Caminito del Rey en la pared de roca
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-30826039.webp
-  alt: "Pasarela bajo un saliente de roca"
+  alt: Pasarela bajo un saliente de roca
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-37490628.webp
-  alt: "Senderistas en las pasarelas del Caminito del Rey"
+  alt: Senderistas en las pasarelas del Caminito del Rey
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240632.webp
-  alt: "Desfiladero de los Gaitanes y el embalse"
+  alt: Desfiladero de los Gaitanes y el embalse
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240633.webp
-  alt: "Puente de hierro a la salida del Caminito del Rey"
+  alt: Puente de hierro a la salida del Caminito del Rey
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-unsplash-BCWBVlNgK90.webp
-  alt: "Puente colgante sobre el río Guadalhorce"
+  alt: Puente colgante sobre el río Guadalhorce
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-27-jp.webp
-  alt: "Paredes verticales del Desfiladero de los Gaitanes"
+  alt: Paredes verticales del Desfiladero de los Gaitanes
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-16-jp.webp
-  alt: "Valle del Hoyo entre los dos desfiladeros"
+  alt: Valle del Hoyo entre los dos desfiladeros
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp
-  alt: "Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes rocosas verticales."
+  alt: Pasarela suspendida del Caminito del Rey a 100 metros de altura sobre el desfiladero de los Gaitanes con paredes rocosas verticales.
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'
+privada: true
 ---
 
 # Caminito del Rey desde Granada — Excursión de un día

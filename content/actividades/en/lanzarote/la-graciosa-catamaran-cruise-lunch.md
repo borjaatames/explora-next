@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'La Graciosa: catamaran cruise with lunch, swimming and kayaks'
 slug: la-graciosa-catamaran-cruise-lunch
 ciudad: lanzarote
@@ -37,8 +37,8 @@ incluye:
 noIncluye:
 - Landing on the beach (swimming is from the boat)
 puntoEncuentro:
-  texto: 'Órzola harbour in northern Lanzarote, or the pickup point nearest your accommodation.'
-  descripcionGuia: 'If you make your own way, the guide and group wait at Órzola harbour. There is no pickup in Playa Blanca on Sundays, Mondays or Wednesdays, and pickup is not guaranteed for bookings made less than 24 hours ahead.'
+  texto: Órzola harbour in northern Lanzarote, or the pickup point nearest your accommodation.
+  descripcionGuia: If you make your own way, the guide and group wait at Órzola harbour. There is no pickup in Playa Blanca on Sundays, Mondays or Wednesdays, and pickup is not guaranteed for bookings made less than 24 hours ahead.
   latitud: 29.2226
   longitud: -13.4497
   zoom: 15
@@ -64,18 +64,18 @@ accesibilidad: Not suitable for wheelchair users.
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Is the ferry to La Graciosa included?
-  respuesta: 'Yes. The return fast ferry between Órzola and Caleta de Sebo (about 30 minutes) is included, as is pickup from the main resort areas.'
+  respuesta: Yes. The return fast ferry between Órzola and Caleta de Sebo (about 30 minutes) is included, as is pickup from the main resort areas.
 - pregunta: Do you go ashore on the beach?
-  respuesta: 'No. The catamaran anchors off Playa Francesa and swimming, kayaking and snorkelling are from the boat. Your time on land is in Caleta de Sebo.'
+  respuesta: No. The catamaran anchors off Playa Francesa and swimming, kayaking and snorkelling are from the boat. Your time on land is in Caleta de Sebo.
 - pregunta: What's for lunch?
-  respuesta: 'Paella cooked on board, fruit and an open bar of water, beer, sangria and soft drinks. If you are coeliac or vegetarian, say so when you book.'
+  respuesta: Paella cooked on board, fruit and an open bar of water, beer, sangria and soft drinks. If you are coeliac or vegetarian, say so when you book.
 - pregunta: Is there pickup in Playa Blanca?
-  respuesta: 'Yes, except on Sundays, Mondays and Wednesdays. On those days you would need to get to Órzola or another pickup point yourself.'
+  respuesta: Yes, except on Sundays, Mondays and Wednesdays. On those days you would need to get to Órzola or another pickup point yourself.
 opinionEditorial: 'It''s the easiest way to see La Graciosa in a day if you don''t want to sort out ferry, bike and lunch yourself, and the rating holds up across more than two thousand reviews. The trade-off is that you barely set foot on the island: time ashore is limited to Caleta de Sebo, and you won''t reach Las Conchas or Montaña Amarilla. If you want to explore it, take the ferry and hire a bike.'
 guiasRelacionadas:
 - how-to-get-to-la-graciosa
 - what-to-see-in-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - la graciosa boat trip
 - la graciosa excursion
@@ -85,18 +85,18 @@ keywords:
 imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
 imagenAlt: A catamaran anchored off the coast of La Graciosa
 galeria:
-- src: "/images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp"
-  alt: "La Graciosa and its volcanic hill surrounded by blue sea"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp"
-  alt: "Caleta de Sebo harbour beneath the Famara cliffs"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp"
-  alt: "White houses and sandy streets in Caleta de Sebo"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp"
-  alt: "Seafront path in Caleta de Sebo, La Graciosa"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp"
-  alt: "Boats in La Graciosa's harbour"
-- src: "/images/actividades/lanzarote/zonas/la-graciosa-aerea.webp"
-  alt: "La Graciosa and Caleta de Sebo seen from above"
+- src: /images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp
+  alt: La Graciosa and its volcanic hill surrounded by blue sea
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp
+  alt: Caleta de Sebo harbour beneath the Famara cliffs
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp
+  alt: White houses and sandy streets in Caleta de Sebo
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp
+  alt: Seafront path in Caleta de Sebo, La Graciosa
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp
+  alt: Boats in La Graciosa's harbour
+- src: /images/actividades/lanzarote/zonas/la-graciosa-aerea.webp
+  alt: La Graciosa and Caleta de Sebo seen from above
 ratingProveedor: 4.6
 numeroOpiniones: 2132
 atraccionesRelacionadas:

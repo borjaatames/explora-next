@@ -59,7 +59,6 @@ opinionEditorial: 'It''s a very complete experience: a market, real cooking in a
 
 
   For two it''s expensive, €398 each, because everything is private. With 4 it drops to about €219 per person. I''d recommend it to people who genuinely enjoy cooking; if you just want to eat well, Seville''s taverns cost far less.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - cooking class seville
@@ -88,6 +87,7 @@ galeria:
   alt: Students cooking in kitchen caps
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

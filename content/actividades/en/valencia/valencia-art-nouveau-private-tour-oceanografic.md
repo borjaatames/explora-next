@@ -65,8 +65,9 @@ opinionEditorial: 'A different Valencia from the old town: the Art Nouveau of th
 
   It''s a new activity with no reviews yet. The standard option is from about €63 per person for two; with the Oceanogràfic, from about €137.'
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - art nouveau valencia tour
 - private architecture tour valencia
@@ -97,6 +98,7 @@ galeria:
   alt: Art Nouveau building with enclosed balconies in central Valencia
 bokunProductId: 1250720
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

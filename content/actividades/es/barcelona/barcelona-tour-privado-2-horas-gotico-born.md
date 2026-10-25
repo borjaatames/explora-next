@@ -67,8 +67,9 @@ opinionEditorial: 'Es justo lo que promete: dos horas para situarte en Barcelona
 
   Es de los tours privados más asequibles: desde unos 54 € por persona en pareja y unos 32 € en grupo de 4, con los niños gratis. Si quieres más barrios y una tapa, el mismo operador tiene una versión de 3 horas.'
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour privado barcelona 2 horas
 - tour barcelona primer dia
@@ -107,6 +108,7 @@ galeria:
   alt: Viajeras sentadas junto a una fuente en el casco antiguo
 bokunProductId: 217563
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## El recorrido

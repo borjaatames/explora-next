@@ -43,7 +43,7 @@ politicaCancelacion: Free cancellation; a 100% fee applies if cancelled 1 day or
 opinionEditorial: 'This is a niche tour, which is exactly why it works so well in private: the guide tailors the story to what interests you and answers at length. Madrid''s Jewish history is little known and closely tied to Spain''s —centuries of coexistence, tension, exile and a 20th-century return— so it deserves to be told with time and context. From €249 per group (about €300 for four) it is one of the more affordable private options in the catalogue.'
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - jewish madrid private tour
 - jewish history madrid walking tour
@@ -79,6 +79,8 @@ publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

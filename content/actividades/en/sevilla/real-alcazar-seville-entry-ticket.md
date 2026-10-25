@@ -57,7 +57,7 @@ preguntasFrecuentes:
   respuesta: 'Between 1.5 and 2 hours: 45-60 minutes for the palaces and the rest for the gardens. In spring, when the gardens are in bloom, it is worth lingering.'
 - pregunta: Can I combine it with the Cathedral on the same day?
   respuesta: Yes, they are 100 metres apart. The easy plan is the Alcázar first thing and the Cathedral after lunch, or book the 3-monument priority pass.
-avisoReserva: 'In high season, the Alcázar ticket queue tops 2 hours'
+avisoReserva: In high season, the Alcázar ticket queue tops 2 hours
 opinionEditorial: The Alcázar is Seville's number one visit and the box-office queue in season exceeds an hour. With a timed ticket you walk in at your time and skip the sun. Book days ahead in spring and at Easter.
 guiasRelacionadas:
 - alcazar-of-seville-how-to-visit
@@ -69,30 +69,31 @@ keywords:
 - alcazar seville tickets
 - alcazar seville skip the line
 - real alcazar entry
-imagen: "/images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp"
-imagenAlt: "Patio interior del Real Alcazar de Sevilla"
+imagen: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
+imagenAlt: Patio interior del Real Alcazar de Sevilla
 galeria:
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
-    alt: "Mudejar arches of the Palace of Pedro I"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
-    alt: "Detail of the Mudejar plasterwork of the Alcázar"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp"
-    alt: "Gardens of the Royal Alcázar of Seville"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
-    alt: "A corner of the Alcázar gardens"
-  - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
-    alt: "Patio de las Doncellas"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp"
-    alt: "Gardens of the Seville Alcázar"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp"
-    alt: "Walkway through the Alcázar gardens"
-  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
-    alt: "Facade of the Palace of Pedro I in the Royal Alcázar of Seville"
-  - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
-    alt: "Arquerías mudéjares del Real Alcázar de Sevilla"
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
+  alt: Mudejar arches of the Palace of Pedro I
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
+  alt: Detail of the Mudejar plasterwork of the Alcázar
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp
+  alt: Gardens of the Royal Alcázar of Seville
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: A corner of the Alcázar gardens
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp
+  alt: Patio de las Doncellas
+- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp
+  alt: Gardens of the Seville Alcázar
+- src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-03.webp
+  alt: Walkway through the Alcázar gardens
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+  alt: Facade of the Palace of Pedro I in the Royal Alcázar of Seville
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
+  alt: Arquerías mudéjares del Real Alcázar de Sevilla
 ratingProveedor: 4.6
 numeroOpiniones: 36909
 atraccionesRelacionadas:
+- real-alcazar
 - alcazar
 publicada: true
 destacada: true

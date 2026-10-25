@@ -1,8 +1,8 @@
 ---
-titulo: "Tarragona Self-Guided Audio Tour – DareMapp App"
+titulo: Tarragona Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-tarragona
 ciudad: tarragona
-descripcion: "Explore Tarragona at your own pace with the DareMapp self-guided audio tour: the Roman Amphitheatre and Circus. No guide, available 24/7, in 6 languages."
+descripcion: 'Explore Tarragona at your own pace with the DareMapp self-guided audio tour: the Roman Amphitheatre and Circus. No guide, available 24/7, in 6 languages.'
 slugs:
   es: tour-autoguiado-daremapp-tarragona
   en: self-guided-tour-daremapp-tarragona
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1148388
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Tarragona at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover the Roman Amphitheatre, Carrer Major, the Roman Circus and the Centenario Fountain, plus more than 12 points of interest in total
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Tarragona"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Tarragona'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,32 +50,32 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Tarragona on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
-categoria: visitasGuiadas
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Tarragona on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
+categoria: toursCiudad
 keywords:
 - self-guided tour tarragona
 - tarragona audio tour
 - tarragona self-guided app tour
-imagen: "/images/actividades/tarragona/romana/anfiteatro-gradas.webp"
-imagenAlt: "Amphitheatre stands during a historical re-enactment"
+imagen: /images/actividades/tarragona/romana/anfiteatro-gradas.webp
+imagenAlt: Amphitheatre stands during a historical re-enactment
 galeria:
-- src: "/images/actividades/tarragona/romana/pretorio-interior.webp"
-  alt: "Interior of the Roman Praetorium of Tarragona"
+- src: /images/actividades/tarragona/romana/pretorio-interior.webp
+  alt: Interior of the Roman Praetorium of Tarragona
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
-  alt: "The cathedral cloister and garden"
+  alt: The cathedral cloister and garden
 - src: /images/actividades/tarragona/romana/muralla-romana.webp
-  alt: "Tarragona's Roman walls"
+  alt: Tarragona's Roman walls
 - src: /images/actividades/tarragona/romana/plaza-del-rei.webp
-  alt: "Plaça del Rei in upper Tarragona"
+  alt: Plaça del Rei in upper Tarragona
 - src: /images/actividades/tarragona/romana/circo-romano.webp
-  alt: "Remains of the Roman circus of Tarraco"
+  alt: Remains of the Roman circus of Tarraco
 - src: /images/actividades/tarragona/catedral/catedral.webp
-  alt: "Lantern tower and belfry of Tarragona Cathedral"
+  alt: Lantern tower and belfry of Tarragona Cathedral
 - src: https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 atraccionesRelacionadas:
-  - tarraco
+- tarraco
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -91,6 +91,7 @@ galeria:
   alt: Palacio Vázquez de Molina, hoy ayuntamiento de Úbeda
 bokunProductId: 949538
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

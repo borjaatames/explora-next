@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada a Faunia'
 slug: faunia-madrid-entrada
 ciudad: madrid
-descripcion: 'Entrada a Faunia, el parque de naturaleza y ciencia de Madrid con 152 especies, pabellón polar con pingüinos, jungla tropical y exhibiciones de aves. 4,6/5 con 111 reseñas.'
+descripcion: Entrada a Faunia, el parque de naturaleza y ciencia de Madrid con 152 especies, pabellón polar con pingüinos, jungla tropical y exhibiciones de aves. 4,6/5 con 111 reseñas.
 slugs:
   es: faunia-madrid-entrada
   en: faunia-madrid-ticket
@@ -18,8 +18,8 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t402199/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Los Polos: réplica de la Antártida con seis especies de pingüino"
-- "La Jungla: selva tropical cubierta"
+- 'Los Polos: réplica de la Antártida con seis especies de pingüino'
+- 'La Jungla: selva tropical cubierta'
 - Manglar de cocodrilos
 - Exhibiciones de aves en vuelo
 - 152 especies de todo el mundo
@@ -62,26 +62,26 @@ preguntasFrecuentes:
   respuesta: Metro L9 hasta Valdebernardo, Cercanías C2 hasta Vicálvaro o autobús EMT 71 desde Manuel Becerra, que te deja en la puerta. En coche, A-3 salida 6 (Valdebernardo) o M-40 salidas 12/13.
 - pregunta: ¿Merece la pena con niños pequeños?
   respuesta: Sí, especialmente de 3 a 10 años. Los ecosistemas inmersivos (jungla, polos) son especialmente impactantes para ellos.
-opinionEditorial: 'Faunia es la alternativa más original al Zoo clásico en Madrid. Sus ecosistemas recreados hacen la visita muy didáctica, y Los Polos, con seis especies de pingüino, es imprescindible. El precio es más asequible que el Zoo y hay menos aglomeraciones. Una buena opción para un segundo día con niños en Madrid.'
+opinionEditorial: Faunia es la alternativa más original al Zoo clásico en Madrid. Sus ecosistemas recreados hacen la visita muy didáctica, y Los Polos, con seis especies de pingüino, es imprescindible. El precio es más asequible que el Zoo y hay menos aglomeraciones. Una buena opción para un segundo día con niños en Madrid.
 guiasRelacionadas:
 - madrid-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - faunia madrid
 - faunia madrid entrada precio
 - parque naturaleza madrid
 - zoo faunia madrid
 imagen: /images/actividades/madrid/faunia/leones-marinos.webp
-imagenAlt: "Exhibición de leones marinos en Faunia, Madrid"
+imagenAlt: Exhibición de leones marinos en Faunia, Madrid
 galeria:
 - src: /images/actividades/madrid/faunia/flamencos.webp
-  alt: "Flamencos en Faunia, Madrid"
+  alt: Flamencos en Faunia, Madrid
 - src: /images/actividades/madrid/faunia/dinosaurio.webp
-  alt: "Réplica de dinosaurio en el recorrido de Faunia"
+  alt: Réplica de dinosaurio en el recorrido de Faunia
 - src: /images/actividades/madrid/faunia/entrada-faunia.webp
-  alt: "Entrada de Faunia, el parque de naturaleza de Madrid"
+  alt: Entrada de Faunia, el parque de naturaleza de Madrid
 - src: /images/actividades/madrid/faunia/lago-faunia.webp
-  alt: "Lago con patos en Faunia"
+  alt: Lago con patos en Faunia
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

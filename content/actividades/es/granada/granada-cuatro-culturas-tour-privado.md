@@ -67,7 +67,7 @@ opinionEditorial: 'Si tienes poco tiempo en Granada, este tour es una forma efic
   El precio es por grupo y para una pareja es muy competitivo: 180 € la opción de 2 horas o 200 € la de 3. Merece la pena la de 3 horas: por 20 € más, el paseo no va con prisa. Y se hace en seis idiomas.'
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado granada
 - granada 4 culturas
@@ -96,6 +96,8 @@ galeria:
   alt: Atardecer sobre Granada desde un mirador
 bokunProductId: 793773
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

@@ -78,7 +78,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es una buena forma de probar el buceo por primera vez en Tenerife: inmersión corta y poco profunda, ratio de un monitor para dos y esnórquel después para quien no quiera repetir. Ten en cuenta la regla de las 12 horas si tienes pensado subir al Teide o coger un avión, y que con problemas médicos previos no te dejarán bajar.'
 guiasRelacionadas:
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - bautismo buceo tenerife
 - buceo con tortugas tenerife

@@ -48,11 +48,7 @@ atracciones:
     descripcion: "Der klassische Stadtpark mit dem besten Blick auf die Kathedrale und ihre Türme über der Altstadt, besonders bei Sonnenuntergang."
     imagen: "/images/actividades/santiago-de-compostela/casco/alameda.webp"
     imagenAlt: "Ein baumgesäumter Weg im Parque de la Alameda"
-chipsFiltros:
-  - { label: "Kathedrale", tag: "catedral" }
-  - { label: "Altstadt", tag: "centro-historico" }
-  - { label: "Tapas", tag: "gastronomia" }
-  - { label: "Tagesausflüge", tag: "excursiones" }
+chipsFiltros: []
 ---
 
 Santiago de Compostela ist die Hauptstadt Galiciens – rund 100.000 Einwohner – und seit tausend Jahren eines der großen Pilgerziele der Welt: Hier endet der **Jakobsweg**, vor dem Grab des Apostels.

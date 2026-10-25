@@ -209,7 +209,9 @@ opinionEditorial: |
 # · nocturno     → flamenco, conciertos, vida nocturna
 # · excursion    → escapadas de día desde la ciudad
 # · familiar     → actividades pensadas para niños
-categoria: "<cultural|gastronomico|aireLibre|nocturno|excursion|familiar>"
+categoria: "<visitasGuiadas|entradas|toursCiudad|excursionesDia|toursGastronomicos|espectaculos|agua|aventura|parques|nocturno|talleres>"
+# privada: true          # solo para el grupo del cliente (botón «Privados»)
+# precioPorGrupo: true    # el precio «desde» es por grupo
 
 # Keywords: 5-8 términos en minúsculas, sin tildes ni caracteres especiales.
 # Mezclar términos genéricos (alta búsqueda) y específicos (alta intención).

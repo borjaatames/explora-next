@@ -2,7 +2,7 @@
 titulo: 'From Mogán and Maspalomas: Gran Canaria day tour'
 slug: gran-canaria-day-tour-from-the-south
 ciudad: gran-canaria
-descripcion: "8-hour coach tour from the south: Arucas, Firgas, Valleseco, Cruz de Tejeda, Roque Nublo and an aloe vera farm, with pickup. Rated 4.2/5 (2,173 reviews)."
+descripcion: '8-hour coach tour from the south: Arucas, Firgas, Valleseco, Cruz de Tejeda, Roque Nublo and an aloe vera farm, with pickup. Rated 4.2/5 (2,173 reviews).'
 slugs:
   es: tour-gran-canaria-1-dia-desde-sur
   en: gran-canaria-day-tour-from-the-south
@@ -33,7 +33,7 @@ noIncluye:
 - Lunch in Valleseco (optional stop)
 - Pickup outside the listed areas
 puntoEncuentro:
-  texto: 'Pickup in Playa del Inglés, Maspalomas, Meloneras, San Agustín, Bahía Feliz, Taurito or Puerto de Mogán.'
+  texto: Pickup in Playa del Inglés, Maspalomas, Meloneras, San Agustín, Bahía Feliz, Taurito or Puerto de Mogán.
   descripcionGuia: The exact pickup time and point for your area are shown when you check availability and on your booking voucher.
   latitud: 27.7606
   longitud: -15.586
@@ -66,7 +66,7 @@ preguntasFrecuentes:
   respuesta: The tour includes a visit to Roque Nublo, the symbol of the island, but it isn't a hiking trip; if you want to walk up to the monolith, see our guide.
 - pregunta: What languages does the guide speak?
   respuesta: English, Spanish and German.
-opinionEditorial: "It's the cheapest way to see the north and the summits from the south without driving mountain roads yourself. The trade-off is a big coach with short stops and lots of bends: if you get car sick, sit at the front. To enjoy Roque Nublo at leisure, a dedicated tour is better."
+opinionEditorial: 'It''s the cheapest way to see the north and the summits from the south without driving mountain roads yourself. The trade-off is a big coach with short stops and lots of bends: if you get car sick, sit at the front. To enjoy Roque Nublo at leisure, a dedicated tour is better.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - roque-nublo-hike
@@ -98,6 +98,7 @@ galeria:
 ratingProveedor: 4.2
 numeroOpiniones: 2173
 atraccionesRelacionadas:
+- roque-nublo
 - isla
 - interior
 publicada: true

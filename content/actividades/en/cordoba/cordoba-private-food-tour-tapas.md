@@ -62,8 +62,7 @@ opinionEditorial: 'Two hours of tapas with someone who knows where to eat well i
 
 
   The price is per group, about €380 for two, and rises little with more people: about €560 for four, which is a different story. No published reviews yet.'
-atraccionesRelacionadas: []
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - cordoba private food tour
 - tapas tour cordoba with guide
@@ -92,6 +91,8 @@ galeria:
   alt: Inside a traditional Córdoba tavern
 bokunProductId: 1214469
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How it works

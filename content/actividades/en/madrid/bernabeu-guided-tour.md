@@ -84,6 +84,7 @@ opinionEditorial: 'This is the guided version of the Bernabéu Tour on GetYourGu
 
   '
 atraccionesRelacionadas:
+- bernabeu
 - futbol
 categoria: visitasGuiadas
 keywords:

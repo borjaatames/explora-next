@@ -2,8 +2,7 @@
 titulo: 'Reina Sofía Museum: Small-Group Guided Tour (max 6)'
 slug: reina-sofia-museum-small-group-guides-you-need
 ciudad: madrid
-descripcion: Small-group guided tour (max 6 people) of the Reina Sofía Museum with skip-the-line entry. 1.5 hours with an
-  expert guide on 20th-century Spanish art. 4.9/5 across 418 reviews.
+descripcion: Small-group guided tour (max 6 people) of the Reina Sofía Museum with skip-the-line entry. 1.5 hours with an expert guide on 20th-century Spanish art. 4.9/5 across 418 reviews.
 slugs:
   es: reina-sofia-grupo-reducido-guides-you-need
   en: reina-sofia-museum-small-group-guides-you-need
@@ -35,8 +34,7 @@ noIncluye:
 - Plastic bottles (not allowed)
 puntoEncuentro:
   texto: Main entrance of the Reina Sofía Museum. Calle de Santa Isabel, 52.
-  descripcionGuia: Single meeting point at the museum's main entrance, 2 minutes from Atocha station. Arrive 10 minutes early.
-    If you book the pickup option, the operator confirms the hotel pickup point in advance.
+  descripcionGuia: Single meeting point at the museum's main entrance, 2 minutes from Atocha station. Arrive 10 minutes early. If you book the pickup option, the operator confirms the hotel pickup point in advance.
   latitud: 40.4086
   longitud: -3.6939
   zoom: 17
@@ -63,40 +61,24 @@ accesibilidad: The museum is wheelchair accessible, with lifts between floors. T
 politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
 - pregunta: How does it differ from the standard tour?
-  respuesta: 'The key difference is group size: max 6 here vs standard groups of 15-25. This lets the guide adapt the pace,
-    answer individual questions and linger on works that interest you. Duration is also slightly longer (90 vs 75 minutes)
-    and gratuities + hotel pickup are included. Price is €50 vs €38 for the standard — €12 more for a noticeably more personal
-    experience.'
+  respuesta: 'The key difference is group size: max 6 here vs standard groups of 15-25. This lets the guide adapt the pace, answer individual questions and linger on works that interest you. Duration is also slightly longer (90 vs 75 minutes) and gratuities + hotel pickup are included. Price is €50 vs €38 for the standard — €12 more for a noticeably more personal experience.'
 - pregunta: Is hotel pickup included?
-  respuesta: Yes. This option includes pickup and return to your Madrid (centre) hotel. Confirm the exact point and time with
-    the operator the night before. If you prefer to go to the museum on your own, you can.
+  respuesta: Yes. This option includes pickup and return to your Madrid (centre) hotel. Confirm the exact point and time with the operator the night before. If you prefer to go to the museum on your own, you can.
 - pregunta: What's the max group size?
-  respuesta: 6 people. This is what makes the tour work so well — the guide can give real attention to each visitor. If you
-    book for 4-5 people, you practically have an almost-private tour.
+  respuesta: 6 people. This is what makes the tour work so well — the guide can give real attention to each visitor. If you book for 4-5 people, you practically have an almost-private tour.
 - pregunta: Is it worth the €12 extra vs the standard tour?
-  respuesta: If you value the guide quality and individual attention, yes. The 418 reviews with 94% top scores speak for themselves
-    — the guides (Stefi, Belén, Alex, María, Stephanie) are repeatedly praised by name. The standard tour (4.3/5) has complaints
-    about organisation; here those problems disappear thanks to the group size.
+  respuesta: If you value the guide quality and individual attention, yes. The 418 reviews with 94% top scores speak for themselves — the guides (Stefi, Belén, Alex, María, Stephanie) are repeatedly praised by name. The standard tour (4.3/5) has complaints about organisation; here those problems disappear thanks to the group size.
 - pregunta: Are gratuities really included?
-  respuesta: Yes, the operator specifies it in what's included. You don't have to add a tip for the guide at the end — unusual
-    on GetYourGuide and appreciated in the final reckoning.
+  respuesta: Yes, the operator specifies it in what's included. You don't have to add a tip for the guide at the end — unusual on GetYourGuide and appreciated in the final reckoning.
 variantes:
 - reina-sofia-museum-guided-tour-amigo-tours
-opinionEditorial: 'The best Reina Sofía option on GetYourGuide for quality-experience ratio: 4.9 out of 5 across 418 reviews,
-  94% top scores. The key is the small-group format (maximum 6 people) that lets the guide give real attention to each visitor.
-  Reviews repeatedly mention specific guides (Stefi, Belén, Alex, María) by name with praise — sign of an operator with a
-  stable, well-rated team.
+opinionEditorial: 'The best Reina Sofía option on GetYourGuide for quality-experience ratio: 4.9 out of 5 across 418 reviews, 94% top scores. The key is the small-group format (maximum 6 people) that lets the guide give real attention to each visitor. Reviews repeatedly mention specific guides (Stefi, Belén, Alex, María) by name with praise — sign of an operator with a stable, well-rated team.
 
 
-  The difference vs the standard Reina Sofía tour is noticeable: max 6 here (vs 15-25 in the standard), duration is 90 minutes
-  (vs 75), gratuities are included and there''s a hotel-pickup option. Price is €50 vs €38 for the standard — the difference
-  is justified if you value the depth of the storytelling and individual attention.
+  The difference vs the standard Reina Sofía tour is noticeable: max 6 here (vs 15-25 in the standard), duration is 90 minutes (vs 75), gratuities are included and there''s a hotel-pickup option. Price is €50 vs €38 for the standard — the difference is justified if you value the depth of the storytelling and individual attention.
 
 
-  What''s worth knowing: it''s flagged «Likely to sell out», so book in advance if your dates are fixed. And as on any Reina
-  Sofía tour, there are strict rules — no flash, selfie sticks, tripods, food/drinks or touching the works. If you''re travelling
-  in a group of 4-5 people, you''ll practically have the tour almost private at a fraction of the price of a real private
-  tour.
+  What''s worth knowing: it''s flagged «Likely to sell out», so book in advance if your dates are fixed. And as on any Reina Sofía tour, there are strict rules — no flash, selfie sticks, tripods, food/drinks or touching the works. If you''re travelling in a group of 4-5 people, you''ll practically have the tour almost private at a fraction of the price of a real private tour.
 
   '
 atraccionesRelacionadas:
@@ -108,25 +90,25 @@ keywords:
 - reina sofia premium guided tour
 - guernica small group
 - reina sofia with expert guide
-imagen: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp"
-imagenAlt: "Museo Reina Sofía façade at night, with its glass lift towers"
+imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
+imagenAlt: Museo Reina Sofía façade at night, with its glass lift towers
 galeria:
-  - src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
-    alt: "Visitors in a Reina Sofía gallery"
-  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp"
-    alt: "Contemporary art gallery in the museum"
-  - src: "/images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp"
-    alt: "Group listening to an explanation in front of a work"
-  - src: "/images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp"
-    alt: "Cloister garden of the Museo Reina Sofía"
-  - src: "/images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp"
-    alt: "Permanent collection gallery"
-  - src: "/images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp"
-    alt: "Sculpture gallery at the Reina Sofía"
-  - src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
-    alt: "Entrance to the Museo Reina Sofía"
-  - src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
-    alt: "Lift towers of the Sabatini building"
+- src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
+  alt: Visitors in a Reina Sofía gallery
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp
+  alt: Contemporary art gallery in the museum
+- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
+  alt: Group listening to an explanation in front of a work
+- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
+  alt: Cloister garden of the Museo Reina Sofía
+- src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
+  alt: Permanent collection gallery
+- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
+  alt: Sculpture gallery at the Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+  alt: Entrance to the Museo Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
+  alt: Lift towers of the Sabatini building
 ratingProveedor: 4.9
 numeroOpiniones: 418
 publicada: true

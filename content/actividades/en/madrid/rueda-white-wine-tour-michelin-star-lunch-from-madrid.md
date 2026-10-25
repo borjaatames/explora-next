@@ -70,7 +70,7 @@ opinionEditorial: 'This is Vine Travel''s most foodie wine day: two Rueda wineri
   It costs about €370 per person, minimum two. It''s a treat, and it''s worth confirming with the operator that lunch is included, since the description says so but the inclusions list doesn''t. Ideal for a celebration or for serious food lovers.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - rueda day trip from madrid
 - rueda wine tour

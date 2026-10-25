@@ -91,6 +91,7 @@ galeria:
   alt: The Cathedral and the Giralda above Seville's rooftops
 bokunProductId: 990352
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What the day is like

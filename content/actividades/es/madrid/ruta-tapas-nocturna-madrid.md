@@ -1,121 +1,115 @@
 ---
-titulo: "Ruta de tapas nocturna por Madrid"
-slug: "ruta-tapas-nocturna-madrid"
-ciudad: "madrid"
-descripcion: "Ruta de tapas nocturna de 2,5 horas por tres bares tradicionales de Madrid con guía local. Anécdotas e historia del tapeo, también en alemán."
-
+titulo: Ruta de tapas nocturna por Madrid
+slug: ruta-tapas-nocturna-madrid
+ciudad: madrid
+descripcion: Ruta de tapas nocturna de 2,5 horas por tres bares tradicionales de Madrid con guía local. Anécdotas e historia del tapeo, también en alemán.
 slugs:
-  es: "ruta-tapas-nocturna-madrid"
-
-duracion: "2 horas 30 minutos"
+  es: ruta-tapas-nocturna-madrid
+duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 35
-moneda: "EUR"
-idiomas: ["es", "en", "de"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/25-horas-de-tapas-por-la-noche-en-madrid-t38212/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+- de
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/25-horas-de-tapas-por-la-noche-en-madrid-t38212/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Tres bares de tapas tradicionales de Madrid en una ruta nocturna"
-  - "Anécdotas e historia de la cultura de las tapas española"
-  - "Disponible en español, inglés y alemán"
-  - "Grupos privados o reducidos disponibles"
-
+- Tres bares de tapas tradicionales de Madrid en una ruta nocturna
+- Anécdotas e historia de la cultura de las tapas española
+- Disponible en español, inglés y alemán
+- Grupos privados o reducidos disponibles
 incluye:
-  - "Tour guiado de 2,5 horas"
-
+- Tour guiado de 2,5 horas
 noIncluye:
-  - "Comidas y bebidas de los bares (se pagan con el fondo común que recauda el guía)"
-  - "Propinas"
-
+- Comidas y bebidas de los bares (se pagan con el fondo común que recauda el guía)
+- Propinas
 puntoEncuentro:
-  texto: "Centro de Madrid (el punto exacto varía según la opción reservada)"
-  descripcionGuia: "El punto de encuentro depende de la opción que reserves (ruta nocturna en grupo o ruta privada): el operador lo confirma en el correo de la reserva. Está en el centro de Madrid. Llega 10-15 minutos antes de la hora de inicio."
-  latitud: 40.4150
-  longitud: -3.7050
+  texto: Centro de Madrid (el punto exacto varía según la opción reservada)
+  descripcionGuia: 'El punto de encuentro depende de la opción que reserves (ruta nocturna en grupo o ruta privada): el operador lo confirma en el correo de la reserva. Está en el centro de Madrid. Llega 10-15 minutos antes de la hora de inicio.'
+  latitud: 40.415
+  longitud: -3.705
   zoom: 15
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo: es un recorrido a pie entre bares"
-    - "30 € en efectivo por persona para el fondo común de comida y bebida"
+  - 'Calzado cómodo: es un recorrido a pie entre bares'
+  - 30 € en efectivo por persona para el fondo común de comida y bebida
   noAptoPara:
-    - "Personas en silla de ruedas"
-    - "Quien espere que la comida y la bebida estén incluidas en el precio de reserva"
+  - Personas en silla de ruedas
+  - Quien espere que la comida y la bebida estén incluidas en el precio de reserva
   aTenerEnCuenta:
-    - "El precio de reserva (35 €) cubre solo el tour guiado"
-    - "El guía recauda 30 € de cada participante al inicio como fondo común para pagar las tapas y bebidas de los tres bares"
-    - "Se puede aumentar esa cantidad si se quieren especialidades más caras, como jamón ibérico"
-    - "Coste real aproximado por persona: unos 65 € (35 € de reserva + 30 € de fondo de comida)"
-
-accesibilidad: "Tour no recomendado para personas en silla de ruedas: es un recorrido a pie nocturno entre bares de tapas del centro de Madrid."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo del precio de reserva. Después de ese plazo no hay reembolso."
-
+  - El precio de reserva (35 €) cubre solo el tour guiado
+  - El guía recauda 30 € de cada participante al inicio como fondo común para pagar las tapas y bebidas de los tres bares
+  - Se puede aumentar esa cantidad si se quieren especialidades más caras, como jamón ibérico
+  - 'Coste real aproximado por persona: unos 65 € (35 € de reserva + 30 € de fondo de comida)'
+accesibilidad: 'Tour no recomendado para personas en silla de ruedas: es un recorrido a pie nocturno entre bares de tapas del centro de Madrid.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo del precio de reserva. Después de ese plazo no hay reembolso.
 preguntasFrecuentes:
-  - pregunta: "¿La comida y la bebida están incluidas en el precio?"
-    respuesta: "No del todo, y es lo más importante de esta ruta. El precio de reserva (35 €) cubre solo el tour guiado. Al empezar, el guía recauda 30 € de cada participante como fondo común para pagar las tapas y bebidas de los tres bares. El coste real por persona ronda los 65 €, y puede subir si se piden especialidades más caras como jamón ibérico."
-  - pregunta: "¿Por qué se paga aparte la comida?"
-    respuesta: "El operador organiza el gasto de comida y bebida con un fondo común que gestiona el guía sobre la marcha, en lugar de incluirlo en el precio de reserva. Funciona como un bote: con esos 30 € por persona se va pagando en cada bar, y el grupo puede ampliarlo si quiere pedir más."
-  - pregunta: "¿En qué idiomas se hace la ruta?"
-    respuesta: "En español, inglés y alemán. Es de las pocas rutas de tapas de Madrid con guía en alemán, algo a tener en cuenta si ese es tu idioma."
-  - pregunta: "¿Cuánto dura y cuántos bares se visitan?"
-    respuesta: "La ruta dura 2,5 horas y visita tres bares de tapas tradicionales del centro de Madrid, con anécdotas e historia de la cultura de las tapas entre parada y parada."
-  - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
-    respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la experiencia, con reembolso completo del precio de reserva. Pasado ese plazo no hay devolución."
+- pregunta: ¿La comida y la bebida están incluidas en el precio?
+  respuesta: No del todo, y es lo más importante de esta ruta. El precio de reserva (35 €) cubre solo el tour guiado. Al empezar, el guía recauda 30 € de cada participante como fondo común para pagar las tapas y bebidas de los tres bares. El coste real por persona ronda los 65 €, y puede subir si se piden especialidades más caras como jamón ibérico.
+- pregunta: ¿Por qué se paga aparte la comida?
+  respuesta: 'El operador organiza el gasto de comida y bebida con un fondo común que gestiona el guía sobre la marcha, en lugar de incluirlo en el precio de reserva. Funciona como un bote: con esos 30 € por persona se va pagando en cada bar, y el grupo puede ampliarlo si quiere pedir más.'
+- pregunta: ¿En qué idiomas se hace la ruta?
+  respuesta: En español, inglés y alemán. Es de las pocas rutas de tapas de Madrid con guía en alemán, algo a tener en cuenta si ese es tu idioma.
+- pregunta: ¿Cuánto dura y cuántos bares se visitan?
+  respuesta: La ruta dura 2,5 horas y visita tres bares de tapas tradicionales del centro de Madrid, con anécdotas e historia de la cultura de las tapas entre parada y parada.
+- pregunta: ¿Puedo cancelar si me surge un imprevisto?
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la experiencia, con reembolso completo del precio de reserva. Pasado ese plazo no hay devolución.
+variantes:
+- tour-tapas-vino-atardecer-azotea
+- tour-bodegas-madrid-cata-vino
+opinionEditorial: 'Es la opción acertada si quieres una ruta de tapas nocturna sencilla y sin pretensiones, y especialmente si tu idioma es el alemán: es de las pocas de Madrid con guía en ese idioma, y su público en las reseñas es mayoritariamente germanoparlante. Tres bares tradicionales, 2,5 horas, anécdotas de la cultura del tapeo y una nota de 4,9. Como plan de noche para empezar a conocer Madrid, cumple.
 
-variantes: ["tour-tapas-vino-atardecer-azotea", "tour-bodegas-madrid-cata-vino"]
-
-opinionEditorial: |
-  Es la opción acertada si quieres una ruta de tapas nocturna sencilla y sin pretensiones, y especialmente si tu idioma es el alemán: es de las pocas de Madrid con guía en ese idioma, y su público en las reseñas es mayoritariamente germanoparlante. Tres bares tradicionales, 2,5 horas, anécdotas de la cultura del tapeo y una nota de 4,9. Como plan de noche para empezar a conocer Madrid, cumple.
 
   Lo que conviene saber antes de reservar, y es lo más importante: el precio de 35 € engaña. Solo cubre el tour guiado. Al empezar, el guía recauda 30 € más de cada persona como fondo común para pagar la comida y la bebida, así que el coste real ronda los 65 € por cabeza. No es un sobrecoste oculto —el operador lo explica—, pero conviene saberlo y llevar el efectivo. Si te molesta ese sistema de bote o esperabas que todo estuviera incluido en el precio de reserva, te encajará mejor un tour con la comida y la bebida incluidas en el precio de reserva. Y no es accesible en silla de ruedas.
 
+  '
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "toursGastronomicos"
-keywords: ["ruta de tapas nocturna madrid", "tour de tapas noche madrid", "tapas madrid en aleman", "tour tapas tradicionales madrid", "ruta tapas centro madrid"]
-
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
-imagenAlt: "Jamones ibéricos colgados sobre la barra de un bar"
-
+categoria: toursGastronomicos
+keywords:
+- ruta de tapas nocturna madrid
+- tour de tapas noche madrid
+- tapas madrid en aleman
+- tour tapas tradicionales madrid
+- ruta tapas centro madrid
+imagen: /images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp
+imagenAlt: Jamones ibéricos colgados sobre la barra de un bar
 galeria:
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp"
-    alt: "Interior de un bar de tapas tradicional de Madrid"
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-17-hero.webp"
-    alt: "Plaza de Santa Ana de noche, zona de bares de tapas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp"
-    alt: "Tortilla de patatas"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
-    alt: "Croqueta recién hecha"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-joselita-hero.webp"
-    alt: "Plato de jamón ibérico"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-olives-stuffed-olives-pintxo-hero.webp"
-    alt: "Banderillas de aceitunas"
-  - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
-    alt: "Plaza de Santa Ana"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
-    alt: "Tapa de jamón con caña"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp"
-    alt: "Caña con tapa de sardina"
-
+- src: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
+  alt: Interior de un bar de tapas tradicional de Madrid
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-17-hero.webp
+  alt: Plaza de Santa Ana de noche, zona de bares de tapas
+- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp
+  alt: Tortilla de patatas
+- src: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp
+  alt: Croqueta recién hecha
+- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-joselita-hero.webp
+  alt: Plato de jamón ibérico
+- src: /images/actividades/madrid/tapas/tapas-madrid-olives-stuffed-olives-pintxo-hero.webp
+  alt: Banderillas de aceitunas
+- src: /images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp
+  alt: Plaza de Santa Ana
+- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp
+  alt: Tapa de jamón con caña
+- src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
+  alt: Caña con tapa de sardina
 ratingProveedor: 4.9
 numeroOpiniones: 65
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 guiasRelacionadas:
-  - "tapas-madrid-que-tour-elegir"
+- tapas-madrid-que-tour-elegir
 ---
 
 ## Qué vas a ver

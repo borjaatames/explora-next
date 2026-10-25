@@ -67,7 +67,7 @@ opinionEditorial: 'If you''re short on time in Granada, this is an efficient way
   The price is per group and for a couple it''s very competitive: €180 for 2 hours or €200 for 3. The 3-hour version is worth it: for €20 more, the walk isn''t rushed. And it runs in six languages.'
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private tour granada
 - granada four cultures tour
@@ -96,6 +96,8 @@ galeria:
   alt: Sunset over Granada from a viewpoint
 bokunProductId: 793773
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

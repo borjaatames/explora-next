@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Medina Azahara is more impressive than it looks in photos, but without explanation it''s just ruins: with an archaeologist guide it comes alive. Note the tour is in Spanish only. Pick the transfer option if you have no car.'
 guiasRelacionadas:
 - cordoba-in-one-day
-categoria: excursionesDia
+categoria: visitasGuiadas
 keywords:
 - medina azahara guided tour
 - medina azahara tour
@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/cordoba/medina-azahara/vista-ruinas.webp
 imagenAlt: View over the ruins of Medina Azahara
 galeria:
-- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
-  alt: "Ruins of the caliphal palace of Medina Azahara"
+- src: /images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp
+  alt: Ruins of the caliphal palace of Medina Azahara
 - src: /images/actividades/cordoba/medina-azahara/salon-rico.webp
   alt: Arches of the Salón Rico at Medina Azahara
 - src: /images/actividades/cordoba/medina-azahara/salon-abderraman.webp

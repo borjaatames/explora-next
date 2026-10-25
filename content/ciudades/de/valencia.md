@@ -56,12 +56,8 @@ atracciones:
     imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
     imagenAlt: "Sonnenuntergang an der Albufera von Valencia mit einem traditionellen Boot"
 chipsFiltros:
-  - { label: "Stadt der Künste und Wissenschaften", tag: "ciudad-artes-ciencias" }
-  - { label: "Altstadt", tag: "centro-historico" }
-  - { label: "Bioparc", tag: "bioparc" }
-  - { label: "Tagesausflüge", tag: "excursiones" }
-  - { label: "Bootsfahrt", tag: "barco" }
-  - { label: "Essen und Trinken", tag: "gastronomia" }
+  - { label: "Stadt der Künste und Wissenschaften", tag: "ciudad-artes" }
+  - { label: "Altstadt (Seidenbörse & Kathedrale)", tag: "centro-historico" }
 ---
 
 Valencia ist die **drittgrößte Stadt Spaniens** – rund 800.000 Einwohner in der Gemeinde und knapp 1,6 Millionen im Großraum – und die Hauptstadt der Valencianischen Gemeinschaft, gelegen am **Mittelmeer** an der Costa del Azahar.

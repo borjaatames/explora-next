@@ -74,16 +74,11 @@ atracciones:
 chipsFiltros:
   - { label: "Sagrada Familia", tag: "sagrada-familia" }
   - { label: "Park Güell", tag: "park-guell" }
-  - { label: "Casa Batlló and La Pedrera", tag: "casa-batllo" }
+  - { label: "Casa Batlló & La Pedrera", tag: "casa-batllo-pedrera" }
+  - { label: "Gothic Quarter & Cathedral", tag: "gotico" }
+  - { label: "Camp Nou", tag: "camp-nou" }
+  - { label: "Picasso Museum", tag: "museo-picasso" }
   - { label: "Montserrat", tag: "montserrat" }
-  - { label: "Camp Nou", tag: "futbol" }
-  - { label: "Picasso Museum", tag: "picasso" }
-  - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Boat trips", tag: "barco" }
-  - { label: "Tapas and wine", tag: "tapas-barcelona" }
-  - { label: "Gothic Quarter and Cathedral", tag: "barrio-gotico" }
-  - { label: "Photo shoots", tag: "fotos" }
-  - { label: "Other experiences", tag: "otros-barcelona" }
 ---
 
 Barcelona is the capital of Catalonia and Spain's second most populated city: around **1.7 million inhabitants** in the municipality and more than 5.7 million in its metropolitan area. It is the seat of the Generalitat and the main economic engine of the Spanish Mediterranean.

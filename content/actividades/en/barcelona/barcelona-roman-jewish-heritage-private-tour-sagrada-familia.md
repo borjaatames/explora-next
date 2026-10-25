@@ -68,9 +68,10 @@ opinionEditorial: 'A different take on Barcelona: the city told through its thre
 
   From about €121 per person for two; about €99 each for four. Avoid Saturdays if you want to go inside the synagogue.'
 atraccionesRelacionadas:
+- gotico
 - sagrada-familia
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - jewish barcelona tour
 - jewish quarter barcelona visit
@@ -99,6 +100,7 @@ galeria:
   alt: Blue and green stained glass lighting the nave of the Sagrada Familia
 bokunProductId: 612622
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

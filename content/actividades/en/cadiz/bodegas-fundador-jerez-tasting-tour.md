@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/cadiz/bodega/bodega-mezquita.webp
 imagenAlt: Inside La Mezquita winery, with arches and casks
 galeria:
-- src: "/images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp"
-  alt: "Antigua torre de una bodega historica en Jerez de la Frontera"
+- src: /images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp
+  alt: Antigua torre de una bodega historica en Jerez de la Frontera
 - src: /images/actividades/cadiz/bodega/botas-fundador.webp
   alt: Wine casks at Bodegas Fundador
 - src: /images/actividades/cadiz/bodega/botas-arcos.webp

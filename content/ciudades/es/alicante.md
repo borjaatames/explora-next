@@ -48,11 +48,7 @@ atracciones:
     descripcion: "Hacia el interior, el pueblo de Guadalest colgado de la roca; por la costa, Benidorm, Altea, Calpe y Jávea, todo el abanico de la Costa Blanca."
     imagen: "/images/actividades/alicante/excursiones/guadalest.webp"
     imagenAlt: "El pueblo de Guadalest sobre la roca"
-chipsFiltros:
-  - { label: "Centro y castillo", tag: "centro-historico" }
-  - { label: "Mar y Tabarca", tag: "mar" }
-  - { label: "Gastronomía y flamenco", tag: "gastronomia" }
-  - { label: "Excursiones", tag: "excursiones" }
+chipsFiltros: []
 ---
 
 Alicante es la capital de la Costa Blanca y la segunda ciudad de la Comunidad Valenciana —unos 340.000 habitantes—, asomada al Mediterráneo con uno de los mejores climas de Europa: más de 300 días de sol al año.

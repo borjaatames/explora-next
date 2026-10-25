@@ -63,7 +63,7 @@ opinionEditorial: 'You can wander the Albaicín on your own, but it''s easy to g
   The price drops sharply with group size: €124 per person for two, €72 for four. For a couple it''s pricey next to a group tour; for families or friends it''s fair value for a guide of your own.'
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - albaicin private tour
 - albaicin and sacromonte tour
@@ -90,6 +90,7 @@ galeria:
   alt: Cave houses on the Sacromonte hillside
 bokunProductId: 938039
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

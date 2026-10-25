@@ -68,9 +68,10 @@ opinionEditorial: 'It''s the walk you want on your first day in Málaga: Calle L
 
   The price is per group and works well for couples and families: €200 for 1 or 2 people on the 2-hour version and €240 on the 3-hour one. For 4 of you, €280 in total. Travelling solo, a free tour is cheaper, but it isn''t private.'
 atraccionesRelacionadas:
+- alcazaba
 - alcazaba-gibralfaro
 - centro-historico
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private tour malaga
 - essential malaga tour
@@ -97,6 +98,8 @@ galeria:
   alt: Málaga Cathedral with its single tower
 bokunProductId: 853250
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

@@ -48,11 +48,7 @@ atracciones:
     descripcion: "El parque clásico de la ciudad, con la mejor vista de la catedral y sus torres sobre el casco histórico, sobre todo al atardecer."
     imagen: "/images/actividades/santiago-de-compostela/casco/alameda.webp"
     imagenAlt: "Paseo arbolado del parque de la Alameda"
-chipsFiltros:
-  - { label: "Catedral", tag: "catedral" }
-  - { label: "Casco antiguo", tag: "centro-historico" }
-  - { label: "Tapas", tag: "gastronomia" }
-  - { label: "Excursiones", tag: "excursiones" }
+chipsFiltros: []
 ---
 
 Santiago de Compostela es la capital de Galicia —unos 100.000 habitantes— y uno de los grandes destinos de peregrinación del mundo desde hace mil años: aquí termina el **Camino de Santiago**, ante la tumba del Apóstol.

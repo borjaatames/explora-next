@@ -2,7 +2,7 @@
 titulo: 'Barcelona: entrada al Aquàrium de Barcelona'
 slug: aquarium-barcelona-entrada
 ciudad: barcelona
-descripcion: 'Entrada al Aquàrium de Barcelona con el famoso túnel submarino de 80 metros rodeado de tiburones y el mayor acuario de Europa de fauna mediterránea. 4,4/5 con 19.870 reseñas.'
+descripcion: Entrada al Aquàrium de Barcelona con el famoso túnel submarino de 80 metros rodeado de tiburones y el mayor acuario de Europa de fauna mediterránea. 4,4/5 con 19.870 reseñas.
 slugs:
   es: aquarium-barcelona-entrada
   en: aquarium-barcelona-ticket
@@ -56,7 +56,7 @@ accesibilidad: Totalmente accesible en silla de ruedas. Rampas en todos los nive
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Cuánto dura la visita?
-  respuesta: 'De 1,5 a 3 horas según el ritmo. El circuito completo con el túnel tarda unos 90 minutos; con niños, cuenta 2-3 horas.'
+  respuesta: De 1,5 a 3 horas según el ritmo. El circuito completo con el túnel tarda unos 90 minutos; con niños, cuenta 2-3 horas.
 - pregunta: ¿Es el mejor acuario de España?
   respuesta: Es uno de los mejores en fauna mediterránea. Para fauna oceánica tropical, el Oceanogràfic de Valencia es más grande y variado.
 - pregunta: ¿Puedo bañarme con los tiburones?
@@ -64,23 +64,23 @@ preguntasFrecuentes:
 opinionEditorial: 'El Aquàrium de Barcelona tiene el mejor túnel de tiburones de España: 80 metros de cristal rodeado de arena tiger sharks y rayas manta, sin rival en la Península. La colección mediterránea es única en el mundo. Merece la pena aunque el precio sea elevado; compra online y te evitas las colas de taquilla.'
 guiasRelacionadas:
 - barcelona-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - aquarium barcelona
 - acuario barcelona entrada
 - tunel tiburones barcelona
 - aquarium barcelona precio
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
-imagenAlt: "Túnel del Oceanario de L'Aquàrium de Barcelona"
+imagenAlt: Túnel del Oceanario de L'Aquàrium de Barcelona
 galeria:
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
-  alt: "Tiburón y buceador en el Oceanario de L'Aquàrium"
+  alt: Tiburón y buceador en el Oceanario de L'Aquàrium
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
-  alt: "Edificio de L'Aquàrium en el Port Vell de Barcelona"
+  alt: Edificio de L'Aquàrium en el Port Vell de Barcelona
 - src: /images/actividades/barcelona/aquarium/pez-angel.webp
-  alt: "Pez ángel reina en un acuario tropical de L'Aquàrium"
+  alt: Pez ángel reina en un acuario tropical de L'Aquàrium
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
-  alt: "Visitantes ante el gran tanque del Oceanario"
+  alt: Visitantes ante el gran tanque del Oceanario
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

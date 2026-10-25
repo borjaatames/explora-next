@@ -56,28 +56,28 @@ politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% c
 opinionEditorial: It works well for combining classic Bilbao (Casco Viejo, palaces, cathedral) with the Guggenheim without depending on guided-tour timetables. With +15 points of interest it's a mid-length route, longer than Girona but shorter than Barcelona. Good for travellers who'd rather move at their own pace and take their time over photos.
 atraccionesRelacionadas:
 - casco-viejo
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided bilbao tour
 - bilbao audio guide app
 - self-guided bilbao walking tour
-imagen: "/images/actividades/bilbao/guggenheim/maman-puente.webp"
-imagenAlt: "The Guggenheim with the red arch of La Salve bridge"
+imagen: /images/actividades/bilbao/guggenheim/maman-puente.webp
+imagenAlt: The Guggenheim with the red arch of La Salve bridge
 galeria:
-- src: "/images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp"
-  alt: "Puente sobre la ria y arquitectura historica de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+  alt: Puente sobre la ria y arquitectura historica de Bilbao
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: "Bilbao from Mount Artxanda"
+  alt: Bilbao from Mount Artxanda
 - src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: "Maman, Louise Bourgeois's spider by the museum"
+  alt: Maman, Louise Bourgeois's spider by the museum
 - src: /images/actividades/bilbao/ria/zubizuri.webp
-  alt: "Zubizuri bridge over the estuary"
+  alt: Zubizuri bridge over the estuary
 - src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
-  alt: "Close-up of the flowers on Jeff Koons's Puppy"
+  alt: Close-up of the flowers on Jeff Koons's Puppy
 - src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
-  alt: "Guggenheim Bilbao lit up at night"
+  alt: Guggenheim Bilbao lit up at night
 - src: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -69,7 +69,7 @@ guiasRelacionadas:
 - malaga-con-ninos
 atraccionesRelacionadas:
 - barco
-categoria: excursionesDia
+categoria: agua
 keywords:
 - catamaran malaga
 - paseo en barco malaga
@@ -78,8 +78,8 @@ keywords:
 imagen: /images/actividades/malaga/catamaran/catamaran-malaga-atardecer.webp
 imagenAlt: Catamarán navegando al atardecer frente a Málaga
 galeria:
-- src: "/images/actividades/malaga/muelle-uno/muelle-uno-vista.webp"
-  alt: "Muelle Uno en el puerto de Málaga"
+- src: /images/actividades/malaga/muelle-uno/muelle-uno-vista.webp
+  alt: Muelle Uno en el puerto de Málaga
 - src: /images/actividades/malaga/catamaran/catamaran-vela.webp
   alt: Catamarán de vela navegando en mar abierto
 - src: /images/actividades/malaga/catamaran/catamaran-pasajeros.webp

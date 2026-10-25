@@ -91,6 +91,7 @@ galeria:
   alt: View over the ruins of Medina Azahara
 bokunProductId: 937791
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

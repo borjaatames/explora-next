@@ -64,11 +64,9 @@ atracciones:
     imagen: "/images/actividades/tenerife/icod/drago-milenario.webp"
     imagenAlt: "El Drago Milenario de Icod de los Vinos"
 chipsFiltros:
-  - { label: "El Teide", tag: "teide" }
-  - { label: "En el mar", tag: "mar" }
-  - { label: "Parques temáticos", tag: "parques" }
-  - { label: "Masca y Los Gigantes", tag: "masca" }
-  - { label: "Anaga", tag: "anaga" }
+  - { label: "Teide", tag: "teide" }
+  - { label: "Masca y Los Gigantes", tag: "masca-gigantes" }
+  - { label: "Siam Park y Loro Parque", tag: "siam-loro" }
 ---
 
 Tenerife es la isla más grande y poblada de Canarias, con unos **950.000 habitantes**, y la capital compartida del archipiélago, **Santa Cruz de Tenerife**. Todo gira en torno al **Teide** (3.715 m), el pico más alto de España, que domina el **Parque Nacional del Teide**, Patrimonio de la Humanidad.

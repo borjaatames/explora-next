@@ -6,7 +6,7 @@ descripcion: 'Excursión de medio día en catamarán: avistamiento de ballenas y
 slugs:
   es: catamaran-ballenas-buffet-tenerife
   en: catamaran-whale-watching-buffet-tenerife
-duracion: '4 horas'
+duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 63
 moneda: EUR
@@ -31,7 +31,7 @@ incluye:
 noIncluye:
 - Transporte al punto de salida
 puntoEncuentro:
-  texto: 'Puerto en el sur de Tenerife (confirmado en el voucher)'
+  texto: Puerto en el sur de Tenerife (confirmado en el voucher)
   descripcionGuia: El punto exacto de salida se confirma en el voucher. Generalmente en la zona de Los Cristianos o Costa Adeje. Llega 20-30 minutos antes de la salida.
   latitud: 28.0511
   longitud: -16.7151
@@ -51,7 +51,7 @@ informacionImportante:
   aTenerEnCuenta:
   - El buffet distingue este tour del resto; es una buena opción si salís a primera hora de la mañana
   - Al ser 4 horas tenéis más tiempo en el agua y más tiempo de observación
-  - "Valorado con 4,8/5: la mejor puntuación de los tours de ballenas en Tenerife disponibles en GYG"
+  - 'Valorado con 4,8/5: la mejor puntuación de los tours de ballenas en Tenerife disponibles en GYG'
 accesibilidad: Acceso limitado. Consultar con el operador.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
@@ -59,10 +59,10 @@ preguntasFrecuentes:
   respuesta: Varía por operador pero suele incluir sándwiches, fruta, snacks y bebidas (agua, refrescos, alcohol moderado). Consulta los detalles exactos al confirmar tu reserva.
 - pregunta: ¿Por qué es el más caro de los tres tours?
   respuesta: Porque dura el doble (4 horas vs 2) e incluye comida y bebida ilimitada a bordo, además del equipo de snorkel. El precio por hora de actividad es muy competitivo.
-opinionEditorial: 'El tour más completo y mejor valorado (4,8★) de los tres disponibles en Tenerife. Si buscas una experiencia de medio día sin preocuparte de llevar comida ni bebida, este es el que te lleva el carro.'
+opinionEditorial: El tour más completo y mejor valorado (4,8★) de los tres disponibles en Tenerife. Si buscas una experiencia de medio día sin preocuparte de llevar comida ni bebida, este es el que te lleva el carro.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - catamaran ballenas tenerife buffet
 - excursion completa ballenas tenerife
@@ -70,22 +70,22 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Calderón tropical de cerca en las aguas de Tenerife
 galeria:
-  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
-    alt: "Calderones tropicales (ballenas piloto) en las aguas de Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
-    alt: "Cría de calderón tropical en Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/delfin-moteado.webp"
-    alt: "Delfín moteado del Atlántico"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
-    alt: "Soplo de un calderón tropical"
-  - src: "/images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp"
-    alt: "Pareja de delfines saltando juntos"
-  - src: "/images/actividades/tenerife/cetaceos/ballena-aleta-superficie.webp"
-    alt: "Aleta de una ballena en la superficie"
-  - src: "/images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp"
-    alt: "Delfín nadando cerca del catamarán"
-  - src: "/images/actividades/tenerife/cetaceos/cola-ballena.webp"
-    alt: "Cola de una ballena en aguas de Tenerife"
+- src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
+  alt: Calderones tropicales (ballenas piloto) en las aguas de Tenerife
+- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+  alt: Cría de calderón tropical en Tenerife
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: Delfín moteado del Atlántico
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: Soplo de un calderón tropical
+- src: /images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp
+  alt: Pareja de delfines saltando juntos
+- src: /images/actividades/tenerife/cetaceos/ballena-aleta-superficie.webp
+  alt: Aleta de una ballena en la superficie
+- src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
+  alt: Delfín nadando cerca del catamarán
+- src: /images/actividades/tenerife/cetaceos/cola-ballena.webp
+  alt: Cola de una ballena en aguas de Tenerife
 ratingProveedor: 4.8
 numeroOpiniones: 2242
 atraccionesRelacionadas:

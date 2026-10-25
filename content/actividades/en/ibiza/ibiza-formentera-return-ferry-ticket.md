@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: 'If you''d rather see Formentera at your own pace, this is all you need: the fast ferry with flexible times and an open return. You redeem the voucher at the terminal ticket office before boarding.'
 guiasRelacionadas:
 - formentera-from-ibiza
-categoria: transporte
+categoria: agua
 keywords:
 - ibiza formentera ferry
 - formentera ferry ticket
@@ -89,8 +89,6 @@ galeria:
   alt: Mal Pas beach in Formentera
 ratingProveedor: 4.7
 numeroOpiniones: 322
-atraccionesRelacionadas:
-- formentera
 publicada: true
 destacada: false
 fecha: '2026-10-07'

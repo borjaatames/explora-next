@@ -68,6 +68,7 @@ opinionEditorial: 'Si tienes poco tiempo en Málaga, esta visita te resuelve la 
 guiasRelacionadas:
 - malaga-en-dos-dias
 atraccionesRelacionadas:
+- alcazaba
 - alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:

@@ -68,6 +68,7 @@ opinionEditorial: 'If you''re short on time in Málaga, this sorts out your morn
 guiasRelacionadas:
 - malaga-in-two-days
 atraccionesRelacionadas:
+- alcazaba
 - alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:

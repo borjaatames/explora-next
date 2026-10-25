@@ -60,10 +60,8 @@ atracciones:
     imagen: "/images/actividades/lanzarote/zonas/papagayo-cala.webp"
     imagenAlt: "Cala de Papagayo con agua turquesa entre acantilados"
 chipsFiltros:
-  - { label: "Volcanes y Timanfaya", tag: "volcanes" }
-  - { label: "En el mar", tag: "mar" }
-  - { label: "La Graciosa", tag: "graciosa" }
-  - { label: "Excursiones por la isla", tag: "isla" }
+  - { label: "Timanfaya", tag: "timanfaya" }
+  - { label: "Jameos del Agua y Cueva de los Verdes", tag: "jameos-cueva" }
 ---
 
 Lanzarote es la isla más oriental de Canarias y la más marcada por los volcanes. Tiene unos **167.000 habitantes**, mide unos 55 km de norte a sur y su punto más alto, las **Peñas del Chache**, apenas llega a 671 metros. Entre **1730 y 1736** una erupción cubrió de lava casi una cuarta parte de la isla: de ahí salen el **Parque Nacional de Timanfaya** y buena parte de lo que hoy la hace única. Desde **1993** toda la isla es **Reserva de la Biosfera** y desde 2015 forma, con el archipiélago Chinijo, un **Geoparque Mundial de la UNESCO**.

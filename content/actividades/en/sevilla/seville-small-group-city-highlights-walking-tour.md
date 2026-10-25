@@ -94,8 +94,10 @@ opinionEditorial: 'Seville''s **best-rated general walking tour** — 4.9/5 with
 
   '
 atraccionesRelacionadas:
+- santa-cruz
+- plaza-espana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - best rated walking tour seville
 - small group tour seville

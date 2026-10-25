@@ -67,7 +67,7 @@ opinionEditorial: If you go to Tabarca, snorkelling is the reason. With a guide 
 guiasRelacionadas:
 - tabarca-island-how-to-visit
 - what-to-see-in-alicante
-categoria: excursionesDia
+categoria: agua
 keywords:
 - tabarca snorkelling
 - tabarca snorkel tour
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:
+- tabarca
 - mar
 publicada: true
 destacada: false

@@ -49,11 +49,8 @@ atracciones:
     imagen: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
     imagenAlt: "Montañas rusas de PortAventura World"
 chipsFiltros:
-  - { label: "Tarraco y catedral", tag: "tarraco" }
+  - { label: "Tarraco", tag: "tarraco" }
   - { label: "PortAventura", tag: "portaventura" }
-  - { label: "Costa Dorada", tag: "costa" }
-  - { label: "Ebro y Delta", tag: "naturaleza" }
-  - { label: "Vermut", tag: "vermut" }
 ---
 
 Tarragona es una ciudad media de la Costa Daurada —unos 135.000 habitantes—, a una hora de Barcelona, y guarda el mayor tesoro romano de Cataluña. Fue **Tárraco**, capital de la Hispania romana, y de aquella época conserva un conjunto declarado Patrimonio de la Humanidad.

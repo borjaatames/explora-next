@@ -70,7 +70,7 @@ guiasRelacionadas:
 - mejores-calas-mallorca
 atraccionesRelacionadas:
 - calas-playas
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco fondo de cristal mallorca
 - ver delfines mallorca

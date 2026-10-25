@@ -73,35 +73,36 @@ keywords:
 imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
 imagenAlt: Monasterio de El Escorial y sus jardines
 galeria:
-  - src: "/images/actividades/madrid/valle-caidos/valle-caidos-by-forcy-cruz-piedad-hero.webp"
-    alt: "La cruz del Valle de Cuelgamuros, de 150 metros"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp"
-    alt: "Biblioteca de El Escorial"
-  - src: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
-    alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp"
-    alt: "Entrada al Panteón de los Reyes de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp"
-    alt: Vista del conjunto del Monasterio de El Escorial bajo cielo despejado
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-sarcofago-reina-victoria-eugenia-hero.webp"
-    alt: "Sarcófago real en el Panteón de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp"
-    alt: "Altar mayor de la basílica de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp"
-    alt: Detalle de la aldaba de bronce en la puerta principal del Monasterio de El Escorial
-  - src: /images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp
-    alt: "Capilla mayor de la basílica excavada en la roca"
-  - src: /images/actividades/madrid/escorial/monasterio-escorial-alegoria-musica-real-biblioteca-hero.webp
-    alt: "Fresco de la Biblioteca Real de El Escorial (parada en el monasterio)"
-  - src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-escalier-hero.webp
-    alt: "Escalera de acceso al Panteón de los Reyes"
-  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stone-building-distant-mountains-hero.webp
-    alt: "El Escorial con la sierra de Guadarrama al fondo"
-  - src: /images/actividades/madrid/escorial/monasterio-escorial-fale-spain-madrid-29-hero.webp
-    alt: "Interior de la basílica del Monasterio de El Escorial"
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-by-forcy-cruz-piedad-hero.webp
+  alt: La cruz del Valle de Cuelgamuros, de 150 metros
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
+  alt: Biblioteca de El Escorial
+- src: /images/actividades/madrid/escorial/escorial-tour-01.webp
+  alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp
+  alt: Entrada al Panteón de los Reyes de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp
+  alt: Vista del conjunto del Monasterio de El Escorial bajo cielo despejado
+- src: /images/actividades/madrid/escorial/monasterio-escorial-sarcofago-reina-victoria-eugenia-hero.webp
+  alt: Sarcófago real en el Panteón de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp
+  alt: Altar mayor de la basílica de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
+  alt: Detalle de la aldaba de bronce en la puerta principal del Monasterio de El Escorial
+- src: /images/actividades/madrid/valle-caidos/valle-caidos-capilla-mayor-basilica-santa-cruz-hero.webp
+  alt: Capilla mayor de la basílica excavada en la roca
+- src: /images/actividades/madrid/escorial/monasterio-escorial-alegoria-musica-real-biblioteca-hero.webp
+  alt: Fresco de la Biblioteca Real de El Escorial (parada en el monasterio)
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-escalier-hero.webp
+  alt: Escalera de acceso al Panteón de los Reyes
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-stone-building-distant-mountains-hero.webp
+  alt: El Escorial con la sierra de Guadarrama al fondo
+- src: /images/actividades/madrid/escorial/monasterio-escorial-fale-spain-madrid-29-hero.webp
+  alt: Interior de la basílica del Monasterio de El Escorial
 ratingProveedor: 4.7
 numeroOpiniones: 1769
 atraccionesRelacionadas:
+- escorial
 - excursiones-desde-madrid
 publicada: true
 destacada: true

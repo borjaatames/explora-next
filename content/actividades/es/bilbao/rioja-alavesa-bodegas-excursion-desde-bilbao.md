@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Bodega, comida y dos ciudades por 70 €: sale muy a cuenta frente a ir por libre sin coche. Laguardia es de los pueblos más bonitos del norte.'
 guiasRelacionadas:
 - escapadas-desde-bilbao
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - excursion rioja desde bilbao
 - bodegas rioja alavesa

@@ -69,7 +69,7 @@ opinionEditorial: 'Es la forma más cómoda y una de las mejor valoradas de ver 
 guiasRelacionadas:
 - isla-de-lobos-como-ir
 - que-ver-en-fuerteventura
-categoria: excursionesDia
+categoria: agua
 keywords:
 - catamaran isla de lobos
 - excursion lobos corralejo
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 1183
 atraccionesRelacionadas:
+- isla-lobos
 - lobos
 publicada: true
 destacada: false

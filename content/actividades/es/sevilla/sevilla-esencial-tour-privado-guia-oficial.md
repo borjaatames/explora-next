@@ -66,8 +66,10 @@ opinionEditorial: 'Es la mejor forma de ubicarte el primer día: en dos horas, c
 
   Como el precio es por grupo, para una pareja sale a 82 € por persona, más que un free tour pero con un guía solo para ti y a la hora que elijas. Para 4 personas, 220 € en total. Ojo: no se entra en ningún monumento.'
 atraccionesRelacionadas:
+- plaza-espana
+- santa-cruz
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado sevilla
 - guia privado sevilla
@@ -95,6 +97,8 @@ galeria:
   alt: Callejuela estrecha del barrio de Santa Cruz
 bokunProductId: 793764
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

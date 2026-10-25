@@ -64,7 +64,7 @@ opinionEditorial: 'After the Mosque, the patios are the loveliest thing in Córd
   It''s at its best in spring when the flowers peak, but the patios are tended all year. For two it''s about €123 per person; for four, about €75. No published reviews yet.'
 atraccionesRelacionadas:
 - patios
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - cordoba patios tour
 - private patios tour cordoba
@@ -93,6 +93,7 @@ galeria:
   alt: Patio with pots hanging on the walls
 bokunProductId: 934217
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

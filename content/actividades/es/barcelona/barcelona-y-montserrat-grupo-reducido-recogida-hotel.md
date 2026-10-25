@@ -67,29 +67,28 @@ preguntasFrecuentes:
   respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
 - montserrat
-- sagrada-familia
 categoria: excursionesDia
 keywords:
 - barcelona y montserrat en un dia
 - excursion montserrat recogida hotel
 - excursion montserrat desde puerto cruceros barcelona
-imagen: "montserrat-sant-jeroni-06.webp"
-imagenAlt: "Rocas de Montserrat bajo el cielo azul"
+imagen: montserrat-sant-jeroni-06.webp
+imagenAlt: Rocas de Montserrat bajo el cielo azul
 galeria:
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
-    alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
-  - src: "https://imgcdn.bokun.tools/852af406-bbee-4ed9-9a2b-e6a95d2e1bec.jpg"
-    alt: "Fachada de la basílica de Montserrat vista desde el patio"
-  - src: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
-    alt: "La Sagrada Família de Barcelona"
-  - src: "https://imgcdn.bokun.tools/ae987d0a-5d5a-419e-8aef-9c06d1a7c340.jpg"
-    alt: "Grupo de viajeros con las agujas de Montserrat detrás"
-  - src: "https://imgcdn.bokun.tools/dd55eccf-90c0-4dae-b3c6-8a4e7212e769.jpg"
-    alt: "Fuente de Montjuïc con el Palau Nacional al fondo"
-  - src: "https://imgcdn.bokun.tools/31a558f0-c1a9-4a48-8a4c-7e404c707815.jpg"
-    alt: "Paseo de Gracia con fachadas modernistas"
-  - src: "https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg"
-    alt: "Viajeros junto a la furgoneta del tour ante la Sagrada Família"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
+- src: https://imgcdn.bokun.tools/852af406-bbee-4ed9-9a2b-e6a95d2e1bec.jpg
+  alt: Fachada de la basílica de Montserrat vista desde el patio
+- src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
+  alt: La Sagrada Família de Barcelona
+- src: https://imgcdn.bokun.tools/ae987d0a-5d5a-419e-8aef-9c06d1a7c340.jpg
+  alt: Grupo de viajeros con las agujas de Montserrat detrás
+- src: https://imgcdn.bokun.tools/dd55eccf-90c0-4dae-b3c6-8a4e7212e769.jpg
+  alt: Fuente de Montjuïc con el Palau Nacional al fondo
+- src: https://imgcdn.bokun.tools/31a558f0-c1a9-4a48-8a4c-7e404c707815.jpg
+  alt: Paseo de Gracia con fachadas modernistas
+- src: https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg
+  alt: Viajeros junto a la furgoneta del tour ante la Sagrada Família
 publicada: true
 destacada: false
 fecha: '2026-10-12'

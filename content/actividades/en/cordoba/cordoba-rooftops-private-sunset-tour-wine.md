@@ -67,7 +67,7 @@ opinionEditorial: 'The most original tour you''ll find in Córdoba: instead of p
   It works best as a second or third activity, once you''ve seen the essentials at street level. For two it''s about €174 per person; for four, about €112. No published reviews yet.'
 atraccionesRelacionadas:
 - mezquita-catedral
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - cordoba rooftops tour
 - cordoba sunset tour
@@ -94,6 +94,7 @@ galeria:
   alt: Bell tower of the Mosque-Cathedral
 bokunProductId: 934216
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

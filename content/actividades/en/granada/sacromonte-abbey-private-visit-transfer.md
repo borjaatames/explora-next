@@ -95,6 +95,7 @@ galeria:
   alt: Rock-cut passage in the Holy Caves
 bokunProductId: 938184
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

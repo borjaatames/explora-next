@@ -1,8 +1,8 @@
 ---
-titulo: "Tour gastronómico de mediodía con el Mercado de la Boquería"
+titulo: Tour gastronómico de mediodía con el Mercado de la Boquería
 slug: tour-gastronomico-mediodia-boqueria-vinos
 ciudad: barcelona
-descripcion: "Visita enogastronómica de mediodía por el casco antiguo de Barcelona: Mercado de la Boquería con degustación de quesos y embutidos locales, y tapas con vinos regionales en 4 bodegas de los barrios Gótico y del Born. Grupo reducido (máx. 12)."
+descripcion: 'Visita enogastronómica de mediodía por el casco antiguo de Barcelona: Mercado de la Boquería con degustación de quesos y embutidos locales, y tapas con vinos regionales en 4 bodegas de los barrios Gótico y del Born. Grupo reducido (máx. 12).'
 slugs:
   es: tour-gastronomico-mediodia-boqueria-vinos
   en: midday-food-and-wine-tour-boqueria-market
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 677684
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -48,8 +48,8 @@ informacionImportante:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
-opinionEditorial: "Es una forma estupenda de comer como un local sin acabar en una trampa para turistas: el guía te lleva a sitios que no encontrarías solo, y la Boquería al mediodía está en su mejor momento. Grupo reducido, ritmo tranquilo y comida de verdad."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+opinionEditorial: 'Es una forma estupenda de comer como un local sin acabar en una trampa para turistas: el guía te lleva a sitios que no encontrarías solo, y la Boquería al mediodía está en su mejor momento. Grupo reducido, ritmo tranquilo y comida de verdad.'
 atraccionesRelacionadas:
 - tapas-barcelona
 categoria: toursGastronomicos
@@ -57,19 +57,19 @@ keywords:
 - tour gastronomico barcelona
 - mercado boqueria tour
 - tapas y vino barcelona
-imagen: "/images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp"
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
 imagenAlt: El Mercado de la Boquería de Barcelona lleno de puestos de productos frescos
 galeria:
 - src: https://imgcdn.bokun.tools/5d4c20ab-4401-4362-96fe-377b78cac9f2.jpeg
-  alt: "Grupo del tour a la puerta de un bar de tapas"
+  alt: Grupo del tour a la puerta de un bar de tapas
 - src: https://imgcdn.bokun.tools/57741ce2-c812-4933-b7f6-0d121cc20550.jpeg
-  alt: "Bebiendo vino en porrón en una bodega"
+  alt: Bebiendo vino en porrón en una bodega
 - src: https://imgcdn.bokun.tools/4238c556-4b96-4d5a-a7b6-851b459fc661.jpeg
-  alt: "Plato de jamón ibérico recién cortado"
+  alt: Plato de jamón ibérico recién cortado
 - src: https://imgcdn.bokun.tools/33d1acca-8d37-4951-9f18-12a4164f18ee.jpeg
-  alt: "Guía con un plato de jamón en un bar de tapas"
+  alt: Guía con un plato de jamón en un bar de tapas
 - src: https://imgcdn.bokun.tools/7157a993-70b2-4ff7-80a2-c7b9030cd867.jpeg
-  alt: "Brindis con vino en un bar de tapas"
+  alt: Brindis con vino en un bar de tapas
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Puesto de jamones y embutidos ibericos en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp

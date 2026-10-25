@@ -69,7 +69,7 @@ preguntasFrecuentes:
 opinionEditorial: 'PortAventura es uno de los mejores parques de Europa y la entrada combinada con Ferrari Land es la más completa. Reserva online con antelación: en temporada alta la taquilla se llena y aquí tienes cancelación hasta 3 días antes.'
 guiasRelacionadas:
 - portaventura-world-guia
-categoria: entradas
+categoria: parques
 keywords:
 - entradas portaventura
 - portaventura ferrari land

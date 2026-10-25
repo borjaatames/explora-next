@@ -1,137 +1,132 @@
 ---
-titulo: "Barcelona: Tour a Pie del Casco Antiguo y Barri Gòtic (Top Volumen, Bilingüe)"
-slug: "tour-casco-antiguo-barri-gotico-a-pie"
-ciudad: "barcelona"
-descripcion: "Tour guiado a pie de 2,5 horas «Top Rated» por el casco antiguo y el Barri Gòtic de Barcelona — La Rambla, mercado de la Boquería, plazas medievales y el exterior de la Catedral. 1.582 reseñas con 4,8/5. Guía en directo en español o inglés. Operador: In Out Barcelona Tours."
-
+titulo: 'Barcelona: Tour a Pie del Casco Antiguo y Barri Gòtic (Top Volumen, Bilingüe)'
+slug: tour-casco-antiguo-barri-gotico-a-pie
+ciudad: barcelona
+descripcion: 'Tour guiado a pie de 2,5 horas «Top Rated» por el casco antiguo y el Barri Gòtic de Barcelona — La Rambla, mercado de la Boquería, plazas medievales y el exterior de la Catedral. 1.582 reseñas con 4,8/5. Guía en directo en español o inglés. Operador: In Out Barcelona Tours.'
 slugs:
-  es: "tour-casco-antiguo-barri-gotico-a-pie"
-  en: "old-town-and-gothic-quarter-walking-tour"
-
-duracion: "2,5 - 4 horas"
+  es: tour-casco-antiguo-barri-gotico-a-pie
+  en: old-town-and-gothic-quarter-walking-tour
+duracion: 2,5 - 4 horas
 duracionMinutos: 150
 precioDesde: 18
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/barcelona-l45/barcelona-old-town-and-gothic-quarter-walking-tour-t61664/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-old-town-and-gothic-quarter-walking-tour-t61664/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Top Rated — 1.582 reseñas con 4,8/5 (86 % cinco estrellas, rating de Guía 4,9/5)"
-  - "Guía en directo en ESPAÑOL o INGLÉS — uno de los pocos tours del Barri Gòtic bilingüe"
-  - "2,5 horas cubriendo La Rambla, mercado de la Boquería, Plaça Reial, exterior Catedral, Plaça Sant Jaume y las calles medievales"
-  - "Grupo reducido (máx 15) — reservable también como grupo privado"
-  - "Excelente relación calidad-precio: desde 18 € — de los tours top-rated más asequibles del barrio"
-  - "«Probable que se agote» — reserva con antelación entre mayo y septiembre"
-
+- Top Rated — 1.582 reseñas con 4,8/5 (86 % cinco estrellas, rating de Guía 4,9/5)
+- Guía en directo en ESPAÑOL o INGLÉS — uno de los pocos tours del Barri Gòtic bilingüe
+- 2,5 horas cubriendo La Rambla, mercado de la Boquería, Plaça Reial, exterior Catedral, Plaça Sant Jaume y las calles medievales
+- Grupo reducido (máx 15) — reservable también como grupo privado
+- 'Excelente relación calidad-precio: desde 18 € — de los tours top-rated más asequibles del barrio'
+- «Probable que se agote» — reserva con antelación entre mayo y septiembre
 incluye:
-  - "Guía de habla española o inglesa (elegida al reservar)"
-  - "Tour a pie por el casco antiguo y el Barri Gòtic"
-  - "Paradas en La Rambla, mercado de la Boquería, exterior Catedral, Plaça Reial, Plaça Sant Jaume"
-  - "Formato grupo reducido (máx 15 participantes)"
-  - "Opción de grupo privado (seleccionable al reservar)"
-
+- Guía de habla española o inglesa (elegida al reservar)
+- Tour a pie por el casco antiguo y el Barri Gòtic
+- Paradas en La Rambla, mercado de la Boquería, exterior Catedral, Plaça Reial, Plaça Sant Jaume
+- Formato grupo reducido (máx 15 participantes)
+- Opción de grupo privado (seleccionable al reservar)
 noIncluye:
-  - "Gastos personales"
-  - "Propinas (opcionales)"
-  - "Entrada al interior de la Catedral (visita por fuera solamente)"
-  - "Comida y bebida"
-  - "Recogida en hotel"
-
+- Gastos personales
+- Propinas (opcionales)
+- Entrada al interior de la Catedral (visita por fuera solamente)
+- Comida y bebida
+- Recogida en hotel
 puntoEncuentro:
-  texto: "El punto de encuentro varía según la opción reservada: tour de grupo reducido por el casco antiguo y Barri Gòtic, tour privado del casco antiguo y Barri Gòtic, o variante con paseo en barco por el puerto. La ubicación específica se confirma en la reserva. La mayoría de opciones queda en Plaça de Catalunya o en la cabecera de La Rambla."
-  descripcionGuia: "El tour comienza en el corazón de Barcelona — habitualmente Plaça de Catalunya o cabecera de La Rambla. Metro: Catalunya (L1/L3, directo) o Liceu (L3) para La Rambla. Cercanías: R1, R3, R4 en Catalunya. Desde el aeropuerto: el Aerobús termina en Plaça de Catalunya. El Barri Gòtic es peatonal — las 2,5 horas del tour son íntegras a pie. Sin acceso de vehículos. AVISO: este tour NO incluye el interior de la Catedral — la ves por fuera. Para el interior, reserva `catedral-de-barcelona-entrada` aparte."
+  texto: 'El punto de encuentro varía según la opción reservada: tour de grupo reducido por el casco antiguo y Barri Gòtic, tour privado del casco antiguo y Barri Gòtic, o variante con paseo en barco por el puerto. La ubicación específica se confirma en la reserva. La mayoría de opciones queda en Plaça de Catalunya o en la cabecera de La Rambla.'
+  descripcionGuia: 'El tour comienza en el corazón de Barcelona — habitualmente Plaça de Catalunya o cabecera de La Rambla. Metro: Catalunya (L1/L3, directo) o Liceu (L3) para La Rambla. Cercanías: R1, R3, R4 en Catalunya. Desde el aeropuerto: el Aerobús termina en Plaça de Catalunya. El Barri Gòtic es peatonal — las 2,5 horas del tour son íntegras a pie. Sin acceso de vehículos. AVISO: este tour NO incluye el interior de la Catedral — la ves por fuera. Para el interior, reserva `catedral-de-barcelona-entrada` aparte.'
   latitud: 41.3859
   longitud: 2.1733
   zoom: 16
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo (2,5 horas andando sobre adoquines medievales)"
-    - "Smartphone cargado (el voucher móvil es obligatorio)"
-    - "Cámara"
-    - "Botella de agua"
-    - "Chaqueta ligera (el Barri Gòtic tiene calles estrechas sombreadas — más fresco que las zonas abiertas)"
+  - Calzado cómodo (2,5 horas andando sobre adoquines medievales)
+  - Smartphone cargado (el voucher móvil es obligatorio)
+  - Cámara
+  - Botella de agua
+  - Chaqueta ligera (el Barri Gòtic tiene calles estrechas sombreadas — más fresco que las zonas abiertas)
   noAptoPara:
-    - "Viajeros con equipaje o bolsas grandes (NO se permiten en el tour)"
-    - "Visitantes estrictos de visita libre (esto es un grupo guiado)"
-    - "Usuarios de silla de ruedas (calles medievales empedradas sin vados)"
+  - Viajeros con equipaje o bolsas grandes (NO se permiten en el tour)
+  - Visitantes estrictos de visita libre (esto es un grupo guiado)
+  - Usuarios de silla de ruedas (calles medievales empedradas sin vados)
   aTenerEnCuenta:
-    - "Máximo 15 participantes por grupo — pequeño para interacción directa con el guía"
-    - "Niños menores de 2 entran gratis (sin reserva aparte)"
-    - "Cancelación gratuita hasta 24 h antes"
-    - "Alquiler de auricular opcional — 1 € en el sitio para entornos ruidosos (La Rambla, La Boquería)"
-    - "Puede requerirse billete de transporte público en algunas opciones (2 € al guía si lo necesitas)"
-    - "El operador In Out Barcelona Tours tiene 1.582 reseñas — consolidado, calidad consistente"
-
-accesibilidad: "NO recomendado para usuarios de silla de ruedas — el tour de 2,5 horas recorre calles medievales empedradas y carece de rutas sin escalones. Visitantes con movilidad reducida que puedan andar lento sobre suelo irregular suelen poder hacerlo; usuarios estrictos de silla tendrán dificultades. El exterior de la Catedral visitado está en Pla de la Seu, que sí es accesible, pero el resto del Barri Gòtic no."
-
-politicaCancelacion: "Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Llegadas tarde: se consideran no-shows y no son reembolsables. El tour se realiza con lluvia o sol — lleva paraguas en otoño/invierno."
-
+  - Máximo 15 participantes por grupo — pequeño para interacción directa con el guía
+  - Niños menores de 2 entran gratis (sin reserva aparte)
+  - Cancelación gratuita hasta 24 h antes
+  - Alquiler de auricular opcional — 1 € en el sitio para entornos ruidosos (La Rambla, La Boquería)
+  - Puede requerirse billete de transporte público en algunas opciones (2 € al guía si lo necesitas)
+  - El operador In Out Barcelona Tours tiene 1.582 reseñas — consolidado, calidad consistente
+accesibilidad: NO recomendado para usuarios de silla de ruedas — el tour de 2,5 horas recorre calles medievales empedradas y carece de rutas sin escalones. Visitantes con movilidad reducida que puedan andar lento sobre suelo irregular suelen poder hacerlo; usuarios estrictos de silla tendrán dificultades. El exterior de la Catedral visitado está en Pla de la Seu, que sí es accesible, pero el resto del Barri Gòtic no.
+politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Llegadas tarde: se consideran no-shows y no son reembolsables. El tour se realiza con lluvia o sol — lleva paraguas en otoño/invierno.'
 preguntasFrecuentes:
-  - pregunta: "¿Incluye el interior de la Catedral?"
-    respuesta: "NO — este es un tour a pie POR EXTERIORES. Verás el exterior de la Catedral (Pla de la Seu, la fachada gótica, las calles laterales) pero NO entras a la Catedral en sí. Si quieres el interior, reserva `catedral-de-barcelona-entrada` (21 € en GYG / 16 € directa) aparte. Muchos viajeros hacen los dos el mismo día: tour a pie por la mañana (2,5 h) + entrada Catedral por la tarde (14:00-17:00 es la franja de visita cultural)."
-  - pregunta: "¿Qué diferencia hay con el tour Ramblas + Old Town + Casas Gaudí (t448358)?"
-    respuesta: "t448358 cubre MÁS terreno en 2,5 h: Barri Gòtic + La Rambla + el «Eixample de Gaudí» en Passeig de Gràcia (pasando por la Casa Batlló y la Casa Milà desde fuera). Es ritmo más rápido y usa transporte público entre el casco antiguo y el Eixample. t61664 (este tour) se queda en el casco antiguo / Barri Gòtic exclusivamente — ritmo más pausado, foco más profundo en el barrio. Elige t61664 si quieres entender el Barri Gòtic en profundidad; elige t448358 si quieres una visión general que incluya el Eixample modernista de Gaudí. Nota: t448358 es **solo en inglés** — si necesitas español, t61664 (este tour) es la opción."
-  - pregunta: "¿Puedo reservar en español?"
-    respuesta: "SÍ — este es uno de los pocos tours a pie del Barri Gòtic en GetYourGuide que ofrece explícitamente el español como opción de guía en directo. Selecciona tu idioma al reservar. Los productos competidores de mayor volumen (t448358, t1014836) son solo en inglés."
-  - pregunta: "¿Cuál es la ruta exacta?"
-    respuesta: "Ruta habitual: Plaça de Catalunya (inicio) → cabecera de La Rambla → mercado de la Boquería (mercado de comida, parada para fotos) → Plaça Reial (plaza con palmeras, farolas de Gaudí) → entrada en el Barri Gòtic → Plaça Sant Jaume (corazón político) → Plaça del Rei (plaza real medieval) → Plaça de Sant Felip Neri (heridas de la Guerra Civil) → Carrer del Bisbe (con el famoso puente) → exterior de la Catedral en Pla de la Seu (final). La ruta puede variar ligeramente según guía y ritmo."
-
+- pregunta: ¿Incluye el interior de la Catedral?
+  respuesta: 'NO — este es un tour a pie POR EXTERIORES. Verás el exterior de la Catedral (Pla de la Seu, la fachada gótica, las calles laterales) pero NO entras a la Catedral en sí. Si quieres el interior, reserva `catedral-de-barcelona-entrada` (21 € en GYG / 16 € directa) aparte. Muchos viajeros hacen los dos el mismo día: tour a pie por la mañana (2,5 h) + entrada Catedral por la tarde (14:00-17:00 es la franja de visita cultural).'
+- pregunta: ¿Qué diferencia hay con el tour Ramblas + Old Town + Casas Gaudí (t448358)?
+  respuesta: 't448358 cubre MÁS terreno en 2,5 h: Barri Gòtic + La Rambla + el «Eixample de Gaudí» en Passeig de Gràcia (pasando por la Casa Batlló y la Casa Milà desde fuera). Es ritmo más rápido y usa transporte público entre el casco antiguo y el Eixample. t61664 (este tour) se queda en el casco antiguo / Barri Gòtic exclusivamente — ritmo más pausado, foco más profundo en el barrio. Elige t61664 si quieres entender el Barri Gòtic en profundidad; elige t448358 si quieres una visión general que incluya el Eixample modernista de Gaudí. Nota: t448358 es **solo en inglés** — si necesitas español, t61664 (este tour) es la opción.'
+- pregunta: ¿Puedo reservar en español?
+  respuesta: SÍ — este es uno de los pocos tours a pie del Barri Gòtic en GetYourGuide que ofrece explícitamente el español como opción de guía en directo. Selecciona tu idioma al reservar. Los productos competidores de mayor volumen (t448358, t1014836) son solo en inglés.
+- pregunta: ¿Cuál es la ruta exacta?
+  respuesta: 'Ruta habitual: Plaça de Catalunya (inicio) → cabecera de La Rambla → mercado de la Boquería (mercado de comida, parada para fotos) → Plaça Reial (plaza con palmeras, farolas de Gaudí) → entrada en el Barri Gòtic → Plaça Sant Jaume (corazón político) → Plaça del Rei (plaza real medieval) → Plaça de Sant Felip Neri (heridas de la Guerra Civil) → Carrer del Bisbe (con el famoso puente) → exterior de la Catedral en Pla de la Seu (final). La ruta puede variar ligeramente según guía y ritmo.'
 variantes: []
+opinionEditorial: 'El tour a pie del Barri Gòtic con MÁS VOLUMEN de reseñas en GetYourGuide — 1.582 reseñas con 4,8/5, operado por In Out Barcelona Tours. El sentimiento positivo recurrente se centra en la profundidad del guion del guía sobre la historia del Barri Gòtic (orígenes en la Barcino romana, juderría medieval, la Batalla de Cataluña, las heridas de Sant Felip Neri de la Guerra Civil), el ritmo manejable (2,5 horas, grupo reducido de 15) y la diversidad de ruta (La Rambla + La Boquería + plazas medievales + exterior Catedral en una sola visita). La queja recurrente es el nivel de ruido en La Rambla y en La Boquería — el alquiler opcional de auricular a 1 € en el sitio lo resuelve. El rating de Guía es 4,9/5 (vs. 4,8/5 global), sugiriendo que los guías son el punto fuerte.
 
-opinionEditorial: |
-  El tour a pie del Barri Gòtic con MÁS VOLUMEN de reseñas en GetYourGuide — 1.582 reseñas con 4,8/5, operado por In Out Barcelona Tours. El sentimiento positivo recurrente se centra en la profundidad del guion del guía sobre la historia del Barri Gòtic (orígenes en la Barcino romana, juderría medieval, la Batalla de Cataluña, las heridas de Sant Felip Neri de la Guerra Civil), el ritmo manejable (2,5 horas, grupo reducido de 15) y la diversidad de ruta (La Rambla + La Boquería + plazas medievales + exterior Catedral en una sola visita). La queja recurrente es el nivel de ruido en La Rambla y en La Boquería — el alquiler opcional de auricular a 1 € en el sitio lo resuelve. El rating de Guía es 4,9/5 (vs. 4,8/5 global), sugiriendo que los guías son el punto fuerte.
 
   **Comparación de precios:** no existe "precio oficial" para un tour a pie del Barri Gòtic (es zona urbana pública). A 20 € desde GetYourGuide, este producto es de los tours top-rated más asequibles de la zona. El competidor t448358 (Ramblas + Old Town + Casas Gaudí) cuesta ~38 €, pero cubre más terreno (el Eixample de Gaudí) y es solo en inglés. El tour solo-andando t1014836 (15+ Gems, operador Side Routes) ronda los 20 € con rating superior 4,9/5 pero muestra menor (117 reseñas) y solo en inglés.
 
+
   Dos notas operativas: **(1)** el interior de la Catedral NO está incluido — lo ves por fuera. Si quieres el interior, reserva `catedral-de-barcelona-entrada` aparte. **(2)** el tour se realiza con lluvia o sol — lleva paraguas en otoño/invierno.
+
 
   Para quién es: visitantes hispanohablantes (este es uno de los pocos productos top-volumen con guía en español), viajeros que quieran entender el Barri Gòtic en profundidad (orígenes romanos, periodo medieval, heridas de Guerra Civil), visitantes con presupuesto ajustado (20 € por 2,5 horas es excelente relación) y cualquiera que prefiera un operador consolidado con aval social (1.582 reseñas). Para quién NO: usuarios de silla de ruedas (adoquines), viajeros que quieran el interior de la Catedral (reservar aparte) y quienes quieran el Eixample/casas de Gaudí en el mismo tour (reserva t448358 en su lugar)."
 
+  '
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
-categoria: visitasGuiadas
-keywords: ["tour barri gotic barcelona", "tour barrio gotico castellano", "casco antiguo barcelona andando", "la rambla tour guiado", "barcelona barri gotic español"]
-
-imagen: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-imagenAlt: "Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona"
-
+categoria: toursCiudad
+keywords:
+- tour barri gotic barcelona
+- tour barrio gotico castellano
+- casco antiguo barcelona andando
+- la rambla tour guiado
+- barcelona barri gotic español
+imagen: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+imagenAlt: Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: "Callejón del Barrio Gótico de Barcelona"
+  alt: Callejón del Barrio Gótico de Barcelona
 - src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: "Puente neogótico de la calle del Bisbe"
+  alt: Puente neogótico de la calle del Bisbe
 - src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
-  alt: "Arco gótico y farola en el Barrio Gótico"
+  alt: Arco gótico y farola en el Barrio Gótico
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
-  alt: "Calle estrecha del Barrio Gótico con balcones"
+  alt: Calle estrecha del Barrio Gótico con balcones
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero.webp
-  alt: "Pasaje en penumbra del Barrio Gótico"
+  alt: Pasaje en penumbra del Barrio Gótico
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero.webp
-  alt: "Bicicleta junto a un muro de piedra del Barrio Gótico"
+  alt: Bicicleta junto a un muro de piedra del Barrio Gótico
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: "Calle con balcones en el casco antiguo de Barcelona"
+  alt: Calle con balcones en el casco antiguo de Barcelona
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero.webp
-  alt: "Arquivoltas de la portada de la Catedral de Barcelona"
+  alt: Arquivoltas de la portada de la Catedral de Barcelona
 - src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
-  alt: "Calle Montcada en el barrio del Born"
+  alt: Calle Montcada en el barrio del Born
 ratingProveedor: 4.8
 numeroOpiniones: 1582
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 ---
 
 ## Qué vas a ver

@@ -32,12 +32,15 @@ const SITE_URL =
 const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
   visitasGuiadas: "Visitas guiadas",
   entradas: "Entradas",
+  toursCiudad: "Tours por la ciudad",
   excursionesDia: "Excursiones de un día",
-  espectaculos: "Espectáculos",
-  toursGastronomicos: "Gastronomía",
-  serviciosAdicionales: "Bienestar y relax",
-  transporte: "Transporte",
-  experienciasPrivadas: "Experiencias privadas",
+  toursGastronomicos: "Gastronomía y vino",
+  espectaculos: "Flamenco y espectáculos",
+  agua: "Barcos y actividades acuáticas",
+  aventura: "Naturaleza y aventura",
+  parques: "Parques temáticos y familias",
+  nocturno: "Vida nocturna",
+  talleres: "Talleres y experiencias",
 };
 
 /**

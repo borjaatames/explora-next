@@ -345,6 +345,7 @@ export default async function ActividadPage({ params }: Props) {
             idioma="es"
             titulo={actividad.titulo}
             categoria={actividad.categoria}
+            privada={actividad.privada === true}
             duracion={actividad.duracion}
             idiomas={actividad.idiomas}
             highlights={actividad.highlights}
@@ -361,7 +362,7 @@ export default async function ActividadPage({ params }: Props) {
               idioma="es"
               precioDesde={actividad.precioDesde}
               moneda={actividad.moneda}
-              porGrupo={actividad.categoria === "experienciasPrivadas"}
+              porGrupo={actividad.precioPorGrupo === true}
               minimoPersonas={actividad.minimoPersonas}
             />
           )}
@@ -621,7 +622,7 @@ export default async function ActividadPage({ params }: Props) {
                   productId={actividad.bokunProductId ?? 0}
                   precioDesde={actividad.precioDesde}
                   moneda={actividad.moneda}
-                  porGrupo={actividad.categoria === "experienciasPrivadas"}
+                  porGrupo={actividad.precioPorGrupo === true}
                   ratingProveedor={actividad.ratingProveedor}
                   numeroOpiniones={actividad.numeroOpiniones}
                   minimoPersonas={actividad.minimoPersonas}
@@ -680,7 +681,7 @@ export default async function ActividadPage({ params }: Props) {
           idioma="es"
           precioDesde={actividad.precioDesde}
           moneda={actividad.moneda}
-          porGrupo={actividad.categoria === "experienciasPrivadas"}
+          porGrupo={actividad.precioPorGrupo === true}
           minimoPersonas={actividad.minimoPersonas}
         />
       )}

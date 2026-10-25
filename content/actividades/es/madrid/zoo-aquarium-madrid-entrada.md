@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada al Zoo Aquarium de Madrid'
 slug: zoo-aquarium-madrid-entrada
 ciudad: madrid
-descripcion: 'Entrada al Zoo Aquarium de Madrid con más de 2.000 animales, espectáculos de delfines, la zona marina y los pandas gigantes. 4,6/5 con 2.153 reseñas.'
+descripcion: Entrada al Zoo Aquarium de Madrid con más de 2.000 animales, espectáculos de delfines, la zona marina y los pandas gigantes. 4,6/5 con 2.153 reseñas.
 slugs:
   es: zoo-aquarium-madrid-entrada
   en: zoo-aquarium-madrid-ticket
@@ -49,7 +49,7 @@ informacionImportante:
   - Agua y protector solar
   noAptoPara: []
   aTenerEnCuenta:
-  - "Menores de 3 años: entrada gratuita"
+  - 'Menores de 3 años: entrada gratuita'
   - 'Horarios de espectáculos cambian según temporada: consulta al llegar'
   - El zoo ocupa 20 hectáreas; necesitas todo el día para verlo bien
   - En verano abre "Zoo Summer Night" con precios diferentes
@@ -67,29 +67,29 @@ preguntasFrecuentes:
 opinionEditorial: 'El Zoo Aquarium de Madrid combina zoo clásico, acuario marino y espectáculos en un solo recinto dentro de la Casa de Campo. Los pandas gigantes y el Delfinario son los grandes reclamos, pero la colección de primates y la zona de rapaces también merece la visita. Compra con antelación: el ahorro es mínimo, pero te evitas colas en temporada alta.'
 guiasRelacionadas:
 - madrid-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - zoo aquarium madrid
 - zoo madrid entrada
 - zoo madrid precio
 - zoo madrid pandas
 imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-imagenAlt: "Espectáculo de delfines en el Zoo Aquarium de Madrid"
+imagenAlt: Espectáculo de delfines en el Zoo Aquarium de Madrid
 galeria:
-- src: "/images/actividades/madrid/zoo-aquarium/zoo-iguana.webp"
-  alt: "Iguana rinoceronte en el Zoo Aquarium de Madrid"
-- src: "/images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp"
-  alt: "Tortugas leopardo en su recinto del zoo"
+- src: /images/actividades/madrid/zoo-aquarium/zoo-iguana.webp
+  alt: Iguana rinoceronte en el Zoo Aquarium de Madrid
+- src: /images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp
+  alt: Tortugas leopardo en su recinto del zoo
 - src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-  alt: "Osos panda en el Zoo Aquarium de Madrid"
+  alt: Osos panda en el Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
-  alt: "Flamencos y pelícano en el Zoo Aquarium de Madrid"
+  alt: Flamencos y pelícano en el Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
-  alt: "Dromedario en el Zoo Aquarium de Madrid"
+  alt: Dromedario en el Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-hipopotamo.webp
-  alt: "Hipopótamo en el Zoo Aquarium de Madrid"
+  alt: Hipopótamo en el Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
-  alt: "Lago y zona de aves del Zoo Aquarium de Madrid"
+  alt: Lago y zona de aves del Zoo Aquarium de Madrid
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas:

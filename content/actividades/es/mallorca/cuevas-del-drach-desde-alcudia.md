@@ -81,23 +81,23 @@ imagen: /images/actividades/mallorca/cuevas-drach/lago-martel-barca.webp
 imagenAlt: Barca sobre el lago Martel dentro de las Cuevas del Drach
 galeria:
 - src: /images/actividades/mallorca/cuevas-drach/lago-martel-azul.webp
-  alt: "Lago Martel con agua azul iluminada dentro de las Cuevas del Drach"
+  alt: Lago Martel con agua azul iluminada dentro de las Cuevas del Drach
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-galeria.webp
-  alt: "Galería de las Cuevas del Drach con estalactitas iluminadas"
+  alt: Galería de las Cuevas del Drach con estalactitas iluminadas
 - src: /images/actividades/mallorca/cuevas-drach/lago-martel-reflejos.webp
-  alt: "Reflejos de las estalactitas sobre el lago Martel"
+  alt: Reflejos de las estalactitas sobre el lago Martel
 - src: /images/actividades/mallorca/cuevas-drach/cuevas-drach-sala.webp
-  alt: "Sala de las Cuevas del Drach con agua turquesa"
+  alt: Sala de las Cuevas del Drach con agua turquesa
 - src: /images/actividades/mallorca/drach/drach-pixabay-1998341.webp
-  alt: "Estalactitas de las Cuevas del Drach"
+  alt: Estalactitas de las Cuevas del Drach
 - src: /images/actividades/mallorca/drach/drach-wikimedia-interior-de-las-cuevas-del-drach-jpg-01.webp
-  alt: "Interior de las Cuevas del Drach"
+  alt: Interior de las Cuevas del Drach
 - src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-08-jpg-02.webp
-  alt: "Formaciones de las Cuevas del Drach"
+  alt: Formaciones de las Cuevas del Drach
 - src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-21-jpg-03.webp
-  alt: "Lago subterráneo en las Cuevas del Drach"
+  alt: Lago subterráneo en las Cuevas del Drach
 - src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-01-jpg-05.webp
-  alt: "Galería de estalactitas en las Cuevas del Drach"
+  alt: Galería de estalactitas en las Cuevas del Drach
 ratingProveedor: 4.4
 numeroOpiniones: 616
 publicada: true

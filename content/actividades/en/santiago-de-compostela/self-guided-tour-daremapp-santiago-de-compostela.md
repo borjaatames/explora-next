@@ -1,8 +1,8 @@
 ---
-titulo: "Santiago de Compostela Self-Guided Audio Tour – DareMapp App"
+titulo: Santiago de Compostela Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-santiago-de-compostela
 ciudad: santiago-de-compostela
-descripcion: "Explore Santiago de Compostela at your own pace with the DareMapp self-guided audio tour: Obradoiro and the Cathedral. No guide, available 24/7 all year."
+descripcion: 'Explore Santiago de Compostela at your own pace with the DareMapp self-guided audio tour: Obradoiro and the Cathedral. No guide, available 24/7 all year.'
 slugs:
   es: tour-autoguiado-daremapp-santiago-de-compostela
   en: self-guided-tour-daremapp-santiago-de-compostela
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1148439
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Santiago de Compostela at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover Plaza del Obradoiro, Alameda Park, the Mercado de Abastos and Santiago Cathedral, plus more than 12 points of interest in total
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Santiago de Compostela"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Santiago de Compostela'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,32 +50,32 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Santiago de Compostela on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
-categoria: visitasGuiadas
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Santiago de Compostela on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
+categoria: toursCiudad
 keywords:
 - self-guided tour santiago de compostela
 - santiago de compostela audio tour
 - santiago de compostela self-guided app tour
-imagen: "/images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp"
-imagenAlt: "The cathedral from Praza da Quintana"
+imagen: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
+imagenAlt: The cathedral from Praza da Quintana
 galeria:
-- src: "/images/actividades/santiago-de-compostela/catedral/portico-gloria.webp"
-  alt: "Pórtico de la Gloria de la Catedral de Santiago de Compostela"
+- src: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
+  alt: Pórtico de la Gloria de la Catedral de Santiago de Compostela
 - src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: "Praza do Obradoiro"
+  alt: Praza do Obradoiro
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Praza das Praterías"
+  alt: Praza das Praterías
 - src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
-  alt: "Gallery and arches of the nave"
+  alt: Gallery and arches of the nave
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
-  alt: "Santiago Cathedral above the old town"
+  alt: Santiago Cathedral above the old town
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-torres.webp
-  alt: "The towers of Santiago Cathedral"
+  alt: The towers of Santiago Cathedral
 - src: https://imgcdn.bokun.tools/bc698c3e-806f-4168-8495-1fa353aef3d1.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 atraccionesRelacionadas:
-  - centro-historico
+- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

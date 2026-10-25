@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: La fiesta en barco más popular de Ibiza, con más de 1.500 opiniones. Para empezar la noche con música, atardecer y baño.
 guiasRelacionadas:
 - que-ver-en-ibiza
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - fiesta en barco ibiza
 - boat party ibiza

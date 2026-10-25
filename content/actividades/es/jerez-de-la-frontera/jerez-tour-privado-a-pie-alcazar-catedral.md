@@ -62,8 +62,7 @@ opinionEditorial: 'Jerez se conoce por el vino, pero su casco antiguo esconde mu
 
 
   En pareja sale por unos 135 € por persona; en grupo de 4, unos 79 €. Aún no tiene opiniones publicadas en este tour.'
-atraccionesRelacionadas: []
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour privado jerez
 - visita guiada jerez de la frontera
@@ -94,6 +93,7 @@ galeria:
   alt: La Catedral de Jerez entre jacarandas
 bokunProductId: 83898
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

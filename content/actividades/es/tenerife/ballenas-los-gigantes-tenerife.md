@@ -2,11 +2,11 @@
 titulo: 'Tenerife: avistamiento de ballenas desde Los Gigantes'
 slug: ballenas-los-gigantes-tenerife
 ciudad: tenerife
-descripcion: 'Excursión en barco desde el puerto de Los Gigantes para ver ballenas y delfines junto a los acantilados más altos de Europa. 4,7/5 con 5.888 reseñas.'
+descripcion: Excursión en barco desde el puerto de Los Gigantes para ver ballenas y delfines junto a los acantilados más altos de Europa. 4,7/5 con 5.888 reseñas.
 slugs:
   es: ballenas-los-gigantes-tenerife
   en: whale-watching-los-gigantes-tenerife
-duracion: '2-3 horas'
+duracion: 2-3 horas
 duracionMinutos: 150
 precioDesde: 28
 moneda: EUR
@@ -29,7 +29,7 @@ noIncluye:
 - Bebidas y snacks
 - Transporte hasta el puerto de Los Gigantes
 puntoEncuentro:
-  texto: 'Puerto de Los Gigantes, Santiago del Teide, Tenerife Oeste'
+  texto: Puerto de Los Gigantes, Santiago del Teide, Tenerife Oeste
   descripcionGuia: Los Gigantes está en el suroeste de la isla. Toma la autopista TF-1 hasta Santiago del Teide o el bus 473 desde Adeje. El barco sale del muelle de Los Gigantes; llega 15 minutos antes.
   latitud: 28.2434
   longitud: -16.8401
@@ -60,11 +60,11 @@ preguntasFrecuentes:
   respuesta: Sí. Los delfines moteados del Atlántico y el delfín común se avistan con frecuencia, especialmente en verano. Algunos tours también ven tortugas marinas.
 - pregunta: ¿La excursión es apta para niños pequeños?
   respuesta: Sí, pero ten en cuenta que estaréis en un barco durante 2-3 horas. Los niños que tienden a marearse deben tomar precauciones.
-opinionEditorial: 'La combinación de los acantilados de Los Gigantes —los más altos de Europa— con el avistamiento de calderones tropicales en su hábitat natural hace de esta excursión una de las más memorables de toda España. No es un espectáculo sino un encuentro con animales salvajes en libertad.'
+opinionEditorial: La combinación de los acantilados de Los Gigantes —los más altos de Europa— con el avistamiento de calderones tropicales en su hábitat natural hace de esta excursión una de las más memorables de toda España. No es un espectáculo sino un encuentro con animales salvajes en libertad.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - avistamiento ballenas tenerife
 - excursion ballenas los gigantes
@@ -73,12 +73,12 @@ keywords:
 imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Acantilados de Los Gigantes desde el mar en Tenerife
 galeria:
-- src: "/images/actividades/tenerife/gigantes/costa-acantilado-velero.webp"
-  alt: "Costa y acantilado vistos desde un barco de avistamiento"
-- src: "/images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp"
-  alt: "Delfin nadando en la superficie del mar"
-- src: "/images/actividades/tenerife/gigantes/gigantes-pueblo.webp"
-  alt: "Pueblo de Los Gigantes en Tenerife"
+- src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
+  alt: Costa y acantilado vistos desde un barco de avistamiento
+- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+  alt: Delfin nadando en la superficie del mar
+- src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
+  alt: Pueblo de Los Gigantes en Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Calderón tropical emergiendo en Tenerife
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
@@ -90,6 +90,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:
+- masca-gigantes
 - mar
 - masca
 publicada: true

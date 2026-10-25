@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: Salamanca at night, with its golden stone lit up, is a different city, and these legends (the Cave, Calixto and Melibea, the devil) make it great fun. The perfect complement to the daytime tour.
 guiasRelacionadas:
 - salamanca-weekend-trip
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - salamanca legends
 - salamanca night tour

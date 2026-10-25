@@ -83,6 +83,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 811
 atraccionesRelacionadas:
+- museo-picasso
 - picasso
 publicada: true
 destacada: false

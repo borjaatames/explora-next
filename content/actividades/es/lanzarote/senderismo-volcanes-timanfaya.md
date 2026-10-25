@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: senderismo guiado por los volcanes de Timanfaya'
 slug: senderismo-volcanes-timanfaya
 ciudad: lanzarote
-descripcion: 'Ruta circular guiada de unos 8 km y 3 horas sobre coladas de lava junto a Timanfaya, con parada para probar productos canarios y vino blanco. Grupos de máximo 9 personas. 4,8/5 con casi 1.000 reseñas.'
+descripcion: Ruta circular guiada de unos 8 km y 3 horas sobre coladas de lava junto a Timanfaya, con parada para probar productos canarios y vino blanco. Grupos de máximo 9 personas. 4,8/5 con casi 1.000 reseñas.
 slugs:
   es: senderismo-volcanes-timanfaya
   en: timanfaya-volcano-hike
@@ -34,8 +34,8 @@ incluye:
 noIncluye:
 - Recogida en Playa Blanca (se puede recoger en Yaiza)
 puntoEncuentro:
-  texto: 'Aparcamiento a la izquierda de la carretera del Parque Natural de los Volcanes, antes de llegar a Tinajo.'
-  descripcionGuia: 'El aparcamiento queda entre dos montañas y se reconoce por una palmera; el operador facilita la ubicación en Google Maps. Si no tienes coche, pide el traslado al reservar (puede tener coste adicional).'
+  texto: Aparcamiento a la izquierda de la carretera del Parque Natural de los Volcanes, antes de llegar a Tinajo.
+  descripcionGuia: El aparcamiento queda entre dos montañas y se reconoce por una palmera; el operador facilita la ubicación en Google Maps. Si no tienes coche, pide el traslado al reservar (puede tener coste adicional).
   latitud: 29.04
   longitud: -13.69
   zoom: 12
@@ -61,18 +61,18 @@ accesibilidad: No apto para personas con movilidad reducida; se camina sobre ter
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Se camina por dentro del Parque Nacional de Timanfaya?
-  respuesta: 'El anuncio habla del parque de Timanfaya, pero el punto de encuentro está en el Parque Natural de los Volcanes, que lo rodea, y opiniones de clientes indican que la ruta va por los límites del Parque Nacional, donde no se puede caminar libremente.'
+  respuesta: El anuncio habla del parque de Timanfaya, pero el punto de encuentro está en el Parque Natural de los Volcanes, que lo rodea, y opiniones de clientes indican que la ruta va por los límites del Parque Nacional, donde no se puede caminar libremente.
 - pregunta: ¿Es difícil?
-  respuesta: 'Son unos 8 km en circuito y unas 3 horas. Los participantes la describen como fácil o moderada, con alguna subida; no es apta para personas con problemas de movilidad.'
+  respuesta: Son unos 8 km en circuito y unas 3 horas. Los participantes la describen como fácil o moderada, con alguna subida; no es apta para personas con problemas de movilidad.
 - pregunta: ¿A qué hora empieza?
   respuesta: 'Se adapta a la puesta de sol: hacia las 17:00 en junio y las 14:30 en diciembre. La hora exacta aparece al elegir fecha.'
 - pregunta: ¿Hay recogida?
-  respuesta: 'Se puede pedir el traslado desde el hotel, con posible coste adicional. No llega a Playa Blanca, aunque sí recogen en Yaiza.'
+  respuesta: Se puede pedir el traslado desde el hotel, con posible coste adicional. No llega a Playa Blanca, aunque sí recogen en Yaiza.
 opinionEditorial: 'Es la actividad mejor valorada de esta selección (4,8 con casi mil reseñas) y la única de esta selección que recorre a pie los campos de lava, algo que dentro de las Montañas del Fuego no se puede hacer. Grupo pequeño, buen guía y un vino al final. Que nadie se confunda: no recorre la Ruta de los Volcanes ni el Islote de Hilario; complementa la visita oficial, no la sustituye.'
 guiasRelacionadas:
 - timanfaya-como-visitarlo
 - que-ver-en-lanzarote
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - senderismo timanfaya
 - ruta volcanes lanzarote
@@ -82,21 +82,22 @@ keywords:
 imagen: /images/actividades/lanzarote/senderismo-volcanes.webp
 imagenAlt: Senderistas caminando entre conos volcánicos en Lanzarote
 galeria:
-- src: "/images/actividades/lanzarote/zonas/sendero-volcan.webp"
-  alt: "Sendero por la cresta de un volcán en Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/volcan-vegetacion.webp"
-  alt: "Volcán y vegetación sobre el malpaís de Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/caldera-interior.webp"
-  alt: "Interior de una caldera volcánica en Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/volcan-malpais.webp"
-  alt: "Volcán sobre el malpaís de Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/ladera-volcanica.webp"
-  alt: "Ladera volcánica con líquenes en Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/carretera-volcanes.webp"
-  alt: "Carretera recta entre lava y volcanes en Lanzarote"
+- src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
+  alt: Sendero por la cresta de un volcán en Lanzarote
+- src: /images/actividades/lanzarote/zonas/volcan-vegetacion.webp
+  alt: Volcán y vegetación sobre el malpaís de Lanzarote
+- src: /images/actividades/lanzarote/zonas/caldera-interior.webp
+  alt: Interior de una caldera volcánica en Timanfaya
+- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
+  alt: Volcán sobre el malpaís de Timanfaya
+- src: /images/actividades/lanzarote/zonas/ladera-volcanica.webp
+  alt: Ladera volcánica con líquenes en Timanfaya
+- src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
+  alt: Carretera recta entre lava y volcanes en Lanzarote
 ratingProveedor: 4.8
 numeroOpiniones: 990
 atraccionesRelacionadas:
+- timanfaya
 - volcanes
 publicada: true
 destacada: false

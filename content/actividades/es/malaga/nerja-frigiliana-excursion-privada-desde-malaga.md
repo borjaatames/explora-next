@@ -67,8 +67,9 @@ opinionEditorial: 'Nerja y Frigiliana forman la excursión más fácil y agradec
 
   El precio, 700 € para 1 o 2 personas, es alto para lo que es; con 4 (880 € en total) sale bastante mejor. Si tienes coche, puedes hacerla por tu cuenta sin problema.'
 atraccionesRelacionadas:
+- nerja-frigiliana
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - nerja y frigiliana desde malaga
 - excursion privada nerja
@@ -97,6 +98,8 @@ galeria:
   alt: Buganvillas sobre los tejados de Frigiliana
 bokunProductId: 1175039
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

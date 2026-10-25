@@ -63,8 +63,7 @@ opinionEditorial: 'A carriage ride is one of Seville''s classic experiences, and
 
 
   The price is per carriage, €298 for up to 4 people, so it works far better for families or friends than for couples. If there are two of you and you just want the ride without commentary, the carriages by the Cathedral are cheaper.'
-atraccionesRelacionadas: []
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - horse carriage ride seville
 - seville horse carriage with guide
@@ -90,6 +89,8 @@ galeria:
   alt: Horse carriage on a tree-lined avenue
 bokunProductId: 933447
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the ride is like

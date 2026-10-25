@@ -65,7 +65,6 @@ opinionEditorial: 'Es el tour de tapas «como un local»: cinco bares y tabernas
 
 
   Al ser privado, compensa más en grupo: en pareja sale desde unos 129 € por persona; en grupo de 4, unos 102 €.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - tour tapas barcelona privado
@@ -95,6 +94,7 @@ galeria:
   alt: Barra de pintxos en una taberna de Barcelona
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la ruta

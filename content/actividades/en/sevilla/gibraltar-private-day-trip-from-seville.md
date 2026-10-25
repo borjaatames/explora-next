@@ -73,7 +73,7 @@ opinionEditorial: 'Gibraltar is about two hours from Seville, and it makes sense
   The price is per group, €860 for 1 or 2 people, so it''s expensive for a couple; with 4 people, €1,040 in total, it''s €260 a head. Check your entry documents carefully, as they''re your responsibility.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - gibraltar from seville
 - private gibraltar day trip from seville
@@ -101,6 +101,8 @@ galeria:
   alt: Visitor with open arms facing the sea
 bokunProductId: 858871
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

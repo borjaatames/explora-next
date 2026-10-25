@@ -57,7 +57,7 @@ opinionEditorial: 'The flamenco dress is Andalusia''s most recognisable symbol, 
   For two it''s €214 each, and €116 each for four. It''s best for anyone into fashion or coming to Seville with the April Fair in mind. If you''re after live flamenco, a tablao is a better bet.'
 atraccionesRelacionadas:
 - flamenco
-categoria: visitasGuiadas
+categoria: talleres
 keywords:
 - flamenco dress atelier seville
 - haute couture flamenco dress
@@ -83,6 +83,7 @@ galeria:
   alt: Polka-dot flamenco dress
 bokunProductId: 949558
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What the visit is like

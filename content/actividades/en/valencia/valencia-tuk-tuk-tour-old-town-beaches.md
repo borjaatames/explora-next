@@ -69,7 +69,7 @@ opinionEditorial: 'Valencia is big and flat, and by tuk tuk you see in two hours
 guiasRelacionadas:
 - valencia-in-2-days
 - valencia-with-kids
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tuk tuk valencia
 - valencia tuk tuk tour
@@ -102,6 +102,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 388
 atraccionesRelacionadas:
 - centro-historico
+- ciudad-artes
 publicada: true
 destacada: false
 fecha: '2026-10-07'

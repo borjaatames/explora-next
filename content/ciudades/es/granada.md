@@ -56,13 +56,10 @@ atracciones:
     imagen: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
     imagenAlt: "Picos nevados de Sierra Nevada vistos desde lo alto"
 chipsFiltros:
-  - { label: "Hammam", tag: "hammam" }
-  - { label: "La Alhambra", tag: "alhambra" }
-  - { label: "Flamenco", tag: "flamenco" }
+  - { label: "Alhambra", tag: "alhambra" }
   - { label: "Albaicín y Sacromonte", tag: "albaicin-sacromonte" }
   - { label: "Catedral y Capilla Real", tag: "catedral" }
-  - { label: "Excursiones", tag: "excursiones" }
-  - { label: "Otros planes", tag: "otros-granada" }
+  - { label: "Alpujarra", tag: "alpujarra" }
 ---
 
 Granada es una de las cinco ciudades imprescindibles de España y la **última capital musulmana de Europa**, conquistada por los Reyes Católicos en 1492. Es capital de provincia en Andalucía, con unos **232.000 habitantes** en el municipio y más de 530.000 en su área metropolitana.

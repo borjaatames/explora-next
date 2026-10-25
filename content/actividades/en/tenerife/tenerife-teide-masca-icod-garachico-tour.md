@@ -84,8 +84,8 @@ keywords:
 imagen: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
 imagenAlt: Roques de García and the Las Cañadas road
 galeria:
-- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
-  alt: "Volcanic landscape of Teide National Park"
+- src: /images/actividades/tenerife/teide/teide-nordeste.webp
+  alt: Volcanic landscape of Teide National Park
 - src: /images/actividades/tenerife/icod/drago-milenario.webp
   alt: The Drago Milenario in Icod de los Vinos
 - src: /images/actividades/tenerife/garachico/caleton-garachico.webp
@@ -102,6 +102,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 3066
 atraccionesRelacionadas:
 - teide
+- masca-gigantes
 publicada: true
 destacada: false
 fecha: '2026-10-07'

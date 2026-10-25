@@ -60,7 +60,7 @@ preguntasFrecuentes:
 opinionEditorial: 'La otra cara de Tenerife: verde, húmeda y sin turistas. Por 24 € y con un guía que explica el bosque, es de las excursiones con mejor relación calidad-precio de la isla.'
 guiasRelacionadas:
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - anaga senderismo guiado
 - bosque de los enigmas

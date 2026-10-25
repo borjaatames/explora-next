@@ -53,7 +53,7 @@ politicaCancelacion: According to the supplier, the booking is non-refundable, s
 opinionEditorial: Seeing the Christmas lights by tuk-tuk avoids the crowds on foot around Sol and Gran Vía and covers several areas in one evening. It only runs in the Christmas season and the booking is non-refundable; wrap up warm, as the tuk-tuk is open-sided.
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - madrid christmas lights
 - christmas tuk tuk madrid
@@ -85,6 +85,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

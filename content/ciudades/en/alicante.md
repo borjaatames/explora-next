@@ -51,11 +51,7 @@ atracciones:
     descripcion: "Inland, the village of Guadalest perched on the rock; along the coast, Benidorm, Altea, Calpe and Jávea, the full sweep of the Costa Blanca."
     imagen: "/images/actividades/alicante/excursiones/guadalest.webp"
     imagenAlt: "The village of Guadalest on its rock"
-chipsFiltros:
-  - { label: "Old Town and castle", tag: "centro-historico" }
-  - { label: "Sea and Tabarca", tag: "mar" }
-  - { label: "Food and flamenco", tag: "gastronomia" }
-  - { label: "Day trips", tag: "excursiones" }
+chipsFiltros: []
 ---
 
 Alicante is the capital of the Costa Blanca and the second city of the Valencian Community —around 340,000 people—, facing the Mediterranean with one of the best climates in Europe: more than 300 days of sun a year.

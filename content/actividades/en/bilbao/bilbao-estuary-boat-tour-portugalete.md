@@ -72,7 +72,7 @@ guiasRelacionadas:
 - bilbao-in-one-day
 atraccionesRelacionadas:
 - ria-miradores
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - bilbao boat tour
 - bilbao estuary cruise
@@ -81,10 +81,10 @@ keywords:
 imagen: /images/actividades/bilbao/ria/barco-ria.webp
 imagenAlt: Sightseeing boat on Bilbao's estuary
 galeria:
-- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
-  alt: "Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim"
-- src: "/images/actividades/bilbao/ria/trainera-remeros-ria.webp"
-  alt: "Remeros en una trainera sobre la ria de Bilbao"
+- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
+  alt: Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim
+- src: /images/actividades/bilbao/ria/trainera-remeros-ria.webp
+  alt: Remeros en una trainera sobre la ria de Bilbao
 - src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
   alt: Guggenheim Museum by Bilbao's estuary
 - src: /images/actividades/bilbao/ria/zubizuri.webp

@@ -63,7 +63,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Small, cheap and very well explained: you leave understanding why Canary bananas are different. Pair it the same morning with Arucas old town and its neo-Gothic church, a few minutes away.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
-categoria: visitasGuiadas
+categoria: toursGastronomicos
 keywords:
 - gran canaria banana plantation
 - mundo del platano arucas
@@ -72,8 +72,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
 imagenAlt: Banana plantations in the Arucas landscape
 galeria:
-- src: "/images/actividades/gran-canaria/platano/arucas-iglesia-exterior.webp"
-  alt: "Church of Arucas, Gran Canaria"
+- src: /images/actividades/gran-canaria/platano/arucas-iglesia-exterior.webp
+  alt: Church of Arucas, Gran Canaria
 - src: /images/actividades/gran-canaria/platano/plataneras.webp
   alt: Bunches in a Canarian banana plantation
 - src: /images/actividades/gran-canaria/platano/platanos-racimo.webp

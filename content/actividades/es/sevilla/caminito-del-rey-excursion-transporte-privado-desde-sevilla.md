@@ -72,7 +72,7 @@ opinionEditorial: 'El Caminito del Rey está mucho más cerca de Málaga que de 
   El precio es por grupo, 620 € para 1 o 2 personas: para una pareja es caro. Con 4 personas, 880 € en total, sale a 220 € por cabeza. Ten en cuenta que el guía de la ruta es en grupo; lo privado es el coche.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - caminito del rey desde sevilla
 - excursion caminito del rey desde sevilla
@@ -100,6 +100,8 @@ galeria:
   alt: Puente colgante del Caminito del Rey
 bokunProductId: 860688
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

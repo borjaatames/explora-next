@@ -66,9 +66,10 @@ opinionEditorial: 'The most complete tour for a first day in Córdoba: the Mosqu
 
   Book a morning slot if you want the Synagogue (and avoid Mondays). The price is per group: about €260 for two and about €396 for four.'
 atraccionesRelacionadas:
-- mezquita-catedral
+- mezquita
 - juderia
-categoria: experienciasPrivadas
+- mezquita-catedral
+categoria: visitasGuiadas
 keywords:
 - private tour mosque and jewish quarter cordoba
 - private guided tour cordoba
@@ -99,6 +100,8 @@ galeria:
   alt: Travellers in a patio with blue flowerpots
 bokunProductId: 793769
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

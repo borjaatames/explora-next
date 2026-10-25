@@ -92,6 +92,7 @@ galeria:
   alt: Travellers by the reddish water of the Río Tinto
 bokunProductId: 933463
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

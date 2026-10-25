@@ -1,8 +1,8 @@
 ---
-titulo: "Sesión de fotos Montserrat Signature (desde Barcelona)"
+titulo: Sesión de fotos Montserrat Signature (desde Barcelona)
 slug: montserrat-sesion-fotos-signature
 ciudad: barcelona
-descripcion: "Excursión fotográfica privada de 1 hora en Montserrat, a 1 hora de Barcelona. Recibe 30 fotos digitales editadas de un paisaje de montaña único."
+descripcion: Excursión fotográfica privada de 1 hora en Montserrat, a 1 hora de Barcelona. Recibe 30 fotos digitales editadas de un paisaje de montaña único.
 slugs:
   es: montserrat-sesion-fotos-signature
   en: montserrat-signature-photoshoot
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1152590
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -44,38 +44,40 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
-opinionEditorial: "Es la ficha que más se sale del centro de Barcelona: aquí lo que compras es el paisaje de Montserrat, no la ciudad. Ten en cuenta que el transporte hasta la montaña corre por tu cuenta y que la entrada al monasterio se paga aparte; si ya tienes pensada la excursión a Montserrat, añadir esta sesión de fotos le da un recuerdo distinto al resto del viaje."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+opinionEditorial: 'Es la ficha que más se sale del centro de Barcelona: aquí lo que compras es el paisaje de Montserrat, no la ciudad. Ten en cuenta que el transporte hasta la montaña corre por tu cuenta y que la entrada al monasterio se paga aparte; si ya tienes pensada la excursión a Montserrat, añadir esta sesión de fotos le da un recuerdo distinto al resto del viaje.'
 atraccionesRelacionadas:
 - montserrat
-categoria: experienciasPrivadas
+categoria: talleres
 keywords:
 - sesion fotos montserrat
 - fotografo montserrat
 - excursion fotografica montserrat
-imagen: "https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg"
+imagen: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
 imagenAlt: Sesión de fotos privada Montserrat Signature, excursión desde Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
-  alt: "Pareja abrazada en el atrio de Montserrat"
+  alt: Pareja abrazada en el atrio de Montserrat
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg
-  alt: "Pareja de novios fotografiada en Montserrat"
+  alt: Pareja de novios fotografiada en Montserrat
 - src: https://imgcdn.bokun.tools/3aff3e60-d3a2-499b-aff2-cd9288b975e4.jpg
-  alt: "Sesión de fotos bajo los arcos de Montserrat"
+  alt: Sesión de fotos bajo los arcos de Montserrat
 - src: https://imgcdn.bokun.tools/124e91c5-b87d-42e6-a90d-e12a3f7235c9.jpg
-  alt: "Pareja en un mirador de Montserrat"
+  alt: Pareja en un mirador de Montserrat
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-02.webp
-  alt: "Fachada de la basílica de Montserrat desde el atrio"
+  alt: Fachada de la basílica de Montserrat desde el atrio
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-06.webp
-  alt: "La basílica de Montserrat vista desde los arcos del atrio"
+  alt: La basílica de Montserrat vista desde los arcos del atrio
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-09.webp
-  alt: "Agujas de roca de Montserrat sobre el valle"
+  alt: Agujas de roca de Montserrat sobre el valle
 publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'
 guiasRelacionadas:
-  - "montserrat-que-excursion-elegir"
+- montserrat-que-excursion-elegir
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a vivir

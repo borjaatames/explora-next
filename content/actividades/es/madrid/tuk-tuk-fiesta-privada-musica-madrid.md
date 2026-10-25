@@ -48,7 +48,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'Esto no es un tour cultural: es una experiencia festiva pensada para animar el ambiente antes de salir de noche o para celebrar algo en grupo. Si buscáis historia y monumentos con calma, mejor elegid el tuk-tuk panorámico; si lo que queréis es música y buen rollo con vuestra gente, este es el producto. Eso sí, nada de alcohol a bordo.'
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: nocturno
 keywords:
 - tuk tuk fiesta madrid
 - despedida de soltero tuk tuk madrid
@@ -86,6 +86,8 @@ publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a vivir

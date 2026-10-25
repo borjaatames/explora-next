@@ -70,7 +70,8 @@ opinionEditorial: 'Montserrat by car with a guide is the easiest way up: no trai
 
 
   The semi-private option (from about €121 per person) is the best value; the private one, with hotel pickup, mainly pays off for families or groups of 3-4.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- montserrat
 categoria: excursionesDia
 keywords:
 - montserrat guided tour

@@ -2,8 +2,7 @@
 titulo: 'Flamenco in Madrid: Show at Tablao Las Carboneras'
 slug: flamenco-tablao-las-carboneras
 ciudad: madrid
-descripcion: 1-hour flamenco show at Tablao Las Carboneras, in the heart of Madrid de los Austrias. Drink included and dinner
-  option. Top rated 4.7/5 across 758 reviews. Wheelchair accessible.
+descripcion: 1-hour flamenco show at Tablao Las Carboneras, in the heart of Madrid de los Austrias. Drink included and dinner option. Top rated 4.7/5 across 758 reviews. Wheelchair accessible.
 slugs:
   es: flamenco-tablao-las-carboneras
   en: flamenco-tablao-las-carboneras
@@ -32,11 +31,8 @@ noIncluye:
 - Additional drinks
 - Tips to artists
 puntoEncuentro:
-  texto: Plaza del Conde de Miranda, 1. The tablao is in the basement of the former Count of Miranda's palace, in the heart
-    of Madrid de los Austrias. The entrance is discreet — follow the «Las Carboneras» sign.
-  descripcionGuia: 'It''s a small pedestrian street, between Plaza Mayor and Calle Mayor. Metro Ópera (line 2 or 5) or Sol
-    (1, 2, 3), both 5 minutes away. Arrive 15-20 minutes early — being a small venue, table assignment works on arrival order.
-    Watch for the recurring complaint: if seated in the back corner or last lateral row, there are sightline obstructions.'
+  texto: Plaza del Conde de Miranda, 1. The tablao is in the basement of the former Count of Miranda's palace, in the heart of Madrid de los Austrias. The entrance is discreet — follow the «Las Carboneras» sign.
+  descripcionGuia: 'It''s a small pedestrian street, between Plaza Mayor and Calle Mayor. Metro Ópera (line 2 or 5) or Sol (1, 2, 3), both 5 minutes away. Arrive 15-20 minutes early — being a small venue, table assignment works on arrival order. Watch for the recurring complaint: if seated in the back corner or last lateral row, there are sightline obstructions.'
   latitud: 40.4147
   longitud: -3.7092
   zoom: 18
@@ -58,47 +54,27 @@ informacionImportante:
   - The show is 100% improvised by the artists (no fixed choreography)
   - Show + dinner option with traditional Spanish cuisine available
   - Flamenco is intense communication — small kids can get bored or overwhelmed in a closed venue
-accesibilidad: Wheelchair accessible (operator marks this explicitly). The access to the basement of the Count of Miranda's
-  palace has a ramp or lift, unusual for tablaos in the historic centre.
+accesibilidad: Wheelchair accessible (operator marks this explicitly). The access to the basement of the Count of Miranda's palace has a ramp or lift, unusual for tablaos in the historic centre.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
 - pregunta: How does Las Carboneras differ from other Madrid tablaos?
-  respuesta: Las Carboneras is an intimate tablao in a historic palace basement, with limited capacity and a cabaret format.
-    Compared to more touristy tablaos (bigger, with standard dinner), Las Carboneras prioritises a close atmosphere, a fixed
-    cast of renowned artists (José Maldonado, Candy Román, etc.) and real improvisation. Top rated on GetYourGuide at 4.7/5.
+  respuesta: Las Carboneras is an intimate tablao in a historic palace basement, with limited capacity and a cabaret format. Compared to more touristy tablaos (bigger, with standard dinner), Las Carboneras prioritises a close atmosphere, a fixed cast of renowned artists (José Maldonado, Candy Román, etc.) and real improvisation. Top rated on GetYourGuide at 4.7/5.
 - pregunta: Is the dinner option worth it?
-  respuesta: Depends. The dinner is traditional Spanish cuisine and served before the show. If you want to make a full evening
-    of it and not rush out to dine after, it's worth it. If your interest is just the flamenco and you prefer choosing your
-    own restaurant, the show + drink ticket is enough — with 1 hour of intense performance that's plenty.
+  respuesta: Depends. The dinner is traditional Spanish cuisine and served before the show. If you want to make a full evening of it and not rush out to dine after, it's worth it. If your interest is just the flamenco and you prefer choosing your own restaurant, the show + drink ticket is enough — with 1 hour of intense performance that's plenty.
 - pregunta: Is it suitable for children?
-  respuesta: Yes in terms of content (it's classic flamenco, nothing inappropriate). But the format is a small, closed venue
-    and 1 uninterrupted hour — small kids can get overwhelmed or bored. From 7-8 years old it starts to work; before that,
-    better an outdoor show or a shorter one.
+  respuesta: Yes in terms of content (it's classic flamenco, nothing inappropriate). But the format is a small, closed venue and 1 uninterrupted hour — small kids can get overwhelmed or bored. From 7-8 years old it starts to work; before that, better an outdoor show or a shorter one.
 - pregunta: What time are the shows?
-  respuesta: Shows usually start around 20:30-22:30 (check available times at booking). If you book the dinner option, arrive
-    1 hour before the show. Without dinner, 15-20 minutes early is enough for a better table.
+  respuesta: Shows usually start around 20:30-22:30 (check available times at booking). If you book the dinner option, arrive 1 hour before the show. Without dinner, 15-20 minutes early is enough for a better table.
 - pregunta: How do I make sure of a good view of the stage?
-  respuesta: 'Arrive early — ideally 20 minutes before. Tables are assigned on arrival order, not by prior booking. Avoid
-    the back lateral row: several reviews mention obstructed views, especially when latecomers come in and stand momentarily.'
+  respuesta: 'Arrive early — ideally 20 minutes before. Tables are assigned on arrival order, not by prior booking. Avoid the back lateral row: several reviews mention obstructed views, especially when latecomers come in and stand momentarily.'
 variantes: []
-opinionEditorial: 'This is one of central Madrid''s reference tablaos, flagged «top rated» and «likely to sell out» on GetYourGuide
-  at 4.7/5 across 758 reviews. It''s in the basement of the former Count of Miranda''s palace, in the Austrias district —
-  unbeatable location, 5 minutes from Plaza Mayor. The format is intimate, capacity reduced, with a fixed cast of renowned
-  artists (José Maldonado, Candy Román, Juan Herrera, Shin Yamasawa among others) and a level of real improvisation that reviews
-  repeatedly praise.
+opinionEditorial: 'This is one of central Madrid''s reference tablaos, flagged «top rated» and «likely to sell out» on GetYourGuide at 4.7/5 across 758 reviews. It''s in the basement of the former Count of Miranda''s palace, in the Austrias district — unbeatable location, 5 minutes from Plaza Mayor. The format is intimate, capacity reduced, with a fixed cast of renowned artists (José Maldonado, Candy Román, Juan Herrera, Shin Yamasawa among others) and a level of real improvisation that reviews repeatedly praise.
 
 
-  Operational details to check: the venue is small and tables are assigned on arrival order — arrive 15-20 minutes early if
-  you want good visibility. The recurring complaint is the back lateral row: when latecomers come in, there are momentary
-  obstructions. The dinner option adds traditional Spanish food before the show; if your interest is just the flamenco, the
-  basic show + drink ticket more than delivers with 1 intense hour. «Value for money» scores 4.5/5 — high for a central touristic
-  product.
+  Operational details to check: the venue is small and tables are assigned on arrival order — arrive 15-20 minutes early if you want good visibility. The recurring complaint is the back lateral row: when latecomers come in, there are momentary obstructions. The dinner option adds traditional Spanish food before the show; if your interest is just the flamenco, the basic show + drink ticket more than delivers with 1 intense hour. «Value for money» scores 4.5/5 — high for a central touristic product.
 
 
-  Who it''s for: travellers looking for flamenco in an intimate, authentic format, not in a 100-seat restaurant-venue; couples
-  wanting a compact quality evening; travellers with reduced mobility (wheelchair accessible, unusual for tablaos in the centre).
-  Who it''s NOT for: families with kids under 7 (closed 1-hour format, tricky), anyone after a massive show-with-dinner spectacle,
-  and anyone arriving at the tablao 5 minutes before expecting front row — here it works on arrival order.
+  Who it''s for: travellers looking for flamenco in an intimate, authentic format, not in a 100-seat restaurant-venue; couples wanting a compact quality evening; travellers with reduced mobility (wheelchair accessible, unusual for tablaos in the centre). Who it''s NOT for: families with kids under 7 (closed 1-hour format, tricky), anyone after a massive show-with-dinner spectacle, and anyone arriving at the tablao 5 minutes before expecting front row — here it works on arrival order.
 
   '
 atraccionesRelacionadas:
@@ -110,29 +86,29 @@ keywords:
 - flamenco show madrid
 - tablao central madrid
 - authentic flamenco madrid
-imagen: "/images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaoras-rojo.webp"
-imagenAlt: "Dancers in red dresses during the show at Tablao Las Carboneras"
+imagen: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaoras-rojo.webp
+imagenAlt: Dancers in red dresses during the show at Tablao Las Carboneras
 galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-cuadro-flamenco.webp
-  alt: "Full flamenco ensemble on stage at Las Carboneras"
+  alt: Full flamenco ensemble on stage at Las Carboneras
 - src: /images/actividades/madrid/tablao-las-carboneras-oficial/tablao-las-carboneras-oficial-cuadro-completo.webp
-  alt: "The full troupe on the Las Carboneras stage"
+  alt: The full troupe on the Las Carboneras stage
 - src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-bailaora-cuadro.webp
-  alt: "Dancer in a red dress with singers and guitarists"
+  alt: Dancer in a red dress with singers and guitarists
 - src: /images/actividades/madrid/tablao-las-carboneras-oficial/tablao-las-carboneras-oficial-bailaora-naranja.webp
-  alt: "Dancer in orange with singers and guitarist at Las Carboneras"
+  alt: Dancer in orange with singers and guitarist at Las Carboneras
 - src: /images/actividades/madrid/tablao-las-carboneras/descarga-3-hero.webp
-  alt: "Male flamenco dancer performing at Las Carboneras"
+  alt: Male flamenco dancer performing at Las Carboneras
 - src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-sala-escenario.webp
-  alt: "Dining room and stage at Tablao Las Carboneras"
+  alt: Dining room and stage at Tablao Las Carboneras
 - src: /images/actividades/madrid/tablao-las-carboneras/tablao-las-carboneras-comedor.webp
-  alt: "The tablao dining room before the show"
+  alt: The tablao dining room before the show
 - src: /images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-edificios.webp
-  alt: "Plaza del Conde de Miranda, in Habsburg Madrid"
+  alt: Plaza del Conde de Miranda, in Habsburg Madrid
 - src: /images/actividades/madrid/tablao-las-carboneras/plaza-conde-miranda-azulejo.webp
-  alt: "Tile street sign of Plaza del Conde de Miranda"
+  alt: Tile street sign of Plaza del Conde de Miranda
 - src: /images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp
-  alt: "Doorway of the Las Carboneras convent, which gives the tablao its name"
+  alt: Doorway of the Las Carboneras convent, which gives the tablao its name
 ratingProveedor: 4.7
 numeroOpiniones: 758
 publicada: true
@@ -140,7 +116,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-madrid-which-tablao-to-choose"
+- flamenco-madrid-which-tablao-to-choose
 ---
 
 ## What you'll see

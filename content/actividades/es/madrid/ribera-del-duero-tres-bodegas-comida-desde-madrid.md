@@ -72,7 +72,7 @@ opinionEditorial: 'Es la excursión más completa de Vine Travel a Ribera del Du
   Cuesta unos 395 € por persona para dos (baja a unos 350 € por persona si sois cuatro). Es caro, pero incluye transporte, comida y guía especializado durante diez horas. Para aficionados al vino tinto que quieren entender la zona, merece la pena; si buscas solo una cata rápida, hay opciones más cortas.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - ribera del duero desde madrid
 - excursion bodegas ribera del duero

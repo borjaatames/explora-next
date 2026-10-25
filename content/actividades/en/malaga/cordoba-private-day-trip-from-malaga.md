@@ -65,7 +65,7 @@ opinionEditorial: 'Córdoba is the great heritage trip from Málaga, and the Mos
   The price is per group: €750 for 1 or 2 people, expensive next to going by high-speed train on your own. For 4 (€920 in total) it evens out, and that''s where the comfort pays off.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba from malaga
 - private cordoba day trip malaga
@@ -94,6 +94,8 @@ galeria:
   alt: Roman Bridge, Bridge Gate and Mosque
 bokunProductId: 1063256
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the day is like

@@ -79,6 +79,8 @@ opinionEditorial: 'This is the right pick if you''re travelling as a group or fa
 
   '
 atraccionesRelacionadas:
+- segovia
+- escorial
 - excursiones-desde-madrid
 categoria: excursionesDia
 keywords:
@@ -122,6 +124,7 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## What you'll see

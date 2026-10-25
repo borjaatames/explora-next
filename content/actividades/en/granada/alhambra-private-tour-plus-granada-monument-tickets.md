@@ -72,7 +72,7 @@ opinionEditorial: 'The appeal here is that one booking covers almost all of Gran
 atraccionesRelacionadas:
 - alhambra
 - catedral
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - alhambra private tour with tickets
 - alhambra and cathedral granada
@@ -103,6 +103,8 @@ galeria:
   alt: Couple walking through the Generalife gardens
 bokunProductId: 793765
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What's included

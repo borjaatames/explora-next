@@ -68,8 +68,9 @@ opinionEditorial: 'La Alpujarra es de esos sitios que se recuerdan, y con guía 
 
   El precio es por grupo: 640 € para una o dos personas y 800 € para cuatro, comida aparte. Para parejas es caro frente a una excursión en grupo; para familias de 4, sale razonable por tener coche y guía propios.'
 atraccionesRelacionadas:
+- alpujarra
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - excursion alpujarra desde granada
 - alpujarra tour privado
@@ -98,6 +99,8 @@ galeria:
   alt: Terrados con ropa tendida en la Alpujarra
 bokunProductId: 793772
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

@@ -68,7 +68,7 @@ opinionEditorial: 'Cádiz se mira mejor desde el mar, y al atardecer, con la cat
 guiasRelacionadas:
 - cadiz-en-un-dia
 - playas-cadiz-costa-de-la-luz
-categoria: excursionesDia
+categoria: agua
 keywords:
 - catamaran cadiz atardecer
 - paseo en barco cadiz

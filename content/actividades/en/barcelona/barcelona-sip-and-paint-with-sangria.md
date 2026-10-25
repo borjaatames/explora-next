@@ -65,7 +65,7 @@ opinionEditorial: 'It''s a different kind of evening: you paint a picture step b
   At about €19 per person including sangria, it''s cheap. It''s new and has no reviews yet. For solo travellers, groups of friends or a low-key hen party, it works.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: espectaculos
+categoria: talleres
 keywords:
 - sip and paint barcelona
 - paint and sangria barcelona

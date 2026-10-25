@@ -62,9 +62,10 @@ opinionEditorial: 'Junta dos de las cosas que más se buscan en Sevilla, flamenc
 
   El precio es por grupo, 310 € para 1 o 2 personas, es decir, 155 € por persona para una pareja con espectáculo, tapas y 4 bebidas. Para 4 personas, 540 € en total. Encaja con quien quiere una noche resuelta y con contexto.'
 atraccionesRelacionadas:
+- triana
 - flamenco
 - tapas-sevilla
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - flamenco y tapas sevilla
 - tour flamenco tapas triana
@@ -96,6 +97,8 @@ galeria:
   alt: Copa de vino tinto y tapas
 bokunProductId: 793767
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es la noche

@@ -1,8 +1,8 @@
 ---
-titulo: "Valencia Self-Guided Audio Tour – DareMapp App"
+titulo: Valencia Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-valencia
 ciudad: valencia
-descripcion: "Explore Valencia at your own pace with the DareMapp self-guided audio tour: City of Arts and Sciences, La Lonja. No guide, available 24/7, in 6 languages."
+descripcion: 'Explore Valencia at your own pace with the DareMapp self-guided audio tour: City of Arts and Sciences, La Lonja. No guide, available 24/7, in 6 languages.'
 slugs:
   es: tour-autoguiado-daremapp-valencia
   en: self-guided-tour-daremapp-valencia
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1144085
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Valencia at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover the City of Arts and Sciences, La Lonja de la Seda silk exchange and Serranos Towers, plus more than 15 points of interest in total, spread across 2 routes
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Valencia"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Valencia'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,32 +50,30 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Valencia on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
-categoria: visitasGuiadas
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Valencia on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
+categoria: toursCiudad
 keywords:
 - self-guided tour valencia
 - valencia audio tour
 - valencia self-guided app tour
-imagen: "/images/actividades/valencia/centro/mercado-central-interior.webp"
-imagenAlt: "Art Nouveau interior of the Central Market"
+imagen: /images/actividades/valencia/centro/mercado-central-interior.webp
+imagenAlt: Art Nouveau interior of the Central Market
 galeria:
-- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
-  alt: "Puerta de la Catedral de Valencia, centro histórico"
+- src: /images/actividades/valencia/centro/catedral-puerta.webp
+  alt: Puerta de la Catedral de Valencia, centro histórico
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: "Plaza de la Virgen in central Valencia"
+  alt: Plaza de la Virgen in central Valencia
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: "The Micalet tower of Valencia Cathedral"
+  alt: The Micalet tower of Valencia Cathedral
 - src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
-  alt: "Torres de Serranos, the old city gate"
+  alt: Torres de Serranos, the old city gate
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: "Orange tree courtyard of the Silk Exchange"
+  alt: Orange tree courtyard of the Silk Exchange
 - src: /images/actividades/valencia/centro/mercado-central-exterior.webp
-  alt: "Exterior of Valencia's Central Market"
+  alt: Exterior of Valencia's Central Market
 - src: https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg
-  alt: "DaremApp app with the self-guided route"
-atraccionesRelacionadas:
-  - centro-historico
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -76,8 +76,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
 imagenAlt: El barranco de Guayadeque abriéndose hacia el mar
 galeria:
-- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
-  alt: "Charca entre palmeras en las Dunas de Maspalomas"
+- src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
+  alt: Charca entre palmeras en las Dunas de Maspalomas
 - src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
   alt: Casas cueva en el barranco de Guayadeque
 - src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp
@@ -93,6 +93,8 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 716
 atraccionesRelacionadas:
+- maspalomas
+- mogan
 - isla
 publicada: true
 destacada: false

@@ -71,7 +71,7 @@ guiasRelacionadas:
 - malaga-en-dos-dias
 atraccionesRelacionadas:
 - centro-historico
-categoria: entradas
+categoria: talleres
 keywords:
 - hammam malaga
 - baños arabes malaga
@@ -81,19 +81,19 @@ imagen: /images/actividades/malaga/hammam/sala-hammam.webp
 imagenAlt: Sala de baños de inspiración árabe con luz cálida
 galeria:
 - src: /images/actividades/malaga/hammam/aceites.webp
-  alt: "Aceites y cuencos preparados en un hammam"
+  alt: Aceites y cuencos preparados en un hammam
 - src: /images/actividades/malaga/hammam/fuentes-marmol.webp
-  alt: "Fuentes de metal sobre lavabos de mármol en un hammam"
+  alt: Fuentes de metal sobre lavabos de mármol en un hammam
 - src: /images/actividades/malaga/hammam/masaje.webp
-  alt: "Pareja recibiendo un masaje en un spa"
+  alt: Pareja recibiendo un masaje en un spa
 - src: /images/actividades/malaga/hammam/te-descanso.webp
-  alt: "Dos personas con albornoz tomando té en un hammam"
+  alt: Dos personas con albornoz tomando té en un hammam
 - src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-01.webp
-  alt: "Sala de agua templada del Hammam Al Ándalus de Málaga"
+  alt: Sala de agua templada del Hammam Al Ándalus de Málaga
 - src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-02.webp
-  alt: "Baño con azulejos y velas en el Hammam Al Ándalus"
+  alt: Baño con azulejos y velas en el Hammam Al Ándalus
 - src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-03.webp
-  alt: "Sala de columnas del Hammam Al Ándalus de Málaga"
+  alt: Sala de columnas del Hammam Al Ándalus de Málaga
 ratingProveedor: 4.7
 numeroOpiniones: 2863
 publicada: true

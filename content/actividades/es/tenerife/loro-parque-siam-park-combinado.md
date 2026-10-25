@@ -18,8 +18,8 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t407438/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Loro Parque: mejor zoo de Europa (TripAdvisor 2020-2022)"
-- "Siam Park: mejor parque acuático del mundo (TripAdvisor 7 años)"
+- 'Loro Parque: mejor zoo de Europa (TripAdvisor 2020-2022)'
+- 'Siam Park: mejor parque acuático del mundo (TripAdvisor 7 años)'
 - Orca Ocean y Gorilla Island en Loro Parque
 - Tower of Power, Mae West y Dragon en Siam Park
 - Precio combinado con ahorro frente a las entradas individuales
@@ -62,10 +62,10 @@ preguntasFrecuentes:
   respuesta: Normalmente entre 15 y 25€ frente a comprar las entradas por separado, dependiendo de la temporada. Comprueba el precio de cada entrada individual antes de decidir.
 - pregunta: ¿Loro Parque es un zoo o un circo?
   respuesta: Es un zoo de conservación premiado internacionalmente. Los shows de orcas y delfines son demostraciones de comportamiento natural en cautividad, no espectáculos de circo al uso. Loro Parque es socio de numerosos proyectos de conservación en libertad.
-opinionEditorial: 'El combo Loro Parque + Siam Park es la excursión estrella de Tenerife y no decepciona. Loro Parque tiene la colección de animales más impresionante de Europa y Siam Park el mejor diseño temático de todos los parques acuáticos españoles. Si tienes dos días libres en Tenerife, esta es la inversión perfecta.'
+opinionEditorial: El combo Loro Parque + Siam Park es la excursión estrella de Tenerife y no decepciona. Loro Parque tiene la colección de animales más impresionante de Europa y Siam Park el mejor diseño temático de todos los parques acuáticos españoles. Si tienes dos días libres en Tenerife, esta es la inversión perfecta.
 guiasRelacionadas:
 - que-ver-en-tenerife
-categoria: entradas
+categoria: parques
 keywords:
 - loro parque siam park combinado
 - loro parque tenerife entrada
@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean en Loro Parque Tenerife
 galeria:
-- src: "/images/actividades/tenerife/loro-siam/leon-marino-nadando.webp"
-  alt: "León marino nadando en Loro Parque"
+- src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
+  alt: León marino nadando en Loro Parque
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
   alt: Delfines en el delfinario de Loro Parque
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
@@ -87,6 +87,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:
+- siam-loro
 - parques
 publicada: true
 destacada: true

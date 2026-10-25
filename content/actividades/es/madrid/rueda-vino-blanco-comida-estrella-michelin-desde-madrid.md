@@ -70,7 +70,7 @@ opinionEditorial: 'Es la excursión de vino más gastronómica de Vine Travel: d
   Cuesta unos 370 € por persona, con un mínimo de dos. Es un capricho, y conviene confirmar con el operador que la comida va incluida, porque la descripción lo dice pero la lista de incluidos no. Ideal para una celebración o para amantes de la buena mesa.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - rueda desde madrid
 - excursion bodegas rueda

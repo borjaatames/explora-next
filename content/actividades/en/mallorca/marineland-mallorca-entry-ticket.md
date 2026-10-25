@@ -69,26 +69,26 @@ guiasRelacionadas:
 - mallorca-with-kids
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: parques
 keywords:
 - marineland mallorca tickets
 - marineland mallorca
 - dolphins mallorca kids
 - things to do in mallorca with kids
 - marineland costa d'en blanes
-imagen: "/images/actividades/mallorca/marineland/marineland-mallorca-entrada-parque.webp"
-imagenAlt: "Entrance to Marineland Mallorca in Costa d'en Blanes"
+imagen: /images/actividades/mallorca/marineland/marineland-mallorca-entrada-parque.webp
+imagenAlt: Entrance to Marineland Mallorca in Costa d'en Blanes
 galeria:
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-espectaculo-delfines.webp"
-  alt: "Trainer and dolphin during the Marineland Mallorca show"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-delfin-entrenadora.webp"
-  alt: "Dolphin with its trainer in the Marineland pool"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-leon-marino.webp"
-  alt: "Sea lion resting at Marineland Mallorca"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-grada-show.webp"
-  alt: "Audience in the stands at the dolphin show"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-loros.webp"
-  alt: "Parrot enclosure at Marineland Mallorca"
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-espectaculo-delfines.webp
+  alt: Trainer and dolphin during the Marineland Mallorca show
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-delfin-entrenadora.webp
+  alt: Dolphin with its trainer in the Marineland pool
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-leon-marino.webp
+  alt: Sea lion resting at Marineland Mallorca
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-grada-show.webp
+  alt: Audience in the stands at the dolphin show
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
+  alt: Parrot enclosure at Marineland Mallorca
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

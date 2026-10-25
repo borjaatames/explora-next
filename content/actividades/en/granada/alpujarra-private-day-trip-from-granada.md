@@ -68,8 +68,9 @@ opinionEditorial: 'The Alpujarra is one of those places that stays with you, and
 
   The price is per group: €640 for one or two, €800 for four, with lunch extra. For couples it''s pricey next to a group trip; for a family of four it''s fair for your own car and guide.'
 atraccionesRelacionadas:
+- alpujarra
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - alpujarra day trip from granada
 - alpujarra private tour
@@ -98,6 +99,8 @@ galeria:
   alt: Flat roofs with washing hung out in the Alpujarra
 bokunProductId: 793772
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day goes

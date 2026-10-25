@@ -73,15 +73,12 @@ atracciones:
     imagenAlt: "Archivo General de Indias in Sevilla, das ehemalige Handelshaus aus dem 16. Jahrhundert"
 chipsFiltros:
   - { label: "Real Alcázar", tag: "real-alcazar" }
-  - { label: "Kathedrale und Giralda", tag: "catedral-giralda" }
-  - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Tuk-Tuk", tag: "tuk-tuk" }
-  - { label: "Tapas und Wein", tag: "tapas-sevilla" }
-  - { label: "Boot und Kajak", tag: "barco" }
-  - { label: "Tagesausflüge", tag: "excursiones" }
-  - { label: "Familienausflüge", tag: "familia" }
-  - { label: "Weitere Sehenswürdigkeiten", tag: "monumentos" }
-  - { label: "Stadt-, Rad- und Bustouren", tag: "tours-a-pie" }
+  - { label: "Kathedrale & Giralda", tag: "catedral-giralda" }
+  - { label: "Plaza de España", tag: "plaza-espana" }
+  - { label: "Viertel Santa Cruz", tag: "santa-cruz" }
+  - { label: "Triana", tag: "triana" }
+  - { label: "Córdoba", tag: "cordoba" }
+  - { label: "Ronda & weiße Dörfer", tag: "ronda-pueblos-blancos" }
 ---
 
 Sevilla ist die **Hauptstadt Andalusiens** und die viertgrößte Stadt Spaniens: **684.000 Einwohner** im Stadtgebiet und mehr als 1,5 Millionen im Großraum. Sie ist Sitz der Junta de Andalucía und wirtschaftliches, kulturelles und religiöses Zentrum des südlichen Spaniens.

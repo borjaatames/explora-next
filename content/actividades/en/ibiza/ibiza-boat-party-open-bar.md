@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: Ibiza's most popular boat party, with over 1,500 reviews. A way to start the night with music, the sunset and a swim.
 guiasRelacionadas:
 - what-to-see-in-ibiza
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - ibiza boat party
 - ibiza sunset boat party

@@ -78,6 +78,7 @@ opinionEditorial: 'This is the clean combo: Gaudí''s two masterpieces — Park 
   '
 atraccionesRelacionadas:
 - sagrada-familia
+- park-guell
 categoria: visitasGuiadas
 keywords:
 - sagrada familia and park guell

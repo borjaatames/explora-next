@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: buggy todoterreno por el norte volcánico'
 slug: buggy-volcanes-norte-lanzarote
 ciudad: lanzarote
-descripcion: 'Ruta guiada en buggy de 2-3 horas desde Costa Teguise por las canteras de Guatiza, la presa de Mala y las Peñas del Chache, el punto más alto de la isla. 4,6/5 con más de 5.600 reseñas.'
+descripcion: Ruta guiada en buggy de 2-3 horas desde Costa Teguise por las canteras de Guatiza, la presa de Mala y las Peñas del Chache, el punto más alto de la isla. 4,6/5 con más de 5.600 reseñas.
 slugs:
   es: buggy-volcanes-norte-lanzarote
   en: lanzarote-off-road-buggy-tour
@@ -36,8 +36,8 @@ noIncluye:
 - Bandana para el polvo
 - Propinas
 puntoEncuentro:
-  texto: 'Gasolinera DISA de Costa Teguise, en la parte trasera, con aparcamiento gratuito.'
-  descripcionGuia: 'Si no reservas la opción con recogida, ve directamente a la parte trasera de la gasolinera. La recogida solo cubre direcciones seleccionadas de Costa Teguise y hay que confirmar disponibilidad.'
+  texto: Gasolinera DISA de Costa Teguise, en la parte trasera, con aparcamiento gratuito.
+  descripcionGuia: Si no reservas la opción con recogida, ve directamente a la parte trasera de la gasolinera. La recogida solo cubre direcciones seleccionadas de Costa Teguise y hay que confirmar disponibilidad.
   latitud: 28.999
   longitud: -13.502
   zoom: 13
@@ -67,16 +67,16 @@ preguntasFrecuentes:
 - pregunta: ¿El precio es por persona?
   respuesta: 'No: 150 € es el precio por buggy, en el que caben hasta dos personas. Si vais dos, sale a 75 € cada uno.'
 - pregunta: ¿Pasa por Timanfaya?
-  respuesta: 'No. La ruta va por el norte y el centro de la isla (Guatiza, presa de Mala, Peñas del Chache, Teseguite). Dentro del Parque Nacional de Timanfaya no se puede circular fuera de la carretera.'
+  respuesta: No. La ruta va por el norte y el centro de la isla (Guatiza, presa de Mala, Peñas del Chache, Teseguite). Dentro del Parque Nacional de Timanfaya no se puede circular fuera de la carretera.
 - pregunta: ¿Qué carnet necesito?
-  respuesta: 'El carnet de conducir original, con al menos dos años de antigüedad, y tener 20 años o más. Las copias no se aceptan.'
+  respuesta: El carnet de conducir original, con al menos dos años de antigüedad, y tener 20 años o más. Las copias no se aceptan.
 - pregunta: ¿Pueden ir niños?
-  respuesta: 'En el asiento delantero, solo a partir de 1,35 m. Detrás no hay límite de edad, según el operador.'
+  respuesta: En el asiento delantero, solo a partir de 1,35 m. Detrás no hay límite de edad, según el operador.
 opinionEditorial: 'Acumula más de 5.600 reseñas y la nota se mantiene alta (4,6). Ojo al nombre: recorre el norte de canteras y tuneras hasta las Peñas del Chache, no los volcanes de Timanfaya, donde está prohibido salirse del asfalto. Compensa sobre todo si vais dos y uno conduce: 150 € por buggy para una sola persona es caro.'
 guiasRelacionadas:
 - que-ver-en-lanzarote
 - timanfaya-como-visitarlo
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - buggy lanzarote
 - excursion buggy costa teguise
@@ -86,16 +86,16 @@ keywords:
 imagen: /images/actividades/lanzarote/buggy-volcanes.webp
 imagenAlt: Buggy por una pista de tierra entre volcanes en Lanzarote
 galeria:
-- src: "/images/actividades/lanzarote/zonas/guatiza-cactus.webp"
-  alt: "Cactus entre rocas volcánicas en Guatiza, al norte de Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/molino-jardin-cactus.webp"
-  alt: "Molino blanco sobre el Jardín de Cactus de Guatiza"
-- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp"
-  alt: "La Graciosa y el estrecho de El Río desde el Mirador del Río"
-- src: "/images/actividades/lanzarote/zonas/casa-tradicional-verde.webp"
-  alt: "Casa tradicional encalada con balcón de madera verde"
-- src: "/images/actividades/lanzarote/zonas/cultivos-lava.webp"
-  alt: "Cultivos sobre ceniza volcánica con montañas al fondo"
+- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
+  alt: Cactus entre rocas volcánicas en Guatiza, al norte de Lanzarote
+- src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
+  alt: Molino blanco sobre el Jardín de Cactus de Guatiza
+- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
+  alt: La Graciosa y el estrecho de El Río desde el Mirador del Río
+- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
+  alt: Casa tradicional encalada con balcón de madera verde
+- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
+  alt: Cultivos sobre ceniza volcánica con montañas al fondo
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

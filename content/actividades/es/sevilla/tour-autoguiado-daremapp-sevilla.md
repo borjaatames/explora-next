@@ -1,8 +1,8 @@
 ---
-titulo: "Sevilla a tu ritmo: tour autoguiado DareMapp"
+titulo: 'Sevilla a tu ritmo: tour autoguiado DareMapp'
 slug: tour-autoguiado-daremapp-sevilla
 ciudad: sevilla
-descripcion: "Descubre Sevilla a tu ritmo con la audioguía autoguiada DareMapp: Giralda, Torre del Oro y Triana. Sin guía, disponible 24/7 todo el año, en 6 idiomas."
+descripcion: 'Descubre Sevilla a tu ritmo con la audioguía autoguiada DareMapp: Giralda, Torre del Oro y Triana. Sin guía, disponible 24/7 todo el año, en 6 idiomas.'
 slugs:
   es: tour-autoguiado-daremapp-sevilla
   en: self-guided-tour-daremapp-sevilla
@@ -19,14 +19,14 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1136834
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorre Sevilla a tu propio ritmo, sin horarios fijos ni grupos
 - Elige las paradas que quieras y sáltate las que no te interesen
-- "Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento"
-- "Disponible las 24 horas del día, los 365 días del año: el acceso no caduca"
+- 'Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento'
+- 'Disponible las 24 horas del día, los 365 días del año: el acceso no caduca'
 - Descubre la Giralda, las Escalinatas Españolas de la Plaza de España, el Puente de Triana y la Torre del Oro, además de más de 20 puntos de interés en total
 incluye:
 - Ir a tu propio ritmo, sin horarios ni grupos
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - Guía físico (es una experiencia 100% autónoma, sin acompañante)
 puntoEncuentro:
-  texto: "Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Sevilla"
+  texto: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Sevilla'
 informacionImportante:
   aTenerEnCuenta:
-  - "Apto para toda la familia: edad mínima 1 año"
+  - 'Apto para toda la familia: edad mínima 1 año'
   - App disponible en español, inglés, portugués, francés, italiano y alemán
   - Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio
   - Buen acceso a transporte público en la zona de la ruta
@@ -50,32 +50,34 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Es la opción ideal si quieres moverte por Sevilla a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación.
+opinionEditorial: 'Es la opción ideal si quieres moverte por Sevilla a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour autoguiado sevilla
 - audioguía sevilla
 - visita autoguiada sevilla app
-imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp"
-imagenAlt: "Barcas de remo en el canal de la Plaza de España"
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
+imagenAlt: Barcas de remo en el canal de la Plaza de España
 galeria:
-- src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp"
-  alt: "Fachada de la Real Maestranza de Sevilla"
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
+  alt: Fachada de la Real Maestranza de Sevilla
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+  alt: Fachada de la Catedral de Sevilla entre palmeras
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: "Plaza de España reflejada en el canal"
+  alt: Plaza de España reflejada en el canal
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: "Las Setas de la Encarnación, a pocos minutos a pie"
+  alt: Las Setas de la Encarnación, a pocos minutos a pie
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: "Torre y puente de la Plaza de España"
+  alt: Torre y puente de la Plaza de España
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: "Galería de la Plaza de España con sus bancos de azulejos"
+  alt: Galería de la Plaza de España con sus bancos de azulejos
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'

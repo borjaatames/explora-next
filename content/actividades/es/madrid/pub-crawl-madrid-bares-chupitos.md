@@ -56,7 +56,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'Frente a la otra ruta de pub crawl que tenemos en Madrid, esta es la opción más flexible: cancelación gratuita hasta 24h antes y guía en seis idiomas, buena elección si viajas en un grupo internacional. Tiene un local menos (4 frente a 5) y el código de vestimenta es más estricto, así que nada de ropa deportiva ni sandalias para ellos.'
 atraccionesRelacionadas:
 - otros-madrid
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - pub crawl madrid bares
 - ruta de bares madrid
@@ -65,19 +65,19 @@ imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
 imagenAlt: Pub crawl por bares y discoteca en el centro de Madrid
 galeria:
 - src: https://imgcdn.bokun.tools/c302637a-b16c-4626-ab8c-ffe7c577f64a.jpg
-  alt: "Ambiente en uno de los bares del pub crawl de Madrid"
+  alt: Ambiente en uno de los bares del pub crawl de Madrid
 - src: https://imgcdn.bokun.tools/b813d50b-e2da-4214-9573-c59e69da86d4.jpg
-  alt: "Chupitos de bienvenida en una de las paradas del pub crawl de Madrid"
+  alt: Chupitos de bienvenida en una de las paradas del pub crawl de Madrid
 - src: https://imgcdn.bokun.tools/4c927e58-784f-470f-8a1e-e8f25ac4bb0a.jpg
-  alt: "Pista de baile de la discoteca final del pub crawl de Madrid"
+  alt: Pista de baile de la discoteca final del pub crawl de Madrid
 - src: https://imgcdn.bokun.tools/6b88d5a5-f9ac-4d87-aaec-97890477aa24.jpg
-  alt: "Grupo brindando durante el pub crawl por el centro de Madrid"
+  alt: Grupo brindando durante el pub crawl por el centro de Madrid
 - src: /images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp
-  alt: "Calle de las Huertas, zona de bares del Barrio de las Letras"
+  alt: Calle de las Huertas, zona de bares del Barrio de las Letras
 - src: /images/actividades/madrid/barrio-letras/barrio-letras-huertas-versos.webp
-  alt: "Versos en el suelo de la calle de las Huertas"
+  alt: Versos en el suelo de la calle de las Huertas
 - src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
-  alt: "Plaza del Callao y la Gran Vía de noche"
+  alt: Plaza del Callao y la Gran Vía de noche
 publicada: true
 destacada: false
 fecha: '2026-09-05'

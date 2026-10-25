@@ -91,6 +91,7 @@ galeria:
   alt: Nave central de la catedral de Málaga
 bokunProductId: 938174
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

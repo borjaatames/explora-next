@@ -69,7 +69,7 @@ opinionEditorial: 'The relaxed way to see the interior: instead of driving yours
 guiasRelacionadas:
 - roque-nublo-hike
 - what-to-see-in-gran-canaria
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - gran canaria jeep safari
 - 4x4 tour gran canaria
@@ -93,6 +93,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 1443
 atraccionesRelacionadas:
+- roque-nublo
 - interior
 publicada: true
 destacada: false

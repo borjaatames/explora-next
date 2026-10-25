@@ -2,11 +2,11 @@
 titulo: 'Gran Canaria: entrada a Palmitos Park'
 slug: palmitos-park-gran-canaria-entrada
 ciudad: gran-canaria
-descripcion: 'Entrada a Palmitos Park, el parque zoobotánico del sur de Gran Canaria con delfines, loros, mariposas tropicales y más de 1.000 especies animales y vegetales. 4,7/5 con 1.846 reseñas.'
+descripcion: Entrada a Palmitos Park, el parque zoobotánico del sur de Gran Canaria con delfines, loros, mariposas tropicales y más de 1.000 especies animales y vegetales. 4,7/5 con 1.846 reseñas.
 slugs:
   es: palmitos-park-gran-canaria-entrada
   en: palmitos-park-gran-canaria-ticket
-duracion: '1 día'
+duracion: 1 día
 duracionMinutos: 360
 precioDesde: 39
 moneda: EUR
@@ -31,7 +31,7 @@ noIncluye:
 - Transporte desde Maspalomas o Playa del Inglés
 - Nado con delfines (extra de pago)
 puntoEncuentro:
-  texto: 'Palmitos Park, Barranco de los Palmitos, s/n, Mogán, Gran Canaria'
+  texto: Palmitos Park, Barranco de los Palmitos, s/n, Mogán, Gran Canaria
   descripcionGuia: El parque está en el Barranco de los Palmitos, a unos 10 km de Maspalomas. Hay autobús desde Playa del Inglés y Maspalomas. En coche, toma la GC-503 desde la GC-500 (Maspalomas). El parking es gratuito.
   latitud: 27.7614
   longitud: -15.5967
@@ -49,7 +49,7 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - El parque está en un barranco con cuestas; no es ideal para sillas de ruedas o personas con movilidad reducida
-  - "El mariposario es una experiencia diferente a cualquier otro parque: vale la pena reservar tiempo"
+  - 'El mariposario es una experiencia diferente a cualquier otro parque: vale la pena reservar tiempo'
   - Los shows tienen horario fijo; consulta el programa al llegar
   - El parking es gratuito, lo que supone un ahorro respecto a otros parques
 accesibilidad: Acceso dificultoso para sillas de ruedas por el terreno en barranco. Consultar con el operador.
@@ -65,29 +65,29 @@ opinionEditorial: 'Palmitos Park no compite en tamaño con Loro Parque, pero tie
 guiasRelacionadas:
 - que-ver-en-gran-canaria
 - dunas-de-maspalomas
-categoria: entradas
+categoria: parques
 keywords:
 - palmitos park gran canaria entrada
 - palmitos park maspalomas ticket
 - zoo gran canaria
 - delfines gran canaria
 imagen: /images/actividades/gran-canaria/palmitos-park/delfines.webp
-imagenAlt: "Delfines en el delfinario de Palmitos Park, Gran Canaria"
+imagenAlt: Delfines en el delfinario de Palmitos Park, Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
-  alt: "Águila calva en la exhibición de aves rapaces de Palmitos Park"
+  alt: Águila calva en la exhibición de aves rapaces de Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
-  alt: "Palmitos Park en su barranco del sur de Gran Canaria"
+  alt: Palmitos Park en su barranco del sur de Gran Canaria
 - src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
-  alt: "Palmeral y laderas del barranco en Palmitos Park"
+  alt: Palmeral y laderas del barranco en Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
-  alt: "Jabirú africano en Palmitos Park"
+  alt: Jabirú africano en Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
-  alt: "Guacamayos amazónicos posados en una rama en Palmitos Park"
+  alt: Guacamayos amazónicos posados en una rama en Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
-  alt: "Guacamayo azul y amarillo en Palmitos Park"
+  alt: Guacamayo azul y amarillo en Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
-  alt: "Loro gris en el jardín de Palmitos Park"
+  alt: Loro gris en el jardín de Palmitos Park
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

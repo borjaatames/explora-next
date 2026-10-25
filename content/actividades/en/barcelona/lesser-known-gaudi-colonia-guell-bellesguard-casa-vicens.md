@@ -66,8 +66,7 @@ opinionEditorial: 'For anyone who''s already seen the Sagrada Familia and Park G
 
 
   It''s expensive for two (from about €304 per person, lunch included), dropping to about €207 each for four. Note that drop-off at your hotel isn''t included.'
-atraccionesRelacionadas: []
-categoria: excursionesDia
+categoria: visitasGuiadas
 keywords:
 - lesser known gaudi barcelona
 - colonia guell crypt tour
@@ -98,6 +97,7 @@ galeria:
   alt: The green and red tiled facade of Casa Vicens
 bokunProductId: 426315
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

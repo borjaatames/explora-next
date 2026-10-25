@@ -65,7 +65,7 @@ opinionEditorial: 'The patios make more sense with the people who tend them: see
 guiasRelacionadas:
 - cordoba-patios
 - cordoba-in-one-day
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - cordoba patios tour
 - cordoba patios guided tour
@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/cordoba/patios/patio-macetas.webp
 imagenAlt: Córdoba courtyard with walls full of flowerpots
 galeria:
-- src: "/images/actividades/cordoba/patios/patio-macetas-azules-flores.webp"
-  alt: "Patio cordobes con macetas azules y flores en las paredes"
+- src: /images/actividades/cordoba/patios/patio-macetas-azules-flores.webp
+  alt: Patio cordobes con macetas azules y flores en las paredes
 - src: /images/actividades/cordoba/patios/patio-festival.webp
   alt: Courtyard in bloom during the Patios Festival
 - src: /images/actividades/cordoba/patios/patio-escalera.webp

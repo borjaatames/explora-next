@@ -70,7 +70,7 @@ preguntasFrecuentes:
 opinionEditorial: The Ebro Delta at sunset, with flamingos and the glowing Trabucador, is one of Catalonia's great natural spectacles. With a guide you'll see far more than alone. You must have a car.
 guiasRelacionadas:
 - tarragona-in-one-day
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - ebro delta flamingos
 - ebro delta birdwatching
@@ -79,16 +79,16 @@ keywords:
 imagen: /images/actividades/tarragona/delta/flamencos-salinas.webp
 imagenAlt: Flamingos in the Delta salt pans
 galeria:
-- src: "/images/actividades/tarragona/delta/flamencos-vuelo.webp"
-  alt: "Flamingos in the Ebro Delta"
-- src: "/images/actividades/tarragona/delta/flamencos-manada.webp"
-  alt: "Flamingos in the Ebro Delta"
+- src: /images/actividades/tarragona/delta/flamencos-vuelo.webp
+  alt: Flamingos in the Ebro Delta
+- src: /images/actividades/tarragona/delta/flamencos-manada.webp
+  alt: Flamingos in the Ebro Delta
 - src: /images/actividades/tarragona/delta/flamencos-laguna.webp
   alt: Flamingos in a Delta lagoon
 - src: /images/actividades/tarragona/delta/arrozales-atardecer.webp
   alt: Delta rice fields at sunset
 - src: /images/actividades/tarragona/delta/trabucador.webp
-  alt: "Trabucador beach, golden sand and waves in the Ebro Delta"
+  alt: Trabucador beach, golden sand and waves in the Ebro Delta
 - src: /images/actividades/tarragona/delta/arrozales.webp
   alt: Ebro Delta rice fields
 - src: /images/actividades/tarragona/delta/trabucador-olas.webp

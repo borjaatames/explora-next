@@ -2,7 +2,7 @@
 titulo: 'Puerto de Mogán: submarine tour'
 slug: puerto-de-mogan-submarine-tour
 ciudad: gran-canaria
-descripcion: "40-minute submarine dive off Puerto de Mogán: shipwrecks, fish and volcanic seabed down to 25 m, with a 9-language audio guide. Rated 4.4/5 (4,509 reviews)."
+descripcion: '40-minute submarine dive off Puerto de Mogán: shipwrecks, fish and volcanic seabed down to 25 m, with a 9-language audio guide. Rated 4.4/5 (4,509 reviews).'
 slugs:
   es: submarino-puerto-mogan
   en: puerto-de-mogan-submarine-tour
@@ -33,7 +33,7 @@ incluye:
 noIncluye:
 - Transfer to the harbour (free pickup from the south is subject to availability and must be requested from the provider)
 puntoEncuentro:
-  texto: 'Submarine Adventure boarding area, Dique Sur pontoon, Puerto de Mogán.'
+  texto: Submarine Adventure boarding area, Dique Sur pontoon, Puerto de Mogán.
   descripcionGuia: Exchange your voucher at the Submarine Adventure kiosk at least 20 minutes before departure; the doors close 10 minutes before and latecomers are not waited for.
   latitud: 27.8159
   longitud: -15.7642
@@ -67,17 +67,17 @@ preguntasFrecuentes:
   respuesta: Yes, from age 2. Children under 2 cannot board.
 - pregunta: Is hotel pickup included?
   respuesta: It is not guaranteed. The provider offers free pickup from some southern resorts subject to availability; request it in advance.
-opinionEditorial: "It's designed for people who don't dive: you see wrecks and fish without getting wet, in 40 minutes. Visibility varies and windows are shared, so don't expect a documentary, but it works very well with kids. Pair it with a stroll around the harbour."
+opinionEditorial: 'It''s designed for people who don''t dive: you see wrecks and fish without getting wet, in 40 minutes. Visibility varies and windows are shared, so don''t expect a documentary, but it works very well with kids. Pair it with a stroll around the harbour.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - mogan submarine
 - puerto de mogan submarine
 - submarine adventure gran canaria
 - things to do in puerto de mogan
-imagen: "/images/actividades/gran-canaria/submarino-mogan/submarino-saliendo.webp"
-imagenAlt: "The yellow submarine sailing off Puerto de Mogán"
+imagen: /images/actividades/gran-canaria/submarino-mogan/submarino-saliendo.webp
+imagenAlt: The yellow submarine sailing off Puerto de Mogán
 galeria:
 - src: /images/actividades/gran-canaria/mogan/mogan-aerea.webp
   alt: Aerial view of Puerto de Mogán and the south breakwater where the submarine departs
@@ -93,13 +93,14 @@ galeria:
   alt: Bougainvillea on the houses of Puerto de Mogán
 - src: /images/actividades/gran-canaria/mogan/mogan-paseo.webp
   alt: Promenade by the harbour in Mogán
-- src: "/images/actividades/gran-canaria/submarino-mogan/submarino-puerto.webp"
-  alt: "The yellow submarine in Puerto de Mogán harbour"
-- src: "/images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp"
-  alt: "Close-up of the Mogán yellow submarine"
+- src: /images/actividades/gran-canaria/submarino-mogan/submarino-puerto.webp
+  alt: The yellow submarine in Puerto de Mogán harbour
+- src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
+  alt: Close-up of the Mogán yellow submarine
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:
+- mogan
 - mar
 publicada: true
 destacada: false

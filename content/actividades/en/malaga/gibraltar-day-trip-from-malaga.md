@@ -69,6 +69,7 @@ opinionEditorial: 'Gibraltar is one of the most unusual day trips from Málaga: 
 guiasRelacionadas:
 - day-trips-from-malaga
 atraccionesRelacionadas:
+- gibraltar
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -79,10 +80,10 @@ keywords:
 imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
 imagenAlt: The Rock of Gibraltar seen from the town
 galeria:
-- src: "/images/actividades/malaga/gibraltar/macacos-reserva-natural.webp"
-  alt: "Macacos de Berberia en la reserva natural del Penon de Gibraltar"
-- src: "/images/actividades/malaga/gibraltar/dos-macacos-descansando.webp"
-  alt: "Dos macacos descansando en el Penon de Gibraltar"
+- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
+  alt: Macacos de Berberia en la reserva natural del Penon de Gibraltar
+- src: /images/actividades/malaga/gibraltar/dos-macacos-descansando.webp
+  alt: Dos macacos descansando en el Penon de Gibraltar
 - src: /images/actividades/malaga/gibraltar/penon-cresta.webp
   alt: Ridge of the Rock of Gibraltar above the sea
 - src: /images/actividades/malaga/gibraltar/macacos-familia.webp

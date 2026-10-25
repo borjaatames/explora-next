@@ -2,8 +2,7 @@
 titulo: Excursión Privada a Alcalá de Henares y Bodega desde Madrid
 slug: excursion-alcala-henares-bodega-privada
 ciudad: madrid
-descripcion: Excursión privada de 6 horas a Alcalá de Henares (Patrimonio UNESCO, cuna de Cervantes) con visita a bodega local
-  y cata de vinos. 4,1/5 sobre 16 reseñas. Operador Naturanda Turismo Ambiental.
+descripcion: Excursión privada de 6 horas a Alcalá de Henares (Patrimonio UNESCO, cuna de Cervantes) con visita a bodega local y cata de vinos. 4,1/5 sobre 16 reseñas. Operador Naturanda Turismo Ambiental.
 slugs:
   es: excursion-alcala-henares-bodega-privada
   en: alcala-henares-winery-private-tour
@@ -34,11 +33,8 @@ noIncluye:
 - Propinas
 - Bebidas extra
 puntoEncuentro:
-  texto: Recogida en Madrid (punto a confirmar por el operador al reservar). Alcalá de Henares está a 40 minutos en autobús
-    desde el centro.
-  descripcionGuia: Es un tour privado, así que la recogida se coordina con el operador al confirmar la reserva — punto exacto
-    a definir según tu alojamiento. Es excursión de medio día (6 horas en total con desplazamientos). Lleva calzado cómodo
-    y ten en cuenta que parte del día estarás en Alcalá andando y parte en bodega.
+  texto: Recogida en Madrid (punto a confirmar por el operador al reservar). Alcalá de Henares está a 40 minutos en autobús desde el centro.
+  descripcionGuia: Es un tour privado, así que la recogida se coordina con el operador al confirmar la reserva — punto exacto a definir según tu alojamiento. Es excursión de medio día (6 horas en total con desplazamientos). Lleva calzado cómodo y ten en cuenta que parte del día estarás en Alcalá andando y parte en bodega.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 12
@@ -63,52 +59,27 @@ informacionImportante:
   - La nota global es 4,1/5 con 4/5 en value for money — algunos viajeros consideran que el precio es alto
   - Hay reseñas negativas puntuales sobre incidencias del operador no resueltas (revisar antes de reservar)
   - La visita a bodega es de 30 minutos solo — el grueso del tour es Alcalá
-accesibilidad: El operador no marca accesibilidad expresa en silla de ruedas. Alcalá tiene casco histórico con adoquinado.
-  Para grupos con movilidad reducida, contacta antes con el operador.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva
-  ahora y paga después».
+accesibilidad: El operador no marca accesibilidad expresa en silla de ruedas. Alcalá tiene casco histórico con adoquinado. Para grupos con movilidad reducida, contacta antes con el operador.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después».
 preguntasFrecuentes:
 - pregunta: ¿Cuánto cuesta exactamente?
-  respuesta: El precio base es de aproximadamente 398-400 euros para grupo de hasta 2 personas (tour privado completo). Para
-    grupos mayores se cotiza aparte. Por pareja sale unos 200 euros por persona; en grupo de 4, baja a unos 100 por persona.
-    Es producto más interesante en grupo de 4-6 que en pareja por economía de escala.
+  respuesta: El precio base es de aproximadamente 398-400 euros para grupo de hasta 2 personas (tour privado completo). Para grupos mayores se cotiza aparte. Por pareja sale unos 200 euros por persona; en grupo de 4, baja a unos 100 por persona. Es producto más interesante en grupo de 4-6 que en pareja por economía de escala.
 - pregunta: ¿Qué se ve en Alcalá de Henares?
-  respuesta: Catedral de los Santos Niños (gótica), Palacete de Laredo, Calle Mayor (la principal del casco histórico) y la
-    Universidad de Alcalá fundada en 1499. Alcalá es Patrimonio UNESCO desde 1998 por su trazado universitario renacentista.
-    La ciudad natal de Cervantes es muy compacta — en 2-3 horas se ve bien.
+  respuesta: Catedral de los Santos Niños (gótica), Palacete de Laredo, Calle Mayor (la principal del casco histórico) y la Universidad de Alcalá fundada en 1499. Alcalá es Patrimonio UNESCO desde 1998 por su trazado universitario renacentista. La ciudad natal de Cervantes es muy compacta — en 2-3 horas se ve bien.
 - pregunta: ¿La bodega merece la pena?
-  respuesta: La parada en bodega es de 30 minutos según el itinerario oficial — visita corta a la cava con explicación del
-    proceso de elaboración y cata final. Si tu interés principal es vinos, hay tours específicos solo de bodegas Madrid (Ribera
-    del Duero, por ejemplo) más completos. Aquí la bodega es complemento al recorrido cultural.
+  respuesta: La parada en bodega es de 30 minutos según el itinerario oficial — visita corta a la cava con explicación del proceso de elaboración y cata final. Si tu interés principal es vinos, hay tours específicos solo de bodegas Madrid (Ribera del Duero, por ejemplo) más completos. Aquí la bodega es complemento al recorrido cultural.
 - pregunta: ¿Por qué solo 16 reseñas?
-  respuesta: 'Es producto privado, por tanto vende menos volumen que tours en grupo. Las reseñas son mixtas: nota global 4,1/5
-    con algunas críticas puntuales (un viajero con incidencia no resuelta, otro con precio elevado para grupo de 2). Es producto
-    MENOS validado por volumen — si la flexibilidad y el tour privado son críticos para ti, valóralo; si quieres certezas
-    de tour masivo, mira la versión en grupo (también de Alcalá + bodega) con más reseñas.'
+  respuesta: 'Es producto privado, por tanto vende menos volumen que tours en grupo. Las reseñas son mixtas: nota global 4,1/5 con algunas críticas puntuales (un viajero con incidencia no resuelta, otro con precio elevado para grupo de 2). Es producto MENOS validado por volumen — si la flexibilidad y el tour privado son críticos para ti, valóralo; si quieres certezas de tour masivo, mira la versión en grupo (también de Alcalá + bodega) con más reseñas.'
 - pregunta: ¿Hay alternativa en grupo más barata?
-  respuesta: Sí. Existe la versión NO privada de Alcalá + bodega con cata en GetYourGuide a precio por persona (en torno a
-    95 euros). Tiene más reseñas y rating algo mejor. La versión privada que cubrimos aquí solo tiene sentido si quieres flexibilidad
-    total de horarios, grupo cerrado o atención exclusiva del guía.
+  respuesta: Sí. Existe la versión NO privada de Alcalá + bodega con cata en GetYourGuide a precio por persona (en torno a 95 euros). Tiene más reseñas y rating algo mejor. La versión privada que cubrimos aquí solo tiene sentido si quieres flexibilidad total de horarios, grupo cerrado o atención exclusiva del guía.
 variantes: []
-opinionEditorial: 'Es el tour privado a Alcalá de Henares con bodega de Naturanda Turismo Ambiental: 4,1/5 sobre apenas 16
-  reseñas — volumen MUY BAJO de validación. La nota global es media-alta pero hay críticas puntuales operativas (incidencias
-  sin resolver, precio percibido como alto). El precio es de unos 398-400 euros para grupo de hasta 2 personas (tour privado
-  completo), lo que en pareja sale 199 euros por persona; en grupo de 4-6 baja sensiblemente la cuota individual. Para 2 personas
-  es caro respecto al valor del recorrido.
+opinionEditorial: 'Es el tour privado a Alcalá de Henares con bodega de Naturanda Turismo Ambiental: 4,1/5 sobre apenas 16 reseñas — volumen MUY BAJO de validación. La nota global es media-alta pero hay críticas puntuales operativas (incidencias sin resolver, precio percibido como alto). El precio es de unos 398-400 euros para grupo de hasta 2 personas (tour privado completo), lo que en pareja sale 199 euros por persona; en grupo de 4-6 baja sensiblemente la cuota individual. Para 2 personas es caro respecto al valor del recorrido.
 
 
-  Lo que conviene saber. Primero, este es un PRODUCTO POCO VALIDADO — 16 reseñas es muy poco para tomar decisiones con seguridad.
-  Existe la versión en GRUPO del mismo Alcalá + bodega (otro producto de GetYourGuide, no este) con 65 reseñas, 4,3/5 y precio
-  por persona en torno a 95 euros — esa es la opción razonable salvo que necesites tour privado expresamente. Segundo, el
-  itinerario es desproporcionado: 2-3 horas en Alcalá, 30 minutos solo en bodega. Si quieres tour serio de vinos, contrata
-  un tour específico de bodegas (mejor Ribera del Duero o bodegas Madrid región).
+  Lo que conviene saber. Primero, este es un PRODUCTO POCO VALIDADO — 16 reseñas es muy poco para tomar decisiones con seguridad. Existe la versión en GRUPO del mismo Alcalá + bodega (otro producto de GetYourGuide, no este) con 65 reseñas, 4,3/5 y precio por persona en torno a 95 euros — esa es la opción razonable salvo que necesites tour privado expresamente. Segundo, el itinerario es desproporcionado: 2-3 horas en Alcalá, 30 minutos solo en bodega. Si quieres tour serio de vinos, contrata un tour específico de bodegas (mejor Ribera del Duero o bodegas Madrid región).
 
 
-  Para quién: grupos cerrados de 4-6 personas que quieran flexibilidad total y atención exclusiva del guía, viajeros con tiempo
-  limitado que quieran combinar Alcalá + bodega en medio día sin coordinar transporte por libre. Para quién NO: parejas que
-  quieran ahorrar (la versión en grupo cuesta menos de la mitad por persona), viajeros que valoren validación social masiva
-  (16 reseñas es poco), aficionados serios al vino (la parada en bodega es corta), y quienes prefieran Alcalá por libre (es
-  fácil con Cercanías RENFE desde Madrid en 30 min por menos de 5 euros).
+  Para quién: grupos cerrados de 4-6 personas que quieran flexibilidad total y atención exclusiva del guía, viajeros con tiempo limitado que quieran combinar Alcalá + bodega en medio día sin coordinar transporte por libre. Para quién NO: parejas que quieran ahorrar (la versión en grupo cuesta menos de la mitad por persona), viajeros que valoren validación social masiva (16 reseñas es poco), aficionados serios al vino (la parada en bodega es corta), y quienes prefieran Alcalá por libre (es fácil con Cercanías RENFE desde Madrid en 30 min por menos de 5 euros).
 
   '
 atraccionesRelacionadas:
@@ -120,31 +91,32 @@ keywords:
 - alcala bodega cata vino
 - excursion cervantes alcala
 - tour patrimonio unesco madrid
-imagen: "/images/actividades/madrid/alcala-henares/alcala-universidad-san-ildefonso-fachada.webp"
-imagenAlt: "Fachada plateresca del Colegio Mayor de San Ildefonso, Universidad de Alcalá"
+imagen: /images/actividades/madrid/alcala-henares/alcala-universidad-san-ildefonso-fachada.webp
+imagenAlt: Fachada plateresca del Colegio Mayor de San Ildefonso, Universidad de Alcalá
 galeria:
-- src: "/images/actividades/madrid/alcala-henares/alcala-calle-mayor-soportales.webp"
-  alt: "Calle Mayor de Alcalá de Henares con sus soportales"
-- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
-  alt: "Vino tinto sirviéndose durante la cata en la bodega"
-- src: "/images/actividades/madrid/alcala-henares/alcala-casa-natal-cervantes.webp"
-  alt: "Museo Casa Natal de Cervantes con las estatuas de Don Quijote y Sancho Panza"
-- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
-  alt: "Barricas de vino en una bodega"
-- src: "/images/actividades/madrid/alcala-henares/alcala-plaza-cervantes.webp"
-  alt: "Plaza de Cervantes, centro de Alcalá de Henares"
-- src: "/images/actividades/madrid/alcala-henares/alcala-universidad-jardin.webp"
-  alt: "Universidad de Alcalá vista desde la plaza de San Diego"
-- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
-  alt: "Copas de vino en la cata"
-- src: "/images/actividades/madrid/alcala-henares/alcala-torre-ciguenas.webp"
-  alt: "Nidos de cigüeña en una espadaña de Alcalá de Henares, Patrimonio de la Humanidad"
+- src: /images/actividades/madrid/alcala-henares/alcala-calle-mayor-soportales.webp
+  alt: Calle Mayor de Alcalá de Henares con sus soportales
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
+  alt: Vino tinto sirviéndose durante la cata en la bodega
+- src: /images/actividades/madrid/alcala-henares/alcala-casa-natal-cervantes.webp
+  alt: Museo Casa Natal de Cervantes con las estatuas de Don Quijote y Sancho Panza
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
+  alt: Barricas de vino en una bodega
+- src: /images/actividades/madrid/alcala-henares/alcala-plaza-cervantes.webp
+  alt: Plaza de Cervantes, centro de Alcalá de Henares
+- src: /images/actividades/madrid/alcala-henares/alcala-universidad-jardin.webp
+  alt: Universidad de Alcalá vista desde la plaza de San Diego
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Copas de vino en la cata
+- src: /images/actividades/madrid/alcala-henares/alcala-torre-ciguenas.webp
+  alt: Nidos de cigüeña en una espadaña de Alcalá de Henares, Patrimonio de la Humanidad
 ratingProveedor: 4.1
 numeroOpiniones: 16
 publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+privada: true
 ---
 
 ## Qué vas a ver

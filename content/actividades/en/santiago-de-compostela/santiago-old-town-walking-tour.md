@@ -63,7 +63,7 @@ opinionEditorial: 'For €10 you get an official guide showing you the city for 
 guiasRelacionadas:
 - santiago-in-one-day
 - camino-de-santiago-last-100-km
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - santiago old town tour
 - free tour santiago de compostela
@@ -85,7 +85,7 @@ galeria:
 - src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
   alt: The Romanesque Praterías doorway
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Steps and gardens of Alameda Park in Santiago"
+  alt: Steps and gardens of Alameda Park in Santiago
 ratingProveedor: 4.8
 numeroOpiniones: 356
 atraccionesRelacionadas:

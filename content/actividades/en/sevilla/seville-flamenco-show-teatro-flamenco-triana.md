@@ -2,9 +2,7 @@
 titulo: 'Seville: Flamenco Show at Teatro Flamenco Triana (Gypsy Cradle of Flamenco)'
 slug: seville-flamenco-show-teatro-flamenco-triana
 ciudad: sevilla
-descripcion: 1-hour flamenco show at Teatro Flamenco Triana — in the historic gypsy cradle neighborhood of Spanish flamenco.
-  4,363 reviews at 4.7/5. Beautiful theater with comfortable seats, large stage for elaborate dance. From €25. The option
-  to experience flamenco in its authentic neighborhood context (other side of the Guadalquivir).
+descripcion: 1-hour flamenco show at Teatro Flamenco Triana — in the historic gypsy cradle neighborhood of Spanish flamenco. 4,363 reviews at 4.7/5. Beautiful theater with comfortable seats, large stage for elaborate dance. From €25. The option to experience flamenco in its authentic neighborhood context (other side of the Guadalquivir).
 slugs:
   es: teatro-flamenco-triana-show-en-directo
   en: seville-flamenco-show-teatro-flamenco-triana
@@ -36,14 +34,8 @@ noIncluye:
 - Transport to Triana
 - Gratuities
 puntoEncuentro:
-  texto: Teatro Flamenco Triana is in the **Triana neighborhood**, on the other side of the Guadalquivir river from the historic
-    center. Crossing the Triana Bridge or San Telmo Bridge it's a 10-15 min walk from the Cathedral. Verify the exact address
-    in the voucher.
-  descripcionGuia: 'From the center: cross the **Triana Bridge** (the most famous, 1852 forged iron) or the **San Telmo Bridge**
-    (further south, better to reach the theater). Walking from the Cathedral: 15-20 min via Plaza de Cuba. Metro: Plaza de
-    Cuba station (line 1, 5 min walk to the theater). Bus: lines 5, 6, 40, 43 stop in Triana. Arrive 20-30 min early to
-    collect your seat number at the box office. **Combine the visit with a previous walk along Calle
-    Betis** (spectacular views of the old town + Torre del Oro) or through the Triana Market.'
+  texto: Teatro Flamenco Triana is in the **Triana neighborhood**, on the other side of the Guadalquivir river from the historic center. Crossing the Triana Bridge or San Telmo Bridge it's a 10-15 min walk from the Cathedral. Verify the exact address in the voucher.
+  descripcionGuia: 'From the center: cross the **Triana Bridge** (the most famous, 1852 forged iron) or the **San Telmo Bridge** (further south, better to reach the theater). Walking from the Cathedral: 15-20 min via Plaza de Cuba. Metro: Plaza de Cuba station (line 1, 5 min walk to the theater). Bus: lines 5, 6, 40, 43 stop in Triana. Arrive 20-30 min early to collect your seat number at the box office. **Combine the visit with a previous walk along Calle Betis** (spectacular views of the old town + Torre del Oro) or through the Triana Market.'
   latitud: 37.3833
   longitud: -6.0006
   zoom: 16
@@ -64,86 +56,40 @@ informacionImportante:
   - Anyone seeking 2-row intimacy (Casa de la Memoria is better)
   - Anyone wanting dinner included with show (Tablao El Arenal)
   aTenerEnCuenta:
-  - Triana is the **historic gypsy cradle of flamenco** — Calle Castilla, Cava de los Gitanos, Plaza de Santa Ana are references
-    of Spanish flamenco
+  - Triana is the **historic gypsy cradle of flamenco** — Calle Castilla, Cava de los Gitanos, Plaza de Santa Ana are references of Spanish flamenco
   - Photos and video are not allowed during the show
   - Children under 6 are not admitted
   - Multiple daily sessions — verify availability when booking
   - 'Combine with previous walk: Calle Betis (riverbank with old town views), Triana Market (gastronomy), Capilla del Carmen'
   - 'After the show: Triana has dozens of authentic tapas bars in Plaza del Altozano and Calle Betis'
   - Seats are numbered and assigned in order of purchase; collect your seat number at the box office
-accesibilidad: Teatro Flamenco Triana is usually marked as accessible — verify when booking. Triana's pedestrian streets have
-  mostly regular floor (not as many cobblestones as Barrio Santa Cruz). The Triana Bridge is accessible on foot and by wheelchair.
-  If you need confirmed accessibility, contact the operator when booking.
-politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late
-  arrivals: the show starts on time; past 10 min entry may not be allowed (at staff discretion). Date changes subject to availability.'
+accesibilidad: Teatro Flamenco Triana is usually marked as accessible — verify when booking. Triana's pedestrian streets have mostly regular floor (not as many cobblestones as Barrio Santa Cruz). The Triana Bridge is accessible on foot and by wheelchair. If you need confirmed accessibility, contact the operator when booking.
+politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late arrivals: the show starts on time; past 10 min entry may not be allowed (at staff discretion). Date changes subject to availability.'
 preguntasFrecuentes:
 - pregunta: Why is Triana important for flamenco?
-  respuesta: '**Triana is the gypsy cradle of Spanish flamenco.** Historically, the Triana neighborhood (on the other side
-    of the Guadalquivir) was inhabited by Andalusian gypsies from the 15th century — those Sevillian gypsies were the ones
-    who gave shape to modern flamenco between the 18th and 19th centuries. Streets like **Calle Castilla**, **Cava de los
-    Gitanos** and **Plaza de Santa Ana** are references of Spanish flamenco, places where flamenco was sung and danced in
-    patios and tenement courtyards. Great flamenco names came from Triana: the **Sordera de Jerez** family, **Lola Flores**
-    (although from Jerez, trained in Seville), **Manolo Caracol**. Today Triana remains a neighborhood with its own identity
-    — authentic tapas bars, peñas flamencas (flamenco fan clubs), Marian chapels. Watching flamenco IN Triana adds neighborhood
-    context to the show — flamenco in its place of origin vs. flamenco as tourist spectacle in the historic center.'
+  respuesta: '**Triana is the gypsy cradle of Spanish flamenco.** Historically, the Triana neighborhood (on the other side of the Guadalquivir) was inhabited by Andalusian gypsies from the 15th century — those Sevillian gypsies were the ones who gave shape to modern flamenco between the 18th and 19th centuries. Streets like **Calle Castilla**, **Cava de los Gitanos** and **Plaza de Santa Ana** are references of Spanish flamenco, places where flamenco was sung and danced in patios and tenement courtyards. Great flamenco names came from Triana: the **Sordera de Jerez** family, **Lola Flores** (although from Jerez, trained in Seville), **Manolo Caracol**. Today Triana remains a neighborhood with its own identity — authentic tapas bars, peñas flamencas (flamenco fan clubs), Marian chapels. Watching flamenco IN Triana adds neighborhood context to the show — flamenco in its place of origin vs. flamenco as tourist spectacle in the historic center.'
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
-  respuesta: '**Teatro Flamenco Triana (this):** Theater in the gypsy cradle neighborhood of flamenco, 4,363 reviews 4.7/5,
-    from €25. RECOMMENDED if you want the historic flamenco neighborhood atmosphere (Calle Betis walk included). **Teatro
-    Flamenco Sevilla:** Large theater on Calle Cuna (historic centre), maximum volume (18,292 reviews), from €25. RECOMMENDED if you
-    want most booked + central + affordable. **Casa de la Memoria:** 16th-c. patio in historic center, MAXIMUM INTIMACY (2
-    rows), 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum intimacy. **Museo del Baile Flamenco:** 18th-c.
-    Ecija patio + Cristina Hoyos, 6,456 reviews 4.8/5, from €32. RECOMMENDED if you''re interested in iconic artistic quality.
-    **Tablao El Arenal:** 17th-c. building next to Maestranza, 50 years, dinner option, from €48. RECOMMENDED if you want
-    tradition + dinner.'
+  respuesta: '**Teatro Flamenco Triana (this):** Theater in the gypsy cradle neighborhood of flamenco, 4,363 reviews 4.7/5, from €25. RECOMMENDED if you want the historic flamenco neighborhood atmosphere (Calle Betis walk included). **Teatro Flamenco Sevilla:** Large theater on Calle Cuna (historic centre), maximum volume (18,292 reviews), from €25. RECOMMENDED if you want most booked + central + affordable. **Casa de la Memoria:** 16th-c. patio in historic center, MAXIMUM INTIMACY (2 rows), 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum intimacy. **Museo del Baile Flamenco:** 18th-c. Ecija patio + Cristina Hoyos, 6,456 reviews 4.8/5, from €32. RECOMMENDED if you''re interested in iconic artistic quality. **Tablao El Arenal:** 17th-c. building next to Maestranza, 50 years, dinner option, from €48. RECOMMENDED if you want tradition + dinner.'
 - pregunta: Is it worth going to Triana just to see flamenco?
-  respuesta: '**Yes, if you have cultural interest in the neighborhood.** Triana is NOT far — 15-20 min walking from the Cathedral
-    or 5 min by metro (Plaza de Cuba station). The plus of going to Triana is: (1) seeing the cradle neighborhood of flamenco
-    (historical context), (2) combining with a walk along **Calle Betis** (riverbank with spectacular views of the illuminated
-    old town), (3) dining afterwards at authentic bars in Plaza del Altozano (without the tourist crowds of Barrio Santa Cruz),
-    (4) visiting the **Capilla del Carmen** (sailor chapel at the end of the Triana Bridge). If you only want to see flamenco
-    and return to the hotel, central venues (Teatro Flamenco Sevilla, Casa de la Memoria) are more practical. If you want
-    to «live Seville», Triana + show is a more complete experience.'
+  respuesta: '**Yes, if you have cultural interest in the neighborhood.** Triana is NOT far — 15-20 min walking from the Cathedral or 5 min by metro (Plaza de Cuba station). The plus of going to Triana is: (1) seeing the cradle neighborhood of flamenco (historical context), (2) combining with a walk along **Calle Betis** (riverbank with spectacular views of the illuminated old town), (3) dining afterwards at authentic bars in Plaza del Altozano (without the tourist crowds of Barrio Santa Cruz), (4) visiting the **Capilla del Carmen** (sailor chapel at the end of the Triana Bridge). If you only want to see flamenco and return to the hotel, central venues (Teatro Flamenco Sevilla, Casa de la Memoria) are more practical. If you want to «live Seville», Triana + show is a more complete experience.'
 - pregunta: How do I combine with dinner in Triana?
-  respuesta: 'Triana has top gastronomy, especially around **Calle Betis** (with river views) and **Plaza del Altozano**.
-    Recommendations: **Casa Cuesta** (Triana classic since 1880, tapas and meat), **Las Golondrinas** (specialized in fish
-    and seafood), **La Antigua Abacería** (Andalusian products), **El Sardinero** (simple authentic seafront bar). For 7-8
-    PM show session, dine 5-6:30 PM. For 9-10 PM session, dine 7-8:30 PM. The night show exit leaves you perfectly placed
-    to have a last drink in the Calle Betis area or walk back over the illuminated Triana Bridge.'
+  respuesta: 'Triana has top gastronomy, especially around **Calle Betis** (with river views) and **Plaza del Altozano**. Recommendations: **Casa Cuesta** (Triana classic since 1880, tapas and meat), **Las Golondrinas** (specialized in fish and seafood), **La Antigua Abacería** (Andalusian products), **El Sardinero** (simple authentic seafront bar). For 7-8 PM show session, dine 5-6:30 PM. For 9-10 PM session, dine 7-8:30 PM. The night show exit leaves you perfectly placed to have a last drink in the Calle Betis area or walk back over the illuminated Triana Bridge.'
 - pregunta: Are there other flamenco options in Triana besides this theater?
-  respuesta: Yes, Triana has several flamenco options beyond this theater. The peñas flamencas (fan clubs) like **Peña Sevillana
-    El Cabal** or **Casa Anselma** offer flamenco in a very authentic but less touristy format — the audience is mostly local,
-    there's no fixed schedule, depends on when the singer feels inspired. For visitors with deep interest in flamenco and
-    sufficient Spanish knowledge, the peñas are a unique experience; for standard tourist visitors, this Teatro Flamenco Triana
-    is the option that combines Triana atmosphere + guaranteed professional quality.
+  respuesta: Yes, Triana has several flamenco options beyond this theater. The peñas flamencas (fan clubs) like **Peña Sevillana El Cabal** or **Casa Anselma** offer flamenco in a very authentic but less touristy format — the audience is mostly local, there's no fixed schedule, depends on when the singer feels inspired. For visitors with deep interest in flamenco and sufficient Spanish knowledge, the peñas are a unique experience; for standard tourist visitors, this Teatro Flamenco Triana is the option that combines Triana atmosphere + guaranteed professional quality.
 variantes:
 - nombre: General admission
   descripcion: Show entry with a numbered seat assigned in order of purchase.
   precio: 25
-opinionEditorial: '**Flamenco in the cradle neighborhood of Spanish flamenco** — Triana, on the other side of the Guadalquivir
-  river, was historically inhabited by Andalusian gypsies from the 15th century. Sevillian gypsies were the ones who gave
-  shape to modern flamenco between the 18th and 19th centuries. Streets like Castilla, Cava de los Gitanos and Plaza de Santa
-  Ana remain references of Spanish flamenco. Watching flamenco IN Triana adds a neighborhood context that the historic center
-  can''t give.
+opinionEditorial: '**Flamenco in the cradle neighborhood of Spanish flamenco** — Triana, on the other side of the Guadalquivir river, was historically inhabited by Andalusian gypsies from the 15th century. Sevillian gypsies were the ones who gave shape to modern flamenco between the 18th and 19th centuries. Streets like Castilla, Cava de los Gitanos and Plaza de Santa Ana remain references of Spanish flamenco. Watching flamenco IN Triana adds a neighborhood context that the historic center can''t give.
 
 
-  **4,363 reviews at 4.7/5** confirm the show''s quality — equivalent to Teatro Flamenco Sevilla (4.7/5) and above some other
-  tablaos. The lower volume (4,363 vs. 18,292 of Teatro Flamenco Sevilla) reflects that Triana is outside the historic center
-  and many tourists choose central for convenience, not quality.
+  **4,363 reviews at 4.7/5** confirm the show''s quality — equivalent to Teatro Flamenco Sevilla (4.7/5) and above some other tablaos. The lower volume (4,363 vs. 18,292 of Teatro Flamenco Sevilla) reflects that Triana is outside the historic center and many tourists choose central for convenience, not quality.
 
 
-  **Price comparison:** from €25 it has **the lowest starting price** of Seville''s 5 major flamenco venues (vs. Casa de la
-  Memoria €26, Teatro Flamenco Sevilla €25, Museo del Baile Flamenco €32, Tablao El Arenal €48). On top of that you get the
-  Triana experience, comfortable seats in a beautiful theater and an easy combination with a Calle Betis walk.
+  **Price comparison:** from €25 it has **the lowest starting price** of Seville''s 5 major flamenco venues (vs. Casa de la Memoria €26, Teatro Flamenco Sevilla €25, Museo del Baile Flamenco €32, Tablao El Arenal €48). On top of that you get the Triana experience, comfortable seats in a beautiful theater and an easy combination with a Calle Betis walk.
 
 
-  **Who it''s for:** visitors with **cultural interest** in the cradle neighborhood of flamenco, travellers wanting to **combine
-  with Calle Betis walk** (old town views + Torre del Oro), couples preferring authentic atmosphere without tourist crowds
-  (Triana is less saturated than Santa Cruz), gourmets wanting to dine afterwards at authentic Triana bars (Casa Cuesta, Las
-  Golondrinas, Plaza del Altozano), travellers with 2-3 days in Seville who have already seen a central flamenco and want
-  to add context. **Who it''s NOT for:** 1-day visitors prioritizing central location (Teatro Flamenco Sevilla or Casa de
-  la Memoria), those seeking 2-row intimacy (Casa de la Memoria), those wanting dinner included (Tablao El Arenal), those wanting Cristina Hoyos iconic
-  artistic quality (Museo del Baile Flamenco).
+  **Who it''s for:** visitors with **cultural interest** in the cradle neighborhood of flamenco, travellers wanting to **combine with Calle Betis walk** (old town views + Torre del Oro), couples preferring authentic atmosphere without tourist crowds (Triana is less saturated than Santa Cruz), gourmets wanting to dine afterwards at authentic Triana bars (Casa Cuesta, Las Golondrinas, Plaza del Altozano), travellers with 2-3 days in Seville who have already seen a central flamenco and want to add context. **Who it''s NOT for:** 1-day visitors prioritizing central location (Teatro Flamenco Sevilla or Casa de la Memoria), those seeking 2-row intimacy (Casa de la Memoria), those wanting dinner included (Tablao El Arenal), those wanting Cristina Hoyos iconic artistic quality (Museo del Baile Flamenco).
 
   '
 atraccionesRelacionadas:
@@ -155,27 +101,27 @@ keywords:
 - flamenco gypsy neighborhood seville
 - calle betis flamenco
 - flamenco show other side of river
-imagen: "/images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-bailaora-cuadro-escenario.webp"
-imagenAlt: "Dancer and flamenco troupe on the Teatro Flamenco Triana stage"
+imagen: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-bailaora-cuadro-escenario.webp
+imagenAlt: Dancer and flamenco troupe on the Teatro Flamenco Triana stage
 galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-sala-teatro-azul.webp
-  alt: "The blue and gold hall of Teatro Flamenco Triana"
+  alt: The blue and gold hall of Teatro Flamenco Triana
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-patio-butacas-escenario.webp
-  alt: "Stalls and stage of Teatro Flamenco Triana"
+  alt: Stalls and stage of Teatro Flamenco Triana
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-escenario-sillas.webp
-  alt: "Teatro Flamenco Triana stage before the show"
+  alt: Teatro Flamenco Triana stage before the show
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-butacas-azules.webp
-  alt: "Blue seats of Teatro Flamenco Triana"
+  alt: Blue seats of Teatro Flamenco Triana
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-patio-casa.webp
-  alt: "Courtyard of the Seville house that holds the theatre"
+  alt: Courtyard of the Seville house that holds the theatre
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-patio-publico.webp
-  alt: "Audience in the theatre courtyard before the show"
+  alt: Audience in the theatre courtyard before the show
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-terraza.webp
-  alt: "Teatro Flamenco Triana roof terrace"
+  alt: Teatro Flamenco Triana roof terrace
 - src: /images/actividades/sevilla/teatro-flamenco-triana/teatro-flamenco-triana-vistas-giralda.webp
-  alt: "View of the Giralda from the theatre terrace"
+  alt: View of the Giralda from the theatre terrace
 - src: /images/actividades/sevilla/teatro-flamenco-triana-show-en-directo/teatro-flamenco-triana-show-en-directo-barrio-triana-calle-b-hero.webp
-  alt: "Triana street with Guadalquivir River and Seville Cathedral in background, historic gypsy neighborhood atmosphere"
+  alt: Triana street with Guadalquivir River and Seville Cathedral in background, historic gypsy neighborhood atmosphere
 ratingProveedor: 4.7
 numeroOpiniones: 4363
 publicada: true
@@ -183,7 +129,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-seville-which-tablao-to-choose"
+- flamenco-seville-which-tablao-to-choose
 ---
 
 ## What you'll see

@@ -56,10 +56,9 @@ atracciones:
     imagen: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
     imagenAlt: "Die in den Fels gehauene Kapelle von Cueva Bermeja in Guayadeque"
 chipsFiltros:
-  - { label: "Auf dem Meer", tag: "mar" }
-  - { label: "Dünen von Maspalomas", tag: "dunas" }
-  - { label: "Inselinneres und Gipfel", tag: "interior" }
-  - { label: "Inselausflüge", tag: "isla" }
+  - { label: "Dünen von Maspalomas", tag: "maspalomas" }
+  - { label: "Roque Nublo & Gipfel", tag: "roque-nublo" }
+  - { label: "Puerto de Mogán", tag: "mogan" }
 ---
 
 Gran Canaria ist die drittgrößte der Kanarischen Inseln und zusammen mit Teneriffa die bevölkerungsreichste, mit rund **860.000 Einwohnern**, fast die Hälfte davon in der Hauptstadt **Las Palmas de Gran Canaria**. Man nennt sie einen **Kontinent im Kleinformat**, denn auf einer runden Insel von kaum 50 km Durchmesser finden sich Wüste, Kiefernwälder, Schluchten und Gipfel von fast 2.000 Metern. Etwa die Hälfte der Insel ist UNESCO-**Biosphärenreservat**.

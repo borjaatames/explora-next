@@ -67,7 +67,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es la versión diurna y más barata del paseo en catamarán: setenta y cinco minutos para ver el perfil de Cádiz desde el agua. Si puedes elegir hora, la del atardecer tiene más encanto, pero esta es perfecta con niños.'
 guiasRelacionadas:
 - cadiz-en-un-dia
-categoria: excursionesDia
+categoria: agua
 keywords:
 - paseo en barco cadiz
 - catamaran bahia de cadiz

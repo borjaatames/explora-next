@@ -106,7 +106,6 @@ galeria:
   alt: Canarian wrinkled potatoes with red and green mojo
 ratingProveedor: 4.3
 numeroOpiniones: 709
-atraccionesRelacionadas: []
 publicada: true
 destacada: false
 fecha: '2026-10-24'

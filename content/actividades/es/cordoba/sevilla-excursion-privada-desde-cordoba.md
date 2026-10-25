@@ -65,7 +65,6 @@ opinionEditorial: 'Una forma cómoda de ver lo esencial de Sevilla sin cambiar d
 
 
   En pareja sale por unos 397 € por persona; en grupo de 4, unos 191 €, que es donde de verdad compensa. Aún no tiene opiniones publicadas en esta excursión.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - sevilla desde cordoba
@@ -93,6 +92,7 @@ galeria:
   alt: Catedral de Sevilla y la Giralda desde la Plaza Virgen de los Reyes
 bokunProductId: 937865
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

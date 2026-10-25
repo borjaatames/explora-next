@@ -64,8 +64,9 @@ opinionEditorial: 'This tour tells the part of Seville''s story that explains al
 
   The price is per group, €200 for a couple and €280 for four, with an official guide just for you. It''s a good second tour for anyone who''s done the general visit and wants to go deeper.'
 atraccionesRelacionadas:
+- triana
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - seville age of discovery tour
 - seville gateway to the americas tour
@@ -91,6 +92,8 @@ galeria:
   alt: Guadalquivir riverbank with the Torre del Oro in the distance
 bokunProductId: 1156777
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

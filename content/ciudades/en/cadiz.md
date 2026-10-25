@@ -52,10 +52,10 @@ atracciones:
     imagen: "/images/atracciones/cadiz/tarifa.webp"
     imagenAlt: "Kitesurfing kites over a beach in Tarifa"
 chipsFiltros:
-  - { label: "Boat trips", tag: "barco" }
-  - { label: "Old Town", tag: "centro-historico" }
-  - { label: "Jerez: horses and wine", tag: "jerez" }
+  - { label: "Old town", tag: "casco-antiguo" }
+  - { label: "Jerez", tag: "jerez" }
   - { label: "White villages", tag: "pueblos-blancos" }
+  - { label: "Seville", tag: "sevilla" }
 ---
 
 Cádiz is the southernmost provincial capital in mainland Spain —around 110,000 people— and, by tradition, the **oldest inhabited city in the West**, founded by the Phoenicians more than 3,000 years ago. Almost surrounded by sea on a narrow peninsula, it has a light and character all its own.

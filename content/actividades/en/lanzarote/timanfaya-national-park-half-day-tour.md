@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Lanzarote: Timanfaya National Park half-day tour'
 slug: timanfaya-national-park-half-day-tour
 ciudad: lanzarote
@@ -32,8 +32,8 @@ incluye:
 noIncluye:
 - Camel ride (optional, paid in cash on site)
 puntoEncuentro:
-  texto: 'Pickup from hotels and set points across Lanzarote, including Playa Blanca, Puerto del Carmen and Costa Teguise.'
-  descripcionGuia: 'When booking you choose your pickup point from more than forty; the exact time depends on the area. There may be a logistics stop in Yaiza to sort groups onto the coaches.'
+  texto: Pickup from hotels and set points across Lanzarote, including Playa Blanca, Puerto del Carmen and Costa Teguise.
+  descripcionGuia: When booking you choose your pickup point from more than forty; the exact time depends on the area. There may be a logistics stop in Yaiza to sort groups onto the coaches.
   latitud: 28.97
   longitud: -13.68
   zoom: 10
@@ -59,13 +59,13 @@ accesibilidad: Non-folding and electric wheelchairs are not allowed; the ground 
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Is Timanfaya entry included?
-  respuesta: 'Yes. It includes the Fire Mountains ticket, which costs €30 on its own and is now sold online only, for a set time.'
+  respuesta: Yes. It includes the Fire Mountains ticket, which costs €30 on its own and is now sold online only, for a set time.
 - pregunta: Can you walk among the volcanoes?
-  respuesta: 'No. Inside the National Park you can only tour the Volcano Route by coach; on foot, only around Islote de Hilario.'
+  respuesta: No. Inside the National Park you can only tour the Volcano Route by coach; on foot, only around Islote de Hilario.
 - pregunta: How much is the camel ride?
-  respuesta: 'It''s optional, lasts about 30 minutes and is paid in cash at the camel station. GetYourGuide doesn''t publish the price.'
+  respuesta: It's optional, lasts about 30 minutes and is paid in cash at the camel station. GetYourGuide doesn't publish the price.
 - pregunta: What if the park is closed?
-  respuesta: 'If it closes for reasons beyond the operator''s control, the trip visits the Timanfaya visitor and interpretation centre instead.'
+  respuesta: If it closes for reasons beyond the operator's control, the trip visits the Timanfaya visitor and interpretation centre instead.
 opinionEditorial: 'It makes most sense if you''re not hiring a car: for €59 you get transport plus a ticket that already costs €30 and has to be booked for a time slot. With a car, going early on your own is cheaper. Its score (4.4) is a little lower than other island trips, with value for money the weakest point; expect a fair amount of coach time and logistics stops.'
 guiasRelacionadas:
 - visiting-timanfaya
@@ -80,19 +80,20 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: The Volcano Route coach among craters in Timanfaya
 galeria:
-- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp"
-  alt: "Camel caravan on the slopes of Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp"
-  alt: "Camels crossing the volcanic ash of Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/timanfaya-lava.webp"
-  alt: "Lava field and volcanoes in Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/volcan-rojo.webp"
-  alt: "A red-earth volcano in Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/camellos-echadero.webp"
-  alt: "Camels waiting for visitors at the Timanfaya camel station"
+- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
+  alt: Camel caravan on the slopes of Timanfaya
+- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp
+  alt: Camels crossing the volcanic ash of Timanfaya
+- src: /images/actividades/lanzarote/zonas/timanfaya-lava.webp
+  alt: Lava field and volcanoes in Timanfaya
+- src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
+  alt: A red-earth volcano in Timanfaya
+- src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
+  alt: Camels waiting for visitors at the Timanfaya camel station
 ratingProveedor: 4.4
 numeroOpiniones: 2855
 atraccionesRelacionadas:
+- timanfaya
 - volcanes
 publicada: true
 destacada: false

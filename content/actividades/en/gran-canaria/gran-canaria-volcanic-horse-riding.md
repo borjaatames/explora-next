@@ -72,7 +72,7 @@ opinionEditorial: 'A gentler alternative to the buggy for seeing the arid inland
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - roque-nublo-hike
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - horse riding gran canaria
 - horse riding maspalomas

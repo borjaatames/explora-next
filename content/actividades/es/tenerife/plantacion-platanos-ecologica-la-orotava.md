@@ -1,38 +1,38 @@
 ---
-titulo: "La Orotava: plantación ecológica de plátanos con cata"
-slug: "plantacion-platanos-ecologica-la-orotava"
-ciudad: "tenerife"
-descripcion: "Visita guiada de 50 minutos a una finca ecológica de plátanos en La Orotava con sus dueños, cata de plátanos y chupito de licor de plátano. 4,7/5 en GYG."
+titulo: 'La Orotava: plantación ecológica de plátanos con cata'
+slug: plantacion-platanos-ecologica-la-orotava
+ciudad: tenerife
+descripcion: Visita guiada de 50 minutos a una finca ecológica de plátanos en La Orotava con sus dueños, cata de plátanos y chupito de licor de plátano. 4,7/5 en GYG.
 slugs:
-  es: "plantacion-platanos-ecologica-la-orotava"
-  en: "organic-banana-plantation-tour-la-orotava"
-duracion: "50 minutos"
+  es: plantacion-platanos-ecologica-la-orotava
+  en: organic-banana-plantation-tour-la-orotava
+duracion: 50 minutos
 duracionMinutos: 50
 precioDesde: 20
-moneda: "EUR"
+moneda: EUR
 idiomas:
-  - "es"
-  - "en"
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/es-es/tenerife-l350/tour-ecologico-por-una-plantacion-de-platanos-con-cata-de-platanos-y-licor-t450055/?partner_id=C71NOAW"
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/tour-ecologico-por-una-plantacion-de-platanos-con-cata-de-platanos-y-licor-t450055/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-  - "Paseo entre las hileras de plataneras"
-  - "Los propietarios explican el cultivo ecológico sin pesticidas"
-  - "Cata de plátanos frescos"
-  - "Chupito de licor de plátano"
-  - "Finca casi autosuficiente que produce más de 150.000 kg al año"
+- Paseo entre las hileras de plataneras
+- Los propietarios explican el cultivo ecológico sin pesticidas
+- Cata de plátanos frescos
+- Chupito de licor de plátano
+- Finca casi autosuficiente que produce más de 150.000 kg al año
 incluye:
-  - "Guía"
-  - "Entrada a BananaECOplantation"
-  - "Cata de plátanos"
-  - "Un chupito de licor de plátano"
+- Guía
+- Entrada a BananaECOplantation
+- Cata de plátanos
+- Un chupito de licor de plátano
 noIncluye:
-  - "Recogida en el hotel"
+- Recogida en el hotel
 puntoEncuentro:
-  texto: "BananaECOplantation, carretera de El Rincón, La Orotava."
-  descripcionGuia: "La visita empieza en la propia plantación, en la carretera de El Rincón, entre La Orotava y Puerto de la Cruz."
+  texto: BananaECOplantation, carretera de El Rincón, La Orotava.
+  descripcionGuia: La visita empieza en la propia plantación, en la carretera de El Rincón, entre La Orotava y Puerto de la Cruz.
   latitud: 28.4098
   longitud: -16.5161
   zoom: 16
@@ -44,55 +44,54 @@ detallesPracticos:
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-    - "Calzado cómodo"
-    - "Gorra y protector solar"
+  - Calzado cómodo
+  - Gorra y protector solar
   noAptoPara:
-    - "Mascotas"
+  - Mascotas
   aTenerEnCuenta:
-    - "El licor solo se sirve a mayores de 18 años"
-    - "Solo algunas zonas son accesibles en silla de ruedas y hace falta acompañante"
-    - "La ficha de GYG cita «transporte» entre lo incluido sin detallarlo: no cuentes con recogida"
-accesibilidad: "Parcialmente accesible: algunas zonas admiten silla de ruedas, hay aseos adaptados y es necesario ir con acompañante."
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes, con reembolso íntegro."
+  - El licor solo se sirve a mayores de 18 años
+  - Solo algunas zonas son accesibles en silla de ruedas y hace falta acompañante
+  - 'La ficha de GYG cita «transporte» entre lo incluido sin detallarlo: no cuentes con recogida'
+accesibilidad: 'Parcialmente accesible: algunas zonas admiten silla de ruedas, hay aseos adaptados y es necesario ir con acompañante.'
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
-  - pregunta: "¿Cuánto dura?"
-    respuesta: "Unos 50 minutos, paseo por la finca y cata incluidos."
-  - pregunta: "¿Pueden ir niños?"
-    respuesta: "Sí. Prueban los plátanos; el licor solo se sirve a mayores de 18."
-  - pregunta: "¿Hay recogida?"
-    respuesta: "La ficha no detalla recogida en hotel. Lo práctico es llegar en coche o taxi desde La Orotava o Puerto de la Cruz."
-  - pregunta: "¿En qué idioma es?"
-    respuesta: "En español o en inglés; eliges el idioma al reservar."
-opinionEditorial: "Es un plan corto y barato que encaja bien con una mañana en La Orotava o Puerto de la Cruz, y explica algo que ves por toda la isla sin entenderlo: cómo se cultiva el plátano canario. La valoración del guía es altísima porque lo cuentan los propios dueños. Si no te interesa la agricultura, cincuenta minutos de platanera pueden hacerse largos."
+- pregunta: ¿Cuánto dura?
+  respuesta: Unos 50 minutos, paseo por la finca y cata incluidos.
+- pregunta: ¿Pueden ir niños?
+  respuesta: Sí. Prueban los plátanos; el licor solo se sirve a mayores de 18.
+- pregunta: ¿Hay recogida?
+  respuesta: La ficha no detalla recogida en hotel. Lo práctico es llegar en coche o taxi desde La Orotava o Puerto de la Cruz.
+- pregunta: ¿En qué idioma es?
+  respuesta: En español o en inglés; eliges el idioma al reservar.
+opinionEditorial: 'Es un plan corto y barato que encaja bien con una mañana en La Orotava o Puerto de la Cruz, y explica algo que ves por toda la isla sin entenderlo: cómo se cultiva el plátano canario. La valoración del guía es altísima porque lo cuentan los propios dueños. Si no te interesa la agricultura, cincuenta minutos de platanera pueden hacerse largos.'
 guiasRelacionadas:
-  - "que-ver-en-tenerife"
-categoria: "visitasGuiadas"
+- que-ver-en-tenerife
+categoria: toursGastronomicos
 keywords:
-  - "plantacion platanos tenerife"
-  - "finca platanos la orotava"
-  - "platano de canarias visita"
-  - "banana plantation tenerife"
-  - "que hacer en la orotava"
-imagen: "/images/actividades/tenerife/orotava/valle-plataneras.webp"
-imagenAlt: "Plataneras en el valle de La Orotava"
+- plantacion platanos tenerife
+- finca platanos la orotava
+- platano de canarias visita
+- banana plantation tenerife
+- que hacer en la orotava
+imagen: /images/actividades/tenerife/orotava/valle-plataneras.webp
+imagenAlt: Plataneras en el valle de La Orotava
 galeria:
-  - src: "/images/actividades/gran-canaria/platano/platanos-racimo.webp"
-    alt: "Racimos de plátano canario en la planta"
-  - src: "/images/actividades/gran-canaria/platano/platanera-hojas.webp"
-    alt: "Plátanos verdes en el racimo"
-  - src: "/images/actividades/tenerife/orotava/valle-orotava.webp"
-    alt: "El valle de La Orotava desde las alturas"
-  - src: "/images/actividades/tenerife/orotava/casa-de-los-balcones.webp"
-    alt: "Casa de los Balcones, en La Orotava"
-  - src: "/images/actividades/tenerife/orotava/balcones-madera.webp"
-    alt: "Balcones de madera tradicionales en La Orotava"
+- src: /images/actividades/gran-canaria/platano/platanos-racimo.webp
+  alt: Racimos de plátano canario en la planta
+- src: /images/actividades/gran-canaria/platano/platanera-hojas.webp
+  alt: Plátanos verdes en el racimo
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: El valle de La Orotava desde las alturas
+- src: /images/actividades/tenerife/orotava/casa-de-los-balcones.webp
+  alt: Casa de los Balcones, en La Orotava
+- src: /images/actividades/tenerife/orotava/balcones-madera.webp
+  alt: Balcones de madera tradicionales en La Orotava
 ratingProveedor: 4.7
 numeroOpiniones: 1135
-atraccionesRelacionadas: []
 publicada: true
 destacada: false
-fecha: "2026-10-24"
-fecha_actualizacion: "2026-10-24"
+fecha: '2026-10-24'
+fecha_actualizacion: '2026-10-24'
 ---
 
 ## Qué vas a ver

@@ -71,6 +71,7 @@ guiasRelacionadas:
 - mallorca-with-kids
 - serra-tramuntana-soller
 atraccionesRelacionadas:
+- soller-tramuntana
 - tramuntana
 categoria: excursionesDia
 keywords:
@@ -83,27 +84,27 @@ imagen: /images/actividades/mallorca/soller/tranvia-soller-tranvia.webp
 imagenAlt: Historic Sóller tram in the streets of the town
 galeria:
 - src: /images/actividades/mallorca/soller/tren-soller-anden.webp
-  alt: "Platform at the Sóller train station"
+  alt: Platform at the Sóller train station
 - src: /images/actividades/mallorca/soller/tren-soller-cocheras.webp
-  alt: "Sóller train depot with a wooden carriage"
+  alt: Sóller train depot with a wooden carriage
 - src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
-  alt: "Sóller tram between town buildings"
+  alt: Sóller tram between town buildings
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: "Port de Sóller bay surrounded by mountains"
+  alt: Port de Sóller bay surrounded by mountains
 - src: /images/actividades/mallorca/soller-tren/soller-tren-pixabay-5019050.webp
-  alt: "Sóller wooden train at the station"
+  alt: Sóller wooden train at the station
 - src: /images/actividades/mallorca/soller-tren/soller-tren-wikimedia-majorka-ferrocarril-palma-soller-ab-155-05.webp
-  alt: "Sóller railway station with bougainvillea"
+  alt: Sóller railway station with bougainvillea
 - src: /images/actividades/mallorca/soller-tranvia/soller-tranvia-wikimedia-s-ller-tranvia-de-s-ller-4338-jpg-01.webp
-  alt: "Sóller tram in the village square"
+  alt: Sóller tram in the village square
 - src: /images/actividades/mallorca/soller-tren/soller-tren-pixabay-101997.webp
-  alt: "Port de Sóller with its boats"
+  alt: Port de Sóller with its boats
 - src: /images/actividades/mallorca/soller-tranvia/soller-tranvia-wikimedia-fs-tranvia-24-soller-09-10-2013-fws-01-j-03.webp
-  alt: "Orange Sóller tram"
+  alt: Orange Sóller tram
 - src: /images/actividades/mallorca/soller-tren/soller-tren-pexels-38495607.webp
-  alt: "Port de Sóller bay"
+  alt: Port de Sóller bay
 - src: /images/actividades/mallorca/soller-tranvia/soller-tranvia-wikimedia-tranvia-de-soller-r01-jpg-05.webp
-  alt: "Sóller tram by the promenade"
+  alt: Sóller tram by the promenade
 ratingProveedor: 4.4
 numeroOpiniones: 381
 publicada: true

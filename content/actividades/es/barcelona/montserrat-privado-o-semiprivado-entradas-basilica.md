@@ -70,7 +70,8 @@ opinionEditorial: 'Montserrat en coche con guía es la forma más cómoda de sub
 
 
   La opción semiprivada (desde unos 121 € por persona) es la que mejor sale; la privada, con recogida en el hotel, compensa sobre todo para familias o grupos de 3-4.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- montserrat
 categoria: excursionesDia
 keywords:
 - excursion montserrat con guia

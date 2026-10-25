@@ -84,7 +84,7 @@ opinionEditorial: 'Es el tour nocturno de Big Bus en Madrid: 4,2/5 sobre 977 res
   '
 atraccionesRelacionadas:
 - otros-madrid
-categoria: transporte
+categoria: toursCiudad
 keywords:
 - big bus nocturno madrid
 - madrid noche bus turistico

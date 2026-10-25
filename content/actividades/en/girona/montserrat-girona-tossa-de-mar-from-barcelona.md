@@ -77,6 +77,7 @@ guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 - montserrat-which-excursion-to-choose
 atraccionesRelacionadas:
+- casco-antiguo
 - costa-brava
 categoria: excursionesDia
 keywords:
@@ -88,10 +89,10 @@ keywords:
 imagen: /images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp
 imagenAlt: Montserrat mountain with the monastery set among its rock walls
 galeria:
-- src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-  alt: "Montserrat monastery among the mountains"
-- src: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp"
-  alt: "Montserrat monastery among the mountains"
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Montserrat monastery among the mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero-hero.webp
+  alt: Montserrat monastery among the mountains
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
   alt: Colourful houses above the Onyar river in Girona
 - src: /images/actividades/girona/call-jueu/call-jueu-01.webp
@@ -101,7 +102,7 @@ galeria:
 - src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
   alt: Tossa de Mar seen from above with its rooftops and the sea
 - src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: "Inside Girona's Arab Baths"
+  alt: Inside Girona's Arab Baths
 ratingProveedor: 4.8
 numeroOpiniones: 1971
 publicada: true

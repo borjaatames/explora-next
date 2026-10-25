@@ -94,6 +94,7 @@ galeria:
   alt: Vineyards with mountains behind
 bokunProductId: 938189
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day goes

@@ -69,8 +69,7 @@ opinionEditorial: 'Si llegas a Valencia sin conocer la noche, esto te ahorra aca
 
 
   Cuesta unos 17 € por persona, que es poco para lo que incluye. Lo único: respeta el código de vestimenta de las discotecas o puedes quedarte fuera.'
-atraccionesRelacionadas: []
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - pub crawl valencia
 - fiesta valencia noche

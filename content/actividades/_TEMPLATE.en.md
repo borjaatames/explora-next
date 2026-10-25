@@ -209,7 +209,9 @@ opinionEditorial: |
 # · nocturno     → flamenco, concerts, nightlife
 # · excursion    → day trips from the city
 # · familiar     → kid-focused activities
-categoria: "<cultural|gastronomico|aireLibre|nocturno|excursion|familiar>"
+categoria: "<visitasGuiadas|entradas|toursCiudad|excursionesDia|toursGastronomicos|espectaculos|agua|aventura|parques|nocturno|talleres>"
+# privada: true          # solo para el grupo del cliente (botón «Privados»)
+# precioPorGrupo: true    # el precio «desde» es por grupo
 
 # 5-8 lowercase keywords, no accents or special characters.
 # Mix high-volume generics with high-intent specifics. Use English keywords.

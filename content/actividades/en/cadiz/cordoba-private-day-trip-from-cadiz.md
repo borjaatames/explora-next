@@ -67,7 +67,7 @@ opinionEditorial: 'Córdoba is a long way from Cádiz, about two and a half hour
   It''s a long and pricey day: from about €780 per group for the 8-hour option. If you can, pick the 10-hour version: the extra free time is welcome. No published reviews yet.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba from cadiz
 - cordoba day trip from cadiz
@@ -94,6 +94,8 @@ galeria:
   alt: Travellers in a patio with blue flowerpots
 bokunProductId: 1237810
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

@@ -2,11 +2,11 @@
 titulo: 'Tenerife: Loro Parque + Siam Park combo ticket'
 slug: loro-parque-siam-park-combo
 ciudad: tenerife
-descripcion: "Combined ticket for Loro Parque (best zoo in Europe) and Siam Park (best water park in Europe). Two parks, two days, one price. 4.7/5 with 8,501 reviews."
+descripcion: Combined ticket for Loro Parque (best zoo in Europe) and Siam Park (best water park in Europe). Two parks, two days, one price. 4.7/5 with 8,501 reviews.
 slugs:
   es: loro-parque-siam-park-combinado
   en: loro-parque-siam-park-combo
-duracion: '2 days'
+duracion: 2 days
 duracionMinutos: 960
 precioDesde: 78
 moneda: EUR
@@ -32,7 +32,7 @@ noIncluye:
 - Food and drink
 - Lockers at Siam Park (available for hire)
 puntoEncuentro:
-  texto: "Loro Parque, Av. Loro Parque, s/n, Puerto de la Cruz, Tenerife"
+  texto: Loro Parque, Av. Loro Parque, s/n, Puerto de la Cruz, Tenerife
   descripcionGuia: Loro Parque is in Puerto de la Cruz. Siam Park is on the Costa Adeje, near Los Cristianos. The two parks are on opposite sides of the island (about 1 hour by car or bus). Show your mobile tickets at the entrance to each park.
   latitud: 28.4153
   longitud: -16.5518
@@ -62,10 +62,10 @@ preguntasFrecuentes:
   respuesta: No. The combo ticket gives you one day at each park, which you can use on different days within the validity period. Check the ticket terms when you book for the exact validity window.
 - pregunta: Is Loro Parque ethical?
   respuesta: Loro Parque maintains its own conservation foundation (Loro Parque Fundación) and funds conservation programmes for wild parrots worldwide. The orca programme has been controversial; visitors should form their own view. The overall quality of the animal facilities is among the highest in any European zoo.
-opinionEditorial: "Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip."
+opinionEditorial: Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip.
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: entradas
+categoria: parques
 keywords:
 - loro parque siam park combo
 - tenerife parks combo ticket
@@ -74,19 +74,20 @@ keywords:
 imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean show at Loro Parque, Puerto de la Cruz, Tenerife
 galeria:
-- src: "/images/actividades/tenerife/loro-siam/leon-marino-nadando.webp"
-  alt: "Sea lion swimming at Loro Parque"
+- src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
+  alt: Sea lion swimming at Loro Parque
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
-  alt: "Dolphin show at Loro Parque, Tenerife"
+  alt: Dolphin show at Loro Parque, Tenerife
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-  alt: "Aerial view of Siam Park water park, Tenerife"
+  alt: Aerial view of Siam Park water park, Tenerife
 - src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: "Penguin colony at Loro Parque"
+  alt: Penguin colony at Loro Parque
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
-  alt: "Thai temple entrance at Siam Park, Tenerife"
+  alt: Thai temple entrance at Siam Park, Tenerife
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:
+- siam-loro
 - parques
 publicada: true
 destacada: true

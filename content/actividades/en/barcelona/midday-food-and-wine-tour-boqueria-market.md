@@ -1,8 +1,8 @@
 ---
-titulo: "Midday Food & Wine Tour with the Boquería Market"
+titulo: Midday Food & Wine Tour with the Boquería Market
 slug: midday-food-and-wine-tour-boqueria-market
 ciudad: barcelona
-descripcion: "Midday food & wine tour through Barcelona's old town: La Boquería Market with a tasting of local cheeses and cured meats, plus tapas and regional wines at 4 wine bars in the Gothic Quarter and El Born. Small group (max 12)."
+descripcion: 'Midday food & wine tour through Barcelona''s old town: La Boquería Market with a tasting of local cheeses and cured meats, plus tapas and regional wines at 4 wine bars in the Gothic Quarter and El Born. Small group (max 12).'
 slugs:
   es: tour-gastronomico-mediodia-boqueria-vinos
   en: midday-food-and-wine-tour-boqueria-market
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 677684
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -48,8 +48,8 @@ informacionImportante:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
-opinionEditorial: "A great way to eat like a local without ending up in a tourist trap: the guide takes you to places you would not find on your own, and the Boquería at midday is at its best. Small group, relaxed pace and real food."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+opinionEditorial: 'A great way to eat like a local without ending up in a tourist trap: the guide takes you to places you would not find on your own, and the Boquería at midday is at its best. Small group, relaxed pace and real food.'
 atraccionesRelacionadas:
 - tapas-barcelona
 categoria: toursGastronomicos
@@ -57,19 +57,19 @@ keywords:
 - barcelona food tour
 - boqueria market tour
 - tapas and wine barcelona
-imagen: "/images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp"
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
 imagenAlt: Barcelona's Boquería Market full of fresh produce stalls
 galeria:
 - src: https://imgcdn.bokun.tools/5d4c20ab-4401-4362-96fe-377b78cac9f2.jpeg
-  alt: "Tour group outside a tapas bar"
+  alt: Tour group outside a tapas bar
 - src: https://imgcdn.bokun.tools/57741ce2-c812-4933-b7f6-0d121cc20550.jpeg
-  alt: "Drinking wine from a porrón in a bodega"
+  alt: Drinking wine from a porrón in a bodega
 - src: https://imgcdn.bokun.tools/4238c556-4b96-4d5a-a7b6-851b459fc661.jpeg
-  alt: "Plate of freshly carved Iberian ham"
+  alt: Plate of freshly carved Iberian ham
 - src: https://imgcdn.bokun.tools/33d1acca-8d37-4951-9f18-12a4164f18ee.jpeg
-  alt: "Guide holding a plate of ham in a tapas bar"
+  alt: Guide holding a plate of ham in a tapas bar
 - src: https://imgcdn.bokun.tools/7157a993-70b2-4ff7-80a2-c7b9030cd867.jpeg
-  alt: "Toasting with wine in a tapas bar"
+  alt: Toasting with wine in a tapas bar
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Iberian ham and charcuterie stall at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-spain-food-market-europe-hero.webp

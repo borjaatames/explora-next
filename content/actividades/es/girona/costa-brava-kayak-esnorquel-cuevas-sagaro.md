@@ -81,7 +81,7 @@ guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 atraccionesRelacionadas:
 - costa-brava
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - kayak costa brava
 - kayak s'agaro
@@ -91,8 +91,8 @@ keywords:
 imagen: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
 imagenAlt: Kayak rojo navegando junto a un islote en aguas transparentes
 galeria:
-- src: "/images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp"
-  alt: "Cala rocosa de aguas turquesas en la Costa Brava"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: Cala rocosa de aguas turquesas en la Costa Brava
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
   alt: Camino de ronda de S'Agaró sobre las rocas de la costa
 - src: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp
@@ -102,9 +102,9 @@ galeria:
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
   alt: Bahía y puerto de Sant Feliu de Guíxols
 - src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: "Acantilados de la Costa Brava junto al mar"
+  alt: Acantilados de la Costa Brava junto al mar
 - src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
-  alt: "Bañistas haciendo esnórquel entre las rocas de una cala"
+  alt: Bañistas haciendo esnórquel entre las rocas de una cala
 ratingProveedor: 4.7
 numeroOpiniones: 1393
 publicada: true

@@ -64,7 +64,7 @@ opinionEditorial: 'Mucha gente conoce Marbella por Puerto Banús y se pierde lo 
   El precio por grupo apenas sube con más gente: 240 € para 1 o 2 personas y 264 € para 4, así que sale mejor cuantos más seáis. Si viajas solo, es caro para un paseo de dos horas.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado marbella
 - casco antiguo marbella guia
@@ -95,6 +95,8 @@ galeria:
   alt: Playa con palmeras al amanecer
 bokunProductId: 1129320
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

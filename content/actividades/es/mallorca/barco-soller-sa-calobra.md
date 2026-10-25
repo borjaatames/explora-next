@@ -18,7 +18,7 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t404400/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Sa Calobra y el Torrent de Pareis: la garganta más espectacular de Mallorca"
+- 'Sa Calobra y el Torrent de Pareis: la garganta más espectacular de Mallorca'
 - Paredes de 200 metros de altura sobre el agua
 - Playa de guijarros en el fondo del cañón
 - Navegación por la costa norte de la Serra de Tramuntana (Patrimonio UNESCO)
@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: ¿Cuánto tiempo de libre tengo en Sa Calobra?
   respuesta: Normalmente entre 1,5 y 2 horas en Sa Calobra, suficiente para entrar en el Torrent de Pareis, bañarse y comer algo. El barco tiene horario fijo de regreso.
 - pregunta: ¿Es difícil el camino por el Torrent de Pareis?
-  respuesta: "El primer tramo (hasta la playa) es sencillo: unos 10-15 minutos por un camino de guijarros entre paredes de roca. Para adentrarse más en la garganta es necesario trepar por rocas."
+  respuesta: 'El primer tramo (hasta la playa) es sencillo: unos 10-15 minutos por un camino de guijarros entre paredes de roca. Para adentrarse más en la garganta es necesario trepar por rocas.'
 - pregunta: ¿Merece combinar con el tren de Sóller?
   respuesta: Absolutamente. El tren histórico de madera Palma-Sóller (1961) + tranvía al puerto + barco a Sa Calobra es la excursión clásica de Mallorca. No te la pierdas.
 opinionEditorial: 'El Torrent de Pareis es uno de los rincones más espectaculares de España y el barco desde Sóller es la forma más cómoda de llegar. Combinado con el tren histórico de madera Palma-Sóller, tienes la excursión perfecta de un día en Mallorca. Reserva con antelación en temporada alta: los barcos se llenan.'
@@ -67,7 +67,7 @@ guiasRelacionadas:
 - serra-tramuntana-soller
 - mejores-calas-mallorca
 - que-ver-en-mallorca
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco soller sa calobra
 - excursion sa calobra mallorca
@@ -76,21 +76,22 @@ keywords:
 imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Acantilados de Sa Calobra vistos desde el barco
 galeria:
-  - src: "/images/actividades/mallorca/soller/sa-calobra-torrent.webp"
-    alt: "Interior del Torrent de Pareis con sus paredes de 200 metros"
-  - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
-    alt: "Bahía de Port de Sóller desde donde sale el barco"
-  - src: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
-    alt: "Vista del Puerto de Sóller con las montañas de Tramuntana"
-  - src: "/images/actividades/mallorca/soller/sa-calobra-aerea.webp"
-    alt: "Vista aérea de la desembocadura del Torrent de Pareis"
-  - src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
-    alt: "Sendero por el interior de la garganta de Sa Calobra"
-  - src: "/images/actividades/mallorca/soller/sa-calobra-barco.webp"
-    alt: "Barco llegando a Sa Calobra"
+- src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
+  alt: Interior del Torrent de Pareis con sus paredes de 200 metros
+- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
+  alt: Bahía de Port de Sóller desde donde sale el barco
+- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
+  alt: Vista del Puerto de Sóller con las montañas de Tramuntana
+- src: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
+  alt: Vista aérea de la desembocadura del Torrent de Pareis
+- src: /images/actividades/mallorca/soller/sa-calobra-sendero.webp
+  alt: Sendero por el interior de la garganta de Sa Calobra
+- src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
+  alt: Barco llegando a Sa Calobra
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:
+- soller-tramuntana
 - tramuntana
 - calas-playas
 publicada: true

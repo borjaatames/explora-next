@@ -2,9 +2,7 @@
 titulo: 'Barcelona: Tablao de Carmen — Flamenco with Dinner at Poble Espanyol (Top Rated 4.8)'
 slug: tablao-de-carmen-flamenco-dinner-show-poble-espanyol
 ciudad: barcelona
-descripcion: Flamenco show with dinner at Tablao de Carmen, inside Poble Espanyol (Montjuïc). 2,125 reviews at 4.8/5 («Top
-  Rated»). The ONLY tablao in Barcelona that serves dinner DURING the show (original tradition). Tribute to Carmen Amaya.
-  Free entry to Poble Espanyol from 4 PM included.
+descripcion: Flamenco show with dinner at Tablao de Carmen, inside Poble Espanyol (Montjuïc). 2,125 reviews at 4.8/5 («Top Rated»). The ONLY tablao in Barcelona that serves dinner DURING the show (original tradition). Tribute to Carmen Amaya. Free entry to Poble Espanyol from 4 PM included.
 slugs:
   es: tablao-de-carmen-flamenco-cena-poble-espanyol
   en: tablao-de-carmen-flamenco-dinner-show-poble-espanyol
@@ -39,13 +37,8 @@ noIncluye:
 - Gratuities (optional, not included in the menu price)
 - Entries to other Montjuïc sites (Fundació Miró, MNAC — these are separate)
 puntoEncuentro:
-  texto: Present your voucher at the Poble Espanyol entrance — Avinguda Francesc Ferrer i Guàrdia 13 (Montjuïc). Tablao de
-    Carmen is inside the complex, on Arcos street in the Andalusian quarter. Show your ticket at the Poble Espanyol entrance
-    and you'll get access to both the venue and the tablao.
-  descripcionGuia: 'Metro: Espanya (L1, L3, L8 — then 15 min uphill walk or take bus 13/150). City bus: line 13 (Poble Espanyol
-    stop) or line 150 (more frequent, direct from Plaça Espanya, stops at the door). Funicular: doesn''t reach here. Taxi/Uber:
-    ~€12 from the centre to the Poble Espanyol door. Arrive 30-60 min before the show to visit Poble Espanyol (recommended).
-    Sessions are at 6 PM (dinner 6:30, show ~7 PM) and 8:30 PM (dinner 9:15, show ~10 PM). Verify the exact time when booking.'
+  texto: Present your voucher at the Poble Espanyol entrance — Avinguda Francesc Ferrer i Guàrdia 13 (Montjuïc). Tablao de Carmen is inside the complex, on Arcos street in the Andalusian quarter. Show your ticket at the Poble Espanyol entrance and you'll get access to both the venue and the tablao.
+  descripcionGuia: 'Metro: Espanya (L1, L3, L8 — then 15 min uphill walk or take bus 13/150). City bus: line 13 (Poble Espanyol stop) or line 150 (more frequent, direct from Plaça Espanya, stops at the door). Funicular: doesn''t reach here. Taxi/Uber: ~€12 from the centre to the Poble Espanyol door. Arrive 30-60 min before the show to visit Poble Espanyol (recommended). Sessions are at 6 PM (dinner 6:30, show ~7 PM) and 8:30 PM (dinner 9:15, show ~10 PM). Verify the exact time when booking.'
   latitud: 41.3697
   longitud: 2.1497
   zoom: 16
@@ -63,56 +56,27 @@ informacionImportante:
   - Light jacket (Montjuïc is windier than the centre, especially at night)
   noAptoPara:
   - People with serious allergies not communicated in advance (notify when booking)
-  - Rushed visitors who don't want dinner (this is a ~2-3h show + dinner format; look for show-only product if you want short
-    format)
+  - Rushed visitors who don't want dinner (this is a ~2-3h show + dinner format; look for show-only product if you want short format)
   aTenerEnCuenta:
   - Your ticket includes FREE entry to Poble Espanyol from 4 PM — take advantage to visit (shops, plazas, regional architecture)
   - 'Poble Espanyol shops close: winter 6 PM / spring 7 PM / summer 8 PM — useful if you arrive for the 6 PM session'
-  - '**Combine with the Magic Fountain:** if you book the 6 PM session (ends ~7:45 PM), you have time to see the Magic Fountain
-    (8-9 PM, Thu-Sat). Or reverse: see fountains first, then 8:30 PM session.'
+  - '**Combine with the Magic Fountain:** if you book the 6 PM session (ends ~7:45 PM), you have time to see the Magic Fountain (8-9 PM, Thu-Sat). Or reverse: see fountains first, then 8:30 PM session.'
   - Vegetarian, vegan, gluten-free, lactose-free options available (notify when booking)
   - Show lasts 1h but the complete experience (with dinner) is 2-3h
-  - Carmen Amaya (1913-1963) was a Romani dancer from Somorrostro (Barcelona), considered the greatest flamenco dancer of
-    the 20th century — the tablao honours her legacy
-accesibilidad: Wheelchair accessible — Poble Espanyol has adapted routes to the Andalusian quarter where Tablao de Carmen
-  is located. The tablao itself is on the ground floor with level access. Adapted toilets are available. We recommend confirming
-  when booking if you need specific dinner assistance. The climb from Plaça Espanya to Poble Espanyol is steep — use bus 13
-  or 150 if you have reduced mobility.
-politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Date
-  changes subject to availability. If you have allergies or dietary restrictions, communicate them when booking with at least
-  48h notice.'
+  - Carmen Amaya (1913-1963) was a Romani dancer from Somorrostro (Barcelona), considered the greatest flamenco dancer of the 20th century — the tablao honours her legacy
+accesibilidad: Wheelchair accessible — Poble Espanyol has adapted routes to the Andalusian quarter where Tablao de Carmen is located. The tablao itself is on the ground floor with level access. Adapted toilets are available. We recommend confirming when booking if you need specific dinner assistance. The climb from Plaça Espanya to Poble Espanyol is steep — use bus 13 or 150 if you have reduced mobility.
+politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Date changes subject to availability. If you have allergies or dietary restrictions, communicate them when booking with at least 48h notice.'
 preguntasFrecuentes:
 - pregunta: Why is this the ONLY tablao that serves dinner during the show?
-  respuesta: 'Traditionally, in 19th and early 20th-century Andalusian tablaos, dinner was served DURING the show — diners
-    ate, drank and applauded between pieces. Most modern tablaos (including Cordobés) opted to serve dinner BEFORE the show
-    to avoid distractions. Tablao de Carmen maintains the original tradition: dinner during the show. This creates a more
-    immersive experience (classic flamenco tavern atmosphere) but requires service rhythm to coordinate with the show''s pieces
-    — staff is trained for this.'
+  respuesta: 'Traditionally, in 19th and early 20th-century Andalusian tablaos, dinner was served DURING the show — diners ate, drank and applauded between pieces. Most modern tablaos (including Cordobés) opted to serve dinner BEFORE the show to avoid distractions. Tablao de Carmen maintains the original tradition: dinner during the show. This creates a more immersive experience (classic flamenco tavern atmosphere) but requires service rhythm to coordinate with the show''s pieces — staff is trained for this.'
 - pregunta: How much does each menu option cost?
-  respuesta: 'The €88 starting price on GetYourGuide corresponds to the standard Carmen menu (three courses + drink + show).
-    Available options are: TAPAS (lighter) · CARMEN (traditional three-course menu) · NOCHE ESTRELLA (premium gastronomic
-    menu with quality wines, ~+€30 over Carmen) · VIP EXPERIENCE (exclusive welcome in the Cordoban courtyard + preferred
-    seats). Exact prices vary by date and option. For the show without dinner, Tablao de Carmen does NOT offer that option
-    — it always includes dinner (it''s part of their differential proposal).'
+  respuesta: 'The €88 starting price on GetYourGuide corresponds to the standard Carmen menu (three courses + drink + show). Available options are: TAPAS (lighter) · CARMEN (traditional three-course menu) · NOCHE ESTRELLA (premium gastronomic menu with quality wines, ~+€30 over Carmen) · VIP EXPERIENCE (exclusive welcome in the Cordoban courtyard + preferred seats). Exact prices vary by date and option. For the show without dinner, Tablao de Carmen does NOT offer that option — it always includes dinner (it''s part of their differential proposal).'
 - pregunta: Who was Carmen Amaya?
-  respuesta: Carmen Amaya (1913-1963) was a Romani dancer born in the Somorrostro neighbourhood (Barcelona, now next to the
-    port). Considered the **greatest flamenco dancer of the 20th century**, she revolutionized female flamenco dance by performing
-    footwork and movements previously reserved for male dance. She danced in Hollywood, before President Roosevelt and for
-    King Alfonso XIII. She died at 50 in the middle of a tour. Tablao de Carmen opened in 1988 as a tribute to her memory
-    — her name and her spirit define the style of the tablao's artists (passion, technique, Romani authenticity).
+  respuesta: Carmen Amaya (1913-1963) was a Romani dancer born in the Somorrostro neighbourhood (Barcelona, now next to the port). Considered the **greatest flamenco dancer of the 20th century**, she revolutionized female flamenco dance by performing footwork and movements previously reserved for male dance. She danced in Hollywood, before President Roosevelt and for King Alfonso XIII. She died at 50 in the middle of a tour. Tablao de Carmen opened in 1988 as a tribute to her memory — her name and her spirit define the style of the tablao's artists (passion, technique, Romani authenticity).
 - pregunta: How do I combine the visit with the Montjuïc Magic Fountain?
-  respuesta: 'The Magic Fountains of Montjuïc are right next to Poble Espanyol (5 min walking) and are FREE. Usual schedule:
-    Thursday to Saturday from 8 to 9 PM (summer later; winter may be suspended). Ideal combination: option 1, book the 6 PM
-    session (dinner+show end ~7:45 PM), then walk 5 min to the fountains and enjoy the 8 PM show; option 2, arrive early at
-    Poble Espanyol (4 PM, free with your ticket), explore until 7 PM, watch the fountains 8-9 PM and enter the tablao for
-    the 8:30 PM session (dinner 9:15).'
+  respuesta: 'The Magic Fountains of Montjuïc are right next to Poble Espanyol (5 min walking) and are FREE. Usual schedule: Thursday to Saturday from 8 to 9 PM (summer later; winter may be suspended). Ideal combination: option 1, book the 6 PM session (dinner+show end ~7:45 PM), then walk 5 min to the fountains and enjoy the 8 PM show; option 2, arrive early at Poble Espanyol (4 PM, free with your ticket), explore until 7 PM, watch the fountains 8-9 PM and enter the tablao for the 8:30 PM session (dinner 9:15).'
 - pregunta: How does this compare with Tablao Cordobés and Palau Dalmases?
-  respuesta: '**Tablao de Carmen (this):** Dinner DURING the show (traditional format), 4.8/5 (highest rating), unique location
-    in Poble Espanyol, includes venue access. **Cordobés:** Dinner BEFORE the show (modern format without distractions), no
-    microphones, premium location on Las Ramblas. **Palau Dalmases:** 17th-century palace in El Born, short format (50 min),
-    drink included only in VIP/Zone A, more intimate atmosphere. Recommendation: if you value the dinner-during-show tradition
-    + unique location + highest rating → Tablao de Carmen. If you prefer quiet dinner without distractions + historic tablao
-    → Cordobés. If you want a spectacular palace + brief show → Palau Dalmases.'
+  respuesta: '**Tablao de Carmen (this):** Dinner DURING the show (traditional format), 4.8/5 (highest rating), unique location in Poble Espanyol, includes venue access. **Cordobés:** Dinner BEFORE the show (modern format without distractions), no microphones, premium location on Las Ramblas. **Palau Dalmases:** 17th-century palace in El Born, short format (50 min), drink included only in VIP/Zone A, more intimate atmosphere. Recommendation: if you value the dinner-during-show tradition + unique location + highest rating → Tablao de Carmen. If you prefer quiet dinner without distractions + historic tablao → Cordobés. If you want a spectacular palace + brief show → Palau Dalmases.'
 variantes:
 - nombre: Tapas + Show
   descripcion: Light tapas dinner + drink + 1h show + Poble Espanyol entry.
@@ -126,33 +90,16 @@ variantes:
 - nombre: VIP Experience
   descripcion: Exclusive welcome in the Cordoban courtyard + preferred seats + premium menu + show.
   precio: 145
-opinionEditorial: 'The **highest-rated tablao in Barcelona** — 4.8/5 with 2,125 reviews (the two most solid figures among
-  the 4 major top tablaos). Recurring positive sentiment centers on four pillars: (1) the **preserved tradition** of serving
-  dinner during the show (original format of 19th-century Andalusian tablaos, exceptional today); (2) the **unique location**
-  inside Poble Espanyol — an architectural complex built in 1929 that recreates regions of Spain, with free entry included;
-  (3) the **tribute to Carmen Amaya**, legendary Barcelona-born dancer, who gives identity to the tablao and attracts artists
-  aspiring to continue her legacy; (4) consistent **gastronomic quality** (standard Carmen menu highly rated, premium Noche
-  Estrella for demanding palates).
+opinionEditorial: 'The **highest-rated tablao in Barcelona** — 4.8/5 with 2,125 reviews (the two most solid figures among the 4 major top tablaos). Recurring positive sentiment centers on four pillars: (1) the **preserved tradition** of serving dinner during the show (original format of 19th-century Andalusian tablaos, exceptional today); (2) the **unique location** inside Poble Espanyol — an architectural complex built in 1929 that recreates regions of Spain, with free entry included; (3) the **tribute to Carmen Amaya**, legendary Barcelona-born dancer, who gives identity to the tablao and attracts artists aspiring to continue her legacy; (4) consistent **gastronomic quality** (standard Carmen menu highly rated, premium Noche Estrella for demanding palates).
 
 
-  **Price comparison:** from €88 (Carmen menu) is more expensive than a simple show at Cordobés (€48) or Palau Dalmases (€30),
-  but that price INCLUDES three-course dinner + show + Poble Espanyol entry — it''s not a markup, it''s a combo. Compared
-  with equivalent dinner at Cordobés (restaurant menu €89), Tablao de Carmen comes out at the same price with the added benefit
-  of Poble Espanyol. If you''re coming with family or partner and want "a planned whole evening", this is the option that
-  best packages the experience.
+  **Price comparison:** from €88 (Carmen menu) is more expensive than a simple show at Cordobés (€48) or Palau Dalmases (€30), but that price INCLUDES three-course dinner + show + Poble Espanyol entry — it''s not a markup, it''s a combo. Compared with equivalent dinner at Cordobés (restaurant menu €89), Tablao de Carmen comes out at the same price with the added benefit of Poble Espanyol. If you''re coming with family or partner and want "a planned whole evening", this is the option that best packages the experience.
 
 
-  Two operational notes: **(1)** arrive at Poble Espanyol before 6 PM to take advantage of your free venue access (shops close
-  at 6 PM winter / 7 PM spring / 8 PM summer). **(2)** combine with the Montjuïc Magic Fountain if your visit coincides with
-  Thursday-Saturday (free 8-9 PM show, 5 min walking from Poble Espanyol).
+  Two operational notes: **(1)** arrive at Poble Espanyol before 6 PM to take advantage of your free venue access (shops close at 6 PM winter / 7 PM spring / 8 PM summer). **(2)** combine with the Montjuïc Magic Fountain if your visit coincides with Thursday-Saturday (free 8-9 PM show, 5 min walking from Poble Espanyol).
 
 
-  **Who it''s for:** visitors wanting a "complete planned evening" (dinner + show + Poble Espanyol visit), couples and groups
-  valuing the traditional dinner-during-show atmosphere, travellers interested in the history of female flamenco (Carmen Amaya),
-  diners seeking gastronomic menus (Noche Estrella is exceptional), visitors with time to combine Montjuïc (Magic Fountain,
-  MNAC, Fundació Miró nearby). **Who it''s NOT for:** rushed travellers who want just a 1h show (Palau Dalmases or Cordobés
-  show-only), very tight budgets (Flamenco at the Theater from €25), those preferring Las Ramblas central location (Cordobés
-  is more central).
+  **Who it''s for:** visitors wanting a "complete planned evening" (dinner + show + Poble Espanyol visit), couples and groups valuing the traditional dinner-during-show atmosphere, travellers interested in the history of female flamenco (Carmen Amaya), diners seeking gastronomic menus (Noche Estrella is exceptional), visitors with time to combine Montjuïc (Magic Fountain, MNAC, Fundació Miró nearby). **Who it''s NOT for:** rushed travellers who want just a 1h show (Palau Dalmases or Cordobés show-only), very tight budgets (Flamenco at the Theater from €25), those preferring Las Ramblas central location (Cordobés is more central).
 
   '
 atraccionesRelacionadas:
@@ -164,35 +111,35 @@ keywords:
 - carmen amaya tablao
 - flamenco dinner montjuic barcelona
 - flamenco show with dinner barcelona
-imagen: "/images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-espectaculo-farolillos.webp"
-imagenAlt: "Show beneath the paper lanterns of Tablao de Carmen"
+imagen: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-espectaculo-farolillos.webp
+imagenAlt: Show beneath the paper lanterns of Tablao de Carmen
 galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-escenario-publico.webp
-  alt: "Tablao de Carmen hall with stage and audience"
+  alt: Tablao de Carmen hall with stage and audience
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-cuadro.webp
-  alt: "Dancer and flamenco troupe at Tablao de Carmen"
+  alt: Dancer and flamenco troupe at Tablao de Carmen
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-falda.webp
-  alt: "Dancer mid-performance in front of the audience"
+  alt: Dancer mid-performance in front of the audience
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-cante-sala.webp
-  alt: "Singer and guitar in the lantern-lit hall"
+  alt: Singer and guitar in the lantern-lit hall
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-roja.webp
-  alt: "Dancer in red with singer and guitarist"
+  alt: Dancer in red with singer and guitarist
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-ambiente.webp
-  alt: "The hall during the show"
+  alt: The hall during the show
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-zapateado.webp
-  alt: "Footwork right next to the audience tables"
+  alt: Footwork right next to the audience tables
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-lunares.webp
-  alt: "Polka-dot dancer with the guitarist"
+  alt: Polka-dot dancer with the guitarist
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-tapas-cena.webp
-  alt: "Dinner tapas at Tablao de Carmen"
+  alt: Dinner tapas at Tablao de Carmen
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-entrada-poble-espanyol.webp
-  alt: "Tablao de Carmen entrance in the Poble Espanyol"
+  alt: Tablao de Carmen entrance in the Poble Espanyol
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
-  alt: "Aerial view of the Poble Espanyol on Montjuïc"
+  alt: Aerial view of the Poble Espanyol on Montjuïc
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d189-poble-espanyol-carrer-caballeros-jp-03.webp
-  alt: "Carrer dels Cavallers in the Poble Espanyol"
+  alt: Carrer dels Cavallers in the Poble Espanyol
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
-  alt: "Main square of the Poble Espanyol"
+  alt: Main square of the Poble Espanyol
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true
@@ -200,7 +147,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-barcelona-which-tablao-to-choose"
+- flamenco-barcelona-which-tablao-to-choose
 ---
 
 ## What you'll see

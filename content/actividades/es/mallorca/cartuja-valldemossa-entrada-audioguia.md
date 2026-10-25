@@ -87,6 +87,7 @@ galeria:
 ratingProveedor: 4.4
 numeroOpiniones: 166
 atraccionesRelacionadas:
+- soller-tramuntana
 - tramuntana
 publicada: true
 destacada: false

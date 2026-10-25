@@ -69,7 +69,7 @@ opinionEditorial: 'Junta tres cosas que funcionan muy bien juntas: una bodega hi
   Cuesta unos 200 € por persona, con un mínimo de dos, y la comida va incluida. Si te interesa sobre todo catar muchos vinos, las rutas de dos o tres bodegas te darán más; si quieres vino, pueblo y buena mesa, esta es la tuya.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - chinchon desde madrid
 - excursion chinchon bodega

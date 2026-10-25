@@ -73,7 +73,7 @@ opinionEditorial: Es Vedrà is Ibiza's most magical sight and it's even more str
 guiasRelacionadas:
 - what-to-see-in-ibiza
 - best-coves-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - es vedra boat trip
 - es vedra from the sea

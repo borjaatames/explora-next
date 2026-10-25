@@ -66,7 +66,7 @@ opinionEditorial: 'Málaga from Cádiz is a long day, with five hours on the roa
   The price is per group, about €720 for two and about €960 for four. No published reviews yet.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - malaga from cadiz
 - malaga day trip from cadiz
@@ -95,6 +95,8 @@ galeria:
   alt: Promenade by Málaga port
 bokunProductId: 1234409
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

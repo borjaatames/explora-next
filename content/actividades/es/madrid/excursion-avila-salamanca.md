@@ -79,6 +79,7 @@ opinionEditorial: 'Es la opción acertada si quieres añadir Salamanca a tu viaj
 
   '
 atraccionesRelacionadas:
+- segovia
 - excursiones-desde-madrid
 categoria: excursionesDia
 keywords:

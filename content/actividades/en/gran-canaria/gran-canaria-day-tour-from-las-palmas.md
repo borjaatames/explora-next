@@ -76,8 +76,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
 imagenAlt: The Guayadeque ravine opening towards the sea
 galeria:
-- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
-  alt: "Pond among palm trees in the Maspalomas Dunes"
+- src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
+  alt: Pond among palm trees in the Maspalomas Dunes
 - src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
   alt: Cave houses in the Guayadeque ravine
 - src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp
@@ -93,6 +93,8 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 716
 atraccionesRelacionadas:
+- maspalomas
+- mogan
 - isla
 publicada: true
 destacada: false

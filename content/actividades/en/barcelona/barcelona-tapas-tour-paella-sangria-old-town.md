@@ -70,6 +70,7 @@ opinionEditorial: 'It''s a full, affordable tapas tour: paella, sangria, freshly
 
   It costs about €31 per person, which is little for everything included. Come hungry. If you want a tapas tour for your first night in Barcelona, it''s a safe bet.'
 atraccionesRelacionadas:
+- gotico
 - tapas-barcelona
 - barrio-gotico
 categoria: toursGastronomicos

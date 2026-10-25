@@ -1,12 +1,12 @@
 ---
-titulo: "Private Sailing in Barcelona with a Swim (2h)"
+titulo: Private Sailing in Barcelona with a Swim (2h)
 slug: private-sailing-barcelona-swim-2h
 ciudad: barcelona
-descripcion: "Private 2-hour sail off Barcelona for your group, with drinks, snacks and time to swim. Price per group."
+descripcion: Private 2-hour sail off Barcelona for your group, with drinks, snacks and time to swim. Price per group.
 slugs:
   es: velero-privado-barcelona-bano-2h
   en: private-sailing-barcelona-swim-2h
-duracion: "2 hours"
+duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 295
 moneda: EUR
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 578005
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -32,14 +32,14 @@ noIncluye:
 - Tips
 - Towel and swimwear
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 informacionImportante:
   queTraer:
   - Towel and swimwear (there is time to swim)
@@ -55,50 +55,52 @@ preguntasFrecuentes:
   respuesta: Yes, the two hours are enough to leave the harbour, sail for a while and stop for a dip in open water. Bring a towel and swimwear.
 - pregunta: What's included on board?
   respuesta: Drinks (water, soft and alcoholic) and snacks, with life jackets and a qualified skipper.
-opinionEditorial: "Two private hours are plenty to leave the harbour, sail for a while and stop for a swim in open water. It's the more affordable private-sailing option and works really well for a couple or a family."
+opinionEditorial: Two private hours are plenty to leave the harbour, sail for a while and stop for a swim in open water. It's the more affordable private-sailing option and works really well for a couple or a family.
 atraccionesRelacionadas:
 - barco
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private sailing barcelona
 - private boat barcelona
 - swim at sea barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-veleros-puerto.webp"
-imagenAlt: "Sailboats moored in Barcelona harbour"
+imagen: /images/actividades/barcelona/barcos/barcos-veleros-puerto.webp
+imagenAlt: Sailboats moored in Barcelona harbour
 galeria:
 - src: https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg
-  alt: "Private sailing in Barcelona with a swim, photo 1 of 5"
+  alt: Private sailing in Barcelona with a swim, photo 1 of 5
 - src: https://imgcdn.bokun.tools/125dc4d5-7bd9-425c-8dd1-a6dcbc32db74.jpg
-  alt: "Private sailing in Barcelona with a swim, photo 2 of 5"
+  alt: Private sailing in Barcelona with a swim, photo 2 of 5
 - src: https://imgcdn.bokun.tools/64b4b831-44cb-48e2-9dfe-250e8b64df85.jpg
-  alt: "Private sailing in Barcelona with a swim, photo 3 of 5"
+  alt: Private sailing in Barcelona with a swim, photo 3 of 5
 - src: https://imgcdn.bokun.tools/29957db4-554e-452e-b43d-c8a0ee126d2f.jpg
-  alt: "Private sailing in Barcelona with a swim, photo 4 of 5"
+  alt: Private sailing in Barcelona with a swim, photo 4 of 5
 - src: https://imgcdn.bokun.tools/8b948181-0930-4854-8d9f-4ee17e682a17.jpg
-  alt: "Private sailing in Barcelona with a swim, photo 5 of 5"
+  alt: Private sailing in Barcelona with a swim, photo 5 of 5
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
-  alt: "Private sailboat moored in the Barcelona marina with the crew aboard"
+  alt: Private sailboat moored in the Barcelona marina with the crew aboard
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
-  alt: "Group enjoying snacks aboard a private sailboat in Barcelona"
+  alt: Group enjoying snacks aboard a private sailboat in Barcelona
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+  alt: Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background"
+  alt: Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Sunbathers and walkers on the sand of Barceloneta beach on a sunny day"
+  alt: Sunbathers and walkers on the sand of Barceloneta beach on a sunny day
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "View of Barceloneta beach with the marina and palm trees in the background"
+  alt: View of Barceloneta beach with the marina and palm trees in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Sailboat and parasailing off Barceloneta beach"
+  alt: Sailboat and parasailing off Barceloneta beach
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
+  alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
-  alt: "Private sailboat off the Barcelona coast"
+  alt: Private sailboat off the Barcelona coast
 publicada: false
 reemplazadaPor: barcelona-small-group-sailing-cruise
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll do

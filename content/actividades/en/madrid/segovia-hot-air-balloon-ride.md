@@ -1,8 +1,8 @@
 ---
-titulo: 'Hot Air Balloon Ride over Segovia with Cava Breakfast'
+titulo: Hot Air Balloon Ride over Segovia with Cava Breakfast
 slug: segovia-hot-air-balloon-ride
 ciudad: madrid
-descripcion: '1-hour hot air balloon flight over Segovia, with views of the Aqueduct, the Cathedral and the Alcázar. Includes cava breakfast, flight certificate and photo report. Optional pickup from Madrid.'
+descripcion: 1-hour hot air balloon flight over Segovia, with views of the Aqueduct, the Cathedral and the Alcázar. Includes cava breakfast, flight certificate and photo report. Optional pickup from Madrid.
 slugs:
   es: vuelo-globo-segovia
   en: segovia-hot-air-balloon-ride
@@ -54,8 +54,9 @@ detallesPracticos:
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 opinionEditorial: 'Seeing Segovia from a balloon is one of those experiences you remember: the Aqueduct, the Cathedral and the Alcázar all fit in a single view. It isn''t cheap, but breakfast, photos and a certificate are included, and the company has been flying here for years. If you don''t have a car, the Madrid pickup is worth adding.'
 atraccionesRelacionadas:
+- segovia
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - segovia hot air balloon
 - hot air balloon ride near madrid

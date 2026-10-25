@@ -67,7 +67,6 @@ opinionEditorial: 'The espeto is the most Málaga thing you can eat on the beach
 
 
   The price bites with small groups: from €205 per person for 2. With 3 or 4 people it drops a lot (€340 in total for 4). If you only want to eat espetos, a beach bar is cheaper; this is for those who want the story and the class.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - sardine skewers malaga
@@ -95,6 +94,7 @@ galeria:
   alt: Group sitting in a jábega by the sea listening to the guide
 bokunProductId: 933464
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What the experience is like

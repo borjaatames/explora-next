@@ -54,30 +54,28 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: Córdoba tiene un centro histórico denso —Mezquita-Catedral, judería, Puente Romano— y el formato autoguiado permite quedarte el tiempo que quieras en cada rincón, sin depender del ritmo de un grupo. Con 2 rutas (la esencial y otras joyas de la ciudad) cubre bien tanto lo imprescindible como lo menos evidente. Eso sí, la entrada a la Mezquita-Catedral no está incluida y hay que sacarla aparte.
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour autoguiado córdoba
 - audioguía app córdoba
 - visita autoguiada córdoba
-imagen: "/images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp"
-imagenAlt: "La Mezquita-Catedral junto al Guadalquivir"
+imagen: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
+imagenAlt: La Mezquita-Catedral junto al Guadalquivir
 galeria:
-- src: "/images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg"
-  alt: "Calle de la judería de Córdoba"
+- src: /images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg
+  alt: Calle de la judería de Córdoba
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Torre de la Mezquita-Catedral, frente al tablao"
+  alt: Torre de la Mezquita-Catedral, frente al tablao
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Judería de Córdoba, a pocos pasos del tablao"
+  alt: Judería de Córdoba, a pocos pasos del tablao
 - src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: "Patio con fuente en el Palacio de Viana"
+  alt: Patio con fuente en el Palacio de Viana
 - src: /images/actividades/cordoba/mezquita/arcos-interior.webp
-  alt: "Interior de la Mezquita con arcos de herradura"
+  alt: Interior de la Mezquita con arcos de herradura
 - src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
-  alt: "Mosaicos dorados del mihrab"
+  alt: Mosaicos dorados del mihrab
 - src: https://imgcdn.bokun.tools/238e0b2f-e288-4c9a-9a50-7fef37bfca46.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
-atraccionesRelacionadas:
-  - juderia
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'

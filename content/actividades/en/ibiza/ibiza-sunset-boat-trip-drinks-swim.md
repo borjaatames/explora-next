@@ -67,7 +67,7 @@ preguntasFrecuentes:
 opinionEditorial: Watching the Sant Antoni sunset from a small boat after a swim in a cove is one of the best evenings you can have in Ibiza. At 4.8/5, it's the best sunset option if you want something relaxed rather than a party.
 guiasRelacionadas:
 - what-to-see-in-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - ibiza sunset boat
 - sunset boat trip ibiza

@@ -61,8 +61,6 @@ opinionEditorial: 'Una buena forma de comer en Córdoba sin caer en las trampas 
 
 
   Es privado, así que sale caro en pareja (unos 225 € por persona) y mucho mejor en grupo: con 4 personas baja a unos 151 € por cabeza. Aún no tiene opiniones publicadas.'
-atraccionesRelacionadas:
-- juderia
 categoria: toursGastronomicos
 keywords:
 - tour tapas cordoba
@@ -98,6 +96,7 @@ galeria:
   alt: Tapa servida en la barra de una taberna con barriles
 bokunProductId: 83911
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

@@ -2,9 +2,7 @@
 titulo: 'Seville: Córdoba PREMIUM Tour by AVE High-Speed Train — Small Group Max 8 People'
 slug: cordoba-premium-small-group-tour-high-speed-train-from-seville
 ciudad: sevilla
-descripcion: PREMIUM Córdoba day trip from Seville by AVE high-speed train (45 min vs. 1h45min by bus). VERY SMALL group max
-  8 people + official licensed guide. Visit Mezquita-Cathedral, Jewish Quarter, Córdoba Patios. ES or EN. Round-trip AVE included.
-  No meal (lunch independently).
+descripcion: PREMIUM Córdoba day trip from Seville by AVE high-speed train (45 min vs. 1h45min by bus). VERY SMALL group max 8 people + official licensed guide. Visit Mezquita-Cathedral, Jewish Quarter, Córdoba Patios. ES or EN. Round-trip AVE included. No meal (lunch independently).
 slugs:
   es: cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla
   en: cordoba-premium-small-group-tour-high-speed-train-from-seville
@@ -41,12 +39,8 @@ noIncluye:
 - Gratuities (optional)
 - Transport to/from Seville-Santa Justa (metro Puerta de Jerez 8 min walk)
 puntoEncuentro:
-  texto: 'Multiple options: the group travels independently by AVE from Seville-Santa Justa to Córdoba and meets the guide
-    upon arrival. Verify in the voucher the exact booked option (4 variants: EN guided + free time, EN guided, ES guided +
-    free time, ES guided).'
-  descripcionGuia: 'Arrival at Seville-Santa Justa: metro line 1 direct (Puerta de Jerez → Santa Justa, 10 min) or taxi from
-    centre (~€8). AVE Seville-Santa Justa → Córdoba Central: 45 min, several daily sessions. The operator organizes schedule
-    coordination — verify exact sessions when booking. The guide waits for you at Córdoba Central station.'
+  texto: 'Multiple options: the group travels independently by AVE from Seville-Santa Justa to Córdoba and meets the guide upon arrival. Verify in the voucher the exact booked option (4 variants: EN guided + free time, EN guided, ES guided + free time, ES guided).'
+  descripcionGuia: 'Arrival at Seville-Santa Justa: metro line 1 direct (Puerta de Jerez → Santa Justa, 10 min) or taxi from centre (~€8). AVE Seville-Santa Justa → Córdoba Central: 45 min, several daily sessions. The operator organizes schedule coordination — verify exact sessions when booking. The guide waits for you at Córdoba Central station.'
   latitud: 37.3919
   longitud: -5.9759
   zoom: 14
@@ -70,28 +64,16 @@ informacionImportante:
   aTenerEnCuenta:
   - '**Group MAX 8 people** — key difference vs. standard bus tour (15-30 people)'
   - AVE saves 2 HOURS of travel vs. bus — more free time in Córdoba
-  - 'No meal included — eating independently gives you more gastronomic freedom (traditional bodegas: Casa Pepe, El Caballo
-    Rojo, Bodegas Mezquita)'
+  - 'No meal included — eating independently gives you more gastronomic freedom (traditional bodegas: Casa Pepe, El Caballo Rojo, Bodegas Mezquita)'
   - Book in advance — 8-person capacity fills up fast in high season
   - 'Combine with tour t89625 (standard bus + meal) depending on priority: comfort/exclusivity vs. price/meal included'
-accesibilidad: Marked as NOT suitable for wheelchair. The Seville-Santa Justa AVE station IS accessible, but the Mezquita-Cathedral
-  and Jewish Quarter have cobblestone floors and occasional level changes. People with reduced mobility who can walk usually
-  manage. For confirmed accessibility, consult operator or go independently.
-politicaCancelacion: 'FREE cancellation up to 24 hours before — full refund. Within 24h: no refunds. If you miss the AVE,
-  no refund or guaranteed alternative. Arrive at Santa Justa 30 min before the train.'
+accesibilidad: Marked as NOT suitable for wheelchair. The Seville-Santa Justa AVE station IS accessible, but the Mezquita-Cathedral and Jewish Quarter have cobblestone floors and occasional level changes. People with reduced mobility who can walk usually manage. For confirmed accessibility, consult operator or go independently.
+politicaCancelacion: 'FREE cancellation up to 24 hours before — full refund. Within 24h: no refunds. If you miss the AVE, no refund or guaranteed alternative. Arrive at Santa Justa 30 min before the train.'
 preguntasFrecuentes:
 - pregunta: Is it worth paying more for the AVE vs. the bus (t89625)?
-  respuesta: 'Depends on your priority. **AVE saves 2 HOURS of travel** — more time in Córdoba, earlier arrival, earlier return.
-    **Group of 8** vs. 15-30 of the standard = more exclusive experience. **BUT no meal included** (lunch independently, ~€20-40
-    extra). Price: ~€165 (AVE premium) vs. ~€115 (standard bus with meal). Difference ~€50. **Recommendation:** if you only
-    have 1 day in Seville and go to Córdoba, AVE gives more useful time. If you have 2-3 days and traditional food matters,
-    bus is better.'
+  respuesta: 'Depends on your priority. **AVE saves 2 HOURS of travel** — more time in Córdoba, earlier arrival, earlier return. **Group of 8** vs. 15-30 of the standard = more exclusive experience. **BUT no meal included** (lunch independently, ~€20-40 extra). Price: ~€165 (AVE premium) vs. ~€115 (standard bus with meal). Difference ~€50. **Recommendation:** if you only have 1 day in Seville and go to Córdoba, AVE gives more useful time. If you have 2-3 days and traditional food matters, bus is better.'
 - pregunta: What do I do with the free time in Córdoba?
-  respuesta: 'The operator usually gives 1-2 hours of free time after the guided tour. Recommendations: (1) **Lunch:** Casa
-    Pepe (Cordoban classic), Bodegas Mezquita (local wines + tapas), El Caballo Rojo (traditional Cordoban cuisine), Patio
-    Romano (terrace). (2) **Hidden patios:** the Friends of the Patios Association keeps private patios open to the public
-    — patio route. (3) **Climb the Alminar Tower:** +€3 with your entry — spectacular views (45 min total). (4) **Souvenirs:**
-    Cordoban shoes, silver jewelry, rugs.'
+  respuesta: 'The operator usually gives 1-2 hours of free time after the guided tour. Recommendations: (1) **Lunch:** Casa Pepe (Cordoban classic), Bodegas Mezquita (local wines + tapas), El Caballo Rojo (traditional Cordoban cuisine), Patio Romano (terrace). (2) **Hidden patios:** the Friends of the Patios Association keeps private patios open to the public — patio route. (3) **Climb the Alminar Tower:** +€3 with your entry — spectacular views (45 min total). (4) **Souvenirs:** Cordoban shoes, silver jewelry, rugs.'
 variantes:
 - nombre: ES Guided Tour + Free Time
   descripcion: Guided tour in Spanish of the Mezquita + Jewish Quarter + free time for lunch and exploration.
@@ -105,19 +87,14 @@ variantes:
 - nombre: EN Guided Tour (no free time)
   descripcion: Guided tour in English focused on the visit; immediate return to Seville.
   precio: 155
-opinionEditorial: 'The **PREMIUM AVE alternative to the standard Córdoba tour** — small group format (max 8 people) + AVE
-  train (45 min vs. 1h45min by bus). The ~€50 premium over the standard tour (t89625) buys: 2 more useful hours in Córdoba,
-  more exclusive group, greater schedule flexibility. The trade-off: you lose the traditional included meal (lunch independently).
+opinionEditorial: 'The **PREMIUM AVE alternative to the standard Córdoba tour** — small group format (max 8 people) + AVE train (45 min vs. 1h45min by bus). The ~€50 premium over the standard tour (t89625) buys: 2 more useful hours in Córdoba, more exclusive group, greater schedule flexibility. The trade-off: you lose the traditional included meal (lunch independently).
 
 
-  **Who it''s for:** visitors with 1 day in Seville who want to maximize Córdoba, couples valuing small group max 8 people,
-  mid-to-high budget travellers who prefer AVE over tourist bus, foodies who prefer choosing restaurant independently vs.
-  fixed menu. **Who it''s NOT for:** tight-budget visitors (standard t89625 is cheaper), large groups (6+ already fill almost
-  the whole 8 capacity), those valuing traditional meal included without organizing (better t89625), strict wheelchair users
-  (not suitable per operator).
+  **Who it''s for:** visitors with 1 day in Seville who want to maximize Córdoba, couples valuing small group max 8 people, mid-to-high budget travellers who prefer AVE over tourist bus, foodies who prefer choosing restaurant independently vs. fixed menu. **Who it''s NOT for:** tight-budget visitors (standard t89625 is cheaper), large groups (6+ already fill almost the whole 8 capacity), those valuing traditional meal included without organizing (better t89625), strict wheelchair users (not suitable per operator).
 
   '
 atraccionesRelacionadas:
+- cordoba
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -126,27 +103,27 @@ keywords:
 - premium cordoba excursion seville
 - cordoba high speed train
 - cordoba mezquita ave premium
-imagen: "/images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp"
-imagenAlt: "Red and white horseshoe arches with columns in the central nave of Córdoba's Mosque-Cathedral, a UNESCO World Heritage site."
+imagen: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-mezqui-hero.webp
+imagenAlt: Red and white horseshoe arches with columns in the central nave of Córdoba's Mosque-Cathedral, a UNESCO World Heritage site.
 galeria:
 - src: /images/actividades/sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla-tr-hero.webp
-  alt: "AVE high-speed train at the station"
+  alt: AVE high-speed train at the station
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
   alt: Calleja de las Flores with blue flowerpots
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-perspectiva.webp
-  alt: "Perspective of two-tone arches in the Mosque"
+  alt: Perspective of two-tone arches in the Mosque
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
-  alt: "Golden mosaics of the Mosque's mihrab"
+  alt: Golden mosaics of the Mosque's mihrab
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-puente-romano-noche.webp
-  alt: "Roman bridge and Mosque of Córdoba at dusk"
+  alt: Roman bridge and Mosque of Córdoba at dusk
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-torre-judaria.webp
-  alt: "The Mosque tower seen from the Jewish Quarter"
+  alt: The Mosque tower seen from the Jewish Quarter
 - src: /images/actividades/sevilla/cordoba-mezquita-catedral/cordoba-mezquita-catedral-pexels-37478032.webp
-  alt: "Baroque chapel inside the Mosque-Cathedral"
+  alt: Baroque chapel inside the Mosque-Cathedral
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-37490977.webp
-  alt: "Narrow whitewashed lane in Córdoba's Jewish Quarter"
+  alt: Narrow whitewashed lane in Córdoba's Jewish Quarter
 - src: /images/actividades/sevilla/cordoba-juderia/cordoba-juderia-pexels-8677088.webp
-  alt: "Flower-filled corner of Córdoba's Jewish Quarter"
+  alt: Flower-filled corner of Córdoba's Jewish Quarter
 ratingProveedor: 4.7
 numeroOpiniones: 85
 publicada: true

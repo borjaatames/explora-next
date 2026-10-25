@@ -65,7 +65,7 @@ opinionEditorial: 'Los patios se entienden mejor con quien los cuida: ver cómo 
 guiasRelacionadas:
 - patios-de-cordoba
 - cordoba-en-un-dia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour patios cordoba
 - patios de cordoba visita guiada
@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/cordoba/patios/patio-macetas.webp
 imagenAlt: Patio cordobés con paredes llenas de macetas
 galeria:
-- src: "/images/actividades/cordoba/patios/patio-macetas-azules-flores.webp"
-  alt: "Patio cordobes con macetas azules y flores en las paredes"
+- src: /images/actividades/cordoba/patios/patio-macetas-azules-flores.webp
+  alt: Patio cordobes con macetas azules y flores en las paredes
 - src: /images/actividades/cordoba/patios/patio-festival.webp
   alt: Patio en flor durante el Festival de los Patios
 - src: /images/actividades/cordoba/patios/patio-escalera.webp

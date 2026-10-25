@@ -58,35 +58,37 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
+- cordoba
 - excursiones
 categoria: excursionesDia
 keywords:
 - excursion privada cordoba desde sevilla
 - cordoba desde sevilla con guia
 - mezquita cordoba tour privado
-imagen: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp"
-imagenAlt: "Arcos bicolores y columnas de la Mezquita-Catedral de Córdoba"
+imagen: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
+imagenAlt: Arcos bicolores y columnas de la Mezquita-Catedral de Córdoba
 galeria:
-  - src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
-    alt: "El Puente Romano y la Mezquita sobre el Guadalquivir"
-  - src: "/images/actividades/cordoba/juderia/calleja-flores.webp"
-    alt: Calleja de las Flores con macetas azules
-  - src: "https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg"
-    alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
-  - src: "https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg"
-    alt: "Patio cordobés lleno de macetas"
-  - src: "https://imgcdn.bokun.tools/73cdecb0-4c07-4749-8b97-3cd43effe690.jpeg"
-    alt: "Estatua de Maimónides en la Judería"
-  - src: "https://imgcdn.bokun.tools/d948b6c9-7e11-4ebf-898c-b672485caf31.jpeg"
-    alt: "Cúpula del mihrab de la Mezquita-Catedral"
-  - src: "https://imgcdn.bokun.tools/6827eefd-1f2d-4237-bf6f-801ff6c3c8a8.jpeg"
-    alt: "Callejuela encalada de la Judería"
-  - src: "https://imgcdn.bokun.tools/86559899-2561-4ab5-8c42-e4afbf08d611.jpeg"
-    alt: "Torre campanario de la Mezquita-Catedral entre palmeras"
+- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
+  alt: El Puente Romano y la Mezquita sobre el Guadalquivir
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores con macetas azules
+- src: https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg
+  alt: Calleja de las Flores con la torre de la Mezquita al fondo
+- src: https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg
+  alt: Patio cordobés lleno de macetas
+- src: https://imgcdn.bokun.tools/73cdecb0-4c07-4749-8b97-3cd43effe690.jpeg
+  alt: Estatua de Maimónides en la Judería
+- src: https://imgcdn.bokun.tools/d948b6c9-7e11-4ebf-898c-b672485caf31.jpeg
+  alt: Cúpula del mihrab de la Mezquita-Catedral
+- src: https://imgcdn.bokun.tools/6827eefd-1f2d-4237-bf6f-801ff6c3c8a8.jpeg
+  alt: Callejuela encalada de la Judería
+- src: https://imgcdn.bokun.tools/86559899-2561-4ab5-8c42-e4afbf08d611.jpeg
+  alt: Torre campanario de la Mezquita-Catedral entre palmeras
 publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
+privada: true
 ---
 
 ## Qué vas a ver

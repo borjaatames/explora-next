@@ -85,6 +85,7 @@ galeria:
   alt: Guía explicando en una sala del monasterio
 bokunProductId: 949940
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

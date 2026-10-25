@@ -70,7 +70,7 @@ guiasRelacionadas:
 - mallorca-with-kids
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: parques
 keywords:
 - western water park tickets
 - mallorca water park

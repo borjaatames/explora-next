@@ -62,9 +62,10 @@ opinionEditorial: 'It combines two of the things people most want in Seville, fl
 
   The price is per group, €310 for 1 or 2 people, so €155 each for a couple including a show, tapas and 4 drinks. For 4 it''s €540 in total. It suits anyone wanting an evening sorted, with context.'
 atraccionesRelacionadas:
+- triana
 - flamenco
 - tapas-sevilla
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - flamenco and tapas seville
 - flamenco tapas tour triana
@@ -96,6 +97,8 @@ galeria:
   alt: Glass of red wine and tapas
 bokunProductId: 793767
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the evening works

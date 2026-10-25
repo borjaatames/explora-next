@@ -65,7 +65,7 @@ opinionEditorial: 'Two hours to get your bearings in Valencia as soon as you arr
   It''s one of the cheapest private tours: from about €48 per person for two and about €27 each for four, with children free. It''s new and has no reviews yet. If you''d like to go inside the Silk Exchange and stop for horchata, the same operator runs a 4-hour version.'
 atraccionesRelacionadas:
 - centro-historico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - 2 hour private tour valencia
 - valencia first day tour
@@ -92,6 +92,7 @@ galeria:
   alt: The Micalet from Plaza de la Reina
 bokunProductId: 1062810
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

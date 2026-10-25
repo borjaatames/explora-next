@@ -64,7 +64,7 @@ opinionEditorial: 'La Catedral y la Capilla Real se visitan juntas porque están
   El precio es por grupo, con entradas: 260 € para dos personas y 340 € para cuatro. Encaja a quien le interesa la historia de España y el arte, y prefiere un guía solo para él.'
 atraccionesRelacionadas:
 - catedral
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - visita privada catedral granada
 - capilla real granada guia
@@ -91,6 +91,8 @@ galeria:
   alt: La Catedral vista desde una calle del centro
 bokunProductId: 1271488
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

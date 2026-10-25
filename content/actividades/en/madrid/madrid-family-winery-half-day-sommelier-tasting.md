@@ -70,7 +70,7 @@ opinionEditorial: 'If you''ve only got a morning free and fancy some wine, this 
   It costs about €110 per person, transport included, making it the most affordable of their routes. If it leaves you wanting more, the two-winery tour doubles the tasting to six wines.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - winery near madrid
 - madrid wine tasting half day

@@ -65,7 +65,7 @@ opinionEditorial: 'Ronda está a dos horas de Granada y en transporte público e
   El precio es por grupo: 540 € sin guía para 1 o 2 personas, 700 € con guía. Compensa más con 3 o 4 personas. Ten en cuenta que no admite cancelación.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - ronda desde granada
 - excursion ronda desde granada
@@ -90,6 +90,8 @@ galeria:
   alt: Parador y Puente Nuevo sobre el acantilado
 bokunProductId: 841521
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

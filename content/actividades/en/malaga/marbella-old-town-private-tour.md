@@ -64,7 +64,7 @@ opinionEditorial: 'Plenty of people know Marbella for Puerto Banús and miss the
   The group price barely rises with more people: €240 for 1 or 2 and €264 for 4, so the more of you, the better. Solo, it''s pricey for a two-hour walk.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private tour marbella
 - marbella old town guide
@@ -95,6 +95,8 @@ galeria:
   alt: Palm-lined beach at sunrise
 bokunProductId: 1129320
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

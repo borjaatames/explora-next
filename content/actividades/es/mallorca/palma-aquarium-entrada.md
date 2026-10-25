@@ -68,7 +68,7 @@ guiasRelacionadas:
 - que-ver-en-mallorca
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: parques
 keywords:
 - palma aquarium entradas
 - palma aquarium niños
@@ -79,23 +79,23 @@ imagen: /images/actividades/mallorca/palma-aquarium/palma-aquarium-tiburon.webp
 imagenAlt: Tiburón nadando sobre el fondo en un tanque de Palma Aquarium
 galeria:
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-jungla.webp
-  alt: "Cascada en la jungla tropical de Palma Aquarium"
+  alt: Cascada en la jungla tropical de Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-pez-mariposa.webp
-  alt: "Pez mariposa en un acuario de Palma Aquarium"
+  alt: Pez mariposa en un acuario de Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-pez-caja.webp
-  alt: "Pez caja amarillo con puntos negros en Palma Aquarium"
+  alt: Pez caja amarillo con puntos negros en Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-pez-picasso.webp
-  alt: "Pez picasso junto a un coral en Palma Aquarium"
+  alt: Pez picasso junto a un coral en Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-tibur-n-puntas-negras-jpg-01.webp
-  alt: "Tiburón de puntas negras en Palma Aquarium"
+  alt: Tiburón de puntas negras en Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-pez-mariposa-jpg-03.webp
-  alt: "Pez mariposa en Palma Aquarium"
+  alt: Pez mariposa en Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-pez-fugu-jpg-04.webp
-  alt: "Pez globo en Palma Aquarium"
+  alt: Pez globo en Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-la-jungla-jpg-05.webp
-  alt: "La Jungla de Palma Aquarium"
+  alt: La Jungla de Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-pez-picasso-jpg-06.webp
-  alt: "Pez Picasso en Palma Aquarium"
+  alt: Pez Picasso en Palma Aquarium
 ratingProveedor: 4.5
 numeroOpiniones: 3744
 publicada: true

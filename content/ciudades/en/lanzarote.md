@@ -60,10 +60,8 @@ atracciones:
     imagen: "/images/actividades/lanzarote/zonas/papagayo-cala.webp"
     imagenAlt: "A Papagayo cove with turquoise water between cliffs"
 chipsFiltros:
-  - { label: "Volcanoes and Timanfaya", tag: "volcanes" }
-  - { label: "At sea", tag: "mar" }
-  - { label: "La Graciosa", tag: "graciosa" }
-  - { label: "Island tours", tag: "isla" }
+  - { label: "Timanfaya", tag: "timanfaya" }
+  - { label: "Jameos del Agua & Cueva de los Verdes", tag: "jameos-cueva" }
 ---
 
 Lanzarote is the easternmost of the Canary Islands and the one most shaped by volcanoes. It has about **167,000 inhabitants**, measures some 55 km from north to south and its highest point, **Peñas del Chache**, only reaches 671 metres. Between **1730 and 1736** an eruption buried almost a quarter of the island in lava: that is where **Timanfaya National Park** comes from, along with much of what makes the island unique today. Since **1993** the whole island has been a **Biosphere Reserve**, and since 2015 it has formed a **UNESCO Global Geopark** together with the Chinijo archipelago.

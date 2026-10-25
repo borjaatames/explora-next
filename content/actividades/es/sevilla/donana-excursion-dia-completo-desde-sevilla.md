@@ -67,7 +67,7 @@ preguntasFrecuentes:
   respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - excursion doñana desde sevilla
 - parque nacional doñana tour 4x4

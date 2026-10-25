@@ -74,25 +74,26 @@ keywords:
 imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
 imagenAlt: Roque Nublo, an 80-metre monolith on Gran Canaria's peaks
 galeria:
-  - src: "/images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp"
-    alt: "Atardecer desde Pico de Las Nieves, el punto más alto de Gran Canaria"
-  - src: "/images/actividades/gran-canaria/roque-nublo/pico-nieves.webp"
-    alt: "Pico de las Nieves, the highest point of Gran Canaria"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp"
-    alt: "Tejeda and the caldera seen from Roque Nublo"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp"
-    alt: "Sea of clouds over the highlands"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp"
-    alt: "View from the top of Roque Nublo"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-meseta.webp"
-    alt: "The plateau at the base of Roque Nublo"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-teide.webp"
-    alt: "Mount Teide seen from Roque Nublo on a clear day"
-  - src: "/images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp"
-    alt: "Sunset over Roque Nublo"
+- src: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
+  alt: Atardecer desde Pico de Las Nieves, el punto más alto de Gran Canaria
+- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
+  alt: Pico de las Nieves, the highest point of Gran Canaria
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
+  alt: Tejeda and the caldera seen from Roque Nublo
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
+  alt: Sea of clouds over the highlands
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
+  alt: View from the top of Roque Nublo
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-meseta.webp
+  alt: The plateau at the base of Roque Nublo
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-teide.webp
+  alt: Mount Teide seen from Roque Nublo on a clear day
+- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
+  alt: Sunset over Roque Nublo
 ratingProveedor: 4.7
 numeroOpiniones: 1283
 atraccionesRelacionadas:
+- roque-nublo
 - interior
 publicada: true
 destacada: true

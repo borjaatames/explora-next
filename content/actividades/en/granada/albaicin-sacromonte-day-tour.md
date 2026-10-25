@@ -84,7 +84,7 @@ opinionEditorial: 'The morning or afternoon version of the classic walking tour 
   '
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - albaicin tour granada
 - sacromonte tour granada

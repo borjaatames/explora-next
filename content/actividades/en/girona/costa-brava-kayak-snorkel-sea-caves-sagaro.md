@@ -81,7 +81,7 @@ guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 atraccionesRelacionadas:
 - costa-brava
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - costa brava kayak
 - kayak s'agaro
@@ -91,8 +91,8 @@ keywords:
 imagen: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
 imagenAlt: Red kayak paddling next to a small island in clear water
 galeria:
-- src: "/images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp"
-  alt: "Rocky cove with turquoise water on the Costa Brava"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: Rocky cove with turquoise water on the Costa Brava
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
   alt: Coastal path at S'Agaró above the rocks
 - src: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp
@@ -102,9 +102,9 @@ galeria:
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
   alt: Bay and harbour of Sant Feliu de Guíxols
 - src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: "Costa Brava cliffs by the sea"
+  alt: Costa Brava cliffs by the sea
 - src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
-  alt: "Swimmers snorkelling among the rocks of a cove"
+  alt: Swimmers snorkelling among the rocks of a cove
 ratingProveedor: 4.7
 numeroOpiniones: 1393
 publicada: true

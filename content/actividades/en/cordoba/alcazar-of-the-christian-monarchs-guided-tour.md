@@ -85,8 +85,6 @@ galeria:
   alt: Fountains and hedges of Córdoba's Alcázar
 ratingProveedor: 4.1
 numeroOpiniones: 131
-atraccionesRelacionadas:
-- juderia
 publicada: true
 destacada: false
 fecha: '2026-10-23'

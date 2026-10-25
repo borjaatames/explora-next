@@ -64,7 +64,7 @@ opinionEditorial: 'Es el tour más completo y mejor valorado de Salamanca: en do
 guiasRelacionadas:
 - salamanca-en-1-dia
 - salamanca-en-un-fin-de-semana
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour salamanca a pie
 - visita guiada salamanca
@@ -90,6 +90,8 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 364
 atraccionesRelacionadas:
+- plaza-mayor
+- universidad-catedrales
 - casco-historico
 publicada: true
 destacada: false

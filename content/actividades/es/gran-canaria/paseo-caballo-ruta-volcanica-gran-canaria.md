@@ -72,7 +72,7 @@ opinionEditorial: 'Una alternativa tranquila al buggy para ver el paisaje árido
 guiasRelacionadas:
 - que-ver-en-gran-canaria
 - roque-nublo-como-subir
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - paseo a caballo gran canaria
 - rutas a caballo maspalomas

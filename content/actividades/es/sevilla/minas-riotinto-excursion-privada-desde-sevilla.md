@@ -92,6 +92,7 @@ galeria:
   alt: Viajeros junto a las aguas rojizas del río Tinto
 bokunProductId: 933463
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

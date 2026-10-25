@@ -72,7 +72,7 @@ opinionEditorial: 'Es una forma ágil de ver mucho en una mañana: tres horas en
   Con bici normal sale desde unos 117 € por persona en pareja; con e-bike, unos 161 €. Si no estás acostumbrado a ir en bici por ciudad, la eléctrica se agradece.'
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour en bici barcelona privado
 - tour ebike barcelona
@@ -101,6 +101,7 @@ galeria:
   alt: Ciclistas junto a una fuente en un parque
 bokunProductId: 217567
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

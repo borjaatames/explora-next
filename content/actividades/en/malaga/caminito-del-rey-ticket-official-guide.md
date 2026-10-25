@@ -64,7 +64,7 @@ preguntasFrecuentes:
   respuesta: The official unguided ticket exists but sells out months in advance. This option with an official guide has its own allocation and, on top of that, the guide explains the history of the hydroelectric plant and the geology of the gorge.
 - pregunta: Is it scary?
   respuesta: The walkways are wide, with railings, 100 metres above the river. It is safe and suitable for families with children from 8, but the final suspension bridge is impressive for anyone with vertigo.
-avisoReserva: 'Spring and autumn slots sell out within days'
+avisoReserva: Spring and autumn slots sell out within days
 opinionEditorial: The cheapest way to do the Caminito with guaranteed entry. If you already have a car or plan to take the train, do not pay for the tour with transport. Book the day that suits you and plan your Málaga trip around that date.
 guiasRelacionadas:
 - caminito-del-rey-how-to-visit
@@ -79,20 +79,20 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Caminito del Rey walkways above the Gaitanes Gorge
 galeria:
-  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp"
-    alt: "Gaitanes Gorge from the walkways"
-  - src: "/images/actividades/malaga/caminito-del-rey/garganta.webp"
-    alt: "The Guadalhorce river gorge"
-  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp"
-    alt: "Walkways anchored to the rock face"
-  - src: "/images/actividades/malaga/caminito-del-rey/pasarela.webp"
-    alt: "Wooden walkway over the gorge"
-  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
-    alt: "Visitors walking along the Caminito's walkways"
-  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp"
-    alt: "Aerial view of the gorge and vegetation"
-  - src: "/images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp"
-    alt: "Aerial view of the river winding through the gorge"
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
+  alt: Gaitanes Gorge from the walkways
+- src: /images/actividades/malaga/caminito-del-rey/garganta.webp
+  alt: The Guadalhorce river gorge
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
+  alt: Walkways anchored to the rock face
+- src: /images/actividades/malaga/caminito-del-rey/pasarela.webp
+  alt: Wooden walkway over the gorge
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+  alt: Visitors walking along the Caminito's walkways
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
+  alt: Aerial view of the gorge and vegetation
+- src: /images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp
+  alt: Aerial view of the river winding through the gorge
 ratingProveedor: 4.6
 numeroOpiniones: 16892
 atraccionesRelacionadas:

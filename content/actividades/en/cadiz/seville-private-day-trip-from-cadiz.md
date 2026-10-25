@@ -65,8 +65,9 @@ opinionEditorial: 'A good option if you''re in Cádiz (or arriving by cruise) an
 
   Note that it doesn''t include tickets. If you want to see the Alcázar and Cathedral inside, look at the same operator''s trip with tickets. The price is per group: about €600 for 1 or 2 people.'
 atraccionesRelacionadas:
+- sevilla
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - seville from cadiz
 - seville day trip from cadiz
@@ -95,6 +96,8 @@ galeria:
   alt: The Giralda tower under a blue sky
 bokunProductId: 1033752
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

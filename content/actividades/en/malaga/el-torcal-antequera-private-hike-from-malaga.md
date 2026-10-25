@@ -69,7 +69,7 @@ opinionEditorial: 'El Torcal is one of Andalusia''s strangest landscapes, with r
   It''s a pricey trip: from €446 per person for 2 and €258 a head for 4. If you like walking and want something other than white villages, it''s worth it; if you just want to see El Torcal, the green trail can be done independently if you have a car.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - el torcal day trip from malaga
 - torcal hike with guide
@@ -100,6 +100,7 @@ galeria:
   alt: Rock formations of El Torcal overlooking the valley
 bokunProductId: 1036137
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## What the day is like

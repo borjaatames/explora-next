@@ -82,7 +82,7 @@ opinionEditorial: 'La gama alta del catálogo de hammams en Granada: el Hammam A
   '
 atraccionesRelacionadas:
 - hammam
-categoria: serviciosAdicionales
+categoria: talleres
 keywords:
 - hammam al andalus granada
 - baños arabes alhambra

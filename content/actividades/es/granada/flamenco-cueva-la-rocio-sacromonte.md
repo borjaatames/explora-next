@@ -63,7 +63,6 @@ preguntasFrecuentes:
   respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
 - flamenco
-- albaicin-sacromonte
 categoria: espectaculos
 keywords:
 - flamenco sacromonte

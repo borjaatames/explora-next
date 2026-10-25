@@ -67,8 +67,9 @@ opinionEditorial: 'Nerja and Frigiliana make the easiest, most rewarding trip ea
 
   At €700 for 1 or 2 people it''s steep for what it is; with 4 (€880 in total) it''s much better value. If you have a car, you can easily do it yourself.'
 atraccionesRelacionadas:
+- nerja-frigiliana
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - nerja and frigiliana from malaga
 - private nerja day trip
@@ -97,6 +98,8 @@ galeria:
   alt: Bougainvillea over the rooftops of Frigiliana
 bokunProductId: 1175039
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the day is like

@@ -129,6 +129,7 @@ guiasRelacionadas:
 - alhambra-como-visitar
 - alhambra-que-tour-elegir
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## Qué vas a ver

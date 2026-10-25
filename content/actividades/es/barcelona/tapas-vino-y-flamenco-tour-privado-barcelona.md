@@ -69,7 +69,8 @@ opinionEditorial: 'Es una noche completa en tres horas: paseo por el Gótico y e
 
 
   Como es privado, el precio por persona depende mucho de cuántos seáis: en pareja ronda los 114 €; en grupo de 4, unos 88 €.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- gotico
 categoria: toursGastronomicos
 keywords:
 - tapas y flamenco barcelona
@@ -99,6 +100,7 @@ galeria:
   alt: Viajeros brindando con tapas en el restaurante
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la noche

@@ -1,8 +1,8 @@
 ---
-titulo: "Tour de tapas y vino por la noche"
+titulo: Tour de tapas y vino por la noche
 slug: tour-tapas-y-vino-noche
 ciudad: barcelona
-descripcion: "Tour nocturno de tapas y vino por el casco antiguo de Barcelona, con paradas en cuatro bares tradicionales y degustaciones incluidas."
+descripcion: Tour nocturno de tapas y vino por el casco antiguo de Barcelona, con paradas en cuatro bares tradicionales y degustaciones incluidas.
 slugs:
   es: tour-tapas-y-vino-noche
   en: evening-tapas-and-wine-tour
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 866988
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -31,11 +31,11 @@ noIncluye:
 - Propinas
 - Bebidas adicionales fuera del menú
 puntoEncuentro:
-  texto: 'El punto de encuentro está en el casco antiguo de Barcelona; la dirección exacta se indica al confirmar la reserva.'
+  texto: El punto de encuentro está en el casco antiguo de Barcelona; la dirección exacta se indica al confirmar la reserva.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 informacionImportante:
   aTenerEnCuenta:
   - Puedes elegir el tour de las 11:00 o el de las 18:00
@@ -49,7 +49,7 @@ preguntasFrecuentes:
   respuesta: Puedes elegir entre el tour de las 11:00 y el de las 18:00. El punto de encuentro exacto se confirma al reservar.
 - pregunta: ¿Se adaptan a alergias o vegetarianos?
   respuesta: Sí. Avisa al guía de cualquier alergia o necesidad alimentaria al llegar; hay opciones vegetarianas.
-opinionEditorial: "La noche es el mejor momento para las tapas en Barcelona, y hacerlo con guía te ahorra acabar en el bar equivocado. Cuatro paradas dan para probar bastante y conocer el barrio con calma."
+opinionEditorial: La noche es el mejor momento para las tapas en Barcelona, y hacerlo con guía te ahorra acabar en el bar equivocado. Cuatro paradas dan para probar bastante y conocer el barrio con calma.
 atraccionesRelacionadas:
 - tapas-barcelona
 categoria: toursGastronomicos
@@ -61,14 +61,14 @@ imagen: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
 imagenAlt: Brindis con vino en un bar de tapas durante el tour nocturno por Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/5c1402e6-e8df-4350-9b80-3a2426849395.jpeg
-  alt: "Grupo del tour a la puerta de un bar de tapas"
+  alt: Grupo del tour a la puerta de un bar de tapas
 - src: https://imgcdn.bokun.tools/318d9bd7-7208-4d0c-a090-144ec506c897.jpeg
-  alt: "Bebiendo vino en porrón en una bodega"
+  alt: Bebiendo vino en porrón en una bodega
 - src: https://imgcdn.bokun.tools/0ec26797-2071-4a52-94d9-7e4c24752979.jpeg
-  alt: "Plato de jamón ibérico recién cortado"
+  alt: Plato de jamón ibérico recién cortado
 - src: https://imgcdn.bokun.tools/02d48709-4a2c-4925-8bb8-3c1d734ec81e.jpeg
-  alt: "Guía con un plato de jamón en un bar de tapas"
-- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: Guía con un plato de jamón en un bar de tapas
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
   alt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
 publicada: true
 destacada: false

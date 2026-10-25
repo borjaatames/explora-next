@@ -58,7 +58,6 @@ opinionEditorial: 'Los tabancos son el Jerez más auténtico: botas de vino, tiz
 
 
   Es privado y en pareja sale caro (unos 219 € por persona); en grupo de 4 baja a unos 126 €. Aún no tiene opiniones publicadas.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - tabancos jerez
@@ -88,6 +87,7 @@ galeria:
   alt: Botas pintadas de un tabanco tras la barra
 bokunProductId: 949542
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

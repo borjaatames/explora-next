@@ -69,7 +69,7 @@ opinionEditorial: 'Los Cahorros is the most popular hike near Granada, and right
   The price is per group (€500 for 1 or 2, €600 for four), so it suits families or friends best. It can''t be cancelled, worth bearing in mind if the weather is uncertain.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - los cahorros monachil
 - cahorros hike from granada
@@ -96,6 +96,7 @@ galeria:
   alt: Metal walkway in the gorge
 bokunProductId: 860680
 fecha_actualizacion: '2026-10-24'
+precioPorGrupo: true
 ---
 
 ## The hike

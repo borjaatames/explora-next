@@ -72,8 +72,6 @@ opinionEditorial: 'Es la excursión más completa desde Bilbao: Gaztelugatxe con
 guiasRelacionadas:
 - escapadas-desde-bilbao
 - bilbao-en-un-dia
-atraccionesRelacionadas:
-- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - excursion gaztelugatxe desde bilbao

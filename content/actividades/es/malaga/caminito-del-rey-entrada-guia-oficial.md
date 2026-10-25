@@ -64,7 +64,7 @@ preguntasFrecuentes:
   respuesta: La entrada oficial sin guía existe, pero se agota con meses de antelación. Esta opción con guía oficial tiene cupo propio y, además, el guía explica la historia de la central hidroeléctrica y la geología del desfiladero.
 - pregunta: ¿Da miedo?
   respuesta: Las pasarelas son anchas, con barandilla y a 100 metros sobre el río. Es seguro y apto para familias con niños desde 8 años, pero el puente colgante final impresiona a quien tiene vértigo.
-avisoReserva: 'Las plazas de primavera y otoño se agotan en pocos días'
+avisoReserva: Las plazas de primavera y otoño se agotan en pocos días
 opinionEditorial: La forma más barata de hacer el Caminito con entrada asegurada. Si ya tienes coche o vas a usar el tren, no pagues el tour con transporte. Reserva el día que te cuadre y organiza el viaje a Málaga alrededor de esa fecha.
 guiasRelacionadas:
 - caminito-del-rey-como-visitar
@@ -79,20 +79,20 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 galeria:
-  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp"
-    alt: "Desfiladero de los Gaitanes desde las pasarelas"
-  - src: "/images/actividades/malaga/caminito-del-rey/garganta.webp"
-    alt: "La garganta del río Guadalhorce"
-  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp"
-    alt: "Pasarelas ancladas a la roca"
-  - src: "/images/actividades/malaga/caminito-del-rey/pasarela.webp"
-    alt: "Pasarela de madera sobre el desfiladero"
-  - src: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
-    alt: "Turistas recorriendo las pasarelas del Caminito"
-  - src: "/images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp"
-    alt: "Vista aérea del desfiladero y la vegetación"
-  - src: "/images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp"
-    alt: "Vista aérea del río serpenteando por la garganta"
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
+  alt: Desfiladero de los Gaitanes desde las pasarelas
+- src: /images/actividades/malaga/caminito-del-rey/garganta.webp
+  alt: La garganta del río Guadalhorce
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
+  alt: Pasarelas ancladas a la roca
+- src: /images/actividades/malaga/caminito-del-rey/pasarela.webp
+  alt: Pasarela de madera sobre el desfiladero
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+  alt: Turistas recorriendo las pasarelas del Caminito
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
+  alt: Vista aérea del desfiladero y la vegetación
+- src: /images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp
+  alt: Vista aérea del río serpenteando por la garganta
 ratingProveedor: 4.6
 numeroOpiniones: 16892
 atraccionesRelacionadas:

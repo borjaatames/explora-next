@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Una buena primera vuelta por Alicante con alguien de aquí: historia, barrio de Santa Cruz y consejos de dónde comer. Precio ajustado y opción privada si vais en grupo.'
 guiasRelacionadas:
 - que-ver-en-alicante
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour a pie alicante
 - visita guiada alicante

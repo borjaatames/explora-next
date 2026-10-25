@@ -59,7 +59,7 @@ opinionEditorial: The top-rated tour in Girona. You can walk the Call alone, but
 guiasRelacionadas:
 - what-to-see-in-girona-in-one-day
 - girona-game-of-thrones
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - jewish girona tour
 - girona jewish quarter
@@ -82,6 +82,7 @@ galeria:
 ratingProveedor: 4.9
 numeroOpiniones: 140
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
 publicada: true
 destacada: false

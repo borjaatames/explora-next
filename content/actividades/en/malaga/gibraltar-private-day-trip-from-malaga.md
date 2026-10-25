@@ -72,8 +72,9 @@ opinionEditorial: 'Gibraltar from Málaga is a long day on the road, and it goes
 
   It''s expensive for 1 or 2 people (€760 per group) and makes more sense from 4 (€960 in total). Travelling solo or as a couple on a budget, coach trips cost much less, if with less flexibility.'
 atraccionesRelacionadas:
+- gibraltar
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - gibraltar from malaga
 - private gibraltar day trip
@@ -102,6 +103,8 @@ galeria:
   alt: Suspension bridge on the slope of the Rock
 bokunProductId: 857522
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the day is like

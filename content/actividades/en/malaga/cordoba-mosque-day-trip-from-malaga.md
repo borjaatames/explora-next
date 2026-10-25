@@ -77,27 +77,27 @@ keywords:
 - cordoba mosque from malaga
 - cordoba from malaga
 - cordoba tour
-imagen: "/images/actividades/cordoba/mezquita/naranjos-torre.webp"
+imagen: /images/actividades/cordoba/mezquita/naranjos-torre.webp
 imagenAlt: Orange trees and the Mosque tower
 galeria:
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
   alt: Calleja de las Flores with blue flowerpots
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
-  alt: "Roman Bridge and the Guadalquivir in Córdoba"
+  alt: Roman Bridge and the Guadalquivir in Córdoba
 - src: /images/actividades/cordoba/patios/patio-arcos.webp
   alt: Courtyard with arches and flowers
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Mosque-Cathedral tower, opposite the tablao"
+  alt: Mosque-Cathedral tower, opposite the tablao
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Córdoba Jewish Quarter, a few steps from the tablao"
+  alt: Córdoba Jewish Quarter, a few steps from the tablao
 - src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: "Courtyard with fountain at the Palacio de Viana"
+  alt: Courtyard with fountain at the Palacio de Viana
 - src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-  alt: "Two-tone arches inside the Mosque-Cathedral of Córdoba"
+  alt: Two-tone arches inside the Mosque-Cathedral of Córdoba
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: "Narrow street in Córdoba's Jewish Quarter"
+  alt: Narrow street in Córdoba's Jewish Quarter
 - src: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
-  alt: "Córdoba patio with flower pots"
+  alt: Córdoba patio with flower pots
 ratingProveedor: 4.5
 numeroOpiniones: 753
 publicada: true

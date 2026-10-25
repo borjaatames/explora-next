@@ -69,7 +69,7 @@ opinionEditorial: 'Es un tour distinto a todos los demás de Granada: no va a la
   El precio es por grupo (180 € para 1 o 2 personas), razonable para un tour privado. Exige cierta forma física: hay muchas cuestas por caminos de tierra.'
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour cuevas sacromonte
 - sacromonte cuevas habitadas
@@ -94,6 +94,8 @@ galeria:
   alt: Grupo contemplando el atardecer desde la ladera
 bokunProductId: 860685
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

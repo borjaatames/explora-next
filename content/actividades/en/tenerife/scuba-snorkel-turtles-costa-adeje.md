@@ -78,7 +78,7 @@ preguntasFrecuentes:
 opinionEditorial: 'A good way to try diving for the first time in Tenerife: a short, shallow dive, one instructor for two people and snorkelling afterwards for anyone who''d rather not go down again. Keep the 12-hour rule in mind if you plan to go up Teide or catch a flight, and note that pre-existing medical conditions will rule you out.'
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - try dive tenerife
 - diving with turtles tenerife

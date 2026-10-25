@@ -69,7 +69,7 @@ opinionEditorial: 'It combines three things that go very well together: a histor
   It costs about €200 per person, minimum two, with lunch included. If you mainly want to taste lots of wine, the two- or three-winery tours give you more; if you want wine, a pretty village and a good meal, this is the one.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - chinchon day trip from madrid
 - chinchon winery tour

@@ -66,7 +66,7 @@ opinionEditorial: Es la forma más sencilla y barata de ir a Tabarca desde el ce
 guiasRelacionadas:
 - isla-de-tabarca-como-visitar
 - que-ver-en-alicante
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco alicante tabarca
 - excursion tabarca desde alicante
@@ -75,8 +75,8 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-aerea.webp
 imagenAlt: La isla de Tabarca vista desde el aire
 galeria:
-- src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
-  alt: "Faro de la isla de Tabarca, Alicante"
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: Faro de la isla de Tabarca, Alicante
 - src: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
   alt: Casas blancas y murallas de Tabarca
 - src: /images/actividades/alicante/tabarca/puerta-trancada.webp
@@ -92,6 +92,7 @@ galeria:
 ratingProveedor: 4.3
 numeroOpiniones: 5628
 atraccionesRelacionadas:
+- tabarca
 - mar
 publicada: true
 destacada: false

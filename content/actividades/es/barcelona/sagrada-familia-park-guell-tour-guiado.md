@@ -78,6 +78,7 @@ opinionEditorial: 'Es el combo limpio: las dos obras maestras de Gaudí —Park 
   '
 atraccionesRelacionadas:
 - sagrada-familia
+- park-guell
 categoria: visitasGuiadas
 keywords:
 - sagrada familia y park guell

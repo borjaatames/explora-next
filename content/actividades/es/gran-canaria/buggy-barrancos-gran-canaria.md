@@ -73,7 +73,7 @@ opinionEditorial: 'Es la actividad mejor valorada de Gran Canaria con miles de r
 guiasRelacionadas:
 - que-ver-en-gran-canaria
 - roque-nublo-como-subir
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - buggy gran canaria
 - excursion buggy maspalomas

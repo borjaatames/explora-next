@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Fuerteventura: tour a la playa de Cofete y la Villa Winter'
 slug: tour-cofete-villa-winter
 ciudad: fuerteventura
@@ -33,8 +33,8 @@ noIncluye:
 puntoEncuentro:
   texto: Recogida en Jandía (Morro Jable).
   descripcionGuia: Al reservar consulta el punto exacto de recogida en Jandía; el regreso es al mismo punto.
-  latitud: 28.0500
-  longitud: -14.3500
+  latitud: 28.05
+  longitud: -14.35
   zoom: 12
 detallesPracticos:
   ticketMovil: true
@@ -77,20 +77,20 @@ keywords:
 - playa de cofete como llegar
 - cofete jandia excursion
 imagen: /images/actividades/fuerteventura/cofete.webp
-imagenAlt: "La playa de Cofete bajo el macizo de Jandía"
+imagenAlt: La playa de Cofete bajo el macizo de Jandía
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/villa-winter.webp"
-  alt: "Villa Winter al pie de las montañas de Jandía"
-- src: "/images/actividades/fuerteventura/zonas/villa-winter-fachada.webp"
-  alt: "La fachada y la torre de Villa Winter, en Cofete"
-- src: "/images/actividades/fuerteventura/zonas/villa-winter-ladera.webp"
-  alt: "Villa Winter sobre la ladera de Cofete"
-- src: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
-  alt: "La playa de Cofete desde el mirador de la pista"
-- src: "/images/actividades/fuerteventura/zonas/cofete-cresta.webp"
-  alt: "Cresta del macizo de Jandía sobre la playa de Cofete"
-- src: "/images/actividades/fuerteventura/zonas/cofete-pico.webp"
-  alt: "La playa de Cofete y el pico del Islote"
+- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
+  alt: Villa Winter al pie de las montañas de Jandía
+- src: /images/actividades/fuerteventura/zonas/villa-winter-fachada.webp
+  alt: La fachada y la torre de Villa Winter, en Cofete
+- src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
+  alt: Villa Winter sobre la ladera de Cofete
+- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
+  alt: La playa de Cofete desde el mirador de la pista
+- src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
+  alt: Cresta del macizo de Jandía sobre la playa de Cofete
+- src: /images/actividades/fuerteventura/zonas/cofete-pico.webp
+  alt: La playa de Cofete y el pico del Islote
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

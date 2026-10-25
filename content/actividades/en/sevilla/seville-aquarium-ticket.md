@@ -65,7 +65,7 @@ guiasRelacionadas:
 - seville-with-kids
 atraccionesRelacionadas:
 - familia
-categoria: entradas
+categoria: parques
 keywords:
 - seville aquarium tickets
 - seville aquarium kids
@@ -74,10 +74,10 @@ keywords:
 imagen: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-siluetas.webp
 imagenAlt: Family watching fish in a large tank at the Seville Aquarium
 galeria:
-- src: "/images/actividades/sevilla/acuario-sevilla/museo-artes-sevilla-muelle.webp"
-  alt: "Edificio histórico de Sevilla cerca del Muelle de las Delicias"
-- src: "/images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp"
-  alt: "Bóvedas mudéjares con arcos dorados y reflejo en el agua, Sevilla"
+- src: /images/actividades/sevilla/acuario-sevilla/museo-artes-sevilla-muelle.webp
+  alt: Edificio histórico de Sevilla cerca del Muelle de las Delicias
+- src: /images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp
+  alt: Bóvedas mudéjares con arcos dorados y reflejo en el agua, Sevilla
 - src: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-tunel.webp
   alt: Glass underwater tunnel at the Seville Aquarium
 - src: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-tanque.webp

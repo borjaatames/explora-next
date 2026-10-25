@@ -72,7 +72,7 @@ opinionEditorial: 'Madrid''s wines are the great unknown, and this half-day intr
   It costs about €200 per person. Lunch isn''t included, so you''re back in Madrid in time to eat on your own. If you already know Rioja or Ribera and want something different close to the capital, it''s a good pick.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - madrid wine tour
 - wineries near madrid

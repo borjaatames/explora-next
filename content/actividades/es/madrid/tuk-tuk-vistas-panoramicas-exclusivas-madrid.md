@@ -51,7 +51,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'El tuk-tuk es una forma ágil de ver mucho Madrid en poco tiempo, pero no es un tour a pie: no esperéis paradas largas ni explicaciones profundas de cada monumento. Funciona muy bien si vais en grupo y queréis repartir el coste entre varios, o si alguien del grupo tiene dificultad para caminar largas distancias pero no usa silla de ruedas.'
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk madrid
 - tour panorámico madrid
@@ -80,7 +80,7 @@ galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
   alt: Palacio Real de Madrid
 - src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
-  alt: "Calle de la Cava Baja en La Latina"
+  alt: Calle de la Cava Baja en La Latina
 - src: /images/actividades/madrid/puerta-alcala/puerta-alcala-madrid-monument-madrid-center-hero.webp
   alt: Puerta de Alcalá
 - src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp
@@ -89,6 +89,8 @@ publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

@@ -79,7 +79,7 @@ opinionEditorial: Masca es la caminata más espectacular de Tenerife y, desde qu
 guiasRelacionadas:
 - que-ver-en-tenerife
 - avistamiento-ballenas-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - barranco de masca
 - senderismo masca
@@ -105,6 +105,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:
+- masca-gigantes
 - masca
 publicada: true
 destacada: false

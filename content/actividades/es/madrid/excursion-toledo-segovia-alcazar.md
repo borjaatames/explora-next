@@ -73,6 +73,7 @@ variantes:
 opinionEditorial: 'Es la excursión doble más reservada desde Madrid y la que mejor precio tiene por lo que incluye: dos ciudades y la entrada al Alcázar por menos de lo que cuesta ir por tu cuenta. El día es largo (12 horas) y el ritmo rápido, pero si solo tienes un día libre es la forma más eficaz de ver Segovia y Toledo.'
 atraccionesRelacionadas:
 - toledo
+- segovia
 categoria: excursionesDia
 keywords:
 - excursion toledo segovia

@@ -73,8 +73,10 @@ opinionEditorial: Short on time in Seville? In two hours you see almost the whol
 guiasRelacionadas:
 - seville-with-kids
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - seville tuk tuk 2 hours
 - seville tuk tuk tour
@@ -90,19 +92,21 @@ galeria:
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
   alt: Triana bridge over the Guadalquivir
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: "Plaza de España lit up at night"
+  alt: Plaza de España lit up at night
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
   alt: Main gate of the Maestranza bullring
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg
   alt: Torre del Oro among palm trees
 - src: /images/actividades/sevilla/macarena/basilica-macarena-sevilla-exterior-20180719-hero.webp
-  alt: "White and yellow façade of the Macarena Basilica"
+  alt: White and yellow façade of the Macarena Basilica
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
   alt: Tree-lined avenue in María Luisa Park
 publicada: true
 destacada: false
 fecha: '2026-10-05'
 fecha_actualizacion: '2026-10-05'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you will do

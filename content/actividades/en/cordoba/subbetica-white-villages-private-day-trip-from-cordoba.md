@@ -60,7 +60,6 @@ opinionEditorial: 'The Subbética is inland Andalusia that hardly anyone visits 
 
 
   It''s pricey for two, about €487 per person; for four it drops to about €290. Lunch is extra. No published reviews for this trip yet.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - white villages cordoba day trip
@@ -96,6 +95,7 @@ galeria:
   alt: Whitewashed alley with flowerpots
 bokunProductId: 937837
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

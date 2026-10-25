@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s Tenerife''s best-rated park and one of Europe''s most complete zoos; the penguins and parrots are the highlights. Orca and dolphin shows are debated: decide for yourself whether you want to see them.'
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: entradas
+categoria: parques
 keywords:
 - loro parque tickets
 - loro parque tenerife
@@ -90,6 +90,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 14827
 atraccionesRelacionadas:
+- siam-loro
 - parques
 publicada: true
 destacada: false

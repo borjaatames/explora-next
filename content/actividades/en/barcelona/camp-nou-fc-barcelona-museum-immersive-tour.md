@@ -89,6 +89,7 @@ opinionEditorial: 'Official FC Barcelona Museum ticket during the Camp Nou renov
 
   '
 atraccionesRelacionadas:
+- camp-nou
 - futbol
 categoria: entradas
 keywords:

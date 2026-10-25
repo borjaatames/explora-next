@@ -2,11 +2,11 @@
 titulo: 'Maspalomas: Aqualand water park ticket'
 slug: aqualand-maspalomas-ticket
 ciudad: gran-canaria
-descripcion: "1-day ticket to Aqualand Maspalomas, Gran Canaria's largest water park: over 40 slides, the Anaconda and a kids' area. Rated 4.1/5 from 1,663 reviews."
+descripcion: '1-day ticket to Aqualand Maspalomas, Gran Canaria''s largest water park: over 40 slides, the Anaconda and a kids'' area. Rated 4.1/5 from 1,663 reviews.'
 slugs:
   es: aqualand-maspalomas-entrada
   en: aqualand-maspalomas-ticket
-duracion: 'Ticket valid for 1 day'
+duracion: Ticket valid for 1 day
 precioDesde: 41
 moneda: EUR
 idiomas:
@@ -32,7 +32,7 @@ noIncluye:
 - Sun loungers, parasols, lockers and fast passes
 - Sea lion experience
 puntoEncuentro:
-  texto: 'Aqualand Maspalomas ticket control gate, Palmitos Park road, Maspalomas.'
+  texto: Aqualand Maspalomas ticket control gate, Palmitos Park road, Maspalomas.
   descripcionGuia: Go straight to the ticket control gate with your booking on your phone. The park is inland from Maspalomas, on the road up to Palmitos Park; parking costs €5 per day.
   latitud: 27.7789
   longitud: -15.6045
@@ -66,19 +66,19 @@ preguntasFrecuentes:
   respuesta: Sun loungers, parasols, lockers, fast passes and the sea lion experience. Food isn't included either.
 - pregunta: Can adults go down the slides with babies?
   respuesta: Not on all of them. Several slides have height limits and don't allow small children on your lap; the Children's Paradise is there for them.
-opinionEditorial: "It's the big water park of the south and kids love it, but its rating is lower than other activities on the island, mostly because of the extras: loungers, lockers, parking and pricey food. Arrive at opening time, bring water and budget for more than the ticket."
+opinionEditorial: 'It''s the big water park of the south and kids love it, but its rating is lower than other activities on the island, mostly because of the extras: loungers, lockers, parking and pricey food. Arrive at opening time, bring water and budget for more than the ticket.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - maspalomas-dunes-guide
-categoria: entradas
+categoria: parques
 keywords:
 - aqualand maspalomas
 - aqualand maspalomas tickets
 - gran canaria water park
 - maspalomas water slides
-imagen: "/images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp"
-imagenAlt: "Slides and pool at Aqualand Maspalomas"
-galeria:
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
+imagenAlt: Slides and pool at Aqualand Maspalomas
+galeria: null
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

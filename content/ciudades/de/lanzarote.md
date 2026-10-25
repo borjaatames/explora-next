@@ -60,10 +60,8 @@ atracciones:
     imagen: "/images/actividades/lanzarote/zonas/papagayo-cala.webp"
     imagenAlt: "Eine Papagayo-Bucht mit türkisfarbenem Wasser zwischen Klippen"
 chipsFiltros:
-  - { label: "Vulkane und Timanfaya", tag: "volcanes" }
-  - { label: "Auf dem Meer", tag: "mar" }
-  - { label: "La Graciosa", tag: "graciosa" }
-  - { label: "Inselausflüge", tag: "isla" }
+  - { label: "Timanfaya", tag: "timanfaya" }
+  - { label: "Jameos del Agua & Cueva de los Verdes", tag: "jameos-cueva" }
 ---
 
 Lanzarote ist die östlichste Kanareninsel und die am stärksten von Vulkanen geprägte. Sie hat rund **167.000 Einwohner**, misst etwa 55 km von Nord nach Süd, und ihr höchster Punkt, die **Peñas del Chache**, erreicht gerade 671 Meter. Zwischen **1730 und 1736** begrub ein Ausbruch fast ein Viertel der Insel unter Lava: Daraus entstand der **Nationalpark Timanfaya** und vieles von dem, was die Insel heute einzigartig macht. Seit **1993** ist die ganze Insel **Biosphärenreservat**, seit 2015 bildet sie zusammen mit dem Chinijo-Archipel einen **UNESCO-Geopark**.

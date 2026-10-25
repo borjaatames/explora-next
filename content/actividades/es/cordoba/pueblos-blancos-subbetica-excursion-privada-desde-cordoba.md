@@ -60,7 +60,6 @@ opinionEditorial: 'La Subbética es la Andalucía de interior que casi nadie vis
 
 
   Es una excursión cara para dos, unos 487 € por persona; en grupo de 4 baja a unos 290 €. La comida va aparte. Aún no tiene opiniones publicadas en esta excursión.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - pueblos blancos cordoba excursion
@@ -96,6 +95,7 @@ galeria:
   alt: Calleja encalada con macetas
 bokunProductId: 937837
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

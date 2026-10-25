@@ -68,7 +68,7 @@ preguntasFrecuentes:
 opinionEditorial: Subir andando al castillo de Santa Bárbara en verano cuesta; en tuk tuk llegas fresco, con guía y en privado. Buena opción para la primera tarde o con niños.
 guiasRelacionadas:
 - que-ver-en-alicante
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tuk tuk alicante
 - tour alicante tuk tuk
@@ -109,6 +109,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## Qué vas a ver

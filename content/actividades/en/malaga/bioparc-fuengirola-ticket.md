@@ -58,7 +58,7 @@ preguntasFrecuentes:
 opinionEditorial: A modern zoo focused on conservation and habitats, not cages. For a morning with kids on the Costa del Sol, it is one of the best options.
 guiasRelacionadas:
 - malaga-with-kids
-categoria: entradas
+categoria: parques
 keywords:
 - bioparc fuengirola tickets
 - fuengirola zoo

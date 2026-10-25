@@ -111,7 +111,7 @@ opinionEditorial: 'El **bus turístico estándar de Sevilla** — operador City 
   '
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: transporte
+categoria: toursCiudad
 keywords:
 - bus turistico sevilla
 - hop on hop off sevilla

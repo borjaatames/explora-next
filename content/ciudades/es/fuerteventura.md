@@ -59,11 +59,7 @@ atracciones:
     descripcion: "Kilómetros de arena y una laguna que se forma con la marea entre Costa Calma y Risco del Paso. Es la meca del windsurf y el kite en Canarias y, con marea baja, una de las postales de la isla."
     imagen: "/images/actividades/fuerteventura/zonas/sotavento-laguna.webp"
     imagenAlt: "La laguna de marea de Sotavento, en la península de Jandía"
-chipsFiltros:
-  - { label: "En el mar", tag: "mar" }
-  - { label: "Isla de Lobos", tag: "lobos" }
-  - { label: "Corralejo y el norte", tag: "norte" }
-  - { label: "Sur y Jandía", tag: "sur" }
+chipsFiltros: []
 ---
 
 Fuerteventura es la segunda isla más grande de Canarias y la más cercana a África, a menos de 100 km de la costa marroquí. Tiene unos **129.000 habitantes**, más de un tercio en la capital, **Puerto del Rosario**, y desde 2009 toda la isla y su franja marina son **Reserva de la Biosfera** de la UNESCO. Es la isla de las playas: más de 70 km de arena, con aguas turquesa en la costa este y oleaje atlántico en la oeste.

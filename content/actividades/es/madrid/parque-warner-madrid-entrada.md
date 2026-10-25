@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada a Parque Warner'
 slug: parque-warner-madrid-entrada
 ciudad: madrid
-descripcion: 'Entrada a Parque Warner Madrid con las atracciones de DC Comics, Looney Tunes y Hollywood. Superhéroes, montañas rusas y el espectáculo de Batman. 4,6/5 con 2.271 reseñas.'
+descripcion: Entrada a Parque Warner Madrid con las atracciones de DC Comics, Looney Tunes y Hollywood. Superhéroes, montañas rusas y el espectáculo de Batman. 4,6/5 con 2.271 reseñas.
 slugs:
   es: parque-warner-madrid-entrada
   en: parque-warner-madrid-ticket
@@ -19,9 +19,9 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Superman The Ride (montaña rusa de acero)
-- "Batman: El Show del Caballero Oscuro"
+- 'Batman: El Show del Caballero Oscuro'
 - Coaster de DC Comics y Looney Tunes
-- "5 zonas temáticas: Hollywood, Cartoon Village, DC Comics, Old West, Supervillains"
+- '5 zonas temáticas: Hollywood, Cartoon Village, DC Comics, Old West, Supervillains'
 - Espectáculos de acrobacia y efectos especiales
 incluye:
 - Entrada al parque Parque Warner
@@ -61,32 +61,32 @@ preguntasFrecuentes:
   respuesta: En temporada alta (verano, puentes) sí; en temporada baja no es necesario.
 - pregunta: ¿Hay descuento para niños?
   respuesta: Sí, precio reducido para menores de 120 cm y para mayores de 60 años. Menores de 100 cm gratis.
-opinionEditorial: 'Parque Warner es el parque de atracciones con mejor producción temática cerca de Madrid. Sus cinco zonas tienen una identidad visual impecable y los shows de Batman son de los mejores en Europa. La pega habitual son las colas en verano; reserva online con antelación para no pagar más en taquilla.'
+opinionEditorial: Parque Warner es el parque de atracciones con mejor producción temática cerca de Madrid. Sus cinco zonas tienen una identidad visual impecable y los shows de Batman son de los mejores en Europa. La pega habitual son las colas en verano; reserva online con antelación para no pagar más en taquilla.
 guiasRelacionadas:
 - madrid-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - parque warner madrid
 - warner bros madrid entrada
 - warner madrid precio
 - atracciones parque warner
 imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
-imagenAlt: "Caída de la atracción de agua Rio Bravo en Parque Warner Madrid"
+imagenAlt: Caída de la atracción de agua Rio Bravo en Parque Warner Madrid
 galeria:
-  - src: "/images/actividades/madrid/parque-warner/coaster-express.webp"
-    alt: "Montaña rusa de madera Coaster Express en Parque Warner"
-  - src: "/images/actividades/madrid/parque-warner/torre-noche.webp"
-    alt: "Torre de caída iluminada de noche en Parque Warner Madrid"
-  - src: "/images/actividades/madrid/parque-warner/espectaculo-nocturno.webp"
-    alt: "Espectáculo nocturno con fuegos artificiales en Parque Warner"
-  - src: "/images/actividades/madrid/parque-warner/torre-caida-noche.webp"
-    alt: "Torre de caída vista desde abajo, de noche"
-  - src: "/images/actividades/madrid/parque-warner/coaster-madera-estructura.webp"
-    alt: "Estructura de la montaña rusa de madera"
-  - src: "/images/actividades/madrid/parque-warner/rio-bravo-tobogan.webp"
-    alt: "Tobogán de agua de la atracción Río Bravo"
-  - src: "/images/actividades/madrid/parque-warner/rio-bravo-caida.webp"
-    alt: "Caída final de la atracción Río Bravo"
+- src: /images/actividades/madrid/parque-warner/coaster-express.webp
+  alt: Montaña rusa de madera Coaster Express en Parque Warner
+- src: /images/actividades/madrid/parque-warner/torre-noche.webp
+  alt: Torre de caída iluminada de noche en Parque Warner Madrid
+- src: /images/actividades/madrid/parque-warner/espectaculo-nocturno.webp
+  alt: Espectáculo nocturno con fuegos artificiales en Parque Warner
+- src: /images/actividades/madrid/parque-warner/torre-caida-noche.webp
+  alt: Torre de caída vista desde abajo, de noche
+- src: /images/actividades/madrid/parque-warner/coaster-madera-estructura.webp
+  alt: Estructura de la montaña rusa de madera
+- src: /images/actividades/madrid/parque-warner/rio-bravo-tobogan.webp
+  alt: Tobogán de agua de la atracción Río Bravo
+- src: /images/actividades/madrid/parque-warner/rio-bravo-caida.webp
+  alt: Caída final de la atracción Río Bravo
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas:

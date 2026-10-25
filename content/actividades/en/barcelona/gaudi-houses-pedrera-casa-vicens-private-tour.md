@@ -67,7 +67,8 @@ opinionEditorial: 'A tour for anyone who wants to see two Gaudí houses from the
 
 
   From about €156 per person for two. Be clear that inside the houses you use an audio guide: your guide only leads the outdoor walk.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- casa-batllo-pedrera
 categoria: visitasGuiadas
 keywords:
 - gaudi houses tour
@@ -97,6 +98,7 @@ galeria:
   alt: La Pedrera's inner courtyard seen from below
 bokunProductId: 245313
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

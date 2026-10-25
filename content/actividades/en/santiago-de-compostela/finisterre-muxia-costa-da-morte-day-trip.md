@@ -77,18 +77,18 @@ keywords:
 imagen: /images/actividades/santiago-de-compostela/finisterre/faro-fisterra.webp
 imagenAlt: Cape Fisterra lighthouse
 galeria:
-- src: "/images/actividades/santiago/finisterre/faro-finisterre-fachada.webp"
-  alt: "Fachada principal del Faro de Finisterre, Galicia"
-- src: "/images/actividades/santiago/finisterre/faro-finisterre-peregrinos.webp"
-  alt: "Faro de Finisterre con peregrinos del Camino de Santiago"
-- src: "/images/actividades/santiago/finisterre/cruz-0km-finisterre-mar.webp"
-  alt: "Cruz del kilómetro 0 del Camino de Santiago en Finisterre"
-- src: "/images/actividades/santiago/finisterre/cabo-finisterre-atardecer.webp"
-  alt: "Cabo de Finisterre al atardecer, fin del Camino de Santiago"
-- src: "/images/actividades/santiago/finisterre/faro-finisterre-camino-acceso.webp"
-  alt: "Vista del Faro de Finisterre y el camino de acceso"
-- src: "/images/actividades/santiago/finisterre/cabo-finisterre-vista-aerea-mar.webp"
-  alt: "Vista aérea del Cabo de Finisterre y el océano Atlántico"
+- src: /images/actividades/santiago/finisterre/faro-finisterre-fachada.webp
+  alt: Fachada principal del Faro de Finisterre, Galicia
+- src: /images/actividades/santiago/finisterre/faro-finisterre-peregrinos.webp
+  alt: Faro de Finisterre con peregrinos del Camino de Santiago
+- src: /images/actividades/santiago/finisterre/cruz-0km-finisterre-mar.webp
+  alt: Cruz del kilómetro 0 del Camino de Santiago en Finisterre
+- src: /images/actividades/santiago/finisterre/cabo-finisterre-atardecer.webp
+  alt: Cabo de Finisterre al atardecer, fin del Camino de Santiago
+- src: /images/actividades/santiago/finisterre/faro-finisterre-camino-acceso.webp
+  alt: Vista del Faro de Finisterre y el camino de acceso
+- src: /images/actividades/santiago/finisterre/cabo-finisterre-vista-aerea-mar.webp
+  alt: Vista aérea del Cabo de Finisterre y el océano Atlántico
 - src: /images/actividades/santiago-de-compostela/finisterre/km-cero.webp
   alt: The kilometre 0 Camino marker at Fisterra
 - src: /images/actividades/santiago-de-compostela/finisterre/muxia.webp

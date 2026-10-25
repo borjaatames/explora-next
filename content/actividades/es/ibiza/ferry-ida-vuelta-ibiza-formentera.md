@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Si prefieres ver Formentera a tu aire, esto es lo único que necesitas: el ferry rápido con horario libre y vuelta abierta. Canjeas el bono en la taquilla de la terminal antes de embarcar.'
 guiasRelacionadas:
 - formentera-desde-ibiza
-categoria: transporte
+categoria: agua
 keywords:
 - ferry ibiza formentera
 - billete barco formentera
@@ -89,8 +89,6 @@ galeria:
   alt: Playa del Mal Pas en Formentera
 ratingProveedor: 4.7
 numeroOpiniones: 322
-atraccionesRelacionadas:
-- formentera
 publicada: true
 destacada: false
 fecha: '2026-10-07'

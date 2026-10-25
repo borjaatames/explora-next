@@ -95,6 +95,7 @@ galeria:
   alt: Travellers in a vaulted Roman passage
 bokunProductId: 934218
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

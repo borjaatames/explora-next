@@ -84,7 +84,7 @@ opinionEditorial: 'This is the Big Bus night tour in Madrid: 4.2/5 across 977 re
   '
 atraccionesRelacionadas:
 - otros-madrid
-categoria: transporte
+categoria: toursCiudad
 keywords:
 - big bus night madrid
 - madrid night sightseeing bus

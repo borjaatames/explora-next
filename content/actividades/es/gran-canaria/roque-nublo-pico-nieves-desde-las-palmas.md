@@ -74,25 +74,26 @@ keywords:
 imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
 imagenAlt: El Roque Nublo, monolito de 80 metros en las cumbres de Gran Canaria
 galeria:
-  - src: "/images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp"
-    alt: "Atardecer desde Pico de Las Nieves, el punto más alto de Gran Canaria"
-  - src: "/images/actividades/gran-canaria/roque-nublo/pico-nieves.webp"
-    alt: "Pico de las Nieves, el techo de Gran Canaria"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp"
-    alt: "Tejeda y la caldera desde el Roque Nublo"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp"
-    alt: "Mar de nubes sobre las cumbres"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp"
-    alt: "Vista desde lo alto del Roque Nublo"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-meseta.webp"
-    alt: "La meseta en la base del Roque Nublo"
-  - src: "/images/actividades/gran-canaria/roque-nublo/roque-nublo-teide.webp"
-    alt: "El Teide visto desde el Roque Nublo en un día claro"
-  - src: "/images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp"
-    alt: "Atardecer sobre el Roque Nublo"
+- src: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
+  alt: Atardecer desde Pico de Las Nieves, el punto más alto de Gran Canaria
+- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
+  alt: Pico de las Nieves, el techo de Gran Canaria
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
+  alt: Tejeda y la caldera desde el Roque Nublo
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
+  alt: Mar de nubes sobre las cumbres
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
+  alt: Vista desde lo alto del Roque Nublo
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-meseta.webp
+  alt: La meseta en la base del Roque Nublo
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-teide.webp
+  alt: El Teide visto desde el Roque Nublo en un día claro
+- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
+  alt: Atardecer sobre el Roque Nublo
 ratingProveedor: 4.7
 numeroOpiniones: 1283
 atraccionesRelacionadas:
+- roque-nublo
 - interior
 publicada: true
 destacada: true

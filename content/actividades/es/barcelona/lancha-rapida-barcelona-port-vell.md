@@ -1,12 +1,12 @@
 ---
-titulo: "Lancha rápida por Barcelona (1 h, Port Vell)"
+titulo: Lancha rápida por Barcelona (1 h, Port Vell)
 slug: lancha-rapida-barcelona-port-vell
 ciudad: barcelona
-descripcion: "Paseo de 1 hora en lancha rápida por el Port Vell y la costa de Barcelona, con bebidas a bordo."
+descripcion: Paseo de 1 hora en lancha rápida por el Port Vell y la costa de Barcelona, con bebidas a bordo.
 slugs:
   es: lancha-rapida-barcelona-port-vell
   en: barcelona-high-speed-powerboat-ride
-duracion: "1 hora"
+duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 60
 moneda: EUR
@@ -15,12 +15,12 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 699837
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Paseo de adrenalina en lancha rápida
-- "Recorrido por el Port Vell: superyates y bases de la America's Cup"
+- 'Recorrido por el Port Vell: superyates y bases de la America''s Cup'
 - Vistas de Barcelona desde el mar
 - Bebidas a bordo
 incluye:
@@ -31,15 +31,15 @@ noIncluye:
 - Recogida en el hotel
 - Propinas
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 12
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 informacionImportante:
   queTraer:
   - Ropa cómoda e informal y calzado de suela plana
@@ -52,52 +52,52 @@ informacionImportante:
   - No recomendado para personas con problemas de espalda o afecciones cardíacas, ni para embarazadas
 preguntasFrecuentes:
 - pregunta: ¿Cómo se reparte la hora?
-  respuesta: 'Unos 25 minutos recorriendo el Port Vell —superyates y las bases de los equipos de la America''s Cup, a menudo entrenando en sus barcos voladores— y unos 25 minutos a toda velocidad por la costa, con vistas de la ciudad desde el mar. Estilo safari, con algún delfín o pez luna de vez en cuando.'
+  respuesta: Unos 25 minutos recorriendo el Port Vell —superyates y las bases de los equipos de la America's Cup, a menudo entrenando en sus barcos voladores— y unos 25 minutos a toda velocidad por la costa, con vistas de la ciudad desde el mar. Estilo safari, con algún delfín o pez luna de vez en cuando.
 - pregunta: ¿Cuántas personas van a bordo?
   respuesta: La lancha está homologada para actividad comercial y lleva hasta 8 pasajeros en asientos individuales, con un patrón profesional y divertido que te cuenta sobre la ciudad.
 - pregunta: ¿Hay edad mínima o alguna restricción?
-  respuesta: 'La edad mínima es 12 años. No se recomienda a personas con problemas de espalda o afecciones cardíacas, ni a embarazadas, por ser un paseo a alta velocidad.'
-opinionEditorial: "Para quien quiere algo más movido que un velero: media hora por el Port Vell viendo superyates y las bases de la America's Cup, y media hora a toda velocidad por la costa. Corto, intenso y muy divertido."
+  respuesta: La edad mínima es 12 años. No se recomienda a personas con problemas de espalda o afecciones cardíacas, ni a embarazadas, por ser un paseo a alta velocidad.
+opinionEditorial: 'Para quien quiere algo más movido que un velero: media hora por el Port Vell viendo superyates y las bases de la America''s Cup, y media hora a toda velocidad por la costa. Corto, intenso y muy divertido.'
 atraccionesRelacionadas:
 - barco
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - lancha rapida barcelona
 - powerboat barcelona
 - paseo en lancha barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-lancha-costa.webp"
-imagenAlt: "Lancha rápida frente a la costa de Barcelona"
+imagen: /images/actividades/barcelona/barcos/barcos-lancha-costa.webp
+imagenAlt: Lancha rápida frente a la costa de Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
-  alt: "Lancha rápida con pasajeros con chaleco navegando a toda velocidad"
+  alt: Lancha rápida con pasajeros con chaleco navegando a toda velocidad
 - src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
-  alt: "Lancha neumática surcando el mar frente a Barcelona"
+  alt: Lancha neumática surcando el mar frente a Barcelona
 - src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
-  alt: "Pasajeros sonrientes a bordo de la lancha rápida"
+  alt: Pasajeros sonrientes a bordo de la lancha rápida
 - src: https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg
-  alt: "La costa de Barcelona vista desde la lancha"
+  alt: La costa de Barcelona vista desde la lancha
 - src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
-  alt: "Patrón de la lancha explicando la ruta frente a Barcelona"
+  alt: Patrón de la lancha explicando la ruta frente a Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
-  alt: "Grupo con chalecos salvavidas a bordo de una lancha rapida frente a la costa de Barcelona"
+  alt: Grupo con chalecos salvavidas a bordo de una lancha rapida frente a la costa de Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
-  alt: "Lancha rapida levantando una gran ola de agua con los pasajeros riendo a bordo"
+  alt: Lancha rapida levantando una gran ola de agua con los pasajeros riendo a bordo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla"
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo"
+  alt: Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado"
+  alt: Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Velero y parasailing frente a la playa de la Barceloneta"
+  alt: Velero y parasailing frente a la playa de la Barceloneta
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo"
+  alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
-  alt: "Lancha rápida en el Port Vell de Barcelona"
+  alt: Lancha rápida en el Port Vell de Barcelona
 - src: /images/actividades/barcelona/barcos/barcos-lancha-mar.webp
-  alt: "Lancha en el Mediterráneo frente a Barcelona"
+  alt: Lancha en el Mediterráneo frente a Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'

@@ -67,7 +67,7 @@ opinionEditorial: 'Cádiz and Jerez are the classic day trip from Seville, and g
   The price is per group, €870 for 1 or 2 people, and it''s non-refundable. For a couple it''s expensive compared with a group tour; with 4 people (€1,160 in total) it starts to make sense.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - private cadiz and jerez from seville
 - private cadiz jerez day trip
@@ -91,6 +91,8 @@ galeria:
   alt: La Caleta beach and the old bathhouse
 bokunProductId: 860683
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

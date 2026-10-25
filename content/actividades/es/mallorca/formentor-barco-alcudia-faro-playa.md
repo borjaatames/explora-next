@@ -30,7 +30,7 @@ noIncluye:
 - Comida
 puntoEncuentro:
   texto: Puerto deportivo Alcudiamar (Port d'Alcúdia), primer muelle, amarres 15 a 17
-  descripcionGuia: 'Preséntate al personal de Alcudia Sea Explorer 15 minutos antes de la salida. Si reservas la opción con recogida, el bono indica la hora y el punto.'
+  descripcionGuia: Preséntate al personal de Alcudia Sea Explorer 15 minutos antes de la salida. Si reservas la opción con recogida, el bono indica la hora y el punto.
   latitud: 39.8365
   longitud: 3.136
   zoom: 15
@@ -67,7 +67,7 @@ opinionEditorial: La mejor forma de ver Formentor ahora que la carretera tiene r
 guiasRelacionadas:
 - que-ver-en-mallorca
 - mejores-calas-mallorca
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco formentor
 - excursion barco formentor alcudia

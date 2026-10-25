@@ -6,7 +6,7 @@ descripcion: 'Entrada sin colas al acuario Poema del Mar de Las Palmas: 35 ecosi
 slugs:
   es: poema-del-mar-entrada-sin-colas
   en: poema-del-mar-aquarium-ticket
-duracion: 'Entrada válida 1 día'
+duracion: Entrada válida 1 día
 precioDesde: 29
 moneda: EUR
 idiomas:
@@ -28,7 +28,7 @@ noIncluye:
 - Recogida y regreso al hotel
 - Comida y bebida
 puntoEncuentro:
-  texto: 'Taquillas del acuario Poema del Mar, Muelle Sanapú, Las Palmas de Gran Canaria.'
+  texto: Taquillas del acuario Poema del Mar, Muelle Sanapú, Las Palmas de Gran Canaria.
   descripcionGuia: Presenta la reserva en la taquilla del acuario; la entrada sin colas se canjea allí. El acuario está en la zona portuaria de Las Palmas, en el Muelle Sanapú.
   latitud: 28.1448
   longitud: -15.4282
@@ -62,23 +62,23 @@ preguntasFrecuentes:
 opinionEditorial: 'Es el plan de lluvia o de calima por excelencia en Gran Canaria, y la ventana curva del tanque principal impresiona de verdad. Desde el sur hay unos 50 km de trayecto: compénsalo combinándolo con Vegueta o con Las Canteras.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: entradas
+categoria: parques
 keywords:
 - poema del mar entrada
 - acuario las palmas
 - poema del mar gran canaria
 - acuario gran canaria
-imagen: "/images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp"
-imagenAlt: "La gran ventana curva del acuario Poema del Mar"
+imagen: /images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp
+imagenAlt: La gran ventana curva del acuario Poema del Mar
 galeria:
-- src: "/images/actividades/gran-canaria/poema-del-mar/arrecife.webp"
-  alt: "Peces tropicales en el arrecife del Poema del Mar"
-- src: "/images/actividades/gran-canaria/poema-del-mar/tunel.webp"
-  alt: "Túnel submarino entre peces en el Poema del Mar"
-- src: "/images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp"
-  alt: "Tiburones y rayas sobre el túnel del Poema del Mar"
-- src: "/images/actividades/gran-canaria/poema-del-mar/la-jungla.webp"
-  alt: "Peces bajo las raíces de la zona La Jungla del Poema del Mar"
+- src: /images/actividades/gran-canaria/poema-del-mar/arrecife.webp
+  alt: Peces tropicales en el arrecife del Poema del Mar
+- src: /images/actividades/gran-canaria/poema-del-mar/tunel.webp
+  alt: Túnel submarino entre peces en el Poema del Mar
+- src: /images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp
+  alt: Tiburones y rayas sobre el túnel del Poema del Mar
+- src: /images/actividades/gran-canaria/poema-del-mar/la-jungla.webp
+  alt: Peces bajo las raíces de la zona La Jungla del Poema del Mar
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

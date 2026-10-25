@@ -74,7 +74,8 @@ opinionEditorial: 'Es el día «sin pensar en nada» de Barcelona: un guía solo
 atraccionesRelacionadas:
 - sagrada-familia
 - park-guell
-categoria: visitasGuiadas
+- gotico
+categoria: toursCiudad
 keywords:
 - sagrada familia y park guell tour privado
 - tour privado barcelona dia completo
@@ -105,6 +106,7 @@ galeria:
   alt: Viajera contemplando Barcelona desde el Park Güell
 bokunProductId: 217566
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

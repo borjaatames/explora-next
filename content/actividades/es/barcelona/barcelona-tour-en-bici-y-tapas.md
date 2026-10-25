@@ -63,7 +63,7 @@ opinionEditorial: 'Una forma ligera de ver mucha Barcelona en una mañana: bici 
 atraccionesRelacionadas:
 - barrio-gotico
 - tapas-barcelona
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour en bici barcelona
 - bici y tapas barcelona

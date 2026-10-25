@@ -59,11 +59,7 @@ atracciones:
     descripcion: "Miles of sand and a tidal lagoon between Costa Calma and Risco del Paso. It's the windsurfing and kitesurfing mecca of the Canaries and, at low tide, one of the island's classic views."
     imagen: "/images/actividades/fuerteventura/zonas/sotavento-laguna.webp"
     imagenAlt: "The Sotavento tidal lagoon on the Jandía peninsula"
-chipsFiltros:
-  - { label: "At sea", tag: "mar" }
-  - { label: "Lobos Island", tag: "lobos" }
-  - { label: "Corralejo and the north", tag: "norte" }
-  - { label: "South and Jandía", tag: "sur" }
+chipsFiltros: []
 ---
 
 Fuerteventura is the second-largest of the Canary Islands and the closest to Africa, less than 100 km from the Moroccan coast. It has about **129,000 inhabitants**, more than a third of them in the capital, **Puerto del Rosario**, and since 2009 the whole island and its surrounding sea have been a UNESCO **Biosphere Reserve**. This is the beach island: more than 70 km of sand, with turquoise water on the east coast and Atlantic surf on the west.

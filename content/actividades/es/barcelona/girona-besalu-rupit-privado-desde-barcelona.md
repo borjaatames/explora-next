@@ -63,7 +63,6 @@ opinionEditorial: 'Es una forma cómoda de ver la Cataluña medieval en un día 
 
 
   En contra, el precio en pareja (desde unos 340 € por persona). Compensa sobre todo en grupos de 3 o 4.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - excursion girona desde barcelona
@@ -95,6 +94,7 @@ galeria:
   alt: Viajeros cruzando el puente colgante de Rupit
 bokunProductId: 217559
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

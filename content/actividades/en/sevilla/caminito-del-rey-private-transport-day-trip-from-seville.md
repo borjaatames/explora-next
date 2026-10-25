@@ -72,7 +72,7 @@ opinionEditorial: 'The Caminito del Rey is much closer to Málaga than to Sevill
   The price is per group, €620 for 1 or 2 people: expensive for a couple. With 4 people, €880 in total, it''s €220 a head. Note that the route guide is shared; it''s the car that''s private.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - caminito del rey from seville
 - caminito del rey day trip from seville
@@ -100,6 +100,8 @@ galeria:
   alt: Caminito del Rey suspension bridge
 bokunProductId: 860688
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

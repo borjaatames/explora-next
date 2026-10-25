@@ -73,7 +73,7 @@ opinionEditorial: Es Vedrà es la imagen más mágica de Ibiza y desde el mar im
 guiasRelacionadas:
 - que-ver-en-ibiza
 - mejores-calas-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - excursion barco es vedra
 - es vedra desde el mar

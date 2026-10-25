@@ -66,7 +66,7 @@ opinionEditorial: 'La boat party clásica de Barcelona: dos horas en el mar con 
   Cuesta unos 53 € por persona. Ojo con dos cosas: no es reembolsable y no navega en invierno, así que resérvala solo si tienes las fechas claras entre primavera y otoño.'
 atraccionesRelacionadas:
 - barco
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - boat party barcelona
 - fiesta en barco barcelona

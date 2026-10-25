@@ -56,13 +56,10 @@ atracciones:
     imagen: "/images/actividades/granada/sierra-nevada-raquetas-senderismo/sierra-nevada-raquetas-senderismo-paisaje-3000-metros-04-hero.webp"
     imagenAlt: "Schneebedeckte Gipfel der Sierra Nevada von oben gesehen"
 chipsFiltros:
-  - { label: "Hammam", tag: "hammam" }
-  - { label: "Die Alhambra", tag: "alhambra" }
-  - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Albaicín und Sacromonte", tag: "albaicin-sacromonte" }
-  - { label: "Kathedrale und Königliche Kapelle", tag: "catedral" }
-  - { label: "Tagesausflüge", tag: "excursiones" }
-  - { label: "Weitere Erlebnisse", tag: "otros-granada" }
+  - { label: "Alhambra", tag: "alhambra" }
+  - { label: "Albaicín & Sacromonte", tag: "albaicin-sacromonte" }
+  - { label: "Kathedrale & Capilla Real", tag: "catedral" }
+  - { label: "Alpujarra", tag: "alpujarra" }
 ---
 
 Granada ist eine der fünf unverzichtbaren Städte Spaniens und die **letzte muslimische Hauptstadt Europas**, erobert von den Katholischen Königen im Jahr 1492. Sie ist Provinzhauptstadt in Andalusien mit rund **232.000 Einwohnern** im Stadtgebiet und mehr als 530.000 im Großraum.

@@ -1,8 +1,8 @@
 ---
-titulo: "Cala Granadella Day Trip from Valencia"
+titulo: Cala Granadella Day Trip from Valencia
 slug: cala-granadella-javea-day-trip
 ciudad: valencia
-descripcion: "Day trip to Cala Granadella in Jávea, one of the most beautiful coves on the Costa Blanca, with turquoise water ideal for swimming and snorkelling."
+descripcion: Day trip to Cala Granadella in Jávea, one of the most beautiful coves on the Costa Blanca, with turquoise water ideal for swimming and snorkelling.
 slugs:
   es: excursion-cala-granadella-javea
   en: cala-granadella-javea-day-trip
@@ -14,7 +14,7 @@ idiomas:
 - es
 proveedor: bokun
 bokunProductId: 1034927
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -34,26 +34,26 @@ puntoEncuentro:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
-opinionEditorial: "Granadella is one of those coves that makes every list of Spain's best, and for good reason: turquoise water, pines down to the shore and great snorkelling. Going with transport from Valencia saves you the parking nightmare that summer brings."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+opinionEditorial: 'Granadella is one of those coves that makes every list of Spain''s best, and for good reason: turquoise water, pines down to the shore and great snorkelling. Going with transport from Valencia saves you the parking nightmare that summer brings.'
 categoria: excursionesDia
 keywords:
 - cala granadella day trip
 - javea beach from valencia
 - best costa blanca coves
-imagen: "/images/actividades/valencia/cala-granadella/cala-granadella-01.webp"
+imagen: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
 imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
 galeria:
 - src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
-  alt: "Turquoise water at Granadella cove"
+  alt: Turquoise water at Granadella cove
 - src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
-  alt: "Crystal-clear water among rocks at Granadella"
+  alt: Crystal-clear water among rocks at Granadella
 - src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
-  alt: "Granadella cove between cliffs"
+  alt: Granadella cove between cliffs
 - src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
-  alt: "Granadella beach with swimmers"
+  alt: Granadella beach with swimmers
 - src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
-  alt: "Aerial view of Granadella cove"
+  alt: Aerial view of Granadella cove
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
   alt: Aerial view of Cala Granadella, with its beach and the surrounding mountains
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
@@ -67,7 +67,7 @@ galeria:
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
   alt: Mediterranean cove with turquoise water on the Costa Blanca
 atraccionesRelacionadas:
-  - excursiones
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

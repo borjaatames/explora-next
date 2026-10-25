@@ -68,7 +68,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s the Costa Daurada''s most-booked sea trip, with over 2,000 reviews: open bar, swim and food for about €35. Take a midday departure so the burger is included.'
 guiasRelacionadas:
 - tarragona-in-one-day
-categoria: excursionesDia
+categoria: agua
 keywords:
 - cambrils catamaran
 - salou boat trip

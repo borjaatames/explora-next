@@ -111,7 +111,7 @@ opinionEditorial: 'Seville''s **standard tourist bus** — international City Si
   '
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: transporte
+categoria: toursCiudad
 keywords:
 - tourist bus seville
 - hop on hop off seville

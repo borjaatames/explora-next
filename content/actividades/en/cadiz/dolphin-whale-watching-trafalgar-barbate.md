@@ -66,7 +66,7 @@ preguntasFrecuentes:
 opinionEditorial: Seeing wild dolphins off Trafalgar is unforgettable. The 4.1 rating reflects that whales don't always show up and the sea can get choppy; with that in mind, it's well worth it.
 guiasRelacionadas:
 - cadiz-beaches-costa-de-la-luz
-categoria: excursionesDia
+categoria: agua
 keywords:
 - dolphin watching cadiz
 - whale watching barbate
@@ -75,20 +75,20 @@ keywords:
 imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Common dolphins leaping
 galeria:
-- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
-- src: "/images/actividades/cadiz/delfines/delfin-comun.webp"
-  alt: "A common dolphin at the surface"
-- src: "/images/actividades/cadiz/delfines/rorcual.webp"
-  alt: "A fin whale at the surface"
-- src: "/images/actividades/cadiz/delfines/rorcual-soplo.webp"
-  alt: "A fin whale swimming in the Atlantic"
-- src: "/images/actividades/cadiz/delfines/faro-trafalgar.webp"
-  alt: "Cape Trafalgar lighthouse"
-- src: "/images/actividades/cadiz/delfines/cabo-trafalgar.webp"
-  alt: "Cape Trafalgar and its lighthouse"
-- src: "/images/actividades/cadiz/delfines/puerto-barbate.webp"
-  alt: "Pleasure boats moored in Barbate harbour"
+- src: /images/actividades/cadiz/ciudades/cadiz-hero.webp
+  alt: Monument to the 1812 Constitution in Cádiz's Plaza de España
+- src: /images/actividades/cadiz/delfines/delfin-comun.webp
+  alt: A common dolphin at the surface
+- src: /images/actividades/cadiz/delfines/rorcual.webp
+  alt: A fin whale at the surface
+- src: /images/actividades/cadiz/delfines/rorcual-soplo.webp
+  alt: A fin whale swimming in the Atlantic
+- src: /images/actividades/cadiz/delfines/faro-trafalgar.webp
+  alt: Cape Trafalgar lighthouse
+- src: /images/actividades/cadiz/delfines/cabo-trafalgar.webp
+  alt: Cape Trafalgar and its lighthouse
+- src: /images/actividades/cadiz/delfines/puerto-barbate.webp
+  alt: Pleasure boats moored in Barbate harbour
 ratingProveedor: 4.1
 numeroOpiniones: 792
 atraccionesRelacionadas:

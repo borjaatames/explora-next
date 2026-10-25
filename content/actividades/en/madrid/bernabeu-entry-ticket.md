@@ -84,6 +84,7 @@ opinionEditorial: 'This is the official Bernabéu Tour ticket sold by GetYourGui
 
   '
 atraccionesRelacionadas:
+- bernabeu
 - futbol
 categoria: entradas
 keywords:

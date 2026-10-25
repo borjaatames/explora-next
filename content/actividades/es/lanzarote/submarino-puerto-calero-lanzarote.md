@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: inmersión en submarino desde Puerto Calero'
 slug: submarino-puerto-calero-lanzarote
 ciudad: lanzarote
-descripcion: 'Una hora en un submarino real que baja hasta 30 m frente a Puerto Calero para ver pecios y peces, con audioguía en 10 idiomas, certificado y recogida opcional. 4,6/5 con más de 1.500 reseñas.'
+descripcion: Una hora en un submarino real que baja hasta 30 m frente a Puerto Calero para ver pecios y peces, con audioguía en 10 idiomas, certificado y recogida opcional. 4,6/5 con más de 1.500 reseñas.
 slugs:
   es: submarino-puerto-calero-lanzarote
   en: lanzarote-submarine-dive-puerto-calero
@@ -18,7 +18,7 @@ idiomas:
 - it
 - nl
 - fi
-- no
+- 'no'
 - pl
 - cs
 proveedor: getyourguide
@@ -42,8 +42,8 @@ noIncluye:
 - Comida y bebidas
 - Recogida fuera de las zonas indicadas
 puntoEncuentro:
-  texto: 'Submarine Safaris, Marina Puerto Calero, Módulo C, Local 2, Puerto Calero (Yaiza).'
-  descripcionGuia: 'Preséntate 30 minutos antes de la hora de inmersión. Si eliges recogida, para las inmersiones de las 11:00 y las 13:00 solo se recoge en Playa Blanca, y para las de las 12:00 y las 14:00 solo en Costa Teguise y Puerto del Carmen.'
+  texto: Submarine Safaris, Marina Puerto Calero, Módulo C, Local 2, Puerto Calero (Yaiza).
+  descripcionGuia: Preséntate 30 minutos antes de la hora de inmersión. Si eliges recogida, para las inmersiones de las 11:00 y las 13:00 solo se recoge en Playa Blanca, y para las de las 12:00 y las 14:00 solo en Costa Teguise y Puerto del Carmen.
   latitud: 28.9166
   longitud: -13.7043
   zoom: 16
@@ -67,17 +67,17 @@ accesibilidad: GetYourGuide no lo indica como accesible; consulta con el operado
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿A qué profundidad baja?
-  respuesta: 'Hasta unos 30 metros, donde hay tres pecios hundidos y abundante vida marina.'
+  respuesta: Hasta unos 30 metros, donde hay tres pecios hundidos y abundante vida marina.
 - pregunta: ¿Es apto para embarazadas o personas con problemas de oído?
-  respuesta: 'El operador explica que la cabina se mantiene a presión atmosférica normal, así que no afecta a embarazadas ni a personas con problemas de corazón u oídos. Si tienes dudas, consúltalo con tu médico.'
+  respuesta: El operador explica que la cabina se mantiene a presión atmosférica normal, así que no afecta a embarazadas ni a personas con problemas de corazón u oídos. Si tienes dudas, consúltalo con tu médico.
 - pregunta: ¿Pueden ir niños?
-  respuesta: 'Sí, a partir de 2 años. Los menores de 2 no pueden embarcar por motivos de seguridad del equipo.'
+  respuesta: Sí, a partir de 2 años. Los menores de 2 no pueden embarcar por motivos de seguridad del equipo.
 - pregunta: ¿Incluye recogida?
   respuesta: 'Solo si eliges esa opción y depende de la hora: las inmersiones de las 11:00 y las 13:00 recogen en Playa Blanca, y las de las 12:00 y las 14:00 en Costa Teguise y Puerto del Carmen.'
 opinionEditorial: 'Es la forma de ver el fondo del mar de Lanzarote para quien no bucea, y funciona especialmente bien con niños: pecios y peces sin mojarse y en una hora. La relación calidad-precio es lo peor valorado (4,2), y la visibilidad depende del día. Si vas por el sur, combínalo con un paseo por la marina de Puerto Calero.'
 guiasRelacionadas:
 - que-ver-en-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - submarino lanzarote
 - submarino puerto calero
@@ -87,14 +87,14 @@ keywords:
 imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: El submarino de Puerto Calero en la superficie antes de sumergirse
 galeria:
-- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
-  alt: "Barcos amarrados en la Marina Rubicón, en Playa Blanca"
-- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
-  alt: "Barcas de pesca en Arrecife, la capital de Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/arrecife-casas.webp"
-  alt: "Casas blancas junto al agua en Arrecife"
-- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
-  alt: "Costa sur de Lanzarote junto a las playas de Papagayo"
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: Barcos amarrados en la Marina Rubicón, en Playa Blanca
+- src: /images/actividades/lanzarote/zonas/arrecife-barcas.webp
+  alt: Barcas de pesca en Arrecife, la capital de Lanzarote
+- src: /images/actividades/lanzarote/zonas/arrecife-casas.webp
+  alt: Casas blancas junto al agua en Arrecife
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: Costa sur de Lanzarote junto a las playas de Papagayo
 ratingProveedor: 4.6
 numeroOpiniones: 1562
 atraccionesRelacionadas:

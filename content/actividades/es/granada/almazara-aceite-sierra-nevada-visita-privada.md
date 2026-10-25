@@ -59,7 +59,7 @@ opinionEditorial: 'Es una salida corta y muy concreta: media mañana entre olivo
   El precio para dos personas es alto (388 € cada una) porque todo es privado, transporte incluido; con cuatro baja a 205 €. Encaja mejor a familias o grupos pequeños aficionados a la gastronomía.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - almazara granada
 - visita almazara
@@ -86,6 +86,7 @@ galeria:
   alt: Aceitunas recién recogidas cayendo al remolque
 bokunProductId: 938052
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la visita

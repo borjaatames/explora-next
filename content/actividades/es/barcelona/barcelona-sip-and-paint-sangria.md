@@ -65,7 +65,7 @@ opinionEditorial: 'Es un plan de tarde distinto: pintas un cuadro guiado paso a 
   Cuesta unos 19 € por persona, sangría incluida, así que es barato. Es nuevo y aún no tiene opiniones. Para viajeros solos, grupos de amigas o una despedida tranquila, funciona.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: espectaculos
+categoria: talleres
 keywords:
 - sip and paint barcelona
 - pintar con sangria barcelona

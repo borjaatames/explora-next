@@ -75,7 +75,7 @@ guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 atraccionesRelacionadas:
 - costa-brava
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - islas medes barco
 - excursion islas medas

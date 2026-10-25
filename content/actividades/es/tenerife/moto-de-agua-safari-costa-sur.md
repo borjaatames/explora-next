@@ -72,7 +72,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es una manera sencilla de probar la moto de agua sin carnet y con guía, por un tramo de costa volcánica bonito y poco masificado. Elige la hora completa: en 40 minutos, entre la explicación y el regreso, el paseo se queda corto. No es para quien no sabe nadar ni para quien quiere ir por libre.'
 guiasRelacionadas:
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - moto de agua tenerife
 - jet ski tenerife sur

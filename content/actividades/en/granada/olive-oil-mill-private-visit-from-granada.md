@@ -59,7 +59,7 @@ opinionEditorial: 'It''s a short, focused outing: half a morning among olive tre
   For two the price is high (€388 each) because everything is private, transport included; for four it falls to €205. It suits families or small groups into food.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - olive oil mill granada
 - olive oil tour granada
@@ -86,6 +86,7 @@ galeria:
   alt: Freshly harvested olives pouring into a trailer
 bokunProductId: 938052
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the visit works

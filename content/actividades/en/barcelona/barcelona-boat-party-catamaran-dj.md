@@ -66,7 +66,7 @@ opinionEditorial: 'Barcelona''s classic boat party: two hours at sea with a DJ, 
   It costs about €53 per person. Two things to watch: it''s non-refundable and doesn''t sail in winter, so only book once your spring-to-autumn dates are fixed.'
 atraccionesRelacionadas:
 - barco
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - barcelona boat party
 - party boat barcelona

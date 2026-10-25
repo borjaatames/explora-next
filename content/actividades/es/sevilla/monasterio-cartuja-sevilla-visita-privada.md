@@ -90,6 +90,7 @@ galeria:
   alt: Hornos-chimenea de la antigua fábrica de loza
 bokunProductId: 933450
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

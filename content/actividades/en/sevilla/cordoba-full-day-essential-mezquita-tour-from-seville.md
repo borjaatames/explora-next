@@ -103,6 +103,7 @@ opinionEditorial: 'The **classic Córdoba excursion from Seville** — long-stan
 
   '
 atraccionesRelacionadas:
+- cordoba
 - excursiones
 categoria: excursionesDia
 keywords:

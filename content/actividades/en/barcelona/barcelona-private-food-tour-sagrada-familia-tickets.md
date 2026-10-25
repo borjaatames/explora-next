@@ -74,8 +74,8 @@ opinionEditorial: 'It combines in one afternoon the two things almost everyone w
 
   From about €186 per person for two (about €150 each for four). Bear in mind that inside the Sagrada Familia you use an audio guide, not your guide, so bring headphones.'
 atraccionesRelacionadas:
-- tapas-barcelona
 - sagrada-familia
+- tapas-barcelona
 categoria: toursGastronomicos
 keywords:
 - food tour and sagrada familia
@@ -105,6 +105,7 @@ galeria:
   alt: Sagrada Familia towers against a blue sky
 bokunProductId: 217558
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the afternoon works

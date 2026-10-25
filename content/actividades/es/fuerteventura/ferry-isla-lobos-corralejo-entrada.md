@@ -1,12 +1,12 @@
-﻿---
+---
 titulo: 'Corralejo: ferri de ida y vuelta a la Isla de Lobos'
 slug: ferry-isla-lobos-corralejo-entrada
 ciudad: fuerteventura
-descripcion: 'Billete de ferri de ida y vuelta de Corralejo a la Isla de Lobos con entrada al parque natural, con vuelta a elegir entre cinco horarios. 4,7/5 con más de 1.400 reseñas.'
+descripcion: Billete de ferri de ida y vuelta de Corralejo a la Isla de Lobos con entrada al parque natural, con vuelta a elegir entre cinco horarios. 4,7/5 con más de 1.400 reseñas.
 slugs:
   es: ferry-isla-lobos-corralejo-entrada
   en: lobos-island-ferry-corralejo-park-entry
-duracion: 'Billete válido 1 día'
+duracion: Billete válido 1 día
 duracionMinutos: 240
 precioDesde: 17
 moneda: EUR
@@ -61,39 +61,40 @@ accesibilidad: No apto para personas con movilidad reducida ni sillas de ruedas.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Necesito además el permiso del Cabildo?
-  respuesta: 'El billete incluye la entrada al parque natural según el operador. Aun así, comprueba en tu confirmación que figura la autorización de acceso; si no, pídela gratis en lobospass.com antes de ir.'
+  respuesta: El billete incluye la entrada al parque natural según el operador. Aun así, comprueba en tu confirmación que figura la autorización de acceso; si no, pídela gratis en lobospass.com antes de ir.
 - pregunta: ¿Cuánto dura la travesía?
   respuesta: Unos 20 minutos desde el puerto de Corralejo.
 - pregunta: ¿A qué hora puedo volver?
-  respuesta: 'Eliges la vuelta antes de embarcar entre las 12:15, 13:00, 14:30, 16:00 y 17:00.'
+  respuesta: Eliges la vuelta antes de embarcar entre las 12:15, 13:00, 14:30, 16:00 y 17:00.
 - pregunta: ¿Hay dónde comer en Lobos?
   respuesta: Hay un único restaurante cerca de El Puertito. Lleva agua y comida por si está lleno.
 opinionEditorial: 'Es la forma más barata y libre de ver Lobos: llegas, caminas a tu ritmo y vuelves cuando quieras dentro de los horarios. Para dar la vuelta al faro y subir a La Caldera elige una vuelta de las 14:30 en adelante. Si prefieres no caminar y quieres comida y actividades incluidas, compensa más el catamarán.'
 guiasRelacionadas:
 - isla-de-lobos-como-ir
 - que-ver-en-fuerteventura
-categoria: transporte
+categoria: agua
 keywords:
 - ferry isla de lobos
 - barco corralejo lobos
 - como ir a isla de lobos
 - isla de lobos fuerteventura
 imagen: /images/actividades/fuerteventura/ferry-lobos.webp
-imagenAlt: "Ferri de pasajeros entre Corralejo y la Isla de Lobos"
+imagenAlt: Ferri de pasajeros entre Corralejo y la Isla de Lobos
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp"
-  alt: "Vista aérea de la Isla de Lobos"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp"
-  alt: "Costa rocosa de la Isla de Lobos desde el aire"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
-  alt: "La Isla de Lobos vista desde el mar"
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
-  alt: "Barcos de excursión en el puerto de Corralejo"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
-  alt: "Dunas de Corralejo con Lobos y Lanzarote en el horizonte"
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
+  alt: Vista aérea de la Isla de Lobos
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp
+  alt: Costa rocosa de la Isla de Lobos desde el aire
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp
+  alt: La Isla de Lobos vista desde el mar
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: Barcos de excursión en el puerto de Corralejo
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
+  alt: Dunas de Corralejo con Lobos y Lanzarote en el horizonte
 ratingProveedor: 4.7
 numeroOpiniones: 1425
 atraccionesRelacionadas:
+- isla-lobos
 - lobos
 publicada: true
 destacada: false

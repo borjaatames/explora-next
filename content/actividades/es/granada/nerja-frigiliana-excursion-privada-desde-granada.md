@@ -66,7 +66,7 @@ opinionEditorial: 'Junta en un día tres de los grandes reclamos de la Axarquía
   El precio es por grupo (700 € para 1 o 2 personas, 880 € para cuatro). Para una pareja es caro; para familias, compensa no tener que conducir por las curvas de la costa.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - nerja y frigiliana desde granada
 - excursion nerja desde granada
@@ -93,6 +93,8 @@ galeria:
   alt: Costa de Nerja con sus casas sobre el mar
 bokunProductId: 919053
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

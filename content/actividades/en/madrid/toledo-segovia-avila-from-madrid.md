@@ -72,6 +72,7 @@ variantes:
 opinionEditorial: 'Three cities in a day is a lot, but this tour handles it well: minibus group, official guide and lunch included. It suits those with one free day who want Segovia, Ávila and Toledo. If you prefer a slower pace, the Segovia and Toledo tour gives more time in each city.'
 atraccionesRelacionadas:
 - toledo
+- segovia
 categoria: excursionesDia
 keywords:
 - toledo segovia avila day trip

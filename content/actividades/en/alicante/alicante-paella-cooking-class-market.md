@@ -75,20 +75,20 @@ keywords:
 imagen: /images/actividades/alicante/paella/paella.webp
 imagenAlt: A freshly made paella
 galeria:
-- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
-- src: "/images/actividades/alicante/paella/mercado-central.webp"
-  alt: "Façade of Alicante Central Market"
-- src: "/images/actividades/alicante/paella/paella-valenciana.webp"
-  alt: "Valencian paella with green beans and chicken in the pan"
-- src: "/images/actividades/alicante/paella/mercado-aereo.webp"
-  alt: "Alicante Central Market from above"
-- src: "/images/actividades/alicante/paella/paella-mixta.webp"
-  alt: "A mixed paella"
-- src: "/images/actividades/alicante/paella/tapas-tortilla.webp"
-  alt: "Spanish omelette tapas"
-- src: "/images/actividades/alicante/paella/mercado-palmeras.webp"
-  alt: "Alicante Central Market among palm trees"
+- src: /images/actividades/alicante/ciudades/alicante-hero.webp
+  alt: View of the harbour and Postiguet beach from Santa Bárbara Castle
+- src: /images/actividades/alicante/paella/mercado-central.webp
+  alt: Façade of Alicante Central Market
+- src: /images/actividades/alicante/paella/paella-valenciana.webp
+  alt: Valencian paella with green beans and chicken in the pan
+- src: /images/actividades/alicante/paella/mercado-aereo.webp
+  alt: Alicante Central Market from above
+- src: /images/actividades/alicante/paella/paella-mixta.webp
+  alt: A mixed paella
+- src: /images/actividades/alicante/paella/tapas-tortilla.webp
+  alt: Spanish omelette tapas
+- src: /images/actividades/alicante/paella/mercado-palmeras.webp
+  alt: Alicante Central Market among palm trees
 ratingProveedor: 4.9
 numeroOpiniones: 514
 atraccionesRelacionadas:

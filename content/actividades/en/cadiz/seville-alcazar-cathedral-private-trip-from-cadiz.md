@@ -66,8 +66,9 @@ opinionEditorial: 'If you have just one day and want to see Seville from the ins
 
   For only a few euros more than the same operator''s trip without tickets (about €598 for two), it''s worth it. But note: **it''s non-refundable**. No published reviews yet.'
 atraccionesRelacionadas:
+- sevilla
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - seville alcazar and cathedral from cadiz
 - seville trip from cadiz with tickets
@@ -96,6 +97,8 @@ galeria:
   alt: Detail of the Giralda and Seville Cathedral
 bokunProductId: 1223588
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

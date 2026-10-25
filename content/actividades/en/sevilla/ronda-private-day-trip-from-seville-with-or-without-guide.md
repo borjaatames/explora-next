@@ -66,8 +66,9 @@ opinionEditorial: 'Ronda is one of the most spectacular day trips from Seville: 
 
   As the price is per group, a couple (€500 without a guide) pays far more than on a group tour; for 4, at €720 in total, it''s closer. Note the guided tour is in English. If you also want the white villages, we have another private trip that includes them.'
 atraccionesRelacionadas:
+- ronda-pueblos-blancos
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - private ronda trip from seville
 - ronda private day trip seville
@@ -95,6 +96,8 @@ galeria:
   alt: White houses of Ronda on the gorge edge
 bokunProductId: 878655
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

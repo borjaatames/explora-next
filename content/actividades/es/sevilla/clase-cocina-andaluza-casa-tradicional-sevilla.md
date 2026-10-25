@@ -59,7 +59,6 @@ opinionEditorial: 'Es una experiencia muy completa: mercado, cocina de verdad en
 
 
   Para dos personas es caro, 398 € cada una, porque todo es privado. Con 4 baja a unos 219 € por persona. Lo recomiendo a quien de verdad le guste cocinar; si solo queréis comer bien, Sevilla tiene buenas tabernas por mucho menos.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - clase de cocina sevilla
@@ -88,6 +87,7 @@ galeria:
   alt: Alumnos cocinando con gorro de cocina
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

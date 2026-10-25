@@ -75,7 +75,7 @@ opinionEditorial: 'Teide''s sky is among the world''s best for stargazing and th
 guiasRelacionadas:
 - climbing-mount-teide
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - teide stargazing
 - tenerife stargazing

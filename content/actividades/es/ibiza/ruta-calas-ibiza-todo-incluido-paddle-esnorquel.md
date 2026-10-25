@@ -71,7 +71,7 @@ opinionEditorial: Es la ruta de calas mejor valorada de Ibiza (4,9/5 con más de
 guiasRelacionadas:
 - mejores-calas-ibiza
 - que-ver-en-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - excursion barco ibiza todo incluido
 - ruta calas ibiza barco

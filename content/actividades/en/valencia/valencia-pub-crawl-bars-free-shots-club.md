@@ -69,8 +69,7 @@ opinionEditorial: 'If you arrive in Valencia not knowing the nightlife, this sav
 
 
   It costs about €17 per person, which is little for what''s included. Just stick to the clubs'' dress code or you may not get in.'
-atraccionesRelacionadas: []
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - valencia pub crawl
 - valencia nightlife tour

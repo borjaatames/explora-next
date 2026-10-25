@@ -91,6 +91,7 @@ galeria:
   alt: Vista de las ruinas de Medina Azahara
 bokunProductId: 937791
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

@@ -63,7 +63,7 @@ opinionEditorial: 'Tabarca is Alicante''s sea excursion and the Santa Pola ferry
 guiasRelacionadas:
 - tabarca-island-how-to-visit
 - costa-blanca-day-trips-from-alicante
-categoria: transporte
+categoria: agua
 keywords:
 - santa pola tabarca ferry
 - boat to tabarca
@@ -72,21 +72,22 @@ keywords:
 imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Walled village of Tabarca Island seen from the sea
 galeria:
-  - src: "/images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp"
-    alt: "Torre de San Jose en la isla de Tabarca"
-  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
-    alt: "Rocky cove on Tabarca with the lighthouse behind and a gull"
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
-    alt: "Tabarca lighthouse, a white building with a stone tower"
-  - src: "/images/actividades/alicante/tabarca/porta-de-terra.webp"
-    alt: "Porta de Terra, entrance to the walled village"
-  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
-    alt: "A street in Tabarca's village"
-  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
-    alt: "Tabarca's fortification seen from the sea"
+- src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
+  alt: Torre de San Jose en la isla de Tabarca
+- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
+  alt: Rocky cove on Tabarca with the lighthouse behind and a gull
+- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
+  alt: Tabarca lighthouse, a white building with a stone tower
+- src: /images/actividades/alicante/tabarca/porta-de-terra.webp
+  alt: Porta de Terra, entrance to the walled village
+- src: /images/actividades/alicante/tabarca/tabarca-calle.webp
+  alt: A street in Tabarca's village
+- src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
+  alt: Tabarca's fortification seen from the sea
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:
+- tabarca
 - mar
 publicada: true
 destacada: false

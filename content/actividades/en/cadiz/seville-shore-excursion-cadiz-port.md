@@ -66,17 +66,18 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
+- sevilla
 - excursiones
 categoria: excursionesDia
 keywords:
 - seville shore excursion from cadiz
 - cadiz cruise port seville tour
 - cadiz shore excursion seville
-imagen: "https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg"
+imagen: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
 imagenAlt: Seville rooftops with the Cathedral at sunset
 galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
-  alt: "Baths of Doña María de Padilla in the Royal Alcázar"
+  alt: Baths of Doña María de Padilla in the Royal Alcázar
 - src: https://imgcdn.bokun.tools/7597a4b4-3633-4f0a-9e85-b729770b88aa.jpg
   alt: Seville's Plaza de España with its canal
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp

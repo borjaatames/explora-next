@@ -86,7 +86,7 @@ opinionEditorial: 'The classic Big Bus hop-on hop-off in Madrid: 4.2/5 across 90
   '
 atraccionesRelacionadas:
 - otros-madrid
-categoria: transporte
+categoria: toursCiudad
 keywords:
 - big bus madrid
 - hop on hop off madrid

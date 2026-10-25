@@ -72,7 +72,7 @@ opinionEditorial: 'This is Vine Travel''s most complete Ribera del Duero day: th
   It costs about €395 per person for two (dropping to about €350 per person for four). It''s not cheap, but it covers ten hours of transport, lunch and a specialist guide. For red wine lovers who want to understand the region it''s worth it; if you just want a quick tasting, there are shorter options.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - ribera del duero day trip from madrid
 - ribera del duero wine tour

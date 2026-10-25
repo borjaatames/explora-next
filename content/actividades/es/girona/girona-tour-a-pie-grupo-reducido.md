@@ -67,8 +67,9 @@ guiasRelacionadas:
 - que-ver-en-girona-en-un-dia
 - girona-juego-de-tronos
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour a pie girona
 - visita guiada girona
@@ -78,10 +79,10 @@ keywords:
 imagen: /images/actividades/girona/juego-de-tronos/casas-onyar.webp
 imagenAlt: Casas de colores sobre el río Onyar en Girona
 galeria:
-- src: "/images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp"
-  alt: "Escalinata de la Catedral de Girona llena de visitantes"
-- src: "/images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp"
-  alt: "Casas del Onyar con la catedral de Girona al fondo"
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp
+  alt: Escalinata de la Catedral de Girona llena de visitantes
+- src: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
+  alt: Casas del Onyar con la catedral de Girona al fondo
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Campanarios del Barri Vell de Girona vistos desde la muralla
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
@@ -93,7 +94,7 @@ galeria:
 - src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
   alt: Monasterio de Sant Pere de Galligants en Girona
 - src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: "Baños Árabes de Girona"
+  alt: Baños Árabes de Girona
 ratingProveedor: 4.8
 numeroOpiniones: 826
 publicada: true

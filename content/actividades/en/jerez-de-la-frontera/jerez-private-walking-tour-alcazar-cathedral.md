@@ -62,8 +62,7 @@ opinionEditorial: 'Jerez is famous for sherry, but its old town hides much more:
 
 
   For two it''s about €135 per person; for four, about €79. No published reviews for this tour yet.'
-atraccionesRelacionadas: []
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - private tour jerez
 - jerez de la frontera guided tour
@@ -94,6 +93,7 @@ galeria:
   alt: Jerez Cathedral among jacaranda trees
 bokunProductId: 83898
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

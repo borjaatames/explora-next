@@ -70,6 +70,7 @@ guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 - que-ver-en-girona-en-un-dia
 atraccionesRelacionadas:
+- figueres-dali
 - dali-figueres
 categoria: visitasGuiadas
 keywords:
@@ -82,29 +83,29 @@ imagen: /images/actividades/girona/dali-figueres/teatro-museo-dali-cupula.webp
 imagenAlt: Cúpula geodésica de cristal del Teatro-Museo Dalí en Figueres
 galeria:
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-fachada.webp
-  alt: "Fachada del Teatro-Museo Dalí con sus esculturas en la cornisa"
+  alt: Fachada del Teatro-Museo Dalí con sus esculturas en la cornisa
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-huevos.webp
-  alt: "Huevos gigantes sobre la cubierta del Teatro-Museo Dalí"
+  alt: Huevos gigantes sobre la cubierta del Teatro-Museo Dalí
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cubierta.webp
-  alt: "Esculturas y huevos en lo alto del Teatro-Museo Dalí"
+  alt: Esculturas y huevos en lo alto del Teatro-Museo Dalí
 - src: /images/actividades/girona/dali-figueres/dali-figueres-hero.webp
-  alt: "Teatro-Museo Dalí en Figueres"
+  alt: Teatro-Museo Dalí en Figueres
 - src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-5168.webp
-  alt: "Huevos gigantes sobre la torre del Teatro-Museo Dalí"
+  alt: Huevos gigantes sobre la torre del Teatro-Museo Dalí
 - src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-5213.webp
-  alt: "Entrada del Teatro-Museo Dalí en Figueres"
+  alt: Entrada del Teatro-Museo Dalí en Figueres
 - src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-5221.webp
-  alt: "Fachada roja con huevos del Teatro-Museo Dalí"
+  alt: Fachada roja con huevos del Teatro-Museo Dalí
 - src: /images/actividades/girona/dali-figueres/dali-figueres-pixabay-898317.webp
-  alt: "Muro rojo y cipreses del museo de Dalí"
+  alt: Muro rojo y cipreses del museo de Dalí
 - src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-teatre-museu-dal-figueres-01-jpg-01.webp
-  alt: "Cúpula geodésica del Teatro-Museo Dalí"
+  alt: Cúpula geodésica del Teatro-Museo Dalí
 - src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-cupola-of-the-teatre-museu-dal-in-figuer-02.webp
-  alt: "Cúpula del Teatro-Museo Dalí vista desde la calle"
+  alt: Cúpula del Teatro-Museo Dalí vista desde la calle
 - src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-figueres-teatre-museu-dal-0104-jpg-04.webp
-  alt: "Esculturas en la fachada del Teatro-Museo Dalí"
+  alt: Esculturas en la fachada del Teatro-Museo Dalí
 - src: /images/actividades/girona/dali-figueres/dali-figueres-wikimedia-figueres-teatre-museu-dal-0106-jpg-06.webp
-  alt: "Huevos y figuras doradas en lo alto del museo"
+  alt: Huevos y figuras doradas en lo alto del museo
 ratingProveedor: 4.7
 numeroOpiniones: 105
 publicada: true

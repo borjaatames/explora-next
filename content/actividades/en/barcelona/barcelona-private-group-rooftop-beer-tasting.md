@@ -91,6 +91,7 @@ galeria:
   alt: Two friends with beer on the rooftop
 bokunProductId: 872250
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the tasting works

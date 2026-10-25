@@ -59,7 +59,7 @@ preguntasFrecuentes:
   respuesta: 'You will not be admitted to the palaces and there is no refund. Arrive at the site at least 30 minutes before your slot: it is a 10-15 minute walk from the main entrance to the palaces.'
 - pregunta: Why is it more expensive than the official website?
   respuesta: The official ticket costs about €22. This option includes the booking service and, above all, availability when the official website is sold out, which is the norm in high season.
-avisoReserva: 'Alhambra tickets sell out weeks in advance'
+avisoReserva: Alhambra tickets sell out weeks in advance
 opinionEditorial: 'If you are visiting independently and want the whole Alhambra, this is the ticket. Book as soon as you have dates: it is Spain''s most visited monument and morning slots go fast.'
 guiasRelacionadas:
 - alhambra-how-to-visit
@@ -74,28 +74,28 @@ keywords:
 imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
 imagenAlt: Aerial view of the Alhambra in Granada with the Sierra Nevada behind
 galeria:
-  - src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
-    alt: "Court of the Lions in the Nasrid Palaces"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp"
-    alt: "Wine Gate at the Alhambra of Granada"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp"
-    alt: "The Alhambra at dusk from the Albaicín"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp"
-    alt: "Columns and arches of the Alhambra in Granada"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp"
-    alt: "Gallery of columns and arches inside the Alhambra"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-walls-towers-spain-hero.webp"
-    alt: "Walls and towers of the Alhambra fortress"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp"
-    alt: "Muqarnas ceiling in the Court of the Lions"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp"
-    alt: "Window with Nasrid inscriptions in the Cuarto Dorado"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp"
-    alt: "Fountain of the Lions in the Nasrid Palaces"
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp"
-    alt: "Coat of arms of the Nasrid kings at the Alhambra"
-  - src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp
-    alt: "Muqarnas vault of the Hall of the Abencerrajes"
+- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+  alt: Court of the Lions in the Nasrid Palaces
+- src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
+  alt: Wine Gate at the Alhambra of Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp
+  alt: The Alhambra at dusk from the Albaicín
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: Columns and arches of the Alhambra in Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
+  alt: Gallery of columns and arches inside the Alhambra
+- src: /images/actividades/granada/alhambra/alhambra-granada-walls-towers-spain-hero.webp
+  alt: Walls and towers of the Alhambra fortress
+- src: /images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp
+  alt: Muqarnas ceiling in the Court of the Lions
+- src: /images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp
+  alt: Window with Nasrid inscriptions in the Cuarto Dorado
+- src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
+  alt: Fountain of the Lions in the Nasrid Palaces
+- src: /images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp
+  alt: Coat of arms of the Nasrid kings at the Alhambra
+- src: /images/actividades/granada/generalife/generalife-granada-toit-salle-abencerrages-espagne-hero.webp
+  alt: Muqarnas vault of the Hall of the Abencerrajes
 ratingProveedor: 4.6
 numeroOpiniones: 18167
 atraccionesRelacionadas:

@@ -49,10 +49,10 @@ atracciones:
     imagen: "/images/atracciones/cadiz/tarifa.webp"
     imagenAlt: "Cometas de kitesurf en una playa de Tarifa"
 chipsFiltros:
-  - { label: "En barco", tag: "barco" }
-  - { label: "Casco antiguo", tag: "centro-historico" }
-  - { label: "Jerez: caballos y vino", tag: "jerez" }
+  - { label: "Casco antiguo", tag: "casco-antiguo" }
+  - { label: "Jerez", tag: "jerez" }
   - { label: "Pueblos blancos", tag: "pueblos-blancos" }
+  - { label: "Sevilla", tag: "sevilla" }
 ---
 
 Cádiz es la capital más meridional de la España peninsular —unos 110.000 habitantes— y, según la tradición, la **ciudad habitada más antigua de Occidente**, fundada por los fenicios hace más de 3.000 años. Está casi rodeada de mar, en una estrecha península que le da una luz y un carácter únicos.

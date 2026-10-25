@@ -63,8 +63,9 @@ opinionEditorial: 'Un buen paseo para entender Cádiz en poco tiempo: el Pópulo
 
   El precio es por grupo y es de los más razonables para un tour privado: desde unos 180 € en pareja por 2 horas. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
+- casco-antiguo
 - centro-historico
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado cadiz
 - visita guiada cadiz privada
@@ -93,6 +94,8 @@ galeria:
   alt: Puestos del Mercado Central de Cádiz
 bokunProductId: 860679
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

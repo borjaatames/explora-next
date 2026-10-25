@@ -2,11 +2,11 @@
 titulo: 'Tenerife: Catamaran whale watching with buffet lunch'
 slug: catamaran-whale-watching-buffet-tenerife
 ciudad: tenerife
-descripcion: "Full-day catamaran trip for whale and dolphin watching off Tenerife, with a buffet lunch included. Highest-rated whale watching experience on the island. 4.8/5 with 2,242 reviews."
+descripcion: Full-day catamaran trip for whale and dolphin watching off Tenerife, with a buffet lunch included. Highest-rated whale watching experience on the island. 4.8/5 with 2,242 reviews.
 slugs:
   es: catamaran-ballenas-buffet-tenerife
   en: catamaran-whale-watching-buffet-tenerife
-duracion: '5-6 hours'
+duracion: 5-6 hours
 duracionMinutos: 330
 precioDesde: 63
 moneda: EUR
@@ -32,7 +32,7 @@ noIncluye:
 - Transport to the port
 - Alcoholic drinks (usually available to purchase)
 puntoEncuentro:
-  texto: "South Tenerife port (Costa Adeje area). Confirmed on voucher."
+  texto: South Tenerife port (Costa Adeje area). Confirmed on voucher.
   descripcionGuia: Exact departure port confirmed on your booking voucher. The trip departs from the south Tenerife coast. Allow 15 minutes to get to the port from the Las Américas or Los Cristianos resort area.
   latitud: 28.0809
   longitud: -16.7357
@@ -61,10 +61,10 @@ preguntasFrecuentes:
   respuesta: Typically includes local tapas, fresh grilled fish, salads, bread, and soft drinks. The exact menu varies by operator — confirm when booking if you have dietary requirements.
 - pregunta: Why is this more expensive than other whale watching trips?
   respuesta: The longer duration (5–6 hours vs 2–3 hours), included buffet lunch, and premium catamaran explain the higher price. It is consistently rated the best whale watching experience in Tenerife, and the included meal makes it comparable in cost to a shorter trip plus lunch separately.
-opinionEditorial: "If you are going to do whale watching in Tenerife, do it properly. The full day, the buffet, and the extra time on the water add up to the best version of this experience. Rated higher than any other whale watching tour on the island."
+opinionEditorial: If you are going to do whale watching in Tenerife, do it properly. The full day, the buffet, and the extra time on the water add up to the best version of this experience. Rated higher than any other whale watching tour on the island.
 guiasRelacionadas:
 - whale-watching-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - whale watching buffet tenerife
 - full day catamaran tenerife
@@ -73,22 +73,22 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Pilot whale surfacing close to a catamaran off the coast of Tenerife
 galeria:
-  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
-    alt: "Calderones tropicales (ballenas piloto) en las aguas de Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
-    alt: "A pilot whale calf in Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/delfin-moteado.webp"
-    alt: "An Atlantic spotted dolphin"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
-    alt: "A pilot whale blowing at the surface"
-  - src: "/images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp"
-    alt: "A pair of dolphins leaping together"
-  - src: "/images/actividades/tenerife/cetaceos/ballena-aleta-superficie.webp"
-    alt: "A whale's fin at the surface"
-  - src: "/images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp"
-    alt: "A dolphin swimming close to the catamaran"
-  - src: "/images/actividades/tenerife/cetaceos/cola-ballena.webp"
-    alt: "A whale's tail in the waters off Tenerife"
+- src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
+  alt: Calderones tropicales (ballenas piloto) en las aguas de Tenerife
+- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+  alt: A pilot whale calf in Tenerife
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: An Atlantic spotted dolphin
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: A pilot whale blowing at the surface
+- src: /images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp
+  alt: A pair of dolphins leaping together
+- src: /images/actividades/tenerife/cetaceos/ballena-aleta-superficie.webp
+  alt: A whale's fin at the surface
+- src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
+  alt: A dolphin swimming close to the catamaran
+- src: /images/actividades/tenerife/cetaceos/cola-ballena.webp
+  alt: A whale's tail in the waters off Tenerife
 ratingProveedor: 4.8
 numeroOpiniones: 2242
 atraccionesRelacionadas:

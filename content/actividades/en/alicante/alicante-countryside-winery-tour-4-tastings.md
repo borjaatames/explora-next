@@ -80,18 +80,18 @@ keywords:
 imagen: /images/actividades/alicante/vino/vinedos.webp
 imagenAlt: Vineyards in the countryside
 galeria:
-- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
-- src: "/images/actividades/alicante/vino/barricas.webp"
-  alt: "Wine barrels in a cellar"
-- src: "/images/actividades/alicante/vino/cata-copas.webp"
-  alt: "Glasses set up for a wine tasting"
-- src: "/images/actividades/alicante/vino/vinedos-paisaje.webp"
-  alt: "A vineyard landscape"
-- src: "/images/actividades/alicante/vino/cata-tinto.webp"
-  alt: "A red wine tasting"
-- src: "/images/actividades/alicante/vino/barricas-filas.webp"
-  alt: "Rows of barrels"
+- src: /images/actividades/alicante/ciudades/alicante-hero.webp
+  alt: View of the harbour and Postiguet beach from Santa Bárbara Castle
+- src: /images/actividades/alicante/vino/barricas.webp
+  alt: Wine barrels in a cellar
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: Glasses set up for a wine tasting
+- src: /images/actividades/alicante/vino/vinedos-paisaje.webp
+  alt: A vineyard landscape
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: A red wine tasting
+- src: /images/actividades/alicante/vino/barricas-filas.webp
+  alt: Rows of barrels
 ratingProveedor: 4.9
 numeroOpiniones: 445
 atraccionesRelacionadas:

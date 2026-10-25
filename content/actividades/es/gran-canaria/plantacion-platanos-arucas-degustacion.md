@@ -63,7 +63,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Pequeña, barata y muy bien explicada: sales entendiendo por qué el plátano de Canarias es distinto. Combínala en la misma mañana con el casco de Arucas y su iglesia neogótica, a pocos minutos.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: visitasGuiadas
+categoria: toursGastronomicos
 keywords:
 - plantacion platanos gran canaria
 - mundo del platano arucas
@@ -72,8 +72,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
 imagenAlt: Plataneras en el paisaje de Arucas
 galeria:
-- src: "/images/actividades/gran-canaria/platano/arucas-iglesia-exterior.webp"
-  alt: "Iglesia de Arucas, Gran Canaria"
+- src: /images/actividades/gran-canaria/platano/arucas-iglesia-exterior.webp
+  alt: Iglesia de Arucas, Gran Canaria
 - src: /images/actividades/gran-canaria/platano/plataneras.webp
   alt: Racimos en una platanera canaria
 - src: /images/actividades/gran-canaria/platano/platanos-racimo.webp

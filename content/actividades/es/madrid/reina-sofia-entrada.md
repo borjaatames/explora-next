@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada al Museo Reina Sofía'
 slug: reina-sofia-entrada
 ciudad: madrid
-descripcion: 'Entrada sin colas al Museo Reina Sofía, hogar del Guernica de Picasso y la mayor colección de arte español del siglo XX. 4,5/5 con 10.347 reseñas.'
+descripcion: Entrada sin colas al Museo Reina Sofía, hogar del Guernica de Picasso y la mayor colección de arte español del siglo XX. 4,5/5 con 10.347 reseñas.
 slugs:
   es: reina-sofia-entrada
   en: reina-sofia-madrid-ticket
@@ -61,7 +61,7 @@ preguntasFrecuentes:
   respuesta: De lunes a sábado de 19h a 21h, los domingos todo el día y los días festivos nacionales. El truco es que esas franjas son las más concurridas.
 - pregunta: ¿Qué diferencia hay con las visitas guiadas del Reina Sofía?
   respuesta: Esta entrada te deja explorar a tu ritmo. Las visitas guiadas incluyen un experto que contextualiza el Guernica y la colección; ideales si quieres profundizar sin estudiar antes.
-opinionEditorial: 'El Reina Sofía es el museo más importante de España del siglo XX y el Guernica su obra cumbre. La entrada base te da acceso a toda la colección permanente a un precio razonable. Si no conoces bien el contexto histórico del Guernica, considera una visita guiada; si ya lo conoces, la entrada sola es suficiente para disfrutar a tu ritmo.'
+opinionEditorial: El Reina Sofía es el museo más importante de España del siglo XX y el Guernica su obra cumbre. La entrada base te da acceso a toda la colección permanente a un precio razonable. Si no conoces bien el contexto histórico del Guernica, considera una visita guiada; si ya lo conoces, la entrada sola es suficiente para disfrutar a tu ritmo.
 guiasRelacionadas:
 - prado-reina-sofia-thyssen-comparativa
 - madrid-en-3-dias
@@ -73,28 +73,28 @@ keywords:
 - guernica picasso madrid
 - reina sofia ticket
 imagen: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-imagenAlt: "Sala de escultura del Reina Sofía"
+imagenAlt: Sala de escultura del Reina Sofía
 galeria:
-- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp"
-  alt: "Museo Reina Sofía de Madrid"
-- src: "/images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp"
-  alt: "Visitantes en una sala del Reina Sofía"
-- src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
-  alt: "Torres de ascensores del edificio Sabatini"
-- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp"
-  alt: "Museo Reina Sofía de Madrid"
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp
+  alt: Museo Reina Sofía de Madrid
+- src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
+  alt: Visitantes en una sala del Reina Sofía
+- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
+  alt: Torres de ascensores del edificio Sabatini
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+  alt: Museo Reina Sofía de Madrid
 - src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: "Visitantes ante una obra abstracta en el Museo Reina Sofía"
+  alt: Visitantes ante una obra abstracta en el Museo Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: "Jardín interior del edificio Sabatini del Reina Sofía"
+  alt: Jardín interior del edificio Sabatini del Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: "Ascensores de cristal de la fachada del Museo Reina Sofía"
+  alt: Ascensores de cristal de la fachada del Museo Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: "Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid"
+  alt: Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: "Museo Reina Sofía de Madrid"
+  alt: Museo Reina Sofía de Madrid
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: "Museo Reina Sofía de Madrid"
+  alt: Museo Reina Sofía de Madrid
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

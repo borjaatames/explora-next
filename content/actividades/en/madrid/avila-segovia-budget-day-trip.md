@@ -81,6 +81,7 @@ opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia 
 
   '
 atraccionesRelacionadas:
+- segovia
 - excursiones-desde-madrid
 categoria: excursionesDia
 keywords:

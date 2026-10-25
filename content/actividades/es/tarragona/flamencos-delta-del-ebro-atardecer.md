@@ -70,7 +70,7 @@ preguntasFrecuentes:
 opinionEditorial: El Delta del Ebro al atardecer, con los flamencos y el Trabucador encendido, es uno de los grandes espectáculos naturales de Cataluña. Con guía ves mucho más que por libre. Imprescindible ir en coche.
 guiasRelacionadas:
 - tarragona-en-un-dia
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - flamencos delta del ebro
 - observacion de aves delta del ebro
@@ -79,10 +79,10 @@ keywords:
 imagen: /images/actividades/tarragona/delta/flamencos-salinas.webp
 imagenAlt: Flamencos en las salinas del Delta
 galeria:
-- src: "/images/actividades/tarragona/delta/flamencos-vuelo.webp"
-  alt: "Flamencos en el Delta del Ebro"
-- src: "/images/actividades/tarragona/delta/flamencos-manada.webp"
-  alt: "Flamencos en el Delta del Ebro"
+- src: /images/actividades/tarragona/delta/flamencos-vuelo.webp
+  alt: Flamencos en el Delta del Ebro
+- src: /images/actividades/tarragona/delta/flamencos-manada.webp
+  alt: Flamencos en el Delta del Ebro
 - src: /images/actividades/tarragona/delta/flamencos-laguna.webp
   alt: Flamencos en una laguna del Delta
 - src: /images/actividades/tarragona/delta/arrozales-atardecer.webp

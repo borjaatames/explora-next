@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Morro Jable: barco para ver delfines con bebidas y baño'
 slug: barco-delfines-morro-jable
 ciudad: fuerteventura
-descripcion: 'Paseo de 2 horas en el barco Magic Dolphin desde el puerto de Morro Jable para buscar delfines y ballenas frente a Jandía, con parada para bañarse y bebidas a bordo. 4,2/5 con casi 5.500 reseñas.'
+descripcion: Paseo de 2 horas en el barco Magic Dolphin desde el puerto de Morro Jable para buscar delfines y ballenas frente a Jandía, con parada para bañarse y bebidas a bordo. 4,2/5 con casi 5.500 reseñas.
 slugs:
   es: barco-delfines-morro-jable
   en: morro-jable-dolphin-whale-boat-trip
@@ -73,23 +73,23 @@ opinionEditorial: 'Es la salida de delfines con más reseñas de Fuerteventura y
 guiasRelacionadas:
 - que-ver-en-fuerteventura
 - cofete-villa-winter-como-llegar
-categoria: excursionesDia
+categoria: agua
 keywords:
 - delfines fuerteventura
 - barco morro jable
 - avistamiento cetaceos fuerteventura
 - excursion barco jandia
 imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: "Delfines nadando junto a un barco frente a Morro Jable"
+imagenAlt: Delfines nadando junto a un barco frente a Morro Jable
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/faro-morro-jable.webp"
-  alt: "El faro de Morro Jable"
-- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
-  alt: "Morro Jable y la playa del Matorral desde la montaña"
-- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
-  alt: "La costa de Jandía con el faro al fondo"
-- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
-  alt: "Faro de Morro Jable entre la vegetación del saladar"
+- src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
+  alt: El faro de Morro Jable
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: Morro Jable y la playa del Matorral desde la montaña
+- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
+  alt: La costa de Jandía con el faro al fondo
+- src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
+  alt: Faro de Morro Jable entre la vegetación del saladar
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

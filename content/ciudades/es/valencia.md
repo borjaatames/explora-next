@@ -56,12 +56,8 @@ atracciones:
     imagen: "/images/actividades/valencia/albufera/albufera-valencia-hero.webp"
     imagenAlt: "Atardecer en la Albufera de Valencia con una barca tradicional"
 chipsFiltros:
-  - { label: "Ciudad de las Artes", tag: "ciudad-artes-ciencias" }
-  - { label: "Centro histórico", tag: "centro-historico" }
-  - { label: "Bioparc", tag: "bioparc" }
-  - { label: "Excursiones", tag: "excursiones" }
-  - { label: "Paseo en barco", tag: "barco" }
-  - { label: "Gastronomía", tag: "gastronomia" }
+  - { label: "Ciudad de las Artes y las Ciencias", tag: "ciudad-artes" }
+  - { label: "Centro histórico (Lonja y Catedral)", tag: "centro-historico" }
 ---
 
 Valencia es la **tercera ciudad de España** —unos 800.000 habitantes en el municipio y cerca de 1,6 millones en su área metropolitana— y la capital de la Comunidad Valenciana, asomada al **Mediterráneo** en plena Costa del Azahar.

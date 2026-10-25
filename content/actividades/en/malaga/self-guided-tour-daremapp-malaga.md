@@ -1,8 +1,8 @@
 ---
-titulo: "Malaga Self-Guided Audio Tour – DareMapp App"
+titulo: Malaga Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-malaga
 ciudad: malaga
-descripcion: "Explore Malaga at your own pace with the DareMapp self-guided audio tour: Calle Larios, the Alcazaba and 15+ landmarks. No guide, available 24/7 all year."
+descripcion: 'Explore Malaga at your own pace with the DareMapp self-guided audio tour: Calle Larios, the Alcazaba and 15+ landmarks. No guide, available 24/7 all year.'
 slugs:
   es: tour-autoguiado-daremapp-malaga
   en: self-guided-tour-daremapp-malaga
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1142485
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Malaga at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover Calle Larios, Plaza de la Constitución, Málaga Cathedral and the Alcazaba, plus more than 15 points of interest in total
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Malaga"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Malaga'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,32 +50,33 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Malaga on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Malaga on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
 atraccionesRelacionadas:
+- alcazaba
 - centro-historico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided tour malaga
 - malaga audio tour
 - malaga self-guided app tour
-imagen: "/images/actividades/malaga/alcazaba/panoramica-malaga.webp"
-imagenAlt: "Panorama of Málaga from the Alcazaba"
+imagen: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
+imagenAlt: Panorama of Málaga from the Alcazaba
 galeria:
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
-  alt: "Walls of the Alcazaba of Málaga"
+  alt: Walls of the Alcazaba of Málaga
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
-  alt: "Málaga's Roman Theatre with the Alcazaba behind"
+  alt: Málaga's Roman Theatre with the Alcazaba behind
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
-  alt: "Baroque façade of Málaga Cathedral"
+  alt: Baroque façade of Málaga Cathedral
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
-  alt: "Paseo de la Farola and Málaga port from Muelle Uno"
+  alt: Paseo de la Farola and Málaga port from Muelle Uno
 - src: /images/actividades/malaga/alcazaba/jardin-patio.webp
-  alt: "Garden courtyard inside the Alcazaba"
+  alt: Garden courtyard inside the Alcazaba
 - src: /images/actividades/malaga/catedral-malaga/coro.webp
-  alt: "Carved wooden choir of Málaga Cathedral"
+  alt: Carved wooden choir of Málaga Cathedral
 - src: https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'

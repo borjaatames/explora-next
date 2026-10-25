@@ -1,12 +1,12 @@
 ---
-titulo: "Crucero en velero por Barcelona (2 h, grupo reducido)"
+titulo: Crucero en velero por Barcelona (2 h, grupo reducido)
 slug: crucero-grupo-reducido-barcelona-vela
 ciudad: barcelona
-descripcion: "Navegación de 2 horas en grupo reducido por el Mediterráneo frente a Barcelona, con comida y bebidas a bordo."
+descripcion: Navegación de 2 horas en grupo reducido por el Mediterráneo frente a Barcelona, con comida y bebidas a bordo.
 slugs:
   es: crucero-grupo-reducido-barcelona-vela
   en: barcelona-small-group-sailing-cruise
-duracion: "2 horas"
+duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 55
 moneda: EUR
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 682890
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -32,21 +32,21 @@ noIncluye:
 - Propinas
 - Toalla y bañador
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 informacionImportante:
   queTraer:
   - Toalla y bañador si quieres bañarte
   - Crema solar y gafas de sol
   aTenerEnCuenta:
   - Grupo reducido en un yate Oceanis 41
-  - 'Edad mínima 2 años; los niños deben ir acompañados de un adulto'
+  - Edad mínima 2 años; los niños deben ir acompañados de un adulto
   - Se facilitan chalecos salvavidas (para mayores de 6; avisa a la tripulación si algún niño es menor)
   - Puedes ayudar a navegar con el patrón o simplemente relajarte a bordo
 preguntasFrecuentes:
@@ -56,45 +56,45 @@ preguntasFrecuentes:
   respuesta: Sí, hay tiempo para un chapuzón en el mar. Lleva toalla y bañador, no se facilitan.
 - pregunta: ¿Hay recogida en el hotel?
   respuesta: No. Vas por tu cuenta a Marina Vela, Port Vell; los traslados al hotel no están incluidos.
-opinionEditorial: "Una forma tranquila y diferente de ver Barcelona: desde el agua, con la costa de fondo y sin prisa. El grupo reducido hace que no sea una masificación, y poder bañarte es un plus en verano."
+opinionEditorial: 'Una forma tranquila y diferente de ver Barcelona: desde el agua, con la costa de fondo y sin prisa. El grupo reducido hace que no sea una masificación, y poder bañarte es un plus en verano.'
 atraccionesRelacionadas:
 - barco
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - crucero barcelona
 - velero grupo reducido barcelona
 - navegar barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-velero-mar.webp"
-imagenAlt: "Velero navegando frente a Barcelona"
+imagen: /images/actividades/barcelona/barcos/barcos-velero-mar.webp
+imagenAlt: Velero navegando frente a Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/74dfe522-5af9-4257-a014-48183b1dec0a.jpg
-  alt: "Velero navegando frente a la costa de Barcelona"
+  alt: Velero navegando frente a la costa de Barcelona
 - src: https://imgcdn.bokun.tools/ff5ce7f2-5aed-49d1-b352-d57bb66bc29b.jpg
-  alt: "Pasajera en la proa del velero con Barcelona al fondo"
+  alt: Pasajera en la proa del velero con Barcelona al fondo
 - src: https://imgcdn.bokun.tools/69b67008-6441-4c8f-ba00-742e9a2d6bed.jpg
-  alt: "Pasajeros saltando al mar desde el velero"
+  alt: Pasajeros saltando al mar desde el velero
 - src: https://imgcdn.bokun.tools/1bdd1e38-0107-49c1-a661-bed096539b60.jpg
-  alt: "Patrón al timón del velero"
+  alt: Patrón al timón del velero
 - src: https://imgcdn.bokun.tools/b50e028c-5639-4ae4-a958-0bf9f6f195e7.jpg
-  alt: "Velero con las velas desplegadas frente a Barcelona"
+  alt: Velero con las velas desplegadas frente a Barcelona
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-02.webp
-  alt: "Pasajera sonriendo a bordo de un velero con el skyline del puerto de Barcelona al fondo"
+  alt: Pasajera sonriendo a bordo de un velero con el skyline del puerto de Barcelona al fondo
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-03.webp
-  alt: "Grupo saltando al mar desde la plataforma de un velero durante la excursion"
+  alt: Grupo saltando al mar desde la plataforma de un velero durante la excursion
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla"
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo"
+  alt: Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado"
+  alt: Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Velero y parasailing frente a la playa de la Barceloneta"
+  alt: Velero y parasailing frente a la playa de la Barceloneta
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo"
+  alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
-  alt: "Velero navegando frente a la costa de Barcelona"
+  alt: Velero navegando frente a la costa de Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'

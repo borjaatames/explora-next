@@ -60,8 +60,9 @@ opinionEditorial: 'Un buen primer contacto con Valencia: en cuatro horas ves lo 
 
 
   Es una actividad nueva y aún no tiene opiniones publicadas. En pareja sale desde unos 88 € por persona; en grupo de 4, unos 59 €.'
-atraccionesRelacionadas: []
-categoria: visitasGuiadas
+atraccionesRelacionadas:
+- centro-historico
+categoria: toursCiudad
 keywords:
 - tour privado valencia
 - visita guiada valencia casco antiguo
@@ -92,6 +93,7 @@ galeria:
   alt: Horchata con fartón en una horchatería
 bokunProductId: 837004
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

@@ -64,8 +64,7 @@ opinionEditorial: 'Para quien ya ha visto el Gótico o simplemente prefiere la B
 
 
   Aún no tiene opiniones publicadas. En pareja sale desde unos 66 € por persona; en grupo de 4, unos 40 €.'
-atraccionesRelacionadas: []
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour raval barcelona
 - barcelona alternativa tour
@@ -100,6 +99,7 @@ galeria:
   alt: Viajera con su guía ante un mercado de ladrillo rojo
 bokunProductId: 217568
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## El recorrido

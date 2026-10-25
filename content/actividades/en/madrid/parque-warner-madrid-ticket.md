@@ -2,11 +2,11 @@
 titulo: 'Madrid: Parque Warner theme park ticket'
 slug: parque-warner-madrid-ticket
 ciudad: madrid
-descripcion: 'Skip-the-line ticket to Parque Warner Madrid, the DC and Looney Tunes theme park near Madrid with roller coasters, shows and themed areas. 4.6/5 with 2,271 reviews.'
+descripcion: Skip-the-line ticket to Parque Warner Madrid, the DC and Looney Tunes theme park near Madrid with roller coasters, shows and themed areas. 4.6/5 with 2,271 reviews.
 slugs:
   es: parque-warner-madrid-entrada
   en: parque-warner-madrid-ticket
-duracion: '1 day'
+duracion: 1 day
 duracionMinutos: 480
 precioDesde: 33
 moneda: EUR
@@ -30,10 +30,10 @@ noIncluye:
 - Transport from Madrid (50 km away)
 - Fast-pass upgrades
 puntoEncuentro:
-  texto: 'Parque Warner, San Martín de la Vega, Madrid (50 km south)'
+  texto: Parque Warner, San Martín de la Vega, Madrid (50 km south)
   descripcionGuia: The park is 50 km from Madrid. There are daily buses from Madrid (Estación Sur de Autobuses). By car, take the A-4 motorway to exit 22. Check the operator for current bus schedules.
   latitud: 40.2058
-  longitud: -3.5620
+  longitud: -3.562
   zoom: 13
 detallesPracticos:
   ticketMovil: true
@@ -58,31 +58,31 @@ preguntasFrecuentes:
   respuesta: About 50 km south, roughly 45 minutes by car or bus. There are direct shuttle buses from Madrid's Estación Sur de Autobuses.
 - pregunta: What's the best ride?
   respuesta: Superman Ride is the park's most popular coaster. Batman Gotham City is more intense. Both have long queues in peak season — arrive at opening.
-opinionEditorial: "Parque Warner is one of Spain's best theme parks, on par with PortAventura for ride quality. The DC and Warner Bros theming is well executed, and the stunt shows are genuinely impressive. A full day well spent."
+opinionEditorial: Parque Warner is one of Spain's best theme parks, on par with PortAventura for ride quality. The DC and Warner Bros theming is well executed, and the stunt shows are genuinely impressive. A full day well spent.
 guiasRelacionadas:
 - madrid-with-kids
-categoria: entradas
+categoria: parques
 keywords:
 - parque warner madrid ticket
 - warner bros theme park madrid
 - madrid theme park
 imagen: /images/actividades/madrid/parque-warner/rio-bravo.webp
-imagenAlt: "Rio Bravo water ride drop at Parque Warner Madrid"
+imagenAlt: Rio Bravo water ride drop at Parque Warner Madrid
 galeria:
-  - src: "/images/actividades/madrid/parque-warner/coaster-express.webp"
-    alt: "Coaster Express wooden roller coaster at Parque Warner"
-  - src: "/images/actividades/madrid/parque-warner/torre-noche.webp"
-    alt: "Drop tower lit up at night at Parque Warner Madrid"
-  - src: "/images/actividades/madrid/parque-warner/espectaculo-nocturno.webp"
-    alt: "Night fireworks show at Parque Warner"
-  - src: "/images/actividades/madrid/parque-warner/torre-caida-noche.webp"
-    alt: "Drop tower seen from below at night"
-  - src: "/images/actividades/madrid/parque-warner/coaster-madera-estructura.webp"
-    alt: "Structure of the wooden roller coaster"
-  - src: "/images/actividades/madrid/parque-warner/rio-bravo-tobogan.webp"
-    alt: "Water slide of the Rio Bravo ride"
-  - src: "/images/actividades/madrid/parque-warner/rio-bravo-caida.webp"
-    alt: "Final drop of the Rio Bravo ride"
+- src: /images/actividades/madrid/parque-warner/coaster-express.webp
+  alt: Coaster Express wooden roller coaster at Parque Warner
+- src: /images/actividades/madrid/parque-warner/torre-noche.webp
+  alt: Drop tower lit up at night at Parque Warner Madrid
+- src: /images/actividades/madrid/parque-warner/espectaculo-nocturno.webp
+  alt: Night fireworks show at Parque Warner
+- src: /images/actividades/madrid/parque-warner/torre-caida-noche.webp
+  alt: Drop tower seen from below at night
+- src: /images/actividades/madrid/parque-warner/coaster-madera-estructura.webp
+  alt: Structure of the wooden roller coaster
+- src: /images/actividades/madrid/parque-warner/rio-bravo-tobogan.webp
+  alt: Water slide of the Rio Bravo ride
+- src: /images/actividades/madrid/parque-warner/rio-bravo-caida.webp
+  alt: Final drop of the Rio Bravo ride
 ratingProveedor: 4.6
 numeroOpiniones: 2271
 atraccionesRelacionadas:

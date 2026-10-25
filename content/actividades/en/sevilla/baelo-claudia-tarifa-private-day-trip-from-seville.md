@@ -89,6 +89,7 @@ galeria:
   alt: Playa de los Lances in Tarifa with kitesurfing kites
 bokunProductId: 132421
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

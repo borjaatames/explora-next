@@ -77,7 +77,7 @@ opinionEditorial: Es la ruta en quad más barata para subir al Teide y la que sa
 guiasRelacionadas:
 - subir-al-teide
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - quad teide
 - excursion quad tenerife

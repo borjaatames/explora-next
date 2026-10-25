@@ -70,6 +70,7 @@ guiasRelacionadas:
 - day-trips-from-malaga
 - malaga-with-kids
 atraccionesRelacionadas:
+- nerja-frigiliana
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -78,10 +79,10 @@ keywords:
 - nerja and frigiliana
 - frigiliana from malaga
 imagen: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
-imagenAlt: "Estalactitas iluminadas en una sala de la Cueva de Nerja"
+imagenAlt: Estalactitas iluminadas en una sala de la Cueva de Nerja
 galeria:
-- src: "/images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp"
-  alt: "Calle encalada con macetas en Frigiliana"
+- src: /images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp
+  alt: Calle encalada con macetas en Frigiliana
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
   alt: Inside the Nerja Cave with stalactites
 - src: /images/actividades/malaga/frigiliana/frigiliana-calle.webp

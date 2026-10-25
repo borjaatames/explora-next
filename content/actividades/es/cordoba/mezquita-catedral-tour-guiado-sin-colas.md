@@ -80,8 +80,8 @@ keywords:
 imagen: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
 imagenAlt: Bosque de columnas y arcos bicolores de la Mezquita
 galeria:
-- src: "/images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp"
-  alt: "Bosque de arcos bicolores de la Mezquita-Catedral de Cordoba"
+- src: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp
+  alt: Bosque de arcos bicolores de la Mezquita-Catedral de Cordoba
 - src: /images/actividades/cordoba/mezquita/arcos-lamparas.webp
   alt: Arcos de la Mezquita con lámparas colgantes
 - src: /images/actividades/cordoba/mezquita/mihrab.webp
@@ -97,6 +97,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 10966
 atraccionesRelacionadas:
+- mezquita
 - mezquita-catedral
 publicada: true
 destacada: false

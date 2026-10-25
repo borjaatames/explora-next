@@ -75,7 +75,7 @@ opinionEditorial: 'One of the island''s most special experiences: the sunset ove
 guiasRelacionadas:
 - roque-nublo-hike
 - what-to-see-in-gran-canaria
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - gran canaria stargazing
 - stargazing tour gran canaria
@@ -84,8 +84,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
 imagenAlt: Sunset from Pico de las Nieves with Roque Nublo and Bentayga
 galeria:
-- src: "/images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp"
-  alt: "Silueta de montanas al atardecer en Gran Canaria"
+- src: /images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp
+  alt: Silueta de montanas al atardecer en Gran Canaria
 - src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
   alt: The Milky Way over a windmill in Gran Canaria
 - src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 302
 atraccionesRelacionadas:
+- roque-nublo
 - interior
 publicada: true
 destacada: false

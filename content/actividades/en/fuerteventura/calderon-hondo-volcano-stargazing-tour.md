@@ -73,7 +73,7 @@ opinionEditorial: 'One of the best-rated activities in the north, and for good r
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - lobos-island-how-to-get-there
-categoria: visitasGuiadas
+categoria: aventura
 keywords:
 - calderon hondo
 - stargazing fuerteventura

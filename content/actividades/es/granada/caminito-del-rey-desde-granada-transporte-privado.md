@@ -69,7 +69,7 @@ opinionEditorial: 'El Caminito del Rey está a más de dos horas de Granada y ll
   El precio es por grupo (680 € para 1 o 2 personas), así que compensa sobre todo a familias o grupos de 3-4, que pagan 840 €. Si ya tienes coche, es más barato ir por tu cuenta.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - caminito del rey desde granada
 - excursion caminito del rey granada
@@ -96,6 +96,7 @@ galeria:
   alt: Desfiladero de los Gaitanes y el embalse
 bokunProductId: 860681
 fecha_actualizacion: '2026-10-24'
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

@@ -75,12 +75,12 @@ keywords:
 imagen: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
 imagenAlt: Museo Guggenheim Bilbao junto a la ría
 galeria:
-- src: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
-  alt: "Vista aérea del Museo Guggenheim y el puente de La Salve"
-- src: "/images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp"
-  alt: "Panorámica de Bilbao y la ría desde el monte Artxanda"
-- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
-  alt: "Vista aerea de la ria de Bilbao con el puente de La Salve y el Guggenheim"
+- src: /images/actividades/bilbao/ciudades/bilbao-hero.webp
+  alt: Vista aérea del Museo Guggenheim y el puente de La Salve
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: Panorámica de Bilbao y la ría desde el monte Artxanda
+- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
+  alt: Vista aerea de la ria de Bilbao con el puente de La Salve y el Guggenheim
 - src: /images/actividades/bilbao/guggenheim/puppy.webp
   alt: Puppy, la escultura de flores de Jeff Koons frente al Guggenheim
 - src: /images/actividades/bilbao/guggenheim/maman.webp

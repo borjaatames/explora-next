@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: La forma más cómoda de ver la cala más fotografiada de Mallorca. Muy buena nota y precio razonable para dos horas y media de mar.
 guiasRelacionadas:
 - mejores-calas-mallorca
-categoria: excursionesDia
+categoria: agua
 keywords:
 - calo des moro barco
 - excursion barco calo des moro

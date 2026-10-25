@@ -66,8 +66,9 @@ opinionEditorial: 'Ronda is the inland trip most worth doing from Málaga, and a
 
   It''s pricey for 1 or 2 people (from €580 per group) and improves from 4. If you want the cheapest option, there are group tours; if you want flexibility and an unhurried day, it fits.'
 atraccionesRelacionadas:
+- ronda
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - ronda from malaga
 - private ronda day trip
@@ -94,6 +95,8 @@ galeria:
   alt: Panoramic view of Setenil de las Bodegas
 bokunProductId: 860693
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the day is like

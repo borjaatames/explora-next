@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Playa Blanca: minicrucero a Papagayo con baño'
 slug: minicrucero-papagayo-playa-blanca
 ciudad: lanzarote
-descripcion: 'Catamarán de Líneas Romero desde Playa Blanca hasta la bahía de Papagayo, con una hora de parada para nadar o hacer esnórquel con equipo incluido. Entre 1,5 y 3 horas. 4,7/5 con más de 400 reseñas.'
+descripcion: Catamarán de Líneas Romero desde Playa Blanca hasta la bahía de Papagayo, con una hora de parada para nadar o hacer esnórquel con equipo incluido. Entre 1,5 y 3 horas. 4,7/5 con más de 400 reseñas.
 slugs:
   es: minicrucero-papagayo-playa-blanca
   en: papagayo-beach-cruise-playa-blanca
@@ -33,8 +33,8 @@ noIncluye:
 - Desembarco en la playa
 - Traslado en autobús
 puntoEncuentro:
-  texto: 'Playa Blanca, en el sur de Lanzarote. El punto exacto depende de la opción que elijas.'
-  descripcionGuia: 'Al reservar, la opción indica el punto de salida y de regreso. Con la salida temprana tienes un rato libre en Marina Rubicón antes de embarcar.'
+  texto: Playa Blanca, en el sur de Lanzarote. El punto exacto depende de la opción que elijas.
+  descripcionGuia: Al reservar, la opción indica el punto de salida y de regreso. Con la salida temprana tienes un rato libre en Marina Rubicón antes de embarcar.
   latitud: 28.8606
   longitud: -13.8286
   zoom: 14
@@ -61,17 +61,17 @@ accesibilidad: No apto para personas en silla de ruedas.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Se desembarca en la playa de Papagayo?
-  respuesta: 'No. El catamarán fondea en la bahía y el baño o el esnórquel se hacen desde el barco, durante aproximadamente una hora.'
+  respuesta: No. El catamarán fondea en la bahía y el baño o el esnórquel se hacen desde el barco, durante aproximadamente una hora.
 - pregunta: ¿Incluye comida o bebida?
-  respuesta: 'No. A bordo se pueden comprar cerveza, sangría, agua, refrescos y aperitivos.'
+  respuesta: No. A bordo se pueden comprar cerveza, sangría, agua, refrescos y aperitivos.
 - pregunta: ¿Hay recogida en el hotel?
-  respuesta: 'No. Sales desde Playa Blanca; el punto exacto depende de la opción que reserves.'
+  respuesta: No. Sales desde Playa Blanca; el punto exacto depende de la opción que reserves.
 - pregunta: ¿Cuánto dura?
-  respuesta: 'Entre hora y media y tres horas según la opción. La salida temprana incluye tiempo libre en Marina Rubicón antes de zarpar.'
+  respuesta: Entre hora y media y tres horas según la opción. La salida temprana incluye tiempo libre en Marina Rubicón antes de zarpar.
 opinionEditorial: 'Es la manera más sencilla y barata de ver las calas de Papagayo desde el mar, sin pista de tierra ni caminatas, y la nota es muy alta (4,7). Es un paseo corto: no se baja a la playa y lo que bebas lo pagas aparte. Si te alojas en Playa Blanca, es medio día redondo; si vives en el norte, el trayecto en coche se come buena parte del plan.'
 guiasRelacionadas:
 - que-ver-en-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco papagayo
 - catamaran playa blanca
@@ -81,16 +81,16 @@ keywords:
 imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: Catamarán fondeado en una cala de Papagayo
 galeria:
-- src: "/images/actividades/lanzarote/zonas/papagayo-banistas.webp"
-  alt: "Bañistas en una cala de Papagayo"
-- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
-  alt: "Costa sur de Lanzarote junto a las playas de Papagayo"
-- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
-  alt: "Barcos amarrados en la Marina Rubicón, en Playa Blanca"
-- src: "/images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp"
-  alt: "Veleros en la Marina Rubicón con los volcanes al fondo"
-- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
-  alt: "Cala de Papagayo con aguas turquesa y rocas volcánicas"
+- src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
+  alt: Bañistas en una cala de Papagayo
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: Costa sur de Lanzarote junto a las playas de Papagayo
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: Barcos amarrados en la Marina Rubicón, en Playa Blanca
+- src: /images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp
+  alt: Veleros en la Marina Rubicón con los volcanes al fondo
+- src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
+  alt: Cala de Papagayo con aguas turquesa y rocas volcánicas
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

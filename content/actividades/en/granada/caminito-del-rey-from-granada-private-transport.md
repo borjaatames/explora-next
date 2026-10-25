@@ -69,7 +69,7 @@ opinionEditorial: 'The Caminito del Rey is over two hours from Granada and almos
   The price is per group (€680 for 1 or 2), so it''s best value for families or groups of 3-4, who pay €840. If you have a car, going independently is cheaper.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - caminito del rey from granada
 - caminito del rey day trip granada
@@ -96,6 +96,7 @@ galeria:
   alt: The Gaitanes gorge and the reservoir
 bokunProductId: 860681
 fecha_actualizacion: '2026-10-24'
+precioPorGrupo: true
 ---
 
 ## How the day goes

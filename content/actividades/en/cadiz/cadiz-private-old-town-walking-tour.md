@@ -63,8 +63,9 @@ opinionEditorial: 'A great walk for getting to grips with Cádiz quickly: the P�
 
   The price is per group and among the most reasonable for a private tour: from about €180 for two for 2 hours. No published reviews yet.'
 atraccionesRelacionadas:
+- casco-antiguo
 - centro-historico
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private tour cadiz
 - cadiz private guided tour
@@ -93,6 +94,8 @@ galeria:
   alt: Stalls at Cádiz Central Market
 bokunProductId: 860679
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

@@ -64,7 +64,7 @@ opinionEditorial: 'Los patios son lo más bonito de Córdoba fuera de la Mezquit
   Tiene más sentido en primavera, cuando las flores están en su mejor momento, pero los patios se cuidan todo el año. En pareja sale por unos 123 € por persona; en grupo de 4, unos 75 €. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
 - patios
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - patios de cordoba tour
 - visita patios cordoba privada
@@ -93,6 +93,7 @@ galeria:
   alt: Patio con macetas colgadas en las paredes
 bokunProductId: 934217
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

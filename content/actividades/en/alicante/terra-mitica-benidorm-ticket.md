@@ -2,11 +2,11 @@
 titulo: 'Benidorm: Terra Mítica theme park ticket'
 slug: terra-mitica-benidorm-ticket
 ciudad: alicante
-descripcion: "Skip-the-queue ticket to Terra Mítica, Benidorm's big theme park with roller coasters and live shows themed around ancient Mediterranean civilisations. 4.5/5 with 504 reviews."
+descripcion: Skip-the-queue ticket to Terra Mítica, Benidorm's big theme park with roller coasters and live shows themed around ancient Mediterranean civilisations. 4.5/5 with 504 reviews.
 slugs:
   es: terra-mitica-benidorm-entrada
   en: terra-mitica-benidorm-ticket
-duracion: 'Full day'
+duracion: Full day
 duracionMinutos: 480
 precioDesde: 29
 moneda: EUR
@@ -32,9 +32,9 @@ noIncluye:
 - Food and drink
 - Optional Fast Pass
 puntoEncuentro:
-  texto: "Terra Mítica, Partida de les Fonts, s/n, Benidorm, Alicante"
+  texto: Terra Mítica, Partida de les Fonts, s/n, Benidorm, Alicante
   descripcionGuia: Terra Mítica is 5 km from Benidorm centre. Buses run from Benidorm's main bus station and from the main resort beaches. By car, take the N-332 towards Finestrat. Parking is available at the park.
-  latitud: 38.5520
+  latitud: 38.552
   longitud: -0.0978
   zoom: 13
 detallesPracticos:
@@ -61,33 +61,33 @@ preguntasFrecuentes:
   respuesta: Magnus is a wooden roller coaster widely considered the star of the park. Titanes is the largest steel coaster. The Furia de Tritón is a popular water ride for mixed groups.
 - pregunta: Is there enough for young children?
   respuesta: Yes. The park has a dedicated children's area with gentler rides. The ancient civilisation theme is engaging for families with children aged 5 and over.
-opinionEditorial: "The Costa Blanca's best theme park. Terra Mítica punches above its size with a distinctive theme, several impressive coasters, and good live entertainment. Book ahead in summer to avoid sold-out days."
+opinionEditorial: The Costa Blanca's best theme park. Terra Mítica punches above its size with a distinctive theme, several impressive coasters, and good live entertainment. Book ahead in summer to avoid sold-out days.
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante
 - what-to-see-in-alicante
-categoria: entradas
+categoria: parques
 keywords:
 - terra mitica benidorm ticket
 - benidorm theme park
 - terra mitica roller coaster
 - alicante theme park
 imagen: /images/actividades/alicante/terra-mitica/magnus-colossus.webp
-imagenAlt: "Magnus Colossus wooden roller coaster at Terra Mítica, Benidorm"
+imagenAlt: Magnus Colossus wooden roller coaster at Terra Mítica, Benidorm
 galeria:
-  - src: "/images/actividades/alicante/terra-mitica/vista-parque.webp"
-    alt: "General view of Terra Mítica with the Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/estructura-madera.webp"
-    alt: "Structure of Terra Mítica's wooden roller coaster"
-  - src: "/images/actividades/alicante/terra-mitica/entrada-colossus.webp"
-    alt: "Themed entrance to the Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-tematizacion.webp"
-    alt: "Detail of the Magnus Colossus theming"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-vista-general.webp"
-    alt: "General view of the Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-cartel.webp"
-    alt: "Entrance sign of the Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-vagones.webp"
-    alt: "Ride cars of the Magnus Colossus coaster"
+- src: /images/actividades/alicante/terra-mitica/vista-parque.webp
+  alt: General view of Terra Mítica with the Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/estructura-madera.webp
+  alt: Structure of Terra Mítica's wooden roller coaster
+- src: /images/actividades/alicante/terra-mitica/entrada-colossus.webp
+  alt: Themed entrance to the Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-tematizacion.webp
+  alt: Detail of the Magnus Colossus theming
+- src: /images/actividades/alicante/terra-mitica/colossus-vista-general.webp
+  alt: General view of the Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-cartel.webp
+  alt: Entrance sign of the Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-vagones.webp
+  alt: Ride cars of the Magnus Colossus coaster
 ratingProveedor: 4.5
 numeroOpiniones: 504
 atraccionesRelacionadas:

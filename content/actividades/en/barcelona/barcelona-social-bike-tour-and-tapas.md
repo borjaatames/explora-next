@@ -63,7 +63,7 @@ opinionEditorial: 'A light way to see a lot of Barcelona in a morning: a gentle 
 atraccionesRelacionadas:
 - barrio-gotico
 - tapas-barcelona
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - barcelona bike tour
 - bike and tapas barcelona

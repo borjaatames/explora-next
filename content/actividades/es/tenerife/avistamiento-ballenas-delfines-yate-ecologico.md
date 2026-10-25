@@ -75,7 +75,7 @@ opinionEditorial: 'Es la salida de avistamiento mejor valorada de Tenerife con m
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - avistamiento ballenas tenerife
 - delfines los cristianos
@@ -84,8 +84,8 @@ keywords:
 imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Calderones frente a la costa de Tenerife
 galeria:
-- src: "/images/actividades/tenerife/cetaceos/ballena-nadando-superficie.webp"
-  alt: "Ballena nadando cerca de la superficie del mar"
+- src: /images/actividades/tenerife/cetaceos/ballena-nadando-superficie.webp
+  alt: Ballena nadando cerca de la superficie del mar
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: Calderón tropical respirando en superficie
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos.webp

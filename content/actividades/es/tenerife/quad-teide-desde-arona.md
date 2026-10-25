@@ -82,7 +82,7 @@ opinionEditorial: 'Funciona para quien se aloja en el sur y quiere conducir un q
 guiasRelacionadas:
 - subir-al-teide
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - quad teide
 - quad tenerife sur

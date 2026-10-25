@@ -1,72 +1,71 @@
 ---
-titulo: "Excursión a las Cuevas de San José desde Valencia"
-slug: "excursion-cuevas-de-san-jose"
-ciudad: "valencia"
-descripcion: "Excursión de medio día a las Cuevas de San José, el río subterráneo navegable más largo de Europa, con paseo en barca y transporte desde Valencia."
+titulo: Excursión a las Cuevas de San José desde Valencia
+slug: excursion-cuevas-de-san-jose
+ciudad: valencia
+descripcion: Excursión de medio día a las Cuevas de San José, el río subterráneo navegable más largo de Europa, con paseo en barca y transporte desde Valencia.
 slugs:
   es: excursion-cuevas-de-san-jose
   en: san-jose-caves-day-trip
-duracion: "3 h 30 min"
+duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 55
 moneda: EUR
 idiomas:
-  - es
-  - en
+- es
+- en
 proveedor: bokun
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
-  - "Navega el río subterráneo navegable más largo de Europa"
-  - "Paseo en barca por galerías y lagos dentro de la cueva"
-  - "Transporte de ida y vuelta desde Valencia incluido"
-  - "Escapada de medio día ideal para combinar con la ciudad"
+- Navega el río subterráneo navegable más largo de Europa
+- Paseo en barca por galerías y lagos dentro de la cueva
+- Transporte de ida y vuelta desde Valencia incluido
+- Escapada de medio día ideal para combinar con la ciudad
 incluye:
-  - "Transporte de ida y vuelta desde Valencia"
-  - "Entrada a las Cuevas de San José y paseo en barca"
-  - "Guía acompañante"
+- Transporte de ida y vuelta desde Valencia
+- Entrada a las Cuevas de San José y paseo en barca
+- Guía acompañante
 noIncluye:
-  - "Comida y bebida"
-  - "Propinas"
-puntoEncuentro: "Punto de recogida en el centro de Valencia; la ubicación exacta se confirma en la reserva."
+- Comida y bebida
+- Propinas
+puntoEncuentro: Punto de recogida en el centro de Valencia; la ubicación exacta se confirma en la reserva.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 0
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes para recibir el reembolso completo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes para recibir el reembolso completo.
 preguntasFrecuentes:
-  - pregunta: "¿Dónde están las Cuevas de San José?"
-    respuesta: "En La Vall d'Uixó, en la provincia de Castellón, a algo menos de una hora de Valencia. El tour incluye el transporte, así que no necesitas coche."
-  - pregunta: "¿Es apto para niños o personas con movilidad reducida?"
-    respuesta: "Para niños sí, y suele encantarles el paseo en barca. La cueva tiene tramos con escalones y techos bajos, así que para movilidad reducida conviene consultar al operador antes de reservar."
-opinionEditorial: "Es la mejor excursión de medio día desde Valencia: un río subterráneo navegable, el más largo de Europa, a menos de una hora de la ciudad y con transporte incluido por 69 €. No es un imprescindible como la Ciudad de las Artes, pero si repites Valencia o viajas con niños, el paseo en barca por la cueva es un plan distinto y muy agradecido. Con 4,6 sobre 5 y cientos de opiniones, cumple."
+- pregunta: ¿Dónde están las Cuevas de San José?
+  respuesta: En La Vall d'Uixó, en la provincia de Castellón, a algo menos de una hora de Valencia. El tour incluye el transporte, así que no necesitas coche.
+- pregunta: ¿Es apto para niños o personas con movilidad reducida?
+  respuesta: Para niños sí, y suele encantarles el paseo en barca. La cueva tiene tramos con escalones y techos bajos, así que para movilidad reducida conviene consultar al operador antes de reservar.
+opinionEditorial: 'Es la mejor excursión de medio día desde Valencia: un río subterráneo navegable, el más largo de Europa, a menos de una hora de la ciudad y con transporte incluido por 69 €. No es un imprescindible como la Ciudad de las Artes, pero si repites Valencia o viajas con niños, el paseo en barca por la cueva es un plan distinto y muy agradecido. Con 4,6 sobre 5 y cientos de opiniones, cumple.'
 categoria: excursionesDia
 keywords:
-  - "cuevas de san jose valencia"
-  - "excursion desde valencia"
-  - "cuevas de san jose la vall duixo"
-  - "que hacer cerca de valencia"
-imagen: "/images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp"
-imagenAlt: "Río subterráneo navegable de las Cuevas de San José"
-
+- cuevas de san jose valencia
+- excursion desde valencia
+- cuevas de san jose la vall duixo
+- que hacer cerca de valencia
+imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
+imagenAlt: Río subterráneo navegable de las Cuevas de San José
 galeria:
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
-  alt: "Paseo en barca por las Cuevas de San José desde Valencia (Bokun)"
+  alt: Paseo en barca por las Cuevas de San José desde Valencia (Bokun)
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
-  alt: "Galería de las Cuevas de San José"
+  alt: Galería de las Cuevas de San José
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
-  alt: "Bóveda de roca en las Cuevas de San José"
+  alt: Bóveda de roca en las Cuevas de San José
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
-  alt: "Estalactitas de las Cuevas de San José"
+  alt: Estalactitas de las Cuevas de San José
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
-  alt: "Barca en el río de las Cuevas de San José"
+  alt: Barca en el río de las Cuevas de San José
 ratingProveedor: 4.6
 numeroOpiniones: 785
 atraccionesRelacionadas:
-  - excursiones
+- excursiones
 publicada: true
 destacada: false
-fecha: "2026-05-21"
+fecha: '2026-05-21'
 bokunProductId: 953416
 fecha_actualizacion: '2026-06-18'
 ---

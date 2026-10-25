@@ -66,17 +66,18 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
+- sevilla
 - excursiones
 categoria: excursionesDia
 keywords:
 - excursion sevilla desde puerto cadiz
 - sevilla cruceristas cadiz
 - excursion crucero cadiz sevilla
-imagen: "https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg"
+imagen: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
 imagenAlt: Tejados de Sevilla con la Catedral al atardecer
 galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
-  alt: "Baños de Doña María de Padilla en el Real Alcázar"
+  alt: Baños de Doña María de Padilla en el Real Alcázar
 - src: https://imgcdn.bokun.tools/7597a4b4-3633-4f0a-9e85-b729770b88aa.jpg
   alt: Plaza de España de Sevilla con su canal
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp

@@ -56,10 +56,9 @@ atracciones:
     imagen: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
     imagenAlt: "The rock-cut chapel at Cueva Bermeja in Guayadeque"
 chipsFiltros:
-  - { label: "At sea", tag: "mar" }
-  - { label: "Maspalomas Dunes", tag: "dunas" }
-  - { label: "Interior and summits", tag: "interior" }
-  - { label: "Island tours", tag: "isla" }
+  - { label: "Maspalomas Dunes", tag: "maspalomas" }
+  - { label: "Roque Nublo & summits", tag: "roque-nublo" }
+  - { label: "Puerto de Mogán", tag: "mogan" }
 ---
 
 Gran Canaria is the third-largest of the Canary Islands and, with Tenerife, the most populated, with about **860,000 inhabitants**, almost half of them in the capital, **Las Palmas de Gran Canaria**. It's called a **miniature continent** because this round island, barely 50 km across, packs in desert, pine forests, ravines and summits of almost 2,000 metres. Around half of it is a UNESCO **Biosphere Reserve**.

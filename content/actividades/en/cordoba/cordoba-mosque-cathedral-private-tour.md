@@ -64,8 +64,9 @@ opinionEditorial: 'The Mosque-Cathedral is one of those places you understand fa
 
   The price is per group, so solo or as a couple (about €210) it costs more than a shared tour, but for a family it''s reasonable: about €340 for four.'
 atraccionesRelacionadas:
+- mezquita
 - mezquita-catedral
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - cordoba mosque private tour
 - private guided tour mezquita cordoba
@@ -96,6 +97,8 @@ galeria:
   alt: The Roman Bridge and the Mosque-Cathedral at sunset
 bokunProductId: 793768
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

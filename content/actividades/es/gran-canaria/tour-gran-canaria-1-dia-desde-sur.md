@@ -2,7 +2,7 @@
 titulo: 'Desde Mogán y Maspalomas: tour de 1 día por Gran Canaria'
 slug: tour-gran-canaria-1-dia-desde-sur
 ciudad: gran-canaria
-descripcion: "Excursión de 8 horas en autobús desde el sur: Arucas, Firgas, Cruz de Tejeda, Roque Nublo y plantación de aloe vera, con recogida. 4,2/5 con 2.173 reseñas."
+descripcion: 'Excursión de 8 horas en autobús desde el sur: Arucas, Firgas, Cruz de Tejeda, Roque Nublo y plantación de aloe vera, con recogida. 4,2/5 con 2.173 reseñas.'
 slugs:
   es: tour-gran-canaria-1-dia-desde-sur
   en: gran-canaria-day-tour-from-the-south
@@ -33,7 +33,7 @@ noIncluye:
 - Almuerzo en Valleseco (parada opcional)
 - Recogida fuera de las zonas indicadas
 puntoEncuentro:
-  texto: 'Recogida en Playa del Inglés, Maspalomas, Meloneras, San Agustín, Bahía Feliz, Taurito o Puerto de Mogán.'
+  texto: Recogida en Playa del Inglés, Maspalomas, Meloneras, San Agustín, Bahía Feliz, Taurito o Puerto de Mogán.
   descripcionGuia: La hora y el punto exacto de recogida en tu zona aparecen al comprobar la disponibilidad y en el bono de la reserva.
   latitud: 27.7606
   longitud: -15.586
@@ -98,6 +98,7 @@ galeria:
 ratingProveedor: 4.2
 numeroOpiniones: 2173
 atraccionesRelacionadas:
+- roque-nublo
 - isla
 - interior
 publicada: true

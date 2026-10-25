@@ -55,29 +55,30 @@ detallesPracticos:
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
 opinionEditorial: 'This is the shortest listing in the catalogue (1h30), and that makes sense: Girona''s old town, with the Call and the Rambla de la Llibertat, is easily covered in that time. A good fit if you''re passing through on the way to somewhere else, or if you pair the tour with free time for tapas. Don''t expect an exhaustive tour of the whole city.'
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided girona tour
 - girona audio guide app
 - self-guided girona walking tour
-imagen: "/images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp"
-imagenAlt: "The Onyar river flowing through Girona"
+imagen: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp
+imagenAlt: The Onyar river flowing through Girona
 galeria:
-- src: "/images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp"
-  alt: "Puente rojo y casas de colores sobre el rio Onyar en Girona"
+- src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
+  alt: Puente rojo y casas de colores sobre el rio Onyar en Girona
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
-  alt: "Colourful Onyar houses reflected in the river"
+  alt: Colourful Onyar houses reflected in the river
 - src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp
-  alt: "Steps of Girona Cathedral"
+  alt: Steps of Girona Cathedral
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
-  alt: "Onyar façades in Girona"
+  alt: Onyar façades in Girona
 - src: /images/actividades/girona/girona-catedral/girona-catedral-pexels-28936788.webp
-  alt: "Steps and arches in Girona's old quarter"
+  alt: Steps and arches in Girona's old quarter
 - src: /images/actividades/girona/girona-catedral/girona-catedral-wikimedia-cloister-of-catedral-de-girona-02-jpg-04.webp
-  alt: "Cloister of Girona Cathedral"
+  alt: Cloister of Girona Cathedral
 - src: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'

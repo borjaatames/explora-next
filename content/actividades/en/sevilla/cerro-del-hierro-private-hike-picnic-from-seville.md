@@ -61,7 +61,7 @@ opinionEditorial: 'Cerro del Hierro is one of those places that surprises: a maz
   It''s expensive for two at €411 each, and still €217 a head with four. Worth it for families or friends after a day in nature outside Seville; if you have a car, you can do it on your own.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - cerro del hierro from seville
 - cerro del hierro hike
@@ -93,6 +93,7 @@ galeria:
   alt: Karst landscape of Cerro del Hierro
 bokunProductId: 949566
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

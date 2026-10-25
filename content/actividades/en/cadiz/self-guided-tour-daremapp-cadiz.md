@@ -54,32 +54,33 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
 opinionEditorial: 'Cádiz is a compact, pleasant city to walk, so the self-guided format works well: you can linger at any square or church without feeling like you''re holding up a group. With 2 routes and +25 points it covers a lot more than the basic historic centre. Great for families or independent travellers; if you want the history told by a real person, this isn''t the product.'
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided cádiz tour
 - cádiz audio guide app
 - self-guided cádiz walking tour
-imagen: "/images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp"
-imagenAlt: "Plaza de San Juan de Dios and the City Hall"
+imagen: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
+imagenAlt: Plaza de San Juan de Dios and the City Hall
 galeria:
-- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
-- src: "/images/actividades/cadiz/centro/plaza-flores.webp"
-  alt: "Plaza de las Flores and its flower stalls in central Cádiz"
-- src: "/images/actividades/cadiz/centro/catedral-fachada.webp"
-  alt: "Façade of Cádiz Cathedral"
-- src: "/images/actividades/cadiz/mar/puente-1812-noche.webp"
-  alt: "The Constitution of 1812 Bridge lit up at night"
-- src: "/images/actividades/cadiz/centro/arco-blanco-populo.webp"
-  alt: "Arco de los Blanco in the Pópulo quarter"
-- src: "/images/actividades/cadiz/centro/vista-torre-tavira.webp"
-  alt: "View of Cádiz from the Torre Tavira"
-- src: "/images/actividades/cadiz/centro/monumento-1812.webp"
-  alt: "Monument to the Constitution of 1812"
-- src: "https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg"
-  alt: "DaremApp app with the self-guided route"
+- src: /images/actividades/cadiz/ciudades/cadiz-hero.webp
+  alt: Monument to the 1812 Constitution in Cádiz's Plaza de España
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: Plaza de las Flores and its flower stalls in central Cádiz
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: Façade of Cádiz Cathedral
+- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
+  alt: The Constitution of 1812 Bridge lit up at night
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: Arco de los Blanco in the Pópulo quarter
+- src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
+  alt: View of Cádiz from the Torre Tavira
+- src: /images/actividades/cadiz/centro/monumento-1812.webp
+  alt: Monument to the Constitution of 1812
+- src: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
+  alt: DaremApp app with the self-guided route
 atraccionesRelacionadas:
-  - centro-historico
+- casco-antiguo
+- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

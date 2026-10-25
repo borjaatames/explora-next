@@ -65,10 +65,8 @@ atracciones:
     imagenAlt: "Der Drago Milenario in Icod de los Vinos"
 chipsFiltros:
   - { label: "Teide", tag: "teide" }
-  - { label: "Auf dem Meer", tag: "mar" }
-  - { label: "Freizeitparks", tag: "parques" }
-  - { label: "Masca und Los Gigantes", tag: "masca" }
-  - { label: "Anaga", tag: "anaga" }
+  - { label: "Masca & Los Gigantes", tag: "masca-gigantes" }
+  - { label: "Siam Park & Loro Parque", tag: "siam-loro" }
 ---
 
 Teneriffa ist die größte und bevölkerungsreichste der Kanarischen Inseln, mit rund **950.000 Einwohnern**, und Sitz der gemeinsamen Hauptstadt des Archipels, **Santa Cruz de Tenerife**. Alles dreht sich um den **Teide** (3.715 m), Spaniens höchsten Berg, der den **Teide-Nationalpark** beherrscht, ein UNESCO-Welterbe.

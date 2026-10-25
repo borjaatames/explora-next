@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Cádiz seems small, but every corner has a story of Phoenicians, Romans, galleons or the 1812 Cortes. A guide makes it all click, and at €20 it''s a bargain. Note: bookings need at least two adults.'
 guiasRelacionadas:
 - cadiz-in-one-day
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - cadiz guided tour
 - cadiz walking tour
@@ -95,6 +95,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 225
 atraccionesRelacionadas:
+- casco-antiguo
 - centro-historico
 publicada: true
 destacada: false

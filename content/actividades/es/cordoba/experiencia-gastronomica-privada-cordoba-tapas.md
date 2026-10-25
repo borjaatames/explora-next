@@ -62,8 +62,7 @@ opinionEditorial: 'Dos horas de tapeo con alguien que sabe dónde se come bien e
 
 
   El precio es por grupo, unos 380 € en pareja, y sube poco con más gente: unos 560 € para 4, que ya es otra cosa. Aún no tiene opiniones publicadas.'
-atraccionesRelacionadas: []
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - tour gastronomico cordoba privado
 - tapas cordoba con guia
@@ -92,6 +91,8 @@ galeria:
   alt: Interior de una taberna tradicional de Córdoba
 bokunProductId: 1214469
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es la experiencia

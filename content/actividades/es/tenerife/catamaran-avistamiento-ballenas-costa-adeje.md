@@ -2,11 +2,11 @@
 titulo: 'Tenerife: tour de avistamiento de ballenas en catamarán'
 slug: catamaran-avistamiento-ballenas-costa-adeje
 ciudad: tenerife
-descripcion: 'Tour en catamarán desde Costa Adeje para ver ballenas y delfines en el sur de Tenerife, con parada para bañarse. 4,7/5 con 4.248 reseñas.'
+descripcion: Tour en catamarán desde Costa Adeje para ver ballenas y delfines en el sur de Tenerife, con parada para bañarse. 4,7/5 con 4.248 reseñas.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
-duracion: '2 horas'
+duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 35
 moneda: EUR
@@ -30,7 +30,7 @@ noIncluye:
 - Bebidas y snacks
 - Transporte al puerto de salida
 puntoEncuentro:
-  texto: 'Puerto Colón, Costa Adeje, Tenerife Sur'
+  texto: Puerto Colón, Costa Adeje, Tenerife Sur
   descripcionGuia: Puerto Colón está en Adeje, en la costa sur de la isla, muy cerca de Playa de Fañabé. Confirma el muelle exacto con el operador al recibir la confirmación. Llega 20 minutos antes de la salida.
   latitud: 28.0844
   longitud: -16.7333
@@ -59,34 +59,34 @@ preguntasFrecuentes:
   respuesta: Los Gigantes ofrece el añadido de los acantilados pero está más al norte y hay que desplazarse. Costa Adeje es más cómodo para quien se aloja en el sur (Playa de las Américas, Los Cristianos, Adeje). Las especies son similares.
 - pregunta: ¿Se puede nadar en el Atlántico sin peligro?
   respuesta: Sí. La parada de baño se hace en aguas tranquilas y el operador indica zonas seguras. Las aguas del sur de Tenerife son cálidas y claras en verano (22-24 °C).
-opinionEditorial: 'La excursión en catamarán desde Puerto Colón es la opción más cómoda para las familias alojadas en el sur de Tenerife. El catamarán da estabilidad, y la parada de baño convierte el tour en una actividad completa de media jornada.'
+opinionEditorial: La excursión en catamarán desde Puerto Colón es la opción más cómoda para las familias alojadas en el sur de Tenerife. El catamarán da estabilidad, y la parada de baño convierte el tour en una actividad completa de media jornada.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - avistamiento ballenas costa adeje
 - catamaran ballenas tenerife
 - excursion ballenas tenerife sur
 - tour cetaceos tenerife
-imagen: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
-imagenAlt: "Catamarán navegando frente a la costa de Tenerife"
+imagen: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
+imagenAlt: Catamarán navegando frente a la costa de Tenerife
 galeria:
-  - src: "/images/actividades/tenerife/cristianos/costa-palm-mar.webp"
-    alt: "Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-respirando.webp"
-    alt: "Calderón tropical respirando en la superficie"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
-    alt: "Soplo de un cetáceo en Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
-    alt: "Cría de calderón tropical junto a su madre"
-  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
-    alt: "Calderones tropicales en las aguas de Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp"
-    alt: "Grupo de delfines nadando en superficie"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp"
-    alt: "Calderón saltando entre la espuma del mar"
-  - src: "/images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp"
-    alt: "Acantilados de la costa sur de Tenerife"
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: Calderón tropical respirando en la superficie
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: Soplo de un cetáceo en Tenerife
+- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+  alt: Cría de calderón tropical junto a su madre
+- src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
+  alt: Calderones tropicales en las aguas de Tenerife
+- src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
+  alt: Grupo de delfines nadando en superficie
+- src: /images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp
+  alt: Calderón saltando entre la espuma del mar
+- src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
+  alt: Acantilados de la costa sur de Tenerife
 ratingProveedor: 4.7
 numeroOpiniones: 4248
 atraccionesRelacionadas:

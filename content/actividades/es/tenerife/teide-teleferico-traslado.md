@@ -85,8 +85,8 @@ keywords:
 imagen: /images/actividades/tenerife/teleferico/teleferico-subida.webp
 imagenAlt: El teleférico subiendo por la ladera del Teide
 galeria:
-- src: "/images/actividades/tenerife/teide/crater-teide-las-canadas.webp"
-  alt: "Crater del Teide y Las Canadas, Tenerife"
+- src: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
+  alt: Crater del Teide y Las Canadas, Tenerife
 - src: /images/actividades/tenerife/teleferico/teleferico-cabina.webp
   alt: Cabina del teleférico del Teide
 - src: /images/actividades/tenerife/teleferico/estacion-superior.webp

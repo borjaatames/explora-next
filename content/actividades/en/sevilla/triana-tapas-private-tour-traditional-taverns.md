@@ -59,6 +59,7 @@ opinionEditorial: 'Triana is Seville''s best neighbourhood for tapas away from t
 
   For two, €211 each is a lot for 4 tapas and 4 drinks: you''re mainly paying for the private guide. With 4 it drops to about €98 a head. Worth it if you want to understand what you''re eating; if you just want to graze, Triana is just as good on your own.'
 atraccionesRelacionadas:
+- triana
 - tapas-sevilla
 categoria: toursGastronomicos
 keywords:
@@ -86,6 +87,7 @@ galeria:
   alt: Travellers with wine on a bar terrace
 bokunProductId: 933456
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

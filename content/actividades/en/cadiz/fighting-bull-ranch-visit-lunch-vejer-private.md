@@ -94,6 +94,7 @@ galeria:
   alt: A fighting bull in the field near a wind turbine
 bokunProductId: 949572
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

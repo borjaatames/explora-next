@@ -31,7 +31,7 @@ noIncluye:
 - Purchases in the shop
 puntoEncuentro:
   texto: Destilerías Arehucas, Lugar Era de San Pedro 2, Arucas
-  descripcionGuia: 'The tour starts at the distillery itself, at the entrance to Arucas coming from Las Palmas. There is parking.'
+  descripcionGuia: The tour starts at the distillery itself, at the entrance to Arucas coming from Las Palmas. There is parking.
   latitud: 28.1218
   longitud: -15.5229
   zoom: 15
@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: A cheap, very well-rated plan for a morning in the north of Gran Canaria. It pairs well with Arucas's San Juan church and the banana plantation.
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
-categoria: visitasGuiadas
+categoria: toursGastronomicos
 keywords:
 - arehucas rum tour
 - arehucas distillery

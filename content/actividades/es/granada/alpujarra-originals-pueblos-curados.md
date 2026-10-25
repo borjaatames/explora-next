@@ -2,8 +2,7 @@
 titulo: Pueblos de la Alpujarra desde Granada — Tour Originals by GYG
 slug: alpujarra-originals-pueblos-curados
 ciudad: granada
-descripcion: Tour guiado de 7 horas a los pueblos de la Alpujarra desde Granada, distinción Originals by GYG. Operado por
-  Discovering Spain con grupo reducido y opción de privado disponible.
+descripcion: Tour guiado de 7 horas a los pueblos de la Alpujarra desde Granada, distinción Originals by GYG. Operado por Discovering Spain con grupo reducido y opción de privado disponible.
 slugs:
   en: alpujarra-originals-curated-villages-day-trip
   es: alpujarra-originals-pueblos-curados
@@ -35,9 +34,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Discovering Spain office, Plaza de las Descalzas 3, Granada (o recogida opcional en hotel)
-  descripcionGuia: La oficina de Discovering Spain está en Plaza de las Descalzas 3, en el centro de Granada (zona de la Catedral).
-    Llega 10-15 minutos antes para registrarte. Alternativamente, hay opción de recogida en hotel — algunos clientes mencionan
-    en reseñas que les recogieron y dejaron en el hotel directamente, incluso cuando no lo esperaban.
+  descripcionGuia: La oficina de Discovering Spain está en Plaza de las Descalzas 3, en el centro de Granada (zona de la Catedral). Llega 10-15 minutos antes para registrarte. Alternativamente, hay opción de recogida en hotel — algunos clientes mencionan en reseñas que les recogieron y dejaron en el hotel directamente, incluso cuando no lo esperaban.
   latitud: 37.1751
   longitud: -3.5995
   zoom: 16
@@ -58,35 +55,25 @@ informacionImportante:
   - Grupo reducido frente a la versión estándar (algunas reseñas mencionan tours de solo 4 personas)
   - Duración 7 horas — algo más corta que la versión estándar (8-10 horas)
   - Opción de tour privado disponible al reservar
-accesibilidad: No recomendado para personas con problemas de movilidad ni usuarios de silla de ruedas. Los pueblos de la Alpujarra
-  tienen calles empedradas y empinadas.
+accesibilidad: No recomendado para personas con problemas de movilidad ni usuarios de silla de ruedas. Los pueblos de la Alpujarra tienen calles empedradas y empinadas.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿En qué se diferencia del tour estándar a la Alpujarra?
-  respuesta: Este es la versión Originals by GetYourGuide (curada por la plataforma) operado por Discovering Spain. Es más
-    corto (7h vs 8-10h del estándar), más caro (115 € vs 71 €) y con grupo más reducido. Tiene 224 reseñas con 4,7 / 5 frente
-    a las 320 del estándar. Si valoras grupo pequeño y experiencia más curada, esta; si prefieres precio más bajo y más reseñas,
-    el estándar.
+  respuesta: Este es la versión Originals by GetYourGuide (curada por la plataforma) operado por Discovering Spain. Es más corto (7h vs 8-10h del estándar), más caro (115 € vs 71 €) y con grupo más reducido. Tiene 224 reseñas con 4,7 / 5 frente a las 320 del estándar. Si valoras grupo pequeño y experiencia más curada, esta; si prefieres precio más bajo y más reseñas, el estándar.
 - pregunta: ¿De verdad son grupos de 4 personas?
-  respuesta: Algunas reseñas lo mencionan. El operador (Discovering Spain) responde activamente a las reseñas y parece priorizar
-    grupos pequeños. No está garantizado por contrato, pero la tendencia es a aforos reducidos.
+  respuesta: Algunas reseñas lo mencionan. El operador (Discovering Spain) responde activamente a las reseñas y parece priorizar grupos pequeños. No está garantizado por contrato, pero la tendencia es a aforos reducidos.
 - pregunta: ¿Hay recogida en hotel?
-  respuesta: Sí, disponible al reservar (consulta las opciones en GYG). Algunos clientes mencionan que les dejaron de vuelta
-    al hotel incluso sin esperarlo.
+  respuesta: Sí, disponible al reservar (consulta las opciones en GYG). Algunos clientes mencionan que les dejaron de vuelta al hotel incluso sin esperarlo.
 variantes:
 - alpujarra-pueblos-montana
-opinionEditorial: 'La versión "premium" de la excursión a la Alpujarra: la distinción Originals by GetYourGuide y la operadora
-  Discovering Spain marcan la diferencia. Más cara que el tour estándar (115 € vs 71 €) pero con grupo más reducido y mayor
-  atención personal. Las respuestas del operador en reseñas son frecuentes y personales — buen indicio de cuidado con el cliente.
+opinionEditorial: 'La versión "premium" de la excursión a la Alpujarra: la distinción Originals by GetYourGuide y la operadora Discovering Spain marcan la diferencia. Más cara que el tour estándar (115 € vs 71 €) pero con grupo más reducido y mayor atención personal. Las respuestas del operador en reseñas son frecuentes y personales — buen indicio de cuidado con el cliente.
 
 
-  Con 4,7 / 5 sobre 224 reseñas tiene el mismo rating que el tour estándar pero menos volumen. La duración es 7 horas en lugar
-  de 8-10, lo cual la hace más manejable para visitantes con poco tiempo o que prefieren no estar todo el día fuera. Si vas
-  en pareja o grupo pequeño y valoras la experiencia curada, esta es la elección. Si vas en familia numerosa o presupuesto
-  justo, el tour estándar cumple igual y ahorras 44 € por persona.
+  Con 4,7 / 5 sobre 224 reseñas tiene el mismo rating que el tour estándar pero menos volumen. La duración es 7 horas en lugar de 8-10, lo cual la hace más manejable para visitantes con poco tiempo o que prefieren no estar todo el día fuera. Si vas en pareja o grupo pequeño y valoras la experiencia curada, esta es la elección. Si vas en familia numerosa o presupuesto justo, el tour estándar cumple igual y ahorras 44 € por persona.
 
   '
 atraccionesRelacionadas:
+- alpujarra
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -95,27 +82,27 @@ keywords:
 - alpujarra grupo pequeño
 - discovering spain alpujarra
 - pueblos blancos curados
-imagen: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp"
-imagenAlt: "Tinao, pasaje cubierto típico de la Alpujarra"
+imagen: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
+imagenAlt: Tinao, pasaje cubierto típico de la Alpujarra
 galeria:
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
-  alt: "Terrados con ropa tendida en la Alpujarra"
+  alt: Terrados con ropa tendida en la Alpujarra
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
-  alt: "Pueblo blanco de la Alpujarra en la ladera"
+  alt: Pueblo blanco de la Alpujarra en la ladera
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
-  alt: "Jarapas alpujarreñas a la venta en Pampaneira"
+  alt: Jarapas alpujarreñas a la venta en Pampaneira
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pexels-29136853.webp
-  alt: "Ermita encalada en la Alpujarra"
+  alt: Ermita encalada en la Alpujarra
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
-  alt: "Sierra Nevada nevada sobre los pueblos de la Alpujarra"
+  alt: Sierra Nevada nevada sobre los pueblos de la Alpujarra
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-vista-de-capileira-jpg.webp
-  alt: "Pueblo de la Alpujarra entre la niebla"
+  alt: Pueblo de la Alpujarra entre la niebla
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-granada-24524800018-jpg.webp
-  alt: "Pueblo de la Alpujarra iluminado al anochecer"
+  alt: Pueblo de la Alpujarra iluminado al anochecer
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-shadowed-valley-seen-along-the-gr-240-in-pampaneir.webp
-  alt: "Barranco de la Alpujarra con nubes bajas"
+  alt: Barranco de la Alpujarra con nubes bajas
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
-  alt: "Balcón con geranios en la Alpujarra"
+  alt: Balcón con geranios en la Alpujarra
 ratingProveedor: 4.7
 numeroOpiniones: 224
 publicada: true

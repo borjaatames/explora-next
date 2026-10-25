@@ -68,7 +68,7 @@ preguntasFrecuentes:
 opinionEditorial: La forma más segura de pisar el techo de España. Es cara y exigente, pero el guía marca el ritmo con la altitud y la nota es casi perfecta.
 guiasRelacionadas:
 - subir-al-teide
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - subir al teide andando
 - ruta guiada cumbre teide

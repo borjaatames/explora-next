@@ -2,8 +2,7 @@
 titulo: Excursión de un día a Úbeda y Baeza desde Granada
 slug: ubeda-baeza-renacimiento
 ciudad: granada
-descripcion: Excursión de 7 horas a Úbeda y Baeza, dos joyas renacentistas Patrimonio de la Humanidad UNESCO. Tour guiado
-  por Discovering Spain con sin colas y opción de grupo privado.
+descripcion: Excursión de 7 horas a Úbeda y Baeza, dos joyas renacentistas Patrimonio de la Humanidad UNESCO. Tour guiado por Discovering Spain con sin colas y opción de grupo privado.
 slugs:
   en: ubeda-baeza-renaissance-day-trip
   es: ubeda-baeza-renacimiento
@@ -36,9 +35,7 @@ noIncluye:
 - Propinas para guía y conductor
 puntoEncuentro:
   texto: Oficina Discovering Spain, Plaza de las Descalzas 3, Granada
-  descripcionGuia: 'El operador es Discovering Spain (mismo que el tour Originals de la Alpujarra). La oficina está en Plaza
-    de las Descalzas 3, zona Catedral. Llega 10-15 minutos antes. Ojo: este tour requiere mínimo de participantes para confirmar
-    — conviene reservar con antelación.'
+  descripcionGuia: 'El operador es Discovering Spain (mismo que el tour Originals de la Alpujarra). La oficina está en Plaza de las Descalzas 3, zona Catedral. Llega 10-15 minutos antes. Ojo: este tour requiere mínimo de participantes para confirmar — conviene reservar con antelación.'
   latitud: 37.1751
   longitud: -3.5995
   zoom: 16
@@ -58,38 +55,23 @@ informacionImportante:
   - La comida no está incluida, llevar dinero para almorzar en Úbeda o Baeza
   - Algunos monumentos opcionales (entradas extra) no están incluidos
   - Tour disponible solo en español
-accesibilidad: No recomendado para personas con problemas de movilidad. Úbeda y Baeza tienen calles empedradas y monumentos
-  con escalones.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. El operador puede cancelar si no se
-  alcanza el mínimo de participantes.
+accesibilidad: No recomendado para personas con problemas de movilidad. Úbeda y Baeza tienen calles empedradas y monumentos con escalones.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. El operador puede cancelar si no se alcanza el mínimo de participantes.
 preguntasFrecuentes:
 - pregunta: ¿Por qué Úbeda y Baeza son importantes?
-  respuesta: Son las dos joyas del Renacimiento andaluz, declaradas Patrimonio de la Humanidad por la UNESCO en 2003. Úbeda
-    concentra palacios, iglesias y conjuntos arquitectónicos del siglo XVI (Sacra Capilla del Salvador, Palacio Vázquez de
-    Molina) y Baeza es famosa por su Universidad y la Plaza del Pópulo. Son un viaje al Siglo de Oro español fuera de los
-    circuitos masificados.
+  respuesta: Son las dos joyas del Renacimiento andaluz, declaradas Patrimonio de la Humanidad por la UNESCO en 2003. Úbeda concentra palacios, iglesias y conjuntos arquitectónicos del siglo XVI (Sacra Capilla del Salvador, Palacio Vázquez de Molina) y Baeza es famosa por su Universidad y la Plaza del Pópulo. Son un viaje al Siglo de Oro español fuera de los circuitos masificados.
 - pregunta: ¿Cuánto se tarda en llegar desde Granada?
-  respuesta: Aproximadamente 2 horas por autopista hasta Úbeda. Baeza está a solo 9 km de Úbeda. La excursión gestiona el
-    transporte directamente — no hay tren ni autobús cómodo desde Granada, por eso el tour organizado es la opción más eficiente.
+  respuesta: Aproximadamente 2 horas por autopista hasta Úbeda. Baeza está a solo 9 km de Úbeda. La excursión gestiona el transporte directamente — no hay tren ni autobús cómodo desde Granada, por eso el tour organizado es la opción más eficiente.
 - pregunta: ¿Por qué tan cara (135 €)?
-  respuesta: El precio incluye transporte para todo el día (2 horas de ida, 2 de vuelta), guía oficial, sin colas, seguro
-    de viaje y visita guiada en Baeza. Es un día completo con desplazamientos largos. Comparada con otras excursiones de Granada
-    (Alpujarra 71-115 €, Sierra Nevada 75 €), el extra de Úbeda y Baeza está en la lejanía (~150 km) y el doble destino.
+  respuesta: El precio incluye transporte para todo el día (2 horas de ida, 2 de vuelta), guía oficial, sin colas, seguro de viaje y visita guiada en Baeza. Es un día completo con desplazamientos largos. Comparada con otras excursiones de Granada (Alpujarra 71-115 €, Sierra Nevada 75 €), el extra de Úbeda y Baeza está en la lejanía (~150 km) y el doble destino.
 variantes: []
-opinionEditorial: 'Si valoras el Renacimiento andaluz por encima de la Alhambra (que también es nazarí) o de los pueblos blancos
-  (que son árabe-bereber), Úbeda y Baeza son el destino. Las dos ciudades son Patrimonio de la Humanidad UNESCO y conservan
-  conjuntos arquitectónicos del Siglo de Oro español que en muy pocos sitios de Europa se pueden ver en bloque.
+opinionEditorial: 'Si valoras el Renacimiento andaluz por encima de la Alhambra (que también es nazarí) o de los pueblos blancos (que son árabe-bereber), Úbeda y Baeza son el destino. Las dos ciudades son Patrimonio de la Humanidad UNESCO y conservan conjuntos arquitectónicos del Siglo de Oro español que en muy pocos sitios de Europa se pueden ver en bloque.
 
 
-  El precio (135 €) es de los más altos del catálogo de excursiones de Granada, justificado por la distancia (~150 km) y el
-  doble destino. El operador Discovering Spain mantiene buena reputación (el mismo que opera la versión Originals de la Alpujarra).
-  El rating 4,5 por proveedor (no por reseñas individuales) es sólido pero no tan probado como otras excursiones — conviene
-  reservar con varios días de antelación porque el tour requiere mínimo de participantes para confirmarse.
+  El precio (135 €) es de los más altos del catálogo de excursiones de Granada, justificado por la distancia (~150 km) y el doble destino. El operador Discovering Spain mantiene buena reputación (el mismo que opera la versión Originals de la Alpujarra). El rating 4,5 por proveedor (no por reseñas individuales) es sólido pero no tan probado como otras excursiones — conviene reservar con varios días de antelación porque el tour requiere mínimo de participantes para confirmarse.
 
 
-  Es una excursión para quien ya conoce los básicos de Granada (Alhambra, Albayzín) y quiere profundizar en el Renacimiento
-  andaluz. No es la primera excursión a hacer desde Granada — pero sí una excelente segunda o tercera para visitantes con
-  varios días en la ciudad o que vuelven a la zona.
+  Es una excursión para quien ya conoce los básicos de Granada (Alhambra, Albayzín) y quiere profundizar en el Renacimiento andaluz. No es la primera excursión a hacer desde Granada — pero sí una excelente segunda o tercera para visitantes con varios días en la ciudad o que vuelven a la zona.
 
   '
 atraccionesRelacionadas:
@@ -101,25 +83,25 @@ keywords:
 - ubeda baeza unesco
 - excursion ubeda granada
 - discovering spain ubeda
-imagen: "/images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp"
-imagenAlt: "Plaza Vázquez de Molina en Úbeda, con la Sacra Capilla del Salvador"
+imagen: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
+imagenAlt: Plaza Vázquez de Molina en Úbeda, con la Sacra Capilla del Salvador
 galeria:
 - src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
-  alt: "Patio renacentista del Hospital de Santiago en Úbeda"
+  alt: Patio renacentista del Hospital de Santiago en Úbeda
 - src: /images/actividades/granada/ubeda/ubeda-pixabay-1747773.webp
-  alt: "Relieves de la portada de la Sacra Capilla del Salvador"
+  alt: Relieves de la portada de la Sacra Capilla del Salvador
 - src: /images/actividades/granada/ubeda/ubeda-wikimedia-palacio-de-v-zquez-de-molina-o-de-las-cadenas-sede.webp
-  alt: "Palacio Vázquez de Molina, hoy ayuntamiento de Úbeda"
+  alt: Palacio Vázquez de Molina, hoy ayuntamiento de Úbeda
 - src: /images/actividades/granada/ubeda/ubeda-pexels-36734373.webp
-  alt: "Plaza con fuente en el casco antiguo de Úbeda"
+  alt: Plaza con fuente en el casco antiguo de Úbeda
 - src: /images/actividades/granada/baeza/baeza-wikimedia-fachada-de-la-catedral-de-baeza-01-jpg.webp
-  alt: "Catedral de Baeza"
+  alt: Catedral de Baeza
 - src: /images/actividades/granada/baeza/baeza-pexels-35390421.webp
-  alt: "Plaza e iglesia renacentista de Baeza"
+  alt: Plaza e iglesia renacentista de Baeza
 - src: /images/actividades/granada/baeza/baeza-pexels-36686834.webp
-  alt: "Puerta de Jaén en la muralla de Baeza"
+  alt: Puerta de Jaén en la muralla de Baeza
 - src: /images/actividades/granada/baeza/baeza-wikimedia-inside-the-catedral-de-baeza-27651991145-jpg.webp
-  alt: "Cúpula pintada en el interior de un templo de Baeza"
+  alt: Cúpula pintada en el interior de un templo de Baeza
 ratingProveedor: 4.5
 numeroOpiniones: 0
 publicada: true

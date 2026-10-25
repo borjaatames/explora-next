@@ -49,11 +49,8 @@ atracciones:
     imagen: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
     imagenAlt: "Achterbahnen in PortAventura World"
 chipsFiltros:
-  - { label: "Tarraco und Kathedrale", tag: "tarraco" }
+  - { label: "Tarraco", tag: "tarraco" }
   - { label: "PortAventura", tag: "portaventura" }
-  - { label: "Costa Daurada", tag: "costa" }
-  - { label: "Ebro und Delta", tag: "naturaleza" }
-  - { label: "Wermut", tag: "vermut" }
 ---
 
 Tarragona ist eine mittelgroße Stadt an der Costa Daurada – rund 135.000 Einwohner –, eine Stunde von Barcelona entfernt, und bewahrt den größten römischen Schatz Kataloniens. Hier lag **Tárraco**, Hauptstadt des römischen Hispania, und aus jener Zeit ist ein zum UNESCO-Welterbe erklärtes Ensemble erhalten.

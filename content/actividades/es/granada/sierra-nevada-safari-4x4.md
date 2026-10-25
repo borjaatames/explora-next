@@ -82,7 +82,7 @@ opinionEditorial: 'La excursión natural mejor valorada de Granada con diferenci
   '
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - sierra nevada granada
 - safari 4x4 sierra nevada

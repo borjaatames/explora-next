@@ -68,25 +68,25 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s Salou''s top-rated adventure activity, with over 1,200 reviews: guide, hotel pickup and coastal views. If there are two of you, share a quad: the price is per vehicle.'
 guiasRelacionadas:
 - tarragona-in-one-day
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - salou quad
 - costa daurada quad tour
 - salou buggy
 - things to do in salou
-imagen: "quad-barro.webp"
-imagenAlt: "A quad crossing a puddle"
+imagen: quad-barro.webp
+imagenAlt: A quad crossing a puddle
 galeria:
-- src: "/images/actividades/tarragona/costa/faro-salou.webp"
-  alt: "Salou lighthouse and its white keeper's house under blue sky"
-- src: "/images/actividades/tarragona/quad/prades-siurana.webp"
-  alt: "The Prades mountains and Siurana"
-- src: "/images/actividades/tarragona/quad/montsant.webp"
-  alt: "Mountain landscape inland from Tarragona"
-- src: "/images/actividades/tarragona/costa/cap-salou.webp"
-  alt: "Rocky shore at Cap de Salou facing the Mediterranean"
-- src: "/images/actividades/tarragona/quad/prades-atardecer.webp"
-  alt: "Sunset over the Prades mountains"
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: Salou lighthouse and its white keeper's house under blue sky
+- src: /images/actividades/tarragona/quad/prades-siurana.webp
+  alt: The Prades mountains and Siurana
+- src: /images/actividades/tarragona/quad/montsant.webp
+  alt: Mountain landscape inland from Tarragona
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: Rocky shore at Cap de Salou facing the Mediterranean
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: Sunset over the Prades mountains
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:
@@ -95,6 +95,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+precioPorGrupo: true
 ---
 
 ## What you will see

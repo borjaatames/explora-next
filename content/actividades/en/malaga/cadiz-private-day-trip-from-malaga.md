@@ -65,7 +65,7 @@ opinionEditorial: 'Cádiz is one of Andalusia''s cities with the most character,
   At €731 for 1 or 2 people it''s expensive, and it''s a long day on the road. For 4 (€998 in total) it improves. If you have more days, Cádiz deserves an overnight stay; if you only have one, this is the most comfortable way.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cadiz from malaga
 - private cadiz day trip
@@ -92,6 +92,8 @@ galeria:
   alt: Fishing boats at La Caleta
 bokunProductId: 1116475
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What the day is like

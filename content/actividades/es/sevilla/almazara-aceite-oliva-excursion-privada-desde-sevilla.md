@@ -63,7 +63,7 @@ opinionEditorial: 'Andalucía es la mayor productora de aceite del mundo, y ver 
   Con transporte privado y precio por grupo, sale a 220 € por persona para una pareja y a 150 € para cuatro. Encaja con amantes de la gastronomía que tienen media mañana libre. Ten en cuenta que no es reembolsable.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - almazara desde sevilla
 - visita almazara aceite sevilla
@@ -91,6 +91,8 @@ galeria:
   alt: Grupo entre olivos con el guía
 bokunProductId: 860682
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es la visita

@@ -1,12 +1,12 @@
 ---
-titulo: "Barcelona Sunset Sailing Experience (2h, small group)"
+titulo: Barcelona Sunset Sailing Experience (2h, small group)
 slug: barcelona-sunset-sailing-experience
 ciudad: barcelona
-descripcion: "Sunset sailing trip from Marina Vela along the Barcelona coast, with an open bar and snacks onboard."
+descripcion: Sunset sailing trip from Marina Vela along the Barcelona coast, with an open bar and snacks onboard.
 slugs:
   es: navegacion-atardecer-barcelona-vela
   en: barcelona-sunset-sailing-experience
-duracion: "2 hours"
+duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 55
 moneda: EUR
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 680545
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -32,15 +32,15 @@ noIncluye:
 - Tips
 - Towel and swimwear
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 8
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 informacionImportante:
   queTraer:
   - Towel and swimwear if you want to swim
@@ -58,45 +58,45 @@ preguntasFrecuentes:
   respuesta: Yes, there is the option of a dip in the sea. Bring a towel and swimwear, as they are not provided.
 - pregunta: Is it good for couples or groups?
   respuesta: Both. It is a small group (maximum 12), so it works for a romantic evening or a group of friends.
-opinionEditorial: "Seeing Barcelona from the sea at sunset is one of those plans hardly anyone does and that really pays off: small group, drink in hand and the city lighting up from the water. Perfect for a couple or a group of friends."
+opinionEditorial: 'Seeing Barcelona from the sea at sunset is one of those plans hardly anyone does and that really pays off: small group, drink in hand and the city lighting up from the water. Perfect for a couple or a group of friends.'
 atraccionesRelacionadas:
 - barco
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - barcelona sunset sailing
 - barcelona sailing trip
 - boat trip barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-velero-atardecer.webp"
-imagenAlt: "Sailboat at sunset off the Barcelona coast"
+imagen: /images/actividades/barcelona/barcos/barcos-velero-atardecer.webp
+imagenAlt: Sailboat at sunset off the Barcelona coast
 galeria:
 - src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
-  alt: "Guests watching the sunset from the sailboat"
+  alt: Guests watching the sunset from the sailboat
 - src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
-  alt: "Sailboat silhouetted against the sunset"
+  alt: Sailboat silhouetted against the sunset
 - src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
-  alt: "Sunset from the sailboat deck"
+  alt: Sunset from the sailboat deck
 - src: https://imgcdn.bokun.tools/740143a2-08a4-4ea5-a6cd-d9c69fb1db12.jpg
-  alt: "Sailboats moored in Barcelona harbour at sunset"
+  alt: Sailboats moored in Barcelona harbour at sunset
 - src: https://imgcdn.bokun.tools/d96e5712-3550-494f-af18-2999c7d413dc.jpg
-  alt: "Snacks served on the sailboat deck"
+  alt: Snacks served on the sailboat deck
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
-  alt: "Sailboat cruising off the Barcelona coast at sunset, with the sun reflecting on the sea"
+  alt: Sailboat cruising off the Barcelona coast at sunset, with the sun reflecting on the sea
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp
-  alt: "View from the sailboat's deck toward the sunset over the sea"
+  alt: View from the sailboat's deck toward the sunset over the sea
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+  alt: Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background"
+  alt: Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Sunbathers and walkers on the sand of Barceloneta beach on a sunny day"
+  alt: Sunbathers and walkers on the sand of Barceloneta beach on a sunny day
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "View of Barceloneta beach with the marina and palm trees in the background"
+  alt: View of Barceloneta beach with the marina and palm trees in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Sailboat and parasailing off Barceloneta beach"
+  alt: Sailboat and parasailing off Barceloneta beach
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
+  alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
-  alt: "Sailing yacht at sunset off the Barcelona coast"
+  alt: Sailing yacht at sunset off the Barcelona coast
 publicada: true
 destacada: false
 fecha: '2026-06-18'

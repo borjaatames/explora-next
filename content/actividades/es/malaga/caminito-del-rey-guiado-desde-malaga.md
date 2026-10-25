@@ -71,14 +71,15 @@ preguntasFrecuentes:
   respuesta: No, la entrada va incluida.
 - pregunta: ¿Qué pasa si hace mal tiempo?
   respuesta: Si el Caminito cierra por viento o lluvia, se reprograma o se devuelve el dinero.
-avisoReserva: 'Las plazas de primavera y otoño se agotan en pocos días'
+avisoReserva: Las plazas de primavera y otoño se agotan en pocos días
 opinionEditorial: La entrada al Caminito del Rey se agota y llegar sin coche es complicado; esta excursión lo resuelve todo desde Málaga. Con más de 19.000 reseñas y un 4,9, es la actividad mejor valorada de la zona.
 guiasRelacionadas:
 - caminito-del-rey-como-visitar
 - escapadas-desde-malaga
 atraccionesRelacionadas:
+- caminito
 - caminito-del-rey
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - caminito del rey desde malaga
 - caminito del rey excursion
@@ -87,12 +88,12 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/pasarela.webp
 imagenAlt: Pasarela del Caminito del Rey colgada sobre el desfiladero
 galeria:
-- src: "/images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp"
-  alt: "Puente colgante del Caminito del Rey sobre el río"
-- src: "/images/actividades/malaga/caminito-del-rey/pasarela-visitantes-desfiladero.webp"
-  alt: "Visitantes recorriendo la pasarela del desfiladero"
-- src: "/images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp"
-  alt: "Vista completa del cañón del Caminito del Rey"
+- src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
+  alt: Puente colgante del Caminito del Rey sobre el río
+- src: /images/actividades/malaga/caminito-del-rey/pasarela-visitantes-desfiladero.webp
+  alt: Visitantes recorriendo la pasarela del desfiladero
+- src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
+  alt: Vista completa del cañón del Caminito del Rey
 - src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
   alt: Caminito del Rey en el desfiladero de los Gaitanes
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp

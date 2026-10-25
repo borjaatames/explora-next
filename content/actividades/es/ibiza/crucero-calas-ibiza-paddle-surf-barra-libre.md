@@ -70,7 +70,7 @@ opinionEditorial: 'Es el crucero de calas más reservado de Ibiza, con más de 3
 guiasRelacionadas:
 - mejores-calas-ibiza
 - que-ver-en-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - excursion barco ibiza calas
 - crucero cala bassa cala comte

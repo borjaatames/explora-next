@@ -66,7 +66,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Una de las mejores mañanas de mar de la Costa Blanca: acantilados, cuevas y agua transparente. Merece el viaje desde Alicante.'
 guiasRelacionadas:
 - escapadas-costa-blanca-desde-alicante
-categoria: excursionesDia
+categoria: agua
 keywords:
 - kayak granadella
 - kayak javea

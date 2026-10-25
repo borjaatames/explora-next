@@ -52,7 +52,7 @@ politicaCancelacion: 'Según el proveedor, la reserva no es reembolsable: revisa
 opinionEditorial: 'Es la ruta más completa de las cortas de Tuk Tuk Zero para una primera visita: cubre casi todo el Madrid de postal en poco más de una hora. Ten en cuenta que la explicación es por audioguía con auriculares, no un guía en directo, y que la reserva no se puede cancelar.'
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk madrid
 - tuk tuk centro histórico madrid
@@ -86,6 +86,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

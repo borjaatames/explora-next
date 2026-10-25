@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Corralejo: safari en buggy por pistas y volcanes del norte'
 slug: buggy-safari-corralejo
 ciudad: fuerteventura
-descripcion: 'Ruta guiada en buggy de 2,5 horas por pistas de tierra del norte de Fuerteventura, entre dunas y antiguos cráteres, con vistas a Lobos y Lanzarote y recogida en Corralejo. 4,6/5 con más de 1.500 reseñas.'
+descripcion: Ruta guiada en buggy de 2,5 horas por pistas de tierra del norte de Fuerteventura, entre dunas y antiguos cráteres, con vistas a Lobos y Lanzarote y recogida en Corralejo. 4,6/5 con más de 1.500 reseñas.
 slugs:
   es: buggy-safari-corralejo
   en: corralejo-buggy-safari
@@ -38,8 +38,8 @@ noIncluye:
 puntoEncuentro:
   texto: Recogida en tu hotel de Corralejo o en la oficina de Fuerteadventure en Corralejo.
   descripcionGuia: Si tienes coche de alquiler o tu hotel está cerca de la oficina, elige al reservar el punto «Aventura en quad y safari en buggy (nuestra oficina)»; hay un aparcamiento amplio cerca.
-  latitud: 28.7300
-  longitud: -13.8680
+  latitud: 28.73
+  longitud: -13.868
   zoom: 13
 detallesPracticos:
   ticketMovil: true
@@ -76,25 +76,25 @@ opinionEditorial: 'Buena forma de ver el interior volcánico del norte, que desd
 guiasRelacionadas:
 - que-ver-en-fuerteventura
 - isla-de-lobos-como-ir
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - buggy corralejo
 - buggy fuerteventura
 - excursion buggy norte fuerteventura
 - safari buggy corralejo
 imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: "Buggy por una pista de tierra en el norte de Fuerteventura"
+imagenAlt: Buggy por una pista de tierra en el norte de Fuerteventura
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp"
-  alt: "Dunas y matorral en el Parque Natural de Corralejo"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
-  alt: "Paseo por las dunas blancas de Corralejo"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
-  alt: "La Isla de Lobos desde la costa de Fuerteventura"
-- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
-  alt: "Conos volcánicos en el norte de Fuerteventura"
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
-  alt: "Barcos en el puerto de Corralejo"
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp
+  alt: Dunas y matorral en el Parque Natural de Corralejo
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
+  alt: Paseo por las dunas blancas de Corralejo
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
+  alt: La Isla de Lobos desde la costa de Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: Conos volcánicos en el norte de Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
+  alt: Barcos en el puerto de Corralejo
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

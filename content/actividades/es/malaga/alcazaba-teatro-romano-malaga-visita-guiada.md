@@ -69,6 +69,7 @@ guiasRelacionadas:
 - malaga-en-dos-dias
 - malaga-con-ninos
 atraccionesRelacionadas:
+- alcazaba
 - alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:
@@ -79,8 +80,8 @@ keywords:
 imagen: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
 imagenAlt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
 galeria:
-- src: "/images/actividades/malaga/teatro-romano/gradas-2.webp"
-  alt: "Teatro romano de Málaga junto a la Alcazaba"
+- src: /images/actividades/malaga/teatro-romano/gradas-2.webp
+  alt: Teatro romano de Málaga junto a la Alcazaba
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
   alt: Murallas de la Alcazaba de Málaga
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
@@ -94,7 +95,7 @@ galeria:
 - src: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
   alt: Panorámica de Málaga desde la Alcazaba
 - src: /images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp
-  alt: "Teatro romano de Málaga junto a la Alcazaba"
+  alt: Teatro romano de Málaga junto a la Alcazaba
 ratingProveedor: 4.7
 numeroOpiniones: 7412
 publicada: true

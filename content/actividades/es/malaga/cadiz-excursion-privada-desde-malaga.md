@@ -65,7 +65,7 @@ opinionEditorial: 'Cádiz es una de las ciudades con más carácter de Andalucí
   Con 731 € para 1 o 2 personas es cara, y es un día largo de carretera. Para 4 (998 € en total) mejora. Si tienes más días, Cádiz merece dormir allí; si solo tienes uno, esta es la forma más cómoda.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cadiz desde malaga
 - excursion privada cadiz
@@ -92,6 +92,8 @@ galeria:
   alt: Barcas de pesca en La Caleta
 bokunProductId: 1116475
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

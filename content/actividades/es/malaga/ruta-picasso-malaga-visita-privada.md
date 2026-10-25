@@ -61,6 +61,7 @@ opinionEditorial: 'Si Picasso es el motivo de tu viaje a Málaga, esta es la vis
 
   Con 2 personas sale a 166 € por persona, bastante más que ir por tu cuenta con las entradas. Con 4 baja a 90 € por cabeza (360 € en total), y ahí sí compensa frente a contratar un guía aparte.'
 atraccionesRelacionadas:
+- museo-picasso
 - picasso
 - centro-historico
 categoria: visitasGuiadas
@@ -90,6 +91,7 @@ galeria:
   alt: Sala blanca del museo con obras expuestas
 bokunProductId: 936430
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

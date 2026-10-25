@@ -67,7 +67,7 @@ opinionEditorial: 'Es la visita más original que vas a encontrar en Córdoba: e
   Tiene sentido como segunda o tercera actividad en la ciudad, cuando ya has visto lo esencial a pie de calle. En pareja sale por unos 174 € por persona; en grupo de 4, unos 112 €. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
 - mezquita-catedral
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - azoteas cordoba
 - tour atardecer cordoba
@@ -94,6 +94,7 @@ galeria:
   alt: Torre campanario de la Mezquita-Catedral
 bokunProductId: 934216
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

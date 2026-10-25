@@ -54,32 +54,33 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: 'Cádiz es una ciudad compacta y agradable para caminar, así que el formato autoguiado encaja bien: puedes parar en cada plaza o iglesia el tiempo que quieras sin sentir que retrasas a un grupo. Con 2 rutas y +25 puntos cubre bastante más que el centro histórico básico. Ideal para quien viaja en familia o a su aire; si buscas el contexto histórico contado por una persona, este no es el producto.'
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour autoguiado cádiz
 - audioguía app cádiz
 - visita autoguiada cádiz
-imagen: "/images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp"
-imagenAlt: "Plaza de San Juan de Dios y el Ayuntamiento"
+imagen: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
+imagenAlt: Plaza de San Juan de Dios y el Ayuntamiento
 galeria:
-- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Monumento a la Constitución de 1812 en la plaza de España de Cádiz"
-- src: "/images/actividades/cadiz/centro/plaza-flores.webp"
-  alt: "Plaza de las Flores con sus puestos de flores, en el centro de Cádiz"
+- src: /images/actividades/cadiz/ciudades/cadiz-hero.webp
+  alt: Monumento a la Constitución de 1812 en la plaza de España de Cádiz
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: Plaza de las Flores con sus puestos de flores, en el centro de Cádiz
 - src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: "Fachada de la catedral de Cádiz"
+  alt: Fachada de la catedral de Cádiz
 - src: /images/actividades/cadiz/mar/puente-1812-noche.webp
-  alt: "Puente de la Constitución de 1812 iluminado de noche"
+  alt: Puente de la Constitución de 1812 iluminado de noche
 - src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: "Arco de los Blanco en el barrio del Pópulo"
+  alt: Arco de los Blanco en el barrio del Pópulo
 - src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: "Vista de Cádiz desde la Torre Tavira"
+  alt: Vista de Cádiz desde la Torre Tavira
 - src: /images/actividades/cadiz/centro/monumento-1812.webp
-  alt: "Monumento a la Constitución de 1812"
+  alt: Monumento a la Constitución de 1812
 - src: https://imgcdn.bokun.tools/3959d005-ca6f-4b45-9f5b-65613bd4e878.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 atraccionesRelacionadas:
-  - centro-historico
+- casco-antiguo
+- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

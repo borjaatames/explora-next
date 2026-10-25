@@ -51,7 +51,7 @@ politicaCancelacion: Free cancellation up to 24 hours before the start, with a f
 opinionEditorial: 'A tuk-tuk is a quick way to see a lot of Madrid in a short time, but it isn''t a walking tour: don''t expect long stops or in-depth explanations at every landmark. It works well if you''re traveling as a group and want to split the cost, or if someone in your party struggles with long walks but doesn''t use a wheelchair.'
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk madrid
 - madrid panoramic tour
@@ -80,15 +80,17 @@ galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
   alt: Royal Palace of Madrid
 - src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
-  alt: "Calle de la Cava Baja in La Latina"
+  alt: Calle de la Cava Baja in La Latina
 - src: /images/actividades/madrid/puerta-alcala/puerta-alcala-madrid-monument-madrid-center-hero.webp
   alt: Puerta de Alcalá
 - src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp
-  alt: "Top of the Almudena Cathedral façade between its twin towers"
+  alt: Top of the Almudena Cathedral façade between its twin towers
 publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

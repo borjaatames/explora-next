@@ -68,7 +68,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es el plan de mar más reservado de la Costa Dorada, con más de 2.000 reseñas: barra libre, baño y comida por unos 35 €. Coge la salida de mediodía para que incluya la hamburguesa.'
 guiasRelacionadas:
 - tarragona-en-un-dia
-categoria: excursionesDia
+categoria: agua
 keywords:
 - catamaran cambrils
 - paseo en barco salou

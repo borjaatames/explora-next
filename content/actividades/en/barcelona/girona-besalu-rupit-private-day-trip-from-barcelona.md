@@ -63,7 +63,6 @@ opinionEditorial: 'It''s an easy way to see medieval Catalonia in a day from Bar
 
 
   The downside is the price for two (from about €340 per person). It mainly pays off for groups of 3 or 4.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - girona day trip from barcelona
@@ -95,6 +94,7 @@ galeria:
   alt: Travellers crossing Rupit's hanging bridge
 bokunProductId: 217559
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

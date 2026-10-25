@@ -87,16 +87,16 @@ galeria:
   alt: Enganche de caballos cartujanos
 - src: /images/actividades/cadiz/yeguada/manada.webp
   alt: Manada de caballos cartujanos
-- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-01.webp"
-  alt: "Jinete con un caballo cartujano en la pista de la Yeguada"
-- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-02.webp"
-  alt: "Caballos cartujanos alineados en la pista de exhibición"
-- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-03.webp"
-  alt: "Enganche de caballos blancos durante la exhibición"
-- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-04.webp"
-  alt: "Potros cartujanos corriendo en la pista"
-- src: "/images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp"
-  alt: "Picadero cubierto de la Yeguada de la Cartuja"
+- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-01.webp
+  alt: Jinete con un caballo cartujano en la pista de la Yeguada
+- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-02.webp
+  alt: Caballos cartujanos alineados en la pista de exhibición
+- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-03.webp
+  alt: Enganche de caballos blancos durante la exhibición
+- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-04.webp
+  alt: Potros cartujanos corriendo en la pista
+- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp
+  alt: Picadero cubierto de la Yeguada de la Cartuja
 ratingProveedor: 4.8
 numeroOpiniones: 1073
 atraccionesRelacionadas:

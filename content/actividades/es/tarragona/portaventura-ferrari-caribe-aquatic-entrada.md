@@ -69,7 +69,7 @@ opinionEditorial: 'PortAventura es el parque de atracciones m√°s grande de Espa√
 guiasRelacionadas:
 - portaventura-world-guia
 - tarragona-en-un-dia
-categoria: entradas
+categoria: parques
 keywords:
 - portaventura ferrari land caribe entrada
 - portaventura combo completo

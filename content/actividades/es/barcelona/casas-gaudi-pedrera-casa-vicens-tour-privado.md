@@ -67,7 +67,8 @@ opinionEditorial: 'Es un tour para quien quiere ver dos casas de Gaudí por dent
 
 
   En pareja sale desde unos 156 € por persona. Ten claro que dentro de las casas vas con audioguía: el guía te acompaña solo en el paseo exterior.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- casa-batllo-pedrera
 categoria: visitasGuiadas
 keywords:
 - tour casas de gaudi
@@ -97,6 +98,7 @@ galeria:
   alt: Patio interior de La Pedrera visto desde abajo
 bokunProductId: 245313
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

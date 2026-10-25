@@ -54,32 +54,32 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: Es una opción barata y flexible para conocer el centro histórico de Alicante sin comprometerte a un horario fijo. Con +10 paradas es un recorrido más corto que otras ciudades del catálogo, así que lo recomiendo sobre todo como complemento a un paseo por tu cuenta, no como la única actividad del día. Echarás en falta las anécdotas de un guía en vivo, pero ganas en libertad total.
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour autoguiado alicante
 - audioguía app alicante
 - visita autoguiada alicante
-imagen: "/images/actividades/alicante/centro/explanada.webp"
-imagenAlt: "Mosaico de la Explanada de España"
+imagen: /images/actividades/alicante/centro/explanada.webp
+imagenAlt: Mosaico de la Explanada de España
 galeria:
-- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
-- src: "/images/actividades/alicante/centro/ayuntamiento.webp"
-  alt: "Fachada barroca del Ayuntamiento de Alicante con sus dos torres"
+- src: /images/actividades/alicante/ciudades/alicante-hero.webp
+  alt: Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: Fachada barroca del Ayuntamiento de Alicante con sus dos torres
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Alicante y su puerto desde el castillo"
+  alt: Alicante y su puerto desde el castillo
 - src: /images/actividades/alicante/costa/postiguet.webp
-  alt: "Playa del Postiguet bajo el castillo"
+  alt: Playa del Postiguet bajo el castillo
 - src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: "Paseo de la Explanada, junto al puerto"
+  alt: Paseo de la Explanada, junto al puerto
 - src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: "Calle de San Antonio en el barrio de Santa Cruz"
+  alt: Calle de San Antonio en el barrio de Santa Cruz
 - src: /images/actividades/alicante/centro/santa-cruz-vista.webp
-  alt: "Barrio de Santa Cruz en la ladera del Benacantil"
+  alt: Barrio de Santa Cruz en la ladera del Benacantil
 - src: https://imgcdn.bokun.tools/9bb417df-5b88-4401-bf75-fd3e77d9b4f3.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 atraccionesRelacionadas:
-  - centro-historico
+- centro-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'

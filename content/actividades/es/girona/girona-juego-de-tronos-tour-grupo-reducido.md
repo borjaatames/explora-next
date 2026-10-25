@@ -67,8 +67,9 @@ guiasRelacionadas:
 - girona-juego-de-tronos
 - que-ver-en-girona-en-un-dia
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour juego de tronos girona
 - ruta juego de tronos girona
@@ -78,10 +79,10 @@ keywords:
 imagen: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
 imagenAlt: Escalinata de la catedral de Girona, escenario del Gran Septo de Baelor
 galeria:
-- src: "/images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp"
-  alt: "Escalinata de la Catedral de Girona, localizacion de Juego de Tronos"
-- src: "/images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp"
-  alt: "Casas del Onyar con la catedral de Girona al fondo"
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp
+  alt: Escalinata de la Catedral de Girona, localizacion de Juego de Tronos
+- src: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
+  alt: Casas del Onyar con la catedral de Girona al fondo
 - src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec.webp
   alt: Pujada de Sant Domènec, calle empinada del Barri Vell de Girona
 - src: /images/actividades/girona/juego-de-tronos/banos-arabes-columnas.webp

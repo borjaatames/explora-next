@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: Siam Park es probablemente el mejor parque acuático de Europa, y la tematización tailandesa se nota. Ve a primera hora o en temporada baja para evitar colas en la Tower of Power y la ola gigante.
 guiasRelacionadas:
 - que-ver-en-tenerife
-categoria: entradas
+categoria: parques
 keywords:
 - siam park entradas
 - siam park tenerife
@@ -95,6 +95,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 18955
 atraccionesRelacionadas:
+- siam-loro
 - parques
 publicada: true
 destacada: false

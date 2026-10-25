@@ -83,7 +83,7 @@ opinionEditorial: 'Por menos de 30 € es de las actividades con mejor relación
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - kayak tenerife
 - kayak los cristianos

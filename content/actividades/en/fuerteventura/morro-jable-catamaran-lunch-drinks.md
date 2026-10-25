@@ -71,7 +71,7 @@ opinionEditorial: 'It''s the all-in option in the south: four hours with food, d
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - cofete-villa-winter-how-to-get-there
-categoria: excursionesDia
+categoria: agua
 keywords:
 - fuerteventura catamaran
 - morro jable catamaran

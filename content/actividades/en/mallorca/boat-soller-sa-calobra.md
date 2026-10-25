@@ -1,12 +1,12 @@
 ---
-titulo: "Mallorca: Sóller to Sa Calobra boat trip"
+titulo: 'Mallorca: Sóller to Sa Calobra boat trip'
 slug: boat-soller-sa-calobra
 ciudad: mallorca
-descripcion: "Boat trip from Sóller port to Sa Calobra, one of the most spectacular coastal landscapes in the Mediterranean, with a walk through the Torrent de Pareis gorge. 4.4/5 with 1,230 reviews."
+descripcion: Boat trip from Sóller port to Sa Calobra, one of the most spectacular coastal landscapes in the Mediterranean, with a walk through the Torrent de Pareis gorge. 4.4/5 with 1,230 reviews.
 slugs:
   es: barco-soller-sa-calobra
   en: boat-soller-sa-calobra
-duracion: '4-5 hours'
+duracion: 4-5 hours
 duracionMinutos: 270
 precioDesde: 35
 moneda: EUR
@@ -29,10 +29,10 @@ noIncluye:
 - Transport to/from Sóller port
 - Food and drink
 puntoEncuentro:
-  texto: 'Port de Sóller, Mallorca'
+  texto: Port de Sóller, Mallorca
   descripcionGuia: Port de Sóller is 30 km north of Palma by the Ma-11 mountain road. By public transport, take the wooden train from Palma to Sóller (one of Mallorca's most scenic journeys), then the tram down to the port. Confirm the exact departure point with the operator on your voucher.
-  latitud: 39.7990
-  longitud: 2.6960
+  latitud: 39.799
+  longitud: 2.696
   zoom: 13
 detallesPracticos:
   ticketMovil: true
@@ -58,12 +58,12 @@ preguntasFrecuentes:
   respuesta: A spectacular narrow limestone gorge carved by a seasonal river. The gorge ends where it meets the sea at Sa Calobra cove. The walk through the gorge takes about 20–30 minutes and involves scrambling over rocks and passing through a narrow tunnel carved through the rock.
 - pregunta: Can I swim at Sa Calobra?
   respuesta: Yes. Sa Calobra has a small pebbly beach at the mouth of the gorge. The water is crystal clear and the setting is outstanding. Bring a swimsuit.
-opinionEditorial: "Sa Calobra by boat from Sóller is one of Mallorca's greatest experiences: the coastal scenery alone is worth it, and the gorge walk at the end makes it unforgettable. Do not take the road instead — the boat approach is completely different."
+opinionEditorial: 'Sa Calobra by boat from Sóller is one of Mallorca''s greatest experiences: the coastal scenery alone is worth it, and the gorge walk at the end makes it unforgettable. Do not take the road instead — the boat approach is completely different.'
 guiasRelacionadas:
 - serra-tramuntana-soller
 - best-coves-mallorca
 - what-to-see-in-mallorca
-categoria: excursionesDia
+categoria: agua
 keywords:
 - sa calobra boat trip mallorca
 - soller sa calobra
@@ -72,21 +72,22 @@ keywords:
 imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Sa Calobra cove and limestone cliffs, Mallorca
 galeria:
-  - src: "/images/actividades/mallorca/soller/sa-calobra-torrent.webp"
-    alt: "Inside the Torrent de Pareis, with its 200-metre walls"
-  - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
-    alt: "Port de Sóller bay, where the boat departs from"
-  - src: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
-    alt: "View of Port de Sóller with the Tramuntana mountains"
-  - src: "/images/actividades/mallorca/soller/sa-calobra-aerea.webp"
-    alt: "Aerial view of the Torrent de Pareis river mouth"
-  - src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
-    alt: "Path through the Sa Calobra gorge"
-  - src: "/images/actividades/mallorca/soller/sa-calobra-barco.webp"
-    alt: "A boat arriving at Sa Calobra"
+- src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
+  alt: Inside the Torrent de Pareis, with its 200-metre walls
+- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
+  alt: Port de Sóller bay, where the boat departs from
+- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
+  alt: View of Port de Sóller with the Tramuntana mountains
+- src: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
+  alt: Aerial view of the Torrent de Pareis river mouth
+- src: /images/actividades/mallorca/soller/sa-calobra-sendero.webp
+  alt: Path through the Sa Calobra gorge
+- src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
+  alt: A boat arriving at Sa Calobra
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:
+- soller-tramuntana
 - tramuntana
 - calas-playas
 publicada: true

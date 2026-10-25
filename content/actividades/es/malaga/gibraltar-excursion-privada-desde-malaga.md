@@ -72,8 +72,9 @@ opinionEditorial: 'Gibraltar desde Málaga es un día largo de carretera, y en p
 
   Es caro para 1 o 2 personas (760 € por grupo) y compensa más a partir de 4 (960 € en total). Si viajas solo o en pareja con presupuesto ajustado, las excursiones en autobús cuestan mucho menos, aunque con menos flexibilidad.'
 atraccionesRelacionadas:
+- gibraltar
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - gibraltar desde malaga
 - excursion privada gibraltar
@@ -102,6 +103,8 @@ galeria:
   alt: Puente colgante sobre la ladera del Peñón
 bokunProductId: 857522
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

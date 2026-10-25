@@ -71,7 +71,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s a pleasant evening outing to see the south coast in sunset light with a drink in hand, more than a wildlife trip: dolphins aren''t guaranteed and the score (4.2) reflects that they don''t always show up. If cetaceans are what matter, Tenerife or La Gomera give better odds; if you want sea and sunset without effort, it delivers.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - lanzarote sunset cruise
 - lanzarote dolphins

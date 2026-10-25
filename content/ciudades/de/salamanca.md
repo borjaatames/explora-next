@@ -49,9 +49,8 @@ atracciones:
     imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"
     imagenAlt: "Der Tormes unter einer Eisenbrücke, im Hintergrund die Kathedralen von Salamanca"
 chipsFiltros:
-  - { label: "Altstadt", tag: "casco-historico" }
-  - { label: "Kathedralen und Universität", tag: "monumentos" }
-  - { label: "Iberischer Schinken", tag: "jamon" }
+  - { label: "Universität & Kathedralen", tag: "universidad-catedrales" }
+  - { label: "Plaza Mayor", tag: "plaza-mayor" }
 ---
 
 Salamanca ist die **goldene Stadt Kastilien-Léons**, Provinzhauptstadt mit rund **143.000 Einwohnern** und Sitz der **ältesten Universität Spaniens** (gegründet 1218, eine der ersten der Welt). Die Stadt ist von der UNESCO zum Weltkulturerbe erklärt worden.

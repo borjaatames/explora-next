@@ -72,7 +72,7 @@ opinionEditorial: 'Los vinos de Madrid son los grandes desconocidos y esta media
   Cuesta unos 200 € por persona. No incluye comida, así que vuelves a Madrid a tiempo para comer por tu cuenta. Para quien ya conoce Rioja o Ribera y quiere algo distinto cerca de la capital, es una buena elección.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - ruta del vino madrid
 - bodegas cerca de madrid

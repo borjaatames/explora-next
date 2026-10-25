@@ -68,7 +68,7 @@ opinionEditorial: 'Cádiz looks its best from the sea, and at sunset, with the c
 guiasRelacionadas:
 - cadiz-in-one-day
 - cadiz-beaches-costa-de-la-luz
-categoria: excursionesDia
+categoria: agua
 keywords:
 - cadiz sunset catamaran
 - cadiz boat trip

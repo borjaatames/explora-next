@@ -2,8 +2,7 @@
 titulo: Gran Vía de Madrid, tour privado a pie
 slug: tour-privado-gran-via-madrid
 ciudad: madrid
-descripcion: Tour privado a pie por la Gran Vía de Madrid con guía en exclusiva
-  para tu grupo, de la Maqueta del Centenario a Plaza de Callao.
+descripcion: Tour privado a pie por la Gran Vía de Madrid con guía en exclusiva para tu grupo, de la Maqueta del Centenario a Plaza de Callao.
 slugs:
   es: tour-privado-gran-via-madrid
   en: madrid-gran-via-private-walking-tour
@@ -16,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1125448
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Tour privado solo para tu grupo, con guía en exclusiva
@@ -29,8 +28,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Maqueta del Centenario, junto a Plaza de España, 28013 Madrid
-  descripcionGuia: El tour arranca en la Maqueta del Centenario, en el inicio de
-    la Gran Vía junto a Plaza de España, y termina en Plaza de Callao.
+  descripcionGuia: El tour arranca en la Maqueta del Centenario, en el inicio de la Gran Vía junto a Plaza de España, y termina en Plaza de Callao.
   latitud: 40.4234
   longitud: -3.7122
   zoom: 16
@@ -40,37 +38,29 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-accesibilidad: Recorrido a pie accesible para sillas de ruedas y carritos. Dificultad
-  moderada por la distancia caminada.
-politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso
-  completo.
-opinionEditorial: 'Es un formato muy distinto al de las visitas en grupo grande: aquí
-  el guía es solo para vosotros, así que marcáis el ritmo y podéis preguntar lo que
-  queráis. La Gran Vía da mucho juego contada bien —de avenida pensada como escaparate
-  de la modernidad a los cines y los edificios Art Déco—, y en dos horas se ve con
-  calma. El precio es por grupo privado, no por persona: cuantos más seáis, más sale
-  a cuenta, y para una pareja o una familia es una experiencia a medida más que una
-  visita de masas.'
+accesibilidad: Recorrido a pie accesible para sillas de ruedas y carritos. Dificultad moderada por la distancia caminada.
+politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
+opinionEditorial: 'Es un formato muy distinto al de las visitas en grupo grande: aquí el guía es solo para vosotros, así que marcáis el ritmo y podéis preguntar lo que queráis. La Gran Vía da mucho juego contada bien —de avenida pensada como escaparate de la modernidad a los cines y los edificios Art Déco—, y en dos horas se ve con calma. El precio es por grupo privado, no por persona: cuantos más seáis, más sale a cuenta, y para una pareja o una familia es una experiencia a medida más que una visita de masas.'
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado gran via madrid
 - visita guiada privada gran via
 - tour gran via madrid
-imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
-imagenAlt: "La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida"
+imagen: /images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp
+imagenAlt: La Gran Vía de Madrid con sus edificios históricos y el tráfico de la avenida
 galeria:
 - src: https://imgcdn.bokun.tools/ec298125-bc0c-4877-b1ec-1dcd41fc08f2.jpg
-  alt: "Edificio Telefónica en la Gran Vía"
+  alt: Edificio Telefónica en la Gran Vía
 - src: https://imgcdn.bokun.tools/f967b27b-ce18-4427-bf30-c1412a783e94.jpg
-  alt: "Cúpula del edificio Metrópolis"
+  alt: Cúpula del edificio Metrópolis
 - src: https://imgcdn.bokun.tools/7e10b32d-ee1f-4629-8e51-7a7dfe3e8238.jpg
-  alt: "Edificio histórico de la Gran Vía"
+  alt: Edificio histórico de la Gran Vía
 - src: https://imgcdn.bokun.tools/66713f56-a58f-4f2c-b887-8c8b3356edd2.jpg
-  alt: "Edificio Carrión y la plaza del Callao"
+  alt: Edificio Carrión y la plaza del Callao
 - src: https://imgcdn.bokun.tools/2ef07f8e-3ba6-41d0-ba08-f020b4794cab.jpg
-  alt: "Fachada de un edificio de la Gran Vía"
+  alt: Fachada de un edificio de la Gran Vía
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
   alt: Vista aerea de la Gran Via de Madrid al atardecer, con el edificio Metropolis
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp
@@ -78,7 +68,7 @@ galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
   alt: El edificio Metropolis, con su cupula dorada y la escultura del angel, en la Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp
-  alt: "La Gran Vía iluminada vista desde lo alto"
+  alt: La Gran Vía iluminada vista desde lo alto
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-city-street-ornate-white-hero.webp
   alt: Plaza de Cibeles con el Palacio de Cibeles al fondo, junto al inicio de la Gran Via de Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-pedestrians-cars-hero.webp
@@ -93,6 +83,8 @@ publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

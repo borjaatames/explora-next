@@ -65,7 +65,7 @@ opinionEditorial: 'Ronda is two hours from Granada and a tricky day by public tr
   The price is per group: €540 without a guide for 1 or 2 people, €700 with one. It''s better value with 3 or 4. Bear in mind it can''t be cancelled.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - ronda from granada
 - ronda day trip from granada
@@ -90,6 +90,8 @@ galeria:
   alt: The parador and Puente Nuevo above the cliff
 bokunProductId: 841521
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day goes

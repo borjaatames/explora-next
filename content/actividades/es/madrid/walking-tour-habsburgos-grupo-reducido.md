@@ -1,132 +1,125 @@
 ---
-titulo: "Madrid de los Austrias: Tour a Pie en Grupo Reducido"
-slug: "walking-tour-habsburgos-grupo-reducido"
-ciudad: "madrid"
-descripcion: "Tour a pie de 2 horas por el Madrid de los Austrias en grupo reducido (máximo 10 personas). De la Puerta del Sol al Palacio Real con guía local acreditado. 4,9/5 sobre 55 reseñas. Top rated."
-
+titulo: 'Madrid de los Austrias: Tour a Pie en Grupo Reducido'
+slug: walking-tour-habsburgos-grupo-reducido
+ciudad: madrid
+descripcion: Tour a pie de 2 horas por el Madrid de los Austrias en grupo reducido (máximo 10 personas). De la Puerta del Sol al Palacio Real con guía local acreditado. 4,9/5 sobre 55 reseñas. Top rated.
 slugs:
-  es: "walking-tour-habsburgos-grupo-reducido"
-  en: "madrid-habsburgs-small-group-walking-tour"
-
-duracion: "2 horas"
+  es: walking-tour-habsburgos-grupo-reducido
+  en: madrid-habsburgs-small-group-walking-tour
+duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 29.95
-moneda: "EUR"
-idiomas: ["es", "en", "fr"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/madrid-tour-a-pie-historico-en-grupo-reducido-t892275/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+- fr
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/madrid-tour-a-pie-historico-en-grupo-reducido-t892275/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Grupo limitado a 10 personas — formato pequeño con guía local acreditado"
-  - "Itinerario completo: Puerta del Sol, Plaza Mayor, Mercado de San Miguel, Plaza de la Villa, Almudena, Palacio Real"
-  - "Top rated en GetYourGuide: 4,9/5 con guía valorado 5/5"
-  - "Disponible en español, inglés y francés"
-  - "Accesible en silla de ruedas"
-
+- Grupo limitado a 10 personas — formato pequeño con guía local acreditado
+- 'Itinerario completo: Puerta del Sol, Plaza Mayor, Mercado de San Miguel, Plaza de la Villa, Almudena, Palacio Real'
+- 'Top rated en GetYourGuide: 4,9/5 con guía valorado 5/5'
+- Disponible en español, inglés y francés
+- Accesible en silla de ruedas
 incluye:
-  - "Visita guiada a pie en grupo reducido (máx. 10 personas)"
-  - "Guía acreditado"
-
+- Visita guiada a pie en grupo reducido (máx. 10 personas)
+- Guía acreditado
 noIncluye:
-  - "Entradas a monumentos o museos"
-  - "Comida y bebida"
-  - "Recogida en hotel"
-  - "Propinas"
-
+- Entradas a monumentos o museos
+- Comida y bebida
+- Recogida en hotel
+- Propinas
 puntoEncuentro:
-  texto: "Estatua de la Mariblanca en la Puerta del Sol. El guía es reconocible por una bolsa distintiva y acreditación visible."
-  descripcionGuia: "La Mariblanca está en el lado norte de la Puerta del Sol, cerca de la fuente. Metro Sol (líneas 1, 2, 3) abre directamente a la plaza. Llega 10 minutos antes para identificar al guía — ten en cuenta que en Sol siempre hay aglomeración. El tour termina en el Palacio Real (no vuelve a Sol), así que organiza tu siguiente plan desde esa zona."
+  texto: Estatua de la Mariblanca en la Puerta del Sol. El guía es reconocible por una bolsa distintiva y acreditación visible.
+  descripcionGuia: La Mariblanca está en el lado norte de la Puerta del Sol, cerca de la fuente. Metro Sol (líneas 1, 2, 3) abre directamente a la plaza. Llega 10 minutos antes para identificar al guía — ten en cuenta que en Sol siempre hay aglomeración. El tour termina en el Palacio Real (no vuelve a Sol), así que organiza tu siguiente plan desde esa zona.
   latitud: 40.4169
   longitud: -3.7046
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo (2 horas de caminata por adoquines)"
-    - "Agua (no incluida)"
-    - "Protección solar en verano (gran parte del recorrido es al sol)"
-    - "Ropa de abrigo en invierno"
+  - Calzado cómodo (2 horas de caminata por adoquines)
+  - Agua (no incluida)
+  - Protección solar en verano (gran parte del recorrido es al sol)
+  - Ropa de abrigo en invierno
   noAptoPara:
-    - "Mascotas (salvo perros de asistencia)"
+  - Mascotas (salvo perros de asistencia)
   aTenerEnCuenta:
-    - "El operador es Descubre Tours, freelance local"
-    - "El guía Osmel aparece mencionado por nombre en múltiples reseñas (positivas)"
-    - "No se entra a los monumentos — es tour exterior con explicación arquitectónica e histórica"
-    - "Termina en el Palacio Real (no vuelve a Sol)"
-    - "Hay opción puntual al atardecer con vista panorámica desde un mirador"
-    - "Pocas reseñas (55) pero todas excelentes — producto menos validado en volumen pero con rating excepcional"
-
-accesibilidad: "Accesible en silla de ruedas según el operador. El recorrido es por el casco histórico — calles peatonales en su mayoría, con algún tramo de adoquín que puede ser incómodo en silla manual."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después»."
-
+  - El operador es Descubre Tours, freelance local
+  - El guía Osmel aparece mencionado por nombre en múltiples reseñas (positivas)
+  - No se entra a los monumentos — es tour exterior con explicación arquitectónica e histórica
+  - Termina en el Palacio Real (no vuelve a Sol)
+  - Hay opción puntual al atardecer con vista panorámica desde un mirador
+  - Pocas reseñas (55) pero todas excelentes — producto menos validado en volumen pero con rating excepcional
+accesibilidad: Accesible en silla de ruedas según el operador. El recorrido es por el casco histórico — calles peatonales en su mayoría, con algún tramo de adoquín que puede ser incómodo en silla manual.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después».
 preguntasFrecuentes:
-  - pregunta: "¿Qué se ve exactamente en el tour?"
-    respuesta: "El itinerario completo: salida en la Mariblanca de Puerta del Sol, paso por Plaza Mayor con el Sobrino de Botín (el restaurante más antiguo del mundo según el Guinness), Mercado de San Miguel (parada para fotos), Plaza de la Villa (antiguo ayuntamiento), Catedral de la Almudena y final en el Palacio Real. El guía explica arquitectura, historia y vida cotidiana en cada parada — no se entra a los monumentos."
-  - pregunta: "¿En qué idiomas se ofrece?"
-    respuesta: "Español, inglés y francés. Selecciona el idioma al reservar. Las reseñas en francés son especialmente positivas — el operador parece tener tirón en el mercado francófono."
-  - pregunta: "¿Es realmente grupo reducido?"
-    respuesta: "Sí, máximo 10 participantes. Es uno de los principales factores diferenciadores frente a free tours que suelen llenar 25-30 personas. Las reseñas mencionan repetidamente el ritmo personalizado y la atención individual del guía Osmel."
-  - pregunta: "¿Necesito entradas a algún monumento?"
-    respuesta: "No para este tour. Es una visita exterior: el guía explica desde fuera el Palacio Real, la Almudena y los edificios históricos de Plaza Mayor. Si quieres entrar al Palacio Real o a la Catedral, contrata aparte la entrada correspondiente — recuerda que el tour termina en el palacio, así que es natural encadenar con una visita guiada interior."
-  - pregunta: "¿Por qué tan pocas reseñas?"
-    respuesta: "Es un producto relativamente nuevo o de operador pequeño (Descubre Tours, freelance local). 55 reseñas es volumen bajo comparado con tours masivos de cientos, pero el rating es excepcional (4,9/5 con la nota del guía en 5/5 perfecto). Es producto menos validado por volumen pero con calidad media muy alta. Si quieres más volumen, hay tours del casco histórico con miles de reseñas — eso sí, en grupos mayores."
-
+- pregunta: ¿Qué se ve exactamente en el tour?
+  respuesta: 'El itinerario completo: salida en la Mariblanca de Puerta del Sol, paso por Plaza Mayor con el Sobrino de Botín (el restaurante más antiguo del mundo según el Guinness), Mercado de San Miguel (parada para fotos), Plaza de la Villa (antiguo ayuntamiento), Catedral de la Almudena y final en el Palacio Real. El guía explica arquitectura, historia y vida cotidiana en cada parada — no se entra a los monumentos.'
+- pregunta: ¿En qué idiomas se ofrece?
+  respuesta: Español, inglés y francés. Selecciona el idioma al reservar. Las reseñas en francés son especialmente positivas — el operador parece tener tirón en el mercado francófono.
+- pregunta: ¿Es realmente grupo reducido?
+  respuesta: Sí, máximo 10 participantes. Es uno de los principales factores diferenciadores frente a free tours que suelen llenar 25-30 personas. Las reseñas mencionan repetidamente el ritmo personalizado y la atención individual del guía Osmel.
+- pregunta: ¿Necesito entradas a algún monumento?
+  respuesta: 'No para este tour. Es una visita exterior: el guía explica desde fuera el Palacio Real, la Almudena y los edificios históricos de Plaza Mayor. Si quieres entrar al Palacio Real o a la Catedral, contrata aparte la entrada correspondiente — recuerda que el tour termina en el palacio, así que es natural encadenar con una visita guiada interior.'
+- pregunta: ¿Por qué tan pocas reseñas?
+  respuesta: Es un producto relativamente nuevo o de operador pequeño (Descubre Tours, freelance local). 55 reseñas es volumen bajo comparado con tours masivos de cientos, pero el rating es excepcional (4,9/5 con la nota del guía en 5/5 perfecto). Es producto menos validado por volumen pero con calidad media muy alta. Si quieres más volumen, hay tours del casco histórico con miles de reseñas — eso sí, en grupos mayores.
 variantes: []
+opinionEditorial: 'Es la versión «grupo reducido» del clásico walking tour por el Madrid de los Austrias: máximo 10 personas (frente a los 25-30 habituales de free tours), 2 horas, ruta canónica desde la Mariblanca de Puerta del Sol hasta el Palacio Real. Rating excepcional: 4,9/5 con la nota del guía en 5/5 perfecto. Volumen modesto (55 reseñas) — producto menos validado en cantidad pero con calidad media muy alta. Aparece el nombre del guía Osmel en múltiples reseñas como factor diferencial.
 
-opinionEditorial: |
-  Es la versión «grupo reducido» del clásico walking tour por el Madrid de los Austrias: máximo 10 personas (frente a los 25-30 habituales de free tours), 2 horas, ruta canónica desde la Mariblanca de Puerta del Sol hasta el Palacio Real. Rating excepcional: 4,9/5 con la nota del guía en 5/5 perfecto. Volumen modesto (55 reseñas) — producto menos validado en cantidad pero con calidad media muy alta. Aparece el nombre del guía Osmel en múltiples reseñas como factor diferencial.
 
   Detalles a saber. No incluye entradas a monumentos — es tour exterior con explicación arquitectónica e histórica. Si quieres entrar al Palacio Real o a la Almudena, hay que contratar aparte (el tour termina justo en la puerta del palacio, así que es natural encadenar). Mira el clima antes de reservar: 2 horas a pie con gran parte del recorrido al sol — en agosto, complicado entre las 12 y las 18.
 
+
   Para quién: viajeros que prefieren grupo pequeño con atención individualizada por encima de free tours masivos; francófonos (el tour en francés está especialmente bien valorado); viajeros con movilidad reducida (el operador marca accesibilidad). Y como primera actividad del viaje a Madrid — varias reseñas francesas insisten en que «merece la pena hacerlo el primer día para organizar mejor el resto del viaje». Para quién NO: quien busque el volumen y la validación masiva de un tour con miles de reseñas (aquí son 55), y quien quiera entrar a los monumentos en la misma actividad.
 
+  '
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: visitasGuiadas
-keywords: ["madrid austrias tour", "walking tour madrid grupo reducido", "tour centro madrid pequeño grupo", "habsburgos madrid guia local", "free tour madrid grupo pequeno"]
-
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-imagenAlt: "Plaza Mayor de Madrid con la estatua ecuestre de Felipe III"
-
+categoria: toursCiudad
+keywords:
+- madrid austrias tour
+- walking tour madrid grupo reducido
+- tour centro madrid pequeño grupo
+- habsburgos madrid guia local
+- free tour madrid grupo pequeno
+imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+imagenAlt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
 galeria:
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
-    alt: "Estatua del Oso y el Madroño en la Puerta del Sol, punto de salida del tour"
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp"
-    alt: "Fuente y estatua de Carlos III en la Puerta del Sol"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-    alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
-  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
-    alt: "Mercado de San Miguel, con su estructura de hierro y cristal"
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Plaza de la Villa, corazón del Madrid de los Austrias"
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
-    alt: "Plaza de la Villa iluminada de noche"
-  - src: "/images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp"
-    alt: "Catedral de la Almudena junto al Palacio Real"
-  - src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero.webp"
-    alt: "Bóveda decorada de la Catedral de la Almudena"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
-    alt: "Plaza de Oriente con la estatua de Felipe IV y el Palacio Real al fondo"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero.webp"
-    alt: "Palacio Real de Madrid, final del recorrido"
-
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
+  alt: Estatua del Oso y el Madroño en la Puerta del Sol, punto de salida del tour
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp
+  alt: Fuente y estatua de Carlos III en la Puerta del Sol
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp
+  alt: Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor
+- src: /images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp
+  alt: Mercado de San Miguel, con su estructura de hierro y cristal
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
+  alt: Plaza de la Villa, corazón del Madrid de los Austrias
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
+  alt: Plaza de la Villa iluminada de noche
+- src: /images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp
+  alt: Catedral de la Almudena junto al Palacio Real
+- src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero.webp
+  alt: Bóveda decorada de la Catedral de la Almudena
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: Plaza de Oriente con la estatua de Felipe IV y el Palacio Real al fondo
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero.webp
+  alt: Palacio Real de Madrid, final del recorrido
 ratingProveedor: 4.9
 numeroOpiniones: 55
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 ---
 
 ## Qué vas a ver

@@ -68,7 +68,7 @@ guiasRelacionadas:
 - what-to-see-in-mallorca
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: parques
 keywords:
 - palma aquarium tickets
 - palma aquarium with kids
@@ -79,23 +79,23 @@ imagen: /images/actividades/mallorca/palma-aquarium/palma-aquarium-tiburon.webp
 imagenAlt: Shark swimming over the bottom of a tank at Palma Aquarium
 galeria:
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-jungla.webp
-  alt: "Waterfall in the tropical jungle at Palma Aquarium"
+  alt: Waterfall in the tropical jungle at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-pez-mariposa.webp
-  alt: "Butterflyfish in a Palma Aquarium tank"
+  alt: Butterflyfish in a Palma Aquarium tank
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-pez-caja.webp
-  alt: "Yellow spotted boxfish at Palma Aquarium"
+  alt: Yellow spotted boxfish at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-pez-picasso.webp
-  alt: "Picasso triggerfish by a coral at Palma Aquarium"
+  alt: Picasso triggerfish by a coral at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-tibur-n-puntas-negras-jpg-01.webp
-  alt: "Blacktip shark at Palma Aquarium"
+  alt: Blacktip shark at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-pez-mariposa-jpg-03.webp
-  alt: "Butterflyfish at Palma Aquarium"
+  alt: Butterflyfish at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-pez-fugu-jpg-04.webp
-  alt: "Pufferfish at Palma Aquarium"
+  alt: Pufferfish at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-la-jungla-jpg-05.webp
-  alt: "The Jungle at Palma Aquarium"
+  alt: The Jungle at Palma Aquarium
 - src: /images/actividades/mallorca/palma-aquarium/palma-aquarium-wikimedia-palma-aquarium-pez-picasso-jpg-06.webp
-  alt: "Picasso triggerfish at Palma Aquarium"
+  alt: Picasso triggerfish at Palma Aquarium
 ratingProveedor: 4.5
 numeroOpiniones: 3744
 publicada: true

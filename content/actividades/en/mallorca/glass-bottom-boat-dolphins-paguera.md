@@ -70,7 +70,7 @@ guiasRelacionadas:
 - best-coves-mallorca
 atraccionesRelacionadas:
 - calas-playas
-categoria: excursionesDia
+categoria: agua
 keywords:
 - glass bottom boat mallorca
 - dolphin watching mallorca

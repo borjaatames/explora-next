@@ -71,8 +71,10 @@ opinionEditorial: 'Sevilla es llana y tiene buenos carriles bici, así que en do
 
   El precio es por grupo, desde 240 € para 1 o 2 personas, así que en pareja sale a 120 € cada uno, bastante más que un tour en bici compartido. Con 4 personas compensa más. Ojo con la altura mínima de 1,50 m si vas con niños.'
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour en bici sevilla privado
 - e-bike sevilla tour
@@ -106,6 +108,8 @@ galeria:
   alt: Viajeros en un banco de azulejos de la Plaza de España
 bokunProductId: 896365
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

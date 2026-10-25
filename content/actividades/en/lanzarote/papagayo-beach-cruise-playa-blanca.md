@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Playa Blanca: Papagayo mini-cruise with a swim stop'
 slug: papagayo-beach-cruise-playa-blanca
 ciudad: lanzarote
-descripcion: 'A Líneas Romero catamaran from Playa Blanca to Papagayo bay, with an hour at anchor to swim or snorkel with gear included. Between 1.5 and 3 hours. Rated 4.7/5 from more than 400 reviews.'
+descripcion: A Líneas Romero catamaran from Playa Blanca to Papagayo bay, with an hour at anchor to swim or snorkel with gear included. Between 1.5 and 3 hours. Rated 4.7/5 from more than 400 reviews.
 slugs:
   es: minicrucero-papagayo-playa-blanca
   en: papagayo-beach-cruise-playa-blanca
@@ -33,8 +33,8 @@ noIncluye:
 - Landing on the beach
 - Coach transfer
 puntoEncuentro:
-  texto: 'Playa Blanca, in southern Lanzarote. The exact point depends on the option you choose.'
-  descripcionGuia: 'When booking, the option shows the departure and return point. With the early departure you get some free time at Marina Rubicón before boarding.'
+  texto: Playa Blanca, in southern Lanzarote. The exact point depends on the option you choose.
+  descripcionGuia: When booking, the option shows the departure and return point. With the early departure you get some free time at Marina Rubicón before boarding.
   latitud: 28.8606
   longitud: -13.8286
   zoom: 14
@@ -61,17 +61,17 @@ accesibilidad: Not suitable for wheelchair users.
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Do you land on Papagayo beach?
-  respuesta: 'No. The catamaran anchors in the bay and swimming or snorkelling is from the boat, for about an hour.'
+  respuesta: No. The catamaran anchors in the bay and swimming or snorkelling is from the boat, for about an hour.
 - pregunta: Is food or drink included?
-  respuesta: 'No. Beer, sangria, water, soft drinks and snacks can be bought on board.'
+  respuesta: No. Beer, sangria, water, soft drinks and snacks can be bought on board.
 - pregunta: Is there hotel pickup?
-  respuesta: 'No. You leave from Playa Blanca; the exact point depends on the option you book.'
+  respuesta: No. You leave from Playa Blanca; the exact point depends on the option you book.
 - pregunta: How long does it last?
-  respuesta: 'Between an hour and a half and three hours depending on the option. The early departure includes free time at Marina Rubicón before sailing.'
+  respuesta: Between an hour and a half and three hours depending on the option. The early departure includes free time at Marina Rubicón before sailing.
 opinionEditorial: 'It''s the simplest and cheapest way to see the Papagayo coves from the sea, with no dirt track or walking, and its score is very high (4.7). It''s a short outing: you don''t go ashore and drinks are extra. If you''re staying in Playa Blanca, it makes a neat half day; if you''re based in the north, the drive eats up much of the plan.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - papagayo boat trip
 - playa blanca catamaran
@@ -81,16 +81,16 @@ keywords:
 imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: A catamaran anchored in a Papagayo cove
 galeria:
-- src: "/images/actividades/lanzarote/zonas/papagayo-banistas.webp"
-  alt: "Swimmers in a Papagayo cove"
-- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
-  alt: "Lanzarote's south coast by the Papagayo beaches"
-- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
-  alt: "Boats moored at Marina Rubicón, Playa Blanca"
-- src: "/images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp"
-  alt: "Sailing boats at Marina Rubicón with the volcanoes behind"
-- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
-  alt: "A Papagayo cove with turquoise water and volcanic rocks"
+- src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
+  alt: Swimmers in a Papagayo cove
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: Lanzarote's south coast by the Papagayo beaches
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: Boats moored at Marina Rubicón, Playa Blanca
+- src: /images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp
+  alt: Sailing boats at Marina Rubicón with the volcanoes behind
+- src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
+  alt: A Papagayo cove with turquoise water and volcanic rocks
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

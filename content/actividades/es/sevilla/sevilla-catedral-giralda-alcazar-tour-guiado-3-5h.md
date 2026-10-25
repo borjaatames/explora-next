@@ -119,6 +119,7 @@ opinionEditorial: 'La **alternativa relajada y profunda al top vendido t800561**
   '
 atraccionesRelacionadas:
 - real-alcazar
+- catedral-giralda
 categoria: visitasGuiadas
 keywords:
 - sevilla tour 3 5 horas

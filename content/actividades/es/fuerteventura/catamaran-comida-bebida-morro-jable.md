@@ -71,7 +71,7 @@ opinionEditorial: 'Es la opción completa del sur: cuatro horas con comida, bebi
 guiasRelacionadas:
 - que-ver-en-fuerteventura
 - cofete-villa-winter-como-llegar
-categoria: excursionesDia
+categoria: agua
 keywords:
 - catamaran fuerteventura
 - catamaran morro jable

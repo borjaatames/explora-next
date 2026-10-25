@@ -65,10 +65,8 @@ atracciones:
     imagenAlt: "The Drago Milenario dragon tree in Icod de los Vinos"
 chipsFiltros:
   - { label: "Teide", tag: "teide" }
-  - { label: "At sea", tag: "mar" }
-  - { label: "Theme parks", tag: "parques" }
-  - { label: "Masca and Los Gigantes", tag: "masca" }
-  - { label: "Anaga", tag: "anaga" }
+  - { label: "Masca & Los Gigantes", tag: "masca-gigantes" }
+  - { label: "Siam Park & Loro Parque", tag: "siam-loro" }
 ---
 
 Tenerife is the largest and most populated of the Canary Islands, with about **950,000 inhabitants**, and home to the archipelago's joint capital, **Santa Cruz de Tenerife**. Everything revolves around **Teide** (3,715 m), Spain's highest peak, which dominates **Teide National Park**, a World Heritage Site.

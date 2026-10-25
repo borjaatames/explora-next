@@ -67,7 +67,7 @@ opinionEditorial: 'Seeing Seville from its rooftops at sunset changes how you se
   For two it''s pricey, €192 each, because it''s private. With four it drops to about €92 per person. For a small group after a different kind of evening it''s worth it; if you just want the views, a Las Setas ticket on your own is far cheaper.'
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - seville rooftops sunset
 - seville rooftop tour
@@ -93,6 +93,7 @@ galeria:
   alt: Traveller on a rooftop with the Giralda behind
 bokunProductId: 933452
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

@@ -101,6 +101,7 @@ galeria:
   alt: Grupo de viajeros en Montserrat
 bokunProductId: 983290
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

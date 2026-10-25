@@ -72,12 +72,12 @@ keywords:
 imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-cuevas-nerja-interior-01-hero.webp
 imagenAlt: Interior de la Cueva de Nerja con sus formaciones
 galeria:
-- src: "/images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp"
-  alt: "Estalactitas iluminadas en una sala de la Cueva de Nerja"
-- src: "/images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp"
-  alt: "Detalle de formaciones de estalactitas en la Cueva de Nerja"
-- src: "/images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp"
-  alt: "Playa costera de Nerja"
+- src: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
+  alt: Estalactitas iluminadas en una sala de la Cueva de Nerja
+- src: /images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp
+  alt: Detalle de formaciones de estalactitas en la Cueva de Nerja
+- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp
+  alt: Playa costera de Nerja
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
   alt: Estalactitas en la Sala del Cataclismo
 - src: /images/actividades/malaga/frigiliana/frigiliana-panoramica.webp
@@ -85,10 +85,11 @@ galeria:
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
   alt: Balcón de Europa, en Nerja
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
-  alt: "Calles blancas del pueblo de Frigiliana"
+  alt: Calles blancas del pueblo de Frigiliana
 ratingProveedor: 4.6
 numeroOpiniones: 2107
 atraccionesRelacionadas:
+- nerja-frigiliana
 - excursiones
 publicada: true
 destacada: false

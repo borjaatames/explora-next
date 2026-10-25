@@ -66,8 +66,9 @@ opinionEditorial: 'Si ya estás en Ronda o llegas por tu cuenta, dos horas con u
 
   El precio por grupo, 200 € para 1 o 2 personas y 260 € para 4, sale razonable para familias. Si vienes desde Málaga sin coche, te compensa más la excursión privada completa, que incluye el transporte.'
 atraccionesRelacionadas:
+- ronda
 - excursiones
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado ronda
 - guia privado ronda
@@ -98,6 +99,8 @@ galeria:
   alt: Pareja en un mirador sobre la serranía
 bokunProductId: 848245
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

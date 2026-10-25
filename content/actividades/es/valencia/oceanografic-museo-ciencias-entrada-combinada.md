@@ -66,7 +66,7 @@ opinionEditorial: Por poco más que la entrada del Oceanogràfic añades el Muse
 guiasRelacionadas:
 - ciudad-artes-ciencias-como-visitar
 - valencia-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - entrada combinada oceanografic museo ciencias
 - ciudad de las artes y las ciencias entradas
@@ -101,6 +101,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 2797
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
 publicada: true
 destacada: false

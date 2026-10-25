@@ -66,7 +66,7 @@ opinionEditorial: 'Córdoba queda a unas dos horas y media de Granada y es una e
   El precio es por grupo: 800 € para 1 o 2 personas y 1.040 € para cuatro. Para una pareja es caro frente al tren o un tour en grupo; para familias de 4, el coche privado y el guía propio lo justifican.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba desde granada
 - excursion cordoba desde granada
@@ -93,6 +93,8 @@ galeria:
   alt: Viajeras en un patio cordobés lleno de macetas
 bokunProductId: 1269261
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

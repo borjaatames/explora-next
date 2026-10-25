@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Fuerteventura: Oasis Wildlife ticket'
 slug: oasis-wildlife-fuerteventura-ticket
 ciudad: fuerteventura
@@ -6,7 +6,7 @@ descripcion: 'Entry to Oasis Wildlife Fuerteventura (formerly Oasis Park) in La 
 slugs:
   es: oasis-wildlife-fuerteventura-entrada
   en: oasis-wildlife-fuerteventura-ticket
-duracion: 'Ticket valid for 1 day'
+duracion: Ticket valid for 1 day
 duracionMinutos: 300
 precioDesde: 42
 moneda: EUR
@@ -62,30 +62,30 @@ preguntasFrecuentes:
   respuesta: You can add a transfer as an option when booking. Without it, drive along the FV-2 to La Lajita.
 - pregunta: Can I eat inside?
   respuesta: Yes, the park has two restaurants.
-opinionEditorial: "It's Fuerteventura's big family day out, with consistently good ratings across thousands of reviews. It works best if you're staying in Costa Calma or Jandía, close by; from Corralejo it's more than an hour's drive. If your children are older and want the sea, a dolphin boat may be a better use of the day."
+opinionEditorial: It's Fuerteventura's big family day out, with consistently good ratings across thousands of reviews. It works best if you're staying in Costa Calma or Jandía, close by; from Corralejo it's more than an hour's drive. If your children are older and want the sea, a dolphin boat may be a better use of the day.
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
-categoria: entradas
+categoria: parques
 keywords:
 - oasis park fuerteventura
 - oasis wildlife fuerteventura tickets
 - fuerteventura zoo
 - la lajita fuerteventura
 imagen: /images/actividades/fuerteventura/oasis-park.webp
-imagenAlt: "Animal enclosure at Oasis Wildlife Fuerteventura"
+imagenAlt: Animal enclosure at Oasis Wildlife Fuerteventura
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/oasis-park-camellos.webp"
-  alt: "Camels at Oasis Park, La Lajita"
-- src: "/images/actividades/fuerteventura/zonas/oasis-park-cactus.webp"
-  alt: "The cactus garden at Oasis Park"
-- src: "/images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp"
-  alt: "A flamingo at Oasis Park"
-- src: "/images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp"
-  alt: "Meerkats at Oasis Park"
-- src: "/images/actividades/fuerteventura/zonas/oasis-park-entrada.webp"
-  alt: "Visitors in the Oasis Park gardens"
-- src: "/images/actividades/fuerteventura/zonas/sotavento-aerea.webp"
-  alt: "Aerial view of Sotavento beach and lagoon"
+- src: /images/actividades/fuerteventura/zonas/oasis-park-camellos.webp
+  alt: Camels at Oasis Park, La Lajita
+- src: /images/actividades/fuerteventura/zonas/oasis-park-cactus.webp
+  alt: The cactus garden at Oasis Park
+- src: /images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp
+  alt: A flamingo at Oasis Park
+- src: /images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp
+  alt: Meerkats at Oasis Park
+- src: /images/actividades/fuerteventura/zonas/oasis-park-entrada.webp
+  alt: Visitors in the Oasis Park gardens
+- src: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
+  alt: Aerial view of Sotavento beach and lagoon
 ratingProveedor: 4.6
 numeroOpiniones: 3857
 atraccionesRelacionadas:

@@ -85,7 +85,7 @@ opinionEditorial: 'La opción más accesible del catálogo de hammams: 45 € po
   '
 atraccionesRelacionadas:
 - hammam
-categoria: serviciosAdicionales
+categoria: talleres
 keywords:
 - hammam granada
 - baños arabes granada

@@ -2,11 +2,11 @@
 titulo: 'Benidorm: Mundomar marine park ticket'
 slug: mundomar-benidorm-ticket
 ciudad: alicante
-descripcion: "Entry to Mundomar, Benidorm's marine and bird park with dolphins, sea lions, parrots, flamingos, and lemurs. Family-friendly and adjacent to Terra Mítica. 4.7/5 with 1,582 reviews."
+descripcion: Entry to Mundomar, Benidorm's marine and bird park with dolphins, sea lions, parrots, flamingos, and lemurs. Family-friendly and adjacent to Terra Mítica. 4.7/5 with 1,582 reviews.
 slugs:
   es: mundomar-benidorm-entrada
   en: mundomar-benidorm-ticket
-duracion: 'Full day'
+duracion: Full day
 duracionMinutos: 360
 precioDesde: 21
 moneda: EUR
@@ -33,9 +33,9 @@ noIncluye:
 - Food and drink
 - Swim-with-dolphins experience (bookable separately)
 puntoEncuentro:
-  texto: "Mundomar, Partida de les Fonts, s/n, Benidorm, Alicante"
+  texto: Mundomar, Partida de les Fonts, s/n, Benidorm, Alicante
   descripcionGuia: Mundomar shares an access road with Terra Mítica, 5 km from Benidorm centre. The same buses from Benidorm that serve Terra Mítica stop here. By car, take the N-332 towards Finestrat. Parking is shared with Terra Mítica.
-  latitud: 38.5520
+  latitud: 38.552
   longitud: -0.0978
   zoom: 13
 detallesPracticos:
@@ -60,33 +60,33 @@ preguntasFrecuentes:
   respuesta: No. The dolphin show is included, but the interactive "swim with dolphins" experience is a separate paid add-on bookable at the park. Prices vary; confirm at the ticket office on arrival.
 - pregunta: What age is Mundomar best for?
   respuesta: Excellent for children aged 3–12 and families with young children. The dolphin and sea lion shows appeal to all ages. The animal enclosures and bird garden are popular with adults too.
-opinionEditorial: "Mundomar is underrated. The dolphin show is genuinely excellent, the variety of animals is wider than you'd expect, and it's far less crowded than a large theme park. The 4.7 rating with 1,582 reviews says it all."
+opinionEditorial: Mundomar is underrated. The dolphin show is genuinely excellent, the variety of animals is wider than you'd expect, and it's far less crowded than a large theme park. The 4.7 rating with 1,582 reviews says it all.
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante
 - what-to-see-in-alicante
-categoria: entradas
+categoria: parques
 keywords:
 - mundomar benidorm ticket
 - benidorm marine park
 - mundomar dolphin show
 - benidorm family park
 imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
-imagenAlt: "Dolphins leaping during the show at Mundomar, Benidorm"
+imagenAlt: Dolphins leaping during the show at Mundomar, Benidorm
 galeria:
-  - src: "/images/actividades/alicante/mundomar/delfin-entrenador.webp"
-    alt: "A dolphin jumping next to its trainer at Mundomar"
-  - src: "/images/actividades/alicante/mundomar/delfines-piscina.webp"
-    alt: "Bottlenose dolphins in the Mundomar pool"
-  - src: "/images/actividades/alicante/mundomar/escenario-pirata.webp"
-    alt: "The pirate-themed stage of Mundomar's dolphinarium"
-  - src: "/images/actividades/alicante/mundomar/delfin-salto-entrenador.webp"
-    alt: "A dolphin leaping during the Mundomar show"
-  - src: "/images/actividades/alicante/mundomar/delfines-nadando-superficie.webp"
-    alt: "Dolphins swimming at the surface of the pool"
-  - src: "/images/actividades/alicante/mundomar/delfin-salto-pirata.webp"
-    alt: "A dolphin jumping next to the pirate-ship stage"
-  - src: "/images/actividades/alicante/mundomar/entrenadora-piscina.webp"
-    alt: "A trainer greeting the audience after the show"
+- src: /images/actividades/alicante/mundomar/delfin-entrenador.webp
+  alt: A dolphin jumping next to its trainer at Mundomar
+- src: /images/actividades/alicante/mundomar/delfines-piscina.webp
+  alt: Bottlenose dolphins in the Mundomar pool
+- src: /images/actividades/alicante/mundomar/escenario-pirata.webp
+  alt: The pirate-themed stage of Mundomar's dolphinarium
+- src: /images/actividades/alicante/mundomar/delfin-salto-entrenador.webp
+  alt: A dolphin leaping during the Mundomar show
+- src: /images/actividades/alicante/mundomar/delfines-nadando-superficie.webp
+  alt: Dolphins swimming at the surface of the pool
+- src: /images/actividades/alicante/mundomar/delfin-salto-pirata.webp
+  alt: A dolphin jumping next to the pirate-ship stage
+- src: /images/actividades/alicante/mundomar/entrenadora-piscina.webp
+  alt: A trainer greeting the audience after the show
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:

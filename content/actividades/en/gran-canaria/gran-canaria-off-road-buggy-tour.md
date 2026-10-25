@@ -73,7 +73,7 @@ opinionEditorial: 'It''s Gran Canaria''s best-rated activity with thousands of r
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - roque-nublo-hike
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - gran canaria buggy
 - maspalomas buggy tour

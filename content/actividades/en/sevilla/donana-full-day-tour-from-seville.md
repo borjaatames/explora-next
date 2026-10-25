@@ -67,7 +67,7 @@ preguntasFrecuentes:
   respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - donana tour from seville
 - donana national park 4x4 tour

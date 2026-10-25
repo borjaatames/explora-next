@@ -82,7 +82,9 @@ opinionEditorial: 'This is Barcelona''s «all in one day»: you meet in the cent
   '
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: visitasGuiadas
+- park-guell
+- gotico
+categoria: toursCiudad
 keywords:
 - barcelona in one day
 - barcelona full day tour

@@ -75,19 +75,19 @@ guiasRelacionadas:
 - seville-with-kids
 atraccionesRelacionadas:
 - barco
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - kayak seville
 - guadalquivir kayak
 - seville canoe
 - things to do in seville with teenagers
-imagen: "/images/actividades/sevilla/kayak-guadalquivir/kayaks-guadalquivir-sevilla.webp"
-imagenAlt: "Kayaks on the Guadalquivir river in Seville"
+imagen: /images/actividades/sevilla/kayak-guadalquivir/kayaks-guadalquivir-sevilla.webp
+imagenAlt: Kayaks on the Guadalquivir river in Seville
 galeria:
-- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp"
-  alt: "Vista aérea del río Guadalquivir a su paso por Sevilla"
-- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp"
-  alt: "Torre Sevilla en la orilla del Guadalquivir, ruta de kayak"
+- src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp
+  alt: Vista aérea del río Guadalquivir a su paso por Sevilla
+- src: /images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp
+  alt: Torre Sevilla en la orilla del Guadalquivir, ruta de kayak
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
   alt: Torre del Oro by the Guadalquivir in Seville
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp

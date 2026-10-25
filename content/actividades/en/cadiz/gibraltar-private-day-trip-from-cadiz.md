@@ -72,7 +72,7 @@ opinionEditorial: 'Gibraltar from Cádiz without driving or queuing at the borde
   The price is per group: about €600 for two and about €800 for four. One detail to note: after your free time, getting back to the border is up to you. No published reviews yet.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - gibraltar from cadiz
 - gibraltar day trip from cadiz
@@ -101,6 +101,8 @@ galeria:
   alt: Travellers on a road on the Rock overlooking the bay
 bokunProductId: 972148
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

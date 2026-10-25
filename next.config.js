@@ -253,6 +253,22 @@ const nextConfig = {
       }
     }
 
+    // ── 1b. Octubre 2026: «experiencias privadas» pasa a ser un filtro y se
+    //    retiran «transporte» y «servicios adicionales». Sus landings van al
+    //    listado de actividades de la ciudad.
+    for (const viejo of ["experiencias-privadas", "transporte", "servicios-adicionales"]) {
+      redirects.push({
+        source: `/ciudades/:ciudad/actividades/c/${viejo}`,
+        destination: "/ciudades/:ciudad/actividades",
+        permanent: true,
+      });
+      redirects.push({
+        source: `/:lang/cities/:ciudad/activities/c/${viejo}`,
+        destination: "/:lang/cities/:ciudad/activities",
+        permanent: true,
+      });
+    }
+
     // ── 2. Retiramos las 6 landings SEM dedicadas (ES + EN) y dirigimos su
     //    tráfico a la página real de actividad o categoría (junio 2026).
     //    Las campañas de Ads pasan a apuntar directamente a estas mismas URLs.

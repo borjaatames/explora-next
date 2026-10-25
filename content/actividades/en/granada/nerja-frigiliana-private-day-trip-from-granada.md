@@ -66,7 +66,7 @@ opinionEditorial: 'It packs three of the Axarquía''s big draws into one day: th
   The price is per group (€700 for 1 or 2, €880 for four). For a couple it''s pricey; for families, it''s worth not having to drive the winding coast roads.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - nerja and frigiliana from granada
 - nerja day trip from granada
@@ -93,6 +93,8 @@ galeria:
   alt: Nerja's coastline with houses above the sea
 bokunProductId: 919053
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day goes

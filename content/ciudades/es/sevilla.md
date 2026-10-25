@@ -74,14 +74,11 @@ atracciones:
 chipsFiltros:
   - { label: "Real Alcázar", tag: "real-alcazar" }
   - { label: "Catedral y Giralda", tag: "catedral-giralda" }
-  - { label: "Flamenco", tag: "flamenco" }
-  - { label: "Tuk-tuk", tag: "tuk-tuk" }
-  - { label: "Tapas y vinos", tag: "tapas-sevilla" }
-  - { label: "Barco y kayak", tag: "barco" }
-  - { label: "Excursiones", tag: "excursiones" }
-  - { label: "Planes en familia", tag: "familia" }
-  - { label: "Otros monumentos", tag: "monumentos" }
-  - { label: "Tours a pie, en bici y bus", tag: "tours-a-pie" }
+  - { label: "Plaza de España", tag: "plaza-espana" }
+  - { label: "Barrio de Santa Cruz", tag: "santa-cruz" }
+  - { label: "Triana", tag: "triana" }
+  - { label: "Córdoba", tag: "cordoba" }
+  - { label: "Ronda y pueblos blancos", tag: "ronda-pueblos-blancos" }
 ---
 
 Sevilla es la **capital de Andalucía** y la cuarta ciudad más poblada de España: **684.000 habitantes** en el municipio y más de 1,5 millones en su área metropolitana. Es sede de la Junta de Andalucía y centro económico, cultural y religioso del sur peninsular.

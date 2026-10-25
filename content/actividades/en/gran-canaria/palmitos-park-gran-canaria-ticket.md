@@ -2,11 +2,11 @@
 titulo: 'Gran Canaria: Palmitos Park ticket'
 slug: palmitos-park-gran-canaria-ticket
 ciudad: gran-canaria
-descripcion: "Entry to Palmitos Park, Gran Canaria's best zoological and botanical park with dolphins, parrots, tropical birds, a butterfly house, and a cactus garden. 4.7/5 with 1,846 reviews."
+descripcion: Entry to Palmitos Park, Gran Canaria's best zoological and botanical park with dolphins, parrots, tropical birds, a butterfly house, and a cactus garden. 4.7/5 with 1,846 reviews.
 slugs:
   es: palmitos-park-gran-canaria-entrada
   en: palmitos-park-gran-canaria-ticket
-duracion: 'Full day'
+duracion: Full day
 duracionMinutos: 360
 precioDesde: 39
 moneda: EUR
@@ -33,9 +33,9 @@ noIncluye:
 - Food and drink
 - Swim-with-dolphins experience (bookable separately)
 puntoEncuentro:
-  texto: "Palmitos Park, GC-503, km 4.6, Maspalomas, Gran Canaria"
+  texto: Palmitos Park, GC-503, km 4.6, Maspalomas, Gran Canaria
   descripcionGuia: Palmitos Park is 15 km north of Maspalomas and Playa del Inglés, in the interior of Gran Canaria. By car, take the GC-1 to Maspalomas and then the GC-503 towards Palmitos. Regular buses run from the Maspalomas and Playa del Inglés resort area — check the timetable with the operator. The journey takes about 30 minutes from the south coast resorts.
-  latitud: 27.7790
+  latitud: 27.779
   longitud: -15.5862
   zoom: 13
 detallesPracticos:
@@ -62,33 +62,33 @@ preguntasFrecuentes:
   respuesta: The setting is unique — a natural barranco (ravine) with native Canarian vegetation surrounding the enclosures. This gives it a more naturalistic feel than most parks. The botanical gardens are also a highlight. The dolphin auditorium is the largest in the Canary Islands.
 - pregunta: Is the butterfly house worth the visit?
   respuesta: Yes — it is consistently one of the top-rated features of the park. The greenhouse contains hundreds of tropical butterflies from several continents, flying freely around you. Worth visiting in the morning when they are most active.
-opinionEditorial: "Palmitos Park is Gran Canaria's hidden gem — far less visited than the beach resorts, dramatically beautiful in its ravine setting, and with genuinely excellent animal care. The dolphin show and butterfly house are the highlights, but the whole park rewards a full day."
+opinionEditorial: Palmitos Park is Gran Canaria's hidden gem — far less visited than the beach resorts, dramatically beautiful in its ravine setting, and with genuinely excellent animal care. The dolphin show and butterfly house are the highlights, but the whole park rewards a full day.
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - maspalomas-dunes-guide
-categoria: entradas
+categoria: parques
 keywords:
 - palmitos park gran canaria
 - gran canaria zoo ticket
 - palmitos park maspalomas
 - dolphin show gran canaria
 imagen: /images/actividades/gran-canaria/palmitos-park/delfines.webp
-imagenAlt: "Dolphins at the Palmitos Park dolphinarium, Gran Canaria"
+imagenAlt: Dolphins at the Palmitos Park dolphinarium, Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
-  alt: "Bald eagle in the birds of prey show at Palmitos Park"
+  alt: Bald eagle in the birds of prey show at Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
-  alt: "Palmitos Park in its ravine in southern Gran Canaria"
+  alt: Palmitos Park in its ravine in southern Gran Canaria
 - src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
-  alt: "Palm grove and ravine slopes at Palmitos Park"
+  alt: Palm grove and ravine slopes at Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
-  alt: "Saddle-billed stork at Palmitos Park"
+  alt: Saddle-billed stork at Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
-  alt: "Amazon macaws perched on a branch at Palmitos Park"
+  alt: Amazon macaws perched on a branch at Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
-  alt: "Blue and yellow macaw at Palmitos Park"
+  alt: Blue and yellow macaw at Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
-  alt: "Grey parrot in the gardens of Palmitos Park"
+  alt: Grey parrot in the gardens of Palmitos Park
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

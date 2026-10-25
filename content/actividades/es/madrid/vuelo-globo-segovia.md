@@ -1,8 +1,8 @@
 ---
-titulo: 'Vuelo en globo sobre Segovia con desayuno y cava'
+titulo: Vuelo en globo sobre Segovia con desayuno y cava
 slug: vuelo-globo-segovia
 ciudad: madrid
-descripcion: 'Vuelo en globo de 1 hora sobre Segovia, con vistas al Acueducto, la Catedral y el Alcázar. Incluye desayuno con cava, certificado de vuelo y reportaje de fotos. Recogida opcional en Madrid.'
+descripcion: Vuelo en globo de 1 hora sobre Segovia, con vistas al Acueducto, la Catedral y el Alcázar. Incluye desayuno con cava, certificado de vuelo y reportaje de fotos. Recogida opcional en Madrid.
 slugs:
   es: vuelo-globo-segovia
   en: segovia-hot-air-balloon-ride
@@ -54,8 +54,9 @@ detallesPracticos:
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 opinionEditorial: 'Ver Segovia desde un globo es de esas experiencias que se recuerdan: el Acueducto, la Catedral y el Alcázar caben en una sola mirada. No es barato, pero incluye desayuno, fotos y certificado, y la empresa lleva años volando en la zona. Si no tienes coche, merece la pena añadir la recogida en Madrid.'
 atraccionesRelacionadas:
+- segovia
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - vuelo en globo segovia
 - globo segovia

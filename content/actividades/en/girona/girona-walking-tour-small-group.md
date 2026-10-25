@@ -67,8 +67,9 @@ guiasRelacionadas:
 - what-to-see-in-girona-in-one-day
 - girona-game-of-thrones
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - girona walking tour
 - girona guided tour
@@ -78,14 +79,14 @@ keywords:
 imagen: /images/actividades/girona/juego-de-tronos/casas-onyar.webp
 imagenAlt: Colourful houses above the Onyar river in Girona
 galeria:
-- src: "/images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp"
-  alt: "Escalinata de la Catedral de Girona llena de visitantes"
-- src: "/images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp"
-  alt: "Casas del Onyar con la catedral de Girona al fondo"
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp
+  alt: Escalinata de la Catedral de Girona llena de visitantes
+- src: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
+  alt: Casas del Onyar con la catedral de Girona al fondo
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
   alt: Bell towers of Girona's Barri Vell seen from the city walls
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
-  alt: "Baroque façade and grand staircase of Girona Cathedral"
+  alt: Baroque façade and grand staircase of Girona Cathedral
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Street in Girona's Jewish Call
 - src: /images/actividades/girona/call-jueu/call-jueu-01.webp
@@ -93,7 +94,7 @@ galeria:
 - src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
   alt: Sant Pere de Galligants monastery in Girona
 - src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: "Girona's Arab Baths"
+  alt: Girona's Arab Baths
 ratingProveedor: 4.8
 numeroOpiniones: 826
 publicada: true

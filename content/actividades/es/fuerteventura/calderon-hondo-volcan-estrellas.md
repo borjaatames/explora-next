@@ -73,7 +73,7 @@ opinionEditorial: 'Una de las actividades mejor valoradas del norte, y por buena
 guiasRelacionadas:
 - que-ver-en-fuerteventura
 - isla-de-lobos-como-ir
-categoria: visitasGuiadas
+categoria: aventura
 keywords:
 - calderon hondo
 - observacion de estrellas fuerteventura

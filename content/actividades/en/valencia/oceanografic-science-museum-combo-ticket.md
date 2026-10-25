@@ -66,7 +66,7 @@ opinionEditorial: For a little more than the Oceanogràfic ticket you add the Sc
 guiasRelacionadas:
 - city-of-arts-sciences-how-to-visit
 - valencia-with-kids
-categoria: entradas
+categoria: parques
 keywords:
 - oceanografic science museum combo ticket
 - city of arts and sciences tickets
@@ -101,6 +101,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 2797
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
 publicada: true
 destacada: false

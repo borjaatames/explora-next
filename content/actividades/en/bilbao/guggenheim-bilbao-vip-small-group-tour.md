@@ -83,22 +83,22 @@ keywords:
 imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
 imagenAlt: Guggenheim Museum Bilbao and the estuary
 galeria:
-- src: "/images/actividades/bilbao/ciudades/bilbao-hero.webp"
-  alt: "Aerial view of the Guggenheim Museum and La Salve bridge"
-- src: "/images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp"
-  alt: "Panorama of Bilbao and its estuary from Mount Artxanda"
-- src: "/images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp"
-  alt: "Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim"
-- src: "/images/actividades/bilbao/guggenheim/maman.webp"
-  alt: "Maman, Louise Bourgeois's giant spider"
-- src: "/images/actividades/bilbao/guggenheim/puppy-flores.webp"
-  alt: "Close-up of the flowers on Jeff Koons's Puppy"
-- src: "/images/actividades/bilbao/guggenheim/guggenheim-fachada.webp"
-  alt: "Titanium façade of the Guggenheim"
-- src: "/images/actividades/bilbao/guggenheim/maman-puente.webp"
-  alt: "The Guggenheim with the red arch of La Salve bridge"
-- src: "/images/actividades/bilbao/guggenheim/guggenheim-noche.webp"
-  alt: "The Guggenheim lit up at night"
+- src: /images/actividades/bilbao/ciudades/bilbao-hero.webp
+  alt: Aerial view of the Guggenheim Museum and La Salve bridge
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: Panorama of Bilbao and its estuary from Mount Artxanda
+- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
+  alt: Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: Maman, Louise Bourgeois's giant spider
+- src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
+  alt: Close-up of the flowers on Jeff Koons's Puppy
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: Titanium façade of the Guggenheim
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: The Guggenheim with the red arch of La Salve bridge
+- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
+  alt: The Guggenheim lit up at night
 ratingProveedor: 4.5
 numeroOpiniones: 763
 publicada: true

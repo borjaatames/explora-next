@@ -2,8 +2,7 @@
 titulo: Jerez privado, ciudad, gastronomía y flamenco
 slug: tour-privado-jerez-ciudad-gastronomia-flamenco
 ciudad: jerez-de-la-frontera
-descripcion: Tour privado por Jerez con guía local, casco histórico, ruta por tabancos
-  con cata y comida, y flamenco en su ambiente auténtico.
+descripcion: Tour privado por Jerez con guía local, casco histórico, ruta por tabancos con cata y comida, y flamenco en su ambiente auténtico.
 slugs:
   es: tour-privado-jerez-ciudad-gastronomia-flamenco
   en: jerez-private-city-gastronomy-flamenco-tour
@@ -16,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 971496
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: false
 highlights:
 - Tour privado solo para tu grupo, con guía local experto
@@ -32,7 +31,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Centro de Jerez de la Frontera (punto exacto confirmado al reservar)
-  latitud: 36.6850
+  latitud: 36.685
   longitud: -6.1261
   zoom: 15
 detallesPracticos:
@@ -42,44 +41,42 @@ detallesPracticos:
   edadMinima: 0
   mascotasPermitidas: false
 politicaCancelacion: Se cobra el 100% si se cancela con 1 día o menos de antelación.
-opinionEditorial: 'Jerez se disfruta mucho más con quien lo conoce de dentro, y este
-  privado lo borda: casco histórico por la mañana —Catedral, Alcázar, Plaza del Arenal—
-  y por la tarde una ruta por tabancos, las tabernas de toda la vida donde el vino
-  se servía a granel y el flamenco surge sin avisar. Cata, comida y flamenco privado
-  incluidos. Es premium y por grupo, pensado para vivir Jerez sin postales y a tu ritmo.'
-categoria: experienciasPrivadas
+opinionEditorial: 'Jerez se disfruta mucho más con quien lo conoce de dentro, y este privado lo borda: casco histórico por la mañana —Catedral, Alcázar, Plaza del Arenal— y por la tarde una ruta por tabancos, las tabernas de toda la vida donde el vino se servía a granel y el flamenco surge sin avisar. Cata, comida y flamenco privado incluidos. Es premium y por grupo, pensado para vivir Jerez sin postales y a tu ritmo.'
+categoria: toursCiudad
 keywords:
 - tour privado jerez gastronomia flamenco
 - visita privada jerez tabancos cata
 - jerez flamenco privado tour
-imagen: "/images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp"
+imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
 imagenAlt: Casco histórico de Jerez de la Frontera
 galeria:
-  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp"
-    alt: "Barricas de vino en una bodega de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp"
-    alt: "Cata de vinos de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/bodega-fachada-hero.webp"
-    alt: "Fachada de una bodega tradicional de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp"
-    alt: "Campanario de la Catedral de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp"
-    alt: "Cúpula de la Catedral de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
-    alt: "Baños árabes del Alcázar de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp"
-    alt: "Techo estrellado de los baños árabes del Alcázar"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
-    alt: "Entrada al Alcázar de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp"
-    alt: "Bailaora de flamenco en un tablao de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp"
-    alt: "Músicos en directo en un tablao flamenco de Jerez"
-  - src: "/images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp"
-    alt: "Público disfrutando de un espectáculo flamenco en Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
+  alt: Barricas de vino en una bodega de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
+  alt: Cata de vinos de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/bodega-fachada-hero.webp
+  alt: Fachada de una bodega tradicional de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
+  alt: Campanario de la Catedral de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
+  alt: Cúpula de la Catedral de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp
+  alt: Baños árabes del Alcázar de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp
+  alt: Techo estrellado de los baños árabes del Alcázar
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
+  alt: Entrada al Alcázar de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp
+  alt: Bailaora de flamenco en un tablao de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: Músicos en directo en un tablao flamenco de Jerez
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: Público disfrutando de un espectáculo flamenco en Jerez
 publicada: false
 destacada: false
 fecha: '2026-06-18'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

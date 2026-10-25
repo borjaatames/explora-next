@@ -2,9 +2,7 @@
 titulo: 'Barcelona: Tablao Flamenco Cordobés — Cena y Espectáculo en La Rambla (Top Awarded)'
 slug: tablao-flamenco-cordobes-cena-show-las-ramblas
 ciudad: barcelona
-descripcion: 'Espectáculo de flamenco con opción de cena en el Tablao Cordobés de Barcelona, tablao histórico en La Rambla
-  fundado en 1970. 4.617 reseñas con 4,6/5. «Top Awarded» y «Certified by GetYourGuide». Show de 1h 20min sin micrófonos.
-  Idiomas: español e inglés. Accesible en silla de ruedas.'
+descripcion: 'Espectáculo de flamenco con opción de cena en el Tablao Cordobés de Barcelona, tablao histórico en La Rambla fundado en 1970. 4.617 reseñas con 4,6/5. «Top Awarded» y «Certified by GetYourGuide». Show de 1h 20min sin micrófonos. Idiomas: español e inglés. Accesible en silla de ruedas.'
 slugs:
   es: tablao-flamenco-cordobes-cena-show-las-ramblas
   en: tablao-flamenco-cordobes-dinner-show-las-ramblas
@@ -39,13 +37,8 @@ noIncluye:
 - Recogida en hotel o transporte
 - DVD con artistas top (disponible para compra)
 puntoEncuentro:
-  texto: Inicia tu actividad en el Tablao Flamenco Cordobés, situado en La Rambla 33-35, entre las estaciones de metro Liceu
-    (L3) y Drassanes (L3). La entrada es por La Rambla — hay un atrio identificado con el logo del tablao.
-  descripcionGuia: 'Metro: Liceu (L3, 200 m) o Drassanes (L3, 250 m). Cercanías: estación Catalunya (8-10 min andando por
-    La Rambla). Bus: V13 (parada La Rambla - Plaça del Teatre) o 59 (misma parada). Bicing: estación 55 (La Rambla 80). Desde
-    el aeropuerto: Aerobús termina en Plaça de Catalunya — desde ahí 10 min andando por La Rambla. Llega con 15 min de antelación;
-    el ticket es válido hasta 15 min después de la hora reservada (más tarde = no-show no reembolsable). Los asientos se asignan
-    en orden de reserva; las reservas con cena tienen asientos preferentes.'
+  texto: Inicia tu actividad en el Tablao Flamenco Cordobés, situado en La Rambla 33-35, entre las estaciones de metro Liceu (L3) y Drassanes (L3). La entrada es por La Rambla — hay un atrio identificado con el logo del tablao.
+  descripcionGuia: 'Metro: Liceu (L3, 200 m) o Drassanes (L3, 250 m). Cercanías: estación Catalunya (8-10 min andando por La Rambla). Bus: V13 (parada La Rambla - Plaça del Teatre) o 59 (misma parada). Bicing: estación 55 (La Rambla 80). Desde el aeropuerto: Aerobús termina en Plaça de Catalunya — desde ahí 10 min andando por La Rambla. Llega con 15 min de antelación; el ticket es válido hasta 15 min después de la hora reservada (más tarde = no-show no reembolsable). Los asientos se asignan en orden de reserva; las reservas con cena tienen asientos preferentes.'
   latitud: 41.3812
   longitud: 2.1736
   zoom: 17
@@ -71,41 +64,19 @@ informacionImportante:
   - Buffet Spanish Tasting (84 €) incluye 40+ tapas + bebidas ilimitadas (vino, cerveza, sangría, cava, refrescos, café)
   - Está prohibido fumar y entrar con mascotas
   - Múltiples pases diarios — habitualmente 16:30 (tapas), 18:00 (cena), 19:30 (cena), 21:00 (cena), 22:30 (drink)
-accesibilidad: Accesible en silla de ruedas (manual) — el tablao tiene acceso a nivel desde La Rambla y baño adaptado. Las
-  sillas eléctricas NO están permitidas. El show es SIN MICRÓFONOS, por lo que personas con discapacidad auditiva conviene
-  que reserven asientos cerca del escenario (las cenas tienen asignación preferente).
-politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos.
-  Llegadas tarde (más de 15 min después de la hora reservada): se consideran no-shows y NO son reembolsables. Cambios de fecha
-  sujetos a disponibilidad.'
+accesibilidad: Accesible en silla de ruedas (manual) — el tablao tiene acceso a nivel desde La Rambla y baño adaptado. Las sillas eléctricas NO están permitidas. El show es SIN MICRÓFONOS, por lo que personas con discapacidad auditiva conviene que reserven asientos cerca del escenario (las cenas tienen asignación preferente).
+politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Llegadas tarde (más de 15 min después de la hora reservada): se consideran no-shows y NO son reembolsables. Cambios de fecha sujetos a disponibilidad.'
 preguntasFrecuentes:
 - pregunta: ¿En qué idioma es el espectáculo?
-  respuesta: El flamenco es música y baile — la voz se canta SIEMPRE en castellano andaluz (es la lengua original del flamenco).
-    No hay narración guiada. El personal del tablao habla español e inglés para atenderte (recepción, asignación de mesa,
-    servicio durante la cena). El espectáculo en sí es comprensible para cualquier público sin necesidad de traducción — la
-    emoción, el zapateado y la guitarra son universales. La ficha está disponible en ES y EN porque el contenido editorial
-    varía según el idioma del visitante.
+  respuesta: El flamenco es música y baile — la voz se canta SIEMPRE en castellano andaluz (es la lengua original del flamenco). No hay narración guiada. El personal del tablao habla español e inglés para atenderte (recepción, asignación de mesa, servicio durante la cena). El espectáculo en sí es comprensible para cualquier público sin necesidad de traducción — la emoción, el zapateado y la guitarra son universales. La ficha está disponible en ES y EN porque el contenido editorial varía según el idioma del visitante.
 - pregunta: ¿Cuánto cuesta cada opción (solo show, tapas, cena)?
-  respuesta: 'Precios oficiales web Cordobés: SOLO SHOW + DRINK 48 € · TAPAS + SHOW 21 € + 48 € = 69 € · SPANISH TASTING BUFFET
-    (40+ tapas ilimitadas, vino/cerveza/sangría/cava ilimitados) + SHOW 36 € + 48 € = 84 € · MENÚ RESTAURANTE (tapas premium
-    servidas + postre + café + bebidas ilimitadas) + SHOW 41 € + 48 € = 89 €. La cena se sirve en un restaurante de estilo
-    Alhambra ANTES del show, lo que permite una experiencia inmersiva del flamenco sin distracciones del servicio.'
+  respuesta: 'Precios oficiales web Cordobés: SOLO SHOW + DRINK 48 € · TAPAS + SHOW 21 € + 48 € = 69 € · SPANISH TASTING BUFFET (40+ tapas ilimitadas, vino/cerveza/sangría/cava ilimitados) + SHOW 36 € + 48 € = 84 € · MENÚ RESTAURANTE (tapas premium servidas + postre + café + bebidas ilimitadas) + SHOW 41 € + 48 € = 89 €. La cena se sirve en un restaurante de estilo Alhambra ANTES del show, lo que permite una experiencia inmersiva del flamenco sin distracciones del servicio.'
 - pregunta: ¿Cuál es la diferencia con el Tablao de Carmen y Palau Dalmases?
-  respuesta: '**Cordobés (este):** Tablao histórico (1970), La Rambla, decoración nazarí, sin micrófonos, ambiente clásico
-    de tablao tradicional. 4,6/5 con 4.617 reseñas — el más establecido. **Tablao de Carmen:** Dentro del Poble Espanyol (Montjuïc),
-    única opción que sirve la cena DURANTE el show (como se hacía tradicionalmente), incluye acceso al Poble Espanyol. 4,8/5
-    con 2.125 reseñas — el más íntimo. **Palau Dalmases:** Palacio del s. XVII en el Born, formato corto (50 min), bebida
-    incluida en VIP y Zona A. 4,6/5 con 919 reseñas — el más arquitectónicamente espectacular. **Flamenco at the Theater:**
-    Teatro grande (City Hall Theatre), formato más teatral, mayor volumen (11.305 reseñas) pero menos íntimo. 4,5/5 — el más
-    asequible (desde 25 €).'
+  respuesta: '**Cordobés (este):** Tablao histórico (1970), La Rambla, decoración nazarí, sin micrófonos, ambiente clásico de tablao tradicional. 4,6/5 con 4.617 reseñas — el más establecido. **Tablao de Carmen:** Dentro del Poble Espanyol (Montjuïc), única opción que sirve la cena DURANTE el show (como se hacía tradicionalmente), incluye acceso al Poble Espanyol. 4,8/5 con 2.125 reseñas — el más íntimo. **Palau Dalmases:** Palacio del s. XVII en el Born, formato corto (50 min), bebida incluida en VIP y Zona A. 4,6/5 con 919 reseñas — el más arquitectónicamente espectacular. **Flamenco at the Theater:** Teatro grande (City Hall Theatre), formato más teatral, mayor volumen (11.305 reseñas) pero menos íntimo. 4,5/5 — el más asequible (desde 25 €).'
 - pregunta: ¿Se admiten niños?
-  respuesta: Niños desde 4 años (NO menores de 4). El show es apropiado para familias, pero ten en cuenta que la duración
-    total puede llegar a 2h 15min (con cena) y el ambiente es de respeto al artista — sin fotos durante el show. Los niños
-    deben permanecer sentados durante la actuación.
+  respuesta: Niños desde 4 años (NO menores de 4). El show es apropiado para familias, pero ten en cuenta que la duración total puede llegar a 2h 15min (con cena) y el ambiente es de respeto al artista — sin fotos durante el show. Los niños deben permanecer sentados durante la actuación.
 - pregunta: ¿El Duende y el Tablao Cordobés son lo mismo?
-  respuesta: NO. **El Duende by Tablao Cordobes** es un bar de flamenco más casual e informal abierto al lado del tablao principal
-    (La Rambla 33). El Tablao Cordobés es el tablao tradicional de 1970 con show sin micrófonos y opción de cena formal. El
-    Duende es un bar de cócteles con performances flamencas — ambiente nocturno más relajado. Si buscas la experiencia clásica
-    de tablao, reserva este producto. Si prefieres ambiente bar, considera buscar 'El Duende' aparte en GYG (es otro producto).
+  respuesta: NO. **El Duende by Tablao Cordobes** es un bar de flamenco más casual e informal abierto al lado del tablao principal (La Rambla 33). El Tablao Cordobés es el tablao tradicional de 1970 con show sin micrófonos y opción de cena formal. El Duende es un bar de cócteles con performances flamencas — ambiente nocturno más relajado. Si buscas la experiencia clásica de tablao, reserva este producto. Si prefieres ambiente bar, considera buscar 'El Duende' aparte en GYG (es otro producto).
 variantes:
 - nombre: Drink + Show
   descripcion: Una bebida durante el show de 1h 20min. Opción más económica.
@@ -114,40 +85,21 @@ variantes:
   descripcion: Tapas ligeras (ibéricos, quesos, especialidades españolas) + una bebida + show.
   precio: 69
 - nombre: Buffet Spanish Tasting + Show
-  descripcion: 40+ tapas tradicionales españolas y catalanas + bebidas ilimitadas (vino, cerveza, sangría, cava, refrescos,
-    café) + 2 tapas adicionales en mesa + show.
+  descripcion: 40+ tapas tradicionales españolas y catalanas + bebidas ilimitadas (vino, cerveza, sangría, cava, refrescos, café) + 2 tapas adicionales en mesa + show.
   precio: 84
 - nombre: Menú Restaurante + Show
-  descripcion: Selección premium de tapas españolas y catalanas servidas en mesa + postre + café + bebidas ilimitadas + show.
-    Ingredientes locales de alta calidad.
+  descripcion: Selección premium de tapas españolas y catalanas servidas en mesa + postre + café + bebidas ilimitadas + show. Ingredientes locales de alta calidad.
   precio: 89
-opinionEditorial: 'El **tablao flamenco más histórico de Barcelona** — fundado en 1970, con 55 años en La Rambla y aval de
-  TripAdvisor Certificate of Excellence. 4.617 reseñas con 4,6/5 lo convierten en uno de los productos de flamenco más establecidos
-  de la ciudad. El sentimiento positivo recurrente se centra en: (1) la calidad SIN MICRÓFONOS del espectáculo — voz, guitarra
-  y zapateado se proyectan acústicamente, lo que crea una intimidad imposible en venues amplificados; (2) la decoración nazarí
-  auténtica restaurada por los oficiales de la Alhambra de Granada (Morillas + Zubeldia); (3) la atención del personal multilingüe;
-  (4) la calidad gastronómica del buffet Spanish Tasting (40+ tapas + bebidas ilimitadas).
+opinionEditorial: 'El **tablao flamenco más histórico de Barcelona** — fundado en 1970, con 55 años en La Rambla y aval de TripAdvisor Certificate of Excellence. 4.617 reseñas con 4,6/5 lo convierten en uno de los productos de flamenco más establecidos de la ciudad. El sentimiento positivo recurrente se centra en: (1) la calidad SIN MICRÓFONOS del espectáculo — voz, guitarra y zapateado se proyectan acústicamente, lo que crea una intimidad imposible en venues amplificados; (2) la decoración nazarí auténtica restaurada por los oficiales de la Alhambra de Granada (Morillas + Zubeldia); (3) la atención del personal multilingüe; (4) la calidad gastronómica del buffet Spanish Tasting (40+ tapas + bebidas ilimitadas).
 
 
-  **Comparación de precios:** el precio mínimo (48 € solo show + drink) es el más alto de los 4 grandes tablaos top de Barcelona
-  — por encima de Palau Dalmases (30 €), Tablao de Carmen (incluye dinner desde ~80 €) y Flamenco at the Theater (25 €). La
-  justificación: histórico, sin micrófonos, decoración premium, La Rambla. El Spanish Tasting Buffet (84 €) ofrece probablemente
-  la mejor relación calidad-precio si buscas show + cena completa con bebidas ilimitadas — Tablao de Carmen sale más caro
-  con menú estándar.
+  **Comparación de precios:** el precio mínimo (48 € solo show + drink) es el más alto de los 4 grandes tablaos top de Barcelona — por encima de Palau Dalmases (30 €), Tablao de Carmen (incluye dinner desde ~80 €) y Flamenco at the Theater (25 €). La justificación: histórico, sin micrófonos, decoración premium, La Rambla. El Spanish Tasting Buffet (84 €) ofrece probablemente la mejor relación calidad-precio si buscas show + cena completa con bebidas ilimitadas — Tablao de Carmen sale más caro con menú estándar.
 
 
-  Dos notas operativas: **(1)** los asientos NO son numerados — se asignan en orden de reserva el día del show, con preferencia
-  para reservas con cena. Si te importa la cercanía al escenario, reserva una opción con cena. **(2)** llega 15 min antes
-  — los tickets son válidos hasta 15 min después de la hora reservada (más tarde = no-show no reembolsable).
+  Dos notas operativas: **(1)** los asientos NO son numerados — se asignan en orden de reserva el día del show, con preferencia para reservas con cena. Si te importa la cercanía al escenario, reserva una opción con cena. **(2)** llega 15 min antes — los tickets son válidos hasta 15 min después de la hora reservada (más tarde = no-show no reembolsable).
 
 
-  **Para quién es:** visitantes que quieran la experiencia clásica de tablao tradicional con historia, viajeros que valoren
-  el SIN MICRÓFONOS como signo de autenticidad, comensales que busquen cena de calidad antes del show (el buffet Spanish Tasting
-  es excepcional), parejas y grupos pequeños que quieran ambiente formal pero íntimo. **Para quién NO:** viajeros con presupuesto
-  muy ajustado (Flamenco at the Theater desde 25 € es la opción más asequible), quienes prefieran venues más íntimos de 50-60
-  plazas (Palau Dalmases o Tablao de Carmen son más recogidos), familias con niños menores de 4 (no admitidos), personas con
-  sillas eléctricas (solo manuales). Si quieres ambiente bar relajado, busca **El Duende** (mismo operador, formato bar de
-  cócteles).
+  **Para quién es:** visitantes que quieran la experiencia clásica de tablao tradicional con historia, viajeros que valoren el SIN MICRÓFONOS como signo de autenticidad, comensales que busquen cena de calidad antes del show (el buffet Spanish Tasting es excepcional), parejas y grupos pequeños que quieran ambiente formal pero íntimo. **Para quién NO:** viajeros con presupuesto muy ajustado (Flamenco at the Theater desde 25 € es la opción más asequible), quienes prefieran venues más íntimos de 50-60 plazas (Palau Dalmases o Tablao de Carmen son más recogidos), familias con niños menores de 4 (no admitidos), personas con sillas eléctricas (solo manuales). Si quieres ambiente bar relajado, busca **El Duende** (mismo operador, formato bar de cócteles).
 
   '
 atraccionesRelacionadas:
@@ -159,35 +111,35 @@ keywords:
 - espectáculo flamenco barcelona cena
 - tablao flamenco histórico barcelona
 - show flamenco sin micrófonos
-imagen: "/images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-cuadro-escenario.webp"
-imagenAlt: "Bailaora y cuadro flamenco en el escenario del Tablao Cordobés"
+imagen: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-cuadro-escenario.webp
+imagenAlt: Bailaora y cuadro flamenco en el escenario del Tablao Cordobés
 galeria:
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-cantaora-cartel.webp
-  alt: "Cantaora bajo el cartel del Tablao Flamenco Cordobés"
+  alt: Cantaora bajo el cartel del Tablao Flamenco Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-manton-blanco.webp
-  alt: "Bailaora con mantón blanco en el Tablao Cordobés"
+  alt: Bailaora con mantón blanco en el Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tres-bailaores.webp
-  alt: "Bailaora y dos bailaores en el escenario del Cordobés"
+  alt: Bailaora y dos bailaores en el escenario del Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-tablao.webp
-  alt: "Sala del tablao con decoración de inspiración andalusí"
+  alt: Sala del tablao con decoración de inspiración andalusí
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-escalera-azulejos.webp
-  alt: "Escalera de azulejos de la entrada del Tablao Cordobés"
+  alt: Escalera de azulejos de la entrada del Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-arcos.webp
-  alt: "Sala con arcos y sillas de enea del Tablao Cordobés"
+  alt: Sala con arcos y sillas de enea del Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-comedor.webp
-  alt: "Comedor del restaurante del Tablao Cordobés"
+  alt: Comedor del restaurante del Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bufe.webp
-  alt: "Bufé de la cena del Tablao Cordobés"
+  alt: Bufé de la cena del Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-paella.webp
-  alt: "Paella del bufé del Tablao Cordobés"
+  alt: Paella del bufé del Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tabla-tapas.webp
-  alt: "Tabla de tapas, quesos y embutidos del tablao"
+  alt: Tabla de tapas, quesos y embutidos del tablao
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
-  alt: "Balcón modernista en La Rambla"
+  alt: Balcón modernista en La Rambla
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
-  alt: "Paseo central de La Rambla de Barcelona"
+  alt: Paseo central de La Rambla de Barcelona
 - src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
-  alt: "La Rambla con sus árboles"
+  alt: La Rambla con sus árboles
 ratingProveedor: 4.6
 numeroOpiniones: 4617
 publicada: true
@@ -195,7 +147,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-barcelona-que-tablao-elegir"
+- flamenco-barcelona-que-tablao-elegir
 ---
 
 ## Qué vas a ver

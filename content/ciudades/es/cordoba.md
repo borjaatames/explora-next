@@ -56,11 +56,10 @@ atracciones:
     imagen: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
     imagenAlt: "Ruinas de Medina Azahara, ciudad palatina del califato de Córdoba"
 chipsFiltros:
-  - { label: "Mezquita-Catedral", tag: "mezquita-catedral" }
+  - { label: "Mezquita-Catedral", tag: "mezquita" }
   - { label: "Judería", tag: "juderia" }
   - { label: "Patios", tag: "patios" }
   - { label: "Medina Azahara", tag: "medina-azahara" }
-  - { label: "Caballos y flamenco", tag: "espectaculos" }
 ---
 
 Córdoba es una ciudad media de Andalucía —unos 320.000 habitantes— a orillas del Guadalquivir, pero su peso en la historia es enorme: fue la **capital del califato omeya de Occidente** y, en el siglo X, una de las ciudades más grandes y cultas del mundo, donde convivieron musulmanes, judíos y cristianos.

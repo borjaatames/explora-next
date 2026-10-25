@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: submarine dive from Puerto Calero'
 slug: lanzarote-submarine-dive-puerto-calero
 ciudad: lanzarote
-descripcion: 'One hour in a real submarine that dives to 30 m off Puerto Calero to see wrecks and fish, with an audio guide in 10 languages, a certificate and optional pickup. Rated 4.6/5 from more than 1,500 reviews.'
+descripcion: One hour in a real submarine that dives to 30 m off Puerto Calero to see wrecks and fish, with an audio guide in 10 languages, a certificate and optional pickup. Rated 4.6/5 from more than 1,500 reviews.
 slugs:
   es: submarino-puerto-calero-lanzarote
   en: lanzarote-submarine-dive-puerto-calero
@@ -18,7 +18,7 @@ idiomas:
 - it
 - nl
 - fi
-- no
+- 'no'
 - pl
 - cs
 proveedor: getyourguide
@@ -42,8 +42,8 @@ noIncluye:
 - Food and drinks
 - Pickup outside the listed areas
 puntoEncuentro:
-  texto: 'Submarine Safaris, Marina Puerto Calero, Module C, Unit 2, Puerto Calero (Yaiza).'
-  descripcionGuia: 'Arrive 30 minutes before your dive time. If you choose pickup, the 11:00 and 13:00 dives only collect from Playa Blanca, and the 12:00 and 14:00 dives only from Costa Teguise and Puerto del Carmen.'
+  texto: Submarine Safaris, Marina Puerto Calero, Module C, Unit 2, Puerto Calero (Yaiza).
+  descripcionGuia: Arrive 30 minutes before your dive time. If you choose pickup, the 11:00 and 13:00 dives only collect from Playa Blanca, and the 12:00 and 14:00 dives only from Costa Teguise and Puerto del Carmen.
   latitud: 28.9166
   longitud: -13.7043
   zoom: 16
@@ -67,17 +67,17 @@ accesibilidad: GetYourGuide doesn't list it as accessible; check with the operat
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: How deep does it go?
-  respuesta: 'Down to about 30 metres, where there are three shipwrecks and plenty of marine life.'
+  respuesta: Down to about 30 metres, where there are three shipwrecks and plenty of marine life.
 - pregunta: Is it suitable for pregnant women or people with ear problems?
-  respuesta: 'The operator explains that the cabin stays at normal atmospheric pressure, so it doesn''t affect pregnant women or people with heart or ear problems. If in doubt, ask your doctor.'
+  respuesta: The operator explains that the cabin stays at normal atmospheric pressure, so it doesn't affect pregnant women or people with heart or ear problems. If in doubt, ask your doctor.
 - pregunta: Can children come?
-  respuesta: 'Yes, from age 2. Under-2s can''t board for equipment safety reasons.'
+  respuesta: Yes, from age 2. Under-2s can't board for equipment safety reasons.
 - pregunta: Is pickup included?
   respuesta: 'Only if you choose that option, and it depends on the time: the 11:00 and 13:00 dives collect from Playa Blanca, and the 12:00 and 14:00 dives from Costa Teguise and Puerto del Carmen.'
 opinionEditorial: 'It''s the way to see Lanzarote''s seabed if you don''t dive, and it works especially well with children: wrecks and fish without getting wet, in an hour. Value for money is its weakest score (4.2), and visibility depends on the day. If you''re in the south, combine it with a stroll around Puerto Calero marina.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - lanzarote submarine
 - puerto calero submarine
@@ -87,14 +87,14 @@ keywords:
 imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: The Puerto Calero submarine on the surface before diving
 galeria:
-- src: "/images/actividades/lanzarote/zonas/marina-rubicon.webp"
-  alt: "Boats moored at Marina Rubicón, Playa Blanca"
-- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
-  alt: "Fishing boats in Arrecife, Lanzarote's capital"
-- src: "/images/actividades/lanzarote/zonas/arrecife-casas.webp"
-  alt: "White houses by the water in Arrecife"
-- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
-  alt: "Lanzarote's south coast by the Papagayo beaches"
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: Boats moored at Marina Rubicón, Playa Blanca
+- src: /images/actividades/lanzarote/zonas/arrecife-barcas.webp
+  alt: Fishing boats in Arrecife, Lanzarote's capital
+- src: /images/actividades/lanzarote/zonas/arrecife-casas.webp
+  alt: White houses by the water in Arrecife
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: Lanzarote's south coast by the Papagayo beaches
 ratingProveedor: 4.6
 numeroOpiniones: 1562
 atraccionesRelacionadas:

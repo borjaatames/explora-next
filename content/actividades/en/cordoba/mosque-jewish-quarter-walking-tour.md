@@ -98,6 +98,8 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 2200
 atraccionesRelacionadas:
+- mezquita
+- juderia
 - mezquita-catedral
 publicada: true
 destacada: false

@@ -93,6 +93,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 195
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
 publicada: true
 destacada: false

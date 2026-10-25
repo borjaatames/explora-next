@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Corralejo: buggy safari through northern tracks and volcanoes'
 slug: corralejo-buggy-safari
 ciudad: fuerteventura
-descripcion: '2.5-hour guided buggy tour on dirt tracks in northern Fuerteventura, between dunes and old craters, with views of Lobos and Lanzarote and pickup in Corralejo. Rated 4.6/5 from more than 1,500 reviews.'
+descripcion: 2.5-hour guided buggy tour on dirt tracks in northern Fuerteventura, between dunes and old craters, with views of Lobos and Lanzarote and pickup in Corralejo. Rated 4.6/5 from more than 1,500 reviews.
 slugs:
   es: buggy-safari-corralejo
   en: corralejo-buggy-safari
@@ -38,8 +38,8 @@ noIncluye:
 puntoEncuentro:
   texto: Pickup from your hotel in Corralejo or at the Fuerteadventure office in Corralejo.
   descripcionGuia: If you have a hire car or your hotel is near the office, choose the "Aventura en quad y safari en buggy (nuestra oficina)" point when booking; there's a large car park nearby.
-  latitud: 28.7300
-  longitud: -13.8680
+  latitud: 28.73
+  longitud: -13.868
   zoom: 13
 detallesPracticos:
   ticketMovil: true
@@ -72,29 +72,29 @@ preguntasFrecuentes:
   respuesta: Only from hotels in Corralejo. If you're coming from elsewhere, go to the operator's office in Corralejo.
 - pregunta: Are there stops?
   respuesta: Yes, one of about 20 minutes at the Don Pepe bar for a drink, plus viewpoints over Lobos and Lanzarote.
-opinionEditorial: "A good way to see the volcanic interior of the north, which you'd barely notice from the road, with a high rating across more than 1,500 reviews. You'll end up covered in dust: bring sunglasses and a scarf. If you want scenery without an engine, the Calderón Hondo volcano can be climbed on foot for free."
+opinionEditorial: 'A good way to see the volcanic interior of the north, which you''d barely notice from the road, with a high rating across more than 1,500 reviews. You''ll end up covered in dust: bring sunglasses and a scarf. If you want scenery without an engine, the Calderón Hondo volcano can be climbed on foot for free.'
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - lobos-island-how-to-get-there
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - buggy corralejo
 - buggy tour fuerteventura
 - north fuerteventura buggy safari
 - corralejo off road
 imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: "Buggy on a dirt track in northern Fuerteventura"
+imagenAlt: Buggy on a dirt track in northern Fuerteventura
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp"
-  alt: "Dunes and scrub in Corralejo Natural Park"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
-  alt: "Walking across the white dunes of Corralejo"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
-  alt: "Lobos Island from the Fuerteventura coast"
-- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
-  alt: "Volcanic cones in northern Fuerteventura"
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
-  alt: "Boats in Corralejo harbour"
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp
+  alt: Dunes and scrub in Corralejo Natural Park
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
+  alt: Walking across the white dunes of Corralejo
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
+  alt: Lobos Island from the Fuerteventura coast
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: Volcanic cones in northern Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
+  alt: Boats in Corralejo harbour
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

@@ -69,7 +69,7 @@ guiasRelacionadas:
 - bilbao-en-un-dia
 atraccionesRelacionadas:
 - casco-viejo
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour a pie bilbao
 - visita guiada bilbao
@@ -78,8 +78,8 @@ keywords:
 imagen: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
 imagenAlt: Plaza Nueva, en el Casco Viejo de Bilbao
 galeria:
-- src: "/images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp"
-  alt: "Plaza con escaleras en el Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
+  alt: Plaza con escaleras en el Casco Viejo de Bilbao
 - src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
   alt: Mercado de la Ribera junto a la ría
 - src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp

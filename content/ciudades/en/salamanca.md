@@ -49,9 +49,8 @@ atracciones:
     imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"
     imagenAlt: "The Tormes River beneath an iron bridge, with Salamanca's Cathedrals in the background"
 chipsFiltros:
-  - { label: "Old Town", tag: "casco-historico" }
-  - { label: "Cathedrals and University", tag: "monumentos" }
-  - { label: "Iberian ham", tag: "jamon" }
+  - { label: "University & cathedrals", tag: "universidad-catedrales" }
+  - { label: "Plaza Mayor", tag: "plaza-mayor" }
 ---
 
 Salamanca is the **golden city of Castile and León**, a provincial capital of around **143,000 inhabitants** and home to **Spain's oldest university** (founded in 1218, one of the oldest in the world). It is a UNESCO World Heritage Site.

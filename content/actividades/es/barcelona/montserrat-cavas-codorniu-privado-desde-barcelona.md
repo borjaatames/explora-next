@@ -70,7 +70,8 @@ opinionEditorial: 'Junta en un día las dos excursiones clásicas desde Barcelon
 
 
   Es caro en pareja (desde unos 317 € por persona); en grupo de 4 baja a unos 206 €. Si solo os interesa Montserrat, hay opciones más baratas.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- montserrat
 categoria: excursionesDia
 keywords:
 - montserrat y cava desde barcelona
@@ -102,6 +103,7 @@ galeria:
   alt: Sala modernista de arcos en las bodegas
 bokunProductId: 242957
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## Cómo es el día

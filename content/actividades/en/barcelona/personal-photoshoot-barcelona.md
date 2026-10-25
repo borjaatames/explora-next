@@ -1,8 +1,8 @@
 ---
-titulo: "Personal Photoshoot in Barcelona"
+titulo: Personal Photoshoot in Barcelona
 slug: personal-photoshoot-barcelona
 ciudad: barcelona
-descripcion: "A 30-minute private photoshoot at an iconic Barcelona location: Sagrada Familia, Gothic Quarter or Park Güell. 20-25 edited photos included."
+descripcion: 'A 30-minute private photoshoot at an iconic Barcelona location: Sagrada Familia, Gothic Quarter or Park Güell. 20-25 edited photos included.'
 slugs:
   es: fotografia-personal-barcelona
   en: personal-photoshoot-barcelona
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1005358
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -45,38 +45,40 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
-opinionEditorial: "With 104 reviews behind it, this is the most established of this provider's three Barcelona sessions. The flexibility to pick your backdrop — Sagrada Familia, Gothic Quarter or Park Güell — is its strength, but agree it with the photographer when you book, since it isn't fixed in advance."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+opinionEditorial: With 104 reviews behind it, this is the most established of this provider's three Barcelona sessions. The flexibility to pick your backdrop — Sagrada Familia, Gothic Quarter or Park Güell — is its strength, but agree it with the photographer when you book, since it isn't fixed in advance.
 atraccionesRelacionadas:
 - fotos
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - personal photoshoot barcelona
 - park guell photographer
 - gothic quarter photo session
-imagen: "https://imgcdn.bokun.tools/a6b2476e-ada9-4866-b2c7-d046415f6ed4.jpg"
+imagen: https://imgcdn.bokun.tools/a6b2476e-ada9-4866-b2c7-d046415f6ed4.jpg
 imagenAlt: Personal photoshoot at an iconic Barcelona location
 galeria:
-- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
-  alt: "View of Barceloneta beach with the marina and palm trees in the background"
-- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp"
-  alt: "Sailboat and parasailing off Barceloneta beach"
-- src: "/images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
-  alt: "Barrio Gotico Barcelona Explore Narrow Historic Street"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: View of Barceloneta beach with the marina and palm trees in the background
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
+  alt: Sailboat and parasailing off Barceloneta beach
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: Barrio Gotico Barcelona Explore Narrow Historic Street
 - src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-  alt: "Group of friends under Barcelona's Arc de Triomf"
+  alt: Group of friends under Barcelona's Arc de Triomf
 - src: https://imgcdn.bokun.tools/3c940b4e-9a54-4f89-948e-c6b83a6315ab.jpg
-  alt: "Portrait beside the Sagrada Familia"
+  alt: Portrait beside the Sagrada Familia
 - src: https://imgcdn.bokun.tools/071a5473-f0cd-455c-824d-195c26691b88.jpg
-  alt: "Friends posing with the Sagrada Familia behind"
+  alt: Friends posing with the Sagrada Familia behind
 - src: https://imgcdn.bokun.tools/72057d2a-12e3-4cfd-9fb5-ba5cc287c966.jpg
-  alt: "Couple among soap bubbles at the Sagrada Familia"
+  alt: Couple among soap bubbles at the Sagrada Familia
 - src: https://imgcdn.bokun.tools/ea896ba5-b1a6-4bf2-a6e9-6d45f2a05d5c.jpg
-  alt: "Portrait with soap bubbles in a Barcelona park"
+  alt: Portrait with soap bubbles in a Barcelona park
 publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll experience

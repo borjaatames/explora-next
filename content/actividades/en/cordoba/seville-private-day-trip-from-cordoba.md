@@ -65,7 +65,6 @@ opinionEditorial: 'An easy way to see the essentials of Seville without changing
 
 
   For two it''s about €397 per person; for four, about €191, which is where it really pays off. No published reviews for this trip yet.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - seville from cordoba
@@ -93,6 +92,7 @@ galeria:
   alt: Seville Cathedral and the Giralda from Plaza Virgen de los Reyes
 bokunProductId: 937865
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

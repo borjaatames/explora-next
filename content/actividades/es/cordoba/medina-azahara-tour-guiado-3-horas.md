@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Medina Azahara impresiona más de lo que parece en fotos, pero sin explicación son solo ruinas: con un guía arqueólogo cobra sentido. Elige la opción con traslado si no tienes coche; es la forma más cómoda de llegar.'
 guiasRelacionadas:
 - cordoba-en-un-dia
-categoria: excursionesDia
+categoria: visitasGuiadas
 keywords:
 - medina azahara visita guiada
 - tour medina azahara
@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/cordoba/medina-azahara/vista-ruinas.webp
 imagenAlt: Vista de las ruinas de Medina Azahara
 galeria:
-- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
-  alt: "Ruinas del palacio califal de Medina Azahara"
+- src: /images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp
+  alt: Ruinas del palacio califal de Medina Azahara
 - src: /images/actividades/cordoba/medina-azahara/salon-rico.webp
   alt: Arcos del Salón Rico de Medina Azahara
 - src: /images/actividades/cordoba/medina-azahara/salon-abderraman.webp

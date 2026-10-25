@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada al Parque de Atracciones'
 slug: parque-atracciones-madrid-entrada
 ciudad: madrid
-descripcion: 'Entrada al Parque de Atracciones de Madrid en la Casa de Campo con 45 atracciones, zona de agua y zona infantil. 4,5/5 con 414 reseñas.'
+descripcion: Entrada al Parque de Atracciones de Madrid en la Casa de Campo con 45 atracciones, zona de agua y zona infantil. 4,5/5 con 414 reseñas.
 slugs:
   es: parque-atracciones-madrid-entrada
   en: parque-atracciones-madrid-ticket
@@ -33,7 +33,7 @@ noIncluye:
 puntoEncuentro:
   texto: Parque de Atracciones de Madrid, Casa de Campo, 28011 Madrid.
   descripcionGuia: Metro línea 10 hasta Batán y 10 minutos a pie, o teleférico desde Rosales en temporada. Accede con la entrada en el móvil.
-  latitud: 40.4070
+  latitud: 40.407
   longitud: -3.7464
   zoom: 15
 detallesPracticos:
@@ -61,27 +61,27 @@ preguntasFrecuentes:
   respuesta: Abre todo el año pero con horario reducido en invierno; cierra algunos días entre semana en temporada baja. Consulta el calendario antes de comprar.
 - pregunta: ¿Cuántas atracciones hay?
   respuesta: Más de 45 atracciones repartidas en zonas de adrenalina, infantil, familiar y de agua. Hay para todos los perfiles.
-opinionEditorial: 'El Parque de Atracciones de Madrid no tiene la producción temática de Warner, pero su ubicación en la Casa de Campo y su mix de atracciones para todas las edades lo hacen ideal para un día en familia. El Abismo y el Tornado satisfacen a los amantes de la adrenalina, y la zona infantil es una de las mejores de Madrid.'
+opinionEditorial: El Parque de Atracciones de Madrid no tiene la producción temática de Warner, pero su ubicación en la Casa de Campo y su mix de atracciones para todas las edades lo hacen ideal para un día en familia. El Abismo y el Tornado satisfacen a los amantes de la adrenalina, y la zona infantil es una de las mejores de Madrid.
 guiasRelacionadas:
 - madrid-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - parque de atracciones madrid
 - parque atracciones madrid entrada
 - parque atracciones madrid precio
 imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
-imagenAlt: "Montaña rusa Tarántula en el Parque de Atracciones de Madrid"
+imagenAlt: Montaña rusa Tarántula en el Parque de Atracciones de Madrid
 galeria:
-- src: "/images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp"
-  alt: "Montaña rusa roja en pleno recorrido"
+- src: /images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp
+  alt: Montaña rusa roja en pleno recorrido
 - src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
-  alt: "Atracción de agua Los Fiordos en el Parque de Atracciones"
+  alt: Atracción de agua Los Fiordos en el Parque de Atracciones
 - src: /images/actividades/madrid/parque-atracciones/vista-parque.webp
-  alt: "Vista general del Parque de Atracciones de Madrid"
+  alt: Vista general del Parque de Atracciones de Madrid
 - src: /images/actividades/madrid/parque-atracciones/zeppelin.webp
-  alt: "Atracción Zeppelin del Parque de Atracciones de Madrid"
+  alt: Atracción Zeppelin del Parque de Atracciones de Madrid
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
-  alt: "Atracción infantil Padrinos Voladores en Nickelodeon Land"
+  alt: Atracción infantil Padrinos Voladores en Nickelodeon Land
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

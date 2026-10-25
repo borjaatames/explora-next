@@ -94,6 +94,7 @@ galeria:
   alt: Toro bravo en el campo junto a un aerogenerador
 bokunProductId: 949572
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

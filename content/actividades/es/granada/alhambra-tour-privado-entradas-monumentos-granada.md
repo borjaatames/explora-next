@@ -72,7 +72,7 @@ opinionEditorial: 'La gracia de este tour es que resuelve casi toda la visita a 
 atraccionesRelacionadas:
 - alhambra
 - catedral
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - tour privado alhambra con entradas
 - alhambra y catedral granada
@@ -103,6 +103,8 @@ galeria:
   alt: Pareja paseando por los jardines del Generalife
 bokunProductId: 793765
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué incluye

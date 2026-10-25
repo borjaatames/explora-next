@@ -84,7 +84,7 @@ opinionEditorial: 'La versión de mañana o tarde del tour clásico por Albaicí
   '
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour albaicin granada
 - tour sacromonte granada

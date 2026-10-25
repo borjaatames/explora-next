@@ -72,7 +72,7 @@ opinionEditorial: 'Gibraltar desde Cádiz sin conducir ni hacer colas en la fron
   El precio es por grupo: unos 600 € en pareja y unos 800 € para 4. Ojo con un detalle: al acabar el tiempo libre, la vuelta hasta la frontera es por tu cuenta. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - gibraltar desde cadiz
 - excursion gibraltar desde cadiz
@@ -101,6 +101,8 @@ galeria:
   alt: Viajeros en una carretera del Peñón con vistas a la bahía
 bokunProductId: 972148
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

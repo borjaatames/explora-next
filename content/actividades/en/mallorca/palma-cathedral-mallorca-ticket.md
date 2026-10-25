@@ -2,11 +2,11 @@
 titulo: 'Mallorca: Palma Cathedral (La Seu) skip-the-line ticket'
 slug: palma-cathedral-mallorca-ticket
 ciudad: mallorca
-descripcion: "Skip-the-line entry to Palma Cathedral (La Seu), one of the most spectacular Gothic cathedrals in the world, with Gaudí's interior and views over the bay. 4.6/5 with 17,883 reviews."
+descripcion: Skip-the-line entry to Palma Cathedral (La Seu), one of the most spectacular Gothic cathedrals in the world, with Gaudí's interior and views over the bay. 4.6/5 with 17,883 reviews.
 slugs:
   es: catedral-palma-mallorca-entrada
   en: palma-cathedral-mallorca-ticket
-duracion: '1 hour'
+duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 11
 moneda: EUR
@@ -28,7 +28,7 @@ noIncluye:
 - Audio guide (available at the entrance)
 - Guided tours
 puntoEncuentro:
-  texto: "Catedral de Palma, Plaça de la Seu, Palma de Mallorca"
+  texto: Catedral de Palma, Plaça de la Seu, Palma de Mallorca
   descripcionGuia: The cathedral is in Palma's old town, facing the Parc de la Mar. Walk from the city centre (15 minutes from Passeig del Born), or take the bus. Show your mobile ticket at the entrance.
   latitud: 39.5671
   longitud: 2.6499
@@ -55,7 +55,7 @@ preguntasFrecuentes:
   respuesta: Between 1904 and 1914, Gaudí redesigned the interior of La Seu. His contributions include the dramatic canopy of wrought iron and fabric above the main altar, repositioned choir stalls, and several ceramic installations. The overall effect is striking and very different from conventional Gothic interiors.
 - pregunta: When is the best time to visit?
   respuesta: Early morning (9–10 AM) before the cruise ship groups arrive. The rose window is at its most spectacular in early afternoon when backlit by the sun.
-opinionEditorial: "Palma Cathedral is among the great Gothic monuments of Europe and the first thing Mallorca shows you from the ferry or aircraft. Skip the queue — the cathedral fills up fast in summer, and the experience inside is worth protecting."
+opinionEditorial: Palma Cathedral is among the great Gothic monuments of Europe and the first thing Mallorca shows you from the ferry or aircraft. Skip the queue — the cathedral fills up fast in summer, and the experience inside is worth protecting.
 guiasRelacionadas:
 - what-to-see-in-mallorca
 categoria: entradas
@@ -68,19 +68,19 @@ imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
 imagenAlt: Palma Cathedral (La Seu) facade overlooking the bay of Palma, Mallorca
 galeria:
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: "Palma Cathedral at sunset from the Parc de la Mar"
+  alt: Palma Cathedral at sunset from the Parc de la Mar
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: "La Seu reflected in the Parc de la Mar pool, Palma"
+  alt: La Seu reflected in the Parc de la Mar pool, Palma
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: "Promenade by the pool in front of Palma Cathedral"
+  alt: Promenade by the pool in front of Palma Cathedral
 - src: /images/actividades/mallorca/catedral-palma/nave-interior.webp
-  alt: "Central nave of Palma Cathedral with the rose window"
+  alt: Central nave of Palma Cathedral with the rose window
 - src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: "Great rose window of Palma Cathedral from inside"
+  alt: Great rose window of Palma Cathedral from inside
 - src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
-  alt: "Gaudí's canopy over the main altar of La Seu"
+  alt: Gaudí's canopy over the main altar of La Seu
 - src: /images/actividades/mallorca/catedral-palma/capilla-barcelo.webp
-  alt: "Chapel of the Blessed Sacrament with Miquel Barceló's mural"
+  alt: Chapel of the Blessed Sacrament with Miquel Barceló's mural
 ratingProveedor: 4.6
 numeroOpiniones: 17883
 atraccionesRelacionadas:

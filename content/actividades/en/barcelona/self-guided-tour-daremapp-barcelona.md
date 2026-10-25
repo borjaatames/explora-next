@@ -56,7 +56,7 @@ politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% c
 opinionEditorial: 'With 3 routes and more than 50 points of interest, this is one of the most complete DareMapp listings in the catalogue: it covers everything from the Sagrada Familia to Casa Batlló and Barcelona''s Modernisme without booking three separate visits. For a city this big, setting your own pace and pausing whenever you like is a real advantage over a guided tour with a fixed schedule. What you won''t get is priority access to the monuments or a live guide''s stories.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided barcelona tour
 - barcelona audio guide app

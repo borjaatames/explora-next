@@ -56,10 +56,9 @@ atracciones:
     imagen: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
     imagenAlt: "Ermita excavada en la roca en Cueva Bermeja, en Guayadeque"
 chipsFiltros:
-  - { label: "En el mar", tag: "mar" }
-  - { label: "Dunas de Maspalomas", tag: "dunas" }
-  - { label: "Interior y cumbres", tag: "interior" }
-  - { label: "Excursiones por la isla", tag: "isla" }
+  - { label: "Dunas de Maspalomas", tag: "maspalomas" }
+  - { label: "Roque Nublo y cumbres", tag: "roque-nublo" }
+  - { label: "Puerto de Mogán", tag: "mogan" }
 ---
 
 Gran Canaria es la tercera isla más grande de Canarias y la más poblada junto con Tenerife, con unos **860.000 habitantes**, casi la mitad en su capital, **Las Palmas de Gran Canaria**. Se la llama el **continente en miniatura** porque en una isla redonda de apenas 50 km de diámetro reúne desierto, pinares, barrancos y cumbres de casi 2.000 metros. Cerca de la mitad del territorio es **Reserva de la Biosfera** de la UNESCO.

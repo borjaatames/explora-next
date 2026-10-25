@@ -91,6 +91,7 @@ galeria:
   alt: Dos amigas con cerveza en la azotea
 bokunProductId: 872250
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la cata

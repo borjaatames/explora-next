@@ -103,6 +103,7 @@ opinionEditorial: 'La **excursión clásica a Córdoba desde Sevilla** — opera
 
   '
 atraccionesRelacionadas:
+- cordoba
 - excursiones
 categoria: excursionesDia
 keywords:

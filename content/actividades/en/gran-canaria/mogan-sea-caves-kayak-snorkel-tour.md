@@ -73,7 +73,7 @@ preguntasFrecuentes:
 opinionEditorial: It's the best way to see the wild south-west coast that you can't see from the beaches. It needs some fitness, but the guides make it easy and the open-water snorkeling is usually very clear.
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - mogan kayak
 - gran canaria kayak caves
@@ -107,6 +107,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 406
 atraccionesRelacionadas:
+- mogan
 - mar
 publicada: true
 destacada: false

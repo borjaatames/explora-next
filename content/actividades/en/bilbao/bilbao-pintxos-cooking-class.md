@@ -77,10 +77,10 @@ keywords:
 imagen: /images/actividades/bilbao/gastronomia/clase-cocina.webp
 imagenAlt: Hands preparing food in a cooking class
 galeria:
-- src: "/images/actividades/bilbao/pintxos/barra-bar-pintxos.webp"
-  alt: "Barra de un bar repleta de pintxos"
-- src: "/images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp"
-  alt: "Pintxos de queso con mermelada y nueces"
+- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
+  alt: Barra de un bar repleta de pintxos
+- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
+  alt: Pintxos de queso con mermelada y nueces
 - src: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
   alt: Tray of assorted pintxos
 - src: /images/actividades/bilbao/gastronomia/cocinera.webp

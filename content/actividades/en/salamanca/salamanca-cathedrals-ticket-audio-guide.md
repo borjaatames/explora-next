@@ -94,6 +94,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 202
 atraccionesRelacionadas:
+- universidad-catedrales
 - monumentos
 publicada: true
 destacada: false

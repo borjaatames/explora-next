@@ -69,7 +69,8 @@ opinionEditorial: 'It''s a full night out in three hours: a walk through the Got
 
 
   Because it''s private, the price per person depends a lot on group size: about €114 for two, about €88 each for four.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- gotico
 categoria: toursGastronomicos
 keywords:
 - tapas and flamenco barcelona
@@ -99,6 +100,7 @@ galeria:
   alt: Travellers toasting over tapas in the restaurant
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the evening works

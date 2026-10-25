@@ -67,21 +67,22 @@ keywords:
 - visita guiada italica privada
 - italica guia privado
 - ruinas romanas italica sevilla
-imagen: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-08.webp"
-imagenAlt: "Arena del anfiteatro de Itálica"
+imagen: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-08.webp
+imagenAlt: Arena del anfiteatro de Itálica
 galeria:
-  - src: "https://imgcdn.bokun.tools/0b0fd9c1-a004-459b-86a1-1cf6e637842e.jpg"
-    alt: "Ciudad romana de Itálica"
-  - src: "https://imgcdn.bokun.tools/765285f7-589c-46f8-a2a4-0c08dfec97f3.jpg"
-    alt: "El teatro y el anfiteatro de Itálica"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp"
-    alt: "Pasadizo romano del anfiteatro"
-  - src: "/images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp"
-    alt: "Gradas del anfiteatro de Itálica"
+- src: https://imgcdn.bokun.tools/0b0fd9c1-a004-459b-86a1-1cf6e637842e.jpg
+  alt: Ciudad romana de Itálica
+- src: https://imgcdn.bokun.tools/765285f7-589c-46f8-a2a4-0c08dfec97f3.jpg
+  alt: El teatro y el anfiteatro de Itálica
+- src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp
+  alt: Pasadizo romano del anfiteatro
+- src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp
+  alt: Gradas del anfiteatro de Itálica
 publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
+privada: true
 ---
 
 ## Qué vas a ver

@@ -69,7 +69,7 @@ preguntasFrecuentes:
 opinionEditorial: 'PortAventura is one of Europe''s best theme parks and the combo with Ferrari Land is the most complete ticket. Book ahead online: the ticket office gets busy in high season, and here you can cancel up to 3 days before.'
 guiasRelacionadas:
 - portaventura-world-guide
-categoria: entradas
+categoria: parques
 keywords:
 - portaventura tickets
 - portaventura ferrari land

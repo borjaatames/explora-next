@@ -70,7 +70,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s Gran Canaria''s most-booked boat trip and its strength is balance: genuine whale and dolphin watching, with the glass panels as a bonus, plus time to swim. If you want a party or lunch on board, choose the catamaran with lunch instead.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - dolphin watching gran canaria
 - gran canaria catamaran
@@ -79,8 +79,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/mar/calderones-grupo.webp
 imagenAlt: A pod of pilot whales in the Canary Atlantic
 galeria:
-- src: "/images/actividades/gran-canaria/delfines-catamaran/delfines-nadando-superficie.webp"
-  alt: "Delfines nadando en la superficie del mar"
+- src: /images/actividades/gran-canaria/delfines-catamaran/delfines-nadando-superficie.webp
+  alt: Delfines nadando en la superficie del mar
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: Puerto Rico de Gran Canaria marina
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp

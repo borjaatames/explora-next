@@ -67,13 +67,13 @@ preguntasFrecuentes:
 opinionEditorial: 'Es el plan más barato y relajado para ver Valencia desde el mar, y al atardecer con la copa en la mano funciona muy bien. No esperes un crucero de lujo: es un paseo corto en un barco grande, de ahí la nota de 4/5.'
 guiasRelacionadas:
 - valencia-en-2-dias
-categoria: excursionesDia
+categoria: agua
 keywords:
 - paseo en barco valencia
 - catamaran valencia atardecer
 - barco valencia puerto
 - paseo catamaran valencia
-imagen: "/images/actividades/valencia/mar/catamaran-boramar.webp"
+imagen: /images/actividades/valencia/mar/catamaran-boramar.webp
 imagenAlt: Catamarán amarrado en el puerto de Valencia
 galeria:
 - src: /images/actividades/valencia/mar/bocana-puerto.webp

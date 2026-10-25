@@ -64,8 +64,9 @@ opinionEditorial: 'La Mezquita-Catedral es de esos monumentos que se entienden m
 
   El precio es por grupo, así que en solitario o en pareja (unos 210 €) cuesta más que un tour compartido, pero en familia sale razonable: unos 340 € para 4.'
 atraccionesRelacionadas:
+- mezquita
 - mezquita-catedral
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - mezquita de cordoba tour privado
 - visita guiada privada mezquita cordoba
@@ -96,6 +97,8 @@ galeria:
   alt: El Puente Romano y la Mezquita-Catedral al atardecer
 bokunProductId: 793768
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

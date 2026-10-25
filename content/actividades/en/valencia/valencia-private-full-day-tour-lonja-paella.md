@@ -69,8 +69,9 @@ opinionEditorial: 'It''s all of Valencia in a day with nothing to organise: the 
   It''s a new activity with no reviews yet, and it isn''t cheap: from about €207 per person for two, lunch included; about €153 each for four.'
 atraccionesRelacionadas:
 - centro-historico
+- ciudad-artes
 - gastronomia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - valencia full day tour
 - private valencia tour with paella
@@ -109,6 +110,7 @@ galeria:
   alt: Group eating paella in a restaurant
 bokunProductId: 967813
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## The route

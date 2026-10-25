@@ -2,7 +2,7 @@
 titulo: 'Las Galletas: private whale and dolphin watching boat trip'
 slug: private-whale-watching-boat-las-galletas-tenerife
 ciudad: tenerife
-descripcion: 'A private boat just for your group (1 to 6 people) from Las Galletas, in the south of Tenerife, to see pilot whales and dolphins. 2 hours for €450 or 3 hours for €550 with a swim or snorkel stop. Total price per boat, drinks included.'
+descripcion: A private boat just for your group (1 to 6 people) from Las Galletas, in the south of Tenerife, to see pilot whales and dolphins. 2 hours for €450 or 3 hours for €550 with a swim or snorkel stop. Total price per boat, drinks included.
 slugs:
   es: avistamiento-cetaceos-barco-privado-las-galletas
   en: private-whale-watching-boat-las-galletas-tenerife
@@ -60,7 +60,7 @@ informacionImportante:
   - Sightings are very likely but cannot be guaranteed
 accesibilidad: Not wheelchair accessible. Boarding requires some agility.
 politicaCancelacion: 'Cancel 72 hours or more in advance for a 90 % refund (10 % is kept as a handling fee). Less than 72 hours before or no-show: no refund. If the operator cancels due to weather or safety, you get a 100 % refund.'
-opinionEditorial: 'This is the alternative to the big catamarans from Los Cristianos and Costa Adeje, which sail with dozens of people. Here the boat is yours alone, you set the pace (always within the legal limit of 30 minutes within 100 m of the pilot whales), and you leave from Las Galletas, a much quieter harbour. It is pricey for two; with 4 to 6 people the cost per head gets close to a good shared trip. The 3-hour option is worth it in summer for the swim.'
+opinionEditorial: This is the alternative to the big catamarans from Los Cristianos and Costa Adeje, which sail with dozens of people. Here the boat is yours alone, you set the pace (always within the legal limit of 30 minutes within 100 m of the pilot whales), and you leave from Las Galletas, a much quieter harbour. It is pricey for two; with 4 to 6 people the cost per head gets close to a good shared trip. The 3-hour option is worth it in summer for the swim.
 preguntasFrecuentes:
 - pregunta: How much does it cost?
   respuesta: €450 per boat for the 2-hour trip and €550 for the 3-hour trip. That is the total price for the group, 1 to 6 people. With 6 people it works out at €75 each (2 h) or about €92 each (3 h).
@@ -77,7 +77,7 @@ preguntasFrecuentes:
 guiasRelacionadas:
 - whale-watching-tenerife
 - what-to-see-in-tenerife
-categoria: experienciasPrivadas
+categoria: agua
 keywords:
 - private boat hire tenerife
 - private whale watching tenerife
@@ -108,6 +108,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-20'
 fecha_actualizacion: '2026-10-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you will do

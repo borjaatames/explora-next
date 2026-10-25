@@ -68,8 +68,9 @@ opinionEditorial: 'One of the few Barcelona tours genuinely designed for childre
 
   With 2 adults it''s from about €76 per adult, and the child rate is much lower. Note there''s no Boqueria on Sundays.'
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - barcelona tour with kids
 - private family tour barcelona
@@ -106,6 +107,7 @@ galeria:
   alt: Family jumping for joy in a park
 bokunProductId: 217564
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## How the walk works

@@ -67,13 +67,13 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s the cheapest, most relaxed way to see Valencia from the sea, and at sunset with a drink in hand it works well. Don''t expect a luxury cruise: it''s a short trip on a big boat, hence the 4/5.'
 guiasRelacionadas:
 - valencia-in-2-days
-categoria: excursionesDia
+categoria: agua
 keywords:
 - valencia boat trip
 - valencia sunset catamaran
 - valencia harbour cruise
 - catamaran valencia
-imagen: "/images/actividades/valencia/mar/catamaran-boramar.webp"
+imagen: /images/actividades/valencia/mar/catamaran-boramar.webp
 imagenAlt: Catamaran moored in Valencia harbour
 galeria:
 - src: /images/actividades/valencia/mar/bocana-puerto.webp

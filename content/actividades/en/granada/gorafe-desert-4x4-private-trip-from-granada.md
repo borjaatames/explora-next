@@ -67,7 +67,7 @@ opinionEditorial: 'The Gorafe desert is one of Andalusia''s strangest landscapes
   It''s a private experience and pricey for two (€490 each); for four it falls to €277. It suits travellers who know Granada and want a completely different landscape, or families with children over 8.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - gorafe desert
 - gorafe 4x4
@@ -96,6 +96,7 @@ galeria:
   alt: Layered reddish cliffs
 bokunProductId: 1036173
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

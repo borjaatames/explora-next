@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Lanzarote: Parque Nacional de Timanfaya en medio día'
 slug: timanfaya-tour-medio-dia
 ciudad: lanzarote
@@ -32,8 +32,8 @@ incluye:
 noIncluye:
 - Paseo en camello (opcional, se paga en efectivo allí)
 puntoEncuentro:
-  texto: 'Recogida en hoteles y puntos establecidos de toda Lanzarote, incluidos Playa Blanca, Puerto del Carmen y Costa Teguise.'
-  descripcionGuia: 'Al reservar eliges tu punto de recogida entre más de cuarenta; la hora exacta depende de la zona. Puede haber una parada logística en Yaiza para repartir a los grupos en los autobuses.'
+  texto: Recogida en hoteles y puntos establecidos de toda Lanzarote, incluidos Playa Blanca, Puerto del Carmen y Costa Teguise.
+  descripcionGuia: Al reservar eliges tu punto de recogida entre más de cuarenta; la hora exacta depende de la zona. Puede haber una parada logística en Yaiza para repartir a los grupos en los autobuses.
   latitud: 28.97
   longitud: -13.68
   zoom: 10
@@ -59,13 +59,13 @@ accesibilidad: No admite sillas de ruedas no plegables ni eléctricas; el terren
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Está incluida la entrada a Timanfaya?
-  respuesta: 'Sí. Incluye la entrada a las Montañas del Fuego, que por separado cuesta 30 € y ahora solo se vende online con hora fija.'
+  respuesta: Sí. Incluye la entrada a las Montañas del Fuego, que por separado cuesta 30 € y ahora solo se vende online con hora fija.
 - pregunta: ¿Se puede caminar por los volcanes?
-  respuesta: 'No. Dentro del Parque Nacional solo se recorre en guagua por la Ruta de los Volcanes; a pie únicamente por la zona del Islote de Hilario.'
+  respuesta: No. Dentro del Parque Nacional solo se recorre en guagua por la Ruta de los Volcanes; a pie únicamente por la zona del Islote de Hilario.
 - pregunta: ¿Cuánto cuesta el camello?
-  respuesta: 'Es opcional, dura unos 30 minutos y se paga en efectivo en el echadero. GetYourGuide no publica el precio.'
+  respuesta: Es opcional, dura unos 30 minutos y se paga en efectivo en el echadero. GetYourGuide no publica el precio.
 - pregunta: ¿Y si el parque está cerrado?
-  respuesta: 'Si cierra por motivos ajenos al operador, la excursión visita en su lugar el centro de visitantes e interpretación de Timanfaya.'
+  respuesta: Si cierra por motivos ajenos al operador, la excursión visita en su lugar el centro de visitantes e interpretación de Timanfaya.
 opinionEditorial: 'Tiene sentido sobre todo si no alquilas coche: por 59 € resuelves el transporte y una entrada que ya cuesta 30 € y que hay que reservar con hora. Con coche propio sale más barato ir por tu cuenta temprano. La nota (4,4) es algo más baja que la de otras excursiones de la isla y la valoración calidad-precio es la que más baja; cuenta con bastante tiempo de autobús y paradas logísticas.'
 guiasRelacionadas:
 - timanfaya-como-visitarlo
@@ -80,19 +80,20 @@ keywords:
 imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: Guagua de la Ruta de los Volcanes entre cráteres en Timanfaya
 galeria:
-- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp"
-  alt: "Caravana de camellos en las laderas de Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp"
-  alt: "Camellos cruzando la ceniza volcánica de Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/timanfaya-lava.webp"
-  alt: "Campo de lava y volcanes en Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/volcan-rojo.webp"
-  alt: "Volcán de tierra roja en Timanfaya"
-- src: "/images/actividades/lanzarote/zonas/camellos-echadero.webp"
-  alt: "Camellos esperando a los visitantes en el Echadero de Timanfaya"
+- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
+  alt: Caravana de camellos en las laderas de Timanfaya
+- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp
+  alt: Camellos cruzando la ceniza volcánica de Timanfaya
+- src: /images/actividades/lanzarote/zonas/timanfaya-lava.webp
+  alt: Campo de lava y volcanes en Timanfaya
+- src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
+  alt: Volcán de tierra roja en Timanfaya
+- src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
+  alt: Camellos esperando a los visitantes en el Echadero de Timanfaya
 ratingProveedor: 4.4
 numeroOpiniones: 2855
 atraccionesRelacionadas:
+- timanfaya
 - volcanes
 publicada: true
 destacada: false

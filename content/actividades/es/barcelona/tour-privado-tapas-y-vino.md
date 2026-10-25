@@ -1,8 +1,8 @@
 ---
-titulo: "Tour privado de tapas y vino"
+titulo: Tour privado de tapas y vino
 slug: tour-privado-tapas-y-vino
 ciudad: barcelona
-descripcion: "Ruta privada de tapas y vino a pie por el Barrio Gótico y el casco antiguo de Barcelona, solo para tu grupo y con guía en exclusiva. Degustación de tapas con maridaje de vinos regionales en 4 locales auténticos. Precio por grupo."
+descripcion: Ruta privada de tapas y vino a pie por el Barrio Gótico y el casco antiguo de Barcelona, solo para tu grupo y con guía en exclusiva. Degustación de tapas con maridaje de vinos regionales en 4 locales auténticos. Precio por grupo.
 slugs:
   es: tour-privado-tapas-y-vino
   en: private-tapas-and-wine-walking-tour
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 673604
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -43,28 +43,29 @@ informacionImportante:
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
-opinionEditorial: "El formato privado da mucho juego con la comida: marcáis el ritmo, el guía adapta las paradas a lo que os apetece y podéis preguntar de todo. Para una pareja o un grupo de amigos es una velada a medida."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+opinionEditorial: 'El formato privado da mucho juego con la comida: marcáis el ritmo, el guía adapta las paradas a lo que os apetece y podéis preguntar de todo. Para una pareja o un grupo de amigos es una velada a medida.'
 atraccionesRelacionadas:
+- gotico
 - tapas-barcelona
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - tour privado tapas barcelona
 - ruta privada de tapas
 - tapas y vino privado
-imagen: "/images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp"
+imagen: /images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp
 imagenAlt: La Rambla de Barcelona con viandantes al atardecer
 galeria:
 - src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
-  alt: "Grupo probando tapas en un bar"
+  alt: Grupo probando tapas en un bar
 - src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
-  alt: "Guía con el grupo ante la catedral de Barcelona"
+  alt: Guía con el grupo ante la catedral de Barcelona
 - src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
-  alt: "Vermut y tapas en la barra de un bar"
+  alt: Vermut y tapas en la barra de un bar
 - src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
-  alt: "Grupo en una bodega llena de botellas de vino"
+  alt: Grupo en una bodega llena de botellas de vino
 - src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
-  alt: "Entrada de una bodega tradicional del Barrio Gótico"
+  alt: Entrada de una bodega tradicional del Barrio Gótico
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Puesto de jamones y embutidos ibericos en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
@@ -89,6 +90,8 @@ publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver y probar

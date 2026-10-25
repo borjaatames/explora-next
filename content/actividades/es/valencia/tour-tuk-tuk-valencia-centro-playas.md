@@ -69,7 +69,7 @@ opinionEditorial: 'Valencia es grande y llana, y en tuk tuk ves en dos horas lo 
 guiasRelacionadas:
 - valencia-en-2-dias
 - valencia-con-ninos
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tuk tuk valencia
 - tour tuk tuk valencia
@@ -102,6 +102,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 388
 atraccionesRelacionadas:
 - centro-historico
+- ciudad-artes
 publicada: true
 destacada: false
 fecha: '2026-10-07'

@@ -68,31 +68,31 @@ keywords:
 - tablao cardenal
 - cordoba flamenco show
 - flamenco tablao cordoba
-imagen: "/images/actividades/cordoba/el-cardenal/el-cardenal-patio-tres-bailaoras.webp"
-imagenAlt: "Three dancers in blue in the courtyard of Tablao El Cardenal, Córdoba"
+imagen: /images/actividades/cordoba/el-cardenal/el-cardenal-patio-tres-bailaoras.webp
+imagenAlt: Three dancers in blue in the courtyard of Tablao El Cardenal, Córdoba
 galeria:
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-patio-arcos-escenario.webp
-  alt: "Arched courtyard of Tablao El Cardenal with the stage and audience"
+  alt: Arched courtyard of Tablao El Cardenal with the stage and audience
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-manton-cante-guitarra.webp
-  alt: "Dancer swirling a fringed shawl beside the singer and guitarist at El Cardenal"
+  alt: Dancer swirling a fringed shawl beside the singer and guitarist at El Cardenal
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-abanico-rojo.webp
-  alt: "Dancer with a red fan at Tablao El Cardenal"
+  alt: Dancer with a red fan at Tablao El Cardenal
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaor-cante-guitarra.webp
-  alt: "Male dancer in front of the El Cardenal sign with singer and guitarist"
+  alt: Male dancer in front of the El Cardenal sign with singer and guitarist
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-manton-rosa.webp
-  alt: "Dancer in a pink ruffled dress with a shawl at El Cardenal"
+  alt: Dancer in a pink ruffled dress with a shawl at El Cardenal
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-rosa-patio-publico.webp
-  alt: "Dancer in pink on the courtyard stage with the audience in front"
+  alt: Dancer in pink on the courtyard stage with the audience in front
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-manton-giro-patio.webp
-  alt: "Shawl spin under the courtyard arches of El Cardenal"
+  alt: Shawl spin under the courtyard arches of El Cardenal
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-bailaora-bata-rosa.webp
-  alt: "Dancer in a pink flounced dress on the El Cardenal stage"
+  alt: Dancer in a pink flounced dress on the El Cardenal stage
 - src: /images/actividades/cordoba/el-cardenal/el-cardenal-zapatos-flamenca.webp
-  alt: "Red flamenco shoes keeping the rhythm"
+  alt: Red flamenco shoes keeping the rhythm
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Mosque-Cathedral tower, opposite the tablao"
+  alt: Mosque-Cathedral tower, opposite the tablao
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Córdoba Jewish Quarter, a few steps from the tablao"
+  alt: Córdoba Jewish Quarter, a few steps from the tablao
 ratingProveedor: 4.8
 numeroOpiniones: 1167
 atraccionesRelacionadas:

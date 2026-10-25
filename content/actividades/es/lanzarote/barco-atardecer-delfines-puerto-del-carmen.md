@@ -71,7 +71,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es un plan de tarde agradable para ver la costa sur con la luz del atardecer y una copa, más que una excursión de avistamiento: los delfines no están garantizados y la nota (4,2) refleja que no siempre aparecen. Si lo que te importa son los cetáceos, Tenerife o La Gomera dan más probabilidades; si quieres mar y puesta de sol sin complicarte, cumple.'
 guiasRelacionadas:
 - que-ver-en-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco atardecer lanzarote
 - delfines lanzarote

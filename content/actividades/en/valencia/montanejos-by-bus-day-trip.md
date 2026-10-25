@@ -1,8 +1,8 @@
 ---
-titulo: "Montanejos by Bus Day Trip"
+titulo: Montanejos by Bus Day Trip
 slug: montanejos-by-bus-day-trip
 ciudad: valencia
-descripcion: "Bus day trip to Montanejos, with its thermal springs and turquoise pools set in the mountains of Castellón."
+descripcion: Bus day trip to Montanejos, with its thermal springs and turquoise pools set in the mountains of Castellón.
 slugs:
   es: excursion-montanejos-en-bus
   en: montanejos-by-bus-day-trip
@@ -14,7 +14,7 @@ idiomas:
 - es
 proveedor: bokun
 bokunProductId: 1031892
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -29,38 +29,38 @@ noIncluye:
 - Food and drink
 - Tips
 puntoEncuentro:
-  texto: 'The meeting point is in Valencia; the exact spot is given when your booking is confirmed.'
+  texto: The meeting point is in Valencia; the exact spot is given when your booking is confirmed.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
-opinionEditorial: "Montanejos is the perfect freshwater swimming plan: the pools stay mild all year and the mountain scenery is gorgeous. The bus option is the cheapest and most hassle-free."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+opinionEditorial: 'Montanejos is the perfect freshwater swimming plan: the pools stay mild all year and the mountain scenery is gorgeous. The bus option is the cheapest and most hassle-free.'
 categoria: excursionesDia
 keywords:
 - montanejos bus day trip
 - montanejos thermal springs
 - montanejos pools from valencia
-imagen: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp"
-imagenAlt: "The Fuente de los Baños pool in Montanejos"
+imagen: /images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp
+imagenAlt: The Fuente de los Baños pool in Montanejos
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
-  alt: "Waterfall at Montanejos"
+  alt: Waterfall at Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
-  alt: "Village of Montanejos among the mountains"
+  alt: Village of Montanejos among the mountains
 - src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
-  alt: "The Mijares river at Montanejos"
+  alt: The Mijares river at Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
-  alt: "Rock walls by the Fuente de los Baños"
+  alt: Rock walls by the Fuente de los Baños
 - src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
-  alt: "The Fuente de los Baños with its tile panel"
+  alt: The Fuente de los Baños with its tile panel
 - src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
-  alt: "Bathers in the Mijares river at Montanejos"
+  alt: Bathers in the Mijares river at Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
-  alt: "Montanejos church tower and square"
+  alt: Montanejos church tower and square
 - src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
-  alt: "Montanejos thermal town sign"
+  alt: Montanejos thermal town sign
 atraccionesRelacionadas:
-  - excursiones
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

@@ -66,8 +66,7 @@ opinionEditorial: 'Es para quien ya ha visto la Sagrada Familia y el Park Güell
 
 
   El precio es alto en pareja (desde unos 304 € por persona, con comida incluida) y baja a unos 207 € si sois 4. Ten en cuenta que no incluye el regreso al hotel.'
-atraccionesRelacionadas: []
-categoria: excursionesDia
+categoria: visitasGuiadas
 keywords:
 - gaudi desconocido barcelona
 - colonia guell cripta tour
@@ -98,6 +97,7 @@ galeria:
   alt: Fachada de azulejos verdes y rojos de la Casa Vicens
 bokunProductId: 426315
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

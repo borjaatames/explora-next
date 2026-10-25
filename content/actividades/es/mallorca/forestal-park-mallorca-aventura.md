@@ -74,7 +74,7 @@ guiasRelacionadas:
 - mallorca-con-ninos
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: aventura
 keywords:
 - forestal park mallorca
 - aventura en los arboles mallorca

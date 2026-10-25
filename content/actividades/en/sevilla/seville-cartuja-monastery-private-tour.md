@@ -90,6 +90,7 @@ galeria:
   alt: Bottle kilns of the old pottery factory
 bokunProductId: 933450
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

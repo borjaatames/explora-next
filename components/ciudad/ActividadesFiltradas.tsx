@@ -7,6 +7,7 @@ import type { ChipFiltro } from "@/lib/ciudades";
 import type { Idioma } from "@/lib/i18n/types";
 import type { ProveedorActividad } from "@/lib/afiliados";
 import SelloProveedor from "@/components/SelloProveedor";
+import { CLAVE_FILTRO_PRIVADOS } from "@/lib/filtrosActividades";
 
 /**
  * Datos serializables que el Server Component pasa al Client Component.
@@ -29,11 +30,13 @@ export type ActividadCardData = {
   /** Proveedor (viator / getyourguide) para el sello "Ofrecida por…". */
   proveedor: ProveedorActividad;
   /**
-   * Clave de categoría (visitasGuiadas, entradas, excursionesDia,
-   * espectaculos, toursGastronomicos, serviciosAdicionales, transporte).
+   * Clave de tipo de actividad (`CATEGORIAS_ACTIVIDAD` en lib/actividades.ts:
+   * visitasGuiadas, entradas, toursCiudad, excursionesDia…).
    * Se usa para el filtro lateral de categorías.
    */
   categoria: string;
+  /** Tour privado: lo recoge el botón «Privados» del filtro de tipos. */
+  privada: boolean;
   destacada: boolean;
 };
 
@@ -173,9 +176,14 @@ export default function ActividadesFiltradas({
         const pasaAtraccion =
           tagsActivos.length === 0 ||
           a.atraccionesRelacionadas.some((t) => tagsActivos.includes(t));
+        // «Privados» no es un tipo: se suma a los tipos elegidos (AND).
+        const soloPrivados = categoriasActivas.includes(CLAVE_FILTRO_PRIVADOS);
+        const tiposActivos = categoriasActivas.filter(
+          (c) => c !== CLAVE_FILTRO_PRIVADOS
+        );
         const pasaCategoria =
-          categoriasActivas.length === 0 ||
-          categoriasActivas.includes(a.categoria);
+          (tiposActivos.length === 0 || tiposActivos.includes(a.categoria)) &&
+          (!soloPrivados || a.privada);
         return pasaAtraccion && pasaCategoria;
       })
       .sort((a, b) => {

@@ -41,7 +41,7 @@ avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
 opinionEditorial: 'Gaudí''s two must-see works in half a day and skip-the-line, with a guide just for you and transfer between them: it''s the most comfortable way to see both, especially with family or if you''d rather not deal with transport or tickets.'
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private sagrada familia park guell tour
 - private gaudi tour barcelona
@@ -86,6 +86,8 @@ fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
 - sagrada-familia-which-ticket-to-choose
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

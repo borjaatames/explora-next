@@ -65,7 +65,6 @@ opinionEditorial: 'If you''re based in Córdoba and don''t want to overnight in 
 
 
   It''s a long day, about 8 hours. For two it''s about €376 per person; for four, about €205. Lunch is extra. No published reviews for this trip yet.'
-atraccionesRelacionadas: []
 categoria: excursionesDia
 keywords:
 - alhambra from cordoba
@@ -95,6 +94,7 @@ galeria:
   alt: The Alhambra at dusk from the Albaicín
 bokunProductId: 937821
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

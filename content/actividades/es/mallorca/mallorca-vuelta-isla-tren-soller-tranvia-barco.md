@@ -77,6 +77,7 @@ guiasRelacionadas:
 - serra-tramuntana-soller
 - que-ver-en-mallorca
 atraccionesRelacionadas:
+- soller-tramuntana
 - tramuntana
 categoria: excursionesDia
 keywords:
@@ -88,10 +89,10 @@ keywords:
 imagen: /images/actividades/mallorca/soller/tren-soller-estacion.webp
 imagenAlt: Tren de madera de Sóller parado en la estación
 galeria:
-- src: "/images/actividades/mallorca/soller/tranvia-soller-calle.webp"
-  alt: "Tranvía de Sóller circulando por una calle del pueblo"
-- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
-  alt: "Puerto de Sóller con barcas amarradas"
+- src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
+  alt: Tranvía de Sóller circulando por una calle del pueblo
+- src: /images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp
+  alt: Puerto de Sóller con barcas amarradas
 - src: /images/actividades/mallorca/soller/tranvia-soller-paseo.webp
   alt: Tranvía naranja de Sóller por el paseo de Port de Sóller
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp

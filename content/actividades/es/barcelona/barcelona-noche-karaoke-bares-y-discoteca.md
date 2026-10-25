@@ -65,7 +65,7 @@ opinionEditorial: 'Es un plan para salir en Barcelona sin conocer a nadie: karao
   Cuesta unos 14 € por persona, pero las bebidas van aparte. Es nuevo y aún no tiene opiniones. Si viajas solo y quieres salir acompañado, cumple.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - fiesta barcelona noche
 - karaoke barcelona

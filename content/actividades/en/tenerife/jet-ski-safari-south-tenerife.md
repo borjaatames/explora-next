@@ -72,7 +72,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s an easy way to try a jet ski without a licence and with a guide, along a pretty, uncrowded stretch of volcanic coast. Go for the full hour: in 40 minutes, once you take off the briefing and the ride back, it feels short. Not for non-swimmers or anyone who wants to ride independently.'
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - jet ski tenerife
 - jet ski south tenerife

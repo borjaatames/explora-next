@@ -2,7 +2,7 @@
 titulo: 'Puerto Rico de Gran Canaria: tour en moto de agua'
 slug: moto-de-agua-puerto-rico-gran-canaria
 ciudad: gran-canaria
-descripcion: 'Tour guiado en moto de agua de 30 a 60 minutos desde Puerto Rico por la costa suroeste de Gran Canaria, con monitor en barco de apoyo. 4,6/5 con 1.221 reseñas.'
+descripcion: Tour guiado en moto de agua de 30 a 60 minutos desde Puerto Rico por la costa suroeste de Gran Canaria, con monitor en barco de apoyo. 4,6/5 con 1.221 reseñas.
 slugs:
   es: moto-de-agua-puerto-rico-gran-canaria
   en: puerto-rico-gran-canaria-jet-ski-tour
@@ -34,7 +34,7 @@ noIncluye:
 - Comida y bebida
 - Propinas
 puntoEncuentro:
-  texto: 'Puerto Base de Puerto Rico de Gran Canaria, frente al restaurante Costa Mar, en la esquina del muelle comercial.'
+  texto: Puerto Base de Puerto Rico de Gran Canaria, frente al restaurante Costa Mar, en la esquina del muelle comercial.
   descripcionGuia: Busca la bandera amarilla con el logo de Gran Canaria Water Sport y el texto «moto de agua». Llega 15 minutos antes.
   latitud: 27.7824
   longitud: -15.7123
@@ -77,25 +77,25 @@ preguntasFrecuentes:
 opinionEditorial: 'Buena opción para probar la moto de agua con un monitor cerca y sin complicaciones. Lo importante es entender que el precio es por moto: compartida entre dos sale bastante más económica. Media hora sabe a poco; si te gusta la velocidad, mira la opción larga.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - moto de agua puerto rico gran canaria
 - moto de agua gran canaria
 - jet ski puerto rico
 - que hacer en puerto rico gran canaria
-imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
-imagenAlt: "Moto de agua sobre las olas"
+imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+imagenAlt: Moto de agua sobre las olas
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: Puerto deportivo de Puerto Rico de Gran Canaria, punto de salida del tour
-- src: "/images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp"
-  alt: "Barcos en el puerto deportivo de Puerto Rico"
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
+  alt: Barcos en el puerto deportivo de Puerto Rico
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Atardecer en el puerto de Puerto Rico de Gran Canaria
-- src: "/images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp"
-  alt: "Puerto de Puerto Rico de Gran Canaria visto desde lo alto"
-- src: "/images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp"
-  alt: "Bahía y puerto deportivo de Puerto Rico de Gran Canaria"
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: Puerto de Puerto Rico de Gran Canaria visto desde lo alto
+- src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
+  alt: Bahía y puerto deportivo de Puerto Rico de Gran Canaria
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

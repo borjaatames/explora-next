@@ -67,7 +67,7 @@ opinionEditorial: 'La forma más cómoda de ver tres de los pueblos blancos más
 atraccionesRelacionadas:
 - pueblos-blancos
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - pueblos blancos desde cadiz
 - excursion pueblos blancos privada
@@ -102,6 +102,8 @@ galeria:
   alt: Calle blanca con rejas en un pueblo de la sierra
 bokunProductId: 1028252
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

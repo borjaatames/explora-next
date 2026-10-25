@@ -104,6 +104,7 @@ galeria:
   alt: Churros with a cup of hot chocolate
 bokunProductId: 217557
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the route works

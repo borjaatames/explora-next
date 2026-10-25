@@ -2,7 +2,7 @@
 titulo: 'Puerto de Mogán: tour en submarino'
 slug: submarino-puerto-mogan
 ciudad: gran-canaria
-descripcion: "Inmersión de 40 minutos en submarino frente a Puerto de Mogán: pecios, peces y fondos volcánicos hasta 25 m, con audioguía en 9 idiomas. 4,4/5 (4.509 reseñas)."
+descripcion: 'Inmersión de 40 minutos en submarino frente a Puerto de Mogán: pecios, peces y fondos volcánicos hasta 25 m, con audioguía en 9 idiomas. 4,4/5 (4.509 reseñas).'
 slugs:
   es: submarino-puerto-mogan
   en: puerto-de-mogan-submarine-tour
@@ -33,7 +33,7 @@ incluye:
 noIncluye:
 - Traslado al puerto (la recogida gratuita desde el sur es según disponibilidad y hay que pedirla al proveedor)
 puntoEncuentro:
-  texto: 'Zona de embarque de Submarine Adventure, pantalán del Dique Sur, Puerto de Mogán.'
+  texto: Zona de embarque de Submarine Adventure, pantalán del Dique Sur, Puerto de Mogán.
   descripcionGuia: Canjea el cupón en la caseta de Submarine Adventure al menos 20 minutos antes de la salida; las puertas cierran 10 minutos antes y no se espera a nadie.
   latitud: 27.8159
   longitud: -15.7642
@@ -70,14 +70,14 @@ preguntasFrecuentes:
 opinionEditorial: 'Es una actividad pensada para quien no bucea: ves pecios y peces sin mojarte y en 40 minutos. La visibilidad depende del día y las ventanas se comparten, así que no esperes un documental, pero con niños funciona muy bien. Combínalo con un paseo por el puerto.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - submarino mogan
 - submarino puerto de mogan
 - submarine adventure gran canaria
 - que hacer en puerto de mogan
-imagen: "/images/actividades/gran-canaria/submarino-mogan/submarino-saliendo.webp"
-imagenAlt: "El submarino amarillo navegando frente a Puerto de Mogán"
+imagen: /images/actividades/gran-canaria/submarino-mogan/submarino-saliendo.webp
+imagenAlt: El submarino amarillo navegando frente a Puerto de Mogán
 galeria:
 - src: /images/actividades/gran-canaria/mogan/mogan-aerea.webp
   alt: Vista aérea de Puerto de Mogán con el dique sur, de donde sale el submarino
@@ -93,13 +93,14 @@ galeria:
   alt: Buganvillas en las casas de Puerto de Mogán
 - src: /images/actividades/gran-canaria/mogan/mogan-paseo.webp
   alt: Paseo junto al puerto de Mogán
-- src: "/images/actividades/gran-canaria/submarino-mogan/submarino-puerto.webp"
-  alt: "El submarino amarillo en el puerto de Mogán"
-- src: "/images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp"
-  alt: "El submarino amarillo de Mogán visto de cerca"
+- src: /images/actividades/gran-canaria/submarino-mogan/submarino-puerto.webp
+  alt: El submarino amarillo en el puerto de Mogán
+- src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
+  alt: El submarino amarillo de Mogán visto de cerca
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:
+- mogan
 - mar
 publicada: true
 destacada: false

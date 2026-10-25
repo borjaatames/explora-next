@@ -72,37 +72,37 @@ keywords:
 - observatorio teide entradas
 - visita observatorio izaña
 - telescopios teide
-imagen: "/images/actividades/tenerife/observatorio/observatorio-teide-01.webp"
-imagenAlt: "Observatorio del Teide en Izaña, con sus telescopios sobre la montaña"
+imagen: /images/actividades/tenerife/observatorio/observatorio-teide-01.webp
+imagenAlt: Observatorio del Teide en Izaña, con sus telescopios sobre la montaña
 galeria:
-  - src: "/images/actividades/tenerife/teide/teide-canadas.webp"
-    alt: "Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-02.webp"
-    alt: "Cúpulas blancas de los telescopios del Observatorio del Teide"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-03.webp"
-    alt: "Telescopios solares del Observatorio del Teide"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-04.webp"
-    alt: "Torre de un telescopio con el Teide al fondo"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-06.webp"
-    alt: "Entrada del Observatorio del Teide con las banderas"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-07.webp"
-    alt: "Telescopios del observatorio con el Teide detrás"
-  - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
-    alt: "Paisaje volcánico de las Cañadas del Teide al atardecer"
-  - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"
-    alt: "Las Cañadas del Teide"
-  - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
-    alt: "Atardecer sobre el mar de nubes"
-  - src: "/images/actividades/tenerife/teide/teide-mar-nubes.webp"
-    alt: "El Teide sobre el mar de nubes"
-  - src: "/images/actividades/tenerife/teide/teide-nevado.webp"
-    alt: "El Teide nevado"
-  - src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
-    alt: "Los Roques de García, junto al Observatorio"
-  - src: "/images/actividades/tenerife/estrellas/via-lactea-teide.webp"
-    alt: "La Vía Láctea sobre el Teide, cielo protegido desde 1988"
-  - src: "/images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp"
-    alt: "Cielo estrellado sobre los Roques de García"
+- src: /images/actividades/tenerife/teide/teide-canadas.webp
+  alt: Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-02.webp
+  alt: Cúpulas blancas de los telescopios del Observatorio del Teide
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-03.webp
+  alt: Telescopios solares del Observatorio del Teide
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-04.webp
+  alt: Torre de un telescopio con el Teide al fondo
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-06.webp
+  alt: Entrada del Observatorio del Teide con las banderas
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-07.webp
+  alt: Telescopios del observatorio con el Teide detrás
+- src: /images/actividades/tenerife/teide/canadas-lava.webp
+  alt: Paisaje volcánico de las Cañadas del Teide al atardecer
+- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
+  alt: Las Cañadas del Teide
+- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
+  alt: Atardecer sobre el mar de nubes
+- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
+  alt: El Teide sobre el mar de nubes
+- src: /images/actividades/tenerife/teide/teide-nevado.webp
+  alt: El Teide nevado
+- src: /images/actividades/tenerife/teide/roques-garcia-vista.webp
+  alt: Los Roques de García, junto al Observatorio
+- src: /images/actividades/tenerife/estrellas/via-lactea-teide.webp
+  alt: La Vía Láctea sobre el Teide, cielo protegido desde 1988
+- src: /images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp
+  alt: Cielo estrellado sobre los Roques de García
 ratingProveedor: 4.6
 numeroOpiniones: 918
 atraccionesRelacionadas:

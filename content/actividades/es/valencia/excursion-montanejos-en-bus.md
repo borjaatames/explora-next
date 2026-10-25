@@ -1,8 +1,8 @@
 ---
-titulo: "Excursión a Montanejos en bus"
+titulo: Excursión a Montanejos en bus
 slug: excursion-montanejos-en-bus
 ciudad: valencia
-descripcion: "Excursión en bus a Montanejos, con sus fuentes de aguas termales y pozas de color turquesa en plena montaña de Castellón."
+descripcion: Excursión en bus a Montanejos, con sus fuentes de aguas termales y pozas de color turquesa en plena montaña de Castellón.
 slugs:
   es: excursion-montanejos-en-bus
   en: montanejos-by-bus-day-trip
@@ -14,7 +14,7 @@ idiomas:
 - es
 proveedor: bokun
 bokunProductId: 1031892
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -29,38 +29,38 @@ noIncluye:
 - Comida y bebida
 - Propinas
 puntoEncuentro:
-  texto: 'El punto de encuentro está en Valencia; el lugar exacto se indica al confirmar la reserva.'
+  texto: El punto de encuentro está en Valencia; el lugar exacto se indica al confirmar la reserva.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
-opinionEditorial: "Montanejos es el plan perfecto de baño en agua dulce: las pozas mantienen una temperatura suave todo el año y el paisaje de montaña es precioso. La opción en bus es la más económica y sin complicaciones."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+opinionEditorial: 'Montanejos es el plan perfecto de baño en agua dulce: las pozas mantienen una temperatura suave todo el año y el paisaje de montaña es precioso. La opción en bus es la más económica y sin complicaciones.'
 categoria: excursionesDia
 keywords:
 - excursion montanejos en bus
 - fuentes termales montanejos
 - pozas montanejos desde valencia
-imagen: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp"
-imagenAlt: "Poza de la Fuente de los Baños en Montanejos"
+imagen: /images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp
+imagenAlt: Poza de la Fuente de los Baños en Montanejos
 galeria:
 - src: https://imgcdn.bokun.tools/ecb552c6-cdf4-481c-89db-f24fc08b6aa7.jpeg
-  alt: "Salto de agua en Montanejos"
+  alt: Salto de agua en Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
-  alt: "Pueblo de Montanejos entre montañas"
+  alt: Pueblo de Montanejos entre montañas
 - src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
-  alt: "El río Mijares a su paso por Montanejos"
+  alt: El río Mijares a su paso por Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
-  alt: "Paredes de roca junto a la Fuente de los Baños"
+  alt: Paredes de roca junto a la Fuente de los Baños
 - src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
-  alt: "Fuente de los Baños, con su panel de azulejos"
+  alt: Fuente de los Baños, con su panel de azulejos
 - src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
-  alt: "Bañistas en el río Mijares en Montanejos"
+  alt: Bañistas en el río Mijares en Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
-  alt: "Torre y plaza de la Iglesia de Montanejos"
+  alt: Torre y plaza de la Iglesia de Montanejos
 - src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
-  alt: "Cartel de Montanejos, villa termal"
+  alt: Cartel de Montanejos, villa termal
 atraccionesRelacionadas:
-  - excursiones
+- excursiones
 publicada: true
 destacada: false
 fecha: '2026-06-18'

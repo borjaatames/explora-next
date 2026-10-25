@@ -62,7 +62,7 @@ opinionEditorial: 'It''s a niche tour, and rightly so: Jewish Granada left few b
   For two it works out at €121 each; for four it falls to €65. It suits people who''ve already seen the Alhambra and want another layer of Granada''s history, or anyone interested in Sephardic heritage.'
 atraccionesRelacionadas:
 - otros-granada
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - jewish tour granada
 - sephardic granada
@@ -91,6 +91,7 @@ galeria:
   alt: Narrow street with lanterns in central Granada
 bokunProductId: 938167
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

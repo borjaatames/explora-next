@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es el parque mejor valorado de Tenerife y uno de los zoológicos más completos de Europa; los pingüinos y los loros son lo más espectacular. Los espectáculos con orcas y delfines generan debate: valora tú si quieres verlos.'
 guiasRelacionadas:
 - que-ver-en-tenerife
-categoria: entradas
+categoria: parques
 keywords:
 - loro parque entradas
 - loro parque tenerife
@@ -90,6 +90,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 14827
 atraccionesRelacionadas:
+- siam-loro
 - parques
 publicada: true
 destacada: false

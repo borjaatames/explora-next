@@ -65,9 +65,10 @@ opinionEditorial: 'Un buen tour de introducción al casco antiguo: tres horas po
 
   Al ser privado, compensa más en grupo: en pareja sale desde unos 75 € por persona y en grupo de 4, unos 48 €. Si buscas una comida completa, no es este tour: la tapa es solo una degustación.'
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
 - tapas-barcelona
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour privado barcelona casco antiguo
 - tour barrio gotico privado
@@ -108,6 +109,7 @@ galeria:
   alt: Callejón de piedra del casco antiguo de Barcelona
 bokunProductId: 217556
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## El recorrido

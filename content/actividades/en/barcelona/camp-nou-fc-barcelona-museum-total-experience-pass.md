@@ -91,6 +91,7 @@ opinionEditorial: 'FC Barcelona''s premium «Total Experience Pass» — 979 rev
 
   '
 atraccionesRelacionadas:
+- camp-nou
 - futbol
 categoria: entradas
 keywords:

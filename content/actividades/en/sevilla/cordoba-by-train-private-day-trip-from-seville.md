@@ -64,8 +64,9 @@ opinionEditorial: 'The train is the fastest way from Seville to Córdoba, under 
 
   For two it''s €432 in total, €216 each, much less than the private car trip. The one catch: it''s non-refundable, so book once your date is fixed.'
 atraccionesRelacionadas:
+- cordoba
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba by train from seville
 - cordoba day trip from seville by train
@@ -93,6 +94,8 @@ galeria:
   alt: Roman Bridge and Mosque of Córdoba at sunset
 bokunProductId: 793766
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

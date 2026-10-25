@@ -67,6 +67,7 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
+- ronda-pueblos-blancos
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -76,8 +77,8 @@ keywords:
 imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
 imagenAlt: Ronda's Puente Nuevo over the gorge
 galeria:
-- src: "/images/actividades/granada/ronda/ronda-pixabay-3372201.webp"
-  alt: "Puente Nuevo over the gorge in spring"
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: Puente Nuevo over the gorge in spring
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: Zahara de la Sierra with its castle and reservoir
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
@@ -85,7 +86,7 @@ galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
   alt: White villages in the Cádiz mountains
 - src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
-  alt: "The Ronda gorge seen from below"
+  alt: The Ronda gorge seen from below
 - src: https://imgcdn.bokun.tools/b62e81a0-0ab2-4b32-9bce-7c248cf36ac7.jpg
   alt: The White Villages of Cádiz
 - src: https://imgcdn.bokun.tools/01dc97d6-38e3-4a74-b35d-8908532caba9.jpg
@@ -94,6 +95,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
+privada: true
 ---
 
 ## What you'll see

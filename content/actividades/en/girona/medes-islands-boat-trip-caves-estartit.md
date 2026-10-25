@@ -75,7 +75,7 @@ guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 atraccionesRelacionadas:
 - costa-brava
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - medes islands boat trip
 - medes islands tour

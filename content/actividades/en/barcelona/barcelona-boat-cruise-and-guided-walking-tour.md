@@ -67,7 +67,7 @@ opinionEditorial: 'It combines two ways of seeing Barcelona in one afternoon: fi
 atraccionesRelacionadas:
 - barco
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - barcelona boat and walking tour
 - barcelona boat cruise tour

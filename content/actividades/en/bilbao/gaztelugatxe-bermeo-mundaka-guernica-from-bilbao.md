@@ -72,8 +72,6 @@ opinionEditorial: 'It''s the most complete day trip from Bilbao: Gaztelugatxe wi
 guiasRelacionadas:
 - day-trips-from-bilbao
 - bilbao-in-one-day
-atraccionesRelacionadas:
-- gaztelugatxe
 categoria: excursionesDia
 keywords:
 - gaztelugatxe tour from bilbao

@@ -2,11 +2,11 @@
 titulo: 'Las Palmas: Poema del Mar aquarium skip-the-line ticket'
 slug: poema-del-mar-aquarium-ticket
 ciudad: gran-canaria
-descripcion: "Skip-the-line ticket to the Poema del Mar aquarium in Las Palmas: 35 ecosystems, the huge curved window and the Arrecife cylinder. Rated 4.8/5 (4,610 reviews)."
+descripcion: 'Skip-the-line ticket to the Poema del Mar aquarium in Las Palmas: 35 ecosystems, the huge curved window and the Arrecife cylinder. Rated 4.8/5 (4,610 reviews).'
 slugs:
   es: poema-del-mar-entrada-sin-colas
   en: poema-del-mar-aquarium-ticket
-duracion: 'Ticket valid for 1 day'
+duracion: Ticket valid for 1 day
 precioDesde: 29
 moneda: EUR
 idiomas:
@@ -28,7 +28,7 @@ noIncluye:
 - Hotel pickup and drop-off
 - Food and drink
 puntoEncuentro:
-  texto: 'Poema del Mar ticket office, Muelle Sanapú, Las Palmas de Gran Canaria.'
+  texto: Poema del Mar ticket office, Muelle Sanapú, Las Palmas de Gran Canaria.
   descripcionGuia: Show your booking at the aquarium ticket office, where the skip-the-line ticket is exchanged. The aquarium is in the Las Palmas port area, on the Muelle Sanapú.
   latitud: 28.1448
   longitud: -15.4282
@@ -59,26 +59,26 @@ preguntasFrecuentes:
   respuesta: Under-3s go free. There's a child ticket for ages 3 to 11.
 - pregunta: Is transport included?
   respuesta: No. The aquarium is in Las Palmas; from the south of the island you can drive or take the "guagua" (intercity bus).
-opinionEditorial: "It's Gran Canaria's go-to plan for a cloudy or calima day, and the curved window onto the main tank is genuinely impressive. From the south it's about 50 km each way: make it worthwhile by pairing it with Vegueta or Las Canteras."
+opinionEditorial: 'It''s Gran Canaria''s go-to plan for a cloudy or calima day, and the curved window onto the main tank is genuinely impressive. From the south it''s about 50 km each way: make it worthwhile by pairing it with Vegueta or Las Canteras.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
-categoria: entradas
+categoria: parques
 keywords:
 - poema del mar tickets
 - las palmas aquarium
 - poema del mar gran canaria
 - gran canaria aquarium
-imagen: "/images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp"
-imagenAlt: "The large curved window at Poema del Mar aquarium"
+imagen: /images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp
+imagenAlt: The large curved window at Poema del Mar aquarium
 galeria:
-- src: "/images/actividades/gran-canaria/poema-del-mar/arrecife.webp"
-  alt: "Tropical fish on the reef at Poema del Mar"
-- src: "/images/actividades/gran-canaria/poema-del-mar/tunel.webp"
-  alt: "Underwater tunnel among fish at Poema del Mar"
-- src: "/images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp"
-  alt: "Sharks and rays above the Poema del Mar tunnel"
-- src: "/images/actividades/gran-canaria/poema-del-mar/la-jungla.webp"
-  alt: "Fish beneath the roots in the Jungle zone of Poema del Mar"
+- src: /images/actividades/gran-canaria/poema-del-mar/arrecife.webp
+  alt: Tropical fish on the reef at Poema del Mar
+- src: /images/actividades/gran-canaria/poema-del-mar/tunel.webp
+  alt: Underwater tunnel among fish at Poema del Mar
+- src: /images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp
+  alt: Sharks and rays above the Poema del Mar tunnel
+- src: /images/actividades/gran-canaria/poema-del-mar/la-jungla.webp
+  alt: Fish beneath the roots in the Jungle zone of Poema del Mar
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

@@ -68,7 +68,7 @@ preguntasFrecuentes:
 opinionEditorial: Walking up to Santa Bárbara Castle in summer is hard work; by tuk tuk you arrive fresh, with a guide and in private. A good choice for your first afternoon or with kids.
 guiasRelacionadas:
 - what-to-see-in-alicante
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - alicante tuk tuk
 - alicante tuk tuk tour
@@ -109,6 +109,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## What you will see

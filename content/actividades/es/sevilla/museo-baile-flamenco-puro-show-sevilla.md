@@ -2,9 +2,7 @@
 titulo: 'Sevilla: Puro Flamenco Show en el Museo del Baile Flamenco (Cristina Hoyos)'
 slug: museo-baile-flamenco-puro-show-sevilla
 ciudad: sevilla
-descripcion: Espectáculo de flamenco de 1 hora en el patio Ecija del s. XVIII del Museo del Baile Flamenco. Coreografías de
-  la legendaria CRISTINA HOYOS (fundadora del museo). 6.456 reseñas con 4,8/5. 6 artistas (3 bailaores + 2 cantaores + 1 guitarrista).
-  Opción combinada con ticket al museo. Pases 17:00, 19:00 y 20:45. Desde 33 €.
+descripcion: Espectáculo de flamenco de 1 hora en el patio Ecija del s. XVIII del Museo del Baile Flamenco. Coreografías de la legendaria CRISTINA HOYOS (fundadora del museo). 6.456 reseñas con 4,8/5. 6 artistas (3 bailaores + 2 cantaores + 1 guitarrista). Opción combinada con ticket al museo. Pases 17:00, 19:00 y 20:45. Desde 33 €.
 slugs:
   es: museo-baile-flamenco-puro-show-sevilla
   en: seville-puro-flamenco-show-dance-museum
@@ -22,8 +20,7 @@ horasCancelacion: 24
 highlights:
 - Coreografías de CRISTINA HOYOS — bailaora legendaria, icono nacional del flamenco español (fundadora del museo)
 - 6.456 reseñas con 4,8/5 — top rated en GetYourGuide
-- Patio Ecija del s. XVIII — uno de los pocos patios sevillanos originales que quedan, con sillas y naranjos «flotantes» en
-  el techo
+- Patio Ecija del s. XVIII — uno de los pocos patios sevillanos originales que quedan, con sillas y naranjos «flotantes» en el techo
 - 'Cuadro completo de 6 artistas: 3 bailaores/as + 2 cantaores/as + 1 guitarrista'
 - '3 pases diarios: 17:00, 19:00 y 20:45 — flexibilidad de horarios'
 - Opción COMBINADA con ticket al Museo del Baile Flamenco (visita 11:00-18:00)
@@ -41,14 +38,8 @@ noIncluye:
 - Transporte
 - Acceso al museo en la opción solo-show (es opcional por +6 €)
 puntoEncuentro:
-  texto: '**Calle Manuel Rojas Marcos 3** (41004 Sevilla, Barrio Santa Cruz). Acceso por la entrada principal del Museo del
-    Baile Flamenco. Si reservaste la opción combinada, el museo abre 11:00-18:00 — última entrada 18:00. Llega 15-20 min antes
-    del pase para asegurar buen asiento (los asientos no son numerados).'
-  descripcionGuia: 'Metro: Puerta de Jerez (línea 1, 8 min andando). Tranvía MetroCentro: Plaza Nueva (5 min andando). Autobús:
-    Avenida de la Constitución. El Museo está en pleno Barrio Santa Cruz, a 5 min de la Catedral. Llega 15-20 min antes del
-    pase para asegurar asiento — el patio Ecija tiene aforo limitado (~60-80 plazas) y los mejores sitios (centro patio, ángulo
-    perfecto para ver bailaores) se ocupan en orden de llegada. La hora indicada en tu ticket es la del SHOW — si reservaste
-    combinado, puedes visitar el museo antes (entre 11:00 y 18:00).'
+  texto: '**Calle Manuel Rojas Marcos 3** (41004 Sevilla, Barrio Santa Cruz). Acceso por la entrada principal del Museo del Baile Flamenco. Si reservaste la opción combinada, el museo abre 11:00-18:00 — última entrada 18:00. Llega 15-20 min antes del pase para asegurar buen asiento (los asientos no son numerados).'
+  descripcionGuia: 'Metro: Puerta de Jerez (línea 1, 8 min andando). Tranvía MetroCentro: Plaza Nueva (5 min andando). Autobús: Avenida de la Constitución. El Museo está en pleno Barrio Santa Cruz, a 5 min de la Catedral. Llega 15-20 min antes del pase para asegurar asiento — el patio Ecija tiene aforo limitado (~60-80 plazas) y los mejores sitios (centro patio, ángulo perfecto para ver bailaores) se ocupan en orden de llegada. La hora indicada en tu ticket es la del SHOW — si reservaste combinado, puedes visitar el museo antes (entre 11:00 y 18:00).'
   latitud: 37.3886
   longitud: -5.9897
   zoom: 17
@@ -69,94 +60,43 @@ informacionImportante:
   - Quien busque máxima intimidad de 2 filas (Casa de la Memoria es mejor — solo 30-50 plazas)
   - Quien necesite formato cubierto totalmente cerrado (este patio Ecija es semi-abierto)
   aTenerEnCuenta:
-  - '**Coreografías de Cristina Hoyos** — la fundadora es la icónica bailaora del filme «Flamenco» de Carlos Saura (1995).
-    El estilo del cuadro tiene su sello'
+  - '**Coreografías de Cristina Hoyos** — la fundadora es la icónica bailaora del filme «Flamenco» de Carlos Saura (1995). El estilo del cuadro tiene su sello'
   - El patio Ecija s. XVIII tiene **sillas y naranjos «flotantes»** en el techo — efecto visual único
   - Pases diarios a las **17:00, 19:00 y 20:45** — verifica disponibilidad al reservar
   - '**Foto y vídeo NO permitidos durante el show** — mantén el móvil en el bolsillo, formato inmersivo'
-  - Opción combinada con museo (+6 €) — el Museo del Baile Flamenco tiene 5 plantas con exposiciones permanentes sobre la
-    historia del flamenco
+  - Opción combinada con museo (+6 €) — el Museo del Baile Flamenco tiene 5 plantas con exposiciones permanentes sobre la historia del flamenco
   - Llega 15-20 min antes para asegurar buen asiento (no son numerados)
   - 'Aforo limitado del patio: ~60-80 plazas — reserva con antelación en julio-agosto y fines de semana'
-accesibilidad: 'El edificio histórico del Museo del Baile Flamenco tiene 5 plantas con escaleras tradicionales. El patio del
-  show está en planta baja con acceso a nivel, pero los pasillos previos pueden tener desniveles típicos de edificios sevillanos
-  del s. XVIII. NO marcado como totalmente accesible. Si tienes movilidad reducida, contacta al museo (954 34 03 11) para
-  confirmar viabilidad. Para flamenco accesible en silla de ruedas, mejor opción: Teatro Flamenco Sevilla.'
-politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos.
-  Llegadas tarde: el show comienza puntual; pasados 10 min puede no permitirse entrada (el formato inmersivo no admite interrupciones).
-  Cambios de fecha sujetos a disponibilidad.'
+accesibilidad: 'El edificio histórico del Museo del Baile Flamenco tiene 5 plantas con escaleras tradicionales. El patio del show está en planta baja con acceso a nivel, pero los pasillos previos pueden tener desniveles típicos de edificios sevillanos del s. XVIII. NO marcado como totalmente accesible. Si tienes movilidad reducida, contacta al museo (954 34 03 11) para confirmar viabilidad. Para flamenco accesible en silla de ruedas, mejor opción: Teatro Flamenco Sevilla.'
+politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Llegadas tarde: el show comienza puntual; pasados 10 min puede no permitirse entrada (el formato inmersivo no admite interrupciones). Cambios de fecha sujetos a disponibilidad.'
 preguntasFrecuentes:
 - pregunta: ¿Quién es Cristina Hoyos y por qué importa?
-  respuesta: '**Cristina Hoyos** (Sevilla, 1946) es una de las bailaoras más importantes del flamenco español del siglo XX.
-    Bailó como pareja de **Antonio Gades** durante 19 años en los grandes ballets nacionales españoles. Protagonizó tres películas
-    icónicas de **Carlos Saura**: «Bodas de Sangre» (1981), «Carmen» (1983) y «El amor brujo» (1986) — el llamado «trilogía
-    flamenca» que llevó el flamenco al cine internacional. **Fundó el Museo del Baile Flamenco en 2006** como espacio dedicado
-    a preservar y mostrar la historia y técnicas del flamenco. Las coreografías del show «Puro Flamenco» llevan su sello —
-    son piezas elaboradas por ella o su equipo, con calidad artística característica. Para entendidos del flamenco, ver un
-    show con coreografía Hoyos es un plus reconocido.'
+  respuesta: '**Cristina Hoyos** (Sevilla, 1946) es una de las bailaoras más importantes del flamenco español del siglo XX. Bailó como pareja de **Antonio Gades** durante 19 años en los grandes ballets nacionales españoles. Protagonizó tres películas icónicas de **Carlos Saura**: «Bodas de Sangre» (1981), «Carmen» (1983) y «El amor brujo» (1986) — el llamado «trilogía flamenca» que llevó el flamenco al cine internacional. **Fundó el Museo del Baile Flamenco en 2006** como espacio dedicado a preservar y mostrar la historia y técnicas del flamenco. Las coreografías del show «Puro Flamenco» llevan su sello — son piezas elaboradas por ella o su equipo, con calidad artística característica. Para entendidos del flamenco, ver un show con coreografía Hoyos es un plus reconocido.'
 - pregunta: ¿Vale la pena la opción combinada con el museo (+6 €)?
-  respuesta: 'Depende de tu interés en la historia del flamenco. **El Museo del Baile Flamenco** tiene 5 plantas: planta baja
-    con la entrada y la tienda; primera con la exposición «Bailar es soñar» (artículos personales de bailaoras icónicas);
-    segunda con sala interactiva sobre los palos del flamenco (alegrías, soleá, bulerías, etc.); tercera con sala dedicada
-    a Cristina Hoyos y Antonio Gades; cuarta con sala de proyecciones y exposiciones temporales; quinta con terraza con vistas
-    al barrio. Si estás 1 día en Sevilla y solo te interesa el show, la opción solo-show (33 €) es suficiente. Si tienes 2-3
-    días y te interesa la cultura flamenca, la combinada (+6 €) vale la pena — el museo es **«Lugar de Interés Turístico de
-    Andalucía»**, único venue flamenco con esta distinción.'
+  respuesta: 'Depende de tu interés en la historia del flamenco. **El Museo del Baile Flamenco** tiene 5 plantas: planta baja con la entrada y la tienda; primera con la exposición «Bailar es soñar» (artículos personales de bailaoras icónicas); segunda con sala interactiva sobre los palos del flamenco (alegrías, soleá, bulerías, etc.); tercera con sala dedicada a Cristina Hoyos y Antonio Gades; cuarta con sala de proyecciones y exposiciones temporales; quinta con terraza con vistas al barrio. Si estás 1 día en Sevilla y solo te interesa el show, la opción solo-show (33 €) es suficiente. Si tienes 2-3 días y te interesa la cultura flamenca, la combinada (+6 €) vale la pena — el museo es **«Lugar de Interés Turístico de Andalucía»**, único venue flamenco con esta distinción.'
 - pregunta: ¿Cuál es la diferencia con Casa de la Memoria y los otros 3 grandes?
-  respuesta: '**Museo del Baile Flamenco (este):** Patio Ecija s.XVIII + sello Cristina Hoyos, calidad artística icónica,
-    6.456 reseñas 4,8/5, desde 33 €. RECOMENDADO si valoras calidad artística + figura de Cristina Hoyos. **Casa de la Memoria:**
-    Patio s. XVI + solo 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 24 €. RECOMENDADO si valoras estar a 2-3 m de
-    los artistas. **Teatro Flamenco Sevilla:** Teatro grande, máximo volumen (18.292 reseñas), asientos cómodos escalonados,
-    desde 25 €. RECOMENDADO si quieres lo más reservado + confort. **Teatro Flamenco Triana:** Teatro en Triana (barrio gitano
-    histórico), 4.363 reseñas 4,7/5, desde 25 €. RECOMENDADO si quieres el ambiente de Triana. **Tablao El Arenal:** Edificio
-    s.XVII junto Maestranza, 50 años de historia, opción cena, desde 45 €. RECOMENDADO si quieres tradición + cena.'
+  respuesta: '**Museo del Baile Flamenco (este):** Patio Ecija s.XVIII + sello Cristina Hoyos, calidad artística icónica, 6.456 reseñas 4,8/5, desde 33 €. RECOMENDADO si valoras calidad artística + figura de Cristina Hoyos. **Casa de la Memoria:** Patio s. XVI + solo 2 filas, MAXIMUM INTIMIDAD, 13.526 reseñas 4,8/5, desde 24 €. RECOMENDADO si valoras estar a 2-3 m de los artistas. **Teatro Flamenco Sevilla:** Teatro grande, máximo volumen (18.292 reseñas), asientos cómodos escalonados, desde 25 €. RECOMENDADO si quieres lo más reservado + confort. **Teatro Flamenco Triana:** Teatro en Triana (barrio gitano histórico), 4.363 reseñas 4,7/5, desde 25 €. RECOMENDADO si quieres el ambiente de Triana. **Tablao El Arenal:** Edificio s.XVII junto Maestranza, 50 años de historia, opción cena, desde 45 €. RECOMENDADO si quieres tradición + cena.'
 - pregunta: ¿Qué son los palos del flamenco y cuáles veré?
-  respuesta: 'Los **palos** son los distintos «géneros» o estilos del flamenco — cada uno con su compás, melodía y carácter
-    emocional. Los más habituales en shows turísticos: **Alegrías** (festero, alegre, ritmo 12/8); **Soleá** (solemne, profundo,
-    ritmo 12/8 lento); **Bulerías** (ágil, festivo, ritmo 12/8 rápido); **Tangos** (sensual, ritmo 4/4); **Fandangos** (variable
-    según región); **Seguiriyas** (trágico, profundo). El programa del Museo del Baile Flamenco varía cada noche — el cuadro
-    de 6 artistas (3 bailaores + 2 cantaores + 1 guitarrista) ejecuta una selección de palos pensada para mostrar la variedad
-    del flamenco. Si estás 2-3 días en Sevilla y ves 2 shows distintos (Museo + Casa de la Memoria), notarás cómo los palos
-    varían según el cuadro y el venue.'
+  respuesta: 'Los **palos** son los distintos «géneros» o estilos del flamenco — cada uno con su compás, melodía y carácter emocional. Los más habituales en shows turísticos: **Alegrías** (festero, alegre, ritmo 12/8); **Soleá** (solemne, profundo, ritmo 12/8 lento); **Bulerías** (ágil, festivo, ritmo 12/8 rápido); **Tangos** (sensual, ritmo 4/4); **Fandangos** (variable según región); **Seguiriyas** (trágico, profundo). El programa del Museo del Baile Flamenco varía cada noche — el cuadro de 6 artistas (3 bailaores + 2 cantaores + 1 guitarrista) ejecuta una selección de palos pensada para mostrar la variedad del flamenco. Si estás 2-3 días en Sevilla y ves 2 shows distintos (Museo + Casa de la Memoria), notarás cómo los palos varían según el cuadro y el venue.'
 - pregunta: ¿Por qué no se permiten fotos durante el show?
-  respuesta: Es una decisión del Museo del Baile Flamenco para **mantener la inmersión** del público. Sin distracciones de
-    smartphones encendidos, la audiencia se conecta más profundamente con los artistas; los bailaores y cantaores aprecian
-    la energía concentrada sin las pantallas brillantes en la oscuridad. Es una política diferente al Teatro Flamenco Sevilla
-    (donde se permiten fotos sin flash) — refleja la filosofía «show puro» del museo. Si la fotografía es importante para
-    ti, considera Teatro Flamenco Sevilla. Si quieres una experiencia totalmente inmersiva, este formato es mejor.
+  respuesta: Es una decisión del Museo del Baile Flamenco para **mantener la inmersión** del público. Sin distracciones de smartphones encendidos, la audiencia se conecta más profundamente con los artistas; los bailaores y cantaores aprecian la energía concentrada sin las pantallas brillantes en la oscuridad. Es una política diferente al Teatro Flamenco Sevilla (donde se permiten fotos sin flash) — refleja la filosofía «show puro» del museo. Si la fotografía es importante para ti, considera Teatro Flamenco Sevilla. Si quieres una experiencia totalmente inmersiva, este formato es mejor.
 variantes:
 - nombre: Solo Show
   descripcion: Espectáculo Puro Flamenco de 1 hora. Sin acceso al museo.
   precio: 33
 - nombre: Show + Museo
-  descripcion: Espectáculo Puro Flamenco + acceso al Museo del Baile Flamenco (5 plantas con exposiciones, accesible 11:00-18:00
-    mismo día).
+  descripcion: Espectáculo Puro Flamenco + acceso al Museo del Baile Flamenco (5 plantas con exposiciones, accesible 11:00-18:00 mismo día).
   precio: 39
-opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseñas con 4,8/5 lo posicionan como una de las experiencias
-  flamencas premium de Sevilla. El factor diferencial es la **coreografía y dirección artística** de Cristina Hoyos, la bailaora
-  protagonista de las películas «Bodas de Sangre», «Carmen» y «El amor brujo» de Carlos Saura — un ícono del flamenco español
-  del s. XX que fundó el museo en 2006. Los 6 artistas del cuadro (3 bailaores + 2 cantaores + 1 guitarrista) trabajan con
-  coreografías elaboradas por ella o su equipo, lo que da calidad artística característica.
+opinionEditorial: 'El **flamenco con sello de Cristina Hoyos** — 6.456 reseñas con 4,8/5 lo posicionan como una de las experiencias flamencas premium de Sevilla. El factor diferencial es la **coreografía y dirección artística** de Cristina Hoyos, la bailaora protagonista de las películas «Bodas de Sangre», «Carmen» y «El amor brujo» de Carlos Saura — un ícono del flamenco español del s. XX que fundó el museo en 2006. Los 6 artistas del cuadro (3 bailaores + 2 cantaores + 1 guitarrista) trabajan con coreografías elaboradas por ella o su equipo, lo que da calidad artística característica.
 
 
-  **Comparación de precios:** desde 33 € es **el segundo más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco
-  Triana 25 €, Casa de la Memoria 24 €, Teatro Flamenco Sevilla 25 €, Tablao El Arenal 45 €). El plus de 9 € sobre
-  Casa de la Memoria compra: coreografía Hoyos + patio Ecija s.XVIII + opción combinada con museo (+6 €). La opción combinada
-  con museo (+6 € = 39 € total) es la mejor relación si tienes 2-3 días en Sevilla y te interesa la cultura flamenca a fondo.
+  **Comparación de precios:** desde 33 € es **el segundo más caro** de los 5 grandes flamencos de Sevilla (vs. Teatro Flamenco Triana 25 €, Casa de la Memoria 24 €, Teatro Flamenco Sevilla 25 €, Tablao El Arenal 45 €). El plus de 9 € sobre Casa de la Memoria compra: coreografía Hoyos + patio Ecija s.XVIII + opción combinada con museo (+6 €). La opción combinada con museo (+6 € = 39 € total) es la mejor relación si tienes 2-3 días en Sevilla y te interesa la cultura flamenca a fondo.
 
 
-  **Tres puntos clave a entender:** **(1)** Está declarado «Lugar de Interés Turístico de Andalucía» por la Junta — **único
-  venue flamenco con esta distinción**, lo que respalda su calidad cultural. **(2)** Foto y vídeo NO permitidos durante el
-  show — filosofía «inmersión total». Si la fotografía es importante para ti, Teatro Flamenco Sevilla es mejor. **(3)** El
-  edificio histórico no está marcado totalmente accesible — usuarios estrictos de silla mejor Teatro Flamenco Sevilla.
+  **Tres puntos clave a entender:** **(1)** Está declarado «Lugar de Interés Turístico de Andalucía» por la Junta — **único venue flamenco con esta distinción**, lo que respalda su calidad cultural. **(2)** Foto y vídeo NO permitidos durante el show — filosofía «inmersión total». Si la fotografía es importante para ti, Teatro Flamenco Sevilla es mejor. **(3)** El edificio histórico no está marcado totalmente accesible — usuarios estrictos de silla mejor Teatro Flamenco Sevilla.
 
 
-  **Para quién es:** interesados en la **calidad artística icónica** (sello Cristina Hoyos), entendidos del flamenco que valoren
-  coreografía elaborada, viajeros con 2-3 días en Sevilla que quieran combinar show + museo, parejas que prefieran ambiente
-  cuidado en patio histórico, visitantes que valoren formato inmersivo sin distracciones de smartphones. **Para quién NO:**
-  quien quiera intimidad máxima a 2-3 m del artista (Casa de la Memoria es mejor — solo 2 filas), quien busque lo más reservado
-  + asequible (Teatro Flamenco Sevilla con 18.292 reseñas a 25 €), quien quiera ambiente de barrio gitano histórico (Teatro
-  Flamenco Triana), quien valore poder hacer fotos (no permitidas aquí), usuarios estrictos de silla de ruedas.
+  **Para quién es:** interesados en la **calidad artística icónica** (sello Cristina Hoyos), entendidos del flamenco que valoren coreografía elaborada, viajeros con 2-3 días en Sevilla que quieran combinar show + museo, parejas que prefieran ambiente cuidado en patio histórico, visitantes que valoren formato inmersivo sin distracciones de smartphones. **Para quién NO:** quien quiera intimidad máxima a 2-3 m del artista (Casa de la Memoria es mejor — solo 2 filas), quien busque lo más reservado + asequible (Teatro Flamenco Sevilla con 18.292 reseñas a 25 €), quien quiera ambiente de barrio gitano histórico (Teatro Flamenco Triana), quien valore poder hacer fotos (no permitidas aquí), usuarios estrictos de silla de ruedas.
 
   '
 atraccionesRelacionadas:
@@ -168,23 +108,23 @@ keywords:
 - puro flamenco show sevilla
 - patio ecija flamenco
 - show flamenco patio andaluz sevilla
-imagen: "/images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-espectaculo-bailaora-rojo.webp"
-imagenAlt: "Bailaora de rojo en el espectáculo del Museo del Baile Flamenco"
+imagen: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-espectaculo-bailaora-rojo.webp
+imagenAlt: Bailaora de rojo en el espectáculo del Museo del Baile Flamenco
 galeria:
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-bailaora-publico.webp
-  alt: "Bailaora junto al público en la sala del museo"
+  alt: Bailaora junto al público en la sala del museo
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-patio-escenario.webp
-  alt: "Patio del Museo del Baile Flamenco preparado para el espectáculo"
+  alt: Patio del Museo del Baile Flamenco preparado para el espectáculo
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-cuadro-flamenco-arcos.webp
-  alt: "Cuadro flamenco bajo los arcos de ladrillo del museo"
+  alt: Cuadro flamenco bajo los arcos de ladrillo del museo
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-boveda-bailaora.webp
-  alt: "Bailaora en la sala de bóveda del museo"
+  alt: Bailaora en la sala de bóveda del museo
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-bailaor-luz-azul.webp
-  alt: "Bailaor con luz azul en el escenario del museo"
+  alt: Bailaor con luz azul en el escenario del museo
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-sala-boveda-publico.webp
-  alt: "Espectáculo en la sala de bóveda con el público"
+  alt: Espectáculo en la sala de bóveda con el público
 - src: /images/actividades/sevilla/museo-baile-flamenco/museo-baile-flamenco-sala-trajes.webp
-  alt: "Sala de trajes flamencos del museo"
+  alt: Sala de trajes flamencos del museo
 ratingProveedor: 4.8
 numeroOpiniones: 6456
 publicada: true
@@ -192,7 +132,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-sevilla-que-tablao-elegir"
+- flamenco-sevilla-que-tablao-elegir
 ---
 
 ## Qué vas a ver

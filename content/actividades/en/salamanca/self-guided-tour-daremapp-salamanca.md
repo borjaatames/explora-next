@@ -52,7 +52,7 @@ detallesPracticos:
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
 opinionEditorial: 'This is the right pick if you want to explore Salamanca on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided tour salamanca
 - salamanca audio tour
@@ -75,6 +75,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg
   alt: DaremApp app with the self-guided route
 atraccionesRelacionadas:
+- plaza-mayor
 - casco-historico
 publicada: true
 destacada: false

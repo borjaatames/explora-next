@@ -1,8 +1,8 @@
 ---
-titulo: "Seville Self-Guided Audio Tour – DareMapp App"
+titulo: Seville Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-sevilla
 ciudad: sevilla
-descripcion: "Explore Seville at your own pace with the DareMapp self-guided audio tour: the Giralda, Torre del Oro and Triana. No guide, available 24/7, in 6 languages."
+descripcion: 'Explore Seville at your own pace with the DareMapp self-guided audio tour: the Giralda, Torre del Oro and Triana. No guide, available 24/7, in 6 languages.'
 slugs:
   es: tour-autoguiado-daremapp-sevilla
   en: self-guided-tour-daremapp-sevilla
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1136834
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Seville at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover the Giralda, the Plaza de España steps, Triana Bridge and the Torre del Oro, plus more than 20 points of interest in total
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Seville"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Seville'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,32 +50,34 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Seville on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Seville on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - self-guided tour seville
 - seville audio tour
 - seville self-guided app tour
-imagen: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp"
-imagenAlt: "Rowing boats on the Plaza de España canal"
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
+imagenAlt: Rowing boats on the Plaza de España canal
 galeria:
-- src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp"
-  alt: "Fachada de la Real Maestranza de Sevilla"
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
+  alt: Fachada de la Real Maestranza de Sevilla
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: "Seville Cathedral façade among palm trees"
+  alt: Seville Cathedral façade among palm trees
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: "Plaza de España reflected in the canal"
+  alt: Plaza de España reflected in the canal
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: "Las Setas at La Encarnación, a few minutes' walk away"
+  alt: Las Setas at La Encarnación, a few minutes' walk away
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: "Tower and bridge in Plaza de España"
+  alt: Tower and bridge in Plaza de España
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: "Plaza de España arcade with its tiled benches"
+  alt: Plaza de España arcade with its tiled benches
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'

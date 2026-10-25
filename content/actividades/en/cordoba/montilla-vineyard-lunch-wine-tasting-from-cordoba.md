@@ -58,7 +58,6 @@ opinionEditorial: 'A half-day escape from Córdoba to eat well: a family winery 
 
 
   For two it''s expensive, about €397 per person; for four it halves to about €198. No published reviews yet.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - montilla winery tour from cordoba
@@ -88,6 +87,7 @@ galeria:
   alt: Winemaker showing a bottle of his wine in the vineyard
 bokunProductId: 937794
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the day works

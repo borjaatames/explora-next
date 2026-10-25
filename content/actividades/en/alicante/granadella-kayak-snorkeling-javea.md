@@ -66,7 +66,7 @@ preguntasFrecuentes:
 opinionEditorial: 'One of the best mornings at sea on the Costa Blanca: cliffs, caves and see-through water. Worth the trip from Alicante.'
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante
-categoria: excursionesDia
+categoria: agua
 keywords:
 - granadella kayak
 - javea kayak tour

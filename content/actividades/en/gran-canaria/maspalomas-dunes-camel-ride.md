@@ -69,7 +69,7 @@ opinionEditorial: It's short and touristy, but cheap and very well run, and the 
 guiasRelacionadas:
 - maspalomas-dunes-guide
 - what-to-see-in-gran-canaria
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - maspalomas camel ride
 - camels maspalomas dunes
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 5263
 atraccionesRelacionadas:
+- maspalomas
 - dunas
 publicada: true
 destacada: false

@@ -47,7 +47,7 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - Cierra los lunes
-  - 'Entrada gratuita los miércoles y domingos de 15:00 a 18:00 (octubre-marzo) o de 15:00 a 19:00 (abril-septiembre) para ciudadanos de la UE, residentes con permiso de trabajo e iberoamericanos, con acreditación; esas entradas solo se sacan en taquilla'
+  - Entrada gratuita los miércoles y domingos de 15:00 a 18:00 (octubre-marzo) o de 15:00 a 19:00 (abril-septiembre) para ciudadanos de la UE, residentes con permiso de trabajo e iberoamericanos, con acreditación; esas entradas solo se sacan en taquilla
   - 'La taquilla y el acceso cierran 1 h 15 min antes: a las 16:45 en invierno y a las 17:45 en verano'
   - El recorrido oficial es de un solo sentido y dura unas 2 horas
 accesibilidad: Accesible en su mayor parte; el Panteón de Reyes tiene escaleras.
@@ -72,37 +72,38 @@ keywords:
 imagen: /images/actividades/madrid/escorial/monasterio-del-escorial-facade-monastery-san-lorenzo-spain-hero.webp
 imagenAlt: Fachada principal del Monasterio de El Escorial
 galeria:
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp"
-    alt: "Biblioteca del Monasterio de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp"
-    alt: "Jardines de los Frailes y fachada sur"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp"
-    alt: "Fachada de la basílica en el Patio de los Reyes"
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp"
-    alt: "Altar mayor de la basílica de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp"
-    alt: Fachada del Monasterio de El Escorial bajo un cielo tormentoso
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-alegoria-geometria-biblioteca-real-hero.webp"
-    alt: "Fresco de la Biblioteca Real de El Escorial"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp"
-    alt: "Llamador de la puerta principal del monasterio"
-  - src: "/images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp"
-    alt: Vista del conjunto del Monasterio de El Escorial bajo cielo despejado
-  - src: "/images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp"
-    alt: "Entrada al Panteón de los Reyes de El Escorial"
-  - src: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
-    alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
-  - src: /images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp
-    alt: "Cripta real bajo la basílica de El Escorial"
-  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp
-    alt: "Vista aérea del Monasterio de El Escorial"
-  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-view-from-north-west-hero.webp
-    alt: "El Escorial visto desde el noroeste"
-  - src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp
-    alt: "Estatua del rey David en la fachada de la basílica"
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
+  alt: Biblioteca del Monasterio de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
+  alt: Jardines de los Frailes y fachada sur
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
+  alt: Fachada de la basílica en el Patio de los Reyes
+- src: /images/actividades/madrid/escorial/monasterio-escorial-altar-basilica-hero.webp
+  alt: Altar mayor de la basílica de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-explore-majestic-monastery-spain-hero.webp
+  alt: Fachada del Monasterio de El Escorial bajo un cielo tormentoso
+- src: /images/actividades/madrid/escorial/monasterio-escorial-alegoria-geometria-biblioteca-real-hero.webp
+  alt: Fresco de la Biblioteca Real de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero.webp
+  alt: Llamador de la puerta principal del monasterio
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-view-monastery-madrid-hero.webp
+  alt: Vista del conjunto del Monasterio de El Escorial bajo cielo despejado
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp
+  alt: Entrada al Panteón de los Reyes de El Escorial
+- src: /images/actividades/madrid/escorial/escorial-tour-01.webp
+  alt: Fachada del Real Monasterio de San Lorenzo de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-escorial-altar-cripta-real-hero.webp
+  alt: Cripta real bajo la basílica de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-stunning-aerial-view-monastery-hero.webp
+  alt: Vista aérea del Monasterio de El Escorial
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-view-from-north-west-hero.webp
+  alt: El Escorial visto desde el noroeste
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-statue-king-david-san-lorenzo-spain-hero.webp
+  alt: Estatua del rey David en la fachada de la basílica
 ratingProveedor: 4.5
 numeroOpiniones: 312
 atraccionesRelacionadas:
+- escorial
 - excursiones-desde-madrid
 publicada: true
 destacada: false

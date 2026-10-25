@@ -56,28 +56,28 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; carg
 opinionEditorial: Funciona muy bien para combinar el Bilbao clásico (Casco Viejo, palacios, catedral) con el Guggenheim sin depender de horarios de visita guiada. Con +15 puntos de interés es un recorrido de nivel medio, ni tan corto como Girona ni tan extenso como Barcelona. Recomendable para quien prefiere moverse a su aire y hacer sus propias fotos con calma.
 atraccionesRelacionadas:
 - casco-viejo
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour autoguiado bilbao
 - audioguía app bilbao
 - visita autoguiada bilbao
-imagen: "/images/actividades/bilbao/guggenheim/maman-puente.webp"
-imagenAlt: "El Guggenheim con el arco rojo del puente de La Salve"
+imagen: /images/actividades/bilbao/guggenheim/maman-puente.webp
+imagenAlt: El Guggenheim con el arco rojo del puente de La Salve
 galeria:
-- src: "/images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp"
-  alt: "Puente sobre la ria y arquitectura historica de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+  alt: Puente sobre la ria y arquitectura historica de Bilbao
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: "Bilbao desde el monte Artxanda"
+  alt: Bilbao desde el monte Artxanda
 - src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: "Mamá, la araña gigante de Louise Bourgeois"
+  alt: Mamá, la araña gigante de Louise Bourgeois
 - src: /images/actividades/bilbao/ria/zubizuri.webp
-  alt: "Puente Zubizuri sobre la ría"
+  alt: Puente Zubizuri sobre la ría
 - src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
-  alt: "Detalle de las flores del Puppy de Jeff Koons"
+  alt: Detalle de las flores del Puppy de Jeff Koons
 - src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
-  alt: "El Guggenheim iluminado de noche"
+  alt: El Guggenheim iluminado de noche
 - src: https://imgcdn.bokun.tools/42cd9fe9-7276-455a-8263-b6c7f78eb157.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'

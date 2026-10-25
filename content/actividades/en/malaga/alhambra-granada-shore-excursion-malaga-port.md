@@ -65,6 +65,7 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
+- granada-alhambra
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -74,8 +75,8 @@ keywords:
 imagen: /images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp
 imagenAlt: The Alhambra in Granada
 galeria:
-- src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp"
-  alt: "Generalife gardens at the Alhambra of Granada"
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp
+  alt: Generalife gardens at the Alhambra of Granada
 - src: https://imgcdn.bokun.tools/898ed821-0bcf-47a8-bd40-2558d5719b40.jpg
   alt: The Alhambra with snow-capped Sierra Nevada behind
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
@@ -83,7 +84,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/8669dd55-61b9-4d40-9e8a-c51dbeeb37f2.jpg
   alt: Walls of the Alhambra's Alcazaba
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: "Generalife's Patio de la Acequia with its pool and fountains"
+  alt: Generalife's Patio de la Acequia with its pool and fountains
 - src: https://imgcdn.bokun.tools/57ac0575-dfd7-4d43-9161-4d86f38aae35.jpg
   alt: Aerial view of the Palace of Charles V in the Alhambra
 - src: https://imgcdn.bokun.tools/d7b93b38-c6d1-4692-b5c7-96bfed7adba4.jpg

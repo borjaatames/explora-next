@@ -58,8 +58,9 @@ opinionEditorial: 'It''s a relaxed, different kind of walk: gardens instead of m
 
   For two it''s €132 each; with four it drops to €73. I''d suggest it to anyone who''s seen the centre and wants a morning or afternoon outdoors with someone explaining the story of the landscape.'
 atraccionesRelacionadas:
+- plaza-espana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - seville gardens tour
 - maria luisa park guided tour
@@ -85,6 +86,7 @@ galeria:
   alt: Callejón del Agua in the Santa Cruz quarter
 bokunProductId: 949550
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

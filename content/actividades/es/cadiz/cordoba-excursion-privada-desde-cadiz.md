@@ -67,7 +67,7 @@ opinionEditorial: 'Córdoba queda lejos de Cádiz, unas dos horas y media de coc
   Es un día largo y caro: desde unos 780 € por grupo en la versión de 8 horas. Si puedes, elige la de 10: el tiempo libre extra se agradece. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba desde cadiz
 - excursion cordoba desde cadiz
@@ -94,6 +94,8 @@ galeria:
   alt: Viajeros en un patio con macetas azules
 bokunProductId: 1237810
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

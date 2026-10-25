@@ -52,12 +52,9 @@ atracciones:
     imagen: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
     imagenAlt: "Peguera bay on the south-west coast of Mallorca"
 chipsFiltros:
-  - { label: "Palma and cathedral", tag: "palma" }
+  - { label: "Palma & Cathedral", tag: "palma" }
   - { label: "Caves of Drach", tag: "cuevas-drach" }
-  - { label: "Tramuntana and Sóller", tag: "tramuntana" }
-  - { label: "Coves and boat trips", tag: "calas-playas" }
-  - { label: "Parks and family fun", tag: "parques" }
-  - { label: "Food and wine", tag: "gastronomia" }
+  - { label: "Sóller & Tramuntana", tag: "soller-tramuntana" }
 ---
 
 Mallorca is the largest of the Balearic Islands and one of the great Mediterranean destinations, with the vibrant city of **Palma** as its capital —just over 400,000 people. It's far more than sun and sand: it blends dream coves with a mountain range declared a World Heritage Site.

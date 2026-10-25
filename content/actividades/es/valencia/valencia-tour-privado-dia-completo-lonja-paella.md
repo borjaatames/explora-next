@@ -69,8 +69,9 @@ opinionEditorial: 'Es Valencia entera en un día y sin pensar en nada: los monum
   Es una actividad nueva, sin opiniones aún, y no es barata: desde unos 207 € por persona en pareja, con comida incluida; unos 153 € si sois 4.'
 atraccionesRelacionadas:
 - centro-historico
+- ciudad-artes
 - gastronomia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour valencia dia completo
 - tour privado valencia paella
@@ -109,6 +110,7 @@ galeria:
   alt: Grupo comiendo paella en un restaurante
 bokunProductId: 967813
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## El recorrido

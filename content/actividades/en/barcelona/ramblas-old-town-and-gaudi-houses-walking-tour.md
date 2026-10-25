@@ -1,140 +1,137 @@
 ---
-titulo: "Barcelona: Ramblas, Old Town & Gaudí Houses Walking Tour (Top Rated)"
-slug: "ramblas-old-town-and-gaudi-houses-walking-tour"
-ciudad: "barcelona"
-descripcion: "Top Rated 2.5-hour walking tour covering Barcelona's Old Town (Gothic Quarter) AND the «Gaudí Strip» of Passeig de Gràcia in a single visit. 271 reviews at 4.8/5. Operator: Nostos Tours. English-only live guide (no Spanish — see Spanish-language alternatives in the FAQ)."
-
+titulo: 'Barcelona: Ramblas, Old Town & Gaudí Houses Walking Tour (Top Rated)'
+slug: ramblas-old-town-and-gaudi-houses-walking-tour
+ciudad: barcelona
+descripcion: 'Top Rated 2.5-hour walking tour covering Barcelona''s Old Town (Gothic Quarter) AND the «Gaudí Strip» of Passeig de Gràcia in a single visit. 271 reviews at 4.8/5. Operator: Nostos Tours. English-only live guide (no Spanish — see Spanish-language alternatives in the FAQ).'
 slugs:
-  en: "ramblas-old-town-and-gaudi-houses-walking-tour"
-
-duracion: "2.5 hours"
+  en: ramblas-old-town-and-gaudi-houses-walking-tour
+duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 38
-moneda: "EUR"
-idiomas: ["en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/barcelona-ramblas-old-town-gaudi-houses-walking-tour-t448358/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
+moneda: EUR
+idiomas:
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-ramblas-old-town-gaudi-houses-walking-tour-t448358/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Top Rated — 271 reviews at 4.8/5"
-  - "Covers TWO different areas in 2.5 hours: Gothic Quarter + Gaudí Strip (Passeig de Gràcia)"
-  - "Includes public transportation tickets (use of metro/bus during the tour)"
-  - "Wheelchair accessible (the operator confirms — though parts of the Gothic Quarter have cobblestones)"
-  - "Small group format available"
-  - "Operator Nostos Tours — long-established with strong reviews"
-
+- Top Rated — 271 reviews at 4.8/5
+- 'Covers TWO different areas in 2.5 hours: Gothic Quarter + Gaudí Strip (Passeig de Gràcia)'
+- Includes public transportation tickets (use of metro/bus during the tour)
+- Wheelchair accessible (the operator confirms — though parts of the Gothic Quarter have cobblestones)
+- Small group format available
+- Operator Nostos Tours — long-established with strong reviews
 incluye:
-  - "Walking tour of Old Town (Gothic Quarter) + Gaudí Strip (Passeig de Gràcia)"
-  - "Local guide (English only)"
-  - "Headset rental (€1 onsite if needed) and public transportation tickets"
-  - "Small group or private group options"
-
+- Walking tour of Old Town (Gothic Quarter) + Gaudí Strip (Passeig de Gràcia)
+- Local guide (English only)
+- Headset rental (€1 onsite if needed) and public transportation tickets
+- Small group or private group options
 noIncluye:
-  - "Spanish-speaking guide (this product is ENGLISH ONLY — see Spanish alternatives in FAQ)"
-  - "Food and drinks (other than what's noted)"
-  - "Entry tickets to the Cathedral interior, Casa Batlló, or Casa Milà (exteriors only)"
-  - "Hotel pickup"
-  - "Tips (optional)"
-
+- Spanish-speaking guide (this product is ENGLISH ONLY — see Spanish alternatives in FAQ)
+- Food and drinks (other than what's noted)
+- Entry tickets to the Cathedral interior, Casa Batlló, or Casa Milà (exteriors only)
+- Hotel pickup
+- Tips (optional)
 puntoEncuentro:
-  texto: "Meeting point on the sidewalk in front of the Foot Locker on Plaça de Catalunya. Your guide will have a white umbrella. Arrive 10-15 min early."
-  descripcionGuia: "Plaça de Catalunya — the city's central square. Metro: Catalunya (L1/L3, direct exit). Train: R1, R3, R4 stop at Catalunya station. Airport Aerobús terminates here. The tour starts walking through the Old Town/Gothic Quarter and then uses public transportation to reach Passeig de Gràcia (the «Gaudí Strip» where Casa Batlló and Casa Milà are visible from the street). You'll need either a valid public transportation ticket or buy one from the guide for €2 onsite. The Gaudí houses are visited FROM THE OUTSIDE — interiors are not included."
-  latitud: 41.3870
+  texto: Meeting point on the sidewalk in front of the Foot Locker on Plaça de Catalunya. Your guide will have a white umbrella. Arrive 10-15 min early.
+  descripcionGuia: 'Plaça de Catalunya — the city''s central square. Metro: Catalunya (L1/L3, direct exit). Train: R1, R3, R4 stop at Catalunya station. Airport Aerobús terminates here. The tour starts walking through the Old Town/Gothic Quarter and then uses public transportation to reach Passeig de Gràcia (the «Gaudí Strip» where Casa Batlló and Casa Milà are visible from the street). You''ll need either a valid public transportation ticket or buy one from the guide for €2 onsite. The Gaudí houses are visited FROM THE OUTSIDE — interiors are not included.'
+  latitud: 41.387
   longitud: 2.1701
   zoom: 15
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Comfortable shoes (2.5 hours of walking, partly on cobblestones)"
-    - "Charged smartphone (mobile voucher required)"
-    - "Public transportation ticket (or buy from guide for €2 onsite)"
-    - "Headset rental optional (€1 onsite)"
-    - "Light jacket (the Gothic Quarter is shaded; Passeig de Gràcia is open)"
+  - Comfortable shoes (2.5 hours of walking, partly on cobblestones)
+  - Charged smartphone (mobile voucher required)
+  - Public transportation ticket (or buy from guide for €2 onsite)
+  - Headset rental optional (€1 onsite)
+  - Light jacket (the Gothic Quarter is shaded; Passeig de Gràcia is open)
   noAptoPara:
-    - "Travellers needing a Spanish-language guide (this product is ENGLISH ONLY — book t61664 for Spanish)"
-    - "Strict self-paced visitors (this is a guided group)"
-    - "Travellers expecting Casa Batlló or Casa Milà INTERIOR (only exteriors are shown here)"
+  - Travellers needing a Spanish-language guide (this product is ENGLISH ONLY — book t61664 for Spanish)
+  - Strict self-paced visitors (this is a guided group)
+  - Travellers expecting Casa Batlló or Casa Milà INTERIOR (only exteriors are shown here)
   aTenerEnCuenta:
-    - "**LANGUAGE: This product is ENGLISH ONLY**. Spanish-speaking travellers should book t61664 (Old Town & Gothic Quarter Walking Tour, EN+ES) instead — same operator quality, smaller route (Gothic Quarter only)"
-    - "The tour takes place rain or shine — bring an umbrella in autumn/winter"
-    - "Free cancellation up to 24 hours before"
-    - "Public transportation ticket required: bring your own or buy €2 from the guide"
-    - "Headset rental optional — €1 onsite for noisy areas (La Rambla, La Boqueria)"
-    - "Children under 2 join for free"
-
-accesibilidad: "Operator confirms wheelchair accessible, but realistic note: the Gothic Quarter portion has cobblestone medieval streets that lack curb cuts. The Passeig de Gràcia portion (where Gaudí houses are) is fully accessible. Travellers with mobility impairments who can manage some uneven surfaces typically do well; strict wheelchair users may find Gothic Quarter parts challenging. If full wheelchair access matters, choose a tour that stays in the modern grid (Eixample) only."
-
-politicaCancelacion: "FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late arrivals: considered no-shows. Tour runs rain or shine."
-
+  - '**LANGUAGE: This product is ENGLISH ONLY**. Spanish-speaking travellers should book t61664 (Old Town & Gothic Quarter Walking Tour, EN+ES) instead — same operator quality, smaller route (Gothic Quarter only)'
+  - The tour takes place rain or shine — bring an umbrella in autumn/winter
+  - Free cancellation up to 24 hours before
+  - 'Public transportation ticket required: bring your own or buy €2 from the guide'
+  - Headset rental optional — €1 onsite for noisy areas (La Rambla, La Boqueria)
+  - Children under 2 join for free
+accesibilidad: 'Operator confirms wheelchair accessible, but realistic note: the Gothic Quarter portion has cobblestone medieval streets that lack curb cuts. The Passeig de Gràcia portion (where Gaudí houses are) is fully accessible. Travellers with mobility impairments who can manage some uneven surfaces typically do well; strict wheelchair users may find Gothic Quarter parts challenging. If full wheelchair access matters, choose a tour that stays in the modern grid (Eixample) only.'
+politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late arrivals: considered no-shows. Tour runs rain or shine.'
 preguntasFrecuentes:
-  - pregunta: "Why is there no Spanish guide on this product?"
-    respuesta: "Nostos Tours configures this specific 2.5-hour combo tour with English-only guide. For Spanish-speaking travellers, two strong alternatives exist on this site: (1) `old-town-and-gothic-quarter-walking-tour` (GYG t61664, In Out Barcelona Tours, English + Spanish, 1,582 reviews at 4.8/5, €20 — covers the Gothic Quarter only, doesn't include Passeig de Gràcia / Gaudí Strip), or (2) for Gaudí houses specifically with Spanish narration, book the individual house tours like Casa Batlló or Casa Milà (audio guides in Spanish are included in their entry tickets)."
-  - pregunta: "Are Casa Batlló and Casa Milà included?"
-    respuesta: "ONLY THE EXTERIORS — you walk past them on Passeig de Gràcia and your guide explains the architecture, but you do NOT enter either house. To enter Casa Batlló, book `casa-batllo-entry-with-self-audioguide-tour` (~€34 with audio guide); for Casa Milà, book `casa-mila-la-pedrera-audio-ticket` (€25 official). Many travellers do this walking tour in the morning and then enter one of the Gaudí houses in the afternoon."
-  - pregunta: "What's the difference vs. t61664 (Old Town & Gothic Quarter Walking Tour)?"
-    respuesta: "Three differences: (1) ROUTE — t448358 covers Gothic Quarter + Passeig de Gràcia (Gaudí Strip) using public transport between them; t61664 stays in the Gothic Quarter only. (2) LANGUAGE — t448358 is ENGLISH ONLY; t61664 offers English + Spanish. (3) PRICE — t448358 is ~€38 (more ground covered, longer); t61664 is ~€20 (Gothic Quarter only). Choose t448358 if you want a city-overview that includes Gaudí; choose t61664 if you want Gothic Quarter depth OR Spanish guide."
-  - pregunta: "Is the headset rental worth it?"
-    respuesta: "Yes, especially on La Rambla and inside La Boqueria market — ambient noise can drown out the guide. €1 onsite is a small investment for a 2.5-hour tour. The headsets are wireless and compatible with most hearing aid systems."
+- pregunta: Why is there no Spanish guide on this product?
+  respuesta: 'Nostos Tours configures this specific 2.5-hour combo tour with English-only guide. For Spanish-speaking travellers, two strong alternatives exist on this site: (1) `old-town-and-gothic-quarter-walking-tour` (GYG t61664, In Out Barcelona Tours, English + Spanish, 1,582 reviews at 4.8/5, €20 — covers the Gothic Quarter only, doesn''t include Passeig de Gràcia / Gaudí Strip), or (2) for Gaudí houses specifically with Spanish narration, book the individual house tours like Casa Batlló or Casa Milà (audio guides in Spanish are included in their entry tickets).'
+- pregunta: Are Casa Batlló and Casa Milà included?
+  respuesta: ONLY THE EXTERIORS — you walk past them on Passeig de Gràcia and your guide explains the architecture, but you do NOT enter either house. To enter Casa Batlló, book `casa-batllo-entry-with-self-audioguide-tour` (~€34 with audio guide); for Casa Milà, book `casa-mila-la-pedrera-audio-ticket` (€25 official). Many travellers do this walking tour in the morning and then enter one of the Gaudí houses in the afternoon.
+- pregunta: What's the difference vs. t61664 (Old Town & Gothic Quarter Walking Tour)?
+  respuesta: 'Three differences: (1) ROUTE — t448358 covers Gothic Quarter + Passeig de Gràcia (Gaudí Strip) using public transport between them; t61664 stays in the Gothic Quarter only. (2) LANGUAGE — t448358 is ENGLISH ONLY; t61664 offers English + Spanish. (3) PRICE — t448358 is ~€38 (more ground covered, longer); t61664 is ~€20 (Gothic Quarter only). Choose t448358 if you want a city-overview that includes Gaudí; choose t61664 if you want Gothic Quarter depth OR Spanish guide.'
+- pregunta: Is the headset rental worth it?
+  respuesta: Yes, especially on La Rambla and inside La Boqueria market — ambient noise can drown out the guide. €1 onsite is a small investment for a 2.5-hour tour. The headsets are wireless and compatible with most hearing aid systems.
+variantes:
+- old-town-and-gothic-quarter-walking-tour
+- picasso-walking-tour-and-guided-museum-experience
+opinionEditorial: 'The "two birds, one stone" walking tour for Barcelona — 271 reviews at 4.8/5 ("Top Rated"), operated by Nostos Tours. The format covers both the Gothic Quarter (Old Town) AND the Passeig de Gràcia "Gaudí Strip" (where Casa Batlló and Casa Milà sit) in a single 2.5-hour tour, using public transportation between the two zones. The recurring positive sentiment focuses on the contrast experience (medieval Old Town → modernist Eixample in one tour), the guide''s depth on both periods, and the operator''s reliability. The recurring complaint is the pace — 2.5 hours is tight to cover two distant areas; some reviewers wish it had been 3 hours.
 
-variantes: ["old-town-and-gothic-quarter-walking-tour", "picasso-walking-tour-and-guided-museum-experience"]
-
-opinionEditorial: |
-  The "two birds, one stone" walking tour for Barcelona — 271 reviews at 4.8/5 ("Top Rated"), operated by Nostos Tours. The format covers both the Gothic Quarter (Old Town) AND the Passeig de Gràcia "Gaudí Strip" (where Casa Batlló and Casa Milà sit) in a single 2.5-hour tour, using public transportation between the two zones. The recurring positive sentiment focuses on the contrast experience (medieval Old Town → modernist Eixample in one tour), the guide's depth on both periods, and the operator's reliability. The recurring complaint is the pace — 2.5 hours is tight to cover two distant areas; some reviewers wish it had been 3 hours.
 
   **Language note: this product is ENGLISH ONLY** — no Spanish-speaking guide is available. For Spanish-speaking visitors, the equivalent (smaller-route) Spanish-language alternative is t61664 «Old Town & Gothic Quarter Walking Tour» (In Out Barcelona Tours, English + Spanish, 1,582 reviews at 4.8/5, ~€20). Travellers who want both areas + Spanish guide should book t61664 for the Gothic Quarter and visit Casa Batlló / Casa Milà with their respective Spanish audio guides separately.
 
-  **Price comparison:** there is no "official price" for a walking tour combining Gothic Quarter + Passeig de Gràcia (it's a public urban combination). At ~€38, this product is fair for the format — includes a small-group guide, headsets, public transportation tickets (€2 covered by the tour), and the combined route. A do-it-yourself version would cost less but lose the guide's narrative.
+
+  **Price comparison:** there is no "official price" for a walking tour combining Gothic Quarter + Passeig de Gràcia (it''s a public urban combination). At ~€38, this product is fair for the format — includes a small-group guide, headsets, public transportation tickets (€2 covered by the tour), and the combined route. A do-it-yourself version would cost less but lose the guide''s narrative.
+
 
   Two operational notes: **(1)** Casa Batlló and Casa Milà are seen from the EXTERIOR only — interiors not included. Book entry tickets separately if you want interiors. **(2)** Wheelchair accessibility is operator-confirmed but realistic: the Gothic Quarter cobblestones may challenge strict wheelchair users.
 
-  Who it's for: English-speaking visitors with limited time who want both medieval Barcelona AND Gaudí highlights in one tour, first-time visitors wanting a city overview, travellers who plan to enter Casa Batlló or Casa Milà later (this tour gives context), and anyone wanting a "top rated" operator with social proof. Who it's NOT for: Spanish-speaking travellers (book t61664 instead), travellers expecting Gaudí house interiors (book those separately), and visitors with strict wheelchair needs (cobblestones).
 
+  Who it''s for: English-speaking visitors with limited time who want both medieval Barcelona AND Gaudí highlights in one tour, first-time visitors wanting a city overview, travellers who plan to enter Casa Batlló or Casa Milà later (this tour gives context), and anyone wanting a "top rated" operator with social proof. Who it''s NOT for: Spanish-speaking travellers (book t61664 instead), travellers expecting Gaudí house interiors (book those separately), and visitors with strict wheelchair needs (cobblestones).
+
+  '
 atraccionesRelacionadas:
+- gotico
+- casa-batllo-pedrera
 - barrio-gotico
-categoria: visitasGuiadas
-keywords: ["barcelona ramblas walking tour", "old town gaudi walking tour barcelona", "barcelona top rated walking tour", "passeig de gracia walking tour", "barcelona gothic quarter english tour"]
-
-imagen: "/images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp"
-imagenAlt: "Walkers on the wave-patterned pavement of La Rambla"
-
+categoria: toursCiudad
+keywords:
+- barcelona ramblas walking tour
+- old town gaudi walking tour barcelona
+- barcelona top rated walking tour
+- passeig de gracia walking tour
+- barcelona gothic quarter english tour
+imagen: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
+imagenAlt: Walkers on the wave-patterned pavement of La Rambla
 galeria:
-  - src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
-    alt: "Barcelona Old Town Gothic Quarter route and Passeig de Gracia Gaudi houses"
-  - src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
-    alt: "Tree-lined La Rambla with café terraces"
-  - src: "/images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp"
-    alt: "Modernista balcony with a La Rambla sign"
-  - src: "/images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp"
-    alt: "Ornate street lamps under the plane trees of La Rambla"
-  - src: "/images/actividades/barcelona/rambla/rambla-pixabay-325901.webp"
-    alt: "Living statue performer on La Rambla"
-  - src: "/images/actividades/barcelona/rambla/rambla-pixabay-242042.webp"
-    alt: "La Rambla street sign on a stone wall"
-  - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp"
-    alt: "Bone-like balconies and stained glass of Casa Batlló"
-  - src: "/images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp"
-    alt: "Undulating stone façade of Casa Milà, La Pedrera"
-  - src: "/images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp"
-    alt: "Pont del Bisbe, the Gothic bridge over Carrer del Bisbe"
-  - src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-03.webp"
-    alt: "Main façade of Barcelona Cathedral"
-
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Barcelona Old Town Gothic Quarter route and Passeig de Gracia Gaudi houses
+- src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
+  alt: Tree-lined La Rambla with café terraces
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
+  alt: Modernista balcony with a La Rambla sign
+- src: /images/actividades/barcelona/rambla/rambla-wikimedia-barcelona-la-rambla-03-jpg-05.webp
+  alt: Ornate street lamps under the plane trees of La Rambla
+- src: /images/actividades/barcelona/rambla/rambla-pixabay-325901.webp
+  alt: Living statue performer on La Rambla
+- src: /images/actividades/barcelona/rambla/rambla-pixabay-242042.webp
+  alt: La Rambla street sign on a stone wall
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
+  alt: Bone-like balconies and stained glass of Casa Batlló
+- src: /images/actividades/barcelona/casa-mila/casa-mila-barcelona-passeig-gracia-pedrera-hero.webp
+  alt: Undulating stone façade of Casa Milà, La Pedrera
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: Pont del Bisbe, the Gothic bridge over Carrer del Bisbe
+- src: /images/actividades/barcelona/wikimedia/barcelona-catedral-03.webp
+  alt: Main façade of Barcelona Cathedral
 ratingProveedor: 4.8
 numeroOpiniones: 271
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-05-17'
 ---
 
 ## What you'll see

@@ -50,11 +50,8 @@ atracciones:
     imagenAlt: "San Juan de Gaztelugatxe mit seiner Treppe über dem Meer"
 chipsFiltros:
   - { label: "Guggenheim", tag: "guggenheim" }
-  - { label: "Baskische Küste", tag: "gaztelugatxe" }
-  - { label: "Pintxos und Kochen", tag: "gastronomia" }
-  - { label: "Bootsfahrt auf der Ría", tag: "ria-miradores" }
-  - { label: "San Mamés", tag: "futbol" }
   - { label: "Altstadt", tag: "casco-viejo" }
+  - { label: "San Sebastián", tag: "san-sebastian" }
 ---
 
 Bilbao ist die Hauptstadt Biskayas und die größte Stadt des Baskenlandes – rund 345.000 Einwohner in der Gemeinde, knapp eine Million im Großraum. Ihre jüngere Geschichte ist die des 'Guggenheim-Effekts': Aus einer Industriestadt im Niedergang wurde eine **weltweite Ikone für Design und Kultur**.

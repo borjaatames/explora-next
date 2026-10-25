@@ -49,7 +49,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: Un free tour hace una ruta parecida por mucho menos dinero; lo que paga esta versión es tener al guía para tu grupo, empezar en tu hotel y poder preguntar todo lo que quieras. Compensa sobre todo en familia o en grupo. Mínimo 2 personas por reserva.
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour privado madrid a pie
 - guía privado madrid
@@ -57,8 +57,8 @@ keywords:
 imagen: https://imgcdn.bokun.tools/578aa48b-6b63-4aa0-b09b-f4b141ed3870.jpg
 imagenAlt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
 galeria:
-- src: "/images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp"
-  alt: "Calle de la Cava Baja en el barrio de La Latina, Madrid"
+- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
+  alt: Calle de la Cava Baja en el barrio de La Latina, Madrid
 - src: https://imgcdn.bokun.tools/b47a7ec9-e3f9-462a-878a-65c06c2d23b4.jpg
   alt: Plaza de la Villa en el Madrid de los Austrias
 - src: https://imgcdn.bokun.tools/9da2c1c2-a4a9-4bb4-b5a9-d103259a1995.jpg
@@ -75,6 +75,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+privada: true
 ---
 
 ## Qué vas a ver

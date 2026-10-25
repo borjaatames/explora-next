@@ -6,7 +6,7 @@ descripcion: 'Entrada de 1 día a Aqualand Maspalomas, el mayor parque acuático
 slugs:
   es: aqualand-maspalomas-entrada
   en: aqualand-maspalomas-ticket
-duracion: 'Entrada válida 1 día'
+duracion: Entrada válida 1 día
 precioDesde: 41
 moneda: EUR
 idiomas:
@@ -32,7 +32,7 @@ noIncluye:
 - Tumbonas, sombrillas, taquillas y pases rápidos
 - Experiencia con leones marinos
 puntoEncuentro:
-  texto: 'Puerta de control de tickets de Aqualand Maspalomas, carretera de Palmitos Park, Maspalomas.'
+  texto: Puerta de control de tickets de Aqualand Maspalomas, carretera de Palmitos Park, Maspalomas.
   descripcionGuia: Entra directamente por la puerta de control de tickets con la reserva en el móvil. El parque está en el interior de Maspalomas, en la carretera que sube a Palmitos Park; hay aparcamiento por 5 € al día.
   latitud: 27.7789
   longitud: -15.6045
@@ -70,15 +70,15 @@ opinionEditorial: 'Es el parque acuático grande del sur y a los niños les enca
 guiasRelacionadas:
 - que-ver-en-gran-canaria
 - dunas-de-maspalomas
-categoria: entradas
+categoria: parques
 keywords:
 - aqualand maspalomas
 - aqualand maspalomas entradas
 - parque acuatico gran canaria
 - toboganes maspalomas
-imagen: "/images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp"
-imagenAlt: "Toboganes y piscina de Aqualand Maspalomas"
-galeria:
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
+imagenAlt: Toboganes y piscina de Aqualand Maspalomas
+galeria: null
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

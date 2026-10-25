@@ -67,9 +67,10 @@ opinionEditorial: 'Valencia es plana y tiene un parque de nueve kilómetros que 
 
   Es una actividad nueva, sin opiniones aún. Con bici normal sale desde unos 83 € por persona en pareja y unos 54 € en grupo de 4.'
 atraccionesRelacionadas:
-- ciudad-artes-ciencias
 - centro-historico
-categoria: visitasGuiadas
+- ciudad-artes
+- ciudad-artes-ciencias
+categoria: toursCiudad
 keywords:
 - tour en bici valencia
 - tour privado bicicleta valencia
@@ -98,6 +99,7 @@ galeria:
   alt: Ciclista ante las Torres de Serranos
 bokunProductId: 910128
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

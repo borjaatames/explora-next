@@ -2,9 +2,7 @@
 titulo: 'Barcelona: Tablao Flamenco Cordobés — Dinner and Show on Las Ramblas (Top Awarded)'
 slug: tablao-flamenco-cordobes-dinner-show-las-ramblas
 ciudad: barcelona
-descripcion: 'Flamenco show with optional dinner at Tablao Cordobés, Barcelona''s historic tablao on Las Ramblas, founded
-  in 1970. 4,617 reviews at 4.6/5. «Top Awarded» and «Certified by GetYourGuide». 1h 20min show without microphones. Languages:
-  Spanish and English. Wheelchair accessible.'
+descripcion: 'Flamenco show with optional dinner at Tablao Cordobés, Barcelona''s historic tablao on Las Ramblas, founded in 1970. 4,617 reviews at 4.6/5. «Top Awarded» and «Certified by GetYourGuide». 1h 20min show without microphones. Languages: Spanish and English. Wheelchair accessible.'
 slugs:
   es: tablao-flamenco-cordobes-cena-show-las-ramblas
   en: tablao-flamenco-cordobes-dinner-show-las-ramblas
@@ -39,13 +37,8 @@ noIncluye:
 - Hotel pickup or transport
 - DVD with top performers (available for purchase)
 puntoEncuentro:
-  texto: Start your activity at Tablao Flamenco Cordobés, located at Las Ramblas 33-35, between Liceu (L3) and Drassanes (L3)
-    metro stations. Entry is from Las Ramblas — there is an entrance hall identified with the tablao logo.
-  descripcionGuia: 'Metro: Liceu (L3, 200 m) or Drassanes (L3, 250 m). Local train: Catalunya station (8-10 min walk down
-    Las Ramblas). Bus: V13 (stop La Rambla - Plaça del Teatre) or 59 (same stop). Bicing: station 55 (La Rambla 80). From
-    the airport: Aerobús terminates at Plaça de Catalunya — 10 min walk down Las Ramblas from there. Arrive 15 min early;
-    the ticket is valid up to 15 min after the booked time (later = non-refundable no-show). Seats are assigned in order of
-    reservation; dinner reservations get preferred seating.'
+  texto: Start your activity at Tablao Flamenco Cordobés, located at Las Ramblas 33-35, between Liceu (L3) and Drassanes (L3) metro stations. Entry is from Las Ramblas — there is an entrance hall identified with the tablao logo.
+  descripcionGuia: 'Metro: Liceu (L3, 200 m) or Drassanes (L3, 250 m). Local train: Catalunya station (8-10 min walk down Las Ramblas). Bus: V13 (stop La Rambla - Plaça del Teatre) or 59 (same stop). Bicing: station 55 (La Rambla 80). From the airport: Aerobús terminates at Plaça de Catalunya — 10 min walk down Las Ramblas from there. Arrive 15 min early; the ticket is valid up to 15 min after the booked time (later = non-refundable no-show). Seats are assigned in order of reservation; dinner reservations get preferred seating.'
   latitud: 41.3812
   longitud: 2.1736
   zoom: 17
@@ -71,39 +64,19 @@ informacionImportante:
   - Spanish Tasting Buffet (€84) includes 40+ tapas + unlimited drinks (wine, beer, sangria, cava, soft drinks, coffee)
   - Smoking and pets are not allowed
   - Multiple daily sessions — typically 4:30 PM (tapas), 6:00 PM (dinner), 7:30 PM (dinner), 9:00 PM (dinner), 10:30 PM (drink)
-accesibilidad: Wheelchair accessible (manual) — the tablao has level access from Las Ramblas and an adapted toilet. Electric
-  wheelchairs are NOT permitted. The show is WITHOUT MICROPHONES, so people with hearing impairments are advised to book seats
-  close to the stage (dinner reservations have preferred allocation).
-politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late
-  arrivals (more than 15 min after the booked time): considered no-shows and NOT refundable. Date changes subject to availability.'
+accesibilidad: Wheelchair accessible (manual) — the tablao has level access from Las Ramblas and an adapted toilet. Electric wheelchairs are NOT permitted. The show is WITHOUT MICROPHONES, so people with hearing impairments are advised to book seats close to the stage (dinner reservations have preferred allocation).
+politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late arrivals (more than 15 min after the booked time): considered no-shows and NOT refundable. Date changes subject to availability.'
 preguntasFrecuentes:
 - pregunta: What language is the show in?
-  respuesta: Flamenco is music and dance — the vocals are ALWAYS sung in Andalusian Spanish (it's the original language of
-    flamenco). There is no guided narration. The tablao staff speaks Spanish and English to assist you (reception, table seating,
-    dinner service). The show itself is understandable to any audience without translation — emotion, footwork and guitar
-    are universal. The page is available in EN and ES because editorial content varies depending on visitor language.
+  respuesta: Flamenco is music and dance — the vocals are ALWAYS sung in Andalusian Spanish (it's the original language of flamenco). There is no guided narration. The tablao staff speaks Spanish and English to assist you (reception, table seating, dinner service). The show itself is understandable to any audience without translation — emotion, footwork and guitar are universal. The page is available in EN and ES because editorial content varies depending on visitor language.
 - pregunta: How much does each option cost (show only, tapas, dinner)?
-  respuesta: 'Official Cordobés website prices: SHOW + DRINK ONLY €48 · TAPAS + SHOW €21 + €48 = €69 · SPANISH TASTING BUFFET
-    (40+ unlimited tapas, unlimited wine/beer/sangria/cava) + SHOW €36 + €48 = €84 · RESTAURANT MENU (premium tapas served
-    + dessert + coffee + unlimited drinks) + SHOW €41 + €48 = €89. Dinner is served in an Alhambra-style restaurant BEFORE
-    the show, allowing an immersive flamenco experience without service distractions.'
+  respuesta: 'Official Cordobés website prices: SHOW + DRINK ONLY €48 · TAPAS + SHOW €21 + €48 = €69 · SPANISH TASTING BUFFET (40+ unlimited tapas, unlimited wine/beer/sangria/cava) + SHOW €36 + €48 = €84 · RESTAURANT MENU (premium tapas served + dessert + coffee + unlimited drinks) + SHOW €41 + €48 = €89. Dinner is served in an Alhambra-style restaurant BEFORE the show, allowing an immersive flamenco experience without service distractions.'
 - pregunta: How does this compare with Tablao de Carmen and Palau Dalmases?
-  respuesta: '**Cordobés (this):** Historic tablao (1970), Las Ramblas, Nasrid décor, no microphones, classic traditional
-    tablao atmosphere. 4.6/5 with 4,617 reviews — the most established. **Tablao de Carmen:** Inside Poble Espanyol (Montjuïc),
-    the only option that serves dinner DURING the show (as it was traditionally done), includes Poble Espanyol entry. 4.8/5
-    with 2,125 reviews — the most intimate. **Palau Dalmases:** 17th-century palace in El Born, short format (50 min), drink
-    included in VIP and Zone A. 4.6/5 with 919 reviews — the most architecturally spectacular. **Flamenco at the Theater:**
-    Large theater (City Hall Theatre), more theatrical format, higher volume (11,305 reviews) but less intimate. 4.5/5 — the
-    most affordable (from €25).'
+  respuesta: '**Cordobés (this):** Historic tablao (1970), Las Ramblas, Nasrid décor, no microphones, classic traditional tablao atmosphere. 4.6/5 with 4,617 reviews — the most established. **Tablao de Carmen:** Inside Poble Espanyol (Montjuïc), the only option that serves dinner DURING the show (as it was traditionally done), includes Poble Espanyol entry. 4.8/5 with 2,125 reviews — the most intimate. **Palau Dalmases:** 17th-century palace in El Born, short format (50 min), drink included in VIP and Zone A. 4.6/5 with 919 reviews — the most architecturally spectacular. **Flamenco at the Theater:** Large theater (City Hall Theatre), more theatrical format, higher volume (11,305 reviews) but less intimate. 4.5/5 — the most affordable (from €25).'
 - pregunta: Are children allowed?
-  respuesta: Children from age 4 (NOT under 4). The show is family-appropriate, but be aware total duration can reach 2h 15min
-    (with dinner) and the atmosphere is respectful to the artist — no photos during the show. Children must stay seated throughout
-    the performance.
+  respuesta: Children from age 4 (NOT under 4). The show is family-appropriate, but be aware total duration can reach 2h 15min (with dinner) and the atmosphere is respectful to the artist — no photos during the show. Children must stay seated throughout the performance.
 - pregunta: Are El Duende and Tablao Cordobés the same?
-  respuesta: NO. **El Duende by Tablao Cordobes** is a more casual flamenco bar opened next door to the main tablao (La Rambla
-    33). The Tablao Cordobés is the traditional 1970 tablao with no-microphone show and formal dinner option. El Duende is
-    a cocktail bar with flamenco performances — more relaxed nightlife atmosphere. If you want the classic tablao experience,
-    book this product. If you prefer bar ambience, look for 'El Duende' separately on GYG (it's a different product).
+  respuesta: NO. **El Duende by Tablao Cordobes** is a more casual flamenco bar opened next door to the main tablao (La Rambla 33). The Tablao Cordobés is the traditional 1970 tablao with no-microphone show and formal dinner option. El Duende is a cocktail bar with flamenco performances — more relaxed nightlife atmosphere. If you want the classic tablao experience, book this product. If you prefer bar ambience, look for 'El Duende' separately on GYG (it's a different product).
 variantes:
 - nombre: Drink + Show
   descripcion: One drink during the 1h 20min show. Most affordable option.
@@ -112,39 +85,21 @@ variantes:
   descripcion: Light tapas (Iberian cured meats, cheeses, Spanish specialties) + one drink + show.
   precio: 69
 - nombre: Spanish Tasting Buffet + Show
-  descripcion: 40+ traditional Spanish and Catalan tapas + unlimited drinks (wine, beer, sangria, cava, soft drinks, coffee)
-    + 2 additional table-served tapas + show.
+  descripcion: 40+ traditional Spanish and Catalan tapas + unlimited drinks (wine, beer, sangria, cava, soft drinks, coffee) + 2 additional table-served tapas + show.
   precio: 84
 - nombre: Restaurant Menu + Show
-  descripcion: Premium selection of Spanish and Catalan tapas served at the table + dessert + coffee + unlimited drinks +
-    show. High-quality local ingredients.
+  descripcion: Premium selection of Spanish and Catalan tapas served at the table + dessert + coffee + unlimited drinks + show. High-quality local ingredients.
   precio: 89
-opinionEditorial: 'The **most historic flamenco tablao in Barcelona** — founded in 1970, with 55 years on Las Ramblas and
-  the TripAdvisor Certificate of Excellence. 4,617 reviews at 4.6/5 make it one of the most established flamenco products
-  in the city. Recurring positive sentiment centers on: (1) the WITHOUT MICROPHONES quality of the show — voice, guitar and
-  footwork project acoustically, creating intimacy impossible in amplified venues; (2) the authentic Nasrid décor restored
-  by the official Alhambra de Granada craftsmen (Morillas + Zubeldia); (3) the multilingual staff attention; (4) the gastronomic
-  quality of the Spanish Tasting buffet (40+ tapas + unlimited drinks).
+opinionEditorial: 'The **most historic flamenco tablao in Barcelona** — founded in 1970, with 55 years on Las Ramblas and the TripAdvisor Certificate of Excellence. 4,617 reviews at 4.6/5 make it one of the most established flamenco products in the city. Recurring positive sentiment centers on: (1) the WITHOUT MICROPHONES quality of the show — voice, guitar and footwork project acoustically, creating intimacy impossible in amplified venues; (2) the authentic Nasrid décor restored by the official Alhambra de Granada craftsmen (Morillas + Zubeldia); (3) the multilingual staff attention; (4) the gastronomic quality of the Spanish Tasting buffet (40+ tapas + unlimited drinks).
 
 
-  **Price comparison:** the minimum price (€48 show + drink only) is the highest of the 4 major top tablaos in Barcelona —
-  above Palau Dalmases (€30), Tablao de Carmen (includes dinner from ~€80) and Flamenco at the Theater (€25). The justification:
-  historic, no microphones, premium décor, Las Ramblas. The Spanish Tasting Buffet (€84) probably offers the best value if
-  you want show + complete dinner with unlimited drinks — Tablao de Carmen ends up more expensive for a standard menu.
+  **Price comparison:** the minimum price (€48 show + drink only) is the highest of the 4 major top tablaos in Barcelona — above Palau Dalmases (€30), Tablao de Carmen (includes dinner from ~€80) and Flamenco at the Theater (€25). The justification: historic, no microphones, premium décor, Las Ramblas. The Spanish Tasting Buffet (€84) probably offers the best value if you want show + complete dinner with unlimited drinks — Tablao de Carmen ends up more expensive for a standard menu.
 
 
-  Two operational notes: **(1)** seats are NOT numbered — they''re assigned in order of reservation on show day, with priority
-  for dinner bookings. If proximity to the stage matters, book a dinner option. **(2)** arrive 15 min early — tickets are
-  valid up to 15 min after the booked time (later = non-refundable no-show).
+  Two operational notes: **(1)** seats are NOT numbered — they''re assigned in order of reservation on show day, with priority for dinner bookings. If proximity to the stage matters, book a dinner option. **(2)** arrive 15 min early — tickets are valid up to 15 min after the booked time (later = non-refundable no-show).
 
 
-  **Who it''s for:** visitors wanting the classic experience of a **traditional historic tablao** (1970, 55 years on Las Ramblas),
-  travellers who value the NO MICROPHONES format as a sign of acoustic authenticity, diners seeking a quality meal BEFORE
-  the show (the Spanish Tasting Buffet is exceptional), couples and small groups looking for a formal yet intimate atmosphere.
-  **Who it''s NOT for:** travellers on a tight budget (Flamenco at the Theater from €25 is more affordable), those preferring
-  smaller intimate venues of 50-60 seats (Palau Dalmases or Tablao de Carmen are more compact), families with children under
-  4 (not admitted by minimum age), people with electric wheelchairs (only manual allowed). If you want a relaxed cocktail-bar
-  atmosphere, look for **El Duende by Tablao Cordobes** (same operator, cocktail-bar format).
+  **Who it''s for:** visitors wanting the classic experience of a **traditional historic tablao** (1970, 55 years on Las Ramblas), travellers who value the NO MICROPHONES format as a sign of acoustic authenticity, diners seeking a quality meal BEFORE the show (the Spanish Tasting Buffet is exceptional), couples and small groups looking for a formal yet intimate atmosphere. **Who it''s NOT for:** travellers on a tight budget (Flamenco at the Theater from €25 is more affordable), those preferring smaller intimate venues of 50-60 seats (Palau Dalmases or Tablao de Carmen are more compact), families with children under 4 (not admitted by minimum age), people with electric wheelchairs (only manual allowed). If you want a relaxed cocktail-bar atmosphere, look for **El Duende by Tablao Cordobes** (same operator, cocktail-bar format).
 
   '
 atraccionesRelacionadas:
@@ -156,35 +111,35 @@ keywords:
 - flamenco show barcelona dinner
 - historic flamenco tablao barcelona
 - no microphone flamenco show
-imagen: "/images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-cuadro-escenario.webp"
-imagenAlt: "Dancer and flamenco troupe on the Tablao Cordobés stage"
+imagen: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-cuadro-escenario.webp
+imagenAlt: Dancer and flamenco troupe on the Tablao Cordobés stage
 galeria:
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-cantaora-cartel.webp
-  alt: "Singer beneath the Tablao Flamenco Cordobés sign"
+  alt: Singer beneath the Tablao Flamenco Cordobés sign
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bailaora-manton-blanco.webp
-  alt: "Dancer with a white shawl at Tablao Cordobés"
+  alt: Dancer with a white shawl at Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tres-bailaores.webp
-  alt: "A female and two male dancers on the Cordobés stage"
+  alt: A female and two male dancers on the Cordobés stage
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-tablao.webp
-  alt: "The tablao hall with Andalusian-inspired decor"
+  alt: The tablao hall with Andalusian-inspired decor
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-escalera-azulejos.webp
-  alt: "Tiled staircase at the Tablao Cordobés entrance"
+  alt: Tiled staircase at the Tablao Cordobés entrance
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-sala-arcos.webp
-  alt: "Hall with arches and rush chairs at Tablao Cordobés"
+  alt: Hall with arches and rush chairs at Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-comedor.webp
-  alt: "Tablao Cordobés restaurant dining room"
+  alt: Tablao Cordobés restaurant dining room
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-bufe.webp
-  alt: "Dinner buffet at Tablao Cordobés"
+  alt: Dinner buffet at Tablao Cordobés
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-paella.webp
-  alt: "Paella from the Tablao Cordobés buffet"
+  alt: Paella from the Tablao Cordobés buffet
 - src: /images/actividades/barcelona/tablao-cordobes/tablao-cordobes-tabla-tapas.webp
-  alt: "Board of tapas, cheese and cured meats at the tablao"
+  alt: Board of tapas, cheese and cured meats at the tablao
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-en-la-rambla-barcelona-sp-jpg-02.webp
-  alt: "Modernist balcony on La Rambla"
+  alt: Modernist balcony on La Rambla
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
-  alt: "Central promenade of La Rambla in Barcelona"
+  alt: Central promenade of La Rambla in Barcelona
 - src: /images/actividades/barcelona/rambla/rambla-pexels-35727858.webp
-  alt: "La Rambla lined with trees"
+  alt: La Rambla lined with trees
 ratingProveedor: 4.6
 numeroOpiniones: 4617
 publicada: true
@@ -192,7 +147,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-barcelona-which-tablao-to-choose"
+- flamenco-barcelona-which-tablao-to-choose
 ---
 
 ## What you'll see

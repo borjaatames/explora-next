@@ -75,6 +75,9 @@ guiasRelacionadas:
 - costa-brava-day-trips-from-girona
 - what-to-see-in-girona-in-one-day
 atraccionesRelacionadas:
+- casco-antiguo
+- figueres-dali
+- costa-brava
 - dali-figueres
 categoria: excursionesDia
 keywords:
@@ -86,10 +89,10 @@ keywords:
 imagen: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
 imagenAlt: Colourful houses above the Onyar river in Girona
 galeria:
-- src: "/images/actividades/girona/dali-figueres/torres-huevos-museu-dali.webp"
-  alt: "Torres con huevos gigantes del Teatro-Museo Dali en Figueres"
-- src: "/images/actividades/girona/dali-figueres/entrada-museu-dali-estatua-dorada.webp"
-  alt: "Entrada del Museu Dali en Figueres con estatua dorada"
+- src: /images/actividades/girona/dali-figueres/torres-huevos-museu-dali.webp
+  alt: Torres con huevos gigantes del Teatro-Museo Dali en Figueres
+- src: /images/actividades/girona/dali-figueres/entrada-museu-dali-estatua-dorada.webp
+  alt: Entrada del Museu Dali en Figueres con estatua dorada
 - src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
   alt: Girona Cathedral at the top of its steps
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-fachada.webp

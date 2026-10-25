@@ -67,7 +67,7 @@ opinionEditorial: 'El desierto de Gorafe es uno de los paisajes más raros de An
   Es una experiencia privada y cara para dos personas (490 € por cabeza); con cuatro baja a 277 €. Encaja a viajeros que ya conocen Granada y quieren un paisaje completamente distinto, o a familias con niños mayores de 8.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - desierto de gorafe
 - gorafe 4x4
@@ -96,6 +96,7 @@ galeria:
   alt: Paredes estratificadas de tonos rojizos
 bokunProductId: 1036173
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

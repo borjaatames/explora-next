@@ -2,11 +2,11 @@
 titulo: 'Tenerife: Whale watching at Los Gigantes cliffs'
 slug: whale-watching-los-gigantes-tenerife
 ciudad: tenerife
-descripcion: "Whale and dolphin watching boat trip from Los Gigantes, departing below the most dramatic cliffs in the Canary Islands. Pilot whales resident year-round. 4.7/5 with 5,888 reviews."
+descripcion: Whale and dolphin watching boat trip from Los Gigantes, departing below the most dramatic cliffs in the Canary Islands. Pilot whales resident year-round. 4.7/5 with 5,888 reviews.
 slugs:
   es: ballenas-los-gigantes-tenerife
   en: whale-watching-los-gigantes-tenerife
-duracion: '2-3 hours'
+duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 28
 moneda: EUR
@@ -29,7 +29,7 @@ noIncluye:
 - Transport to Los Gigantes
 - Food and drink
 puntoEncuentro:
-  texto: "Puerto de Los Gigantes, Tenerife"
+  texto: Puerto de Los Gigantes, Tenerife
   descripcionGuia: Los Gigantes is on Tenerife's west coast, about 45 km from Santa Cruz and 30 km from Las Américas. From the south, take the TF-1 and TF-47 motorways. Parking available at the port. Confirm the exact meeting point with the operator on your voucher.
   latitud: 28.2457
   longitud: -16.8434
@@ -58,11 +58,11 @@ preguntasFrecuentes:
   respuesta: No operator can guarantee wildlife sightings, but pilot whales are resident in the waters off Tenerife's west coast year-round (not migratory), so sightings are very frequent. Dolphins are also seen on most trips.
 - pregunta: Which whales will I see?
   respuesta: The most common species is the short-finned pilot whale (resident year-round). Bottlenose dolphins and Atlantic spotted dolphins are also very frequently seen. Less common sightings include sperm whales and loggerhead turtles.
-opinionEditorial: "Los Gigantes combines two of Tenerife's greatest natural spectacles: the tallest sea cliffs in Spain and resident pilot whales just offshore. One of the best whale-watching sites in Europe."
+opinionEditorial: 'Los Gigantes combines two of Tenerife''s greatest natural spectacles: the tallest sea cliffs in Spain and resident pilot whales just offshore. One of the best whale-watching sites in Europe.'
 guiasRelacionadas:
 - whale-watching-tenerife
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - whale watching tenerife los gigantes
 - pilot whales tenerife
@@ -71,23 +71,24 @@ keywords:
 imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Los Gigantes cliffs rising from the sea, Tenerife
 galeria:
-- src: "/images/actividades/tenerife/gigantes/costa-acantilado-velero.webp"
-  alt: "Costa y acantilado vistos desde un barco de avistamiento"
-- src: "/images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp"
-  alt: "Delfin nadando en la superficie del mar"
-- src: "/images/actividades/tenerife/gigantes/gigantes-pueblo.webp"
-  alt: "Village of Los Gigantes in Tenerife"
+- src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
+  alt: Costa y acantilado vistos desde un barco de avistamiento
+- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+  alt: Delfin nadando en la superficie del mar
+- src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
+  alt: Village of Los Gigantes in Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: "Pilot whale surfacing close to the boat, Tenerife"
+  alt: Pilot whale surfacing close to the boat, Tenerife
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: "Coastline near Los Gigantes, Tenerife"
+  alt: Coastline near Los Gigantes, Tenerife
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: "Atlantic spotted dolphin off the coast of Tenerife"
+  alt: Atlantic spotted dolphin off the coast of Tenerife
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: "Open sea below the Los Gigantes cliffs"
+  alt: Open sea below the Los Gigantes cliffs
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:
+- masca-gigantes
 - mar
 - masca
 publicada: true

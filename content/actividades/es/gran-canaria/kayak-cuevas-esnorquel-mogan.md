@@ -73,7 +73,7 @@ preguntasFrecuentes:
 opinionEditorial: Es la mejor forma de ver la costa salvaje del suroeste, la que no se ve desde las playas. Exige algo de forma física, pero los guías lo ponen fácil y el esnórquel en agua abierta suele ser muy claro.
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: agua
 keywords:
 - kayak mogan
 - kayak gran canaria cuevas
@@ -107,6 +107,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 406
 atraccionesRelacionadas:
+- mogan
 - mar
 publicada: true
 destacada: false

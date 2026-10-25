@@ -66,7 +66,7 @@ opinionEditorial: 'Córdoba is about two and a half hours from Granada and well 
   The price is per group: €800 for 1 or 2 and €1,040 for four. For a couple it''s pricey next to the train or a group tour; for a family of four, the private car and guide justify it.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba from granada
 - cordoba day trip from granada
@@ -93,6 +93,8 @@ galeria:
   alt: Travellers in a Córdoba courtyard full of flowerpots
 bokunProductId: 1269261
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day goes

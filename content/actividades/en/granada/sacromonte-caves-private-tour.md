@@ -69,7 +69,7 @@ opinionEditorial: 'It''s unlike any other tour in Granada: not the flamenco cave
   The price is per group (€180 for 1 or 2), fair for a private tour. You''ll need some fitness: there are plenty of climbs on dirt paths.'
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - sacromonte caves tour
 - sacromonte cave dwellings
@@ -94,6 +94,8 @@ galeria:
   alt: Group watching the sunset from the hillside
 bokunProductId: 860685
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

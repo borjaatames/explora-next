@@ -75,7 +75,7 @@ guiasRelacionadas:
 - escapadas-costa-brava-desde-girona
 atraccionesRelacionadas:
 - costa-brava
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco roses cadaques
 - excursion cadaques
@@ -85,16 +85,16 @@ keywords:
 imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
 imagenAlt: Bahía de Cadaqués con barcas fondeadas y el pueblo blanco al fondo
 galeria:
-- src: "/images/actividades/girona/cap-de-creus/costa-rocosa-cadaques-vista-aerea.webp"
-  alt: "Costa rocosa de Cadaqués vista desde el aire, Cap de Creus"
-- src: "/images/actividades/girona/cap-de-creus/cabo-creus-formacion-rocosa.webp"
-  alt: "Formación rocosa del Cabo de Creus, Costa Brava"
-- src: "/images/actividades/girona/cap-de-creus/cadaques-pueblo-desde-altura.webp"
-  alt: "Cadaqués visto desde las alturas, pueblo blanco frente al mar"
-- src: "/images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp"
-  alt: "Acantilados del Cap de Creus con el mar Mediterráneo"
-- src: "/images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp"
-  alt: "Islote entre rocas y aguas cristalinas del Cap de Creus"
+- src: /images/actividades/girona/cap-de-creus/costa-rocosa-cadaques-vista-aerea.webp
+  alt: Costa rocosa de Cadaqués vista desde el aire, Cap de Creus
+- src: /images/actividades/girona/cap-de-creus/cabo-creus-formacion-rocosa.webp
+  alt: Formación rocosa del Cabo de Creus, Costa Brava
+- src: /images/actividades/girona/cap-de-creus/cadaques-pueblo-desde-altura.webp
+  alt: Cadaqués visto desde las alturas, pueblo blanco frente al mar
+- src: /images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp
+  alt: Acantilados del Cap de Creus con el mar Mediterráneo
+- src: /images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp
+  alt: Islote entre rocas y aguas cristalinas del Cap de Creus
 - src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
   alt: Faro del Cap de Creus sobre las rocas
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp

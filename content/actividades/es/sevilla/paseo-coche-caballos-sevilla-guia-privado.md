@@ -63,8 +63,7 @@ opinionEditorial: 'El coche de caballos es uno de los paseos más clásicos de S
 
 
   El precio es por coche, 298 € para hasta 4 personas, así que sale mucho mejor en familia o con amigos que en pareja. Si sois dos y solo queréis el paseo, sin explicaciones, los coches de la plaza de la Catedral salen más baratos.'
-atraccionesRelacionadas: []
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - coche de caballos sevilla
 - paseo en coche de caballos sevilla con guia
@@ -90,6 +89,8 @@ galeria:
   alt: Coche de caballos por un paseo arbolado
 bokunProductId: 933447
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el paseo

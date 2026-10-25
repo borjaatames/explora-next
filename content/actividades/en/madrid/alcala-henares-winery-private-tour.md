@@ -2,8 +2,7 @@
 titulo: Private Tour to Alcalá de Henares and Winery from Madrid
 slug: alcala-henares-winery-private-tour
 ciudad: madrid
-descripcion: 'Private 6-hour trip to Alcalá de Henares (UNESCO World Heritage, Cervantes'' birthplace) with a visit to a local
-  winery and wine tasting. 4.1/5 across 16 reviews. Operator: Naturanda Turismo Ambiental.'
+descripcion: 'Private 6-hour trip to Alcalá de Henares (UNESCO World Heritage, Cervantes'' birthplace) with a visit to a local winery and wine tasting. 4.1/5 across 16 reviews. Operator: Naturanda Turismo Ambiental.'
 slugs:
   es: excursion-alcala-henares-bodega-privada
   en: alcala-henares-winery-private-tour
@@ -34,11 +33,8 @@ noIncluye:
 - Gratuities
 - Extra drinks
 puntoEncuentro:
-  texto: Pickup in Madrid (point to be confirmed by the operator at booking). Alcalá de Henares is 40 minutes by bus from
-    the centre.
-  descripcionGuia: It's a private tour, so pickup is coordinated with the operator at confirmation — exact point to define
-    based on your accommodation. It's a half-day trip (6 hours total with transfers). Bring comfortable shoes and bear in
-    mind part of the day will be walking in Alcalá and part at the winery.
+  texto: Pickup in Madrid (point to be confirmed by the operator at booking). Alcalá de Henares is 40 minutes by bus from the centre.
+  descripcionGuia: It's a private tour, so pickup is coordinated with the operator at confirmation — exact point to define based on your accommodation. It's a half-day trip (6 hours total with transfers). Bring comfortable shoes and bear in mind part of the day will be walking in Alcalá and part at the winery.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 12
@@ -63,51 +59,27 @@ informacionImportante:
   - Overall score is 4.1/5 with 4/5 in value for money — some travellers feel the price is high
   - There are some negative reviews about unresolved operator incidents (check before booking)
   - The winery visit is only 30 minutes — the bulk of the tour is Alcalá
-accesibilidad: The operator doesn't explicitly mark wheelchair accessibility. Alcalá has a cobblestoned old town. For groups
-  with reduced mobility, contact the operator beforehand.
+accesibilidad: The operator doesn't explicitly mark wheelchair accessibility. Alcalá has a cobblestoned old town. For groups with reduced mobility, contact the operator beforehand.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
 - pregunta: How much does it cost exactly?
-  respuesta: Base price is around €398-400 for groups up to 2 people (full private tour). Larger groups are quoted separately.
-    Per couple it works out to about €200 per person; in a group of 4, it drops to about €100 per person. It's more interesting
-    as a group of 4-6 than as a couple by economy of scale.
+  respuesta: Base price is around €398-400 for groups up to 2 people (full private tour). Larger groups are quoted separately. Per couple it works out to about €200 per person; in a group of 4, it drops to about €100 per person. It's more interesting as a group of 4-6 than as a couple by economy of scale.
 - pregunta: What do you see in Alcalá de Henares?
-  respuesta: Cathedral of Santos Niños (Gothic), Palacete de Laredo, Calle Mayor (the old town's main street) and the University
-    of Alcalá founded in 1499. Alcalá is UNESCO World Heritage since 1998 for its Renaissance university layout. Cervantes'
-    birthplace is very compact — 2-3 hours is enough to see it well.
+  respuesta: Cathedral of Santos Niños (Gothic), Palacete de Laredo, Calle Mayor (the old town's main street) and the University of Alcalá founded in 1499. Alcalá is UNESCO World Heritage since 1998 for its Renaissance university layout. Cervantes' birthplace is very compact — 2-3 hours is enough to see it well.
 - pregunta: Is the winery worth it?
-  respuesta: The winery stop is 30 minutes per the official itinerary — short visit to the cellar with explanation of the
-    production process and final tasting. If wine is your main interest, there are specific Madrid-region winery tours (Ribera
-    del Duero, for example) that are more thorough. Here the winery complements the cultural tour.
+  respuesta: The winery stop is 30 minutes per the official itinerary — short visit to the cellar with explanation of the production process and final tasting. If wine is your main interest, there are specific Madrid-region winery tours (Ribera del Duero, for example) that are more thorough. Here the winery complements the cultural tour.
 - pregunta: Why only 16 reviews?
-  respuesta: 'It''s a private product, so it sells less volume than group tours. Reviews are mixed: 4.1/5 overall with some
-    specific criticism (one traveller with unresolved incident, another with the price perceived as high for a group of 2).
-    It''s a LESS validated product by volume — if flexibility and a private tour are critical for you, weigh it; if you want
-    the certainty of a mass tour, check the group version (also Alcalá + winery) with more reviews.'
+  respuesta: 'It''s a private product, so it sells less volume than group tours. Reviews are mixed: 4.1/5 overall with some specific criticism (one traveller with unresolved incident, another with the price perceived as high for a group of 2). It''s a LESS validated product by volume — if flexibility and a private tour are critical for you, weigh it; if you want the certainty of a mass tour, check the group version (also Alcalá + winery) with more reviews.'
 - pregunta: Is there a cheaper group alternative?
-  respuesta: Yes. The NON-private version of Alcalá + winery with tasting exists on GetYourGuide at per-person pricing (around
-    €95). It has more reviews and a slightly better rating. The private version we cover here only makes sense if you want
-    total schedule flexibility, a closed group or exclusive guide attention.
+  respuesta: Yes. The NON-private version of Alcalá + winery with tasting exists on GetYourGuide at per-person pricing (around €95). It has more reviews and a slightly better rating. The private version we cover here only makes sense if you want total schedule flexibility, a closed group or exclusive guide attention.
 variantes: []
-opinionEditorial: 'This is the private tour to Alcalá de Henares with winery by Naturanda Turismo Ambiental: 4.1/5 across
-  barely 16 reviews — VERY LOW validation volume. The overall score is medium-high but there are specific operational complaints
-  (unresolved incidents, price perceived as high). Price is around €398-400 for groups up to 2 people (full private tour),
-  which works out to €199 per person for a couple; in a group of 4-6 the individual share drops significantly. For 2 people
-  it''s expensive relative to the value of the route.
+opinionEditorial: 'This is the private tour to Alcalá de Henares with winery by Naturanda Turismo Ambiental: 4.1/5 across barely 16 reviews — VERY LOW validation volume. The overall score is medium-high but there are specific operational complaints (unresolved incidents, price perceived as high). Price is around €398-400 for groups up to 2 people (full private tour), which works out to €199 per person for a couple; in a group of 4-6 the individual share drops significantly. For 2 people it''s expensive relative to the value of the route.
 
 
-  What''s worth knowing. First, this is a POORLY VALIDATED PRODUCT — 16 reviews is very little to make decisions with confidence.
-  There''s a GROUP version of the same Alcalá + winery (another GetYourGuide product, not this one) with 65 reviews, 4.3/5
-  and per-person price around €95 — that''s the reasonable option unless you need a private tour specifically. Second, the
-  itinerary is unbalanced: 2-3 hours in Alcalá, just 30 minutes at the winery. If you want a serious wine tour, book a specific
-  winery tour (better Ribera del Duero or Madrid-region wineries).
+  What''s worth knowing. First, this is a POORLY VALIDATED PRODUCT — 16 reviews is very little to make decisions with confidence. There''s a GROUP version of the same Alcalá + winery (another GetYourGuide product, not this one) with 65 reviews, 4.3/5 and per-person price around €95 — that''s the reasonable option unless you need a private tour specifically. Second, the itinerary is unbalanced: 2-3 hours in Alcalá, just 30 minutes at the winery. If you want a serious wine tour, book a specific winery tour (better Ribera del Duero or Madrid-region wineries).
 
 
-  Who it''s for: closed groups of 4-6 people wanting total flexibility and exclusive guide attention, travellers short on
-  time who want to combine Alcalá + winery in half a day without coordinating transport themselves. Who it''s NOT for: couples
-  wanting to save (the group version costs less than half per person), travellers who value massive social validation (16
-  reviews is little), serious wine enthusiasts (the winery stop is short), and anyone who''d prefer Alcalá on their own (it''s
-  easy with Cercanías RENFE from Madrid in 30 min for under €5).
+  Who it''s for: closed groups of 4-6 people wanting total flexibility and exclusive guide attention, travellers short on time who want to combine Alcalá + winery in half a day without coordinating transport themselves. Who it''s NOT for: couples wanting to save (the group version costs less than half per person), travellers who value massive social validation (16 reviews is little), serious wine enthusiasts (the winery stop is short), and anyone who''d prefer Alcalá on their own (it''s easy with Cercanías RENFE from Madrid in 30 min for under €5).
 
   '
 atraccionesRelacionadas:
@@ -119,31 +91,32 @@ keywords:
 - alcala winery wine tasting
 - cervantes alcala excursion
 - unesco heritage madrid tour
-imagen: "/images/actividades/madrid/alcala-henares/alcala-universidad-san-ildefonso-fachada.webp"
-imagenAlt: "Plateresque façade of the Colegio Mayor de San Ildefonso, University of Alcalá"
+imagen: /images/actividades/madrid/alcala-henares/alcala-universidad-san-ildefonso-fachada.webp
+imagenAlt: Plateresque façade of the Colegio Mayor de San Ildefonso, University of Alcalá
 galeria:
-- src: "/images/actividades/madrid/alcala-henares/alcala-calle-mayor-soportales.webp"
-  alt: "Alcalá de Henares Calle Mayor with its arcades"
-- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
-  alt: "Red wine being poured during the winery tasting"
-- src: "/images/actividades/madrid/alcala-henares/alcala-casa-natal-cervantes.webp"
-  alt: "Cervantes Birthplace Museum with statues of Don Quixote and Sancho Panza"
-- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp"
-  alt: "Wine barrels in a winery cellar"
-- src: "/images/actividades/madrid/alcala-henares/alcala-plaza-cervantes.webp"
-  alt: "Plaza de Cervantes, the centre of Alcalá de Henares"
-- src: "/images/actividades/madrid/alcala-henares/alcala-universidad-jardin.webp"
-  alt: "University of Alcalá seen from Plaza de San Diego"
-- src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp"
-  alt: "Wine glasses at the tasting"
-- src: "/images/actividades/madrid/alcala-henares/alcala-torre-ciguenas.webp"
-  alt: "Stork nests on a bell gable in Alcalá de Henares, a World Heritage city"
+- src: /images/actividades/madrid/alcala-henares/alcala-calle-mayor-soportales.webp
+  alt: Alcalá de Henares Calle Mayor with its arcades
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
+  alt: Red wine being poured during the winery tasting
+- src: /images/actividades/madrid/alcala-henares/alcala-casa-natal-cervantes.webp
+  alt: Cervantes Birthplace Museum with statues of Don Quixote and Sancho Panza
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
+  alt: Wine barrels in a winery cellar
+- src: /images/actividades/madrid/alcala-henares/alcala-plaza-cervantes.webp
+  alt: Plaza de Cervantes, the centre of Alcalá de Henares
+- src: /images/actividades/madrid/alcala-henares/alcala-universidad-jardin.webp
+  alt: University of Alcalá seen from Plaza de San Diego
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Wine glasses at the tasting
+- src: /images/actividades/madrid/alcala-henares/alcala-torre-ciguenas.webp
+  alt: Stork nests on a bell gable in Alcalá de Henares, a World Heritage city
 ratingProveedor: 4.1
 numeroOpiniones: 16
 publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+privada: true
 ---
 
 ## What you'll see

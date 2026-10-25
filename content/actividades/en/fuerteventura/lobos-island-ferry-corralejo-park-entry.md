@@ -1,12 +1,12 @@
-﻿---
+---
 titulo: 'Corralejo: Lobos Island return ferry'
 slug: lobos-island-ferry-corralejo-park-entry
 ciudad: fuerteventura
-descripcion: 'Return ferry ticket from Corralejo to Lobos Island with natural park entry, choosing your return from five departure times. Rated 4.7/5 from more than 1,400 reviews.'
+descripcion: Return ferry ticket from Corralejo to Lobos Island with natural park entry, choosing your return from five departure times. Rated 4.7/5 from more than 1,400 reviews.
 slugs:
   es: ferry-isla-lobos-corralejo-entrada
   en: lobos-island-ferry-corralejo-park-entry
-duracion: 'Ticket valid for 1 day'
+duracion: Ticket valid for 1 day
 duracionMinutos: 240
 precioDesde: 17
 moneda: EUR
@@ -61,39 +61,40 @@ accesibilidad: Not suitable for people with reduced mobility or wheelchair users
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Do I also need the island council permit?
-  respuesta: "The ticket includes natural park entry according to the operator. Even so, check that the access authorisation appears in your confirmation; if it doesn't, request it free of charge at lobospass.com before you go."
+  respuesta: The ticket includes natural park entry according to the operator. Even so, check that the access authorisation appears in your confirmation; if it doesn't, request it free of charge at lobospass.com before you go.
 - pregunta: How long is the crossing?
   respuesta: About 20 minutes from Corralejo harbour.
 - pregunta: When can I come back?
-  respuesta: "You choose your return before boarding: 12:15, 13:00, 14:30, 16:00 or 17:00."
+  respuesta: 'You choose your return before boarding: 12:15, 13:00, 14:30, 16:00 or 17:00.'
 - pregunta: Is there anywhere to eat on Lobos?
   respuesta: There's a single restaurant near El Puertito. Bring water and food in case it's full.
-opinionEditorial: "It's the cheapest and most flexible way to see Lobos: you arrive, walk at your own pace and come back when you like within the timetable. To walk round to the lighthouse and climb La Caldera, choose a return from 14:30 onwards. If you'd rather not walk and want food and activities included, the catamaran is better value."
+opinionEditorial: 'It''s the cheapest and most flexible way to see Lobos: you arrive, walk at your own pace and come back when you like within the timetable. To walk round to the lighthouse and climb La Caldera, choose a return from 14:30 onwards. If you''d rather not walk and want food and activities included, the catamaran is better value.'
 guiasRelacionadas:
 - lobos-island-how-to-get-there
 - what-to-see-in-fuerteventura
-categoria: transporte
+categoria: agua
 keywords:
 - lobos island ferry
 - corralejo to lobos boat
 - how to get to lobos island
 - lobos island fuerteventura
 imagen: /images/actividades/fuerteventura/ferry-lobos.webp
-imagenAlt: "Passenger ferry between Corralejo and Lobos Island"
+imagenAlt: Passenger ferry between Corralejo and Lobos Island
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp"
-  alt: "Aerial view of Lobos Island"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp"
-  alt: "Lobos Island's rocky coast from the air"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
-  alt: "Lobos Island seen from the sea"
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
-  alt: "Excursion boats in Corralejo harbour"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
-  alt: "Corralejo dunes with Lobos and Lanzarote on the horizon"
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
+  alt: Aerial view of Lobos Island
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp
+  alt: Lobos Island's rocky coast from the air
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp
+  alt: Lobos Island seen from the sea
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: Excursion boats in Corralejo harbour
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
+  alt: Corralejo dunes with Lobos and Lanzarote on the horizon
 ratingProveedor: 4.7
 numeroOpiniones: 1425
 atraccionesRelacionadas:
+- isla-lobos
 - lobos
 publicada: true
 destacada: false

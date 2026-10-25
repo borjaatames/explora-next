@@ -82,7 +82,9 @@ opinionEditorial: 'Es el «todo en un día» de Barcelona: quedas a primera hora
   '
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: visitasGuiadas
+- park-guell
+- gotico
+categoria: toursCiudad
 keywords:
 - barcelona en un dia
 - tour dia completo barcelona

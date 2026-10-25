@@ -18,9 +18,9 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t488113/?partner_id=C71N
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Oceanogràfic: el acuario más grande de Europa (45.000 animales)"
-- "Hemisfèric: cine IMAX con pantalla hemisférica de 900 m²"
-- "Museu de les Ciències: museo interactivo de ciencia diseñado por Calatrava"
+- 'Oceanogràfic: el acuario más grande de Europa (45.000 animales)'
+- 'Hemisfèric: cine IMAX con pantalla hemisférica de 900 m²'
+- 'Museu de les Ciències: museo interactivo de ciencia diseñado por Calatrava'
 - Arquitectura futurista de Santiago Calatrava en el complejo
 - Túnel submarino y beluga en el Oceanogràfic
 incluye:
@@ -33,7 +33,7 @@ noIncluye:
 - L'Umbracle y Palau de les Arts (edificios separados)
 puntoEncuentro:
   texto: Ciudad de las Artes y las Ciencias, Av. del Professor López Piñero, 7, 46013 Valencia.
-  descripcionGuia: 'Autobús EMT líneas 35, 40 o 95 desde el centro de Valencia. En bici o a pie desde el centro histórico son unos 20 minutos. Recoge o valida tu entrada en el Oceanogràfic (el primero que abre).'
+  descripcionGuia: Autobús EMT líneas 35, 40 o 95 desde el centro de Valencia. En bici o a pie desde el centro histórico son unos 20 minutos. Recoge o valida tu entrada en el Oceanogràfic (el primero que abre).
   latitud: 39.4546
   longitud: -0.3508
   zoom: 15
@@ -47,7 +47,7 @@ informacionImportante:
   queTraer:
   - Entrada en el móvil
   - Calzado cómodo (el complejo es muy grande)
-  - "Tiempo: necesitas el día completo para los tres recintos"
+  - 'Tiempo: necesitas el día completo para los tres recintos'
   noAptoPara: []
   aTenerEnCuenta:
   - El Oceanogràfic abre antes que el resto; empieza por allí (3-4 horas)
@@ -58,7 +58,7 @@ accesibilidad: Totalmente accesible en los tres recintos. El Oceanogràfic tiene
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Cuál es el orden recomendado para visitar los tres recintos?
-  respuesta: 'Oceanogràfic (3-4 horas, empieza aquí cuando abre) → Hemisfèric (1 hora, comprueba horarios de proyección) → Museu de les Ciències (1-2 horas, cierra más tarde).'
+  respuesta: Oceanogràfic (3-4 horas, empieza aquí cuando abre) → Hemisfèric (1 hora, comprueba horarios de proyección) → Museu de les Ciències (1-2 horas, cierra más tarde).
 - pregunta: ¿Es el acuario más grande de Europa?
   respuesta: Sí. El Oceanogràfic de Valencia tiene 45.000 animales de 500 especies en 10 ecosistemas diferenciados, incluyendo el mayor túnel submarino de Europa (35 m).
 - pregunta: ¿Vale la pena el 3 en 1 frente a entradas individuales?
@@ -68,32 +68,33 @@ guiasRelacionadas:
 - ciudad-artes-ciencias-como-visitar
 - valencia-con-ninos
 - valencia-en-2-dias
-categoria: entradas
+categoria: parques
 keywords:
 - oceanografic valencia entrada
 - ciudad artes ciencias valencia
 - oceanografic hemisferic valencia
 - ciudad artes valencia 3 en 1
 imagen: /images/actividades/valencia/oceanografic/ciudad-artes-noche.webp
-imagenAlt: "Ciudad de las Artes y las Ciencias de Valencia iluminada de noche"
+imagenAlt: Ciudad de las Artes y las Ciencias de Valencia iluminada de noche
 galeria:
-- src: "/images/actividades/valencia/ciudad-artes-combo/senaletica-museo-ciencias-umbracle.webp"
-  alt: "Señalización hacia el Museu de les Ciències y l'Umbracle en la Ciudad de las Artes"
-- src: "/images/actividades/valencia/ciudad-artes-combo/puente-hemisferic-museo.webp"
-  alt: "Puente junto al Hemisfèric y el Museu de les Ciències"
-- src: "/images/actividades/valencia/ciudad-artes-combo/hemisferic-reflejo-simetrico.webp"
-  alt: "Reflejo simétrico del Hemisfèric en el agua"
+- src: /images/actividades/valencia/ciudad-artes-combo/senaletica-museo-ciencias-umbracle.webp
+  alt: Señalización hacia el Museu de les Ciències y l'Umbracle en la Ciudad de las Artes
+- src: /images/actividades/valencia/ciudad-artes-combo/puente-hemisferic-museo.webp
+  alt: Puente junto al Hemisfèric y el Museu de les Ciències
+- src: /images/actividades/valencia/ciudad-artes-combo/hemisferic-reflejo-simetrico.webp
+  alt: Reflejo simétrico del Hemisfèric en el agua
 - src: /images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp
-  alt: "Edificio de acceso del Oceanogràfic de Valencia"
+  alt: Edificio de acceso del Oceanogràfic de Valencia
 - src: /images/actividades/valencia/oceanografic/beluga.webp
-  alt: "Beluga en el acuario del Ártico del Oceanogràfic"
+  alt: Beluga en el acuario del Ártico del Oceanogràfic
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
-  alt: "Hemisfèric de la Ciudad de las Artes y las Ciencias"
+  alt: Hemisfèric de la Ciudad de las Artes y las Ciencias
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
-  alt: "Fachada del Museu de les Ciències de Valencia"
+  alt: Fachada del Museu de les Ciències de Valencia
 ratingProveedor: 4.5
 numeroOpiniones: 3518
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
 publicada: true
 destacada: true

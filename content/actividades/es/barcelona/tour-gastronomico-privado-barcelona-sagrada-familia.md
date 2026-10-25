@@ -74,8 +74,8 @@ opinionEditorial: 'Junta en una tarde las dos cosas que casi todo el mundo quier
 
   Desde unos 186 € por persona en pareja (unos 150 € si sois 4). Ten en cuenta que dentro de la Sagrada Familia vas con audioguía, no con el guía, y lleva tus auriculares.'
 atraccionesRelacionadas:
-- tapas-barcelona
 - sagrada-familia
+- tapas-barcelona
 categoria: toursGastronomicos
 keywords:
 - tour gastronomico y sagrada familia
@@ -105,6 +105,7 @@ galeria:
   alt: Torres de la Sagrada Familia contra el cielo azul
 bokunProductId: 217558
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la tarde

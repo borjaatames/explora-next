@@ -61,8 +61,6 @@ opinionEditorial: 'A good way to eat in Córdoba without falling into tourist tr
 
 
   Being private, it''s pricey for two (about €225 each) and much better value in a group: for four it drops to about €151 per head. No published reviews yet.'
-atraccionesRelacionadas:
-- juderia
 categoria: toursGastronomicos
 keywords:
 - cordoba tapas tour
@@ -98,6 +96,7 @@ galeria:
   alt: A tapa served on a tavern counter with barrels behind
 bokunProductId: 83911
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

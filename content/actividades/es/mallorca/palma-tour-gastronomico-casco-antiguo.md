@@ -93,6 +93,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 663
 atraccionesRelacionadas:
+- palma
 - gastronomia
 publicada: true
 destacada: false

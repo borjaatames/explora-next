@@ -61,7 +61,6 @@ opinionEditorial: 'Visitar una bodega es casi obligatorio en Jerez, y hacerlo en
 
 
   En pareja sale caro, unos 188 € por persona; el precio por persona baja con el grupo (unos 122 € si sois 4). El traslado va por tu cuenta. Aún no tiene opiniones publicadas.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - visita bodega jerez privada
@@ -87,6 +86,7 @@ galeria:
   alt: Botas apiladas en una nave de la bodega
 bokunProductId: 83913
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

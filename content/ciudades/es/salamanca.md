@@ -49,9 +49,8 @@ atracciones:
     imagen: "/images/actividades/salamanca/rio/tormes-puente.webp"
     imagenAlt: "El río Tormes bajo un puente de hierro, con las Catedrales de Salamanca al fondo"
 chipsFiltros:
-  - { label: "Casco histórico", tag: "casco-historico" }
-  - { label: "Catedrales y Universidad", tag: "monumentos" }
-  - { label: "Jamón ibérico", tag: "jamon" }
+  - { label: "Universidad y catedrales", tag: "universidad-catedrales" }
+  - { label: "Plaza Mayor", tag: "plaza-mayor" }
 ---
 
 Salamanca es la **ciudad dorada de Castilla y León**, capital de provincia con unos **143.000 habitantes** y sede de la **universidad más antigua de España** (fundada en 1218, una de las primeras del mundo). Está declarada Patrimonio de la Humanidad por la UNESCO.

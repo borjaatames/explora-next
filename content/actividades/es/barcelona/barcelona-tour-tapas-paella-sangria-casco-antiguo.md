@@ -70,6 +70,7 @@ opinionEditorial: 'Es un tour de tapas completo y barato: paella, sangría, tapa
 
   Cuesta unos 31 € por persona, que es poco para todo lo que incluye. Ven con hambre. Si buscas un tour de tapas para tu primera noche en Barcelona, es una apuesta segura.'
 atraccionesRelacionadas:
+- gotico
 - tapas-barcelona
 - barrio-gotico
 categoria: toursGastronomicos

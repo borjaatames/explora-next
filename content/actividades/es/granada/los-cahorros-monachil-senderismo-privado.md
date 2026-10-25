@@ -69,7 +69,7 @@ opinionEditorial: 'Los Cahorros es la ruta de senderismo más popular cerca de G
   El precio es por grupo (500 € para 1 o 2 personas, 600 € para cuatro), así que sale mejor a familias o amigos. No admite cancelación, algo a tener en cuenta si dependes del tiempo.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - los cahorros monachil
 - ruta cahorros desde granada
@@ -96,6 +96,7 @@ galeria:
   alt: Pasarela metálica en el desfiladero
 bokunProductId: 860680
 fecha_actualizacion: '2026-10-24'
+precioPorGrupo: true
 ---
 
 ## Cómo es la ruta

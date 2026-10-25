@@ -2,7 +2,7 @@
 titulo: 'Palma de Mallorca: entrada a la Catedral de Mallorca (La Seu)'
 slug: catedral-palma-mallorca-entrada
 ciudad: mallorca
-descripcion: 'Entrada a La Seu, la catedral gótica de Palma de Mallorca, con la intervención de Antoni Gaudí en el interior, el rosetón más grande del mundo, el museo de arte sacro y las vistas al mar. 4,6/5 con 17.883 reseñas.'
+descripcion: Entrada a La Seu, la catedral gótica de Palma de Mallorca, con la intervención de Antoni Gaudí en el interior, el rosetón más grande del mundo, el museo de arte sacro y las vistas al mar. 4,6/5 con 17.883 reseñas.
 slugs:
   es: catedral-palma-mallorca-entrada
   en: palma-cathedral-mallorca-ticket
@@ -58,10 +58,10 @@ preguntasFrecuentes:
 - pregunta: ¿Qué hizo Gaudí en la catedral de Palma?
   respuesta: 'Gaudí restauró y reformó el interior entre 1904 y 1914: trasladó el coro al presbiterio, instaló el baldaquino de hierro forjado y cerámica sobre el altar, y abrió nuevas claraboyas para mejorar la iluminación. Una de sus obras menos conocidas pero muy significativa.'
 - pregunta: ¿Es el rosetón más grande del mundo?
-  respuesta: "Es uno de los más grandes del mundo en gótico: mide 12,5 metros de diámetro y tiene 1.236 piezas de vidrio de colores. El fenómeno óptico del 2 de febrero (Candelaria) es famoso entre los fotografos."
+  respuesta: 'Es uno de los más grandes del mundo en gótico: mide 12,5 metros de diámetro y tiene 1.236 piezas de vidrio de colores. El fenómeno óptico del 2 de febrero (Candelaria) es famoso entre los fotografos.'
 - pregunta: ¿Cuándo es mejor visitarla?
   respuesta: A primera hora de la mañana (cuando abre) para evitar grupos turísticos. La luz entra mejor desde el este por las mañanas.
-opinionEditorial: 'La Catedral de Palma es uno de los mejores ejemplos del gótico mediterráneo y tiene la sorpresa añadida de la intervención de Gaudí. La combinación de rosetón, baldaquino y vista al mar es única en el mundo. El precio de la entrada es muy razonable para la experiencia. Visita imprescindible en Palma.'
+opinionEditorial: La Catedral de Palma es uno de los mejores ejemplos del gótico mediterráneo y tiene la sorpresa añadida de la intervención de Gaudí. La combinación de rosetón, baldaquino y vista al mar es única en el mundo. El precio de la entrada es muy razonable para la experiencia. Visita imprescindible en Palma.
 guiasRelacionadas:
 - que-ver-en-mallorca
 categoria: entradas
@@ -80,13 +80,13 @@ galeria:
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
   alt: Paseo junto al estanque frente a la Catedral de Palma
 - src: /images/actividades/mallorca/catedral-palma/nave-interior.webp
-  alt: "Nave central de la Catedral de Palma con el rosetón al fondo"
+  alt: Nave central de la Catedral de Palma con el rosetón al fondo
 - src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: "Rosetón mayor de la Catedral de Palma desde el interior"
+  alt: Rosetón mayor de la Catedral de Palma desde el interior
 - src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
-  alt: "Baldaquino de Gaudí sobre el altar mayor de La Seu"
+  alt: Baldaquino de Gaudí sobre el altar mayor de La Seu
 - src: /images/actividades/mallorca/catedral-palma/capilla-barcelo.webp
-  alt: "Capilla del Santísimo con el mural de Miquel Barceló"
+  alt: Capilla del Santísimo con el mural de Miquel Barceló
 ratingProveedor: 4.6
 numeroOpiniones: 17883
 atraccionesRelacionadas:

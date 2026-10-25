@@ -59,7 +59,7 @@ opinionEditorial: La mejor nota de los tours de Girona. El Call se puede pasear 
 guiasRelacionadas:
 - que-ver-en-girona-en-un-dia
 - girona-juego-de-tronos
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - call jueu girona
 - girona judia tour
@@ -82,6 +82,7 @@ galeria:
 ratingProveedor: 4.9
 numeroOpiniones: 140
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
 publicada: true
 destacada: false

@@ -61,7 +61,7 @@ opinionEditorial: 'El Cerro del Hierro es uno de esos sitios que sorprenden: un 
   Es caro para dos, 411 € por persona, y con 4 sigue en 217 € por cabeza. Merece la pena para familias o amigos que quieran un día de naturaleza fuera de Sevilla; si tienes coche, se puede hacer por libre.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - cerro del hierro desde sevilla
 - senderismo cerro del hierro
@@ -93,6 +93,7 @@ galeria:
   alt: Paisaje kárstico del Cerro del Hierro
 bokunProductId: 949566
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

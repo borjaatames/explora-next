@@ -67,7 +67,7 @@ preguntasFrecuentes:
 opinionEditorial: Ver la puesta de sol de Sant Antoni desde un barco pequeño, después de bañarte en una cala, es de las mejores tardes que se pueden pasar en Ibiza. Con 4,8/5, es la mejor opción de atardecer si buscas algo tranquilo y no una fiesta.
 guiasRelacionadas:
 - que-ver-en-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - barco atardecer ibiza
 - sunset boat ibiza

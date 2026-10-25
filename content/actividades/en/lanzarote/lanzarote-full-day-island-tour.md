@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Lanzarote: full-day tour of the island highlights'
 slug: lanzarote-full-day-island-tour
 ciudad: lanzarote
@@ -34,8 +34,8 @@ noIncluye:
 - Camel ride (optional, extra cost)
 - Lunch
 puntoEncuentro:
-  texto: 'Pickup in Playa Honda, Arrecife, Playa Blanca, Costa Teguise or Puerto del Carmen.'
-  descripcionGuia: 'The operator messages you on WhatsApp the day before, around 15:00, with the exact time and place. The pickup point is not always the door of your accommodation.'
+  texto: Pickup in Playa Honda, Arrecife, Playa Blanca, Costa Teguise or Puerto del Carmen.
+  descripcionGuia: The operator messages you on WhatsApp the day before, around 15:00, with the exact time and place. The pickup point is not always the door of your accommodation.
   latitud: 28.97
   longitud: -13.6
   zoom: 10
@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: Does the price include tickets?
   respuesta: 'It depends on the option: you can book with no tickets, two or all three. Bought separately in 2026 they cost €30 (Fire Mountains), €17 (Cueva de los Verdes) and from €17 (Jameos del Agua).'
 - pregunta: Is lunch included?
-  respuesta: 'No. There''s a lunch stop after La Geria and everyone pays for their own.'
+  respuesta: No. There's a lunch stop after La Geria and everyone pays for their own.
 - pregunta: Where is pickup?
-  respuesta: 'In Playa Honda, Arrecife, Playa Blanca, Costa Teguise or Puerto del Carmen. The day before, the operator confirms the time and place on WhatsApp.'
+  respuesta: In Playa Honda, Arrecife, Playa Blanca, Costa Teguise or Puerto del Carmen. The day before, the operator confirms the time and place on WhatsApp.
 - pregunta: What language is it in?
-  respuesta: 'English and Spanish.'
+  respuesta: English and Spanish.
 opinionEditorial: 'It''s one of the island''s best-rated full-day tours and one of those that pack in the most: volcanoes, Manrique''s caves, La Geria and El Golfo, all without driving. It''s a long day at coach pace, so don''t expect much free time at each stop. Before paying, check which ticket option you choose: the three centres'' tickets alone add up to more than €60 if you buy them yourself.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
@@ -80,21 +80,23 @@ keywords:
 imagen: /images/actividades/lanzarote/tour-dia-completo.webp
 imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
 galeria:
-- src: "/images/actividades/lanzarote/zonas/la-geria-bodega.webp"
-  alt: "La Geria vineyards at the foot of the volcanoes"
-- src: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
-  alt: "The El Golfo crater open to the sea, with its green lagoon"
-- src: "/images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp"
-  alt: "The Jameos del Agua pool among palm trees"
-- src: "/images/actividades/lanzarote/zonas/teguise-plaza.webp"
-  alt: "Square and church of Nuestra Señora de Guadalupe in Teguise"
-- src: "/images/actividades/lanzarote/zonas/los-hervideros-cueva.webp"
-  alt: "Turquoise sea entering a lava cave at Los Hervideros"
-- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp"
-  alt: "La Graciosa seen from northern Lanzarote"
+- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
+  alt: La Geria vineyards at the foot of the volcanoes
+- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
+  alt: The El Golfo crater open to the sea, with its green lagoon
+- src: /images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp
+  alt: The Jameos del Agua pool among palm trees
+- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
+  alt: Square and church of Nuestra Señora de Guadalupe in Teguise
+- src: /images/actividades/lanzarote/zonas/los-hervideros-cueva.webp
+  alt: Turquoise sea entering a lava cave at Los Hervideros
+- src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
+  alt: La Graciosa seen from northern Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:
+- timanfaya
+- jameos-cueva
 - isla
 publicada: true
 destacada: false

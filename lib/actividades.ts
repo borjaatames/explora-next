@@ -23,6 +23,9 @@ const actividadesRoot = path.join(process.cwd(), "content", "actividades");
  * Categorías permitidas. Debe coincidir con las claves de
  * `dict.actividades.categorias` en los diccionarios.
  *
+ * Octubre 2026: 11 tipos de actividad; «privada» deja de ser categoría y
+ * pasa a ser el campo `privada` (filtro «Privados» en la página de ciudad).
+ *
  * Reemplazo (mayo 2026): pasamos de 6 categorías semánticas (cultural,
  * gastronomico, aireLibre, nocturno, excursion, familiar) a 7 comerciales
  * más visibles y orientadas a conversión.
@@ -30,12 +33,15 @@ const actividadesRoot = path.join(process.cwd(), "content", "actividades");
 export const CATEGORIAS_ACTIVIDAD = [
   "visitasGuiadas",
   "entradas",
-  "experienciasPrivadas",
+  "toursCiudad",
   "excursionesDia",
   "toursGastronomicos",
   "espectaculos",
-  "serviciosAdicionales",
-  "transporte",
+  "agua",
+  "aventura",
+  "parques",
+  "nocturno",
+  "talleres",
 ] as const;
 
 export type CategoriaActividad = (typeof CATEGORIAS_ACTIVIDAD)[number];
@@ -135,6 +141,10 @@ export type ActividadFrontmatter = {
    * para que el visitante que llega desde un anuncio no se lleve sorpresas.
    */
   minimoPersonas?: number;
+  /** Actividad solo para el grupo del cliente (tour privado). Filtro «Privados». */
+  privada?: boolean;
+  /** El precio «desde» es por grupo, no por persona. */
+  precioPorGrupo?: boolean;
 
   // Vendedor
   highlights: ActividadHighlight[];
@@ -412,12 +422,15 @@ export function agruparActividadesPorCategoria(
   const grupos = {
     visitasGuiadas: [],
     entradas: [],
+    toursCiudad: [],
     excursionesDia: [],
-    espectaculos: [],
     toursGastronomicos: [],
-    serviciosAdicionales: [],
-    transporte: [],
-    experienciasPrivadas: [],
+    espectaculos: [],
+    agua: [],
+    aventura: [],
+    parques: [],
+    nocturno: [],
+    talleres: [],
   } as Record<CategoriaActividad, ActividadListItem[]>;
 
   for (const actividad of actividades) {
@@ -575,6 +588,8 @@ function construirListItem(
     cancelacionGratuita: fm.cancelacionGratuita ?? false,
     horasCancelacion: fm.horasCancelacion,
     minimoPersonas: fm.minimoPersonas,
+    privada: fm.privada === true,
+    precioPorGrupo: fm.precioPorGrupo === true,
 
     highlights: fm.highlights || [],
     incluye: fm.incluye || [],
@@ -634,12 +649,15 @@ function construirListItem(
 export const CATEGORIA_A_URL: Record<CategoriaActividad, string> = {
   visitasGuiadas: "visitas-guiadas",
   entradas: "entradas",
+  toursCiudad: "tours-por-la-ciudad",
   excursionesDia: "excursiones-de-un-dia",
-  espectaculos: "espectaculos",
   toursGastronomicos: "tours-gastronomicos",
-  serviciosAdicionales: "servicios-adicionales",
-  transporte: "transporte",
-  experienciasPrivadas: "experiencias-privadas",
+  espectaculos: "espectaculos",
+  agua: "barcos-y-actividades-acuaticas",
+  aventura: "naturaleza-y-aventura",
+  parques: "parques-tematicos",
+  nocturno: "vida-nocturna",
+  talleres: "talleres-y-experiencias",
 };
 
 const URL_A_CATEGORIA: Record<string, CategoriaActividad> = Object.fromEntries(

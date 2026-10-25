@@ -2,8 +2,7 @@
 titulo: Gran Canaria privada, el este de la isla en un día
 slug: tour-privado-gran-canaria-este
 ciudad: gran-canaria
-descripcion: Excursión privada de un día por el este de Gran Canaria, con transporte
-  privado y guía, por Agüimes, el barranco de Guayadeque, Tufia y el cráter de Bandama.
+descripcion: Excursión privada de un día por el este de Gran Canaria, con transporte privado y guía, por Agüimes, el barranco de Guayadeque, Tufia y el cráter de Bandama.
 slugs:
   es: tour-privado-gran-canaria-este
   en: gran-canaria-east-private-day-tour
@@ -16,7 +15,7 @@ idiomas:
 - fr
 proveedor: bokun
 bokunProductId: 1125599
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Excursión privada de día completo solo para tu grupo
@@ -30,8 +29,7 @@ noIncluye:
 - Comidas
 puntoEncuentro:
   texto: Recogida en tu alojamiento en Gran Canaria
-  descripcionGuia: El guía te recoge en el lobby de tu alojamiento. Punto y hora confirmados
-    al reservar.
+  descripcionGuia: El guía te recoge en el lobby de tu alojamiento. Punto y hora confirmados al reservar.
   latitud: 28.0997
   longitud: -15.4134
   zoom: 11
@@ -41,36 +39,34 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso
-  completo.
-opinionEditorial: 'Es una forma muy cómoda de ver el lado más auténtico de Gran Canaria,
-  lejos de las playas de masas: Agüimes, el espectacular barranco de Guayadeque con
-  sus casas-cueva, Tufia y el cráter de Bandama, todo en privado y a tu ritmo. Importante:
-  el tour se realiza en inglés y francés (no en español).'
-categoria: experienciasPrivadas
+politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
+opinionEditorial: 'Es una forma muy cómoda de ver el lado más auténtico de Gran Canaria, lejos de las playas de masas: Agüimes, el espectacular barranco de Guayadeque con sus casas-cueva, Tufia y el cráter de Bandama, todo en privado y a tu ritmo. Importante: el tour se realiza en inglés y francés (no en español).'
+categoria: toursCiudad
 keywords:
 - tour privado gran canaria este
 - excursion privada gran canaria guayadeque bandama
-imagen: "/images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp"
+imagen: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
 imagenAlt: Paisaje del este de Gran Canaria
 galeria:
-  - src: "/images/actividades/gran-canaria/tufia/pueblo-pesquero-tufia-panoramica.webp"
-    alt: "Vista panoramica del pueblo pesquero de Tufia, Gran Canaria"
-  - src: "/images/actividades/gran-canaria/tufia/casas-blancas-bahia-tufia.webp"
-    alt: "Casas blancas junto a la bahia de Tufia, Gran Canaria"
-  - src: "/images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp"
-    alt: "Barranco de Guayadeque, una de las paradas del tour por el este de Gran Canaria"
-  - src: "/images/actividades/gran-canaria/guayadeque/casas-cueva.webp"
-    alt: "Casas-cueva tradicionales del barranco de Guayadeque"
-  - src: "/images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp"
-    alt: "Cueva Bermeja, ermita de San Bartolomé en Guayadeque"
-  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp"
-    alt: "Laderas del barranco de Guayadeque"
-  - src: "/images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp"
-    alt: "El barranco de Guayadeque en dirección al mar"
+- src: /images/actividades/gran-canaria/tufia/pueblo-pesquero-tufia-panoramica.webp
+  alt: Vista panoramica del pueblo pesquero de Tufia, Gran Canaria
+- src: /images/actividades/gran-canaria/tufia/casas-blancas-bahia-tufia.webp
+  alt: Casas blancas junto a la bahia de Tufia, Gran Canaria
+- src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp
+  alt: Barranco de Guayadeque, una de las paradas del tour por el este de Gran Canaria
+- src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
+  alt: Casas-cueva tradicionales del barranco de Guayadeque
+- src: /images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp
+  alt: Cueva Bermeja, ermita de San Bartolomé en Guayadeque
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
+  alt: Laderas del barranco de Guayadeque
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
+  alt: El barranco de Guayadeque en dirección al mar
 publicada: false
 destacada: false
 fecha: '2026-06-18'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

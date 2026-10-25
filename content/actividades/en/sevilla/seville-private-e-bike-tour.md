@@ -71,8 +71,10 @@ opinionEditorial: 'Seville is flat and has good cycle lanes, so two or three hou
 
   The price is per group, from €240 for 1 or 2 people, so a couple pays €120 each, well above a shared bike tour. It''s better value with 4. Mind the 1.50 m minimum height if you''re with children.'
 atraccionesRelacionadas:
+- plaza-espana
+- triana
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private bike tour seville
 - seville e-bike tour
@@ -106,6 +108,8 @@ galeria:
   alt: Travellers on a tiled bench in Plaza de España
 bokunProductId: 896365
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

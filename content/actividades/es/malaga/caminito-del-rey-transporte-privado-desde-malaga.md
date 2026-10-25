@@ -69,9 +69,10 @@ opinionEditorial: 'El Caminito del Rey es de lo mejor que puedes hacer desde Má
 
   Ten claro el formato: el transporte es privado, pero dentro del Caminito vas con guía en grupo. Por 610 € para 1 o 2 personas no es barato; para 4 (960 € en total) la cuenta mejora. Si no te importa el autobús, hay excursiones en grupo mucho más económicas.'
 atraccionesRelacionadas:
+- caminito
 - caminito-del-rey
 - excursiones
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - caminito del rey desde malaga
 - caminito del rey transporte privado
@@ -98,6 +99,8 @@ galeria:
   alt: Puente colgante del Caminito del Rey sobre el río
 bokunProductId: 860687
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

@@ -79,7 +79,7 @@ opinionEditorial: Masca is Tenerife's most spectacular hike and, now that a perm
 guiasRelacionadas:
 - what-to-see-in-tenerife
 - whale-watching-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - masca gorge
 - masca hike
@@ -105,6 +105,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:
+- masca-gigantes
 - masca
 publicada: true
 destacada: false

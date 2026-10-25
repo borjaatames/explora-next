@@ -70,6 +70,7 @@ opinionEditorial: 'This is Málaga''s essential cultural visit: Picasso in his h
 guiasRelacionadas:
 - malaga-in-two-days
 atraccionesRelacionadas:
+- museo-picasso
 - picasso
 categoria: entradas
 keywords:
@@ -80,24 +81,24 @@ keywords:
 imagen: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
 imagenAlt: Arcaded courtyard of the Buenavista Palace, home of the Picasso Museum Málaga
 galeria:
-- src: "/images/actividades/malaga/alcazaba/arcos-nazaries.webp"
+- src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
   alt: Nasrid-style arches in a courtyard of the Alcazaba of Málaga
-- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp"
+- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
   alt: Main facade of Málaga Cathedral
-- src: "/images/actividades/malaga/museo-picasso/patio-flores.webp"
-  alt: "Flower-filled courtyard at the Picasso Museum Málaga"
-- src: "/images/actividades/malaga/museo-picasso/sala-obras.webp"
-  alt: "Visitors looking at Picasso paintings in a gallery"
-- src: "/images/actividades/malaga/museo-picasso/fachada-museo.webp"
-  alt: "Façade with the Picasso Museum Málaga sign"
-- src: "/images/actividades/malaga/catedral-malaga/fachada.webp"
-  alt: "Málaga Cathedral façade, a few steps from the museum"
+- src: /images/actividades/malaga/museo-picasso/patio-flores.webp
+  alt: Flower-filled courtyard at the Picasso Museum Málaga
+- src: /images/actividades/malaga/museo-picasso/sala-obras.webp
+  alt: Visitors looking at Picasso paintings in a gallery
+- src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
+  alt: Façade with the Picasso Museum Málaga sign
+- src: /images/actividades/malaga/catedral-malaga/fachada.webp
+  alt: Málaga Cathedral façade, a few steps from the museum
 - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
-  alt: "Alcazaba Malaga Vista"
+  alt: Alcazaba Malaga Vista
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp
-  alt: "Málaga Cathedral, near the Picasso Museum"
+  alt: Málaga Cathedral, near the Picasso Museum
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
-  alt: "Picasso Museum Málaga"
+  alt: Picasso Museum Málaga
 ratingProveedor: 4.5
 numeroOpiniones: 13842
 publicada: true

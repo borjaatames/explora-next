@@ -95,6 +95,7 @@ galeria:
   alt: Galería excavada en la roca de las Santas Cuevas
 bokunProductId: 938184
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

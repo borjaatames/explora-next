@@ -65,8 +65,9 @@ opinionEditorial: 'Una Valencia distinta a la del casco antiguo: el modernismo d
 
   Es una actividad nueva, sin opiniones aún. La opción estándar sale desde unos 63 € por persona en pareja; con el Oceanogràfic, desde unos 137 €.'
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - valencia modernista tour
 - tour privado valencia arquitectura
@@ -97,6 +98,7 @@ galeria:
   alt: Edificio modernista con miradores en el centro de Valencia
 bokunProductId: 1250720
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

@@ -55,29 +55,30 @@ detallesPracticos:
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
 opinionEditorial: 'Es la ficha más corta del catálogo (1h30) y tiene sentido: el casco antiguo de Girona, con el Call y la Rambla de la Llibertat, se recorre bien en poco tiempo. Buena opción si vas de paso camino a otro destino o si combinas el tour con tiempo libre para tapear. No esperes un recorrido exhaustivo por toda la ciudad.'
 atraccionesRelacionadas:
+- casco-antiguo
 - casco-medieval
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour autoguiado girona
 - audioguía app girona
 - visita autoguiada girona
-imagen: "/images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp"
-imagenAlt: "El río Onyar a su paso por Girona"
+imagen: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp
+imagenAlt: El río Onyar a su paso por Girona
 galeria:
-- src: "/images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp"
-  alt: "Puente rojo y casas de colores sobre el rio Onyar en Girona"
+- src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
+  alt: Puente rojo y casas de colores sobre el rio Onyar en Girona
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
-  alt: "Casas de colores del Onyar reflejadas en el río"
+  alt: Casas de colores del Onyar reflejadas en el río
 - src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp
-  alt: "Escalinata de la Catedral de Girona"
+  alt: Escalinata de la Catedral de Girona
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
-  alt: "Fachadas del Onyar en Girona"
+  alt: Fachadas del Onyar en Girona
 - src: /images/actividades/girona/girona-catedral/girona-catedral-pexels-28936788.webp
-  alt: "Escaleras y arcos del barrio antiguo de Girona"
+  alt: Escaleras y arcos del barrio antiguo de Girona
 - src: /images/actividades/girona/girona-catedral/girona-catedral-wikimedia-cloister-of-catedral-de-girona-02-jpg-04.webp
-  alt: "Claustro de la Catedral de Girona"
+  alt: Claustro de la Catedral de Girona
 - src: https://imgcdn.bokun.tools/7724ddf6-9710-4b26-8993-7aafd8f0e9c0.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'

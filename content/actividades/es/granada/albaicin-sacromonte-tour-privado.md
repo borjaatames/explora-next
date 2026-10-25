@@ -63,7 +63,7 @@ opinionEditorial: 'El Albaicín se puede recorrer por libre, pero es fácil perd
   El precio baja mucho con el tamaño del grupo: 124 € por persona si vais dos, 72 € si sois cuatro. Para una pareja es caro frente a un tour en grupo; para familias o amigos, sale razonable por tener al guía solo para vosotros.'
 atraccionesRelacionadas:
 - albaicin-sacromonte
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour privado albaicin
 - tour albaicin y sacromonte
@@ -90,6 +90,7 @@ galeria:
   alt: Casas cueva en la ladera del Sacromonte
 bokunProductId: 938039
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

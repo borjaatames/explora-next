@@ -67,7 +67,7 @@ opinionEditorial: 'Ver Sevilla desde los tejados al atardecer es de esas cosas q
   Para dos personas sale caro, 192 € cada una, porque es privado. Con cuatro baja a unos 92 € por persona. Si vais en grupo pequeño y buscáis una tarde distinta, merece la pena; si solo queréis las vistas, la entrada a las Setas por libre es mucho más barata.'
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - azoteas sevilla atardecer
 - tour azoteas sevilla
@@ -93,6 +93,7 @@ galeria:
   alt: Viajera en una azotea con la Giralda al fondo
 bokunProductId: 933452
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

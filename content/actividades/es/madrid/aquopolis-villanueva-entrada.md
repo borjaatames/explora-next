@@ -2,7 +2,7 @@
 titulo: 'Madrid: entrada a Aquópolis Villanueva de la Cañada'
 slug: aquopolis-villanueva-entrada
 ciudad: madrid
-descripcion: 'Entrada al Aquópolis de Villanueva de la Cañada, el parque acuático más grande de Madrid, con piscinas de olas, toboganes y zona infantil. 4,6/5 con 54 reseñas. Abierto en verano.'
+descripcion: Entrada al Aquópolis de Villanueva de la Cañada, el parque acuático más grande de Madrid, con piscinas de olas, toboganes y zona infantil. 4,6/5 con 54 reseñas. Abierto en verano.
 slugs:
   es: aquopolis-villanueva-entrada
   en: aquopolis-villanueva-ticket
@@ -65,29 +65,29 @@ preguntasFrecuentes:
 opinionEditorial: 'Aquópolis Villanueva de la Cañada es el parque acuático de referencia en el oeste de Madrid. La piscina de olas y los toboganes de alta velocidad lo hacen imprescindible en verano. El truco es ir entre semana: los fines de semana en agosto son demasiado concurridos. Compra la entrada online y te ahorras la cola de taquilla.'
 guiasRelacionadas:
 - madrid-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - aquopolis madrid
 - aquopolis villanueva de la canada
 - parque acuatico madrid
 - aquopolis madrid precio
-imagen: "/images/actividades/madrid/aquopolis/aquopolis-kilauea-aereo-hero.webp"
-imagenAlt: "Zona infantil de juegos de agua en Aquópolis Villanueva de la Cañada"
+imagen: /images/actividades/madrid/aquopolis/aquopolis-kilauea-aereo-hero.webp
+imagenAlt: Zona infantil de juegos de agua en Aquópolis Villanueva de la Cañada
 galeria:
-  - src: "/images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp"
-    alt: "Zona infantil de Aquópolis Villanueva de la Cañada"
-  - src: "/images/actividades/madrid/aquopolis/aquopolis-zig-zag-hero.webp"
-    alt: "Tobogán Zig-Zag de Aquópolis"
-  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-amarillo-hero.webp"
-    alt: "Tobogán doble de Aquópolis"
-  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-multicarril-entrada-hero.webp"
-    alt: "Entrada a los toboganes multicarril de Aquópolis"
-  - src: "/images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-piscina-hero.webp"
-    alt: "Piscina de recepción de los toboganes de Aquópolis"
-  - src: "/images/actividades/madrid/aquopolis/aquopolis-kangaroa-hero.webp"
-    alt: "Tobogán Kangaroa de Aquópolis"
-  - src: "/images/actividades/madrid/aquopolis/aquopolis-zona-infantil-palmera-hero.webp"
-    alt: "Zona infantil con palmera de Aquópolis"
+- src: /images/actividades/madrid/aquopolis/zona-infantil-aquopolis.webp
+  alt: Zona infantil de Aquópolis Villanueva de la Cañada
+- src: /images/actividades/madrid/aquopolis/aquopolis-zig-zag-hero.webp
+  alt: Tobogán Zig-Zag de Aquópolis
+- src: /images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-amarillo-hero.webp
+  alt: Tobogán doble de Aquópolis
+- src: /images/actividades/madrid/aquopolis/aquopolis-tobogan-multicarril-entrada-hero.webp
+  alt: Entrada a los toboganes multicarril de Aquópolis
+- src: /images/actividades/madrid/aquopolis/aquopolis-tobogan-doble-piscina-hero.webp
+  alt: Piscina de recepción de los toboganes de Aquópolis
+- src: /images/actividades/madrid/aquopolis/aquopolis-kangaroa-hero.webp
+  alt: Tobogán Kangaroa de Aquópolis
+- src: /images/actividades/madrid/aquopolis/aquopolis-zona-infantil-palmera-hero.webp
+  alt: Zona infantil con palmera de Aquópolis
 ratingProveedor: 4.6
 numeroOpiniones: 54
 atraccionesRelacionadas:

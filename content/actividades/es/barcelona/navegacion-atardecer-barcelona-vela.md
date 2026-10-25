@@ -1,12 +1,12 @@
 ---
-titulo: "Navegación al atardecer en Barcelona (2 h, grupo reducido)"
+titulo: Navegación al atardecer en Barcelona (2 h, grupo reducido)
 slug: navegacion-atardecer-barcelona-vela
 ciudad: barcelona
-descripcion: "Salida en velero al atardecer desde Marina Vela, navegando la costa de Barcelona con barra libre y aperitivos a bordo."
+descripcion: Salida en velero al atardecer desde Marina Vela, navegando la costa de Barcelona con barra libre y aperitivos a bordo.
 slugs:
   es: navegacion-atardecer-barcelona-vela
   en: barcelona-sunset-sailing-experience
-duracion: "2 horas"
+duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 55
 moneda: EUR
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 680545
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -32,15 +32,15 @@ noIncluye:
 - Propinas
 - Toalla y bañador
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 8
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
 informacionImportante:
   queTraer:
   - Toalla y bañador si quieres bañarte
@@ -58,45 +58,45 @@ preguntasFrecuentes:
   respuesta: Sí, hay opción de darse un chapuzón en el mar. Lleva toalla y bañador, no se facilitan.
 - pregunta: ¿Va bien para parejas o grupos?
   respuesta: Para ambos. Es un grupo reducido (máximo 12), así que funciona para una velada romántica o un grupo de amigos.
-opinionEditorial: "Ver Barcelona desde el mar al atardecer es de esos planes que casi nadie hace y que merecen mucho la pena: grupo pequeño, copa en mano y la ciudad iluminándose desde el agua. Para una pareja o un grupo de amigos, redondo."
+opinionEditorial: 'Ver Barcelona desde el mar al atardecer es de esos planes que casi nadie hace y que merecen mucho la pena: grupo pequeño, copa en mano y la ciudad iluminándose desde el agua. Para una pareja o un grupo de amigos, redondo.'
 atraccionesRelacionadas:
 - barco
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - navegacion atardecer barcelona
 - velero barcelona
 - paseo en barco barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-velero-atardecer.webp"
-imagenAlt: "Velero al atardecer frente a la costa de Barcelona"
+imagen: /images/actividades/barcelona/barcos/barcos-velero-atardecer.webp
+imagenAlt: Velero al atardecer frente a la costa de Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/a9ed9de4-1077-401a-b5ec-84f7f4a07c4f.jpg
-  alt: "Pasajeros viendo la puesta de sol desde el velero"
+  alt: Pasajeros viendo la puesta de sol desde el velero
 - src: https://imgcdn.bokun.tools/2527dcf1-6d98-406e-a7d5-b2185b9e9d3c.jpg
-  alt: "Velero recortado contra la puesta de sol"
+  alt: Velero recortado contra la puesta de sol
 - src: https://imgcdn.bokun.tools/9737bc4a-4de9-4e48-8cef-4c803864ea58.jpg
-  alt: "Atardecer desde la cubierta del velero"
+  alt: Atardecer desde la cubierta del velero
 - src: https://imgcdn.bokun.tools/740143a2-08a4-4ea5-a6cd-d9c69fb1db12.jpg
-  alt: "Veleros amarrados en el puerto de Barcelona al atardecer"
+  alt: Veleros amarrados en el puerto de Barcelona al atardecer
 - src: https://imgcdn.bokun.tools/d96e5712-3550-494f-af18-2999c7d413dc.jpg
-  alt: "Aperitivo servido en la cubierta del velero"
+  alt: Aperitivo servido en la cubierta del velero
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-02.webp
-  alt: "Velero navegando frente a la costa de Barcelona al atardecer, con el sol reflejado en el mar"
+  alt: Velero navegando frente a la costa de Barcelona al atardecer, con el sol reflejado en el mar
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-03.webp
-  alt: "Vista desde la cubierta del velero hacia la puesta de sol sobre el mar"
+  alt: Vista desde la cubierta del velero hacia la puesta de sol sobre el mar
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla"
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo"
+  alt: Grupo haciendo ejercicio en el paseo maritimo de la Barceloneta al atardecer, con el Hotel W de fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado"
+  alt: Banistas y paseantes en la arena de la playa de la Barceloneta en un dia soleado
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Velero y parasailing frente a la playa de la Barceloneta"
+  alt: Velero y parasailing frente a la playa de la Barceloneta
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo"
+  alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
-  alt: "Velero al atardecer frente a la costa de Barcelona"
+  alt: Velero al atardecer frente a la costa de Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'

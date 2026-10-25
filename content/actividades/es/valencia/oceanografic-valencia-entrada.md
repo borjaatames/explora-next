@@ -66,7 +66,7 @@ guiasRelacionadas:
 - ciudad-artes-ciencias-como-visitar
 - valencia-con-ninos
 - valencia-en-2-dias
-categoria: entradas
+categoria: parques
 keywords:
 - entradas oceanografic
 - oceanografic valencia entrada
@@ -75,20 +75,20 @@ keywords:
 imagen: /images/actividades/valencia/oceanografic/oceanografic-nenufar.webp
 imagenAlt: Edificio en forma de nenúfar del Oceanogràfic
 galeria:
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
-  alt: "Arquitectura del Oceanogràfic de Valencia, Ciudad de las Artes"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/hemisféric-ciudad-artes-valencia.webp"
-  alt: "El Hemisfèric de la Ciudad de las Artes y Ciencias de Valencia"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp"
-  alt: "Exterior de la Ciudad de las Artes y Ciencias de Valencia"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp"
-  alt: "Ciudad de las Artes y Ciencias de Valencia reflejada en el agua"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
-  alt: "Arquitectura moderna simétrica de la Ciudad de las Artes y Ciencias"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp"
-  alt: "Hemisfèric de Valencia con nubes sobre la Ciudad de las Artes"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp"
-  alt: "Edificio del Oceanarium de Valencia, diseño de Santiago Calatrava"
+- src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
+  alt: Arquitectura del Oceanogràfic de Valencia, Ciudad de las Artes
+- src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-ciudad-artes-valencia.webp
+  alt: El Hemisfèric de la Ciudad de las Artes y Ciencias de Valencia
+- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
+  alt: Exterior de la Ciudad de las Artes y Ciencias de Valencia
+- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
+  alt: Ciudad de las Artes y Ciencias de Valencia reflejada en el agua
+- src: /images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp
+  alt: Arquitectura moderna simétrica de la Ciudad de las Artes y Ciencias
+- src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp
+  alt: Hemisfèric de Valencia con nubes sobre la Ciudad de las Artes
+- src: /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp
+  alt: Edificio del Oceanarium de Valencia, diseño de Santiago Calatrava
 - src: /images/actividades/valencia/oceanografic/oceanografic-entrada.webp
   alt: Entrada del Oceanogràfic de Valencia
 - src: /images/actividades/valencia/oceanografic/beluga.webp
@@ -104,6 +104,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 11540
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
 publicada: true
 destacada: false

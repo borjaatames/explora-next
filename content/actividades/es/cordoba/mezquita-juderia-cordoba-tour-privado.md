@@ -66,9 +66,10 @@ opinionEditorial: 'Es el tour más completo para un primer día en Córdoba: la 
 
   Reserva por la mañana si quieres entrar en la Sinagoga (y evita el lunes). El precio es por grupo: unos 260 € en pareja y unos 396 € para 4.'
 atraccionesRelacionadas:
-- mezquita-catedral
+- mezquita
 - juderia
-categoria: experienciasPrivadas
+- mezquita-catedral
+categoria: visitasGuiadas
 keywords:
 - tour privado mezquita y juderia cordoba
 - visita guiada cordoba privada
@@ -99,6 +100,8 @@ galeria:
   alt: Viajeros en un patio con macetas azules
 bokunProductId: 793769
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

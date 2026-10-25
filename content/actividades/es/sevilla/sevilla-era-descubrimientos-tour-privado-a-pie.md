@@ -64,8 +64,9 @@ opinionEditorial: 'Este tour cuenta la parte de la historia de Sevilla que expli
 
   El precio es por grupo, 200 € para una pareja y 280 € para cuatro, con guía oficial solo para vosotros. Es un buen segundo tour para quien ya ha hecho la visita general y quiere profundizar.'
 atraccionesRelacionadas:
+- triana
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - sevilla era de los descubrimientos tour
 - sevilla puerto de indias visita guiada
@@ -91,6 +92,8 @@ galeria:
   alt: Orilla del Guadalquivir con la Torre del Oro al fondo
 bokunProductId: 1156777
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## El recorrido

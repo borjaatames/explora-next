@@ -61,6 +61,7 @@ opinionEditorial: 'If Picasso is why you''re coming to Málaga, this is the tour
 
   For 2 people it''s €166 per person, well above going on your own with tickets. With 4 it drops to €90 a head (€360 in total), and that''s where it beats hiring a guide separately.'
 atraccionesRelacionadas:
+- museo-picasso
 - picasso
 - centro-historico
 categoria: visitasGuiadas
@@ -90,6 +91,7 @@ galeria:
   alt: White gallery room with works on display
 bokunProductId: 936430
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

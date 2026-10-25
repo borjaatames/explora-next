@@ -67,8 +67,9 @@ opinionEditorial: 'It does exactly what it says: two hours to get your bearings 
 
   It''s one of the most affordable private tours: from about €54 per person for two and about €32 each for four, with children free. If you''d like more neighbourhoods and a tapa, the same operator runs a 3-hour version.'
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - 2 hour private tour barcelona
 - barcelona first day tour
@@ -107,6 +108,7 @@ galeria:
   alt: Travellers sitting by a fountain in the old town
 bokunProductId: 217563
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## The route

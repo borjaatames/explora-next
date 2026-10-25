@@ -67,7 +67,7 @@ opinionEditorial: 'Cádiz y Jerez son la excursión clásica desde Sevilla, y en
   El precio es por grupo, 870 € para 1 o 2 personas, y no es reembolsable. Para una pareja es caro frente a una excursión en grupo; con 4 personas (1.160 € en total) empieza a tener sentido.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cadiz y jerez desde sevilla privado
 - excursion privada cadiz jerez
@@ -91,6 +91,8 @@ galeria:
   alt: Playa de La Caleta y el balneario
 bokunProductId: 860683
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

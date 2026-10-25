@@ -48,7 +48,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'Una hora da para bastante más de lo que parece: el fotógrafo conoce los ángulos que funcionan alrededor de la Sagrada Familia y no pierde tiempo. Si quieres entrar también a la basílica o a Park Güell, compra esas entradas aparte y con antelación, porque no están incluidas y se agotan.'
 atraccionesRelacionadas:
 - fotos
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - sesion fotos privada barcelona
 - fotografo sagrada familia
@@ -74,6 +74,8 @@ publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a vivir

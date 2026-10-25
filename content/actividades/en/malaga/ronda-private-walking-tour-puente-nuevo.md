@@ -66,8 +66,9 @@ opinionEditorial: 'If you''re already in Ronda or getting there yourself, two ho
 
   The per-group price, €200 for 1 or 2 people and €260 for 4, is reasonable for families. Coming from Málaga without a car, the full private day trip, which includes transport, makes more sense.'
 atraccionesRelacionadas:
+- ronda
 - excursiones
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - private tour ronda
 - private guide ronda
@@ -98,6 +99,8 @@ galeria:
   alt: Couple at a viewpoint over the mountains
 bokunProductId: 848245
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## The route

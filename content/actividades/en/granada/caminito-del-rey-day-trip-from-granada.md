@@ -2,8 +2,7 @@
 titulo: Caminito del Rey from Granada — Day Trip
 slug: caminito-del-rey-day-trip-from-granada
 ciudad: granada
-descripcion: Full-day trip to the Caminito del Rey from Granada. A vertiginous walkway 100 metres above the Gaitanes Gorge.
-  Includes private transport, ticket, guide and lunch.
+descripcion: Full-day trip to the Caminito del Rey from Granada. A vertiginous walkway 100 metres above the Gaitanes Gorge. Includes private transport, ticket, guide and lunch.
 slugs:
   en: caminito-del-rey-day-trip-from-granada
   es: caminito-del-rey-desde-granada
@@ -35,9 +34,7 @@ noIncluye:
 - Travel insurance
 puntoEncuentro:
   texto: Discovering Spain office, Plaza de las Descalzas 3, Granada
-  descripcionGuia: 'Departure is from central Granada by private transport. About 1h 45min to the Caminito (Málaga). Book
-    WEEKS in advance: Caminito tickets sell out fast and this tour guarantees them. The operator (Discovering Spain) requires
-    a minimum number of participants to confirm the tour.'
+  descripcionGuia: 'Departure is from central Granada by private transport. About 1h 45min to the Caminito (Málaga). Book WEEKS in advance: Caminito tickets sell out fast and this tour guarantees them. The operator (Discovering Spain) requires a minimum number of participants to confirm the tour.'
   latitud: 36.9258
   longitud: -4.7964
   zoom: 13
@@ -58,95 +55,74 @@ informacionImportante:
   - People with a fear of heights
   - People with vertigo
   aTenerEnCuenta:
-  - 'NOT allowed: sandals, heels, pets, drones, selfie sticks, bikes, umbrellas, walking poles, babies in pushchairs or bare
-    feet'
+  - 'NOT allowed: sandals, heels, pets, drones, selfie sticks, bikes, umbrellas, walking poles, babies in pushchairs or bare feet'
   - Confirmation requires a minimum number of participants — book a few days in advance
   - Caminito del Rey tickets sell out weeks in advance in season — this tour guarantees them
   - Minimum age 8 for safety reasons
-accesibilidad: NOT suitable for people with mobility problems, vertigo or fear of heights. The walkway is 100 metres above
-  the gorge. Pushchairs, electric wheelchairs and walking frames are not allowed.
-politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund. The operator may cancel if a minimum number
-  of participants is not reached.
+accesibilidad: NOT suitable for people with mobility problems, vertigo or fear of heights. The walkway is 100 metres above the gorge. Pushchairs, electric wheelchairs and walking frames are not allowed.
+politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund. The operator may cancel if a minimum number of participants is not reached.
 preguntasFrecuentes:
 - pregunta: Is the Caminito del Rey safe?
-  respuesta: Yes, completely. The current walkway (opened in 2015) is entirely new, with handrails, reinforced planks and
-    non-slip flooring. The victims who gave the Caminito its dangerous reputation were on the original walkway, abandoned
-    decades ago. The new one has an excellent safety record. That said, the 100 m of height is real — if you have a fear of
-    heights, better to skip it.
+  respuesta: Yes, completely. The current walkway (opened in 2015) is entirely new, with handrails, reinforced planks and non-slip flooring. The victims who gave the Caminito its dangerous reputation were on the original walkway, abandoned decades ago. The new one has an excellent safety record. That said, the 100 m of height is real — if you have a fear of heights, better to skip it.
 - pregunta: Why book this tour instead of going on my own?
-  respuesta: 'Caminito tickets sell out weeks in advance. If you arrive in Granada and decide the day before, you won''t get
-    a ticket. This tour guarantees them (the operator buys them in advance). There''s also no direct public transport from
-    Granada — you''d need car, train+taxi or bus with changes. And the route is linear (not circular): you have to get back
-    to the start, which the tour solves with private transport.'
+  respuesta: 'Caminito tickets sell out weeks in advance. If you arrive in Granada and decide the day before, you won''t get a ticket. This tour guarantees them (the operator buys them in advance). There''s also no direct public transport from Granada — you''d need car, train+taxi or bus with changes. And the route is linear (not circular): you have to get back to the start, which the tour solves with private transport.'
 - pregunta: How much walking is there?
-  respuesta: Roughly 5 kilometres, mostly downhill along walkways and trails. The route takes about 3-4 hours at a relaxed
-    pace, with photo stops. It's manageable for anyone in reasonable shape (3 hours of walking with moderate elevation change),
-    but it's not "a stroll" — closed shoes and water are essential.
+  respuesta: Roughly 5 kilometres, mostly downhill along walkways and trails. The route takes about 3-4 hours at a relaxed pace, with photo stops. It's manageable for anyone in reasonable shape (3 hours of walking with moderate elevation change), but it's not "a stroll" — closed shoes and water are essential.
 - pregunta: Is it worth the €135 price?
-  respuesta: 'For the Caminito experience (a 100 m-high suspension walkway, spectacular views of the Gaitanes), €135 is a
-    fair price when you include private transport from Granada (~150 km), guaranteed entry (€22 if bought separately), guide
-    and lunch. Compared to going on your own: you save time and the uncertainty of the ticket. It''s one of the most memorable
-    experiences in southern Spain.'
+  respuesta: 'For the Caminito experience (a 100 m-high suspension walkway, spectacular views of the Gaitanes), €135 is a fair price when you include private transport from Granada (~150 km), guaranteed entry (€22 if bought separately), guide and lunch. Compared to going on your own: you save time and the uncertainty of the ticket. It''s one of the most memorable experiences in southern Spain.'
 variantes: []
-opinionEditorial: 'The Caminito del Rey is one of the most spectacular outdoor experiences in Spain: a walkway built in 1905,
-  100 metres above the Gaitanes Gorge, refurbished and reopened in 2015 with all the modern safety measures. The 5 km route
-  through mountains and suspension bridges offers unique views — one of those places that looks great on Instagram and even
-  more impressive in person.
+opinionEditorial: 'The Caminito del Rey is one of the most spectacular outdoor experiences in Spain: a walkway built in 1905, 100 metres above the Gaitanes Gorge, refurbished and reopened in 2015 with all the modern safety measures. The 5 km route through mountains and suspension bridges offers unique views — one of those places that looks great on Instagram and even more impressive in person.
 
 
-  For visitors based in Granada, the organised tour is clearly the best option: the Caminito is 150 km away in Málaga, public
-  transport is awkward and tickets sell out weeks in advance. For €135 you get private return transport (4 hours of driving
-  in total), guaranteed entry (€22 on its own), an official guide and lunch included — a reasonable ratio.
+  For visitors based in Granada, the organised tour is clearly the best option: the Caminito is 150 km away in Málaga, public transport is awkward and tickets sell out weeks in advance. For €135 you get private return transport (4 hours of driving in total), guaranteed entry (€22 on its own), an official guide and lunch included — a reasonable ratio.
 
 
-  What NOT to do if: you have a fear of heights, vertigo, are travelling with children under 8 or have mobility problems.
-  The walkway is well built, but the 100 m is real and you feel it. For everyone else, it''s one of the most memorable day
-  trips you can do from Granada — outside the Arab-Christian cultural axis of the city and inside the natural axis of southern
-  Spain.
+  What NOT to do if: you have a fear of heights, vertigo, are travelling with children under 8 or have mobility problems. The walkway is well built, but the 100 m is real and you feel it. For everyone else, it''s one of the most memorable day trips you can do from Granada — outside the Arab-Christian cultural axis of the city and inside the natural axis of southern Spain.
 
   '
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - caminito del rey
 - caminito del rey from granada
 - gaitanes gorge tour
 - malaga walkway andalusia
 - caminito del rey with ticket
-imagen: "/images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp"
-imagenAlt: "Visitors walking along the Caminito's walkways"
+imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+imagenAlt: Visitors walking along the Caminito's walkways
 galeria:
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
-  alt: "Aerial view of the gorge and vegetation"
+  alt: Aerial view of the gorge and vegetation
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
-  alt: "Caminito del Rey suspension bridge over the river"
+  alt: Caminito del Rey suspension bridge over the river
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
-  alt: "Hanging bridge on the Caminito del Rey"
+  alt: Hanging bridge on the Caminito del Rey
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
-  alt: "Caminito del Rey walkways on the rock face"
+  alt: Caminito del Rey walkways on the rock face
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-30826039.webp
-  alt: "Walkway beneath a rock overhang"
+  alt: Walkway beneath a rock overhang
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-37490628.webp
-  alt: "Hikers on the Caminito del Rey walkways"
+  alt: Hikers on the Caminito del Rey walkways
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240632.webp
-  alt: "Gaitanes Gorge and the reservoir"
+  alt: Gaitanes Gorge and the reservoir
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240633.webp
-  alt: "Iron bridge at the end of the Caminito del Rey"
+  alt: Iron bridge at the end of the Caminito del Rey
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-unsplash-BCWBVlNgK90.webp
-  alt: "Suspension bridge over the Guadalhorce river"
+  alt: Suspension bridge over the Guadalhorce river
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-27-jp.webp
-  alt: "Sheer walls of the Gaitanes Gorge"
+  alt: Sheer walls of the Gaitanes Gorge
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-wikimedia-caminito-del-rey-m-laga-espa-a-2023-05-18-dd-16-jp.webp
-  alt: "Hoyo valley between the two gorges"
+  alt: Hoyo valley between the two gorges
 - src: /images/actividades/granada/caminito-del-rey-desde-granada/caminito-del-rey-desde-granada-entrada-tuneles-naturales-04-hero.webp
-  alt: "Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls"
+  alt: Suspended walkway of Caminito del Rey spanning 100 meters above Gaitanes canyon gorge with sheer rock walls
 ratingProveedor: 4.8
 numeroOpiniones: 59
 publicada: true
 destacada: false
 fecha: '2026-05-16'
 fecha_actualizacion: '2026-05-16'
+privada: true
 ---
 
 # Caminito del Rey from Granada — Day Trip

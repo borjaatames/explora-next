@@ -72,37 +72,37 @@ keywords:
 - teide observatory tickets
 - izana observatory tour
 - teide telescopes
-imagen: "/images/actividades/tenerife/observatorio/observatorio-teide-01.webp"
-imagenAlt: "Teide Observatory at Izaña, with its telescopes on the ridge"
+imagen: /images/actividades/tenerife/observatorio/observatorio-teide-01.webp
+imagenAlt: Teide Observatory at Izaña, with its telescopes on the ridge
 galeria:
-  - src: "/images/actividades/tenerife/teide/teide-canadas.webp"
-    alt: "Volcanic landscape of Las Cañadas del Teide, home of the Observatory"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-02.webp"
-    alt: "White telescope domes at the Teide Observatory"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-03.webp"
-    alt: "Solar telescopes at the Teide Observatory"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-04.webp"
-    alt: "Telescope tower with Mount Teide behind"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-06.webp"
-    alt: "Entrance to the Teide Observatory with flags"
-  - src: "/images/actividades/tenerife/observatorio/observatorio-teide-07.webp"
-    alt: "Observatory telescopes with Mount Teide behind"
-  - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
-    alt: "Paisaje volcánico de las Cañadas del Teide al atardecer"
-  - src: "/images/actividades/tenerife/teide/canadas-panoramica.webp"
-    alt: "Las Cañadas del Teide"
-  - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
-    alt: "Sunset over the sea of clouds"
-  - src: "/images/actividades/tenerife/teide/teide-mar-nubes.webp"
-    alt: "Mount Teide above the sea of clouds"
-  - src: "/images/actividades/tenerife/teide/teide-nevado.webp"
-    alt: "Snow-capped Mount Teide"
-  - src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
-    alt: "Los Roques de García, next to the Observatory"
-  - src: "/images/actividades/tenerife/estrellas/via-lactea-teide.webp"
-    alt: "The Milky Way over Mount Teide, a protected sky since 1988"
-  - src: "/images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp"
-    alt: "Starry sky over Los Roques de García"
+- src: /images/actividades/tenerife/teide/teide-canadas.webp
+  alt: Volcanic landscape of Las Cañadas del Teide, home of the Observatory
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-02.webp
+  alt: White telescope domes at the Teide Observatory
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-03.webp
+  alt: Solar telescopes at the Teide Observatory
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-04.webp
+  alt: Telescope tower with Mount Teide behind
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-06.webp
+  alt: Entrance to the Teide Observatory with flags
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-07.webp
+  alt: Observatory telescopes with Mount Teide behind
+- src: /images/actividades/tenerife/teide/canadas-lava.webp
+  alt: Paisaje volcánico de las Cañadas del Teide al atardecer
+- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
+  alt: Las Cañadas del Teide
+- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
+  alt: Sunset over the sea of clouds
+- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
+  alt: Mount Teide above the sea of clouds
+- src: /images/actividades/tenerife/teide/teide-nevado.webp
+  alt: Snow-capped Mount Teide
+- src: /images/actividades/tenerife/teide/roques-garcia-vista.webp
+  alt: Los Roques de García, next to the Observatory
+- src: /images/actividades/tenerife/estrellas/via-lactea-teide.webp
+  alt: The Milky Way over Mount Teide, a protected sky since 1988
+- src: /images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp
+  alt: Starry sky over Los Roques de García
 ratingProveedor: 4.6
 numeroOpiniones: 918
 atraccionesRelacionadas:

@@ -1,8 +1,8 @@
 ---
-titulo: "Tarragona a tu ritmo: tour autoguiado DareMapp"
+titulo: 'Tarragona a tu ritmo: tour autoguiado DareMapp'
 slug: tour-autoguiado-daremapp-tarragona
 ciudad: tarragona
-descripcion: "Descubre Tarragona a tu ritmo con la audioguía autoguiada DareMapp: Anfiteatro y Circo Romano. Sin guía físico, disponible 24/7 todo el año, en 6 idiomas."
+descripcion: 'Descubre Tarragona a tu ritmo con la audioguía autoguiada DareMapp: Anfiteatro y Circo Romano. Sin guía físico, disponible 24/7 todo el año, en 6 idiomas.'
 slugs:
   es: tour-autoguiado-daremapp-tarragona
   en: self-guided-tour-daremapp-tarragona
@@ -19,14 +19,14 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1148388
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorre Tarragona a tu propio ritmo, sin horarios fijos ni grupos
 - Elige las paradas que quieras y sáltate las que no te interesen
-- "Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento"
-- "Disponible las 24 horas del día, los 365 días del año: el acceso no caduca"
+- 'Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento'
+- 'Disponible las 24 horas del día, los 365 días del año: el acceso no caduca'
 - Descubre el Anfiteatro Romano, el Carrer Major, el Circo Romano y la Fuente del Centenario, además de más de 12 puntos de interés en total
 incluye:
 - Ir a tu propio ritmo, sin horarios ni grupos
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - Guía físico (es una experiencia 100% autónoma, sin acompañante)
 puntoEncuentro:
-  texto: "Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Tarragona"
+  texto: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Tarragona'
 informacionImportante:
   aTenerEnCuenta:
-  - "Apto para toda la familia: edad mínima 1 año"
+  - 'Apto para toda la familia: edad mínima 1 año'
   - App disponible en español, inglés, portugués, francés, italiano y alemán
   - Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio
   - Buen acceso a transporte público en la zona de la ruta
@@ -50,32 +50,32 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Es la opción ideal si quieres moverte por Tarragona a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
-categoria: visitasGuiadas
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación.
+opinionEditorial: 'Es la opción ideal si quieres moverte por Tarragona a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
+categoria: toursCiudad
 keywords:
 - tour autoguiado tarragona
 - audioguía tarragona
 - visita autoguiada tarragona app
-imagen: "/images/actividades/tarragona/romana/anfiteatro-gradas.webp"
-imagenAlt: "Gradas del anfiteatro durante una recreación histórica"
+imagen: /images/actividades/tarragona/romana/anfiteatro-gradas.webp
+imagenAlt: Gradas del anfiteatro durante una recreación histórica
 galeria:
-- src: "/images/actividades/tarragona/romana/pretorio-interior.webp"
-  alt: "Interior del Pretorio romano de Tarragona"
+- src: /images/actividades/tarragona/romana/pretorio-interior.webp
+  alt: Interior del Pretorio romano de Tarragona
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
-  alt: "Claustro y jardín de la catedral"
+  alt: Claustro y jardín de la catedral
 - src: /images/actividades/tarragona/romana/muralla-romana.webp
-  alt: "Muralla romana de Tarragona"
+  alt: Muralla romana de Tarragona
 - src: /images/actividades/tarragona/romana/plaza-del-rei.webp
-  alt: "Plaza del Rei, en la parte alta de Tarragona"
+  alt: Plaza del Rei, en la parte alta de Tarragona
 - src: /images/actividades/tarragona/romana/circo-romano.webp
-  alt: "Restos del circo romano de Tarraco"
+  alt: Restos del circo romano de Tarraco
 - src: /images/actividades/tarragona/catedral/catedral.webp
-  alt: "Catedral de Tarragona"
+  alt: Catedral de Tarragona
 - src: https://imgcdn.bokun.tools/d71e0f5c-7058-419f-9948-d83811029547.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 atraccionesRelacionadas:
-  - tarraco
+- tarraco
 publicada: true
 destacada: false
 fecha: '2026-09-05'

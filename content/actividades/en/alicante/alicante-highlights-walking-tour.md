@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: 'A good first loop of Alicante with a local: history, the Santa Cruz quarter and tips on where to eat. Fair price, and a private option for groups.'
 guiasRelacionadas:
 - what-to-see-in-alicante
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - alicante walking tour
 - alicante guided tour

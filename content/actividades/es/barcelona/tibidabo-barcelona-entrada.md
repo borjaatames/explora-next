@@ -2,7 +2,7 @@
 titulo: 'Barcelona: entrada al Parque de Atracciones Tibidabo'
 slug: tibidabo-barcelona-entrada
 ciudad: barcelona
-descripcion: 'Entrada al Parque de Atracciones del Tibidabo, en la colina más alta de Barcelona, con vistas panorámicas únicas y atracciones centenarias que combinan nostalgia y adrenalina. 4,3/5 con 458 reseñas.'
+descripcion: Entrada al Parque de Atracciones del Tibidabo, en la colina más alta de Barcelona, con vistas panorámicas únicas y atracciones centenarias que combinan nostalgia y adrenalina. 4,3/5 con 458 reseñas.
 slugs:
   es: tibidabo-barcelona-entrada
   en: tibidabo-barcelona-ticket
@@ -58,37 +58,37 @@ accesibilidad: Acceso limitado por el terreno en pendiente. Las atracciones prin
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego al Tibidabo desde el centro?
-  respuesta: 'Autobús T2A desde Plaça de Catalunya (30 min) → Tramvia Blau (tranvía histórico, opcional) → base del funicular → funicular hasta la cima. El funicular no está incluido en la entrada del parque.'
+  respuesta: Autobús T2A desde Plaça de Catalunya (30 min) → Tramvia Blau (tranvía histórico, opcional) → base del funicular → funicular hasta la cima. El funicular no está incluido en la entrada del parque.
 - pregunta: ¿El parque abre todos los días?
   respuesta: No. En temporada baja (otoño, invierno y primavera) el Tibidabo abre solo fines de semana y festivos. En verano también abre entre semana. Consulta el calendario en la web oficial antes de comprar.
 - pregunta: ¿Qué es El Avió?
   respuesta: Un avión Fokker de 1921 montado sobre un brazo giratorio que da vueltas sobre la ciudad. Es la atracción más famosa y fotografiada del parque; una de las más antiguas del mundo en funcionamiento.
-opinionEditorial: "El Tibidabo es único: no es el parque de atracciones más moderno ni el más grande, pero tiene algo que no tiene ningún otro parque del mundo. Su combinación de nostalgia (el Avió, el Museu d'Autòmates), arquitectura modernista y vistas absolutas sobre Barcelona lo hacen irrepetible. El precio es elevado; comprueba el calendario de apertura antes de ir."
+opinionEditorial: 'El Tibidabo es único: no es el parque de atracciones más moderno ni el más grande, pero tiene algo que no tiene ningún otro parque del mundo. Su combinación de nostalgia (el Avió, el Museu d''Autòmates), arquitectura modernista y vistas absolutas sobre Barcelona lo hacen irrepetible. El precio es elevado; comprueba el calendario de apertura antes de ir.'
 guiasRelacionadas:
 - barcelona-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - tibidabo barcelona
 - parque atracciones tibidabo
 - tibidabo entrada precio
 - avio tibidabo
 imagen: /images/actividades/barcelona/tibidabo/panoramica-parque.webp
-imagenAlt: "Parque de atracciones del Tibidabo con Barcelona al fondo"
+imagenAlt: Parque de atracciones del Tibidabo con Barcelona al fondo
 galeria:
-- src: "/images/actividades/barcelona/tibidabo/noria-templo-expiatorio.webp"
-  alt: "Noria del Tibidabo junto al Templo Expiatorio del Sagrat Cor"
+- src: /images/actividades/barcelona/tibidabo/noria-templo-expiatorio.webp
+  alt: Noria del Tibidabo junto al Templo Expiatorio del Sagrat Cor
 - src: /images/actividades/barcelona/tibidabo/noria-mar.webp
-  alt: "Noria y atracciones del Tibidabo sobre el mar"
+  alt: Noria y atracciones del Tibidabo sobre el mar
 - src: /images/actividades/barcelona/tibidabo/avio.webp
-  alt: "El Avió, la atracción histórica del Tibidabo"
+  alt: El Avió, la atracción histórica del Tibidabo
 - src: /images/actividades/barcelona/tibidabo/templo-noche.webp
-  alt: "Templo del Sagrado Corazón y noria del Tibidabo de noche"
+  alt: Templo del Sagrado Corazón y noria del Tibidabo de noche
 - src: /images/actividades/barcelona/tibidabo/carrusel.webp
-  alt: "Carrusel iluminado al atardecer en el Tibidabo"
+  alt: Carrusel iluminado al atardecer en el Tibidabo
 - src: /images/actividades/barcelona/tibidabo/avion-rojo-vistas-barcelona.webp
-  alt: "Atracción del avión rojo del Tibidabo con vistas a Barcelona"
+  alt: Atracción del avión rojo del Tibidabo con vistas a Barcelona
 - src: /images/actividades/barcelona/tibidabo/carrusel-aereo-vistas.webp
-  alt: "Vista aérea del carrusel del parque Tibidabo"
+  alt: Vista aérea del carrusel del parque Tibidabo
 ratingProveedor: 4.3
 numeroOpiniones: 458
 atraccionesRelacionadas:

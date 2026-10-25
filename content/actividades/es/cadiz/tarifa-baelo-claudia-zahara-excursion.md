@@ -96,8 +96,6 @@ galeria:
   alt: Puesta de sol sobre el Atlántico en la Costa de la Luz
 ratingProveedor: 4.7
 numeroOpiniones: 31
-atraccionesRelacionadas:
-- pueblos-blancos
 publicada: true
 destacada: false
 fecha: '2026-10-23'

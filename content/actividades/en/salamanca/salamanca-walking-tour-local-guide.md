@@ -64,7 +64,7 @@ opinionEditorial: 'It''s Salamanca''s most complete and best-rated tour: in two 
 guiasRelacionadas:
 - salamanca-in-1-day
 - salamanca-weekend-trip
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - salamanca walking tour
 - salamanca guided tour
@@ -90,6 +90,8 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 364
 atraccionesRelacionadas:
+- plaza-mayor
+- universidad-catedrales
 - casco-historico
 publicada: true
 destacada: false

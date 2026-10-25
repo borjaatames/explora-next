@@ -63,7 +63,7 @@ opinionEditorial: Tarraco es Patrimonio de la Humanidad y sin guía se queda en 
 guiasRelacionadas:
 - tarraco-romana-que-ver
 - tarragona-en-un-dia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour tarragona romana
 - visita guiada tarraco

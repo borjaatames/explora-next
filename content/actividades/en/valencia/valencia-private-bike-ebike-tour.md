@@ -67,9 +67,10 @@ opinionEditorial: 'Valencia is flat and has a nine-kilometre park running throug
 
   It''s a new activity with no reviews yet. From about €83 per person for two with a standard bike, and about €54 each for four.'
 atraccionesRelacionadas:
-- ciudad-artes-ciencias
 - centro-historico
-categoria: visitasGuiadas
+- ciudad-artes
+- ciudad-artes-ciencias
+categoria: toursCiudad
 keywords:
 - bike tour valencia
 - private bike tour valencia
@@ -98,6 +99,7 @@ galeria:
   alt: Cyclist in front of the Serranos Towers
 bokunProductId: 910128
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

@@ -58,35 +58,37 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes. Cancellation is free up to 24 hours before the start, with a full refund.
 atraccionesRelacionadas:
+- cordoba
 - excursiones
 categoria: excursionesDia
 keywords:
 - cordoba private day trip from seville
 - cordoba tour from seville
 - cordoba mosque private tour
-imagen: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp"
-imagenAlt: "Two-tone arches and columns of the Córdoba Mosque-Cathedral"
+imagen: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
+imagenAlt: Two-tone arches and columns of the Córdoba Mosque-Cathedral
 galeria:
-  - src: "/images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp"
-    alt: "The Roman Bridge and the Mosque over the Guadalquivir"
-  - src: "/images/actividades/cordoba/juderia/calleja-flores.webp"
-    alt: Calleja de las Flores with blue flowerpots
-  - src: "https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg"
-    alt: "Calleja de las Flores with the Mosque tower behind"
-  - src: "https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg"
-    alt: "Córdoba patio full of flowerpots"
-  - src: "https://imgcdn.bokun.tools/73cdecb0-4c07-4749-8b97-3cd43effe690.jpeg"
-    alt: "Statue of Maimonides in the Jewish Quarter"
-  - src: "https://imgcdn.bokun.tools/d948b6c9-7e11-4ebf-898c-b672485caf31.jpeg"
-    alt: "Dome over the mihrab of the Mosque-Cathedral"
-  - src: "https://imgcdn.bokun.tools/6827eefd-1f2d-4237-bf6f-801ff6c3c8a8.jpeg"
-    alt: "Whitewashed alley in the Jewish Quarter"
-  - src: "https://imgcdn.bokun.tools/86559899-2561-4ab5-8c42-e4afbf08d611.jpeg"
-    alt: "Bell tower of the Mosque-Cathedral among palm trees"
+- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
+  alt: The Roman Bridge and the Mosque over the Guadalquivir
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores with blue flowerpots
+- src: https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg
+  alt: Calleja de las Flores with the Mosque tower behind
+- src: https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg
+  alt: Córdoba patio full of flowerpots
+- src: https://imgcdn.bokun.tools/73cdecb0-4c07-4749-8b97-3cd43effe690.jpeg
+  alt: Statue of Maimonides in the Jewish Quarter
+- src: https://imgcdn.bokun.tools/d948b6c9-7e11-4ebf-898c-b672485caf31.jpeg
+  alt: Dome over the mihrab of the Mosque-Cathedral
+- src: https://imgcdn.bokun.tools/6827eefd-1f2d-4237-bf6f-801ff6c3c8a8.jpeg
+  alt: Whitewashed alley in the Jewish Quarter
+- src: https://imgcdn.bokun.tools/86559899-2561-4ab5-8c42-e4afbf08d611.jpeg
+  alt: Bell tower of the Mosque-Cathedral among palm trees
 publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
+privada: true
 ---
 
 ## What you'll see

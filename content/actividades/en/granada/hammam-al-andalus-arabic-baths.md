@@ -82,7 +82,7 @@ opinionEditorial: 'The high end of Granada''s hammam catalogue: Hammam Al Ándal
   '
 atraccionesRelacionadas:
 - hammam
-categoria: serviciosAdicionales
+categoria: talleres
 keywords:
 - hammam al andalus granada
 - alhambra arabic baths

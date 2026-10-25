@@ -83,6 +83,7 @@ galeria:
 ratingProveedor: 4.5
 numeroOpiniones: 65
 atraccionesRelacionadas:
+- casco-antiguo
 - centro-historico
 publicada: true
 destacada: false

@@ -60,7 +60,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Tenerife''s other side: green, damp and free of crowds. At €24 with a guide who explains the forest, it is one of the best-value trips on the island.'
 guiasRelacionadas:
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - anaga guided hike
 - forest of enigmas tenerife

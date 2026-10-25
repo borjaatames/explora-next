@@ -82,7 +82,7 @@ opinionEditorial: 'It works for anyone staying in the south who wants to drive a
 guiasRelacionadas:
 - climbing-mount-teide
 - what-to-see-in-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - teide quad
 - quad south tenerife

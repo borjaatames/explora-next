@@ -104,6 +104,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## Qué vas a ver

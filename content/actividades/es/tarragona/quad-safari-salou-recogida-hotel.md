@@ -68,25 +68,25 @@ preguntasFrecuentes:
 opinionEditorial: 'Es la actividad de aventura mejor valorada de Salou, con más de 1.200 reseñas: monitor, recogida en el hotel y vistas de la costa. Si vais dos, compartid quad: el precio es por vehículo.'
 guiasRelacionadas:
 - tarragona-en-un-dia
-categoria: experienciasPrivadas
+categoria: aventura
 keywords:
 - quad salou
 - excursion quad costa dorada
 - buggy salou
 - actividades salou
-imagen: "quad-barro.webp"
-imagenAlt: "Quad atravesando un charco"
+imagen: quad-barro.webp
+imagenAlt: Quad atravesando un charco
 galeria:
-- src: "/images/actividades/tarragona/costa/faro-salou.webp"
-  alt: "Faro de Salou y su edificio blanco bajo el cielo azul"
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: Faro de Salou y su edificio blanco bajo el cielo azul
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: "Montañas de Prades y Siurana"
+  alt: Montañas de Prades y Siurana
 - src: /images/actividades/tarragona/quad/montsant.webp
-  alt: "Paisaje de montaña en el interior de Tarragona"
-- src: "/images/actividades/tarragona/costa/cap-salou.webp"
-  alt: "Rocas del cabo de Salou frente al Mediterráneo"
+  alt: Paisaje de montaña en el interior de Tarragona
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: Rocas del cabo de Salou frente al Mediterráneo
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: "Atardecer en las montañas de Prades"
+  alt: Atardecer en las montañas de Prades
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:
@@ -95,6 +95,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

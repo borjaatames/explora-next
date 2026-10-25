@@ -84,6 +84,7 @@ opinionEditorial: 'Es el ticket oficial del Tour Bernabéu que vende GetYourGuid
 
   '
 atraccionesRelacionadas:
+- bernabeu
 - futbol
 categoria: entradas
 keywords:

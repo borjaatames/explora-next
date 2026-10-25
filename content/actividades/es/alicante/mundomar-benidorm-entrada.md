@@ -2,11 +2,11 @@
 titulo: 'Benidorm: entrada a Mundomar'
 slug: mundomar-benidorm-entrada
 ciudad: alicante
-descripcion: 'Entrada al parque marino y zoológico de Benidorm con delfines, leones marinos, flamencos y más de 1.500 animales de 200 especies. 4,7/5 con 1.582 reseñas.'
+descripcion: Entrada al parque marino y zoológico de Benidorm con delfines, leones marinos, flamencos y más de 1.500 animales de 200 especies. 4,7/5 con 1.582 reseñas.
 slugs:
   es: mundomar-benidorm-entrada
   en: mundomar-benidorm-ticket
-duracion: '1 día'
+duracion: 1 día
 duracionMinutos: 360
 precioDesde: 21
 moneda: EUR
@@ -30,7 +30,7 @@ noIncluye:
 - Transporte desde Benidorm
 - Actividades de nado con delfines (extra de pago)
 puntoEncuentro:
-  texto: 'Mundomar, Sierra Helada, s/n, Benidorm, Alicante'
+  texto: Mundomar, Sierra Helada, s/n, Benidorm, Alicante
   descripcionGuia: Mundomar está en la Sierra Helada, al este de Benidorm. Hay autobús lanzadera desde el centro. En coche, accede por la N-332 dirección Rincón de Loix. Aparcamiento disponible.
   latitud: 38.5478
   longitud: -0.1056
@@ -64,29 +64,29 @@ opinionEditorial: 'Mundomar es la mejor opción para familias con niños pequeñ
 guiasRelacionadas:
 - escapadas-costa-blanca-desde-alicante
 - que-ver-en-alicante
-categoria: entradas
+categoria: parques
 keywords:
 - mundomar benidorm entrada
 - mundomar delfines benidorm
 - zoo marino benidorm
 - parque animales benidorm
 imagen: /images/actividades/alicante/mundomar/delfines-salto.webp
-imagenAlt: "Salto de delfines en el espectáculo de Mundomar, Benidorm"
+imagenAlt: Salto de delfines en el espectáculo de Mundomar, Benidorm
 galeria:
-  - src: "/images/actividades/alicante/mundomar/delfin-entrenador.webp"
-    alt: "Delfín saltando junto a su entrenador en Mundomar"
-  - src: "/images/actividades/alicante/mundomar/delfines-piscina.webp"
-    alt: "Delfines mulares en la piscina de Mundomar"
-  - src: "/images/actividades/alicante/mundomar/escenario-pirata.webp"
-    alt: "Escenario pirata del delfinario de Mundomar"
-  - src: "/images/actividades/alicante/mundomar/delfin-salto-entrenador.webp"
-    alt: "Delfín saltando sobre el agua en el show de Mundomar"
-  - src: "/images/actividades/alicante/mundomar/delfines-nadando-superficie.webp"
-    alt: "Delfines nadando en la superficie de la piscina"
-  - src: "/images/actividades/alicante/mundomar/delfin-salto-pirata.webp"
-    alt: "Delfín saltando junto al escenario pirata"
-  - src: "/images/actividades/alicante/mundomar/entrenadora-piscina.webp"
-    alt: "Entrenadora saludando al público tras el show"
+- src: /images/actividades/alicante/mundomar/delfin-entrenador.webp
+  alt: Delfín saltando junto a su entrenador en Mundomar
+- src: /images/actividades/alicante/mundomar/delfines-piscina.webp
+  alt: Delfines mulares en la piscina de Mundomar
+- src: /images/actividades/alicante/mundomar/escenario-pirata.webp
+  alt: Escenario pirata del delfinario de Mundomar
+- src: /images/actividades/alicante/mundomar/delfin-salto-entrenador.webp
+  alt: Delfín saltando sobre el agua en el show de Mundomar
+- src: /images/actividades/alicante/mundomar/delfines-nadando-superficie.webp
+  alt: Delfines nadando en la superficie de la piscina
+- src: /images/actividades/alicante/mundomar/delfin-salto-pirata.webp
+  alt: Delfín saltando junto al escenario pirata
+- src: /images/actividades/alicante/mundomar/entrenadora-piscina.webp
+  alt: Entrenadora saludando al público tras el show
 ratingProveedor: 4.7
 numeroOpiniones: 1582
 atraccionesRelacionadas:

@@ -65,9 +65,10 @@ opinionEditorial: 'Un plan redondo para familias en Valencia: subir a las Torres
 
   Es una actividad nueva, sin opiniones aún. Con 2 adultos sale desde unos 82 € por persona; en grupo de 4, unos 59 €.'
 atraccionesRelacionadas:
-- ciudad-artes-ciencias
 - centro-historico
-categoria: visitasGuiadas
+- ciudad-artes
+- ciudad-artes-ciencias
+categoria: toursCiudad
 keywords:
 - valencia con niños tour
 - tour privado familias valencia
@@ -96,6 +97,7 @@ galeria:
   alt: Las Torres de Serranos, antigua puerta de la muralla de Valencia
 bokunProductId: 905314
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el paseo

@@ -65,7 +65,6 @@ opinionEditorial: 'This is the «eat like a local» tapas tour: five traditional
 
 
   As it''s private, it''s better value in a group: from about €129 per person for two, about €102 each for four.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - private tapas tour barcelona
@@ -95,6 +94,7 @@ galeria:
   alt: Pintxos counter in a Barcelona tavern
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the route works

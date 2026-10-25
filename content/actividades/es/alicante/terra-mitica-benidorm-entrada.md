@@ -6,7 +6,7 @@ descripcion: 'Entrada al parque de atracciones de Benidorm con temática mediter
 slugs:
   es: terra-mitica-benidorm-entrada
   en: terra-mitica-benidorm-ticket
-duracion: '1 día completo'
+duracion: 1 día completo
 duracionMinutos: 480
 precioDesde: 29
 moneda: EUR
@@ -30,7 +30,7 @@ noIncluye:
 - Transporte desde Benidorm
 - Atracciones de pago adicional
 puntoEncuentro:
-  texto: 'Terra Mítica, Partida de la Marina, s/n, Benidorm, Alicante'
+  texto: Terra Mítica, Partida de la Marina, s/n, Benidorm, Alicante
   descripcionGuia: El parque está a unos 5 km del centro de Benidorm. Hay autobús lanzadera desde la ciudad. En coche, toma la salida Terra Mítica de la AP-7. El aparcamiento tiene coste adicional.
   latitud: 38.5669
   longitud: -0.1207
@@ -49,7 +49,7 @@ informacionImportante:
   noAptoPara:
   - Personas con problemas de corazón o espalda en algunas atracciones
   aTenerEnCuenta:
-  - "Magnus Colossus es la montaña rusa de madera más alta de España: imprescindible para los aficionados"
+  - 'Magnus Colossus es la montaña rusa de madera más alta de España: imprescindible para los aficionados'
   - En verano lleva mucha gente; llega a primera hora para las atracciones más populares
   - El parque cierra algunos días en temporada baja; confirma el calendario antes de comprar
 accesibilidad: El parque es accesible para sillas de ruedas aunque algunas atracciones tienen restricciones.
@@ -61,33 +61,33 @@ preguntasFrecuentes:
   respuesta: No es un parque acuático como tal, pero sí tiene atracciones de agua. Para parque acuático, Benidorm tiene Aqualandia muy cerca.
 - pregunta: ¿Cuándo cierra el parque en temporada baja?
   respuesta: Terra Mítica no abre todos los días del año. Cierra parte del invierno y abre en fines de semana o festivos en temporada media. Consulta el calendario oficial o confirma con el operador antes de reservar.
-opinionEditorial: 'Terra Mítica es el parque temático más grande de la Comunitat Valenciana y una parada casi obligada en Benidorm si viajas con adolescentes o amantes de las montañas rusas. La temática mediterránea es original y Magnus Colossus merece la visita por sí solo.'
+opinionEditorial: Terra Mítica es el parque temático más grande de la Comunitat Valenciana y una parada casi obligada en Benidorm si viajas con adolescentes o amantes de las montañas rusas. La temática mediterránea es original y Magnus Colossus merece la visita por sí solo.
 guiasRelacionadas:
 - escapadas-costa-blanca-desde-alicante
 - que-ver-en-alicante
-categoria: entradas
+categoria: parques
 keywords:
 - terra mitica benidorm entrada
 - terra mitica ticket
 - parque atracciones benidorm
 - magnus colossus benidorm
 imagen: /images/actividades/alicante/terra-mitica/magnus-colossus.webp
-imagenAlt: "Montaña rusa de madera Magnus Colossus en Terra Mítica, Benidorm"
+imagenAlt: Montaña rusa de madera Magnus Colossus en Terra Mítica, Benidorm
 galeria:
-  - src: "/images/actividades/alicante/terra-mitica/vista-parque.webp"
-    alt: "Vista general de Terra Mítica con el Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/estructura-madera.webp"
-    alt: "Estructura de la montaña rusa de madera de Terra Mítica"
-  - src: "/images/actividades/alicante/terra-mitica/entrada-colossus.webp"
-    alt: "Entrada tematizada del Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-tematizacion.webp"
-    alt: "Detalle de la tematización del Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-vista-general.webp"
-    alt: "Vista general del Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-cartel.webp"
-    alt: "Cartel de entrada al Magnus Colossus"
-  - src: "/images/actividades/alicante/terra-mitica/colossus-vagones.webp"
-    alt: "Vagones de la montaña rusa Magnus Colossus"
+- src: /images/actividades/alicante/terra-mitica/vista-parque.webp
+  alt: Vista general de Terra Mítica con el Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/estructura-madera.webp
+  alt: Estructura de la montaña rusa de madera de Terra Mítica
+- src: /images/actividades/alicante/terra-mitica/entrada-colossus.webp
+  alt: Entrada tematizada del Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-tematizacion.webp
+  alt: Detalle de la tematización del Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-vista-general.webp
+  alt: Vista general del Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-cartel.webp
+  alt: Cartel de entrada al Magnus Colossus
+- src: /images/actividades/alicante/terra-mitica/colossus-vagones.webp
+  alt: Vagones de la montaña rusa Magnus Colossus
 ratingProveedor: 4.5
 numeroOpiniones: 504
 atraccionesRelacionadas:

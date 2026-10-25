@@ -71,14 +71,15 @@ preguntasFrecuentes:
   respuesta: No, entry is included.
 - pregunta: What if the weather is bad?
   respuesta: If the Caminito closes for wind or rain, you're rescheduled or refunded.
-avisoReserva: 'Spring and autumn slots sell out within days'
+avisoReserva: Spring and autumn slots sell out within days
 opinionEditorial: Caminito del Rey tickets sell out and getting there without a car is awkward; this trip sorts everything from Málaga. With over 19,000 reviews and a 4.9 rating, it's the area's top-rated activity.
 guiasRelacionadas:
 - caminito-del-rey-how-to-visit
 - day-trips-from-malaga
 atraccionesRelacionadas:
+- caminito
 - caminito-del-rey
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - caminito del rey from malaga
 - caminito del rey tour
@@ -87,12 +88,12 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/pasarela.webp
 imagenAlt: Caminito del Rey walkway clinging to the gorge
 galeria:
-- src: "/images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp"
-  alt: "Caminito del Rey suspension bridge over the river"
-- src: "/images/actividades/malaga/caminito-del-rey/pasarela-visitantes-desfiladero.webp"
-  alt: "Visitors walking the gorge walkway"
-- src: "/images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp"
-  alt: "Full view of the Caminito del Rey canyon"
+- src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
+  alt: Caminito del Rey suspension bridge over the river
+- src: /images/actividades/malaga/caminito-del-rey/pasarela-visitantes-desfiladero.webp
+  alt: Visitors walking the gorge walkway
+- src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
+  alt: Full view of the Caminito del Rey canyon
 - src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
   alt: Caminito del Rey in the Gaitanes gorge
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp

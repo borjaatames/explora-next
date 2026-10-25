@@ -75,7 +75,7 @@ opinionEditorial: 'Es de las experiencias más especiales de la isla: el atardec
 guiasRelacionadas:
 - roque-nublo-como-subir
 - que-ver-en-gran-canaria
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - observacion estrellas gran canaria
 - stargazing gran canaria
@@ -84,8 +84,8 @@ keywords:
 imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
 imagenAlt: Atardecer desde el Pico de las Nieves con el Roque Nublo y el Bentayga
 galeria:
-- src: "/images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp"
-  alt: "Silueta de montanas al atardecer en Gran Canaria"
+- src: /images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp
+  alt: Silueta de montanas al atardecer en Gran Canaria
 - src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
   alt: La Vía Láctea sobre un molino en Gran Canaria
 - src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.8
 numeroOpiniones: 302
 atraccionesRelacionadas:
+- roque-nublo
 - interior
 publicada: true
 destacada: false

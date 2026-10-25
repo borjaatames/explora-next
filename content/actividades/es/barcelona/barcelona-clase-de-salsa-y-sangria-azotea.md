@@ -64,7 +64,7 @@ opinionEditorial: 'Es uno de los planes sociales mejor valorados de Barcelona �
   Cuesta unos 49 € por persona. No es reembolsable, así que resérvalo cuando tengas la fecha segura. Para viajeros solos, grupos de amigas o despedidas, funciona muy bien.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: espectaculos
+categoria: talleres
 keywords:
 - clase de salsa barcelona
 - salsa y sangria barcelona

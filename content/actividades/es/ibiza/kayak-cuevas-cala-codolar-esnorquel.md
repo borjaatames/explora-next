@@ -72,7 +72,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Es la forma más auténtica de conocer la costa oeste de Ibiza: tranquila, en grupo pequeño y llegando a rincones donde los barcos grandes no entran. La salida al atardecer es especialmente bonita.'
 guiasRelacionadas:
 - mejores-calas-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - kayak ibiza
 - tour kayak cuevas ibiza

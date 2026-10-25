@@ -86,7 +86,7 @@ opinionEditorial: 'Es el clásico bus turístico hop-on hop-off de Big Bus en Ma
   '
 atraccionesRelacionadas:
 - otros-madrid
-categoria: transporte
+categoria: toursCiudad
 keywords:
 - big bus madrid
 - hop on hop off madrid

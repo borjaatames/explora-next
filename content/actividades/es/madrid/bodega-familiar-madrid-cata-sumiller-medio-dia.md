@@ -70,7 +70,7 @@ opinionEditorial: 'Si solo tienes una mañana libre y te apetece vino, esta es l
   Sale por unos 110 € por persona, transporte incluido. Es la más asequible de sus rutas; si te sabe a poco, la de dos bodegas amplía la cata a seis vinos.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - bodega cerca de madrid
 - cata de vino madrid medio dia

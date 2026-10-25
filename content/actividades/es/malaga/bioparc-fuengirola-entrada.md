@@ -58,7 +58,7 @@ preguntasFrecuentes:
 opinionEditorial: Un zoo moderno, de los que se centran en conservación y hábitats, y no en jaulas. Para una mañana con niños en la Costa del Sol es de lo mejor que hay.
 guiasRelacionadas:
 - malaga-con-ninos
-categoria: entradas
+categoria: parques
 keywords:
 - bioparc fuengirola entradas
 - zoo fuengirola

@@ -71,7 +71,7 @@ opinionEditorial: It's Ibiza's top-rated cove tour (4.9/5 from over 1,400 review
 guiasRelacionadas:
 - best-coves-ibiza
 - what-to-see-in-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - ibiza all inclusive boat trip
 - ibiza cove tour by boat

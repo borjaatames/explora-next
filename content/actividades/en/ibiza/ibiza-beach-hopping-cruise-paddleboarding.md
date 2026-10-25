@@ -70,7 +70,7 @@ opinionEditorial: 'It''s Ibiza''s most-booked beach cruise, with over 3,500 revi
 guiasRelacionadas:
 - best-coves-ibiza
 - what-to-see-in-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - ibiza boat trip coves
 - cala bassa cala comte cruise

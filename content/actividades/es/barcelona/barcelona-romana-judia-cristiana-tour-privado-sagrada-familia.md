@@ -68,9 +68,10 @@ opinionEditorial: 'Un enfoque distinto de Barcelona: la ciudad contada a través
 
   En pareja sale desde unos 121 € por persona; en grupo de 4, unos 99 €. Evita el sábado si quieres entrar en la sinagoga.'
 atraccionesRelacionadas:
+- gotico
 - sagrada-familia
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour barcelona judia
 - call judio barcelona visita
@@ -99,6 +100,7 @@ galeria:
   alt: Vidrieras azules y verdes iluminando la nave de la Sagrada Familia
 bokunProductId: 612622
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

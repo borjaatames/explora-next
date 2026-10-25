@@ -66,7 +66,7 @@ opinionEditorial: 'Málaga desde Cádiz es un día largo, con cinco horas de car
   El precio es por grupo, unos 720 € en pareja y unos 960 € para 4. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - malaga desde cadiz
 - excursion malaga desde cadiz
@@ -95,6 +95,8 @@ galeria:
   alt: Paseo junto al puerto de Málaga
 bokunProductId: 1234409
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

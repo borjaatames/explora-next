@@ -66,7 +66,7 @@ preguntasFrecuentes:
 opinionEditorial: 'A nimble way to see Salamanca, including what many miss: the Tormes and the best view of the cathedrals from the Roman bridge. Remember the bike is extra.'
 guiasRelacionadas:
 - salamanca-weekend-trip
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - salamanca bike tour
 - salamanca by bike

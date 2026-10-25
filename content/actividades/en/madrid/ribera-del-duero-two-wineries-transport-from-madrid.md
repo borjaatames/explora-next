@@ -73,7 +73,7 @@ opinionEditorial: 'This is the most direct way to get to know Ribera del Duero f
   It costs about €250 per person for two (about €225 each for four). Lunch is extra —around €45 if you eat there— or you can skip it and get back earlier. If you want the full experience with roast lamb, look at the three-winery version.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - ribera del duero from madrid
 - ribera del duero wineries day trip

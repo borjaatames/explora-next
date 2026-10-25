@@ -69,6 +69,7 @@ opinionEditorial: 'Gibraltar es una de las excursiones más curiosas desde Mála
 guiasRelacionadas:
 - escapadas-desde-malaga
 atraccionesRelacionadas:
+- gibraltar
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -79,10 +80,10 @@ keywords:
 imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
 imagenAlt: Peñón de Gibraltar visto desde la ciudad
 galeria:
-- src: "/images/actividades/malaga/gibraltar/macacos-reserva-natural.webp"
-  alt: "Macacos de Berberia en la reserva natural del Penon de Gibraltar"
-- src: "/images/actividades/malaga/gibraltar/dos-macacos-descansando.webp"
-  alt: "Dos macacos descansando en el Penon de Gibraltar"
+- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
+  alt: Macacos de Berberia en la reserva natural del Penon de Gibraltar
+- src: /images/actividades/malaga/gibraltar/dos-macacos-descansando.webp
+  alt: Dos macacos descansando en el Penon de Gibraltar
 - src: /images/actividades/malaga/gibraltar/penon-cresta.webp
   alt: Cresta del Peñón de Gibraltar sobre el mar
 - src: /images/actividades/malaga/gibraltar/macacos-familia.webp

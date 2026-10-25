@@ -30,7 +30,7 @@ noIncluye:
 - Food
 puntoEncuentro:
   texto: Alcudiamar marina (Port d'Alcúdia), first pier, moorings 15 to 17
-  descripcionGuia: 'Check in with the Alcudia Sea Explorer staff 15 minutes before departure. If you book the pickup option, your voucher shows the time and place.'
+  descripcionGuia: Check in with the Alcudia Sea Explorer staff 15 minutes before departure. If you book the pickup option, your voucher shows the time and place.
   latitud: 39.8365
   longitud: 3.136
   zoom: 15
@@ -67,7 +67,7 @@ opinionEditorial: The best way to see Formentor now that the road is restricted 
 guiasRelacionadas:
 - what-to-see-in-mallorca
 - best-coves-mallorca
-categoria: excursionesDia
+categoria: agua
 keywords:
 - formentor boat trip
 - boat to formentor from alcudia

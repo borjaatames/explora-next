@@ -72,6 +72,7 @@ variantes:
 opinionEditorial: 'Tres ciudades en un día es mucho, pero esta excursión lo resuelve bien: grupo en minibús, guía oficial y comida incluida. Es para quien tiene un solo día libre y quiere llevarse Segovia, Ávila y Toledo. Si prefieres ir más despacio, la de Segovia y Toledo da más tiempo en cada ciudad.'
 atraccionesRelacionadas:
 - toledo
+- segovia
 categoria: excursionesDia
 keywords:
 - excursion toledo segovia avila

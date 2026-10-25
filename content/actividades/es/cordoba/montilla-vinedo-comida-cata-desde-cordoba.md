@@ -58,7 +58,6 @@ opinionEditorial: 'Es un plan para quien quiere salir de Córdoba medio día y c
 
 
   En pareja es caro, unos 397 € por persona; en grupo de 4 baja a la mitad, unos 198 €. Aún no tiene opiniones publicadas.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - montilla bodega visita desde cordoba
@@ -88,6 +87,7 @@ galeria:
   alt: Bodeguero mostrando una botella de su vino en el viñedo
 bokunProductId: 937794
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es el día

@@ -95,6 +95,7 @@ galeria:
   alt: Viajeros en una galería romana abovedada
 bokunProductId: 934218
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Qué vas a ver

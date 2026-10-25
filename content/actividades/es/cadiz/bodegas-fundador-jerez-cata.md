@@ -74,8 +74,8 @@ keywords:
 imagen: /images/actividades/cadiz/bodega/bodega-mezquita.webp
 imagenAlt: Interior de la bodega La Mezquita, con arcos y botas
 galeria:
-- src: "/images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp"
-  alt: "Antigua torre de una bodega historica en Jerez de la Frontera"
+- src: /images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp
+  alt: Antigua torre de una bodega historica en Jerez de la Frontera
 - src: /images/actividades/cadiz/bodega/botas-fundador.webp
   alt: Botas de vino en Bodegas Fundador
 - src: /images/actividades/cadiz/bodega/botas-arcos.webp

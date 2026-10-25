@@ -68,7 +68,7 @@ opinionEditorial: 'Es el mejor plan de Valencia con niños y uno de los zoos mej
 guiasRelacionadas:
 - valencia-con-ninos
 - valencia-en-2-dias
-categoria: entradas
+categoria: parques
 keywords:
 - bioparc valencia entradas
 - bioparc valencia
@@ -77,26 +77,26 @@ keywords:
 imagen: /images/actividades/valencia/bioparc/jirafas.webp
 imagenAlt: Jirafas en Bioparc Valencia
 galeria:
-- src: "/images/actividades/valencia/bioparc/bioparc-valencia-recinto-baobab.webp"
-  alt: "Recinto del Bioparc Valencia con baobab y paisaje africano"
-- src: "/images/actividades/valencia/bioparc/cebras-recinto-bioparc-valencia.webp"
-  alt: "Cebras en el recinto del Bioparc Valencia"
-- src: "/images/actividades/valencia/bioparc/addax-antilope-bioparc-valencia.webp"
-  alt: "Addax (antílope) descansando en el Bioparc Valencia"
-- src: "/images/actividades/valencia/bioparc/chimpances-habitat-natural-bioparc.webp"
-  alt: "Chimpancés en su hábitat natural en el Bioparc Valencia"
-- src: "/images/actividades/valencia/bioparc/rinoceronte-recinto-zoo-bioparc.webp"
-  alt: "Rinoceronte en el recinto africano del Bioparc Valencia"
-- src: "/images/actividades/valencia/bioparc/elefante-bioparc-valencia-espana.webp"
-  alt: "Elefante en el Bioparc Valencia, zoo inmersivo de estilo africano"
-- src: "/images/actividades/valencia/bioparc/leon-melena-zoo-africano.webp"
-  alt: "León con melena en recinto de zoo de estilo africano"
+- src: /images/actividades/valencia/bioparc/bioparc-valencia-recinto-baobab.webp
+  alt: Recinto del Bioparc Valencia con baobab y paisaje africano
+- src: /images/actividades/valencia/bioparc/cebras-recinto-bioparc-valencia.webp
+  alt: Cebras en el recinto del Bioparc Valencia
+- src: /images/actividades/valencia/bioparc/addax-antilope-bioparc-valencia.webp
+  alt: Addax (antílope) descansando en el Bioparc Valencia
+- src: /images/actividades/valencia/bioparc/chimpances-habitat-natural-bioparc.webp
+  alt: Chimpancés en su hábitat natural en el Bioparc Valencia
+- src: /images/actividades/valencia/bioparc/rinoceronte-recinto-zoo-bioparc.webp
+  alt: Rinoceronte en el recinto africano del Bioparc Valencia
+- src: /images/actividades/valencia/bioparc/elefante-bioparc-valencia-espana.webp
+  alt: Elefante en el Bioparc Valencia, zoo inmersivo de estilo africano
+- src: /images/actividades/valencia/bioparc/leon-melena-zoo-africano.webp
+  alt: León con melena en recinto de zoo de estilo africano
 - src: /images/actividades/valencia/bioparc/sabana.webp
   alt: Recreación de la sabana africana en Bioparc Valencia
 - src: /images/actividades/valencia/bioparc/gorila.webp
   alt: Gorila en el bosque ecuatorial de Bioparc
 - src: /images/actividades/valencia/bioparc/elefantes.webp
-  alt: "Dos elefantes africanos junto a las rocas de su recinto"
+  alt: Dos elefantes africanos junto a las rocas de su recinto
 - src: /images/actividades/valencia/bioparc/suricata.webp
   alt: Suricata vigilando en Bioparc
 - src: /images/actividades/valencia/bioparc/hiena.webp

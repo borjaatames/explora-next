@@ -73,7 +73,7 @@ opinionEditorial: 'Es la forma más directa de conocer Ribera del Duero desde Ma
   Cuesta unos 250 € por persona para dos (unos 225 € si sois cuatro). La comida va aparte —unos 45 € si queréis comer allí— o se puede saltar y volver antes. Si quieres la experiencia completa con lechazo, mira la versión de tres bodegas.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - ribera del duero desde madrid
 - bodegas ribera del duero excursion

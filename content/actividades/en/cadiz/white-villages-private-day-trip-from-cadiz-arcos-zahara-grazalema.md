@@ -67,7 +67,7 @@ opinionEditorial: 'The easiest way to see three of Cádiz''s loveliest white vil
 atraccionesRelacionadas:
 - pueblos-blancos
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - white villages from cadiz
 - white villages private day trip
@@ -102,6 +102,8 @@ galeria:
   alt: White street with window grilles in a mountain village
 bokunProductId: 1028252
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the day works

@@ -51,8 +51,9 @@ detallesPracticos:
 politicaCancelacion: 'Según el proveedor, la reserva no es reembolsable: revisa bien la fecha y la hora antes de pagar.'
 opinionEditorial: Suma las dos rutas cortas de Tuk Tuk Zero en una. Si tenéis poco tiempo y queréis ver tanto el Madrid de los Austrias como el Bernabéu y el barrio de Salamanca, es la opción. Para una sola zona, la ruta corta del centro histórico es más barata. La reserva no es reembolsable.
 atraccionesRelacionadas:
+- bernabeu
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk madrid
 - tour completo madrid tuk tuk
@@ -84,6 +85,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

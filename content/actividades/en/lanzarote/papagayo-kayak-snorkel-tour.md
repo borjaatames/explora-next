@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: kayak and snorkel tour at Papagayo beach'
 slug: papagayo-kayak-snorkel-tour
 ciudad: lanzarote
-descripcion: 'A 3.5-hour guided kayak route around Papagayo bay with a snorkelling stop in a protected area, fruit, water and photos included. Leaves from Hotel Sandos Papagayo. Rated 4.7/5 from more than 160 reviews.'
+descripcion: A 3.5-hour guided kayak route around Papagayo bay with a snorkelling stop in a protected area, fruit, water and photos included. Leaves from Hotel Sandos Papagayo. Rated 4.7/5 from more than 160 reviews.
 slugs:
   es: kayak-esnorquel-papagayo
   en: papagayo-kayak-snorkel-tour
@@ -37,8 +37,8 @@ incluye:
 noIncluye:
 - Transfer to Hotel Sandos Papagayo
 puntoEncuentro:
-  texto: 'In front of the reception of Hotel Sandos Papagayo, Playa Blanca.'
-  descripcionGuia: 'A uniformed guide wearing the company name walks you to the centre by the beach. According to the description, the start is at 9:45.'
+  texto: In front of the reception of Hotel Sandos Papagayo, Playa Blanca.
+  descripcionGuia: A uniformed guide wearing the company name walks you to the centre by the beach. According to the description, the start is at 9:45.
   latitud: 28.8566
   longitud: -13.7995
   zoom: 14
@@ -64,15 +64,15 @@ preguntasFrecuentes:
 - pregunta: Do I need kayaking experience?
   respuesta: 'The listing doesn''t require any: before setting off there''s a short briefing on paddling and safety rules.'
 - pregunta: How long do you paddle?
-  respuesta: 'About 45 minutes to an hour out across the bay, 1 h 15 of snorkelling or free time on the beach, and about 45 minutes back.'
+  respuesta: About 45 minutes to an hour out across the bay, 1 h 15 of snorkelling or free time on the beach, and about 45 minutes back.
 - pregunta: Can children come?
-  respuesta: 'From age 3, according to the operator. For the youngest, check which kayak type is available.'
+  respuesta: From age 3, according to the operator. For the youngest, check which kayak type is available.
 - pregunta: Do the photos cost extra?
-  respuesta: 'No, they''re included and sent by WeTransfer the same afternoon.'
+  respuesta: No, they're included and sent by WeTransfer the same afternoon.
 opinionEditorial: 'It''s the most active way to enjoy Papagayo and its score is very high (4.7), though with few reviews compared with other island activities so far. The water is calm and it works for families and beginners. The catch is the timing: it starts at 9:45 in the south, so if you''re staying in Costa Teguise or the north you''ll need an early start.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - papagayo kayak
 - lanzarote kayak tour
@@ -82,16 +82,16 @@ keywords:
 imagen: /images/actividades/lanzarote/kayak-papagayo.webp
 imagenAlt: Kayaks on the turquoise water of Papagayo bay
 galeria:
-- src: "/images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp"
-  alt: "Golden sand and calm water on a Papagayo beach"
-- src: "/images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp"
-  alt: "A Papagayo cove with turquoise water and volcanic rocks"
-- src: "/images/actividades/lanzarote/zonas/papagayo-acantilado.webp"
-  alt: "Cliff and beach at Papagayo, in Los Ajaches"
-- src: "/images/actividades/lanzarote/zonas/papagayo-orilla.webp"
-  alt: "Shoreline of a Papagayo beach with cliffs behind"
-- src: "/images/actividades/lanzarote/zonas/playa-blanca.webp"
-  alt: "The beach at Playa Blanca, in southern Lanzarote"
+- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
+  alt: Golden sand and calm water on a Papagayo beach
+- src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
+  alt: A Papagayo cove with turquoise water and volcanic rocks
+- src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
+  alt: Cliff and beach at Papagayo, in Los Ajaches
+- src: /images/actividades/lanzarote/zonas/papagayo-orilla.webp
+  alt: Shoreline of a Papagayo beach with cliffs behind
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: The beach at Playa Blanca, in southern Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

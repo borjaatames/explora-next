@@ -66,8 +66,9 @@ opinionEditorial: 'Ronda es la excursión de interior que más merece la pena de
 
   Es caro para 1 o 2 personas (desde 580 € por grupo) y mejora a partir de 4. Si buscas lo más barato, hay excursiones en grupo; si quieres flexibilidad y un día sin prisas, encaja.'
 atraccionesRelacionadas:
+- ronda
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - ronda desde malaga
 - excursion privada ronda
@@ -94,6 +95,8 @@ galeria:
   alt: Vista panorámica de Setenil de las Bodegas
 bokunProductId: 860693
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

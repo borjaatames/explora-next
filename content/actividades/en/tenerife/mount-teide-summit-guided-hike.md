@@ -68,7 +68,7 @@ preguntasFrecuentes:
 opinionEditorial: The safest way to stand on the roof of Spain. It is pricey and demanding, but the guide sets the pace for the altitude and the reviews are near perfect.
 guiasRelacionadas:
 - climbing-mount-teide
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - mount teide summit hike
 - teide guided hike

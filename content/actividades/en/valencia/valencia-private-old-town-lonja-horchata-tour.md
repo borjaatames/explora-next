@@ -60,8 +60,9 @@ opinionEditorial: 'A great first look at Valencia: in four hours you see the ess
 
 
   It''s a new activity with no published reviews yet. From about €88 per person for two; about €59 each for four.'
-atraccionesRelacionadas: []
-categoria: visitasGuiadas
+atraccionesRelacionadas:
+- centro-historico
+categoria: toursCiudad
 keywords:
 - private tour valencia
 - valencia old town guided tour
@@ -92,6 +93,7 @@ galeria:
   alt: Horchata with a fartón pastry at a horchatería
 bokunProductId: 837004
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

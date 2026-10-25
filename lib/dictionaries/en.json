@@ -65,12 +65,16 @@
     "categorias": {
       "visitasGuiadas": "Guided tours",
       "entradas": "Tickets",
+      "toursCiudad": "City tours",
       "excursionesDia": "Day trips",
-      "espectaculos": "Shows",
-      "toursGastronomicos": "Food & drink",
-      "serviciosAdicionales": "Wellness",
-      "transporte": "Transport",
-      "experienciasPrivadas": "Private experiences"
+      "toursGastronomicos": "Food & wine",
+      "espectaculos": "Flamenco & shows",
+      "agua": "Boats & water activities",
+      "aventura": "Nature & adventure",
+      "parques": "Theme parks & family",
+      "nocturno": "Nightlife",
+      "talleres": "Workshops & experiences",
+      "privados": "Private"
     },
     "faqEnCiudad": "Frequently asked questions about things to do in {ciudad}"
   },

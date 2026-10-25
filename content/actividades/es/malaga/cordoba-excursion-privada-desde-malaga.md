@@ -65,7 +65,7 @@ opinionEditorial: 'Córdoba es la gran excursión monumental desde Málaga, y la
   El precio es por grupo: 750 € para 1 o 2 personas, caro frente al AVE por libre. Para 4 (920 € en total) se equilibra bastante, y ahí sí compensa la comodidad.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba desde malaga
 - excursion privada cordoba malaga
@@ -94,6 +94,8 @@ galeria:
   alt: Puente Romano, Puerta del Puente y Mezquita
 bokunProductId: 1063256
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

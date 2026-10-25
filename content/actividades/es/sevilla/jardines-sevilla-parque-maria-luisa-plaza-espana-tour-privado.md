@@ -58,8 +58,9 @@ opinionEditorial: 'Es un paseo tranquilo y distinto: en lugar de monumentos, los
 
   Para dos sale a 132 € por persona; con cuatro baja a 73 €. Lo recomiendo a quien ya ha visto el centro y quiere una mañana o una tarde al aire libre con alguien que le cuente la historia del paisaje.'
 atraccionesRelacionadas:
+- plaza-espana
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour jardines sevilla
 - parque de maria luisa visita guiada
@@ -85,6 +86,7 @@ galeria:
   alt: Callejón del Agua en el barrio de Santa Cruz
 bokunProductId: 949550
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

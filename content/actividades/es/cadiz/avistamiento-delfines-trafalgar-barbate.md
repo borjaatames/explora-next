@@ -66,7 +66,7 @@ preguntasFrecuentes:
 opinionEditorial: Ver delfines salvajes frente a Trafalgar es una experiencia que no olvidas. La nota de 4,1 refleja que no siempre aparecen ballenas y que el mar a veces se mueve; con eso claro, merece la pena.
 guiasRelacionadas:
 - playas-cadiz-costa-de-la-luz
-categoria: excursionesDia
+categoria: agua
 keywords:
 - avistamiento delfines cadiz
 - ballenas barbate
@@ -75,8 +75,8 @@ keywords:
 imagen: /images/actividades/cadiz/delfines/delfines-saltando.webp
 imagenAlt: Delfines comunes saltando
 galeria:
-- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Monumento a la Constitución de 1812 en la plaza de España de Cádiz"
+- src: /images/actividades/cadiz/ciudades/cadiz-hero.webp
+  alt: Monumento a la Constitución de 1812 en la plaza de España de Cádiz
 - src: /images/actividades/cadiz/delfines/delfin-comun.webp
   alt: Delfín común junto a la superficie
 - src: /images/actividades/cadiz/delfines/rorcual.webp

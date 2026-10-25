@@ -43,7 +43,7 @@ politicaCancelacion: Cancelación gratuita; se cobra el 100% si se cancela con 1
 opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado: el guía adapta el relato a lo que os interese y responde sin prisas. La historia judía de Madrid es poco conocida y está muy ligada a la de España —siglos de convivencia, tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo y contexto. Desde 249 € por grupo (300 € para 4 personas), es de las opciones privadas más asequibles del catálogo.'
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tour privado madrid judio
 - historia judia madrid visita guiada
@@ -79,6 +79,8 @@ publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

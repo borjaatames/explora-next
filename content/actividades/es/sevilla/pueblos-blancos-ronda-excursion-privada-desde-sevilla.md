@@ -67,6 +67,7 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.
 atraccionesRelacionadas:
+- ronda-pueblos-blancos
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -76,8 +77,8 @@ keywords:
 imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
 imagenAlt: Puente Nuevo de Ronda sobre el Tajo
 galeria:
-- src: "/images/actividades/granada/ronda/ronda-pixabay-3372201.webp"
-  alt: "Puente Nuevo sobre el Tajo en primavera"
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: Puente Nuevo sobre el Tajo en primavera
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: Zahara de la Sierra con su castillo y el embalse
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
@@ -85,7 +86,7 @@ galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp
   alt: Paisaje de pueblos blancos en la sierra de Cádiz
 - src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
-  alt: "El Tajo de Ronda desde el fondo del desfiladero"
+  alt: El Tajo de Ronda desde el fondo del desfiladero
 - src: https://imgcdn.bokun.tools/b62e81a0-0ab2-4b32-9bce-7c248cf36ac7.jpg
   alt: Pueblos Blancos de Cádiz
 - src: https://imgcdn.bokun.tools/01dc97d6-38e3-4a74-b35d-8908532caba9.jpg
@@ -94,6 +95,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
+privada: true
 ---
 
 ## Qué vas a ver

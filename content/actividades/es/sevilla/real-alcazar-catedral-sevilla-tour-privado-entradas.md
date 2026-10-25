@@ -63,7 +63,7 @@ opinionEditorial: 'El Alcázar y la Catedral son las dos visitas imprescindibles
 atraccionesRelacionadas:
 - real-alcazar
 - catedral-giralda
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - tour privado alcazar y catedral sevilla
 - visita guiada alcazar catedral sevilla con entradas
@@ -91,6 +91,8 @@ galeria:
   alt: Vista de Sevilla desde lo alto de la Giralda
 bokunProductId: 793770
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

@@ -2,8 +2,7 @@
 titulo: El Escorial and Royal Monastery Private Day Tour from Madrid
 slug: el-escorial-royal-monastery-private-day-tour
 ciudad: madrid
-descripcion: Private full-day trip from Madrid to El Escorial, with private transport,
-  admission and a guide just for your group.
+descripcion: Private full-day trip from Madrid to El Escorial, with private transport, admission and a guide just for your group.
 slugs:
   es: tour-privado-escorial-monasterio-real
   en: el-escorial-royal-monastery-private-day-tour
@@ -16,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1176595
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Private full-day trip for your group only
@@ -33,8 +32,7 @@ noIncluye:
 - Tips
 puntoEncuentro:
   texto: Pick-up at your accommodation in Madrid
-  descripcionGuia: The guide picks you up at your accommodation showing an ID. The
-    exact point and time are confirmed on booking.
+  descripcionGuia: The guide picks you up at your accommodation showing an ID. The exact point and time are confirmed on booking.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 13
@@ -44,34 +42,28 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-accesibilidad: Not wheelchair accessible. Includes walking with steps; a medium fitness
-  level is required. Not recommended for people with heart conditions.
-politicaCancelacion: Free cancellation up to the start of the activity, with a full
-  refund.
-opinionEditorial: 'El Escorial is poorly connected by public transport, so a private
-  tour with hotel pick-up, transport, admission and a guide solves the whole day with
-  no hassle. The difference from a group excursion is control: you go at your own pace,
-  with a guide just for you and time for the monastery, which is huge. It''s the premium
-  option —€1,499 per group— for those who want total comfort and a tailored visit;
-  lunch is not included, so plan for that.'
+accesibilidad: Not wheelchair accessible. Includes walking with steps; a medium fitness level is required. Not recommended for people with heart conditions.
+politicaCancelacion: Free cancellation up to the start of the activity, with a full refund.
+opinionEditorial: 'El Escorial is poorly connected by public transport, so a private tour with hotel pick-up, transport, admission and a guide solves the whole day with no hassle. The difference from a group excursion is control: you go at your own pace, with a guide just for you and time for the monastery, which is huge. It''s the premium option —€1,499 per group— for those who want total comfort and a tailored visit; lunch is not included, so plan for that.'
 atraccionesRelacionadas:
+- escorial
 - excursiones-desde-madrid
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - el escorial private tour from madrid
 - private day trip el escorial monastery
 - el escorial full day private
-imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
+imagen: /images/actividades/madrid/escorial/escorial-tour-01.webp
 imagenAlt: Facade of the Royal Monastery of San Lorenzo de El Escorial
 galeria:
 - src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
-  alt: "Library of the El Escorial monastery"
+  alt: Library of the El Escorial monastery
 - src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
-  alt: "Painting gallery at El Escorial"
+  alt: Painting gallery at El Escorial
 - src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
-  alt: "Marble sculpture group seen on the tour"
+  alt: Marble sculpture group seen on the tour
 - src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg
-  alt: "Painted ceilings inside El Escorial"
+  alt: Painted ceilings inside El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
   alt: Statues of the Kings of Judah on the basilica facade of El Escorial Monastery
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
@@ -92,6 +84,8 @@ publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

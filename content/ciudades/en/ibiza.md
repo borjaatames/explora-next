@@ -58,11 +58,7 @@ atracciones:
     descripcion: "The most famous clubs in the world —Pacha, Ushuaïa, Amnesia, Hï— and the boat parties that have made Ibiza the world capital of electronic music."
     imagen: "/images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp"
     imagenAlt: Party boat sailing in Ibiza
-chipsFiltros:
-  - { label: "Coves by boat", tag: "calas-barco" }
-  - { label: "Es Vedrà and sunset", tag: "vedra-atardecer" }
-  - { label: "Formentera", tag: "formentera" }
-  - { label: "Kayaking", tag: "kayak" }
+chipsFiltros: []
 ---
 
 Ibiza is famous the world over for its **nightlife**, but the island is much more: it has a UNESCO World Heritage old town, turquoise coves and surprising protected nature. Its capital, **Eivissa**, has around 50,000 inhabitants.

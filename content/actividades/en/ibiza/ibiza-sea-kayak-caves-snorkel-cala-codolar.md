@@ -72,7 +72,7 @@ preguntasFrecuentes:
 opinionEditorial: 'It''s the most authentic way to see Ibiza''s west coast: calm, in a small group and reaching spots big boats can''t. The sunset departure is especially lovely.'
 guiasRelacionadas:
 - best-coves-ibiza
-categoria: excursionesDia
+categoria: agua
 keywords:
 - ibiza kayak
 - ibiza sea cave kayak tour

@@ -63,7 +63,7 @@ opinionEditorial: Tarraco is a World Heritage Site, and without a guide it's jus
 guiasRelacionadas:
 - roman-tarraco-guide
 - tarragona-in-one-day
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tarragona roman tour
 - tarraco guided tour

@@ -85,6 +85,7 @@ galeria:
   alt: Guide speaking in a room of the monastery
 bokunProductId: 949940
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

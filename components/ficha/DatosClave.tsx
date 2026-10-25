@@ -5,6 +5,8 @@ type Props = {
   idioma: Idioma;
   titulo: string;
   categoria: string;
+  /** Tour privado: muestra el dato «privada». */
+  privada?: boolean;
   duracion: string;
   idiomas: string[];
   highlights?: string[];
@@ -90,7 +92,7 @@ const RE_GRUPO_REDUCIDO = /grupo reducido|grupos reducidos|small[- ]group/i;
 export default function DatosClave({
   idioma,
   titulo,
-  categoria,
+  privada = false,
   duracion,
   idiomas,
   highlights = [],
@@ -121,7 +123,7 @@ export default function DatosClave({
     ...(cancelacionGratuita
       ? [{ icono: "calendario" as const, texto: t.cancelacion(horasCancelacion) }]
       : []),
-    ...(categoria === "experienciasPrivadas"
+    ...(privada
       ? [{ icono: "grupo" as const, texto: t.privada }]
       : RE_GRUPO_REDUCIDO.test(textoActividad)
         ? [{ icono: "grupo" as const, texto: t.grupoReducido }]

@@ -48,7 +48,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'La recogida puerta a puerta es el gran punto a favor frente a otros tuk-tuks de Madrid: no tenéis que desplazaros a ningún punto de encuentro. En una hora da tiempo a un buen resumen visual de la ciudad desde el hotel, pero si buscáis parar y explorar a pie con calma, mejor combinarlo con otra actividad o alargar la duración al reservar.'
 atraccionesRelacionadas:
 - tuk-tuk
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - tuk tuk puerta a puerta madrid
 - tuk tuk eléctrico madrid
@@ -88,6 +88,8 @@ publicada: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-07'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

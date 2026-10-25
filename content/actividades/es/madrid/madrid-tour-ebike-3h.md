@@ -2,8 +2,7 @@
 titulo: 'Madrid en E-Bike: Tour Panorámico de 3 Horas'
 slug: madrid-tour-ebike-3h
 ciudad: madrid
-descripcion: Tour de 3 horas por Madrid en bicicleta eléctrica con guía local. Plaza Mayor, Palacio Real, Templo de Debod
-  y orillas del Manzanares. 4,5/5 con 196 reseñas. Operador Wonder Tours Spain.
+descripcion: Tour de 3 horas por Madrid en bicicleta eléctrica con guía local. Plaza Mayor, Palacio Real, Templo de Debod y orillas del Manzanares. 4,5/5 con 196 reseñas. Operador Wonder Tours Spain.
 slugs:
   es: madrid-tour-ebike-3h
   en: madrid-3-hour-sightseeing-e-bike-tour
@@ -35,11 +34,8 @@ noIncluye:
 - Recogida en hotel (opcional según opción)
 - Propinas
 puntoEncuentro:
-  texto: Oficina del operador en Calle de Santiago, 18 (Wonder Tours Spain), a 5 minutos de la Plaza de Oriente y del Palacio
-    Real.
-  descripcionGuia: La oficina está en pleno casco histórico, fácil de encontrar a pie. Metro Ópera (líneas 2/5) a 3 minutos.
-    Llega 15 minutos antes — hay que ajustar la altura de sillín, probar el sistema de pedaleo asistido y firmar el descargo
-    de responsabilidad. Si no has llevado bici eléctrica antes, el guía explica cómo funcionan los niveles de asistencia.
+  texto: Oficina del operador en Calle de Santiago, 18 (Wonder Tours Spain), a 5 minutos de la Plaza de Oriente y del Palacio Real.
+  descripcionGuia: La oficina está en pleno casco histórico, fácil de encontrar a pie. Metro Ópera (líneas 2/5) a 3 minutos. Llega 15 minutos antes — hay que ajustar la altura de sillín, probar el sistema de pedaleo asistido y firmar el descargo de responsabilidad. Si no has llevado bici eléctrica antes, el guía explica cómo funcionan los niveles de asistencia.
   latitud: 40.4165
   longitud: -3.7104
   zoom: 17
@@ -60,87 +56,63 @@ informacionImportante:
   - Personas que nunca han montado en bici (la asistencia ayuda, pero no enseña a equilibrar)
   - Mascotas (no permitidas)
   aTenerEnCuenta:
-  - Duración real puede variar — varias reseñas mencionan que el tour real fue de 2 h en lugar de 3, sobre todo en grupos
-    pequeños
+  - Duración real puede variar — varias reseñas mencionan que el tour real fue de 2 h en lugar de 3, sobre todo en grupos pequeños
   - El asiento puede ser incómodo si vas mucho en bici — lo mencionan algunas reseñas
   - Otros idiomas además de ES/EN disponibles bajo petición
   - Recorrido por calles compartidas con tráfico — el guía elige rutas tranquilas pero hay tramos urbanos
   - Casco no obligatorio en España para adultos en ciudad, pero el operador lo facilita
-accesibilidad: Producto NO accesible en silla de ruedas (es bicicleta). Si necesitas alternativa accesible para ver los mismos
-  sitios, mira el Big Bus hop-on hop-off o un tour a pie en grupo reducido.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva
-  ahora y paga después».
+accesibilidad: Producto NO accesible en silla de ruedas (es bicicleta). Si necesitas alternativa accesible para ver los mismos sitios, mira el Big Bus hop-on hop-off o un tour a pie en grupo reducido.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después».
 preguntasFrecuentes:
 - pregunta: ¿Hace falta saber montar en bici?
-  respuesta: Sí. La asistencia eléctrica te ayuda a pedalear (especialmente útil en las cuestas hacia el Palacio Real y la
-    subida desde el Manzanares), pero no te enseña a equilibrar ni a frenar. Si no has llevado bici nunca, este no es el sitio
-    para empezar — primero practica.
+  respuesta: Sí. La asistencia eléctrica te ayuda a pedalear (especialmente útil en las cuestas hacia el Palacio Real y la subida desde el Manzanares), pero no te enseña a equilibrar ni a frenar. Si no has llevado bici nunca, este no es el sitio para empezar — primero practica.
 - pregunta: ¿El recorrido es seguro? ¿Hay tráfico?
-  respuesta: El guía elige rutas tranquilas (calles peatonales del centro, orillas del Manzanares, zonas de jardines). Hay
-    algunos tramos compartidos con tráfico — el guía marca el ritmo y va al frente. Las reseñas mencionan repetidamente que
-    se sienten seguros y bien guiados. El casco está disponible aunque no es obligatorio en España.
+  respuesta: El guía elige rutas tranquilas (calles peatonales del centro, orillas del Manzanares, zonas de jardines). Hay algunos tramos compartidos con tráfico — el guía marca el ritmo y va al frente. Las reseñas mencionan repetidamente que se sienten seguros y bien guiados. El casco está disponible aunque no es obligatorio en España.
 - pregunta: ¿Dura realmente 3 horas?
-  respuesta: Marcado como 3 horas, pero en la práctica puede ser entre 2 y 3 dependiendo del tamaño del grupo y la velocidad.
-    Varias reseñas comentan que su tour fue de 2 horas porque iban pocos. Si te ves justo de tiempo, calcula 2,5 horas con
-    margen.
+  respuesta: Marcado como 3 horas, pero en la práctica puede ser entre 2 y 3 dependiendo del tamaño del grupo y la velocidad. Varias reseñas comentan que su tour fue de 2 horas porque iban pocos. Si te ves justo de tiempo, calcula 2,5 horas con margen.
 - pregunta: ¿Qué se ve exactamente?
-  respuesta: Recorrido por Plaza de Puerta Cerrada, Plaza Mayor, Mercado de San Miguel, Plaza de Oriente (Palacio Real, Teatro
-    Real, Catedral de la Almudena), Jardines de Sabatini, Campo del Moro, orillas del Manzanares y final en el Templo de Debod.
-    Es un recorrido amplio que en otra modalidad de transporte no se cubriría.
+  respuesta: Recorrido por Plaza de Puerta Cerrada, Plaza Mayor, Mercado de San Miguel, Plaza de Oriente (Palacio Real, Teatro Real, Catedral de la Almudena), Jardines de Sabatini, Campo del Moro, orillas del Manzanares y final en el Templo de Debod. Es un recorrido amplio que en otra modalidad de transporte no se cubriría.
 - pregunta: ¿Niños pueden ir?
-  respuesta: Edad mínima recomendada en torno a 14 años. Por debajo, el tamaño de las bicis eléctricas no se ajusta bien y
-    la atención al tráfico es exigente. Para familias con niños más pequeños, mejor opción es el segway por Retiro (terreno
-    cerrado, sin tráfico) o un tour a pie.
+  respuesta: Edad mínima recomendada en torno a 14 años. Por debajo, el tamaño de las bicis eléctricas no se ajusta bien y la atención al tráfico es exigente. Para familias con niños más pequeños, mejor opción es el segway por Retiro (terreno cerrado, sin tráfico) o un tour a pie.
 variantes:
 - magic-retiro-park-bike-tour
-opinionEditorial: 'Es el tour clásico de e-bike por Madrid en GetYourGuide: 4,5/5 sobre 196 reseñas, operado por Wonder Tours
-  Spain. La nota del guía es 4,8/5, la del transporte (bicicletas) 4,6/5 y la relación calidad-precio 4,5/5 — todas altas.
-  Las reseñas mencionan nombres concretos de guías (Jacob, Andrea, Oscar, Davide) como factor diferencial, lo que indica un
-  equipo estable.
+opinionEditorial: 'Es el tour clásico de e-bike por Madrid en GetYourGuide: 4,5/5 sobre 196 reseñas, operado por Wonder Tours Spain. La nota del guía es 4,8/5, la del transporte (bicicletas) 4,6/5 y la relación calidad-precio 4,5/5 — todas altas. Las reseñas mencionan nombres concretos de guías (Jacob, Andrea, Oscar, Davide) como factor diferencial, lo que indica un equipo estable.
 
 
-  Detalles a saber. Primero, la duración real puede ser menor de lo marcado: algunas reseñas indican 2 horas en grupos pequeños,
-  en lugar de 3. No es engaño — el tour cubre el itinerario, simplemente va más rápido si sois pocos. Segundo, los asientos
-  de las bicis se mencionan como incómodos en varias reseñas — si vas mucho en bici, llévate culotte o pide funda. Tercero,
-  gran parte del recorrido es al sol (Plaza de Oriente, Campo del Moro, Templo de Debod) — gorra y protección solar son imprescindibles
-  en verano.
+  Detalles a saber. Primero, la duración real puede ser menor de lo marcado: algunas reseñas indican 2 horas en grupos pequeños, en lugar de 3. No es engaño — el tour cubre el itinerario, simplemente va más rápido si sois pocos. Segundo, los asientos de las bicis se mencionan como incómodos en varias reseñas — si vas mucho en bici, llévate culotte o pide funda. Tercero, gran parte del recorrido es al sol (Plaza de Oriente, Campo del Moro, Templo de Debod) — gorra y protección solar son imprescindibles en verano.
 
 
-  Para quién: viajeros que quieren cubrir más terreno en menos tiempo que andando (el recorrido es amplio: del casco histórico
-  al Manzanares pasando por el Templo de Debod), gente que disfruta combinar deporte ligero con turismo cultural, y quien
-  prefiere ver Madrid desde la calle pero sin caminar. Para quién NO: gente que nunca ha llevado bici (la asistencia eléctrica
-  ayuda pero no enseña a equilibrar), niños pequeños (edad mínima recomendada 14), y quien necesite tour totalmente al aire
-  libre cerrado sin tráfico — mira la opción segway por Retiro.
+  Para quién: viajeros que quieren cubrir más terreno en menos tiempo que andando (el recorrido es amplio: del casco histórico al Manzanares pasando por el Templo de Debod), gente que disfruta combinar deporte ligero con turismo cultural, y quien prefiere ver Madrid desde la calle pero sin caminar. Para quién NO: gente que nunca ha llevado bici (la asistencia eléctrica ayuda pero no enseña a equilibrar), niños pequeños (edad mínima recomendada 14), y quien necesite tour totalmente al aire libre cerrado sin tráfico — mira la opción segway por Retiro.
 
   '
 atraccionesRelacionadas:
 - tours-a-pie
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - ebike madrid
 - tour bicicleta electrica madrid
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-imagenAlt: "Plaza Mayor, primera parada del recorrido"
+imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+imagenAlt: Plaza Mayor, primera parada del recorrido
 galeria:
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
-    alt: "Plaza de Oriente y Palacio Real"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
-    alt: "Palacio Real visto desde los jardines del Campo del Moro"
-  - src: "/images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp"
-    alt: "Templo de Debod reflejado en su estanque"
-  - src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-    alt: "Plaza de la Villa con la Casa y Torre de los Lujanes"
-  - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
-    alt: "Mercado de San Miguel"
-  - src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-    alt: "Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid"
-  - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
-    alt: "Parada del grupo en bicicleta durante el recorrido"
-  - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
-    alt: "Ciclistas del tour en el Templo de Debod"
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: Plaza de Oriente y Palacio Real
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp
+  alt: Palacio Real visto desde los jardines del Campo del Moro
+- src: /images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp
+  alt: Templo de Debod reflejado en su estanque
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
+  alt: Plaza de la Villa con la Casa y Torre de los Lujanes
+- src: /images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp
+  alt: Mercado de San Miguel
+- src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
+  alt: Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid
+- src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
+  alt: Parada del grupo en bicicleta durante el recorrido
+- src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
+  alt: Ciclistas del tour en el Templo de Debod
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

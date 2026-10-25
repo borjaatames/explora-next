@@ -69,7 +69,7 @@ preguntasFrecuentes:
 opinionEditorial: The Ebro between Móra and Miravet is one of the river's prettiest stretches, and arriving by kayak below the Templar castle is a picture-perfect ending. A relaxed nature plan, ideal in spring and summer.
 guiasRelacionadas:
 - tarragona-in-one-day
-categoria: excursionesDia
+categoria: agua
 keywords:
 - ebro kayak
 - miravet kayak

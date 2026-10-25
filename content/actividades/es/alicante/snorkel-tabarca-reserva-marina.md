@@ -67,7 +67,7 @@ opinionEditorial: Si vas a Tabarca, el snorkel es el motivo. Con guía y equipo 
 guiasRelacionadas:
 - isla-de-tabarca-como-visitar
 - que-ver-en-alicante
-categoria: excursionesDia
+categoria: agua
 keywords:
 - snorkel tabarca
 - tabarca snorkel excursion
@@ -99,6 +99,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:
+- tabarca
 - mar
 publicada: true
 destacada: false

@@ -78,8 +78,8 @@ keywords:
 imagen: /images/actividades/bilbao/gastronomia/gilda.webp
 imagenAlt: Gildas, the classic pintxo of chilli pepper, anchovy and olive
 galeria:
-- src: "/images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp"
-  alt: "Pintxos variados con palillo sobre pan"
+- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
+  alt: Pintxos variados con palillo sobre pan
 - src: /images/actividades/bilbao/gastronomia/barra-bar.webp
   alt: Bar counter with pintxos
 - src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp

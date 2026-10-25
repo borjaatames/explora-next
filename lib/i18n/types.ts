@@ -80,12 +80,17 @@ export type Diccionario = {
     categorias: {
       visitasGuiadas: string;
       entradas: string;
+      toursCiudad: string;
       excursionesDia: string;
-      espectaculos: string;
       toursGastronomicos: string;
-      serviciosAdicionales: string;
-      transporte: string;
-      experienciasPrivadas: string;
+      espectaculos: string;
+      agua: string;
+      aventura: string;
+      parques: string;
+      nocturno: string;
+      talleres: string;
+      /** Botón del filtro de privados (no es una categoría). */
+      privados: string;
     };
     faqEnCiudad: string;
   };

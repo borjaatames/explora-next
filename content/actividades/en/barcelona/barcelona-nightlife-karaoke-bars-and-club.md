@@ -65,7 +65,7 @@ opinionEditorial: 'It''s a way to go out in Barcelona without knowing anyone: ka
   It costs about €14 per person, but drinks are extra. It''s new and has no reviews yet. If you''re travelling solo and want company for a night out, it does the job.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: espectaculos
+categoria: nocturno
 keywords:
 - barcelona nightlife tour
 - barcelona karaoke night

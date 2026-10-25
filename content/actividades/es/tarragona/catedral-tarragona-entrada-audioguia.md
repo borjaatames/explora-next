@@ -73,8 +73,8 @@ keywords:
 imagen: /images/actividades/tarragona/catedral/catedral.webp
 imagenAlt: Catedral de Tarragona
 galeria:
-- src: "/images/actividades/tarragona/catedral/fachada-catedral-tarragona-noche.webp"
-  alt: "Fachada gotica de la Catedral de Tarragona iluminada de noche"
+- src: /images/actividades/tarragona/catedral/fachada-catedral-tarragona-noche.webp
+  alt: Fachada gotica de la Catedral de Tarragona iluminada de noche
 - src: /images/actividades/tarragona/catedral/claustro-jardin.webp
   alt: Claustro y jardín de la catedral
 - src: /images/actividades/tarragona/catedral/portada.webp
@@ -89,8 +89,6 @@ galeria:
   alt: Cúpula de una capilla de la catedral
 ratingProveedor: 4.4
 numeroOpiniones: 105
-atraccionesRelacionadas:
-- tarraco
 publicada: true
 destacada: false
 fecha: '2026-10-07'

@@ -56,9 +56,9 @@ atracciones:
     imagen: "/images/actividades/girona/dali-figueres/dali-figueres-hero.webp"
     imagenAlt: "Das Dalí-Theatermuseum in Figueres mit seinen Eiern und der roten Fassade"
 chipsFiltros:
-  - { label: "Dalí (Figueres)", tag: "dali-figueres" }
-  - { label: "Costa Brava und Ausflüge", tag: "costa-brava" }
-  - { label: "Mittelalterliche Altstadt", tag: "casco-medieval" }
+  - { label: "Altstadt & Jüdisches Viertel", tag: "casco-antiguo" }
+  - { label: "Figueres (Dalí)", tag: "figueres-dali" }
+  - { label: "Costa Brava", tag: "costa-brava" }
 ---
 
 Girona ist eine mittelgroße Stadt im Nordosten Kataloniens – rund 105.000 Einwohner –, eine Stunde von Barcelona entfernt und Tor zur Costa Brava. Ihre Altstadt, eingebettet zwischen vier Flüssen, gehört zu den **besterhaltenen Kataloniens** und zu den filmreifsten Spaniens.

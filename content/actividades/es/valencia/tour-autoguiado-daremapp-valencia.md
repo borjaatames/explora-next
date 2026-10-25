@@ -1,8 +1,8 @@
 ---
-titulo: "Valencia a tu ritmo: tour autoguiado DareMapp"
+titulo: 'Valencia a tu ritmo: tour autoguiado DareMapp'
 slug: tour-autoguiado-daremapp-valencia
 ciudad: valencia
-descripcion: "Descubre Valencia a tu ritmo con la audioguía autoguiada DareMapp: Ciudad de las Artes y Lonja de la Seda. Sin guía físico, disponible 24/7, en 6 idiomas."
+descripcion: 'Descubre Valencia a tu ritmo con la audioguía autoguiada DareMapp: Ciudad de las Artes y Lonja de la Seda. Sin guía físico, disponible 24/7, en 6 idiomas.'
 slugs:
   es: tour-autoguiado-daremapp-valencia
   en: self-guided-tour-daremapp-valencia
@@ -19,14 +19,14 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1144085
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorre Valencia a tu propio ritmo, sin horarios fijos ni grupos
 - Elige las paradas que quieras y sáltate las que no te interesen
-- "Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento"
-- "Disponible las 24 horas del día, los 365 días del año: el acceso no caduca"
+- 'Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento'
+- 'Disponible las 24 horas del día, los 365 días del año: el acceso no caduca'
 - Descubre la Ciudad de las Artes y las Ciencias, la Lonja de la Seda y las Torres de Serranos, además de más de 15 puntos de interés en total, repartidos en 2 rutas
 incluye:
 - Ir a tu propio ritmo, sin horarios ni grupos
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - Guía físico (es una experiencia 100% autónoma, sin acompañante)
 puntoEncuentro:
-  texto: "Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Valencia"
+  texto: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Valencia'
 informacionImportante:
   aTenerEnCuenta:
-  - "Apto para toda la familia: edad mínima 1 año"
+  - 'Apto para toda la familia: edad mínima 1 año'
   - App disponible en español, inglés, portugués, francés, italiano y alemán
   - Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio
   - Buen acceso a transporte público en la zona de la ruta
@@ -50,32 +50,30 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Es la opción ideal si quieres moverte por Valencia a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
-categoria: visitasGuiadas
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación.
+opinionEditorial: 'Es la opción ideal si quieres moverte por Valencia a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
+categoria: toursCiudad
 keywords:
 - tour autoguiado valencia
 - audioguía valencia
 - visita autoguiada valencia app
-imagen: "/images/actividades/valencia/centro/mercado-central-interior.webp"
-imagenAlt: "Interior modernista del Mercado Central"
+imagen: /images/actividades/valencia/centro/mercado-central-interior.webp
+imagenAlt: Interior modernista del Mercado Central
 galeria:
-- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
-  alt: "Puerta de la Catedral de Valencia, centro histórico"
+- src: /images/actividades/valencia/centro/catedral-puerta.webp
+  alt: Puerta de la Catedral de Valencia, centro histórico
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: "Plaza de la Virgen, en el centro de Valencia"
+  alt: Plaza de la Virgen, en el centro de Valencia
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: "El Micalet de la catedral de Valencia"
+  alt: El Micalet de la catedral de Valencia
 - src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
-  alt: "Torres de Serranos, antigua puerta de la muralla"
+  alt: Torres de Serranos, antigua puerta de la muralla
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: "Patio de los naranjos de la Lonja"
+  alt: Patio de los naranjos de la Lonja
 - src: /images/actividades/valencia/centro/mercado-central-exterior.webp
-  alt: "Exterior del Mercado Central de Valencia"
+  alt: Exterior del Mercado Central de Valencia
 - src: https://imgcdn.bokun.tools/618394c6-a3bf-42b8-ad22-45607a5f5726.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
-atraccionesRelacionadas:
-  - centro-historico
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'

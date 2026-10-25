@@ -41,7 +41,8 @@ politicaCancelacion: Free cancellation up to 24 hours before the start, with a f
 opinionEditorial: 'It''s the perfect plan if you only have one day: Barcelona''s essentials —Gaudí, Montjuïc and the old town— private, skip-the-line and with no logistics to worry about. The more of you there are, the better the value of the per-group price.'
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: experienciasPrivadas
+- gotico
+categoria: toursCiudad
 keywords:
 - best of barcelona private tour
 - barcelona full day private tour
@@ -79,6 +80,8 @@ fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
 - sagrada-familia-which-ticket-to-choose
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

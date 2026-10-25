@@ -70,7 +70,7 @@ guiasRelacionadas:
 - mallorca-con-ninos
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: parques
 keywords:
 - western water park entradas
 - parque acuatico mallorca

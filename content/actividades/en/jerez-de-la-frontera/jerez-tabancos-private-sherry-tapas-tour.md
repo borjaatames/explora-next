@@ -58,7 +58,6 @@ opinionEditorial: 'Tabancos are Jerez at its most authentic: sherry casks, chalk
 
 
   It''s private and pricey for two (about €219 each); for four it drops to about €126. No published reviews yet.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - jerez tabancos
@@ -88,6 +87,7 @@ galeria:
   alt: Painted casks behind a tabanco bar
 bokunProductId: 949542
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

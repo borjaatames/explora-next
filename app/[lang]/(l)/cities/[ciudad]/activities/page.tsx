@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { CLAVE_FILTRO_PRIVADOS } from "@/lib/filtrosActividades";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -138,19 +139,30 @@ function aCardData(a: ActividadListItem): ActividadCardData {
     atraccionesRelacionadas: a.atraccionesRelacionadas ?? [],
     proveedor: a.proveedor,
     categoria: a.categoria,
+    privada: a.privada === true,
     destacada: a.destacada ?? false,
   };
 }
 
 function categoriasPresentes(
   actividades: ActividadListItem[],
-  dictCategorias: Record<CategoriaActividad, string>
+  dictCategorias: Record<CategoriaActividad | typeof CLAVE_FILTRO_PRIVADOS, string>
 ): CategoriaOpcion[] {
   const presentes = new Set(actividades.map((a) => a.categoria));
-  return CATEGORIAS_ACTIVIDAD.filter((c) => presentes.has(c)).map((c) => ({
+  const opciones: CategoriaOpcion[] = CATEGORIAS_ACTIVIDAD.filter((c) =>
+    presentes.has(c)
+  ).map((c) => ({
     key: c,
     label: dictCategorias[c],
   }));
+  // «Privados» va como un botón más al final; filtra por `privada`.
+  if (actividades.some((a) => a.privada === true)) {
+    opciones.push({
+      key: CLAVE_FILTRO_PRIVADOS,
+      label: dictCategorias[CLAVE_FILTRO_PRIVADOS],
+    });
+  }
+  return opciones;
 }
 
 function calcularRatingMedio(actividades: ActividadListItem[]): number | null {
@@ -198,6 +210,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
     dict.actividades.categorias
   );
   const enlacesCategorias: EnlaceCategoria[] = categorias
+    .filter((c) => c.key !== CLAVE_FILTRO_PRIVADOS)
     .map((c) => ({
       href: urlActividadesDeCiudadPorCategoria(
         lang,

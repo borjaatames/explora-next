@@ -89,6 +89,7 @@ opinionEditorial: 'Ticket oficial del Museo FC Barcelona durante el periodo de r
 
   '
 atraccionesRelacionadas:
+- camp-nou
 - futbol
 categoria: entradas
 keywords:

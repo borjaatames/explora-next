@@ -73,7 +73,7 @@ opinionEditorial: 'Gibraltar queda a unas dos horas de Sevilla y tiene su lógic
   El precio es por grupo, 860 € para 1 o 2 personas, así que para una pareja es caro; con 4 personas, 1.040 € en total, sale a 260 € por cabeza. Revisa bien la documentación de entrada, que corre de tu cuenta.'
 atraccionesRelacionadas:
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - gibraltar desde sevilla
 - excursion privada gibraltar desde sevilla
@@ -101,6 +101,8 @@ galeria:
   alt: Visitante con los brazos abiertos frente al mar
 bokunProductId: 858871
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

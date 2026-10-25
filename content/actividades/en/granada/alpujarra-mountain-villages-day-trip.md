@@ -2,8 +2,7 @@
 titulo: Day Trip to the Villages of the Alpujarra from Granada
 slug: alpujarra-mountain-villages-day-trip
 ciudad: granada
-descripcion: Full-day trip (8-10 hours) to the white villages of the Granada Alpujarra (Pampaneira, Bubión, Capileira). Hotel
-  pickup included and optional traditional Alpujarra lunch.
+descripcion: Full-day trip (8-10 hours) to the white villages of the Granada Alpujarra (Pampaneira, Bubión, Capileira). Hotel pickup included and optional traditional Alpujarra lunch.
 slugs:
   en: alpujarra-mountain-villages-day-trip
   es: alpujarra-pueblos-montana
@@ -35,9 +34,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Hotel pickup — confirm the exact point and time in your booking
-  descripcionGuia: The operator includes hotel pickup. Departure is usually between 8:30 and 9:00. At booking you'll see the
-    exact point based on your accommodation. The return to Granada is in the afternoon, usually between 17:00 and 19:00 depending
-    on whether you do lunch or not.
+  descripcionGuia: The operator includes hotel pickup. Departure is usually between 8:30 and 9:00. At booking you'll see the exact point based on your accommodation. The return to Granada is in the afternoon, usually between 17:00 and 19:00 depending on whether you do lunch or not.
   latitud: 36.9419
   longitud: -3.3589
   zoom: 11
@@ -58,48 +55,32 @@ informacionImportante:
   - The optional lunch has no fixed price — some reviews ask for more clarity about the menu and price
   - The villages sit at 1,300-1,500 m altitude; comfortable shoes and a light jacket are recommended
   - Private tour option for small groups available
-accesibilidad: The walk through the villages involves the steep, cobbled lanes typical of mountain villages. If you need specific
-  accessibility, check with the operator before booking.
+accesibilidad: The walk through the villages involves the steep, cobbled lanes typical of mountain villages. If you need specific accessibility, check with the operator before booking.
 politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund. You can also book now and pay later.
 preguntasFrecuentes:
 - pregunta: Which villages does it visit?
-  respuesta: 'The three best-known white villages of the Granada Alpujarra: Pampaneira (where the main stop is made), Bubión
-    and Capileira. These are the three villages of the Poqueira Gorge, considered the most photogenic in the area. Altitudes
-    range from 1,050 m (Pampaneira) to 1,436 m (Capileira).'
+  respuesta: 'The three best-known white villages of the Granada Alpujarra: Pampaneira (where the main stop is made), Bubión and Capileira. These are the three villages of the Poqueira Gorge, considered the most photogenic in the area. Altitudes range from 1,050 m (Pampaneira) to 1,436 m (Capileira).'
 - pregunta: Is lunch included?
-  respuesta: No. The operator offers an optional traditional Alpujarra lunch at a local restaurant, but it's paid separately.
-    Some reviews mention that information about price and menu could be clearer — ask the guide at the start of the tour if
-    you're interested. As an alternative, you can bring a picnic and stop at a viewpoint.
+  respuesta: No. The operator offers an optional traditional Alpujarra lunch at a local restaurant, but it's paid separately. Some reviews mention that information about price and menu could be clearer — ask the guide at the start of the tour if you're interested. As an alternative, you can bring a picnic and stop at a viewpoint.
 - pregunta: Is it worth it with children?
-  respuesta: Yes, especially if they enjoy mountains and villages. That said, it's an 8-10 hour day with car travel between
-    villages — for children under 5-6 it can be very long. From age 7-8 it works well.
+  respuesta: Yes, especially if they enjoy mountains and villages. That said, it's an 8-10 hour day with car travel between villages — for children under 5-6 it can be very long. From age 7-8 it works well.
 - pregunta: How does it differ from the 'Originals by GYG' version?
-  respuesta: The Originals version (4.7 · 224 reviews, 7 hours) is slightly shorter and curated by GYG. This version (4.7
-    · 320 reviews, 8-10 hours) has more reviews and the advantage of an optional private tour. Both cover the same territory,
-    but this one is longer (more time for exploration or lunch).
+  respuesta: The Originals version (4.7 · 224 reviews, 7 hours) is slightly shorter and curated by GYG. This version (4.7 · 320 reviews, 8-10 hours) has more reviews and the advantage of an optional private tour. Both cover the same territory, but this one is longer (more time for exploration or lunch).
 - pregunta: Is there a private option?
-  respuesta: Yes. Available at booking for small groups. The private tour allows a custom pace, extra stops and time flexibility.
-    Ideal for families or closed groups who want autonomy.
-variantes: ["alpujarra-originals-curated-villages-day-trip"]
-opinionEditorial: 'The most-reviewed day trip to the Granada Alpujarra (320 ratings, 4.7 / 5). It picks you up at your hotel,
-  takes you to the Poqueira Gorge (Pampaneira, Bubión, Capileira — the three most photogenic white villages in the Alpujarra)
-  and returns at the end of the day. The transport rating (4.8) and the guide rating (4.9) are high; the value-for-money rating
-  (4.5) is slightly lower — possibly because of the optional lunch, which some travellers criticise for the lack of clarity
-  on price.
+  respuesta: Yes. Available at booking for small groups. The private tour allows a custom pace, extra stops and time flexibility. Ideal for families or closed groups who want autonomy.
+variantes:
+- alpujarra-originals-curated-villages-day-trip
+opinionEditorial: 'The most-reviewed day trip to the Granada Alpujarra (320 ratings, 4.7 / 5). It picks you up at your hotel, takes you to the Poqueira Gorge (Pampaneira, Bubión, Capileira — the three most photogenic white villages in the Alpujarra) and returns at the end of the day. The transport rating (4.8) and the guide rating (4.9) are high; the value-for-money rating (4.5) is slightly lower — possibly because of the optional lunch, which some travellers criticise for the lack of clarity on price.
 
 
-  It''s a perfect excursion to complement the Alhambra: do the Alhambra one day and the Alpujarra another, and you''ve covered
-  urban Granada plus rural Granada in just a few hours of driving. The villages sit at 1,300-1,500 m and preserve the Arab-Berber
-  architecture of flat roofs and white chimneys — unique in Spain. Pampaneira in particular is where you stop the longest:
-  local crafts, Trevélez ham (at 1,200 m, the highest-cured ham in Europe), shops of regional products.
+  It''s a perfect excursion to complement the Alhambra: do the Alhambra one day and the Alpujarra another, and you''ve covered urban Granada plus rural Granada in just a few hours of driving. The villages sit at 1,300-1,500 m and preserve the Arab-Berber architecture of flat roofs and white chimneys — unique in Spain. Pampaneira in particular is where you stop the longest: local crafts, Trevélez ham (at 1,200 m, the highest-cured ham in Europe), shops of regional products.
 
 
-  Bring cash if you''re going to eat at an Alpujarra restaurant — many don''t accept cards in small villages. And closed shoes
-  for the steep cobbled streets. If you have only one excursion available in Granada and want to get out of the centre, this
-  or the Sierra Nevada safari are the two best options — the Alpujarra is more cultural, Sierra Nevada more natural.
+  Bring cash if you''re going to eat at an Alpujarra restaurant — many don''t accept cards in small villages. And closed shoes for the steep cobbled streets. If you have only one excursion available in Granada and want to get out of the centre, this or the Sierra Nevada safari are the two best options — the Alpujarra is more cultural, Sierra Nevada more natural.
 
   '
 atraccionesRelacionadas:
+- alpujarra
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -108,25 +89,25 @@ keywords:
 - pampaneira bubion capileira
 - alpujarra tour from granada
 - alpujarra full day
-imagen: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp"
-imagenAlt: "Balcony with geraniums in the Alpujarra"
+imagen: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
+imagenAlt: Balcony with geraniums in the Alpujarra
 galeria:
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
-  alt: "Snowy Sierra Nevada above the Alpujarra villages"
+  alt: Snowy Sierra Nevada above the Alpujarra villages
 - src: /images/actividades/granada/alpujarra-pueblos-montana/alpujarra-pueblos-montana-paisaje-barranco-poqueira-04-hero.webp
-  alt: "Mountain landscape of Las Alpujarras with native vegetation, natural gorge, and rural valley views near Granada"
+  alt: Mountain landscape of Las Alpujarras with native vegetation, natural gorge, and rural valley views near Granada
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
-  alt: "Alpujarra rugs for sale in Pampaneira"
+  alt: Alpujarra rugs for sale in Pampaneira
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
-  alt: "Alpujarra white village on the hillside"
+  alt: Alpujarra white village on the hillside
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-the-village-of-pampaneira-viewed-from-plaza-vieja.webp
-  alt: "Alpujarra valley among the clouds"
+  alt: Alpujarra valley among the clouds
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
-  alt: "Tinao, a covered passage typical of the Alpujarra"
+  alt: Tinao, a covered passage typical of the Alpujarra
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-panor-mica-de-pampaneira-con-la-iglesia-de-santa-c.webp
-  alt: "Church and rooftops of an Alpujarra village"
+  alt: Church and rooftops of an Alpujarra village
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
-  alt: "Flat roofs with laundry drying in the Alpujarra"
+  alt: Flat roofs with laundry drying in the Alpujarra
 ratingProveedor: 4.7
 numeroOpiniones: 320
 publicada: true

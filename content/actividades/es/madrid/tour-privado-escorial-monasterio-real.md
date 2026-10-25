@@ -2,8 +2,7 @@
 titulo: El Escorial y el Real Monasterio, tour privado de un día desde Madrid
 slug: tour-privado-escorial-monasterio-real
 ciudad: madrid
-descripcion: Excursión privada de día completo desde Madrid a El Escorial, con transporte
-  privado, entradas y guía en exclusiva para tu grupo.
+descripcion: Excursión privada de día completo desde Madrid a El Escorial, con transporte privado, entradas y guía en exclusiva para tu grupo.
 slugs:
   es: tour-privado-escorial-monasterio-real
   en: el-escorial-royal-monastery-private-day-tour
@@ -16,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1176595
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Excursión privada de día completo solo para tu grupo
@@ -33,8 +32,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Recogida en tu alojamiento en Madrid
-  descripcionGuia: El guía te recoge en tu alojamiento mostrando una identificación.
-    El punto y la hora exactos se confirman al reservar.
+  descripcionGuia: El guía te recoge en tu alojamiento mostrando una identificación. El punto y la hora exactos se confirman al reservar.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 13
@@ -44,34 +42,28 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-accesibilidad: No accesible para sillas de ruedas. Incluye recorridos a pie con escalones;
-  se requiere condición física media. No recomendado para personas con problemas cardiacos.
-politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso
-  completo.
-opinionEditorial: 'El Escorial está mal conectado con transporte público, así que un
-  privado con recogida en el hotel, transporte, entradas y guía resuelve el día entero
-  sin complicaciones. La diferencia frente a una excursión en grupo es el control:
-  vais a vuestro aire, con un guía solo para vosotros y tiempo para el monasterio,
-  que es enorme. Es la opción premium —1.499 € por grupo— pensada para quien quiere
-  comodidad total y una visita a medida; no incluye el almuerzo, así que contad con ello.'
+accesibilidad: No accesible para sillas de ruedas. Incluye recorridos a pie con escalones; se requiere condición física media. No recomendado para personas con problemas cardiacos.
+politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
+opinionEditorial: 'El Escorial está mal conectado con transporte público, así que un privado con recogida en el hotel, transporte, entradas y guía resuelve el día entero sin complicaciones. La diferencia frente a una excursión en grupo es el control: vais a vuestro aire, con un guía solo para vosotros y tiempo para el monasterio, que es enorme. Es la opción premium —1.499 € por grupo— pensada para quien quiere comodidad total y una visita a medida; no incluye el almuerzo, así que contad con ello.'
 atraccionesRelacionadas:
+- escorial
 - excursiones-desde-madrid
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - tour privado el escorial desde madrid
 - excursion privada escorial monasterio
 - el escorial dia completo privado
-imagen: "/images/actividades/madrid/escorial/escorial-tour-01.webp"
+imagen: /images/actividades/madrid/escorial/escorial-tour-01.webp
 imagenAlt: Fachada del Real Monasterio de San Lorenzo de El Escorial
 galeria:
 - src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
-  alt: "Biblioteca del Monasterio de El Escorial"
+  alt: Biblioteca del Monasterio de El Escorial
 - src: https://imgcdn.bokun.tools/a42ed3ff-b33e-47f3-9ced-7cb2cb22704a.jpg
-  alt: "Sala de pinturas en El Escorial"
+  alt: Sala de pinturas en El Escorial
 - src: https://imgcdn.bokun.tools/c5efd992-8081-4044-85fd-c1d8e9e28a6f.jpg
-  alt: "Grupo escultórico de mármol en una de las visitas"
+  alt: Grupo escultórico de mármol en una de las visitas
 - src: https://imgcdn.bokun.tools/9ace02cc-2da6-43c8-bcad-2576ff5e3cce.jpg
-  alt: "Techos pintados en el interior de El Escorial"
+  alt: Techos pintados en el interior de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-detail-facade-basilica-monastery-hero.webp
   alt: Estatuas de los Reyes de Judea en la fachada de la basilica del Monasterio de El Escorial
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
@@ -92,6 +84,8 @@ publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

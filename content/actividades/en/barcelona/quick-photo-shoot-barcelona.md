@@ -47,7 +47,7 @@ politicaCancelacion: Free cancellation up to 24 hours before the start, with a f
 opinionEditorial: At 35 euros for 20 minutes, this is the obvious pick if you just want a handful of good photos without staging a production. Don't expect dozens of different backdrops — it's a short, focused session built around moving naturally near the Sagrada Familia.
 atraccionesRelacionadas:
 - fotos
-categoria: experienciasPrivadas
+categoria: toursCiudad
 keywords:
 - quick photoshoot barcelona
 - 20 minute photographer barcelona
@@ -73,6 +73,8 @@ publicada: true
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll experience

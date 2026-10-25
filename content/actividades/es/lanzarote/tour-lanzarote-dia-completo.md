@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Lanzarote: tour de día completo por lo más destacado'
 slug: tour-lanzarote-dia-completo
 ciudad: lanzarote
@@ -34,8 +34,8 @@ noIncluye:
 - Paseo en camello (opcional, con coste adicional)
 - Almuerzo
 puntoEncuentro:
-  texto: 'Recogida en Playa Honda, Arrecife, Playa Blanca, Costa Teguise o Puerto del Carmen.'
-  descripcionGuia: 'El operador te escribe por WhatsApp el día anterior, hacia las 15:00, con la hora y el punto exacto. El punto de recogida no siempre es la puerta de tu alojamiento.'
+  texto: Recogida en Playa Honda, Arrecife, Playa Blanca, Costa Teguise o Puerto del Carmen.
+  descripcionGuia: El operador te escribe por WhatsApp el día anterior, hacia las 15:00, con la hora y el punto exacto. El punto de recogida no siempre es la puerta de tu alojamiento.
   latitud: 28.97
   longitud: -13.6
   zoom: 10
@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: ¿El precio incluye las entradas?
   respuesta: 'Depende de la opción: puedes reservar sin entradas, con dos o con las tres. Por separado, en 2026 cuestan 30 € (Montañas del Fuego), 17 € (Cueva de los Verdes) y desde 17 € (Jameos del Agua).'
 - pregunta: ¿Está incluida la comida?
-  respuesta: 'No. Se para a comer después de visitar La Geria y cada uno paga lo suyo.'
+  respuesta: No. Se para a comer después de visitar La Geria y cada uno paga lo suyo.
 - pregunta: ¿Dónde me recogen?
-  respuesta: 'En Playa Honda, Arrecife, Playa Blanca, Costa Teguise o Puerto del Carmen. El día anterior te confirman por WhatsApp la hora y el punto.'
+  respuesta: En Playa Honda, Arrecife, Playa Blanca, Costa Teguise o Puerto del Carmen. El día anterior te confirman por WhatsApp la hora y el punto.
 - pregunta: ¿En qué idioma es?
-  respuesta: 'En español e inglés.'
+  respuesta: En español e inglés.
 opinionEditorial: 'Es de las excursiones de día completo mejor valoradas de la isla y de las que más rincones juntan: volcanes, cuevas de Manrique, La Geria y El Golfo, todo sin conducir. Es un día largo y con ritmo de autobús, así que no esperes tiempo libre en cada sitio. Antes de pagar mira qué opción de entradas eliges: solo las entradas de los tres centros suman más de 60 € si las compras por tu cuenta.'
 guiasRelacionadas:
 - que-ver-en-lanzarote
@@ -80,21 +80,23 @@ keywords:
 imagen: /images/actividades/lanzarote/tour-dia-completo.webp
 imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
 galeria:
-- src: "/images/actividades/lanzarote/zonas/la-geria-bodega.webp"
-  alt: "Viñedos de La Geria al pie de los volcanes"
-- src: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
-  alt: "El cráter de El Golfo abierto al mar, con la laguna verde"
-- src: "/images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp"
-  alt: "Piscina de los Jameos del Agua entre palmeras"
-- src: "/images/actividades/lanzarote/zonas/teguise-plaza.webp"
-  alt: "Plaza e iglesia de Nuestra Señora de Guadalupe, en Teguise"
-- src: "/images/actividades/lanzarote/zonas/los-hervideros-cueva.webp"
-  alt: "Mar turquesa entrando en una cueva de lava en Los Hervideros"
-- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp"
-  alt: "La Graciosa vista desde el norte de Lanzarote"
+- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
+  alt: Viñedos de La Geria al pie de los volcanes
+- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
+  alt: El cráter de El Golfo abierto al mar, con la laguna verde
+- src: /images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp
+  alt: Piscina de los Jameos del Agua entre palmeras
+- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
+  alt: Plaza e iglesia de Nuestra Señora de Guadalupe, en Teguise
+- src: /images/actividades/lanzarote/zonas/los-hervideros-cueva.webp
+  alt: Mar turquesa entrando en una cueva de lava en Los Hervideros
+- src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
+  alt: La Graciosa vista desde el norte de Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:
+- timanfaya
+- jameos-cueva
 - isla
 publicada: true
 destacada: false

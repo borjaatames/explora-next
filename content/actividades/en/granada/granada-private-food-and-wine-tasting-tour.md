@@ -62,7 +62,7 @@ opinionEditorial: 'In Granada a tapa comes with your drink, so what a tour like 
   The price is per group, all-inclusive: €300 for a couple and €400 for four. For couples that''s reasonable against private tours priced per person; for four, even more so.'
 atraccionesRelacionadas:
 - otros-granada
-categoria: experienciasPrivadas
+categoria: toursGastronomicos
 keywords:
 - private tapas tour granada
 - granada food tour
@@ -89,6 +89,8 @@ galeria:
   alt: Calle Navas, the tapas bar street in central Granada
 bokunProductId: 933245
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## How the tour works

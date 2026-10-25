@@ -1,12 +1,12 @@
 ---
-titulo: "Barcelona: L'Aquàrium de Barcelona ticket"
+titulo: 'Barcelona: L''Aquàrium de Barcelona ticket'
 slug: aquarium-barcelona-ticket
 ciudad: barcelona
-descripcion: "Entry to L'Aquàrium de Barcelona, one of Europe's largest aquariums, with a spectacular 80-metre shark tunnel and 11,000 aquatic animals. 4.4/5 with 19,870 reviews."
+descripcion: Entry to L'Aquàrium de Barcelona, one of Europe's largest aquariums, with a spectacular 80-metre shark tunnel and 11,000 aquatic animals. 4.4/5 with 19,870 reviews.
 slugs:
   es: aquarium-barcelona-entrada
   en: aquarium-barcelona-ticket
-duracion: '2-3 hours'
+duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 30
 moneda: EUR
@@ -28,7 +28,7 @@ noIncluye:
 - Guided tours (extra)
 - Diving experience (extra)
 puntoEncuentro:
-  texto: "L'Aquàrium de Barcelona, Moll d'Espanya del Port Vell, Barcelona"
+  texto: L'Aquàrium de Barcelona, Moll d'Espanya del Port Vell, Barcelona
   descripcionGuia: The aquarium is at Port Vell, a 10-minute walk from Las Ramblas or the Columbus monument. Metro line 3 to Drassanes, or line 4 to Barceloneta.
   latitud: 41.3757
   longitud: 2.1848
@@ -54,25 +54,25 @@ preguntasFrecuentes:
   respuesta: Plan 2–3 hours for a comfortable visit. The shark tunnel is the centrepiece but there are 35 fish tanks in total, plus the interactive Explora! area for children.
 - pregunta: Can you dive with the sharks?
   respuesta: Yes, the aquarium offers a "Shark Experience" dive for certified divers (extra cost, booked separately). One of the few places in Europe to dive with sharks in controlled conditions.
-opinionEditorial: "Barcelona's aquarium is strong on atmosphere — the 80-metre shark tunnel is genuinely impressive — though the overall collection is smaller than Valencia's Oceanogràfic. Worth it for the tunnel experience alone."
+opinionEditorial: Barcelona's aquarium is strong on atmosphere — the 80-metre shark tunnel is genuinely impressive — though the overall collection is smaller than Valencia's Oceanogràfic. Worth it for the tunnel experience alone.
 guiasRelacionadas:
 - barcelona-with-kids
-categoria: entradas
+categoria: parques
 keywords:
 - aquarium barcelona ticket
 - barcelona aquarium skip the line
 - shark tunnel barcelona
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
-imagenAlt: "Oceanarium tunnel at L'Aquàrium de Barcelona"
+imagenAlt: Oceanarium tunnel at L'Aquàrium de Barcelona
 galeria:
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
-  alt: "Shark and diver in the Oceanarium at L'Aquàrium"
+  alt: Shark and diver in the Oceanarium at L'Aquàrium
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
-  alt: "L'Aquàrium building in Barcelona's Port Vell"
+  alt: L'Aquàrium building in Barcelona's Port Vell
 - src: /images/actividades/barcelona/aquarium/pez-angel.webp
-  alt: "Queen angelfish in a tropical tank at L'Aquàrium"
+  alt: Queen angelfish in a tropical tank at L'Aquàrium
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
-  alt: "Visitors in front of the main Oceanarium tank"
+  alt: Visitors in front of the main Oceanarium tank
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

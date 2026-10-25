@@ -72,7 +72,7 @@ opinionEditorial: 'It''s a quick way to see a lot in a morning: three hours by b
   From about €117 per person for two with a standard bike, or about €161 with an e-bike. If you''re not used to cycling in a city, the e-bike is worth it.'
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - private bike tour barcelona
 - ebike tour barcelona
@@ -101,6 +101,7 @@ galeria:
   alt: Cyclists by a fountain in a park
 bokunProductId: 217567
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

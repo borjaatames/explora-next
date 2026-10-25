@@ -75,7 +75,7 @@ opinionEditorial: 'El cielo del Teide es de los mejores del mundo para observar 
 guiasRelacionadas:
 - subir-al-teide
 - que-ver-en-tenerife
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - observacion estrellas teide
 - estrellas tenerife

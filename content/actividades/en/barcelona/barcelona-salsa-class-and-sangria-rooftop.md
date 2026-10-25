@@ -64,7 +64,7 @@ opinionEditorial: 'It''s one of Barcelona''s best-rated social plans —4.9 out 
   It costs about €49 per person. It''s non-refundable, so book once your date is fixed. For solo travellers, groups of friends or hen parties, it works really well.'
 atraccionesRelacionadas:
 - otros-barcelona
-categoria: espectaculos
+categoria: talleres
 keywords:
 - salsa class barcelona
 - salsa and sangria barcelona

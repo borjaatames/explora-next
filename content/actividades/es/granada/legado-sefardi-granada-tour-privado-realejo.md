@@ -62,7 +62,7 @@ opinionEditorial: 'Es una visita de nicho y está bien que lo sea: la Granada ju
   Para dos personas sale a 121 € cada una; con cuatro baja a 65 €. Encaja a quien ya ha visto la Alhambra y quiere otra capa de la historia de Granada, o a viajeros con interés por la herencia sefardí.'
 atraccionesRelacionadas:
 - otros-granada
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour judio granada
 - granada sefardi
@@ -91,6 +91,7 @@ galeria:
   alt: Calle estrecha con faroles en el centro de Granada
 bokunProductId: 938167
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

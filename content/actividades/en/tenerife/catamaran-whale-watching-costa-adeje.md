@@ -2,11 +2,11 @@
 titulo: 'Tenerife: Catamaran whale watching, Costa Adeje'
 slug: catamaran-whale-watching-costa-adeje
 ciudad: tenerife
-descripcion: "Catamaran whale and dolphin watching trip from Costa Adeje, the south of Tenerife. Pilot whales resident year-round, dolphins almost guaranteed. 4.7/5 with 4,248 reviews."
+descripcion: Catamaran whale and dolphin watching trip from Costa Adeje, the south of Tenerife. Pilot whales resident year-round, dolphins almost guaranteed. 4.7/5 with 4,248 reviews.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
-duracion: '3 hours'
+duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 35
 moneda: EUR
@@ -30,7 +30,7 @@ noIncluye:
 - Transport to the port
 - Food and drink (snack bar usually available on board)
 puntoEncuentro:
-  texto: "Puerto Colón or Puerto de Los Cristianos, Costa Adeje, Tenerife"
+  texto: Puerto Colón or Puerto de Los Cristianos, Costa Adeje, Tenerife
   descripcionGuia: Costa Adeje is the main resort area in south Tenerife. Exact departure port (Puerto Colón in Las Américas or Los Cristianos) is confirmed on your voucher. Both ports are well served by local buses from the south resort area.
   latitud: 28.0809
   longitud: -16.7357
@@ -59,34 +59,34 @@ preguntasFrecuentes:
   respuesta: Both trips access the same cetacean habitat. The key difference is the departure point — this trip leaves from Costa Adeje in the south, making it more convenient for the main south Tenerife resorts. The Los Gigantes trip leaves from the west coast and adds the dramatic cliffs as a backdrop.
 - pregunta: Is there a swimming stop?
   respuesta: Most departures include a swimming stop in calm, clear Atlantic waters. This is weather and sea-condition dependent. Confirm with the operator on booking.
-opinionEditorial: "The south Tenerife option for whale watching. Convenient if you're staying in Los Cristianos or Las Américas, with the same excellent pilot whale sighting rates as the Los Gigantes route."
+opinionEditorial: The south Tenerife option for whale watching. Convenient if you're staying in Los Cristianos or Las Américas, with the same excellent pilot whale sighting rates as the Los Gigantes route.
 guiasRelacionadas:
 - whale-watching-tenerife
-categoria: excursionesDia
+categoria: agua
 keywords:
 - whale watching costa adeje tenerife
 - catamaran tenerife south
 - dolphin watching tenerife
 - tenerife whale tour
-imagen: "/images/actividades/tenerife/cetaceos/catamaran-costa.webp"
-imagenAlt: "A catamaran sailing off the coast of Tenerife"
+imagen: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
+imagenAlt: A catamaran sailing off the coast of Tenerife
 galeria:
-  - src: "/images/actividades/tenerife/cristianos/costa-palm-mar.webp"
-    alt: "Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-respirando.webp"
-    alt: "A pilot whale surfacing to breathe"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-soplo.webp"
-    alt: "A cetacean blowing at the surface off Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-cria.webp"
-    alt: "A pilot whale calf next to its mother"
-  - src: "/images/actividades/tenerife/cetaceos/calderones-tenerife.webp"
-    alt: "Pilot whales surfacing in the waters off Tenerife"
-  - src: "/images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp"
-    alt: "A group of dolphins swimming at the surface"
-  - src: "/images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp"
-    alt: "A pilot whale leaping through the surf"
-  - src: "/images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp"
-    alt: "Cliffs along the south coast of Tenerife"
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: A pilot whale surfacing to breathe
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: A cetacean blowing at the surface off Tenerife
+- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+  alt: A pilot whale calf next to its mother
+- src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
+  alt: Pilot whales surfacing in the waters off Tenerife
+- src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
+  alt: A group of dolphins swimming at the surface
+- src: /images/actividades/tenerife/cetaceos/calderon-salto-espuma.webp
+  alt: A pilot whale leaping through the surf
+- src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
+  alt: Cliffs along the south coast of Tenerife
 ratingProveedor: 4.7
 numeroOpiniones: 4248
 atraccionesRelacionadas:

@@ -66,6 +66,7 @@ opinionEditorial: 'Seeing the Alhambra in a day from Málaga is doable, but betw
 
   For 2 it''s expensive, from €397 per person, dropping to €215 a head for 4. If you can get tickets yourself and don''t mind the bus, it''s cheaper; if you only have one day and want the Nasrid Palaces secured with a guide, it fits.'
 atraccionesRelacionadas:
+- granada-alhambra
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -96,6 +97,7 @@ galeria:
   alt: White houses of the Albaicín on the hillside
 bokunProductId: 936453
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What the day is like

@@ -69,7 +69,7 @@ opinionEditorial: 'El Torcal es uno de los paisajes más raros de Andalucía, co
   Es una excursión cara: desde 446 € por persona para 2 y 258 € por cabeza para 4. Si te gusta caminar y quieres algo distinto a los pueblos blancos, merece la pena; si solo quieres ver El Torcal, la ruta verde se puede hacer por libre si tienes coche.'
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - torcal de antequera excursion desde malaga
 - senderismo torcal guia
@@ -100,6 +100,7 @@ galeria:
   alt: Formaciones rocosas de El Torcal con vistas al valle
 bokunProductId: 1036137
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## Cómo es el día

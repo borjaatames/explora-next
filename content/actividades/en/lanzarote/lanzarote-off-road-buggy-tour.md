@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: off-road buggy tour through the volcanic north'
 slug: lanzarote-off-road-buggy-tour
 ciudad: lanzarote
-descripcion: 'A 2-3 hour guided buggy route from Costa Teguise through the Guatiza quarries, the Mala reservoir and Peñas del Chache, the island''s highest point. Rated 4.6/5 from more than 5,600 reviews.'
+descripcion: A 2-3 hour guided buggy route from Costa Teguise through the Guatiza quarries, the Mala reservoir and Peñas del Chache, the island's highest point. Rated 4.6/5 from more than 5,600 reviews.
 slugs:
   es: buggy-volcanes-norte-lanzarote
   en: lanzarote-off-road-buggy-tour
@@ -36,8 +36,8 @@ noIncluye:
 - Dust bandana
 - Tips
 puntoEncuentro:
-  texto: 'DISA petrol station in Costa Teguise, at the back, with free parking.'
-  descripcionGuia: 'If you don''t book the pickup option, go straight to the back of the petrol station. Pickup only covers selected Costa Teguise addresses and is subject to availability.'
+  texto: DISA petrol station in Costa Teguise, at the back, with free parking.
+  descripcionGuia: If you don't book the pickup option, go straight to the back of the petrol station. Pickup only covers selected Costa Teguise addresses and is subject to availability.
   latitud: 28.999
   longitud: -13.502
   zoom: 13
@@ -67,16 +67,16 @@ preguntasFrecuentes:
 - pregunta: Is the price per person?
   respuesta: 'No: €150 is the price per buggy, which takes up to two people. If there are two of you, it works out at €75 each.'
 - pregunta: Does it go through Timanfaya?
-  respuesta: 'No. The route covers the north and centre of the island (Guatiza, the Mala reservoir, Peñas del Chache, Teseguite). Off-road driving is not allowed inside Timanfaya National Park.'
+  respuesta: No. The route covers the north and centre of the island (Guatiza, the Mala reservoir, Peñas del Chache, Teseguite). Off-road driving is not allowed inside Timanfaya National Park.
 - pregunta: What licence do I need?
-  respuesta: 'Your original driving licence, held for at least two years, and you must be 20 or over. Copies are not accepted.'
+  respuesta: Your original driving licence, held for at least two years, and you must be 20 or over. Copies are not accepted.
 - pregunta: Can children come?
-  respuesta: 'In the front seat only from 1.35 m tall. There is no age limit for the back seat, according to the operator.'
+  respuesta: In the front seat only from 1.35 m tall. There is no age limit for the back seat, according to the operator.
 opinionEditorial: 'It has more than 5,600 reviews and its score holds up (4.6). Mind the name, though: it covers the north''s quarries and prickly-pear fields up to Peñas del Chache, not the Timanfaya volcanoes, where leaving the tarmac is banned. It pays off most when two of you share and one drives: €150 a buggy for one person is steep.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
 - visiting-timanfaya
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - lanzarote buggy tour
 - costa teguise buggy
@@ -86,16 +86,16 @@ keywords:
 imagen: /images/actividades/lanzarote/buggy-volcanes.webp
 imagenAlt: A buggy on a dirt track among volcanoes in Lanzarote
 galeria:
-- src: "/images/actividades/lanzarote/zonas/guatiza-cactus.webp"
-  alt: "Cacti among volcanic rocks in Guatiza, northern Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/molino-jardin-cactus.webp"
-  alt: "White windmill above the Jardín de Cactus in Guatiza"
-- src: "/images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp"
-  alt: "La Graciosa and the El Río strait from the Mirador del Río"
-- src: "/images/actividades/lanzarote/zonas/casa-tradicional-verde.webp"
-  alt: "Traditional whitewashed house with a green wooden balcony"
-- src: "/images/actividades/lanzarote/zonas/cultivos-lava.webp"
-  alt: "Crops growing on volcanic ash with mountains behind"
+- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
+  alt: Cacti among volcanic rocks in Guatiza, northern Lanzarote
+- src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
+  alt: White windmill above the Jardín de Cactus in Guatiza
+- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
+  alt: La Graciosa and the El Río strait from the Mirador del Río
+- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
+  alt: Traditional whitewashed house with a green wooden balcony
+- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
+  alt: Crops growing on volcanic ash with mountains behind
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

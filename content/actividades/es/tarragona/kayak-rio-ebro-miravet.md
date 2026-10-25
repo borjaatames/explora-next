@@ -69,7 +69,7 @@ preguntasFrecuentes:
 opinionEditorial: El Ebro entre Móra y Miravet es uno de los tramos más bonitos del río, y llegar en kayak a los pies del castillo templario es un final de película. Plan de naturaleza tranquilo, ideal en primavera y verano.
 guiasRelacionadas:
 - tarragona-en-un-dia
-categoria: excursionesDia
+categoria: agua
 keywords:
 - kayak ebro
 - kayak miravet

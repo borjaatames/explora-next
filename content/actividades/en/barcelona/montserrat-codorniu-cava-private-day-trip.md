@@ -70,7 +70,8 @@ opinionEditorial: 'It combines Barcelona''s two classic day trips: Montserrat an
 
 
   It''s pricey for two (from about €317 per person), dropping to about €206 each for four. If you only want Montserrat, there are cheaper options.'
-atraccionesRelacionadas: []
+atraccionesRelacionadas:
+- montserrat
 categoria: excursionesDia
 keywords:
 - montserrat and cava day trip
@@ -102,6 +103,7 @@ galeria:
   alt: Art Nouveau arched hall at the winery
 bokunProductId: 242957
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## How the day works

@@ -2,8 +2,7 @@
 titulo: Villages of the Alpujarra from Granada — Originals by GYG Tour
 slug: alpujarra-originals-curated-villages-day-trip
 ciudad: granada
-descripcion: 7-hour guided tour of the Alpujarra villages from Granada, with the Originals by GYG distinction. Run by Discovering
-  Spain with a small group and a private option available.
+descripcion: 7-hour guided tour of the Alpujarra villages from Granada, with the Originals by GYG distinction. Run by Discovering Spain with a small group and a private option available.
 slugs:
   en: alpujarra-originals-curated-villages-day-trip
   es: alpujarra-originals-pueblos-curados
@@ -35,9 +34,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Discovering Spain office, Plaza de las Descalzas 3, Granada (or optional hotel pickup)
-  descripcionGuia: The Discovering Spain office is at Plaza de las Descalzas 3, in central Granada (Cathedral area). Arrive
-    10-15 minutes early to check in. Alternatively, hotel pickup is available — some customers mention in reviews that they
-    were picked up and dropped off at their hotel directly, even when they hadn't expected it.
+  descripcionGuia: The Discovering Spain office is at Plaza de las Descalzas 3, in central Granada (Cathedral area). Arrive 10-15 minutes early to check in. Alternatively, hotel pickup is available — some customers mention in reviews that they were picked up and dropped off at their hotel directly, even when they hadn't expected it.
   latitud: 37.1751
   longitud: -3.5995
   zoom: 16
@@ -58,34 +55,25 @@ informacionImportante:
   - Smaller group than the standard version (some reviews mention tours of just 4 people)
   - Duration is 7 hours — slightly shorter than the standard version (8-10 hours)
   - Private tour option available at booking
-accesibilidad: Not recommended for people with mobility problems or wheelchair users. The Alpujarra villages have cobbled,
-  steep streets.
+accesibilidad: Not recommended for people with mobility problems or wheelchair users. The Alpujarra villages have cobbled, steep streets.
 politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund.
 preguntasFrecuentes:
 - pregunta: How does it differ from the standard Alpujarra tour?
-  respuesta: This is the Originals by GetYourGuide version (curated by the platform) run by Discovering Spain. It's shorter
-    (7h vs 8-10h for the standard one), more expensive (€115 vs €71) and with a smaller group. It has 224 reviews at 4.7 /
-    5 versus 320 for the standard. If you value a small group and a more curated experience, this one; if you prefer a lower
-    price and more reviews, the standard one.
+  respuesta: This is the Originals by GetYourGuide version (curated by the platform) run by Discovering Spain. It's shorter (7h vs 8-10h for the standard one), more expensive (€115 vs €71) and with a smaller group. It has 224 reviews at 4.7 / 5 versus 320 for the standard. If you value a small group and a more curated experience, this one; if you prefer a lower price and more reviews, the standard one.
 - pregunta: Are the groups really 4 people?
-  respuesta: Some reviews mention this. The operator (Discovering Spain) actively replies to reviews and seems to prioritise
-    small groups. It's not guaranteed by contract, but the trend is towards small capacities.
+  respuesta: Some reviews mention this. The operator (Discovering Spain) actively replies to reviews and seems to prioritise small groups. It's not guaranteed by contract, but the trend is towards small capacities.
 - pregunta: Is there hotel pickup?
-  respuesta: Yes, available at booking (check the options on GYG). Some customers mention being dropped back at their hotel
-    even when they weren't expecting it.
-variantes: ["alpujarra-mountain-villages-day-trip"]
-opinionEditorial: 'The "premium" version of the Alpujarra day trip: the Originals by GetYourGuide distinction and the operator
-  Discovering Spain make the difference. More expensive than the standard tour (€115 vs €71) but with a smaller group and
-  more personal attention. The operator''s responses in reviews are frequent and personal — a good sign of customer care.
+  respuesta: Yes, available at booking (check the options on GYG). Some customers mention being dropped back at their hotel even when they weren't expecting it.
+variantes:
+- alpujarra-mountain-villages-day-trip
+opinionEditorial: 'The "premium" version of the Alpujarra day trip: the Originals by GetYourGuide distinction and the operator Discovering Spain make the difference. More expensive than the standard tour (€115 vs €71) but with a smaller group and more personal attention. The operator''s responses in reviews are frequent and personal — a good sign of customer care.
 
 
-  With 4.7 / 5 from 224 reviews, it has the same rating as the standard tour but lower volume. The duration is 7 hours rather
-  than 8-10, which makes it more manageable for visitors with limited time or who prefer not to be out the whole day. If you''re
-  travelling as a couple or a small group and value a curated experience, this is the pick. If you''re a large family or on
-  a tight budget, the standard tour delivers just as well and saves you €44 per person.
+  With 4.7 / 5 from 224 reviews, it has the same rating as the standard tour but lower volume. The duration is 7 hours rather than 8-10, which makes it more manageable for visitors with limited time or who prefer not to be out the whole day. If you''re travelling as a couple or a small group and value a curated experience, this is the pick. If you''re a large family or on a tight budget, the standard tour delivers just as well and saves you €44 per person.
 
   '
 atraccionesRelacionadas:
+- alpujarra
 - excursiones
 categoria: excursionesDia
 keywords:
@@ -94,27 +82,27 @@ keywords:
 - alpujarra small group
 - discovering spain alpujarra
 - curated white villages tour
-imagen: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp"
-imagenAlt: "Tinao, a covered passage typical of the Alpujarra"
+imagen: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
+imagenAlt: Tinao, a covered passage typical of the Alpujarra
 galeria:
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
-  alt: "Flat roofs with laundry drying in the Alpujarra"
+  alt: Flat roofs with laundry drying in the Alpujarra
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-en-granada-espa-a-jpg.webp
-  alt: "Alpujarra white village on the hillside"
+  alt: Alpujarra white village on the hillside
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-pixabay-3389333.webp
-  alt: "Alpujarra rugs for sale in Pampaneira"
+  alt: Alpujarra rugs for sale in Pampaneira
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pexels-29136853.webp
-  alt: "Whitewashed chapel in the Alpujarra"
+  alt: Whitewashed chapel in the Alpujarra
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
-  alt: "Snowy Sierra Nevada above the Alpujarra villages"
+  alt: Snowy Sierra Nevada above the Alpujarra villages
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-vista-de-capileira-jpg.webp
-  alt: "Alpujarra village in the mist"
+  alt: Alpujarra village in the mist
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-pampaneira-granada-24524800018-jpg.webp
-  alt: "Alpujarra village lit up at dusk"
+  alt: Alpujarra village lit up at dusk
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-shadowed-valley-seen-along-the-gr-240-in-pampaneir.webp
-  alt: "Alpujarra gorge with low clouds"
+  alt: Alpujarra gorge with low clouds
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
-  alt: "Balcony with geraniums in the Alpujarra"
+  alt: Balcony with geraniums in the Alpujarra
 ratingProveedor: 4.7
 numeroOpiniones: 224
 publicada: true

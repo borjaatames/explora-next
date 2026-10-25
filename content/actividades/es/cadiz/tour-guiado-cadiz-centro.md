@@ -65,7 +65,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Cádiz parece pequeña, pero cada esquina tiene una historia de fenicios, romanos, galeones o Cortes de 1812. Con guía se entiende muchísimo mejor, y por 20 € es una ganga. Ojo: necesitas reservar para dos adultos como mínimo.'
 guiasRelacionadas:
 - cadiz-en-un-dia
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour guiado cadiz
 - visita guiada cadiz
@@ -95,6 +95,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 225
 atraccionesRelacionadas:
+- casco-antiguo
 - centro-historico
 publicada: true
 destacada: false

@@ -1,12 +1,12 @@
 ---
-titulo: "Barcelona High-Speed Powerboat Ride (1h)"
+titulo: Barcelona High-Speed Powerboat Ride (1h)
 slug: barcelona-high-speed-powerboat-ride
 ciudad: barcelona
-descripcion: "1-hour high-speed powerboat ride around Port Vell and the Barcelona coast, with drinks onboard."
+descripcion: 1-hour high-speed powerboat ride around Port Vell and the Barcelona coast, with drinks onboard.
 slugs:
   es: lancha-rapida-barcelona-port-vell
   en: barcelona-high-speed-powerboat-ride
-duracion: "1 hour"
+duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 60
 moneda: EUR
@@ -15,12 +15,12 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 699837
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Adrenaline-filled high-speed ride
-- "Tour of Port Vell: superyachts and America's Cup team bases"
+- 'Tour of Port Vell: superyachts and America''s Cup team bases'
 - Views of Barcelona from the sea
 - Drinks onboard
 incluye:
@@ -31,15 +31,15 @@ noIncluye:
 - Hotel pickup
 - Tips
 puntoEncuentro:
-  texto: "Marina Vela, Port Vell, Barcelona"
+  texto: Marina Vela, Port Vell, Barcelona
   latitud: 41.3695
-  longitud: 2.1930
+  longitud: 2.193
   zoom: 15
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   edadMinima: 12
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 informacionImportante:
   queTraer:
   - Loose, casual clothing and flat-soled shoes
@@ -52,52 +52,52 @@ informacionImportante:
   - Not recommended for people with back problems or heart conditions, or for pregnant travellers
 preguntasFrecuentes:
 - pregunta: How does the hour break down?
-  respuesta: 'Around 25 minutes touring Port Vell — superyachts and the America''s Cup team bases, often with the teams practising on their foiling boats — and around 25 minutes at speed along the coast with views of the city from the sea. Safari-style, with the occasional dolphin or sunfish.'
+  respuesta: Around 25 minutes touring Port Vell — superyachts and the America's Cup team bases, often with the teams practising on their foiling boats — and around 25 minutes at speed along the coast with views of the city from the sea. Safari-style, with the occasional dolphin or sunfish.
 - pregunta: How many people are on board?
   respuesta: The boat is fully licensed for commercial activities and carries up to 8 passengers in individual seats, with a professional, fun skipper who tells you about the city.
 - pregunta: Is there a minimum age or any restrictions?
-  respuesta: 'Minimum age is 12. It is not recommended for people with back problems or heart conditions, or for pregnant travellers, as it is a high-speed ride.'
-opinionEditorial: "For those who want something livelier than a sailboat: half an hour around Port Vell among superyachts and the America's Cup bases, then half an hour at speed along the coast. Short, intense and great fun."
+  respuesta: Minimum age is 12. It is not recommended for people with back problems or heart conditions, or for pregnant travellers, as it is a high-speed ride.
+opinionEditorial: 'For those who want something livelier than a sailboat: half an hour around Port Vell among superyachts and the America''s Cup bases, then half an hour at speed along the coast. Short, intense and great fun.'
 atraccionesRelacionadas:
 - barco
-categoria: visitasGuiadas
+categoria: agua
 keywords:
 - barcelona powerboat
 - high speed boat barcelona
 - speedboat barcelona
-imagen: "/images/actividades/barcelona/barcos/barcos-lancha-costa.webp"
-imagenAlt: "Speedboat off the Barcelona coast"
+imagen: /images/actividades/barcelona/barcos/barcos-lancha-costa.webp
+imagenAlt: Speedboat off the Barcelona coast
 galeria:
 - src: https://imgcdn.bokun.tools/8d713eff-7bc9-4296-afa7-f484aabb5bb9.jpg
-  alt: "Speedboat with passengers in life jackets racing across the sea"
+  alt: Speedboat with passengers in life jackets racing across the sea
 - src: https://imgcdn.bokun.tools/e9ea3de5-5bfb-4a07-8473-360662d6362f.jpg
-  alt: "RIB speedboat cutting across the sea off Barcelona"
+  alt: RIB speedboat cutting across the sea off Barcelona
 - src: https://imgcdn.bokun.tools/b01d34ad-dc6b-467d-bbc3-a5d53255bc95.jpg
-  alt: "Smiling passengers aboard the speedboat"
+  alt: Smiling passengers aboard the speedboat
 - src: https://imgcdn.bokun.tools/ddf7469d-052d-4925-ad95-b95a83644e8c.jpg
-  alt: "The Barcelona coastline seen from the speedboat"
+  alt: The Barcelona coastline seen from the speedboat
 - src: https://imgcdn.bokun.tools/c33727ee-7570-4449-9851-94e956453001.jpg
-  alt: "Skipper explaining the route off Barcelona"
+  alt: Skipper explaining the route off Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-02.webp
-  alt: "Group wearing life jackets aboard a speedboat off the coast of Barcelona"
+  alt: Group wearing life jackets aboard a speedboat off the coast of Barcelona
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-03.webp
-  alt: "Speedboat kicking up a big splash of water with passengers laughing on board"
+  alt: Speedboat kicking up a big splash of water with passengers laughing on board
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+  alt: Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore
 - src: /images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp
-  alt: "Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background"
+  alt: Group exercising on the Barceloneta boardwalk at sunset, with the W Hotel in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp
-  alt: "Sunbathers and walkers on the sand of Barceloneta beach on a sunny day"
+  alt: Sunbathers and walkers on the sand of Barceloneta beach on a sunny day
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
-  alt: "View of Barceloneta beach with the marina and palm trees in the background"
+  alt: View of Barceloneta beach with the marina and palm trees in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
-  alt: "Sailboat and parasailing off Barceloneta beach"
+  alt: Sailboat and parasailing off Barceloneta beach
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-10-hero.webp
-  alt: "Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background"
+  alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 - src: /images/actividades/barcelona/watersports/lancha-rapida-barcelona-01.webp
-  alt: "High-speed powerboat in Barcelona's Port Vell"
+  alt: High-speed powerboat in Barcelona's Port Vell
 - src: /images/actividades/barcelona/barcos/barcos-lancha-mar.webp
-  alt: "Speedboat on the Mediterranean off Barcelona"
+  alt: Speedboat on the Mediterranean off Barcelona
 publicada: true
 destacada: false
 fecha: '2026-06-18'

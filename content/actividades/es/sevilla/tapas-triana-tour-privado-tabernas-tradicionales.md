@@ -59,6 +59,7 @@ opinionEditorial: 'Triana es el mejor barrio de Sevilla para tapear sin turistas
 
   El precio para dos, 211 € por persona, es alto para 4 tapas y 4 bebidas: pagas sobre todo el guía privado. Con 4 personas baja a unos 98 € por cabeza. Merece la pena si queréis entender lo que coméis; si solo queréis tapear, Triana se disfruta igual por libre.'
 atraccionesRelacionadas:
+- triana
 - tapas-sevilla
 categoria: toursGastronomicos
 keywords:
@@ -86,6 +87,7 @@ galeria:
   alt: Viajeros con vino en la terraza de un bar
 bokunProductId: 933456
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## El recorrido

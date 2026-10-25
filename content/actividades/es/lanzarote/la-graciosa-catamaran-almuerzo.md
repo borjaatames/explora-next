@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'La Graciosa: catamarán con almuerzo, baño y kayak'
 slug: la-graciosa-catamaran-almuerzo
 ciudad: lanzarote
@@ -37,8 +37,8 @@ incluye:
 noIncluye:
 - Desembarco en la playa (el baño es desde el barco)
 puntoEncuentro:
-  texto: 'Puerto de Órzola, en el norte de Lanzarote, o el punto de recogida más cercano a tu alojamiento.'
-  descripcionGuia: 'Si vas por tu cuenta, el guía y el grupo te esperan en el puerto de Órzola. No hay recogida en Playa Blanca los domingos, lunes ni miércoles, y si reservas con menos de 24 horas la recogida no está garantizada.'
+  texto: Puerto de Órzola, en el norte de Lanzarote, o el punto de recogida más cercano a tu alojamiento.
+  descripcionGuia: Si vas por tu cuenta, el guía y el grupo te esperan en el puerto de Órzola. No hay recogida en Playa Blanca los domingos, lunes ni miércoles, y si reservas con menos de 24 horas la recogida no está garantizada.
   latitud: 29.2226
   longitud: -13.4497
   zoom: 15
@@ -64,18 +64,18 @@ accesibilidad: No apto para personas en silla de ruedas.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Está incluido el ferri a La Graciosa?
-  respuesta: 'Sí. El ferri rápido de ida y vuelta entre Órzola y Caleta de Sebo (unos 30 minutos) entra en el precio, igual que la recogida en los principales núcleos turísticos.'
+  respuesta: Sí. El ferri rápido de ida y vuelta entre Órzola y Caleta de Sebo (unos 30 minutos) entra en el precio, igual que la recogida en los principales núcleos turísticos.
 - pregunta: ¿Se baja a la playa?
-  respuesta: 'No. El catamarán fondea frente a Playa Francesa y el baño, el kayak y el esnórquel se hacen desde el barco. El rato en tierra es en Caleta de Sebo.'
+  respuesta: No. El catamarán fondea frente a Playa Francesa y el baño, el kayak y el esnórquel se hacen desde el barco. El rato en tierra es en Caleta de Sebo.
 - pregunta: ¿Qué se come?
-  respuesta: 'Paella preparada a bordo, fruta y barra libre de agua, cerveza, sangría y refrescos. Si eres celíaco o vegetariano, avisa al reservar.'
+  respuesta: Paella preparada a bordo, fruta y barra libre de agua, cerveza, sangría y refrescos. Si eres celíaco o vegetariano, avisa al reservar.
 - pregunta: ¿Hay recogida en Playa Blanca?
-  respuesta: 'Sí, salvo los domingos, lunes y miércoles. Esos días tendrías que ir por tu cuenta a Órzola o a otro punto de recogida.'
+  respuesta: Sí, salvo los domingos, lunes y miércoles. Esos días tendrías que ir por tu cuenta a Órzola o a otro punto de recogida.
 opinionEditorial: 'Es la forma más cómoda de ver La Graciosa en un día si no quieres organizar ferri, bici y comida por tu cuenta, y la valoración se mantiene alta con más de dos mil reseñas. A cambio, apenas pisas la isla: el tiempo en tierra se limita a Caleta de Sebo y no llegas a Las Conchas ni a Montaña Amarilla. Si lo que quieres es recorrerla, ve en ferri y alquila una bici.'
 guiasRelacionadas:
 - la-graciosa-como-ir
 - que-ver-en-lanzarote
-categoria: excursionesDia
+categoria: agua
 keywords:
 - excursion la graciosa
 - barco la graciosa
@@ -85,18 +85,18 @@ keywords:
 imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
 imagenAlt: Catamarán fondeado frente a la costa de La Graciosa
 galeria:
-- src: "/images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp"
-  alt: "La Graciosa y su montaña rodeadas de mar azul"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp"
-  alt: "Puerto de Caleta de Sebo bajo el Risco de Famara"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp"
-  alt: "Casas blancas y calles de arena en Caleta de Sebo"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp"
-  alt: "Paseo junto al mar en Caleta de Sebo, La Graciosa"
-- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp"
-  alt: "Barcos en el puerto de La Graciosa"
-- src: "/images/actividades/lanzarote/zonas/la-graciosa-aerea.webp"
-  alt: "La Graciosa y Caleta de Sebo vistas desde lo alto"
+- src: /images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp
+  alt: La Graciosa y su montaña rodeadas de mar azul
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp
+  alt: Puerto de Caleta de Sebo bajo el Risco de Famara
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp
+  alt: Casas blancas y calles de arena en Caleta de Sebo
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp
+  alt: Paseo junto al mar en Caleta de Sebo, La Graciosa
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp
+  alt: Barcos en el puerto de La Graciosa
+- src: /images/actividades/lanzarote/zonas/la-graciosa-aerea.webp
+  alt: La Graciosa y Caleta de Sebo vistas desde lo alto
 ratingProveedor: 4.6
 numeroOpiniones: 2132
 atraccionesRelacionadas:

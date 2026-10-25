@@ -1,8 +1,8 @@
 ---
-titulo: "Evening Tapas & Wine Tour"
+titulo: Evening Tapas & Wine Tour
 slug: evening-tapas-and-wine-tour
 ciudad: barcelona
-descripcion: "Evening tapas and wine tour through Barcelona's old town, with stops at four traditional bars and tastings included."
+descripcion: Evening tapas and wine tour through Barcelona's old town, with stops at four traditional bars and tastings included.
 slugs:
   es: tour-tapas-y-vino-noche
   en: evening-tapas-and-wine-tour
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 866988
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -31,11 +31,11 @@ noIncluye:
 - Tips
 - Extra drinks beyond the set menu
 puntoEncuentro:
-  texto: 'The meeting point is in Barcelona''s old town; the exact address is given when your booking is confirmed.'
+  texto: The meeting point is in Barcelona's old town; the exact address is given when your booking is confirmed.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
 informacionImportante:
   aTenerEnCuenta:
   - You can choose the 11:00 am tour or the 6:00 pm tour
@@ -49,7 +49,7 @@ preguntasFrecuentes:
   respuesta: You can choose between the 11:00 am tour and the 6:00 pm tour. The exact meeting point is confirmed when you book.
 - pregunta: Can you cater for allergies or vegetarians?
   respuesta: Yes. Let your guide know about any allergies or dietary needs when you arrive; vegetarian options can be arranged.
-opinionEditorial: "Evening is the best time for tapas in Barcelona, and going with a guide saves you from ending up in the wrong bar. Four stops are enough to taste plenty and get to know the neighbourhood at a relaxed pace."
+opinionEditorial: Evening is the best time for tapas in Barcelona, and going with a guide saves you from ending up in the wrong bar. Four stops are enough to taste plenty and get to know the neighbourhood at a relaxed pace.
 atraccionesRelacionadas:
 - tapas-barcelona
 categoria: toursGastronomicos
@@ -61,14 +61,14 @@ imagen: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
 imagenAlt: Toasting with wine in a tapas bar on the Barcelona evening tour
 galeria:
 - src: https://imgcdn.bokun.tools/5c1402e6-e8df-4350-9b80-3a2426849395.jpeg
-  alt: "Tour group outside a tapas bar"
+  alt: Tour group outside a tapas bar
 - src: https://imgcdn.bokun.tools/318d9bd7-7208-4d0c-a090-144ec506c897.jpeg
-  alt: "Drinking wine from a porrón in a bodega"
+  alt: Drinking wine from a porrón in a bodega
 - src: https://imgcdn.bokun.tools/0ec26797-2071-4a52-94d9-7e4c24752979.jpeg
-  alt: "Plate of freshly carved Iberian ham"
+  alt: Plate of freshly carved Iberian ham
 - src: https://imgcdn.bokun.tools/02d48709-4a2c-4925-8bb8-3c1d734ec81e.jpeg
-  alt: "Guide holding a plate of ham in a tapas bar"
-- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: Guide holding a plate of ham in a tapas bar
+- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
   alt: Narrow street in Barcelona's Gothic Quarter at dusk
 publicada: true
 destacada: false

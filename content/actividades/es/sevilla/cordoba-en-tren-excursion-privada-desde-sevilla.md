@@ -64,8 +64,9 @@ opinionEditorial: 'El tren es la forma más rápida de ir de Sevilla a Córdoba,
 
   Para dos personas son 432 € en total, 216 € cada uno, bastante menos que la excursión privada en coche. Lo único: no es reembolsable, así que resérvala con la fecha segura.'
 atraccionesRelacionadas:
+- cordoba
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - cordoba en tren desde sevilla
 - excursion cordoba desde sevilla en tren
@@ -93,6 +94,8 @@ galeria:
   alt: Puente Romano y Mezquita de Córdoba al atardecer
 bokunProductId: 793766
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

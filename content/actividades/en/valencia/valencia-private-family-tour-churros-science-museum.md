@@ -65,9 +65,10 @@ opinionEditorial: 'A well-rounded family plan in Valencia: climb the Serranos To
 
   It''s a new activity with no reviews yet. From about €82 per person with 2 adults; about €59 each for four.'
 atraccionesRelacionadas:
-- ciudad-artes-ciencias
 - centro-historico
-categoria: visitasGuiadas
+- ciudad-artes
+- ciudad-artes-ciencias
+categoria: toursCiudad
 keywords:
 - valencia with kids tour
 - private family tour valencia
@@ -96,6 +97,7 @@ galeria:
   alt: The Serranos Towers, the old city-wall gate of Valencia
 bokunProductId: 905314
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## How the tour works

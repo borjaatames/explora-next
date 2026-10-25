@@ -2,11 +2,11 @@
 titulo: 'Valencia: City of Arts 3-in-1 ticket — Oceanogràfic, Hemisfèric & Museu'
 slug: ciudad-artes-3-en-1-ticket
 ciudad: valencia
-descripcion: "Combined ticket to Valencia's three main attractions at the City of Arts and Sciences: Oceanogràfic (Europe's largest aquarium), Hemisfèric IMAX and Museu de les Ciències. 4.5/5 with 3,518 reviews."
+descripcion: 'Combined ticket to Valencia''s three main attractions at the City of Arts and Sciences: Oceanogràfic (Europe''s largest aquarium), Hemisfèric IMAX and Museu de les Ciències. 4.5/5 with 3,518 reviews.'
 slugs:
   es: ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   en: ciudad-artes-3-en-1-ticket
-duracion: '1 full day'
+duracion: 1 full day
 duracionMinutos: 480
 precioDesde: 46
 moneda: EUR
@@ -30,7 +30,7 @@ noIncluye:
 - Food and drink
 - Transport to the City of Arts
 puntoEncuentro:
-  texto: 'Ciudad de las Artes y las Ciencias, Valencia'
+  texto: Ciudad de las Artes y las Ciencias, Valencia
   descripcionGuia: Take bus 35, 95 or the EMT tourist bus from Valencia city centre. Tram lines also serve the complex. Show your ticket at each attraction separately.
   latitud: 39.4546
   longitud: -0.3507
@@ -57,36 +57,37 @@ preguntasFrecuentes:
   respuesta: Yes, but it's a full day. The Oceanogràfic alone needs 3–4 hours. Start at opening and plan your Hemisfèric screening time in advance.
 - pregunta: What is the Hemisfèric?
   respuesta: The Hemisfèric is an IMAX dome cinema inside a building shaped like a giant eye. The dome screen covers your entire field of vision; documentary screenings are shown throughout the day.
-opinionEditorial: "The City of Arts and Sciences is Valencia's architectural crown jewel, and the 3-in-1 ticket is the best way to see it properly. The Oceanogràfic's beluga whale enclosure and shark tunnel are world-class."
+opinionEditorial: The City of Arts and Sciences is Valencia's architectural crown jewel, and the 3-in-1 ticket is the best way to see it properly. The Oceanogràfic's beluga whale enclosure and shark tunnel are world-class.
 guiasRelacionadas:
 - city-of-arts-sciences-how-to-visit
 - valencia-with-kids
 - valencia-in-2-days
-categoria: entradas
+categoria: parques
 keywords:
 - city of arts sciences valencia ticket
 - oceanografic valencia ticket
 - valencia 3 in 1 ticket
 imagen: /images/actividades/valencia/oceanografic/ciudad-artes-noche.webp
-imagenAlt: "City of Arts and Sciences in Valencia lit up at night"
+imagenAlt: City of Arts and Sciences in Valencia lit up at night
 galeria:
-- src: "/images/actividades/valencia/ciudad-artes-combo/senaletica-museo-ciencias-umbracle.webp"
-  alt: "Signage towards the Museu de les Ciències and l'Umbracle at the City of Arts and Sciences"
-- src: "/images/actividades/valencia/ciudad-artes-combo/puente-hemisferic-museo.webp"
-  alt: "Bridge next to the Hemisfèric and the Museu de les Ciències"
-- src: "/images/actividades/valencia/ciudad-artes-combo/hemisferic-reflejo-simetrico.webp"
-  alt: "Symmetrical reflection of the Hemisfèric in the water"
+- src: /images/actividades/valencia/ciudad-artes-combo/senaletica-museo-ciencias-umbracle.webp
+  alt: Signage towards the Museu de les Ciències and l'Umbracle at the City of Arts and Sciences
+- src: /images/actividades/valencia/ciudad-artes-combo/puente-hemisferic-museo.webp
+  alt: Bridge next to the Hemisfèric and the Museu de les Ciències
+- src: /images/actividades/valencia/ciudad-artes-combo/hemisferic-reflejo-simetrico.webp
+  alt: Symmetrical reflection of the Hemisfèric in the water
 - src: /images/actividades/valencia/oceanografic/oceanografic-valencia-hero.webp
-  alt: "Entrance building of the Oceanogràfic in Valencia"
+  alt: Entrance building of the Oceanogràfic in Valencia
 - src: /images/actividades/valencia/oceanografic/beluga.webp
-  alt: "Beluga in the Arctic aquarium at the Oceanogràfic"
+  alt: Beluga in the Arctic aquarium at the Oceanogràfic
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
-  alt: "Hemisfèric at the City of Arts and Sciences"
+  alt: Hemisfèric at the City of Arts and Sciences
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
-  alt: "Facade of the Museu de les Ciències, Valencia"
+  alt: Facade of the Museu de les Ciències, Valencia
 ratingProveedor: 4.5
 numeroOpiniones: 3518
 atraccionesRelacionadas:
+- ciudad-artes
 - ciudad-artes-ciencias
 publicada: true
 destacada: true

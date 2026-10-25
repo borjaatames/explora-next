@@ -66,7 +66,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Una forma ágil de ver Salamanca y lo que muchos se pierden: el Tormes y la mejor vista de las catedrales desde el puente romano. Ten en cuenta que la bici va aparte.'
 guiasRelacionadas:
 - salamanca-en-un-fin-de-semana
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour bici salamanca
 - salamanca en bicicleta

@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: Salamanca de noche, con la piedra dorada iluminada, es otra ciudad, y estas leyendas (la Cueva, Calixto y Melibea, el diablo) le dan un punto muy divertido. El complemento perfecto al tour de día.
 guiasRelacionadas:
 - salamanca-en-un-fin-de-semana
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - leyendas de salamanca
 - tour nocturno salamanca

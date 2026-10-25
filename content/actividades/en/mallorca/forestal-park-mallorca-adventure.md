@@ -74,7 +74,7 @@ guiasRelacionadas:
 - mallorca-with-kids
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: aventura
 keywords:
 - forestal park mallorca
 - treetop adventure mallorca

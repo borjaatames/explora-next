@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Morro Jable: dolphin-watching boat trip with drinks and swim'
 slug: morro-jable-dolphin-whale-boat-trip
 ciudad: fuerteventura
-descripcion: '2-hour trip on the Magic Dolphin from Morro Jable harbour to look for dolphins and whales off Jandía, with a swim stop and drinks on board. Rated 4.2/5 from almost 5,500 reviews.'
+descripcion: 2-hour trip on the Magic Dolphin from Morro Jable harbour to look for dolphins and whales off Jandía, with a swim stop and drinks on board. Rated 4.2/5 from almost 5,500 reviews.
 slugs:
   es: barco-delfines-morro-jable
   en: morro-jable-dolphin-whale-boat-trip
@@ -69,27 +69,27 @@ preguntasFrecuentes:
   respuesta: Yes, from 2 years old.
 - pregunta: Do I need swimwear?
   respuesta: Yes, the boat makes a swim stop.
-opinionEditorial: "It's Fuerteventura's most-reviewed dolphin trip and fairly priced for two hours with drinks and a swim. The rating (4.2) is lower than for other activities: some reviewers mention shortened trips or no swim, and you feel it when the sea is rough. Book it for a calm day and don't treat sightings as guaranteed."
+opinionEditorial: 'It''s Fuerteventura''s most-reviewed dolphin trip and fairly priced for two hours with drinks and a swim. The rating (4.2) is lower than for other activities: some reviewers mention shortened trips or no swim, and you feel it when the sea is rough. Book it for a calm day and don''t treat sightings as guaranteed.'
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - cofete-villa-winter-how-to-get-there
-categoria: excursionesDia
+categoria: agua
 keywords:
 - dolphin watching fuerteventura
 - morro jable boat trip
 - whale watching fuerteventura
 - jandia boat trip
 imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: "Dolphins swimming beside a boat off Morro Jable"
+imagenAlt: Dolphins swimming beside a boat off Morro Jable
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/faro-morro-jable.webp"
-  alt: "The Morro Jable lighthouse"
-- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
-  alt: "Morro Jable and Matorral beach seen from the hills"
-- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
-  alt: "The Jandía coast with the lighthouse in the distance"
-- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
-  alt: "Morro Jable lighthouse among the salt-marsh scrub"
+- src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
+  alt: The Morro Jable lighthouse
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: Morro Jable and Matorral beach seen from the hills
+- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
+  alt: The Jandía coast with the lighthouse in the distance
+- src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
+  alt: Morro Jable lighthouse among the salt-marsh scrub
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

@@ -2,9 +2,7 @@
 titulo: 'Barcelona: Tablao de Carmen — Flamenco con Cena en el Poble Espanyol (Top Rated 4,8)'
 slug: tablao-de-carmen-flamenco-cena-poble-espanyol
 ciudad: barcelona
-descripcion: Espectáculo de flamenco con cena en el Tablao de Carmen, dentro del Poble Espanyol (Montjuïc). 2.125 reseñas
-  con 4,8/5 («Top Rated»). El ÚNICO tablao de Barcelona que sirve la cena DURANTE el espectáculo (tradición original). Homenaje
-  a Carmen Amaya. Entrada gratis al Poble Espanyol desde las 16:00 incluida.
+descripcion: Espectáculo de flamenco con cena en el Tablao de Carmen, dentro del Poble Espanyol (Montjuïc). 2.125 reseñas con 4,8/5 («Top Rated»). El ÚNICO tablao de Barcelona que sirve la cena DURANTE el espectáculo (tradición original). Homenaje a Carmen Amaya. Entrada gratis al Poble Espanyol desde las 16:00 incluida.
 slugs:
   es: tablao-de-carmen-flamenco-cena-poble-espanyol
   en: tablao-de-carmen-flamenco-dinner-show-poble-espanyol
@@ -39,14 +37,8 @@ noIncluye:
 - Propinas (opcionales, no incluidas en el precio del menú)
 - Entradas a otros recintos de Montjuïc (Fundació Miró, MNAC — son aparte)
 puntoEncuentro:
-  texto: Presenta tu voucher en la entrada del Poble Espanyol — Avinguda Francesc Ferrer i Guàrdia 13 (Montjuïc). El Tablao
-    de Carmen está dentro del recinto, en la calle Arcos del barrio andaluz. Indícalo en la entrada del Poble Espanyol y te
-    darán acceso al recinto y al tablao.
-  descripcionGuia: 'Metro: Espanya (L1, L3, L8 — luego andar 15 min cuesta arriba o coger el autobús 13/150). Autobús urbano:
-    línea 13 (parada Poble Espanyol) o línea 150 (más frecuente, directa desde Plaça Espanya, parada en la puerta). Funicular:
-    no llega. Taxi/Uber: desde el centro ~12 € hasta la puerta del Poble Espanyol. Llega 30-60 min antes del show para visitar
-    el Poble Espanyol (recomendado). Los pases son a las 18:00 (cena 18:30, show 19:00 aprox.) y 20:30 (cena 21:15, show 22:00
-    aprox.). Verifica horario exacto al reservar.'
+  texto: Presenta tu voucher en la entrada del Poble Espanyol — Avinguda Francesc Ferrer i Guàrdia 13 (Montjuïc). El Tablao de Carmen está dentro del recinto, en la calle Arcos del barrio andaluz. Indícalo en la entrada del Poble Espanyol y te darán acceso al recinto y al tablao.
+  descripcionGuia: 'Metro: Espanya (L1, L3, L8 — luego andar 15 min cuesta arriba o coger el autobús 13/150). Autobús urbano: línea 13 (parada Poble Espanyol) o línea 150 (más frecuente, directa desde Plaça Espanya, parada en la puerta). Funicular: no llega. Taxi/Uber: desde el centro ~12 € hasta la puerta del Poble Espanyol. Llega 30-60 min antes del show para visitar el Poble Espanyol (recomendado). Los pases son a las 18:00 (cena 18:30, show 19:00 aprox.) y 20:30 (cena 21:15, show 22:00 aprox.). Verifica horario exacto al reservar.'
   latitud: 41.3697
   longitud: 2.1497
   zoom: 16
@@ -64,58 +56,27 @@ informacionImportante:
   - Chaqueta ligera (Montjuïc es más ventoso que el centro, sobre todo de noche)
   noAptoPara:
   - Personas con alergias graves no comunicadas con antelación (avisar al reservar)
-  - Visitantes con prisa que no quieran cena (este formato es show + cena de ~2-3h; busca producto solo-show si quieres formato
-    corto)
+  - Visitantes con prisa que no quieran cena (este formato es show + cena de ~2-3h; busca producto solo-show si quieres formato corto)
   aTenerEnCuenta:
-  - Tu ticket incluye entrada GRATUITA al Poble Espanyol desde las 16:00 — aprovecha para visitar (tiendas, plazas, arquitectura
-    regional)
-  - 'Tiendas del Poble Espanyol cierran: invierno 18:00 / primavera 19:00 / verano 20:00 — útil si vienes para el pase de
-    18:00'
-  - '**Combina con la Fuente Mágica:** si reservas pase 18:00 (acaba 19:45), te da tiempo a ver la Fuente Mágica (20:00-21:00
-    jue-sáb). O al revés: ver fuentes primero y luego pase 20:30.'
+  - Tu ticket incluye entrada GRATUITA al Poble Espanyol desde las 16:00 — aprovecha para visitar (tiendas, plazas, arquitectura regional)
+  - 'Tiendas del Poble Espanyol cierran: invierno 18:00 / primavera 19:00 / verano 20:00 — útil si vienes para el pase de 18:00'
+  - '**Combina con la Fuente Mágica:** si reservas pase 18:00 (acaba 19:45), te da tiempo a ver la Fuente Mágica (20:00-21:00 jue-sáb). O al revés: ver fuentes primero y luego pase 20:30.'
   - Opciones vegetarianas, veganas, sin gluten, sin lactosa disponibles (avisar al reservar)
   - El show dura 1h pero la experiencia completa (cena incluida) es de 2-3h
-  - Carmen Amaya (1913-1963) fue una bailaora gitana de Somorrostro (Barcelona), considerada la mejor bailaora flamenca del
-    siglo XX — el tablao es un homenaje a su legado
-accesibilidad: Accesible en silla de ruedas — el Poble Espanyol tiene rutas adaptadas hasta el barrio andaluz donde está el
-  Tablao de Carmen. El tablao en sí es de planta baja con acceso a nivel. Hay baños adaptados. Recomendamos confirmar al reservar
-  si necesitas asistencia específica para la cena. La subida hasta el Poble Espanyol desde Plaça Espanya es pronunciada —
-  usa autobús 13 o 150 si tienes movilidad reducida.
-politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos.
-  Cambios de fecha sujetos a disponibilidad. Si tienes alergias o restricciones dietéticas, comunícalas al reservar con al
-  menos 48 h de antelación.'
+  - Carmen Amaya (1913-1963) fue una bailaora gitana de Somorrostro (Barcelona), considerada la mejor bailaora flamenca del siglo XX — el tablao es un homenaje a su legado
+accesibilidad: Accesible en silla de ruedas — el Poble Espanyol tiene rutas adaptadas hasta el barrio andaluz donde está el Tablao de Carmen. El tablao en sí es de planta baja con acceso a nivel. Hay baños adaptados. Recomendamos confirmar al reservar si necesitas asistencia específica para la cena. La subida hasta el Poble Espanyol desde Plaça Espanya es pronunciada — usa autobús 13 o 150 si tienes movilidad reducida.
+politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Cambios de fecha sujetos a disponibilidad. Si tienes alergias o restricciones dietéticas, comunícalas al reservar con al menos 48 h de antelación.'
 preguntasFrecuentes:
 - pregunta: ¿Por qué es el ÚNICO tablao que sirve cena durante el show?
-  respuesta: 'Tradicionalmente, en los tablaos andaluces del siglo XIX y principios del XX, la cena se servía DURANTE el espectáculo
-    — los comensales comían, bebían y aplaudían entre piezas. La mayoría de tablaos modernos (incluido el Cordobés) optaron
-    por servir la cena ANTES del show para evitar distracciones. El Tablao de Carmen mantiene la tradición original: cena
-    durante el show. Esto crea una experiencia más inmersiva (ambiente de taberna flamenca clásica) pero requiere que el ritmo
-    de servicio se coordine con los cuadros del show — el personal está entrenado para ello.'
+  respuesta: 'Tradicionalmente, en los tablaos andaluces del siglo XIX y principios del XX, la cena se servía DURANTE el espectáculo — los comensales comían, bebían y aplaudían entre piezas. La mayoría de tablaos modernos (incluido el Cordobés) optaron por servir la cena ANTES del show para evitar distracciones. El Tablao de Carmen mantiene la tradición original: cena durante el show. Esto crea una experiencia más inmersiva (ambiente de taberna flamenca clásica) pero requiere que el ritmo de servicio se coordine con los cuadros del show — el personal está entrenado para ello.'
 - pregunta: ¿Cuánto cuesta cada opción de menú?
-  respuesta: 'El precio desde 88 € en GetYourGuide corresponde al menú Carmen estándar (tres platos + bebida + show). Las
-    opciones disponibles son: TAPAS (más ligero) · CARMEN (menú tradicional tres platos) · NOCHE ESTRELLA (menú gastronómico
-    premium con vinos de calidad, ~+30 € sobre Carmen) · VIP EXPERIENCE (recibimiento exclusivo en el patio cordobés + asientos
-    preferentes). Los precios exactos varían según fecha y opción. Para el precio sin cena, el Tablao de Carmen NO ofrece
-    esa opción — siempre incluye cena (es parte de su propuesta diferencial).'
+  respuesta: 'El precio desde 88 € en GetYourGuide corresponde al menú Carmen estándar (tres platos + bebida + show). Las opciones disponibles son: TAPAS (más ligero) · CARMEN (menú tradicional tres platos) · NOCHE ESTRELLA (menú gastronómico premium con vinos de calidad, ~+30 € sobre Carmen) · VIP EXPERIENCE (recibimiento exclusivo en el patio cordobés + asientos preferentes). Los precios exactos varían según fecha y opción. Para el precio sin cena, el Tablao de Carmen NO ofrece esa opción — siempre incluye cena (es parte de su propuesta diferencial).'
 - pregunta: ¿Quién fue Carmen Amaya?
-  respuesta: Carmen Amaya (1913-1963) fue una bailaora gitana nacida en el barrio de Somorrostro (Barcelona, hoy junto al
-    puerto). Considerada la **mejor bailaora flamenca del siglo XX**, revolucionó el baile flamenco femenino al ejecutar zapateados
-    y movimientos hasta entonces reservados al baile masculino. Bailó en Hollywood, ante el presidente Roosevelt y para el
-    rey Alfonso XIII. Murió a los 50 años en plena gira. El Tablao de Carmen abrió en 1988 como homenaje a su memoria — su
-    nombre y su espíritu definen el estilo de los artistas del tablao (pasión, técnica, autenticidad gitana).
+  respuesta: Carmen Amaya (1913-1963) fue una bailaora gitana nacida en el barrio de Somorrostro (Barcelona, hoy junto al puerto). Considerada la **mejor bailaora flamenca del siglo XX**, revolucionó el baile flamenco femenino al ejecutar zapateados y movimientos hasta entonces reservados al baile masculino. Bailó en Hollywood, ante el presidente Roosevelt y para el rey Alfonso XIII. Murió a los 50 años en plena gira. El Tablao de Carmen abrió en 1988 como homenaje a su memoria — su nombre y su espíritu definen el estilo de los artistas del tablao (pasión, técnica, autenticidad gitana).
 - pregunta: ¿Cómo combino la visita con la Fuente Mágica de Montjuïc?
-  respuesta: 'Las fuentes mágicas de Montjuïc están justo al lado del Poble Espanyol (5 min andando) y son GRATIS. Horario
-    habitual: jueves a sábado de 20:00 a 21:00 (verano hasta más tarde; invierno puede estar suspendido). Combinación ideal:
-    opción 1, reservas el pase 18:00 (cena+show acaban ~19:45), luego andas 5 min hasta las fuentes y disfrutas del espectáculo
-    de las 20:00; opción 2, llegas pronto al Poble Espanyol (16:00, gratis con tu ticket), exploras hasta 19:00, ves las fuentes
-    20:00-21:00 y entras al tablao para el pase de las 20:30 (cena 21:15).'
+  respuesta: 'Las fuentes mágicas de Montjuïc están justo al lado del Poble Espanyol (5 min andando) y son GRATIS. Horario habitual: jueves a sábado de 20:00 a 21:00 (verano hasta más tarde; invierno puede estar suspendido). Combinación ideal: opción 1, reservas el pase 18:00 (cena+show acaban ~19:45), luego andas 5 min hasta las fuentes y disfrutas del espectáculo de las 20:00; opción 2, llegas pronto al Poble Espanyol (16:00, gratis con tu ticket), exploras hasta 19:00, ves las fuentes 20:00-21:00 y entras al tablao para el pase de las 20:30 (cena 21:15).'
 - pregunta: ¿Cuál es la diferencia con el Tablao Cordobés y Palau Dalmases?
-  respuesta: '**Tablao de Carmen (este):** Cena DURANTE el show (formato tradicional), 4,8/5 (rating más alto), ubicación
-    única en Poble Espanyol, incluye acceso al recinto. **Cordobés:** Cena ANTES del show (formato moderno sin distracciones),
-    sin micrófonos, ubicación premium en La Rambla. **Palau Dalmases:** Palacio del s. XVII en el Born, formato corto (50
-    min), bebida incluida solo en VIP/Zona A, ambiente más íntimo. Recomendación: si valoras la tradición de cena durante
-    show + ubicación única + máxima puntuación → Tablao de Carmen. Si prefieres cena calmada sin distracciones + tablao histórico
-    → Cordobés. Si quieres palacio espectacular + show breve → Palau Dalmases.'
+  respuesta: '**Tablao de Carmen (este):** Cena DURANTE el show (formato tradicional), 4,8/5 (rating más alto), ubicación única en Poble Espanyol, incluye acceso al recinto. **Cordobés:** Cena ANTES del show (formato moderno sin distracciones), sin micrófonos, ubicación premium en La Rambla. **Palau Dalmases:** Palacio del s. XVII en el Born, formato corto (50 min), bebida incluida solo en VIP/Zona A, ambiente más íntimo. Recomendación: si valoras la tradición de cena durante show + ubicación única + máxima puntuación → Tablao de Carmen. Si prefieres cena calmada sin distracciones + tablao histórico → Cordobés. Si quieres palacio espectacular + show breve → Palau Dalmases.'
 variantes:
 - nombre: Tapas + Show
   descripcion: Cena ligera de tapas + bebida + show de 1h + entrada al Poble Espanyol.
@@ -129,33 +90,16 @@ variantes:
 - nombre: VIP Experience
   descripcion: Recibimiento exclusivo en el patio cordobés + asientos preferentes + menú premium + show.
   precio: 145
-opinionEditorial: 'El **tablao con MAYOR puntuación de Barcelona** — 4,8/5 con 2.125 reseñas (las dos cifras más sólidas de
-  los 4 grandes tablaos top). El sentimiento positivo recurrente se centra en cuatro pilares: (1) la **tradición preservada**
-  de servir cena durante el show (formato original de los tablaos andaluces del XIX, hoy excepcional); (2) la **ubicación
-  única** dentro del Poble Espanyol — un recinto arquitectónico construido en 1929 que recrea regiones de España, con entrada
-  gratuita incluida; (3) el **homenaje a Carmen Amaya**, bailaora barcelonesa legendaria, que da identidad al tablao y atrae
-  artistas que aspiran a continuar su legado; (4) la **calidad gastronómica** consistente (menú Carmen estándar muy bien valorado,
-  Noche Estrella premium para paladares exigentes).
+opinionEditorial: 'El **tablao con MAYOR puntuación de Barcelona** — 4,8/5 con 2.125 reseñas (las dos cifras más sólidas de los 4 grandes tablaos top). El sentimiento positivo recurrente se centra en cuatro pilares: (1) la **tradición preservada** de servir cena durante el show (formato original de los tablaos andaluces del XIX, hoy excepcional); (2) la **ubicación única** dentro del Poble Espanyol — un recinto arquitectónico construido en 1929 que recrea regiones de España, con entrada gratuita incluida; (3) el **homenaje a Carmen Amaya**, bailaora barcelonesa legendaria, que da identidad al tablao y atrae artistas que aspiran a continuar su legado; (4) la **calidad gastronómica** consistente (menú Carmen estándar muy bien valorado, Noche Estrella premium para paladares exigentes).
 
 
-  **Comparación de precios:** desde 88 € (menú Carmen) es más caro que un show simple en Cordobés (48 €) o Palau Dalmases
-  (30 €), pero ese precio INCLUYE cena de tres platos + show + entrada al Poble Espanyol — no es un sobreprecio, es un combo.
-  Comparado con cena equivalente en Cordobés (menú restaurante 89 €), el Tablao de Carmen sale al mismo precio con la ventaja
-  añadida del Poble Espanyol. Si vienes en familia o pareja y quieres "una noche entera" planificada, esta es la opción que
-  mejor empaqueta la experiencia.
+  **Comparación de precios:** desde 88 € (menú Carmen) es más caro que un show simple en Cordobés (48 €) o Palau Dalmases (30 €), pero ese precio INCLUYE cena de tres platos + show + entrada al Poble Espanyol — no es un sobreprecio, es un combo. Comparado con cena equivalente en Cordobés (menú restaurante 89 €), el Tablao de Carmen sale al mismo precio con la ventaja añadida del Poble Espanyol. Si vienes en familia o pareja y quieres "una noche entera" planificada, esta es la opción que mejor empaqueta la experiencia.
 
 
-  Dos notas operativas: **(1)** llega al Poble Espanyol antes de las 18:00 para aprovechar tu acceso gratuito al recinto (las
-  tiendas cierran 18:00 invierno / 19:00 primavera / 20:00 verano). **(2)** combina con la Fuente Mágica de Montjuïc si tu
-  visita coincide con jueves-sábado (espectáculo gratis 20:00-21:00, 5 min andando desde el Poble Espanyol).
+  Dos notas operativas: **(1)** llega al Poble Espanyol antes de las 18:00 para aprovechar tu acceso gratuito al recinto (las tiendas cierran 18:00 invierno / 19:00 primavera / 20:00 verano). **(2)** combina con la Fuente Mágica de Montjuïc si tu visita coincide con jueves-sábado (espectáculo gratis 20:00-21:00, 5 min andando desde el Poble Espanyol).
 
 
-  **Para quién es:** visitantes que quieran una "noche completa" planificada (cena + show + visita al Poble Espanyol), parejas
-  y grupos que valoren la atmósfera tradicional de cena durante show, viajeros interesados en la historia del flamenco femenino
-  (Carmen Amaya), comensales que busquen menú gastronómico (Noche Estrella es excepcional), visitantes con tiempo para combinar
-  Montjuïc (Fuente Mágica, MNAC, Fundació Miró cerca). **Para quién NO:** viajeros con prisa que quieran solo show de 1h (Palau
-  Dalmases o Cordobés solo-show), presupuestos muy ajustados (Flamenco at the Theater desde 25 €), quienes prefieran ubicación
-  céntrica de Las Ramblas (Cordobés es más céntrico).
+  **Para quién es:** visitantes que quieran una "noche completa" planificada (cena + show + visita al Poble Espanyol), parejas y grupos que valoren la atmósfera tradicional de cena durante show, viajeros interesados en la historia del flamenco femenino (Carmen Amaya), comensales que busquen menú gastronómico (Noche Estrella es excepcional), visitantes con tiempo para combinar Montjuïc (Fuente Mágica, MNAC, Fundació Miró cerca). **Para quién NO:** viajeros con prisa que quieran solo show de 1h (Palau Dalmases o Cordobés solo-show), presupuestos muy ajustados (Flamenco at the Theater desde 25 €), quienes prefieran ubicación céntrica de Las Ramblas (Cordobés es más céntrico).
 
   '
 atraccionesRelacionadas:
@@ -167,35 +111,35 @@ keywords:
 - carmen amaya tablao
 - cena flamenco montjuïc barcelona
 - show flamenco con cena barcelona
-imagen: "/images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-espectaculo-farolillos.webp"
-imagenAlt: "Espectáculo bajo los farolillos del Tablao de Carmen"
+imagen: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-espectaculo-farolillos.webp
+imagenAlt: Espectáculo bajo los farolillos del Tablao de Carmen
 galeria:
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-escenario-publico.webp
-  alt: "Sala del Tablao de Carmen con el escenario y el público"
+  alt: Sala del Tablao de Carmen con el escenario y el público
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-cuadro.webp
-  alt: "Bailaora y cuadro flamenco en el Tablao de Carmen"
+  alt: Bailaora y cuadro flamenco en el Tablao de Carmen
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-falda.webp
-  alt: "Bailaora en pleno baile ante el público"
+  alt: Bailaora en pleno baile ante el público
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-cante-sala.webp
-  alt: "Cantaor y guitarra en la sala de farolillos"
+  alt: Cantaor y guitarra en la sala de farolillos
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-roja.webp
-  alt: "Bailaora de rojo con cante y guitarra"
+  alt: Bailaora de rojo con cante y guitarra
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-sala-ambiente.webp
-  alt: "Ambiente de la sala durante el espectáculo"
+  alt: Ambiente de la sala durante el espectáculo
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-zapateado.webp
-  alt: "Zapateado junto a las mesas del público"
+  alt: Zapateado junto a las mesas del público
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-bailaora-lunares.webp
-  alt: "Bailaora de lunares con el guitarrista"
+  alt: Bailaora de lunares con el guitarrista
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-tapas-cena.webp
-  alt: "Tapas de la cena del Tablao de Carmen"
+  alt: Tapas de la cena del Tablao de Carmen
 - src: /images/actividades/barcelona/tablao-de-carmen/tablao-de-carmen-entrada-poble-espanyol.webp
-  alt: "Entrada del Tablao de Carmen en el Poble Espanyol"
+  alt: Entrada del Tablao de Carmen en el Poble Espanyol
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
-  alt: "Vista aérea del Poble Espanyol en Montjuïc"
+  alt: Vista aérea del Poble Espanyol en Montjuïc
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-d189-poble-espanyol-carrer-caballeros-jp-03.webp
-  alt: "Calle de los Caballeros en el Poble Espanyol"
+  alt: Calle de los Caballeros en el Poble Espanyol
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
-  alt: "Plaza Mayor del Poble Espanyol"
+  alt: Plaza Mayor del Poble Espanyol
 ratingProveedor: 4.8
 numeroOpiniones: 2125
 publicada: true
@@ -203,7 +147,7 @@ destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
-  - "flamenco-barcelona-que-tablao-elegir"
+- flamenco-barcelona-que-tablao-elegir
 ---
 
 ## Qué vas a ver

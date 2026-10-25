@@ -64,7 +64,7 @@ opinionEditorial: 'The Cathedral and Royal Chapel are visited together because t
   The price is per group, tickets included: €260 for two and €340 for four. It suits anyone into Spanish history and art who''d like a guide to themselves.'
 atraccionesRelacionadas:
 - catedral
-categoria: experienciasPrivadas
+categoria: visitasGuiadas
 keywords:
 - private tour granada cathedral
 - royal chapel granada guide
@@ -91,6 +91,8 @@ galeria:
   alt: The Cathedral seen from a street in the centre
 bokunProductId: 1271488
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## What you'll see

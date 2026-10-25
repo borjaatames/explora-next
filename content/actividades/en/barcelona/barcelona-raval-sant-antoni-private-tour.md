@@ -64,8 +64,7 @@ opinionEditorial: 'For anyone who''s already seen the Gothic Quarter, or simply 
 
 
   It has no published reviews yet. From about €66 per person for two; about €40 each for four.'
-atraccionesRelacionadas: []
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - raval tour barcelona
 - alternative barcelona tour
@@ -100,6 +99,7 @@ galeria:
   alt: Traveller with her guide outside a red-brick market
 bokunProductId: 217568
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## The route

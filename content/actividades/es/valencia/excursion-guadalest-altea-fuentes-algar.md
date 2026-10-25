@@ -81,20 +81,20 @@ keywords:
 imagen: /images/actividades/valencia/excursiones/guadalest-castillo.webp
 imagenAlt: Peñón y campanario de Guadalest
 galeria:
-- src: "/images/actividades/valencia/guadalest/valle-guadalest-embalse-turquesa.webp"
-  alt: "Valle y embalse turquesa de Guadalest, Alicante"
-- src: "/images/actividades/valencia/guadalest/embalse-guadalest-panoramica.webp"
-  alt: "Panorámica del embalse de Guadalest con agua azul-turquesa"
-- src: "/images/actividades/valencia/guadalest/guadalest-embalse-vista-aerea.webp"
-  alt: "Vista aérea del embalse de Guadalest y sus montañas"
-- src: "/images/actividades/valencia/guadalest/guadalest-montanas-paisaje.webp"
-  alt: "Paisaje de montañas y embalse de Guadalest, Alicante"
-- src: "/images/actividades/valencia/guadalest/embalse-guadalest-aguas-azules.webp"
-  alt: "Aguas azules del embalse de Guadalest en la provincia de Valencia"
-- src: "/images/actividades/valencia/guadalest/guadalest-lago-naturaleza.webp"
-  alt: "Lago de Guadalest rodeado de naturaleza montañosa"
-- src: "/images/actividades/valencia/guadalest/rio-bosque-colinas-interior-alicante.webp"
-  alt: "Río y bosque entre colinas del interior de Alicante"
+- src: /images/actividades/valencia/guadalest/valle-guadalest-embalse-turquesa.webp
+  alt: Valle y embalse turquesa de Guadalest, Alicante
+- src: /images/actividades/valencia/guadalest/embalse-guadalest-panoramica.webp
+  alt: Panorámica del embalse de Guadalest con agua azul-turquesa
+- src: /images/actividades/valencia/guadalest/guadalest-embalse-vista-aerea.webp
+  alt: Vista aérea del embalse de Guadalest y sus montañas
+- src: /images/actividades/valencia/guadalest/guadalest-montanas-paisaje.webp
+  alt: Paisaje de montañas y embalse de Guadalest, Alicante
+- src: /images/actividades/valencia/guadalest/embalse-guadalest-aguas-azules.webp
+  alt: Aguas azules del embalse de Guadalest en la provincia de Valencia
+- src: /images/actividades/valencia/guadalest/guadalest-lago-naturaleza.webp
+  alt: Lago de Guadalest rodeado de naturaleza montañosa
+- src: /images/actividades/valencia/guadalest/rio-bosque-colinas-interior-alicante.webp
+  alt: Río y bosque entre colinas del interior de Alicante
 - src: /images/actividades/valencia/excursiones/guadalest-pueblo.webp
   alt: El pueblo de Guadalest sobre la montaña
 - src: /images/actividades/valencia/excursiones/guadalest-embalse.webp

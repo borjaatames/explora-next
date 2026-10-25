@@ -67,7 +67,7 @@ opinionEditorial: 'Combina dos formas de ver Barcelona en una tarde: primero des
 atraccionesRelacionadas:
 - barco
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - barcelona en barco y a pie
 - paseo en barco barcelona tour

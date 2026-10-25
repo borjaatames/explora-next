@@ -62,7 +62,7 @@ preguntasFrecuentes:
 opinionEditorial: 'Winery, lunch and two towns for €70: great value compared with going on your own without a car. Laguardia is one of the prettiest towns in the north.'
 guiasRelacionadas:
 - day-trips-from-bilbao
-categoria: excursionesDia
+categoria: toursGastronomicos
 keywords:
 - rioja wine tour from bilbao
 - rioja alavesa wineries

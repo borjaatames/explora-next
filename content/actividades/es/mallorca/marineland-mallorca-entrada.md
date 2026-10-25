@@ -69,26 +69,26 @@ guiasRelacionadas:
 - mallorca-con-ninos
 atraccionesRelacionadas:
 - parques
-categoria: entradas
+categoria: parques
 keywords:
 - marineland mallorca entradas
 - marineland mallorca
 - delfines mallorca niños
 - que hacer en mallorca con niños
 - marineland costa d'en blanes
-imagen: "/images/actividades/mallorca/marineland/marineland-mallorca-entrada-parque.webp"
-imagenAlt: "Entrada de Marineland Mallorca en Costa d'en Blanes"
+imagen: /images/actividades/mallorca/marineland/marineland-mallorca-entrada-parque.webp
+imagenAlt: Entrada de Marineland Mallorca en Costa d'en Blanes
 galeria:
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-espectaculo-delfines.webp"
-  alt: "Entrenadora y delfín durante el espectáculo de Marineland Mallorca"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-delfin-entrenadora.webp"
-  alt: "Delfín junto a su entrenadora en la piscina de Marineland"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-leon-marino.webp"
-  alt: "León marino descansando en Marineland Mallorca"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-grada-show.webp"
-  alt: "Público en la grada del espectáculo de delfines"
-- src: "/images/actividades/mallorca/marineland/marineland-mallorca-loros.webp"
-  alt: "Recinto de loros de Marineland Mallorca"
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-espectaculo-delfines.webp
+  alt: Entrenadora y delfín durante el espectáculo de Marineland Mallorca
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-delfin-entrenadora.webp
+  alt: Delfín junto a su entrenadora en la piscina de Marineland
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-leon-marino.webp
+  alt: León marino descansando en Marineland Mallorca
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-grada-show.webp
+  alt: Público en la grada del espectáculo de delfines
+- src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
+  alt: Recinto de loros de Marineland Mallorca
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

@@ -68,8 +68,9 @@ opinionEditorial: 'Es de los pocos tours de Barcelona pensados de verdad para ni
 
   Con 2 adultos sale desde unos 76 € por adulto, y la tarifa infantil es mucho más baja. Ten en cuenta que los domingos no hay Boquería.'
 atraccionesRelacionadas:
+- gotico
 - barrio-gotico
-categoria: visitasGuiadas
+categoria: toursCiudad
 keywords:
 - tour barcelona con niños
 - tour privado familias barcelona
@@ -106,6 +107,7 @@ galeria:
   alt: Familia saltando de alegría en un parque
 bokunProductId: 217564
 fecha_actualizacion: '2026-10-25'
+privada: true
 ---
 
 ## Cómo es el paseo

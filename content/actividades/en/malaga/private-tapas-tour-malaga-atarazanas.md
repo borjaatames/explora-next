@@ -90,6 +90,7 @@ galeria:
   alt: A tapa served on a plate
 bokunProductId: 936399
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

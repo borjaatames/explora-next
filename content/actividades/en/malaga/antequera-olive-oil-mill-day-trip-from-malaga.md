@@ -97,6 +97,7 @@ galeria:
   alt: Olive oil drizzled on bread
 bokunProductId: 936409
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What the day is like

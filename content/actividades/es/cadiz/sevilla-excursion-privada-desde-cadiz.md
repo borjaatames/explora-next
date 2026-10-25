@@ -65,8 +65,9 @@ opinionEditorial: 'Una buena opción si estás en Cádiz (o llegas en crucero) y
 
   Ten en cuenta que no incluye entradas. Si lo tuyo es ver el Alcázar y la Catedral por dentro, mira la excursión del mismo operador con entradas. El precio es por grupo: unos 600 € para 1 o 2 personas.'
 atraccionesRelacionadas:
+- sevilla
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - sevilla desde cadiz
 - excursion sevilla desde cadiz
@@ -95,6 +96,8 @@ galeria:
   alt: Torre de la Giralda de Sevilla bajo cielo azul
 bokunProductId: 1033752
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

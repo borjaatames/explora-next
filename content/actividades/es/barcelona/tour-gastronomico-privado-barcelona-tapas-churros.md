@@ -104,6 +104,7 @@ galeria:
   alt: Churros con una taza de chocolate caliente
 bokunProductId: 217557
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## Cómo es la ruta

@@ -69,6 +69,7 @@ guiasRelacionadas:
 - malaga-in-two-days
 - malaga-with-kids
 atraccionesRelacionadas:
+- alcazaba
 - alcazaba-gibralfaro
 categoria: visitasGuiadas
 keywords:
@@ -79,8 +80,8 @@ keywords:
 imagen: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
 imagenAlt: Nasrid-style arches in a courtyard of the Alcazaba of Málaga
 galeria:
-- src: "/images/actividades/malaga/teatro-romano/gradas-2.webp"
-  alt: "Roman theatre of Málaga next to the Alcazaba"
+- src: /images/actividades/malaga/teatro-romano/gradas-2.webp
+  alt: Roman theatre of Málaga next to the Alcazaba
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
   alt: Walls of the Alcazaba of Málaga
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
@@ -94,7 +95,7 @@ galeria:
 - src: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
   alt: Panorama of Málaga from the Alcazaba
 - src: /images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp
-  alt: "Roman theatre of Málaga next to the Alcazaba"
+  alt: Roman theatre of Málaga next to the Alcazaba
 ratingProveedor: 4.7
 numeroOpiniones: 7412
 publicada: true

@@ -82,7 +82,7 @@ opinionEditorial: 'The best-rated nature day trip from Granada by a wide margin:
   '
 atraccionesRelacionadas:
 - excursiones
-categoria: excursionesDia
+categoria: aventura
 keywords:
 - sierra nevada granada
 - 4wd safari sierra nevada

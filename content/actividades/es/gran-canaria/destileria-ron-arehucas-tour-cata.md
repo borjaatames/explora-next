@@ -31,7 +31,7 @@ noIncluye:
 - Compras en la tienda
 puntoEncuentro:
   texto: Destilerías Arehucas, Lugar Era de San Pedro 2, Arucas
-  descripcionGuia: 'La visita empieza en la propia destilería, a la entrada de Arucas viniendo desde Las Palmas. Hay aparcamiento.'
+  descripcionGuia: La visita empieza en la propia destilería, a la entrada de Arucas viniendo desde Las Palmas. Hay aparcamiento.
   latitud: 28.1218
   longitud: -15.5229
   zoom: 15
@@ -64,7 +64,7 @@ preguntasFrecuentes:
 opinionEditorial: Un plan barato y muy bien valorado para una mañana en el norte de Gran Canaria. Se combina bien con la iglesia de San Juan de Arucas y la plantación de plátanos.
 guiasRelacionadas:
 - que-ver-en-gran-canaria
-categoria: visitasGuiadas
+categoria: toursGastronomicos
 keywords:
 - ron arehucas visita
 - destileria arehucas

@@ -74,7 +74,8 @@ opinionEditorial: 'This is Barcelona''s «no planning needed» day: a guide just
 atraccionesRelacionadas:
 - sagrada-familia
 - park-guell
-categoria: visitasGuiadas
+- gotico
+categoria: toursCiudad
 keywords:
 - sagrada familia and park guell private tour
 - private barcelona full day tour
@@ -105,6 +106,7 @@ galeria:
   alt: Traveller looking out over Barcelona from Park Güell
 bokunProductId: 217566
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## The route

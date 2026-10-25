@@ -66,8 +66,9 @@ opinionEditorial: 'Si tienes un solo día y quieres ver Sevilla por dentro, esta
 
   Por solo unos euros más que la excursión sin entradas del mismo operador (unos 598 € para 2 personas), compensa. Pero ojo: **no admite cancelación**. Aún no tiene opiniones publicadas.'
 atraccionesRelacionadas:
+- sevilla
 - excursiones
-categoria: experienciasPrivadas
+categoria: excursionesDia
 keywords:
 - alcazar y catedral sevilla desde cadiz
 - excursion sevilla desde cadiz con entradas
@@ -96,6 +97,8 @@ galeria:
   alt: Detalle de la Giralda y la Catedral de Sevilla
 bokunProductId: 1223588
 fecha_actualizacion: '2026-10-24'
+privada: true
+precioPorGrupo: true
 ---
 
 ## Cómo es el día

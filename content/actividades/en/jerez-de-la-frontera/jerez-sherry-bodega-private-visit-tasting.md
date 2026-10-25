@@ -61,7 +61,6 @@ opinionEditorial: 'Visiting a bodega is almost a must in Jerez, and doing it pri
 
 
   For two it''s pricey, about €188 per person; the per-person price falls with group size (about €122 for four). Getting there is up to you. No published reviews yet.'
-atraccionesRelacionadas: []
 categoria: toursGastronomicos
 keywords:
 - private sherry bodega visit jerez
@@ -87,6 +86,7 @@ galeria:
   alt: Stacked casks in a bodega cellar
 bokunProductId: 83913
 fecha_actualizacion: '2026-10-24'
+privada: true
 ---
 
 ## What you'll see

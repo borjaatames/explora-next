@@ -41,7 +41,8 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'Es el plan redondo si solo tienes un día: lo imprescindible de Barcelona —Gaudí, Montjuïc y el casco antiguo— en privado, sin colas y sin preocuparte de la logística. Cuantos más seáis, más a cuenta sale el precio por grupo.'
 atraccionesRelacionadas:
 - sagrada-familia
-categoria: experienciasPrivadas
+- gotico
+categoria: toursCiudad
 keywords:
 - tour privado barcelona dia completo
 - lo mejor de barcelona privado
@@ -79,6 +80,8 @@ fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
 - sagrada-familia-que-entrada-elegir
+privada: true
+precioPorGrupo: true
 ---
 
 ## Qué vas a ver

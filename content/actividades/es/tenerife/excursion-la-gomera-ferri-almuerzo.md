@@ -106,7 +106,6 @@ galeria:
   alt: Papas arrugadas con mojo rojo y verde
 ratingProveedor: 4.3
 numeroOpiniones: 709
-atraccionesRelacionadas: []
 publicada: true
 destacada: false
 fecha: '2026-10-24'
