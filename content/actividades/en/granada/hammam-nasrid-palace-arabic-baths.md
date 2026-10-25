@@ -92,23 +92,21 @@ keywords:
 - nasrid palace hammam
 - granada spa
 - granada massage
-imagen: /images/actividades/granada/hammam/hammam-piedra-caliente.webp
-imagenAlt: Hammam room with the central heated marble stone
+imagen: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-principal-arcos.webp
+imagenAlt: "Main hall of Hammam Palacio Nazarí, with arches, marble columns and the pools"
 galeria:
-- src: /images/actividades/malaga/hammam/sala-hammam.webp
-  alt: Arab-style bathing hall with warm light
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-piscina-arcos.webp
+  alt: "Warm-water pool under the arches of Hammam Palacio Nazarí"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-te-azulejos.webp
+  alt: "Relaxation room with tiles, lanterns and tea tables"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-masaje-aceite.webp
+  alt: "Warm oil massage at Hammam Palacio Nazarí"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
-  alt: The Darro river in central Granada
-- src: /images/actividades/malaga/hammam/masaje.webp
-  alt: Couple receiving a massage at a spa
-- src: /images/actividades/granada/hammam/hammam-pexels-33279021.webp
-  alt: Oils and scents ready for the hammam massage
-- src: /images/actividades/malaga/hammam/te-descanso.webp
-  alt: Two people in bathrobes drinking tea in a hammam
-- src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
-  alt: Taps and marble basins in Arab baths
-- src: /images/actividades/granada/hammam/hammam-cupula-estrellas.webp
-  alt: Hammam dome with star-shaped skylights
+  alt: "The River Darro running through central Granada"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-relax-bano.webp
+  alt: "Guest relaxing in one of the hammam pools"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-bano-frio.webp
+  alt: "Long pool between brick walls and lanterns"
 ratingProveedor: 4.5
 numeroOpiniones: 860
 publicada: true

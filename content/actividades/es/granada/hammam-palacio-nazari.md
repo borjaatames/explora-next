@@ -92,23 +92,21 @@ keywords:
 - palacio nazari hammam
 - spa granada
 - masaje granada
-imagen: /images/actividades/granada/hammam/hammam-piedra-caliente.webp
-imagenAlt: Sala de hammam con la piedra caliente central de mármol
+imagen: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-principal-arcos.webp
+imagenAlt: "Sala principal del Hammam Palacio Nazarí, con arcos, columnas de mármol y las piscinas"
 galeria:
-- src: /images/actividades/malaga/hammam/sala-hammam.webp
-  alt: Sala de baños de inspiración árabe con luz cálida
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-piscina-arcos.webp
+  alt: "Piscina de agua templada bajo los arcos del Hammam Palacio Nazarí"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-te-azulejos.webp
+  alt: "Sala de descanso con azulejos, faroles y mesas para el té"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-masaje-aceite.webp
+  alt: "Masaje con aceite caliente en el Hammam Palacio Nazarí"
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
-  alt: Río Darro a su paso por el centro de Granada
-- src: /images/actividades/malaga/hammam/masaje.webp
-  alt: Pareja recibiendo un masaje en un spa
-- src: /images/actividades/granada/hammam/hammam-pexels-33279021.webp
-  alt: Aceites y aromas preparados para el masaje en el hammam
-- src: /images/actividades/malaga/hammam/te-descanso.webp
-  alt: Dos personas con albornoz tomando té en un hammam
-- src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
-  alt: Grifos y pilas de mármol de unos baños árabes
-- src: /images/actividades/granada/hammam/hammam-cupula-estrellas.webp
-  alt: Cúpula de un hammam con lucernarios en forma de estrella
+  alt: "Río Darro a su paso por el centro de Granada"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-relax-bano.webp
+  alt: "Clienta relajándose en una de las piscinas del hammam"
+- src: /images/actividades/granada/hammam-palacio-nazari/nazari-bano-frio.webp
+  alt: "Piscina alargada entre muros de ladrillo y faroles"
 ratingProveedor: 4.5
 numeroOpiniones: 860
 publicada: true
