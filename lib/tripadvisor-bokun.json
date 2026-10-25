@@ -1,5 +1,5 @@
 {
- "_fuente": "Bókun (widgets activity.tripadvisorReview), 22 oct 2026. Regenerar con los datos de Bókun; no editar a mano.",
+ "_fuente": "Bókun (widgets activity.tripadvisorReview), 22 oct 2026. Regenerar con los datos de Bókun; no editar a mano. Ampliado el 25 oct 2026 con las fichas Bókun del 24 oct.",
  "productos": {
   "65519": {
    "locationId": "1603406",
@@ -443,6 +443,582 @@
     "total": 488,
     "categoria": "Sights & Landmarks",
     "lugar": "Seville"
+   }
+  },
+  "217555": {
+   "locationId": "15665405",
+   "nombre": "Barcelona Private Tour: Tapas & Wine Tasting with Flamenco Show",
+   "rating": 4.6,
+   "opiniones": 106
+  },
+  "217556": {
+   "locationId": "16641878",
+   "nombre": "Barcelona Highlights & Secrets Private Tour with Tapa & Drink",
+   "rating": 4.8,
+   "opiniones": 16
+  },
+  "217557": {
+   "locationId": "16709703",
+   "nombre": "Barcelona Private Food & Drink Tour: Traditional Taverns & Tapas",
+   "rating": 4.9,
+   "opiniones": 35
+  },
+  "217559": {
+   "locationId": "17400286",
+   "nombre": "Girona, Medieval Villages & Lunch with Lake Views from Barcelona",
+   "rating": 4.6,
+   "opiniones": 20
+  },
+  "217560": {
+   "locationId": "15698731",
+   "nombre": "Barcelona Tapas & Wine Private Tour in Traditional Taverns",
+   "rating": 4.8,
+   "opiniones": 61
+  },
+  "217561": {
+   "locationId": "15746490",
+   "nombre": "Montserrat Day Trip Private or Small Group with Basilica Tickets",
+   "rating": 4.8,
+   "opiniones": 311
+  },
+  "217562": {
+   "locationId": "15754646",
+   "nombre": "Sagrada Familia & Gaudi Tour Private or Small Group with Tickets",
+   "rating": 4.8,
+   "opiniones": 1387
+  },
+  "217563": {
+   "locationId": "15802826",
+   "nombre": "Kickstart Barcelona Private Tour for Newcomers",
+   "rating": 5,
+   "opiniones": 15
+  },
+  "217566": {
+   "locationId": "15854126",
+   "nombre": "Sagrada Familia and Park Guell Private Barcelona Tour",
+   "rating": 4.8,
+   "opiniones": 952
+  },
+  "217567": {
+   "locationId": "15885108",
+   "nombre": "Barcelona Private Bike/eBike Tour & Sagrada Familia Tickets",
+   "rating": 4.5,
+   "opiniones": 13
+  },
+  "242957": {
+   "locationId": "19421783",
+   "nombre": "Montserrat & Penedes Winery Private Day Trip with Cava Tasting",
+   "rating": 4.9,
+   "opiniones": 35
+  },
+  "612622": {
+   "locationId": "23174867",
+   "nombre": "Barcelona Private Religious & Jewish Tour: with Sagrada Familia",
+   "rating": 5,
+   "opiniones": 16
+  },
+  "784025": {
+   "locationId": "23986730",
+   "nombre": "Barcelona Boat Party Cruise with Drinks & Live DJ",
+   "rating": 4.9,
+   "opiniones": 806
+  },
+  "793764": {
+   "locationId": "25262258",
+   "nombre": "Sevilla: Essential Private Tour",
+   "rating": 5,
+   "opiniones": 22
+  },
+  "793765": {
+   "locationId": "26105614",
+   "nombre": "Private Guided Tour to Alhambra with Tickets to City Monuments",
+   "rating": 4.9,
+   "opiniones": 24
+  },
+  "793767": {
+   "locationId": "24962178",
+   "nombre": "Sevilla Private Flamenco and Tapas Tour",
+   "rating": 5,
+   "opiniones": 18
+  },
+  "793768": {
+   "locationId": "25209747",
+   "nombre": "Private Mosque-Cathedral Tour in Cordoba",
+   "rating": 5,
+   "opiniones": 45
+  },
+  "793769": {
+   "locationId": "23893659",
+   "nombre": "Cordoba Mosque-Cathedral & City Private Tour",
+   "rating": 5,
+   "opiniones": 130
+  },
+  "793770": {
+   "locationId": "24962196",
+   "nombre": "Private Walking Tour Alcazar and Cathedral in Sevilla",
+   "rating": 5,
+   "opiniones": 188
+  },
+  "793772": {
+   "locationId": "23441848",
+   "nombre": "Alpujarra Private DayTrip from Granada",
+   "rating": 4.8,
+   "opiniones": 26
+  },
+  "793773": {
+   "locationId": "23448128",
+   "nombre": "Private tour: 4 cultures, Granada in depth",
+   "rating": 5,
+   "opiniones": 43
+  },
+  "848245": {
+   "locationId": "27471666",
+   "nombre": "Ronda Private Tour: The White Capital",
+   "rating": 5,
+   "opiniones": 33
+  },
+  "853250": {
+   "locationId": "27493149",
+   "nombre": "Private Tour of Essential Malaga",
+   "rating": 5,
+   "opiniones": 25
+  },
+  "857522": {
+   "locationId": "27534248",
+   "nombre": "Gibraltar Private Daytrip From Malaga",
+   "rating": 4.7,
+   "opiniones": 19
+  },
+  "858871": {
+   "locationId": "27618463",
+   "nombre": "Gibraltar Private Daytrip From Sevilla",
+   "rating": 4.9,
+   "opiniones": 15
+  },
+  "886825": {
+   "locationId": "23686565",
+   "nombre": "Barcelona Guided Rooftop Wine Tasting Enjoy 6 Spanish Wines",
+   "rating": 4.9,
+   "opiniones": 91
+  },
+  "978533": {
+   "locationId": "17780513",
+   "nombre": "Stoke Travel",
+   "rating": 4.9,
+   "opiniones": 1074
+  },
+  "1033752": {
+   "locationId": "33236559",
+   "nombre": "Full Day Private Tour to Sevilla from Cadiz",
+   "rating": 4.8,
+   "opiniones": 11
+  },
+  "1087333": {
+   "locationId": "33340904",
+   "nombre": "Pub Crawl Valencia: Bars, Free Shots & Club Entry",
+   "rating": 5,
+   "opiniones": 33
+  },
+  "1229843": {
+   "locationId": "32959978",
+   "nombre": "Tipsy Food Tour with Paella and Sangria and History in Barcelona",
+   "rating": 5,
+   "opiniones": 30
+  },
+  "83898": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "132421": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "933450": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "933452": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "933456": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "933459": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "934218": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "936399": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "936409": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "936430": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "936453": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "937821": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "937837": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "937865": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "938039": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "938052": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "938167": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "938174": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "938184": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "938189": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "949538": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "949542": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "949550": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "949558": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "949566": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "949572": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "1036137": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "1036173": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 674,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "805387": {
+   "locationId": "26585723",
+   "nombre": "Vine Travel",
+   "rating": 4.9,
+   "opiniones": 53,
+   "ranking": {
+    "posicion": 53,
+    "total": 374,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
+   }
+  },
+  "824546": {
+   "locationId": "26585723",
+   "nombre": "Vine Travel",
+   "rating": 4.9,
+   "opiniones": 53,
+   "ranking": {
+    "posicion": 53,
+    "total": 374,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
+   }
+  },
+  "854707": {
+   "locationId": "26585723",
+   "nombre": "Vine Travel",
+   "rating": 4.9,
+   "opiniones": 53,
+   "ranking": {
+    "posicion": 53,
+    "total": 374,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
+   }
+  },
+  "867967": {
+   "locationId": "26585723",
+   "nombre": "Vine Travel",
+   "rating": 4.9,
+   "opiniones": 53,
+   "ranking": {
+    "posicion": 53,
+    "total": 374,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
+   }
+  },
+  "874269": {
+   "locationId": "26585723",
+   "nombre": "Vine Travel",
+   "rating": 4.9,
+   "opiniones": 53,
+   "ranking": {
+    "posicion": 53,
+    "total": 374,
+    "categoria": "Food & Drink",
+    "lugar": "Madrid"
    }
   }
  }
