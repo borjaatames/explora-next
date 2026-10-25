@@ -71,24 +71,28 @@ keywords:
 - dance class barcelona tourists
 - barcelona rooftop activity
 - hen party salsa barcelona
-imagen: https://imgcdn.bokun.tools/be226ed9-aba3-4ca8-a7e2-b83042b0af71.jpg
-imagenAlt: Group dancing salsa on a Barcelona rooftop
+imagen: /images/actividades/barcelona/proveedor-978533/prov-salsa-azotea.webp
+imagenAlt: Group dancing salsa on the rooftop
 ratingProveedor: 4.9
 numeroOpiniones: 1074
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/salsa/pareja-bailando-salsa.webp
+  alt: Couple dancing in a hall with other dancers behind
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: Glasses of sangria with orange and berries
+- src: /images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp
+  alt: Ciutat Vella rooftops and bell towers seen from a rooftop
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Barcelona rooftops at sunset with the Sagrada Família and Tibidabo
+- src: https://imgcdn.bokun.tools/be226ed9-aba3-4ca8-a7e2-b83042b0af71.jpg
+  alt: Group dancing salsa on a Barcelona rooftop
 - src: https://imgcdn.bokun.tools/8b18bfff-01eb-4c68-92fa-4b254af9b239.jpg
   alt: Sangria being poured from a dispenser
 - src: https://imgcdn.bokun.tools/1ca1b7d0-6413-40da-9eec-3af0b49eb36c.jpg
   alt: Group dancing on the rooftop
-- src: https://imgcdn.bokun.tools/0a0a8848-ebd4-4e48-80bf-42629c001ca8.jpeg
-  alt: Couple dancing salsa
-- src: https://imgcdn.bokun.tools/1641b8d4-2805-4c74-a8dc-cd409e36756f.jpeg
-  alt: Instructor leading the salsa class
-- src: https://imgcdn.bokun.tools/b557b309-f1c9-4f06-9bda-df9ced3b53fa.jpeg
-  alt: Group salsa class on the rooftop
 bokunProductId: 978533
 fecha_actualizacion: '2026-10-24'
 ---

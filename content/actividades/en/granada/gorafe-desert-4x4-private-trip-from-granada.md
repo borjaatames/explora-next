@@ -74,22 +74,26 @@ keywords:
 - gorafe trip from granada
 - granada geopark
 - 4x4 tour granada
-imagen: https://imgcdn.bokun.tools/4756f33d-ff97-441a-9268-1f0f8ae55b2c.png
-imagenAlt: Reddish ravines in the Gorafe desert
+imagen: /images/actividades/granada/gorafe/gorafe-canon-badlands.webp
+imagenAlt: Gorafe canyon with badland cliffs and the village on the valley floor among olive trees
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6fdbf092-d354-43eb-bbd5-5d244955b5b0.png
-  alt: 4x4 on a track in the Gorafe desert
+- src: /images/actividades/granada/gorafe/gorafe-hoya-conquil.webp
+  alt: Hoya del Conquil ravine in Gorafe with eroded slopes and terraces
+- src: /images/actividades/granada/proveedor-1036173/prov-4x4-gorafe.webp
+  alt: 4x4 in the badlands of the Gorafe desert
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-65.webp
+  alt: Dolmen 65 in the Gorafe megalithic park with its capstone
+- src: /images/actividades/granada/gorafe/gorafe-canon-panoramica.webp
+  alt: Panorama of the Gorafe canyon with olive groves on the valley floor
+- src: https://imgcdn.bokun.tools/4756f33d-ff97-441a-9268-1f0f8ae55b2c.png
+  alt: Reddish ravines in the Gorafe desert
 - src: https://imgcdn.bokun.tools/9602bf73-1cc4-4234-9b21-b8883b473185.png
   alt: Eroded clay hills in Gorafe
 - src: https://imgcdn.bokun.tools/5a76b49f-2ca8-43f6-8ac1-11d5a34a8d27.png
   alt: Layered reddish cliffs
-- src: https://imgcdn.bokun.tools/cb5fc6e7-7e08-47fc-845c-b4dd3efac624.png
-  alt: Person standing on a ravine ridge
-- src: https://imgcdn.bokun.tools/97a16551-4722-436b-b761-a4dc6143fa91.png
-  alt: Sunset over the Gorafe desert
 bokunProductId: 1036173
 fecha_actualizacion: '2026-10-24'
 ---

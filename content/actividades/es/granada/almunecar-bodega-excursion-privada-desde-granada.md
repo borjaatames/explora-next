@@ -68,22 +68,30 @@ keywords:
 - costa tropical desde granada
 - almuñecar tour privado
 - señorio de nevada bodega
-imagen: https://imgcdn.bokun.tools/42d254fb-9ff7-452b-ac0b-56bd8e6b5b89.jpeg
-imagenAlt: Playa y paseo marítimo de Almuñécar
+imagen: /images/actividades/granada/proveedor-938189/prov-bodega-barricas.webp
+imagenAlt: Barricas en la nave de crianza de la bodega
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/8729cc7b-5944-4e47-aca2-d7f96e050d0e.jpeg
-  alt: Sala de barricas de la bodega
+- src: /images/actividades/granada/almunecar/bodega-cata-barricas.webp
+  alt: Copas de vino servidas en una cata frente a barricas en una bodega
+- src: /images/actividades/granada/proveedor-938189/prov-bodega-nave.webp
+  alt: Nave de la bodega con barricas alineadas
+- src: /images/actividades/granada/almunecar/almunecar-castillo-san-miguel.webp
+  alt: Torres y murallas del castillo de San Miguel de Almuñécar al atardecer
+- src: /images/actividades/granada/proveedor-938189/prov-castillo-san-miguel.webp
+  alt: Castillo de San Miguel de Almuñécar
+- src: /images/actividades/granada/almunecar/almunecar-playa-vista.webp
+  alt: Vista de la playa y el paseo marítimo de Almuñécar desde el castillo
+- src: /images/actividades/granada/proveedor-938189/prov-almunecar-penon.webp
+  alt: Almuñécar y el Peñón del Santo junto al mar
+- src: /images/actividades/granada/almunecar/almunecar-penon-santo.webp
+  alt: Peñón del Santo y playa de Puerta del Mar en Almuñécar
+- src: https://imgcdn.bokun.tools/42d254fb-9ff7-452b-ac0b-56bd8e6b5b89.jpeg
+  alt: Playa y paseo marítimo de Almuñécar
 - src: https://imgcdn.bokun.tools/e456731e-bd95-4623-bc13-803a11efb526.jpeg
   alt: Viñedos con las montañas al fondo
-- src: https://imgcdn.bokun.tools/245dee26-24d0-4b40-a448-123c6f6391ec.jpeg
-  alt: Murallas del castillo de Almuñécar
-- src: https://imgcdn.bokun.tools/30ae87b7-0a97-418d-829f-ed283e88c3eb.jpeg
-  alt: Barricas de vino en la bodega
-- src: https://imgcdn.bokun.tools/2341d6f2-5a24-4a49-a1ab-d2c4e3e8896a.jpeg
-  alt: Costa de Almuñécar con sus peñones
 bokunProductId: 938189
 fecha_actualizacion: '2026-10-24'
 ---

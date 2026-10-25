@@ -71,24 +71,28 @@ keywords:
 - clase de baile barcelona turistas
 - azotea barcelona plan
 - despedida salsa barcelona
-imagen: https://imgcdn.bokun.tools/be226ed9-aba3-4ca8-a7e2-b83042b0af71.jpg
-imagenAlt: Grupo bailando salsa en una azotea de Barcelona
+imagen: /images/actividades/barcelona/proveedor-978533/prov-salsa-azotea.webp
+imagenAlt: Grupo bailando salsa en la azotea
 ratingProveedor: 4.9
 numeroOpiniones: 1074
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/salsa/pareja-bailando-salsa.webp
+  alt: Pareja bailando en una sala con otras parejas al fondo
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: Vasos de sangría con naranja y frutos rojos
+- src: /images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp
+  alt: Tejados y campanarios de Ciutat Vella vistos desde una azotea
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo
+- src: https://imgcdn.bokun.tools/be226ed9-aba3-4ca8-a7e2-b83042b0af71.jpg
+  alt: Grupo bailando salsa en una azotea de Barcelona
 - src: https://imgcdn.bokun.tools/8b18bfff-01eb-4c68-92fa-4b254af9b239.jpg
   alt: Sangría sirviéndose de un dispensador
 - src: https://imgcdn.bokun.tools/1ca1b7d0-6413-40da-9eec-3af0b49eb36c.jpg
   alt: Grupo bailando en la azotea
-- src: https://imgcdn.bokun.tools/0a0a8848-ebd4-4e48-80bf-42629c001ca8.jpeg
-  alt: Pareja bailando salsa
-- src: https://imgcdn.bokun.tools/1641b8d4-2805-4c74-a8dc-cd409e36756f.jpeg
-  alt: Profesora dirigiendo la clase de salsa
-- src: https://imgcdn.bokun.tools/b557b309-f1c9-4f06-9bda-df9ced3b53fa.jpeg
-  alt: Clase de salsa en grupo en la azotea
 bokunProductId: 978533
 fecha_actualizacion: '2026-10-24'
 ---

@@ -75,26 +75,24 @@ keywords:
 - malaga beach food experience
 - pedregalejo tour
 - malaga sardines experience
-imagen: https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg
-imagenAlt: Sardine skewers roasting over hot embers
+imagen: /images/actividades/malaga/espetos/espetos-barca-brasas.webp
+imagenAlt: Sardine skewers roasting over embers in a boat in Málaga at dusk
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/malaga/espetos/espeto-barca-malagueta.webp
+  alt: Beach boat grill with sardine skewers on Malagueta beach
+- src: /images/actividades/malaga/espetos/espetos-sardinas-brasas.webp
+  alt: Sardines on cane skewers roasting by the embers on the sand
+- src: /images/actividades/malaga/espetos/pedregalejo-barca.webp
+  alt: Fishing boat pulled up on Pedregalejo beach
+- src: https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg
+  alt: Sardine skewers roasting over hot embers
 - src: https://imgcdn.bokun.tools/d4008a5b-916d-478f-80b7-a05af80bc2e8.jpg
   alt: Sardine skewers set beside the fire
 - src: https://imgcdn.bokun.tools/be6eb7aa-61fa-4799-9239-c7bf767be6a0.jpg
   alt: Group sitting in a jábega by the sea listening to the guide
-- src: https://imgcdn.bokun.tools/e30bdc85-6b36-4de9-9705-fa63714e1440.jpg
-  alt: Traditional wooden boats at the boatyard
-- src: https://imgcdn.bokun.tools/61d671b2-c1df-4b38-a51b-394784210d35.jpg
-  alt: Skewers grilling in an ember-filled boat on the beach
-- src: https://imgcdn.bokun.tools/47c638c9-6287-4625-866c-671acd421e28.jpg
-  alt: Flower-filled balcony on a house in El Pedregalejo
-- src: https://imgcdn.bokun.tools/10d77688-ccd1-4460-aecf-54d8f98489ce.jpg
-  alt: Two travellers raising a toast during the tasting
-- src: https://imgcdn.bokun.tools/6db2aea2-3b3f-46cb-b267-ce329e0bd55a.jpg
-  alt: Close-up of a sardine skewer
 bokunProductId: 933464
 fecha_actualizacion: '2026-10-24'
 ---

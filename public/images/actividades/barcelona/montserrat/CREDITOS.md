@@ -56,3 +56,7 @@ Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 - `montserrat-spain-13-hero-hero.webp` — banco libre (Pixabay/Pexels), ID sin verificar
 - `montserrat-stunning-gothic-facade-historic-hero.webp` — Jo Kassis, Pexels License, vía Pexels (https://www.pexels.com/photo/facade-of-catalan-gothic-monastery-5567906/)
 - `montserrat-stunning-view-intricate-hero.webp` — Samuel Sweet, Pexels License, vía Pexels (https://www.pexels.com/photo/the-abbey-of-montserrat-in-montserrat-barcelona-spain-8108784/)
+- `basilica-montserrat-nave.webp` — José Luiz · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Nave_-_Bas%C3%ADlica_de_Montserrat_-_Montserrat_2014.jpg
+- `montserrat-abadia.webp` — Bernard Gagnon · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Abbey_of_Montserrat_02.jpg
+- `montserrat-monasterio-montana.webp` — Bernard Gagnon · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Abbey_of_Montserrat_04.jpg
+- `montserrat-rocas.webp` — Orlith1 · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Monastery%2C_Montserrat.jpg

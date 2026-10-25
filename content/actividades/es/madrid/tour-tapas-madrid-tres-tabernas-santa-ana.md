@@ -75,28 +75,30 @@ keywords:
 - tapas tour madrid ingles
 - tabernas madrid tour
 - comer tapas madrid centro
-imagen: https://imgcdn.bokun.tools/08db83e2-450f-4874-ada7-ecbd4da18294.jpg
-imagenAlt: Grupo brindando en una taberna de Madrid
+imagen: /images/actividades/madrid/santa-ana/plaza-santa-ana.webp
+imagenAlt: Plaza de Santa Ana con sus terrazas y el edificio blanco del hotel al fondo
 ratingProveedor: 5.0
 numeroOpiniones: 5
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c16eb285-5f91-4c2c-bfc1-5175ef5e1800.jpg
-  alt: Cazuela de gambas al ajillo
-- src: https://imgcdn.bokun.tools/a1c416f4-36b8-42ae-b211-ac3eb060f4ab.jpg
-  alt: Plato de croquetas en la mesa
-- src: https://imgcdn.bokun.tools/5b959499-c10c-4a79-90b9-71824cadf37f.jpg
-  alt: Escanciando sidra en una taberna
-- src: https://imgcdn.bokun.tools/d45753b6-a142-4232-9df9-d03ec25957a2.jpg
-  alt: Grupo brindando en la barra de una taberna
-- src: https://imgcdn.bokun.tools/9fd5cfd8-8c0d-4bec-8f8c-a13f29c7b489.jpg
-  alt: Grupo con el guía en una calle del centro de Madrid
+- src: /images/actividades/madrid/santa-ana/plaza-santa-ana-noche.webp
+  alt: Plaza de Santa Ana de noche, con terrazas y gente paseando
+- src: /images/actividades/madrid/santa-ana/taberna-azulejos-letras.webp
+  alt: Fachada de azulejos de una taberna centenaria del Barrio de las Letras
+- src: /images/actividades/madrid/santa-ana/cana-tapa-sardina.webp
+  alt: Caña de cerveza con tapa de sardina en la barra de un bar madrileño
 - src: /images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp
   alt: Plaza de Santa Ana
 - src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
   alt: Patatas bravas, un clásico de las tabernas de Madrid
+- src: https://imgcdn.bokun.tools/08db83e2-450f-4874-ada7-ecbd4da18294.jpg
+  alt: Grupo brindando en una taberna de Madrid
+- src: https://imgcdn.bokun.tools/c16eb285-5f91-4c2c-bfc1-5175ef5e1800.jpg
+  alt: Cazuela de gambas al ajillo
+- src: https://imgcdn.bokun.tools/a1c416f4-36b8-42ae-b211-ac3eb060f4ab.jpg
+  alt: Plato de croquetas en la mesa
 bokunProductId: 645913
 fecha_actualizacion: '2026-10-24'
 ---

@@ -73,26 +73,28 @@ keywords:
 - la latina wine bars
 - madrid tapas and wine pairing
 - wine tasting tour madrid
-imagen: https://imgcdn.bokun.tools/6595a740-3fb0-42f9-8e69-46f4c1ed8375.jpg
-imagenAlt: Table with dishes, glasses and wine during the tour
+imagen: /images/actividades/madrid/la-latina/cava-baja-terrazas.webp
+imagenAlt: Terraces on Calle Cava Baja in La Latina during the Paloma festivities
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/la-latina/cava-baja-calle.webp
+  alt: Bar and tavern facades along Calle Cava Baja
+- src: /images/actividades/madrid/la-latina/cana-tapa-sardina.webp
+  alt: Small beer with a sardine tapa on a Madrid bar counter
+- src: /images/actividades/madrid/la-latina/brindis-vino-tinto.webp
+  alt: Toasting with glasses of red wine at a bar
+- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
+  alt: Calle de la Cava Baja in the La Latina district, Madrid
+- src: https://imgcdn.bokun.tools/6595a740-3fb0-42f9-8e69-46f4c1ed8375.jpg
+  alt: Table with dishes, glasses and wine during the tour
 - src: https://imgcdn.bokun.tools/f7f5c9fe-8cb7-474d-9202-c91601ebbfac.jpg
   alt: Fried bites served on a slate
 - src: https://imgcdn.bokun.tools/cef915bb-57c1-4e22-95da-a374f474fd4e.jpg
   alt: Plate of sliced ham
-- src: https://imgcdn.bokun.tools/1601b767-5788-429e-9b96-e04fa03126b6.jpg
-  alt: Cheese board with grapes
-- src: https://imgcdn.bokun.tools/e48c4884-122b-4946-a5e7-bff114aa7652.jpg
-  alt: Plate of dressed tomatoes
-- src: https://imgcdn.bokun.tools/3f60563e-ead1-4fec-a5f3-84339f0146a6.jpg
-  alt: Wine shop shelves
-- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
-  alt: Calle de la Cava Baja in the La Latina district, Madrid
 bokunProductId: 1024201
 fecha_actualizacion: '2026-10-24'
 ---

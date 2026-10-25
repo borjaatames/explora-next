@@ -70,26 +70,30 @@ keywords:
 - flamenco tapas tour triana
 - triana flamenco with tapas
 - private flamenco tour seville
-imagen: https://imgcdn.bokun.tools/7164ef1d-5cb1-4215-be3a-bfe56e0f788b.jpg
-imagenAlt: Flamenco dancer in a red dress on stage
+imagen: /images/actividades/sevilla/triana/triana-puente-isabel-ii-noche.webp
+imagenAlt: The Isabel II (Triana) Bridge lit up at night and reflected in the Guadalquivir
 ratingProveedor: 5.0
 numeroOpiniones: 18
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/triana/triana-calle-betis.webp
+  alt: Colourful façades of Calle Betis on the banks of the Guadalquivir in Triana
+- src: /images/actividades/sevilla/triana/triana-mercado.webp
+  alt: Fruit and vegetable stall at the Triana Market
+- src: /images/actividades/sevilla/triana/flamenco-sevilla-baile.webp
+  alt: Flamenco dancer with a shawl and polka-dot dress during a flamenco show in Seville
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: Triana Bridge lit up at dusk
+- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
+  alt: Colourful houses on Calle Betis in Triana
+- src: https://imgcdn.bokun.tools/7164ef1d-5cb1-4215-be3a-bfe56e0f788b.jpg
+  alt: Flamenco dancer in a red dress on stage
 - src: https://imgcdn.bokun.tools/62018342-e76d-4311-953f-341570253612.jpg
   alt: Flamenco dancer with a shawl and guitarist
 - src: https://imgcdn.bokun.tools/dbe1fa35-64bc-4604-a615-96d8a2667419.jpg
   alt: Glass of red wine and tapas
-- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
-  alt: Triana Bridge lit up at dusk
-- src: https://imgcdn.bokun.tools/f7ab849b-2f4f-4d4a-b610-7fe7245410dd.jpg
-  alt: Group toasting in a tapas bar
-- src: https://imgcdn.bokun.tools/101ffcf4-2c9e-4b1f-bdb3-37a7ff8fc898.jpg
-  alt: Bread tapas with ham and a beer
-- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
-  alt: Colourful houses on Calle Betis in Triana
 bokunProductId: 793767
 fecha_actualizacion: '2026-10-24'
 ---

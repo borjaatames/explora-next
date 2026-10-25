@@ -82,18 +82,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/turia-bici/jardin-turia-aereo.webp
+  alt: Jardín del Turia visto desde lo alto de las Torres de Serranos
+- src: /images/actividades/valencia/turia-bici/jardin-turia-estanque.webp
+  alt: Estanque y paseo arbolado en el Jardín del Turia
+- src: /images/actividades/valencia/turia-bici/bici-palmera.webp
+  alt: Bicicleta aparcada junto a una palmera en un parque de Valencia
+- src: /images/actividades/valencia/turia-bici/bici-roja.webp
+  alt: Bicicleta roja apoyada en una valla junto a un banco en Valencia
 - src: https://imgcdn.bokun.tools/fabf7ddf-5eb3-411d-8587-a43958a0dc1e.jpg
   alt: Ciclistas en el jardín del Turia con la Ciudad de las Artes y las Ciencias al fondo
 - src: https://imgcdn.bokun.tools/aa28723e-be30-4e5e-b396-9f7d8aa42d18.jpg
   alt: Ciclista junto al estanque de la Ciudad de las Artes y las Ciencias
 - src: https://imgcdn.bokun.tools/f5721c26-abc0-46d7-98c7-89831eb51a77.jpg
   alt: Ciclista ante las Torres de Serranos
-- src: https://imgcdn.bokun.tools/4518611f-334a-4cce-bf2a-f1eff40daf8f.jpg
-  alt: Ciclistas en la plaza de la Virgen
-- src: https://imgcdn.bokun.tools/ccb18d16-bb90-4bbd-aaba-156a4c1f8053.jpg
-  alt: Ciclista por el paseo junto a la playa
-- src: https://imgcdn.bokun.tools/d33735a6-9831-430f-8eea-3b10c7e87910.jpg
-  alt: Ciclistas junto a un edificio histórico de la Marina de Valencia
 bokunProductId: 910128
 fecha_actualizacion: '2026-10-24'
 ---

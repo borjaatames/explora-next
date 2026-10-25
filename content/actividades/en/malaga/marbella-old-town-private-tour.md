@@ -71,22 +71,28 @@ keywords:
 - marbella guided walk
 - plaza de los naranjos marbella
 - marbella walking tour
-imagen: https://imgcdn.bokun.tools/e4499d7e-4baa-4b0c-b557-583dcdcee87c.jpg
-imagenAlt: Old town street in Marbella with bougainvillea and terraces
+imagen: /images/actividades/malaga/marbella/marbella-plaza-naranjos.webp
+imagenAlt: Plaza de los Naranjos in Marbella with orange trees, terraces and white houses
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/70fc5113-947e-4b95-91fc-fd6176555065.jpg
-  alt: Marbella with the mountains and La Concha behind
+- src: /images/actividades/malaga/marbella/marbella-fuente-plaza.webp
+  alt: Renaissance fountain in Marbella's Plaza de los Naranjos
+- src: /images/actividades/malaga/marbella/marbella-calle-buganvilla.webp
+  alt: White street in Marbella's old town with bougainvillea
+- src: /images/actividades/malaga/marbella/marbella-callejon-macetas.webp
+  alt: Alley in Marbella's old town lined with potted plants and lanterns
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-03.webp
   alt: La Concha mountain above Puerto Banús
-- src: https://imgcdn.bokun.tools/68724360-b361-4d5a-8b76-27160c8319cc.jpg
-  alt: Palm-lined beach at sunrise
-- src: https://imgcdn.bokun.tools/e68cbf0b-36f5-494f-92b4-54e0abdf4650.jpg
-  alt: Wooden pier over the sea
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-02.webp
   alt: Puerto Banús at sunset
+- src: https://imgcdn.bokun.tools/e4499d7e-4baa-4b0c-b557-583dcdcee87c.jpg
+  alt: Old town street in Marbella with bougainvillea and terraces
+- src: https://imgcdn.bokun.tools/70fc5113-947e-4b95-91fc-fd6176555065.jpg
+  alt: Marbella with the mountains and La Concha behind
+- src: https://imgcdn.bokun.tools/68724360-b361-4d5a-8b76-27160c8319cc.jpg
+  alt: Palm-lined beach at sunrise
 bokunProductId: 1129320
 fecha_actualizacion: '2026-10-24'
 ---

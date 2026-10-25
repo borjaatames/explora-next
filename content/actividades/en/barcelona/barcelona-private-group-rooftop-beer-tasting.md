@@ -67,22 +67,28 @@ keywords:
 - rooftop beer tasting barcelona
 - team building barcelona beer
 - barcelona craft beer group
-imagen: https://imgcdn.bokun.tools/2fb1bfdb-0bf9-418e-af55-3fa8a6394051.jpeg
-imagenAlt: Group relaxing with beers on a Barcelona rooftop
+imagen: /images/actividades/barcelona/proveedor-872250/prov-azotea-cata-cerveza.webp
+imagenAlt: Group on the rooftop during the craft beer tasting in Barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/cerveza/cata-cerveza-cuatro-vasos.webp
+  alt: Four craft beers lined up on a wooden table
+- src: /images/actividades/barcelona/proveedor-872250/prov-azotea-guia.webp
+  alt: The tasting host on the rooftop with Barcelona rooftops behind
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Barcelona rooftops at sunset with the Sagrada Família and Tibidabo
+- src: /images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp
+  alt: Ciutat Vella rooftops and bell towers seen from a rooftop
+- src: /images/actividades/barcelona/cerveza/grifos-cerveza-bar.webp
+  alt: Craft beer bar with a long row of taps
 - src: https://imgcdn.bokun.tools/ae2cea61-085e-4558-9029-454023edaa61.jpeg
   alt: Smiling man holding beer bottles
 - src: https://imgcdn.bokun.tools/2e3fcfb5-1bd4-4794-9994-3cabcc3c25bb.jpeg
   alt: Toast with two glasses of beer
 - src: https://imgcdn.bokun.tools/89d9c602-9ed4-4905-8f41-dd8757f5f041.jpeg
   alt: Two friends with beer on the rooftop
-- src: https://imgcdn.bokun.tools/86484054-7d7d-4234-a276-6855a4548ed5.jpeg
-  alt: Rooftop with a church bell tower behind
-- src: https://imgcdn.bokun.tools/de838d20-4549-43ad-a380-3ef93d246370.jpeg
-  alt: Two friends toasting with beer
 bokunProductId: 872250
 fecha_actualizacion: '2026-10-24'
 ---

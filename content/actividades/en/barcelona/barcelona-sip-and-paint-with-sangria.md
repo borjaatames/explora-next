@@ -72,24 +72,28 @@ keywords:
 - social activity barcelona
 - barcelona evening activity
 - painting class barcelona sangria
-imagen: https://imgcdn.bokun.tools/c91d34ac-4490-404a-b6ae-f21ebe9a213a.png
-imagenAlt: Group raising their glasses in a painting studio
+imagen: /images/actividades/barcelona/proveedor-1220934/prov-sala-caballetes.webp
+imagenAlt: Room set up with easels and canvases for the painting session
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/pintura/clase-pintura-lienzos.webp
+  alt: Canvases on easels during a group painting class
+- src: /images/actividades/barcelona/pintura/lienzos-pintados-caballetes.webp
+  alt: Watermelon paintings on easels
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: Glasses of sangria with orange and berries
+- src: /images/actividades/barcelona/pintura/caballetes-lienzos-blanco.webp
+  alt: Easels with blank canvases ready for the class
+- src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
+  alt: Pitcher of sangria with fruit
+- src: https://imgcdn.bokun.tools/c91d34ac-4490-404a-b6ae-f21ebe9a213a.png
+  alt: Group raising their glasses in a painting studio
 - src: https://imgcdn.bokun.tools/f9d75d2f-aeb9-4c6d-a300-f738d585d3c8.png
   alt: Participant painting at an easel
 - src: https://imgcdn.bokun.tools/30d9c812-174c-4662-9a10-1b37f7f557bd.png
   alt: Smiling participant holding brushes
-- src: https://imgcdn.bokun.tools/a3864475-5dca-45c1-a6dd-526172cb12be.png
-  alt: Hands holding a colour palette
-- src: https://imgcdn.bokun.tools/e528ee7a-46cb-4864-a14a-64f25be7a994.jpeg
-  alt: Studio with easels and fairy lights
-- src: https://imgcdn.bokun.tools/a57bbaa2-9d78-4de7-897f-eff4be1bbd8a.png
-  alt: Paint palette and paint bottle
-- src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
-  alt: Pitcher of sangria with fruit
 bokunProductId: 1220934
 fecha_actualizacion: '2026-10-24'
 ---

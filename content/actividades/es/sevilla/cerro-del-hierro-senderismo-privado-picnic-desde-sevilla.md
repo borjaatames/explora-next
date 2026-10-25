@@ -67,22 +67,30 @@ keywords:
 - senderismo cerro del hierro
 - sierra norte sevilla excursion
 - nacimiento rio huesna ruta
-imagen: https://imgcdn.bokun.tools/b54475aa-d449-424f-923b-95bf3c52b0b5.jpeg
-imagenAlt: Formaciones rocosas del Cerro del Hierro
+imagen: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-karst.webp
+imagenAlt: Agujas de roca kárstica del Cerro del Hierro entre tierra rojiza y matorral
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-trinchera.webp
+  alt: Paredes de caliza blanca y tierra roja de las antiguas minas del Cerro del Hierro
+- src: /images/actividades/sevilla/proveedor-949566/prov-cerro-hierro.webp
+  alt: Paredes de roca del Cerro del Hierro entre vegetación
+- src: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-roquedo.webp
+  alt: Roquedo gris del Cerro del Hierro con retamas en flor en primavera
+- src: /images/actividades/sevilla/proveedor-949566/prov-senderistas-rio.webp
+  alt: Senderistas junto a un arroyo en la Sierra Norte de Sevilla
+- src: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-pasarela.webp
+  alt: Senderistas en la pasarela de madera del sendero del Cerro del Hierro
+- src: /images/actividades/sevilla/proveedor-949566/prov-senderistas-camino.webp
+  alt: Grupo caminando por un sendero de la Sierra Norte
+- src: https://imgcdn.bokun.tools/b54475aa-d449-424f-923b-95bf3c52b0b5.jpeg
+  alt: Formaciones rocosas del Cerro del Hierro
 - src: https://imgcdn.bokun.tools/c3a03c8e-b243-49b6-8a98-cb79fe0f5bf3.jpeg
   alt: Senderistas entre las rocas del Cerro del Hierro
 - src: https://imgcdn.bokun.tools/e89dc8e5-c520-406d-8a21-6162f466b94b.jpeg
   alt: Paisaje kárstico del Cerro del Hierro
-- src: https://imgcdn.bokun.tools/f06e01b3-75ca-42e4-a622-87a42947c4a0.jpeg
-  alt: Grupo de senderistas en la Sierra Norte
-- src: https://imgcdn.bokun.tools/e40644f0-b7be-4f6e-bdeb-6bcff513a8a6.jpeg
-  alt: Grupo descansando en el bosque
-- src: https://imgcdn.bokun.tools/eecf13ad-a5dd-4a1a-a870-c62b150ac470.jpeg
-  alt: Senderistas en un bosque junto al río
 bokunProductId: 949566
 fecha_actualizacion: '2026-10-24'
 ---

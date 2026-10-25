@@ -74,24 +74,32 @@ keywords:
 - cheap guided tour barcelona
 - barcelona from the sea
 - barcelona harbour cruise
-imagen: https://imgcdn.bokun.tools/60f52dac-fcce-4c3f-b895-1f43086b2a94.jpeg
-imagenAlt: Travellers on the deck of a boat off Barcelona's harbour
+imagen: /images/actividades/barcelona/proveedor-1220917/prov-barco-cubierta.webp
+imagenAlt: Passengers on deck off the Barcelona waterfront
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/port-vell/golondrinas-port-vell.webp
+  alt: Golondrinas tour boat sailing in Barcelona harbour
+- src: /images/actividades/barcelona/proveedor-1220917/prov-grupo-gotico.webp
+  alt: Group walking an alley in the Gothic Quarter
+- src: /images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp
+  alt: Columbus Monument and Port Vell quayside in Barcelona
+- src: /images/actividades/barcelona/proveedor-1220917/prov-skyline-mar.webp
+  alt: The W Hotel and the big wheel seen from the sea
+- src: /images/actividades/barcelona/port-vell/port-vell-desde-colon.webp
+  alt: Port Vell and the Port building seen from the Columbus Monument
+- src: /images/actividades/barcelona/port-vell/port-vell-veleros.webp
+  alt: Sailboats moored in Barcelona's Port Vell
+- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
+  alt: Alley in Barcelona's Gothic Quarter
+- src: https://imgcdn.bokun.tools/60f52dac-fcce-4c3f-b895-1f43086b2a94.jpeg
+  alt: Travellers on the deck of a boat off Barcelona's harbour
 - src: https://imgcdn.bokun.tools/9d614123-ddfe-4733-abc2-03e332d303e1.png
   alt: Palm-lined promenade by Barcelona's harbour
 - src: https://imgcdn.bokun.tools/6c3e4b13-7bb4-4ae9-8815-f9e98e522d24.png
   alt: Facade of Barcelona Cathedral
-- src: https://imgcdn.bokun.tools/9b8f39b2-7ea7-4e4d-b17a-409ea2eacc71.jpeg
-  alt: Group walking down an old-town alley
-- src: https://imgcdn.bokun.tools/6e25cee2-b87d-45ad-84f3-7ee01c0bae4a.jpeg
-  alt: Traveller taking photos from the boat
-- src: https://imgcdn.bokun.tools/47baf77b-9450-438b-91f0-7e8c889d8f48.png
-  alt: Barcelona beach with the W Hotel behind
-- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: Alley in Barcelona's Gothic Quarter
 bokunProductId: 1220917
 fecha_actualizacion: '2026-10-24'
 ---

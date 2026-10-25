@@ -78,24 +78,28 @@ keywords:
 - madrid beer and tapas
 - craft beer malasana
 - beer tasting madrid
-imagen: https://imgcdn.bokun.tools/4f14cb4d-959a-46a2-809c-0c6cc04034f7.jpg
-imagenAlt: Glass of craft beer being poured from the tap
+imagen: /images/actividades/madrid/malasana/plaza-dos-de-mayo.webp
+imagenAlt: Plaza del Dos de Mayo in Malasaña with the old artillery park arch
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/ef034eb8-63d6-4f24-bd4f-9d2d544f4097.jpg
-  alt: Group raising their beers next to a plate of ham
-- src: https://imgcdn.bokun.tools/7f69a25e-b965-4eb5-b822-1a94ebce1254.jpg
-  alt: Couple with beer and tapas in a tavern
-- src: https://imgcdn.bokun.tools/d765360c-103f-4f80-aafd-6e70e209df6b.jpg
-  alt: Plate of ham and cheese
-- src: https://imgcdn.bokun.tools/fffefeb5-db51-4bda-b7ef-001f59d6ce34.jpg
-  alt: Red bar front on a central Madrid street at night
+- src: /images/actividades/madrid/malasana/malasana-terrazas-noche.webp
+  alt: Night-time terraces on Calle de Ruiz in Malasaña
+- src: /images/actividades/madrid/malasana/degustacion-cerveza-artesana.webp
+  alt: Flight of five craft beers on a wooden paddle
+- src: /images/actividades/madrid/malasana/plaza-dos-de-mayo-tarde.webp
+  alt: Evening crowd in Plaza del Dos de Mayo
 - src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
   alt: A caña with a tapa on a zinc counter
 - src: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
   alt: Wood-panelled interior of a traditional Madrid tavern
+- src: https://imgcdn.bokun.tools/4f14cb4d-959a-46a2-809c-0c6cc04034f7.jpg
+  alt: Glass of craft beer being poured from the tap
+- src: https://imgcdn.bokun.tools/ef034eb8-63d6-4f24-bd4f-9d2d544f4097.jpg
+  alt: Group raising their beers next to a plate of ham
+- src: https://imgcdn.bokun.tools/7f69a25e-b965-4eb5-b822-1a94ebce1254.jpg
+  alt: Couple with beer and tapas in a tavern
 bokunProductId: 950914
 fecha_actualizacion: '2026-10-24'
 ---

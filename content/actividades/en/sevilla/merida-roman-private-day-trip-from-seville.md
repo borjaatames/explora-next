@@ -71,22 +71,28 @@ keywords:
 - merida day trip from seville
 - merida roman theatre tour
 - private merida tour
-imagen: https://imgcdn.bokun.tools/d60768e1-c4b5-456d-85f6-4a3add3d44c3.jpg
-imagenAlt: Stage of the Roman theatre in Mérida
+imagen: /images/actividades/sevilla/merida/merida-teatro-romano.webp
+imagenAlt: Colonnaded stage of the Roman theatre of Mérida under a deep blue sky
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/merida/merida-teatro-graderio.webp
+  alt: Seating and stage of the Roman theatre of Mérida with visitors
+- src: /images/actividades/sevilla/proveedor-934218/prov-teatro-contrapicado.webp
+  alt: Columns of the Roman theatre stage in Mérida seen from below
+- src: /images/actividades/sevilla/merida/merida-puente-romano.webp
+  alt: Roman bridge of Mérida over the Guadiana River with its arches reflected in the water
+- src: /images/actividades/sevilla/proveedor-934218/prov-arcos-romanos.webp
+  alt: Stone vaulted passage in Mérida's Roman remains
+- src: /images/actividades/sevilla/merida/merida-templo-diana.webp
+  alt: Temple of Diana in central Mérida with its Corinthian columns
+- src: https://imgcdn.bokun.tools/d60768e1-c4b5-456d-85f6-4a3add3d44c3.jpg
+  alt: Stage of the Roman theatre in Mérida
 - src: https://imgcdn.bokun.tools/b0d66d2b-004a-465c-8400-d292bf8b6ea0.jpg
   alt: Columns of the Temple of Diana in Mérida
 - src: https://imgcdn.bokun.tools/0e44da0c-5ecf-46a0-be29-b0767478dccf.jpg
   alt: Travellers in a vaulted Roman passage
-- src: https://imgcdn.bokun.tools/5578f96d-27bd-4cd3-9255-73222e54d1c1.jpeg
-  alt: Roman columns against the sky
-- src: https://imgcdn.bokun.tools/4f59ed05-d950-4eb2-bc87-c4fe48a7835a.jpeg
-  alt: Arches of a Roman structure in Mérida
-- src: https://imgcdn.bokun.tools/a4a5a20c-66ae-4c76-ac3c-4f2e3d112b1f.jpeg
-  alt: Stone arches of the Roman ruins
 bokunProductId: 934218
 fecha_actualizacion: '2026-10-24'
 ---

@@ -73,26 +73,26 @@ keywords:
 - ruta de tapas barcelona
 - tabernas tradicionales barcelona
 - tour gastronomico privado barcelona
-imagen: https://imgcdn.bokun.tools/d70be2b6-caae-4802-a6d2-498482d2c0fb.jpg
-imagenAlt: Pintxos de jamón y huevo de codorniz servidos en una barra
+imagen: /images/actividades/barcelona/tabernas/bodega-montferry.webp
+imagenAlt: Barra de la Bodega Montferry, taberna de barrio en Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 61
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/tabernas/bar-versalles-barra.webp
+  alt: Barra de madera antigua del Bar Versalles en Sant Andreu
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: Mesa con tapas variadas, jamón y bebidas
+- src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
+  alt: Pinchos sobre pan en la barra de un bar
+- src: https://imgcdn.bokun.tools/d70be2b6-caae-4802-a6d2-498482d2c0fb.jpg
+  alt: Pintxos de jamón y huevo de codorniz servidos en una barra
 - src: https://imgcdn.bokun.tools/bf520257-b70e-46a6-a931-b37c2b65b733.jpg
   alt: Amigos brindando con vino tinto en un bar de tapas
 - src: https://imgcdn.bokun.tools/f08f4556-0af9-4224-8a03-26ef8e490fb5.jpg
   alt: Barra de pintxos en una taberna de Barcelona
-- src: https://imgcdn.bokun.tools/56f3802f-7fa6-4718-a1f5-08d9c9861e61.jpg
-  alt: Pan con tomate y patatas bravas con vermut
-- src: https://imgcdn.bokun.tools/6851e295-62aa-44e9-9238-15ef7e90dd27.jpg
-  alt: Pareja probando tapas en la barra
-- src: https://imgcdn.bokun.tools/97740610-0208-42b0-bdae-c830d175af6a.jpg
-  alt: Montaditos de jamón con aceituna
-- src: https://imgcdn.bokun.tools/e71a32c3-6c2e-4800-b909-ce7695865463.jpg
-  alt: Viajeros con copas de cava en una taberna
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
 ---

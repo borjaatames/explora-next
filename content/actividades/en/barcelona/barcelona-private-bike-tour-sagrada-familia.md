@@ -87,18 +87,18 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
+  alt: Cyclists on Passeig de Lluís Companys by the Arc de Triomf
+- src: /images/actividades/barcelona/bici/bici-calle-casco-antiguo.webp
+  alt: Bicycle leaning by a wooden door in an old street
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Barcelona rooftops at sunset with the Sagrada Família and Tibidabo
 - src: https://imgcdn.bokun.tools/97a8553e-7bfd-4b71-8b0d-4e6c4d4e28dd.jpg
   alt: Group on bikes in front of the Sagrada Familia
 - src: https://imgcdn.bokun.tools/fd52ffa2-a030-45a5-8071-b84b7e7fbc7a.jpg
   alt: Family on bikes by the Sagrada Familia
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
   alt: Cyclists by a fountain in a park
-- src: https://imgcdn.bokun.tools/6b956d2e-a92c-4532-b9d2-e067b346a348.jpg
-  alt: Group on bikes at the Arc de Triomf
-- src: https://imgcdn.bokun.tools/e758ea9d-dff1-4c14-b12f-a0aaf1ecc3ba.jpg
-  alt: Group cycling along a Barcelona street
-- src: https://imgcdn.bokun.tools/267d79a2-59ec-4b45-a869-e9ede9bf07a5.jpg
-  alt: Cyclists among the trees with the Sagrada Familia behind
 bokunProductId: 217567
 fecha_actualizacion: '2026-10-24'
 ---

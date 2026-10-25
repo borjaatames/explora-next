@@ -78,26 +78,32 @@ keywords:
 - e-bike sevilla tour
 - bici electrica sevilla tour
 - tour privado bicicleta sevilla
-imagen: https://imgcdn.bokun.tools/dba87a8e-0f8a-4bee-86c8-1025b5b81554.jpg
-imagenAlt: Dos ciclistas con casco recorriendo Sevilla
+imagen: /images/actividades/sevilla/bici/bici-centro-sevilla.webp
+imagenAlt: Ciclistas en bicicleta por una plaza adoquinada del centro de Sevilla
 ratingProveedor: 5.0
 numeroOpiniones: 6
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/2bc23911-fe3d-4bbc-b866-685ebe874d0a.jpg
-  alt: Ciclista junto a la barandilla del río
+- src: /images/actividades/sevilla/bici/bici-plaza-nueva-sevici.webp
+  alt: Bicicletas públicas Sevici frente al Ayuntamiento en la Plaza Nueva de Sevilla
+- src: /images/actividades/sevilla/bici/bici-carril-parque.webp
+  alt: Carril bici verde entre árboles en el parque de los Bermejales de Sevilla
+- src: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+  alt: Plaza de España de Sevilla con su torre reflejada en el canal
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp
   alt: Canal y torre norte de la Plaza de España
-- src: https://imgcdn.bokun.tools/c0f6fc3d-4ecb-4bf0-b25d-731f54eef86c.jpg
-  alt: Viajeros en un banco de azulejos de la Plaza de España
 - src: /images/actividades/sevilla/triana/triana-pexels-16778487.webp
   alt: Orilla de Triana sobre el Guadalquivir
-- src: https://imgcdn.bokun.tools/8a8ab7f5-0a50-425d-93fd-832b8862c9d0.jpg
-  alt: Galería de la Plaza de España
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
   alt: Metropol Parasol (las Setas) en Sevilla
+- src: https://imgcdn.bokun.tools/dba87a8e-0f8a-4bee-86c8-1025b5b81554.jpg
+  alt: Dos ciclistas con casco recorriendo Sevilla
+- src: https://imgcdn.bokun.tools/2bc23911-fe3d-4bbc-b866-685ebe874d0a.jpg
+  alt: Ciclista junto a la barandilla del río
+- src: https://imgcdn.bokun.tools/c0f6fc3d-4ecb-4bf0-b25d-731f54eef86c.jpg
+  alt: Viajeros en un banco de azulejos de la Plaza de España
 bokunProductId: 896365
 fecha_actualizacion: '2026-10-24'
 ---

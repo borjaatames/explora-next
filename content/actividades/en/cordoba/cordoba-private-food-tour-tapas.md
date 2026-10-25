@@ -70,24 +70,26 @@ keywords:
 - cordoba food experience
 - cordoba tapas route
 - food tour cordoba
-imagen: https://imgcdn.bokun.tools/09c429f7-e53c-4fc5-ac66-698cbb4522b3.jpg
-imagenAlt: Travellers with their guide in a bodega lined with barrels
+imagen: /images/actividades/cordoba/gastronomia/salmorejo-cordobes.webp
+imagenAlt: Bowl of Cordoban salmorejo with hard-boiled egg and ham in Córdoba
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/cordoba/gastronomia/flamenquin-cordoba.webp
+  alt: Flamenquín with fries served at a bar in Córdoba
+- src: /images/actividades/cordoba/gastronomia/salmorejo-jamon.webp
+  alt: Bowl of salmorejo topped with ham shavings
+- src: /images/actividades/cordoba/gastronomia/patio-cordobes.webp
+  alt: Cordoban courtyard with whitewashed walls covered in flower pots
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores with blue flowerpots
+- src: https://imgcdn.bokun.tools/09c429f7-e53c-4fc5-ac66-698cbb4522b3.jpg
+  alt: Travellers with their guide in a bodega lined with barrels
 - src: https://imgcdn.bokun.tools/b9775713-0ffd-49d5-94ee-303a76a0e3a0.jpg
   alt: A glass of red wine with cheese
 - src: https://imgcdn.bokun.tools/59bd24d6-d4e6-48c9-b8cd-aa39e2a59bad.jpg
   alt: Inside a traditional Córdoba tavern
-- src: https://imgcdn.bokun.tools/7a7df385-db37-4d0d-b1a2-673e1e1ff50b.jpg
-  alt: Group seated at a table in a tavern
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores with blue flowerpots
-- src: https://imgcdn.bokun.tools/03222442-bc3a-4098-bcc9-870a91901709.jpg
-  alt: Red wine being poured into a glass
-- src: https://imgcdn.bokun.tools/2d88e20b-948c-4a1c-9b2d-a05786727733.jpg
-  alt: Smiling travellers in a tavern
 bokunProductId: 1214469
 fecha_actualizacion: '2026-10-24'
 ---

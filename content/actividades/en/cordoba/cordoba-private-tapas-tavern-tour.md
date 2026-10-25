@@ -70,24 +70,32 @@ keywords:
 - cordoba taverns tour
 - tapas tour with guide cordoba
 - cordoba gastronomy tour
-imagen: https://imgcdn.bokun.tools/037c0d52-14e4-47c5-8087-861768e0729d.jpg
-imagenAlt: Bar counter of a traditional Córdoba tavern
+imagen: /images/actividades/cordoba/gastronomia/taberna-cordoba-terraza.webp
+imagenAlt: Terrace of a tavern on a street in Córdoba's old town
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c16a3fe5-5325-4312-9556-74a59869f2b4.jpg
-  alt: A tapa served on a tavern counter with barrels behind
-- src: https://imgcdn.bokun.tools/2b447aa2-3332-44e5-9af3-17fbbe2a001f.jpeg
-  alt: Group with their guide tasting local produce
+- src: /images/actividades/cordoba/gastronomia/flamenquin-patatas.webp
+  alt: Sliced flamenquín with fries in Córdoba
+- src: /images/actividades/cordoba/proveedor-83911/prov-vitrina-tapas.webp
+  alt: Tapas on display at the counter of a Córdoba tavern
+- src: /images/actividades/cordoba/gastronomia/pizarra-tapas-cordoba.webp
+  alt: Chalkboard offering tapas, vermouth and sangria outside a bar in Córdoba
+- src: /images/actividades/cordoba/proveedor-83911/prov-taberna-interior.webp
+  alt: Inside a traditional Córdoba tavern with barrels and tiles
+- src: /images/actividades/cordoba/gastronomia/salmorejo-cordobes.webp
+  alt: Bowl of Cordoban salmorejo with hard-boiled egg and ham in Córdoba
+- src: /images/actividades/cordoba/gastronomia/patio-cordobes.webp
+  alt: Cordoban courtyard with whitewashed walls covered in flower pots
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
   alt: Narrow street in Córdoba's Jewish Quarter
-- src: https://imgcdn.bokun.tools/d594046b-f7de-4c36-a0c6-eb6cf4dec19c.jpeg
-  alt: Travellers with the guide at a fish stall
-- src: https://imgcdn.bokun.tools/6c7c656d-bcb9-4d25-8a17-deb9370d573a.jpeg
-  alt: A toast at the bar in Córdoba
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
   alt: Courtyard of the Orange Trees with palms
+- src: https://imgcdn.bokun.tools/037c0d52-14e4-47c5-8087-861768e0729d.jpg
+  alt: Bar counter of a traditional Córdoba tavern
+- src: https://imgcdn.bokun.tools/c16a3fe5-5325-4312-9556-74a59869f2b4.jpg
+  alt: A tapa served on a tavern counter with barrels behind
 bokunProductId: 83911
 fecha_actualizacion: '2026-10-24'
 ---

@@ -63,20 +63,24 @@ keywords:
 - traje de flamenca alta costura
 - visita taller flamenca sevilla
 - probarse traje de flamenca sevilla
-imagen: https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg
-imagenAlt: Modista ajustando un traje de flamenca a una clienta en el taller
+imagen: /images/actividades/sevilla/trajes-flamenca/trajes-flamenca-perchero.webp
+imagenAlt: Perchero con trajes de flamenca de lunares y volantes en distintos colores
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-sevillanas.webp
+  alt: Mujeres con trajes de flamenca bailando sevillanas en una caseta de la Feria de Abril
+- src: /images/actividades/sevilla/trajes-flamenca/trajes-flamenca-volantes.webp
+  alt: Volantes de colores de varios trajes de flamenca en la Feria de Abril de Sevilla
+- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-portada.webp
+  alt: Portada iluminada de la Feria de Abril de Sevilla
+- src: https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg
+  alt: Modista ajustando un traje de flamenca a una clienta en el taller
 - src: https://imgcdn.bokun.tools/add6727d-03bb-459b-a79d-c7140816d6c7.jpeg
   alt: Mujer con traje de flamenca y mantón
 - src: https://imgcdn.bokun.tools/b0ef7855-8136-4992-8247-ae7c59f1a883.jpeg
   alt: Traje de flamenca de lunares
-- src: https://imgcdn.bokun.tools/5972df01-ca2d-4ad1-a484-7de14aafc443.jpeg
-  alt: Mujeres con trajes de flamenca de lunares
-- src: https://imgcdn.bokun.tools/efc6ea4c-7e46-43b8-ad8a-e3320b140ebc.jpeg
-  alt: Detalle de los volantes de un traje de flamenca
 bokunProductId: 949558
 fecha_actualizacion: '2026-10-24'
 ---

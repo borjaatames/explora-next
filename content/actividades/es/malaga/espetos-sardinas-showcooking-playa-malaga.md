@@ -75,26 +75,24 @@ keywords:
 - experiencia gastronomica malaga playa
 - pedregalejo tour
 - showcooking sardinas malaga
-imagen: https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg
-imagenAlt: Espetos de sardinas asándose sobre las brasas
+imagen: /images/actividades/malaga/espetos/espetos-barca-brasas.webp
+imagenAlt: Espetos de sardinas asándose en una barca con brasas en Málaga al anochecer
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/malaga/espetos/espeto-barca-malagueta.webp
+  alt: Barca-moraga con espetos de sardinas en la playa de la Malagueta
+- src: /images/actividades/malaga/espetos/espetos-sardinas-brasas.webp
+  alt: Sardinas ensartadas en cañas asándose junto a las brasas en la arena
+- src: /images/actividades/malaga/espetos/pedregalejo-barca.webp
+  alt: Barca de pesca varada en la playa de Pedregalejo
+- src: https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg
+  alt: Espetos de sardinas asándose sobre las brasas
 - src: https://imgcdn.bokun.tools/d4008a5b-916d-478f-80b7-a05af80bc2e8.jpg
   alt: Espetos de sardinas colocados junto al fuego
 - src: https://imgcdn.bokun.tools/be6eb7aa-61fa-4799-9239-c7bf767be6a0.jpg
   alt: Grupo sentado en una jábega junto al mar escuchando al guía
-- src: https://imgcdn.bokun.tools/e30bdc85-6b36-4de9-9705-fa63714e1440.jpg
-  alt: Barcas tradicionales de madera en el astillero
-- src: https://imgcdn.bokun.tools/61d671b2-c1df-4b38-a51b-394784210d35.jpg
-  alt: Espetos asándose en una barca con brasas en la playa
-- src: https://imgcdn.bokun.tools/47c638c9-6287-4625-866c-671acd421e28.jpg
-  alt: Balcón con flores en una casa de El Pedregalejo
-- src: https://imgcdn.bokun.tools/10d77688-ccd1-4460-aecf-54d8f98489ce.jpg
-  alt: Dos viajeras brindando durante la degustación
-- src: https://imgcdn.bokun.tools/6db2aea2-3b3f-46cb-b267-ce329e0bd55a.jpg
-  alt: Espeto de sardinas en primer plano
 bokunProductId: 933464
 fecha_actualizacion: '2026-10-24'
 ---

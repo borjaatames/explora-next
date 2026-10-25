@@ -80,26 +80,26 @@ keywords:
 - tour vino ribera del duero
 - cata ribera del duero
 - excursion vino desde madrid
-imagen: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
-imagenAlt: Nave de crianza abovedada con barricas en Ribera del Duero
+imagen: /images/actividades/madrid/ribera-del-duero/sala-barricas-ribera.webp
+imagenAlt: Sala de barricas abovedada de una bodega de la Ribera del Duero
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
+  alt: Murallas y torre del homenaje del castillo de Peñafiel
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-desde-penafiel.webp
+  alt: Viñedos de la Ribera del Duero vistos desde el castillo de Peñafiel
+- src: /images/actividades/madrid/ribera-del-duero/bodega-subterranea-aranda.webp
+  alt: Bodega subterránea excavada bajo Aranda de Duero
+- src: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
+  alt: Nave de crianza abovedada con barricas en Ribera del Duero
 - src: https://imgcdn.bokun.tools/4d085d0a-a00d-4c1b-8684-c8806e883605.jpg
   alt: Visitante caminando por un viñedo en otoño
 - src: https://imgcdn.bokun.tools/2cc9bf18-671a-4d18-bb50-fafbb2fb8ebd.jpg
   alt: Visitantes junto a los depósitos de una bodega moderna
-- src: https://imgcdn.bokun.tools/84b87868-7193-4ac5-9f64-aa72e1baa165.jpg
-  alt: Cata en una bodega excavada en piedra
-- src: https://imgcdn.bokun.tools/03478df3-99b7-4301-9d06-fb12c6b4d623.jpg
-  alt: Sala de catas iluminada con lámparas rosas
-- src: https://imgcdn.bokun.tools/91da0963-228e-4746-9f96-01093a8682af.jpg
-  alt: Viñedo con hojas otoñales
-- src: https://imgcdn.bokun.tools/8724d5af-95d3-48f7-aae8-44e44ccbe34a.jpg
-  alt: Visitantes en una bodega subterránea con barricas
 bokunProductId: 854707
 fecha_actualizacion: '2026-10-24'
 ---

@@ -70,24 +70,32 @@ keywords:
 - ruta gastronomica cordoba
 - tapas cordoba con guia
 - tour gastronomico privado cordoba
-imagen: https://imgcdn.bokun.tools/037c0d52-14e4-47c5-8087-861768e0729d.jpg
-imagenAlt: Barra de una taberna tradicional de Córdoba
+imagen: /images/actividades/cordoba/gastronomia/taberna-cordoba-terraza.webp
+imagenAlt: Terraza de una taberna en una calle del casco histórico de Córdoba
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c16a3fe5-5325-4312-9556-74a59869f2b4.jpg
-  alt: Tapa servida en la barra de una taberna con barriles
-- src: https://imgcdn.bokun.tools/2b447aa2-3332-44e5-9af3-17fbbe2a001f.jpeg
-  alt: Grupo con su guía probando productos locales
+- src: /images/actividades/cordoba/gastronomia/flamenquin-patatas.webp
+  alt: Flamenquín cortado con patatas fritas en Córdoba
+- src: /images/actividades/cordoba/proveedor-83911/prov-vitrina-tapas.webp
+  alt: Vitrina con tapas en la barra de una taberna de Córdoba
+- src: /images/actividades/cordoba/gastronomia/pizarra-tapas-cordoba.webp
+  alt: Pizarra de tapas, vermut y sangría a la puerta de un bar de Córdoba
+- src: /images/actividades/cordoba/proveedor-83911/prov-taberna-interior.webp
+  alt: Interior de una taberna cordobesa con barriles y azulejos
+- src: /images/actividades/cordoba/gastronomia/salmorejo-cordobes.webp
+  alt: Plato de salmorejo cordobés con huevo duro y jamón en Córdoba
+- src: /images/actividades/cordoba/gastronomia/patio-cordobes.webp
+  alt: Patio cordobés con paredes encaladas cubiertas de macetas con flores
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
   alt: Calleja de la Judería de Córdoba
-- src: https://imgcdn.bokun.tools/d594046b-f7de-4c36-a0c6-eb6cf4dec19c.jpeg
-  alt: Viajeros con el guía ante un puesto de pescado
-- src: https://imgcdn.bokun.tools/6c7c656d-bcb9-4d25-8a17-deb9370d573a.jpeg
-  alt: Brindis en la barra de un bar de Córdoba
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
   alt: Patio de los Naranjos con palmeras
+- src: https://imgcdn.bokun.tools/037c0d52-14e4-47c5-8087-861768e0729d.jpg
+  alt: Barra de una taberna tradicional de Córdoba
+- src: https://imgcdn.bokun.tools/c16a3fe5-5325-4312-9556-74a59869f2b4.jpg
+  alt: Tapa servida en la barra de una taberna con barriles
 bokunProductId: 83911
 fecha_actualizacion: '2026-10-24'
 ---

@@ -11,3 +11,7 @@
 - `casas-colores-rio-guadalquivir.webp` — Pexels, Emilio Sanchez Hernandez (Licencia Pexels) — https://www.pexels.com/photo/white-and-brown-concrete-building-under-blue-sky-13377605/
 - `puente-triana-atardecer.webp` — Pixabay, joseluis1960 (Licencia Pixabay) — https://pixabay.com/photos/bridge-triana-spain-river-1590857/
 - `mercado-triana-puesto-frutas.webp` — Unsplash, Lothar Boris Piltz (Licencia Unsplash) — https://unsplash.com/photos/a-fruit-and-vegetable-stand-in-a-grocery-store-uvDkGI0Ld9E
+- `flamenco-sevilla-baile.webp` — Schnobby · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Flamenco_in_Sevilla_01.jpg
+- `triana-calle-betis.webp` — Grez · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Calle_Betis_morning_light.JPG
+- `triana-mercado.webp` — Lothar Boris Piltz · Unsplash License · Unsplash · https://unsplash.com/photos/un-puesto-de-frutas-y-verduras-en-una-tienda-de-comestibles-uvDkGI0Ld9E
+- `triana-puente-isabel-ii-noche.webp` — Taisia Karaseva · Unsplash License · Unsplash · https://unsplash.com/photos/un-puente-sobre-un-cuerpo-de-agua-por-la-noche-OopAso5Uye4

@@ -72,22 +72,28 @@ keywords:
 - salir de fiesta barcelona
 - nightlife barcelona tour
 - discotecas barcelona entrada
-imagen: https://imgcdn.bokun.tools/e8ce897e-4f70-4418-8295-274eed1e5996.png
-imagenAlt: Chica cantando en un karaoke de Barcelona
+imagen: /images/actividades/barcelona/proveedor-1229842/prov-karaoke.webp
+imagenAlt: Karaoke en un bar de Barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/noche/terraza-portal-de-la-pau-noche.webp
+  alt: Terraza de un bar de noche en la plaça del Portal de la Pau
+- src: /images/actividades/barcelona/proveedor-1229842/prov-juego-bar.webp
+  alt: Juego en grupo en un bar durante la noche
+- src: /images/actividades/barcelona/noche/microfono-karaoke.webp
+  alt: Micrófono en su pie bajo luces de colores
+- src: /images/actividades/barcelona/noche/copas-bar-noche.webp
+  alt: Cócteles sobre la barra de un bar
+- src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
+  alt: Barcelona iluminada de noche con la Torre Glòries
 - src: https://imgcdn.bokun.tools/5807ec88-2b59-4265-9d57-91a42cd93f52.png
   alt: Dos chicas con chupitos en la barra de un bar
-- src: https://imgcdn.bokun.tools/144dd10e-8ccc-4259-b428-d6da4847241b.png
-  alt: Grupo jugando a un juego de mesa con bebidas
 - src: https://imgcdn.bokun.tools/587453c8-2960-4920-8d03-da7fe9d17880.png
   alt: Partida de torre de bloques en un bar
 - src: https://imgcdn.bokun.tools/3f773373-177e-446a-ad64-06479b2f3d0f.png
   alt: Grupo de chicas posando en un bar
-- src: https://imgcdn.bokun.tools/7ef7f5cc-3ed8-4d21-9b69-6f53264f401a.png
-  alt: Bar lleno de gente durante la noche
 bokunProductId: 1229842
 fecha_actualizacion: '2026-10-24'
 ---

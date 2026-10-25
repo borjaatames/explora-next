@@ -79,20 +79,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/modernista/estacion-norte-fachada.webp
+  alt: Fachada modernista de la Estación del Norte de Valencia
+- src: /images/actividades/valencia/modernista/estacion-norte-vestibulo.webp
+  alt: Techo de madera y mosaicos del vestíbulo de la Estación del Norte
+- src: /images/actividades/valencia/modernista/mercado-colon-fachada.webp
+  alt: Fachada modernista de ladrillo del Mercado de Colón
+- src: /images/actividades/valencia/modernista/mercado-colon-interior.webp
+  alt: Estructura de hierro y cristal del interior del Mercado de Colón
+- src: /images/actividades/valencia/modernista/oceanografic.webp
+  alt: Edificio de cubiertas blancas del Oceanogràfic reflejado en el agua
 - src: https://imgcdn.bokun.tools/32b12931-23ba-4720-8c20-b4b15bc48dd1.jpg
   alt: Grupo bajo el techo de mosaicos de la Estación del Norte
 - src: https://imgcdn.bokun.tools/2e838d3f-6186-4fb6-aed9-23a7595bea97.jpg
   alt: Grupo con su guía ante la plaza de toros de Valencia
 - src: https://imgcdn.bokun.tools/58379aeb-43eb-4c6f-bbe0-c8f872ae83c6.jpg
   alt: Edificio modernista con miradores en el centro de Valencia
-- src: https://imgcdn.bokun.tools/bcfdab16-9724-4620-b279-8b19eca6609a.jpg
-  alt: Viajeros en la Ciudad de las Artes y las Ciencias
-- src: https://imgcdn.bokun.tools/7f622791-38ce-4db5-b4ae-6f1fb775c7a0.jpg
-  alt: Entrada del Oceanogràfic de Valencia
-- src: https://imgcdn.bokun.tools/4757e6d2-ede1-4e9d-94bc-9a3c910882fe.jpg
-  alt: Visitante en el túnel del acuario con peces sobre su cabeza
-- src: https://imgcdn.bokun.tools/c58078f4-a848-4079-9bed-39a62674dd6d.jpg
-  alt: Grupo ante la fachada de la plaza de toros
 bokunProductId: 1250720
 fecha_actualizacion: '2026-10-24'
 ---

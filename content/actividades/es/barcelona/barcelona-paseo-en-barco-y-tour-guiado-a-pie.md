@@ -74,24 +74,32 @@ keywords:
 - tour guiado barcelona barato
 - free tour barcelona barco
 - barcelona desde el mar
-imagen: https://imgcdn.bokun.tools/60f52dac-fcce-4c3f-b895-1f43086b2a94.jpeg
-imagenAlt: Viajeros en la cubierta de un barco frente al puerto de Barcelona
+imagen: /images/actividades/barcelona/proveedor-1220917/prov-barco-cubierta.webp
+imagenAlt: Pasajeros en la cubierta del barco frente al litoral de Barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/port-vell/golondrinas-port-vell.webp
+  alt: Barco de las Golondrinas navegando por el puerto de Barcelona
+- src: /images/actividades/barcelona/proveedor-1220917/prov-grupo-gotico.webp
+  alt: Grupo recorriendo un callejón del Barrio Gótico
+- src: /images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp
+  alt: Mirador de Colón y muelle del Port Vell de Barcelona
+- src: /images/actividades/barcelona/proveedor-1220917/prov-skyline-mar.webp
+  alt: Hotel W y la noria vistos desde el mar
+- src: /images/actividades/barcelona/port-vell/port-vell-desde-colon.webp
+  alt: Port Vell y edificio del Puerto vistos desde el Mirador de Colón
+- src: /images/actividades/barcelona/port-vell/port-vell-veleros.webp
+  alt: Veleros amarrados en el Port Vell de Barcelona
+- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
+  alt: Callejón del Barrio Gótico de Barcelona
+- src: https://imgcdn.bokun.tools/60f52dac-fcce-4c3f-b895-1f43086b2a94.jpeg
+  alt: Viajeros en la cubierta de un barco frente al puerto de Barcelona
 - src: https://imgcdn.bokun.tools/9d614123-ddfe-4733-abc2-03e332d303e1.png
   alt: Paseo con palmeras junto al puerto de Barcelona
 - src: https://imgcdn.bokun.tools/6c3e4b13-7bb4-4ae9-8815-f9e98e522d24.png
   alt: Fachada de la Catedral de Barcelona
-- src: https://imgcdn.bokun.tools/9b8f39b2-7ea7-4e4d-b17a-409ea2eacc71.jpeg
-  alt: Grupo caminando por un callejón del casco antiguo
-- src: https://imgcdn.bokun.tools/6e25cee2-b87d-45ad-84f3-7ee01c0bae4a.jpeg
-  alt: Viajera haciendo fotos desde el barco
-- src: https://imgcdn.bokun.tools/47baf77b-9450-438b-91f0-7e8c889d8f48.png
-  alt: Playa de Barcelona con el Hotel W al fondo
-- src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
-  alt: Callejón del Barrio Gótico de Barcelona
 bokunProductId: 1220917
 fecha_actualizacion: '2026-10-24'
 ---

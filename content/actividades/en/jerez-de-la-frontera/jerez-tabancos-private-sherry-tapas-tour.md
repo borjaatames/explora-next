@@ -66,24 +66,26 @@ keywords:
 - tapas tour jerez
 - private sherry tour jerez
 - tapas and sherry jerez with guide
-imagen: https://imgcdn.bokun.tools/4ac425b5-bc4c-4e4a-96ce-774ee28a98e9.jpeg
-imagenAlt: Tapas and glasses of sherry on a tabanco bar
+imagen: /images/actividades/jerez/tabancos/tabanco-la-pandilla.webp
+imagenAlt: Wooden bar and beamed ceiling of Tabanco La Pandilla in Jerez de la Frontera
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/jerez/tabancos/tabanco-arco-ladrillo.webp
+  alt: Interior of a Jerez tabanco with a brick arch, tiles and tables
+- src: /images/actividades/jerez/tabancos/tabanco-bota-firmada.webp
+  alt: Signed sherry cask in a busy Jerez tabanco
+- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
+  alt: Cut-away sherry cask showing the layer of flor yeast on the wine
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
+  alt: Historic old town of Jerez de la Frontera
+- src: https://imgcdn.bokun.tools/4ac425b5-bc4c-4e4a-96ce-774ee28a98e9.jpeg
+  alt: Tapas and glasses of sherry on a tabanco bar
 - src: https://imgcdn.bokun.tools/273d5069-9e5d-4f42-aa67-320018b5e1d5.jpeg
   alt: A glass of sherry on the bar
 - src: https://imgcdn.bokun.tools/3344c90b-943b-40a5-ac73-7d76daf665d1.jpeg
   alt: Painted casks behind a tabanco bar
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Historic old town of Jerez de la Frontera
-- src: https://imgcdn.bokun.tools/3c462845-eec0-4a81-9f6b-a091320c0afe.jpeg
-  alt: A toast with glasses of sherry
-- src: https://imgcdn.bokun.tools/5e760ed8-3c00-4613-8d88-d4f17f1bbef1.jpeg
-  alt: Sherry being poured beside a tapa
-- src: https://imgcdn.bokun.tools/8075e05c-23ee-48fc-8037-0c94eda04b67.jpeg
-  alt: Rooftops and towers of central Jerez
 bokunProductId: 949542
 fecha_actualizacion: '2026-10-24'
 ---

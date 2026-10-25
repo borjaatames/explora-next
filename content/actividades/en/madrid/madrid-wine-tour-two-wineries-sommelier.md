@@ -87,20 +87,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/vinos-madrid/vinedo-san-martin-valdeiglesias.webp
+  alt: Old bush vines in San Martín de Valdeiglesias with the mountains behind
+- src: /images/actividades/madrid/vinos-madrid/vinas-olivos-colmenar-de-oreja.webp
+  alt: Vineyards and olive groves in Colmenar de Oreja, Madrid
+- src: /images/actividades/madrid/vinos-madrid/bodega-subterranea.webp
+  alt: Underground wine cellar dug beneath Aranda de Duero
+- src: /images/actividades/madrid/vinos-madrid/brindis-vino-tinto.webp
+  alt: Toasting with glasses of red wine at a bar
 - src: https://imgcdn.bokun.tools/b24331b5-2f9e-4962-b91b-553fc91f0f5a.jpg
   alt: Glass of red wine on a barrel with the vineyard behind
 - src: https://imgcdn.bokun.tools/fdaef48d-7fb6-4613-ac9a-1d1285831c71.jpg
   alt: Group walking through the vineyard
 - src: https://imgcdn.bokun.tools/8a7182aa-4165-4c63-836b-ed6666de5ec1.jpg
   alt: Bunch of grapes among autumn vine leaves
-- src: https://imgcdn.bokun.tools/f6849f37-c821-45ae-b035-7b95efd8cfe7.jpg
-  alt: Rock-cut cellar with clay jars
-- src: https://imgcdn.bokun.tools/d9289461-266b-4752-b0a5-eb77579cd00f.jpg
-  alt: Barrels stacked outdoors at the winery
-- src: https://imgcdn.bokun.tools/a9f061b6-bd6c-41c0-86a2-b04f1501b936.jpg
-  alt: Group tasting beside the barrels
-- src: https://imgcdn.bokun.tools/1f11d8fd-6c45-4fa0-809b-eb4e66ecdae5.jpg
-  alt: Vineyard with the mountains behind
 bokunProductId: 805388
 fecha_actualizacion: '2026-10-24'
 ---

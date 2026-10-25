@@ -66,24 +66,26 @@ keywords:
 - andalusian cooking course seville
 - private cooking class seville
 - traditional andalusian cooking workshop
-imagen: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
-imagenAlt: Participants preparing dishes at the cooking class
+imagen: /images/actividades/sevilla/cocina-andaluza/salmorejo-jamon.webp
+imagenAlt: Bowl of salmorejo topped with shavings of cured ham on a wooden table
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
+  alt: Small glasses of gazpacho served as an appetiser
+- src: /images/actividades/sevilla/cocina-andaluza/patio-santa-cruz.webp
+  alt: Sevillian courtyard in the Santa Cruz quarter with a tiled fountain and potted flowers
+- src: /images/actividades/sevilla/cocina-andaluza/patio-regionalista.webp
+  alt: Regionalist-style Sevillian courtyard with arches, galleries and plants
+- src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
+  alt: Fruit and vegetable stall at a Seville market
+- src: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
+  alt: Participants preparing dishes at the cooking class
 - src: https://imgcdn.bokun.tools/b9536ef1-f214-4d5e-90c7-5f5f1b7adf93.jpg
   alt: Group at a food market
 - src: https://imgcdn.bokun.tools/00a38fb3-24ee-443a-86d0-d6ebba4f8592.jpg
   alt: Students cooking in kitchen caps
-- src: https://imgcdn.bokun.tools/5e2c50d2-368f-45ca-8fd7-76c26135444b.jpg
-  alt: Cook preparing a dish
-- src: https://imgcdn.bokun.tools/bd40d697-afa1-4f9a-a589-9450e32b0b6c.jpg
-  alt: Students and cook in the house kitchen
-- src: https://imgcdn.bokun.tools/d71827ee-d7ba-424c-9c6a-481285bf662a.jpg
-  alt: Table set to eat what was cooked
-- src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
-  alt: Fruit and vegetable stall at a Seville market
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
 ---

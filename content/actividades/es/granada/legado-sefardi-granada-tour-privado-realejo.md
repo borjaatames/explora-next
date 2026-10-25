@@ -69,22 +69,26 @@ keywords:
 - juderia granada realejo
 - tour privado realejo granada
 - cuarto real de santo domingo visita
-imagen: https://imgcdn.bokun.tools/afb42eb8-c9e0-4c0b-9db0-623ca84cee4a.jpeg
-imagenAlt: Portada nazarí con arco de herradura en el centro de Granada
+imagen: /images/actividades/granada/realejo/cuarto-real-qubba.webp
+imagenAlt: Interior de la qubba del Cuarto Real de Santo Domingo con yeserías y celosías nazaríes
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/4e9b3c10-3bb6-471c-bb73-4cbb17942141.jpeg
-  alt: Sala nazarí con ventanales de arcos
+- src: /images/actividades/granada/realejo/cuarto-real-exterior.webp
+  alt: Fachada exterior del Cuarto Real de Santo Domingo en el Realejo
+- src: /images/actividades/granada/proveedor-938167/prov-cuarto-real.webp
+  alt: Ventanas del salón del Cuarto Real de Santo Domingo
+- src: /images/actividades/granada/realejo/realejo-calle-cuesta.webp
+  alt: Calle empedrada en cuesta del barrio del Realejo
+- src: /images/actividades/granada/realejo/realejo-callejon.webp
+  alt: Callejón estrecho del Realejo con casas blancas y farola
+- src: https://imgcdn.bokun.tools/afb42eb8-c9e0-4c0b-9db0-623ca84cee4a.jpeg
+  alt: Portada nazarí con arco de herradura en el centro de Granada
 - src: https://imgcdn.bokun.tools/69019e98-05a6-47bc-85c6-bf94abbfbd4b.jpeg
   alt: Puerta de muralla con arco en Granada
 - src: https://imgcdn.bokun.tools/0528b33e-7d90-422e-8c4b-d13bf7d9b245.jpeg
   alt: Calle estrecha con faroles en el centro de Granada
-- src: https://imgcdn.bokun.tools/7ebe52df-bb1d-48b2-b568-1c1a5356b7f4.jpeg
-  alt: Calle estrecha del casco antiguo de Granada
-- src: https://imgcdn.bokun.tools/dbdd53cd-637b-4a34-84bd-7ad199bb02ab.jpeg
-  alt: Calle de casas blancas con vistas sobre Granada
 bokunProductId: 938167
 fecha_actualizacion: '2026-10-24'
 ---

@@ -63,20 +63,24 @@ keywords:
 - haute couture flamenco dress
 - flamenco dress workshop visit seville
 - try on flamenco dress seville
-imagen: https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg
-imagenAlt: Dressmaker fitting a flamenco dress on a client in the atelier
+imagen: /images/actividades/sevilla/trajes-flamenca/trajes-flamenca-perchero.webp
+imagenAlt: Rack of polka-dot flamenco dresses with ruffles in different colours
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-sevillanas.webp
+  alt: Women in flamenco dresses dancing sevillanas at a Feria de Abril marquee
+- src: /images/actividades/sevilla/trajes-flamenca/trajes-flamenca-volantes.webp
+  alt: Colourful ruffles of several flamenco dresses at the Seville April Fair
+- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-portada.webp
+  alt: Illuminated entrance gate of the Seville April Fair
+- src: https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg
+  alt: Dressmaker fitting a flamenco dress on a client in the atelier
 - src: https://imgcdn.bokun.tools/add6727d-03bb-459b-a79d-c7140816d6c7.jpeg
   alt: Woman in a flamenco dress and shawl
 - src: https://imgcdn.bokun.tools/b0ef7855-8136-4992-8247-ae7c59f1a883.jpeg
   alt: Polka-dot flamenco dress
-- src: https://imgcdn.bokun.tools/5972df01-ca2d-4ad1-a484-7de14aafc443.jpeg
-  alt: Women in polka-dot flamenco dresses
-- src: https://imgcdn.bokun.tools/efc6ea4c-7e46-43b8-ad8a-e3320b140ebc.jpeg
-  alt: Detail of the ruffles of a flamenco dress
 bokunProductId: 949558
 fecha_actualizacion: '2026-10-24'
 ---

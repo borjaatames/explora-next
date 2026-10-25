@@ -70,22 +70,24 @@ keywords:
 - seville cartuja private tour
 - santa maria de las cuevas seville
 - pickman cartuja visit
-imagen: https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg
-imagenAlt: Seville's Cartuja Monastery seen from its gardens
+imagen: /images/actividades/sevilla/cartuja/cartuja-fachada-estanque.webp
+imagenAlt: The Cartuja monastery in Seville reflected in a pond under a blue sky
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/cartuja/cartuja-claustrillo-mudejar.webp
+  alt: Mudéjar cloister of the Seville Cartuja with arches, tiles and a central fountain
+- src: /images/actividades/sevilla/cartuja/cartuja-boveda-sala-capitulo.webp
+  alt: Gilded vault of the chapter house at the Cartuja monastery
+- src: /images/actividades/sevilla/cartuja/cartuja-hornos-pickman.webp
+  alt: Kiln chimneys of the former Pickman ceramics factory at La Cartuja
+- src: https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg
+  alt: Seville's Cartuja Monastery seen from its gardens
 - src: https://imgcdn.bokun.tools/5a87923c-8c53-4fb0-9e42-c95cf7319b98.jpg
   alt: Brick-arched cloister of the monastery
 - src: https://imgcdn.bokun.tools/fd1548ee-930f-4908-a2c0-e8a19da5c5c4.jpg
   alt: Bottle kilns of the old pottery factory
-- src: https://imgcdn.bokun.tools/3fe66bc8-2a8f-4082-a963-1588beea11df.jpg
-  alt: Gateway of the Cartuja monastery
-- src: https://imgcdn.bokun.tools/c47a99d8-b13e-45f3-9d9e-ab40f56b4b0f.jpg
-  alt: Visitors by a tile-decorated doorway
-- src: https://imgcdn.bokun.tools/edef3c47-3baf-4663-bb99-81747646b2df.jpg
-  alt: Group listening to the guide
 bokunProductId: 933450
 fecha_actualizacion: '2026-10-24'
 ---

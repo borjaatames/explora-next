@@ -73,26 +73,28 @@ keywords:
 - ruta vinos la latina
 - maridaje tapas madrid
 - food and wine tour madrid
-imagen: https://imgcdn.bokun.tools/6595a740-3fb0-42f9-8e69-46f4c1ed8375.jpg
-imagenAlt: Mesa con platos, copas y vino durante el tour
+imagen: /images/actividades/madrid/la-latina/cava-baja-terrazas.webp
+imagenAlt: Terrazas de la calle Cava Baja, en La Latina, durante las fiestas de la Paloma
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/la-latina/cava-baja-calle.webp
+  alt: Fachadas de bares y tabernas en la calle Cava Baja
+- src: /images/actividades/madrid/la-latina/cana-tapa-sardina.webp
+  alt: Caña de cerveza con tapa de sardina en la barra de un bar madrileño
+- src: /images/actividades/madrid/la-latina/brindis-vino-tinto.webp
+  alt: Brindis con copas de vino tinto en una barra
+- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
+  alt: Calle de la Cava Baja en el barrio de La Latina, Madrid
+- src: https://imgcdn.bokun.tools/6595a740-3fb0-42f9-8e69-46f4c1ed8375.jpg
+  alt: Mesa con platos, copas y vino durante el tour
 - src: https://imgcdn.bokun.tools/f7f5c9fe-8cb7-474d-9202-c91601ebbfac.jpg
   alt: Fritos servidos en una pizarra
 - src: https://imgcdn.bokun.tools/cef915bb-57c1-4e22-95da-a374f474fd4e.jpg
   alt: Plato de jamón cortado
-- src: https://imgcdn.bokun.tools/1601b767-5788-429e-9b96-e04fa03126b6.jpg
-  alt: Tabla de quesos con uvas
-- src: https://imgcdn.bokun.tools/e48c4884-122b-4946-a5e7-bff114aa7652.jpg
-  alt: Plato de tomate aliñado
-- src: https://imgcdn.bokun.tools/3f60563e-ead1-4fec-a5f3-84339f0146a6.jpg
-  alt: Estanterías de vinos en una tienda
-- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
-  alt: Calle de la Cava Baja en el barrio de La Latina, Madrid
 bokunProductId: 1024201
 fecha_actualizacion: '2026-10-24'
 ---

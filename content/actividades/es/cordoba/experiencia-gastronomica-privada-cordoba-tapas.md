@@ -70,24 +70,26 @@ keywords:
 - experiencia gastronomica cordoba
 - ruta de tapas cordoba
 - food tour cordoba
-imagen: https://imgcdn.bokun.tools/09c429f7-e53c-4fc5-ac66-698cbb4522b3.jpg
-imagenAlt: Viajeros con su guía en una bodega con barriles
+imagen: /images/actividades/cordoba/gastronomia/salmorejo-cordobes.webp
+imagenAlt: Plato de salmorejo cordobés con huevo duro y jamón en Córdoba
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/cordoba/gastronomia/flamenquin-cordoba.webp
+  alt: Flamenquín con patatas servido en un bar de Córdoba
+- src: /images/actividades/cordoba/gastronomia/salmorejo-jamon.webp
+  alt: Cuenco de salmorejo con virutas de jamón
+- src: /images/actividades/cordoba/gastronomia/patio-cordobes.webp
+  alt: Patio cordobés con paredes encaladas cubiertas de macetas con flores
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: Calleja de las Flores con macetas azules
+- src: https://imgcdn.bokun.tools/09c429f7-e53c-4fc5-ac66-698cbb4522b3.jpg
+  alt: Viajeros con su guía en una bodega con barriles
 - src: https://imgcdn.bokun.tools/b9775713-0ffd-49d5-94ee-303a76a0e3a0.jpg
   alt: Copa de vino tinto con queso
 - src: https://imgcdn.bokun.tools/59bd24d6-d4e6-48c9-b8cd-aa39e2a59bad.jpg
   alt: Interior de una taberna tradicional de Córdoba
-- src: https://imgcdn.bokun.tools/7a7df385-db37-4d0d-b1a2-673e1e1ff50b.jpg
-  alt: Grupo sentado a la mesa en una taberna
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores con macetas azules
-- src: https://imgcdn.bokun.tools/03222442-bc3a-4098-bcc9-870a91901709.jpg
-  alt: Vino tinto servido en una copa
-- src: https://imgcdn.bokun.tools/2d88e20b-948c-4a1c-9b2d-a05786727733.jpg
-  alt: Viajeros sonrientes en una taberna
 bokunProductId: 1214469
 fecha_actualizacion: '2026-10-24'
 ---

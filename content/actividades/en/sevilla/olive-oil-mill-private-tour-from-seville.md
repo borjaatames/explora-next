@@ -69,24 +69,26 @@ keywords:
 - olive oil tour seville
 - olive oil tasting seville
 - basilippo tour
-imagen: https://imgcdn.bokun.tools/2a98a91d-6d36-461e-b121-05c406794bfb.jpg
-imagenAlt: Old stone mill at the olive oil mill
+imagen: /images/actividades/sevilla/almazara/almazara-depositos-acero.webp
+imagenAlt: Olive mill cellar with stainless steel tanks for olive oil
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/almazara/olivar-andaluz.webp
+  alt: Olive groves stretching across the rolling Andalusian countryside under a clear sky
+- src: /images/actividades/sevilla/almazara/olivar-cordoba.webp
+  alt: Old olive grove in the Córdoba countryside under a blue sky
+- src: /images/actividades/sevilla/almazara/aceitunas-cosecha.webp
+  alt: Hands holding freshly harvested green and purple olives
+- src: https://imgcdn.bokun.tools/2a98a91d-6d36-461e-b121-05c406794bfb.jpg
+  alt: Old stone mill at the olive oil mill
 - src: https://imgcdn.bokun.tools/d27324af-8d85-4d69-9769-c70fdfa0eda4.jpg
   alt: Bottle of olive oil on a table among olive groves
 - src: https://imgcdn.bokun.tools/023d3e31-a195-420b-a862-34ef333e6357.jpg
   alt: Group among the olive trees with the guide
-- src: https://imgcdn.bokun.tools/331f91db-2538-4328-9aeb-da8df155a744.jpg
-  alt: Visitors in the mill's production room
-- src: https://imgcdn.bokun.tools/e3e56bde-3f35-4cb0-8f45-d9d18af1d060.jpg
-  alt: Olive grove at sunset
-- src: https://imgcdn.bokun.tools/cc7fdaab-6f5a-4b28-bb33-84ce39f6de29.jpg
-  alt: Olives on the branch
 bokunProductId: 860682
 fecha_actualizacion: '2026-10-24'
 ---

@@ -86,18 +86,18 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
+  alt: Monasterio de Montserrat encajado en la montaña, visto desde arriba
+- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+  alt: Edificios del monasterio y montaña de Montserrat bajo cielo azul
+- src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
+  alt: Nave de la basílica de Montserrat con el altar al fondo
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
   alt: El monasterio de Montserrat bajo las agujas de roca
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
   alt: Viajeros en la explanada del monasterio con la montaña al fondo
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: Puesto del mercado de productores de Montserrat
-- src: https://imgcdn.bokun.tools/a0325b46-738a-46f3-a3bf-1ae84b127736.jpg
-  alt: Funicular amarillo subiendo por la ladera de Montserrat
-- src: https://imgcdn.bokun.tools/c766005b-642e-48ca-a34e-f3d2aded2927.jpg
-  alt: Guía explicando el monasterio a los viajeros
-- src: https://imgcdn.bokun.tools/6d83b16f-42fb-4047-b2a1-1e5f84f9dbef.jpg
-  alt: Edificios del monasterio de Montserrat y las rocas
 bokunProductId: 217561
 fecha_actualizacion: '2026-10-24'
 ---

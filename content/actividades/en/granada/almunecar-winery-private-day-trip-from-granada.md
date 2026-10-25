@@ -68,22 +68,30 @@ keywords:
 - costa tropical from granada
 - almunecar private tour
 - señorio de nevada winery
-imagen: https://imgcdn.bokun.tools/42d254fb-9ff7-452b-ac0b-56bd8e6b5b89.jpeg
-imagenAlt: Almuñécar beach and seafront
+imagen: /images/actividades/granada/proveedor-938189/prov-bodega-barricas.webp
+imagenAlt: Barrels in the winery's ageing cellar
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/8729cc7b-5944-4e47-aca2-d7f96e050d0e.jpeg
-  alt: Barrel room at the winery
+- src: /images/actividades/granada/almunecar/bodega-cata-barricas.webp
+  alt: Wine glasses being poured at a tasting in front of barrels in a winery
+- src: /images/actividades/granada/proveedor-938189/prov-bodega-nave.webp
+  alt: Winery hall with rows of barrels
+- src: /images/actividades/granada/almunecar/almunecar-castillo-san-miguel.webp
+  alt: Towers and walls of San Miguel castle in Almuñécar at sunset
+- src: /images/actividades/granada/proveedor-938189/prov-castillo-san-miguel.webp
+  alt: San Miguel Castle in Almuñécar
+- src: /images/actividades/granada/almunecar/almunecar-playa-vista.webp
+  alt: View of Almuñécar beach and seafront from the castle
+- src: /images/actividades/granada/proveedor-938189/prov-almunecar-penon.webp
+  alt: Almuñécar and the Peñón del Santo by the sea
+- src: /images/actividades/granada/almunecar/almunecar-penon-santo.webp
+  alt: Peñón del Santo rock and Puerta del Mar beach in Almuñécar
+- src: https://imgcdn.bokun.tools/42d254fb-9ff7-452b-ac0b-56bd8e6b5b89.jpeg
+  alt: Almuñécar beach and seafront
 - src: https://imgcdn.bokun.tools/e456731e-bd95-4623-bc13-803a11efb526.jpeg
   alt: Vineyards with mountains behind
-- src: https://imgcdn.bokun.tools/245dee26-24d0-4b40-a448-123c6f6391ec.jpeg
-  alt: Walls of Almuñécar castle
-- src: https://imgcdn.bokun.tools/30ae87b7-0a97-418d-829f-ed283e88c3eb.jpeg
-  alt: Wine barrels in the cellar
-- src: https://imgcdn.bokun.tools/2341d6f2-5a24-4a49-a1ab-d2c4e3e8896a.jpeg
-  alt: The Almuñécar coastline and its rocky outcrops
 bokunProductId: 938189
 fecha_actualizacion: '2026-10-24'
 ---

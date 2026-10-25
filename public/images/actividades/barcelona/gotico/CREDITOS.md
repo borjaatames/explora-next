@@ -18,3 +18,4 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 
 Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 - `barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp` — falco, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/barcelona-cathedral-spain-4298066/)
+- `placa-reial.webp` — Tony Hisgett · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Reial_Barcelona_%285835807391%29.jpg

@@ -73,22 +73,28 @@ keywords:
 - barcelona brewery tour
 - barcelona night out live music
 - gothic quarter bar
-imagen: https://imgcdn.bokun.tools/a992bd76-ee23-4de9-a6f5-b4dc7568bf67.jpeg
-imagenAlt: Glasses of craft beer on the bar at Craft Barcelona
+imagen: /images/actividades/barcelona/proveedor-1242119/prov-cervezas-barra.webp
+imagenAlt: Craft beers served at the bar during the tasting
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/cerveza/grifos-cerveza-bar.webp
+  alt: Craft beer bar with a long row of taps
+- src: /images/actividades/barcelona/proveedor-1242119/prov-brindis-cerveza.webp
+  alt: Guests tasting craft beer at the bar
+- src: /images/actividades/barcelona/cerveza/cata-cerveza-tabla.webp
+  alt: Tasting paddle with craft beers of different styles
+- src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
+  alt: Barcelona lit up at night with Torre Glòries
+- src: /images/actividades/barcelona/noche/placa-espanya-noche.webp
+  alt: Plaça d'Espanya and Montjuïc lit up at night
 - src: https://imgcdn.bokun.tools/4022b5f6-f6ff-4dda-a4d9-ffb645fb9af3.jpeg
   alt: Woman tasting craft beer
 - src: https://imgcdn.bokun.tools/80d00010-07f6-4d5f-b206-a5b3c8f65186.jpeg
   alt: Friends chatting at the bar
-- src: https://imgcdn.bokun.tools/e4e9c572-089d-4404-b575-a2884e6a2f58.jpeg
-  alt: Woman with a beer at the bar
 - src: https://imgcdn.bokun.tools/0a10d67e-799b-4a5c-b1f6-cca82843c5f5.jpeg
   alt: Glass of craft beer
-- src: https://imgcdn.bokun.tools/7accc39b-0eef-4664-9bb0-993b3e3dda35.jpeg
-  alt: Raising a beer in the brewery bar
 bokunProductId: 1242119
 fecha_actualizacion: '2026-10-24'
 ---

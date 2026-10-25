@@ -73,22 +73,28 @@ keywords:
 - craft beer barcelona
 - plan noche barcelona
 - bar musica en directo barcelona
-imagen: https://imgcdn.bokun.tools/a992bd76-ee23-4de9-a6f5-b4dc7568bf67.jpeg
-imagenAlt: Vasos de cerveza artesana en la barra de Craft Barcelona
+imagen: /images/actividades/barcelona/proveedor-1242119/prov-cervezas-barra.webp
+imagenAlt: Cervezas artesanas servidas en la barra durante la cata
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/cerveza/grifos-cerveza-bar.webp
+  alt: Barra de cervecería con muchos grifos de cerveza artesana
+- src: /images/actividades/barcelona/proveedor-1242119/prov-brindis-cerveza.webp
+  alt: Participantes probando cerveza artesana en el bar
+- src: /images/actividades/barcelona/cerveza/cata-cerveza-tabla.webp
+  alt: Tabla de cata con vasos de cervezas artesanas de distintos estilos
+- src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
+  alt: Barcelona iluminada de noche con la Torre Glòries
+- src: /images/actividades/barcelona/noche/placa-espanya-noche.webp
+  alt: Plaça d'Espanya y Montjuïc iluminados de noche
 - src: https://imgcdn.bokun.tools/4022b5f6-f6ff-4dda-a4d9-ffb645fb9af3.jpeg
   alt: Chica probando cerveza artesana
 - src: https://imgcdn.bokun.tools/80d00010-07f6-4d5f-b206-a5b3c8f65186.jpeg
   alt: Amigas charlando en la barra del bar
-- src: https://imgcdn.bokun.tools/e4e9c572-089d-4404-b575-a2884e6a2f58.jpeg
-  alt: Chica con una cerveza en la barra
 - src: https://imgcdn.bokun.tools/0a10d67e-799b-4a5c-b1f6-cca82843c5f5.jpeg
   alt: Vaso de cerveza artesana
-- src: https://imgcdn.bokun.tools/7accc39b-0eef-4664-9bb0-993b3e3dda35.jpeg
-  alt: Brindis con cerveza en la cervecería
 bokunProductId: 1242119
 fecha_actualizacion: '2026-10-24'
 ---

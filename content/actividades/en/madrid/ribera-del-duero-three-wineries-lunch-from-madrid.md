@@ -87,20 +87,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/ribera-del-duero/lechazo-asado.webp
+  alt: Cook carving roast suckling lamb fresh from the oven
+- src: /images/actividades/madrid/proveedor-805387/prov-vinedo-otono.webp
+  alt: Ribera del Duero vineyard in autumn colours
+- src: /images/actividades/madrid/ribera-del-duero/lechazo-horno-lena.webp
+  alt: Clay dish of suckling lamb in the wood-fired oven of an Aranda de Duero asador
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-desde-penafiel.webp
+  alt: Ribera del Duero vineyards seen from Peñafiel Castle
+- src: /images/actividades/madrid/ribera-del-duero/sala-barricas-ribera.webp
+  alt: Vaulted barrel room in a Ribera del Duero winery
 - src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
   alt: Aisle of barrels in a winery's ageing hall
 - src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg
   alt: Visitor walking through the vineyards
 - src: https://imgcdn.bokun.tools/108034a6-a4ac-4768-a64c-8024faead8bf.jpg
   alt: Group during a tasting at a winery table
-- src: https://imgcdn.bokun.tools/7017b9ff-048c-4edd-94bc-57cac42e53a1.jpg
-  alt: Grapes in a traditional wooden press
-- src: https://imgcdn.bokun.tools/39e25d4a-8b95-42c2-8558-372ffee808da.jpg
-  alt: Underground winery gallery lined with barrels
-- src: https://imgcdn.bokun.tools/667d754c-2e09-4575-b9be-2930e9959a73.jpg
-  alt: Toasting with glasses of red wine
-- src: https://imgcdn.bokun.tools/5ea285b6-7907-4b60-81b7-64108b05fba6.jpg
-  alt: Group seated at the table for lunch
 bokunProductId: 805387
 fecha_actualizacion: '2026-10-24'
 ---

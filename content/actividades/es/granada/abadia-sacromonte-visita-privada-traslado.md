@@ -67,24 +67,32 @@ keywords:
 - santas cuevas sacromonte
 - abadia sacromonte con guia
 - visita privada sacromonte
-imagen: https://imgcdn.bokun.tools/c1e08b2f-458d-4be1-9052-633167b74be2.jpeg
-imagenAlt: La Abadía del Sacromonte en la ladera del monte
+imagen: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-exterior.webp
+imagenAlt: Edificio de la Abadía del Sacromonte entre cipreses en la ladera del monte Valparaíso
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-claustro.webp
+  alt: Claustro de la Abadía del Sacromonte con arcos, naranjos y torre
+- src: /images/actividades/granada/proveedor-938184/prov-abadia-iglesia.webp
+  alt: Nave de la iglesia de la Abadía del Sacromonte
+- src: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-arco.webp
+  alt: Arco triunfal de entrada a la Abadía del Sacromonte
+- src: /images/actividades/granada/proveedor-938184/prov-abadia-exterior.webp
+  alt: Exterior de la Abadía del Sacromonte con naranjos
+- src: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-vista.webp
+  alt: Vista de la Abadía del Sacromonte sobre las cuevas y casas del barrio
+- src: /images/actividades/granada/proveedor-938184/prov-abadia-portada.webp
+  alt: Portada de acceso a la Abadía del Sacromonte
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: Ladera del Sacromonte con sus casas cueva
+- src: https://imgcdn.bokun.tools/c1e08b2f-458d-4be1-9052-633167b74be2.jpeg
+  alt: La Abadía del Sacromonte en la ladera del monte
 - src: https://imgcdn.bokun.tools/5e365155-40b3-45a5-9b65-82ef8c6cc395.jpeg
   alt: Patio con fuente y naranjos en la abadía
 - src: https://imgcdn.bokun.tools/53de72f1-c629-45cf-8a50-a91cfdee499a.jpeg
   alt: Galería excavada en la roca de las Santas Cuevas
-- src: https://imgcdn.bokun.tools/07d40738-a60f-4c28-8c76-a8ad00e04bb5.jpeg
-  alt: Claustro porticado de la abadía
-- src: https://imgcdn.bokun.tools/04f9c863-caac-4ec8-9d46-1f70182dc93d.jpeg
-  alt: Interior de la iglesia de la abadía
-- src: https://imgcdn.bokun.tools/f5be5d37-8c5c-4150-a04a-4cf7761f1f3c.jpeg
-  alt: Portada de piedra con arcos en la abadía
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
-  alt: Ladera del Sacromonte con sus casas cueva
 bokunProductId: 938184
 fecha_actualizacion: '2026-10-24'
 ---

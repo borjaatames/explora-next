@@ -77,26 +77,28 @@ keywords:
 - verdejo wine tour
 - white wine tour madrid
 - michelin lunch wine tour spain
-imagen: https://imgcdn.bokun.tools/d2eabbdd-6943-41c1-9c8d-3cc16439200f.jpg
-imagenAlt: Rueda vines under a cloudy sky
+imagen: /images/actividades/madrid/rueda/vinedo-la-seca.webp
+imagenAlt: DO Rueda vineyard in La Seca with its stony soil
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/rueda/copa-blanco-gambas.webp
+  alt: Glass of white wine with a prawn tapa on a tiled bar
+- src: /images/actividades/madrid/rueda/copas-rueda-jamon.webp
+  alt: Glasses of Rueda white wine with cured ham and bread
+- src: /images/actividades/madrid/rueda/cata-vino-blanco.webp
+  alt: White wine being poured during a tasting, glasses lined up on the table
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Wine glasses at the tasting
+- src: https://imgcdn.bokun.tools/d2eabbdd-6943-41c1-9c8d-3cc16439200f.jpg
+  alt: Rueda vines under a cloudy sky
 - src: https://imgcdn.bokun.tools/430497ed-7f6f-4cd6-bfca-1b6cc87fd51c.jpg
   alt: Glass demijohns in the sun at a Rueda winery
 - src: https://imgcdn.bokun.tools/b4d6259b-c0ea-4126-a533-7e1943bf4d12.jpg
   alt: Underground winery gallery
-- src: https://imgcdn.bokun.tools/162690e4-8e39-411c-95ca-3ab3da2d6b8c.jpg
-  alt: Barrel with a glass end showing the wine inside
-- src: https://imgcdn.bokun.tools/444d968d-02da-4360-bd0f-af897bb8fe5d.jpg
-  alt: Vine leaves in the sun
-- src: https://imgcdn.bokun.tools/2b92c26f-3ebc-4374-877e-289e076c2da9.jpg
-  alt: Stone staircase leading down to the cellar
-- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
-  alt: Wine glasses at the tasting
 bokunProductId: 874269
 fecha_actualizacion: '2026-10-24'
 ---

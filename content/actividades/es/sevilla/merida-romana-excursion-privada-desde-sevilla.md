@@ -71,22 +71,28 @@ keywords:
 - excursion merida desde sevilla
 - teatro romano merida excursion
 - merida excursion privada
-imagen: https://imgcdn.bokun.tools/d60768e1-c4b5-456d-85f6-4a3add3d44c3.jpg
-imagenAlt: Escena del teatro romano de Mérida
+imagen: /images/actividades/sevilla/merida/merida-teatro-romano.webp
+imagenAlt: Escena columnada del teatro romano de Mérida bajo un cielo azul intenso
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/merida/merida-teatro-graderio.webp
+  alt: Graderío y escena del teatro romano de Mérida con visitantes
+- src: /images/actividades/sevilla/proveedor-934218/prov-teatro-contrapicado.webp
+  alt: Columnas del frente escénico del teatro romano de Mérida vistas desde abajo
+- src: /images/actividades/sevilla/merida/merida-puente-romano.webp
+  alt: Puente romano de Mérida sobre el río Guadiana con sus arcos reflejados en el agua
+- src: /images/actividades/sevilla/proveedor-934218/prov-arcos-romanos.webp
+  alt: Pasillo abovedado de piedra en el conjunto romano de Mérida
+- src: /images/actividades/sevilla/merida/merida-templo-diana.webp
+  alt: Templo de Diana en el centro de Mérida, con sus columnas corintias
+- src: https://imgcdn.bokun.tools/d60768e1-c4b5-456d-85f6-4a3add3d44c3.jpg
+  alt: Escena del teatro romano de Mérida
 - src: https://imgcdn.bokun.tools/b0d66d2b-004a-465c-8400-d292bf8b6ea0.jpg
   alt: Columnas del templo de Diana en Mérida
 - src: https://imgcdn.bokun.tools/0e44da0c-5ecf-46a0-be29-b0767478dccf.jpg
   alt: Viajeros en una galería romana abovedada
-- src: https://imgcdn.bokun.tools/5578f96d-27bd-4cd3-9255-73222e54d1c1.jpeg
-  alt: Columnas romanas contra el cielo
-- src: https://imgcdn.bokun.tools/4f59ed05-d950-4eb2-bc87-c4fe48a7835a.jpeg
-  alt: Arcos de una construcción romana en Mérida
-- src: https://imgcdn.bokun.tools/a4a5a20c-66ae-4c76-ac3c-4f2e3d112b1f.jpeg
-  alt: Arcos de piedra de las ruinas romanas
 bokunProductId: 934218
 fecha_actualizacion: '2026-10-24'
 ---

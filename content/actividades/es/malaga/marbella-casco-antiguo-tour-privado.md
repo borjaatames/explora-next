@@ -71,22 +71,28 @@ keywords:
 - visita guiada marbella
 - plaza de los naranjos marbella
 - marbella a pie con guia
-imagen: https://imgcdn.bokun.tools/e4499d7e-4baa-4b0c-b557-583dcdcee87c.jpg
-imagenAlt: Calle del casco antiguo de Marbella con buganvillas y terrazas
+imagen: /images/actividades/malaga/marbella/marbella-plaza-naranjos.webp
+imagenAlt: Plaza de los Naranjos de Marbella con naranjos, terrazas y casas blancas
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/70fc5113-947e-4b95-91fc-fd6176555065.jpg
-  alt: Marbella con la sierra y La Concha al fondo
+- src: /images/actividades/malaga/marbella/marbella-fuente-plaza.webp
+  alt: Fuente renacentista en la Plaza de los Naranjos de Marbella
+- src: /images/actividades/malaga/marbella/marbella-calle-buganvilla.webp
+  alt: Calle blanca del casco antiguo de Marbella con buganvilla
+- src: /images/actividades/malaga/marbella/marbella-callejon-macetas.webp
+  alt: Callejón del casco antiguo de Marbella con macetas y faroles
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-03.webp
   alt: La Concha de Marbella sobre Puerto Banús
-- src: https://imgcdn.bokun.tools/68724360-b361-4d5a-8b76-27160c8319cc.jpg
-  alt: Playa con palmeras al amanecer
-- src: https://imgcdn.bokun.tools/e68cbf0b-36f5-494f-92b4-54e0abdf4650.jpg
-  alt: Pasarela de madera sobre el mar
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-02.webp
   alt: Puerto Banús al atardecer
+- src: https://imgcdn.bokun.tools/e4499d7e-4baa-4b0c-b557-583dcdcee87c.jpg
+  alt: Calle del casco antiguo de Marbella con buganvillas y terrazas
+- src: https://imgcdn.bokun.tools/70fc5113-947e-4b95-91fc-fd6176555065.jpg
+  alt: Marbella con la sierra y La Concha al fondo
+- src: https://imgcdn.bokun.tools/68724360-b361-4d5a-8b76-27160c8319cc.jpg
+  alt: Playa con palmeras al amanecer
 bokunProductId: 1129320
 fecha_actualizacion: '2026-10-24'
 ---

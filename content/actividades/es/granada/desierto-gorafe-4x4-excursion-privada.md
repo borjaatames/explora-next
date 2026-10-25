@@ -74,22 +74,26 @@ keywords:
 - excursion gorafe desde granada
 - geoparque de granada
 - tour 4x4 granada
-imagen: https://imgcdn.bokun.tools/4756f33d-ff97-441a-9268-1f0f8ae55b2c.png
-imagenAlt: Barrancos de tonos rojizos en el desierto de Gorafe
+imagen: /images/actividades/granada/gorafe/gorafe-canon-badlands.webp
+imagenAlt: Cañón de Gorafe con sus paredes de badlands y el pueblo en el fondo del valle, entre olivos
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6fdbf092-d354-43eb-bbd5-5d244955b5b0.png
-  alt: Todoterreno en una pista del desierto de Gorafe
+- src: /images/actividades/granada/gorafe/gorafe-hoya-conquil.webp
+  alt: Barranco de la Hoya del Conquil en Gorafe, con laderas erosionadas y bancales
+- src: /images/actividades/granada/proveedor-1036173/prov-4x4-gorafe.webp
+  alt: Todoterreno en los badlands del desierto de Gorafe
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-65.webp
+  alt: Dolmen 65 del parque megalítico de Gorafe, con su losa de cubierta
+- src: /images/actividades/granada/gorafe/gorafe-canon-panoramica.webp
+  alt: Panorámica del cañón de Gorafe con olivares en el fondo del valle
+- src: https://imgcdn.bokun.tools/4756f33d-ff97-441a-9268-1f0f8ae55b2c.png
+  alt: Barrancos de tonos rojizos en el desierto de Gorafe
 - src: https://imgcdn.bokun.tools/9602bf73-1cc4-4234-9b21-b8883b473185.png
   alt: Lomas de arcilla erosionadas en Gorafe
 - src: https://imgcdn.bokun.tools/5a76b49f-2ca8-43f6-8ac1-11d5a34a8d27.png
   alt: Paredes estratificadas de tonos rojizos
-- src: https://imgcdn.bokun.tools/cb5fc6e7-7e08-47fc-845c-b4dd3efac624.png
-  alt: Persona sobre una cresta del barranco
-- src: https://imgcdn.bokun.tools/97a16551-4722-436b-b761-a4dc6143fa91.png
-  alt: Atardecer sobre el desierto de Gorafe
 bokunProductId: 1036173
 fecha_actualizacion: '2026-10-24'
 ---

@@ -73,26 +73,32 @@ keywords:
 - catamaran fiesta barcelona
 - despedida barco barcelona
 - barco con dj barcelona
-imagen: https://imgcdn.bokun.tools/a3b7e68f-7523-4f2e-beff-79804ea59b20.jpeg
-imagenAlt: Catamarán lleno de gente navegando frente a Barcelona
+imagen: /images/actividades/barcelona/proveedor-784025/prov-catamaran-cubierta.webp
+imagenAlt: Pasajeros en la cubierta del catamarán navegando frente a Barcelona
 ratingProveedor: 4.9
 numeroOpiniones: 806
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/costa/catamaran-hotel-w.webp
+  alt: Catamarán navegando frente al hotel W y la costa de Barcelona
+- src: /images/actividades/barcelona/proveedor-784025/prov-fiesta-a-bordo.webp
+  alt: Fiesta a bordo del catamarán con el mar de fondo
+- src: /images/actividades/barcelona/costa/barceloneta-anochecer.webp
+  alt: Playa de la Barceloneta al anochecer con el hotel W
+- src: /images/actividades/barcelona/costa/skyline-port-olimpic.webp
+  alt: Torres del Port Olímpic y playa de Barcelona con mar en calma
+- src: /images/actividades/barcelona/costa/frente-maritimo-atardecer.webp
+  alt: Frente marítimo de Barcelona y las torres del Port Olímpic al atardecer
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 - src: https://imgcdn.bokun.tools/59ed3ab1-dd6c-4db9-b63d-a3c9f4955deb.png
   alt: Fiesta en la cubierta con el Hotel W al fondo
 - src: https://imgcdn.bokun.tools/657018cd-e273-48ac-aac5-76f626a63e28.png
   alt: Grupo posando en el barco con el mar detrás
-- src: https://imgcdn.bokun.tools/99e7cabe-df46-4f66-969f-493761ea3ab7.jpeg
-  alt: Gente bailando en la cubierta en alta mar
 - src: https://imgcdn.bokun.tools/75901bdd-5a3d-4c91-ba4b-c37fc390f5e6.png
   alt: Baile en la cubierta decorada con banderines
-- src: https://imgcdn.bokun.tools/8a13efb2-ae77-4d3f-940b-53a262e5c5bd.jpeg
-  alt: DJ pinchando a bordo
-- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla
 bokunProductId: 784025
 fecha_actualizacion: '2026-10-24'
 ---

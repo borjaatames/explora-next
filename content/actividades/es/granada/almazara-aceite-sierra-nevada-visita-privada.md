@@ -66,22 +66,24 @@ keywords:
 - cata aceite granada
 - aceite sierra nevada
 - oleoturismo granada
-imagen: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
-imagenAlt: Olivar con las cumbres de Sierra Nevada al fondo
+imagen: /images/actividades/granada/almazara/almazara-aceite-saliendo.webp
+imagenAlt: Aceite de oliva recién extraído cayendo de un caño metálico en la almazara
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/granada/almazara/olivos-sierra-nevada.webp
+  alt: Olivar en la provincia de Granada con Sierra Nevada al fondo
+- src: /images/actividades/granada/almazara/almazara-centrifuga-aceite.webp
+  alt: Aceite de oliva saliendo de la centrífuga en una almazara
+- src: /images/actividades/granada/almazara/aceitunas-recien-cosechadas.webp
+  alt: Aceitunas verdes y moradas recién cosechadas listas para la almazara
+- src: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
+  alt: Olivar con las cumbres de Sierra Nevada al fondo
 - src: https://imgcdn.bokun.tools/ffbf69a6-a75f-4e61-a13d-9a24384c0519.jpeg
   alt: Cata de aceite de oliva en un plato
 - src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
   alt: Aceitunas recién recogidas cayendo al remolque
-- src: https://imgcdn.bokun.tools/bc6adcf0-7fde-4f35-b5ca-9d10a2fff973.jpeg
-  alt: Grupo de visitantes en el olivar
-- src: https://imgcdn.bokun.tools/0066ec80-eb22-4f1c-a215-70d0faa9b594.jpeg
-  alt: Olivos centenarios en el campo
-- src: https://imgcdn.bokun.tools/13123b35-043c-4db5-ae47-fa70e5cb0f3f.jpeg
-  alt: Paseo entre los olivos
 bokunProductId: 938052
 fecha_actualizacion: '2026-10-24'
 ---

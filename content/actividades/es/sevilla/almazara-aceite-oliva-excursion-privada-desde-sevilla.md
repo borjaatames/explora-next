@@ -69,24 +69,26 @@ keywords:
 - visita almazara aceite sevilla
 - cata aceite de oliva sevilla
 - basilippo visita
-imagen: https://imgcdn.bokun.tools/2a98a91d-6d36-461e-b121-05c406794bfb.jpg
-imagenAlt: Antiguo molino de piedra en la almazara
+imagen: /images/actividades/sevilla/almazara/almazara-depositos-acero.webp
+imagenAlt: Bodega de una almazara con depósitos de acero inoxidable para el aceite de oliva
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/almazara/olivar-andaluz.webp
+  alt: Olivares extendiéndose por las lomas de la campiña andaluza bajo un cielo despejado
+- src: /images/actividades/sevilla/almazara/olivar-cordoba.webp
+  alt: Olivar centenario en la campiña de Córdoba bajo un cielo azul
+- src: /images/actividades/sevilla/almazara/aceitunas-cosecha.webp
+  alt: Manos sosteniendo aceitunas verdes y moradas recién cosechadas
+- src: https://imgcdn.bokun.tools/2a98a91d-6d36-461e-b121-05c406794bfb.jpg
+  alt: Antiguo molino de piedra en la almazara
 - src: https://imgcdn.bokun.tools/d27324af-8d85-4d69-9769-c70fdfa0eda4.jpg
   alt: Botella de aceite de oliva sobre una mesa entre olivares
 - src: https://imgcdn.bokun.tools/023d3e31-a195-420b-a862-34ef333e6357.jpg
   alt: Grupo entre olivos con el guía
-- src: https://imgcdn.bokun.tools/331f91db-2538-4328-9aeb-da8df155a744.jpg
-  alt: Visitantes en la sala de producción de la almazara
-- src: https://imgcdn.bokun.tools/e3e56bde-3f35-4cb0-8f45-d9d18af1d060.jpg
-  alt: Olivar al atardecer
-- src: https://imgcdn.bokun.tools/cc7fdaab-6f5a-4b28-bb33-84ce39f6de29.jpg
-  alt: Aceitunas en la rama
 bokunProductId: 860682
 fecha_actualizacion: '2026-10-24'
 ---

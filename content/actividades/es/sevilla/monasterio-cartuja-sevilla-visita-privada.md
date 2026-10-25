@@ -70,22 +70,24 @@ keywords:
 - cartuja sevilla visita privada
 - santa maria de las cuevas sevilla
 - visita cartuja pickman
-imagen: https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg
-imagenAlt: El Monasterio de la Cartuja de Sevilla visto desde sus jardines
+imagen: /images/actividades/sevilla/cartuja/cartuja-fachada-estanque.webp
+imagenAlt: Monasterio de la Cartuja de Sevilla reflejado en el estanque bajo un cielo azul
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/cartuja/cartuja-claustrillo-mudejar.webp
+  alt: Claustrillo mudéjar de la Cartuja de Sevilla con arcos, azulejos y fuente central
+- src: /images/actividades/sevilla/cartuja/cartuja-boveda-sala-capitulo.webp
+  alt: Bóveda dorada de la Sala Capitular del Monasterio de la Cartuja
+- src: /images/actividades/sevilla/cartuja/cartuja-hornos-pickman.webp
+  alt: Chimeneas de los hornos de la antigua fábrica de cerámica Pickman en la Cartuja
+- src: https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg
+  alt: El Monasterio de la Cartuja de Sevilla visto desde sus jardines
 - src: https://imgcdn.bokun.tools/5a87923c-8c53-4fb0-9e42-c95cf7319b98.jpg
   alt: Claustro con arcos de ladrillo del monasterio
 - src: https://imgcdn.bokun.tools/fd1548ee-930f-4908-a2c0-e8a19da5c5c4.jpg
   alt: Hornos-chimenea de la antigua fábrica de loza
-- src: https://imgcdn.bokun.tools/3fe66bc8-2a8f-4082-a963-1588beea11df.jpg
-  alt: Portada del monasterio de la Cartuja
-- src: https://imgcdn.bokun.tools/c47a99d8-b13e-45f3-9d9e-ab40f56b4b0f.jpg
-  alt: Visitantes ante una portada decorada con azulejos
-- src: https://imgcdn.bokun.tools/edef3c47-3baf-4663-bb99-81747646b2df.jpg
-  alt: Grupo atento a las explicaciones del guía
 bokunProductId: 933450
 fecha_actualizacion: '2026-10-24'
 ---

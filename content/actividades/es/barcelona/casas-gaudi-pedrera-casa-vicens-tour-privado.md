@@ -81,20 +81,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/gaudi/pedrera-fachada.webp
+  alt: Fachada ondulada de La Pedrera (Casa Milà) en el paseo de Gràcia
+- src: /images/actividades/barcelona/gaudi/pedrera-esquina.webp
+  alt: La Pedrera vista desde la esquina del paseo de Gràcia
+- src: /images/actividades/barcelona/gaudi/pedrera-azotea-chimeneas.webp
+  alt: Chimeneas de la azotea de La Pedrera
+- src: /images/actividades/barcelona/gaudi/casa-vicens-carolines.webp
+  alt: Casa Vicens desde el carrer de les Carolines, en Gràcia
 - src: https://imgcdn.bokun.tools/2bc8f51d-cce3-4167-81f9-a75a96f109df.jpg
   alt: Chimeneas de la azotea de La Pedrera
 - src: https://imgcdn.bokun.tools/c5bb093a-6cc4-4ff2-a140-96c3f281a85f.jpg
   alt: Familia ante la fachada de la Casa Milà
 - src: https://imgcdn.bokun.tools/67710160-b202-46a8-b5e8-d62377ad2fa7.jpg
   alt: Patio interior de La Pedrera visto desde abajo
-- src: https://imgcdn.bokun.tools/341573b6-34c0-45b2-b891-32727f714d7d.jpg
-  alt: Fachada de azulejos verdes y rojos de la Casa Vicens
-- src: https://imgcdn.bokun.tools/147c97b3-45a8-4b44-a757-ddfbffeecfcf.jpg
-  alt: Viajeras en la azotea de La Pedrera
-- src: https://imgcdn.bokun.tools/d87415ed-705f-408f-9852-f003c8c2277f.jpg
-  alt: Comedor de época con gramófono en el interior de una casa modernista
-- src: https://imgcdn.bokun.tools/e62d59f2-93bc-442f-9113-45037c8e0a8a.jpg
-  alt: Ventanas modernistas de la fachada de la Casa Batlló
 bokunProductId: 245313
 fecha_actualizacion: '2026-10-24'
 ---

@@ -83,20 +83,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
+  alt: Paella valenciana con pollo, judía verde y caracoles en un restaurante de Valencia
+- src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
+  alt: Paella cociéndose a fuego de leña con una rama de romero
+- src: /images/actividades/valencia/lonja-paella/lonja-fachada.webp
+  alt: Fachada gótica de la Lonja de la Seda de Valencia
+- src: /images/actividades/valencia/lonja-paella/lonja-boveda.webp
+  alt: Bóveda de crucería de la sala de contratación de la Lonja de la Seda
 - src: https://imgcdn.bokun.tools/845a68a6-f85c-4758-83e8-c8a888dfcbaa.jpg
   alt: Guía y viajeros en la sala de columnas de la Lonja de la Seda
 - src: https://imgcdn.bokun.tools/7f9e0603-c79f-474d-a8b6-82bbaff29cd0.jpg
   alt: Interior barroco de la iglesia de San Nicolás
 - src: https://imgcdn.bokun.tools/79c75059-2ad2-4bff-9438-f5e4ef6d1060.jpg
   alt: Grupo comiendo paella en un restaurante
-- src: https://imgcdn.bokun.tools/722125d8-ee09-45dc-9ecf-a0d9fee89e1f.jpg
-  alt: Paellera de paella valenciana sobre la mesa
-- src: https://imgcdn.bokun.tools/99b9c3c8-1239-4fbe-9084-ab905abafe25.jpg
-  alt: Viajeros ante la fachada barroca del palacio del Marqués de Dos Aguas
-- src: https://imgcdn.bokun.tools/e598b6d3-5f45-4fe6-a748-79a71baad1c8.jpg
-  alt: Visitantes ante un puesto de jamones en el Mercado Central
-- src: https://imgcdn.bokun.tools/c556d715-9dc5-45ff-b2a6-4b457051a74d.jpg
-  alt: Dos amigas tomando horchata
 bokunProductId: 967813
 fecha_actualizacion: '2026-10-24'
 ---

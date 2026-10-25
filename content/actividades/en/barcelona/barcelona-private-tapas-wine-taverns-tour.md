@@ -73,26 +73,26 @@ keywords:
 - barcelona tapas crawl
 - traditional taverns barcelona
 - private food tour barcelona
-imagen: https://imgcdn.bokun.tools/d70be2b6-caae-4802-a6d2-498482d2c0fb.jpg
-imagenAlt: Ham and quail-egg pintxos served at a bar
+imagen: /images/actividades/barcelona/tabernas/bodega-montferry.webp
+imagenAlt: Bar counter of Bodega Montferry, a neighbourhood tavern in Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 61
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/tabernas/bar-versalles-barra.webp
+  alt: Old wooden bar counter of Bar Versalles in Sant Andreu
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: Table with assorted tapas, ham and drinks
+- src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
+  alt: Pintxos on bread on a bar counter
+- src: https://imgcdn.bokun.tools/d70be2b6-caae-4802-a6d2-498482d2c0fb.jpg
+  alt: Ham and quail-egg pintxos served at a bar
 - src: https://imgcdn.bokun.tools/bf520257-b70e-46a6-a931-b37c2b65b733.jpg
   alt: Friends toasting with red wine in a tapas bar
 - src: https://imgcdn.bokun.tools/f08f4556-0af9-4224-8a03-26ef8e490fb5.jpg
   alt: Pintxos counter in a Barcelona tavern
-- src: https://imgcdn.bokun.tools/56f3802f-7fa6-4718-a1f5-08d9c9861e61.jpg
-  alt: Pan con tomate and patatas bravas with vermouth
-- src: https://imgcdn.bokun.tools/6851e295-62aa-44e9-9238-15ef7e90dd27.jpg
-  alt: Couple tasting tapas at the bar
-- src: https://imgcdn.bokun.tools/97740610-0208-42b0-bdae-c830d175af6a.jpg
-  alt: Ham montaditos with olives
-- src: https://imgcdn.bokun.tools/e71a32c3-6c2e-4800-b909-ce7695865463.jpg
-  alt: Travellers with glasses of cava in a tavern
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
 ---

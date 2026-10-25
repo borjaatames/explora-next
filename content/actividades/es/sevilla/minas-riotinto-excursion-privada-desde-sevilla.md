@@ -74,22 +74,22 @@ keywords:
 - excursion rio tinto desde sevilla
 - riotinto marte excursion
 - excursion privada riotinto
-imagen: https://imgcdn.bokun.tools/3a7087ef-a6fd-48cd-b667-661eea61f2a4.jpg
-imagenAlt: Orillas ocres y agua rojiza del río Tinto
+imagen: /images/actividades/sevilla/riotinto/riotinto-corta-atalaya.webp
+imagenAlt: Corta Atalaya en Minas de Riotinto, gigantesca mina a cielo abierto con terrazas ocres y lago al fondo
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/riotinto/riotinto-rio-tinto-rojo.webp
+  alt: Aguas rojas del río Tinto entre lomas de pinos junto a El Campillo
+- src: /images/actividades/sevilla/riotinto/riotinto-tren-minero.webp
+  alt: Tren turístico minero circulando junto al río Tinto
+- src: https://imgcdn.bokun.tools/3a7087ef-a6fd-48cd-b667-661eea61f2a4.jpg
+  alt: Orillas ocres y agua rojiza del río Tinto
 - src: https://imgcdn.bokun.tools/ca289211-0c1d-4b3f-9ed2-a32ffeafb152.jpg
   alt: Aguas rojas y ocres del río Tinto
 - src: https://imgcdn.bokun.tools/ce1a3953-46df-4eb2-b635-65c0fc1ca972.jpg
   alt: Viajeros junto a las aguas rojizas del río Tinto
-- src: https://imgcdn.bokun.tools/0e5b77c9-a903-4780-ad03-f839dab09941.jpg
-  alt: Charca de agua rojiza en el paisaje minero
-- src: https://imgcdn.bokun.tools/b2286f43-034d-4821-b972-117dbd11f385.jpg
-  alt: Castillete minero entre la vegetación
-- src: https://imgcdn.bokun.tools/3bcca443-a126-4ba5-abc6-156c331a5e43.jpg
-  alt: Tierra roja de la zona minera
 bokunProductId: 933463
 fecha_actualizacion: '2026-10-24'
 ---

@@ -71,24 +71,30 @@ keywords:
 - antequera olive oil tasting
 - antequera private tour
 - olive oil tour malaga
-imagen: https://imgcdn.bokun.tools/63381cef-d9a8-4266-b490-51abcf38e89c.jpeg
-imagenAlt: View of Antequera with the alcazaba and the Peña de los Enamorados behind
+imagen: /images/actividades/malaga/antequera/antequera-pena-enamorados-olivar.webp
+imagenAlt: Olive grove at the foot of the Peña de los Enamorados in the Antequera plain
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/b3167ac5-dddc-44c4-8120-dcfbc9c50e06.jpeg
-  alt: Walls of Antequera's alcazaba with a tree in blossom and the Peña de los Enamorados
-- src: https://imgcdn.bokun.tools/fc01c14c-6452-42a8-9f6d-9ba096155115.jpeg
-  alt: Olive oil tasting in glasses
+- src: /images/actividades/malaga/antequera/antequera-alcazaba.webp
+  alt: Antequera Alcazaba above the town with the Peña de los Enamorados behind
+- src: /images/actividades/malaga/proveedor-936409/prov-alcazaba-pena.webp
+  alt: Antequera Alcazaba walls with the Peña de los Enamorados behind
+- src: /images/actividades/malaga/antequera/antequera-colegiata.webp
+  alt: Renaissance façade of the Royal Collegiate Church of Santa María la Mayor in Antequera
+- src: /images/actividades/malaga/proveedor-936409/prov-antequera-vista.webp
+  alt: View of Antequera with the Alcazaba and the Collegiate Church
+- src: /images/actividades/malaga/antequera/antequera-dolmen-menga.webp
+  alt: The Peña de los Enamorados seen from inside the Dolmen de Menga
+- src: /images/actividades/malaga/proveedor-936409/prov-cata-aceite.webp
+  alt: Olive oil tasting at the mill
 - src: https://imgcdn.bokun.tools/7f6225d7-a5f7-44ab-b5e0-32a063d7bed2.jpeg
   alt: Olive grove at sunset
 - src: https://imgcdn.bokun.tools/70a8a117-91f4-4601-8610-f997dad86aa0.jpeg
   alt: Tasting table with oils, tomatoes and vegetables
 - src: https://imgcdn.bokun.tools/54eb7c5e-c8cd-4e5b-b9cb-2742c19d52c1.jpeg
   alt: Olive oil drizzled on bread
-- src: https://imgcdn.bokun.tools/0d41a60f-6725-4d35-8309-725fdf97923a.jpeg
-  alt: White farmhouse among green fields in the Antequera area
 bokunProductId: 936409
 fecha_actualizacion: '2026-10-24'
 ---

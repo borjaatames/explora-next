@@ -20,3 +20,7 @@ Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--antequera-dolmenes\` 
 | torcal-04.webp | Wikimedia Commons | Jebulon · File:El Torcal de Antequera karst sculpture Andalusia Spain.jpg | CC0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--torcal\` (23 oct 2026).
+- `antequera-alcazaba.webp` — Falk2 · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:S01_889_Antequera%2C_Alcazaba%2C_Pe%C3%B1a_de_los_Enamorados.jpg
+- `antequera-colegiata.webp` — brunobord · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Real_Colegiata_de_Santa_Mar%C3%ADa_la_Mayor.jpg
+- `antequera-dolmen-menga.webp` — Mentxuwiki · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Pe%C3%B1a_de_los_Enamorados_desde_Dolmen_de_Menga.jpg
+- `antequera-pena-enamorados-olivar.webp` — Juandev · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Pe%C3%B1a_de_los_Enamorados_%28004%29.jpg

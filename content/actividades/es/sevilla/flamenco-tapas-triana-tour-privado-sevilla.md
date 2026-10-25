@@ -70,26 +70,30 @@ keywords:
 - tour flamenco tapas triana
 - flamenco triana con tapas
 - tour privado flamenco sevilla
-imagen: https://imgcdn.bokun.tools/7164ef1d-5cb1-4215-be3a-bfe56e0f788b.jpg
-imagenAlt: Bailaora flamenca con vestido rojo en el escenario
+imagen: /images/actividades/sevilla/triana/triana-puente-isabel-ii-noche.webp
+imagenAlt: Puente de Isabel II iluminado de noche reflejado en el Guadalquivir
 ratingProveedor: 5.0
 numeroOpiniones: 18
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/triana/triana-calle-betis.webp
+  alt: Fachadas de colores de la calle Betis a orillas del Guadalquivir en Triana
+- src: /images/actividades/sevilla/triana/triana-mercado.webp
+  alt: Puesto de frutas y verduras en el Mercado de Triana
+- src: /images/actividades/sevilla/triana/flamenco-sevilla-baile.webp
+  alt: Bailaora con mantón y traje de lunares durante un espectáculo flamenco en Sevilla
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: Puente de Triana iluminado al atardecer
+- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
+  alt: Casas de colores de la calle Betis en Triana
+- src: https://imgcdn.bokun.tools/7164ef1d-5cb1-4215-be3a-bfe56e0f788b.jpg
+  alt: Bailaora flamenca con vestido rojo en el escenario
 - src: https://imgcdn.bokun.tools/62018342-e76d-4311-953f-341570253612.jpg
   alt: Bailaora con mantón y guitarrista
 - src: https://imgcdn.bokun.tools/dbe1fa35-64bc-4604-a615-96d8a2667419.jpg
   alt: Copa de vino tinto y tapas
-- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
-  alt: Puente de Triana iluminado al atardecer
-- src: https://imgcdn.bokun.tools/f7ab849b-2f4f-4d4a-b610-7fe7245410dd.jpg
-  alt: Grupo brindando en un bar de tapas
-- src: https://imgcdn.bokun.tools/101ffcf4-2c9e-4b1f-bdb3-37a7ff8fc898.jpg
-  alt: Tapas de pan con jamón y cerveza
-- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
-  alt: Casas de colores de la calle Betis en Triana
 bokunProductId: 793767
 fecha_actualizacion: '2026-10-24'
 ---

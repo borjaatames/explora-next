@@ -68,26 +68,28 @@ keywords:
 - silk exchange guided tour
 - valencia horchata tour
 - private guide valencia
-imagen: https://imgcdn.bokun.tools/db0a411f-c74a-469e-945a-8783a0a7282b.jpg
-imagenAlt: The Serranos Towers, the old gate in Valencia's city walls
+imagen: /images/actividades/valencia/lonja-horchata/lonja-fachada.webp
+imagenAlt: Gothic facade of the Silk Exchange in Valencia
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/lonja-horchata/lonja-columnas.webp
+  alt: Twisted columns and vaults of the Silk Exchange trading hall
+- src: /images/actividades/valencia/lonja-horchata/horchata-farton.webp
+  alt: Glasses of horchata with a farton pastry at a Valencian horchatería
+- src: /images/actividades/valencia/lonja-horchata/fartons-mostrador.webp
+  alt: Counter of fartons and pastries at Horchatería de Santa Catalina
+- src: /images/actividades/valencia/centro/mercado-central-interior.webp
+  alt: Art Nouveau interior of the Central Market
+- src: /images/actividades/valencia/centro/lonja-naranjos.webp
+  alt: The orange-tree courtyard of the Silk Exchange
+- src: https://imgcdn.bokun.tools/db0a411f-c74a-469e-945a-8783a0a7282b.jpg
+  alt: The Serranos Towers, the old gate in Valencia's city walls
 - src: https://imgcdn.bokun.tools/a7410381-c1ed-4f02-a910-05989a531303.jpg
   alt: Hall of twisted columns in the Silk Exchange
 - src: https://imgcdn.bokun.tools/4d616d23-91ad-40eb-a672-e0bdaa3eac3c.jpg
   alt: Horchata with a fartón pastry at a horchatería
-- src: /images/actividades/valencia/centro/mercado-central-interior.webp
-  alt: Art Nouveau interior of the Central Market
-- src: https://imgcdn.bokun.tools/a394f104-16c6-4a75-8158-ebce649bda52.jpg
-  alt: Travellers with their guide in Plaza de la Virgen
-- src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: The orange-tree courtyard of the Silk Exchange
-- src: https://imgcdn.bokun.tools/9accb1fe-f21a-4571-b47d-2e5cc50cdf0e.jpg
-  alt: Baroque facade of the Marqués de Dos Aguas palace
-- src: https://imgcdn.bokun.tools/e23aac9e-1188-4a8a-9d0d-cf10f762da9e.jpg
-  alt: Valencia Central Market at dusk
 bokunProductId: 837004
 fecha_actualizacion: '2026-10-24'
 ---

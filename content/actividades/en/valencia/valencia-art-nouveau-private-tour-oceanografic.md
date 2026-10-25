@@ -79,20 +79,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/modernista/estacion-norte-fachada.webp
+  alt: Modernist facade of Valencia North Station
+- src: /images/actividades/valencia/modernista/estacion-norte-vestibulo.webp
+  alt: Wooden ceiling and mosaics in the North Station hall
+- src: /images/actividades/valencia/modernista/mercado-colon-fachada.webp
+  alt: Modernist brick facade of the Mercado de Colón
+- src: /images/actividades/valencia/modernista/mercado-colon-interior.webp
+  alt: Iron and glass roof inside the Mercado de Colón
+- src: /images/actividades/valencia/modernista/oceanografic.webp
+  alt: White shell-roofed Oceanogràfic building reflected in the water
 - src: https://imgcdn.bokun.tools/32b12931-23ba-4720-8c20-b4b15bc48dd1.jpg
   alt: Group under the mosaic ceiling of Estación del Norte
 - src: https://imgcdn.bokun.tools/2e838d3f-6186-4fb6-aed9-23a7595bea97.jpg
   alt: Group with their guide at Valencia's bullring
 - src: https://imgcdn.bokun.tools/58379aeb-43eb-4c6f-bbe0-c8f872ae83c6.jpg
   alt: Art Nouveau building with enclosed balconies in central Valencia
-- src: https://imgcdn.bokun.tools/bcfdab16-9724-4620-b279-8b19eca6609a.jpg
-  alt: Travellers at the City of Arts and Sciences
-- src: https://imgcdn.bokun.tools/7f622791-38ce-4db5-b4ae-6f1fb775c7a0.jpg
-  alt: Entrance to Valencia's Oceanogràfic
-- src: https://imgcdn.bokun.tools/4757e6d2-ede1-4e9d-94bc-9a3c910882fe.jpg
-  alt: Visitor in the aquarium tunnel with fish overhead
-- src: https://imgcdn.bokun.tools/c58078f4-a848-4079-9bed-39a62674dd6d.jpg
-  alt: Group in front of the bullring facade
 bokunProductId: 1250720
 fecha_actualizacion: '2026-10-24'
 ---

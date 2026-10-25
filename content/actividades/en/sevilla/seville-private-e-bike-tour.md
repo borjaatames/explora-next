@@ -78,26 +78,32 @@ keywords:
 - seville e-bike tour
 - electric bike tour seville
 - seville private cycling tour
-imagen: https://imgcdn.bokun.tools/dba87a8e-0f8a-4bee-86c8-1025b5b81554.jpg
-imagenAlt: Two cyclists in helmets riding through Seville
+imagen: /images/actividades/sevilla/bici/bici-centro-sevilla.webp
+imagenAlt: Cyclists riding through a cobbled square in central Seville
 ratingProveedor: 5.0
 numeroOpiniones: 6
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/2bc23911-fe3d-4bbc-b866-685ebe874d0a.jpg
-  alt: Cyclist by the riverside railing
+- src: /images/actividades/sevilla/bici/bici-plaza-nueva-sevici.webp
+  alt: Sevici public bikes in front of the City Hall on Plaza Nueva, Seville
+- src: /images/actividades/sevilla/bici/bici-carril-parque.webp
+  alt: Green cycle lane lined with trees in Los Bermejales park, Seville
+- src: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+  alt: Plaza de España in Seville with its tower reflected in the canal
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp
   alt: Canal and north tower of Plaza de España
-- src: https://imgcdn.bokun.tools/c0f6fc3d-4ecb-4bf0-b25d-731f54eef86c.jpg
-  alt: Travellers on a tiled bench in Plaza de España
 - src: /images/actividades/sevilla/triana/triana-pexels-16778487.webp
   alt: Triana riverfront across the Guadalquivir
-- src: https://imgcdn.bokun.tools/8a8ab7f5-0a50-425d-93fd-832b8862c9d0.jpg
-  alt: Plaza de España arcade
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
   alt: Metropol Parasol over Plaza de la Encarnación
+- src: https://imgcdn.bokun.tools/dba87a8e-0f8a-4bee-86c8-1025b5b81554.jpg
+  alt: Two cyclists in helmets riding through Seville
+- src: https://imgcdn.bokun.tools/2bc23911-fe3d-4bbc-b866-685ebe874d0a.jpg
+  alt: Cyclist by the riverside railing
+- src: https://imgcdn.bokun.tools/c0f6fc3d-4ecb-4bf0-b25d-731f54eef86c.jpg
+  alt: Travellers on a tiled bench in Plaza de España
 bokunProductId: 896365
 fecha_actualizacion: '2026-10-24'
 ---

@@ -68,16 +68,28 @@ keywords:
 - subbetica from cordoba
 - private day trip from cordoba
 - cordoba villages guided tour
-imagen: https://imgcdn.bokun.tools/ffac9c5c-00cb-49f4-86ee-9871801787ed.jpeg
-imagenAlt: Whitewashed street overlooking the valley in a Subbética village
+imagen: /images/actividades/cordoba/subbetica/priego-fuente-del-rey.webp
+imagenAlt: Fuente del Rey in Priego de Córdoba with its central sculpture group
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/79403472-95ca-4462-a144-9067f4b9f24d.jpeg
-  alt: Castle tower above a landscape of olive groves
-- src: https://imgcdn.bokun.tools/8010df94-8539-41f5-a12b-839dcd5f0372.jpeg
-  alt: White street with flowerpots
+- src: /images/actividades/cordoba/subbetica/priego-balcon-adarve.webp
+  alt: Balcón del Adarve in Priego de Córdoba overlooking olive groves
+- src: /images/actividades/cordoba/proveedor-937837/prov-torre-olivar.webp
+  alt: Church tower in a Subbética village surrounded by olive groves
+- src: /images/actividades/cordoba/subbetica/zuheros-castillo.webp
+  alt: Zuheros castle above the white village, surrounded by olive groves
+- src: /images/actividades/cordoba/proveedor-937837/prov-calle-macetas.webp
+  alt: Whitewashed street with flowerpots in the Córdoba Subbética
+- src: /images/actividades/cordoba/subbetica/iznajar-embalse.webp
+  alt: Iznájar on its hilltop above the reservoir
+- src: /images/actividades/cordoba/proveedor-937837/prov-mirador.webp
+  alt: Viewpoint over the valley in a white village of the Subbética
+- src: /images/actividades/cordoba/proveedor-937837/prov-patio-flores.webp
+  alt: White façade covered in flowerpots in the Subbética
+- src: /images/actividades/cordoba/proveedor-937837/prov-zuheros.webp
+  alt: Zuheros and its castle on the rock
 - src: https://imgcdn.bokun.tools/4e7a444d-75ed-45c5-be8e-6bf675343820.jpeg
   alt: Blue pots with geraniums on a whitewashed wall
 - src: https://imgcdn.bokun.tools/45b94e9f-2420-4e47-984c-eb991a68f572.jpeg

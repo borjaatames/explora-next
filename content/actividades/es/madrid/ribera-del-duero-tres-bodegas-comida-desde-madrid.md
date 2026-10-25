@@ -87,20 +87,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/ribera-del-duero/lechazo-asado.webp
+  alt: Cocinero trinchando lechazo asado recién salido del horno
+- src: /images/actividades/madrid/proveedor-805387/prov-vinedo-otono.webp
+  alt: Viñedo de Ribera del Duero con las hojas de otoño
+- src: /images/actividades/madrid/ribera-del-duero/lechazo-horno-lena.webp
+  alt: Cazuela de lechazo en el horno de leña de un asador de Aranda de Duero
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-desde-penafiel.webp
+  alt: Viñedos de la Ribera del Duero vistos desde el castillo de Peñafiel
+- src: /images/actividades/madrid/ribera-del-duero/sala-barricas-ribera.webp
+  alt: Sala de barricas abovedada de una bodega de la Ribera del Duero
 - src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
   alt: Pasillo de barricas en la nave de crianza de una bodega
 - src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg
   alt: Visitante paseando entre viñedos
 - src: https://imgcdn.bokun.tools/108034a6-a4ac-4768-a64c-8024faead8bf.jpg
   alt: Grupo durante una cata en la mesa de una bodega
-- src: https://imgcdn.bokun.tools/7017b9ff-048c-4edd-94bc-57cac42e53a1.jpg
-  alt: Uva en una prensa de madera tradicional
-- src: https://imgcdn.bokun.tools/39e25d4a-8b95-42c2-8558-372ffee808da.jpg
-  alt: Galería subterránea de una bodega con barricas
-- src: https://imgcdn.bokun.tools/667d754c-2e09-4575-b9be-2930e9959a73.jpg
-  alt: Brindis con copas de vino tinto
-- src: https://imgcdn.bokun.tools/5ea285b6-7907-4b60-81b7-64108b05fba6.jpg
-  alt: Grupo sentado a la mesa durante la comida
 bokunProductId: 805387
 fecha_actualizacion: '2026-10-24'
 ---

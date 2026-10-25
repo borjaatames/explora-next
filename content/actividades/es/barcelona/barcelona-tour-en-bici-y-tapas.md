@@ -70,24 +70,32 @@ keywords:
 - ruta en bicicleta barcelona
 - tour bici barcelona ingles
 - barcelona en bicicleta
-imagen: https://imgcdn.bokun.tools/ea1d5d78-fa6a-4bb4-87e8-c246b0f658f2.jpeg
+imagen: /images/actividades/barcelona/proveedor-1229823/prov-bici-calle.webp
 imagenAlt: Grupo en bicicleta por una calle de Barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/79275470-bc0a-4344-aa21-0160e40f3b43.png
-  alt: Fachada gótica de la Catedral de Barcelona
-- src: https://imgcdn.bokun.tools/2d422d8a-575b-40ba-ab36-cdb4f2620d09.jpeg
-  alt: Platos de tapas para compartir
-- src: https://imgcdn.bokun.tools/d3c918e0-c64f-452b-ade0-f6e6c7395e31.jpeg
-  alt: Grupo con bicicletas en una plaza del casco antiguo
-- src: https://imgcdn.bokun.tools/b65eb0b9-d574-43f5-9411-14705d932edc.jpeg
-  alt: Pareja comiendo tapas
-- src: https://imgcdn.bokun.tools/2c348fa2-ee28-4769-9777-f58e336e909e.jpeg
-  alt: Ciclistas por una calle de Barcelona
+- src: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
+  alt: Ciclistas en el paseo de Lluís Companys junto al Arco de Triunfo
+- src: /images/actividades/barcelona/proveedor-1229823/prov-tapas-mesa.webp
+  alt: Parada de tapas con paella durante el tour en bici
+- src: /images/actividades/barcelona/costa/playa-barceloneta-hotel-w.webp
+  alt: Playa de la Barceloneta con el hotel W al fondo
+- src: /images/actividades/barcelona/proveedor-1229823/prov-tapas-jamon.webp
+  alt: Tabla de jamón y pan con tomate
+- src: /images/actividades/barcelona/costa/parc-ciutadella-cascada.webp
+  alt: Cascada monumental del Parc de la Ciutadella
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: Mesa con tapas variadas, jamón y bebidas
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero-hero.webp
   alt: Bicicleta naranja apoyada en calle empedrada del Barrio Gótico de Barcelona
+- src: https://imgcdn.bokun.tools/ea1d5d78-fa6a-4bb4-87e8-c246b0f658f2.jpeg
+  alt: Grupo en bicicleta por una calle de Barcelona
+- src: https://imgcdn.bokun.tools/79275470-bc0a-4344-aa21-0160e40f3b43.png
+  alt: Fachada gótica de la Catedral de Barcelona
+- src: https://imgcdn.bokun.tools/d3c918e0-c64f-452b-ade0-f6e6c7395e31.jpeg
+  alt: Grupo con bicicletas en una plaza del casco antiguo
 bokunProductId: 1229823
 fecha_actualizacion: '2026-10-24'
 ---

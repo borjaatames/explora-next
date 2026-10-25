@@ -74,24 +74,28 @@ keywords:
 - torre bellesguard visita
 - casa vicens tour privado
 - tour gaudi privado coche
-imagen: https://imgcdn.bokun.tools/cc672716-de7c-4457-ae88-a64f33a7896f.jpg
-imagenAlt: Interior de la cripta de la Colonia Güell, con sus columnas inclinadas y bóvedas de ladrillo
+imagen: /images/actividades/barcelona/gaudi/cripta-colonia-guell-interior.webp
+imagenAlt: Interior de la Cripta de la Colonia Güell, con columnas inclinadas y bancos de Gaudí
 ratingProveedor: 5.0
 numeroOpiniones: 3
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/gaudi/cripta-colonia-guell-exterior.webp
+  alt: Exterior de la Cripta de la Colonia Güell en Santa Coloma de Cervelló
+- src: /images/actividades/barcelona/gaudi/torre-bellesguard.webp
+  alt: Torre Bellesguard de Gaudí entre árboles, a los pies de Collserola
+- src: /images/actividades/barcelona/gaudi/casa-vicens-jardin.webp
+  alt: Fachada de Casa Vicens vista desde el jardín, con azulejos y miradores de Gaudí
+- src: /images/actividades/barcelona/gaudi/bellesguard-viaducto.webp
+  alt: Viaducto de piedra de Gaudí en los jardines de Bellesguard
+- src: https://imgcdn.bokun.tools/cc672716-de7c-4457-ae88-a64f33a7896f.jpg
+  alt: Interior de la cripta de la Colonia Güell, con sus columnas inclinadas y bóvedas de ladrillo
 - src: https://imgcdn.bokun.tools/0b0e4ef5-3b7c-4dbd-a11c-afc839ab4187.jpg
   alt: Pórtico exterior de piedra de la cripta de la Colonia Güell
 - src: https://imgcdn.bokun.tools/341573b6-34c0-45b2-b891-32727f714d7d.jpg
   alt: Fachada de azulejos verdes y rojos de la Casa Vicens
-- src: https://imgcdn.bokun.tools/30ec720c-6496-4804-aa56-bedca121d245.jpg
-  alt: Grupo comiendo tapas en un restaurante
-- src: https://imgcdn.bokun.tools/c670c245-b3f5-4adf-bfa7-447475ba568a.jpg
-  alt: Edificio modernista de ladrillo con balcón circular
-- src: https://imgcdn.bokun.tools/0f122b72-00ac-45ed-b690-c972b5096dfd.jpg
-  alt: Tejado de piedra con buhardillas en una obra de Gaudí
 bokunProductId: 426315
 fecha_actualizacion: '2026-10-24'
 ---

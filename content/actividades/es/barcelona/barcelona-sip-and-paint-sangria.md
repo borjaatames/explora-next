@@ -72,24 +72,28 @@ keywords:
 - plan social barcelona
 - actividad tarde barcelona
 - paint and sangria barcelona
-imagen: https://imgcdn.bokun.tools/c91d34ac-4490-404a-b6ae-f21ebe9a213a.png
-imagenAlt: Grupo brindando con copas en un taller de pintura
+imagen: /images/actividades/barcelona/proveedor-1220934/prov-sala-caballetes.webp
+imagenAlt: Sala preparada con caballetes y lienzos para la sesión de pintura
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/pintura/clase-pintura-lienzos.webp
+  alt: Lienzos en caballetes durante una clase de pintura en grupo
+- src: /images/actividades/barcelona/pintura/lienzos-pintados-caballetes.webp
+  alt: Lienzos pintados con sandías sobre caballetes
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: Vasos de sangría con naranja y frutos rojos
+- src: /images/actividades/barcelona/pintura/caballetes-lienzos-blanco.webp
+  alt: Caballetes con lienzos en blanco preparados para la clase
+- src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
+  alt: Jarra de sangría con fruta
+- src: https://imgcdn.bokun.tools/c91d34ac-4490-404a-b6ae-f21ebe9a213a.png
+  alt: Grupo brindando con copas en un taller de pintura
 - src: https://imgcdn.bokun.tools/f9d75d2f-aeb9-4c6d-a300-f738d585d3c8.png
   alt: Participante pintando en un caballete
 - src: https://imgcdn.bokun.tools/30d9c812-174c-4662-9a10-1b37f7f557bd.png
   alt: Participante sonriente con pinceles
-- src: https://imgcdn.bokun.tools/a3864475-5dca-45c1-a6dd-526172cb12be.png
-  alt: Manos con una paleta de colores
-- src: https://imgcdn.bokun.tools/e528ee7a-46cb-4864-a14a-64f25be7a994.jpeg
-  alt: Taller con caballetes y luces de colores
-- src: https://imgcdn.bokun.tools/a57bbaa2-9d78-4de7-897f-eff4be1bbd8a.png
-  alt: Paleta de pintura y bote de pintura
-- src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
-  alt: Jarra de sangría con fruta
 bokunProductId: 1220934
 fecha_actualizacion: '2026-10-24'
 ---

@@ -78,26 +78,28 @@ keywords:
 - private montserrat and winery tour
 - penedes cava tour from barcelona
 - montserrat wine tour
-imagen: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
-imagenAlt: Art Nouveau building of the Codorníu cava cellars under a blue sky
+imagen: /images/actividades/barcelona/penedes/codorniu-caves-edificio.webp
+imagenAlt: Modernista building of Caves Codorníu in Sant Sadurní d'Anoia
 ratingProveedor: 4.9
 numeroOpiniones: 35
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/penedes/codorniu-caves-naves.webp
+  alt: Puig i Cadafalch brick halls at Caves Codorníu
+- src: /images/actividades/barcelona/penedes/vinedos-penedes-otono.webp
+  alt: Penedès vineyards in autumn
+- src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
+  alt: Montserrat Monastery at the foot of the rock pinnacles
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Panoramic view of Montserrat's rock formations at sunset
+- src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
+  alt: Art Nouveau building of the Codorníu cava cellars under a blue sky
 - src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
   alt: Underground cellar gallery with stacked bottles
 - src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
   alt: Art Nouveau arched hall at the winery
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Panoramic view of Montserrat's rock formations at sunset
-- src: https://imgcdn.bokun.tools/e72a1f87-eeb8-4c10-ac20-586cc64ea642.jpg
-  alt: Travellers in front of Montserrat monastery
-- src: https://imgcdn.bokun.tools/d1c2a1e4-159e-47d7-81eb-8a398e318c0a.jpg
-  alt: Glass of rosé in front of the vineyards
-- src: https://imgcdn.bokun.tools/4b46f91f-506c-446e-ad4f-086db2daa56d.jpg
-  alt: Travellers in Montserrat basilica square
 bokunProductId: 242957
 fecha_actualizacion: '2026-10-24'
 ---

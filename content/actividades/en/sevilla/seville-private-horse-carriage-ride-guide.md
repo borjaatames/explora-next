@@ -70,24 +70,24 @@ keywords:
 - seville horse carriage with guide
 - private horse carriage seville
 - seville carriage tour
-imagen: https://imgcdn.bokun.tools/4cad080d-9957-497c-a7bb-37742d1d007a.jpg
-imagenAlt: Horse-drawn carriage and driver in a Seville square
+imagen: /images/actividades/sevilla/coche-caballos/coche-caballos-catedral.webp
+imagenAlt: Horse-drawn carriage with a white horse in front of Seville Cathedral
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-triunfo.webp
+  alt: Row of horse-drawn carriages waiting for visitors by Seville Cathedral
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
+  alt: Horse-drawn carriage crossing Plaza de España in Seville with the tower behind
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
+  alt: Exterior of the Maestranza on Paseo de Colón
+- src: https://imgcdn.bokun.tools/4cad080d-9957-497c-a7bb-37742d1d007a.jpg
+  alt: Horse-drawn carriage and driver in a Seville square
 - src: https://imgcdn.bokun.tools/4f352fe1-6ba8-4bdd-aa2c-50f91f0eb6b2.jpg
   alt: Horse carriages at night in front of Plaza de España
 - src: https://imgcdn.bokun.tools/15ad9d61-78f7-4634-9472-69b04f2c5f97.jpg
   alt: Horse carriage on a tree-lined avenue
-- src: https://imgcdn.bokun.tools/71feca72-e83c-4fd4-87c4-0bc61e209c0f.jpg
-  alt: Smiling passengers in a horse carriage
-- src: https://imgcdn.bokun.tools/e1af2011-a67e-44a5-80f9-3ae734b3d886.jpg
-  alt: Horse carriage in front of a tiled building
-- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
-  alt: Exterior of the Maestranza on Paseo de Colón
-- src: https://imgcdn.bokun.tools/76797feb-0831-4d16-9967-9ef5ad614862.jpg
-  alt: Horse and carriage at dusk under the street lamps
 bokunProductId: 933447
 fecha_actualizacion: '2026-10-24'
 ---

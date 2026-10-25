@@ -87,20 +87,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/vinos-madrid/vinedo-san-martin-valdeiglesias.webp
+  alt: Viñedo de cepas viejas en San Martín de Valdeiglesias, con la sierra al fondo
+- src: /images/actividades/madrid/vinos-madrid/vinas-olivos-colmenar-de-oreja.webp
+  alt: Campos de viñas y olivos en Colmenar de Oreja (Madrid)
+- src: /images/actividades/madrid/vinos-madrid/bodega-subterranea.webp
+  alt: Bodega subterránea excavada bajo Aranda de Duero
+- src: /images/actividades/madrid/vinos-madrid/brindis-vino-tinto.webp
+  alt: Brindis con copas de vino tinto en una barra
 - src: https://imgcdn.bokun.tools/b24331b5-2f9e-4962-b91b-553fc91f0f5a.jpg
   alt: Copa de vino tinto sobre una barrica con el viñedo al fondo
 - src: https://imgcdn.bokun.tools/fdaef48d-7fb6-4613-ac9a-1d1285831c71.jpg
   alt: Grupo paseando por el viñedo
 - src: https://imgcdn.bokun.tools/8a7182aa-4165-4c63-836b-ed6666de5ec1.jpg
   alt: Racimo de uva entre hojas de vid otoñales
-- src: https://imgcdn.bokun.tools/f6849f37-c821-45ae-b035-7b95efd8cfe7.jpg
-  alt: Cueva excavada en la roca con tinajas
-- src: https://imgcdn.bokun.tools/d9289461-266b-4752-b0a5-eb77579cd00f.jpg
-  alt: Barricas apiladas al aire libre en la bodega
-- src: https://imgcdn.bokun.tools/a9f061b6-bd6c-41c0-86a2-b04f1501b936.jpg
-  alt: Cata en grupo junto a las barricas
-- src: https://imgcdn.bokun.tools/1f11d8fd-6c45-4fa0-809b-eb4e66ecdae5.jpg
-  alt: Viñedo con la sierra al fondo
 bokunProductId: 805388
 fecha_actualizacion: '2026-10-24'
 ---

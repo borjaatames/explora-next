@@ -81,20 +81,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/gaudi/pedrera-fachada.webp
+  alt: Wavy facade of La Pedrera (Casa Milà) on Passeig de Gràcia
+- src: /images/actividades/barcelona/gaudi/pedrera-esquina.webp
+  alt: La Pedrera seen from the corner of Passeig de Gràcia
+- src: /images/actividades/barcelona/gaudi/pedrera-azotea-chimeneas.webp
+  alt: Chimneys on the rooftop of La Pedrera
+- src: /images/actividades/barcelona/gaudi/casa-vicens-carolines.webp
+  alt: Casa Vicens from Carrer de les Carolines in Gràcia
 - src: https://imgcdn.bokun.tools/2bc8f51d-cce3-4167-81f9-a75a96f109df.jpg
   alt: The rooftop chimneys of La Pedrera
 - src: https://imgcdn.bokun.tools/c5bb093a-6cc4-4ff2-a140-96c3f281a85f.jpg
   alt: Family in front of the Casa Milà facade
 - src: https://imgcdn.bokun.tools/67710160-b202-46a8-b5e8-d62377ad2fa7.jpg
   alt: La Pedrera's inner courtyard seen from below
-- src: https://imgcdn.bokun.tools/341573b6-34c0-45b2-b891-32727f714d7d.jpg
-  alt: The green and red tiled facade of Casa Vicens
-- src: https://imgcdn.bokun.tools/147c97b3-45a8-4b44-a757-ddfbffeecfcf.jpg
-  alt: Travellers on the rooftop of La Pedrera
-- src: https://imgcdn.bokun.tools/d87415ed-705f-408f-9852-f003c8c2277f.jpg
-  alt: Period dining room with a gramophone inside an Art Nouveau house
-- src: https://imgcdn.bokun.tools/e62d59f2-93bc-442f-9113-45037c8e0a8a.jpg
-  alt: Art Nouveau windows on the Casa Batlló facade
 bokunProductId: 245313
 fecha_actualizacion: '2026-10-24'
 ---

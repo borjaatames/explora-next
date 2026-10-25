@@ -63,14 +63,24 @@ keywords:
 - monasterio san isidoro del campo santiponce
 - biblia del oso sevilla
 - visita privada monasterio santiponce
-imagen: https://imgcdn.bokun.tools/1c79feff-de02-4fe4-9bb0-35cfb1bfb6f5.jpeg
-imagenAlt: Sala con bóveda gótica en el Monasterio de San Isidoro del Campo
+imagen: /images/actividades/sevilla/san-isidoro-del-campo/san-isidoro-fachada-naranjos.webp
+imagenAlt: Muros almenados del Monasterio de San Isidoro del Campo con naranjos en primer plano
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/64c3a3bc-1e4e-47d8-8d76-bccc02107ae8.jpeg
-  alt: Pintura mural del siglo XV en el monasterio
+- src: /images/actividades/sevilla/san-isidoro-del-campo/san-isidoro-retablo.webp
+  alt: Retablo dorado con pinturas murales en una capilla del Monasterio de San Isidoro del Campo
+- src: /images/actividades/sevilla/proveedor-949940/prov-galeria-pintada.webp
+  alt: Galería con pinturas murales del monasterio de San Isidoro del Campo
+- src: /images/actividades/sevilla/san-isidoro-del-campo/san-isidoro-pinturas-murales.webp
+  alt: Pinturas murales medievales de monjes en el Monasterio de San Isidoro del Campo
+- src: /images/actividades/sevilla/proveedor-949940/prov-ultima-cena.webp
+  alt: Pintura mural de la Última Cena en el monasterio de San Isidoro del Campo
+- src: /images/actividades/sevilla/san-isidoro-del-campo/san-isidoro-vista-santiponce.webp
+  alt: Vista del Monasterio de San Isidoro del Campo y su torre desde el campo de Santiponce
+- src: /images/actividades/sevilla/proveedor-949940/prov-iglesia.webp
+  alt: Interior de la iglesia del monasterio de San Isidoro del Campo
 - src: https://imgcdn.bokun.tools/7e9a77dc-f76e-4078-b267-6153214d0d18.jpeg
   alt: Guía explicando en una sala del monasterio
 bokunProductId: 949940

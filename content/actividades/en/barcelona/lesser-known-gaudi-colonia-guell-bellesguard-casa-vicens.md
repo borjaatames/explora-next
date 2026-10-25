@@ -74,24 +74,28 @@ keywords:
 - bellesguard tower visit
 - casa vicens private tour
 - private gaudi tour by car
-imagen: https://imgcdn.bokun.tools/cc672716-de7c-4457-ae88-a64f33a7896f.jpg
-imagenAlt: Inside the Colonia Güell crypt, with its leaning columns and brick vaults
+imagen: /images/actividades/barcelona/gaudi/cripta-colonia-guell-interior.webp
+imagenAlt: Interior of the Colònia Güell Crypt, with Gaudí's leaning columns and pews
 ratingProveedor: 5.0
 numeroOpiniones: 3
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/gaudi/cripta-colonia-guell-exterior.webp
+  alt: Exterior of the Colònia Güell Crypt in Santa Coloma de Cervelló
+- src: /images/actividades/barcelona/gaudi/torre-bellesguard.webp
+  alt: Gaudí's Torre Bellesguard among trees at the foot of Collserola
+- src: /images/actividades/barcelona/gaudi/casa-vicens-jardin.webp
+  alt: Casa Vicens facade seen from the garden, with Gaudí tiles and bay windows
+- src: /images/actividades/barcelona/gaudi/bellesguard-viaducto.webp
+  alt: Gaudí stone viaduct in the Bellesguard gardens
+- src: https://imgcdn.bokun.tools/cc672716-de7c-4457-ae88-a64f33a7896f.jpg
+  alt: Inside the Colonia Güell crypt, with its leaning columns and brick vaults
 - src: https://imgcdn.bokun.tools/0b0e4ef5-3b7c-4dbd-a11c-afc839ab4187.jpg
   alt: The stone outer portico of the Colonia Güell crypt
 - src: https://imgcdn.bokun.tools/341573b6-34c0-45b2-b891-32727f714d7d.jpg
   alt: The green and red tiled facade of Casa Vicens
-- src: https://imgcdn.bokun.tools/30ec720c-6496-4804-aa56-bedca121d245.jpg
-  alt: Group having tapas at a restaurant
-- src: https://imgcdn.bokun.tools/c670c245-b3f5-4adf-bfa7-447475ba568a.jpg
-  alt: Art Nouveau brick building with a round balcony
-- src: https://imgcdn.bokun.tools/0f122b72-00ac-45ed-b690-c972b5096dfd.jpg
-  alt: Stone roof with dormers on a Gaudí building
 bokunProductId: 426315
 fecha_actualizacion: '2026-10-24'
 ---

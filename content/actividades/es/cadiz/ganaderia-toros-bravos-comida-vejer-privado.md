@@ -76,20 +76,22 @@ keywords:
 - vejer de la frontera excursion
 - toros bravos la janda
 - excursion privada cadiz campo
-imagen: https://imgcdn.bokun.tools/1c1f613f-b22f-4f61-acab-8109c9f87390.jpeg
-imagenAlt: Toros bravos bajo las encinas de la dehesa
+imagen: /images/actividades/cadiz/vejer-toros/toros-bravos-dehesa.webp
+imagenAlt: Toros bravos pastando en una dehesa verde con encinas
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/cadiz/vejer-toros/vejer-pueblo-blanco.webp
+  alt: Casas blancas de Vejer de la Frontera bajo un cielo con nubes
+- src: /images/actividades/cadiz/vejer-toros/vejer-campina-la-janda.webp
+  alt: Campiña verde de La Janda vista desde Vejer de la Frontera
+- src: https://imgcdn.bokun.tools/1c1f613f-b22f-4f61-acab-8109c9f87390.jpeg
+  alt: Toros bravos bajo las encinas de la dehesa
 - src: https://imgcdn.bokun.tools/c9343872-e9aa-4713-a534-058088e7eb6f.jpeg
   alt: Manada de toros en un camino de la finca
 - src: https://imgcdn.bokun.tools/ec3dc5b3-5dc5-46d4-abf1-ae162f1be50f.jpeg
   alt: Toro bravo en el campo junto a un aerogenerador
-- src: https://imgcdn.bokun.tools/b0adc513-8953-474e-b68c-e7c9a427aaef.jpeg
-  alt: Demostración con capote ante los visitantes en la finca
-- src: https://imgcdn.bokun.tools/8d1da87c-5826-4c4c-a1cd-387d01634712.jpeg
-  alt: Pueblo blanco en lo alto de una colina, con flores en primer plano
 bokunProductId: 949572
 fecha_actualizacion: '2026-10-24'
 ---

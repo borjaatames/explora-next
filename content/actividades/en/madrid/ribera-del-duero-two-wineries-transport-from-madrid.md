@@ -80,26 +80,26 @@ keywords:
 - ribera del duero wine tasting
 - wine day trip from madrid
 - ribera del duero tour
-imagen: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
-imagenAlt: Vaulted ageing cellar with barrels in Ribera del Duero
+imagen: /images/actividades/madrid/ribera-del-duero/sala-barricas-ribera.webp
+imagenAlt: Vaulted barrel room in a Ribera del Duero winery
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
+  alt: Walls and keep of Peñafiel Castle
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-desde-penafiel.webp
+  alt: Ribera del Duero vineyards seen from Peñafiel Castle
+- src: /images/actividades/madrid/ribera-del-duero/bodega-subterranea-aranda.webp
+  alt: Underground wine cellar dug beneath Aranda de Duero
+- src: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
+  alt: Vaulted ageing cellar with barrels in Ribera del Duero
 - src: https://imgcdn.bokun.tools/4d085d0a-a00d-4c1b-8684-c8806e883605.jpg
   alt: Visitor walking through a vineyard in autumn
 - src: https://imgcdn.bokun.tools/2cc9bf18-671a-4d18-bb50-fafbb2fb8ebd.jpg
   alt: Visitors by the tanks of a modern winery
-- src: https://imgcdn.bokun.tools/84b87868-7193-4ac5-9f64-aa72e1baa165.jpg
-  alt: Tasting in a stone-cut cellar
-- src: https://imgcdn.bokun.tools/03478df3-99b7-4301-9d06-fb12c6b4d623.jpg
-  alt: Tasting room lit with pink lamps
-- src: https://imgcdn.bokun.tools/91da0963-228e-4746-9f96-01093a8682af.jpg
-  alt: Vineyard with autumn leaves
-- src: https://imgcdn.bokun.tools/8724d5af-95d3-48f7-aae8-44e44ccbe34a.jpg
-  alt: Visitors in an underground cellar with barrels
 bokunProductId: 854707
 fecha_actualizacion: '2026-10-24'
 ---

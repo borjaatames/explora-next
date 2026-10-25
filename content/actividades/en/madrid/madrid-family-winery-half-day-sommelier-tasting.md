@@ -77,28 +77,28 @@ keywords:
 - madrid winery visit
 - wine tour madrid sommelier
 - half day wine tour madrid
-imagen: https://imgcdn.bokun.tools/52526394-3a35-4ee4-bbca-c28883bc8b1e.jpg
-imagenAlt: Glass of red wine on barrels in a winery
+imagen: /images/actividades/madrid/vinos-madrid/vinedo-san-martin-valdeiglesias.webp
+imagenAlt: Old bush vines in San Martín de Valdeiglesias with the mountains behind
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/vinos-madrid/vinas-olivos-colmenar-de-oreja.webp
+  alt: Vineyards and olive groves in Colmenar de Oreja, Madrid
+- src: /images/actividades/madrid/vinos-madrid/cata-vino-blanco.webp
+  alt: White wine being poured during a tasting, glasses lined up on the table
+- src: /images/actividades/madrid/vinos-madrid/barricas-bodega.webp
+  alt: Oak wine barrels stacked in a winery cellar
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Wine glasses at the tasting
+- src: https://imgcdn.bokun.tools/52526394-3a35-4ee4-bbca-c28883bc8b1e.jpg
+  alt: Glass of red wine on barrels in a winery
 - src: https://imgcdn.bokun.tools/565f19a0-5a81-4322-9463-2ff4b45117d3.jpg
   alt: Visitors walking through the vineyard
 - src: https://imgcdn.bokun.tools/094ba1f5-c5ef-4375-b6f9-23d3d02a10d2.jpg
   alt: Red wine being poured into a glass beside the barrels
-- src: https://imgcdn.bokun.tools/f9dd0720-c814-4f45-88e6-276d3e409b6a.jpg
-  alt: Group in the barrel room
-- src: https://imgcdn.bokun.tools/e288a964-371a-44d6-a709-af012805caff.jpg
-  alt: Table in the winery garden
-- src: https://imgcdn.bokun.tools/e4eb1edb-4737-414e-bbb4-e3fe704862e5.jpg
-  alt: Vineyard with the mountains behind
-- src: https://imgcdn.bokun.tools/139267b5-4566-4541-882b-41050c4e8d9a.jpg
-  alt: Three visitors toasting with wine
-- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
-  alt: Wine glasses at the tasting
 bokunProductId: 824546
 fecha_actualizacion: '2026-10-24'
 ---

@@ -79,26 +79,34 @@ keywords:
 - barcelona food tour
 - gothic quarter tapas tour
 - barcelona old town food tour
-imagen: https://imgcdn.bokun.tools/38c8ec68-da95-4a56-bd77-1736cbd89c84.jpeg
-imagenAlt: Paella on the table during the tapas tour
+imagen: /images/actividades/barcelona/proveedor-1229843/prov-paella.webp
+imagenAlt: Seafood paella served on the tour
 ratingProveedor: 5.0
 numeroOpiniones: 30
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/gastronomia/paella-sarten.webp
+  alt: Seafood paella in its pan
+- src: /images/actividades/barcelona/proveedor-1229843/prov-pinchos-barra.webp
+  alt: Pintxos on the counter of a tapas bar
+- src: /images/actividades/barcelona/gotico/placa-reial.webp
+  alt: Plaça Reial with palm trees and arcades in the Gothic Quarter
+- src: /images/actividades/barcelona/proveedor-1229843/prov-barra-bar.webp
+  alt: Counter of a tapas bar in the old town
+- src: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+  alt: Tapas and glasses of wine on a table
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: Glasses of sangria with orange and berries
+- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
+  alt: Gothic arch and street lamp in the Gothic Quarter
 - src: https://imgcdn.bokun.tools/66640c22-c394-4903-bc31-2631d8c50408.jpeg
   alt: Group raising a toast in a tapas bar
 - src: https://imgcdn.bokun.tools/2d02c0fe-f250-41c2-8fed-85d10d55ea5d.png
   alt: Board of cured meats and cheeses with tapas
 - src: https://imgcdn.bokun.tools/69b97f30-deba-461a-a8fc-f76c20529049.jpeg
   alt: Plates of tapas to share
-- src: https://imgcdn.bokun.tools/174777a6-4d2e-4d73-8b1d-fbb2aa354bed.jpeg
-  alt: Couple eating tapas in a restaurant
-- src: https://imgcdn.bokun.tools/38e22b35-c770-43ac-a887-135e795e8428.jpeg
-  alt: Counter of a tapas bar
-- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
-  alt: Gothic arch and street lamp in the Gothic Quarter
 bokunProductId: 1229843
 fecha_actualizacion: '2026-10-24'
 ---

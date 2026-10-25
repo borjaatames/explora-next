@@ -70,24 +70,24 @@ keywords:
 - paseo en coche de caballos sevilla con guia
 - coche de caballos privado sevilla
 - paseo en calesa sevilla
-imagen: https://imgcdn.bokun.tools/4cad080d-9957-497c-a7bb-37742d1d007a.jpg
-imagenAlt: Coche de caballos con cochero en una plaza de Sevilla
+imagen: /images/actividades/sevilla/coche-caballos/coche-caballos-catedral.webp
+imagenAlt: Coche de caballos con caballo blanco frente a la Catedral de Sevilla
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-triunfo.webp
+  alt: Fila de coches de caballos esperando a los visitantes junto a la Catedral de Sevilla
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
+  alt: Coche de caballos recorriendo la Plaza de España de Sevilla con la torre al fondo
+- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
+  alt: Exterior de la Maestranza en el paseo de Colón
+- src: https://imgcdn.bokun.tools/4cad080d-9957-497c-a7bb-37742d1d007a.jpg
+  alt: Coche de caballos con cochero en una plaza de Sevilla
 - src: https://imgcdn.bokun.tools/4f352fe1-6ba8-4bdd-aa2c-50f91f0eb6b2.jpg
   alt: Coches de caballos de noche frente a la Plaza de España
 - src: https://imgcdn.bokun.tools/15ad9d61-78f7-4634-9472-69b04f2c5f97.jpg
   alt: Coche de caballos por un paseo arbolado
-- src: https://imgcdn.bokun.tools/71feca72-e83c-4fd4-87c4-0bc61e209c0f.jpg
-  alt: Pasajeros sonrientes en un coche de caballos
-- src: https://imgcdn.bokun.tools/e1af2011-a67e-44a5-80f9-3ae734b3d886.jpg
-  alt: Coche de caballos ante un edificio de azulejos
-- src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
-  alt: Exterior de la Maestranza en el paseo de Colón
-- src: https://imgcdn.bokun.tools/76797feb-0831-4d16-9967-9ef5ad614862.jpg
-  alt: Caballo y coche de caballos al anochecer bajo las farolas
 bokunProductId: 933447
 fecha_actualizacion: '2026-10-24'
 ---

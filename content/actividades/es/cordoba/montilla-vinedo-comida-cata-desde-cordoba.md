@@ -66,18 +66,26 @@ keywords:
 - cata de vinos montilla
 - excursion montilla moriles
 - enoturismo cordoba privado
-imagen: https://imgcdn.bokun.tools/dfa91ec1-fd1f-4263-993f-f081d4d90124.jpeg
-imagenAlt: Grupo brindando con vino en una mesa de la bodega
+imagen: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
+imagenAlt: Nave de bodega en Montilla con grandes tinajas de barro
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/cordoba/montilla/montilla-vinedo.webp
+  alt: Hileras de cepas en un viñedo de Montilla
+- src: /images/actividades/cordoba/montilla/montilla-botas-crianza.webp
+  alt: Pasillo de botas de roble en una bodega de Montilla
+- src: /images/actividades/cordoba/montilla/montilla-vista-pueblo.webp
+  alt: Vista de Montilla entre viñas y olivos, con adelfas en primer plano
+- src: /images/actividades/cordoba/mezquita/puente-romano.webp
+  alt: Puente Romano, Puerta del Puente y Mezquita
+- src: https://imgcdn.bokun.tools/dfa91ec1-fd1f-4263-993f-f081d4d90124.jpeg
+  alt: Grupo brindando con vino en una mesa de la bodega
 - src: https://imgcdn.bokun.tools/cc2d1f5d-c7a9-4b10-860a-c42bc1a5d87c.jpeg
   alt: Racimo de uva blanca recién cogido
 - src: https://imgcdn.bokun.tools/2562810e-31da-4d9e-bf19-2dcbf40f58b1.jpeg
   alt: Bodeguero mostrando una botella de su vino en el viñedo
-- src: /images/actividades/cordoba/mezquita/puente-romano.webp
-  alt: Puente Romano, Puerta del Puente y Mezquita
 bokunProductId: 937794
 fecha_actualizacion: '2026-10-24'
 ---

@@ -83,20 +83,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
+  alt: Valencian paella with chicken, green beans and snails at a Valencia restaurant
+- src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
+  alt: Paella simmering over a wood fire with a sprig of rosemary
+- src: /images/actividades/valencia/lonja-paella/lonja-fachada.webp
+  alt: Gothic facade of the Silk Exchange in Valencia
+- src: /images/actividades/valencia/lonja-paella/lonja-boveda.webp
+  alt: Rib vault of the trading hall in the Silk Exchange
 - src: https://imgcdn.bokun.tools/845a68a6-f85c-4758-83e8-c8a888dfcbaa.jpg
   alt: Guide and travellers in the columned hall of the Silk Exchange
 - src: https://imgcdn.bokun.tools/7f9e0603-c79f-474d-a8b6-82bbaff29cd0.jpg
   alt: Baroque interior of San Nicolás church
 - src: https://imgcdn.bokun.tools/79c75059-2ad2-4bff-9438-f5e4ef6d1060.jpg
   alt: Group eating paella in a restaurant
-- src: https://imgcdn.bokun.tools/722125d8-ee09-45dc-9ecf-a0d9fee89e1f.jpg
-  alt: A pan of Valencian paella on the table
-- src: https://imgcdn.bokun.tools/99b9c3c8-1239-4fbe-9084-ab905abafe25.jpg
-  alt: Travellers in front of the Baroque facade of the Marqués de Dos Aguas palace
-- src: https://imgcdn.bokun.tools/e598b6d3-5f45-4fe6-a748-79a71baad1c8.jpg
-  alt: Visitors at a ham stall in the Central Market
-- src: https://imgcdn.bokun.tools/c556d715-9dc5-45ff-b2a6-4b457051a74d.jpg
-  alt: Two friends drinking horchata
 bokunProductId: 967813
 fecha_actualizacion: '2026-10-24'
 ---

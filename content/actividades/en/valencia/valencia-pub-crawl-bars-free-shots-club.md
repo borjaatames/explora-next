@@ -77,24 +77,28 @@ keywords:
 - valencia bar crawl
 - valencia clubs
 - party in valencia
-imagen: https://imgcdn.bokun.tools/31f6acaf-2718-498d-bb17-829ae729fe9e.jpg
-imagenAlt: Pub crawl group posing at night in Valencia
+imagen: /images/actividades/valencia/noche/barrio-carmen-noche.webp
+imagenAlt: Carrer de Baix in the Carmen district at night with festive lights
 ratingProveedor: 5.0
 numeroOpiniones: 33
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/noche/torres-serranos-noche.webp
+  alt: Serranos Towers lit up at night, gateway to the Carmen district
+- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
+  alt: Old-town street in Valencia lit up at night
+- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
+  alt: Valencia City Hall Square lit up at night
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: Plaza de la Virgen in central Valencia
+- src: https://imgcdn.bokun.tools/31f6acaf-2718-498d-bb17-829ae729fe9e.jpg
+  alt: Pub crawl group posing at night in Valencia
 - src: https://imgcdn.bokun.tools/cd0a2537-41a2-48f2-947d-ae1b8a8a3919.jpg
   alt: Group of lads posing in a bar
 - src: https://imgcdn.bokun.tools/819b5591-9496-4f5f-8e87-cfe161d7de05.jpg
   alt: Group selfie in a bar
-- src: https://imgcdn.bokun.tools/f4b8f5e7-6e8f-4de6-a028-5764fdb1ba15.jpg
-  alt: Women dancing and posing in a bar
-- src: https://imgcdn.bokun.tools/c7259577-4300-4abd-b9fb-44308822b735.jpg
-  alt: Group seated at a table in a pub
-- src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: Plaza de la Virgen in central Valencia
 bokunProductId: 1087333
 fecha_actualizacion: '2026-10-24'
 ---

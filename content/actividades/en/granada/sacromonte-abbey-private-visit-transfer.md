@@ -67,24 +67,32 @@ keywords:
 - holy caves sacromonte
 - sacromonte abbey guided tour
 - private sacromonte visit
-imagen: https://imgcdn.bokun.tools/c1e08b2f-458d-4be1-9052-633167b74be2.jpeg
-imagenAlt: The Sacromonte Abbey on the hillside
+imagen: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-exterior.webp
+imagenAlt: Sacromonte Abbey among cypresses on the slope of Mount Valparaíso
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-claustro.webp
+  alt: Cloister of the Sacromonte Abbey with arches, orange trees and tower
+- src: /images/actividades/granada/proveedor-938184/prov-abadia-iglesia.webp
+  alt: Nave of the Sacromonte Abbey church
+- src: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-arco.webp
+  alt: Triumphal entrance arch of the Sacromonte Abbey
+- src: /images/actividades/granada/proveedor-938184/prov-abadia-exterior.webp
+  alt: Exterior of the Sacromonte Abbey with orange trees
+- src: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-vista.webp
+  alt: View of the Sacromonte Abbey above the caves and houses of the district
+- src: /images/actividades/granada/proveedor-938184/prov-abadia-portada.webp
+  alt: Entrance gateway of the Sacromonte Abbey
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: The Sacromonte hillside with its cave houses
+- src: https://imgcdn.bokun.tools/c1e08b2f-458d-4be1-9052-633167b74be2.jpeg
+  alt: The Sacromonte Abbey on the hillside
 - src: https://imgcdn.bokun.tools/5e365155-40b3-45a5-9b65-82ef8c6cc395.jpeg
   alt: Courtyard with fountain and orange trees at the abbey
 - src: https://imgcdn.bokun.tools/53de72f1-c629-45cf-8a50-a91cfdee499a.jpeg
   alt: Rock-cut passage in the Holy Caves
-- src: https://imgcdn.bokun.tools/07d40738-a60f-4c28-8c76-a8ad00e04bb5.jpeg
-  alt: Arcaded cloister of the abbey
-- src: https://imgcdn.bokun.tools/04f9c863-caac-4ec8-9d46-1f70182dc93d.jpeg
-  alt: Interior of the abbey church
-- src: https://imgcdn.bokun.tools/f5be5d37-8c5c-4150-a04a-4cf7761f1f3c.jpeg
-  alt: Stone gateway with arches at the abbey
-- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
-  alt: The Sacromonte hillside with its cave houses
 bokunProductId: 938184
 fecha_actualizacion: '2026-10-24'
 ---

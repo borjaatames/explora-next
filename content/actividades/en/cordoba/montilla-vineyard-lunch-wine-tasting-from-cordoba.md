@@ -66,18 +66,26 @@ keywords:
 - montilla wine tasting
 - montilla moriles day trip
 - private wine tour cordoba
-imagen: https://imgcdn.bokun.tools/dfa91ec1-fd1f-4263-993f-f081d4d90124.jpeg
-imagenAlt: Group toasting with wine at a table in the winery
+imagen: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
+imagenAlt: Winery hall in Montilla with large clay tinajas
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/cordoba/montilla/montilla-vinedo.webp
+  alt: Rows of vines in a Montilla vineyard
+- src: /images/actividades/cordoba/montilla/montilla-botas-crianza.webp
+  alt: Aisle of oak casks in a Montilla winery
+- src: /images/actividades/cordoba/montilla/montilla-vista-pueblo.webp
+  alt: View of Montilla among vines and olive trees, with oleanders in the foreground
+- src: /images/actividades/cordoba/mezquita/puente-romano.webp
+  alt: Roman Bridge, Bridge Gate and Mosque
+- src: https://imgcdn.bokun.tools/dfa91ec1-fd1f-4263-993f-f081d4d90124.jpeg
+  alt: Group toasting with wine at a table in the winery
 - src: https://imgcdn.bokun.tools/cc2d1f5d-c7a9-4b10-860a-c42bc1a5d87c.jpeg
   alt: A freshly picked bunch of white grapes
 - src: https://imgcdn.bokun.tools/2562810e-31da-4d9e-bf19-2dcbf40f58b1.jpeg
   alt: Winemaker showing a bottle of his wine in the vineyard
-- src: /images/actividades/cordoba/mezquita/puente-romano.webp
-  alt: Roman Bridge, Bridge Gate and Mosque
 bokunProductId: 937794
 fecha_actualizacion: '2026-10-24'
 ---

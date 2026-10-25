@@ -66,22 +66,24 @@ keywords:
 - olive oil tasting granada
 - sierra nevada olive oil
 - oleotourism granada
-imagen: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
-imagenAlt: Olive grove with the Sierra Nevada peaks behind
+imagen: /images/actividades/granada/almazara/almazara-aceite-saliendo.webp
+imagenAlt: Freshly pressed olive oil pouring from a metal spout at the mill
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/granada/almazara/olivos-sierra-nevada.webp
+  alt: Olive grove in Granada province with Sierra Nevada in the background
+- src: /images/actividades/granada/almazara/almazara-centrifuga-aceite.webp
+  alt: Olive oil coming out of the centrifuge at an olive mill
+- src: /images/actividades/granada/almazara/aceitunas-recien-cosechadas.webp
+  alt: Freshly harvested green and purple olives ready for the mill
+- src: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
+  alt: Olive grove with the Sierra Nevada peaks behind
 - src: https://imgcdn.bokun.tools/ffbf69a6-a75f-4e61-a13d-9a24384c0519.jpeg
   alt: Olive oil tasting from a dish
 - src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
   alt: Freshly harvested olives pouring into a trailer
-- src: https://imgcdn.bokun.tools/bc6adcf0-7fde-4f35-b5ca-9d10a2fff973.jpeg
-  alt: Group of visitors in the olive grove
-- src: https://imgcdn.bokun.tools/0066ec80-eb22-4f1c-a215-70d0faa9b594.jpeg
-  alt: Old olive trees in the countryside
-- src: https://imgcdn.bokun.tools/13123b35-043c-4db5-ae47-fa70e5cb0f3f.jpeg
-  alt: Walking among the olive trees
 bokunProductId: 938052
 fecha_actualizacion: '2026-10-24'
 ---

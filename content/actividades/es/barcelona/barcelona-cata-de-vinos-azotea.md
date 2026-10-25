@@ -77,26 +77,28 @@ keywords:
 - wine tasting barcelona
 - vinos españoles barcelona
 - plan tarde barcelona vino
-imagen: https://imgcdn.bokun.tools/b36af493-cd57-439f-b892-3fba3a6292ed.jpg
-imagenAlt: Grupo brindando con vino en una azotea de Barcelona
+imagen: /images/actividades/barcelona/vino/copas-vino-mesa.webp
+imagenAlt: Copas de vino servidas sobre una mesa en una cata
 ratingProveedor: 4.9
 numeroOpiniones: 91
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo
+- src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+  alt: Fila de copas de vino tinto sobre la mesa
+- src: /images/actividades/barcelona/vistas/eixample-desde-arriba.webp
+  alt: Manzanas del Eixample de Barcelona vistas desde lo alto
+- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
+  alt: Plaça de Catalunya vista desde arriba
+- src: https://imgcdn.bokun.tools/b36af493-cd57-439f-b892-3fba3a6292ed.jpg
+  alt: Grupo brindando con vino en una azotea de Barcelona
 - src: https://imgcdn.bokun.tools/e34153fe-02dc-4c50-9564-34b9e0f33ba5.jpg
   alt: Tres amigos con copas de vino en una azotea, con un campanario al fondo
 - src: https://imgcdn.bokun.tools/6d768e6e-35b8-44ff-99d2-00742f4b2aa7.jpg
   alt: Brindis con copas de vino blanco
-- src: https://imgcdn.bokun.tools/e5b4547a-7efb-4ce4-afb0-3329bcc432dc.jpg
-  alt: Brindis con vino tinto al aire libre
-- src: https://imgcdn.bokun.tools/a8415c80-aec4-4e29-b1bb-67288b88a5dd.jpg
-  alt: Grupo sentado a la mesa durante la cata
-- src: https://imgcdn.bokun.tools/b671f3b7-39ae-40ee-a9c3-fabbe617abd2.jpg
-  alt: Mesa de cata con vino tinto y amigos
-- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
-  alt: Plaça de Catalunya vista desde arriba
 bokunProductId: 886825
 fecha_actualizacion: '2026-10-24'
 ---

@@ -86,18 +86,18 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
+  alt: Montserrat Monastery set into the mountain, seen from above
+- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+  alt: Monastery buildings and Montserrat mountain under blue sky
+- src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
+  alt: Nave of the Montserrat Basilica with the altar at the end
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
   alt: Montserrat monastery beneath the rock pinnacles
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
   alt: Travellers on the monastery terrace with the mountain behind
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: Stall at the Montserrat farmers' market
-- src: https://imgcdn.bokun.tools/a0325b46-738a-46f3-a3bf-1ae84b127736.jpg
-  alt: Yellow funicular climbing the Montserrat slope
-- src: https://imgcdn.bokun.tools/c766005b-642e-48ca-a34e-f3d2aded2927.jpg
-  alt: Guide explaining the monastery to travellers
-- src: https://imgcdn.bokun.tools/6d83b16f-42fb-4047-b2a1-1e5f84f9dbef.jpg
-  alt: Montserrat monastery buildings and rocks
 bokunProductId: 217561
 fecha_actualizacion: '2026-10-24'
 ---

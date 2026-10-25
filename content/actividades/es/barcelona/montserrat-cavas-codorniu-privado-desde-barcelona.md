@@ -78,26 +78,28 @@ keywords:
 - montserrat y bodega privado
 - tour cava penedes desde barcelona
 - montserrat y vino excursion
-imagen: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
-imagenAlt: Edificio modernista de las cavas Codorníu bajo un cielo azul
+imagen: /images/actividades/barcelona/penedes/codorniu-caves-edificio.webp
+imagenAlt: Edificio modernista de las Caves Codorníu en Sant Sadurní d'Anoia
 ratingProveedor: 4.9
 numeroOpiniones: 35
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/penedes/codorniu-caves-naves.webp
+  alt: Naves de ladrillo de Puig i Cadafalch en Caves Codorníu
+- src: /images/actividades/barcelona/penedes/vinedos-penedes-otono.webp
+  alt: Viñedos del Penedès en otoño
+- src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
+  alt: Monasterio de Montserrat al pie de las agujas de roca
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Vistas panorámicas de Montserrat con sus formaciones rocosas al atardecer
+- src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
+  alt: Edificio modernista de las cavas Codorníu bajo un cielo azul
 - src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
   alt: Galería subterránea de las cavas con botellas en rima
 - src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
   alt: Sala modernista de arcos en las bodegas
-- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Vistas panorámicas de Montserrat con sus formaciones rocosas al atardecer
-- src: https://imgcdn.bokun.tools/e72a1f87-eeb8-4c10-ac20-586cc64ea642.jpg
-  alt: Viajeros ante el monasterio de Montserrat
-- src: https://imgcdn.bokun.tools/d1c2a1e4-159e-47d7-81eb-8a398e318c0a.jpg
-  alt: Copa de vino rosado frente a los viñedos
-- src: https://imgcdn.bokun.tools/4b46f91f-506c-446e-ad4f-086db2daa56d.jpg
-  alt: Viajeros en la plaza de la basílica de Montserrat
 bokunProductId: 242957
 fecha_actualizacion: '2026-10-24'
 ---

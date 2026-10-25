@@ -67,22 +67,30 @@ keywords:
 - cerro del hierro hike
 - sierra norte seville day trip
 - huesna river source walk
-imagen: https://imgcdn.bokun.tools/b54475aa-d449-424f-923b-95bf3c52b0b5.jpeg
-imagenAlt: Rock formations of Cerro del Hierro
+imagen: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-karst.webp
+imagenAlt: Karst rock pinnacles at Cerro del Hierro among reddish earth and scrub
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-trinchera.webp
+  alt: White limestone walls and red earth of the old Cerro del Hierro mines
+- src: /images/actividades/sevilla/proveedor-949566/prov-cerro-hierro.webp
+  alt: Rock walls of Cerro del Hierro among greenery
+- src: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-roquedo.webp
+  alt: Grey rock formations at Cerro del Hierro with flowering broom in spring
+- src: /images/actividades/sevilla/proveedor-949566/prov-senderistas-rio.webp
+  alt: Hikers by a stream in the Sierra Norte of Seville
+- src: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-pasarela.webp
+  alt: Hikers on the wooden boardwalk of the Cerro del Hierro trail
+- src: /images/actividades/sevilla/proveedor-949566/prov-senderistas-camino.webp
+  alt: Group walking a trail in the Sierra Norte
+- src: https://imgcdn.bokun.tools/b54475aa-d449-424f-923b-95bf3c52b0b5.jpeg
+  alt: Rock formations of Cerro del Hierro
 - src: https://imgcdn.bokun.tools/c3a03c8e-b243-49b6-8a98-cb79fe0f5bf3.jpeg
   alt: Hikers among the rocks of Cerro del Hierro
 - src: https://imgcdn.bokun.tools/e89dc8e5-c520-406d-8a21-6162f466b94b.jpeg
   alt: Karst landscape of Cerro del Hierro
-- src: https://imgcdn.bokun.tools/f06e01b3-75ca-42e4-a622-87a42947c4a0.jpeg
-  alt: Group of hikers in the Sierra Norte
-- src: https://imgcdn.bokun.tools/e40644f0-b7be-4f6e-bdeb-6bcff513a8a6.jpeg
-  alt: Group resting in the woods
-- src: https://imgcdn.bokun.tools/eecf13ad-a5dd-4a1a-a870-c62b150ac470.jpeg
-  alt: Hikers in riverside woodland
 bokunProductId: 949566
 fecha_actualizacion: '2026-10-24'
 ---

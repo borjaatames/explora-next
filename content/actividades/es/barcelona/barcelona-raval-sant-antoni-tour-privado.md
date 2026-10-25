@@ -72,22 +72,26 @@ keywords:
 - tour privado raval sant antoni
 - barcelona como un local
 - arte urbano raval
-imagen: https://imgcdn.bokun.tools/6aceab87-6fb3-426b-a9e9-be16c85e2a03.jpg
-imagenAlt: Mural de arte urbano con bicicletas aparcadas delante en Barcelona
+imagen: /images/actividades/barcelona/raval/gato-botero-rambla-raval.webp
+imagenAlt: Escultura del gato de Botero en la Rambla del Raval
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/raval/macba-placa-angels.webp
+  alt: Edificio blanco del MACBA en la plaça dels Àngels
+- src: /images/actividades/barcelona/raval/rambla-del-raval.webp
+  alt: Rambla del Raval con palmeras vista desde el carrer de l'Hospital
+- src: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
+  alt: Fachada de hierro del Mercat de Sant Antoni
+- src: /images/actividades/barcelona/raval/mercat-sant-antoni-puestos.webp
+  alt: Puestos dentro del Mercat de Sant Antoni reformado
+- src: https://imgcdn.bokun.tools/6aceab87-6fb3-426b-a9e9-be16c85e2a03.jpg
+  alt: Mural de arte urbano con bicicletas aparcadas delante en Barcelona
 - src: https://imgcdn.bokun.tools/2ac27aca-12f3-406a-baf1-2448826f2fdc.jpg
   alt: Calle estrecha del casco antiguo con una ciclista
 - src: https://imgcdn.bokun.tools/3992067b-a428-48fb-ad6a-027050c6bbc5.jpg
   alt: Viajera con su guía ante un mercado de ladrillo rojo
-- src: https://imgcdn.bokun.tools/bfeacb58-20eb-45c6-b8f0-91f65e9c873c.jpg
-  alt: Grafiti del rostro de Dalí en una persiana metálica
-- src: https://imgcdn.bokun.tools/4c60722a-6e2f-4462-b425-94acdc4425f7.jpg
-  alt: Viajeros con bebidas y tapas en una terraza
-- src: https://imgcdn.bokun.tools/bd8cc797-56df-47cf-b2ed-48ba1c3d572d.jpg
-  alt: Aceitunas en un puesto de mercado
 bokunProductId: 217568
 fecha_actualizacion: '2026-10-24'
 ---

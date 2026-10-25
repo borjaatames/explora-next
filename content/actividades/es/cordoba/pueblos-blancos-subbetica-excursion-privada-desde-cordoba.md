@@ -68,16 +68,28 @@ keywords:
 - subbetica desde cordoba
 - excursion privada desde cordoba
 - pueblos de cordoba con guia
-imagen: https://imgcdn.bokun.tools/ffac9c5c-00cb-49f4-86ee-9871801787ed.jpeg
-imagenAlt: Calle encalada asomada al valle en un pueblo de la Subbética
+imagen: /images/actividades/cordoba/subbetica/priego-fuente-del-rey.webp
+imagenAlt: Fuente del Rey de Priego de Córdoba con su grupo escultórico central
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/79403472-95ca-4462-a144-9067f4b9f24d.jpeg
-  alt: Torre de un castillo sobre un paisaje de olivares
-- src: https://imgcdn.bokun.tools/8010df94-8539-41f5-a12b-839dcd5f0372.jpeg
-  alt: Calle blanca con macetas de flores
+- src: /images/actividades/cordoba/subbetica/priego-balcon-adarve.webp
+  alt: Balcón del Adarve de Priego de Córdoba con vistas a los olivares
+- src: /images/actividades/cordoba/proveedor-937837/prov-torre-olivar.webp
+  alt: Torre de un pueblo de la Subbética con olivares alrededor
+- src: /images/actividades/cordoba/subbetica/zuheros-castillo.webp
+  alt: Castillo de Zuheros sobre el caserío blanco, rodeado de olivares
+- src: /images/actividades/cordoba/proveedor-937837/prov-calle-macetas.webp
+  alt: Calle encalada con macetas de flores en la Subbética cordobesa
+- src: /images/actividades/cordoba/subbetica/iznajar-embalse.webp
+  alt: Iznájar en lo alto del cerro sobre las aguas del embalse
+- src: /images/actividades/cordoba/proveedor-937837/prov-mirador.webp
+  alt: Mirador sobre el valle en un pueblo blanco de la Subbética
+- src: /images/actividades/cordoba/proveedor-937837/prov-patio-flores.webp
+  alt: Fachada blanca cubierta de macetas en la Subbética
+- src: /images/actividades/cordoba/proveedor-937837/prov-zuheros.webp
+  alt: Zuheros y su castillo sobre la roca
 - src: https://imgcdn.bokun.tools/4e7a444d-75ed-45c5-be8e-6bf675343820.jpeg
   alt: Macetas azules con geranios en una pared encalada
 - src: https://imgcdn.bokun.tools/45b94e9f-2420-4e47-984c-eb991a68f572.jpeg

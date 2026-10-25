@@ -77,28 +77,28 @@ keywords:
 - visita bodega madrid
 - enoturismo madrid
 - tour vino madrid sumiller
-imagen: https://imgcdn.bokun.tools/52526394-3a35-4ee4-bbca-c28883bc8b1e.jpg
-imagenAlt: Copa de vino tinto sobre barricas en una bodega
+imagen: /images/actividades/madrid/vinos-madrid/vinedo-san-martin-valdeiglesias.webp
+imagenAlt: Viñedo de cepas viejas en San Martín de Valdeiglesias, con la sierra al fondo
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/vinos-madrid/vinas-olivos-colmenar-de-oreja.webp
+  alt: Campos de viñas y olivos en Colmenar de Oreja (Madrid)
+- src: /images/actividades/madrid/vinos-madrid/cata-vino-blanco.webp
+  alt: Servicio de vino blanco en una cata con varias copas sobre la mesa
+- src: /images/actividades/madrid/vinos-madrid/barricas-bodega.webp
+  alt: Barricas de roble apiladas en una bodega
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Copas de vino en la cata
+- src: https://imgcdn.bokun.tools/52526394-3a35-4ee4-bbca-c28883bc8b1e.jpg
+  alt: Copa de vino tinto sobre barricas en una bodega
 - src: https://imgcdn.bokun.tools/565f19a0-5a81-4322-9463-2ff4b45117d3.jpg
   alt: Visitantes recorriendo el viñedo
 - src: https://imgcdn.bokun.tools/094ba1f5-c5ef-4375-b6f9-23d3d02a10d2.jpg
   alt: Vino tinto sirviéndose en una copa junto a las barricas
-- src: https://imgcdn.bokun.tools/f9dd0720-c814-4f45-88e6-276d3e409b6a.jpg
-  alt: Grupo en la sala de barricas
-- src: https://imgcdn.bokun.tools/e288a964-371a-44d6-a709-af012805caff.jpg
-  alt: Mesa en el jardín de la bodega
-- src: https://imgcdn.bokun.tools/e4eb1edb-4737-414e-bbb4-e3fe704862e5.jpg
-  alt: Viñedo con la sierra al fondo
-- src: https://imgcdn.bokun.tools/139267b5-4566-4541-882b-41050c4e8d9a.jpg
-  alt: Tres visitantes brindando con vino
-- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
-  alt: Copas de vino en la cata
 bokunProductId: 824546
 fecha_actualizacion: '2026-10-24'
 ---

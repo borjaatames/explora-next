@@ -73,26 +73,32 @@ keywords:
 - catamaran party barcelona
 - hen party boat barcelona
 - barcelona boat with dj
-imagen: https://imgcdn.bokun.tools/a3b7e68f-7523-4f2e-beff-79804ea59b20.jpeg
-imagenAlt: Catamaran packed with people sailing off Barcelona
+imagen: /images/actividades/barcelona/proveedor-784025/prov-catamaran-cubierta.webp
+imagenAlt: Passengers on the catamaran deck sailing off Barcelona
 ratingProveedor: 4.9
 numeroOpiniones: 806
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/costa/catamaran-hotel-w.webp
+  alt: Catamaran sailing off the W hotel and the Barcelona coast
+- src: /images/actividades/barcelona/proveedor-784025/prov-fiesta-a-bordo.webp
+  alt: Party on board the catamaran with the sea behind
+- src: /images/actividades/barcelona/costa/barceloneta-anochecer.webp
+  alt: Barceloneta beach at dusk with the W hotel
+- src: /images/actividades/barcelona/costa/skyline-port-olimpic.webp
+  alt: Port Olímpic towers and Barcelona beach with calm sea
+- src: /images/actividades/barcelona/costa/frente-maritimo-atardecer.webp
+  alt: Barcelona seafront and Port Olímpic towers at sunset
+- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
+  alt: Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore
 - src: https://imgcdn.bokun.tools/59ed3ab1-dd6c-4db9-b63d-a3c9f4955deb.png
   alt: Party on deck with the W Hotel in the background
 - src: https://imgcdn.bokun.tools/657018cd-e273-48ac-aac5-76f626a63e28.png
   alt: Group posing on the boat with the sea behind
-- src: https://imgcdn.bokun.tools/99e7cabe-df46-4f66-969f-493761ea3ab7.jpeg
-  alt: People dancing on deck out at sea
 - src: https://imgcdn.bokun.tools/75901bdd-5a3d-4c91-ba4b-c37fc390f5e6.png
   alt: Dancing on the bunting-decked deck
-- src: https://imgcdn.bokun.tools/8a13efb2-ae77-4d3f-940b-53a262e5c5bd.jpeg
-  alt: DJ playing on board
-- src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp
-  alt: Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore
 bokunProductId: 784025
 fecha_actualizacion: '2026-10-24'
 ---

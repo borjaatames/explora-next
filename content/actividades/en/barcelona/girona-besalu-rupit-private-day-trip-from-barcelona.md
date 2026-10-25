@@ -71,26 +71,28 @@ keywords:
 - medieval villages catalonia tour
 - private girona tour from barcelona
 - girona besalu private day trip
-imagen: https://imgcdn.bokun.tools/71fd56f7-b30d-42b3-b9bb-13fa8ce0bf51.jpg
-imagenAlt: Besalú's Romanesque bridge over the river with the medieval town behind
+imagen: /images/actividades/barcelona/girona/girona-casas-onyar.webp
+imagenAlt: Colourful houses on the Onyar River with Girona Cathedral behind
 ratingProveedor: 4.6
 numeroOpiniones: 20
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/girona/besalu-puente.webp
+  alt: Medieval bridge of Besalú over the Fluvià river
+- src: /images/actividades/barcelona/girona/rupit-puente-colgante.webp
+  alt: Rupit suspension bridge over the stream next to stone houses
+- src: /images/actividades/barcelona/girona/rupit-panoramica.webp
+  alt: View of the medieval village of Rupit on its rock
 - src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
   alt: Red bridge and colourful houses over the River Onyar in Girona
+- src: https://imgcdn.bokun.tools/71fd56f7-b30d-42b3-b9bb-13fa8ce0bf51.jpg
+  alt: Besalú's Romanesque bridge over the river with the medieval town behind
 - src: https://imgcdn.bokun.tools/4e0eae7a-331f-412f-a5cf-c9b43bcf7325.jpg
   alt: Traveller looking over Besalú from the walls
 - src: https://imgcdn.bokun.tools/fb99bf49-e0f8-4e2f-932b-a17adf17a512.jpg
   alt: Travellers crossing Rupit's hanging bridge
-- src: https://imgcdn.bokun.tools/6958c7c9-b414-4502-a02f-5ed52c61c13e.jpg
-  alt: Stone staircase and buildings in a medieval town
-- src: https://imgcdn.bokun.tools/87fdd446-d351-4b6b-a525-d516d20c00ba.jpg
-  alt: Medieval square with café terraces in a Girona town
-- src: https://imgcdn.bokun.tools/36dc0e43-6c4e-4387-b864-eca532d12202.jpg
-  alt: Steps of Girona Cathedral
 bokunProductId: 217559
 fecha_actualizacion: '2026-10-24'
 ---

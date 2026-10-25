@@ -66,24 +66,26 @@ keywords:
 - tour tapas jerez
 - tour vino jerez privado
 - tapas y vino jerez con guia
-imagen: https://imgcdn.bokun.tools/4ac425b5-bc4c-4e4a-96ce-774ee28a98e9.jpeg
-imagenAlt: Tapas y copas de vino en la barra de un tabanco
+imagen: /images/actividades/jerez/tabancos/tabanco-la-pandilla.webp
+imagenAlt: Barra de madera y techo de vigas del Tabanco La Pandilla en Jerez de la Frontera
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/jerez/tabancos/tabanco-arco-ladrillo.webp
+  alt: Interior de un tabanco de Jerez con arco de ladrillo, azulejos y mesas
+- src: /images/actividades/jerez/tabancos/tabanco-bota-firmada.webp
+  alt: Bota de vino de Jerez firmada en un tabanco lleno de clientes
+- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
+  alt: Bota de jerez abierta que muestra el velo de flor sobre el vino
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
+  alt: Casco histórico de Jerez de la Frontera
+- src: https://imgcdn.bokun.tools/4ac425b5-bc4c-4e4a-96ce-774ee28a98e9.jpeg
+  alt: Tapas y copas de vino en la barra de un tabanco
 - src: https://imgcdn.bokun.tools/273d5069-9e5d-4f42-aa67-320018b5e1d5.jpeg
   alt: Copa de vino de Jerez sobre la barra
 - src: https://imgcdn.bokun.tools/3344c90b-943b-40a5-ac73-7d76daf665d1.jpeg
   alt: Botas pintadas de un tabanco tras la barra
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Casco histórico de Jerez de la Frontera
-- src: https://imgcdn.bokun.tools/3c462845-eec0-4a81-9f6b-a091320c0afe.jpeg
-  alt: Brindis con copas de vino de Jerez
-- src: https://imgcdn.bokun.tools/5e760ed8-3c00-4613-8d88-d4f17f1bbef1.jpeg
-  alt: Vino de Jerez servido junto a una tapa
-- src: https://imgcdn.bokun.tools/8075e05c-23ee-48fc-8037-0c94eda04b67.jpeg
-  alt: Tejados y torres del centro de Jerez
 bokunProductId: 949542
 fecha_actualizacion: '2026-10-24'
 ---

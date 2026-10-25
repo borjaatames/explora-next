@@ -77,26 +77,26 @@ keywords:
 - flamenco and dinner barcelona
 - gothic quarter tapas tour
 - flamenco night barcelona
-imagen: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
-imagenAlt: Flamenco dancer in a red dress beside the guitarist in a tablao
+imagen: /images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp
+imagenAlt: Flamenco dancers in red and black dresses on stage
 ratingProveedor: 4.6
 numeroOpiniones: 106
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: Flamenco dancer in a red dress with guitarists in a tablao
+- src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
+  alt: Pintxos on bread on a bar counter
+- src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+  alt: Row of red wine glasses on a table
+- src: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
+  alt: Flamenco dancer in a red dress beside the guitarist in a tablao
 - src: https://imgcdn.bokun.tools/8309b092-5eba-4290-aa32-4e297e5dd854.jpg
   alt: Flamenco show in a stone hall with arches
 - src: https://imgcdn.bokun.tools/e9f0cdfb-0ed3-43a7-8520-27462fa72090.jpg
   alt: Travellers toasting over tapas in the restaurant
-- src: https://imgcdn.bokun.tools/15c0fb57-651d-4dbd-8f1f-f2122e1bd86e.jpg
-  alt: A palace courtyard lit up at night
-- src: https://imgcdn.bokun.tools/267cc52f-370b-43a7-ab33-fb2537e2ebe6.jpg
-  alt: Flamenco singer mid-performance
-- src: https://imgcdn.bokun.tools/3ff37b95-901c-4590-8cc9-70c316101424.jpg
-  alt: Tour group in a Gothic Quarter street
-- src: https://imgcdn.bokun.tools/bd6d48cc-617c-4593-88c4-986029e0b6ad.jpg
-  alt: Dancer and guitarist during the show
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
 ---

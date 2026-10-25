@@ -79,26 +79,34 @@ keywords:
 - food tour barcelona
 - ruta de tapas gotico barcelona
 - tour gastronomico barcelona
-imagen: https://imgcdn.bokun.tools/38c8ec68-da95-4a56-bd77-1736cbd89c84.jpeg
-imagenAlt: Paella en la mesa durante el tour de tapas
+imagen: /images/actividades/barcelona/proveedor-1229843/prov-paella.webp
+imagenAlt: Paella de marisco servida en el tour
 ratingProveedor: 5.0
 numeroOpiniones: 30
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/gastronomia/paella-sarten.webp
+  alt: Paella de marisco en su paellera
+- src: /images/actividades/barcelona/proveedor-1229843/prov-pinchos-barra.webp
+  alt: Pinchos sobre la barra de un bar de tapas
+- src: /images/actividades/barcelona/gotico/placa-reial.webp
+  alt: Plaça Reial con palmeras y soportales en el Barrio Gótico
+- src: /images/actividades/barcelona/proveedor-1229843/prov-barra-bar.webp
+  alt: Barra de un bar de tapas del casco antiguo
+- src: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+  alt: Tapas y copas de vino sobre una mesa
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: Vasos de sangría con naranja y frutos rojos
+- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
+  alt: Arco gótico y farola en el Barrio Gótico
 - src: https://imgcdn.bokun.tools/66640c22-c394-4903-bc31-2631d8c50408.jpeg
   alt: Grupo brindando en un bar de tapas
 - src: https://imgcdn.bokun.tools/2d02c0fe-f250-41c2-8fed-85d10d55ea5d.png
   alt: Tabla de embutidos y quesos con tapas
 - src: https://imgcdn.bokun.tools/69b97f30-deba-461a-a8fc-f76c20529049.jpeg
   alt: Platos de tapas para compartir
-- src: https://imgcdn.bokun.tools/174777a6-4d2e-4d73-8b1d-fbb2aa354bed.jpeg
-  alt: Pareja comiendo tapas en un restaurante
-- src: https://imgcdn.bokun.tools/38e22b35-c770-43ac-a887-135e795e8428.jpeg
-  alt: Barra de un bar de tapas
-- src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
-  alt: Arco gótico y farola en el Barrio Gótico
 bokunProductId: 1229843
 fecha_actualizacion: '2026-10-24'
 ---

@@ -66,24 +66,26 @@ keywords:
 - curso cocina andaluza sevilla
 - clase de cocina privada sevilla
 - cocina tradicional andaluza taller
-imagen: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
-imagenAlt: Participantes preparando platos en la clase de cocina
+imagen: /images/actividades/sevilla/cocina-andaluza/salmorejo-jamon.webp
+imagenAlt: Cuenco de salmorejo con virutas de jamón sobre una mesa de madera
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
+  alt: Vasitos de gazpacho servidos como aperitivo
+- src: /images/actividades/sevilla/cocina-andaluza/patio-santa-cruz.webp
+  alt: Patio sevillano del barrio de Santa Cruz con fuente de azulejos y macetas con flores
+- src: /images/actividades/sevilla/cocina-andaluza/patio-regionalista.webp
+  alt: Patio sevillano de estilo regionalista con arcos, galerías y plantas
+- src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
+  alt: Puesto de frutas y verduras en un mercado de Sevilla
+- src: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
+  alt: Participantes preparando platos en la clase de cocina
 - src: https://imgcdn.bokun.tools/b9536ef1-f214-4d5e-90c7-5f5f1b7adf93.jpg
   alt: Grupo en un mercado de abastos
 - src: https://imgcdn.bokun.tools/00a38fb3-24ee-443a-86d0-d6ebba4f8592.jpg
   alt: Alumnos cocinando con gorro de cocina
-- src: https://imgcdn.bokun.tools/5e2c50d2-368f-45ca-8fd7-76c26135444b.jpg
-  alt: Cocinero preparando un plato
-- src: https://imgcdn.bokun.tools/bd40d697-afa1-4f9a-a589-9450e32b0b6c.jpg
-  alt: Alumnos y cocinero en la cocina de la casa
-- src: https://imgcdn.bokun.tools/d71827ee-d7ba-424c-9c6a-481285bf662a.jpg
-  alt: Mesa puesta para comer lo cocinado
-- src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
-  alt: Puesto de frutas y verduras en un mercado de Sevilla
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
 ---

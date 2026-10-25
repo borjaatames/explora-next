@@ -74,22 +74,22 @@ keywords:
 - rio tinto day trip seville
 - rio tinto mars landscape tour
 - private rio tinto tour
-imagen: https://imgcdn.bokun.tools/3a7087ef-a6fd-48cd-b667-661eea61f2a4.jpg
-imagenAlt: Ochre banks and reddish water of the Río Tinto
+imagen: /images/actividades/sevilla/riotinto/riotinto-corta-atalaya.webp
+imagenAlt: Corta Atalaya open-pit mine in Minas de Riotinto, with ochre terraces and a lake at the bottom
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/sevilla/riotinto/riotinto-rio-tinto-rojo.webp
+  alt: Red waters of the Tinto River between pine-covered hills near El Campillo
+- src: /images/actividades/sevilla/riotinto/riotinto-tren-minero.webp
+  alt: Tourist mining train running alongside the Tinto River
+- src: https://imgcdn.bokun.tools/3a7087ef-a6fd-48cd-b667-661eea61f2a4.jpg
+  alt: Ochre banks and reddish water of the Río Tinto
 - src: https://imgcdn.bokun.tools/ca289211-0c1d-4b3f-9ed2-a32ffeafb152.jpg
   alt: Red and ochre waters of the Río Tinto
 - src: https://imgcdn.bokun.tools/ce1a3953-46df-4eb2-b635-65c0fc1ca972.jpg
   alt: Travellers by the reddish water of the Río Tinto
-- src: https://imgcdn.bokun.tools/0e5b77c9-a903-4780-ad03-f839dab09941.jpg
-  alt: Pool of reddish water in the mining landscape
-- src: https://imgcdn.bokun.tools/b2286f43-034d-4821-b972-117dbd11f385.jpg
-  alt: Mine headframe among the vegetation
-- src: https://imgcdn.bokun.tools/3bcca443-a126-4ba5-abc6-156c331a5e43.jpg
-  alt: Red earth in the mining area
 bokunProductId: 933463
 fecha_actualizacion: '2026-10-24'
 ---

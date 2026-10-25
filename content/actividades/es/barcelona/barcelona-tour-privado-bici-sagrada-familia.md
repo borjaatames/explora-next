@@ -87,18 +87,18 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
+  alt: Ciclistas en el paseo de Lluís Companys junto al Arco de Triunfo
+- src: /images/actividades/barcelona/bici/bici-calle-casco-antiguo.webp
+  alt: Bicicleta apoyada junto a una puerta de madera en una calle antigua
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo
 - src: https://imgcdn.bokun.tools/97a8553e-7bfd-4b71-8b0d-4e6c4d4e28dd.jpg
   alt: Grupo en bici frente a la Sagrada Familia
 - src: https://imgcdn.bokun.tools/fd52ffa2-a030-45a5-8071-b84b7e7fbc7a.jpg
   alt: Familia en bici junto a la Sagrada Familia
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
   alt: Ciclistas junto a una fuente en un parque
-- src: https://imgcdn.bokun.tools/6b956d2e-a92c-4532-b9d2-e067b346a348.jpg
-  alt: Grupo en bici ante el Arco de Triunfo
-- src: https://imgcdn.bokun.tools/e758ea9d-dff1-4c14-b12f-a0aaf1ecc3ba.jpg
-  alt: Grupo pedaleando por una calle de Barcelona
-- src: https://imgcdn.bokun.tools/267d79a2-59ec-4b45-a869-e9ede9bf07a5.jpg
-  alt: Ciclistas entre los árboles con la Sagrada Familia al fondo
 bokunProductId: 217567
 fecha_actualizacion: '2026-10-24'
 ---

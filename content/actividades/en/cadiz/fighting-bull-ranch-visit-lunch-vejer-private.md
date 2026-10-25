@@ -76,20 +76,22 @@ keywords:
 - vejer de la frontera day trip
 - la janda bull ranch
 - private day trip cadiz countryside
-imagen: https://imgcdn.bokun.tools/1c1f613f-b22f-4f61-acab-8109c9f87390.jpeg
-imagenAlt: Fighting bulls under the holm oaks of the dehesa
+imagen: /images/actividades/cadiz/vejer-toros/toros-bravos-dehesa.webp
+imagenAlt: Fighting bulls grazing in a green dehesa with holm oaks
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/cadiz/vejer-toros/vejer-pueblo-blanco.webp
+  alt: White houses of Vejer de la Frontera under a cloudy sky
+- src: /images/actividades/cadiz/vejer-toros/vejer-campina-la-janda.webp
+  alt: Green countryside of La Janda seen from Vejer de la Frontera
+- src: https://imgcdn.bokun.tools/1c1f613f-b22f-4f61-acab-8109c9f87390.jpeg
+  alt: Fighting bulls under the holm oaks of the dehesa
 - src: https://imgcdn.bokun.tools/c9343872-e9aa-4713-a534-058088e7eb6f.jpeg
   alt: A herd of bulls on a track across the ranch
 - src: https://imgcdn.bokun.tools/ec3dc5b3-5dc5-46d4-abf1-ae162f1be50f.jpeg
   alt: A fighting bull in the field near a wind turbine
-- src: https://imgcdn.bokun.tools/b0adc513-8953-474e-b68c-e7c9a427aaef.jpeg
-  alt: A cape demonstration for visitors at the ranch
-- src: https://imgcdn.bokun.tools/8d1da87c-5826-4c4c-a1cd-387d01634712.jpeg
-  alt: White hilltop village with flowers in the foreground
 bokunProductId: 949572
 fecha_actualizacion: '2026-10-24'
 ---

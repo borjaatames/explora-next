@@ -70,24 +70,32 @@ keywords:
 - barcelona cycling tour
 - barcelona bike tour english
 - barcelona tapas bike tour
-imagen: https://imgcdn.bokun.tools/ea1d5d78-fa6a-4bb4-87e8-c246b0f658f2.jpeg
+imagen: /images/actividades/barcelona/proveedor-1229823/prov-bici-calle.webp
 imagenAlt: Group cycling along a Barcelona street
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/79275470-bc0a-4344-aa21-0160e40f3b43.png
-  alt: Gothic facade of Barcelona Cathedral
-- src: https://imgcdn.bokun.tools/2d422d8a-575b-40ba-ab36-cdb4f2620d09.jpeg
-  alt: Plates of tapas to share
-- src: https://imgcdn.bokun.tools/d3c918e0-c64f-452b-ade0-f6e6c7395e31.jpeg
-  alt: Group with bikes in an old-town square
-- src: https://imgcdn.bokun.tools/b65eb0b9-d574-43f5-9411-14705d932edc.jpeg
-  alt: Couple eating tapas
-- src: https://imgcdn.bokun.tools/2c348fa2-ee28-4769-9777-f58e336e909e.jpeg
-  alt: Cyclists on a Barcelona street
+- src: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
+  alt: Cyclists on Passeig de Lluís Companys by the Arc de Triomf
+- src: /images/actividades/barcelona/proveedor-1229823/prov-tapas-mesa.webp
+  alt: Tapas stop with paella during the bike tour
+- src: /images/actividades/barcelona/costa/playa-barceloneta-hotel-w.webp
+  alt: Barceloneta beach with the W hotel in the background
+- src: /images/actividades/barcelona/proveedor-1229823/prov-tapas-jamon.webp
+  alt: Board of ham and pa amb tomàquet
+- src: /images/actividades/barcelona/costa/parc-ciutadella-cascada.webp
+  alt: Monumental waterfall in Parc de la Ciutadella
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: Table with assorted tapas, ham and drinks
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero-hero.webp
   alt: Orange bicycle leaning against a wall in Barcelona's Gothic Quarter
+- src: https://imgcdn.bokun.tools/ea1d5d78-fa6a-4bb4-87e8-c246b0f658f2.jpeg
+  alt: Group cycling along a Barcelona street
+- src: https://imgcdn.bokun.tools/79275470-bc0a-4344-aa21-0160e40f3b43.png
+  alt: Gothic facade of Barcelona Cathedral
+- src: https://imgcdn.bokun.tools/d3c918e0-c64f-452b-ade0-f6e6c7395e31.jpeg
+  alt: Group with bikes in an old-town square
 bokunProductId: 1229823
 fecha_actualizacion: '2026-10-24'
 ---

@@ -77,26 +77,28 @@ keywords:
 - spanish wine tasting barcelona
 - wine tasting eixample
 - barcelona afternoon wine
-imagen: https://imgcdn.bokun.tools/b36af493-cd57-439f-b892-3fba3a6292ed.jpg
-imagenAlt: Group toasting with wine on a Barcelona rooftop
+imagen: /images/actividades/barcelona/vino/copas-vino-mesa.webp
+imagenAlt: Wine glasses served on a table at a tasting
 ratingProveedor: 4.9
 numeroOpiniones: 91
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Barcelona rooftops at sunset with the Sagrada Família and Tibidabo
+- src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+  alt: Row of red wine glasses on a table
+- src: /images/actividades/barcelona/vistas/eixample-desde-arriba.webp
+  alt: Eixample blocks of Barcelona seen from above
+- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
+  alt: Plaça de Catalunya from above
+- src: https://imgcdn.bokun.tools/b36af493-cd57-439f-b892-3fba3a6292ed.jpg
+  alt: Group toasting with wine on a Barcelona rooftop
 - src: https://imgcdn.bokun.tools/e34153fe-02dc-4c50-9564-34b9e0f33ba5.jpg
   alt: Three friends with wine glasses on a rooftop, a bell tower behind
 - src: https://imgcdn.bokun.tools/6d768e6e-35b8-44ff-99d2-00742f4b2aa7.jpg
   alt: Toast with glasses of white wine
-- src: https://imgcdn.bokun.tools/e5b4547a-7efb-4ce4-afb0-3329bcc432dc.jpg
-  alt: Red wine toast in the open air
-- src: https://imgcdn.bokun.tools/a8415c80-aec4-4e29-b1bb-67288b88a5dd.jpg
-  alt: Group seated at the table during the tasting
-- src: https://imgcdn.bokun.tools/b671f3b7-39ae-40ee-a9c3-fabbe617abd2.jpg
-  alt: Tasting table with red wine and friends
-- src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
-  alt: Plaça de Catalunya from above
 bokunProductId: 886825
 fecha_actualizacion: '2026-10-24'
 ---

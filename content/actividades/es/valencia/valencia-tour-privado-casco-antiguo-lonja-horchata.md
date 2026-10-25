@@ -68,26 +68,28 @@ keywords:
 - lonja de la seda visita guiada
 - tour valencia horchata
 - guia privado valencia
-imagen: https://imgcdn.bokun.tools/db0a411f-c74a-469e-945a-8783a0a7282b.jpg
-imagenAlt: Las Torres de Serranos, antigua puerta de la muralla de Valencia
+imagen: /images/actividades/valencia/lonja-horchata/lonja-fachada.webp
+imagenAlt: Fachada gótica de la Lonja de la Seda de Valencia
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/lonja-horchata/lonja-columnas.webp
+  alt: Columnas helicoidales y bóvedas de la sala de contratación de la Lonja
+- src: /images/actividades/valencia/lonja-horchata/horchata-farton.webp
+  alt: Vasos de horchata con fartón en una horchatería valenciana
+- src: /images/actividades/valencia/lonja-horchata/fartons-mostrador.webp
+  alt: Mostrador de fartons y ensaimadas en la horchatería de Santa Catalina
+- src: /images/actividades/valencia/centro/mercado-central-interior.webp
+  alt: Interior modernista del Mercado Central
+- src: /images/actividades/valencia/centro/lonja-naranjos.webp
+  alt: Patio de los naranjos de la Lonja
+- src: https://imgcdn.bokun.tools/db0a411f-c74a-469e-945a-8783a0a7282b.jpg
+  alt: Las Torres de Serranos, antigua puerta de la muralla de Valencia
 - src: https://imgcdn.bokun.tools/a7410381-c1ed-4f02-a910-05989a531303.jpg
   alt: Sala de columnas helicoidales de la Lonja de la Seda
 - src: https://imgcdn.bokun.tools/4d616d23-91ad-40eb-a672-e0bdaa3eac3c.jpg
   alt: Horchata con fartón en una horchatería
-- src: /images/actividades/valencia/centro/mercado-central-interior.webp
-  alt: Interior modernista del Mercado Central
-- src: https://imgcdn.bokun.tools/a394f104-16c6-4a75-8158-ebce649bda52.jpg
-  alt: Viajeros con su guía en la plaza de la Virgen
-- src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: Patio de los naranjos de la Lonja
-- src: https://imgcdn.bokun.tools/9accb1fe-f21a-4571-b47d-2e5cc50cdf0e.jpg
-  alt: Fachada barroca del palacio del Marqués de Dos Aguas
-- src: https://imgcdn.bokun.tools/e23aac9e-1188-4a8a-9d0d-cf10f762da9e.jpg
-  alt: El Mercado Central de Valencia al atardecer
 bokunProductId: 837004
 fecha_actualizacion: '2026-10-24'
 ---

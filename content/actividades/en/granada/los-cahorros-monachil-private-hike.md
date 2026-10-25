@@ -76,22 +76,24 @@ keywords:
 - hiking granada guide
 - cahorros suspension bridges
 - private cahorros hike
-imagen: https://imgcdn.bokun.tools/68adbb47-d1c9-4141-acef-73c562139347.jpg
-imagenAlt: Suspension bridge between the rock walls of Los Cahorros
+imagen: /images/actividades/granada/cahorros/cahorros-puente-colgante.webp
+imagenAlt: Los Cahorros suspension bridge over the Monachil river gorge
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/granada/cahorros/cahorros-tunel-rio.webp
+  alt: Path under the rock beside the Monachil river in Los Cahorros
+- src: /images/actividades/granada/cahorros/cahorros-puente-vertical.webp
+  alt: Walkway of the Los Cahorros suspension bridge among greenery
+- src: /images/actividades/granada/cahorros/cahorros-desfiladero.webp
+  alt: Limestone walls of the Los Cahorros gorge in Monachil
+- src: https://imgcdn.bokun.tools/68adbb47-d1c9-4141-acef-73c562139347.jpg
+  alt: Suspension bridge between the rock walls of Los Cahorros
 - src: https://imgcdn.bokun.tools/279469c5-fe60-406a-8d4c-78b99e932c7f.jpg
   alt: Group crossing a suspension bridge
 - src: https://imgcdn.bokun.tools/cfca74ad-d23f-4286-bbd5-3cc9ab91c65a.jpg
   alt: Metal walkway in the gorge
-- src: https://imgcdn.bokun.tools/ff73ef71-e173-4d76-a356-92dd8187acd5.jpg
-  alt: Hikers beneath a rock overhang
-- src: https://imgcdn.bokun.tools/3833a4cc-427f-4c66-aec3-7ba0bb1a3d75.jpg
-  alt: Group of hikers before the limestone walls
-- src: https://imgcdn.bokun.tools/2ab0f4e5-352b-47cb-abab-b37f27df3f52.jpg
-  alt: Hikers on the trail
 bokunProductId: 860680
 fecha_actualizacion: '2026-10-24'
 ---

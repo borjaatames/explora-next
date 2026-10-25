@@ -72,22 +72,28 @@ keywords:
 - barcelona night out
 - barcelona club entry
 - barcelona party tour
-imagen: https://imgcdn.bokun.tools/e8ce897e-4f70-4418-8295-274eed1e5996.png
-imagenAlt: Woman singing at a karaoke bar in Barcelona
+imagen: /images/actividades/barcelona/proveedor-1229842/prov-karaoke.webp
+imagenAlt: Karaoke in a Barcelona bar
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/noche/terraza-portal-de-la-pau-noche.webp
+  alt: Night-time bar terrace on Plaça del Portal de la Pau
+- src: /images/actividades/barcelona/proveedor-1229842/prov-juego-bar.webp
+  alt: Group game in a bar during the night out
+- src: /images/actividades/barcelona/noche/microfono-karaoke.webp
+  alt: Microphone on a stand under coloured lights
+- src: /images/actividades/barcelona/noche/copas-bar-noche.webp
+  alt: Cocktails on a bar counter
+- src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
+  alt: Barcelona lit up at night with Torre Glòries
 - src: https://imgcdn.bokun.tools/5807ec88-2b59-4265-9d57-91a42cd93f52.png
   alt: Two women with shots at a bar
-- src: https://imgcdn.bokun.tools/144dd10e-8ccc-4259-b428-d6da4847241b.png
-  alt: Group playing a drinking game at a table
 - src: https://imgcdn.bokun.tools/587453c8-2960-4920-8d03-da7fe9d17880.png
   alt: Block-tower game in a bar
 - src: https://imgcdn.bokun.tools/3f773373-177e-446a-ad64-06479b2f3d0f.png
   alt: Group of women posing in a bar
-- src: https://imgcdn.bokun.tools/7ef7f5cc-3ed8-4d21-9b69-6f53264f401a.png
-  alt: Packed bar during the night out
 bokunProductId: 1229842
 fecha_actualizacion: '2026-10-24'
 ---

@@ -71,24 +71,30 @@ keywords:
 - cata aceite antequera
 - antequera privado
 - tour aceite de oliva malaga
-imagen: https://imgcdn.bokun.tools/63381cef-d9a8-4266-b490-51abcf38e89c.jpeg
-imagenAlt: Vista de Antequera con la alcazaba y la Peña de los Enamorados al fondo
+imagen: /images/actividades/malaga/antequera/antequera-pena-enamorados-olivar.webp
+imagenAlt: Olivar al pie de la Peña de los Enamorados, en la vega de Antequera
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/b3167ac5-dddc-44c4-8120-dcfbc9c50e06.jpeg
-  alt: Murallas de la alcazaba de Antequera con un árbol en flor y la Peña de los Enamorados
-- src: https://imgcdn.bokun.tools/fc01c14c-6452-42a8-9f6d-9ba096155115.jpeg
-  alt: Cata de aceite de oliva en vasos
+- src: /images/actividades/malaga/antequera/antequera-alcazaba.webp
+  alt: Alcazaba de Antequera sobre la ciudad con la Peña de los Enamorados al fondo
+- src: /images/actividades/malaga/proveedor-936409/prov-alcazaba-pena.webp
+  alt: Murallas de la Alcazaba de Antequera con la Peña de los Enamorados detrás
+- src: /images/actividades/malaga/antequera/antequera-colegiata.webp
+  alt: Fachada renacentista de la Real Colegiata de Santa María la Mayor de Antequera
+- src: /images/actividades/malaga/proveedor-936409/prov-antequera-vista.webp
+  alt: Vista de Antequera con la Alcazaba y la Colegiata
+- src: /images/actividades/malaga/antequera/antequera-dolmen-menga.webp
+  alt: La Peña de los Enamorados vista desde el interior del Dolmen de Menga
+- src: /images/actividades/malaga/proveedor-936409/prov-cata-aceite.webp
+  alt: Cata de aceite de oliva en la almazara
 - src: https://imgcdn.bokun.tools/7f6225d7-a5f7-44ab-b5e0-32a063d7bed2.jpeg
   alt: Olivar al atardecer
 - src: https://imgcdn.bokun.tools/70a8a117-91f4-4601-8610-f997dad86aa0.jpeg
   alt: Mesa de cata con aceites, tomates y verduras
 - src: https://imgcdn.bokun.tools/54eb7c5e-c8cd-4e5b-b9cb-2742c19d52c1.jpeg
   alt: Aceite de oliva sobre pan
-- src: https://imgcdn.bokun.tools/0d41a60f-6725-4d35-8309-725fdf97923a.jpeg
-  alt: Cortijo blanco entre campos verdes en la comarca de Antequera
 bokunProductId: 936409
 fecha_actualizacion: '2026-10-24'
 ---

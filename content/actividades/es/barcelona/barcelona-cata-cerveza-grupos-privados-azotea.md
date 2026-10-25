@@ -67,22 +67,28 @@ keywords:
 - cata cerveza azotea barcelona
 - team building barcelona cerveza
 - cerveza artesana barcelona
-imagen: https://imgcdn.bokun.tools/2fb1bfdb-0bf9-418e-af55-3fa8a6394051.jpeg
-imagenAlt: Grupo relajándose con cervezas en una azotea de Barcelona
+imagen: /images/actividades/barcelona/proveedor-872250/prov-azotea-cata-cerveza.webp
+imagenAlt: Grupo en la azotea durante la cata de cerveza artesana en Barcelona
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/cerveza/cata-cerveza-cuatro-vasos.webp
+  alt: Cuatro cervezas artesanas en fila sobre una mesa de madera
+- src: /images/actividades/barcelona/proveedor-872250/prov-azotea-guia.webp
+  alt: El guía de la cata en la azotea, con tejados de Barcelona al fondo
+- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
+  alt: Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo
+- src: /images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp
+  alt: Tejados y campanarios de Ciutat Vella vistos desde una azotea
+- src: /images/actividades/barcelona/cerveza/grifos-cerveza-bar.webp
+  alt: Barra de cervecería con muchos grifos de cerveza artesana
 - src: https://imgcdn.bokun.tools/ae2cea61-085e-4558-9029-454023edaa61.jpeg
   alt: Chico sonriente con botellas de cerveza
 - src: https://imgcdn.bokun.tools/2e3fcfb5-1bd4-4794-9994-3cabcc3c25bb.jpeg
   alt: Brindis con dos copas de cerveza
 - src: https://imgcdn.bokun.tools/89d9c602-9ed4-4905-8f41-dd8757f5f041.jpeg
   alt: Dos amigas con cerveza en la azotea
-- src: https://imgcdn.bokun.tools/86484054-7d7d-4234-a276-6855a4548ed5.jpeg
-  alt: Azotea con el campanario de una iglesia al fondo
-- src: https://imgcdn.bokun.tools/de838d20-4549-43ad-a380-3ef93d246370.jpeg
-  alt: Dos amigos brindando con cerveza
 bokunProductId: 872250
 fecha_actualizacion: '2026-10-24'
 ---

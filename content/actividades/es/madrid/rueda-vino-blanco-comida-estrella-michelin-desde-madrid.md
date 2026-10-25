@@ -77,26 +77,28 @@ keywords:
 - verdejo rueda tour
 - tour vino blanco madrid
 - rueda estrella michelin
-imagen: https://imgcdn.bokun.tools/d2eabbdd-6943-41c1-9c8d-3cc16439200f.jpg
-imagenAlt: Viñas de Rueda bajo un cielo con nubes
+imagen: /images/actividades/madrid/rueda/vinedo-la-seca.webp
+imagenAlt: Viñedo de la DO Rueda en La Seca, con su suelo de canto rodado
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/madrid/rueda/copa-blanco-gambas.webp
+  alt: Copa de vino blanco con una tapa de gambas en una barra con azulejos
+- src: /images/actividades/madrid/rueda/copas-rueda-jamon.webp
+  alt: Copas de vino blanco de Rueda con jamón y pan
+- src: /images/actividades/madrid/rueda/cata-vino-blanco.webp
+  alt: Servicio de vino blanco en una cata con varias copas sobre la mesa
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: Copas de vino en la cata
+- src: https://imgcdn.bokun.tools/d2eabbdd-6943-41c1-9c8d-3cc16439200f.jpg
+  alt: Viñas de Rueda bajo un cielo con nubes
 - src: https://imgcdn.bokun.tools/430497ed-7f6f-4cd6-bfca-1b6cc87fd51c.jpg
   alt: Damajuanas de cristal al sol en una bodega de Rueda
 - src: https://imgcdn.bokun.tools/b4d6259b-c0ea-4126-a533-7e1943bf4d12.jpg
   alt: Galería subterránea de una bodega
-- src: https://imgcdn.bokun.tools/162690e4-8e39-411c-95ca-3ab3da2d6b8c.jpg
-  alt: Barrica con fondo de cristal que deja ver el vino
-- src: https://imgcdn.bokun.tools/444d968d-02da-4360-bd0f-af897bb8fe5d.jpg
-  alt: Hojas de vid al sol
-- src: https://imgcdn.bokun.tools/2b92c26f-3ebc-4374-877e-289e076c2da9.jpg
-  alt: Escalera de piedra que baja a la bodega
-- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
-  alt: Copas de vino en la cata
 bokunProductId: 874269
 fecha_actualizacion: '2026-10-24'
 ---
